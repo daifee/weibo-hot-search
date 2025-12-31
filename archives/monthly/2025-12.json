@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1767163439631,
+  "endTime": 1767164253033,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -13355,6 +13355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 439059,
+      "num": 161220,
+      "word": "邓超帅成这样孙俪负全责",
+      "onboard_time": 1767162201,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 438654,
       "num": 438654,
       "word": "王楚钦说被打1比11很正常",
@@ -19107,6 +19115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 331688,
+      "num": 331688,
+      "word": "九重天",
+      "onboard_time": 1767162739,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331625,
       "num": 331625,
       "word": "双轨北美播出",
@@ -20041,6 +20057,14 @@
       "onboard_time": 1765159400,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318757,
+      "num": 318757,
+      "word": "台独斩杀线",
+      "onboard_time": 1767161599,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 318630,
@@ -22312,14 +22336,6 @@
       "word": "25岁的叔33岁的侄子",
       "onboard_time": 1766383520,
       "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 287138,
-      "num": 125294,
-      "word": "邓超帅成这样孙俪负全责",
-      "onboard_time": 1767162201,
-      "rank": 24,
       "category": "综艺"
     },
     {
@@ -24955,6 +24971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257292,
+      "num": 804746,
+      "word": "李在明访华团队阵容公开",
+      "onboard_time": 1767162201,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 257154,
       "num": 242866,
       "word": "女子中532万后选择每周领5000",
@@ -25945,6 +25969,14 @@
       "onboard_time": 1765606580,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 246540,
+      "num": 246540,
+      "word": "印度和乌克兰吵起来了",
+      "onboard_time": 1767160580,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 246476,
@@ -27491,14 +27523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 230298,
-      "num": 230298,
-      "word": "印度和乌克兰吵起来了",
-      "onboard_time": 1767160580,
-      "rank": 3,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 230215,
       "num": 322692,
       "word": "长安二十四计 第二季",
@@ -27657,14 +27681,6 @@
       "onboard_time": 1764667881,
       "rank": 28,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 228886,
-      "num": 228886,
-      "word": "九重天",
-      "onboard_time": 1767162739,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 228880,
@@ -30203,14 +30219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208348,
-      "num": 208348,
-      "word": "台独斩杀线",
-      "onboard_time": 1767161599,
-      "rank": 5,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 208337,
       "num": 208337,
       "word": "村民称异姓外孙子女改姓才能领补偿",
@@ -31211,6 +31219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204597,
+      "num": 204597,
+      "word": "骄阳似我 明年和好",
+      "onboard_time": 1767160760,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204552,
       "num": 204552,
       "word": "鞠婧祎生图vs精修图",
@@ -31721,6 +31737,14 @@
       "onboard_time": 1766791397,
       "rank": 19,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 202921,
+      "num": 159037,
+      "word": "范丞丞直播",
+      "onboard_time": 1765289724,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 202920,
@@ -32241,14 +32265,6 @@
       "onboard_time": 1765850781,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 200891,
-      "num": 150005,
-      "word": "骄阳似我 明年和好",
-      "onboard_time": 1767160760,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 200859,
@@ -35892,7 +35908,7 @@
     },
     {
       "raw_hot": 186558,
-      "num": 123829,
+      "num": 153213,
       "word": "林屿森 林医生",
       "onboard_time": 1767162439,
       "rank": 28,
@@ -40227,14 +40243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169951,
-      "num": 169951,
-      "word": "李在明访华团队阵容公开",
-      "onboard_time": 1767162201,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 169925,
       "num": 219382,
       "word": "Hero晋级赛排名第一",
@@ -42121,6 +42129,14 @@
       "onboard_time": 1766808500,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 162844,
+      "num": 162844,
+      "word": "湖人 失误",
+      "onboard_time": 1767162080,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 162837,
@@ -44737,14 +44753,6 @@
       "onboard_time": 1765790901,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 154586,
-      "num": 154586,
-      "word": "湖人 失误",
-      "onboard_time": 1767162080,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 154572,
@@ -53747,6 +53755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132395,
+      "num": 199003,
+      "word": "孩子吃席打翻菜盘数次道歉父亲发声",
+      "onboard_time": 1767158000,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132394,
       "num": 82411,
       "word": "中国佛协回应放生大米行为",
@@ -54569,6 +54585,14 @@
       "onboard_time": 1766054361,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130967,
+      "num": 116797,
+      "word": "她一进来考官先站起来了",
+      "onboard_time": 1767162381,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 130959,
@@ -56339,6 +56363,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 127481,
+      "num": 127481,
+      "word": "广州睡过23站小学生获发迟到券",
+      "onboard_time": 1767163339,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127462,
       "num": 127462,
       "word": "谁来管管娜扎这无死角的美貌",
@@ -56528,6 +56560,14 @@
       "word": "王梓莼说同情包洁仪但无法原谅她",
       "onboard_time": 1764751462,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 127124,
+      "num": 127124,
+      "word": "王俊凯跨年唱两首歌",
+      "onboard_time": 1767163759,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -59832,14 +59872,6 @@
       "word": "续面事件老板被曝开新店",
       "onboard_time": 1764579442,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121161,
-      "num": 199003,
-      "word": "孩子吃席打翻菜盘数次道歉父亲发声",
-      "onboard_time": 1767158000,
-      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -65785,14 +65817,6 @@
       "onboard_time": 1765002622,
       "rank": 48,
       "category": "数码"
-    },
-    {
-      "raw_hot": 111385,
-      "num": 111385,
-      "word": "范丞丞直播",
-      "onboard_time": 1765289724,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 111383,
@@ -74507,6 +74531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98253,
+      "num": 98253,
+      "word": "戚薇珍珠项链叠戴",
+      "onboard_time": 1767163519,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98245,
       "num": 98245,
       "word": "整治国企招聘近亲繁殖为何刻不容缓",
@@ -75305,14 +75337,6 @@
       "onboard_time": 1767078199,
       "rank": 34,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 96802,
-      "num": 116797,
-      "word": "她一进来考官先站起来了",
-      "onboard_time": 1767162381,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 96801,
@@ -76467,6 +76491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94725,
+      "num": 94725,
+      "word": "第五人格赛事",
+      "onboard_time": 1767163339,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 94710,
       "num": 94710,
       "word": "一想到她回去还要擦八只脚",
@@ -77552,6 +77584,14 @@
       "word": "刘耀文被问结婚时的反应",
       "onboard_time": 1766816179,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 92718,
+      "num": 114414,
+      "word": "黄子韬瘦了",
+      "onboard_time": 1767162620,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -79027,6 +79067,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 90517,
+      "num": 90517,
+      "word": "谁家综艺里全是冠军啊",
+      "onboard_time": 1767164059,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 90508,
       "num": 206462,
       "word": "女子家门口遇害案凶手庭审冷笑",
@@ -80353,14 +80401,6 @@
       "onboard_time": 1765937000,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 88113,
-      "num": 115557,
-      "word": "广州睡过23站小学生获发迟到券",
-      "onboard_time": 1767163339,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88104,
@@ -81803,6 +81843,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 85087,
+      "num": 127380,
+      "word": "李在镕将随李在明访华",
+      "onboard_time": 1767163038,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 85080,
       "num": 85080,
       "word": "地铁回应女子打翻奶茶用围巾擦净",
@@ -82041,6 +82089,14 @@
       "onboard_time": 1765451661,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84773,
+      "num": 84773,
+      "word": "何洛洛 老子哭着恋",
+      "onboard_time": 1767164179,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 84739,
@@ -82937,14 +82993,6 @@
       "onboard_time": 1765816099,
       "rank": 19,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 83037,
-      "num": 83037,
-      "word": "第五人格赛事",
-      "onboard_time": 1767163339,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 83036,
@@ -85601,6 +85649,14 @@
       "onboard_time": 1766076437,
       "rank": 48,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 76205,
+      "num": 85566,
+      "word": "快船五连胜",
+      "onboard_time": 1767163280,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 76112,
@@ -89571,14 +89627,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 63770,
-      "num": 114414,
-      "word": "黄子韬瘦了",
-      "onboard_time": 1767162620,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 63748,
       "num": 126080,
       "word": "张真源台州特辑哭戏reaction",
@@ -91033,14 +91081,6 @@
       "onboard_time": 1766327726,
       "rank": 19,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 58966,
-      "num": 127166,
-      "word": "李在镕将随李在明访华",
-      "onboard_time": 1767163038,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 58955,
@@ -97971,6 +98011,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 39179,
+      "num": 127204,
+      "word": "和檀健次一起净享四季",
+      "onboard_time": 1767161119,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39177,
       "num": 73344,
       "word": "朋友组10人局不买单结束只留男子一人",
@@ -99825,14 +99873,6 @@
       "onboard_time": 1767078079,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34520,
-      "num": 126568,
-      "word": "和檀健次一起净享四季",
-      "onboard_time": 1767161119,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 34498,
@@ -105012,7 +105052,7 @@
     },
     {
       "raw_hot": 22748,
-      "num": 127684,
+      "num": 156825,
       "word": "始终会陪我跨年的竟是特仑苏",
       "onboard_time": 1767161301,
       "rank": 16,
@@ -107264,6 +107304,14 @@
       "word": "方城学校火灾680天后起火原因仍不知",
       "onboard_time": 1765255705,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16021,
+      "num": 638364,
+      "word": "北京范儿新年祈福",
+      "onboard_time": 1767163879,
+      "rank": 2,
       "category": "民生新闻"
     },
     {

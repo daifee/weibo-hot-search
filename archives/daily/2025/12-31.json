@@ -1,6 +1,6 @@
 {
   "startTime": 1767112630920,
-  "endTime": 1767163439631,
+  "endTime": 1767164253033,
   "band_list": [
     {
       "raw_hot": 2919800,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 475884,
-      "num": 126096,
+      "num": 127285,
       "word": "黄金",
       "onboard_time": 1767161301,
       "rank": 22,
@@ -112,6 +112,14 @@
       "word": "湖南卫视跨年演唱会",
       "onboard_time": 1767110601,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 439059,
+      "num": 161220,
+      "word": "邓超帅成这样孙俪负全责",
+      "onboard_time": 1767162201,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -163,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331688,
+      "num": 331688,
+      "word": "九重天",
+      "onboard_time": 1767162739,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 329786,
       "num": 832380,
       "word": "东部战区短视频夺权杀招",
@@ -176,6 +192,14 @@
       "word": "解放军演习在台湾岛内引发震动",
       "onboard_time": 1767106881,
       "rank": 1,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 318757,
+      "num": 318757,
+      "word": "台独斩杀线",
+      "onboard_time": 1767161599,
+      "rank": 5,
       "category": "国内时政"
     },
     {
@@ -235,14 +259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 287138,
-      "num": 125294,
-      "word": "邓超帅成这样孙俪负全责",
-      "onboard_time": 1767162201,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 283885,
       "num": 210462,
       "word": "明星跨年出图",
@@ -299,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257292,
+      "num": 804746,
+      "word": "李在明访华团队阵容公开",
+      "onboard_time": 1767162201,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 256774,
       "num": 200310,
       "word": "王俊凯 Beautiful",
@@ -329,6 +353,14 @@
       "onboard_time": 1767088881,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246540,
+      "num": 246540,
+      "word": "印度和乌克兰吵起来了",
+      "onboard_time": 1767160580,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 243866,
@@ -369,22 +401,6 @@
       "onboard_time": 1767141981,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 230298,
-      "num": 230298,
-      "word": "印度和乌克兰吵起来了",
-      "onboard_time": 1767160580,
-      "rank": 3,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 228886,
-      "num": 228886,
-      "word": "九重天",
-      "onboard_time": 1767162739,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 221099,
@@ -435,14 +451,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 208348,
-      "num": 208348,
-      "word": "台独斩杀线",
-      "onboard_time": 1767161599,
-      "rank": 5,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 205647,
       "num": 216384,
       "word": "马龙王楚钦拟记大功",
@@ -451,20 +459,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204597,
+      "num": 204597,
+      "word": "骄阳似我 明年和好",
+      "onboard_time": 1767160760,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 202921,
+      "num": 159037,
+      "word": "范丞丞直播",
+      "onboard_time": 1767163461,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202568,
       "num": 202568,
       "word": "肖战跨晚彩排照",
       "onboard_time": 1767159022,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200891,
-      "num": 150005,
-      "word": "骄阳似我 明年和好",
-      "onboard_time": 1767160760,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 198893,
@@ -540,7 +556,7 @@
     },
     {
       "raw_hot": 186558,
-      "num": 123829,
+      "num": 153213,
       "word": "林屿森 林医生",
       "onboard_time": 1767162439,
       "rank": 28,
@@ -579,14 +595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169951,
-      "num": 169951,
-      "word": "李在明访华团队阵容公开",
-      "onboard_time": 1767162201,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 168780,
       "num": 80111,
       "word": "71岁寇振海因年龄差被18岁儿子嫌弃",
@@ -611,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162844,
+      "num": 162844,
+      "word": "湖人 失误",
+      "onboard_time": 1767162080,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159292,
       "num": 200319,
       "word": "你少干一点同事就多干一点",
@@ -625,14 +641,6 @@
       "onboard_time": 1767139100,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 154586,
-      "num": 154586,
-      "word": "湖人 失误",
-      "onboard_time": 1767162080,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 150088,
@@ -731,12 +739,44 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 132395,
+      "num": 199003,
+      "word": "孩子吃席打翻菜盘数次道歉父亲发声",
+      "onboard_time": 1767158000,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130967,
+      "num": 116797,
+      "word": "她一进来考官先站起来了",
+      "onboard_time": 1767162381,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129619,
       "num": 158617,
       "word": "雷军新年礼物抽奖送手机",
       "onboard_time": 1767146779,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 127481,
+      "num": 127481,
+      "word": "广州睡过23站小学生获发迟到券",
+      "onboard_time": 1767163339,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127124,
+      "num": 127124,
+      "word": "王俊凯跨年唱两首歌",
+      "onboard_time": 1767163759,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 126687,
@@ -761,14 +801,6 @@
       "onboard_time": 1767146960,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121161,
-      "num": 199003,
-      "word": "孩子吃席打翻菜盘数次道歉父亲发声",
-      "onboard_time": 1767158000,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121010,
@@ -1019,6 +1051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 98253,
+      "num": 98253,
+      "word": "戚薇珍珠项链叠戴",
+      "onboard_time": 1767163519,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98214,
       "num": 98214,
       "word": "元旦天气",
@@ -1033,14 +1073,6 @@
       "onboard_time": 1767108081,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 96802,
-      "num": 116797,
-      "word": "她一进来考官先站起来了",
-      "onboard_time": 1767162381,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 96548,
@@ -1067,6 +1099,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 94725,
+      "num": 94725,
+      "word": "第五人格赛事",
+      "onboard_time": 1767163339,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 93627,
       "num": 197823,
       "word": "ivl",
@@ -1089,6 +1129,14 @@
       "onboard_time": 1767153740,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92718,
+      "num": 114414,
+      "word": "黄子韬瘦了",
+      "onboard_time": 1767162620,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 92310,
@@ -1129,6 +1177,14 @@
       "onboard_time": 1767152900,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 90517,
+      "num": 90517,
+      "word": "谁家综艺里全是冠军啊",
+      "onboard_time": 1767164059,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 90497,
@@ -1177,14 +1233,6 @@
       "onboard_time": 1767160879,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 88113,
-      "num": 115557,
-      "word": "广州睡过23站小学生获发迟到券",
-      "onboard_time": 1767163339,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87717,
@@ -1259,6 +1307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85087,
+      "num": 127380,
+      "word": "李在镕将随李在明访华",
+      "onboard_time": 1767163038,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 85076,
       "num": 158963,
       "word": "山东把二氧化碳卖出39亿天价",
@@ -1275,6 +1331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 84773,
+      "num": 84773,
+      "word": "何洛洛 老子哭着恋",
+      "onboard_time": 1767164179,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83961,
       "num": 198647,
       "word": "幼儿园回应家长带幼儿值护学岗",
@@ -1289,14 +1353,6 @@
       "onboard_time": 1767158839,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 83037,
-      "num": 83037,
-      "word": "第五人格赛事",
-      "onboard_time": 1767163339,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 82384,
@@ -1401,6 +1457,14 @@
       "onboard_time": 1767097341,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 76205,
+      "num": 85566,
+      "word": "快船五连胜",
+      "onboard_time": 1767163280,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 75914,
@@ -1547,14 +1611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 63770,
-      "num": 114414,
-      "word": "黄子韬瘦了",
-      "onboard_time": 1767162620,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 63483,
       "num": 50490,
       "word": "孙颖莎现身交通大学",
@@ -1617,14 +1673,6 @@
       "onboard_time": 1767140901,
       "rank": 36,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 58966,
-      "num": 127166,
-      "word": "李在镕将随李在明访华",
-      "onboard_time": 1767163038,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 58244,
@@ -1811,6 +1859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39179,
+      "num": 127204,
+      "word": "和檀健次一起净享四季",
+      "onboard_time": 1767161119,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38611,
       "num": 80039,
       "word": "男子回应捡鹅绒给妻子做羽绒服",
@@ -1881,14 +1937,6 @@
       "onboard_time": 1767145640,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 34520,
-      "num": 126568,
-      "word": "和檀健次一起净享四季",
-      "onboard_time": 1767161119,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 33830,
@@ -2020,7 +2068,7 @@
     },
     {
       "raw_hot": 22748,
-      "num": 127684,
+      "num": 156825,
       "word": "始终会陪我跨年的竟是特仑苏",
       "onboard_time": 1767161301,
       "rank": 16,
@@ -2088,6 +2136,14 @@
       "word": "严查套补先涨后补等违法违规行为",
       "onboard_time": 1767160038,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16021,
+      "num": 638364,
+      "word": "北京范儿新年祈福",
+      "onboard_time": 1767163879,
+      "rank": 2,
       "category": "民生新闻"
     },
     {

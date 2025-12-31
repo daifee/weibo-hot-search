@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767163439631,
+  "endTime": 1767164253033,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -1355,6 +1355,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 439059,
+      "num": 161220,
+      "word": "邓超帅成这样孙俪负全责",
+      "onboard_time": 1767162201,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 435695,
       "num": 217794,
       "word": "日本游客脱外衣欲下恒河被当地人怒斥",
@@ -1955,6 +1963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331688,
+      "num": 331688,
+      "word": "九重天",
+      "onboard_time": 1767162739,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 329786,
       "num": 832380,
       "word": "东部战区短视频夺权杀招",
@@ -2057,6 +2073,14 @@
       "onboard_time": 1767106881,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 318757,
+      "num": 318757,
+      "word": "台独斩杀线",
+      "onboard_time": 1767161599,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 318630,
@@ -2363,14 +2387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 287138,
-      "num": 125294,
-      "word": "邓超帅成这样孙俪负全责",
-      "onboard_time": 1767162201,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 286460,
       "num": 248334,
       "word": "迪丽热巴感谢观众喜欢邓妍",
@@ -2659,6 +2675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257292,
+      "num": 804746,
+      "word": "李在明访华团队阵容公开",
+      "onboard_time": 1767162201,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 256774,
       "num": 200310,
       "word": "王俊凯 Beautiful",
@@ -2801,6 +2825,14 @@
       "onboard_time": 1766993840,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246540,
+      "num": 246540,
+      "word": "印度和乌克兰吵起来了",
+      "onboard_time": 1767160580,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 246470,
@@ -3009,22 +3041,6 @@
       "onboard_time": 1766837482,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 230298,
-      "num": 230298,
-      "word": "印度和乌克兰吵起来了",
-      "onboard_time": 1767160580,
-      "rank": 3,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 228886,
-      "num": 228886,
-      "word": "九重天",
-      "onboard_time": 1767162739,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 228737,
@@ -3291,14 +3307,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 208348,
-      "num": 208348,
-      "word": "台独斩杀线",
-      "onboard_time": 1767161599,
-      "rank": 5,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 208192,
       "num": 299978,
       "word": "44岁被单位辞退拿了15万离职赔偿",
@@ -3363,6 +3371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204597,
+      "num": 204597,
+      "word": "骄阳似我 明年和好",
+      "onboard_time": 1767160760,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204505,
       "num": 204505,
       "word": "谁在说宋威龙赵今麦不熟啊",
@@ -3393,6 +3409,14 @@
       "onboard_time": 1766921721,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202921,
+      "num": 159037,
+      "word": "范丞丞直播",
+      "onboard_time": 1767163461,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 202652,
@@ -3441,14 +3465,6 @@
       "onboard_time": 1766856378,
       "rank": 30,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 200891,
-      "num": 150005,
-      "word": "骄阳似我 明年和好",
-      "onboard_time": 1767160760,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 200519,
@@ -3860,7 +3876,7 @@
     },
     {
       "raw_hot": 186558,
-      "num": 123829,
+      "num": 153213,
       "word": "林屿森 林医生",
       "onboard_time": 1767162439,
       "rank": 28,
@@ -4299,14 +4315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169951,
-      "num": 169951,
-      "word": "李在明访华团队阵容公开",
-      "onboard_time": 1767162201,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 169864,
       "num": 147855,
       "word": "张柏芝耳骨夹",
@@ -4521,6 +4529,14 @@
       "onboard_time": 1767012320,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 162844,
+      "num": 162844,
+      "word": "湖人 失误",
+      "onboard_time": 1767162080,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 162783,
@@ -4801,14 +4817,6 @@
       "onboard_time": 1766972358,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154586,
-      "num": 154586,
-      "word": "湖人 失误",
-      "onboard_time": 1767162080,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 154460,
@@ -5739,6 +5747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132395,
+      "num": 199003,
+      "word": "孩子吃席打翻菜盘数次道歉父亲发声",
+      "onboard_time": 1767158000,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131826,
       "num": 131826,
       "word": "檀健次从天而降的出场方式",
@@ -5809,6 +5825,14 @@
       "onboard_time": 1767087441,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130967,
+      "num": 116797,
+      "word": "她一进来考官先站起来了",
+      "onboard_time": 1767162381,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 130872,
@@ -5979,6 +6003,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 127481,
+      "num": 127481,
+      "word": "广州睡过23站小学生获发迟到券",
+      "onboard_time": 1767163339,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127462,
       "num": 127462,
       "word": "谁来管管娜扎这无死角的美貌",
@@ -6001,6 +6033,14 @@
       "onboard_time": 1766901620,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127124,
+      "num": 127124,
+      "word": "王俊凯跨年唱两首歌",
+      "onboard_time": 1767163759,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 127107,
@@ -6409,14 +6449,6 @@
       "onboard_time": 1767013162,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 121161,
-      "num": 199003,
-      "word": "孩子吃席打翻菜盘数次道歉父亲发声",
-      "onboard_time": 1767158000,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121152,
@@ -8267,6 +8299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98253,
+      "num": 98253,
+      "word": "戚薇珍珠项链叠戴",
+      "onboard_time": 1767163519,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98245,
       "num": 98245,
       "word": "整治国企招聘近亲繁殖为何刻不容缓",
@@ -8427,14 +8467,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 96802,
-      "num": 116797,
-      "word": "她一进来考官先站起来了",
-      "onboard_time": 1767162381,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 96773,
       "num": 96773,
       "word": "永州市委书记与球员拥抱被举高高",
@@ -8593,6 +8625,14 @@
       "onboard_time": 1766901620,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 94725,
+      "num": 94725,
+      "word": "第五人格赛事",
+      "onboard_time": 1767163339,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 94465,
@@ -8761,6 +8801,14 @@
       "onboard_time": 1767071723,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 92718,
+      "num": 114414,
+      "word": "黄子韬瘦了",
+      "onboard_time": 1767162620,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 92464,
@@ -8945,6 +8993,14 @@
       "onboard_time": 1767072322,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90517,
+      "num": 90517,
+      "word": "谁家综艺里全是冠军啊",
+      "onboard_time": 1767164059,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 90497,
@@ -9161,14 +9217,6 @@
       "onboard_time": 1766978480,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 88113,
-      "num": 115557,
-      "word": "广州睡过23站小学生获发迟到券",
-      "onboard_time": 1767163339,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88067,
@@ -9419,6 +9467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85087,
+      "num": 127380,
+      "word": "李在镕将随李在明访华",
+      "onboard_time": 1767163038,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 85076,
       "num": 158963,
       "word": "山东把二氧化碳卖出39亿天价",
@@ -9473,6 +9529,14 @@
       "onboard_time": 1766904622,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 84773,
+      "num": 84773,
+      "word": "何洛洛 老子哭着恋",
+      "onboard_time": 1767164179,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 84646,
@@ -9649,14 +9713,6 @@
       "onboard_time": 1767079280,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 83037,
-      "num": 83037,
-      "word": "第五人格赛事",
-      "onboard_time": 1767163339,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 82928,
@@ -10105,6 +10161,14 @@
       "onboard_time": 1766906780,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 76205,
+      "num": 85566,
+      "word": "快船五连胜",
+      "onboard_time": 1767163280,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 75914,
@@ -10635,14 +10699,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 63770,
-      "num": 114414,
-      "word": "黄子韬瘦了",
-      "onboard_time": 1767162620,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 63536,
       "num": 219494,
       "word": "承德火灾45名公职人员被问责",
@@ -10849,14 +10905,6 @@
       "onboard_time": 1766973919,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 58966,
-      "num": 127166,
-      "word": "李在镕将随李在明访华",
-      "onboard_time": 1767163038,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 58868,
@@ -11843,6 +11891,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 39179,
+      "num": 127204,
+      "word": "和檀健次一起净享四季",
+      "onboard_time": 1767161119,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38949,
       "num": 124549,
       "word": "砍死45岁邻居嫌犯曾因精神问题就医",
@@ -12097,14 +12153,6 @@
       "onboard_time": 1767078079,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34520,
-      "num": 126568,
-      "word": "和檀健次一起净享四季",
-      "onboard_time": 1767161119,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 34498,
@@ -12788,7 +12836,7 @@
     },
     {
       "raw_hot": 22748,
-      "num": 127684,
+      "num": 156825,
       "word": "始终会陪我跨年的竟是特仑苏",
       "onboard_time": 1767161301,
       "rank": 16,
@@ -13064,6 +13112,14 @@
       "word": "严查套补先涨后补等违法违规行为",
       "onboard_time": 1767160038,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16021,
+      "num": 638364,
+      "word": "北京范儿新年祈福",
+      "onboard_time": 1767163879,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
