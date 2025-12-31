@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/28 00:33:34 ~ 2025/12/31 21:10:52
+本榜单时间：2025/12/28 00:33:34 ~ 2025/12/31 21:39:34
 </p>
 </blockquote>
 <p>
@@ -274,7 +274,7 @@ B站跨年晚会（热度：1059067）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%23" target="weibo">
-东方卫视跨年（热度：882229）
+东方卫视跨年（热度：889101）
 </a>
 </li>
 
@@ -1245,6 +1245,12 @@ RW对战Hero（热度：442532）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%20%E5%A5%BD%E6%98%8E%E6%98%BE%E7%9A%84%E5%BC%80%E9%BA%A6%23" target="weibo">
+浙江卫视 好明显的开麦（热度：415025）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E8%B0%A2%E5%A8%9C%E5%B0%86%E5%90%8C%E5%8F%B0%E7%BD%91%E5%8F%8B%E5%90%B5%E7%BF%BB%23" target="weibo">
 张杰演唱会谢娜将同台网友吵翻（热度：412351）
 </a>
@@ -1997,12 +2003,6 @@ RW战胜Hero（热度：398111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%B7%A8%E6%99%9A%E5%BD%A9%E6%8E%92%E7%85%A7%23" target="weibo">
 肖战跨晚彩排照（热度：285632）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%20%E5%A5%BD%E6%98%8E%E6%98%BE%E7%9A%84%E5%BC%80%E9%BA%A6%23" target="weibo">
-浙江卫视 好明显的开麦（热度：285373）
 </a>
 </li>
 
@@ -3303,6 +3303,12 @@ TFING跨年造型（热度：189317）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%83%9F%E8%8A%B1%23" target="weibo">
+烟花（热度：180948）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%8E%BF%E5%9F%8E%E9%87%8C%E6%9C%80%E5%A5%BD%E5%90%AC%E7%9A%84%E5%90%8D%E5%AD%97%23" target="weibo">
 小县城里最好听的名字（热度：180621）
 </a>
@@ -3459,6 +3465,12 @@ MRC对战狼队（热度：177164）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89%E5%BC%A0%E5%AE%B6%E4%BA%BA%23" target="weibo">
+跨年演唱会不能没有张家人（热度：172462）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23KSG%E8%BF%BD%E7%A9%B6%E5%AD%90%E9%98%B3%E8%BF%9D%E7%BA%A6%E8%B4%A3%E4%BB%BB%23" target="weibo">
 KSG追究子阳违约责任（热度：172401）
 </a>
@@ -3551,12 +3563,6 @@ KSG追究子阳违约责任（热度：172401）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%86%B2%E5%A5%B6%E7%B2%899%E4%B8%AA%E6%9C%88%E5%AE%9D%E5%AE%9D%E6%80%A5%E5%88%B0%E5%BC%80%E5%8F%A3%E8%AF%B4%E8%AF%9D%23" target="weibo">
 爸爸冲奶粉9个月宝宝急到开口说话（热度：169623）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%83%9F%E8%8A%B1%23" target="weibo">
-烟花（热度：169578）
 </a>
 </li>
 
@@ -4455,6 +4461,12 @@ WTT发布孙颖莎2025年度总结（热度：141865）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%993%E4%B8%AA%E5%B8%A6%E9%A9%AC%E6%88%90%E8%AF%AD%E5%A4%AA%E7%BB%99%E5%8A%B2%E4%BA%86%23" target="weibo">
+这3个带马成语太给劲了（热度：138793）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%81%9C%E8%BD%A6%E8%B4%B9%20%E8%B4%B5%23" target="weibo">
 广州停车费 贵（热度：138496）
 </a>
@@ -4761,6 +4773,12 @@ GEN老板说RNG已不复存在（热度：132913）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%A4%AE%E8%A7%86%E8%B7%A8%E5%B9%B4%E7%89%B9%E5%88%AB%E7%89%88MV%23" target="weibo">
+王鹤棣央视跨年特别版MV（热度：130702）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%AE%A0%E7%89%A9%E5%B8%82%E5%9C%BA%E8%A7%84%E6%A8%A1%E7%AA%81%E7%A0%B46000%E4%BA%BF%23" target="weibo">
 我国宠物市场规模突破6000亿（热度：130604）
 </a>
@@ -4989,6 +5007,12 @@ iPhone18Pro或实现FaceID小型化（热度：129951）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%E5%AE%98%E5%BE%AE%E8%AF%B4%E4%B8%8D%E8%B4%9F%E6%9C%9F%E8%AE%B8%23" target="weibo">
+哪吒官微说不负期许（热度：125132）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8E%8E%E6%97%BB%E5%AD%90%E5%8E%86%E5%B1%8A%E8%B7%A8%E5%B9%B4%E9%9B%B6%E7%82%B9%E6%8B%A5%E6%8A%B1%E5%AF%B9%E8%B1%A1%23" target="weibo">
 李莎旻子历届跨年零点拥抱对象（热度：124985）
 </a>
@@ -5165,12 +5189,6 @@ Desire4国风音乐会录制现场（热度：123784）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B1%AA%E5%8D%8E%E7%9C%9F%E6%97%97%E8%88%B0%E5%B0%B1%E9%80%89%E9%97%AE%E7%95%8CM9%23" target="weibo">
 豪华真旗舰就选问界M9（热度：122326）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%993%E4%B8%AA%E5%B8%A6%E9%A9%AC%E6%88%90%E8%AF%AD%E5%A4%AA%E7%BB%99%E5%8A%B2%E4%BA%86%23" target="weibo">
-这3个带马成语太给劲了（热度：122250）
 </a>
 </li>
 
@@ -5807,12 +5825,6 @@ AG一诺长生钟意春季赛休息（热度：112499）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%20%E7%9C%8B%E5%BE%97%E5%87%BA%E5%A5%B9%E6%98%AF%E5%85%AC%E4%B8%BB%23" target="weibo">
 沈梦辰 看得出她是公主（热度：111552）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89%E5%BC%A0%E5%AE%B6%E4%BA%BA%23" target="weibo">
-跨年演唱会不能没有张家人（热度：111441）
 </a>
 </li>
 
@@ -8109,6 +8121,12 @@ KPL春季赛（热度：82228）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone%E4%B9%9F%E6%9C%89%E6%96%B0%E5%B9%B4%E6%A8%A1%E5%BC%8F%23" target="weibo">
+iPhone也有新年模式（热度：79670）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E8%BE%88%E6%97%A0%E7%94%A8%E7%9A%84%E8%8A%82%E4%BF%AD%E5%8F%8D%E8%80%8C%E6%9C%80%E8%B4%B9%E9%92%B1%23" target="weibo">
 长辈无用的节俭反而最费钱（热度：79579）
 </a>
@@ -8631,6 +8649,12 @@ Manus（热度：75783）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E9%9F%B5%E5%9B%BD%E9%A3%8E%E6%88%90%E4%B8%BA%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%A1%B6%E6%B5%81%E5%AE%A1%E7%BE%8E%23" target="weibo">
+古韵国风成为年轻人顶流审美（热度：67102）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8A%E4%B8%AA%E5%A8%B1%E4%B9%90%E5%9C%88%E9%83%BD%E5%BC%80%E5%A7%8B%E5%8D%B7%E5%81%A5%E5%BA%B7%E4%BA%86%23" target="weibo">
 半个娱乐圈都开始卷健康了（热度：67035）
 </a>
@@ -8781,6 +8805,12 @@ Manus（热度：75783）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AE%B6%E7%83%AD%E6%B0%94%E8%85%BE%E8%85%BE%E4%B8%AD%E5%9B%BD%E5%B0%B1%E8%92%B8%E8%92%B8%E6%97%A5%E4%B8%8A%23" target="weibo">
+小家热气腾腾中国就蒸蒸日上（热度：61596）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%BF%99%E4%B8%80%E4%B8%AA%E7%9C%BC%E7%A5%9E%E7%9C%8B%E5%93%AD%E4%BA%86%23" target="weibo">
 被迪丽热巴这一个眼神看哭了（热度：61555）
 </a>
@@ -8819,6 +8849,12 @@ ADHD（热度：60973）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E5%8F%AF%E4%BB%A5%E5%8D%95%E6%9D%80%E5%B0%84%E6%89%8B%E7%9A%84%E8%BE%85%E5%8A%A9%23" target="weibo">
 王者可以单杀射手的辅助（热度：60865）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232026%E6%96%B0%E5%B9%B4%E5%A5%BD%23" target="weibo">
+2026新年好（热度：60790）
 </a>
 </li>
 
@@ -9291,6 +9327,12 @@ S21一路开新（热度：49829）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B7%A8%E6%99%9A%E6%96%B0%E7%96%86%E5%A5%B3%E5%AD%A9%E7%BE%8E%E5%BE%97%E5%BE%88%E7%AA%81%E5%87%BA%23" target="weibo">
+跨晚新疆女孩美得很突出（热度：49071）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E5%86%A0%E8%8B%B1%E5%8E%BB%E6%9C%B1%E7%8F%A0%E5%AE%B6%E5%81%9A%E5%AE%A2%E5%90%83%E9%A5%AD%23" target="weibo">
 彭冠英去朱珠家做客吃饭（热度：48650）
 </a>
@@ -9339,12 +9381,6 @@ S21一路开新（热度：49829）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B7%A8%E6%99%9A%E6%96%B0%E7%96%86%E5%A5%B3%E5%AD%A9%E7%BE%8E%E5%BE%97%E5%BE%88%E7%AA%81%E5%87%BA%23" target="weibo">
-跨晚新疆女孩美得很突出（热度：47718）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%8C%97%E5%B0%86%E5%90%91%E4%B8%8A%E6%B5%B7%E8%B5%A0%E9%80%81%E4%B8%80%E5%AF%B9%E9%BB%91%E8%84%9A%E4%BC%81%E9%B9%85%23" target="weibo">
 台北将向上海赠送一对黑脚企鹅（热度：47683）
 </a>
@@ -9371,6 +9407,12 @@ S21一路开新（热度：49829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A2%84%E5%88%B6%E8%B7%A8%E5%B9%B4%23" target="weibo">
 预制跨年（热度：47290）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232026%E5%B9%B4%E8%BF%99%E4%B9%88%E5%B9%B2%23" target="weibo">
+2026年这么干（热度：47032）
 </a>
 </li>
 
@@ -9941,12 +9983,6 @@ Epic送三位一体（热度：35355）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E9%9D%B3%E4%B8%9C%E8%B5%B0%E8%BF%9B%E5%90%B4%E5%86%A0%E4%B8%AD%E7%AC%94%E4%B8%8B%E7%9A%84%E6%98%A5%E5%A4%A9%23" target="weibo">
 和靳东走进吴冠中笔下的春天（热度：35143）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232026%E5%B9%B4%E8%BF%99%E4%B9%88%E5%B9%B2%23" target="weibo">
-2026年这么干（热度：34873）
 </a>
 </li>
 
