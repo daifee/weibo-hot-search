@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1767174405147,
+  "endTime": 1767177066676,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 8821448,
+      "num": 8821448,
+      "word": "跨年晚会节目单",
+      "onboard_time": 1767170841,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 8704342,
       "num": 8704342,
       "word": "一诺暂时告别赛场",
@@ -257,14 +265,6 @@
       "onboard_time": 1766848891,
       "rank": 4,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 4876581,
-      "num": 4876581,
-      "word": "跨年晚会节目单",
-      "onboard_time": 1767170841,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 4854084,
@@ -2353,6 +2353,14 @@
       "onboard_time": 1765724905,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1116181,
+      "num": 256085,
+      "word": "KSG解约子阳",
+      "onboard_time": 1767176181,
+      "rank": 10,
+      "category": "电竞"
     },
     {
       "raw_hot": 1115888,
@@ -9331,6 +9339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 545422,
+      "num": 510596,
+      "word": "红包分组",
+      "onboard_time": 1767174140,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 545158,
       "num": 308439,
       "word": "狙击蝴蝶热度",
@@ -10432,14 +10448,6 @@
       "word": "单依纯公开承认自己有表达障碍",
       "onboard_time": 1766841082,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 510596,
-      "num": 510596,
-      "word": "红包分组",
-      "onboard_time": 1767174140,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -15683,6 +15691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 394503,
+      "num": 1770341,
+      "word": "清华大学今晚给庞众望颁奖",
+      "onboard_time": 1767171560,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 394409,
       "num": 279556,
       "word": "黄磊是胡歌李沁新剧总导演",
@@ -18217,6 +18233,14 @@
       "onboard_time": 1764591802,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 348000,
+      "num": 1029388,
+      "word": "阿姨怎么一戴假发面相都变了",
+      "onboard_time": 1767172761,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 347758,
@@ -21739,14 +21763,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 296204,
-      "num": 1088173,
-      "word": "清华大学今晚给庞众望颁奖",
-      "onboard_time": 1767171560,
-      "rank": 7,
-      "category": "教育"
-    },
-    {
       "raw_hot": 296032,
       "num": 355165,
       "word": "橹穆来自天堂的魔鬼舞台彩排",
@@ -24905,6 +24921,14 @@
       "onboard_time": 1765011502,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259105,
+      "num": 598103,
+      "word": "全球首个个人机器人",
+      "onboard_time": 1767174080,
+      "rank": 7,
+      "category": "互联网"
     },
     {
       "raw_hot": 258968,
@@ -33331,6 +33355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196960,
+      "num": 1065365,
+      "word": "Gr对战WBG",
+      "onboard_time": 1767170361,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196889,
       "num": 196889,
       "word": "初雪",
@@ -35547,14 +35579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188756,
-      "num": 1029388,
-      "word": "阿姨怎么一戴假发面相都变了",
-      "onboard_time": 1767172761,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 188741,
       "num": 188741,
       "word": "33拍摄进行时",
@@ -36721,6 +36745,14 @@
       "onboard_time": 1766550684,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 184822,
+      "num": 252537,
+      "word": "骄阳似我红包",
+      "onboard_time": 1767176600,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 184815,
@@ -38489,14 +38521,6 @@
       "onboard_time": 1766375542,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177568,
-      "num": 598103,
-      "word": "全球首个个人机器人",
-      "onboard_time": 1767174080,
-      "rank": 7,
-      "category": "互联网"
     },
     {
       "raw_hot": 177567,
@@ -41609,6 +41633,14 @@
       "onboard_time": 1765862782,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 165640,
+      "num": 252423,
+      "word": "东方卫视跨年节目单",
+      "onboard_time": 1767174802,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 165629,
@@ -46707,14 +46739,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 149654,
-      "num": 1065365,
-      "word": "Gr对战WBG",
-      "onboard_time": 1767170361,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 149653,
       "num": 149653,
       "word": "张呈发1600字长文",
@@ -48473,6 +48497,14 @@
       "onboard_time": 1764489980,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144739,
+      "num": 1019782,
+      "word": "跨年还是一个人",
+      "onboard_time": 1767171801,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 144717,
@@ -52241,6 +52273,14 @@
       "onboard_time": 1766331503,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136240,
+      "num": 251663,
+      "word": "KSG追究子阳违约责任",
+      "onboard_time": 1767176661,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 136239,
@@ -57057,6 +57097,14 @@
       "onboard_time": 1765508600,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126715,
+      "num": 252113,
+      "word": "长期手机充电至100%会损伤电池",
+      "onboard_time": 1767176961,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 126712,
@@ -63659,6 +63707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115153,
+      "num": 251999,
+      "word": "捏捏状态",
+      "onboard_time": 1767175642,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115149,
       "num": 115149,
       "word": "以为小猫很凶其实是毛挡住了",
@@ -65304,6 +65360,14 @@
       "word": "这就是我不坐大摆锤的原因",
       "onboard_time": 1766488881,
       "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 112579,
+      "num": 251880,
+      "word": "2026壁纸",
+      "onboard_time": 1767175881,
+      "rank": 26,
       "category": "情感"
     },
     {
@@ -72521,6 +72585,14 @@
       "onboard_time": 1765157300,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101387,
+      "num": 251589,
+      "word": "A股2025年十大牛股",
+      "onboard_time": 1767175039,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 101380,
@@ -84171,14 +84243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 81595,
-      "num": 1019782,
-      "word": "跨年还是一个人",
-      "onboard_time": 1767171801,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 81592,
       "num": 86854,
       "word": "浙江仿佛回到秋天",
@@ -88675,6 +88739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68858,
+      "num": 251070,
+      "word": "原来雪花真长这样",
+      "onboard_time": 1767174979,
+      "rank": 40,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 68852,
       "num": 68852,
       "word": "日本群马县超50辆车相撞",
@@ -90980,7 +91052,7 @@
     },
     {
       "raw_hot": 60990,
-      "num": 1144527,
+      "num": 1398623,
       "word": "2025那些直抵人心的瞬间",
       "onboard_time": 1767170540,
       "rank": 2,
@@ -91065,6 +91137,14 @@
       "onboard_time": 1766034262,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 60755,
+      "num": 250840,
+      "word": "长辈无用的节俭反而最费钱",
+      "onboard_time": 1767177021,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 60746,
@@ -91321,6 +91401,14 @@
       "onboard_time": 1766927361,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60048,
+      "num": 250768,
+      "word": "每次充话费都感觉是在抢我钱",
+      "onboard_time": 1767176481,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 60002,
@@ -97707,6 +97795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41131,
+      "num": 841753,
+      "word": "再见2025",
+      "onboard_time": 1767174979,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41128,
       "num": 269869,
       "word": "林诗栋蒯曼vs博格斯维加",
@@ -99003,6 +99099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38149,
+      "num": 251801,
+      "word": "半个娱乐圈都开始卷健康了",
+      "onboard_time": 1767175761,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 38131,
       "num": 216491,
       "word": "浙大称26岁博导父母务农",
@@ -99571,6 +99675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36867,
+      "num": 250554,
+      "word": "3分钟视频回顾2025",
+      "onboard_time": 1767176421,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36838,
       "num": 98707,
       "word": "40万一针的干细胞输注能抗衰吗",
@@ -99913,6 +100025,14 @@
       "onboard_time": 1767075621,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35744,
+      "num": 250497,
+      "word": "奇奇怪怪却改善体态的动作",
+      "onboard_time": 1767176840,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 35741,
@@ -110052,6 +110172,9 @@
     },
     {
       "word": "#习近平向全国各族人民致以新年美好祝福#"
+    },
+    {
+      "word": "#新年贺词里的这些话暖心又提气#"
     }
   ]
 }

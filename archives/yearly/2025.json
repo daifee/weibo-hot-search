@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1767174405147,
+  "endTime": 1767177066676,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -1795,6 +1795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 8821448,
+      "num": 8821448,
+      "word": "跨年晚会节目单",
+      "onboard_time": 1767170841,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 8803300,
       "num": 10053300,
       "word": "香港大埔火灾已致128人遇难",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1749640463,
       "rank": 0,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 7020821,
-      "num": 7020821,
-      "word": "马丽演上沈腾丈母娘了",
-      "onboard_time": 1738076070,
-      "rank": 1,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767174405147,
+  "endTime": 1767177066676,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -19,20 +19,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8821448,
+      "num": 8821448,
+      "word": "跨年晚会节目单",
+      "onboard_time": 1767170841,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 6860369,
       "num": 6860369,
       "word": "林俊杰七七恋情梳理",
       "onboard_time": 1767022164,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4876581,
-      "num": 4876581,
-      "word": "跨年晚会节目单",
-      "onboard_time": 1767170841,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 3770144,
@@ -177,6 +177,14 @@
       "onboard_time": 1766983462,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1116181,
+      "num": 256085,
+      "word": "KSG解约子阳",
+      "onboard_time": 1767176181,
+      "rank": 10,
+      "category": "电竞"
     },
     {
       "raw_hot": 1115888,
@@ -891,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 545422,
+      "num": 510596,
+      "word": "红包分组",
+      "onboard_time": 1767174140,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 542978,
       "num": 420584,
       "word": "妈妈不打麻将早就上清华了",
@@ -1008,14 +1024,6 @@
       "word": "王丽坤拍短剧的原因找到了",
       "onboard_time": 1766887759,
       "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 510596,
-      "num": 510596,
-      "word": "红包分组",
-      "onboard_time": 1767174140,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -1699,6 +1707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 394503,
+      "num": 1770341,
+      "word": "清华大学今晚给庞众望颁奖",
+      "onboard_time": 1767171560,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 393198,
       "num": 344011,
       "word": "大盘鸡店嘲讽差评学生学历低",
@@ -1977,6 +1993,14 @@
       "onboard_time": 1766893099,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 348000,
+      "num": 1029388,
+      "word": "阿姨怎么一戴假发面相都变了",
+      "onboard_time": 1767172761,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 347809,
@@ -2411,14 +2435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 296204,
-      "num": 1088173,
-      "word": "清华大学今晚给庞众望颁奖",
-      "onboard_time": 1767171560,
-      "rank": 7,
-      "category": "教育"
-    },
-    {
       "raw_hot": 295978,
       "num": 229129,
       "word": "王星自曝在缅甸手机被人拿走刷网贷",
@@ -2785,6 +2801,14 @@
       "onboard_time": 1767074179,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259105,
+      "num": 598103,
+      "word": "全球首个个人机器人",
+      "onboard_time": 1767174080,
+      "rank": 7,
+      "category": "互联网"
     },
     {
       "raw_hot": 258390,
@@ -3707,6 +3731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 196960,
+      "num": 1065365,
+      "word": "Gr对战WBG",
+      "onboard_time": 1767170361,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196731,
       "num": 196731,
       "word": "宋亚轩免检生图",
@@ -3963,14 +3995,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 188756,
-      "num": 1029388,
-      "word": "阿姨怎么一戴假发面相都变了",
-      "onboard_time": 1767172761,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 188569,
       "num": 220791,
       "word": "薛飞vs王楚钦",
@@ -4131,6 +4155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184822,
+      "num": 252537,
+      "word": "骄阳似我红包",
+      "onboard_time": 1767176600,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184416,
       "num": 184416,
       "word": "白衣公卿全阵容官宣",
@@ -4281,14 +4313,6 @@
       "onboard_time": 1767056122,
       "rank": 6,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 177568,
-      "num": 598103,
-      "word": "全球首个个人机器人",
-      "onboard_time": 1767174080,
-      "rank": 7,
-      "category": "互联网"
     },
     {
       "raw_hot": 177063,
@@ -4665,6 +4689,14 @@
       "onboard_time": 1766935823,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165640,
+      "num": 252423,
+      "word": "东方卫视跨年节目单",
+      "onboard_time": 1767174802,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 165478,
@@ -5171,14 +5203,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 149654,
-      "num": 1065365,
-      "word": "Gr对战WBG",
-      "onboard_time": 1767170361,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 149634,
       "num": 149634,
       "word": "评论罗伯特总结我的2025",
@@ -5385,6 +5409,14 @@
       "onboard_time": 1766898561,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144739,
+      "num": 1019782,
+      "word": "跨年还是一个人",
+      "onboard_time": 1767171801,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 144716,
@@ -5851,6 +5883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136240,
+      "num": 251663,
+      "word": "KSG追究子阳违约责任",
+      "onboard_time": 1767176661,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136191,
       "num": 158349,
       "word": "AG超玩会 BP",
@@ -6289,6 +6329,14 @@
       "onboard_time": 1767071242,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126715,
+      "num": 252113,
+      "word": "长期手机充电至100%会损伤电池",
+      "onboard_time": 1767176961,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 126712,
@@ -7123,6 +7171,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 115153,
+      "num": 251999,
+      "word": "捏捏状态",
+      "onboard_time": 1767175642,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115066,
       "num": 115066,
       "word": "蒯曼平野美宇3比0陈幸同钱天一",
@@ -7336,6 +7392,14 @@
       "word": "人不能做长期紧张感工作",
       "onboard_time": 1766897661,
       "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 112579,
+      "num": 251880,
+      "word": "2026壁纸",
+      "onboard_time": 1767175881,
+      "rank": 26,
       "category": "情感"
     },
     {
@@ -8209,6 +8273,14 @@
       "onboard_time": 1767016887,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101387,
+      "num": 251589,
+      "word": "A股2025年十大牛股",
+      "onboard_time": 1767175039,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 101382,
@@ -10275,14 +10347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81595,
-      "num": 1019782,
-      "word": "跨年还是一个人",
-      "onboard_time": 1767171801,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 81515,
       "num": 81515,
       "word": "樊振东人形绅士礼仪教科书",
@@ -11011,6 +11075,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 68858,
+      "num": 251070,
+      "word": "原来雪花真长这样",
+      "onboard_time": 1767174979,
+      "rank": 40,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 68350,
       "num": 158230,
       "word": "黄金白银又涨了",
@@ -11276,7 +11348,7 @@
     },
     {
       "raw_hot": 60990,
-      "num": 1144527,
+      "num": 1398623,
       "word": "2025那些直抵人心的瞬间",
       "onboard_time": 1767170540,
       "rank": 2,
@@ -11313,6 +11385,14 @@
       "onboard_time": 1767015500,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 60755,
+      "num": 250840,
+      "word": "长辈无用的节俭反而最费钱",
+      "onboard_time": 1767177021,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 60746,
@@ -11385,6 +11465,14 @@
       "onboard_time": 1766927361,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60048,
+      "num": 250768,
+      "word": "每次充话费都感觉是在抢我钱",
+      "onboard_time": 1767176481,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 59825,
@@ -12339,6 +12427,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 41131,
+      "num": 841753,
+      "word": "再见2025",
+      "onboard_time": 1767174979,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41123,
       "num": 179691,
       "word": "AUDI开启30城任意门",
@@ -12499,6 +12595,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 38149,
+      "num": 251801,
+      "word": "半个娱乐圈都开始卷健康了",
+      "onboard_time": 1767175761,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 37604,
       "num": 182035,
       "word": "用沙画表演击碎网络谣言",
@@ -12587,6 +12691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36867,
+      "num": 250554,
+      "word": "3分钟视频回顾2025",
+      "onboard_time": 1767176421,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36628,
       "num": 209116,
       "word": "明年继续安排资金支持消费品以旧换新",
@@ -12673,6 +12785,14 @@
       "onboard_time": 1767075621,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35744,
+      "num": 250497,
+      "word": "奇奇怪怪却改善体态的动作",
+      "onboard_time": 1767176840,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 35355,
@@ -14044,6 +14164,9 @@
     },
     {
       "word": "#习近平向全国各族人民致以新年美好祝福#"
+    },
+    {
+      "word": "#新年贺词里的这些话暖心又提气#"
     }
   ]
 }
