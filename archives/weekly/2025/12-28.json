@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767195818106,
+  "endTime": 1767198936857,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -9,6 +9,14 @@
       "onboard_time": 1767016887,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16082398,
+      "num": 16082398,
+      "word": "新年快乐",
+      "onboard_time": 1767195447,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15870585,
@@ -97,14 +105,6 @@
       "onboard_time": 1766896460,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1828332,
-      "num": 1828332,
-      "word": "新年快乐",
-      "onboard_time": 1767195447,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1759422,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1183637,
+      "num": 1183637,
+      "word": "跨年",
+      "onboard_time": 1767193410,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1176658,
       "num": 236774,
       "word": "炎亚纶自曝交往过150个对象",
@@ -228,19 +236,19 @@
     },
     {
       "raw_hot": 1140462,
-      "num": 1200631,
+      "num": 1382073,
       "word": "江苏卫视 听爽了",
       "onboard_time": 1767193168,
       "rank": 3,
       "category": "综艺"
     },
     {
-      "raw_hot": 1126181,
-      "num": 1126181,
-      "word": "跨年",
-      "onboard_time": 1767193410,
-      "rank": 5,
-      "category": "情感"
+      "raw_hot": 1134971,
+      "num": 1134971,
+      "word": "不染 难唱",
+      "onboard_time": 1767195686,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 1115888,
@@ -564,7 +572,7 @@
     },
     {
       "raw_hot": 737988,
-      "num": 1123066,
+      "num": 1179987,
       "word": "江苏卫视大爆",
       "onboard_time": 1767193528,
       "rank": 6,
@@ -817,6 +825,14 @@
       "onboard_time": 1767105980,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 614251,
+      "num": 1130566,
+      "word": "种地吧",
+      "onboard_time": 1767171081,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 609543,
@@ -1227,6 +1243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 488298,
+      "num": 4872779,
+      "word": "2026壁纸",
+      "onboard_time": 1767175881,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 487443,
       "num": 487443,
       "word": "半个娱乐圈都来董璇评论区团建了",
@@ -1305,6 +1329,14 @@
       "onboard_time": 1767068061,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 470968,
+      "num": 1129814,
+      "word": "新年快乐图片",
+      "onboard_time": 1767198625,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 470088,
@@ -1660,7 +1692,7 @@
     },
     {
       "raw_hot": 418034,
-      "num": 418034,
+      "num": 1128693,
       "word": "王者荣耀",
       "onboard_time": 1766978719,
       "rank": 5,
@@ -1771,14 +1803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 403103,
-      "num": 1079123,
-      "word": "种地吧",
-      "onboard_time": 1767171081,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 401729,
       "num": 401729,
       "word": "张子枫马嘉祺新剧官宣海报",
@@ -1801,6 +1825,14 @@
       "onboard_time": 1767060980,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 399356,
+      "num": 1134504,
+      "word": "跨年收视率",
+      "onboard_time": 1767192568,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 398964,
@@ -1876,7 +1908,7 @@
     },
     {
       "raw_hot": 381913,
-      "num": 1059005,
+      "num": 1118395,
       "word": "湖南卫视你好事做尽",
       "onboard_time": 1767193467,
       "rank": 4,
@@ -2075,6 +2107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 360186,
+      "num": 4579557,
+      "word": "烟花",
+      "onboard_time": 1767182001,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 359132,
       "num": 343866,
       "word": "年度歌手 方大同",
@@ -2163,14 +2203,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 347284,
-      "num": 1022128,
-      "word": "跨年收视率",
-      "onboard_time": 1767192568,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 346098,
       "num": 346098,
       "word": "唐嫣找准了自己赛道",
@@ -2225,14 +2257,6 @@
       "onboard_time": 1766894600,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 334797,
-      "num": 4579557,
-      "word": "烟花",
-      "onboard_time": 1767182001,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 333292,
@@ -2484,11 +2508,19 @@
     },
     {
       "raw_hot": 308649,
-      "num": 1007863,
+      "num": 1125940,
       "word": "心愿便利贴好甜",
       "onboard_time": 1767195208,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 308419,
+      "num": 1132657,
+      "word": "2026第一条微博",
+      "onboard_time": 1767198386,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 307904,
@@ -2723,6 +2755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289588,
+      "num": 1132085,
+      "word": "跨年朋友圈",
+      "onboard_time": 1767194427,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 288136,
       "num": 288136,
       "word": "逍遥 犬夜叉",
@@ -2859,14 +2899,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 277127,
-      "num": 4872779,
-      "word": "2026壁纸",
-      "onboard_time": 1767175881,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 276742,
       "num": 276742,
       "word": "你好星期六全员团建路透",
@@ -2993,6 +3025,14 @@
       "onboard_time": 1767052940,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 265336,
+      "num": 1130931,
+      "word": "跨年图片",
+      "onboard_time": 1767197907,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 265293,
@@ -3307,14 +3347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 237755,
-      "num": 1036697,
-      "word": "跨年朋友圈",
-      "onboard_time": 1767194427,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 236320,
       "num": 236320,
       "word": "潘玮柏和妻子宣云差14岁",
@@ -3508,7 +3540,7 @@
     },
     {
       "raw_hot": 226039,
-      "num": 994413,
+      "num": 1123407,
       "word": "B站跨年 好看",
       "onboard_time": 1767192507,
       "rank": 26,
@@ -3537,6 +3569,14 @@
       "onboard_time": 1766979919,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 222295,
+      "num": 1128459,
+      "word": "FGO",
+      "onboard_time": 1767196767,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 222029,
@@ -3580,7 +3620,7 @@
     },
     {
       "raw_hot": 220334,
-      "num": 1069724,
+      "num": 1124806,
       "word": "寻秦记",
       "onboard_time": 1766935701,
       "rank": 34,
@@ -3617,6 +3657,14 @@
       "onboard_time": 1766885000,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219002,
+      "num": 1127848,
+      "word": "央视舞美 夯爆了",
+      "onboard_time": 1767196407,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 218560,
@@ -4028,7 +4076,7 @@
     },
     {
       "raw_hot": 195489,
-      "num": 1030312,
+      "num": 1122505,
       "word": "2026跨年图片",
       "onboard_time": 1767195208,
       "rank": 24,
@@ -4257,6 +4305,14 @@
       "onboard_time": 1767080420,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189064,
+      "num": 1126776,
+      "word": "马年",
+      "onboard_time": 1767198386,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188840,
@@ -4497,14 +4553,6 @@
       "onboard_time": 1767072322,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 181719,
-      "num": 986986,
-      "word": "不染 难唱",
-      "onboard_time": 1767195686,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 181522,
@@ -4913,6 +4961,14 @@
       "onboard_time": 1766993840,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167596,
+      "num": 1126343,
+      "word": "跨年照片",
+      "onboard_time": 1767198149,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 167551,
@@ -6772,7 +6828,7 @@
     },
     {
       "raw_hot": 125852,
-      "num": 1042853,
+      "num": 1127359,
       "word": "花花送的京东跨晚大奖是它",
       "onboard_time": 1767195266,
       "rank": 22,
@@ -7216,6 +7272,14 @@
       "word": "青你1选手上恋综不谈恋爱当木工",
       "onboard_time": 1766997562,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 120093,
+      "num": 1120691,
+      "word": "2026种自己得自己",
+      "onboard_time": 1767197367,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -7787,12 +7851,28 @@
       "category": "美食,运动健身"
     },
     {
+      "raw_hot": 112688,
+      "num": 1120543,
+      "word": "专属天使 听哭了",
+      "onboard_time": 1767196045,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112664,
       "num": 112664,
       "word": "伦纳德51分",
       "onboard_time": 1766983462,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112630,
+      "num": 1120072,
+      "word": "跨年烟花秀",
+      "onboard_time": 1767197729,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112615,
@@ -8737,6 +8817,14 @@
       "onboard_time": 1767099143,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101492,
+      "num": 1119336,
+      "word": "友谊地久天长",
+      "onboard_time": 1767197907,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 101411,
@@ -9961,6 +10049,14 @@
       "onboard_time": 1767040034,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 89583,
+      "num": 1130156,
+      "word": "上迪10岁生日庆典logo细节拉满",
+      "onboard_time": 1767193708,
+      "rank": 15,
+      "category": "旅游"
     },
     {
       "raw_hot": 89515,
@@ -11531,14 +11627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 71453,
-      "num": 1088863,
-      "word": "上迪10岁生日庆典logo细节拉满",
-      "onboard_time": 1767193708,
-      "rank": 15,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 71343,
       "num": 114467,
       "word": "福建海警闽南语喊话",
@@ -11553,6 +11641,14 @@
       "onboard_time": 1767000441,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71271,
+      "num": 1117973,
+      "word": "上海迪士尼跨年烟花",
+      "onboard_time": 1767198086,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 71236,
@@ -11705,6 +11801,14 @@
       "onboard_time": 1767086421,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67470,
+      "num": 1133162,
+      "word": "隔空碰杯成为新跨年仪式",
+      "onboard_time": 1767197550,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67381,
@@ -14368,6 +14472,14 @@
       "word": "北方第二城今年会易主吗",
       "onboard_time": 1767090862,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21212,
+      "num": 1143524,
+      "word": "一起为梦想奋斗",
+      "onboard_time": 1767195926,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
