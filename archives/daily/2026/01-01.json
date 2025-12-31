@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767198936857,
+  "endTime": 1767199802611,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -51,7 +51,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 511057,
+      "raw_hot": 580217,
       "num": 1179987,
       "word": "江苏卫视大爆",
       "onboard_time": 1767193528,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 357856,
+      "num": 1128693,
+      "word": "王者荣耀",
+      "onboard_time": 1767198386,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 318965,
       "num": 2879711,
       "word": "祖国统一历史大势不可阻挡",
@@ -121,6 +129,14 @@
       "onboard_time": 1767198386,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 305257,
+      "num": 859681,
+      "word": "不要回头",
+      "onboard_time": 1767199644,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 289588,
@@ -155,14 +171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231237,
-      "num": 1128693,
-      "word": "王者荣耀",
-      "onboard_time": 1767198386,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 222295,
       "num": 1128459,
       "word": "FGO",
@@ -185,6 +193,14 @@
       "onboard_time": 1767198386,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170233,
+      "num": 1124806,
+      "word": "寻秦记",
+      "onboard_time": 1767192388,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 167596,
@@ -219,12 +235,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152532,
-      "num": 1124806,
-      "word": "寻秦记",
-      "onboard_time": 1767192388,
-      "rank": 33,
-      "category": "电影"
+      "raw_hot": 151243,
+      "num": 1120543,
+      "word": "专属天使 听哭了",
+      "onboard_time": 1767196045,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 142041,
@@ -259,6 +275,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139156,
+      "num": 1121761,
+      "word": "我国芯片自主研发新突破",
+      "onboard_time": 1767188665,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 130902,
+      "num": 1120691,
+      "word": "2026种自己得自己",
+      "onboard_time": 1767197367,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129500,
       "num": 1122505,
       "word": "2026跨年图片",
@@ -267,36 +299,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 129439,
-      "num": 1121761,
-      "word": "我国芯片自主研发新突破",
-      "onboard_time": 1767188665,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 122853,
       "num": 1121186,
       "word": "跨年文案",
       "onboard_time": 1767151581,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120093,
-      "num": 1120691,
-      "word": "2026种自己得自己",
-      "onboard_time": 1767197367,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 112688,
-      "num": 1120543,
-      "word": "专属天使 听哭了",
-      "onboard_time": 1767196045,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 112630,
@@ -347,6 +355,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 87749,
+      "num": 1133162,
+      "word": "隔空碰杯成为新跨年仪式",
+      "onboard_time": 1767197550,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85594,
       "num": 1127359,
       "word": "花花送的京东跨晚大奖是它",
@@ -355,7 +371,7 @@
       "category": "艺人,互联网"
     },
     {
-      "raw_hot": 71271,
+      "raw_hot": 78436,
       "num": 1117973,
       "word": "上海迪士尼跨年烟花",
       "onboard_time": 1767198086,
@@ -363,12 +379,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 67470,
-      "num": 1133162,
-      "word": "隔空碰杯成为新跨年仪式",
-      "onboard_time": 1767197550,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 69752,
+      "num": 848229,
+      "word": "长期手机充电至100%会损伤电池",
+      "onboard_time": 1767176961,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 64071,
+      "num": 1153218,
+      "word": "完美世界",
+      "onboard_time": 1767180742,
+      "rank": 8,
+      "category": "动漫"
     },
     {
       "raw_hot": 60826,
@@ -379,14 +403,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 60550,
-      "num": 1153218,
-      "word": "完美世界",
-      "onboard_time": 1767180742,
-      "rank": 8,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 21212,
       "num": 1143524,
       "word": "一起为梦想奋斗",
@@ -395,7 +411,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12443,
+      "raw_hot": 13041,
       "num": 1117237,
       "word": "全球首个个人机器人",
       "onboard_time": 1767174080,
