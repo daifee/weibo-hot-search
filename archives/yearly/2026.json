@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767206374362,
+  "endTime": 1767207159249,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -379,6 +379,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 85638,
+      "num": 319438,
+      "word": "生理性喜欢的4个信号",
+      "onboard_time": 1767206057,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 85594,
       "num": 1127359,
       "word": "花花送的京东跨晚大奖是它",
@@ -403,20 +411,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 52110,
-      "num": 319438,
-      "word": "生理性喜欢的4个信号",
-      "onboard_time": 1767206057,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 42898,
       "num": 1384890,
       "word": "悟空和哪吒风靡全球",
       "onboard_time": 1767182124,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 22629,
+      "num": 318180,
+      "word": "B站跨年晚会",
+      "onboard_time": 1767180502,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 22618,
@@ -433,14 +441,6 @@
       "onboard_time": 1767194126,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 22304,
-      "num": 318180,
-      "word": "B站跨年晚会",
-      "onboard_time": 1767180502,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 21212,
