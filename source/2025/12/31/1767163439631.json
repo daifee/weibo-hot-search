@@ -1,0 +1,410 @@
+{
+  "runTime": 1767163439631,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 691041,
+        "num": 1110566,
+        "word": "湖南卫视跨年节目单",
+        "onboard_time": 1767153678,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221197,
+        "num": 818444,
+        "word": "英法加拿大等十国联合声明",
+        "onboard_time": 1767152840,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21025,
+        "num": 632603,
+        "word": "一项项突破见证奋进中国",
+        "onboard_time": 1767152119,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 230298,
+        "num": 230298,
+        "word": "印度和乌克兰吵起来了",
+        "onboard_time": 1767160580,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 228886,
+        "num": 228886,
+        "word": "九重天",
+        "onboard_time": 1767162739,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208348,
+        "num": 208348,
+        "word": "台独斩杀线",
+        "onboard_time": 1767161599,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 203045,
+        "num": 203045,
+        "word": "江苏卫视跨年节目单",
+        "onboard_time": 1767145220,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185750,
+        "num": 185750,
+        "word": "你说的跨年该不会是这样吧",
+        "onboard_time": 1767154039,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169951,
+        "num": 169951,
+        "word": "李在明访华团队阵容公开",
+        "onboard_time": 1767162201,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154586,
+        "num": 154586,
+        "word": "湖人 失误",
+        "onboard_time": 1767162080,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1420243,
+        "num": 153792,
+        "word": "还珠格格入驻微博",
+        "onboard_time": 1767159259,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200891,
+        "num": 150005,
+        "word": "骄阳似我 明年和好",
+        "onboard_time": 1767160760,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 640258,
+        "num": 146417,
+        "word": "娜扎让于正排队",
+        "onboard_time": 1767160399,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209054,
+        "num": 139583,
+        "word": "日本游客脱外衣欲下恒河被当地人怒斥",
+        "onboard_time": 1767153379,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 26289,
+        "num": 136768,
+        "word": "何炅的健康小目标",
+        "onboard_time": 1767160879,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161898,
+        "num": 134172,
+        "word": "真的建议工作时不要幼化自己",
+        "onboard_time": 1767152239,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22748,
+        "num": 127684,
+        "word": "始终会陪我跨年的竟是特仑苏",
+        "onboard_time": 1767161301,
+        "rank": 16,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 127631,
+        "num": 127631,
+        "word": "福建海警要求台方用中文交流",
+        "onboard_time": 1767141981,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113238,
+        "num": 127589,
+        "word": "广州小孩哥坐地铁上学睡过23个站",
+        "onboard_time": 1767141620,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58966,
+        "num": 127166,
+        "word": "李在镕将随李在明访华",
+        "onboard_time": 1767163038,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34520,
+        "num": 126568,
+        "word": "和檀健次一起净享四季",
+        "onboard_time": 1767161119,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379073,
+        "num": 126242,
+        "word": "迪丽热巴 九重天",
+        "onboard_time": 1767159621,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 475884,
+        "num": 126096,
+        "word": "黄金",
+        "onboard_time": 1767161301,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 302345,
+        "num": 125751,
+        "word": "跑男史上最强女嘉宾",
+        "onboard_time": 1767158059,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287138,
+        "num": 125294,
+        "word": "邓超帅成这样孙俪负全责",
+        "onboard_time": 1767162201,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213555,
+        "num": 125010,
+        "word": "白鹿复刻李青月造型",
+        "onboard_time": 1767159500,
+        "rank": 25,
+        "category": "剧集,综艺"
+      },
+      {
+        "raw_hot": 202613,
+        "num": 124445,
+        "word": "王鹤棣孟子义2次跨年拥抱",
+        "onboard_time": 1767157400,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70448,
+        "num": 124378,
+        "word": "育儿补贴下周一全面开放申领",
+        "onboard_time": 1767152360,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186558,
+        "num": 123829,
+        "word": "林屿森 林医生",
+        "onboard_time": 1767162439,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21899,
+        "num": 123511,
+        "word": "烟台让新年装满童话",
+        "onboard_time": 1767161239,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160082,
+        "num": 123259,
+        "word": "肖战跨晚彩排照",
+        "onboard_time": 1767159022,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122938,
+        "num": 122938,
+        "word": "张杰今晚直播唱5个小时",
+        "onboard_time": 1767156920,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118322,
+        "num": 118322,
+        "word": "2025辛苦了老己",
+        "onboard_time": 1767162140,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121161,
+        "num": 117862,
+        "word": "孩子吃席打翻菜盘数次道歉父亲发声",
+        "onboard_time": 1767158000,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96802,
+        "num": 116797,
+        "word": "她一进来考官先站起来了",
+        "onboard_time": 1767162381,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88371,
+        "num": 116054,
+        "word": "国家发改委提前下达约2950亿元",
+        "onboard_time": 1767160879,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88113,
+        "num": 115557,
+        "word": "广州睡过23站小学生获发迟到券",
+        "onboard_time": 1767163339,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63770,
+        "num": 114414,
+        "word": "黄子韬瘦了",
+        "onboard_time": 1767162620,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48404,
+        "num": 114082,
+        "word": "谁又惹张峻豪高兴了",
+        "onboard_time": 1767162620,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69882,
+        "num": 112766,
+        "word": "围台演习一天封一天打",
+        "onboard_time": 1767156260,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112568,
+        "num": 112568,
+        "word": "明星跨年出图",
+        "onboard_time": 1767157041,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104950,
+        "num": 104950,
+        "word": "骄阳似我更新",
+        "onboard_time": 1767155660,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104648,
+        "num": 104648,
+        "word": "北京卫视跨年节目单",
+        "onboard_time": 1767160399,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104507,
+        "num": 104507,
+        "word": "杨紫2025的词是破土",
+        "onboard_time": 1767161599,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99649,
+        "num": 99649,
+        "word": "穆祉丞王橹杰 内娱跨年第一刀",
+        "onboard_time": 1767149179,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86254,
+        "num": 86254,
+        "word": "孙颖莎比耶",
+        "onboard_time": 1767160700,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96166,
+        "num": 84671,
+        "word": "东方卫视跨年全阵容名单",
+        "onboard_time": 1767154099,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82384,
+        "num": 83833,
+        "word": "微信辟谣支付服务暂停",
+        "onboard_time": 1767162980,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 83037,
+        "num": 83037,
+        "word": "第五人格赛事",
+        "onboard_time": 1767163339,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 66184,
+        "num": 82985,
+        "word": "阴阳师",
+        "onboard_time": 1767159140,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#新年贺词里的这些话语温暖人心#"
+    }
+  }
+}

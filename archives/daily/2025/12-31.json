@@ -1,6 +1,6 @@
 {
   "startTime": 1767112630920,
-  "endTime": 1767160114003,
+  "endTime": 1767163439631,
   "band_list": [
     {
       "raw_hot": 2919800,
@@ -9,6 +9,14 @@
       "onboard_time": 1767153678,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1420243,
+      "num": 217627,
+      "word": "还珠格格入驻微博",
+      "onboard_time": 1767159259,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 1373367,
@@ -25,6 +33,14 @@
       "onboard_time": 1767136578,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 640258,
+      "num": 146417,
+      "word": "娜扎让于正排队",
+      "onboard_time": 1767160399,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 585250,
@@ -57,6 +73,14 @@
       "onboard_time": 1767149179,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 475884,
+      "num": 126096,
+      "word": "黄金",
+      "onboard_time": 1767161301,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 462593,
@@ -123,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 379073,
+      "num": 198715,
+      "word": "迪丽热巴 九重天",
+      "onboard_time": 1767159621,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 362055,
       "num": 86704,
       "word": "林俊杰女友七七婚纱写真",
@@ -171,6 +203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 302345,
+      "num": 217106,
+      "word": "跑男史上最强女嘉宾",
+      "onboard_time": 1767158059,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 296332,
       "num": 239942,
       "word": "跨年文案",
@@ -192,6 +232,14 @@
       "word": "湖南卫视跨年彩排",
       "onboard_time": 1767148760,
       "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 287138,
+      "num": 125294,
+      "word": "邓超帅成这样孙俪负全责",
+      "onboard_time": 1767162201,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -219,14 +267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 276971,
-      "num": 217627,
-      "word": "还珠格格入驻微博",
-      "onboard_time": 1767159259,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 268223,
       "num": 216994,
       "word": "第一次见国产剧一具尸体十个现场",
@@ -249,14 +289,6 @@
       "onboard_time": 1767156920,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 261763,
-      "num": 217106,
-      "word": "跑男史上最强女嘉宾",
-      "onboard_time": 1767158059,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 258074,
@@ -339,6 +371,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 230298,
+      "num": 230298,
+      "word": "印度和乌克兰吵起来了",
+      "onboard_time": 1767160580,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 228886,
+      "num": 228886,
+      "word": "九重天",
+      "onboard_time": 1767162739,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221099,
       "num": 200297,
       "word": "你是我26岁唯一的新娘",
@@ -371,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 213555,
+      "num": 207475,
+      "word": "白鹿复刻李青月造型",
+      "onboard_time": 1767159500,
+      "rank": 22,
+      "category": "剧集,综艺"
+    },
+    {
       "raw_hot": 209297,
       "num": 182170,
       "word": "寻秦记上映",
@@ -379,12 +435,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 207475,
-      "num": 207475,
-      "word": "白鹿复刻李青月造型",
-      "onboard_time": 1767159500,
-      "rank": 22,
-      "category": "剧集,综艺"
+      "raw_hot": 208348,
+      "num": 208348,
+      "word": "台独斩杀线",
+      "onboard_time": 1767161599,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 205647,
@@ -401,6 +457,14 @@
       "onboard_time": 1767159022,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200891,
+      "num": 150005,
+      "word": "骄阳似我 明年和好",
+      "onboard_time": 1767160760,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 198893,
@@ -475,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186558,
+      "num": 123829,
+      "word": "林屿森 林医生",
+      "onboard_time": 1767162439,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186212,
       "num": 180244,
       "word": "家长带着幼儿在马路上值护学岗",
@@ -491,14 +563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 180682,
-      "num": 198715,
-      "word": "迪丽热巴 九重天",
-      "onboard_time": 1767159621,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 172871,
       "num": 172871,
       "word": "36岁农村摆摊卖20元一个的披萨",
@@ -513,6 +577,14 @@
       "onboard_time": 1767155179,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169951,
+      "num": 169951,
+      "word": "李在明访华团队阵容公开",
+      "onboard_time": 1767162201,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 168780,
@@ -553,6 +625,14 @@
       "onboard_time": 1767139100,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 154586,
+      "num": 154586,
+      "word": "湖人 失误",
+      "onboard_time": 1767162080,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 150088,
@@ -683,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121161,
+      "num": 199003,
+      "word": "孩子吃席打翻菜盘数次道歉父亲发声",
+      "onboard_time": 1767158000,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121010,
       "num": 198455,
       "word": "B站跨年晚会全网独一份",
@@ -723,6 +811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118322,
+      "num": 118322,
+      "word": "2025辛苦了老己",
+      "onboard_time": 1767162140,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117718,
       "num": 158129,
       "word": "玉茗茶骨",
@@ -737,14 +833,6 @@
       "onboard_time": 1767091101,
       "rank": 8,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 116789,
-      "num": 199003,
-      "word": "孩子吃席打翻菜盘数次道歉父亲发声",
-      "onboard_time": 1767158000,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116724,
@@ -825,6 +913,22 @@
       "onboard_time": 1767106162,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 104648,
+      "num": 104648,
+      "word": "北京卫视跨年节目单",
+      "onboard_time": 1767160399,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 104507,
+      "num": 104507,
+      "word": "杨紫2025的词是破土",
+      "onboard_time": 1767161599,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 104227,
@@ -929,6 +1033,14 @@
       "onboard_time": 1767108081,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96802,
+      "num": 116797,
+      "word": "她一进来考官先站起来了",
+      "onboard_time": 1767162381,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 96548,
@@ -1059,6 +1171,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88371,
+      "num": 116054,
+      "word": "国家发改委提前下达约2950亿元",
+      "onboard_time": 1767160879,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 88113,
+      "num": 115557,
+      "word": "广州睡过23站小学生获发迟到券",
+      "onboard_time": 1767163339,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87717,
       "num": 200316,
       "word": "郑钦文点赞杨幂VOGUE开年刊",
@@ -1097,6 +1225,14 @@
       "onboard_time": 1767146900,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86254,
+      "num": 86254,
+      "word": "孙颖莎比耶",
+      "onboard_time": 1767160700,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 86191,
@@ -1153,6 +1289,22 @@
       "onboard_time": 1767158839,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 83037,
+      "num": 83037,
+      "word": "第五人格赛事",
+      "onboard_time": 1767163339,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 82384,
+      "num": 83833,
+      "word": "微信辟谣支付服务暂停",
+      "onboard_time": 1767162980,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 81515,
@@ -1395,6 +1547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63770,
+      "num": 114414,
+      "word": "黄子韬瘦了",
+      "onboard_time": 1767162620,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 63483,
       "num": 50490,
       "word": "孙颖莎现身交通大学",
@@ -1459,6 +1619,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 58966,
+      "num": 127166,
+      "word": "李在镕将随李在明访华",
+      "onboard_time": 1767163038,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 58244,
       "num": 80129,
       "word": "印度网友向中国网友提问",
@@ -1521,6 +1689,14 @@
       "onboard_time": 1767137838,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 48404,
+      "num": 114082,
+      "word": "谁又惹张峻豪高兴了",
+      "onboard_time": 1767162620,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 47548,
@@ -1707,6 +1883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 34520,
+      "num": 126568,
+      "word": "和檀健次一起净享四季",
+      "onboard_time": 1767161119,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33830,
       "num": 70916,
       "word": "逍遥",
@@ -1787,6 +1971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26289,
+      "num": 136768,
+      "word": "何炅的健康小目标",
+      "onboard_time": 1767160879,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25533,
       "num": 33110,
       "word": "刘宇宁成都演唱会门票秒空",
@@ -1825,6 +2017,22 @@
       "onboard_time": 1767145580,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 22748,
+      "num": 127684,
+      "word": "始终会陪我跨年的竟是特仑苏",
+      "onboard_time": 1767161301,
+      "rank": 16,
+      "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 21899,
+      "num": 123511,
+      "word": "烟台让新年装满童话",
+      "onboard_time": 1767161239,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19979,

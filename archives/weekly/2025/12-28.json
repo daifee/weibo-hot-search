@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767160114003,
+  "endTime": 1767163439631,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -105,6 +105,14 @@
       "onboard_time": 1767058041,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1420243,
+      "num": 217627,
+      "word": "还珠格格入驻微博",
+      "onboard_time": 1767159259,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 1398265,
@@ -609,6 +617,14 @@
       "onboard_time": 1766989700,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 640258,
+      "num": 146417,
+      "word": "娜扎让于正排队",
+      "onboard_time": 1767160399,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 627696,
@@ -1667,6 +1683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 379073,
+      "num": 198715,
+      "word": "迪丽热巴 九重天",
+      "onboard_time": 1767159621,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 379035,
       "num": 379035,
       "word": "女子开浴霸洗澡突然起火",
@@ -2163,6 +2187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 302345,
+      "num": 217106,
+      "word": "跑男史上最强女嘉宾",
+      "onboard_time": 1767158059,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301941,
       "num": 288374,
       "word": "骄阳似我这集演到真假千金",
@@ -2331,6 +2363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 287138,
+      "num": 125294,
+      "word": "邓超帅成这样孙俪负全责",
+      "onboard_time": 1767162201,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286460,
       "num": 248334,
       "word": "迪丽热巴感谢观众喜欢邓妍",
@@ -2433,14 +2473,6 @@
       "onboard_time": 1766922981,
       "rank": 15,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 276971,
-      "num": 217627,
-      "word": "还珠格格入驻微博",
-      "onboard_time": 1767159259,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 276742,
@@ -2593,14 +2625,6 @@
       "onboard_time": 1766887579,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 261763,
-      "num": 217106,
-      "word": "跑男史上最强女嘉宾",
-      "onboard_time": 1767158059,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 261636,
@@ -2987,6 +3011,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230298,
+      "num": 230298,
+      "word": "印度和乌克兰吵起来了",
+      "onboard_time": 1767160580,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 228886,
+      "num": 228886,
+      "word": "九重天",
+      "onboard_time": 1767162739,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228737,
       "num": 207710,
       "word": "陈泽自曝收入",
@@ -3187,6 +3227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213555,
+      "num": 207475,
+      "word": "白鹿复刻李青月造型",
+      "onboard_time": 1767159500,
+      "rank": 22,
+      "category": "剧集,综艺"
+    },
+    {
       "raw_hot": 213313,
       "num": 213313,
       "word": "杨瀚森接锅三分",
@@ -3243,20 +3291,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 208348,
+      "num": 208348,
+      "word": "台独斩杀线",
+      "onboard_time": 1767161599,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 208192,
       "num": 299978,
       "word": "44岁被单位辞退拿了15万离职赔偿",
       "onboard_time": 1767051559,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 207475,
-      "num": 207475,
-      "word": "白鹿复刻李青月造型",
-      "onboard_time": 1767159500,
-      "rank": 22,
-      "category": "剧集,综艺"
     },
     {
       "raw_hot": 206966,
@@ -3393,6 +3441,14 @@
       "onboard_time": 1766856378,
       "rank": 30,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 200891,
+      "num": 150005,
+      "word": "骄阳似我 明年和好",
+      "onboard_time": 1767160760,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 200519,
@@ -3803,6 +3859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186558,
+      "num": 123829,
+      "word": "林屿森 林医生",
+      "onboard_time": 1767162439,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186429,
       "num": 148633,
       "word": "谭松韵 粉丝想要粉丝得到",
@@ -3937,14 +4001,6 @@
       "onboard_time": 1766990480,
       "rank": 34,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 180682,
-      "num": 198715,
-      "word": "迪丽热巴 九重天",
-      "onboard_time": 1767159621,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 180621,
@@ -4241,6 +4297,14 @@
       "onboard_time": 1766920280,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169951,
+      "num": 169951,
+      "word": "李在明访华团队阵容公开",
+      "onboard_time": 1767162201,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 169864,
@@ -4737,6 +4801,14 @@
       "onboard_time": 1766972358,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154586,
+      "num": 154586,
+      "word": "湖人 失误",
+      "onboard_time": 1767162080,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 154460,
@@ -6339,6 +6411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 121161,
+      "num": 199003,
+      "word": "孩子吃席打翻菜盘数次道歉父亲发声",
+      "onboard_time": 1767158000,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121152,
       "num": 121152,
       "word": "800块的苹果全家桶",
@@ -6571,6 +6651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118322,
+      "num": 118322,
+      "word": "2025辛苦了老己",
+      "onboard_time": 1767162140,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 118294,
       "num": 118294,
       "word": "王丽坤曾回应出演短剧",
@@ -6665,14 +6753,6 @@
       "onboard_time": 1766965998,
       "rank": 23,
       "category": "军事"
-    },
-    {
-      "raw_hot": 116789,
-      "num": 199003,
-      "word": "孩子吃席打翻菜盘数次道歉父亲发声",
-      "onboard_time": 1767158000,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116763,
@@ -7555,6 +7635,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 104648,
+      "num": 104648,
+      "word": "北京卫视跨年节目单",
+      "onboard_time": 1767160399,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 104507,
+      "num": 104507,
+      "word": "杨紫2025的词是破土",
+      "onboard_time": 1767161599,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104436,
       "num": 104436,
       "word": "偶遇何美延带三娃做手工",
@@ -8331,6 +8427,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 96802,
+      "num": 116797,
+      "word": "她一进来考官先站起来了",
+      "onboard_time": 1767162381,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96773,
       "num": 96773,
       "word": "永州市委书记与球员拥抱被举高高",
@@ -9035,6 +9139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88371,
+      "num": 116054,
+      "word": "国家发改委提前下达约2950亿元",
+      "onboard_time": 1767160879,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 88364,
       "num": 88364,
       "word": "A股有色板块领跌",
@@ -9049,6 +9161,14 @@
       "onboard_time": 1766978480,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 88113,
+      "num": 115557,
+      "word": "广州睡过23站小学生获发迟到券",
+      "onboard_time": 1767163339,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88067,
@@ -9185,6 +9305,14 @@
       "onboard_time": 1766931743,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86254,
+      "num": 86254,
+      "word": "孙颖莎比耶",
+      "onboard_time": 1767160700,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 86202,
@@ -9523,6 +9651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 83037,
+      "num": 83037,
+      "word": "第五人格赛事",
+      "onboard_time": 1767163339,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 82928,
       "num": 82928,
       "word": "阿娇晒浪姐聚会合照",
@@ -9609,6 +9745,14 @@
       "onboard_time": 1767079520,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82384,
+      "num": 83833,
+      "word": "微信辟谣支付服务暂停",
+      "onboard_time": 1767162980,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 82339,
@@ -10491,6 +10635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 63770,
+      "num": 114414,
+      "word": "黄子韬瘦了",
+      "onboard_time": 1767162620,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 63536,
       "num": 219494,
       "word": "承德火灾45名公职人员被问责",
@@ -10697,6 +10849,14 @@
       "onboard_time": 1766973919,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58966,
+      "num": 127166,
+      "word": "李在镕将随李在明访华",
+      "onboard_time": 1767163038,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 58868,
@@ -11153,6 +11313,14 @@
       "onboard_time": 1767050417,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 48404,
+      "num": 114082,
+      "word": "谁又惹张峻豪高兴了",
+      "onboard_time": 1767162620,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 48344,
@@ -11931,6 +12099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34520,
+      "num": 126568,
+      "word": "和檀健次一起净享四季",
+      "onboard_time": 1767161119,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34498,
       "num": 151823,
       "word": "视频平台不能因为监督才退费",
@@ -12363,6 +12539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26289,
+      "num": 136768,
+      "word": "何炅的健康小目标",
+      "onboard_time": 1767160879,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26164,
       "num": 53939,
       "word": "玉茗茶骨女三是张南演的",
@@ -12603,6 +12787,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 22748,
+      "num": 127684,
+      "word": "始终会陪我跨年的竟是特仑苏",
+      "onboard_time": 1767161301,
+      "rank": 16,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 22663,
       "num": 161569,
       "word": "市监局回应独罚合规医疗器械",
@@ -12633,6 +12825,14 @@
       "onboard_time": 1767029657,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21899,
+      "num": 123511,
+      "word": "烟台让新年装满童话",
+      "onboard_time": 1767161239,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21860,
