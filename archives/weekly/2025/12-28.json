@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767199802611,
+  "endTime": 1767201970854,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -793,6 +793,14 @@
       "onboard_time": 1767009980,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 624910,
+      "num": 1000176,
+      "word": "不要回头",
+      "onboard_time": 1767199644,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 620860,
@@ -2545,14 +2553,6 @@
       "onboard_time": 1767002901,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 305257,
-      "num": 859681,
-      "word": "不要回头",
-      "onboard_time": 1767199644,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 305082,
@@ -4947,6 +4947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 168425,
+      "num": 1120543,
+      "word": "专属天使 听哭了",
+      "onboard_time": 1767196045,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168369,
       "num": 146599,
       "word": "疑似内娱跳的最齐的一回",
@@ -5529,14 +5537,6 @@
       "onboard_time": 1766927301,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151243,
-      "num": 1120543,
-      "word": "专属天使 听哭了",
-      "onboard_time": 1767196045,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 151169,
@@ -6433,6 +6433,14 @@
       "onboard_time": 1767167900,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132473,
+      "num": 1117973,
+      "word": "上海迪士尼跨年烟花",
+      "onboard_time": 1767198086,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 132395,
@@ -11177,14 +11185,6 @@
       "onboard_time": 1766901681,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 78436,
-      "num": 1117973,
-      "word": "上海迪士尼跨年烟花",
-      "onboard_time": 1767198086,
-      "rank": 47,
-      "category": "旅游"
     },
     {
       "raw_hot": 78422,
