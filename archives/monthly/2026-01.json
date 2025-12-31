@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767220156115,
+  "endTime": 1767221106285,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -395,20 +395,20 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 80097,
+      "num": 158415,
+      "word": "哪吒",
+      "onboard_time": 1767216553,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 64071,
       "num": 1384138,
       "word": "完美世界",
       "onboard_time": 1767180742,
       "rank": 8,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 63357,
-      "num": 137908,
-      "word": "哪吒",
-      "onboard_time": 1767216553,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 60826,
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 28449,
-      "num": 137857,
+      "num": 154435,
       "word": "冬泳舞台 伟大",
       "onboard_time": 1767219135,
       "rank": 16,
@@ -475,8 +475,8 @@
       "category": "国内时政,财经"
     },
     {
-      "raw_hot": 16295,
-      "num": 137769,
+      "raw_hot": 16627,
+      "num": 152778,
       "word": "央视跨年晚会",
       "onboard_time": 1767182062,
       "rank": 38,

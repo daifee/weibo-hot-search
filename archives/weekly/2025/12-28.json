@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767220156115,
+  "endTime": 1767221106285,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -11099,6 +11099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80097,
+      "num": 158415,
+      "word": "哪吒",
+      "onboard_time": 1767216553,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 79983,
       "num": 159035,
       "word": "亚洲周刊",
@@ -12009,14 +12017,6 @@
       "onboard_time": 1767136218,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 63357,
-      "num": 137908,
-      "word": "哪吒",
-      "onboard_time": 1767216553,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 63045,
@@ -14004,7 +14004,7 @@
     },
     {
       "raw_hot": 28449,
-      "num": 137857,
+      "num": 154435,
       "word": "冬泳舞台 伟大",
       "onboard_time": 1767219135,
       "rank": 16,
