@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767221106285,
+  "endTime": 1767223670320,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -4723,6 +4723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175119,
+      "num": 175119,
+      "word": "新年红包",
+      "onboard_time": 1767222375,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 174573,
       "num": 174573,
       "word": "王楚钦2025年收获15冠",
@@ -5187,6 +5195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162331,
+      "num": 319438,
+      "word": "生理性喜欢的4个信号",
+      "onboard_time": 1767206057,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 162240,
       "num": 162240,
       "word": "费启鸣 上称得脱光了再上",
@@ -5568,14 +5584,6 @@
       "word": "跨年夜朋友圈这样发",
       "onboard_time": 1767143301,
       "rank": 22,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 150021,
-      "num": 319438,
-      "word": "生理性喜欢的4个信号",
-      "onboard_time": 1767206057,
-      "rank": 23,
       "category": "情感"
     },
     {
@@ -11131,6 +11139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 79756,
+      "num": 106296,
+      "word": "一路生花",
+      "onboard_time": 1767222556,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79579,
       "num": 507267,
       "word": "长辈无用的节俭反而最费钱",
@@ -11401,6 +11417,14 @@
       "onboard_time": 1766829559,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75378,
+      "num": 755966,
+      "word": "2026万事皆可期",
+      "onboard_time": 1767223096,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 74908,
@@ -11777,6 +11801,14 @@
       "onboard_time": 1766975780,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 69462,
+      "num": 100380,
+      "word": "湖南跨晚收视率第一",
+      "onboard_time": 1767222556,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 69282,
@@ -13603,6 +13635,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 35741,
+      "num": 98735,
+      "word": "新年文案",
+      "onboard_time": 1767222196,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 35355,
       "num": 42246,
       "word": "Epic送三位一体",
@@ -14347,6 +14387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 23561,
+      "num": 97864,
+      "word": "2026我来啦",
+      "onboard_time": 1767222375,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 23560,
       "num": 167408,
       "word": "为何一年公布两次黄岩岛生态报告",
@@ -14433,6 +14481,14 @@
       "onboard_time": 1767203299,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 22594,
+      "num": 97795,
+      "word": "一条音频告别2025",
+      "onboard_time": 1767222375,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 22481,
@@ -14921,6 +14977,14 @@
       "onboard_time": 1766928381,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13122,
+      "num": 549225,
+      "word": "推进全体人民共同富裕",
+      "onboard_time": 1767223278,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11938,
