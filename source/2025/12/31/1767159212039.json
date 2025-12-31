@@ -1,0 +1,410 @@
+{
+  "runTime": 1767159212039,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1529745,
+        "num": 1529745,
+        "word": "湖南卫视跨年节目单",
+        "onboard_time": 1767153678,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399367,
+        "num": 871819,
+        "word": "英法加拿大等十国联合声明",
+        "onboard_time": 1767152840,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23167,
+        "num": 700224,
+        "word": "一项项突破见证奋进中国",
+        "onboard_time": 1767152119,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 420696,
+        "num": 420696,
+        "word": "江苏卫视跨年节目单",
+        "onboard_time": 1767145220,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302683,
+        "num": 302683,
+        "word": "原神",
+        "onboard_time": 1767157041,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 321880,
+        "num": 281826,
+        "word": "东方卫视跨年全阵容名单",
+        "onboard_time": 1767154099,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254844,
+        "num": 254844,
+        "word": "你说的跨年该不会是这样吧",
+        "onboard_time": 1767154039,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204874,
+        "num": 204874,
+        "word": "福建海警要求台方用中文交流",
+        "onboard_time": 1767141981,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 161897,
+        "num": 203371,
+        "word": "广州小孩哥坐地铁上学睡过23个站",
+        "onboard_time": 1767141620,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121538,
+        "num": 202511,
+        "word": "育儿补贴下周一全面开放申领",
+        "onboard_time": 1767152360,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435695,
+        "num": 201203,
+        "word": "日本游客脱外衣欲下恒河被当地人怒斥",
+        "onboard_time": 1767153379,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 284379,
+        "num": 199028,
+        "word": "骄阳似我更新",
+        "onboard_time": 1767155660,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268223,
+        "num": 197882,
+        "word": "第一次见国产剧一具尸体十个现场",
+        "onboard_time": 1767155301,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250082,
+        "num": 196820,
+        "word": "王鹤棣孟子义2次跨年拥抱",
+        "onboard_time": 1767157400,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245409,
+        "num": 194754,
+        "word": "张杰今晚直播唱5个小时",
+        "onboard_time": 1767156920,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 238321,
+        "num": 192404,
+        "word": "肯尼迪35岁孙女因病去世",
+        "onboard_time": 1767153020,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 192036,
+        "num": 192036,
+        "word": "真的建议工作时不要幼化自己",
+        "onboard_time": 1767152239,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116789,
+        "num": 190679,
+        "word": "孩子吃席打翻菜盘数次道歉父亲发声",
+        "onboard_time": 1767158000,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113265,
+        "num": 188335,
+        "word": "只有养猫后才懂的照片",
+        "onboard_time": 1767157521,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19738,
+        "num": 183886,
+        "word": "和靳东走进吴冠中笔下的春天",
+        "onboard_time": 1767155241,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271079,
+        "num": 182030,
+        "word": "明星跨年出图",
+        "onboard_time": 1767157041,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198893,
+        "num": 178896,
+        "word": "卢昱晓的跨年图是自己策划的",
+        "onboard_time": 1767158360,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176964,
+        "num": 176964,
+        "word": "穆祉丞王橹杰 内娱跨年第一刀",
+        "onboard_time": 1767149179,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150586,
+        "num": 150586,
+        "word": "浙江卫视跨年晚会节目单",
+        "onboard_time": 1767146960,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99477,
+        "num": 141656,
+        "word": "阴阳师",
+        "onboard_time": 1767159140,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137455,
+        "num": 137455,
+        "word": "肖战跨晚彩排照",
+        "onboard_time": 1767159022,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83113,
+        "num": 131847,
+        "word": "幼儿园回应家长带幼儿值护学岗",
+        "onboard_time": 1767158000,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81431,
+        "num": 131557,
+        "word": "育儿补贴发放超过2400万人",
+        "onboard_time": 1767158059,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131294,
+        "num": 131294,
+        "word": "骄阳似我",
+        "onboard_time": 1767156140,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27910,
+        "num": 129774,
+        "word": "烟台交出绿色增长双答卷",
+        "onboard_time": 1767155839,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81350,
+        "num": 122427,
+        "word": "围台演习一天封一天打",
+        "onboard_time": 1767156260,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 177731,
+        "num": 121718,
+        "word": "跑男史上最强女嘉宾",
+        "onboard_time": 1767158059,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70289,
+        "num": 113900,
+        "word": "多场跨年烟花表演宣布取消",
+        "onboard_time": 1767157400,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112161,
+        "num": 112161,
+        "word": "汪苏泷伴手礼是罗曼城全家福",
+        "onboard_time": 1767158600,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104663,
+        "num": 104663,
+        "word": "林屿森聂曦光捧脸吻",
+        "onboard_time": 1767155179,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102030,
+        "num": 102030,
+        "word": "看了6集猜对0个凶手",
+        "onboard_time": 1767147379,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93627,
+        "num": 100182,
+        "word": "ivl",
+        "onboard_time": 1767157459,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98391,
+        "num": 98391,
+        "word": "白桃星座2026新年好运",
+        "onboard_time": 1767158839,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96813,
+        "num": 96813,
+        "word": "A股再现天价离婚分手费超4亿",
+        "onboard_time": 1767156381,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 95731,
+        "num": 95731,
+        "word": "肖战把角色名藏在新年祝福里",
+        "onboard_time": 1767155902,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110880,
+        "num": 95411,
+        "word": "宋威龙赵今麦说顾漫对台词要求高",
+        "onboard_time": 1767155600,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93913,
+        "num": 93913,
+        "word": "恋与深空",
+        "onboard_time": 1767143419,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 93562,
+        "num": 93562,
+        "word": "B站跨年晚会全网独一份",
+        "onboard_time": 1767159022,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88960,
+        "num": 88960,
+        "word": "跨年文案",
+        "onboard_time": 1767151581,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90527,
+        "num": 88581,
+        "word": "8个人贷款2500万上班",
+        "onboard_time": 1767148339,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87717,
+        "num": 87717,
+        "word": "郑钦文点赞杨幂VOGUE开年刊",
+        "onboard_time": 1767156740,
+        "rank": 45,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 87305,
+        "num": 87305,
+        "word": "汪苏泷演唱会无票观众也有座位了",
+        "onboard_time": 1767154759,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86820,
+        "num": 86820,
+        "word": "恋与深空能登顶吗",
+        "onboard_time": 1767156679,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 83223,
+        "num": 85285,
+        "word": "做CT到底伤不伤身体",
+        "onboard_time": 1767158839,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 84899,
+        "num": 84899,
+        "word": "骄阳似我跨年邀请函",
+        "onboard_time": 1767147739,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#新年贺词里的这些话语温暖人心#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1767157042176,
+  "endTime": 1767159212039,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -13443,6 +13443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 435695,
+      "num": 213306,
+      "word": "日本游客脱外衣欲下恒河被当地人怒斥",
+      "onboard_time": 1767153379,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 435532,
       "num": 300456,
       "word": "众星祝福林俊杰",
@@ -14260,7 +14268,7 @@
     },
     {
       "raw_hot": 420665,
-      "num": 214299,
+      "num": 281826,
       "word": "东方卫视跨年全阵容名单",
       "onboard_time": 1767154099,
       "rank": 10,
@@ -14761,14 +14769,6 @@
       "onboard_time": 1766322503,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 409714,
-      "num": 213306,
-      "word": "日本游客脱外衣欲下恒河被当地人怒斥",
-      "onboard_time": 1767153379,
-      "rank": 10,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 409381,
@@ -21035,6 +21035,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 302683,
+      "num": 1390174,
+      "word": "原神",
+      "onboard_time": 1764751343,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 302592,
       "num": 192637,
       "word": "俞灏明王晓晨牵手出行",
@@ -23667,6 +23675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271079,
+      "num": 182030,
+      "word": "明星跨年出图",
+      "onboard_time": 1767157041,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271068,
       "num": 271606,
       "word": "日本住持捐出5千份日军侵华史料",
@@ -23849,6 +23865,14 @@
       "onboard_time": 1765688423,
       "rank": 5,
       "category": "军事"
+    },
+    {
+      "raw_hot": 268223,
+      "num": 212080,
+      "word": "第一次见国产剧一具尸体十个现场",
+      "onboard_time": 1767155301,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 268084,
@@ -25131,6 +25155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254844,
+      "num": 254844,
+      "word": "你说的跨年该不会是这样吧",
+      "onboard_time": 1767154039,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 254807,
       "num": 254807,
       "word": "王一博的舌苔",
@@ -25257,14 +25289,6 @@
       "onboard_time": 1766905760,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 253617,
-      "num": 212080,
-      "word": "第一次见国产剧一具尸体十个现场",
-      "onboard_time": 1767155301,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 253401,
@@ -25521,6 +25545,14 @@
       "onboard_time": 1765623921,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 250082,
+      "num": 196820,
+      "word": "王鹤棣孟子义2次跨年拥抱",
+      "onboard_time": 1767157400,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 249933,
@@ -25977,6 +26009,14 @@
       "onboard_time": 1766821040,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245409,
+      "num": 200328,
+      "word": "张杰今晚直播唱5个小时",
+      "onboard_time": 1767156920,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 245283,
@@ -26515,14 +26555,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 238631,
-      "num": 1390174,
-      "word": "原神",
-      "onboard_time": 1764751343,
-      "rank": 3,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 238611,
       "num": 238611,
       "word": "燕云十六声不只是情趣",
@@ -26561,6 +26593,14 @@
       "onboard_time": 1766289380,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 238321,
+      "num": 208826,
+      "word": "肯尼迪35岁孙女因病去世",
+      "onboard_time": 1767153020,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 238273,
@@ -32219,14 +32259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200328,
-      "num": 200328,
-      "word": "张杰今晚直播唱5个小时",
-      "onboard_time": 1767156920,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 200284,
       "num": 200284,
       "word": "让体脂率不断下降的习惯",
@@ -32579,6 +32611,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 198893,
+      "num": 178896,
+      "word": "卢昱晓的跨年图是自己策划的",
+      "onboard_time": 1767158360,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198838,
       "num": 198838,
       "word": "iPhone实况图的选取机制",
@@ -32873,14 +32913,6 @@
       "onboard_time": 1765031543,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 197568,
-      "num": 208826,
-      "word": "肯尼迪35岁孙女因病去世",
-      "onboard_time": 1767153020,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 197554,
@@ -34209,6 +34241,14 @@
       "onboard_time": 1765840637,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 192036,
+      "num": 207220,
+      "word": "真的建议工作时不要幼化自己",
+      "onboard_time": 1767152239,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 191984,
@@ -38083,6 +38123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177731,
+      "num": 121718,
+      "word": "跑男史上最强女嘉宾",
+      "onboard_time": 1767158059,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177717,
       "num": 177717,
       "word": "人人人人济南地铁人人人人",
@@ -40265,14 +40313,6 @@
       "onboard_time": 1765115482,
       "rank": 25,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 169237,
-      "num": 217750,
-      "word": "你说的跨年该不会是这样吧",
-      "onboard_time": 1767154039,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 169231,
@@ -49955,14 +49995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140342,
-      "num": 207220,
-      "word": "真的建议工作时不要幼化自己",
-      "onboard_time": 1767152239,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 140339,
       "num": 140339,
       "word": "贾霞儿子706天没见到妈妈了",
@@ -51249,6 +51281,14 @@
       "onboard_time": 1764746301,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137455,
+      "num": 137455,
+      "word": "肖战跨晚彩排照",
+      "onboard_time": 1767159022,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 137453,
@@ -62291,6 +62331,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 116789,
+      "num": 190679,
+      "word": "孩子吃席打翻菜盘数次道歉父亲发声",
+      "onboard_time": 1767158000,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116772,
       "num": 159939,
       "word": "凤凰台上 死了都要爱",
@@ -64395,6 +64443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 113265,
+      "num": 188335,
+      "word": "只有养猫后才懂的照片",
+      "onboard_time": 1767157521,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113255,
       "num": 113255,
       "word": "摩尔线程市值突破4000亿",
@@ -65177,6 +65233,14 @@
       "onboard_time": 1765169002,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112161,
+      "num": 112161,
+      "word": "汪苏泷伴手礼是罗曼城全家福",
+      "onboard_time": 1767158600,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 112148,
@@ -74187,6 +74251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98391,
+      "num": 98391,
+      "word": "白桃星座2026新年好运",
+      "onboard_time": 1767158839,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98387,
       "num": 228234,
       "word": "电影院凭什么不让拍",
@@ -76835,6 +76907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93627,
+      "num": 100182,
+      "word": "ivl",
+      "onboard_time": 1767157459,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 93596,
       "num": 93596,
       "word": "气血不足的1个典型表现",
@@ -76849,6 +76929,14 @@
       "onboard_time": 1765114822,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 93562,
+      "num": 93562,
+      "word": "B站跨年晚会全网独一份",
+      "onboard_time": 1767159022,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 93548,
@@ -80347,6 +80435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87717,
+      "num": 200316,
+      "word": "郑钦文点赞杨幂VOGUE开年刊",
+      "onboard_time": 1767156740,
+      "rank": 37,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 87715,
       "num": 118874,
       "word": "库里这球比AI还离谱",
@@ -80697,6 +80793,14 @@
       "onboard_time": 1765236439,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 86820,
+      "num": 86820,
+      "word": "恋与深空能登顶吗",
+      "onboard_time": 1767156679,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 86805,
@@ -82539,6 +82643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 83223,
+      "num": 85285,
+      "word": "做CT到底伤不伤身体",
+      "onboard_time": 1767158839,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 83218,
       "num": 85655,
       "word": "杨瀚森连得4分",
@@ -82601,6 +82713,14 @@
       "onboard_time": 1765800802,
       "rank": 48,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 83113,
+      "num": 131847,
+      "word": "幼儿园回应家长带幼儿值护学岗",
+      "onboard_time": 1767158000,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83112,
@@ -83483,6 +83603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 81431,
+      "num": 131557,
+      "word": "育儿补贴发放超过2400万人",
+      "onboard_time": 1767158059,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81427,
       "num": 88591,
       "word": "哈尔滨大雪人 颜值巅峰",
@@ -83513,6 +83641,14 @@
       "onboard_time": 1765549044,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 81350,
+      "num": 215793,
+      "word": "围台演习一天封一天打",
+      "onboard_time": 1767156260,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 81312,
@@ -87305,6 +87441,14 @@
       "onboard_time": 1764891678,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 70289,
+      "num": 113900,
+      "word": "多场跨年烟花表演宣布取消",
+      "onboard_time": 1767157400,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70288,
@@ -96235,14 +96379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42655,
-      "num": 200316,
-      "word": "郑钦文点赞杨幂VOGUE开年刊",
-      "onboard_time": 1767156740,
-      "rank": 37,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 42648,
       "num": 65565,
       "word": "王一博提名亚洲流行音乐大奖",
@@ -101953,14 +102089,6 @@
       "onboard_time": 1765511540,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 29116,
-      "num": 215793,
-      "word": "围台演习一天封一天打",
-      "onboard_time": 1767156260,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 29110,
