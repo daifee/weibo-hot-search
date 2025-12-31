@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767192294276,
+  "endTime": 1767194997604,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1140462,
+      "num": 879931,
+      "word": "江苏卫视 听爽了",
+      "onboard_time": 1767193168,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1115888,
       "num": 261930,
       "word": "演员闫学晶哭穷引争议",
@@ -361,6 +369,14 @@
       "onboard_time": 1766915721,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 871518,
+      "num": 871518,
+      "word": "跨年",
+      "onboard_time": 1767193410,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 864803,
@@ -753,6 +769,14 @@
       "onboard_time": 1767009980,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 624290,
+      "num": 871417,
+      "word": "江苏卫视大爆",
+      "onboard_time": 1767193528,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 620860,
@@ -1835,6 +1859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 381913,
+      "num": 873276,
+      "word": "湖南卫视你好事做尽",
+      "onboard_time": 1767193467,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 379355,
       "num": 379355,
       "word": "房贷才还30年爱奇艺会员充了25年",
@@ -2107,6 +2139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 347284,
+      "num": 846300,
+      "word": "跨年收视率",
+      "onboard_time": 1767192568,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 346098,
       "num": 346098,
       "word": "唐嫣找准了自己赛道",
@@ -2161,6 +2201,14 @@
       "onboard_time": 1766894600,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 334797,
+      "num": 4579557,
+      "word": "烟花",
+      "onboard_time": 1767182001,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 333292,
@@ -2299,14 +2347,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 319426,
-      "num": 4579557,
-      "word": "烟花",
-      "onboard_time": 1767182001,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 319336,
       "num": 1091272,
       "word": "台独斩杀线",
@@ -2395,6 +2435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 311316,
+      "num": 3919198,
+      "word": "马航MH370搜寻船抵达目标海域",
+      "onboard_time": 1767189751,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 309506,
       "num": 309506,
       "word": "多品牌叫停燕云十六声联动",
@@ -2441,6 +2489,14 @@
       "onboard_time": 1767164420,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 304874,
+      "num": 3945875,
+      "word": "祖国统一历史大势不可阻挡",
+      "onboard_time": 1767192268,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 302683,
@@ -2779,6 +2835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 277127,
+      "num": 4872779,
+      "word": "2026壁纸",
+      "onboard_time": 1767175881,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 276742,
       "num": 276742,
       "word": "你好星期六全员团建路透",
@@ -2889,14 +2953,6 @@
       "onboard_time": 1767157400,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 267518,
-      "num": 4872779,
-      "word": "2026壁纸",
-      "onboard_time": 1767175881,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 266106,
@@ -3427,6 +3483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 226039,
+      "num": 845907,
+      "word": "B站跨年 好看",
+      "onboard_time": 1767192507,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225161,
       "num": 214279,
       "word": "杨博文贝斯手男神",
@@ -3729,6 +3793,14 @@
       "onboard_time": 1767153501,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205333,
+      "num": 848143,
+      "word": "跨年朋友圈",
+      "onboard_time": 1767194427,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 204597,
@@ -4889,14 +4961,6 @@
       "onboard_time": 1766919740,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 166425,
-      "num": 3919198,
-      "word": "马航MH370搜寻船抵达目标海域",
-      "onboard_time": 1767189751,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 165728,
@@ -7443,6 +7507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115604,
+      "num": 836205,
+      "word": "2025王者荣耀挑战者杯",
+      "onboard_time": 1767193108,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 115404,
       "num": 115404,
       "word": "张桂源皱眉",
@@ -8673,6 +8745,14 @@
       "onboard_time": 1766918360,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101111,
+      "num": 826594,
+      "word": "电影匿杀",
+      "onboard_time": 1767194126,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 100924,
@@ -11275,6 +11355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73206,
+      "num": 3934534,
+      "word": "三台联唱更好的自己",
+      "onboard_time": 1767191848,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73158,
       "num": 332305,
       "word": "跨年吃葡萄",
@@ -11393,6 +11481,14 @@
       "onboard_time": 1767051199,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71453,
+      "num": 859352,
+      "word": "上迪10岁生日庆典logo细节拉满",
+      "onboard_time": 1767193708,
+      "rank": 15,
+      "category": "旅游"
     },
     {
       "raw_hot": 71343,
@@ -11761,6 +11857,14 @@
       "onboard_time": 1766974459,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 62375,
+      "num": 861099,
+      "word": "千问导演了反方向的钟",
+      "onboard_time": 1767193646,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 62176,
@@ -12819,14 +12923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43973,
-      "num": 3934534,
-      "word": "三台联唱更好的自己",
-      "onboard_time": 1767191848,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 43873,
       "num": 111810,
       "word": "宋佳原来这么高",
@@ -13128,6 +13224,14 @@
       "word": "一项项突破见证奋进中国",
       "onboard_time": 1767152119,
       "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 38332,
+      "num": 867277,
+      "word": "祝大家心有所悦业有所成万事皆可期",
+      "onboard_time": 1767181584,
+      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -13619,6 +13723,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 30455,
+      "num": 843757,
+      "word": "特仑苏和你一起跨向更好的2026",
+      "onboard_time": 1767193467,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30315,
       "num": 40644,
       "word": "张函瑞神的孩子在唱歌",
@@ -13697,6 +13809,14 @@
       "onboard_time": 1766937140,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 29419,
+      "num": 829778,
+      "word": "北京卫视跨年 古早联欢会",
+      "onboard_time": 1767194847,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 29257,
@@ -14705,14 +14825,6 @@
       "onboard_time": 1767151340,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7177,
-      "num": 3945875,
-      "word": "祖国统一历史大势不可阻挡",
-      "onboard_time": 1767192268,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 7131,

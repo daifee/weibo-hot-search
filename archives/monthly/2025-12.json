@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1767192294276,
+  "endTime": 1767194997604,
   "band_list": [
     {
       "raw_hot": 49405342,
@@ -2291,6 +2291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1140462,
+      "num": 879931,
+      "word": "江苏卫视 听爽了",
+      "onboard_time": 1767193168,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1139307,
       "num": 1182289,
       "word": "鸡排哥一夜爆火后现状",
@@ -4041,6 +4049,14 @@
       "onboard_time": 1766637202,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 871518,
+      "num": 871518,
+      "word": "跨年",
+      "onboard_time": 1767193410,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 871199,
@@ -7393,6 +7409,14 @@
       "onboard_time": 1765797500,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 624290,
+      "num": 871417,
+      "word": "江苏卫视大爆",
+      "onboard_time": 1767193528,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 623314,
@@ -16443,6 +16467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 381913,
+      "num": 873276,
+      "word": "湖南卫视你好事做尽",
+      "onboard_time": 1767193467,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 381649,
       "num": 381649,
       "word": "泡泡玛特全新IPSupertutu",
@@ -18379,6 +18411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 347284,
+      "num": 846300,
+      "word": "跨年收视率",
+      "onboard_time": 1767192568,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 346718,
       "num": 252970,
       "word": "小英拿着所有东西从山里搬走了",
@@ -19136,6 +19176,14 @@
       "word": "药品说明书1粒米能挡6个字",
       "onboard_time": 1765530382,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 334797,
+      "num": 4579557,
+      "word": "烟花",
+      "onboard_time": 1767182001,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -20267,14 +20315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 319426,
-      "num": 4579557,
-      "word": "烟花",
-      "onboard_time": 1767182001,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 319336,
       "num": 1091272,
       "word": "台独斩杀线",
@@ -20819,6 +20859,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 311316,
+      "num": 3919198,
+      "word": "马航MH370搜寻船抵达目标海域",
+      "onboard_time": 1767189751,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 311130,
       "num": 355877,
       "word": "TVB女演员钟丽淇女儿患罕见病",
@@ -21233,6 +21281,14 @@
       "onboard_time": 1765114643,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 304874,
+      "num": 3945875,
+      "word": "祖国统一历史大势不可阻挡",
+      "onboard_time": 1767192268,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 304783,
@@ -23491,6 +23547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277127,
+      "num": 4872779,
+      "word": "2026壁纸",
+      "onboard_time": 1767175881,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 277027,
       "num": 222988,
       "word": "日本两个团体请求访华",
@@ -24321,14 +24385,6 @@
       "onboard_time": 1764576203,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 267518,
-      "num": 4872779,
-      "word": "2026壁纸",
-      "onboard_time": 1767175881,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 267396,
@@ -28387,6 +28443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226039,
+      "num": 845907,
+      "word": "B站跨年 好看",
+      "onboard_time": 1767192507,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225916,
       "num": 225916,
       "word": "女孩打翻水杯背后是家庭教育缺位",
@@ -31425,6 +31489,14 @@
       "onboard_time": 1766370260,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205333,
+      "num": 848143,
+      "word": "跨年朋友圈",
+      "onboard_time": 1767194427,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 205314,
@@ -41675,14 +41747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166425,
-      "num": 3919198,
-      "word": "马航MH370搜寻船抵达目标海域",
-      "onboard_time": 1767189751,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166397,
       "num": 166397,
       "word": "何与 单眼皮183长大衣韩剧味溢出了",
@@ -49324,7 +49388,7 @@
     },
     {
       "raw_hot": 143244,
-      "num": 143244,
+      "num": 836205,
       "word": "2025王者荣耀挑战者杯",
       "onboard_time": 1766139260,
       "rank": 26,
@@ -73155,6 +73219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101111,
+      "num": 826594,
+      "word": "电影匿杀",
+      "onboard_time": 1767194126,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 101102,
       "num": 383634,
       "word": "奈飞回应收购华纳兄弟",
@@ -87675,6 +87747,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 73206,
+      "num": 3934534,
+      "word": "三台联唱更好的自己",
+      "onboard_time": 1767191848,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73158,
       "num": 332305,
       "word": "跨年吃葡萄",
@@ -88289,6 +88369,14 @@
       "onboard_time": 1766568201,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71453,
+      "num": 859352,
+      "word": "上迪10岁生日庆典logo细节拉满",
+      "onboard_time": 1767193708,
+      "rank": 15,
+      "category": "旅游"
     },
     {
       "raw_hot": 71432,
@@ -91105,6 +91193,14 @@
       "onboard_time": 1766658262,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62375,
+      "num": 861099,
+      "word": "千问导演了反方向的钟",
+      "onboard_time": 1767193646,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 62304,
@@ -97395,14 +97491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43973,
-      "num": 3934534,
-      "word": "三台联唱更好的自己",
-      "onboard_time": 1767191848,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 43897,
       "num": 277113,
       "word": "鲁豫说鸿蒙的可贵在于开放包容",
@@ -99521,6 +99609,14 @@
       "onboard_time": 1765385538,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 38332,
+      "num": 867277,
+      "word": "祝大家心有所悦业有所成万事皆可期",
+      "onboard_time": 1767181584,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 38318,
@@ -102995,6 +103091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30455,
+      "num": 843757,
+      "word": "特仑苏和你一起跨向更好的2026",
+      "onboard_time": 1767193467,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30446,
       "num": 105243,
       "word": "在哈尔滨游客称室内外温差近50度",
@@ -103473,6 +103577,14 @@
       "onboard_time": 1765030104,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29419,
+      "num": 829778,
+      "word": "北京卫视跨年 古早联欢会",
+      "onboard_time": 1767194847,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 29390,
@@ -110353,14 +110465,6 @@
       "onboard_time": 1764563543,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7177,
-      "num": 3945875,
-      "word": "祖国统一历史大势不可阻挡",
-      "onboard_time": 1767192268,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 7165,
