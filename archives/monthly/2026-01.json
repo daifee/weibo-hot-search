@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767288439408,
+  "endTime": 1767289424720,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1675,7 +1675,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 76401,
+      "raw_hot": 76428,
       "num": 627053,
       "word": "二十年快滴很 弹指一挥间",
       "onboard_time": 1767283939,
@@ -2569,6 +2569,14 @@
       "onboard_time": 1767182062,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17862,
+      "num": 187272,
+      "word": "蔡磊称拯救渐冻症患者不用回报",
+      "onboard_time": 1767287657,
+      "rank": 42,
+      "category": "正能量"
     },
     {
       "raw_hot": 16560,
