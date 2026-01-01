@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767249843469,
+  "endTime": 1767250676230,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -315,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186422,
+      "num": 589551,
+      "word": "南部档案",
+      "onboard_time": 1767247580,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183568,
       "num": 318677,
       "word": "逐玉",
@@ -371,14 +379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167981,
-      "num": 589551,
-      "word": "南部档案",
-      "onboard_time": 1767247580,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 167596,
       "num": 1388124,
       "word": "跨年照片",
@@ -427,7 +427,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159374,
+      "raw_hot": 160168,
       "num": 589535,
       "word": "J人和P人旅游时的区别",
       "onboard_time": 1767247039,
@@ -603,6 +603,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117691,
+      "num": 588907,
+      "word": "湖南跨晚明星全员红装",
+      "onboard_time": 1767245422,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 117273,
+      "num": 588560,
+      "word": "微博之夜",
+      "onboard_time": 1767249260,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 116990,
+      "num": 589160,
+      "word": "爬楼机要爬上泰山了",
+      "onboard_time": 1767246080,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116564,
       "num": 317466,
       "word": "不敢让孩子玩户外充气城堡了",
@@ -657,14 +681,6 @@
       "onboard_time": 1767245422,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106944,
-      "num": 588907,
-      "word": "湖南跨晚明星全员红装",
-      "onboard_time": 1767245422,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 105523,
@@ -739,14 +755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 93623,
-      "num": 588560,
-      "word": "微博之夜",
-      "onboard_time": 1767249260,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 93442,
       "num": 1117611,
       "word": "新年祝福",
@@ -761,14 +769,6 @@
       "onboard_time": 1767243740,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 90604,
-      "num": 589160,
-      "word": "爬楼机要爬上泰山了",
-      "onboard_time": 1767246080,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90010,
@@ -955,6 +955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 65229,
+      "num": 588188,
+      "word": "俄方公布乌无人机袭击普京官邸细节",
+      "onboard_time": 1767248601,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 64071,
       "num": 1384138,
       "word": "完美世界",
@@ -977,6 +985,14 @@
       "onboard_time": 1767246500,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62236,
+      "num": 230616,
+      "word": "它还知道开凉水",
+      "onboard_time": 1767249921,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 61247,
@@ -1009,6 +1025,14 @@
       "onboard_time": 1767239901,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 55947,
+      "num": 231865,
+      "word": "雅迪和旺旺联名造车了",
+      "onboard_time": 1767250400,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54950,
@@ -1083,6 +1107,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 47772,
+      "num": 588446,
+      "word": "新手打麻将阵法",
+      "onboard_time": 1767249560,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 47767,
       "num": 225990,
       "word": "14万级全新威兰达到店",
@@ -1107,20 +1139,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 46080,
-      "num": 588446,
-      "word": "新手打麻将阵法",
-      "onboard_time": 1767249560,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 45152,
       "num": 314842,
       "word": "元旦祝福",
       "onboard_time": 1767229640,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44859,
+      "num": 588343,
+      "word": "辞职不用焦虑",
+      "onboard_time": 1767248300,
+      "rank": 36,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 44724,
@@ -1137,14 +1169,6 @@
       "onboard_time": 1767222196,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 43101,
-      "num": 588343,
-      "word": "辞职不用焦虑",
-      "onboard_time": 1767248300,
-      "rank": 36,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 42898,
@@ -1164,7 +1188,7 @@
     },
     {
       "raw_hot": 41171,
-      "num": 1003694,
+      "num": 1004652,
       "word": "2026年第一天",
       "onboard_time": 1767223819,
       "rank": 29,
@@ -1217,14 +1241,6 @@
       "onboard_time": 1767249141,
       "rank": 44,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 34967,
-      "num": 588188,
-      "word": "俄方公布乌无人机袭击普京官邸细节",
-      "onboard_time": 1767248601,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 30346,
@@ -1292,7 +1308,7 @@
     },
     {
       "raw_hot": 22540,
-      "num": 742919,
+      "num": 747577,
       "word": "我国经济总量预计140万亿元",
       "onboard_time": 1767182124,
       "rank": 45,
