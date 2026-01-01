@@ -1,0 +1,410 @@
+{
+  "runTime": 1767281439765,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 45192,
+        "num": 1007230,
+        "word": "新年首日中国空间站过境合集",
+        "onboard_time": 1767278661,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45817,
+        "num": 1006548,
+        "word": "2026第一天的橘子味晚霞",
+        "onboard_time": 1767269542,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19487,
+        "num": 1004018,
+        "word": "这些世界第一里满满中国实力",
+        "onboard_time": 1767253401,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116283,
+        "num": 1000213,
+        "word": "冰雪大世界建了超大玫瑰冰瀑",
+        "onboard_time": 1767279920,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111315,
+        "num": 995294,
+        "word": "小吃街共用一个收款码有后续了",
+        "onboard_time": 1767262939,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402802,
+        "num": 991842,
+        "word": "个人存取款超5万元不再登记",
+        "onboard_time": 1767267680,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89312,
+        "num": 990839,
+        "word": "土耳其免签春节旅游热攀升",
+        "onboard_time": 1767277822,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 81512,
+        "num": 986992,
+        "word": "海军052D型导弹驱逐舰又上新",
+        "onboard_time": 1767274162,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18697,
+        "num": 984522,
+        "word": "2026年第一天",
+        "onboard_time": 1767223819,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 7856,
+        "num": 981791,
+        "word": "2026新国补来了",
+        "onboard_time": 1767231201,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 292129,
+        "num": 978964,
+        "word": "跨年晚会主持人告别单薄礼服",
+        "onboard_time": 1767266420,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202363,
+        "num": 973504,
+        "word": "发现卧室其实不应该装衣柜",
+        "onboard_time": 1767266602,
+        "rank": 11,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 175534,
+        "num": 972311,
+        "word": "为什么坐电车更容易晕车",
+        "onboard_time": 1767274401,
+        "rank": 12,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 170256,
+        "num": 968703,
+        "word": "一盘辣椒炒肉何以戳中泪点",
+        "onboard_time": 1767276021,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124548,
+        "num": 966160,
+        "word": "小猫生了一模一样的自己",
+        "onboard_time": 1767263060,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114424,
+        "num": 961163,
+        "word": "三亚元旦入境游客暴增5倍",
+        "onboard_time": 1767278843,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111338,
+        "num": 960239,
+        "word": "樊振东再次登上东方卫视跨年大屏",
+        "onboard_time": 1767279262,
+        "rank": 16,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 93777,
+        "num": 956380,
+        "word": "女孩吃蔡磊研发药渐冻症没再发展",
+        "onboard_time": 1767260899,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88916,
+        "num": 952705,
+        "word": "徐杰受伤",
+        "onboard_time": 1767270502,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86971,
+        "num": 949263,
+        "word": "2026年生娃基本不花钱",
+        "onboard_time": 1767260300,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 948130,
+        "num": 948130,
+        "word": "骄阳似我 奇耻大辱",
+        "onboard_time": 1767274162,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 461243,
+        "num": 946749,
+        "word": "重庆飞三亚航班紧急返航乘客发声",
+        "onboard_time": 1767277642,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273741,
+        "num": 945099,
+        "word": "沈佳润唱功",
+        "onboard_time": 1767279382,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 262230,
+        "num": 943826,
+        "word": "怪奇物语",
+        "onboard_time": 1767272600,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155779,
+        "num": 942208,
+        "word": "骄阳似我",
+        "onboard_time": 1767264681,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109697,
+        "num": 940547,
+        "word": "瑞士医院被烧伤患者淹没",
+        "onboard_time": 1767268522,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 126991,
+        "num": 939200,
+        "word": "林屿森聂曦光和好",
+        "onboard_time": 1767274701,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101892,
+        "num": 936981,
+        "word": "5个技巧提高代谢水平",
+        "onboard_time": 1767276141,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105314,
+        "num": 935327,
+        "word": "骄阳似我预告",
+        "onboard_time": 1767274882,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99776,
+        "num": 934772,
+        "word": "男子带妻儿开直升机回老家过元旦",
+        "onboard_time": 1767278542,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234487,
+        "num": 932659,
+        "word": "张杰歌迷会 愿我们莫忘来时路",
+        "onboard_time": 1767270862,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 87224,
+        "num": 930646,
+        "word": "贾磊说徐杰应该问题不大",
+        "onboard_time": 1767279382,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75104,
+        "num": 929809,
+        "word": "印警方称200公斤大麻被老鼠吃掉",
+        "onboard_time": 1767266060,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 69236,
+        "num": 927361,
+        "word": "对方不回消息却发朋友圈",
+        "onboard_time": 1767264980,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 75915,
+        "num": 926480,
+        "word": "李昀锐这段完播率100%",
+        "onboard_time": 1767268161,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68756,
+        "num": 925080,
+        "word": "天宫与神州同框的中国式浪漫",
+        "onboard_time": 1767280281,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63445,
+        "num": 922662,
+        "word": "跟有钱人吵架真的好恐怖",
+        "onboard_time": 1767261859,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56382,
+        "num": 921132,
+        "word": "茅台1499元直销成黄牛噩梦",
+        "onboard_time": 1767258681,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69344,
+        "num": 919699,
+        "word": "蔡依林新巡演官宣十四城",
+        "onboard_time": 1767270862,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 55945,
+        "num": 918565,
+        "word": "骄阳似我森光婚礼主桌天团",
+        "onboard_time": 1767265280,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55578,
+        "num": 916004,
+        "word": "有人买40斤白银2个月猛赚14万",
+        "onboard_time": 1767277702,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 49676,
+        "num": 914546,
+        "word": "白露的红夫人",
+        "onboard_time": 1767266780,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 48632,
+        "num": 913748,
+        "word": "中国驻瑞士使馆回应酒吧爆炸",
+        "onboard_time": 1767267319,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 48321,
+        "num": 911347,
+        "word": "逍遥",
+        "onboard_time": 1767263121,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47707,
+        "num": 909369,
+        "word": "梅里雪山日照金山上新了",
+        "onboard_time": 1767270862,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47392,
+        "num": 908525,
+        "word": "法国跨年把2026打成2036",
+        "onboard_time": 1767267020,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 45999,
+        "num": 906451,
+        "word": "男子5年救了500多只猫",
+        "onboard_time": 1767281061,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45508,
+        "num": 905498,
+        "word": "原来大熊猫是雪来疯",
+        "onboard_time": 1767278600,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27901,
+        "num": 904106,
+        "word": "1分钟看完全球跨年烟花",
+        "onboard_time": 1767276320,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 26002,
+        "num": 901123,
+        "word": "零跑年销量近60万台超额完成目标",
+        "onboard_time": 1767274642,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力奋斗才能梦想成真#"
+    }
+  }
+}

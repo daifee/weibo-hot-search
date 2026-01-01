@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767278685418,
+  "endTime": 1767281439765,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -137,6 +137,14 @@
       "onboard_time": 1767198625,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 461243,
+      "num": 969189,
+      "word": "重庆飞三亚航班紧急返航乘客发声",
+      "onboard_time": 1767277642,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 455514,
@@ -363,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 273741,
+      "num": 945099,
+      "word": "沈佳润唱功",
+      "onboard_time": 1767279382,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 270371,
       "num": 319438,
       "word": "生理性喜欢的4个信号",
@@ -457,14 +473,6 @@
       "onboard_time": 1767196767,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 221468,
-      "num": 969189,
-      "word": "重庆飞三亚航班紧急返航乘客发声",
-      "onboard_time": 1767277642,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 221347,
@@ -697,6 +705,14 @@
       "onboard_time": 1767233362,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170256,
+      "num": 986144,
+      "word": "一盘辣椒炒肉何以戳中泪点",
+      "onboard_time": 1767276021,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169282,
@@ -1091,12 +1107,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 116283,
+      "num": 1000213,
+      "word": "冰雪大世界建了超大玫瑰冰瀑",
+      "onboard_time": 1767279920,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114917,
       "num": 1004756,
       "word": "逍遥",
       "onboard_time": 1767263121,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114424,
+      "num": 961163,
+      "word": "三亚元旦入境游客暴增5倍",
+      "onboard_time": 1767278843,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114043,
@@ -1137,6 +1169,14 @@
       "onboard_time": 1767253280,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111338,
+      "num": 960239,
+      "word": "樊振东再次登上东方卫视跨年大屏",
+      "onboard_time": 1767279262,
+      "rank": 16,
+      "category": "体育,综艺"
     },
     {
       "raw_hot": 110913,
@@ -1275,6 +1315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 99776,
+      "num": 934772,
+      "word": "男子带妻儿开直升机回老家过元旦",
+      "onboard_time": 1767278542,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99017,
       "num": 1003235,
       "word": "跟有钱人吵架真的好恐怖",
@@ -1395,20 +1443,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 89312,
+      "num": 990839,
+      "word": "土耳其免签春节旅游热攀升",
+      "onboard_time": 1767277822,
+      "rank": 7,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 88702,
       "num": 588829,
       "word": "新年新头像",
       "onboard_time": 1767239181,
       "rank": 36,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 88675,
-      "num": 986144,
-      "word": "一盘辣椒炒肉何以戳中泪点",
-      "onboard_time": 1767276021,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88501,
@@ -1441,6 +1489,14 @@
       "onboard_time": 1767235342,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87224,
+      "num": 930646,
+      "word": "贾磊说徐杰应该问题不大",
+      "onboard_time": 1767279382,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 86949,
@@ -1747,6 +1803,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 68756,
+      "num": 925080,
+      "word": "天宫与神州同框的中国式浪漫",
+      "onboard_time": 1767280281,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67955,
       "num": 254776,
       "word": "今年要做个不纵容情绪的人",
@@ -1828,7 +1892,7 @@
     },
     {
       "raw_hot": 64181,
-      "num": 543601,
+      "num": 916004,
       "word": "有人买40斤白银2个月猛赚14万",
       "onboard_time": 1767277702,
       "rank": 42,
@@ -1944,14 +2008,6 @@
       "word": "2026的第一份幸运是零点同框",
       "onboard_time": 1767261859,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 56641,
-      "num": 543177,
-      "word": "男子带妻儿开直升机回老家过元旦",
-      "onboard_time": 1767278542,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -2131,6 +2187,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45999,
+      "num": 906451,
+      "word": "男子5年救了500多只猫",
+      "onboard_time": 1767281061,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45508,
+      "num": 905498,
+      "word": "原来大熊猫是雪来疯",
+      "onboard_time": 1767278600,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45192,
+      "num": 1007230,
+      "word": "新年首日中国空间站过境合集",
+      "onboard_time": 1767278661,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45152,
       "num": 314842,
       "word": "元旦祝福",
@@ -2267,14 +2347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 38396,
-      "num": 547392,
-      "word": "土耳其免签春节旅游热攀升",
-      "onboard_time": 1767277822,
-      "rank": 7,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 37554,
       "num": 198879,
       "word": "马年 放自己一马",
@@ -2329,78 +2401,6 @@
       "onboard_time": 1767274642,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 33303,
-      "num": 1004207,
-      "word": "2026黄龄曦金全靠TA",
-      "onboard_time": 1767259761,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 30346,
-      "num": 588085,
-      "word": "海南自贸港封关运行满两周",
-      "onboard_time": 1767247459,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29330,
-      "num": 318180,
-      "word": "B站跨年晚会",
-      "onboard_time": 1767180502,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 29091,
-      "num": 544687,
-      "word": "原来大熊猫是雪来疯",
-      "onboard_time": 1767278600,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28449,
-      "num": 154435,
-      "word": "冬泳舞台 伟大",
-      "onboard_time": 1767219135,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 24795,
-      "num": 1006066,
-      "word": "2026新年的第一份仪式感",
-      "onboard_time": 1767259940,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24580,
-      "num": 260123,
-      "word": "依靠创新为高质量发展赋能",
-      "onboard_time": 1767238642,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 23561,
-      "num": 97864,
-      "word": "2026我来啦",
-      "onboard_time": 1767222375,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 22618,
-      "num": 318264,
-      "word": "两岸同胞血浓于水",
-      "onboard_time": 1767203299,
-      "rank": 38,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
