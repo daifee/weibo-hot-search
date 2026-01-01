@@ -1,0 +1,410 @@
+{
+  "runTime": 1767275541432,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 184091,
+        "num": 1029454,
+        "word": "梅里雪山日照金山上新了",
+        "onboard_time": 1767270862,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55460,
+        "num": 733496,
+        "word": "2026第一天的橘子味晚霞",
+        "onboard_time": 1767269542,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6876,
+        "num": 614106,
+        "word": "2026为梦想奋斗为幸福打拼",
+        "onboard_time": 1767275302,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141314,
+        "num": 614025,
+        "word": "小吃街共用一个收款码有后续了",
+        "onboard_time": 1767262939,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99765,
+        "num": 613625,
+        "word": "元旦宝宝1月1日0点出生",
+        "onboard_time": 1767254181,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 876825,
+        "num": 613427,
+        "word": "个人存取款超5万元不再登记",
+        "onboard_time": 1767267680,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87692,
+        "num": 612971,
+        "word": "海军052D型导弹驱逐舰又上新",
+        "onboard_time": 1767274162,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 39755,
+        "num": 612626,
+        "word": "完美世界一个月两个特别篇",
+        "onboard_time": 1767270680,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 19003,
+        "num": 612242,
+        "word": "2026年第一天",
+        "onboard_time": 1767223819,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11634,
+        "num": 611994,
+        "word": "2026新国补来了",
+        "onboard_time": 1767231201,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 892388,
+        "num": 611784,
+        "word": "骄阳似我 奇耻大辱",
+        "onboard_time": 1767274162,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 425527,
+        "num": 611518,
+        "word": "跨年晚会主持人告别单薄礼服",
+        "onboard_time": 1767266420,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405001,
+        "num": 611080,
+        "word": "怪奇物语",
+        "onboard_time": 1767272600,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293794,
+        "num": 610735,
+        "word": "长河落日开播",
+        "onboard_time": 1767272301,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260392,
+        "num": 610663,
+        "word": "发现卧室其实不应该装衣柜",
+        "onboard_time": 1767266602,
+        "rank": 14,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 182719,
+        "num": 610118,
+        "word": "徐杰受伤",
+        "onboard_time": 1767270502,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166803,
+        "num": 610032,
+        "word": "女孩吃蔡磊研发药渐冻症没再发展",
+        "onboard_time": 1767260899,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139426,
+        "num": 609720,
+        "word": "林屿森聂曦光和好",
+        "onboard_time": 1767274701,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125093,
+        "num": 609203,
+        "word": "狗狗第一次后悔自己的鼻子很灵",
+        "onboard_time": 1767265880,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124941,
+        "num": 608846,
+        "word": "骄阳似我预告",
+        "onboard_time": 1767274882,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168429,
+        "num": 608667,
+        "word": "瑞士医院被烧伤患者淹没",
+        "onboard_time": 1767268522,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 123859,
+        "num": 608375,
+        "word": "骄阳似我",
+        "onboard_time": 1767264681,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114835,
+        "num": 607907,
+        "word": "白露的红夫人",
+        "onboard_time": 1767266780,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114255,
+        "num": 607817,
+        "word": "小猫生了一模一样的自己",
+        "onboard_time": 1767263060,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112182,
+        "num": 607514,
+        "word": "茅台1499元直销成黄牛噩梦",
+        "onboard_time": 1767258681,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105320,
+        "num": 607215,
+        "word": "国漫最狠男主自带排面",
+        "onboard_time": 1767274162,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 102224,
+        "num": 606694,
+        "word": "印警方称200公斤大麻被老鼠吃掉",
+        "onboard_time": 1767266060,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 101715,
+        "num": 606315,
+        "word": "逍遥",
+        "onboard_time": 1767263121,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16560,
+        "num": 606142,
+        "word": "这是大国重器奏响的新年乐章",
+        "onboard_time": 1767274821,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99761,
+        "num": 605764,
+        "word": "金价",
+        "onboard_time": 1767257540,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 489125,
+        "num": 605605,
+        "word": "张杰歌迷会 愿我们莫忘来时路",
+        "onboard_time": 1767270862,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96330,
+        "num": 605070,
+        "word": "瑞士滑雪胜地爆炸多人死伤",
+        "onboard_time": 1767253940,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88046,
+        "num": 604814,
+        "word": "跟有钱人吵架真的好恐怖",
+        "onboard_time": 1767261859,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84460,
+        "num": 604729,
+        "word": "2026年生娃基本不花钱",
+        "onboard_time": 1767260300,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127607,
+        "num": 604413,
+        "word": "李昀锐这段完播率100%",
+        "onboard_time": 1767268161,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78199,
+        "num": 603797,
+        "word": "为什么坐电车更容易晕车",
+        "onboard_time": 1767274401,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 76087,
+        "num": 603755,
+        "word": "29岁渐冻症女孩重生感谢蔡磊",
+        "onboard_time": 1767260061,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73057,
+        "num": 603305,
+        "word": "ins风的腊八蒜",
+        "onboard_time": 1767272421,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99348,
+        "num": 602947,
+        "word": "蔡依林新巡演官宣十四城",
+        "onboard_time": 1767270862,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 71677,
+        "num": 602851,
+        "word": "法国跨年把2026打成2036",
+        "onboard_time": 1767267020,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 68580,
+        "num": 602464,
+        "word": "王者中阵亡次数最多的英雄",
+        "onboard_time": 1767272121,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 66896,
+        "num": 602054,
+        "word": "中国驻瑞士使馆回应酒吧爆炸",
+        "onboard_time": 1767267319,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 66870,
+        "num": 601851,
+        "word": "MRC对战Gr",
+        "onboard_time": 1767264259,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 65865,
+        "num": 601553,
+        "word": "iG战胜LNG",
+        "onboard_time": 1767268580,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 65077,
+        "num": 601093,
+        "word": "骄阳似我森光婚礼主桌天团",
+        "onboard_time": 1767265280,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62707,
+        "num": 600835,
+        "word": "唐嫣郭京飞 金球天使101",
+        "onboard_time": 1767270862,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59099,
+        "num": 600615,
+        "word": "对方不回消息却发朋友圈",
+        "onboard_time": 1767264980,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 58364,
+        "num": 600216,
+        "word": "寻秦记",
+        "onboard_time": 1767241160,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51074,
+        "num": 599738,
+        "word": "40岁后最佳的运动方式",
+        "onboard_time": 1767258440,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 27508,
+        "num": 599625,
+        "word": "零跑年销量近60万台超额完成目标",
+        "onboard_time": 1767274642,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力奋斗才能梦想成真#"
+    }
+  }
+}

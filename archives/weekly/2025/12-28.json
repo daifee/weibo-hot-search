@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767274795048,
+  "endTime": 1767275541432,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -393,6 +393,14 @@
       "onboard_time": 1767097822,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 892388,
+      "num": 943581,
+      "word": "骄阳似我 奇耻大辱",
+      "onboard_time": 1767274162,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 874436,
@@ -1875,6 +1883,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 405001,
+      "num": 1002911,
+      "word": "怪奇物语",
+      "onboard_time": 1767228139,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 404731,
       "num": 1005757,
       "word": "MRC对战Gr",
@@ -2313,14 +2329,6 @@
       "onboard_time": 1767192268,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 346964,
-      "num": 1002911,
-      "word": "怪奇物语",
-      "onboard_time": 1767228139,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 346098,
@@ -3121,14 +3129,6 @@
       "onboard_time": 1767002721,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 275648,
-      "num": 943581,
-      "word": "骄阳似我 奇耻大辱",
-      "onboard_time": 1767274162,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 275445,
@@ -4899,6 +4899,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 184091,
+      "num": 1029454,
+      "word": "梅里雪山日照金山上新了",
+      "onboard_time": 1767270862,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183568,
       "num": 318677,
       "word": "逐玉",
@@ -5571,14 +5579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 164989,
-      "num": 1026398,
-      "word": "梅里雪山日照金山上新了",
-      "onboard_time": 1767270862,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 164920,
       "num": 1055107,
       "word": "王鹤棣参加两个跨年晚会",
@@ -6068,7 +6068,7 @@
     },
     {
       "raw_hot": 151759,
-      "num": 151759,
+      "num": 608846,
       "word": "骄阳似我预告",
       "onboard_time": 1766927301,
       "rank": 47,
@@ -6649,6 +6649,14 @@
       "onboard_time": 1767108380,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139426,
+      "num": 941282,
+      "word": "林屿森聂曦光和好",
+      "onboard_time": 1767274701,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 139331,
@@ -8464,14 +8472,6 @@
       "word": "藏海 尖子生成绩单就长这样",
       "onboard_time": 1767087802,
       "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 113954,
-      "num": 941282,
-      "word": "林屿森聂曦光和好",
-      "onboard_time": 1767274701,
-      "rank": 21,
       "category": "剧集"
     },
     {
@@ -11275,6 +11275,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 87692,
+      "num": 947675,
+      "word": "海军052D型导弹驱逐舰又上新",
+      "onboard_time": 1767274162,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 87526,
       "num": 746004,
       "word": "当我用干杯的方式打开2026",
@@ -12307,6 +12315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 78199,
+      "num": 931502,
+      "word": "为什么坐电车更容易晕车",
+      "onboard_time": 1767274401,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 78093,
       "num": 318226,
       "word": "跨年烟花",
@@ -13019,6 +13035,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 68580,
+      "num": 932338,
+      "word": "王者中阵亡次数最多的英雄",
+      "onboard_time": 1767272121,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 68350,
       "num": 158230,
       "word": "黄金白银又涨了",
@@ -13089,14 +13113,6 @@
       "onboard_time": 1766936782,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 67193,
-      "num": 932338,
-      "word": "王者中阵亡次数最多的英雄",
-      "onboard_time": 1767272121,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 67141,
@@ -13281,14 +13297,6 @@
       "onboard_time": 1767256939,
       "rank": 35,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 64352,
-      "num": 931502,
-      "word": "为什么坐电车更容易晕车",
-      "onboard_time": 1767274401,
-      "rank": 44,
-      "category": "科学科普"
     },
     {
       "raw_hot": 64211,
@@ -14249,14 +14257,6 @@
       "onboard_time": 1767050417,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 48535,
-      "num": 947675,
-      "word": "海军052D型导弹驱逐舰又上新",
-      "onboard_time": 1767274162,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 48422,
@@ -16555,6 +16555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16560,
+      "num": 606142,
+      "word": "这是大国重器奏响的新年乐章",
+      "onboard_time": 1767274821,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16243,
       "num": 162783,
       "word": "博主下架疑江西博物馆展品调包视频",
@@ -16881,6 +16889,14 @@
       "onboard_time": 1766982561,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 6876,
+      "num": 614106,
+      "word": "2026为梦想奋斗为幸福打拼",
+      "onboard_time": 1767275302,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

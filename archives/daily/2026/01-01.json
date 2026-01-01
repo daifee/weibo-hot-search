@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767274795048,
+  "endTime": 1767275541432,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -41,6 +41,14 @@
       "onboard_time": 1767267680,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 892388,
+      "num": 943581,
+      "word": "骄阳似我 奇耻大辱",
+      "onboard_time": 1767274162,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 744779,
@@ -171,6 +179,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 405001,
+      "num": 1002911,
+      "word": "怪奇物语",
+      "onboard_time": 1767228139,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 404731,
       "num": 1005757,
       "word": "MRC对战Gr",
@@ -225,14 +241,6 @@
       "onboard_time": 1767254181,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 346964,
-      "num": 1002911,
-      "word": "怪奇物语",
-      "onboard_time": 1767228139,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 341647,
@@ -345,14 +353,6 @@
       "onboard_time": 1767258681,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 275648,
-      "num": 943581,
-      "word": "骄阳似我 奇耻大辱",
-      "onboard_time": 1767274162,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 270371,
@@ -587,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184091,
+      "num": 1029454,
+      "word": "梅里雪山日照金山上新了",
+      "onboard_time": 1767270862,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183568,
       "num": 318677,
       "word": "逐玉",
@@ -713,14 +721,6 @@
       "onboard_time": 1767257540,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 164989,
-      "num": 1026398,
-      "word": "梅里雪山日照金山上新了",
-      "onboard_time": 1767270862,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 163115,
@@ -867,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139426,
+      "num": 941282,
+      "word": "林屿森聂曦光和好",
+      "onboard_time": 1767274701,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139156,
       "num": 1400936,
       "word": "我国芯片自主研发新突破",
@@ -987,6 +995,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 124941,
+      "num": 608846,
+      "word": "骄阳似我预告",
+      "onboard_time": 1767274882,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124742,
       "num": 931265,
       "word": "唐嫣郭京飞 金球天使101",
@@ -1065,14 +1081,6 @@
       "onboard_time": 1767222556,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113954,
-      "num": 941282,
-      "word": "林屿森聂曦光和好",
-      "onboard_time": 1767274701,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 113763,
@@ -1387,6 +1395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87692,
+      "num": 947675,
+      "word": "海军052D型导弹驱逐舰又上新",
+      "onboard_time": 1767274162,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 87367,
       "num": 588386,
       "word": "1499元飞天遭热抢",
@@ -1529,6 +1545,14 @@
       "onboard_time": 1767230121,
       "rank": 25,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 78199,
+      "num": 931502,
+      "word": "为什么坐电车更容易晕车",
+      "onboard_time": 1767274401,
+      "rank": 44,
+      "category": "科学科普"
     },
     {
       "raw_hot": 77807,
@@ -1691,6 +1715,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 68580,
+      "num": 932338,
+      "word": "王者中阵亡次数最多的英雄",
+      "onboard_time": 1767272121,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 67955,
       "num": 254776,
       "word": "今年要做个不纵容情绪的人",
@@ -1713,14 +1745,6 @@
       "onboard_time": 1767229401,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 67193,
-      "num": 932338,
-      "word": "王者中阵亡次数最多的英雄",
-      "onboard_time": 1767272121,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 66943,
@@ -1769,14 +1793,6 @@
       "onboard_time": 1767256939,
       "rank": 35,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 64352,
-      "num": 931502,
-      "word": "为什么坐电车更容易晕车",
-      "onboard_time": 1767274401,
-      "rank": 44,
-      "category": "科学科普"
     },
     {
       "raw_hot": 64071,
@@ -1953,14 +1969,6 @@
       "onboard_time": 1767239960,
       "rank": 47,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 48535,
-      "num": 947675,
-      "word": "海军052D型导弹驱逐舰又上新",
-      "onboard_time": 1767274162,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 48422,
@@ -2387,6 +2395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 16560,
+      "num": 606142,
+      "word": "这是大国重器奏响的新年乐章",
+      "onboard_time": 1767274821,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14453,
       "num": 1381368,
       "word": "全球首个个人机器人",
@@ -2416,6 +2432,14 @@
       "word": "拼搏进取的中国青年好样的",
       "onboard_time": 1767259761,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6876,
+      "num": 614106,
+      "word": "2026为梦想奋斗为幸福打拼",
+      "onboard_time": 1767275302,
+      "rank": 2,
       "category": "民生新闻"
     }
   ],
