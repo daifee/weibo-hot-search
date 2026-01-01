@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767252655485,
+  "endTime": 1767253430531,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 428471,
+      "num": 588989,
+      "word": "电影偷偷藏不住官宣",
+      "onboard_time": 1767240862,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 413045,
       "num": 413045,
       "word": "尚公主",
@@ -113,14 +121,6 @@
       "onboard_time": 1767192568,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 398051,
-      "num": 588989,
-      "word": "电影偷偷藏不住官宣",
-      "onboard_time": 1767240862,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 379921,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 199252,
-      "num": 199252,
+      "num": 559145,
       "word": "TE对战北京WBG",
       "onboard_time": 1767250999,
       "rank": 4,
@@ -467,6 +467,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149278,
+      "num": 558954,
+      "word": "国乒教练竞聘陈述环节已完成",
+      "onboard_time": 1767251960,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 148313,
+      "num": 554076,
+      "word": "九集了没见谁吃上一口饭",
+      "onboard_time": 1767252081,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147505,
       "num": 318415,
       "word": "i茅台每人每日最多可购12瓶",
@@ -564,7 +580,7 @@
     },
     {
       "raw_hot": 132286,
-      "num": 199224,
+      "num": 556354,
       "word": "再见爱人",
       "onboard_time": 1767251300,
       "rank": 7,
@@ -588,7 +604,7 @@
     },
     {
       "raw_hot": 129385,
-      "num": 199067,
+      "num": 552341,
       "word": "柔弱不能自理的外室出现代版了",
       "onboard_time": 1767251121,
       "rank": 22,
@@ -609,14 +625,6 @@
       "onboard_time": 1767237800,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 127299,
-      "num": 199064,
-      "word": "九集了没见谁吃上一口饭",
-      "onboard_time": 1767252081,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 122853,
@@ -699,10 +707,18 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112539,
-      "num": 199210,
-      "word": "国乒教练竞聘陈述环节已完成",
-      "onboard_time": 1767251960,
+      "raw_hot": 112402,
+      "num": 556773,
+      "word": "吃凉拌菜也减不了肥的原因",
+      "onboard_time": 1767252139,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 111526,
+      "num": 557663,
+      "word": "中国乒协2026新年寄语",
+      "onboard_time": 1767253280,
       "rank": 9,
       "category": "体育"
     },
@@ -724,11 +740,19 @@
     },
     {
       "raw_hot": 109586,
-      "num": 199170,
+      "num": 551242,
       "word": "中国乒协核心目标是洛奥备战",
       "onboard_time": 1767251058,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105994,
+      "num": 553041,
+      "word": "太好了是爱奇艺2026有盼头了",
+      "onboard_time": 1767253280,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 105523,
@@ -796,11 +820,19 @@
     },
     {
       "raw_hot": 97140,
-      "num": 199160,
+      "num": 556091,
       "word": "元旦",
       "onboard_time": 1767252019,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95756,
+      "num": 550607,
+      "word": "林高远说上央视晚会唱歌超级紧张",
+      "onboard_time": 1767253401,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 94279,
@@ -891,7 +923,7 @@
       "category": "艺人,互联网"
     },
     {
-      "raw_hot": 83388,
+      "raw_hot": 83735,
       "num": 588188,
       "word": "俄方公布乌无人机袭击普京官邸细节",
       "onboard_time": 1767248601,
@@ -905,6 +937,14 @@
       "onboard_time": 1767233302,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 82771,
+      "num": 555286,
+      "word": "雅迪和旺旺联名造车了",
+      "onboard_time": 1767250400,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80097,
@@ -963,14 +1003,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 72793,
-      "num": 231865,
-      "word": "雅迪和旺旺联名造车了",
-      "onboard_time": 1767250400,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72757,
       "num": 713776,
       "word": "这3个带马成语太给劲了",
@@ -1019,6 +1051,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 68995,
+      "num": 588343,
+      "word": "辞职不用焦虑",
+      "onboard_time": 1767248300,
+      "rank": 36,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 67870,
+      "num": 552755,
+      "word": "2026年新年宝宝来了",
+      "onboard_time": 1767252139,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67572,
       "num": 315458,
       "word": "中国乒乓球队2026元旦祝福",
@@ -1052,17 +1100,9 @@
     },
     {
       "raw_hot": 62236,
-      "num": 230616,
+      "num": 547575,
       "word": "它还知道开凉水",
       "onboard_time": 1767249921,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 61755,
-      "num": 198971,
-      "word": "吃凉拌菜也减不了肥的原因",
-      "onboard_time": 1767252139,
       "rank": 32,
       "category": "幽默"
     },
@@ -1083,6 +1123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 58129,
+      "num": 549838,
+      "word": "金价波动",
+      "onboard_time": 1767252739,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 57710,
       "num": 1009233,
       "word": "新年第1天升国旗",
@@ -1097,14 +1145,6 @@
       "onboard_time": 1767239901,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 55901,
-      "num": 588343,
-      "word": "辞职不用焦虑",
-      "onboard_time": 1767248300,
-      "rank": 36,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 54950,
@@ -1211,14 +1251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 47131,
-      "num": 198924,
-      "word": "2026年新年宝宝来了",
-      "onboard_time": 1767252139,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 45152,
       "num": 314842,
       "word": "元旦祝福",
@@ -1251,6 +1283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 42515,
+      "num": 546974,
+      "word": "小米回应YU7配置调整",
+      "onboard_time": 1767253161,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 42293,
       "num": 111320,
       "word": "你好呀2026年",
@@ -1281,6 +1321,14 @@
       "onboard_time": 1767238880,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40338,
+      "num": 546431,
+      "word": "这些世界第一里满满中国实力",
+      "onboard_time": 1767253401,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 40223,
@@ -1329,6 +1377,14 @@
       "onboard_time": 1767251180,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36108,
+      "num": 545183,
+      "word": "2026放马过来吧",
+      "onboard_time": 1767252680,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 35924,
