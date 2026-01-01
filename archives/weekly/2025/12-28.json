@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767286254784,
+  "endTime": 1767288439408,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -12539,6 +12539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 76401,
+      "num": 627053,
+      "word": "二十年快滴很 弹指一挥间",
+      "onboard_time": 1767283939,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76353,
       "num": 255863,
       "word": "前世界上最胖的人病逝",
@@ -14209,14 +14217,6 @@
       "onboard_time": 1766959454,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 51072,
-      "num": 627053,
-      "word": "二十年快滴很 弹指一挥间",
-      "onboard_time": 1767283939,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 50826,
