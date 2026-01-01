@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767285375925,
+  "endTime": 1767286254784,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -2075,6 +2075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51072,
+      "num": 627053,
+      "word": "二十年快滴很 弹指一挥间",
+      "onboard_time": 1767283939,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 48921,
       "num": 212603,
       "word": "干坏事很有耐心",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767249141,
       "rank": 44,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 35745,
-      "num": 198831,
-      "word": "东北人演小品不需要写稿",
-      "onboard_time": 1767252560,
-      "rank": 46,
-      "category": "幽默,民生新闻"
     }
   ],
   "hotgov_list": [
