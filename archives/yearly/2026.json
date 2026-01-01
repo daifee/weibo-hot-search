@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767267619769,
+  "endTime": 1767272210217,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -35,6 +35,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1076314,
+      "num": 749210,
+      "word": "个人存取款超5万元不再登记",
+      "onboard_time": 1767267680,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 744779,
+      "num": 744779,
+      "word": "张杰歌迷会 愿我们莫忘来时路",
+      "onboard_time": 1767270862,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 686111,
       "num": 1402334,
       "word": "江苏卫视 听爽了",
@@ -64,6 +80,14 @@
       "word": "江苏卫视大爆",
       "onboard_time": 1767193528,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 541764,
+      "num": 748296,
+      "word": "跨年晚会主持人告别单薄礼服",
+      "onboard_time": 1767266420,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -137,6 +161,14 @@
       "onboard_time": 1767240440,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 406176,
+      "num": 748186,
+      "word": "发现卧室其实不应该装衣柜",
+      "onboard_time": 1767266602,
+      "rank": 37,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 404731,
@@ -259,8 +291,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 299362,
+      "num": 748017,
+      "word": "徐杰受伤",
+      "onboard_time": 1767270502,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 294480,
-      "num": 294480,
+      "num": 747754,
       "word": "白露的红夫人",
       "onboard_time": 1767266780,
       "rank": 11,
@@ -297,14 +337,6 @@
       "onboard_time": 1767258681,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 272072,
-      "num": 272072,
-      "word": "跨年晚会主持人告别单薄礼服",
-      "onboard_time": 1767266420,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 270371,
@@ -404,7 +436,7 @@
     },
     {
       "raw_hot": 221347,
-      "num": 276711,
+      "num": 745221,
       "word": "骄阳似我",
       "onboard_time": 1767264681,
       "rank": 15,
@@ -451,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196264,
+      "num": 747414,
+      "word": "切尔西官宣马雷斯卡下课",
+      "onboard_time": 1767271222,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194919,
       "num": 589052,
       "word": "东方卫视跨年神图",
@@ -459,12 +499,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194560,
+      "num": 747341,
+      "word": "北京男篮vs广东男篮",
+      "onboard_time": 1767271581,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190910,
       "num": 1004035,
       "word": "蔡磊说渐冻症的历史已被改写",
       "onboard_time": 1767254419,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189468,
+      "num": 746533,
+      "word": "瑞士医院被烧伤患者淹没",
+      "onboard_time": 1767268522,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 189064,
@@ -539,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180271,
+      "num": 747026,
+      "word": "狗狗第一次后悔自己的鼻子很灵",
+      "onboard_time": 1767265880,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177477,
       "num": 589535,
       "word": "J人和P人旅游时的区别",
@@ -579,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174795,
+      "num": 741186,
+      "word": "李昀锐这段完播率100%",
+      "onboard_time": 1767268161,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173307,
       "num": 588658,
       "word": "怪奇物语大结局",
@@ -587,12 +659,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169282,
+      "num": 746291,
+      "word": "新音卡包",
+      "onboard_time": 1767269062,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 167596,
       "num": 1388124,
       "word": "跨年照片",
       "onboard_time": 1767198149,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167402,
+      "num": 735534,
+      "word": "蔡依林新巡演官宣十四城",
+      "onboard_time": 1767270862,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 165807,
@@ -787,14 +875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134487,
-      "num": 257019,
-      "word": "狗狗第一次后悔自己的鼻子很灵",
-      "onboard_time": 1767265880,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 133531,
       "num": 316984,
       "word": "男子靠吃辣赢下一头300斤的猪",
@@ -860,7 +940,7 @@
     },
     {
       "raw_hot": 128511,
-      "num": 256887,
+      "num": 727787,
       "word": "渐冻症女孩重生",
       "onboard_time": 1767265280,
       "rank": 31,
@@ -875,8 +955,24 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125549,
+      "num": 746181,
+      "word": "印警方称200公斤大麻被老鼠吃掉",
+      "onboard_time": 1767266060,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 124742,
+      "num": 731618,
+      "word": "唐嫣郭京飞 金球天使101",
+      "onboard_time": 1767270862,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123439,
-      "num": 258778,
+      "num": 738601,
       "word": "对方不回消息却发朋友圈",
       "onboard_time": 1767264980,
       "rank": 25,
@@ -897,14 +993,6 @@
       "onboard_time": 1767222556,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119321,
-      "num": 254860,
-      "word": "发现卧室其实不应该装衣柜",
-      "onboard_time": 1767266602,
-      "rank": 37,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 117691,
@@ -969,6 +1057,14 @@
       "onboard_time": 1767226880,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112960,
+      "num": 1018073,
+      "word": "梅里雪山日照金山上新了",
+      "onboard_time": 1767270862,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112630,
@@ -1099,14 +1195,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 101350,
-      "num": 252966,
-      "word": "印警方称200公斤大麻被老鼠吃掉",
-      "onboard_time": 1767266060,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 98909,
       "num": 1395472,
       "word": "浙江卫视 好明显的开麦",
@@ -1121,6 +1209,14 @@
       "onboard_time": 1767228560,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98352,
+      "num": 745353,
+      "word": "中国驻瑞士使馆回应酒吧爆炸",
+      "onboard_time": 1767267319,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 98060,
@@ -1187,14 +1283,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 92671,
-      "num": 245711,
-      "word": "中国驻瑞士使馆回应酒吧爆炸",
-      "onboard_time": 1767267319,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 92436,
       "num": 588722,
       "word": "杨瀚森3分5篮板",
@@ -1204,7 +1292,7 @@
     },
     {
       "raw_hot": 90198,
-      "num": 245638,
+      "num": 729496,
       "word": "法国跨年把2026打成2036",
       "onboard_time": 1767267020,
       "rank": 34,
@@ -1244,7 +1332,7 @@
     },
     {
       "raw_hot": 88003,
-      "num": 245541,
+      "num": 740012,
       "word": "打错字同事以为在卖萌",
       "onboard_time": 1767266780,
       "rank": 35,
@@ -1427,6 +1515,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 76593,
+      "num": 741951,
+      "word": "iG战胜LNG",
+      "onboard_time": 1767268580,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 76353,
       "num": 255863,
       "word": "前世界上最胖的人病逝",
@@ -1507,6 +1603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 70458,
+      "num": 737604,
+      "word": "咪为什么喜欢把尾巴圈在脚上",
+      "onboard_time": 1767270440,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 70408,
       "num": 589030,
       "word": "文班亚马又伤了",
@@ -1569,6 +1673,38 @@
       "onboard_time": 1767229401,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66948,
+      "num": 734812,
+      "word": "王者中阵亡次数最多的英雄",
+      "onboard_time": 1767272121,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 66943,
+      "num": 749937,
+      "word": "2026第一天的橘子味晚霞",
+      "onboard_time": 1767269542,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66620,
+      "num": 732890,
+      "word": "球队教练回应老板承诺送车后赖账",
+      "onboard_time": 1767271761,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 65955,
+      "num": 730369,
+      "word": "2026建议把早睡放在第一位",
+      "onboard_time": 1767271581,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 65735,
@@ -1907,6 +2043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41687,
+      "num": 723656,
+      "word": "完美世界一个月两个特别篇",
+      "onboard_time": 1767270680,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 41171,
       "num": 1005474,
       "word": "2026年第一天",
@@ -2059,20 +2203,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24795,
+      "num": 1006066,
+      "word": "2026新年的第一份仪式感",
+      "onboard_time": 1767259940,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24580,
       "num": 260123,
       "word": "依靠创新为高质量发展赋能",
       "onboard_time": 1767238642,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 24008,
-      "num": 1006066,
-      "word": "2026新年的第一份仪式感",
-      "onboard_time": 1767259940,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23561,
