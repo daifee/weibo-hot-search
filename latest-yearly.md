@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/02 01:43:44
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/02 02:39:51
 </p>
 </blockquote>
 <p>
@@ -1743,6 +1743,12 @@ CBA新年大战（热度：61972）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%9A%E7%BD%AA2%23" target="weibo">
+罚罪2（热度：41055）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232026%E5%B9%B4%E5%85%83%E6%97%A6%E5%AE%9D%E5%AE%9D%23" target="weibo">
 2026年元旦宝宝（热度：40727）
 </a>
@@ -1805,12 +1811,6 @@ CJ麦科勒姆绝杀雄鹿（热度：40223）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232026%E6%94%BE%E9%A9%AC%E8%BF%87%E6%9D%A5%E5%90%A7%23" target="weibo">
 2026放马过来吧（热度：36108）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%B8%A9%E9%9B%B7%E7%9A%84%E7%8C%AB%E7%9C%BC%E7%89%88%E5%AD%94%E9%9B%80%E5%BC%80%E5%B1%8F%E7%BE%8E%E7%94%B2%23" target="weibo">
-不踩雷的猫眼版孔雀开屏美甲（热度：35924）
 </a>
 </li>
 
