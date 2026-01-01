@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767235432740,
+  "endTime": 1767240909410,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 413045,
+      "num": 413045,
+      "word": "尚公主",
+      "onboard_time": 1767238040,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 399356,
       "num": 1409345,
       "word": "跨年收视率",
@@ -171,6 +179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 282019,
+      "num": 258432,
+      "word": "发明袜子拼豆的人简直是天才",
+      "onboard_time": 1767236241,
+      "rank": 10,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 270371,
       "num": 319438,
       "word": "生理性喜欢的4个信号",
@@ -211,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222414,
+      "num": 317945,
+      "word": "湖南卫视断层第一",
+      "onboard_time": 1767232223,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222295,
       "num": 1400334,
       "word": "FGO",
@@ -227,12 +251,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211437,
-      "num": 317945,
-      "word": "湖南卫视断层第一",
-      "onboard_time": 1767232223,
+      "raw_hot": 214528,
+      "num": 214528,
+      "word": "电影偷偷藏不住官宣",
+      "onboard_time": 1767240862,
       "rank": 21,
-      "category": "综艺"
+      "category": "电影"
     },
     {
       "raw_hot": 208106,
@@ -243,11 +267,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196582,
+      "num": 213840,
+      "word": "生命树",
+      "onboard_time": 1767235820,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189064,
       "num": 1396530,
       "word": "马年",
       "onboard_time": 1767198386,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187781,
+      "num": 269293,
+      "word": "小城良方",
+      "onboard_time": 1767239301,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 186473,
+      "num": 266238,
+      "word": "新年壁纸",
+      "onboard_time": 1767239181,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -363,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140415,
+      "num": 213818,
+      "word": "日本纸箱仙人",
+      "onboard_time": 1767240440,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 140402,
       "num": 1392072,
       "word": "江苏卫视跨年",
@@ -385,6 +441,14 @@
       "onboard_time": 1767188665,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 136284,
+      "num": 220317,
+      "word": "车主半夜把所有的仇人都想了一遍",
+      "onboard_time": 1767235461,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 133531,
@@ -417,6 +481,14 @@
       "onboard_time": 1767195208,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128746,
+      "num": 213547,
+      "word": "监控被叫做猫眼是有理由的",
+      "onboard_time": 1767239901,
+      "rank": 34,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 122853,
@@ -467,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105796,
+      "num": 213489,
+      "word": "2026年多了5天假期",
+      "onboard_time": 1767240260,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105523,
       "num": 1016883,
       "word": "中国5年成绩单来了",
@@ -507,12 +587,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98458,
+      "num": 214397,
+      "word": "原来新年第一天有这么多讲究",
+      "onboard_time": 1767237621,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98060,
       "num": 1386713,
       "word": "湖南卫视你好事做尽",
       "onboard_time": 1767193467,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94279,
+      "num": 214356,
+      "word": "超10万人观看重庆首场跨年烟花秀",
+      "onboard_time": 1767239780,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93442,
@@ -523,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90010,
+      "num": 261499,
+      "word": "小米汽车12月交付量超5万台",
+      "onboard_time": 1767236480,
+      "rank": 8,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 89583,
       "num": 1383396,
       "word": "上迪10岁生日庆典logo细节拉满",
@@ -531,11 +635,27 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 88501,
+      "num": 215431,
+      "word": "新年第一单外卖免单",
+      "onboard_time": 1767236062,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 87749,
       "num": 1133162,
       "word": "隔空碰杯成为新跨年仪式",
       "onboard_time": 1767197550,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87367,
+      "num": 316516,
+      "word": "1499元飞天遭热抢",
+      "onboard_time": 1767235342,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -579,6 +699,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 75709,
+      "num": 213980,
+      "word": "全球重申一个中国原则",
+      "onboard_time": 1767238821,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 75691,
       "num": 316616,
       "word": "苹果又新增3款过时产品",
@@ -595,6 +723,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74686,
+      "num": 213654,
+      "word": "2026年有33天假期",
+      "onboard_time": 1767238821,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74381,
+      "num": 213434,
+      "word": "新年新头像",
+      "onboard_time": 1767239181,
+      "rank": 36,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 74251,
       "num": 739239,
       "word": "2026新年贺词壁纸",
@@ -603,20 +747,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 73603,
-      "num": 316516,
-      "word": "1499元飞天遭热抢",
-      "onboard_time": 1767235342,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72757,
       "num": 713776,
       "word": "这3个带马成语太给劲了",
       "onboard_time": 1767184947,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 71948,
+      "num": 213370,
+      "word": "小说里的女医生具像化了",
+      "onboard_time": 1767236541,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 69926,
+      "num": 213158,
+      "word": "我将这样度过2026的第一天",
+      "onboard_time": 1767237800,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 67572,
@@ -635,12 +787,52 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 63895,
+      "num": 573740,
+      "word": "足迹2025",
+      "onboard_time": 1767239780,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 61247,
+      "num": 217350,
+      "word": "和奥迪E5一起启程2026",
+      "onboard_time": 1767240260,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 61033,
+      "num": 213009,
+      "word": "猪希望外卖普及农村",
+      "onboard_time": 1767240620,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 60826,
       "num": 2366436,
       "word": "2026新年贺词金句",
       "onboard_time": 1767181942,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 56907,
+      "num": 1009105,
+      "word": "中国一个个创新创造振奋人心",
+      "onboard_time": 1767239901,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 54623,
+      "num": 212784,
+      "word": "一代人有一代人的鲁冰花",
+      "onboard_time": 1767240081,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 53105,
@@ -667,6 +859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 48921,
+      "num": 212603,
+      "word": "干坏事很有耐心",
+      "onboard_time": 1767239960,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 48422,
       "num": 315050,
       "word": "希望台湾同胞自觉与台独划清界限",
@@ -683,12 +883,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47767,
+      "num": 215680,
+      "word": "14万级全新威兰达到店",
+      "onboard_time": 1767239840,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 47675,
+      "num": 709711,
+      "word": "十五五开局之年怎么干",
+      "onboard_time": 1767234740,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 45152,
       "num": 314842,
       "word": "元旦祝福",
       "onboard_time": 1767229640,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44724,
+      "num": 212439,
+      "word": "2026第一天原来幸福这么简单",
+      "onboard_time": 1767238341,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 44373,
@@ -739,14 +963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31303,
-      "num": 605336,
-      "word": "十五五开局之年怎么干",
-      "onboard_time": 1767234740,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 29330,
       "num": 318180,
       "word": "B站跨年晚会",
@@ -761,6 +977,14 @@
       "onboard_time": 1767219135,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24580,
+      "num": 260123,
+      "word": "依靠创新为高质量发展赋能",
+      "onboard_time": 1767238642,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 23561,
@@ -857,6 +1081,9 @@
     },
     {
       "word": "#新年贺词里这些话暖心又提气#"
+    },
+    {
+      "word": "#习近平牵挂的大家和小家#"
     }
   ]
 }
