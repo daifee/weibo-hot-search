@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767266769887,
+  "endTime": 1767267619769,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 308977,
+      "num": 1005900,
+      "word": "小吃街共用一个收款码有后续了",
+      "onboard_time": 1767262939,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 308419,
       "num": 1388760,
       "word": "2026第一条微博",
@@ -241,6 +249,22 @@
       "onboard_time": 1767228139,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 300964,
+      "num": 1003689,
+      "word": "小猫生了一模一样的自己",
+      "onboard_time": 1767263060,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 294480,
+      "num": 294480,
+      "word": "白露的红夫人",
+      "onboard_time": 1767266780,
+      "rank": 11,
+      "category": "电竞"
     },
     {
       "raw_hot": 289588,
@@ -275,12 +299,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 278071,
-      "num": 1005900,
-      "word": "小吃街共用一个收款码有后续了",
-      "onboard_time": 1767262939,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 272072,
+      "num": 272072,
+      "word": "跨年晚会主持人告别单薄礼服",
+      "onboard_time": 1767266420,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 270371,
@@ -417,14 +441,6 @@
       "onboard_time": 1767255260,
       "rank": 10,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 203504,
-      "num": 1003689,
-      "word": "小猫生了一模一样的自己",
-      "onboard_time": 1767263060,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 196582,
@@ -859,7 +875,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 122995,
+      "raw_hot": 123439,
       "num": 258778,
       "word": "对方不回消息却发朋友圈",
       "onboard_time": 1767264980,
@@ -881,6 +897,14 @@
       "onboard_time": 1767222556,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119321,
+      "num": 254860,
+      "word": "发现卧室其实不应该装衣柜",
+      "onboard_time": 1767266602,
+      "rank": 37,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 117691,
@@ -1011,6 +1035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 105776,
+      "num": 245848,
+      "word": "翟子路宋轶 央妈严选",
+      "onboard_time": 1767266961,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105523,
       "num": 1016883,
       "word": "中国5年成绩单来了",
@@ -1067,6 +1099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 101350,
+      "num": 252966,
+      "word": "印警方称200公斤大麻被老鼠吃掉",
+      "onboard_time": 1767266060,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 98909,
       "num": 1395472,
       "word": "浙江卫视 好明显的开麦",
@@ -1097,14 +1137,6 @@
       "onboard_time": 1767252019,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96915,
-      "num": 257872,
-      "word": "跨年晚会主持人告别单薄礼服",
-      "onboard_time": 1767266420,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 96005,
@@ -1155,12 +1187,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 92671,
+      "num": 245711,
+      "word": "中国驻瑞士使馆回应酒吧爆炸",
+      "onboard_time": 1767267319,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 92436,
       "num": 588722,
       "word": "杨瀚森3分5篮板",
       "onboard_time": 1767243740,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90198,
+      "num": 245638,
+      "word": "法国跨年把2026打成2036",
+      "onboard_time": 1767267020,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 90010,
@@ -1193,6 +1241,14 @@
       "onboard_time": 1767236062,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 88003,
+      "num": 245541,
+      "word": "打错字同事以为在卖萌",
+      "onboard_time": 1767266780,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 87749,
@@ -1233,6 +1289,22 @@
       "onboard_time": 1767176961,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 86215,
+      "num": 255464,
+      "word": "寻秦记这段是哪个人才做的",
+      "onboard_time": 1767266360,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 85881,
+      "num": 253665,
+      "word": "468元一个龙虾尾",
+      "onboard_time": 1767266060,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 85594,
@@ -1411,14 +1483,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 74223,
-      "num": 255464,
-      "word": "寻秦记这段是哪个人才做的",
-      "onboard_time": 1767266360,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 72757,
       "num": 713776,
       "word": "这3个带马成语太给劲了",
@@ -1465,14 +1529,6 @@
       "onboard_time": 1767240620,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 69677,
-      "num": 254860,
-      "word": "发现卧室其实不应该装衣柜",
-      "onboard_time": 1767266602,
-      "rank": 37,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 69275,
@@ -1523,14 +1579,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 65026,
-      "num": 253665,
-      "word": "468元一个龙虾尾",
-      "onboard_time": 1767266060,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
       "raw_hot": 64846,
       "num": 241790,
       "word": "中国国家队新年祝福",
@@ -1577,14 +1625,6 @@
       "onboard_time": 1767249921,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 61995,
-      "num": 252966,
-      "word": "印警方称200公斤大麻被老鼠吃掉",
-      "onboard_time": 1767266060,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 61247,
