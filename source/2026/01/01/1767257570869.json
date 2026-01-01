@@ -1,0 +1,410 @@
+{
+  "runTime": 1767257570869,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 29320,
+        "num": 1004691,
+        "word": "2026的新年祝福",
+        "onboard_time": 1767251180,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4050,
+        "num": 735991,
+        "word": "我国经济总量预计140万亿元",
+        "onboard_time": 1767182124,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20109,
+        "num": 578909,
+        "word": "2026年新程已启",
+        "onboard_time": 1767225198,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 439538,
+        "num": 439538,
+        "word": "台积电发布声明",
+        "onboard_time": 1767255620,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 373337,
+        "num": 373337,
+        "word": "元旦宝宝1月1日0点出生",
+        "onboard_time": 1767254181,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210466,
+        "num": 210466,
+        "word": "吃凉拌菜也减不了肥的原因",
+        "onboard_time": 1767252139,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158890,
+        "num": 210466,
+        "word": "国乒教练竞聘陈述环节已完成",
+        "onboard_time": 1767251960,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126989,
+        "num": 210340,
+        "word": "蔡磊说渐冻症的历史已被改写",
+        "onboard_time": 1767254419,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98800,
+        "num": 210310,
+        "word": "再见爱人5",
+        "onboard_time": 1767253580,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59297,
+        "num": 210208,
+        "word": "2026新国补来了",
+        "onboard_time": 1767231201,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 356968,
+        "num": 210120,
+        "word": "跨年榜一是江苏卫视",
+        "onboard_time": 1767254181,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246905,
+        "num": 210081,
+        "word": "跨年最佳节目",
+        "onboard_time": 1767253520,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186859,
+        "num": 209989,
+        "word": "外网流行中国化",
+        "onboard_time": 1767255260,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 180487,
+        "num": 209867,
+        "word": "全网伙食最差狗子",
+        "onboard_time": 1767255081,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95111,
+        "num": 209821,
+        "word": "怪奇物语",
+        "onboard_time": 1767228139,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85462,
+        "num": 209718,
+        "word": "新年壁纸",
+        "onboard_time": 1767239181,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79134,
+        "num": 209647,
+        "word": "玉茗茶骨这段让我想起了墨雨云间",
+        "onboard_time": 1767256280,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68574,
+        "num": 209595,
+        "word": "TE对战北京WBG",
+        "onboard_time": 1767250999,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 60994,
+        "num": 209489,
+        "word": "再见爱人嘉宾去闯短剧赛道了",
+        "onboard_time": 1767256100,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36236,
+        "num": 209466,
+        "word": "沃尔沃新年首推新能源购置补贴",
+        "onboard_time": 1767254780,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 497976,
+        "num": 209346,
+        "word": "瑞士滑雪胜地爆炸多人死伤",
+        "onboard_time": 1767253940,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 38660,
+        "num": 209328,
+        "word": "迪丽热巴红运开年",
+        "onboard_time": 1767254360,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 81936,
+        "num": 209242,
+        "word": "单依纯紫色舞台接好运",
+        "onboard_time": 1767254360,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370828,
+        "num": 209165,
+        "word": "电影偷偷藏不住官宣",
+        "onboard_time": 1767240862,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111378,
+        "num": 209101,
+        "word": "九集了没见谁吃上一口饭",
+        "onboard_time": 1767252081,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105603,
+        "num": 208987,
+        "word": "寻秦记",
+        "onboard_time": 1767241160,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94778,
+        "num": 208893,
+        "word": "小米回应YU7配置调整",
+        "onboard_time": 1767253161,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 87102,
+        "num": 208843,
+        "word": "日本纸箱仙人",
+        "onboard_time": 1767240440,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 84855,
+        "num": 208778,
+        "word": "金价波动",
+        "onboard_time": 1767252739,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 58559,
+        "num": 208695,
+        "word": "怪奇物语第五季",
+        "onboard_time": 1767232942,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83111,
+        "num": 208630,
+        "word": "桃晚安好牛",
+        "onboard_time": 1767257360,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 67517,
+        "num": 208537,
+        "word": "不要小瞧大学烤冷面群主",
+        "onboard_time": 1767255440,
+        "rank": 31,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 61397,
+        "num": 208425,
+        "word": "护发素洗头大法",
+        "onboard_time": 1767256100,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 57809,
+        "num": 208404,
+        "word": "南方人的取暖方式",
+        "onboard_time": 1767254119,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57357,
+        "num": 208301,
+        "word": "林高远说上央视晚会唱歌超级紧张",
+        "onboard_time": 1767253401,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53279,
+        "num": 208221,
+        "word": "胖东来2025年销售额235亿元",
+        "onboard_time": 1767256939,
+        "rank": 35,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 52320,
+        "num": 208150,
+        "word": "元旦",
+        "onboard_time": 1767252019,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51591,
+        "num": 208121,
+        "word": "一人之下宝儿姐明天见",
+        "onboard_time": 1767254780,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 21377,
+        "num": 208018,
+        "word": "B站 传统文化细糠",
+        "onboard_time": 1767256640,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51020,
+        "num": 207896,
+        "word": "俄方公布乌无人机袭击普京官邸细节",
+        "onboard_time": 1767248601,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49893,
+        "num": 207873,
+        "word": "新年新头像",
+        "onboard_time": 1767239181,
+        "rank": 40,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 49630,
+        "num": 207756,
+        "word": "原来新年第一天有这么多讲究",
+        "onboard_time": 1767237621,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47850,
+        "num": 207695,
+        "word": "南部档案",
+        "onboard_time": 1767247580,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46469,
+        "num": 207628,
+        "word": "柔弱不能自理的外室出现代版了",
+        "onboard_time": 1767251121,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43618,
+        "num": 207547,
+        "word": "陆江来被荣善宝强吻",
+        "onboard_time": 1767256460,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43591,
+        "num": 207502,
+        "word": "2026",
+        "onboard_time": 1767228560,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42627,
+        "num": 207415,
+        "word": "哇唧唧哇有自己的00电影花",
+        "onboard_time": 1767257119,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41984,
+        "num": 207313,
+        "word": "金价",
+        "onboard_time": 1767257540,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 41338,
+        "num": 207219,
+        "word": "剥茧",
+        "onboard_time": 1767245422,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41307,
+        "num": 207142,
+        "word": "J人和P人旅游时的区别",
+        "onboard_time": 1767247039,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平牵挂的大家和小家#"
+    }
+  }
+}
