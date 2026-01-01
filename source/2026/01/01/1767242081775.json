@@ -1,0 +1,410 @@
+{
+  "runTime": 1767242081775,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 44924,
+        "num": 1007187,
+        "word": "中国一个个创新创造振奋人心",
+        "onboard_time": 1767239901,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 47772,
+        "num": 734105,
+        "word": "十五五开局之年怎么干",
+        "onboard_time": 1767234740,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22136,
+        "num": 591916,
+        "word": "足迹2025",
+        "onboard_time": 1767239780,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 232948,
+        "num": 232948,
+        "word": "2026新国补来了",
+        "onboard_time": 1767231201,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185025,
+        "num": 232721,
+        "word": "小城良方",
+        "onboard_time": 1767239301,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168884,
+        "num": 232230,
+        "word": "新年壁纸",
+        "onboard_time": 1767239181,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165807,
+        "num": 231708,
+        "word": "中国奇谭2今日开播",
+        "onboard_time": 1767240920,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 127981,
+        "num": 231611,
+        "word": "我将这样度过2026的第一天",
+        "onboard_time": 1767237800,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124130,
+        "num": 231006,
+        "word": "2026年多了5天假期",
+        "onboard_time": 1767240260,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119371,
+        "num": 230702,
+        "word": "寻秦记",
+        "onboard_time": 1767241160,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 272410,
+        "num": 230127,
+        "word": "发明袜子拼豆的人简直是天才",
+        "onboard_time": 1767236241,
+        "rank": 10,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 24177,
+        "num": 229566,
+        "word": "和奥迪E5一起启程2026",
+        "onboard_time": 1767240260,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 222832,
+        "num": 229255,
+        "word": "怪奇物语",
+        "onboard_time": 1767228139,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209299,
+        "num": 228818,
+        "word": "湖南卫视断层第一",
+        "onboard_time": 1767232223,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152791,
+        "num": 228105,
+        "word": "怪奇物语第五季",
+        "onboard_time": 1767232942,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140367,
+        "num": 227753,
+        "word": "四大卫视跨年晚会零点压轴嘉宾",
+        "onboard_time": 1767227060,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105972,
+        "num": 227332,
+        "word": "怪奇物语大结局",
+        "onboard_time": 1767233362,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99619,
+        "num": 227104,
+        "word": "2026年新规今起施行",
+        "onboard_time": 1767229520,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 93009,
+        "num": 226428,
+        "word": "原来新年第一天有这么多讲究",
+        "onboard_time": 1767237621,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33767,
+        "num": 225990,
+        "word": "14万级全新威兰达到店",
+        "onboard_time": 1767239840,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 312939,
+        "num": 225686,
+        "word": "电影偷偷藏不住官宣",
+        "onboard_time": 1767240862,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225422,
+        "num": 225422,
+        "word": "日本纸箱仙人",
+        "onboard_time": 1767240440,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117151,
+        "num": 225416,
+        "word": "生理性喜欢的4个信号",
+        "onboard_time": 1767206057,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90679,
+        "num": 225380,
+        "word": "跨年",
+        "onboard_time": 1767193410,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88702,
+        "num": 225370,
+        "word": "新年新头像",
+        "onboard_time": 1767239181,
+        "rank": 24,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 86199,
+        "num": 225334,
+        "word": "车主半夜把所有的仇人都想了一遍",
+        "onboard_time": 1767235461,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84054,
+        "num": 225303,
+        "word": "监控被叫做猫眼是有理由的",
+        "onboard_time": 1767239901,
+        "rank": 26,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 83087,
+        "num": 225285,
+        "word": "土耳其免签",
+        "onboard_time": 1767224237,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74455,
+        "num": 225259,
+        "word": "小米汽车12月交付量超5万台",
+        "onboard_time": 1767236480,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 72061,
+        "num": 225253,
+        "word": "新年贺词",
+        "onboard_time": 1767177980,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 374796,
+        "num": 225231,
+        "word": "尚公主",
+        "onboard_time": 1767238040,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140243,
+        "num": 225190,
+        "word": "生命树",
+        "onboard_time": 1767235820,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102798,
+        "num": 225177,
+        "word": "王星越的副驾还缺人吗",
+        "onboard_time": 1767241879,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71791,
+        "num": 225157,
+        "word": "一代人有一代人的鲁冰花",
+        "onboard_time": 1767240081,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70724,
+        "num": 225128,
+        "word": "2026",
+        "onboard_time": 1767228560,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70381,
+        "num": 225090,
+        "word": "1499元飞天遭热抢",
+        "onboard_time": 1767235342,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69848,
+        "num": 225070,
+        "word": "猪希望外卖普及农村",
+        "onboard_time": 1767240620,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66841,
+        "num": 225050,
+        "word": "新年第一单外卖免单",
+        "onboard_time": 1767236062,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 68102,
+        "num": 225026,
+        "word": "全球重申一个中国原则",
+        "onboard_time": 1767238821,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 64461,
+        "num": 225002,
+        "word": "不染 难唱",
+        "onboard_time": 1767195686,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56370,
+        "num": 224993,
+        "word": "2026鹅剧片单",
+        "onboard_time": 1767241340,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 52400,
+        "num": 224968,
+        "word": "樊振东冲击留洋生涯首冠",
+        "onboard_time": 1767226880,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49183,
+        "num": 224924,
+        "word": "新年红包",
+        "onboard_time": 1767222375,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 48276,
+        "num": 224909,
+        "word": "i茅台每人每日最多可购12瓶",
+        "onboard_time": 1767223996,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 47573,
+        "num": 224900,
+        "word": "鸿蒙智行2025全年交付589107台",
+        "onboard_time": 1767241400,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 46322,
+        "num": 224872,
+        "word": "2026年有33天假期",
+        "onboard_time": 1767238821,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46296,
+        "num": 224833,
+        "word": "王者荣耀无双",
+        "onboard_time": 1767225798,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 40727,
+        "num": 224809,
+        "word": "2026年元旦宝宝",
+        "onboard_time": 1767238880,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40011,
+        "num": 224790,
+        "word": "2026第一天原来幸福这么简单",
+        "onboard_time": 1767238341,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38871,
+        "num": 224767,
+        "word": "中国5年成绩单来了",
+        "onboard_time": 1767234260,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席新年贺词这样展望2026#"
+    }
+  }
+}
