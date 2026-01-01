@@ -1,6 +1,6 @@
 {
   "startTime": 1767285375925,
-  "endTime": 1767292791393,
+  "endTime": 1767293635331,
   "band_list": [
     {
       "raw_hot": 602063,
@@ -243,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46174,
+      "num": 116566,
+      "word": "罚罪2",
+      "onboard_time": 1767291795,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 44473,
       "num": 691707,
       "word": "土耳其免签春节旅游热攀升",
@@ -273,14 +281,6 @@
       "onboard_time": 1767267020,
       "rank": 36,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 41055,
-      "num": 116566,
-      "word": "罚罪2",
-      "onboard_time": 1767291795,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 40755,
@@ -363,6 +363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 31598,
+      "num": 187272,
+      "word": "蔡磊称拯救渐冻症患者不用回报",
+      "onboard_time": 1767287657,
+      "rank": 42,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 31373,
       "num": 601816,
       "word": "贾磊说徐杰应该问题不大",
@@ -393,14 +401,6 @@
       "onboard_time": 1767282320,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 20190,
-      "num": 187272,
-      "word": "蔡磊称拯救渐冻症患者不用回报",
-      "onboard_time": 1767287657,
-      "rank": 42,
-      "category": "正能量"
     },
     {
       "raw_hot": 17432,
@@ -443,7 +443,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12349,
+      "raw_hot": 13938,
       "num": 115752,
       "word": "得闲谨制",
       "onboard_time": 1767282920,

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767292791393,
+  "endTime": 1767293635331,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -2203,6 +2203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46174,
+      "num": 116566,
+      "word": "罚罪2",
+      "onboard_time": 1767291795,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 45999,
       "num": 906451,
       "word": "男子5年救了500多只猫",
@@ -2305,14 +2313,6 @@
       "onboard_time": 1767243020,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 41055,
-      "num": 116566,
-      "word": "罚罪2",
-      "onboard_time": 1767291795,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 40727,

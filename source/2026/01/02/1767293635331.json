@@ -1,0 +1,410 @@
+{
+  "runTime": 1767293635331,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 15544,
+        "num": 80421,
+        "word": "新年首日中国空间站过境合集",
+        "onboard_time": 1767278661,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38628,
+        "num": 80400,
+        "word": "尔滨你是有点子浪漫在身上的",
+        "onboard_time": 1767281959,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11411,
+        "num": 80380,
+        "word": "2026为梦想奋斗为幸福打拼",
+        "onboard_time": 1767275302,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46174,
+        "num": 80368,
+        "word": "罚罪2",
+        "onboard_time": 1767291795,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37134,
+        "num": 80338,
+        "word": "冰雪大世界建了超大玫瑰冰瀑",
+        "onboard_time": 1767279920,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47330,
+        "num": 80335,
+        "word": "个人存取款超5万元不再登记",
+        "onboard_time": 1767267680,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28257,
+        "num": 80302,
+        "word": "二十年快滴很 弹指一挥间",
+        "onboard_time": 1767283939,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21634,
+        "num": 80289,
+        "word": "三亚元旦入境游客暴增5倍",
+        "onboard_time": 1767278843,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19747,
+        "num": 80268,
+        "word": "小吃街共用一个收款码有后续了",
+        "onboard_time": 1767262939,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14343,
+        "num": 80239,
+        "word": "海军052D型导弹驱逐舰又上新",
+        "onboard_time": 1767274162,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 43243,
+        "num": 80228,
+        "word": "跨年晚会主持人告别单薄礼服",
+        "onboard_time": 1767266420,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36661,
+        "num": 80207,
+        "word": "发现卧室其实不应该装衣柜",
+        "onboard_time": 1767266602,
+        "rank": 11,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 31598,
+        "num": 80180,
+        "word": "蔡磊称拯救渐冻症患者不用回报",
+        "onboard_time": 1767287657,
+        "rank": 12,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 25733,
+        "num": 80153,
+        "word": "小猫生了一模一样的自己",
+        "onboard_time": 1767263060,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25419,
+        "num": 80129,
+        "word": "狗狗第一次后悔自己的鼻子很灵",
+        "onboard_time": 1767265880,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24084,
+        "num": 80113,
+        "word": "白露的红夫人",
+        "onboard_time": 1767266780,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21444,
+        "num": 80090,
+        "word": "为什么坐电车更容易晕车",
+        "onboard_time": 1767274401,
+        "rank": 16,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 20605,
+        "num": 80079,
+        "word": "2026年生娃基本不花钱",
+        "onboard_time": 1767260300,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19931,
+        "num": 80046,
+        "word": "一盘辣椒炒肉何以戳中泪点",
+        "onboard_time": 1767276021,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17619,
+        "num": 80029,
+        "word": "逍遥",
+        "onboard_time": 1767263121,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121090,
+        "num": 80007,
+        "word": "骄阳似我 奇耻大辱",
+        "onboard_time": 1767274162,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105837,
+        "num": 79979,
+        "word": "沈佳润唱功",
+        "onboard_time": 1767279382,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99533,
+        "num": 79955,
+        "word": "重庆飞三亚航班紧急返航乘客发声",
+        "onboard_time": 1767277642,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80826,
+        "num": 79941,
+        "word": "怪奇物语",
+        "onboard_time": 1767272600,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29642,
+        "num": 79923,
+        "word": "星期五练习生",
+        "onboard_time": 1767290176,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27947,
+        "num": 79902,
+        "word": "瑞士医院被烧伤患者淹没",
+        "onboard_time": 1767268522,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 24876,
+        "num": 79880,
+        "word": "林屿森聂曦光和好",
+        "onboard_time": 1767274701,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24473,
+        "num": 79849,
+        "word": "印警方称200公斤大麻被老鼠吃掉",
+        "onboard_time": 1767266060,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 19619,
+        "num": 79828,
+        "word": "打错字同事以为在卖萌",
+        "onboard_time": 1767266780,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19362,
+        "num": 79821,
+        "word": "法国跨年把2026打成2036",
+        "onboard_time": 1767267020,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 61863,
+        "num": 79796,
+        "word": "张杰歌迷会 愿我们莫忘来时路",
+        "onboard_time": 1767270862,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24717,
+        "num": 79779,
+        "word": "骄阳似我",
+        "onboard_time": 1767264681,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18468,
+        "num": 79758,
+        "word": "王者中阵亡次数最多的英雄",
+        "onboard_time": 1767272121,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16634,
+        "num": 79732,
+        "word": "对方不回消息却发朋友圈",
+        "onboard_time": 1767264980,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17709,
+        "num": 79714,
+        "word": "李昀锐这段完播率100%",
+        "onboard_time": 1767268161,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15578,
+        "num": 79690,
+        "word": "女孩吃蔡磊研发药渐冻症没再发展",
+        "onboard_time": 1767260899,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15403,
+        "num": 79660,
+        "word": "5个技巧提高代谢水平",
+        "onboard_time": 1767276141,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 15131,
+        "num": 79651,
+        "word": "骄阳似我预告",
+        "onboard_time": 1767274882,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17155,
+        "num": 79617,
+        "word": "蔡依林新巡演官宣十四城",
+        "onboard_time": 1767270862,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15103,
+        "num": 79604,
+        "word": "有人买40斤白银2个月猛赚14万",
+        "onboard_time": 1767277702,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 14726,
+        "num": 79570,
+        "word": "跟有钱人吵架真的好恐怖",
+        "onboard_time": 1767261859,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13941,
+        "num": 79552,
+        "word": "2026扬帆远航",
+        "onboard_time": 1767282620,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13938,
+        "num": 79525,
+        "word": "得闲谨制",
+        "onboard_time": 1767282920,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13659,
+        "num": 79506,
+        "word": "男子带妻儿开直升机回老家过元旦",
+        "onboard_time": 1767278542,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13123,
+        "num": 79483,
+        "word": "天宫与神州同框的中国式浪漫",
+        "onboard_time": 1767280281,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12844,
+        "num": 79475,
+        "word": "茅台1499元直销成黄牛噩梦",
+        "onboard_time": 1767258681,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11868,
+        "num": 79439,
+        "word": "樊振东再次登上东方卫视跨年大屏",
+        "onboard_time": 1767279262,
+        "rank": 46,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 10586,
+        "num": 79437,
+        "word": "土耳其免签春节旅游热攀升",
+        "onboard_time": 1767277822,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 8805,
+        "num": 79414,
+        "word": "1分钟看完全球跨年烟花",
+        "onboard_time": 1767276320,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 8553,
+        "num": 79394,
+        "word": "零跑年销量近60万台超额完成目标",
+        "onboard_time": 1767274642,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力奋斗才能梦想成真#"
+    }
+  }
+}

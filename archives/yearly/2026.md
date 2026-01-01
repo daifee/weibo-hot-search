@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/02 02:39:51
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/02 02:53:55
 </p>
 </blockquote>
 <p>
@@ -1665,6 +1665,12 @@ CBA新年大战（热度：61972）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%9A%E7%BD%AA2%23" target="weibo">
+罚罪2（热度：46174）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%905%E5%B9%B4%E6%95%91%E4%BA%86500%E5%A4%9A%E5%8F%AA%E7%8C%AB%23" target="weibo">
 男子5年救了500多只猫（热度：45999）
 </a>
@@ -1739,12 +1745,6 @@ CBA新年大战（热度：61972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A3%E6%BD%AE%23" target="weibo">
 鸣潮（热度：41124）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%9A%E7%BD%AA2%23" target="weibo">
-罚罪2（热度：41055）
 </a>
 </li>
 
