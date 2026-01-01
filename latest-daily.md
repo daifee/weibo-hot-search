@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/02 00:36:15 ~ 2026/01/02 05:41:07
+本榜单时间：2026/01/02 00:36:15 ~ 2026/01/02 06:28:44
 </p>
 </blockquote>
 <p>
@@ -345,6 +345,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232026%E5%BB%BA%E8%AE%AE%E6%8A%8A%E6%97%A9%E7%9D%A1%E6%94%BE%E5%9C%A8%E7%AC%AC%E4%B8%80%E4%BD%8D%23" target="weibo">
+2026建议把早睡放在第一位（热度：16917）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%AE%AB%E4%B8%8E%E7%A5%9E%E5%B7%9E%E5%90%8C%E6%A1%86%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%B5%AA%E6%BC%AB%23" target="weibo">
 天宫与神州同框的中国式浪漫（热度：15740）
 </a>
@@ -353,6 +359,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%232026%E6%89%AC%E5%B8%86%E8%BF%9C%E8%88%AA%23" target="weibo">
 2026扬帆远航（热度：14157）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%A3%AB%E6%BB%91%E9%9B%AA%E8%83%9C%E5%9C%B0%E7%88%86%E7%82%B8%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BC%A4%23" target="weibo">
+瑞士滑雪胜地爆炸多人死伤（热度：8169）
 </a>
 </li>
 
