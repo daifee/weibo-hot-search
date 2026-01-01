@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767293635331,
+  "endTime": 1767295460092,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -2083,6 +2083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49024,
+      "num": 116566,
+      "word": "罚罪2",
+      "onboard_time": 1767291795,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 48921,
       "num": 212603,
       "word": "干坏事很有耐心",
@@ -2200,14 +2208,6 @@
       "word": "陆江来被荣善宝强吻",
       "onboard_time": 1767256460,
       "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 46174,
-      "num": 116566,
-      "word": "罚罪2",
-      "onboard_time": 1767291795,
-      "rank": 4,
       "category": "剧集"
     },
     {

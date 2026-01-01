@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767293635331,
+  "endTime": 1767295460092,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -2083,6 +2083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49024,
+      "num": 116566,
+      "word": "罚罪2",
+      "onboard_time": 1767291795,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 48921,
       "num": 212603,
       "word": "干坏事很有耐心",
@@ -2200,14 +2208,6 @@
       "word": "陆江来被荣善宝强吻",
       "onboard_time": 1767256460,
       "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 46174,
-      "num": 116566,
-      "word": "罚罪2",
-      "onboard_time": 1767291795,
-      "rank": 4,
       "category": "剧集"
     },
     {
@@ -2595,6 +2595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 18838,
+      "num": 115752,
+      "word": "得闲谨制",
+      "onboard_time": 1767282920,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 16560,
       "num": 606142,
       "word": "这是大国重器奏响的新年乐章",
@@ -2619,20 +2627,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 13944,
+      "raw_hot": 14157,
       "num": 115846,
       "word": "2026扬帆远航",
       "onboard_time": 1767282620,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13938,
-      "num": 115752,
-      "word": "得闲谨制",
-      "onboard_time": 1767282920,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 13405,

@@ -1,6 +1,6 @@
 {
   "startTime": 1767285375925,
-  "endTime": 1767293635331,
+  "endTime": 1767295460092,
   "band_list": [
     {
       "raw_hot": 602063,
@@ -243,7 +243,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 46174,
+      "raw_hot": 49024,
       "num": 116566,
       "word": "罚罪2",
       "onboard_time": 1767291795,
@@ -403,6 +403,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 18838,
+      "num": 115752,
+      "word": "得闲谨制",
+      "onboard_time": 1767282920,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 17432,
       "num": 600584,
       "word": "零跑年销量近60万台超额完成目标",
@@ -435,20 +443,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13944,
+      "raw_hot": 14157,
       "num": 115846,
       "word": "2026扬帆远航",
       "onboard_time": 1767282620,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13938,
-      "num": 115752,
-      "word": "得闲谨制",
-      "onboard_time": 1767282920,
-      "rank": 47,
-      "category": "电影"
     }
   ],
   "hotgov_list": [
