@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767245723360,
+  "endTime": 1767246627542,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -4203,6 +4203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194919,
+      "num": 289802,
+      "word": "东方卫视跨年神图",
+      "onboard_time": 1767242661,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194131,
       "num": 194131,
       "word": "恋与深空快开门",
@@ -4385,14 +4393,6 @@
       "onboard_time": 1767093263,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 189420,
-      "num": 289802,
-      "word": "东方卫视跨年神图",
-      "onboard_time": 1767242661,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 189403,
@@ -4688,6 +4688,14 @@
       "word": "玉茗茶骨 不用忍过多少集的剧",
       "onboard_time": 1767072322,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 181726,
+      "num": 287442,
+      "word": "骄阳似我把我拉回长剧赛道",
+      "onboard_time": 1767244340,
+      "rank": 6,
       "category": "剧集"
     },
     {
@@ -5209,14 +5217,6 @@
       "onboard_time": 1766919740,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 166499,
-      "num": 287442,
-      "word": "骄阳似我把我拉回长剧赛道",
-      "onboard_time": 1767244340,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 165807,
@@ -6553,6 +6553,14 @@
       "onboard_time": 1767069201,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 135253,
+      "num": 267068,
+      "word": "正装是男人最好的医美",
+      "onboard_time": 1767245661,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 135143,
@@ -8059,6 +8067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113763,
+      "num": 265677,
+      "word": "中国奇谭2",
+      "onboard_time": 1767243561,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 113757,
       "num": 113757,
       "word": "王鹤棣孟子义同框骑马",
@@ -8323,6 +8339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110913,
+      "num": 267458,
+      "word": "短剧男主超级冠军硬核开唱",
+      "onboard_time": 1767242661,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110831,
       "num": 335681,
       "word": "新年贺词完整视频",
@@ -8401,6 +8425,14 @@
       "onboard_time": 1767105022,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 109680,
+      "num": 277853,
+      "word": "剥茧",
+      "onboard_time": 1767066740,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 109657,
@@ -8633,14 +8665,6 @@
       "onboard_time": 1767015921,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107054,
-      "num": 277853,
-      "word": "剥茧",
-      "onboard_time": 1767066740,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 106933,
@@ -9619,14 +9643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97744,
-      "num": 267458,
-      "word": "短剧男主超级冠军硬核开唱",
-      "onboard_time": 1767242661,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 97708,
       "num": 97708,
       "word": "何小鹏试驾特斯拉FSD",
@@ -10521,14 +10537,6 @@
       "onboard_time": 1767005301,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 88894,
-      "num": 267068,
-      "word": "正装是男人最好的医美",
-      "onboard_time": 1767245661,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 88770,
@@ -11747,14 +11755,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 75921,
-      "num": 265677,
-      "word": "中国奇谭2",
-      "onboard_time": 1767243561,
-      "rank": 32,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 75914,
       "num": 200294,
       "word": "苹果回应iPhone17Pro充电嘶嘶声",
@@ -12515,6 +12515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63324,
+      "num": 225287,
+      "word": "文班亚马又伤了",
+      "onboard_time": 1767246500,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63045,
       "num": 646496,
       "word": "2026跨年大范围雨雪登场",
@@ -12851,6 +12859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57710,
+      "num": 1009233,
+      "word": "新年第1天升国旗",
+      "onboard_time": 1767224057,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 57701,
       "num": 57701,
       "word": "解放军台岛周边演习对比",
@@ -12881,14 +12897,6 @@
       "onboard_time": 1767173420,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 57097,
-      "num": 1009135,
-      "word": "新年第1天升国旗",
-      "onboard_time": 1767224057,
-      "rank": 17,
-      "category": "国内时政"
     },
     {
       "raw_hot": 57079,
@@ -13107,6 +13115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 52532,
+      "num": 269127,
+      "word": "邓为红在2026",
+      "onboard_time": 1767245121,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52236,
       "num": 157804,
       "word": "丁禹兮对自己的实力一无所知",
@@ -13217,6 +13233,14 @@
       "onboard_time": 1766963837,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 50124,
+      "num": 273542,
+      "word": "湖南跨晚明星全员红装",
+      "onboard_time": 1767245422,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 50029,
@@ -13435,14 +13459,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 47550,
-      "num": 269127,
-      "word": "邓为红在2026",
-      "onboard_time": 1767245121,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 47548,
       "num": 158153,
       "word": "俄方反对任何形式的台独分裂行径",
@@ -13473,6 +13489,14 @@
       "onboard_time": 1767144140,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 47171,
+      "num": 272000,
+      "word": "张晚意元旦跟谁过",
+      "onboard_time": 1767245361,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 47032,
@@ -14081,22 +14105,6 @@
       "onboard_time": 1767086421,
       "rank": 37,
       "category": "剧集,作品衍生"
-    },
-    {
-      "raw_hot": 38248,
-      "num": 273542,
-      "word": "湖南跨晚明星全员红装",
-      "onboard_time": 1767245422,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 37681,
-      "num": 272000,
-      "word": "张晚意元旦跟谁过",
-      "onboard_time": 1767245361,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 37604,
@@ -14827,6 +14835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 26562,
+      "num": 588095,
+      "word": "2026年新程已启",
+      "onboard_time": 1767225198,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26540,
       "num": 762129,
       "word": "北京范儿新年祈福",
@@ -14897,14 +14913,6 @@
       "onboard_time": 1766863215,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 25656,
-      "num": 588095,
-      "word": "2026年新程已启",
-      "onboard_time": 1767225198,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 25533,
@@ -15691,6 +15699,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 11190,
+      "num": 224558,
+      "word": "爬楼机要爬上泰山了",
+      "onboard_time": 1767246080,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10830,
       "num": 190798,
       "word": "2025年最感谢的是老己",
@@ -15704,6 +15720,14 @@
       "word": "飞行员举报情人诈骗700多万",
       "onboard_time": 1767077719,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10651,
+      "num": 231003,
+      "word": "多地探索产检全免费",
+      "onboard_time": 1767246019,
+      "rank": 19,
       "category": "民生新闻"
     },
     {

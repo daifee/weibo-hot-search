@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767245723360,
+  "endTime": 1767246627542,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -283,7 +283,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189420,
+      "raw_hot": 194919,
       "num": 289802,
       "word": "东方卫视跨年神图",
       "onboard_time": 1767242661,
@@ -320,6 +320,14 @@
       "word": "逐玉",
       "onboard_time": 1767234861,
       "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 181726,
+      "num": 287442,
+      "word": "骄阳似我把我拉回长剧赛道",
+      "onboard_time": 1767244340,
+      "rank": 6,
       "category": "剧集"
     },
     {
@@ -361,14 +369,6 @@
       "onboard_time": 1767198149,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 166499,
-      "num": 287442,
-      "word": "骄阳似我把我拉回长剧赛道",
-      "onboard_time": 1767244340,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 165807,
@@ -499,6 +499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135253,
+      "num": 267068,
+      "word": "正装是男人最好的医美",
+      "onboard_time": 1767245661,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134917,
       "num": 280438,
       "word": "谍报上不封顶",
@@ -595,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113763,
+      "num": 265677,
+      "word": "中国奇谭2",
+      "onboard_time": 1767243561,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 113261,
       "num": 317570,
       "word": "樊振东冲击留洋生涯首冠",
@@ -611,6 +627,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110913,
+      "num": 267458,
+      "word": "短剧男主超级冠军硬核开唱",
+      "onboard_time": 1767242661,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 109680,
+      "num": 277853,
+      "word": "剥茧",
+      "onboard_time": 1767245422,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105523,
       "num": 1016883,
       "word": "中国5年成绩单来了",
@@ -625,14 +657,6 @@
       "onboard_time": 1767241879,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 102724,
-      "num": 277853,
-      "word": "剥茧",
-      "onboard_time": 1767245422,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 102628,
@@ -675,14 +699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 97744,
-      "num": 267458,
-      "word": "短剧男主超级冠军硬核开唱",
-      "onboard_time": 1767242661,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 94279,
       "num": 214356,
       "word": "超10万人观看重庆首场跨年烟花秀",
@@ -721,14 +737,6 @@
       "onboard_time": 1767193708,
       "rank": 21,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 88894,
-      "num": 267068,
-      "word": "正装是男人最好的医美",
-      "onboard_time": 1767245661,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 88702,
@@ -801,14 +809,6 @@
       "onboard_time": 1767230121,
       "rank": 25,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 75921,
-      "num": 265677,
-      "word": "中国奇谭2",
-      "onboard_time": 1767243561,
-      "rank": 32,
-      "category": "动漫"
     },
     {
       "raw_hot": 75709,
@@ -923,6 +923,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 63324,
+      "num": 225287,
+      "word": "文班亚马又伤了",
+      "onboard_time": 1767246500,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61247,
       "num": 229566,
       "word": "和奥迪E5一起启程2026",
@@ -939,8 +947,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 57097,
-      "num": 1009135,
+      "raw_hot": 57710,
+      "num": 1009233,
       "word": "新年第1天升国旗",
       "onboard_time": 1767224057,
       "rank": 17,
@@ -985,6 +993,22 @@
       "onboard_time": 1767234981,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 52532,
+      "num": 269127,
+      "word": "邓为红在2026",
+      "onboard_time": 1767245121,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 50124,
+      "num": 273542,
+      "word": "湖南跨晚明星全员红装",
+      "onboard_time": 1767245422,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 48921,
@@ -1035,11 +1059,11 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 47550,
-      "num": 269127,
-      "word": "邓为红在2026",
-      "onboard_time": 1767245121,
-      "rank": 24,
+      "raw_hot": 47171,
+      "num": 272000,
+      "word": "张晚意元旦跟谁过",
+      "onboard_time": 1767245361,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -1115,22 +1139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 38248,
-      "num": 273542,
-      "word": "湖南跨晚明星全员红装",
-      "onboard_time": 1767245422,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 37681,
-      "num": 272000,
-      "word": "张晚意元旦跟谁过",
-      "onboard_time": 1767245361,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 29330,
       "num": 318180,
       "word": "B站跨年晚会",
@@ -1147,7 +1155,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 25656,
+      "raw_hot": 26562,
       "num": 588095,
       "word": "2026年新程已启",
       "onboard_time": 1767225198,
@@ -1249,6 +1257,22 @@
       "onboard_time": 1767170841,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11190,
+      "num": 224558,
+      "word": "爬楼机要爬上泰山了",
+      "onboard_time": 1767246080,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10651,
+      "num": 231003,
+      "word": "多地探索产检全免费",
+      "onboard_time": 1767246019,
+      "rank": 19,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
