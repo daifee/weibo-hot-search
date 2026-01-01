@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767257570869,
+  "endTime": 1767260017281,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -68,11 +68,19 @@
     },
     {
       "raw_hot": 534844,
-      "num": 225178,
+      "num": 243141,
       "word": "瑞士滑雪胜地爆炸多人死伤",
       "onboard_time": 1767253940,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 517469,
+      "num": 439538,
+      "word": "台积电发布声明",
+      "onboard_time": 1767255620,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 488298,
@@ -97,14 +105,6 @@
       "onboard_time": 1767180502,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 439538,
-      "num": 439538,
-      "word": "台积电发布声明",
-      "onboard_time": 1767255620,
-      "rank": 7,
-      "category": "财经"
     },
     {
       "raw_hot": 428471,
@@ -267,6 +267,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 261771,
+      "num": 559145,
+      "word": "TE对战北京WBG",
+      "onboard_time": 1767250999,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 260940,
+      "num": 260940,
+      "word": "茅台1499元直销成黄牛噩梦",
+      "onboard_time": 1767258681,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 253260,
       "num": 318085,
       "word": "四大卫视跨年晚会零点压轴嘉宾",
@@ -323,14 +339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199252,
-      "num": 559145,
-      "word": "TE对战北京WBG",
-      "onboard_time": 1767250999,
-      "rank": 4,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 196582,
       "num": 225190,
       "word": "生命树",
@@ -345,6 +353,14 @@
       "onboard_time": 1767242661,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189703,
+      "num": 260013,
+      "word": "蔡磊说渐冻症的历史已被改写",
+      "onboard_time": 1767254419,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189064,
@@ -364,7 +380,7 @@
     },
     {
       "raw_hot": 186859,
-      "num": 225835,
+      "num": 249798,
       "word": "外网流行中国化",
       "onboard_time": 1767255260,
       "rank": 10,
@@ -531,12 +547,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 154264,
+      "num": 249009,
+      "word": "唐宫奇案",
+      "onboard_time": 1767257780,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153774,
       "num": 1390194,
       "word": "抢红包",
       "onboard_time": 1767171920,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151009,
+      "num": 242709,
+      "word": "金价",
+      "onboard_time": 1767257540,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 148313,
@@ -635,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133112,
+      "num": 246522,
+      "word": "蔚来",
+      "onboard_time": 1767258799,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 132473,
       "num": 1393360,
       "word": "上海迪士尼跨年烟花",
@@ -691,14 +731,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 126989,
-      "num": 225597,
-      "word": "蔡磊说渐冻症的历史已被改写",
-      "onboard_time": 1767254419,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122853,
       "num": 1382503,
       "word": "跨年文案",
@@ -745,6 +777,14 @@
       "onboard_time": 1767223758,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 116314,
+      "num": 248153,
+      "word": "高市早苗被爆造假",
+      "onboard_time": 1767257842,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 114043,
@@ -796,7 +836,7 @@
     },
     {
       "raw_hot": 109805,
-      "num": 225720,
+      "num": 240993,
       "word": "再见爱人5",
       "onboard_time": 1767253580,
       "rank": 12,
@@ -817,6 +857,14 @@
       "onboard_time": 1767251058,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108310,
+      "num": 258794,
+      "word": "桃晚安好牛",
+      "onboard_time": 1767257360,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 105994,
@@ -849,6 +897,14 @@
       "onboard_time": 1767248900,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 104928,
+      "num": 242249,
+      "word": "瑞士爆炸酒吧事发时正举行跨年活动",
+      "onboard_time": 1767259101,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 102798,
@@ -905,6 +961,14 @@
       "onboard_time": 1767252019,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96005,
+      "num": 242153,
+      "word": "张远跨年四个半小时五十首歌",
+      "onboard_time": 1767259101,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 95756,
@@ -995,6 +1059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86860,
+      "num": 242090,
+      "word": "画好鼻子原来要找交叉点",
+      "onboard_time": 1767258200,
+      "rank": 32,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 86271,
       "num": 1398609,
       "word": "长期手机充电至100%会损伤电池",
@@ -1035,14 +1107,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 83111,
-      "num": 208630,
-      "word": "桃晚安好牛",
-      "onboard_time": 1767257360,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 82939,
       "num": 316359,
       "word": "与鸿蒙共赴下一个1000天",
@@ -1068,7 +1132,7 @@
     },
     {
       "raw_hot": 79134,
-      "num": 224437,
+      "num": 241909,
       "word": "玉茗茶骨这段让我想起了墨雨云间",
       "onboard_time": 1767256280,
       "rank": 32,
@@ -1097,6 +1161,14 @@
       "onboard_time": 1767255440,
       "rank": 31,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 76056,
+      "num": 241988,
+      "word": "奥迪销量重回燃油豪华车第一名",
+      "onboard_time": 1767258440,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 75709,
@@ -1219,6 +1291,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 64846,
+      "num": 241790,
+      "word": "中国国家队新年祝福",
+      "onboard_time": 1767259700,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 64256,
+      "num": 241734,
+      "word": "六公主说周深蒸蚌",
+      "onboard_time": 1767259823,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 64071,
       "num": 1384138,
       "word": "完美世界",
@@ -1233,6 +1321,22 @@
       "onboard_time": 1767239780,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 63761,
+      "num": 241527,
+      "word": "胖东来2025年销售额235亿元",
+      "onboard_time": 1767256939,
+      "rank": 35,
+      "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 63616,
+      "num": 241442,
+      "word": "40岁后最佳的运动方式",
+      "onboard_time": 1767258440,
+      "rank": 40,
+      "category": "运动健身"
     },
     {
       "raw_hot": 62236,
@@ -1268,7 +1372,7 @@
     },
     {
       "raw_hot": 58807,
-      "num": 224170,
+      "num": 241046,
       "word": "南方人的取暖方式",
       "onboard_time": 1767254119,
       "rank": 36,
@@ -1305,14 +1409,6 @@
       "onboard_time": 1767254360,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 53279,
-      "num": 208221,
-      "word": "胖东来2025年销售额235亿元",
-      "onboard_time": 1767256939,
-      "rank": 35,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 53105,
@@ -1363,6 +1459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 48217,
+      "num": 240754,
+      "word": "2026年新年心愿",
+      "onboard_time": 1767259280,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47856,
       "num": 314407,
       "word": "新年第1天放飞和平鸽",
@@ -1403,6 +1507,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 47356,
+      "num": 241296,
+      "word": "江苏卫视跨年最帅伴舞赢了",
+      "onboard_time": 1767257900,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 47171,
       "num": 272000,
       "word": "张晚意元旦跟谁过",
@@ -1411,20 +1523,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 47052,
+      "num": 240701,
+      "word": "沃尔沃新年首推新能源购置补贴",
+      "onboard_time": 1767254780,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 46349,
       "num": 223639,
       "word": "陆江来被荣善宝强吻",
       "onboard_time": 1767256460,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 45996,
-      "num": 225295,
-      "word": "沃尔沃新年首推新能源购置补贴",
-      "onboard_time": 1767254780,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 45152,
@@ -1481,14 +1593,6 @@
       "onboard_time": 1767223819,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41984,
-      "num": 207313,
-      "word": "金价",
-      "onboard_time": 1767257540,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 41171,
@@ -1563,8 +1667,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 36974,
-      "num": 1004691,
+      "raw_hot": 37252,
+      "num": 1005960,
       "word": "2026的新年祝福",
       "onboard_time": 1767251180,
       "rank": 44,
@@ -1601,6 +1705,22 @@
       "onboard_time": 1767252560,
       "rank": 46,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 35415,
+      "num": 241652,
+      "word": "这一次谍战剧天花板都请到了",
+      "onboard_time": 1767259940,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 33303,
+      "num": 242804,
+      "word": "2026黄龄曦金全靠TA",
+      "onboard_time": 1767259761,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 30346,
@@ -1715,6 +1835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 16808,
+      "num": 596457,
+      "word": "2026新年的第一份仪式感",
+      "onboard_time": 1767259940,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14453,
       "num": 1381368,
       "word": "全球首个个人机器人",
@@ -1737,6 +1865,14 @@
       "onboard_time": 1767246019,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7329,
+      "num": 253690,
+      "word": "拼搏进取的中国青年好样的",
+      "onboard_time": 1767259761,
+      "rank": 11,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -1751,6 +1887,9 @@
     },
     {
       "word": "#习主席新年贺词这样展望2026#"
+    },
+    {
+      "word": "#小家热气腾腾中国就蒸蒸日上#"
     }
   ]
 }
