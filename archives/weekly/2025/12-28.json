@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767295460092,
+  "endTime": 1767296367390,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -16603,6 +16603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20028,
+      "num": 115752,
+      "word": "得闲谨制",
+      "onboard_time": 1767117436,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 19600,
       "num": 257119,
       "word": "夸年岛含喜量要爆啦",
@@ -16625,14 +16633,6 @@
       "onboard_time": 1766920761,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19152,
-      "num": 115752,
-      "word": "得闲谨制",
-      "onboard_time": 1767117436,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 18987,
