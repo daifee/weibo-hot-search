@@ -1,0 +1,410 @@
+{
+  "runTime": 1767264476829,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 38778,
+        "num": 1006204,
+        "word": "2026的新年祝福",
+        "onboard_time": 1767251180,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13851,
+        "num": 1006192,
+        "word": "中国5年成绩单来了",
+        "onboard_time": 1767234260,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24008,
+        "num": 1006066,
+        "word": "2026新年的第一份仪式感",
+        "onboard_time": 1767259940,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156410,
+        "num": 1006031,
+        "word": "元旦宝宝1月1日0点出生",
+        "onboard_time": 1767254181,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142922,
+        "num": 1005900,
+        "word": "小吃街共用一个收款码有后续了",
+        "onboard_time": 1767262939,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229260,
+        "num": 1005812,
+        "word": "家业下证",
+        "onboard_time": 1767262760,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182013,
+        "num": 1005757,
+        "word": "MRC对战Gr",
+        "onboard_time": 1767264259,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 173138,
+        "num": 1005637,
+        "word": "吃凉拌菜也减不了肥的原因",
+        "onboard_time": 1767252139,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43418,
+        "num": 1005556,
+        "word": "2026新国补来了",
+        "onboard_time": 1767231201,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23491,
+        "num": 1005474,
+        "word": "2026年第一天",
+        "onboard_time": 1767223819,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 488395,
+        "num": 1005432,
+        "word": "29岁渐冻症女孩重生感谢蔡磊",
+        "onboard_time": 1767260061,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279023,
+        "num": 1005291,
+        "word": "别人演现偶小三在演甄嬛传",
+        "onboard_time": 1767262160,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269295,
+        "num": 1005268,
+        "word": "女孩吃蔡磊研发药渐冻症没再发展",
+        "onboard_time": 1767260899,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204266,
+        "num": 1005141,
+        "word": "2026年生娃基本不花钱",
+        "onboard_time": 1767260300,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175811,
+        "num": 1005065,
+        "word": "高市早苗被爆造假",
+        "onboard_time": 1767257842,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155801,
+        "num": 1004955,
+        "word": "装完你的装你的",
+        "onboard_time": 1767264201,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154644,
+        "num": 1004866,
+        "word": "跨年榜一是江苏卫视",
+        "onboard_time": 1767254181,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280003,
+        "num": 1004834,
+        "word": "茅台1499元直销成黄牛噩梦",
+        "onboard_time": 1767258681,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105871,
+        "num": 1004756,
+        "word": "逍遥",
+        "onboard_time": 1767263121,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49550,
+        "num": 1004632,
+        "word": "2026的第一份幸运是零点同框",
+        "onboard_time": 1767261859,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271481,
+        "num": 1004582,
+        "word": "台积电发布声明",
+        "onboard_time": 1767255620,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 208436,
+        "num": 1004508,
+        "word": "瑞士滑雪胜地爆炸多人死伤",
+        "onboard_time": 1767253940,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 142366,
+        "num": 1004382,
+        "word": "印度阅兵式将首次出现动物方队",
+        "onboard_time": 1767261859,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110029,
+        "num": 1004290,
+        "word": "寻秦记",
+        "onboard_time": 1767241160,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16283,
+        "num": 1004207,
+        "word": "2026黄龄曦金全靠TA",
+        "onboard_time": 1767259761,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95089,
+        "num": 1004094,
+        "word": "瑞士爆炸酒吧事发时正举行跨年活动",
+        "onboard_time": 1767259101,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 92815,
+        "num": 1004035,
+        "word": "蔡磊说渐冻症的历史已被改写",
+        "onboard_time": 1767254419,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79823,
+        "num": 1003959,
+        "word": "国乒教练竞聘陈述环节已完成",
+        "onboard_time": 1767251960,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88385,
+        "num": 1003848,
+        "word": "第五人格",
+        "onboard_time": 1767261800,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87303,
+        "num": 1003773,
+        "word": "外网流行中国化",
+        "onboard_time": 1767255260,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 194463,
+        "num": 1003689,
+        "word": "小猫生了一模一样的自己",
+        "onboard_time": 1767263060,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85560,
+        "num": 1003630,
+        "word": "不二之臣打响2026第一嘴",
+        "onboard_time": 1767261501,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84955,
+        "num": 1003524,
+        "word": "唐宫奇案",
+        "onboard_time": 1767257780,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82499,
+        "num": 1003472,
+        "word": "无畏契约手游直播",
+        "onboard_time": 1767262100,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82220,
+        "num": 1003339,
+        "word": "40岁后最佳的运动方式",
+        "onboard_time": 1767258440,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 76945,
+        "num": 1003261,
+        "word": "跨年最佳节目",
+        "onboard_time": 1767253520,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74242,
+        "num": 1003235,
+        "word": "跟有钱人吵架真的好恐怖",
+        "onboard_time": 1767261859,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69798,
+        "num": 1003108,
+        "word": "蔚来",
+        "onboard_time": 1767258799,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 5564,
+        "num": 1003074,
+        "word": "水银体温计禁产不等于禁售",
+        "onboard_time": 1767264440,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66944,
+        "num": 1002911,
+        "word": "怪奇物语",
+        "onboard_time": 1767228139,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64025,
+        "num": 1002861,
+        "word": "画好鼻子原来要找交叉点",
+        "onboard_time": 1767258200,
+        "rank": 40,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 63000,
+        "num": 1002780,
+        "word": "奥迪销量重回燃油豪华车第一名",
+        "onboard_time": 1767258440,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 62281,
+        "num": 1002713,
+        "word": "电影偷偷藏不住官宣",
+        "onboard_time": 1767240862,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61536,
+        "num": 1002614,
+        "word": "金价",
+        "onboard_time": 1767257540,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 57990,
+        "num": 1002527,
+        "word": "TE对战北京WBG",
+        "onboard_time": 1767250999,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 57973,
+        "num": 1002432,
+        "word": "元旦",
+        "onboard_time": 1767252019,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53183,
+        "num": 1002359,
+        "word": "新年壁纸",
+        "onboard_time": 1767239181,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51607,
+        "num": 1002279,
+        "word": "蔡磊祝福重生渐冻症女孩享受人生",
+        "onboard_time": 1767263961,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51376,
+        "num": 1002235,
+        "word": "桃晚安好牛",
+        "onboard_time": 1767257360,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 48405,
+        "num": 1002131,
+        "word": "九集了没见谁吃上一口饭",
+        "onboard_time": 1767252081,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#小家热气腾腾中国就蒸蒸日上#"
+    }
+  }
+}
