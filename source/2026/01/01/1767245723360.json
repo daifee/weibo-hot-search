@@ -1,0 +1,410 @@
+{
+  "runTime": 1767245723360,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 57097,
+        "num": 1009135,
+        "word": "新年第1天升国旗",
+        "onboard_time": 1767224057,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30982,
+        "num": 712434,
+        "word": "中国一个个创新创造振奋人心",
+        "onboard_time": 1767239901,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25656,
+        "num": 588095,
+        "word": "2026年新程已启",
+        "onboard_time": 1767225198,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 290389,
+        "num": 290389,
+        "word": "2026新国补来了",
+        "onboard_time": 1767231201,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189420,
+        "num": 289802,
+        "word": "东方卫视跨年神图",
+        "onboard_time": 1767242661,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175898,
+        "num": 288398,
+        "word": "2026年多了5天假期",
+        "onboard_time": 1767240260,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166499,
+        "num": 287442,
+        "word": "骄阳似我把我拉回长剧赛道",
+        "onboard_time": 1767244340,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162010,
+        "num": 286555,
+        "word": "原来新年第一天有这么多讲究",
+        "onboard_time": 1767237621,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156657,
+        "num": 285809,
+        "word": "星穹铁道爻光",
+        "onboard_time": 1767243319,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153057,
+        "num": 284228,
+        "word": "新年壁纸",
+        "onboard_time": 1767239181,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186800,
+        "num": 284030,
+        "word": "怪奇物语",
+        "onboard_time": 1767228139,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147598,
+        "num": 283044,
+        "word": "湖南卫视断层第一",
+        "onboard_time": 1767232223,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139824,
+        "num": 281827,
+        "word": "发明袜子拼豆的人简直是天才",
+        "onboard_time": 1767236241,
+        "rank": 12,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 134917,
+        "num": 280438,
+        "word": "谍报上不封顶",
+        "onboard_time": 1767242119,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124643,
+        "num": 279171,
+        "word": "怪奇物语第五季",
+        "onboard_time": 1767232942,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120617,
+        "num": 278707,
+        "word": "野狗骨头",
+        "onboard_time": 1767243982,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102724,
+        "num": 277853,
+        "word": "剥茧",
+        "onboard_time": 1767245422,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92436,
+        "num": 276139,
+        "word": "杨瀚森3分5篮板",
+        "onboard_time": 1767243740,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54950,
+        "num": 275426,
+        "word": "麦当劳海外爆堡来了",
+        "onboard_time": 1767245361,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 77525,
+        "num": 274460,
+        "word": "我将这样度过2026的第一天",
+        "onboard_time": 1767237800,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38248,
+        "num": 273542,
+        "word": "湖南跨晚明星全员红装",
+        "onboard_time": 1767245422,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37681,
+        "num": 272000,
+        "word": "张晚意元旦跟谁过",
+        "onboard_time": 1767245361,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408404,
+        "num": 271618,
+        "word": "日本纸箱仙人",
+        "onboard_time": 1767240440,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 73812,
+        "num": 270691,
+        "word": "新年新头像",
+        "onboard_time": 1767239181,
+        "rank": 23,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 47550,
+        "num": 269127,
+        "word": "邓为红在2026",
+        "onboard_time": 1767245121,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65352,
+        "num": 267902,
+        "word": "2026",
+        "onboard_time": 1767228560,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267592,
+        "num": 267592,
+        "word": "电影偷偷藏不住官宣",
+        "onboard_time": 1767240862,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97744,
+        "num": 267458,
+        "word": "短剧男主超级冠军硬核开唱",
+        "onboard_time": 1767242661,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88894,
+        "num": 267068,
+        "word": "正装是男人最好的医美",
+        "onboard_time": 1767245661,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86532,
+        "num": 266761,
+        "word": "四大卫视跨年晚会零点压轴嘉宾",
+        "onboard_time": 1767227060,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128927,
+        "num": 266145,
+        "word": "尚公主",
+        "onboard_time": 1767238040,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78887,
+        "num": 266058,
+        "word": "寻秦记",
+        "onboard_time": 1767241160,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 75921,
+        "num": 265677,
+        "word": "中国奇谭2",
+        "onboard_time": 1767243561,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 71727,
+        "num": 265242,
+        "word": "怪奇物语大结局",
+        "onboard_time": 1767233362,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69857,
+        "num": 264724,
+        "word": "生理性喜欢的4个信号",
+        "onboard_time": 1767206057,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 68073,
+        "num": 264519,
+        "word": "猪希望外卖普及农村",
+        "onboard_time": 1767240620,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69275,
+        "num": 264189,
+        "word": "这个年纪真的很尴尬",
+        "onboard_time": 1767245001,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66950,
+        "num": 263619,
+        "word": "中国奇谭2今日开播",
+        "onboard_time": 1767240920,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 65735,
+        "num": 263474,
+        "word": "2026鹅剧片单",
+        "onboard_time": 1767241340,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33537,
+        "num": 263074,
+        "word": "王星越的副驾还缺人吗",
+        "onboard_time": 1767241879,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60863,
+        "num": 262730,
+        "word": "土耳其免签",
+        "onboard_time": 1767224237,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59455,
+        "num": 262145,
+        "word": "不染 难唱",
+        "onboard_time": 1767195686,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57528,
+        "num": 261850,
+        "word": "跨年",
+        "onboard_time": 1767193410,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57222,
+        "num": 261717,
+        "word": "一代人有一代人的鲁冰花",
+        "onboard_time": 1767240081,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56949,
+        "num": 261176,
+        "word": "新年第一单外卖免单",
+        "onboard_time": 1767236062,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 52943,
+        "num": 261028,
+        "word": "1499元飞天遭热抢",
+        "onboard_time": 1767235342,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49879,
+        "num": 260524,
+        "word": "监控被叫做猫眼是有理由的",
+        "onboard_time": 1767239901,
+        "rank": 46,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 46240,
+        "num": 260167,
+        "word": "新年贺词",
+        "onboard_time": 1767177980,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41124,
+        "num": 259915,
+        "word": "鸣潮",
+        "onboard_time": 1767243020,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 39994,
+        "num": 259245,
+        "word": "车主半夜把所有的仇人都想了一遍",
+        "onboard_time": 1767235461,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席新年贺词这样展望2026#"
+    }
+  }
+}
