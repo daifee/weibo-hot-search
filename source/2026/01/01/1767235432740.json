@@ -1,0 +1,410 @@
+{
+  "runTime": 1767235432740,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 105523,
+        "num": 1016883,
+        "word": "中国5年成绩单来了",
+        "onboard_time": 1767234260,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 46691,
+        "num": 713776,
+        "word": "这3个带马成语太给劲了",
+        "onboard_time": 1767184947,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31303,
+        "num": 605336,
+        "word": "十五五开局之年怎么干",
+        "onboard_time": 1767234740,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 318805,
+        "num": 318805,
+        "word": "2026新国补来了",
+        "onboard_time": 1767231201,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216786,
+        "num": 318790,
+        "word": "2026年新规今起施行",
+        "onboard_time": 1767229520,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 183568,
+        "num": 318677,
+        "word": "逐玉",
+        "onboard_time": 1767234861,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163115,
+        "num": 318530,
+        "word": "土耳其免签",
+        "onboard_time": 1767224237,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147505,
+        "num": 318415,
+        "word": "i茅台每人每日最多可购12瓶",
+        "onboard_time": 1767223996,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 145020,
+        "num": 318341,
+        "word": "云秀行",
+        "onboard_time": 1767234861,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114143,
+        "num": 318261,
+        "word": "新年贺词",
+        "onboard_time": 1767177980,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 264162,
+        "num": 318180,
+        "word": "怪奇物语",
+        "onboard_time": 1767228139,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231639,
+        "num": 318085,
+        "word": "四大卫视跨年晚会零点压轴嘉宾",
+        "onboard_time": 1767227060,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211437,
+        "num": 317945,
+        "word": "湖南卫视断层第一",
+        "onboard_time": 1767232223,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173307,
+        "num": 317879,
+        "word": "怪奇物语大结局",
+        "onboard_time": 1767233362,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13822,
+        "num": 317717,
+        "word": "千万次的问是千问主题曲吗",
+        "onboard_time": 1767232880,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159432,
+        "num": 317684,
+        "word": "不染 难唱",
+        "onboard_time": 1767195686,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111572,
+        "num": 317570,
+        "word": "樊振东冲击留洋生涯首冠",
+        "onboard_time": 1767226880,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103317,
+        "num": 317466,
+        "word": "不敢让孩子玩户外充气城堡了",
+        "onboard_time": 1767223758,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96810,
+        "num": 317316,
+        "word": "2026",
+        "onboard_time": 1767228560,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86681,
+        "num": 317241,
+        "word": "新年红包",
+        "onboard_time": 1767222375,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 293367,
+        "num": 317191,
+        "word": "新年快乐",
+        "onboard_time": 1767195447,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262920,
+        "num": 317037,
+        "word": "生理性喜欢的4个信号",
+        "onboard_time": 1767206057,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133531,
+        "num": 316984,
+        "word": "男子靠吃辣赢下一头300斤的猪",
+        "onboard_time": 1767234201,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126625,
+        "num": 316870,
+        "word": "怪奇物语第五季",
+        "onboard_time": 1767232942,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92102,
+        "num": 316725,
+        "word": "江苏卫视大爆",
+        "onboard_time": 1767193528,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78107,
+        "num": 316706,
+        "word": "跨年",
+        "onboard_time": 1767193410,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 75691,
+        "num": 316616,
+        "word": "苹果又新增3款过时产品",
+        "onboard_time": 1767231800,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 73603,
+        "num": 316516,
+        "word": "1499元飞天遭热抢",
+        "onboard_time": 1767235342,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73322,
+        "num": 316359,
+        "word": "与鸿蒙共赴下一个1000天",
+        "onboard_time": 1767233302,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 73290,
+        "num": 316302,
+        "word": "茅台酒市场零售价格体系全面重塑",
+        "onboard_time": 1767230121,
+        "rank": 29,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 76144,
+        "num": 316123,
+        "word": "寻秦记",
+        "onboard_time": 1767192388,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61369,
+        "num": 316062,
+        "word": "王者荣耀",
+        "onboard_time": 1767198386,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 59271,
+        "num": 315983,
+        "word": "湖南跨晚收视率第一",
+        "onboard_time": 1767222556,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59093,
+        "num": 315848,
+        "word": "2026新年贺词壁纸",
+        "onboard_time": 1767228320,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 58207,
+        "num": 315769,
+        "word": "不要回头",
+        "onboard_time": 1767199644,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56661,
+        "num": 315672,
+        "word": "马航MH370搜寻船抵达目标海域",
+        "onboard_time": 1767189751,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55039,
+        "num": 315590,
+        "word": "跨年收视率",
+        "onboard_time": 1767192568,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54111,
+        "num": 315458,
+        "word": "中国乒乓球队2026元旦祝福",
+        "onboard_time": 1767229401,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54083,
+        "num": 315329,
+        "word": "新年祝福",
+        "onboard_time": 1767191909,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52808,
+        "num": 315296,
+        "word": "王者荣耀无双",
+        "onboard_time": 1767225798,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 52782,
+        "num": 315145,
+        "word": "爱你老己 今年继续",
+        "onboard_time": 1767234981,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48422,
+        "num": 315050,
+        "word": "希望台湾同胞自觉与台独划清界限",
+        "onboard_time": 1767230121,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 44373,
+        "num": 314989,
+        "word": "新年文案",
+        "onboard_time": 1767222196,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43683,
+        "num": 314842,
+        "word": "元旦祝福",
+        "onboard_time": 1767229640,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41899,
+        "num": 314772,
+        "word": "哪吒",
+        "onboard_time": 1767216553,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41477,
+        "num": 314666,
+        "word": "祖国统一历史大势不可阻挡",
+        "onboard_time": 1767192268,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 37539,
+        "num": 314605,
+        "word": "江苏卫视 听爽了",
+        "onboard_time": 1767193168,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36784,
+        "num": 314474,
+        "word": "马年",
+        "onboard_time": 1767198386,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36250,
+        "num": 314407,
+        "word": "新年第1天放飞和平鸽",
+        "onboard_time": 1767230060,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35144,
+        "num": 314288,
+        "word": "这份祝福含金量超高",
+        "onboard_time": 1767233541,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#2026新年贺词#"
+    }
+  }
+}
