@@ -1,0 +1,410 @@
+{
+  "runTime": 1767252655485,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 30733,
+        "num": 1004917,
+        "word": "2026年第一天",
+        "onboard_time": 1767223819,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 4850,
+        "num": 719955,
+        "word": "我国经济总量预计140万亿元",
+        "onboard_time": 1767182124,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19342,
+        "num": 554870,
+        "word": "2026年新程已启",
+        "onboard_time": 1767225198,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 398051,
+        "num": 398051,
+        "word": "电影偷偷藏不住官宣",
+        "onboard_time": 1767240862,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199252,
+        "num": 199252,
+        "word": "TE对战北京WBG",
+        "onboard_time": 1767250999,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177477,
+        "num": 199252,
+        "word": "J人和P人旅游时的区别",
+        "onboard_time": 1767247039,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159895,
+        "num": 199231,
+        "word": "2026新国补来了",
+        "onboard_time": 1767231201,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132286,
+        "num": 199224,
+        "word": "再见爱人",
+        "onboard_time": 1767251300,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129813,
+        "num": 199215,
+        "word": "新年壁纸",
+        "onboard_time": 1767239181,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112539,
+        "num": 199210,
+        "word": "国乒教练竞聘陈述环节已完成",
+        "onboard_time": 1767251960,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166499,
+        "num": 199196,
+        "word": "怪奇物语",
+        "onboard_time": 1767228139,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111861,
+        "num": 199180,
+        "word": "爬楼机要爬上泰山了",
+        "onboard_time": 1767246080,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109586,
+        "num": 199170,
+        "word": "中国乒协核心目标是洛奥备战",
+        "onboard_time": 1767251058,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97140,
+        "num": 199160,
+        "word": "元旦",
+        "onboard_time": 1767252019,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97123,
+        "num": 199156,
+        "word": "怪奇物语第五季",
+        "onboard_time": 1767232942,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83216,
+        "num": 199140,
+        "word": "原来新年第一天有这么多讲究",
+        "onboard_time": 1767237621,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76246,
+        "num": 199135,
+        "word": "湖南卫视断层第一",
+        "onboard_time": 1767232223,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72793,
+        "num": 199128,
+        "word": "雅迪和旺旺联名造车了",
+        "onboard_time": 1767250400,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70408,
+        "num": 199109,
+        "word": "文班亚马又伤了",
+        "onboard_time": 1767246500,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61557,
+        "num": 199101,
+        "word": "2026年多了5天假期",
+        "onboard_time": 1767240260,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165014,
+        "num": 199091,
+        "word": "南部档案",
+        "onboard_time": 1767247580,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129805,
+        "num": 199086,
+        "word": "日本纸箱仙人",
+        "onboard_time": 1767240440,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129385,
+        "num": 199067,
+        "word": "柔弱不能自理的外室出现代版了",
+        "onboard_time": 1767251121,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127299,
+        "num": 199064,
+        "word": "九集了没见谁吃上一口饭",
+        "onboard_time": 1767252081,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83388,
+        "num": 199053,
+        "word": "俄方公布乌无人机袭击普京官邸细节",
+        "onboard_time": 1767248601,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58918,
+        "num": 199037,
+        "word": "东方卫视跨年神图",
+        "onboard_time": 1767242661,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77481,
+        "num": 199027,
+        "word": "优酷一年比一年能打",
+        "onboard_time": 1767248900,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 55901,
+        "num": 199022,
+        "word": "辞职不用焦虑",
+        "onboard_time": 1767248300,
+        "rank": 27,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 54922,
+        "num": 199007,
+        "word": "骄阳似我把我拉回长剧赛道",
+        "onboard_time": 1767244340,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54682,
+        "num": 199001,
+        "word": "发明袜子拼豆的人简直是天才",
+        "onboard_time": 1767236241,
+        "rank": 29,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 108675,
+        "num": 198994,
+        "word": "野狗骨头",
+        "onboard_time": 1767243982,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95690,
+        "num": 198983,
+        "word": "寻秦记",
+        "onboard_time": 1767241160,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61755,
+        "num": 198971,
+        "word": "吃凉拌菜也减不了肥的原因",
+        "onboard_time": 1767252139,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 53675,
+        "num": 198958,
+        "word": "怪奇物语大结局",
+        "onboard_time": 1767233362,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51707,
+        "num": 198952,
+        "word": "它还知道开凉水",
+        "onboard_time": 1767249921,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 49580,
+        "num": 198940,
+        "word": "新年新头像",
+        "onboard_time": 1767239181,
+        "rank": 35,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 47131,
+        "num": 198924,
+        "word": "2026年新年宝宝来了",
+        "onboard_time": 1767252139,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44699,
+        "num": 198922,
+        "word": "跨年",
+        "onboard_time": 1767193410,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43507,
+        "num": 198905,
+        "word": "2026",
+        "onboard_time": 1767228560,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42510,
+        "num": 198893,
+        "word": "新手打麻将阵法",
+        "onboard_time": 1767249560,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38891,
+        "num": 198893,
+        "word": "地球online 2026正式版今日开服",
+        "onboard_time": 1767252019,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37554,
+        "num": 198879,
+        "word": "马年 放自己一马",
+        "onboard_time": 1767251781,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37323,
+        "num": 198871,
+        "word": "剥茧",
+        "onboard_time": 1767245422,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37252,
+        "num": 198861,
+        "word": "CJ麦科勒姆绝杀雄鹿",
+        "onboard_time": 1767247640,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36974,
+        "num": 198842,
+        "word": "2026的新年祝福",
+        "onboard_time": 1767251180,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36125,
+        "num": 198842,
+        "word": "新年贺词",
+        "onboard_time": 1767177980,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 35745,
+        "num": 198831,
+        "word": "东北人演小品不需要写稿",
+        "onboard_time": 1767252560,
+        "rank": 46,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 34604,
+        "num": 198820,
+        "word": "1499元飞天遭热抢",
+        "onboard_time": 1767235342,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33800,
+        "num": 198810,
+        "word": "这个年纪真的很尴尬",
+        "onboard_time": 1767245001,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33392,
+        "num": 198794,
+        "word": "鸿蒙智行2025全年交付589107台",
+        "onboard_time": 1767241400,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席新年贺词这样展望2026#"
+    }
+  }
+}
