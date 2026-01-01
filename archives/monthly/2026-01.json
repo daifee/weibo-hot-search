@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767272210217,
+  "endTime": 1767273077990,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -451,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208247,
+      "num": 747026,
+      "word": "狗狗第一次后悔自己的鼻子很灵",
+      "onboard_time": 1767265880,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 208106,
       "num": 1408635,
       "word": "专属天使 听哭了",
@@ -473,6 +481,14 @@
       "onboard_time": 1767255260,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 197470,
+      "num": 686544,
+      "word": "长河落日开播",
+      "onboard_time": 1767272301,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 196582,
@@ -593,14 +609,6 @@
       "onboard_time": 1767251960,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 180271,
-      "num": 747026,
-      "word": "狗狗第一次后悔自己的鼻子很灵",
-      "onboard_time": 1767265880,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 177477,
@@ -875,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134689,
+      "num": 1021550,
+      "word": "梅里雪山日照金山上新了",
+      "onboard_time": 1767270862,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133531,
       "num": 316984,
       "word": "男子靠吃辣赢下一头300斤的猪",
@@ -1059,14 +1075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112960,
-      "num": 1018073,
-      "word": "梅里雪山日照金山上新了",
-      "onboard_time": 1767270862,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112630,
       "num": 1387857,
       "word": "跨年烟花秀",
@@ -1121,6 +1129,14 @@
       "onboard_time": 1767257360,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 107269,
+      "num": 745353,
+      "word": "中国驻瑞士使馆回应酒吧爆炸",
+      "onboard_time": 1767267319,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 105994,
@@ -1209,14 +1225,6 @@
       "onboard_time": 1767228560,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 98352,
-      "num": 745353,
-      "word": "中国驻瑞士使馆回应酒吧爆炸",
-      "onboard_time": 1767267319,
-      "rank": 33,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 98060,
@@ -1515,6 +1523,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 77302,
+      "num": 643893,
+      "word": "ins风的腊八蒜",
+      "onboard_time": 1767272421,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 76593,
       "num": 741951,
       "word": "iG战胜LNG",
@@ -1755,12 +1771,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 62612,
+      "num": 643876,
+      "word": "DeepSeek元旦新论文",
+      "onboard_time": 1767273022,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 62311,
+      "num": 643873,
+      "word": "毛孩子一身肌肉",
+      "onboard_time": 1767272241,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 62236,
       "num": 547575,
       "word": "它还知道开凉水",
       "onboard_time": 1767249921,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 61972,
+      "num": 643871,
+      "word": "CBA新年大战",
+      "onboard_time": 1767272362,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 61247,
