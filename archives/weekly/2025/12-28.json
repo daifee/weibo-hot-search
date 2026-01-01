@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767260017281,
+  "endTime": 1767260773677,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -3123,6 +3123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267198,
+      "num": 267198,
+      "word": "茅台1499元直销成黄牛噩梦",
+      "onboard_time": 1767258681,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 266106,
       "num": 735328,
       "word": "张杰今晚直播唱5个小时",
@@ -3217,14 +3225,6 @@
       "onboard_time": 1767074179,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 260940,
-      "num": 260940,
-      "word": "茅台1499元直销成黄牛噩梦",
-      "onboard_time": 1767258681,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 259105,
@@ -4043,6 +4043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204105,
+      "num": 249798,
+      "word": "外网流行中国化",
+      "onboard_time": 1767255260,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 203592,
       "num": 203592,
       "word": "这两种水果太适合加热吃了",
@@ -4395,6 +4403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190910,
+      "num": 260013,
+      "word": "蔡磊说渐冻症的历史已被改写",
+      "onboard_time": 1767254419,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190622,
       "num": 204088,
       "word": "肖战把角色名藏在新年祝福里",
@@ -4441,14 +4457,6 @@
       "onboard_time": 1766999300,
       "rank": 22,
       "category": "数码"
-    },
-    {
-      "raw_hot": 189703,
-      "num": 260013,
-      "word": "蔡磊说渐冻症的历史已被改写",
-      "onboard_time": 1767254419,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 189620,
@@ -4585,14 +4593,6 @@
       "onboard_time": 1766892020,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 186859,
-      "num": 249798,
-      "word": "外网流行中国化",
-      "onboard_time": 1767255260,
-      "rank": 10,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 186763,
@@ -5555,6 +5555,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 160002,
+      "num": 249009,
+      "word": "唐宫奇案",
+      "onboard_time": 1767257780,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159899,
       "num": 159899,
       "word": "小俞感谢AG和RW",
@@ -5777,14 +5785,6 @@
       "onboard_time": 1766932342,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154264,
-      "num": 249009,
-      "word": "唐宫奇案",
-      "onboard_time": 1767257780,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 154238,
@@ -6217,6 +6217,14 @@
       "onboard_time": 1766885421,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143876,
+      "num": 248153,
+      "word": "高市早苗被爆造假",
+      "onboard_time": 1767257842,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 143853,
@@ -8041,14 +8049,6 @@
       "onboard_time": 1767061520,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116314,
-      "num": 248153,
-      "word": "高市早苗被爆造假",
-      "onboard_time": 1767257842,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 116247,
@@ -11019,6 +11019,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 86949,
+      "num": 241734,
+      "word": "六公主说周深蒸蚌",
+      "onboard_time": 1767259823,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 86892,
       "num": 86892,
       "word": "外地人在重庆开车有多汗流浃背",
@@ -12475,6 +12483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71264,
+      "num": 241442,
+      "word": "40岁后最佳的运动方式",
+      "onboard_time": 1767258440,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 71236,
       "num": 121805,
       "word": "优衣库回应试衣间不再提供拖鞋",
@@ -12835,12 +12851,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64256,
-      "num": 241734,
-      "word": "六公主说周深蒸蚌",
-      "onboard_time": 1767259823,
-      "rank": 37,
-      "category": "演出"
+      "raw_hot": 64493,
+      "num": 241527,
+      "word": "胖东来2025年销售额235亿元",
+      "onboard_time": 1767256939,
+      "rank": 35,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 64211,
@@ -12873,22 +12889,6 @@
       "onboard_time": 1766898680,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 63761,
-      "num": 241527,
-      "word": "胖东来2025年销售额235亿元",
-      "onboard_time": 1767256939,
-      "rank": 35,
-      "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 63616,
-      "num": 241442,
-      "word": "40岁后最佳的运动方式",
-      "onboard_time": 1767258440,
-      "rank": 40,
-      "category": "运动健身"
     },
     {
       "raw_hot": 63536,
@@ -13835,6 +13835,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 48016,
+      "num": 203408,
+      "word": "邵佳一上任后首期国足集训",
+      "onboard_time": 1767260480,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47856,
       "num": 314407,
       "word": "新年第1天放飞和平鸽",
@@ -13897,6 +13905,14 @@
       "onboard_time": 1767050478,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 47406,
+      "num": 203377,
+      "word": "元旦去哪儿",
+      "onboard_time": 1767260300,
+      "rank": 44,
+      "category": "旅游"
     },
     {
       "raw_hot": 47356,
@@ -15435,6 +15451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25895,
+      "num": 203556,
+      "word": "29岁渐冻症女孩重生感谢蔡磊",
+      "onboard_time": 1767260061,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25891,
       "num": 757913,
       "word": "王赫野有好货不早说",
@@ -15529,6 +15553,14 @@
       "onboard_time": 1767238642,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24533,
+      "num": 203968,
+      "word": "2026年生娃基本不花钱",
+      "onboard_time": 1767260300,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24471,
@@ -15745,6 +15777,14 @@
       "onboard_time": 1767067223,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 22331,
+      "num": 596457,
+      "word": "2026新年的第一份仪式感",
+      "onboard_time": 1767259940,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22219,
@@ -16017,14 +16057,6 @@
       "onboard_time": 1766948714,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16808,
-      "num": 596457,
-      "word": "2026新年的第一份仪式感",
-      "onboard_time": 1767259940,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16696,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1767260773677,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 35577,
+        "num": 1005692,
+        "word": "2026的新年祝福",
+        "onboard_time": 1767251180,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19998,
+        "num": 704293,
+        "word": "中国5年成绩单来了",
+        "onboard_time": 1767234260,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22331,
+        "num": 566674,
+        "word": "2026新年的第一份仪式感",
+        "onboard_time": 1767259940,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267198,
+        "num": 267198,
+        "word": "茅台1499元直销成黄牛噩梦",
+        "onboard_time": 1767258681,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219134,
+        "num": 219134,
+        "word": "元旦宝宝1月1日0点出生",
+        "onboard_time": 1767254181,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190910,
+        "num": 218165,
+        "word": "蔡磊说渐冻症的历史已被改写",
+        "onboard_time": 1767254419,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161834,
+        "num": 217675,
+        "word": "吃凉拌菜也减不了肥的原因",
+        "onboard_time": 1767252139,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103267,
+        "num": 216292,
+        "word": "国乒教练竞聘陈述环节已完成",
+        "onboard_time": 1767251960,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74368,
+        "num": 214680,
+        "word": "2026新国补来了",
+        "onboard_time": 1767231201,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27041,
+        "num": 213331,
+        "word": "2026年第一天",
+        "onboard_time": 1767223819,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 271971,
+        "num": 211034,
+        "word": "跨年榜一是江苏卫视",
+        "onboard_time": 1767254181,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210843,
+        "num": 210843,
+        "word": "TE对战北京WBG",
+        "onboard_time": 1767250999,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 204105,
+        "num": 204105,
+        "word": "外网流行中国化",
+        "onboard_time": 1767255260,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 183498,
+        "num": 204092,
+        "word": "跨年最佳节目",
+        "onboard_time": 1767253520,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143876,
+        "num": 204075,
+        "word": "高市早苗被爆造假",
+        "onboard_time": 1767257842,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98633,
+        "num": 204045,
+        "word": "蔚来",
+        "onboard_time": 1767258799,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 88407,
+        "num": 204026,
+        "word": "怪奇物语",
+        "onboard_time": 1767228139,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84703,
+        "num": 204001,
+        "word": "桃晚安好牛",
+        "onboard_time": 1767257360,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 80397,
+        "num": 203977,
+        "word": "新年壁纸",
+        "onboard_time": 1767239181,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24533,
+        "num": 203968,
+        "word": "2026年生娃基本不花钱",
+        "onboard_time": 1767260300,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 502231,
+        "num": 203944,
+        "word": "台积电发布声明",
+        "onboard_time": 1767255620,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 302927,
+        "num": 203914,
+        "word": "瑞士滑雪胜地爆炸多人死伤",
+        "onboard_time": 1767253940,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 32404,
+        "num": 203884,
+        "word": "2026黄龄曦金全靠TA",
+        "onboard_time": 1767259761,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184811,
+        "num": 203860,
+        "word": "电影偷偷藏不住官宣",
+        "onboard_time": 1767240862,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165638,
+        "num": 203840,
+        "word": "金价",
+        "onboard_time": 1767257540,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 20440,
+        "num": 203813,
+        "word": "2026年新程已启",
+        "onboard_time": 1767225198,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160002,
+        "num": 203801,
+        "word": "唐宫奇案",
+        "onboard_time": 1767257780,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129041,
+        "num": 203764,
+        "word": "寻秦记",
+        "onboard_time": 1767241160,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 78978,
+        "num": 203751,
+        "word": "九集了没见谁吃上一口饭",
+        "onboard_time": 1767252081,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71950,
+        "num": 203717,
+        "word": "奥迪销量重回燃油豪华车第一名",
+        "onboard_time": 1767258440,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 86949,
+        "num": 203699,
+        "word": "六公主说周深蒸蚌",
+        "onboard_time": 1767259823,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 78151,
+        "num": 203686,
+        "word": "画好鼻子原来要找交叉点",
+        "onboard_time": 1767258200,
+        "rank": 31,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 71264,
+        "num": 203652,
+        "word": "40岁后最佳的运动方式",
+        "onboard_time": 1767258440,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 75715,
+        "num": 203641,
+        "word": "张远跨年四个半小时五十首歌",
+        "onboard_time": 1767259101,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 69910,
+        "num": 203608,
+        "word": "日本纸箱仙人",
+        "onboard_time": 1767240440,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 64493,
+        "num": 203582,
+        "word": "胖东来2025年销售额235亿元",
+        "onboard_time": 1767256939,
+        "rank": 35,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 59766,
+        "num": 203559,
+        "word": "元旦",
+        "onboard_time": 1767252019,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25895,
+        "num": 203556,
+        "word": "29岁渐冻症女孩重生感谢蔡磊",
+        "onboard_time": 1767260061,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31518,
+        "num": 203525,
+        "word": "这一次谍战剧天花板都请到了",
+        "onboard_time": 1767259940,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57814,
+        "num": 203509,
+        "word": "玉茗茶骨这段让我想起了墨雨云间",
+        "onboard_time": 1767256280,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55566,
+        "num": 203481,
+        "word": "瑞士爆炸酒吧事发时正举行跨年活动",
+        "onboard_time": 1767259101,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 51055,
+        "num": 203450,
+        "word": "小米回应YU7配置调整",
+        "onboard_time": 1767253161,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 50328,
+        "num": 203432,
+        "word": "金价波动",
+        "onboard_time": 1767252739,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 48016,
+        "num": 203408,
+        "word": "邵佳一上任后首期国足集训",
+        "onboard_time": 1767260480,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47406,
+        "num": 203377,
+        "word": "元旦去哪儿",
+        "onboard_time": 1767260300,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 47217,
+        "num": 203357,
+        "word": "江苏卫视跨年最帅伴舞赢了",
+        "onboard_time": 1767257900,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44544,
+        "num": 203331,
+        "word": "南方人的取暖方式",
+        "onboard_time": 1767254119,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44242,
+        "num": 203313,
+        "word": "怪奇物语第五季",
+        "onboard_time": 1767232942,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44189,
+        "num": 203305,
+        "word": "中国国家队新年祝福",
+        "onboard_time": 1767259700,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42239,
+        "num": 203268,
+        "word": "2026",
+        "onboard_time": 1767228560,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#小家热气腾腾中国就蒸蒸日上#"
+    }
+  }
+}
