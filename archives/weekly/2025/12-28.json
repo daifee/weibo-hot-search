@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767307534506,
+  "endTime": 1767310081093,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -9211,6 +9211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107192,
+      "num": 71151,
+      "word": "扭扭捏捏的人都有一个特质",
+      "onboard_time": 1767309195,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107117,
       "num": 107117,
       "word": "梁洁追剧团最想删掉的一段",
@@ -14619,6 +14627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46209,
+      "num": 70885,
+      "word": "林屿森被盛家当众欺负",
+      "onboard_time": 1767309556,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 45999,
       "num": 906451,
       "word": "男子5年救了500多只猫",
@@ -14737,6 +14753,14 @@
       "onboard_time": 1767166640,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44877,
+      "num": 70832,
+      "word": "林诗栋回复韩昊霖",
+      "onboard_time": 1767309856,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 44786,
@@ -14873,6 +14897,14 @@
       "onboard_time": 1767254901,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 43378,
+      "num": 71079,
+      "word": "2026年第二天",
+      "onboard_time": 1767309135,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 43329,
@@ -15016,6 +15048,14 @@
       "word": "湖北一企业给员工发年终奖最高160万",
       "onboard_time": 1766935101,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41650,
+      "num": 71169,
+      "word": "2026一起加油",
+      "onboard_time": 1767309135,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -15273,6 +15313,14 @@
       "onboard_time": 1767086421,
       "rank": 37,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 37642,
+      "num": 70773,
+      "word": "汪苏泷最适合今天唱的歌出现了",
+      "onboard_time": 1767309617,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 37604,

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767307534506,
+  "endTime": 1767310081093,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1251,6 +1251,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 107192,
+      "num": 71151,
+      "word": "扭扭捏捏的人都有一个特质",
+      "onboard_time": 1767309195,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105994,
       "num": 553041,
       "word": "太好了是爱奇艺2026有盼头了",
@@ -2211,6 +2219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46209,
+      "num": 70885,
+      "word": "林屿森被盛家当众欺负",
+      "onboard_time": 1767309556,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 45999,
       "num": 906451,
       "word": "男子5年救了500多只猫",
@@ -2243,6 +2259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44877,
+      "num": 70832,
+      "word": "林诗栋回复韩昊霖",
+      "onboard_time": 1767309856,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44724,
       "num": 224790,
       "word": "2026第一天原来幸福这么简单",
@@ -2265,6 +2289,14 @@
       "onboard_time": 1767254901,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 43378,
+      "num": 71079,
+      "word": "2026年第二天",
+      "onboard_time": 1767309135,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 42898,
@@ -2296,6 +2328,14 @@
       "word": "你好呀2026年",
       "onboard_time": 1767223819,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41650,
+      "num": 71169,
+      "word": "2026一起加油",
+      "onboard_time": 1767309135,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -2377,6 +2417,14 @@
       "onboard_time": 1767251180,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37642,
+      "num": 70773,
+      "word": "汪苏泷最适合今天唱的歌出现了",
+      "onboard_time": 1767309617,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 37554,
