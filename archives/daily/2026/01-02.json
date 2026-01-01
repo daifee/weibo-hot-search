@@ -1,6 +1,6 @@
 {
   "startTime": 1767285375925,
-  "endTime": 1767306524873,
+  "endTime": 1767307534506,
   "band_list": [
     {
       "raw_hot": 602063,
@@ -427,6 +427,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 17381,
+      "num": 31209,
+      "word": "2026建议把早睡放在第一位",
+      "onboard_time": 1767271581,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 16973,
       "num": 600017,
       "word": "1分钟看完全球跨年烟花",
@@ -441,14 +449,6 @@
       "onboard_time": 1767275302,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16917,
-      "num": 29926,
-      "word": "2026建议把早睡放在第一位",
-      "onboard_time": 1767271581,
-      "rank": 18,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 15740,
@@ -467,7 +467,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 8169,
+      "raw_hot": 9084,
       "num": 29733,
       "word": "瑞士滑雪胜地爆炸多人死伤",
       "onboard_time": 1767253940,

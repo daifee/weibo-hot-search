@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/02 00:36:15 ~ 2026/01/02 06:28:44
+本榜单时间：2026/01/02 00:36:15 ~ 2026/01/02 06:45:34
 </p>
 </blockquote>
 <p>
@@ -333,6 +333,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232026%E5%BB%BA%E8%AE%AE%E6%8A%8A%E6%97%A9%E7%9D%A1%E6%94%BE%E5%9C%A8%E7%AC%AC%E4%B8%80%E4%BD%8D%23" target="weibo">
+2026建议把早睡放在第一位（热度：17381）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%231%E5%88%86%E9%92%9F%E7%9C%8B%E5%AE%8C%E5%85%A8%E7%90%83%E8%B7%A8%E5%B9%B4%E7%83%9F%E8%8A%B1%23" target="weibo">
 1分钟看完全球跨年烟花（热度：16973）
 </a>
@@ -341,12 +347,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%232026%E4%B8%BA%E6%A2%A6%E6%83%B3%E5%A5%8B%E6%96%97%E4%B8%BA%E5%B9%B8%E7%A6%8F%E6%89%93%E6%8B%BC%23" target="weibo">
 2026为梦想奋斗为幸福打拼（热度：16948）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232026%E5%BB%BA%E8%AE%AE%E6%8A%8A%E6%97%A9%E7%9D%A1%E6%94%BE%E5%9C%A8%E7%AC%AC%E4%B8%80%E4%BD%8D%23" target="weibo">
-2026建议把早睡放在第一位（热度：16917）
 </a>
 </li>
 
@@ -364,7 +364,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%A3%AB%E6%BB%91%E9%9B%AA%E8%83%9C%E5%9C%B0%E7%88%86%E7%82%B8%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BC%A4%23" target="weibo">
-瑞士滑雪胜地爆炸多人死伤（热度：8169）
+瑞士滑雪胜地爆炸多人死伤（热度：9084）
 </a>
 </li>
 
