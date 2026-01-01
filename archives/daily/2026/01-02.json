@@ -1,6 +1,6 @@
 {
   "startTime": 1767285375925,
-  "endTime": 1767310081093,
+  "endTime": 1767310934706,
   "band_list": [
     {
       "raw_hot": 602063,
@@ -51,7 +51,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 171622,
+      "raw_hot": 174850,
       "num": 670798,
       "word": "跨年晚会主持人告别单薄礼服",
       "onboard_time": 1767266420,
@@ -75,20 +75,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163420,
+      "num": 84552,
+      "word": "扭扭捏捏的人都有一个特质",
+      "onboard_time": 1767309195,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123767,
       "num": 714235,
       "word": "冰雪大世界建了超大玫瑰冰瀑",
       "onboard_time": 1767279920,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107192,
-      "num": 71151,
-      "word": "扭扭捏捏的人都有一个特质",
-      "onboard_time": 1767309195,
-      "rank": 6,
-      "category": "幽默"
     },
     {
       "raw_hot": 100902,
@@ -155,6 +155,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 71306,
+      "num": 71306,
+      "word": "林屿森被盛家当众欺负",
+      "onboard_time": 1767309556,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 68775,
       "num": 638737,
       "word": "小猫生了一模一样的自己",
@@ -171,20 +179,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62072,
+      "num": 71197,
+      "word": "林诗栋回复韩昊霖",
+      "onboard_time": 1767309856,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 61670,
+      "num": 614857,
+      "word": "印警方称200公斤大麻被老鼠吃掉",
+      "onboard_time": 1767266060,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 61313,
       "num": 613022,
       "word": "男子带妻儿开直升机回老家过元旦",
       "onboard_time": 1767278542,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 58932,
-      "num": 614857,
-      "word": "印警方称200公斤大麻被老鼠吃掉",
-      "onboard_time": 1767266060,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 58427,
@@ -235,6 +251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 49685,
+      "num": 71099,
+      "word": "汪苏泷最适合今天唱的歌出现了",
+      "onboard_time": 1767309617,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 49446,
       "num": 620590,
       "word": "女孩吃蔡磊研发药渐冻症没再发展",
@@ -259,20 +283,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 46209,
-      "num": 70885,
-      "word": "林屿森被盛家当众欺负",
-      "onboard_time": 1767309556,
+      "raw_hot": 48539,
+      "num": 71259,
+      "word": "北京一餐厅跨年夜排队3000桌",
+      "onboard_time": 1767310276,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 44877,
-      "num": 70832,
-      "word": "林诗栋回复韩昊霖",
-      "onboard_time": 1767309856,
-      "rank": 30,
-      "category": "体育"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44473,
@@ -292,11 +308,19 @@
     },
     {
       "raw_hot": 43378,
-      "num": 71079,
+      "num": 71148,
       "word": "2026年第二天",
       "onboard_time": 1767309135,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 42753,
+      "num": 854774,
+      "word": "天宫与神州同框的中国式浪漫",
+      "onboard_time": 1767280281,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42349,
@@ -339,14 +363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 37642,
-      "num": 70773,
-      "word": "汪苏泷最适合今天唱的歌出现了",
-      "onboard_time": 1767309617,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 37427,
       "num": 676600,
       "word": "原来大熊猫是雪来疯",
@@ -387,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 34212,
+      "num": 71172,
+      "word": "台名嘴谈围岛军演收官直呼太佩服",
+      "onboard_time": 1767310397,
+      "rank": 31,
+      "category": "军事"
+    },
+    {
       "raw_hot": 33648,
       "num": 734984,
       "word": "新年首日中国空间站过境合集",
@@ -411,6 +435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 32498,
+      "num": 75309,
+      "word": "2026建议把早睡放在第一位",
+      "onboard_time": 1767271581,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 31598,
       "num": 187272,
       "word": "蔡磊称拯救渐冻症患者不用回报",
@@ -425,14 +457,6 @@
       "onboard_time": 1767279382,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30776,
-      "num": 748830,
-      "word": "天宫与神州同框的中国式浪漫",
-      "onboard_time": 1767280281,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30666,
@@ -459,20 +483,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 24341,
-      "num": 70976,
-      "word": "2026建议把早睡放在第一位",
-      "onboard_time": 1767271581,
-      "rank": 18,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 23362,
       "num": 104489,
       "word": "刘宇宁青春呐温暖前行",
       "onboard_time": 1767301994,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21548,
+      "num": 70931,
+      "word": "小猫听到爸爸和妈妈呼唤时的区别",
+      "onboard_time": 1767310817,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 20561,
@@ -523,8 +547,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 4834,
-      "num": 423237,
+      "raw_hot": 6856,
+      "num": 481073,
       "word": "这些世界第一里满满中国实力",
       "onboard_time": 1767253401,
       "rank": 2,
