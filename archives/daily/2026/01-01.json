@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767253430531,
+  "endTime": 1767256726991,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 534844,
+      "num": 225178,
+      "word": "瑞士滑雪胜地爆炸多人死伤",
+      "onboard_time": 1767253940,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 488298,
       "num": 1404022,
       "word": "2026壁纸",
@@ -131,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 369992,
+      "num": 369992,
+      "word": "元旦宝宝1月1日0点出生",
+      "onboard_time": 1767254181,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 360186,
       "num": 1407353,
       "word": "烟花",
@@ -145,6 +161,14 @@
       "onboard_time": 1767198386,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 349000,
+      "num": 257029,
+      "word": "跨年榜一是江苏卫视",
+      "onboard_time": 1767254181,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 318965,
@@ -211,6 +235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 268008,
+      "num": 268008,
+      "word": "跨年最佳节目",
+      "onboard_time": 1767253520,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265455,
       "num": 1402867,
       "word": "江苏卫视 全开麦",
@@ -241,6 +273,22 @@
       "onboard_time": 1767174140,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232456,
+      "num": 556773,
+      "word": "吃凉拌菜也减不了肥的原因",
+      "onboard_time": 1767252139,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 226026,
+      "num": 226026,
+      "word": "台积电发布声明",
+      "onboard_time": 1767255620,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 222414,
@@ -347,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180377,
+      "num": 558954,
+      "word": "国乒教练竞聘陈述环节已完成",
+      "onboard_time": 1767251960,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177477,
       "num": 589535,
       "word": "J人和P人旅游时的区别",
@@ -411,6 +467,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 164992,
+      "num": 225835,
+      "word": "外网流行中国化",
+      "onboard_time": 1767255260,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 163115,
       "num": 587919,
       "word": "土耳其免签",
@@ -465,14 +529,6 @@
       "onboard_time": 1767171920,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149278,
-      "num": 558954,
-      "word": "国乒教练竞聘陈述环节已完成",
-      "onboard_time": 1767251960,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 148313,
@@ -561,6 +617,14 @@
       "onboard_time": 1767242119,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133596,
+      "num": 225801,
+      "word": "全网伙食最差狗子",
+      "onboard_time": 1767255081,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 133531,
@@ -707,14 +771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112402,
-      "num": 556773,
-      "word": "吃凉拌菜也减不了肥的原因",
-      "onboard_time": 1767252139,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 111526,
       "num": 557663,
       "word": "中国乒协2026新年寄语",
@@ -728,6 +784,14 @@
       "word": "短剧男主超级冠军硬核开唱",
       "onboard_time": 1767242661,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 109805,
+      "num": 225720,
+      "word": "再见爱人5",
+      "onboard_time": 1767253580,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -763,12 +827,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 105219,
+      "num": 546974,
+      "word": "小米回应YU7配置调整",
+      "onboard_time": 1767253161,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 105186,
       "num": 588852,
       "word": "优酷一年比一年能打",
       "onboard_time": 1767248900,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 104046,
+      "num": 225597,
+      "word": "蔡磊说渐冻症的历史已被改写",
+      "onboard_time": 1767254419,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102798,
@@ -851,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92894,
+      "num": 224891,
+      "word": "单依纯紫色舞台接好运",
+      "onboard_time": 1767254360,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 92436,
       "num": 588722,
       "word": "杨瀚森3分5篮板",
@@ -923,6 +1011,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 84429,
+      "num": 225397,
+      "word": "一人之下宝儿姐明天见",
+      "onboard_time": 1767254780,
+      "rank": 17,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 83735,
       "num": 588188,
       "word": "俄方公布乌无人机袭击普京官邸细节",
@@ -961,6 +1057,22 @@
       "onboard_time": 1767230121,
       "rank": 25,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 77807,
+      "num": 224559,
+      "word": "护发素洗头大法",
+      "onboard_time": 1767256100,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 77334,
+      "num": 224462,
+      "word": "不要小瞧大学烤冷面群主",
+      "onboard_time": 1767255440,
+      "rank": 31,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 75709,
@@ -1075,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66590,
+      "num": 549838,
+      "word": "金价波动",
+      "onboard_time": 1767252739,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 65735,
       "num": 263474,
       "word": "2026鹅剧片单",
@@ -1097,6 +1217,14 @@
       "onboard_time": 1767239780,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 62390,
+      "num": 224437,
+      "word": "玉茗茶骨这段让我想起了墨雨云间",
+      "onboard_time": 1767256280,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 62236,
@@ -1123,12 +1251,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 58129,
-      "num": 549838,
-      "word": "金价波动",
-      "onboard_time": 1767252739,
-      "rank": 33,
-      "category": "财经"
+      "raw_hot": 58807,
+      "num": 224170,
+      "word": "南方人的取暖方式",
+      "onboard_time": 1767254119,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 58605,
+      "num": 224096,
+      "word": "再见爱人嘉宾去闯短剧赛道了",
+      "onboard_time": 1767256100,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 57710,
@@ -1153,6 +1289,14 @@
       "onboard_time": 1767245361,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 54242,
+      "num": 224832,
+      "word": "迪丽热巴红运开年",
+      "onboard_time": 1767254360,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 53105,
@@ -1251,6 +1395,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46349,
+      "num": 223639,
+      "word": "陆江来被荣善宝强吻",
+      "onboard_time": 1767256460,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 45996,
+      "num": 225295,
+      "word": "沃尔沃新年首推新能源购置补贴",
+      "onboard_time": 1767254780,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 45152,
       "num": 314842,
       "word": "元旦祝福",
@@ -1275,20 +1435,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 43794,
+      "num": 223412,
+      "word": "为啥大学期末周比高考前还慌",
+      "onboard_time": 1767254901,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 42898,
       "num": 1384890,
       "word": "悟空和哪吒风靡全球",
       "onboard_time": 1767182124,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 42515,
-      "num": 546974,
-      "word": "小米回应YU7配置调整",
-      "onboard_time": 1767253161,
-      "rank": 42,
-      "category": "汽车"
     },
     {
       "raw_hot": 42293,
@@ -1372,11 +1532,19 @@
     },
     {
       "raw_hot": 36974,
-      "num": 198842,
+      "num": 1004551,
       "word": "2026的新年祝福",
       "onboard_time": 1767251180,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36380,
+      "num": 589656,
+      "word": "2026年新程已启",
+      "onboard_time": 1767225198,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 36108,
@@ -1425,14 +1593,6 @@
       "onboard_time": 1767219135,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26562,
-      "num": 589656,
-      "word": "2026年新程已启",
-      "onboard_time": 1767225198,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 24580,
@@ -1511,6 +1671,14 @@
       "num": 152778,
       "word": "央视跨年晚会",
       "onboard_time": 1767182062,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 17215,
+      "num": 224047,
+      "word": "B站 传统文化细糠",
+      "onboard_time": 1767256640,
       "rank": 38,
       "category": "综艺"
     },
