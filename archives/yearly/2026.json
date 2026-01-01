@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767264476829,
+  "endTime": 1767266769887,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -139,6 +139,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 404731,
+      "num": 1005757,
+      "word": "MRC对战Gr",
+      "onboard_time": 1767264259,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 399356,
       "num": 1409345,
       "word": "跨年收视率",
@@ -185,6 +193,22 @@
       "onboard_time": 1767254181,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 341647,
+      "num": 1005268,
+      "word": "女孩吃蔡磊研发药渐冻症没再发展",
+      "onboard_time": 1767260899,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 322734,
+      "num": 1005291,
+      "word": "别人演现偶小三在演甄嬛传",
+      "onboard_time": 1767262160,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 318965,
@@ -251,12 +275,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 279023,
-      "num": 1005291,
-      "word": "别人演现偶小三在演甄嬛传",
-      "onboard_time": 1767262160,
-      "rank": 11,
-      "category": "剧集"
+      "raw_hot": 278071,
+      "num": 1005900,
+      "word": "小吃街共用一个收款码有后续了",
+      "onboard_time": 1767262939,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 270371,
@@ -265,14 +289,6 @@
       "onboard_time": 1767206057,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 269295,
-      "num": 1005268,
-      "word": "女孩吃蔡磊研发药渐冻症没再发展",
-      "onboard_time": 1767260899,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 268008,
@@ -307,6 +323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 259851,
+      "num": 1005812,
+      "word": "家业下证",
+      "onboard_time": 1767262760,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253260,
       "num": 318085,
       "word": "四大卫视跨年晚会零点压轴嘉宾",
@@ -323,20 +347,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247621,
+      "num": 1005141,
+      "word": "2026年生娃基本不花钱",
+      "onboard_time": 1767260300,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232456,
       "num": 1005637,
       "word": "吃凉拌菜也减不了肥的原因",
       "onboard_time": 1767252139,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 229260,
-      "num": 1005812,
-      "word": "家业下证",
-      "onboard_time": 1767262760,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 222414,
@@ -353,6 +377,14 @@
       "onboard_time": 1767196767,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 221347,
+      "num": 276711,
+      "word": "骄阳似我",
+      "onboard_time": 1767264681,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 219002,
@@ -379,20 +411,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 204266,
-      "num": 1005141,
-      "word": "2026年生娃基本不花钱",
-      "onboard_time": 1767260300,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 204105,
       "num": 1003773,
       "word": "外网流行中国化",
       "onboard_time": 1767255260,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 203504,
+      "num": 1003689,
+      "word": "小猫生了一模一样的自己",
+      "onboard_time": 1767263060,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 196582,
@@ -409,14 +441,6 @@
       "onboard_time": 1767242661,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194463,
-      "num": 1003689,
-      "word": "小猫生了一模一样的自己",
-      "onboard_time": 1767263060,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 190910,
@@ -459,20 +483,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185291,
+      "num": 1003074,
+      "word": "水银体温计禁产不等于禁售",
+      "onboard_time": 1767264440,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183568,
       "num": 318677,
       "word": "逐玉",
       "onboard_time": 1767234861,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 182013,
-      "num": 1005757,
-      "word": "MRC对战Gr",
-      "onboard_time": 1767264259,
-      "rank": 6,
-      "category": "电竞"
     },
     {
       "raw_hot": 181726,
@@ -675,14 +699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142922,
-      "num": 1005900,
-      "word": "小吃街共用一个收款码有后续了",
-      "onboard_time": 1767262939,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 142366,
       "num": 1004382,
       "word": "印度阅兵式将首次出现动物方队",
@@ -755,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134487,
+      "num": 257019,
+      "word": "狗狗第一次后悔自己的鼻子很灵",
+      "onboard_time": 1767265880,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133531,
       "num": 316984,
       "word": "男子靠吃辣赢下一头300斤的猪",
@@ -819,11 +843,27 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 128511,
+      "num": 256887,
+      "word": "渐冻症女孩重生",
+      "onboard_time": 1767265280,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127981,
       "num": 588235,
       "word": "我将这样度过2026的第一天",
       "onboard_time": 1767237800,
       "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 122995,
+      "num": 258778,
+      "word": "对方不回消息却发朋友圈",
+      "onboard_time": 1767264980,
+      "rank": 25,
       "category": "情感"
     },
     {
@@ -875,7 +915,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 114634,
+      "raw_hot": 114917,
       "num": 1004756,
       "word": "逍遥",
       "onboard_time": 1767263121,
@@ -1059,6 +1099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96915,
+      "num": 257872,
+      "word": "跨年晚会主持人告别单薄礼服",
+      "onboard_time": 1767266420,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96005,
       "num": 578109,
       "word": "张远跨年四个半小时五十首歌",
@@ -1227,6 +1275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 83460,
+      "num": 1003235,
+      "word": "跟有钱人吵架真的好恐怖",
+      "onboard_time": 1767261859,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 82939,
       "num": 316359,
       "word": "与鸿蒙共赴下一个1000天",
@@ -1299,6 +1355,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 76353,
+      "num": 255863,
+      "word": "前世界上最胖的人病逝",
+      "onboard_time": 1767265760,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 76056,
       "num": 1002780,
       "word": "奥迪销量重回燃油豪华车第一名",
@@ -1347,12 +1411,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 74242,
-      "num": 1003235,
-      "word": "跟有钱人吵架真的好恐怖",
-      "onboard_time": 1767261859,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 74223,
+      "num": 255464,
+      "word": "寻秦记这段是哪个人才做的",
+      "onboard_time": 1767266360,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 72757,
@@ -1387,12 +1451,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70257,
+      "num": 255249,
+      "word": "骄阳似我森光婚礼主桌天团",
+      "onboard_time": 1767265280,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 69848,
       "num": 264519,
       "word": "猪希望外卖普及农村",
       "onboard_time": 1767240620,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 69677,
+      "num": 254860,
+      "word": "发现卧室其实不应该装衣柜",
+      "onboard_time": 1767266602,
+      "rank": 37,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 69275,
@@ -1409,6 +1489,14 @@
       "onboard_time": 1767248300,
       "rank": 36,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 67955,
+      "num": 254776,
+      "word": "今年要做个不纵容情绪的人",
+      "onboard_time": 1767265280,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 67870,
@@ -1433,6 +1521,14 @@
       "onboard_time": 1767241340,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 65026,
+      "num": 253665,
+      "word": "468元一个龙虾尾",
+      "onboard_time": 1767266060,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 64846,
@@ -1481,6 +1577,14 @@
       "onboard_time": 1767249921,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 61995,
+      "num": 252966,
+      "word": "印警方称200公斤大麻被老鼠吃掉",
+      "onboard_time": 1767266060,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 61247,
@@ -2040,14 +2144,6 @@
       "word": "拼搏进取的中国青年好样的",
       "onboard_time": 1767259761,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 5564,
-      "num": 1003074,
-      "word": "水银体温计禁产不等于禁售",
-      "onboard_time": 1767264440,
-      "rank": 38,
       "category": "民生新闻"
     }
   ],

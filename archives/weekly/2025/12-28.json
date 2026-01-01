@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767264476829,
+  "endTime": 1767266769887,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -1843,6 +1843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 404731,
+      "num": 1005757,
+      "word": "MRC对战Gr",
+      "onboard_time": 1767264259,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 404653,
       "num": 269322,
       "word": "大鹅离奇死亡主人抽水追凶又现死鹅",
@@ -2291,6 +2299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 341647,
+      "num": 1005268,
+      "word": "女孩吃蔡磊研发药渐冻症没再发展",
+      "onboard_time": 1767260899,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 339814,
       "num": 235481,
       "word": "宋威龙女主运",
@@ -2425,6 +2441,14 @@
       "onboard_time": 1766836103,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 322734,
+      "num": 1005291,
+      "word": "别人演现偶小三在演甄嬛传",
+      "onboard_time": 1767262160,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 321865,
@@ -2995,20 +3019,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 279023,
-      "num": 1005291,
-      "word": "别人演现偶小三在演甄嬛传",
-      "onboard_time": 1767262160,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 278831,
       "num": 278831,
       "word": "雷军抽奖",
       "onboard_time": 1767165621,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 278071,
+      "num": 1005900,
+      "word": "小吃街共用一个收款码有后续了",
+      "onboard_time": 1767262939,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 277683,
@@ -3105,14 +3129,6 @@
       "onboard_time": 1767206057,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 269295,
-      "num": 1005268,
-      "word": "女孩吃蔡磊研发药渐冻症没再发展",
-      "onboard_time": 1767260899,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 269284,
@@ -3249,6 +3265,14 @@
       "onboard_time": 1767074179,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259851,
+      "num": 1005812,
+      "word": "家业下证",
+      "onboard_time": 1767262760,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 259105,
@@ -3409,6 +3433,14 @@
       "onboard_time": 1766840181,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 247621,
+      "num": 1005141,
+      "word": "2026年生娃基本不花钱",
+      "onboard_time": 1767260300,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247477,
@@ -3657,14 +3689,6 @@
       "onboard_time": 1766837482,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 229260,
-      "num": 1005812,
-      "word": "家业下证",
-      "onboard_time": 1767262760,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 228737,
@@ -4083,14 +4107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 204266,
-      "num": 1005141,
-      "word": "2026年生娃基本不花钱",
-      "onboard_time": 1767260300,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 204105,
       "num": 1003773,
       "word": "外网流行中国化",
@@ -4121,6 +4137,14 @@
       "onboard_time": 1766921721,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203504,
+      "num": 1003689,
+      "word": "小猫生了一模一样的自己",
+      "onboard_time": 1767263060,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 202921,
@@ -4329,14 +4353,6 @@
       "onboard_time": 1767242661,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194463,
-      "num": 1003689,
-      "word": "小猫生了一模一样的自己",
-      "onboard_time": 1767263060,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 194131,
@@ -4739,6 +4755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185291,
+      "num": 1003074,
+      "word": "水银体温计禁产不等于禁售",
+      "onboard_time": 1767264440,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185088,
       "num": 185088,
       "word": "逍遥第8集封神",
@@ -4833,14 +4857,6 @@
       "onboard_time": 1767072322,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 182013,
-      "num": 1005757,
-      "word": "MRC对战Gr",
-      "onboard_time": 1767264259,
-      "rank": 6,
-      "category": "电竞"
     },
     {
       "raw_hot": 181726,
@@ -6339,14 +6355,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 142922,
-      "num": 1005900,
-      "word": "小吃街共用一个收款码有后续了",
-      "onboard_time": 1767262939,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 142716,
       "num": 142716,
       "word": "王楚钦说奖杯太沉了给梁靖崑抬",
@@ -6835,6 +6843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134487,
+      "num": 257019,
+      "word": "狗狗第一次后悔自己的鼻子很灵",
+      "onboard_time": 1767265880,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134050,
       "num": 134050,
       "word": "金饰价格跌破1400元关口",
@@ -7177,6 +7193,14 @@
       "onboard_time": 1767087141,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128511,
+      "num": 256887,
+      "word": "渐冻症女孩重生",
+      "onboard_time": 1767265280,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128460,
@@ -7608,6 +7632,14 @@
       "word": "突然对身边的一些人祛魅了",
       "onboard_time": 1766895319,
       "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 122995,
+      "num": 258778,
+      "word": "对方不回消息却发朋友圈",
+      "onboard_time": 1767264980,
+      "rank": 25,
       "category": "情感"
     },
     {
@@ -10043,6 +10075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96915,
+      "num": 257872,
+      "word": "跨年晚会主持人告别单薄礼服",
+      "onboard_time": 1767266420,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96816,
       "num": 3906556,
       "word": "中国始终站在历史正确一边",
@@ -11563,6 +11603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 83460,
+      "num": 1003235,
+      "word": "跟有钱人吵架真的好恐怖",
+      "onboard_time": 1767261859,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 83451,
       "num": 83451,
       "word": "周洁琼绿眸配红唇",
@@ -12179,6 +12227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76353,
+      "num": 255863,
+      "word": "前世界上最胖的人病逝",
+      "onboard_time": 1767265760,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 76283,
       "num": 110431,
       "word": "美媒一定程度上承认了斩杀线存在",
@@ -12363,12 +12419,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 74242,
-      "num": 1003235,
-      "word": "跟有钱人吵架真的好恐怖",
-      "onboard_time": 1767261859,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 74223,
+      "num": 255464,
+      "word": "寻秦记这段是哪个人才做的",
+      "onboard_time": 1767266360,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 74094,
@@ -12683,6 +12739,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 70257,
+      "num": 255249,
+      "word": "骄阳似我森光婚礼主桌天团",
+      "onboard_time": 1767265280,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70188,
       "num": 93551,
       "word": "期待孙颖莎满血回归",
@@ -12713,6 +12777,14 @@
       "onboard_time": 1767240620,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 69677,
+      "num": 254860,
+      "word": "发现卧室其实不应该装衣柜",
+      "onboard_time": 1767266602,
+      "rank": 37,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 69282,
@@ -12777,6 +12849,14 @@
       "onboard_time": 1767166518,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 67955,
+      "num": 254776,
+      "word": "今年要做个不纵容情绪的人",
+      "onboard_time": 1767265280,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 67870,
@@ -12931,6 +13011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65026,
+      "num": 253665,
+      "word": "468元一个龙虾尾",
+      "onboard_time": 1767266060,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 64959,
       "num": 185759,
       "word": "解放军正义使命2025演习关键词斩首",
@@ -13065,6 +13153,14 @@
       "onboard_time": 1767088822,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61995,
+      "num": 252966,
+      "word": "印警方称200公斤大麻被老鼠吃掉",
+      "onboard_time": 1767266060,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 61597,
@@ -16513,14 +16609,6 @@
       "onboard_time": 1766982561,
       "rank": 18,
       "category": "网红"
-    },
-    {
-      "raw_hot": 5564,
-      "num": 1003074,
-      "word": "水银体温计禁产不等于禁售",
-      "onboard_time": 1767264440,
-      "rank": 38,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
