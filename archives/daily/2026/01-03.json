@@ -1,6 +1,6 @@
 {
   "startTime": 1767371718188,
-  "endTime": 1767380013096,
+  "endTime": 1767381618070,
   "band_list": [
     {
       "raw_hot": 459140,
@@ -443,7 +443,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 29262,
+      "raw_hot": 31527,
       "num": 80908,
       "word": "瑞士火灾仍有遇难者遗体躺在酒吧",
       "onboard_time": 1767378137,
@@ -537,6 +537,14 @@
       "onboard_time": 1767358822,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14800,
+      "num": 58234,
+      "word": "瑞士酒吧火灾遇难者遗体辨认困难",
+      "onboard_time": 1767381555,
+      "rank": 47,
+      "category": "海外新闻"
     }
   ],
   "hotgov_list": [

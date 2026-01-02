@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767380013096,
+  "endTime": 1767381618070,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -18635,6 +18635,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 31527,
+      "num": 80908,
+      "word": "瑞士火灾仍有遇难者遗体躺在酒吧",
+      "onboard_time": 1767378137,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 31491,
       "num": 223828,
       "word": "滑雪脸僵了试试美团医美",
@@ -18817,14 +18825,6 @@
       "onboard_time": 1766937140,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 29262,
-      "num": 80908,
-      "word": "瑞士火灾仍有遇难者遗体躺在酒吧",
-      "onboard_time": 1767378137,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 29257,
@@ -19841,6 +19841,14 @@
       "onboard_time": 1766894480,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14800,
+      "num": 58234,
+      "word": "瑞士酒吧火灾遇难者遗体辨认困难",
+      "onboard_time": 1767381555,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 14787,

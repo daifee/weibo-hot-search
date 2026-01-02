@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767380013096,
+  "endTime": 1767381618070,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -5363,6 +5363,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 31527,
+      "num": 80908,
+      "word": "瑞士火灾仍有遇难者遗体躺在酒吧",
+      "onboard_time": 1767378137,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 31228,
       "num": 1026956,
       "word": "体坛荣耀之夜MV",
@@ -5409,14 +5417,6 @@
       "onboard_time": 1767180502,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 29262,
-      "num": 80908,
-      "word": "瑞士火灾仍有遇难者遗体躺在酒吧",
-      "onboard_time": 1767378137,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 28449,
@@ -5657,6 +5657,14 @@
       "onboard_time": 1767277762,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14800,
+      "num": 58234,
+      "word": "瑞士酒吧火灾遇难者遗体辨认困难",
+      "onboard_time": 1767381555,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 14453,
