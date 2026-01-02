@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767321227075,
+  "endTime": 1767326887533,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -177,6 +177,14 @@
       "onboard_time": 1767240862,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 421244,
+      "num": 181370,
+      "word": "泡面和煮面真的差很多",
+      "onboard_time": 1767325099,
+      "rank": 5,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 413045,
@@ -451,6 +459,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259335,
+      "num": 156728,
+      "word": "恭喜郭芙蓉",
+      "onboard_time": 1767323899,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 255493,
+      "num": 156713,
+      "word": "海航空姐统一戴长发簪遭质疑不安全",
+      "onboard_time": 1767323661,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 253320,
       "num": 501274,
       "word": "终于懂老人分不清ai的无力感了",
@@ -547,6 +571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 205696,
+      "num": 205696,
+      "word": "看完这一集不敢喝排骨汤了",
+      "onboard_time": 1767323481,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204105,
       "num": 1003773,
       "word": "外网流行中国化",
@@ -561,6 +593,14 @@
       "onboard_time": 1767235820,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196399,
+      "num": 156705,
+      "word": "鹅鸭杀官宣主理人大司马",
+      "onboard_time": 1767326299,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 196264,
@@ -619,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187026,
+      "num": 156702,
+      "word": "虽然个子矮却很全能",
+      "onboard_time": 1767323240,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186473,
       "num": 1002359,
       "word": "新年壁纸",
@@ -641,6 +689,14 @@
       "onboard_time": 1767264440,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184609,
+      "num": 184609,
+      "word": "美国关税大棒打了自己人",
+      "onboard_time": 1767321680,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 184091,
@@ -763,6 +819,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 168917,
+      "num": 168917,
+      "word": "一人之下6",
+      "onboard_time": 1767322578,
+      "rank": 6,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 167596,
       "num": 1388124,
       "word": "跨年照片",
@@ -809,6 +873,14 @@
       "onboard_time": 1767257540,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 164877,
+      "num": 156618,
+      "word": "寻秦记 大大方方为情怀买单",
+      "onboard_time": 1767324320,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 163420,
@@ -883,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156743,
+      "num": 156743,
+      "word": "日本东京全球人口排名下跌",
+      "onboard_time": 1767322760,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 156657,
       "num": 285809,
       "word": "星穹铁道爻光",
@@ -921,6 +1001,14 @@
       "onboard_time": 1767318021,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 148485,
+      "num": 156737,
+      "word": "骄阳似我剧粉盘",
+      "onboard_time": 1767325340,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 148313,
@@ -1179,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121777,
+      "num": 156528,
+      "word": "老板0秒听懂1秒接受2秒加入",
+      "onboard_time": 1767323600,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121747,
       "num": 435985,
       "word": "我决定原谅这个世界一分钟",
@@ -1257,6 +1353,14 @@
       "onboard_time": 1767263121,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114514,
+      "num": 156667,
+      "word": "一直想吃但真吃到却很失望的食物",
+      "onboard_time": 1767321680,
+      "rank": 16,
+      "category": "美食"
     },
     {
       "raw_hot": 114424,
@@ -1563,6 +1667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91254,
+      "num": 381909,
+      "word": "为什么运动后皮肤变好了",
+      "onboard_time": 1767320719,
+      "rank": 29,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 90198,
       "num": 974130,
       "word": "法国跨年把2026打成2036",
@@ -1715,6 +1827,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 85683,
+      "num": 156515,
+      "word": "小马美甲",
+      "onboard_time": 1767324858,
+      "rank": 31,
+      "category": "美妆,休闲"
+    },
+    {
       "raw_hot": 85594,
       "num": 1127359,
       "word": "花花送的京东跨晚大奖是它",
@@ -1745,6 +1865,14 @@
       "onboard_time": 1767254780,
       "rank": 17,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 83766,
+      "num": 712378,
+      "word": "中国人造太阳实验又有新突破",
+      "onboard_time": 1767324079,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 83735,
@@ -1779,6 +1907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 82359,
+      "num": 156510,
+      "word": "日本精致的窘迫",
+      "onboard_time": 1767326360,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 82220,
       "num": 1003339,
       "word": "40岁后最佳的运动方式",
@@ -1793,6 +1929,14 @@
       "onboard_time": 1767216553,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 79968,
+      "num": 156650,
+      "word": "小众冷门但很好用的转运方式",
+      "onboard_time": 1767323240,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 79149,
@@ -1849,6 +1993,14 @@
       "onboard_time": 1767272421,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 76700,
+      "num": 590156,
+      "word": "2026国补怎么补",
+      "onboard_time": 1767323960,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 76593,
@@ -1931,6 +2083,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 72768,
+      "num": 156577,
+      "word": "香港人第一次搓澡的体验",
+      "onboard_time": 1767323539,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72757,
       "num": 713776,
       "word": "这3个带马成语太给劲了",
@@ -1969,14 +2129,6 @@
       "onboard_time": 1767309556,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 70570,
-      "num": 381909,
-      "word": "为什么运动后皮肤变好了",
-      "onboard_time": 1767320719,
-      "rank": 29,
-      "category": "运动健身"
     },
     {
       "raw_hot": 70458,
@@ -2089,6 +2241,14 @@
       "onboard_time": 1767271761,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65956,
+      "num": 156559,
+      "word": "养了一只不扫兴的猫",
+      "onboard_time": 1767322222,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 65955,
@@ -2241,166 +2401,6 @@
       "onboard_time": 1767240260,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 60994,
-      "num": 224096,
-      "word": "再见爱人嘉宾去闯短剧赛道了",
-      "onboard_time": 1767256100,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 60826,
-      "num": 2366436,
-      "word": "2026新年贺词金句",
-      "onboard_time": 1767181942,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 60773,
-      "num": 380342,
-      "word": "周深5年5登大湾区含金量",
-      "onboard_time": 1767319938,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 59425,
-      "num": 379036,
-      "word": "刘宇宁被台下观众钓成翘嘴",
-      "onboard_time": 1767312197,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 59127,
-      "num": 379428,
-      "word": "原来继承密码是个大众行为",
-      "onboard_time": 1767312558,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 58807,
-      "num": 241046,
-      "word": "南方人的取暖方式",
-      "onboard_time": 1767254119,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 57710,
-      "num": 1009233,
-      "word": "新年第1天升国旗",
-      "onboard_time": 1767224057,
-      "rank": 17,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 57692,
-      "num": 380484,
-      "word": "休斯顿火箭",
-      "onboard_time": 1767321199,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 57283,
-      "num": 115272,
-      "word": "火箭vs篮网",
-      "onboard_time": 1767318738,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 56907,
-      "num": 1009105,
-      "word": "中国一个个创新创造振奋人心",
-      "onboard_time": 1767239901,
-      "rank": 0,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 56664,
-      "num": 1004632,
-      "word": "2026的第一份幸运是零点同框",
-      "onboard_time": 1767261859,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54950,
-      "num": 589332,
-      "word": "麦当劳海外爆堡来了",
-      "onboard_time": 1767245361,
-      "rank": 18,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 54837,
-      "num": 379523,
-      "word": "2026一名航天员将太空出差超1年",
-      "onboard_time": 1767312137,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 54242,
-      "num": 224832,
-      "word": "迪丽热巴红运开年",
-      "onboard_time": 1767254360,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 53105,
-      "num": 111523,
-      "word": "2026好运已加满",
-      "onboard_time": 1767223996,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52938,
-      "num": 315296,
-      "word": "王者荣耀无双",
-      "onboard_time": 1767225798,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 52782,
-      "num": 315145,
-      "word": "爱你老己 今年继续",
-      "onboard_time": 1767234981,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 52532,
-      "num": 588689,
-      "word": "邓为红在2026",
-      "onboard_time": 1767245121,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 51607,
-      "num": 1002279,
-      "word": "蔡磊祝福重生渐冻症女孩享受人生",
-      "onboard_time": 1767263961,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50337,
-      "num": 113907,
-      "word": "刘宇宁舞台纸花上有手写祝福",
-      "onboard_time": 1767318619,
-      "rank": 44,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
@@ -2421,6 +2421,9 @@
     },
     {
       "word": "#努力奋斗才能梦想成真#"
+    },
+    {
+      "word": "#贺词里的中国#"
     }
   ]
 }

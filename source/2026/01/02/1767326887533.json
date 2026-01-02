@@ -1,0 +1,410 @@
+{
+  "runTime": 1767326887533,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 67467,
+        "num": 1010794,
+        "word": "2026第一场旅行",
+        "onboard_time": 1767314479,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 83766,
+        "num": 712378,
+        "word": "中国人造太阳实验又有新突破",
+        "onboard_time": 1767324079,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 76700,
+        "num": 590156,
+        "word": "2026国补怎么补",
+        "onboard_time": 1767323960,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 205696,
+        "num": 205696,
+        "word": "看完这一集不敢喝排骨汤了",
+        "onboard_time": 1767323481,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184609,
+        "num": 184609,
+        "word": "美国关税大棒打了自己人",
+        "onboard_time": 1767321680,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 421244,
+        "num": 181370,
+        "word": "泡面和煮面真的差很多",
+        "onboard_time": 1767325099,
+        "rank": 5,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 168917,
+        "num": 168917,
+        "word": "一人之下6",
+        "onboard_time": 1767322578,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 164681,
+        "num": 164681,
+        "word": "霍启刚庄严宣誓",
+        "onboard_time": 1767320239,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156743,
+        "num": 156743,
+        "word": "日本东京全球人口排名下跌",
+        "onboard_time": 1767322760,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 148485,
+        "num": 156737,
+        "word": "骄阳似我剧粉盘",
+        "onboard_time": 1767325340,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259335,
+        "num": 156728,
+        "word": "恭喜郭芙蓉",
+        "onboard_time": 1767323899,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255493,
+        "num": 156713,
+        "word": "海航空姐统一戴长发簪遭质疑不安全",
+        "onboard_time": 1767323661,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196399,
+        "num": 156705,
+        "word": "鹅鸭杀官宣主理人大司马",
+        "onboard_time": 1767326299,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187026,
+        "num": 156702,
+        "word": "虽然个子矮却很全能",
+        "onboard_time": 1767323240,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184661,
+        "num": 156688,
+        "word": "袁祥仁去世",
+        "onboard_time": 1767317599,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164387,
+        "num": 156682,
+        "word": "长期不换各种社交头像",
+        "onboard_time": 1767311657,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114514,
+        "num": 156667,
+        "word": "一直想吃但真吃到却很失望的食物",
+        "onboard_time": 1767321680,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 105560,
+        "num": 156662,
+        "word": "终于懂老人分不清ai的无力感了",
+        "onboard_time": 1767312197,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79968,
+        "num": 156650,
+        "word": "小众冷门但很好用的转运方式",
+        "onboard_time": 1767323240,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 53556,
+        "num": 156634,
+        "word": "患病后送外卖硕士称不做长期规划",
+        "onboard_time": 1767325700,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178122,
+        "num": 156632,
+        "word": "郭芙蓉自由了",
+        "onboard_time": 1767311777,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164877,
+        "num": 156618,
+        "word": "寻秦记 大大方方为情怀买单",
+        "onboard_time": 1767324320,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109796,
+        "num": 156613,
+        "word": "茅台",
+        "onboard_time": 1767319457,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 91254,
+        "num": 156602,
+        "word": "为什么运动后皮肤变好了",
+        "onboard_time": 1767320719,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 76251,
+        "num": 156585,
+        "word": "武林外传",
+        "onboard_time": 1767311596,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72768,
+        "num": 156577,
+        "word": "香港人第一次搓澡的体验",
+        "onboard_time": 1767323539,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67745,
+        "num": 156569,
+        "word": "原来Safari才是iPhone隐藏的资源大户",
+        "onboard_time": 1767318021,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 65956,
+        "num": 156559,
+        "word": "养了一只不扫兴的猫",
+        "onboard_time": 1767322222,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59552,
+        "num": 156552,
+        "word": "个人存取款超5万元不再登记",
+        "onboard_time": 1767267680,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51533,
+        "num": 156543,
+        "word": "南京大屠杀幸存者仅剩23位",
+        "onboard_time": 1767320719,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121777,
+        "num": 156528,
+        "word": "老板0秒听懂1秒接受2秒加入",
+        "onboard_time": 1767323600,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85683,
+        "num": 156515,
+        "word": "小马美甲",
+        "onboard_time": 1767324858,
+        "rank": 31,
+        "category": "美妆,休闲"
+      },
+      {
+        "raw_hot": 82359,
+        "num": 156510,
+        "word": "日本精致的窘迫",
+        "onboard_time": 1767326360,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 60396,
+        "num": 156495,
+        "word": "李云龙意大利炮轰的是我的泪腺",
+        "onboard_time": 1767325519,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55400,
+        "num": 156484,
+        "word": "凌晨1点男童赤脚上街女子上前抱起",
+        "onboard_time": 1767312377,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 51357,
+        "num": 156474,
+        "word": "央视跨年晚会上的女性",
+        "onboard_time": 1767312738,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49480,
+        "num": 156466,
+        "word": "你俩认得清纸巾和萝卜吗",
+        "onboard_time": 1767324320,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 49131,
+        "num": 156457,
+        "word": "樊振东1月上半月赛程公布",
+        "onboard_time": 1767316160,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48913,
+        "num": 156453,
+        "word": "男子瑞典偶遇电动三蹦子以为回村了",
+        "onboard_time": 1767322879,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 48726,
+        "num": 156444,
+        "word": "金毛 各位下辈子再见",
+        "onboard_time": 1767326718,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 48624,
+        "num": 156427,
+        "word": "一人之下第六季开播",
+        "onboard_time": 1767322999,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 47412,
+        "num": 156422,
+        "word": "冰雪大世界建了超大玫瑰冰瀑",
+        "onboard_time": 1767279920,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46017,
+        "num": 156415,
+        "word": "刚开始以为是他捣蛋谁知道只有他在跳",
+        "onboard_time": 1767323240,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35582,
+        "num": 156399,
+        "word": "武林外传导演回应小郭自由了",
+        "onboard_time": 1767326840,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45955,
+        "num": 156394,
+        "word": "还以为我是年龄大了变得善谈了",
+        "onboard_time": 1767323300,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45574,
+        "num": 156384,
+        "word": "洗脸巾都要纯手工的",
+        "onboard_time": 1767325278,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45373,
+        "num": 156370,
+        "word": "蔡磊透露已进入疾病终末期",
+        "onboard_time": 1767316700,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42569,
+        "num": 156364,
+        "word": "匿杀",
+        "onboard_time": 1767324559,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41483,
+        "num": 156345,
+        "word": "座椅为什么要设计成这样",
+        "onboard_time": 1767326840,
+        "rank": 48,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 41049,
+        "num": 156342,
+        "word": "大熊猫看到下雪蚌埠住了",
+        "onboard_time": 1767320418,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#贺词里的中国#"
+    }
+  }
+}

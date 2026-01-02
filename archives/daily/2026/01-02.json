@@ -1,6 +1,6 @@
 {
   "startTime": 1767285375925,
-  "endTime": 1767321227075,
+  "endTime": 1767326887533,
   "band_list": [
     {
       "raw_hot": 602063,
@@ -27,6 +27,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 421244,
+      "num": 181370,
+      "word": "泡面和煮面真的差很多",
+      "onboard_time": 1767325099,
+      "rank": 5,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 384784,
       "num": 618136,
       "word": "重庆飞三亚航班紧急返航乘客发声",
@@ -49,6 +57,22 @@
       "onboard_time": 1767311657,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 259335,
+      "num": 156728,
+      "word": "恭喜郭芙蓉",
+      "onboard_time": 1767323899,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 255493,
+      "num": 156713,
+      "word": "海航空姐统一戴长发簪遭质疑不安全",
+      "onboard_time": 1767323661,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 253320,
@@ -83,6 +107,38 @@
       "category": "演出"
     },
     {
+      "raw_hot": 205696,
+      "num": 205696,
+      "word": "看完这一集不敢喝排骨汤了",
+      "onboard_time": 1767323481,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196399,
+      "num": 156705,
+      "word": "鹅鸭杀官宣主理人大司马",
+      "onboard_time": 1767326299,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 187026,
+      "num": 156702,
+      "word": "虽然个子矮却很全能",
+      "onboard_time": 1767323240,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 184609,
+      "num": 184609,
+      "word": "美国关税大棒打了自己人",
+      "onboard_time": 1767321680,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 177218,
       "num": 382786,
       "word": "武林外传",
@@ -107,6 +163,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 168917,
+      "num": 168917,
+      "word": "一人之下6",
+      "onboard_time": 1767322578,
+      "rank": 6,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 166620,
       "num": 382967,
       "word": "霍启刚庄严宣誓",
@@ -123,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164877,
+      "num": 156618,
+      "word": "寻秦记 大大方方为情怀买单",
+      "onboard_time": 1767324320,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 163420,
       "num": 419997,
       "word": "扭扭捏捏的人都有一个特质",
@@ -131,12 +203,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 156743,
+      "num": 156743,
+      "word": "日本东京全球人口排名下跌",
+      "onboard_time": 1767322760,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 149958,
       "num": 486388,
       "word": "原来Safari才是iPhone隐藏的资源大户",
       "onboard_time": 1767318021,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 148485,
+      "num": 156737,
+      "word": "骄阳似我剧粉盘",
+      "onboard_time": 1767325340,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 146619,
@@ -171,6 +259,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 121777,
+      "num": 156528,
+      "word": "老板0秒听懂1秒接受2秒加入",
+      "onboard_time": 1767323600,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121747,
       "num": 435985,
       "word": "我决定原谅这个世界一分钟",
@@ -201,6 +297,14 @@
       "onboard_time": 1767314418,
       "rank": 13,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 114514,
+      "num": 156667,
+      "word": "一直想吃但真吃到却很失望的食物",
+      "onboard_time": 1767321680,
+      "rank": 16,
+      "category": "美食"
     },
     {
       "raw_hot": 113916,
@@ -235,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91254,
+      "num": 381909,
+      "word": "为什么运动后皮肤变好了",
+      "onboard_time": 1767320719,
+      "rank": 29,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 89871,
       "num": 551402,
       "word": "从2026年开始21世纪进入了夏天",
@@ -267,6 +379,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 85683,
+      "num": 156515,
+      "word": "小马美甲",
+      "onboard_time": 1767324858,
+      "rank": 31,
+      "category": "美妆,休闲"
+    },
+    {
+      "raw_hot": 83766,
+      "num": 712378,
+      "word": "中国人造太阳实验又有新突破",
+      "onboard_time": 1767324079,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 83605,
       "num": 615267,
       "word": "瑞士医院被烧伤患者淹没",
@@ -291,6 +419,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82359,
+      "num": 156510,
+      "word": "日本精致的窘迫",
+      "onboard_time": 1767326360,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 79968,
+      "num": 156650,
+      "word": "小众冷门但很好用的转运方式",
+      "onboard_time": 1767323240,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 79149,
       "num": 379767,
       "word": "黄景瑜只需微微一出手",
@@ -305,6 +449,14 @@
       "onboard_time": 1767310276,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76700,
+      "num": 590156,
+      "word": "2026国补怎么补",
+      "onboard_time": 1767323960,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 76428,
@@ -331,6 +483,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 72768,
+      "num": 156577,
+      "word": "香港人第一次搓澡的体验",
+      "onboard_time": 1767323539,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72351,
       "num": 380126,
       "word": "跨年夜人群被两块大屏幕时差整懵圈",
@@ -345,14 +505,6 @@
       "onboard_time": 1767309556,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 70570,
-      "num": 381909,
-      "word": "为什么运动后皮肤变好了",
-      "onboard_time": 1767320719,
-      "rank": 29,
-      "category": "运动健身"
     },
     {
       "raw_hot": 69859,
@@ -385,6 +537,14 @@
       "onboard_time": 1767260300,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65956,
+      "num": 156559,
+      "word": "养了一只不扫兴的猫",
+      "onboard_time": 1767322222,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 64993,
@@ -451,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60396,
+      "num": 156495,
+      "word": "李云龙意大利炮轰的是我的泪腺",
+      "onboard_time": 1767325519,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 59425,
       "num": 379036,
       "word": "刘宇宁被台下观众钓成翘嘴",
@@ -515,6 +683,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 53556,
+      "num": 156634,
+      "word": "患病后送外卖硕士称不做长期规划",
+      "onboard_time": 1767325700,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51934,
       "num": 608682,
       "word": "李昀锐这段完播率100%",
@@ -555,6 +731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 49480,
+      "num": 156466,
+      "word": "你俩认得清纸巾和萝卜吗",
+      "onboard_time": 1767324320,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 49446,
       "num": 620590,
       "word": "女孩吃蔡磊研发药渐冻症没再发展",
@@ -571,12 +755,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 49131,
+      "num": 379971,
+      "word": "樊振东1月上半月赛程公布",
+      "onboard_time": 1767316160,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49024,
       "num": 116566,
       "word": "罚罪2",
       "onboard_time": 1767291795,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 48913,
+      "num": 156453,
+      "word": "男子瑞典偶遇电动三蹦子以为回村了",
+      "onboard_time": 1767322879,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 48726,
+      "num": 156444,
+      "word": "金毛 各位下辈子再见",
+      "onboard_time": 1767326718,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 48624,
+      "num": 156427,
+      "word": "一人之下第六季开播",
+      "onboard_time": 1767322999,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 48503,
@@ -587,12 +803,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 48292,
-      "num": 379971,
-      "word": "樊振东1月上半月赛程公布",
-      "onboard_time": 1767316160,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 46017,
+      "num": 156415,
+      "word": "刚开始以为是他捣蛋谁知道只有他在跳",
+      "onboard_time": 1767323240,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 45955,
+      "num": 156394,
+      "word": "还以为我是年龄大了变得善谈了",
+      "onboard_time": 1767323300,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 45574,
+      "num": 156384,
+      "word": "洗脸巾都要纯手工的",
+      "onboard_time": 1767325278,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 45106,
@@ -635,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42569,
+      "num": 156364,
+      "word": "匿杀",
+      "onboard_time": 1767324559,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 42349,
       "num": 607948,
       "word": "有人买40斤白银2个月猛赚14万",
@@ -657,6 +897,14 @@
       "onboard_time": 1767309135,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41483,
+      "num": 156345,
+      "word": "座椅为什么要设计成这样",
+      "onboard_time": 1767326840,
+      "rank": 48,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 40755,
@@ -737,6 +985,14 @@
       "onboard_time": 1767318559,
       "rank": 42,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 35582,
+      "num": 156399,
+      "word": "武林外传导演回应小郭自由了",
+      "onboard_time": 1767326840,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 34212,
@@ -902,6 +1158,9 @@
   "hotgov_list": [
     {
       "word": "#努力奋斗才能梦想成真#"
+    },
+    {
+      "word": "#贺词里的中国#"
     }
   ]
 }
