@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767310934706,
+  "endTime": 1767319787456,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -123,12 +123,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 506183,
+      "num": 117682,
+      "word": "袁祥仁去世",
+      "onboard_time": 1767317599,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 488298,
       "num": 1404022,
       "word": "2026壁纸",
       "onboard_time": 1767175881,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 476728,
+      "num": 117203,
+      "word": "郭芙蓉自由了",
+      "onboard_time": 1767311777,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 470968,
@@ -355,6 +371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 289338,
+      "num": 124926,
+      "word": "长期不换各种社交头像",
+      "onboard_time": 1767311657,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 285474,
       "num": 318790,
       "word": "2026年新规今起施行",
@@ -425,6 +449,14 @@
       "onboard_time": 1767262760,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 253320,
+      "num": 122837,
+      "word": "终于懂老人分不清ai的无力感了",
+      "onboard_time": 1767312197,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 253260,
@@ -659,6 +691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 177218,
+      "num": 116692,
+      "word": "武林外传",
+      "onboard_time": 1767311596,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176790,
       "num": 1407806,
       "word": "寻秦记",
@@ -764,7 +804,7 @@
     },
     {
       "raw_hot": 163420,
-      "num": 84552,
+      "num": 118816,
       "word": "扭扭捏捏的人都有一个特质",
       "onboard_time": 1767309195,
       "rank": 6,
@@ -883,6 +923,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 146619,
+      "num": 723605,
+      "word": "一文看懂2026新一轮国补",
+      "onboard_time": 1767314598,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 145020,
       "num": 318341,
       "word": "云秀行",
@@ -947,6 +995,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 136508,
+      "num": 1000213,
+      "word": "冰雪大世界建了超大玫瑰冰瀑",
+      "onboard_time": 1767279920,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136284,
       "num": 259245,
       "word": "车主半夜把所有的仇人都想了一遍",
@@ -985,14 +1041,6 @@
       "onboard_time": 1767258799,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 133036,
-      "num": 1000213,
-      "word": "冰雪大世界建了超大玫瑰冰瀑",
-      "onboard_time": 1767279920,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132473,
@@ -1059,6 +1107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127635,
+      "num": 116998,
+      "word": "瑞士酒吧爆炸幸存者发声",
+      "onboard_time": 1767315560,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 125549,
       "num": 986804,
       "word": "印警方称200公斤大麻被老鼠吃掉",
@@ -1099,12 +1155,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121747,
+      "num": 121747,
+      "word": "我决定原谅这个世界一分钟",
+      "onboard_time": 1767313218,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119908,
       "num": 315983,
       "word": "湖南跨晚收视率第一",
       "onboard_time": 1767222556,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119881,
+      "num": 116302,
+      "word": "凌晨1点男童赤脚上街女子上前抱起",
+      "onboard_time": 1767312377,
+      "rank": 24,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 119650,
+      "num": 119650,
+      "word": "承诺永州队夺冠送车的老板清空视频",
+      "onboard_time": 1767314418,
+      "rank": 13,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 117691,
@@ -1323,6 +1403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 101954,
+      "num": 119418,
+      "word": "央视跨年晚会上的女性",
+      "onboard_time": 1767312738,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101492,
       "num": 1385992,
       "word": "友谊地久天长",
@@ -1507,6 +1595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87349,
+      "num": 1013975,
+      "word": "2026第一场旅行",
+      "onboard_time": 1767314479,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 87224,
       "num": 930646,
       "word": "贾磊说徐杰应该问题不大",
@@ -1547,6 +1643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 86060,
+      "num": 132348,
+      "word": "iPhone最浪漫的5个设置",
+      "onboard_time": 1767312678,
+      "rank": 6,
+      "category": "数码"
+    },
+    {
       "raw_hot": 85881,
       "num": 253665,
       "word": "468元一个龙虾尾",
@@ -1577,6 +1681,14 @@
       "onboard_time": 1767252739,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 84789,
+      "num": 115608,
+      "word": "原来Safari才是iPhone隐藏的资源大户",
+      "onboard_time": 1767318021,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 84429,
@@ -1611,6 +1723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82562,
+      "num": 118491,
+      "word": "蔡磊透露已进入疾病终末期",
+      "onboard_time": 1767316700,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82499,
       "num": 1003472,
       "word": "无畏契约手游直播",
@@ -1627,6 +1747,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 82210,
+      "num": 116168,
+      "word": "景区为不让游客留遗憾现场雕刻冰杖",
+      "onboard_time": 1767317479,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80097,
       "num": 314772,
       "word": "哪吒",
@@ -1635,12 +1763,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 79149,
+      "num": 115513,
+      "word": "黄景瑜只需微微一出手",
+      "onboard_time": 1767318199,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79134,
       "num": 241909,
       "word": "玉茗茶骨这段让我想起了墨雨云间",
       "onboard_time": 1767256280,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79056,
+      "num": 115956,
+      "word": "北京一餐厅跨年夜排队3000桌",
+      "onboard_time": 1767310276,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78419,
@@ -1763,6 +1907,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 72351,
+      "num": 118368,
+      "word": "跨年夜人群被两块大屏幕时差整懵圈",
+      "onboard_time": 1767312497,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71948,
       "num": 213370,
       "word": "小说里的女医生具像化了",
@@ -1816,6 +1968,14 @@
       "word": "猪希望外卖普及农村",
       "onboard_time": 1767240620,
       "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 69508,
+      "num": 130158,
+      "word": "从2026年开始21世纪进入了夏天",
+      "onboard_time": 1767313399,
+      "rank": 7,
       "category": "幽默"
     },
     {
@@ -1907,6 +2067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 64993,
+      "num": 135122,
+      "word": "跨年一个人在冰岛看日出",
+      "onboard_time": 1767313699,
+      "rank": 4,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 64846,
       "num": 241790,
       "word": "中国国家队新年祝福",
@@ -1955,6 +2123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 63048,
+      "num": 115818,
+      "word": "渐冻症女孩重生兼职赚生活费",
+      "onboard_time": 1767319220,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62612,
       "num": 643876,
       "word": "DeepSeek元旦新论文",
@@ -1980,7 +2156,7 @@
     },
     {
       "raw_hot": 62072,
-      "num": 71197,
+      "num": 114415,
       "word": "林诗栋回复韩昊霖",
       "onboard_time": 1767309856,
       "rank": 30,
@@ -2019,6 +2195,30 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 60342,
+      "num": 115372,
+      "word": "意大使称瑞士爆炸酒吧有人放烟花",
+      "onboard_time": 1767316940,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 59425,
+      "num": 114933,
+      "word": "刘宇宁被台下观众钓成翘嘴",
+      "onboard_time": 1767312197,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 59127,
+      "num": 118015,
+      "word": "原来继承密码是个大众行为",
+      "onboard_time": 1767312558,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 58807,
       "num": 241046,
       "word": "南方人的取暖方式",
@@ -2033,6 +2233,14 @@
       "onboard_time": 1767224057,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 57283,
+      "num": 115272,
+      "word": "火箭vs篮网",
+      "onboard_time": 1767318738,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 56907,
@@ -2051,12 +2259,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55496,
+      "num": 115111,
+      "word": "茅台",
+      "onboard_time": 1767319457,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 54950,
       "num": 589332,
       "word": "麦当劳海外爆堡来了",
       "onboard_time": 1767245361,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 54837,
+      "num": 114817,
+      "word": "2026一名航天员将太空出差超1年",
+      "onboard_time": 1767312137,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 54242,
@@ -2107,6 +2331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50337,
+      "num": 113907,
+      "word": "刘宇宁舞台纸花上有手写祝福",
+      "onboard_time": 1767318619,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 49685,
       "num": 71099,
       "word": "汪苏泷最适合今天唱的歌出现了",
@@ -2131,12 +2363,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 48539,
-      "num": 71259,
-      "word": "北京一餐厅跨年夜排队3000桌",
-      "onboard_time": 1767310276,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 48503,
+      "num": 114689,
+      "word": "特首办回应李家超备拐杖",
+      "onboard_time": 1767318500,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 48422,
@@ -2169,238 +2401,6 @@
       "onboard_time": 1767230060,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47772,
-      "num": 734105,
-      "word": "十五五开局之年怎么干",
-      "onboard_time": 1767234740,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 47772,
-      "num": 588446,
-      "word": "新手打麻将阵法",
-      "onboard_time": 1767249560,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 47767,
-      "num": 225990,
-      "word": "14万级全新威兰达到店",
-      "onboard_time": 1767239840,
-      "rank": 19,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 47573,
-      "num": 224900,
-      "word": "鸿蒙智行2025全年交付589107台",
-      "onboard_time": 1767241400,
-      "rank": 44,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 47406,
-      "num": 203377,
-      "word": "元旦去哪儿",
-      "onboard_time": 1767260300,
-      "rank": 44,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 47356,
-      "num": 241296,
-      "word": "江苏卫视跨年最帅伴舞赢了",
-      "onboard_time": 1767257900,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 47171,
-      "num": 272000,
-      "word": "张晚意元旦跟谁过",
-      "onboard_time": 1767245361,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 47052,
-      "num": 240701,
-      "word": "沃尔沃新年首推新能源购置补贴",
-      "onboard_time": 1767254780,
-      "rank": 19,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 46712,
-      "num": 982777,
-      "word": "1分钟看完全球跨年烟花",
-      "onboard_time": 1767276320,
-      "rank": 29,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 46349,
-      "num": 223639,
-      "word": "陆江来被荣善宝强吻",
-      "onboard_time": 1767256460,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 45999,
-      "num": 906451,
-      "word": "男子5年救了500多只猫",
-      "onboard_time": 1767281061,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45508,
-      "num": 905498,
-      "word": "原来大熊猫是雪来疯",
-      "onboard_time": 1767278600,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45192,
-      "num": 1007230,
-      "word": "新年首日中国空间站过境合集",
-      "onboard_time": 1767278661,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45152,
-      "num": 314842,
-      "word": "元旦祝福",
-      "onboard_time": 1767229640,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44724,
-      "num": 224790,
-      "word": "2026第一天原来幸福这么简单",
-      "onboard_time": 1767238341,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 44373,
-      "num": 314989,
-      "word": "新年文案",
-      "onboard_time": 1767222196,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 43794,
-      "num": 223412,
-      "word": "为啥大学期末周比高考前还慌",
-      "onboard_time": 1767254901,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 43378,
-      "num": 71148,
-      "word": "2026年第二天",
-      "onboard_time": 1767309135,
-      "rank": 11,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 42898,
-      "num": 1384890,
-      "word": "悟空和哪吒风靡全球",
-      "onboard_time": 1767182124,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 42627,
-      "num": 207415,
-      "word": "哇唧唧哇有自己的00电影花",
-      "onboard_time": 1767257119,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 42370,
-      "num": 946618,
-      "word": "完美世界一个月两个特别篇",
-      "onboard_time": 1767270680,
-      "rank": 48,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 42293,
-      "num": 111320,
-      "word": "你好呀2026年",
-      "onboard_time": 1767223819,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41650,
-      "num": 71169,
-      "word": "2026一起加油",
-      "onboard_time": 1767309135,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41171,
-      "num": 1016853,
-      "word": "2026年第一天",
-      "onboard_time": 1767223819,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41124,
-      "num": 259915,
-      "word": "鸣潮",
-      "onboard_time": 1767243020,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 40727,
-      "num": 224809,
-      "word": "2026年元旦宝宝",
-      "onboard_time": 1767238880,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 40338,
-      "num": 1024417,
-      "word": "这些世界第一里满满中国实力",
-      "onboard_time": 1767253401,
-      "rank": 43,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 40223,
-      "num": 588147,
-      "word": "CJ麦科勒姆绝杀雄鹿",
-      "onboard_time": 1767247640,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 39731,
-      "num": 588130,
-      "word": "老奶购物法",
-      "onboard_time": 1767248240,
-      "rank": 42,
-      "category": "情感"
     }
   ],
   "hotgov_list": [
