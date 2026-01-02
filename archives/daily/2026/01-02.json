@@ -1,6 +1,6 @@
 {
   "startTime": 1767285375925,
-  "endTime": 1767337044479,
+  "endTime": 1767339134409,
   "band_list": [
     {
       "raw_hot": 602063,
@@ -65,6 +65,14 @@
       "onboard_time": 1767327140,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 445966,
+      "num": 233159,
+      "word": "当我意识到姚晨在发圣地巡礼的时候",
+      "onboard_time": 1767338359,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 384784,
@@ -171,12 +179,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 233793,
+      "num": 284315,
+      "word": "原来真有人上班是开心的",
+      "onboard_time": 1767335660,
+      "rank": 31,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 219674,
       "num": 705067,
       "word": "个人存取款超5万元不再登记",
       "onboard_time": 1767267680,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218209,
+      "num": 285217,
+      "word": "特朗普承认服用阿司匹林",
+      "onboard_time": 1767335598,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 214754,
@@ -225,6 +249,22 @@
       "onboard_time": 1767270862,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200600,
+      "num": 233775,
+      "word": "Faker获青龙勋章",
+      "onboard_time": 1767337280,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 189772,
+      "num": 284765,
+      "word": "顶级夫妻关系是合起伙来对付这个世界",
+      "onboard_time": 1767335479,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 187044,
@@ -315,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166487,
+      "num": 283547,
+      "word": "女生甲流高烧狗狗饿得啃面粉",
+      "onboard_time": 1767336979,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166444,
       "num": 734542,
       "word": "尔滨你是有点子浪漫在身上的",
@@ -353,14 +401,6 @@
       "onboard_time": 1767335359,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 158486,
-      "num": 285217,
-      "word": "特朗普承认服用阿司匹林",
-      "onboard_time": 1767335598,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 157412,
@@ -467,20 +507,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 130668,
+      "num": 319009,
+      "word": "玉茗茶骨全员恶女长镜头",
+      "onboard_time": 1767335359,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130444,
       "num": 283033,
       "word": "柯淳对表演不热爱但敬畏",
       "onboard_time": 1767334819,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 128257,
-      "num": 284765,
-      "word": "顶级夫妻关系是合起伙来对付这个世界",
-      "onboard_time": 1767335479,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 127635,
@@ -563,22 +603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117254,
-      "num": 319009,
-      "word": "玉茗茶骨全员恶女长镜头",
-      "onboard_time": 1767335359,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 116662,
-      "num": 284315,
-      "word": "原来真有人上班是开心的",
-      "onboard_time": 1767335660,
-      "rank": 31,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 114514,
       "num": 246233,
       "word": "一直想吃但真吃到却很失望的食物",
@@ -593,6 +617,14 @@
       "onboard_time": 1767320719,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 113698,
+      "num": 232197,
+      "word": "张凌赫走秀",
+      "onboard_time": 1767339021,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 112894,
@@ -627,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102775,
+      "num": 232054,
+      "word": "化妆的意义在此刻具象化了",
+      "onboard_time": 1767337220,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 101954,
       "num": 453149,
       "word": "央视跨年晚会上的女性",
@@ -643,20 +683,36 @@
       "category": "体育,综艺"
     },
     {
+      "raw_hot": 100443,
+      "num": 291940,
+      "word": "音乐缘计划",
+      "onboard_time": 1767338299,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 98448,
+      "num": 231798,
+      "word": "王源沉迷于演小品无法自拔",
+      "onboard_time": 1767337819,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 98296,
+      "num": 230948,
+      "word": "侯明昊演绿茶是有一套的",
+      "onboard_time": 1767338900,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98176,
       "num": 616205,
       "word": "林屿森聂曦光和好",
       "onboard_time": 1767274701,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 97749,
-      "num": 283547,
-      "word": "女生甲流高烧狗狗饿得啃面粉",
-      "onboard_time": 1767336979,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96087,
@@ -729,6 +785,14 @@
       "onboard_time": 1767326360,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 87909,
+      "num": 280725,
+      "word": "当哥哥第一次见刚出生弟弟",
+      "onboard_time": 1767336979,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 87349,
@@ -851,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79138,
+      "num": 231487,
+      "word": "新年最炸的爆款出现了",
+      "onboard_time": 1767338900,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 79056,
       "num": 380809,
       "word": "北京一餐厅跨年夜排队3000桌",
@@ -912,6 +984,14 @@
       "word": "猫 还要咪等多久啊妈妈",
       "onboard_time": 1767336199,
       "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 73849,
+      "num": 231129,
+      "word": "没人说世界进化成这样了啊",
+      "onboard_time": 1767337339,
+      "rank": 40,
       "category": "幽默"
     },
     {
@@ -1035,6 +1115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 65452,
+      "num": 230816,
+      "word": "港媒称樊振东效应引爆德国杯",
+      "onboard_time": 1767338779,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65302,
       "num": 281236,
       "word": "泡面饼越来越少",
@@ -1107,14 +1195,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 61419,
-      "num": 280725,
-      "word": "当哥哥第一次见刚出生弟弟",
-      "onboard_time": 1767336979,
-      "rank": 47,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 61313,
       "num": 613022,
       "word": "男子带妻儿开直升机回老家过元旦",
@@ -1171,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58116,
+      "num": 230441,
+      "word": "Wolves对战TE",
+      "onboard_time": 1767337580,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 58072,
       "num": 613470,
       "word": "5个技巧提高代谢水平",
@@ -1193,6 +1281,14 @@
       "onboard_time": 1767318738,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56411,
+      "num": 230243,
+      "word": "学生证优惠区间未盖章要补41元",
+      "onboard_time": 1767333619,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56311,
@@ -1313,6 +1409,14 @@
       "onboard_time": 1767329660,
       "rank": 43,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 49244,
+      "num": 742852,
+      "word": "2026第一场雪",
+      "onboard_time": 1767322400,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49210,
@@ -1459,6 +1563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 43494,
+      "num": 234936,
+      "word": "在长城哽咽背诗女孩回应走红",
+      "onboard_time": 1767338420,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43378,
       "num": 71148,
       "word": "2026年第二天",
@@ -1499,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41559,
+      "num": 231324,
+      "word": "离岸人民币兑美元升破6.97",
+      "onboard_time": 1767337819,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 40755,
       "num": 619565,
       "word": "白露的红夫人",
@@ -1529,14 +1649,6 @@
       "onboard_time": 1767320778,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 38388,
-      "num": 738470,
-      "word": "2026第一场雪",
-      "onboard_time": 1767322400,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37427,
@@ -1731,7 +1843,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 19749,
+      "raw_hot": 20035,
       "num": 598552,
       "word": "2026乘势而上阔步前行",
       "onboard_time": 1767323780,

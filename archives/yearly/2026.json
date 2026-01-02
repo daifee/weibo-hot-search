@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767337044479,
+  "endTime": 1767339134409,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -209,6 +209,14 @@
       "onboard_time": 1767327140,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 445966,
+      "num": 233159,
+      "word": "当我意识到姚晨在发圣地巡礼的时候",
+      "onboard_time": 1767338359,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 428471,
@@ -595,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233793,
+      "num": 284315,
+      "word": "原来真有人上班是开心的",
+      "onboard_time": 1767335660,
+      "rank": 31,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 232456,
       "num": 1005637,
       "word": "吃凉拌菜也减不了肥的原因",
@@ -633,6 +649,14 @@
       "onboard_time": 1767196407,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218209,
+      "num": 285217,
+      "word": "特朗普承认服用阿司匹林",
+      "onboard_time": 1767335598,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 214754,
@@ -699,6 +723,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 200600,
+      "num": 233775,
+      "word": "Faker获青龙勋章",
+      "onboard_time": 1767337280,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196582,
       "num": 225190,
       "word": "生命树",
@@ -737,6 +769,14 @@
       "onboard_time": 1767254419,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189772,
+      "num": 284765,
+      "word": "顶级夫妻关系是合起伙来对付这个世界",
+      "onboard_time": 1767335479,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 189468,
@@ -987,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166487,
+      "num": 283547,
+      "word": "女生甲流高烧狗狗饿得啃面粉",
+      "onboard_time": 1767336979,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166444,
       "num": 1003728,
       "word": "尔滨你是有点子浪漫在身上的",
@@ -1105,14 +1153,6 @@
       "onboard_time": 1767189751,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 158486,
-      "num": 285217,
-      "word": "特朗普承认服用阿司匹林",
-      "onboard_time": 1767335598,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 157412,
@@ -1395,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130668,
+      "num": 319009,
+      "word": "玉茗茶骨全员恶女长镜头",
+      "onboard_time": 1767335359,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130444,
       "num": 283033,
       "word": "柯淳对表演不热爱但敬畏",
@@ -1433,14 +1481,6 @@
       "onboard_time": 1767265280,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128257,
-      "num": 284765,
-      "word": "顶级夫妻关系是合起伙来对付这个世界",
-      "onboard_time": 1767335479,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 127981,
@@ -1595,28 +1635,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 117254,
-      "num": 319009,
-      "word": "玉茗茶骨全员恶女长镜头",
-      "onboard_time": 1767335359,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 116990,
       "num": 589160,
       "word": "爬楼机要爬上泰山了",
       "onboard_time": 1767246080,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116662,
-      "num": 284315,
-      "word": "原来真有人上班是开心的",
-      "onboard_time": 1767335660,
-      "rank": 31,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 116564,
@@ -1673,6 +1697,14 @@
       "onboard_time": 1767243561,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 113698,
+      "num": 232197,
+      "word": "张凌赫走秀",
+      "onboard_time": 1767339021,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 113261,
@@ -1851,6 +1883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102775,
+      "num": 232054,
+      "word": "化妆的意义在此刻具象化了",
+      "onboard_time": 1767337220,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 102628,
       "num": 856698,
       "word": "2026万事皆可期",
@@ -1873,6 +1913,14 @@
       "onboard_time": 1767197907,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 100443,
+      "num": 291940,
+      "word": "音乐缘计划",
+      "onboard_time": 1767338299,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 99776,
@@ -1907,20 +1955,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98448,
+      "num": 231798,
+      "word": "王源沉迷于演小品无法自拔",
+      "onboard_time": 1767337819,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 98296,
+      "num": 230948,
+      "word": "侯明昊演绿茶是有一套的",
+      "onboard_time": 1767338900,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98060,
       "num": 1386713,
       "word": "湖南卫视你好事做尽",
       "onboard_time": 1767193467,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 97749,
-      "num": 283547,
-      "word": "女生甲流高烧狗狗饿得啃面粉",
-      "onboard_time": 1767336979,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97140,
@@ -2113,6 +2169,14 @@
       "onboard_time": 1767326360,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 87909,
+      "num": 280725,
+      "word": "当哥哥第一次见刚出生弟弟",
+      "onboard_time": 1767336979,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 87749,
@@ -2337,70 +2401,6 @@
       "onboard_time": 1767323240,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 79727,
-      "num": 245221,
-      "word": "壁仞科技暴涨82%",
-      "onboard_time": 1767327319,
-      "rank": 26,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 79149,
-      "num": 379767,
-      "word": "黄景瑜只需微微一出手",
-      "onboard_time": 1767318199,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 79134,
-      "num": 241909,
-      "word": "玉茗茶骨这段让我想起了墨雨云间",
-      "onboard_time": 1767256280,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 79056,
-      "num": 380809,
-      "word": "北京一餐厅跨年夜排队3000桌",
-      "onboard_time": 1767310276,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 78860,
-      "num": 451752,
-      "word": "113分钟的电影废了我2包纸巾",
-      "onboard_time": 1767332960,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 78646,
-      "num": 402142,
-      "word": "反诈意识最强的老人出现了",
-      "onboard_time": 1767329419,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 78419,
-      "num": 316302,
-      "word": "茅台酒市场零售价格体系全面重塑",
-      "onboard_time": 1767230121,
-      "rank": 25,
-      "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 77807,
-      "num": 224559,
-      "word": "护发素洗头大法",
-      "onboard_time": 1767256100,
-      "rank": 30,
-      "category": "美妆"
     }
   ],
   "hotgov_list": [
