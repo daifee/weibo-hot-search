@@ -1,6 +1,6 @@
 {
   "startTime": 1767285375925,
-  "endTime": 1767336231744,
+  "endTime": 1767337044479,
   "band_list": [
     {
       "raw_hot": 602063,
@@ -51,6 +51,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 471559,
+      "num": 288106,
+      "word": "洛阳博物馆被曝一唐代陶马倒下断裂",
+      "onboard_time": 1767335479,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 454884,
       "num": 454884,
       "word": "爱吃蜂蜜小面包的人天塌了",
@@ -72,6 +80,14 @@
       "word": "美国患胎儿酒精综合症女子被赶出家",
       "onboard_time": 1767330260,
       "rank": 20,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 319723,
+      "num": 286337,
+      "word": "美国脑癌大爷硬抗斩杀线",
+      "onboard_time": 1767334819,
+      "rank": 21,
       "category": "海外新闻"
     },
     {
@@ -121,14 +137,6 @@
       "onboard_time": 1767322578,
       "rank": 6,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 272465,
-      "num": 149022,
-      "word": "美国脑癌大爷硬抗斩杀线",
-      "onboard_time": 1767334819,
-      "rank": 21,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 269000,
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 184609,
-      "num": 1026791,
+      "num": 1029226,
       "word": "美国关税大棒打了自己人",
       "onboard_time": 1767321680,
       "rank": 4,
@@ -331,8 +339,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 160246,
-      "num": 270720,
+      "raw_hot": 161304,
+      "num": 289001,
       "word": "无事妈妈给钱有事妈妈顶罪",
       "onboard_time": 1767333319,
       "rank": 6,
@@ -340,11 +348,19 @@
     },
     {
       "raw_hot": 159272,
-      "num": 148944,
+      "num": 282220,
       "word": "张钧甯 中国有自己的致命女人",
       "onboard_time": 1767335359,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 158486,
+      "num": 285217,
+      "word": "特朗普承认服用阿司匹林",
+      "onboard_time": 1767335598,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 157412,
@@ -372,7 +388,7 @@
     },
     {
       "raw_hot": 151916,
-      "num": 151916,
+      "num": 286960,
       "word": "原神前瞻",
       "onboard_time": 1767334819,
       "rank": 15,
@@ -385,14 +401,6 @@
       "onboard_time": 1767318021,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 149162,
-      "num": 149162,
-      "word": "洛阳博物馆被曝一唐代陶马倒下断裂",
-      "onboard_time": 1767335479,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146619,
@@ -427,6 +435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141639,
+      "num": 287447,
+      "word": "KPL",
+      "onboard_time": 1767336621,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136508,
       "num": 714235,
       "word": "冰雪大世界建了超大玫瑰冰瀑",
@@ -452,11 +468,19 @@
     },
     {
       "raw_hot": 130444,
-      "num": 148324,
+      "num": 283033,
       "word": "柯淳对表演不热爱但敬畏",
       "onboard_time": 1767334819,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128257,
+      "num": 284765,
+      "word": "顶级夫妻关系是合起伙来对付这个世界",
+      "onboard_time": 1767335479,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 127635,
@@ -531,12 +555,28 @@
       "category": "体育,民生新闻"
     },
     {
-      "raw_hot": 117329,
-      "num": 148567,
-      "word": "顶级夫妻关系是合起伙来对付这个世界",
-      "onboard_time": 1767335479,
+      "raw_hot": 117594,
+      "num": 284646,
+      "word": "谁懂石明鑫背刺文韬这段",
+      "onboard_time": 1767336500,
       "rank": 28,
-      "category": "情感"
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 117254,
+      "num": 319009,
+      "word": "玉茗茶骨全员恶女长镜头",
+      "onboard_time": 1767335359,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 116662,
+      "num": 284315,
+      "word": "原来真有人上班是开心的",
+      "onboard_time": 1767335660,
+      "rank": 31,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 114514,
@@ -561,6 +601,14 @@
       "onboard_time": 1767331759,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106374,
+      "num": 288622,
+      "word": "罚罪2能拍不能拍的都拍了",
+      "onboard_time": 1767333019,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 106169,
@@ -595,14 +643,6 @@
       "category": "体育,综艺"
     },
     {
-      "raw_hot": 98435,
-      "num": 262624,
-      "word": "玉茗茶骨全员恶女长镜头",
-      "onboard_time": 1767335359,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 98176,
       "num": 616205,
       "word": "林屿森聂曦光和好",
@@ -611,12 +651,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96464,
-      "num": 242074,
-      "word": "罚罪2能拍不能拍的都拍了",
-      "onboard_time": 1767333019,
-      "rank": 9,
-      "category": "剧集"
+      "raw_hot": 97749,
+      "num": 283547,
+      "word": "女生甲流高烧狗狗饿得啃面粉",
+      "onboard_time": 1767336979,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96087,
@@ -635,12 +675,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93115,
-      "num": 148196,
-      "word": "原来真有人上班是开心的",
-      "onboard_time": 1767335660,
-      "rank": 31,
-      "category": "情感,幽默"
+      "raw_hot": 93219,
+      "num": 283411,
+      "word": "伦纳德45分",
+      "onboard_time": 1767336078,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 91254,
@@ -652,7 +692,7 @@
     },
     {
       "raw_hot": 91111,
-      "num": 148040,
+      "num": 283151,
       "word": "奶茶和头发不可兼得",
       "onboard_time": 1767334879,
       "rank": 32,
@@ -673,14 +713,6 @@
       "onboard_time": 1767333919,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 88802,
-      "num": 148009,
-      "word": "特朗普承认服用阿司匹林",
-      "onboard_time": 1767335598,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 88371,
@@ -860,7 +892,7 @@
     },
     {
       "raw_hot": 75617,
-      "num": 147422,
+      "num": 281726,
       "word": "快船六连胜",
       "onboard_time": 1767335719,
       "rank": 37,
@@ -873,6 +905,14 @@
       "onboard_time": 1767334220,
       "rank": 40,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 74853,
+      "num": 282422,
+      "word": "猫 还要咪等多久啊妈妈",
+      "onboard_time": 1767336199,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 73664,
@@ -921,14 +961,6 @@
       "onboard_time": 1767309556,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 70940,
-      "num": 146800,
-      "word": "伦纳德45分",
-      "onboard_time": 1767336078,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 69859,
@@ -1003,6 +1035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 65302,
+      "num": 281236,
+      "word": "泡面饼越来越少",
+      "onboard_time": 1767336319,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 64993,
       "num": 535080,
       "word": "跨年一个人在冰岛看日出",
@@ -1028,7 +1068,7 @@
     },
     {
       "raw_hot": 63889,
-      "num": 146462,
+      "num": 280896,
       "word": "黑笔写白字原来是真的",
       "onboard_time": 1767336078,
       "rank": 44,
@@ -1067,6 +1107,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 61419,
+      "num": 280725,
+      "word": "当哥哥第一次见刚出生弟弟",
+      "onboard_time": 1767336979,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 61313,
       "num": 613022,
       "word": "男子带妻儿开直升机回老家过元旦",
@@ -1089,14 +1137,6 @@
       "onboard_time": 1767325519,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 59702,
-      "num": 146089,
-      "word": "猫 还要咪等多久啊妈妈",
-      "onboard_time": 1767336199,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 59425,
@@ -1300,7 +1340,7 @@
     },
     {
       "raw_hot": 48857,
-      "num": 147355,
+      "num": 282003,
       "word": "报国寺万年寺伏虎寺永久免票",
       "onboard_time": 1767334819,
       "rank": 38,
@@ -1347,6 +1387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 46012,
+      "num": 282648,
+      "word": "港股今日全线大涨",
+      "onboard_time": 1767334579,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 45980,
       "num": 402329,
       "word": "美国流感病例超750万",
@@ -1380,7 +1428,7 @@
     },
     {
       "raw_hot": 44761,
-      "num": 145962,
+      "num": 280384,
       "word": "重庆嬢嬢在比利时摆摊卖面月入6万",
       "onboard_time": 1767336078,
       "rank": 48,
@@ -1481,6 +1529,14 @@
       "onboard_time": 1767320778,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 38388,
+      "num": 738470,
+      "word": "2026第一场雪",
+      "onboard_time": 1767322400,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37427,
@@ -1675,15 +1731,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 20361,
-      "num": 723167,
-      "word": "2026第一场雪",
-      "onboard_time": 1767322400,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19651,
+      "raw_hot": 19749,
       "num": 598552,
       "word": "2026乘势而上阔步前行",
       "onboard_time": 1767323780,
