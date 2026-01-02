@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767358570205,
+  "endTime": 1767359423648,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -841,6 +841,14 @@
       "onboard_time": 1767160399,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 631419,
+      "num": 631419,
+      "word": "女子以为嫁给武警其实嫁给了杀人犯",
+      "onboard_time": 1767358040,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 627696,
@@ -2843,14 +2851,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 314040,
-      "num": 314040,
-      "word": "女子以为嫁给武警其实嫁给了杀人犯",
-      "onboard_time": 1767358040,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 312724,
       "num": 482619,
       "word": "孙颖莎当时第一时间汇报伤情",
@@ -2969,6 +2969,14 @@
       "onboard_time": 1767157041,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 303851,
+      "num": 1120850,
+      "word": "西安多个政务大厅搬进商场",
+      "onboard_time": 1767355701,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 302491,
@@ -3971,6 +3979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236299,
+      "num": 1118949,
+      "word": "车厘子价格暴跌近40%",
+      "onboard_time": 1767357020,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 236063,
       "num": 177164,
       "word": "1704公里超长续航SUV小鹏G7来了",
@@ -4123,20 +4139,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231173,
+      "num": 231173,
+      "word": "山姆被指多款商品货源与小象趋同",
+      "onboard_time": 1767355701,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 229307,
       "num": 229307,
       "word": "钎城没上场",
       "onboard_time": 1767356241,
       "rank": 21,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 229264,
-      "num": 229264,
-      "word": "山姆被指多款商品货源与小象趋同",
-      "onboard_time": 1767355701,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 228737,
@@ -4153,6 +4169,14 @@
       "onboard_time": 1766909901,
       "rank": 43,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 228187,
+      "num": 1000534,
+      "word": "音乐缘计划2年度盛典",
+      "onboard_time": 1767358822,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 227405,
@@ -4521,14 +4545,6 @@
       "onboard_time": 1766989881,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 209366,
-      "num": 1120850,
-      "word": "西安多个政务大厅搬进商场",
-      "onboard_time": 1767355701,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 209297,
@@ -4987,6 +5003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192347,
+      "num": 192347,
+      "word": "偶像团体snowman被点名",
+      "onboard_time": 1767354441,
+      "rank": 40,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 192306,
       "num": 192306,
       "word": "亲爱的客栈",
@@ -5067,6 +5091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190777,
+      "num": 1123227,
+      "word": "音乐缘计划2年度盛典后台直播",
+      "onboard_time": 1767358280,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190622,
       "num": 204088,
       "word": "肖战把角色名藏在新年祝福里",
@@ -5097,6 +5129,14 @@
       "onboard_time": 1766975178,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 190477,
+      "num": 190477,
+      "word": "闫妮廿年弹指一挥间",
+      "onboard_time": 1767359360,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 190436,
@@ -5363,14 +5403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 185994,
-      "num": 1123227,
-      "word": "音乐缘计划2年度盛典后台直播",
-      "onboard_time": 1767358280,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 185892,
       "num": 739246,
       "word": "微博之夜",
@@ -5508,7 +5540,7 @@
     },
     {
       "raw_hot": 182835,
-      "num": 182835,
+      "num": 185914,
       "word": "建议大家多去线下逛逛实体店",
       "onboard_time": 1767358101,
       "rank": 37,
@@ -5731,6 +5763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176532,
+      "num": 176532,
+      "word": "韩国最新涉台表态",
+      "onboard_time": 1767358640,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 176248,
       "num": 199199,
       "word": "苹果四曲屏",
@@ -5809,14 +5849,6 @@
       "onboard_time": 1767060320,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174266,
-      "num": 182801,
-      "word": "偶像团体snowman被点名",
-      "onboard_time": 1767354441,
-      "rank": 40,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 174004,
@@ -6473,14 +6505,6 @@
       "onboard_time": 1766914400,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 160783,
-      "num": 1118949,
-      "word": "车厘子价格暴跌近40%",
-      "onboard_time": 1767357020,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160647,
@@ -7433,6 +7457,14 @@
       "onboard_time": 1766913562,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 141662,
+      "num": 182766,
+      "word": "警方通报育儿嫂喂孩子安眠类药物",
+      "onboard_time": 1767357261,
+      "rank": 43,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 141639,
@@ -8843,14 +8875,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 122970,
-      "num": 182766,
-      "word": "警方通报育儿嫂喂孩子安眠类药物",
-      "onboard_time": 1767357261,
-      "rank": 43,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 122923,
       "num": 122923,
       "word": "王楚钦和梁靖崑儿子温馨互动",
@@ -9017,6 +9041,14 @@
       "onboard_time": 1767013162,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 121225,
+      "num": 121225,
+      "word": "Gr对战成都Wolves",
+      "onboard_time": 1767356361,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 121152,
@@ -9585,6 +9617,14 @@
       "onboard_time": 1767347000,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115082,
+      "num": 1116347,
+      "word": "六公主点赞剑来2含金量",
+      "onboard_time": 1767356241,
+      "rank": 9,
+      "category": "动漫"
     },
     {
       "raw_hot": 115066,
@@ -10547,6 +10587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105528,
+      "num": 105528,
+      "word": "小俞",
+      "onboard_time": 1767359242,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 105523,
       "num": 1016883,
       "word": "中国5年成绩单来了",
@@ -10729,6 +10777,14 @@
       "onboard_time": 1766911279,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 103915,
+      "num": 186283,
+      "word": "养自己的8个习惯",
+      "onboard_time": 1767358702,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 103855,
@@ -11883,14 +11939,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 94335,
-      "num": 1116347,
-      "word": "六公主点赞剑来2含金量",
-      "onboard_time": 1767356241,
-      "rank": 9,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 94279,
       "num": 214356,
       "word": "超10万人观看重庆首场跨年烟花秀",
@@ -11945,6 +11993,14 @@
       "onboard_time": 1766879537,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94024,
+      "num": 1015519,
+      "word": "骄阳似我 文旅宣传片",
+      "onboard_time": 1767353481,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 93892,
@@ -12249,14 +12305,6 @@
       "onboard_time": 1767172400,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 91353,
-      "num": 1015519,
-      "word": "骄阳似我 文旅宣传片",
-      "onboard_time": 1767353481,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 91336,
@@ -17531,6 +17579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39810,
+      "num": 209713,
+      "word": "贵金属全线上升",
+      "onboard_time": 1767354140,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 39731,
       "num": 588130,
       "word": "老奶购物法",
@@ -17617,14 +17673,6 @@
       "onboard_time": 1767251180,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38550,
-      "num": 209713,
-      "word": "贵金属全线上升",
-      "onboard_time": 1767354140,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 38546,
@@ -19051,6 +19099,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20882,
+      "num": 999750,
+      "word": "元旦假期消费新图鉴",
+      "onboard_time": 1767358822,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20763,
       "num": 214465,
       "word": "收紧锁链三面围岛关门打狗",
@@ -19569,6 +19625,14 @@
       "onboard_time": 1767151340,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7481,
+      "num": 1001067,
+      "word": "中国吸引外资韧性不减",
+      "onboard_time": 1767359360,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 7329,
