@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767368682296,
+  "endTime": 1767371718188,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -3123,6 +3123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 299936,
+      "num": 440703,
+      "word": "伊朗骚乱",
+      "onboard_time": 1767368908,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 299888,
       "num": 299888,
       "word": "江宏杰疑似回应福原爱",
@@ -3811,6 +3819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256749,
+      "num": 741799,
+      "word": "玉茗茶骨",
+      "onboard_time": 1766895679,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256699,
       "num": 200300,
       "word": "恋与深空",
@@ -3913,14 +3929,6 @@
       "onboard_time": 1766973440,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 249411,
-      "num": 741799,
-      "word": "玉茗茶骨",
-      "onboard_time": 1766895679,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 248663,
@@ -5057,6 +5065,14 @@
       "onboard_time": 1767242661,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194597,
+      "num": 440672,
+      "word": "赵今麦穿了林屿森的衣服",
+      "onboard_time": 1767370399,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 194560,
@@ -9595,6 +9611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117617,
+      "num": 440290,
+      "word": "张凌赫进行曲",
+      "onboard_time": 1767368730,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117594,
       "num": 284646,
       "word": "谁懂石明鑫背刺文韬这段",
@@ -11833,6 +11857,14 @@
       "onboard_time": 1767084500,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97654,
+      "num": 440604,
+      "word": "樊振东全英文接受采访",
+      "onboard_time": 1767368961,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 97404,
@@ -15139,6 +15171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70196,
+      "num": 439949,
+      "word": "赵今麦偷看弹幕被抓包",
+      "onboard_time": 1767369104,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70188,
       "num": 93551,
       "word": "期待孙颖莎满血回归",
@@ -16507,6 +16547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53272,
+      "num": 440421,
+      "word": "中概股全线大爆发",
+      "onboard_time": 1767369620,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 53105,
       "num": 111523,
       "word": "2026好运已加满",
@@ -16609,6 +16657,14 @@
       "onboard_time": 1767076941,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 51966,
+      "num": 728644,
+      "word": "海航空姐同款发簪长度为18cm",
+      "onboard_time": 1767367831,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51749,
@@ -17131,14 +17187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46992,
-      "num": 728644,
-      "word": "海航空姐同款发簪长度为18cm",
-      "onboard_time": 1767367831,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 46820,
       "num": 171117,
       "word": "宋威龙扛住了格莱美运镜",
@@ -17169,6 +17217,14 @@
       "onboard_time": 1767339619,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46459,
+      "num": 439993,
+      "word": "过家家",
+      "onboard_time": 1766942536,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 46404,
@@ -17459,14 +17515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 44326,
-      "num": 62627,
-      "word": "过家家",
-      "onboard_time": 1766942536,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 44287,
       "num": 121394,
       "word": "2025假如世界另有答案",
@@ -17625,6 +17673,14 @@
       "onboard_time": 1766999120,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42543,
+      "num": 439901,
+      "word": "印度饮用水污染致1400人患病10死",
+      "onboard_time": 1767368129,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 42438,
@@ -18297,6 +18353,14 @@
       "onboard_time": 1767155241,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 34966,
+      "num": 440126,
+      "word": "机械狗在东北打出溜滑",
+      "onboard_time": 1767369620,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 34758,
@@ -19225,14 +19289,6 @@
       "onboard_time": 1767161301,
       "rank": 16,
       "category": "艺人,美食"
-    },
-    {
-      "raw_hot": 22700,
-      "num": 199540,
-      "word": "印度饮用水污染致1400人患病10死",
-      "onboard_time": 1767368129,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 22663,
