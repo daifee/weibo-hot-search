@@ -1,6 +1,6 @@
 {
   "startTime": 1767285375925,
-  "endTime": 1767365166030,
+  "endTime": 1767367848916,
   "band_list": [
     {
       "raw_hot": 3566119,
@@ -211,6 +211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 392190,
+      "num": 899665,
+      "word": "在英国痛了7周到中国四天就治好了",
+      "onboard_time": 1767361522,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 384784,
       "num": 618136,
       "word": "重庆飞三亚航班紧急返航乘客发声",
@@ -219,12 +227,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 369042,
+      "num": 740189,
+      "word": "张本智和曾参拜东乡神社",
+      "onboard_time": 1767365550,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 362967,
       "num": 930830,
       "word": "FMVP皮肤",
       "onboard_time": 1767354981,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 357234,
+      "num": 743016,
+      "word": "何不同舟渡",
+      "onboard_time": 1767363261,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 355944,
@@ -243,20 +267,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 355275,
+      "num": 742575,
+      "word": "日本动漫屡次出现旭日旗731部队",
+      "onboard_time": 1767364702,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 352056,
       "num": 1028235,
       "word": "在上海花了一千块吃的汤泡饭",
       "onboard_time": 1767352700,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 343398,
-      "num": 899665,
-      "word": "在英国痛了7周到中国四天就治好了",
-      "onboard_time": 1767361522,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 341874,
@@ -435,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 247778,
+      "num": 740111,
+      "word": "上海月薪27000一天的花销",
+      "onboard_time": 1767365001,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241733,
       "num": 1029179,
       "word": "骄阳似我老小三气得冒鬼火",
@@ -563,20 +595,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210903,
-      "num": 420568,
-      "word": "上海月薪27000一天的花销",
-      "onboard_time": 1767365001,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 210207,
       "num": 616506,
       "word": "怪奇物语",
       "onboard_time": 1767272600,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208450,
+      "num": 734719,
+      "word": "薛之谦周深 占有",
+      "onboard_time": 1767367469,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 208125,
@@ -628,7 +660,7 @@
     },
     {
       "raw_hot": 196157,
-      "num": 539585,
+      "num": 737597,
       "word": "骄阳似我刷新腾讯纪录",
       "onboard_time": 1767364581,
       "rank": 6,
@@ -636,11 +668,19 @@
     },
     {
       "raw_hot": 193523,
-      "num": 420504,
+      "num": 733543,
       "word": "汪苏泷 我们",
       "onboard_time": 1767365121,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 191132,
+      "num": 738754,
+      "word": "骄阳似我热度已破29000",
+      "onboard_time": 1767366331,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 190777,
@@ -787,14 +827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173483,
-      "num": 623276,
-      "word": "何不同舟渡",
-      "onboard_time": 1767363261,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 172050,
       "num": 516077,
       "word": "骄阳似我剧粉盘",
@@ -808,6 +840,14 @@
       "word": "郭芙蓉欠的48两银子值多少钱",
       "onboard_time": 1767351260,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 170402,
+      "num": 730667,
+      "word": "赵今麦 高知事业型小聂总",
+      "onboard_time": 1767367101,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -932,7 +972,7 @@
     },
     {
       "raw_hot": 157241,
-      "num": 421052,
+      "num": 736873,
       "word": "特朗普称美国已做好准备",
       "onboard_time": 1767364702,
       "rank": 24,
@@ -964,7 +1004,7 @@
     },
     {
       "raw_hot": 152310,
-      "num": 420951,
+      "num": 731296,
       "word": "Gala决赛给Wei放狠话",
       "onboard_time": 1767364641,
       "rank": 25,
@@ -1041,6 +1081,14 @@
       "onboard_time": 1767357082,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 144994,
+      "num": 741799,
+      "word": "玉茗茶骨",
+      "onboard_time": 1767364462,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 144522,
@@ -1161,6 +1209,14 @@
       "onboard_time": 1767356601,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133227,
+      "num": 743971,
+      "word": "周冠宇 凯迪拉克",
+      "onboard_time": 1767364222,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 132328,
@@ -1347,14 +1403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120680,
-      "num": 420876,
-      "word": "玉茗茶骨",
-      "onboard_time": 1767364462,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120647,
       "num": 880737,
       "word": "樊振东新外号叫做Funny",
@@ -1539,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103013,
+      "num": 735736,
+      "word": "总台专访李在明",
+      "onboard_time": 1767366211,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 102775,
       "num": 244588,
       "word": "化妆的意义在此刻具象化了",
@@ -1561,6 +1617,14 @@
       "onboard_time": 1767312738,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101273,
+      "num": 734478,
+      "word": "寻秦记",
+      "onboard_time": 1767241160,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 100902,
@@ -1596,7 +1660,7 @@
     },
     {
       "raw_hot": 99452,
-      "num": 419453,
+      "num": 729832,
       "word": "王者中登场率几乎为0的皮肤",
       "onboard_time": 1767363801,
       "rank": 33,
@@ -1609,14 +1673,6 @@
       "onboard_time": 1767346880,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 99285,
-      "num": 603218,
-      "word": "寻秦记",
-      "onboard_time": 1767241160,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 98448,
@@ -2057,14 +2113,6 @@
       "onboard_time": 1767340940,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76636,
-      "num": 420816,
-      "word": "周冠宇 凯迪拉克",
-      "onboard_time": 1767364222,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 76428,
@@ -2555,6 +2603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56441,
+      "num": 728978,
+      "word": "剑来动画2",
+      "onboard_time": 1767367831,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 56434,
       "num": 124698,
       "word": "打翻深圳博物馆只需要一句对不起",
@@ -2899,6 +2955,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 43469,
+      "num": 728644,
+      "word": "海航空姐同款发簪长度为18cm",
+      "onboard_time": 1767367831,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43378,
       "num": 71148,
       "word": "2026年第二天",
@@ -2945,6 +3009,14 @@
       "onboard_time": 1767267020,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 42216,
+      "num": 732177,
+      "word": "农民工写作走红后生活没有明显改善",
+      "onboard_time": 1767366920,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42066,
@@ -3256,14 +3328,6 @@
       "word": "2026乘势而上阔步前行",
       "onboard_time": 1767323780,
       "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 17980,
-      "num": 422840,
-      "word": "日本动漫屡次出现旭日旗731部队",
-      "onboard_time": 1767364702,
-      "rank": 19,
       "category": "国内时政"
     },
     {
