@@ -1,0 +1,410 @@
+{
+  "runTime": 1767332042208,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 26501,
+        "num": 1004240,
+        "word": "2026第一场旅行",
+        "onboard_time": 1767314479,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 71764,
+        "num": 710759,
+        "word": "中国人造太阳实验又有新突破",
+        "onboard_time": 1767324079,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 67549,
+        "num": 552790,
+        "word": "2026国补怎么补",
+        "onboard_time": 1767323960,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 255508,
+        "num": 406798,
+        "word": "一人之下6",
+        "onboard_time": 1767322578,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 149908,
+        "num": 403566,
+        "word": "看完这一集不敢喝排骨汤了",
+        "onboard_time": 1767323481,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 402852,
+        "num": 402852,
+        "word": "爱吃蜂蜜小面包的人天塌了",
+        "onboard_time": 1767327140,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119072,
+        "num": 402836,
+        "word": "美国关税大棒打了自己人",
+        "onboard_time": 1767321680,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103008,
+        "num": 402831,
+        "word": "cp最好嗑的是烂人真心",
+        "onboard_time": 1767329781,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98114,
+        "num": 402813,
+        "word": "国产剧霸总的8000万像800块",
+        "onboard_time": 1767331820,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85897,
+        "num": 402792,
+        "word": "霍启刚庄严宣誓",
+        "onboard_time": 1767320239,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286789,
+        "num": 402783,
+        "word": "中彩票后先捐款再交税",
+        "onboard_time": 1767327260,
+        "rank": 10,
+        "category": "科学科普,幽默"
+      },
+      {
+        "raw_hot": 259547,
+        "num": 402762,
+        "word": "海航空姐统一戴长发簪遭质疑不安全",
+        "onboard_time": 1767323661,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243793,
+        "num": 402748,
+        "word": "泡面和煮面真的差很多",
+        "onboard_time": 1767325099,
+        "rank": 12,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 200271,
+        "num": 402724,
+        "word": "武林外传导演回应小郭自由了",
+        "onboard_time": 1767326840,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175204,
+        "num": 402718,
+        "word": "淡漠型人格",
+        "onboard_time": 1767326961,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144522,
+        "num": 402702,
+        "word": "星穹铁道火花",
+        "onboard_time": 1767330199,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119450,
+        "num": 402679,
+        "word": "金毛 各位下辈子再见",
+        "onboard_time": 1767326718,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108363,
+        "num": 402667,
+        "word": "袁祥仁去世",
+        "onboard_time": 1767317599,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97792,
+        "num": 402642,
+        "word": "骄阳似我剧粉盘",
+        "onboard_time": 1767325340,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46572,
+        "num": 402633,
+        "word": "湖南女生长城诵诗为何引全网共情",
+        "onboard_time": 1767330921,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355944,
+        "num": 402621,
+        "word": "美国患胎儿酒精综合症女子被赶出家",
+        "onboard_time": 1767330260,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 285150,
+        "num": 402600,
+        "word": "郭芙蓉自由了",
+        "onboard_time": 1767311777,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207021,
+        "num": 402575,
+        "word": "李维嘉跨年夜哭是因为想谢娜了",
+        "onboard_time": 1767327740,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97946,
+        "num": 402572,
+        "word": "一个月四千不多一个星期一千花不完",
+        "onboard_time": 1767330380,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96150,
+        "num": 402554,
+        "word": "千万粉丝网红成名前是洗头工",
+        "onboard_time": 1767327380,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 86515,
+        "num": 402531,
+        "word": "无限暖暖",
+        "onboard_time": 1767327980,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 83344,
+        "num": 402519,
+        "word": "恭喜郭芙蓉",
+        "onboard_time": 1767323899,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72370,
+        "num": 402494,
+        "word": "箱根驿传",
+        "onboard_time": 1767330199,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75221,
+        "num": 402489,
+        "word": "武林外传",
+        "onboard_time": 1767311596,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58789,
+        "num": 402477,
+        "word": "深圳刚需购房者500万难选到满意的房",
+        "onboard_time": 1767326900,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135889,
+        "num": 402457,
+        "word": "张杰演唱会抢票",
+        "onboard_time": 1767331160,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125334,
+        "num": 402441,
+        "word": "为什么海越深生物长得越诡异",
+        "onboard_time": 1767331940,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 120832,
+        "num": 402414,
+        "word": "我摆摊是为了赚钱不是让你来上货的",
+        "onboard_time": 1767330380,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81593,
+        "num": 402408,
+        "word": "无限暖暖2.1版本",
+        "onboard_time": 1767331400,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112443,
+        "num": 402383,
+        "word": "张信哲陈卓璇记忆点诠释BE美学",
+        "onboard_time": 1767331759,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65653,
+        "num": 402367,
+        "word": "日本精致的窘迫",
+        "onboard_time": 1767326360,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 49850,
+        "num": 402362,
+        "word": "假期请给大学生生活费",
+        "onboard_time": 1767331940,
+        "rank": 36,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 22142,
+        "num": 402335,
+        "word": "郑丽文出席中华民族祭祖大典",
+        "onboard_time": 1767331999,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 45980,
+        "num": 402329,
+        "word": "美国流感病例超750万",
+        "onboard_time": 1767330800,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104267,
+        "num": 402299,
+        "word": "刘嘉玲何赛飞吐槽内娱审美畸形",
+        "onboard_time": 1767331759,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64935,
+        "num": 402298,
+        "word": "森林进化论",
+        "onboard_time": 1767330020,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64940,
+        "num": 402271,
+        "word": "寻秦记 大大方方为情怀买单",
+        "onboard_time": 1767324320,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61600,
+        "num": 402261,
+        "word": "患病后送外卖硕士称不做长期规划",
+        "onboard_time": 1767325700,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31139,
+        "num": 402248,
+        "word": "上海消费者一年用国补省了5万",
+        "onboard_time": 1767330500,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36754,
+        "num": 402224,
+        "word": "南京大屠杀幸存者仅剩23位",
+        "onboard_time": 1767320719,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92002,
+        "num": 402215,
+        "word": "闫妮姚晨回应武林外传开播二十周年",
+        "onboard_time": 1767322280,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55910,
+        "num": 402193,
+        "word": "iPhone的新年仪式感",
+        "onboard_time": 1767331641,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 53648,
+        "num": 402183,
+        "word": "为什么运动后皮肤变好了",
+        "onboard_time": 1767320719,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 41359,
+        "num": 402152,
+        "word": "港股GPU第一股来了",
+        "onboard_time": 1767328519,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 55371,
+        "num": 402142,
+        "word": "反诈意识最强的老人出现了",
+        "onboard_time": 1767329419,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#贺词里的中国#"
+    }
+  }
+}
