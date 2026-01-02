@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/03 00:49:45
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/03 01:25:48
 </p>
 </blockquote>
 <p>
@@ -3507,6 +3507,12 @@ iPhone的新年仪式感（热度：55910）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232026%E7%AC%AC1%E5%A4%A91%E4%B8%87%E5%85%83%E5%86%85%E9%80%BE%E6%9C%9F%E7%BB%93%E6%B8%85%E8%80%85%E5%BE%81%E4%BF%A1%E6%B8%85%E9%9B%B6%23" target="weibo">
+2026第1天1万元内逾期结清者征信清零（热度：49798）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%9C%80%E9%80%82%E5%90%88%E4%BB%8A%E5%A4%A9%E5%94%B1%E7%9A%84%E6%AD%8C%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
 汪苏泷最适合今天唱的歌出现了（热度：49685）
 </a>
@@ -4059,6 +4065,12 @@ B站跨年晚会（热度：29330）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9A%96%E9%98%B3%E6%97%B6%E9%9A%94%E4%BA%94%E5%B9%B4%E5%86%8D%E8%8E%B7FMVP%23" target="weibo">
+暖阳时隔五年再获FMVP（热度：28090）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2350%E7%A7%92%E7%9C%8B%E4%B8%96%E7%95%8C%E5%A4%9A%E5%9B%BD%E8%B7%A8%E5%B9%B4%E7%83%9F%E8%8A%B1%E7%A7%80%23" target="weibo">
 50秒看世界多国跨年烟花秀（热度：27487）
 </a>
@@ -4127,6 +4139,12 @@ B站跨年晚会（热度：29330）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E5%8C%BF%E6%9D%80%23" target="weibo">
 电影匿杀（热度：22473）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E9%93%B6%E9%AB%98%E5%BC%80%23" target="weibo">
+国际金银高开（热度：22319）
 </a>
 </li>
 
