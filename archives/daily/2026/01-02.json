@@ -1,6 +1,6 @@
 {
   "startTime": 1767285375925,
-  "endTime": 1767359423648,
+  "endTime": 1767361186268,
   "band_list": [
     {
       "raw_hot": 3274133,
@@ -27,6 +27,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 913291,
+      "num": 631419,
+      "word": "女子以为嫁给武警其实嫁给了杀人犯",
+      "onboard_time": 1767358040,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 814910,
       "num": 1032160,
       "word": "怪不得实体店的衣服网上买不到",
@@ -51,11 +59,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 631419,
-      "num": 631419,
-      "word": "女子以为嫁给武警其实嫁给了杀人犯",
-      "onboard_time": 1767358040,
-      "rank": 17,
+      "raw_hot": 609117,
+      "num": 609117,
+      "word": "山姆被指多款商品货源与小象趋同",
+      "onboard_time": 1767355701,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -65,6 +73,14 @@
       "onboard_time": 1767274162,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 599176,
+      "num": 599176,
+      "word": "杨某人抽奖",
+      "onboard_time": 1767360623,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 596731,
@@ -155,6 +171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 390540,
+      "num": 605182,
+      "word": "给张凌赫递麦的是靳梦佳",
+      "onboard_time": 1767360142,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 384784,
       "num": 618136,
       "word": "重庆飞三亚航班紧急返航乘客发声",
@@ -180,7 +204,7 @@
     },
     {
       "raw_hot": 354719,
-      "num": 354719,
+      "num": 607154,
       "word": "FMVP皮肤",
       "onboard_time": 1767354981,
       "rank": 15,
@@ -291,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278505,
+      "num": 1118949,
+      "word": "车厘子价格暴跌近40%",
+      "onboard_time": 1767357020,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 276902,
       "num": 465812,
       "word": "一人之下6",
@@ -379,12 +411,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 236299,
-      "num": 1118949,
-      "word": "车厘子价格暴跌近40%",
-      "onboard_time": 1767357020,
-      "rank": 7,
-      "category": "民生新闻"
+      "raw_hot": 236887,
+      "num": 606599,
+      "word": "偶像团体snowman被点名",
+      "onboard_time": 1767354441,
+      "rank": 40,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 235792,
@@ -395,16 +427,16 @@
       "category": "数码,幽默"
     },
     {
-      "raw_hot": 231173,
-      "num": 231173,
-      "word": "山姆被指多款商品货源与小象趋同",
-      "onboard_time": 1767355701,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 234868,
+      "num": 804207,
+      "word": "骄阳似我热度",
+      "onboard_time": 1767360381,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 229307,
-      "num": 229307,
+      "num": 592716,
       "word": "钎城没上场",
       "onboard_time": 1767356241,
       "rank": 21,
@@ -428,7 +460,7 @@
     },
     {
       "raw_hot": 222230,
-      "num": 222230,
+      "num": 593294,
       "word": "姚晨把武林外传地名走了一遍",
       "onboard_time": 1767354861,
       "rank": 23,
@@ -452,7 +484,7 @@
     },
     {
       "raw_hot": 215268,
-      "num": 215268,
+      "num": 598570,
       "word": "金价飙升原因找到了",
       "onboard_time": 1767357261,
       "rank": 25,
@@ -531,6 +563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200680,
+      "num": 603987,
+      "word": "韩国最新涉台表态",
+      "onboard_time": 1767358640,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 200600,
       "num": 251348,
       "word": "Faker获青龙勋章",
@@ -540,7 +580,7 @@
     },
     {
       "raw_hot": 200488,
-      "num": 183775,
+      "num": 599088,
       "word": "姚晨再发短片纪念武林外传",
       "onboard_time": 1767356241,
       "rank": 34,
@@ -548,19 +588,11 @@
     },
     {
       "raw_hot": 199891,
-      "num": 199891,
+      "num": 595042,
       "word": "暖阳 FMVP皮肤还没考虑好",
       "onboard_time": 1767357620,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 192347,
-      "num": 192347,
-      "word": "偶像团体snowman被点名",
-      "onboard_time": 1767354441,
-      "rank": 40,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 190777,
@@ -572,7 +604,7 @@
     },
     {
       "raw_hot": 190477,
-      "num": 190477,
+      "num": 591290,
       "word": "闫妮廿年弹指一挥间",
       "onboard_time": 1767359360,
       "rank": 24,
@@ -652,7 +684,7 @@
     },
     {
       "raw_hot": 182835,
-      "num": 185914,
+      "num": 597127,
       "word": "建议大家多去线下逛逛实体店",
       "onboard_time": 1767358101,
       "rank": 37,
@@ -683,20 +715,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180050,
+      "num": 603496,
+      "word": "酒店泄露妻子视频险致夫妻离婚",
+      "onboard_time": 1767359422,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177218,
       "num": 451537,
       "word": "武林外传",
       "onboard_time": 1767311596,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 176532,
-      "num": 176532,
-      "word": "韩国最新涉台表态",
-      "onboard_time": 1767358640,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 174850,
@@ -737,6 +769,14 @@
       "onboard_time": 1767338299,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167278,
+      "num": 601827,
+      "word": "年锦是神",
+      "onboard_time": 1767360202,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 166620,
@@ -809,6 +849,14 @@
       "onboard_time": 1767333319,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160823,
+      "num": 599436,
+      "word": "小俞",
+      "onboard_time": 1767359242,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 159272,
@@ -956,7 +1004,7 @@
     },
     {
       "raw_hot": 141662,
-      "num": 182766,
+      "num": 595591,
       "word": "警方通报育儿嫂喂孩子安眠类药物",
       "onboard_time": 1767357261,
       "rank": 43,
@@ -1009,6 +1057,14 @@
       "onboard_time": 1767338900,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135816,
+      "num": 597622,
+      "word": "Gr对战成都Wolves",
+      "onboard_time": 1767356361,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 135398,
@@ -1131,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122734,
+      "num": 595856,
+      "word": "宋威龙小发雷霆",
+      "onboard_time": 1767360981,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122722,
       "num": 487892,
       "word": "花海KPL管培生上线",
@@ -1185,14 +1249,6 @@
       "onboard_time": 1767352460,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121225,
-      "num": 121225,
-      "word": "Gr对战成都Wolves",
-      "onboard_time": 1767356361,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 121031,
@@ -1355,16 +1411,8 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 105528,
-      "num": 105528,
-      "word": "小俞",
-      "onboard_time": 1767359242,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 103915,
-      "num": 186283,
+      "num": 601304,
       "word": "养自己的8个习惯",
       "onboard_time": 1767358702,
       "rank": 27,
@@ -1601,6 +1649,14 @@
       "onboard_time": 1767336979,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 87550,
+      "num": 592132,
+      "word": "外卖平台回应骑手1分钟实测42秒",
+      "onboard_time": 1767361161,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87349,
@@ -1969,6 +2025,14 @@
       "onboard_time": 1767309556,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 71191,
+      "num": 605566,
+      "word": "巨型墙画所在村有商贩日入超2万元",
+      "onboard_time": 1767359481,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70418,
@@ -2748,7 +2812,7 @@
     },
     {
       "raw_hot": 39810,
-      "num": 209713,
+      "num": 600228,
       "word": "贵金属全线上升",
       "onboard_time": 1767354140,
       "rank": 27,
@@ -2883,6 +2947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31845,
+      "num": 1001067,
+      "word": "中国吸引外资韧性不减",
+      "onboard_time": 1767359360,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 31598,
       "num": 187272,
       "word": "蔡磊称拯救渐冻症患者不用回报",
@@ -2947,6 +3019,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 25076,
+      "num": 999750,
+      "word": "元旦假期消费新图鉴",
+      "onboard_time": 1767358822,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23362,
       "num": 104489,
       "word": "刘宇宁青春呐温暖前行",
@@ -2984,14 +3064,6 @@
       "word": "高铁清洁袋成新型漂流瓶",
       "onboard_time": 1767327140,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20882,
-      "num": 999750,
-      "word": "元旦假期消费新图鉴",
-      "onboard_time": 1767358822,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -3055,14 +3127,6 @@
       "num": 593805,
       "word": "这些世界第一里满满中国实力",
       "onboard_time": 1767253401,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 7481,
-      "num": 1001067,
-      "word": "中国吸引外资韧性不减",
-      "onboard_time": 1767359360,
       "rank": 2,
       "category": "国内时政"
     }
