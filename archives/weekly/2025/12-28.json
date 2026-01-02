@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767343960744,
+  "endTime": 1767346425812,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -2467,6 +2467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 336708,
+      "num": 163178,
+      "word": "妈妈住院缺席儿子婚礼后病房改新房",
+      "onboard_time": 1767342498,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 335345,
       "num": 247282,
       "word": "王星说恋爱4年没结婚是因为结不起",
@@ -2697,6 +2705,14 @@
       "onboard_time": 1767097222,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 316279,
+      "num": 1050604,
+      "word": "闪迪股价飙涨559%",
+      "onboard_time": 1767340460,
+      "rank": 3,
+      "category": "财经"
     },
     {
       "raw_hot": 315422,
@@ -3363,6 +3379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268842,
+      "num": 203488,
+      "word": "WB对战RW",
+      "onboard_time": 1767341059,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 268507,
       "num": 284315,
       "word": "原来真有人上班是开心的",
@@ -3635,14 +3659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 250971,
-      "num": 203488,
-      "word": "WB对战RW",
-      "onboard_time": 1767341059,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 250348,
       "num": 1004756,
       "word": "逍遥",
@@ -3833,6 +3849,14 @@
       "onboard_time": 1766985022,
       "rank": 23,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 235792,
+      "num": 758009,
+      "word": "20块和2000块相机差距",
+      "onboard_time": 1767339979,
+      "rank": 8,
+      "category": "数码,幽默"
     },
     {
       "raw_hot": 235700,
@@ -4195,12 +4219,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 215431,
+      "num": 178153,
+      "word": "沙溢发文纪念武林外传20周年",
+      "onboard_time": 1767342321,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214896,
       "num": 190043,
       "word": "袁一琦保密协议到期了",
       "onboard_time": 1767104001,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214873,
+      "num": 214873,
+      "word": "骄阳似我年度计划复盘会",
+      "onboard_time": 1767345501,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 214780,
@@ -4281,14 +4321,6 @@
       "onboard_time": 1767105202,
       "rank": 30,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 210511,
-      "num": 178153,
-      "word": "沙溢发文纪念武林外传20周年",
-      "onboard_time": 1767342321,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 210132,
@@ -5395,6 +5427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 177411,
+      "num": 129092,
+      "word": "宝宝昏睡不醒体内查出安眠药成分",
+      "onboard_time": 1767344720,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177218,
       "num": 451537,
       "word": "武林外传",
@@ -5561,14 +5601,6 @@
       "onboard_time": 1767233362,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 172863,
-      "num": 784072,
-      "word": "闪迪股价飙涨559%",
-      "onboard_time": 1767340460,
-      "rank": 3,
-      "category": "财经"
     },
     {
       "raw_hot": 172640,
@@ -6659,6 +6691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148560,
+      "num": 181492,
+      "word": "个人缴纳社保你会交多少年",
+      "onboard_time": 1767342200,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148381,
       "num": 148381,
       "word": "QQ你有这功能怎么不早说",
@@ -6841,6 +6881,14 @@
       "onboard_time": 1767234861,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144977,
+      "num": 144977,
+      "word": "周冠宇方回应离开法拉利",
+      "onboard_time": 1767344180,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 144739,
@@ -7515,14 +7563,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 134609,
-      "num": 181492,
-      "word": "个人缴纳社保你会交多少年",
-      "onboard_time": 1767342200,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134541,
       "num": 148407,
       "word": "没人能逃过湖南卫视的跨年盛宴",
@@ -7617,6 +7657,14 @@
       "onboard_time": 1767158000,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132328,
+      "num": 132328,
+      "word": "暖阳决赛首局MVP",
+      "onboard_time": 1767345920,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 132286,
@@ -8019,6 +8067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127091,
+      "num": 127091,
+      "word": "瑞士历史上最严重的悲剧之一",
+      "onboard_time": 1767345320,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 126795,
       "num": 451620,
       "word": "千万粉丝网红成名前是洗头工",
@@ -8049,6 +8105,14 @@
       "onboard_time": 1766898022,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126498,
+      "num": 126498,
+      "word": "洛阳博物馆通报唐代陶马倒下断裂",
+      "onboard_time": 1767345261,
+      "rank": 32,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 126433,
@@ -9427,6 +9491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 112071,
+      "num": 204300,
+      "word": "海航客服称空姐戴长发簪无安全隐患",
+      "onboard_time": 1767342259,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111913,
       "num": 111913,
       "word": "现在就出发",
@@ -10331,6 +10403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 102562,
+      "num": 125367,
+      "word": "张远演唱会MAMA首秀",
+      "onboard_time": 1767344420,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 102493,
       "num": 102417,
       "word": "白银升为全球第三大资产",
@@ -10400,6 +10480,14 @@
       "word": "金店店员忙晕了",
       "onboard_time": 1767074900,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101828,
+      "num": 126420,
+      "word": "幼儿园园长回应篮球表演失误出圈",
+      "onboard_time": 1767345679,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -10833,14 +10921,6 @@
       "onboard_time": 1767056541,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98520,
-      "num": 217909,
-      "word": "20块和2000块相机差距",
-      "onboard_time": 1767339979,
-      "rank": 8,
-      "category": "数码,幽默"
     },
     {
       "raw_hot": 98448,
@@ -11907,6 +11987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89473,
+      "num": 164207,
+      "word": "小城大事",
+      "onboard_time": 1767145700,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89461,
       "num": 89461,
       "word": "2025国际冰川保护年",
@@ -12035,14 +12123,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 88476,
-      "num": 159025,
-      "word": "小城大事",
-      "onboard_time": 1767145700,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 88371,
       "num": 116054,
       "word": "国家发改委提前下达约2950亿元",
@@ -12089,14 +12169,6 @@
       "onboard_time": 1767166160,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 88090,
-      "num": 204300,
-      "word": "海航客服称空姐戴长发簪无安全隐患",
-      "onboard_time": 1767342259,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88067,
@@ -12217,6 +12289,14 @@
       "onboard_time": 1767314479,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 87347,
+      "num": 126326,
+      "word": "银价又大涨",
+      "onboard_time": 1767345201,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 87239,
@@ -12811,6 +12891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83272,
+      "num": 125860,
+      "word": "瑞士爆炸遇难者朋友称现场像恐怖片",
+      "onboard_time": 1767344540,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 83223,
       "num": 197765,
       "word": "做CT到底伤不伤身体",
@@ -12993,6 +13081,14 @@
       "onboard_time": 1767258440,
       "rank": 40,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 82068,
+      "num": 241087,
+      "word": "Wolves对战TE",
+      "onboard_time": 1767337580,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 82029,
@@ -13361,14 +13457,6 @@
       "onboard_time": 1767020427,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 78116,
-      "num": 163178,
-      "word": "妈妈住院缺席儿子婚礼后病房改新房",
-      "onboard_time": 1767342498,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78093,
@@ -13851,6 +13939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73315,
+      "num": 158381,
+      "word": "寻秦记 穿越",
+      "onboard_time": 1767343880,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 73206,
       "num": 3934534,
       "word": "三台联唱更好的自己",
@@ -13968,6 +14064,14 @@
       "word": "一代人有一代人的鲁冰花",
       "onboard_time": 1767240081,
       "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 71789,
+      "num": 125610,
+      "word": "如果前无古人就是震撼首发的意思",
+      "onboard_time": 1767345261,
+      "rank": 42,
       "category": "幽默"
     },
     {
@@ -14651,6 +14755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63272,
+      "num": 125168,
+      "word": "苏打切移形",
+      "onboard_time": 1767346399,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 63048,
       "num": 378919,
       "word": "渐冻症女孩重生兼职赚生活费",
@@ -14667,6 +14779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62782,
+      "num": 126803,
+      "word": "港股大涨原因",
+      "onboard_time": 1767345860,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 62764,
       "num": 62764,
       "word": "年底有种兴奋之感",
@@ -14681,6 +14801,14 @@
       "onboard_time": 1767321140,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 62660,
+      "num": 126257,
+      "word": "一位普通北京市民的2025年消费记录",
+      "onboard_time": 1767344479,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62612,
@@ -14857,14 +14985,6 @@
       "onboard_time": 1767110899,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 60678,
-      "num": 158381,
-      "word": "寻秦记 穿越",
-      "onboard_time": 1767343880,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 60673,
@@ -15081,14 +15201,6 @@
       "onboard_time": 1767165140,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 58116,
-      "num": 241087,
-      "word": "Wolves对战TE",
-      "onboard_time": 1767337580,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 57896,
@@ -15651,6 +15763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50028,
+      "num": 124976,
+      "word": "八达岭邀请背诗女孩再游长城",
+      "onboard_time": 1767346160,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49960,
       "num": 112631,
       "word": "王楚钦挥手回应球迷新年祝福",
@@ -15817,6 +15937,14 @@
       "onboard_time": 1767322999,
       "rank": 40,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 48588,
+      "num": 124896,
+      "word": "上海元旦登记结婚1551对",
+      "onboard_time": 1767345139,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48503,
@@ -17587,6 +17715,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 28189,
+      "num": 614372,
+      "word": "中国电影2026向新而行",
+      "onboard_time": 1767341540,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27940,
       "num": 36847,
       "word": "王俊凯热爱以时间淬炼",
@@ -17713,14 +17849,6 @@
       "onboard_time": 1767163879,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26451,
-      "num": 614372,
-      "word": "中国电影2026向新而行",
-      "onboard_time": 1767341540,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 26358,
