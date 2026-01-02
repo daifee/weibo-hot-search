@@ -1,6 +1,6 @@
 {
   "startTime": 1767285375925,
-  "endTime": 1767327415436,
+  "endTime": 1767329971361,
   "band_list": [
     {
       "raw_hot": 602063,
@@ -17,6 +17,14 @@
       "onboard_time": 1767325099,
       "rank": 5,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 510531,
+      "num": 322310,
+      "word": "中彩票后先捐款再交税",
+      "onboard_time": 1767327260,
+      "rank": 30,
+      "category": "科学科普,幽默"
     },
     {
       "raw_hot": 506183,
@@ -51,6 +59,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 314272,
+      "num": 314272,
+      "word": "无限暖暖",
+      "onboard_time": 1767327980,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 300600,
       "num": 510971,
       "word": "长期不换各种社交头像",
@@ -59,8 +75,32 @@
       "category": "情感"
     },
     {
+      "raw_hot": 279044,
+      "num": 255707,
+      "word": "李维嘉跨年夜哭是因为想谢娜了",
+      "onboard_time": 1767327740,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 278047,
+      "num": 278047,
+      "word": "爱吃蜂蜜小面包的人天塌了",
+      "onboard_time": 1767327140,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 276902,
+      "num": 440658,
+      "word": "一人之下6",
+      "onboard_time": 1767322578,
+      "rank": 6,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 269000,
-      "num": 162483,
+      "num": 258864,
       "word": "海航空姐统一戴长发簪遭质疑不安全",
       "onboard_time": 1767323661,
       "rank": 11,
@@ -68,7 +108,7 @@
     },
     {
       "raw_hot": 264939,
-      "num": 161473,
+      "num": 255353,
       "word": "鹅鸭杀官宣主理人大司马",
       "onboard_time": 1767326299,
       "rank": 12,
@@ -76,7 +116,7 @@
     },
     {
       "raw_hot": 259335,
-      "num": 160466,
+      "num": 258736,
       "word": "恭喜郭芙蓉",
       "onboard_time": 1767323899,
       "rank": 10,
@@ -124,7 +164,7 @@
     },
     {
       "raw_hot": 187026,
-      "num": 158253,
+      "num": 250359,
       "word": "虽然个子矮却很全能",
       "onboard_time": 1767323240,
       "rank": 13,
@@ -132,7 +172,7 @@
     },
     {
       "raw_hot": 184609,
-      "num": 184609,
+      "num": 361496,
       "word": "美国关税大棒打了自己人",
       "onboard_time": 1767321680,
       "rank": 4,
@@ -171,14 +211,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 168917,
-      "num": 168917,
-      "word": "一人之下6",
-      "onboard_time": 1767322578,
-      "rank": 6,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 166620,
       "num": 382967,
       "word": "霍启刚庄严宣誓",
@@ -196,7 +228,7 @@
     },
     {
       "raw_hot": 164877,
-      "num": 156618,
+      "num": 254166,
       "word": "寻秦记 大大方方为情怀买单",
       "onboard_time": 1767324320,
       "rank": 21,
@@ -236,11 +268,19 @@
     },
     {
       "raw_hot": 142000,
-      "num": 156634,
+      "num": 257095,
       "word": "患病后送外卖硕士称不做长期规划",
       "onboard_time": 1767325700,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137456,
+      "num": 257789,
+      "word": "淡漠型人格",
+      "onboard_time": 1767326961,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 136508,
@@ -267,16 +307,16 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 125190,
-      "num": 125190,
-      "word": "中彩票后先捐款再交税",
-      "onboard_time": 1767327260,
-      "rank": 30,
-      "category": "科学科普,幽默"
+      "raw_hot": 126795,
+      "num": 254944,
+      "word": "千万粉丝网红成名前是洗头工",
+      "onboard_time": 1767327380,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 121777,
-      "num": 156528,
+      "num": 249724,
       "word": "老板0秒听懂1秒接受2秒加入",
       "onboard_time": 1767323600,
       "rank": 30,
@@ -289,6 +329,14 @@
       "onboard_time": 1767313218,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121695,
+      "num": 252594,
+      "word": "闫妮姚晨回应武林外传开播二十周年",
+      "onboard_time": 1767322280,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 121031,
@@ -315,8 +363,16 @@
       "category": "体育,民生新闻"
     },
     {
+      "raw_hot": 117337,
+      "num": 251959,
+      "word": "金毛 各位下辈子再见",
+      "onboard_time": 1767326718,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114514,
-      "num": 156667,
+      "num": 246233,
       "word": "一直想吃但真吃到却很失望的食物",
       "onboard_time": 1767321680,
       "rank": 16,
@@ -329,6 +385,14 @@
       "onboard_time": 1767320719,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 107609,
+      "num": 254278,
+      "word": "武林外传导演回应小郭自由了",
+      "onboard_time": 1767326840,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 101954,
@@ -353,6 +417,14 @@
       "onboard_time": 1767274701,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95948,
+      "num": 250890,
+      "word": "田亮晒一家新年全家福",
+      "onboard_time": 1767329540,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 91254,
@@ -380,7 +452,7 @@
     },
     {
       "raw_hot": 87924,
-      "num": 156510,
+      "num": 251932,
       "word": "日本精致的窘迫",
       "onboard_time": 1767326360,
       "rank": 32,
@@ -412,15 +484,23 @@
     },
     {
       "raw_hot": 85683,
-      "num": 156515,
+      "num": 251497,
       "word": "小马美甲",
       "onboard_time": 1767324858,
       "rank": 31,
       "category": "美妆,休闲"
     },
     {
+      "raw_hot": 84554,
+      "num": 247114,
+      "word": "宋威龙最近就这样在我主页刷屏",
+      "onboard_time": 1767329060,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 84465,
-      "num": 745869,
+      "num": 747751,
       "word": "中国人造太阳实验又有新突破",
       "onboard_time": 1767324079,
       "rank": 1,
@@ -428,7 +508,7 @@
     },
     {
       "raw_hot": 83903,
-      "num": 156577,
+      "num": 248684,
       "word": "香港人第一次搓澡的体验",
       "onboard_time": 1767323539,
       "rank": 25,
@@ -468,7 +548,7 @@
     },
     {
       "raw_hot": 79727,
-      "num": 125535,
+      "num": 245221,
       "word": "壁仞科技暴涨82%",
       "onboard_time": 1767327319,
       "rank": 26,
@@ -491,12 +571,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78646,
+      "num": 327954,
+      "word": "反诈意识最强的老人出现了",
+      "onboard_time": 1767329419,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 76428,
       "num": 627053,
       "word": "二十年快滴很 弹指一挥间",
       "onboard_time": 1767283939,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73664,
+      "num": 256570,
+      "word": "深圳刚需购房者500万难选到满意的房",
+      "onboard_time": 1767326900,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73363,
@@ -539,6 +635,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 69554,
+      "num": 258378,
+      "word": "港股GPU第一股来了",
+      "onboard_time": 1767328519,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 68775,
       "num": 638737,
       "word": "小猫生了一模一样的自己",
@@ -555,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 68144,
+      "num": 250571,
+      "word": "过年时候的满级好状态",
+      "onboard_time": 1767328639,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 67774,
       "num": 635756,
       "word": "2026年生娃基本不花钱",
@@ -563,16 +675,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 66181,
-      "num": 125365,
-      "word": "千万粉丝网红成名前是洗头工",
-      "onboard_time": 1767327380,
-      "rank": 28,
-      "category": "网红"
+      "raw_hot": 67581,
+      "num": 256348,
+      "word": "cp最好嗑的是烂人真心",
+      "onboard_time": 1767329781,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 65980,
-      "num": 125081,
+      "num": 249226,
       "word": "和领导同一天休息感觉很亏",
       "onboard_time": 1767327019,
       "rank": 35,
@@ -580,18 +692,10 @@
     },
     {
       "raw_hot": 65956,
-      "num": 156559,
+      "num": 246885,
       "word": "养了一只不扫兴的猫",
       "onboard_time": 1767322222,
       "rank": 27,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 65324,
-      "num": 124968,
-      "word": "爱吃蜂蜜小面包的人天塌了",
-      "onboard_time": 1767327140,
-      "rank": 39,
       "category": "幽默"
     },
     {
@@ -657,22 +761,6 @@
       "onboard_time": 1767319938,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 60476,
-      "num": 156444,
-      "word": "金毛 各位下辈子再见",
-      "onboard_time": 1767326718,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 60402,
-      "num": 124932,
-      "word": "淡漠型人格",
-      "onboard_time": 1767326961,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 60396,
@@ -803,14 +891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 50190,
-      "num": 127131,
-      "word": "深圳刚需购房者500万难选到满意的房",
-      "onboard_time": 1767326900,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 50162,
       "num": 611808,
       "word": "对方不回消息却发朋友圈",
@@ -833,6 +913,14 @@
       "onboard_time": 1767260899,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49250,
+      "num": 247541,
+      "word": "苹果竟然还可以做棉花糖",
+      "onboard_time": 1767329660,
+      "rank": 43,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 49210,
@@ -859,14 +947,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 48800,
-      "num": 156399,
-      "word": "武林外传导演回应小郭自由了",
-      "onboard_time": 1767326840,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 48624,
       "num": 156427,
       "word": "一人之下第六季开播",
@@ -889,6 +969,14 @@
       "onboard_time": 1767326840,
       "rank": 48,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 47129,
+      "num": 245828,
+      "word": "一路繁花第二季群像封神",
+      "onboard_time": 1767329300,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 46017,
