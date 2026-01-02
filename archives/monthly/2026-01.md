@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/03 01:25:48
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/03 01:43:06
 </p>
 </blockquote>
 <p>
@@ -3231,6 +3231,12 @@ DeepSeek元旦新论文（热度：62612）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232026%E7%AC%AC1%E5%A4%A91%E4%B8%87%E5%85%83%E5%86%85%E9%80%BE%E6%9C%9F%E7%BB%93%E6%B8%85%E8%80%85%E5%BE%81%E4%BF%A1%E6%B8%85%E9%9B%B6%23" target="weibo">
+2026第1天1万元内逾期结清者征信清零（热度：62297）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%83%E8%BF%98%E7%9F%A5%E9%81%93%E5%BC%80%E5%87%89%E6%B0%B4%23" target="weibo">
 它还知道开凉水（热度：62236）
 </a>
@@ -3501,14 +3507,14 @@ iPhone的新年仪式感（热度：55910）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E6%9C%9F%E8%AF%B7%E7%BB%99%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%94%9F%E6%B4%BB%E8%B4%B9%23" target="weibo">
-假期请给大学生生活费（热度：49850）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B72026%E7%AC%AC%E4%B8%80%E8%B8%B9%23" target="weibo">
+汪苏泷2026第一踹（热度：50137）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%232026%E7%AC%AC1%E5%A4%A91%E4%B8%87%E5%85%83%E5%86%85%E9%80%BE%E6%9C%9F%E7%BB%93%E6%B8%85%E8%80%85%E5%BE%81%E4%BF%A1%E6%B8%85%E9%9B%B6%23" target="weibo">
-2026第1天1万元内逾期结清者征信清零（热度：49798）
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E6%9C%9F%E8%AF%B7%E7%BB%99%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%94%9F%E6%B4%BB%E8%B4%B9%23" target="weibo">
+假期请给大学生生活费（热度：49850）
 </a>
 </li>
 
@@ -4066,7 +4072,7 @@ B站跨年晚会（热度：29330）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%96%E9%98%B3%E6%97%B6%E9%9A%94%E4%BA%94%E5%B9%B4%E5%86%8D%E8%8E%B7FMVP%23" target="weibo">
-暖阳时隔五年再获FMVP（热度：28090）
+暖阳时隔五年再获FMVP（热度：28358）
 </a>
 </li>
 

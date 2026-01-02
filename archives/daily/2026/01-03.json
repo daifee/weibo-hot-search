@@ -1,6 +1,6 @@
 {
   "startTime": 1767371718188,
-  "endTime": 1767374748940,
+  "endTime": 1767375786704,
   "band_list": [
     {
       "raw_hot": 459140,
@@ -291,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62297,
+      "num": 233959,
+      "word": "2026第1天1万元内逾期结清者征信清零",
+      "onboard_time": 1767373637,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61415,
       "num": 440258,
       "word": "警方通报育儿嫂喂孩子安眠类药物",
@@ -331,20 +339,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50137,
+      "num": 207439,
+      "word": "汪苏泷2026第一踹",
+      "onboard_time": 1767374898,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 49967,
       "num": 440024,
       "word": "心疼今屿",
       "onboard_time": 1767352822,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 49798,
-      "num": 233959,
-      "word": "2026第1天1万元内逾期结清者征信清零",
-      "onboard_time": 1767373637,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 46459,
@@ -427,20 +435,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 28358,
+      "num": 233155,
+      "word": "暖阳时隔五年再获FMVP",
+      "onboard_time": 1767374477,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 28139,
       "num": 439813,
       "word": "幼儿园园长回应篮球表演失误出圈",
       "onboard_time": 1767345679,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28090,
-      "num": 233155,
-      "word": "暖阳时隔五年再获FMVP",
-      "onboard_time": 1767374477,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 24067,
@@ -459,6 +467,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23343,
+      "num": 207366,
+      "word": "梓墨值得",
+      "onboard_time": 1767355882,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 22895,
+      "num": 207357,
+      "word": "人之初",
+      "onboard_time": 1767352940,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22319,
       "num": 232665,
       "word": "国际金银高开",
@@ -475,7 +499,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 13103,
+      "raw_hot": 17085,
       "num": 240276,
       "word": "元旦假期消费新图鉴",
       "onboard_time": 1767358822,
