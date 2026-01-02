@@ -1,6 +1,6 @@
 {
   "startTime": 1767285375925,
-  "endTime": 1767319787456,
+  "endTime": 1767321227075,
   "band_list": [
     {
       "raw_hot": 602063,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 506183,
-      "num": 117682,
+      "num": 382976,
       "word": "袁祥仁去世",
       "onboard_time": 1767317599,
       "rank": 20,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 476728,
-      "num": 117203,
+      "num": 407667,
       "word": "郭芙蓉自由了",
       "onboard_time": 1767311777,
       "rank": 21,
@@ -43,8 +43,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 289338,
-      "num": 124926,
+      "raw_hot": 300600,
+      "num": 510971,
       "word": "长期不换各种社交头像",
       "onboard_time": 1767311657,
       "rank": 10,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 253320,
-      "num": 122837,
+      "num": 501274,
       "word": "终于懂老人分不清ai的无力感了",
       "onboard_time": 1767312197,
       "rank": 11,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 177218,
-      "num": 116692,
+      "num": 382786,
       "word": "武林外传",
       "onboard_time": 1767311596,
       "rank": 23,
@@ -107,6 +107,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 166620,
+      "num": 382967,
+      "word": "霍启刚庄严宣誓",
+      "onboard_time": 1767320239,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166444,
       "num": 734542,
       "word": "尔滨你是有点子浪漫在身上的",
@@ -116,15 +124,23 @@
     },
     {
       "raw_hot": 163420,
-      "num": 118816,
+      "num": 419997,
       "word": "扭扭捏捏的人都有一个特质",
       "onboard_time": 1767309195,
       "rank": 6,
       "category": "幽默"
     },
     {
+      "raw_hot": 149958,
+      "num": 486388,
+      "word": "原来Safari才是iPhone隐藏的资源大户",
+      "onboard_time": 1767318021,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 146619,
-      "num": 723605,
+      "num": 755749,
       "word": "一文看懂2026新一轮国补",
       "onboard_time": 1767314598,
       "rank": 1,
@@ -139,8 +155,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131293,
+      "num": 483975,
+      "word": "茅台",
+      "onboard_time": 1767319457,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 127635,
-      "num": 116998,
+      "num": 382221,
       "word": "瑞士酒吧爆炸幸存者发声",
       "onboard_time": 1767315560,
       "rank": 22,
@@ -148,15 +172,23 @@
     },
     {
       "raw_hot": 121747,
-      "num": 121747,
+      "num": 435985,
       "word": "我决定原谅这个世界一分钟",
       "onboard_time": 1767313218,
       "rank": 12,
       "category": "情感"
     },
     {
+      "raw_hot": 121031,
+      "num": 465084,
+      "word": "蔡磊透露已进入疾病终末期",
+      "onboard_time": 1767316700,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119881,
-      "num": 116302,
+      "num": 382370,
       "word": "凌晨1点男童赤脚上街女子上前抱起",
       "onboard_time": 1767312377,
       "rank": 24,
@@ -164,15 +196,23 @@
     },
     {
       "raw_hot": 119650,
-      "num": 119650,
+      "num": 441427,
       "word": "承诺永州队夺冠送车的老板清空视频",
       "onboard_time": 1767314418,
       "rank": 13,
       "category": "体育,民生新闻"
     },
     {
+      "raw_hot": 113916,
+      "num": 381676,
+      "word": "南京大屠杀幸存者仅剩23位",
+      "onboard_time": 1767320719,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 101954,
-      "num": 119418,
+      "num": 453149,
       "word": "央视跨年晚会上的女性",
       "onboard_time": 1767312738,
       "rank": 14,
@@ -195,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89871,
+      "num": 551402,
+      "word": "从2026年开始21世纪进入了夏天",
+      "onboard_time": 1767313399,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87349,
       "num": 1013975,
       "word": "2026第一场旅行",
@@ -203,19 +251,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 86734,
+      "num": 381915,
+      "word": "景区为不让游客留遗憾现场雕刻冰杖",
+      "onboard_time": 1767317479,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86060,
-      "num": 132348,
+      "num": 410932,
       "word": "iPhone最浪漫的5个设置",
       "onboard_time": 1767312678,
       "rank": 6,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 84789,
-      "num": 115608,
-      "word": "原来Safari才是iPhone隐藏的资源大户",
-      "onboard_time": 1767318021,
-      "rank": 30,
       "category": "数码"
     },
     {
@@ -243,24 +291,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82562,
-      "num": 118491,
-      "word": "蔡磊透露已进入疾病终末期",
-      "onboard_time": 1767316700,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82210,
-      "num": 116168,
-      "word": "景区为不让游客留遗憾现场雕刻冰杖",
-      "onboard_time": 1767317479,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79149,
-      "num": 115513,
+      "num": 379767,
       "word": "黄景瑜只需微微一出手",
       "onboard_time": 1767318199,
       "rank": 31,
@@ -268,7 +300,7 @@
     },
     {
       "raw_hot": 79056,
-      "num": 115956,
+      "num": 380809,
       "word": "北京一餐厅跨年夜排队3000桌",
       "onboard_time": 1767310276,
       "rank": 26,
@@ -300,7 +332,7 @@
     },
     {
       "raw_hot": 72351,
-      "num": 118368,
+      "num": 380126,
       "word": "跨年夜人群被两块大屏幕时差整懵圈",
       "onboard_time": 1767312497,
       "rank": 18,
@@ -315,12 +347,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 69508,
-      "num": 130158,
-      "word": "从2026年开始21世纪进入了夏天",
-      "onboard_time": 1767313399,
-      "rank": 7,
-      "category": "幽默"
+      "raw_hot": 70570,
+      "num": 381909,
+      "word": "为什么运动后皮肤变好了",
+      "onboard_time": 1767320719,
+      "rank": 29,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 69859,
+      "num": 381440,
+      "word": "意大使称瑞士爆炸酒吧有人放烟花",
+      "onboard_time": 1767316940,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 68775,
@@ -329,6 +369,14 @@
       "onboard_time": 1767263060,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 68549,
+      "num": 381156,
+      "word": "王耀庆 统一全家审美的男人",
+      "onboard_time": 1767320778,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 67774,
@@ -340,19 +388,35 @@
     },
     {
       "raw_hot": 64993,
-      "num": 135122,
+      "num": 535080,
       "word": "跨年一个人在冰岛看日出",
       "onboard_time": 1767313699,
       "rank": 4,
       "category": "旅游"
     },
     {
+      "raw_hot": 64251,
+      "num": 380979,
+      "word": "大熊猫看到下雪蚌埠住了",
+      "onboard_time": 1767320418,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63048,
-      "num": 115818,
+      "num": 378919,
       "word": "渐冻症女孩重生兼职赚生活费",
       "onboard_time": 1767319220,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62675,
+      "num": 380661,
+      "word": "肖央演出了生理性恐惧",
+      "onboard_time": 1767321140,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 62072,
@@ -379,16 +443,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 60342,
-      "num": 115372,
-      "word": "意大使称瑞士爆炸酒吧有人放烟花",
-      "onboard_time": 1767316940,
-      "rank": 32,
-      "category": "海外新闻"
+      "raw_hot": 60773,
+      "num": 380342,
+      "word": "周深5年5登大湾区含金量",
+      "onboard_time": 1767319938,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 59425,
-      "num": 114933,
+      "num": 379036,
       "word": "刘宇宁被台下观众钓成翘嘴",
       "onboard_time": 1767312197,
       "rank": 36,
@@ -396,7 +460,7 @@
     },
     {
       "raw_hot": 59127,
-      "num": 118015,
+      "num": 379428,
       "word": "原来继承密码是个大众行为",
       "onboard_time": 1767312558,
       "rank": 19,
@@ -419,6 +483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 57692,
+      "num": 380484,
+      "word": "休斯顿火箭",
+      "onboard_time": 1767321199,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57283,
       "num": 115272,
       "word": "火箭vs篮网",
@@ -435,16 +507,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 55496,
-      "num": 115111,
-      "word": "茅台",
-      "onboard_time": 1767319457,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 54837,
-      "num": 114817,
+      "num": 379523,
       "word": "2026一名航天员将太空出差超1年",
       "onboard_time": 1767312137,
       "rank": 37,
@@ -516,19 +580,27 @@
     },
     {
       "raw_hot": 48503,
-      "num": 114689,
+      "num": 379317,
       "word": "特首办回应李家超备拐杖",
       "onboard_time": 1767318500,
       "rank": 38,
       "category": "国内时政"
     },
     {
-      "raw_hot": 46262,
-      "num": 114515,
+      "raw_hot": 48292,
+      "num": 379971,
       "word": "樊振东1月上半月赛程公布",
       "onboard_time": 1767316160,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45106,
+      "num": 379854,
+      "word": "愿意和你说废话的人一定很喜欢你",
+      "onboard_time": 1767317479,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 44473,
@@ -609,6 +681,14 @@
       "onboard_time": 1767270502,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38949,
+      "num": 378780,
+      "word": "没有一只鸡能活着走出广东",
+      "onboard_time": 1767320778,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 37427,
@@ -723,14 +803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 30220,
-      "num": 113253,
-      "word": "愿意和你说废话的人一定很喜欢你",
-      "onboard_time": 1767317479,
-      "rank": 49,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 30205,
       "num": 600832,
       "word": "骄阳似我森光婚礼主桌天团",
@@ -753,6 +825,14 @@
       "onboard_time": 1767301994,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21803,
+      "num": 381557,
+      "word": "武林外传开播20周年",
+      "onboard_time": 1767313759,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 21548,
@@ -812,7 +892,7 @@
     },
     {
       "raw_hot": 8833,
-      "num": 558573,
+      "num": 593805,
       "word": "这些世界第一里满满中国实力",
       "onboard_time": 1767253401,
       "rank": 2,

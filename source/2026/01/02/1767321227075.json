@@ -1,0 +1,410 @@
+{
+  "runTime": 1767321227075,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 76375,
+        "num": 1012220,
+        "word": "2026第一场旅行",
+        "onboard_time": 1767314479,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127783,
+        "num": 755749,
+        "word": "一文看懂2026新一轮国补",
+        "onboard_time": 1767314598,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 5829,
+        "num": 593805,
+        "word": "这些世界第一里满满中国实力",
+        "onboard_time": 1767253401,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119249,
+        "num": 586471,
+        "word": "冰雪大世界建了超大玫瑰冰瀑",
+        "onboard_time": 1767279920,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51831,
+        "num": 576006,
+        "word": "尔滨你是有点子浪漫在身上的",
+        "onboard_time": 1767281959,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118327,
+        "num": 567104,
+        "word": "个人存取款超5万元不再登记",
+        "onboard_time": 1767267680,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89871,
+        "num": 551402,
+        "word": "从2026年开始21世纪进入了夏天",
+        "onboard_time": 1767313399,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 58616,
+        "num": 542082,
+        "word": "三亚元旦入境游客暴增5倍",
+        "onboard_time": 1767278843,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46100,
+        "num": 535080,
+        "word": "跨年一个人在冰岛看日出",
+        "onboard_time": 1767313699,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 30207,
+        "num": 521067,
+        "word": "小吃街共用一个收款码有后续了",
+        "onboard_time": 1767262939,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300600,
+        "num": 510971,
+        "word": "长期不换各种社交头像",
+        "onboard_time": 1767311657,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194186,
+        "num": 501274,
+        "word": "终于懂老人分不清ai的无力感了",
+        "onboard_time": 1767312197,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149958,
+        "num": 486388,
+        "word": "原来Safari才是iPhone隐藏的资源大户",
+        "onboard_time": 1767318021,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 131293,
+        "num": 483975,
+        "word": "茅台",
+        "onboard_time": 1767319457,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 121031,
+        "num": 465084,
+        "word": "蔡磊透露已进入疾病终末期",
+        "onboard_time": 1767316700,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97004,
+        "num": 453149,
+        "word": "央视跨年晚会上的女性",
+        "onboard_time": 1767312738,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93679,
+        "num": 441427,
+        "word": "承诺永州队夺冠送车的老板清空视频",
+        "onboard_time": 1767314418,
+        "rank": 16,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 87911,
+        "num": 435985,
+        "word": "我决定原谅这个世界一分钟",
+        "onboard_time": 1767313218,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79437,
+        "num": 419997,
+        "word": "扭扭捏捏的人都有一个特质",
+        "onboard_time": 1767309195,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71970,
+        "num": 410932,
+        "word": "iPhone最浪漫的5个设置",
+        "onboard_time": 1767312678,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 407667,
+        "num": 407667,
+        "word": "郭芙蓉自由了",
+        "onboard_time": 1767311777,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382976,
+        "num": 382976,
+        "word": "袁祥仁去世",
+        "onboard_time": 1767317599,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166620,
+        "num": 382967,
+        "word": "霍启刚庄严宣誓",
+        "onboard_time": 1767320239,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154553,
+        "num": 382786,
+        "word": "武林外传",
+        "onboard_time": 1767311596,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70190,
+        "num": 382546,
+        "word": "跨年晚会主持人告别单薄礼服",
+        "onboard_time": 1767266420,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113811,
+        "num": 382370,
+        "word": "凌晨1点男童赤脚上街女子上前抱起",
+        "onboard_time": 1767312377,
+        "rank": 25,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 96216,
+        "num": 382221,
+        "word": "瑞士酒吧爆炸幸存者发声",
+        "onboard_time": 1767315560,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 90629,
+        "num": 382091,
+        "word": "骄阳似我 奇耻大辱",
+        "onboard_time": 1767274162,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86734,
+        "num": 381915,
+        "word": "景区为不让游客留遗憾现场雕刻冰杖",
+        "onboard_time": 1767317479,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70570,
+        "num": 381909,
+        "word": "为什么运动后皮肤变好了",
+        "onboard_time": 1767320719,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 113916,
+        "num": 381676,
+        "word": "南京大屠杀幸存者仅剩23位",
+        "onboard_time": 1767320719,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21803,
+        "num": 381557,
+        "word": "武林外传开播20周年",
+        "onboard_time": 1767313759,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69859,
+        "num": 381440,
+        "word": "意大使称瑞士爆炸酒吧有人放烟花",
+        "onboard_time": 1767316940,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 68549,
+        "num": 381156,
+        "word": "王耀庆 统一全家审美的男人",
+        "onboard_time": 1767320778,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68337,
+        "num": 381142,
+        "word": "重庆飞三亚航班紧急返航乘客发声",
+        "onboard_time": 1767277642,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64251,
+        "num": 380979,
+        "word": "大熊猫看到下雪蚌埠住了",
+        "onboard_time": 1767320418,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61809,
+        "num": 380809,
+        "word": "北京一餐厅跨年夜排队3000桌",
+        "onboard_time": 1767310276,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62675,
+        "num": 380661,
+        "word": "肖央演出了生理性恐惧",
+        "onboard_time": 1767321140,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 57692,
+        "num": 380484,
+        "word": "休斯顿火箭",
+        "onboard_time": 1767321199,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60773,
+        "num": 380342,
+        "word": "周深5年5登大湾区含金量",
+        "onboard_time": 1767319938,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56318,
+        "num": 380126,
+        "word": "跨年夜人群被两块大屏幕时差整懵圈",
+        "onboard_time": 1767312497,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48292,
+        "num": 379971,
+        "word": "樊振东1月上半月赛程公布",
+        "onboard_time": 1767316160,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45106,
+        "num": 379854,
+        "word": "愿意和你说废话的人一定很喜欢你",
+        "onboard_time": 1767317479,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 59797,
+        "num": 379767,
+        "word": "黄景瑜只需微微一出手",
+        "onboard_time": 1767318199,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43812,
+        "num": 379523,
+        "word": "2026一名航天员将太空出差超1年",
+        "onboard_time": 1767312137,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 42374,
+        "num": 379428,
+        "word": "原来继承密码是个大众行为",
+        "onboard_time": 1767312558,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41979,
+        "num": 379317,
+        "word": "特首办回应李家超备拐杖",
+        "onboard_time": 1767318500,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48589,
+        "num": 379036,
+        "word": "刘宇宁被台下观众钓成翘嘴",
+        "onboard_time": 1767312197,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40850,
+        "num": 378919,
+        "word": "渐冻症女孩重生兼职赚生活费",
+        "onboard_time": 1767319220,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38949,
+        "num": 378780,
+        "word": "没有一只鸡能活着走出广东",
+        "onboard_time": 1767320778,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力奋斗才能梦想成真#"
+    }
+  }
+}
