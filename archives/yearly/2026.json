@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767339134409,
+  "endTime": 1767339909268,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -49,6 +49,14 @@
       "onboard_time": 1767267680,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 776597,
+      "num": 248337,
+      "word": "当我意识到姚晨在发圣地巡礼的时候",
+      "onboard_time": 1767338359,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 744779,
@@ -209,14 +217,6 @@
       "onboard_time": 1767327140,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 445966,
-      "num": 233159,
-      "word": "当我意识到姚晨在发圣地巡礼的时候",
-      "onboard_time": 1767338359,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 428471,
@@ -515,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268507,
+      "num": 284315,
+      "word": "原来真有人上班是开心的",
+      "onboard_time": 1767335660,
+      "rank": 31,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 268008,
       "num": 1003261,
       "word": "跨年最佳节目",
@@ -603,20 +611,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 233793,
-      "num": 284315,
-      "word": "原来真有人上班是开心的",
-      "onboard_time": 1767335660,
-      "rank": 31,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 232456,
       "num": 1005637,
       "word": "吃凉拌菜也减不了肥的原因",
       "onboard_time": 1767252139,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 222939,
+      "num": 285217,
+      "word": "特朗普承认服用阿司匹林",
+      "onboard_time": 1767335598,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 222414,
@@ -649,14 +657,6 @@
       "onboard_time": 1767196407,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 218209,
-      "num": 285217,
-      "word": "特朗普承认服用阿司匹林",
-      "onboard_time": 1767335598,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 214754,
@@ -724,7 +724,7 @@
     },
     {
       "raw_hot": 200600,
-      "num": 233775,
+      "num": 251348,
       "word": "Faker获青龙勋章",
       "onboard_time": 1767337280,
       "rank": 14,
@@ -1067,6 +1067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164847,
+      "num": 245408,
+      "word": "张凌赫走秀",
+      "onboard_time": 1767339021,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163420,
       "num": 419997,
       "word": "扭扭捏捏的人都有一个特质",
@@ -1363,6 +1371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136015,
+      "num": 249968,
+      "word": "新年最炸的爆款出现了",
+      "onboard_time": 1767338900,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135398,
       "num": 451780,
       "word": "郑恺一部戏一个有效出演",
@@ -1497,6 +1513,14 @@
       "onboard_time": 1767315560,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 127240,
+      "num": 322300,
+      "word": "在长城哽咽背诗女孩回应走红",
+      "onboard_time": 1767338420,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126795,
@@ -1699,14 +1723,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 113698,
-      "num": 232197,
-      "word": "张凌赫走秀",
-      "onboard_time": 1767339021,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113261,
       "num": 317570,
       "word": "樊振东冲击留洋生涯首冠",
@@ -1884,7 +1900,7 @@
     },
     {
       "raw_hot": 102775,
-      "num": 232054,
+      "num": 244588,
       "word": "化妆的意义在此刻具象化了",
       "onboard_time": 1767337220,
       "rank": 31,
@@ -1915,7 +1931,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 100443,
+      "raw_hot": 101374,
       "num": 291940,
       "word": "音乐缘计划",
       "onboard_time": 1767338299,
@@ -1964,7 +1980,7 @@
     },
     {
       "raw_hot": 98296,
-      "num": 230948,
+      "num": 244401,
       "word": "侯明昊演绿茶是有一套的",
       "onboard_time": 1767338900,
       "rank": 42,
@@ -1987,8 +2003,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96746,
+      "num": 283411,
+      "word": "伦纳德45分",
+      "onboard_time": 1767336078,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96087,
-      "num": 454392,
+      "num": 748921,
       "word": "湖南女生长城诵诗为何引全网共情",
       "onboard_time": 1767330921,
       "rank": 19,
@@ -2041,14 +2065,6 @@
       "onboard_time": 1767191909,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93219,
-      "num": 283411,
-      "word": "伦纳德45分",
-      "onboard_time": 1767336078,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 92894,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767332719,
       "rank": 35,
       "category": "财经"
-    },
-    {
-      "raw_hot": 80097,
-      "num": 314772,
-      "word": "哪吒",
-      "onboard_time": 1767216553,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 79968,
-      "num": 156650,
-      "word": "小众冷门但很好用的转运方式",
-      "onboard_time": 1767323240,
-      "rank": 18,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [

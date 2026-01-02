@@ -1,0 +1,410 @@
+{
+  "runTime": 1767339909268,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 146741,
+        "num": 1023478,
+        "word": "美国关税大棒打了自己人",
+        "onboard_time": 1767321680,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91857,
+        "num": 748921,
+        "word": "湖南女生长城诵诗为何引全网共情",
+        "onboard_time": 1767330921,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19122,
+        "num": 603644,
+        "word": "2026乘势而上阔步前行",
+        "onboard_time": 1767323780,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127240,
+        "num": 322300,
+        "word": "在长城哽咽背诗女孩回应走红",
+        "onboard_time": 1767338420,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120701,
+        "num": 294371,
+        "word": "一人之下6",
+        "onboard_time": 1767322578,
+        "rank": 4,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 268507,
+        "num": 268507,
+        "word": "原来真有人上班是开心的",
+        "onboard_time": 1767335660,
+        "rank": 5,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 101374,
+        "num": 268037,
+        "word": "音乐缘计划",
+        "onboard_time": 1767338299,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75378,
+        "num": 264924,
+        "word": "新年第一笔消费",
+        "onboard_time": 1767339439,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58948,
+        "num": 261744,
+        "word": "2026国补怎么补",
+        "onboard_time": 1767323960,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 46481,
+        "num": 259009,
+        "word": "网友因腌制肉喊话山系火锅",
+        "onboard_time": 1767339619,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375810,
+        "num": 257514,
+        "word": "一个月四千不多一个星期一千花不完",
+        "onboard_time": 1767330380,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 297012,
+        "num": 253572,
+        "word": "洛阳博物馆被曝一唐代陶马倒下断裂",
+        "onboard_time": 1767335479,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252370,
+        "num": 252370,
+        "word": "中彩票后先捐款再交税",
+        "onboard_time": 1767327260,
+        "rank": 12,
+        "category": "科学科普,幽默"
+      },
+      {
+        "raw_hot": 205974,
+        "num": 252145,
+        "word": "爱吃蜂蜜小面包的人天塌了",
+        "onboard_time": 1767327140,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199328,
+        "num": 251348,
+        "word": "Faker获青龙勋章",
+        "onboard_time": 1767337280,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 43610,
+        "num": 250856,
+        "word": "中国人造太阳实验又有新突破",
+        "onboard_time": 1767324079,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169907,
+        "num": 250359,
+        "word": "顶级夫妻关系是合起伙来对付这个世界",
+        "onboard_time": 1767335479,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136015,
+        "num": 249968,
+        "word": "新年最炸的爆款出现了",
+        "onboard_time": 1767338900,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123683,
+        "num": 249610,
+        "word": "海航空姐统一戴长发簪遭质疑不安全",
+        "onboard_time": 1767323661,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41855,
+        "num": 248688,
+        "word": "2026第一场雪",
+        "onboard_time": 1767322400,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 776597,
+        "num": 248337,
+        "word": "当我意识到姚晨在发圣地巡礼的时候",
+        "onboard_time": 1767338359,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247960,
+        "num": 247960,
+        "word": "美国脑癌大爷硬抗斩杀线",
+        "onboard_time": 1767334819,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 222939,
+        "num": 247825,
+        "word": "特朗普承认服用阿司匹林",
+        "onboard_time": 1767335598,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157949,
+        "num": 247530,
+        "word": "武林外传导演回应小郭自由了",
+        "onboard_time": 1767326840,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139209,
+        "num": 247293,
+        "word": "多地网友晒贷款逾期记录清零",
+        "onboard_time": 1767332781,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114538,
+        "num": 247077,
+        "word": "泡面和煮面真的差很多",
+        "onboard_time": 1767325099,
+        "rank": 25,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 135438,
+        "num": 246727,
+        "word": "女生甲流高烧狗狗饿得啃面粉",
+        "onboard_time": 1767336979,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118078,
+        "num": 246363,
+        "word": "郭芙蓉自由了",
+        "onboard_time": 1767311777,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112036,
+        "num": 246122,
+        "word": "KPL",
+        "onboard_time": 1767336621,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101032,
+        "num": 245707,
+        "word": "玉茗茶骨全员恶女长镜头",
+        "onboard_time": 1767335359,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164847,
+        "num": 245408,
+        "word": "张凌赫走秀",
+        "onboard_time": 1767339021,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100584,
+        "num": 245337,
+        "word": "美国患胎儿酒精综合症女子被赶出家",
+        "onboard_time": 1767330260,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 96746,
+        "num": 244847,
+        "word": "伦纳德45分",
+        "onboard_time": 1767336078,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91822,
+        "num": 244588,
+        "word": "化妆的意义在此刻具象化了",
+        "onboard_time": 1767337220,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 91260,
+        "num": 244401,
+        "word": "侯明昊演绿茶是有一套的",
+        "onboard_time": 1767338900,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82719,
+        "num": 244095,
+        "word": "奶茶和头发不可兼得",
+        "onboard_time": 1767334879,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 82428,
+        "num": 243690,
+        "word": "无事妈妈给钱有事妈妈顶罪",
+        "onboard_time": 1767333319,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79328,
+        "num": 243435,
+        "word": "港媒称樊振东效应引爆德国杯",
+        "onboard_time": 1767338779,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69736,
+        "num": 243322,
+        "word": "当哥哥第一次见刚出生弟弟",
+        "onboard_time": 1767336979,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 65989,
+        "num": 242809,
+        "word": "原神前瞻",
+        "onboard_time": 1767334819,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 65141,
+        "num": 242628,
+        "word": "原神",
+        "onboard_time": 1767332060,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 61908,
+        "num": 242264,
+        "word": "罚罪2能拍不能拍的都拍了",
+        "onboard_time": 1767333019,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54714,
+        "num": 242137,
+        "word": "武林外传",
+        "onboard_time": 1767311596,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54064,
+        "num": 241946,
+        "word": "人一旦恢复了主体性",
+        "onboard_time": 1767339319,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 53405,
+        "num": 241501,
+        "word": "猫 还要咪等多久啊妈妈",
+        "onboard_time": 1767336199,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 51067,
+        "num": 241306,
+        "word": "cp最好嗑的是烂人真心",
+        "onboard_time": 1767329781,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50535,
+        "num": 241087,
+        "word": "Wolves对战TE",
+        "onboard_time": 1767337580,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 50535,
+        "num": 240753,
+        "word": "没人说世界进化成这样了啊",
+        "onboard_time": 1767337339,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42727,
+        "num": 240369,
+        "word": "离岸人民币兑美元升破6.97",
+        "onboard_time": 1767337819,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 49478,
+        "num": 239999,
+        "word": "泡面饼越来越少",
+        "onboard_time": 1767336319,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#贺词里的中国#"
+    }
+  }
+}
