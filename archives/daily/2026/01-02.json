@@ -1,6 +1,6 @@
 {
   "startTime": 1767285375925,
-  "endTime": 1767367848916,
+  "endTime": 1767368682296,
   "band_list": [
     {
       "raw_hot": 3566119,
@@ -211,6 +211,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 404537,
+      "num": 742575,
+      "word": "日本动漫屡次出现旭日旗731部队",
+      "onboard_time": 1767364702,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 392817,
+      "num": 740189,
+      "word": "张本智和曾参拜东乡神社",
+      "onboard_time": 1767365550,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 392190,
       "num": 899665,
       "word": "在英国痛了7周到中国四天就治好了",
@@ -227,12 +243,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 369042,
-      "num": 740189,
-      "word": "张本智和曾参拜东乡神社",
-      "onboard_time": 1767365550,
-      "rank": 13,
-      "category": "体育"
+      "raw_hot": 370681,
+      "num": 743016,
+      "word": "何不同舟渡",
+      "onboard_time": 1767363261,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 362967,
@@ -241,14 +257,6 @@
       "onboard_time": 1767354981,
       "rank": 15,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 357234,
-      "num": 743016,
-      "word": "何不同舟渡",
-      "onboard_time": 1767363261,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 355944,
@@ -265,14 +273,6 @@
       "onboard_time": 1767341059,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 355275,
-      "num": 742575,
-      "word": "日本动漫屡次出现旭日旗731部队",
-      "onboard_time": 1767364702,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 352056,
@@ -387,6 +387,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 274854,
+      "num": 740111,
+      "word": "上海月薪27000一天的花销",
+      "onboard_time": 1767365001,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 270391,
       "num": 1029066,
       "word": "伊朗",
@@ -459,14 +467,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 247778,
-      "num": 740111,
-      "word": "上海月薪27000一天的花销",
-      "onboard_time": 1767365001,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 241733,
       "num": 1029179,
       "word": "骄阳似我老小三气得冒鬼火",
@@ -529,6 +529,14 @@
       "onboard_time": 1767267680,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215582,
+      "num": 737597,
+      "word": "骄阳似我刷新腾讯纪录",
+      "onboard_time": 1767364581,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 215431,
@@ -657,14 +665,6 @@
       "onboard_time": 1767357620,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 196157,
-      "num": 737597,
-      "word": "骄阳似我刷新腾讯纪录",
-      "onboard_time": 1767364581,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 193523,
@@ -832,6 +832,14 @@
       "word": "骄阳似我剧粉盘",
       "onboard_time": 1767325340,
       "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 170586,
+      "num": 741799,
+      "word": "玉茗茶骨",
+      "onboard_time": 1767364462,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -1083,14 +1091,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 144994,
-      "num": 741799,
-      "word": "玉茗茶骨",
-      "onboard_time": 1767364462,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 144522,
       "num": 451374,
       "word": "星穹铁道火花",
@@ -1212,7 +1212,7 @@
     },
     {
       "raw_hot": 133227,
-      "num": 743971,
+      "num": 755943,
       "word": "周冠宇 凯迪拉克",
       "onboard_time": 1767364222,
       "rank": 27,
@@ -1571,6 +1571,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 104651,
+      "num": 735736,
+      "word": "总台专访李在明",
+      "onboard_time": 1767366211,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 103915,
       "num": 911431,
       "word": "养自己的8个习惯",
@@ -1585,14 +1593,6 @@
       "onboard_time": 1767331820,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 103013,
-      "num": 735736,
-      "word": "总台专访李在明",
-      "onboard_time": 1767366211,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 102775,
@@ -1857,6 +1857,14 @@
       "onboard_time": 1767336979,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 87768,
+      "num": 200139,
+      "word": "爱具体的人过具体的生活",
+      "onboard_time": 1767368361,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 87550,
@@ -2563,6 +2571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58473,
+      "num": 732177,
+      "word": "农民工写作走红后生活没有明显改善",
+      "onboard_time": 1767366920,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58427,
       "num": 624269,
       "word": "一盘辣椒炒肉何以戳中泪点",
@@ -2851,6 +2867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46992,
+      "num": 728644,
+      "word": "海航空姐同款发簪长度为18cm",
+      "onboard_time": 1767367831,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46481,
       "num": 259009,
       "word": "网友因腌制肉喊话山系火锅",
@@ -2955,14 +2979,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 43469,
-      "num": 728644,
-      "word": "海航空姐同款发簪长度为18cm",
-      "onboard_time": 1767367831,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43378,
       "num": 71148,
       "word": "2026年第二天",
@@ -3009,14 +3025,6 @@
       "onboard_time": 1767267020,
       "rank": 36,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 42216,
-      "num": 732177,
-      "word": "农民工写作走红后生活没有明显改善",
-      "onboard_time": 1767366920,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42066,
@@ -3289,6 +3297,14 @@
       "onboard_time": 1767332120,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 22700,
+      "num": 199540,
+      "word": "印度饮用水污染致1400人患病10死",
+      "onboard_time": 1767368129,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 21803,
