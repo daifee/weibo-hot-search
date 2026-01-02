@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767371718188,
+  "endTime": 1767372585315,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -435,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 386421,
+      "num": 440703,
+      "word": "伊朗骚乱",
+      "onboard_time": 1767368908,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 379921,
       "num": 1398075,
       "word": "湖南卫视跨年演唱会",
@@ -659,14 +667,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 299936,
-      "num": 440703,
-      "word": "伊朗骚乱",
-      "onboard_time": 1767368908,
-      "rank": 20,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 299362,
       "num": 1001134,
       "word": "徐杰受伤",
@@ -873,6 +873,14 @@
       "onboard_time": 1767354441,
       "rank": 40,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 254798,
+      "num": 440672,
+      "word": "赵今麦穿了林屿森的衣服",
+      "onboard_time": 1767370399,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 253320,
@@ -1169,14 +1177,6 @@
       "onboard_time": 1767242661,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194597,
-      "num": 440672,
-      "word": "赵今麦穿了林屿森的衣服",
-      "onboard_time": 1767370399,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 194560,

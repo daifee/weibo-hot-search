@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767371718188,
+  "endTime": 1767372585315,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -2235,6 +2235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 386421,
+      "num": 440703,
+      "word": "伊朗骚乱",
+      "onboard_time": 1767368908,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 385325,
       "num": 385325,
       "word": "董宇辉亿元沙发订单陷代工质疑",
@@ -3123,14 +3131,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 299936,
-      "num": 440703,
-      "word": "伊朗骚乱",
-      "onboard_time": 1767368908,
-      "rank": 20,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 299888,
       "num": 299888,
       "word": "江宏杰疑似回应福原爱",
@@ -3849,6 +3849,14 @@
       "onboard_time": 1766907920,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254798,
+      "num": 440672,
+      "word": "赵今麦穿了林屿森的衣服",
+      "onboard_time": 1767370399,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 254341,
@@ -5065,14 +5073,6 @@
       "onboard_time": 1767242661,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194597,
-      "num": 440672,
-      "word": "赵今麦穿了林屿森的衣服",
-      "onboard_time": 1767370399,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 194560,
