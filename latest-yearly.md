@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/03 01:43:06
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/03 02:40:05
 </p>
 </blockquote>
 <p>
@@ -1695,6 +1695,12 @@ Gr对战成都Wolves（热度：135816）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232026%E7%AC%AC1%E5%A4%A91%E4%B8%87%E5%85%83%E5%86%85%E9%80%BE%E6%9C%9F%E7%BB%93%E6%B8%85%E8%80%85%E5%BE%81%E4%BF%A1%E6%B8%85%E9%9B%B6%23" target="weibo">
+2026第1天1万元内逾期结清者征信清零（热度：128661）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%90%E5%86%BB%E7%97%87%E5%A5%B3%E5%AD%A9%E9%87%8D%E7%94%9F%23" target="weibo">
 渐冻症女孩重生（热度：128511）
 </a>
@@ -1805,12 +1811,6 @@ AG人的年度总结（热度：121706）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%AB%E5%A6%AE%E5%A7%9A%E6%99%A8%E5%9B%9E%E5%BA%94%E6%AD%A6%E6%9E%97%E5%A4%96%E4%BC%A0%E5%BC%80%E6%92%AD%E4%BA%8C%E5%8D%81%E5%91%A8%E5%B9%B4%23" target="weibo">
 闫妮姚晨回应武林外传开播二十周年（热度：121695）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E6%98%B1%E7%95%85%E7%9A%84%E8%AF%84%E8%AE%BA%E5%8C%BA%E7%82%B8%E9%94%85%E4%BA%86%23" target="weibo">
-彭昱畅的评论区炸锅了（热度：121597）
 </a>
 </li>
 

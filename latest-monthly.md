@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/03 01:43:06
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/03 02:40:05
 </p>
 </blockquote>
 <p>
@@ -1695,6 +1695,12 @@ Gr对战成都Wolves（热度：135816）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232026%E7%AC%AC1%E5%A4%A91%E4%B8%87%E5%85%83%E5%86%85%E9%80%BE%E6%9C%9F%E7%BB%93%E6%B8%85%E8%80%85%E5%BE%81%E4%BF%A1%E6%B8%85%E9%9B%B6%23" target="weibo">
+2026第1天1万元内逾期结清者征信清零（热度：128661）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%90%E5%86%BB%E7%97%87%E5%A5%B3%E5%AD%A9%E9%87%8D%E7%94%9F%23" target="weibo">
 渐冻症女孩重生（热度：128511）
 </a>
@@ -3231,12 +3237,6 @@ DeepSeek元旦新论文（热度：62612）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%232026%E7%AC%AC1%E5%A4%A91%E4%B8%87%E5%85%83%E5%86%85%E9%80%BE%E6%9C%9F%E7%BB%93%E6%B8%85%E8%80%85%E5%BE%81%E4%BF%A1%E6%B8%85%E9%9B%B6%23" target="weibo">
-2026第1天1万元内逾期结清者征信清零（热度：62297）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%83%E8%BF%98%E7%9F%A5%E9%81%93%E5%BC%80%E5%87%89%E6%B0%B4%23" target="weibo">
 它还知道开凉水（热度：62236）
 </a>
@@ -3467,6 +3467,12 @@ iPhone的新年仪式感（热度：55910）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E8%88%AA%E7%A9%BA%E5%A7%90%E5%90%8C%E6%AC%BE%E5%8F%91%E7%B0%AA%E9%95%BF%E5%BA%A6%E4%B8%BA18cm%23" target="weibo">
 海航空姐同款发簪长度为18cm（热度：51966）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%B9%E9%94%A1%E6%82%A6%E6%A1%91%E6%8B%BF%E6%88%BF%E8%97%8F%E6%80%BB%E7%BB%9F%E5%8A%9E%E5%85%AC%E5%AE%A4%E6%9A%97%E9%97%A8%E5%90%8E%23" target="weibo">
+尹锡悦桑拿房藏总统办公室暗门后（热度：51646）
 </a>
 </li>
 
@@ -4089,6 +4095,12 @@ B站跨年晚会（热度：29330）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%8D%81%E4%B8%87%E4%BC%8F%E7%89%B9%E6%94%B6%E5%AE%98%E5%9C%BA%23" target="weibo">
+汪苏泷十万伏特收官场（热度：25561）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%83%E6%97%A6%E5%81%87%E6%9C%9F%E6%B6%88%E8%B4%B9%E6%96%B0%E5%9B%BE%E9%89%B4%23" target="weibo">
 元旦假期消费新图鉴（热度：25076）
 </a>
@@ -4103,6 +4115,18 @@ B站跨年晚会（热度：29330）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%9D%E9%9D%A0%E5%88%9B%E6%96%B0%E4%B8%BA%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E8%B5%8B%E8%83%BD%23" target="weibo">
 依靠创新为高质量发展赋能（热度：24580）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%A3%AB%E7%81%AB%E7%81%BE%E4%BB%8D%E6%9C%89%E9%81%87%E9%9A%BE%E8%80%85%E9%81%97%E4%BD%93%E8%BA%BA%E5%9C%A8%E9%85%92%E5%90%A7%23" target="weibo">
+瑞士火灾仍有遇难者遗体躺在酒吧（热度：24204）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%BC%A0%E5%B3%BB%E8%B1%AA%E5%90%88%E5%94%B1%E6%8A%8A%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97%E5%BF%B5%E4%B8%80%E4%B8%87%E9%81%8D%23" target="weibo">
+刘宇宁张峻豪合唱把你的名字念一万遍（热度：24137）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1767371718188,
-  "endTime": 1767375786704,
+  "endTime": 1767379205650,
   "band_list": [
     {
       "raw_hot": 459140,
@@ -120,6 +120,14 @@
       "word": "在英国痛了7周到中国四天就治好了",
       "onboard_time": 1767361522,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128661,
+      "num": 233959,
+      "word": "2026第1天1万元内逾期结清者征信清零",
+      "onboard_time": 1767373637,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -291,14 +299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 62297,
-      "num": 233959,
-      "word": "2026第1天1万元内逾期结清者征信清零",
-      "onboard_time": 1767373637,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 61415,
       "num": 440258,
       "word": "警方通报育儿嫂喂孩子安眠类药物",
@@ -337,6 +337,14 @@
       "onboard_time": 1767367831,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51646,
+      "num": 81181,
+      "word": "尹锡悦桑拿房藏总统办公室暗门后",
+      "onboard_time": 1767374838,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 50137,
@@ -449,6 +457,30 @@
       "onboard_time": 1767345679,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25561,
+      "num": 80648,
+      "word": "汪苏泷十万伏特收官场",
+      "onboard_time": 1767378796,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 24204,
+      "num": 80908,
+      "word": "瑞士火灾仍有遇难者遗体躺在酒吧",
+      "onboard_time": 1767378137,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 24137,
+      "num": 80771,
+      "word": "刘宇宁张峻豪合唱把你的名字念一万遍",
+      "onboard_time": 1767375917,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 24067,
