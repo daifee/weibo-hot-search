@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767326887533,
+  "endTime": 1767327415436,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -1203,6 +1203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 515783,
+      "num": 515783,
+      "word": "泡面和煮面真的差很多",
+      "onboard_time": 1767325099,
+      "rank": 5,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 510823,
       "num": 241411,
       "word": "王丽坤拍短剧的原因找到了",
@@ -1769,14 +1777,6 @@
       "onboard_time": 1766936480,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 421244,
-      "num": 181370,
-      "word": "泡面和煮面真的差很多",
-      "onboard_time": 1767325099,
-      "rank": 5,
-      "category": "幽默,美食"
     },
     {
       "raw_hot": 421053,
@@ -3267,6 +3267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 269000,
+      "num": 162483,
+      "word": "海航空姐统一戴长发簪遭质疑不安全",
+      "onboard_time": 1767323661,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 268223,
       "num": 216994,
       "word": "第一次见国产剧一具尸体十个现场",
@@ -3329,6 +3337,14 @@
       "onboard_time": 1767097101,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 264939,
+      "num": 161473,
+      "word": "鹅鸭杀官宣主理人大司马",
+      "onboard_time": 1767326299,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 264369,
@@ -3404,7 +3420,7 @@
     },
     {
       "raw_hot": 259335,
-      "num": 156728,
+      "num": 160466,
       "word": "恭喜郭芙蓉",
       "onboard_time": 1767323899,
       "rank": 10,
@@ -3449,14 +3465,6 @@
       "onboard_time": 1767143419,
       "rank": 11,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 255493,
-      "num": 156713,
-      "word": "海航空姐统一戴长发簪遭质疑不安全",
-      "onboard_time": 1767323661,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 254927,
@@ -4115,6 +4123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213249,
+      "num": 519243,
+      "word": "看完这一集不敢喝排骨汤了",
+      "onboard_time": 1767323481,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211896,
       "num": 176598,
       "word": "庾澄庆说王菲很难搞",
@@ -4241,14 +4257,6 @@
       "onboard_time": 1766931925,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 205696,
-      "num": 205696,
-      "word": "看完这一集不敢喝排骨汤了",
-      "onboard_time": 1767323481,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 205647,
@@ -4473,14 +4481,6 @@
       "onboard_time": 1767235820,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196399,
-      "num": 156705,
-      "word": "鹅鸭杀官宣主理人大司马",
-      "onboard_time": 1767326299,
-      "rank": 12,
-      "category": "游戏"
     },
     {
       "raw_hot": 196264,
@@ -4860,7 +4860,7 @@
     },
     {
       "raw_hot": 187026,
-      "num": 156702,
+      "num": 158253,
       "word": "虽然个子矮却很全能",
       "onboard_time": 1767323240,
       "rank": 13,
@@ -5393,6 +5393,14 @@
       "onboard_time": 1767017970,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172050,
+      "num": 516077,
+      "word": "骄阳似我剧粉盘",
+      "onboard_time": 1767325340,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 171855,
@@ -6100,7 +6108,7 @@
     },
     {
       "raw_hot": 156743,
-      "num": 156743,
+      "num": 159702,
       "word": "日本东京全球人口排名下跌",
       "onboard_time": 1767322760,
       "rank": 8,
@@ -6377,14 +6385,6 @@
       "onboard_time": 1766909599,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 148485,
-      "num": 156737,
-      "word": "骄阳似我剧粉盘",
-      "onboard_time": 1767325340,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 148381,
@@ -6737,6 +6737,14 @@
       "onboard_time": 1766906421,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142000,
+      "num": 156634,
+      "word": "患病后送外卖硕士称不做长期规划",
+      "onboard_time": 1767325700,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141865,
@@ -7785,6 +7793,14 @@
       "onboard_time": 1767266060,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 125190,
+      "num": 125190,
+      "word": "中彩票后先捐款再交税",
+      "onboard_time": 1767327260,
+      "rank": 30,
+      "category": "科学科普,幽默"
     },
     {
       "raw_hot": 125132,
@@ -11523,6 +11539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 88371,
+      "num": 596098,
+      "word": "2026国补怎么补",
+      "onboard_time": 1767323960,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 88364,
       "num": 88364,
       "word": "A股有色板块领跌",
@@ -11585,6 +11609,14 @@
       "onboard_time": 1767166701,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87924,
+      "num": 156510,
+      "word": "日本精致的窘迫",
+      "onboard_time": 1767326360,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 87856,
@@ -12035,6 +12067,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 84465,
+      "num": 745869,
+      "word": "中国人造太阳实验又有新突破",
+      "onboard_time": 1767324079,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 84444,
       "num": 84444,
       "word": "俄前副国防部长突然去世",
@@ -12139,6 +12179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83903,
+      "num": 156577,
+      "word": "香港人第一次搓澡的体验",
+      "onboard_time": 1767323539,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83862,
       "num": 157062,
       "word": "AG剧透",
@@ -12153,14 +12201,6 @@
       "onboard_time": 1766886022,
       "rank": 47,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 83766,
-      "num": 712378,
-      "word": "中国人造太阳实验又有新突破",
-      "onboard_time": 1767324079,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 83740,
@@ -12369,14 +12409,6 @@
       "onboard_time": 1767162980,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 82359,
-      "num": 156510,
-      "word": "日本精致的窘迫",
-      "onboard_time": 1767326360,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 82339,
@@ -12601,6 +12633,14 @@
       "onboard_time": 1766839583,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 79727,
+      "num": 125535,
+      "word": "壁仞科技暴涨82%",
+      "onboard_time": 1767327319,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 79579,
@@ -12849,14 +12889,6 @@
       "onboard_time": 1767165080,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76700,
-      "num": 590156,
-      "word": "2026国补怎么补",
-      "onboard_time": 1767323960,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 76687,
@@ -13185,14 +13217,6 @@
       "onboard_time": 1766991980,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 72768,
-      "num": 156577,
-      "word": "香港人第一次搓澡的体验",
-      "onboard_time": 1767323539,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 72680,
@@ -13667,6 +13691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66181,
+      "num": 125365,
+      "word": "千万粉丝网红成名前是洗头工",
+      "onboard_time": 1767327380,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 66055,
       "num": 156897,
       "word": "王楚钦说不想以2个退赛结束2025",
@@ -13680,6 +13712,14 @@
       "word": "硬生生被哄成韩系帅哥了",
       "onboard_time": 1766974519,
       "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 65980,
+      "num": 125081,
+      "word": "和领导同一天休息感觉很亏",
+      "onboard_time": 1767327019,
+      "rank": 35,
       "category": "幽默"
     },
     {
@@ -13745,6 +13785,14 @@
       "onboard_time": 1767277101,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 65324,
+      "num": 124968,
+      "word": "爱吃蜂蜜小面包的人天塌了",
+      "onboard_time": 1767327140,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 65188,
@@ -14107,6 +14155,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 60476,
+      "num": 156444,
+      "word": "金毛 各位下辈子再见",
+      "onboard_time": 1767326718,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 60465,
       "num": 3861265,
       "word": "JDG陪你一起跨年",
@@ -14121,6 +14177,14 @@
       "onboard_time": 1767179602,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 60402,
+      "num": 124932,
+      "word": "淡漠型人格",
+      "onboard_time": 1767326961,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 60396,
@@ -14435,6 +14499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 55978,
+      "num": 124904,
+      "word": "没有不梦聂曦光的道理",
+      "onboard_time": 1767327319,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55919,
       "num": 156391,
       "word": "王楚钦梁靖崑现身魏桥新年晚会",
@@ -14553,14 +14625,6 @@
       "onboard_time": 1767087620,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 53556,
-      "num": 156634,
-      "word": "患病后送外卖硕士称不做长期规划",
-      "onboard_time": 1767325700,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53315,
@@ -14699,12 +14763,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51568,
+      "num": 379971,
+      "word": "樊振东1月上半月赛程公布",
+      "onboard_time": 1767316160,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51344,
       "num": 51344,
       "word": "中国援柬埔寨物资运抵金边",
       "onboard_time": 1766959454,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 50833,
+      "num": 156466,
+      "word": "你俩认得清纸巾和萝卜吗",
+      "onboard_time": 1767324320,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 50826,
@@ -14747,12 +14827,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 50398,
+      "num": 156364,
+      "word": "匿杀",
+      "onboard_time": 1767050658,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 50337,
       "num": 113907,
       "word": "刘宇宁舞台纸花上有手写祝福",
       "onboard_time": 1767318619,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 50190,
+      "num": 127131,
+      "word": "深圳刚需购房者500万难选到满意的房",
+      "onboard_time": 1767326900,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50029,
@@ -14835,14 +14931,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 49480,
-      "num": 156466,
-      "word": "你俩认得清纸巾和萝卜吗",
-      "onboard_time": 1767324320,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 49393,
       "num": 49393,
       "word": "苏新皓我已经开始想你们了",
@@ -14857,14 +14945,6 @@
       "onboard_time": 1766934203,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49131,
-      "num": 379971,
-      "word": "樊振东1月上半月赛程公布",
-      "onboard_time": 1767316160,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 49071,
@@ -14891,12 +14971,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 48726,
-      "num": 156444,
-      "word": "金毛 各位下辈子再见",
-      "onboard_time": 1767326718,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 48800,
+      "num": 156399,
+      "word": "武林外传导演回应小郭自由了",
+      "onboard_time": 1767326840,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 48650,
@@ -15033,6 +15113,14 @@
       "onboard_time": 1767239840,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 47726,
+      "num": 156345,
+      "word": "座椅为什么要设计成这样",
+      "onboard_time": 1767326840,
+      "rank": 48,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 47683,
@@ -15539,14 +15627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42569,
-      "num": 156364,
-      "word": "匿杀",
-      "onboard_time": 1767050658,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 42438,
       "num": 93398,
       "word": "白鹿今年角色都上榜了",
@@ -15625,14 +15705,6 @@
       "onboard_time": 1767309135,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41483,
-      "num": 156345,
-      "word": "座椅为什么要设计成这样",
-      "onboard_time": 1767326840,
-      "rank": 48,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 41458,
@@ -16137,14 +16209,6 @@
       "onboard_time": 1767318559,
       "rank": 42,
       "category": "体育,民生新闻"
-    },
-    {
-      "raw_hot": 35582,
-      "num": 156399,
-      "word": "武林外传导演回应小郭自由了",
-      "onboard_time": 1767326840,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 35415,
@@ -17216,6 +17280,14 @@
       "word": "2026为梦想奋斗为幸福打拼",
       "onboard_time": 1767275302,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21099,
+      "num": 125034,
+      "word": "高铁清洁袋成新型漂流瓶",
+      "onboard_time": 1767327140,
+      "rank": 37,
       "category": "民生新闻"
     },
     {

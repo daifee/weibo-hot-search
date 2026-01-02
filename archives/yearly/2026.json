@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767326887533,
+  "endTime": 1767327415436,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -115,6 +115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 515783,
+      "num": 515783,
+      "word": "泡面和煮面真的差很多",
+      "onboard_time": 1767325099,
+      "rank": 5,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 509642,
       "num": 1005432,
       "word": "29岁渐冻症女孩重生感谢蔡磊",
@@ -177,14 +185,6 @@
       "onboard_time": 1767240862,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 421244,
-      "num": 181370,
-      "word": "泡面和煮面真的差很多",
-      "onboard_time": 1767325099,
-      "rank": 5,
-      "category": "幽默,美食"
     },
     {
       "raw_hot": 413045,
@@ -419,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 269000,
+      "num": 162483,
+      "word": "海航空姐统一戴长发簪遭质疑不安全",
+      "onboard_time": 1767323661,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 268008,
       "num": 1003261,
       "word": "跨年最佳节目",
@@ -443,6 +451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 264939,
+      "num": 161473,
+      "word": "鹅鸭杀官宣主理人大司马",
+      "onboard_time": 1767326299,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 261771,
       "num": 1002527,
       "word": "TE对战北京WBG",
@@ -460,19 +476,11 @@
     },
     {
       "raw_hot": 259335,
-      "num": 156728,
+      "num": 160466,
       "word": "恭喜郭芙蓉",
       "onboard_time": 1767323899,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 255493,
-      "num": 156713,
-      "word": "海航空姐统一戴长发簪遭质疑不安全",
-      "onboard_time": 1767323661,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 253320,
@@ -547,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213249,
+      "num": 519243,
+      "word": "看完这一集不敢喝排骨汤了",
+      "onboard_time": 1767323481,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208247,
       "num": 997322,
       "word": "狗狗第一次后悔自己的鼻子很灵",
@@ -571,14 +587,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 205696,
-      "num": 205696,
-      "word": "看完这一集不敢喝排骨汤了",
-      "onboard_time": 1767323481,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 204105,
       "num": 1003773,
       "word": "外网流行中国化",
@@ -593,14 +601,6 @@
       "onboard_time": 1767235820,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196399,
-      "num": 156705,
-      "word": "鹅鸭杀官宣主理人大司马",
-      "onboard_time": 1767326299,
-      "rank": 12,
-      "category": "游戏"
     },
     {
       "raw_hot": 196264,
@@ -660,7 +660,7 @@
     },
     {
       "raw_hot": 187026,
-      "num": 156702,
+      "num": 158253,
       "word": "虽然个子矮却很全能",
       "onboard_time": 1767323240,
       "rank": 13,
@@ -800,6 +800,14 @@
       "word": "怪奇物语大结局",
       "onboard_time": 1767233362,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 172050,
+      "num": 516077,
+      "word": "骄阳似我剧粉盘",
+      "onboard_time": 1767325340,
+      "rank": 9,
       "category": "剧集"
     },
     {
@@ -956,7 +964,7 @@
     },
     {
       "raw_hot": 156743,
-      "num": 156743,
+      "num": 159702,
       "word": "日本东京全球人口排名下跌",
       "onboard_time": 1767322760,
       "rank": 8,
@@ -1001,14 +1009,6 @@
       "onboard_time": 1767318021,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 148485,
-      "num": 156737,
-      "word": "骄阳似我剧粉盘",
-      "onboard_time": 1767325340,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 148313,
@@ -1057,6 +1057,14 @@
       "onboard_time": 1767179961,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142000,
+      "num": 156634,
+      "word": "患病后送外卖硕士称不做长期规划",
+      "onboard_time": 1767325700,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141726,
@@ -1233,6 +1241,14 @@
       "onboard_time": 1767266060,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 125190,
+      "num": 125190,
+      "word": "中彩票后先捐款再交税",
+      "onboard_time": 1767327260,
+      "rank": 30,
+      "category": "科学科普,幽默"
     },
     {
       "raw_hot": 124742,
@@ -1731,12 +1747,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 88371,
+      "num": 596098,
+      "word": "2026国补怎么补",
+      "onboard_time": 1767323960,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 88003,
       "num": 954463,
       "word": "打错字同事以为在卖萌",
       "onboard_time": 1767266780,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 87924,
+      "num": 156510,
+      "word": "日本精致的窘迫",
+      "onboard_time": 1767326360,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 87749,
@@ -1859,6 +1891,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 84465,
+      "num": 745869,
+      "word": "中国人造太阳实验又有新突破",
+      "onboard_time": 1767324079,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 84429,
       "num": 225397,
       "word": "一人之下宝儿姐明天见",
@@ -1867,12 +1907,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 83766,
-      "num": 712378,
-      "word": "中国人造太阳实验又有新突破",
-      "onboard_time": 1767324079,
-      "rank": 1,
-      "category": "国内时政"
+      "raw_hot": 83903,
+      "num": 156577,
+      "word": "香港人第一次搓澡的体验",
+      "onboard_time": 1767323539,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 83735,
@@ -1907,14 +1947,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 82359,
-      "num": 156510,
-      "word": "日本精致的窘迫",
-      "onboard_time": 1767326360,
-      "rank": 32,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 82220,
       "num": 1003339,
       "word": "40岁后最佳的运动方式",
@@ -1937,6 +1969,14 @@
       "onboard_time": 1767323240,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 79727,
+      "num": 125535,
+      "word": "壁仞科技暴涨82%",
+      "onboard_time": 1767327319,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 79149,
@@ -1993,14 +2033,6 @@
       "onboard_time": 1767272421,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 76700,
-      "num": 590156,
-      "word": "2026国补怎么补",
-      "onboard_time": 1767323960,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 76593,
@@ -2081,14 +2113,6 @@
       "onboard_time": 1767228320,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 72768,
-      "num": 156577,
-      "word": "香港人第一次搓澡的体验",
-      "onboard_time": 1767323539,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 72757,
@@ -2243,6 +2267,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66181,
+      "num": 125365,
+      "word": "千万粉丝网红成名前是洗头工",
+      "onboard_time": 1767327380,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 65980,
+      "num": 125081,
+      "word": "和领导同一天休息感觉很亏",
+      "onboard_time": 1767327019,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 65956,
       "num": 156559,
       "word": "养了一只不扫兴的猫",
@@ -2273,6 +2313,14 @@
       "onboard_time": 1767277101,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 65324,
+      "num": 124968,
+      "word": "爱吃蜂蜜小面包的人天塌了",
+      "onboard_time": 1767327140,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 64993,
@@ -2353,54 +2401,6 @@
       "onboard_time": 1767321140,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 62612,
-      "num": 643876,
-      "word": "DeepSeek元旦新论文",
-      "onboard_time": 1767273022,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 62311,
-      "num": 643873,
-      "word": "毛孩子一身肌肉",
-      "onboard_time": 1767272241,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 62236,
-      "num": 547575,
-      "word": "它还知道开凉水",
-      "onboard_time": 1767249921,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 62072,
-      "num": 114415,
-      "word": "林诗栋回复韩昊霖",
-      "onboard_time": 1767309856,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 61972,
-      "num": 643871,
-      "word": "CBA新年大战",
-      "onboard_time": 1767272362,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 61247,
-      "num": 587831,
-      "word": "和奥迪E5一起启程2026",
-      "onboard_time": 1767240260,
-      "rank": 18,
-      "category": "汽车"
     }
   ],
   "hotgov_list": [
