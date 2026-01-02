@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767349847901,
+  "endTime": 1767350787357,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -299,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 384371,
+      "num": 594085,
+      "word": "警惕日本军国主义在文体领域的渗透",
+      "onboard_time": 1767349221,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 379921,
       "num": 1398075,
       "word": "湖南卫视跨年演唱会",
@@ -531,6 +539,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 280181,
+      "num": 1003919,
+      "word": "骄阳似我",
+      "onboard_time": 1767264681,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280003,
       "num": 1004834,
       "word": "茅台1499元直销成黄牛噩梦",
@@ -635,14 +651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 258381,
-      "num": 1003919,
-      "word": "骄阳似我",
-      "onboard_time": 1767264681,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 253320,
       "num": 501274,
       "word": "终于懂老人分不清ai的无力感了",
@@ -675,16 +683,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 235953,
-      "num": 581676,
-      "word": "警惕日本军国主义在文体领域的渗透",
-      "onboard_time": 1767349221,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 235792,
-      "num": 758009,
+      "num": 770313,
       "word": "20块和2000块相机差距",
       "onboard_time": 1767339979,
       "rank": 8,
@@ -729,6 +729,14 @@
       "onboard_time": 1767196407,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217871,
+      "num": 542851,
+      "word": "宋威龙 年度计划完成",
+      "onboard_time": 1767349760,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 215431,
@@ -953,14 +961,6 @@
       "onboard_time": 1767264440,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 184864,
-      "num": 542851,
-      "word": "宋威龙 年度计划完成",
-      "onboard_time": 1767349760,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 184609,
@@ -1331,6 +1331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155693,
+      "num": 575245,
+      "word": "骄阳似我 梅园定情",
+      "onboard_time": 1767349580,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154128,
       "num": 543492,
       "word": "海航客服称空姐戴长发簪无安全隐患",
@@ -1523,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139792,
+      "num": 550536,
+      "word": "看一人之下6不敢快进",
+      "onboard_time": 1767350182,
+      "rank": 6,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 139426,
       "num": 991989,
       "word": "林屿森聂曦光和好",
@@ -1683,6 +1699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129286,
+      "num": 553047,
+      "word": "骑手实测平台1分钟现实才42秒",
+      "onboard_time": 1767348079,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128746,
       "num": 260524,
       "word": "监控被叫做猫眼是有理由的",
@@ -1795,6 +1819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122722,
+      "num": 487892,
+      "word": "花海KPL管培生上线",
+      "onboard_time": 1767350719,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121777,
       "num": 249724,
       "word": "老板0秒听懂1秒接受2秒加入",
@@ -1817,14 +1849,6 @@
       "onboard_time": 1767322280,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121091,
-      "num": 553047,
-      "word": "骑手实测平台1分钟现实才42秒",
-      "onboard_time": 1767348079,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121031,
@@ -2001,6 +2025,14 @@
       "onboard_time": 1767197729,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112332,
+      "num": 487731,
+      "word": "这就是决赛的暖阳",
+      "onboard_time": 1767350660,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 111526,
@@ -2195,6 +2227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 100512,
+      "num": 485282,
+      "word": "娜扎 杨迪很可爱啊",
+      "onboard_time": 1767350421,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100064,
       "num": 135082,
       "word": "新年第一刀是三条蛇给的",
@@ -2385,14 +2425,6 @@
       "onboard_time": 1767346521,
       "rank": 31,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 91629,
-      "num": 527637,
-      "word": "骄阳似我 梅园定情",
-      "onboard_time": 1767349580,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 91254,
@@ -2635,6 +2667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85336,
+      "num": 484798,
+      "word": "成龙缅怀袁祥仁",
+      "onboard_time": 1767350660,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85054,
       "num": 208968,
       "word": "鹅厂恋综终于做到中老年赛道了",
@@ -2811,6 +2851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78954,
+      "num": 484632,
+      "word": "退货女装发现有血迹服装电商发声",
+      "onboard_time": 1767348079,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78860,
       "num": 451752,
       "word": "113分钟的电影废了我2包纸巾",
@@ -2875,6 +2923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 76940,
+      "num": 524892,
+      "word": "郭芙蓉月薪500元",
+      "onboard_time": 1767349822,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76863,
       "num": 147574,
       "word": "男子带女朋友跨年送帕拉梅拉",
@@ -2913,6 +2969,14 @@
       "onboard_time": 1767340940,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76155,
+      "num": 484498,
+      "word": "老一辈对我们睡懒觉的执念",
+      "onboard_time": 1767349940,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 76056,
@@ -3577,6 +3641,14 @@
       "onboard_time": 1767254119,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 58789,
+      "num": 483666,
+      "word": "亚历山大主动跟杨瀚森打招呼",
+      "onboard_time": 1767350480,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 58494,
@@ -4299,12 +4371,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37814,
-      "num": 524892,
-      "word": "郭芙蓉月薪500元",
-      "onboard_time": 1767349822,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 38546,
+      "num": 525436,
+      "word": "长沙一餐厅被指回收垃圾桶三文鱼",
+      "onboard_time": 1767349280,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37554,
@@ -4385,14 +4457,6 @@
       "onboard_time": 1767310397,
       "rank": 31,
       "category": "军事"
-    },
-    {
-      "raw_hot": 33734,
-      "num": 525436,
-      "word": "长沙一餐厅被指回收垃圾桶三文鱼",
-      "onboard_time": 1767349280,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33303,

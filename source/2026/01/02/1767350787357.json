@@ -1,0 +1,410 @@
+{
+  "runTime": 1767350787357,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 247640,
+        "num": 1039622,
+        "word": "闪迪股价飙涨559%",
+        "onboard_time": 1767340460,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 184287,
+        "num": 770313,
+        "word": "20块和2000块相机差距",
+        "onboard_time": 1767339979,
+        "rank": 1,
+        "category": "数码,幽默"
+      },
+      {
+        "raw_hot": 24434,
+        "num": 600615,
+        "word": "中国电影2026向新而行",
+        "onboard_time": 1767341540,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 384371,
+        "num": 594085,
+        "word": "警惕日本军国主义在文体领域的渗透",
+        "onboard_time": 1767349221,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155693,
+        "num": 575245,
+        "word": "骄阳似我 梅园定情",
+        "onboard_time": 1767349580,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175639,
+        "num": 560889,
+        "word": "幼儿园园长回应篮球表演失误出圈",
+        "onboard_time": 1767345679,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139792,
+        "num": 550536,
+        "word": "看一人之下6不敢快进",
+        "onboard_time": 1767350182,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 139209,
+        "num": 532589,
+        "word": "骄阳似我年度计划复盘会",
+        "onboard_time": 1767345501,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133907,
+        "num": 524717,
+        "word": "第一次看到歌手紧张得发抖",
+        "onboard_time": 1767348139,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133406,
+        "num": 515840,
+        "word": "顶级夫妻关系是合起伙来对付这个世界",
+        "onboard_time": 1767335479,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 811098,
+        "num": 499639,
+        "word": "怪不得实体店的衣服网上买不到",
+        "onboard_time": 1767347540,
+        "rank": 10,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 488156,
+        "num": 488156,
+        "word": "吃蒜 偏头痛",
+        "onboard_time": 1767346820,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 280912,
+        "num": 488053,
+        "word": "WB对战RW",
+        "onboard_time": 1767341059,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129286,
+        "num": 487963,
+        "word": "骑手实测平台1分钟现实才42秒",
+        "onboard_time": 1767348079,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122722,
+        "num": 487892,
+        "word": "花海KPL管培生上线",
+        "onboard_time": 1767350719,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112332,
+        "num": 487731,
+        "word": "这就是决赛的暖阳",
+        "onboard_time": 1767350660,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109604,
+        "num": 487592,
+        "word": "慢跑时器官在忙什么",
+        "onboard_time": 1767348201,
+        "rank": 16,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 104904,
+        "num": 487535,
+        "word": "父母帮买车vs自己买车",
+        "onboard_time": 1767347000,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101931,
+        "num": 487438,
+        "word": "KPL",
+        "onboard_time": 1767336621,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 73106,
+        "num": 487275,
+        "word": "多地网友晒贷款逾期记录清零",
+        "onboard_time": 1767332781,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 497902,
+        "num": 487114,
+        "word": "瑞士历史上最严重的悲剧之一",
+        "onboard_time": 1767345320,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 280181,
+        "num": 487009,
+        "word": "骄阳似我",
+        "onboard_time": 1767349460,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133321,
+        "num": 486957,
+        "word": "宝宝昏睡不醒体内查出安眠药成分",
+        "onboard_time": 1767344720,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96986,
+        "num": 486736,
+        "word": "暖阳好强",
+        "onboard_time": 1767347961,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 217871,
+        "num": 486616,
+        "word": "宋威龙 年度计划完成",
+        "onboard_time": 1767349760,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101715,
+        "num": 486510,
+        "word": "特朗普承认服用阿司匹林",
+        "onboard_time": 1767335598,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37895,
+        "num": 486485,
+        "word": "长城诵诗女生让我读懂了少年游",
+        "onboard_time": 1767349280,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100140,
+        "num": 486323,
+        "word": "原来这样玩手机才毁眼",
+        "onboard_time": 1767341721,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 71185,
+        "num": 486149,
+        "word": "苏州图书馆回应骄阳似我",
+        "onboard_time": 1767347900,
+        "rank": 28,
+        "category": "民生新闻,剧集"
+      },
+      {
+        "raw_hot": 63783,
+        "num": 486029,
+        "word": "发票留着能抽奖",
+        "onboard_time": 1767348920,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95925,
+        "num": 486001,
+        "word": "妈妈住院缺席儿子婚礼后病房改新房",
+        "onboard_time": 1767342498,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91791,
+        "num": 485862,
+        "word": "寻秦记 穿越",
+        "onboard_time": 1767343880,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114518,
+        "num": 485668,
+        "word": "张凌赫走秀",
+        "onboard_time": 1767339021,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98505,
+        "num": 485588,
+        "word": "女生甲流高烧狗狗饿得啃面粉",
+        "onboard_time": 1767336979,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86399,
+        "num": 485429,
+        "word": "个人缴纳社保你会交多少年",
+        "onboard_time": 1767342200,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83904,
+        "num": 485338,
+        "word": "中彩票后先捐款再交税",
+        "onboard_time": 1767327260,
+        "rank": 35,
+        "category": "科学科普,幽默"
+      },
+      {
+        "raw_hot": 100512,
+        "num": 485282,
+        "word": "娜扎 杨迪很可爱啊",
+        "onboard_time": 1767350421,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79682,
+        "num": 485154,
+        "word": "原来真有人上班是开心的",
+        "onboard_time": 1767335660,
+        "rank": 37,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 60032,
+        "num": 484962,
+        "word": "在长城哽咽背诗女孩回应走红",
+        "onboard_time": 1767338420,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76940,
+        "num": 484898,
+        "word": "郭芙蓉月薪500元",
+        "onboard_time": 1767349822,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85336,
+        "num": 484798,
+        "word": "成龙缅怀袁祥仁",
+        "onboard_time": 1767350660,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78954,
+        "num": 484632,
+        "word": "退货女装发现有血迹服装电商发声",
+        "onboard_time": 1767348079,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76155,
+        "num": 484498,
+        "word": "老一辈对我们睡懒觉的执念",
+        "onboard_time": 1767349940,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 73511,
+        "num": 484463,
+        "word": "当网红到上跨晚就用了两个月",
+        "onboard_time": 1767347600,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38546,
+        "num": 484336,
+        "word": "长沙一餐厅被指回收垃圾桶三文鱼",
+        "onboard_time": 1767349280,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91176,
+        "num": 484214,
+        "word": "沙溢发文纪念武林外传20周年",
+        "onboard_time": 1767342321,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72449,
+        "num": 484077,
+        "word": "美国脑癌大爷硬抗斩杀线",
+        "onboard_time": 1767334819,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 70152,
+        "num": 483986,
+        "word": "爱吃蜂蜜小面包的人天塌了",
+        "onboard_time": 1767327140,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67076,
+        "num": 483860,
+        "word": "周冠宇方回应离开法拉利",
+        "onboard_time": 1767344180,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58789,
+        "num": 483666,
+        "word": "亚历山大主动跟杨瀚森打招呼",
+        "onboard_time": 1767350480,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#新年贺词里的中国步伐#"
+    }
+  }
+}
