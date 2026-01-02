@@ -1,0 +1,410 @@
+{
+  "runTime": 1767396425937,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 71186,
+        "num": 748125,
+        "word": "车厘子价格暴跌近40%",
+        "onboard_time": 1767357020,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26753,
+        "num": 546776,
+        "word": "周冠宇 凯迪拉克",
+        "onboard_time": 1767364222,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21632,
+        "num": 448236,
+        "word": "元旦假期消费新图鉴",
+        "onboard_time": 1767358822,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97722,
+        "num": 448179,
+        "word": "日本动漫屡次出现旭日旗731部队",
+        "onboard_time": 1767364702,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 77668,
+        "num": 448123,
+        "word": "过家家",
+        "onboard_time": 1767371060,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 70410,
+        "num": 448058,
+        "word": "在英国痛了7周到中国四天就治好了",
+        "onboard_time": 1767361522,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49576,
+        "num": 448041,
+        "word": "2026第1天1万元内逾期结清者征信清零",
+        "onboard_time": 1767373637,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45309,
+        "num": 447931,
+        "word": "何不同舟渡",
+        "onboard_time": 1767363261,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33337,
+        "num": 447889,
+        "word": "海航空姐同款发簪长度为18cm",
+        "onboard_time": 1767367831,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27663,
+        "num": 447847,
+        "word": "WB冠军",
+        "onboard_time": 1767354981,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171914,
+        "num": 447758,
+        "word": "原来中年发福不是因为代谢变差",
+        "onboard_time": 1767395418,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161268,
+        "num": 447711,
+        "word": "女子以为嫁给武警其实嫁给了杀人犯",
+        "onboard_time": 1767358040,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142803,
+        "num": 447644,
+        "word": "怪不得实体店的衣服网上买不到",
+        "onboard_time": 1767347540,
+        "rank": 12,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 93027,
+        "num": 447557,
+        "word": "张本智和曾参拜东乡神社",
+        "onboard_time": 1767365550,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71465,
+        "num": 447499,
+        "word": "特朗普称美国已做好准备",
+        "onboard_time": 1767364702,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70951,
+        "num": 447417,
+        "word": "山姆被指多款商品货源与小象趋同",
+        "onboard_time": 1767355701,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53544,
+        "num": 447401,
+        "word": "上海月薪27000一天的花销",
+        "onboard_time": 1767365001,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49346,
+        "num": 447338,
+        "word": "偶像团体snowman被点名",
+        "onboard_time": 1767354441,
+        "rank": 17,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 36802,
+        "num": 447276,
+        "word": "韩国最新涉台表态",
+        "onboard_time": 1767358640,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31301,
+        "num": 447172,
+        "word": "暖阳铠FMVP皮肤",
+        "onboard_time": 1767361821,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134045,
+        "num": 447124,
+        "word": "酒店泄露妻子视频险致夫妻离婚",
+        "onboard_time": 1767359422,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70574,
+        "num": 447061,
+        "word": "伊朗骚乱",
+        "onboard_time": 1767368908,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 51191,
+        "num": 447024,
+        "word": "赵今麦穿了林屿森的衣服",
+        "onboard_time": 1767370399,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29559,
+        "num": 446916,
+        "word": "金价飙升原因找到了",
+        "onboard_time": 1767357261,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 46016,
+        "num": 446884,
+        "word": "建议大家多去线下逛逛实体店",
+        "onboard_time": 1767358101,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45065,
+        "num": 446789,
+        "word": "伊朗",
+        "onboard_time": 1767351020,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39427,
+        "num": 446747,
+        "word": "警方通报育儿嫂喂孩子安眠类药物",
+        "onboard_time": 1767357261,
+        "rank": 26,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 34012,
+        "num": 446690,
+        "word": "歌唱家紧张竟然扇自己嘴巴子",
+        "onboard_time": 1767394995,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22466,
+        "num": 446594,
+        "word": "养自己的8个习惯",
+        "onboard_time": 1767358702,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 15032,
+        "num": 446581,
+        "word": "爱具体的人过具体的生活",
+        "onboard_time": 1767368361,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42384,
+        "num": 446525,
+        "word": "尹锡悦桑拿房藏总统办公室暗门后",
+        "onboard_time": 1767374838,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26990,
+        "num": 446414,
+        "word": "骄阳似我热度",
+        "onboard_time": 1767360381,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25758,
+        "num": 446349,
+        "word": "瑞士火灾仍有遇难者遗体躺在酒吧",
+        "onboard_time": 1767378137,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22953,
+        "num": 446327,
+        "word": "王者中登场率几乎为0的皮肤",
+        "onboard_time": 1767363801,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21772,
+        "num": 446237,
+        "word": "樊振东全英文接受采访",
+        "onboard_time": 1767368961,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20494,
+        "num": 446161,
+        "word": "西安多个政务大厅搬进商场",
+        "onboard_time": 1767355701,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20289,
+        "num": 446125,
+        "word": "总台专访李在明",
+        "onboard_time": 1767366211,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19410,
+        "num": 446029,
+        "word": "华晨宇热血番男主",
+        "onboard_time": 1767396258,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19008,
+        "num": 446016,
+        "word": "中概股全线大爆发",
+        "onboard_time": 1767369620,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 18925,
+        "num": 445946,
+        "word": "瑞士酒吧火灾遇难者遗体辨认困难",
+        "onboard_time": 1767381555,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 18744,
+        "num": 445848,
+        "word": "暖阳FMVP",
+        "onboard_time": 1767355762,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18097,
+        "num": 445830,
+        "word": "骄阳似我热度已破29000",
+        "onboard_time": 1767366331,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17476,
+        "num": 445767,
+        "word": "梓墨感谢朱天天",
+        "onboard_time": 1767355581,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17365,
+        "num": 445703,
+        "word": "华晨宇火星演唱会",
+        "onboard_time": 1767383417,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15276,
+        "num": 445612,
+        "word": "刘宇宁张峻豪合唱把你的名字念一万遍",
+        "onboard_time": 1767375917,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16626,
+        "num": 445569,
+        "word": "汪苏泷 我们",
+        "onboard_time": 1767365121,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14777,
+        "num": 445502,
+        "word": "瑞士酒吧火灾伤者年龄15至25岁",
+        "onboard_time": 1767383715,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 13740,
+        "num": 445448,
+        "word": "心疼今屿",
+        "onboard_time": 1767352822,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 11705,
+        "num": 445378,
+        "word": "小俞",
+        "onboard_time": 1767359242,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 9915,
+        "num": 445270,
+        "word": "国际金银高开",
+        "onboard_time": 1767373158,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#新年贺词里的中国步伐#"
+    }
+  }
+}
