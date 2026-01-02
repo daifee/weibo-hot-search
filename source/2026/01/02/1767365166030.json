@@ -1,0 +1,410 @@
+{
+  "runTime": 1767365166030,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 292957,
+        "num": 1046873,
+        "word": "车厘子价格暴跌近40%",
+        "onboard_time": 1767357020,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108804,
+        "num": 767925,
+        "word": "20块和2000块相机差距",
+        "onboard_time": 1767339979,
+        "rank": 1,
+        "category": "数码,幽默"
+      },
+      {
+        "raw_hot": 27724,
+        "num": 576370,
+        "word": "中国吸引外资韧性不减",
+        "onboard_time": 1767359360,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1141541,
+        "num": 566001,
+        "word": "WB冠军",
+        "onboard_time": 1767354981,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 551848,
+        "num": 551848,
+        "word": "骄阳似我热度",
+        "onboard_time": 1767360381,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343398,
+        "num": 547179,
+        "word": "在英国痛了7周到中国四天就治好了",
+        "onboard_time": 1767361522,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196157,
+        "num": 539585,
+        "word": "骄阳似我刷新腾讯纪录",
+        "onboard_time": 1767364581,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177302,
+        "num": 527575,
+        "word": "音乐缘计划2年度盛典",
+        "onboard_time": 1767358822,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121676,
+        "num": 518992,
+        "word": "西安多个政务大厅搬进商场",
+        "onboard_time": 1767355701,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153264,
+        "num": 513396,
+        "word": "何不同舟渡",
+        "onboard_time": 1767363261,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 786410,
+        "num": 501406,
+        "word": "暖阳铠FMVP皮肤",
+        "onboard_time": 1767361821,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 645766,
+        "num": 498268,
+        "word": "怪不得实体店的衣服网上买不到",
+        "onboard_time": 1767347540,
+        "rank": 11,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 604228,
+        "num": 487842,
+        "word": "女子以为嫁给武警其实嫁给了杀人犯",
+        "onboard_time": 1767358040,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384733,
+        "num": 476011,
+        "word": "韩国最新涉台表态",
+        "onboard_time": 1767358640,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 335560,
+        "num": 467457,
+        "word": "山姆被指多款商品货源与小象趋同",
+        "onboard_time": 1767355701,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317347,
+        "num": 460101,
+        "word": "暖阳FMVP",
+        "onboard_time": 1767355762,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 261198,
+        "num": 449635,
+        "word": "梓墨感谢朱天天",
+        "onboard_time": 1767355581,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 235916,
+        "num": 447051,
+        "word": "偶像团体snowman被点名",
+        "onboard_time": 1767354441,
+        "rank": 17,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 99963,
+        "num": 435876,
+        "word": "幼儿园园长回应篮球表演失误出圈",
+        "onboard_time": 1767345679,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17980,
+        "num": 422840,
+        "word": "日本动漫屡次出现旭日旗731部队",
+        "onboard_time": 1767364702,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 421302,
+        "num": 421302,
+        "word": "给张凌赫递麦的是靳梦佳",
+        "onboard_time": 1767360142,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247306,
+        "num": 421296,
+        "word": "伊朗",
+        "onboard_time": 1767351020,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 230135,
+        "num": 421174,
+        "word": "骄阳似我",
+        "onboard_time": 1767349460,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199597,
+        "num": 421120,
+        "word": "酒店泄露妻子视频险致夫妻离婚",
+        "onboard_time": 1767359422,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157241,
+        "num": 421052,
+        "word": "特朗普称美国已做好准备",
+        "onboard_time": 1767364702,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152310,
+        "num": 420951,
+        "word": "Gala决赛给Wei放狠话",
+        "onboard_time": 1767364641,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120680,
+        "num": 420876,
+        "word": "玉茗茶骨",
+        "onboard_time": 1767364462,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76636,
+        "num": 420816,
+        "word": "周冠宇 凯迪拉克",
+        "onboard_time": 1767364222,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65543,
+        "num": 420754,
+        "word": "巨型墙画所在村有商贩日入超2万元",
+        "onboard_time": 1767359481,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48106,
+        "num": 420661,
+        "word": "养自己的8个习惯",
+        "onboard_time": 1767358702,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 210903,
+        "num": 420568,
+        "word": "上海月薪27000一天的花销",
+        "onboard_time": 1767365001,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193523,
+        "num": 420504,
+        "word": "汪苏泷 我们",
+        "onboard_time": 1767365121,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112157,
+        "num": 420442,
+        "word": "音乐缘计划2年度盛典后台直播",
+        "onboard_time": 1767358280,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111967,
+        "num": 420308,
+        "word": "骄阳似我 梅园定情",
+        "onboard_time": 1767349580,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111590,
+        "num": 420279,
+        "word": "金价飙升原因找到了",
+        "onboard_time": 1767357261,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 170815,
+        "num": 420148,
+        "word": "姚晨再发短片纪念武林外传",
+        "onboard_time": 1767356241,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110336,
+        "num": 420122,
+        "word": "建议大家多去线下逛逛实体店",
+        "onboard_time": 1767358101,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104685,
+        "num": 420017,
+        "word": "小俞",
+        "onboard_time": 1767359242,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10233,
+        "num": 419954,
+        "word": "2025四川新生儿叫锦程雨桐最多",
+        "onboard_time": 1767364524,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162103,
+        "num": 419829,
+        "word": "宋威龙这段我先哭红了眼",
+        "onboard_time": 1767364222,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103426,
+        "num": 419779,
+        "word": "WB对战RW",
+        "onboard_time": 1767341059,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99285,
+        "num": 419685,
+        "word": "寻秦记",
+        "onboard_time": 1767365060,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93772,
+        "num": 419609,
+        "word": "钎城没上场",
+        "onboard_time": 1767356241,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129189,
+        "num": 419590,
+        "word": "梁淞问何美延换个人不好吗",
+        "onboard_time": 1767364881,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89063,
+        "num": 419453,
+        "word": "王者中登场率几乎为0的皮肤",
+        "onboard_time": 1767363801,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84733,
+        "num": 419390,
+        "word": "警方通报育儿嫂喂孩子安眠类药物",
+        "onboard_time": 1767357261,
+        "rank": 45,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 77682,
+        "num": 419311,
+        "word": "心疼今屿",
+        "onboard_time": 1767352822,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 70782,
+        "num": 419276,
+        "word": "王者荣耀",
+        "onboard_time": 1767355822,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 70319,
+        "num": 419166,
+        "word": "在上海花了一千块吃的汤泡饭",
+        "onboard_time": 1767352700,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 64534,
+        "num": 419082,
+        "word": "冷冷冷冷冷冷元旦冷冷冷冷冷冷",
+        "onboard_time": 1767340940,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2026为梦想奋斗为幸福打拼#"
+    }
+  }
+}

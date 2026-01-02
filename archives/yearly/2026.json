@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767364176654,
+  "endTime": 1767365166030,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -483,6 +483,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 343398,
+      "num": 899665,
+      "word": "在英国痛了7周到中国四天就治好了",
+      "onboard_time": 1767361522,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 341874,
       "num": 554801,
       "word": "妈妈住院缺席儿子婚礼后病房改新房",
@@ -651,7 +659,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 290836,
+      "raw_hot": 292957,
       "num": 3408349,
       "word": "车厘子价格暴跌近40%",
       "onboard_time": 1767357020,
@@ -843,14 +851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252197,
-      "num": 899665,
-      "word": "在英国痛了7周到中国四天就治好了",
-      "onboard_time": 1767361522,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 247621,
       "num": 1005141,
       "word": "2026年生娃基本不花钱",
@@ -1011,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210903,
+      "num": 420568,
+      "word": "上海月薪27000一天的花销",
+      "onboard_time": 1767365001,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208247,
       "num": 997322,
       "word": "狗狗第一次后悔自己的鼻子很灵",
@@ -1099,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196157,
+      "num": 539585,
+      "word": "骄阳似我刷新腾讯纪录",
+      "onboard_time": 1767364581,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194919,
       "num": 589052,
       "word": "东方卫视跨年神图",
@@ -1113,6 +1129,14 @@
       "onboard_time": 1767271581,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193523,
+      "num": 420504,
+      "word": "汪苏泷 我们",
+      "onboard_time": 1767365121,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 190910,
@@ -1563,6 +1587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 162103,
+      "num": 419829,
+      "word": "宋威龙这段我先哭红了眼",
+      "onboard_time": 1767364222,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162045,
       "num": 1006768,
       "word": "骄阳似我预告",
@@ -1643,6 +1675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157241,
+      "num": 421052,
+      "word": "特朗普称美国已做好准备",
+      "onboard_time": 1767364702,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 156743,
       "num": 159702,
       "word": "日本东京全球人口排名下跌",
@@ -1697,6 +1737,14 @@
       "onboard_time": 1767274162,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 152310,
+      "num": 420951,
+      "word": "Gala决赛给Wei放狠话",
+      "onboard_time": 1767364641,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 152152,
@@ -2107,6 +2155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129189,
+      "num": 419590,
+      "word": "梁淞问何美延换个人不好吗",
+      "onboard_time": 1767364881,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128746,
       "num": 260524,
       "word": "监控被叫做猫眼是有理由的",
@@ -2291,6 +2347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120680,
+      "num": 420876,
+      "word": "玉茗茶骨",
+      "onboard_time": 1767364462,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120647,
       "num": 880737,
       "word": "樊振东新外号叫做Funny",
@@ -2337,70 +2401,6 @@
       "onboard_time": 1767343880,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 117691,
-      "num": 588907,
-      "word": "湖南跨晚明星全员红装",
-      "onboard_time": 1767245422,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 117594,
-      "num": 284646,
-      "word": "谁懂石明鑫背刺文韬这段",
-      "onboard_time": 1767336500,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 117273,
-      "num": 588560,
-      "word": "微博之夜",
-      "onboard_time": 1767249260,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 116990,
-      "num": 589160,
-      "word": "爬楼机要爬上泰山了",
-      "onboard_time": 1767246080,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116773,
-      "num": 523154,
-      "word": "汪苏泷快把歌手2026首发凑齐了",
-      "onboard_time": 1767348259,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 116756,
-      "num": 182741,
-      "word": "梓墨值得",
-      "onboard_time": 1767355882,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 116655,
-      "num": 1028030,
-      "word": "汪苏泷伴手礼伸手还真有人给",
-      "onboard_time": 1767352581,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 116564,
-      "num": 317466,
-      "word": "不敢让孩子玩户外充气城堡了",
-      "onboard_time": 1767223758,
-      "rank": 13,
-      "category": "情感"
     }
   ],
   "hotgov_list": [
