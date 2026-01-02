@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767361858989,
+  "endTime": 1767364176654,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 623347,
+      "num": 3142892,
+      "word": "骄阳似我热度",
+      "onboard_time": 1767360381,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 614251,
       "num": 1390868,
       "word": "种地吧",
@@ -193,14 +201,6 @@
       "onboard_time": 1767346820,
       "rank": 35,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 557158,
-      "num": 3142892,
-      "word": "骄阳似我热度",
-      "onboard_time": 1767360381,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 550391,
@@ -345,6 +345,14 @@
       "onboard_time": 1767327140,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 451400,
+      "num": 928764,
+      "word": "韩国最新涉台表态",
+      "onboard_time": 1767358640,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 428471,
@@ -803,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 256647,
+      "num": 919686,
+      "word": "偶像团体snowman被点名",
+      "onboard_time": 1767354441,
+      "rank": 40,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 253320,
       "num": 501274,
       "word": "终于懂老人分不清ai的无力感了",
@@ -827,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252197,
+      "num": 899665,
+      "word": "在英国痛了7周到中国四天就治好了",
+      "onboard_time": 1767361522,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 247621,
       "num": 1005141,
       "word": "2026年生娃基本不花钱",
@@ -849,14 +873,6 @@
       "onboard_time": 1767352460,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 236887,
-      "num": 919686,
-      "word": "偶像团体snowman被点名",
-      "onboard_time": 1767354441,
-      "rank": 40,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 235792,
@@ -921,14 +937,6 @@
       "onboard_time": 1767354861,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 219363,
-      "num": 928764,
-      "word": "韩国最新涉台表态",
-      "onboard_time": 1767358640,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 219002,
@@ -1033,6 +1041,14 @@
       "onboard_time": 1767257842,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 204663,
+      "num": 913352,
+      "word": "酒店泄露妻子视频险致夫妻离婚",
+      "onboard_time": 1767359422,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 204105,
@@ -1307,14 +1323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181505,
-      "num": 913352,
-      "word": "酒店泄露妻子视频险致夫妻离婚",
-      "onboard_time": 1767359422,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 180487,
       "num": 225801,
       "word": "全网伙食最差狗子",
@@ -1385,6 +1393,14 @@
       "onboard_time": 1767268161,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173483,
+      "num": 623276,
+      "word": "何不同舟渡",
+      "onboard_time": 1767363261,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 173307,
@@ -1609,14 +1625,6 @@
       "onboard_time": 1767335359,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 158741,
-      "num": 899665,
-      "word": "在英国痛了7周到中国四天就治好了",
-      "onboard_time": 1767361522,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158582,
@@ -2739,6 +2747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99452,
+      "num": 220621,
+      "word": "王者中登场率几乎为0的皮肤",
+      "onboard_time": 1767363801,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 99363,
       "num": 133569,
       "word": "黄景瑜爱如潮水没有委屈全是嚣张",
@@ -2899,12 +2915,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93729,
+      "num": 219818,
+      "word": "汪苏泷被彩带锁喉了",
+      "onboard_time": 1767363261,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 93442,
       "num": 1117611,
       "word": "新年祝福",
       "onboard_time": 1767191909,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93421,
+      "num": 220080,
+      "word": "TheShy剑魔战胜Rookie",
+      "onboard_time": 1767362542,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 92894,
@@ -3137,6 +3169,14 @@
       "onboard_time": 1767344540,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 86633,
+      "num": 219390,
+      "word": "国产剧把后背发凉拍出来了",
+      "onboard_time": 1767362780,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 86555,
@@ -3467,6 +3507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76782,
+      "num": 1028555,
+      "word": "冷冷冷冷冷冷元旦冷冷冷冷冷冷",
+      "onboard_time": 1767340940,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76593,
       "num": 933625,
       "word": "iG战胜LNG",
@@ -3489,14 +3537,6 @@
       "onboard_time": 1767265760,
       "rank": 34,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 76162,
-      "num": 1028555,
-      "word": "冷冷冷冷冷冷元旦冷冷冷冷冷冷",
-      "onboard_time": 1767340940,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76155,
@@ -3905,6 +3945,14 @@
       "onboard_time": 1767241340,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 65650,
+      "num": 218622,
+      "word": "学霸冠军邵雨琪太强了",
+      "onboard_time": 1767361462,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 65620,
@@ -4819,6 +4867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42066,
+      "num": 220379,
+      "word": "亚洲资产爆发",
+      "onboard_time": 1767363021,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 41976,
       "num": 182828,
       "word": "印度中央邦饮用水污染10人死",
@@ -5123,6 +5179,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 26133,
+      "num": 219980,
+      "word": "大国重器网购便宜200万",
+      "onboard_time": 1767363321,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25076,
       "num": 999750,
       "word": "元旦假期消费新图鉴",
@@ -5379,6 +5443,9 @@
     },
     {
       "word": "#新年贺词里的中国步伐#"
+    },
+    {
+      "word": "#2026为梦想奋斗为幸福打拼#"
     }
   ]
 }
