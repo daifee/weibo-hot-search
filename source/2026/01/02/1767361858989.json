@@ -1,0 +1,410 @@
+{
+  "runTime": 1767361858989,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3566119,
+        "num": 3566119,
+        "word": "WB冠军",
+        "onboard_time": 1767354981,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 290836,
+        "num": 3408349,
+        "word": "车厘子价格暴跌近40%",
+        "onboard_time": 1767357020,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34004,
+        "num": 3244552,
+        "word": "中国吸引外资韧性不减",
+        "onboard_time": 1767359360,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 557158,
+        "num": 3142892,
+        "word": "骄阳似我热度",
+        "onboard_time": 1767360381,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141835,
+        "num": 2995745,
+        "word": "音乐缘计划2年度盛典后台直播",
+        "onboard_time": 1767358280,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196753,
+        "num": 2774672,
+        "word": "西安多个政务大厅搬进商场",
+        "onboard_time": 1767355701,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120345,
+        "num": 2641745,
+        "word": "音乐缘计划2年度盛典",
+        "onboard_time": 1767358822,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112961,
+        "num": 2519848,
+        "word": "幼儿园园长回应篮球表演失误出圈",
+        "onboard_time": 1767345679,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110699,
+        "num": 2320284,
+        "word": "20块和2000块相机差距",
+        "onboard_time": 1767339979,
+        "rank": 8,
+        "category": "数码,幽默"
+      },
+      {
+        "raw_hot": 98269,
+        "num": 2105523,
+        "word": "巨型墙画所在村有商贩日入超2万元",
+        "onboard_time": 1767359481,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2040173,
+        "num": 2040173,
+        "word": "暖阳FMVP",
+        "onboard_time": 1767355762,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1374474,
+        "num": 1374474,
+        "word": "暖阳铠FMVP皮肤",
+        "onboard_time": 1767361821,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 940105,
+        "num": 940105,
+        "word": "女子以为嫁给武警其实嫁给了杀人犯",
+        "onboard_time": 1767358040,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 550391,
+        "num": 938396,
+        "word": "暖阳好强",
+        "onboard_time": 1767347961,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 530312,
+        "num": 937384,
+        "word": "山姆被指多款商品货源与小象趋同",
+        "onboard_time": 1767355701,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 452013,
+        "num": 935951,
+        "word": "梓墨感谢朱天天",
+        "onboard_time": 1767355581,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 446252,
+        "num": 932561,
+        "word": "怪不得实体店的衣服网上买不到",
+        "onboard_time": 1767347540,
+        "rank": 16,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 362967,
+        "num": 930830,
+        "word": "FMVP皮肤",
+        "onboard_time": 1767354981,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 219363,
+        "num": 928764,
+        "word": "韩国最新涉台表态",
+        "onboard_time": 1767358640,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 213893,
+        "num": 926726,
+        "word": "WB对战RW",
+        "onboard_time": 1767341059,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 572505,
+        "num": 925354,
+        "word": "给张凌赫递麦的是靳梦佳",
+        "onboard_time": 1767360142,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 471190,
+        "num": 922238,
+        "word": "骄阳似我",
+        "onboard_time": 1767349460,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211678,
+        "num": 921933,
+        "word": "伊朗",
+        "onboard_time": 1767351020,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203098,
+        "num": 919686,
+        "word": "偶像团体snowman被点名",
+        "onboard_time": 1767354441,
+        "rank": 23,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 195017,
+        "num": 916914,
+        "word": "在上海花了一千块吃的汤泡饭",
+        "onboard_time": 1767352700,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 184652,
+        "num": 916189,
+        "word": "小俞",
+        "onboard_time": 1767359242,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181505,
+        "num": 913352,
+        "word": "酒店泄露妻子视频险致夫妻离婚",
+        "onboard_time": 1767359422,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56908,
+        "num": 911431,
+        "word": "养自己的8个习惯",
+        "onboard_time": 1767358702,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 34890,
+        "num": 908343,
+        "word": "贵金属全线上升",
+        "onboard_time": 1767354140,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 31946,
+        "num": 906668,
+        "word": "港股大涨原因",
+        "onboard_time": 1767345860,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 84855,
+        "num": 904523,
+        "word": "音乐缘计划",
+        "onboard_time": 1767338299,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 474647,
+        "num": 904079,
+        "word": "杨某人抽奖",
+        "onboard_time": 1767360623,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163860,
+        "num": 902077,
+        "word": "姚晨再发短片纪念武林外传",
+        "onboard_time": 1767356241,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158741,
+        "num": 899665,
+        "word": "在英国痛了7周到中国四天就治好了",
+        "onboard_time": 1767361522,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150733,
+        "num": 897825,
+        "word": "骄阳似我 梅园定情",
+        "onboard_time": 1767349580,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146984,
+        "num": 894509,
+        "word": "金价飙升原因找到了",
+        "onboard_time": 1767357261,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142967,
+        "num": 892561,
+        "word": "华晨宇 年轻的家主",
+        "onboard_time": 1767361640,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139619,
+        "num": 891858,
+        "word": "建议大家多去线下逛逛实体店",
+        "onboard_time": 1767358101,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23990,
+        "num": 888852,
+        "word": "元旦假期消费新图鉴",
+        "onboard_time": 1767358822,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131925,
+        "num": 886778,
+        "word": "吃蒜 偏头痛",
+        "onboard_time": 1767346820,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127543,
+        "num": 884411,
+        "word": "Gr对战成都Wolves",
+        "onboard_time": 1767356361,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122909,
+        "num": 882686,
+        "word": "宋威龙小发雷霆",
+        "onboard_time": 1767360981,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120647,
+        "num": 880737,
+        "word": "樊振东新外号叫做Funny",
+        "onboard_time": 1767361402,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114520,
+        "num": 878818,
+        "word": "年锦是神",
+        "onboard_time": 1767360202,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114097,
+        "num": 877770,
+        "word": "王者荣耀",
+        "onboard_time": 1767355822,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111364,
+        "num": 874939,
+        "word": "KPL",
+        "onboard_time": 1767336621,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110032,
+        "num": 872874,
+        "word": "闫妮廿年弹指一挥间",
+        "onboard_time": 1767359360,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109798,
+        "num": 871677,
+        "word": "警方通报育儿嫂喂孩子安眠类药物",
+        "onboard_time": 1767357261,
+        "rank": 47,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 20321,
+        "num": 868774,
+        "word": "多地网友晒贷款逾期记录清零",
+        "onboard_time": 1767332781,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 19245,
+        "num": 868169,
+        "word": "冷冷冷冷冷冷元旦冷冷冷冷冷冷",
+        "onboard_time": 1767340940,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新年贺词里的中国步伐#"
+    }
+  }
+}

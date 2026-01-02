@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767361186268,
+  "endTime": 1767361858989,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -11,8 +11,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 3274133,
-      "num": 3274133,
+      "raw_hot": 3566119,
+      "num": 3566119,
       "word": "WB冠军",
       "onboard_time": 1767354981,
       "rank": 0,
@@ -25,6 +25,22 @@
       "onboard_time": 1767177980,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2040173,
+      "num": 2040173,
+      "word": "暖阳FMVP",
+      "onboard_time": 1767355762,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 1374474,
+      "num": 1374474,
+      "word": "暖阳铠FMVP皮肤",
+      "onboard_time": 1767361821,
+      "rank": 11,
+      "category": "电竞"
     },
     {
       "raw_hot": 1316774,
@@ -59,14 +75,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1115870,
-      "num": 1115870,
-      "word": "暖阳FMVP",
-      "onboard_time": 1767355762,
-      "rank": 10,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 1076314,
       "num": 1018912,
       "word": "个人存取款超5万元不再登记",
@@ -75,8 +83,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 913291,
-      "num": 631419,
+      "raw_hot": 940105,
+      "num": 940105,
       "word": "女子以为嫁给武警其实嫁给了杀人犯",
       "onboard_time": 1767358040,
       "rank": 17,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 740663,
-      "num": 740663,
+      "num": 935951,
       "word": "梓墨感谢朱天天",
       "onboard_time": 1767355581,
       "rank": 12,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 609117,
-      "num": 609117,
+      "num": 937384,
       "word": "山姆被指多款商品货源与小象趋同",
       "onboard_time": 1767355701,
       "rank": 22,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 599176,
-      "num": 599176,
+      "num": 904079,
       "word": "杨某人抽奖",
       "onboard_time": 1767360623,
       "rank": 31,
@@ -171,12 +179,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 572505,
+      "num": 925354,
+      "word": "给张凌赫递麦的是靳梦佳",
+      "onboard_time": 1767360142,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 558513,
       "num": 1030792,
       "word": "吃蒜 偏头痛",
       "onboard_time": 1767346820,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 557158,
+      "num": 3142892,
+      "word": "骄阳似我热度",
+      "onboard_time": 1767360381,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 550391,
+      "num": 1028094,
+      "word": "暖阳好强",
+      "onboard_time": 1767347961,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 546661,
@@ -275,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 471190,
+      "num": 1029037,
+      "word": "骄阳似我",
+      "onboard_time": 1767264681,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 470968,
       "num": 1399079,
       "word": "新年快乐图片",
@@ -289,14 +329,6 @@
       "onboard_time": 1767277642,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 460581,
-      "num": 1028094,
-      "word": "暖阳好强",
-      "onboard_time": 1767347961,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 455514,
@@ -371,14 +403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 390540,
-      "num": 605182,
-      "word": "给张凌赫递麦的是靳梦佳",
-      "onboard_time": 1767360142,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 379921,
       "num": 1398075,
       "word": "湖南卫视跨年演唱会",
@@ -393,6 +417,14 @@
       "onboard_time": 1767254181,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 362967,
+      "num": 930830,
+      "word": "FMVP皮肤",
+      "onboard_time": 1767354981,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 360186,
@@ -432,14 +464,6 @@
       "word": "WB对战RW",
       "onboard_time": 1767341059,
       "rank": 18,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 354719,
-      "num": 607154,
-      "word": "FMVP皮肤",
-      "onboard_time": 1767354981,
-      "rank": 15,
       "category": "电竞"
     },
     {
@@ -572,7 +596,7 @@
     },
     {
       "raw_hot": 303851,
-      "num": 1120850,
+      "num": 2774672,
       "word": "西安多个政务大厅搬进商场",
       "onboard_time": 1767355701,
       "rank": 5,
@@ -619,6 +643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 290836,
+      "num": 3408349,
+      "word": "车厘子价格暴跌近40%",
+      "onboard_time": 1767357020,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 289588,
       "num": 1394393,
       "word": "跨年朋友圈",
@@ -643,14 +675,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 280181,
-      "num": 1029037,
-      "word": "骄阳似我",
-      "onboard_time": 1767264681,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 280003,
       "num": 1004834,
       "word": "茅台1499元直销成黄牛噩梦",
@@ -665,14 +689,6 @@
       "onboard_time": 1767327740,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 278505,
-      "num": 1118949,
-      "word": "车厘子价格暴跌近40%",
-      "onboard_time": 1767357020,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 276902,
@@ -836,7 +852,7 @@
     },
     {
       "raw_hot": 236887,
-      "num": 606599,
+      "num": 919686,
       "word": "偶像团体snowman被点名",
       "onboard_time": 1767354441,
       "rank": 40,
@@ -844,19 +860,11 @@
     },
     {
       "raw_hot": 235792,
-      "num": 1124777,
+      "num": 2320284,
       "word": "20块和2000块相机差距",
       "onboard_time": 1767339979,
       "rank": 8,
       "category": "数码,幽默"
-    },
-    {
-      "raw_hot": 234868,
-      "num": 804207,
-      "word": "骄阳似我热度",
-      "onboard_time": 1767360381,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 232456,
@@ -876,7 +884,7 @@
     },
     {
       "raw_hot": 228187,
-      "num": 1000534,
+      "num": 2641745,
       "word": "音乐缘计划2年度盛典",
       "onboard_time": 1767358822,
       "rank": 4,
@@ -915,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219363,
+      "num": 928764,
+      "word": "韩国最新涉台表态",
+      "onboard_time": 1767358640,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 219002,
       "num": 1391514,
       "word": "央视舞美 夯爆了",
@@ -932,7 +948,7 @@
     },
     {
       "raw_hot": 215268,
-      "num": 598570,
+      "num": 894509,
       "word": "金价飙升原因找到了",
       "onboard_time": 1767357261,
       "rank": 25,
@@ -1027,14 +1043,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 200680,
-      "num": 603987,
-      "word": "韩国最新涉台表态",
-      "onboard_time": 1767358640,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 200600,
       "num": 251348,
       "word": "Faker获青龙勋章",
@@ -1044,7 +1052,7 @@
     },
     {
       "raw_hot": 200488,
-      "num": 599088,
+      "num": 902077,
       "word": "姚晨再发短片纪念武林外传",
       "onboard_time": 1767356241,
       "rank": 34,
@@ -1100,7 +1108,7 @@
     },
     {
       "raw_hot": 190777,
-      "num": 1123227,
+      "num": 2995745,
       "word": "音乐缘计划2年度盛典后台直播",
       "onboard_time": 1767358280,
       "rank": 3,
@@ -1108,7 +1116,7 @@
     },
     {
       "raw_hot": 190477,
-      "num": 591290,
+      "num": 872874,
       "word": "闫妮廿年弹指一挥间",
       "onboard_time": 1767359360,
       "rank": 24,
@@ -1188,7 +1196,7 @@
     },
     {
       "raw_hot": 185840,
-      "num": 1117280,
+      "num": 2519848,
       "word": "幼儿园园长回应篮球表演失误出圈",
       "onboard_time": 1767345679,
       "rank": 33,
@@ -1209,6 +1217,14 @@
       "onboard_time": 1767264440,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184652,
+      "num": 916189,
+      "word": "小俞",
+      "onboard_time": 1767359242,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 184609,
@@ -1252,7 +1268,7 @@
     },
     {
       "raw_hot": 182835,
-      "num": 597127,
+      "num": 891858,
       "word": "建议大家多去线下逛逛实体店",
       "onboard_time": 1767358101,
       "rank": 37,
@@ -1291,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181505,
+      "num": 913352,
+      "word": "酒店泄露妻子视频险致夫妻离婚",
+      "onboard_time": 1767359422,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180487,
       "num": 225801,
       "word": "全网伙食最差狗子",
@@ -1305,14 +1329,6 @@
       "onboard_time": 1767251960,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 180050,
-      "num": 603496,
-      "word": "酒店泄露妻子视频险致夫妻离婚",
-      "onboard_time": 1767359422,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 177477,
@@ -1436,7 +1452,7 @@
     },
     {
       "raw_hot": 167278,
-      "num": 601827,
+      "num": 878818,
       "word": "年锦是神",
       "onboard_time": 1767360202,
       "rank": 26,
@@ -1571,14 +1587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160823,
-      "num": 599436,
-      "word": "小俞",
-      "onboard_time": 1767359242,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 160002,
       "num": 1003524,
       "word": "唐宫奇案",
@@ -1601,6 +1609,14 @@
       "onboard_time": 1767335359,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 158741,
+      "num": 899665,
+      "word": "在英国痛了7周到中国四天就治好了",
+      "onboard_time": 1767361522,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158582,
@@ -1779,6 +1795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142967,
+      "num": 892561,
+      "word": "华晨宇 年轻的家主",
+      "onboard_time": 1767361640,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 142366,
       "num": 1004382,
       "word": "印度阅兵式将首次出现动物方队",
@@ -1828,7 +1852,7 @@
     },
     {
       "raw_hot": 141662,
-      "num": 595591,
+      "num": 871677,
       "word": "警方通报育儿嫂喂孩子安眠类药物",
       "onboard_time": 1767357261,
       "rank": 43,
@@ -1924,7 +1948,7 @@
     },
     {
       "raw_hot": 135816,
-      "num": 597622,
+      "num": 884411,
       "word": "Gr对战成都Wolves",
       "onboard_time": 1767356361,
       "rank": 44,
@@ -2171,6 +2195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122909,
+      "num": 882686,
+      "word": "宋威龙小发雷霆",
+      "onboard_time": 1767360981,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122862,
       "num": 960239,
       "word": "樊振东再次登上东方卫视跨年大屏",
@@ -2185,14 +2217,6 @@
       "onboard_time": 1767151581,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122734,
-      "num": 595856,
-      "word": "宋威龙小发雷霆",
-      "onboard_time": 1767360981,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 122722,
@@ -2257,6 +2281,14 @@
       "onboard_time": 1767316700,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120647,
+      "num": 880737,
+      "word": "樊振东新外号叫做Funny",
+      "onboard_time": 1767361402,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 120444,
@@ -2369,38 +2401,6 @@
       "onboard_time": 1767347000,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 115082,
-      "num": 1116347,
-      "word": "六公主点赞剑来2含金量",
-      "onboard_time": 1767356241,
-      "rank": 9,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 114917,
-      "num": 1004756,
-      "word": "逍遥",
-      "onboard_time": 1767263121,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 114514,
-      "num": 246233,
-      "word": "一直想吃但真吃到却很失望的食物",
-      "onboard_time": 1767321680,
-      "rank": 16,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 114424,
-      "num": 961163,
-      "word": "三亚元旦入境游客暴增5倍",
-      "onboard_time": 1767278843,
-      "rank": 15,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
