@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767382674932,
+  "endTime": 1767385867760,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -4651,6 +4651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 50790,
+      "num": 49656,
+      "word": "双轨",
+      "onboard_time": 1767382336,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 50398,
       "num": 156364,
       "word": "匿杀",
@@ -5651,12 +5659,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 17464,
-      "num": 49656,
-      "word": "双轨",
-      "onboard_time": 1767382336,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 17572,
+      "num": 58234,
+      "word": "瑞士酒吧火灾遇难者遗体辨认困难",
+      "onboard_time": 1767381555,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 16560,
@@ -5675,12 +5683,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14800,
-      "num": 58234,
-      "word": "瑞士酒吧火灾遇难者遗体辨认困难",
-      "onboard_time": 1767381555,
-      "rank": 47,
-      "category": "海外新闻"
+      "raw_hot": 15776,
+      "num": 29822,
+      "word": "华晨宇火星演唱会",
+      "onboard_time": 1767383417,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 14453,
@@ -5697,6 +5705,14 @@
       "onboard_time": 1767282620,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13670,
+      "num": 29797,
+      "word": "瑞士酒吧火灾伤者年龄15至25岁",
+      "onboard_time": 1767383715,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 13405,
@@ -5729,6 +5745,14 @@
       "onboard_time": 1767364524,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8012,
+      "num": 29781,
+      "word": "安东森2比0刘洋名宇",
+      "onboard_time": 1767382455,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 7329,

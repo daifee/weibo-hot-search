@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767382674932,
+  "endTime": 1767385867760,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -16755,6 +16755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 50790,
+      "num": 49656,
+      "word": "双轨",
+      "onboard_time": 1766964316,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 50753,
       "num": 97589,
       "word": "车顶维权女车主被特斯拉申请限高",
@@ -17449,14 +17457,6 @@
       "onboard_time": 1767166640,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44786,
-      "num": 49656,
-      "word": "双轨",
-      "onboard_time": 1766964316,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 44768,
@@ -19707,6 +19707,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17572,
+      "num": 58234,
+      "word": "瑞士酒吧火灾遇难者遗体辨认困难",
+      "onboard_time": 1767381555,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 17102,
       "num": 40562,
       "word": "东方卫视跨年66摇",
@@ -19779,6 +19787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15776,
+      "num": 29822,
+      "word": "华晨宇火星演唱会",
+      "onboard_time": 1767383417,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 15620,
       "num": 58323,
       "word": "罗永浩为直播迟到致歉",
@@ -19849,14 +19865,6 @@
       "onboard_time": 1766894480,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 14800,
-      "num": 58234,
-      "word": "瑞士酒吧火灾遇难者遗体辨认困难",
-      "onboard_time": 1767381555,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 14787,
@@ -19953,6 +19961,14 @@
       "onboard_time": 1767118036,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13670,
+      "num": 29797,
+      "word": "瑞士酒吧火灾伤者年龄15至25岁",
+      "onboard_time": 1767383715,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 13547,
@@ -20081,6 +20097,14 @@
       "onboard_time": 1766889679,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 8012,
+      "num": 29781,
+      "word": "安东森2比0刘洋名宇",
+      "onboard_time": 1767382455,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 7532,
