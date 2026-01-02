@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767343170986,
+  "endTime": 1767343960744,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -443,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 296611,
+      "num": 1047457,
+      "word": "在长城哽咽背诗女孩回应走红",
+      "onboard_time": 1767338420,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 294480,
       "num": 970701,
       "word": "白露的红夫人",
@@ -603,12 +611,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 250052,
-      "num": 1040008,
-      "word": "在长城哽咽背诗女孩回应走红",
-      "onboard_time": 1767338420,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 250971,
+      "num": 203488,
+      "word": "WB对战RW",
+      "onboard_time": 1767341059,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 247621,
@@ -700,7 +708,7 @@
     },
     {
       "raw_hot": 210511,
-      "num": 134961,
+      "num": 178153,
       "word": "沙溢发文纪念武林外传20周年",
       "onboard_time": 1767342321,
       "rank": 30,
@@ -820,7 +828,7 @@
     },
     {
       "raw_hot": 187542,
-      "num": 134494,
+      "num": 160519,
       "word": "王铮亮参加快男被评委劝退",
       "onboard_time": 1767341721,
       "rank": 34,
@@ -1003,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172863,
+      "num": 784072,
+      "word": "闪迪股价飙涨559%",
+      "onboard_time": 1767340460,
+      "rank": 3,
+      "category": "财经"
+    },
+    {
       "raw_hot": 172050,
       "num": 516077,
       "word": "骄阳似我剧粉盘",
@@ -1179,14 +1195,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 158918,
-      "num": 228141,
-      "word": "闪迪股价飙涨559%",
-      "onboard_time": 1767340460,
-      "rank": 3,
-      "category": "财经"
-    },
-    {
       "raw_hot": 158582,
       "num": 1403714,
       "word": "马航MH370搜寻船抵达目标海域",
@@ -1217,6 +1225,14 @@
       "onboard_time": 1767243319,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 155996,
+      "num": 182089,
+      "word": "2025挑战者杯决赛开幕式",
+      "onboard_time": 1767343940,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 155801,
@@ -1257,6 +1273,14 @@
       "onboard_time": 1767334819,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 150576,
+      "num": 185415,
+      "word": "心有林曦初吻",
+      "onboard_time": 1767341299,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 149958,
@@ -1316,7 +1340,7 @@
     },
     {
       "raw_hot": 142207,
-      "num": 142207,
+      "num": 180911,
       "word": "原来这样玩手机才毁眼",
       "onboard_time": 1767341721,
       "rank": 22,
@@ -1419,14 +1443,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 135872,
-      "num": 142490,
-      "word": "心有林曦初吻",
-      "onboard_time": 1767341299,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 135398,
       "num": 451780,
       "word": "郑恺一部戏一个有效出演",
@@ -1449,6 +1465,14 @@
       "onboard_time": 1767242119,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134609,
+      "num": 181492,
+      "word": "个人缴纳社保你会交多少年",
+      "onboard_time": 1767342200,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133531,
@@ -1851,14 +1875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109441,
-      "num": 142336,
-      "word": "WB对战RW",
-      "onboard_time": 1767341059,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 108310,
       "num": 1002235,
       "word": "桃晚安好牛",
@@ -2035,6 +2051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98520,
+      "num": 217909,
+      "word": "20块和2000块相机差距",
+      "onboard_time": 1767339979,
+      "rank": 8,
+      "category": "数码,幽默"
+    },
+    {
       "raw_hot": 98448,
       "num": 231798,
       "word": "王源沉迷于演小品无法自拔",
@@ -2083,6 +2107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96043,
+      "num": 221675,
+      "word": "国补最想买什么",
+      "onboard_time": 1767340460,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96005,
       "num": 578109,
       "word": "张远跨年四个半小时五十首歌",
@@ -2107,20 +2139,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95626,
+      "num": 183054,
+      "word": "洛阳博物馆情况说明",
+      "onboard_time": 1767342800,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94834,
       "num": 585204,
       "word": "无畏契约直播",
       "onboard_time": 1767262100,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 94516,
-      "num": 221675,
-      "word": "国补最想买什么",
-      "onboard_time": 1767340460,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94279,
@@ -2203,14 +2235,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 89674,
-      "num": 134783,
-      "word": "个人缴纳社保你会交多少年",
-      "onboard_time": 1767342200,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89583,
       "num": 1383396,
       "word": "上迪10岁生日庆典logo细节拉满",
@@ -2249,6 +2273,14 @@
       "onboard_time": 1767323960,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 88090,
+      "num": 204300,
+      "word": "海航客服称空姐戴长发簪无安全隐患",
+      "onboard_time": 1767342259,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88003,
@@ -2363,44 +2395,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 85848,
-      "num": 134635,
-      "word": "洛阳博物馆情况说明",
-      "onboard_time": 1767342800,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85683,
       "num": 251497,
       "word": "小马美甲",
       "onboard_time": 1767324858,
       "rank": 31,
       "category": "美妆,休闲"
-    },
-    {
-      "raw_hot": 85594,
-      "num": 1127359,
-      "word": "花花送的京东跨晚大奖是它",
-      "onboard_time": 1767195266,
-      "rank": 27,
-      "category": "艺人,互联网"
-    },
-    {
-      "raw_hot": 85560,
-      "num": 1003630,
-      "word": "不二之臣打响2026第一嘴",
-      "onboard_time": 1767261501,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 85054,
-      "num": 208968,
-      "word": "鹅厂恋综终于做到中老年赛道了",
-      "onboard_time": 1767340039,
-      "rank": 9,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
