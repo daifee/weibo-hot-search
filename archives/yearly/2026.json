@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767339909268,
+  "endTime": 1767343170986,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -603,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250052,
+      "num": 1040008,
+      "word": "在长城哽咽背诗女孩回应走红",
+      "onboard_time": 1767338420,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 247621,
       "num": 1005141,
       "word": "2026年生娃基本不花钱",
@@ -688,6 +696,14 @@
       "word": "cp最好嗑的是烂人真心",
       "onboard_time": 1767329781,
       "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 210511,
+      "num": 134961,
+      "word": "沙溢发文纪念武林外传20周年",
+      "onboard_time": 1767342321,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -801,6 +817,14 @@
       "onboard_time": 1767239301,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187542,
+      "num": 134494,
+      "word": "王铮亮参加快男被评委劝退",
+      "onboard_time": 1767341721,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 187044,
@@ -1155,6 +1179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 158918,
+      "num": 228141,
+      "word": "闪迪股价飙涨559%",
+      "onboard_time": 1767340460,
+      "rank": 3,
+      "category": "财经"
+    },
+    {
       "raw_hot": 158582,
       "num": 1403714,
       "word": "马航MH370搜寻船抵达目标海域",
@@ -1283,6 +1315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 142207,
+      "num": 142207,
+      "word": "原来这样玩手机才毁眼",
+      "onboard_time": 1767341721,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 142041,
       "num": 1124268,
       "word": "浙江卫视跨年晚会",
@@ -1377,6 +1417,14 @@
       "onboard_time": 1767338900,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135872,
+      "num": 142490,
+      "word": "心有林曦初吻",
+      "onboard_time": 1767341299,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 135398,
@@ -1515,14 +1563,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 127240,
-      "num": 322300,
-      "word": "在长城哽咽背诗女孩回应走红",
-      "onboard_time": 1767338420,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126795,
       "num": 451620,
       "word": "千万粉丝网红成名前是洗头工",
@@ -1545,6 +1585,14 @@
       "onboard_time": 1767331940,
       "rank": 31,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 125028,
+      "num": 125028,
+      "word": "梁淞婚后发现何美延跟想象中不一样",
+      "onboard_time": 1767342019,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 124742,
@@ -1683,6 +1731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114917,
+      "num": 291940,
+      "word": "音乐缘计划",
+      "onboard_time": 1767338299,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114514,
       "num": 246233,
       "word": "一直想吃但真吃到却很失望的食物",
@@ -1793,6 +1849,14 @@
       "onboard_time": 1767251058,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109441,
+      "num": 142336,
+      "word": "WB对战RW",
+      "onboard_time": 1767341059,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 108310,
@@ -1931,12 +1995,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 101374,
-      "num": 291940,
-      "word": "音乐缘计划",
-      "onboard_time": 1767338299,
-      "rank": 4,
-      "category": "综艺"
+      "raw_hot": 100064,
+      "num": 135082,
+      "word": "新年第一刀是三条蛇给的",
+      "onboard_time": 1767342139,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 99776,
@@ -2051,6 +2115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 94516,
+      "num": 221675,
+      "word": "国补最想买什么",
+      "onboard_time": 1767340460,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94279,
       "num": 214356,
       "word": "超10万人观看重庆首场跨年烟花秀",
@@ -2129,6 +2201,14 @@
       "onboard_time": 1767333919,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 89674,
+      "num": 134783,
+      "word": "个人缴纳社保你会交多少年",
+      "onboard_time": 1767342200,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89583,
@@ -2283,6 +2363,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 85848,
+      "num": 134635,
+      "word": "洛阳博物馆情况说明",
+      "onboard_time": 1767342800,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85683,
       "num": 251497,
       "word": "小马美甲",
@@ -2307,100 +2395,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 84855,
-      "num": 549838,
-      "word": "金价波动",
-      "onboard_time": 1767252739,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 84554,
-      "num": 247114,
-      "word": "宋威龙最近就这样在我主页刷屏",
-      "onboard_time": 1767329060,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 84465,
-      "num": 747751,
-      "word": "中国人造太阳实验又有新突破",
-      "onboard_time": 1767324079,
-      "rank": 1,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 84429,
-      "num": 225397,
-      "word": "一人之下宝儿姐明天见",
-      "onboard_time": 1767254780,
-      "rank": 17,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 83903,
-      "num": 248684,
-      "word": "香港人第一次搓澡的体验",
-      "onboard_time": 1767323539,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 83735,
-      "num": 588188,
-      "word": "俄方公布乌无人机袭击普京官邸细节",
-      "onboard_time": 1767248601,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 82939,
-      "num": 316359,
-      "word": "与鸿蒙共赴下一个1000天",
-      "onboard_time": 1767233302,
-      "rank": 24,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 82771,
-      "num": 555286,
-      "word": "雅迪和旺旺联名造车了",
-      "onboard_time": 1767250400,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82499,
-      "num": 1003472,
-      "word": "无畏契约手游直播",
-      "onboard_time": 1767262100,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 82220,
-      "num": 1003339,
-      "word": "40岁后最佳的运动方式",
-      "onboard_time": 1767258440,
-      "rank": 40,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 81593,
-      "num": 451039,
-      "word": "无限暖暖2.1版本",
-      "onboard_time": 1767331400,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 80848,
-      "num": 452047,
-      "word": "金价过山车有人一次变现近9斤黄金",
-      "onboard_time": 1767332719,
-      "rank": 35,
-      "category": "财经"
+      "raw_hot": 85054,
+      "num": 208968,
+      "word": "鹅厂恋综终于做到中老年赛道了",
+      "onboard_time": 1767340039,
+      "rank": 9,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
@@ -2424,6 +2424,9 @@
     },
     {
       "word": "#贺词里的中国#"
+    },
+    {
+      "word": "#新年贺词里的中国步伐#"
     }
   ]
 }

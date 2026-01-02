@@ -1,0 +1,410 @@
+{
+  "runTime": 1767343170986,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 250052,
+        "num": 1040008,
+        "word": "在长城哽咽背诗女孩回应走红",
+        "onboard_time": 1767338420,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113963,
+        "num": 743206,
+        "word": "美国关税大棒打了自己人",
+        "onboard_time": 1767321680,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24526,
+        "num": 576729,
+        "word": "中国电影2026向新而行",
+        "onboard_time": 1767341540,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158918,
+        "num": 228141,
+        "word": "闪迪股价飙涨559%",
+        "onboard_time": 1767340460,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114917,
+        "num": 224292,
+        "word": "音乐缘计划",
+        "onboard_time": 1767338299,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224260,
+        "num": 224260,
+        "word": "原来真有人上班是开心的",
+        "onboard_time": 1767335660,
+        "rank": 5,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 94516,
+        "num": 221675,
+        "word": "国补最想买什么",
+        "onboard_time": 1767340460,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90911,
+        "num": 216803,
+        "word": "湖南女生长城诵诗为何引全网共情",
+        "onboard_time": 1767330921,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66171,
+        "num": 212991,
+        "word": "20块和2000块相机差距",
+        "onboard_time": 1767339979,
+        "rank": 8,
+        "category": "数码,幽默"
+      },
+      {
+        "raw_hot": 85054,
+        "num": 208968,
+        "word": "鹅厂恋综终于做到中老年赛道了",
+        "onboard_time": 1767340039,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208838,
+        "num": 208838,
+        "word": "洛阳博物馆被曝一唐代陶马倒下断裂",
+        "onboard_time": 1767335479,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208444,
+        "num": 208444,
+        "word": "中彩票后先捐款再交税",
+        "onboard_time": 1767327260,
+        "rank": 11,
+        "category": "科学科普,幽默"
+      },
+      {
+        "raw_hot": 200004,
+        "num": 200004,
+        "word": "一个月四千不多一个星期一千花不完",
+        "onboard_time": 1767330380,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142491,
+        "num": 142491,
+        "word": "爱吃蜂蜜小面包的人天塌了",
+        "onboard_time": 1767327140,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135872,
+        "num": 142490,
+        "word": "心有林曦初吻",
+        "onboard_time": 1767341299,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129945,
+        "num": 142454,
+        "word": "顶级夫妻关系是合起伙来对付这个世界",
+        "onboard_time": 1767335479,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114847,
+        "num": 142407,
+        "word": "KPL",
+        "onboard_time": 1767336621,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111351,
+        "num": 142375,
+        "word": "Faker获青龙勋章",
+        "onboard_time": 1767337280,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109441,
+        "num": 142336,
+        "word": "WB对战RW",
+        "onboard_time": 1767341059,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28974,
+        "num": 142304,
+        "word": "海航客服称空姐戴长发簪无安全隐患",
+        "onboard_time": 1767342259,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 517587,
+        "num": 142266,
+        "word": "当我意识到姚晨在发圣地巡礼的时候",
+        "onboard_time": 1767338359,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145417,
+        "num": 142229,
+        "word": "特朗普承认服用阿司匹林",
+        "onboard_time": 1767335598,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142207,
+        "num": 142207,
+        "word": "原来这样玩手机才毁眼",
+        "onboard_time": 1767341721,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140997,
+        "num": 140997,
+        "word": "女生甲流高烧狗狗饿得啃面粉",
+        "onboard_time": 1767336979,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60163,
+        "num": 137334,
+        "word": "一人之下6",
+        "onboard_time": 1767322578,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 136950,
+        "num": 136950,
+        "word": "多地网友晒贷款逾期记录清零",
+        "onboard_time": 1767332781,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135358,
+        "num": 135358,
+        "word": "美国脑癌大爷硬抗斩杀线",
+        "onboard_time": 1767334819,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 107190,
+        "num": 135346,
+        "word": "美国患胎儿酒精综合症女子被赶出家",
+        "onboard_time": 1767330260,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105312,
+        "num": 135177,
+        "word": "泡面和煮面真的差很多",
+        "onboard_time": 1767325099,
+        "rank": 28,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 100064,
+        "num": 135082,
+        "word": "新年第一刀是三条蛇给的",
+        "onboard_time": 1767342139,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210511,
+        "num": 134961,
+        "word": "沙溢发文纪念武林外传20周年",
+        "onboard_time": 1767342321,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89674,
+        "num": 134783,
+        "word": "个人缴纳社保你会交多少年",
+        "onboard_time": 1767342200,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85848,
+        "num": 134635,
+        "word": "洛阳博物馆情况说明",
+        "onboard_time": 1767342800,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81939,
+        "num": 134623,
+        "word": "海航空姐统一戴长发簪遭质疑不安全",
+        "onboard_time": 1767323661,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187542,
+        "num": 134494,
+        "word": "王铮亮参加快男被评委劝退",
+        "onboard_time": 1767341721,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77753,
+        "num": 134309,
+        "word": "断舍离真的会上瘾",
+        "onboard_time": 1767340999,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76886,
+        "num": 134236,
+        "word": "武林外传导演回应小郭自由了",
+        "onboard_time": 1767326840,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76162,
+        "num": 134043,
+        "word": "冷冷冷冷冷冷元旦冷冷冷冷冷冷",
+        "onboard_time": 1767340940,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23852,
+        "num": 133935,
+        "word": "妈妈住院缺席儿子婚礼后病房改新房",
+        "onboard_time": 1767342498,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63959,
+        "num": 133899,
+        "word": "郭芙蓉自由了",
+        "onboard_time": 1767311777,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133779,
+        "num": 133779,
+        "word": "张凌赫走秀",
+        "onboard_time": 1767339021,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66946,
+        "num": 126339,
+        "word": "Faker回应获青龙奖",
+        "onboard_time": 1767342859,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 63288,
+        "num": 125315,
+        "word": "原神",
+        "onboard_time": 1767332060,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 59137,
+        "num": 125105,
+        "word": "宝宝哪见过这么大的阵仗",
+        "onboard_time": 1767343038,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125028,
+        "num": 125028,
+        "word": "梁淞婚后发现何美延跟想象中不一样",
+        "onboard_time": 1767342019,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56598,
+        "num": 124822,
+        "word": "2026国补启动首日销售额暴增",
+        "onboard_time": 1767342139,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56434,
+        "num": 124698,
+        "word": "打翻深圳博物馆只需要一句对不起",
+        "onboard_time": 1767341721,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56432,
+        "num": 124533,
+        "word": "化妆的意义在此刻具象化了",
+        "onboard_time": 1767337220,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 56177,
+        "num": 124196,
+        "word": "陆江来荣善宝同房了",
+        "onboard_time": 1767340341,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56171,
+        "num": 123929,
+        "word": "原神前瞻",
+        "onboard_time": 1767334819,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#新年贺词里的中国步伐#"
+    }
+  }
+}
