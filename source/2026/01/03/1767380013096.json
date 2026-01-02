@@ -1,0 +1,410 @@
+{
+  "runTime": 1767380013096,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 69399,
+        "num": 91381,
+        "word": "车厘子价格暴跌近40%",
+        "onboard_time": 1767357020,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31308,
+        "num": 87238,
+        "word": "周冠宇 凯迪拉克",
+        "onboard_time": 1767364222,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14018,
+        "num": 82726,
+        "word": "元旦假期消费新图鉴",
+        "onboard_time": 1767358822,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115681,
+        "num": 80146,
+        "word": "2026第1天1万元内逾期结清者征信清零",
+        "onboard_time": 1767373637,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100467,
+        "num": 76342,
+        "word": "WB冠军",
+        "onboard_time": 1767354981,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 73897,
+        "num": 73897,
+        "word": "日本动漫屡次出现旭日旗731部队",
+        "onboard_time": 1767364702,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 73089,
+        "num": 73089,
+        "word": "玉茗茶骨",
+        "onboard_time": 1767364462,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60090,
+        "num": 73070,
+        "word": "何不同舟渡",
+        "onboard_time": 1767363261,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43732,
+        "num": 73067,
+        "word": "骄阳似我热度已破29000",
+        "onboard_time": 1767366331,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28415,
+        "num": 73049,
+        "word": "在英国痛了7周到中国四天就治好了",
+        "onboard_time": 1767361522,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127763,
+        "num": 73014,
+        "word": "怪不得实体店的衣服网上买不到",
+        "onboard_time": 1767347540,
+        "rank": 10,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 83048,
+        "num": 73005,
+        "word": "女子以为嫁给武警其实嫁给了杀人犯",
+        "onboard_time": 1767358040,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79165,
+        "num": 72979,
+        "word": "偶像团体snowman被点名",
+        "onboard_time": 1767354441,
+        "rank": 12,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 55830,
+        "num": 72959,
+        "word": "张本智和曾参拜东乡神社",
+        "onboard_time": 1767365550,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54491,
+        "num": 72947,
+        "word": "暖阳铠FMVP皮肤",
+        "onboard_time": 1767361821,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 42017,
+        "num": 72916,
+        "word": "山姆被指多款商品货源与小象趋同",
+        "onboard_time": 1767355701,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39844,
+        "num": 72900,
+        "word": "梓墨感谢朱天天",
+        "onboard_time": 1767355581,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 39098,
+        "num": 72893,
+        "word": "韩国最新涉台表态",
+        "onboard_time": 1767358640,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38079,
+        "num": 72873,
+        "word": "上海月薪27000一天的花销",
+        "onboard_time": 1767365001,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36554,
+        "num": 72844,
+        "word": "暖阳FMVP",
+        "onboard_time": 1767355762,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 60216,
+        "num": 72819,
+        "word": "伊朗骚乱",
+        "onboard_time": 1767368908,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 56956,
+        "num": 72813,
+        "word": "赵今麦穿了林屿森的衣服",
+        "onboard_time": 1767370399,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45037,
+        "num": 72787,
+        "word": "酒店泄露妻子视频险致夫妻离婚",
+        "onboard_time": 1767359422,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35415,
+        "num": 72776,
+        "word": "伊朗",
+        "onboard_time": 1767351020,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31083,
+        "num": 72752,
+        "word": "骄阳似我",
+        "onboard_time": 1767349460,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29760,
+        "num": 72722,
+        "word": "特朗普称美国已做好准备",
+        "onboard_time": 1767364702,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28190,
+        "num": 72705,
+        "word": "王者中登场率几乎为0的皮肤",
+        "onboard_time": 1767363801,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19965,
+        "num": 72691,
+        "word": "爱具体的人过具体的生活",
+        "onboard_time": 1767368361,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16472,
+        "num": 72677,
+        "word": "海航空姐同款发簪长度为18cm",
+        "onboard_time": 1767367831,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15526,
+        "num": 72648,
+        "word": "养自己的8个习惯",
+        "onboard_time": 1767358702,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27480,
+        "num": 72626,
+        "word": "金价飙升原因找到了",
+        "onboard_time": 1767357261,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 50553,
+        "num": 72613,
+        "word": "尹锡悦桑拿房藏总统办公室暗门后",
+        "onboard_time": 1767374838,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37797,
+        "num": 72600,
+        "word": "汪苏泷 我们",
+        "onboard_time": 1767365121,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29262,
+        "num": 72568,
+        "word": "瑞士火灾仍有遇难者遗体躺在酒吧",
+        "onboard_time": 1767378137,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25144,
+        "num": 72556,
+        "word": "建议大家多去线下逛逛实体店",
+        "onboard_time": 1767358101,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24316,
+        "num": 72524,
+        "word": "心疼今屿",
+        "onboard_time": 1767352822,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 35680,
+        "num": 72513,
+        "word": "张凌赫进行曲",
+        "onboard_time": 1767368730,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23484,
+        "num": 72503,
+        "word": "过家家",
+        "onboard_time": 1767371060,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16263,
+        "num": 72478,
+        "word": "中概股全线大爆发",
+        "onboard_time": 1767369620,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 23280,
+        "num": 72460,
+        "word": "警方通报育儿嫂喂孩子安眠类药物",
+        "onboard_time": 1767357261,
+        "rank": 39,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 26526,
+        "num": 72429,
+        "word": "华晨宇演唱会",
+        "onboard_time": 1767357082,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22635,
+        "num": 72415,
+        "word": "刘宇宁张峻豪合唱把你的名字念一万遍",
+        "onboard_time": 1767375917,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20820,
+        "num": 72388,
+        "word": "小俞",
+        "onboard_time": 1767359242,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19298,
+        "num": 72373,
+        "word": "樊振东全英文接受采访",
+        "onboard_time": 1767368961,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25156,
+        "num": 72363,
+        "word": "汪苏泷十万伏特收官场",
+        "onboard_time": 1767378796,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19186,
+        "num": 72331,
+        "word": "骄阳似我热度",
+        "onboard_time": 1767360381,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18409,
+        "num": 72326,
+        "word": "总台专访李在明",
+        "onboard_time": 1767366211,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15760,
+        "num": 72301,
+        "word": "西安多个政务大厅搬进商场",
+        "onboard_time": 1767355701,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15395,
+        "num": 72271,
+        "word": "骄阳似我刷新腾讯纪录",
+        "onboard_time": 1767364581,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11631,
+        "num": 72251,
+        "word": "国际金银高开",
+        "onboard_time": 1767373158,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#新年贺词里的中国步伐#"
+    }
+  }
+}

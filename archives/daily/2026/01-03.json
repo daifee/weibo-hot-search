@@ -1,6 +1,6 @@
 {
   "startTime": 1767371718188,
-  "endTime": 1767379205650,
+  "endTime": 1767380013096,
   "band_list": [
     {
       "raw_hot": 459140,
@@ -443,6 +443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 29262,
+      "num": 80908,
+      "word": "瑞士火灾仍有遇难者遗体躺在酒吧",
+      "onboard_time": 1767378137,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 28358,
       "num": 233155,
       "word": "暖阳时隔五年再获FMVP",
@@ -465,14 +473,6 @@
       "onboard_time": 1767378796,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 24204,
-      "num": 80908,
-      "word": "瑞士火灾仍有遇难者遗体躺在酒吧",
-      "onboard_time": 1767378137,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 24137,

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767379205650,
+  "endTime": 1767380013096,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -5411,6 +5411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29262,
+      "num": 80908,
+      "word": "瑞士火灾仍有遇难者遗体躺在酒吧",
+      "onboard_time": 1767378137,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 28449,
       "num": 154435,
       "word": "冬泳舞台 伟大",
@@ -5473,14 +5481,6 @@
       "onboard_time": 1767238642,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 24204,
-      "num": 80908,
-      "word": "瑞士火灾仍有遇难者遗体躺在酒吧",
-      "onboard_time": 1767378137,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 24137,

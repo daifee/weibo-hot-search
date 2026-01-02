@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/03 00:35:18 ~ 2026/01/03 02:40:05
+本榜单时间：2026/01/03 00:35:18 ~ 2026/01/03 02:53:33
 </p>
 </blockquote>
 <p>
@@ -345,6 +345,12 @@ WB对战RW（热度：38379）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%A3%AB%E7%81%AB%E7%81%BE%E4%BB%8D%E6%9C%89%E9%81%87%E9%9A%BE%E8%80%85%E9%81%97%E4%BD%93%E8%BA%BA%E5%9C%A8%E9%85%92%E5%90%A7%23" target="weibo">
+瑞士火灾仍有遇难者遗体躺在酒吧（热度：29262）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%96%E9%98%B3%E6%97%B6%E9%9A%94%E4%BA%94%E5%B9%B4%E5%86%8D%E8%8E%B7FMVP%23" target="weibo">
 暖阳时隔五年再获FMVP（热度：28358）
 </a>
@@ -359,12 +365,6 @@ WB对战RW（热度：38379）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%8D%81%E4%B8%87%E4%BC%8F%E7%89%B9%E6%94%B6%E5%AE%98%E5%9C%BA%23" target="weibo">
 汪苏泷十万伏特收官场（热度：25561）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%A3%AB%E7%81%AB%E7%81%BE%E4%BB%8D%E6%9C%89%E9%81%87%E9%9A%BE%E8%80%85%E9%81%97%E4%BD%93%E8%BA%BA%E5%9C%A8%E9%85%92%E5%90%A7%23" target="weibo">
-瑞士火灾仍有遇难者遗体躺在酒吧（热度：24204）
 </a>
 </li>
 
