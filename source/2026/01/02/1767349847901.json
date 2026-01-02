@@ -1,0 +1,410 @@
+{
+  "runTime": 1767349847901,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 243673,
+        "num": 1038987,
+        "word": "闪迪股价飙涨559%",
+        "onboard_time": 1767340460,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 177479,
+        "num": 733368,
+        "word": "20块和2000块相机差距",
+        "onboard_time": 1767339979,
+        "rank": 1,
+        "category": "数码,幽默"
+      },
+      {
+        "raw_hot": 27448,
+        "num": 582976,
+        "word": "中国电影2026向新而行",
+        "onboard_time": 1767341540,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 235953,
+        "num": 581676,
+        "word": "警惕日本军国主义在文体领域的渗透",
+        "onboard_time": 1767349221,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178261,
+        "num": 577676,
+        "word": "骄阳似我年度计划复盘会",
+        "onboard_time": 1767345501,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185840,
+        "num": 573864,
+        "word": "幼儿园园长回应篮球表演失误出圈",
+        "onboard_time": 1767345679,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141112,
+        "num": 571306,
+        "word": "第一次看到歌手紧张得发抖",
+        "onboard_time": 1767348139,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134000,
+        "num": 568422,
+        "word": "顶级夫妻关系是合起伙来对付这个世界",
+        "onboard_time": 1767335479,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118329,
+        "num": 567400,
+        "word": "寻秦记 穿越",
+        "onboard_time": 1767343880,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 80391,
+        "num": 562783,
+        "word": "发票留着能抽奖",
+        "onboard_time": 1767348920,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 814910,
+        "num": 559599,
+        "word": "怪不得实体店的衣服网上买不到",
+        "onboard_time": 1767347540,
+        "rank": 10,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 558513,
+        "num": 558513,
+        "word": "吃蒜 偏头痛",
+        "onboard_time": 1767346820,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 295686,
+        "num": 558068,
+        "word": "WB对战RW",
+        "onboard_time": 1767341059,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163909,
+        "num": 556601,
+        "word": "慢跑时器官在忙什么",
+        "onboard_time": 1767348201,
+        "rank": 13,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 140859,
+        "num": 554801,
+        "word": "妈妈住院缺席儿子婚礼后病房改新房",
+        "onboard_time": 1767342498,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129394,
+        "num": 554321,
+        "word": "暖阳好强",
+        "onboard_time": 1767347961,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121091,
+        "num": 553047,
+        "word": "骑手实测平台1分钟现实才42秒",
+        "onboard_time": 1767348079,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115105,
+        "num": 551800,
+        "word": "父母帮买车vs自己买车",
+        "onboard_time": 1767347000,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114838,
+        "num": 550067,
+        "word": "逍遥",
+        "onboard_time": 1767349460,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44379,
+        "num": 548491,
+        "word": "长城诵诗女生让我读懂了少年游",
+        "onboard_time": 1767349280,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74554,
+        "num": 547487,
+        "word": "在长城哽咽背诗女孩回应走红",
+        "onboard_time": 1767338420,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 546661,
+        "num": 546661,
+        "word": "瑞士历史上最严重的悲剧之一",
+        "onboard_time": 1767345320,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 258381,
+        "num": 546158,
+        "word": "骄阳似我",
+        "onboard_time": 1767349460,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147347,
+        "num": 544381,
+        "word": "宝宝昏睡不醒体内查出安眠药成分",
+        "onboard_time": 1767344720,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65372,
+        "num": 543492,
+        "word": "海航客服称空姐戴长发簪无安全隐患",
+        "onboard_time": 1767342259,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184864,
+        "num": 542851,
+        "word": "宋威龙 年度计划完成",
+        "onboard_time": 1767349760,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109889,
+        "num": 540812,
+        "word": "KPL",
+        "onboard_time": 1767336621,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104280,
+        "num": 539097,
+        "word": "中彩票后先捐款再交税",
+        "onboard_time": 1767327260,
+        "rank": 27,
+        "category": "科学科普,幽默"
+      },
+      {
+        "raw_hot": 103098,
+        "num": 538203,
+        "word": "女生甲流高烧狗狗饿得啃面粉",
+        "onboard_time": 1767336979,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102760,
+        "num": 536927,
+        "word": "原来真有人上班是开心的",
+        "onboard_time": 1767335660,
+        "rank": 29,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 126739,
+        "num": 536175,
+        "word": "张杰新春演唱会秒空",
+        "onboard_time": 1767348920,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101581,
+        "num": 534038,
+        "word": "特朗普承认服用阿司匹林",
+        "onboard_time": 1767335598,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93122,
+        "num": 533680,
+        "word": "个人缴纳社保你会交多少年",
+        "onboard_time": 1767342200,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92479,
+        "num": 532366,
+        "word": "爱吃蜂蜜小面包的人天塌了",
+        "onboard_time": 1767327140,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120500,
+        "num": 531258,
+        "word": "张凌赫走秀",
+        "onboard_time": 1767339021,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91964,
+        "num": 530069,
+        "word": "原来这样玩手机才毁眼",
+        "onboard_time": 1767341721,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 91629,
+        "num": 527637,
+        "word": "骄阳似我 梅园定情",
+        "onboard_time": 1767349580,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71635,
+        "num": 527381,
+        "word": "苏州图书馆回应骄阳似我",
+        "onboard_time": 1767347900,
+        "rank": 37,
+        "category": "民生新闻,剧集"
+      },
+      {
+        "raw_hot": 33734,
+        "num": 525436,
+        "word": "长沙一餐厅被指回收垃圾桶三文鱼",
+        "onboard_time": 1767349280,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37814,
+        "num": 524892,
+        "word": "郭芙蓉月薪500元",
+        "onboard_time": 1767349822,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116773,
+        "num": 523154,
+        "word": "汪苏泷快把歌手2026首发凑齐了",
+        "onboard_time": 1767348259,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84453,
+        "num": 521915,
+        "word": "周冠宇方回应离开法拉利",
+        "onboard_time": 1767344180,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82878,
+        "num": 520292,
+        "word": "瑞士爆炸遇难者朋友称现场像恐怖片",
+        "onboard_time": 1767344540,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 78295,
+        "num": 519500,
+        "word": "当网红到上跨晚就用了两个月",
+        "onboard_time": 1767347600,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106435,
+        "num": 518573,
+        "word": "沙溢发文纪念武林外传20周年",
+        "onboard_time": 1767342321,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71678,
+        "num": 516882,
+        "word": "洛阳博物馆被曝一唐代陶马倒下断裂",
+        "onboard_time": 1767335479,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70418,
+        "num": 515419,
+        "word": "日本的精致生活其实只属于极少数人",
+        "onboard_time": 1767349280,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 70236,
+        "num": 514900,
+        "word": "多地网友晒贷款逾期记录清零",
+        "onboard_time": 1767332781,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 67672,
+        "num": 513487,
+        "word": "美国脑癌大爷硬抗斩杀线",
+        "onboard_time": 1767334819,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 66193,
+        "num": 511659,
+        "word": "25岁中国女子在悉尼海滩遇难",
+        "onboard_time": 1767346521,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新年贺词里的中国步伐#"
+    }
+  }
+}
