@@ -1,6 +1,6 @@
 {
   "startTime": 1767371718188,
-  "endTime": 1767381618070,
+  "endTime": 1767382674932,
   "band_list": [
     {
       "raw_hot": 459140,
@@ -507,6 +507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 23284,
+      "num": 49662,
+      "word": "跨年求婚搁王源这画风突变",
+      "onboard_time": 1767381797,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 22895,
       "num": 207357,
       "word": "人之初",
@@ -529,6 +537,14 @@
       "onboard_time": 1767368361,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 17464,
+      "num": 49656,
+      "word": "双轨",
+      "onboard_time": 1767382336,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 17085,

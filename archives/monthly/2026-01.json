@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767381618070,
+  "endTime": 1767382674932,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -5507,6 +5507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23284,
+      "num": 49662,
+      "word": "跨年求婚搁王源这画风突变",
+      "onboard_time": 1767381797,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 23174,
       "num": 453591,
       "word": "多国领导人的新年关键词",
@@ -5641,6 +5649,14 @@
       "onboard_time": 1767323780,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17464,
+      "num": 49656,
+      "word": "双轨",
+      "onboard_time": 1767382336,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 16560,
