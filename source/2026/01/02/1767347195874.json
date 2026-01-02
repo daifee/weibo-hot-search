@@ -1,0 +1,410 @@
+{
+  "runTime": 1767347195874,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 324453,
+        "num": 1051912,
+        "word": "闪迪股价飙涨559%",
+        "onboard_time": 1767340460,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 202927,
+        "num": 750985,
+        "word": "20块和2000块相机差距",
+        "onboard_time": 1767339979,
+        "rank": 1,
+        "category": "数码,幽默"
+      },
+      {
+        "raw_hot": 30736,
+        "num": 623879,
+        "word": "中国电影2026向新而行",
+        "onboard_time": 1767341540,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 194284,
+        "num": 194284,
+        "word": "骄阳似我年度计划复盘会",
+        "onboard_time": 1767345501,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153317,
+        "num": 169307,
+        "word": "在长城哽咽背诗女孩回应走红",
+        "onboard_time": 1767338420,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160709,
+        "num": 160709,
+        "word": "爱吃蜂蜜小面包的人天塌了",
+        "onboard_time": 1767327140,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154128,
+        "num": 154128,
+        "word": "海航客服称空姐戴长发簪无安全隐患",
+        "onboard_time": 1767342259,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117447,
+        "num": 154075,
+        "word": "寻秦记 穿越",
+        "onboard_time": 1767343880,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94261,
+        "num": 153930,
+        "word": "小城大事",
+        "onboard_time": 1767343699,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73645,
+        "num": 153730,
+        "word": "国补最想买什么",
+        "onboard_time": 1767340460,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341874,
+        "num": 153525,
+        "word": "妈妈住院缺席儿子婚礼后病房改新房",
+        "onboard_time": 1767342498,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273023,
+        "num": 153348,
+        "word": "WB对战RW",
+        "onboard_time": 1767341059,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153186,
+        "num": 153186,
+        "word": "中彩票后先捐款再交税",
+        "onboard_time": 1767327260,
+        "rank": 12,
+        "category": "科学科普,幽默"
+      },
+      {
+        "raw_hot": 150106,
+        "num": 150106,
+        "word": "周冠宇方回应离开法拉利",
+        "onboard_time": 1767344180,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147912,
+        "num": 147912,
+        "word": "顶级夫妻关系是合起伙来对付这个世界",
+        "onboard_time": 1767335479,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122679,
+        "num": 147107,
+        "word": "心有林曦初吻",
+        "onboard_time": 1767341299,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116296,
+        "num": 146489,
+        "word": "洛阳博物馆被曝一唐代陶马倒下断裂",
+        "onboard_time": 1767335479,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116284,
+        "num": 145174,
+        "word": "KPL",
+        "onboard_time": 1767336621,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99549,
+        "num": 143280,
+        "word": "泡面和煮面真的差很多",
+        "onboard_time": 1767325099,
+        "rank": 18,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 94548,
+        "num": 141614,
+        "word": "暖阳决赛首局MVP",
+        "onboard_time": 1767345920,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 358432,
+        "num": 140824,
+        "word": "当我意识到姚晨在发圣地巡礼的时候",
+        "onboard_time": 1767338359,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204088,
+        "num": 139738,
+        "word": "瑞士历史上最严重的悲剧之一",
+        "onboard_time": 1767345320,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 195197,
+        "num": 138314,
+        "word": "原来真有人上班是开心的",
+        "onboard_time": 1767335660,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 184212,
+        "num": 137170,
+        "word": "宝宝昏睡不醒体内查出安眠药成分",
+        "onboard_time": 1767344720,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135862,
+        "num": 135862,
+        "word": "一个月四千不多一个星期一千花不完",
+        "onboard_time": 1767330380,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127887,
+        "num": 135843,
+        "word": "个人缴纳社保你会交多少年",
+        "onboard_time": 1767342200,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121710,
+        "num": 135719,
+        "word": "原来这样玩手机才毁眼",
+        "onboard_time": 1767341721,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112094,
+        "num": 135638,
+        "word": "特朗普承认服用阿司匹林",
+        "onboard_time": 1767335598,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95295,
+        "num": 135543,
+        "word": "多地网友晒贷款逾期记录清零",
+        "onboard_time": 1767332781,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 67272,
+        "num": 135483,
+        "word": "港股大涨原因",
+        "onboard_time": 1767345860,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 184257,
+        "num": 135414,
+        "word": "沙溢发文纪念武林外传20周年",
+        "onboard_time": 1767342321,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91749,
+        "num": 135323,
+        "word": "25岁中国女子在悉尼海滩遇难",
+        "onboard_time": 1767346521,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 91391,
+        "num": 135287,
+        "word": "女生甲流高烧狗狗饿得啃面粉",
+        "onboard_time": 1767336979,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91149,
+        "num": 135202,
+        "word": "幼儿园园长回应篮球表演失误出圈",
+        "onboard_time": 1767345679,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135122,
+        "num": 135122,
+        "word": "王铮亮参加快男被评委劝退",
+        "onboard_time": 1767341721,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90856,
+        "num": 135042,
+        "word": "吃蒜 偏头痛",
+        "onboard_time": 1767346820,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88437,
+        "num": 134912,
+        "word": "美国脑癌大爷硬抗斩杀线",
+        "onboard_time": 1767334819,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88139,
+        "num": 134571,
+        "word": "父母帮买车vs自己买车",
+        "onboard_time": 1767347000,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100553,
+        "num": 134440,
+        "word": "张凌赫走秀",
+        "onboard_time": 1767339021,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86638,
+        "num": 134310,
+        "word": "瑞士爆炸遇难者朋友称现场像恐怖片",
+        "onboard_time": 1767344540,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 83914,
+        "num": 133992,
+        "word": "银价又大涨",
+        "onboard_time": 1767345201,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 71325,
+        "num": 133784,
+        "word": "八达岭邀请背诗女孩再游长城",
+        "onboard_time": 1767346160,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99363,
+        "num": 133569,
+        "word": "黄景瑜爱如潮水没有委屈全是嚣张",
+        "onboard_time": 1767346880,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70820,
+        "num": 133440,
+        "word": "音乐缘计划",
+        "onboard_time": 1767338299,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66585,
+        "num": 133340,
+        "word": "小猫闯祸后全是心眼子",
+        "onboard_time": 1767346579,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64245,
+        "num": 133052,
+        "word": "当朋友当上公务员时",
+        "onboard_time": 1767344000,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63777,
+        "num": 132842,
+        "word": "这是碗的极限不是我的极限",
+        "onboard_time": 1767346820,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62867,
+        "num": 132580,
+        "word": "Wolves对战TE",
+        "onboard_time": 1767337580,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 59689,
+        "num": 132545,
+        "word": "只有爸爸听进去了",
+        "onboard_time": 1767346459,
+        "rank": 48,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 58093,
+        "num": 132244,
+        "word": "冷冷冷冷冷冷元旦冷冷冷冷冷冷",
+        "onboard_time": 1767340940,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新年贺词里的中国步伐#"
+    }
+  }
+}

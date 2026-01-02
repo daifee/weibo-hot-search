@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767346425812,
+  "endTime": 1767347195874,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -323,19 +323,19 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 341874,
+      "num": 163178,
+      "word": "妈妈住院缺席儿子婚礼后病房改新房",
+      "onboard_time": 1767342498,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 341647,
       "num": 1005268,
       "word": "女孩吃蔡磊研发药渐冻症没再发展",
       "onboard_time": 1767260899,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 336708,
-      "num": 163178,
-      "word": "妈妈住院缺席儿子婚礼后病房改新房",
-      "onboard_time": 1767342498,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -345,6 +345,14 @@
       "onboard_time": 1767272301,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 324453,
+      "num": 1051912,
+      "word": "闪迪股价飙涨559%",
+      "onboard_time": 1767340460,
+      "rank": 3,
+      "category": "财经"
     },
     {
       "raw_hot": 322734,
@@ -393,14 +401,6 @@
       "onboard_time": 1767279382,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 316279,
-      "num": 1050604,
-      "word": "闪迪股价飙涨559%",
-      "onboard_time": 1767340460,
-      "rank": 3,
-      "category": "财经"
     },
     {
       "raw_hot": 314272,
@@ -523,6 +523,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 273023,
+      "num": 203488,
+      "word": "WB对战RW",
+      "onboard_time": 1767341059,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 270371,
       "num": 319438,
       "word": "生理性喜欢的4个信号",
@@ -537,14 +545,6 @@
       "onboard_time": 1767323661,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 268842,
-      "num": 203488,
-      "word": "WB对战RW",
-      "onboard_time": 1767341059,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 268507,
@@ -779,6 +779,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 204088,
+      "num": 139738,
+      "word": "瑞士历史上最严重的悲剧之一",
+      "onboard_time": 1767345320,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 200600,
       "num": 251348,
       "word": "Faker获青龙勋章",
@@ -923,6 +931,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 184212,
+      "num": 137170,
+      "word": "宝宝昏睡不醒体内查出安眠药成分",
+      "onboard_time": 1767344720,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184091,
       "num": 1029454,
       "word": "梅里雪山日照金山上新了",
@@ -985,14 +1001,6 @@
       "onboard_time": 1767247039,
       "rank": 6,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 177411,
-      "num": 129092,
-      "word": "宝宝昏睡不醒体内查出安眠药成分",
-      "onboard_time": 1767344720,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 177218,
@@ -1275,6 +1283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154128,
+      "num": 204300,
+      "word": "海航客服称空姐戴长发簪无安全隐患",
+      "onboard_time": 1767342259,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153774,
       "num": 1390194,
       "word": "抢红包",
@@ -1313,6 +1329,14 @@
       "onboard_time": 1767341299,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150106,
+      "num": 150106,
+      "word": "周冠宇方回应离开法拉利",
+      "onboard_time": 1767344180,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 149958,
@@ -1361,14 +1385,6 @@
       "onboard_time": 1767234861,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144977,
-      "num": 144977,
-      "word": "周冠宇方回应离开法拉利",
-      "onboard_time": 1767344180,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 144522,
@@ -1540,7 +1556,7 @@
     },
     {
       "raw_hot": 132328,
-      "num": 132328,
+      "num": 141614,
       "word": "暖阳决赛首局MVP",
       "onboard_time": 1767345920,
       "rank": 15,
@@ -1632,14 +1648,6 @@
       "word": "瑞士酒吧爆炸幸存者发声",
       "onboard_time": 1767315560,
       "rank": 22,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 127091,
-      "num": 127091,
-      "word": "瑞士历史上最严重的悲剧之一",
-      "onboard_time": 1767345320,
-      "rank": 26,
       "category": "海外新闻"
     },
     {
@@ -1787,6 +1795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117447,
+      "num": 158381,
+      "word": "寻秦记 穿越",
+      "onboard_time": 1767343880,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 117273,
       "num": 588560,
       "word": "微博之夜",
@@ -1888,14 +1904,6 @@
       "word": "跨年烟花秀",
       "onboard_time": 1767197729,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112071,
-      "num": 204300,
-      "word": "海航客服称空姐戴长发簪无安全隐患",
-      "onboard_time": 1767342259,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2084,7 +2092,7 @@
     },
     {
       "raw_hot": 101828,
-      "num": 126420,
+      "num": 135202,
       "word": "幼儿园园长回应篮球表演失误出圈",
       "onboard_time": 1767345679,
       "rank": 33,
@@ -2113,6 +2121,14 @@
       "onboard_time": 1767278542,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99363,
+      "num": 133569,
+      "word": "黄景瑜爱如潮水没有委屈全是嚣张",
+      "onboard_time": 1767346880,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 99017,
@@ -2243,6 +2259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94261,
+      "num": 164207,
+      "word": "小城大事",
+      "onboard_time": 1767343699,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93442,
       "num": 1117611,
       "word": "新年祝福",
@@ -2267,6 +2291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91749,
+      "num": 135323,
+      "word": "25岁中国女子在悉尼海滩遇难",
+      "onboard_time": 1767346521,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 91254,
       "num": 402183,
       "word": "为什么运动后皮肤变好了",
@@ -2281,6 +2313,14 @@
       "onboard_time": 1767334879,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 90856,
+      "num": 135042,
+      "word": "吃蒜 偏头痛",
+      "onboard_time": 1767346820,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 90198,
@@ -2323,14 +2363,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 89473,
-      "num": 164207,
-      "word": "小城大事",
-      "onboard_time": 1767343699,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 89312,
       "num": 990839,
       "word": "土耳其免签春节旅游热攀升",
@@ -2363,44 +2395,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 88003,
-      "num": 954463,
-      "word": "打错字同事以为在卖萌",
-      "onboard_time": 1767266780,
-      "rank": 35,
+      "raw_hot": 88139,
+      "num": 134571,
+      "word": "父母帮买车vs自己买车",
+      "onboard_time": 1767347000,
+      "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 87924,
-      "num": 402367,
-      "word": "日本精致的窘迫",
-      "onboard_time": 1767326360,
-      "rank": 32,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 87909,
-      "num": 280725,
-      "word": "当哥哥第一次见刚出生弟弟",
-      "onboard_time": 1767336979,
-      "rank": 47,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 87749,
-      "num": 1133162,
-      "word": "隔空碰杯成为新跨年仪式",
-      "onboard_time": 1767197550,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87367,
-      "num": 588386,
-      "word": "1499元飞天遭热抢",
-      "onboard_time": 1767235342,
-      "rank": 27,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
