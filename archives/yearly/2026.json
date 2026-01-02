@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767353179370,
+  "endTime": 1767353978887,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -19,6 +19,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1316774,
+      "num": 1032526,
+      "word": "张本智和被点名",
+      "onboard_time": 1767351621,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1214241,
       "num": 995964,
       "word": "骄阳似我 奇耻大辱",
@@ -33,14 +41,6 @@
       "onboard_time": 1767193410,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1153849,
-      "num": 1030059,
-      "word": "张本智和被点名",
-      "onboard_time": 1767351621,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 1134971,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 814910,
-      "num": 1029967,
+      "num": 1032160,
       "word": "怪不得实体店的衣服网上买不到",
       "onboard_time": 1767347540,
       "rank": 10,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 558513,
-      "num": 1029645,
+      "num": 1030792,
       "word": "吃蒜 偏头痛",
       "onboard_time": 1767346820,
       "rank": 35,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 486438,
-      "num": 1029876,
+      "num": 1031680,
       "word": "警惕日本军国主义在文体领域的渗透",
       "onboard_time": 1767349221,
       "rank": 3,
@@ -363,8 +363,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 352371,
-      "num": 1029714,
+      "raw_hot": 355689,
+      "num": 1030943,
       "word": "WB对战RW",
       "onboard_time": 1767341059,
       "rank": 18,
@@ -449,6 +449,14 @@
       "onboard_time": 1767279382,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 315190,
+      "num": 1028379,
+      "word": "沈梦辰看张凌赫失去表情管理",
+      "onboard_time": 1767351621,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 314272,
@@ -579,6 +587,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 270391,
+      "num": 1029066,
+      "word": "伊朗",
+      "onboard_time": 1767351020,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 270371,
       "num": 319438,
       "word": "生理性喜欢的4个信号",
@@ -616,14 +632,6 @@
       "word": "跨年最佳节目",
       "onboard_time": 1767253520,
       "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 267834,
-      "num": 1028379,
-      "word": "沈梦辰看张凌赫失去表情管理",
-      "onboard_time": 1767351621,
-      "rank": 31,
       "category": "综艺"
     },
     {
@@ -715,8 +723,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241733,
+      "num": 1029179,
+      "word": "骄阳似我老小三气得冒鬼火",
+      "onboard_time": 1767352043,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239496,
-      "num": 1030595,
+      "num": 1035428,
       "word": "林屿森长文",
       "onboard_time": 1767352460,
       "rank": 3,
@@ -724,7 +740,7 @@
     },
     {
       "raw_hot": 235792,
-      "num": 1030835,
+      "num": 1037683,
       "word": "20块和2000块相机差距",
       "onboard_time": 1767339979,
       "rank": 8,
@@ -737,22 +753,6 @@
       "onboard_time": 1767252139,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 232379,
-      "num": 1029179,
-      "word": "骄阳似我老小三气得冒鬼火",
-      "onboard_time": 1767352043,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 230287,
-      "num": 1029066,
-      "word": "伊朗",
-      "onboard_time": 1767351020,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 222939,
@@ -804,7 +804,7 @@
     },
     {
       "raw_hot": 214754,
-      "num": 1030756,
+      "num": 1037388,
       "word": "多地网友晒贷款逾期记录清零",
       "onboard_time": 1767332781,
       "rank": 33,
@@ -833,6 +833,14 @@
       "onboard_time": 1767329781,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208675,
+      "num": 1029798,
+      "word": "心疼今屿",
+      "onboard_time": 1767352822,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 208247,
@@ -988,7 +996,7 @@
     },
     {
       "raw_hot": 185840,
-      "num": 1030452,
+      "num": 1034593,
       "word": "幼儿园园长回应篮球表演失误出圈",
       "onboard_time": 1767345679,
       "rank": 33,
@@ -1160,6 +1168,14 @@
       "word": "骄阳似我剧粉盘",
       "onboard_time": 1767325340,
       "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 170485,
+      "num": 1030286,
+      "word": "郭芙蓉欠的48两银子值多少钱",
+      "onboard_time": 1767351260,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -1459,6 +1475,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 149855,
+      "num": 1029340,
+      "word": "京城大师赛",
+      "onboard_time": 1767352280,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148560,
       "num": 533680,
       "word": "个人缴纳社保你会交多少年",
@@ -1491,6 +1515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 145250,
+      "num": 1028235,
+      "word": "在上海花了一千块吃的汤泡饭",
+      "onboard_time": 1767352700,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 145020,
       "num": 318341,
       "word": "云秀行",
@@ -1504,14 +1536,6 @@
       "word": "星穹铁道火花",
       "onboard_time": 1767330199,
       "rank": 15,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 142533,
-      "num": 1029340,
-      "word": "京城大师赛",
-      "onboard_time": 1767352280,
-      "rank": 19,
       "category": "游戏"
     },
     {
@@ -1595,6 +1619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140311,
+      "num": 1021794,
+      "word": "大风给周深吹成徐志胜了",
+      "onboard_time": 1767353180,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139792,
       "num": 1027570,
       "word": "看一人之下6不敢快进",
@@ -1664,22 +1696,6 @@
       "word": "谍报上不封顶",
       "onboard_time": 1767242119,
       "rank": 13,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 134901,
-      "num": 1028848,
-      "word": "心疼今屿",
-      "onboard_time": 1767352822,
-      "rank": 25,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 134401,
-      "num": 1030286,
-      "word": "郭芙蓉欠的48两银子值多少钱",
-      "onboard_time": 1767351260,
-      "rank": 7,
       "category": "剧集"
     },
     {
@@ -1753,6 +1769,14 @@
       "onboard_time": 1767334819,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130364,
+      "num": 1036130,
+      "word": "苏州图书馆回应骄阳似我",
+      "onboard_time": 1767347900,
+      "rank": 37,
+      "category": "民生新闻,剧集"
     },
     {
       "raw_hot": 130190,
@@ -1948,7 +1972,7 @@
     },
     {
       "raw_hot": 121306,
-      "num": 1030199,
+      "num": 1033995,
       "word": "聂曦光的不动产风景",
       "onboard_time": 1767352460,
       "rank": 8,
@@ -2035,20 +2059,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116655,
+      "num": 1028030,
+      "word": "汪苏泷伴手礼伸手还真有人给",
+      "onboard_time": 1767352581,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 116564,
       "num": 317466,
       "word": "不敢让孩子玩户外充气城堡了",
       "onboard_time": 1767223758,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 116177,
-      "num": 1028235,
-      "word": "在上海花了一千块吃的汤泡饭",
-      "onboard_time": 1767352700,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 115105,
@@ -2121,14 +2145,6 @@
       "onboard_time": 1767226880,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112911,
-      "num": 1028030,
-      "word": "汪苏泷伴手礼伸手还真有人给",
-      "onboard_time": 1767352581,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 112894,
@@ -2243,6 +2259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106243,
+      "num": 1017408,
+      "word": "柯淳提何赛飞因行李箱被踹爆哭",
+      "onboard_time": 1767353839,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106169,
       "num": 453054,
       "word": "工藤新一连续三年第一",
@@ -2355,8 +2379,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 100593,
-      "num": 1027935,
+      "raw_hot": 100857,
+      "num": 1035944,
       "word": "人之初",
       "onboard_time": 1767352940,
       "rank": 36,
@@ -2377,30 +2401,6 @@
       "onboard_time": 1767342139,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 99776,
-      "num": 934772,
-      "word": "男子带妻儿开直升机回老家过元旦",
-      "onboard_time": 1767278542,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99363,
-      "num": 133569,
-      "word": "黄景瑜爱如潮水没有委屈全是嚣张",
-      "onboard_time": 1767346880,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 99017,
-      "num": 1003235,
-      "word": "跟有钱人吵架真的好恐怖",
-      "onboard_time": 1767261859,
-      "rank": 38,
-      "category": "情感"
     }
   ],
   "hotgov_list": [

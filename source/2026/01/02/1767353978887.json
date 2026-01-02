@@ -1,0 +1,410 @@
+{
+  "runTime": 1767353978887,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 235523,
+        "num": 1037683,
+        "word": "20块和2000块相机差距",
+        "onboard_time": 1767339979,
+        "rank": 0,
+        "category": "数码,幽默"
+      },
+      {
+        "raw_hot": 140828,
+        "num": 1037388,
+        "word": "多地网友晒贷款逾期记录清零",
+        "onboard_time": 1767332781,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 22881,
+        "num": 1036717,
+        "word": "中国电影2026向新而行",
+        "onboard_time": 1767341540,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130364,
+        "num": 1036130,
+        "word": "苏州图书馆回应骄阳似我",
+        "onboard_time": 1767347900,
+        "rank": 3,
+        "category": "民生新闻,剧集"
+      },
+      {
+        "raw_hot": 100857,
+        "num": 1035944,
+        "word": "人之初",
+        "onboard_time": 1767352940,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232703,
+        "num": 1035428,
+        "word": "林屿森长文",
+        "onboard_time": 1767352460,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143844,
+        "num": 1034593,
+        "word": "幼儿园园长回应篮球表演失误出圈",
+        "onboard_time": 1767345679,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94311,
+        "num": 1033995,
+        "word": "聂曦光的不动产风景",
+        "onboard_time": 1767352460,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68296,
+        "num": 1033645,
+        "word": "怪盗基德世纪末的魔术师",
+        "onboard_time": 1767353722,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 49112,
+        "num": 1033182,
+        "word": "亚历山大主动跟杨瀚森打招呼",
+        "onboard_time": 1767350480,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1316774,
+        "num": 1032526,
+        "word": "张本智和被点名",
+        "onboard_time": 1767351621,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 744760,
+        "num": 1032160,
+        "word": "怪不得实体店的衣服网上买不到",
+        "onboard_time": 1767347540,
+        "rank": 11,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 420185,
+        "num": 1031680,
+        "word": "警惕日本军国主义在文体领域的渗透",
+        "onboard_time": 1767349221,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355689,
+        "num": 1030943,
+        "word": "WB对战RW",
+        "onboard_time": 1767341059,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 261006,
+        "num": 1030792,
+        "word": "吃蒜 偏头痛",
+        "onboard_time": 1767346820,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 208675,
+        "num": 1029798,
+        "word": "心疼今屿",
+        "onboard_time": 1767352822,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170485,
+        "num": 1029702,
+        "word": "郭芙蓉欠的48两银子值多少钱",
+        "onboard_time": 1767351260,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228108,
+        "num": 1029069,
+        "word": "骄阳似我 梅园定情",
+        "onboard_time": 1767349580,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149855,
+        "num": 1028290,
+        "word": "京城大师赛",
+        "onboard_time": 1767352280,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145250,
+        "num": 1027719,
+        "word": "在上海花了一千块吃的汤泡饭",
+        "onboard_time": 1767352700,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 315190,
+        "num": 1027233,
+        "word": "沈梦辰看张凌赫失去表情管理",
+        "onboard_time": 1767351621,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270391,
+        "num": 1026960,
+        "word": "伊朗",
+        "onboard_time": 1767351020,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 241733,
+        "num": 1026351,
+        "word": "骄阳似我老小三气得冒鬼火",
+        "onboard_time": 1767352043,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88711,
+        "num": 1025511,
+        "word": "郭芙蓉月薪500元",
+        "onboard_time": 1767349822,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223647,
+        "num": 1025008,
+        "word": "瑞士历史上最严重的悲剧之一",
+        "onboard_time": 1767345320,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 160027,
+        "num": 1024550,
+        "word": "顶级夫妻关系是合起伙来对付这个世界",
+        "onboard_time": 1767335479,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146108,
+        "num": 1024154,
+        "word": "斗罗2你是懂怎么虐观众的",
+        "onboard_time": 1767351080,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 135701,
+        "num": 1023433,
+        "word": "骄阳似我",
+        "onboard_time": 1767349460,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45389,
+        "num": 1022928,
+        "word": "这种花的名字又好喝又可爱",
+        "onboard_time": 1767351260,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42011,
+        "num": 1022816,
+        "word": "冷冷冷冷冷冷元旦冷冷冷冷冷冷",
+        "onboard_time": 1767340940,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160046,
+        "num": 1021968,
+        "word": "闪迪股价飙涨559%",
+        "onboard_time": 1767340460,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140311,
+        "num": 1021794,
+        "word": "大风给周深吹成徐志胜了",
+        "onboard_time": 1767353180,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104909,
+        "num": 1021239,
+        "word": "挑杯决赛",
+        "onboard_time": 1767352100,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103167,
+        "num": 1020220,
+        "word": "KPL",
+        "onboard_time": 1767336621,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101762,
+        "num": 1020158,
+        "word": "骑手实测平台1分钟现实才42秒",
+        "onboard_time": 1767348079,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116655,
+        "num": 1019289,
+        "word": "汪苏泷伴手礼伸手还真有人给",
+        "onboard_time": 1767352581,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31099,
+        "num": 1018665,
+        "word": "港股大涨原因",
+        "onboard_time": 1767345860,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 40317,
+        "num": 1018563,
+        "word": "大基金增持中芯国际",
+        "onboard_time": 1767352581,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 32244,
+        "num": 1017949,
+        "word": "寻女18年未果离世男子已下葬",
+        "onboard_time": 1767353899,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106243,
+        "num": 1017408,
+        "word": "柯淳提何赛飞因行李箱被踹爆哭",
+        "onboard_time": 1767353839,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100570,
+        "num": 1016985,
+        "word": "宝宝昏睡不醒体内查出安眠药成分",
+        "onboard_time": 1767344720,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91218,
+        "num": 1015984,
+        "word": "恋爱十年没有吵过架的含金量",
+        "onboard_time": 1767353240,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88417,
+        "num": 1015519,
+        "word": "骄阳似我 文旅宣传片",
+        "onboard_time": 1767353481,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102701,
+        "num": 1015122,
+        "word": "薛之谦独唱呢",
+        "onboard_time": 1767352940,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88347,
+        "num": 1014456,
+        "word": "退货女装发现有血迹服装电商发声",
+        "onboard_time": 1767348079,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86555,
+        "num": 1014252,
+        "word": "洛博称陶马已移至修复中心",
+        "onboard_time": 1767353539,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85737,
+        "num": 1013356,
+        "word": "暖阳 梦奇",
+        "onboard_time": 1767353961,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 33364,
+        "num": 1013168,
+        "word": "发票留着能抽奖",
+        "onboard_time": 1767348920,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84548,
+        "num": 1012326,
+        "word": "父母帮买车vs自己买车",
+        "onboard_time": 1767347000,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83487,
+        "num": 1011959,
+        "word": "原来这样玩手机才毁眼",
+        "onboard_time": 1767341721,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#新年贺词里的中国步伐#"
+    }
+  }
+}
