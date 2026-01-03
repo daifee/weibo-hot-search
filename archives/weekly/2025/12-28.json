@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767439423022,
+  "endTime": 1767440355557,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -291,6 +291,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1190595,
+      "num": 1752341,
+      "word": "MRC对战Gr",
+      "onboard_time": 1767264259,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1183637,
       "num": 1409771,
       "word": "跨年",
@@ -433,14 +441,6 @@
       "onboard_time": 1767136578,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1013976,
-      "num": 1752341,
-      "word": "MRC对战Gr",
-      "onboard_time": 1767264259,
-      "rank": 6,
-      "category": "电竞"
     },
     {
       "raw_hot": 1007386,
@@ -2219,6 +2219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 411475,
+      "num": 1063500,
+      "word": "雷军直播",
+      "onboard_time": 1767438026,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 411083,
       "num": 281850,
       "word": "日本老年人称已经没希望了",
@@ -2289,6 +2297,14 @@
       "onboard_time": 1767266602,
       "rank": 37,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 405198,
+      "num": 424433,
+      "word": "委内瑞拉副总统发表讲话",
+      "onboard_time": 1767439286,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 405001,
@@ -2937,14 +2953,6 @@
       "onboard_time": 1767162739,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 331479,
-      "num": 1063500,
-      "word": "雷军直播",
-      "onboard_time": 1767438026,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 331249,
@@ -4243,14 +4251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 251995,
-      "num": 424433,
-      "word": "委内瑞拉副总统发表讲话",
-      "onboard_time": 1767439286,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 251910,
       "num": 251910,
       "word": "潮汕简直是预制菜克星",
@@ -4369,6 +4369,14 @@
       "onboard_time": 1766919921,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245028,
+      "num": 1087905,
+      "word": "黑龙江一景区现3米高冰封鱼墙",
+      "onboard_time": 1767435925,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 244163,
@@ -4625,6 +4633,14 @@
       "onboard_time": 1766837482,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230979,
+      "num": 423388,
+      "word": "三角洲",
+      "onboard_time": 1767437965,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 230707,
@@ -5571,6 +5587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193955,
+      "num": 405630,
+      "word": "林屿森聂曦光办公室吻",
+      "onboard_time": 1767439886,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193887,
       "num": 156312,
       "word": "苏州梅友机场",
@@ -5617,14 +5641,6 @@
       "onboard_time": 1766896040,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 192716,
-      "num": 423388,
-      "word": "三角洲",
-      "onboard_time": 1767437965,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 192368,
@@ -7451,6 +7467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157316,
+      "num": 355697,
+      "word": "委内瑞拉要求美证明马杜罗还活着",
+      "onboard_time": 1767439526,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 157283,
       "num": 957928,
       "word": "大爷公园捡到手表直接挂树上",
@@ -7817,14 +7841,6 @@
       "onboard_time": 1767424045,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149987,
-      "num": 1087905,
-      "word": "黑龙江一景区现3米高冰封鱼墙",
-      "onboard_time": 1767435925,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149958,
@@ -8593,6 +8609,14 @@
       "onboard_time": 1767107722,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 138852,
+      "num": 355508,
+      "word": "TF四代荣耀练习室",
+      "onboard_time": 1767439645,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 138793,
@@ -9665,6 +9689,14 @@
       "onboard_time": 1767012320,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125832,
+      "num": 353168,
+      "word": "王一博被赞完全不一样了",
+      "onboard_time": 1767440006,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 125805,
@@ -11161,6 +11193,14 @@
       "onboard_time": 1767147981,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 111917,
+      "num": 409970,
+      "word": "两个人能在一起未必是因为爱情",
+      "onboard_time": 1767439526,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 111913,
@@ -14953,6 +14993,14 @@
       "onboard_time": 1767169881,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 83562,
+      "num": 409278,
+      "word": "骄阳似我太甜了",
+      "onboard_time": 1767440066,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 83451,
@@ -19387,6 +19435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43869,
+      "num": 354788,
+      "word": "猫咪的人里人气时刻",
+      "onboard_time": 1767436406,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 43794,
       "num": 223412,
       "word": "为啥大学期末周比高考前还慌",
@@ -19531,6 +19587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42183,
+      "num": 3632942,
+      "word": "小寒大寒哪个更冷",
+      "onboard_time": 1767431544,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42175,
       "num": 190528,
       "word": "贵价网红面包店开始批量倒闭",
@@ -19600,14 +19664,6 @@
       "word": "2026一起加油",
       "onboard_time": 1767309135,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41637,
-      "num": 3632942,
-      "word": "小寒大寒哪个更冷",
-      "onboard_time": 1767431544,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -21480,6 +21536,14 @@
       "word": "北方第二城今年会易主吗",
       "onboard_time": 1767090862,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21296,
+      "num": 350351,
+      "word": "承诺送车企业面临暂时性困难",
+      "onboard_time": 1767434606,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
