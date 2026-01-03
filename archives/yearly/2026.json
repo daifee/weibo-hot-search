@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767437126317,
+  "endTime": 1767439423022,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -123,6 +123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1013976,
+      "num": 1752341,
+      "word": "MRC对战Gr",
+      "onboard_time": 1767264259,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 940105,
       "num": 1095757,
       "word": "女子以为嫁给武警其实嫁给了杀人犯",
@@ -132,10 +140,18 @@
     },
     {
       "raw_hot": 902251,
-      "num": 604561,
+      "num": 800536,
       "word": "马杜罗系被美军三角洲特种部队抓获",
       "onboard_time": 1767434784,
       "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 874177,
+      "num": 874177,
+      "word": "美议员称马杜罗将在美国接受审判",
+      "onboard_time": 1767437066,
+      "rank": 26,
       "category": "国际时政"
     },
     {
@@ -579,14 +595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 404731,
-      "num": 1752341,
-      "word": "MRC对战Gr",
-      "onboard_time": 1767264259,
-      "rank": 6,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 404537,
       "num": 1096944,
       "word": "日本动漫屡次出现旭日旗731部队",
@@ -601,14 +609,6 @@
       "onboard_time": 1767192568,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 399106,
-      "num": 399106,
-      "word": "美议员称马杜罗将在美国接受审判",
-      "onboard_time": 1767437066,
-      "rank": 26,
-      "category": "国际时政"
     },
     {
       "raw_hot": 397587,
@@ -785,6 +785,14 @@
       "onboard_time": 1767272301,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 331479,
+      "num": 1063500,
+      "word": "雷军直播",
+      "onboard_time": 1767438026,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 324453,
@@ -1011,6 +1019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 282342,
+      "num": 422602,
+      "word": "雷军现场直播拆小米YU7",
+      "onboard_time": 1767437905,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 282019,
       "num": 589137,
       "word": "发明袜子拼豆的人简直是天才",
@@ -1187,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253357,
+      "num": 425478,
+      "word": "委政府不知马杜罗及其夫人现在何处",
+      "onboard_time": 1767436287,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 253320,
       "num": 501274,
       "word": "终于懂老人分不清ai的无力感了",
@@ -1209,6 +1233,14 @@
       "onboard_time": 1767174140,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251995,
+      "num": 424433,
+      "word": "委内瑞拉副总统发表讲话",
+      "onboard_time": 1767439286,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 251661,
@@ -1547,6 +1579,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 202105,
+      "num": 424027,
+      "word": "委内瑞拉前内政部长身亡",
+      "onboard_time": 1767436646,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 200636,
       "num": 1030868,
       "word": "王鹤棣 都别找我借钱",
@@ -1585,14 +1625,6 @@
       "onboard_time": 1767357620,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 198649,
-      "num": 398497,
-      "word": "委政府不知马杜罗及其夫人现在何处",
-      "onboard_time": 1767436287,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 197331,
@@ -1649,6 +1681,14 @@
       "onboard_time": 1767421587,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192716,
+      "num": 423388,
+      "word": "三角洲",
+      "onboard_time": 1767437965,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 191132,
@@ -1804,7 +1844,7 @@
     },
     {
       "raw_hot": 185025,
-      "num": 398602,
+      "num": 421620,
       "word": "十个勤天新春见面会官宣",
       "onboard_time": 1767436765,
       "rank": 31,
@@ -2099,14 +2139,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 167324,
-      "num": 397742,
-      "word": "委内瑞拉前内政部长身亡",
-      "onboard_time": 1767436646,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 167278,
       "num": 878818,
       "word": "年锦是神",
@@ -2308,7 +2340,7 @@
     },
     {
       "raw_hot": 157771,
-      "num": 616896,
+      "num": 1022360,
       "word": "kpl王者荣耀巅峰之夜",
       "onboard_time": 1767434187,
       "rank": 9,
@@ -2369,38 +2401,6 @@
       "onboard_time": 1767343940,
       "rank": 21,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 155911,
-      "num": 523974,
-      "word": "张凌赫新剧9号开机",
-      "onboard_time": 1767435207,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 155801,
-      "num": 1004955,
-      "word": "装完你的装你的",
-      "onboard_time": 1767264201,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 155502,
-      "num": 519537,
-      "word": "2026LPL第一赛段赛程",
-      "onboard_time": 1767415947,
-      "rank": 12,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 155018,
-      "num": 1094620,
-      "word": "丁禹兮要拍斩神",
-      "onboard_time": 1767406048,
-      "rank": 21,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
