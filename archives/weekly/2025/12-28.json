@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767425207761,
+  "endTime": 1767426033635,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -4187,6 +4187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 243418,
+      "num": 1036496,
+      "word": "委内瑞拉首都传来数声爆炸声",
+      "onboard_time": 1767421886,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 243176,
       "num": 3903803,
       "word": "育儿补贴下周一全面开放申领",
@@ -6707,14 +6715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 164968,
-      "num": 1036496,
-      "word": "委内瑞拉首都传来数声爆炸声",
-      "onboard_time": 1767421886,
-      "rank": 17,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 164920,
       "num": 1055107,
       "word": "王鹤棣参加两个跨年晚会",
@@ -7241,6 +7241,14 @@
       "onboard_time": 1767188910,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155618,
+      "num": 962221,
+      "word": "委内瑞拉怎么了",
+      "onboard_time": 1767424705,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 155502,
@@ -7937,6 +7945,14 @@
       "onboard_time": 1767261859,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 142305,
+      "num": 732864,
+      "word": "车厘子J是啥意思",
+      "onboard_time": 1767425606,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 142207,
@@ -9345,14 +9361,6 @@
       "onboard_time": 1767270862,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124631,
-      "num": 962221,
-      "word": "委内瑞拉怎么了",
-      "onboard_time": 1767424705,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 124556,
@@ -11051,6 +11059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 108334,
+      "num": 1028944,
+      "word": "美迪士尼180公斤巨球道具冲向观众",
+      "onboard_time": 1767421285,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 108310,
       "num": 1002235,
       "word": "桃晚安好牛",
@@ -11185,14 +11201,6 @@
       "onboard_time": 1767406528,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106771,
-      "num": 1028944,
-      "word": "美迪士尼180公斤巨球道具冲向观众",
-      "onboard_time": 1767421285,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 106753,
@@ -11617,6 +11625,14 @@
       "onboard_time": 1766997021,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103308,
+      "num": 1034491,
+      "word": "年糕排骨",
+      "onboard_time": 1767421466,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 103269,
@@ -12361,6 +12377,14 @@
       "onboard_time": 1766888300,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98023,
+      "num": 739600,
+      "word": "张之臻2比1贝尔赫斯",
+      "onboard_time": 1767425606,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 98004,
@@ -13523,6 +13547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 89036,
+      "num": 936306,
+      "word": "美军空袭委内瑞拉首都",
+      "onboard_time": 1767425186,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 89024,
       "num": 89024,
       "word": "黄桃罐头里为什么有白色的桃",
@@ -14081,14 +14113,6 @@
       "onboard_time": 1767350660,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 85278,
-      "num": 1034491,
-      "word": "年糕排骨",
-      "onboard_time": 1767421466,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 85212,
@@ -14713,6 +14737,14 @@
       "onboard_time": 1767110960,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81219,
+      "num": 747356,
+      "word": "美军机疑飞越委内瑞拉空军基地",
+      "onboard_time": 1767425606,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 81205,
@@ -15457,6 +15489,14 @@
       "onboard_time": 1767228320,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 74102,
+      "num": 735988,
+      "word": "智利车厘子快线比地铁还勤",
+      "onboard_time": 1767425665,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 74094,
@@ -16531,6 +16571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 63687,
+      "num": 726504,
+      "word": "这个茶叶量该不会睡不着了",
+      "onboard_time": 1767425428,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 63536,
       "num": 219494,
       "word": "承德火灾45名公职人员被问责",
@@ -16675,6 +16723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 61741,
+      "num": 725405,
+      "word": "当妈妈展示网购的智能手机",
+      "onboard_time": 1767425786,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 61597,
       "num": 61597,
       "word": "云旗郝熠然直播",
@@ -16769,6 +16825,14 @@
       "onboard_time": 1767187587,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60779,
+      "num": 951262,
+      "word": "日本暴发2026年首起疫情",
+      "onboard_time": 1767423626,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 60773,
@@ -17627,14 +17691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 52401,
-      "num": 951262,
-      "word": "日本暴发2026年首起疫情",
-      "onboard_time": 1767423626,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 52349,
       "num": 651032,
       "word": "这才叫直播间的家人们",
@@ -17929,6 +17985,14 @@
       "onboard_time": 1767137838,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 49578,
+      "num": 719502,
+      "word": "宝宝解锁了百分百空手接白刃",
+      "onboard_time": 1767425905,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 49512,
@@ -18913,14 +18977,6 @@
       "onboard_time": 1767025041,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 41177,
-      "num": 936306,
-      "word": "美军空袭委内瑞拉首都",
-      "onboard_time": 1767425186,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 41171,
@@ -20195,6 +20251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 26785,
+      "num": 745274,
+      "word": "五角大楼附近披萨订单量又升高了",
+      "onboard_time": 1767425246,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 26540,
       "num": 762129,
       "word": "北京范儿新年祈福",
@@ -20819,6 +20883,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 19672,
+      "num": 1025440,
+      "word": "璀璨中国",
+      "onboard_time": 1767409829,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19600,
       "num": 257119,
       "word": "夸年岛含喜量要爆啦",
@@ -21083,6 +21155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 14806,
+      "num": 727838,
+      "word": "9岁女孩给外公连发2年想你",
+      "onboard_time": 1767425305,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14787,
       "num": 153360,
       "word": "三狗人均三分之二首主题曲",
@@ -21177,14 +21257,6 @@
       "onboard_time": 1767118036,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 13686,
-      "num": 1025440,
-      "word": "璀璨中国",
-      "onboard_time": 1767409829,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 13547,

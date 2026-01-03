@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767425207761,
+  "endTime": 1767426033635,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1075,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243418,
+      "num": 1036496,
+      "word": "委内瑞拉首都传来数声爆炸声",
+      "onboard_time": 1767421886,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 241733,
       "num": 1029179,
       "word": "骄阳似我老小三气得冒鬼火",
@@ -1867,14 +1875,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 164968,
-      "num": 1036496,
-      "word": "委内瑞拉首都传来数声爆炸声",
-      "onboard_time": 1767421886,
-      "rank": 17,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 164877,
       "num": 450860,
       "word": "寻秦记 大大方方为情怀买单",
@@ -2073,6 +2073,14 @@
       "onboard_time": 1767264201,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 155618,
+      "num": 962221,
+      "word": "委内瑞拉怎么了",
+      "onboard_time": 1767424705,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 155502,
@@ -2283,6 +2291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 142305,
+      "num": 732864,
+      "word": "车厘子J是啥意思",
+      "onboard_time": 1767425606,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 142207,
       "num": 1027631,
       "word": "原来这样玩手机才毁眼",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767350182,
       "rank": 6,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 139426,
-      "num": 991989,
-      "word": "林屿森聂曦光和好",
-      "onboard_time": 1767274701,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 139156,
-      "num": 1400936,
-      "word": "我国芯片自主研发新突破",
-      "onboard_time": 1767188665,
-      "rank": 39,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
