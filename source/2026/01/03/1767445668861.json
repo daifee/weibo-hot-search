@@ -1,0 +1,410 @@
+{
+  "runTime": 1767445668861,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 531588,
+        "num": 1085054,
+        "word": "92年小伙看到12岁养女作文后泪崩",
+        "onboard_time": 1767440366,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253751,
+        "num": 771597,
+        "word": "超级月亮",
+        "onboard_time": 1767434666,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37748,
+        "num": 643241,
+        "word": "小寒大寒哪个更冷",
+        "onboard_time": 1767431544,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276271,
+        "num": 643239,
+        "word": "雷军直播",
+        "onboard_time": 1767438026,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 174209,
+        "num": 642413,
+        "word": "奔跑吧",
+        "onboard_time": 1767442585,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6642294,
+        "num": 6642294,
+        "word": "特朗普称已抓获委内瑞拉总统",
+        "onboard_time": 1767432625,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165339,
+        "num": 641666,
+        "word": "黑龙江一景区现3米高冰封鱼墙",
+        "onboard_time": 1767435925,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148785,
+        "num": 641089,
+        "word": "骄阳似我 纯爱",
+        "onboard_time": 1767440905,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98480,
+        "num": 640878,
+        "word": "小猫犯错掩盖证据",
+        "onboard_time": 1767442285,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121824,
+        "num": 640360,
+        "word": "骄阳似我26集结尾",
+        "onboard_time": 1767444566,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 906733,
+        "num": 640119,
+        "word": "委内瑞拉",
+        "onboard_time": 1767426205,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159550,
+        "num": 639537,
+        "word": "MRC夺冠",
+        "onboard_time": 1767440665,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 727164,
+        "num": 638979,
+        "word": "疑似马杜罗被美抓获照曝光",
+        "onboard_time": 1767440726,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149852,
+        "num": 638698,
+        "word": "iG夺得德杯冠军",
+        "onboard_time": 1767441685,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 638474,
+        "num": 638474,
+        "word": "马杜罗及其夫人已在美国被起诉",
+        "onboard_time": 1767443786,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74921,
+        "num": 638319,
+        "word": "小米直播拆车的硬核底气",
+        "onboard_time": 1767444206,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 389062,
+        "num": 638249,
+        "word": "美议员称马杜罗将在美国接受审判",
+        "onboard_time": 1767437066,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136261,
+        "num": 638093,
+        "word": "天云发言",
+        "onboard_time": 1767442826,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93613,
+        "num": 637835,
+        "word": "零下30多度男子开窗冷空气瞬间现形",
+        "onboard_time": 1767428364,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67661,
+        "num": 637662,
+        "word": "在委内瑞拉中企人员暂无伤亡",
+        "onboard_time": 1767444686,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 332622,
+        "num": 637346,
+        "word": "檀健次我们好像太暧昧了",
+        "onboard_time": 1767420926,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 367438,
+        "num": 637257,
+        "word": "特朗普下令打击委内瑞拉境内目标",
+        "onboard_time": 1767426805,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 280041,
+        "num": 637067,
+        "word": "爱吃橘子的人天塌了",
+        "onboard_time": 1767428064,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 358464,
+        "num": 636881,
+        "word": "委内瑞拉副总统发表讲话",
+        "onboard_time": 1767439286,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91714,
+        "num": 636744,
+        "word": "罚罪",
+        "onboard_time": 1767443547,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205723,
+        "num": 636430,
+        "word": "骄阳似我",
+        "onboard_time": 1767435085,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203463,
+        "num": 636276,
+        "word": "马杜罗系被美军三角洲特种部队抓获",
+        "onboard_time": 1767434784,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148360,
+        "num": 636008,
+        "word": "内蒙古一兔狲被大狗咬伤后死亡",
+        "onboard_time": 1767440787,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171133,
+        "num": 635888,
+        "word": "三角洲",
+        "onboard_time": 1767437965,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108026,
+        "num": 635700,
+        "word": "92年姨父成12岁女孩第二个爸爸",
+        "onboard_time": 1767445105,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167208,
+        "num": 635609,
+        "word": "心有林曦 舅舅出品",
+        "onboard_time": 1767445406,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153469,
+        "num": 635311,
+        "word": "委内瑞拉怎么了",
+        "onboard_time": 1767424705,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124746,
+        "num": 635135,
+        "word": "雷军希望大家不要故意找茬",
+        "onboard_time": 1767445406,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 27975,
+        "num": 634896,
+        "word": "太二卖不动酸菜鱼了",
+        "onboard_time": 1767410187,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28299,
+        "num": 634850,
+        "word": "数字人民币和微信支付宝的不同",
+        "onboard_time": 1767422185,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 149420,
+        "num": 634645,
+        "word": "美军为何突然袭击委内瑞拉",
+        "onboard_time": 1767432264,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138346,
+        "num": 634445,
+        "word": "王源 内娱初代偶像的含金量",
+        "onboard_time": 1767442104,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 49893,
+        "num": 634258,
+        "word": "委内瑞拉首都街头几乎空无一人",
+        "onboard_time": 1767444805,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 68161,
+        "num": 634085,
+        "word": "三角洲特种部队是什么",
+        "onboard_time": 1767444746,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118590,
+        "num": 633822,
+        "word": "MRC对战Gr",
+        "onboard_time": 1767430104,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146564,
+        "num": 633588,
+        "word": "多国强烈谴责美突袭委抓获马杜罗",
+        "onboard_time": 1767440366,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103863,
+        "num": 633361,
+        "word": "给J人一点小小的P人震撼",
+        "onboard_time": 1767445225,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139984,
+        "num": 633174,
+        "word": "委总统下令立即武装斗争",
+        "onboard_time": 1767432566,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102634,
+        "num": 633124,
+        "word": "白露十九岁的第一个冠军",
+        "onboard_time": 1767442407,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137798,
+        "num": 632953,
+        "word": "美国为何选择此刻对委内瑞拉动武",
+        "onboard_time": 1767441746,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99953,
+        "num": 632737,
+        "word": "李昀锐谢谢老己",
+        "onboard_time": 1767444325,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109912,
+        "num": 632559,
+        "word": "美或将持续打击委内瑞拉",
+        "onboard_time": 1767445645,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93138,
+        "num": 632346,
+        "word": "白露FMVP",
+        "onboard_time": 1767441865,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98689,
+        "num": 632043,
+        "word": "骄阳似我太甜了",
+        "onboard_time": 1767440066,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25563,
+        "num": 631885,
+        "word": "承诺送车企业面临暂时性困难",
+        "onboard_time": 1767434606,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#枝叶总关情的含义#"
+    }
+  }
+}

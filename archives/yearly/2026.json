@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767444843485,
+  "endTime": 1767445668861,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -211,7 +211,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 709750,
+      "raw_hot": 727164,
       "num": 859419,
       "word": "疑似马杜罗被美抓获照曝光",
       "onboard_time": 1767440726,
@@ -225,6 +225,14 @@
       "onboard_time": 1767193168,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 638474,
+      "num": 857766,
+      "word": "马杜罗及其夫人已在美国被起诉",
+      "onboard_time": 1767443786,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 624910,
@@ -363,6 +371,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 531588,
+      "num": 1085054,
+      "word": "92年小伙看到12岁养女作文后泪崩",
+      "onboard_time": 1767440366,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 529697,
       "num": 1781415,
       "word": "白宫将就军事打击委内瑞拉发声明",
@@ -411,14 +427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 506280,
-      "num": 857766,
-      "word": "马杜罗及其夫人已在美国被起诉",
-      "onboard_time": 1767443786,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 506183,
       "num": 452981,
       "word": "袁祥仁去世",
@@ -465,14 +473,6 @@
       "onboard_time": 1767311777,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 474825,
-      "num": 1075972,
-      "word": "92年小伙看到12岁养女作文后泪崩",
-      "onboard_time": 1767440366,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 471559,
@@ -2227,6 +2227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 167208,
+      "num": 635609,
+      "word": "心有林曦 舅舅出品",
+      "onboard_time": 1767445406,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166620,
       "num": 453732,
       "word": "霍启刚庄严宣誓",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767436046,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 159272,
-      "num": 282220,
-      "word": "张钧甯 中国有自己的致命女人",
-      "onboard_time": 1767335359,
-      "rank": 24,
-      "category": "电影"
     }
   ],
   "hotgov_list": [
