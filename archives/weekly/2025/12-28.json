@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767448030555,
+  "endTime": 1767450407580,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -907,6 +907,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 660383,
+      "num": 1105661,
+      "word": "92年姨父成12岁女孩第二个爸爸",
+      "onboard_time": 1767445105,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 657987,
       "num": 171560,
       "word": "林俊杰 田馥甄",
@@ -1153,6 +1161,14 @@
       "onboard_time": 1766901681,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 592422,
+      "num": 844347,
+      "word": "委内瑞拉首都街头几乎空无一人",
+      "onboard_time": 1767444805,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 585250,
@@ -1443,6 +1459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 523002,
+      "num": 374378,
+      "word": "女子住店拉开窗帘竟是泳池水底",
+      "onboard_time": 1767448767,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 521952,
       "num": 521952,
       "word": "蔡依林踩蛇出场",
@@ -1713,6 +1737,14 @@
       "onboard_time": 1767186025,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 476548,
+      "num": 777118,
+      "word": "适龄男性公民都应进行兵役登记",
+      "onboard_time": 1767445765,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 474301,
@@ -3675,14 +3707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 288051,
-      "num": 844347,
-      "word": "委内瑞拉首都街头几乎空无一人",
-      "onboard_time": 1767444805,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 287621,
       "num": 289800,
       "word": "深圳大学女团夺冠",
@@ -3904,14 +3928,6 @@
       "word": "上海月薪27000一天的花销",
       "onboard_time": 1767365001,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 274798,
-      "num": 753070,
-      "word": "92年姨父成12岁女孩第二个爸爸",
-      "onboard_time": 1767445105,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -4153,6 +4169,14 @@
       "onboard_time": 1767426385,
       "rank": 21,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 260196,
+      "num": 372723,
+      "word": "俄要求美立即澄清马杜罗情况",
+      "onboard_time": 1767449605,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 259851,
@@ -4561,6 +4585,14 @@
       "onboard_time": 1766985022,
       "rank": 23,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 235847,
+      "num": 740899,
+      "word": "小猫上半身基础下半身就不基础",
+      "onboard_time": 1767445765,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 235792,
@@ -5153,6 +5185,14 @@
       "onboard_time": 1767425606,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 208470,
+      "num": 574930,
+      "word": "委内瑞拉内政部长呼吁民众冷静",
+      "onboard_time": 1767444506,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 208450,
@@ -5987,14 +6027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188286,
-      "num": 620352,
-      "word": "适龄男性公民都应进行兵役登记",
-      "onboard_time": 1767445765,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 188252,
       "num": 197292,
       "word": "那英黑长直看得我想把脉了",
@@ -6457,6 +6489,14 @@
       "onboard_time": 1766886380,
       "rank": 18,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 179645,
+      "num": 371326,
+      "word": "洗衣机竟敢拿了工资不工作",
+      "onboard_time": 1767449486,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 179586,
@@ -7195,6 +7235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164683,
+      "num": 574037,
+      "word": "雷军公开小米汽车年交付量",
+      "onboard_time": 1767447266,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 164276,
       "num": 164276,
       "word": "何炅又结巴了",
@@ -7379,6 +7427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161317,
+      "num": 841446,
+      "word": "骄阳似我26集结尾",
+      "onboard_time": 1767444566,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161304,
       "num": 289001,
       "word": "无事妈妈给钱有事妈妈顶罪",
@@ -7393,6 +7449,14 @@
       "onboard_time": 1766914400,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 160823,
+      "num": 371042,
+      "word": "内娱女歌手大型吃醋名场面",
+      "onboard_time": 1767449067,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 160647,
@@ -7739,6 +7803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155735,
+      "num": 843459,
+      "word": "美国为何选择此刻对委内瑞拉动武",
+      "onboard_time": 1767441746,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 155705,
       "num": 169326,
       "word": "台媒用突袭式描述解放军对台演习",
@@ -7913,6 +7985,14 @@
       "onboard_time": 1767334819,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 151905,
+      "num": 369802,
+      "word": "娜扎我的队不能没有侯明昊",
+      "onboard_time": 1767448646,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 151403,
@@ -8139,20 +8219,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147901,
+      "num": 577434,
+      "word": "一诺连续三年获KPL最受欢迎选手",
+      "onboard_time": 1767446847,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 147794,
       "num": 147794,
       "word": "零跑D99",
       "onboard_time": 1766927481,
       "rank": 40,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 147755,
-      "num": 577434,
-      "word": "一诺连续三年获KPL最受欢迎选手",
-      "onboard_time": 1767446847,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 147505,
@@ -8185,22 +8265,6 @@
       "onboard_time": 1767423145,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147007,
-      "num": 841446,
-      "word": "骄阳似我26集结尾",
-      "onboard_time": 1767444566,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 147006,
-      "num": 740899,
-      "word": "小猫上半身基础下半身就不基础",
-      "onboard_time": 1767445765,
-      "rank": 8,
-      "category": "幽默"
     },
     {
       "raw_hot": 146780,
@@ -8763,14 +8827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139054,
-      "num": 843459,
-      "word": "美国为何选择此刻对委内瑞拉动武",
-      "onboard_time": 1767441746,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 139042,
       "num": 158059,
       "word": "印度称已超日本成世界第四大经济体",
@@ -9153,14 +9209,6 @@
       "onboard_time": 1767356601,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 133588,
-      "num": 574930,
-      "word": "委内瑞拉内政部长呼吁民众冷静",
-      "onboard_time": 1767444506,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 133531,
@@ -10473,14 +10521,6 @@
       "onboard_time": 1767431004,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 120942,
-      "num": 574037,
-      "word": "雷军公开小米汽车年交付量",
-      "onboard_time": 1767447266,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 120838,
@@ -11851,6 +11891,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 108252,
+      "num": 371941,
+      "word": "车厘子价格已大跌",
+      "onboard_time": 1767449725,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108040,
       "num": 108040,
       "word": "宋亚轩冷脸完全男神",
@@ -12315,6 +12363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104252,
+      "num": 369041,
+      "word": "马杜罗被控4罪",
+      "onboard_time": 1767448166,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 104227,
       "num": 200306,
       "word": "罚罪2",
@@ -12769,6 +12825,14 @@
       "onboard_time": 1766988021,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 100815,
+      "num": 370051,
+      "word": "小迪老师起飞全纪录",
+      "onboard_time": 1767450265,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 100793,
@@ -15643,6 +15707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 81592,
+      "num": 369424,
+      "word": "椰蓉面包正在制作中",
+      "onboard_time": 1767449906,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 81515,
       "num": 81515,
       "word": "樊振东人形绅士礼仪教科书",
@@ -15665,6 +15737,14 @@
       "onboard_time": 1767090802,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81244,
+      "num": 368844,
+      "word": "小米汽车去年交付41万辆",
+      "onboard_time": 1767449366,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 81229,
@@ -20451,6 +20531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37190,
+      "num": 372117,
+      "word": "92年小伙回应领养12岁外甥女初衷",
+      "onboard_time": 1767450208,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37116,
       "num": 113138,
       "word": "贺龙体育场女厕外墙为玻璃",
@@ -22043,6 +22131,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 19755,
+      "num": 370506,
+      "word": "总台记者亲历美国袭击委内瑞拉",
+      "onboard_time": 1767450208,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19600,
       "num": 257119,
       "word": "夸年岛含喜量要爆啦",
@@ -22137,6 +22233,14 @@
       "onboard_time": 1767110479,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 17699,
+      "num": 662337,
+      "word": "2026开年图景",
+      "onboard_time": 1767450026,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17613,
@@ -22528,6 +22632,14 @@
       "word": "工作一天赚的刚够给停车费",
       "onboard_time": 1767019528,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9442,
+      "num": 371637,
+      "word": "本周这些数据最值得关注",
+      "onboard_time": 1767430705,
+      "rank": 30,
       "category": "民生新闻"
     },
     {

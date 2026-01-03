@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767448030555,
+  "endTime": 1767450407580,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -235,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 660383,
+      "num": 1105661,
+      "word": "92年姨父成12岁女孩第二个爸爸",
+      "onboard_time": 1767445105,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 638474,
       "num": 857766,
       "word": "马杜罗及其夫人已在美国被起诉",
@@ -305,6 +313,14 @@
       "onboard_time": 1767330380,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 592422,
+      "num": 844347,
+      "word": "委内瑞拉首都街头几乎空无一人",
+      "onboard_time": 1767444805,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 584264,
@@ -403,6 +419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 523002,
+      "num": 374378,
+      "word": "女子住店拉开窗帘竟是泳池水底",
+      "onboard_time": 1767448767,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 517469,
       "num": 1004582,
       "word": "台积电发布声明",
@@ -481,6 +505,14 @@
       "onboard_time": 1767311777,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 476548,
+      "num": 777118,
+      "word": "适龄男性公民都应进行兵役登记",
+      "onboard_time": 1767445765,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 471559,
@@ -1059,14 +1091,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 288051,
-      "num": 844347,
-      "word": "委内瑞拉首都街头几乎空无一人",
-      "onboard_time": 1767444805,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 285474,
       "num": 318790,
       "word": "2026年新规今起施行",
@@ -1120,14 +1144,6 @@
       "word": "上海月薪27000一天的花销",
       "onboard_time": 1767365001,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 274798,
-      "num": 753070,
-      "word": "92年姨父成12岁女孩第二个爸爸",
-      "onboard_time": 1767445105,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1225,6 +1241,14 @@
       "onboard_time": 1767426385,
       "rank": 21,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 260196,
+      "num": 372723,
+      "word": "俄要求美立即澄清马杜罗情况",
+      "onboard_time": 1767449605,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 259851,
@@ -1369,6 +1393,14 @@
       "onboard_time": 1767416967,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235847,
+      "num": 740899,
+      "word": "小猫上半身基础下半身就不基础",
+      "onboard_time": 1767445765,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 235792,
@@ -1569,6 +1601,14 @@
       "onboard_time": 1767425606,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 208470,
+      "num": 574930,
+      "word": "委内瑞拉内政部长呼吁民众冷静",
+      "onboard_time": 1767444506,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 208450,
@@ -1867,14 +1907,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 188286,
-      "num": 620352,
-      "word": "适龄男性公民都应进行兵役登记",
-      "onboard_time": 1767445765,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 187781,
       "num": 269293,
       "word": "小城良方",
@@ -2081,6 +2113,14 @@
       "onboard_time": 1767251960,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179645,
+      "num": 371326,
+      "word": "洗衣机竟敢拿了工资不工作",
+      "onboard_time": 1767449486,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 178442,
@@ -2355,52 +2395,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163909,
-      "num": 556601,
-      "word": "慢跑时器官在忙什么",
-      "onboard_time": 1767348201,
-      "rank": 13,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 163484,
-      "num": 1029517,
-      "word": "挑杯决赛",
-      "onboard_time": 1767352100,
-      "rank": 17,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 163420,
-      "num": 419997,
-      "word": "扭扭捏捏的人都有一个特质",
-      "onboard_time": 1767309195,
-      "rank": 6,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 163115,
-      "num": 587919,
-      "word": "土耳其免签",
-      "onboard_time": 1767224237,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 162103,
-      "num": 419829,
-      "word": "宋威龙这段我先哭红了眼",
-      "onboard_time": 1767364222,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 162045,
-      "num": 1006768,
-      "word": "骄阳似我预告",
-      "onboard_time": 1767274882,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 164683,
+      "num": 574037,
+      "word": "雷军公开小米汽车年交付量",
+      "onboard_time": 1767447266,
+      "rank": 47,
+      "category": "互联网"
     }
   ],
   "hotgov_list": [

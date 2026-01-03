@@ -1,6 +1,6 @@
 {
   "startTime": 1767371718188,
-  "endTime": 1767448030555,
+  "endTime": 1767450407580,
   "band_list": [
     {
       "raw_hot": 13350510,
@@ -107,6 +107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 660383,
+      "num": 1105661,
+      "word": "92年姨父成12岁女孩第二个爸爸",
+      "onboard_time": 1767445105,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 638474,
       "num": 857766,
       "word": "马杜罗及其夫人已在美国被起诉",
@@ -128,6 +136,14 @@
       "word": "委内瑞拉怎么了",
       "onboard_time": 1767424705,
       "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 592422,
+      "num": 844347,
+      "word": "委内瑞拉首都街头几乎空无一人",
+      "onboard_time": 1767444805,
+      "rank": 41,
       "category": "国际时政"
     },
     {
@@ -171,6 +187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 523002,
+      "num": 374378,
+      "word": "女子住店拉开窗帘竟是泳池水底",
+      "onboard_time": 1767448767,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 495862,
       "num": 2988452,
       "word": "男女主官宣完男二才追",
@@ -185,6 +209,14 @@
       "onboard_time": 1767406949,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 476548,
+      "num": 777118,
+      "word": "适龄男性公民都应进行兵役登记",
+      "onboard_time": 1767445765,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 470708,
@@ -419,14 +451,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 288051,
-      "num": 844347,
-      "word": "委内瑞拉首都街头几乎空无一人",
-      "onboard_time": 1767444805,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 282342,
       "num": 422602,
       "word": "雷军现场直播拆小米YU7",
@@ -435,20 +459,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 274798,
-      "num": 753070,
-      "word": "92年姨父成12岁女孩第二个爸爸",
-      "onboard_time": 1767445105,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 260724,
       "num": 1739259,
       "word": "生理性喜欢和心理性喜欢的区别",
       "onboard_time": 1767426385,
       "rank": 21,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 260196,
+      "num": 372723,
+      "word": "俄要求美立即澄清马杜罗情况",
+      "onboard_time": 1767449605,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 256749,
@@ -523,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235847,
+      "num": 740899,
+      "word": "小猫上半身基础下半身就不基础",
+      "onboard_time": 1767445765,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 230979,
       "num": 850105,
       "word": "三角洲",
@@ -577,6 +609,14 @@
       "onboard_time": 1767425606,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 208470,
+      "num": 574930,
+      "word": "委内瑞拉内政部长呼吁民众冷静",
+      "onboard_time": 1767444506,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 208037,
@@ -715,14 +755,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 188286,
-      "num": 620352,
-      "word": "适龄男性公民都应进行兵役登记",
-      "onboard_time": 1767445765,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 185025,
       "num": 421620,
       "word": "十个勤天新春见面会官宣",
@@ -753,6 +785,14 @@
       "onboard_time": 1767436046,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 179645,
+      "num": 371326,
+      "word": "洗衣机竟敢拿了工资不工作",
+      "onboard_time": 1767449486,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 178442,
@@ -859,6 +899,30 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 164683,
+      "num": 574037,
+      "word": "雷军公开小米汽车年交付量",
+      "onboard_time": 1767447266,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 161317,
+      "num": 841446,
+      "word": "骄阳似我26集结尾",
+      "onboard_time": 1767444566,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 160823,
+      "num": 371042,
+      "word": "内娱女歌手大型吃醋名场面",
+      "onboard_time": 1767449067,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160445,
       "num": 1028423,
       "word": "影视飓风年度相机",
@@ -947,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155735,
+      "num": 843459,
+      "word": "美国为何选择此刻对委内瑞拉动武",
+      "onboard_time": 1767441746,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 155502,
       "num": 519537,
       "word": "2026LPL第一赛段赛程",
@@ -977,6 +1049,14 @@
       "onboard_time": 1767419006,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151905,
+      "num": 369802,
+      "word": "娜扎我的队不能没有侯明昊",
+      "onboard_time": 1767448646,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 151403,
@@ -1011,7 +1091,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147755,
+      "raw_hot": 147901,
       "num": 577434,
       "word": "一诺连续三年获KPL最受欢迎选手",
       "onboard_time": 1767446847,
@@ -1033,22 +1113,6 @@
       "onboard_time": 1767423145,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147007,
-      "num": 841446,
-      "word": "骄阳似我26集结尾",
-      "onboard_time": 1767444566,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 147006,
-      "num": 740899,
-      "word": "小猫上半身基础下半身就不基础",
-      "onboard_time": 1767445765,
-      "rank": 8,
-      "category": "幽默"
     },
     {
       "raw_hot": 144639,
@@ -1088,14 +1152,6 @@
       "word": "伊朗警告特朗普",
       "onboard_time": 1767432985,
       "rank": 41,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 139054,
-      "num": 843459,
-      "word": "美国为何选择此刻对委内瑞拉动武",
-      "onboard_time": 1767441746,
-      "rank": 43,
       "category": "国际时政"
     },
     {
@@ -1145,14 +1201,6 @@
       "onboard_time": 1767411032,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133588,
-      "num": 574930,
-      "word": "委内瑞拉内政部长呼吁民众冷静",
-      "onboard_time": 1767444506,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 131852,
@@ -1331,14 +1379,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 120942,
-      "num": 574037,
-      "word": "雷军公开小米汽车年交付量",
-      "onboard_time": 1767447266,
-      "rank": 47,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 120838,
       "num": 843820,
       "word": "李昀锐谢谢老己",
@@ -1467,6 +1507,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 108252,
+      "num": 371941,
+      "word": "车厘子价格已大跌",
+      "onboard_time": 1767449725,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108042,
       "num": 580038,
       "word": "暖阳FMVP",
@@ -1571,6 +1619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 104252,
+      "num": 369041,
+      "word": "马杜罗被控4罪",
+      "onboard_time": 1767448166,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 103956,
       "num": 1036175,
       "word": "这才是一个人顶级魅力的体现",
@@ -1633,6 +1689,14 @@
       "onboard_time": 1767429628,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100815,
+      "num": 370051,
+      "word": "小迪老师起飞全纪录",
+      "onboard_time": 1767450265,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 99456,
@@ -1881,6 +1945,22 @@
       "onboard_time": 1767364702,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 81592,
+      "num": 369424,
+      "word": "椰蓉面包正在制作中",
+      "onboard_time": 1767449906,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 81244,
+      "num": 368844,
+      "word": "小米汽车去年交付41万辆",
+      "onboard_time": 1767449366,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 81219,
@@ -2779,6 +2859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37190,
+      "num": 372117,
+      "word": "92年小伙回应领养12岁外甥女初衷",
+      "onboard_time": 1767450208,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36275,
       "num": 1020369,
       "word": "人人人人人人深圳人人人人人人",
@@ -3035,6 +3123,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19755,
+      "num": 370506,
+      "word": "总台记者亲历美国袭击委内瑞拉",
+      "onboard_time": 1767450208,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 17699,
+      "num": 662337,
+      "word": "2026开年图景",
+      "onboard_time": 1767450026,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17365,
       "num": 575517,
       "word": "华晨宇火星演唱会",
@@ -3056,6 +3160,14 @@
       "word": "9岁女孩给外公连发2年想你",
       "onboard_time": 1767425305,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9442,
+      "num": 371637,
+      "word": "本周这些数据最值得关注",
+      "onboard_time": 1767430705,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
