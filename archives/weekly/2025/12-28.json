@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767411902066,
+  "endTime": 1767415172168,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -377,6 +377,14 @@
       "onboard_time": 1767068901,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1049300,
+      "num": 747161,
+      "word": "当年的老己在QQ给老自留了笔巨款",
+      "onboard_time": 1767410309,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 1041426,
@@ -827,14 +835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 653362,
-      "num": 747161,
-      "word": "当年的老己在QQ给老自留了笔巨款",
-      "onboard_time": 1767410309,
-      "rank": 11,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 650250,
       "num": 612233,
       "word": "医生称薯片是垃圾食品中的垃圾食品",
@@ -1209,6 +1209,14 @@
       "onboard_time": 1767345320,
       "rank": 26,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 544117,
+      "num": 544117,
+      "word": "车厘子",
+      "onboard_time": 1767413068,
+      "rank": 3,
+      "category": "美食"
     },
     {
       "raw_hot": 542978,
@@ -1707,6 +1715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 454130,
+      "num": 750205,
+      "word": "太二卖不动酸菜鱼了",
+      "onboard_time": 1767410187,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 454108,
       "num": 397962,
       "word": "45岁女子被女邻居砍伤身亡",
@@ -1785,6 +1801,14 @@
       "onboard_time": 1766880378,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 446937,
+      "num": 541005,
+      "word": "阳光信用",
+      "onboard_time": 1767412468,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 446732,
@@ -2627,6 +2651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348710,
+      "num": 542164,
+      "word": "刘亦菲李现去有风的地方开播三周年",
+      "onboard_time": 1767415049,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 348363,
       "num": 4102584,
       "word": "阿姨怎么一戴假发面相都变了",
@@ -2940,7 +2972,7 @@
     },
     {
       "raw_hot": 316987,
-      "num": 764114,
+      "num": 764907,
       "word": "李在明表态台湾问题",
       "onboard_time": 1767408509,
       "rank": 1,
@@ -2968,6 +3000,14 @@
       "word": "玉茗茶骨首播反响",
       "onboard_time": 1766990600,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 315268,
+      "num": 540872,
+      "word": "看来赵丽颖与凤行时没拍够",
+      "onboard_time": 1767413306,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -3035,14 +3075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 310861,
-      "num": 750205,
-      "word": "太二卖不动酸菜鱼了",
-      "onboard_time": 1767410187,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 310239,
       "num": 1095835,
       "word": "煮方便面突然发现哪里不对劲",
@@ -3096,6 +3128,14 @@
       "word": "独居离世女子遗产预计近300万",
       "onboard_time": 1766990361,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307671,
+      "num": 749607,
+      "word": "温州一河面密密麻麻全是罗非鱼",
+      "onboard_time": 1767410187,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -3707,14 +3747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 268200,
-      "num": 749607,
-      "word": "温州一河面密密麻麻全是罗非鱼",
-      "onboard_time": 1767410187,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 268008,
       "num": 1003261,
       "word": "跨年最佳节目",
@@ -4033,6 +4065,14 @@
       "onboard_time": 1766854879,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 248295,
+      "num": 540460,
+      "word": "檀健次出发横店进组何不同舟渡",
+      "onboard_time": 1767414326,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 248146,
@@ -6179,6 +6219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172263,
+      "num": 539818,
+      "word": "林依轮 姜平也是聂曦光唯一的舅舅",
+      "onboard_time": 1767413846,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172050,
       "num": 516077,
       "word": "骄阳似我剧粉盘",
@@ -6513,6 +6561,14 @@
       "onboard_time": 1767336979,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166487,
+      "num": 544003,
+      "word": "明日方舟",
+      "onboard_time": 1767412408,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 166444,
@@ -7019,6 +7075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 156147,
+      "num": 730733,
+      "word": "第一次看见两个人的牙有情侣相的",
+      "onboard_time": 1767411507,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156132,
       "num": 156132,
       "word": "钟意",
@@ -7201,6 +7265,14 @@
       "onboard_time": 1767334819,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 151399,
+      "num": 543026,
+      "word": "曝AL与BLG打响电竞春晚",
+      "onboard_time": 1767414567,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 151169,
@@ -8907,6 +8979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126299,
+      "num": 539354,
+      "word": "范丞丞宇宙闪烁请注意路透",
+      "onboard_time": 1767414627,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126224,
       "num": 126224,
       "word": "窈窈有期",
@@ -9617,6 +9697,14 @@
       "onboard_time": 1767314418,
       "rank": 13,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 119603,
+      "num": 543488,
+      "word": "上海春考",
+      "onboard_time": 1767413486,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 119465,
@@ -10787,6 +10875,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 107576,
+      "num": 541679,
+      "word": "新华社评罚罪2",
+      "onboard_time": 1767413368,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107570,
       "num": 107570,
       "word": "王者顶级天幕皮肤",
@@ -10913,6 +11009,14 @@
       "onboard_time": 1766889259,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106402,
+      "num": 541652,
+      "word": "你好星期六",
+      "onboard_time": 1767050417,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 106374,
@@ -11992,6 +12096,14 @@
       "word": "大晚上猫猫开着车灯就来了",
       "onboard_time": 1767084500,
       "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 97875,
+      "num": 731913,
+      "word": "这才是我们年轻人看得懂的物价",
+      "onboard_time": 1767411327,
+      "rank": 39,
       "category": "幽默"
     },
     {
@@ -13435,6 +13547,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 86844,
+      "num": 542502,
+      "word": "学医的和学画画的都沉默了",
+      "onboard_time": 1767412709,
+      "rank": 17,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 86820,
       "num": 736265,
       "word": "恋与深空能登顶吗",
@@ -13675,6 +13795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85237,
+      "num": 542434,
+      "word": "喜欢独处的人都是这么想的",
+      "onboard_time": 1767412947,
+      "rank": 18,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 85212,
       "num": 85212,
       "word": "骄阳似我 有梗",
@@ -13777,6 +13905,14 @@
       "onboard_time": 1767074660,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84615,
+      "num": 541236,
+      "word": "宇宙闪烁请注意",
+      "onboard_time": 1767414988,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 84554,
@@ -14979,6 +15115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 74306,
+      "num": 540760,
+      "word": "明天上班记得调闹钟",
+      "onboard_time": 1767414806,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 74294,
       "num": 1079661,
       "word": "千问导演了反方向的钟",
@@ -15113,14 +15257,6 @@
       "onboard_time": 1767073581,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72990,
-      "num": 730733,
-      "word": "第一次看见两个人的牙有情侣相的",
-      "onboard_time": 1767411507,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 72828,
@@ -15457,6 +15593,14 @@
       "onboard_time": 1767240620,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 69581,
+      "num": 540641,
+      "word": "段永平晒部分持仓",
+      "onboard_time": 1767413547,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 69554,
@@ -15827,6 +15971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 65482,
+      "num": 540620,
+      "word": "国产剧观众有自己的死亡笔记",
+      "onboard_time": 1767414207,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 65376,
       "num": 1092000,
       "word": "二十米好像走了一辈子",
@@ -16000,14 +16152,6 @@
       "word": "这是碗的极限不是我的极限",
       "onboard_time": 1767346820,
       "rank": 46,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 63751,
-      "num": 731913,
-      "word": "这才是我们年轻人看得懂的物价",
-      "onboard_time": 1767411327,
-      "rank": 39,
       "category": "幽默"
     },
     {
@@ -16523,6 +16667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57978,
+      "num": 540115,
+      "word": "青山刚昌又画了松田阵平",
+      "onboard_time": 1767413486,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 57896,
       "num": 57896,
       "word": "张艺兴在干嘛",
@@ -16803,6 +16955,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 55348,
+      "num": 539471,
+      "word": "这世界总有虫在缝缝补补",
+      "onboard_time": 1767413127,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 55169,
       "num": 142839,
       "word": "蒯曼说被带飞",
@@ -16817,6 +16977,14 @@
       "onboard_time": 1767106102,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 55025,
+      "num": 539235,
+      "word": "灰熊vs湖人",
+      "onboard_time": 1767413008,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 54950,
@@ -17331,6 +17499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49333,
+      "num": 538957,
+      "word": "2015和2026的我",
+      "onboard_time": 1767412288,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 49250,
       "num": 247541,
       "word": "苹果竟然还可以做棉花糖",
@@ -17393,14 +17569,6 @@
       "onboard_time": 1767094821,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 48646,
-      "num": 56355,
-      "word": "你好星期六",
-      "onboard_time": 1767050417,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 48638,
@@ -18859,6 +19027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 34773,
+      "num": 542261,
+      "word": "8位渐冻症患者用药后病情好转",
+      "onboard_time": 1767414147,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34758,
       "num": 158404,
       "word": "美国十部法案妄图锁死台海",
@@ -20113,6 +20289,14 @@
       "onboard_time": 1767323780,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 19914,
+      "num": 539983,
+      "word": "瑞士起火酒吧10年仅3次消防检查",
+      "onboard_time": 1767414988,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 19600,

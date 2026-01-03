@@ -1,7 +1,15 @@
 {
   "startTime": 1767371718188,
-  "endTime": 1767411902066,
+  "endTime": 1767415172168,
   "band_list": [
+    {
+      "raw_hot": 1049300,
+      "num": 747161,
+      "word": "当年的老己在QQ给老自留了笔巨款",
+      "onboard_time": 1767410309,
+      "rank": 11,
+      "category": "幽默"
+    },
     {
       "raw_hot": 821415,
       "num": 1092758,
@@ -11,20 +19,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 653362,
-      "num": 747161,
-      "word": "当年的老己在QQ给老自留了笔巨款",
-      "onboard_time": 1767410309,
-      "rank": 11,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 607813,
       "num": 1097250,
       "word": "两外国人在重庆用筷子烫火锅",
       "onboard_time": 1767402928,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 544117,
+      "num": 544117,
+      "word": "车厘子",
+      "onboard_time": 1767413068,
+      "rank": 3,
+      "category": "美食"
     },
     {
       "raw_hot": 493980,
@@ -41,6 +49,22 @@
       "onboard_time": 1767347540,
       "rank": 10,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 454130,
+      "num": 750205,
+      "word": "太二卖不动酸菜鱼了",
+      "onboard_time": 1767410187,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 446937,
+      "num": 541005,
+      "word": "阳光信用",
+      "onboard_time": 1767412468,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 441237,
@@ -75,6 +99,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 348710,
+      "num": 542164,
+      "word": "刘亦菲李现去有风的地方开播三周年",
+      "onboard_time": 1767415049,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 343780,
       "num": 1095638,
       "word": "张本智和曾参拜东乡神社",
@@ -84,19 +116,19 @@
     },
     {
       "raw_hot": 316987,
-      "num": 764114,
+      "num": 764907,
       "word": "李在明表态台湾问题",
       "onboard_time": 1767408509,
       "rank": 1,
       "category": "国际时政"
     },
     {
-      "raw_hot": 310861,
-      "num": 750205,
-      "word": "太二卖不动酸菜鱼了",
-      "onboard_time": 1767410187,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 315268,
+      "num": 540872,
+      "word": "看来赵丽颖与凤行时没拍够",
+      "onboard_time": 1767413306,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 310239,
@@ -105,6 +137,14 @@
       "onboard_time": 1767401246,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 307671,
+      "num": 749607,
+      "word": "温州一河面密密麻麻全是罗非鱼",
+      "onboard_time": 1767410187,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 295024,
@@ -123,14 +163,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 268200,
-      "num": 749607,
-      "word": "温州一河面密密麻麻全是罗非鱼",
-      "onboard_time": 1767410187,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 256749,
       "num": 1096200,
       "word": "玉茗茶骨",
@@ -144,6 +176,14 @@
       "word": "赵今麦穿了林屿森的衣服",
       "onboard_time": 1767370399,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 248295,
+      "num": 540460,
+      "word": "檀健次出发横店进组何不同舟渡",
+      "onboard_time": 1767414326,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -211,12 +251,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172263,
+      "num": 539818,
+      "word": "林依轮 姜平也是聂曦光唯一的舅舅",
+      "onboard_time": 1767413846,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171048,
       "num": 441148,
       "word": "骄阳似我刷新腾讯纪录",
       "onboard_time": 1767364581,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166487,
+      "num": 544003,
+      "word": "明日方舟",
+      "onboard_time": 1767412408,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 157612,
@@ -235,12 +291,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156147,
+      "num": 730733,
+      "word": "第一次看见两个人的牙有情侣相的",
+      "onboard_time": 1767411507,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155018,
       "num": 1094620,
       "word": "丁禹兮要拍斩神",
       "onboard_time": 1767406048,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151399,
+      "num": 543026,
+      "word": "曝AL与BLG打响电竞春晚",
+      "onboard_time": 1767414567,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 149142,
@@ -299,6 +371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 126299,
+      "num": 539354,
+      "word": "范丞丞宇宙闪烁请注意路透",
+      "onboard_time": 1767414627,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124942,
       "num": 1093428,
       "word": "肖战王安宇同台出圈",
@@ -321,6 +401,14 @@
       "onboard_time": 1767404668,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119603,
+      "num": 543488,
+      "word": "上海春考",
+      "onboard_time": 1767413486,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 117617,
@@ -347,6 +435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 107576,
+      "num": 541679,
+      "word": "新华社评罚罪2",
+      "onboard_time": 1767413368,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106924,
       "num": 1095555,
       "word": "外网也在使用中式英语",
@@ -371,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106402,
+      "num": 541652,
+      "word": "你好星期六",
+      "onboard_time": 1767413906,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106127,
       "num": 1093672,
       "word": "何不同舟渡",
@@ -393,6 +497,14 @@
       "onboard_time": 1767364222,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97875,
+      "num": 731913,
+      "word": "这才是我们年轻人看得懂的物价",
+      "onboard_time": 1767411327,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 97654,
@@ -435,12 +547,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86844,
+      "num": 542502,
+      "word": "学医的和学画画的都沉默了",
+      "onboard_time": 1767412709,
+      "rank": 17,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 85237,
+      "num": 542434,
+      "word": "喜欢独处的人都是这么想的",
+      "onboard_time": 1767412947,
+      "rank": 18,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 84976,
       "num": 440504,
       "word": "骄阳似我",
       "onboard_time": 1767349460,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84615,
+      "num": 541236,
+      "word": "宇宙闪烁请注意",
+      "onboard_time": 1767414988,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 83273,
@@ -491,12 +627,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 72990,
-      "num": 730733,
-      "word": "第一次看见两个人的牙有情侣相的",
-      "onboard_time": 1767411507,
-      "rank": 41,
-      "category": "幽默"
+      "raw_hot": 74306,
+      "num": 540760,
+      "word": "明天上班记得调闹钟",
+      "onboard_time": 1767414806,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 71228,
@@ -523,6 +659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 69581,
+      "num": 540641,
+      "word": "段永平晒部分持仓",
+      "onboard_time": 1767413547,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 68861,
       "num": 735183,
       "word": "生病时五官的感受",
@@ -547,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65482,
+      "num": 540620,
+      "word": "国产剧观众有自己的死亡笔记",
+      "onboard_time": 1767414207,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 65376,
       "num": 1092000,
       "word": "二十米好像走了一辈子",
@@ -569,14 +721,6 @@
       "onboard_time": 1767399383,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63751,
-      "num": 731913,
-      "word": "这才是我们年轻人看得懂的物价",
-      "onboard_time": 1767411327,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 63338,
@@ -635,6 +779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 57978,
+      "num": 540115,
+      "word": "青山刚昌又画了松田阵平",
+      "onboard_time": 1767413486,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 57438,
       "num": 1091705,
       "word": "年轻人眼中的顶流审美有多绝",
@@ -681,6 +833,22 @@
       "onboard_time": 1767411089,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 55348,
+      "num": 539471,
+      "word": "这世界总有虫在缝缝补补",
+      "onboard_time": 1767413127,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 55025,
+      "num": 539235,
+      "word": "灰熊vs湖人",
+      "onboard_time": 1767413008,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 53757,
@@ -785,6 +953,14 @@
       "onboard_time": 1767352822,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 49333,
+      "num": 538957,
+      "word": "2015和2026的我",
+      "onboard_time": 1767412288,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 48688,
@@ -931,6 +1107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 34773,
+      "num": 542261,
+      "word": "8位渐冻症患者用药后病情好转",
+      "onboard_time": 1767414147,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34012,
       "num": 583823,
       "word": "歌唱家紧张竟然扇自己嘴巴子",
@@ -1073,6 +1257,14 @@
       "onboard_time": 1767397639,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19914,
+      "num": 539983,
+      "word": "瑞士起火酒吧10年仅3次消防检查",
+      "onboard_time": 1767414988,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 17365,
