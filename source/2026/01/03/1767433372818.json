@@ -1,0 +1,410 @@
+{
+  "runTime": 1767433372818,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6462237,
+        "num": 6462237,
+        "word": "特朗普称已抓获委内瑞拉总统",
+        "onboard_time": 1767432625,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 215042,
+        "num": 4635254,
+        "word": "零下30多度男子开窗冷空气瞬间现形",
+        "onboard_time": 1767428364,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31613,
+        "num": 3632942,
+        "word": "小寒大寒哪个更冷",
+        "onboard_time": 1767431544,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470895,
+        "num": 2988452,
+        "word": "男女主官宣完男二才追",
+        "onboard_time": 1767429144,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290667,
+        "num": 2432430,
+        "word": "车厘子",
+        "onboard_time": 1767413068,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 2006164,
+        "num": 2006164,
+        "word": "特朗普下令打击委内瑞拉境内目标",
+        "onboard_time": 1767426805,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207588,
+        "num": 1987423,
+        "word": "月亮",
+        "onboard_time": 1767432925,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 574989,
+        "num": 1930829,
+        "word": "美军空袭委内瑞拉首都",
+        "onboard_time": 1767425186,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 180582,
+        "num": 1880794,
+        "word": "当年的男神现在叫我奶奶",
+        "onboard_time": 1767431305,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147842,
+        "num": 1790908,
+        "word": "老板承诺每人奖一台车不该被绑架",
+        "onboard_time": 1767431664,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1785801,
+        "num": 1785801,
+        "word": "委内瑞拉",
+        "onboard_time": 1767426205,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171146,
+        "num": 1782078,
+        "word": "威廉王子夫妇年薪3090万美元",
+        "onboard_time": 1767430885,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 471925,
+        "num": 1781415,
+        "word": "白宫将就军事打击委内瑞拉发声明",
+        "onboard_time": 1767431544,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132567,
+        "num": 1774910,
+        "word": "当年的老己在QQ给老自留了笔巨款",
+        "onboard_time": 1767410309,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 325785,
+        "num": 1774206,
+        "word": "委内瑞拉怎么了",
+        "onboard_time": 1767424705,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113712,
+        "num": 1767829,
+        "word": "太二卖不动酸菜鱼了",
+        "onboard_time": 1767410187,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297441,
+        "num": 1763311,
+        "word": "委内瑞拉国家紧急状态",
+        "onboard_time": 1767427524,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97457,
+        "num": 1759881,
+        "word": "橘子我从未怀疑过你",
+        "onboard_time": 1767418106,
+        "rank": 17,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 127853,
+        "num": 1756179,
+        "word": "五角大楼附近披萨订单量又升高了",
+        "onboard_time": 1767425246,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96137,
+        "num": 1752341,
+        "word": "MRC对战Gr",
+        "onboard_time": 1767430104,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 507432,
+        "num": 1750002,
+        "word": "檀健次我们好像太暧昧了",
+        "onboard_time": 1767420926,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 351535,
+        "num": 1746146,
+        "word": "爱吃橘子的人天塌了",
+        "onboard_time": 1767428064,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251661,
+        "num": 1742957,
+        "word": "九尾黑面罩氛围感有了",
+        "onboard_time": 1767432804,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 205897,
+        "num": 1739259,
+        "word": "生理性喜欢和心理性喜欢的区别",
+        "onboard_time": 1767426385,
+        "rank": 23,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 159857,
+        "num": 1735592,
+        "word": "身体最不抗冻的5个部位",
+        "onboard_time": 1767431244,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153979,
+        "num": 1730508,
+        "word": "车厘子J是啥意思",
+        "onboard_time": 1767425606,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 131863,
+        "num": 1727011,
+        "word": "委总统下令立即武装斗争",
+        "onboard_time": 1767432566,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 197331,
+        "num": 1722080,
+        "word": "长生珠绣流苏西装造型",
+        "onboard_time": 1767432804,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91284,
+        "num": 1720843,
+        "word": "樊振东期待德甲每一场比赛",
+        "onboard_time": 1767432745,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86137,
+        "num": 1715094,
+        "word": "五星红旗在台湾台南冉冉升起",
+        "onboard_time": 1767421285,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127663,
+        "num": 1710743,
+        "word": "美军为何突然袭击委内瑞拉",
+        "onboard_time": 1767432264,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107813,
+        "num": 1708841,
+        "word": "美人心计vs玉茗茶骨",
+        "onboard_time": 1767431725,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123396,
+        "num": 1703345,
+        "word": "美军结束对委内瑞拉轰炸",
+        "onboard_time": 1767428124,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187205,
+        "num": 1701676,
+        "word": "大帅黑皮肤就得穿白色",
+        "onboard_time": 1767432325,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 60780,
+        "num": 1697841,
+        "word": "美或对委内瑞拉发起第二轮袭击",
+        "onboard_time": 1767431544,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105887,
+        "num": 1692801,
+        "word": "交警回应撞脸杨紫爆红",
+        "onboard_time": 1767415407,
+        "rank": 35,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 95955,
+        "num": 1688849,
+        "word": "委内瑞拉局势最新情况",
+        "onboard_time": 1767432684,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158257,
+        "num": 1684382,
+        "word": "无畏帅就一个字",
+        "onboard_time": 1767432325,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94810,
+        "num": 1682943,
+        "word": "委外交部谴责美国军事侵略",
+        "onboard_time": 1767432804,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69581,
+        "num": 1678085,
+        "word": "数字人民币和微信支付宝的不同",
+        "onboard_time": 1767422185,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 101587,
+        "num": 1674051,
+        "word": "檀健次一日女友体验卡",
+        "onboard_time": 1767428845,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 87699,
+        "num": 1670498,
+        "word": "伊朗警告特朗普",
+        "onboard_time": 1767432985,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83953,
+        "num": 1664704,
+        "word": "俄罗斯发动大规模报复性打击",
+        "onboard_time": 1767420686,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77831,
+        "num": 1663351,
+        "word": "5个影后有4个都选了财富自由",
+        "onboard_time": 1767407007,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74916,
+        "num": 1657105,
+        "word": "赵今麦演的我恋爱瘾犯了",
+        "onboard_time": 1767432566,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73677,
+        "num": 1653562,
+        "word": "建议气血不足的人痛痛快快唱歌",
+        "onboard_time": 1767418106,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 63788,
+        "num": 1651873,
+        "word": "委内瑞拉国防部遭轰炸",
+        "onboard_time": 1767430226,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 63531,
+        "num": 1645594,
+        "word": "爷爷给我看了他的作业本",
+        "onboard_time": 1767433163,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 58032,
+        "num": 1644392,
+        "word": "女子吃鸡蛋惊现蛋中蛋",
+        "onboard_time": 1767418526,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54042,
+        "num": 1641542,
+        "word": "期待郑钦文2026年首秀",
+        "onboard_time": 1767432144,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#枝叶总关情的含义#"
+    }
+  }
+}
