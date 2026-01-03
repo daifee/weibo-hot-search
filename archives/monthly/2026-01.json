@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767482859751,
+  "endTime": 1767483685636,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -155,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 903012,
+      "num": 109328,
+      "word": "网传中国网红流落柬埔寨街头",
+      "onboard_time": 1767482298,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 902251,
       "num": 852081,
       "word": "马杜罗系被美军三角洲特种部队抓获",
@@ -281,14 +289,6 @@
       "onboard_time": 1767445105,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 638720,
-      "num": 90843,
-      "word": "网传中国网红流落柬埔寨街头",
-      "onboard_time": 1767482298,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 638474,
@@ -644,7 +644,7 @@
     },
     {
       "raw_hot": 446960,
-      "num": 446960,
+      "num": 459928,
       "word": "陈泽",
       "onboard_time": 1767472216,
       "rank": 1,
@@ -657,6 +657,14 @@
       "onboard_time": 1767412468,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 444586,
+      "num": 444586,
+      "word": "马杜罗没能进入安全空间",
+      "onboard_time": 1767481699,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 441518,
@@ -803,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 375440,
+      "num": 375440,
+      "word": "载有马杜罗飞机抵达纽约",
+      "onboard_time": 1767482239,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 373337,
       "num": 1017374,
       "word": "元旦宝宝1月1日0点出生",
@@ -945,6 +961,14 @@
       "onboard_time": 1767272301,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 326826,
+      "num": 326826,
+      "word": "酒店的床上为什么要放四个枕头",
+      "onboard_time": 1767481939,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 324453,
@@ -1107,14 +1131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 302157,
-      "num": 195242,
-      "word": "马杜罗没能进入安全空间",
-      "onboard_time": 1767481699,
-      "rank": 11,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 300964,
       "num": 1006083,
       "word": "小猫生了一模一样的自己",
@@ -1145,6 +1161,14 @@
       "onboard_time": 1767270502,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 297908,
+      "num": 887943,
+      "word": "92年小伙回应领养12岁外甥女初衷",
+      "onboard_time": 1767450208,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 296611,
@@ -1251,27 +1275,19 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 275280,
+      "num": 519997,
+      "word": "雷军确认小字营销要改",
+      "onboard_time": 1767481878,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 274854,
       "num": 1095184,
       "word": "上海月薪27000一天的花销",
       "onboard_time": 1767365001,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 272550,
-      "num": 88780,
-      "word": "载有马杜罗飞机抵达纽约",
-      "onboard_time": 1767482239,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 270794,
-      "num": 823738,
-      "word": "92年小伙回应领养12岁外甥女初衷",
-      "onboard_time": 1767450208,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -1337,6 +1353,14 @@
       "onboard_time": 1767197907,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 265212,
+      "num": 514541,
+      "word": "两名中国公民在日本被严重撞伤",
+      "onboard_time": 1767483320,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 264939,
@@ -1449,14 +1473,6 @@
       "onboard_time": 1767174140,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 252282,
-      "num": 193842,
-      "word": "酒店的床上为什么要放四个枕头",
-      "onboard_time": 1767481939,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 251661,
@@ -1643,6 +1659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220246,
+      "num": 220246,
+      "word": "生理性喜欢的4个无意识行为",
+      "onboard_time": 1767481818,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219002,
       "num": 1391514,
       "word": "央视舞美 夯爆了",
@@ -1819,6 +1843,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 205823,
+      "num": 258403,
+      "word": "马杜罗",
+      "onboard_time": 1767481818,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 204663,
       "num": 1094779,
       "word": "酒店泄露妻子视频险致夫妻离婚",
@@ -1899,6 +1931,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 199037,
+      "num": 199037,
+      "word": "胡锡进评美国开了一个恶劣的先例",
+      "onboard_time": 1767481939,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 197331,
       "num": 1722080,
       "word": "长生珠绣流苏西装造型",
@@ -1969,14 +2009,6 @@
       "onboard_time": 1767421587,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 191833,
-      "num": 191833,
-      "word": "马杜罗",
-      "onboard_time": 1767481818,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 191132,
@@ -2073,14 +2105,6 @@
       "onboard_time": 1767239301,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 187769,
-      "num": 187769,
-      "word": "生理性喜欢的4个无意识行为",
-      "onboard_time": 1767481818,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 187542,
@@ -2883,20 +2907,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153794,
+      "num": 153794,
+      "word": "医生提醒倒头就睡可能是身体在报警",
+      "onboard_time": 1767481878,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 153774,
       "num": 1390194,
       "word": "抢红包",
       "onboard_time": 1767171920,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 153623,
-      "num": 199787,
-      "word": "雷军确认小字营销要改",
-      "onboard_time": 1767481878,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 152903,
@@ -3097,14 +3121,6 @@
       "onboard_time": 1767330199,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 143573,
-      "num": 143573,
-      "word": "医生提醒倒头就睡可能是身体在报警",
-      "onboard_time": 1767481878,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 142967,
@@ -3627,6 +3643,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 126773,
+      "num": 792214,
+      "word": "委内瑞拉要求美方立即释放马杜罗夫妇",
+      "onboard_time": 1767451826,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 126739,
       "num": 536175,
       "word": "张杰新春演唱会秒空",
@@ -3665,14 +3689,6 @@
       "onboard_time": 1767266060,
       "rank": 43,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 125346,
-      "num": 792214,
-      "word": "委内瑞拉要求美方立即释放马杜罗夫妇",
-      "onboard_time": 1767451826,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 125334,
@@ -3947,14 +3963,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 118196,
-      "num": 118196,
-      "word": "胡锡进评美国开了一个恶劣的先例",
-      "onboard_time": 1767481939,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 117691,
       "num": 588907,
       "word": "湖南跨晚明星全员红装",
@@ -4131,6 +4139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 113553,
+      "num": 113553,
+      "word": "屈楚萧方公开胜诉判决书",
+      "onboard_time": 1767482839,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113523,
       "num": 1708841,
       "word": "美人心计vs玉茗茶骨",
@@ -4235,6 +4251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110820,
+      "num": 110820,
+      "word": "原来眼镜有寿命",
+      "onboard_time": 1767481939,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 110575,
       "num": 524584,
       "word": "永州市足球协会声明",
@@ -4273,6 +4297,14 @@
       "onboard_time": 1767251058,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109124,
+      "num": 109124,
+      "word": "樱花树下站谁都美",
+      "onboard_time": 1767481998,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 108531,
@@ -5139,14 +5171,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 88580,
-      "num": 88580,
-      "word": "原来眼镜有寿命",
-      "onboard_time": 1767481939,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 88501,
       "num": 588499,
       "word": "新年第一单外卖免单",
@@ -5513,6 +5537,14 @@
       "onboard_time": 1767411388,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 82327,
+      "num": 82327,
+      "word": "委前总统查韦斯安葬地被美军袭击",
+      "onboard_time": 1767482718,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 82251,
@@ -5923,6 +5955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74413,
+      "num": 69129,
+      "word": "委内瑞拉民众在总统府前集会",
+      "onboard_time": 1767482959,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 74331,
       "num": 979429,
       "word": "领导的电话号码要背熟",
@@ -6051,6 +6091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 71801,
+      "num": 470749,
+      "word": "12岁女孩回应92年姨父是第二个爸爸",
+      "onboard_time": 1767482718,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71791,
       "num": 261717,
       "word": "一代人有一代人的鲁冰花",
@@ -6081,6 +6129,14 @@
       "onboard_time": 1767309556,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 70659,
+      "num": 70659,
+      "word": "李在明说每次访问中国像进新世界",
+      "onboard_time": 1767483320,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 70458,
@@ -6417,14 +6473,6 @@
       "onboard_time": 1767361462,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65647,
-      "num": 65647,
-      "word": "樱花树下站谁都美",
-      "onboard_time": 1767481998,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 65620,
@@ -6907,14 +6955,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 57751,
-      "num": 57751,
-      "word": "委前总统查韦斯安葬地被美军袭击",
-      "onboard_time": 1767482718,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 57710,
       "num": 1009233,
       "word": "新年第1天升国旗",
@@ -7041,6 +7081,14 @@
       "onboard_time": 1767333619,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56311,
+      "num": 56311,
+      "word": "车厘子 褪黑素",
+      "onboard_time": 1767483558,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 56248,
@@ -7259,14 +7307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 52364,
-      "num": 92912,
-      "word": "12岁女孩回应92年姨父是第二个爸爸",
-      "onboard_time": 1767482718,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52349,
       "num": 651032,
       "word": "这才叫直播间的家人们",
@@ -7315,12 +7355,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51471,
+      "num": 56235,
+      "word": "白宫附近披萨订单也爆了",
+      "onboard_time": 1767482779,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 51403,
       "num": 1028628,
       "word": "这种花的名字又好喝又可爱",
       "onboard_time": 1767351260,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51259,
+      "num": 56209,
+      "word": "47天大的宝宝开口跟爸爸对话",
+      "onboard_time": 1767483320,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 51249,
@@ -7465,6 +7521,14 @@
       "onboard_time": 1767334819,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48838,
+      "num": 112476,
+      "word": "美袭击委内瑞拉当地华人发声",
+      "onboard_time": 1767468616,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 48688,
@@ -7827,14 +7891,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 44092,
-      "num": 112476,
-      "word": "美袭击委内瑞拉当地华人发声",
-      "onboard_time": 1767468616,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 43869,
       "num": 354788,
       "word": "猫咪的人里人气时刻",
@@ -8025,6 +8081,14 @@
       "onboard_time": 1767314298,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40002,
+      "num": 56104,
+      "word": "今年黄金白银还涨吗",
+      "onboard_time": 1767483078,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 39847,
@@ -8321,14 +8385,6 @@
       "onboard_time": 1767359360,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 33924,
-      "num": 57507,
-      "word": "屈楚萧方公开胜诉判决书",
-      "onboard_time": 1767482839,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 33303,
@@ -8683,6 +8739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 21521,
+      "num": 662337,
+      "word": "2026开年图景",
+      "onboard_time": 1767450026,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21475,
       "num": 317717,
       "word": "千万次的问是千问主题曲吗",
@@ -8753,14 +8817,6 @@
       "onboard_time": 1767466155,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 18694,
-      "num": 662337,
-      "word": "2026开年图景",
-      "onboard_time": 1767450026,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17365,
