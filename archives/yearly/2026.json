@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767465504199,
+  "endTime": 1767466299530,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1219,6 +1219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 272495,
+      "num": 140473,
+      "word": "特朗普称将占领管理委内瑞拉",
+      "onboard_time": 1767463877,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 270391,
       "num": 1093799,
       "word": "伊朗",
@@ -1537,14 +1545,6 @@
       "onboard_time": 1767358822,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 225808,
-      "num": 140473,
-      "word": "特朗普称将占领管理委内瑞拉",
-      "onboard_time": 1767463877,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 224828,
