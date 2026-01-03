@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767476434507,
+  "endTime": 1767479261867,
   "band_list": [
     {
       "raw_hot": 1541881,
@@ -33,6 +33,14 @@
       "onboard_time": 1767451405,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 553340,
+      "num": 553340,
+      "word": "特朗普称将占领管理委内瑞拉",
+      "onboard_time": 1767463877,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 446960,
@@ -80,14 +88,6 @@
       "word": "特朗普发布马杜罗在美舰照片",
       "onboard_time": 1767458661,
       "rank": 24,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 288625,
-      "num": 288625,
-      "word": "特朗普称将占领管理委内瑞拉",
-      "onboard_time": 1767463877,
-      "rank": 4,
       "category": "国际时政"
     },
     {
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123386,
+      "num": 794489,
+      "word": "俄称美国将遭到全球大多数人的谴责",
+      "onboard_time": 1767452545,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 113829,
       "num": 792214,
       "word": "委内瑞拉要求美方立即释放马杜罗夫妇",
@@ -249,14 +257,6 @@
       "onboard_time": 1767447266,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 92334,
-      "num": 794489,
-      "word": "俄称美国将遭到全球大多数人的谴责",
-      "onboard_time": 1767452545,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 89510,
@@ -531,6 +531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 33334,
+      "num": 93225,
+      "word": "奔跑吧",
+      "onboard_time": 1767442585,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 33077,
       "num": 764311,
       "word": "飞天茅台每人每日限购6瓶",
@@ -555,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25974,
+      "num": 92942,
+      "word": "美袭击委内瑞拉当地华人发声",
+      "onboard_time": 1767468616,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 23253,
       "num": 138948,
       "word": "怪奇物语大结局",
@@ -563,20 +579,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21244,
+      "raw_hot": 23122,
       "num": 415350,
       "word": "2026第一个工作日",
       "onboard_time": 1767454763,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19087,
-      "num": 65448,
-      "word": "美袭击委内瑞拉当地华人发声",
-      "onboard_time": 1767468616,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 18863,
@@ -587,14 +595,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 16205,
-      "num": 41646,
-      "word": "奔跑吧",
-      "onboard_time": 1767442585,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 14148,
       "num": 77147,
       "word": "kpl王者荣耀巅峰之夜",
@@ -603,8 +603,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 8927,
-      "num": 128779,
+      "raw_hot": 10465,
+      "num": 271501,
       "word": "2026开年图景",
       "onboard_time": 1767450026,
       "rank": 2,

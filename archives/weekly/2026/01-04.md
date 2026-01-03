@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/04 00:34:09 ~ 2026/01/04 05:40:34
+本榜单时间：2026/01/04 00:34:09 ~ 2026/01/04 06:27:41
 </p>
 </blockquote>
 <p>
@@ -35,6 +35,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%AF%B9%E5%A7%94%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB%23" target="weibo">
 外交部回应美对委军事打击（热度：570955）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%8D%A0%E9%A2%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%23" target="weibo">
+特朗普称将占领管理委内瑞拉（热度：553340）
 </a>
 </li>
 
@@ -71,12 +77,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%B8%83%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%9C%A8%E7%BE%8E%E8%88%B0%E7%85%A7%E7%89%87%23" target="weibo">
 特朗普发布马杜罗在美舰照片（热度：318358）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%8D%A0%E9%A2%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%23" target="weibo">
-特朗普称将占领管理委内瑞拉（热度：288625）
 </a>
 </li>
 
@@ -165,6 +165,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%A7%B0%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%81%AD%E5%88%B0%E5%85%A8%E7%90%83%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%BA%BA%E7%9A%84%E8%B0%B4%E8%B4%A3%23" target="weibo">
+俄称美国将遭到全球大多数人的谴责（热度：123386）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E8%A6%81%E6%B1%82%E7%BE%8E%E6%96%B9%E7%AB%8B%E5%8D%B3%E9%87%8A%E6%94%BE%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%A4%AB%E5%A6%87%23" target="weibo">
 委内瑞拉要求美方立即释放马杜罗夫妇（热度：113829）
 </a>
@@ -197,12 +203,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%85%AC%E5%BC%80%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%B9%B4%E4%BA%A4%E4%BB%98%E9%87%8F%23" target="weibo">
 雷军公开小米汽车年交付量（热度：93790）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%A7%B0%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%81%AD%E5%88%B0%E5%85%A8%E7%90%83%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%BA%BA%E7%9A%84%E8%B0%B4%E8%B4%A3%23" target="weibo">
-俄称美国将遭到全球大多数人的谴责（热度：92334）
 </a>
 </li>
 
@@ -411,6 +411,12 @@ MRC夺冠（热度：40693）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%23" target="weibo">
+奔跑吧（热度：33334）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A3%9E%E5%A4%A9%E8%8C%85%E5%8F%B0%E6%AF%8F%E4%BA%BA%E6%AF%8F%E6%97%A5%E9%99%90%E8%B4%AD6%E7%93%B6%23" target="weibo">
 飞天茅台每人每日限购6瓶（热度：33077）
 </a>
@@ -429,6 +435,12 @@ MRC夺冠（热度：40693）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%A2%AD%E5%87%BB%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BD%93%E5%9C%B0%E5%8D%8E%E4%BA%BA%E5%8F%91%E5%A3%B0%23" target="weibo">
+美袭击委内瑞拉当地华人发声（热度：25974）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%AA%E5%A5%87%E7%89%A9%E8%AF%AD%E5%A4%A7%E7%BB%93%E5%B1%80%23" target="weibo">
 怪奇物语大结局（热度：23253）
 </a>
@@ -436,25 +448,13 @@ MRC夺冠（热度：40693）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%232026%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%B7%A5%E4%BD%9C%E6%97%A5%23" target="weibo">
-2026第一个工作日（热度：21244）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%A2%AD%E5%87%BB%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BD%93%E5%9C%B0%E5%8D%8E%E4%BA%BA%E5%8F%91%E5%A3%B0%23" target="weibo">
-美袭击委内瑞拉当地华人发声（热度：19087）
+2026第一个工作日（热度：23122）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E8%AF%B4%E4%BB%8A%E5%B9%B4%E6%9C%89%E5%85%A8%E5%8E%9F%E5%88%9B%E4%B8%93%E8%BE%91%23" target="weibo">
 王源说今年有全原创专辑（热度：18863）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%23" target="weibo">
-奔跑吧（热度：16205）
 </a>
 </li>
 
@@ -466,7 +466,7 @@ kpl王者荣耀巅峰之夜（热度：14148）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%232026%E5%BC%80%E5%B9%B4%E5%9B%BE%E6%99%AF%23" target="weibo">
-2026开年图景（热度：8927）
+2026开年图景（热度：10465）
 </a>
 </li>
 
