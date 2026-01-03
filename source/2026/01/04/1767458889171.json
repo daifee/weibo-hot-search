@@ -1,0 +1,410 @@
+{
+  "runTime": 1767458889171,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 496826,
+        "num": 726176,
+        "word": "外交部回应美对委军事打击",
+        "onboard_time": 1767451405,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185225,
+        "num": 726027,
+        "word": "适龄男性公民都应进行兵役登记",
+        "onboard_time": 1767445765,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31969,
+        "num": 724647,
+        "word": "福建舰2026主要任务",
+        "onboard_time": 1767450386,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 181803,
+        "num": 722783,
+        "word": "雷军回应小米超强钢争议",
+        "onboard_time": 1767453205,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 168180,
+        "num": 721593,
+        "word": "白鹿圈内人脉",
+        "onboard_time": 1767445826,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1045825,
+        "num": 720622,
+        "word": "特朗普称已抓获委内瑞拉总统",
+        "onboard_time": 1767432625,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145981,
+        "num": 718968,
+        "word": "洗衣机竟敢拿了工资不工作",
+        "onboard_time": 1767449486,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142265,
+        "num": 717318,
+        "word": "陈都灵邓为或二搭黛色",
+        "onboard_time": 1767458480,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138090,
+        "num": 716624,
+        "word": "92年小伙回应领养12岁外甥女初衷",
+        "onboard_time": 1767450208,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130849,
+        "num": 714596,
+        "word": "玉兰花开君再来",
+        "onboard_time": 1767456263,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 426880,
+        "num": 713371,
+        "word": "委内瑞拉",
+        "onboard_time": 1767426205,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193752,
+        "num": 712355,
+        "word": "女子住店拉开窗帘竟是泳池水底",
+        "onboard_time": 1767448767,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380118,
+        "num": 711326,
+        "word": "特朗普称马杜罗夫妇在美军舰上",
+        "onboard_time": 1767454644,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104025,
+        "num": 709961,
+        "word": "娜扎给自己看进去了",
+        "onboard_time": 1767456082,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338101,
+        "num": 708379,
+        "word": "美媒称马杜罗夫妇熟睡中被拖出卧室",
+        "onboard_time": 1767451766,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83723,
+        "num": 706238,
+        "word": "陈立农用最天真的语气说最恐怖的话",
+        "onboard_time": 1767455723,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247463,
+        "num": 705346,
+        "word": "马杜罗及其夫人已在美国被起诉",
+        "onboard_time": 1767443786,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77548,
+        "num": 704455,
+        "word": "宋威龙哭戏权威",
+        "onboard_time": 1767451887,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239148,
+        "num": 702764,
+        "word": "特朗普下令打击委内瑞拉境内目标",
+        "onboard_time": 1767426805,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62396,
+        "num": 700614,
+        "word": "92年姨父成12岁女孩第二个爸爸",
+        "onboard_time": 1767445105,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174105,
+        "num": 700262,
+        "word": "美议员称马杜罗将在美国接受审判",
+        "onboard_time": 1767437066,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76280,
+        "num": 699067,
+        "word": "骄阳似我",
+        "onboard_time": 1767435085,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144042,
+        "num": 697724,
+        "word": "巴西总统称美开创危险先例",
+        "onboard_time": 1767453265,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69155,
+        "num": 695538,
+        "word": "鸡蛋每周吃够这个量心脏血管都受益",
+        "onboard_time": 1767450567,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 29025,
+        "num": 694515,
+        "word": "特朗普发布马杜罗在美舰照片",
+        "onboard_time": 1767458661,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 67569,
+        "num": 692533,
+        "word": "雷军公开小米汽车年交付量",
+        "onboard_time": 1767447266,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 98036,
+        "num": 691684,
+        "word": "三角洲",
+        "onboard_time": 1767437965,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62956,
+        "num": 691148,
+        "word": "一诺五获KPL年度最佳发育路",
+        "onboard_time": 1767452786,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 59706,
+        "num": 688747,
+        "word": "提醒中国公民近期暂勿前往委内瑞拉",
+        "onboard_time": 1767453804,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 55577,
+        "num": 687883,
+        "word": "车厘子价格已大跌",
+        "onboard_time": 1767449725,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92334,
+        "num": 685934,
+        "word": "俄称美国将遭到全球大多数人的谴责",
+        "onboard_time": 1767452545,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61598,
+        "num": 684574,
+        "word": "小猫上半身基础下半身就不基础",
+        "onboard_time": 1767445765,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90715,
+        "num": 684257,
+        "word": "委内瑞拉要求美方立即释放马杜罗夫妇",
+        "onboard_time": 1767451826,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61645,
+        "num": 682312,
+        "word": "刘宇宁告别音乐缘计划",
+        "onboard_time": 1767455363,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87090,
+        "num": 680710,
+        "word": "联合国回应委内瑞拉局势",
+        "onboard_time": 1767457281,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60814,
+        "num": 679964,
+        "word": "女子回应住酒店拉开窗帘是泳池水底",
+        "onboard_time": 1767455962,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82406,
+        "num": 678870,
+        "word": "俄要求美立即澄清马杜罗情况",
+        "onboard_time": 1767449605,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 56442,
+        "num": 676379,
+        "word": "内蒙古一兔狲被大狗咬伤后死亡",
+        "onboard_time": 1767440787,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74678,
+        "num": 675605,
+        "word": "委内瑞拉副总统发表讲话",
+        "onboard_time": 1767439286,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36095,
+        "num": 673927,
+        "word": "92年小伙看到12岁养女作文后泪崩",
+        "onboard_time": 1767440366,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65390,
+        "num": 672514,
+        "word": "联合国秘书长对委局势升级深感震惊",
+        "onboard_time": 1767454286,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 53133,
+        "num": 671353,
+        "word": "华晨宇火星1.0海口全记录",
+        "onboard_time": 1767458181,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 61083,
+        "num": 669991,
+        "word": "太平洋警察改行当绑匪了",
+        "onboard_time": 1767451586,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48670,
+        "num": 668587,
+        "word": "陈立农天花板上到底有谁在啊",
+        "onboard_time": 1767457821,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60478,
+        "num": 667927,
+        "word": "马杜罗系被美军三角洲特种部队抓获",
+        "onboard_time": 1767434784,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 45387,
+        "num": 665988,
+        "word": "雷军直播",
+        "onboard_time": 1767438026,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 49480,
+        "num": 665054,
+        "word": "委总统下令立即武装斗争",
+        "onboard_time": 1767432566,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39701,
+        "num": 663729,
+        "word": "一诺连续三年获KPL最受欢迎选手",
+        "onboard_time": 1767446847,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 33256,
+        "num": 661790,
+        "word": "甘肃地震",
+        "onboard_time": 1767447325,
+        "rank": 48,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 33077,
+        "num": 660505,
+        "word": "飞天茅台每人每日限购6瓶",
+        "onboard_time": 1767447986,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#枝叶总关情的含义#"
+    }
+  }
+}

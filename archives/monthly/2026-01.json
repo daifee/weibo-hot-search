@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767458049535,
+  "endTime": 1767458889171,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -737,6 +737,14 @@
       "onboard_time": 1767368908,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 380118,
+      "num": 809184,
+      "word": "特朗普称马杜罗夫妇在美军舰上",
+      "onboard_time": 1767454644,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 379921,
@@ -1529,14 +1537,6 @@
       "onboard_time": 1767354861,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 219881,
-      "num": 809184,
-      "word": "特朗普称马杜罗夫妇在美军舰上",
-      "onboard_time": 1767454644,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 219002,
@@ -2987,6 +2987,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 142265,
+      "num": 717318,
+      "word": "陈都灵邓为或二搭黛色",
+      "onboard_time": 1767458480,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142207,
       "num": 1027631,
       "word": "原来这样玩手机才毁眼",
@@ -4347,6 +4355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104025,
+      "num": 817032,
+      "word": "娜扎给自己看进去了",
+      "onboard_time": 1767456082,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103956,
       "num": 1036175,
       "word": "这才是一个人顶级魅力的体现",
@@ -4769,14 +4785,6 @@
       "onboard_time": 1767363261,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 93691,
-      "num": 817032,
-      "word": "娜扎给自己看进去了",
-      "onboard_time": 1767456082,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 93442,
@@ -6987,6 +6995,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 53133,
+      "num": 671353,
+      "word": "华晨宇火星1.0海口全记录",
+      "onboard_time": 1767458181,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 53105,
       "num": 111523,
       "word": "2026好运已加满",
@@ -7257,6 +7273,14 @@
       "onboard_time": 1767399862,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48670,
+      "num": 668587,
+      "word": "陈立农天花板上到底有谁在啊",
+      "onboard_time": 1767457821,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 48638,
@@ -8153,6 +8177,14 @@
       "onboard_time": 1767418827,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29025,
+      "num": 694515,
+      "word": "特朗普发布马杜罗在美舰照片",
+      "onboard_time": 1767458661,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 28449,
