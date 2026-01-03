@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767458889171,
+  "endTime": 1767461100126,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -56,6 +56,14 @@
       "word": "委内瑞拉",
       "onboard_time": 1767426205,
       "rank": 10,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1541881,
+      "num": 469132,
+      "word": "特朗普发布马杜罗在美国军舰上照片",
+      "onboard_time": 1767459021,
+      "rank": 5,
       "category": "国际时政"
     },
     {
@@ -121,6 +129,14 @@
       "onboard_time": 1767267680,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1072301,
+      "num": 463828,
+      "word": "特朗普称美将管理委直至安全过渡",
+      "onboard_time": 1767459558,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1049300,
@@ -1083,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 297631,
+      "num": 694515,
+      "word": "特朗普发布马杜罗在美舰照片",
+      "onboard_time": 1767458661,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 296611,
       "num": 1047457,
       "word": "在长城哽咽背诗女孩回应走红",
@@ -1329,6 +1353,14 @@
       "onboard_time": 1767370399,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 254719,
+      "num": 461812,
+      "word": "特朗普",
+      "onboard_time": 1767460698,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 253357,
@@ -2369,38 +2401,6 @@
       "onboard_time": 1767417807,
       "rank": 7,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 168867,
-      "num": 1120117,
-      "word": "音乐缘计划",
-      "onboard_time": 1767338299,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 167596,
-      "num": 1388124,
-      "word": "跨年照片",
-      "onboard_time": 1767198149,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 167402,
-      "num": 975627,
-      "word": "蔡依林新巡演官宣十四城",
-      "onboard_time": 1767270862,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 167287,
-      "num": 845601,
-      "word": "多国强烈谴责美突袭委抓获马杜罗",
-      "onboard_time": 1767440366,
-      "rank": 39,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [

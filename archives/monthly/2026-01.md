@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/04 00:48:09
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/04 01:25:00
 </p>
 </blockquote>
 <p>
@@ -57,6 +57,12 @@ WB冠军（热度：3566119）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%B8%83%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%86%9B%E8%88%B0%E4%B8%8A%E7%85%A7%E7%89%87%23" target="weibo">
+特朗普发布马杜罗在美国军舰上照片（热度：1541881）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%96%E9%98%B3%E9%93%A0FMVP%E7%9A%AE%E8%82%A4%23" target="weibo">
 暖阳铠FMVP皮肤（热度：1374474）
 </a>
@@ -101,6 +107,12 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AA%E4%BA%BA%E5%AD%98%E5%8F%96%E6%AC%BE%E8%B6%855%E4%B8%87%E5%85%83%E4%B8%8D%E5%86%8D%E7%99%BB%E8%AE%B0%23" target="weibo">
 个人存取款超5万元不再登记（热度：1076314）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%B0%86%E7%AE%A1%E7%90%86%E5%A7%94%E7%9B%B4%E8%87%B3%E5%AE%89%E5%85%A8%E8%BF%87%E6%B8%A1%23" target="weibo">
+特朗普称美将管理委直至安全过渡（热度：1072301）
 </a>
 </li>
 
@@ -825,6 +837,12 @@ WB对战RW（热度：355689）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%B8%83%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%9C%A8%E7%BE%8E%E8%88%B0%E7%85%A7%E7%89%87%23" target="weibo">
+特朗普发布马杜罗在美舰照片（热度：297631）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%95%BF%E5%9F%8E%E5%93%BD%E5%92%BD%E8%83%8C%E8%AF%97%E5%A5%B3%E5%AD%A9%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2%23" target="weibo">
 在长城哽咽背诗女孩回应走红（热度：296611）
 </a>
@@ -1007,6 +1025,12 @@ TE对战北京WBG（热度：261771）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E7%A9%BF%E4%BA%86%E6%9E%97%E5%B1%BF%E6%A3%AE%E7%9A%84%E8%A1%A3%E6%9C%8D%23" target="weibo">
 赵今麦穿了林屿森的衣服（热度：254798）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%23" target="weibo">
+特朗普（热度：254719）
 </a>
 </li>
 
@@ -1799,6 +1823,12 @@ J人和P人旅游时的区别（热度：177477）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%A8%E5%B9%B4%E7%85%A7%E7%89%87%23" target="weibo">
 跨年照片（热度：167596）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E7%89%B9%E7%A7%B0%E5%B0%86%E5%86%B3%E5%AE%9A%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%A2%86%E5%AF%BC%E5%B1%82%23" target="weibo">
+特朗特称将决定委内瑞拉领导层（热度：167498）
 </a>
 </li>
 
@@ -3567,6 +3597,12 @@ AG人的年度总结（热度：121706）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%AB%8B%E5%86%9C%E7%94%A8%E6%9C%80%E5%A4%A9%E7%9C%9F%E7%9A%84%E8%AF%AD%E6%B0%94%E8%AF%B4%E6%9C%80%E6%81%90%E6%80%96%E7%9A%84%E8%AF%9D%23" target="weibo">
+陈立农用最天真的语气说最恐怖的话（热度：94840）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E7%9B%B4%E6%92%AD%23" target="weibo">
 无畏契约直播（热度：94834）
 </a>
@@ -3653,12 +3689,6 @@ TheShy剑魔战胜Rookie（热度：93421）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E5%AE%8C%E8%BF%99%E9%9B%86%E4%B9%B0%E4%BF%9D%E9%99%A9%E5%8F%97%E7%9B%8A%E4%BA%BA%E5%8F%AA%E6%95%A2%E5%A1%AB%E7%88%B6%E6%AF%8D%23" target="weibo">
 看完这集买保险受益人只敢填父母（热度：91403）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%AB%8B%E5%86%9C%E7%94%A8%E6%9C%80%E5%A4%A9%E7%9C%9F%E7%9A%84%E8%AF%AD%E6%B0%94%E8%AF%B4%E6%9C%80%E6%81%90%E6%80%96%E7%9A%84%E8%AF%9D%23" target="weibo">
-陈立农用最天真的语气说最恐怖的话（热度：91312）
 </a>
 </li>
 
@@ -4371,6 +4401,12 @@ iG战胜LNG（热度：76593）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%8F%E9%9C%B2%E5%A4%9C%E8%A2%AD%E7%BB%86%E8%8A%82%23" target="weibo">
+特朗普透露夜袭细节（热度：73811）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%B1%BF%E6%A3%AE%E8%81%82%E6%9B%A6%E5%85%89%E5%88%9D%E5%90%BB%23" target="weibo">
 林屿森聂曦光初吻（热度：73739）
 </a>
@@ -4439,6 +4475,12 @@ iG战胜LNG（热度：76593）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E5%89%8D%E6%97%A0%E5%8F%A4%E4%BA%BA%E5%B0%B1%E6%98%AF%E9%9C%87%E6%92%BC%E9%A6%96%E5%8F%91%E7%9A%84%E6%84%8F%E6%80%9D%23" target="weibo">
 如果前无古人就是震撼首发的意思（热度：71789）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%9E%8B%E7%9F%B3%E6%B2%B9%E5%85%AC%E5%8F%B8%E5%B0%86%E5%89%8D%E5%BE%80%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%23" target="weibo">
+美国大型石油公司将前往委内瑞拉（热度：71447）
 </a>
 </li>
 
@@ -5181,6 +5223,12 @@ iPhone的新年仪式感（热度：55910）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%BC%BA%E7%83%88%E6%95%A6%E4%BF%83%E7%BE%8E%E5%9B%BD%E9%87%8A%E6%94%BE%E9%A9%AC%E6%9D%9C%E7%BD%97%23" target="weibo">
+俄强烈敦促美国释放马杜罗（热度：55625）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23AG%E8%BF%9E%E7%BB%AD%E5%9B%9B%E5%B9%B4%E8%8E%B7%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E%E4%BF%B1%E4%B9%90%E9%83%A8%23" target="weibo">
 AG连续四年获最受欢迎俱乐部（热度：55624）
 </a>
@@ -5877,6 +5925,12 @@ CJ麦科勒姆绝杀雄鹿（热度：40223）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%AB%8B%E5%86%9C%E8%B5%B6%E9%B8%AD%E5%AD%90%E4%B8%8A%E6%9E%B6%E5%A5%88%E4%BD%95%E7%9C%9F%E4%B8%8D%E4%BC%9A%23" target="weibo">
+陈立农赶鸭子上架奈何真不会（热度：39524）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E5%90%912026%E5%87%BA%E5%8F%91%23" target="weibo">
 一起向2026出发（热度：39388）
 </a>
@@ -5925,6 +5979,12 @@ CJ麦科勒姆绝杀雄鹿（热度：40223）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%96%E7%B1%B3%E8%AF%B4KPL%E6%98%AF%E5%9B%BD%E5%86%85%E7%AC%AC%E4%B8%80%E8%B5%9B%E4%BA%8B%23" target="weibo">
+拖米说KPL是国内第一赛事（热度：38538）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B9%B4%20%E6%94%BE%E8%87%AA%E5%B7%B1%E4%B8%80%E9%A9%AC%23" target="weibo">
 马年 放自己一马（热度：37554）
 </a>
@@ -5951,66 +6011,6 @@ CJ麦科勒姆绝杀雄鹿（热度：40223）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232026%E5%B9%B4%E6%96%B0%E7%A8%8B%E5%B7%B2%E5%90%AF%23" target="weibo">
 2026年新程已启（热度：36380）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E6%B7%B1%E5%9C%B3%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%23" target="weibo">
-人人人人人人深圳人人人人人人（热度：36275）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E5%92%92%E6%9C%AF%E5%B8%88%23" target="weibo">
-第五人格咒术师（热度：36244）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232026%E6%94%BE%E9%A9%AC%E8%BF%87%E6%9D%A5%E5%90%A7%23" target="weibo">
-2026放马过来吧（热度：36108）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%B8%A9%E9%9B%B7%E7%9A%84%E7%8C%AB%E7%9C%BC%E7%89%88%E5%AD%94%E9%9B%80%E5%BC%80%E5%B1%8F%E7%BE%8E%E7%94%B2%23" target="weibo">
-不踩雷的猫眼版孔雀开屏美甲（热度：35924）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%83%E6%97%A6%E5%81%87%E6%9C%9F%E6%B6%88%E8%B4%B9%E6%96%B0%E5%9B%BE%E9%89%B4%23" target="weibo">
-元旦假期消费新图鉴（热度：35802）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E4%BA%BA%E6%BC%94%E5%B0%8F%E5%93%81%E4%B8%8D%E9%9C%80%E8%A6%81%E5%86%99%E7%A8%BF%23" target="weibo">
-东北人演小品不需要写稿（热度：35745）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%89%BF%E8%AF%BA%E7%90%83%E9%98%9F%E5%A4%BA%E5%86%A0%E5%90%8E%E9%80%81%E8%BD%A6%E7%9A%84%E8%80%81%E6%9D%BF%E8%BF%9F%E8%BF%9F%E6%9C%AA%E7%8E%B0%E8%BA%AB%23" target="weibo">
-承诺球队夺冠后送车的老板迟迟未现身（热度：35654）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E6%AC%A1%E8%B0%8D%E6%88%98%E5%89%A7%E5%A4%A9%E8%8A%B1%E6%9D%BF%E9%83%BD%E8%AF%B7%E5%88%B0%E4%BA%86%23" target="weibo">
-这一次谍战剧天花板都请到了（热度：35415）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E4%B8%BD%E6%96%87%E5%87%BA%E5%B8%AD%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E7%A5%AD%E7%A5%96%E5%A4%A7%E5%85%B8%23" target="weibo">
-郑丽文出席中华民族祭祖大典（热度：35340）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E7%83%AD%E8%A1%80%E7%95%AA%E7%94%B7%E4%B8%BB%23" target="weibo">
-华晨宇热血番男主（热度：35038）
 </a>
 </li>
 
