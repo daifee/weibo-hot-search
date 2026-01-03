@@ -1,7 +1,15 @@
 {
   "startTime": 1767371718188,
-  "endTime": 1767423309107,
+  "endTime": 1767425207761,
   "band_list": [
+    {
+      "raw_hot": 1213769,
+      "num": 1036135,
+      "word": "檀健次我们好像太暧昧了",
+      "onboard_time": 1767420926,
+      "rank": 30,
+      "category": "音乐"
+    },
     {
       "raw_hot": 1049300,
       "num": 1038598,
@@ -9,14 +17,6 @@
       "onboard_time": 1767410309,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1044935,
-      "num": 1036135,
-      "word": "檀健次我们好像太暧昧了",
-      "onboard_time": 1767420926,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 821415,
@@ -371,6 +371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 164968,
+      "num": 1036496,
+      "word": "委内瑞拉首都传来数声爆炸声",
+      "onboard_time": 1767421886,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 160445,
       "num": 1028423,
       "word": "影视飓风年度相机",
@@ -435,12 +443,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 149987,
+      "num": 1003751,
+      "word": "这是国产剧能有的尺度吗",
+      "onboard_time": 1767424045,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149142,
       "num": 1096612,
       "word": "在英国痛了7周到中国四天就治好了",
       "onboard_time": 1767361522,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147144,
+      "num": 1029852,
+      "word": "沈梦辰说另一半没找好会成为绊脚石",
+      "onboard_time": 1767423145,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 144639,
@@ -457,6 +481,14 @@
       "onboard_time": 1767355701,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140496,
+      "num": 963921,
+      "word": "美国节目谈斩杀线",
+      "onboard_time": 1767423506,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 138055,
@@ -555,20 +587,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124631,
+      "num": 962221,
+      "word": "委内瑞拉怎么了",
+      "onboard_time": 1767424705,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 124100,
       "num": 577453,
       "word": "梓墨感谢朱天天",
       "onboard_time": 1767355581,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 123135,
-      "num": 1029852,
-      "word": "沈梦辰说另一半没找好会成为绊脚石",
-      "onboard_time": 1767423145,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 122469,
@@ -579,20 +611,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119935,
+      "num": 1034804,
+      "word": "俄罗斯发动大规模报复性打击",
+      "onboard_time": 1767420686,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 119603,
       "num": 543488,
       "word": "上海春考",
       "onboard_time": 1767413486,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 118623,
-      "num": 1034804,
-      "word": "俄罗斯发动大规模报复性打击",
-      "onboard_time": 1767420686,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 117617,
@@ -649,6 +681,14 @@
       "onboard_time": 1767406528,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106771,
+      "num": 1028944,
+      "word": "美迪士尼180公斤巨球道具冲向观众",
+      "onboard_time": 1767421285,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 106476,
@@ -803,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85278,
+      "num": 1034491,
+      "word": "年糕排骨",
+      "onboard_time": 1767421466,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 84976,
       "num": 440504,
       "word": "骄阳似我",
@@ -865,14 +913,6 @@
       "onboard_time": 1767417748,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79042,
-      "num": 1036496,
-      "word": "委内瑞拉首都传来数声爆炸声",
-      "onboard_time": 1767421886,
-      "rank": 17,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 78851,
@@ -995,14 +1035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67843,
-      "num": 1034491,
-      "word": "年糕排骨",
-      "onboard_time": 1767421466,
-      "rank": 36,
-      "category": "美食"
-    },
-    {
       "raw_hot": 66966,
       "num": 1031681,
       "word": "可以再听一遍反方向的钟吗",
@@ -1059,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63927,
+      "num": 956994,
+      "word": "宝宝好像唐僧进了盘丝洞",
+      "onboard_time": 1767423386,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 63338,
       "num": 279521,
       "word": "给张凌赫递麦的是靳梦佳",
@@ -1079,6 +1119,14 @@
       "num": 651559,
       "word": "小猫咪爬上了狗狗山",
       "onboard_time": 1767411687,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 61839,
+      "num": 953432,
+      "word": "这个席非吃不可么",
+      "onboard_time": 1767425125,
       "rank": 37,
       "category": "幽默"
     },
@@ -1291,6 +1339,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 52401,
+      "num": 951262,
+      "word": "日本暴发2026年首起疫情",
+      "onboard_time": 1767423626,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 52349,
       "num": 651032,
       "word": "这才叫直播间的家人们",
@@ -1379,20 +1435,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48685,
-      "num": 1028944,
-      "word": "美迪士尼180公斤巨球道具冲向观众",
-      "onboard_time": 1767421285,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 48638,
       "num": 726828,
       "word": "小狗的叫声多少有点潦草了",
       "onboard_time": 1767409948,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 48406,
+      "num": 949073,
+      "word": "湖人战胜灰熊",
+      "onboard_time": 1767423804,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 48057,
@@ -1451,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41177,
+      "num": 936306,
+      "word": "美军空袭委内瑞拉首都",
+      "onboard_time": 1767425186,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 40267,
       "num": 745583,
       "word": "雷霆vs勇士",
@@ -1483,6 +1547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39180,
+      "num": 934375,
+      "word": "当养宠家里来了客人",
+      "onboard_time": 1767423386,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 38379,
       "num": 439834,
       "word": "WB对战RW",
@@ -1505,6 +1577,14 @@
       "onboard_time": 1767352460,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 37380,
+      "num": 929577,
+      "word": "起猛了看见鱼在水面上走",
+      "onboard_time": 1767424526,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 36275,
@@ -1721,6 +1801,14 @@
       "onboard_time": 1767383715,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 13686,
+      "num": 1025440,
+      "word": "璀璨中国",
+      "onboard_time": 1767409829,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 8012,

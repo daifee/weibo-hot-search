@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767423309107,
+  "endTime": 1767425207761,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -259,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1213769,
+      "num": 1036135,
+      "word": "檀健次我们好像太暧昧了",
+      "onboard_time": 1767420926,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1183637,
       "num": 1409771,
       "word": "跨年",
@@ -385,14 +393,6 @@
       "onboard_time": 1767410309,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1044935,
-      "num": 1036135,
-      "word": "檀健次我们好像太暧昧了",
-      "onboard_time": 1767420926,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 1041426,
@@ -6707,6 +6707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164968,
+      "num": 1036496,
+      "word": "委内瑞拉首都传来数声爆炸声",
+      "onboard_time": 1767421886,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 164920,
       "num": 1055107,
       "word": "王鹤棣参加两个跨年晚会",
@@ -7443,6 +7451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149987,
+      "num": 1003751,
+      "word": "这是国产剧能有的尺度吗",
+      "onboard_time": 1767424045,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149958,
       "num": 486388,
       "word": "原来Safari才是iPhone隐藏的资源大户",
@@ -7617,6 +7633,14 @@
       "onboard_time": 1766834600,
       "rank": 41,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 147144,
+      "num": 1029852,
+      "word": "沈梦辰说另一半没找好会成为绊脚石",
+      "onboard_time": 1767423145,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 146780,
@@ -8025,6 +8049,14 @@
       "onboard_time": 1766897121,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140496,
+      "num": 963921,
+      "word": "美国节目谈斩杀线",
+      "onboard_time": 1767423506,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 140457,
@@ -9315,6 +9347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124631,
+      "num": 962221,
+      "word": "委内瑞拉怎么了",
+      "onboard_time": 1767424705,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 124556,
       "num": 124556,
       "word": "51岁林志玲穿啦啦队服跳女团舞",
@@ -9473,14 +9513,6 @@
       "onboard_time": 1767015321,
       "rank": 34,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 123135,
-      "num": 1029852,
-      "word": "沈梦辰说另一半没找好会成为绊脚石",
-      "onboard_time": 1767423145,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 123054,
@@ -9819,6 +9851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119935,
+      "num": 1034804,
+      "word": "俄罗斯发动大规模报复性打击",
+      "onboard_time": 1767420686,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 119917,
       "num": 119917,
       "word": "胡萝卜通脾胃有多厉害",
@@ -9961,14 +10001,6 @@
       "onboard_time": 1767064641,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 118623,
-      "num": 1034804,
-      "word": "俄罗斯发动大规模报复性打击",
-      "onboard_time": 1767420686,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 118489,
@@ -11153,6 +11185,14 @@
       "onboard_time": 1767406528,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106771,
+      "num": 1028944,
+      "word": "美迪士尼180公斤巨球道具冲向观众",
+      "onboard_time": 1767421285,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 106753,
@@ -14043,6 +14083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85278,
+      "num": 1034491,
+      "word": "年糕排骨",
+      "onboard_time": 1767421466,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 85212,
       "num": 85212,
       "word": "骄阳似我 有梗",
@@ -14881,14 +14929,6 @@
       "onboard_time": 1767310276,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79042,
-      "num": 1036496,
-      "word": "委内瑞拉首都传来数声爆炸声",
-      "onboard_time": 1767421886,
-      "rank": 17,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 79009,
@@ -16051,14 +16091,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67843,
-      "num": 1034491,
-      "word": "年糕排骨",
-      "onboard_time": 1767421466,
-      "rank": 36,
-      "category": "美食"
-    },
-    {
       "raw_hot": 67832,
       "num": 105694,
       "word": "王橹杰回重庆上班了",
@@ -16459,6 +16491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 63927,
+      "num": 956994,
+      "word": "宝宝好像唐僧进了盘丝洞",
+      "onboard_time": 1767423386,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 63895,
       "num": 591916,
       "word": "足迹2025",
@@ -16625,6 +16665,14 @@
       "onboard_time": 1767272362,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61839,
+      "num": 953432,
+      "word": "这个席非吃不可么",
+      "onboard_time": 1767425125,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 61597,
@@ -17579,6 +17627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52401,
+      "num": 951262,
+      "word": "日本暴发2026年首起疫情",
+      "onboard_time": 1767423626,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 52349,
       "num": 651032,
       "word": "这才叫直播间的家人们",
@@ -17971,14 +18027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48685,
-      "num": 1028944,
-      "word": "美迪士尼180公斤巨球道具冲向观众",
-      "onboard_time": 1767421285,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 48650,
       "num": 92047,
       "word": "彭冠英去朱珠家做客吃饭",
@@ -18025,6 +18073,14 @@
       "onboard_time": 1767230121,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 48406,
+      "num": 949073,
+      "word": "湖人战胜灰熊",
+      "onboard_time": 1767423804,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 48404,
@@ -18859,6 +18915,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 41177,
+      "num": 936306,
+      "word": "美军空袭委内瑞拉首都",
+      "onboard_time": 1767425186,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 41171,
       "num": 1016853,
       "word": "2026年第一天",
@@ -19059,6 +19123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39180,
+      "num": 934375,
+      "word": "当养宠家里来了客人",
+      "onboard_time": 1767423386,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 39179,
       "num": 127204,
       "word": "和檀健次一起净享四季",
@@ -19161,6 +19233,14 @@
       "onboard_time": 1767081979,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 37380,
+      "num": 929577,
+      "word": "起猛了看见鱼在水面上走",
+      "onboard_time": 1767424526,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 37348,
@@ -21097,6 +21177,14 @@
       "onboard_time": 1767118036,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13686,
+      "num": 1025440,
+      "word": "璀璨中国",
+      "onboard_time": 1767409829,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13547,

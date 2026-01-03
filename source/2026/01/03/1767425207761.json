@@ -1,0 +1,410 @@
+{
+  "runTime": 1767425207761,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 175281,
+        "num": 1028045,
+        "word": "两外国人在重庆用筷子烫火锅",
+        "onboard_time": 1767402928,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140417,
+        "num": 1026250,
+        "word": "李在明表态台湾问题",
+        "onboard_time": 1767408509,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13686,
+        "num": 1025440,
+        "word": "璀璨中国",
+        "onboard_time": 1767409829,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 238396,
+        "num": 1023548,
+        "word": "车厘子",
+        "onboard_time": 1767413068,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 196303,
+        "num": 1021241,
+        "word": "女子吃鸡蛋惊现蛋中蛋",
+        "onboard_time": 1767418526,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189254,
+        "num": 1018411,
+        "word": "太二卖不动酸菜鱼了",
+        "onboard_time": 1767410187,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164968,
+        "num": 1017505,
+        "word": "委内瑞拉首都传来数声爆炸声",
+        "onboard_time": 1767421886,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121792,
+        "num": 1015745,
+        "word": "第一次见歌手用歌回击这么爽",
+        "onboard_time": 1767416967,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119956,
+        "num": 1012856,
+        "word": "温州一河面密密麻麻全是罗非鱼",
+        "onboard_time": 1767410187,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99408,
+        "num": 1011794,
+        "word": "广州一小区给全体业主分红30万元",
+        "onboard_time": 1767417687,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289323,
+        "num": 1009319,
+        "word": "橘子我从未怀疑过你",
+        "onboard_time": 1767418106,
+        "rank": 10,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 274065,
+        "num": 1005848,
+        "word": "当年的老己在QQ给老自留了笔巨款",
+        "onboard_time": 1767410309,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211866,
+        "num": 1004328,
+        "word": "5个影后有4个都选了财富自由",
+        "onboard_time": 1767407007,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149987,
+        "num": 1003751,
+        "word": "这是国产剧能有的尺度吗",
+        "onboard_time": 1767424045,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98268,
+        "num": 999965,
+        "word": "在猫脸上看出了侧睡的危害",
+        "onboard_time": 1767418227,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85278,
+        "num": 998127,
+        "word": "年糕排骨",
+        "onboard_time": 1767421466,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 85167,
+        "num": 996109,
+        "word": "2026开年第一对女性反杀",
+        "onboard_time": 1767419006,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68248,
+        "num": 995298,
+        "word": "宝马中国回应最高降价30万",
+        "onboard_time": 1767415467,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 56923,
+        "num": 992894,
+        "word": "得闲谨制元旦次日票房逆跌",
+        "onboard_time": 1767420147,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 48563,
+        "num": 989665,
+        "word": "花6.5万买金条收到一卷卫生纸",
+        "onboard_time": 1767417748,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1213769,
+        "num": 988805,
+        "word": "檀健次我们好像太暧昧了",
+        "onboard_time": 1767420926,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119935,
+        "num": 987313,
+        "word": "俄罗斯发动大规模报复性打击",
+        "onboard_time": 1767420686,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119542,
+        "num": 984874,
+        "word": "五星红旗在台湾台南冉冉升起",
+        "onboard_time": 1767421285,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 89625,
+        "num": 982611,
+        "word": "吃120天蚕豆后鱼变脆了",
+        "onboard_time": 1767421587,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85897,
+        "num": 979934,
+        "word": "车厘子其实是血糖友好型水果",
+        "onboard_time": 1767407968,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 84443,
+        "num": 978934,
+        "word": "建议气血不足的人痛痛快快唱歌",
+        "onboard_time": 1767418106,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 78959,
+        "num": 976183,
+        "word": "数字人民币和微信支付宝的不同",
+        "onboard_time": 1767422185,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 65544,
+        "num": 975363,
+        "word": "代谢一碗方便面需要多久",
+        "onboard_time": 1767418168,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 59894,
+        "num": 972107,
+        "word": "怪不得火锅圈里没有肥猪卷",
+        "onboard_time": 1767418168,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 58864,
+        "num": 969706,
+        "word": "为什么以前骨折不用手术也能好",
+        "onboard_time": 1767422066,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 311648,
+        "num": 968325,
+        "word": "王鹤棣自曝拍戏搞小团体",
+        "onboard_time": 1767418106,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148009,
+        "num": 967326,
+        "word": "阳光信用",
+        "onboard_time": 1767412468,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 140496,
+        "num": 963921,
+        "word": "美国节目谈斩杀线",
+        "onboard_time": 1767423506,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 124631,
+        "num": 962221,
+        "word": "委内瑞拉怎么了",
+        "onboard_time": 1767424705,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 269162,
+        "num": 960652,
+        "word": "交警回应撞脸杨紫爆红",
+        "onboard_time": 1767415407,
+        "rank": 34,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 106771,
+        "num": 958558,
+        "word": "美迪士尼180公斤巨球道具冲向观众",
+        "onboard_time": 1767421285,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 63927,
+        "num": 956994,
+        "word": "宝宝好像唐僧进了盘丝洞",
+        "onboard_time": 1767423386,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61839,
+        "num": 953432,
+        "word": "这个席非吃不可么",
+        "onboard_time": 1767425125,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147144,
+        "num": 953026,
+        "word": "沈梦辰说另一半没找好会成为绊脚石",
+        "onboard_time": 1767423145,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52401,
+        "num": 951262,
+        "word": "日本暴发2026年首起疫情",
+        "onboard_time": 1767423626,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 48406,
+        "num": 949073,
+        "word": "湖人战胜灰熊",
+        "onboard_time": 1767423804,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48306,
+        "num": 946253,
+        "word": "中日关系遇冷韩总统趁机高规格访华",
+        "onboard_time": 1767418106,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139845,
+        "num": 944074,
+        "word": "王鹤棣 都别找我借钱",
+        "onboard_time": 1767420629,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45660,
+        "num": 941197,
+        "word": "长期戴眼镜导致的面部变化",
+        "onboard_time": 1767406949,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45512,
+        "num": 939692,
+        "word": "伊朗面临40多年来最严峻挑战",
+        "onboard_time": 1767408206,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44062,
+        "num": 937199,
+        "word": "明日方舟",
+        "onboard_time": 1767412408,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 41177,
+        "num": 936306,
+        "word": "美军空袭委内瑞拉首都",
+        "onboard_time": 1767425186,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39180,
+        "num": 934375,
+        "word": "当养宠家里来了客人",
+        "onboard_time": 1767423386,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37698,
+        "num": 932308,
+        "word": "王者猴子新年皮肤独美",
+        "onboard_time": 1767422485,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 37380,
+        "num": 929577,
+        "word": "起猛了看见鱼在水面上走",
+        "onboard_time": 1767424526,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记带领我们乘势而上#"
+    }
+  }
+}

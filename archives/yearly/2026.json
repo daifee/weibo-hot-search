@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767423309107,
+  "endTime": 1767425207761,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -59,6 +59,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1213769,
+      "num": 1036135,
+      "word": "檀健次我们好像太暧昧了",
+      "onboard_time": 1767420926,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1183637,
       "num": 1409771,
       "word": "跨年",
@@ -89,14 +97,6 @@
       "onboard_time": 1767410309,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1044935,
-      "num": 1036135,
-      "word": "檀健次我们好像太暧昧了",
-      "onboard_time": 1767420926,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 940105,
@@ -1867,6 +1867,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 164968,
+      "num": 1036496,
+      "word": "委内瑞拉首都传来数声爆炸声",
+      "onboard_time": 1767421886,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 164877,
       "num": 450860,
       "word": "寻秦记 大大方方为情怀买单",
@@ -2163,6 +2171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149987,
+      "num": 1003751,
+      "word": "这是国产剧能有的尺度吗",
+      "onboard_time": 1767424045,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149958,
       "num": 486388,
       "word": "原来Safari才是iPhone隐藏的资源大户",
@@ -2201,6 +2217,14 @@
       "onboard_time": 1767223996,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 147144,
+      "num": 1029852,
+      "word": "沈梦辰说另一半没找好会成为绊脚石",
+      "onboard_time": 1767423145,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 146619,
@@ -2323,6 +2347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140496,
+      "num": 963921,
+      "word": "美国节目谈斩杀线",
+      "onboard_time": 1767423506,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 140402,
       "num": 1392072,
       "word": "江苏卫视跨年",
@@ -2369,38 +2401,6 @@
       "onboard_time": 1767188665,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 138055,
-      "num": 1037748,
-      "word": "在猫脸上看出了侧睡的危害",
-      "onboard_time": 1767418227,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 137249,
-      "num": 1023162,
-      "word": "邵兵邵子恒 中式父子相处新模式",
-      "onboard_time": 1767421587,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 136508,
-      "num": 1000213,
-      "word": "冰雪大世界建了超大玫瑰冰瀑",
-      "onboard_time": 1767279920,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 136284,
-      "num": 259245,
-      "word": "车主半夜把所有的仇人都想了一遍",
-      "onboard_time": 1767235461,
-      "rank": 15,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [
