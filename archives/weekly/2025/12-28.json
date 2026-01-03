@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767426033635,
+  "endTime": 1767429362247,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -219,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1337263,
+      "num": 841200,
+      "word": "委内瑞拉",
+      "onboard_time": 1767426205,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1320599,
       "num": 237845,
       "word": "迅猛龙直播掉美颜",
@@ -249,6 +257,14 @@
       "onboard_time": 1766931743,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1268426,
+      "num": 1268426,
+      "word": "特朗普下令打击委内瑞拉境内目标",
+      "onboard_time": 1767426805,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1214241,
@@ -497,6 +513,14 @@
       "onboard_time": 1767083300,
       "rank": 30,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 842337,
+      "num": 936306,
+      "word": "美军空袭委内瑞拉首都",
+      "onboard_time": 1767425186,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 842060,
@@ -2043,6 +2067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 422087,
+      "num": 842055,
+      "word": "委内瑞拉国家紧急状态",
+      "onboard_time": 1767427524,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 421053,
       "num": 421053,
       "word": "王楚钦连说好几个NO",
@@ -2521,6 +2553,14 @@
       "onboard_time": 1766981001,
       "rank": 20,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 369531,
+      "num": 962221,
+      "word": "委内瑞拉怎么了",
+      "onboard_time": 1767424705,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 367592,
@@ -3475,6 +3515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 288384,
+      "num": 840382,
+      "word": "五角大楼附近披萨订单量又升高了",
+      "onboard_time": 1767425246,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 288136,
       "num": 288136,
       "word": "逍遥 犬夜叉",
@@ -4001,6 +4049,14 @@
       "onboard_time": 1767354441,
       "rank": 40,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 255120,
+      "num": 839378,
+      "word": "生理性喜欢和心理性喜欢的区别",
+      "onboard_time": 1767426385,
+      "rank": 21,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 254927,
@@ -6531,6 +6587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168203,
+      "num": 838738,
+      "word": "车厘子J是啥意思",
+      "onboard_time": 1767425606,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 168160,
       "num": 162153,
       "word": "左航戴了眼镜",
@@ -6561,6 +6625,14 @@
       "onboard_time": 1766917880,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 167436,
+      "num": 840075,
+      "word": "美军结束对委内瑞拉轰炸",
+      "onboard_time": 1767428124,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 167402,
@@ -7243,14 +7315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 155618,
-      "num": 962221,
-      "word": "委内瑞拉怎么了",
-      "onboard_time": 1767424705,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 155502,
       "num": 519537,
       "word": "2026LPL第一赛段赛程",
@@ -7273,6 +7337,14 @@
       "onboard_time": 1766972358,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154774,
+      "num": 838290,
+      "word": "爱吃橘子的人天塌了",
+      "onboard_time": 1767428064,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 154460,
@@ -7409,6 +7481,14 @@
       "onboard_time": 1767414567,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 151319,
+      "num": 842281,
+      "word": "零下30多度男子开窗冷空气瞬间现形",
+      "onboard_time": 1767428364,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151169,
@@ -7945,14 +8025,6 @@
       "onboard_time": 1767261859,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 142305,
-      "num": 732864,
-      "word": "车厘子J是啥意思",
-      "onboard_time": 1767425606,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 142207,
@@ -9563,6 +9635,14 @@
       "category": "体育,综艺"
     },
     {
+      "raw_hot": 122845,
+      "num": 837254,
+      "word": "男女主官宣完男二才追",
+      "onboard_time": 1767429144,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122722,
       "num": 487892,
       "word": "花海KPL管培生上线",
@@ -10491,6 +10571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113701,
+      "num": 835065,
+      "word": "委内瑞拉强烈谴责美国军事侵略",
+      "onboard_time": 1767428124,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 113529,
       "num": 113529,
       "word": "郑恺回应被叫西红柿首父",
@@ -11161,6 +11249,14 @@
       "onboard_time": 1766895741,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107205,
+      "num": 831776,
+      "word": "檀健次一日女友体验卡",
+      "onboard_time": 1767428845,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 107117,
@@ -12947,6 +13043,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 93114,
+      "num": 951262,
+      "word": "日本暴发2026年首起疫情",
+      "onboard_time": 1767423626,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 93070,
       "num": 93070,
       "word": "跨年吃12个什么",
@@ -13089,6 +13193,14 @@
       "onboard_time": 1767169459,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92129,
+      "num": 834700,
+      "word": "2025KPL巅峰之夜红毯",
+      "onboard_time": 1767427405,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 91967,
@@ -13545,14 +13657,6 @@
       "onboard_time": 1766914040,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 89036,
-      "num": 936306,
-      "word": "美军空袭委内瑞拉首都",
-      "onboard_time": 1767425186,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 89024,
@@ -14740,7 +14844,7 @@
     },
     {
       "raw_hot": 81219,
-      "num": 747356,
+      "num": 829224,
       "word": "美军机疑飞越委内瑞拉空军基地",
       "onboard_time": 1767425606,
       "rank": 16,
@@ -14875,6 +14979,14 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 79809,
+      "num": 830164,
+      "word": "王一博的第三种快乐原来是这样的",
+      "onboard_time": 1767429144,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79801,
       "num": 121475,
       "word": "杨博文这句yeah唱爽了",
@@ -14969,6 +15081,14 @@
       "onboard_time": 1766997199,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78979,
+      "num": 833147,
+      "word": "为给老婆拍照跑了个越野跑",
+      "onboard_time": 1767428304,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 78860,
@@ -15427,6 +15547,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 74729,
+      "num": 832206,
+      "word": "詹姆斯东契奇碰头杀",
+      "onboard_time": 1767428364,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74686,
       "num": 224872,
       "word": "2026年有33天假期",
@@ -15492,7 +15620,7 @@
     },
     {
       "raw_hot": 74102,
-      "num": 735988,
+      "num": 827838,
       "word": "智利车厘子快线比地铁还勤",
       "onboard_time": 1767425665,
       "rank": 29,
@@ -16051,6 +16179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68754,
+      "num": 830612,
+      "word": "减少你买衣服退货率的关键",
+      "onboard_time": 1767429085,
+      "rank": 41,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 68549,
       "num": 381156,
       "word": "王耀庆 统一全家审美的男人",
@@ -16451,6 +16587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64778,
+      "num": 838051,
+      "word": "长白山滑雪",
+      "onboard_time": 1767428543,
+      "rank": 24,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 64677,
       "num": 158582,
       "word": "广电总局开展AI魔改视频专项治理",
@@ -16577,6 +16721,14 @@
       "onboard_time": 1767425428,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 63594,
+      "num": 828690,
+      "word": "看完这集买保险受益人只敢填父母",
+      "onboard_time": 1767429205,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 63536,
@@ -16825,14 +16977,6 @@
       "onboard_time": 1767187587,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 60779,
-      "num": 951262,
-      "word": "日本暴发2026年首起疫情",
-      "onboard_time": 1767423626,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 60773,
@@ -19107,6 +19251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 39847,
+      "num": 836165,
+      "word": "当地回应大巴穿楼景观安全性质疑",
+      "onboard_time": 1767427646,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39843,
       "num": 39843,
       "word": "王楚钦和球迷告别",
@@ -19601,6 +19753,14 @@
       "onboard_time": 1767369620,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 34808,
+      "num": 837349,
+      "word": "假期2天海南离岛免税购物5亿元",
+      "onboard_time": 1767427226,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34758,
@@ -20251,14 +20411,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 26785,
-      "num": 745274,
-      "word": "五角大楼附近披萨订单量又升高了",
-      "onboard_time": 1767425246,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 26540,
       "num": 762129,
       "word": "北京范儿新年祈福",
@@ -20289,6 +20441,14 @@
       "onboard_time": 1767039974,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26153,
+      "num": 1025440,
+      "word": "璀璨中国",
+      "onboard_time": 1767409829,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26133,
@@ -20731,6 +20891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21763,
+      "num": 839631,
+      "word": "当地文旅回应东坡求学地立李白雕像",
+      "onboard_time": 1767428845,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21742,
       "num": 742248,
       "word": "对进口牛肉实施保障措施的裁定",
@@ -20879,14 +21047,6 @@
       "num": 603644,
       "word": "2026乘势而上阔步前行",
       "onboard_time": 1767323780,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 19672,
-      "num": 1025440,
-      "word": "璀璨中国",
-      "onboard_time": 1767409829,
       "rank": 2,
       "category": "国内时政"
     },

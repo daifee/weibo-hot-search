@@ -1,0 +1,410 @@
+{
+  "runTime": 1767429362247,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1268426,
+        "num": 1268426,
+        "word": "特朗普下令打击委内瑞拉境内目标",
+        "onboard_time": 1767426805,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 314844,
+        "num": 893854,
+        "word": "车厘子",
+        "onboard_time": 1767413068,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 26153,
+        "num": 865654,
+        "word": "璀璨中国",
+        "onboard_time": 1767409829,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 842337,
+        "num": 842337,
+        "word": "美军空袭委内瑞拉首都",
+        "onboard_time": 1767425186,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151319,
+        "num": 842281,
+        "word": "零下30多度男子开窗冷空气瞬间现形",
+        "onboard_time": 1767428364,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422087,
+        "num": 842055,
+        "word": "委内瑞拉国家紧急状态",
+        "onboard_time": 1767427524,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141023,
+        "num": 841883,
+        "word": "太二卖不动酸菜鱼了",
+        "onboard_time": 1767410187,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128460,
+        "num": 841651,
+        "word": "女子吃鸡蛋惊现蛋中蛋",
+        "onboard_time": 1767418526,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118236,
+        "num": 841454,
+        "word": "五星红旗在台湾台南冉冉升起",
+        "onboard_time": 1767421285,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 78536,
+        "num": 841420,
+        "word": "两外国人在重庆用筷子烫火锅",
+        "onboard_time": 1767402928,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1337263,
+        "num": 841200,
+        "word": "委内瑞拉",
+        "onboard_time": 1767426205,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 239872,
+        "num": 841045,
+        "word": "当年的老己在QQ给老自留了笔巨款",
+        "onboard_time": 1767410309,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 369531,
+        "num": 840752,
+        "word": "委内瑞拉怎么了",
+        "onboard_time": 1767424705,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 223699,
+        "num": 840617,
+        "word": "5个影后有4个都选了财富自由",
+        "onboard_time": 1767407007,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288384,
+        "num": 840382,
+        "word": "五角大楼附近披萨订单量又升高了",
+        "onboard_time": 1767425246,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136384,
+        "num": 840274,
+        "word": "橘子我从未怀疑过你",
+        "onboard_time": 1767418106,
+        "rank": 15,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 167436,
+        "num": 840075,
+        "word": "美军结束对委内瑞拉轰炸",
+        "onboard_time": 1767428124,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74741,
+        "num": 839964,
+        "word": "年糕排骨",
+        "onboard_time": 1767421466,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 66393,
+        "num": 839688,
+        "word": "温州一河面密密麻麻全是罗非鱼",
+        "onboard_time": 1767410187,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21763,
+        "num": 839631,
+        "word": "当地文旅回应东坡求学地立李白雕像",
+        "onboard_time": 1767428845,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 839463,
+        "num": 839463,
+        "word": "檀健次我们好像太暧昧了",
+        "onboard_time": 1767420926,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 255120,
+        "num": 839378,
+        "word": "生理性喜欢和心理性喜欢的区别",
+        "onboard_time": 1767426385,
+        "rank": 21,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 168203,
+        "num": 838738,
+        "word": "车厘子J是啥意思",
+        "onboard_time": 1767425606,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154774,
+        "num": 838290,
+        "word": "爱吃橘子的人天塌了",
+        "onboard_time": 1767428064,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64778,
+        "num": 838051,
+        "word": "长白山滑雪",
+        "onboard_time": 1767428543,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 34808,
+        "num": 837349,
+        "word": "假期2天海南离岛免税购物5亿元",
+        "onboard_time": 1767427226,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122845,
+        "num": 837254,
+        "word": "男女主官宣完男二才追",
+        "onboard_time": 1767429144,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105081,
+        "num": 836607,
+        "word": "俄罗斯发动大规模报复性打击",
+        "onboard_time": 1767420686,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39847,
+        "num": 836165,
+        "word": "当地回应大巴穿楼景观安全性质疑",
+        "onboard_time": 1767427646,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93114,
+        "num": 835683,
+        "word": "日本暴发2026年首起疫情",
+        "onboard_time": 1767423626,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 164925,
+        "num": 835477,
+        "word": "交警回应撞脸杨紫爆红",
+        "onboard_time": 1767415407,
+        "rank": 30,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 113701,
+        "num": 835065,
+        "word": "委内瑞拉强烈谴责美国军事侵略",
+        "onboard_time": 1767428124,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92129,
+        "num": 834700,
+        "word": "2025KPL巅峰之夜红毯",
+        "onboard_time": 1767427405,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88521,
+        "num": 834081,
+        "word": "建议气血不足的人痛痛快快唱歌",
+        "onboard_time": 1767418106,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130568,
+        "num": 833583,
+        "word": "王鹤棣自曝拍戏搞小团体",
+        "onboard_time": 1767418106,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78979,
+        "num": 833147,
+        "word": "为给老婆拍照跑了个越野跑",
+        "onboard_time": 1767428304,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75769,
+        "num": 832978,
+        "word": "数字人民币和微信支付宝的不同",
+        "onboard_time": 1767422185,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 74729,
+        "num": 832206,
+        "word": "詹姆斯东契奇碰头杀",
+        "onboard_time": 1767428364,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107205,
+        "num": 831776,
+        "word": "檀健次一日女友体验卡",
+        "onboard_time": 1767428845,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 74701,
+        "num": 831360,
+        "word": "美国节目谈斩杀线",
+        "onboard_time": 1767423506,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 74410,
+        "num": 831150,
+        "word": "阳光信用",
+        "onboard_time": 1767412468,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 68754,
+        "num": 830612,
+        "word": "减少你买衣服退货率的关键",
+        "onboard_time": 1767429085,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 79809,
+        "num": 830164,
+        "word": "王一博的第三种快乐原来是这样的",
+        "onboard_time": 1767429144,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66424,
+        "num": 829870,
+        "word": "为什么以前骨折不用手术也能好",
+        "onboard_time": 1767422066,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 64942,
+        "num": 829224,
+        "word": "美军机疑飞越委内瑞拉空军基地",
+        "onboard_time": 1767425606,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 63989,
+        "num": 828939,
+        "word": "车厘子其实是血糖友好型水果",
+        "onboard_time": 1767407968,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 63594,
+        "num": 828690,
+        "word": "看完这集买保险受益人只敢填父母",
+        "onboard_time": 1767429205,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62936,
+        "num": 827838,
+        "word": "智利车厘子快线比地铁还勤",
+        "onboard_time": 1767425665,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 60043,
+        "num": 827444,
+        "word": "在猫脸上看出了侧睡的危害",
+        "onboard_time": 1767418227,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59650,
+        "num": 827020,
+        "word": "委内瑞拉首都传来数声爆炸声",
+        "onboard_time": 1767421886,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记带领我们乘势而上#"
+    }
+  }
+}
