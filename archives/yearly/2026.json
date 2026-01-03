@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767416021827,
+  "endTime": 1767418200867,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -411,6 +411,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 431208,
+      "num": 517083,
+      "word": "交警回应撞脸杨紫爆红",
+      "onboard_time": 1767415407,
+      "rank": 32,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 428471,
       "num": 1002713,
       "word": "电影偷偷藏不住官宣",
@@ -521,6 +529,14 @@
       "onboard_time": 1767254181,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 373053,
+      "num": 540460,
+      "word": "檀健次出发横店进组何不同舟渡",
+      "onboard_time": 1767414326,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 370681,
@@ -643,20 +659,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 322433,
-      "num": 540460,
-      "word": "檀健次出发横店进组何不同舟渡",
-      "onboard_time": 1767414326,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 319723,
       "num": 513487,
       "word": "美国脑癌大爷硬抗斩杀线",
       "onboard_time": 1767334819,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 319585,
+      "num": 515595,
+      "word": "王安宇小时候是正方形",
+      "onboard_time": 1767415767,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 319088,
@@ -737,14 +753,6 @@
       "onboard_time": 1767262939,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 308565,
-      "num": 517083,
-      "word": "交警回应撞脸杨紫爆红",
-      "onboard_time": 1767415407,
-      "rank": 32,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 308419,
@@ -1075,6 +1083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 231435,
+      "num": 475384,
+      "word": "第一次见歌手用歌回击这么爽",
+      "onboard_time": 1767416967,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230707,
       "num": 751099,
       "word": "你好星期六新年全员心动",
@@ -1187,6 +1203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 214160,
+      "num": 428071,
+      "word": "王鹤棣自曝拍戏搞小团体",
+      "onboard_time": 1767418106,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213249,
       "num": 519243,
       "word": "看完这一集不敢喝排骨汤了",
@@ -1259,14 +1283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206821,
-      "num": 515595,
-      "word": "王安宇小时候是正方形",
-      "onboard_time": 1767415767,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 205987,
       "num": 1005065,
       "word": "高市早苗被爆造假",
@@ -1281,6 +1297,14 @@
       "onboard_time": 1767359422,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204383,
+      "num": 427456,
+      "word": "松鼠夜袭王一博",
+      "onboard_time": 1767416727,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 204105,
@@ -1705,6 +1729,14 @@
       "onboard_time": 1767269062,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 168878,
+      "num": 466592,
+      "word": "匿杀对抗路姐弟双向救赎",
+      "onboard_time": 1767417807,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 168867,
@@ -2369,38 +2401,6 @@
       "onboard_time": 1767198086,
       "rank": 47,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 132328,
-      "num": 141614,
-      "word": "暖阳决赛首局MVP",
-      "onboard_time": 1767345920,
-      "rank": 15,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 132286,
-      "num": 556354,
-      "word": "再见爱人",
-      "onboard_time": 1767251300,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 131293,
-      "num": 483975,
-      "word": "茅台",
-      "onboard_time": 1767319457,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 130939,
-      "num": 1094438,
-      "word": "停靠在8楼的2路汽车具象化",
-      "onboard_time": 1767402446,
-      "rank": 22,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
