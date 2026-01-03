@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767447319685,
+  "endTime": 1767448030555,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -755,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 357944,
+      "num": 791371,
+      "word": "甘肃地震",
+      "onboard_time": 1767447325,
+      "rank": 1,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 357856,
       "num": 1404844,
       "word": "王者荣耀",
@@ -1051,6 +1059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 288051,
+      "num": 844347,
+      "word": "委内瑞拉首都街头几乎空无一人",
+      "onboard_time": 1767444805,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 285474,
       "num": 318790,
       "word": "2026年新规今起施行",
@@ -1104,6 +1120,14 @@
       "word": "上海月薪27000一天的花销",
       "onboard_time": 1767365001,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 274798,
+      "num": 753070,
+      "word": "92年姨父成12岁女孩第二个爸爸",
+      "onboard_time": 1767445105,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1539,14 +1563,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 209635,
-      "num": 844347,
-      "word": "委内瑞拉首都街头几乎空无一人",
-      "onboard_time": 1767444805,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 208969,
       "num": 1730508,
       "word": "车厘子J是啥意思",
@@ -1852,7 +1868,7 @@
     },
     {
       "raw_hot": 188286,
-      "num": 578121,
+      "num": 620352,
       "word": "适龄男性公民都应进行兵役登记",
       "onboard_time": 1767445765,
       "rank": 24,
@@ -2105,6 +2121,14 @@
       "onboard_time": 1767192388,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 176112,
+      "num": 851533,
+      "word": "内蒙古一兔狲被大狗咬伤后死亡",
+      "onboard_time": 1767440787,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175898,
@@ -2451,6 +2475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158544,
+      "num": 576033,
+      "word": "李昀锐住上了豪华大床房",
+      "onboard_time": 1767446725,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158538,
       "num": 918354,
       "word": "骄阳似我 纯爱",
@@ -2699,20 +2731,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148360,
-      "num": 851533,
-      "word": "内蒙古一兔狲被大狗咬伤后死亡",
-      "onboard_time": 1767440787,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148313,
       "num": 1002131,
       "word": "九集了没见谁吃上一口饭",
       "onboard_time": 1767252081,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147755,
+      "num": 577434,
+      "word": "一诺连续三年获KPL最受欢迎选手",
+      "onboard_time": 1767446847,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 147505,
@@ -2737,6 +2769,22 @@
       "onboard_time": 1767423145,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147007,
+      "num": 841446,
+      "word": "骄阳似我26集结尾",
+      "onboard_time": 1767444566,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 147006,
+      "num": 740899,
+      "word": "小猫上半身基础下半身就不基础",
+      "onboard_time": 1767445765,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 146619,
@@ -2793,14 +2841,6 @@
       "onboard_time": 1767261859,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 142360,
-      "num": 577434,
-      "word": "一诺连续三年获KPL最受欢迎选手",
-      "onboard_time": 1767446847,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 142207,
@@ -2939,6 +2979,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 139054,
+      "num": 843459,
+      "word": "美国为何选择此刻对委内瑞拉动武",
+      "onboard_time": 1767441746,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 138852,
       "num": 355508,
       "word": "TF四代荣耀练习室",
@@ -2961,14 +3009,6 @@
       "onboard_time": 1767418227,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 137798,
-      "num": 843459,
-      "word": "美国为何选择此刻对委内瑞拉动武",
-      "onboard_time": 1767441746,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 137249,
@@ -3059,6 +3099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 133588,
+      "num": 574930,
+      "word": "委内瑞拉内政部长呼吁民众冷静",
+      "onboard_time": 1767444506,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 133531,
       "num": 316984,
       "word": "男子靠吃辣赢下一头300斤的猪",
@@ -3104,6 +3152,14 @@
       "word": "再见爱人",
       "onboard_time": 1767251300,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 131852,
+      "num": 528476,
+      "word": "李昀锐回归跑男",
+      "onboard_time": 1767447445,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -3211,14 +3267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129123,
-      "num": 841446,
-      "word": "骄阳似我26集结尾",
-      "onboard_time": 1767444566,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129114,
       "num": 552998,
       "word": "花海现实版逐花归海",
@@ -3248,14 +3296,6 @@
       "word": "渐冻症女孩重生",
       "onboard_time": 1767265280,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128104,
-      "num": 753070,
-      "word": "92年姨父成12岁女孩第二个爸爸",
-      "onboard_time": 1767445105,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -3403,14 +3443,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 123808,
-      "num": 574930,
-      "word": "委内瑞拉内政部长呼吁民众冷静",
-      "onboard_time": 1767444506,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 123439,
       "num": 978993,
       "word": "对方不回消息却发朋友圈",
@@ -3457,14 +3489,6 @@
       "onboard_time": 1767404668,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122337,
-      "num": 576033,
-      "word": "李昀锐住上了豪华大床房",
-      "onboard_time": 1767446725,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 122327,
@@ -3545,6 +3569,14 @@
       "onboard_time": 1767431004,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 120942,
+      "num": 574037,
+      "word": "雷军公开小米汽车年交付量",
+      "onboard_time": 1767447266,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 120838,
@@ -3729,14 +3761,6 @@
       "onboard_time": 1767356241,
       "rank": 9,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 114940,
-      "num": 740899,
-      "word": "小猫上半身基础下半身就不基础",
-      "onboard_time": 1767445765,
-      "rank": 8,
-      "category": "幽默"
     },
     {
       "raw_hot": 114917,
@@ -3977,6 +4001,14 @@
       "onboard_time": 1767403409,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 106924,
+      "num": 526733,
+      "word": "飞天茅台每人每日限购6瓶",
+      "onboard_time": 1767447986,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 106786,
@@ -4363,6 +4395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97806,
+      "num": 575341,
+      "word": "美国36年前的今天也抓过拉美总统",
+      "onboard_time": 1767446006,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 97654,
       "num": 1091084,
       "word": "樊振东全英文接受采访",
@@ -4393,6 +4433,14 @@
       "onboard_time": 1767402868,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97021,
+      "num": 525988,
+      "word": "小猫也受不了冷暴力",
+      "onboard_time": 1767447087,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 96746,
@@ -4715,14 +4763,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 88888,
-      "num": 574037,
-      "word": "雷军公开小米汽车年交付量",
-      "onboard_time": 1767447266,
-      "rank": 47,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 88702,
       "num": 588829,
       "word": "新年新头像",
@@ -5003,6 +5043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84099,
+      "num": 528937,
+      "word": "得闲谨制海外口碑",
+      "onboard_time": 1767447686,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 84032,
       "num": 996038,
       "word": "谁家大结局乱成一锅粥了",
@@ -5017,14 +5065,6 @@
       "onboard_time": 1767323539,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 83778,
-      "num": 575341,
-      "word": "美国36年前的今天也抓过拉美总统",
-      "onboard_time": 1767446006,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 83735,
@@ -5651,6 +5691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70125,
+      "num": 578312,
+      "word": "美曾对委极限施压未果",
+      "onboard_time": 1767445886,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 69859,
       "num": 381440,
       "word": "意大使称瑞士爆炸酒吧有人放烟花",
@@ -6129,14 +6177,6 @@
       "onboard_time": 1767346399,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 63144,
-      "num": 578312,
-      "word": "美曾对委极限施压未果",
-      "onboard_time": 1767445886,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 63048,
@@ -7051,6 +7091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47316,
+      "num": 576996,
+      "word": "委要求使美政府为侵略罪行负责",
+      "onboard_time": 1767447207,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 47171,
       "num": 272000,
       "word": "张晚意元旦跟谁过",
@@ -7105,14 +7153,6 @@
       "onboard_time": 1767256460,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 46330,
-      "num": 576996,
-      "word": "委要求使美政府为侵略罪行负责",
-      "onboard_time": 1767447207,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 46061,
@@ -7779,6 +7819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29133,
+      "num": 840306,
+      "word": "2026年首个超级月亮",
+      "onboard_time": 1767418827,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28449,
       "num": 154435,
       "word": "冬泳舞台 伟大",
@@ -7921,14 +7969,6 @@
       "onboard_time": 1767332120,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 22861,
-      "num": 840306,
-      "word": "2026年首个超级月亮",
-      "onboard_time": 1767418827,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22618,

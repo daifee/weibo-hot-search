@@ -1,0 +1,410 @@
+{
+  "runTime": 1767448030555,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 487946,
+        "num": 1078071,
+        "word": "92年小伙看到12岁养女作文后泪崩",
+        "onboard_time": 1767440366,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357944,
+        "num": 791371,
+        "word": "甘肃地震",
+        "onboard_time": 1767447325,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 37938,
+        "num": 631861,
+        "word": "小寒大寒哪个更冷",
+        "onboard_time": 1767431544,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274798,
+        "num": 631822,
+        "word": "92年姨父成12岁女孩第二个爸爸",
+        "onboard_time": 1767445105,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232029,
+        "num": 625416,
+        "word": "雷军直播",
+        "onboard_time": 1767438026,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 6107387,
+        "num": 6107387,
+        "word": "特朗普称已抓获委内瑞拉总统",
+        "onboard_time": 1767432625,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187469,
+        "num": 620352,
+        "word": "适龄男性公民都应进行兵役登记",
+        "onboard_time": 1767445765,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153382,
+        "num": 614706,
+        "word": "超级月亮",
+        "onboard_time": 1767434666,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147006,
+        "num": 612394,
+        "word": "小猫上半身基础下半身就不基础",
+        "onboard_time": 1767445765,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147007,
+        "num": 606759,
+        "word": "骄阳似我26集结尾",
+        "onboard_time": 1767444566,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 768093,
+        "num": 604274,
+        "word": "委内瑞拉",
+        "onboard_time": 1767426205,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 176112,
+        "num": 602621,
+        "word": "内蒙古一兔狲被大狗咬伤后死亡",
+        "onboard_time": 1767440787,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 599300,
+        "num": 599300,
+        "word": "疑似马杜罗被美抓获照曝光",
+        "onboard_time": 1767440726,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141719,
+        "num": 553084,
+        "word": "黑龙江一景区现3米高冰封鱼墙",
+        "onboard_time": 1767435925,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68734,
+        "num": 542570,
+        "word": "小米直播拆车的硬核底气",
+        "onboard_time": 1767444206,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 536501,
+        "num": 536501,
+        "word": "马杜罗及其夫人已在美国被起诉",
+        "onboard_time": 1767443786,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111274,
+        "num": 536482,
+        "word": "天云发言",
+        "onboard_time": 1767442826,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 315987,
+        "num": 536074,
+        "word": "特朗普下令打击委内瑞拉境内目标",
+        "onboard_time": 1767426805,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111212,
+        "num": 535819,
+        "word": "MRC夺冠",
+        "onboard_time": 1767440665,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 47316,
+        "num": 535383,
+        "word": "委要求使美政府为侵略罪行负责",
+        "onboard_time": 1767447207,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 857467,
+        "num": 534947,
+        "word": "白鹿圈内人脉",
+        "onboard_time": 1767445826,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312513,
+        "num": 534483,
+        "word": "美议员称马杜罗将在美国接受审判",
+        "onboard_time": 1767437066,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 291430,
+        "num": 534255,
+        "word": "爱吃橘子的人天塌了",
+        "onboard_time": 1767428064,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 288051,
+        "num": 533920,
+        "word": "委内瑞拉首都街头几乎空无一人",
+        "onboard_time": 1767444805,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159365,
+        "num": 533667,
+        "word": "骄阳似我",
+        "onboard_time": 1767435085,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260904,
+        "num": 533335,
+        "word": "委内瑞拉副总统发表讲话",
+        "onboard_time": 1767439286,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147755,
+        "num": 532941,
+        "word": "一诺连续三年获KPL最受欢迎选手",
+        "onboard_time": 1767446847,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162666,
+        "num": 532707,
+        "word": "三角洲",
+        "onboard_time": 1767437965,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107839,
+        "num": 532272,
+        "word": "iG夺得德杯冠军",
+        "onboard_time": 1767441685,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151426,
+        "num": 531906,
+        "word": "马杜罗系被美军三角洲特种部队抓获",
+        "onboard_time": 1767434784,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168853,
+        "num": 531525,
+        "word": "心有林曦 舅舅出品",
+        "onboard_time": 1767445406,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139437,
+        "num": 531217,
+        "word": "多国强烈谴责美突袭委抓获马杜罗",
+        "onboard_time": 1767440366,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125569,
+        "num": 530894,
+        "word": "奔跑吧",
+        "onboard_time": 1767442585,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139054,
+        "num": 530483,
+        "word": "美国为何选择此刻对委内瑞拉动武",
+        "onboard_time": 1767441746,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158544,
+        "num": 530020,
+        "word": "李昀锐住上了豪华大床房",
+        "onboard_time": 1767446725,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133588,
+        "num": 529852,
+        "word": "委内瑞拉内政部长呼吁民众冷静",
+        "onboard_time": 1767444506,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120942,
+        "num": 529457,
+        "word": "雷军公开小米汽车年交付量",
+        "onboard_time": 1767447266,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 70125,
+        "num": 529320,
+        "word": "美曾对委极限施压未果",
+        "onboard_time": 1767445886,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84099,
+        "num": 528937,
+        "word": "得闲谨制海外口碑",
+        "onboard_time": 1767447686,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131852,
+        "num": 528476,
+        "word": "李昀锐回归跑男",
+        "onboard_time": 1767447445,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118944,
+        "num": 527998,
+        "word": "美军为何突然袭击委内瑞拉",
+        "onboard_time": 1767432264,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117147,
+        "num": 527635,
+        "word": "身体最不抗冻的5个部位",
+        "onboard_time": 1767431244,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94169,
+        "num": 527419,
+        "word": "零下30多度男子开窗冷空气瞬间现形",
+        "onboard_time": 1767428364,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114358,
+        "num": 526998,
+        "word": "委内瑞拉怎么了",
+        "onboard_time": 1767424705,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106924,
+        "num": 526733,
+        "word": "飞天茅台每人每日限购6瓶",
+        "onboard_time": 1767447986,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111628,
+        "num": 526354,
+        "word": "委总统下令立即武装斗争",
+        "onboard_time": 1767432566,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97021,
+        "num": 525988,
+        "word": "小猫也受不了冷暴力",
+        "onboard_time": 1767447087,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97806,
+        "num": 525882,
+        "word": "美国36年前的今天也抓过拉美总统",
+        "onboard_time": 1767446006,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91170,
+        "num": 525436,
+        "word": "当学生在外面遇到自己的老师",
+        "onboard_time": 1767447207,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29133,
+        "num": 524913,
+        "word": "2026年首个超级月亮",
+        "onboard_time": 1767418827,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#枝叶总关情的含义#"
+    }
+  }
+}
