@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/04 00:34:09 ~ 2026/01/04 02:51:39
+本榜单时间：2026/01/04 00:34:09 ~ 2026/01/04 03:22:35
 </p>
 </blockquote>
 <p>
@@ -70,7 +70,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%8D%A0%E9%A2%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%23" target="weibo">
-特朗普称将占领管理委内瑞拉（热度：272495）
+特朗普称将占领管理委内瑞拉（热度：280934）
 </a>
 </li>
 
@@ -424,7 +424,7 @@ MRC夺冠（热度：40693）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%AA%E5%A5%87%E7%89%A9%E8%AF%AD%E5%A4%A7%E7%BB%93%E5%B1%80%23" target="weibo">
-怪奇物语大结局（热度：21781）
+怪奇物语大结局（热度：23002）
 </a>
 </li>
 
@@ -437,6 +437,18 @@ MRC夺冠（热度：40693）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E8%AF%B4%E4%BB%8A%E5%B9%B4%E6%9C%89%E5%85%A8%E5%8E%9F%E5%88%9B%E4%B8%93%E8%BE%91%23" target="weibo">
 王源说今年有全原创专辑（热度：18863）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23kpl%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%B7%85%E5%B3%B0%E4%B9%8B%E5%A4%9C%23" target="weibo">
+kpl王者荣耀巅峰之夜（热度：14049）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232026%E5%BC%80%E5%B9%B4%E5%9B%BE%E6%99%AF%23" target="weibo">
+2026开年图景（热度：7296）
 </a>
 </li>
 

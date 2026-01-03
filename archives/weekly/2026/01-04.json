@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767466299530,
+  "endTime": 1767468155133,
   "band_list": [
     {
       "raw_hot": 1541881,
@@ -75,7 +75,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 272495,
+      "raw_hot": 280934,
       "num": 140473,
       "word": "特朗普称将占领管理委内瑞拉",
       "onboard_time": 1767463877,
@@ -547,7 +547,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21781,
+      "raw_hot": 23002,
       "num": 138948,
       "word": "怪奇物语大结局",
       "onboard_time": 1767464835,
@@ -569,6 +569,22 @@
       "onboard_time": 1767466155,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 14049,
+      "num": 77147,
+      "word": "kpl王者荣耀巅峰之夜",
+      "onboard_time": 1767434187,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 7296,
+      "num": 79416,
+      "word": "2026开年图景",
+      "onboard_time": 1767450026,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
