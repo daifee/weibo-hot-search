@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/04 01:42:01
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/04 02:38:24
 </p>
 </blockquote>
 <p>
@@ -1083,6 +1083,12 @@ TE对战北京WBG（热度：261771）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%9E%8B%E7%9F%B3%E6%B2%B9%E5%85%AC%E5%8F%B8%E5%B0%86%E5%89%8D%E5%BE%80%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%23" target="weibo">
+美国大型石油公司将前往委内瑞拉（热度：247234）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E6%99%AF%E5%8C%BA%E7%8E%B03%E7%B1%B3%E9%AB%98%E5%86%B0%E5%B0%81%E9%B1%BC%E5%A2%99%23" target="weibo">
 黑龙江一景区现3米高冰封鱼墙（热度：245028）
 </a>
@@ -1157,6 +1163,12 @@ TE对战北京WBG（热度：261771）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%B3%E4%B9%90%E7%BC%98%E8%AE%A1%E5%88%922%E5%B9%B4%E5%BA%A6%E7%9B%9B%E5%85%B8%23" target="weibo">
 音乐缘计划2年度盛典（热度：228187）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%8D%A0%E9%A2%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%23" target="weibo">
+特朗普称将占领管理委内瑞拉（热度：225808）
 </a>
 </li>
 
@@ -1625,12 +1637,6 @@ MRC夺冠（热度：184907）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%A1%E6%BC%A0%E5%9E%8B%E4%BA%BA%E6%A0%BC%23" target="weibo">
 淡漠型人格（热度：182725）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%9E%8B%E7%9F%B3%E6%B2%B9%E5%85%AC%E5%8F%B8%E5%B0%86%E5%89%8D%E5%BE%80%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%23" target="weibo">
-美国大型石油公司将前往委内瑞拉（热度：182688）
 </a>
 </li>
 
@@ -5991,6 +5997,12 @@ CJ麦科勒姆绝杀雄鹿（热度：40223）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%9B%9B%E5%B7%A1%E5%90%8D%E5%9C%BA%E9%9D%A2%E5%9B%9E%E9%A1%BE%23" target="weibo">
+鹿晗四巡名场面回顾（热度：38058）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B9%B4%20%E6%94%BE%E8%87%AA%E5%B7%B1%E4%B8%80%E9%A9%AC%23" target="weibo">
 马年 放自己一马（热度：37554）
 </a>
@@ -5999,18 +6011,6 @@ CJ麦科勒姆绝杀雄鹿（热度：40223）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B7%E7%8C%9B%E4%BA%86%E7%9C%8B%E8%A7%81%E9%B1%BC%E5%9C%A8%E6%B0%B4%E9%9D%A2%E4%B8%8A%E8%B5%B0%23" target="weibo">
 起猛了看见鱼在水面上走（热度：37380）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232026%E8%81%94%E5%90%88%E6%9D%AF%23" target="weibo">
-2026联合杯（热度：37339）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%80%BB%E5%8F%B0%E8%AE%B0%E8%80%85%E4%BA%B2%E5%8E%86%E7%BE%8E%E5%9B%BD%E8%A2%AD%E5%87%BB%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%23" target="weibo">
-总台记者亲历美国袭击委内瑞拉（热度：36833）
 </a>
 </li>
 

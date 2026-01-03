@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/04 01:42:01
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/04 02:38:24
 </p>
 </blockquote>
 <p>
@@ -1083,6 +1083,12 @@ TE对战北京WBG（热度：261771）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%9E%8B%E7%9F%B3%E6%B2%B9%E5%85%AC%E5%8F%B8%E5%B0%86%E5%89%8D%E5%BE%80%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%23" target="weibo">
+美国大型石油公司将前往委内瑞拉（热度：247234）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E6%99%AF%E5%8C%BA%E7%8E%B03%E7%B1%B3%E9%AB%98%E5%86%B0%E5%B0%81%E9%B1%BC%E5%A2%99%23" target="weibo">
 黑龙江一景区现3米高冰封鱼墙（热度：245028）
 </a>
@@ -1157,6 +1163,12 @@ TE对战北京WBG（热度：261771）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%B3%E4%B9%90%E7%BC%98%E8%AE%A1%E5%88%922%E5%B9%B4%E5%BA%A6%E7%9B%9B%E5%85%B8%23" target="weibo">
 音乐缘计划2年度盛典（热度：228187）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%8D%A0%E9%A2%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%23" target="weibo">
+特朗普称将占领管理委内瑞拉（热度：225808）
 </a>
 </li>
 
@@ -1629,12 +1641,6 @@ MRC夺冠（热度：184907）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%9E%8B%E7%9F%B3%E6%B2%B9%E5%85%AC%E5%8F%B8%E5%B0%86%E5%89%8D%E5%BE%80%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%23" target="weibo">
-美国大型石油公司将前往委内瑞拉（热度：182688）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%97%E7%BD%972%E4%BD%A0%E6%98%AF%E6%87%82%E6%80%8E%E4%B9%88%E8%99%90%E8%A7%82%E4%BC%97%E7%9A%84%23" target="weibo">
 斗罗2你是懂怎么虐观众的（热度：182218）
 </a>
@@ -1805,12 +1811,6 @@ J人和P人旅游时的区别（热度：177477）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%9F%B3%E5%8D%A1%E5%8C%85%23" target="weibo">
 新音卡包（热度：169282）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%AF%BA%E8%BF%9E%E7%BB%AD%E4%B8%89%E5%B9%B4%E8%8E%B7KPL%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E%E9%80%89%E6%89%8B%23" target="weibo">
-一诺连续三年获KPL最受欢迎选手（热度：169131）
 </a>
 </li>
 

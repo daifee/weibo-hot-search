@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/04 00:34:09 ~ 2026/01/04 01:42:01
+本榜单时间：2026/01/04 00:34:09 ~ 2026/01/04 02:38:24
 </p>
 </blockquote>
 <p>
@@ -75,8 +75,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%9E%8B%E7%9F%B3%E6%B2%B9%E5%85%AC%E5%8F%B8%E5%B0%86%E5%89%8D%E5%BE%80%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%23" target="weibo">
+美国大型石油公司将前往委内瑞拉（热度：247234）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E6%89%93%E5%87%BB%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%A2%83%E5%86%85%E7%9B%AE%E6%A0%87%23" target="weibo">
 特朗普下令打击委内瑞拉境内目标（热度：243433）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%8D%A0%E9%A2%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%23" target="weibo">
+特朗普称将占领管理委内瑞拉（热度：225808）
 </a>
 </li>
 
@@ -101,12 +113,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E8%B6%85%E5%BC%BA%E9%92%A2%E4%BA%89%E8%AE%AE%23" target="weibo">
 雷军回应小米超强钢争议（热度：199048）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%9E%8B%E7%9F%B3%E6%B2%B9%E5%85%AC%E5%8F%B8%E5%B0%86%E5%89%8D%E5%BE%80%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%23" target="weibo">
-美国大型石油公司将前往委内瑞拉（热度：182688）
 </a>
 </li>
 
@@ -375,6 +381,12 @@ MRC夺冠（热度：40693）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%9B%9B%E5%B7%A1%E5%90%8D%E5%9C%BA%E9%9D%A2%E5%9B%9E%E9%A1%BE%23" target="weibo">
+鹿晗四巡名场面回顾（热度：38058）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E8%88%B02026%E4%B8%BB%E8%A6%81%E4%BB%BB%E5%8A%A1%23" target="weibo">
 福建舰2026主要任务（热度：36755）
 </a>
@@ -399,14 +411,20 @@ MRC夺冠（热度：40693）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%9B%9B%E5%B7%A1%E5%90%8D%E5%9C%BA%E9%9D%A2%E5%9B%9E%E9%A1%BE%23" target="weibo">
-鹿晗四巡名场面回顾（热度：31337）
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%96%B0%E6%AD%8C%E9%80%9F%E9%80%92%23" target="weibo">
+周深新歌速递（热度：31154）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%96%B0%E6%AD%8C%E9%80%9F%E9%80%92%23" target="weibo">
-周深新歌速递（热度：31154）
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%83%B3%E6%8A%8A%E5%8D%81%E9%A6%96%E6%AD%8C%E6%8B%8D%E4%B8%80%E4%B8%AA%E5%B0%8F%E7%9F%AD%E5%89%A7%23" target="weibo">
+刘宇宁想把十首歌拍一个小短剧（热度：27628）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%80%AA%E5%A5%87%E7%89%A9%E8%AF%AD%E5%A4%A7%E7%BB%93%E5%B1%80%23" target="weibo">
+怪奇物语大结局（热度：21781）
 </a>
 </li>
 
