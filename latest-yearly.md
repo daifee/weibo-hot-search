@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/04 01:25:00
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/04 01:42:01
 </p>
 </blockquote>
 <p>
@@ -651,6 +651,12 @@ FMVP皮肤（热度：362967）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%23" target="weibo">
+特朗普（热度：356918）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%82%A3%E8%83%8E%E5%84%BF%E9%85%92%E7%B2%BE%E7%BB%BC%E5%90%88%E7%97%87%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%B5%B6%E5%87%BA%E5%AE%B6%23" target="weibo">
 美国患胎儿酒精综合症女子被赶出家（热度：355944）
 </a>
@@ -737,6 +743,12 @@ WB对战RW（热度：355689）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232026%E6%96%B0%E5%9B%BD%E8%A1%A5%E6%9D%A5%E4%BA%86%23" target="weibo">
 2026新国补来了（热度：318805）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%B8%83%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%9C%A8%E7%BE%8E%E8%88%B0%E7%85%A7%E7%89%87%23" target="weibo">
+特朗普发布马杜罗在美舰照片（热度：318358）
 </a>
 </li>
 
@@ -833,12 +845,6 @@ WB对战RW（热度：355689）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%9D%B0%E5%8F%97%E4%BC%A4%23" target="weibo">
 徐杰受伤（热度：299362）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%B8%83%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%9C%A8%E7%BE%8E%E8%88%B0%E7%85%A7%E7%89%87%23" target="weibo">
-特朗普发布马杜罗在美舰照片（热度：297631）
 </a>
 </li>
 
@@ -1025,12 +1031,6 @@ TE对战北京WBG（热度：261771）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E7%A9%BF%E4%BA%86%E6%9E%97%E5%B1%BF%E6%A3%AE%E7%9A%84%E8%A1%A3%E6%9C%8D%23" target="weibo">
 赵今麦穿了林屿森的衣服（热度：254798）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%23" target="weibo">
-特朗普（热度：254719）
 </a>
 </li>
 
@@ -1629,6 +1629,12 @@ MRC夺冠（热度：184907）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%9E%8B%E7%9F%B3%E6%B2%B9%E5%85%AC%E5%8F%B8%E5%B0%86%E5%89%8D%E5%BE%80%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%23" target="weibo">
+美国大型石油公司将前往委内瑞拉（热度：182688）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%97%E7%BD%972%E4%BD%A0%E6%98%AF%E6%87%82%E6%80%8E%E4%B9%88%E8%99%90%E8%A7%82%E4%BC%97%E7%9A%84%23" target="weibo">
 斗罗2你是懂怎么虐观众的（热度：182218）
 </a>
@@ -1805,12 +1811,6 @@ J人和P人旅游时的区别（热度：177477）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%AF%BA%E8%BF%9E%E7%BB%AD%E4%B8%89%E5%B9%B4%E8%8E%B7KPL%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E%E9%80%89%E6%89%8B%23" target="weibo">
 一诺连续三年获KPL最受欢迎选手（热度：169131）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BF%E6%9D%80%E5%AF%B9%E6%8A%97%E8%B7%AF%E5%A7%90%E5%BC%9F%E5%8F%8C%E5%90%91%E6%95%91%E8%B5%8E%23" target="weibo">
-匿杀对抗路姐弟双向救赎（热度：168878）
 </a>
 </li>
 
