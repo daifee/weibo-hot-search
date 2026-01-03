@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/04 06:27:41
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/04 06:44:11
 </p>
 </blockquote>
 <p>
@@ -183,6 +183,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%8D%A0%E9%A2%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%23" target="weibo">
+特朗普称将占领管理委内瑞拉（热度：753435）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%AD%8C%E8%BF%B7%E4%BC%9A%20%E6%84%BF%E6%88%91%E4%BB%AC%E8%8E%AB%E5%BF%98%E6%9D%A5%E6%97%B6%E8%B7%AF%23" target="weibo">
 张杰歌迷会 愿我们莫忘来时路（热度：744779）
 </a>
@@ -305,12 +311,6 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E8%92%9C%20%E5%81%8F%E5%A4%B4%E7%97%9B%23" target="weibo">
 吃蒜 偏头痛（热度：558513）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%8D%A0%E9%A2%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%23" target="weibo">
-特朗普称将占领管理委内瑞拉（热度：553340）
 </a>
 </li>
 
@@ -1683,6 +1683,12 @@ MRC夺冠（热度：184907）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%A7%B0%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%81%AD%E5%88%B0%E5%85%A8%E7%90%83%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%BA%BA%E7%9A%84%E8%B0%B4%E8%B4%A3%23" target="weibo">
+俄称美国将遭到全球大多数人的谴责（热度：179458）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E7%BB%93%E6%9D%9F%E5%AF%B9%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E8%BD%B0%E7%82%B8%23" target="weibo">
 美军结束对委内瑞拉轰炸（热度：178442）
 </a>
@@ -1805,12 +1811,6 @@ J人和P人旅游时的区别（热度：177477）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%9B%98%E8%BE%A3%E6%A4%92%E7%82%92%E8%82%89%E4%BD%95%E4%BB%A5%E6%88%B3%E4%B8%AD%E6%B3%AA%E7%82%B9%23" target="weibo">
 一盘辣椒炒肉何以戳中泪点（热度：170256）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E4%B8%80%E7%94%9F%E5%AE%8C%E6%88%90%E4%B8%80%E4%BB%A3%E5%A5%B3%E6%80%A7%E7%9A%84%E5%A4%8D%E4%BB%87%23" target="weibo">
-用一生完成一代女性的复仇（热度：169492）
 </a>
 </li>
 

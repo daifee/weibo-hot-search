@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767479261867,
+  "endTime": 1767480251175,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -227,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 753435,
+      "num": 753435,
+      "word": "特朗普称将占领管理委内瑞拉",
+      "onboard_time": 1767463877,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 744779,
       "num": 981643,
       "word": "张杰歌迷会 愿我们莫忘来时路",
@@ -393,14 +401,6 @@
       "onboard_time": 1767346820,
       "rank": 35,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 553340,
-      "num": 553340,
-      "word": "特朗普称将占领管理委内瑞拉",
-      "onboard_time": 1767463877,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 550391,
@@ -2227,6 +2227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179458,
+      "num": 794489,
+      "word": "俄称美国将遭到全球大多数人的谴责",
+      "onboard_time": 1767452545,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 178442,
       "num": 1703345,
       "word": "美军结束对委内瑞拉轰炸",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767276021,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 169492,
-      "num": 1033627,
-      "word": "用一生完成一代女性的复仇",
-      "onboard_time": 1767417987,
-      "rank": 19,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
