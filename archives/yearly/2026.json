@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767429362247,
+  "endTime": 1767430220160,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -43,11 +43,19 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 1337263,
+      "raw_hot": 1337482,
       "num": 841200,
       "word": "委内瑞拉",
       "onboard_time": 1767426205,
       "rank": 10,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1330905,
+      "num": 1330905,
+      "word": "特朗普下令打击委内瑞拉境内目标",
+      "onboard_time": 1767426805,
+      "rank": 0,
       "category": "国际时政"
     },
     {
@@ -57,14 +65,6 @@
       "onboard_time": 1767351621,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1268426,
-      "num": 1268426,
-      "word": "特朗普下令打击委内瑞拉境内目标",
-      "onboard_time": 1767426805,
-      "rank": 0,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1214241,
@@ -571,6 +571,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 382463,
+      "num": 962221,
+      "word": "委内瑞拉怎么了",
+      "onboard_time": 1767424705,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 379921,
       "num": 1398075,
       "word": "湖南卫视跨年演唱会",
@@ -601,14 +609,6 @@
       "onboard_time": 1767363261,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 369531,
-      "num": 962221,
-      "word": "委内瑞拉怎么了",
-      "onboard_time": 1767424705,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 365715,
@@ -915,6 +915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 286309,
+      "num": 837254,
+      "word": "男女主官宣完男二才追",
+      "onboard_time": 1767429144,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285474,
       "num": 318790,
       "word": "2026年新规今起施行",
@@ -1051,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260724,
+      "num": 839378,
+      "word": "生理性喜欢和心理性喜欢的区别",
+      "onboard_time": 1767426385,
+      "rank": 21,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 259851,
       "num": 1005812,
       "word": "家业下证",
@@ -1081,14 +1097,6 @@
       "onboard_time": 1767354441,
       "rank": 40,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 255120,
-      "num": 839378,
-      "word": "生理性喜欢和心理性喜欢的区别",
-      "onboard_time": 1767426385,
-      "rank": 21,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 254798,
@@ -1323,6 +1331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 208969,
+      "num": 838738,
+      "word": "车厘子J是啥意思",
+      "onboard_time": 1767425606,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 208450,
       "num": 734719,
       "word": "薛之谦周深 占有",
@@ -1449,6 +1465,14 @@
       "onboard_time": 1767271222,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195500,
+      "num": 842281,
+      "word": "零下30多度男子开窗冷空气瞬间现形",
+      "onboard_time": 1767428364,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194919,
@@ -1659,6 +1683,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 182888,
+      "num": 838290,
+      "word": "爱吃橘子的人天塌了",
+      "onboard_time": 1767428064,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182835,
       "num": 1092720,
       "word": "建议大家多去线下逛逛实体店",
@@ -1713,6 +1745,14 @@
       "onboard_time": 1767251960,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178442,
+      "num": 840075,
+      "word": "美军结束对委内瑞拉轰炸",
+      "onboard_time": 1767428124,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 177477,
@@ -1859,28 +1899,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168203,
-      "num": 838738,
-      "word": "车厘子J是啥意思",
-      "onboard_time": 1767425606,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 167596,
       "num": 1388124,
       "word": "跨年照片",
       "onboard_time": 1767198149,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 167436,
-      "num": 840075,
-      "word": "美军结束对委内瑞拉轰炸",
-      "onboard_time": 1767428124,
-      "rank": 16,
-      "category": "国际时政"
     },
     {
       "raw_hot": 167402,
@@ -2163,14 +2187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154774,
-      "num": 838290,
-      "word": "爱吃橘子的人天塌了",
-      "onboard_time": 1767428064,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 154128,
       "num": 543492,
       "word": "海航客服称空姐戴长发簪无安全隐患",
@@ -2233,14 +2249,6 @@
       "onboard_time": 1767414567,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 151319,
-      "num": 842281,
-      "word": "零下30多度男子开窗冷空气瞬间现形",
-      "onboard_time": 1767428364,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150576,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767325700,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141753,
-      "num": 453222,
-      "word": "金毛 各位下辈子再见",
-      "onboard_time": 1767326718,
-      "rank": 39,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [

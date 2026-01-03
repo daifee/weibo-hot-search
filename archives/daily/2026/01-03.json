@@ -1,9 +1,9 @@
 {
   "startTime": 1767371718188,
-  "endTime": 1767429362247,
+  "endTime": 1767430220160,
   "band_list": [
     {
-      "raw_hot": 1337263,
+      "raw_hot": 1337482,
       "num": 841200,
       "word": "委内瑞拉",
       "onboard_time": 1767426205,
@@ -11,8 +11,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1268426,
-      "num": 1268426,
+      "raw_hot": 1330905,
+      "num": 1330905,
       "word": "特朗普下令打击委内瑞拉境内目标",
       "onboard_time": 1767426805,
       "rank": 0,
@@ -155,20 +155,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 382463,
+      "num": 962221,
+      "word": "委内瑞拉怎么了",
+      "onboard_time": 1767424705,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 373053,
       "num": 985259,
       "word": "檀健次出发横店进组何不同舟渡",
       "onboard_time": 1767414326,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 369531,
-      "num": 962221,
-      "word": "委内瑞拉怎么了",
-      "onboard_time": 1767424705,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 365715,
@@ -259,20 +259,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 286309,
+      "num": 837254,
+      "word": "男女主官宣完男二才追",
+      "onboard_time": 1767429144,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 260724,
+      "num": 839378,
+      "word": "生理性喜欢和心理性喜欢的区别",
+      "onboard_time": 1767426385,
+      "rank": 21,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 256749,
       "num": 1096200,
       "word": "玉茗茶骨",
       "onboard_time": 1767364462,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 255120,
-      "num": 839378,
-      "word": "生理性喜欢和心理性喜欢的区别",
-      "onboard_time": 1767426385,
-      "rank": 21,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 254798,
@@ -315,6 +323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 208969,
+      "num": 838738,
+      "word": "车厘子J是啥意思",
+      "onboard_time": 1767425606,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 208037,
       "num": 1040129,
       "word": "女子吃鸡蛋惊现蛋中蛋",
@@ -355,6 +371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 195500,
+      "num": 842281,
+      "word": "零下30多度男子开窗冷空气瞬间现形",
+      "onboard_time": 1767428364,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192938,
       "num": 1035824,
       "word": "吃120天蚕豆后鱼变脆了",
@@ -369,6 +393,22 @@
       "onboard_time": 1767365001,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182888,
+      "num": 838290,
+      "word": "爱吃橘子的人天塌了",
+      "onboard_time": 1767428064,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 178442,
+      "num": 840075,
+      "word": "美军结束对委内瑞拉轰炸",
+      "onboard_time": 1767428124,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 177564,
@@ -427,22 +467,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 168203,
-      "num": 838738,
-      "word": "车厘子J是啥意思",
-      "onboard_time": 1767425606,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 167436,
-      "num": 840075,
-      "word": "美军结束对委内瑞拉轰炸",
-      "onboard_time": 1767428124,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 166487,
       "num": 1034479,
       "word": "明日方舟",
@@ -499,14 +523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154774,
-      "num": 838290,
-      "word": "爱吃橘子的人天塌了",
-      "onboard_time": 1767428064,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 152632,
       "num": 1037890,
       "word": "2026开年第一对女性反杀",
@@ -521,14 +537,6 @@
       "onboard_time": 1767414567,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 151319,
-      "num": 842281,
-      "word": "零下30多度男子开窗冷空气瞬间现形",
-      "onboard_time": 1767428364,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149987,
@@ -683,20 +691,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 122845,
-      "num": 837254,
-      "word": "男女主官宣完男二才追",
-      "onboard_time": 1767429144,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 122469,
       "num": 1094090,
       "word": "25岁姑娘去小城行医一待56年",
       "onboard_time": 1767404668,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122239,
+      "num": 831776,
+      "word": "檀健次一日女友体验卡",
+      "onboard_time": 1767428845,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 119935,
@@ -729,6 +737,14 @@
       "onboard_time": 1767428124,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113547,
+      "num": 774030,
+      "word": "MRC对战Gr",
+      "onboard_time": 1767430104,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 112553,
@@ -769,14 +785,6 @@
       "onboard_time": 1767413368,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107205,
-      "num": 831776,
-      "word": "檀健次一日女友体验卡",
-      "onboard_time": 1767428845,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 106924,
@@ -867,6 +875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 102009,
+      "num": 739735,
+      "word": "白鹿不争不抢稳操胜券",
+      "onboard_time": 1767429628,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99456,
       "num": 999920,
       "word": "这才是我们年轻人看得懂的物价",
@@ -947,6 +963,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 91403,
+      "num": 828690,
+      "word": "看完这集买保险受益人只敢填父母",
+      "onboard_time": 1767429205,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90811,
       "num": 1093997,
       "word": "骄阳似我落地窗吻",
@@ -985,6 +1009,14 @@
       "onboard_time": 1767349460,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84286,
+      "num": 838051,
+      "word": "长白山滑雪",
+      "onboard_time": 1767428543,
+      "rank": 24,
+      "category": "旅游"
     },
     {
       "raw_hot": 84032,
@@ -1251,14 +1283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64778,
-      "num": 838051,
-      "word": "长白山滑雪",
-      "onboard_time": 1767428543,
-      "rank": 24,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 64644,
       "num": 967797,
       "word": "贝雷帽发型",
@@ -1289,14 +1313,6 @@
       "onboard_time": 1767425428,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 63594,
-      "num": 828690,
-      "word": "看完这集买保险受益人只敢填父母",
-      "onboard_time": 1767429205,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 63338,
@@ -1547,6 +1563,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 52489,
+      "num": 737983,
+      "word": "委内瑞拉正遭受导弹轰炸",
+      "onboard_time": 1767427285,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 52349,
       "num": 651032,
       "word": "这才叫直播间的家人们",
@@ -1795,6 +1819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 37339,
+      "num": 735242,
+      "word": "2026联合杯",
+      "onboard_time": 1767427945,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36275,
       "num": 1020369,
       "word": "人人人人人人深圳人人人人人人",
@@ -1841,6 +1873,14 @@
       "onboard_time": 1767427226,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34275,
+      "num": 748759,
+      "word": "美军空袭委内瑞拉现场画面",
+      "onboard_time": 1767430045,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 34012,
@@ -1905,6 +1945,14 @@
       "onboard_time": 1767402688,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26269,
+      "num": 839631,
+      "word": "当地文旅回应东坡求学地立李白雕像",
+      "onboard_time": 1767428845,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26153,
@@ -2001,14 +2049,6 @@
       "onboard_time": 1767368361,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 21763,
-      "num": 839631,
-      "word": "当地文旅回应东坡求学地立李白雕像",
-      "onboard_time": 1767428845,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21727,
