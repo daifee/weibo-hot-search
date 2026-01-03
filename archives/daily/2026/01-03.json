@@ -1,21 +1,21 @@
 {
   "startTime": 1767371718188,
-  "endTime": 1767430220160,
+  "endTime": 1767432561472,
   "band_list": [
+    {
+      "raw_hot": 1420905,
+      "num": 1420905,
+      "word": "特朗普下令打击委内瑞拉境内目标",
+      "onboard_time": 1767426805,
+      "rank": 0,
+      "category": "国际时政"
+    },
     {
       "raw_hot": 1337482,
       "num": 841200,
       "word": "委内瑞拉",
       "onboard_time": 1767426205,
       "rank": 10,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 1330905,
-      "num": 1330905,
-      "word": "特朗普下令打击委内瑞拉境内目标",
-      "onboard_time": 1767426805,
-      "rank": 0,
       "category": "国际时政"
     },
     {
@@ -73,6 +73,14 @@
       "onboard_time": 1767413068,
       "rank": 3,
       "category": "美食"
+    },
+    {
+      "raw_hot": 495862,
+      "num": 837254,
+      "word": "男女主官宣完男二才追",
+      "onboard_time": 1767429144,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 493980,
@@ -195,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 338966,
+      "num": 838290,
+      "word": "爱吃橘子的人天塌了",
+      "onboard_time": 1767428064,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 319585,
       "num": 977338,
       "word": "王安宇小时候是正方形",
@@ -259,14 +275,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 286309,
-      "num": 837254,
-      "word": "男女主官宣完男二才追",
-      "onboard_time": 1767429144,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 260724,
       "num": 839378,
       "word": "生理性喜欢和心理性喜欢的区别",
@@ -281,6 +289,14 @@
       "onboard_time": 1767364462,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 256078,
+      "num": 605865,
+      "word": "白宫将就军事打击委内瑞拉发声明",
+      "onboard_time": 1767431544,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 254798,
@@ -313,6 +329,14 @@
       "onboard_time": 1767408630,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228523,
+      "num": 623640,
+      "word": "无畏帅就一个字",
+      "onboard_time": 1767432325,
+      "rank": 11,
+      "category": "电竞"
     },
     {
       "raw_hot": 209761,
@@ -363,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200394,
+      "num": 673049,
+      "word": "当年的男神现在叫我奶奶",
+      "onboard_time": 1767431305,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 195831,
       "num": 1091425,
       "word": "暖阳铠FMVP皮肤",
@@ -387,20 +419,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190197,
+      "num": 557685,
+      "word": "大帅黑皮肤就得穿白色",
+      "onboard_time": 1767432325,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190107,
       "num": 1095184,
       "word": "上海月薪27000一天的花销",
       "onboard_time": 1767365001,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 182888,
-      "num": 838290,
-      "word": "爱吃橘子的人天塌了",
-      "onboard_time": 1767428064,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 178442,
@@ -499,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156563,
+      "num": 610778,
+      "word": "威廉王子夫妇年薪3090万美元",
+      "onboard_time": 1767430885,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 156147,
       "num": 1020852,
       "word": "第一次看见两个人的牙有情侣相的",
@@ -595,6 +635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137766,
+      "num": 557568,
+      "word": "身体最不抗冻的5个部位",
+      "onboard_time": 1767431244,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 137249,
       "num": 1023162,
       "word": "邵兵邵子恒 中式父子相处新模式",
@@ -625,6 +673,14 @@
       "onboard_time": 1767421285,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 129547,
+      "num": 557419,
+      "word": "一诺花朵飘带黑色西装",
+      "onboard_time": 1767431004,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 128661,
@@ -691,6 +747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123473,
+      "num": 774030,
+      "word": "MRC对战Gr",
+      "onboard_time": 1767430104,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 122469,
       "num": 1094090,
       "word": "25岁姑娘去小城行医一待56年",
@@ -705,6 +769,14 @@
       "onboard_time": 1767428845,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 120969,
+      "num": 557159,
+      "word": "清融夜色海风造型",
+      "onboard_time": 1767431004,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 119935,
@@ -739,12 +811,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 113547,
-      "num": 774030,
-      "word": "MRC对战Gr",
-      "onboard_time": 1767430104,
-      "rank": 17,
-      "category": "电竞"
+      "raw_hot": 113523,
+      "num": 557344,
+      "word": "美人心计vs玉茗茶骨",
+      "onboard_time": 1767431725,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 112553,
@@ -881,6 +953,14 @@
       "onboard_time": 1767429628,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99716,
+      "num": 557268,
+      "word": "老板承诺每人奖一台车不该被绑架",
+      "onboard_time": 1767431664,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99456,
@@ -1123,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75219,
+      "num": 573121,
+      "word": "期待郑钦文2026年首秀",
+      "onboard_time": 1767432144,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74729,
       "num": 832206,
       "word": "詹姆斯东契奇碰头杀",
@@ -1177,6 +1265,14 @@
       "onboard_time": 1767422485,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 71553,
+      "num": 557004,
+      "word": "美军为何突然袭击委内瑞拉",
+      "onboard_time": 1767432264,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 71228,
@@ -1243,6 +1339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67241,
+      "num": 556885,
+      "word": "把嗓子夹冒烟的小小猫",
+      "onboard_time": 1767432264,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 66966,
       "num": 1031681,
       "word": "可以再听一遍反方向的钟吗",
@@ -1257,6 +1361,14 @@
       "onboard_time": 1767410848,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65758,
+      "num": 556838,
+      "word": "上班第一天就做出了焦糖蛋挞",
+      "onboard_time": 1767431604,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 65482,
@@ -1283,6 +1395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65114,
+      "num": 556782,
+      "word": "委内瑞拉国防部遭轰炸",
+      "onboard_time": 1767430226,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 64644,
       "num": 967797,
       "word": "贝雷帽发型",
@@ -1297,6 +1417,14 @@
       "onboard_time": 1767399383,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64292,
+      "num": 737983,
+      "word": "委内瑞拉正遭受导弹轰炸",
+      "onboard_time": 1767427285,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 63927,
@@ -1451,6 +1579,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 56577,
+      "num": 556658,
+      "word": "这蛋糕师是有点素描功底的",
+      "onboard_time": 1767432505,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 56425,
       "num": 730115,
       "word": "起猛了做儿子都有教程了",
@@ -1563,14 +1699,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 52489,
-      "num": 737983,
-      "word": "委内瑞拉正遭受导弹轰炸",
-      "onboard_time": 1767427285,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 52349,
       "num": 651032,
       "word": "这才叫直播间的家人们",
@@ -1649,6 +1777,14 @@
       "onboard_time": 1767425905,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 49452,
+      "num": 565532,
+      "word": "美或对委内瑞拉发起第二轮袭击",
+      "onboard_time": 1767431544,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 49333,
@@ -1841,6 +1977,14 @@
       "onboard_time": 1767402688,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 36199,
+      "num": 694326,
+      "word": "小寒大寒哪个更冷",
+      "onboard_time": 1767431544,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35802,
@@ -2100,6 +2244,9 @@
     },
     {
       "word": "#总书记带领我们乘势而上#"
+    },
+    {
+      "word": "#枝叶总关情的含义#"
     }
   ]
 }
