@@ -1,0 +1,410 @@
+{
+  "runTime": 1767437126317,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 584264,
+        "num": 1093482,
+        "word": "超级月亮",
+        "onboard_time": 1767434666,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377712,
+        "num": 810610,
+        "word": "老板承诺每人奖一台车不该被绑架",
+        "onboard_time": 1767431664,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41013,
+        "num": 638696,
+        "word": "小寒大寒哪个更冷",
+        "onboard_time": 1767431544,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413754,
+        "num": 629663,
+        "word": "骄阳似我",
+        "onboard_time": 1767435085,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211797,
+        "num": 627789,
+        "word": "零下30多度男子开窗冷空气瞬间现形",
+        "onboard_time": 1767428364,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8096565,
+        "num": 8096565,
+        "word": "特朗普称已抓获委内瑞拉总统",
+        "onboard_time": 1767432625,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233317,
+        "num": 603345,
+        "word": "男女主官宣完男二才追",
+        "onboard_time": 1767429144,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187839,
+        "num": 595030,
+        "word": "车厘子",
+        "onboard_time": 1767413068,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 157771,
+        "num": 588101,
+        "word": "kpl王者荣耀巅峰之夜",
+        "onboard_time": 1767434187,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132861,
+        "num": 577721,
+        "word": "当年的男神现在叫我奶奶",
+        "onboard_time": 1767431305,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1567600,
+        "num": 566209,
+        "word": "委内瑞拉",
+        "onboard_time": 1767426205,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 254147,
+        "num": 554856,
+        "word": "MRC对战Gr",
+        "onboard_time": 1767430104,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 976258,
+        "num": 551663,
+        "word": "特朗普下令打击委内瑞拉境内目标",
+        "onboard_time": 1767426805,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 240392,
+        "num": 537353,
+        "word": "威廉王子夫妇年薪3090万美元",
+        "onboard_time": 1767430885,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 902251,
+        "num": 535822,
+        "word": "马杜罗系被美军三角洲特种部队抓获",
+        "onboard_time": 1767434784,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141093,
+        "num": 524275,
+        "word": "俄罗斯发动大规模报复性打击",
+        "onboard_time": 1767420686,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 517176,
+        "num": 517176,
+        "word": "美军为何突然袭击委内瑞拉",
+        "onboard_time": 1767432264,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136705,
+        "num": 511082,
+        "word": "IG对战JDG",
+        "onboard_time": 1767435986,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99199,
+        "num": 509357,
+        "word": "太二卖不动酸菜鱼了",
+        "onboard_time": 1767410187,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50593,
+        "num": 508254,
+        "word": "俄罗斯公布20名日本战犯名单",
+        "onboard_time": 1767436046,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 507645,
+        "num": 507645,
+        "word": "委内瑞拉怎么了",
+        "onboard_time": 1767424705,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 295775,
+        "num": 449112,
+        "word": "檀健次我们好像太暧昧了",
+        "onboard_time": 1767420926,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 432454,
+        "num": 432454,
+        "word": "白宫将就军事打击委内瑞拉发声明",
+        "onboard_time": 1767431544,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 293379,
+        "num": 420713,
+        "word": "我的cp只是分手了不是不爱了",
+        "onboard_time": 1767435326,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 415224,
+        "num": 415224,
+        "word": "委总统下令立即武装斗争",
+        "onboard_time": 1767432566,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 290397,
+        "num": 406704,
+        "word": "爱吃橘子的人天塌了",
+        "onboard_time": 1767428064,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 399106,
+        "num": 399106,
+        "word": "美议员称马杜罗将在美国接受审判",
+        "onboard_time": 1767437066,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185903,
+        "num": 399040,
+        "word": "身体最不抗冻的5个部位",
+        "onboard_time": 1767431244,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88040,
+        "num": 398895,
+        "word": "永州市足球协会声明",
+        "onboard_time": 1767434127,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55790,
+        "num": 398863,
+        "word": "黑龙江一景区现3米高冰封鱼墙",
+        "onboard_time": 1767435925,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203367,
+        "num": 398668,
+        "word": "委内瑞拉将向联合国提出控诉",
+        "onboard_time": 1767434006,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185025,
+        "num": 398602,
+        "word": "十个勤天新春见面会官宣",
+        "onboard_time": 1767436765,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198649,
+        "num": 398497,
+        "word": "委政府不知马杜罗及其夫人现在何处",
+        "onboard_time": 1767436287,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158603,
+        "num": 398429,
+        "word": "车厘子J是啥意思",
+        "onboard_time": 1767425606,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 181997,
+        "num": 398277,
+        "word": "马杜罗曾与特朗普通话10分钟",
+        "onboard_time": 1767436046,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 143920,
+        "num": 398158,
+        "word": "生理性喜欢和心理性喜欢的区别",
+        "onboard_time": 1767426385,
+        "rank": 35,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 169187,
+        "num": 398025,
+        "word": "目击者拍摄委内瑞拉被袭现场",
+        "onboard_time": 1767435446,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135965,
+        "num": 397911,
+        "word": "张凌赫新剧9号开机",
+        "onboard_time": 1767435207,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53511,
+        "num": 397808,
+        "word": "数字人民币和微信支付宝的不同",
+        "onboard_time": 1767422185,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167324,
+        "num": 397742,
+        "word": "委内瑞拉前内政部长身亡",
+        "onboard_time": 1767436646,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155265,
+        "num": 397601,
+        "word": "美军空袭委内瑞拉首都",
+        "onboard_time": 1767425186,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99741,
+        "num": 397524,
+        "word": "美人心计vs玉茗茶骨",
+        "onboard_time": 1767431725,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140984,
+        "num": 397333,
+        "word": "俄称美国袭击委内瑞拉违反国际法",
+        "onboard_time": 1767436046,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95380,
+        "num": 397277,
+        "word": "交警回应撞脸杨紫爆红",
+        "onboard_time": 1767415407,
+        "rank": 43,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 136175,
+        "num": 397195,
+        "word": "美国驻委内瑞拉大使馆公告",
+        "onboard_time": 1767432864,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72925,
+        "num": 396977,
+        "word": "肖央 幸亏是郑恺不是陈赫",
+        "onboard_time": 1767435566,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116211,
+        "num": 396918,
+        "word": "美方袭击委内瑞拉释放什么信号",
+        "onboard_time": 1767435207,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81554,
+        "num": 396812,
+        "word": "胡锡进谈瓜州汉武帝雕像争议",
+        "onboard_time": 1767434784,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114711,
+        "num": 396724,
+        "word": "伊朗警告特朗普",
+        "onboard_time": 1767432985,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50184,
+        "num": 396578,
+        "word": "五星红旗在台湾台南冉冉升起",
+        "onboard_time": 1767421285,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#枝叶总关情的含义#"
+    }
+  }
+}
