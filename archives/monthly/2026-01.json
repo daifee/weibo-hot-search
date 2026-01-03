@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767407197669,
+  "endTime": 1767411600726,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -89,6 +89,14 @@
       "onboard_time": 1767358040,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 821415,
+      "num": 1092758,
+      "word": "5个影后有4个都选了财富自由",
+      "onboard_time": 1767407007,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 814910,
@@ -227,6 +235,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 542750,
+      "num": 747161,
+      "word": "当年的老己在QQ给老自留了笔巨款",
+      "onboard_time": 1767410309,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 541764,
       "num": 1011154,
       "word": "跨年晚会主持人告别单薄礼服",
@@ -281,6 +297,14 @@
       "onboard_time": 1767317599,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 493980,
+      "num": 1093193,
+      "word": "长期戴眼镜导致的面部变化",
+      "onboard_time": 1767406949,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 488298,
@@ -425,6 +449,14 @@
       "onboard_time": 1767192568,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 397587,
+      "num": 741839,
+      "word": "车厘子其实是血糖友好型水果",
+      "onboard_time": 1767407968,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 392817,
@@ -667,6 +699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 304000,
+      "num": 752168,
+      "word": "李在明表态台湾问题",
+      "onboard_time": 1767408509,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 303851,
       "num": 2774672,
       "word": "西安多个政务大厅搬进商场",
@@ -713,6 +753,14 @@
       "onboard_time": 1767266780,
       "rank": 11,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 293304,
+      "num": 750205,
+      "word": "太二卖不动酸菜鱼了",
+      "onboard_time": 1767410187,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292957,
@@ -817,6 +865,14 @@
       "onboard_time": 1767335660,
       "rank": 31,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 268200,
+      "num": 749607,
+      "word": "温州一河面密密麻麻全是罗非鱼",
+      "onboard_time": 1767410187,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 268008,
@@ -1099,6 +1155,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209761,
+      "num": 741229,
+      "word": "伊朗面临40多年来最严峻挑战",
+      "onboard_time": 1767408206,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 209351,
+      "num": 751099,
+      "word": "你好星期六新年全员心动",
+      "onboard_time": 1767408630,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208450,
       "num": 734719,
       "word": "薛之谦周深 占有",
@@ -1128,6 +1200,14 @@
       "word": "专属天使 听哭了",
       "onboard_time": 1767196045,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 207813,
+      "num": 740407,
+      "word": "陈妍希新喜综被东北人包围了",
+      "onboard_time": 1767410549,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -1491,6 +1571,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 174921,
+      "num": 750975,
+      "word": "男生剪头发从蒙奇奇秒变男模",
+      "onboard_time": 1767410187,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174808,
       "num": 589587,
       "word": "野狗骨头",
@@ -1763,6 +1851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157283,
+      "num": 739266,
+      "word": "大爷公园捡到手表直接挂树上",
+      "onboard_time": 1767408206,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157241,
       "num": 736873,
       "word": "特朗普称美国已做好准备",
@@ -1801,6 +1897,14 @@
       "onboard_time": 1767264201,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 155018,
+      "num": 1094620,
+      "word": "丁禹兮要拍斩神",
+      "onboard_time": 1767406048,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 154128,
@@ -2065,14 +2169,6 @@
       "onboard_time": 1767188665,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 137202,
-      "num": 1094620,
-      "word": "丁禹兮要拍斩神",
-      "onboard_time": 1767406048,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 136508,
@@ -2363,6 +2459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124942,
+      "num": 1093428,
+      "word": "肖战王安宇同台出圈",
+      "onboard_time": 1767406229,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124742,
       "num": 931265,
       "word": "唐嫣郭京飞 金球天使101",
@@ -2409,6 +2513,22 @@
       "onboard_time": 1767350719,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122626,
+      "num": 744665,
+      "word": "剥茧",
+      "onboard_time": 1767245422,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 122469,
+      "num": 1094090,
+      "word": "25岁姑娘去小城行医一待56年",
+      "onboard_time": 1767404668,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121777,
@@ -2691,6 +2811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111792,
+      "num": 744212,
+      "word": "黄金白银突然猛涨",
+      "onboard_time": 1767410789,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 111526,
       "num": 557663,
       "word": "中国乒协2026新年寄语",
@@ -2721,14 +2849,6 @@
       "onboard_time": 1767253580,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109680,
-      "num": 587869,
-      "word": "剥茧",
-      "onboard_time": 1767245422,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 109586,
@@ -2777,6 +2897,14 @@
       "onboard_time": 1767406528,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106476,
+      "num": 743798,
+      "word": "你的征信可能更新了",
+      "onboard_time": 1767408029,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106374,
@@ -2905,14 +3033,6 @@
       "onboard_time": 1767344420,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 102077,
-      "num": 1093428,
-      "word": "肖战王安宇同台出圈",
-      "onboard_time": 1767406229,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 101954,
@@ -3193,14 +3313,6 @@
       "onboard_time": 1767243740,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91831,
-      "num": 1094090,
-      "word": "25岁姑娘去小城行医一待56年",
-      "onboard_time": 1767404668,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91749,
@@ -3601,6 +3713,14 @@
       "onboard_time": 1767262100,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 82429,
+      "num": 739154,
+      "word": "中国车企在欧洲卖爆了",
+      "onboard_time": 1767411388,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 82220,
@@ -4083,6 +4203,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 68861,
+      "num": 735183,
+      "word": "生病时五官的感受",
+      "onboard_time": 1767410968,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 68756,
       "num": 925080,
       "word": "天宫与神州同框的中国式浪漫",
@@ -4153,6 +4281,14 @@
       "onboard_time": 1767345860,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 66965,
+      "num": 733025,
+      "word": "南方人抗冻能力震惊东北人",
+      "onboard_time": 1767410848,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66946,
@@ -4395,6 +4531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62695,
+      "num": 751657,
+      "word": "东方美学给世界亿点点震撼",
+      "onboard_time": 1767410187,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 62675,
       "num": 380661,
       "word": "肖央演出了生理性恐惧",
@@ -4523,6 +4667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 59051,
+      "num": 731913,
+      "word": "这才是我们年轻人看得懂的物价",
+      "onboard_time": 1767411327,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 58807,
       "num": 241046,
       "word": "南方人的取暖方式",
@@ -4603,6 +4755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56911,
+      "num": 730733,
+      "word": "第一次看见两个人的牙有情侣相的",
+      "onboard_time": 1767411507,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 56907,
       "num": 1009105,
       "word": "中国一个个创新创造振奋人心",
@@ -4659,12 +4819,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 56425,
+      "num": 730115,
+      "word": "起猛了做儿子都有教程了",
+      "onboard_time": 1767409888,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 56411,
       "num": 230243,
       "word": "学生证优惠区间未盖章要补41元",
       "onboard_time": 1767333619,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56248,
+      "num": 729967,
+      "word": "人类悲欢并不相通但你可以想通",
+      "onboard_time": 1767411089,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 56177,
@@ -4689,14 +4865,6 @@
       "onboard_time": 1767331641,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 55372,
-      "num": 1093193,
-      "word": "长期戴眼镜导致的面部变化",
-      "onboard_time": 1767406949,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 54950,
@@ -4835,6 +5003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51249,
+      "num": 728638,
+      "word": "一些邪修管用的小知识",
+      "onboard_time": 1767411268,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 50833,
       "num": 156466,
       "word": "你俩认得清纸巾和萝卜吗",
@@ -4843,12 +5019,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 50576,
-      "num": 1092758,
-      "word": "5个影后有4个都选了财富自由",
-      "onboard_time": 1767407007,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 50619,
+      "num": 727423,
+      "word": "内忧外患的伊朗要抗不住了",
+      "onboard_time": 1767409469,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 50398,
@@ -4953,6 +5129,14 @@
       "onboard_time": 1767399862,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48638,
+      "num": 726828,
+      "word": "小狗的叫声多少有点潦草了",
+      "onboard_time": 1767409948,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 48624,
@@ -5347,6 +5531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41429,
+      "num": 748274,
+      "word": "卡利亚里0比1AC米兰",
+      "onboard_time": 1767411568,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41171,
       "num": 1016853,
       "word": "2026年第一天",
@@ -5377,6 +5569,14 @@
       "onboard_time": 1767253401,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 40267,
+      "num": 745583,
+      "word": "雷霆vs勇士",
+      "onboard_time": 1767409469,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 40223,
@@ -6062,6 +6262,9 @@
     },
     {
       "word": "#2026为梦想奋斗为幸福打拼#"
+    },
+    {
+      "word": "#总书记带领我们乘势而上#"
     }
   ]
 }
