@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767433372818,
+  "endTime": 1767436175361,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -11,8 +11,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 6462237,
-      "num": 6462237,
+      "raw_hot": 13350510,
+      "num": 13350510,
       "word": "特朗普称已抓获委内瑞拉总统",
       "onboard_time": 1767432625,
       "rank": 0,
@@ -51,7 +51,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1785801,
+      "raw_hot": 1826344,
       "num": 1785801,
       "word": "委内瑞拉",
       "onboard_time": 1767426205,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 748222,
+      "num": 604561,
+      "word": "马杜罗系被美军三角洲特种部队抓获",
+      "onboard_time": 1767434784,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 744779,
       "num": 981643,
       "word": "张杰歌迷会 愿我们莫忘来时路",
@@ -233,6 +241,14 @@
       "onboard_time": 1767402928,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 601729,
+      "num": 1774206,
+      "word": "委内瑞拉怎么了",
+      "onboard_time": 1767424705,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 599176,
@@ -307,12 +323,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 540814,
+      "num": 1086530,
+      "word": "超级月亮",
+      "onboard_time": 1767434666,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 534844,
       "num": 1004508,
       "word": "瑞士滑雪胜地爆炸多人死伤",
       "onboard_time": 1767253940,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 529697,
+      "num": 1781415,
+      "word": "白宫将就军事打击委内瑞拉发声明",
+      "onboard_time": 1767431544,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 526876,
+      "num": 1710743,
+      "word": "美军为何突然袭击委内瑞拉",
+      "onboard_time": 1767432264,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 517469,
@@ -393,14 +433,6 @@
       "onboard_time": 1767311777,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 471925,
-      "num": 1781415,
-      "word": "白宫将就军事打击委内瑞拉发声明",
-      "onboard_time": 1767431544,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 471559,
@@ -507,6 +539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 416307,
+      "num": 1727011,
+      "word": "委总统下令立即武装斗争",
+      "onboard_time": 1767432566,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 413045,
       "num": 413045,
       "word": "尚公主",
@@ -593,14 +633,6 @@
       "onboard_time": 1767368908,
       "rank": 20,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 382463,
-      "num": 1774206,
-      "word": "委内瑞拉怎么了",
-      "onboard_time": 1767424705,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 379921,
@@ -833,6 +865,14 @@
       "onboard_time": 1767327980,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 311826,
+      "num": 1790908,
+      "word": "老板承诺每人奖一台车不该被绑架",
+      "onboard_time": 1767431664,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 310239,
@@ -1163,6 +1203,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 249988,
+      "num": 1782078,
+      "word": "威廉王子夫妇年薪3090万美元",
+      "onboard_time": 1767430885,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 248862,
+      "num": 4635254,
+      "word": "零下30多度男子开窗冷空气瞬间现形",
+      "onboard_time": 1767428364,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 247621,
       "num": 1005141,
       "word": "2026年生娃基本不花钱",
@@ -1315,14 +1371,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 215042,
-      "num": 4635254,
-      "word": "零下30多度男子开窗冷空气瞬间现形",
-      "onboard_time": 1767428364,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 214873,
       "num": 1027483,
       "word": "骄阳似我年度计划复盘会",
@@ -1369,6 +1417,14 @@
       "onboard_time": 1767329781,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210851,
+      "num": 524214,
+      "word": "委内瑞拉将向联合国提出控诉",
+      "onboard_time": 1767434006,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 209761,
@@ -1531,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196326,
+      "num": 525634,
+      "word": "我的cp只是分手了不是不爱了",
+      "onboard_time": 1767435326,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196264,
       "num": 747414,
       "word": "切尔西官宣马雷斯卡下课",
@@ -1627,12 +1691,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 189406,
+      "num": 1735592,
+      "word": "身体最不抗冻的5个部位",
+      "onboard_time": 1767431244,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 189064,
       "num": 1396530,
       "word": "马年",
       "onboard_time": 1767198386,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188383,
+      "num": 523617,
+      "word": "目击者拍摄委内瑞拉被袭现场",
+      "onboard_time": 1767435446,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 187781,
@@ -1907,14 +1987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171146,
-      "num": 1782078,
-      "word": "威廉王子夫妇年薪3090万美元",
-      "onboard_time": 1767430885,
-      "rank": 13,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 170485,
       "num": 1030286,
       "word": "郭芙蓉欠的48两银子值多少钱",
@@ -1929,6 +2001,14 @@
       "onboard_time": 1767367101,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170332,
+      "num": 525112,
+      "word": "美国驻委内瑞拉大使馆公告",
+      "onboard_time": 1767432864,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 170256,
@@ -2155,12 +2235,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159857,
-      "num": 1735592,
-      "word": "身体最不抗冻的5个部位",
-      "onboard_time": 1767431244,
-      "rank": 27,
-      "category": "健康医疗"
+      "raw_hot": 159868,
+      "num": 522646,
+      "word": "俄称美国袭击委内瑞拉违反国际法",
+      "onboard_time": 1767436046,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 159430,
@@ -2243,6 +2323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 155911,
+      "num": 523974,
+      "word": "张凌赫新剧9号开机",
+      "onboard_time": 1767435207,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155801,
       "num": 1004955,
       "word": "装完你的装你的",
@@ -2313,94 +2401,6 @@
       "onboard_time": 1767331759,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151916,
-      "num": 286960,
-      "word": "原神前瞻",
-      "onboard_time": 1767334819,
-      "rank": 15,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 151399,
-      "num": 1021925,
-      "word": "曝AL与BLG打响电竞春晚",
-      "onboard_time": 1767414567,
-      "rank": 13,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 150576,
-      "num": 185415,
-      "word": "心有林曦初吻",
-      "onboard_time": 1767341299,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 150106,
-      "num": 521915,
-      "word": "周冠宇方回应离开法拉利",
-      "onboard_time": 1767344180,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 149987,
-      "num": 1003751,
-      "word": "这是国产剧能有的尺度吗",
-      "onboard_time": 1767424045,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 149958,
-      "num": 486388,
-      "word": "原来Safari才是iPhone隐藏的资源大户",
-      "onboard_time": 1767318021,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 149855,
-      "num": 1029340,
-      "word": "京城大师赛",
-      "onboard_time": 1767352280,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 148560,
-      "num": 533680,
-      "word": "个人缴纳社保你会交多少年",
-      "onboard_time": 1767342200,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 148313,
-      "num": 1002131,
-      "word": "九集了没见谁吃上一口饭",
-      "onboard_time": 1767252081,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 147842,
-      "num": 1790908,
-      "word": "老板承诺每人奖一台车不该被绑架",
-      "onboard_time": 1767431664,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 147505,
-      "num": 318415,
-      "word": "i茅台每人每日最多可购12瓶",
-      "onboard_time": 1767223996,
-      "rank": 23,
-      "category": "财经"
     }
   ],
   "hotgov_list": [
