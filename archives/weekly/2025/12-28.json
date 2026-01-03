@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767445668861,
+  "endTime": 1767447319685,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -489,6 +489,14 @@
       "onboard_time": 1767434784,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 900304,
+      "num": 578877,
+      "word": "白鹿圈内人脉",
+      "onboard_time": 1767445826,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 895402,
@@ -5099,6 +5107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 209635,
+      "num": 844347,
+      "word": "委内瑞拉首都街头几乎空无一人",
+      "onboard_time": 1767444805,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 209379,
       "num": 209379,
       "word": "和平精英",
@@ -5539,6 +5555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 196640,
+      "num": 635609,
+      "word": "心有林曦 舅舅出品",
+      "onboard_time": 1767445406,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196582,
       "num": 225190,
       "word": "生命树",
@@ -5945,6 +5969,14 @@
       "onboard_time": 1767067402,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188286,
+      "num": 578121,
+      "word": "适龄男性公民都应进行兵役登记",
+      "onboard_time": 1767445765,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188252,
@@ -6971,6 +7003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167287,
+      "num": 845601,
+      "word": "多国强烈谴责美突袭委抓获马杜罗",
+      "onboard_time": 1767440366,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 167280,
       "num": 167280,
       "word": "周深 2025你快结束吧",
@@ -6985,14 +7025,6 @@
       "onboard_time": 1767360202,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 167208,
-      "num": 635609,
-      "word": "心有林曦 舅舅出品",
-      "onboard_time": 1767445406,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 167147,
@@ -7649,14 +7681,6 @@
       "onboard_time": 1767343940,
       "rank": 21,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 155990,
-      "num": 845601,
-      "word": "多国强烈谴责美突袭委抓获马杜罗",
-      "onboard_time": 1767440366,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 155919,
@@ -8425,6 +8449,14 @@
       "onboard_time": 1767261859,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 142360,
+      "num": 577434,
+      "word": "一诺连续三年获KPL最受欢迎选手",
+      "onboard_time": 1767446847,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 142207,
@@ -9475,6 +9507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129123,
+      "num": 841446,
+      "word": "骄阳似我26集结尾",
+      "onboard_time": 1767444566,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129122,
       "num": 129122,
       "word": "她选择了在老板最脆弱的时候报复他",
@@ -9577,6 +9617,14 @@
       "onboard_time": 1767070643,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128104,
+      "num": 753070,
+      "word": "92年姨父成12岁女孩第二个爸爸",
+      "onboard_time": 1767445105,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128037,
@@ -10027,6 +10075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123808,
+      "num": 574930,
+      "word": "委内瑞拉内政部长呼吁民众冷静",
+      "onboard_time": 1767444506,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 123784,
       "num": 123784,
       "word": "Desire4国风音乐会录制现场",
@@ -10171,6 +10227,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122337,
+      "num": 576033,
+      "word": "李昀锐住上了豪华大床房",
+      "onboard_time": 1767446725,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 122327,
+      "num": 574764,
+      "word": "赵今麦60秒情绪爆发戏",
+      "onboard_time": 1767446426,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122326,
       "num": 183146,
       "word": "豪华真旗舰就选问界M9",
@@ -10209,14 +10281,6 @@
       "onboard_time": 1766985321,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 121824,
-      "num": 841446,
-      "word": "骄阳似我26集结尾",
-      "onboard_time": 1767444566,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 121777,
@@ -10497,6 +10561,14 @@
       "onboard_time": 1767109520,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 119804,
+      "num": 574607,
+      "word": "特朗普称行动细节将陆续公布",
+      "onboard_time": 1767446667,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 119678,
@@ -10977,6 +11049,14 @@
       "onboard_time": 1767085221,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 114940,
+      "num": 740899,
+      "word": "小猫上半身基础下半身就不基础",
+      "onboard_time": 1767445765,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 114885,
@@ -11755,14 +11835,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 108026,
-      "num": 635700,
-      "word": "92年姨父成12岁女孩第二个爸爸",
-      "onboard_time": 1767445105,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 108002,
       "num": 963111,
       "word": "新华社评罚罪2",
@@ -12065,6 +12137,14 @@
       "onboard_time": 1766911339,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 105233,
+      "num": 576380,
+      "word": "当学生在外面遇到自己的老师",
+      "onboard_time": 1767447207,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 105219,
@@ -14355,6 +14435,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 88888,
+      "num": 574037,
+      "word": "雷军公开小米汽车年交付量",
+      "onboard_time": 1767447266,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 88770,
       "num": 88770,
       "word": "孙颖莎王楚钦新年壁纸",
@@ -15177,6 +15265,14 @@
       "onboard_time": 1766886022,
       "rank": 47,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 83778,
+      "num": 575341,
+      "word": "美国36年前的今天也抓过拉美总统",
+      "onboard_time": 1767446006,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 83740,
@@ -17523,6 +17619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 63144,
+      "num": 578312,
+      "word": "美曾对委极限施压未果",
+      "onboard_time": 1767445886,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 63048,
       "num": 378919,
       "word": "渐冻症女孩重生兼职赚生活费",
@@ -18883,14 +18987,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 49893,
-      "num": 844347,
-      "word": "委内瑞拉首都街头几乎空无一人",
-      "onboard_time": 1767444805,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 49850,
       "num": 402362,
       "word": "假期请给大学生生活费",
@@ -19353,6 +19449,14 @@
       "onboard_time": 1767256460,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46330,
+      "num": 576996,
+      "word": "委要求使美政府为侵略罪行负责",
+      "onboard_time": 1767447207,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 46289,
@@ -21619,6 +21723,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 22861,
+      "num": 840306,
+      "word": "2026年首个超级月亮",
+      "onboard_time": 1767418827,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22748,
       "num": 156825,
       "word": "始终会陪我跨年的竟是特仑苏",
@@ -21889,14 +22001,6 @@
       "onboard_time": 1767323780,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 19776,
-      "num": 840306,
-      "word": "2026年首个超级月亮",
-      "onboard_time": 1767418827,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19600,
