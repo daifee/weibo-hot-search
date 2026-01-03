@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/04 05:25:57
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/04 05:40:34
 </p>
 </blockquote>
 <p>
@@ -885,6 +885,12 @@ WB对战RW（热度：355689）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%8D%A0%E9%A2%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%23" target="weibo">
+特朗普称将占领管理委内瑞拉（热度：288625）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E9%99%84%E8%BF%91%E6%8A%AB%E8%90%A8%E8%AE%A2%E5%8D%95%E9%87%8F%E5%8F%88%E5%8D%87%E9%AB%98%E4%BA%86%23" target="weibo">
 五角大楼附近披萨订单量又升高了（热度：288384）
 </a>
@@ -905,12 +911,6 @@ WB对战RW（热度：355689）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E6%98%8E%E8%A2%9C%E5%AD%90%E6%8B%BC%E8%B1%86%E7%9A%84%E4%BA%BA%E7%AE%80%E7%9B%B4%E6%98%AF%E5%A4%A9%E6%89%8D%23" target="weibo">
 发明袜子拼豆的人简直是天才（热度：282019）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%8D%A0%E9%A2%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%23" target="weibo">
-特朗普称将占领管理委内瑞拉（热度：280934）
 </a>
 </li>
 

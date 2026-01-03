@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767475557624,
+  "endTime": 1767476434507,
   "band_list": [
     {
       "raw_hot": 1541881,
@@ -83,8 +83,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 280934,
-      "num": 212642,
+      "raw_hot": 288625,
+      "num": 288625,
       "word": "特朗普称将占领管理委内瑞拉",
       "onboard_time": 1767463877,
       "rank": 4,
@@ -563,12 +563,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21139,
+      "raw_hot": 21244,
       "num": 415350,
       "word": "2026第一个工作日",
       "onboard_time": 1767454763,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19087,
+      "num": 65448,
+      "word": "美袭击委内瑞拉当地华人发声",
+      "onboard_time": 1767468616,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 18863,
@@ -577,14 +585,6 @@
       "onboard_time": 1767466155,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 18628,
-      "num": 65448,
-      "word": "美袭击委内瑞拉当地华人发声",
-      "onboard_time": 1767468616,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 16205,
@@ -604,7 +604,7 @@
     },
     {
       "raw_hot": 8927,
-      "num": 105460,
+      "num": 128779,
       "word": "2026开年图景",
       "onboard_time": 1767450026,
       "rank": 2,
