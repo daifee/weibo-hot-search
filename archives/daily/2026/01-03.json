@@ -1,6 +1,6 @@
 {
   "startTime": 1767371718188,
-  "endTime": 1767440355557,
+  "endTime": 1767444843485,
   "band_list": [
     {
       "raw_hot": 13350510,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 902251,
-      "num": 800536,
+      "num": 852081,
       "word": "马杜罗系被美军三角洲特种部队抓获",
       "onboard_time": 1767434784,
       "rank": 14,
@@ -89,6 +89,14 @@
       "onboard_time": 1767418106,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 709750,
+      "num": 859419,
+      "word": "疑似马杜罗被美抓获照曝光",
+      "onboard_time": 1767440726,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 607813,
@@ -139,6 +147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 506280,
+      "num": 857766,
+      "word": "马杜罗及其夫人已在美国被起诉",
+      "onboard_time": 1767443786,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 495862,
       "num": 2988452,
       "word": "男女主官宣完男二才追",
@@ -155,12 +171,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 474825,
+      "num": 1075972,
+      "word": "92年小伙看到12岁养女作文后泪崩",
+      "onboard_time": 1767440366,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 470708,
-      "num": 631244,
+      "num": 852620,
       "word": "骄阳似我",
       "onboard_time": 1767349460,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 462799,
+      "num": 856743,
+      "word": "委内瑞拉副总统发表讲话",
+      "onboard_time": 1767439286,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 459140,
@@ -233,14 +265,6 @@
       "onboard_time": 1767438026,
       "rank": 4,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 405198,
-      "num": 424433,
-      "word": "委内瑞拉副总统发表讲话",
-      "onboard_time": 1767439286,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 397587,
@@ -468,7 +492,7 @@
     },
     {
       "raw_hot": 230979,
-      "num": 423388,
+      "num": 850105,
       "word": "三角洲",
       "onboard_time": 1767437965,
       "rank": 35,
@@ -611,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190705,
+      "num": 860004,
+      "word": "天云发言",
+      "onboard_time": 1767442826,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190197,
       "num": 1701676,
       "word": "大帅黑皮肤就得穿白色",
@@ -651,6 +683,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 184907,
+      "num": 858763,
+      "word": "MRC夺冠",
+      "onboard_time": 1767440665,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 183651,
+      "num": 1001582,
+      "word": "奔跑吧",
+      "onboard_time": 1767442585,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181997,
       "num": 519719,
       "word": "马杜罗曾与特朗普通话10分钟",
@@ -665,6 +713,14 @@
       "onboard_time": 1767428124,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 177743,
+      "num": 857526,
+      "word": "iG夺得德杯冠军",
+      "onboard_time": 1767441685,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 177564,
@@ -755,6 +811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 158538,
+      "num": 918354,
+      "word": "骄阳似我 纯爱",
+      "onboard_time": 1767440905,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157771,
       "num": 1022360,
       "word": "kpl王者荣耀巅峰之夜",
@@ -787,12 +851,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157082,
+      "num": 902712,
+      "word": "罚罪",
+      "onboard_time": 1767443547,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156147,
       "num": 1020852,
       "word": "第一次看见两个人的牙有情侣相的",
       "onboard_time": 1767411507,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155990,
+      "num": 845601,
+      "word": "多国强烈谴责美突袭委抓获马杜罗",
+      "onboard_time": 1767440366,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 155911,
@@ -923,6 +1003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 138942,
+      "num": 851533,
+      "word": "内蒙古一兔狲被大狗咬伤后死亡",
+      "onboard_time": 1767440787,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138852,
       "num": 355508,
       "word": "TF四代荣耀练习室",
@@ -961,6 +1049,14 @@
       "onboard_time": 1767411032,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132023,
+      "num": 849654,
+      "word": "王源 内娱初代偶像的含金量",
+      "onboard_time": 1767442104,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 130939,
@@ -1051,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126297,
+      "num": 843459,
+      "word": "美国为何选择此刻对委内瑞拉动武",
+      "onboard_time": 1767441746,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 125832,
       "num": 353168,
       "word": "王一博被赞完全不一样了",
@@ -1065,6 +1169,14 @@
       "onboard_time": 1767406229,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124278,
+      "num": 848768,
+      "word": "骄阳似我太甜了",
+      "onboard_time": 1767440066,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 124211,
@@ -1107,6 +1219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120838,
+      "num": 843820,
+      "word": "李昀锐谢谢老己",
+      "onboard_time": 1767444325,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119603,
       "num": 543488,
       "word": "上海春考",
@@ -1123,6 +1243,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116968,
+      "num": 861880,
+      "word": "小猫犯错掩盖证据",
+      "onboard_time": 1767442285,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 115751,
+      "num": 842941,
+      "word": "一诺老艺术家从不令人失望",
+      "onboard_time": 1767441385,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 115380,
+      "num": 842349,
+      "word": "偷偷准备恋爱十周年惊喜",
+      "onboard_time": 1767443126,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113701,
       "num": 835065,
       "word": "委内瑞拉强烈谴责美国军事侵略",
@@ -1137,6 +1281,14 @@
       "onboard_time": 1767431725,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112964,
+      "num": 845094,
+      "word": "卡梦道歉",
+      "onboard_time": 1767442104,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 112553,
@@ -1259,6 +1411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104423,
+      "num": 841905,
+      "word": "心疼年锦",
+      "onboard_time": 1767440546,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 103956,
       "num": 1036175,
       "word": "这才是一个人顶级魅力的体现",
@@ -1281,6 +1441,14 @@
       "onboard_time": 1767421466,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 103254,
+      "num": 841446,
+      "word": "骄阳似我26集结尾",
+      "onboard_time": 1767444566,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 102641,
@@ -1427,6 +1595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90699,
+      "num": 853348,
+      "word": "在委内瑞拉中企人员暂无伤亡",
+      "onboard_time": 1767444686,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 90470,
       "num": 420464,
       "word": "五角大楼披萨订单又升高了",
@@ -1480,14 +1656,6 @@
       "word": "谁家大结局乱成一锅粥了",
       "onboard_time": 1767416066,
       "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 83562,
-      "num": 409278,
-      "word": "骄阳似我太甜了",
-      "onboard_time": 1767440066,
-      "rank": 9,
       "category": "剧集"
     },
     {
@@ -1891,6 +2059,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 61384,
+      "num": 858384,
+      "word": "小米直播拆车的硬核底气",
+      "onboard_time": 1767444206,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 60780,
       "num": 1697841,
       "word": "美或对委内瑞拉发起第二轮袭击",
@@ -2121,6 +2297,14 @@
       "onboard_time": 1767407007,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52079,
+      "num": 845836,
+      "word": "三角洲特种部队是什么",
+      "onboard_time": 1767444746,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 52036,
@@ -2467,6 +2651,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 30455,
+      "num": 847406,
+      "word": "美国袭击未对委石油设施造成损害",
+      "onboard_time": 1767442826,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 29695,
       "num": 1092223,
       "word": "嫦娥七号计划2026年发射",
@@ -2603,6 +2795,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 21815,
+      "num": 840800,
+      "word": "承诺送车企业面临暂时性困难",
+      "onboard_time": 1767434606,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21775,
       "num": 586898,
       "word": "爱具体的人过具体的生活",
@@ -2619,12 +2819,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21296,
-      "num": 350351,
-      "word": "承诺送车企业面临暂时性困难",
-      "onboard_time": 1767434606,
+      "raw_hot": 19776,
+      "num": 840306,
+      "word": "2026年首个超级月亮",
+      "onboard_time": 1767418827,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18615,
+      "num": 844347,
+      "word": "委内瑞拉首都街头几乎空无一人",
+      "onboard_time": 1767444805,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17365,

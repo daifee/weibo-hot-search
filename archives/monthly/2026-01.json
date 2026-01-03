@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767440355557,
+  "endTime": 1767444843485,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 902251,
-      "num": 800536,
+      "num": 852081,
       "word": "马杜罗系被美军三角洲特种部队抓获",
       "onboard_time": 1767434784,
       "rank": 14,
@@ -209,6 +209,14 @@
       "onboard_time": 1767355581,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 709750,
+      "num": 859419,
+      "word": "疑似马杜罗被美抓获照曝光",
+      "onboard_time": 1767440726,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 686111,
@@ -403,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 506280,
+      "num": 857766,
+      "word": "马杜罗及其夫人已在美国被起诉",
+      "onboard_time": 1767443786,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 506183,
       "num": 452981,
       "word": "袁祥仁去世",
@@ -451,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 474825,
+      "num": 1075972,
+      "word": "92年小伙看到12岁养女作文后泪崩",
+      "onboard_time": 1767440366,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 471559,
       "num": 516882,
       "word": "洛阳博物馆被曝一唐代陶马倒下断裂",
@@ -473,6 +497,14 @@
       "onboard_time": 1767198625,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 462799,
+      "num": 856743,
+      "word": "委内瑞拉副总统发表讲话",
+      "onboard_time": 1767439286,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 461243,
@@ -593,14 +625,6 @@
       "onboard_time": 1767266602,
       "rank": 37,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 405198,
-      "num": 424433,
-      "word": "委内瑞拉副总统发表讲话",
-      "onboard_time": 1767439286,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 405001,
@@ -1332,7 +1356,7 @@
     },
     {
       "raw_hot": 230979,
-      "num": 423388,
+      "num": 850105,
       "word": "三角洲",
       "onboard_time": 1767437965,
       "rank": 35,
@@ -1739,6 +1763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190705,
+      "num": 860004,
+      "word": "天云发言",
+      "onboard_time": 1767442826,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190477,
       "num": 872874,
       "word": "闫妮廿年弹指一挥间",
@@ -1875,6 +1907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 184907,
+      "num": 858763,
+      "word": "MRC夺冠",
+      "onboard_time": 1767440665,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184652,
       "num": 916189,
       "word": "小俞",
@@ -1905,6 +1945,14 @@
       "onboard_time": 1767270862,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183651,
+      "num": 1001582,
+      "word": "奔跑吧",
+      "onboard_time": 1767442585,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 183568,
@@ -1993,6 +2041,14 @@
       "onboard_time": 1767428124,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 177743,
+      "num": 857526,
+      "word": "iG夺得德杯冠军",
+      "onboard_time": 1767441685,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 177477,
@@ -2355,6 +2411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158538,
+      "num": 918354,
+      "word": "骄阳似我 纯爱",
+      "onboard_time": 1767440905,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157771,
       "num": 1022360,
       "word": "kpl王者荣耀巅峰之夜",
@@ -2395,6 +2459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 157082,
+      "num": 902712,
+      "word": "罚罪",
+      "onboard_time": 1767443547,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156743,
       "num": 159702,
       "word": "日本东京全球人口排名下跌",
@@ -2425,6 +2497,14 @@
       "onboard_time": 1767343940,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 155990,
+      "num": 845601,
+      "word": "多国强烈谴责美突袭委抓获马杜罗",
+      "onboard_time": 1767440366,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 155911,
@@ -2811,6 +2891,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 138942,
+      "num": 851533,
+      "word": "内蒙古一兔狲被大狗咬伤后死亡",
+      "onboard_time": 1767440787,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138852,
       "num": 355508,
       "word": "TF四代荣耀练习室",
@@ -2961,6 +3049,14 @@
       "onboard_time": 1767251300,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132023,
+      "num": 849654,
+      "word": "王源 内娱初代偶像的含金量",
+      "onboard_time": 1767442104,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 131293,
@@ -3171,6 +3267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126297,
+      "num": 843459,
+      "word": "美国为何选择此刻对委内瑞拉动武",
+      "onboard_time": 1767441746,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 125832,
       "num": 353168,
       "word": "王一博被赞完全不一样了",
@@ -3216,6 +3320,14 @@
       "word": "唐嫣郭京飞 金球天使101",
       "onboard_time": 1767270862,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 124278,
+      "num": 848768,
+      "word": "骄阳似我太甜了",
+      "onboard_time": 1767440066,
+      "rank": 9,
       "category": "剧集"
     },
     {
@@ -3347,6 +3459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120838,
+      "num": 843820,
+      "word": "李昀锐谢谢老己",
+      "onboard_time": 1767444325,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120647,
       "num": 880737,
       "word": "樊振东新外号叫做Funny",
@@ -3443,6 +3563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116968,
+      "num": 861880,
+      "word": "小猫犯错掩盖证据",
+      "onboard_time": 1767442285,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116773,
       "num": 523154,
       "word": "汪苏泷快把歌手2026首发凑齐了",
@@ -3472,6 +3600,22 @@
       "word": "不敢让孩子玩户外充气城堡了",
       "onboard_time": 1767223758,
       "rank": 13,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 115751,
+      "num": 842941,
+      "word": "一诺老艺术家从不令人失望",
+      "onboard_time": 1767441385,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 115380,
+      "num": 842349,
+      "word": "偷偷准备恋爱十周年惊喜",
+      "onboard_time": 1767443126,
+      "rank": 45,
       "category": "情感"
     },
     {
@@ -3561,6 +3705,14 @@
       "onboard_time": 1767226880,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112964,
+      "num": 845094,
+      "word": "卡梦道歉",
+      "onboard_time": 1767442104,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 112894,
@@ -3835,6 +3987,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104423,
+      "num": 841905,
+      "word": "心疼年锦",
+      "onboard_time": 1767440546,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 103956,
       "num": 1036175,
       "word": "这才是一个人顶级魅力的体现",
@@ -3873,6 +4033,14 @@
       "onboard_time": 1767421466,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 103254,
+      "num": 841446,
+      "word": "骄阳似我26集结尾",
+      "onboard_time": 1767444566,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 102798,
@@ -4323,6 +4491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90699,
+      "num": 853348,
+      "word": "在委内瑞拉中企人员暂无伤亡",
+      "onboard_time": 1767444686,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 90470,
       "num": 420464,
       "word": "五角大楼披萨订单又升高了",
@@ -4705,14 +4881,6 @@
       "onboard_time": 1767248601,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 83562,
-      "num": 409278,
-      "word": "骄阳似我太甜了",
-      "onboard_time": 1767440066,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 83273,
@@ -5883,6 +6051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 61384,
+      "num": 858384,
+      "word": "小米直播拆车的硬核底气",
+      "onboard_time": 1767444206,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 61247,
       "num": 587831,
       "word": "和奥迪E5一起启程2026",
@@ -6369,6 +6545,14 @@
       "onboard_time": 1767407007,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52079,
+      "num": 845836,
+      "word": "三角洲特种部队是什么",
+      "onboard_time": 1767444746,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 52036,
@@ -7395,6 +7579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30455,
+      "num": 847406,
+      "word": "美国袭击未对委石油设施造成损害",
+      "onboard_time": 1767442826,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30346,
       "num": 588085,
       "word": "海南自贸港封关运行满两周",
@@ -7611,6 +7803,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 21815,
+      "num": 840800,
+      "word": "承诺送车企业面临暂时性困难",
+      "onboard_time": 1767434606,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21803,
       "num": 381557,
       "word": "武林外传开播20周年",
@@ -7649,14 +7849,6 @@
       "onboard_time": 1767256640,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21296,
-      "num": 350351,
-      "word": "承诺送车企业面临暂时性困难",
-      "onboard_time": 1767434606,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21212,
@@ -7705,6 +7897,22 @@
       "onboard_time": 1767323780,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 19776,
+      "num": 840306,
+      "word": "2026年首个超级月亮",
+      "onboard_time": 1767418827,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18615,
+      "num": 844347,
+      "word": "委内瑞拉首都街头几乎空无一人",
+      "onboard_time": 1767444805,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17365,
