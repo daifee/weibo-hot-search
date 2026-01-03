@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767469021701,
+  "endTime": 1767472258587,
   "band_list": [
     {
       "raw_hot": 1541881,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 280934,
-      "num": 140473,
+      "num": 211482,
       "word": "特朗普称将占领管理委内瑞拉",
       "onboard_time": 1767463877,
       "rank": 4,
@@ -137,6 +137,14 @@
       "onboard_time": 1767453205,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 179251,
+      "num": 179251,
+      "word": "陈泽",
+      "onboard_time": 1767472216,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 174105,
@@ -571,12 +579,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 14762,
+      "raw_hot": 18412,
       "num": 65448,
       "word": "美袭击委内瑞拉当地华人发声",
       "onboard_time": 1767468616,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15530,
+      "num": 41646,
+      "word": "奔跑吧",
+      "onboard_time": 1767442585,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 14148,
@@ -587,8 +603,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 7296,
-      "num": 79416,
+      "raw_hot": 8395,
+      "num": 105460,
       "word": "2026开年图景",
       "onboard_time": 1767450026,
       "rank": 2,
