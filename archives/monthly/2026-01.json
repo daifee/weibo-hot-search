@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767472258587,
+  "endTime": 1767473079996,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -627,6 +627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 446960,
+      "num": 446960,
+      "word": "陈泽",
+      "onboard_time": 1767472216,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 446937,
       "num": 1032896,
       "word": "阳光信用",
@@ -1188,7 +1196,7 @@
     },
     {
       "raw_hot": 280934,
-      "num": 211482,
+      "num": 211582,
       "word": "特朗普称将占领管理委内瑞拉",
       "onboard_time": 1767463877,
       "rank": 4,
@@ -2217,14 +2225,6 @@
       "onboard_time": 1767251960,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 179251,
-      "num": 179251,
-      "word": "陈泽",
-      "onboard_time": 1767472216,
-      "rank": 1,
-      "category": "电竞"
     },
     {
       "raw_hot": 178442,
@@ -8603,7 +8603,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 18412,
+      "raw_hot": 18628,
       "num": 65448,
       "word": "美袭击委内瑞拉当地华人发声",
       "onboard_time": 1767468616,

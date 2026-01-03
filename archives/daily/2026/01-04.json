@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767472258587,
+  "endTime": 1767473079996,
   "band_list": [
     {
       "raw_hot": 1541881,
@@ -33,6 +33,14 @@
       "onboard_time": 1767451405,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 446960,
+      "num": 446960,
+      "word": "陈泽",
+      "onboard_time": 1767472216,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 426880,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 280934,
-      "num": 211482,
+      "num": 211582,
       "word": "特朗普称将占领管理委内瑞拉",
       "onboard_time": 1767463877,
       "rank": 4,
@@ -137,14 +145,6 @@
       "onboard_time": 1767453205,
       "rank": 4,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 179251,
-      "num": 179251,
-      "word": "陈泽",
-      "onboard_time": 1767472216,
-      "rank": 1,
-      "category": "电竞"
     },
     {
       "raw_hot": 174105,
@@ -579,7 +579,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 18412,
+      "raw_hot": 18628,
       "num": 65448,
       "word": "美袭击委内瑞拉当地华人发声",
       "onboard_time": 1767468616,
@@ -603,7 +603,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 8395,
+      "raw_hot": 8927,
       "num": 105460,
       "word": "2026开年图景",
       "onboard_time": 1767450026,
