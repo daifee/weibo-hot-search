@@ -1,6 +1,6 @@
 {
   "startTime": 1767371718188,
-  "endTime": 1767415172168,
+  "endTime": 1767416021827,
   "band_list": [
     {
       "raw_hot": 1049300,
@@ -115,8 +115,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 322433,
+      "num": 540460,
+      "word": "檀健次出发横店进组何不同舟渡",
+      "onboard_time": 1767414326,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 316987,
-      "num": 764907,
+      "num": 778064,
       "word": "李在明表态台湾问题",
       "onboard_time": 1767408509,
       "rank": 1,
@@ -137,6 +145,14 @@
       "onboard_time": 1767401246,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 308565,
+      "num": 517083,
+      "word": "交警回应撞脸杨紫爆红",
+      "onboard_time": 1767415407,
+      "rank": 32,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 307671,
@@ -179,14 +195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 248295,
-      "num": 540460,
-      "word": "檀健次出发横店进组何不同舟渡",
-      "onboard_time": 1767414326,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 230707,
       "num": 751099,
       "word": "你好星期六新年全员心动",
@@ -208,6 +216,14 @@
       "word": "陈妍希新喜综被东北人包围了",
       "onboard_time": 1767410549,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 206821,
+      "num": 515595,
+      "word": "王安宇小时候是正方形",
+      "onboard_time": 1767415767,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -297,6 +313,14 @@
       "onboard_time": 1767411507,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155502,
+      "num": 519537,
+      "word": "2026LPL第一赛段赛程",
+      "onboard_time": 1767415947,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 155018,
@@ -427,6 +451,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 108531,
+      "num": 542502,
+      "word": "学医的和学画画的都沉默了",
+      "onboard_time": 1767412709,
+      "rank": 17,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 108042,
       "num": 580038,
       "word": "暖阳FMVP",
@@ -435,7 +467,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 107576,
+      "raw_hot": 108002,
       "num": 541679,
       "word": "新华社评罚罪2",
       "onboard_time": 1767413368,
@@ -499,7 +531,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97875,
+      "raw_hot": 99456,
       "num": 731913,
       "word": "这才是我们年轻人看得懂的物价",
       "onboard_time": 1767411327,
@@ -539,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91073,
+      "num": 517896,
+      "word": "宝马中国回应最高降价30万",
+      "onboard_time": 1767415467,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 90811,
       "num": 1093997,
       "word": "骄阳似我落地窗吻",
@@ -547,20 +587,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 86844,
-      "num": 542502,
-      "word": "学医的和学画画的都沉默了",
-      "onboard_time": 1767412709,
-      "rank": 17,
-      "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 85237,
+      "raw_hot": 90043,
       "num": 542434,
       "word": "喜欢独处的人都是这么想的",
       "onboard_time": 1767412947,
       "rank": 18,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 89679,
+      "num": 541236,
+      "word": "宇宙闪烁请注意",
+      "onboard_time": 1767414988,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 84976,
@@ -569,14 +609,6 @@
       "onboard_time": 1767349460,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 84615,
-      "num": 541236,
-      "word": "宇宙闪烁请注意",
-      "onboard_time": 1767414988,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 83273,
@@ -593,6 +625,14 @@
       "onboard_time": 1767411388,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 82251,
+      "num": 517592,
+      "word": "南京大屠杀幸存者徐德明去世",
+      "onboard_time": 1767415526,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82189,
@@ -683,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68384,
+      "num": 516958,
+      "word": "当狗狗发现主人早上晚起了半小时",
+      "onboard_time": 1767415707,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 66965,
       "num": 733025,
       "word": "南方人抗冻能力震惊东北人",
@@ -771,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59489,
+      "num": 516727,
+      "word": "萝卜纸巾猫认亲戚版",
+      "onboard_time": 1767415947,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 58606,
       "num": 1093305,
       "word": "人怎么能说出这么有生命力的话",
@@ -793,6 +849,14 @@
       "onboard_time": 1767404668,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56962,
+      "num": 515885,
+      "word": "以为是机器人披着衣服在轮滑呢",
+      "onboard_time": 1767415347,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 56939,
@@ -849,6 +913,14 @@
       "onboard_time": 1767413008,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54646,
+      "num": 515312,
+      "word": "土耳其对华免签已生效",
+      "onboard_time": 1767415827,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 53757,
@@ -915,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51863,
+      "num": 518726,
+      "word": "多地将托育所开至产业园区",
+      "onboard_time": 1767415347,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51249,
       "num": 728638,
       "word": "一些邪修管用的小知识",
@@ -977,6 +1057,14 @@
       "onboard_time": 1767409948,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 48057,
+      "num": 542261,
+      "word": "8位渐冻症患者用药后病情好转",
+      "onboard_time": 1767414147,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47087,
@@ -1107,20 +1195,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 34773,
-      "num": 542261,
-      "word": "8位渐冻症患者用药后病情好转",
-      "onboard_time": 1767414147,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34012,
       "num": 583823,
       "word": "歌唱家紧张竟然扇自己嘴巴子",
       "onboard_time": 1767394995,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 32945,
+      "num": 539983,
+      "word": "瑞士起火酒吧10年仅3次消防检查",
+      "onboard_time": 1767414988,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 31698,
@@ -1257,14 +1345,6 @@
       "onboard_time": 1767397639,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19914,
-      "num": 539983,
-      "word": "瑞士起火酒吧10年仅3次消防检查",
-      "onboard_time": 1767414988,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 17365,

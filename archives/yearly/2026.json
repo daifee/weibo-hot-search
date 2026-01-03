@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767415172168,
+  "endTime": 1767416021827,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -643,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 322433,
+      "num": 540460,
+      "word": "檀健次出发横店进组何不同舟渡",
+      "onboard_time": 1767414326,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 319723,
       "num": 513487,
       "word": "美国脑癌大爷硬抗斩杀线",
@@ -684,7 +692,7 @@
     },
     {
       "raw_hot": 316987,
-      "num": 764907,
+      "num": 778064,
       "word": "李在明表态台湾问题",
       "onboard_time": 1767408509,
       "rank": 1,
@@ -729,6 +737,14 @@
       "onboard_time": 1767262939,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 308565,
+      "num": 517083,
+      "word": "交警回应撞脸杨紫爆红",
+      "onboard_time": 1767415407,
+      "rank": 32,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 308419,
@@ -1019,14 +1035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 248295,
-      "num": 540460,
-      "word": "檀健次出发横店进组何不同舟渡",
-      "onboard_time": 1767414326,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 247621,
       "num": 1005141,
       "word": "2026年生娃基本不花钱",
@@ -1248,6 +1256,14 @@
       "word": "陈妍希新喜综被东北人包围了",
       "onboard_time": 1767410549,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 206821,
+      "num": 515595,
+      "word": "王安宇小时候是正方形",
+      "onboard_time": 1767415767,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -1963,6 +1979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155502,
+      "num": 519537,
+      "word": "2026LPL第一赛段赛程",
+      "onboard_time": 1767415947,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 155018,
       "num": 1094620,
       "word": "丁禹兮要拍斩神",
@@ -2377,30 +2401,6 @@
       "onboard_time": 1767402446,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130902,
-      "num": 1389890,
-      "word": "2026种自己得自己",
-      "onboard_time": 1767197367,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 130668,
-      "num": 319009,
-      "word": "玉茗茶骨全员恶女长镜头",
-      "onboard_time": 1767335359,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 130444,
-      "num": 283033,
-      "word": "柯淳对表演不热爱但敬畏",
-      "onboard_time": 1767334819,
-      "rank": 30,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
