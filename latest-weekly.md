@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/04 00:34:09 ~ 2026/01/04 03:22:35
+本榜单时间：2026/01/04 00:34:09 ~ 2026/01/04 03:37:01
 </p>
 </blockquote>
 <p>
@@ -424,7 +424,7 @@ MRC夺冠（热度：40693）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%AA%E5%A5%87%E7%89%A9%E8%AF%AD%E5%A4%A7%E7%BB%93%E5%B1%80%23" target="weibo">
-怪奇物语大结局（热度：23002）
+怪奇物语大结局（热度：23253）
 </a>
 </li>
 
@@ -441,8 +441,14 @@ MRC夺冠（热度：40693）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%A2%AD%E5%87%BB%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BD%93%E5%9C%B0%E5%8D%8E%E4%BA%BA%E5%8F%91%E5%A3%B0%23" target="weibo">
+美袭击委内瑞拉当地华人发声（热度：14762）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23kpl%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%B7%85%E5%B3%B0%E4%B9%8B%E5%A4%9C%23" target="weibo">
-kpl王者荣耀巅峰之夜（热度：14049）
+kpl王者荣耀巅峰之夜（热度：14148）
 </a>
 </li>
 

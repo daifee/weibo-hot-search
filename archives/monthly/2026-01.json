@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767468155133,
+  "endTime": 1767469021701,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -8641,6 +8641,14 @@
       "onboard_time": 1767425305,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14762,
+      "num": 65448,
+      "word": "美袭击委内瑞拉当地华人发声",
+      "onboard_time": 1767468616,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14453,

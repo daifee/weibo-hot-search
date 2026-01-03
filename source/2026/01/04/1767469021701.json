@@ -1,0 +1,410 @@
+{
+  "runTime": 1767469021701,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 134823,
+        "num": 134823,
+        "word": "美国大型石油公司将前往委内瑞拉",
+        "onboard_time": 1767460877,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71362,
+        "num": 71981,
+        "word": "外交部回应美对委军事打击",
+        "onboard_time": 1767451405,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 7225,
+        "num": 71631,
+        "word": "2026开年图景",
+        "onboard_time": 1767450026,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252344,
+        "num": 71319,
+        "word": "特朗普称将占领管理委内瑞拉",
+        "onboard_time": 1767463877,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 40612,
+        "num": 70692,
+        "word": "陈立农用最天真的语气说最恐怖的话",
+        "onboard_time": 1767455723,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253409,
+        "num": 69978,
+        "word": "特朗普发布马杜罗在美国军舰上照片",
+        "onboard_time": 1767459021,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39960,
+        "num": 69670,
+        "word": "92年小伙回应领养12岁外甥女初衷",
+        "onboard_time": 1767450208,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29124,
+        "num": 69055,
+        "word": "适龄男性公民都应进行兵役登记",
+        "onboard_time": 1767445765,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27859,
+        "num": 68555,
+        "word": "洗衣机竟敢拿了工资不工作",
+        "onboard_time": 1767449486,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25637,
+        "num": 67985,
+        "word": "鹿晗四巡名场面回顾",
+        "onboard_time": 1767461957,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117561,
+        "num": 67526,
+        "word": "特朗普称美将管理委直至安全过渡",
+        "onboard_time": 1767459558,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80272,
+        "num": 66886,
+        "word": "特朗普",
+        "onboard_time": 1767460698,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95534,
+        "num": 66586,
+        "word": "委内瑞拉",
+        "onboard_time": 1767426205,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41752,
+        "num": 65923,
+        "word": "女子住店拉开窗帘竟是泳池水底",
+        "onboard_time": 1767448767,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65545,
+        "num": 65545,
+        "word": "俄称美国将遭到全球大多数人的谴责",
+        "onboard_time": 1767452545,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23253,
+        "num": 65543,
+        "word": "怪奇物语大结局",
+        "onboard_time": 1767464835,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57926,
+        "num": 65541,
+        "word": "特朗普称已抓获委内瑞拉总统",
+        "onboard_time": 1767432625,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20067,
+        "num": 65536,
+        "word": "拖米说KPL是国内第一赛事",
+        "onboard_time": 1767458900,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 46217,
+        "num": 65534,
+        "word": "马杜罗及其夫人已在美国被起诉",
+        "onboard_time": 1767443786,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19197,
+        "num": 65531,
+        "word": "92年姨父成12岁女孩第二个爸爸",
+        "onboard_time": 1767445105,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37213,
+        "num": 65529,
+        "word": "委内瑞拉副总统发表讲话",
+        "onboard_time": 1767439286,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34629,
+        "num": 65527,
+        "word": "身体这些信号提醒你吃多了",
+        "onboard_time": 1767461358,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27574,
+        "num": 65520,
+        "word": "特朗普透露夜袭细节",
+        "onboard_time": 1767460820,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20011,
+        "num": 65520,
+        "word": "MRC夺冠",
+        "onboard_time": 1767440665,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27150,
+        "num": 65517,
+        "word": "特朗普发布马杜罗在美舰照片",
+        "onboard_time": 1767458661,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17697,
+        "num": 65514,
+        "word": "骄阳似我",
+        "onboard_time": 1767435085,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26862,
+        "num": 65509,
+        "word": "委内瑞拉要求美方立即释放马杜罗夫妇",
+        "onboard_time": 1767451826,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17420,
+        "num": 65508,
+        "word": "甘肃地震",
+        "onboard_time": 1767447325,
+        "rank": 27,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 25056,
+        "num": 65502,
+        "word": "巴西总统称美开创危险先例",
+        "onboard_time": 1767453265,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17336,
+        "num": 65502,
+        "word": "2026第一个工作日",
+        "onboard_time": 1767454763,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51260,
+        "num": 65499,
+        "word": "联合国回应委内瑞拉局势",
+        "onboard_time": 1767457281,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17034,
+        "num": 65495,
+        "word": "雷军回应小米超强钢争议",
+        "onboard_time": 1767453205,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 24475,
+        "num": 65493,
+        "word": "特朗普下令打击委内瑞拉境内目标",
+        "onboard_time": 1767426805,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16942,
+        "num": 65490,
+        "word": "玉兰花开君再来",
+        "onboard_time": 1767456263,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22624,
+        "num": 65485,
+        "word": "联合国秘书长对委局势升级深感震惊",
+        "onboard_time": 1767454286,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16459,
+        "num": 65483,
+        "word": "一诺五获KPL年度最佳发育路",
+        "onboard_time": 1767452786,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22110,
+        "num": 65479,
+        "word": "三角洲",
+        "onboard_time": 1767437965,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15876,
+        "num": 65477,
+        "word": "陈立农赶鸭子上架奈何真不会",
+        "onboard_time": 1767459620,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21620,
+        "num": 65473,
+        "word": "特朗普称马杜罗夫妇在美军舰上",
+        "onboard_time": 1767454644,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13363,
+        "num": 65469,
+        "word": "车厘子价格已大跌",
+        "onboard_time": 1767449725,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21107,
+        "num": 65467,
+        "word": "美议员称马杜罗将在美国接受审判",
+        "onboard_time": 1767437066,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14904,
+        "num": 65464,
+        "word": "刘宇宁告别音乐缘计划",
+        "onboard_time": 1767455363,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20268,
+        "num": 65461,
+        "word": "特朗特称将决定委内瑞拉领导层",
+        "onboard_time": 1767458900,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14148,
+        "num": 65456,
+        "word": "kpl王者荣耀巅峰之夜",
+        "onboard_time": 1767434187,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18028,
+        "num": 65455,
+        "word": "俄强烈敦促美国释放马杜罗",
+        "onboard_time": 1767460579,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13924,
+        "num": 65451,
+        "word": "王源说今年有全原创专辑",
+        "onboard_time": 1767466155,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 14762,
+        "num": 65448,
+        "word": "美袭击委内瑞拉当地华人发声",
+        "onboard_time": 1767468616,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13397,
+        "num": 65444,
+        "word": "雷军直播",
+        "onboard_time": 1767438026,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 11820,
+        "num": 65442,
+        "word": "提醒中国公民近期暂勿前往委内瑞拉",
+        "onboard_time": 1767453804,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 10449,
+        "num": 65439,
+        "word": "福建舰2026主要任务",
+        "onboard_time": 1767450386,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#枝叶总关情的含义#"
+    }
+  }
+}

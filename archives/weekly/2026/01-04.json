@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767468155133,
+  "endTime": 1767469021701,
   "band_list": [
     {
       "raw_hot": 1541881,
@@ -547,7 +547,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 23002,
+      "raw_hot": 23253,
       "num": 138948,
       "word": "怪奇物语大结局",
       "onboard_time": 1767464835,
@@ -571,7 +571,15 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 14049,
+      "raw_hot": 14762,
+      "num": 65448,
+      "word": "美袭击委内瑞拉当地华人发声",
+      "onboard_time": 1767468616,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 14148,
       "num": 77147,
       "word": "kpl王者荣耀巅峰之夜",
       "onboard_time": 1767434187,
