@@ -1,6 +1,6 @@
 {
   "startTime": 1766853214443,
-  "endTime": 1767411600726,
+  "endTime": 1767411902066,
   "band_list": [
     {
       "raw_hot": 30003324,
@@ -827,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 653362,
+      "num": 747161,
+      "word": "当年的老己在QQ给老自留了笔巨款",
+      "onboard_time": 1767410309,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 650250,
       "num": 612233,
       "word": "医生称薯片是垃圾食品中的垃圾食品",
@@ -1208,14 +1216,6 @@
       "word": "妈妈不打麻将早就上清华了",
       "onboard_time": 1766930782,
       "rank": 31,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 542750,
-      "num": 747161,
-      "word": "当年的老己在QQ给老自留了笔巨款",
-      "onboard_time": 1767410309,
-      "rank": 11,
       "category": "幽默"
     },
     {
@@ -2939,6 +2939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 316987,
+      "num": 764114,
+      "word": "李在明表态台湾问题",
+      "onboard_time": 1767408509,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 316858,
       "num": 271214,
       "word": "以后去猫咖穿勃肯鞋",
@@ -3024,6 +3032,14 @@
       "word": "马航MH370搜寻船抵达目标海域",
       "onboard_time": 1767189751,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 310861,
+      "num": 750205,
+      "word": "太二卖不动酸菜鱼了",
+      "onboard_time": 1767410187,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -3113,14 +3129,6 @@
       "onboard_time": 1767157041,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 304000,
-      "num": 752168,
-      "word": "李在明表态台湾问题",
-      "onboard_time": 1767408509,
-      "rank": 1,
-      "category": "国际时政"
     },
     {
       "raw_hot": 303851,
@@ -3329,14 +3337,6 @@
       "onboard_time": 1767266780,
       "rank": 11,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 293304,
-      "num": 750205,
-      "word": "太二卖不动酸菜鱼了",
-      "onboard_time": 1767410187,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 292957,
@@ -4331,6 +4331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230707,
+      "num": 751099,
+      "word": "你好星期六新年全员心动",
+      "onboard_time": 1767408630,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229307,
       "num": 592716,
       "word": "钎城没上场",
@@ -4745,14 +4753,6 @@
       "onboard_time": 1766989881,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 209351,
-      "num": 751099,
-      "word": "你好星期六新年全员心动",
-      "onboard_time": 1767408630,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 209297,
@@ -8275,6 +8275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134393,
+      "num": 744665,
+      "word": "剥茧",
+      "onboard_time": 1767066740,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134050,
       "num": 134050,
       "word": "金饰价格跌破1400元关口",
@@ -9265,14 +9273,6 @@
       "onboard_time": 1767350719,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 122626,
-      "num": 744665,
-      "word": "剥茧",
-      "onboard_time": 1767066740,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 122560,
@@ -10315,6 +10315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112553,
+      "num": 744212,
+      "word": "黄金白银突然猛涨",
+      "onboard_time": 1767410789,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 112527,
       "num": 161040,
       "word": "罚罪2一集演了别人一整部剧",
@@ -10409,14 +10417,6 @@
       "onboard_time": 1766964138,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 111792,
-      "num": 744212,
-      "word": "黄金白银突然猛涨",
-      "onboard_time": 1767410789,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 111642,
@@ -15115,6 +15115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72990,
+      "num": 730733,
+      "word": "第一次看见两个人的牙有情侣相的",
+      "onboard_time": 1767411507,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72828,
       "num": 206528,
       "word": "刘德华非凡大师主题曲好听",
@@ -15995,6 +16003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 63751,
+      "num": 731913,
+      "word": "这才是我们年轻人看得懂的物价",
+      "onboard_time": 1767411327,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 63536,
       "num": 219494,
       "word": "承德火灾45名公职人员被问责",
@@ -16009,6 +16025,14 @@
       "onboard_time": 1767136218,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63312,
+      "num": 757079,
+      "word": "东方美学给世界亿点点震撼",
+      "onboard_time": 1767410187,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 63272,
@@ -16035,20 +16059,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62855,
+      "num": 651559,
+      "word": "小猫咪爬上了狗狗山",
+      "onboard_time": 1767411687,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 62764,
       "num": 62764,
       "word": "年底有种兴奋之感",
       "onboard_time": 1766974459,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 62695,
-      "num": 751657,
-      "word": "东方美学给世界亿点点震撼",
-      "onboard_time": 1767410187,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 62675,
@@ -16371,6 +16395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59525,
+      "num": 651217,
+      "word": "红烨就是我的梦中情boss吧",
+      "onboard_time": 1767411807,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59510,
       "num": 208696,
       "word": "跨年 堵车",
@@ -16408,14 +16440,6 @@
       "word": "原来继承密码是个大众行为",
       "onboard_time": 1767312558,
       "rank": 19,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 59051,
-      "num": 731913,
-      "word": "这才是我们年轻人看得懂的物价",
-      "onboard_time": 1767411327,
-      "rank": 39,
       "category": "幽默"
     },
     {
@@ -16617,14 +16641,6 @@
       "onboard_time": 1766964316,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 56911,
-      "num": 730733,
-      "word": "第一次看见两个人的牙有情侣相的",
-      "onboard_time": 1767411507,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 56907,
@@ -16995,6 +17011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52349,
+      "num": 651032,
+      "word": "这才叫直播间的家人们",
+      "onboard_time": 1767411629,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 52236,
       "num": 157804,
       "word": "丁禹兮对自己的实力一无所知",
@@ -17033,6 +17057,14 @@
       "onboard_time": 1767109939,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 52036,
+      "num": 748274,
+      "word": "卡利亚里0比1AC米兰",
+      "onboard_time": 1767411568,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 51974,
@@ -17593,6 +17625,14 @@
       "onboard_time": 1767329300,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 47087,
+      "num": 650833,
+      "word": "樊振东眼睛眯成一条缝",
+      "onboard_time": 1767409228,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 47052,
@@ -18201,14 +18241,6 @@
       "onboard_time": 1767136218,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 41429,
-      "num": 748274,
-      "word": "卡利亚里0比1AC米兰",
-      "onboard_time": 1767411568,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 41369,

@@ -1,6 +1,6 @@
 {
   "startTime": 1767371718188,
-  "endTime": 1767411600726,
+  "endTime": 1767411902066,
   "band_list": [
     {
       "raw_hot": 821415,
@@ -11,20 +11,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 653362,
+      "num": 747161,
+      "word": "当年的老己在QQ给老自留了笔巨款",
+      "onboard_time": 1767410309,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 607813,
       "num": 1097250,
       "word": "两外国人在重庆用筷子烫火锅",
       "onboard_time": 1767402928,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 542750,
-      "num": 747161,
-      "word": "当年的老己在QQ给老自留了笔巨款",
-      "onboard_time": 1767410309,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 493980,
@@ -83,6 +83,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 316987,
+      "num": 764114,
+      "word": "李在明表态台湾问题",
+      "onboard_time": 1767408509,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 310861,
+      "num": 750205,
+      "word": "太二卖不动酸菜鱼了",
+      "onboard_time": 1767410187,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 310239,
       "num": 1095835,
       "word": "煮方便面突然发现哪里不对劲",
@@ -91,27 +107,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 304000,
-      "num": 752168,
-      "word": "李在明表态台湾问题",
-      "onboard_time": 1767408509,
-      "rank": 1,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 295024,
       "num": 1095757,
       "word": "女子以为嫁给武警其实嫁给了杀人犯",
       "onboard_time": 1767358040,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 293304,
-      "num": 750205,
-      "word": "太二卖不动酸菜鱼了",
-      "onboard_time": 1767410187,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -147,20 +147,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230707,
+      "num": 751099,
+      "word": "你好星期六新年全员心动",
+      "onboard_time": 1767408630,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209761,
       "num": 741229,
       "word": "伊朗面临40多年来最严峻挑战",
       "onboard_time": 1767408206,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 209351,
-      "num": 751099,
-      "word": "你好星期六新年全员心动",
-      "onboard_time": 1767408630,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 207813,
@@ -259,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134393,
+      "num": 744665,
+      "word": "剥茧",
+      "onboard_time": 1767411032,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130939,
       "num": 1094438,
       "word": "停靠在8楼的2路汽车具象化",
@@ -307,14 +315,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 122626,
-      "num": 744665,
-      "word": "剥茧",
-      "onboard_time": 1767411032,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 122469,
       "num": 1094090,
       "word": "25岁姑娘去小城行医一待56年",
@@ -331,7 +331,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111792,
+      "raw_hot": 112553,
       "num": 744212,
       "word": "黄金白银突然猛涨",
       "onboard_time": 1767410789,
@@ -491,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72990,
+      "num": 730733,
+      "word": "第一次看见两个人的牙有情侣相的",
+      "onboard_time": 1767411507,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 71228,
       "num": 577695,
       "word": "总台专访李在明",
@@ -563,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63751,
+      "num": 731913,
+      "word": "这才是我们年轻人看得懂的物价",
+      "onboard_time": 1767411327,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 63338,
       "num": 279521,
       "word": "给张凌赫递麦的是靳梦佳",
@@ -571,12 +587,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 62695,
-      "num": 751657,
+      "raw_hot": 63312,
+      "num": 757079,
       "word": "东方美学给世界亿点点震撼",
       "onboard_time": 1767410187,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 62855,
+      "num": 651559,
+      "word": "小猫咪爬上了狗狗山",
+      "onboard_time": 1767411687,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 61415,
@@ -595,12 +619,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 59051,
-      "num": 731913,
-      "word": "这才是我们年轻人看得懂的物价",
-      "onboard_time": 1767411327,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 59525,
+      "num": 651217,
+      "word": "红烨就是我的梦中情boss吧",
+      "onboard_time": 1767411807,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 58606,
@@ -625,14 +649,6 @@
       "onboard_time": 1767382336,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 56911,
-      "num": 730733,
-      "word": "第一次看见两个人的牙有情侣相的",
-      "onboard_time": 1767411507,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 56809,
@@ -707,12 +723,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 52349,
+      "num": 651032,
+      "word": "这才叫直播间的家人们",
+      "onboard_time": 1767411629,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 52235,
       "num": 1093596,
       "word": "3千多岁柏树遭日军轰炸仍屹立",
       "onboard_time": 1767407007,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52036,
+      "num": 748274,
+      "word": "卡利亚里0比1AC米兰",
+      "onboard_time": 1767411568,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 51249,
@@ -771,6 +803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 47087,
+      "num": 650833,
+      "word": "樊振东眼睛眯成一条缝",
+      "onboard_time": 1767409228,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46233,
       "num": 264252,
       "word": "华晨宇演唱会",
@@ -800,14 +840,6 @@
       "word": "樊振东乒乓球最美好时刻是巴黎奥运",
       "onboard_time": 1767404067,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 41429,
-      "num": 748274,
-      "word": "卡利亚里0比1AC米兰",
-      "onboard_time": 1767411568,
-      "rank": 9,
       "category": "体育"
     },
     {

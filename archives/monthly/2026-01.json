@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767411600726,
+  "endTime": 1767411902066,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 653362,
+      "num": 747161,
+      "word": "当年的老己在QQ给老自留了笔巨款",
+      "onboard_time": 1767410309,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 624910,
       "num": 1405221,
       "word": "不要回头",
@@ -233,14 +241,6 @@
       "onboard_time": 1767345320,
       "rank": 26,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 542750,
-      "num": 747161,
-      "word": "当年的老己在QQ给老自留了笔巨款",
-      "onboard_time": 1767410309,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 541764,
@@ -651,6 +651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 316987,
+      "num": 764114,
+      "word": "李在明表态台湾问题",
+      "onboard_time": 1767408509,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 315190,
       "num": 1028379,
       "word": "沈梦辰看张凌赫失去表情管理",
@@ -665,6 +673,14 @@
       "onboard_time": 1767327980,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 310861,
+      "num": 750205,
+      "word": "太二卖不动酸菜鱼了",
+      "onboard_time": 1767410187,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 310239,
@@ -697,14 +713,6 @@
       "onboard_time": 1767332060,
       "rank": 10,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 304000,
-      "num": 752168,
-      "word": "李在明表态台湾问题",
-      "onboard_time": 1767408509,
-      "rank": 1,
-      "category": "国际时政"
     },
     {
       "raw_hot": 303851,
@@ -753,14 +761,6 @@
       "onboard_time": 1767266780,
       "rank": 11,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 293304,
-      "num": 750205,
-      "word": "太二卖不动酸菜鱼了",
-      "onboard_time": 1767410187,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 292957,
@@ -1027,6 +1027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 230707,
+      "num": 751099,
+      "word": "你好星期六新年全员心动",
+      "onboard_time": 1767408630,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229307,
       "num": 592716,
       "word": "钎城没上场",
@@ -1161,14 +1169,6 @@
       "onboard_time": 1767408206,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 209351,
-      "num": 751099,
-      "word": "你好星期六新年全员心动",
-      "onboard_time": 1767408630,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 208450,
@@ -2227,6 +2227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134393,
+      "num": 744665,
+      "word": "剥茧",
+      "onboard_time": 1767245422,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133860,
       "num": 182779,
       "word": "老林哭了",
@@ -2515,14 +2523,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 122626,
-      "num": 744665,
-      "word": "剥茧",
-      "onboard_time": 1767245422,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 122469,
       "num": 1094090,
       "word": "25岁姑娘去小城行医一待56年",
@@ -2803,20 +2803,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112553,
+      "num": 744212,
+      "word": "黄金白银突然猛涨",
+      "onboard_time": 1767410789,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 112332,
       "num": 487731,
       "word": "这就是决赛的暖阳",
       "onboard_time": 1767350660,
       "rank": 15,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 111792,
-      "num": 744212,
-      "word": "黄金白银突然猛涨",
-      "onboard_time": 1767410789,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 111526,
@@ -4051,6 +4051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72990,
+      "num": 730733,
+      "word": "第一次看见两个人的牙有情侣相的",
+      "onboard_time": 1767411507,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72757,
       "num": 713776,
       "word": "这3个带马成语太给劲了",
@@ -4515,6 +4523,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 63751,
+      "num": 731913,
+      "word": "这才是我们年轻人看得懂的物价",
+      "onboard_time": 1767411327,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 63312,
+      "num": 757079,
+      "word": "东方美学给世界亿点点震撼",
+      "onboard_time": 1767410187,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 63272,
       "num": 125168,
       "word": "苏打切移形",
@@ -4531,12 +4555,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 62695,
-      "num": 751657,
-      "word": "东方美学给世界亿点点震撼",
-      "onboard_time": 1767410187,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 62855,
+      "num": 651559,
+      "word": "小猫咪爬上了狗狗山",
+      "onboard_time": 1767411687,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 62675,
@@ -4643,6 +4667,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 59525,
+      "num": 651217,
+      "word": "红烨就是我的梦中情boss吧",
+      "onboard_time": 1767411807,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59425,
       "num": 379036,
       "word": "刘宇宁被台下观众钓成翘嘴",
@@ -4664,14 +4696,6 @@
       "word": "原来继承密码是个大众行为",
       "onboard_time": 1767312558,
       "rank": 19,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 59051,
-      "num": 731913,
-      "word": "这才是我们年轻人看得懂的物价",
-      "onboard_time": 1767411327,
-      "rank": 39,
       "category": "幽默"
     },
     {
@@ -4753,14 +4777,6 @@
       "onboard_time": 1767382336,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 56911,
-      "num": 730733,
-      "word": "第一次看见两个人的牙有情侣相的",
-      "onboard_time": 1767411507,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 56907,
@@ -4971,12 +4987,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52349,
+      "num": 651032,
+      "word": "这才叫直播间的家人们",
+      "onboard_time": 1767411629,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 52235,
       "num": 1093596,
       "word": "3千多岁柏树遭日军轰炸仍屹立",
       "onboard_time": 1767407007,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52036,
+      "num": 748274,
+      "word": "卡利亚里0比1AC米兰",
+      "onboard_time": 1767411568,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 51607,
@@ -5267,6 +5299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47087,
+      "num": 650833,
+      "word": "樊振东眼睛眯成一条缝",
+      "onboard_time": 1767409228,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47052,
       "num": 240701,
       "word": "沃尔沃新年首推新能源购置补贴",
@@ -5529,14 +5569,6 @@
       "onboard_time": 1767309135,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41429,
-      "num": 748274,
-      "word": "卡利亚里0比1AC米兰",
-      "onboard_time": 1767411568,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 41171,
