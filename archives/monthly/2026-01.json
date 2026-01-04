@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767531279924,
+  "endTime": 1767532123943,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -73,6 +73,14 @@
       "onboard_time": 1767459021,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1540819,
+      "num": 1540819,
+      "word": "爱奇艺电视剧致歉",
+      "onboard_time": 1767529643,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1430098,
@@ -203,20 +211,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 933244,
-      "num": 1149319,
-      "word": "爱奇艺电视剧致歉",
-      "onboard_time": 1767529643,
-      "rank": 0,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 922373,
       "num": 1147579,
       "word": "父亲凌晨去世邻居听到鞭炮声后赶来",
       "onboard_time": 1767513683,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 918237,
+      "num": 208592,
+      "word": "胃癌几乎都是这样喂出来的",
+      "onboard_time": 1767527961,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 903012,
@@ -243,12 +251,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 885445,
-      "num": 178177,
-      "word": "胃癌几乎都是这样喂出来的",
-      "onboard_time": 1767527961,
-      "rank": 20,
-      "category": "健康医疗"
+      "raw_hot": 898363,
+      "num": 540006,
+      "word": "尚公主",
+      "onboard_time": 1767238040,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 874177,
@@ -369,14 +377,6 @@
       "onboard_time": 1767505463,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 751162,
-      "num": 540006,
-      "word": "尚公主",
-      "onboard_time": 1767238040,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 744779,
@@ -668,7 +668,7 @@
     },
     {
       "raw_hot": 535373,
-      "num": 267971,
+      "num": 392063,
       "word": "美国拒绝外部介入委内瑞拉",
       "onboard_time": 1767526702,
       "rank": 36,
@@ -1099,6 +1099,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 418675,
+      "num": 418675,
+      "word": "给赵今麦当替身后我扑进了宋威龙怀里",
+      "onboard_time": 1767527904,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 417150,
       "num": 417150,
       "word": "赵丽颖一句话扎到黄晓明",
@@ -1137,14 +1145,6 @@
       "onboard_time": 1767240440,
       "rank": 31,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 407481,
-      "num": 260239,
-      "word": "给赵今麦当替身后我扑进了宋威龙怀里",
-      "onboard_time": 1767527904,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 406176,
@@ -1315,6 +1315,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 371007,
+      "num": 241691,
+      "word": "意大利政府称美国是正当防御",
+      "onboard_time": 1767528684,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 370681,
       "num": 1093672,
       "word": "何不同舟渡",
@@ -1337,14 +1345,6 @@
       "onboard_time": 1767500304,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 369161,
-      "num": 241691,
-      "word": "意大利政府称美国是正当防御",
-      "onboard_time": 1767528684,
-      "rank": 12,
-      "category": "国际时政"
     },
     {
       "raw_hot": 368104,
@@ -1513,6 +1513,14 @@
       "onboard_time": 1767515544,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 335136,
+      "num": 875497,
+      "word": "樊振东vs户上隼辅",
+      "onboard_time": 1767528023,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 333610,
@@ -1843,14 +1851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 291330,
-      "num": 857669,
-      "word": "樊振东vs户上隼辅",
-      "onboard_time": 1767528023,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 289588,
       "num": 1394393,
       "word": "跨年朋友圈",
@@ -2139,6 +2139,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 256261,
+      "num": 256261,
+      "word": "杨幂邢菲赵丽颖兰西雅 是姐妹是知己",
+      "onboard_time": 1767528623,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255943,
       "num": 255943,
       "word": "中方呼吁立即释放马杜罗夫妇",
@@ -2265,6 +2273,14 @@
       "onboard_time": 1767435925,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244228,
+      "num": 211669,
+      "word": "TVB颁奖典礼",
+      "onboard_time": 1767530542,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 243418,
@@ -2408,14 +2424,6 @@
       "word": "唐嫣演技",
       "onboard_time": 1767495682,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 229567,
-      "num": 205572,
-      "word": "杨幂邢菲赵丽颖兰西雅 是姐妹是知己",
-      "onboard_time": 1767528623,
-      "rank": 18,
       "category": "剧集"
     },
     {
@@ -2667,6 +2675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208222,
+      "num": 208222,
+      "word": "68岁阿姨豪掷92万养老金为男友买表",
+      "onboard_time": 1767529163,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208125,
       "num": 208125,
       "word": "周深发长文",
@@ -2729,6 +2745,14 @@
       "onboard_time": 1767481818,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 205251,
+      "num": 205251,
+      "word": "无畏刀马刀马太对味了",
+      "onboard_time": 1767531264,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 204663,
@@ -2881,6 +2905,14 @@
       "onboard_time": 1767235820,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196500,
+      "num": 196500,
+      "word": "郝熠然云旗直播唱歌",
+      "onboard_time": 1767531384,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 196264,
@@ -3331,6 +3363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 177808,
+      "num": 177808,
+      "word": "于正称玉茗茶骨不爆是长剧没有观众",
+      "onboard_time": 1767527723,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177743,
       "num": 857526,
       "word": "iG夺得德杯冠军",
@@ -3425,14 +3465,6 @@
       "onboard_time": 1767268161,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174211,
-      "num": 174211,
-      "word": "于正称玉茗茶骨不爆是长剧没有观众",
-      "onboard_time": 1767527723,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 174033,
@@ -3561,6 +3593,14 @@
       "onboard_time": 1767338299,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168785,
+      "num": 168785,
+      "word": "马杜罗上台阶时痛苦呻吟",
+      "onboard_time": 1767524902,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 168411,
@@ -3715,14 +3755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164562,
-      "num": 164562,
-      "word": "马杜罗上台阶时痛苦呻吟",
-      "onboard_time": 1767524902,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 164485,
       "num": 120097,
       "word": "美国多地爆发反战示威",
@@ -3833,6 +3865,14 @@
       "onboard_time": 1767195208,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161536,
+      "num": 161536,
+      "word": "韦雪泳装",
+      "onboard_time": 1767531862,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 161400,
@@ -4081,14 +4121,6 @@
       "onboard_time": 1767415947,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 155309,
-      "num": 155309,
-      "word": "68岁阿姨豪掷92万养老金为男友买表",
-      "onboard_time": 1767529163,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155018,
@@ -4411,6 +4443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143222,
+      "num": 146324,
+      "word": "家长网购40套衣服退货28套商家发声",
+      "onboard_time": 1767528023,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143113,
       "num": 143113,
       "word": "委内瑞拉或出现难民潮",
@@ -4675,14 +4715,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 137375,
-      "num": 137375,
-      "word": "TVB颁奖典礼",
-      "onboard_time": 1767530542,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 137249,
       "num": 1023162,
       "word": "邵兵邵子恒 中式父子相处新模式",
@@ -4785,6 +4817,22 @@
       "onboard_time": 1767242119,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134807,
+      "num": 134807,
+      "word": "龚俊直播",
+      "onboard_time": 1767526762,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 134445,
+      "num": 134445,
+      "word": "建议大家修完照片后再镜像看看",
+      "onboard_time": 1767526883,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 134393,
@@ -5073,14 +5121,6 @@
       "onboard_time": 1767527063,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127240,
-      "num": 127240,
-      "word": "建议大家修完照片后再镜像看看",
-      "onboard_time": 1767526883,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 127185,
@@ -5531,6 +5571,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 118886,
+      "num": 118886,
+      "word": "肖战跨年倒计时手势",
+      "onboard_time": 1767531384,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118734,
       "num": 740242,
       "word": "美国闪击委内瑞拉时间线",
@@ -5833,14 +5881,6 @@
       "onboard_time": 1767350660,
       "rank": 15,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 112094,
-      "num": 124318,
-      "word": "家长网购40套衣服退货28套商家发声",
-      "onboard_time": 1767528023,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111917,
@@ -6307,6 +6347,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 102768,
+      "num": 102768,
+      "word": "淮阴工学院更名淮安大学",
+      "onboard_time": 1767529343,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 102634,
       "num": 633124,
       "word": "白露十九岁的第一个冠军",
@@ -6369,6 +6417,22 @@
       "onboard_time": 1767507321,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 101314,
+      "num": 101314,
+      "word": "曝宇树科技没申请过绿色通道",
+      "onboard_time": 1767531803,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 101219,
+      "num": 101219,
+      "word": "梦岚剑来solo",
+      "onboard_time": 1767532044,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 100917,
@@ -7067,14 +7131,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 90185,
-      "num": 90185,
-      "word": "无畏刀马刀马太对味了",
-      "onboard_time": 1767531264,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 90043,
       "num": 993542,
       "word": "喜欢独处的人都是这么想的",
@@ -7179,14 +7235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 88818,
-      "num": 88818,
-      "word": "龚俊直播",
-      "onboard_time": 1767526762,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 88702,
       "num": 588829,
       "word": "新年新头像",
@@ -7233,6 +7281,14 @@
       "onboard_time": 1767461358,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 88179,
+      "num": 113538,
+      "word": "美高官妻子暗示很快拿下格陵兰岛",
+      "onboard_time": 1767531624,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 88003,
@@ -8843,6 +8899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 63657,
+      "num": 110867,
+      "word": "为什么跨年信号差",
+      "onboard_time": 1767531743,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 63531,
       "num": 1645594,
       "word": "爷爷给我看了他的作业本",
@@ -10043,6 +10107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45482,
+      "num": 113928,
+      "word": "幼童吃15颗车厘子患急性肠胃炎",
+      "onboard_time": 1767531624,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45228,
       "num": 106932,
       "word": "美控制委内瑞拉能操控全球柴油供应",
@@ -10716,7 +10788,7 @@
     },
     {
       "raw_hot": 31326,
-      "num": 641819,
+      "num": 721272,
       "word": "憧憬十五五",
       "onboard_time": 1767519385,
       "rank": 2,
@@ -10816,6 +10888,14 @@
       "word": "2026年首个超级月亮",
       "onboard_time": 1767418827,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29087,
+      "num": 208951,
+      "word": "多方回应用废止文件收地租十几亿",
+      "onboard_time": 1767531624,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
