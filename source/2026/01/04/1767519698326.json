@@ -1,0 +1,410 @@
+{
+  "runTime": 1767519698326,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 706003,
+        "num": 1112960,
+        "word": "父亲凌晨去世邻居听到鞭炮声后赶来",
+        "onboard_time": 1767513683,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 493612,
+        "num": 830252,
+        "word": "微博之夜",
+        "onboard_time": 1767514583,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 9031,
+        "num": 640663,
+        "word": "憧憬十五五",
+        "onboard_time": 1767519385,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 499986,
+        "num": 499986,
+        "word": "黄子韬哭了",
+        "onboard_time": 1767514523,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446462,
+        "num": 446462,
+        "word": "外交部回应美强行控制委总统夫妇",
+        "onboard_time": 1767507983,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 814665,
+        "num": 407882,
+        "word": "如果一个人长期不工作",
+        "onboard_time": 1767514102,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 351931,
+        "num": 351931,
+        "word": "今天是委内瑞拉明天可能是任何国家",
+        "onboard_time": 1767510502,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 267807,
+        "num": 267807,
+        "word": "车厘子正确清洗教程来了",
+        "onboard_time": 1767514223,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194324,
+        "num": 267621,
+        "word": "宇树科技上市绿色通道被叫停",
+        "onboard_time": 1767512722,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 324266,
+        "num": 262572,
+        "word": "iPhone千万别删的自带软件",
+        "onboard_time": 1767512602,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 518653,
+        "num": 261264,
+        "word": "小英自曝被上拉如身边人欺负",
+        "onboard_time": 1767515362,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 410808,
+        "num": 257187,
+        "word": "相当于刘星判给了夏东海",
+        "onboard_time": 1767514043,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 405966,
+        "num": 253909,
+        "word": "时代峰峻高会改名",
+        "onboard_time": 1767515724,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338349,
+        "num": 251790,
+        "word": "马杜罗押送途中对着镜头比出剪刀手",
+        "onboard_time": 1767515544,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 281984,
+        "num": 248628,
+        "word": "谢娜 女本位",
+        "onboard_time": 1767513263,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245693,
+        "num": 245693,
+        "word": "爸爸微信有两千个置顶",
+        "onboard_time": 1767497601,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 241789,
+        "num": 241789,
+        "word": "迪丽热巴拍摄现场二十多套高定",
+        "onboard_time": 1767515842,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 207426,
+        "num": 207426,
+        "word": "结婚证就得考啊",
+        "onboard_time": 1767507802,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206522,
+        "num": 206522,
+        "word": "医生称车厘子果蝇的幼虫水洗不掉",
+        "onboard_time": 1767509842,
+        "rank": 18,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 199722,
+        "num": 199722,
+        "word": "易梦玲陪阿哲5100领证",
+        "onboard_time": 1767517522,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323956,
+        "num": 196759,
+        "word": "童锦程孩子妈回应要220万",
+        "onboard_time": 1767510683,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 182612,
+        "num": 182612,
+        "word": "向涵之十八宫格营业",
+        "onboard_time": 1767519682,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178069,
+        "num": 178069,
+        "word": "车厘子 褪黑素",
+        "onboard_time": 1767483558,
+        "rank": 22,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 163635,
+        "num": 163635,
+        "word": "周先旺被双开",
+        "onboard_time": 1767516803,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144935,
+        "num": 144935,
+        "word": "高瀚宇分享鹿晗单曲",
+        "onboard_time": 1767514822,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138883,
+        "num": 138883,
+        "word": "医生解读酒店床上为何放4个枕头",
+        "onboard_time": 1767517284,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128867,
+        "num": 128867,
+        "word": "何不同舟渡",
+        "onboard_time": 1767519023,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124859,
+        "num": 124859,
+        "word": "委内瑞拉石油储量世界第一",
+        "onboard_time": 1767503663,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122233,
+        "num": 122233,
+        "word": "韩国总统李在明抵达北京",
+        "onboard_time": 1767505463,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121741,
+        "num": 121741,
+        "word": "坏了让他读到真大学了",
+        "onboard_time": 1767518723,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134086,
+        "num": 120943,
+        "word": "巴西认定委副总统为委内瑞拉领导人",
+        "onboard_time": 1767519081,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119067,
+        "num": 119067,
+        "word": "荣耀之战分组",
+        "onboard_time": 1767518422,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118974,
+        "num": 118974,
+        "word": "录完综艺总裁父亲主动向女儿道歉",
+        "onboard_time": 1767510983,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118532,
+        "num": 118532,
+        "word": "原来这是生理性厌恶的表现",
+        "onboard_time": 1767513742,
+        "rank": 33,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 25999,
+        "num": 116182,
+        "word": "元旦假期交通出行5.95亿人次",
+        "onboard_time": 1767519141,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115696,
+        "num": 115696,
+        "word": "左航苏新皓去环球影城了",
+        "onboard_time": 1767517222,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111544,
+        "num": 111544,
+        "word": "王者S42碎片商店上线必秒皮肤",
+        "onboard_time": 1767518542,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 78356,
+        "num": 107931,
+        "word": "新疆和静4.6级地震",
+        "onboard_time": 1767517882,
+        "rank": 37,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 18943,
+        "num": 106812,
+        "word": "深圳已经这么先进了吗",
+        "onboard_time": 1767519141,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149161,
+        "num": 106808,
+        "word": "何炅写了26年的专栏停更了",
+        "onboard_time": 1767508882,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106679,
+        "num": 106679,
+        "word": "迅猛龙回应参加恋综",
+        "onboard_time": 1767519502,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 126411,
+        "num": 103341,
+        "word": "周深一个跨年唱了98首歌",
+        "onboard_time": 1767511102,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90007,
+        "num": 98332,
+        "word": "马斯克称委可以拥有它应得的繁荣了",
+        "onboard_time": 1767518362,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98304,
+        "num": 98304,
+        "word": "JackeyLove撞脸假面骑士",
+        "onboard_time": 1767519262,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97573,
+        "num": 97573,
+        "word": "檀健次穿上红袜子了",
+        "onboard_time": 1767511942,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95486,
+        "num": 95486,
+        "word": "白鹿王鹤棣范丞丞宇闪合体",
+        "onboard_time": 1767518184,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94363,
+        "num": 94363,
+        "word": "姐狗见多了姐猫还是第一次见",
+        "onboard_time": 1767519563,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93233,
+        "num": 93233,
+        "word": "你是没有见到我本人",
+        "onboard_time": 1767519622,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88753,
+        "num": 88753,
+        "word": "纽约市长已致电特朗普",
+        "onboard_time": 1767507262,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 66080,
+        "num": 88546,
+        "word": "湖北省政协原副主席周先旺被双开",
+        "onboard_time": 1767514702,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#为人民出政绩以实干出政绩#"
+    }
+  }
+}
