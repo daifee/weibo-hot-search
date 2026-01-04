@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767540452580,
+  "endTime": 1767541280732,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -299,20 +299,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 578258,
+      "num": 322769,
+      "word": "佘诗曼黄宗泽挽手走红毯",
+      "onboard_time": 1767536244,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 570955,
       "num": 1046627,
       "word": "外交部回应美对委军事打击",
       "onboard_time": 1767451405,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 570659,
-      "num": 322769,
-      "word": "佘诗曼黄宗泽挽手走红毯",
-      "onboard_time": 1767536244,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 554359,
@@ -1067,6 +1067,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 241314,
+      "num": 241314,
+      "word": "现在的演员成功的让我戒掉了电视剧",
+      "onboard_time": 1767539484,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241266,
       "num": 241266,
       "word": "白鹿新综录制",
@@ -1105,14 +1113,6 @@
       "onboard_time": 1767498384,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 233765,
-      "num": 233765,
-      "word": "现在的演员成功的让我戒掉了电视剧",
-      "onboard_time": 1767539484,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 233595,
@@ -1259,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206409,
+      "num": 206409,
+      "word": "佘诗曼四封TVB视后",
+      "onboard_time": 1767540442,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205823,
       "num": 258403,
       "word": "马杜罗",
@@ -1363,12 +1371,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194700,
+      "num": 254035,
+      "word": "流落柬埔寨街头中国女子已被找到",
+      "onboard_time": 1767534503,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193782,
       "num": 193782,
       "word": "杨紫15岁的小狗生病做手术了",
       "onboard_time": 1767521243,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193548,
+      "num": 253207,
+      "word": "女子称在全季酒店浴巾里发现避孕套",
+      "onboard_time": 1767537325,
+      "rank": 38,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 193128,
@@ -1465,14 +1489,6 @@
       "onboard_time": 1767528444,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180652,
-      "num": 253207,
-      "word": "女子称在全季酒店浴巾里发现避孕套",
-      "onboard_time": 1767537325,
-      "rank": 38,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 180638,
@@ -1763,6 +1779,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 153994,
+      "num": 153994,
+      "word": "大麦提前放票",
+      "onboard_time": 1767537924,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 153794,
       "num": 153794,
       "word": "医生提醒倒头就睡可能是身体在报警",
@@ -1889,6 +1913,14 @@
       "onboard_time": 1767513501,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 144671,
+      "num": 144671,
+      "word": "张凌赫壁纸",
+      "onboard_time": 1767539063,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 143113,
@@ -2043,28 +2075,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 130634,
-      "num": 130634,
-      "word": "张凌赫壁纸",
-      "onboard_time": 1767539063,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130381,
       "num": 253743,
       "word": "杨紫时隔11年再度出演民国剧",
       "onboard_time": 1767535945,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130253,
-      "num": 254035,
-      "word": "流落柬埔寨街头中国女子已被找到",
-      "onboard_time": 1767534503,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128954,
@@ -2259,14 +2275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119471,
-      "num": 119471,
-      "word": "大麦提前放票",
-      "onboard_time": 1767537924,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 118886,
       "num": 118886,
       "word": "肖战跨年倒计时手势",
@@ -2441,6 +2449,14 @@
       "onboard_time": 1767519502,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 106649,
+      "num": 106649,
+      "word": "田朴珺 王石",
+      "onboard_time": 1767541222,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 105837,
@@ -2659,11 +2675,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98212,
+      "num": 98212,
+      "word": "这堪比灵器认主了",
+      "onboard_time": 1767538285,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 98068,
       "num": 98068,
       "word": "檀健次陶喆 当代喆学家和华语乐檀",
       "onboard_time": 1767522263,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 97939,
+      "num": 97939,
+      "word": "王敏奕获TVB最佳女配角",
+      "onboard_time": 1767541102,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -2729,14 +2761,6 @@
       "onboard_time": 1767455723,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 94815,
-      "num": 94815,
-      "word": "这堪比灵器认主了",
-      "onboard_time": 1767538285,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 94749,
@@ -3017,6 +3041,14 @@
       "onboard_time": 1767482718,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 82305,
+      "num": 111353,
+      "word": "宣萱拒做医美怕上瘾",
+      "onboard_time": 1767539663,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 81571,
@@ -3387,14 +3419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 45840,
-      "num": 111353,
-      "word": "宣萱拒做医美怕上瘾",
-      "onboard_time": 1767539663,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 45687,
       "num": 772446,
       "word": "一诺连续三年获KPL最受欢迎选手",
@@ -3643,6 +3667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27090,
+      "num": 113733,
+      "word": "女村支书暴雨转移579人获应急部嘉奖",
+      "onboard_time": 1767540083,
+      "rank": 38,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 26773,
       "num": 117411,
       "word": "居民房起火63岁女子受伤送医抢救",
@@ -3809,14 +3841,6 @@
       "onboard_time": 1767518962,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11346,
-      "num": 113733,
-      "word": "女村支书暴雨转移579人获应急部嘉奖",
-      "onboard_time": 1767540083,
-      "rank": 38,
-      "category": "正能量"
     }
   ],
   "hotgov_list": [
