@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/04 00:34:09 ~ 2026/01/04 10:26:24
+本榜单时间：2026/01/04 00:34:09 ~ 2026/01/04 10:45:30
 </p>
 </blockquote>
 <p>
@@ -15,6 +15,12 @@
 <ol>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%89%E5%A0%A1%E7%8E%8B%E5%B4%A9%E4%BA%86%23" target="weibo">
+汉堡王崩了（热度：1631134）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%B8%83%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%86%9B%E8%88%B0%E4%B8%8A%E7%85%A7%E7%89%87%23" target="weibo">
 特朗普发布马杜罗在美国军舰上照片（热度：1541881）
 </a>
@@ -23,12 +29,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88%23" target="weibo">
 一觉醒来委内瑞拉发生了什么（热度：1430098）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%89%E5%A0%A1%E7%8E%8B%E5%B4%A9%E4%BA%86%23" target="weibo">
-汉堡王崩了（热度：1392989）
 </a>
 </li>
 
@@ -57,8 +57,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
+金价（热度：789786）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%20%E8%A4%AA%E9%BB%91%E7%B4%A0%23" target="weibo">
 车厘子 褪黑素（热度：697140）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E4%B8%8B%E4%B8%80%E5%AD%A3%E8%A6%81%E6%8D%A2%E4%BA%BA%E4%BA%86%23" target="weibo">
+奔跑吧下一季要换人了（热度：678667）
 </a>
 </li>
 
@@ -83,12 +95,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%BC%BA%E6%8E%B3%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%AD%E4%BF%84%E8%8B%B1%E6%B3%95%E8%A1%A8%E6%80%81%23" target="weibo">
 美国强掳马杜罗中俄英法表态（热度：521015）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
-金价（热度：494775）
 </a>
 </li>
 
@@ -141,6 +147,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%BB%B7219%E4%B8%87%E9%94%80%E5%94%AE%E6%89%BF%E8%AF%BA%E9%80%8172%E4%B8%87%E5%85%83%E9%BB%84%E9%87%91%23" target="weibo">
+房价219万销售承诺送72万元黄金（热度：368576）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%23" target="weibo">
 特朗普（热度：356918）
 </a>
@@ -155,6 +167,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%B8%83%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%9C%A8%E7%BE%8E%E8%88%B0%E7%85%A7%E7%89%87%23" target="weibo">
 特朗普发布马杜罗在美舰照片（热度：318358）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%88%E8%82%A5%E4%B8%8B%E9%9B%AA%23" target="weibo">
+合肥下雪（热度：312147）
 </a>
 </li>
 
@@ -189,12 +207,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%88%E8%82%A5%E4%B8%8B%E9%9B%AA%23" target="weibo">
-合肥下雪（热度：263234）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%B8%80%E6%8E%A5%E8%BF%91%E9%80%80%E4%BC%91%E6%B0%94%E8%A1%80%E5%B0%B1%E5%BC%80%E5%A7%8B%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
 人一接近退休气血就开始回来了（热度：259394）
 </a>
@@ -215,6 +227,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E6%89%93%E5%87%BB%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%A2%83%E5%86%85%E7%9B%AE%E6%A0%87%23" target="weibo">
 特朗普下令打击委内瑞拉境内目标（热度：243433）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%AC%BE11%E4%B8%875%E4%B9%B0%E4%BA%8643%E5%B9%B3%E7%9A%84%E8%80%81%E7%A0%B4%E5%B0%8F%23" target="weibo">
+全款11万5买了43平的老破小（热度：235763）
 </a>
 </li>
 
@@ -243,6 +261,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%941300km%E5%8F%AA%E5%85%85%E4%B8%80%E6%AC%A1%E7%94%B5%23" target="weibo">
+雷军回应1300km只充一次电（热度：206880）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%9C%E7%BD%97%23" target="weibo">
 马杜罗（热度：205823）
 </a>
@@ -263,6 +287,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%84%E7%BE%8E%E5%9B%BD%E5%BC%80%E4%BA%86%E4%B8%80%E4%B8%AA%E6%81%B6%E5%8A%A3%E7%9A%84%E5%85%88%E4%BE%8B%23" target="weibo">
 胡锡进评美国开了一个恶劣的先例（热度：199037）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E8%B7%8C%E7%A0%B41%E5%85%83%E4%B8%80%E9%A2%97%23" target="weibo">
+车厘子跌破1元一颗（热度：196398）
 </a>
 </li>
 
@@ -357,8 +387,8 @@ Gemini向小胖道歉（热度：173634）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%BB%B7219%E4%B8%87%E9%94%80%E5%94%AE%E6%89%BF%E8%AF%BA%E9%80%8172%E4%B8%87%E5%85%83%E9%BB%84%E9%87%91%23" target="weibo">
-房价219万销售承诺送72万元黄金（热度：134005）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A9%E8%8F%9C%23" target="weibo">
+小孩菜（热度：134042）
 </a>
 </li>
 
@@ -369,20 +399,26 @@ Gemini向小胖道歉（热度：173634）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%89%AF%E6%80%BB%E7%BB%9F%E7%A7%B0%E9%A9%AC%E6%9D%9C%E7%BD%97%E6%98%AF%E5%94%AF%E4%B8%80%E5%90%88%E6%B3%95%E6%80%BB%E7%BB%9F%23" target="weibo">
+委副总统称马杜罗是唯一合法总统（热度：125884）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%B9%8B%E5%88%9D%23" target="weibo">
 人之初（热度：120278）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%AF%B4%E8%A2%AB%E9%BB%91%E5%87%BA%E4%BA%86%E5%BF%83%E7%90%86%E9%98%B4%E5%BD%B1%23" target="weibo">
-雷军说被黑出了心理阴影（热度：111905）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%91%A3%E7%AB%B9%E5%90%9B%E9%80%A0%E5%9E%8B%E8%B4%B5%E6%B0%94%23" target="weibo">
+杨紫董竹君造型贵气（热度：118244）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A9%E8%8F%9C%23" target="weibo">
-小孩菜（热度：111249）
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%AF%B4%E8%A2%AB%E9%BB%91%E5%87%BA%E4%BA%86%E5%BF%83%E7%90%86%E9%98%B4%E5%BD%B1%23" target="weibo">
+雷军说被黑出了心理阴影（热度：111905）
 </a>
 </li>
 
@@ -405,12 +441,6 @@ Gemini向小胖道歉（热度：173634）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%91%A3%E7%AB%B9%E5%90%9B%E9%80%A0%E5%9E%8B%E8%B4%B5%E6%B0%94%23" target="weibo">
-杨紫董竹君造型贵气（热度：106911）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E7%BB%99%E8%87%AA%E5%B7%B1%E7%9C%8B%E8%BF%9B%E5%8E%BB%E4%BA%86%23" target="weibo">
 娜扎给自己看进去了（热度：104025）
 </a>
@@ -419,6 +449,18 @@ Gemini向小胖道歉（热度：173634）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E8%A7%92%E6%B4%B2%23" target="weibo">
 三角洲（热度：100235）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B150%E6%9E%B6%E9%A3%9E%E6%9C%BA%E6%8A%93%E6%8D%95%E8%A1%8C%E5%8A%A8%E5%85%A8%E7%A8%8B%E6%9B%9D%E5%85%89%23" target="weibo">
+美军150架飞机抓捕行动全程曝光（热度：98231）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%BC%E7%A7%91%E5%8C%BB%E7%94%9F%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%81%9A%E8%BF%91%E8%A7%86%E7%9C%BC%E6%89%8B%E6%9C%AF%23" target="weibo">
+眼科医生为何不做近视眼手术（热度：97125）
 </a>
 </li>
 
@@ -447,6 +489,12 @@ Gemini向小胖道歉（热度：173634）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%BF%98%E6%90%81%E8%BF%99%E7%AB%A5%E8%AF%9D%E6%95%85%E4%BA%8B%E5%91%A2%23" target="weibo">
+王一博还搁这童话故事呢（热度：92898）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E8%A6%81%E6%B1%82%E7%BE%8E%E7%AB%8B%E5%8D%B3%E6%BE%84%E6%B8%85%E9%A9%AC%E6%9D%9C%E7%BD%97%E6%83%85%E5%86%B5%23" target="weibo">
 俄要求美立即澄清马杜罗情况（热度：89510）
 </a>
@@ -467,12 +515,6 @@ Gemini向小胖道歉（热度：173634）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%AB%E9%99%84%E8%BF%91%E6%8A%AB%E8%90%A8%E8%AE%A2%E5%8D%95%E4%B9%9F%E7%88%86%E4%BA%86%23" target="weibo">
 白宫附近披萨订单也爆了（热度：87178）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E4%B8%8B%E4%B8%80%E5%AD%A3%E8%A6%81%E6%8D%A2%E4%BA%BA%E4%BA%86%23" target="weibo">
-奔跑吧下一季要换人了（热度：87138）
 </a>
 </li>
 
@@ -527,6 +569,12 @@ Gemini向小胖道歉（热度：173634）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%AF%B4%E6%AF%8F%E6%AC%A1%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%E5%83%8F%E8%BF%9B%E6%96%B0%E4%B8%96%E7%95%8C%23" target="weibo">
 李在明说每次访问中国像进新世界（热度：70659）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%89%AF%E6%80%BB%E7%BB%9F%E4%BB%A3%E8%A1%8C%E6%80%BB%E7%BB%9F%E8%81%8C%E6%9D%83%23" target="weibo">
+委内瑞拉副总统代行总统职权（热度：69831）
 </a>
 </li>
 
@@ -729,6 +777,12 @@ MRC夺冠（热度：40693）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%9C%E7%BD%975%E6%97%A5%E6%88%96%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6%E8%81%94%E9%82%A6%E6%B3%95%E9%99%A2%E5%87%BA%E5%BA%AD%23" target="weibo">
+马杜罗5日或在美国纽约联邦法院出庭（热度：36188）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%94%A9%E5%B0%BE%23" target="weibo">
 雷军回应小米汽车甩尾（热度：34599）
 </a>
@@ -784,19 +838,19 @@ MRC夺冠（热度：40693）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%232026%E5%BC%80%E5%B9%B4%E5%9B%BE%E6%99%AF%23" target="weibo">
-2026开年图景（热度：21521）
+2026开年图景（热度：21976）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E4%BA%8C%E4%B8%89%E5%8D%81%E5%85%83%E4%B8%80%E6%96%A4%E6%88%90%E4%B8%BA%E4%B8%BB%E6%B5%81%23" target="weibo">
+车厘子二三十元一斤成为主流（热度：21274）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E8%AF%B4%E4%BB%8A%E5%B9%B4%E6%9C%89%E5%85%A8%E5%8E%9F%E5%88%9B%E4%B8%93%E8%BE%91%23" target="weibo">
 王源说今年有全原创专辑（热度：18863）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%9C%E7%BD%975%E6%97%A5%E6%88%96%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6%E8%81%94%E9%82%A6%E6%B3%95%E9%99%A2%E5%87%BA%E5%BA%AD%23" target="weibo">
-马杜罗5日或在美国纽约联邦法院出庭（热度：17305）
 </a>
 </li>
 
