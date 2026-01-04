@@ -1,6 +1,6 @@
 {
   "startTime": 1767544434885,
-  "endTime": 1767544434885,
+  "endTime": 1767545299024,
   "band_list": [
     {
       "raw_hot": 1158219,
@@ -19,20 +19,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 369726,
+      "num": 495836,
+      "word": "男子假期嫖娼被拘隐瞒7年被辞退",
+      "onboard_time": 1767535584,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 363403,
       "num": 513173,
       "word": "大麦提前放票",
       "onboard_time": 1767537924,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 359998,
-      "num": 495836,
-      "word": "男子假期嫖娼被拘隐瞒7年被辞退",
-      "onboard_time": 1767535584,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 306418,
@@ -155,7 +155,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 116929,
+      "raw_hot": 123432,
       "num": 190083,
       "word": "那英2026演唱会官宣",
       "onboard_time": 1767542120,
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90943,
+      "num": 189380,
+      "word": "曾志伟卸任TVB总经理",
+      "onboard_time": 1767543920,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85513,
       "num": 190189,
       "word": "流落柬埔寨街头中国女子已被找到",
@@ -249,6 +257,14 @@
       "onboard_time": 1767524902,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 76421,
+      "num": 189456,
+      "word": "偶遇朱志鑫张泽禹张极逛山姆",
+      "onboard_time": 1767543142,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 74311,
@@ -289,14 +305,6 @@
       "onboard_time": 1767524423,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 66732,
-      "num": 189456,
-      "word": "偶遇朱志鑫张泽禹张极逛山姆",
-      "onboard_time": 1767543142,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 62061,
@@ -347,6 +355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 54460,
+      "num": 146070,
+      "word": "王力宏演唱会跨晚级别",
+      "onboard_time": 1767544579,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 52102,
       "num": 189172,
       "word": "王者六元皮肤天花板",
@@ -387,12 +403,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48632,
-      "num": 189380,
-      "word": "曾志伟卸任TVB总经理",
-      "onboard_time": 1767543920,
-      "rank": 39,
+      "raw_hot": 46134,
+      "num": 145917,
+      "word": "郝熠然云旗直播唱歌",
+      "onboard_time": 1767531384,
+      "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38490,
+      "num": 145794,
+      "word": "德国杯",
+      "onboard_time": 1767529824,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 31353,

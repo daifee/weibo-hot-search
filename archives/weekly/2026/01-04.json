@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767544434885,
+  "endTime": 1767545299024,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -2227,6 +2227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123432,
+      "num": 190083,
+      "word": "那英2026演唱会官宣",
+      "onboard_time": 1767542120,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122971,
       "num": 122971,
       "word": "经常生闷气会掏空人的气血",
@@ -2321,14 +2329,6 @@
       "onboard_time": 1767536244,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 116929,
-      "num": 190083,
-      "word": "那英2026演唱会官宣",
-      "onboard_time": 1767542120,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 116803,
@@ -2883,6 +2883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 90943,
+      "num": 189380,
+      "word": "曾志伟卸任TVB总经理",
+      "onboard_time": 1767543920,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90838,
       "num": 252186,
       "word": "男子征婚约见女子强行发生关系",
@@ -3123,6 +3131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76421,
+      "num": 189456,
+      "word": "偶遇朱志鑫张泽禹张极逛山姆",
+      "onboard_time": 1767543142,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73811,
       "num": 433844,
       "word": "特朗普透露夜袭细节",
@@ -3217,14 +3233,6 @@
       "onboard_time": 1767451586,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 66732,
-      "num": 189456,
-      "word": "偶遇朱志鑫张泽禹张极逛山姆",
-      "onboard_time": 1767543142,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 66499,
@@ -3363,6 +3371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 54460,
+      "num": 146070,
+      "word": "王力宏演唱会跨晚级别",
+      "onboard_time": 1767544579,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 53133,
       "num": 671353,
       "word": "华晨宇火星1.0海口全记录",
@@ -3449,14 +3465,6 @@
       "onboard_time": 1767457821,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 48632,
-      "num": 189380,
-      "word": "曾志伟卸任TVB总经理",
-      "onboard_time": 1767543920,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 47773,
