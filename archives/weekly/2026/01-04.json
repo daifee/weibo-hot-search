@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767566706666,
+  "endTime": 1767569276783,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -659,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 375524,
+      "num": 803990,
+      "word": "现在的演员成功的让我戒掉了电视剧",
+      "onboard_time": 1767539484,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 375440,
       "num": 375440,
       "word": "载有马杜罗飞机抵达纽约",
@@ -875,14 +883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 306418,
-      "num": 496618,
-      "word": "现在的演员成功的让我戒掉了电视剧",
-      "onboard_time": 1767539484,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 304212,
       "num": 304212,
       "word": "汉堡王就崩溃道歉",
@@ -921,6 +921,14 @@
       "onboard_time": 1767482839,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293172,
+      "num": 254121,
+      "word": "委内瑞拉之后这些国家面临危险",
+      "onboard_time": 1767535824,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 288136,
@@ -1188,7 +1196,7 @@
     },
     {
       "raw_hot": 228963,
-      "num": 189961,
+      "num": 573283,
       "word": "为啥车厘子1个月到中国都不腐烂",
       "onboard_time": 1767541943,
       "rank": 22,
@@ -1473,6 +1481,22 @@
       "onboard_time": 1767539305,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185088,
+      "num": 185088,
+      "word": "樊振东留洋生涯首冠",
+      "onboard_time": 1767568036,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 184590,
+      "num": 270869,
+      "word": "知名企业家汪海与儿子断绝关系",
+      "onboard_time": 1767533425,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184090,
@@ -1779,6 +1803,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 157034,
+      "num": 157034,
+      "word": "小寒",
+      "onboard_time": 1767569059,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156774,
       "num": 189372,
       "word": "龚俊 别信票务的签名照",
@@ -1915,14 +1947,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 145552,
-      "num": 254121,
-      "word": "委内瑞拉之后这些国家面临危险",
-      "onboard_time": 1767535824,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 145211,
       "num": 145211,
       "word": "双城之战音乐秀选角神还原",
@@ -2043,6 +2067,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 136654,
+      "num": 136654,
+      "word": "樊振东获德国杯MVP",
+      "onboard_time": 1767568098,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136092,
       "num": 124135,
       "word": "骄阳似我固屏一直在亲",
@@ -2089,6 +2121,14 @@
       "onboard_time": 1767526883,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 134374,
+      "num": 134374,
+      "word": "李在明抵京后表态",
+      "onboard_time": 1767568098,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 134042,
@@ -2395,14 +2435,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 112650,
-      "num": 270869,
-      "word": "知名企业家汪海与儿子断绝关系",
-      "onboard_time": 1767533425,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111905,
       "num": 111905,
       "word": "雷军说被黑出了心理阴影",
@@ -2497,6 +2529,14 @@
       "onboard_time": 1767519502,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 106252,
+      "num": 61617,
+      "word": "29岁女子呕吐水肿一查患上尿毒症",
+      "onboard_time": 1767568157,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105837,
@@ -3163,6 +3203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73154,
+      "num": 73154,
+      "word": "马杜罗被控制后遭遇多次换衣",
+      "onboard_time": 1767532943,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 72987,
       "num": 88265,
       "word": "花几千在江浙沪滑雪的中产被坑哭了",
@@ -3193,6 +3241,14 @@
       "onboard_time": 1767483320,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 69912,
+      "num": 69912,
+      "word": "骄阳似我26集37分",
+      "onboard_time": 1767569059,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 69316,
@@ -3291,6 +3347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61681,
+      "num": 61681,
+      "word": "3岁女童疑被父亲女友杀害",
+      "onboard_time": 1767568398,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61294,
       "num": 165490,
       "word": "王者第一颗荣耀水晶换啥好",
@@ -3363,6 +3427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 55663,
+      "num": 55663,
+      "word": "黄宗泽TVB双料视帝",
+      "onboard_time": 1767568879,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 55625,
       "num": 426652,
       "word": "俄强烈敦促美国释放马杜罗",
@@ -3385,6 +3457,14 @@
       "onboard_time": 1767544579,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 54152,
+      "num": 54152,
+      "word": "Faker定制版跑车太帅了",
+      "onboard_time": 1767568217,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 53133,
@@ -3449,6 +3529,14 @@
       "onboard_time": 1767440366,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49894,
+      "num": 49894,
+      "word": "赵今麦穿宋威龙衣服",
+      "onboard_time": 1767568217,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 49170,
@@ -3547,6 +3635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 42792,
+      "num": 42792,
+      "word": "林屿森也太会亲了",
+      "onboard_time": 1767568277,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42134,
       "num": 771066,
       "word": "iG夺得德杯冠军",
@@ -3619,12 +3715,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 38361,
+      "num": 41300,
+      "word": "大麦向鹭卓道歉",
+      "onboard_time": 1767568098,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 38058,
       "num": 290245,
       "word": "鹿晗四巡名场面回顾",
       "onboard_time": 1767461957,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 37488,
+      "num": 41297,
+      "word": "二战后的世界秩序在瓦解",
+      "onboard_time": 1767569118,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 37068,
@@ -3657,6 +3769,14 @@
       "onboard_time": 1767511521,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 34696,
+      "num": 41278,
+      "word": "车厘子自由但消费者开盲盒太闹心",
+      "onboard_time": 1767566475,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34599,
@@ -3812,7 +3932,7 @@
     },
     {
       "raw_hot": 23087,
-      "num": 288751,
+      "num": 479223,
       "word": "这组数据见证活力迸发的元旦假期",
       "onboard_time": 1767533844,
       "rank": 40,
@@ -3905,14 +4025,6 @@
       "onboard_time": 1767466155,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 16394,
-      "num": 35061,
-      "word": "车厘子自由但消费者开盲盒太闹心",
-      "onboard_time": 1767566475,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16299,
