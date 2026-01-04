@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767512572576,
+  "endTime": 1767515830775,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1174284,
-      "num": 399667,
+      "num": 420138,
       "word": "结婚证就得考啊",
       "onboard_time": 1767507802,
       "rank": 16,
@@ -225,6 +225,14 @@
       "onboard_time": 1767445826,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 889490,
+      "num": 1142318,
+      "word": "父亲凌晨去世邻居听到鞭炮声后赶来",
+      "onboard_time": 1767513683,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 874177,
@@ -321,6 +329,14 @@
       "onboard_time": 1767505463,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 746955,
+      "num": 555431,
+      "word": "在柬埔寨流浪女网红父亲发声",
+      "onboard_time": 1767512302,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 744779,
@@ -731,6 +747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 481608,
+      "num": 387080,
+      "word": "今天是委内瑞拉明天可能是任何国家",
+      "onboard_time": 1767510502,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 476728,
       "num": 453390,
       "word": "郭芙蓉自由了",
@@ -835,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 452889,
+      "num": 376984,
+      "word": "iPhone千万别删的自带软件",
+      "onboard_time": 1767512602,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 451400,
       "num": 1052240,
       "word": "韩国最新涉台表态",
@@ -883,12 +915,28 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 439304,
+      "num": 439304,
+      "word": "录完综艺总裁父亲主动向女儿道歉",
+      "onboard_time": 1767510983,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 436427,
       "num": 309841,
       "word": "美国前副总统哈里斯发表声明",
       "onboard_time": 1767504743,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 433681,
+      "num": 237243,
+      "word": "童锦程孩子妈回应要220万",
+      "onboard_time": 1767510683,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 431777,
@@ -905,6 +953,14 @@
       "onboard_time": 1767240862,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 422301,
+      "num": 318299,
+      "word": "相当于刘星判给了夏东海",
+      "onboard_time": 1767514043,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 422087,
@@ -1387,6 +1443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 315815,
+      "num": 588560,
+      "word": "微博之夜",
+      "onboard_time": 1767249260,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 315268,
       "num": 540872,
       "word": "看来赵丽颖与凤行时没拍够",
@@ -1401,6 +1465,14 @@
       "onboard_time": 1767351621,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 314757,
+      "num": 314757,
+      "word": "何炅写了26年的专栏停更了",
+      "onboard_time": 1767508882,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 314272,
@@ -1635,6 +1707,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 280753,
+      "num": 381956,
+      "word": "周深一个跨年唱了98首歌",
+      "onboard_time": 1767511102,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 280388,
+      "num": 280388,
+      "word": "黄子韬哭了",
+      "onboard_time": 1767514523,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280003,
       "num": 1004834,
       "word": "茅台1499元直销成黄牛噩梦",
@@ -1659,11 +1747,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 277223,
-      "num": 277223,
-      "word": "何炅写了26年的专栏停更了",
-      "onboard_time": 1767508882,
-      "rank": 42,
+      "raw_hot": 278779,
+      "num": 278779,
+      "word": "谢娜 女本位",
+      "onboard_time": 1767513263,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -1779,6 +1867,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 263329,
+      "num": 263329,
+      "word": "时代峰峻高会改名",
+      "onboard_time": 1767515724,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261771,
       "num": 1002527,
       "word": "TE对战北京WBG",
@@ -1827,6 +1923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257383,
+      "num": 257383,
+      "word": "宇树科技上市绿色通道被叫停",
+      "onboard_time": 1767512722,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 256749,
       "num": 1096200,
       "word": "玉茗茶骨",
@@ -1857,14 +1961,6 @@
       "onboard_time": 1767370399,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 254475,
-      "num": 172169,
-      "word": "童锦程孩子妈回应要220万",
-      "onboard_time": 1767510683,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 253357,
@@ -2155,14 +2251,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 223438,
-      "num": 392880,
-      "word": "录完综艺总裁父亲主动向女儿道歉",
-      "onboard_time": 1767510983,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 222939,
       "num": 1027316,
       "word": "特朗普承认服用阿司匹林",
@@ -2312,94 +2400,6 @@
       "word": "委内瑞拉内政部长呼吁民众冷静",
       "onboard_time": 1767444506,
       "rank": 42,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 208450,
-      "num": 734719,
-      "word": "薛之谦周深 占有",
-      "onboard_time": 1767367469,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 208247,
-      "num": 997322,
-      "word": "狗狗第一次后悔自己的鼻子很灵",
-      "onboard_time": 1767265880,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 208125,
-      "num": 208125,
-      "word": "周深发长文",
-      "onboard_time": 1767357801,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 208106,
-      "num": 1408635,
-      "word": "专属天使 听哭了",
-      "onboard_time": 1767196045,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 208037,
-      "num": 1644392,
-      "word": "女子吃鸡蛋惊现蛋中蛋",
-      "onboard_time": 1767418526,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 207813,
-      "num": 740407,
-      "word": "陈妍希新喜综被东北人包围了",
-      "onboard_time": 1767410549,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 207588,
-      "num": 1987423,
-      "word": "月亮",
-      "onboard_time": 1767432925,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 206472,
-      "num": 209242,
-      "word": "足浴店涉嫌非法聘用外国人被查",
-      "onboard_time": 1767506543,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 206109,
-      "num": 381956,
-      "word": "周深一个跨年唱了98首歌",
-      "onboard_time": 1767511102,
-      "rank": 22,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 205987,
-      "num": 1005065,
-      "word": "高市早苗被爆造假",
-      "onboard_time": 1767257842,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 205823,
-      "num": 258403,
-      "word": "马杜罗",
-      "onboard_time": 1767481818,
-      "rank": 17,
       "category": "国际时政"
     }
   ],

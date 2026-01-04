@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767512572576,
+  "endTime": 1767515830775,
   "band_list": [
     {
       "raw_hot": 1631134,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1174284,
-      "num": 399667,
+      "num": 420138,
       "word": "结婚证就得考啊",
       "onboard_time": 1767507802,
       "rank": 16,
@@ -83,6 +83,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 889490,
+      "num": 1142318,
+      "word": "父亲凌晨去世邻居听到鞭炮声后赶来",
+      "onboard_time": 1767513683,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 868006,
       "num": 753435,
       "word": "特朗普称将占领管理委内瑞拉",
@@ -121,6 +129,14 @@
       "onboard_time": 1767505463,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 746955,
+      "num": 555431,
+      "word": "在柬埔寨流浪女网红父亲发声",
+      "onboard_time": 1767512302,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 678667,
@@ -227,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 481608,
+      "num": 387080,
+      "word": "今天是委内瑞拉明天可能是任何国家",
+      "onboard_time": 1767510502,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 476168,
       "num": 334562,
       "word": "娜扎把玉茗茶骨叫玉米排骨",
@@ -249,6 +273,14 @@
       "onboard_time": 1767483920,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 452889,
+      "num": 376984,
+      "word": "iPhone千万别删的自带软件",
+      "onboard_time": 1767512602,
+      "rank": 7,
+      "category": "数码"
     },
     {
       "raw_hot": 451221,
@@ -275,12 +307,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 439304,
+      "num": 439304,
+      "word": "录完综艺总裁父亲主动向女儿道歉",
+      "onboard_time": 1767510983,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 436427,
       "num": 309841,
       "word": "美国前副总统哈里斯发表声明",
       "onboard_time": 1767504743,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 433681,
+      "num": 237243,
+      "word": "童锦程孩子妈回应要220万",
+      "onboard_time": 1767510683,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 431777,
@@ -297,6 +345,14 @@
       "onboard_time": 1767426205,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 422301,
+      "num": 318299,
+      "word": "相当于刘星判给了夏东海",
+      "onboard_time": 1767514043,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 417150,
@@ -459,6 +515,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 315815,
+      "num": 315815,
+      "word": "微博之夜",
+      "onboard_time": 1767514583,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 314757,
+      "num": 314757,
+      "word": "何炅写了26年的专栏停更了",
+      "onboard_time": 1767508882,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 312147,
       "num": 734200,
       "word": "合肥下雪",
@@ -523,6 +595,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 280753,
+      "num": 381956,
+      "word": "周深一个跨年唱了98首歌",
+      "onboard_time": 1767511102,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 280388,
+      "num": 280388,
+      "word": "黄子韬哭了",
+      "onboard_time": 1767514523,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 279552,
       "num": 279552,
       "word": "迪丽热巴红秀开年封面",
@@ -531,11 +619,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 277223,
-      "num": 277223,
-      "word": "何炅写了26年的专栏停更了",
-      "onboard_time": 1767508882,
-      "rank": 42,
+      "raw_hot": 278779,
+      "num": 278779,
+      "word": "谢娜 女本位",
+      "onboard_time": 1767513263,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -563,6 +651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 263329,
+      "num": 263329,
+      "word": "时代峰峻高会改名",
+      "onboard_time": 1767515724,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259394,
       "num": 259394,
       "word": "人一接近退休气血就开始回来了",
@@ -571,20 +667,20 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 257383,
+      "num": 257383,
+      "word": "宇树科技上市绿色通道被叫停",
+      "onboard_time": 1767512722,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 255943,
       "num": 255943,
       "word": "中方呼吁立即释放马杜罗夫妇",
       "onboard_time": 1767507024,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 254475,
-      "num": 172169,
-      "word": "童锦程孩子妈回应要220万",
-      "onboard_time": 1767510683,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 253114,
@@ -715,14 +811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 223438,
-      "num": 392880,
-      "word": "录完综艺总裁父亲主动向女儿道歉",
-      "onboard_time": 1767510983,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 222702,
       "num": 222702,
       "word": "易烊千玺起诉眼镜公司侵权",
@@ -745,14 +833,6 @@
       "onboard_time": 1767506543,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 206109,
-      "num": 381956,
-      "word": "周深一个跨年唱了98首歌",
-      "onboard_time": 1767511102,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 205823,
@@ -843,6 +923,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189868,
+      "num": 154365,
+      "word": "老人不慎从15楼坠落至7楼 卡在半空",
+      "onboard_time": 1767515422,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186517,
+      "num": 186517,
+      "word": "高瀚宇分享鹿晗单曲",
+      "onboard_time": 1767514822,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 186429,
       "num": 186429,
       "word": "张凌赫开年第一爆",
@@ -851,12 +947,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183921,
-      "num": 174188,
-      "word": "今天是委内瑞拉明天可能是任何国家",
-      "onboard_time": 1767510502,
-      "rank": 23,
-      "category": "国际时政"
+      "raw_hot": 183870,
+      "num": 183870,
+      "word": "荣耀之战",
+      "onboard_time": 1767514642,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 183272,
+      "num": 183272,
+      "word": "海外网友吻上骄阳似我",
+      "onboard_time": 1767514583,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 180190,
@@ -905,6 +1009,14 @@
       "onboard_time": 1767453265,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 169874,
+      "num": 169874,
+      "word": "小英自曝被上拉如身边人欺负",
+      "onboard_time": 1767515362,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 168411,
@@ -1027,6 +1139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 154352,
+      "num": 154352,
+      "word": "如果一个人长期不工作",
+      "onboard_time": 1767514102,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153794,
       "num": 153794,
       "word": "医生提醒倒头就睡可能是身体在报警",
@@ -1057,6 +1177,14 @@
       "onboard_time": 1767439286,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 149669,
+      "num": 149669,
+      "word": "李施嬅的身体状态变差了很多",
+      "onboard_time": 1767512182,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 149216,
@@ -1099,6 +1227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 144262,
+      "num": 156675,
+      "word": "车厘子正确清洗教程来了",
+      "onboard_time": 1767514223,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142265,
       "num": 717318,
       "word": "陈都灵邓为或二搭黛色",
@@ -1123,6 +1259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 139751,
+      "num": 139751,
+      "word": "黄金白银将迎新年第一劫",
+      "onboard_time": 1767515483,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 137417,
       "num": 137417,
       "word": "韩国总统李在明将访华",
@@ -1139,12 +1283,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135245,
+      "num": 135245,
+      "word": "高市早苗面临艰难抉择",
+      "onboard_time": 1767513742,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 135197,
+      "num": 135197,
+      "word": "曝ShowMaker与女友就餐",
+      "onboard_time": 1767515483,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134042,
       "num": 134042,
       "word": "小孩菜",
       "onboard_time": 1767490101,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131197,
+      "num": 131197,
+      "word": "被张碧晨这一下帅晕了",
+      "onboard_time": 1767513501,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 128954,
+      "num": 128954,
+      "word": "张栋梁拒唱成名曲气哭经纪人",
+      "onboard_time": 1767513142,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 127550,
@@ -1211,6 +1387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124513,
+      "num": 124513,
+      "word": "马杜罗押送途中对着镜头比出剪刀手",
+      "onboard_time": 1767515544,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 122971,
       "num": 122971,
       "word": "经常生闷气会掏空人的气血",
@@ -1235,12 +1419,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115568,
+      "num": 115568,
+      "word": "比老己听起来雅一点的自称",
+      "onboard_time": 1767515602,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115083,
       "num": 223078,
       "word": "杨瀚森2分2篮板2盖帽",
       "onboard_time": 1767499403,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114248,
+      "num": 114248,
+      "word": "原来这是生理性厌恶的表现",
+      "onboard_time": 1767513742,
+      "rank": 46,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 111905,
@@ -1283,20 +1483,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 108082,
+      "num": 108082,
+      "word": "狠心的爸复仇的妈和心碎的她",
+      "onboard_time": 1767514763,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107523,
       "num": 789867,
       "word": "联合国回应委内瑞拉局势",
       "onboard_time": 1767457281,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 106339,
-      "num": 126339,
-      "word": "在柬埔寨流浪女网红父亲发声",
-      "onboard_time": 1767512302,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 105803,
@@ -1361,14 +1561,6 @@
       "onboard_time": 1767509062,
       "rank": 42,
       "category": "剧集,综艺"
-    },
-    {
-      "raw_hot": 98370,
-      "num": 122980,
-      "word": "李施嬅的身体状态变差了很多",
-      "onboard_time": 1767512182,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 97125,
@@ -1507,6 +1699,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 83406,
+      "num": 154367,
+      "word": "抓住马杜罗的三角洲部队是何来头",
+      "onboard_time": 1767514043,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 82737,
       "num": 82737,
       "word": "小猫想换水了怎么办",
@@ -1561,6 +1761,14 @@
       "onboard_time": 1767435085,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76109,
+      "num": 320677,
+      "word": "湖北省政协原副主席周先旺被双开",
+      "onboard_time": 1767514702,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 73811,
@@ -2137,6 +2345,14 @@
       "onboard_time": 1767466155,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 16299,
+      "num": 131701,
+      "word": "罗马仕将计划重新获取新3C认证",
+      "onboard_time": 1767514702,
+      "rank": 39,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 14148,
