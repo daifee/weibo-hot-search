@@ -1,0 +1,410 @@
+{
+  "runTime": 1767508923598,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 755347,
+        "num": 1120855,
+        "word": "韩国总统李在明抵达北京",
+        "onboard_time": 1767505463,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 605862,
+        "num": 835704,
+        "word": "外交部回应美强行控制委总统夫妇",
+        "onboard_time": 1767507983,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20347,
+        "num": 641367,
+        "word": "贺词里的中国",
+        "onboard_time": 1767501144,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 443928,
+        "num": 443928,
+        "word": "车厘子 褪黑素",
+        "onboard_time": 1767483558,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 431777,
+        "num": 431777,
+        "word": "网传周深白鹿下车敖瑞鹏翟子路补位",
+        "onboard_time": 1767506242,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 532784,
+        "num": 424813,
+        "word": "iPhoneFold上手",
+        "onboard_time": 1767505283,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 507982,
+        "num": 423198,
+        "word": "委内瑞拉石油储量世界第一",
+        "onboard_time": 1767503663,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 507422,
+        "num": 416205,
+        "word": "爸爸微信有两千个置顶",
+        "onboard_time": 1767497601,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 404975,
+        "num": 404975,
+        "word": "宝马官宣降价",
+        "onboard_time": 1767502584,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 310161,
+        "num": 310161,
+        "word": "哥伦比亚总统回怼特朗普威胁",
+        "onboard_time": 1767503901,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 436427,
+        "num": 309841,
+        "word": "美国前副总统哈里斯发表声明",
+        "onboard_time": 1767504743,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 307255,
+        "num": 307255,
+        "word": "赵丽颖一句话扎到黄晓明",
+        "onboard_time": 1767504263,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303441,
+        "num": 303441,
+        "word": "TF荣耀之战",
+        "onboard_time": 1767502883,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 276429,
+        "num": 276429,
+        "word": "迪丽热巴红秀开年封面",
+        "onboard_time": 1767504982,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255943,
+        "num": 255943,
+        "word": "中方呼吁立即释放马杜罗夫妇",
+        "onboard_time": 1767507024,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 223500,
+        "num": 223500,
+        "word": "车厘子价格暴跌商家却赚麻了",
+        "onboard_time": 1767497902,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205364,
+        "num": 205364,
+        "word": "结婚证就得考啊",
+        "onboard_time": 1767507802,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134852,
+        "num": 204189,
+        "word": "马龙说有王楚钦在很心定",
+        "onboard_time": 1767504202,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204174,
+        "num": 204174,
+        "word": "被播放了70亿次的声音竟然是她",
+        "onboard_time": 1767508162,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40557,
+        "num": 183693,
+        "word": "2026国补新变化",
+        "onboard_time": 1767508162,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224037,
+        "num": 183479,
+        "word": "loveissoap说童锦程配不上她",
+        "onboard_time": 1767502944,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 222130,
+        "num": 183357,
+        "word": "奔跑吧下一季要换人了",
+        "onboard_time": 1767493341,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181431,
+        "num": 181431,
+        "word": "李在明",
+        "onboard_time": 1767495322,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174666,
+        "num": 174666,
+        "word": "郑钧15岁儿子近照",
+        "onboard_time": 1767504383,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165455,
+        "num": 165455,
+        "word": "偶遇余承恩带娃",
+        "onboard_time": 1767506723,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153664,
+        "num": 153664,
+        "word": "云初令",
+        "onboard_time": 1767503901,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145688,
+        "num": 145688,
+        "word": "泽连斯基谈马杜罗被捕笑意难掩",
+        "onboard_time": 1767500063,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109873,
+        "num": 132877,
+        "word": "足浴店涉嫌非法聘用外国人被查",
+        "onboard_time": 1767506543,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128643,
+        "num": 128643,
+        "word": "特朗普警告哥伦比亚总统小心点",
+        "onboard_time": 1767483920,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99884,
+        "num": 122941,
+        "word": "房价219万销售承诺送72万元黄金",
+        "onboard_time": 1767492802,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229110,
+        "num": 120374,
+        "word": "纽约市长已致电特朗普",
+        "onboard_time": 1767507262,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117652,
+        "num": 117652,
+        "word": "空枪",
+        "onboard_time": 1767503123,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117176,
+        "num": 117176,
+        "word": "白鹿新综录制",
+        "onboard_time": 1767502584,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102464,
+        "num": 102464,
+        "word": "金价波动",
+        "onboard_time": 1767504503,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 101791,
+        "num": 101791,
+        "word": "结石姐原来不知自己上歌手要比赛",
+        "onboard_time": 1767508643,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37068,
+        "num": 100997,
+        "word": "几毛钱学的AI魔改1条能赚上千",
+        "onboard_time": 1767506963,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100521,
+        "num": 100521,
+        "word": "中方呼吁美方停止颠覆委政权",
+        "onboard_time": 1767508042,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 85743,
+        "num": 98545,
+        "word": "残疾阿姨反复撞车导致车主损失过万",
+        "onboard_time": 1767499522,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97500,
+        "num": 97500,
+        "word": "特朗普称美在西半球地位再不会被质疑",
+        "onboard_time": 1767496283,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94648,
+        "num": 95904,
+        "word": "豆瓣好卡",
+        "onboard_time": 1767504023,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 95797,
+        "num": 95797,
+        "word": "微信状态的好用我后知后觉",
+        "onboard_time": 1767501803,
+        "rank": 40,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 95784,
+        "num": 95784,
+        "word": "唐嫣你别演了我害怕",
+        "onboard_time": 1767503303,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38335,
+        "num": 93557,
+        "word": "何炅写了26年的专栏停更了",
+        "onboard_time": 1767508882,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93372,
+        "num": 93372,
+        "word": "中方呼吁美方确保马杜罗夫妇人身安全",
+        "onboard_time": 1767508162,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138652,
+        "num": 91758,
+        "word": "汉堡王崩了",
+        "onboard_time": 1767493042,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 89793,
+        "num": 89793,
+        "word": "苹果回应国行版AI",
+        "onboard_time": 1767507262,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 83861,
+        "num": 83861,
+        "word": "2026年考试日历",
+        "onboard_time": 1767508102,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 82737,
+        "num": 82737,
+        "word": "小猫想换水了怎么办",
+        "onboard_time": 1767507082,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80563,
+        "num": 80563,
+        "word": "委内瑞拉遭袭24小时后",
+        "onboard_time": 1767508882,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 79193,
+        "num": 79193,
+        "word": "我以前的米饭简直就是在乱吃",
+        "onboard_time": 1767507082,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席2026年新年贺词启示录#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767505773107,
+  "endTime": 1767508923598,
   "band_list": [
     {
       "raw_hot": 1631134,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1200620,
-      "num": 355291,
+      "num": 416205,
       "word": "爸爸微信有两千个置顶",
       "onboard_time": 1767497601,
       "rank": 5,
@@ -99,6 +99,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 755347,
+      "num": 1120855,
+      "word": "韩国总统李在明抵达北京",
+      "onboard_time": 1767505463,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 678667,
       "num": 678667,
       "word": "奔跑吧下一季要换人了",
@@ -120,6 +128,14 @@
       "word": "马杜罗戴脚镣走下飞机",
       "onboard_time": 1767489323,
       "rank": 11,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 605862,
+      "num": 835704,
+      "word": "外交部回应美强行控制委总统夫妇",
+      "onboard_time": 1767507983,
+      "rank": 1,
       "category": "国际时政"
     },
     {
@@ -155,6 +171,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 532784,
+      "num": 424813,
+      "word": "iPhoneFold上手",
+      "onboard_time": 1767505283,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 521015,
       "num": 241642,
       "word": "美国强掳马杜罗中俄英法表态",
@@ -168,6 +192,14 @@
       "word": "特朗普称美在西半球地位再不会被质疑",
       "onboard_time": 1767496283,
       "rank": 6,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 507982,
+      "num": 423198,
+      "word": "委内瑞拉石油储量世界第一",
+      "onboard_time": 1767503663,
+      "rank": 15,
       "category": "国际时政"
     },
     {
@@ -191,14 +223,6 @@
       "num": 270281,
       "word": "特朗普警告哥伦比亚总统小心点",
       "onboard_time": 1767483920,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 451992,
-      "num": 352923,
-      "word": "委内瑞拉石油储量世界第一",
-      "onboard_time": 1767503663,
       "rank": 15,
       "category": "国际时政"
     },
@@ -227,6 +251,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 436427,
+      "num": 309841,
+      "word": "美国前副总统哈里斯发表声明",
+      "onboard_time": 1767504743,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 431777,
+      "num": 431777,
+      "word": "网传周深白鹿下车敖瑞鹏翟子路补位",
+      "onboard_time": 1767506242,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 426880,
       "num": 820928,
       "word": "委内瑞拉",
@@ -249,6 +289,14 @@
       "onboard_time": 1767451766,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 404975,
+      "num": 404975,
+      "word": "宝马官宣降价",
+      "onboard_time": 1767502584,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 394705,
@@ -339,14 +387,6 @@
       "category": "体育,剧集"
     },
     {
-      "raw_hot": 358013,
-      "num": 358013,
-      "word": "宝马官宣降价",
-      "onboard_time": 1767502584,
-      "rank": 18,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 356918,
       "num": 461812,
       "word": "特朗普",
@@ -377,6 +417,14 @@
       "onboard_time": 1767491542,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 310161,
+      "num": 310161,
+      "word": "哥伦比亚总统回怼特朗普威胁",
+      "onboard_time": 1767503901,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 309469,
@@ -435,6 +483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 276429,
+      "num": 276429,
+      "word": "迪丽热巴红秀开年封面",
+      "onboard_time": 1767504982,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275280,
       "num": 519997,
       "word": "雷军确认小字营销要改",
@@ -451,20 +507,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 266023,
-      "num": 266023,
-      "word": "哥伦比亚总统回怼特朗普威胁",
-      "onboard_time": 1767503901,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 259394,
       "num": 259394,
       "word": "人一接近退休气血就开始回来了",
       "onboard_time": 1767485541,
       "rank": 7,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 255943,
+      "num": 255943,
+      "word": "中方呼吁立即释放马杜罗夫妇",
+      "onboard_time": 1767507024,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 253114,
@@ -571,6 +627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 229110,
+      "num": 120374,
+      "word": "纽约市长已致电特朗普",
+      "onboard_time": 1767507262,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 228554,
       "num": 272019,
       "word": "残疾阿姨反复撞车导致车主损失过万",
@@ -611,28 +675,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 214174,
-      "num": 195492,
-      "word": "美国前副总统哈里斯发表声明",
-      "onboard_time": 1767504743,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 209808,
-      "num": 209808,
-      "word": "迪丽热巴红秀开年封面",
-      "onboard_time": 1767504982,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205823,
       "num": 258403,
       "word": "马杜罗",
       "onboard_time": 1767481818,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 205364,
+      "num": 205364,
+      "word": "结婚证就得考啊",
+      "onboard_time": 1767507802,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 204174,
+      "num": 204174,
+      "word": "被播放了70亿次的声音竟然是她",
+      "onboard_time": 1767508162,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 203135,
@@ -697,14 +761,6 @@
       "onboard_time": 1767500063,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 185878,
-      "num": 185878,
-      "word": "iPhoneFold上手",
-      "onboard_time": 1767505283,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 180190,
@@ -793,6 +849,14 @@
       "onboard_time": 1767490822,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 165455,
+      "num": 165455,
+      "word": "偶遇余承恩带娃",
+      "onboard_time": 1767506723,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 164724,
@@ -931,6 +995,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134852,
+      "num": 232485,
+      "word": "马龙说有王楚钦在很心定",
+      "onboard_time": 1767504202,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134042,
       "num": 134042,
       "word": "小孩菜",
@@ -1035,6 +1107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 109873,
+      "num": 132877,
+      "word": "足浴店涉嫌非法聘用外国人被查",
+      "onboard_time": 1767506543,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109661,
       "num": 109661,
       "word": "黄子韬王鹤棣自曝想拍短剧",
@@ -1073,6 +1153,22 @@
       "onboard_time": 1767456082,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101791,
+      "num": 101791,
+      "word": "结石姐原来不知自己上歌手要比赛",
+      "onboard_time": 1767508643,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100521,
+      "num": 100521,
+      "word": "中方呼吁美方停止颠覆委政权",
+      "onboard_time": 1767508042,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 100235,
@@ -1123,6 +1219,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 93372,
+      "num": 93372,
+      "word": "中方呼吁美方确保马杜罗夫妇人身安全",
+      "onboard_time": 1767508162,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 92898,
       "num": 120191,
       "word": "王一博还搁这童话故事呢",
@@ -1139,12 +1243,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 92484,
-      "num": 232485,
-      "word": "马龙说有王楚钦在很心定",
-      "onboard_time": 1767504202,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 89793,
+      "num": 89793,
+      "word": "苹果回应国行版AI",
+      "onboard_time": 1767507262,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 89510,
@@ -1179,12 +1283,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 83861,
+      "num": 83861,
+      "word": "2026年考试日历",
+      "onboard_time": 1767508102,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 83503,
       "num": 138911,
       "word": "茅台批发价再度跌破1499元",
       "onboard_time": 1767497484,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 82737,
+      "num": 82737,
+      "word": "小猫想换水了怎么办",
+      "onboard_time": 1767507082,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 82327,
@@ -1203,11 +1323,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 79432,
-      "num": 231248,
-      "word": "韩国总统李在明抵达北京",
-      "onboard_time": 1767505463,
-      "rank": 20,
+      "raw_hot": 80563,
+      "num": 80563,
+      "word": "委内瑞拉遭袭24小时后",
+      "onboard_time": 1767508882,
+      "rank": 48,
       "category": "国际时政"
     },
     {
@@ -1217,6 +1337,14 @@
       "onboard_time": 1767450567,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 79193,
+      "num": 79193,
+      "word": "我以前的米饭简直就是在乱吃",
+      "onboard_time": 1767507082,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 76280,
@@ -1547,6 +1675,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 40557,
+      "num": 183693,
+      "word": "2026国补新变化",
+      "onboard_time": 1767508162,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40002,
       "num": 56104,
       "word": "今年黄金白银还涨吗",
@@ -1571,12 +1707,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 38335,
+      "num": 93557,
+      "word": "何炅写了26年的专栏停更了",
+      "onboard_time": 1767508882,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38058,
       "num": 290245,
       "word": "鹿晗四巡名场面回顾",
       "onboard_time": 1767461957,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 37068,
+      "num": 100997,
+      "word": "几毛钱学的AI魔改1条能赚上千",
+      "onboard_time": 1767506963,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36755,
@@ -1707,7 +1859,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19659,
+      "raw_hot": 20347,
       "num": 649846,
       "word": "贺词里的中国",
       "onboard_time": 1767501144,

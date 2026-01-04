@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767505773107,
+  "endTime": 1767508923598,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1200620,
-      "num": 355291,
+      "num": 416205,
       "word": "爸爸微信有两千个置顶",
       "onboard_time": 1767497601,
       "rank": 5,
@@ -299,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 755347,
+      "num": 1120855,
+      "word": "韩国总统李在明抵达北京",
+      "onboard_time": 1767505463,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 744779,
       "num": 981643,
       "word": "张杰歌迷会 愿我们莫忘来时路",
@@ -425,6 +433,14 @@
       "onboard_time": 1767402928,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 605862,
+      "num": 835704,
+      "word": "外交部回应美强行控制委总统夫妇",
+      "onboard_time": 1767507983,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 601729,
@@ -555,6 +571,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 532784,
+      "num": 424813,
+      "word": "iPhoneFold上手",
+      "onboard_time": 1767505283,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 531588,
       "num": 1085054,
       "word": "92年小伙看到12岁养女作文后泪崩",
@@ -625,6 +649,14 @@
       "onboard_time": 1767260061,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 507982,
+      "num": 423198,
+      "word": "委内瑞拉石油储量世界第一",
+      "onboard_time": 1767503663,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 506183,
@@ -779,14 +811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 451992,
-      "num": 352923,
-      "word": "委内瑞拉石油储量世界第一",
-      "onboard_time": 1767503663,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 451400,
       "num": 1052240,
       "word": "韩国最新涉台表态",
@@ -833,6 +857,22 @@
       "onboard_time": 1767415407,
       "rank": 32,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 436427,
+      "num": 309841,
+      "word": "美国前副总统哈里斯发表声明",
+      "onboard_time": 1767504743,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 431777,
+      "num": 431777,
+      "word": "网传周深白鹿下车敖瑞鹏翟子路补位",
+      "onboard_time": 1767506242,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 428471,
@@ -905,6 +945,14 @@
       "onboard_time": 1767228139,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 404975,
+      "num": 404975,
+      "word": "宝马官宣降价",
+      "onboard_time": 1767502584,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 404537,
@@ -1105,14 +1153,6 @@
       "onboard_time": 1767500243,
       "rank": 26,
       "category": "体育,剧集"
-    },
-    {
-      "raw_hot": 358013,
-      "num": 358013,
-      "word": "宝马官宣降价",
-      "onboard_time": 1767502584,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 357944,
@@ -1337,6 +1377,14 @@
       "onboard_time": 1767401246,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 310161,
+      "num": 310161,
+      "word": "哥伦比亚总统回怼特朗普威胁",
+      "onboard_time": 1767503901,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 309469,
@@ -1571,6 +1619,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 276429,
+      "num": 276429,
+      "word": "迪丽热巴红秀开年封面",
+      "onboard_time": 1767504982,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275280,
       "num": 519997,
       "word": "雷军确认小字营销要改",
@@ -1633,14 +1689,6 @@
       "onboard_time": 1767253520,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 266023,
-      "num": 266023,
-      "word": "哥伦比亚总统回怼特朗普威胁",
-      "onboard_time": 1767503901,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 265455,
@@ -1737,6 +1785,14 @@
       "onboard_time": 1767354441,
       "rank": 40,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 255943,
+      "num": 255943,
+      "word": "中方呼吁立即释放马杜罗夫妇",
+      "onboard_time": 1767507024,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 254798,
@@ -1995,6 +2051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 229110,
+      "num": 120374,
+      "word": "纽约市长已致电特朗普",
+      "onboard_time": 1767507262,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 228554,
       "num": 272019,
       "word": "残疾阿姨反复撞车导致车主损失过万",
@@ -2131,14 +2195,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 214174,
-      "num": 195492,
-      "word": "美国前副总统哈里斯发表声明",
-      "onboard_time": 1767504743,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 213249,
       "num": 519243,
       "word": "看完这一集不敢喝排骨汤了",
@@ -2169,14 +2225,6 @@
       "onboard_time": 1767434006,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 209808,
-      "num": 209808,
-      "word": "迪丽热巴红秀开年封面",
-      "onboard_time": 1767504982,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 209761,
@@ -2275,6 +2323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 205364,
+      "num": 205364,
+      "word": "结婚证就得考啊",
+      "onboard_time": 1767507802,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204663,
       "num": 1094779,
       "word": "酒店泄露妻子视频险致夫妻离婚",
@@ -2288,6 +2344,14 @@
       "word": "松鼠夜袭王一博",
       "onboard_time": 1767416727,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 204174,
+      "num": 204174,
+      "word": "被播放了70亿次的声音竟然是她",
+      "onboard_time": 1767508162,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -2336,70 +2400,6 @@
       "word": "姚晨再发短片纪念武林外传",
       "onboard_time": 1767356241,
       "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 200394,
-      "num": 1880794,
-      "word": "当年的男神现在叫我奶奶",
-      "onboard_time": 1767431305,
-      "rank": 5,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 199891,
-      "num": 595042,
-      "word": "暖阳 FMVP皮肤还没考虑好",
-      "onboard_time": 1767357620,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 199048,
-      "num": 830504,
-      "word": "雷军回应小米超强钢争议",
-      "onboard_time": 1767453205,
-      "rank": 25,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 199037,
-      "num": 199037,
-      "word": "胡锡进评美国开了一个恶劣的先例",
-      "onboard_time": 1767481939,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 198081,
-      "num": 549838,
-      "word": "金价波动",
-      "onboard_time": 1767252739,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 197331,
-      "num": 1722080,
-      "word": "长生珠绣流苏西装造型",
-      "onboard_time": 1767432804,
-      "rank": 27,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 196640,
-      "num": 635609,
-      "word": "心有林曦 舅舅出品",
-      "onboard_time": 1767445406,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 196582,
-      "num": 225190,
-      "word": "生命树",
-      "onboard_time": 1767235820,
-      "rank": 30,
       "category": "剧集"
     }
   ],
