@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767516584183,
+  "endTime": 1767518901225,
   "band_list": [
     {
       "raw_hot": 1631134,
@@ -131,12 +131,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 762482,
+      "num": 820586,
+      "word": "微博之夜",
+      "onboard_time": 1767514583,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 755347,
       "num": 1120855,
       "word": "韩国总统李在明抵达北京",
       "onboard_time": 1767505463,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 751929,
+      "num": 431525,
+      "word": "如果一个人长期不工作",
+      "onboard_time": 1767514102,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 678667,
@@ -179,6 +195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 578694,
+      "num": 279290,
+      "word": "小英自曝被上拉如身边人欺负",
+      "onboard_time": 1767515362,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 578279,
       "num": 272453,
       "word": "马杜罗被押后首次公开发声",
@@ -217,6 +241,14 @@
       "onboard_time": 1767483320,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 528286,
+      "num": 528286,
+      "word": "黄子韬哭了",
+      "onboard_time": 1767514523,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 521015,
@@ -265,14 +297,6 @@
       "onboard_time": 1767510502,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 482242,
-      "num": 482242,
-      "word": "微博之夜",
-      "onboard_time": 1767514583,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 476168,
@@ -395,14 +419,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 412819,
-      "num": 412819,
-      "word": "黄子韬哭了",
-      "onboard_time": 1767514523,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 404975,
       "num": 404975,
       "word": "宝马官宣降价",
@@ -507,7 +523,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 345811,
+      "raw_hot": 347833,
       "num": 280253,
       "word": "谢娜 女本位",
       "onboard_time": 1767513263,
@@ -635,14 +651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 279290,
-      "num": 279290,
-      "word": "小英自曝被上拉如身边人欺负",
-      "onboard_time": 1767515362,
-      "rank": 27,
-      "category": "网红"
-    },
-    {
       "raw_hot": 275658,
       "num": 199691,
       "word": "孩子妈曝童锦程想毁灭证据",
@@ -667,14 +675,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 262049,
-      "num": 262049,
-      "word": "如果一个人长期不工作",
-      "onboard_time": 1767514102,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 259394,
       "num": 259394,
       "word": "人一接近退休气血就开始回来了",
@@ -689,6 +689,14 @@
       "onboard_time": 1767512722,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 256172,
+      "num": 256172,
+      "word": "车厘子正确清洗教程来了",
+      "onboard_time": 1767514223,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 255943,
@@ -843,6 +851,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 217852,
+      "num": 217852,
+      "word": "马杜罗押送途中对着镜头比出剪刀手",
+      "onboard_time": 1767515544,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 214018,
+      "num": 214018,
+      "word": "迪丽热巴拍摄现场二十多套高定",
+      "onboard_time": 1767515842,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 206472,
       "num": 209242,
       "word": "足浴店涉嫌非法聘用外国人被查",
@@ -873,6 +897,14 @@
       "onboard_time": 1767503901,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201757,
+      "num": 201757,
+      "word": "易梦玲陪阿哲5100领证",
+      "onboard_time": 1767517522,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 200523,
@@ -939,14 +971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190785,
-      "num": 190785,
-      "word": "马杜罗押送途中对着镜头比出剪刀手",
-      "onboard_time": 1767515544,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 189868,
       "num": 154365,
       "word": "老人不慎从15楼坠落至7楼 卡在半空",
@@ -995,11 +1019,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 179256,
-      "num": 245716,
-      "word": "车厘子正确清洗教程来了",
-      "onboard_time": 1767514223,
-      "rank": 29,
+      "raw_hot": 180099,
+      "num": 180099,
+      "word": "周先旺被双开",
+      "onboard_time": 1767516803,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -1057,6 +1081,14 @@
       "onboard_time": 1767499943,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168214,
+      "num": 168214,
+      "word": "荣耀之战分组",
+      "onboard_time": 1767518422,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 168190,
@@ -1195,14 +1227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 151388,
-      "num": 151388,
-      "word": "迪丽热巴拍摄现场二十多套高定",
-      "onboard_time": 1767515842,
-      "rank": 30,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 150458,
       "num": 785917,
       "word": "委内瑞拉副总统发表讲话",
@@ -1225,6 +1249,14 @@
       "onboard_time": 1767503123,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 148450,
+      "num": 148450,
+      "word": "左航苏新皓去环球影城了",
+      "onboard_time": 1767517222,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 147967,
@@ -1257,6 +1289,14 @@
       "onboard_time": 1767501204,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 145211,
+      "num": 145211,
+      "word": "双城之战音乐秀选角神还原",
+      "onboard_time": 1767518001,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 144907,
@@ -1299,6 +1339,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 137981,
+      "num": 137981,
+      "word": "原来这是生理性厌恶的表现",
+      "onboard_time": 1767513742,
+      "rank": 46,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 137417,
       "num": 137417,
       "word": "韩国总统李在明将访华",
@@ -1337,6 +1385,14 @@
       "onboard_time": 1767490101,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131763,
+      "num": 141536,
+      "word": "医生解读酒店床上为何放4个枕头",
+      "onboard_time": 1767517284,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128954,
@@ -1411,12 +1467,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123813,
+      "num": 123813,
+      "word": "坏了让他读到真大学了",
+      "onboard_time": 1767518723,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122971,
       "num": 122971,
       "word": "经常生闷气会掏空人的气血",
       "onboard_time": 1767501384,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 121474,
+      "num": 121474,
+      "word": "新疆和静4.6级地震",
+      "onboard_time": 1767517882,
+      "rank": 34,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 120278,
@@ -1449,14 +1521,6 @@
       "onboard_time": 1767499403,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114248,
-      "num": 114248,
-      "word": "原来这是生理性厌恶的表现",
-      "onboard_time": 1767513742,
-      "rank": 46,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 111905,
@@ -1595,6 +1659,22 @@
       "category": "剧集,综艺"
     },
     {
+      "raw_hot": 98325,
+      "num": 98325,
+      "word": "原来在泰国化妆是可以躺着的",
+      "onboard_time": 1767516623,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 98007,
+      "num": 98007,
+      "word": "王者S42碎片商店上线必秒皮肤",
+      "onboard_time": 1767518542,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 97125,
       "num": 97125,
       "word": "眼科医生为何不做近视眼手术",
@@ -1609,6 +1689,14 @@
       "onboard_time": 1767486622,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 95792,
+      "num": 95792,
+      "word": "喜人打响2026第一战",
+      "onboard_time": 1767517102,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 94840,
@@ -1657,6 +1745,14 @@
       "onboard_time": 1767499284,
       "rank": 31,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 92202,
+      "num": 92202,
+      "word": "白鹿王鹤棣范丞丞宇闪合体",
+      "onboard_time": 1767518184,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 90296,
@@ -1979,6 +2075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56031,
+      "num": 96726,
+      "word": "张栋梁回应披哥3里镜头不到一分钟",
+      "onboard_time": 1767517461,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 55625,
       "num": 426652,
       "word": "俄强烈敦促美国释放马杜罗",
@@ -2065,6 +2169,14 @@
       "onboard_time": 1767438026,
       "rank": 41,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 47599,
+      "num": 100836,
+      "word": "马斯克称委可以拥有它应得的繁荣了",
+      "onboard_time": 1767518362,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 47426,
@@ -2265,6 +2377,14 @@
       "onboard_time": 1767461658,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 30331,
+      "num": 91403,
+      "word": "山西一景区悬赏2万元征集扎胎线索",
+      "onboard_time": 1767517163,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29805,
