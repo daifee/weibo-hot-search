@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/04 22:26:15
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/04 22:43:11
 </p>
 </blockquote>
 <p>
@@ -177,6 +177,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232026%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%BD%A9%E6%8E%92%E5%BC%80%E5%A7%8B%E4%BA%86%23" target="weibo">
+2026央视春晚彩排开始了（热度：932499）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%87%8C%E6%99%A8%E5%8E%BB%E4%B8%96%E9%82%BB%E5%B1%85%E5%90%AC%E5%88%B0%E9%9E%AD%E7%82%AE%E5%A3%B0%E5%90%8E%E8%B5%B6%E6%9D%A5%23" target="weibo">
 父亲凌晨去世邻居听到鞭炮声后赶来（热度：922373）
 </a>
@@ -209,12 +215,6 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%9A%E5%85%AC%E4%B8%BB%23" target="weibo">
 尚公主（热度：898363）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232026%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%BD%A9%E6%8E%92%E5%BC%80%E5%A7%8B%E4%BA%86%23" target="weibo">
-2026央视春晚彩排开始了（热度：879737）
 </a>
 </li>
 
@@ -309,6 +309,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BE%99%E9%BA%A6%20%E6%8E%A5%E4%BA%8C%E6%90%AD%23" target="weibo">
+龙麦 接二搭（热度：745324）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%AD%8C%E8%BF%B7%E4%BC%9A%20%E6%84%BF%E6%88%91%E4%BB%AC%E8%8E%AB%E5%BF%98%E6%9D%A5%E6%97%B6%E8%B7%AF%23" target="weibo">
 张杰歌迷会 愿我们莫忘来时路（热度：744779）
 </a>
@@ -317,12 +323,6 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%93%E5%A2%A8%E6%84%9F%E8%B0%A2%E6%9C%B1%E5%A4%A9%E5%A4%A9%23" target="weibo">
 梓墨感谢朱天天（热度：740663）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BE%99%E9%BA%A6%20%E6%8E%A5%E4%BA%8C%E6%90%AD%23" target="weibo">
-龙麦 接二搭（热度：731017）
 </a>
 </li>
 
@@ -753,6 +753,12 @@ iPhone千万别删的自带软件（热度：474519）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%AB%98%E5%AE%98%E5%A6%BB%E5%AD%90%E6%9A%97%E7%A4%BA%E5%BE%88%E5%BF%AB%E6%8B%BF%E4%B8%8B%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%23" target="weibo">
+美高官妻子暗示很快拿下格陵兰岛（热度：459298）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%94%B6%E5%88%B0%E6%89%A3%E8%B4%B9600%E5%A4%9A%E5%85%83%E7%9F%AD%E4%BF%A1%E5%8F%91%E7%8E%B0%E4%B9%B0%E8%BF%87%E4%BF%9D%E9%99%A9%23" target="weibo">
 收到扣费600多元短信发现买过保险（热度：458015）
 </a>
@@ -1065,6 +1071,12 @@ TF荣耀之战（热度：372589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E8%BF%9B%E5%85%A5%E4%B8%80%E7%BA%A7%E6%88%98%E5%A4%87%E7%8A%B6%E6%80%81%23" target="weibo">
+哥伦比亚进入一级战备状态（热度：363315）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23FMVP%E7%9A%AE%E8%82%A4%23" target="weibo">
 FMVP皮肤（热度：362967）
 </a>
@@ -1073,6 +1085,12 @@ FMVP皮肤（热度：362967）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2368%E5%B2%81%E9%98%BF%E5%A7%A8%E8%B1%AA%E6%8E%B792%E4%B8%87%E5%85%BB%E8%80%81%E9%87%91%E4%B8%BA%E7%94%B7%E5%8F%8B%E4%B9%B0%E8%A1%A8%23" target="weibo">
 68岁阿姨豪掷92万养老金为男友买表（热度：362639）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%87%E6%9C%9F%E5%AB%96%E5%A8%BC%E8%A2%AB%E6%8B%98%E9%9A%90%E7%9E%927%E5%B9%B4%E8%A2%AB%E8%BE%9E%E9%80%80%23" target="weibo">
+男子假期嫖娼被拘隐瞒7年被辞退（热度：360240）
 </a>
 </li>
 
@@ -1217,12 +1235,6 @@ WB对战RW（热度：355689）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%AA%E8%BF%AA%E8%82%A1%E4%BB%B7%E9%A3%99%E6%B6%A8559%25%23" target="weibo">
 闪迪股价飙涨559%（热度：324453）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E8%BF%9B%E5%85%A5%E4%B8%80%E7%BA%A7%E6%88%98%E5%A4%87%E7%8A%B6%E6%80%81%23" target="weibo">
-哥伦比亚进入一级战备状态（热度：323254）
 </a>
 </li>
 
@@ -1485,12 +1497,6 @@ WB对战RW（热度：355689）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%AB%98%E5%AE%98%E5%A6%BB%E5%AD%90%E6%9A%97%E7%A4%BA%E5%BE%88%E5%BF%AB%E6%8B%BF%E4%B8%8B%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%23" target="weibo">
-美高官妻子暗示很快拿下格陵兰岛（热度：282133）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E6%98%8E%E8%A2%9C%E5%AD%90%E6%8B%BC%E8%B1%86%E7%9A%84%E4%BA%BA%E7%AE%80%E7%9B%B4%E6%98%AF%E5%A4%A9%E6%89%8D%23" target="weibo">
 发明袜子拼豆的人简直是天才（热度：282019）
 </a>
@@ -1552,7 +1558,7 @@ WB对战RW（热度：355689）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E7%A7%B0%E7%8E%89%E8%8C%97%E8%8C%B6%E9%AA%A8%E4%B8%8D%E7%88%86%E6%98%AF%E9%95%BF%E5%89%A7%E6%B2%A1%E6%9C%89%E8%A7%82%E4%BC%97%23" target="weibo">
-于正称玉茗茶骨不爆是长剧没有观众（热度：272774）
+于正称玉茗茶骨不爆是长剧没有观众（热度：272856）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ TE对战北京WBG（热度：261771）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%B1%BF%E6%A3%AE%E9%95%BF%E6%96%87%23" target="weibo">
 林屿森长文（热度：239496）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E6%AD%8C%E6%89%8B%E7%94%A8%E6%AD%8C%E5%9B%9E%E5%87%BB%E8%BF%99%E4%B9%88%E7%88%BD%23" target="weibo">
-第一次见歌手用歌回击这么爽（热度：237504）
 </a>
 </li>
 

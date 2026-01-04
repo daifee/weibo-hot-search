@@ -1,0 +1,410 @@
+{
+  "runTime": 1767537791355,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 932499,
+        "num": 1149199,
+        "word": "2026央视春晚彩排开始了",
+        "onboard_time": 1767533664,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 495022,
+        "num": 806722,
+        "word": "幼童吃15颗车厘子患急性肠胃炎",
+        "onboard_time": 1767531624,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52378,
+        "num": 682640,
+        "word": "元旦假期661.5万人次出入境",
+        "onboard_time": 1767534264,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 459298,
+        "num": 459298,
+        "word": "美高官妻子暗示很快拿下格陵兰岛",
+        "onboard_time": 1767531624,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 343122,
+        "num": 343122,
+        "word": "TVB颁奖典礼",
+        "onboard_time": 1767530542,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 766204,
+        "num": 331556,
+        "word": "老人不知儿子离婚误将20万元赠儿媳",
+        "onboard_time": 1767533063,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371435,
+        "num": 324089,
+        "word": "美国拒绝外部介入委内瑞拉",
+        "onboard_time": 1767526702,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 360240,
+        "num": 323455,
+        "word": "男子假期嫖娼被拘隐瞒7年被辞退",
+        "onboard_time": 1767535584,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297314,
+        "num": 297314,
+        "word": "骄阳似我",
+        "onboard_time": 1767522682,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174797,
+        "num": 291256,
+        "word": "王者六元皮肤天花板",
+        "onboard_time": 1767536722,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 745324,
+        "num": 287576,
+        "word": "龙麦 接二搭",
+        "onboard_time": 1767533183,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 388304,
+        "num": 283279,
+        "word": "时代峰峻高会 泡泡",
+        "onboard_time": 1767529103,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363315,
+        "num": 275105,
+        "word": "哥伦比亚进入一级战备状态",
+        "onboard_time": 1767527842,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 272856,
+        "num": 272856,
+        "word": "于正称玉茗茶骨不爆是长剧没有观众",
+        "onboard_time": 1767527723,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262991,
+        "num": 262991,
+        "word": "尚公主",
+        "onboard_time": 1767525022,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260494,
+        "num": 260494,
+        "word": "住房公积金会变得越来越香吗",
+        "onboard_time": 1767521062,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258450,
+        "num": 258450,
+        "word": "骄阳似我 你把我害惨了",
+        "onboard_time": 1767524423,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255144,
+        "num": 255144,
+        "word": "王祖贤眼睛怎么了",
+        "onboard_time": 1767524483,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215945,
+        "num": 255123,
+        "word": "檀健次湖南跨年舞台推荐第一",
+        "onboard_time": 1767537143,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195216,
+        "num": 255026,
+        "word": "男子与相亲女子强行发生关系获刑",
+        "onboard_time": 1767536964,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 585811,
+        "num": 254865,
+        "word": "胃癌几乎都是这样喂出来的",
+        "onboard_time": 1767527961,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 193837,
+        "num": 254849,
+        "word": "如果一个人长期不工作",
+        "onboard_time": 1767514102,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243956,
+        "num": 254727,
+        "word": "68岁阿姨豪掷92万养老金为男友买表",
+        "onboard_time": 1767529163,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1180428,
+        "num": 254646,
+        "word": "爱奇艺电视剧致歉",
+        "onboard_time": 1767529643,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181280,
+        "num": 254552,
+        "word": "马杜罗上台阶时痛苦呻吟",
+        "onboard_time": 1767524902,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173174,
+        "num": 254459,
+        "word": "AG奶茶卸任",
+        "onboard_time": 1767536484,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172942,
+        "num": 254336,
+        "word": "梅尼耶要办婚礼了",
+        "onboard_time": 1767536545,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 146827,
+        "num": 254258,
+        "word": "佘诗曼黄宗泽挽手走红毯",
+        "onboard_time": 1767536244,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145552,
+        "num": 254121,
+        "word": "委内瑞拉之后这些国家面临危险",
+        "onboard_time": 1767535824,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130253,
+        "num": 254035,
+        "word": "流落柬埔寨街头中国女子已被找到",
+        "onboard_time": 1767534503,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88978,
+        "num": 253948,
+        "word": "小伙领养12岁女孩称不需要她喊爸爸",
+        "onboard_time": 1767536004,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142718,
+        "num": 253882,
+        "word": "白鹿54套高定",
+        "onboard_time": 1767537085,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 130381,
+        "num": 253743,
+        "word": "杨紫时隔11年再度出演民国剧",
+        "onboard_time": 1767535945,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133168,
+        "num": 253629,
+        "word": "昀牵孟绕",
+        "onboard_time": 1767528444,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126693,
+        "num": 253515,
+        "word": "曝TOP登陆少年重组",
+        "onboard_time": 1767526404,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131006,
+        "num": 253464,
+        "word": "孟子义李昀锐尚公主开工第一天",
+        "onboard_time": 1767533183,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125124,
+        "num": 253363,
+        "word": "德国杯决赛",
+        "onboard_time": 1767533964,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131742,
+        "num": 253311,
+        "word": "杨幂杨紫迪丽热巴 2025爆剧女主",
+        "onboard_time": 1767526825,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122987,
+        "num": 253207,
+        "word": "女子称在全季酒店浴巾里发现避孕套",
+        "onboard_time": 1767537325,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 112551,
+        "num": 253044,
+        "word": "腾讯回应元宝AI辱骂用户",
+        "onboard_time": 1767524843,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 109365,
+        "num": 252970,
+        "word": "聂曦光穿的是宋威龙的衣服",
+        "onboard_time": 1767536062,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105019,
+        "num": 252892,
+        "word": "知名企业家汪海与儿子断绝关系",
+        "onboard_time": 1767533425,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103937,
+        "num": 252777,
+        "word": "家长网购40套衣服退货28套商家发声",
+        "onboard_time": 1767528023,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100287,
+        "num": 252652,
+        "word": "美网红暗示很快拿下格陵兰岛",
+        "onboard_time": 1767533363,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97424,
+        "num": 252568,
+        "word": "你要和本身就很好的人结婚",
+        "onboard_time": 1767536845,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97255,
+        "num": 252490,
+        "word": "樊振东率队晋级德国杯决赛",
+        "onboard_time": 1767536484,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93881,
+        "num": 252389,
+        "word": "爸爸微信有两千个置顶",
+        "onboard_time": 1767497601,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90891,
+        "num": 252296,
+        "word": "万千星辉颁奖典礼2025",
+        "onboard_time": 1767532463,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90838,
+        "num": 252186,
+        "word": "男子征婚约见女子强行发生关系",
+        "onboard_time": 1767534623,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88026,
+        "num": 252112,
+        "word": "宇树科技澄清",
+        "onboard_time": 1767537684,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平就瑞士瓦莱州火灾事件致慰问电#"
+    }
+  }
+}
