@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767494730144,
+  "endTime": 1767500177378,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1631134,
-      "num": 249470,
+      "num": 272735,
       "word": "汉堡王崩了",
       "onboard_time": 1767493042,
       "rank": 10,
@@ -115,6 +115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1200620,
+      "num": 299694,
+      "word": "爸爸微信有两千个置顶",
+      "onboard_time": 1767497601,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1190595,
       "num": 1752341,
       "word": "MRC对战Gr",
@@ -161,6 +169,14 @@
       "onboard_time": 1767410309,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1029154,
+      "num": 273298,
+      "word": "马杜罗身边内鬼详情曝光",
+      "onboard_time": 1767495020,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 940105,
@@ -259,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 768109,
+      "num": 1122897,
+      "word": "车厘子 褪黑素",
+      "onboard_time": 1767483558,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 759364,
       "num": 1033026,
       "word": "王鹤棣自曝拍戏搞小团体",
@@ -297,14 +321,6 @@
       "onboard_time": 1767448767,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 697140,
-      "num": 697140,
-      "word": "车厘子 褪黑素",
-      "onboard_time": 1767483558,
-      "rank": 40,
-      "category": "美食"
     },
     {
       "raw_hot": 686111,
@@ -441,6 +457,14 @@
       "onboard_time": 1767193528,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 577887,
+      "num": 272453,
+      "word": "马杜罗被押后首次公开发声",
+      "onboard_time": 1767496162,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 572505,
@@ -628,7 +652,7 @@
     },
     {
       "raw_hot": 472404,
-      "num": 236727,
+      "num": 270281,
       "word": "特朗普警告哥伦比亚总统小心点",
       "onboard_time": 1767483920,
       "rank": 15,
@@ -739,6 +763,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 443016,
+      "num": 270554,
+      "word": "王一博 花天酒地不如上天入地",
+      "onboard_time": 1767497183,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441518,
       "num": 1692801,
       "word": "交警回应撞脸杨紫爆红",
@@ -827,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 398430,
+      "num": 272212,
+      "word": "李昀锐 奔跑吧常驻",
+      "onboard_time": 1767497242,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 397587,
       "num": 1035556,
       "word": "车厘子其实是血糖友好型水果",
@@ -875,12 +915,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 377988,
+      "num": 1058972,
+      "word": "房价219万销售承诺送72万元黄金",
+      "onboard_time": 1767492802,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 377712,
       "num": 1790908,
       "word": "老板承诺每人奖一台车不该被绑架",
       "onboard_time": 1767431664,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 376617,
+      "num": 297021,
+      "word": "特朗普称美在西半球地位再不会被质疑",
+      "onboard_time": 1767496283,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 375440,
@@ -923,12 +979,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 368576,
-      "num": 1058972,
-      "word": "房价219万销售承诺送72万元黄金",
-      "onboard_time": 1767492802,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 369740,
+      "num": 272957,
+      "word": "委内瑞拉副总统代行总统职权",
+      "onboard_time": 1767494541,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 365715,
@@ -1179,6 +1235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 309469,
+      "num": 296215,
+      "word": "何炅 我慢慢等到蔡依林的那一天",
+      "onboard_time": 1767495682,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308977,
       "num": 1020502,
       "word": "小吃街共用一个收款码有后续了",
@@ -1217,6 +1281,14 @@
       "onboard_time": 1767332060,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 304212,
+      "num": 304212,
+      "word": "汉堡王就崩溃道歉",
+      "onboard_time": 1767497841,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 303851,
@@ -1323,12 +1395,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 286599,
+      "num": 270524,
+      "word": "娜扎 有福气的人都不上镜",
+      "onboard_time": 1767499104,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285474,
       "num": 318790,
       "word": "2026年新规今起施行",
       "onboard_time": 1767229520,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 284795,
+      "num": 284795,
+      "word": "雷军回应1300km只充一次电",
+      "onboard_time": 1767494121,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 282342,
@@ -1392,6 +1480,14 @@
       "word": "上海月薪27000一天的花销",
       "onboard_time": 1767365001,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 273326,
+      "num": 273326,
+      "word": "车厘子价格暴跌商家却赚麻了",
+      "onboard_time": 1767497902,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1571,6 +1667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253114,
+      "num": 253114,
+      "word": "全款11万5买了43平的老破小",
+      "onboard_time": 1767494541,
+      "rank": 32,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 252643,
       "num": 1397167,
       "word": "红包分组",
@@ -1683,12 +1787,12 @@
       "category": "数码,幽默"
     },
     {
-      "raw_hot": 235763,
-      "num": 141005,
-      "word": "全款11万5买了43平的老破小",
-      "onboard_time": 1767494541,
-      "rank": 32,
-      "category": "情感,休闲"
+      "raw_hot": 235343,
+      "num": 235343,
+      "word": "车厘子跌破1元一颗",
+      "onboard_time": 1767494361,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 232456,
@@ -1697,6 +1801,14 @@
       "onboard_time": 1767252139,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 231805,
+      "num": 230020,
+      "word": "美军150架飞机抓捕行动全程曝光",
+      "onboard_time": 1767494300,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 230979,
@@ -1713,6 +1825,14 @@
       "onboard_time": 1767408630,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230328,
+      "num": 230328,
+      "word": "唐嫣演技",
+      "onboard_time": 1767495682,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 229326,
@@ -1795,6 +1915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221345,
+      "num": 221345,
+      "word": "易烊千玺起诉眼镜公司侵权",
+      "onboard_time": 1767497722,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219002,
       "num": 1391514,
       "word": "央视舞美 夯爆了",
@@ -1851,6 +1979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 214551,
+      "num": 272019,
+      "word": "残疾阿姨反复撞车导致车主损失过万",
+      "onboard_time": 1767499522,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213249,
       "num": 519243,
       "word": "看完这一集不敢喝排骨汤了",
@@ -1873,6 +2009,14 @@
       "onboard_time": 1767329781,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212230,
+      "num": 212230,
+      "word": "向华强说羡慕郭碧婷爸爸",
+      "onboard_time": 1767498384,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 210851,
@@ -1961,14 +2105,6 @@
       "onboard_time": 1767432925,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 206880,
-      "num": 252778,
-      "word": "雷军回应1300km只充一次电",
-      "onboard_time": 1767494121,
-      "rank": 9,
-      "category": "互联网"
     },
     {
       "raw_hot": 205987,
@@ -2099,14 +2235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196398,
-      "num": 196398,
-      "word": "车厘子跌破1元一颗",
-      "onboard_time": 1767494361,
-      "rank": 18,
-      "category": "美食"
-    },
-    {
       "raw_hot": 196264,
       "num": 747414,
       "word": "切尔西官宣马雷斯卡下课",
@@ -2124,7 +2252,7 @@
     },
     {
       "raw_hot": 194829,
-      "num": 192720,
+      "num": 271777,
       "word": "未成年女孩遭网友性侵司机果断报警",
       "onboard_time": 1767487582,
       "rank": 24,
@@ -2272,134 +2400,6 @@
       "word": "我摆摊是为了赚钱不是让你来上货的",
       "onboard_time": 1767330380,
       "rank": 32,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 187026,
-      "num": 250359,
-      "word": "虽然个子矮却很全能",
-      "onboard_time": 1767323240,
-      "rank": 13,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 186473,
-      "num": 1002359,
-      "word": "新年壁纸",
-      "onboard_time": 1767239181,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 186422,
-      "num": 589551,
-      "word": "南部档案",
-      "onboard_time": 1767247580,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 185840,
-      "num": 2519848,
-      "word": "幼儿园园长回应篮球表演失误出圈",
-      "onboard_time": 1767345679,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 185783,
-      "num": 453989,
-      "word": "最支持复合的国漫cp",
-      "onboard_time": 1767332600,
-      "rank": 15,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 185291,
-      "num": 1003074,
-      "word": "水银体温计禁产不等于禁售",
-      "onboard_time": 1767264440,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 185025,
-      "num": 421620,
-      "word": "十个勤天新春见面会官宣",
-      "onboard_time": 1767436765,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 184907,
-      "num": 858763,
-      "word": "MRC夺冠",
-      "onboard_time": 1767440665,
-      "rank": 13,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 184652,
-      "num": 916189,
-      "word": "小俞",
-      "onboard_time": 1767359242,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 184609,
-      "num": 1029226,
-      "word": "美国关税大棒打了自己人",
-      "onboard_time": 1767321680,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 184212,
-      "num": 1028252,
-      "word": "宝宝昏睡不醒体内查出安眠药成分",
-      "onboard_time": 1767344720,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 184091,
-      "num": 1029454,
-      "word": "梅里雪山日照金山上新了",
-      "onboard_time": 1767270862,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 183651,
-      "num": 1001582,
-      "word": "奔跑吧",
-      "onboard_time": 1767442585,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 183568,
-      "num": 318677,
-      "word": "逐玉",
-      "onboard_time": 1767234861,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 183024,
-      "num": 454872,
-      "word": "中国奇谭2本土化英文翻译",
-      "onboard_time": 1767332600,
-      "rank": 6,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 182835,
-      "num": 1092720,
-      "word": "建议大家多去线下逛逛实体店",
-      "onboard_time": 1767358101,
-      "rank": 37,
       "category": "幽默"
     }
   ],
