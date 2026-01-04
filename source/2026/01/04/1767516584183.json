@@ -1,0 +1,410 @@
+{
+  "runTime": 1767516584183,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 922373,
+        "num": 1147579,
+        "word": "父亲凌晨去世邻居听到鞭炮声后赶来",
+        "onboard_time": 1767513683,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 572382,
+        "num": 846276,
+        "word": "外交部回应美强行控制委总统夫妇",
+        "onboard_time": 1767507983,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24950,
+        "num": 635768,
+        "word": "2026开工大吉",
+        "onboard_time": 1767501324,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 482242,
+        "num": 482242,
+        "word": "微博之夜",
+        "onboard_time": 1767514583,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 412819,
+        "num": 412819,
+        "word": "黄子韬哭了",
+        "onboard_time": 1767514523,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 649549,
+        "num": 400714,
+        "word": "相当于刘星判给了夏东海",
+        "onboard_time": 1767514043,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 484404,
+        "num": 394383,
+        "word": "今天是委内瑞拉明天可能是任何国家",
+        "onboard_time": 1767510502,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 474519,
+        "num": 393595,
+        "word": "iPhone千万别删的自带软件",
+        "onboard_time": 1767512602,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 387527,
+        "num": 387527,
+        "word": "录完综艺总裁父亲主动向女儿道歉",
+        "onboard_time": 1767510983,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298507,
+        "num": 298507,
+        "word": "车厘子 褪黑素",
+        "onboard_time": 1767483558,
+        "rank": 9,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 794210,
+        "num": 295285,
+        "word": "在柬埔寨流浪女网红父亲发声",
+        "onboard_time": 1767512302,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 595975,
+        "num": 292905,
+        "word": "结婚证就得考啊",
+        "onboard_time": 1767507802,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 452234,
+        "num": 289268,
+        "word": "时代峰峻高会改名",
+        "onboard_time": 1767515724,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361978,
+        "num": 283407,
+        "word": "爸爸微信有两千个置顶",
+        "onboard_time": 1767497601,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 345811,
+        "num": 280253,
+        "word": "谢娜 女本位",
+        "onboard_time": 1767513263,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279290,
+        "num": 279290,
+        "word": "小英自曝被上拉如身边人欺负",
+        "onboard_time": 1767515362,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 262049,
+        "num": 262049,
+        "word": "如果一个人长期不工作",
+        "onboard_time": 1767514102,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248514,
+        "num": 248514,
+        "word": "宇树科技上市绿色通道被叫停",
+        "onboard_time": 1767512722,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 213006,
+        "num": 247977,
+        "word": "医生称车厘子果蝇的幼虫水洗不掉",
+        "onboard_time": 1767509842,
+        "rank": 18,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 179256,
+        "num": 245716,
+        "word": "车厘子正确清洗教程来了",
+        "onboard_time": 1767514223,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 485940,
+        "num": 243129,
+        "word": "童锦程孩子妈回应要220万",
+        "onboard_time": 1767510683,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 261276,
+        "num": 240707,
+        "word": "何炅写了26年的专栏停更了",
+        "onboard_time": 1767508882,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239718,
+        "num": 239718,
+        "word": "周深一个跨年唱了98首歌",
+        "onboard_time": 1767511102,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190785,
+        "num": 190785,
+        "word": "马杜罗押送途中对着镜头比出剪刀手",
+        "onboard_time": 1767515544,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154021,
+        "num": 176648,
+        "word": "湖北省政协原副主席周先旺被双开",
+        "onboard_time": 1767514702,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 172629,
+        "num": 172629,
+        "word": "委内瑞拉石油储量世界第一",
+        "onboard_time": 1767503663,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163095,
+        "num": 163095,
+        "word": "被播放了70亿次的声音竟然是她",
+        "onboard_time": 1767508162,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163430,
+        "num": 162367,
+        "word": "纽约市长已致电特朗普",
+        "onboard_time": 1767507262,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155681,
+        "num": 155681,
+        "word": "韩国总统李在明抵达北京",
+        "onboard_time": 1767505463,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113027,
+        "num": 153376,
+        "word": "老人不慎从15楼坠落至7楼 卡在半空",
+        "onboard_time": 1767515422,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151388,
+        "num": 151388,
+        "word": "迪丽热巴拍摄现场二十多套高定",
+        "onboard_time": 1767515842,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 144907,
+        "num": 144907,
+        "word": "被张碧晨这一下帅晕了",
+        "onboard_time": 1767513501,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138997,
+        "num": 138997,
+        "word": "李施嬅的身体状态变差了很多",
+        "onboard_time": 1767512182,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130592,
+        "num": 130592,
+        "word": "高瀚宇分享鹿晗单曲",
+        "onboard_time": 1767514822,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125537,
+        "num": 125537,
+        "word": "黄金白银将迎新年第一劫",
+        "onboard_time": 1767515483,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118743,
+        "num": 118743,
+        "word": "张栋梁拒唱成名曲气哭经纪人",
+        "onboard_time": 1767513142,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114936,
+        "num": 114936,
+        "word": "檀健次穿上红袜子了",
+        "onboard_time": 1767511942,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14559,
+        "num": 114713,
+        "word": "东京都民众再集会反对日本扩军备武",
+        "onboard_time": 1767516262,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14292,
+        "num": 114639,
+        "word": "男子以为边境搬猪肉险被卖缅甸",
+        "onboard_time": 1767516084,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77119,
+        "num": 114632,
+        "word": "为什么说在东北孩子走不丢",
+        "onboard_time": 1767516262,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114626,
+        "num": 114626,
+        "word": "曝ShowMaker与女友就餐",
+        "onboard_time": 1767515483,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113749,
+        "num": 113749,
+        "word": "不要贴墙养蝴蝶兰",
+        "onboard_time": 1767509782,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111929,
+        "num": 111929,
+        "word": "车厘子价格暴跌商家却赚麻了",
+        "onboard_time": 1767497902,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109470,
+        "num": 109470,
+        "word": "高市早苗面临艰难抉择",
+        "onboard_time": 1767513742,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107017,
+        "num": 107017,
+        "word": "微博之夜年度推荐",
+        "onboard_time": 1767512483,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105166,
+        "num": 105166,
+        "word": "原来这是生理性厌恶的表现",
+        "onboard_time": 1767513742,
+        "rank": 45,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 103917,
+        "num": 103917,
+        "word": "偶遇余承恩带娃",
+        "onboard_time": 1767506723,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100917,
+        "num": 100917,
+        "word": "薯片虾滑",
+        "onboard_time": 1767516322,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 98707,
+        "num": 98707,
+        "word": "李在明",
+        "onboard_time": 1767495322,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98622,
+        "num": 98622,
+        "word": "王者传说降成史诗的皮肤",
+        "onboard_time": 1767516443,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席2026年新年贺词启示录#"
+    }
+  }
+}

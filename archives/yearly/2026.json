@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767515830775,
+  "endTime": 1767516584183,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 922373,
+      "num": 1147579,
+      "word": "父亲凌晨去世邻居听到鞭炮声后赶来",
+      "onboard_time": 1767513683,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 903012,
       "num": 164255,
       "word": "网传中国网红流落柬埔寨街头",
@@ -225,14 +233,6 @@
       "onboard_time": 1767445826,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 889490,
-      "num": 1142318,
-      "word": "父亲凌晨去世邻居听到鞭炮声后赶来",
-      "onboard_time": 1767513683,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 874177,
@@ -273,6 +273,14 @@
       "onboard_time": 1767347540,
       "rank": 10,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 794210,
+      "num": 555431,
+      "word": "在柬埔寨流浪女网红父亲发声",
+      "onboard_time": 1767512302,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 790955,
@@ -329,14 +337,6 @@
       "onboard_time": 1767505463,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 746955,
-      "num": 555431,
-      "word": "在柬埔寨流浪女网红父亲发声",
-      "onboard_time": 1767512302,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 744779,
@@ -401,6 +401,14 @@
       "onboard_time": 1767501744,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 649549,
+      "num": 400714,
+      "word": "相当于刘星判给了夏东海",
+      "onboard_time": 1767514043,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 638474,
@@ -739,6 +747,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 485940,
+      "num": 243129,
+      "word": "童锦程孩子妈回应要220万",
+      "onboard_time": 1767510683,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 484404,
+      "num": 394383,
+      "word": "今天是委内瑞拉明天可能是任何国家",
+      "onboard_time": 1767510502,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 482457,
       "num": 818352,
       "word": "美媒称马杜罗夫妇熟睡中被拖出卧室",
@@ -747,12 +771,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 481608,
-      "num": 387080,
-      "word": "今天是委内瑞拉明天可能是任何国家",
-      "onboard_time": 1767510502,
-      "rank": 23,
-      "category": "国际时政"
+      "raw_hot": 482242,
+      "num": 588560,
+      "word": "微博之夜",
+      "onboard_time": 1767249260,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 476728,
@@ -777,6 +801,14 @@
       "onboard_time": 1767509842,
       "rank": 10,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 474519,
+      "num": 393595,
+      "word": "iPhone千万别删的自带软件",
+      "onboard_time": 1767512602,
+      "rank": 7,
+      "category": "数码"
     },
     {
       "raw_hot": 472404,
@@ -859,12 +891,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 452889,
-      "num": 376984,
-      "word": "iPhone千万别删的自带软件",
-      "onboard_time": 1767512602,
-      "rank": 7,
-      "category": "数码"
+      "raw_hot": 452234,
+      "num": 289268,
+      "word": "时代峰峻高会改名",
+      "onboard_time": 1767515724,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 451400,
@@ -931,14 +963,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 433681,
-      "num": 237243,
-      "word": "童锦程孩子妈回应要220万",
-      "onboard_time": 1767510683,
-      "rank": 25,
-      "category": "网红"
-    },
-    {
       "raw_hot": 431777,
       "num": 431777,
       "word": "网传周深白鹿下车敖瑞鹏翟子路补位",
@@ -953,14 +977,6 @@
       "onboard_time": 1767240862,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 422301,
-      "num": 318299,
-      "word": "相当于刘星判给了夏东海",
-      "onboard_time": 1767514043,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 422087,
@@ -1001,6 +1017,14 @@
       "onboard_time": 1767238040,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 412819,
+      "num": 412819,
+      "word": "黄子韬哭了",
+      "onboard_time": 1767514523,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 411475,
@@ -1315,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 345811,
+      "num": 280253,
+      "word": "谢娜 女本位",
+      "onboard_time": 1767513263,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 341874,
       "num": 554801,
       "word": "妈妈住院缺席儿子婚礼后病房改新房",
@@ -1441,14 +1473,6 @@
       "onboard_time": 1767408509,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 315815,
-      "num": 588560,
-      "word": "微博之夜",
-      "onboard_time": 1767249260,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 315268,
@@ -1715,14 +1739,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 280388,
-      "num": 280388,
-      "word": "黄子韬哭了",
-      "onboard_time": 1767514523,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 280003,
       "num": 1004834,
       "word": "茅台1499元直销成黄牛噩梦",
@@ -1739,20 +1755,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279290,
+      "num": 279290,
+      "word": "小英自曝被上拉如身边人欺负",
+      "onboard_time": 1767515362,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 279044,
       "num": 453355,
       "word": "李维嘉跨年夜哭是因为想谢娜了",
       "onboard_time": 1767327740,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 278779,
-      "num": 278779,
-      "word": "谢娜 女本位",
-      "onboard_time": 1767513263,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 276902,
@@ -1867,12 +1883,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 263329,
-      "num": 263329,
-      "word": "时代峰峻高会改名",
-      "onboard_time": 1767515724,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 262049,
+      "num": 262049,
+      "word": "如果一个人长期不工作",
+      "onboard_time": 1767514102,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 261771,
@@ -2384,22 +2400,6 @@
       "word": "伊朗面临40多年来最严峻挑战",
       "onboard_time": 1767408206,
       "rank": 22,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 208969,
-      "num": 1730508,
-      "word": "车厘子J是啥意思",
-      "onboard_time": 1767425606,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 208470,
-      "num": 736271,
-      "word": "委内瑞拉内政部长呼吁民众冷静",
-      "onboard_time": 1767444506,
-      "rank": 42,
       "category": "国际时政"
     }
   ],
