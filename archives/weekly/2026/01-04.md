@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/04 00:34:09 ~ 2026/01/05 01:25:07
+本榜单时间：2026/01/04 00:34:09 ~ 2026/01/05 01:42:16
 </p>
 </blockquote>
 <p>
@@ -2643,6 +2643,12 @@ papi 幸福不是一切人还有责任（热度：91974）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E7%B2%89%E4%B8%9D%E5%90%83%E7%9A%84%E4%B9%9F%E5%A4%AA%E5%A5%BD%E4%BA%86%E5%90%A7%23" target="weibo">
+侯明昊粉丝吃的也太好了吧（热度：44120）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Tabe%E9%A6%96%E6%AC%A1%E4%BB%8B%E5%85%A5JDG%E8%AF%AD%E9%9F%B3%23" target="weibo">
 Tabe首次介入JDG语音（热度：43840）
 </a>
@@ -2763,6 +2769,12 @@ MRC夺冠（热度：40693）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%AE%A4%E5%86%85%E6%B8%B8%E4%B9%90%E5%9C%BA%E5%A4%B9%E5%A8%83%E5%A8%83%E6%9C%BA%E6%94%BE%E5%B0%8F%E5%8A%A8%E7%89%A9%23" target="weibo">
+上海一室内游乐场夹娃娃机放小动物（热度：33163）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A3%9E%E5%A4%A9%E8%8C%85%E5%8F%B0%E6%AF%8F%E4%BA%BA%E6%AF%8F%E6%97%A5%E9%99%90%E8%B4%AD6%E7%93%B6%23" target="weibo">
 飞天茅台每人每日限购6瓶（热度：33077）
 </a>
@@ -2777,12 +2789,6 @@ MRC夺冠（热度：40693）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%96%B0%E6%AD%8C%E9%80%9F%E9%80%92%23" target="weibo">
 周深新歌速递（热度：31154）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%AE%A4%E5%86%85%E6%B8%B8%E4%B9%90%E5%9C%BA%E5%A4%B9%E5%A8%83%E5%A8%83%E6%9C%BA%E6%94%BE%E5%B0%8F%E5%8A%A8%E7%89%A9%23" target="weibo">
-上海一室内游乐场夹娃娃机放小动物（热度：31028）
 </a>
 </li>
 
@@ -2831,6 +2837,12 @@ MRC夺冠（热度：40693）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%83%E6%97%A6%E5%81%87%E6%9C%9F%E4%BA%A4%E9%80%9A%E5%87%BA%E8%A1%8C5.95%E4%BA%BF%E4%BA%BA%E6%AC%A1%23" target="weibo">
 元旦假期交通出行5.95亿人次（热度：25999）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E7%AC%AC%E4%B8%80%E9%A2%97%E8%8D%A3%E8%80%80%E6%B0%B4%E6%99%B6%E6%8D%A2%E5%95%A5%E5%A5%BD%23" target="weibo">
+王者第一颗荣耀水晶换啥好（热度：25431）
 </a>
 </li>
 
