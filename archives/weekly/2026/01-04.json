@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767551927821,
+  "endTime": 1767552721607,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -3291,6 +3291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61294,
+      "num": 165490,
+      "word": "王者第一颗荣耀水晶换啥好",
+      "onboard_time": 1767547877,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 61270,
       "num": 164901,
       "word": "汪峰带女儿醒醒逛市集",
@@ -3353,14 +3361,6 @@
       "onboard_time": 1767517461,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 55706,
-      "num": 165490,
-      "word": "王者第一颗荣耀水晶换啥好",
-      "onboard_time": 1767547877,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 55625,
@@ -3905,6 +3905,14 @@
       "onboard_time": 1767514702,
       "rank": 39,
       "category": "民生新闻,数码"
+    },
+    {
+      "raw_hot": 15518,
+      "num": 39031,
+      "word": "王力宏手比嘴忙",
+      "onboard_time": 1767552375,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 14559,

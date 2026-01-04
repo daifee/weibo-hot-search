@@ -1,6 +1,6 @@
 {
   "startTime": 1767544434885,
-  "endTime": 1767551927821,
+  "endTime": 1767552721607,
   "band_list": [
     {
       "raw_hot": 1158219,
@@ -315,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61294,
+      "num": 165490,
+      "word": "王者第一颗荣耀水晶换啥好",
+      "onboard_time": 1767547877,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 59984,
       "num": 168478,
       "word": "德国杯",
@@ -345,14 +353,6 @@
       "onboard_time": 1767538285,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 55706,
-      "num": 165490,
-      "word": "王者第一颗荣耀水晶换啥好",
-      "onboard_time": 1767547877,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 55650,
@@ -491,7 +491,15 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 14095,
+      "raw_hot": 15518,
+      "num": 39031,
+      "word": "王力宏手比嘴忙",
+      "onboard_time": 1767552375,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 14275,
       "num": 61154,
       "word": "KPL奇妙夜",
       "onboard_time": 1767527842,
@@ -499,7 +507,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 10009,
+      "raw_hot": 11086,
       "num": 218972,
       "word": "这组数据见证活力迸发的元旦假期",
       "onboard_time": 1767533844,
