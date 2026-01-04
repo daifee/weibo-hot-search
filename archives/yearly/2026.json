@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767522522933,
+  "endTime": 1767523519687,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1003,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 429529,
+      "num": 793738,
+      "word": "93年已经当爷爷了吗",
+      "onboard_time": 1767520462,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 428471,
       "num": 1002713,
       "word": "电影偷偷藏不住官宣",
@@ -1073,14 +1081,6 @@
       "onboard_time": 1767266602,
       "rank": 37,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 405446,
-      "num": 785539,
-      "word": "93年已经当爷爷了吗",
-      "onboard_time": 1767520462,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 405001,
@@ -1185,6 +1185,14 @@
       "onboard_time": 1767431664,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 377186,
+      "num": 292440,
+      "word": "王俊凯 族长赐赞",
+      "onboard_time": 1767521123,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 375440,
@@ -1723,20 +1731,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 289362,
-      "num": 254124,
-      "word": "王俊凯 族长赐赞",
-      "onboard_time": 1767521123,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 288384,
       "num": 1756179,
       "word": "五角大楼附近披萨订单量又升高了",
       "onboard_time": 1767425246,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 288136,
+      "num": 288136,
+      "word": "金莎曾因靠商演维持收入感到自卑",
+      "onboard_time": 1767520822,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 285474,
@@ -1892,7 +1900,7 @@
     },
     {
       "raw_hot": 267807,
-      "num": 267807,
+      "num": 299024,
       "word": "车厘子正确清洗教程来了",
       "onboard_time": 1767514223,
       "rank": 29,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767342321,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 215268,
-      "num": 894509,
-      "word": "金价飙升原因找到了",
-      "onboard_time": 1767357261,
-      "rank": 25,
-      "category": "财经"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767522522933,
+  "endTime": 1767523519687,
   "band_list": [
     {
       "raw_hot": 1631134,
@@ -395,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 429529,
+      "num": 793738,
+      "word": "93年已经当爷爷了吗",
+      "onboard_time": 1767520462,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 426880,
       "num": 820928,
       "word": "委内瑞拉",
@@ -427,14 +435,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 405446,
-      "num": 785539,
-      "word": "93年已经当爷爷了吗",
-      "onboard_time": 1767520462,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 404975,
       "num": 404975,
       "word": "宝马官宣降价",
@@ -465,6 +465,14 @@
       "onboard_time": 1767492802,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 377186,
+      "num": 292440,
+      "word": "王俊凯 族长赐赞",
+      "onboard_time": 1767521123,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 375440,
@@ -643,11 +651,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 289362,
-      "num": 254124,
-      "word": "王俊凯 族长赐赞",
-      "onboard_time": 1767521123,
-      "rank": 11,
+      "raw_hot": 288136,
+      "num": 288136,
+      "word": "金莎曾因靠商演维持收入感到自卑",
+      "onboard_time": 1767520822,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -708,7 +716,7 @@
     },
     {
       "raw_hot": 267807,
-      "num": 267807,
+      "num": 299024,
       "word": "车厘子正确清洗教程来了",
       "onboard_time": 1767514223,
       "rank": 29,
@@ -907,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207781,
+      "num": 781628,
+      "word": "骄阳似我",
+      "onboard_time": 1767435085,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206472,
       "num": 209242,
       "word": "足浴店涉嫌非法聘用外国人被查",
@@ -937,6 +953,14 @@
       "onboard_time": 1767503901,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200780,
+      "num": 445851,
+      "word": "住房公积金会变得越来越香吗",
+      "onboard_time": 1767521062,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200523,
@@ -971,14 +995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198490,
-      "num": 445851,
-      "word": "住房公积金会变得越来越香吗",
-      "onboard_time": 1767521062,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 198081,
       "num": 198081,
       "word": "金价波动",
@@ -988,7 +1004,7 @@
     },
     {
       "raw_hot": 197320,
-      "num": 261077,
+      "num": 288259,
       "word": "德国杯半决赛樊振东出任一单",
       "onboard_time": 1767521602,
       "rank": 8,
@@ -1016,14 +1032,6 @@
       "word": "张凌赫交摄影作品了",
       "onboard_time": 1767512483,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 192489,
-      "num": 192489,
-      "word": "金莎曾因靠商演维持收入感到自卑",
-      "onboard_time": 1767520822,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -1123,6 +1131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 172956,
+      "num": 172956,
+      "word": "巴西认定委副总统为委内瑞拉领导人",
+      "onboard_time": 1767519081,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 172071,
       "num": 806855,
       "word": "巴西总统称美开创危险先例",
@@ -1219,6 +1235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 163633,
+      "num": 296750,
+      "word": "骄阳似我被各地文旅抢上了",
+      "onboard_time": 1767522861,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162979,
       "num": 162979,
       "word": "微信状态的好用我后知后觉",
@@ -1243,6 +1267,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 156674,
+      "num": 156674,
+      "word": "杨紫15岁的小狗生病做手术了",
+      "onboard_time": 1767521243,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156168,
       "num": 156168,
       "word": "白鹿上车喽",
@@ -1265,6 +1297,14 @@
       "onboard_time": 1767514702,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 153969,
+      "num": 291014,
+      "word": "爱奇艺电视剧 南部档案",
+      "onboard_time": 1767519922,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 153794,
@@ -1371,14 +1411,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 144801,
-      "num": 144801,
-      "word": "杨紫15岁的小狗生病做手术了",
-      "onboard_time": 1767521243,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 142265,
       "num": 717318,
       "word": "陈都灵邓为或二搭黛色",
@@ -1457,14 +1489,6 @@
       "onboard_time": 1767515483,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 134382,
-      "num": 134382,
-      "word": "巴西认定委副总统为委内瑞拉领导人",
-      "onboard_time": 1767519081,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 134042,
@@ -1547,6 +1571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125752,
+      "num": 295422,
+      "word": "吃爽了是一种什么体验",
+      "onboard_time": 1767522622,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 125583,
       "num": 125583,
       "word": "黑泽杀回短剧赛道",
@@ -1563,12 +1595,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123519,
+      "num": 122986,
+      "word": "骄阳似我 伟大的热恋期",
+      "onboard_time": 1767522742,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 123011,
+      "num": 123011,
+      "word": "委内瑞拉或出现难民潮",
+      "onboard_time": 1767523102,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 122971,
       "num": 122971,
       "word": "经常生闷气会掏空人的气血",
       "onboard_time": 1767501384,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 122797,
+      "num": 122797,
+      "word": "一句看不懂让我连看十二集",
+      "onboard_time": 1767522443,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 121474,
@@ -1595,12 +1651,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116384,
-      "num": 116384,
-      "word": "爱奇艺电视剧 南部档案",
-      "onboard_time": 1767519922,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 118203,
+      "num": 118203,
+      "word": "收到扣费600多元短信发现买过保险",
+      "onboard_time": 1767522501,
+      "rank": 49,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 115568,
@@ -1651,14 +1707,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 109664,
-      "num": 109664,
-      "word": "一句看不懂让我连看十二集",
-      "onboard_time": 1767522443,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 109661,
       "num": 109661,
       "word": "黄子韬王鹤棣自曝想拍短剧",
@@ -1707,6 +1755,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 105837,
+      "num": 103770,
+      "word": "美多名顶尖律师正争取为马杜罗辩护",
+      "onboard_time": 1767522142,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 105803,
       "num": 105803,
       "word": "委内瑞拉遭袭24小时后",
@@ -1729,14 +1785,6 @@
       "onboard_time": 1767456082,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 103770,
-      "num": 103770,
-      "word": "美多名顶尖律师正争取为马杜罗辩护",
-      "onboard_time": 1767522142,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 101381,
@@ -1851,12 +1899,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95786,
+      "num": 95786,
+      "word": "男子穿破羽绒服致呼吸衰竭",
+      "onboard_time": 1767520643,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95486,
       "num": 95486,
       "word": "白鹿王鹤棣范丞丞宇闪合体",
       "onboard_time": 1767518184,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95066,
+      "num": 95066,
+      "word": "大餐后三天这样吃体重会下降",
+      "onboard_time": 1767522922,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 94840,
@@ -1889,14 +1953,6 @@
       "onboard_time": 1767447266,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 93755,
-      "num": 93755,
-      "word": "男子穿破羽绒服致呼吸衰竭",
-      "onboard_time": 1767520643,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93372,
@@ -1977,6 +2033,14 @@
       "onboard_time": 1767449605,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 89082,
+      "num": 89082,
+      "word": "黄晓明和白鹿演霸总戏",
+      "onboard_time": 1767520223,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 89074,
@@ -2067,20 +2131,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 82248,
-      "num": 82248,
-      "word": "收到扣费600多元短信发现买过保险",
-      "onboard_time": 1767522501,
-      "rank": 49,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 81571,
       "num": 804616,
       "word": "小猫上半身基础下半身就不基础",
       "onboard_time": 1767445765,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 80459,
+      "num": 80459,
+      "word": "孙颖莎的爱国时刻",
+      "onboard_time": 1767523461,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 79366,
@@ -2113,14 +2177,6 @@
       "onboard_time": 1767516262,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76280,
-      "num": 781628,
-      "word": "骄阳似我",
-      "onboard_time": 1767435085,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 73811,
@@ -2249,6 +2305,14 @@
       "onboard_time": 1767455363,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 61694,
+      "num": 156903,
+      "word": "流浪女网红9天前曾向家里要钱看病",
+      "onboard_time": 1767521662,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61270,
@@ -2537,14 +2601,6 @@
       "onboard_time": 1767450386,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 36438,
-      "num": 156903,
-      "word": "流浪女网红9天前曾向家里要钱看病",
-      "onboard_time": 1767521662,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36188,
