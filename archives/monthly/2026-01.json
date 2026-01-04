@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767559478493,
+  "endTime": 1767561977602,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -11947,6 +11947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11452,
+      "num": 24190,
+      "word": "车厘子含褪黑素但不能催眠",
+      "onboard_time": 1767561434,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 10651,
       "num": 231003,
       "word": "多地探索产检全免费",
@@ -11977,6 +11985,14 @@
       "onboard_time": 1767430705,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9244,
+      "num": 24188,
+      "word": "AG宣布副教练李托卸任",
+      "onboard_time": 1767550695,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 8012,
