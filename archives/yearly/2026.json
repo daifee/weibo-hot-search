@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767523519687,
+  "endTime": 1767525842376,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -795,6 +795,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 485454,
+      "num": 793738,
+      "word": "93年已经当爷爷了吗",
+      "onboard_time": 1767520462,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 484404,
       "num": 394383,
       "word": "今天是委内瑞拉明天可能是任何国家",
@@ -889,6 +897,14 @@
       "onboard_time": 1767277642,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 458015,
+      "num": 772780,
+      "word": "收到扣费600多元短信发现买过保险",
+      "onboard_time": 1767522501,
+      "rank": 49,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 456783,
@@ -1003,14 +1019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 429529,
-      "num": 793738,
-      "word": "93年已经当爷爷了吗",
-      "onboard_time": 1767520462,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 428471,
       "num": 1002713,
       "word": "电影偷偷藏不住官宣",
@@ -1024,6 +1032,14 @@
       "word": "委内瑞拉国家紧急状态",
       "onboard_time": 1767427524,
       "rank": 5,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 420432,
+      "num": 285991,
+      "word": "巴西认定委副总统为委内瑞拉领导人",
+      "onboard_time": 1767519081,
+      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -1131,6 +1147,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 393843,
+      "num": 292440,
+      "word": "王俊凯 族长赐赞",
+      "onboard_time": 1767521123,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 392817,
       "num": 1095638,
       "word": "张本智和曾参拜东乡神社",
@@ -1185,14 +1209,6 @@
       "onboard_time": 1767431664,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 377186,
-      "num": 292440,
-      "word": "王俊凯 族长赐赞",
-      "onboard_time": 1767521123,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 375440,
@@ -1331,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356964,
+      "num": 200317,
+      "word": "周扬青当众怼石晶",
+      "onboard_time": 1767523821,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356918,
       "num": 461812,
       "word": "特朗普",
@@ -1449,6 +1473,14 @@
       "onboard_time": 1767262160,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 321763,
+      "num": 199194,
+      "word": "王祖贤眼睛怎么了",
+      "onboard_time": 1767524483,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 320868,
@@ -1720,6 +1752,14 @@
       "word": "车厘子价格暴跌近40%",
       "onboard_time": 1767357020,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291609,
+      "num": 445851,
+      "word": "住房公积金会变得越来越香吗",
+      "onboard_time": 1767521062,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -2361,46 +2401,6 @@
       "onboard_time": 1767232223,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 222295,
-      "num": 1400334,
-      "word": "FGO",
-      "onboard_time": 1767196767,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 222230,
-      "num": 593294,
-      "word": "姚晨把武林外传地名走了一遍",
-      "onboard_time": 1767354861,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 219002,
-      "num": 1391514,
-      "word": "央视舞美 夯爆了",
-      "onboard_time": 1767196407,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 215582,
-      "num": 737597,
-      "word": "骄阳似我刷新腾讯纪录",
-      "onboard_time": 1767364581,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 215431,
-      "num": 518573,
-      "word": "沙溢发文纪念武林外传20周年",
-      "onboard_time": 1767342321,
-      "rank": 30,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [

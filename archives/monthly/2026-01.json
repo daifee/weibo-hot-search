@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767523519687,
+  "endTime": 1767525842376,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -795,6 +795,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 485454,
+      "num": 793738,
+      "word": "93年已经当爷爷了吗",
+      "onboard_time": 1767520462,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 484404,
       "num": 394383,
       "word": "今天是委内瑞拉明天可能是任何国家",
@@ -889,6 +897,14 @@
       "onboard_time": 1767277642,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 458015,
+      "num": 772780,
+      "word": "收到扣费600多元短信发现买过保险",
+      "onboard_time": 1767522501,
+      "rank": 49,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 456783,
@@ -1003,14 +1019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 429529,
-      "num": 793738,
-      "word": "93年已经当爷爷了吗",
-      "onboard_time": 1767520462,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 428471,
       "num": 1002713,
       "word": "电影偷偷藏不住官宣",
@@ -1024,6 +1032,14 @@
       "word": "委内瑞拉国家紧急状态",
       "onboard_time": 1767427524,
       "rank": 5,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 420432,
+      "num": 285991,
+      "word": "巴西认定委副总统为委内瑞拉领导人",
+      "onboard_time": 1767519081,
+      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -1131,6 +1147,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 393843,
+      "num": 292440,
+      "word": "王俊凯 族长赐赞",
+      "onboard_time": 1767521123,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 392817,
       "num": 1095638,
       "word": "张本智和曾参拜东乡神社",
@@ -1185,14 +1209,6 @@
       "onboard_time": 1767431664,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 377186,
-      "num": 292440,
-      "word": "王俊凯 族长赐赞",
-      "onboard_time": 1767521123,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 375440,
@@ -1331,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356964,
+      "num": 200317,
+      "word": "周扬青当众怼石晶",
+      "onboard_time": 1767523821,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356918,
       "num": 461812,
       "word": "特朗普",
@@ -1449,6 +1473,14 @@
       "onboard_time": 1767262160,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 321763,
+      "num": 199194,
+      "word": "王祖贤眼睛怎么了",
+      "onboard_time": 1767524483,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 320868,
@@ -1720,6 +1752,14 @@
       "word": "车厘子价格暴跌近40%",
       "onboard_time": 1767357020,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291609,
+      "num": 445851,
+      "word": "住房公积金会变得越来越香吗",
+      "onboard_time": 1767521062,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -2387,6 +2427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218738,
+      "num": 291014,
+      "word": "爱奇艺电视剧 南部档案",
+      "onboard_time": 1767519922,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215582,
       "num": 737597,
       "word": "骄阳似我刷新腾讯纪录",
@@ -2619,14 +2667,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 200780,
-      "num": 445851,
-      "word": "住房公积金会变得越来越香吗",
-      "onboard_time": 1767521062,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 200636,
       "num": 1030868,
       "word": "王鹤棣 都别找我借钱",
@@ -2779,6 +2819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193782,
+      "num": 193782,
+      "word": "杨紫15岁的小狗生病做手术了",
+      "onboard_time": 1767521243,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193523,
       "num": 733543,
       "word": "汪苏泷 我们",
@@ -2801,6 +2849,14 @@
       "onboard_time": 1767421587,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191779,
+      "num": 191779,
+      "word": "手冢治虫预言美国",
+      "onboard_time": 1767520762,
+      "rank": 31,
+      "category": "国际时政,动漫"
     },
     {
       "raw_hot": 191225,
@@ -3299,14 +3355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 172956,
-      "num": 172956,
-      "word": "巴西认定委副总统为委内瑞拉领导人",
-      "onboard_time": 1767519081,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 172263,
       "num": 539818,
       "word": "林依轮 姜平也是聂曦光唯一的舅舅",
@@ -3329,6 +3377,14 @@
       "onboard_time": 1767325340,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171751,
+      "num": 171751,
+      "word": "腾讯回应元宝AI辱骂用户",
+      "onboard_time": 1767524843,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 170485,
@@ -3819,14 +3875,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 156674,
-      "num": 156674,
-      "word": "杨紫15岁的小狗生病做手术了",
-      "onboard_time": 1767521243,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 156657,
       "num": 285809,
       "word": "星穹铁道爻光",
@@ -3921,14 +3969,6 @@
       "onboard_time": 1767514702,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 153969,
-      "num": 291014,
-      "word": "爱奇艺电视剧 南部档案",
-      "onboard_time": 1767519922,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 153794,
@@ -4323,6 +4363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 140693,
+      "num": 295422,
+      "word": "吃爽了是一种什么体验",
+      "onboard_time": 1767522622,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 140496,
       "num": 963921,
       "word": "美国节目谈斩杀线",
@@ -4401,6 +4449,14 @@
       "onboard_time": 1767517284,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139631,
+      "num": 139631,
+      "word": "委内瑞拉或出现难民潮",
+      "onboard_time": 1767523102,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 139426,
@@ -4577,6 +4633,14 @@
       "onboard_time": 1767356601,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133599,
+      "num": 133599,
+      "word": "骄阳似我 你把我害惨了",
+      "onboard_time": 1767524423,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 133531,
@@ -4795,6 +4859,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 128011,
+      "num": 128011,
+      "word": "邓紫棋回应所著科幻小说入围银河奖",
+      "onboard_time": 1767525142,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127999,
       "num": 520988,
       "word": "特朗普此前曾听取国家安全简报",
@@ -4809,6 +4881,14 @@
       "onboard_time": 1767237800,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127652,
+      "num": 105410,
+      "word": "马杜罗上台阶时痛苦呻吟",
+      "onboard_time": 1767524902,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 127635,
@@ -4923,14 +5003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125752,
-      "num": 295422,
-      "word": "吃爽了是一种什么体验",
-      "onboard_time": 1767522622,
-      "rank": 9,
-      "category": "美食"
-    },
-    {
       "raw_hot": 125583,
       "num": 125583,
       "word": "黑泽杀回短剧赛道",
@@ -5033,14 +5105,6 @@
       "onboard_time": 1767450626,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 123011,
-      "num": 123011,
-      "word": "委内瑞拉或出现难民潮",
-      "onboard_time": 1767523102,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 122971,
@@ -5283,14 +5347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118203,
-      "num": 118203,
-      "word": "收到扣费600多元短信发现买过保险",
-      "onboard_time": 1767522501,
-      "rank": 49,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 117691,
       "num": 588907,
       "word": "湖南跨晚明星全员红装",
@@ -5435,14 +5491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 114214,
-      "num": 114214,
-      "word": "手冢治虫预言美国",
-      "onboard_time": 1767520762,
-      "rank": 31,
-      "category": "国际时政,动漫"
-    },
-    {
       "raw_hot": 114043,
       "num": 284405,
       "word": "一路生花",
@@ -5473,6 +5521,14 @@
       "onboard_time": 1767428124,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113545,
+      "num": 113545,
+      "word": "樊振东vs阿比奥顿",
+      "onboard_time": 1767524062,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 113523,
@@ -5747,6 +5803,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 106801,
+      "num": 106801,
+      "word": "李莎旻子 口条",
+      "onboard_time": 1767525683,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106786,
       "num": 1095424,
       "word": "樊振东认为巴黎奥运会美好又特别",
@@ -5899,6 +5963,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104606,
+      "num": 104606,
+      "word": "黄晓明和白鹿演霸总戏",
+      "onboard_time": 1767520223,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104423,
       "num": 841905,
       "word": "心疼年锦",
@@ -5977,6 +6049,14 @@
       "onboard_time": 1767421466,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 102858,
+      "num": 102858,
+      "word": "柯淳领衔主演黎明前他会归来",
+      "onboard_time": 1767525322,
+      "rank": 32,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 102798,
@@ -6065,6 +6145,14 @@
       "onboard_time": 1767516322,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 100859,
+      "num": 100859,
+      "word": "美国超百城抗议霸凌战争",
+      "onboard_time": 1767525322,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 100815,
@@ -6483,6 +6571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93852,
+      "num": 93852,
+      "word": "曾爆火素人女孩七七签约经纪公司",
+      "onboard_time": 1767525263,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 93729,
       "num": 219818,
       "word": "汪苏泷被彩带锁喉了",
@@ -6755,20 +6851,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 89572,
+      "num": 89572,
+      "word": "美国人民不想要另一场战争",
+      "onboard_time": 1767523941,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 89312,
       "num": 990839,
       "word": "土耳其免签春节旅游热攀升",
       "onboard_time": 1767277822,
       "rank": 7,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 89082,
-      "num": 89082,
-      "word": "黄晓明和白鹿演霸总戏",
-      "onboard_time": 1767520223,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 89074,
@@ -6809,6 +6905,14 @@
       "onboard_time": 1767348079,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88320,
+      "num": 88320,
+      "word": "有人2025年买黄金赚近70万",
+      "onboard_time": 1767525623,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 88185,
@@ -6865,6 +6969,14 @@
       "onboard_time": 1767361161,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87430,
+      "num": 87430,
+      "word": "第一次看清楚眼妆怎么画",
+      "onboard_time": 1767524722,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 87367,
@@ -7731,6 +7843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 72901,
+      "num": 88265,
+      "word": "花几千在江浙沪滑雪的中产被坑哭了",
+      "onboard_time": 1767524423,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72757,
       "num": 713776,
       "word": "这3个带马成语太给劲了",
@@ -8073,6 +8193,14 @@
       "onboard_time": 1767432264,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 67094,
+      "num": 91148,
+      "word": "宋祖儿和闺蜜跨年",
+      "onboard_time": 1767524783,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 66966,
@@ -10705,6 +10833,14 @@
       "onboard_time": 1767275302,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21102,
+      "num": 89862,
+      "word": "陈妍希带儿子练习射箭",
+      "onboard_time": 1767525022,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 21099,

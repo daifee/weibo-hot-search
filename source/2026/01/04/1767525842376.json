@@ -1,0 +1,410 @@
+{
+  "runTime": 1767525842376,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 459405,
+        "num": 1073504,
+        "word": "外交部回应美强行控制委总统夫妇",
+        "onboard_time": 1767507983,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 458015,
+        "num": 772780,
+        "word": "收到扣费600多元短信发现买过保险",
+        "onboard_time": 1767522501,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 24846,
+        "num": 635024,
+        "word": "憧憬十五五",
+        "onboard_time": 1767519385,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291609,
+        "num": 291609,
+        "word": "住房公积金会变得越来越香吗",
+        "onboard_time": 1767521062,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218738,
+        "num": 286386,
+        "word": "爱奇艺电视剧 南部档案",
+        "onboard_time": 1767519922,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 420432,
+        "num": 285991,
+        "word": "巴西认定委副总统为委内瑞拉领导人",
+        "onboard_time": 1767519081,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 284779,
+        "num": 284779,
+        "word": "爸爸微信有两千个置顶",
+        "onboard_time": 1767497601,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208830,
+        "num": 208830,
+        "word": "尚公主",
+        "onboard_time": 1767525022,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153319,
+        "num": 207868,
+        "word": "骄阳似我被各地文旅抢上了",
+        "onboard_time": 1767522861,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140693,
+        "num": 206364,
+        "word": "吃爽了是一种什么体验",
+        "onboard_time": 1767522622,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 393843,
+        "num": 203717,
+        "word": "王俊凯 族长赐赞",
+        "onboard_time": 1767521123,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356964,
+        "num": 200317,
+        "word": "周扬青当众怼石晶",
+        "onboard_time": 1767523821,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321763,
+        "num": 199194,
+        "word": "王祖贤眼睛怎么了",
+        "onboard_time": 1767524483,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298646,
+        "num": 197504,
+        "word": "如果一个人长期不工作",
+        "onboard_time": 1767514102,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271857,
+        "num": 194525,
+        "word": "金莎曾因靠商演维持收入感到自卑",
+        "onboard_time": 1767520822,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193782,
+        "num": 193782,
+        "word": "杨紫15岁的小狗生病做手术了",
+        "onboard_time": 1767521243,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191779,
+        "num": 191779,
+        "word": "手冢治虫预言美国",
+        "onboard_time": 1767520762,
+        "rank": 16,
+        "category": "国际时政,动漫"
+      },
+      {
+        "raw_hot": 179543,
+        "num": 179543,
+        "word": "医生称车厘子果蝇的幼虫水洗不掉",
+        "onboard_time": 1767509842,
+        "rank": 17,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 171751,
+        "num": 171751,
+        "word": "腾讯回应元宝AI辱骂用户",
+        "onboard_time": 1767524843,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 127713,
+        "num": 145687,
+        "word": "车厘子正确清洗教程来了",
+        "onboard_time": 1767514223,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139631,
+        "num": 139631,
+        "word": "委内瑞拉或出现难民潮",
+        "onboard_time": 1767523102,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137372,
+        "num": 137372,
+        "word": "易梦玲陪阿哲5100领证",
+        "onboard_time": 1767517522,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133599,
+        "num": 133599,
+        "word": "骄阳似我 你把我害惨了",
+        "onboard_time": 1767524423,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132230,
+        "num": 132230,
+        "word": "时代峰峻高会改名",
+        "onboard_time": 1767515724,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128011,
+        "num": 128011,
+        "word": "邓紫棋回应所著科幻小说入围银河奖",
+        "onboard_time": 1767525142,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116624,
+        "num": 116624,
+        "word": "微博之夜",
+        "onboard_time": 1767514583,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113545,
+        "num": 113545,
+        "word": "樊振东vs阿比奥顿",
+        "onboard_time": 1767524062,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111529,
+        "num": 111529,
+        "word": "骄阳似我",
+        "onboard_time": 1767522682,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106801,
+        "num": 106801,
+        "word": "李莎旻子 口条",
+        "onboard_time": 1767525683,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95506,
+        "num": 105592,
+        "word": "医生解读酒店床上为何放4个枕头",
+        "onboard_time": 1767517284,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127652,
+        "num": 105410,
+        "word": "马杜罗上台阶时痛苦呻吟",
+        "onboard_time": 1767524902,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104606,
+        "num": 104606,
+        "word": "黄晓明和白鹿演霸总戏",
+        "onboard_time": 1767520223,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102858,
+        "num": 102858,
+        "word": "柯淳领衔主演黎明前他会归来",
+        "onboard_time": 1767525322,
+        "rank": 32,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 100859,
+        "num": 100859,
+        "word": "美国超百城抗议霸凌战争",
+        "onboard_time": 1767525322,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93852,
+        "num": 93852,
+        "word": "曾爆火素人女孩七七签约经纪公司",
+        "onboard_time": 1767525263,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 100091,
+        "num": 93820,
+        "word": "美多名顶尖律师正争取为马杜罗辩护",
+        "onboard_time": 1767522142,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93606,
+        "num": 93606,
+        "word": "男子穿破羽绒服致呼吸衰竭",
+        "onboard_time": 1767520643,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92776,
+        "num": 92776,
+        "word": "骄阳似我 伟大的热恋期",
+        "onboard_time": 1767522742,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67094,
+        "num": 91148,
+        "word": "宋祖儿和闺蜜跨年",
+        "onboard_time": 1767524783,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21102,
+        "num": 89862,
+        "word": "陈妍希带儿子练习射箭",
+        "onboard_time": 1767525022,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485454,
+        "num": 89744,
+        "word": "93年已经当爷爷了吗",
+        "onboard_time": 1767520462,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89572,
+        "num": 89572,
+        "word": "美国人民不想要另一场战争",
+        "onboard_time": 1767523941,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88951,
+        "num": 88951,
+        "word": "宇树科技上市绿色通道被叫停",
+        "onboard_time": 1767512722,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 88320,
+        "num": 88320,
+        "word": "有人2025年买黄金赚近70万",
+        "onboard_time": 1767525623,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 326516,
+        "num": 88312,
+        "word": "王安宇电影分账票房第一",
+        "onboard_time": 1767520101,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72901,
+        "num": 88265,
+        "word": "花几千在江浙沪滑雪的中产被坑哭了",
+        "onboard_time": 1767524423,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88227,
+        "num": 88227,
+        "word": "iPhone千万别删的自带软件",
+        "onboard_time": 1767512602,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 87430,
+        "num": 87430,
+        "word": "第一次看清楚眼妆怎么画",
+        "onboard_time": 1767524722,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 83244,
+        "num": 83244,
+        "word": "车厘子 褪黑素",
+        "onboard_time": 1767483558,
+        "rank": 48,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 81591,
+        "num": 81591,
+        "word": "结婚证就得考啊",
+        "onboard_time": 1767507802,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#为人民出政绩以实干出政绩#"
+    }
+  }
+}
