@@ -1,0 +1,410 @@
+{
+  "runTime": 1767493584537,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 291422,
+        "num": 1046627,
+        "word": "外交部回应美对委军事打击",
+        "onboard_time": 1767451405,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 263234,
+        "num": 734200,
+        "word": "合肥下雪",
+        "onboard_time": 1767491542,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20919,
+        "num": 701677,
+        "word": "2026开年图景",
+        "onboard_time": 1767450026,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 697140,
+        "num": 697140,
+        "word": "车厘子 褪黑素",
+        "onboard_time": 1767483558,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 536292,
+        "num": 536292,
+        "word": "两名中国公民在日本被严重撞伤",
+        "onboard_time": 1767483320,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 494775,
+        "num": 494775,
+        "word": "金价",
+        "onboard_time": 1767491841,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 371689,
+        "num": 371689,
+        "word": "雷军称小米车轮子撞掉是丢轮保车",
+        "onboard_time": 1767488244,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 259394,
+        "num": 259394,
+        "word": "人一接近退休气血就开始回来了",
+        "onboard_time": 1767485541,
+        "rank": 7,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 230367,
+        "num": 230367,
+        "word": "特朗普称将占领管理委内瑞拉",
+        "onboard_time": 1767463877,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200209,
+        "num": 200209,
+        "word": "雷军确认小字营销要改",
+        "onboard_time": 1767481878,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1392989,
+        "num": 198905,
+        "word": "汉堡王崩了",
+        "onboard_time": 1767493042,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 623954,
+        "num": 194332,
+        "word": "马杜罗戴脚镣走下飞机",
+        "onboard_time": 1767489323,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 297924,
+        "num": 190113,
+        "word": "酒店的床上为什么要放四个枕头",
+        "onboard_time": 1767481939,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 521015,
+        "num": 183490,
+        "word": "美国强掳马杜罗中俄英法表态",
+        "onboard_time": 1767485903,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 245492,
+        "num": 178690,
+        "word": "不要在车里放小玩偶了",
+        "onboard_time": 1767489323,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 472404,
+        "num": 173782,
+        "word": "特朗普警告哥伦比亚总统小心点",
+        "onboard_time": 1767483920,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173634,
+        "num": 173634,
+        "word": "Gemini向小胖道歉",
+        "onboard_time": 1767486323,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 302903,
+        "num": 171469,
+        "word": "特朗普发布马杜罗在美国军舰上照片",
+        "onboard_time": 1767459021,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164255,
+        "num": 164255,
+        "word": "网传中国网红流落柬埔寨街头",
+        "onboard_time": 1767482298,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 17305,
+        "num": 163999,
+        "word": "马杜罗5日或在美国纽约联邦法院出庭",
+        "onboard_time": 1767492921,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 229326,
+        "num": 158285,
+        "word": "生理性喜欢的4个无意识行为",
+        "onboard_time": 1767481818,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295883,
+        "num": 151840,
+        "word": "屈楚萧方公开胜诉判决书",
+        "onboard_time": 1767482839,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87138,
+        "num": 147169,
+        "word": "奔跑吧下一季要换人了",
+        "onboard_time": 1767493341,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1430098,
+        "num": 143035,
+        "word": "一觉醒来委内瑞拉发生了什么",
+        "onboard_time": 1767484762,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 194829,
+        "num": 141551,
+        "word": "未成年女孩遭网友性侵司机果断报警",
+        "onboard_time": 1767487582,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282533,
+        "num": 138307,
+        "word": "载有马杜罗飞机抵达纽约",
+        "onboard_time": 1767482239,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134005,
+        "num": 134005,
+        "word": "房价219万销售承诺送72万元黄金",
+        "onboard_time": 1767492802,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225532,
+        "num": 132826,
+        "word": "马杜罗下飞机画面曝光",
+        "onboard_time": 1767488362,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120278,
+        "num": 120278,
+        "word": "人之初",
+        "onboard_time": 1767492682,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198951,
+        "num": 120022,
+        "word": "委内瑞拉",
+        "onboard_time": 1767426205,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111905,
+        "num": 111905,
+        "word": "雷军说被黑出了心理阴影",
+        "onboard_time": 1767490702,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 180190,
+        "num": 111829,
+        "word": "委内瑞拉首都现状",
+        "onboard_time": 1767485541,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111249,
+        "num": 111249,
+        "word": "小孩菜",
+        "onboard_time": 1767490101,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168411,
+        "num": 109915,
+        "word": "美对委军事打击造成至少40人死亡",
+        "onboard_time": 1767484701,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108411,
+        "num": 108411,
+        "word": "樱花树下站谁都美",
+        "onboard_time": 1767481998,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22342,
+        "num": 106960,
+        "word": "在委华人称第一次出国就遇上空袭",
+        "onboard_time": 1767492921,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 45228,
+        "num": 106932,
+        "word": "美控制委内瑞拉能操控全球柴油供应",
+        "onboard_time": 1767492682,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166030,
+        "num": 106925,
+        "word": "特朗普称美将深度介入委石油产业",
+        "onboard_time": 1767490822,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106911,
+        "num": 106911,
+        "word": "杨紫董竹君造型贵气",
+        "onboard_time": 1767490162,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52982,
+        "num": 103788,
+        "word": "把人刻在中心的标识",
+        "onboard_time": 1767492021,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164485,
+        "num": 103197,
+        "word": "美国多地爆发反战示威",
+        "onboard_time": 1767487342,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101976,
+        "num": 101976,
+        "word": "92年小伙回应领养12岁外甥女初衷",
+        "onboard_time": 1767450208,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156008,
+        "num": 101148,
+        "word": "委内瑞拉民众在总统府前集会",
+        "onboard_time": 1767482959,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98703,
+        "num": 98703,
+        "word": "原来眼镜有寿命",
+        "onboard_time": 1767481939,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126001,
+        "num": 98547,
+        "word": "美国大型石油公司将前往委内瑞拉",
+        "onboard_time": 1767460877,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96631,
+        "num": 96631,
+        "word": "近视眼的世界真这么离谱吗",
+        "onboard_time": 1767486622,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120002,
+        "num": 96610,
+        "word": "特朗普称美将管理委直至安全过渡",
+        "onboard_time": 1767459558,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87178,
+        "num": 96514,
+        "word": "白宫附近披萨订单也爆了",
+        "onboard_time": 1767482779,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 101548,
+        "num": 96434,
+        "word": "马杜罗没能进入安全空间",
+        "onboard_time": 1767481699,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69081,
+        "num": 96360,
+        "word": "英超联赛",
+        "onboard_time": 1767492682,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#枝叶总关情的含义#"
+    }
+  }
+}

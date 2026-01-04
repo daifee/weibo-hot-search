@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767483685636,
+  "endTime": 1767493584537,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -65,6 +65,22 @@
       "onboard_time": 1767459021,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1430098,
+      "num": 143035,
+      "word": "一觉醒来委内瑞拉发生了什么",
+      "onboard_time": 1767484762,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1392989,
+      "num": 198905,
+      "word": "汉堡王崩了",
+      "onboard_time": 1767493042,
+      "rank": 10,
+      "category": "美食"
     },
     {
       "raw_hot": 1374474,
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 903012,
-      "num": 109328,
+      "num": 164255,
       "word": "网传中国网红流落柬埔寨街头",
       "onboard_time": 1767482298,
       "rank": 30,
@@ -275,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 697140,
+      "num": 697140,
+      "word": "车厘子 褪黑素",
+      "onboard_time": 1767483558,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 686111,
       "num": 1402334,
       "word": "江苏卫视 听爽了",
@@ -305,6 +329,14 @@
       "onboard_time": 1767199644,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 623954,
+      "num": 194332,
+      "word": "马杜罗戴脚镣走下飞机",
+      "onboard_time": 1767489323,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 623347,
@@ -443,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 536292,
+      "num": 536292,
+      "word": "两名中国公民在日本被严重撞伤",
+      "onboard_time": 1767483320,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 534844,
       "num": 1004508,
       "word": "瑞士滑雪胜地爆炸多人死伤",
@@ -472,6 +512,14 @@
       "word": "美军为何突然袭击委内瑞拉",
       "onboard_time": 1767432264,
       "rank": 40,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 521015,
+      "num": 183490,
+      "word": "美国强掳马杜罗中俄英法表态",
+      "onboard_time": 1767485903,
+      "rank": 13,
       "category": "国际时政"
     },
     {
@@ -523,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 494775,
+      "num": 1002614,
+      "word": "金价",
+      "onboard_time": 1767257540,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 493980,
       "num": 1093193,
       "word": "长期戴眼镜导致的面部变化",
@@ -561,6 +617,14 @@
       "onboard_time": 1767311777,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 472404,
+      "num": 173782,
+      "word": "特朗普警告哥伦比亚总统小心点",
+      "onboard_time": 1767483920,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 471559,
@@ -833,6 +897,14 @@
       "onboard_time": 1767414326,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 371689,
+      "num": 371689,
+      "word": "雷军称小米车轮子撞掉是丢轮保车",
+      "onboard_time": 1767488244,
+      "rank": 6,
+      "category": "互联网"
     },
     {
       "raw_hot": 370681,
@@ -1179,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 295883,
+      "num": 151840,
+      "word": "屈楚萧方公开胜诉判决书",
+      "onboard_time": 1767482839,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294480,
       "num": 970701,
       "word": "白露的红夫人",
@@ -1355,14 +1435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 265212,
-      "num": 514541,
-      "word": "两名中国公民在日本被严重撞伤",
-      "onboard_time": 1767483320,
-      "rank": 4,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 264939,
       "num": 255353,
       "word": "鹅鸭杀官宣主理人大司马",
@@ -1377,6 +1449,14 @@
       "onboard_time": 1767447266,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 263234,
+      "num": 734200,
+      "word": "合肥下雪",
+      "onboard_time": 1767491542,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 261771,
@@ -1409,6 +1489,14 @@
       "onboard_time": 1767262760,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 259394,
+      "num": 259394,
+      "word": "人一接近退休气血就开始回来了",
+      "onboard_time": 1767485541,
+      "rank": 7,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 259335,
@@ -1515,6 +1603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 245492,
+      "num": 178690,
+      "word": "不要在车里放小玩偶了",
+      "onboard_time": 1767489323,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245028,
       "num": 1087905,
       "word": "黑龙江一景区现3米高冰封鱼墙",
@@ -1595,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229326,
+      "num": 220246,
+      "word": "生理性喜欢的4个无意识行为",
+      "onboard_time": 1767481818,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 229307,
       "num": 592716,
       "word": "钎城没上场",
@@ -1617,6 +1721,14 @@
       "onboard_time": 1767358822,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225532,
+      "num": 132826,
+      "word": "马杜罗下飞机画面曝光",
+      "onboard_time": 1767488362,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 224828,
@@ -1657,14 +1769,6 @@
       "onboard_time": 1767354861,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 220246,
-      "num": 220246,
-      "word": "生理性喜欢的4个无意识行为",
-      "onboard_time": 1767481818,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 219002,
@@ -1977,6 +2081,14 @@
       "onboard_time": 1767242661,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194829,
+      "num": 141551,
+      "word": "未成年女孩遭网友性侵司机果断报警",
+      "onboard_time": 1767487582,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194560,
@@ -2307,6 +2419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180190,
+      "num": 111829,
+      "word": "委内瑞拉首都现状",
+      "onboard_time": 1767485541,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 178442,
       "num": 1703345,
       "word": "美军结束对委内瑞拉轰炸",
@@ -2400,6 +2520,14 @@
       "word": "一诺五获KPL年度最佳发育路",
       "onboard_time": 1767452786,
       "rank": 24,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 173634,
+      "num": 173634,
+      "word": "Gemini向小胖道歉",
+      "onboard_time": 1767486323,
+      "rank": 16,
       "category": "电竞"
     },
     {
@@ -2515,6 +2643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168411,
+      "num": 109915,
+      "word": "美对委军事打击造成至少40人死亡",
+      "onboard_time": 1767484701,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 167596,
       "num": 1388124,
       "word": "跨年照片",
@@ -2595,20 +2731,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166030,
+      "num": 106925,
+      "word": "特朗普称美将深度介入委石油产业",
+      "onboard_time": 1767490822,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 165807,
       "num": 263619,
       "word": "中国奇谭2今日开播",
       "onboard_time": 1767240920,
       "rank": 6,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 165638,
-      "num": 1002614,
-      "word": "金价",
-      "onboard_time": 1767257540,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 164877,
@@ -2625,6 +2761,14 @@
       "onboard_time": 1767339021,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164485,
+      "num": 103197,
+      "word": "美国多地爆发反战示威",
+      "onboard_time": 1767487342,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 163909,
@@ -2849,6 +2993,14 @@
       "onboard_time": 1767411507,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 156008,
+      "num": 101148,
+      "word": "委内瑞拉民众在总统府前集会",
+      "onboard_time": 1767482959,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 155996,
@@ -3387,6 +3539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134005,
+      "num": 134005,
+      "word": "房价219万销售承诺送72万元黄金",
+      "onboard_time": 1767492802,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133860,
       "num": 182779,
       "word": "老林哭了",
@@ -3907,6 +4067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120278,
+      "num": 1035944,
+      "word": "人之初",
+      "onboard_time": 1767352940,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119908,
       "num": 315983,
       "word": "湖南跨晚收视率第一",
@@ -4139,14 +4307,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 113553,
-      "num": 113553,
-      "word": "屈楚萧方公开胜诉判决书",
-      "onboard_time": 1767482839,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 113523,
       "num": 1708841,
       "word": "美人心计vs玉茗茶骨",
@@ -4227,12 +4387,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111905,
+      "num": 111905,
+      "word": "雷军说被黑出了心理阴影",
+      "onboard_time": 1767490702,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 111526,
       "num": 557663,
       "word": "中国乒协2026新年寄语",
       "onboard_time": 1767253280,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111249,
+      "num": 111249,
+      "word": "小孩菜",
+      "onboard_time": 1767490101,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 110913,
@@ -4377,6 +4553,14 @@
       "onboard_time": 1767447986,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 106911,
+      "num": 106911,
+      "word": "杨紫董竹君造型贵气",
+      "onboard_time": 1767490162,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 106786,
@@ -4651,14 +4835,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 100857,
-      "num": 1035944,
-      "word": "人之初",
-      "onboard_time": 1767352940,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 100815,
       "num": 739550,
       "word": "小迪老师起飞全纪录",
@@ -4841,6 +5017,14 @@
       "onboard_time": 1767336078,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96631,
+      "num": 96631,
+      "word": "近视眼的世界真这么离谱吗",
+      "onboard_time": 1767486622,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 96087,
@@ -5281,6 +5465,22 @@
       "onboard_time": 1767279382,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87178,
+      "num": 96514,
+      "word": "白宫附近披萨订单也爆了",
+      "onboard_time": 1767482779,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 87138,
+      "num": 147169,
+      "word": "奔跑吧下一季要换人了",
+      "onboard_time": 1767493341,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 86949,
@@ -5955,14 +6155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74413,
-      "num": 69129,
-      "word": "委内瑞拉民众在总统府前集会",
-      "onboard_time": 1767482959,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 74331,
       "num": 979429,
       "word": "领导的电话号码要背熟",
@@ -6249,6 +6441,14 @@
       "onboard_time": 1767245001,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 69081,
+      "num": 96360,
+      "word": "英超联赛",
+      "onboard_time": 1767492682,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 68995,
@@ -7083,14 +7283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56311,
-      "num": 56311,
-      "word": "车厘子 褪黑素",
-      "onboard_time": 1767483558,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
       "raw_hot": 56248,
       "num": 729967,
       "word": "人类悲欢并不相通但你可以想通",
@@ -7267,6 +7459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 52982,
+      "num": 103788,
+      "word": "把人刻在中心的标识",
+      "onboard_time": 1767492021,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 52938,
       "num": 315296,
       "word": "王者荣耀无双",
@@ -7353,14 +7553,6 @@
       "onboard_time": 1767316160,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51471,
-      "num": 56235,
-      "word": "白宫附近披萨订单也爆了",
-      "onboard_time": 1767482779,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 51403,
@@ -7817,6 +8009,14 @@
       "onboard_time": 1767278600,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45228,
+      "num": 106932,
+      "word": "美控制委内瑞拉能操控全球柴油供应",
+      "onboard_time": 1767492682,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 45192,
@@ -8691,6 +8891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 22342,
+      "num": 106960,
+      "word": "在委华人称第一次出国就遇上空袭",
+      "onboard_time": 1767492921,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 22319,
       "num": 572741,
       "word": "国际金银高开",
@@ -8740,7 +8948,7 @@
     },
     {
       "raw_hot": 21521,
-      "num": 662337,
+      "num": 701677,
       "word": "2026开年图景",
       "onboard_time": 1767450026,
       "rank": 2,
@@ -8825,6 +9033,14 @@
       "onboard_time": 1767383417,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 17305,
+      "num": 163999,
+      "word": "马杜罗5日或在美国纽约联邦法院出庭",
+      "onboard_time": 1767492921,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 16560,
