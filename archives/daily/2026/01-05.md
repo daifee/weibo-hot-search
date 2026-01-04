@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/05 00:33:54 ~ 2026/01/05 03:38:16
+本榜单时间：2026/01/05 00:33:54 ~ 2026/01/05 04:31:54
 </p>
 </blockquote>
 <p>
@@ -395,6 +395,12 @@ KPL奇妙夜（热度：14275）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%BB%84%E6%95%B0%E6%8D%AE%E8%A7%81%E8%AF%81%E6%B4%BB%E5%8A%9B%E8%BF%B8%E5%8F%91%E7%9A%84%E5%85%83%E6%97%A6%E5%81%87%E6%9C%9F%23" target="weibo">
 这组数据见证活力迸发的元旦假期（热度：11086）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A3%B0%E9%B8%A3%E8%BF%9C%E6%89%AC%23" target="weibo">
+声鸣远扬（热度：10714）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1767544434885,
-  "endTime": 1767555496171,
+  "endTime": 1767558714174,
   "band_list": [
     {
       "raw_hot": 1158219,
@@ -513,6 +513,14 @@
       "onboard_time": 1767533844,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10714,
+      "num": 22257,
+      "word": "声鸣远扬",
+      "onboard_time": 1767530663,
+      "rank": 47,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
