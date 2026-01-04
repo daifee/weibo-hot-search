@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/04 00:34:09 ~ 2026/01/05 05:26:17
+本榜单时间：2026/01/04 00:34:09 ~ 2026/01/05 05:40:43
 </p>
 </blockquote>
 <p>
@@ -2847,6 +2847,12 @@ MRC夺冠（热度：40693）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E5%90%AB%E8%A4%AA%E9%BB%91%E7%B4%A0%E4%BD%86%E4%B8%8D%E8%83%BD%E5%82%AC%E7%9C%A0%23" target="weibo">
+车厘子含褪黑素但不能催眠（热度：25985）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E8%AE%A4%E5%87%BA%E5%AD%99%E5%8D%83%E5%A3%B0%E9%9F%B3%E5%8F%AA%E9%9C%80%E8%A6%81%E4%B8%80%E7%A7%92%23" target="weibo">
 黄景瑜认出孙千声音只需要一秒（热度：25265）
 </a>
@@ -2969,12 +2975,6 @@ kpl王者荣耀巅峰之夜（热度：14148）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E9%93%81%E8%B7%AF%E8%90%A5%E4%B8%9A%E9%87%8C%E7%A8%8B%E8%BE%BE16.5%E4%B8%87%E5%85%AC%E9%87%8C%23" target="weibo">
 全国铁路营业里程达16.5万公里（热度：12814）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E5%90%AB%E8%A4%AA%E9%BB%91%E7%B4%A0%E4%BD%86%E4%B8%8D%E8%83%BD%E5%82%AC%E7%9C%A0%23" target="weibo">
-车厘子含褪黑素但不能催眠（热度：11452）
 </a>
 </li>
 

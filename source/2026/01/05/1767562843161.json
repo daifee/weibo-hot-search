@@ -1,0 +1,410 @@
+{
+  "runTime": 1767562843161,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 63799,
+        "num": 183819,
+        "word": "现在的演员成功的让我戒掉了电视剧",
+        "onboard_time": 1767539484,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28534,
+        "num": 136533,
+        "word": "幼童吃15颗车厘子患急性肠胃炎",
+        "onboard_time": 1767531624,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8579,
+        "num": 135703,
+        "word": "这组数据见证活力迸发的元旦假期",
+        "onboard_time": 1767533844,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35212,
+        "num": 132175,
+        "word": "骄阳似我腾讯视频热度值破30000",
+        "onboard_time": 1767539425,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27147,
+        "num": 130450,
+        "word": "美网红暗示很快拿下格陵兰岛",
+        "onboard_time": 1767533363,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 55656,
+        "num": 129037,
+        "word": "男子假期嫖娼被拘隐瞒7年被辞退",
+        "onboard_time": 1767535584,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43464,
+        "num": 126867,
+        "word": "知名企业家汪海与儿子断绝关系",
+        "onboard_time": 1767533425,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28536,
+        "num": 123415,
+        "word": "老人不知儿子离婚误将20万元赠儿媳",
+        "onboard_time": 1767533063,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25784,
+        "num": 122823,
+        "word": "男子与相亲女子强行发生关系获刑",
+        "onboard_time": 1767536964,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25724,
+        "num": 119919,
+        "word": "美国拒绝外部介入委内瑞拉",
+        "onboard_time": 1767526702,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118742,
+        "num": 118742,
+        "word": "田朴珺 王石",
+        "onboard_time": 1767541222,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54891,
+        "num": 54891,
+        "word": "委内瑞拉之后这些国家面临危险",
+        "onboard_time": 1767535824,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25830,
+        "num": 25830,
+        "word": "曾志伟卸任TVB总经理",
+        "onboard_time": 1767543920,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24177,
+        "num": 24177,
+        "word": "哥伦比亚进入一级战备状态",
+        "onboard_time": 1767527842,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23661,
+        "num": 23661,
+        "word": "女子称在全季酒店浴巾里发现避孕套",
+        "onboard_time": 1767537325,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 22252,
+        "num": 22252,
+        "word": "梅尼耶要办婚礼了",
+        "onboard_time": 1767536545,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 21180,
+        "num": 22250,
+        "word": "王祖贤眼睛怎么了",
+        "onboard_time": 1767524483,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20041,
+        "num": 22246,
+        "word": "佘诗曼黄宗泽挽手走红毯",
+        "onboard_time": 1767536244,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18903,
+        "num": 22243,
+        "word": "家长网购40套衣服退货28套商家发声",
+        "onboard_time": 1767528023,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18039,
+        "num": 22239,
+        "word": "骄阳似我",
+        "onboard_time": 1767522682,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35456,
+        "num": 22237,
+        "word": "胃癌几乎都是这样喂出来的",
+        "onboard_time": 1767527961,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 34889,
+        "num": 22233,
+        "word": "为啥车厘子1个月到中国都不腐烂",
+        "onboard_time": 1767541943,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27850,
+        "num": 22230,
+        "word": "何超盈小8岁老公近照",
+        "onboard_time": 1767538764,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23483,
+        "num": 22226,
+        "word": "孙俪邓超女儿小花近照",
+        "onboard_time": 1767541342,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20225,
+        "num": 22222,
+        "word": "美高官妻子暗示很快拿下格陵兰岛",
+        "onboard_time": 1767531624,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17988,
+        "num": 22222,
+        "word": "德国杯决赛",
+        "onboard_time": 1767533964,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16858,
+        "num": 22215,
+        "word": "聂曦光穿的是宋威龙的衣服",
+        "onboard_time": 1767536062,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16161,
+        "num": 22214,
+        "word": "德国杯",
+        "onboard_time": 1767529824,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16064,
+        "num": 22209,
+        "word": "2026央视春晚彩排开始了",
+        "onboard_time": 1767533664,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15494,
+        "num": 22205,
+        "word": "王者第一颗荣耀水晶换啥好",
+        "onboard_time": 1767547877,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 25985,
+        "num": 22205,
+        "word": "车厘子含褪黑素但不能催眠",
+        "onboard_time": 1767561434,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 14991,
+        "num": 22201,
+        "word": "马杜罗上台阶时痛苦呻吟",
+        "onboard_time": 1767524902,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14504,
+        "num": 22197,
+        "word": "于正称玉茗茶骨不爆是长剧没有观众",
+        "onboard_time": 1767527723,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14103,
+        "num": 22192,
+        "word": "上海一室内游乐场夹娃娃机放小动物",
+        "onboard_time": 1767544520,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13810,
+        "num": 22190,
+        "word": "佘诗曼四封TVB视后",
+        "onboard_time": 1767540442,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13655,
+        "num": 22185,
+        "word": "那英2026演唱会官宣",
+        "onboard_time": 1767542120,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13642,
+        "num": 22184,
+        "word": "樊振东vs奥恰洛夫",
+        "onboard_time": 1767537864,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13251,
+        "num": 22181,
+        "word": "时代峰峻高会 泡泡",
+        "onboard_time": 1767529103,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12017,
+        "num": 22177,
+        "word": "这堪比灵器认主了",
+        "onboard_time": 1767538285,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12002,
+        "num": 22173,
+        "word": "侯明昊粉丝吃的也太好了吧",
+        "onboard_time": 1767547517,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11532,
+        "num": 22168,
+        "word": "微博网友年度期待电影",
+        "onboard_time": 1767550755,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 11090,
+        "num": 22168,
+        "word": "尚公主",
+        "onboard_time": 1767525022,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11034,
+        "num": 22162,
+        "word": "杨幂杨紫迪丽热巴 2025爆剧女主",
+        "onboard_time": 1767526825,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 11021,
+        "num": 22161,
+        "word": "王者六元皮肤天花板",
+        "onboard_time": 1767536722,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 10293,
+        "num": 22157,
+        "word": "声鸣远扬",
+        "onboard_time": 1767530663,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10263,
+        "num": 22153,
+        "word": "KPL奇妙夜",
+        "onboard_time": 1767527842,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10152,
+        "num": 22148,
+        "word": "龙麦 接二搭",
+        "onboard_time": 1767533183,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 9891,
+        "num": 22147,
+        "word": "张凌赫壁纸",
+        "onboard_time": 1767539063,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9740,
+        "num": 22144,
+        "word": "TVB颁奖典礼",
+        "onboard_time": 1767530542,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9580,
+        "num": 22140,
+        "word": "一笙 KSG",
+        "onboard_time": 1767539063,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平就瑞士瓦莱州火灾事件致慰问电#"
+    }
+  }
+}

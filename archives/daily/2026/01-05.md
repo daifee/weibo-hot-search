@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/05 00:33:54 ~ 2026/01/05 05:26:17
+本榜单时间：2026/01/05 00:33:54 ~ 2026/01/05 05:40:43
 </p>
 </blockquote>
 <p>
@@ -369,6 +369,12 @@ TVB颁奖典礼（热度：109962）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E5%90%AB%E8%A4%AA%E9%BB%91%E7%B4%A0%E4%BD%86%E4%B8%8D%E8%83%BD%E5%82%AC%E7%9C%A0%23" target="weibo">
+车厘子含褪黑素但不能催眠（热度：25985）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%8E%87%E9%98%9F%E6%99%8B%E7%BA%A7%E5%BE%B7%E5%9B%BD%E6%9D%AF%E5%86%B3%E8%B5%9B%23" target="weibo">
 樊振东率队晋级德国杯决赛（热度：23698）
 </a>
@@ -393,8 +399,8 @@ KPL奇妙夜（热度：14275）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E5%90%AB%E8%A4%AA%E9%BB%91%E7%B4%A0%E4%BD%86%E4%B8%8D%E8%83%BD%E5%82%AC%E7%9C%A0%23" target="weibo">
-车厘子含褪黑素但不能催眠（热度：11452）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%9A%E5%85%AC%E4%B8%BB%23" target="weibo">
+尚公主（热度：11090）
 </a>
 </li>
 
@@ -407,12 +413,6 @@ KPL奇妙夜（热度：14275）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A3%B0%E9%B8%A3%E8%BF%9C%E6%89%AC%23" target="weibo">
 声鸣远扬（热度：10714）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%9A%E5%85%AC%E4%B8%BB%23" target="weibo">
-尚公主（热度：10002）
 </a>
 </li>
 
