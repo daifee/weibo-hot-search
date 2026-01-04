@@ -1,0 +1,410 @@
+{
+  "runTime": 1767512572576,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 705495,
+        "num": 1112879,
+        "word": "外交部回应美强行控制委总统夫妇",
+        "onboard_time": 1767507983,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 416609,
+        "num": 818135,
+        "word": "被播放了70亿次的声音竟然是她",
+        "onboard_time": 1767508162,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25995,
+        "num": 665260,
+        "word": "2026开工大吉",
+        "onboard_time": 1767501324,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422076,
+        "num": 422076,
+        "word": "车厘子 褪黑素",
+        "onboard_time": 1767483558,
+        "rank": 3,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 404327,
+        "num": 404327,
+        "word": "韩国总统李在明抵达北京",
+        "onboard_time": 1767505463,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1174284,
+        "num": 399667,
+        "word": "结婚证就得考啊",
+        "onboard_time": 1767507802,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312311,
+        "num": 395634,
+        "word": "委内瑞拉石油储量世界第一",
+        "onboard_time": 1767503663,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 223438,
+        "num": 392880,
+        "word": "录完综艺总裁父亲主动向女儿道歉",
+        "onboard_time": 1767510983,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207191,
+        "num": 386628,
+        "word": "车厘子价格暴跌商家却赚麻了",
+        "onboard_time": 1767497902,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206109,
+        "num": 381956,
+        "word": "周深一个跨年唱了98首歌",
+        "onboard_time": 1767511102,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 554359,
+        "num": 378092,
+        "word": "纽约市长已致电特朗普",
+        "onboard_time": 1767507262,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 374539,
+        "num": 374539,
+        "word": "医生称车厘子果蝇的幼虫水洗不掉",
+        "onboard_time": 1767509842,
+        "rank": 11,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 358049,
+        "num": 358049,
+        "word": "爸爸微信有两千个置顶",
+        "onboard_time": 1767497601,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 320868,
+        "num": 320868,
+        "word": "偶遇余承恩带娃",
+        "onboard_time": 1767506723,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277223,
+        "num": 277223,
+        "word": "何炅写了26年的专栏停更了",
+        "onboard_time": 1767508882,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233836,
+        "num": 233836,
+        "word": "美国前副总统哈里斯发表声明",
+        "onboard_time": 1767504743,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 201621,
+        "num": 201621,
+        "word": "不要贴墙养蝴蝶兰",
+        "onboard_time": 1767509782,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178760,
+        "num": 201558,
+        "word": "足浴店涉嫌非法聘用外国人被查",
+        "onboard_time": 1767506543,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165012,
+        "num": 200644,
+        "word": "中方呼吁立即释放马杜罗夫妇",
+        "onboard_time": 1767507024,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 35527,
+        "num": 200180,
+        "word": "很多古巴人在美军行动中丧生",
+        "onboard_time": 1767511521,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 275658,
+        "num": 199691,
+        "word": "孩子妈曝童锦程想毁灭证据",
+        "onboard_time": 1767509243,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 190884,
+        "num": 199036,
+        "word": "宝马官宣降价",
+        "onboard_time": 1767502584,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 198736,
+        "num": 198736,
+        "word": "檀健次穿上红袜子了",
+        "onboard_time": 1767511942,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193128,
+        "num": 193128,
+        "word": "张凌赫交摄影作品了",
+        "onboard_time": 1767512483,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161736,
+        "num": 161736,
+        "word": "TF荣耀之战",
+        "onboard_time": 1767502883,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 254475,
+        "num": 160791,
+        "word": "童锦程孩子妈回应要220万",
+        "onboard_time": 1767510683,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 153732,
+        "num": 153732,
+        "word": "今天是委内瑞拉明天可能是任何国家",
+        "onboard_time": 1767510502,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141690,
+        "num": 141690,
+        "word": "李在明",
+        "onboard_time": 1767495322,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 75961,
+        "num": 138660,
+        "word": "马龙说有王楚钦在很心定",
+        "onboard_time": 1767504202,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73202,
+        "num": 137399,
+        "word": "房价219万销售承诺送72万元黄金",
+        "onboard_time": 1767492802,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149594,
+        "num": 137227,
+        "word": "哥伦比亚总统回怼特朗普威胁",
+        "onboard_time": 1767503901,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136420,
+        "num": 136420,
+        "word": "奔跑吧下一季要换人了",
+        "onboard_time": 1767493341,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140492,
+        "num": 133119,
+        "word": "多国谴责美袭委并抓获马杜罗",
+        "onboard_time": 1767511342,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127121,
+        "num": 127121,
+        "word": "微博之夜年度推荐",
+        "onboard_time": 1767512483,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106339,
+        "num": 126339,
+        "word": "在柬埔寨流浪女网红父亲发声",
+        "onboard_time": 1767512302,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21756,
+        "num": 125487,
+        "word": "美强掳马杜罗意欲何为",
+        "onboard_time": 1767511823,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25265,
+        "num": 124245,
+        "word": "黄景瑜认出孙千声音只需要一秒",
+        "onboard_time": 1767512421,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98370,
+        "num": 122980,
+        "word": "李施嬅的身体状态变差了很多",
+        "onboard_time": 1767512182,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19415,
+        "num": 121565,
+        "word": "特朗普抓获马杜罗的前因后果",
+        "onboard_time": 1767512421,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47246,
+        "num": 120244,
+        "word": "美军150架飞机抓捕行动全程曝光",
+        "onboard_time": 1767494300,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119723,
+        "num": 119723,
+        "word": "景甜白到发光的旅游照",
+        "onboard_time": 1767509362,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118272,
+        "num": 118272,
+        "word": "唐嫣你别演了我害怕",
+        "onboard_time": 1767503303,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112458,
+        "num": 112458,
+        "word": "结石姐原来不知自己上歌手要比赛",
+        "onboard_time": 1767508643,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110782,
+        "num": 110782,
+        "word": "白鹿上车喽",
+        "onboard_time": 1767509842,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401792,
+        "num": 109252,
+        "word": "iPhoneFold上手",
+        "onboard_time": 1767505283,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 66499,
+        "num": 107164,
+        "word": "孙俪女儿和狗狗穿兄妹装",
+        "onboard_time": 1767511222,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106992,
+        "num": 106992,
+        "word": "郑钧15岁儿子近照",
+        "onboard_time": 1767504383,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103075,
+        "num": 103075,
+        "word": "奔跑吧14",
+        "onboard_time": 1767509421,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101381,
+        "num": 101381,
+        "word": "李在明访华经济代表团有三星LG",
+        "onboard_time": 1767507321,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100586,
+        "num": 100586,
+        "word": "突发耳石症是什么感觉",
+        "onboard_time": 1767511761,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席2026年新年贺词启示录#"
+    }
+  }
+}
