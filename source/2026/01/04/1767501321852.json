@@ -1,0 +1,410 @@
+{
+  "runTime": 1767501321852,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 703249,
+        "num": 1112519,
+        "word": "车厘子 褪黑素",
+        "onboard_time": 1767483558,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 369470,
+        "num": 833828,
+        "word": "休三上六",
+        "onboard_time": 1767500304,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8907,
+        "num": 649846,
+        "word": "贺词里的中国",
+        "onboard_time": 1767501144,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 451221,
+        "num": 451221,
+        "word": "李昀锐 奔跑吧常驻",
+        "onboard_time": 1767497242,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324984,
+        "num": 324984,
+        "word": "车厘子价格暴跌商家却赚麻了",
+        "onboard_time": 1767497902,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1173123,
+        "num": 321955,
+        "word": "爸爸微信有两千个置顶",
+        "onboard_time": 1767497601,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 517226,
+        "num": 319237,
+        "word": "特朗普称美在西半球地位再不会被质疑",
+        "onboard_time": 1767496283,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 368104,
+        "num": 318689,
+        "word": "娜扎 有福气的人都不上镜",
+        "onboard_time": 1767499104,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316231,
+        "num": 316231,
+        "word": "房价219万销售承诺送72万元黄金",
+        "onboard_time": 1767492802,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296365,
+        "num": 296365,
+        "word": "汉堡王就崩溃道歉",
+        "onboard_time": 1767497841,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 971030,
+        "num": 285877,
+        "word": "马杜罗身边内鬼详情曝光",
+        "onboard_time": 1767495020,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 614178,
+        "num": 279556,
+        "word": "奔跑吧下一季要换人了",
+        "onboard_time": 1767493341,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 578279,
+        "num": 262825,
+        "word": "马杜罗被押后首次公开发声",
+        "onboard_time": 1767496162,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 499716,
+        "num": 260164,
+        "word": "汉堡王崩了",
+        "onboard_time": 1767493042,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 329775,
+        "num": 243221,
+        "word": "委内瑞拉",
+        "onboard_time": 1767426205,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 239390,
+        "num": 239390,
+        "word": "何炅 我慢慢等到蔡依林的那一天",
+        "onboard_time": 1767495682,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19843,
+        "num": 232118,
+        "word": "2026开年图景",
+        "onboard_time": 1767450026,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228554,
+        "num": 228554,
+        "word": "残疾阿姨反复撞车导致车主损失过万",
+        "onboard_time": 1767499522,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300513,
+        "num": 228389,
+        "word": "今日委内瑞拉明日任何一国",
+        "onboard_time": 1767499703,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 51724,
+        "num": 226794,
+        "word": "多名民主党议员提议罢免特朗普",
+        "onboard_time": 1767501024,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 486021,
+        "num": 225637,
+        "word": "王一博 花天酒地不如上天入地",
+        "onboard_time": 1767497183,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285549,
+        "num": 225307,
+        "word": "泽连斯基谈马杜罗被捕笑意难掩",
+        "onboard_time": 1767500063,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233903,
+        "num": 224597,
+        "word": "向华强说羡慕郭碧婷爸爸",
+        "onboard_time": 1767498384,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268323,
+        "num": 222974,
+        "word": "特朗普警告哥伦比亚总统小心点",
+        "onboard_time": 1767483920,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 222702,
+        "num": 222702,
+        "word": "易烊千玺起诉眼镜公司侵权",
+        "onboard_time": 1767497722,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223066,
+        "num": 222100,
+        "word": "委内瑞拉副总统代行总统职权",
+        "onboard_time": 1767494541,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 210704,
+        "num": 210704,
+        "word": "管晨辰演短剧了",
+        "onboard_time": 1767500243,
+        "rank": 26,
+        "category": "体育,剧集"
+      },
+      {
+        "raw_hot": 208739,
+        "num": 208739,
+        "word": "雷军回应1300km只充一次电",
+        "onboard_time": 1767494121,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 205706,
+        "num": 205706,
+        "word": "美军150架飞机抓捕行动全程曝光",
+        "onboard_time": 1767494300,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159367,
+        "num": 201294,
+        "word": "未成年女孩遭网友性侵司机果断报警",
+        "onboard_time": 1767487582,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92708,
+        "num": 200974,
+        "word": "2026小鹏全球新品发布会定档1月8日",
+        "onboard_time": 1767499284,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 200680,
+        "num": 200680,
+        "word": "全款11万5买了43平的老破小",
+        "onboard_time": 1767494541,
+        "rank": 31,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 190723,
+        "num": 190723,
+        "word": "载有马杜罗飞机抵达纽约",
+        "onboard_time": 1767482239,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186429,
+        "num": 186429,
+        "word": "张凌赫开年第一爆",
+        "onboard_time": 1767500063,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174056,
+        "num": 174056,
+        "word": "马杜罗戴脚镣走下飞机",
+        "onboard_time": 1767489323,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168280,
+        "num": 168280,
+        "word": "王一博被乌鸦追老鹰震惊",
+        "onboard_time": 1767499943,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103302,
+        "num": 166936,
+        "word": "杨瀚森2分2篮板2盖帽",
+        "onboard_time": 1767499403,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64881,
+        "num": 166817,
+        "word": "委内瑞拉局势会影响金价吗",
+        "onboard_time": 1767501024,
+        "rank": 37,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 66203,
+        "num": 166775,
+        "word": "白鹿 朋友太多也有烦恼",
+        "onboard_time": 1767500664,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166772,
+        "num": 166772,
+        "word": "李在明",
+        "onboard_time": 1767495322,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155622,
+        "num": 155622,
+        "word": "车厘子跌破1元一颗",
+        "onboard_time": 1767494361,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 155455,
+        "num": 155455,
+        "word": "娜扎把玉茗茶骨叫玉米排骨",
+        "onboard_time": 1767500966,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146052,
+        "num": 146052,
+        "word": "美国正从世界警察变成世界恶霸",
+        "onboard_time": 1767501204,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61270,
+        "num": 145745,
+        "word": "汪峰带女儿醒醒逛市集",
+        "onboard_time": 1767499824,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41881,
+        "num": 145734,
+        "word": "特朗普将深度参与委内瑞拉总统人选",
+        "onboard_time": 1767499042,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145734,
+        "num": 145733,
+        "word": "潘玮柏 你的锤来了",
+        "onboard_time": 1767499824,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100404,
+        "num": 143812,
+        "word": "不要在车里放小玩偶了",
+        "onboard_time": 1767489323,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143796,
+        "num": 143796,
+        "word": "爱你老己霍建华从1集演到12集",
+        "onboard_time": 1767496043,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138988,
+        "num": 138988,
+        "word": "美对委军事打击造成至少40人死亡",
+        "onboard_time": 1767484701,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83503,
+        "num": 138911,
+        "word": "茅台批发价再度跌破1499元",
+        "onboard_time": 1767497484,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#枝叶总关情的含义#"
+    }
+  }
+}
