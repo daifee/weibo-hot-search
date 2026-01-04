@@ -1,0 +1,410 @@
+{
+  "runTime": 1767511752519,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 707096,
+        "num": 1113135,
+        "word": "外交部回应美强行控制委总统夫妇",
+        "onboard_time": 1767507983,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 513012,
+        "num": 792311,
+        "word": "韩国总统李在明抵达北京",
+        "onboard_time": 1767505463,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27951,
+        "num": 656218,
+        "word": "2026开工大吉",
+        "onboard_time": 1767501324,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403924,
+        "num": 403924,
+        "word": "车厘子 褪黑素",
+        "onboard_time": 1767483558,
+        "rank": 3,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 403746,
+        "num": 403746,
+        "word": "被播放了70亿次的声音竟然是她",
+        "onboard_time": 1767508162,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1075532,
+        "num": 369293,
+        "word": "结婚证就得考啊",
+        "onboard_time": 1767507802,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 327292,
+        "num": 327292,
+        "word": "委内瑞拉石油储量世界第一",
+        "onboard_time": 1767503663,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 245199,
+        "num": 245199,
+        "word": "车厘子价格暴跌商家却赚麻了",
+        "onboard_time": 1767497902,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216092,
+        "num": 216092,
+        "word": "宝马官宣降价",
+        "onboard_time": 1767502584,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 206472,
+        "num": 206472,
+        "word": "足浴店涉嫌非法聘用外国人被查",
+        "onboard_time": 1767506543,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475018,
+        "num": 206464,
+        "word": "医生称车厘子果蝇的幼虫水洗不掉",
+        "onboard_time": 1767509842,
+        "rank": 10,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 396868,
+        "num": 205897,
+        "word": "iPhoneFold上手",
+        "onboard_time": 1767505283,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 373690,
+        "num": 205569,
+        "word": "爸爸微信有两千个置顶",
+        "onboard_time": 1767497601,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286418,
+        "num": 205340,
+        "word": "美国前副总统哈里斯发表声明",
+        "onboard_time": 1767504743,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 272537,
+        "num": 204777,
+        "word": "纽约市长已致电特朗普",
+        "onboard_time": 1767507262,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 272196,
+        "num": 204476,
+        "word": "偶遇余承恩带娃",
+        "onboard_time": 1767506723,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204382,
+        "num": 204382,
+        "word": "不要贴墙养蝴蝶兰",
+        "onboard_time": 1767509782,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202814,
+        "num": 202814,
+        "word": "何炅写了26年的专栏停更了",
+        "onboard_time": 1767508882,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200174,
+        "num": 200174,
+        "word": "TF荣耀之战",
+        "onboard_time": 1767502883,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116436,
+        "num": 189926,
+        "word": "中方呼吁立即释放马杜罗夫妇",
+        "onboard_time": 1767507024,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 269652,
+        "num": 188269,
+        "word": "孩子妈曝童锦程想毁灭证据",
+        "onboard_time": 1767509243,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 185793,
+        "num": 185793,
+        "word": "哥伦比亚总统回怼特朗普威胁",
+        "onboard_time": 1767503901,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174991,
+        "num": 174991,
+        "word": "周深一个跨年唱了98首歌",
+        "onboard_time": 1767511102,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183921,
+        "num": 174188,
+        "word": "今天是委内瑞拉明天可能是任何国家",
+        "onboard_time": 1767510502,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172870,
+        "num": 172870,
+        "word": "录完综艺总裁父亲主动向女儿道歉",
+        "onboard_time": 1767510983,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174242,
+        "num": 172169,
+        "word": "童锦程孩子妈回应要220万",
+        "onboard_time": 1767510683,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 13691,
+        "num": 168386,
+        "word": "很多古巴人在美军行动中丧生",
+        "onboard_time": 1767511521,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168190,
+        "num": 168190,
+        "word": "AI时代老艺术家依然坚持手搓",
+        "onboard_time": 1767510862,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85019,
+        "num": 166289,
+        "word": "马龙说有王楚钦在很心定",
+        "onboard_time": 1767504202,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74571,
+        "num": 165053,
+        "word": "房价219万销售承诺送72万元黄金",
+        "onboard_time": 1767492802,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164715,
+        "num": 164715,
+        "word": "李在明",
+        "onboard_time": 1767495322,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156168,
+        "num": 156168,
+        "word": "白鹿上车喽",
+        "onboard_time": 1767509842,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154512,
+        "num": 154512,
+        "word": "奔跑吧下一季要换人了",
+        "onboard_time": 1767493341,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146285,
+        "num": 146285,
+        "word": "景甜白到发光的旅游照",
+        "onboard_time": 1767509362,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135297,
+        "num": 135297,
+        "word": "奔跑吧14",
+        "onboard_time": 1767509421,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126362,
+        "num": 126362,
+        "word": "谭松韵白发神女",
+        "onboard_time": 1767511043,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70782,
+        "num": 123856,
+        "word": "李在明访华经济代表团有三星LG",
+        "onboard_time": 1767507321,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 46340,
+        "num": 123081,
+        "word": "孙俪女儿和狗狗穿兄妹装",
+        "onboard_time": 1767511222,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122560,
+        "num": 122560,
+        "word": "唐嫣你别演了我害怕",
+        "onboard_time": 1767503303,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57606,
+        "num": 119196,
+        "word": "带薪反复抱了林屿森好几次",
+        "onboard_time": 1767510142,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117848,
+        "num": 117848,
+        "word": "多国谴责美袭委并抓获马杜罗",
+        "onboard_time": 1767511342,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115019,
+        "num": 115019,
+        "word": "郑钧15岁儿子近照",
+        "onboard_time": 1767504383,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117359,
+        "num": 112636,
+        "word": "结石姐原来不知自己上歌手要比赛",
+        "onboard_time": 1767508643,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108142,
+        "num": 108142,
+        "word": "6种常见胃病离胃癌很近",
+        "onboard_time": 1767508402,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100068,
+        "num": 100068,
+        "word": "泽连斯基谈马杜罗被捕笑意难掩",
+        "onboard_time": 1767500063,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92267,
+        "num": 92267,
+        "word": "云初令",
+        "onboard_time": 1767503901,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90858,
+        "num": 90858,
+        "word": "金价波动",
+        "onboard_time": 1767504503,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 79110,
+        "num": 87322,
+        "word": "一夜之间委内瑞拉变天了",
+        "onboard_time": 1767510022,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61904,
+        "num": 85887,
+        "word": "2026年考试日历",
+        "onboard_time": 1767508102,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 47426,
+        "num": 85110,
+        "word": "2025CMG体坛荣耀之夜阵容",
+        "onboard_time": 1767510442,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席2026年新年贺词启示录#"
+    }
+  }
+}

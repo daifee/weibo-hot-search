@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767509730629,
+  "endTime": 1767511752519,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -153,6 +153,14 @@
       "onboard_time": 1767267680,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1075532,
+      "num": 369293,
+      "word": "结婚证就得考啊",
+      "onboard_time": 1767507802,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 1072301,
@@ -731,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 475018,
+      "num": 206464,
+      "word": "医生称车厘子果蝇的幼虫水洗不掉",
+      "onboard_time": 1767509842,
+      "rank": 10,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 472404,
       "num": 270281,
       "word": "特朗普警告哥伦比亚总统小心点",
@@ -907,14 +923,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 414267,
-      "num": 285326,
-      "word": "结婚证就得考啊",
-      "onboard_time": 1767507802,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 413045,
       "num": 413045,
       "word": "尚公主",
@@ -969,6 +977,14 @@
       "onboard_time": 1767364702,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 403746,
+      "num": 403746,
+      "word": "被播放了70亿次的声音竟然是她",
+      "onboard_time": 1767508162,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 399356,
@@ -1651,6 +1667,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 272537,
+      "num": 204777,
+      "word": "纽约市长已致电特朗普",
+      "onboard_time": 1767507262,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 272196,
+      "num": 209233,
+      "word": "偶遇余承恩带娃",
+      "onboard_time": 1767506723,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270391,
       "num": 1093799,
       "word": "伊朗",
@@ -1665,6 +1697,14 @@
       "onboard_time": 1767206057,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 269652,
+      "num": 188269,
+      "word": "孩子妈曝童锦程想毁灭证据",
+      "onboard_time": 1767509243,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 269303,
@@ -1947,14 +1987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 238592,
-      "num": 238592,
-      "word": "被播放了70亿次的声音竟然是她",
-      "onboard_time": 1767508162,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 237504,
       "num": 1041474,
       "word": "第一次见歌手用歌回击这么爽",
@@ -2065,14 +2097,6 @@
       "onboard_time": 1767356241,
       "rank": 21,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 229110,
-      "num": 190643,
-      "word": "纽约市长已致电特朗普",
-      "onboard_time": 1767507262,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 228554,
@@ -2251,14 +2275,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 209233,
-      "num": 209233,
-      "word": "偶遇余承恩带娃",
-      "onboard_time": 1767506723,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208969,
       "num": 1730508,
       "word": "车厘子J是啥意思",
@@ -2331,6 +2347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206472,
+      "num": 209242,
+      "word": "足浴店涉嫌非法聘用外国人被查",
+      "onboard_time": 1767506543,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205987,
       "num": 1005065,
       "word": "高市早苗被爆造假",
@@ -2363,44 +2387,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204382,
+      "num": 204382,
+      "word": "不要贴墙养蝴蝶兰",
+      "onboard_time": 1767509782,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204105,
       "num": 1003773,
       "word": "外网流行中国化",
       "onboard_time": 1767255260,
       "rank": 10,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 203135,
-      "num": 203135,
-      "word": "云初令",
-      "onboard_time": 1767503901,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 202105,
-      "num": 424027,
-      "word": "委内瑞拉前内政部长身亡",
-      "onboard_time": 1767436646,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 200636,
-      "num": 1030868,
-      "word": "王鹤棣 都别找我借钱",
-      "onboard_time": 1767420629,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 200600,
-      "num": 251348,
-      "word": "Faker获青龙勋章",
-      "onboard_time": 1767337280,
-      "rank": 14,
-      "category": "电竞"
     }
   ],
   "hotgov_list": [
