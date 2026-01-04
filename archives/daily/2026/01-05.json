@@ -1,6 +1,6 @@
 {
   "startTime": 1767544434885,
-  "endTime": 1767545299024,
+  "endTime": 1767547507570,
   "band_list": [
     {
       "raw_hot": 1158219,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169430,
+      "num": 189380,
+      "word": "曾志伟卸任TVB总经理",
+      "onboard_time": 1767543920,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165892,
       "num": 190147,
       "word": "聂曦光穿的是宋威龙的衣服",
@@ -227,14 +235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90943,
-      "num": 189380,
-      "word": "曾志伟卸任TVB总经理",
-      "onboard_time": 1767543920,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 85513,
       "num": 190189,
       "word": "流落柬埔寨街头中国女子已被找到",
@@ -315,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59984,
+      "num": 145794,
+      "word": "德国杯",
+      "onboard_time": 1767529824,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59614,
       "num": 189331,
       "word": "白鹿54套高定",
@@ -337,6 +345,14 @@
       "onboard_time": 1767538285,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 55650,
+      "num": 84054,
+      "word": "德国杯决赛",
+      "onboard_time": 1767533964,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 55115,
@@ -411,12 +427,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38490,
-      "num": 145794,
-      "word": "德国杯",
-      "onboard_time": 1767529824,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 32575,
+      "num": 83821,
+      "word": "美网红暗示很快拿下格陵兰岛",
+      "onboard_time": 1767533363,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 31353,
@@ -424,6 +440,22 @@
       "word": "元旦假期661.5万人次出入境",
       "onboard_time": 1767534264,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31028,
+      "num": 83741,
+      "word": "上海一室内游乐场夹娃娃机放小动物",
+      "onboard_time": 1767544520,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28706,
+      "num": 83695,
+      "word": "家长网购40套衣服退货28套商家发声",
+      "onboard_time": 1767528023,
+      "rank": 47,
       "category": "民生新闻"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767545299024,
+  "endTime": 1767547507570,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -1603,6 +1603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 169430,
+      "num": 189380,
+      "word": "曾志伟卸任TVB总经理",
+      "onboard_time": 1767543920,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168881,
       "num": 168881,
       "word": "韦雪泳装",
@@ -2883,14 +2891,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 90943,
-      "num": 189380,
-      "word": "曾志伟卸任TVB总经理",
-      "onboard_time": 1767543920,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 90838,
       "num": 252186,
       "word": "男子征婚约见女子强行发生关系",
@@ -3689,6 +3689,14 @@
       "onboard_time": 1767461658,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 31028,
+      "num": 83741,
+      "word": "上海一室内游乐场夹娃娃机放小动物",
+      "onboard_time": 1767544520,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30331,
