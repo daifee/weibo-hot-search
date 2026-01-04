@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767519698326,
+  "endTime": 1767522522933,
   "band_list": [
     {
       "raw_hot": 1631134,
@@ -275,6 +275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 500587,
+      "num": 500587,
+      "word": "王安宇电影分账票房第一",
+      "onboard_time": 1767520101,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 486021,
       "num": 270554,
       "word": "王一博 花天酒地不如上天入地",
@@ -417,6 +425,14 @@
       "onboard_time": 1767451766,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 405446,
+      "num": 785539,
+      "word": "93年已经当爷爷了吗",
+      "onboard_time": 1767520462,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 404975,
@@ -627,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 289362,
+      "num": 254124,
+      "word": "王俊凯 族长赐赞",
+      "onboard_time": 1767521123,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284795,
       "num": 284795,
       "word": "雷军回应1300km只充一次电",
@@ -721,6 +745,14 @@
       "onboard_time": 1767494541,
       "rank": 32,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 249400,
+      "num": 154612,
+      "word": "董璇张维伊牵着小酒窝",
+      "onboard_time": 1767520041,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 248302,
@@ -843,6 +875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 225445,
+      "num": 225445,
+      "word": "易梦玲陪阿哲5100领证",
+      "onboard_time": 1767517522,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225033,
       "num": 819667,
       "word": "女子住店拉开窗帘竟是泳池水底",
@@ -899,14 +939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201757,
-      "num": 201757,
-      "word": "易梦玲陪阿哲5100领证",
-      "onboard_time": 1767517522,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 200523,
       "num": 831064,
       "word": "白鹿圈内人脉",
@@ -939,12 +971,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198490,
+      "num": 445851,
+      "word": "住房公积金会变得越来越香吗",
+      "onboard_time": 1767521062,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198081,
       "num": 198081,
       "word": "金价波动",
       "onboard_time": 1767504503,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 197320,
+      "num": 261077,
+      "word": "德国杯半决赛樊振东出任一单",
+      "onboard_time": 1767521602,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 195399,
@@ -968,6 +1016,22 @@
       "word": "张凌赫交摄影作品了",
       "onboard_time": 1767512483,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 192489,
+      "num": 192489,
+      "word": "金莎曾因靠商演维持收入感到自卑",
+      "onboard_time": 1767520822,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 191225,
+      "num": 182612,
+      "word": "向涵之十八宫格营业",
+      "onboard_time": 1767519682,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -1009,14 +1073,6 @@
       "onboard_time": 1767514583,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 182612,
-      "num": 182612,
-      "word": "向涵之十八宫格营业",
-      "onboard_time": 1767519682,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 180190,
@@ -1315,6 +1371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144801,
+      "num": 144801,
+      "word": "杨紫15岁的小狗生病做手术了",
+      "onboard_time": 1767521243,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142265,
       "num": 717318,
       "word": "陈都灵邓为或二搭黛色",
@@ -1347,7 +1411,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 138883,
+      "raw_hot": 139691,
       "num": 141536,
       "word": "医生解读酒店床上为何放4个枕头",
       "onboard_time": 1767517284,
@@ -1395,8 +1459,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 134086,
-      "num": 120943,
+      "raw_hot": 134382,
+      "num": 134382,
       "word": "巴西认定委副总统为委内瑞拉领导人",
       "onboard_time": 1767519081,
       "rank": 30,
@@ -1531,6 +1595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116384,
+      "num": 116384,
+      "word": "爱奇艺电视剧 南部档案",
+      "onboard_time": 1767519922,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115568,
       "num": 115568,
       "word": "比老己听起来雅一点的自称",
@@ -1545,6 +1617,14 @@
       "onboard_time": 1767499403,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114214,
+      "num": 114214,
+      "word": "手冢治虫预言美国",
+      "onboard_time": 1767520762,
+      "rank": 31,
+      "category": "国际时政,动漫"
     },
     {
       "raw_hot": 111905,
@@ -1569,6 +1649,14 @@
       "onboard_time": 1767481939,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 109664,
+      "num": 109664,
+      "word": "一句看不懂让我连看十二集",
+      "onboard_time": 1767522443,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 109661,
@@ -1643,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103770,
+      "num": 103770,
+      "word": "美多名顶尖律师正争取为马杜罗辩护",
+      "onboard_time": 1767522142,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 101381,
       "num": 123856,
       "word": "李在明访华经济代表团有三星LG",
@@ -1691,6 +1787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 98514,
+      "num": 96110,
+      "word": "美军跨国绑架马杜罗只花了5分钟",
+      "onboard_time": 1767519922,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 98416,
       "num": 98416,
       "word": "张凌赫这一秒过火过审",
@@ -1713,6 +1817,14 @@
       "onboard_time": 1767519262,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98068,
+      "num": 98068,
+      "word": "檀健次陶喆 当代喆学家和华语乐檀",
+      "onboard_time": 1767522263,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 97125,
@@ -1779,6 +1891,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 93755,
+      "num": 93755,
+      "word": "男子穿破羽绒服致呼吸衰竭",
+      "onboard_time": 1767520643,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93372,
       "num": 93372,
       "word": "中方呼吁美方确保马杜罗夫妇人身安全",
@@ -1795,6 +1915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93125,
+      "num": 93125,
+      "word": "彭昱畅真的做哥做弟都精彩",
+      "onboard_time": 1767521722,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 92898,
       "num": 120191,
       "word": "王一博还搁这童话故事呢",
@@ -1809,6 +1937,14 @@
       "onboard_time": 1767499284,
       "rank": 31,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 91974,
+      "num": 91974,
+      "word": "papi 幸福不是一切人还有责任",
+      "onboard_time": 1767521243,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 90296,
@@ -1843,6 +1979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 89074,
+      "num": 89074,
+      "word": "檀健次何不同舟渡谢却山定妆",
+      "onboard_time": 1767521062,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88711,
       "num": 810869,
       "word": "宋威龙哭戏权威",
@@ -1873,6 +2017,14 @@
       "onboard_time": 1767509662,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85183,
+      "num": 85183,
+      "word": "库里单臂扣篮",
+      "onboard_time": 1767522443,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 83861,
@@ -1913,6 +2065,14 @@
       "onboard_time": 1767482718,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 82248,
+      "num": 82248,
+      "word": "收到扣费600多元短信发现买过保险",
+      "onboard_time": 1767522501,
+      "rank": 49,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 81571,
@@ -2339,6 +2499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38660,
+      "num": 93297,
+      "word": "于正健身瘦了好多",
+      "onboard_time": 1767521542,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38507,
       "num": 57561,
       "word": "小米汽车26年目标55万",
@@ -2369,6 +2537,14 @@
       "onboard_time": 1767450386,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 36438,
+      "num": 156903,
+      "word": "流浪女网红9天前曾向家里要钱看病",
+      "onboard_time": 1767521662,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36188,
@@ -2425,6 +2601,14 @@
       "onboard_time": 1767447986,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 31326,
+      "num": 640663,
+      "word": "憧憬十五五",
+      "onboard_time": 1767519385,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31154,
@@ -2555,6 +2739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 19019,
+      "num": 89416,
+      "word": "流浪柬埔寨女网红父亲已报警",
+      "onboard_time": 1767522142,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18943,
       "num": 106812,
       "word": "深圳已经这么先进了吗",
@@ -2601,14 +2793,6 @@
       "onboard_time": 1767434187,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 9031,
-      "num": 640663,
-      "word": "憧憬十五五",
-      "onboard_time": 1767519385,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

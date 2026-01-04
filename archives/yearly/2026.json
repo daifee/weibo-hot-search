@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767519698326,
+  "endTime": 1767522522933,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -739,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 500587,
+      "num": 500587,
+      "word": "王安宇电影分账票房第一",
+      "onboard_time": 1767520101,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 495862,
       "num": 2988452,
       "word": "男女主官宣完男二才追",
@@ -1065,6 +1073,14 @@
       "onboard_time": 1767266602,
       "rank": 37,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 405446,
+      "num": 785539,
+      "word": "93年已经当爷爷了吗",
+      "onboard_time": 1767520462,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 405001,
@@ -1707,6 +1723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 289362,
+      "num": 254124,
+      "word": "王俊凯 族长赐赞",
+      "onboard_time": 1767521123,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 288384,
       "num": 1756179,
       "word": "五角大楼附近披萨订单量又升高了",
@@ -2051,6 +2075,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 249400,
+      "num": 154612,
+      "word": "董璇张维伊牵着小酒窝",
+      "onboard_time": 1767520041,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248862,
       "num": 4635254,
       "word": "零下30多度男子开窗冷空气瞬间现形",
@@ -2283,6 +2315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 225445,
+      "num": 225445,
+      "word": "易梦玲陪阿哲5100领证",
+      "onboard_time": 1767517522,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224828,
       "num": 1003848,
       "word": "第五人格",
@@ -2361,46 +2401,6 @@
       "onboard_time": 1767357261,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 214873,
-      "num": 1027483,
-      "word": "骄阳似我年度计划复盘会",
-      "onboard_time": 1767345501,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 214754,
-      "num": 1037388,
-      "word": "多地网友晒贷款逾期记录清零",
-      "onboard_time": 1767332781,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 214677,
-      "num": 1029798,
-      "word": "心疼今屿",
-      "onboard_time": 1767352822,
-      "rank": 25,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 213249,
-      "num": 519243,
-      "word": "看完这一集不敢喝排骨汤了",
-      "onboard_time": 1767323481,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 212488,
-      "num": 454211,
-      "word": "武林外传导演回应小郭自由了",
-      "onboard_time": 1767326840,
-      "rank": 43,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
