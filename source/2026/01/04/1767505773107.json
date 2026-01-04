@@ -1,0 +1,410 @@
+{
+  "runTime": 1767505773107,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 570149,
+        "num": 1091223,
+        "word": "车厘子 褪黑素",
+        "onboard_time": 1767483558,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 372589,
+        "num": 803499,
+        "word": "TF荣耀之战",
+        "onboard_time": 1767502883,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19659,
+        "num": 616031,
+        "word": "贺词里的中国",
+        "onboard_time": 1767501144,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 417150,
+        "num": 417150,
+        "word": "赵丽颖一句话扎到黄晓明",
+        "onboard_time": 1767504263,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358013,
+        "num": 358013,
+        "word": "宝马官宣降价",
+        "onboard_time": 1767502584,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 675820,
+        "num": 355291,
+        "word": "爸爸微信有两千个置顶",
+        "onboard_time": 1767497601,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 451992,
+        "num": 352923,
+        "word": "委内瑞拉石油储量世界第一",
+        "onboard_time": 1767503663,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 350016,
+        "num": 350016,
+        "word": "车厘子价格暴跌商家却赚麻了",
+        "onboard_time": 1767497902,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266023,
+        "num": 266023,
+        "word": "哥伦比亚总统回怼特朗普威胁",
+        "onboard_time": 1767503901,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 510753,
+        "num": 263390,
+        "word": "黄景瑜跨年上台前突发耳石症",
+        "onboard_time": 1767501744,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1003635,
+        "num": 260820,
+        "word": "陈冠希怎么老成这样了",
+        "onboard_time": 1767502106,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439515,
+        "num": 257536,
+        "word": "娜扎把玉茗茶骨叫玉米排骨",
+        "onboard_time": 1767500966,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354403,
+        "num": 252320,
+        "word": "管晨辰演短剧了",
+        "onboard_time": 1767500243,
+        "rank": 12,
+        "category": "体育,剧集"
+      },
+      {
+        "raw_hot": 250629,
+        "num": 250629,
+        "word": "特朗普称美在西半球地位再不会被质疑",
+        "onboard_time": 1767496283,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 235123,
+        "num": 235123,
+        "word": "李在明",
+        "onboard_time": 1767495322,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 247130,
+        "num": 235034,
+        "word": "泽连斯基谈马杜罗被捕笑意难掩",
+        "onboard_time": 1767500063,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156189,
+        "num": 234043,
+        "word": "残疾阿姨反复撞车导致车主损失过万",
+        "onboard_time": 1767499522,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140264,
+        "num": 233193,
+        "word": "房价219万销售承诺送72万元黄金",
+        "onboard_time": 1767492802,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89053,
+        "num": 232485,
+        "word": "马龙说有王楚钦在很心定",
+        "onboard_time": 1767504202,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203254,
+        "num": 231730,
+        "word": "汉堡王崩了",
+        "onboard_time": 1767493042,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 79432,
+        "num": 231248,
+        "word": "韩国总统李在明抵达北京",
+        "onboard_time": 1767505463,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 230571,
+        "num": 230571,
+        "word": "李在明启程赴华",
+        "onboard_time": 1767503663,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 451090,
+        "num": 226919,
+        "word": "奔跑吧下一季要换人了",
+        "onboard_time": 1767493341,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394705,
+        "num": 224535,
+        "word": "loveissoap说童锦程配不上她",
+        "onboard_time": 1767502944,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 234795,
+        "num": 219891,
+        "word": "郑钧15岁儿子近照",
+        "onboard_time": 1767504383,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213406,
+        "num": 213406,
+        "word": "白鹿新综录制",
+        "onboard_time": 1767502584,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209808,
+        "num": 209808,
+        "word": "迪丽热巴红秀开年封面",
+        "onboard_time": 1767504982,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198081,
+        "num": 198081,
+        "word": "金价波动",
+        "onboard_time": 1767504503,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 76665,
+        "num": 196291,
+        "word": "未成年女孩遭网友性侵司机果断报警",
+        "onboard_time": 1767487582,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71972,
+        "num": 195563,
+        "word": "2026计薪天数",
+        "onboard_time": 1767501744,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214174,
+        "num": 195492,
+        "word": "美国前副总统哈里斯发表声明",
+        "onboard_time": 1767504743,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 195399,
+        "num": 195399,
+        "word": "唐嫣你别演了我害怕",
+        "onboard_time": 1767503303,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185878,
+        "num": 185878,
+        "word": "iPhoneFold上手",
+        "onboard_time": 1767505283,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150901,
+        "num": 150901,
+        "word": "委内瑞拉",
+        "onboard_time": 1767426205,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145117,
+        "num": 145117,
+        "word": "云初令",
+        "onboard_time": 1767503901,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150125,
+        "num": 142978,
+        "word": "特朗普警告哥伦比亚总统小心点",
+        "onboard_time": 1767483920,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140079,
+        "num": 140079,
+        "word": "微信状态的好用我后知后觉",
+        "onboard_time": 1767501803,
+        "rank": 36,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 147268,
+        "num": 138262,
+        "word": "委内瑞拉誓不当殖民地",
+        "onboard_time": 1767501684,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27920,
+        "num": 135877,
+        "word": "丽江旅拍协会成员维权索赔百万",
+        "onboard_time": 1767505582,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133913,
+        "num": 133913,
+        "word": "豆瓣好卡",
+        "onboard_time": 1767504023,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131603,
+        "num": 131603,
+        "word": "空枪",
+        "onboard_time": 1767503123,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33504,
+        "num": 130505,
+        "word": "假洗涤用品生产窝点被端涉案近千万",
+        "onboard_time": 1767504383,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129912,
+        "num": 129912,
+        "word": "张凌赫开年第一爆",
+        "onboard_time": 1767500063,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125583,
+        "num": 125583,
+        "word": "黑泽杀回短剧赛道",
+        "onboard_time": 1767505162,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122788,
+        "num": 123578,
+        "word": "以为是心善的人结果是索命的鬼",
+        "onboard_time": 1767503543,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122971,
+        "num": 122971,
+        "word": "经常生闷气会掏空人的气血",
+        "onboard_time": 1767501384,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 122887,
+        "num": 122887,
+        "word": "美国正从世界警察变成世界恶霸",
+        "onboard_time": 1767501204,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110551,
+        "num": 110551,
+        "word": "车厘子 拉肚子",
+        "onboard_time": 1767502403,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 109661,
+        "num": 109661,
+        "word": "黄子韬王鹤棣自曝想拍短剧",
+        "onboard_time": 1767505283,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69275,
+        "num": 105097,
+        "word": "独行侠战胜火箭",
+        "onboard_time": 1767505582,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席2026年新年贺词启示录#"
+    }
+  }
+}

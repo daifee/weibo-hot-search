@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767504829974,
+  "endTime": 1767505773107,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1200620,
-      "num": 337826,
+      "num": 355291,
       "word": "爸爸微信有两千个置顶",
       "onboard_time": 1767497601,
       "rank": 5,
@@ -179,7 +179,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 950928,
+      "raw_hot": 1003635,
       "num": 304816,
       "word": "陈冠希怎么老成这样了",
       "onboard_time": 1767502106,
@@ -779,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 451992,
+      "num": 352923,
+      "word": "委内瑞拉石油储量世界第一",
+      "onboard_time": 1767503663,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 451400,
       "num": 1052240,
       "word": "韩国最新涉台表态",
@@ -841,6 +849,14 @@
       "onboard_time": 1767427524,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 417150,
+      "num": 417150,
+      "word": "赵丽颖一句话扎到黄晓明",
+      "onboard_time": 1767504263,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 416307,
@@ -913,6 +929,14 @@
       "onboard_time": 1767407968,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 394705,
+      "num": 224535,
+      "word": "loveissoap说童锦程配不上她",
+      "onboard_time": 1767502944,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 392817,
@@ -995,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 372589,
+      "num": 803499,
+      "word": "TF荣耀之战",
+      "onboard_time": 1767502883,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 371689,
       "num": 371689,
       "word": "雷军称小米车轮子撞掉是丢轮保车",
@@ -1075,6 +1107,14 @@
       "category": "体育,剧集"
     },
     {
+      "raw_hot": 358013,
+      "num": 358013,
+      "word": "宝马官宣降价",
+      "onboard_time": 1767502584,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 357944,
       "num": 791371,
       "word": "甘肃地震",
@@ -1147,14 +1187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 347569,
-      "num": 347569,
-      "word": "TF荣耀之战",
-      "onboard_time": 1767502883,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 341874,
       "num": 554801,
       "word": "妈妈住院缺席儿子婚礼后病房改新房",
@@ -1169,14 +1201,6 @@
       "onboard_time": 1767260899,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 337560,
-      "num": 207922,
-      "word": "loveissoap说童锦程配不上她",
-      "onboard_time": 1767502944,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 333610,
@@ -1611,6 +1635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266023,
+      "num": 266023,
+      "word": "哥伦比亚总统回怼特朗普威胁",
+      "onboard_time": 1767503901,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 265455,
       "num": 1402867,
       "word": "江苏卫视 全开麦",
@@ -1875,12 +1907,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 234168,
-      "num": 234168,
-      "word": "委内瑞拉石油储量世界第一",
-      "onboard_time": 1767503663,
-      "rank": 15,
+      "raw_hot": 235123,
+      "num": 235123,
+      "word": "李在明",
+      "onboard_time": 1767495322,
+      "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 234795,
+      "num": 219891,
+      "word": "郑钧15岁儿子近照",
+      "onboard_time": 1767504383,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 233903,
@@ -1923,6 +1963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230571,
+      "num": 305609,
+      "word": "李在明启程赴华",
+      "onboard_time": 1767503663,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 230328,
       "num": 230328,
       "word": "唐嫣演技",
@@ -1945,14 +1993,6 @@
       "onboard_time": 1767356241,
       "rank": 21,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 229305,
-      "num": 229305,
-      "word": "宝马官宣降价",
-      "onboard_time": 1767502584,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 228554,
@@ -2091,6 +2131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 214174,
+      "num": 195492,
+      "word": "美国前副总统哈里斯发表声明",
+      "onboard_time": 1767504743,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 213249,
       "num": 519243,
       "word": "看完这一集不敢喝排骨汤了",
@@ -2123,12 +2171,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 210487,
-      "num": 305609,
-      "word": "李在明启程赴华",
-      "onboard_time": 1767503663,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 209808,
+      "num": 209808,
+      "word": "迪丽热巴红秀开年封面",
+      "onboard_time": 1767504982,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 209761,
@@ -2137,14 +2185,6 @@
       "onboard_time": 1767408206,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 209562,
-      "num": 209562,
-      "word": "赵丽颖一句话扎到黄晓明",
-      "onboard_time": 1767504263,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 208969,
@@ -2315,14 +2355,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 199695,
-      "num": 199695,
-      "word": "哥伦比亚总统回怼特朗普威胁",
-      "onboard_time": 1767503901,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 199048,
       "num": 830504,
       "word": "雷军回应小米超强钢争议",
@@ -2339,20 +2371,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 198081,
+      "num": 549838,
+      "word": "金价波动",
+      "onboard_time": 1767252739,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 197331,
       "num": 1722080,
       "word": "长生珠绣流苏西装造型",
       "onboard_time": 1767432804,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 196756,
-      "num": 172169,
-      "word": "李在明",
-      "onboard_time": 1767495322,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 196640,
@@ -2369,38 +2401,6 @@
       "onboard_time": 1767235820,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196264,
-      "num": 747414,
-      "word": "切尔西官宣马雷斯卡下课",
-      "onboard_time": 1767271222,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 194919,
-      "num": 589052,
-      "word": "东方卫视跨年神图",
-      "onboard_time": 1767242661,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 194829,
-      "num": 271777,
-      "word": "未成年女孩遭网友性侵司机果断报警",
-      "onboard_time": 1767487582,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 194560,
-      "num": 747341,
-      "word": "北京男篮vs广东男篮",
-      "onboard_time": 1767271581,
-      "rank": 16,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
