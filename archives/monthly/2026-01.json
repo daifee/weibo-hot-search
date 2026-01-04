@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767537791355,
+  "endTime": 1767540452580,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -17,6 +17,14 @@
       "onboard_time": 1767432625,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 3655537,
+      "num": 3655537,
+      "word": "骄阳似我腾讯视频热度值破30000",
+      "onboard_time": 1767539425,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 3566119,
@@ -161,6 +169,14 @@
       "onboard_time": 1767195686,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1127372,
+      "num": 1029037,
+      "word": "骄阳似我",
+      "onboard_time": 1767264681,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 1076314,
@@ -396,7 +412,7 @@
     },
     {
       "raw_hot": 745324,
-      "num": 287576,
+      "num": 311601,
       "word": "龙麦 接二搭",
       "onboard_time": 1767533183,
       "rank": 25,
@@ -417,6 +433,14 @@
       "onboard_time": 1767355581,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 731212,
+      "num": 326211,
+      "word": "男子假期嫖娼被拘隐瞒7年被辞退",
+      "onboard_time": 1767535584,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 727164,
@@ -635,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 570659,
+      "num": 322769,
+      "word": "佘诗曼黄宗泽挽手走红毯",
+      "onboard_time": 1767536244,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 558513,
       "num": 1030792,
       "word": "吃蒜 偏头痛",
@@ -753,6 +785,14 @@
       "onboard_time": 1767485903,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 518643,
+      "num": 675435,
+      "word": "TVB颁奖典礼",
+      "onboard_time": 1767530542,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 517469,
@@ -955,14 +995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 471190,
-      "num": 1029037,
-      "word": "骄阳似我",
-      "onboard_time": 1767264681,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 470968,
       "num": 1399079,
       "word": "新年快乐图片",
@@ -988,7 +1020,7 @@
     },
     {
       "raw_hot": 459298,
-      "num": 459298,
+      "num": 1134190,
       "word": "美高官妻子暗示很快拿下格陵兰岛",
       "onboard_time": 1767531624,
       "rank": 39,
@@ -1235,14 +1267,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 395085,
-      "num": 675435,
-      "word": "TVB颁奖典礼",
-      "onboard_time": 1767530542,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 394705,
       "num": 224535,
       "word": "loveissoap说童锦程配不上她",
@@ -1379,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 370427,
+      "num": 302668,
+      "word": "哥伦比亚进入一级战备状态",
+      "onboard_time": 1767527842,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 369740,
       "num": 272957,
       "word": "委内瑞拉副总统代行总统职权",
@@ -1411,14 +1443,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 363315,
-      "num": 275105,
-      "word": "哥伦比亚进入一级战备状态",
-      "onboard_time": 1767527842,
-      "rank": 24,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 362967,
       "num": 930830,
       "word": "FMVP皮肤",
@@ -1432,14 +1456,6 @@
       "word": "68岁阿姨豪掷92万养老金为男友买表",
       "onboard_time": 1767529163,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 360240,
-      "num": 323455,
-      "word": "男子假期嫖娼被拘隐瞒7年被辞退",
-      "onboard_time": 1767535584,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -1875,6 +1891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 299986,
+      "num": 299986,
+      "word": "聂曦光穿的是宋威龙的衣服",
+      "onboard_time": 1767536062,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 299362,
       "num": 1001134,
       "word": "徐杰受伤",
@@ -2235,6 +2259,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 255392,
+      "num": 314261,
+      "word": "樊振东vs奥恰洛夫",
+      "onboard_time": 1767537864,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254851,
       "num": 254851,
       "word": "李莎旻子 口条",
@@ -2451,6 +2483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233765,
+      "num": 233765,
+      "word": "现在的演员成功的让我戒掉了电视剧",
+      "onboard_time": 1767539484,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233595,
       "num": 233595,
       "word": "郝熠然云旗直播唱歌",
@@ -2545,6 +2585,22 @@
       "onboard_time": 1767358822,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227189,
+      "num": 217955,
+      "word": "何超盈小8岁老公近照",
+      "onboard_time": 1767538764,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 226613,
+      "num": 255026,
+      "word": "男子与相亲女子强行发生关系获刑",
+      "onboard_time": 1767536964,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225532,
@@ -3011,14 +3067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195216,
-      "num": 255026,
-      "word": "男子与相亲女子强行发生关系获刑",
-      "onboard_time": 1767536964,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 194919,
       "num": 589052,
       "word": "东方卫视跨年神图",
@@ -3259,6 +3307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186056,
+      "num": 186056,
+      "word": "邓紫棋直播",
+      "onboard_time": 1767539305,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185840,
       "num": 2519848,
       "word": "幼儿园园长回应篮球表演失误出圈",
@@ -3443,6 +3499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180652,
+      "num": 253207,
+      "word": "女子称在全季酒店浴巾里发现避孕套",
+      "onboard_time": 1767537325,
+      "rank": 38,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 180638,
       "num": 291256,
       "word": "王者六元皮肤天花板",
@@ -3560,14 +3624,6 @@
       "word": "何炅 可以的话我还是想做个人",
       "onboard_time": 1767532284,
       "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 175232,
-      "num": 254258,
-      "word": "佘诗曼黄宗泽挽手走红毯",
-      "onboard_time": 1767536244,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -3923,6 +3979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 164352,
+      "num": 252296,
+      "word": "万千星辉颁奖典礼2025",
+      "onboard_time": 1767532463,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164278,
       "num": 164278,
       "word": "结石姐原来不知自己上歌手要比赛",
@@ -4193,6 +4257,14 @@
       "onboard_time": 1767443547,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156774,
+      "num": 156774,
+      "word": "龚俊 别信票务的签名照",
+      "onboard_time": 1767539244,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 156743,
@@ -5123,6 +5195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130634,
+      "num": 130634,
+      "word": "张凌赫壁纸",
+      "onboard_time": 1767539063,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130562,
       "num": 1715094,
       "word": "五星红旗在台湾台南冉冉升起",
@@ -5531,14 +5611,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 122987,
-      "num": 253207,
-      "word": "女子称在全季酒店浴巾里发现避孕套",
-      "onboard_time": 1767537325,
-      "rank": 38,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 122971,
       "num": 122971,
       "word": "经常生闷气会掏空人的气血",
@@ -5785,6 +5857,14 @@
       "onboard_time": 1767413486,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 119471,
+      "num": 119471,
+      "word": "大麦提前放票",
+      "onboard_time": 1767537924,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 118886,
@@ -6235,14 +6315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109365,
-      "num": 252970,
-      "word": "聂曦光穿的是宋威龙的衣服",
-      "onboard_time": 1767536062,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 109124,
       "num": 109124,
       "word": "樱花树下站谁都美",
@@ -6569,6 +6641,14 @@
       "onboard_time": 1767445225,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103843,
+      "num": 103843,
+      "word": "一笙 KSG",
+      "onboard_time": 1767539063,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 103596,
@@ -7147,6 +7227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 94815,
+      "num": 94815,
+      "word": "这堪比灵器认主了",
+      "onboard_time": 1767538285,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94810,
       "num": 1682943,
       "word": "委外交部谴责美国军事侵略",
@@ -7369,14 +7457,6 @@
       "onboard_time": 1767528803,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 90891,
-      "num": 252296,
-      "word": "万千星辉颁奖典礼2025",
-      "onboard_time": 1767532463,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 90838,
@@ -9900,7 +9980,7 @@
     },
     {
       "raw_hot": 52378,
-      "num": 742274,
+      "num": 901881,
       "word": "元旦假期661.5万人次出入境",
       "onboard_time": 1767534264,
       "rank": 2,
@@ -10409,6 +10489,14 @@
       "onboard_time": 1767323300,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 45840,
+      "num": 111353,
+      "word": "宣萱拒做医美怕上瘾",
+      "onboard_time": 1767539663,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 45574,
@@ -11721,6 +11809,14 @@
       "onboard_time": 1767518962,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11346,
+      "num": 113733,
+      "word": "女村支书暴雨转移579人获应急部嘉奖",
+      "onboard_time": 1767540083,
+      "rank": 38,
+      "category": "正能量"
     },
     {
       "raw_hot": 10651,
