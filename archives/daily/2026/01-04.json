@@ -1,7 +1,15 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767532123943,
+  "endTime": 1767533769972,
   "band_list": [
+    {
+      "raw_hot": 1998587,
+      "num": 1998587,
+      "word": "爱奇艺电视剧致歉",
+      "onboard_time": 1767529643,
+      "rank": 0,
+      "category": "剧集"
+    },
     {
       "raw_hot": 1631134,
       "num": 272735,
@@ -17,14 +25,6 @@
       "onboard_time": 1767459021,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1540819,
-      "num": 1540819,
-      "word": "爱奇艺电视剧致歉",
-      "onboard_time": 1767529643,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 1430098,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 918237,
-      "num": 208592,
+      "num": 216818,
       "word": "胃癌几乎都是这样喂出来的",
       "onboard_time": 1767527961,
       "rank": 20,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 633524,
-      "num": 259736,
+      "num": 261942,
       "word": "王祖贤眼睛怎么了",
       "onboard_time": 1767524483,
       "rank": 12,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 535373,
-      "num": 392063,
+      "num": 419029,
       "word": "美国拒绝外部介入委内瑞拉",
       "onboard_time": 1767526702,
       "rank": 36,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 496892,
-      "num": 245888,
+      "num": 262357,
       "word": "时代峰峻高会 泡泡",
       "onboard_time": 1767529103,
       "rank": 11,
@@ -475,20 +475,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 426547,
+      "num": 418675,
+      "word": "给赵今麦当替身后我扑进了宋威龙怀里",
+      "onboard_time": 1767527904,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 421463,
+      "num": 421463,
+      "word": "老人不知儿子离婚误将20万元赠儿媳",
+      "onboard_time": 1767533063,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 420432,
       "num": 339459,
       "word": "巴西认定委副总统为委内瑞拉领导人",
       "onboard_time": 1767519081,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 418675,
-      "num": 418675,
-      "word": "给赵今麦当替身后我扑进了宋威龙怀里",
-      "onboard_time": 1767527904,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 417150,
@@ -523,6 +531,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 395085,
+      "num": 559216,
+      "word": "TVB颁奖典礼",
+      "onboard_time": 1767530542,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 394705,
       "num": 224535,
       "word": "loveissoap说童锦程配不上她",
@@ -539,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380634,
+      "num": 241691,
+      "word": "意大利政府称美国是正当防御",
+      "onboard_time": 1767528684,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 380118,
       "num": 809184,
       "word": "特朗普称马杜罗夫妇在美军舰上",
@@ -548,7 +572,7 @@
     },
     {
       "raw_hot": 378488,
-      "num": 445851,
+      "num": 979284,
       "word": "住房公积金会变得越来越香吗",
       "onboard_time": 1767521062,
       "rank": 4,
@@ -585,14 +609,6 @@
       "onboard_time": 1767488244,
       "rank": 6,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 371007,
-      "num": 241691,
-      "word": "意大利政府称美国是正当防御",
-      "onboard_time": 1767528684,
-      "rank": 12,
-      "category": "国际时政"
     },
     {
       "raw_hot": 369740,
@@ -713,6 +729,14 @@
       "onboard_time": 1767506723,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320227,
+      "num": 320227,
+      "word": "杨幂邢菲赵丽颖兰西雅 是姐妹是知己",
+      "onboard_time": 1767528623,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 318358,
@@ -851,12 +875,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 270789,
+      "num": 465751,
+      "word": "68岁阿姨豪掷92万养老金为男友买表",
+      "onboard_time": 1767529163,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267807,
       "num": 299024,
       "word": "车厘子正确清洗教程来了",
       "onboard_time": 1767514223,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 260799,
+      "num": 260799,
+      "word": "2026央视春晚彩排开始了",
+      "onboard_time": 1767533664,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 259394,
@@ -873,14 +913,6 @@
       "onboard_time": 1767512722,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 256261,
-      "num": 256261,
-      "word": "杨幂邢菲赵丽颖兰西雅 是姐妹是知己",
-      "onboard_time": 1767528623,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 255943,
@@ -929,14 +961,6 @@
       "onboard_time": 1767489323,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 244228,
-      "num": 211669,
-      "word": "TVB颁奖典礼",
-      "onboard_time": 1767530542,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 243433,
@@ -1083,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217670,
+      "num": 217670,
+      "word": "郝熠然云旗直播唱歌",
+      "onboard_time": 1767531384,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217303,
       "num": 217303,
       "word": "手冢治虫预言美国",
@@ -1091,12 +1123,12 @@
       "category": "国际时政,动漫"
     },
     {
-      "raw_hot": 208222,
-      "num": 208222,
-      "word": "68岁阿姨豪掷92万养老金为男友买表",
-      "onboard_time": 1767529163,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 208911,
+      "num": 208911,
+      "word": "萨尔队德国杯决赛对阵富尔达",
+      "onboard_time": 1767533363,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 207781,
@@ -1105,6 +1137,14 @@
       "onboard_time": 1767435085,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206487,
+      "num": 206487,
+      "word": "幼童吃15颗车厘子患急性肠胃炎",
+      "onboard_time": 1767531624,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206472,
@@ -1145,6 +1185,14 @@
       "onboard_time": 1767503901,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200945,
+      "num": 200945,
+      "word": "龙麦 接二搭",
+      "onboard_time": 1767533183,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200523,
@@ -1195,14 +1243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196500,
-      "num": 196500,
-      "word": "郝熠然云旗直播唱歌",
-      "onboard_time": 1767531384,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195399,
       "num": 195399,
       "word": "唐嫣你别演了我害怕",
@@ -1217,6 +1257,14 @@
       "onboard_time": 1767487582,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194021,
+      "num": 194021,
+      "word": "于正称玉茗茶骨不爆是长剧没有观众",
+      "onboard_time": 1767527723,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 193782,
@@ -1283,11 +1331,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180782,
+      "num": 180782,
+      "word": "昀牵孟绕",
+      "onboard_time": 1767528444,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180190,
       "num": 154171,
       "word": "委内瑞拉首都现状",
       "onboard_time": 1767485541,
       "rank": 31,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 180170,
+      "num": 180170,
+      "word": "马杜罗上台阶时痛苦呻吟",
+      "onboard_time": 1767524902,
+      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -1297,14 +1361,6 @@
       "onboard_time": 1767516803,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 177808,
-      "num": 177808,
-      "word": "于正称玉茗茶骨不爆是长剧没有观众",
-      "onboard_time": 1767527723,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 176698,
@@ -1321,6 +1377,14 @@
       "onboard_time": 1767503543,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175645,
+      "num": 200953,
+      "word": "何炅 可以的话我还是想做个人",
+      "onboard_time": 1767532284,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 174105,
@@ -1347,12 +1411,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 168785,
-      "num": 168785,
-      "word": "马杜罗上台阶时痛苦呻吟",
-      "onboard_time": 1767524902,
-      "rank": 30,
-      "category": "国际时政"
+      "raw_hot": 168580,
+      "num": 168580,
+      "word": "韦雪泳装",
+      "onboard_time": 1767531862,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 168411,
@@ -1459,6 +1523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163337,
+      "num": 163337,
+      "word": "哥伦比亚进入一级战备状态",
+      "onboard_time": 1767527842,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 162979,
       "num": 162979,
       "word": "微信状态的好用我后知后觉",
@@ -1467,20 +1539,20 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 161536,
-      "num": 161536,
-      "word": "韦雪泳装",
-      "onboard_time": 1767531862,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 161400,
       "num": 179589,
       "word": "德国杯",
       "onboard_time": 1767529824,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161173,
+      "num": 180339,
+      "word": "美高官妻子暗示很快拿下格陵兰岛",
+      "onboard_time": 1767531624,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 160389,
@@ -1497,14 +1569,6 @@
       "onboard_time": 1767504023,
       "rank": 31,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 157049,
-      "num": 157049,
-      "word": "哥伦比亚进入一级战备状态",
-      "onboard_time": 1767527842,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 156168,
@@ -1579,6 +1643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 149125,
+      "num": 149125,
+      "word": "家长网购40套衣服退货28套商家发声",
+      "onboard_time": 1767528023,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148450,
       "num": 148450,
       "word": "左航苏新皓去环球影城了",
@@ -1635,14 +1707,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 143222,
-      "num": 146324,
-      "word": "家长网购40套衣服退货28套商家发声",
-      "onboard_time": 1767528023,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143113,
       "num": 143113,
       "word": "委内瑞拉或出现难民潮",
@@ -1656,14 +1720,6 @@
       "word": "陈都灵邓为或二搭黛色",
       "onboard_time": 1767458480,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 142168,
-      "num": 142168,
-      "word": "昀牵孟绕",
-      "onboard_time": 1767528444,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -1787,6 +1843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131916,
+      "num": 131916,
+      "word": "孟子义李昀锐尚公主开工第一天",
+      "onboard_time": 1767533183,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128954,
       "num": 128954,
       "word": "张栋梁拒唱成名曲气哭经纪人",
@@ -1891,6 +1955,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124915,
+      "num": 208951,
+      "word": "多方回应用废止文件收地租十几亿",
+      "onboard_time": 1767531624,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124602,
+      "num": 124602,
+      "word": "汪海声明与儿子断绝父子关系",
+      "onboard_time": 1767533363,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123813,
       "num": 123813,
       "word": "坏了让他读到真大学了",
@@ -1963,6 +2043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118956,
+      "num": 118956,
+      "word": "美网红暗示很快拿下格陵兰岛",
+      "onboard_time": 1767533363,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 118886,
       "num": 118886,
       "word": "肖战跨年倒计时手势",
@@ -1977,6 +2065,14 @@
       "onboard_time": 1767490162,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117770,
+      "num": 117770,
+      "word": "仙逆动画",
+      "onboard_time": 1767533664,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 117197,
@@ -2049,6 +2145,14 @@
       "onboard_time": 1767481939,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 110135,
+      "num": 110135,
+      "word": "仙逆122",
+      "onboard_time": 1767533722,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 109661,
@@ -2243,6 +2347,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 99173,
+      "num": 99173,
+      "word": "贵州工商职业大学",
+      "onboard_time": 1767531023,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 98622,
       "num": 98622,
       "word": "王者传说降成史诗的皮肤",
@@ -2313,14 +2425,6 @@
       "onboard_time": 1767486622,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 95975,
-      "num": 95975,
-      "word": "贵州工商职业大学",
-      "onboard_time": 1767531023,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 95792,
@@ -2537,14 +2641,6 @@
       "onboard_time": 1767461358,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 88179,
-      "num": 113538,
-      "word": "美高官妻子暗示很快拿下格陵兰岛",
-      "onboard_time": 1767531624,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 87178,
@@ -2987,14 +3083,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 45482,
-      "num": 113928,
-      "word": "幼童吃15颗车厘子患急性肠胃炎",
-      "onboard_time": 1767531624,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 45228,
       "num": 106932,
       "word": "美控制委内瑞拉能操控全球柴油供应",
@@ -3211,14 +3299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29087,
-      "num": 208951,
-      "word": "多方回应用废止文件收地租十几亿",
-      "onboard_time": 1767531624,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27920,
       "num": 135877,
       "word": "丽江旅拍协会成员维权索赔百万",
@@ -3256,6 +3336,14 @@
       "word": "元旦假期交通出行5.95亿人次",
       "onboard_time": 1767519141,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25310,
+      "num": 122586,
+      "word": "知名企业家汪海与儿子断绝关系",
+      "onboard_time": 1767533425,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -3385,6 +3473,14 @@
       "onboard_time": 1767434187,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 12814,
+      "num": 743762,
+      "word": "全国铁路营业里程达16.5万公里",
+      "onboard_time": 1767518962,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
