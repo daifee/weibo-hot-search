@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/04 00:34:09 ~ 2026/01/05 06:28:26
+本榜单时间：2026/01/04 00:34:09 ~ 2026/01/05 06:45:06
 </p>
 </blockquote>
 <p>
@@ -1809,6 +1809,12 @@ Tian看Zoom介入比赛（热度：117197）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E5%90%8D%E4%BC%81%E4%B8%9A%E5%AE%B6%E6%B1%AA%E6%B5%B7%E4%B8%8E%E5%84%BF%E5%AD%90%E6%96%AD%E7%BB%9D%E5%85%B3%E7%B3%BB%23" target="weibo">
+知名企业家汪海与儿子断绝关系（热度：112650）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%AF%B4%E8%A2%AB%E9%BB%91%E5%87%BA%E4%BA%86%E5%BF%83%E7%90%86%E9%98%B4%E5%BD%B1%23" target="weibo">
 雷军说被黑出了心理阴影（热度：111905）
 </a>
@@ -1889,12 +1895,6 @@ Tian看Zoom介入比赛（热度：117197）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%81%AD%E8%A2%AD24%E5%B0%8F%E6%97%B6%E5%90%8E%23" target="weibo">
 委内瑞拉遭袭24小时后（热度：105803）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E5%90%8D%E4%BC%81%E4%B8%9A%E5%AE%B6%E6%B1%AA%E6%B5%B7%E4%B8%8E%E5%84%BF%E5%AD%90%E6%96%AD%E7%BB%9D%E5%85%B3%E7%B3%BB%23" target="weibo">
-知名企业家汪海与儿子断绝关系（热度：105713）
 </a>
 </li>
 
@@ -2601,6 +2601,12 @@ papi 幸福不是一切人还有责任（热度：91974）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E5%90%AB%E8%A4%AA%E9%BB%91%E7%B4%A0%E4%BD%86%E4%B8%8D%E8%83%BD%E5%82%AC%E7%9C%A0%23" target="weibo">
+车厘子含褪黑素但不能催眠（热度：49170）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%9B%E5%A5%B6%E7%95%8C%E7%88%B1%E9%A9%AC%E4%BB%95%E8%B7%BB%E8%BA%AB3%E5%85%83%E6%A1%A3%23" target="weibo">
 牛奶界爱马仕跻身3元档（热度：48993）
 </a>
@@ -2847,12 +2853,6 @@ MRC夺冠（热度：40693）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E5%90%AB%E8%A4%AA%E9%BB%91%E7%B4%A0%E4%BD%86%E4%B8%8D%E8%83%BD%E5%82%AC%E7%9C%A0%23" target="weibo">
-车厘子含褪黑素但不能催眠（热度：25985）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E8%AE%A4%E5%87%BA%E5%AD%99%E5%8D%83%E5%A3%B0%E9%9F%B3%E5%8F%AA%E9%9C%80%E8%A6%81%E4%B8%80%E7%A7%92%23" target="weibo">
 黄景瑜认出孙千声音只需要一秒（热度：25265）
 </a>
@@ -2939,6 +2939,12 @@ MRC夺冠（热度：40693）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E8%AF%B4%E4%BB%8A%E5%B9%B4%E6%9C%89%E5%85%A8%E5%8E%9F%E5%88%9B%E4%B8%93%E8%BE%91%23" target="weibo">
 王源说今年有全原创专辑（热度：18863）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E8%87%AA%E7%94%B1%E4%BD%86%E6%B6%88%E8%B4%B9%E8%80%85%E5%BC%80%E7%9B%B2%E7%9B%92%E5%A4%AA%E9%97%B9%E5%BF%83%23" target="weibo">
+车厘子自由但消费者开盲盒太闹心（热度：16394）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1767544434885,
-  "endTime": 1767565706275,
+  "endTime": 1767566706666,
   "band_list": [
     {
       "raw_hot": 1158219,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 306418,
-      "num": 480311,
+      "num": 496618,
       "word": "现在的演员成功的让我戒掉了电视剧",
       "onboard_time": 1767539484,
       "rank": 6,
@@ -155,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143246,
+      "num": 189807,
+      "word": "委内瑞拉之后这些国家面临危险",
+      "onboard_time": 1767535824,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 130131,
       "num": 456990,
       "word": "美国拒绝外部介入委内瑞拉",
@@ -187,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112650,
+      "num": 270869,
+      "word": "知名企业家汪海与儿子断绝关系",
+      "onboard_time": 1767533425,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111676,
       "num": 189879,
       "word": "孙俪邓超女儿小花近照",
@@ -201,14 +217,6 @@
       "onboard_time": 1767530542,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 107997,
-      "num": 189807,
-      "word": "委内瑞拉之后这些国家面临危险",
-      "onboard_time": 1767535824,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 107127,
@@ -240,14 +248,6 @@
       "word": "流落柬埔寨街头中国女子已被找到",
       "onboard_time": 1767534503,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 83894,
-      "num": 270869,
-      "word": "知名企业家汪海与儿子断绝关系",
-      "onboard_time": 1767533425,
-      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -313,6 +313,22 @@
       "onboard_time": 1767524423,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 69216,
+      "num": 279197,
+      "word": "美网红暗示很快拿下格陵兰岛",
+      "onboard_time": 1767533363,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 62550,
+      "num": 165369,
+      "word": "家长网购40套衣服退货28套商家发声",
+      "onboard_time": 1767528023,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62061,
@@ -419,12 +435,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 50162,
-      "num": 279197,
-      "word": "美网红暗示很快拿下格陵兰岛",
-      "onboard_time": 1767533363,
-      "rank": 38,
-      "category": "国际时政"
+      "raw_hot": 49170,
+      "num": 49170,
+      "word": "车厘子含褪黑素但不能催眠",
+      "onboard_time": 1767561434,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 48993,
@@ -451,14 +467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 42136,
-      "num": 165369,
-      "word": "家长网购40套衣服退货28套商家发声",
-      "onboard_time": 1767528023,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33163,
       "num": 166400,
       "word": "上海一室内游乐场夹娃娃机放小动物",
@@ -473,14 +481,6 @@
       "onboard_time": 1767534264,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25985,
-      "num": 27324,
-      "word": "车厘子含褪黑素但不能催眠",
-      "onboard_time": 1767561434,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 23698,
@@ -499,6 +499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 16394,
+      "num": 35061,
+      "word": "车厘子自由但消费者开盲盒太闹心",
+      "onboard_time": 1767566475,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15518,
       "num": 39031,
       "word": "王力宏手比嘴忙",
@@ -515,28 +523,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 11120,
-      "num": 27196,
+      "raw_hot": 13963,
+      "num": 35041,
       "word": "尚公主",
       "onboard_time": 1767525022,
       "rank": 46,
       "category": "剧集"
     },
     {
-      "raw_hot": 11086,
-      "num": 288220,
-      "word": "这组数据见证活力迸发的元旦假期",
-      "onboard_time": 1767533844,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10913,
-      "num": 27187,
+      "raw_hot": 13565,
+      "num": 35037,
       "word": "声鸣远扬",
       "onboard_time": 1767530663,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11086,
+      "num": 288751,
+      "word": "这组数据见证活力迸发的元旦假期",
+      "onboard_time": 1767533844,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9244,
