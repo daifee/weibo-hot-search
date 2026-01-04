@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767508923598,
+  "endTime": 1767509730629,
   "band_list": [
     {
       "raw_hot": 1631134,
@@ -91,6 +91,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 789176,
+      "num": 1126268,
+      "word": "外交部回应美强行控制委总统夫妇",
+      "onboard_time": 1767507983,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 768109,
       "num": 1122897,
       "word": "车厘子 褪黑素",
@@ -131,14 +139,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 605862,
-      "num": 835704,
-      "word": "外交部回应美强行控制委总统夫妇",
-      "onboard_time": 1767507983,
-      "rank": 1,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 583612,
       "num": 271025,
       "word": "今日委内瑞拉明日任何一国",
@@ -163,20 +163,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 543056,
+      "num": 424813,
+      "word": "iPhoneFold上手",
+      "onboard_time": 1767505283,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 536292,
       "num": 536292,
       "word": "两名中国公民在日本被严重撞伤",
       "onboard_time": 1767483320,
       "rank": 4,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 532784,
-      "num": 424813,
-      "word": "iPhoneFold上手",
-      "onboard_time": 1767505283,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 521015,
@@ -281,6 +281,14 @@
       "onboard_time": 1767504263,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 414267,
+      "num": 285326,
+      "word": "结婚证就得考啊",
+      "onboard_time": 1767507802,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 412890,
@@ -403,6 +411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 323097,
+      "num": 310161,
+      "word": "哥伦比亚总统回怼特朗普威胁",
+      "onboard_time": 1767503901,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 318358,
       "num": 694515,
       "word": "特朗普发布马杜罗在美舰照片",
@@ -417,14 +433,6 @@
       "onboard_time": 1767491542,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 310161,
-      "num": 310161,
-      "word": "哥伦比亚总统回怼特朗普威胁",
-      "onboard_time": 1767503901,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 309469,
@@ -483,8 +491,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 276429,
-      "num": 276429,
+      "raw_hot": 279552,
+      "num": 279552,
       "word": "迪丽热巴红秀开年封面",
       "onboard_time": 1767504982,
       "rank": 26,
@@ -563,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238592,
+      "num": 238592,
+      "word": "被播放了70亿次的声音竟然是她",
+      "onboard_time": 1767508162,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235343,
       "num": 235343,
       "word": "车厘子跌破1元一颗",
@@ -628,7 +644,7 @@
     },
     {
       "raw_hot": 229110,
-      "num": 120374,
+      "num": 190643,
       "word": "纽约市长已致电特朗普",
       "onboard_time": 1767507262,
       "rank": 30,
@@ -675,28 +691,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209233,
+      "num": 209233,
+      "word": "偶遇余承恩带娃",
+      "onboard_time": 1767506723,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205823,
       "num": 258403,
       "word": "马杜罗",
       "onboard_time": 1767481818,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 205364,
-      "num": 205364,
-      "word": "结婚证就得考啊",
-      "onboard_time": 1767507802,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 204174,
-      "num": 204174,
-      "word": "被播放了70亿次的声音竟然是她",
-      "onboard_time": 1767508162,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 203135,
@@ -819,6 +827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 168333,
+      "num": 157132,
+      "word": "孩子妈曝童锦程想毁灭证据",
+      "onboard_time": 1767509243,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 168280,
       "num": 168280,
       "word": "王一博被乌鸦追老鹰震惊",
@@ -851,14 +867,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 165455,
-      "num": 165455,
-      "word": "偶遇余承恩带娃",
-      "onboard_time": 1767506723,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 164724,
       "num": 164724,
       "word": "骄阳似我开超点了",
@@ -873,6 +881,14 @@
       "onboard_time": 1767487342,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 164278,
+      "num": 164278,
+      "word": "结石姐原来不知自己上歌手要比赛",
+      "onboard_time": 1767508643,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 164072,
@@ -955,6 +971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 147967,
+      "num": 232485,
+      "word": "马龙说有王楚钦在很心定",
+      "onboard_time": 1767504202,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147027,
       "num": 147027,
       "word": "逍遥",
@@ -993,14 +1017,6 @@
       "onboard_time": 1767504202,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 134852,
-      "num": 232485,
-      "word": "马龙说有王楚钦在很心定",
-      "onboard_time": 1767504202,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 134042,
@@ -1107,8 +1123,16 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 110278,
+      "num": 110278,
+      "word": "何炅写了26年的专栏停更了",
+      "onboard_time": 1767508882,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109873,
-      "num": 132877,
+      "num": 209242,
       "word": "足浴店涉嫌非法聘用外国人被查",
       "onboard_time": 1767506543,
       "rank": 27,
@@ -1131,11 +1155,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 107684,
+      "num": 107684,
+      "word": "景甜白到发光的旅游照",
+      "onboard_time": 1767509362,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107523,
       "num": 789867,
       "word": "联合国回应委内瑞拉局势",
       "onboard_time": 1767457281,
       "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 105803,
+      "num": 105803,
+      "word": "委内瑞拉遭袭24小时后",
+      "onboard_time": 1767508882,
+      "rank": 48,
       "category": "国际时政"
     },
     {
@@ -1155,14 +1195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 101791,
-      "num": 101791,
-      "word": "结石姐原来不知自己上歌手要比赛",
-      "onboard_time": 1767508643,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 100521,
       "num": 100521,
       "word": "中方呼吁美方停止颠覆委政权",
@@ -1177,6 +1209,14 @@
       "onboard_time": 1767437965,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 98416,
+      "num": 98416,
+      "word": "张凌赫这一秒过火过审",
+      "onboard_time": 1767509062,
+      "rank": 42,
+      "category": "剧集,综艺"
     },
     {
       "raw_hot": 97125,
@@ -1243,6 +1283,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 90296,
+      "num": 104188,
+      "word": "马年生肖邮票",
+      "onboard_time": 1767509542,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89793,
       "num": 89793,
       "word": "苹果回应国行版AI",
@@ -1283,6 +1331,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 85548,
+      "num": 85548,
+      "word": "赵丽颖黄晓明对手戏",
+      "onboard_time": 1767509662,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 84206,
+      "num": 84206,
+      "word": "奔跑吧14",
+      "onboard_time": 1767509421,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83861,
       "num": 83861,
       "word": "2026年考试日历",
@@ -1297,6 +1361,14 @@
       "onboard_time": 1767497484,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 82897,
+      "num": 82897,
+      "word": "李在明访华经济代表团有三星LG",
+      "onboard_time": 1767507321,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 82737,
@@ -1321,14 +1393,6 @@
       "onboard_time": 1767445765,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 80563,
-      "num": 80563,
-      "word": "委内瑞拉遭袭24小时后",
-      "onboard_time": 1767508882,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 79366,
@@ -1481,6 +1545,14 @@
       "onboard_time": 1767499824,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61245,
+      "num": 183693,
+      "word": "2026国补新变化",
+      "onboard_time": 1767508162,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60478,
@@ -1675,14 +1747,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 40557,
-      "num": 183693,
-      "word": "2026国补新变化",
-      "onboard_time": 1767508162,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40002,
       "num": 56104,
       "word": "今年黄金白银还涨吗",
@@ -1705,14 +1769,6 @@
       "onboard_time": 1767482417,
       "rank": 46,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 38335,
-      "num": 93557,
-      "word": "何炅写了26年的专栏停更了",
-      "onboard_time": 1767508882,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 38058,
@@ -1793,6 +1849,14 @@
       "onboard_time": 1767461658,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 29805,
+      "num": 633071,
+      "word": "2026开工大吉",
+      "onboard_time": 1767501324,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27920,
