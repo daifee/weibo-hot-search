@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767525842376,
+  "endTime": 1767526734166,
   "band_list": [
     {
       "raw_hot": 1631134,
@@ -195,6 +195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 581460,
+      "num": 259736,
+      "word": "王祖贤眼睛怎么了",
+      "onboard_time": 1767524483,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 578694,
       "num": 279290,
       "word": "小英自曝被上拉如身边人欺负",
@@ -233,6 +241,14 @@
       "onboard_time": 1767505283,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 540006,
+      "num": 540006,
+      "word": "尚公主",
+      "onboard_time": 1767525022,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 536292,
@@ -348,7 +364,7 @@
     },
     {
       "raw_hot": 458015,
-      "num": 772780,
+      "num": 786272,
       "word": "收到扣费600多元短信发现买过保险",
       "onboard_time": 1767522501,
       "rank": 49,
@@ -420,7 +436,7 @@
     },
     {
       "raw_hot": 420432,
-      "num": 285991,
+      "num": 339459,
       "word": "巴西认定委副总统为委内瑞拉领导人",
       "onboard_time": 1767519081,
       "rank": 30,
@@ -481,6 +497,14 @@
       "onboard_time": 1767454644,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 378488,
+      "num": 445851,
+      "word": "住房公积金会变得越来越香吗",
+      "onboard_time": 1767521062,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 377988,
@@ -556,7 +580,7 @@
     },
     {
       "raw_hot": 356964,
-      "num": 200317,
+      "num": 255805,
       "word": "周扬青当众怼石晶",
       "onboard_time": 1767523821,
       "rank": 11,
@@ -601,14 +625,6 @@
       "onboard_time": 1767503901,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 321763,
-      "num": 199194,
-      "word": "王祖贤眼睛怎么了",
-      "onboard_time": 1767524483,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 320868,
@@ -681,14 +697,6 @@
       "onboard_time": 1767482839,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 291609,
-      "num": 445851,
-      "word": "住房公积金会变得越来越香吗",
-      "onboard_time": 1767521062,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 288136,
@@ -787,12 +795,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 254851,
+      "num": 254851,
+      "word": "李莎旻子 口条",
+      "onboard_time": 1767525683,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253114,
       "num": 253114,
       "word": "全款11万5买了43平的老破小",
       "onboard_time": 1767494541,
       "rank": 32,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 252767,
+      "num": 252767,
+      "word": "腾讯回应元宝AI辱骂用户",
+      "onboard_time": 1767524843,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 249400,
@@ -963,11 +987,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208830,
-      "num": 208830,
-      "word": "尚公主",
-      "onboard_time": 1767525022,
-      "rank": 7,
+      "raw_hot": 217303,
+      "num": 217303,
+      "word": "手冢治虫预言美国",
+      "onboard_time": 1767520762,
+      "rank": 31,
+      "category": "国际时政,动漫"
+    },
+    {
+      "raw_hot": 215242,
+      "num": 269064,
+      "word": "骄阳似我 你把我害惨了",
+      "onboard_time": 1767524423,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -1059,6 +1091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196586,
+      "num": 196586,
+      "word": "曝TOP登陆少年重组",
+      "onboard_time": 1767526404,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195399,
       "num": 195399,
       "word": "唐嫣你别演了我害怕",
@@ -1089,14 +1129,6 @@
       "onboard_time": 1767512483,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 191779,
-      "num": 191779,
-      "word": "手冢治虫预言美国",
-      "onboard_time": 1767520762,
-      "rank": 31,
-      "category": "国际时政,动漫"
     },
     {
       "raw_hot": 191225,
@@ -1201,14 +1233,6 @@
       "onboard_time": 1767453265,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 171751,
-      "num": 171751,
-      "word": "腾讯回应元宝AI辱骂用户",
-      "onboard_time": 1767524843,
-      "rank": 18,
-      "category": "互联网"
     },
     {
       "raw_hot": 168411,
@@ -1363,6 +1387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 152345,
+      "num": 131581,
+      "word": "曾爆火素人女孩七七签约经纪公司",
+      "onboard_time": 1767525263,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 152315,
       "num": 152315,
       "word": "潘玮柏 你的锤来了",
@@ -1459,12 +1491,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 143113,
+      "num": 143113,
+      "word": "委内瑞拉或出现难民潮",
+      "onboard_time": 1767523102,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 142265,
       "num": 717318,
       "word": "陈都灵邓为或二搭黛色",
       "onboard_time": 1767458480,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141946,
+      "num": 111890,
+      "word": "马杜罗上台阶时痛苦呻吟",
+      "onboard_time": 1767524902,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 140693,
@@ -1507,14 +1555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139631,
-      "num": 139631,
-      "word": "委内瑞拉或出现难民潮",
-      "onboard_time": 1767523102,
-      "rank": 21,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 137981,
       "num": 137981,
       "word": "原来这是生理性厌恶的表现",
@@ -1529,6 +1569,14 @@
       "onboard_time": 1767504202,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 136092,
+      "num": 109408,
+      "word": "骄阳似我固屏一直在亲",
+      "onboard_time": 1767526222,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 135297,
@@ -1563,14 +1611,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 133599,
-      "num": 133599,
-      "word": "骄阳似我 你把我害惨了",
-      "onboard_time": 1767524423,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 128954,
       "num": 128954,
       "word": "张栋梁拒唱成名曲气哭经纪人",
@@ -1593,14 +1633,6 @@
       "onboard_time": 1767525142,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127652,
-      "num": 105410,
-      "word": "马杜罗上台阶时痛苦呻吟",
-      "onboard_time": 1767524902,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 127550,
@@ -1667,6 +1699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125040,
+      "num": 125040,
+      "word": "宋祖儿和闺蜜跨年",
+      "onboard_time": 1767524783,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123813,
       "num": 123813,
       "word": "坏了让他读到真大学了",
@@ -1699,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122271,
+      "num": 122271,
+      "word": "柯淳领衔主演黎明前他会归来",
+      "onboard_time": 1767525322,
+      "rank": 32,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 121474,
       "num": 121474,
       "word": "新疆和静4.6级地震",
@@ -1715,12 +1763,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120188,
+      "num": 120188,
+      "word": "夏之光 经常请吃饭的帅气哥哥",
+      "onboard_time": 1767526162,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118244,
       "num": 118244,
       "word": "杨紫董竹君造型贵气",
       "onboard_time": 1767490162,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117197,
+      "num": 117197,
+      "word": "Tian看Zoom介入比赛",
+      "onboard_time": 1767526104,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 115568,
@@ -1811,14 +1875,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 106801,
-      "num": 106801,
-      "word": "李莎旻子 口条",
-      "onboard_time": 1767525683,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 106679,
       "num": 106679,
       "word": "迅猛龙回应参加恋综",
@@ -1867,12 +1923,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102858,
-      "num": 102858,
-      "word": "柯淳领衔主演黎明前他会归来",
-      "onboard_time": 1767525322,
-      "rank": 32,
-      "category": "剧集,作品衍生"
+      "raw_hot": 103629,
+      "num": 103629,
+      "word": "美国拒绝外部介入委内瑞拉",
+      "onboard_time": 1767526702,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 101381,
@@ -1891,12 +1947,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 100871,
+      "num": 100871,
+      "word": "肖战展现东方魅力",
+      "onboard_time": 1767526462,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100859,
       "num": 100859,
       "word": "美国超百城抗议霸凌战争",
       "onboard_time": 1767525322,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 100757,
+      "num": 116691,
+      "word": "男子穿破羽绒服致呼吸衰竭",
+      "onboard_time": 1767520643,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100586,
@@ -1921,6 +1993,14 @@
       "onboard_time": 1767437965,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 99737,
+      "num": 99737,
+      "word": "第一次看清楚眼妆怎么画",
+      "onboard_time": 1767524722,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 98622,
@@ -1995,14 +2075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 95786,
-      "num": 95786,
-      "word": "男子穿破羽绒服致呼吸衰竭",
-      "onboard_time": 1767520643,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95486,
       "num": 95486,
       "word": "白鹿王鹤棣范丞丞宇闪合体",
@@ -2027,6 +2099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94749,
+      "num": 94749,
+      "word": "美国霸权的凶残性暴露无遗",
+      "onboard_time": 1767526582,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 94676,
       "num": 808306,
       "word": "92年姨父成12岁女孩第二个爸爸",
@@ -2041,14 +2121,6 @@
       "onboard_time": 1767519563,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 93852,
-      "num": 93852,
-      "word": "曾爆火素人女孩七七签约经纪公司",
-      "onboard_time": 1767525263,
-      "rank": 34,
-      "category": "网红"
     },
     {
       "raw_hot": 93790,
@@ -2179,20 +2251,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 87430,
-      "num": 87430,
-      "word": "第一次看清楚眼妆怎么画",
-      "onboard_time": 1767524722,
-      "rank": 47,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 87178,
       "num": 96514,
       "word": "白宫附近披萨订单也爆了",
       "onboard_time": 1767482779,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 87086,
+      "num": 99875,
+      "word": "刘耀文 食欲型爱豆",
+      "onboard_time": 1767526404,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 85548,
@@ -2323,7 +2395,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 72901,
+      "raw_hot": 72987,
       "num": 88265,
       "word": "花几千在江浙沪滑雪的中产被坑哭了",
       "onboard_time": 1767524423,
@@ -2385,14 +2457,6 @@
       "onboard_time": 1767454286,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 67094,
-      "num": 91148,
-      "word": "宋祖儿和闺蜜跨年",
-      "onboard_time": 1767524783,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 66828,
@@ -2496,6 +2560,14 @@
       "word": "带薪反复抱了林屿森好几次",
       "onboard_time": 1767510142,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 57484,
+      "num": 99617,
+      "word": "林屿森聂曦光接吻止晕",
+      "onboard_time": 1767526702,
+      "rank": 41,
       "category": "剧集"
     },
     {

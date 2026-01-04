@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767525842376,
+  "endTime": 1767526734166,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -539,6 +539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 581460,
+      "num": 259736,
+      "word": "王祖贤眼睛怎么了",
+      "onboard_time": 1767524483,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 580217,
       "num": 1399643,
       "word": "江苏卫视大爆",
@@ -625,6 +633,14 @@
       "onboard_time": 1767266420,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 540006,
+      "num": 540006,
+      "word": "尚公主",
+      "onboard_time": 1767238040,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 536292,
@@ -900,7 +916,7 @@
     },
     {
       "raw_hot": 458015,
-      "num": 772780,
+      "num": 786272,
       "word": "收到扣费600多元短信发现买过保险",
       "onboard_time": 1767522501,
       "rank": 49,
@@ -1036,7 +1052,7 @@
     },
     {
       "raw_hot": 420432,
-      "num": 285991,
+      "num": 339459,
       "word": "巴西认定委副总统为委内瑞拉领导人",
       "onboard_time": 1767519081,
       "rank": 30,
@@ -1065,14 +1081,6 @@
       "onboard_time": 1767432566,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 413045,
-      "num": 413045,
-      "word": "尚公主",
-      "onboard_time": 1767238040,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 411475,
@@ -1193,6 +1201,14 @@
       "onboard_time": 1767180262,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 378488,
+      "num": 445851,
+      "word": "住房公积金会变得越来越香吗",
+      "onboard_time": 1767521062,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 377988,
@@ -1348,7 +1364,7 @@
     },
     {
       "raw_hot": 356964,
-      "num": 200317,
+      "num": 255805,
       "word": "周扬青当众怼石晶",
       "onboard_time": 1767523821,
       "rank": 11,
@@ -1473,14 +1489,6 @@
       "onboard_time": 1767262160,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 321763,
-      "num": 199194,
-      "word": "王祖贤眼睛怎么了",
-      "onboard_time": 1767524483,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 320868,
@@ -1752,14 +1760,6 @@
       "word": "车厘子价格暴跌近40%",
       "onboard_time": 1767357020,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 291609,
-      "num": 445851,
-      "word": "住房公积金会变得越来越香吗",
-      "onboard_time": 1767521062,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -2059,6 +2059,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 254851,
+      "num": 254851,
+      "word": "李莎旻子 口条",
+      "onboard_time": 1767525683,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254798,
       "num": 588650,
       "word": "赵今麦穿了林屿森的衣服",
@@ -2097,6 +2105,14 @@
       "onboard_time": 1767494541,
       "rank": 32,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 252767,
+      "num": 252767,
+      "word": "腾讯回应元宝AI辱骂用户",
+      "onboard_time": 1767524843,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 252643,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767335598,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 222702,
-      "num": 222702,
-      "word": "易烊千玺起诉眼镜公司侵权",
-      "onboard_time": 1767497722,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 222414,
-      "num": 589198,
-      "word": "湖南卫视断层第一",
-      "onboard_time": 1767232223,
-      "rank": 21,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
