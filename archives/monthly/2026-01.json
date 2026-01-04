@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767526734166,
+  "endTime": 1767531279924,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 933244,
+      "num": 1149319,
+      "word": "爱奇艺电视剧致歉",
+      "onboard_time": 1767529643,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 922373,
       "num": 1147579,
       "word": "父亲凌晨去世邻居听到鞭炮声后赶来",
@@ -233,6 +241,14 @@
       "onboard_time": 1767445826,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 885445,
+      "num": 178177,
+      "word": "胃癌几乎都是这样喂出来的",
+      "onboard_time": 1767527961,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 874177,
@@ -355,6 +371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 751162,
+      "num": 540006,
+      "word": "尚公主",
+      "onboard_time": 1767238040,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 744779,
       "num": 981643,
       "word": "张杰歌迷会 愿我们莫忘来时路",
@@ -433,6 +457,14 @@
       "onboard_time": 1767443786,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 633524,
+      "num": 259736,
+      "word": "王祖贤眼睛怎么了",
+      "onboard_time": 1767524483,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 624910,
@@ -539,14 +571,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 581460,
-      "num": 259736,
-      "word": "王祖贤眼睛怎么了",
-      "onboard_time": 1767524483,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 580217,
       "num": 1399643,
       "word": "江苏卫视大爆",
@@ -635,20 +659,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 540006,
-      "num": 540006,
-      "word": "尚公主",
-      "onboard_time": 1767238040,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 536292,
       "num": 536292,
       "word": "两名中国公民在日本被严重撞伤",
       "onboard_time": 1767483320,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 535373,
+      "num": 267971,
+      "word": "美国拒绝外部介入委内瑞拉",
+      "onboard_time": 1767526702,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 534844,
@@ -763,6 +787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 496892,
+      "num": 245888,
+      "word": "时代峰峻高会 泡泡",
+      "onboard_time": 1767529103,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 495862,
       "num": 2988452,
       "word": "男女主官宣完男二才追",
@@ -873,6 +905,14 @@
       "onboard_time": 1767483920,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 472303,
+      "num": 472303,
+      "word": "骄阳似我 你把我害惨了",
+      "onboard_time": 1767524423,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 471559,
@@ -1099,6 +1139,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 407481,
+      "num": 260239,
+      "word": "给赵今麦当替身后我扑进了宋威龙怀里",
+      "onboard_time": 1767527904,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 406176,
       "num": 1010089,
       "word": "发现卧室其实不应该装衣柜",
@@ -1291,6 +1339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 369161,
+      "num": 241691,
+      "word": "意大利政府称美国是正当防御",
+      "onboard_time": 1767528684,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 368104,
       "num": 318689,
       "word": "娜扎 有福气的人都不上镜",
@@ -1329,6 +1385,14 @@
       "onboard_time": 1767497902,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 359208,
+      "num": 239442,
+      "word": "杨幂杨紫迪丽热巴 2025爆剧女主",
+      "onboard_time": 1767526825,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 358567,
@@ -1457,6 +1521,14 @@
       "onboard_time": 1767272301,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 328050,
+      "num": 236670,
+      "word": "曝TOP登陆少年重组",
+      "onboard_time": 1767526404,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 326826,
@@ -1593,6 +1665,14 @@
       "onboard_time": 1767327980,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 313364,
+      "num": 252767,
+      "word": "腾讯回应元宝AI辱骂用户",
+      "onboard_time": 1767524843,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 312147,
@@ -1761,6 +1841,14 @@
       "onboard_time": 1767357020,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291330,
+      "num": 857669,
+      "word": "樊振东vs户上隼辅",
+      "onboard_time": 1767528023,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 289588,
@@ -2107,14 +2195,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 252767,
-      "num": 252767,
-      "word": "腾讯回应元宝AI辱骂用户",
-      "onboard_time": 1767524843,
-      "rank": 18,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 252643,
       "num": 1397167,
       "word": "红包分组",
@@ -2331,6 +2411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229567,
+      "num": 205572,
+      "word": "杨幂邢菲赵丽颖兰西雅 是姐妹是知己",
+      "onboard_time": 1767528623,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229326,
       "num": 220246,
       "word": "生理性喜欢的4个无意识行为",
@@ -2481,14 +2569,6 @@
       "onboard_time": 1767357261,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 215242,
-      "num": 269064,
-      "word": "骄阳似我 你把我害惨了",
-      "onboard_time": 1767524423,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 214873,
@@ -2793,14 +2873,6 @@
       "onboard_time": 1767445406,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196586,
-      "num": 196586,
-      "word": "曝TOP登陆少年重组",
-      "onboard_time": 1767526404,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 196582,
@@ -3355,6 +3427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174211,
+      "num": 174211,
+      "word": "于正称玉茗茶骨不爆是长剧没有观众",
+      "onboard_time": 1767527723,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174033,
       "num": 788210,
       "word": "一诺五获KPL年度最佳发育路",
@@ -3635,6 +3715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164562,
+      "num": 164562,
+      "word": "马杜罗上台阶时痛苦呻吟",
+      "onboard_time": 1767524902,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 164485,
       "num": 120097,
       "word": "美国多地爆发反战示威",
@@ -3649,6 +3737,14 @@
       "onboard_time": 1767508643,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164083,
+      "num": 164083,
+      "word": "曾爆火素人女孩七七签约经纪公司",
+      "onboard_time": 1767525263,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 164072,
@@ -3737,6 +3833,14 @@
       "onboard_time": 1767195208,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161400,
+      "num": 179589,
+      "word": "德国杯",
+      "onboard_time": 1767529824,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 161388,
@@ -3891,6 +3995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157049,
+      "num": 157049,
+      "word": "哥伦比亚进入一级战备状态",
+      "onboard_time": 1767527842,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 156743,
       "num": 159702,
       "word": "日本东京全球人口排名下跌",
@@ -3971,6 +4083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 155309,
+      "num": 155309,
+      "word": "68岁阿姨豪掷92万养老金为男友买表",
+      "onboard_time": 1767529163,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155018,
       "num": 1094620,
       "word": "丁禹兮要拍斩神",
@@ -4033,14 +4153,6 @@
       "onboard_time": 1767419006,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 152345,
-      "num": 131581,
-      "word": "曾爆火素人女孩七七签约经纪公司",
-      "onboard_time": 1767525263,
-      "rank": 34,
-      "category": "网红"
     },
     {
       "raw_hot": 152315,
@@ -4339,6 +4451,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 142168,
+      "num": 142168,
+      "word": "昀牵孟绕",
+      "onboard_time": 1767528444,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142041,
       "num": 1124268,
       "word": "浙江卫视跨年晚会",
@@ -4355,12 +4475,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141946,
-      "num": 111890,
-      "word": "马杜罗上台阶时痛苦呻吟",
-      "onboard_time": 1767524902,
-      "rank": 30,
-      "category": "国际时政"
+      "raw_hot": 141925,
+      "num": 141925,
+      "word": "JDG舞蹈串烧",
+      "onboard_time": 1767528923,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 141753,
@@ -4555,6 +4675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 137375,
+      "num": 137375,
+      "word": "TVB颁奖典礼",
+      "onboard_time": 1767530542,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137249,
       "num": 1023162,
       "word": "邵兵邵子恒 中式父子相处新模式",
@@ -4588,7 +4716,7 @@
     },
     {
       "raw_hot": 136092,
-      "num": 109408,
+      "num": 124135,
       "word": "骄阳似我固屏一直在亲",
       "onboard_time": 1767526222,
       "rank": 34,
@@ -4939,6 +5067,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 127276,
+      "num": 127276,
+      "word": "迪丽热巴辛芷蕾卢昱晓 2025打女",
+      "onboard_time": 1767527063,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127240,
+      "num": 127240,
+      "word": "建议大家修完照片后再镜像看看",
+      "onboard_time": 1767526883,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127185,
       "num": 1039041,
       "word": "宝马中国回应最高降价30万",
@@ -5283,6 +5427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121210,
+      "num": 121210,
+      "word": "DNF整活真神都在这了",
+      "onboard_time": 1767530002,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 121031,
       "num": 465084,
       "word": "蔡磊透露已进入疾病终末期",
@@ -5539,6 +5691,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 114632,
+      "num": 114632,
+      "word": "就这个DYG舞蹈串烧爽",
+      "onboard_time": 1767527303,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114514,
       "num": 246233,
       "word": "一直想吃但真吃到却很失望的食物",
@@ -5627,6 +5787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112771,
+      "num": 124659,
+      "word": "教育部拟同意设置15所本科学校",
+      "onboard_time": 1767527182,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 112630,
       "num": 1387857,
       "word": "跨年烟花秀",
@@ -5665,6 +5833,14 @@
       "onboard_time": 1767350660,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112094,
+      "num": 124318,
+      "word": "家长网购40套衣服退货28套商家发声",
+      "onboard_time": 1767528023,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111917,
@@ -6083,12 +6259,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 103629,
-      "num": 103629,
-      "word": "美国拒绝外部介入委内瑞拉",
-      "onboard_time": 1767526702,
-      "rank": 36,
-      "category": "国际时政"
+      "raw_hot": 103596,
+      "num": 103596,
+      "word": "小猫真的有洗脸巾",
+      "onboard_time": 1767529762,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 103524,
@@ -6451,6 +6627,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 97169,
+      "num": 97169,
+      "word": "KPL奇妙夜",
+      "onboard_time": 1767527842,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 97140,
       "num": 1002432,
       "word": "元旦",
@@ -6521,6 +6705,14 @@
       "onboard_time": 1767259101,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 95975,
+      "num": 95975,
+      "word": "贵州工商职业大学",
+      "onboard_time": 1767531023,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 95955,
@@ -6649,6 +6841,14 @@
       "onboard_time": 1767353481,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93907,
+      "num": 93907,
+      "word": "肖战舞台高光无限循环中",
+      "onboard_time": 1767531203,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 93729,
@@ -6811,6 +7011,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 90993,
+      "num": 90993,
+      "word": "王一博开工图",
+      "onboard_time": 1767528803,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 90811,
       "num": 1093997,
       "word": "骄阳似我落地窗吻",
@@ -6857,6 +7065,14 @@
       "onboard_time": 1767267020,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 90185,
+      "num": 90185,
+      "word": "无畏刀马刀马太对味了",
+      "onboard_time": 1767531264,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 90043,
@@ -6939,12 +7155,36 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 89289,
+      "num": 89289,
+      "word": "声鸣远扬",
+      "onboard_time": 1767530663,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 89183,
+      "num": 89183,
+      "word": "樊振东说最大成就是奥运冠军",
+      "onboard_time": 1767530423,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89074,
       "num": 89074,
       "word": "檀健次何不同舟渡谢却山定妆",
       "onboard_time": 1767521062,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88818,
+      "num": 88818,
+      "word": "龚俊直播",
+      "onboard_time": 1767526762,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 88702,
@@ -10476,7 +10716,7 @@
     },
     {
       "raw_hot": 31326,
-      "num": 640663,
+      "num": 641819,
       "word": "憧憬十五五",
       "onboard_time": 1767519385,
       "rank": 2,

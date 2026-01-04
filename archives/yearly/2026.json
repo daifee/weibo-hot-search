@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767526734166,
+  "endTime": 1767531279924,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 933244,
+      "num": 1149319,
+      "word": "爱奇艺电视剧致歉",
+      "onboard_time": 1767529643,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 922373,
       "num": 1147579,
       "word": "父亲凌晨去世邻居听到鞭炮声后赶来",
@@ -233,6 +241,14 @@
       "onboard_time": 1767445826,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 885445,
+      "num": 178177,
+      "word": "胃癌几乎都是这样喂出来的",
+      "onboard_time": 1767527961,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 874177,
@@ -355,6 +371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 751162,
+      "num": 540006,
+      "word": "尚公主",
+      "onboard_time": 1767238040,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 744779,
       "num": 981643,
       "word": "张杰歌迷会 愿我们莫忘来时路",
@@ -433,6 +457,14 @@
       "onboard_time": 1767443786,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 633524,
+      "num": 259736,
+      "word": "王祖贤眼睛怎么了",
+      "onboard_time": 1767524483,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 624910,
@@ -539,14 +571,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 581460,
-      "num": 259736,
-      "word": "王祖贤眼睛怎么了",
-      "onboard_time": 1767524483,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 580217,
       "num": 1399643,
       "word": "江苏卫视大爆",
@@ -635,20 +659,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 540006,
-      "num": 540006,
-      "word": "尚公主",
-      "onboard_time": 1767238040,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 536292,
       "num": 536292,
       "word": "两名中国公民在日本被严重撞伤",
       "onboard_time": 1767483320,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 535373,
+      "num": 267971,
+      "word": "美国拒绝外部介入委内瑞拉",
+      "onboard_time": 1767526702,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 534844,
@@ -763,6 +787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 496892,
+      "num": 245888,
+      "word": "时代峰峻高会 泡泡",
+      "onboard_time": 1767529103,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 495862,
       "num": 2988452,
       "word": "男女主官宣完男二才追",
@@ -873,6 +905,14 @@
       "onboard_time": 1767483920,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 472303,
+      "num": 472303,
+      "word": "骄阳似我 你把我害惨了",
+      "onboard_time": 1767524423,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 471559,
@@ -1099,6 +1139,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 407481,
+      "num": 260239,
+      "word": "给赵今麦当替身后我扑进了宋威龙怀里",
+      "onboard_time": 1767527904,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 406176,
       "num": 1010089,
       "word": "发现卧室其实不应该装衣柜",
@@ -1291,6 +1339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 369161,
+      "num": 241691,
+      "word": "意大利政府称美国是正当防御",
+      "onboard_time": 1767528684,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 368104,
       "num": 318689,
       "word": "娜扎 有福气的人都不上镜",
@@ -1329,6 +1385,14 @@
       "onboard_time": 1767497902,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 359208,
+      "num": 239442,
+      "word": "杨幂杨紫迪丽热巴 2025爆剧女主",
+      "onboard_time": 1767526825,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 358567,
@@ -1457,6 +1521,14 @@
       "onboard_time": 1767272301,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 328050,
+      "num": 236670,
+      "word": "曝TOP登陆少年重组",
+      "onboard_time": 1767526404,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 326826,
@@ -1593,6 +1665,14 @@
       "onboard_time": 1767327980,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 313364,
+      "num": 252767,
+      "word": "腾讯回应元宝AI辱骂用户",
+      "onboard_time": 1767524843,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 312147,
@@ -1761,6 +1841,14 @@
       "onboard_time": 1767357020,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291330,
+      "num": 857669,
+      "word": "樊振东vs户上隼辅",
+      "onboard_time": 1767528023,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 289588,
@@ -2107,14 +2195,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 252767,
-      "num": 252767,
-      "word": "腾讯回应元宝AI辱骂用户",
-      "onboard_time": 1767524843,
-      "rank": 18,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 252643,
       "num": 1397167,
       "word": "红包分组",
@@ -2320,86 +2400,6 @@
       "word": "李在明启程赴华",
       "onboard_time": 1767503663,
       "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 230328,
-      "num": 230328,
-      "word": "唐嫣演技",
-      "onboard_time": 1767495682,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 229326,
-      "num": 220246,
-      "word": "生理性喜欢的4个无意识行为",
-      "onboard_time": 1767481818,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 229307,
-      "num": 592716,
-      "word": "钎城没上场",
-      "onboard_time": 1767356241,
-      "rank": 21,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 228554,
-      "num": 272019,
-      "word": "残疾阿姨反复撞车导致车主损失过万",
-      "onboard_time": 1767499522,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 228523,
-      "num": 1684382,
-      "word": "无畏帅就一个字",
-      "onboard_time": 1767432325,
-      "rank": 11,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 228187,
-      "num": 2641745,
-      "word": "音乐缘计划2年度盛典",
-      "onboard_time": 1767358822,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 225532,
-      "num": 160160,
-      "word": "马杜罗下飞机画面曝光",
-      "onboard_time": 1767488362,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 225445,
-      "num": 225445,
-      "word": "易梦玲陪阿哲5100领证",
-      "onboard_time": 1767517522,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 224828,
-      "num": 1003848,
-      "word": "第五人格",
-      "onboard_time": 1767261800,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 222939,
-      "num": 1027316,
-      "word": "特朗普承认服用阿司匹林",
-      "onboard_time": 1767335598,
-      "rank": 33,
       "category": "国际时政"
     }
   ],
