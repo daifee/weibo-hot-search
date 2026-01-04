@@ -1,0 +1,410 @@
+{
+  "runTime": 1767534458996,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1716026,
+        "num": 1716026,
+        "word": "爱奇艺电视剧致歉",
+        "onboard_time": 1767529643,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288869,
+        "num": 916050,
+        "word": "住房公积金会变得越来越香吗",
+        "onboard_time": 1767521062,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16330,
+        "num": 742274,
+        "word": "元旦假期661.5万人次出入境",
+        "onboard_time": 1767534264,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 446764,
+        "num": 729478,
+        "word": "2026央视春晚彩排开始了",
+        "onboard_time": 1767533664,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362639,
+        "num": 724004,
+        "word": "68岁阿姨豪掷92万养老金为男友买表",
+        "onboard_time": 1767529163,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 811994,
+        "num": 703761,
+        "word": "老人不知儿子离婚误将20万元赠儿媳",
+        "onboard_time": 1767533063,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399617,
+        "num": 679492,
+        "word": "美国拒绝外部介入委内瑞拉",
+        "onboard_time": 1767526702,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 379346,
+        "num": 675435,
+        "word": "TVB颁奖典礼",
+        "onboard_time": 1767530542,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352920,
+        "num": 652796,
+        "word": "杨幂邢菲赵丽颖兰西雅 是姐妹是知己",
+        "onboard_time": 1767528623,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206710,
+        "num": 637961,
+        "word": "樊振东vs户上隼辅",
+        "onboard_time": 1767528023,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 626145,
+        "num": 626145,
+        "word": "尚公主",
+        "onboard_time": 1767525022,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 474091,
+        "num": 474091,
+        "word": "时代峰峻高会 泡泡",
+        "onboard_time": 1767529103,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355471,
+        "num": 355471,
+        "word": "王祖贤眼睛怎么了",
+        "onboard_time": 1767524483,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294404,
+        "num": 294404,
+        "word": "骄阳似我 你把我害惨了",
+        "onboard_time": 1767524423,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233595,
+        "num": 233595,
+        "word": "郝熠然云旗直播唱歌",
+        "onboard_time": 1767531384,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223235,
+        "num": 223235,
+        "word": "杨幂杨紫迪丽热巴 2025爆剧女主",
+        "onboard_time": 1767526825,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211359,
+        "num": 211359,
+        "word": "龙麦 接二搭",
+        "onboard_time": 1767533183,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210547,
+        "num": 210547,
+        "word": "曝TOP登陆少年重组",
+        "onboard_time": 1767526404,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205379,
+        "num": 205379,
+        "word": "腾讯回应元宝AI辱骂用户",
+        "onboard_time": 1767524843,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 20761,
+        "num": 202560,
+        "word": "2026元旦假期国内出游1.42亿人次",
+        "onboard_time": 1767534024,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 781293,
+        "num": 202559,
+        "word": "胃癌几乎都是这样喂出来的",
+        "onboard_time": 1767527961,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 202257,
+        "num": 202257,
+        "word": "于正称玉茗茶骨不爆是长剧没有观众",
+        "onboard_time": 1767527723,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197873,
+        "num": 197873,
+        "word": "幼童吃15颗车厘子患急性肠胃炎",
+        "onboard_time": 1767531624,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196432,
+        "num": 196432,
+        "word": "爸爸微信有两千个置顶",
+        "onboard_time": 1767497601,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191075,
+        "num": 191075,
+        "word": "如果一个人长期不工作",
+        "onboard_time": 1767514102,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186643,
+        "num": 186643,
+        "word": "德国杯决赛",
+        "onboard_time": 1767533964,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182153,
+        "num": 182153,
+        "word": "哥伦比亚进入一级战备状态",
+        "onboard_time": 1767527842,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174643,
+        "num": 174643,
+        "word": "何炅 可以的话我还是想做个人",
+        "onboard_time": 1767532284,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415737,
+        "num": 172085,
+        "word": "给赵今麦当替身后我扑进了宋威龙怀里",
+        "onboard_time": 1767527904,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168881,
+        "num": 168881,
+        "word": "韦雪泳装",
+        "onboard_time": 1767531862,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168111,
+        "num": 168111,
+        "word": "马杜罗上台阶时痛苦呻吟",
+        "onboard_time": 1767524902,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166447,
+        "num": 166447,
+        "word": "孟子义李昀锐尚公主开工第一天",
+        "onboard_time": 1767533183,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158939,
+        "num": 158939,
+        "word": "樊振东3比1胜户上隼辅",
+        "onboard_time": 1767533964,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158455,
+        "num": 158455,
+        "word": "收到扣费600多元短信发现买过保险",
+        "onboard_time": 1767522501,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 149957,
+        "num": 156321,
+        "word": "骄阳似我",
+        "onboard_time": 1767522682,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155937,
+        "num": 155937,
+        "word": "美高官妻子暗示很快拿下格陵兰岛",
+        "onboard_time": 1767531624,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148712,
+        "num": 148712,
+        "word": "美网红暗示很快拿下格陵兰岛",
+        "onboard_time": 1767533363,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142096,
+        "num": 142096,
+        "word": "汪海声明与儿子断绝父子关系",
+        "onboard_time": 1767533363,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31115,
+        "num": 137543,
+        "word": "中使馆回应中国女子流落柬埔寨",
+        "onboard_time": 1767534323,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75308,
+        "num": 136719,
+        "word": "知名企业家汪海与儿子断绝关系",
+        "onboard_time": 1767533425,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23087,
+        "num": 136719,
+        "word": "这组数据见证活力迸发的元旦假期",
+        "onboard_time": 1767533844,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136719,
+        "num": 136718,
+        "word": "昀牵孟绕",
+        "onboard_time": 1767528444,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138087,
+        "num": 136269,
+        "word": "萨尔队德国杯决赛对阵富尔达",
+        "onboard_time": 1767533363,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133220,
+        "num": 133220,
+        "word": "家长网购40套衣服退货28套商家发声",
+        "onboard_time": 1767528023,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120903,
+        "num": 120903,
+        "word": "仙逆动画",
+        "onboard_time": 1767533664,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 116803,
+        "num": 116803,
+        "word": "苦苦找了几十年的人发现就在身边",
+        "onboard_time": 1767534203,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115819,
+        "num": 115819,
+        "word": "外交部回应美强行控制委总统夫妇",
+        "onboard_time": 1767507983,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106303,
+        "num": 106303,
+        "word": "多方回应用废止文件收地租十几亿",
+        "onboard_time": 1767531624,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103508,
+        "num": 103508,
+        "word": "三角洲部队在黑鹰坠落中损失惨重",
+        "onboard_time": 1767533245,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97379,
+        "num": 97379,
+        "word": "仙逆122",
+        "onboard_time": 1767533722,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平就瑞士瓦莱州火灾事件致慰问电#"
+    }
+  }
+}
