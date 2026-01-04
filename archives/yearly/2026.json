@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767501321852,
+  "endTime": 1767504829974,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1200620,
-      "num": 321955,
+      "num": 337826,
       "word": "爸爸微信有两千个置顶",
       "onboard_time": 1767497601,
       "rank": 5,
@@ -177,6 +177,14 @@
       "onboard_time": 1767495020,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 950928,
+      "num": 304816,
+      "word": "陈冠希怎么老成这样了",
+      "onboard_time": 1767502106,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 940105,
@@ -347,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 651165,
+      "num": 488723,
+      "word": "黄景瑜跨年上台前突发耳石症",
+      "onboard_time": 1767501744,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 638474,
       "num": 857766,
       "word": "马杜罗及其夫人已在美国被起诉",
@@ -449,6 +465,14 @@
       "onboard_time": 1767434666,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 583612,
+      "num": 271025,
+      "word": "今日委内瑞拉明日任何一国",
+      "onboard_time": 1767499703,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 580217,
@@ -572,7 +596,7 @@
     },
     {
       "raw_hot": 517226,
-      "num": 319237,
+      "num": 327171,
       "word": "特朗普称美在西半球地位再不会被质疑",
       "onboard_time": 1767496283,
       "rank": 6,
@@ -664,6 +688,14 @@
       "word": "郭芙蓉自由了",
       "onboard_time": 1767311777,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 476168,
+      "num": 334562,
+      "word": "娜扎把玉茗茶骨叫玉米排骨",
+      "onboard_time": 1767500966,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -1027,6 +1059,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 360040,
+      "num": 801724,
+      "word": "车厘子价格暴跌商家却赚麻了",
+      "onboard_time": 1767497902,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 358567,
+      "num": 333151,
+      "word": "管晨辰演短剧了",
+      "onboard_time": 1767500243,
+      "rank": 26,
+      "category": "体育,剧集"
+    },
+    {
       "raw_hot": 357944,
       "num": 791371,
       "word": "甘肃地震",
@@ -1099,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 347569,
+      "num": 347569,
+      "word": "TF荣耀之战",
+      "onboard_time": 1767502883,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 341874,
       "num": 554801,
       "word": "妈妈住院缺席儿子婚礼后病房改新房",
@@ -1115,6 +1171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 337560,
+      "num": 207922,
+      "word": "loveissoap说童锦程配不上她",
+      "onboard_time": 1767502944,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 333610,
       "num": 993169,
       "word": "长河落日开播",
@@ -1129,14 +1193,6 @@
       "onboard_time": 1767481939,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 324984,
-      "num": 324984,
-      "word": "车厘子价格暴跌商家却赚麻了",
-      "onboard_time": 1767497902,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 324453,
@@ -1323,6 +1379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 303598,
+      "num": 303598,
+      "word": "泽连斯基谈马杜罗被捕笑意难掩",
+      "onboard_time": 1767500063,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 300964,
       "num": 1006083,
       "word": "小猫生了一模一样的自己",
@@ -1345,14 +1409,6 @@
       "onboard_time": 1767449486,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 300513,
-      "num": 271025,
-      "word": "今日委内瑞拉明日任何一国",
-      "onboard_time": 1767499703,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 299362,
@@ -1424,14 +1480,6 @@
       "word": "五角大楼附近披萨订单量又升高了",
       "onboard_time": 1767425246,
       "rank": 19,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 285549,
-      "num": 225307,
-      "word": "泽连斯基谈马杜罗被捕笑意难掩",
-      "onboard_time": 1767500063,
-      "rank": 45,
       "category": "国际时政"
     },
     {
@@ -1779,6 +1827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241266,
+      "num": 241266,
+      "word": "白鹿新综录制",
+      "onboard_time": 1767502584,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239801,
       "num": 804616,
       "word": "小猫上半身基础下半身就不基础",
@@ -1817,6 +1873,14 @@
       "onboard_time": 1767494361,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 234168,
+      "num": 234168,
+      "word": "委内瑞拉石油储量世界第一",
+      "onboard_time": 1767503663,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 233903,
@@ -1881,6 +1945,14 @@
       "onboard_time": 1767356241,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 229305,
+      "num": 229305,
+      "word": "宝马官宣降价",
+      "onboard_time": 1767502584,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 228554,
@@ -2051,12 +2123,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 210704,
-      "num": 210704,
-      "word": "管晨辰演短剧了",
-      "onboard_time": 1767500243,
-      "rank": 26,
-      "category": "体育,剧集"
+      "raw_hot": 210487,
+      "num": 305609,
+      "word": "李在明启程赴华",
+      "onboard_time": 1767503663,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 209761,
@@ -2065,6 +2137,14 @@
       "onboard_time": 1767408206,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 209562,
+      "num": 209562,
+      "word": "赵丽颖一句话扎到黄晓明",
+      "onboard_time": 1767504263,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 208969,
@@ -2179,6 +2259,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 203135,
+      "num": 203135,
+      "word": "云初令",
+      "onboard_time": 1767503901,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202105,
       "num": 424027,
       "word": "委内瑞拉前内政部长身亡",
@@ -2227,6 +2315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199695,
+      "num": 199695,
+      "word": "哥伦比亚总统回怼特朗普威胁",
+      "onboard_time": 1767503901,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 199048,
       "num": 830504,
       "word": "雷军回应小米超强钢争议",
@@ -2249,6 +2345,14 @@
       "onboard_time": 1767432804,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 196756,
+      "num": 172169,
+      "word": "李在明",
+      "onboard_time": 1767495322,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 196640,
@@ -2297,110 +2401,6 @@
       "onboard_time": 1767271581,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193955,
-      "num": 405630,
-      "word": "林屿森聂曦光办公室吻",
-      "onboard_time": 1767439886,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 193523,
-      "num": 733543,
-      "word": "汪苏泷 我们",
-      "onboard_time": 1767365121,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 192938,
-      "num": 1035824,
-      "word": "吃120天蚕豆后鱼变脆了",
-      "onboard_time": 1767421587,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 191132,
-      "num": 1056703,
-      "word": "骄阳似我热度已破29000",
-      "onboard_time": 1767366331,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 190910,
-      "num": 1004035,
-      "word": "蔡磊说渐冻症的历史已被改写",
-      "onboard_time": 1767254419,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 190777,
-      "num": 2995745,
-      "word": "音乐缘计划2年度盛典后台直播",
-      "onboard_time": 1767358280,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 190705,
-      "num": 860004,
-      "word": "天云发言",
-      "onboard_time": 1767442826,
-      "rank": 11,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 190477,
-      "num": 872874,
-      "word": "闫妮廿年弹指一挥间",
-      "onboard_time": 1767359360,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 190197,
-      "num": 1701676,
-      "word": "大帅黑皮肤就得穿白色",
-      "onboard_time": 1767432325,
-      "rank": 25,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 189772,
-      "num": 1030408,
-      "word": "顶级夫妻关系是合起伙来对付这个世界",
-      "onboard_time": 1767335479,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 189468,
-      "num": 990516,
-      "word": "瑞士医院被烧伤患者淹没",
-      "onboard_time": 1767268522,
-      "rank": 20,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 189406,
-      "num": 1735592,
-      "word": "身体最不抗冻的5个部位",
-      "onboard_time": 1767431244,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 189064,
-      "num": 1396530,
-      "word": "马年",
-      "onboard_time": 1767198386,
-      "rank": 28,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -2436,6 +2436,9 @@
     },
     {
       "word": "#枝叶总关情的含义#"
+    },
+    {
+      "word": "#习近平主席2026年新年贺词启示录#"
     }
   ]
 }

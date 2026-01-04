@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767501321852,
+  "endTime": 1767504829974,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1200620,
-      "num": 321955,
+      "num": 337826,
       "word": "爸爸微信有两千个置顶",
       "onboard_time": 1767497601,
       "rank": 5,
@@ -177,6 +177,14 @@
       "onboard_time": 1767495020,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 950928,
+      "num": 304816,
+      "word": "陈冠希怎么老成这样了",
+      "onboard_time": 1767502106,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 940105,
@@ -347,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 651165,
+      "num": 488723,
+      "word": "黄景瑜跨年上台前突发耳石症",
+      "onboard_time": 1767501744,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 638474,
       "num": 857766,
       "word": "马杜罗及其夫人已在美国被起诉",
@@ -449,6 +465,14 @@
       "onboard_time": 1767434666,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 583612,
+      "num": 271025,
+      "word": "今日委内瑞拉明日任何一国",
+      "onboard_time": 1767499703,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 580217,
@@ -572,7 +596,7 @@
     },
     {
       "raw_hot": 517226,
-      "num": 319237,
+      "num": 327171,
       "word": "特朗普称美在西半球地位再不会被质疑",
       "onboard_time": 1767496283,
       "rank": 6,
@@ -664,6 +688,14 @@
       "word": "郭芙蓉自由了",
       "onboard_time": 1767311777,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 476168,
+      "num": 334562,
+      "word": "娜扎把玉茗茶骨叫玉米排骨",
+      "onboard_time": 1767500966,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -1027,6 +1059,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 360040,
+      "num": 801724,
+      "word": "车厘子价格暴跌商家却赚麻了",
+      "onboard_time": 1767497902,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 358567,
+      "num": 333151,
+      "word": "管晨辰演短剧了",
+      "onboard_time": 1767500243,
+      "rank": 26,
+      "category": "体育,剧集"
+    },
+    {
       "raw_hot": 357944,
       "num": 791371,
       "word": "甘肃地震",
@@ -1099,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 347569,
+      "num": 347569,
+      "word": "TF荣耀之战",
+      "onboard_time": 1767502883,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 341874,
       "num": 554801,
       "word": "妈妈住院缺席儿子婚礼后病房改新房",
@@ -1115,6 +1171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 337560,
+      "num": 207922,
+      "word": "loveissoap说童锦程配不上她",
+      "onboard_time": 1767502944,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 333610,
       "num": 993169,
       "word": "长河落日开播",
@@ -1129,14 +1193,6 @@
       "onboard_time": 1767481939,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 324984,
-      "num": 324984,
-      "word": "车厘子价格暴跌商家却赚麻了",
-      "onboard_time": 1767497902,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 324453,
@@ -1323,6 +1379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 303598,
+      "num": 303598,
+      "word": "泽连斯基谈马杜罗被捕笑意难掩",
+      "onboard_time": 1767500063,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 300964,
       "num": 1006083,
       "word": "小猫生了一模一样的自己",
@@ -1345,14 +1409,6 @@
       "onboard_time": 1767449486,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 300513,
-      "num": 271025,
-      "word": "今日委内瑞拉明日任何一国",
-      "onboard_time": 1767499703,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 299362,
@@ -1424,14 +1480,6 @@
       "word": "五角大楼附近披萨订单量又升高了",
       "onboard_time": 1767425246,
       "rank": 19,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 285549,
-      "num": 225307,
-      "word": "泽连斯基谈马杜罗被捕笑意难掩",
-      "onboard_time": 1767500063,
-      "rank": 45,
       "category": "国际时政"
     },
     {
@@ -1779,6 +1827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241266,
+      "num": 241266,
+      "word": "白鹿新综录制",
+      "onboard_time": 1767502584,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239801,
       "num": 804616,
       "word": "小猫上半身基础下半身就不基础",
@@ -1817,6 +1873,14 @@
       "onboard_time": 1767494361,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 234168,
+      "num": 234168,
+      "word": "委内瑞拉石油储量世界第一",
+      "onboard_time": 1767503663,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 233903,
@@ -1881,6 +1945,14 @@
       "onboard_time": 1767356241,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 229305,
+      "num": 229305,
+      "word": "宝马官宣降价",
+      "onboard_time": 1767502584,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 228554,
@@ -2051,12 +2123,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 210704,
-      "num": 210704,
-      "word": "管晨辰演短剧了",
-      "onboard_time": 1767500243,
-      "rank": 26,
-      "category": "体育,剧集"
+      "raw_hot": 210487,
+      "num": 305609,
+      "word": "李在明启程赴华",
+      "onboard_time": 1767503663,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 209761,
@@ -2065,6 +2137,14 @@
       "onboard_time": 1767408206,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 209562,
+      "num": 209562,
+      "word": "赵丽颖一句话扎到黄晓明",
+      "onboard_time": 1767504263,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 208969,
@@ -2179,6 +2259,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 203135,
+      "num": 203135,
+      "word": "云初令",
+      "onboard_time": 1767503901,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202105,
       "num": 424027,
       "word": "委内瑞拉前内政部长身亡",
@@ -2227,6 +2315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199695,
+      "num": 199695,
+      "word": "哥伦比亚总统回怼特朗普威胁",
+      "onboard_time": 1767503901,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 199048,
       "num": 830504,
       "word": "雷军回应小米超强钢争议",
@@ -2249,6 +2345,14 @@
       "onboard_time": 1767432804,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 196756,
+      "num": 172169,
+      "word": "李在明",
+      "onboard_time": 1767495322,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 196640,
@@ -2683,6 +2787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176212,
+      "num": 176212,
+      "word": "以为是心善的人结果是索命的鬼",
+      "onboard_time": 1767503543,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176112,
       "num": 851533,
       "word": "内蒙古一兔狲被大狗咬伤后死亡",
@@ -2923,14 +3035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166772,
-      "num": 166772,
-      "word": "李在明",
-      "onboard_time": 1767495322,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 166620,
       "num": 453732,
       "word": "霍启刚庄严宣誓",
@@ -3011,6 +3115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 164072,
+      "num": 164072,
+      "word": "委内瑞拉誓不当殖民地",
+      "onboard_time": 1767501684,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 163909,
       "num": 556601,
       "word": "慢跑时器官在忙什么",
@@ -3041,6 +3153,14 @@
       "onboard_time": 1767224237,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 162979,
+      "num": 162979,
+      "word": "微信状态的好用我后知后觉",
+      "onboard_time": 1767501803,
+      "rank": 27,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 162103,
@@ -3123,6 +3243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160291,
+      "num": 549838,
+      "word": "金价波动",
+      "onboard_time": 1767252739,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 160002,
       "num": 1003524,
       "word": "唐宫奇案",
@@ -3169,6 +3297,14 @@
       "onboard_time": 1767440905,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157997,
+      "num": 157997,
+      "word": "豆瓣好卡",
+      "onboard_time": 1767504023,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 157771,
@@ -3289,14 +3425,6 @@
       "onboard_time": 1767415947,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 155455,
-      "num": 155455,
-      "word": "娜扎把玉茗茶骨叫玉米排骨",
-      "onboard_time": 1767500966,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 155018,
@@ -3457,6 +3585,22 @@
       "onboard_time": 1767352280,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 149216,
+      "num": 149216,
+      "word": "空枪",
+      "onboard_time": 1767503123,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 148673,
+      "num": 148673,
+      "word": "唐嫣你别演了我害怕",
+      "onboard_time": 1767503303,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 148560,
@@ -3745,6 +3889,14 @@
       "onboard_time": 1767418227,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137417,
+      "num": 137417,
+      "word": "韩国总统李在明将访华",
+      "onboard_time": 1767504202,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 137249,
@@ -4075,12 +4227,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 127550,
+      "num": 127550,
+      "word": "车厘子 拉肚子",
+      "onboard_time": 1767502403,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 127185,
       "num": 1039041,
       "word": "宝马中国回应最高降价30万",
       "onboard_time": 1767415467,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 126901,
+      "num": 126901,
+      "word": "今屿剑与玫瑰造型帅哭了",
+      "onboard_time": 1767504082,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 126795,
@@ -4121,6 +4289,14 @@
       "onboard_time": 1767414627,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126170,
+      "num": 126170,
+      "word": "我想要的是上四休三不是休三上六",
+      "onboard_time": 1767503963,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 125884,
@@ -4435,6 +4611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118078,
+      "num": 118078,
+      "word": "经常生闷气会掏空人的气血",
+      "onboard_time": 1767501384,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 117691,
       "num": 588907,
       "word": "湖南跨晚明星全员红装",
@@ -4465,6 +4649,14 @@
       "onboard_time": 1767249260,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 117173,
+      "num": 117173,
+      "word": "美国前副总统哈里斯发表声明",
+      "onboard_time": 1767504743,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 116990,
@@ -5507,6 +5699,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 92484,
+      "num": 160349,
+      "word": "马龙说有王楚钦在很心定",
+      "onboard_time": 1767504202,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92436,
       "num": 588722,
       "word": "杨瀚森3分5篮板",
@@ -5921,14 +6121,6 @@
       "onboard_time": 1767340039,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 84855,
-      "num": 549838,
-      "word": "金价波动",
-      "onboard_time": 1767252739,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 84554,
@@ -6443,6 +6635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74891,
+      "num": 134857,
+      "word": "郑钧15岁儿子近照",
+      "onboard_time": 1767504383,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74875,
       "num": 314288,
       "word": "这份祝福含金量超高",
@@ -6841,6 +7041,14 @@
       "onboard_time": 1767328639,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 67987,
+      "num": 114271,
+      "word": "2026计薪天数",
+      "onboard_time": 1767501744,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67955,
@@ -9139,6 +9347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26773,
+      "num": 117411,
+      "word": "居民房起火63岁女子受伤送医抢救",
+      "onboard_time": 1767503062,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26269,
       "num": 839631,
       "word": "当地文旅回应东坡求学地立李白雕像",
@@ -9419,12 +9635,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 16823,
+      "num": 136545,
+      "word": "假洗涤用品生产窝点被端涉案近千万",
+      "onboard_time": 1767504383,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16560,
       "num": 606142,
       "word": "这是大国重器奏响的新年乐章",
       "onboard_time": 1767274821,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16106,
+      "num": 649846,
+      "word": "贺词里的中国",
+      "onboard_time": 1767501144,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 16025,
@@ -9507,14 +9739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 8907,
-      "num": 649846,
-      "word": "贺词里的中国",
-      "onboard_time": 1767501144,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 8012,
       "num": 97952,
       "word": "安东森2比0刘洋名宇",
@@ -9564,6 +9788,9 @@
     },
     {
       "word": "#枝叶总关情的含义#"
+    },
+    {
+      "word": "#习近平主席2026年新年贺词启示录#"
     }
   ]
 }
