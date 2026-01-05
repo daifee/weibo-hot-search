@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767631011864,
+  "endTime": 1767631991929,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1683,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 398227,
+      "num": 221527,
+      "word": "轧戏",
+      "onboard_time": 1767496704,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 397587,
       "num": 1035556,
       "word": "车厘子其实是血糖友好型水果",
@@ -2105,14 +2113,6 @@
       "onboard_time": 1767513263,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 343631,
-      "num": 221527,
-      "word": "轧戏",
-      "onboard_time": 1767496704,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 343614,

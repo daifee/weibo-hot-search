@@ -1,6 +1,6 @@
 {
   "startTime": 1767631011864,
-  "endTime": 1767631011864,
+  "endTime": 1767631991929,
   "band_list": [
     {
       "raw_hot": 436978,
@@ -19,6 +19,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 398227,
+      "num": 170388,
+      "word": "轧戏",
+      "onboard_time": 1767625704,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 371171,
       "num": 199395,
       "word": "男孩烫伤休克死亡餐馆称感冒致死",
@@ -27,12 +35,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 343631,
-      "num": 170388,
-      "word": "轧戏",
-      "onboard_time": 1767625704,
-      "rank": 10,
-      "category": "剧集"
+      "raw_hot": 313170,
+      "num": 570255,
+      "word": "上万元加拿大鹅三亚仅6900元",
+      "onboard_time": 1767627802,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 280098,
@@ -41,14 +49,6 @@
       "onboard_time": 1767621802,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 272002,
-      "num": 570255,
-      "word": "上万元加拿大鹅三亚仅6900元",
-      "onboard_time": 1767627802,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 216007,
@@ -115,7 +115,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124064,
+      "raw_hot": 127028,
+      "num": 127028,
+      "word": "山姆鳕鱼片惊现血色异物疑寄生虫",
+      "onboard_time": 1767626602,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124631,
       "num": 114936,
       "word": "白鹿锁骨发",
       "onboard_time": 1767628461,
@@ -131,20 +139,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122926,
-      "num": 122926,
-      "word": "山姆鳕鱼片惊现血色异物疑寄生虫",
-      "onboard_time": 1767626602,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120865,
       "num": 120865,
       "word": "中方回应特朗普谈格陵兰岛涉华言论",
       "onboard_time": 1767623784,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 119085,
+      "num": 114840,
+      "word": "陈思罕露额头",
+      "onboard_time": 1767630679,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 116770,
@@ -195,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90302,
+      "num": 114887,
+      "word": "马杜罗前往法庭现场画面",
+      "onboard_time": 1767627802,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 88488,
       "num": 114912,
       "word": "医生提醒4件事很伤免疫力",
@@ -209,14 +225,6 @@
       "onboard_time": 1767616343,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 75168,
-      "num": 114887,
-      "word": "马杜罗前往法庭现场画面",
-      "onboard_time": 1767627802,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 74886,
@@ -251,14 +259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68968,
-      "num": 114840,
-      "word": "陈思罕露额头",
-      "onboard_time": 1767630679,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 68662,
       "num": 114829,
       "word": "产后55天遭丈夫家暴女子发声",
@@ -280,6 +280,14 @@
       "word": "大牙回应再婚",
       "onboard_time": 1767622282,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 63506,
+      "num": 114780,
+      "word": "sakee asen",
+      "onboard_time": 1767610102,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -305,14 +313,6 @@
       "onboard_time": 1767614420,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 58068,
-      "num": 114780,
-      "word": "sakee asen",
-      "onboard_time": 1767610102,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 56258,
@@ -345,6 +345,14 @@
       "onboard_time": 1767623722,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 51768,
+      "num": 87883,
+      "word": "xg",
+      "onboard_time": 1767631398,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 48161,
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#习近平同李在明会谈#"
+    },
+    {
+      "word": "#跟随总书记的文化足迹感受文脉华章#"
     }
   ]
 }
