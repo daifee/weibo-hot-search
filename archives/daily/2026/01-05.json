@@ -1,6 +1,6 @@
 {
   "startTime": 1767544434885,
-  "endTime": 1767591677834,
+  "endTime": 1767592634061,
   "band_list": [
     {
       "raw_hot": 1158219,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 793383,
-      "num": 217301,
+      "num": 244428,
       "word": "娜扎跳舞肩带断了",
       "onboard_time": 1767588562,
       "rank": 11,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 778870,
-      "num": 402808,
+      "num": 408428,
       "word": "冰箱贴一定要经常挪挪位置",
       "onboard_time": 1767571581,
       "rank": 5,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 650637,
-      "num": 204519,
+      "num": 239874,
       "word": "小黄豆曝某男网红有口臭",
       "onboard_time": 1767583880,
       "rank": 22,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 634706,
-      "num": 223210,
+      "num": 243785,
       "word": "凶手听到量刑建议死立执才道歉",
       "onboard_time": 1767587123,
       "rank": 16,
@@ -80,6 +80,14 @@
       "word": "李在明夫人穿韩服出席晚宴",
       "onboard_time": 1767579021,
       "rank": 13,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 544794,
+      "num": 243195,
+      "word": "叙利亚",
+      "onboard_time": 1767589344,
+      "rank": 14,
       "category": "国际时政"
     },
     {
@@ -107,20 +115,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 505369,
+      "num": 505369,
+      "word": "女子怀孕每次产检发现多出一胎",
+      "onboard_time": 1767589044,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 503974,
       "num": 503974,
       "word": "麻辣烫里面全是豆",
       "onboard_time": 1767584181,
       "rank": 3,
       "category": "美食"
-    },
-    {
-      "raw_hot": 501941,
-      "num": 501941,
-      "word": "女子怀孕每次产检发现多出一胎",
-      "onboard_time": 1767589044,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 484474,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 348089,
-      "num": 225460,
+      "num": 240680,
       "word": "建议所有外卖包装都按这个强度来",
       "onboard_time": 1767586644,
       "rank": 35,
@@ -243,6 +251,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 326479,
+      "num": 430711,
+      "word": "英雄联盟",
+      "onboard_time": 1767588023,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 320424,
       "num": 320424,
       "word": "委内瑞拉首都主干道空了",
@@ -251,20 +267,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 319689,
+      "num": 242457,
+      "word": "小酒窝朵朵又合作了",
+      "onboard_time": 1767590184,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 318351,
       "num": 318351,
       "word": "TVB第一个打烂奖杯",
       "onboard_time": 1767584781,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 307481,
-      "num": 212416,
-      "word": "叙利亚",
-      "onboard_time": 1767589344,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 302579,
@@ -307,12 +323,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 271495,
-      "num": 271495,
-      "word": "英雄联盟",
-      "onboard_time": 1767588023,
-      "rank": 26,
-      "category": "游戏"
+      "raw_hot": 271145,
+      "num": 239313,
+      "word": "鲁比奥或被选为委内瑞拉总督",
+      "onboard_time": 1767591622,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 263748,
@@ -363,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245729,
+      "num": 245729,
+      "word": "英雄联盟 证书到期",
+      "onboard_time": 1767591144,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 241429,
       "num": 655099,
       "word": "李在明抵京后表态",
@@ -379,16 +403,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 233987,
-      "num": 212137,
-      "word": "鲁比奥或被选为委内瑞拉总督",
-      "onboard_time": 1767591622,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 231567,
-      "num": 199963,
+      "raw_hot": 238918,
+      "num": 238918,
       "word": "关晓彤新造型是女儿是妈妈",
       "onboard_time": 1767591503,
       "rank": 22,
@@ -427,14 +443,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 217295,
-      "num": 207834,
-      "word": "小酒窝朵朵又合作了",
-      "onboard_time": 1767590184,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 217172,
       "num": 217172,
       "word": "哥伦比亚进入一级战备状态",
@@ -452,7 +460,7 @@
     },
     {
       "raw_hot": 210649,
-      "num": 210649,
+      "num": 242116,
       "word": "辽宁一孕妇两个月内从一胎变四胞胎",
       "onboard_time": 1767587362,
       "rank": 31,
@@ -572,11 +580,19 @@
     },
     {
       "raw_hot": 186774,
-      "num": 222457,
+      "num": 241020,
       "word": "布克绝杀雷霆",
       "onboard_time": 1767585982,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186590,
+      "num": 186590,
+      "word": "痞幼被青你1选手唱哭了",
+      "onboard_time": 1767591622,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 185932,
@@ -585,6 +601,14 @@
       "onboard_time": 1767590061,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 179256,
+      "num": 245509,
+      "word": "骄阳似我一部挂羊头卖羊肉的剧",
+      "onboard_time": 1767592222,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 172784,
@@ -675,12 +699,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158752,
+      "num": 158752,
+      "word": "霍启仁妻子公开婚礼现场照",
+      "onboard_time": 1767591922,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157784,
       "num": 157784,
       "word": "何与包上恩海报",
       "onboard_time": 1767580400,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154941,
+      "num": 154941,
+      "word": "东北家里忘关水龙头变冰山",
+      "onboard_time": 1767591442,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154287,
@@ -731,20 +771,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148030,
+      "num": 148030,
+      "word": "刘宇宁朋友圈签名千万不要飘",
+      "onboard_time": 1767592103,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146169,
       "num": 146169,
       "word": "黑豹乐队创始人郭传林去世",
       "onboard_time": 1767579919,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 144846,
-      "num": 144846,
-      "word": "英雄联盟 证书到期",
-      "onboard_time": 1767591144,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 141284,
@@ -803,6 +843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135947,
+      "num": 135947,
+      "word": "海姆立克急救法更新了",
+      "onboard_time": 1767591442,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 135780,
       "num": 254999,
       "word": "男子与相亲女子强行发生关系获刑",
@@ -851,6 +899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127234,
+      "num": 127234,
+      "word": "王俊凯 祖师爷配平文学",
+      "onboard_time": 1767591263,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124666,
       "num": 195233,
       "word": "男子驾车蓄意撞死高中生被判死刑",
@@ -889,14 +945,6 @@
       "onboard_time": 1767532943,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 118441,
-      "num": 118441,
-      "word": "东北家里忘关水龙头变冰山",
-      "onboard_time": 1767591442,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116944,
@@ -1043,14 +1091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96301,
-      "num": 96301,
-      "word": "海姆立克急救法更新了",
-      "onboard_time": 1767591442,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 93936,
       "num": 93936,
       "word": "赵今麦穿宋威龙衣服",
@@ -1131,14 +1171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82484,
-      "num": 89784,
-      "word": "痞幼被青你1选手唱哭了",
-      "onboard_time": 1767591622,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 82154,
       "num": 189713,
       "word": "于正称玉茗茶骨不爆是长剧没有观众",
@@ -1187,6 +1219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 79271,
+      "num": 79271,
+      "word": "陈妍希早期和工作人员互动",
+      "onboard_time": 1767592463,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79142,
       "num": 189162,
       "word": "梅尼耶要办婚礼了",
@@ -1233,6 +1273,14 @@
       "onboard_time": 1767543142,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75378,
+      "num": 75378,
+      "word": "T1新队服公开",
+      "onboard_time": 1767592222,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 74311,
@@ -1380,7 +1428,7 @@
     },
     {
       "raw_hot": 59520,
-      "num": 89733,
+      "num": 91987,
       "word": "车厘子买回家存放不宜超3天",
       "onboard_time": 1767588562,
       "rank": 48,
@@ -1393,6 +1441,14 @@
       "onboard_time": 1767568277,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 58378,
+      "num": 92378,
+      "word": "湖人双杀灰熊",
+      "onboard_time": 1767592522,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 58095,
@@ -1451,12 +1507,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 53376,
-      "num": 96664,
-      "word": "王俊凯 祖师爷配平文学",
-      "onboard_time": 1767591263,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 52205,
+      "num": 75303,
+      "word": "A股脑机接口概念集体爆发",
+      "onboard_time": 1767590184,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 52102,
@@ -1492,7 +1548,7 @@
     },
     {
       "raw_hot": 49816,
-      "num": 220447,
+      "num": 243609,
       "word": "肖战新国风封神",
       "onboard_time": 1767587664,
       "rank": 18,
@@ -1553,6 +1609,14 @@
       "onboard_time": 1767568098,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 41099,
+      "num": 240003,
+      "word": "委内瑞拉遭美军空袭后现场图",
+      "onboard_time": 1767591743,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 38321,
