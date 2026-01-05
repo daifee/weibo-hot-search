@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767570098881,
+  "endTime": 1767579959989,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -187,6 +187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 778870,
+      "num": 402808,
+      "word": "冰箱贴一定要经常挪挪位置",
+      "onboard_time": 1767571581,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 768109,
       "num": 1122897,
       "word": "车厘子 褪黑素",
@@ -321,6 +329,14 @@
       "onboard_time": 1767507262,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 552657,
+      "num": 1088425,
+      "word": "小城大事定档",
+      "onboard_time": 1767578240,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 543056,
@@ -563,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 427174,
+      "num": 427174,
+      "word": "窈窈有期官宣",
+      "onboard_time": 1767578599,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 426880,
       "num": 820928,
       "word": "委内瑞拉",
@@ -609,6 +633,14 @@
       "onboard_time": 1767451766,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 411474,
+      "num": 411474,
+      "word": "车厘子铁含量超柑橘10倍",
+      "onboard_time": 1767573563,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 404975,
@@ -721,6 +753,14 @@
       "onboard_time": 1767499104,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 365395,
+      "num": 207761,
+      "word": "高三男生被邻居驾车撞伤1年多身亡",
+      "onboard_time": 1767577100,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 363403,
@@ -915,6 +955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 298193,
+      "num": 774071,
+      "word": "为啥车厘子1个月到中国都不腐烂",
+      "onboard_time": 1767541943,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 297908,
       "num": 887943,
       "word": "92年小伙回应领养12岁外甥女初衷",
@@ -1017,6 +1065,22 @@
       "onboard_time": 1767514223,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263748,
+      "num": 124784,
+      "word": "黄金再度直线猛拉",
+      "onboard_time": 1767575840,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 262904,
+      "num": 262904,
+      "word": "特朗普说绝对需要格陵兰岛",
+      "onboard_time": 1767570620,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 262444,
@@ -1203,20 +1267,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 228963,
-      "num": 573283,
-      "word": "为啥车厘子1个月到中国都不腐烂",
-      "onboard_time": 1767541943,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 228554,
       "num": 272019,
       "word": "残疾阿姨反复撞车导致车主损失过万",
       "onboard_time": 1767499522,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228129,
+      "num": 207416,
+      "word": "马杜罗大部分安保人员死于美军侵略",
+      "onboard_time": 1767573143,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 226613,
@@ -1291,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209004,
+      "num": 209004,
+      "word": "春节连休9天高速免费",
+      "onboard_time": 1767578420,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208911,
       "num": 208911,
       "word": "萨尔队德国杯决赛对阵富尔达",
@@ -1363,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200023,
+      "num": 200023,
+      "word": "这就是心脏支架",
+      "onboard_time": 1767573143,
+      "rank": 11,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 199535,
       "num": 270869,
       "word": "知名企业家汪海与儿子断绝关系",
@@ -1419,6 +1499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196836,
+      "num": 124552,
+      "word": "演员安圣基去世",
+      "onboard_time": 1767576440,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195621,
       "num": 195621,
       "word": "小寒",
@@ -1427,12 +1515,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195470,
+      "num": 195470,
+      "word": "委内瑞拉首都主干道空了",
+      "onboard_time": 1767577641,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 195399,
       "num": 195399,
       "word": "唐嫣你别演了我害怕",
       "onboard_time": 1767503303,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195042,
+      "num": 195042,
+      "word": "李在明夫人穿韩服出席晚宴",
+      "onboard_time": 1767579021,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 194829,
@@ -1529,6 +1633,14 @@
       "onboard_time": 1767524902,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 183929,
+      "num": 183929,
+      "word": "太原一商场马年雕塑被连夜拆除",
+      "onboard_time": 1767578540,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183870,
@@ -1731,6 +1843,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 165622,
+      "num": 165622,
+      "word": "美国法院称马杜罗将于5日在纽约出庭",
+      "onboard_time": 1767575121,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 165534,
+      "num": 165534,
+      "word": "A股",
+      "onboard_time": 1767577939,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 164724,
       "num": 164724,
       "word": "骄阳似我开超点了",
@@ -1801,6 +1929,14 @@
       "onboard_time": 1767529824,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161228,
+      "num": 161228,
+      "word": "黄金",
+      "onboard_time": 1767579621,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 160389,
@@ -2044,7 +2180,7 @@
     },
     {
       "raw_hot": 140417,
-      "num": 78676,
+      "num": 103033,
       "word": "29岁女子呕吐水肿一查患上尿毒症",
       "onboard_time": 1767568157,
       "rank": 30,
@@ -2153,6 +2289,14 @@
       "onboard_time": 1767490101,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130503,
+      "num": 130503,
+      "word": "金饰价格涨到1376元",
+      "onboard_time": 1767578960,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 130381,
@@ -2275,6 +2419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124222,
+      "num": 124222,
+      "word": "为啥有人吃车厘子拉肚子",
+      "onboard_time": 1767576860,
+      "rank": 22,
+      "category": "美食,健康医疗"
+    },
+    {
       "raw_hot": 123813,
       "num": 123813,
       "word": "坏了让他读到真大学了",
@@ -2312,6 +2464,14 @@
       "word": "一句看不懂让我连看十二集",
       "onboard_time": 1767522443,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 122460,
+      "num": 122460,
+      "word": "佘诗曼获奖大哭",
+      "onboard_time": 1767578420,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -2523,6 +2683,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 108848,
+      "num": 108848,
+      "word": "车厘子贴着4J撕下标签印着2JD",
+      "onboard_time": 1767569539,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108597,
       "num": 252490,
       "word": "樊振东率队晋级德国杯决赛",
@@ -2561,6 +2729,14 @@
       "onboard_time": 1767519502,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 106456,
+      "num": 106456,
+      "word": "原来腰疼是因为屁股肌肉弱",
+      "onboard_time": 1767578420,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 105837,
@@ -2627,12 +2803,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 103422,
+      "num": 103422,
+      "word": "骄阳似我云合",
+      "onboard_time": 1767571100,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102768,
       "num": 102768,
       "word": "淮阴工学院更名淮安大学",
       "onboard_time": 1767529343,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 102346,
+      "num": 102346,
+      "word": "老鼠咬开包装偷吃面粉与人四目相对",
+      "onboard_time": 1767577580,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101381,
@@ -2939,6 +3131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92742,
+      "num": 92742,
+      "word": "男子查胆结石发现自己是镜面人",
+      "onboard_time": 1767576199,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92708,
       "num": 215380,
       "word": "2026小鹏全球新品发布会定档1月8日",
@@ -2947,12 +3147,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 92708,
+      "num": 92708,
+      "word": "樊振东希望还能再打一次德国杯",
+      "onboard_time": 1767577521,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91974,
       "num": 91974,
       "word": "papi 幸福不是一切人还有责任",
       "onboard_time": 1767521243,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91088,
+      "num": 91088,
+      "word": "商业航天概念大面积高开",
+      "onboard_time": 1767578960,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 90993,
@@ -3075,6 +3291,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 87206,
+      "num": 87206,
+      "word": "宋威龙赵今麦给女儿星恒说的话",
+      "onboard_time": 1767577700,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87178,
       "num": 96514,
       "word": "白宫附近披萨订单也爆了",
@@ -3113,6 +3337,14 @@
       "onboard_time": 1767522443,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84337,
+      "num": 84337,
+      "word": "23岁女孩遇车祸脑疝母亲下跪托付",
+      "onboard_time": 1767579021,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83861,
@@ -3187,6 +3419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79969,
+      "num": 79969,
+      "word": "黄宗泽哭了",
+      "onboard_time": 1767578780,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 79366,
       "num": 802141,
       "word": "鸡蛋每周吃够这个量心脏血管都受益",
@@ -3209,6 +3449,14 @@
       "onboard_time": 1767510022,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 78435,
+      "num": 79960,
+      "word": "Faker定制版跑车太帅了",
+      "onboard_time": 1767568217,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 77119,
@@ -3307,12 +3555,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68188,
-      "num": 68188,
-      "word": "车厘子贴着4J撕下标签印着2JD",
-      "onboard_time": 1767569539,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 68363,
+      "num": 79914,
+      "word": "贵州茅台新公司名叫爱茅台",
+      "onboard_time": 1767579320,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 67238,
@@ -3328,6 +3576,14 @@
       "word": "太平洋警察改行当绑匪了",
       "onboard_time": 1767451586,
       "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 66672,
+      "num": 79898,
+      "word": "特朗普对委代理总统发出威胁",
+      "onboard_time": 1767576380,
+      "rank": 45,
       "category": "国际时政"
     },
     {
@@ -3347,12 +3603,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65182,
+      "num": 79893,
+      "word": "丹麦称美国无权吞并格陵兰岛",
+      "onboard_time": 1767574341,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 64990,
       "num": 788210,
       "word": "一诺五获KPL年度最佳发育路",
       "onboard_time": 1767452786,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 64942,
+      "num": 79882,
+      "word": "黑豹乐队创始人郭传林去世",
+      "onboard_time": 1767579919,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 64881,
@@ -3393,14 +3665,6 @@
       "onboard_time": 1767521662,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61313,
-      "num": 61313,
-      "word": "Faker定制版跑车太帅了",
-      "onboard_time": 1767568217,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 61294,
@@ -3843,6 +4107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 34090,
+      "num": 79952,
+      "word": "蓬莱回应一饭店2年后被曝再宰客",
+      "onboard_time": 1767578721,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 33504,
       "num": 136545,
       "word": "假洗涤用品生产窝点被端涉案近千万",
@@ -3971,20 +4243,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23342,
+      "num": 624939,
+      "word": "这组数据见证活力迸发的元旦假期",
+      "onboard_time": 1767533844,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23253,
       "num": 138948,
       "word": "怪奇物语大结局",
       "onboard_time": 1767464835,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 23087,
-      "num": 537956,
-      "word": "这组数据见证活力迸发的元旦假期",
-      "onboard_time": 1767533844,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22342,
