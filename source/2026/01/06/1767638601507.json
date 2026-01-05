@@ -1,0 +1,410 @@
+{
+  "runTime": 1767638601507,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 88378,
+        "num": 119765,
+        "word": "上万元加拿大鹅三亚仅6900元",
+        "onboard_time": 1767627802,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81950,
+        "num": 89046,
+        "word": "女子发现超市漏洞薅了20多万",
+        "onboard_time": 1767617841,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10535,
+        "num": 67731,
+        "word": "实施绿色消费推进行动",
+        "onboard_time": 1767618681,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126848,
+        "num": 58175,
+        "word": "23岁女导演柬埔寨坠楼身亡",
+        "onboard_time": 1767625043,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 43770,
+        "num": 43770,
+        "word": "美国副总统万斯住所遭袭击",
+        "onboard_time": 1767620302,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76823,
+        "num": 43700,
+        "word": "马杜罗出庭",
+        "onboard_time": 1767618021,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62802,
+        "num": 43635,
+        "word": "男孩烫伤休克死亡餐馆称感冒致死",
+        "onboard_time": 1767626602,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61285,
+        "num": 43558,
+        "word": "助产士说剪断手指是因为新生儿乱动",
+        "onboard_time": 1767620543,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35443,
+        "num": 43395,
+        "word": "女子花8.5万买爱马仕发现五金磨损",
+        "onboard_time": 1767620662,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60548,
+        "num": 43281,
+        "word": "断指新生儿父亲拒绝医院10万赔偿",
+        "onboard_time": 1767624683,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111172,
+        "num": 43252,
+        "word": "轧戏",
+        "onboard_time": 1767625704,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45898,
+        "num": 43101,
+        "word": "马杜罗前往法庭现场画面",
+        "onboard_time": 1767627802,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 43064,
+        "num": 43064,
+        "word": "骄阳似我30集封神",
+        "onboard_time": 1767619281,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36720,
+        "num": 36720,
+        "word": "父母一个月内相继离世女孩独自报丧",
+        "onboard_time": 1767617901,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36318,
+        "num": 36318,
+        "word": "剪断男婴手指助产士已停职",
+        "onboard_time": 1767621203,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35201,
+        "num": 35201,
+        "word": "中方回应特朗普谈格陵兰岛涉华言论",
+        "onboard_time": 1767623784,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 34571,
+        "num": 34571,
+        "word": "谢谢骄阳似我剧粉",
+        "onboard_time": 1767636976,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31368,
+        "num": 34534,
+        "word": "凶手杀害29岁女子后电梯内唱歌",
+        "onboard_time": 1767619403,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29943,
+        "num": 34504,
+        "word": "庄序 自卑",
+        "onboard_time": 1767630679,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26550,
+        "num": 34469,
+        "word": "产后55天遭丈夫家暴女子发声",
+        "onboard_time": 1767615382,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74765,
+        "num": 34405,
+        "word": "张凌赫跨年表演在外网爆火",
+        "onboard_time": 1767621802,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38765,
+        "num": 34363,
+        "word": "白鹿锁骨发",
+        "onboard_time": 1767628461,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34359,
+        "num": 34359,
+        "word": "xg",
+        "onboard_time": 1767631398,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 32202,
+        "num": 34356,
+        "word": "陈思罕露额头",
+        "onboard_time": 1767630679,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31873,
+        "num": 34348,
+        "word": "孙子因手机损坏犯癫痫奶奶哭求维修",
+        "onboard_time": 1767623784,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31197,
+        "num": 34334,
+        "word": "sakee asen",
+        "onboard_time": 1767610102,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25831,
+        "num": 34325,
+        "word": "医生提醒4件事很伤免疫力",
+        "onboard_time": 1767623063,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25263,
+        "num": 34316,
+        "word": "实在不行过年让孩子穿校服吧",
+        "onboard_time": 1767621563,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25113,
+        "num": 34312,
+        "word": "宋威龙穿搭",
+        "onboard_time": 1767626302,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24745,
+        "num": 34297,
+        "word": "秦霄贤直播",
+        "onboard_time": 1767620302,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24084,
+        "num": 34292,
+        "word": "山姆鳕鱼片惊现血色异物疑寄生虫",
+        "onboard_time": 1767626602,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23459,
+        "num": 34279,
+        "word": "广东的十度有多冷",
+        "onboard_time": 1767616343,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23350,
+        "num": 34271,
+        "word": "瑞士冻结马杜罗在瑞资产",
+        "onboard_time": 1767614420,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22717,
+        "num": 34266,
+        "word": "中方谴责美国侵犯委内瑞拉主权",
+        "onboard_time": 1767635057,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22355,
+        "num": 34257,
+        "word": "庄序没有回聂曦光短信",
+        "onboard_time": 1767627922,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21125,
+        "num": 34250,
+        "word": "轧戏定档",
+        "onboard_time": 1767617600,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20516,
+        "num": 34241,
+        "word": "小英回应找男朋友",
+        "onboard_time": 1767637695,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 20430,
+        "num": 34227,
+        "word": "安徽542万彩票大奖兑奖仅剩2天",
+        "onboard_time": 1767628520,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20202,
+        "num": 34219,
+        "word": "导演猫的树这几个字还是太权威了",
+        "onboard_time": 1767619403,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19899,
+        "num": 34207,
+        "word": "官方通报新生儿被剪断手指",
+        "onboard_time": 1767619642,
+        "rank": 39,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 19716,
+        "num": 34205,
+        "word": "大牙回应再婚",
+        "onboard_time": 1767622282,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19198,
+        "num": 34191,
+        "word": "爸爸低头玩手机孩子冲上马路被撞",
+        "onboard_time": 1767623784,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19125,
+        "num": 34180,
+        "word": "王源客厅狂欢跨年演唱会",
+        "onboard_time": 1767629482,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18236,
+        "num": 34174,
+        "word": "春晚彩排路透",
+        "onboard_time": 1767605002,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17491,
+        "num": 34161,
+        "word": "庄序结局",
+        "onboard_time": 1767627262,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16724,
+        "num": 34153,
+        "word": "DRG官宣早点退役",
+        "onboard_time": 1767621683,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16494,
+        "num": 34145,
+        "word": "国漫首位麻花辫男主",
+        "onboard_time": 1767619582,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 16087,
+        "num": 34142,
+        "word": "美国惦记格陵兰岛却甩锅中国",
+        "onboard_time": 1767623722,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15957,
+        "num": 34127,
+        "word": "轧戏东方卫视播出",
+        "onboard_time": 1767634517,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12698,
+        "num": 34116,
+        "word": "约克超远三分绝杀广东",
+        "onboard_time": 1767626483,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟随总书记的文化足迹感受文脉华章#"
+    }
+  }
+}

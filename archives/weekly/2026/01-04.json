@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767635227572,
+  "endTime": 1767638601507,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -6731,6 +6731,14 @@
       "category": "互联网,汽车"
     },
     {
+      "raw_hot": 34571,
+      "num": 34571,
+      "word": "谢谢骄阳似我剧粉",
+      "onboard_time": 1767636976,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 34270,
       "num": 765811,
       "word": "心疼年锦",
@@ -7083,6 +7091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20516,
+      "num": 34241,
+      "word": "小英回应找男朋友",
+      "onboard_time": 1767637695,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 20347,
       "num": 649846,
       "word": "贺词里的中国",
@@ -7137,6 +7153,14 @@
       "onboard_time": 1767514702,
       "rank": 39,
       "category": "民生新闻,数码"
+    },
+    {
+      "raw_hot": 15957,
+      "num": 34127,
+      "word": "轧戏东方卫视播出",
+      "onboard_time": 1767634517,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 15518,
