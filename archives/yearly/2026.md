@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/05 23:33:16
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/05 23:47:49
 </p>
 </blockquote>
 <p>
@@ -1239,6 +1239,12 @@ iPhone千万别删的自带软件（热度：474519）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%AD%E6%8C%87%E6%96%B0%E7%94%9F%E5%84%BF%E7%88%B6%E4%BA%B2%E6%8B%92%E7%BB%9D%E5%8C%BB%E9%99%A210%E4%B8%87%E8%B5%94%E5%81%BF%23" target="weibo">
+断指新生儿父亲拒绝医院10万赔偿（热度：405330）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%AA%E5%A5%87%E7%89%A9%E8%AF%AD%23" target="weibo">
 怪奇物语（热度：405001）
 </a>
@@ -1805,12 +1811,6 @@ TVB第一个打烂奖杯（热度：318351）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%85%AE%E6%96%B9%E4%BE%BF%E9%9D%A2%E7%AA%81%E7%84%B6%E5%8F%91%E7%8E%B0%E5%93%AA%E9%87%8C%E4%B8%8D%E5%AF%B9%E5%8A%B2%23" target="weibo">
 煮方便面突然发现哪里不对劲（热度：310239）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%20%E6%88%91%E6%85%A2%E6%85%A2%E7%AD%89%E5%88%B0%E8%94%A1%E4%BE%9D%E6%9E%97%E7%9A%84%E9%82%A3%E4%B8%80%E5%A4%A9%23" target="weibo">
-何炅 我慢慢等到蔡依林的那一天（热度：309469）
 </a>
 </li>
 
