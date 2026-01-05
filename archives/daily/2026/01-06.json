@@ -1,6 +1,6 @@
 {
   "startTime": 1767631011864,
-  "endTime": 1767648567175,
+  "endTime": 1767649449725,
   "band_list": [
     {
       "raw_hot": 436978,
@@ -459,6 +459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 19606,
+      "num": 20174,
+      "word": "聂曦光爸爸怀疑聂曦光",
+      "onboard_time": 1767646154,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 16918,
       "num": 28484,
       "word": "肖战东方卫视跨年名场面盘点来啦",
@@ -483,14 +491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 14653,
-      "num": 18976,
-      "word": "聂曦光爸爸怀疑聂曦光",
-      "onboard_time": 1767646154,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 14232,
       "num": 28475,
       "word": "逍遥",
@@ -499,7 +499,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 9208,
+      "raw_hot": 10194,
       "num": 21042,
       "word": "CBA",
       "onboard_time": 1767623243,
@@ -507,8 +507,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 5820,
-      "num": 84468,
+      "raw_hot": 5842,
+      "num": 110173,
       "word": "长江经济带交出发展十年亮丽答卷",
       "onboard_time": 1767604102,
       "rank": 2,

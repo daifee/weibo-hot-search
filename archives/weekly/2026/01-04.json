@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767648567175,
+  "endTime": 1767649449725,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -7115,6 +7115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19606,
+      "num": 20174,
+      "word": "聂曦光爸爸怀疑聂曦光",
+      "onboard_time": 1767646154,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19415,
       "num": 121565,
       "word": "特朗普抓获马杜罗的前因后果",
@@ -7185,14 +7193,6 @@
       "onboard_time": 1767552375,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 14653,
-      "num": 18976,
-      "word": "聂曦光爸爸怀疑聂曦光",
-      "onboard_time": 1767646154,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 14559,
