@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/05 23:47:49
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/06 00:36:51
 </p>
 </blockquote>
 <p>
@@ -1125,6 +1125,12 @@ iPhone千万别删的自带软件（热度：474519）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2323%E5%B2%81%E5%A5%B3%E5%AF%BC%E6%BC%94%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23" target="weibo">
+23岁女导演柬埔寨坠楼身亡（热度：436978）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%89%8D%E5%89%AF%E6%80%BB%E7%BB%9F%E5%93%88%E9%87%8C%E6%96%AF%E5%8F%91%E8%A1%A8%E5%A3%B0%E6%98%8E%23" target="weibo">
 美国前副总统哈里斯发表声明（热度：436427）
 </a>
@@ -1401,6 +1407,12 @@ TF荣耀之战（热度：372589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%83%AB%E4%BC%A4%E4%BC%91%E5%85%8B%E6%AD%BB%E4%BA%A1%E9%A4%90%E9%A6%86%E7%A7%B0%E6%84%9F%E5%86%92%E8%87%B4%E6%AD%BB%23" target="weibo">
+男孩烫伤休克死亡餐馆称感冒致死（热度：371171）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%B8%8D%E5%90%8C%E8%88%9F%E6%B8%A1%23" target="weibo">
 何不同舟渡（热度：370681）
 </a>
@@ -1577,6 +1589,12 @@ WB对战RW（热度：355689）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%20%E5%A5%B3%E6%9C%AC%E4%BD%8D%23" target="weibo">
 谢娜 女本位（热度：347833）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A7%E6%88%8F%23" target="weibo">
+轧戏（热度：343631）
 </a>
 </li>
 
@@ -1793,24 +1811,6 @@ TVB第一个打烂奖杯（热度：318351）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%96%23" target="weibo">
 无限暖暖（热度：314272）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E5%85%83%E5%AE%9DAI%E8%BE%B1%E9%AA%82%E7%94%A8%E6%88%B7%23" target="weibo">
-腾讯回应元宝AI辱骂用户（热度：313364）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%88%E8%82%A5%E4%B8%8B%E9%9B%AA%23" target="weibo">
-合肥下雪（热度：312147）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%85%AE%E6%96%B9%E4%BE%BF%E9%9D%A2%E7%AA%81%E7%84%B6%E5%8F%91%E7%8E%B0%E5%93%AA%E9%87%8C%E4%B8%8D%E5%AF%B9%E5%8A%B2%23" target="weibo">
-煮方便面突然发现哪里不对劲（热度：310239）
 </a>
 </li>
 

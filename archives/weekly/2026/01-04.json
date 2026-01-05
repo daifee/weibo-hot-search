@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767628069006,
+  "endTime": 1767631011864,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -883,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 436978,
+      "num": 436978,
+      "word": "23岁女导演柬埔寨坠楼身亡",
+      "onboard_time": 1767625043,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 436427,
       "num": 309841,
       "word": "美国前副总统哈里斯发表声明",
@@ -1131,6 +1139,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 371171,
+      "num": 206638,
+      "word": "男孩烫伤休克死亡餐馆称感冒致死",
+      "onboard_time": 1767626602,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 370427,
       "num": 302668,
       "word": "哥伦比亚进入一级战备状态",
@@ -1273,6 +1289,14 @@
       "onboard_time": 1767513263,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 343631,
+      "num": 221527,
+      "word": "轧戏",
+      "onboard_time": 1767496704,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 343614,
@@ -1483,14 +1507,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 302315,
-      "num": 221527,
-      "word": "轧戏",
-      "onboard_time": 1767496704,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 300684,
       "num": 268368,
       "word": "太原一商场马年雕塑被连夜拆除",
@@ -1665,6 +1681,14 @@
       "onboard_time": 1767527723,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 272002,
+      "num": 570255,
+      "word": "上万元加拿大鹅三亚仅6900元",
+      "onboard_time": 1767627802,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 271655,
@@ -2065,14 +2089,6 @@
       "onboard_time": 1767448767,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 224824,
-      "num": 228268,
-      "word": "23岁女导演柬埔寨坠楼身亡",
-      "onboard_time": 1767625043,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 222702,
@@ -2873,14 +2889,6 @@
       "onboard_time": 1767531862,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168445,
-      "num": 206638,
-      "word": "男孩烫伤休克死亡餐馆称感冒致死",
-      "onboard_time": 1767626602,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168411,
@@ -3915,6 +3923,14 @@
       "category": "美食,健康医疗"
     },
     {
+      "raw_hot": 124064,
+      "num": 114936,
+      "word": "白鹿锁骨发",
+      "onboard_time": 1767628461,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123813,
       "num": 123813,
       "word": "坏了让他读到真大学了",
@@ -3953,6 +3969,14 @@
       "onboard_time": 1767501384,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 122926,
+      "num": 205678,
+      "word": "山姆鳕鱼片惊现血色异物疑寄生虫",
+      "onboard_time": 1767626602,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122797,
@@ -4339,6 +4363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107958,
+      "num": 206230,
+      "word": "宋威龙穿搭",
+      "onboard_time": 1767626302,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107848,
       "num": 107848,
       "word": "差点没认出来这是李施嬅",
@@ -4657,14 +4689,6 @@
       "onboard_time": 1767524722,
       "rank": 47,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 99548,
-      "num": 206230,
-      "word": "宋威龙穿搭",
-      "onboard_time": 1767626302,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 99543,
@@ -5723,14 +5747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77616,
-      "num": 205678,
-      "word": "山姆鳕鱼片惊现血色异物疑寄生虫",
-      "onboard_time": 1767626602,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77119,
       "num": 114632,
       "word": "为什么说在东北孩子走不丢",
@@ -5787,6 +5803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 75168,
+      "num": 114887,
+      "word": "马杜罗前往法庭现场画面",
+      "onboard_time": 1767627802,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 74750,
       "num": 74750,
       "word": "让1天变3天的邪修方法",
@@ -5827,6 +5851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72047,
+      "num": 114858,
+      "word": "庄序 自卑",
+      "onboard_time": 1767630679,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 71972,
       "num": 195563,
       "word": "2026计薪天数",
@@ -5857,6 +5889,14 @@
       "onboard_time": 1767483320,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 69677,
+      "num": 114853,
+      "word": "安徽542万彩票大奖兑奖仅剩2天",
+      "onboard_time": 1767628520,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69316,
@@ -5897,6 +5937,14 @@
       "onboard_time": 1767605780,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68968,
+      "num": 114840,
+      "word": "陈思罕露额头",
+      "onboard_time": 1767630679,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 68363,
@@ -6211,6 +6259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 55898,
+      "num": 114755,
+      "word": "王源客厅狂欢跨年演唱会",
+      "onboard_time": 1767629482,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 55625,
       "num": 426652,
       "word": "俄强烈敦促美国释放马杜罗",
@@ -6363,6 +6419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48161,
+      "num": 114733,
+      "word": "追现偶送民偶",
+      "onboard_time": 1767629001,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 47773,
       "num": 776458,
       "word": "雷军直播",
@@ -6475,6 +6539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 41795,
+      "num": 205121,
+      "word": "中国女子被困也门机票酒店都不能退",
+      "onboard_time": 1767627141,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41297,
       "num": 429872,
       "word": "拖米说KPL是国内第一赛事",
@@ -6547,14 +6619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38542,
-      "num": 174873,
-      "word": "上万元加拿大鹅三亚仅6900元",
-      "onboard_time": 1767627802,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38507,
       "num": 57561,
       "word": "小米汽车26年目标55万",
@@ -6585,6 +6649,14 @@
       "onboard_time": 1767604281,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 37156,
+      "num": 114694,
+      "word": "国漫首位麻花辫男主",
+      "onboard_time": 1767619582,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 37068,
@@ -6913,14 +6985,6 @@
       "onboard_time": 1767599181,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 22459,
-      "num": 205121,
-      "word": "中国女子被困也门机票酒店都不能退",
-      "onboard_time": 1767627141,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22342,
