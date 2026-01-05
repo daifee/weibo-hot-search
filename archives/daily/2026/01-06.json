@@ -1,6 +1,6 @@
 {
   "startTime": 1767631011864,
-  "endTime": 1767652167308,
+  "endTime": 1767653203503,
   "band_list": [
     {
       "raw_hot": 436978,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 215063,
-      "num": 293009,
+      "num": 364150,
       "word": "美国副总统万斯住所遭袭击",
       "onboard_time": 1767620302,
       "rank": 4,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 114982,
-      "num": 114982,
+      "num": 156302,
       "word": "女子花8.5万买爱马仕发现五金磨损",
       "onboard_time": 1767620662,
       "rank": 17,
@@ -267,7 +267,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68662,
+      "raw_hot": 68668,
       "num": 114829,
       "word": "产后55天遭丈夫家暴女子发声",
       "onboard_time": 1767615382,
@@ -323,6 +323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 57794,
+      "num": 44603,
+      "word": "小英回应找男朋友",
+      "onboard_time": 1767637695,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 56258,
       "num": 114772,
       "word": "官方通报新生儿被剪断手指",
@@ -353,14 +361,6 @@
       "onboard_time": 1767623722,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 52956,
-      "num": 38762,
-      "word": "小英回应找男朋友",
-      "onboard_time": 1767637695,
-      "rank": 36,
-      "category": "网红"
     },
     {
       "raw_hot": 48161,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 41227,
-      "num": 34571,
+      "num": 43692,
       "word": "谢谢骄阳似我剧粉",
       "onboard_time": 1767636976,
       "rank": 16,
@@ -419,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31157,
+      "num": 51037,
+      "word": "中方谴责美国侵犯委内瑞拉主权",
+      "onboard_time": 1767635057,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 26239,
       "num": 63446,
       "word": "刘宇宁千鸟格大衣春晚彩排路透",
@@ -436,19 +444,19 @@
     },
     {
       "raw_hot": 25678,
-      "num": 31588,
+      "num": 43823,
       "word": "聂曦光爸爸怀疑聂曦光",
       "onboard_time": 1767646154,
       "rank": 31,
       "category": "剧集"
     },
     {
-      "raw_hot": 24749,
-      "num": 51037,
-      "word": "中方谴责美国侵犯委内瑞拉主权",
-      "onboard_time": 1767635057,
-      "rank": 45,
-      "category": "国际时政"
+      "raw_hot": 24164,
+      "num": 43772,
+      "word": "肖战东方卫视跨年名场面盘点来啦",
+      "onboard_time": 1767635595,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 23758,
@@ -467,16 +475,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 19549,
-      "num": 31582,
-      "word": "肖战东方卫视跨年名场面盘点来啦",
-      "onboard_time": 1767635595,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 16232,
-      "num": 31576,
+      "num": 43642,
       "word": "欢迎李在明访华",
       "onboard_time": 1767643034,
       "rank": 33,
@@ -491,24 +491,24 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 14232,
-      "num": 31568,
+      "raw_hot": 14759,
+      "num": 43597,
       "word": "逍遥",
       "onboard_time": 1767639314,
       "rank": 48,
       "category": "剧集"
     },
     {
-      "raw_hot": 12091,
-      "num": 31566,
+      "raw_hot": 12588,
+      "num": 43549,
       "word": "CBA",
       "onboard_time": 1767623243,
       "rank": 49,
       "category": "体育"
     },
     {
-      "raw_hot": 5842,
-      "num": 233458,
+      "raw_hot": 6228,
+      "num": 293387,
       "word": "长江经济带交出发展十年亮丽答卷",
       "onboard_time": 1767604102,
       "rank": 2,
