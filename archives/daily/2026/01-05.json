@@ -1,10 +1,10 @@
 {
   "startTime": 1767544434885,
-  "endTime": 1767621012082,
+  "endTime": 1767621502821,
   "band_list": [
     {
-      "raw_hot": 1203332,
-      "num": 1203332,
+      "raw_hot": 1236208,
+      "num": 1236208,
       "word": "女子发现超市漏洞薅了20多万",
       "onboard_time": 1767617841,
       "rank": 7,
@@ -41,6 +41,14 @@
       "onboard_time": 1767595222,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 947476,
+      "num": 629516,
+      "word": "官方通报新生儿被剪断手指",
+      "onboard_time": 1767619642,
+      "rank": 6,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 810815,
@@ -147,20 +155,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 585143,
+      "num": 585143,
+      "word": "骄阳似我30集封神",
+      "onboard_time": 1767619281,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 578847,
       "num": 578847,
       "word": "父母一个月内相继离世女孩独自报丧",
       "onboard_time": 1767617901,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 563202,
-      "num": 563202,
-      "word": "骄阳似我30集封神",
-      "onboard_time": 1767619281,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 559904,
@@ -265,14 +273,6 @@
       "onboard_time": 1767605002,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 500740,
-      "num": 629516,
-      "word": "官方通报新生儿被剪断手指",
-      "onboard_time": 1767619642,
-      "rank": 6,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 498292,
@@ -619,6 +619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 280098,
+      "num": 251972,
+      "word": "统一军装审美的男人杀回来了",
+      "onboard_time": 1767618861,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 279026,
       "num": 279026,
       "word": "春节连休9天高速免费",
@@ -633,6 +641,14 @@
       "onboard_time": 1767592222,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 273686,
+      "num": 657246,
+      "word": "美国副总统万斯住所遭袭击",
+      "onboard_time": 1767620302,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 271513,
@@ -747,14 +763,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 251972,
-      "num": 251972,
-      "word": "统一军装审美的男人杀回来了",
-      "onboard_time": 1767618861,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 251564,
       "num": 233099,
       "word": "赵丽颖从未否认自己是马里奥",
@@ -795,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236837,
+      "num": 219675,
+      "word": "导演猫的树这几个字还是太权威了",
+      "onboard_time": 1767619403,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228129,
       "num": 207416,
       "word": "马杜罗大部分安保人员死于美军侵略",
@@ -833,6 +849,14 @@
       "onboard_time": 1767581060,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 219692,
+      "num": 219692,
+      "word": "聂曦光爸爸",
+      "onboard_time": 1767620061,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 217985,
@@ -905,14 +929,6 @@
       "onboard_time": 1767617841,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 207430,
-      "num": 207430,
-      "word": "导演猫的树这几个字还是太权威了",
-      "onboard_time": 1767619403,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 207352,
@@ -1059,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194404,
+      "num": 594728,
+      "word": "广东的十度有多冷",
+      "onboard_time": 1767616343,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190197,
       "num": 190197,
       "word": "龙麦 接二搭",
@@ -1155,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174063,
+      "num": 585798,
+      "word": "剪断男婴手指助产士已停职",
+      "onboard_time": 1767621203,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173877,
       "num": 208942,
       "word": "哈尔滨零下20度外国游客穿短裤光腿",
@@ -1187,14 +1219,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 171483,
-      "num": 171483,
-      "word": "聂曦光爸爸",
-      "onboard_time": 1767620061,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 170815,
       "num": 153636,
       "word": "王楚然 这是我老板送我的",
@@ -1225,14 +1249,6 @@
       "onboard_time": 1767595103,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169445,
-      "num": 657246,
-      "word": "美国副总统万斯住所遭袭击",
-      "onboard_time": 1767620302,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 169430,
@@ -1291,20 +1307,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163675,
+      "num": 585368,
+      "word": "WTT多哈冠军赛2026",
+      "onboard_time": 1767620841,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162397,
       "num": 162397,
       "word": "罚罪2第28集封神",
       "onboard_time": 1767612141,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 161438,
-      "num": 594728,
-      "word": "广东的十度有多冷",
-      "onboard_time": 1767616343,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 161381,
@@ -1763,11 +1779,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119415,
+      "num": 119415,
+      "word": "凶手杀害29岁女子后电梯内唱歌",
+      "onboard_time": 1767619403,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118742,
       "num": 118742,
       "word": "涉事医院回应新生儿被剪断手指",
       "onboard_time": 1767608542,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117362,
+      "num": 117362,
+      "word": "新生儿被剪断手指助产士已停职",
+      "onboard_time": 1767621263,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -1819,20 +1851,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 114250,
+      "num": 114250,
+      "word": "秦霄贤直播",
+      "onboard_time": 1767620302,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114140,
       "num": 114140,
       "word": "2元人民币已绝版6年",
       "onboard_time": 1767597562,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113933,
-      "num": 113933,
-      "word": "WTT多哈冠军赛2026",
-      "onboard_time": 1767620841,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 113777,
@@ -1923,6 +1955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107938,
+      "num": 107938,
+      "word": "助产士说剪断手指是因为新生儿乱动",
+      "onboard_time": 1767620543,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107848,
       "num": 107848,
       "word": "差点没认出来这是李施嬅",
@@ -2001,6 +2041,22 @@
       "onboard_time": 1767571100,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103067,
+      "num": 103067,
+      "word": "唐嫣 曲梦我演爽了",
+      "onboard_time": 1767621383,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 102372,
+      "num": 102372,
+      "word": "内娱恋综全员撞脸明星颜值",
+      "onboard_time": 1767618681,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 102336,
@@ -2115,14 +2171,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 97687,
-      "num": 97687,
-      "word": "内娱恋综全员撞脸明星颜值",
-      "onboard_time": 1767618681,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 97164,
       "num": 97164,
       "word": "终于知道面善的小狗长什么样了",
@@ -2163,14 +2211,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 95642,
-      "num": 95642,
-      "word": "助产士说剪断手指是因为新生儿乱动",
-      "onboard_time": 1767620543,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95041,
       "num": 95041,
       "word": "樊振东肚子露出来了立刻遮住",
@@ -2185,6 +2225,14 @@
       "onboard_time": 1767597741,
       "rank": 41,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 94451,
+      "num": 93532,
+      "word": "王安宇出发团学粤语都用短剧里了",
+      "onboard_time": 1767620963,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 94354,
@@ -2225,14 +2273,6 @@
       "onboard_time": 1767605601,
       "rank": 18,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 93159,
-      "num": 93159,
-      "word": "秦霄贤直播",
-      "onboard_time": 1767620302,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 92927,
@@ -2339,14 +2379,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 89467,
-      "num": 89467,
-      "word": "凶手杀害29岁女子后电梯内唱歌",
-      "onboard_time": 1767619403,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88808,
       "num": 88808,
       "word": "玉茗茶骨 男配颜值",
@@ -2385,6 +2417,14 @@
       "onboard_time": 1767614722,
       "rank": 41,
       "category": "网红"
+    },
+    {
+      "raw_hot": 86973,
+      "num": 86973,
+      "word": "苏新皓在环球影城跳女团舞",
+      "onboard_time": 1767621323,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 86723,
@@ -2499,6 +2539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 81751,
+      "num": 93965,
+      "word": "女子花8.5万买爱马仕发现五金磨损",
+      "onboard_time": 1767620662,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81693,
       "num": 133834,
       "word": "年度好剧品鉴中",
@@ -2579,6 +2627,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 78717,
+      "num": 78717,
+      "word": "研究表明单纯间歇性禁食无益",
+      "onboard_time": 1767621203,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 78435,
       "num": 79960,
       "word": "Faker定制版跑车太帅了",
@@ -2625,14 +2681,6 @@
       "onboard_time": 1767580941,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77395,
-      "num": 77395,
-      "word": "王安宇出发团学粤语都用短剧里了",
-      "onboard_time": 1767620963,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 76835,
@@ -3027,14 +3075,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 50038,
-      "num": 89439,
-      "word": "女子花8.5万买爱马仕发现五金磨损",
-      "onboard_time": 1767620662,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49170,
       "num": 49170,
       "word": "车厘子含褪黑素但不能催眠",
@@ -3155,6 +3195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34263,
+      "num": 93904,
+      "word": "未婚妈妈送养女婴收4.8万被判无罪",
+      "onboard_time": 1767621143,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34090,
       "num": 79952,
       "word": "蓬莱回应一饭店2年后被曝再宰客",
@@ -3227,18 +3275,18 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 26379,
-      "num": 633209,
-      "word": "中国人过冬的仪式感",
-      "onboard_time": 1767578182,
+      "raw_hot": 27376,
+      "num": 712815,
+      "word": "实施绿色消费推进行动",
+      "onboard_time": 1767618681,
       "rank": 2,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24185,
-      "num": 712815,
-      "word": "实施绿色消费推进行动",
-      "onboard_time": 1767618681,
+      "raw_hot": 26379,
+      "num": 633209,
+      "word": "中国人过冬的仪式感",
+      "onboard_time": 1767578182,
       "rank": 2,
       "category": "民生新闻"
     },

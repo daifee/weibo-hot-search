@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767621012082,
+  "endTime": 1767621502821,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -115,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1236208,
+      "num": 1236208,
+      "word": "女子发现超市漏洞薅了20多万",
+      "onboard_time": 1767617841,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1214241,
       "num": 995964,
       "word": "骄阳似我 奇耻大辱",
@@ -129,14 +137,6 @@
       "onboard_time": 1767420926,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1203332,
-      "num": 1203332,
-      "word": "女子发现超市漏洞薅了20多万",
-      "onboard_time": 1767617841,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1200620,
@@ -257,6 +257,14 @@
       "onboard_time": 1767595222,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 947476,
+      "num": 629516,
+      "word": "官方通报新生儿被剪断手指",
+      "onboard_time": 1767619642,
+      "rank": 6,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 940105,
@@ -747,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 585143,
+      "num": 585143,
+      "word": "骄阳似我30集封神",
+      "onboard_time": 1767619281,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 584264,
       "num": 1093482,
       "word": "超级月亮",
@@ -809,14 +825,6 @@
       "onboard_time": 1767360142,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 563202,
-      "num": 563202,
-      "word": "骄阳似我30集封神",
-      "onboard_time": 1767619281,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 559904,
@@ -1105,14 +1113,6 @@
       "onboard_time": 1767605002,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 500740,
-      "num": 629516,
-      "word": "官方通报新生儿被剪断手指",
-      "onboard_time": 1767619642,
-      "rank": 6,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 500587,

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767621012082,
+  "endTime": 1767621502821,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -115,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1236208,
+      "num": 1236208,
+      "word": "女子发现超市漏洞薅了20多万",
+      "onboard_time": 1767617841,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1214241,
       "num": 995964,
       "word": "骄阳似我 奇耻大辱",
@@ -129,14 +137,6 @@
       "onboard_time": 1767420926,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1203332,
-      "num": 1203332,
-      "word": "女子发现超市漏洞薅了20多万",
-      "onboard_time": 1767617841,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1200620,
@@ -257,6 +257,14 @@
       "onboard_time": 1767595222,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 947476,
+      "num": 629516,
+      "word": "官方通报新生儿被剪断手指",
+      "onboard_time": 1767619642,
+      "rank": 6,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 940105,
@@ -747,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 585143,
+      "num": 585143,
+      "word": "骄阳似我30集封神",
+      "onboard_time": 1767619281,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 584264,
       "num": 1093482,
       "word": "超级月亮",
@@ -809,14 +825,6 @@
       "onboard_time": 1767360142,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 563202,
-      "num": 563202,
-      "word": "骄阳似我30集封神",
-      "onboard_time": 1767619281,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 559904,
@@ -1105,14 +1113,6 @@
       "onboard_time": 1767605002,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 500740,
-      "num": 629516,
-      "word": "官方通报新生儿被剪断手指",
-      "onboard_time": 1767619642,
-      "rank": 6,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 500587,
@@ -2619,6 +2619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 280098,
+      "num": 251972,
+      "word": "统一军装审美的男人杀回来了",
+      "onboard_time": 1767618861,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280003,
       "num": 1004834,
       "word": "茅台1499元直销成黄牛噩梦",
@@ -2689,6 +2697,14 @@
       "onboard_time": 1767365001,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 273686,
+      "num": 657246,
+      "word": "美国副总统万斯住所遭袭击",
+      "onboard_time": 1767620302,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 272856,
@@ -3035,14 +3051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 251972,
-      "num": 251972,
-      "word": "统一军装审美的男人杀回来了",
-      "onboard_time": 1767618861,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 251661,
       "num": 1742957,
       "word": "九尾黑面罩氛围感有了",
@@ -3201,6 +3209,14 @@
       "onboard_time": 1767416967,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236837,
+      "num": 219675,
+      "word": "导演猫的树这几个字还是太权威了",
+      "onboard_time": 1767619403,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 235792,
@@ -3441,6 +3457,14 @@
       "onboard_time": 1767581060,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 219692,
+      "num": 219692,
+      "word": "聂曦光爸爸",
+      "onboard_time": 1767620061,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 219002,
@@ -3697,14 +3721,6 @@
       "onboard_time": 1767410549,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207430,
-      "num": 207430,
-      "word": "导演猫的树这几个字还是太权威了",
-      "onboard_time": 1767619403,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 207352,
@@ -4057,6 +4073,14 @@
       "onboard_time": 1767271581,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194404,
+      "num": 594728,
+      "word": "广东的十度有多冷",
+      "onboard_time": 1767616343,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 193955,
@@ -4715,6 +4739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174063,
+      "num": 585798,
+      "word": "剪断男婴手指助产士已停职",
+      "onboard_time": 1767621203,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174033,
       "num": 788210,
       "word": "一诺五获KPL年度最佳发育路",
@@ -4819,14 +4851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171483,
-      "num": 171483,
-      "word": "聂曦光爸爸",
-      "onboard_time": 1767620061,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 170815,
       "num": 153636,
       "word": "王楚然 这是我老板送我的",
@@ -4897,14 +4921,6 @@
       "onboard_time": 1767417987,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169445,
-      "num": 657246,
-      "word": "美国副总统万斯住所遭袭击",
-      "onboard_time": 1767620302,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 169430,
@@ -5203,6 +5219,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 163675,
+      "num": 585368,
+      "word": "WTT多哈冠军赛2026",
+      "onboard_time": 1767620841,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163633,
       "num": 296750,
       "word": "骄阳似我被各地文旅抢上了",
@@ -5281,14 +5305,6 @@
       "onboard_time": 1767195208,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161438,
-      "num": 594728,
-      "word": "广东的十度有多冷",
-      "onboard_time": 1767616343,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 161400,
@@ -7435,6 +7451,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 119415,
+      "num": 119415,
+      "word": "凶手杀害29岁女子后电梯内唱歌",
+      "onboard_time": 1767619403,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118886,
       "num": 118886,
       "word": "肖战跨年倒计时手势",
@@ -7497,6 +7521,14 @@
       "onboard_time": 1767336500,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117362,
+      "num": 117362,
+      "word": "新生儿被剪断手指助产士已停职",
+      "onboard_time": 1767621263,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117230,
@@ -7691,6 +7723,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 114250,
+      "num": 114250,
+      "word": "秦霄贤直播",
+      "onboard_time": 1767620302,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114140,
       "num": 114140,
       "word": "2元人民币已绝版6年",
@@ -7705,14 +7745,6 @@
       "onboard_time": 1767222556,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113933,
-      "num": 113933,
-      "word": "WTT多哈冠军赛2026",
-      "onboard_time": 1767620841,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 113916,
@@ -8081,6 +8113,14 @@
       "onboard_time": 1767413368,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107938,
+      "num": 107938,
+      "word": "助产士说剪断手指是因为新生儿乱动",
+      "onboard_time": 1767620543,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107848,
@@ -8467,6 +8507,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 103067,
+      "num": 103067,
+      "word": "唐嫣 曲梦我演爽了",
+      "onboard_time": 1767621383,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102798,
       "num": 263074,
       "word": "王星越的副驾还缺人吗",
@@ -8521,6 +8569,14 @@
       "onboard_time": 1767420147,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 102372,
+      "num": 102372,
+      "word": "内娱恋综全员撞脸明星颜值",
+      "onboard_time": 1767618681,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 102336,
@@ -8939,14 +8995,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 97687,
-      "num": 97687,
-      "word": "内娱恋综全员撞脸明星颜值",
-      "onboard_time": 1767618681,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 97654,
       "num": 1091084,
       "word": "樊振东全英文接受采访",
@@ -9123,14 +9171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95642,
-      "num": 95642,
-      "word": "助产士说剪断手指是因为新生儿乱动",
-      "onboard_time": 1767620543,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95626,
       "num": 183054,
       "word": "洛阳博物馆情况说明",
@@ -9209,6 +9249,14 @@
       "onboard_time": 1767597741,
       "rank": 41,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 94451,
+      "num": 93532,
+      "word": "王安宇出发团学粤语都用短剧里了",
+      "onboard_time": 1767620963,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 94363,
@@ -9329,14 +9377,6 @@
       "onboard_time": 1767519622,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 93159,
-      "num": 93159,
-      "word": "秦霄贤直播",
-      "onboard_time": 1767620302,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 93138,
@@ -9691,14 +9731,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 89467,
-      "num": 89467,
-      "word": "凶手杀害29岁女子后电梯内唱歌",
-      "onboard_time": 1767619403,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89312,
       "num": 990839,
       "word": "土耳其免签春节旅游热攀升",
@@ -9928,6 +9960,14 @@
       "word": "刘耀文 食欲型爱豆",
       "onboard_time": 1767526404,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 86973,
+      "num": 86973,
+      "word": "苏新皓在环球影城跳女团舞",
+      "onboard_time": 1767621323,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -10355,6 +10395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 81751,
+      "num": 93965,
+      "word": "女子花8.5万买爱马仕发现五金磨损",
+      "onboard_time": 1767620662,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81693,
       "num": 133834,
       "word": "年度好剧品鉴中",
@@ -10603,6 +10651,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 78717,
+      "num": 78717,
+      "word": "研究表明单纯间歇性禁食无益",
+      "onboard_time": 1767621203,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 78646,
       "num": 402142,
       "word": "反诈意识最强的老人出现了",
@@ -10697,14 +10753,6 @@
       "onboard_time": 1767580941,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77395,
-      "num": 77395,
-      "word": "王安宇出发团学粤语都用短剧里了",
-      "onboard_time": 1767620963,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 77334,
@@ -12771,14 +12819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 50038,
-      "num": 89439,
-      "word": "女子花8.5万买爱马仕发现五金磨损",
-      "onboard_time": 1767620662,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49850,
       "num": 402362,
       "word": "假期请给大学生生活费",
@@ -13875,6 +13915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 34263,
+      "num": 93904,
+      "word": "未婚妈妈送养女婴收4.8万被判无罪",
+      "onboard_time": 1767621143,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34212,
       "num": 113851,
       "word": "台名嘴谈围岛军演收官直呼太佩服",
@@ -14171,6 +14219,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 27376,
+      "num": 712815,
+      "word": "实施绿色消费推进行动",
+      "onboard_time": 1767618681,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27372,
       "num": 705015,
       "word": "2026开年图景",
@@ -14273,14 +14329,6 @@
       "onboard_time": 1767238642,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 24185,
-      "num": 712815,
-      "word": "实施绿色消费推进行动",
-      "onboard_time": 1767618681,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24137,
