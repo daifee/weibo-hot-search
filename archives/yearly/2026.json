@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767621502821,
+  "endTime": 1767623603634,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -547,12 +547,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 708369,
+      "num": 846059,
+      "word": "美国副总统万斯住所遭袭击",
+      "onboard_time": 1767620302,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 706424,
       "num": 819667,
       "word": "女子住店拉开窗帘竟是泳池水底",
       "onboard_time": 1767448767,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 704277,
+      "num": 585143,
+      "word": "骄阳似我30集封神",
+      "onboard_time": 1767619281,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 686111,
@@ -753,14 +769,6 @@
       "onboard_time": 1767531624,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 585143,
-      "num": 585143,
-      "word": "骄阳似我30集封神",
-      "onboard_time": 1767619281,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 584264,
@@ -1931,6 +1939,14 @@
       "category": "体育,剧集"
     },
     {
+      "raw_hot": 358513,
+      "num": 585798,
+      "word": "剪断男婴手指助产士已停职",
+      "onboard_time": 1767621203,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 357944,
       "num": 791371,
       "word": "甘肃地震",
@@ -2171,6 +2187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 323427,
+      "num": 219675,
+      "word": "导演猫的树这几个字还是太权威了",
+      "onboard_time": 1767619403,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 323418,
       "num": 288111,
       "word": "iPhone的计算器居然这么强大",
@@ -2377,30 +2401,6 @@
       "onboard_time": 1767410187,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 307617,
-      "num": 797505,
-      "word": "俄要求美立即澄清马杜罗情况",
-      "onboard_time": 1767449605,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 304894,
-      "num": 454456,
-      "word": "原神",
-      "onboard_time": 1767332060,
-      "rank": 10,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 304212,
-      "num": 304212,
-      "word": "汉堡王就崩溃道歉",
-      "onboard_time": 1767497841,
-      "rank": 4,
-      "category": "美食"
     }
   ],
   "hotgov_list": [
