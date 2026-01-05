@@ -1,7 +1,15 @@
 {
   "startTime": 1767631011864,
-  "endTime": 1767653203503,
+  "endTime": 1767655741240,
   "band_list": [
+    {
+      "raw_hot": 958149,
+      "num": 183218,
+      "word": "马杜罗不认罪",
+      "onboard_time": 1767654558,
+      "rank": 5,
+      "category": "国际时政"
+    },
     {
       "raw_hot": 436978,
       "num": 436978,
@@ -27,19 +35,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 380779,
+      "num": 812035,
+      "word": "上万元加拿大鹅三亚仅6900元",
+      "onboard_time": 1767627802,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 371171,
       "num": 199395,
       "word": "男孩烫伤休克死亡餐馆称感冒致死",
       "onboard_time": 1767626602,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 313170,
-      "num": 570255,
-      "word": "上万元加拿大鹅三亚仅6900元",
-      "onboard_time": 1767627802,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -49,6 +57,22 @@
       "onboard_time": 1767621802,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 267473,
+      "num": 58245,
+      "word": "三星掌门人李在镕在北京买LABUBU",
+      "onboard_time": 1767654558,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 248422,
+      "num": 176286,
+      "word": "助产士说剪断手指是因为新生儿乱动",
+      "onboard_time": 1767620543,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216007,
@@ -107,12 +131,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143275,
-      "num": 143275,
-      "word": "助产士说剪断手指是因为新生儿乱动",
-      "onboard_time": 1767620543,
-      "rank": 12,
-      "category": "民生新闻"
+      "raw_hot": 144976,
+      "num": 114877,
+      "word": "实在不行过年让孩子穿校服吧",
+      "onboard_time": 1767621563,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 127028,
@@ -203,12 +227,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105539,
+      "num": 114808,
+      "word": "爸爸低头玩手机孩子冲上马路被撞",
+      "onboard_time": 1767623784,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105266,
+      "num": 76731,
+      "word": "四大顶级扛剧花",
+      "onboard_time": 1767655458,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103511,
       "num": 114898,
       "word": "庄序结局",
       "onboard_time": 1767627262,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96778,
+      "num": 114912,
+      "word": "医生提醒4件事很伤免疫力",
+      "onboard_time": 1767623063,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 91020,
@@ -219,14 +267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88488,
-      "num": 114912,
-      "word": "医生提醒4件事很伤免疫力",
-      "onboard_time": 1767623063,
-      "rank": 25,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 88289,
       "num": 114895,
       "word": "广东的十度有多冷",
@@ -235,12 +275,44 @@
       "category": "情感"
     },
     {
-      "raw_hot": 74886,
-      "num": 114877,
-      "word": "实在不行过年让孩子穿校服吧",
-      "onboard_time": 1767621563,
-      "rank": 29,
-      "category": "幽默"
+      "raw_hot": 86221,
+      "num": 114829,
+      "word": "产后55天遭丈夫家暴女子发声",
+      "onboard_time": 1767615382,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78955,
+      "num": 114694,
+      "word": "国漫首位麻花辫男主",
+      "onboard_time": 1767619582,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 78175,
+      "num": 58091,
+      "word": "为保护马杜罗古巴警卫激烈抵抗",
+      "onboard_time": 1767654376,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 77106,
+      "num": 77106,
+      "word": "马杜罗3月17日再次出庭",
+      "onboard_time": 1767654437,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 76472,
+      "num": 76472,
+      "word": "吃对抗炎食物能抵消久坐伤害",
+      "onboard_time": 1767653837,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 72047,
@@ -267,20 +339,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68668,
-      "num": 114829,
-      "word": "产后55天遭丈夫家暴女子发声",
-      "onboard_time": 1767615382,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68119,
       "num": 114827,
       "word": "春晚彩排路透",
       "onboard_time": 1767605002,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 64108,
+      "num": 64108,
+      "word": "亚洲杯名单",
+      "onboard_time": 1767654917,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 63985,
@@ -299,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 63161,
-      "num": 114808,
-      "word": "爸爸低头玩手机孩子冲上马路被撞",
-      "onboard_time": 1767623784,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 61509,
       "num": 114791,
       "word": "导演猫的树这几个字还是太权威了",
@@ -315,20 +379,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60465,
+      "num": 60465,
+      "word": "小英回应找男朋友",
+      "onboard_time": 1767637695,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 58870,
       "num": 114789,
       "word": "瑞士冻结马杜罗在瑞资产",
       "onboard_time": 1767614420,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 57794,
-      "num": 44603,
-      "word": "小英回应找男朋友",
-      "onboard_time": 1767637695,
-      "rank": 36,
-      "category": "网红"
     },
     {
       "raw_hot": 56258,
@@ -355,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55373,
+      "num": 55373,
+      "word": "23岁破世界纪录91岁还在游泳",
+      "onboard_time": 1767654857,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53026,
       "num": 114738,
       "word": "美国惦记格陵兰岛却甩锅中国",
@@ -377,6 +449,14 @@
       "onboard_time": 1767620061,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46521,
+      "num": 50997,
+      "word": "白银期价大涨超5%",
+      "onboard_time": 1767654558,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 41943,
@@ -403,12 +483,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 37156,
-      "num": 114694,
-      "word": "国漫首位麻花辫男主",
-      "onboard_time": 1767619582,
-      "rank": 48,
-      "category": "动漫"
+      "raw_hot": 37342,
+      "num": 51037,
+      "word": "中方谴责美国侵犯委内瑞拉主权",
+      "onboard_time": 1767635057,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 37044,
+      "num": 50854,
+      "word": "肖战东方卫视跨年名场面盘点来啦",
+      "onboard_time": 1767635595,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 35522,
@@ -419,12 +507,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 31157,
-      "num": 51037,
-      "word": "中方谴责美国侵犯委内瑞拉主权",
-      "onboard_time": 1767635057,
-      "rank": 45,
-      "category": "国际时政"
+      "raw_hot": 34751,
+      "num": 50797,
+      "word": "聂曦光爸爸怀疑聂曦光",
+      "onboard_time": 1767646154,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 26239,
@@ -441,22 +529,6 @@
       "onboard_time": 1767632478,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25678,
-      "num": 43823,
-      "word": "聂曦光爸爸怀疑聂曦光",
-      "onboard_time": 1767646154,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 24164,
-      "num": 43772,
-      "word": "肖战东方卫视跨年名场面盘点来啦",
-      "onboard_time": 1767635595,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 23758,
@@ -507,8 +579,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 6228,
-      "num": 293387,
+      "raw_hot": 6626,
+      "num": 454128,
       "word": "长江经济带交出发展十年亮丽答卷",
       "onboard_time": 1767604102,
       "rank": 2,
