@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767592634061,
+  "endTime": 1767595874055,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -371,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 571974,
+      "num": 571974,
+      "word": "英雄联盟 证书到期",
+      "onboard_time": 1767591144,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 570955,
       "num": 1046627,
       "word": "外交部回应美对委军事打击",
@@ -659,6 +667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 443514,
+      "num": 443514,
+      "word": "英雄联盟",
+      "onboard_time": 1767588023,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 439304,
       "num": 439304,
       "word": "录完综艺总裁父亲主动向女儿道歉",
@@ -753,6 +769,22 @@
       "onboard_time": 1767573563,
       "rank": 4,
       "category": "美食"
+    },
+    {
+      "raw_hot": 408933,
+      "num": 203516,
+      "word": "霍启仁妻子公开婚礼现场照",
+      "onboard_time": 1767591922,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 406325,
+      "num": 406325,
+      "word": "内娱终于有剧躲过八集定律了",
+      "onboard_time": 1767593662,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 404975,
@@ -1035,14 +1067,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 326479,
-      "num": 430711,
-      "word": "英雄联盟",
-      "onboard_time": 1767588023,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 323097,
       "num": 310161,
       "word": "哥伦比亚总统回怼特朗普威胁",
@@ -1227,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 277474,
+      "num": 277474,
+      "word": "骄阳似我一部挂羊头卖羊肉的剧",
+      "onboard_time": 1767592222,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 275658,
       "num": 199691,
       "word": "孩子妈曝童锦程想毁灭证据",
@@ -1387,20 +1419,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 245729,
-      "num": 245729,
-      "word": "英雄联盟 证书到期",
-      "onboard_time": 1767591144,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 245492,
       "num": 230489,
       "word": "不要在车里放小玩偶了",
       "onboard_time": 1767489323,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244391,
+      "num": 244391,
+      "word": "LABUBU不用抢了",
+      "onboard_time": 1767594501,
+      "rank": 9,
+      "category": "休闲"
     },
     {
       "raw_hot": 243433,
@@ -1643,6 +1675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209798,
+      "num": 209798,
+      "word": "朱媛媛遗作即将播出",
+      "onboard_time": 1767594382,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208911,
       "num": 208911,
       "word": "萨尔队德国杯决赛对阵富尔达",
@@ -1681,6 +1721,14 @@
       "onboard_time": 1767481818,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 205789,
+      "num": 784429,
+      "word": "央视曝光偷SIM卡套路",
+      "onboard_time": 1767593122,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205251,
@@ -1979,6 +2027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182235,
+      "num": 144854,
+      "word": "疑被助产士剪断手指男婴父亲发声",
+      "onboard_time": 1767595222,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181404,
       "num": 181404,
       "word": "时代峰峻高会泡泡功能今年上线",
@@ -2017,14 +2073,6 @@
       "onboard_time": 1767516803,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 179256,
-      "num": 245509,
-      "word": "骄阳似我一部挂羊头卖羊肉的剧",
-      "onboard_time": 1767592222,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 176698,
@@ -2121,6 +2169,14 @@
       "onboard_time": 1767531862,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168777,
+      "num": 168777,
+      "word": "赵丽颖哭戏",
+      "onboard_time": 1767595103,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 168411,
@@ -2315,14 +2371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158752,
-      "num": 158752,
-      "word": "霍启仁妻子公开婚礼现场照",
-      "onboard_time": 1767591922,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 157997,
       "num": 157997,
       "word": "豆瓣好卡",
@@ -2363,8 +2411,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 155448,
+      "num": 155448,
+      "word": "李在明分享中国行首日视频",
+      "onboard_time": 1767593722,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 154941,
-      "num": 154941,
+      "num": 208206,
       "word": "东北家里忘关水龙头变冰山",
       "onboard_time": 1767591442,
       "rank": 28,
@@ -2907,6 +2963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125171,
+      "num": 125171,
+      "word": "差三分考上北大研究生的含金量",
+      "onboard_time": 1767595402,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125040,
       "num": 125040,
       "word": "宋祖儿和闺蜜跨年",
@@ -3171,6 +3235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 112003,
+      "num": 112003,
+      "word": "1斤车厘子热量超1碗米饭",
+      "onboard_time": 1767592103,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 111905,
       "num": 111905,
       "word": "雷军说被黑出了心理阴影",
@@ -3201,6 +3273,14 @@
       "onboard_time": 1767518542,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 111483,
+      "num": 205067,
+      "word": "王鹤棣说白鹿净看些没营养的",
+      "onboard_time": 1767594742,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 110820,
@@ -3595,12 +3675,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96597,
+      "num": 96597,
+      "word": "发现狸花猫都是齐刘海",
+      "onboard_time": 1767595641,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95792,
       "num": 95792,
       "word": "喜人打响2026第一战",
       "onboard_time": 1767517102,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95593,
+      "num": 95593,
+      "word": "娜扎吐槽了闺蜜一路",
+      "onboard_time": 1767593722,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 95486,
@@ -3713,6 +3809,14 @@
       "onboard_time": 1767580880,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92752,
+      "num": 92752,
+      "word": "年初何苏叶 年中陈路周 年末林屿森",
+      "onboard_time": 1767595521,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 92742,
@@ -3851,6 +3955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88808,
+      "num": 88808,
+      "word": "玉茗茶骨 男配颜值",
+      "onboard_time": 1767594080,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88711,
       "num": 810869,
       "word": "宋威龙哭戏权威",
@@ -3912,6 +4024,14 @@
       "word": "3岁女童疑被父亲女友杀害",
       "onboard_time": 1767568398,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85627,
+      "num": 130347,
+      "word": "网购假退货1万多次护肤品被判刑",
+      "onboard_time": 1767594802,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -4201,6 +4321,14 @@
       "onboard_time": 1767492682,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69025,
+      "num": 125828,
+      "word": "没认出这是赖冠霖",
+      "onboard_time": 1767595701,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 68363,
@@ -4787,6 +4915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36983,
+      "num": 126985,
+      "word": "女生游黄山身亡家属称护栏存缺陷",
+      "onboard_time": 1767595161,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36755,
       "num": 832516,
       "word": "福建舰2026主要任务",
@@ -4851,6 +4987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 33585,
+      "num": 130735,
+      "word": "哈尔滨零下20℃外国游客光腿穿短裤",
+      "onboard_time": 1767595701,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33504,
       "num": 136545,
       "word": "假洗涤用品生产窝点被端涉案近千万",
@@ -4881,6 +5025,14 @@
       "onboard_time": 1767447986,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 32478,
+      "num": 242136,
+      "word": "巴基斯坦西北部爆炸1死8伤",
+      "onboard_time": 1767594621,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 31326,
@@ -5097,6 +5249,14 @@
       "onboard_time": 1767552375,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 15459,
+      "num": 144871,
+      "word": "女子早高峰时与无人配送车发生碰撞",
+      "onboard_time": 1767595701,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14559,

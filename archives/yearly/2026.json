@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767592634061,
+  "endTime": 1767595874055,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -731,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 571974,
+      "num": 571974,
+      "word": "英雄联盟 证书到期",
+      "onboard_time": 1767591144,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 558513,
       "num": 1030792,
       "word": "吃蒜 偏头痛",
@@ -1251,6 +1259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 443514,
+      "num": 443514,
+      "word": "英雄联盟",
+      "onboard_time": 1767588023,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 441518,
       "num": 1692801,
       "word": "交警回应撞脸杨紫爆红",
@@ -1371,12 +1387,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 408933,
+      "num": 203516,
+      "word": "霍启仁妻子公开婚礼现场照",
+      "onboard_time": 1767591922,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 408404,
       "num": 588951,
       "word": "日本纸箱仙人",
       "onboard_time": 1767240440,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 406325,
+      "num": 406325,
+      "word": "内娱终于有剧躲过八集定律了",
+      "onboard_time": 1767593662,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 406176,
@@ -1875,14 +1907,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 326479,
-      "num": 430711,
-      "word": "英雄联盟",
-      "onboard_time": 1767588023,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 324453,
       "num": 1051912,
       "word": "闪迪股价飙涨559%",
@@ -2339,6 +2363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 277474,
+      "num": 277474,
+      "word": "骄阳似我一部挂羊头卖羊肉的剧",
+      "onboard_time": 1767592222,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276902,
       "num": 465812,
       "word": "一人之下6",
@@ -2369,38 +2401,6 @@
       "onboard_time": 1767365001,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 272856,
-      "num": 272856,
-      "word": "于正称玉茗茶骨不爆是长剧没有观众",
-      "onboard_time": 1767527723,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 271513,
-      "num": 217955,
-      "word": "何超盈小8岁老公近照",
-      "onboard_time": 1767538764,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 271145,
-      "num": 239313,
-      "word": "鲁比奥或被选为委内瑞拉总督",
-      "onboard_time": 1767591622,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 270391,
-      "num": 1093799,
-      "word": "伊朗",
-      "onboard_time": 1767351020,
-      "rank": 22,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
