@@ -1,0 +1,410 @@
+{
+  "runTime": 1767591677834,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 425484,
+        "num": 1068077,
+        "word": "英法联合空袭叙利亚",
+        "onboard_time": 1767580880,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 258830,
+        "num": 793466,
+        "word": "时代峰峻回应荣耀之战分组",
+        "onboard_time": 1767590061,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 75623,
+        "num": 594440,
+        "word": "我国最大油气田传来好消息",
+        "onboard_time": 1767583942,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 501941,
+        "num": 501941,
+        "word": "女子怀孕每次产检发现多出一胎",
+        "onboard_time": 1767589044,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271495,
+        "num": 271495,
+        "word": "英雄联盟",
+        "onboard_time": 1767588023,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 431970,
+        "num": 262452,
+        "word": "委内瑞拉代总统致信美国及世界",
+        "onboard_time": 1767588441,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 430762,
+        "num": 247209,
+        "word": "冰箱贴一定要经常挪挪位置",
+        "onboard_time": 1767571581,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228191,
+        "num": 228191,
+        "word": "李在明夫人穿韩服出席晚宴",
+        "onboard_time": 1767579021,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 222210,
+        "num": 222210,
+        "word": "麻辣烫里面全是豆",
+        "onboard_time": 1767584181,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 185932,
+        "num": 222173,
+        "word": "鹅鸭杀上线开黑倒计时",
+        "onboard_time": 1767590061,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 49816,
+        "num": 220447,
+        "word": "肖战新国风封神",
+        "onboard_time": 1767587664,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 793383,
+        "num": 217301,
+        "word": "娜扎跳舞肩带断了",
+        "onboard_time": 1767588562,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 634706,
+        "num": 215871,
+        "word": "凶手听到量刑建议死立执才道歉",
+        "onboard_time": 1767587123,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348089,
+        "num": 215124,
+        "word": "建议所有外卖包装都按这个强度来",
+        "onboard_time": 1767586644,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 307481,
+        "num": 212416,
+        "word": "叙利亚",
+        "onboard_time": 1767589344,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233987,
+        "num": 212137,
+        "word": "鲁比奥或被选为委内瑞拉总督",
+        "onboard_time": 1767591622,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 210649,
+        "num": 210649,
+        "word": "辽宁一孕妇两个月内从一胎变四胞胎",
+        "onboard_time": 1767587362,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164906,
+        "num": 208701,
+        "word": "105捆2元人民币竞价已达42万元",
+        "onboard_time": 1767583461,
+        "rank": 17,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 91210,
+        "num": 207930,
+        "word": "布克绝杀雷霆",
+        "onboard_time": 1767585982,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217295,
+        "num": 207834,
+        "word": "小酒窝朵朵又合作了",
+        "onboard_time": 1767590184,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207352,
+        "num": 207352,
+        "word": "特朗普暗示可能对墨西哥采取行动",
+        "onboard_time": 1767589643,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 383845,
+        "num": 204432,
+        "word": "小黄豆曝某男网红有口臭",
+        "onboard_time": 1767583880,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 231567,
+        "num": 199963,
+        "word": "关晓彤新造型是女儿是妈妈",
+        "onboard_time": 1767591503,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189347,
+        "num": 189347,
+        "word": "殷世航曝某三千万粉丝网红打人",
+        "onboard_time": 1767590661,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 178198,
+        "num": 178198,
+        "word": "黄金",
+        "onboard_time": 1767579621,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 166922,
+        "num": 166922,
+        "word": "委内瑞拉首都主干道空了",
+        "onboard_time": 1767577641,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144846,
+        "num": 144846,
+        "word": "英雄联盟 证书到期",
+        "onboard_time": 1767591144,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139614,
+        "num": 139614,
+        "word": "原来腰疼是因为屁股肌肉弱",
+        "onboard_time": 1767578420,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118441,
+        "num": 118441,
+        "word": "东北家里忘关水龙头变冰山",
+        "onboard_time": 1767591442,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66903,
+        "num": 116279,
+        "word": "春节连休9天高速免费",
+        "onboard_time": 1767578420,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122269,
+        "num": 115894,
+        "word": "聂曦光妈妈",
+        "onboard_time": 1767587423,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115388,
+        "num": 115388,
+        "word": "长白山景区惊现价值百万冰封皇冠",
+        "onboard_time": 1767580340,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 113680,
+        "num": 113680,
+        "word": "骑手眼中的外卖勺子",
+        "onboard_time": 1767590842,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109544,
+        "num": 109544,
+        "word": "TVB第一个打烂奖杯",
+        "onboard_time": 1767584781,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105958,
+        "num": 105958,
+        "word": "易烊千玺角色查重率为0",
+        "onboard_time": 1767590661,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105672,
+        "num": 105672,
+        "word": "恋与深空",
+        "onboard_time": 1767588083,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99543,
+        "num": 99543,
+        "word": "白鹿看了王鹤棣刘耀文互问结婚",
+        "onboard_time": 1767589164,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61696,
+        "num": 97187,
+        "word": "美报告称超1700种化妆品故意添加PFAS",
+        "onboard_time": 1767590422,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 53376,
+        "num": 96664,
+        "word": "王俊凯 祖师爷配平文学",
+        "onboard_time": 1767591263,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96301,
+        "num": 96301,
+        "word": "海姆立克急救法更新了",
+        "onboard_time": 1767591442,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 93224,
+        "num": 93224,
+        "word": "唯一一本过目不忘的书",
+        "onboard_time": 1767584542,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91475,
+        "num": 91475,
+        "word": "被娜扎扇爽了",
+        "onboard_time": 1767588743,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 90522,
+        "num": 90522,
+        "word": "明日乐园",
+        "onboard_time": 1767587963,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89792,
+        "num": 89792,
+        "word": "你以为的去冰vs实际上的去冰",
+        "onboard_time": 1767591023,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82484,
+        "num": 89784,
+        "word": "痞幼被青你1选手唱哭了",
+        "onboard_time": 1767591622,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33727,
+        "num": 89775,
+        "word": "张桂源吉他背带突然断了",
+        "onboard_time": 1767590061,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 79557,
+        "num": 89762,
+        "word": "特朗普称美国已掌控委内瑞拉",
+        "onboard_time": 1767588441,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76835,
+        "num": 89744,
+        "word": "玉茗茶骨反转快到我来不及反应",
+        "onboard_time": 1767590123,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59520,
+        "num": 89733,
+        "word": "车厘子买回家存放不宜超3天",
+        "onboard_time": 1767588562,
+        "rank": 48,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 54095,
+        "num": 89721,
+        "word": "男子驾车蓄意撞死高中生被判死刑",
+        "onboard_time": 1767585322,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见爱尔兰总理马丁#"
+    }
+  }
+}

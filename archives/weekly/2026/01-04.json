@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767588149461,
+  "endTime": 1767591677834,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -187,6 +187,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 793383,
+      "num": 217301,
+      "word": "娜扎跳舞肩带断了",
+      "onboard_time": 1767588562,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 789786,
       "num": 576447,
       "word": "金价",
@@ -289,6 +297,14 @@
       "onboard_time": 1767514043,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 634706,
+      "num": 223210,
+      "word": "凶手听到量刑建议死立执才道歉",
+      "onboard_time": 1767587123,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 633524,
@@ -475,6 +491,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 501941,
+      "num": 501941,
+      "word": "女子怀孕每次产检发现多出一胎",
+      "onboard_time": 1767589044,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 500587,
       "num": 500587,
       "word": "王安宇电影分账票房第一",
@@ -649,6 +673,14 @@
       "onboard_time": 1767577100,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 431970,
+      "num": 262452,
+      "word": "委内瑞拉代总统致信美国及世界",
+      "onboard_time": 1767588441,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 431777,
@@ -923,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 348089,
+      "num": 225460,
+      "word": "建议所有外卖包装都按这个强度来",
+      "onboard_time": 1767586644,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 347833,
       "num": 280253,
       "word": "谢娜 女本位",
@@ -969,14 +1009,6 @@
       "onboard_time": 1767528023,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 332870,
-      "num": 225460,
-      "word": "建议所有外卖包装都按这个强度来",
-      "onboard_time": 1767586644,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 328050,
@@ -1065,6 +1097,14 @@
       "onboard_time": 1767495682,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 307481,
+      "num": 212416,
+      "word": "叙利亚",
+      "onboard_time": 1767589344,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 304212,
@@ -1211,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271495,
+      "num": 271495,
+      "word": "英雄联盟",
+      "onboard_time": 1767588023,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 267807,
       "num": 299024,
       "word": "车厘子正确清洗教程来了",
@@ -1249,6 +1297,14 @@
       "onboard_time": 1767485541,
       "rank": 7,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 258830,
+      "num": 793466,
+      "word": "时代峰峻回应荣耀之战分组",
+      "onboard_time": 1767590061,
+      "rank": 1,
+      "category": "演出"
     },
     {
       "raw_hot": 257383,
@@ -1387,6 +1443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233987,
+      "num": 212137,
+      "word": "鲁比奥或被选为委内瑞拉总督",
+      "onboard_time": 1767591622,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 233903,
       "num": 224597,
       "word": "向华强说羡慕郭碧婷爸爸",
@@ -1409,6 +1473,14 @@
       "onboard_time": 1767494300,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 231567,
+      "num": 199963,
+      "word": "关晓彤新造型是女儿是妈妈",
+      "onboard_time": 1767591503,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 230571,
@@ -1483,14 +1555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 223210,
-      "num": 223210,
-      "word": "凶手听到量刑建议死立执才道歉",
-      "onboard_time": 1767587123,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 222702,
       "num": 222702,
       "word": "易烊千玺起诉眼镜公司侵权",
@@ -1539,6 +1603,14 @@
       "category": "国际时政,动漫"
     },
     {
+      "raw_hot": 217295,
+      "num": 207834,
+      "word": "小酒窝朵朵又合作了",
+      "onboard_time": 1767590184,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 215945,
       "num": 255123,
       "word": "檀健次湖南跨年舞台推荐第一",
@@ -1555,12 +1627,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 210649,
+      "num": 210649,
+      "word": "辽宁一孕妇两个月内从一胎变四胞胎",
+      "onboard_time": 1767587362,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208911,
       "num": 208911,
       "word": "萨尔队德国杯决赛对阵富尔达",
       "onboard_time": 1767533363,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207352,
+      "num": 207352,
+      "word": "特朗普暗示可能对墨西哥采取行动",
+      "onboard_time": 1767589643,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 206721,
@@ -1576,14 +1664,6 @@
       "word": "足浴店涉嫌非法聘用外国人被查",
       "onboard_time": 1767506543,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 206179,
-      "num": 163984,
-      "word": "辽宁一孕妇两个月内从一胎变四胞胎",
-      "onboard_time": 1767587362,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -1803,6 +1883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189347,
+      "num": 189347,
+      "word": "殷世航曝某三千万粉丝网红打人",
+      "onboard_time": 1767590661,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 186774,
       "num": 222457,
       "word": "布克绝杀雷霆",
@@ -1841,6 +1929,14 @@
       "onboard_time": 1767539305,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185932,
+      "num": 222173,
+      "word": "鹅鸭杀上线开黑倒计时",
+      "onboard_time": 1767590061,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 184090,
@@ -1905,14 +2001,6 @@
       "onboard_time": 1767516803,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 177974,
-      "num": 177974,
-      "word": "英雄联盟",
-      "onboard_time": 1767588023,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 176698,
@@ -2411,6 +2499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144846,
+      "num": 144846,
+      "word": "英雄联盟 证书到期",
+      "onboard_time": 1767591144,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 144671,
       "num": 189909,
       "word": "张凌赫壁纸",
@@ -2899,6 +2995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118441,
+      "num": 118441,
+      "word": "东北家里忘关水龙头变冰山",
+      "onboard_time": 1767591442,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118244,
       "num": 118244,
       "word": "杨紫董竹君造型贵气",
@@ -2985,6 +3089,14 @@
       "onboard_time": 1767587723,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 113680,
+      "num": 113680,
+      "word": "骑手眼中的外卖勺子",
+      "onboard_time": 1767590842,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 113545,
@@ -3121,6 +3233,14 @@
       "onboard_time": 1767519502,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 105958,
+      "num": 105958,
+      "word": "易烊千玺角色查重率为0",
+      "onboard_time": 1767590661,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 105879,
@@ -3307,6 +3427,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 99543,
+      "num": 99543,
+      "word": "白鹿看了王鹤棣刘耀文互问结婚",
+      "onboard_time": 1767589164,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99173,
       "num": 99173,
       "word": "贵州工商职业大学",
@@ -3417,6 +3545,14 @@
       "onboard_time": 1767486622,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96301,
+      "num": 96301,
+      "word": "海姆立克急救法更新了",
+      "onboard_time": 1767591442,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 95792,
@@ -3563,6 +3699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91475,
+      "num": 91475,
+      "word": "被娜扎扇爽了",
+      "onboard_time": 1767588743,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 91088,
       "num": 91088,
       "word": "商业航天概念大面积高开",
@@ -3609,6 +3753,14 @@
       "onboard_time": 1767507262,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 89792,
+      "num": 89792,
+      "word": "你以为的去冰vs实际上的去冰",
+      "onboard_time": 1767591023,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 89572,
@@ -3779,6 +3931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 82484,
+      "num": 89784,
+      "word": "痞幼被青你1选手唱哭了",
+      "onboard_time": 1767591622,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 82327,
       "num": 82327,
       "word": "委前总统查韦斯安葬地被美军袭击",
@@ -3835,6 +3995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79557,
+      "num": 89762,
+      "word": "特朗普称美国已掌控委内瑞拉",
+      "onboard_time": 1767588441,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 79366,
       "num": 802141,
       "word": "鸡蛋每周吃够这个量心脏血管都受益",
@@ -3889,6 +4057,14 @@
       "onboard_time": 1767516262,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76835,
+      "num": 89744,
+      "word": "玉茗茶骨反转快到我来不及反应",
+      "onboard_time": 1767590123,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 76421,
@@ -4091,6 +4267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 61696,
+      "num": 97187,
+      "word": "美报告称超1700种化妆品故意添加PFAS",
+      "onboard_time": 1767590422,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 61694,
       "num": 156903,
       "word": "流浪女网红9天前曾向家里要钱看病",
@@ -4153,6 +4337,14 @@
       "onboard_time": 1767453804,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 59520,
+      "num": 89733,
+      "word": "车厘子买回家存放不宜超3天",
+      "onboard_time": 1767588562,
+      "rank": 48,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 58408,
@@ -4227,6 +4419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 53376,
+      "num": 96664,
+      "word": "王俊凯 祖师爷配平文学",
+      "onboard_time": 1767591263,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53133,
       "num": 671353,
       "word": "华晨宇火星1.0海口全记录",
@@ -4297,6 +4497,14 @@
       "onboard_time": 1767440366,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49816,
+      "num": 220447,
+      "word": "肖战新国风封神",
+      "onboard_time": 1767587664,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 49170,
@@ -4417,14 +4625,6 @@
       "onboard_time": 1767568098,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 42700,
-      "num": 216426,
-      "word": "肖战新国风封神",
-      "onboard_time": 1767587664,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 42134,
@@ -4577,6 +4777,14 @@
       "onboard_time": 1767578721,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 33727,
+      "num": 89775,
+      "word": "张桂源吉他背带突然断了",
+      "onboard_time": 1767590061,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 33504,
