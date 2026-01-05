@@ -1,6 +1,6 @@
 {
   "startTime": 1767544434885,
-  "endTime": 1767618076134,
+  "endTime": 1767618961239,
   "band_list": [
     {
       "raw_hot": 1158219,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 741527,
+      "num": 294836,
+      "word": "产后55天遭丈夫家暴女子发声",
+      "onboard_time": 1767615382,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 741247,
       "num": 1118599,
       "word": "英法联合空袭叙利亚",
@@ -83,11 +91,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 723506,
-      "num": 294836,
-      "word": "产后55天遭丈夫家暴女子发声",
-      "onboard_time": 1767615382,
-      "rank": 10,
+      "raw_hot": 666759,
+      "num": 1106681,
+      "word": "女子发现超市漏洞薅了20多万",
+      "onboard_time": 1767617841,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -299,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 444608,
+      "num": 245109,
+      "word": "马杜罗出庭",
+      "onboard_time": 1767618021,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 435651,
       "num": 1069704,
       "word": "李在明谈韩国人周五下班去上海",
@@ -409,6 +425,14 @@
       "onboard_time": 1767583821,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 349275,
+      "num": 189276,
+      "word": "内娱窝囊废公司来了没文化的野人",
+      "onboard_time": 1767615680,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 348089,
@@ -561,14 +585,6 @@
       "onboard_time": 1767611722,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 279905,
-      "num": 125048,
-      "word": "内娱窝囊废公司来了没文化的野人",
-      "onboard_time": 1767615680,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 279026,
@@ -763,12 +779,36 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 221478,
+      "num": 221478,
+      "word": "父母一个月内相继离世女孩独自报丧",
+      "onboard_time": 1767617901,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220432,
       "num": 195095,
       "word": "古巴宣布为32名古巴同志举行全国哀悼",
       "onboard_time": 1767581060,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 217991,
+      "num": 217991,
+      "word": "轧戏定档",
+      "onboard_time": 1767617600,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 217985,
+      "num": 217985,
+      "word": "范丞丞对张艺凡喊303",
+      "onboard_time": 1767614000,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 217172,
@@ -801,14 +841,6 @@
       "onboard_time": 1767614000,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 212176,
-      "num": 212176,
-      "word": "范丞丞对张艺凡喊303",
-      "onboard_time": 1767614000,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 212151,
@@ -971,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195849,
+      "num": 251550,
+      "word": "李在明与李在镕微笑着打招呼",
+      "onboard_time": 1767615200,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 195621,
       "num": 195621,
       "word": "小寒",
@@ -1043,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183900,
+      "num": 313495,
+      "word": "理肤泉直播",
+      "onboard_time": 1767616102,
+      "rank": 9,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 182931,
       "num": 162609,
       "word": "他红是迟早的事",
@@ -1099,6 +1147,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 172610,
+      "num": 247539,
+      "word": "TTG嘉宝",
+      "onboard_time": 1767618500,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 170815,
       "num": 153636,
       "word": "王楚然 这是我老板送我的",
@@ -1113,14 +1169,6 @@
       "onboard_time": 1767578420,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 170498,
-      "num": 384556,
-      "word": "女子发现超市漏洞薅了20多万",
-      "onboard_time": 1767617841,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 170246,
@@ -1249,14 +1297,6 @@
       "onboard_time": 1767593722,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 155142,
-      "num": 155142,
-      "word": "父母一个月内相继离世女孩独自报丧",
-      "onboard_time": 1767617901,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154287,
@@ -1467,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137042,
+      "num": 137042,
+      "word": "李嘉格孩子称妈妈男友为哥哥",
+      "onboard_time": 1767612741,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136654,
       "num": 136654,
       "word": "樊振东获德国杯MVP",
@@ -1579,26 +1627,10 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 127387,
-      "num": 127387,
-      "word": "李在明与李在镕微笑着打招呼",
-      "onboard_time": 1767615200,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 127234,
       "num": 127234,
       "word": "王俊凯 祖师爷配平文学",
       "onboard_time": 1767591263,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 127003,
-      "num": 125602,
-      "word": "李嘉格孩子称妈妈男友为哥哥",
-      "onboard_time": 1767612741,
       "rank": 38,
       "category": "艺人"
     },
@@ -1947,6 +1979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100845,
+      "num": 100845,
+      "word": "统一军装审美的男人杀回来了",
+      "onboard_time": 1767618861,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100462,
       "num": 100462,
       "word": "如果运气好是一种特长",
@@ -2051,14 +2091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 95874,
-      "num": 313495,
-      "word": "理肤泉直播",
-      "onboard_time": 1767616102,
-      "rank": 9,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 95855,
       "num": 95855,
       "word": "原来取悦自己是这样的",
@@ -2121,6 +2153,14 @@
       "onboard_time": 1767605601,
       "rank": 18,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 92927,
+      "num": 92927,
+      "word": "罚罪",
+      "onboard_time": 1767617782,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 92773,
@@ -2217,14 +2257,6 @@
       "onboard_time": 1767591023,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 88977,
-      "num": 88977,
-      "word": "罚罪",
-      "onboard_time": 1767617782,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 88808,
@@ -2339,6 +2371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 83249,
+      "num": 83249,
+      "word": "内娱恋综全员撞脸明星颜值",
+      "onboard_time": 1767618681,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 82909,
       "num": 82909,
       "word": "果切界出了个研究生",
@@ -2377,6 +2417,14 @@
       "onboard_time": 1767580221,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 81427,
+      "num": 81427,
+      "word": "唐嫣人之初直播",
+      "onboard_time": 1767618921,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 81160,
@@ -2507,6 +2555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76187,
+      "num": 76187,
+      "word": "朝九晚五其实是朝七晚六",
+      "onboard_time": 1767617002,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 75378,
       "num": 75378,
       "word": "T1新队服公开",
@@ -2537,14 +2593,6 @@
       "onboard_time": 1767524483,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 72799,
-      "num": 72799,
-      "word": "马杜罗出庭",
-      "onboard_time": 1767618021,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 70234,
@@ -2592,6 +2640,14 @@
       "word": "特朗普对委代理总统发出威胁",
       "onboard_time": 1767576380,
       "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 66180,
+      "num": 190157,
+      "word": "马杜罗抵达纽约联邦法院",
+      "onboard_time": 1767617901,
+      "rank": 28,
       "category": "国际时政"
     },
     {
@@ -2939,12 +2995,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 37286,
+      "num": 191553,
+      "word": "体坛冠军们的共同选择竟然是ta",
+      "onboard_time": 1767618201,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 37153,
+      "num": 95293,
+      "word": "2杯奶茶钱 1斤车厘子",
+      "onboard_time": 1767617961,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36695,
       "num": 98948,
       "word": "精神病患者称邻居制毒大批警察上门",
       "onboard_time": 1767612201,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36417,
+      "num": 190547,
+      "word": "荣耀Power2全身充满Power",
+      "onboard_time": 1767618201,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 36257,
@@ -3033,14 +3113,6 @@
       "onboard_time": 1767609861,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27373,
-      "num": 118899,
-      "word": "马杜罗抵达纽约联邦法院",
-      "onboard_time": 1767617901,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 26379,
@@ -3155,20 +3227,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12714,
+      "num": 116807,
+      "word": "2026年育儿补贴开始申领",
+      "onboard_time": 1767583461,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9289,
+      "num": 645591,
+      "word": "实施绿色消费推进行动",
+      "onboard_time": 1767618681,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9244,
       "num": 24188,
       "word": "AG宣布副教练李托卸任",
       "onboard_time": 1767550695,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 7399,
-      "num": 89128,
-      "word": "2杯奶茶钱 1斤车厘子",
-      "onboard_time": 1767617961,
-      "rank": 39,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
