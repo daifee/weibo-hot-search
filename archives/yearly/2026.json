@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767613379784,
+  "endTime": 1767618076134,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -521,6 +521,14 @@
       "onboard_time": 1767440726,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 723506,
+      "num": 294836,
+      "word": "产后55天遭丈夫家暴女子发声",
+      "onboard_time": 1767615382,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 706424,
@@ -1097,6 +1105,14 @@
       "onboard_time": 1767429144,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 495094,
+      "num": 419412,
+      "word": "瑞士冻结马杜罗在瑞资产",
+      "onboard_time": 1767614420,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 493980,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767536062,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 299362,
-      "num": 1001134,
-      "word": "徐杰受伤",
-      "onboard_time": 1767270502,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 298193,
-      "num": 774071,
-      "word": "为啥车厘子1个月到中国都不腐烂",
-      "onboard_time": 1767541943,
-      "rank": 22,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -2451,6 +2451,9 @@
     },
     {
       "word": "#跟随总书记的文化足迹感受文脉华章#"
+    },
+    {
+      "word": "#习近平同李在明会谈#"
     }
   ]
 }

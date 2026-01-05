@@ -1,0 +1,410 @@
+{
+  "runTime": 1767618076134,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 294608,
+        "num": 1047137,
+        "word": "中韩元首会谈",
+        "onboard_time": 1767614000,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 226311,
+        "num": 769263,
+        "word": "哈尔滨零下20℃外国游客光腿穿短裤",
+        "onboard_time": 1767595701,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12889,
+        "num": 610865,
+        "word": "1分钟看开工首日奋斗图景",
+        "onboard_time": 1767603681,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208415,
+        "num": 462660,
+        "word": "月亮",
+        "onboard_time": 1767617841,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 446316,
+        "num": 446316,
+        "word": "韩国四大财团掌门人在京集体亮相",
+        "onboard_time": 1767606682,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 495094,
+        "num": 419412,
+        "word": "瑞士冻结马杜罗在瑞资产",
+        "onboard_time": 1767614420,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 196386,
+        "num": 410600,
+        "word": "17岁少年虚假退货薅羊毛骗了400万",
+        "onboard_time": 1767606321,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170498,
+        "num": 384556,
+        "word": "女子发现超市漏洞薅了20多万",
+        "onboard_time": 1767617841,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155391,
+        "num": 352214,
+        "word": "李在明夫人感谢中国女性代表",
+        "onboard_time": 1767611722,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95874,
+        "num": 313495,
+        "word": "理肤泉直播",
+        "onboard_time": 1767616102,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 723506,
+        "num": 294836,
+        "word": "产后55天遭丈夫家暴女子发声",
+        "onboard_time": 1767615382,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278536,
+        "num": 278536,
+        "word": "春晚彩排路透",
+        "onboard_time": 1767605002,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214272,
+        "num": 214272,
+        "word": "罗云熙我直接告诉你得了呗",
+        "onboard_time": 1767612380,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212641,
+        "num": 212641,
+        "word": "眼泪是庄序最好的医美",
+        "onboard_time": 1767614000,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212176,
+        "num": 212176,
+        "word": "范丞丞对张艺凡喊303",
+        "onboard_time": 1767614000,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155142,
+        "num": 155142,
+        "word": "父母一个月内相继离世女孩独自报丧",
+        "onboard_time": 1767617901,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146636,
+        "num": 146636,
+        "word": "外交部回应中国委内瑞拉石油合作",
+        "onboard_time": 1767605721,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138290,
+        "num": 138290,
+        "word": "李在明说中国是千金难换的好邻居",
+        "onboard_time": 1767612201,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127387,
+        "num": 127387,
+        "word": "李在明与李在镕微笑着打招呼",
+        "onboard_time": 1767615200,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126814,
+        "num": 126814,
+        "word": "李在明谈韩国人周五下班去上海",
+        "onboard_time": 1767602841,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 312583,
+        "num": 126426,
+        "word": "没认出这是赖冠霖",
+        "onboard_time": 1767595701,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236210,
+        "num": 126324,
+        "word": "骄阳似我连聊天记录都尊重观众",
+        "onboard_time": 1767606922,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167758,
+        "num": 125765,
+        "word": "毒皇后扮演者被迪士尼乐园辞退",
+        "onboard_time": 1767602961,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127003,
+        "num": 125602,
+        "word": "李嘉格孩子称妈妈男友为哥哥",
+        "onboard_time": 1767612741,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125241,
+        "num": 125241,
+        "word": "罚罪2第28集封神",
+        "onboard_time": 1767612141,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279905,
+        "num": 125048,
+        "word": "内娱窝囊废公司来了没文化的野人",
+        "onboard_time": 1767615680,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124721,
+        "num": 124721,
+        "word": "iPhone的计算器居然这么强大",
+        "onboard_time": 1767604102,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 119946,
+        "num": 119946,
+        "word": "广东的十度有多冷",
+        "onboard_time": 1767616343,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27373,
+        "num": 118899,
+        "word": "马杜罗抵达纽约联邦法院",
+        "onboard_time": 1767617901,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118760,
+        "num": 118760,
+        "word": "山姆车厘子每斤狂降70元",
+        "onboard_time": 1767596781,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117478,
+        "num": 117478,
+        "word": "6国发表联合声明强烈谴责美国",
+        "onboard_time": 1767602241,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107848,
+        "num": 107848,
+        "word": "差点没认出来这是李施嬅",
+        "onboard_time": 1767615921,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107728,
+        "num": 107728,
+        "word": "sakee asen",
+        "onboard_time": 1767610102,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104765,
+        "num": 104765,
+        "word": "颜安 全女工作室",
+        "onboard_time": 1767603322,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102336,
+        "num": 102336,
+        "word": "男子连吃3天火锅配猪蹄诱发胰腺炎",
+        "onboard_time": 1767613641,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101485,
+        "num": 101485,
+        "word": "易易紫说看不上买超",
+        "onboard_time": 1767615021,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98596,
+        "num": 98596,
+        "word": "芒果新人人均撞脸杰克逊",
+        "onboard_time": 1767617361,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97524,
+        "num": 97524,
+        "word": "物业笑了半小时才决定救人",
+        "onboard_time": 1767596723,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89393,
+        "num": 89393,
+        "word": "上海全款150万9平米的独栋",
+        "onboard_time": 1767608241,
+        "rank": 38,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 7399,
+        "num": 89128,
+        "word": "2杯奶茶钱 1斤车厘子",
+        "onboard_time": 1767617961,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88977,
+        "num": 88977,
+        "word": "罚罪",
+        "onboard_time": 1767617782,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87353,
+        "num": 87353,
+        "word": "小英否认怀孕",
+        "onboard_time": 1767614722,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 86327,
+        "num": 86327,
+        "word": "黄景瑜王传君梁洁势不三立",
+        "onboard_time": 1767614299,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84540,
+        "num": 84540,
+        "word": "原来网上的辣椒炒肉是这样摆拍出来的",
+        "onboard_time": 1767611659,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 81935,
+        "num": 81935,
+        "word": "王楚然 这是我老板送我的",
+        "onboard_time": 1767608542,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78361,
+        "num": 78361,
+        "word": "范丞丞私下篮球台球都来的",
+        "onboard_time": 1767612380,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78173,
+        "num": 78173,
+        "word": "一部剧满足了我所有现偶癖",
+        "onboard_time": 1767616161,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74053,
+        "num": 74053,
+        "word": "骄阳似我",
+        "onboard_time": 1767588083,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69633,
+        "num": 73287,
+        "word": "阿莫林被解雇",
+        "onboard_time": 1767608180,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72799,
+        "num": 72799,
+        "word": "马杜罗出庭",
+        "onboard_time": 1767618021,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同李在明会谈#"
+    }
+  }
+}
