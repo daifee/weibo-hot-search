@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767598604783,
+  "endTime": 1767599396722,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 956208,
+      "num": 341311,
+      "word": "疑被助产士剪断手指男婴父亲发声",
+      "onboard_time": 1767595222,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 932499,
       "num": 1149199,
       "word": "2026央视春晚彩排开始了",
@@ -219,6 +227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 778603,
+      "num": 222815,
+      "word": "没认出这是赖冠霖",
+      "onboard_time": 1767595701,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 768109,
       "num": 1122897,
       "word": "车厘子 褪黑素",
@@ -264,22 +280,6 @@
       "word": "男子假期嫖娼被拘隐瞒7年被辞退",
       "onboard_time": 1767535584,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 722801,
-      "num": 222815,
-      "word": "没认出这是赖冠霖",
-      "onboard_time": 1767595701,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 704108,
-      "num": 341311,
-      "word": "疑被助产士剪断手指男婴父亲发声",
-      "onboard_time": 1767595222,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -731,6 +731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 435230,
+      "num": 1069636,
+      "word": "哈尔滨零下20℃外国游客光腿穿短裤",
+      "onboard_time": 1767595701,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 434032,
       "num": 234827,
       "word": "高三男生被邻居驾车撞伤1年多身亡",
@@ -787,20 +795,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 417050,
-      "num": 776106,
-      "word": "哈尔滨零下20℃外国游客光腿穿短裤",
-      "onboard_time": 1767595701,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 416609,
       "num": 818135,
       "word": "被播放了70亿次的声音竟然是她",
       "onboard_time": 1767508162,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 415908,
+      "num": 322278,
+      "word": "物业笑了半小时才决定救人",
+      "onboard_time": 1767596723,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 412890,
@@ -1059,6 +1067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 340364,
+      "num": 340364,
+      "word": "差三分考上北大研究生的含金量",
+      "onboard_time": 1767595402,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 338349,
       "num": 251790,
       "word": "马杜罗押送途中对着镜头比出剪刀手",
@@ -1211,14 +1227,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 302278,
-      "num": 132195,
-      "word": "物业笑了半小时才决定救人",
-      "onboard_time": 1767596723,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 300684,
       "num": 268368,
       "word": "太原一商场马年雕塑被连夜拆除",
@@ -1331,14 +1339,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 275048,
-      "num": 339761,
-      "word": "差三分考上北大研究生的含金量",
-      "onboard_time": 1767595402,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 272856,
       "num": 272856,
       "word": "于正称玉茗茶骨不爆是长剧没有观众",
@@ -1369,6 +1369,14 @@
       "onboard_time": 1767591622,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 268712,
+      "num": 268712,
+      "word": "新生儿疑被助产士剪断手指",
+      "onboard_time": 1767596361,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 267807,
@@ -1739,14 +1747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 209158,
-      "num": 209158,
-      "word": "新生儿疑被助产士剪断手指",
-      "onboard_time": 1767596361,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 208911,
       "num": 208911,
       "word": "萨尔队德国杯决赛对阵富尔达",
@@ -1761,6 +1761,14 @@
       "onboard_time": 1767596423,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208007,
+      "num": 208007,
+      "word": "山姆车厘子每斤狂降70元",
+      "onboard_time": 1767596781,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207352,
@@ -2227,6 +2235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169672,
+      "num": 168777,
+      "word": "赵丽颖哭戏",
+      "onboard_time": 1767595103,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169430,
       "num": 189380,
       "word": "曾志伟卸任TVB总经理",
@@ -2241,14 +2257,6 @@
       "onboard_time": 1767531862,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168777,
-      "num": 168777,
-      "word": "赵丽颖哭戏",
-      "onboard_time": 1767595103,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 168411,
@@ -2411,6 +2419,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 162855,
+      "num": 162855,
+      "word": "女生游黄山身亡家属称护栏存缺陷",
+      "onboard_time": 1767595161,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161400,
       "num": 179589,
       "word": "德国杯",
@@ -2424,6 +2440,14 @@
       "word": "轧戏",
       "onboard_time": 1767496704,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 160081,
+      "num": 160081,
+      "word": "内娱现偶婚纱照",
+      "onboard_time": 1767597861,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -2619,14 +2643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147771,
-      "num": 147771,
-      "word": "山姆车厘子每斤狂降70元",
-      "onboard_time": 1767596781,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 147027,
       "num": 147027,
       "word": "逍遥",
@@ -2689,6 +2705,14 @@
       "onboard_time": 1767539063,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144059,
+      "num": 144059,
+      "word": "黄晓明山东人演体制内太权威了",
+      "onboard_time": 1767598582,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 143113,
@@ -2819,14 +2843,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 137466,
-      "num": 137466,
-      "word": "女生游黄山身亡家属称护栏存缺陷",
-      "onboard_time": 1767595161,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137417,
       "num": 137417,
       "word": "韩国总统李在明将访华",
@@ -2905,6 +2921,14 @@
       "onboard_time": 1767526883,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 134365,
+      "num": 134365,
+      "word": "七七赵钰琪签约后第一条vlog",
+      "onboard_time": 1767598282,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 134042,
@@ -3099,14 +3123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123463,
-      "num": 123463,
-      "word": "七七赵钰琪签约后第一条vlog",
-      "onboard_time": 1767598282,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 123432,
       "num": 190083,
       "word": "那英2026演唱会官宣",
@@ -3193,6 +3209,14 @@
       "onboard_time": 1767526162,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119080,
+      "num": 119080,
+      "word": "英雄联盟补偿我",
+      "onboard_time": 1767598102,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 118886,
@@ -3291,6 +3315,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 114140,
+      "num": 114140,
+      "word": "2元人民币已绝版6年",
+      "onboard_time": 1767597562,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113777,
+      "num": 130347,
+      "word": "网购假退货1万多次护肤品被判刑",
+      "onboard_time": 1767594802,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113680,
       "num": 113680,
       "word": "骑手眼中的外卖勺子",
@@ -3361,14 +3401,6 @@
       "onboard_time": 1767518542,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 111439,
-      "num": 111439,
-      "word": "内娱现偶婚纱照",
-      "onboard_time": 1767597861,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 110820,
@@ -3489,6 +3521,14 @@
       "onboard_time": 1767508882,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 105149,
+      "num": 105149,
+      "word": "久坐的人一定要好好锻炼屁股",
+      "onboard_time": 1767599063,
+      "rank": 40,
+      "category": "运动健身"
     },
     {
       "raw_hot": 104606,
@@ -3633,14 +3673,6 @@
       "onboard_time": 1767508042,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 100356,
-      "num": 100356,
-      "word": "黄晓明山东人演体制内太权威了",
-      "onboard_time": 1767598582,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 100235,
@@ -3987,14 +4019,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 91061,
-      "num": 91061,
-      "word": "英雄联盟补偿我",
-      "onboard_time": 1767598102,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 91052,
       "num": 281399,
       "word": "特等功臣沈财富逝世",
@@ -4179,20 +4203,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86635,
-      "num": 130347,
-      "word": "网购假退货1万多次护肤品被判刑",
-      "onboard_time": 1767594802,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85548,
       "num": 85548,
       "word": "赵丽颖黄晓明对手戏",
       "onboard_time": 1767509662,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85279,
+      "num": 85279,
+      "word": "她被自己困住了",
+      "onboard_time": 1767599001,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 85183,
@@ -4217,6 +4241,14 @@
       "onboard_time": 1767508102,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 83794,
+      "num": 83794,
+      "word": "周一上班上一赠一",
+      "onboard_time": 1767597621,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 83503,
@@ -4275,14 +4307,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 81632,
-      "num": 99676,
-      "word": "2元人民币已绝版6年",
-      "onboard_time": 1767597562,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 81571,
       "num": 804616,
       "word": "小猫上半身基础下半身就不基础",
@@ -4297,6 +4321,14 @@
       "onboard_time": 1767568879,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80952,
+      "num": 80952,
+      "word": "海南人请假理由",
+      "onboard_time": 1767598642,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 80459,
@@ -4363,6 +4395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 78114,
+      "num": 78114,
+      "word": "窈窈有期",
+      "onboard_time": 1767598881,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77858,
       "num": 133796,
       "word": "委军方称已启动全面战备状态",
@@ -4393,6 +4433,14 @@
       "onboard_time": 1767590123,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76801,
+      "num": 243609,
+      "word": "肖战新国风封神",
+      "onboard_time": 1767587664,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 76421,
@@ -4571,6 +4619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64464,
+      "num": 158883,
+      "word": "点单说螃蟹58一斤结账变58一只",
+      "onboard_time": 1767597260,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64117,
       "num": 785040,
       "word": "刘宇宁告别音乐缘计划",
@@ -4640,14 +4696,6 @@
       "word": "2026国补新变化",
       "onboard_time": 1767508162,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61163,
-      "num": 158883,
-      "word": "点单说螃蟹58一斤结账变58一只",
-      "onboard_time": 1767597260,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -4849,14 +4897,6 @@
       "onboard_time": 1767440366,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49816,
-      "num": 243609,
-      "word": "肖战新国风封神",
-      "onboard_time": 1767587664,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 49170,
@@ -5307,6 +5347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22849,
+      "num": 110471,
+      "word": "巴黎偶遇周也李浩菲",
+      "onboard_time": 1767599181,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22342,
       "num": 106960,
       "word": "在委华人称第一次出国就遇上空袭",
@@ -5329,6 +5377,14 @@
       "onboard_time": 1767511823,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 21324,
+      "num": 598917,
+      "word": "中国人过冬的仪式感",
+      "onboard_time": 1767578182,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21274,
@@ -5401,14 +5457,6 @@
       "onboard_time": 1767514702,
       "rank": 39,
       "category": "民生新闻,数码"
-    },
-    {
-      "raw_hot": 15857,
-      "num": 598917,
-      "word": "中国人过冬的仪式感",
-      "onboard_time": 1767578182,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15518,

@@ -1,6 +1,6 @@
 {
   "startTime": 1767544434885,
-  "endTime": 1767598604783,
+  "endTime": 1767599396722,
   "band_list": [
     {
       "raw_hot": 1158219,
@@ -27,6 +27,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 956208,
+      "num": 341311,
+      "word": "疑被助产士剪断手指男婴父亲发声",
+      "onboard_time": 1767595222,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 793383,
       "num": 244428,
       "word": "娜扎跳舞肩带断了",
@@ -43,15 +51,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 741247,
-      "num": 1118599,
-      "word": "英法联合空袭叙利亚",
-      "onboard_time": 1767580880,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 722801,
+      "raw_hot": 778603,
       "num": 222815,
       "word": "没认出这是赖冠霖",
       "onboard_time": 1767595701,
@@ -59,12 +59,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 704108,
-      "num": 341311,
-      "word": "疑被助产士剪断手指男婴父亲发声",
-      "onboard_time": 1767595222,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 741247,
+      "num": 1118599,
+      "word": "英法联合空袭叙利亚",
+      "onboard_time": 1767580880,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 650637,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 435230,
+      "num": 1069636,
+      "word": "哈尔滨零下20℃外国游客光腿穿短裤",
+      "onboard_time": 1767595701,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 434032,
       "num": 234827,
       "word": "高三男生被邻居驾车撞伤1年多身亡",
@@ -227,12 +235,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 417050,
-      "num": 776106,
-      "word": "哈尔滨零下20℃外国游客光腿穿短裤",
-      "onboard_time": 1767595701,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 415908,
+      "num": 322278,
+      "word": "物业笑了半小时才决定救人",
+      "onboard_time": 1767596723,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 411474,
@@ -307,6 +315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 340364,
+      "num": 340364,
+      "word": "差三分考上北大研究生的含金量",
+      "onboard_time": 1767595402,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 337910,
       "num": 189807,
       "word": "委内瑞拉之后这些国家面临危险",
@@ -363,14 +379,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 302278,
-      "num": 132195,
-      "word": "物业笑了半小时才决定救人",
-      "onboard_time": 1767596723,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 300684,
       "num": 268368,
       "word": "太原一商场马年雕塑被连夜拆除",
@@ -403,14 +411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 275048,
-      "num": 339761,
-      "word": "差三分考上北大研究生的含金量",
-      "onboard_time": 1767595402,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 271513,
       "num": 190026,
       "word": "何超盈小8岁老公近照",
@@ -425,6 +425,14 @@
       "onboard_time": 1767591622,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 268712,
+      "num": 268712,
+      "word": "新生儿疑被助产士剪断手指",
+      "onboard_time": 1767596361,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 263748,
@@ -563,20 +571,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 209158,
-      "num": 209158,
-      "word": "新生儿疑被助产士剪断手指",
-      "onboard_time": 1767596361,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 208469,
       "num": 208469,
       "word": "曹骏真俊啊",
       "onboard_time": 1767596423,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208007,
+      "num": 208007,
+      "word": "山姆车厘子每斤狂降70元",
+      "onboard_time": 1767596781,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207352,
@@ -747,20 +755,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169672,
+      "num": 168777,
+      "word": "赵丽颖哭戏",
+      "onboard_time": 1767595103,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169430,
       "num": 189380,
       "word": "曾志伟卸任TVB总经理",
       "onboard_time": 1767543920,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168777,
-      "num": 168777,
-      "word": "赵丽颖哭戏",
-      "onboard_time": 1767595103,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 165933,
@@ -803,11 +811,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162855,
+      "num": 162855,
+      "word": "女生游黄山身亡家属称护栏存缺陷",
+      "onboard_time": 1767595161,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161381,
       "num": 189782,
       "word": "骄阳似我",
       "onboard_time": 1767522682,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 160081,
+      "num": 160081,
+      "word": "内娱现偶婚纱照",
+      "onboard_time": 1767597861,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -899,14 +923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147771,
-      "num": 147771,
-      "word": "山姆车厘子每斤狂降70元",
-      "onboard_time": 1767596781,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146169,
       "num": 146169,
       "word": "黑豹乐队创始人郭传林去世",
@@ -921,6 +937,14 @@
       "onboard_time": 1767594742,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144059,
+      "num": 144059,
+      "word": "黄晓明山东人演体制内太权威了",
+      "onboard_time": 1767598582,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 141284,
@@ -963,14 +987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137466,
-      "num": 137466,
-      "word": "女生游黄山身亡家属称护栏存缺陷",
-      "onboard_time": 1767595161,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136654,
       "num": 136654,
       "word": "樊振东获德国杯MVP",
@@ -1001,6 +1017,14 @@
       "onboard_time": 1767536964,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134365,
+      "num": 134365,
+      "word": "七七赵钰琪签约后第一条vlog",
+      "onboard_time": 1767598282,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 131156,
@@ -1067,14 +1091,6 @@
       "category": "美食,健康医疗"
     },
     {
-      "raw_hot": 123463,
-      "num": 123463,
-      "word": "七七赵钰琪签约后第一条vlog",
-      "onboard_time": 1767598282,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 123432,
       "num": 190083,
       "word": "那英2026演唱会官宣",
@@ -1097,6 +1113,14 @@
       "onboard_time": 1767532943,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 119080,
+      "num": 119080,
+      "word": "英雄联盟补偿我",
+      "onboard_time": 1767598102,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 116944,
@@ -1139,6 +1163,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 114140,
+      "num": 114140,
+      "word": "2元人民币已绝版6年",
+      "onboard_time": 1767597562,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113777,
+      "num": 130347,
+      "word": "网购假退货1万多次护肤品被判刑",
+      "onboard_time": 1767594802,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113680,
       "num": 113680,
       "word": "骑手眼中的外卖勺子",
@@ -1177,14 +1217,6 @@
       "onboard_time": 1767541342,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 111439,
-      "num": 111439,
-      "word": "内娱现偶婚纱照",
-      "onboard_time": 1767597861,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 109962,
@@ -1227,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105149,
+      "num": 105149,
+      "word": "久坐的人一定要好好锻炼屁股",
+      "onboard_time": 1767599063,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 103422,
       "num": 133864,
       "word": "骄阳似我云合",
@@ -1249,14 +1289,6 @@
       "onboard_time": 1767537864,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100356,
-      "num": 100356,
-      "word": "黄晓明山东人演体制内太权威了",
-      "onboard_time": 1767598582,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 100220,
@@ -1363,14 +1395,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 91061,
-      "num": 91061,
-      "word": "英雄联盟补偿我",
-      "onboard_time": 1767598102,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 91052,
       "num": 281399,
       "word": "特等功臣沈财富逝世",
@@ -1419,14 +1443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86635,
-      "num": 130347,
-      "word": "网购假退货1万多次护肤品被判刑",
-      "onboard_time": 1767594802,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85513,
       "num": 190189,
       "word": "流落柬埔寨街头中国女子已被找到",
@@ -1435,12 +1451,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85279,
+      "num": 85279,
+      "word": "她被自己困住了",
+      "onboard_time": 1767599001,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 84337,
       "num": 84337,
       "word": "23岁女孩遇车祸脑疝母亲下跪托付",
       "onboard_time": 1767579021,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83794,
+      "num": 83794,
+      "word": "周一上班上一赠一",
+      "onboard_time": 1767597621,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 82909,
@@ -1475,20 +1507,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 81632,
-      "num": 99676,
-      "word": "2元人民币已绝版6年",
-      "onboard_time": 1767597562,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 81160,
       "num": 78329,
       "word": "黄宗泽TVB双料视帝",
       "onboard_time": 1767568879,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80952,
+      "num": 80952,
+      "word": "海南人请假理由",
+      "onboard_time": 1767598642,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 79969,
@@ -1531,6 +1563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 78114,
+      "num": 78114,
+      "word": "窈窈有期",
+      "onboard_time": 1767598881,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77858,
       "num": 133796,
       "word": "委军方称已启动全面战备状态",
@@ -1553,6 +1593,14 @@
       "onboard_time": 1767590123,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76801,
+      "num": 243609,
+      "word": "肖战新国风封神",
+      "onboard_time": 1767587664,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 76421,
@@ -1643,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64464,
+      "num": 158883,
+      "word": "点单说螃蟹58一斤结账变58一只",
+      "onboard_time": 1767597260,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62983,
       "num": 62983,
       "word": "雷军2026年第1次健身房打卡",
@@ -1681,14 +1737,6 @@
       "onboard_time": 1767547877,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 61163,
-      "num": 158883,
-      "word": "点单说螃蟹58一斤结账变58一只",
-      "onboard_time": 1767597260,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60870,
@@ -1843,14 +1891,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 49816,
-      "num": 243609,
-      "word": "肖战新国风封神",
-      "onboard_time": 1767587664,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 49170,
       "num": 49170,
       "word": "车厘子含褪黑素但不能催眠",
@@ -1995,6 +2035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22849,
+      "num": 110471,
+      "word": "巴黎偶遇周也李浩菲",
+      "onboard_time": 1767599181,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21782,
       "num": 61426,
       "word": "微博网友年度期待电影",
@@ -2003,7 +2051,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 15857,
+      "raw_hot": 21324,
       "num": 598917,
       "word": "中国人过冬的仪式感",
       "onboard_time": 1767578182,

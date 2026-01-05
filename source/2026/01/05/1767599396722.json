@@ -1,0 +1,410 @@
+{
+  "runTime": 1767599396722,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 435230,
+        "num": 1069636,
+        "word": "哈尔滨零下20℃外国游客光腿穿短裤",
+        "onboard_time": 1767595701,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399663,
+        "num": 763532,
+        "word": "央视曝光偷SIM卡套路",
+        "onboard_time": 1767593122,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21324,
+        "num": 589107,
+        "word": "中国人过冬的仪式感",
+        "onboard_time": 1767578182,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340364,
+        "num": 340364,
+        "word": "差三分考上北大研究生的含金量",
+        "onboard_time": 1767595402,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325877,
+        "num": 325877,
+        "word": "女子怀孕每次产检发现多出一胎",
+        "onboard_time": 1767589044,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415908,
+        "num": 322278,
+        "word": "物业笑了半小时才决定救人",
+        "onboard_time": 1767596723,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286726,
+        "num": 286726,
+        "word": "LABUBU不用抢了",
+        "onboard_time": 1767594501,
+        "rank": 6,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 268712,
+        "num": 268712,
+        "word": "新生儿疑被助产士剪断手指",
+        "onboard_time": 1767596361,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258353,
+        "num": 258353,
+        "word": "委内瑞拉代总统致信美国及世界",
+        "onboard_time": 1767588441,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 208007,
+        "num": 208007,
+        "word": "山姆车厘子每斤狂降70元",
+        "onboard_time": 1767596781,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 956208,
+        "num": 206556,
+        "word": "疑被助产士剪断手指男婴父亲发声",
+        "onboard_time": 1767595222,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463924,
+        "num": 204186,
+        "word": "旭旭宝宝酷滕和解",
+        "onboard_time": 1767596841,
+        "rank": 11,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 367040,
+        "num": 200651,
+        "word": "英雄联盟 证书到期",
+        "onboard_time": 1767591144,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 290543,
+        "num": 197503,
+        "word": "冰箱贴一定要经常挪挪位置",
+        "onboard_time": 1767571581,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208082,
+        "num": 191219,
+        "word": "曹骏真俊啊",
+        "onboard_time": 1767596423,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190835,
+        "num": 190835,
+        "word": "鲁比奥或被选为委内瑞拉总督",
+        "onboard_time": 1767591622,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 175031,
+        "num": 175031,
+        "word": "朱媛媛遗作即将播出",
+        "onboard_time": 1767594382,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164230,
+        "num": 164230,
+        "word": "英雄联盟",
+        "onboard_time": 1767588023,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169672,
+        "num": 163843,
+        "word": "赵丽颖哭戏",
+        "onboard_time": 1767595103,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162855,
+        "num": 162855,
+        "word": "女生游黄山身亡家属称护栏存缺陷",
+        "onboard_time": 1767595161,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 778603,
+        "num": 162851,
+        "word": "没认出这是赖冠霖",
+        "onboard_time": 1767595701,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359891,
+        "num": 161640,
+        "word": "霍启仁妻子公开婚礼现场照",
+        "onboard_time": 1767591922,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242842,
+        "num": 160843,
+        "word": "娜扎跳舞肩带断了",
+        "onboard_time": 1767588562,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183350,
+        "num": 160284,
+        "word": "内娱终于有剧躲过八集定律了",
+        "onboard_time": 1767593662,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160081,
+        "num": 160081,
+        "word": "内娱现偶婚纱照",
+        "onboard_time": 1767597861,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152807,
+        "num": 152807,
+        "word": "骄阳似我一部挂羊头卖羊肉的剧",
+        "onboard_time": 1767592222,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149650,
+        "num": 149650,
+        "word": "凶手听到量刑建议死立执才道歉",
+        "onboard_time": 1767587123,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148784,
+        "num": 148784,
+        "word": "哈尔滨零下20度外国游客穿短裤光腿",
+        "onboard_time": 1767598401,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146319,
+        "num": 146319,
+        "word": "黄金",
+        "onboard_time": 1767579621,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144059,
+        "num": 144059,
+        "word": "黄晓明山东人演体制内太权威了",
+        "onboard_time": 1767598582,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134365,
+        "num": 134365,
+        "word": "七七赵钰琪签约后第一条vlog",
+        "onboard_time": 1767598282,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121022,
+        "num": 121022,
+        "word": "东北家里忘关水龙头变冰山",
+        "onboard_time": 1767591442,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119080,
+        "num": 119080,
+        "word": "英雄联盟补偿我",
+        "onboard_time": 1767598102,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118531,
+        "num": 118531,
+        "word": "叙利亚",
+        "onboard_time": 1767589344,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114461,
+        "num": 114461,
+        "word": "李在明分享中国行首日视频",
+        "onboard_time": 1767593722,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114140,
+        "num": 114140,
+        "word": "2元人民币已绝版6年",
+        "onboard_time": 1767597562,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64464,
+        "num": 113873,
+        "word": "点单说螃蟹58一斤结账变58一只",
+        "onboard_time": 1767597260,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113777,
+        "num": 113777,
+        "word": "网购假退货1万多次护肤品被判刑",
+        "onboard_time": 1767594802,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22849,
+        "num": 110471,
+        "word": "巴黎偶遇周也李浩菲",
+        "onboard_time": 1767599181,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109488,
+        "num": 109488,
+        "word": "关晓彤新造型是女儿是妈妈",
+        "onboard_time": 1767591503,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105149,
+        "num": 105149,
+        "word": "久坐的人一定要好好锻炼屁股",
+        "onboard_time": 1767599063,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 88532,
+        "num": 88532,
+        "word": "王鹤棣说白鹿净看些没营养的",
+        "onboard_time": 1767594742,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87217,
+        "num": 87217,
+        "word": "买东西 隐形家务",
+        "onboard_time": 1767597741,
+        "rank": 42,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 86835,
+        "num": 86835,
+        "word": "老一辈的化妆品太权威了",
+        "onboard_time": 1767598222,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 85279,
+        "num": 85279,
+        "word": "她被自己困住了",
+        "onboard_time": 1767599001,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83794,
+        "num": 83794,
+        "word": "周一上班上一赠一",
+        "onboard_time": 1767597621,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80952,
+        "num": 80952,
+        "word": "海南人请假理由",
+        "onboard_time": 1767598642,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80011,
+        "num": 80011,
+        "word": "年轻人的差评表达方式",
+        "onboard_time": 1767596902,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 78114,
+        "num": 78114,
+        "word": "窈窈有期",
+        "onboard_time": 1767598881,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76801,
+        "num": 76801,
+        "word": "肖战新国风封神",
+        "onboard_time": 1767587664,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见爱尔兰总理马丁#"
+    }
+  }
+}
