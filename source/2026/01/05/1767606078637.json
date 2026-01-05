@@ -1,0 +1,410 @@
+{
+  "runTime": 1767606078637,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 406268,
+        "num": 1065003,
+        "word": "山姆车厘子每斤狂降70元",
+        "onboard_time": 1767596781,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386463,
+        "num": 758481,
+        "word": "李在明谈韩国人周五下班去上海",
+        "onboard_time": 1767602841,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21063,
+        "num": 595057,
+        "word": "长江经济带交出发展十年亮丽答卷",
+        "onboard_time": 1767604102,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301539,
+        "num": 301539,
+        "word": "内娱现偶婚纱照",
+        "onboard_time": 1767597861,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296134,
+        "num": 296134,
+        "word": "哈尔滨零下20℃外国游客光腿穿短裤",
+        "onboard_time": 1767595701,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 615842,
+        "num": 293596,
+        "word": "女生游黄山高坠死亡谁呼出的电话",
+        "onboard_time": 1767602061,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364772,
+        "num": 292003,
+        "word": "物业笑了半小时才决定救人",
+        "onboard_time": 1767596723,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 288111,
+        "num": 288111,
+        "word": "iPhone的计算器居然这么强大",
+        "onboard_time": 1767604102,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 270889,
+        "num": 270889,
+        "word": "春晚彩排路透",
+        "onboard_time": 1767605002,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220926,
+        "num": 269350,
+        "word": "学生评教靠前老师评分却成倒数第一",
+        "onboard_time": 1767600142,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272218,
+        "num": 269337,
+        "word": "6国发表联合声明强烈谴责美国",
+        "onboard_time": 1767602241,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 269289,
+        "num": 269289,
+        "word": "拉美5国联合西班牙反对美动武",
+        "onboard_time": 1767601702,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 263565,
+        "num": 263565,
+        "word": "eStarPro Fly",
+        "onboard_time": 1767600023,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 211219,
+        "num": 211219,
+        "word": "委内瑞拉代总统致信美国及世界",
+        "onboard_time": 1767588441,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 211031,
+        "num": 211031,
+        "word": "英雄联盟证书续了100年",
+        "onboard_time": 1767600080,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198132,
+        "num": 198132,
+        "word": "女子怀孕每次产检发现多出一胎",
+        "onboard_time": 1767589044,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185589,
+        "num": 185589,
+        "word": "男二刚碰上女主的手就被甩开了",
+        "onboard_time": 1767602121,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179552,
+        "num": 179552,
+        "word": "旭旭宝宝酷滕和解",
+        "onboard_time": 1767596841,
+        "rank": 17,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 93268,
+        "num": 178715,
+        "word": "LVMonogram130周年了",
+        "onboard_time": 1767605601,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 78516,
+        "num": 176670,
+        "word": "起底男婴疑被助产士剪断手指涉事医院",
+        "onboard_time": 1767604881,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 608605,
+        "num": 174085,
+        "word": "毒皇后扮演者被迪士尼乐园辞退",
+        "onboard_time": 1767602961,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316265,
+        "num": 173216,
+        "word": "没认出这是赖冠霖",
+        "onboard_time": 1767595701,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296701,
+        "num": 169851,
+        "word": "宋威龙张凌赫 今麦郎",
+        "onboard_time": 1767600381,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229494,
+        "num": 167810,
+        "word": "赵丽颖从未否认自己是马里奥",
+        "onboard_time": 1767604401,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201624,
+        "num": 165775,
+        "word": "赵今麦背上贴满了暖宝宝",
+        "onboard_time": 1767603441,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197178,
+        "num": 164451,
+        "word": "颜安 全女工作室",
+        "onboard_time": 1767603322,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182931,
+        "num": 162609,
+        "word": "他红是迟早的事",
+        "onboard_time": 1767600142,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160944,
+        "num": 160944,
+        "word": "冰箱贴一定要经常挪挪位置",
+        "onboard_time": 1767571581,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157313,
+        "num": 157313,
+        "word": "田朴珺方称和王石不上再见爱人",
+        "onboard_time": 1767605122,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20352,
+        "num": 155100,
+        "word": "厂家称被拆马年雕塑好多人想买",
+        "onboard_time": 1767605840,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38046,
+        "num": 153902,
+        "word": "鲁比奥称可能向委派兵",
+        "onboard_time": 1767604281,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153566,
+        "num": 153566,
+        "word": "英雄联盟 证书到期",
+        "onboard_time": 1767591144,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152689,
+        "num": 152689,
+        "word": "LABUBU不用抢了",
+        "onboard_time": 1767594501,
+        "rank": 32,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 129640,
+        "num": 129640,
+        "word": "娜扎跳舞肩带断了",
+        "onboard_time": 1767588562,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126782,
+        "num": 126782,
+        "word": "李晋晔是真害怕了",
+        "onboard_time": 1767605362,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124491,
+        "num": 124491,
+        "word": "范丞丞态度也是很刚了",
+        "onboard_time": 1767602121,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33813,
+        "num": 123259,
+        "word": "邻居撞死高中生报警谎称交通事故",
+        "onboard_time": 1767604881,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36257,
+        "num": 121492,
+        "word": "38岁男子元旦夜在跨海大桥弃车失踪",
+        "onboard_time": 1767604942,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52119,
+        "num": 119398,
+        "word": "女子贴甲片时502胶水喷进眼睛",
+        "onboard_time": 1767605780,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60265,
+        "num": 115407,
+        "word": "广州疑似扬尘逼迁",
+        "onboard_time": 1767604821,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114816,
+        "num": 114816,
+        "word": "久坐的人一定要好好锻炼屁股",
+        "onboard_time": 1767599063,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 113999,
+        "num": 113999,
+        "word": "跑男史上最安静的一期",
+        "onboard_time": 1767600862,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103254,
+        "num": 103254,
+        "word": "骄阳似我",
+        "onboard_time": 1767588083,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102138,
+        "num": 102138,
+        "word": "2026年第一部群像剧来了",
+        "onboard_time": 1767605840,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99860,
+        "num": 99860,
+        "word": "外交部回应中国委内瑞拉石油合作",
+        "onboard_time": 1767605721,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95041,
+        "num": 95041,
+        "word": "樊振东肚子露出来了立刻遮住",
+        "onboard_time": 1767605721,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94369,
+        "num": 94369,
+        "word": "英雄联盟补偿我",
+        "onboard_time": 1767598102,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 92687,
+        "num": 92687,
+        "word": "玉茗茶骨也没放过何老师",
+        "onboard_time": 1767606021,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90890,
+        "num": 90890,
+        "word": "刘宇宁2026央视春晚彩排路透",
+        "onboard_time": 1767601761,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89981,
+        "num": 89981,
+        "word": "英雄联盟",
+        "onboard_time": 1767588023,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟随总书记的文化足迹感受文脉华章#"
+    }
+  }
+}
