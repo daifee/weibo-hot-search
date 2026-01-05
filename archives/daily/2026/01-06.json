@@ -1,6 +1,6 @@
 {
   "startTime": 1767631011864,
-  "endTime": 1767646058948,
+  "endTime": 1767648567175,
   "band_list": [
     {
       "raw_hot": 436978,
@@ -467,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 16232,
+      "num": 21091,
+      "word": "欢迎李在明访华",
+      "onboard_time": 1767643034,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 15957,
       "num": 34127,
       "word": "轧戏东方卫视播出",
@@ -475,12 +483,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15639,
-      "num": 21091,
-      "word": "欢迎李在明访华",
-      "onboard_time": 1767643034,
-      "rank": 33,
-      "category": "国内时政"
+      "raw_hot": 14653,
+      "num": 18976,
+      "word": "聂曦光爸爸怀疑聂曦光",
+      "onboard_time": 1767646154,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 14232,
@@ -499,8 +507,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 5290,
-      "num": 45401,
+      "raw_hot": 5820,
+      "num": 84468,
       "word": "长江经济带交出发展十年亮丽答卷",
       "onboard_time": 1767604102,
       "rank": 2,
