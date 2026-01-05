@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767609270541,
+  "endTime": 1767610331384,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1507,6 +1507,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 408500,
+      "num": 203753,
+      "word": "特朗普威胁多国",
+      "onboard_time": 1767606863,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 408404,
       "num": 588951,
       "word": "日本纸箱仙人",
@@ -1963,6 +1971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 342240,
+      "num": 800562,
+      "word": "阿莫林被解雇",
+      "onboard_time": 1767608180,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 341874,
       "num": 554801,
       "word": "妈妈住院缺席儿子婚礼后病房改新房",
@@ -2073,6 +2089,14 @@
       "onboard_time": 1767340460,
       "rank": 3,
       "category": "财经"
+    },
+    {
+      "raw_hot": 323701,
+      "num": 201214,
+      "word": "年会聚餐15个人分300克牛筋",
+      "onboard_time": 1767606562,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 323418,
@@ -2377,30 +2401,6 @@
       "onboard_time": 1767541943,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 297908,
-      "num": 887943,
-      "word": "92年小伙回应领养12岁外甥女初衷",
-      "onboard_time": 1767450208,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 296611,
-      "num": 1047457,
-      "word": "在长城哽咽背诗女孩回应走红",
-      "onboard_time": 1767338420,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 295883,
-      "num": 151840,
-      "word": "屈楚萧方公开胜诉判决书",
-      "onboard_time": 1767482839,
-      "rank": 48,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

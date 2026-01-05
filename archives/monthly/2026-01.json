@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767609270541,
+  "endTime": 1767610331384,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1507,6 +1507,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 408500,
+      "num": 203753,
+      "word": "特朗普威胁多国",
+      "onboard_time": 1767606863,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 408404,
       "num": 588951,
       "word": "日本纸箱仙人",
@@ -1963,6 +1971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 342240,
+      "num": 800562,
+      "word": "阿莫林被解雇",
+      "onboard_time": 1767608180,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 341874,
       "num": 554801,
       "word": "妈妈住院缺席儿子婚礼后病房改新房",
@@ -2073,6 +2089,14 @@
       "onboard_time": 1767340460,
       "rank": 3,
       "category": "财经"
+    },
+    {
+      "raw_hot": 323701,
+      "num": 201214,
+      "word": "年会聚餐15个人分300克牛筋",
+      "onboard_time": 1767606562,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 323418,
@@ -3315,14 +3339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 218842,
-      "num": 203753,
-      "word": "特朗普威胁多国",
-      "onboard_time": 1767606863,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 218738,
       "num": 291014,
       "word": "爱奇艺电视剧 南部档案",
@@ -3433,14 +3449,6 @@
       "onboard_time": 1767578960,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 211756,
-      "num": 211756,
-      "word": "阿莫林被解雇",
-      "onboard_time": 1767608180,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 210851,
@@ -3665,14 +3673,6 @@
       "onboard_time": 1767603441,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 201214,
-      "num": 201214,
-      "word": "年会聚餐15个人分300克牛筋",
-      "onboard_time": 1767606562,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 201038,
@@ -4409,6 +4409,14 @@
       "onboard_time": 1767428124,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 177939,
+      "num": 1035944,
+      "word": "人之初",
+      "onboard_time": 1767352940,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 177743,
@@ -5387,6 +5395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153636,
+      "num": 153636,
+      "word": "王楚然 这是我老板送我的",
+      "onboard_time": 1767608542,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153091,
       "num": 153091,
       "word": "周冠宇加盟凯迪拉克F1车队",
@@ -6115,6 +6131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137152,
+      "num": 124514,
+      "word": "林钟勋感谢申裕斌让他婚期提前",
+      "onboard_time": 1767609561,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136705,
       "num": 520182,
       "word": "IG对战JDG",
@@ -6227,6 +6251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135061,
+      "num": 124167,
+      "word": "第一次见地铁户型的家",
+      "onboard_time": 1767608542,
+      "rank": 34,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 134917,
       "num": 280438,
       "word": "谍报上不封顶",
@@ -6305,6 +6337,14 @@
       "onboard_time": 1767258799,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 132591,
+      "num": 132591,
+      "word": "你是彭于晏那我是谁",
+      "onboard_time": 1767609261,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 132473,
@@ -7075,14 +7115,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 120278,
-      "num": 1035944,
-      "word": "人之初",
-      "onboard_time": 1767352940,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120188,
       "num": 120188,
       "word": "夏之光 经常请吃饭的帅气哥哥",
@@ -7139,14 +7171,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 118953,
-      "num": 118953,
-      "word": "第一次见地铁户型的家",
-      "onboard_time": 1767608542,
-      "rank": 34,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 118886,
       "num": 118886,
       "word": "肖战跨年倒计时手势",
@@ -7169,6 +7193,14 @@
       "onboard_time": 1767450087,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 118374,
+      "num": 118374,
+      "word": "上海全款150万9平米的独栋",
+      "onboard_time": 1767608241,
+      "rank": 41,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 118329,
@@ -7513,6 +7545,14 @@
       "onboard_time": 1767197729,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112619,
+      "num": 112619,
+      "word": "sakee asen",
+      "onboard_time": 1767610102,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 112596,
@@ -7977,14 +8017,6 @@
       "onboard_time": 1767248900,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 105054,
-      "num": 105054,
-      "word": "上海全款150万9平米的独栋",
-      "onboard_time": 1767608241,
-      "rank": 41,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 104928,
@@ -8835,6 +8867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94354,
+      "num": 94354,
+      "word": "南京多所中小学到校时间推迟",
+      "onboard_time": 1767609625,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 94279,
       "num": 214356,
       "word": "超10万人观看重庆首场跨年烟花秀",
@@ -9153,6 +9193,14 @@
       "onboard_time": 1767509542,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90219,
+      "num": 90219,
+      "word": "别刀了我自己哭",
+      "onboard_time": 1767610221,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 90206,
@@ -10139,6 +10187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77905,
+      "num": 115023,
+      "word": "周深的鞋怎么这么大",
+      "onboard_time": 1767608662,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77858,
       "num": 133796,
       "word": "委军方称已启动全面战备状态",
@@ -10248,14 +10304,6 @@
       "word": "偶遇朱志鑫张泽禹张极逛山姆",
       "onboard_time": 1767543142,
       "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 76356,
-      "num": 114845,
-      "word": "王楚然 这是我老板送我的",
-      "onboard_time": 1767608542,
-      "rank": 38,
       "category": "艺人"
     },
     {
@@ -11225,6 +11273,14 @@
       "onboard_time": 1767531743,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 63629,
+      "num": 103293,
+      "word": "赵今麦张凌赫宋威龙 夺爱",
+      "onboard_time": 1767609742,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 63531,
@@ -12547,6 +12603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46130,
+      "num": 160959,
+      "word": "李在明访华向日本发出明确信号",
+      "onboard_time": 1767609441,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 46061,
       "num": 1027795,
       "word": "大基金增持中芯国际",
@@ -12817,14 +12881,6 @@
       "onboard_time": 1767363021,
       "rank": 35,
       "category": "财经"
-    },
-    {
-      "raw_hot": 42066,
-      "num": 115023,
-      "word": "周深的鞋怎么这么大",
-      "onboard_time": 1767608662,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 41976,
@@ -13523,6 +13579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 28243,
+      "num": 103245,
+      "word": "王嘉尔踮起脚抱黄景瑜",
+      "onboard_time": 1767609861,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27920,
       "num": 135877,
       "word": "丽江旅拍协会成员维权索赔百万",
@@ -14152,6 +14216,14 @@
       "word": "拼搏进取的中国青年好样的",
       "onboard_time": 1767259761,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7261,
+      "num": 614365,
+      "word": "上海优化营商环境",
+      "onboard_time": 1767603801,
+      "rank": 2,
       "category": "民生新闻"
     }
   ],

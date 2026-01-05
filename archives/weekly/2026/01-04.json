@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767609270541,
+  "endTime": 1767610331384,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -891,6 +891,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 408500,
+      "num": 203753,
+      "word": "特朗普威胁多国",
+      "onboard_time": 1767606863,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 406325,
       "num": 406325,
       "word": "内娱终于有剧躲过八集定律了",
@@ -1147,6 +1155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 342240,
+      "num": 800562,
+      "word": "阿莫林被解雇",
+      "onboard_time": 1767608180,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 340364,
       "num": 340364,
       "word": "差三分考上北大研究生的含金量",
@@ -1224,6 +1240,14 @@
       "word": "酒店的床上为什么要放四个枕头",
       "onboard_time": 1767481939,
       "rank": 13,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 323701,
+      "num": 201214,
+      "word": "年会聚餐15个人分300克牛筋",
+      "onboard_time": 1767606562,
+      "rank": 14,
       "category": "幽默"
     },
     {
@@ -1859,14 +1883,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 218842,
-      "num": 203753,
-      "word": "特朗普威胁多国",
-      "onboard_time": 1767606863,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 218738,
       "num": 291014,
       "word": "爱奇艺电视剧 南部档案",
@@ -1905,14 +1921,6 @@
       "onboard_time": 1767578960,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 211756,
-      "num": 211756,
-      "word": "阿莫林被解雇",
-      "onboard_time": 1767608180,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 210649,
@@ -2019,14 +2027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201214,
-      "num": 201214,
-      "word": "年会聚餐15个人分300克牛筋",
-      "onboard_time": 1767606562,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 201038,
       "num": 201038,
       "word": "樊振东留洋生涯首冠",
@@ -2081,6 +2081,14 @@
       "onboard_time": 1767511942,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198537,
+      "num": 198537,
+      "word": "第五人格",
+      "onboard_time": 1767608902,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 198081,
@@ -2355,12 +2363,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 177031,
-      "num": 177031,
-      "word": "第五人格",
-      "onboard_time": 1767608902,
-      "rank": 15,
-      "category": "游戏"
+      "raw_hot": 177939,
+      "num": 177939,
+      "word": "人之初",
+      "onboard_time": 1767492682,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 176757,
@@ -2779,6 +2787,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 153636,
+      "num": 153636,
+      "word": "王楚然 这是我老板送我的",
+      "onboard_time": 1767608542,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153091,
       "num": 153091,
       "word": "周冠宇加盟凯迪拉克F1车队",
@@ -3139,6 +3155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 137152,
+      "num": 124514,
+      "word": "林钟勋感谢申裕斌让他婚期提前",
+      "onboard_time": 1767609561,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136654,
       "num": 136654,
       "word": "樊振东获德国杯MVP",
@@ -3195,6 +3219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135061,
+      "num": 124167,
+      "word": "第一次见地铁户型的家",
+      "onboard_time": 1767608542,
+      "rank": 34,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 134914,
       "num": 134914,
       "word": "娜扎直播再跳刀马刀马",
@@ -3225,6 +3257,14 @@
       "onboard_time": 1767490101,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132591,
+      "num": 132591,
+      "word": "你是彭于晏那我是谁",
+      "onboard_time": 1767609261,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 131156,
@@ -3523,14 +3563,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 120278,
-      "num": 120278,
-      "word": "人之初",
-      "onboard_time": 1767492682,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120188,
       "num": 120188,
       "word": "夏之光 经常请吃饭的帅气哥哥",
@@ -3547,14 +3579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118953,
-      "num": 118953,
-      "word": "第一次见地铁户型的家",
-      "onboard_time": 1767608542,
-      "rank": 34,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 118886,
       "num": 118886,
       "word": "肖战跨年倒计时手势",
@@ -3569,6 +3593,14 @@
       "onboard_time": 1767608542,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118374,
+      "num": 118374,
+      "word": "上海全款150万9平米的独栋",
+      "onboard_time": 1767608241,
+      "rank": 41,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 118244,
@@ -3705,6 +3737,14 @@
       "onboard_time": 1767527182,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 112619,
+      "num": 112619,
+      "word": "sakee asen",
+      "onboard_time": 1767610102,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 112347,
@@ -3889,14 +3929,6 @@
       "onboard_time": 1767508882,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 105054,
-      "num": 105054,
-      "word": "上海全款150万9平米的独栋",
-      "onboard_time": 1767608241,
-      "rank": 41,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 104606,
@@ -4347,6 +4379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94354,
+      "num": 94354,
+      "word": "南京多所中小学到校时间推迟",
+      "onboard_time": 1767609625,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 93936,
       "num": 93936,
       "word": "赵今麦穿宋威龙衣服",
@@ -4513,6 +4553,14 @@
       "onboard_time": 1767509542,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90219,
+      "num": 90219,
+      "word": "别刀了我自己哭",
+      "onboard_time": 1767610221,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 90007,
@@ -4891,6 +4939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77905,
+      "num": 115023,
+      "word": "周深的鞋怎么这么大",
+      "onboard_time": 1767608662,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77858,
       "num": 133796,
       "word": "委军方称已启动全面战备状态",
@@ -4936,14 +4992,6 @@
       "word": "偶遇朱志鑫张泽禹张极逛山姆",
       "onboard_time": 1767543142,
       "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 76356,
-      "num": 114845,
-      "word": "王楚然 这是我老板送我的",
-      "onboard_time": 1767608542,
-      "rank": 38,
       "category": "艺人"
     },
     {
@@ -5145,6 +5193,14 @@
       "onboard_time": 1767531743,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 63629,
+      "num": 103293,
+      "word": "赵今麦张凌赫宋威龙 夺爱",
+      "onboard_time": 1767609742,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 62983,
@@ -5499,6 +5555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46130,
+      "num": 160959,
+      "word": "李在明访华向日本发出明确信号",
+      "onboard_time": 1767609441,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 45687,
       "num": 772446,
       "word": "一诺连续三年获KPL最受欢迎选手",
@@ -5561,14 +5625,6 @@
       "onboard_time": 1767441685,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 42066,
-      "num": 115023,
-      "word": "周深的鞋怎么这么大",
-      "onboard_time": 1767608662,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 41881,
@@ -5843,6 +5899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28243,
+      "num": 103245,
+      "word": "王嘉尔踮起脚抱黄景瑜",
+      "onboard_time": 1767609861,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27920,
       "num": 135877,
       "word": "丽江旅拍协会成员维权索赔百万",
@@ -6113,6 +6177,14 @@
       "onboard_time": 1767550695,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 7261,
+      "num": 614365,
+      "word": "上海优化营商环境",
+      "onboard_time": 1767603801,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

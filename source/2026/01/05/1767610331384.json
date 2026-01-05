@@ -1,0 +1,410 @@
+{
+  "runTime": 1767610331384,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 715807,
+        "num": 1114529,
+        "word": "韩国四大财团掌门人在京集体亮相",
+        "onboard_time": 1767606682,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 342240,
+        "num": 800562,
+        "word": "阿莫林被解雇",
+        "onboard_time": 1767608180,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7261,
+        "num": 614365,
+        "word": "上海优化营商环境",
+        "onboard_time": 1767603801,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407573,
+        "num": 407573,
+        "word": "骄阳似我连聊天记录都尊重观众",
+        "onboard_time": 1767606922,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328758,
+        "num": 328758,
+        "word": "春晚彩排路透",
+        "onboard_time": 1767605002,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318825,
+        "num": 318825,
+        "word": "李在明谈韩国人周五下班去上海",
+        "onboard_time": 1767602841,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 266804,
+        "num": 266804,
+        "word": "物业笑了半小时才决定救人",
+        "onboard_time": 1767596723,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262734,
+        "num": 262734,
+        "word": "哈尔滨零下20℃外国游客光腿穿短裤",
+        "onboard_time": 1767595701,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225144,
+        "num": 225144,
+        "word": "山姆车厘子每斤狂降70元",
+        "onboard_time": 1767596781,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198537,
+        "num": 198537,
+        "word": "第五人格",
+        "onboard_time": 1767608902,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 408500,
+        "num": 197095,
+        "word": "特朗普威胁多国",
+        "onboard_time": 1767606863,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 324014,
+        "num": 189212,
+        "word": "外交部回应中国委内瑞拉石油合作",
+        "onboard_time": 1767605721,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 323701,
+        "num": 187691,
+        "word": "年会聚餐15个人分300克牛筋",
+        "onboard_time": 1767606562,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269838,
+        "num": 181300,
+        "word": "iPhone的计算器居然这么强大",
+        "onboard_time": 1767604102,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 177939,
+        "num": 177939,
+        "word": "人之初",
+        "onboard_time": 1767609561,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169858,
+        "num": 169858,
+        "word": "委内瑞拉代总统致信美国及世界",
+        "onboard_time": 1767588441,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164405,
+        "num": 164405,
+        "word": "女子怀孕每次产检发现多出一胎",
+        "onboard_time": 1767589044,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21235,
+        "num": 163200,
+        "word": "长江经济带交出发展十年亮丽答卷",
+        "onboard_time": 1767604102,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150993,
+        "num": 162405,
+        "word": "6国发表联合声明强烈谴责美国",
+        "onboard_time": 1767602241,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 46130,
+        "num": 160959,
+        "word": "李在明访华向日本发出明确信号",
+        "onboard_time": 1767609441,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 376056,
+        "num": 160430,
+        "word": "毒皇后扮演者被迪士尼乐园辞退",
+        "onboard_time": 1767602961,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226257,
+        "num": 159120,
+        "word": "没认出这是赖冠霖",
+        "onboard_time": 1767595701,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177562,
+        "num": 157395,
+        "word": "内娱现偶婚纱照",
+        "onboard_time": 1767597861,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156510,
+        "num": 156510,
+        "word": "田朴珺方称和王石不上再见爱人",
+        "onboard_time": 1767605122,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155780,
+        "num": 155780,
+        "word": "颜安 全女工作室",
+        "onboard_time": 1767603322,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153636,
+        "num": 153636,
+        "word": "王楚然 这是我老板送我的",
+        "onboard_time": 1767608542,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145611,
+        "num": 145611,
+        "word": "骄阳似我",
+        "onboard_time": 1767588083,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132591,
+        "num": 132591,
+        "word": "你是彭于晏那我是谁",
+        "onboard_time": 1767609261,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130945,
+        "num": 130945,
+        "word": "17岁少年虚假退货薅羊毛骗了400万",
+        "onboard_time": 1767606321,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102619,
+        "num": 124695,
+        "word": "周冠宇加盟凯迪拉克F1车队",
+        "onboard_time": 1767608840,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137152,
+        "num": 124514,
+        "word": "林钟勋感谢申裕斌让他婚期提前",
+        "onboard_time": 1767609561,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135061,
+        "num": 124167,
+        "word": "第一次见地铁户型的家",
+        "onboard_time": 1767608542,
+        "rank": 31,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 123630,
+        "num": 123630,
+        "word": "七七赵钰琪1分钟视频报价1万",
+        "onboard_time": 1767607881,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122532,
+        "num": 122532,
+        "word": "eStarPro Fly",
+        "onboard_time": 1767600023,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118374,
+        "num": 118374,
+        "word": "上海全款150万9平米的独栋",
+        "onboard_time": 1767608241,
+        "rank": 34,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 112619,
+        "num": 112619,
+        "word": "sakee asen",
+        "onboard_time": 1767610102,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98301,
+        "num": 103961,
+        "word": "周冠宇回应凯迪拉克官宣",
+        "onboard_time": 1767608781,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63629,
+        "num": 103293,
+        "word": "赵今麦张凌赫宋威龙 夺爱",
+        "onboard_time": 1767609742,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28243,
+        "num": 103245,
+        "word": "王嘉尔踮起脚抱黄景瑜",
+        "onboard_time": 1767609861,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103243,
+        "num": 103243,
+        "word": "范丞丞态度也是很刚了",
+        "onboard_time": 1767602121,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98467,
+        "num": 98467,
+        "word": "旭旭宝宝酷滕和解",
+        "onboard_time": 1767596841,
+        "rank": 40,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 97252,
+        "num": 97252,
+        "word": "娜扎直播再跳刀马刀马",
+        "onboard_time": 1767607580,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96760,
+        "num": 96760,
+        "word": "拉美5国联合西班牙反对美动武",
+        "onboard_time": 1767601702,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96100,
+        "num": 96100,
+        "word": "学生评教靠前老师评分却成倒数第一",
+        "onboard_time": 1767600142,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94354,
+        "num": 94354,
+        "word": "南京多所中小学到校时间推迟",
+        "onboard_time": 1767609625,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 93397,
+        "num": 93397,
+        "word": "他红是迟早的事",
+        "onboard_time": 1767600142,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90219,
+        "num": 90219,
+        "word": "别刀了我自己哭",
+        "onboard_time": 1767610221,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87338,
+        "num": 87338,
+        "word": "但凡走错一步都飞黄腾达了",
+        "onboard_time": 1767608961,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77905,
+        "num": 85829,
+        "word": "周深的鞋怎么这么大",
+        "onboard_time": 1767608662,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85082,
+        "num": 85082,
+        "word": "涉事医院回应新生儿被剪断手指",
+        "onboard_time": 1767608542,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟随总书记的文化足迹感受文脉华章#"
+    }
+  }
+}
