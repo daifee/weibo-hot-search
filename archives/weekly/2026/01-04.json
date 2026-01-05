@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767610331384,
+  "endTime": 1767612488367,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -747,6 +747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 458663,
+      "num": 822531,
+      "word": "阿莫林被解雇",
+      "onboard_time": 1767608180,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 458015,
       "num": 786272,
       "word": "收到扣费600多元短信发现买过保险",
@@ -1153,14 +1161,6 @@
       "onboard_time": 1767584781,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 342240,
-      "num": 800562,
-      "word": "阿莫林被解雇",
-      "onboard_time": 1767608180,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 340364,
@@ -1593,6 +1593,14 @@
       "onboard_time": 1767590061,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 258336,
+      "num": 253293,
+      "word": "17岁少年虚假退货薅羊毛骗了400万",
+      "onboard_time": 1767606321,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 257383,
@@ -2219,6 +2227,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 188867,
+      "num": 188867,
+      "word": "李在明夫人感谢中国女性代表",
+      "onboard_time": 1767611722,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 187761,
       "num": 156109,
       "word": "曼联解雇阿莫林",
@@ -2707,6 +2723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159195,
+      "num": 127912,
+      "word": "上海全款150万9平米的独栋",
+      "onboard_time": 1767608241,
+      "rank": 41,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 158939,
       "num": 158939,
       "word": "樊振东3比1胜户上隼辅",
@@ -2875,6 +2899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 148966,
+      "num": 126128,
+      "word": "sakee asen",
+      "onboard_time": 1767610102,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148712,
       "num": 279197,
       "word": "美网红暗示很快拿下格陵兰岛",
@@ -2947,6 +2979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 145554,
+      "num": 145554,
+      "word": "第一次见地铁户型的家",
+      "onboard_time": 1767608542,
+      "rank": 34,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 145211,
       "num": 145211,
       "word": "双城之战音乐秀选角神还原",
@@ -2987,14 +3027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144317,
-      "num": 144317,
-      "word": "17岁少年虚假退货薅羊毛骗了400万",
-      "onboard_time": 1767606321,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 144059,
       "num": 144059,
       "word": "黄晓明山东人演体制内太权威了",
@@ -3017,6 +3049,14 @@
       "onboard_time": 1767537085,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 142371,
+      "num": 142371,
+      "word": "鹅鸭杀登顶多平台预约榜",
+      "onboard_time": 1767611963,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 142265,
@@ -3131,6 +3171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139357,
+      "num": 120194,
+      "word": "原来网上的辣椒炒肉是这样摆拍出来的",
+      "onboard_time": 1767611659,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 138205,
       "num": 138205,
       "word": "见月退役",
@@ -3161,6 +3209,14 @@
       "onboard_time": 1767609561,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136760,
+      "num": 125445,
+      "word": "尚雯婕割息肉没有打麻药",
+      "onboard_time": 1767611841,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 136654,
@@ -3219,14 +3275,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 135061,
-      "num": 124167,
-      "word": "第一次见地铁户型的家",
-      "onboard_time": 1767608542,
-      "rank": 34,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 134914,
       "num": 134914,
       "word": "娜扎直播再跳刀马刀马",
@@ -3241,6 +3289,14 @@
       "onboard_time": 1767526762,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134744,
+      "num": 134744,
+      "word": "萧亚轩一天13首歌上榜",
+      "onboard_time": 1767610460,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 134445,
@@ -3297,6 +3353,14 @@
       "onboard_time": 1767535945,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130136,
+      "num": 130136,
+      "word": "新生儿断指处有钢针日夜哭闹",
+      "onboard_time": 1767611179,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129605,
@@ -3595,14 +3659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118374,
-      "num": 118374,
-      "word": "上海全款150万9平米的独栋",
-      "onboard_time": 1767608241,
-      "rank": 41,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 118244,
       "num": 118244,
       "word": "杨紫董竹君造型贵气",
@@ -3731,20 +3787,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113130,
+      "num": 113130,
+      "word": "沈月跨年vlog",
+      "onboard_time": 1767611841,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112771,
       "num": 124659,
       "word": "教育部拟同意设置15所本科学校",
       "onboard_time": 1767527182,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 112619,
-      "num": 112619,
-      "word": "sakee asen",
-      "onboard_time": 1767610102,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 112347,
@@ -3937,6 +3993,14 @@
       "onboard_time": 1767520223,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104570,
+      "num": 104570,
+      "word": "王传君罚罪2黑化面相都变了",
+      "onboard_time": 1767610341,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 104389,
@@ -4219,6 +4283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98058,
+      "num": 98058,
+      "word": "崩铁白厄等角色周边上新",
+      "onboard_time": 1767611601,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 97939,
       "num": 97939,
       "word": "王敏奕获TVB最佳女配角",
@@ -4387,6 +4459,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 94019,
+      "num": 94019,
+      "word": "肖战演出普通人面对战争的真实反应",
+      "onboard_time": 1767611422,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 93936,
       "num": 93936,
       "word": "赵今麦穿宋威龙衣服",
@@ -4547,12 +4627,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90639,
+      "num": 90639,
+      "word": "老己已经到了气血不足的年纪",
+      "onboard_time": 1767611179,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 90296,
       "num": 104188,
       "word": "马年生肖邮票",
       "onboard_time": 1767509542,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90269,
+      "num": 90269,
+      "word": "罚罪2第28集封神",
+      "onboard_time": 1767612141,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 90219,
@@ -4691,6 +4787,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 87918,
+      "num": 87918,
+      "word": "罗云熙我直接告诉你得了呗",
+      "onboard_time": 1767612380,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87582,
       "num": 87582,
       "word": "刘端端 素颜式演技",
@@ -4747,6 +4851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85516,
+      "num": 160959,
+      "word": "李在明访华向日本发出明确信号",
+      "onboard_time": 1767609441,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 85279,
       "num": 85279,
       "word": "她被自己困住了",
@@ -4761,6 +4873,14 @@
       "onboard_time": 1767522443,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84787,
+      "num": 84787,
+      "word": "Zhuo被问韩国的男朋友",
+      "onboard_time": 1767611963,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 84337,
@@ -4819,6 +4939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 82698,
+      "num": 82698,
+      "word": "男子网贷15万要买金条送老婆放床底",
+      "onboard_time": 1767611001,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82327,
       "num": 82327,
       "word": "委前总统查韦斯安葬地被美军袭击",
@@ -4857,6 +4985,14 @@
       "onboard_time": 1767568879,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81098,
+      "num": 81098,
+      "word": "王者顶级国风皮肤",
+      "onboard_time": 1767611722,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 80952,
@@ -4921,6 +5057,14 @@
       "onboard_time": 1767510022,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 78482,
+      "num": 78482,
+      "word": "范丞丞私下篮球台球都来的",
+      "onboard_time": 1767612380,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 78435,
@@ -5001,6 +5145,14 @@
       "onboard_time": 1767592222,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 75258,
+      "num": 128991,
+      "word": "李在明说中国是千金难换的好邻居",
+      "onboard_time": 1767612201,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 73811,
@@ -5555,14 +5707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46130,
-      "num": 160959,
-      "word": "李在明访华向日本发出明确信号",
-      "onboard_time": 1767609441,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 45687,
       "num": 772446,
       "word": "一诺连续三年获KPL最受欢迎选手",
@@ -5971,6 +6115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23952,
+      "num": 633194,
+      "word": "上海优化营商环境",
+      "onboard_time": 1767603801,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23729,
       "num": 415350,
       "word": "2026第一个工作日",
@@ -6171,20 +6323,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11539,
+      "num": 92470,
+      "word": "精神病患者称邻居制毒大批警察上门",
+      "onboard_time": 1767612201,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9244,
       "num": 24188,
       "word": "AG宣布副教练李托卸任",
       "onboard_time": 1767550695,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 7261,
-      "num": 614365,
-      "word": "上海优化营商环境",
-      "onboard_time": 1767603801,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
