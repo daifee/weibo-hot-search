@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767599396722,
+  "endTime": 1767602620760,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -403,6 +403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 559904,
+      "num": 559904,
+      "word": "物业笑了半小时才决定救人",
+      "onboard_time": 1767596723,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 554359,
       "num": 378092,
       "word": "纽约市长已致电特朗普",
@@ -433,6 +441,14 @@
       "onboard_time": 1767505283,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 539918,
+      "num": 1086386,
+      "word": "山姆车厘子每斤狂降70元",
+      "onboard_time": 1767596781,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 536292,
@@ -539,6 +555,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 502102,
+      "num": 1069636,
+      "word": "哈尔滨零下20℃外国游客光腿穿短裤",
+      "onboard_time": 1767595701,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 500587,
       "num": 500587,
       "word": "王安宇电影分账票房第一",
@@ -625,6 +649,14 @@
       "onboard_time": 1767512602,
       "rank": 7,
       "category": "数码"
+    },
+    {
+      "raw_hot": 474238,
+      "num": 569127,
+      "word": "内娱现偶婚纱照",
+      "onboard_time": 1767597861,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 472404,
@@ -731,14 +763,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 435230,
-      "num": 1069636,
-      "word": "哈尔滨零下20℃外国游客光腿穿短裤",
-      "onboard_time": 1767595701,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 434032,
       "num": 234827,
       "word": "高三男生被邻居驾车撞伤1年多身亡",
@@ -801,14 +825,6 @@
       "onboard_time": 1767508162,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 415908,
-      "num": 322278,
-      "word": "物业笑了半小时才决定救人",
-      "onboard_time": 1767596723,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 412890,
@@ -971,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364782,
+      "num": 159772,
+      "word": "宋威龙张凌赫 今麦郎",
+      "onboard_time": 1767600381,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 363403,
       "num": 513173,
       "word": "大麦提前放票",
@@ -1073,6 +1097,14 @@
       "onboard_time": 1767595402,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 340008,
+      "num": 202236,
+      "word": "eStarPro Fly",
+      "onboard_time": 1767600023,
+      "rank": 11,
+      "category": "电竞"
     },
     {
       "raw_hot": 338349,
@@ -1275,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 285496,
+      "num": 285496,
+      "word": "学生评教靠前老师评分却成倒数第一",
+      "onboard_time": 1767600142,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284795,
       "num": 284795,
       "word": "雷军回应1300km只充一次电",
@@ -1387,6 +1427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267367,
+      "num": 561990,
+      "word": "女生游黄山身亡家属称护栏存缺陷",
+      "onboard_time": 1767595161,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 263748,
       "num": 151816,
       "word": "黄金再度直线猛拉",
@@ -1441,6 +1489,14 @@
       "onboard_time": 1767512722,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 256229,
+      "num": 158863,
+      "word": "跑男史上最安静的一期",
+      "onboard_time": 1767600862,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 255943,
@@ -1603,6 +1659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 231277,
+      "num": 231277,
+      "word": "英雄联盟证书续了100年",
+      "onboard_time": 1767600080,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 230571,
       "num": 305609,
       "word": "李在明启程赴华",
@@ -1763,14 +1827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208007,
-      "num": 208007,
-      "word": "山姆车厘子每斤狂降70元",
-      "onboard_time": 1767596781,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 207352,
       "num": 207352,
       "word": "特朗普暗示可能对墨西哥采取行动",
@@ -1921,6 +1977,14 @@
       "onboard_time": 1767528023,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197024,
+      "num": 197024,
+      "word": "刘宇宁2026央视春晚彩排路透",
+      "onboard_time": 1767601761,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 196950,
@@ -2195,6 +2259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173043,
+      "num": 173043,
+      "word": "一代人有一代人的开车经验",
+      "onboard_time": 1767600202,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 172942,
       "num": 254336,
       "word": "梅尼耶要办婚礼了",
@@ -2395,6 +2467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 163974,
+      "num": 157819,
+      "word": "久坐的人一定要好好锻炼屁股",
+      "onboard_time": 1767599063,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 163968,
       "num": 204597,
       "word": "一起接接接接接彩头",
@@ -2419,14 +2499,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 162855,
-      "num": 162855,
-      "word": "女生游黄山身亡家属称护栏存缺陷",
-      "onboard_time": 1767595161,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161400,
       "num": 179589,
       "word": "德国杯",
@@ -2440,14 +2512,6 @@
       "word": "轧戏",
       "onboard_time": 1767496704,
       "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 160081,
-      "num": 160081,
-      "word": "内娱现偶婚纱照",
-      "onboard_time": 1767597861,
-      "rank": 34,
       "category": "剧集"
     },
     {
@@ -2651,6 +2715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147024,
+      "num": 147024,
+      "word": "他红是迟早的事",
+      "onboard_time": 1767600142,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146285,
       "num": 146285,
       "word": "景甜白到发光的旅游照",
@@ -2843,6 +2915,22 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 137880,
+      "num": 137880,
+      "word": "男二刚碰上女主的手就被甩开了",
+      "onboard_time": 1767602121,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 137705,
+      "num": 137705,
+      "word": "范丞丞态度也是很刚了",
+      "onboard_time": 1767602121,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137417,
       "num": 137417,
       "word": "韩国总统李在明将访华",
@@ -2857,6 +2945,14 @@
       "onboard_time": 1767568098,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136632,
+      "num": 136632,
+      "word": "七七赵钰琪签约后第一条vlog",
+      "onboard_time": 1767598282,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 136462,
@@ -2921,14 +3017,6 @@
       "onboard_time": 1767526883,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 134365,
-      "num": 134365,
-      "word": "七七赵钰琪签约后第一条vlog",
-      "onboard_time": 1767598282,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 134042,
@@ -3139,6 +3227,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 122918,
+      "num": 122918,
+      "word": "英雄联盟补偿我",
+      "onboard_time": 1767598102,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122797,
       "num": 122797,
       "word": "一句看不懂让我连看十二集",
@@ -3161,6 +3257,14 @@
       "onboard_time": 1767525322,
       "rank": 32,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 122101,
+      "num": 161185,
+      "word": "拉美5国联合西班牙反对美动武",
+      "onboard_time": 1767601702,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 121787,
@@ -3211,12 +3315,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119080,
-      "num": 119080,
-      "word": "英雄联盟补偿我",
-      "onboard_time": 1767598102,
-      "rank": 42,
-      "category": "游戏"
+      "raw_hot": 119695,
+      "num": 119695,
+      "word": "吴泽林请谨言慎行",
+      "onboard_time": 1767601943,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 118886,
@@ -3232,6 +3336,14 @@
       "word": "杨紫董竹君造型贵气",
       "onboard_time": 1767490162,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 117230,
+      "num": 117230,
+      "word": "这孩子有两个妈你惹他干嘛",
+      "onboard_time": 1767600741,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -3403,6 +3515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 111270,
+      "num": 111270,
+      "word": "6国发表联合声明强烈谴责美国",
+      "onboard_time": 1767602241,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 110820,
       "num": 110820,
       "word": "原来眼镜有寿命",
@@ -3523,12 +3643,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 105149,
-      "num": 105149,
-      "word": "久坐的人一定要好好锻炼屁股",
-      "onboard_time": 1767599063,
-      "rank": 40,
-      "category": "运动健身"
+      "raw_hot": 104872,
+      "num": 104872,
+      "word": "见月退役",
+      "onboard_time": 1767602601,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 104606,
@@ -3561,6 +3681,14 @@
       "onboard_time": 1767539063,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 103641,
+      "num": 103641,
+      "word": "怪不得说在东北丢不了小孩",
+      "onboard_time": 1767602481,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 103596,
@@ -3707,6 +3835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99421,
+      "num": 99421,
+      "word": "腾讯回应英雄联盟证书到期",
+      "onboard_time": 1767600262,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 99252,
       "num": 99252,
       "word": "年轻人的差评表达方式",
@@ -3795,6 +3931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97740,
+      "num": 97740,
+      "word": "面善小狗长相",
+      "onboard_time": 1767599483,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97424,
       "num": 252568,
       "word": "你要和本身就很好的人结婚",
@@ -3833,6 +3977,14 @@
       "onboard_time": 1767595641,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96546,
+      "num": 96546,
+      "word": "王嘉尔 你们老公在哪儿",
+      "onboard_time": 1767600800,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 95792,
@@ -4715,6 +4867,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 60094,
+      "num": 109254,
+      "word": "你的炅底很好",
+      "onboard_time": 1767601342,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60071,
       "num": 197248,
       "word": "宁安是不是肖瑶",
@@ -5067,6 +5227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 40421,
+      "num": 162354,
+      "word": "女生游黄山高坠死亡谁呼出的电话",
+      "onboard_time": 1767602061,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40002,
       "num": 56104,
       "word": "今年黄金白银还涨吗",
@@ -5129,6 +5297,14 @@
       "onboard_time": 1767450386,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 36652,
+      "num": 113616,
+      "word": "105捆2元人民币拍出83.16万元",
+      "onboard_time": 1767602422,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36188,
@@ -5299,6 +5475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26379,
+      "num": 621262,
+      "word": "中国人过冬的仪式感",
+      "onboard_time": 1767578182,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25999,
       "num": 116182,
       "word": "元旦假期交通出行5.95亿人次",
@@ -5377,14 +5561,6 @@
       "onboard_time": 1767511823,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 21324,
-      "num": 598917,
-      "word": "中国人过冬的仪式感",
-      "onboard_time": 1767578182,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21274,

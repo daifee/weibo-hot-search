@@ -1,0 +1,410 @@
+{
+  "runTime": 1767602620760,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 539918,
+        "num": 1086386,
+        "word": "山姆车厘子每斤狂降70元",
+        "onboard_time": 1767596781,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 502102,
+        "num": 767410,
+        "word": "哈尔滨零下20℃外国游客光腿穿短裤",
+        "onboard_time": 1767595701,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26379,
+        "num": 621262,
+        "word": "中国人过冬的仪式感",
+        "onboard_time": 1767578182,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 474238,
+        "num": 569127,
+        "word": "内娱现偶婚纱照",
+        "onboard_time": 1767597861,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267367,
+        "num": 561990,
+        "word": "女生游黄山身亡家属称护栏存缺陷",
+        "onboard_time": 1767595161,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 559904,
+        "num": 559904,
+        "word": "物业笑了半小时才决定救人",
+        "onboard_time": 1767596723,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285496,
+        "num": 285496,
+        "word": "学生评教靠前老师评分却成倒数第一",
+        "onboard_time": 1767600142,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242947,
+        "num": 242947,
+        "word": "女子怀孕每次产检发现多出一胎",
+        "onboard_time": 1767589044,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231277,
+        "num": 231277,
+        "word": "英雄联盟证书续了100年",
+        "onboard_time": 1767600080,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203366,
+        "num": 203366,
+        "word": "LABUBU不用抢了",
+        "onboard_time": 1767594501,
+        "rank": 9,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 344732,
+        "num": 202962,
+        "word": "旭旭宝宝酷滕和解",
+        "onboard_time": 1767596841,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 340008,
+        "num": 202236,
+        "word": "eStarPro Fly",
+        "onboard_time": 1767600023,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 253584,
+        "num": 201756,
+        "word": "冰箱贴一定要经常挪挪位置",
+        "onboard_time": 1767571581,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222081,
+        "num": 201226,
+        "word": "英雄联盟 证书到期",
+        "onboard_time": 1767591144,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201097,
+        "num": 201097,
+        "word": "曹骏真俊啊",
+        "onboard_time": 1767596423,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197024,
+        "num": 197024,
+        "word": "刘宇宁2026央视春晚彩排路透",
+        "onboard_time": 1767601761,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173043,
+        "num": 173043,
+        "word": "一代人有一代人的开车经验",
+        "onboard_time": 1767600202,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162549,
+        "num": 162549,
+        "word": "鲁比奥或被选为委内瑞拉总督",
+        "onboard_time": 1767591622,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 40421,
+        "num": 162354,
+        "word": "女生游黄山高坠死亡谁呼出的电话",
+        "onboard_time": 1767602061,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122101,
+        "num": 161185,
+        "word": "拉美5国联合西班牙反对美动武",
+        "onboard_time": 1767601702,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 475519,
+        "num": 160888,
+        "word": "没认出这是赖冠霖",
+        "onboard_time": 1767595701,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364782,
+        "num": 159772,
+        "word": "宋威龙张凌赫 今麦郎",
+        "onboard_time": 1767600381,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256229,
+        "num": 158863,
+        "word": "跑男史上最安静的一期",
+        "onboard_time": 1767600862,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175025,
+        "num": 158548,
+        "word": "娜扎跳舞肩带断了",
+        "onboard_time": 1767588562,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163974,
+        "num": 157819,
+        "word": "久坐的人一定要好好锻炼屁股",
+        "onboard_time": 1767599063,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 157073,
+        "num": 157073,
+        "word": "霍启仁妻子公开婚礼现场照",
+        "onboard_time": 1767591922,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147125,
+        "num": 147125,
+        "word": "委内瑞拉代总统致信美国及世界",
+        "onboard_time": 1767588441,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147024,
+        "num": 147024,
+        "word": "他红是迟早的事",
+        "onboard_time": 1767600142,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137880,
+        "num": 137880,
+        "word": "男二刚碰上女主的手就被甩开了",
+        "onboard_time": 1767602121,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137705,
+        "num": 137705,
+        "word": "范丞丞态度也是很刚了",
+        "onboard_time": 1767602121,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137191,
+        "num": 137191,
+        "word": "差三分考上北大研究生的含金量",
+        "onboard_time": 1767595402,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136632,
+        "num": 136632,
+        "word": "七七赵钰琪签约后第一条vlog",
+        "onboard_time": 1767598282,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130009,
+        "num": 130009,
+        "word": "关晓彤新造型是女儿是妈妈",
+        "onboard_time": 1767591503,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127066,
+        "num": 127066,
+        "word": "黄金",
+        "onboard_time": 1767579621,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 122918,
+        "num": 122918,
+        "word": "英雄联盟补偿我",
+        "onboard_time": 1767598102,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119695,
+        "num": 119695,
+        "word": "吴泽林请谨言慎行",
+        "onboard_time": 1767601943,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117230,
+        "num": 117230,
+        "word": "这孩子有两个妈你惹他干嘛",
+        "onboard_time": 1767600741,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36652,
+        "num": 113616,
+        "word": "105捆2元人民币拍出83.16万元",
+        "onboard_time": 1767602422,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111270,
+        "num": 111270,
+        "word": "6国发表联合声明强烈谴责美国",
+        "onboard_time": 1767602241,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60094,
+        "num": 109254,
+        "word": "你的炅底很好",
+        "onboard_time": 1767601342,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108343,
+        "num": 108343,
+        "word": "英雄联盟",
+        "onboard_time": 1767588023,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106727,
+        "num": 106727,
+        "word": "央视曝光偷SIM卡套路",
+        "onboard_time": 1767593122,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104872,
+        "num": 104872,
+        "word": "见月退役",
+        "onboard_time": 1767602601,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103838,
+        "num": 103838,
+        "word": "2元人民币已绝版6年",
+        "onboard_time": 1767597562,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103641,
+        "num": 103641,
+        "word": "怪不得说在东北丢不了小孩",
+        "onboard_time": 1767602481,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103277,
+        "num": 103277,
+        "word": "赵丽颖哭戏",
+        "onboard_time": 1767595103,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102434,
+        "num": 102434,
+        "word": "网购假退货1万多次护肤品被判刑",
+        "onboard_time": 1767594802,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99421,
+        "num": 99421,
+        "word": "腾讯回应英雄联盟证书到期",
+        "onboard_time": 1767600262,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97740,
+        "num": 97740,
+        "word": "面善小狗长相",
+        "onboard_time": 1767599483,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96546,
+        "num": 96546,
+        "word": "王嘉尔 你们老公在哪儿",
+        "onboard_time": 1767600800,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见爱尔兰总理马丁#"
+    }
+  }
+}

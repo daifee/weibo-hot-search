@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767599396722,
+  "endTime": 1767602620760,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -755,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 559904,
+      "num": 559904,
+      "word": "物业笑了半小时才决定救人",
+      "onboard_time": 1767596723,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 558513,
       "num": 1030792,
       "word": "吃蒜 偏头痛",
@@ -825,6 +833,14 @@
       "onboard_time": 1767266420,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 539918,
+      "num": 1086386,
+      "word": "山姆车厘子每斤狂降70元",
+      "onboard_time": 1767596781,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 536292,
@@ -1003,6 +1019,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 502102,
+      "num": 1069636,
+      "word": "哈尔滨零下20℃外国游客光腿穿短裤",
+      "onboard_time": 1767595701,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 500587,
       "num": 500587,
       "word": "王安宇电影分账票房第一",
@@ -1137,6 +1161,14 @@
       "onboard_time": 1767512602,
       "rank": 7,
       "category": "数码"
+    },
+    {
+      "raw_hot": 474238,
+      "num": 569127,
+      "word": "内娱现偶婚纱照",
+      "onboard_time": 1767597861,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 472404,
@@ -1331,14 +1363,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 435230,
-      "num": 1069636,
-      "word": "哈尔滨零下20℃外国游客光腿穿短裤",
-      "onboard_time": 1767595701,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 434032,
       "num": 234827,
       "word": "高三男生被邻居驾车撞伤1年多身亡",
@@ -1417,14 +1441,6 @@
       "onboard_time": 1767432566,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 415908,
-      "num": 322278,
-      "word": "物业笑了半小时才决定救人",
-      "onboard_time": 1767596723,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 411475,
@@ -1707,6 +1723,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 364782,
+      "num": 159772,
+      "word": "宋威龙张凌赫 今麦郎",
+      "onboard_time": 1767600381,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 363403,
       "num": 513173,
       "word": "大麦提前放票",
@@ -1905,6 +1929,14 @@
       "onboard_time": 1767595402,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 340008,
+      "num": 202236,
+      "word": "eStarPro Fly",
+      "onboard_time": 1767600023,
+      "rank": 11,
+      "category": "电竞"
     },
     {
       "raw_hot": 338349,
@@ -2347,6 +2379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 285496,
+      "num": 285496,
+      "word": "学生评教靠前老师评分却成倒数第一",
+      "onboard_time": 1767600142,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 285474,
       "num": 318790,
       "word": "2026年新规今起施行",
@@ -2361,46 +2401,6 @@
       "onboard_time": 1767494121,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 282342,
-      "num": 422602,
-      "word": "雷军现场直播拆小米YU7",
-      "onboard_time": 1767437905,
-      "rank": 39,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 282019,
-      "num": 589137,
-      "word": "发明袜子拼豆的人简直是天才",
-      "onboard_time": 1767236241,
-      "rank": 10,
-      "category": "休闲"
-    },
-    {
-      "raw_hot": 280983,
-      "num": 794489,
-      "word": "俄称美国将遭到全球大多数人的谴责",
-      "onboard_time": 1767452545,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 280753,
-      "num": 381956,
-      "word": "周深一个跨年唱了98首歌",
-      "onboard_time": 1767511102,
-      "rank": 22,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 280003,
-      "num": 1004834,
-      "word": "茅台1499元直销成黄牛噩梦",
-      "onboard_time": 1767258681,
-      "rank": 4,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
