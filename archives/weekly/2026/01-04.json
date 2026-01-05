@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767623603634,
+  "endTime": 1767624706745,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -299,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 741250,
+      "num": 857956,
+      "word": "美国副总统万斯住所遭袭击",
+      "onboard_time": 1767620302,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 741247,
       "num": 1118599,
       "word": "英法联合空袭叙利亚",
@@ -321,14 +329,6 @@
       "onboard_time": 1767535584,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 708369,
-      "num": 846059,
-      "word": "美国副总统万斯住所遭袭击",
-      "onboard_time": 1767620302,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 704277,
@@ -481,6 +481,14 @@
       "onboard_time": 1767451405,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 563322,
+      "num": 585798,
+      "word": "剪断男婴手指助产士已停职",
+      "onboard_time": 1767621203,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 559904,
@@ -1187,14 +1195,6 @@
       "category": "体育,剧集"
     },
     {
-      "raw_hot": 358513,
-      "num": 585798,
-      "word": "剪断男婴手指助产士已停职",
-      "onboard_time": 1767621203,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 356964,
       "num": 255805,
       "word": "周扬青当众怼石晶",
@@ -1257,6 +1257,14 @@
       "onboard_time": 1767595402,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 338833,
+      "num": 179347,
+      "word": "秦霄贤直播",
+      "onboard_time": 1767620302,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 338349,
@@ -1340,7 +1348,7 @@
     },
     {
       "raw_hot": 323427,
-      "num": 219675,
+      "num": 222358,
       "word": "导演猫的树这几个字还是太权威了",
       "onboard_time": 1767619403,
       "rank": 17,
@@ -1595,8 +1603,16 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 274353,
+      "num": 274353,
+      "word": "助产士说剪断手指是因为新生儿乱动",
+      "onboard_time": 1767620543,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 272968,
-      "num": 219692,
+      "num": 222320,
       "word": "聂曦光爸爸",
       "onboard_time": 1767620061,
       "rank": 22,
@@ -1787,6 +1803,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 252063,
+      "num": 179934,
+      "word": "张凌赫跨年表演在外网爆火",
+      "onboard_time": 1767621802,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251564,
       "num": 233099,
       "word": "赵丽颖从未否认自己是马里奥",
@@ -1817,6 +1841,14 @@
       "onboard_time": 1767460877,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 245961,
+      "num": 222272,
+      "word": "凶手杀害29岁女子后电梯内唱歌",
+      "onboard_time": 1767619403,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 245492,
@@ -2036,7 +2068,7 @@
     },
     {
       "raw_hot": 219465,
-      "num": 364526,
+      "num": 619273,
       "word": "DRG官宣早点退役",
       "onboard_time": 1767621683,
       "rank": 3,
@@ -2081,6 +2113,14 @@
       "onboard_time": 1767603322,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214981,
+      "num": 623106,
+      "word": "高市早苗手持安倍画像参拜",
+      "onboard_time": 1767622523,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 214272,
@@ -2137,22 +2177,6 @@
       "onboard_time": 1767617841,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 207983,
-      "num": 207983,
-      "word": "助产士说剪断手指是因为新生儿乱动",
-      "onboard_time": 1767620543,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 207659,
-      "num": 179934,
-      "word": "张凌赫跨年表演在外网爆火",
-      "onboard_time": 1767621802,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 207352,
@@ -2427,6 +2451,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 193197,
+      "num": 179534,
+      "word": "实在不行过年让孩子穿校服吧",
+      "onboard_time": 1767621563,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 193128,
       "num": 193128,
       "word": "张凌赫交摄影作品了",
@@ -2457,14 +2489,6 @@
       "onboard_time": 1767590661,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 188934,
-      "num": 179534,
-      "word": "实在不行过年让孩子穿校服吧",
-      "onboard_time": 1767621563,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 187761,
@@ -2587,14 +2611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 180864,
-      "num": 180864,
-      "word": "凶手杀害29岁女子后电梯内唱歌",
-      "onboard_time": 1767619403,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 180782,
       "num": 253629,
       "word": "昀牵孟绕",
@@ -2625,14 +2641,6 @@
       "onboard_time": 1767516803,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 179347,
-      "num": 179347,
-      "word": "秦霄贤直播",
-      "onboard_time": 1767620302,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 177939,
@@ -2843,6 +2851,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 167312,
+      "num": 167312,
+      "word": "庄序 bgm",
+      "onboard_time": 1767622282,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166857,
       "num": 827051,
       "word": "玉兰花开君再来",
@@ -2979,6 +2995,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 162751,
+      "num": 148166,
+      "word": "医生提醒4件事很伤免疫力",
+      "onboard_time": 1767623063,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 162397,
       "num": 162397,
       "word": "罚罪2第28集封神",
@@ -3057,14 +3081,6 @@
       "onboard_time": 1767539244,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156746,
-      "num": 148166,
-      "word": "医生提醒4件事很伤免疫力",
-      "onboard_time": 1767623063,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 156168,
@@ -3225,14 +3241,6 @@
       "onboard_time": 1767517222,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 148182,
-      "num": 148182,
-      "word": "庄序 bgm",
-      "onboard_time": 1767622282,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 148030,
@@ -4027,6 +4035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 116383,
+      "num": 148163,
+      "word": "唐嫣 曲梦我演爽了",
+      "onboard_time": 1767621383,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115646,
       "num": 115646,
       "word": "骄阳似我26集37分",
@@ -4099,6 +4115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113642,
+      "num": 113642,
+      "word": "爸爸低头玩手机孩子冲上马路被撞",
+      "onboard_time": 1767623784,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113545,
       "num": 113545,
       "word": "樊振东vs阿比奥顿",
@@ -4123,20 +4147,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 112508,
-      "num": 148163,
-      "word": "唐嫣 曲梦我演爽了",
-      "onboard_time": 1767621383,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 112347,
       "num": 112347,
       "word": "1斤车厘子热量超1碗米饭",
       "onboard_time": 1767592103,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 112332,
+      "num": 112332,
+      "word": "孙子因手机损坏犯癫痫奶奶哭求维修",
+      "onboard_time": 1767623784,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112106,
@@ -4667,6 +4691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98288,
+      "num": 112329,
+      "word": "91岁运动员拥抱23岁的自己",
+      "onboard_time": 1767623722,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98212,
       "num": 189292,
       "word": "这堪比灵器认主了",
@@ -4915,6 +4947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 93423,
+      "num": 148084,
+      "word": "聂曦光明确拒绝了庄序",
+      "onboard_time": 1767623423,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93372,
       "num": 93372,
       "word": "中方呼吁美方确保马杜罗夫妇人身安全",
@@ -5009,6 +5049,14 @@
       "onboard_time": 1767521243,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91676,
+      "num": 112310,
+      "word": "荣耀发布会",
+      "onboard_time": 1767623663,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 91475,
@@ -5193,6 +5241,14 @@
       "onboard_time": 1767461358,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 88088,
+      "num": 112298,
+      "word": "白鹿王鹤棣同框cha",
+      "onboard_time": 1767624443,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 88026,
@@ -5417,14 +5473,6 @@
       "onboard_time": 1767539663,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 81999,
-      "num": 148084,
-      "word": "聂曦光明确拒绝了庄序",
-      "onboard_time": 1767623423,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 81693,
@@ -5939,14 +5987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 60754,
-      "num": 180667,
-      "word": "高市早苗手持安倍画像参拜",
-      "onboard_time": 1767622523,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 60478,
       "num": 774131,
       "word": "马杜罗系被美军三角洲特种部队抓获",
@@ -6049,6 +6089,14 @@
       "onboard_time": 1767526702,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56496,
+      "num": 168741,
+      "word": "美国惦记格陵兰岛却甩锅中国",
+      "onboard_time": 1767623722,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 56031,
@@ -6401,6 +6449,14 @@
       "onboard_time": 1767482417,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 38462,
+      "num": 222517,
+      "word": "中方回应特朗普谈格陵兰岛涉华言论",
+      "onboard_time": 1767623784,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 38321,
@@ -6912,6 +6968,14 @@
       "word": "2026年育儿补贴开始申领",
       "onboard_time": 1767583461,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11296,
+      "num": 112313,
+      "word": "越来越多大学生回炉读技校",
+      "onboard_time": 1767624203,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

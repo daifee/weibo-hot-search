@@ -1,6 +1,6 @@
 {
   "startTime": 1767544434885,
-  "endTime": 1767623603634,
+  "endTime": 1767624706745,
   "band_list": [
     {
       "raw_hot": 1236208,
@@ -91,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 741250,
+      "num": 857956,
+      "word": "美国副总统万斯住所遭袭击",
+      "onboard_time": 1767620302,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 741247,
       "num": 1118599,
       "word": "英法联合空袭叙利亚",
@@ -104,14 +112,6 @@
       "word": "韩国四大财团掌门人在京集体亮相",
       "onboard_time": 1767606682,
       "rank": 18,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 708369,
-      "num": 846059,
-      "word": "美国副总统万斯住所遭袭击",
-      "onboard_time": 1767620302,
-      "rank": 4,
       "category": "国际时政"
     },
     {
@@ -176,6 +176,14 @@
       "word": "父母一个月内相继离世女孩独自报丧",
       "onboard_time": 1767617901,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 563322,
+      "num": 585798,
+      "word": "剪断男婴手指助产士已停职",
+      "onboard_time": 1767621203,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -467,14 +475,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 358513,
-      "num": 585798,
-      "word": "剪断男婴手指助产士已停职",
-      "onboard_time": 1767621203,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 351190,
       "num": 351190,
       "word": "流落柬埔寨女网红父亲最新发声",
@@ -505,6 +505,14 @@
       "onboard_time": 1767595402,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 338833,
+      "num": 179347,
+      "word": "秦霄贤直播",
+      "onboard_time": 1767620302,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 337910,
@@ -556,7 +564,7 @@
     },
     {
       "raw_hot": 323427,
-      "num": 219675,
+      "num": 222358,
       "word": "导演猫的树这几个字还是太权威了",
       "onboard_time": 1767619403,
       "rank": 17,
@@ -667,8 +675,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 274353,
+      "num": 274353,
+      "word": "助产士说剪断手指是因为新生儿乱动",
+      "onboard_time": 1767620543,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 272968,
-      "num": 219692,
+      "num": 222320,
       "word": "聂曦光爸爸",
       "onboard_time": 1767620061,
       "rank": 22,
@@ -795,6 +811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 252063,
+      "num": 179934,
+      "word": "张凌赫跨年表演在外网爆火",
+      "onboard_time": 1767621802,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251564,
       "num": 233099,
       "word": "赵丽颖从未否认自己是马里奥",
@@ -809,6 +833,14 @@
       "onboard_time": 1767578420,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245961,
+      "num": 222272,
+      "word": "凶手杀害29岁女子后电梯内唱歌",
+      "onboard_time": 1767619403,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 241429,
@@ -876,7 +908,7 @@
     },
     {
       "raw_hot": 219465,
-      "num": 364526,
+      "num": 619273,
       "word": "DRG官宣早点退役",
       "onboard_time": 1767621683,
       "rank": 3,
@@ -905,6 +937,14 @@
       "onboard_time": 1767603322,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214981,
+      "num": 623106,
+      "word": "高市早苗手持安倍画像参拜",
+      "onboard_time": 1767622523,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 214272,
@@ -953,22 +993,6 @@
       "onboard_time": 1767617841,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 207983,
-      "num": 207983,
-      "word": "助产士说剪断手指是因为新生儿乱动",
-      "onboard_time": 1767620543,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 207659,
-      "num": 179934,
-      "word": "张凌赫跨年表演在外网爆火",
-      "onboard_time": 1767621802,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 207352,
@@ -1123,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193197,
+      "num": 179534,
+      "word": "实在不行过年让孩子穿校服吧",
+      "onboard_time": 1767621563,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190197,
       "num": 190197,
       "word": "龙麦 接二搭",
@@ -1137,14 +1169,6 @@
       "onboard_time": 1767590661,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 188934,
-      "num": 179534,
-      "word": "实在不行过年让孩子穿校服吧",
-      "onboard_time": 1767621563,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 187761,
@@ -1200,22 +1224,6 @@
       "word": "他红是迟早的事",
       "onboard_time": 1767600142,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 180864,
-      "num": 180864,
-      "word": "凶手杀害29岁女子后电梯内唱歌",
-      "onboard_time": 1767619403,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 179347,
-      "num": 179347,
-      "word": "秦霄贤直播",
-      "onboard_time": 1767620302,
-      "rank": 35,
       "category": "艺人"
     },
     {
@@ -1315,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167312,
+      "num": 167312,
+      "word": "庄序 bgm",
+      "onboard_time": 1767622282,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165933,
       "num": 165933,
       "word": "晏紫东签约壹心娱乐",
@@ -1371,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162751,
+      "num": 148166,
+      "word": "医生提醒4件事很伤免疫力",
+      "onboard_time": 1767623063,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 162397,
       "num": 162397,
       "word": "罚罪2第28集封神",
@@ -1425,14 +1449,6 @@
       "onboard_time": 1767580400,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 156746,
-      "num": 148166,
-      "word": "医生提醒4件事很伤免疫力",
-      "onboard_time": 1767623063,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 155448,
@@ -1513,14 +1529,6 @@
       "onboard_time": 1767533664,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148182,
-      "num": 148182,
-      "word": "庄序 bgm",
-      "onboard_time": 1767622282,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 148030,
@@ -1899,6 +1907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116383,
+      "num": 148163,
+      "word": "唐嫣 曲梦我演爽了",
+      "onboard_time": 1767621383,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115678,
       "num": 189936,
       "word": "女子称在全季酒店浴巾里发现避孕套",
@@ -1955,6 +1971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113642,
+      "num": 113642,
+      "word": "爸爸低头玩手机孩子冲上马路被撞",
+      "onboard_time": 1767623784,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113130,
       "num": 113130,
       "word": "沈月跨年vlog",
@@ -1963,20 +1987,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112508,
-      "num": 148163,
-      "word": "唐嫣 曲梦我演爽了",
-      "onboard_time": 1767621383,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 112347,
       "num": 112347,
       "word": "1斤车厘子热量超1碗米饭",
       "onboard_time": 1767592103,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 112332,
+      "num": 112332,
+      "word": "孙子因手机损坏犯癫痫奶奶哭求维修",
+      "onboard_time": 1767623784,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112106,
@@ -2227,6 +2251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98288,
+      "num": 112329,
+      "word": "91岁运动员拥抱23岁的自己",
+      "onboard_time": 1767623722,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98058,
       "num": 98058,
       "word": "崩铁白厄等角色周边上新",
@@ -2347,6 +2379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 93423,
+      "num": 148084,
+      "word": "聂曦光明确拒绝了庄序",
+      "onboard_time": 1767623423,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93268,
       "num": 236629,
       "word": "LVMonogram130周年了",
@@ -2393,6 +2433,14 @@
       "onboard_time": 1767606021,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91676,
+      "num": 112310,
+      "word": "荣耀发布会",
+      "onboard_time": 1767623663,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 91475,
@@ -2465,6 +2513,14 @@
       "onboard_time": 1767594080,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88088,
+      "num": 112298,
+      "word": "白鹿王鹤棣同框cha",
+      "onboard_time": 1767624443,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 87582,
@@ -2625,14 +2681,6 @@
       "onboard_time": 1767524902,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 81999,
-      "num": 148084,
-      "word": "聂曦光明确拒绝了庄序",
-      "onboard_time": 1767623423,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 81693,
@@ -2995,14 +3043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 60754,
-      "num": 180667,
-      "word": "高市早苗手持安倍画像参拜",
-      "onboard_time": 1767622523,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 60265,
       "num": 115407,
       "word": "广州疑似扬尘逼迁",
@@ -3097,6 +3137,14 @@
       "onboard_time": 1767538285,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 56496,
+      "num": 168741,
+      "word": "美国惦记格陵兰岛却甩锅中国",
+      "onboard_time": 1767623722,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 55650,
@@ -3265,6 +3313,14 @@
       "onboard_time": 1767602422,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38462,
+      "num": 222517,
+      "word": "中方回应特朗普谈格陵兰岛涉华言论",
+      "onboard_time": 1767623784,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 38321,
@@ -3512,6 +3568,14 @@
       "word": "2026年育儿补贴开始申领",
       "onboard_time": 1767583461,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11296,
+      "num": 112313,
+      "word": "越来越多大学生回炉读技校",
+      "onboard_time": 1767624203,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

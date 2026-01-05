@@ -1,0 +1,410 @@
+{
+  "runTime": 1767624706745,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 924162,
+        "num": 1147865,
+        "word": "女子发现超市漏洞薅了20多万",
+        "onboard_time": 1767617841,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 741250,
+        "num": 857956,
+        "word": "美国副总统万斯住所遭袭击",
+        "onboard_time": 1767620302,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27801,
+        "num": 633258,
+        "word": "实施绿色消费推进行动",
+        "onboard_time": 1767618681,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214981,
+        "num": 623106,
+        "word": "高市早苗手持安倍画像参拜",
+        "onboard_time": 1767622523,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173105,
+        "num": 619273,
+        "word": "DRG官宣早点退役",
+        "onboard_time": 1767621683,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 617010,
+        "num": 617010,
+        "word": "官方通报新生儿被剪断手指",
+        "onboard_time": 1767619642,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 563322,
+        "num": 563322,
+        "word": "剪断男婴手指助产士已停职",
+        "onboard_time": 1767621203,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274353,
+        "num": 274353,
+        "word": "助产士说剪断手指是因为新生儿乱动",
+        "onboard_time": 1767620543,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222555,
+        "num": 222555,
+        "word": "广东的十度有多冷",
+        "onboard_time": 1767616343,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38462,
+        "num": 222517,
+        "word": "中方回应特朗普谈格陵兰岛涉华言论",
+        "onboard_time": 1767623784,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 562677,
+        "num": 222502,
+        "word": "骄阳似我30集封神",
+        "onboard_time": 1767619281,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361018,
+        "num": 222462,
+        "word": "父母一个月内相继离世女孩独自报丧",
+        "onboard_time": 1767617901,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345496,
+        "num": 222408,
+        "word": "马杜罗出庭",
+        "onboard_time": 1767618021,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 266549,
+        "num": 222358,
+        "word": "导演猫的树这几个字还是太权威了",
+        "onboard_time": 1767619403,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264950,
+        "num": 222320,
+        "word": "聂曦光爸爸",
+        "onboard_time": 1767620061,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245961,
+        "num": 222272,
+        "word": "凶手杀害29岁女子后电梯内唱歌",
+        "onboard_time": 1767619403,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222269,
+        "num": 222269,
+        "word": "轧戏定档",
+        "onboard_time": 1767617600,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173281,
+        "num": 173281,
+        "word": "春晚彩排路透",
+        "onboard_time": 1767605002,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169007,
+        "num": 169007,
+        "word": "统一军装审美的男人杀回来了",
+        "onboard_time": 1767618861,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56496,
+        "num": 168741,
+        "word": "美国惦记格陵兰岛却甩锅中国",
+        "onboard_time": 1767623722,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 338833,
+        "num": 168357,
+        "word": "秦霄贤直播",
+        "onboard_time": 1767620302,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252063,
+        "num": 168310,
+        "word": "张凌赫跨年表演在外网爆火",
+        "onboard_time": 1767621802,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193197,
+        "num": 167946,
+        "word": "实在不行过年让孩子穿校服吧",
+        "onboard_time": 1767621563,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171503,
+        "num": 167562,
+        "word": "内娱窝囊废公司来了没文化的野人",
+        "onboard_time": 1767615680,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167312,
+        "num": 167312,
+        "word": "庄序 bgm",
+        "onboard_time": 1767622282,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155132,
+        "num": 155132,
+        "word": "广东男篮vs浙江男篮",
+        "onboard_time": 1767623363,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158979,
+        "num": 154022,
+        "word": "哈尔滨零下20℃外国游客光腿穿短裤",
+        "onboard_time": 1767595701,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152101,
+        "num": 152101,
+        "word": "产后55天遭丈夫家暴女子发声",
+        "onboard_time": 1767615382,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139920,
+        "num": 139920,
+        "word": "女子花8.5万买爱马仕发现五金磨损",
+        "onboard_time": 1767620662,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131903,
+        "num": 131903,
+        "word": "李在明与李在镕微笑着打招呼",
+        "onboard_time": 1767615200,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162751,
+        "num": 130400,
+        "word": "医生提醒4件事很伤免疫力",
+        "onboard_time": 1767623063,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 122110,
+        "num": 122110,
+        "word": "瑞士冻结马杜罗在瑞资产",
+        "onboard_time": 1767614420,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120596,
+        "num": 120596,
+        "word": "大牙回应再婚",
+        "onboard_time": 1767622282,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116383,
+        "num": 116383,
+        "word": "唐嫣 曲梦我演爽了",
+        "onboard_time": 1767621383,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113642,
+        "num": 113642,
+        "word": "爸爸低头玩手机孩子冲上马路被撞",
+        "onboard_time": 1767623784,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112332,
+        "num": 112332,
+        "word": "孙子因手机损坏犯癫痫奶奶哭求维修",
+        "onboard_time": 1767623784,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98288,
+        "num": 112329,
+        "word": "91岁运动员拥抱23岁的自己",
+        "onboard_time": 1767623722,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95885,
+        "num": 112327,
+        "word": "王安宇出发团学粤语都用短剧里了",
+        "onboard_time": 1767620963,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93423,
+        "num": 112321,
+        "word": "聂曦光明确拒绝了庄序",
+        "onboard_time": 1767623423,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11296,
+        "num": 112313,
+        "word": "越来越多大学生回炉读技校",
+        "onboard_time": 1767624203,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91676,
+        "num": 112310,
+        "word": "荣耀发布会",
+        "onboard_time": 1767623663,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 90923,
+        "num": 112302,
+        "word": "毒皇后扮演者被迪士尼乐园辞退",
+        "onboard_time": 1767602961,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88088,
+        "num": 112298,
+        "word": "白鹿王鹤棣同框cha",
+        "onboard_time": 1767624443,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82373,
+        "num": 112290,
+        "word": "中韩元首会谈",
+        "onboard_time": 1767614000,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 80650,
+        "num": 112287,
+        "word": "没认出这是赖冠霖",
+        "onboard_time": 1767595701,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79939,
+        "num": 112278,
+        "word": "内娱恋综全员撞脸明星颜值",
+        "onboard_time": 1767618681,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79443,
+        "num": 112275,
+        "word": "sakee asen",
+        "onboard_time": 1767610102,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73459,
+        "num": 112268,
+        "word": "苏新皓在环球影城跳女团舞",
+        "onboard_time": 1767621323,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65420,
+        "num": 112264,
+        "word": "CBA",
+        "onboard_time": 1767623243,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64811,
+        "num": 112257,
+        "word": "王楚钦2025新华社年度照片",
+        "onboard_time": 1767623303,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同李在明会谈#"
+    }
+  }
+}
