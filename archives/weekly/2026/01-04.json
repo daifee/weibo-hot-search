@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767602620760,
+  "endTime": 1767603461055,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -491,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 519373,
+      "num": 569127,
+      "word": "内娱现偶婚纱照",
+      "onboard_time": 1767597861,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 518643,
       "num": 675435,
       "word": "TVB颁奖典礼",
@@ -649,14 +657,6 @@
       "onboard_time": 1767512602,
       "rank": 7,
       "category": "数码"
-    },
-    {
-      "raw_hot": 474238,
-      "num": 569127,
-      "word": "内娱现偶婚纱照",
-      "onboard_time": 1767597861,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 472404,
@@ -931,6 +931,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 372877,
+      "num": 159772,
+      "word": "宋威龙张凌赫 今麦郎",
+      "onboard_time": 1767600381,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 372589,
       "num": 803499,
       "word": "TF荣耀之战",
@@ -987,12 +995,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 364782,
-      "num": 159772,
-      "word": "宋威龙张凌赫 今麦郎",
-      "onboard_time": 1767600381,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 363412,
+      "num": 202236,
+      "word": "eStarPro Fly",
+      "onboard_time": 1767600023,
+      "rank": 11,
+      "category": "电竞"
     },
     {
       "raw_hot": 363403,
@@ -1097,14 +1105,6 @@
       "onboard_time": 1767595402,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 340008,
-      "num": 202236,
-      "word": "eStarPro Fly",
-      "onboard_time": 1767600023,
-      "rank": 11,
-      "category": "电竞"
     },
     {
       "raw_hot": 338349,
@@ -1299,20 +1299,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295526,
+      "num": 285496,
+      "word": "学生评教靠前老师评分却成倒数第一",
+      "onboard_time": 1767600142,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 288136,
       "num": 288136,
       "word": "金莎曾因靠商演维持收入感到自卑",
       "onboard_time": 1767520822,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 285496,
-      "num": 285496,
-      "word": "学生评教靠前老师评分却成倒数第一",
-      "onboard_time": 1767600142,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 284795,
@@ -1419,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268484,
+      "num": 158863,
+      "word": "跑男史上最安静的一期",
+      "onboard_time": 1767600862,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267807,
       "num": 299024,
       "word": "车厘子正确清洗教程来了",
@@ -1491,14 +1499,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 256229,
-      "num": 158863,
-      "word": "跑男史上最安静的一期",
-      "onboard_time": 1767600862,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 255943,
       "num": 255943,
       "word": "中方呼吁立即释放马杜罗夫妇",
@@ -1523,12 +1523,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253580,
+      "num": 253580,
+      "word": "英雄联盟证书续了100年",
+      "onboard_time": 1767600080,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 253114,
       "num": 253114,
       "word": "全款11万5买了43平的老破小",
       "onboard_time": 1767494541,
       "rank": 32,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 249525,
+      "num": 184014,
+      "word": "拉美5国联合西班牙反对美动武",
+      "onboard_time": 1767601702,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 249499,
@@ -1657,14 +1673,6 @@
       "onboard_time": 1767494300,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 231277,
-      "num": 231277,
-      "word": "英雄联盟证书续了100年",
-      "onboard_time": 1767600080,
-      "rank": 8,
-      "category": "游戏"
     },
     {
       "raw_hot": 230571,
@@ -2467,6 +2475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 163987,
+      "num": 147024,
+      "word": "他红是迟早的事",
+      "onboard_time": 1767600142,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163974,
       "num": 157819,
       "word": "久坐的人一定要好好锻炼屁股",
@@ -2505,6 +2521,14 @@
       "onboard_time": 1767529824,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160608,
+      "num": 141580,
+      "word": "毒皇后扮演者被迪士尼乐园辞退",
+      "onboard_time": 1767602961,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 160389,
@@ -2601,6 +2625,14 @@
       "onboard_time": 1767481878,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 152578,
+      "num": 152578,
+      "word": "男二刚碰上女主的手就被甩开了",
+      "onboard_time": 1767602121,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 152315,
@@ -2715,11 +2747,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147024,
-      "num": 147024,
-      "word": "他红是迟早的事",
-      "onboard_time": 1767600142,
-      "rank": 27,
+      "raw_hot": 146965,
+      "num": 146965,
+      "word": "七七赵钰琪签约后第一条vlog",
+      "onboard_time": 1767598282,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -2787,6 +2819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143863,
+      "num": 142202,
+      "word": "范丞丞态度也是很刚了",
+      "onboard_time": 1767602121,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143113,
       "num": 143113,
       "word": "委内瑞拉或出现难民潮",
@@ -2809,6 +2849,14 @@
       "onboard_time": 1767458480,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142202,
+      "num": 142201,
+      "word": "英雄联盟补偿我",
+      "onboard_time": 1767598102,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 142096,
@@ -2907,28 +2955,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138205,
+      "num": 138205,
+      "word": "见月退役",
+      "onboard_time": 1767602601,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 137981,
       "num": 137981,
       "word": "原来这是生理性厌恶的表现",
       "onboard_time": 1767513742,
       "rank": 46,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 137880,
-      "num": 137880,
-      "word": "男二刚碰上女主的手就被甩开了",
-      "onboard_time": 1767602121,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 137705,
-      "num": 137705,
-      "word": "范丞丞态度也是很刚了",
-      "onboard_time": 1767602121,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 137417,
@@ -2945,14 +2985,6 @@
       "onboard_time": 1767568098,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136632,
-      "num": 136632,
-      "word": "七七赵钰琪签约后第一条vlog",
-      "onboard_time": 1767598282,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 136462,
@@ -3027,12 +3059,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131266,
+      "num": 131266,
+      "word": "6国发表联合声明强烈谴责美国",
+      "onboard_time": 1767602241,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 131156,
       "num": 131156,
       "word": "恋与深空",
       "onboard_time": 1767588083,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 130776,
+      "num": 130776,
+      "word": "我要再玩100年英雄联盟",
+      "onboard_time": 1767603201,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 130406,
@@ -3219,20 +3267,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123414,
+      "num": 123414,
+      "word": "中方相信委政府将妥善处理内部事务",
+      "onboard_time": 1767602841,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 122971,
       "num": 122971,
       "word": "经常生闷气会掏空人的气血",
       "onboard_time": 1767501384,
       "rank": 46,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 122918,
-      "num": 122918,
-      "word": "英雄联盟补偿我",
-      "onboard_time": 1767598102,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 122797,
@@ -3257,14 +3305,6 @@
       "onboard_time": 1767525322,
       "rank": 32,
       "category": "剧集,作品衍生"
-    },
-    {
-      "raw_hot": 122101,
-      "num": 161185,
-      "word": "拉美5国联合西班牙反对美动武",
-      "onboard_time": 1767601702,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 121787,
@@ -3427,6 +3467,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 114249,
+      "num": 162354,
+      "word": "女生游黄山高坠死亡谁呼出的电话",
+      "onboard_time": 1767602061,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114140,
       "num": 114140,
       "word": "2元人民币已绝版6年",
@@ -3449,6 +3497,14 @@
       "onboard_time": 1767590842,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113595,
+      "num": 143056,
+      "word": "李在明谈韩国人周五下班去上海",
+      "onboard_time": 1767602841,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 113545,
@@ -3515,20 +3571,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 111270,
-      "num": 111270,
-      "word": "6国发表联合声明强烈谴责美国",
-      "onboard_time": 1767602241,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 110820,
       "num": 110820,
       "word": "原来眼镜有寿命",
       "onboard_time": 1767481939,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 110744,
+      "num": 110744,
+      "word": "腾讯回应英雄联盟证书到期",
+      "onboard_time": 1767600262,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 110135,
@@ -3641,14 +3697,6 @@
       "onboard_time": 1767508882,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 104872,
-      "num": 104872,
-      "word": "见月退役",
-      "onboard_time": 1767602601,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 104606,
@@ -3835,14 +3883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 99421,
-      "num": 99421,
-      "word": "腾讯回应英雄联盟证书到期",
-      "onboard_time": 1767600262,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 99252,
       "num": 99252,
       "word": "年轻人的差评表达方式",
@@ -3985,6 +4025,14 @@
       "onboard_time": 1767600800,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95855,
+      "num": 95855,
+      "word": "原来取悦自己是这样的",
+      "onboard_time": 1767603322,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 95792,
@@ -4217,6 +4265,14 @@
       "onboard_time": 1767598222,
       "rank": 44,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 89802,
+      "num": 89802,
+      "word": "荣华令开播",
+      "onboard_time": 1767603201,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 89793,
@@ -5227,14 +5283,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 40421,
-      "num": 162354,
-      "word": "女生游黄山高坠死亡谁呼出的电话",
-      "onboard_time": 1767602061,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40002,
       "num": 56104,
       "word": "今年黄金白银还涨吗",
@@ -5243,12 +5291,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 39708,
+      "num": 126209,
+      "word": "105捆2元人民币拍出83.16万元",
+      "onboard_time": 1767602422,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39524,
       "num": 444606,
       "word": "陈立农赶鸭子上架奈何真不会",
       "onboard_time": 1767459620,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 39092,
+      "num": 124070,
+      "word": "颜安 全女工作室",
+      "onboard_time": 1767603322,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 38660,
@@ -5297,14 +5361,6 @@
       "onboard_time": 1767450386,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 36652,
-      "num": 113616,
-      "word": "105捆2元人民币拍出83.16万元",
-      "onboard_time": 1767602422,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36188,
@@ -5476,7 +5532,7 @@
     },
     {
       "raw_hot": 26379,
-      "num": 621262,
+      "num": 633209,
       "word": "中国人过冬的仪式感",
       "onboard_time": 1767578182,
       "rank": 2,
