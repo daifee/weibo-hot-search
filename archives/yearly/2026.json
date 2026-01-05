@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767581108386,
+  "endTime": 1767586913565,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -203,6 +203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1033523,
+      "num": 275606,
+      "word": "拒签于正的素人七七公式照",
+      "onboard_time": 1767583461,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1029154,
       "num": 285877,
       "word": "马杜罗身边内鬼详情曝光",
@@ -217,6 +225,14 @@
       "onboard_time": 1767502106,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 987620,
+      "num": 287964,
+      "word": "黄金",
+      "onboard_time": 1767579621,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 968745,
@@ -435,6 +451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 741247,
+      "num": 1118599,
+      "word": "英法联合空袭叙利亚",
+      "onboard_time": 1767580880,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 740663,
       "num": 935951,
       "word": "梓墨感谢朱天天",
@@ -505,14 +529,6 @@
       "onboard_time": 1767514043,
       "rank": 10,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 648821,
-      "num": 287964,
-      "word": "黄金",
-      "onboard_time": 1767579621,
-      "rank": 17,
-      "category": "财经"
     },
     {
       "raw_hot": 638474,
@@ -635,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 588238,
+      "num": 202066,
+      "word": "小黄豆曝某男网红有口臭",
+      "onboard_time": 1767583880,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 584264,
       "num": 1093482,
       "word": "超级月亮",
@@ -716,7 +740,7 @@
     },
     {
       "raw_hot": 547779,
-      "num": 819141,
+      "num": 827960,
       "word": "李在明夫人穿韩服出席晚宴",
       "onboard_time": 1767579021,
       "rank": 13,
@@ -889,6 +913,14 @@
       "onboard_time": 1767317599,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 503974,
+      "num": 503974,
+      "word": "麻辣烫里面全是豆",
+      "onboard_time": 1767584181,
+      "rank": 3,
+      "category": "美食"
     },
     {
       "raw_hot": 500587,
@@ -1363,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 392598,
+      "num": 195188,
+      "word": "张淼怡新剧开机哭了",
+      "onboard_time": 1767582021,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 392190,
       "num": 1096612,
       "word": "在英国痛了7周到中国四天就治好了",
@@ -1667,6 +1707,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 345332,
+      "num": 263172,
+      "word": "真正不需要梦女的男明星",
+      "onboard_time": 1767585381,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 342634,
+      "num": 342634,
+      "word": "你是林更新那他是谁",
+      "onboard_time": 1767584781,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 341874,
       "num": 554801,
       "word": "妈妈住院缺席儿子婚礼后病房改新房",
@@ -1699,6 +1755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 337304,
+      "num": 337304,
+      "word": "105捆2元人民币竞价已达42万元",
+      "onboard_time": 1767583461,
+      "rank": 6,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 335136,
       "num": 875497,
       "word": "樊振东vs户上隼辅",
@@ -1729,6 +1793,14 @@
       "onboard_time": 1767481939,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 325624,
+      "num": 325624,
+      "word": "金巧巧风格大变",
+      "onboard_time": 1767585862,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 324453,
@@ -1809,6 +1881,14 @@
       "onboard_time": 1767458661,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 318351,
+      "num": 318351,
+      "word": "TVB第一个打烂奖杯",
+      "onboard_time": 1767584781,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 318230,
@@ -1963,6 +2043,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 301960,
+      "num": 259031,
+      "word": "因为父母职业吃到的红利",
+      "onboard_time": 1767585502,
+      "rank": 13,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 300964,
       "num": 1006083,
       "word": "小猫生了一模一样的自己",
@@ -2089,6 +2177,14 @@
       "onboard_time": 1767520822,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 286537,
+      "num": 286537,
+      "word": "流落柬埔寨女网红父亲最新发声",
+      "onboard_time": 1767583821,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 285474,
@@ -2305,102 +2401,6 @@
       "onboard_time": 1767447266,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 263748,
-      "num": 151816,
-      "word": "黄金再度直线猛拉",
-      "onboard_time": 1767575840,
-      "rank": 20,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 262904,
-      "num": 262904,
-      "word": "特朗普说绝对需要格陵兰岛",
-      "onboard_time": 1767570620,
-      "rank": 7,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 262444,
-      "num": 476176,
-      "word": "佘诗曼四封TVB视后",
-      "onboard_time": 1767540442,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 261771,
-      "num": 1002527,
-      "word": "TE对战北京WBG",
-      "onboard_time": 1767250999,
-      "rank": 4,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 261107,
-      "num": 1029862,
-      "word": "骄阳似我 梅园定情",
-      "onboard_time": 1767349580,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 260724,
-      "num": 1739259,
-      "word": "生理性喜欢和心理性喜欢的区别",
-      "onboard_time": 1767426385,
-      "rank": 21,
-      "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 259851,
-      "num": 1005812,
-      "word": "家业下证",
-      "onboard_time": 1767262760,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 259394,
-      "num": 259394,
-      "word": "人一接近退休气血就开始回来了",
-      "onboard_time": 1767485541,
-      "rank": 7,
-      "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 259335,
-      "num": 450779,
-      "word": "恭喜郭芙蓉",
-      "onboard_time": 1767323899,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 257383,
-      "num": 267621,
-      "word": "宇树科技上市绿色通道被叫停",
-      "onboard_time": 1767512722,
-      "rank": 18,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 256749,
-      "num": 1096200,
-      "word": "玉茗茶骨",
-      "onboard_time": 1767364462,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 256647,
-      "num": 1053264,
-      "word": "偶像团体snowman被点名",
-      "onboard_time": 1767354441,
-      "rank": 40,
-      "category": "民生新闻,艺人"
     }
   ],
   "hotgov_list": [
@@ -2445,6 +2445,9 @@
     },
     {
       "word": "#习近平就瑞士瓦莱州火灾事件致慰问电#"
+    },
+    {
+      "word": "#习近平会见爱尔兰总理马丁#"
     }
   ]
 }
