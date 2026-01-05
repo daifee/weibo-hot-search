@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767595874055,
+  "endTime": 1767596648581,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -331,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 604002,
+      "num": 604002,
+      "word": "英雄联盟 证书到期",
+      "onboard_time": 1767591144,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 591379,
       "num": 827328,
       "word": "幼童吃15颗车厘子患急性肠胃炎",
@@ -371,14 +379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 571974,
-      "num": 571974,
-      "word": "英雄联盟 证书到期",
-      "onboard_time": 1767591144,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 570955,
       "num": 1046627,
       "word": "外交部回应美对委军事打击",
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 544794,
-      "num": 243195,
+      "num": 260629,
       "word": "叙利亚",
       "onboard_time": 1767589344,
       "rank": 14,
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 505369,
-      "num": 505369,
+      "num": 605268,
       "word": "女子怀孕每次产检发现多出一胎",
       "onboard_time": 1767589044,
       "rank": 3,
@@ -619,6 +619,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 467932,
+      "num": 467932,
+      "word": "英雄联盟",
+      "onboard_time": 1767588023,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 459417,
+      "num": 217312,
+      "word": "霍启仁妻子公开婚礼现场照",
+      "onboard_time": 1767591922,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 459298,
       "num": 1134190,
       "word": "美高官妻子暗示很快拿下格陵兰岛",
@@ -665,14 +681,6 @@
       "onboard_time": 1767481699,
       "rank": 11,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 443514,
-      "num": 443514,
-      "word": "英雄联盟",
-      "onboard_time": 1767588023,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 439304,
@@ -731,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 423706,
+      "num": 1067793,
+      "word": "央视曝光偷SIM卡套路",
+      "onboard_time": 1767593122,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 420432,
       "num": 339459,
       "word": "巴西认定委副总统为委内瑞拉领导人",
@@ -769,14 +785,6 @@
       "onboard_time": 1767573563,
       "rank": 4,
       "category": "美食"
-    },
-    {
-      "raw_hot": 408933,
-      "num": 203516,
-      "word": "霍启仁妻子公开婚礼现场照",
-      "onboard_time": 1767591922,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 406325,
@@ -1019,6 +1027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 341311,
+      "num": 341311,
+      "word": "疑被助产士剪断手指男婴父亲发声",
+      "onboard_time": 1767595222,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 338349,
       "num": 251790,
       "word": "马杜罗押送途中对着镜头比出剪刀手",
@@ -1036,7 +1052,7 @@
     },
     {
       "raw_hot": 337304,
-      "num": 337304,
+      "num": 756028,
       "word": "105捆2元人民币竞价已达42万元",
       "onboard_time": 1767583461,
       "rank": 6,
@@ -1219,6 +1235,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 281099,
+      "num": 281099,
+      "word": "LABUBU不用抢了",
+      "onboard_time": 1767594501,
+      "rank": 9,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 280983,
       "num": 794489,
       "word": "俄称美国将遭到全球大多数人的谴责",
@@ -1323,6 +1347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 263484,
+      "num": 263484,
+      "word": "朱媛媛遗作即将播出",
+      "onboard_time": 1767594382,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262904,
       "num": 262904,
       "word": "特朗普说绝对需要格陵兰岛",
@@ -1425,14 +1457,6 @@
       "onboard_time": 1767489323,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 244391,
-      "num": 244391,
-      "word": "LABUBU不用抢了",
-      "onboard_time": 1767594501,
-      "rank": 9,
-      "category": "休闲"
     },
     {
       "raw_hot": 243433,
@@ -1603,6 +1627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222815,
+      "num": 222815,
+      "word": "没认出这是赖冠霖",
+      "onboard_time": 1767595701,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222702,
       "num": 222702,
       "word": "易烊千玺起诉眼镜公司侵权",
@@ -1675,14 +1707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 209798,
-      "num": 209798,
-      "word": "朱媛媛遗作即将播出",
-      "onboard_time": 1767594382,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208911,
       "num": 208911,
       "word": "萨尔队德国杯决赛对阵富尔达",
@@ -1721,14 +1745,6 @@
       "onboard_time": 1767481818,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 205789,
-      "num": 784429,
-      "word": "央视曝光偷SIM卡套路",
-      "onboard_time": 1767593122,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 205251,
@@ -2027,14 +2043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182235,
-      "num": 144854,
-      "word": "疑被助产士剪断手指男婴父亲发声",
-      "onboard_time": 1767595222,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 181404,
       "num": 181404,
       "word": "时代峰峻高会泡泡功能今年上线",
@@ -2073,6 +2081,14 @@
       "onboard_time": 1767516803,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178507,
+      "num": 178507,
+      "word": "差三分考上北大研究生的含金量",
+      "onboard_time": 1767595402,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 176698,
@@ -2153,6 +2169,14 @@
       "onboard_time": 1767578420,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 170246,
+      "num": 208206,
+      "word": "东北家里忘关水龙头变冰山",
+      "onboard_time": 1767591442,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169430,
@@ -2412,19 +2436,11 @@
     },
     {
       "raw_hot": 155448,
-      "num": 155448,
+      "num": 218978,
       "word": "李在明分享中国行首日视频",
       "onboard_time": 1767593722,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 154941,
-      "num": 208206,
-      "word": "东北家里忘关水龙头变冰山",
-      "onboard_time": 1767591442,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154287,
@@ -2601,6 +2617,14 @@
       "onboard_time": 1767513501,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 144815,
+      "num": 205067,
+      "word": "王鹤棣说白鹿净看些没营养的",
+      "onboard_time": 1767594742,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 144671,
@@ -2963,14 +2987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125171,
-      "num": 125171,
-      "word": "差三分考上北大研究生的含金量",
-      "onboard_time": 1767595402,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 125040,
       "num": 125040,
       "word": "宋祖儿和闺蜜跨年",
@@ -3227,20 +3243,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 112347,
+      "num": 112347,
+      "word": "1斤车厘子热量超1碗米饭",
+      "onboard_time": 1767592103,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 112106,
       "num": 145902,
       "word": "王源演唱会 误入好莱坞",
       "onboard_time": 1767585982,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 112003,
-      "num": 112003,
-      "word": "1斤车厘子热量超1碗米饭",
-      "onboard_time": 1767592103,
-      "rank": 41,
-      "category": "美食"
     },
     {
       "raw_hot": 111905,
@@ -3275,14 +3291,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 111483,
-      "num": 205067,
-      "word": "王鹤棣说白鹿净看些没营养的",
-      "onboard_time": 1767594742,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 110820,
       "num": 110820,
       "word": "原来眼镜有寿命",
@@ -3305,6 +3313,14 @@
       "onboard_time": 1767505283,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109630,
+      "num": 109630,
+      "word": "曹骏真俊啊",
+      "onboard_time": 1767596423,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 109124,
@@ -3457,6 +3473,14 @@
       "onboard_time": 1767529343,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 102148,
+      "num": 102148,
+      "word": "娜扎吐槽了闺蜜一路",
+      "onboard_time": 1767593722,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 101381,
@@ -3691,14 +3715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 95593,
-      "num": 95593,
-      "word": "娜扎吐槽了闺蜜一路",
-      "onboard_time": 1767593722,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 95486,
       "num": 95486,
       "word": "白鹿王鹤棣范丞丞宇闪合体",
@@ -3769,6 +3785,14 @@
       "onboard_time": 1767447266,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 93539,
+      "num": 93539,
+      "word": "曝Doinb直播要换平台",
+      "onboard_time": 1767596243,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 93372,
@@ -4027,6 +4051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86201,
+      "num": 222507,
+      "word": "哈尔滨零下20℃外国游客光腿穿短裤",
+      "onboard_time": 1767595701,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85627,
       "num": 130347,
       "word": "网购假退货1万多次护肤品被判刑",
@@ -4081,6 +4113,14 @@
       "onboard_time": 1767514043,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 82909,
+      "num": 82909,
+      "word": "果切界出了个研究生",
+      "onboard_time": 1767596482,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 82737,
@@ -4323,14 +4363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 69025,
-      "num": 125828,
-      "word": "没认出这是赖冠霖",
-      "onboard_time": 1767595701,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 68363,
       "num": 79914,
       "word": "贵州茅台新公司名叫爱茅台",
@@ -4403,6 +4435,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 64627,
+      "num": 113092,
+      "word": "新生儿疑被助产士剪断手指",
+      "onboard_time": 1767596361,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64519,
       "num": 133978,
       "word": "4A景区一雕像被指活埋汉武帝",
@@ -4441,6 +4481,14 @@
       "onboard_time": 1767580701,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62201,
+      "num": 126985,
+      "word": "女生游黄山身亡家属称护栏存缺陷",
+      "onboard_time": 1767595161,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61696,
@@ -4915,14 +4963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36983,
-      "num": 126985,
-      "word": "女生游黄山身亡家属称护栏存缺陷",
-      "onboard_time": 1767595161,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36755,
       "num": 832516,
       "word": "福建舰2026主要任务",
@@ -4985,14 +5025,6 @@
       "onboard_time": 1767590061,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 33585,
-      "num": 130735,
-      "word": "哈尔滨零下20℃外国游客光腿穿短裤",
-      "onboard_time": 1767595701,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33504,
@@ -5139,6 +5171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23282,
+      "num": 220421,
+      "word": "女子早高峰时与无人配送车发生碰撞",
+      "onboard_time": 1767595701,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23253,
       "num": 138948,
       "word": "怪奇物语大结局",
@@ -5169,6 +5209,14 @@
       "onboard_time": 1767511823,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 21329,
+      "num": 281399,
+      "word": "特等功臣沈财富逝世",
+      "onboard_time": 1767596001,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21274,
@@ -5249,14 +5297,6 @@
       "onboard_time": 1767552375,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 15459,
-      "num": 144871,
-      "word": "女子早高峰时与无人配送车发生碰撞",
-      "onboard_time": 1767595701,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14559,

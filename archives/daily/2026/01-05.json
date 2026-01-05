@@ -1,6 +1,6 @@
 {
   "startTime": 1767544434885,
-  "endTime": 1767595874055,
+  "endTime": 1767596648581,
   "band_list": [
     {
       "raw_hot": 1158219,
@@ -75,8 +75,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 571974,
-      "num": 571974,
+      "raw_hot": 604002,
+      "num": 604002,
       "word": "英雄联盟 证书到期",
       "onboard_time": 1767591144,
       "rank": 26,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 544794,
-      "num": 243195,
+      "num": 260629,
       "word": "叙利亚",
       "onboard_time": 1767589344,
       "rank": 14,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 505369,
-      "num": 505369,
+      "num": 605268,
       "word": "女子怀孕每次产检发现多出一胎",
       "onboard_time": 1767589044,
       "rank": 3,
@@ -155,12 +155,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 443514,
-      "num": 443514,
+      "raw_hot": 467932,
+      "num": 467932,
       "word": "英雄联盟",
       "onboard_time": 1767588023,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 459417,
+      "num": 217312,
+      "word": "霍启仁妻子公开婚礼现场照",
+      "onboard_time": 1767591922,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 434032,
@@ -187,20 +195,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 423706,
+      "num": 1067793,
+      "word": "央视曝光偷SIM卡套路",
+      "onboard_time": 1767593122,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 411474,
       "num": 411474,
       "word": "车厘子铁含量超柑橘10倍",
       "onboard_time": 1767573563,
       "rank": 4,
       "category": "美食"
-    },
-    {
-      "raw_hot": 408933,
-      "num": 203516,
-      "word": "霍启仁妻子公开婚礼现场照",
-      "onboard_time": 1767591922,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 406325,
@@ -267,6 +275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 341311,
+      "num": 341311,
+      "word": "疑被助产士剪断手指男婴父亲发声",
+      "onboard_time": 1767595222,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337910,
       "num": 189807,
       "word": "委内瑞拉之后这些国家面临危险",
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 337304,
-      "num": 337304,
+      "num": 756028,
       "word": "105捆2元人民币竞价已达42万元",
       "onboard_time": 1767583461,
       "rank": 6,
@@ -331,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 281099,
+      "num": 281099,
+      "word": "LABUBU不用抢了",
+      "onboard_time": 1767594501,
+      "rank": 9,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 279026,
       "num": 279026,
       "word": "春节连休9天高速免费",
@@ -369,6 +393,14 @@
       "onboard_time": 1767575840,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 263484,
+      "num": 263484,
+      "word": "朱媛媛遗作即将播出",
+      "onboard_time": 1767594382,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 262904,
@@ -411,14 +443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 244391,
-      "num": 244391,
-      "word": "LABUBU不用抢了",
-      "onboard_time": 1767594501,
-      "rank": 9,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 241429,
       "num": 655099,
       "word": "李在明抵京后表态",
@@ -456,6 +480,14 @@
       "word": "时代峰峻高会 泡泡",
       "onboard_time": 1767529103,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 222815,
+      "num": 222815,
+      "word": "没认出这是赖冠霖",
+      "onboard_time": 1767595701,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -499,14 +531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 209798,
-      "num": 209798,
-      "word": "朱媛媛遗作即将播出",
-      "onboard_time": 1767594382,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 207352,
       "num": 207352,
       "word": "特朗普暗示可能对墨西哥采取行动",
@@ -521,14 +545,6 @@
       "onboard_time": 1767586583,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 205789,
-      "num": 784429,
-      "word": "央视曝光偷SIM卡套路",
-      "onboard_time": 1767593122,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 202058,
@@ -651,12 +667,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 182235,
-      "num": 144854,
-      "word": "疑被助产士剪断手指男婴父亲发声",
-      "onboard_time": 1767595222,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 178507,
+      "num": 178507,
+      "word": "差三分考上北大研究生的含金量",
+      "onboard_time": 1767595402,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 172784,
@@ -673,6 +689,14 @@
       "onboard_time": 1767578420,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 170246,
+      "num": 208206,
+      "word": "东北家里忘关水龙头变冰山",
+      "onboard_time": 1767591442,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169430,
@@ -764,19 +788,11 @@
     },
     {
       "raw_hot": 155448,
-      "num": 155448,
+      "num": 218978,
       "word": "李在明分享中国行首日视频",
       "onboard_time": 1767593722,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 154941,
-      "num": 208206,
-      "word": "东北家里忘关水龙头变冰山",
-      "onboard_time": 1767591442,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154287,
@@ -841,6 +857,14 @@
       "onboard_time": 1767579919,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144815,
+      "num": 205067,
+      "word": "王鹤棣说白鹿净看些没营养的",
+      "onboard_time": 1767594742,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 141284,
@@ -963,14 +987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125171,
-      "num": 125171,
-      "word": "差三分考上北大研究生的含金量",
-      "onboard_time": 1767595402,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 124666,
       "num": 195233,
       "word": "男子驾车蓄意撞死高中生被判死刑",
@@ -1059,20 +1075,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112347,
+      "num": 112347,
+      "word": "1斤车厘子热量超1碗米饭",
+      "onboard_time": 1767592103,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 112106,
       "num": 145902,
       "word": "王源演唱会 误入好莱坞",
       "onboard_time": 1767585982,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 112003,
-      "num": 112003,
-      "word": "1斤车厘子热量超1碗米饭",
-      "onboard_time": 1767592103,
-      "rank": 41,
-      "category": "美食"
     },
     {
       "raw_hot": 111849,
@@ -1091,20 +1107,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 111483,
-      "num": 205067,
-      "word": "王鹤棣说白鹿净看些没营养的",
-      "onboard_time": 1767594742,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 109962,
       "num": 189820,
       "word": "TVB颁奖典礼",
       "onboard_time": 1767530542,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109630,
+      "num": 109630,
+      "word": "曹骏真俊啊",
+      "onboard_time": 1767596423,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 108848,
@@ -1137,6 +1153,14 @@
       "onboard_time": 1767571100,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102148,
+      "num": 102148,
+      "word": "娜扎吐槽了闺蜜一路",
+      "onboard_time": 1767593722,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 101326,
@@ -1179,20 +1203,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 95593,
-      "num": 95593,
-      "word": "娜扎吐槽了闺蜜一路",
-      "onboard_time": 1767593722,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 93936,
       "num": 93936,
       "word": "赵今麦穿宋威龙衣服",
       "onboard_time": 1767568217,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93539,
+      "num": 93539,
+      "word": "曝Doinb直播要换平台",
+      "onboard_time": 1767596243,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 92773,
@@ -1267,6 +1291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86201,
+      "num": 222507,
+      "word": "哈尔滨零下20℃外国游客光腿穿短裤",
+      "onboard_time": 1767595701,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85627,
       "num": 130347,
       "word": "网购假退货1万多次护肤品被判刑",
@@ -1289,6 +1321,14 @@
       "onboard_time": 1767579021,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82909,
+      "num": 82909,
+      "word": "果切界出了个研究生",
+      "onboard_time": 1767596482,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 82154,
@@ -1443,14 +1483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 69025,
-      "num": 125828,
-      "word": "没认出这是赖冠霖",
-      "onboard_time": 1767595701,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 68363,
       "num": 79914,
       "word": "贵州茅台新公司名叫爱茅台",
@@ -1475,6 +1507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 64627,
+      "num": 113092,
+      "word": "新生儿疑被助产士剪断手指",
+      "onboard_time": 1767596361,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64519,
       "num": 133978,
       "word": "4A景区一雕像被指活埋汉武帝",
@@ -1497,6 +1537,14 @@
       "onboard_time": 1767580701,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62201,
+      "num": 126985,
+      "word": "女生游黄山身亡家属称护栏存缺陷",
+      "onboard_time": 1767595161,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62061,
@@ -1755,14 +1803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36983,
-      "num": 126985,
-      "word": "女生游黄山身亡家属称护栏存缺陷",
-      "onboard_time": 1767595161,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34696,
       "num": 41278,
       "word": "车厘子自由但消费者开盲盒太闹心",
@@ -1785,14 +1825,6 @@
       "onboard_time": 1767590061,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 33585,
-      "num": 130735,
-      "word": "哈尔滨零下20℃外国游客光腿穿短裤",
-      "onboard_time": 1767595701,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33163,
@@ -1835,6 +1867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23282,
+      "num": 220421,
+      "word": "女子早高峰时与无人配送车发生碰撞",
+      "onboard_time": 1767595701,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21782,
       "num": 61426,
       "word": "微博网友年度期待电影",
@@ -1843,20 +1883,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 21329,
+      "num": 281399,
+      "word": "特等功臣沈财富逝世",
+      "onboard_time": 1767596001,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15518,
       "num": 39031,
       "word": "王力宏手比嘴忙",
       "onboard_time": 1767552375,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 15459,
-      "num": 144871,
-      "word": "女子早高峰时与无人配送车发生碰撞",
-      "onboard_time": 1767595701,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14275,
