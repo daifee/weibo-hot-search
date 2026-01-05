@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767642093454,
+  "endTime": 1767645294701,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -6467,6 +6467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45907,
+      "num": 34241,
+      "word": "小英回应找男朋友",
+      "onboard_time": 1767637695,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 45687,
       "num": 772446,
       "word": "一诺连续三年获KPL最受欢迎选手",
@@ -6641,14 +6649,6 @@
       "onboard_time": 1767482417,
       "rank": 46,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 38357,
-      "num": 34241,
-      "word": "小英回应找男朋友",
-      "onboard_time": 1767637695,
-      "rank": 36,
-      "category": "网红"
     },
     {
       "raw_hot": 38321,
@@ -7169,6 +7169,14 @@
       "onboard_time": 1767634517,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15639,
+      "num": 21091,
+      "word": "欢迎李在明访华",
+      "onboard_time": 1767643034,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15518,
