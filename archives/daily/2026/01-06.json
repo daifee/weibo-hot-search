@@ -1,22 +1,30 @@
 {
   "startTime": 1767631011864,
-  "endTime": 1767655741240,
+  "endTime": 1767656580361,
   "band_list": [
     {
-      "raw_hot": 958149,
-      "num": 183218,
+      "raw_hot": 1123252,
+      "num": 213564,
       "word": "马杜罗不认罪",
       "onboard_time": 1767654558,
       "rank": 5,
       "category": "国际时政"
     },
     {
-      "raw_hot": 436978,
-      "num": 436978,
+      "raw_hot": 510524,
+      "num": 510524,
       "word": "23岁女导演柬埔寨坠楼身亡",
       "onboard_time": 1767625043,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 411025,
+      "num": 921389,
+      "word": "上万元加拿大鹅三亚仅6900元",
+      "onboard_time": 1767627802,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 406947,
@@ -35,19 +43,27 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 380779,
-      "num": 812035,
-      "word": "上万元加拿大鹅三亚仅6900元",
-      "onboard_time": 1767627802,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 371171,
       "num": 199395,
       "word": "男孩烫伤休克死亡餐馆称感冒致死",
       "onboard_time": 1767626602,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 321572,
+      "num": 70918,
+      "word": "三星掌门人李在镕在北京买LABUBU",
+      "onboard_time": 1767654558,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 305119,
+      "num": 176286,
+      "word": "助产士说剪断手指是因为新生儿乱动",
+      "onboard_time": 1767620543,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -59,22 +75,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 267473,
-      "num": 58245,
-      "word": "三星掌门人李在镕在北京买LABUBU",
-      "onboard_time": 1767654558,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 248422,
-      "num": 176286,
-      "word": "助产士说剪断手指是因为新生儿乱动",
-      "onboard_time": 1767620543,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 216007,
       "num": 199160,
       "word": "断指新生儿父亲拒绝医院10万赔偿",
@@ -83,12 +83,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 215063,
+      "raw_hot": 215114,
       "num": 364150,
       "word": "美国副总统万斯住所遭袭击",
       "onboard_time": 1767620302,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 197130,
+      "num": 114877,
+      "word": "实在不行过年让孩子穿校服吧",
+      "onboard_time": 1767621563,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 179317,
@@ -131,12 +139,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144976,
-      "num": 114877,
-      "word": "实在不行过年让孩子穿校服吧",
-      "onboard_time": 1767621563,
-      "rank": 29,
-      "category": "幽默"
+      "raw_hot": 145470,
+      "num": 114926,
+      "word": "孙子因手机损坏犯癫痫奶奶哭求维修",
+      "onboard_time": 1767623784,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133320,
+      "num": 76731,
+      "word": "四大顶级扛剧花",
+      "onboard_time": 1767655458,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 129120,
+      "num": 115627,
+      "word": "爸爸低头玩手机孩子冲上马路被撞",
+      "onboard_time": 1767623784,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127681,
+      "num": 127681,
+      "word": "中方回应特朗普谈格陵兰岛涉华言论",
+      "onboard_time": 1767623784,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 127028,
@@ -163,22 +195,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 123400,
-      "num": 114926,
-      "word": "孙子因手机损坏犯癫痫奶奶哭求维修",
-      "onboard_time": 1767623784,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120865,
-      "num": 120865,
-      "word": "中方回应特朗普谈格陵兰岛涉华言论",
-      "onboard_time": 1767623784,
-      "rank": 15,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 119085,
       "num": 114840,
       "word": "陈思罕露额头",
@@ -195,7 +211,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 114982,
+      "raw_hot": 115417,
       "num": 156302,
       "word": "女子花8.5万买爱马仕发现五金磨损",
       "onboard_time": 1767620662,
@@ -211,6 +227,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 108538,
+      "num": 114975,
+      "word": "父母一个月内相继离世女孩独自报丧",
+      "onboard_time": 1767617901,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108535,
+      "num": 114912,
+      "word": "医生提醒4件事很伤免疫力",
+      "onboard_time": 1767623063,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 107958,
       "num": 114920,
       "word": "宋威龙穿搭",
@@ -219,28 +251,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 106840,
-      "num": 114975,
-      "word": "父母一个月内相继离世女孩独自报丧",
-      "onboard_time": 1767617901,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105539,
-      "num": 114808,
-      "word": "爸爸低头玩手机孩子冲上马路被撞",
-      "onboard_time": 1767623784,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105266,
-      "num": 76731,
-      "word": "四大顶级扛剧花",
-      "onboard_time": 1767655458,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 106496,
+      "num": 76472,
+      "word": "吃对抗炎食物能抵消久坐伤害",
+      "onboard_time": 1767653837,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 103511,
@@ -251,12 +267,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96778,
-      "num": 114912,
-      "word": "医生提醒4件事很伤免疫力",
-      "onboard_time": 1767623063,
-      "rank": 25,
-      "category": "健康医疗"
+      "raw_hot": 96903,
+      "num": 114829,
+      "word": "产后55天遭丈夫家暴女子发声",
+      "onboard_time": 1767615382,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96252,
+      "num": 70873,
+      "word": "为保护马杜罗古巴警卫激烈抵抗",
+      "onboard_time": 1767654376,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 95124,
+      "num": 95124,
+      "word": "纽约抗议人群要求释放马杜罗",
+      "onboard_time": 1767655818,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 91020,
@@ -275,28 +307,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 86221,
-      "num": 114829,
-      "word": "产后55天遭丈夫家暴女子发声",
-      "onboard_time": 1767615382,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78955,
       "num": 114694,
       "word": "国漫首位麻花辫男主",
       "onboard_time": 1767619582,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 78175,
-      "num": 58091,
-      "word": "为保护马杜罗古巴警卫激烈抵抗",
-      "onboard_time": 1767654376,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 77106,
@@ -307,12 +323,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 76472,
-      "num": 76472,
-      "word": "吃对抗炎食物能抵消久坐伤害",
-      "onboard_time": 1767653837,
-      "rank": 26,
-      "category": "健康医疗"
+      "raw_hot": 75648,
+      "num": 115696,
+      "word": "亚洲杯名单",
+      "onboard_time": 1767654917,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 74468,
+      "num": 74468,
+      "word": "伊朗",
+      "onboard_time": 1767655998,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 72047,
@@ -347,12 +371,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 64108,
-      "num": 64108,
-      "word": "亚洲杯名单",
-      "onboard_time": 1767654917,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 66903,
+      "num": 72736,
+      "word": "医生从濒死患者动脉掏血栓如同掏碎肉",
+      "onboard_time": 1767655878,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63985,
@@ -361,6 +385,14 @@
       "onboard_time": 1767622282,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 63902,
+      "num": 63902,
+      "word": "孕妇想玩密室逃脱被老板拒绝并退款",
+      "onboard_time": 1767656238,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63506,
@@ -392,6 +424,14 @@
       "word": "瑞士冻结马杜罗在瑞资产",
       "onboard_time": 1767614420,
       "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 58717,
+      "num": 58717,
+      "word": "伊朗局势再度紧张",
+      "onboard_time": 1767655878,
+      "rank": 35,
       "category": "国际时政"
     },
     {
@@ -435,6 +475,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 49979,
+      "num": 49979,
+      "word": "女子斯里兰卡睡杨过同款寒玉床",
+      "onboard_time": 1767655818,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48691,
+      "num": 114709,
+      "word": "统一军装审美的男人杀回来了",
+      "onboard_time": 1767618861,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 48161,
       "num": 114733,
       "word": "追现偶送民偶",
@@ -459,12 +515,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 41943,
-      "num": 114709,
-      "word": "统一军装审美的男人杀回来了",
-      "onboard_time": 1767618861,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 43746,
+      "num": 51037,
+      "word": "中方谴责美国侵犯委内瑞拉主权",
+      "onboard_time": 1767635057,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 41910,
+      "num": 46855,
+      "word": "小米严正澄清",
+      "onboard_time": 1767655818,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 41795,
@@ -481,14 +545,6 @@
       "onboard_time": 1767636976,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 37342,
-      "num": 51037,
-      "word": "中方谴责美国侵犯委内瑞拉主权",
-      "onboard_time": 1767635057,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 37044,
@@ -579,8 +635,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 6626,
-      "num": 454128,
+      "raw_hot": 6886,
+      "num": 552356,
       "word": "长江经济带交出发展十年亮丽答卷",
       "onboard_time": 1767604102,
       "rank": 2,
