@@ -1,0 +1,410 @@
+{
+  "runTime": 1767598604783,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 498292,
+        "num": 1079726,
+        "word": "央视曝光偷SIM卡套路",
+        "onboard_time": 1767593122,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417050,
+        "num": 776106,
+        "word": "哈尔滨零下20℃外国游客光腿穿短裤",
+        "onboard_time": 1767595701,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15857,
+        "num": 598917,
+        "word": "中国人过冬的仪式感",
+        "onboard_time": 1767578182,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351084,
+        "num": 351084,
+        "word": "女子怀孕每次产检发现多出一胎",
+        "onboard_time": 1767589044,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275048,
+        "num": 339761,
+        "word": "差三分考上北大研究生的含金量",
+        "onboard_time": 1767595402,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329021,
+        "num": 329021,
+        "word": "LABUBU不用抢了",
+        "onboard_time": 1767594501,
+        "rank": 5,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 270483,
+        "num": 270483,
+        "word": "冰箱贴一定要经常挪挪位置",
+        "onboard_time": 1767571581,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209158,
+        "num": 209158,
+        "word": "新生儿疑被助产士剪断手指",
+        "onboard_time": 1767596361,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 704108,
+        "num": 209112,
+        "word": "疑被助产士剪断手指男婴父亲发声",
+        "onboard_time": 1767595222,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173877,
+        "num": 208942,
+        "word": "哈尔滨零下20度外国游客穿短裤光腿",
+        "onboard_time": 1767598401,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 510407,
+        "num": 208864,
+        "word": "旭旭宝宝酷滕和解",
+        "onboard_time": 1767596841,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 421819,
+        "num": 208692,
+        "word": "英雄联盟 证书到期",
+        "onboard_time": 1767591144,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 232125,
+        "num": 208485,
+        "word": "英雄联盟",
+        "onboard_time": 1767588023,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208469,
+        "num": 208469,
+        "word": "曹骏真俊啊",
+        "onboard_time": 1767596423,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186919,
+        "num": 186919,
+        "word": "朱媛媛遗作即将播出",
+        "onboard_time": 1767594382,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178953,
+        "num": 178953,
+        "word": "鲁比奥或被选为委内瑞拉总督",
+        "onboard_time": 1767591622,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171014,
+        "num": 171014,
+        "word": "骄阳似我一部挂羊头卖羊肉的剧",
+        "onboard_time": 1767592222,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167856,
+        "num": 167856,
+        "word": "凶手听到量刑建议死立执才道歉",
+        "onboard_time": 1767587123,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165345,
+        "num": 165345,
+        "word": "委内瑞拉代总统致信美国及世界",
+        "onboard_time": 1767588441,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163249,
+        "num": 163249,
+        "word": "东北家里忘关水龙头变冰山",
+        "onboard_time": 1767591442,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 722801,
+        "num": 161570,
+        "word": "没认出这是赖冠霖",
+        "onboard_time": 1767595701,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418226,
+        "num": 161045,
+        "word": "霍启仁妻子公开婚礼现场照",
+        "onboard_time": 1767591922,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61163,
+        "num": 158883,
+        "word": "点单说螃蟹58一斤结账变58一只",
+        "onboard_time": 1767597260,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287366,
+        "num": 156492,
+        "word": "娜扎跳舞肩带断了",
+        "onboard_time": 1767588562,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252131,
+        "num": 154940,
+        "word": "内娱终于有剧躲过八集定律了",
+        "onboard_time": 1767593662,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154642,
+        "num": 154642,
+        "word": "赵丽颖哭戏",
+        "onboard_time": 1767595103,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166736,
+        "num": 151750,
+        "word": "黄金",
+        "onboard_time": 1767579621,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 147771,
+        "num": 147771,
+        "word": "山姆车厘子每斤狂降70元",
+        "onboard_time": 1767596781,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137466,
+        "num": 137466,
+        "word": "女生游黄山身亡家属称护栏存缺陷",
+        "onboard_time": 1767595161,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133149,
+        "num": 133149,
+        "word": "叙利亚",
+        "onboard_time": 1767589344,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 302278,
+        "num": 132195,
+        "word": "物业笑了半小时才决定救人",
+        "onboard_time": 1767596723,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130040,
+        "num": 130040,
+        "word": "关晓彤新造型是女儿是妈妈",
+        "onboard_time": 1767591503,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129701,
+        "num": 129701,
+        "word": "李在明分享中国行首日视频",
+        "onboard_time": 1767593722,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123463,
+        "num": 123463,
+        "word": "七七赵钰琪签约后第一条vlog",
+        "onboard_time": 1767598282,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111439,
+        "num": 111439,
+        "word": "内娱现偶婚纱照",
+        "onboard_time": 1767597861,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105917,
+        "num": 105917,
+        "word": "逍遥 超点",
+        "onboard_time": 1767597802,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103169,
+        "num": 103169,
+        "word": "王鹤棣说白鹿净看些没营养的",
+        "onboard_time": 1767594742,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100356,
+        "num": 100356,
+        "word": "黄晓明山东人演体制内太权威了",
+        "onboard_time": 1767598582,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81632,
+        "num": 99676,
+        "word": "2元人民币已绝版6年",
+        "onboard_time": 1767597562,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50887,
+        "num": 99383,
+        "word": "我国最大油气田传来好消息",
+        "onboard_time": 1767583942,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99252,
+        "num": 99252,
+        "word": "年轻人的差评表达方式",
+        "onboard_time": 1767596902,
+        "rank": 40,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 94669,
+        "num": 94669,
+        "word": "买东西 隐形家务",
+        "onboard_time": 1767597741,
+        "rank": 41,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 91061,
+        "num": 91061,
+        "word": "英雄联盟补偿我",
+        "onboard_time": 1767598102,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 91052,
+        "num": 91052,
+        "word": "特等功臣沈财富逝世",
+        "onboard_time": 1767596001,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89961,
+        "num": 89961,
+        "word": "老一辈的化妆品太权威了",
+        "onboard_time": 1767598222,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 86635,
+        "num": 86635,
+        "word": "网购假退货1万多次护肤品被判刑",
+        "onboard_time": 1767594802,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84383,
+        "num": 84383,
+        "word": "105捆2元人民币竞价已达42万元",
+        "onboard_time": 1767583461,
+        "rank": 46,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 83880,
+        "num": 83880,
+        "word": "1斤车厘子热量超1碗米饭",
+        "onboard_time": 1767592103,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 83153,
+        "num": 83153,
+        "word": "殷世航曝某三千万粉丝网红打人",
+        "onboard_time": 1767590661,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 80674,
+        "num": 80674,
+        "word": "小酒窝朵朵又合作了",
+        "onboard_time": 1767590184,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见爱尔兰总理马丁#"
+    }
+  }
+}

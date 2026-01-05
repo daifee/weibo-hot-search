@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767596648581,
+  "endTime": 1767598604783,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -491,11 +491,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 722801,
+      "num": 222815,
+      "word": "没认出这是赖冠霖",
+      "onboard_time": 1767595701,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 706424,
       "num": 819667,
       "word": "女子住店拉开窗帘竟是泳池水底",
       "onboard_time": 1767448767,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 704108,
+      "num": 341311,
+      "word": "疑被助产士剪断手指男婴父亲发声",
+      "onboard_time": 1767595222,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -939,6 +955,14 @@
       "category": "科学科普,幽默"
     },
     {
+      "raw_hot": 510407,
+      "num": 208864,
+      "word": "旭旭宝宝酷滕和解",
+      "onboard_time": 1767596841,
+      "rank": 10,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 509642,
       "num": 1005432,
       "word": "29岁渐冻症女孩重生感谢蔡磊",
@@ -985,6 +1009,14 @@
       "onboard_time": 1767520101,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 498292,
+      "num": 1079726,
+      "word": "央视曝光偷SIM卡套路",
+      "onboard_time": 1767593122,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 496892,
@@ -1339,14 +1371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 423706,
-      "num": 1067793,
-      "word": "央视曝光偷SIM卡套路",
-      "onboard_time": 1767593122,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 422087,
       "num": 1763311,
       "word": "委内瑞拉国家紧急状态",
@@ -1369,6 +1393,14 @@
       "onboard_time": 1767504263,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 417050,
+      "num": 776106,
+      "word": "哈尔滨零下20℃外国游客光腿穿短裤",
+      "onboard_time": 1767595701,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 416609,
@@ -1859,14 +1891,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 341311,
-      "num": 341311,
-      "word": "疑被助产士剪断手指男婴父亲发声",
-      "onboard_time": 1767595222,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 338349,
       "num": 251790,
       "word": "马杜罗押送途中对着镜头比出剪刀手",
@@ -1905,6 +1929,14 @@
       "onboard_time": 1767272301,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 329021,
+      "num": 329021,
+      "word": "LABUBU不用抢了",
+      "onboard_time": 1767594501,
+      "rank": 9,
+      "category": "休闲"
     },
     {
       "raw_hot": 328050,
@@ -2171,6 +2203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 302278,
+      "num": 132195,
+      "word": "物业笑了半小时才决定救人",
+      "onboard_time": 1767596723,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 300964,
       "num": 1006083,
       "word": "小猫生了一模一样的自己",
@@ -2331,14 +2371,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 281099,
-      "num": 281099,
-      "word": "LABUBU不用抢了",
-      "onboard_time": 1767594501,
-      "rank": 9,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 280983,
       "num": 794489,
       "word": "俄称美国将遭到全球大多数人的谴责",
@@ -2417,6 +2449,14 @@
       "onboard_time": 1767481878,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 275048,
+      "num": 339761,
+      "word": "差三分考上北大研究生的含金量",
+      "onboard_time": 1767595402,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 274854,
@@ -3059,14 +3099,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 222815,
-      "num": 222815,
-      "word": "没认出这是赖冠霖",
-      "onboard_time": 1767595701,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 222702,
       "num": 222702,
       "word": "易烊千玺起诉眼镜公司侵权",
@@ -3251,6 +3283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 209158,
+      "num": 209158,
+      "word": "新生儿疑被助产士剪断手指",
+      "onboard_time": 1767596361,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208969,
       "num": 1730508,
       "word": "车厘子J是啥意思",
@@ -3273,6 +3313,14 @@
       "onboard_time": 1767444506,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 208469,
+      "num": 208469,
+      "word": "曹骏真俊啊",
+      "onboard_time": 1767596423,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 208450,
@@ -4131,14 +4179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 178507,
-      "num": 178507,
-      "word": "差三分考上北大研究生的含金量",
-      "onboard_time": 1767595402,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 178442,
       "num": 1703345,
       "word": "美军结束对委内瑞拉轰炸",
@@ -4257,6 +4297,14 @@
       "onboard_time": 1767452786,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 173877,
+      "num": 208942,
+      "word": "哈尔滨零下20度外国游客穿短裤光腿",
+      "onboard_time": 1767598401,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173634,
@@ -5307,6 +5355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147771,
+      "num": 147771,
+      "word": "山姆车厘子每斤狂降70元",
+      "onboard_time": 1767596781,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147505,
       "num": 318415,
       "word": "i茅台每人每日最多可购12瓶",
@@ -5737,6 +5793,14 @@
       "onboard_time": 1767513742,
       "rank": 46,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 137466,
+      "num": 137466,
+      "word": "女生游黄山身亡家属称护栏存缺陷",
+      "onboard_time": 1767595161,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137417,
@@ -6433,6 +6497,14 @@
       "onboard_time": 1767522742,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123463,
+      "num": 123463,
+      "word": "七七赵钰琪签约后第一条vlog",
+      "onboard_time": 1767598282,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 123439,
@@ -7155,6 +7227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111439,
+      "num": 111439,
+      "word": "内娱现偶婚纱照",
+      "onboard_time": 1767597861,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110913,
       "num": 588306,
       "word": "短剧男主超级冠军硬核开唱",
@@ -7225,14 +7305,6 @@
       "onboard_time": 1767505283,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109630,
-      "num": 109630,
-      "word": "曹骏真俊啊",
-      "onboard_time": 1767596423,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 109586,
@@ -7433,6 +7505,14 @@
       "onboard_time": 1767590661,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 105917,
+      "num": 105917,
+      "word": "逍遥 超点",
+      "onboard_time": 1767597802,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 105879,
@@ -7819,6 +7899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100356,
+      "num": 100356,
+      "word": "黄晓明山东人演体制内太权威了",
+      "onboard_time": 1767598582,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 100220,
       "num": 134248,
       "word": "樊振东希望还能再打一次德国杯",
@@ -7889,6 +7977,14 @@
       "onboard_time": 1767418106,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 99252,
+      "num": 99252,
+      "word": "年轻人的差评表达方式",
+      "onboard_time": 1767596902,
+      "rank": 40,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 99173,
@@ -8251,6 +8347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 94669,
+      "num": 94669,
+      "word": "买东西 隐形家务",
+      "onboard_time": 1767597741,
+      "rank": 41,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 94363,
       "num": 94363,
       "word": "姐狗见多了姐猫还是第一次见",
@@ -8507,6 +8611,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 91061,
+      "num": 91061,
+      "word": "英雄联盟补偿我",
+      "onboard_time": 1767598102,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 91052,
+      "num": 281399,
+      "word": "特等功臣沈财富逝世",
+      "onboard_time": 1767596001,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90993,
       "num": 90993,
       "word": "王一博开工图",
@@ -8593,6 +8713,14 @@
       "onboard_time": 1767518362,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 89961,
+      "num": 89961,
+      "word": "老一辈的化妆品太权威了",
+      "onboard_time": 1767598222,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 89871,
@@ -8899,6 +9027,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 86635,
+      "num": 130347,
+      "word": "网购假退货1万多次护肤品被判刑",
+      "onboard_time": 1767594802,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86633,
       "num": 219390,
       "word": "国产剧把后背发凉拍出来了",
@@ -8931,14 +9067,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 86201,
-      "num": 222507,
-      "word": "哈尔滨零下20℃外国游客光腿穿短裤",
-      "onboard_time": 1767595701,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86060,
       "num": 410932,
       "word": "iPhone最浪漫的5个设置",
@@ -8961,14 +9089,6 @@
       "onboard_time": 1767324858,
       "rank": 31,
       "category": "美妆,休闲"
-    },
-    {
-      "raw_hot": 85627,
-      "num": 130347,
-      "word": "网购假退货1万多次护肤品被判刑",
-      "onboard_time": 1767594802,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 85594,
@@ -9241,6 +9361,14 @@
       "onboard_time": 1767580221,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 81632,
+      "num": 99676,
+      "word": "2元人民币已绝版6年",
+      "onboard_time": 1767597562,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81593,
@@ -10411,14 +10539,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 64627,
-      "num": 113092,
-      "word": "新生儿疑被助产士剪断手指",
-      "onboard_time": 1767596361,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64551,
       "num": 1092421,
       "word": "女子背包里藏金龙鱼被海关查获",
@@ -10659,14 +10779,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 62201,
-      "num": 126985,
-      "word": "女生游黄山身亡家属称护栏存缺陷",
-      "onboard_time": 1767595161,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62072,
       "num": 114415,
       "word": "林诗栋回复韩昊霖",
@@ -10744,6 +10856,14 @@
       "word": "2026国补新变化",
       "onboard_time": 1767508162,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61163,
+      "num": 158883,
+      "word": "点单说螃蟹58一斤结账变58一只",
+      "onboard_time": 1767597260,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -13107,14 +13227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21329,
-      "num": 281399,
-      "word": "特等功臣沈财富逝世",
-      "onboard_time": 1767596001,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 21274,
       "num": 120321,
       "word": "车厘子二三十元一斤成为主流",
@@ -13256,6 +13368,14 @@
       "word": "蔡磊说时间就是生命",
       "onboard_time": 1767277762,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15857,
+      "num": 598917,
+      "word": "中国人过冬的仪式感",
+      "onboard_time": 1767578182,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
