@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767579959989,
+  "endTime": 1767581108386,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -507,6 +507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 648821,
+      "num": 287964,
+      "word": "黄金",
+      "onboard_time": 1767579621,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 638474,
       "num": 857766,
       "word": "马杜罗及其夫人已在美国被起诉",
@@ -577,6 +585,14 @@
       "onboard_time": 1767402928,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 604867,
+      "num": 1096778,
+      "word": "小城大事定档",
+      "onboard_time": 1767578240,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 601729,
@@ -691,20 +707,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 552657,
-      "num": 1088425,
-      "word": "小城大事定档",
-      "onboard_time": 1767578240,
-      "rank": 0,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 550391,
       "num": 1028094,
       "word": "暖阳好强",
       "onboard_time": 1767347961,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 547779,
+      "num": 819141,
+      "word": "李在明夫人穿韩服出席晚宴",
+      "onboard_time": 1767579021,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 546661,
@@ -947,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 484474,
+      "num": 484474,
+      "word": "窈窈有期官宣",
+      "onboard_time": 1767578599,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 484404,
       "num": 394383,
       "word": "今天是委内瑞拉明天可能是任何国家",
@@ -1171,6 +1195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 434032,
+      "num": 234827,
+      "word": "高三男生被邻居驾车撞伤1年多身亡",
+      "onboard_time": 1767577100,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 431777,
       "num": 431777,
       "word": "网传周深白鹿下车敖瑞鹏翟子路补位",
@@ -1185,14 +1217,6 @@
       "onboard_time": 1767240862,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 427174,
-      "num": 427174,
-      "word": "窈窈有期官宣",
-      "onboard_time": 1767578599,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 426547,
@@ -1489,14 +1513,6 @@
       "onboard_time": 1767395418,
       "rank": 10,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 365395,
-      "num": 207761,
-      "word": "高三男生被邻居驾车撞伤1年多身亡",
-      "onboard_time": 1767577100,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 363403,
@@ -1939,12 +1955,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 303432,
+      "num": 286968,
+      "word": "委内瑞拉首都主干道空了",
+      "onboard_time": 1767577641,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 300964,
       "num": 1006083,
       "word": "小猫生了一模一样的自己",
       "onboard_time": 1767263060,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 300684,
+      "num": 268368,
+      "word": "太原一商场马年雕塑被连夜拆除",
+      "onboard_time": 1767578540,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 300600,
@@ -2131,6 +2163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279026,
+      "num": 279026,
+      "word": "春节连休9天高速免费",
+      "onboard_time": 1767578420,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 276902,
       "num": 465812,
       "word": "一人之下6",
@@ -2268,7 +2308,7 @@
     },
     {
       "raw_hot": 263748,
-      "num": 124784,
+      "num": 151816,
       "word": "黄金再度直线猛拉",
       "onboard_time": 1767575840,
       "rank": 20,
@@ -2361,46 +2401,6 @@
       "onboard_time": 1767354441,
       "rank": 40,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 255943,
-      "num": 255943,
-      "word": "中方呼吁立即释放马杜罗夫妇",
-      "onboard_time": 1767507024,
-      "rank": 14,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 255392,
-      "num": 497802,
-      "word": "樊振东vs奥恰洛夫",
-      "onboard_time": 1767537864,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 254851,
-      "num": 254851,
-      "word": "李莎旻子 口条",
-      "onboard_time": 1767525683,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 254798,
-      "num": 588650,
-      "word": "赵今麦穿了林屿森的衣服",
-      "onboard_time": 1767370399,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 253357,
-      "num": 425478,
-      "word": "委政府不知马杜罗及其夫人现在何处",
-      "onboard_time": 1767436287,
-      "rank": 32,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [

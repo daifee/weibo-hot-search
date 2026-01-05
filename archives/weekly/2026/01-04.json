@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767579959989,
+  "endTime": 1767581108386,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -259,6 +259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 648821,
+      "num": 287964,
+      "word": "黄金",
+      "onboard_time": 1767579621,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 633524,
       "num": 355471,
       "word": "王祖贤眼睛怎么了",
@@ -273,6 +281,14 @@
       "onboard_time": 1767489323,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 604867,
+      "num": 1096778,
+      "word": "小城大事定档",
+      "onboard_time": 1767578240,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 591379,
@@ -331,12 +347,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 552657,
-      "num": 1088425,
-      "word": "小城大事定档",
-      "onboard_time": 1767578240,
-      "rank": 0,
-      "category": "剧集"
+      "raw_hot": 547779,
+      "num": 819141,
+      "word": "李在明夫人穿韩服出席晚宴",
+      "onboard_time": 1767579021,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 543056,
@@ -449,6 +465,14 @@
       "onboard_time": 1767520462,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 484474,
+      "num": 484474,
+      "word": "窈窈有期官宣",
+      "onboard_time": 1767578599,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 484404,
@@ -571,20 +595,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 434032,
+      "num": 234827,
+      "word": "高三男生被邻居驾车撞伤1年多身亡",
+      "onboard_time": 1767577100,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 431777,
       "num": 431777,
       "word": "网传周深白鹿下车敖瑞鹏翟子路补位",
       "onboard_time": 1767506242,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 427174,
-      "num": 427174,
-      "word": "窈窈有期官宣",
-      "onboard_time": 1767578599,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 426880,
@@ -753,14 +777,6 @@
       "onboard_time": 1767499104,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 365395,
-      "num": 207761,
-      "word": "高三男生被邻居驾车撞伤1年多身亡",
-      "onboard_time": 1767577100,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 363403,
@@ -947,6 +963,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 303432,
+      "num": 286968,
+      "word": "委内瑞拉首都主干道空了",
+      "onboard_time": 1767577641,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 300684,
+      "num": 268368,
+      "word": "太原一商场马年雕塑被连夜拆除",
+      "onboard_time": 1767578540,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 299986,
       "num": 299986,
       "word": "聂曦光穿的是宋威龙的衣服",
@@ -1019,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279026,
+      "num": 279026,
+      "word": "春节连休9天高速免费",
+      "onboard_time": 1767578420,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 275658,
       "num": 199691,
       "word": "孩子妈曝童锦程想毁灭证据",
@@ -1068,7 +1108,7 @@
     },
     {
       "raw_hot": 263748,
-      "num": 124784,
+      "num": 151816,
       "word": "黄金再度直线猛拉",
       "onboard_time": 1767575840,
       "rank": 20,
@@ -1137,6 +1177,14 @@
       "onboard_time": 1767494541,
       "rank": 32,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 249499,
+      "num": 214906,
+      "word": "佘诗曼获奖大哭",
+      "onboard_time": 1767578420,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 249400,
@@ -1323,12 +1371,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221684,
+      "num": 154099,
+      "word": "长白山景区惊现价值百万冰封皇冠",
+      "onboard_time": 1767580340,
+      "rank": 20,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 220944,
       "num": 834412,
       "word": "适龄男性公民都应进行兵役登记",
       "onboard_time": 1767445765,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220432,
+      "num": 134225,
+      "word": "古巴宣布为32名古巴同志举行全国哀悼",
+      "onboard_time": 1767581060,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 218738,
@@ -1355,12 +1419,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209004,
-      "num": 209004,
-      "word": "春节连休9天高速免费",
-      "onboard_time": 1767578420,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 212151,
+      "num": 212151,
+      "word": "金饰价格涨到1376元",
+      "onboard_time": 1767578960,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 208911,
@@ -1500,7 +1564,7 @@
     },
     {
       "raw_hot": 196836,
-      "num": 124552,
+      "num": 149300,
       "word": "演员安圣基去世",
       "onboard_time": 1767576440,
       "rank": 21,
@@ -1515,28 +1579,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 195470,
-      "num": 195470,
-      "word": "委内瑞拉首都主干道空了",
-      "onboard_time": 1767577641,
-      "rank": 12,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 195399,
       "num": 195399,
       "word": "唐嫣你别演了我害怕",
       "onboard_time": 1767503303,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 195042,
-      "num": 195042,
-      "word": "李在明夫人穿韩服出席晚宴",
-      "onboard_time": 1767579021,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 194829,
@@ -1633,14 +1681,6 @@
       "onboard_time": 1767524902,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 183929,
-      "num": 183929,
-      "word": "太原一商场马年雕塑被连夜拆除",
-      "onboard_time": 1767578540,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 183870,
@@ -1931,14 +1971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161228,
-      "num": 161228,
-      "word": "黄金",
-      "onboard_time": 1767579621,
-      "rank": 17,
-      "category": "财经"
-    },
-    {
       "raw_hot": 160389,
       "num": 160389,
       "word": "轧戏",
@@ -1955,12 +1987,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158689,
+      "num": 147744,
+      "word": "原来腰疼是因为屁股肌肉弱",
+      "onboard_time": 1767578420,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 157997,
       "num": 157997,
       "word": "豆瓣好卡",
       "onboard_time": 1767504023,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 157784,
+      "num": 157784,
+      "word": "何与包上恩海报",
+      "onboard_time": 1767580400,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 156774,
@@ -2091,6 +2139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146169,
+      "num": 146169,
+      "word": "黑豹乐队创始人郭传林去世",
+      "onboard_time": 1767579919,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146052,
       "num": 146052,
       "word": "美国正从世界警察变成世界恶霸",
@@ -2180,7 +2236,7 @@
     },
     {
       "raw_hot": 140417,
-      "num": 103033,
+      "num": 134138,
       "word": "29岁女子呕吐水肿一查患上尿毒症",
       "onboard_time": 1767568157,
       "rank": 30,
@@ -2233,6 +2289,14 @@
       "onboard_time": 1767568098,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136462,
+      "num": 136462,
+      "word": "老鼠咬开包装偷吃面粉与人四目相对",
+      "onboard_time": 1767577580,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136092,
@@ -2289,14 +2353,6 @@
       "onboard_time": 1767490101,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 130503,
-      "num": 130503,
-      "word": "金饰价格涨到1376元",
-      "onboard_time": 1767578960,
-      "rank": 18,
-      "category": "财经"
     },
     {
       "raw_hot": 130381,
@@ -2420,7 +2476,7 @@
     },
     {
       "raw_hot": 124222,
-      "num": 124222,
+      "num": 134149,
       "word": "为啥有人吃车厘子拉肚子",
       "onboard_time": 1767576860,
       "rank": 22,
@@ -2464,14 +2520,6 @@
       "word": "一句看不懂让我连看十二集",
       "onboard_time": 1767522443,
       "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 122460,
-      "num": 122460,
-      "word": "佘诗曼获奖大哭",
-      "onboard_time": 1767578420,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -2635,6 +2683,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 111849,
+      "num": 134335,
+      "word": "赵今麦开年玄学",
+      "onboard_time": 1767579981,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111676,
       "num": 189879,
       "word": "孙俪邓超女儿小花近照",
@@ -2684,7 +2740,7 @@
     },
     {
       "raw_hot": 108848,
-      "num": 108848,
+      "num": 133889,
       "word": "车厘子贴着4J撕下标签印着2JD",
       "onboard_time": 1767569539,
       "rank": 34,
@@ -2729,14 +2785,6 @@
       "onboard_time": 1767519502,
       "rank": 40,
       "category": "网红"
-    },
-    {
-      "raw_hot": 106456,
-      "num": 106456,
-      "word": "原来腰疼是因为屁股肌肉弱",
-      "onboard_time": 1767578420,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 105837,
@@ -2804,7 +2852,7 @@
     },
     {
       "raw_hot": 103422,
-      "num": 103422,
+      "num": 133864,
       "word": "骄阳似我云合",
       "onboard_time": 1767571100,
       "rank": 27,
@@ -2817,14 +2865,6 @@
       "onboard_time": 1767529343,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 102346,
-      "num": 102346,
-      "word": "老鼠咬开包装偷吃面粉与人四目相对",
-      "onboard_time": 1767577580,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101381,
@@ -2907,6 +2947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 100220,
+      "num": 134248,
+      "word": "樊振东希望还能再打一次德国杯",
+      "onboard_time": 1767577521,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99737,
       "num": 99737,
       "word": "第一次看清楚眼妆怎么画",
@@ -2985,6 +3033,14 @@
       "onboard_time": 1767541102,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97782,
+      "num": 134201,
+      "word": "银河奖组委会否认邓紫棋小说入围",
+      "onboard_time": 1767580340,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 97424,
@@ -3131,8 +3187,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92773,
+      "num": 134075,
+      "word": "马年生肖邮票来了",
+      "onboard_time": 1767580880,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92742,
-      "num": 92742,
+      "num": 134051,
       "word": "男子查胆结石发现自己是镜面人",
       "onboard_time": 1767576199,
       "rank": 31,
@@ -3145,14 +3209,6 @@
       "onboard_time": 1767499284,
       "rank": 31,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 92708,
-      "num": 92708,
-      "word": "樊振东希望还能再打一次德国杯",
-      "onboard_time": 1767577521,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 91974,
@@ -3291,8 +3347,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 87206,
-      "num": 87206,
+      "raw_hot": 87497,
+      "num": 134018,
       "word": "宋威龙赵今麦给女儿星恒说的话",
       "onboard_time": 1767577700,
       "rank": 34,
@@ -3395,6 +3451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81693,
+      "num": 133834,
+      "word": "年度好剧品鉴中",
+      "onboard_time": 1767580221,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 81571,
       "num": 804616,
       "word": "小猫上半身基础下半身就不基础",
@@ -3459,6 +3523,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 77858,
+      "num": 133796,
+      "word": "委军方称已启动全面战备状态",
+      "onboard_time": 1767580100,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 77738,
+      "num": 133762,
+      "word": "丙午年特种邮票首发仪式",
+      "onboard_time": 1767580941,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77119,
       "num": 114632,
       "word": "为什么说在东北孩子走不丢",
@@ -3473,6 +3553,14 @@
       "onboard_time": 1767543142,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74991,
+      "num": 133954,
+      "word": "英法联合空袭叙利亚",
+      "onboard_time": 1767580880,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 73811,
@@ -3571,19 +3659,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 67022,
+      "num": 133624,
+      "word": "特朗普对委代理总统发出威胁",
+      "onboard_time": 1767576380,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 66828,
       "num": 780731,
       "word": "太平洋警察改行当绑匪了",
       "onboard_time": 1767451586,
       "rank": 38,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 66672,
-      "num": 79898,
-      "word": "特朗普对委代理总统发出威胁",
-      "onboard_time": 1767576380,
-      "rank": 45,
       "category": "国际时政"
     },
     {
@@ -3619,20 +3707,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 64942,
-      "num": 79882,
-      "word": "黑豹乐队创始人郭传林去世",
-      "onboard_time": 1767579919,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 64881,
       "num": 166817,
       "word": "委内瑞拉局势会影响金价吗",
       "onboard_time": 1767501024,
       "rank": 37,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 64519,
+      "num": 133978,
+      "word": "4A景区一雕像被指活埋汉武帝",
+      "onboard_time": 1767580641,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64117,
@@ -3657,6 +3745,14 @@
       "onboard_time": 1767569780,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 62453,
+      "num": 133582,
+      "word": "小城大事定档节奏",
+      "onboard_time": 1767580701,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 61694,
@@ -4244,7 +4340,7 @@
     },
     {
       "raw_hot": 23342,
-      "num": 624939,
+      "num": 642840,
       "word": "这组数据见证活力迸发的元旦假期",
       "onboard_time": 1767533844,
       "rank": 40,
