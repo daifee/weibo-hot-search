@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767638601507,
+  "endTime": 1767639390119,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -6571,6 +6571,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 41227,
+      "num": 34571,
+      "word": "谢谢骄阳似我剧粉",
+      "onboard_time": 1767636976,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 41099,
       "num": 240003,
       "word": "委内瑞拉遭美军空袭后现场图",
@@ -6731,14 +6739,6 @@
       "category": "互联网,汽车"
     },
     {
-      "raw_hot": 34571,
-      "num": 34571,
-      "word": "谢谢骄阳似我剧粉",
-      "onboard_time": 1767636976,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 34270,
       "num": 765811,
       "word": "心疼年锦",
@@ -6881,6 +6881,14 @@
       "onboard_time": 1767618681,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28528,
+      "num": 34241,
+      "word": "小英回应找男朋友",
+      "onboard_time": 1767637695,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 28243,
@@ -7091,14 +7099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20516,
-      "num": 34241,
-      "word": "小英回应找男朋友",
-      "onboard_time": 1767637695,
-      "rank": 36,
-      "category": "网红"
-    },
-    {
       "raw_hot": 20347,
       "num": 649846,
       "word": "贺词里的中国",
@@ -7145,6 +7145,14 @@
       "onboard_time": 1767466155,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 16918,
+      "num": 28484,
+      "word": "肖战东方卫视跨年名场面盘点来啦",
+      "onboard_time": 1767635595,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 16299,
