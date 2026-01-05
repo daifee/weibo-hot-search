@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767606990587,
+  "endTime": 1767609270541,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -497,6 +497,14 @@
       "onboard_time": 1767355581,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 734115,
+      "num": 1117458,
+      "word": "韩国四大财团掌门人在京集体亮相",
+      "onboard_time": 1767606682,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 731212,
@@ -1161,6 +1169,14 @@
       "onboard_time": 1767451766,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 479487,
+      "num": 479487,
+      "word": "骄阳似我连聊天记录都尊重观众",
+      "onboard_time": 1767606922,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 476728,
@@ -2027,6 +2043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327424,
+      "num": 209337,
+      "word": "外交部回应中国委内瑞拉石油合作",
+      "onboard_time": 1767605721,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 327097,
       "num": 269337,
       "word": "6国发表联合声明强烈谴责美国",
@@ -2377,30 +2401,6 @@
       "onboard_time": 1767482839,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 295526,
-      "num": 285496,
-      "word": "学生评教靠前老师评分却成倒数第一",
-      "onboard_time": 1767600142,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 294480,
-      "num": 970701,
-      "word": "白露的红夫人",
-      "onboard_time": 1767266780,
-      "rank": 11,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 293379,
-      "num": 525634,
-      "word": "我的cp只是分手了不是不爱了",
-      "onboard_time": 1767435326,
-      "rank": 25,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
