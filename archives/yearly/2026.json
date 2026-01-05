@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767586913565,
+  "endTime": 1767588149461,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -195,20 +195,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1072223,
+      "num": 275606,
+      "word": "拒签于正的素人七七公式照",
+      "onboard_time": 1767583461,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1049300,
       "num": 1774910,
       "word": "当年的老己在QQ给老自留了笔巨款",
       "onboard_time": 1767410309,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1033523,
-      "num": 275606,
-      "word": "拒签于正的素人七七公式照",
-      "onboard_time": 1767583461,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1029154,
@@ -523,6 +523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 650637,
+      "num": 204519,
+      "word": "小黄豆曝某男网红有口臭",
+      "onboard_time": 1767583880,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 649549,
       "num": 400714,
       "word": "相当于刘星判给了夏东海",
@@ -649,14 +657,6 @@
       "onboard_time": 1767531624,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 588238,
-      "num": 202066,
-      "word": "小黄豆曝某男网红有口臭",
-      "onboard_time": 1767583880,
-      "rank": 22,
-      "category": "网红"
     },
     {
       "raw_hot": 584264,
@@ -843,12 +843,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 519731,
+      "num": 251632,
+      "word": "七七第一部戏",
+      "onboard_time": 1767586042,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 518643,
       "num": 675435,
       "word": "TVB颁奖典礼",
       "onboard_time": 1767530542,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 518039,
+      "num": 325624,
+      "word": "金巧巧风格大变",
+      "onboard_time": 1767585862,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 517469,
@@ -1419,6 +1435,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 381335,
+      "num": 259031,
+      "word": "因为父母职业吃到的红利",
+      "onboard_time": 1767585502,
+      "rank": 13,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 380634,
       "num": 241691,
       "word": "意大利政府称美国是正当防御",
@@ -1545,6 +1569,14 @@
       "onboard_time": 1767499104,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 366972,
+      "num": 263172,
+      "word": "真正不需要梦女的男明星",
+      "onboard_time": 1767585381,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 365715,
@@ -1691,6 +1723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 351190,
+      "num": 351190,
+      "word": "流落柬埔寨女网红父亲最新发声",
+      "onboard_time": 1767583821,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 348710,
       "num": 542164,
       "word": "刘亦菲李现去有风的地方开播三周年",
@@ -1707,16 +1747,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 345332,
-      "num": 263172,
-      "word": "真正不需要梦女的男明星",
-      "onboard_time": 1767585381,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 342634,
-      "num": 342634,
+      "raw_hot": 343614,
+      "num": 343614,
       "word": "你是林更新那他是谁",
       "onboard_time": 1767584781,
       "rank": 4,
@@ -1779,6 +1811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 332870,
+      "num": 225460,
+      "word": "建议所有外卖包装都按这个强度来",
+      "onboard_time": 1767586644,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 328050,
       "num": 253515,
       "word": "曝TOP登陆少年重组",
@@ -1793,14 +1833,6 @@
       "onboard_time": 1767481939,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 325624,
-      "num": 325624,
-      "word": "金巧巧风格大变",
-      "onboard_time": 1767585862,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 324453,
@@ -1833,6 +1865,14 @@
       "onboard_time": 1767506723,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320424,
+      "num": 320424,
+      "word": "委内瑞拉首都主干道空了",
+      "onboard_time": 1767577641,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 319723,
@@ -2035,22 +2075,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 303432,
-      "num": 286968,
-      "word": "委内瑞拉首都主干道空了",
-      "onboard_time": 1767577641,
-      "rank": 12,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 301960,
-      "num": 259031,
-      "word": "因为父母职业吃到的红利",
-      "onboard_time": 1767585502,
-      "rank": 13,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 300964,
       "num": 1006083,
       "word": "小猫生了一模一样的自己",
@@ -2177,14 +2201,6 @@
       "onboard_time": 1767520822,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 286537,
-      "num": 286537,
-      "word": "流落柬埔寨女网红父亲最新发声",
-      "onboard_time": 1767583821,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 285474,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767197907,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 264939,
-      "num": 255353,
-      "word": "鹅鸭杀官宣主理人大司马",
-      "onboard_time": 1767326299,
-      "rank": 12,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 264442,
-      "num": 822960,
-      "word": "雷军公开小米汽车年交付量",
-      "onboard_time": 1767447266,
-      "rank": 47,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [
