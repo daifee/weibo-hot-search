@@ -1,0 +1,410 @@
+{
+  "runTime": 1767732383514,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 53747,
+        "num": 53747,
+        "word": "车厘子暴跌第一批受害者出现",
+        "onboard_time": 1767702143,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44114,
+        "num": 44114,
+        "word": "英法德意等欧洲七国领导人联合声明",
+        "onboard_time": 1767711323,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 9498,
+        "num": 43776,
+        "word": "家电以旧换新1.92亿台",
+        "onboard_time": 1767708022,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50723,
+        "num": 43757,
+        "word": "特朗普支持格陵兰岛独立",
+        "onboard_time": 1767724275,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 43715,
+        "num": 43715,
+        "word": "委内瑞拉临时总统",
+        "onboard_time": 1767724815,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39369,
+        "num": 39369,
+        "word": "多地取消高一高二年期末统考",
+        "onboard_time": 1767711504,
+        "rank": 5,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 30673,
+        "num": 30673,
+        "word": "1盒内存条堪比上海1套房",
+        "onboard_time": 1767702321,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24292,
+        "num": 24292,
+        "word": "男子自带3瓶茅台全被服务员调包",
+        "onboard_time": 1767700341,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22828,
+        "num": 22828,
+        "word": "印度最干净城市遭粪水污染",
+        "onboard_time": 1767708862,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 20640,
+        "num": 22491,
+        "word": "多地裁判文书隐去法官姓名和案号",
+        "onboard_time": 1767704541,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65910,
+        "num": 22455,
+        "word": "日本年轻人聚众晒梅毒",
+        "onboard_time": 1767686601,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22160,
+        "num": 22160,
+        "word": "骄阳似我大结局",
+        "onboard_time": 1767694461,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19473,
+        "num": 22134,
+        "word": "上海下雪",
+        "onboard_time": 1767700522,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20373,
+        "num": 21995,
+        "word": "林屿森聂曦光完全动情了发狠了",
+        "onboard_time": 1767714741,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18551,
+        "num": 21919,
+        "word": "周深香港演唱会",
+        "onboard_time": 1767714321,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17505,
+        "num": 21864,
+        "word": "骄阳似我",
+        "onboard_time": 1767694461,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16290,
+        "num": 21769,
+        "word": "民航局动真格整治过低机票价",
+        "onboard_time": 1767706884,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15986,
+        "num": 21694,
+        "word": "除冰机器人在线吃冰",
+        "onboard_time": 1767717318,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14782,
+        "num": 21606,
+        "word": "2025女演员扛剧花",
+        "onboard_time": 1767714981,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13826,
+        "num": 21541,
+        "word": "部分城市试管婴儿越做越火",
+        "onboard_time": 1767706942,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38175,
+        "num": 21422,
+        "word": "日本梅毒",
+        "onboard_time": 1767690320,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33489,
+        "num": 21387,
+        "word": "2025年度最扑剧集",
+        "onboard_time": 1767704303,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31408,
+        "num": 21280,
+        "word": "关晓彤21年只拍了一部戏",
+        "onboard_time": 1767703942,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21238,
+        "num": 21238,
+        "word": "日本流行梅毒妆",
+        "onboard_time": 1767702023,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 17058,
+        "num": 21229,
+        "word": "微博网友年度喜爱综艺",
+        "onboard_time": 1767714441,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16932,
+        "num": 21225,
+        "word": "很小众的过敏源",
+        "onboard_time": 1767711383,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16282,
+        "num": 21217,
+        "word": "李霄云余额1块6付不起停车费",
+        "onboard_time": 1767703642,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16020,
+        "num": 21203,
+        "word": "男子偷500张刮刮乐隔一会刮一张",
+        "onboard_time": 1767696980,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15453,
+        "num": 21202,
+        "word": "Fly转会 王俊凯加盟EXO",
+        "onboard_time": 1767706821,
+        "rank": 28,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 14705,
+        "num": 21184,
+        "word": "武大靖官宣退役",
+        "onboard_time": 1767701602,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13801,
+        "num": 21181,
+        "word": "iPhone没有一个按键是多余的",
+        "onboard_time": 1767705142,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 13453,
+        "num": 21174,
+        "word": "高校通报网传2研究生被迫退学",
+        "onboard_time": 1767715520,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 13622,
+        "num": 21166,
+        "word": "网友触摸疑似布病流产羊羔",
+        "onboard_time": 1767696742,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13420,
+        "num": 21157,
+        "word": "字节跳动实习生涨薪最高日薪500元",
+        "onboard_time": 1767701301,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 13307,
+        "num": 21141,
+        "word": "赵今麦夸宋威龙富有且慷慨",
+        "onboard_time": 1767730213,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 13224,
+        "num": 21139,
+        "word": "张籽沐05花买股",
+        "onboard_time": 1767715701,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13194,
+        "num": 21121,
+        "word": "成毅长安二十四计cvb史冠",
+        "onboard_time": 1767716119,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13109,
+        "num": 21118,
+        "word": "中方正研究收紧对日稀土出口许可审查",
+        "onboard_time": 1767712883,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 12929,
+        "num": 21107,
+        "word": "喜欢喝咖啡的建议反复观看",
+        "onboard_time": 1767704003,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 12741,
+        "num": 21101,
+        "word": "台战机失事飞行员跳伞搜救中",
+        "onboard_time": 1767709283,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12673,
+        "num": 21094,
+        "word": "asen sakee",
+        "onboard_time": 1767705383,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12250,
+        "num": 21082,
+        "word": "林屿森把女儿送回去",
+        "onboard_time": 1767717619,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12147,
+        "num": 21068,
+        "word": "禁止所有两用物项对日本军事用途出口",
+        "onboard_time": 1767687623,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 12048,
+        "num": 21063,
+        "word": "玉茗茶骨去父留女",
+        "onboard_time": 1767710245,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11996,
+        "num": 21053,
+        "word": "一个执行力非常恐怖的人",
+        "onboard_time": 1767711383,
+        "rank": 44,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 11868,
+        "num": 21046,
+        "word": "宋威龙壁纸",
+        "onboard_time": 1767712583,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10570,
+        "num": 21039,
+        "word": "刘宇宁直播",
+        "onboard_time": 1767702081,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10551,
+        "num": 21026,
+        "word": "肖战秘密花园 隔时空对话",
+        "onboard_time": 1767703101,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10303,
+        "num": 21019,
+        "word": "刘耀文录制第一天就开始期待骑马",
+        "onboard_time": 1767727814,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9851,
+        "num": 21011,
+        "word": "骄阳似我这个吻亲得好响",
+        "onboard_time": 1767711623,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中韩应当坚定站在历史正确一边#"
+    }
+  }
+}
