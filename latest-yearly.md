@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/06 13:49:16
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/06 14:45:07
 </p>
 </blockquote>
 <p>
@@ -305,6 +305,12 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%9A%E5%85%AC%E4%B8%BB%23" target="weibo">
 尚公主（热度：898363）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E8%BE%9E%E9%80%80%E6%B6%89%E4%BA%8B%E5%BA%97%E5%91%98%23" target="weibo">
+霸王茶姬辞退涉事店员（热度：885363）
 </a>
 </li>
 
@@ -1203,6 +1209,12 @@ iPhone千万别删的自带软件（热度：474519）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%9C%A8%E5%BE%B7%E9%81%AD%E8%A2%AD%E5%8F%8D%E5%87%BB%E8%87%B4%E5%AF%B9%E6%96%B9%E9%AA%A8%E6%8A%98%23" target="weibo">
+中国留学生在德遭袭反击致对方骨折（热度：455589）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%23" target="weibo">
 东方卫视跨年（热度：455514）
 </a>
@@ -1241,6 +1253,12 @@ iPhone千万别删的自带软件（热度：474519）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B3%8C%E5%A4%AA%E7%BA%BF%23" target="weibo">
 鳌太线（热度：449226）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%A1%97%E5%A4%B4%E5%A5%B3%E5%AD%90%E6%AF%92%E5%93%81%E6%A3%80%E6%B5%8B%E5%91%88%E9%98%B3%E6%80%A7%23" target="weibo">
+流落柬埔寨街头女子毒品检测呈阳性（热度：448313）
 </a>
 </li>
 
@@ -1373,6 +1391,12 @@ iPhone千万别删的自带软件（热度：474519）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E9%93%81%E5%90%AB%E9%87%8F%E8%B6%85%E6%9F%91%E6%A9%9810%E5%80%8D%23" target="weibo">
 车厘子铁含量超柑橘10倍（热度：411474）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E7%A7%B0%E6%B0%B8%E4%B8%8D%E4%B8%8E%E5%A4%A7%E7%86%8A%E5%90%88%E4%BD%9C%23" target="weibo">
+小米称永不与大熊合作（热度：411269）
 </a>
 </li>
 
@@ -1547,12 +1571,6 @@ loveissoap说童锦程配不上她（热度：394705）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E6%89%BF%E8%AF%BA%E6%AF%8F%E4%BA%BA%E5%A5%96%E4%B8%80%E5%8F%B0%E8%BD%A6%E4%B8%8D%E8%AF%A5%E8%A2%AB%E7%BB%91%E6%9E%B6%23" target="weibo">
 老板承诺每人奖一台车不该被绑架（热度：377712）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%A1%97%E5%A4%B4%E5%A5%B3%E5%AD%90%E6%AF%92%E5%93%81%E6%A3%80%E6%B5%8B%E5%91%88%E9%98%B3%E6%80%A7%23" target="weibo">
-流落柬埔寨街头女子毒品检测呈阳性（热度：376865）
 </a>
 </li>
 
@@ -1773,12 +1791,6 @@ WB对战RW（热度：355689）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%9C%A8%E5%BE%B7%E9%81%AD%E8%A2%AD%E5%8F%8D%E5%87%BB%E8%87%B4%E5%AF%B9%E6%96%B9%E9%AA%A8%E6%8A%98%23" target="weibo">
-中国留学生在德遭袭反击致对方骨折（热度：348324）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%89%80%E6%9C%89%E5%A4%96%E5%8D%96%E5%8C%85%E8%A3%85%E9%83%BD%E6%8C%89%E8%BF%99%E4%B8%AA%E5%BC%BA%E5%BA%A6%E6%9D%A5%23" target="weibo">
 建议所有外卖包装都按这个强度来（热度：348089）
 </a>
@@ -1799,18 +1811,6 @@ WB对战RW（热度：355689）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%98%AF%E6%9E%97%E6%9B%B4%E6%96%B0%E9%82%A3%E4%BB%96%E6%98%AF%E8%B0%81%23" target="weibo">
 你是林更新那他是谁（热度：343614）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E4%BD%8F%E9%99%A2%E7%BC%BA%E5%B8%AD%E5%84%BF%E5%AD%90%E5%A9%9A%E7%A4%BC%E5%90%8E%E7%97%85%E6%88%BF%E6%94%B9%E6%96%B0%E6%88%BF%23" target="weibo">
-妈妈住院缺席儿子婚礼后病房改新房（热度：341874）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%90%83%E8%94%A1%E7%A3%8A%E7%A0%94%E5%8F%91%E8%8D%AF%E6%B8%90%E5%86%BB%E7%97%87%E6%B2%A1%E5%86%8D%E5%8F%91%E5%B1%95%23" target="weibo">
-女孩吃蔡磊研发药渐冻症没再发展（热度：341647）
 </a>
 </li>
 

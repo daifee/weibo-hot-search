@@ -1,6 +1,6 @@
 {
   "startTime": 1767631011864,
-  "endTime": 1767678556609,
+  "endTime": 1767681907433,
   "band_list": [
     {
       "raw_hot": 2133729,
@@ -65,6 +65,14 @@
       "onboard_time": 1767663201,
       "rank": 0,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 885363,
+      "num": 592323,
+      "word": "霸王茶姬辞退涉事店员",
+      "onboard_time": 1767677361,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 866623,
@@ -195,11 +203,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 455589,
+      "num": 455589,
+      "word": "中国留学生在德遭袭反击致对方骨折",
+      "onboard_time": 1767676461,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 449226,
       "num": 449226,
       "word": "鳌太线",
       "onboard_time": 1767669201,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 448313,
+      "num": 395938,
+      "word": "流落柬埔寨街头女子毒品检测呈阳性",
+      "onboard_time": 1767675741,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -217,6 +241,14 @@
       "onboard_time": 1767666501,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 411269,
+      "num": 411269,
+      "word": "小米称永不与大熊合作",
+      "onboard_time": 1767681802,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 411025,
@@ -259,14 +291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 376865,
-      "num": 395938,
-      "word": "流落柬埔寨街头女子毒品检测呈阳性",
-      "onboard_time": 1767675741,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 371171,
       "num": 199395,
       "word": "男孩烫伤休克死亡餐馆称感冒致死",
@@ -283,14 +307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 348324,
-      "num": 348324,
-      "word": "中国留学生在德遭袭反击致对方骨折",
-      "onboard_time": 1767676461,
-      "rank": 16,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 346918,
       "num": 183043,
       "word": "四大顶级扛剧花",
@@ -305,6 +321,14 @@
       "onboard_time": 1767661640,
       "rank": 7,
       "category": "数码"
+    },
+    {
+      "raw_hot": 327647,
+      "num": 140320,
+      "word": "女子以油养肤导致面部疯狂掉皮",
+      "onboard_time": 1767679040,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 321572,
@@ -368,6 +392,14 @@
       "word": "张凌赫跨年表演在外网爆火",
       "onboard_time": 1767621802,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 266736,
+      "num": 139722,
+      "word": "白鹿宋威龙早期旧照",
+      "onboard_time": 1767678501,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -457,14 +489,6 @@
       "onboard_time": 1767671781,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209963,
-      "num": 209963,
-      "word": "霸王茶姬辞退涉事店员",
-      "onboard_time": 1767677361,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 207228,
@@ -683,6 +707,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 152824,
+      "num": 152824,
+      "word": "快乐老友记",
+      "onboard_time": 1767680241,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152325,
       "num": 192378,
       "word": "委内瑞拉首都加拉加斯传出枪声",
@@ -739,6 +771,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 143426,
+      "num": 143426,
+      "word": "逍遥 oe",
+      "onboard_time": 1767680423,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 143331,
+      "num": 143331,
+      "word": "美媒曝大批美军机突然飞往欧洲",
+      "onboard_time": 1767680901,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 142907,
       "num": 142907,
       "word": "彭昱畅的权威我后知后觉",
@@ -771,6 +819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138984,
+      "num": 138984,
+      "word": "每天喝燕麦片后身体的变化",
+      "onboard_time": 1767676521,
+      "rank": 38,
+      "category": "幽默,健康医疗"
+    },
+    {
       "raw_hot": 137872,
       "num": 498153,
       "word": "林葳NCAA绝平三分",
@@ -779,19 +835,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136230,
+      "num": 140644,
+      "word": "骄阳似我大结局预告",
+      "onboard_time": 1767677960,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135995,
       "num": 135995,
       "word": "玉茗茶骨男主上位后挑衅全世界",
       "onboard_time": 1767677480,
       "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 135415,
-      "num": 135415,
-      "word": "骄阳似我大结局预告",
-      "onboard_time": 1767677960,
-      "rank": 18,
       "category": "剧集"
     },
     {
@@ -811,12 +867,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131053,
-      "num": 133382,
-      "word": "每天喝燕麦片后身体的变化",
-      "onboard_time": 1767676521,
-      "rank": 38,
-      "category": "幽默,健康医疗"
+      "raw_hot": 129958,
+      "num": 129958,
+      "word": "迪丽热巴红秀周年刊预告",
+      "onboard_time": 1767678861,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 129846,
@@ -899,6 +955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126066,
+      "num": 138410,
+      "word": "多家茶饮品牌涉手打奶茶视频",
+      "onboard_time": 1767680481,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124942,
       "num": 124942,
       "word": "小城大事能爆吗",
@@ -931,6 +995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 123594,
+      "num": 123594,
+      "word": "亲测有效的年前变美技巧",
+      "onboard_time": 1767679639,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 123587,
       "num": 123587,
       "word": "宋威龙的身材",
@@ -953,6 +1025,14 @@
       "onboard_time": 1767666023,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122667,
+      "num": 135603,
+      "word": "丁程鑫化妆技术战绩可查",
+      "onboard_time": 1767681021,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 121513,
@@ -985,6 +1065,14 @@
       "onboard_time": 1767677300,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 119679,
+      "num": 119679,
+      "word": "别让赵今麦跳这些",
+      "onboard_time": 1767680600,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 119085,
@@ -1091,6 +1179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105805,
+      "num": 105805,
+      "word": "为什么有些人的脑子反应快",
+      "onboard_time": 1767680540,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 105112,
       "num": 105112,
       "word": "叶容对庄序翻了个白眼",
@@ -1147,14 +1243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96694,
-      "num": 96694,
-      "word": "白鹿宋威龙早期旧照",
-      "onboard_time": 1767678501,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 96252,
       "num": 70873,
       "word": "为保护马杜罗古巴警卫激烈抵抗",
@@ -1195,6 +1283,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94130,
+      "num": 94130,
+      "word": "逍遥 循环",
+      "onboard_time": 1767681441,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 92244,
+      "num": 92244,
+      "word": "瑞幸回应店员徒手捏冰块搅拌饮品",
+      "onboard_time": 1767679880,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91620,
       "num": 91620,
       "word": "杨瀚森上来就得分",
@@ -1225,6 +1329,14 @@
       "onboard_time": 1767616343,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 88175,
+      "num": 88175,
+      "word": "美术生包的饺子",
+      "onboard_time": 1767680600,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 88052,
@@ -1475,6 +1587,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 52619,
+      "num": 88758,
+      "word": "茶饮圈跟风玩梗印度奶茶引争议",
+      "onboard_time": 1767679880,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51507,
+      "num": 93887,
+      "word": "医院收费员玩手机多人排队待缴费",
+      "onboard_time": 1767681860,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49979,
       "num": 49979,
       "word": "女子斯里兰卡睡杨过同款寒玉床",
@@ -1513,6 +1641,14 @@
       "onboard_time": 1767654558,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 46304,
+      "num": 107326,
+      "word": "高市早苗称愿与中国保持开放对话",
+      "onboard_time": 1767681802,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 45089,
@@ -1784,6 +1920,14 @@
       "word": "这组数据描绘长江经济带新模样",
       "onboard_time": 1767672322,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9337,
+      "num": 98212,
+      "word": "女子买房离婚数年发现被亡夫转给他人",
+      "onboard_time": 1767681501,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

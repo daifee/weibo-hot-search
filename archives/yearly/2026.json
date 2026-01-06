@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767678556609,
+  "endTime": 1767681907433,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -393,6 +393,14 @@
       "onboard_time": 1767238040,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 885363,
+      "num": 592323,
+      "word": "霸王茶姬辞退涉事店员",
+      "onboard_time": 1767677361,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 874177,
@@ -1587,6 +1595,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 455589,
+      "num": 455589,
+      "word": "中国留学生在德遭袭反击致对方骨折",
+      "onboard_time": 1767676461,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 455514,
       "num": 1401502,
       "word": "东方卫视跨年",
@@ -1640,6 +1656,14 @@
       "word": "鳌太线",
       "onboard_time": 1767669201,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 448313,
+      "num": 395938,
+      "word": "流落柬埔寨街头女子毒品检测呈阳性",
+      "onboard_time": 1767675741,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -1817,6 +1841,14 @@
       "onboard_time": 1767573563,
       "rank": 4,
       "category": "美食"
+    },
+    {
+      "raw_hot": 411269,
+      "num": 411269,
+      "word": "小米称永不与大熊合作",
+      "onboard_time": 1767681802,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 411025,
@@ -2048,14 +2080,6 @@
       "word": "老板承诺每人奖一台车不该被绑架",
       "onboard_time": 1767431664,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 376865,
-      "num": 395938,
-      "word": "流落柬埔寨街头女子毒品检测呈阳性",
-      "onboard_time": 1767675741,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -2347,14 +2371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 348324,
-      "num": 348324,
-      "word": "中国留学生在德遭袭反击致对方骨折",
-      "onboard_time": 1767676461,
-      "rank": 16,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 348089,
       "num": 240680,
       "word": "建议所有外卖包装都按这个强度来",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767584781,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 341874,
-      "num": 554801,
-      "word": "妈妈住院缺席儿子婚礼后病房改新房",
-      "onboard_time": 1767342498,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 341647,
-      "num": 1005268,
-      "word": "女孩吃蔡磊研发药渐冻症没再发展",
-      "onboard_time": 1767260899,
-      "rank": 16,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
