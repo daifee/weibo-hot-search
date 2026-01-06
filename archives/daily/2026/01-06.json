@@ -1,6 +1,6 @@
 {
   "startTime": 1767631011864,
-  "endTime": 1767684837795,
+  "endTime": 1767685637121,
   "band_list": [
     {
       "raw_hot": 2133729,
@@ -43,7 +43,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1040063,
+      "raw_hot": 1070936,
       "num": 496434,
       "word": "李在镕在北京买了100个labubu",
       "onboard_time": 1767683180,
@@ -115,8 +115,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 666835,
-      "num": 132806,
+      "raw_hot": 713839,
+      "num": 198273,
+      "word": "闪灵确认引进",
+      "onboard_time": 1767683541,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 688550,
+      "num": 159762,
       "word": "易梦玲送阿哲5100黄金",
       "onboard_time": 1767682579,
       "rank": 29,
@@ -275,16 +283,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 431423,
-      "num": 179188,
-      "word": "闪灵确认引进",
-      "onboard_time": 1767683541,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
       "raw_hot": 430634,
-      "num": 139722,
+      "num": 158738,
       "word": "白鹿宋威龙早期旧照",
       "onboard_time": 1767678501,
       "rank": 46,
@@ -315,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 401777,
+      "num": 1064284,
+      "word": "南京下雪",
+      "onboard_time": 1767683300,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 399540,
       "num": 281140,
       "word": "赵丽颖语文课本封面具象化",
@@ -337,6 +345,14 @@
       "onboard_time": 1767672022,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 381960,
+      "num": 381960,
+      "word": "瑞幸回应店员徒手捏冰块搅拌饮品",
+      "onboard_time": 1767679880,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 371171,
@@ -435,14 +451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 270510,
-      "num": 1043281,
-      "word": "南京下雪",
-      "onboard_time": 1767683300,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 263388,
       "num": 263388,
       "word": "沈腾确认回归春晚语言类节目",
@@ -481,14 +489,6 @@
       "onboard_time": 1767676881,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 245129,
-      "num": 245129,
-      "word": "瑞幸回应店员徒手捏冰块搅拌饮品",
-      "onboard_time": 1767679880,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 231593,
@@ -539,6 +539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 213664,
+      "num": 213664,
+      "word": "王者荣耀",
+      "onboard_time": 1767684801,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 213631,
       "num": 538920,
       "word": "杜兰特绝杀太阳",
@@ -563,12 +571,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201165,
+      "num": 201165,
+      "word": "A股",
+      "onboard_time": 1767684320,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 197130,
       "num": 114877,
       "word": "实在不行过年让孩子穿校服吧",
       "onboard_time": 1767621563,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195435,
+      "num": 195435,
+      "word": "徐长卿紫萱进行曲被汪苏泷唱了",
+      "onboard_time": 1767683241,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 193346,
@@ -593,6 +617,14 @@
       "onboard_time": 1767673762,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189568,
+      "num": 189568,
+      "word": "闪灵",
+      "onboard_time": 1767684801,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 187071,
@@ -739,20 +771,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 161143,
+      "num": 161143,
+      "word": "身无分文男子到彩票店刮800元彩票",
+      "onboard_time": 1767684441,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160946,
       "num": 114952,
       "word": "秦霄贤直播",
       "onboard_time": 1767620302,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160795,
-      "num": 131638,
-      "word": "A股",
-      "onboard_time": 1767684320,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 159691,
@@ -769,6 +801,14 @@
       "onboard_time": 1767668299,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 152829,
+      "num": 152829,
+      "word": "一代人有一代人的冬季出门难题",
+      "onboard_time": 1767685102,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 152824,
@@ -812,7 +852,7 @@
     },
     {
       "raw_hot": 147205,
-      "num": 131315,
+      "num": 146504,
       "word": "齐溪大女儿4岁身高",
       "onboard_time": 1767683059,
       "rank": 27,
@@ -891,6 +931,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 140616,
+      "num": 140616,
+      "word": "明星们基因彩票的杀伤力",
+      "onboard_time": 1767684919,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139448,
       "num": 139448,
       "word": "真的建议年轻人多看辩论赛",
@@ -899,20 +947,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 138779,
-      "num": 138779,
-      "word": "徐长卿紫萱进行曲被汪苏泷唱了",
-      "onboard_time": 1767683241,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 138493,
-      "num": 138493,
-      "word": "闪灵",
-      "onboard_time": 1767684801,
-      "rank": 17,
-      "category": "电影"
+      "raw_hot": 138780,
+      "num": 138780,
+      "word": "颖儿做眼部热玛吉疼哭了",
+      "onboard_time": 1767684861,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 137872,
@@ -955,8 +995,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131084,
+      "num": 131084,
+      "word": "A股行情",
+      "onboard_time": 1767685341,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 130978,
-      "num": 130978,
+      "num": 139011,
       "word": "2025年十大语文差错公布",
       "onboard_time": 1767682701,
       "rank": 47,
@@ -1035,14 +1083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126861,
-      "num": 126861,
-      "word": "身无分文男子到彩票店刮800元彩票",
-      "onboard_time": 1767684441,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126629,
       "num": 126629,
       "word": "印度奶茶梗",
@@ -1059,12 +1099,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125178,
+      "num": 125178,
+      "word": "厦门一5岁男童小区内遇害",
+      "onboard_time": 1767685459,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125012,
+      "num": 125012,
+      "word": "正确称体重vs错误称体重",
+      "onboard_time": 1767685102,
+      "rank": 36,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 124942,
       "num": 124942,
       "word": "小城大事能爆吗",
       "onboard_time": 1767675921,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124942,
+      "num": 124942,
+      "word": "其实你已经嫁给公司了",
+      "onboard_time": 1767683059,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 124631,
@@ -1260,7 +1324,7 @@
     },
     {
       "raw_hot": 110620,
-      "num": 110620,
+      "num": 115879,
       "word": "内娱现偶带着格局杀回来了",
       "onboard_time": 1767684261,
       "rank": 38,
@@ -1403,6 +1467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97066,
+      "num": 97066,
+      "word": "华晨宇眼里全国五强的实力",
+      "onboard_time": 1767684742,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96903,
       "num": 114829,
       "word": "产后55天遭丈夫家暴女子发声",
@@ -1425,14 +1497,6 @@
       "onboard_time": 1767663561,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 95551,
-      "num": 95551,
-      "word": "王者荣耀",
-      "onboard_time": 1767684801,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 95539,
@@ -1787,6 +1851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53377,
+      "num": 160354,
+      "word": "官方通报扬尘影响商户情况",
+      "onboard_time": 1767685041,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 53026,
       "num": 114738,
       "word": "美国惦记格陵兰岛却甩锅中国",
@@ -2003,6 +2075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32509,
+      "num": 116124,
+      "word": "男子杀情人一家四口被执行死刑",
+      "onboard_time": 1767685341,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31820,
       "num": 119707,
       "word": "工地被指强制工人在食堂用餐",
@@ -2025,6 +2105,14 @@
       "onboard_time": 1767666081,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 29908,
+      "num": 115908,
+      "word": "兰州瓜农刺死城管案一审判决",
+      "onboard_time": 1767685041,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28477,

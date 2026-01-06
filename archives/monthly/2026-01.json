@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767684837795,
+  "endTime": 1767685637121,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -251,20 +251,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1070936,
+      "num": 496434,
+      "word": "李在镕在北京买了100个labubu",
+      "onboard_time": 1767683180,
+      "rank": 5,
+      "category": "国际时政,休闲"
+    },
+    {
       "raw_hot": 1049300,
       "num": 1774910,
       "word": "当年的老己在QQ给老自留了笔巨款",
       "onboard_time": 1767410309,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1040063,
-      "num": 496434,
-      "word": "李在镕在北京买了100个labubu",
-      "onboard_time": 1767683180,
-      "rank": 5,
-      "category": "国际时政,休闲"
     },
     {
       "raw_hot": 1029154,
@@ -667,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 713839,
+      "num": 198273,
+      "word": "闪灵确认引进",
+      "onboard_time": 1767683541,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 706424,
       "num": 819667,
       "word": "女子住店拉开窗帘竟是泳池水底",
@@ -681,6 +689,14 @@
       "onboard_time": 1767619281,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 688550,
+      "num": 159762,
+      "word": "易梦玲送阿哲5100黄金",
+      "onboard_time": 1767682579,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 686111,
@@ -705,14 +721,6 @@
       "onboard_time": 1767445105,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 666835,
-      "num": 132806,
-      "word": "易梦玲送阿哲5100黄金",
-      "onboard_time": 1767682579,
-      "rank": 29,
-      "category": "网红"
     },
     {
       "raw_hot": 663329,
@@ -1803,16 +1811,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 431423,
-      "num": 179188,
-      "word": "闪灵确认引进",
-      "onboard_time": 1767683541,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
       "raw_hot": 430634,
-      "num": 139722,
+      "num": 158738,
       "word": "白鹿宋威龙早期旧照",
       "onboard_time": 1767678501,
       "rank": 46,
@@ -1971,6 +1971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 401777,
+      "num": 1064284,
+      "word": "南京下雪",
+      "onboard_time": 1767683300,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 399540,
       "num": 281140,
       "word": "赵丽颖语文课本封面具象化",
@@ -2073,6 +2081,14 @@
       "onboard_time": 1767622523,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 381960,
+      "num": 381960,
+      "word": "瑞幸回应店员徒手捏冰块搅拌饮品",
+      "onboard_time": 1767679880,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 381335,
@@ -3219,14 +3235,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 270510,
-      "num": 1043281,
-      "word": "南京下雪",
-      "onboard_time": 1767683300,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 270391,
       "num": 1093799,
       "word": "伊朗",
@@ -3664,14 +3672,6 @@
       "word": "不要在车里放小玩偶了",
       "onboard_time": 1767489323,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 245129,
-      "num": 245129,
-      "word": "瑞幸回应店员徒手捏冰块搅拌饮品",
-      "onboard_time": 1767679880,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -4459,6 +4459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201165,
+      "num": 201165,
+      "word": "A股",
+      "onboard_time": 1767577939,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 201038,
       "num": 201038,
       "word": "樊振东留洋生涯首冠",
@@ -4649,6 +4657,14 @@
       "onboard_time": 1767569059,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195435,
+      "num": 195435,
+      "word": "徐长卿紫萱进行曲被汪苏泷唱了",
+      "onboard_time": 1767683241,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 195399,
@@ -4865,6 +4881,14 @@
       "onboard_time": 1767335479,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189568,
+      "num": 189568,
+      "word": "闪灵",
+      "onboard_time": 1767684801,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 189468,
@@ -5867,14 +5891,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 165534,
-      "num": 165534,
-      "word": "A股",
-      "onboard_time": 1767577939,
-      "rank": 16,
-      "category": "财经"
-    },
-    {
       "raw_hot": 165480,
       "num": 165480,
       "word": "辽宁偶遇宋威龙逛山姆",
@@ -6121,6 +6137,14 @@
       "onboard_time": 1767333319,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161143,
+      "num": 161143,
+      "word": "身无分文男子到彩票店刮800元彩票",
+      "onboard_time": 1767684441,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160823,
@@ -6467,6 +6491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 152829,
+      "num": 152829,
+      "word": "一代人有一代人的冬季出门难题",
+      "onboard_time": 1767685102,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152824,
       "num": 152824,
       "word": "快乐老友记",
@@ -6748,7 +6780,7 @@
     },
     {
       "raw_hot": 147205,
-      "num": 131315,
+      "num": 146504,
       "word": "齐溪大女儿4岁身高",
       "onboard_time": 1767683059,
       "rank": 27,
@@ -7099,6 +7131,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 140616,
+      "num": 140616,
+      "word": "明星们基因彩票的杀伤力",
+      "onboard_time": 1767684919,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140496,
       "num": 963921,
       "word": "美国节目谈斩杀线",
@@ -7251,20 +7291,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 138779,
-      "num": 138779,
-      "word": "徐长卿紫萱进行曲被汪苏泷唱了",
-      "onboard_time": 1767683241,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 138493,
-      "num": 138493,
-      "word": "闪灵",
-      "onboard_time": 1767684801,
-      "rank": 17,
-      "category": "电影"
+      "raw_hot": 138780,
+      "num": 138780,
+      "word": "颖儿做眼部热玛吉疼哭了",
+      "onboard_time": 1767684861,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 138346,
@@ -7651,8 +7683,16 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 131084,
+      "num": 131084,
+      "word": "A股行情",
+      "onboard_time": 1767685341,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 130978,
-      "num": 130978,
+      "num": 139011,
       "word": "2025年十大语文差错公布",
       "onboard_time": 1767682701,
       "rank": 47,
@@ -7995,14 +8035,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 126861,
-      "num": 126861,
-      "word": "身无分文男子到彩票店刮800元彩票",
-      "onboard_time": 1767684441,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126795,
       "num": 451620,
       "word": "千万粉丝网红成名前是洗头工",
@@ -8131,6 +8163,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 125178,
+      "num": 125178,
+      "word": "厦门一5岁男童小区内遇害",
+      "onboard_time": 1767685459,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125040,
       "num": 125040,
       "word": "宋祖儿和闺蜜跨年",
@@ -8147,6 +8187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125012,
+      "num": 125012,
+      "word": "正确称体重vs错误称体重",
+      "onboard_time": 1767685102,
+      "rank": 36,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 124942,
       "num": 1093428,
       "word": "肖战王安宇同台出圈",
@@ -8161,6 +8209,14 @@
       "onboard_time": 1767675921,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124942,
+      "num": 124942,
+      "word": "其实你已经嫁给公司了",
+      "onboard_time": 1767683059,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 124915,
@@ -9220,7 +9276,7 @@
     },
     {
       "raw_hot": 110620,
-      "num": 110620,
+      "num": 115879,
       "word": "内娱现偶带着格局杀回来了",
       "onboard_time": 1767684261,
       "rank": 38,
@@ -10425,6 +10481,14 @@
       "onboard_time": 1767494541,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 97066,
+      "num": 97066,
+      "word": "华晨宇眼里全国五强的实力",
+      "onboard_time": 1767684742,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 97060,
@@ -14267,6 +14331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 53377,
+      "num": 160354,
+      "word": "官方通报扬尘影响商户情况",
+      "onboard_time": 1767685041,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 53272,
       "num": 578294,
       "word": "中概股全线大爆发",
@@ -15915,6 +15987,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 32509,
+      "num": 116124,
+      "word": "男子杀情人一家四口被执行死刑",
+      "onboard_time": 1767685341,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32478,
       "num": 242136,
       "word": "巴基斯坦西北部爆炸1死8伤",
@@ -16049,6 +16129,14 @@
       "onboard_time": 1767666081,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 29908,
+      "num": 115908,
+      "word": "兰州瓜农刺死城管案一审判决",
+      "onboard_time": 1767685041,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29805,

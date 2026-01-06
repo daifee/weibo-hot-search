@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767684837795,
+  "endTime": 1767685637121,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -251,20 +251,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1070936,
+      "num": 496434,
+      "word": "李在镕在北京买了100个labubu",
+      "onboard_time": 1767683180,
+      "rank": 5,
+      "category": "国际时政,休闲"
+    },
+    {
       "raw_hot": 1049300,
       "num": 1774910,
       "word": "当年的老己在QQ给老自留了笔巨款",
       "onboard_time": 1767410309,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1040063,
-      "num": 496434,
-      "word": "李在镕在北京买了100个labubu",
-      "onboard_time": 1767683180,
-      "rank": 5,
-      "category": "国际时政,休闲"
     },
     {
       "raw_hot": 1029154,
@@ -667,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 713839,
+      "num": 198273,
+      "word": "闪灵确认引进",
+      "onboard_time": 1767683541,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 706424,
       "num": 819667,
       "word": "女子住店拉开窗帘竟是泳池水底",
@@ -681,6 +689,14 @@
       "onboard_time": 1767619281,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 688550,
+      "num": 159762,
+      "word": "易梦玲送阿哲5100黄金",
+      "onboard_time": 1767682579,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 686111,
@@ -705,14 +721,6 @@
       "onboard_time": 1767445105,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 666835,
-      "num": 132806,
-      "word": "易梦玲送阿哲5100黄金",
-      "onboard_time": 1767682579,
-      "rank": 29,
-      "category": "网红"
     },
     {
       "raw_hot": 663329,
@@ -1803,16 +1811,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 431423,
-      "num": 179188,
-      "word": "闪灵确认引进",
-      "onboard_time": 1767683541,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
       "raw_hot": 430634,
-      "num": 139722,
+      "num": 158738,
       "word": "白鹿宋威龙早期旧照",
       "onboard_time": 1767678501,
       "rank": 46,
@@ -1971,6 +1971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 401777,
+      "num": 1064284,
+      "word": "南京下雪",
+      "onboard_time": 1767683300,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 399540,
       "num": 281140,
       "word": "赵丽颖语文课本封面具象化",
@@ -2073,6 +2081,14 @@
       "onboard_time": 1767622523,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 381960,
+      "num": 381960,
+      "word": "瑞幸回应店员徒手捏冰块搅拌饮品",
+      "onboard_time": 1767679880,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 381335,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767352700,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 351535,
-      "num": 1746146,
-      "word": "爱吃橘子的人天塌了",
-      "onboard_time": 1767428064,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 351190,
-      "num": 351190,
-      "word": "流落柬埔寨女网红父亲最新发声",
-      "onboard_time": 1767583821,
-      "rank": 9,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
