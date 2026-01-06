@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767665387757,
+  "endTime": 1767666772964,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 1016572,
-      "num": 159454,
+      "num": 185375,
       "word": "日本梅毒扩散",
       "onboard_time": 1767661942,
       "rank": 20,
@@ -265,6 +265,14 @@
       "onboard_time": 1767579621,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 974878,
+      "num": 1155980,
+      "word": "霸王茶姬门店回应手打奶茶",
+      "onboard_time": 1767663201,
+      "rank": 0,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 968745,
@@ -371,6 +379,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 866623,
+      "num": 606539,
+      "word": "餐馆内死亡13岁男孩父母智力残疾",
+      "onboard_time": 1767664821,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 854227,
+      "num": 186972,
+      "word": "春晚彩排的明星",
+      "onboard_time": 1767663501,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 842337,
       "num": 1930829,
       "word": "美军空袭委内瑞拉首都",
@@ -379,20 +403,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 839039,
+      "num": 255986,
+      "word": "林屿森都显怀了庄序还没释怀",
+      "onboard_time": 1767663142,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 821415,
       "num": 1663351,
       "word": "5个影后有4个都选了财富自由",
       "onboard_time": 1767407007,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 815783,
-      "num": 1130525,
-      "word": "霸王茶姬门店回应手打奶茶",
-      "onboard_time": 1767663201,
-      "rank": 0,
-      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 814910,
@@ -417,14 +441,6 @@
       "onboard_time": 1767602061,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 795162,
-      "num": 255986,
-      "word": "林屿森都显怀了庄序还没释怀",
-      "onboard_time": 1767663142,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 794210,
@@ -569,14 +585,6 @@
       "onboard_time": 1767355581,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 738177,
-      "num": 158548,
-      "word": "春晚彩排的明星",
-      "onboard_time": 1767663501,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 734115,
@@ -908,7 +916,7 @@
     },
     {
       "raw_hot": 557975,
-      "num": 273528,
+      "num": 487362,
       "word": "委内瑞拉临时总统宣誓就任",
       "onboard_time": 1767660742,
       "rank": 5,
@@ -1155,8 +1163,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 507400,
+      "num": 858739,
+      "word": "特斯拉",
+      "onboard_time": 1767661640,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 507140,
-      "num": 271103,
+      "num": 424481,
       "word": "原来摇粒绒真的是摇出来的",
       "onboard_time": 1767657680,
       "rank": 6,
@@ -2188,7 +2204,7 @@
     },
     {
       "raw_hot": 346918,
-      "num": 156455,
+      "num": 183043,
       "word": "四大顶级扛剧花",
       "onboard_time": 1767655458,
       "rank": 23,
@@ -2251,6 +2267,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 336035,
+      "num": 336035,
+      "word": "苹果马年手机壳449元",
+      "onboard_time": 1767661640,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 335136,
       "num": 875497,
       "word": "樊振东vs户上隼辅",
@@ -2265,14 +2289,6 @@
       "onboard_time": 1767272301,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 333107,
-      "num": 268667,
-      "word": "苹果马年手机壳449元",
-      "onboard_time": 1767661640,
-      "rank": 7,
-      "category": "数码"
     },
     {
       "raw_hot": 329021,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767577641,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 319723,
-      "num": 513487,
-      "word": "美国脑癌大爷硬抗斩杀线",
-      "onboard_time": 1767334819,
-      "rank": 21,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 319689,
-      "num": 242457,
-      "word": "小酒窝朵朵又合作了",
-      "onboard_time": 1767590184,
-      "rank": 19,
-      "category": "电影"
     }
   ],
   "hotgov_list": [

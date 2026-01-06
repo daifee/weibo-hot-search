@@ -1,6 +1,6 @@
 {
   "startTime": 1767631011864,
-  "endTime": 1767665387757,
+  "endTime": 1767666772964,
   "band_list": [
     {
       "raw_hot": 1294388,
@@ -20,22 +20,38 @@
     },
     {
       "raw_hot": 1016572,
-      "num": 159454,
+      "num": 185375,
       "word": "日本梅毒扩散",
       "onboard_time": 1767661942,
       "rank": 20,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 815783,
-      "num": 1130525,
+      "raw_hot": 974878,
+      "num": 1155980,
       "word": "霸王茶姬门店回应手打奶茶",
       "onboard_time": 1767663201,
       "rank": 0,
       "category": "民生新闻,美食"
     },
     {
-      "raw_hot": 795162,
+      "raw_hot": 866623,
+      "num": 606539,
+      "word": "餐馆内死亡13岁男孩父母智力残疾",
+      "onboard_time": 1767664821,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 854227,
+      "num": 186972,
+      "word": "春晚彩排的明星",
+      "onboard_time": 1767663501,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 839039,
       "num": 255986,
       "word": "林屿森都显怀了庄序还没释怀",
       "onboard_time": 1767663142,
@@ -43,16 +59,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 738177,
-      "num": 158548,
-      "word": "春晚彩排的明星",
-      "onboard_time": 1767663501,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 557975,
-      "num": 273528,
+      "num": 487362,
       "word": "委内瑞拉临时总统宣誓就任",
       "onboard_time": 1767660742,
       "rank": 5,
@@ -67,8 +75,16 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 507400,
+      "num": 858739,
+      "word": "特斯拉",
+      "onboard_time": 1767661640,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 507140,
-      "num": 271103,
+      "num": 424481,
       "word": "原来摇粒绒真的是摇出来的",
       "onboard_time": 1767657680,
       "rank": 6,
@@ -108,15 +124,15 @@
     },
     {
       "raw_hot": 346918,
-      "num": 156455,
+      "num": 183043,
       "word": "四大顶级扛剧花",
       "onboard_time": 1767655458,
       "rank": 23,
       "category": "艺人"
     },
     {
-      "raw_hot": 333107,
-      "num": 268667,
+      "raw_hot": 336035,
+      "num": 336035,
       "word": "苹果马年手机壳449元",
       "onboard_time": 1767661640,
       "rank": 7,
@@ -139,20 +155,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 297035,
+      "num": 184447,
+      "word": "叶祖新我还是演戏吧不下海没天赋",
+      "onboard_time": 1767663921,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294159,
       "num": 252862,
       "word": "我客串骄阳似我",
       "onboard_time": 1767661883,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 280807,
-      "num": 280807,
-      "word": "特斯拉",
-      "onboard_time": 1767661640,
-      "rank": 4,
-      "category": "汽车"
     },
     {
       "raw_hot": 280098,
@@ -171,20 +187,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 238505,
-      "num": 155024,
-      "word": "叶祖新我还是演戏吧不下海没天赋",
-      "onboard_time": 1767663921,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 231593,
+      "num": 231593,
+      "word": "中国女导演柬埔寨坠亡前被人带上楼",
+      "onboard_time": 1767664099,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 231132,
-      "num": 151657,
+      "num": 182961,
       "word": "原来吃糖竟对人体的伤害如此之大",
       "onboard_time": 1767661942,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 220600,
+      "num": 181418,
+      "word": "特斯拉推出7年超低息购车",
+      "onboard_time": 1767666081,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 216007,
@@ -219,12 +243,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 189702,
-      "num": 189702,
-      "word": "餐馆内死亡13岁男孩父母智力残疾",
-      "onboard_time": 1767664821,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 180940,
+      "num": 180940,
+      "word": "偷偷和肖战拍合照",
+      "onboard_time": 1767662121,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 180350,
@@ -235,6 +259,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 179838,
+      "num": 179838,
+      "word": "特斯拉ModelYL首次推出5年0息",
+      "onboard_time": 1767666501,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 179317,
       "num": 179317,
       "word": "剪断男婴手指助产士已停职",
@@ -243,12 +275,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 178753,
-      "num": 178753,
-      "word": "中国女导演柬埔寨坠亡前被人带上楼",
-      "onboard_time": 1767664099,
-      "rank": 16,
-      "category": "海外新闻"
+      "raw_hot": 176585,
+      "num": 176585,
+      "word": "女子患流感5天不摘隐形眼镜近乎融化",
+      "onboard_time": 1767666560,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170134,
@@ -259,8 +291,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165480,
+      "num": 165480,
+      "word": "辽宁偶遇宋威龙逛山姆",
+      "onboard_time": 1767665480,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165234,
-      "num": 165234,
+      "num": 190231,
       "word": "三亚海滩上长满俄国人",
       "onboard_time": 1767657560,
       "rank": 17,
@@ -284,7 +324,7 @@
     },
     {
       "raw_hot": 161867,
-      "num": 161867,
+      "num": 190876,
       "word": "韩国社媒上的上海",
       "onboard_time": 1767657441,
       "rank": 18,
@@ -297,6 +337,22 @@
       "onboard_time": 1767620302,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155079,
+      "num": 155079,
+      "word": "这种爱情至今为止内娱都没有演出来",
+      "onboard_time": 1767666023,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 152325,
+      "num": 192378,
+      "word": "委内瑞拉首都加拉加斯传出枪声",
+      "onboard_time": 1767661640,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 150814,
@@ -323,28 +379,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 137369,
-      "num": 137369,
-      "word": "偷偷和肖战拍合照",
-      "onboard_time": 1767662121,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 131252,
-      "num": 131252,
-      "word": "委内瑞拉首都加拉加斯传出枪声",
-      "onboard_time": 1767661640,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 129120,
       "num": 115627,
       "word": "爸爸低头玩手机孩子冲上马路被撞",
       "onboard_time": 1767623784,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127790,
+      "num": 127790,
+      "word": "娜扎安慰余茵不要被别人影响心态",
+      "onboard_time": 1767661520,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 127681,
@@ -355,11 +403,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 127413,
+      "num": 127413,
+      "word": "iPhone17最新销量曝光",
+      "onboard_time": 1767665720,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 127028,
       "num": 127028,
       "word": "山姆鳕鱼片惊现血色异物疑寄生虫",
       "onboard_time": 1767626602,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126887,
+      "num": 188658,
+      "word": "900万大奖得主进店才知自己中奖",
+      "onboard_time": 1767662600,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -379,20 +443,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 124136,
-      "num": 124136,
-      "word": "900万大奖得主进店才知自己中奖",
-      "onboard_time": 1767662600,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123587,
       "num": 123587,
       "word": "宋威龙的身材",
       "onboard_time": 1767661401,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122969,
+      "num": 122969,
+      "word": "是不是便宜的小猫都喜欢哄睡",
+      "onboard_time": 1767666023,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 120672,
+      "num": 120672,
+      "word": "金价波动",
+      "onboard_time": 1767664880,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 119085,
@@ -403,12 +475,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116826,
-      "num": 116826,
-      "word": "娜扎安慰余茵不要被别人影响心态",
-      "onboard_time": 1767661520,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 117450,
+      "num": 188151,
+      "word": "鳌太线失联4人1人获救2死1坠崖",
+      "onboard_time": 1767664460,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116770,
@@ -441,14 +513,6 @@
       "onboard_time": 1767653837,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 109527,
-      "num": 109527,
-      "word": "金价波动",
-      "onboard_time": 1767664880,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 108538,
@@ -531,6 +595,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 96220,
+      "num": 96220,
+      "word": "中方在联合国指出美国4个严重违反",
+      "onboard_time": 1767663561,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 95539,
+      "num": 95539,
+      "word": "德国杯",
+      "onboard_time": 1767666260,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95124,
       "num": 95124,
       "word": "纽约抗议人群要求释放马杜罗",
@@ -547,20 +627,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 91149,
-      "num": 91149,
-      "word": "中方在联合国指出美国4个严重违反",
-      "onboard_time": 1767663561,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 91020,
       "num": 114972,
       "word": "凶手杀害29岁女子后电梯内唱歌",
       "onboard_time": 1767619403,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90629,
+      "num": 160673,
+      "word": "委内瑞拉局势或取决于3个人",
+      "onboard_time": 1767664281,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 88289,
@@ -819,14 +899,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 46454,
-      "num": 105390,
-      "word": "鳌太线失联4人1人获救2死1坠崖",
-      "onboard_time": 1767664460,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43746,
       "num": 51037,
       "word": "中方谴责美国侵犯委内瑞拉主权",
@@ -859,20 +931,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 37918,
-      "num": 160673,
-      "word": "委内瑞拉局势或取决于3个人",
-      "onboard_time": 1767664281,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 37044,
       "num": 50854,
       "word": "肖战东方卫视跨年名场面盘点来啦",
       "onboard_time": 1767635595,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 36966,
+      "num": 118997,
+      "word": "中国游客减少赴日韩国享受反射收益",
+      "onboard_time": 1767666081,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35522,
@@ -889,6 +961,22 @@
       "onboard_time": 1767646154,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 31820,
+      "num": 119707,
+      "word": "工地被指强制工人在食堂用餐",
+      "onboard_time": 1767665662,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30117,
+      "num": 117996,
+      "word": "十几艘油轮悄悄离开委水域",
+      "onboard_time": 1767666081,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 26239,
@@ -937,6 +1025,14 @@
       "onboard_time": 1767634517,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15077,
+      "num": 132900,
+      "word": "马杜罗夫妇受审起诉书长达25页",
+      "onboard_time": 1767666680,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14759,
