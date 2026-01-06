@@ -1,6 +1,6 @@
 {
   "startTime": 1767717567538,
-  "endTime": 1767721688356,
+  "endTime": 1767724924413,
   "band_list": [
     {
       "raw_hot": 465142,
@@ -379,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42466,
+      "num": 36882,
+      "word": "特朗普支持格陵兰岛独立",
+      "onboard_time": 1767724275,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 39656,
       "num": 100177,
       "word": "网友触摸疑似布病流产羊羔",
@@ -427,6 +435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 19694,
+      "num": 36973,
+      "word": "委内瑞拉临时总统",
+      "onboard_time": 1767724815,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 18556,
       "num": 51108,
       "word": "周深香港演唱会",
@@ -441,6 +457,14 @@
       "onboard_time": 1767687623,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 17372,
+      "num": 36883,
+      "word": "檀健次新歌外网上线",
+      "onboard_time": 1767723315,
+      "rank": 28,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [

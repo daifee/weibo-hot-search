@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/04 00:34:09 ~ 2026/01/07 01:48:08
+本榜单时间：2026/01/04 00:34:09 ~ 2026/01/07 02:42:04
 </p>
 </blockquote>
 <p>
@@ -7227,6 +7227,12 @@ Tabe首次介入JDG语音（热度：43840）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E7%8B%AC%E7%AB%8B%23" target="weibo">
+特朗普支持格陵兰岛独立（热度：42466）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iG%E5%A4%BA%E5%BE%97%E5%BE%B7%E6%9D%AF%E5%86%A0%E5%86%9B%23" target="weibo">
 iG夺得德杯冠军（热度：42134）
 </a>
@@ -7839,6 +7845,12 @@ MRC夺冠（热度：40693）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%B8%B4%E6%97%B6%E6%80%BB%E7%BB%9F%23" target="weibo">
+委内瑞拉临时总统（热度：19694）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%8C%E5%AD%A6%E7%A7%B0%E5%9C%A8%E6%9F%AC%E5%9D%A0%E4%BA%A1%E5%A5%B3%E5%AF%BC%E6%BC%94%E4%B8%8D%E5%83%8F%E4%BC%9A%E8%BD%BB%E7%94%9F%E7%9A%84%E4%BA%BA%23" target="weibo">
 同学称在柬坠亡女导演不像会轻生的人（热度：19682）
 </a>
@@ -7865,6 +7877,12 @@ MRC夺冠（热度：40693）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E8%AF%B4%E4%BB%8A%E5%B9%B4%E6%9C%89%E5%85%A8%E5%8E%9F%E5%88%9B%E4%B8%93%E8%BE%91%23" target="weibo">
 王源说今年有全原创专辑（热度：18863）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E6%96%B0%E6%AD%8C%E5%A4%96%E7%BD%91%E4%B8%8A%E7%BA%BF%23" target="weibo">
+檀健次新歌外网上线（热度：17372）
 </a>
 </li>
 
