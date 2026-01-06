@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767675503370,
+  "endTime": 1767677584753,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -9,6 +9,14 @@
       "onboard_time": 1767539425,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2024176,
+      "num": 2024176,
+      "word": "霸王茶姬通报",
+      "onboard_time": 1767676221,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1998587,
@@ -899,6 +907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 480295,
+      "num": 219524,
+      "word": "27岁健身教练精子畸形率超90%",
+      "onboard_time": 1767675021,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 479653,
       "num": 189276,
       "word": "内娱窝囊废公司来了没文化的野人",
@@ -1323,6 +1339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 376865,
+      "num": 395938,
+      "word": "流落柬埔寨街头女子毒品检测呈阳性",
+      "onboard_time": 1767675741,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 375440,
       "num": 375440,
       "word": "载有马杜罗飞机抵达纽约",
@@ -1475,19 +1499,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 351998,
+      "num": 935939,
+      "word": "三亚始祖鸟店排长队抢购秋冬款",
+      "onboard_time": 1767672621,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 351190,
       "num": 351190,
       "word": "流落柬埔寨女网红父亲最新发声",
       "onboard_time": 1767583821,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 349513,
-      "num": 219524,
-      "word": "27岁健身教练精子畸形率超90%",
-      "onboard_time": 1767675021,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -1651,6 +1675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 322484,
+      "num": 322484,
+      "word": "李在明自拍",
+      "onboard_time": 1767675442,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 321572,
       "num": 70918,
       "word": "三星掌门人李在镕在北京买LABUBU",
@@ -1777,6 +1809,14 @@
       "onboard_time": 1767536062,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 299746,
+      "num": 299746,
+      "word": "夫妻为娃争吵丈夫血管气炸40cm",
+      "onboard_time": 1767673281,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 298697,
@@ -2003,14 +2043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 268529,
-      "num": 268529,
-      "word": "三亚始祖鸟店排长队抢购秋冬款",
-      "onboard_time": 1767672621,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 268484,
       "num": 158863,
       "word": "跑男史上最安静的一期",
@@ -2081,6 +2113,14 @@
       "onboard_time": 1767485541,
       "rank": 7,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 258939,
+      "num": 258939,
+      "word": "eStarPro官宣Fly加入",
+      "onboard_time": 1767674122,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 258830,
@@ -2185,22 +2225,6 @@
       "onboard_time": 1767460877,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 246836,
-      "num": 246836,
-      "word": "eStarPro官宣Fly加入",
-      "onboard_time": 1767674122,
-      "rank": 9,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 246769,
-      "num": 246769,
-      "word": "夫妻为娃争吵丈夫血管气炸40cm",
-      "onboard_time": 1767673281,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 245961,
@@ -2715,6 +2739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199408,
+      "num": 199408,
+      "word": "逍遥大结局",
+      "onboard_time": 1767676881,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199048,
       "num": 830504,
       "word": "雷军回应小米超强钢争议",
@@ -2761,6 +2793,14 @@
       "onboard_time": 1767504503,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 197945,
+      "num": 148820,
+      "word": "你们看宋威龙的手",
+      "onboard_time": 1767676461,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 197320,
@@ -3161,6 +3201,14 @@
       "onboard_time": 1767666560,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177325,
+      "num": 177325,
+      "word": "中国留学生在德遭袭反击致对方骨折",
+      "onboard_time": 1767676461,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 177139,
@@ -3619,6 +3667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158395,
+      "num": 158395,
+      "word": "霸王茶姬辞退涉事店员",
+      "onboard_time": 1767677361,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157997,
       "num": 157997,
       "word": "豆瓣好卡",
@@ -3851,6 +3907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147312,
+      "num": 147312,
+      "word": "当你过上了小时候想过的生活",
+      "onboard_time": 1767676104,
+      "rank": 27,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 147027,
       "num": 147027,
       "word": "逍遥",
@@ -3875,6 +3939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146172,
+      "num": 143293,
+      "word": "张杰红皮衣花絮照",
+      "onboard_time": 1767677242,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 146169,
       "num": 146169,
       "word": "黑豹乐队创始人郭传林去世",
@@ -3889,6 +3961,14 @@
       "onboard_time": 1767501204,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 146043,
+      "num": 146043,
+      "word": "李一桐的狗出道拍戏了",
+      "onboard_time": 1767675683,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 145375,
@@ -4075,14 +4155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139879,
-      "num": 139879,
-      "word": "李在明自拍",
-      "onboard_time": 1767675442,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 139751,
       "num": 139751,
       "word": "黄金白银将迎新年第一劫",
@@ -4097,6 +4169,14 @@
       "onboard_time": 1767517284,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139448,
+      "num": 139448,
+      "word": "真的建议年轻人多看辩论赛",
+      "onboard_time": 1767676402,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 139412,
@@ -4467,12 +4547,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 126629,
+      "num": 126629,
+      "word": "印度奶茶梗",
+      "onboard_time": 1767676941,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126600,
       "num": 126600,
       "word": "七七赵钰琪1分钟视频报价1万",
       "onboard_time": 1767607881,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126470,
+      "num": 126470,
+      "word": "每天喝燕麦片后身体的变化",
+      "onboard_time": 1767676521,
+      "rank": 38,
+      "category": "幽默,健康医疗"
     },
     {
       "raw_hot": 126362,
@@ -4489,6 +4585,14 @@
       "onboard_time": 1767503963,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126082,
+      "num": 126081,
+      "word": "大哥没出屋微信步数两万多",
+      "onboard_time": 1767676881,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 125884,
@@ -4513,6 +4617,14 @@
       "onboard_time": 1767524783,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124942,
+      "num": 124942,
+      "word": "小城大事能爆吗",
+      "onboard_time": 1767675921,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 124915,
@@ -4699,6 +4811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119881,
+      "num": 119881,
+      "word": "王者荣耀S42赛季",
+      "onboard_time": 1767677300,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 119695,
       "num": 119695,
       "word": "吴泽林请谨言慎行",
@@ -4811,6 +4931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115299,
+      "num": 115299,
+      "word": "玉茗茶骨男主上位后挑衅全世界",
+      "onboard_time": 1767677480,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115236,
       "num": 137543,
       "word": "中使馆回应中国女子流落柬埔寨",
@@ -4915,6 +5043,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 112358,
+      "num": 112358,
+      "word": "勇士vs快船",
+      "onboard_time": 1767677541,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112347,
       "num": 112347,
       "word": "1斤车厘子热量超1碗米饭",
@@ -4977,6 +5113,14 @@
       "onboard_time": 1767600262,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110617,
+      "num": 126082,
+      "word": "男二善良到疑似伪人入侵",
+      "onboard_time": 1767676221,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 110354,
@@ -6643,6 +6787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75419,
+      "num": 139975,
+      "word": "官方回应矿泉水标签印20元人民币",
+      "onboard_time": 1767675622,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75378,
       "num": 75378,
       "word": "T1新队服公开",
@@ -7667,6 +7819,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 36033,
+      "num": 228191,
+      "word": "李在明谈韩中关系最宝贵资产",
+      "onboard_time": 1767675262,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 35527,
       "num": 200180,
       "word": "很多古巴人在美军行动中丧生",
@@ -7844,7 +8004,7 @@
     },
     {
       "raw_hot": 30426,
-      "num": 712273,
+      "num": 762925,
       "word": "元旦假期带动新年消费活力满满",
       "onboard_time": 1767672621,
       "rank": 2,
@@ -8163,14 +8323,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 16768,
-      "num": 228191,
-      "word": "李在明谈韩中关系最宝贵资产",
-      "onboard_time": 1767675262,
-      "rank": 23,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 16299,
       "num": 131701,
       "word": "罗马仕将计划重新获取新3C认证",
@@ -8217,6 +8369,14 @@
       "onboard_time": 1767516262,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14372,
+      "num": 126518,
+      "word": "窑鸡王外卖不熟商家竟称扔工人脸上",
+      "onboard_time": 1767677120,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14292,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1767677584753,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2024176,
+        "num": 2024176,
+        "word": "霸王茶姬通报",
+        "onboard_time": 1767676221,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351998,
+        "num": 935939,
+        "word": "三亚始祖鸟店排长队抢购秋冬款",
+        "onboard_time": 1767672621,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25913,
+        "num": 762925,
+        "word": "元旦假期带动新年消费活力满满",
+        "onboard_time": 1767672621,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403638,
+        "num": 403638,
+        "word": "印度高调宣布大米产量超越中国",
+        "onboard_time": 1767673462,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 376865,
+        "num": 395938,
+        "word": "流落柬埔寨街头女子毒品检测呈阳性",
+        "onboard_time": 1767675741,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1418428,
+        "num": 394868,
+        "word": "日本梅毒扩散",
+        "onboard_time": 1767661942,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 393576,
+        "num": 393576,
+        "word": "婚礼电子请柬 访客记录",
+        "onboard_time": 1767672503,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 322484,
+        "num": 322484,
+        "word": "李在明自拍",
+        "onboard_time": 1767675442,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 299746,
+        "num": 299746,
+        "word": "夫妻为娃争吵丈夫血管气炸40cm",
+        "onboard_time": 1767673281,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258939,
+        "num": 258939,
+        "word": "eStarPro官宣Fly加入",
+        "onboard_time": 1767674122,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 410512,
+        "num": 248624,
+        "word": "霸王茶姬已调查手打视频",
+        "onboard_time": 1767670641,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304203,
+        "num": 238152,
+        "word": "林屿森聂曦光开荤了",
+        "onboard_time": 1767668480,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225217,
+        "num": 225217,
+        "word": "交警喊话罚罪2",
+        "onboard_time": 1767672022,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 703716,
+        "num": 217365,
+        "word": "西贝服务员工资条",
+        "onboard_time": 1767672261,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236025,
+        "num": 209437,
+        "word": "林屿森都显怀了庄序还没释怀",
+        "onboard_time": 1767663142,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199408,
+        "num": 199408,
+        "word": "逍遥大结局",
+        "onboard_time": 1767676881,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177325,
+        "num": 177325,
+        "word": "中国留学生在德遭袭反击致对方骨折",
+        "onboard_time": 1767676461,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 354358,
+        "num": 174819,
+        "word": "新生儿被剪断手指事件双方达成和解",
+        "onboard_time": 1767670462,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167225,
+        "num": 167225,
+        "word": "赵丽颖语文课本封面具象化",
+        "onboard_time": 1767667641,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158395,
+        "num": 158395,
+        "word": "霸王茶姬辞退涉事店员",
+        "onboard_time": 1767677361,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 500209,
+        "num": 156732,
+        "word": "女明星为孩子挤痘致其脸缝四针",
+        "onboard_time": 1767668421,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 490289,
+        "num": 155944,
+        "word": "向太回应方媛被骂",
+        "onboard_time": 1767673881,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480295,
+        "num": 155642,
+        "word": "27岁健身教练精子畸形率超90%",
+        "onboard_time": 1767675021,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152197,
+        "num": 152197,
+        "word": "委内瑞拉临时总统宣誓就任",
+        "onboard_time": 1767660742,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 449370,
+        "num": 149919,
+        "word": "冯提莫瘦了50斤",
+        "onboard_time": 1767670281,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 299666,
+        "num": 148877,
+        "word": "春晚彩排的明星",
+        "onboard_time": 1767663501,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197945,
+        "num": 148820,
+        "word": "你们看宋威龙的手",
+        "onboard_time": 1767676461,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147312,
+        "num": 147312,
+        "word": "当你过上了小时候想过的生活",
+        "onboard_time": 1767676104,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 146043,
+        "num": 146043,
+        "word": "李一桐的狗出道拍戏了",
+        "onboard_time": 1767675683,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144926,
+        "num": 144926,
+        "word": "鳌太线失联4人1人获救2死1坠崖",
+        "onboard_time": 1767664460,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382218,
+        "num": 144144,
+        "word": "霸王茶姬 手打",
+        "onboard_time": 1767657800,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146172,
+        "num": 143293,
+        "word": "张杰红皮衣花絮照",
+        "onboard_time": 1767677242,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140975,
+        "num": 140975,
+        "word": "明兰学会了林小娘的做派",
+        "onboard_time": 1767673762,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75419,
+        "num": 139975,
+        "word": "官方回应矿泉水标签印20元人民币",
+        "onboard_time": 1767675622,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139448,
+        "num": 139448,
+        "word": "真的建议年轻人多看辩论赛",
+        "onboard_time": 1767676402,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128444,
+        "num": 128444,
+        "word": "苹果马年微信红包封面来了",
+        "onboard_time": 1767667823,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 126629,
+        "num": 126629,
+        "word": "印度奶茶梗",
+        "onboard_time": 1767676941,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14372,
+        "num": 126518,
+        "word": "窑鸡王外卖不熟商家竟称扔工人脸上",
+        "onboard_time": 1767677120,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126470,
+        "num": 126470,
+        "word": "每天喝燕麦片后身体的变化",
+        "onboard_time": 1767676521,
+        "rank": 38,
+        "category": "幽默,健康医疗"
+      },
+      {
+        "raw_hot": 36033,
+        "num": 126244,
+        "word": "李在明谈韩中关系最宝贵资产",
+        "onboard_time": 1767675262,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110617,
+        "num": 126082,
+        "word": "男二善良到疑似伪人入侵",
+        "onboard_time": 1767676221,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126082,
+        "num": 126081,
+        "word": "大哥没出屋微信步数两万多",
+        "onboard_time": 1767676881,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124942,
+        "num": 124942,
+        "word": "小城大事能爆吗",
+        "onboard_time": 1767675921,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122516,
+        "num": 122516,
+        "word": "向华强说向佐郭碧婷没谈彩礼",
+        "onboard_time": 1767671542,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52724,
+        "num": 120461,
+        "word": "AI医生能超过真人医生吗",
+        "onboard_time": 1767672203,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 119881,
+        "num": 119881,
+        "word": "王者荣耀S42赛季",
+        "onboard_time": 1767677300,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118035,
+        "num": 118035,
+        "word": "沈腾确认回归春晚语言类节目",
+        "onboard_time": 1767669620,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115299,
+        "num": 115299,
+        "word": "玉茗茶骨男主上位后挑衅全世界",
+        "onboard_time": 1767677480,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112985,
+        "num": 112985,
+        "word": "格陵兰岛不想成美国的一部分",
+        "onboard_time": 1767670402,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112358,
+        "num": 112358,
+        "word": "勇士vs快船",
+        "onboard_time": 1767677541,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#2026元首外交开局#"
+    }
+  }
+}

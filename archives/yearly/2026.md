@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/06 12:58:23
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/06 13:33:04
 </p>
 </blockquote>
 <p>
@@ -47,6 +47,12 @@ WB冠军（热度：3566119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%96%E9%98%B3FMVP%23" target="weibo">
 暖阳FMVP（热度：2040173）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E9%80%9A%E6%8A%A5%23" target="weibo">
+霸王茶姬通报（热度：2024176）
 </a>
 </li>
 
@@ -1065,6 +1071,12 @@ TVB颁奖典礼（热度：518643）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2327%E5%B2%81%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83%E7%B2%BE%E5%AD%90%E7%95%B8%E5%BD%A2%E7%8E%87%E8%B6%8590%25%23" target="weibo">
+27岁健身教练精子畸形率超90%（热度：480295）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%AA%9D%E5%9B%8A%E5%BA%9F%E5%85%AC%E5%8F%B8%E6%9D%A5%E4%BA%86%E6%B2%A1%E6%96%87%E5%8C%96%E7%9A%84%E9%87%8E%E4%BA%BA%23" target="weibo">
 内娱窝囊废公司来了没文化的野人（热度：479653）
 </a>
@@ -1533,6 +1545,12 @@ loveissoap说童锦程配不上她（热度：394705）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%A1%97%E5%A4%B4%E5%A5%B3%E5%AD%90%E6%AF%92%E5%93%81%E6%A3%80%E6%B5%8B%E5%91%88%E9%98%B3%E6%80%A7%23" target="weibo">
+流落柬埔寨街头女子毒品检测呈阳性（热度：376865）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%BD%E6%9C%89%E9%A9%AC%E6%9D%9C%E7%BD%97%E9%A3%9E%E6%9C%BA%E6%8A%B5%E8%BE%BE%E7%BA%BD%E7%BA%A6%23" target="weibo">
 载有马杜罗飞机抵达纽约（热度：375440）
 </a>
@@ -1719,6 +1737,12 @@ WB对战RW（热度：355689）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%9A%E5%A7%8B%E7%A5%96%E9%B8%9F%E5%BA%97%E6%8E%92%E9%95%BF%E9%98%9F%E6%8A%A2%E8%B4%AD%E7%A7%8B%E5%86%AC%E6%AC%BE%23" target="weibo">
+三亚始祖鸟店排长队抢购秋冬款（热度：351998）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%90%83%E6%A9%98%E5%AD%90%E7%9A%84%E4%BA%BA%E5%A4%A9%E5%A1%8C%E4%BA%86%23" target="weibo">
 爱吃橘子的人天塌了（热度：351535）
 </a>
@@ -1727,12 +1751,6 @@ WB对战RW（热度：355689）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%A5%B3%E7%BD%91%E7%BA%A2%E7%88%B6%E4%BA%B2%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0%23" target="weibo">
 流落柬埔寨女网红父亲最新发声（热度：351190）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2327%E5%B2%81%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83%E7%B2%BE%E5%AD%90%E7%95%B8%E5%BD%A2%E7%8E%87%E8%B6%8590%25%23" target="weibo">
-27岁健身教练精子畸形率超90%（热度：349513）
 </a>
 </li>
 
@@ -1793,24 +1811,6 @@ WB对战RW（热度：355689）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%9C%E7%BD%97%E6%8A%BC%E9%80%81%E9%80%94%E4%B8%AD%E5%AF%B9%E7%9D%80%E9%95%9C%E5%A4%B4%E6%AF%94%E5%87%BA%E5%89%AA%E5%88%80%E6%89%8B%23" target="weibo">
 马杜罗押送途中对着镜头比出剪刀手（热度：338349）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%B9%8B%E5%90%8E%E8%BF%99%E4%BA%9B%E5%9B%BD%E5%AE%B6%E9%9D%A2%E4%B8%B4%E5%8D%B1%E9%99%A9%23" target="weibo">
-委内瑞拉之后这些国家面临危险（热度：337910）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23105%E6%8D%862%E5%85%83%E4%BA%BA%E6%B0%91%E5%B8%81%E7%AB%9E%E4%BB%B7%E5%B7%B2%E8%BE%BE42%E4%B8%87%E5%85%83%23" target="weibo">
-105捆2元人民币竞价已达42万元（热度：337304）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E9%A9%AC%E5%B9%B4%E6%89%8B%E6%9C%BA%E5%A3%B3449%E5%85%83%23" target="weibo">
-苹果马年手机壳449元（热度：336035）
 </a>
 </li>
 
