@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767692136826,
+  "endTime": 1767692944594,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 985682,
-      "num": 164524,
+      "num": 166928,
       "word": "白百何还回来当女明星吗",
       "onboard_time": 1767686122,
       "rank": 20,
@@ -329,6 +329,14 @@
       "onboard_time": 1767514102,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 811408,
+      "num": 167618,
+      "word": "日本梅毒",
+      "onboard_time": 1767690320,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 810815,
@@ -1283,14 +1291,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 426716,
-      "num": 149437,
-      "word": "日本梅毒",
-      "onboard_time": 1767690320,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 426547,
       "num": 418675,
       "word": "给赵今麦当替身后我扑进了宋威龙怀里",
@@ -1763,6 +1763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 332048,
+      "num": 164276,
+      "word": "张凯毅起诉黄金凤冠造谣者",
+      "onboard_time": 1767689121,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 329021,
       "num": 329021,
       "word": "LABUBU不用抢了",
@@ -2027,14 +2035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 295485,
-      "num": 154997,
-      "word": "张凯毅起诉黄金凤冠造谣者",
-      "onboard_time": 1767689121,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
       "raw_hot": 295075,
       "num": 215268,
       "word": "丈夫离世6旬初代丁克不悔没要孩子",
@@ -2059,6 +2059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 292587,
+      "num": 213548,
+      "word": "白鹿这首离婚的歌听了388遍",
+      "onboard_time": 1767689960,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290460,
       "num": 352214,
       "word": "李在明夫人感谢中国女性代表",
@@ -2081,6 +2089,14 @@
       "onboard_time": 1767666023,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 286637,
+      "num": 286637,
+      "word": "专家回应日本梅毒扩散",
+      "onboard_time": 1767688042,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 284795,
@@ -2275,14 +2291,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 262457,
-      "num": 262457,
-      "word": "专家回应日本梅毒扩散",
-      "onboard_time": 1767688042,
-      "rank": 34,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 262444,
       "num": 476176,
       "word": "佘诗曼四封TVB视后",
@@ -2297,14 +2305,6 @@
       "onboard_time": 1767680481,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 262012,
-      "num": 213548,
-      "word": "白鹿这首离婚的歌听了388遍",
-      "onboard_time": 1767689960,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 259394,
@@ -2859,6 +2859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 207254,
+      "num": 207254,
+      "word": "一笙长文告别狼队",
+      "onboard_time": 1767691820,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 207228,
       "num": 256534,
       "word": "女子起诉前男友泄露私密照索赔2万",
@@ -2905,6 +2913,14 @@
       "onboard_time": 1767676461,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205354,
+      "num": 193990,
+      "word": "何老师带过最难带的学生出现了",
+      "onboard_time": 1767689960,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 205251,
@@ -3017,6 +3033,14 @@
       "onboard_time": 1767481939,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 198788,
+      "num": 198788,
+      "word": "一笙转会",
+      "onboard_time": 1767691702,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 198736,
@@ -3188,7 +3212,7 @@
     },
     {
       "raw_hot": 193409,
-      "num": 147885,
+      "num": 161937,
       "word": "1元一小时的网吧现状",
       "onboard_time": 1767690083,
       "rank": 25,
@@ -3217,6 +3241,14 @@
       "onboard_time": 1767512483,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193013,
+      "num": 193013,
+      "word": "二婚妻子收15万彩礼后称要丁克",
+      "onboard_time": 1767691641,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191225,
@@ -3265,6 +3297,14 @@
       "onboard_time": 1767608902,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187145,
+      "num": 157651,
+      "word": "感染梅毒的典型症状",
+      "onboard_time": 1767690681,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 187071,
@@ -3345,14 +3385,6 @@
       "onboard_time": 1767602121,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 184898,
-      "num": 184898,
-      "word": "何老师带过最难带的学生出现了",
-      "onboard_time": 1767689960,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 184325,
@@ -3987,20 +4019,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 157129,
+      "num": 157129,
+      "word": "月薪一万的工作强度",
+      "onboard_time": 1767692300,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156774,
       "num": 189372,
       "word": "龚俊 别信票务的签名照",
       "onboard_time": 1767539244,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156309,
-      "num": 146692,
-      "word": "一笙转会",
-      "onboard_time": 1767691702,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 156168,
@@ -4539,14 +4571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139874,
-      "num": 139874,
-      "word": "感染梅毒的典型症状",
-      "onboard_time": 1767690681,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 139751,
       "num": 139751,
       "word": "黄金白银将迎新年第一劫",
@@ -4721,14 +4745,6 @@
       "onboard_time": 1767513742,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 135212,
-      "num": 135212,
-      "word": "一笙长文告别狼队",
-      "onboard_time": 1767691820,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 135197,
@@ -5739,6 +5755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110228,
+      "num": 159617,
+      "word": "孩子被儿童绘本里丑仙女吓得做噩梦",
+      "onboard_time": 1767691641,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110135,
       "num": 110135,
       "word": "仙逆122",
@@ -5776,6 +5800,14 @@
       "word": "车厘子贴着4J撕下标签印着2JD",
       "onboard_time": 1767569539,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108764,
+      "num": 108764,
+      "word": "多方回应5岁男童小区内遇害",
+      "onboard_time": 1767692541,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -5969,6 +6001,14 @@
       "onboard_time": 1767610341,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104505,
+      "num": 104505,
+      "word": "厦门5岁男童小区内遇害行凶者坠亡",
+      "onboard_time": 1767692901,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104435,
@@ -6571,6 +6611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95016,
+      "num": 135269,
+      "word": "张翰已被冻结165万股权",
+      "onboard_time": 1767691702,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94840,
       "num": 814160,
       "word": "陈立农用最天真的语气说最恐怖的话",
@@ -6817,14 +6865,6 @@
       "onboard_time": 1767588743,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 91265,
-      "num": 135217,
-      "word": "二婚妻子收15万彩礼后称要丁克",
-      "onboard_time": 1767691641,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91088,
@@ -7971,14 +8011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 60196,
-      "num": 150736,
-      "word": "孩子被儿童绘本里丑仙女吓得做噩梦",
-      "onboard_time": 1767691641,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60113,
       "num": 213641,
       "word": "XC70在尔滨冻真格了",
@@ -8139,6 +8171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 54333,
+      "num": 111691,
+      "word": "你是成龙那他是谁",
+      "onboard_time": 1767692901,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 53711,
       "num": 160347,
       "word": "人民日报评护学岗争议",
@@ -8281,6 +8321,14 @@
       "onboard_time": 1767541282,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48908,
+      "num": 115972,
+      "word": "吴佳怡 剧抛脸演技",
+      "onboard_time": 1767692841,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 48838,
@@ -8593,6 +8641,14 @@
       "onboard_time": 1767521542,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38645,
+      "num": 160648,
+      "word": "全球首个14亿吨超级大港在中国",
+      "onboard_time": 1767692180,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38507,
@@ -9251,6 +9307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 16323,
+      "num": 112449,
+      "word": "四川专升本考试缴费显示南方航空",
+      "onboard_time": 1767692420,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16299,
       "num": 131701,
       "word": "罗马仕将计划重新获取新3C认证",
@@ -9291,20 +9355,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 14590,
+      "num": 158713,
+      "word": "河北农村取暖气价高补贴被砍",
+      "onboard_time": 1767692781,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14559,
       "num": 114713,
       "word": "东京都民众再集会反对日本扩军备武",
       "onboard_time": 1767516262,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 14302,
-      "num": 135269,
-      "word": "张翰已被冻结165万股权",
-      "onboard_time": 1767691702,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 14292,
@@ -9344,6 +9408,14 @@
       "word": "2026年育儿补贴开始申领",
       "onboard_time": 1767583461,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12477,
+      "num": 605667,
+      "word": "我国成为世界第一航空人口大国",
+      "onboard_time": 1767692660,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
