@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767671589021,
+  "endTime": 1767672401069,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -89,6 +89,14 @@
       "onboard_time": 1767459021,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1469509,
+      "num": 1469509,
+      "word": "霸王茶姬已调查手打视频",
+      "onboard_time": 1767670641,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1430098,
@@ -251,6 +259,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1013556,
+      "num": 269384,
+      "word": "冯提莫瘦了50斤",
+      "onboard_time": 1767670281,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1003635,
       "num": 304816,
       "word": "陈冠希怎么老成这样了",
@@ -401,14 +417,6 @@
       "onboard_time": 1767663501,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 847801,
-      "num": 269384,
-      "word": "冯提莫瘦了50斤",
-      "onboard_time": 1767670281,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 842337,
@@ -643,14 +651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 690298,
-      "num": 1110447,
-      "word": "霸王茶姬已调查手打视频",
-      "onboard_time": 1767670641,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 686111,
       "num": 1402334,
       "word": "江苏卫视 听爽了",
@@ -705,6 +705,14 @@
       "onboard_time": 1767514043,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 644235,
+      "num": 644235,
+      "word": "新生儿被剪断手指事件双方达成和解",
+      "onboard_time": 1767670462,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 640705,
@@ -1291,6 +1299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 494287,
+      "num": 281799,
+      "word": "林屿森聂曦光开荤了",
+      "onboard_time": 1767668480,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 493980,
       "num": 1093193,
       "word": "长期戴眼镜导致的面部变化",
@@ -1563,6 +1579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 449226,
+      "num": 449226,
+      "word": "鳌太线",
+      "onboard_time": 1767669201,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 448150,
       "num": 284233,
       "word": "鳌太线失联4人1人获救2死1坠崖",
@@ -1601,14 +1625,6 @@
       "onboard_time": 1767415407,
       "rank": 32,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 441157,
-      "num": 281799,
-      "word": "林屿森聂曦光开荤了",
-      "onboard_time": 1767668480,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 439304,
@@ -1697,14 +1713,6 @@
       "onboard_time": 1767427524,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 420533,
-      "num": 420533,
-      "word": "鳌太线",
-      "onboard_time": 1767669201,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 420432,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767602241,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 326826,
-      "num": 326826,
-      "word": "酒店的床上为什么要放四个枕头",
-      "onboard_time": 1767481939,
-      "rank": 13,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [
@@ -2454,6 +2454,9 @@
     },
     {
       "word": "#习近平同李在明会谈#"
+    },
+    {
+      "word": "#2026元首外交开局#"
     }
   ]
 }
