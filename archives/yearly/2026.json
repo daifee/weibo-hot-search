@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767710972514,
+  "endTime": 1767713542531,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -243,6 +243,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1080478,
+      "num": 187327,
+      "word": "白鹿给闺蜜呵呵买车",
+      "onboard_time": 1767711022,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1076314,
       "num": 1018912,
       "word": "个人存取款超5万元不再登记",
@@ -401,6 +409,14 @@
       "onboard_time": 1767527961,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 909156,
+      "num": 246596,
+      "word": "日本加强对色情行业监督",
+      "onboard_time": 1767710245,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 906835,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767492802,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 377712,
-      "num": 1790908,
-      "word": "老板承诺每人奖一台车不该被绑架",
-      "onboard_time": 1767431664,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 375440,
-      "num": 375440,
-      "word": "载有马杜罗飞机抵达纽约",
-      "onboard_time": 1767482239,
-      "rank": 31,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [

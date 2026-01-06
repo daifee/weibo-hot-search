@@ -1,6 +1,6 @@
 {
   "startTime": 1767631011864,
-  "endTime": 1767710972514,
+  "endTime": 1767713542531,
   "band_list": [
     {
       "raw_hot": 2133729,
@@ -59,6 +59,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1080478,
+      "num": 187327,
+      "word": "白鹿给闺蜜呵呵买车",
+      "onboard_time": 1767711022,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1070936,
       "num": 496434,
       "word": "李在镕在北京买了100个labubu",
@@ -105,6 +113,14 @@
       "onboard_time": 1767663201,
       "rank": 0,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 909156,
+      "num": 246596,
+      "word": "日本加强对色情行业监督",
+      "onboard_time": 1767710245,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 906835,
@@ -699,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 302749,
+      "num": 186462,
+      "word": "贝儿看见陆毅突然变老哭了",
+      "onboard_time": 1767711504,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 302341,
       "num": 302341,
       "word": "西施FMVP星传说皮肤",
@@ -843,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252136,
+      "num": 252136,
+      "word": "撞死3口人凶手父亲想儿子赡养受害方",
+      "onboard_time": 1767710484,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252110,
       "num": 215820,
       "word": "逍遥大结局",
@@ -881,14 +913,6 @@
       "onboard_time": 1767696500,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 237983,
-      "num": 237983,
-      "word": "日本加强对色情行业监督",
-      "onboard_time": 1767710245,
-      "rank": 4,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 237708,
@@ -1035,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211374,
+      "num": 250650,
+      "word": "台战机失事飞行员跳伞搜救中",
+      "onboard_time": 1767709283,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 210363,
       "num": 463331,
       "word": "男子8.2万买的卡皮巴拉到货后死亡",
@@ -1065,6 +1097,14 @@
       "onboard_time": 1767658940,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206239,
+      "num": 206239,
+      "word": "多地取消高一高二年期末统考",
+      "onboard_time": 1767711504,
+      "rank": 7,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 205416,
@@ -1403,12 +1443,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 160957,
+      "num": 160957,
+      "word": "英法德意等欧洲七国领导人联合声明",
+      "onboard_time": 1767711323,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 160946,
       "num": 114952,
       "word": "秦霄贤直播",
       "onboard_time": 1767620302,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160250,
+      "num": 190065,
+      "word": "玉茗茶骨去父留女",
+      "onboard_time": 1767710245,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 159715,
@@ -1425,6 +1481,14 @@
       "onboard_time": 1767669141,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159591,
+      "num": 159591,
+      "word": "很小众的过敏源",
+      "onboard_time": 1767711383,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 157726,
@@ -1449,14 +1513,6 @@
       "onboard_time": 1767699021,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 156395,
-      "num": 250650,
-      "word": "台战机失事飞行员跳伞搜救中",
-      "onboard_time": 1767709283,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 153754,
@@ -1499,12 +1555,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 149343,
-      "num": 149343,
-      "word": "玉茗茶骨去父留女",
-      "onboard_time": 1767710245,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 149253,
+      "num": 189010,
+      "word": "印度最干净城市遭粪水污染",
+      "onboard_time": 1767708862,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 148400,
@@ -2011,14 +2067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121183,
-      "num": 121183,
-      "word": "印度最干净城市遭粪水污染",
-      "onboard_time": 1767708862,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 120878,
       "num": 120878,
       "word": "李在明晒中国行视频",
@@ -2049,6 +2097,14 @@
       "onboard_time": 1767680600,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119595,
+      "num": 119595,
+      "word": "骄阳似我这个吻亲得好响",
+      "onboard_time": 1767711623,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 119269,
@@ -2113,6 +2169,14 @@
       "onboard_time": 1767709403,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 115719,
+      "num": 115719,
+      "word": "宋威龙壁纸",
+      "onboard_time": 1767712583,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 115645,
@@ -2443,6 +2507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99885,
+      "num": 115683,
+      "word": "小狗害怕打针被吓成了小海豹",
+      "onboard_time": 1767713121,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99264,
       "num": 99264,
       "word": "内蒙古一场雪看到大地血脉",
@@ -2676,7 +2748,7 @@
     },
     {
       "raw_hot": 91216,
-      "num": 154504,
+      "num": 161623,
       "word": "被武大靖的奖牌墙震撼了",
       "onboard_time": 1767709644,
       "rank": 42,
@@ -2979,6 +3051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74778,
+      "num": 115530,
+      "word": "长城汽车员工证实取消大小周",
+      "onboard_time": 1767712043,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 74468,
       "num": 74468,
       "word": "伊朗",
@@ -2995,12 +3075,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72950,
+      "num": 115483,
+      "word": "一个执行力非常恐怖的人",
+      "onboard_time": 1767711383,
+      "rank": 47,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 72047,
       "num": 114858,
       "word": "庄序 自卑",
       "onboard_time": 1767630679,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 71912,
+      "num": 115469,
+      "word": "马克龙不支持也不赞同美国",
+      "onboard_time": 1767711923,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 71660,
@@ -3100,7 +3196,7 @@
     },
     {
       "raw_hot": 59197,
-      "num": 635823,
+      "num": 658416,
       "word": "元旦假期文旅消费近848亿元",
       "onboard_time": 1767708805,
       "rank": 2,
@@ -3217,14 +3313,6 @@
       "onboard_time": 1767692841,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 48886,
-      "num": 155471,
-      "word": "撞死3口人凶手父亲想儿子赡养受害方",
-      "onboard_time": 1767710484,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48691,
@@ -3489,6 +3577,14 @@
       "onboard_time": 1767672621,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30175,
+      "num": 187666,
+      "word": "中方正研究收紧对日稀土出口许可审查",
+      "onboard_time": 1767712883,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 30117,
