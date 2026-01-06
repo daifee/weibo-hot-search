@@ -1,10 +1,10 @@
 {
   "startTime": 1767717567538,
-  "endTime": 1767742156498,
+  "endTime": 1767742926423,
   "band_list": [
     {
       "raw_hot": 525471,
-      "num": 835186,
+      "num": 926924,
       "word": "多地取消高一高二年期末统考",
       "onboard_time": 1767711504,
       "rank": 0,
@@ -19,8 +19,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 406686,
-      "num": 607991,
+      "raw_hot": 453795,
+      "num": 684450,
       "word": "英法德意等欧洲七国领导人联合声明",
       "onboard_time": 1767711323,
       "rank": 3,
@@ -33,6 +33,14 @@
       "onboard_time": 1767702143,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 319935,
+      "num": 319935,
+      "word": "医院通报收费员玩手机致多人排队",
+      "onboard_time": 1767741256,
+      "rank": 5,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 293476,
@@ -51,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230614,
+      "num": 108053,
+      "word": "马克龙的表态变了",
+      "onboard_time": 1767742700,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 226652,
       "num": 186336,
       "word": "林屿森聂曦光完全动情了发狠了",
@@ -59,8 +75,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194308,
-      "num": 194308,
+      "raw_hot": 201042,
+      "num": 103259,
+      "word": "白月梵星",
+      "onboard_time": 1767742037,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199159,
+      "num": 199159,
       "word": "1盒内存条堪比上海1套房",
       "onboard_time": 1767702321,
       "rank": 4,
@@ -75,20 +99,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177360,
-      "num": 177360,
-      "word": "医院通报收费员玩手机致多人排队",
-      "onboard_time": 1767741256,
-      "rank": 5,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 172652,
-      "num": 103259,
-      "word": "白月梵星",
-      "onboard_time": 1767742037,
-      "rank": 11,
-      "category": "剧集"
+      "raw_hot": 167284,
+      "num": 95905,
+      "word": "特朗普扑向委石油遭美巨头打脸",
+      "onboard_time": 1767742879,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 166749,
@@ -97,6 +113,14 @@
       "onboard_time": 1767690320,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 165829,
+      "num": 165829,
+      "word": "小米KOL事件经办人员被辞退",
+      "onboard_time": 1767742037,
+      "rank": 7,
+      "category": "互联网"
     },
     {
       "raw_hot": 146303,
@@ -131,27 +155,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130675,
+      "num": 189599,
+      "word": "男子自带3瓶茅台全被服务员调包",
+      "onboard_time": 1767700341,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129929,
       "num": 193410,
       "word": "上海下雪",
       "onboard_time": 1767700522,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127055,
-      "num": 127055,
-      "word": "小米KOL事件经办人员被辞退",
-      "onboard_time": 1767742037,
-      "rank": 7,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 122003,
-      "num": 189599,
-      "word": "男子自带3瓶茅台全被服务员调包",
-      "onboard_time": 1767700341,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -187,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102970,
+      "num": 72086,
+      "word": "鞠婧祎断更",
+      "onboard_time": 1767742037,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102269,
       "num": 121454,
       "word": "林屿森把女儿送回去",
@@ -211,6 +235,14 @@
       "category": "电竞,艺人"
     },
     {
+      "raw_hot": 93609,
+      "num": 99485,
+      "word": "部分城市试管婴儿越做越火",
+      "onboard_time": 1767706942,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86550,
       "num": 188965,
       "word": "中方正研究收紧对日稀土出口许可审查",
@@ -220,19 +252,11 @@
     },
     {
       "raw_hot": 85779,
-      "num": 51520,
+      "num": 72043,
       "word": "央行明确2026年七大重点工作",
       "onboard_time": 1767738375,
       "rank": 30,
       "category": "财经"
-    },
-    {
-      "raw_hot": 85500,
-      "num": 99485,
-      "word": "部分城市试管婴儿越做越火",
-      "onboard_time": 1767706942,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 85356,
@@ -243,7 +267,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 84343,
+      "raw_hot": 85196,
+      "num": 72085,
+      "word": "北京朝霞",
+      "onboard_time": 1767742879,
+      "rank": 26,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 84997,
       "num": 180677,
       "word": "玉茗茶骨去父留女",
       "onboard_time": 1767710245,
@@ -251,12 +283,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 80558,
-      "num": 50522,
-      "word": "鞠婧祎断更",
-      "onboard_time": 1767742037,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 79782,
+      "num": 72058,
+      "word": "小米许斐徐洁云被取消2025年度奖金",
+      "onboard_time": 1767741797,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 77237,
@@ -324,11 +356,19 @@
     },
     {
       "raw_hot": 68844,
-      "num": 49644,
+      "num": 63339,
       "word": "女演员自曝因没背景被换角",
       "onboard_time": 1767699621,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66262,
+      "num": 100090,
+      "word": "多地裁判文书隐去法官姓名和案号",
+      "onboard_time": 1767704541,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65898,
@@ -347,20 +387,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 62683,
-      "num": 100090,
-      "word": "多地裁判文书隐去法官姓名和案号",
-      "onboard_time": 1767704541,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60881,
       "num": 100730,
       "word": "字节跳动实习生涨薪最高日薪500元",
       "onboard_time": 1767701301,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 59981,
+      "num": 59981,
+      "word": "降准降息可期",
+      "onboard_time": 1767741739,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 58202,
@@ -395,19 +435,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 51097,
+      "num": 51097,
+      "word": "小米判定接触相关KOL属于严重违规",
+      "onboard_time": 1767741558,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 50073,
       "num": 99604,
       "word": "30克周大福黄金在三亚能省近万元",
       "onboard_time": 1767714802,
       "rank": 40,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 49726,
-      "num": 49146,
-      "word": "降准降息可期",
-      "onboard_time": 1767741739,
-      "rank": 32,
       "category": "财经"
     },
     {
@@ -417,6 +457,14 @@
       "onboard_time": 1767711383,
       "rank": 42,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 47439,
+      "num": 47439,
+      "word": "庄序释怀了",
+      "onboard_time": 1767742579,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 47142,
@@ -443,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45256,
+      "num": 100177,
+      "word": "网友触摸疑似布病流产羊羔",
+      "onboard_time": 1767696742,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44328,
       "num": 99619,
       "word": "荣耀水晶如何免费获取",
@@ -451,20 +507,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 43540,
-      "num": 100177,
-      "word": "网友触摸疑似布病流产羊羔",
-      "onboard_time": 1767696742,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 42846,
+      "num": 42846,
+      "word": "武大靖曾坦言生活不能自理",
+      "onboard_time": 1767742579,
+      "rank": 40,
+      "category": "体育"
     },
     {
-      "raw_hot": 38949,
-      "num": 49142,
-      "word": "小米许斐徐洁云被取消2025年度奖金",
-      "onboard_time": 1767741797,
-      "rank": 36,
-      "category": "互联网"
+      "raw_hot": 41947,
+      "num": 41947,
+      "word": "恋与深空",
+      "onboard_time": 1767742519,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 39264,
+      "num": 49134,
+      "word": "赵今麦夸宋威龙富有且慷慨",
+      "onboard_time": 1767730213,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 38936,
@@ -473,6 +537,14 @@
       "onboard_time": 1767713121,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 38632,
+      "num": 40236,
+      "word": "七七回应进组",
+      "onboard_time": 1767742760,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 37399,
@@ -499,14 +571,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 33118,
-      "num": 49134,
-      "word": "赵今麦夸宋威龙富有且慷慨",
-      "onboard_time": 1767730213,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 32757,
       "num": 437289,
       "word": "元旦假期文旅消费近848亿元",
@@ -523,12 +587,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 27960,
-      "num": 49127,
-      "word": "小米判定接触相关KOL属于严重违规",
-      "onboard_time": 1767741558,
-      "rank": 49,
-      "category": "互联网"
+      "raw_hot": 27042,
+      "num": 524767,
+      "word": "家电以旧换新1.92亿台",
+      "onboard_time": 1767708022,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25619,
@@ -537,14 +601,6 @@
       "onboard_time": 1767727814,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 22525,
-      "num": 467759,
-      "word": "家电以旧换新1.92亿台",
-      "onboard_time": 1767708022,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19751,
