@@ -1,6 +1,6 @@
 {
   "startTime": 1767631011864,
-  "endTime": 1767692944594,
+  "endTime": 1767695615284,
   "band_list": [
     {
       "raw_hot": 2133729,
@@ -51,6 +51,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1099339,
+      "num": 413885,
+      "word": "骄阳似我大结局",
+      "onboard_time": 1767694461,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1070936,
       "num": 496434,
       "word": "李在镕在北京买了100个labubu",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 985682,
-      "num": 166928,
+      "num": 170070,
       "word": "白百何还回来当女明星吗",
       "onboard_time": 1767686122,
       "rank": 20,
@@ -132,11 +140,19 @@
     },
     {
       "raw_hot": 811408,
-      "num": 167618,
+      "num": 167976,
       "word": "日本梅毒",
       "onboard_time": 1767690320,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 791306,
+      "num": 174001,
+      "word": "月薪一万的工作强度",
+      "onboard_time": 1767692300,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 725384,
@@ -403,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 396541,
+      "num": 396541,
+      "word": "二婚妻子收15万彩礼后称要丁克",
+      "onboard_time": 1767691641,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 396363,
       "num": 246823,
       "word": "交警喊话罚罪2",
@@ -435,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 348644,
+      "num": 544456,
+      "word": "1家3口被撞亡父母患上抑郁症",
+      "onboard_time": 1767690320,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 346918,
       "num": 183043,
       "word": "四大顶级扛剧花",
@@ -457,6 +489,14 @@
       "onboard_time": 1767689121,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 321623,
+      "num": 321623,
+      "word": "骄阳似我",
+      "onboard_time": 1767694461,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 321572,
@@ -524,7 +564,7 @@
     },
     {
       "raw_hot": 292587,
-      "num": 213548,
+      "num": 214433,
       "word": "白鹿这首离婚的歌听了388遍",
       "onboard_time": 1767689960,
       "rank": 12,
@@ -540,7 +580,7 @@
     },
     {
       "raw_hot": 286637,
-      "num": 286637,
+      "num": 450333,
       "word": "专家回应日本梅毒扩散",
       "onboard_time": 1767688042,
       "rank": 34,
@@ -553,6 +593,14 @@
       "onboard_time": 1767621802,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 263986,
+      "num": 227274,
+      "word": "骄阳似我的庆功宴",
+      "onboard_time": 1767695061,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 263388,
@@ -619,12 +667,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 230896,
+      "num": 230896,
+      "word": "何老师带过最难带的学生出现了",
+      "onboard_time": 1767689960,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230889,
       "num": 230889,
       "word": "父母相继离世女儿报丧村书记发声",
       "onboard_time": 1767667941,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229288,
+      "num": 146187,
+      "word": "王一博肖战张凌赫男明星最佳穿搭",
+      "onboard_time": 1767694402,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 220600,
@@ -636,11 +700,19 @@
     },
     {
       "raw_hot": 219101,
-      "num": 219101,
+      "num": 443755,
       "word": "外交部回应马杜罗不认罪",
       "onboard_time": 1767687921,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 218142,
+      "num": 136255,
+      "word": "张翰已被冻结165万股权",
+      "onboard_time": 1767691702,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 216007,
@@ -657,6 +729,14 @@
       "onboard_time": 1767620302,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 214728,
+      "num": 132709,
+      "word": "魏建军宣布新平台命名归元",
+      "onboard_time": 1767694222,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 213664,
@@ -692,7 +772,7 @@
     },
     {
       "raw_hot": 207254,
-      "num": 207254,
+      "num": 436033,
       "word": "一笙长文告别狼队",
       "onboard_time": 1767691820,
       "rank": 40,
@@ -713,14 +793,6 @@
       "onboard_time": 1767676461,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 205354,
-      "num": 193990,
-      "word": "何老师带过最难带的学生出现了",
-      "onboard_time": 1767689960,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 201165,
@@ -787,14 +859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193013,
-      "num": 193013,
-      "word": "二婚妻子收15万彩礼后称要丁克",
-      "onboard_time": 1767691641,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 189774,
       "num": 189774,
       "word": "明兰学会了林小娘的做派",
@@ -827,14 +891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184325,
-      "num": 217871,
-      "word": "1家3口被撞亡父母患上抑郁症",
-      "onboard_time": 1767690320,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183815,
       "num": 183815,
       "word": "史上最牛毕业设计",
@@ -865,6 +921,14 @@
       "onboard_time": 1767664880,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 179614,
+      "num": 179614,
+      "word": "国产剧里的恶魔有脸了",
+      "onboard_time": 1767694640,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 179317,
@@ -1009,14 +1073,6 @@
       "onboard_time": 1767688700,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 157129,
-      "num": 157129,
-      "word": "月薪一万的工作强度",
-      "onboard_time": 1767692300,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 153754,
@@ -1299,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127879,
+      "num": 127879,
+      "word": "吃完垃圾食品记得吃解药",
+      "onboard_time": 1767694160,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127790,
       "num": 127790,
       "word": "娜扎安慰余茵不要被别人影响心态",
@@ -1571,6 +1635,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 115557,
+      "num": 115557,
+      "word": "女子犯罪获刑四年后4次怀孕",
+      "onboard_time": 1767693441,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115417,
       "num": 156302,
       "word": "女子花8.5万买爱马仕发现五金磨损",
@@ -1617,6 +1689,14 @@
       "onboard_time": 1767653837,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 112324,
+      "num": 112324,
+      "word": "Faker不让Chovy打中单",
+      "onboard_time": 1767693441,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 111234,
@@ -1731,12 +1811,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 105939,
+      "num": 105939,
+      "word": "小城大事不是大城小事",
+      "onboard_time": 1767695061,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105805,
       "num": 105805,
       "word": "为什么有些人的脑子反应快",
       "onboard_time": 1767680540,
       "rank": 38,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 105740,
+      "num": 105740,
+      "word": "突然不爱了很正常",
+      "onboard_time": 1767693321,
+      "rank": 43,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 105112,
@@ -1761,6 +1857,14 @@
       "onboard_time": 1767689602,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 104541,
+      "num": 104541,
+      "word": "马思纯和杨紫聊过想演双女主电影",
+      "onboard_time": 1767694940,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 104505,
@@ -1899,12 +2003,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 95016,
-      "num": 135269,
-      "word": "张翰已被冻结165万股权",
-      "onboard_time": 1767691702,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 94711,
+      "num": 158713,
+      "word": "河北农村取暖气价高补贴被砍",
+      "onboard_time": 1767692781,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94498,
@@ -1915,12 +2019,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94251,
+      "num": 94251,
+      "word": "张杰 又见杰式苦情歌",
+      "onboard_time": 1767695240,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 94130,
       "num": 94130,
       "word": "逍遥 循环",
       "onboard_time": 1767681441,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92973,
+      "num": 92973,
+      "word": "发展中国家要警惕美国远程殖民",
+      "onboard_time": 1767693623,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 92483,
@@ -2177,6 +2297,14 @@
       "onboard_time": 1767610102,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61652,
+      "num": 178632,
+      "word": "李在明抵沪继续中国之行",
+      "onboard_time": 1767695181,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 61509,
@@ -2515,6 +2643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33838,
+      "num": 641902,
+      "word": "元旦假期交通出行5.95亿人次",
+      "onboard_time": 1767693021,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33227,
       "num": 172979,
       "word": "老人火车座位被占不好意思要回",
@@ -2577,6 +2713,14 @@
       "onboard_time": 1767688220,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26331,
+      "num": 112409,
+      "word": "中国记者提问联合国现实意义",
+      "onboard_time": 1767695420,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26239,
@@ -2683,14 +2827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 14590,
-      "num": 158713,
-      "word": "河北农村取暖气价高补贴被砍",
-      "onboard_time": 1767692781,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 12588,
       "num": 43549,
       "word": "CBA",
@@ -2713,6 +2849,14 @@
       "onboard_time": 1767672322,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7230,
+      "num": 113681,
+      "word": "顾漫有点太懂爽文桥段了",
+      "onboard_time": 1767695302,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 6886,
