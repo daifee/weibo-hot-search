@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767672401069,
+  "endTime": 1767675503370,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -89,6 +89,14 @@
       "onboard_time": 1767459021,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1485815,
+      "num": 684333,
+      "word": "日本梅毒扩散",
+      "onboard_time": 1767661942,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1469509,
@@ -249,14 +257,6 @@
       "onboard_time": 1767495020,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1016572,
-      "num": 265948,
-      "word": "日本梅毒扩散",
-      "onboard_time": 1767661942,
-      "rank": 20,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1013556,
@@ -635,6 +635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 724264,
+      "num": 683928,
+      "word": "西贝服务员工资条",
+      "onboard_time": 1767672261,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 706424,
       "num": 819667,
       "word": "女子住店拉开窗帘竟是泳池水底",
@@ -785,6 +793,14 @@
       "onboard_time": 1767195508,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 610292,
+      "num": 610292,
+      "word": "印度高调宣布大米产量超越中国",
+      "onboard_time": 1767673462,
+      "rank": 5,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 609117,
@@ -1081,6 +1097,14 @@
       "onboard_time": 1767432264,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 521966,
+      "num": 233387,
+      "word": "向太回应方媛被骂",
+      "onboard_time": 1767673881,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 521015,
@@ -1456,6 +1480,14 @@
       "word": "新年快乐图片",
       "onboard_time": 1767198625,
       "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 470247,
+      "num": 470247,
+      "word": "婚礼电子请柬 访客记录",
+      "onboard_time": 1767672503,
+      "rank": 7,
       "category": "情感"
     },
     {
@@ -1867,6 +1899,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 396363,
+      "num": 246823,
+      "word": "交警喊话罚罪2",
+      "onboard_time": 1767672022,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 395944,
       "num": 207881,
       "word": "秦霄贤直播",
@@ -2251,6 +2291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 349513,
+      "num": 219524,
+      "word": "27岁健身教练精子畸形率超90%",
+      "onboard_time": 1767675021,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 348710,
       "num": 542164,
       "word": "刘亦菲李现去有风的地方开播三周年",
@@ -2353,54 +2401,6 @@
       "onboard_time": 1767661640,
       "rank": 7,
       "category": "数码"
-    },
-    {
-      "raw_hot": 335136,
-      "num": 875497,
-      "word": "樊振东vs户上隼辅",
-      "onboard_time": 1767528023,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 333610,
-      "num": 993169,
-      "word": "长河落日开播",
-      "onboard_time": 1767272301,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 329021,
-      "num": 329021,
-      "word": "LABUBU不用抢了",
-      "onboard_time": 1767594501,
-      "rank": 9,
-      "category": "休闲"
-    },
-    {
-      "raw_hot": 328050,
-      "num": 253515,
-      "word": "曝TOP登陆少年重组",
-      "onboard_time": 1767526404,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 327424,
-      "num": 209337,
-      "word": "外交部回应中国委内瑞拉石油合作",
-      "onboard_time": 1767605721,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 327097,
-      "num": 269337,
-      "word": "6国发表联合声明强烈谴责美国",
-      "onboard_time": 1767602241,
-      "rank": 38,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767672401069,
+  "endTime": 1767675503370,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -33,6 +33,14 @@
       "onboard_time": 1767459021,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1485815,
+      "num": 684333,
+      "word": "日本梅毒扩散",
+      "onboard_time": 1767661942,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1469509,
@@ -129,14 +137,6 @@
       "onboard_time": 1767495020,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1016572,
-      "num": 265948,
-      "word": "日本梅毒扩散",
-      "onboard_time": 1767661942,
-      "rank": 20,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1013556,
@@ -411,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 724264,
+      "num": 683928,
+      "word": "西贝服务员工资条",
+      "onboard_time": 1767672261,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 704277,
       "num": 585143,
       "word": "骄阳似我30集封神",
@@ -497,6 +505,14 @@
       "onboard_time": 1767489323,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 610292,
+      "num": 610292,
+      "word": "印度高调宣布大米产量超越中国",
+      "onboard_time": 1767673462,
+      "rank": 5,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 604867,
@@ -657,6 +673,14 @@
       "onboard_time": 1767514523,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 521966,
+      "num": 233387,
+      "word": "向太回应方媛被骂",
+      "onboard_time": 1767673881,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 521015,
@@ -931,6 +955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 470247,
+      "num": 470247,
+      "word": "婚礼电子请柬 访客记录",
+      "onboard_time": 1767672503,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 469720,
       "num": 452205,
       "word": "田朴珺 王石",
@@ -1203,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 396363,
+      "num": 246823,
+      "word": "交警喊话罚罪2",
+      "onboard_time": 1767672022,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 395944,
       "num": 207881,
       "word": "秦霄贤直播",
@@ -1440,6 +1480,14 @@
       "word": "流落柬埔寨女网红父亲最新发声",
       "onboard_time": 1767583821,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 349513,
+      "num": 219524,
+      "word": "27岁健身教练精子畸形率超90%",
+      "onboard_time": 1767675021,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -1681,6 +1729,14 @@
       "onboard_time": 1767495682,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 308011,
+      "num": 894122,
+      "word": "格陵兰岛不想成美国的一部分",
+      "onboard_time": 1767670402,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 305119,
@@ -1947,6 +2003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268529,
+      "num": 268529,
+      "word": "三亚始祖鸟店排长队抢购秋冬款",
+      "onboard_time": 1767672621,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 268484,
       "num": 158863,
       "word": "跑男史上最安静的一期",
@@ -2121,6 +2185,22 @@
       "onboard_time": 1767460877,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 246836,
+      "num": 246836,
+      "word": "eStarPro官宣Fly加入",
+      "onboard_time": 1767674122,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 246769,
+      "num": 246769,
+      "word": "夫妻为娃争吵丈夫血管气炸40cm",
+      "onboard_time": 1767673281,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 245961,
@@ -2441,6 +2521,14 @@
       "onboard_time": 1767612380,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213631,
+      "num": 538920,
+      "word": "杜兰特绝杀太阳",
+      "onboard_time": 1767671781,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 212641,
@@ -2803,6 +2891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193286,
+      "num": 193286,
+      "word": "黄景瑜你的受众有点狠了",
+      "onboard_time": 1767674243,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193128,
       "num": 193128,
       "word": "张凌赫交摄影作品了",
@@ -2833,6 +2929,14 @@
       "onboard_time": 1767515422,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189774,
+      "num": 189774,
+      "word": "明兰学会了林小娘的做派",
+      "onboard_time": 1767673762,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 189347,
@@ -2899,6 +3003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186218,
+      "num": 186218,
+      "word": "向太说根本不存在名媛培训班",
+      "onboard_time": 1767675021,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186056,
       "num": 186056,
       "word": "邓紫棋直播",
@@ -2945,6 +3057,14 @@
       "onboard_time": 1767514642,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183815,
+      "num": 183815,
+      "word": "史上最牛毕业设计",
+      "onboard_time": 1767674844,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 183563,
@@ -3027,30 +3147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179042,
-      "num": 538920,
-      "word": "杜兰特绝杀太阳",
-      "onboard_time": 1767671781,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 178972,
-      "num": 287502,
-      "word": "格陵兰岛不想成美国的一部分",
-      "onboard_time": 1767670402,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 178459,
-      "num": 210640,
-      "word": "交警喊话罚罪2",
-      "onboard_time": 1767672022,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 177939,
       "num": 177939,
       "word": "人之初",
@@ -3107,6 +3203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175242,
+      "num": 229736,
+      "word": "23岁女导演坠亡2个朋友被带走调查",
+      "onboard_time": 1767671661,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174429,
       "num": 174429,
       "word": "周冠宇回应凯迪拉克官宣",
@@ -3153,6 +3257,14 @@
       "onboard_time": 1767600202,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 172950,
+      "num": 181789,
+      "word": "向华强说向佐郭碧婷没谈彩礼",
+      "onboard_time": 1767671542,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 172942,
@@ -3419,6 +3531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163634,
+      "num": 163634,
+      "word": "陈晓东11岁大女儿近照",
+      "onboard_time": 1767672203,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163633,
       "num": 296750,
       "word": "骄阳似我被各地文旅抢上了",
@@ -3499,14 +3619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158516,
-      "num": 158516,
-      "word": "西贝服务员工资条",
-      "onboard_time": 1767672261,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157997,
       "num": 157997,
       "word": "豆瓣好卡",
@@ -3545,14 +3657,6 @@
       "onboard_time": 1767482959,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 155507,
-      "num": 181789,
-      "word": "向华强说向佐郭碧婷没谈彩礼",
-      "onboard_time": 1767671542,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 155448,
@@ -3673,14 +3777,6 @@
       "onboard_time": 1767663861,
       "rank": 24,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 150694,
-      "num": 150694,
-      "word": "陈晓东11岁大女儿近照",
-      "onboard_time": 1767672203,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 150458,
@@ -3907,6 +4003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 141920,
+      "num": 141920,
+      "word": "KPL",
+      "onboard_time": 1767675442,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141400,
       "num": 141400,
       "word": "潇潇律师函",
@@ -3969,6 +4073,14 @@
       "onboard_time": 1767582201,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139879,
+      "num": 139879,
+      "word": "李在明自拍",
+      "onboard_time": 1767675442,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 139751,
@@ -5067,6 +5179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104325,
+      "num": 166685,
+      "word": "小鸟误入游泳馆定居一年变圆滚滚",
+      "onboard_time": 1767673222,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104157,
       "num": 176670,
       "word": "起底男婴疑被助产士剪断手指涉事医院",
@@ -6027,6 +6147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87445,
+      "num": 237989,
+      "word": "3.7万元在浙江当岛主",
+      "onboard_time": 1767674542,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87353,
       "num": 87353,
       "word": "小英否认怀孕",
@@ -6217,6 +6345,14 @@
       "onboard_time": 1767620480,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82950,
+      "num": 224224,
+      "word": "知情人称5人穿越鳌山原计划一日速穿",
+      "onboard_time": 1767674063,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82909,
@@ -6673,6 +6809,14 @@
       "onboard_time": 1767576380,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 66997,
+      "num": 239389,
+      "word": "残联回应残疾夫妇的孩子被烫伤去世",
+      "onboard_time": 1767674542,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66903,
@@ -7203,14 +7347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46715,
-      "num": 229736,
-      "word": "23岁女导演坠亡2个朋友被带走调查",
-      "onboard_time": 1767671661,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 46575,
       "num": 56733,
       "word": "山东男篮外援和主教练都被驱逐",
@@ -7241,6 +7377,14 @@
       "onboard_time": 1767492682,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 45089,
+      "num": 277118,
+      "word": "全域AI能给汽车带来什么",
+      "onboard_time": 1767670462,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 44850,
@@ -7531,6 +7675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 35160,
+      "num": 138657,
+      "word": "女孩连贴几晚暖宝宝三度烫伤",
+      "onboard_time": 1767673762,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34902,
       "num": 182346,
       "word": "渐冻症女孩用蔡磊新药一年站起来了",
@@ -7627,6 +7779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 33227,
+      "num": 172979,
+      "word": "老人火车座位被占不好意思要回",
+      "onboard_time": 1767674423,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33163,
       "num": 166400,
       "word": "上海一室内游乐场夹娃娃机放小动物",
@@ -7659,14 +7819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32038,
-      "num": 277118,
-      "word": "全域AI能给汽车带来什么",
-      "onboard_time": 1767670462,
-      "rank": 16,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 31820,
       "num": 119707,
       "word": "工地被指强制工人在食堂用餐",
@@ -7689,6 +7841,14 @@
       "onboard_time": 1767461658,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 30426,
+      "num": 712273,
+      "word": "元旦假期带动新年消费活力满满",
+      "onboard_time": 1767672621,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30331,
@@ -7963,6 +8123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19682,
+      "num": 173164,
+      "word": "同学称在柬坠亡女导演不像会轻生的人",
+      "onboard_time": 1767675382,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19415,
       "num": 121565,
       "word": "特朗普抓获马杜罗的前因后果",
@@ -7993,6 +8161,14 @@
       "onboard_time": 1767466155,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 16768,
+      "num": 228191,
+      "word": "李在明谈韩中关系最宝贵资产",
+      "onboard_time": 1767675262,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 16299,
