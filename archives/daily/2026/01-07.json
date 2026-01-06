@@ -1,6 +1,6 @@
 {
   "startTime": 1767717567538,
-  "endTime": 1767735841655,
+  "endTime": 1767738622970,
   "band_list": [
     {
       "raw_hot": 465142,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 226204,
-      "num": 226204,
+      "num": 309209,
       "word": "英法德意等欧洲七国领导人联合声明",
       "onboard_time": 1767711323,
       "rank": 3,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 78433,
-      "num": 52260,
+      "num": 65770,
       "word": "特朗普支持格陵兰岛独立",
       "onboard_time": 1767724275,
       "rank": 30,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 59048,
-      "num": 51518,
+      "num": 54246,
       "word": "委内瑞拉临时总统",
       "onboard_time": 1767724815,
       "rank": 18,
@@ -435,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26015,
+      "num": 51108,
+      "word": "周深香港演唱会",
+      "onboard_time": 1767714321,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 25619,
       "num": 38461,
       "word": "刘耀文录制第一天就开始期待骑马",
@@ -443,12 +451,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20084,
-      "num": 51108,
-      "word": "周深香港演唱会",
-      "onboard_time": 1767714321,
-      "rank": 48,
-      "category": "演出"
+      "raw_hot": 24379,
+      "num": 25652,
+      "word": "央行明确2026年七大重点工作",
+      "onboard_time": 1767738375,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 19751,
@@ -457,6 +465,14 @@
       "onboard_time": 1767721337,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 18261,
+      "num": 31625,
+      "word": "赵今麦夸宋威龙富有且慷慨",
+      "onboard_time": 1767730213,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 17732,
@@ -475,15 +491,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 16720,
-      "num": 31625,
-      "word": "赵今麦夸宋威龙富有且慷慨",
-      "onboard_time": 1767730213,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 11063,
+      "raw_hot": 12319,
       "num": 31381,
       "word": "刘宇宁直播",
       "onboard_time": 1767702081,
@@ -491,12 +499,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 10119,
-      "num": 114021,
+      "raw_hot": 11417,
+      "num": 234644,
       "word": "家电以旧换新1.92亿台",
       "onboard_time": 1767708022,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10275,
+      "num": 25610,
+      "word": "林孝埈获年度体育代言奖项",
+      "onboard_time": 1767737775,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
