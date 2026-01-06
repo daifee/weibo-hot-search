@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767666772964,
+  "endTime": 1767671589021,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1123252,
-      "num": 248475,
+      "num": 277647,
       "word": "马杜罗不认罪",
       "onboard_time": 1767654558,
       "rank": 5,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 1016572,
-      "num": 185375,
+      "num": 265948,
       "word": "日本梅毒扩散",
       "onboard_time": 1767661942,
       "rank": 20,
@@ -265,6 +265,14 @@
       "onboard_time": 1767579621,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 986767,
+      "num": 269688,
+      "word": "女明星为孩子挤痘致其脸缝四针",
+      "onboard_time": 1767668421,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 974878,
@@ -388,11 +396,19 @@
     },
     {
       "raw_hot": 854227,
-      "num": 186972,
+      "num": 266546,
       "word": "春晚彩排的明星",
       "onboard_time": 1767663501,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 847801,
+      "num": 269384,
+      "word": "冯提莫瘦了50斤",
+      "onboard_time": 1767670281,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 842337,
@@ -404,7 +420,7 @@
     },
     {
       "raw_hot": 839039,
-      "num": 255986,
+      "num": 279380,
       "word": "林屿森都显怀了庄序还没释怀",
       "onboard_time": 1767663142,
       "rank": 10,
@@ -625,6 +641,14 @@
       "onboard_time": 1767619281,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 690298,
+      "num": 1110447,
+      "word": "霸王茶姬已调查手打视频",
+      "onboard_time": 1767670641,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 686111,
@@ -1235,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 497492,
+      "num": 497492,
+      "word": "苹果马年微信红包封面来了",
+      "onboard_time": 1767667823,
+      "rank": 5,
+      "category": "数码"
+    },
+    {
       "raw_hot": 496892,
       "num": 474091,
       "word": "时代峰峻高会 泡泡",
@@ -1531,6 +1563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 448150,
+      "num": 284233,
+      "word": "鳌太线失联4人1人获救2死1坠崖",
+      "onboard_time": 1767664460,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 446960,
       "num": 459928,
       "word": "陈泽",
@@ -1561,6 +1601,14 @@
       "onboard_time": 1767415407,
       "rank": 32,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 441157,
+      "num": 281799,
+      "word": "林屿森聂曦光开荤了",
+      "onboard_time": 1767668480,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 439304,
@@ -1619,6 +1667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 429903,
+      "num": 832151,
+      "word": "特斯拉ModelYL首次推出5年0息",
+      "onboard_time": 1767666501,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 428471,
       "num": 1002713,
       "word": "电影偷偷藏不住官宣",
@@ -1641,6 +1697,14 @@
       "onboard_time": 1767427524,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 420533,
+      "num": 420533,
+      "word": "鳌太线",
+      "onboard_time": 1767669201,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 420432,
@@ -1761,6 +1825,14 @@
       "onboard_time": 1767364702,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 399540,
+      "num": 281140,
+      "word": "赵丽颖语文课本封面具象化",
+      "onboard_time": 1767667641,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 399356,
@@ -2329,78 +2401,6 @@
       "onboard_time": 1767481939,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 324453,
-      "num": 1051912,
-      "word": "闪迪股价飙涨559%",
-      "onboard_time": 1767340460,
-      "rank": 3,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 323701,
-      "num": 201214,
-      "word": "年会聚餐15个人分300克牛筋",
-      "onboard_time": 1767606562,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 323427,
-      "num": 222358,
-      "word": "导演猫的树这几个字还是太权威了",
-      "onboard_time": 1767619403,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 323418,
-      "num": 288111,
-      "word": "iPhone的计算器居然这么强大",
-      "onboard_time": 1767604102,
-      "rank": 7,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 323097,
-      "num": 310161,
-      "word": "哥伦比亚总统回怼特朗普威胁",
-      "onboard_time": 1767503901,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 322734,
-      "num": 1005291,
-      "word": "别人演现偶小三在演甄嬛传",
-      "onboard_time": 1767262160,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 321572,
-      "num": 70918,
-      "word": "三星掌门人李在镕在北京买LABUBU",
-      "onboard_time": 1767654558,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 320868,
-      "num": 320868,
-      "word": "偶遇余承恩带娃",
-      "onboard_time": 1767506723,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 320424,
-      "num": 320424,
-      "word": "委内瑞拉首都主干道空了",
-      "onboard_time": 1767577641,
-      "rank": 12,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [

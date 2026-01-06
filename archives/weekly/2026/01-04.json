@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767666772964,
+  "endTime": 1767671589021,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1123252,
-      "num": 248475,
+      "num": 277647,
       "word": "马杜罗不认罪",
       "onboard_time": 1767654558,
       "rank": 5,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1016572,
-      "num": 185375,
+      "num": 265948,
       "word": "日本梅毒扩散",
       "onboard_time": 1767661942,
       "rank": 20,
@@ -145,6 +145,14 @@
       "onboard_time": 1767579621,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 986767,
+      "num": 269688,
+      "word": "女明星为孩子挤痘致其脸缝四针",
+      "onboard_time": 1767668421,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 974878,
@@ -236,15 +244,23 @@
     },
     {
       "raw_hot": 854227,
-      "num": 186972,
+      "num": 266546,
       "word": "春晚彩排的明星",
       "onboard_time": 1767663501,
       "rank": 21,
       "category": "艺人"
     },
     {
+      "raw_hot": 847801,
+      "num": 269384,
+      "word": "冯提莫瘦了50斤",
+      "onboard_time": 1767670281,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 839039,
-      "num": 255986,
+      "num": 279380,
       "word": "林屿森都显怀了庄序还没释怀",
       "onboard_time": 1767663142,
       "rank": 10,
@@ -393,6 +409,14 @@
       "onboard_time": 1767619281,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 690298,
+      "num": 1110447,
+      "word": "霸王茶姬已调查手打视频",
+      "onboard_time": 1767670641,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 678667,
@@ -771,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 497492,
+      "num": 497492,
+      "word": "苹果马年微信红包封面来了",
+      "onboard_time": 1767667823,
+      "rank": 5,
+      "category": "数码"
+    },
+    {
       "raw_hot": 496892,
       "num": 474091,
       "word": "时代峰峻高会 泡泡",
@@ -947,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 448150,
+      "num": 284233,
+      "word": "鳌太线失联4人1人获救2死1坠崖",
+      "onboard_time": 1767664460,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 446960,
       "num": 459928,
       "word": "陈泽",
@@ -961,6 +1001,14 @@
       "onboard_time": 1767481699,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 441157,
+      "num": 281799,
+      "word": "林屿森聂曦光开荤了",
+      "onboard_time": 1767668480,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 439304,
@@ -1019,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 429903,
+      "num": 832151,
+      "word": "特斯拉ModelYL首次推出5年0息",
+      "onboard_time": 1767666501,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 426880,
       "num": 820928,
       "word": "委内瑞拉",
@@ -1033,6 +1089,14 @@
       "onboard_time": 1767527904,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 420533,
+      "num": 420533,
+      "word": "鳌太线",
+      "onboard_time": 1767669201,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 420432,
@@ -1113,6 +1177,14 @@
       "onboard_time": 1767502584,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 399540,
+      "num": 281140,
+      "word": "赵丽颖语文课本封面具象化",
+      "onboard_time": 1767667641,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 398227,
@@ -1668,7 +1740,7 @@
     },
     {
       "raw_hot": 297035,
-      "num": 184447,
+      "num": 203101,
       "word": "叶祖新我还是演戏吧不下海没天赋",
       "onboard_time": 1767663921,
       "rank": 23,
@@ -1721,6 +1793,14 @@
       "onboard_time": 1767520822,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 287910,
+      "num": 287910,
+      "word": "这种爱情至今为止内娱都没有演出来",
+      "onboard_time": 1767666023,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 284795,
@@ -1897,6 +1977,14 @@
       "onboard_time": 1767594382,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 263388,
+      "num": 263388,
+      "word": "沈腾确认回归春晚语言类节目",
+      "onboard_time": 1767669620,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 262904,
@@ -2331,6 +2419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215245,
+      "num": 215245,
+      "word": "父母相继离世女儿报丧村书记发声",
+      "onboard_time": 1767667941,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214272,
       "num": 214272,
       "word": "罗云熙我直接告诉你得了呗",
@@ -2691,6 +2787,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 193346,
+      "num": 525246,
+      "word": "900万大奖得主进店才知自己中奖",
+      "onboard_time": 1767662600,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193128,
       "num": 193128,
       "word": "张凌赫交摄影作品了",
@@ -2827,6 +2931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183563,
+      "num": 171359,
+      "word": "宋威龙赵今麦 很爽的图",
+      "onboard_time": 1767667340,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 183272,
       "num": 183272,
       "word": "海外网友吻上骄阳似我",
@@ -2899,20 +3011,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179838,
-      "num": 179838,
-      "word": "特斯拉ModelYL首次推出5年0息",
-      "onboard_time": 1767666501,
-      "rank": 27,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 177939,
       "num": 177939,
       "word": "人之初",
       "onboard_time": 1767492682,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177913,
+      "num": 177913,
+      "word": "女子患流感5天不摘隐形眼镜近乎融化",
+      "onboard_time": 1767666560,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176757,
@@ -2929,14 +3041,6 @@
       "onboard_time": 1767496043,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 176585,
-      "num": 176585,
-      "word": "女子患流感5天不摘隐形眼镜近乎融化",
-      "onboard_time": 1767666560,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 176212,
@@ -3307,12 +3411,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 161475,
+      "num": 272596,
+      "word": "拒绝彭于晏的女人出现了",
+      "onboard_time": 1767669441,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 161400,
       "num": 179589,
       "word": "德国杯",
       "onboard_time": 1767529824,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159691,
+      "num": 159691,
+      "word": "内娱首部洋葱剧来了",
+      "onboard_time": 1767669141,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 159672,
@@ -3387,14 +3507,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 155079,
-      "num": 155079,
-      "word": "这种爱情至今为止内娱都没有演出来",
-      "onboard_time": 1767666023,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 154287,
       "num": 154287,
       "word": "明白小说里的富家千金长什么样了",
@@ -3417,6 +3529,14 @@
       "onboard_time": 1767481878,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 153754,
+      "num": 153754,
+      "word": "苹果上架AirPodsPro3马年特别款",
+      "onboard_time": 1767668299,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 153278,
@@ -3675,6 +3795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 142907,
+      "num": 142907,
+      "word": "彭昱畅的权威我后知后觉",
+      "onboard_time": 1767670342,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 142718,
       "num": 253882,
       "word": "白鹿54套高定",
@@ -3712,6 +3840,14 @@
       "word": "JDG舞蹈串烧",
       "onboard_time": 1767528923,
       "rank": 28,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 141400,
+      "num": 141400,
+      "word": "潇潇律师函",
+      "onboard_time": 1767670101,
+      "rank": 36,
       "category": "电竞"
     },
     {
@@ -3825,6 +3961,14 @@
       "onboard_time": 1767513742,
       "rank": 46,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 137872,
+      "num": 498153,
+      "word": "林葳NCAA绝平三分",
+      "onboard_time": 1767667281,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 137417,
@@ -3963,6 +4107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133978,
+      "num": 133978,
+      "word": "陈星旭的胸口好多人啊",
+      "onboard_time": 1767669141,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132591,
       "num": 132591,
       "word": "你是彭于晏那我是谁",
@@ -4017,6 +4169,14 @@
       "onboard_time": 1767623784,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129117,
+      "num": 129117,
+      "word": "卢昱晓这就是你带出来的兵",
+      "onboard_time": 1767670941,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 128954,
@@ -4115,14 +4275,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 126887,
-      "num": 188658,
-      "word": "900万大奖得主进店才知自己中奖",
-      "onboard_time": 1767662600,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126782,
       "num": 126782,
       "word": "李晋晔是真害怕了",
@@ -4219,6 +4371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124375,
+      "num": 124375,
+      "word": "拼命考上的铁饭碗发现碗里没有饭",
+      "onboard_time": 1767669021,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 124222,
       "num": 134149,
       "word": "为啥有人吃车厘子拉肚子",
@@ -4265,6 +4425,14 @@
       "onboard_time": 1767602841,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 123374,
+      "num": 272435,
+      "word": "新生儿被剪断手指事件双方达成和解",
+      "onboard_time": 1767670462,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122971,
@@ -4321,6 +4489,14 @@
       "onboard_time": 1767517882,
       "rank": 34,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 121353,
+      "num": 134231,
+      "word": "骄阳似我婚后吻",
+      "onboard_time": 1767670701,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 121210,
@@ -4385,14 +4561,6 @@
       "onboard_time": 1767490162,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117450,
-      "num": 188151,
-      "word": "鳌太线失联4人1人获救2死1坠崖",
-      "onboard_time": 1767664460,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117362,
@@ -4657,6 +4825,14 @@
       "onboard_time": 1767481998,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 108927,
+      "num": 108927,
+      "word": "紫金矿业涨超6%",
+      "onboard_time": 1767671121,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 108848,
@@ -5073,6 +5249,14 @@
       "onboard_time": 1767531023,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 99107,
+      "num": 287502,
+      "word": "格陵兰岛不想成美国的一部分",
+      "onboard_time": 1767670402,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 98904,
@@ -6275,6 +6459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74511,
+      "num": 124980,
+      "word": "向华强说向佐郭碧婷没谈彩礼",
+      "onboard_time": 1767671542,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74468,
       "num": 74468,
       "word": "伊朗",
@@ -7187,6 +7379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 37802,
+      "num": 274718,
+      "word": "何小鹏零下20度冬测P7+和G7",
+      "onboard_time": 1767668960,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 37068,
       "num": 100997,
       "word": "几毛钱学的AI魔改1条能赚上千",
@@ -7369,6 +7569,14 @@
       "onboard_time": 1767625402,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32038,
+      "num": 277118,
+      "word": "全域AI能给汽车带来什么",
+      "onboard_time": 1767670462,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 31820,
@@ -7585,6 +7793,14 @@
       "onboard_time": 1767492921,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 21819,
+      "num": 135631,
+      "word": "老人痴迷保健品偷偷给生病小孙子吃",
+      "onboard_time": 1767670701,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21782,
