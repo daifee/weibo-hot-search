@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/06 21:13:46
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/06 21:44:26
 </p>
 </blockquote>
 <p>
@@ -351,6 +351,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E6%9A%B4%E8%B7%8C%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%23" target="weibo">
+车厘子暴跌第一批受害者出现（热度：868378）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%8D%A0%E9%A2%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%23" target="weibo">
 特朗普称将占领管理委内瑞拉（热度：868006）
 </a>
@@ -413,12 +419,6 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%B8%B8%E9%BB%84%E5%B1%B1%E9%AB%98%E5%9D%A0%E6%AD%BB%E4%BA%A1%E8%B0%81%E5%91%BC%E5%87%BA%E7%9A%84%E7%94%B5%E8%AF%9D%23" target="weibo">
 女生游黄山高坠死亡谁呼出的电话（热度：810815）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E6%9A%B4%E8%B7%8C%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%23" target="weibo">
-车厘子暴跌第一批受害者出现（热度：794412）
 </a>
 </li>
 
@@ -831,6 +831,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%231%E7%9B%92%E5%86%85%E5%AD%98%E6%9D%A1%E5%A0%AA%E6%AF%94%E4%B8%8A%E6%B5%B71%E5%A5%97%E6%88%BF%23" target="weibo">
+1盒内存条堪比上海1套房（热度：571728）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%89%AA%E6%96%AD%E7%94%B7%E5%A9%B4%E6%89%8B%E6%8C%87%E5%8A%A9%E4%BA%A7%E5%A3%AB%E5%B7%B2%E5%81%9C%E8%81%8C%23" target="weibo">
 剪断男婴手指助产士已停职（热度：563322）
 </a>
@@ -1137,6 +1143,12 @@ TVB颁奖典礼（热度：518643）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B5%81%E8%A1%8C%E6%A2%85%E6%AF%92%E5%A6%86%23" target="weibo">
+日本流行梅毒妆（热度：492735）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232026%E5%A3%81%E7%BA%B8%23" target="weibo">
 2026壁纸（热度：488298）
 </a>
@@ -1199,6 +1211,12 @@ TVB颁奖典礼（热度：518643）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%E8%BF%9E%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E9%83%BD%E5%B0%8A%E9%87%8D%E8%A7%82%E4%BC%97%23" target="weibo">
 骄阳似我连聊天记录都尊重观众（热度：479487）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A421%E5%B9%B4%E5%8F%AA%E6%8B%8D%E4%BA%86%E4%B8%80%E9%83%A8%E6%88%8F%23" target="weibo">
+关晓彤21年只拍了一部戏（热度：478191）
 </a>
 </li>
 
@@ -1275,12 +1293,6 @@ iPhone千万别删的自带软件（热度：474519）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%231%E7%9B%92%E5%86%85%E5%AD%98%E6%9D%A1%E5%A0%AA%E6%AF%94%E4%B8%8A%E6%B5%B71%E5%A5%97%E6%88%BF%23" target="weibo">
-1盒内存条堪比上海1套房（热度：465688）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%87%AA%E6%8B%8D%23" target="weibo">
 李在明自拍（热度：463917）
 </a>
@@ -1349,12 +1361,6 @@ iPhone千万别删的自带软件（热度：474519）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E4%BA%8C%E5%8D%96%E4%B8%8D%E5%8A%A8%E9%85%B8%E8%8F%9C%E9%B1%BC%E4%BA%86%23" target="weibo">
 太二卖不动酸菜鱼了（热度：454130）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B5%81%E8%A1%8C%E6%A2%85%E6%AF%92%E5%A6%86%23" target="weibo">
-日本流行梅毒妆（热度：452704）
 </a>
 </li>
 
@@ -1431,14 +1437,14 @@ iPhone千万别删的自带软件（热度：474519）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A421%E5%B9%B4%E5%8F%AA%E6%8B%8D%E4%BA%86%E4%B8%80%E9%83%A8%E6%88%8F%23" target="weibo">
-关晓彤21年只拍了一部戏（热度：439485）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%95%E5%AE%8C%E7%BB%BC%E8%89%BA%E6%80%BB%E8%A3%81%E7%88%B6%E4%BA%B2%E4%B8%BB%E5%8A%A8%E5%90%91%E5%A5%B3%E5%84%BF%E9%81%93%E6%AD%89%23" target="weibo">
+录完综艺总裁父亲主动向女儿道歉（热度：439304）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%95%E5%AE%8C%E7%BB%BC%E8%89%BA%E6%80%BB%E8%A3%81%E7%88%B6%E4%BA%B2%E4%B8%BB%E5%8A%A8%E5%90%91%E5%A5%B3%E5%84%BF%E9%81%93%E6%AD%89%23" target="weibo">
-录完综艺总裁父亲主动向女儿道歉（热度：439304）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E%E7%9A%84%E6%81%8B%E7%BB%BC%E5%A5%B3%E5%98%89%E5%AE%BE%23" target="weibo">
+史上最受欢迎的恋综女嘉宾（热度：438610）
 </a>
 </li>
 
@@ -1553,6 +1559,12 @@ iPhone千万别删的自带软件（热度：474519）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E9%93%81%E5%90%AB%E9%87%8F%E8%B6%85%E6%9F%91%E6%A9%9810%E5%80%8D%23" target="weibo">
 车厘子铁含量超柑橘10倍（热度：411474）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232025%E5%B9%B4%E5%BA%A6%E6%9C%80%E6%89%91%E5%89%A7%E9%9B%86%23" target="weibo">
+2025年度最扑剧集（热度：411132）
 </a>
 </li>
 
@@ -1799,18 +1811,6 @@ loveissoap说童锦程配不上她（热度：394705）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TF%E8%8D%A3%E8%80%80%E4%B9%8B%E6%88%98%23" target="weibo">
 TF荣耀之战（热度：372589）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E5%B0%8F%E7%B1%B3%E8%BD%A6%E8%BD%AE%E5%AD%90%E6%92%9E%E6%8E%89%E6%98%AF%E4%B8%A2%E8%BD%AE%E4%BF%9D%E8%BD%A6%23" target="weibo">
-雷军称小米车轮子撞掉是丢轮保车（热度：371689）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%83%AB%E4%BC%A4%E4%BC%91%E5%85%8B%E6%AD%BB%E4%BA%A1%E9%A4%90%E9%A6%86%E7%A7%B0%E6%84%9F%E5%86%92%E8%87%B4%E6%AD%BB%23" target="weibo">
-男孩烫伤休克死亡餐馆称感冒致死（热度：371171）
 </a>
 </li>
 

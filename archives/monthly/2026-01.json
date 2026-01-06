@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767705226682,
+  "endTime": 1767707066538,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -451,6 +451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 868378,
+      "num": 1138940,
+      "word": "车厘子暴跌第一批受害者出现",
+      "onboard_time": 1767702143,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 868006,
       "num": 753435,
       "word": "特朗普称将占领管理委内瑞拉",
@@ -536,14 +544,6 @@
       "word": "女生游黄山高坠死亡谁呼出的电话",
       "onboard_time": 1767602061,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 794412,
-      "num": 1127105,
-      "word": "车厘子暴跌第一批受害者出现",
-      "onboard_time": 1767702143,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -1091,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 571728,
+      "num": 571728,
+      "word": "1盒内存条堪比上海1套房",
+      "onboard_time": 1767702321,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 563322,
       "num": 585798,
       "word": "剪断男婴手指助产士已停职",
@@ -1499,6 +1507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 492735,
+      "num": 450528,
+      "word": "日本流行梅毒妆",
+      "onboard_time": 1767702023,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 488298,
       "num": 1404022,
       "word": "2026壁纸",
@@ -1585,6 +1601,14 @@
       "onboard_time": 1767606922,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 478191,
+      "num": 439485,
+      "word": "关晓彤21年只拍了一部戏",
+      "onboard_time": 1767703942,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 476728,
@@ -1683,14 +1707,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 465688,
-      "num": 465688,
-      "word": "1盒内存条堪比上海1套房",
-      "onboard_time": 1767702321,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 463917,
       "num": 349697,
       "word": "李在明自拍",
@@ -1785,14 +1801,6 @@
       "onboard_time": 1767410187,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 452704,
-      "num": 450528,
-      "word": "日本流行梅毒妆",
-      "onboard_time": 1767702023,
-      "rank": 21,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 452584,
@@ -1891,19 +1899,19 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 439485,
-      "num": 439485,
-      "word": "关晓彤21年只拍了一部戏",
-      "onboard_time": 1767703942,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 439304,
       "num": 439304,
       "word": "录完综艺总裁父亲主动向女儿道歉",
       "onboard_time": 1767510983,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 438610,
+      "num": 288564,
+      "word": "史上最受欢迎的恋综女嘉宾",
+      "onboard_time": 1767705803,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -2057,6 +2065,14 @@
       "onboard_time": 1767573563,
       "rank": 4,
       "category": "美食"
+    },
+    {
+      "raw_hot": 411132,
+      "num": 242964,
+      "word": "2025年度最扑剧集",
+      "onboard_time": 1767704303,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 411025,
@@ -3315,6 +3331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 287003,
+      "num": 455616,
+      "word": "委内瑞拉爆发大规模抗议活动",
+      "onboard_time": 1767705142,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 286637,
       "num": 450333,
       "word": "专家回应日本梅毒扩散",
@@ -3425,6 +3449,14 @@
       "onboard_time": 1767578420,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 278316,
+      "num": 454405,
+      "word": "特朗普称西半球是我们的半球",
+      "onboard_time": 1767704603,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 277474,
@@ -3955,6 +3987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 246274,
+      "num": 460124,
+      "word": "多地裁判文书隐去法官姓名和案号",
+      "onboard_time": 1767704541,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245961,
       "num": 222272,
       "word": "凶手杀害29岁女子后电梯内唱歌",
@@ -4209,6 +4249,14 @@
       "onboard_time": 1767503663,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 230473,
+      "num": 230473,
+      "word": "肖战秘密花园 隔时空对话",
+      "onboard_time": 1767703101,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 230328,
@@ -4521,14 +4569,6 @@
       "onboard_time": 1767671781,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 213498,
-      "num": 213498,
-      "word": "2025年度最扑剧集",
-      "onboard_time": 1767704303,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 213249,
@@ -4929,6 +4969,14 @@
       "onboard_time": 1767533425,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199121,
+      "num": 244281,
+      "word": "骄阳似我真火了",
+      "onboard_time": 1767705562,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 199048,
@@ -5793,14 +5841,6 @@
       "onboard_time": 1767694640,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179116,
-      "num": 179116,
-      "word": "肖战秘密花园 隔时空对话",
-      "onboard_time": 1767703101,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 178442,
@@ -6692,7 +6732,7 @@
     },
     {
       "raw_hot": 159715,
-      "num": 117353,
+      "num": 154712,
       "word": "羽绒服一下就洗干净了",
       "onboard_time": 1767698541,
       "rank": 41,
@@ -6953,6 +6993,14 @@
       "onboard_time": 1767406048,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155003,
+      "num": 155003,
+      "word": "喜欢喝咖啡的建议反复观看",
+      "onboard_time": 1767704003,
+      "rank": 40,
+      "category": "科学科普"
     },
     {
       "raw_hot": 154287,
@@ -7788,7 +7836,7 @@
     },
     {
       "raw_hot": 139845,
-      "num": 139845,
+      "num": 154366,
       "word": "女演员自曝因没背景被换角",
       "onboard_time": 1767699621,
       "rank": 38,
@@ -8227,14 +8275,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 132844,
-      "num": 455616,
-      "word": "委内瑞拉爆发大规模抗议活动",
-      "onboard_time": 1767705142,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 132591,
       "num": 132591,
       "word": "你是彭于晏那我是谁",
@@ -8252,7 +8292,7 @@
     },
     {
       "raw_hot": 132359,
-      "num": 109402,
+      "num": 154901,
       "word": "网友触摸疑似布病流产羊羔",
       "onboard_time": 1767696742,
       "rank": 40,
@@ -8321,6 +8361,14 @@
       "onboard_time": 1767682701,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130952,
+      "num": 154995,
+      "word": "iPhone没有一个按键是多余的",
+      "onboard_time": 1767705142,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 130939,
@@ -8531,6 +8579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128572,
+      "num": 244040,
+      "word": "李兰迪翟子路校园恋爱be了也是he",
+      "onboard_time": 1767706102,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128511,
       "num": 727787,
       "word": "渐冻症女孩重生",
@@ -8731,6 +8787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126259,
+      "num": 452984,
+      "word": "这种剧在内娱现偶还是第一次见",
+      "onboard_time": 1767704303,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126170,
       "num": 126170,
       "word": "我想要的是上四休三不是休三上六",
@@ -8809,14 +8873,6 @@
       "onboard_time": 1767342019,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124986,
-      "num": 454405,
-      "word": "特朗普称西半球是我们的半球",
-      "onboard_time": 1767704603,
-      "rank": 16,
-      "category": "国际时政"
     },
     {
       "raw_hot": 124942,
@@ -9281,14 +9337,6 @@
       "onboard_time": 1767526162,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 119989,
-      "num": 452984,
-      "word": "这种剧在内娱现偶还是第一次见",
-      "onboard_time": 1767704303,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 119908,
@@ -10035,6 +10083,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 109980,
+      "num": 154912,
+      "word": "江衡李沛恩合照",
+      "onboard_time": 1767706821,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109912,
       "num": 632559,
       "word": "美或将持续打击委内瑞拉",
@@ -10073,14 +10129,6 @@
       "onboard_time": 1767251058,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109232,
-      "num": 460124,
-      "word": "多地裁判文书隐去法官姓名和案号",
-      "onboard_time": 1767704541,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 109124,
@@ -10547,14 +10595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104378,
-      "num": 104378,
-      "word": "喜欢喝咖啡的建议反复观看",
-      "onboard_time": 1767704003,
-      "rank": 40,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 104325,
       "num": 166685,
       "word": "小鸟误入游泳馆定居一年变圆滚滚",
@@ -10681,14 +10721,6 @@
       "onboard_time": 1767571100,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 103331,
-      "num": 103331,
-      "word": "iPhone没有一个按键是多余的",
-      "onboard_time": 1767705142,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 103308,
@@ -11243,6 +11275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97850,
+      "num": 154842,
+      "word": "asen sakee",
+      "onboard_time": 1767705383,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97806,
       "num": 575341,
       "word": "美国36年前的今天也抓过拉美总统",
@@ -11400,6 +11440,14 @@
       "word": "王嘉尔 你们老公在哪儿",
       "onboard_time": 1767600800,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 96485,
+      "num": 154726,
+      "word": "左奇函 旧友信",
+      "onboard_time": 1767707002,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -11692,7 +11740,7 @@
     },
     {
       "raw_hot": 93990,
-      "num": 93990,
+      "num": 154405,
       "word": "柯南剧场版永不完结",
       "onboard_time": 1767704182,
       "rank": 45,
@@ -12049,6 +12097,14 @@
       "onboard_time": 1767444686,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 90673,
+      "num": 154632,
+      "word": "Kanavi担任HLE队长",
+      "onboard_time": 1767706463,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 90654,
@@ -12491,6 +12547,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 87353,
+      "num": 154547,
+      "word": "航司回应机长副机长在驾驶舱打架",
+      "onboard_time": 1767706162,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87349,
       "num": 1013975,
       "word": "2026第一场旅行",
@@ -12505,6 +12569,14 @@
       "onboard_time": 1767345201,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 87235,
+      "num": 154525,
+      "word": "Fly转会 王俊凯加盟EXO",
+      "onboard_time": 1767706821,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 87224,
@@ -12939,6 +13011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 83153,
+      "num": 154474,
+      "word": "外国网友问中餐是中国普通食物吗",
+      "onboard_time": 1767705743,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 82950,
       "num": 224224,
       "word": "知情人称5人穿越鳌山原计划一日速穿",
@@ -13329,6 +13409,14 @@
       "onboard_time": 1767329419,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 78489,
+      "num": 154333,
+      "word": "13克金饰在三亚买立省3500元",
+      "onboard_time": 1767706641,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 78435,
@@ -17028,7 +17116,7 @@
     },
     {
       "raw_hot": 33838,
-      "num": 646586,
+      "num": 673336,
       "word": "元旦假期交通出行5.95亿人次",
       "onboard_time": 1767519141,
       "rank": 34,
@@ -17891,6 +17979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 18427,
+      "num": 154791,
+      "word": "部分城市试管婴儿越做越火",
+      "onboard_time": 1767706942,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17365,
       "num": 575517,
       "word": "华晨宇火星演唱会",
@@ -18080,6 +18176,14 @@
       "word": "越来越多大学生回炉读技校",
       "onboard_time": 1767624203,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11038,
+      "num": 167368,
+      "word": "民航局动真格整治过低机票价",
+      "onboard_time": 1767706884,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
