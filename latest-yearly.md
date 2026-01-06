@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/06 23:46:29
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/07 00:39:27
 </p>
 </blockquote>
 <p>
@@ -1695,6 +1695,12 @@ iPhone没有一个按键是多余的（热度：420534）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%8F%96%E6%B6%88%E9%AB%98%E4%B8%80%E9%AB%98%E4%BA%8C%E5%B9%B4%E6%9C%9F%E6%9C%AB%E7%BB%9F%E8%80%83%23" target="weibo">
+多地取消高一高二年期末统考（热度：396846）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%A9%9A%E5%A6%BB%E5%AD%90%E6%94%B615%E4%B8%87%E5%BD%A9%E7%A4%BC%E5%90%8E%E7%A7%B0%E8%A6%81%E4%B8%81%E5%85%8B%23" target="weibo">
 二婚妻子收15万彩礼后称要丁克（热度：396541）
 </a>
@@ -1805,12 +1811,6 @@ loveissoap说童锦程配不上她（热度：394705）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E4%BC%9A%E5%8F%98%E5%BE%97%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%A6%99%E5%90%97%23" target="weibo">
 住房公积金会变得越来越香吗（热度：378488）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%BB%B7219%E4%B8%87%E9%94%80%E5%94%AE%E6%89%BF%E8%AF%BA%E9%80%8172%E4%B8%87%E5%85%83%E9%BB%84%E9%87%91%23" target="weibo">
-房价219万销售承诺送72万元黄金（热度：377988）
 </a>
 </li>
 
