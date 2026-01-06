@@ -1,0 +1,410 @@
+{
+  "runTime": 1767710972514,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 808225,
+        "num": 1129316,
+        "word": "车厘子暴跌第一批受害者出现",
+        "onboard_time": 1767702143,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 526709,
+        "num": 820843,
+        "word": "1盒内存条堪比上海1套房",
+        "onboard_time": 1767702321,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59197,
+        "num": 631667,
+        "word": "元旦假期文旅消费近848亿元",
+        "onboard_time": 1767708805,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363171,
+        "num": 363171,
+        "word": "上海下雪",
+        "onboard_time": 1767700522,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237983,
+        "num": 237983,
+        "word": "日本加强对色情行业监督",
+        "onboard_time": 1767710245,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 234420,
+        "num": 234420,
+        "word": "武大靖官宣退役",
+        "onboard_time": 1767701602,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204619,
+        "num": 204619,
+        "word": "男子自带3瓶茅台全被服务员调包",
+        "onboard_time": 1767700341,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170256,
+        "num": 170256,
+        "word": "民航局动真格整治过低机票价",
+        "onboard_time": 1767706884,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159322,
+        "num": 159322,
+        "word": "多地裁判文书隐去法官姓名和案号",
+        "onboard_time": 1767704541,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156395,
+        "num": 156395,
+        "word": "台战机失事飞行员跳伞搜救中",
+        "onboard_time": 1767709283,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 953579,
+        "num": 156327,
+        "word": "日本年轻人聚众晒梅毒",
+        "onboard_time": 1767686601,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 683847,
+        "num": 156298,
+        "word": "史上最受欢迎的恋综女嘉宾",
+        "onboard_time": 1767705803,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 557526,
+        "num": 156135,
+        "word": "赵今麦中戏第一的含金量还在上升",
+        "onboard_time": 1767707963,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 489574,
+        "num": 156062,
+        "word": "河北农村取暖问题一天也不能拖了",
+        "onboard_time": 1767708083,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 393389,
+        "num": 155920,
+        "word": "委内瑞拉爆发大规模抗议活动",
+        "onboard_time": 1767705142,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 390721,
+        "num": 155882,
+        "word": "骄阳似我大结局",
+        "onboard_time": 1767694461,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193071,
+        "num": 155774,
+        "word": "特朗普称西半球是我们的半球",
+        "onboard_time": 1767704603,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 343184,
+        "num": 155662,
+        "word": "骄阳似我真火了",
+        "onboard_time": 1767705562,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171804,
+        "num": 155617,
+        "word": "日本梅毒扩散",
+        "onboard_time": 1767661942,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 48886,
+        "num": 155471,
+        "word": "撞死3口人凶手父亲想儿子赡养受害方",
+        "onboard_time": 1767710484,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 519768,
+        "num": 155340,
+        "word": "2025年度最扑剧集",
+        "onboard_time": 1767704303,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 420534,
+        "num": 155253,
+        "word": "iPhone没有一个按键是多余的",
+        "onboard_time": 1767705142,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 309149,
+        "num": 155210,
+        "word": "日本流行梅毒妆",
+        "onboard_time": 1767702023,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130764,
+        "num": 155104,
+        "word": "女子以油养肤导致面部疯狂掉皮",
+        "onboard_time": 1767679040,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170402,
+        "num": 154941,
+        "word": "骄阳似我",
+        "onboard_time": 1767694461,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260546,
+        "num": 154842,
+        "word": "关晓彤21年只拍了一部戏",
+        "onboard_time": 1767703942,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224092,
+        "num": 154752,
+        "word": "日本梅毒",
+        "onboard_time": 1767690320,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 201207,
+        "num": 154717,
+        "word": "月薪一万的工作强度",
+        "onboard_time": 1767692300,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182581,
+        "num": 154625,
+        "word": "喜欢喝咖啡的建议反复观看",
+        "onboard_time": 1767704003,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 84331,
+        "num": 154504,
+        "word": "被武大靖的奖牌墙震撼了",
+        "onboard_time": 1767709644,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174650,
+        "num": 154420,
+        "word": "Fly转会 王俊凯加盟EXO",
+        "onboard_time": 1767706821,
+        "rank": 30,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 154352,
+        "num": 154352,
+        "word": "肖战秘密花园 隔时空对话",
+        "onboard_time": 1767703101,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149343,
+        "num": 149343,
+        "word": "玉茗茶骨去父留女",
+        "onboard_time": 1767710245,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145970,
+        "num": 145970,
+        "word": "左奇函 旧友信",
+        "onboard_time": 1767707002,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132845,
+        "num": 132845,
+        "word": "男子偷500张刮刮乐隔一会刮一张",
+        "onboard_time": 1767696980,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121183,
+        "num": 121183,
+        "word": "印度最干净城市遭粪水污染",
+        "onboard_time": 1767708862,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118688,
+        "num": 118688,
+        "word": "穆祉丞发博",
+        "onboard_time": 1767703101,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117190,
+        "num": 117190,
+        "word": "李霄云余额1块6付不起停车费",
+        "onboard_time": 1767703642,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116355,
+        "num": 116355,
+        "word": "伊朗强硬表态",
+        "onboard_time": 1767709403,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110785,
+        "num": 110785,
+        "word": "黄星邱鼎杰营业",
+        "onboard_time": 1767709945,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108091,
+        "num": 108091,
+        "word": "字节跳动实习生涨薪最高日薪500元",
+        "onboard_time": 1767701301,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 105633,
+        "num": 105633,
+        "word": "玉茗茶骨",
+        "onboard_time": 1767710362,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102964,
+        "num": 102964,
+        "word": "羽绒服一下就洗干净了",
+        "onboard_time": 1767698541,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 101670,
+        "num": 101670,
+        "word": "河北村民预计今冬取暖费要8000元",
+        "onboard_time": 1767708923,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98326,
+        "num": 98326,
+        "word": "王曼昱小秀一手",
+        "onboard_time": 1767710184,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91425,
+        "num": 91425,
+        "word": "部分城市试管婴儿越做越火",
+        "onboard_time": 1767706942,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90735,
+        "num": 90735,
+        "word": "租房住和不租房住的都沉默了",
+        "onboard_time": 1767700041,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90405,
+        "num": 90405,
+        "word": "网友触摸疑似布病流产羊羔",
+        "onboard_time": 1767696742,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79132,
+        "num": 79132,
+        "word": "男子8.2万买的卡皮巴拉到货后死亡",
+        "onboard_time": 1767698901,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75446,
+        "num": 75446,
+        "word": "势均力敌的我们",
+        "onboard_time": 1767710903,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中韩应当坚定站在历史正确一边#"
+    }
+  }
+}
