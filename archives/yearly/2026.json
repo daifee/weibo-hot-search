@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767682761582,
+  "endTime": 1767684837795,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -257,6 +257,14 @@
       "onboard_time": 1767410309,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1040063,
+      "num": 496434,
+      "word": "李在镕在北京买了100个labubu",
+      "onboard_time": 1767683180,
+      "rank": 5,
+      "category": "国际时政,休闲"
     },
     {
       "raw_hot": 1029154,
@@ -699,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 666835,
+      "num": 132806,
+      "word": "易梦玲送阿哲5100黄金",
+      "onboard_time": 1767682579,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 663329,
       "num": 234698,
       "word": "毒皇后扮演者被迪士尼乐园辞退",
@@ -772,7 +788,7 @@
     },
     {
       "raw_hot": 631492,
-      "num": 493643,
+      "num": 539433,
       "word": "小米称永不与大熊合作",
       "onboard_time": 1767681802,
       "rank": 5,
@@ -883,6 +899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 592698,
+      "num": 592698,
+      "word": "女子以油养肤导致面部疯狂掉皮",
+      "onboard_time": 1767679040,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 592422,
       "num": 844347,
       "word": "委内瑞拉首都街头几乎空无一人",
@@ -921,6 +945,14 @@
       "onboard_time": 1767193528,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 579903,
+      "num": 323875,
+      "word": "美媒曝大批美军机突然飞往欧洲",
+      "onboard_time": 1767680901,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 578847,
@@ -1771,6 +1803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 431423,
+      "num": 179188,
+      "word": "闪灵确认引进",
+      "onboard_time": 1767683541,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 430634,
       "num": 139722,
       "word": "白鹿宋威龙早期旧照",
@@ -2361,46 +2401,6 @@
       "onboard_time": 1767583821,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 348710,
-      "num": 542164,
-      "word": "刘亦菲李现去有风的地方开播三周年",
-      "onboard_time": 1767415049,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 348667,
-      "num": 207811,
-      "word": "张凌赫跨年表演在外网爆火",
-      "onboard_time": 1767621802,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 348089,
-      "num": 240680,
-      "word": "建议所有外卖包装都按这个强度来",
-      "onboard_time": 1767586644,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 347833,
-      "num": 280253,
-      "word": "谢娜 女本位",
-      "onboard_time": 1767513263,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 346918,
-      "num": 183043,
-      "word": "四大顶级扛剧花",
-      "onboard_time": 1767655458,
-      "rank": 23,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

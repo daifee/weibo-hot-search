@@ -1,6 +1,6 @@
 {
   "startTime": 1767631011864,
-  "endTime": 1767682761582,
+  "endTime": 1767684837795,
   "band_list": [
     {
       "raw_hot": 2133729,
@@ -41,6 +41,14 @@
       "onboard_time": 1767654558,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1040063,
+      "num": 496434,
+      "word": "李在镕在北京买了100个labubu",
+      "onboard_time": 1767683180,
+      "rank": 5,
+      "category": "国际时政,休闲"
     },
     {
       "raw_hot": 1013556,
@@ -107,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 666835,
+      "num": 132806,
+      "word": "易梦玲送阿哲5100黄金",
+      "onboard_time": 1767682579,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 644235,
       "num": 644235,
       "word": "新生儿被剪断手指事件双方达成和解",
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 631492,
-      "num": 493643,
+      "num": 539433,
       "word": "小米称永不与大熊合作",
       "onboard_time": 1767681802,
       "rank": 5,
@@ -129,6 +145,22 @@
       "onboard_time": 1767673462,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 592698,
+      "num": 592698,
+      "word": "女子以油养肤导致面部疯狂掉皮",
+      "onboard_time": 1767679040,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 579903,
+      "num": 323875,
+      "word": "美媒曝大批美军机突然飞往欧洲",
+      "onboard_time": 1767680901,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 557975,
@@ -243,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 431423,
+      "num": 179188,
+      "word": "闪灵确认引进",
+      "onboard_time": 1767683541,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 430634,
       "num": 139722,
       "word": "白鹿宋威龙早期旧照",
@@ -331,22 +371,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 327647,
-      "num": 316714,
-      "word": "女子以油养肤导致面部疯狂掉皮",
-      "onboard_time": 1767679040,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 323875,
-      "num": 323875,
-      "word": "美媒曝大批美军机突然飞往欧洲",
-      "onboard_time": 1767680901,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 321572,
       "num": 70918,
       "word": "三星掌门人李在镕在北京买LABUBU",
@@ -411,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270510,
+      "num": 1043281,
+      "word": "南京下雪",
+      "onboard_time": 1767683300,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 263388,
       "num": 263388,
       "word": "沈腾确认回归春晚语言类节目",
@@ -449,6 +481,14 @@
       "onboard_time": 1767676881,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245129,
+      "num": 245129,
+      "word": "瑞幸回应店员徒手捏冰块搅拌饮品",
+      "onboard_time": 1767679880,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231593,
@@ -707,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160795,
+      "num": 131638,
+      "word": "A股",
+      "onboard_time": 1767684320,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 159691,
       "num": 159691,
       "word": "内娱首部洋葱剧来了",
@@ -761,6 +809,14 @@
       "onboard_time": 1767676104,
       "rank": 27,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 147205,
+      "num": 131315,
+      "word": "齐溪大女儿4岁身高",
+      "onboard_time": 1767683059,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 146172,
@@ -827,6 +883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140928,
+      "num": 131179,
+      "word": "A股放量2602亿",
+      "onboard_time": 1767683840,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 139448,
       "num": 139448,
       "word": "真的建议年轻人多看辩论赛",
@@ -835,20 +899,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138779,
+      "num": 138779,
+      "word": "徐长卿紫萱进行曲被汪苏泷唱了",
+      "onboard_time": 1767683241,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 138493,
+      "num": 138493,
+      "word": "闪灵",
+      "onboard_time": 1767684801,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 137872,
       "num": 498153,
       "word": "林葳NCAA绝平三分",
       "onboard_time": 1767667281,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136977,
-      "num": 136977,
-      "word": "瑞幸回应店员徒手捏冰块搅拌饮品",
-      "onboard_time": 1767679880,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136230,
@@ -880,6 +952,14 @@
       "word": "百万博主曝餐馆死亡男孩常遭打骂",
       "onboard_time": 1767678080,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130978,
+      "num": 130978,
+      "word": "2025年十大语文差错公布",
+      "onboard_time": 1767682701,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -952,6 +1032,14 @@
       "word": "山姆鳕鱼片惊现血色异物疑寄生虫",
       "onboard_time": 1767626602,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126861,
+      "num": 126861,
+      "word": "身无分文男子到彩票店刮800元彩票",
+      "onboard_time": 1767684441,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -1043,14 +1131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122472,
-      "num": 122472,
-      "word": "易梦玲送阿哲5100黄金",
-      "onboard_time": 1767682579,
-      "rank": 29,
-      "category": "网红"
-    },
-    {
       "raw_hot": 121513,
       "num": 121513,
       "word": "霸王茶姬手打视频系摆拍",
@@ -1107,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117969,
+      "num": 117969,
+      "word": "罗云熙让体制内具象化了",
+      "onboard_time": 1767683902,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116770,
       "num": 116770,
       "word": "高市手持安倍画像被批令人作呕",
@@ -1129,6 +1217,14 @@
       "onboard_time": 1767620662,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115024,
+      "num": 115024,
+      "word": "这段爽的堪比贝微微参加宴会",
+      "onboard_time": 1767682520,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 114521,
@@ -1161,6 +1257,14 @@
       "onboard_time": 1767653837,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 110620,
+      "num": 110620,
+      "word": "内娱现偶带着格局杀回来了",
+      "onboard_time": 1767684261,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 110617,
@@ -1251,6 +1355,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102757,
+      "num": 102757,
+      "word": "KSG官宣一笙加入",
+      "onboard_time": 1767682579,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 102553,
+      "num": 102553,
+      "word": "特斯拉ModelY推出2026小改款",
+      "onboard_time": 1767683661,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 101002,
       "num": 101002,
       "word": "苹果推出马年限定配件",
@@ -1267,20 +1387,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 99264,
+      "num": 99264,
+      "word": "内蒙古一场雪看到大地血脉",
+      "onboard_time": 1767684742,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 97189,
       "num": 97189,
       "word": "爱玩拼豆的人天塌了",
       "onboard_time": 1767657800,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 96941,
-      "num": 96941,
-      "word": "KSG官宣一笙加入",
-      "onboard_time": 1767682579,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 96903,
@@ -1305,6 +1425,14 @@
       "onboard_time": 1767663561,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 95551,
+      "num": 95551,
+      "word": "王者荣耀",
+      "onboard_time": 1767684801,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 95539,
@@ -1379,12 +1507,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 89020,
-      "num": 89020,
-      "word": "这段爽的堪比贝微微参加宴会",
-      "onboard_time": 1767682520,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 89298,
+      "num": 132958,
+      "word": "霸王茶姬涉事门店店长降职处分",
+      "onboard_time": 1767683840,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88289,
@@ -1425,14 +1553,6 @@
       "onboard_time": 1767664402,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87092,
-      "num": 87092,
-      "word": "2025年十大语文差错公布",
-      "onboard_time": 1767682701,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87084,
@@ -1707,6 +1827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46690,
+      "num": 132238,
+      "word": "檀健次居家男友变东北大哥",
+      "onboard_time": 1767683600,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 46627,
       "num": 114720,
       "word": "聂曦光爸爸",
@@ -1793,6 +1921,14 @@
       "onboard_time": 1767677120,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38114,
+      "num": 107356,
+      "word": "日本梅毒感染者多为男性",
+      "onboard_time": 1767683840,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 37802,
