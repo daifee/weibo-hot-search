@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767704332447,
+  "endTime": 1767705226682,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1497333,
-      "num": 413885,
+      "num": 459065,
       "word": "骄阳似我大结局",
       "onboard_time": 1767694461,
       "rank": 11,
@@ -363,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 794412,
+      "num": 1127105,
+      "word": "车厘子暴跌第一批受害者出现",
+      "onboard_time": 1767702143,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 794210,
       "num": 555431,
       "word": "在柬埔寨流浪女网红父亲发声",
@@ -515,20 +523,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 695485,
+      "num": 1109542,
+      "word": "上海下雪",
+      "onboard_time": 1767700522,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 688550,
       "num": 163539,
       "word": "易梦玲送阿哲5100黄金",
       "onboard_time": 1767682579,
       "rank": 29,
       "category": "网红"
-    },
-    {
-      "raw_hot": 684643,
-      "num": 1109542,
-      "word": "上海下雪",
-      "onboard_time": 1767700522,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 678667,
@@ -713,14 +721,6 @@
       "onboard_time": 1767536244,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 576617,
-      "num": 797949,
-      "word": "车厘子暴跌第一批受害者出现",
-      "onboard_time": 1767702143,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 574191,
@@ -1083,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 476228,
+      "num": 450755,
+      "word": "马筱梅挺孕肚挑礼服",
+      "onboard_time": 1767700581,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 476168,
       "num": 334562,
       "word": "娜扎把玉茗茶骨叫玉米排骨",
@@ -1097,14 +1105,6 @@
       "onboard_time": 1767509842,
       "rank": 10,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 474568,
-      "num": 224960,
-      "word": "马筱梅挺孕肚挑礼服",
-      "onboard_time": 1767700581,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 474519,
@@ -1153,6 +1153,14 @@
       "onboard_time": 1767588023,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 465688,
+      "num": 465688,
+      "word": "1盒内存条堪比上海1套房",
+      "onboard_time": 1767702321,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 463917,
@@ -1204,7 +1212,7 @@
     },
     {
       "raw_hot": 452704,
-      "num": 223751,
+      "num": 450528,
       "word": "日本流行梅毒妆",
       "onboard_time": 1767702023,
       "rank": 21,
@@ -1212,7 +1220,7 @@
     },
     {
       "raw_hot": 452584,
-      "num": 452584,
+      "num": 463858,
       "word": "男子自带3瓶茅台全被服务员调包",
       "onboard_time": 1767700341,
       "rank": 4,
@@ -1281,6 +1289,14 @@
       "onboard_time": 1767481699,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 439485,
+      "num": 439485,
+      "word": "关晓彤21年只拍了一部戏",
+      "onboard_time": 1767703942,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 439304,
@@ -1401,6 +1417,14 @@
       "onboard_time": 1767508162,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 416551,
+      "num": 416551,
+      "word": "王玉雯漂亮得像洋娃娃一样",
+      "onboard_time": 1767702081,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 412890,
@@ -1548,7 +1572,7 @@
     },
     {
       "raw_hot": 385985,
-      "num": 223520,
+      "num": 350367,
       "word": "赵樱子承认整容",
       "onboard_time": 1767700820,
       "rank": 22,
@@ -1585,14 +1609,6 @@
       "onboard_time": 1767585502,
       "rank": 13,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 380948,
-      "num": 222261,
-      "word": "王玉雯漂亮得像洋娃娃一样",
-      "onboard_time": 1767702081,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 380634,
@@ -1897,14 +1913,6 @@
       "onboard_time": 1767695061,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 332536,
-      "num": 332536,
-      "word": "1盒内存条堪比上海1套房",
-      "onboard_time": 1767702321,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 332048,
@@ -2251,6 +2259,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 284549,
+      "num": 284549,
+      "word": "穆祉丞发博",
+      "onboard_time": 1767703101,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281063,
       "num": 207292,
       "word": "男子偷500张刮刮乐隔一会刮一张",
@@ -2412,7 +2428,7 @@
     },
     {
       "raw_hot": 266581,
-      "num": 238272,
+      "num": 456460,
       "word": "新音联排",
       "onboard_time": 1767697759,
       "rank": 18,
@@ -2595,6 +2611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248642,
+      "num": 248642,
+      "word": "李霄云余额1块6付不起停车费",
+      "onboard_time": 1767703642,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248302,
       "num": 437383,
       "word": "美国大型石油公司将前往委内瑞拉",
@@ -2771,6 +2795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 230691,
+      "num": 230691,
+      "word": "租房住和不租房住的都沉默了",
+      "onboard_time": 1767700041,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 230571,
       "num": 305609,
       "word": "李在明启程赴华",
@@ -2899,14 +2931,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 220137,
-      "num": 220137,
-      "word": "穆祉丞发博",
-      "onboard_time": 1767703101,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 220103,
       "num": 220103,
       "word": "张翰已被冻结165万股权",
@@ -3003,20 +3027,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213498,
+      "num": 213498,
+      "word": "2025年度最扑剧集",
+      "onboard_time": 1767704303,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 212641,
       "num": 212641,
       "word": "眼泪是庄序最好的医美",
       "onboard_time": 1767614000,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 212311,
-      "num": 212311,
-      "word": "李霄云余额1块6付不起停车费",
-      "onboard_time": 1767703642,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 212151,
@@ -3044,7 +3068,7 @@
     },
     {
       "raw_hot": 210363,
-      "num": 331092,
+      "num": 463331,
       "word": "男子8.2万买的卡皮巴拉到货后死亡",
       "onboard_time": 1767698901,
       "rank": 8,
@@ -3155,14 +3179,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 204587,
-      "num": 204587,
-      "word": "租房住和不租房住的都沉默了",
-      "onboard_time": 1767700041,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 204382,
       "num": 204382,
       "word": "不要贴墙养蝴蝶兰",
@@ -3233,14 +3249,6 @@
       "onboard_time": 1767445826,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200124,
-      "num": 200124,
-      "word": "关晓彤21年只拍了一部戏",
-      "onboard_time": 1767703942,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 200023,
@@ -3483,6 +3491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192047,
+      "num": 192047,
+      "word": "大帅爆改",
+      "onboard_time": 1767701182,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 191225,
       "num": 182612,
       "word": "向涵之十八宫格营业",
@@ -3529,14 +3545,6 @@
       "onboard_time": 1767590661,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 189241,
-      "num": 189241,
-      "word": "2025年度最扑剧集",
-      "onboard_time": 1767704303,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 187761,
@@ -3763,12 +3771,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178967,
-      "num": 178967,
-      "word": "大帅爆改",
-      "onboard_time": 1767701182,
-      "rank": 32,
-      "category": "电竞"
+      "raw_hot": 179116,
+      "num": 179116,
+      "word": "肖战秘密花园 隔时空对话",
+      "onboard_time": 1767703101,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 178116,
@@ -3937,6 +3945,14 @@
       "onboard_time": 1767608542,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170561,
+      "num": 170561,
+      "word": "字节跳动实习生涨薪最高日薪500元",
+      "onboard_time": 1767701301,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 170512,
@@ -4283,14 +4299,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 159092,
-      "num": 159092,
-      "word": "字节跳动实习生涨薪最高日薪500元",
-      "onboard_time": 1767701301,
-      "rank": 35,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 158939,
       "num": 158939,
       "word": "樊振东3比1胜户上隼辅",
@@ -4337,14 +4345,6 @@
       "onboard_time": 1767699021,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 156982,
-      "num": 156982,
-      "word": "肖战秘密花园 隔时空对话",
-      "onboard_time": 1767703101,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 156774,
@@ -5171,6 +5171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132844,
+      "num": 455616,
+      "word": "委内瑞拉爆发大规模抗议活动",
+      "onboard_time": 1767705142,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 132591,
       "num": 132591,
       "word": "你是彭于晏那我是谁",
@@ -5475,6 +5483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124986,
+      "num": 454405,
+      "word": "特朗普称西半球是我们的半球",
+      "onboard_time": 1767704603,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 124942,
       "num": 124942,
       "word": "小城大事能爆吗",
@@ -5593,6 +5609,14 @@
       "onboard_time": 1767602841,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 123190,
+      "num": 453872,
+      "word": "红烨吃尽时代黑利",
+      "onboard_time": 1767704482,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 123054,
@@ -5729,6 +5753,14 @@
       "onboard_time": 1767526162,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119989,
+      "num": 452984,
+      "word": "这种剧在内娱现偶还是第一次见",
+      "onboard_time": 1767704303,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 119881,
@@ -6155,6 +6187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109232,
+      "num": 460124,
+      "word": "多地裁判文书隐去法官姓名和案号",
+      "onboard_time": 1767704541,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109124,
       "num": 109124,
       "word": "樱花树下站谁都美",
@@ -6505,6 +6545,14 @@
       "onboard_time": 1767571100,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103331,
+      "num": 103331,
+      "word": "iPhone没有一个按键是多余的",
+      "onboard_time": 1767705142,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 102768,
@@ -7027,6 +7075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95373,
+      "num": 95373,
+      "word": "樊振东想赢得尽可能多的冠军",
+      "onboard_time": 1767704362,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95349,
       "num": 148133,
       "word": "CBA",
@@ -7099,14 +7155,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 94641,
-      "num": 94641,
-      "word": "这种剧在内娱现偶还是第一次见",
-      "onboard_time": 1767704303,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 94498,
       "num": 94498,
       "word": "住建局回应工人摇围栏喊要出去吃饭",
@@ -7153,6 +7201,14 @@
       "onboard_time": 1767611422,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 93990,
+      "num": 93990,
+      "word": "柯南剧场版永不完结",
+      "onboard_time": 1767704182,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 93936,
@@ -7297,14 +7353,6 @@
       "onboard_time": 1767576199,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92731,
-      "num": 92731,
-      "word": "柯南剧场版永不完结",
-      "onboard_time": 1767704182,
-      "rank": 45,
-      "category": "动漫"
     },
     {
       "raw_hot": 92708,
@@ -7515,6 +7563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 89547,
+      "num": 89547,
+      "word": "骄阳似我初吻热恋结婚",
+      "onboard_time": 1767705021,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89510,
       "num": 797505,
       "word": "俄要求美立即澄清马杜罗情况",
@@ -7635,6 +7691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87619,
+      "num": 87619,
+      "word": "林高远刘诗雯参加十五运表彰大会",
+      "onboard_time": 1767705202,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87582,
       "num": 87582,
       "word": "刘端端 素颜式演技",
@@ -7745,6 +7809,14 @@
       "onboard_time": 1767703042,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86115,
+      "num": 86115,
+      "word": "侯明昊代旭这段晋江味太浓了",
+      "onboard_time": 1767705021,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 85644,
@@ -9728,6 +9800,14 @@
       "word": "2026第一个工作日",
       "onboard_time": 1767454763,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23699,
+      "num": 451420,
+      "word": "航司回应2机长在驾驶舱打架",
+      "onboard_time": 1767704603,
+      "rank": 19,
       "category": "民生新闻"
     },
     {

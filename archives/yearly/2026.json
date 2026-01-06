@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767704332447,
+  "endTime": 1767705226682,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1497333,
-      "num": 413885,
+      "num": 459065,
       "word": "骄阳似我大结局",
       "onboard_time": 1767694461,
       "rank": 11,
@@ -539,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 794412,
+      "num": 1127105,
+      "word": "车厘子暴跌第一批受害者出现",
+      "onboard_time": 1767702143,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 794210,
       "num": 555431,
       "word": "在柬埔寨流浪女网红父亲发声",
@@ -747,6 +755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 695485,
+      "num": 1109542,
+      "word": "上海下雪",
+      "onboard_time": 1767700522,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 688550,
       "num": 163539,
       "word": "易梦玲送阿哲5100黄金",
@@ -761,14 +777,6 @@
       "onboard_time": 1767193168,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 684643,
-      "num": 1109542,
-      "word": "上海下雪",
-      "onboard_time": 1767700522,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 678667,
@@ -1065,14 +1073,6 @@
       "onboard_time": 1767536244,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 576617,
-      "num": 797949,
-      "word": "车厘子暴跌第一批受害者出现",
-      "onboard_time": 1767702143,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 574191,
@@ -1595,6 +1595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 476228,
+      "num": 450755,
+      "word": "马筱梅挺孕肚挑礼服",
+      "onboard_time": 1767700581,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 476168,
       "num": 334562,
       "word": "娜扎把玉茗茶骨叫玉米排骨",
@@ -1609,14 +1617,6 @@
       "onboard_time": 1767509842,
       "rank": 10,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 474568,
-      "num": 224960,
-      "word": "马筱梅挺孕肚挑礼服",
-      "onboard_time": 1767700581,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 474519,
@@ -1681,6 +1681,14 @@
       "onboard_time": 1767588023,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 465688,
+      "num": 465688,
+      "word": "1盒内存条堪比上海1套房",
+      "onboard_time": 1767702321,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 463917,
@@ -1780,7 +1788,7 @@
     },
     {
       "raw_hot": 452704,
-      "num": 223751,
+      "num": 450528,
       "word": "日本流行梅毒妆",
       "onboard_time": 1767702023,
       "rank": 21,
@@ -1788,7 +1796,7 @@
     },
     {
       "raw_hot": 452584,
-      "num": 452584,
+      "num": 463858,
       "word": "男子自带3瓶茅台全被服务员调包",
       "onboard_time": 1767700341,
       "rank": 4,
@@ -1881,6 +1889,14 @@
       "onboard_time": 1767415407,
       "rank": 32,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 439485,
+      "num": 439485,
+      "word": "关晓彤21年只拍了一部戏",
+      "onboard_time": 1767703942,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 439304,
@@ -2009,6 +2025,14 @@
       "onboard_time": 1767508162,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 416551,
+      "num": 416551,
+      "word": "王玉雯漂亮得像洋娃娃一样",
+      "onboard_time": 1767702081,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 416307,
@@ -2236,7 +2260,7 @@
     },
     {
       "raw_hot": 385985,
-      "num": 223520,
+      "num": 350367,
       "word": "赵樱子承认整容",
       "onboard_time": 1767700820,
       "rank": 22,
@@ -2273,14 +2297,6 @@
       "onboard_time": 1767585502,
       "rank": 13,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 380948,
-      "num": 222261,
-      "word": "王玉雯漂亮得像洋娃娃一样",
-      "onboard_time": 1767702081,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 380634,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767626602,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 370681,
-      "num": 1093672,
-      "word": "何不同舟渡",
-      "onboard_time": 1767363261,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 370427,
-      "num": 302668,
-      "word": "哥伦比亚进入一级战备状态",
-      "onboard_time": 1767527842,
-      "rank": 24,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
