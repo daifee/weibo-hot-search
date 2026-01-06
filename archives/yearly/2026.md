@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/06 14:45:07
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/06 14:59:21
 </p>
 </blockquote>
 <p>
@@ -237,6 +237,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E8%BE%9E%E9%80%80%E6%B6%89%E4%BA%8B%E5%BA%97%E5%91%98%23" target="weibo">
+霸王茶姬辞退涉事店员（热度：977384）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E9%97%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E6%89%8B%E6%89%93%E5%A5%B6%E8%8C%B6%23" target="weibo">
 霸王茶姬门店回应手打奶茶（热度：974878）
 </a>
@@ -305,12 +311,6 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%9A%E5%85%AC%E4%B8%BB%23" target="weibo">
 尚公主（热度：898363）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E8%BE%9E%E9%80%80%E6%B6%89%E4%BA%8B%E5%BA%97%E5%91%98%23" target="weibo">
-霸王茶姬辞退涉事店员（热度：885363）
 </a>
 </li>
 
@@ -587,6 +587,12 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%A5%96%E8%B4%A4%E7%9C%BC%E7%9D%9B%E6%80%8E%E4%B9%88%E4%BA%86%23" target="weibo">
 王祖贤眼睛怎么了（热度：633524）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E7%A7%B0%E6%B0%B8%E4%B8%8D%E4%B8%8E%E5%A4%A7%E7%86%8A%E5%90%88%E4%BD%9C%23" target="weibo">
+小米称永不与大熊合作（热度：631492）
 </a>
 </li>
 
@@ -1335,6 +1341,12 @@ iPhone千万别删的自带软件（热度：474519）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%AE%8B%E5%A8%81%E9%BE%99%E6%97%A9%E6%9C%9F%E6%97%A7%E7%85%A7%23" target="weibo">
+白鹿宋威龙早期旧照（热度：430634）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89ModelYL%E9%A6%96%E6%AC%A1%E6%8E%A8%E5%87%BA5%E5%B9%B40%E6%81%AF%23" target="weibo">
 特斯拉ModelYL首次推出5年0息（热度：429903）
 </a>
@@ -1391,12 +1403,6 @@ iPhone千万别删的自带软件（热度：474519）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E9%93%81%E5%90%AB%E9%87%8F%E8%B6%85%E6%9F%91%E6%A9%9810%E5%80%8D%23" target="weibo">
 车厘子铁含量超柑橘10倍（热度：411474）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E7%A7%B0%E6%B0%B8%E4%B8%8D%E4%B8%8E%E5%A4%A7%E7%86%8A%E5%90%88%E4%BD%9C%23" target="weibo">
-小米称永不与大熊合作（热度：411269）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ WB对战RW（热度：355689）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%A4%A7%E9%A1%B6%E7%BA%A7%E6%89%9B%E5%89%A7%E8%8A%B1%23" target="weibo">
 四大顶级扛剧花（热度：346918）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%98%AF%E6%9E%97%E6%9B%B4%E6%96%B0%E9%82%A3%E4%BB%96%E6%98%AF%E8%B0%81%23" target="weibo">
-你是林更新那他是谁（热度：343614）
 </a>
 </li>
 

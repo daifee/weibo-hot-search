@@ -1,6 +1,6 @@
 {
   "startTime": 1767631011864,
-  "endTime": 1767681907433,
+  "endTime": 1767682761582,
   "band_list": [
     {
       "raw_hot": 2133729,
@@ -59,20 +59,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 977384,
+      "num": 592323,
+      "word": "霸王茶姬辞退涉事店员",
+      "onboard_time": 1767677361,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 974878,
       "num": 1155980,
       "word": "霸王茶姬门店回应手打奶茶",
       "onboard_time": 1767663201,
       "rank": 0,
       "category": "民生新闻,美食"
-    },
-    {
-      "raw_hot": 885363,
-      "num": 592323,
-      "word": "霸王茶姬辞退涉事店员",
-      "onboard_time": 1767677361,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 866623,
@@ -113,6 +113,14 @@
       "onboard_time": 1767670462,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 631492,
+      "num": 493643,
+      "word": "小米称永不与大熊合作",
+      "onboard_time": 1767681802,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 610292,
@@ -235,20 +243,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 430634,
+      "num": 139722,
+      "word": "白鹿宋威龙早期旧照",
+      "onboard_time": 1767678501,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 429903,
       "num": 832151,
       "word": "特斯拉ModelYL首次推出5年0息",
       "onboard_time": 1767666501,
       "rank": 27,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 411269,
-      "num": 411269,
-      "word": "小米称永不与大熊合作",
-      "onboard_time": 1767681802,
-      "rank": 5,
-      "category": "互联网"
     },
     {
       "raw_hot": 411025,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 356784,
-      "num": 975241,
+      "num": 1048671,
       "word": "三亚始祖鸟店排长队抢购秋冬款",
       "onboard_time": 1767672621,
       "rank": 8,
@@ -324,11 +332,19 @@
     },
     {
       "raw_hot": 327647,
-      "num": 140320,
+      "num": 316714,
       "word": "女子以油养肤导致面部疯狂掉皮",
       "onboard_time": 1767679040,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 323875,
+      "num": 323875,
+      "word": "美媒曝大批美军机突然飞往欧洲",
+      "onboard_time": 1767680901,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 321572,
@@ -395,20 +411,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 266736,
-      "num": 139722,
-      "word": "白鹿宋威龙早期旧照",
-      "onboard_time": 1767678501,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 263388,
       "num": 263388,
       "word": "沈腾确认回归春晚语言类节目",
       "onboard_time": 1767669620,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 262402,
+      "num": 262402,
+      "word": "多家茶饮品牌涉手打奶茶视频",
+      "onboard_time": 1767680481,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 258939,
@@ -731,6 +747,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 148400,
+      "num": 138984,
+      "word": "每天喝燕麦片后身体的变化",
+      "onboard_time": 1767676521,
+      "rank": 38,
+      "category": "幽默,健康医疗"
+    },
+    {
       "raw_hot": 147312,
       "num": 147312,
       "word": "当你过上了小时候想过的生活",
@@ -779,14 +803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143331,
-      "num": 143331,
-      "word": "美媒曝大批美军机突然飞往欧洲",
-      "onboard_time": 1767680901,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 142907,
       "num": 142907,
       "word": "彭昱畅的权威我后知后觉",
@@ -819,20 +835,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 138984,
-      "num": 138984,
-      "word": "每天喝燕麦片后身体的变化",
-      "onboard_time": 1767676521,
-      "rank": 38,
-      "category": "幽默,健康医疗"
-    },
-    {
       "raw_hot": 137872,
       "num": 498153,
       "word": "林葳NCAA绝平三分",
       "onboard_time": 1767667281,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136977,
+      "num": 136977,
+      "word": "瑞幸回应店员徒手捏冰块搅拌饮品",
+      "onboard_time": 1767679880,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136230,
@@ -955,14 +971,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 126066,
-      "num": 138410,
-      "word": "多家茶饮品牌涉手打奶茶视频",
-      "onboard_time": 1767680481,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124942,
       "num": 124942,
       "word": "小城大事能爆吗",
@@ -1035,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122472,
+      "num": 122472,
+      "word": "易梦玲送阿哲5100黄金",
+      "onboard_time": 1767682579,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 121513,
       "num": 121513,
       "word": "霸王茶姬手打视频系摆拍",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1767670701,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120878,
+      "num": 120878,
+      "word": "李在明晒中国行视频",
+      "onboard_time": 1767682221,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 120672,
@@ -1088,6 +1112,14 @@
       "word": "高市手持安倍画像被批令人作呕",
       "onboard_time": 1767622523,
       "rank": 16,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 116654,
+      "num": 766981,
+      "word": "高市早苗称愿与中国保持开放对话",
+      "onboard_time": 1767681802,
+      "rank": 37,
       "category": "国际时政"
     },
     {
@@ -1179,6 +1211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106118,
+      "num": 106118,
+      "word": "真人电影不行了吗",
+      "onboard_time": 1767682160,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 105805,
       "num": 105805,
       "word": "为什么有些人的脑子反应快",
@@ -1233,6 +1273,14 @@
       "onboard_time": 1767657800,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96941,
+      "num": 96941,
+      "word": "KSG官宣一笙加入",
+      "onboard_time": 1767682579,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 96903,
@@ -1291,12 +1339,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 92244,
-      "num": 92244,
-      "word": "瑞幸回应店员徒手捏冰块搅拌饮品",
-      "onboard_time": 1767679880,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 92483,
+      "num": 92483,
+      "word": "李在明在华发文",
+      "onboard_time": 1767682341,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 91647,
+      "num": 91647,
+      "word": "iPhone键盘字母O好可爱",
+      "onboard_time": 1767682280,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 91620,
@@ -1321,6 +1377,14 @@
       "onboard_time": 1767664281,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 89020,
+      "num": 89020,
+      "word": "这段爽的堪比贝微微参加宴会",
+      "onboard_time": 1767682520,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 88289,
@@ -1363,6 +1427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87092,
+      "num": 87092,
+      "word": "2025年十大语文差错公布",
+      "onboard_time": 1767682701,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87084,
       "num": 87084,
       "word": "吃辣是养生还是伤身",
@@ -1377,6 +1449,14 @@
       "onboard_time": 1767665180,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 85330,
+      "num": 85330,
+      "word": "金饰克价涨至1390元",
+      "onboard_time": 1767682341,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 84643,
@@ -1457,6 +1537,14 @@
       "onboard_time": 1767621683,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 69816,
+      "num": 97457,
+      "word": "医院收费员玩手机多人排队待缴费",
+      "onboard_time": 1767681860,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69677,
@@ -1595,14 +1683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 51507,
-      "num": 93887,
-      "word": "医院收费员玩手机多人排队待缴费",
-      "onboard_time": 1767681860,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49979,
       "num": 49979,
       "word": "女子斯里兰卡睡杨过同款寒玉床",
@@ -1641,14 +1721,6 @@
       "onboard_time": 1767654558,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 46304,
-      "num": 107326,
-      "word": "高市早苗称愿与中国保持开放对话",
-      "onboard_time": 1767681802,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 45089,
@@ -1843,6 +1915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24442,
+      "num": 98212,
+      "word": "女子买房离婚数年发现被亡夫转给他人",
+      "onboard_time": 1767681501,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23758,
       "num": 471136,
       "word": "实施绿色消费推进行动",
@@ -1920,14 +2000,6 @@
       "word": "这组数据描绘长江经济带新模样",
       "onboard_time": 1767672322,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9337,
-      "num": 98212,
-      "word": "女子买房离婚数年发现被亡夫转给他人",
-      "onboard_time": 1767681501,
-      "rank": 39,
       "category": "民生新闻"
     },
     {

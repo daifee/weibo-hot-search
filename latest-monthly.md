@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/06 14:45:07
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/06 14:59:21
 </p>
 </blockquote>
 <p>
@@ -237,6 +237,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E8%BE%9E%E9%80%80%E6%B6%89%E4%BA%8B%E5%BA%97%E5%91%98%23" target="weibo">
+霸王茶姬辞退涉事店员（热度：977384）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E9%97%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E6%89%8B%E6%89%93%E5%A5%B6%E8%8C%B6%23" target="weibo">
 霸王茶姬门店回应手打奶茶（热度：974878）
 </a>
@@ -305,12 +311,6 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%9A%E5%85%AC%E4%B8%BB%23" target="weibo">
 尚公主（热度：898363）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E8%BE%9E%E9%80%80%E6%B6%89%E4%BA%8B%E5%BA%97%E5%91%98%23" target="weibo">
-霸王茶姬辞退涉事店员（热度：885363）
 </a>
 </li>
 
@@ -587,6 +587,12 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%A5%96%E8%B4%A4%E7%9C%BC%E7%9D%9B%E6%80%8E%E4%B9%88%E4%BA%86%23" target="weibo">
 王祖贤眼睛怎么了（热度：633524）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E7%A7%B0%E6%B0%B8%E4%B8%8D%E4%B8%8E%E5%A4%A7%E7%86%8A%E5%90%88%E4%BD%9C%23" target="weibo">
+小米称永不与大熊合作（热度：631492）
 </a>
 </li>
 
@@ -1335,6 +1341,12 @@ iPhone千万别删的自带软件（热度：474519）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%AE%8B%E5%A8%81%E9%BE%99%E6%97%A9%E6%9C%9F%E6%97%A7%E7%85%A7%23" target="weibo">
+白鹿宋威龙早期旧照（热度：430634）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89ModelYL%E9%A6%96%E6%AC%A1%E6%8E%A8%E5%87%BA5%E5%B9%B40%E6%81%AF%23" target="weibo">
 特斯拉ModelYL首次推出5年0息（热度：429903）
 </a>
@@ -1391,12 +1403,6 @@ iPhone千万别删的自带软件（热度：474519）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E9%93%81%E5%90%AB%E9%87%8F%E8%B6%85%E6%9F%91%E6%A9%9810%E5%80%8D%23" target="weibo">
 车厘子铁含量超柑橘10倍（热度：411474）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E7%A7%B0%E6%B0%B8%E4%B8%8D%E4%B8%8E%E5%A4%A7%E7%86%8A%E5%90%88%E4%BD%9C%23" target="weibo">
-小米称永不与大熊合作（热度：411269）
 </a>
 </li>
 
@@ -1907,6 +1913,12 @@ LABUBU不用抢了（热度：329021）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%AA%E8%BF%AA%E8%82%A1%E4%BB%B7%E9%A3%99%E6%B6%A8559%25%23" target="weibo">
 闪迪股价飙涨559%（热度：324453）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E6%9B%9D%E5%A4%A7%E6%89%B9%E7%BE%8E%E5%86%9B%E6%9C%BA%E7%AA%81%E7%84%B6%E9%A3%9E%E5%BE%80%E6%AC%A7%E6%B4%B2%23" target="weibo">
+美媒曝大批美军机突然飞往欧洲（热度：323875）
 </a>
 </li>
 
@@ -2463,12 +2475,6 @@ TVB第一个打烂奖杯（热度：318351）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%AE%8B%E5%A8%81%E9%BE%99%E6%97%A9%E6%9C%9F%E6%97%A7%E7%85%A7%23" target="weibo">
-白鹿宋威龙早期旧照（热度：266736）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%20%E5%85%A8%E5%BC%80%E9%BA%A6%23" target="weibo">
 江苏卫视 全开麦（热度：265455）
 </a>
@@ -2519,6 +2525,12 @@ TVB第一个打烂奖杯（热度：318351）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%98%E8%AF%97%E6%9B%BC%E5%9B%9B%E5%B0%81TVB%E8%A7%86%E5%90%8E%23" target="weibo">
 佘诗曼四封TVB视后（热度：262444）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E8%8C%B6%E9%A5%AE%E5%93%81%E7%89%8C%E6%B6%89%E6%89%8B%E6%89%93%E5%A5%B6%E8%8C%B6%E8%A7%86%E9%A2%91%23" target="weibo">
+多家茶饮品牌涉手打奶茶视频（热度：262402）
 </a>
 </li>
 
@@ -4989,6 +5001,12 @@ sakee asen（热度：148966）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E5%96%9D%E7%87%95%E9%BA%A6%E7%89%87%E5%90%8E%E8%BA%AB%E4%BD%93%E7%9A%84%E5%8F%98%E5%8C%96%23" target="weibo">
+每天喝燕麦片后身体的变化（热度：148400）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E9%9B%86%E4%BA%86%E6%B2%A1%E8%A7%81%E8%B0%81%E5%90%83%E4%B8%8A%E4%B8%80%E5%8F%A3%E9%A5%AD%23" target="weibo">
 九集了没见谁吃上一口饭（热度：148313）
 </a>
@@ -5147,12 +5165,6 @@ i茅台每人每日最多可购12瓶（热度：147505）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%8D%E9%81%A5%20oe%23" target="weibo">
 逍遥 oe（热度：143426）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E6%9B%9D%E5%A4%A7%E6%89%B9%E7%BE%8E%E5%86%9B%E6%9C%BA%E7%AA%81%E7%84%B6%E9%A3%9E%E5%BE%80%E6%AC%A7%E6%B4%B2%23" target="weibo">
-美媒曝大批美军机突然飞往欧洲（热度：143331）
 </a>
 </li>
 
@@ -5391,12 +5403,6 @@ B站跨年 好看（热度：140336）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E5%96%9D%E7%87%95%E9%BA%A6%E7%89%87%E5%90%8E%E8%BA%AB%E4%BD%93%E7%9A%84%E5%8F%98%E5%8C%96%23" target="weibo">
-每天喝燕麦片后身体的变化（热度：138984）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23TF%E5%9B%9B%E4%BB%A3%E8%8D%A3%E8%80%80%E7%BB%83%E4%B9%A0%E5%AE%A4%23" target="weibo">
 TF四代荣耀练习室（热度：138852）
 </a>
@@ -5465,6 +5471,12 @@ TF四代荣耀练习室（热度：138852）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%98%89%E6%A0%BC%E5%AD%A9%E5%AD%90%E7%A7%B0%E5%A6%88%E5%A6%88%E7%94%B7%E5%8F%8B%E4%B8%BA%E5%93%A5%E5%93%A5%23" target="weibo">
 李嘉格孩子称妈妈男友为哥哥（热度：137042）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%9B%9E%E5%BA%94%E5%BA%97%E5%91%98%E5%BE%92%E6%89%8B%E6%8D%8F%E5%86%B0%E5%9D%97%E6%90%85%E6%8B%8C%E9%A5%AE%E5%93%81%23" target="weibo">
+瑞幸回应店员徒手捏冰块搅拌饮品（热度：136977）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ iPhone17最新销量曝光（热度：127413）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%83%B3%E8%A6%81%E7%9A%84%E6%98%AF%E4%B8%8A%E5%9B%9B%E4%BC%91%E4%B8%89%E4%B8%8D%E6%98%AF%E4%BC%91%E4%B8%89%E4%B8%8A%E5%85%AD%23" target="weibo">
 我想要的是上四休三不是休三上六（热度：126170）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%93%A5%E6%B2%A1%E5%87%BA%E5%B1%8B%E5%BE%AE%E4%BF%A1%E6%AD%A5%E6%95%B0%E4%B8%A4%E4%B8%87%E5%A4%9A%23" target="weibo">
-大哥没出屋微信步数两万多（热度：126082）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E8%8C%B6%E9%A5%AE%E5%93%81%E7%89%8C%E6%B6%89%E6%89%8B%E6%89%93%E5%A5%B6%E8%8C%B6%E8%A7%86%E9%A2%91%23" target="weibo">
-多家茶饮品牌涉手打奶茶视频（热度：126066）
 </a>
 </li>
 

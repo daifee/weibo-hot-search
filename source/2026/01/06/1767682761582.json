@@ -1,0 +1,410 @@
+{
+  "runTime": 1767682761582,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 304195,
+        "num": 1048671,
+        "word": "三亚始祖鸟店排长队抢购秋冬款",
+        "onboard_time": 1767672621,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116654,
+        "num": 766981,
+        "word": "高市早苗称愿与中国保持开放对话",
+        "onboard_time": 1767681802,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27590,
+        "num": 593777,
+        "word": "元旦假期带动新年消费活力满满",
+        "onboard_time": 1767672621,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 631492,
+        "num": 493643,
+        "word": "小米称永不与大熊合作",
+        "onboard_time": 1767681802,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 370484,
+        "num": 370484,
+        "word": "中国留学生在德遭袭反击致对方骨折",
+        "onboard_time": 1767676461,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 834315,
+        "num": 360272,
+        "word": "霸王茶姬通报",
+        "onboard_time": 1767676221,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323875,
+        "num": 323875,
+        "word": "美媒曝大批美军机突然飞往欧洲",
+        "onboard_time": 1767680901,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 316714,
+        "num": 316714,
+        "word": "女子以油养肤导致面部疯狂掉皮",
+        "onboard_time": 1767679040,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262402,
+        "num": 262402,
+        "word": "多家茶饮品牌涉手打奶茶视频",
+        "onboard_time": 1767680481,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237882,
+        "num": 237882,
+        "word": "婚礼电子请柬 访客记录",
+        "onboard_time": 1767672503,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1255147,
+        "num": 228111,
+        "word": "日本梅毒扩散",
+        "onboard_time": 1767661942,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 977384,
+        "num": 223063,
+        "word": "霸王茶姬辞退涉事店员",
+        "onboard_time": 1767677361,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211973,
+        "num": 211973,
+        "word": "林屿森聂曦光开荤了",
+        "onboard_time": 1767668480,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193380,
+        "num": 193380,
+        "word": "逍遥大结局",
+        "onboard_time": 1767676881,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186106,
+        "num": 186106,
+        "word": "夫妻为娃争吵丈夫血管气炸40cm",
+        "onboard_time": 1767673281,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159099,
+        "num": 159099,
+        "word": "林屿森都显怀了庄序还没释怀",
+        "onboard_time": 1767663142,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150152,
+        "num": 150152,
+        "word": "印度高调宣布大米产量超越中国",
+        "onboard_time": 1767673462,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139356,
+        "num": 139356,
+        "word": "快乐老友记",
+        "onboard_time": 1767680241,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136977,
+        "num": 136977,
+        "word": "瑞幸回应店员徒手捏冰块搅拌饮品",
+        "onboard_time": 1767679880,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134961,
+        "num": 134961,
+        "word": "逍遥 oe",
+        "onboard_time": 1767680423,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 518202,
+        "num": 134617,
+        "word": "冯提莫瘦了50斤",
+        "onboard_time": 1767670281,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 430634,
+        "num": 133499,
+        "word": "白鹿宋威龙早期旧照",
+        "onboard_time": 1767678501,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336945,
+        "num": 131507,
+        "word": "女明星为孩子挤痘致其脸缝四针",
+        "onboard_time": 1767668421,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290041,
+        "num": 130653,
+        "word": "西贝服务员工资条",
+        "onboard_time": 1767672261,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174026,
+        "num": 128116,
+        "word": "春晚彩排的明星",
+        "onboard_time": 1767663501,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169933,
+        "num": 127695,
+        "word": "27岁健身教练精子畸形率超90%",
+        "onboard_time": 1767675021,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168028,
+        "num": 126249,
+        "word": "向太回应方媛被骂",
+        "onboard_time": 1767673881,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148811,
+        "num": 124529,
+        "word": "你们看宋威龙的手",
+        "onboard_time": 1767676461,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148400,
+        "num": 122581,
+        "word": "每天喝燕麦片后身体的变化",
+        "onboard_time": 1767676521,
+        "rank": 28,
+        "category": "幽默,健康医疗"
+      },
+      {
+        "raw_hot": 122472,
+        "num": 122472,
+        "word": "易梦玲送阿哲5100黄金",
+        "onboard_time": 1767682579,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 180094,
+        "num": 122207,
+        "word": "霸王茶姬 手打",
+        "onboard_time": 1767657800,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 121908,
+        "num": 121908,
+        "word": "eStarPro官宣Fly加入",
+        "onboard_time": 1767674122,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120878,
+        "num": 120878,
+        "word": "李在明晒中国行视频",
+        "onboard_time": 1767682221,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118002,
+        "num": 118002,
+        "word": "别让赵今麦跳这些",
+        "onboard_time": 1767680600,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111101,
+        "num": 111101,
+        "word": "委内瑞拉临时总统宣誓就任",
+        "onboard_time": 1767660742,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108439,
+        "num": 108439,
+        "word": "骄阳似我大结局预告",
+        "onboard_time": 1767677960,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106118,
+        "num": 106118,
+        "word": "真人电影不行了吗",
+        "onboard_time": 1767682160,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101311,
+        "num": 101311,
+        "word": "迪丽热巴红秀周年刊预告",
+        "onboard_time": 1767678861,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 98722,
+        "num": 98722,
+        "word": "交警喊话罚罪2",
+        "onboard_time": 1767672022,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69816,
+        "num": 97457,
+        "word": "医院收费员玩手机多人排队待缴费",
+        "onboard_time": 1767681860,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96941,
+        "num": 96941,
+        "word": "KSG官宣一笙加入",
+        "onboard_time": 1767682579,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95281,
+        "num": 95281,
+        "word": "向华强说向佐郭碧婷没谈彩礼",
+        "onboard_time": 1767671542,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92483,
+        "num": 92483,
+        "word": "李在明在华发文",
+        "onboard_time": 1767682341,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24442,
+        "num": 91712,
+        "word": "女子买房离婚数年发现被亡夫转给他人",
+        "onboard_time": 1767681501,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91647,
+        "num": 91647,
+        "word": "iPhone键盘字母O好可爱",
+        "onboard_time": 1767682280,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 89020,
+        "num": 89020,
+        "word": "这段爽的堪比贝微微参加宴会",
+        "onboard_time": 1767682520,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87231,
+        "num": 87231,
+        "word": "李在明分享镜头中的中国军人",
+        "onboard_time": 1767677720,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87092,
+        "num": 87092,
+        "word": "2025年十大语文差错公布",
+        "onboard_time": 1767682701,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85330,
+        "num": 85330,
+        "word": "金饰克价涨至1390元",
+        "onboard_time": 1767682341,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 83497,
+        "num": 83497,
+        "word": "李一桐的狗出道拍戏了",
+        "onboard_time": 1767675683,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#2026元首外交开局#"
+    }
+  }
+}
