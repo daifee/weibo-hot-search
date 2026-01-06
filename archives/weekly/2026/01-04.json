@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767677584753,
+  "endTime": 1767678556609,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -11,8 +11,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 2024176,
-      "num": 2024176,
+      "raw_hot": 2133729,
+      "num": 2133729,
       "word": "霸王茶姬通报",
       "onboard_time": 1767676221,
       "rank": 0,
@@ -995,6 +995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 463917,
+      "num": 349697,
+      "word": "李在明自拍",
+      "onboard_time": 1767675442,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 459417,
       "num": 217312,
       "word": "霍启仁妻子公开婚礼现场照",
@@ -1491,20 +1499,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 356784,
+      "num": 975241,
+      "word": "三亚始祖鸟店排长队抢购秋冬款",
+      "onboard_time": 1767672621,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 352920,
       "num": 652796,
       "word": "杨幂邢菲赵丽颖兰西雅 是姐妹是知己",
       "onboard_time": 1767528623,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 351998,
-      "num": 935939,
-      "word": "三亚始祖鸟店排长队抢购秋冬款",
-      "onboard_time": 1767672621,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 351190,
@@ -1521,6 +1529,14 @@
       "onboard_time": 1767621802,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 348324,
+      "num": 348324,
+      "word": "中国留学生在德遭袭反击致对方骨折",
+      "onboard_time": 1767676461,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 348089,
@@ -1672,14 +1688,6 @@
       "word": "哥伦比亚总统回怼特朗普威胁",
       "onboard_time": 1767503901,
       "rank": 23,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 322484,
-      "num": 322484,
-      "word": "李在明自拍",
-      "onboard_time": 1767675442,
-      "rank": 46,
       "category": "国际时政"
     },
     {
@@ -2195,6 +2203,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 252110,
+      "num": 215820,
+      "word": "逍遥大结局",
+      "onboard_time": 1767676881,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251564,
       "num": 233099,
       "word": "赵丽颖从未否认自己是马里奥",
@@ -2579,6 +2595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209963,
+      "num": 209963,
+      "word": "霸王茶姬辞退涉事店员",
+      "onboard_time": 1767677361,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208911,
       "num": 208911,
       "word": "萨尔队德国杯决赛对阵富尔达",
@@ -2649,6 +2673,14 @@
       "onboard_time": 1767481818,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 205416,
+      "num": 148820,
+      "word": "你们看宋威龙的手",
+      "onboard_time": 1767676461,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 205251,
@@ -2739,14 +2771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 199408,
-      "num": 199408,
-      "word": "逍遥大结局",
-      "onboard_time": 1767676881,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 199048,
       "num": 830504,
       "word": "雷军回应小米超强钢争议",
@@ -2793,14 +2817,6 @@
       "onboard_time": 1767504503,
       "rank": 30,
       "category": "财经"
-    },
-    {
-      "raw_hot": 197945,
-      "num": 148820,
-      "word": "你们看宋威龙的手",
-      "onboard_time": 1767676461,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 197320,
@@ -3201,14 +3217,6 @@
       "onboard_time": 1767666560,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 177325,
-      "num": 177325,
-      "word": "中国留学生在德遭袭反击致对方骨折",
-      "onboard_time": 1767676461,
-      "rank": 16,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 177139,
@@ -3665,14 +3673,6 @@
       "onboard_time": 1767533964,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158395,
-      "num": 158395,
-      "word": "霸王茶姬辞退涉事店员",
-      "onboard_time": 1767677361,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157997,
@@ -4291,12 +4291,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135995,
+      "num": 135995,
+      "word": "玉茗茶骨男主上位后挑衅全世界",
+      "onboard_time": 1767677480,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135947,
       "num": 135947,
       "word": "海姆立克急救法更新了",
       "onboard_time": 1767591442,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 135415,
+      "num": 135415,
+      "word": "骄阳似我大结局预告",
+      "onboard_time": 1767677960,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 135297,
@@ -4371,6 +4387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133264,
+      "num": 133264,
+      "word": "百万博主曝餐馆死亡男孩常遭打骂",
+      "onboard_time": 1767678080,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132591,
       "num": 132591,
       "word": "你是彭于晏那我是谁",
@@ -4385,6 +4409,14 @@
       "onboard_time": 1767588083,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 131053,
+      "num": 133382,
+      "word": "每天喝燕麦片后身体的变化",
+      "onboard_time": 1767676521,
+      "rank": 38,
+      "category": "幽默,健康医疗"
     },
     {
       "raw_hot": 130776,
@@ -4409,6 +4441,14 @@
       "onboard_time": 1767535945,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129846,
+      "num": 129846,
+      "word": "勇士vs快船",
+      "onboard_time": 1767677541,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 129605,
@@ -4473,6 +4513,14 @@
       "onboard_time": 1767661520,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127743,
+      "num": 130107,
+      "word": "李在明分享镜头中的中国军人",
+      "onboard_time": 1767677720,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 127550,
@@ -4561,14 +4609,6 @@
       "onboard_time": 1767607881,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 126470,
-      "num": 126470,
-      "word": "每天喝燕麦片后身体的变化",
-      "onboard_time": 1767676521,
-      "rank": 38,
-      "category": "幽默,健康医疗"
     },
     {
       "raw_hot": 126362,
@@ -4771,6 +4811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 121513,
+      "num": 121513,
+      "word": "霸王茶姬手打视频系摆拍",
+      "onboard_time": 1767678021,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121474,
       "num": 121474,
       "word": "新疆和静4.6级地震",
@@ -4931,14 +4979,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 115299,
-      "num": 115299,
-      "word": "玉茗茶骨男主上位后挑衅全世界",
-      "onboard_time": 1767677480,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 115236,
       "num": 137543,
       "word": "中使馆回应中国女子流落柬埔寨",
@@ -4977,6 +5017,14 @@
       "onboard_time": 1767587723,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 114378,
+      "num": 114378,
+      "word": "吴佳怡的剧脑子一扔就是看",
+      "onboard_time": 1767677960,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 114140,
@@ -5041,14 +5089,6 @@
       "onboard_time": 1767527182,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 112358,
-      "num": 112358,
-      "word": "勇士vs快船",
-      "onboard_time": 1767677541,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 112347,
@@ -5515,6 +5555,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 100582,
+      "num": 100582,
+      "word": "夜神月居然才54公斤",
+      "onboard_time": 1767678380,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 100521,
       "num": 100521,
       "word": "中方呼吁美方停止颠覆委政权",
@@ -5745,6 +5793,14 @@
       "onboard_time": 1767494541,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 96694,
+      "num": 96694,
+      "word": "白鹿宋威龙早期旧照",
+      "onboard_time": 1767678501,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 96631,
@@ -6059,6 +6115,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 91620,
+      "num": 91620,
+      "word": "杨瀚森上来就得分",
+      "onboard_time": 1767678501,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91475,
       "num": 91475,
       "word": "被娜扎扇爽了",
@@ -6257,6 +6321,14 @@
       "onboard_time": 1767624443,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 88052,
+      "num": 88052,
+      "word": "A股超过百股涨停",
+      "onboard_time": 1767675562,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 88026,
@@ -7587,6 +7659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43257,
+      "num": 135350,
+      "word": "农村采暖既要算环保账更要守住温暖线",
+      "onboard_time": 1767677660,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 43152,
       "num": 155105,
       "word": "特朗普称实时观看抓捕马杜罗行动",
@@ -7673,6 +7753,14 @@
       "onboard_time": 1767591743,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 40911,
+      "num": 126518,
+      "word": "窑鸡王外卖不熟商家竟称扔工人脸上",
+      "onboard_time": 1767677120,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40693,
@@ -8369,14 +8457,6 @@
       "onboard_time": 1767516262,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 14372,
-      "num": 126518,
-      "word": "窑鸡王外卖不熟商家竟称扔工人脸上",
-      "onboard_time": 1767677120,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14292,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1767678556609,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2133729,
+        "num": 2133729,
+        "word": "霸王茶姬通报",
+        "onboard_time": 1767676221,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356784,
+        "num": 975241,
+        "word": "三亚始祖鸟店排长队抢购秋冬款",
+        "onboard_time": 1767672621,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24110,
+        "num": 740362,
+        "word": "元旦假期带动新年消费活力满满",
+        "onboard_time": 1767672621,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376280,
+        "num": 376280,
+        "word": "流落柬埔寨街头女子毒品检测呈阳性",
+        "onboard_time": 1767675741,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350497,
+        "num": 350497,
+        "word": "印度高调宣布大米产量超越中国",
+        "onboard_time": 1767673462,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 463917,
+        "num": 349697,
+        "word": "李在明自拍",
+        "onboard_time": 1767675442,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 348324,
+        "num": 348324,
+        "word": "中国留学生在德遭袭反击致对方骨折",
+        "onboard_time": 1767676461,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 335130,
+        "num": 335130,
+        "word": "婚礼电子请柬 访客记录",
+        "onboard_time": 1767672503,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245404,
+        "num": 245404,
+        "word": "夫妻为娃争吵丈夫血管气炸40cm",
+        "onboard_time": 1767673281,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233134,
+        "num": 233134,
+        "word": "eStarPro官宣Fly加入",
+        "onboard_time": 1767674122,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1451366,
+        "num": 226035,
+        "word": "日本梅毒扩散",
+        "onboard_time": 1767661942,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 260730,
+        "num": 220364,
+        "word": "林屿森聂曦光开荤了",
+        "onboard_time": 1767668480,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252110,
+        "num": 215820,
+        "word": "逍遥大结局",
+        "onboard_time": 1767676881,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209963,
+        "num": 209963,
+        "word": "霸王茶姬辞退涉事店员",
+        "onboard_time": 1767677361,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181184,
+        "num": 181184,
+        "word": "林屿森都显怀了庄序还没释怀",
+        "onboard_time": 1767663142,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180512,
+        "num": 180512,
+        "word": "交警喊话罚罪2",
+        "onboard_time": 1767672022,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161052,
+        "num": 161052,
+        "word": "赵丽颖语文课本封面具象化",
+        "onboard_time": 1767667641,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135995,
+        "num": 135995,
+        "word": "玉茗茶骨男主上位后挑衅全世界",
+        "onboard_time": 1767677480,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135415,
+        "num": 135415,
+        "word": "骄阳似我大结局预告",
+        "onboard_time": 1767677960,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43257,
+        "num": 135350,
+        "word": "农村采暖既要算环保账更要守住温暖线",
+        "onboard_time": 1767677660,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 498129,
+        "num": 135210,
+        "word": "西贝服务员工资条",
+        "onboard_time": 1767672261,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 459371,
+        "num": 135029,
+        "word": "27岁健身教练精子畸形率超90%",
+        "onboard_time": 1767675021,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 434376,
+        "num": 134835,
+        "word": "冯提莫瘦了50斤",
+        "onboard_time": 1767670281,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115625,
+        "num": 134653,
+        "word": "委内瑞拉临时总统宣誓就任",
+        "onboard_time": 1767660742,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 410390,
+        "num": 134425,
+        "word": "女明星为孩子挤痘致其脸缝四针",
+        "onboard_time": 1767668421,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395020,
+        "num": 134219,
+        "word": "向太回应方媛被骂",
+        "onboard_time": 1767673881,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240386,
+        "num": 134064,
+        "word": "春晚彩排的明星",
+        "onboard_time": 1767663501,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205416,
+        "num": 133812,
+        "word": "你们看宋威龙的手",
+        "onboard_time": 1767676461,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133785,
+        "num": 133785,
+        "word": "李一桐的狗出道拍戏了",
+        "onboard_time": 1767675683,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131053,
+        "num": 133382,
+        "word": "每天喝燕麦片后身体的变化",
+        "onboard_time": 1767676521,
+        "rank": 29,
+        "category": "幽默,健康医疗"
+      },
+      {
+        "raw_hot": 271452,
+        "num": 133324,
+        "word": "霸王茶姬 手打",
+        "onboard_time": 1767657800,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 133264,
+        "num": 133264,
+        "word": "百万博主曝餐馆死亡男孩常遭打骂",
+        "onboard_time": 1767678080,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131343,
+        "num": 131343,
+        "word": "张杰红皮衣花絮照",
+        "onboard_time": 1767677242,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127743,
+        "num": 130107,
+        "word": "李在明分享镜头中的中国军人",
+        "onboard_time": 1767677720,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129846,
+        "num": 129846,
+        "word": "勇士vs快船",
+        "onboard_time": 1767677541,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121513,
+        "num": 121513,
+        "word": "霸王茶姬手打视频系摆拍",
+        "onboard_time": 1767678021,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114378,
+        "num": 114378,
+        "word": "吴佳怡的剧脑子一扔就是看",
+        "onboard_time": 1767677960,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110245,
+        "num": 110245,
+        "word": "大哥没出屋微信步数两万多",
+        "onboard_time": 1767676881,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147690,
+        "num": 110210,
+        "word": "霸王茶姬已调查手打视频",
+        "onboard_time": 1767670641,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109389,
+        "num": 109389,
+        "word": "明兰学会了林小娘的做派",
+        "onboard_time": 1767673762,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108512,
+        "num": 108512,
+        "word": "鳌太线失联4人1人获救2死1坠崖",
+        "onboard_time": 1767664460,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106071,
+        "num": 106071,
+        "word": "鳌太线",
+        "onboard_time": 1767669201,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40911,
+        "num": 102584,
+        "word": "窑鸡王外卖不熟商家竟称扔工人脸上",
+        "onboard_time": 1767677120,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100582,
+        "num": 100582,
+        "word": "夜神月居然才54公斤",
+        "onboard_time": 1767678380,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 98602,
+        "num": 98602,
+        "word": "向华强说向佐郭碧婷没谈彩礼",
+        "onboard_time": 1767671542,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97488,
+        "num": 97488,
+        "word": "沈腾确认回归春晚语言类节目",
+        "onboard_time": 1767669620,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96694,
+        "num": 96694,
+        "word": "白鹿宋威龙早期旧照",
+        "onboard_time": 1767678501,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91620,
+        "num": 91620,
+        "word": "杨瀚森上来就得分",
+        "onboard_time": 1767678501,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88630,
+        "num": 88630,
+        "word": "苹果马年微信红包封面来了",
+        "onboard_time": 1767667823,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 88052,
+        "num": 88052,
+        "word": "A股超过百股涨停",
+        "onboard_time": 1767675562,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#2026元首外交开局#"
+    }
+  }
+}

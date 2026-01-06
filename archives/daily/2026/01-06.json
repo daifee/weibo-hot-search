@@ -1,10 +1,10 @@
 {
   "startTime": 1767631011864,
-  "endTime": 1767677584753,
+  "endTime": 1767678556609,
   "band_list": [
     {
-      "raw_hot": 2024176,
-      "num": 2024176,
+      "raw_hot": 2133729,
+      "num": 2133729,
       "word": "霸王茶姬通报",
       "onboard_time": 1767676221,
       "rank": 0,
@@ -187,6 +187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 463917,
+      "num": 349697,
+      "word": "李在明自拍",
+      "onboard_time": 1767675442,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 449226,
       "num": 449226,
       "word": "鳌太线",
@@ -267,12 +275,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 351998,
-      "num": 935939,
+      "raw_hot": 356784,
+      "num": 975241,
       "word": "三亚始祖鸟店排长队抢购秋冬款",
       "onboard_time": 1767672621,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 348324,
+      "num": 348324,
+      "word": "中国留学生在德遭袭反击致对方骨折",
+      "onboard_time": 1767676461,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 346918,
@@ -289,14 +305,6 @@
       "onboard_time": 1767661640,
       "rank": 7,
       "category": "数码"
-    },
-    {
-      "raw_hot": 322484,
-      "num": 322484,
-      "word": "李在明自拍",
-      "onboard_time": 1767675442,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 321572,
@@ -387,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252110,
+      "num": 215820,
+      "word": "逍遥大结局",
+      "onboard_time": 1767676881,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231593,
       "num": 231593,
       "word": "中国女导演柬埔寨坠亡前被人带上楼",
@@ -443,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209963,
+      "num": 209963,
+      "word": "霸王茶姬辞退涉事店员",
+      "onboard_time": 1767677361,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207228,
       "num": 256534,
       "word": "女子起诉前男友泄露私密照索赔2万",
@@ -451,15 +475,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 199408,
-      "num": 199408,
-      "word": "逍遥大结局",
-      "onboard_time": 1767676881,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 197945,
+      "raw_hot": 205416,
       "num": 148820,
       "word": "你们看宋威龙的手",
       "onboard_time": 1767676461,
@@ -563,14 +579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 177325,
-      "num": 177325,
-      "word": "中国留学生在德遭袭反击致对方骨折",
-      "onboard_time": 1767676461,
-      "rank": 16,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 177139,
       "num": 272596,
       "word": "拒绝彭于晏的女人出现了",
@@ -665,14 +673,6 @@
       "onboard_time": 1767669141,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158395,
-      "num": 158395,
-      "word": "霸王茶姬辞退涉事店员",
-      "onboard_time": 1767677361,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153754,
@@ -779,12 +779,52 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135995,
+      "num": 135995,
+      "word": "玉茗茶骨男主上位后挑衅全世界",
+      "onboard_time": 1767677480,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 135415,
+      "num": 135415,
+      "word": "骄阳似我大结局预告",
+      "onboard_time": 1767677960,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133978,
       "num": 133978,
       "word": "陈星旭的胸口好多人啊",
       "onboard_time": 1767669141,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133264,
+      "num": 133264,
+      "word": "百万博主曝餐馆死亡男孩常遭打骂",
+      "onboard_time": 1767678080,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131053,
+      "num": 133382,
+      "word": "每天喝燕麦片后身体的变化",
+      "onboard_time": 1767676521,
+      "rank": 38,
+      "category": "幽默,健康医疗"
+    },
+    {
+      "raw_hot": 129846,
+      "num": 129846,
+      "word": "勇士vs快船",
+      "onboard_time": 1767677541,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 129120,
@@ -809,6 +849,14 @@
       "onboard_time": 1767661520,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127743,
+      "num": 130107,
+      "word": "李在明分享镜头中的中国军人",
+      "onboard_time": 1767677720,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 127681,
@@ -841,14 +889,6 @@
       "onboard_time": 1767676941,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126470,
-      "num": 126470,
-      "word": "每天喝燕麦片后身体的变化",
-      "onboard_time": 1767676521,
-      "rank": 38,
-      "category": "幽默,健康医疗"
     },
     {
       "raw_hot": 126082,
@@ -915,6 +955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121513,
+      "num": 121513,
+      "word": "霸王茶姬手打视频系摆拍",
+      "onboard_time": 1767678021,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121353,
       "num": 148248,
       "word": "骄阳似我婚后吻",
@@ -963,20 +1011,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115299,
-      "num": 115299,
-      "word": "玉茗茶骨男主上位后挑衅全世界",
-      "onboard_time": 1767677480,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 114521,
       "num": 227638,
       "word": "汪苏泷这首歌的权威性我后知后觉",
       "onboard_time": 1767672022,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 114378,
+      "num": 114378,
+      "word": "吴佳怡的剧脑子一扔就是看",
+      "onboard_time": 1767677960,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 113750,
@@ -993,14 +1041,6 @@
       "onboard_time": 1767653837,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 112358,
-      "num": 112358,
-      "word": "勇士vs快船",
-      "onboard_time": 1767677541,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 110617,
@@ -1083,6 +1123,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 100582,
+      "num": 100582,
+      "word": "夜神月居然才54公斤",
+      "onboard_time": 1767678380,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 97189,
       "num": 97189,
       "word": "爱玩拼豆的人天塌了",
@@ -1097,6 +1145,14 @@
       "onboard_time": 1767615382,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96694,
+      "num": 96694,
+      "word": "白鹿宋威龙早期旧照",
+      "onboard_time": 1767678501,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 96252,
@@ -1139,6 +1195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91620,
+      "num": 91620,
+      "word": "杨瀚森上来就得分",
+      "onboard_time": 1767678501,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91020,
       "num": 114972,
       "word": "凶手杀害29岁女子后电梯内唱歌",
@@ -1161,6 +1225,14 @@
       "onboard_time": 1767616343,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 88052,
+      "num": 88052,
+      "word": "A股超过百股涨停",
+      "onboard_time": 1767675562,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 87445,
@@ -1467,6 +1539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 43257,
+      "num": 135350,
+      "word": "农村采暖既要算环保账更要守住温暖线",
+      "onboard_time": 1767677660,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 42042,
       "num": 135631,
       "word": "老人痴迷保健品偷偷给生病小孙子吃",
@@ -1497,6 +1577,14 @@
       "onboard_time": 1767636976,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 40911,
+      "num": 126518,
+      "word": "窑鸡王外卖不熟商家竟称扔工人脸上",
+      "onboard_time": 1767677120,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37802,
@@ -1681,14 +1769,6 @@
       "onboard_time": 1767639314,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14372,
-      "num": 126518,
-      "word": "窑鸡王外卖不熟商家竟称扔工人脸上",
-      "onboard_time": 1767677120,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12588,

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767677584753,
+  "endTime": 1767678556609,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -43,20 +43,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 2133729,
+      "num": 2133729,
+      "word": "霸王茶姬通报",
+      "onboard_time": 1767676221,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2040173,
       "num": 2040173,
       "word": "暖阳FMVP",
       "onboard_time": 1767355762,
       "rank": 10,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 2024176,
-      "num": 2024176,
-      "word": "霸王茶姬通报",
-      "onboard_time": 1767676221,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 2006164,
@@ -1523,6 +1523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 463917,
+      "num": 349697,
+      "word": "李在明自拍",
+      "onboard_time": 1767675442,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 462799,
       "num": 856743,
       "word": "委内瑞拉副总统发表讲话",
@@ -2267,6 +2275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 356784,
+      "num": 975241,
+      "word": "三亚始祖鸟店排长队抢购秋冬款",
+      "onboard_time": 1767672621,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 355944,
       "num": 453473,
       "word": "美国患胎儿酒精综合症女子被赶出家",
@@ -2299,14 +2315,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 351998,
-      "num": 935939,
-      "word": "三亚始祖鸟店排长队抢购秋冬款",
-      "onboard_time": 1767672621,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 351535,
       "num": 1746146,
       "word": "爱吃橘子的人天塌了",
@@ -2337,6 +2345,14 @@
       "onboard_time": 1767621802,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 348324,
+      "num": 348324,
+      "word": "中国留学生在德遭袭反击致对方骨折",
+      "onboard_time": 1767676461,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 348089,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767260899,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 340364,
-      "num": 340364,
-      "word": "差三分考上北大研究生的含金量",
-      "onboard_time": 1767595402,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 338349,
-      "num": 251790,
-      "word": "马杜罗押送途中对着镜头比出剪刀手",
-      "onboard_time": 1767515544,
-      "rank": 44,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
