@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767656580361,
+  "endTime": 1767665387757,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -115,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1294388,
+      "num": 667003,
+      "word": "霸王茶姬 手打",
+      "onboard_time": 1767657800,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1236208,
       "num": 1236208,
       "word": "女子发现超市漏洞薅了20多万",
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 1123252,
-      "num": 213564,
+      "num": 248475,
       "word": "马杜罗不认罪",
       "onboard_time": 1767654558,
       "rank": 5,
@@ -233,6 +241,14 @@
       "onboard_time": 1767495020,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1016572,
+      "num": 159454,
+      "word": "日本梅毒扩散",
+      "onboard_time": 1767661942,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1003635,
@@ -371,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 815783,
+      "num": 1130525,
+      "word": "霸王茶姬门店回应手打奶茶",
+      "onboard_time": 1767663201,
+      "rank": 0,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 814910,
       "num": 1095036,
       "word": "怪不得实体店的衣服网上买不到",
@@ -393,6 +417,14 @@
       "onboard_time": 1767602061,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 795162,
+      "num": 255986,
+      "word": "林屿森都显怀了庄序还没释怀",
+      "onboard_time": 1767663142,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 794210,
@@ -537,6 +569,14 @@
       "onboard_time": 1767355581,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 738177,
+      "num": 158548,
+      "word": "春晚彩排的明星",
+      "onboard_time": 1767663501,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 734115,
@@ -867,6 +907,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 557975,
+      "num": 273528,
+      "word": "委内瑞拉临时总统宣誓就任",
+      "onboard_time": 1767660742,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 554359,
       "num": 378092,
       "word": "纽约市长已致电特朗普",
@@ -1105,6 +1153,14 @@
       "onboard_time": 1767503663,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 507140,
+      "num": 271103,
+      "word": "原来摇粒绒真的是摇出来的",
+      "onboard_time": 1767657680,
+      "rank": 6,
+      "category": "休闲"
     },
     {
       "raw_hot": 506183,
@@ -2131,6 +2187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346918,
+      "num": 156455,
+      "word": "四大顶级扛剧花",
+      "onboard_time": 1767655458,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343614,
       "num": 343614,
       "word": "你是林更新那他是谁",
@@ -2201,6 +2265,14 @@
       "onboard_time": 1767272301,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 333107,
+      "num": 268667,
+      "word": "苹果马年手机壳449元",
+      "onboard_time": 1767661640,
+      "rank": 7,
+      "category": "数码"
     },
     {
       "raw_hot": 329021,
@@ -2643,6 +2715,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 294159,
+      "num": 252862,
+      "word": "我客串骄阳似我",
+      "onboard_time": 1767661883,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 293379,
       "num": 525634,
       "word": "我的cp只是分手了不是不爱了",
@@ -2729,6 +2809,14 @@
       "onboard_time": 1767452545,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 280807,
+      "num": 280807,
+      "word": "特斯拉",
+      "onboard_time": 1767661640,
+      "rank": 4,
+      "category": "汽车"
     },
     {
       "raw_hot": 280753,
@@ -3131,6 +3219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254463,
+      "num": 254463,
+      "word": "月鳞绮纪 延期",
+      "onboard_time": 1767660203,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253580,
       "num": 253580,
       "word": "英雄联盟证书续了100年",
@@ -3339,6 +3435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238505,
+      "num": 155024,
+      "word": "叶祖新我还是演戏吧不下海没天赋",
+      "onboard_time": 1767663921,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237504,
       "num": 1041474,
       "word": "第一次见歌手用歌回击这么爽",
@@ -3409,6 +3513,14 @@
       "onboard_time": 1767494300,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 231132,
+      "num": 151657,
+      "word": "原来吃糖竟对人体的伤害如此之大",
+      "onboard_time": 1767661942,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 230979,
@@ -3865,6 +3977,14 @@
       "onboard_time": 1767589643,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 207228,
+      "num": 256534,
+      "word": "女子起诉前男友泄露私密照索赔2万",
+      "onboard_time": 1767658940,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206721,
@@ -4371,6 +4491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189702,
+      "num": 189702,
+      "word": "餐馆内死亡13岁男孩父母智力残疾",
+      "onboard_time": 1767664821,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189468,
       "num": 990516,
       "word": "瑞士医院被烧伤患者淹没",
@@ -4755,6 +4883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180350,
+      "num": 180350,
+      "word": "日本连发3次地震",
+      "onboard_time": 1767664880,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 180190,
       "num": 154171,
       "word": "委内瑞拉首都现状",
@@ -4769,6 +4905,14 @@
       "onboard_time": 1767516803,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178753,
+      "num": 178753,
+      "word": "中国女导演柬埔寨坠亡前被人带上楼",
+      "onboard_time": 1767664099,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 178442,
@@ -5299,6 +5443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 165234,
+      "num": 165234,
+      "word": "三亚海滩上长满俄国人",
+      "onboard_time": 1767657560,
+      "rank": 17,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 164877,
       "num": 450860,
       "word": "寻秦记 大大方方为情怀买单",
@@ -5473,6 +5625,14 @@
       "onboard_time": 1767237621,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161867,
+      "num": 161867,
+      "word": "韩国社媒上的上海",
+      "onboard_time": 1767657441,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 161793,
@@ -5947,6 +6107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150814,
+      "num": 154014,
+      "word": "日本岛根县6.2级地震",
+      "onboard_time": 1767663861,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 150576,
       "num": 185415,
       "word": "心有林曦初吻",
@@ -6137,6 +6305,14 @@
       "onboard_time": 1767501204,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 145375,
+      "num": 145375,
+      "word": "金价银价又涨了",
+      "onboard_time": 1767664041,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 145211,
@@ -6563,6 +6739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 137369,
+      "num": 137369,
+      "word": "偷偷和肖战拍合照",
+      "onboard_time": 1767662121,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137249,
       "num": 1023162,
       "word": "邵兵邵子恒 中式父子相处新模式",
@@ -6787,14 +6971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133320,
-      "num": 76731,
-      "word": "四大顶级扛剧花",
-      "onboard_time": 1767655458,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 133227,
       "num": 1096392,
       "word": "周冠宇 凯迪拉克",
@@ -6857,6 +7033,14 @@
       "onboard_time": 1767319457,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 131252,
+      "num": 131252,
+      "word": "委内瑞拉首都加拉加斯传出枪声",
+      "onboard_time": 1767661640,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 131156,
@@ -7363,12 +7547,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 124136,
+      "num": 124136,
+      "word": "900万大奖得主进店才知自己中奖",
+      "onboard_time": 1767662600,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123813,
       "num": 123813,
       "word": "坏了让他读到真大学了",
       "onboard_time": 1767518723,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123587,
+      "num": 123587,
+      "word": "宋威龙的身材",
+      "onboard_time": 1767661401,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 123519,
@@ -7803,6 +8003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116826,
+      "num": 116826,
+      "word": "娜扎安慰余茵不要被别人影响心态",
+      "onboard_time": 1767661520,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116803,
       "num": 116803,
       "word": "苦苦找了几十年的人发现就在身边",
@@ -8065,6 +8273,14 @@
       "onboard_time": 1767331759,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112828,
+      "num": 112828,
+      "word": "吃对抗炎食物能抵消久坐伤害",
+      "onboard_time": 1767653837,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 112771,
@@ -8371,6 +8587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 107328,
+      "num": 107328,
+      "word": "建议大家不要再妖魔化上班了",
+      "onboard_time": 1767657560,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107269,
       "num": 934542,
       "word": "中国驻瑞士使馆回应酒吧爆炸",
@@ -8417,14 +8641,6 @@
       "onboard_time": 1767519502,
       "rank": 40,
       "category": "网红"
-    },
-    {
-      "raw_hot": 106496,
-      "num": 76472,
-      "word": "吃对抗炎食物能抵消久坐伤害",
-      "onboard_time": 1767653837,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 106476,
@@ -8577,6 +8793,14 @@
       "onboard_time": 1767248900,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 105112,
+      "num": 105112,
+      "word": "叶容对庄序翻了个白眼",
+      "onboard_time": 1767657259,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 104928,
@@ -8897,6 +9121,14 @@
       "onboard_time": 1767532044,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 101002,
+      "num": 101002,
+      "word": "苹果推出马年限定配件",
+      "onboard_time": 1767664520,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 100917,
@@ -9283,6 +9515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 97189,
+      "num": 97189,
+      "word": "爱玩拼豆的人天塌了",
+      "onboard_time": 1767657800,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97169,
       "num": 97169,
       "word": "KPL奇妙夜",
@@ -9537,6 +9777,14 @@
       "onboard_time": 1767597741,
       "rank": 41,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 94498,
+      "num": 94498,
+      "word": "住建局回应工人摇围栏喊要出去吃饭",
+      "onboard_time": 1767663081,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94363,
@@ -9825,6 +10073,14 @@
       "onboard_time": 1767353240,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 91149,
+      "num": 91149,
+      "word": "中方在联合国指出美国4个严重违反",
+      "onboard_time": 1767663561,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 91111,
@@ -10251,6 +10507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87179,
+      "num": 87179,
+      "word": "2026米兰冬奥会",
+      "onboard_time": 1767664402,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87178,
       "num": 96514,
       "word": "白宫附近披萨订单也爆了",
@@ -10265,6 +10529,14 @@
       "onboard_time": 1767526404,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87084,
+      "num": 87084,
+      "word": "吃辣是养生还是伤身",
+      "onboard_time": 1767664821,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 86973,
@@ -10387,6 +10659,14 @@
       "category": "美妆,休闲"
     },
     {
+      "raw_hot": 85644,
+      "num": 85644,
+      "word": "环境不太好的时候要多投资自己",
+      "onboard_time": 1767665180,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 85594,
       "num": 1127359,
       "word": "花花送的京东跨晚大奖是它",
@@ -10465,6 +10745,22 @@
       "onboard_time": 1767611963,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 84643,
+      "num": 84643,
+      "word": "教人骑自行车不到一年赚了28万",
+      "onboard_time": 1767658222,
+      "rank": 48,
+      "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 84577,
+      "num": 84577,
+      "word": "哥总统称将为祖国拿起武器",
+      "onboard_time": 1767659841,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 84554,
@@ -13619,6 +13915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46454,
+      "num": 105390,
+      "word": "鳌太线失联4人1人获救2死1坠崖",
+      "onboard_time": 1767664460,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46349,
       "num": 223639,
       "word": "陆江来被荣善宝强吻",
@@ -14200,6 +14504,14 @@
       "word": "鲁比奥称可能向委派兵",
       "onboard_time": 1767604281,
       "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 37918,
+      "num": 160673,
+      "word": "委内瑞拉局势或取决于3个人",
+      "onboard_time": 1767664281,
+      "rank": 19,
       "category": "国际时政"
     },
     {
@@ -15076,7 +15388,7 @@
     },
     {
       "raw_hot": 21321,
-      "num": 661698,
+      "num": 667997,
       "word": "长江经济带交出发展十年亮丽答卷",
       "onboard_time": 1767604102,
       "rank": 2,
