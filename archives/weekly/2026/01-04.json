@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767696612342,
+  "endTime": 1767698839676,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -1475,12 +1475,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 386094,
+      "num": 291728,
+      "word": "王一博肖战张凌赫男明星最佳穿搭",
+      "onboard_time": 1767694402,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 384444,
       "num": 623106,
       "word": "高市早苗手持安倍画像参拜",
       "onboard_time": 1767622523,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 384405,
+      "num": 779534,
+      "word": "李在明抵沪继续中国之行",
+      "onboard_time": 1767695181,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 381960,
@@ -2107,14 +2123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 291728,
-      "num": 291728,
-      "word": "王一博肖战张凌赫男明星最佳穿搭",
-      "onboard_time": 1767694402,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 290460,
       "num": 352214,
       "word": "李在明夫人感谢中国女性代表",
@@ -2153,6 +2161,14 @@
       "onboard_time": 1767494121,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 281063,
+      "num": 164205,
+      "word": "男子偷500张刮刮乐隔一会刮一张",
+      "onboard_time": 1767696980,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 280983,
@@ -2304,6 +2320,14 @@
       "word": "女生游黄山身亡家属称护栏存缺陷",
       "onboard_time": 1767595161,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 265458,
+      "num": 243456,
+      "word": "河北农村取暖气价高补贴被砍",
+      "onboard_time": 1767692781,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -2552,6 +2576,14 @@
       "word": "关晓彤新造型是女儿是妈妈",
       "onboard_time": 1767591503,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 238122,
+      "num": 157612,
+      "word": "包文婧瘦回怀孕前体重",
+      "onboard_time": 1767696500,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -2828,7 +2860,7 @@
     },
     {
       "raw_hot": 214728,
-      "num": 132709,
+      "num": 145651,
       "word": "魏建军宣布新平台命名归元",
       "onboard_time": 1767694222,
       "rank": 30,
@@ -3019,6 +3051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202916,
+      "num": 278912,
+      "word": "流落柬埔寨女子母亲回应其吸毒",
+      "onboard_time": 1767697701,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 202728,
       "num": 202728,
       "word": "广东男篮vs浙江男篮",
@@ -3073,6 +3113,14 @@
       "onboard_time": 1767573143,
       "rank": 11,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 199702,
+      "num": 199702,
+      "word": "新音联排",
+      "onboard_time": 1767697759,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 199535,
@@ -3347,14 +3395,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 189241,
-      "num": 764622,
-      "word": "李在明抵沪继续中国之行",
-      "onboard_time": 1767695181,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 187761,
       "num": 156109,
       "word": "曼联解雇阿莫林",
@@ -3576,6 +3616,14 @@
       "word": "国产剧里的恶魔有脸了",
       "onboard_time": 1767694640,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 179346,
+      "num": 179346,
+      "word": "原来曲梦是被活活勒死的",
+      "onboard_time": 1767697161,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -4867,6 +4915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134146,
+      "num": 134146,
+      "word": "这下张钧甯够红了吧",
+      "onboard_time": 1767696621,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 134127,
       "num": 134127,
       "word": "突然不爱了很正常",
@@ -5363,14 +5419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122611,
-      "num": 158713,
-      "word": "河北农村取暖气价高补贴被砍",
-      "onboard_time": 1767692781,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122425,
       "num": 122425,
       "word": "佘诗曼也去便利店调酒",
@@ -5393,6 +5441,14 @@
       "onboard_time": 1767691281,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 121856,
+      "num": 273886,
+      "word": "外交部回应石平抵达台湾",
+      "onboard_time": 1767697822,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 121787,
@@ -5611,6 +5667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115942,
+      "num": 115942,
+      "word": "刘宇宁新年第一播",
+      "onboard_time": 1767698421,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115646,
       "num": 115646,
       "word": "骄阳似我26集37分",
@@ -5636,7 +5700,7 @@
     },
     {
       "raw_hot": 115557,
-      "num": 115557,
+      "num": 271548,
       "word": "女子犯罪获刑四年后4次怀孕",
       "onboard_time": 1767693441,
       "rank": 36,
@@ -5891,6 +5955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109402,
+      "num": 109402,
+      "word": "网友触摸疑似布病流产羊羔",
+      "onboard_time": 1767696742,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109124,
       "num": 109124,
       "word": "樱花树下站谁都美",
@@ -6009,6 +6081,14 @@
       "onboard_time": 1767519502,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 106571,
+      "num": 106571,
+      "word": "羽绒服一下就洗干净了",
+      "onboard_time": 1767698541,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 106400,
@@ -6169,6 +6249,14 @@
       "onboard_time": 1767604881,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104092,
+      "num": 104092,
+      "word": "Scout想和Faker中野组合被拒",
+      "onboard_time": 1767698421,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 104025,
@@ -6571,6 +6659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97756,
+      "num": 97756,
+      "word": "男子心脏疼反复检查竟是带状疱疹",
+      "onboard_time": 1767698661,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 97740,
       "num": 97740,
       "word": "面善小狗长相",
@@ -6921,6 +7017,14 @@
       "onboard_time": 1767494182,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92833,
+      "num": 92833,
+      "word": "车企常说的含模量是什么意思",
+      "onboard_time": 1767698421,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 92773,
@@ -7347,6 +7451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 85600,
+      "num": 85600,
+      "word": "才知道火锅里的小郡肝到底是什么",
+      "onboard_time": 1767698241,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 85548,
       "num": 85548,
       "word": "赵丽颖黄晓明对手戏",
@@ -7361,6 +7473,14 @@
       "onboard_time": 1767609441,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 85457,
+      "num": 85457,
+      "word": "中韩同意开展健康有益的文化交流",
+      "onboard_time": 1767693623,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 85330,
@@ -7819,6 +7939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73299,
+      "num": 171952,
+      "word": "张凌赫适乐肤线下人气",
+      "onboard_time": 1767698121,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72987,
       "num": 88265,
       "word": "花几千在江浙沪滑雪的中产被坑哭了",
@@ -7929,14 +8057,6 @@
       "onboard_time": 1767579320,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 67293,
-      "num": 109961,
-      "word": "包文婧瘦回怀孕前体重",
-      "onboard_time": 1767696500,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 67238,
@@ -9241,6 +9361,14 @@
       "onboard_time": 1767503062,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26605,
+      "num": 109626,
+      "word": "贾静雯演张雪迎妈妈",
+      "onboard_time": 1767697822,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 26379,

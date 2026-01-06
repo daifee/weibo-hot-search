@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767696612342,
+  "endTime": 1767698839676,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -2163,12 +2163,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 386094,
+      "num": 291728,
+      "word": "王一博肖战张凌赫男明星最佳穿搭",
+      "onboard_time": 1767694402,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 384444,
       "num": 623106,
       "word": "高市早苗手持安倍画像参拜",
       "onboard_time": 1767622523,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 384405,
+      "num": 779534,
+      "word": "李在明抵沪继续中国之行",
+      "onboard_time": 1767695181,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 381960,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767182001,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 360040,
-      "num": 801724,
-      "word": "车厘子价格暴跌商家却赚麻了",
-      "onboard_time": 1767497902,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 359208,
-      "num": 253311,
-      "word": "杨幂杨紫迪丽热巴 2025爆剧女主",
-      "onboard_time": 1767526825,
-      "rank": 13,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
