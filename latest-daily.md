@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/07 00:39:27 ~ 2026/01/07 02:55:17
+本榜单时间：2026/01/07 00:39:27 ~ 2026/01/07 03:24:26
 </p>
 </blockquote>
 <p>
@@ -207,6 +207,12 @@ Fly转会 王俊凯加盟EXO（热度：93702）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E7%8B%AC%E7%AB%8B%23" target="weibo">
+特朗普支持格陵兰岛独立（热度：68229）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%B7500%E5%BC%A0%E5%88%AE%E5%88%AE%E4%B9%90%E9%9A%94%E4%B8%80%E4%BC%9A%E5%88%AE%E4%B8%80%E5%BC%A0%23" target="weibo">
 男子偷500张刮刮乐隔一会刮一张（热度：65898）
 </a>
@@ -249,8 +255,8 @@ asen sakee（热度：54983）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E7%8B%AC%E7%AB%8B%23" target="weibo">
-特朗普支持格陵兰岛独立（热度：52138）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%B8%B4%E6%97%B6%E6%80%BB%E7%BB%9F%23" target="weibo">
+委内瑞拉临时总统（热度：51518）
 </a>
 </li>
 
@@ -333,12 +339,6 @@ asen sakee（热度：54983）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%B8%B4%E6%97%B6%E6%80%BB%E7%BB%9F%23" target="weibo">
-委内瑞拉临时总统（热度：28390）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1Get%E5%94%B1%E6%AD%8C%E5%8E%BB%E5%A4%84%23" target="weibo">
 檀健次Get唱歌去处（热度：19751）
 </a>
@@ -359,6 +359,12 @@ asen sakee（热度：54983）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E6%96%B0%E6%AD%8C%E5%A4%96%E7%BD%91%E4%B8%8A%E7%BA%BF%23" target="weibo">
 檀健次新歌外网上线（热度：17372）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E7%94%B5%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B01.92%E4%BA%BF%E5%8F%B0%23" target="weibo">
+家电以旧换新1.92亿台（热度：8780）
 </a>
 </li>
 

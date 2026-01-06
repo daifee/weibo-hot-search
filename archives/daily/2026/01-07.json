@@ -1,6 +1,6 @@
 {
   "startTime": 1767717567538,
-  "endTime": 1767725717350,
+  "endTime": 1767727466425,
   "band_list": [
     {
       "raw_hot": 465142,
@@ -259,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 68229,
+      "num": 52260,
+      "word": "特朗普支持格陵兰岛独立",
+      "onboard_time": 1767724275,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 65898,
       "num": 101030,
       "word": "男子偷500张刮刮乐隔一会刮一张",
@@ -315,11 +323,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 52138,
-      "num": 36882,
-      "word": "特朗普支持格陵兰岛独立",
-      "onboard_time": 1767724275,
-      "rank": 30,
+      "raw_hot": 51518,
+      "num": 51518,
+      "word": "委内瑞拉临时总统",
+      "onboard_time": 1767724815,
+      "rank": 18,
       "category": "国际时政"
     },
     {
@@ -427,14 +435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28390,
-      "num": 36973,
-      "word": "委内瑞拉临时总统",
-      "onboard_time": 1767724815,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 19751,
       "num": 51182,
       "word": "檀健次Get唱歌去处",
@@ -465,6 +465,14 @@
       "onboard_time": 1767723315,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 8780,
+      "num": 52297,
+      "word": "家电以旧换新1.92亿台",
+      "onboard_time": 1767708022,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

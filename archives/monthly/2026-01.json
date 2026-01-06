@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767725717350,
+  "endTime": 1767727466425,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -14523,6 +14523,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 68229,
+      "num": 52260,
+      "word": "特朗普支持格陵兰岛独立",
+      "onboard_time": 1767724275,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 68161,
       "num": 845836,
       "word": "三角洲特种部队是什么",
@@ -15947,14 +15955,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 52138,
-      "num": 36882,
-      "word": "特朗普支持格陵兰岛独立",
-      "onboard_time": 1767724275,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 52036,
       "num": 748274,
       "word": "卡利亚里0比1AC米兰",
@@ -16001,6 +16001,14 @@
       "onboard_time": 1767316160,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51518,
+      "num": 51518,
+      "word": "委内瑞拉临时总统",
+      "onboard_time": 1767724815,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 51403,
@@ -17787,14 +17795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 28390,
-      "num": 36973,
-      "word": "委内瑞拉临时总统",
-      "onboard_time": 1767724815,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 28358,
       "num": 233155,
       "word": "暖阳时隔五年再获FMVP",
@@ -18617,6 +18617,14 @@
       "onboard_time": 1767550695,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 8780,
+      "num": 52297,
+      "word": "家电以旧换新1.92亿台",
+      "onboard_time": 1767708022,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8012,

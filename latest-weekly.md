@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/04 00:34:09 ~ 2026/01/07 02:55:17
+本榜单时间：2026/01/04 00:34:09 ~ 2026/01/07 03:24:26
 </p>
 </blockquote>
 <p>
@@ -6633,6 +6633,12 @@ T1新队服公开（热度：75378）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E7%8B%AC%E7%AB%8B%23" target="weibo">
+特朗普支持格陵兰岛独立（热度：68229）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E5%AF%B9%E5%A7%94%E5%B1%80%E5%8A%BF%E5%8D%87%E7%BA%A7%E6%B7%B1%E6%84%9F%E9%9C%87%E6%83%8A%23" target="weibo">
 联合国秘书长对委局势升级深感震惊（热度：67238）
 </a>
@@ -7011,12 +7017,6 @@ A股脑机接口概念集体爆发（热度：52205）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E7%8B%AC%E7%AB%8B%23" target="weibo">
-特朗普支持格陵兰岛独立（热度：52138）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94%E6%88%BF%E9%97%B4%E8%83%BD%E7%9C%8B%E5%88%B0%E6%B8%B8%E6%B3%B3%E6%B1%A0%E6%B0%B4%E5%BA%95%23" target="weibo">
 酒店回应房间能看到游泳池水底（热度：51808）
 </a>
@@ -7025,6 +7025,12 @@ A股脑机接口概念集体爆发（热度：52205）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E6%B0%91%E4%B8%BB%E5%85%9A%E8%AE%AE%E5%91%98%E6%8F%90%E8%AE%AE%E7%BD%A2%E5%85%8D%E7%89%B9%E6%9C%97%E6%99%AE%23" target="weibo">
 多名民主党议员提议罢免特朗普（热度：51724）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%B8%B4%E6%97%B6%E6%80%BB%E7%BB%9F%23" target="weibo">
+委内瑞拉临时总统（热度：51518）
 </a>
 </li>
 
@@ -7635,12 +7641,6 @@ MRC夺冠（热度：40693）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%B8%B4%E6%97%B6%E6%80%BB%E7%BB%9F%23" target="weibo">
-委内瑞拉临时总统（热度：28390）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E8%B8%AE%E8%B5%B7%E8%84%9A%E6%8A%B1%E9%BB%84%E6%99%AF%E7%91%9C%23" target="weibo">
 王嘉尔踮起脚抱黄景瑜（热度：28243）
 </a>
@@ -7991,6 +7991,12 @@ kpl王者荣耀巅峰之夜（热度：14148）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23AG%E5%AE%A3%E5%B8%83%E5%89%AF%E6%95%99%E7%BB%83%E6%9D%8E%E6%89%98%E5%8D%B8%E4%BB%BB%23" target="weibo">
 AG宣布副教练李托卸任（热度：9244）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E7%94%B5%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B01.92%E4%BA%BF%E5%8F%B0%23" target="weibo">
+家电以旧换新1.92亿台（热度：8780）
 </a>
 </li>
 
