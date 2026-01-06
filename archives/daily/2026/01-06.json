@@ -1,6 +1,6 @@
 {
   "startTime": 1767631011864,
-  "endTime": 1767699657767,
+  "endTime": 1767704332447,
   "band_list": [
     {
       "raw_hot": 2133729,
@@ -187,6 +187,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 684643,
+      "num": 1109542,
+      "word": "上海下雪",
+      "onboard_time": 1767700522,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 644235,
       "num": 644235,
       "word": "新生儿被剪断手指事件双方达成和解",
@@ -235,12 +243,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 576617,
+      "num": 797949,
+      "word": "车厘子暴跌第一批受害者出现",
+      "onboard_time": 1767702143,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 574191,
+      "num": 574191,
+      "word": "武大靖官宣退役",
+      "onboard_time": 1767701602,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 557975,
       "num": 487362,
       "word": "委内瑞拉临时总统宣誓就任",
       "onboard_time": 1767660742,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 536306,
+      "num": 320874,
+      "word": "女教师结婚当日坠楼背后",
+      "onboard_time": 1767699861,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 521966,
@@ -299,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 474568,
+      "num": 224960,
+      "word": "马筱梅挺孕肚挑礼服",
+      "onboard_time": 1767700581,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 470247,
       "num": 470247,
       "word": "婚礼电子请柬 访客记录",
@@ -321,6 +361,22 @@
       "onboard_time": 1767676461,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 452704,
+      "num": 223751,
+      "word": "日本流行梅毒妆",
+      "onboard_time": 1767702023,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 452584,
+      "num": 452584,
+      "word": "男子自带3瓶茅台全被服务员调包",
+      "onboard_time": 1767700341,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 449226,
@@ -451,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 385985,
+      "num": 223520,
+      "word": "赵樱子承认整容",
+      "onboard_time": 1767700820,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 384405,
       "num": 1057218,
       "word": "李在明抵沪继续中国之行",
@@ -465,6 +529,14 @@
       "onboard_time": 1767679880,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 380948,
+      "num": 222261,
+      "word": "王玉雯漂亮得像洋娃娃一样",
+      "onboard_time": 1767702081,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 371171,
@@ -513,6 +585,14 @@
       "onboard_time": 1767695061,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 332536,
+      "num": 332536,
+      "word": "1盒内存条堪比上海1套房",
+      "onboard_time": 1767702321,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 332048,
@@ -755,6 +835,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 220137,
+      "num": 220137,
+      "word": "穆祉丞发博",
+      "onboard_time": 1767703101,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220103,
       "num": 220103,
       "word": "张翰已被冻结165万股权",
@@ -811,12 +899,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212311,
+      "num": 212311,
+      "word": "李霄云余额1块6付不起停车费",
+      "onboard_time": 1767703642,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212149,
       "num": 212149,
       "word": "林屿森留宿",
       "onboard_time": 1767691041,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210363,
+      "num": 331092,
+      "word": "男子8.2万买的卡皮巴拉到货后死亡",
+      "onboard_time": 1767698901,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 209754,
@@ -851,12 +955,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204587,
+      "num": 204587,
+      "word": "租房住和不租房住的都沉默了",
+      "onboard_time": 1767700041,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 201165,
       "num": 201165,
       "word": "A股",
       "onboard_time": 1767684320,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 200124,
+      "num": 200124,
+      "word": "关晓彤21年只拍了一部戏",
+      "onboard_time": 1767703942,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 198788,
@@ -929,6 +1049,14 @@
       "onboard_time": 1767673762,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189241,
+      "num": 189241,
+      "word": "2025年度最扑剧集",
+      "onboard_time": 1767704303,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 187145,
@@ -1011,6 +1139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178967,
+      "num": 178967,
+      "word": "大帅爆改",
+      "onboard_time": 1767701182,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 178116,
       "num": 178116,
       "word": "2026KPL春季赛大名单",
@@ -1059,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169914,
+      "num": 329712,
+      "word": "武大靖不想有退役仪式",
+      "onboard_time": 1767703281,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168553,
       "num": 154296,
       "word": "王勃好像被夺走气运的男主",
@@ -1072,6 +1216,14 @@
       "word": "刘宇宁新年第一播",
       "onboard_time": 1767698421,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 166131,
+      "num": 166131,
+      "word": "导演贝拉塔尔去世",
+      "onboard_time": 1767704121,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -1140,7 +1292,7 @@
     },
     {
       "raw_hot": 159715,
-      "num": 107384,
+      "num": 117353,
       "word": "羽绒服一下就洗干净了",
       "onboard_time": 1767698541,
       "rank": 41,
@@ -1153,6 +1305,14 @@
       "onboard_time": 1767669141,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159092,
+      "num": 159092,
+      "word": "字节跳动实习生涨薪最高日薪500元",
+      "onboard_time": 1767701301,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 157726,
@@ -1172,11 +1332,19 @@
     },
     {
       "raw_hot": 157492,
-      "num": 208698,
+      "num": 228374,
       "word": "宋威龙现偶偶爸",
       "onboard_time": 1767699021,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156982,
+      "num": 156982,
+      "word": "肖战秘密花园 隔时空对话",
+      "onboard_time": 1767703101,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 153754,
@@ -1344,6 +1512,14 @@
       "word": "明星们基因彩票的杀伤力",
       "onboard_time": 1767684919,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 139845,
+      "num": 139845,
+      "word": "女演员自曝因没背景被换角",
+      "onboard_time": 1767699621,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -1995,6 +2171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104378,
+      "num": 104378,
+      "word": "喜欢喝咖啡的建议反复观看",
+      "onboard_time": 1767704003,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 104325,
       "num": 166685,
       "word": "小鸟误入游泳馆定居一年变圆滚滚",
@@ -2075,12 +2259,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 98826,
+      "num": 98826,
+      "word": "mrc投票",
+      "onboard_time": 1767702922,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 97756,
       "num": 97756,
       "word": "男子心脏疼反复检查竟是带状疱疹",
       "onboard_time": 1767698661,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 97612,
+      "num": 97612,
+      "word": "孙颖莎马龙互送礼物的仪式感",
+      "onboard_time": 1767702741,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 97189,
@@ -2104,14 +2304,6 @@
       "word": "产后55天遭丈夫家暴女子发声",
       "onboard_time": 1767615382,
       "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96501,
-      "num": 239968,
-      "word": "男子8.2万买的卡皮巴拉到货后死亡",
-      "onboard_time": 1767698901,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -2139,6 +2331,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 96147,
+      "num": 96147,
+      "word": "张若昀阴湿男鬼味",
+      "onboard_time": 1767703521,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95539,
       "num": 95539,
       "word": "德国杯",
@@ -2161,6 +2361,14 @@
       "onboard_time": 1767655818,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 94641,
+      "num": 94641,
+      "word": "这种剧在内娱现偶还是第一次见",
+      "onboard_time": 1767704303,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 94498,
@@ -2219,6 +2427,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 92731,
+      "num": 92731,
+      "word": "柯南剧场版永不完结",
+      "onboard_time": 1767704182,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 92483,
       "num": 92483,
       "word": "李在明在华发文",
@@ -2251,6 +2467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90654,
+      "num": 90654,
+      "word": "张凌赫 媚眼抛给瞎子看",
+      "onboard_time": 1767699861,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90629,
       "num": 160673,
       "word": "委内瑞拉局势或取决于3个人",
@@ -2259,8 +2483,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 90191,
+      "num": 90191,
+      "word": "上海打雷",
+      "onboard_time": 1767702981,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90146,
-      "num": 171952,
+      "num": 221112,
       "word": "张凌赫适乐肤线下人气",
       "onboard_time": 1767698121,
       "rank": 22,
@@ -2337,6 +2569,14 @@
       "onboard_time": 1767664821,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 86128,
+      "num": 90635,
+      "word": "苏醒 我太狂了控制不住自己",
+      "onboard_time": 1767703042,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 85644,
@@ -2561,6 +2801,14 @@
       "onboard_time": 1767629482,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 55692,
+      "num": 108027,
+      "word": "中国男子马来西亚潜水拖拽玳瑁",
+      "onboard_time": 1767703162,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55550,
@@ -2860,7 +3108,7 @@
     },
     {
       "raw_hot": 33838,
-      "num": 641902,
+      "num": 646586,
       "word": "元旦假期交通出行5.95亿人次",
       "onboard_time": 1767693021,
       "rank": 2,
@@ -2987,6 +3235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 22966,
+      "num": 225783,
+      "word": "李在明访华后在社媒上分享了什么",
+      "onboard_time": 1767703343,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 22835,
       "num": 183841,
       "word": "领养12岁外甥女90后小伙否认卖惨",
@@ -3089,14 +3345,6 @@
       "onboard_time": 1767672322,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11691,
-      "num": 95852,
-      "word": "女演员自曝因没背景被换角",
-      "onboard_time": 1767699621,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 6886,

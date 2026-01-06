@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767699657767,
+  "endTime": 1767704332447,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -763,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 684643,
+      "num": 1109542,
+      "word": "上海下雪",
+      "onboard_time": 1767700522,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 678667,
       "num": 678667,
       "word": "奔跑吧下一季要换人了",
@@ -1059,6 +1067,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 576617,
+      "num": 797949,
+      "word": "车厘子暴跌第一批受害者出现",
+      "onboard_time": 1767702143,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 574191,
+      "num": 574191,
+      "word": "武大靖官宣退役",
+      "onboard_time": 1767701602,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 572505,
       "num": 925354,
       "word": "给张凌赫递麦的是靳梦佳",
@@ -1168,6 +1192,14 @@
       "word": "山姆车厘子每斤狂降70元",
       "onboard_time": 1767596781,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 536306,
+      "num": 320874,
+      "word": "女教师结婚当日坠楼背后",
+      "onboard_time": 1767699861,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -1579,6 +1611,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 474568,
+      "num": 224960,
+      "word": "马筱梅挺孕肚挑礼服",
+      "onboard_time": 1767700581,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 474519,
       "num": 393595,
       "word": "iPhone千万别删的自带软件",
@@ -1736,6 +1776,22 @@
       "word": "太二卖不动酸菜鱼了",
       "onboard_time": 1767410187,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 452704,
+      "num": 223751,
+      "word": "日本流行梅毒妆",
+      "onboard_time": 1767702023,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 452584,
+      "num": 452584,
+      "word": "男子自带3瓶茅台全被服务员调包",
+      "onboard_time": 1767700341,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -2179,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 385985,
+      "num": 223520,
+      "word": "赵樱子承认整容",
+      "onboard_time": 1767700820,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 384444,
       "num": 623106,
       "word": "高市早苗手持安倍画像参拜",
@@ -2209,6 +2273,14 @@
       "onboard_time": 1767585502,
       "rank": 13,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 380948,
+      "num": 222261,
+      "word": "王玉雯漂亮得像洋娃娃一样",
+      "onboard_time": 1767702081,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 380634,
@@ -2329,78 +2401,6 @@
       "onboard_time": 1767527842,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 369740,
-      "num": 272957,
-      "word": "委内瑞拉副总统代行总统职权",
-      "onboard_time": 1767494541,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 369470,
-      "num": 833828,
-      "word": "休三上六",
-      "onboard_time": 1767500304,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 368104,
-      "num": 318689,
-      "word": "娜扎 有福气的人都不上镜",
-      "onboard_time": 1767499104,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 366972,
-      "num": 263172,
-      "word": "真正不需要梦女的男明星",
-      "onboard_time": 1767585381,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 365715,
-      "num": 1095962,
-      "word": "原来中年发福不是因为代谢变差",
-      "onboard_time": 1767395418,
-      "rank": 10,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 363412,
-      "num": 263565,
-      "word": "eStarPro Fly",
-      "onboard_time": 1767600023,
-      "rank": 11,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 363403,
-      "num": 513173,
-      "word": "大麦提前放票",
-      "onboard_time": 1767537924,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 362967,
-      "num": 930830,
-      "word": "FMVP皮肤",
-      "onboard_time": 1767354981,
-      "rank": 15,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 362639,
-      "num": 724004,
-      "word": "68岁阿姨豪掷92万养老金为男友买表",
-      "onboard_time": 1767529163,
-      "rank": 25,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
