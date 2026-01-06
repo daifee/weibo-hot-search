@@ -1,0 +1,410 @@
+{
+  "runTime": 1767688882840,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 410068,
+        "num": 1065611,
+        "word": "南京下雪",
+        "onboard_time": 1767683300,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393081,
+        "num": 761510,
+        "word": "身无分文男子到彩票店刮800元彩票",
+        "onboard_time": 1767684441,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36914,
+        "num": 615123,
+        "word": "冰雪产业跻身万亿赛道",
+        "onboard_time": 1767672142,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314240,
+        "num": 314240,
+        "word": "女子以油养肤导致面部疯狂掉皮",
+        "onboard_time": 1767679040,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302341,
+        "num": 302341,
+        "word": "西施FMVP星传说皮肤",
+        "onboard_time": 1767686782,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 244616,
+        "num": 244616,
+        "word": "禁止所有两用物项对日本军事用途出口",
+        "onboard_time": 1767687623,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200353,
+        "num": 200353,
+        "word": "A股",
+        "onboard_time": 1767684320,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 183180,
+        "num": 183180,
+        "word": "瑞幸回应店员徒手捏冰块搅拌饮品",
+        "onboard_time": 1767679880,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177604,
+        "num": 177604,
+        "word": "2026KPL春季赛大名单",
+        "onboard_time": 1767688401,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155143,
+        "num": 176804,
+        "word": "三亚始祖鸟店排长队抢购秋冬款",
+        "onboard_time": 1767672621,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2050529,
+        "num": 176116,
+        "word": "日本年轻人聚众晒梅毒",
+        "onboard_time": 1767686601,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1074666,
+        "num": 174622,
+        "word": "日本梅毒扩散",
+        "onboard_time": 1767661942,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 725384,
+        "num": 174110,
+        "word": "厦门一5岁男童小区内遇害",
+        "onboard_time": 1767685459,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329012,
+        "num": 172857,
+        "word": "闪灵确认引进",
+        "onboard_time": 1767683541,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 261826,
+        "num": 171250,
+        "word": "美媒曝大批美军机突然飞往欧洲",
+        "onboard_time": 1767680901,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146255,
+        "num": 170272,
+        "word": "闪灵",
+        "onboard_time": 1767684801,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134785,
+        "num": 169341,
+        "word": "徐长卿紫萱进行曲被汪苏泷唱了",
+        "onboard_time": 1767683241,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131891,
+        "num": 167758,
+        "word": "从晋江文里抠出来的现偶男女主",
+        "onboard_time": 1767687921,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56435,
+        "num": 166504,
+        "word": "沈阳一小学期末卷被指夹带商业元素",
+        "onboard_time": 1767687742,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105424,
+        "num": 165572,
+        "word": "外交部回应马杜罗不认罪",
+        "onboard_time": 1767687921,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 862510,
+        "num": 164524,
+        "word": "白百何还回来当女明星吗",
+        "onboard_time": 1767686122,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457603,
+        "num": 163539,
+        "word": "易梦玲送阿哲5100黄金",
+        "onboard_time": 1767682579,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 421966,
+        "num": 162843,
+        "word": "颖儿做眼部热玛吉疼哭了",
+        "onboard_time": 1767684861,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311747,
+        "num": 161081,
+        "word": "小米称永不与大熊合作",
+        "onboard_time": 1767681802,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 215007,
+        "num": 160591,
+        "word": "冯提莫瘦了50斤",
+        "onboard_time": 1767670281,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 148169,
+        "num": 158542,
+        "word": "王者荣耀",
+        "onboard_time": 1767684801,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198412,
+        "num": 157396,
+        "word": "731部队曾用中国女性做梅毒实验",
+        "onboard_time": 1767686661,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157261,
+        "num": 157261,
+        "word": "白鹿宋威龙早期旧照",
+        "onboard_time": 1767678501,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153273,
+        "num": 153273,
+        "word": "一点点十年前的价目表",
+        "onboard_time": 1767685761,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145028,
+        "num": 145028,
+        "word": "AG官宣小俞回归",
+        "onboard_time": 1767686841,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 381479,
+        "num": 144677,
+        "word": "霸王茶姬辞退涉事店员",
+        "onboard_time": 1767677361,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143625,
+        "num": 143625,
+        "word": "正确称体重vs错误称体重",
+        "onboard_time": 1767685102,
+        "rank": 31,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 255308,
+        "num": 139732,
+        "word": "霸王茶姬通报",
+        "onboard_time": 1767676221,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132231,
+        "num": 132231,
+        "word": "女明星为孩子挤痘致其脸缝四针",
+        "onboard_time": 1767668421,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127289,
+        "num": 127289,
+        "word": "专家回应日本梅毒扩散",
+        "onboard_time": 1767688042,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 125882,
+        "num": 125882,
+        "word": "其实春节只放四天假",
+        "onboard_time": 1767686900,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118047,
+        "num": 118047,
+        "word": "给杨幂p成胶头滴管了",
+        "onboard_time": 1767687802,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53015,
+        "num": 117256,
+        "word": "林屿森聂曦光婚后就是不一样",
+        "onboard_time": 1767688102,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27620,
+        "num": 117013,
+        "word": "员工脚滑整桶麻酱淋头上",
+        "onboard_time": 1767688220,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84277,
+        "num": 116879,
+        "word": "丈夫离世6旬初代丁克不悔没要孩子",
+        "onboard_time": 1767688461,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116879,
+        "num": 116878,
+        "word": "狼队官宣一笙转会",
+        "onboard_time": 1767688762,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111623,
+        "num": 111623,
+        "word": "27岁健身教练精子畸形率超90%",
+        "onboard_time": 1767675021,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110177,
+        "num": 110177,
+        "word": "其实你已经嫁给公司了",
+        "onboard_time": 1767683059,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243910,
+        "num": 110009,
+        "word": "虞书欣双轨伴手礼",
+        "onboard_time": 1767687321,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41344,
+        "num": 108256,
+        "word": "中国留学生称日本地震半小时震6次",
+        "onboard_time": 1767687623,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108158,
+        "num": 108158,
+        "word": "中方呼吁立即释放委总统夫妇",
+        "onboard_time": 1767688700,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106892,
+        "num": 106892,
+        "word": "卢昱晓轧戏韩系高智感",
+        "onboard_time": 1767688520,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99565,
+        "num": 99565,
+        "word": "中国留学生在德遭袭反击致对方骨折",
+        "onboard_time": 1767676461,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98486,
+        "num": 98486,
+        "word": "林屿森聂曦光开荤了",
+        "onboard_time": 1767668480,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95565,
+        "num": 95565,
+        "word": "逍遥第40集第41分第31秒",
+        "onboard_time": 1767688762,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#2026元首外交开局#"
+    }
+  }
+}

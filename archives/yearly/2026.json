@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767685637121,
+  "endTime": 1767688882840,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -49,6 +49,14 @@
       "onboard_time": 1767676221,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2050529,
+      "num": 176116,
+      "word": "日本年轻人聚众晒梅毒",
+      "onboard_time": 1767686601,
+      "rank": 10,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 2040173,
@@ -435,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 862510,
+      "num": 164524,
+      "word": "白百何还回来当女明星吗",
+      "onboard_time": 1767686122,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 854227,
       "num": 266546,
       "word": "春晚彩排的明星",
@@ -659,6 +675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 725384,
+      "num": 174110,
+      "word": "厦门一5岁男童小区内遇害",
+      "onboard_time": 1767685459,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 724264,
       "num": 683928,
       "word": "西贝服务员工资条",
@@ -692,7 +716,7 @@
     },
     {
       "raw_hot": 688550,
-      "num": 159762,
+      "num": 163539,
       "word": "易梦玲送阿哲5100黄金",
       "onboard_time": 1767682579,
       "rank": 29,
@@ -1851,6 +1875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 421966,
+      "num": 162843,
+      "word": "颖儿做眼部热玛吉疼哭了",
+      "onboard_time": 1767684861,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 420432,
       "num": 339459,
       "word": "巴西认定委副总统为委内瑞拉领导人",
@@ -1904,6 +1936,14 @@
       "word": "上万元加拿大鹅三亚仅6900元",
       "onboard_time": 1767627802,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 410068,
+      "num": 1065611,
+      "word": "南京下雪",
+      "onboard_time": 1767683300,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -1971,14 +2011,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 401777,
-      "num": 1064284,
-      "word": "南京下雪",
-      "onboard_time": 1767683300,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 399540,
       "num": 281140,
       "word": "赵丽颖语文课本封面具象化",
@@ -2041,6 +2073,14 @@
       "onboard_time": 1767521123,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 393081,
+      "num": 761510,
+      "word": "身无分文男子到彩票店刮800元彩票",
+      "onboard_time": 1767684441,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 392817,
@@ -2361,46 +2401,6 @@
       "onboard_time": 1767460698,
       "rank": 11,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 356784,
-      "num": 1048671,
-      "word": "三亚始祖鸟店排长队抢购秋冬款",
-      "onboard_time": 1767672621,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 355944,
-      "num": 453473,
-      "word": "美国患胎儿酒精综合症女子被赶出家",
-      "onboard_time": 1767330260,
-      "rank": 20,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 355689,
-      "num": 1030943,
-      "word": "WB对战RW",
-      "onboard_time": 1767341059,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 352920,
-      "num": 652796,
-      "word": "杨幂邢菲赵丽颖兰西雅 是姐妹是知己",
-      "onboard_time": 1767528623,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 352056,
-      "num": 1028235,
-      "word": "在上海花了一千块吃的汤泡饭",
-      "onboard_time": 1767352700,
-      "rank": 33,
-      "category": "美食"
     }
   ],
   "hotgov_list": [

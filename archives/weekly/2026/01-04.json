@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767685637121,
+  "endTime": 1767688882840,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -17,6 +17,14 @@
       "onboard_time": 1767676221,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2050529,
+      "num": 176116,
+      "word": "日本年轻人聚众晒梅毒",
+      "onboard_time": 1767686601,
+      "rank": 10,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1998587,
@@ -283,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 862510,
+      "num": 164524,
+      "word": "白百何还回来当女明星吗",
+      "onboard_time": 1767686122,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 854227,
       "num": 266546,
       "word": "春晚彩排的明星",
@@ -435,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 725384,
+      "num": 174110,
+      "word": "厦门一5岁男童小区内遇害",
+      "onboard_time": 1767685459,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 724264,
       "num": 683928,
       "word": "西贝服务员工资条",
@@ -460,7 +484,7 @@
     },
     {
       "raw_hot": 688550,
-      "num": 159762,
+      "num": 163539,
       "word": "易梦玲送阿哲5100黄金",
       "onboard_time": 1767682579,
       "rank": 29,
@@ -1243,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 421966,
+      "num": 162843,
+      "word": "颖儿做眼部热玛吉疼哭了",
+      "onboard_time": 1767684861,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 420432,
       "num": 339459,
       "word": "巴西认定委副总统为委内瑞拉领导人",
@@ -1291,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 410068,
+      "num": 1065611,
+      "word": "南京下雪",
+      "onboard_time": 1767683300,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 408500,
       "num": 203753,
       "word": "特朗普威胁多国",
@@ -1321,14 +1361,6 @@
       "onboard_time": 1767502584,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 401777,
-      "num": 1064284,
-      "word": "南京下雪",
-      "onboard_time": 1767683300,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 399540,
@@ -1377,6 +1409,14 @@
       "onboard_time": 1767521123,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 393081,
+      "num": 761510,
+      "word": "身无分文男子到彩票店刮800元彩票",
+      "onboard_time": 1767684441,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 392598,
@@ -1883,6 +1923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 302341,
+      "num": 302341,
+      "word": "西施FMVP星传说皮肤",
+      "onboard_time": 1767686782,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 300684,
       "num": 268368,
       "word": "太原一商场马年雕塑被连夜拆除",
@@ -2345,6 +2393,22 @@
       "onboard_time": 1767489323,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244616,
+      "num": 244616,
+      "word": "禁止所有两用物项对日本军事用途出口",
+      "onboard_time": 1767687623,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 243910,
+      "num": 110009,
+      "word": "虞书欣双轨伴手礼",
+      "onboard_time": 1767687321,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 243433,
@@ -2907,6 +2971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198412,
+      "num": 157396,
+      "word": "731部队曾用中国女性做梅毒实验",
+      "onboard_time": 1767686661,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198081,
       "num": 198081,
       "word": "金价波动",
@@ -3331,6 +3403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177604,
+      "num": 177604,
+      "word": "2026KPL春季赛大名单",
+      "onboard_time": 1767688401,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 177139,
       "num": 272596,
       "word": "拒绝彭于晏的女人出现了",
@@ -3747,14 +3827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161143,
-      "num": 161143,
-      "word": "身无分文男子到彩票店刮800元彩票",
-      "onboard_time": 1767684441,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 159691,
       "num": 159691,
       "word": "内娱首部洋葱剧来了",
@@ -3873,6 +3945,14 @@
       "onboard_time": 1767627262,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153273,
+      "num": 153273,
+      "word": "一点点十年前的价目表",
+      "onboard_time": 1767685761,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 153091,
@@ -4139,6 +4219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145028,
+      "num": 145028,
+      "word": "AG官宣小俞回归",
+      "onboard_time": 1767686841,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144907,
       "num": 144907,
       "word": "被张碧晨这一下帅晕了",
@@ -4169,6 +4257,14 @@
       "onboard_time": 1767598582,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 143625,
+      "num": 143625,
+      "word": "正确称体重vs错误称体重",
+      "onboard_time": 1767685102,
+      "rank": 36,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 143426,
@@ -4361,14 +4457,6 @@
       "onboard_time": 1767611659,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 138780,
-      "num": 138780,
-      "word": "颖儿做眼部热玛吉疼哭了",
-      "onboard_time": 1767684861,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 138290,
@@ -4579,6 +4667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 131891,
+      "num": 167758,
+      "word": "从晋江文里抠出来的现偶男女主",
+      "onboard_time": 1767687921,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131156,
       "num": 131156,
       "word": "恋与深空",
@@ -4731,6 +4827,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 127289,
+      "num": 127289,
+      "word": "专家回应日本梅毒扩散",
+      "onboard_time": 1767688042,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 127276,
       "num": 127276,
       "word": "迪丽热巴辛芷蕾卢昱晓 2025打女",
@@ -4835,6 +4939,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125882,
+      "num": 125882,
+      "word": "其实春节只放四天假",
+      "onboard_time": 1767686900,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125583,
       "num": 125583,
       "word": "黑泽杀回短剧赛道",
@@ -4843,28 +4955,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125178,
-      "num": 125178,
-      "word": "厦门一5岁男童小区内遇害",
-      "onboard_time": 1767685459,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125040,
       "num": 125040,
       "word": "宋祖儿和闺蜜跨年",
       "onboard_time": 1767524783,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125012,
-      "num": 125012,
-      "word": "正确称体重vs错误称体重",
-      "onboard_time": 1767685102,
-      "rank": 36,
-      "category": "幽默,休闲"
     },
     {
       "raw_hot": 124942,
@@ -5155,6 +5251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118047,
+      "num": 118047,
+      "word": "给杨幂p成胶头滴管了",
+      "onboard_time": 1767687802,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117969,
       "num": 117969,
       "word": "罗云熙让体制内具象化了",
@@ -5201,6 +5305,14 @@
       "onboard_time": 1767587904,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116879,
+      "num": 116878,
+      "word": "狼队官宣一笙转会",
+      "onboard_time": 1767688762,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 116803,
@@ -5499,6 +5611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108158,
+      "num": 108158,
+      "word": "中方呼吁立即释放委总统夫妇",
+      "onboard_time": 1767688700,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 108142,
       "num": 108142,
       "word": "6种常见胃病离胃癌很近",
@@ -5545,6 +5665,14 @@
       "onboard_time": 1767657560,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106892,
+      "num": 106892,
+      "word": "卢昱晓轧戏韩系高智感",
+      "onboard_time": 1767688520,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 106679,
@@ -5617,6 +5745,14 @@
       "onboard_time": 1767508882,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 105424,
+      "num": 165572,
+      "word": "外交部回应马杜罗不认罪",
+      "onboard_time": 1767687921,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 105112,
@@ -6185,6 +6321,14 @@
       "onboard_time": 1767517102,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95565,
+      "num": 95565,
+      "word": "逍遥第40集第41分第31秒",
+      "onboard_time": 1767688762,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 95486,
@@ -6880,6 +7024,14 @@
       "word": "23岁女孩遇车祸脑疝母亲下跪托付",
       "onboard_time": 1767579021,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84277,
+      "num": 116879,
+      "word": "丈夫离世6旬初代丁克不悔没要孩子",
+      "onboard_time": 1767688461,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -7723,6 +7875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56435,
+      "num": 166504,
+      "word": "沈阳一小学期末卷被指夹带商业元素",
+      "onboard_time": 1767687742,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56413,
       "num": 204756,
       "word": "2025KPL冬季转会期",
@@ -7809,6 +7969,14 @@
       "onboard_time": 1767618201,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 53015,
+      "num": 117256,
+      "word": "林屿森聂曦光婚后就是不一样",
+      "onboard_time": 1767688102,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 52982,
@@ -8123,6 +8291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41344,
+      "num": 108256,
+      "word": "中国留学生称日本地震半小时震6次",
+      "onboard_time": 1767687623,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 41297,
       "num": 429872,
       "word": "拖米说KPL是国内第一赛事",
@@ -8280,6 +8456,14 @@
       "word": "中国游客减少赴日韩国享受反射收益",
       "onboard_time": 1767666081,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36914,
+      "num": 615123,
+      "word": "冰雪产业跻身万亿赛道",
+      "onboard_time": 1767672142,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -8593,6 +8777,14 @@
       "onboard_time": 1767465015,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27620,
+      "num": 117013,
+      "word": "员工脚滑整桶麻酱淋头上",
+      "onboard_time": 1767688220,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27372,
@@ -8953,14 +9145,6 @@
       "onboard_time": 1767550695,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 8348,
-      "num": 236328,
-      "word": "冰雪产业跻身万亿赛道",
-      "onboard_time": 1767672142,
-      "rank": 14,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
