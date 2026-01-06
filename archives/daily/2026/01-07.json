@@ -1,6 +1,6 @@
 {
   "startTime": 1767717567538,
-  "endTime": 1767727466425,
+  "endTime": 1767728403989,
   "band_list": [
     {
       "raw_hot": 465142,
@@ -203,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78433,
+      "num": 52260,
+      "word": "特朗普支持格陵兰岛独立",
+      "onboard_time": 1767724275,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 77237,
       "num": 175442,
       "word": "民航局动真格整治过低机票价",
@@ -259,14 +267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 68229,
-      "num": 52260,
-      "word": "特朗普支持格陵兰岛独立",
-      "onboard_time": 1767724275,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 65898,
       "num": 101030,
       "word": "男子偷500张刮刮乐隔一会刮一张",
@@ -289,6 +289,14 @@
       "onboard_time": 1767701301,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 59048,
+      "num": 51518,
+      "word": "委内瑞拉临时总统",
+      "onboard_time": 1767724815,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 58202,
@@ -321,14 +329,6 @@
       "onboard_time": 1767692300,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 51518,
-      "num": 51518,
-      "word": "委内瑞拉临时总统",
-      "onboard_time": 1767724815,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 50087,
@@ -435,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25619,
+      "num": 38461,
+      "word": "刘耀文录制第一天就开始期待骑马",
+      "onboard_time": 1767727814,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 19751,
       "num": 51182,
       "word": "檀健次Get唱歌去处",
@@ -460,14 +468,14 @@
     },
     {
       "raw_hot": 17372,
-      "num": 36883,
+      "num": 37616,
       "word": "檀健次新歌外网上线",
       "onboard_time": 1767723315,
       "rank": 28,
       "category": "音乐"
     },
     {
-      "raw_hot": 8780,
+      "raw_hot": 8971,
       "num": 52297,
       "word": "家电以旧换新1.92亿台",
       "onboard_time": 1767708022,

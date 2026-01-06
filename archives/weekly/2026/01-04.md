@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/04 00:34:09 ~ 2026/01/07 03:24:26
+本榜单时间：2026/01/04 00:34:09 ~ 2026/01/07 03:40:03
 </p>
 </blockquote>
 <p>
@@ -6387,6 +6387,12 @@ Faker定制版跑车太帅了（热度：78435）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E7%8B%AC%E7%AB%8B%23" target="weibo">
+特朗普支持格陵兰岛独立（热度：78433）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%83%A8%E5%89%A7%E6%BB%A1%E8%B6%B3%E4%BA%86%E6%88%91%E6%89%80%E6%9C%89%E7%8E%B0%E5%81%B6%E7%99%96%23" target="weibo">
 一部剧满足了我所有现偶癖（热度：78173）
 </a>
@@ -6633,12 +6639,6 @@ T1新队服公开（热度：75378）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E7%8B%AC%E7%AB%8B%23" target="weibo">
-特朗普支持格陵兰岛独立（热度：68229）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E5%AF%B9%E5%A7%94%E5%B1%80%E5%8A%BF%E5%8D%87%E7%BA%A7%E6%B7%B1%E6%84%9F%E9%9C%87%E6%83%8A%23" target="weibo">
 联合国秘书长对委局势升级深感震惊（热度：67238）
 </a>
@@ -6843,6 +6843,12 @@ XC70在尔滨冻真格了（热度：60113）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%B8%B4%E6%97%B6%E6%80%BB%E7%BB%9F%23" target="weibo">
+委内瑞拉临时总统（热度：59048）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF%E5%86%8D%E5%BA%A6%E7%B4%A7%E5%BC%A0%23" target="weibo">
 伊朗局势再度紧张（热度：58717）
 </a>
@@ -7025,12 +7031,6 @@ A股脑机接口概念集体爆发（热度：52205）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E6%B0%91%E4%B8%BB%E5%85%9A%E8%AE%AE%E5%91%98%E6%8F%90%E8%AE%AE%E7%BD%A2%E5%85%8D%E7%89%B9%E6%9C%97%E6%99%AE%23" target="weibo">
 多名民主党议员提议罢免特朗普（热度：51724）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%B8%B4%E6%97%B6%E6%80%BB%E7%BB%9F%23" target="weibo">
-委内瑞拉临时总统（热度：51518）
 </a>
 </li>
 
@@ -7713,6 +7713,12 @@ MRC夺冠（热度：40693）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E5%BD%95%E5%88%B6%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%B0%B1%E5%BC%80%E5%A7%8B%E6%9C%9F%E5%BE%85%E9%AA%91%E9%A9%AC%23" target="weibo">
+刘耀文录制第一天就开始期待骑马（热度：25619）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E8%AE%A4%E5%87%BA%E5%AD%99%E5%8D%83%E5%A3%B0%E9%9F%B3%E5%8F%AA%E9%9C%80%E8%A6%81%E4%B8%80%E7%A7%92%23" target="weibo">
 黄景瑜认出孙千声音只需要一秒（热度：25265）
 </a>
@@ -7996,7 +8002,7 @@ AG宣布副教练李托卸任（热度：9244）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E7%94%B5%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B01.92%E4%BA%BF%E5%8F%B0%23" target="weibo">
-家电以旧换新1.92亿台（热度：8780）
+家电以旧换新1.92亿台（热度：8971）
 </a>
 </li>
 
