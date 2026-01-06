@@ -1,6 +1,6 @@
 {
   "startTime": 1767631011864,
-  "endTime": 1767695615284,
+  "endTime": 1767696612342,
   "band_list": [
     {
       "raw_hot": 2133729,
@@ -17,6 +17,14 @@
       "onboard_time": 1767686601,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1497333,
+      "num": 413885,
+      "word": "骄阳似我大结局",
+      "onboard_time": 1767694461,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 1485815,
@@ -51,14 +59,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1099339,
-      "num": 413885,
-      "word": "骄阳似我大结局",
-      "onboard_time": 1767694461,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1070936,
       "num": 496434,
       "word": "李在镕在北京买了100个labubu",
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 985682,
-      "num": 170070,
+      "num": 293064,
       "word": "白百何还回来当女明星吗",
       "onboard_time": 1767686122,
       "rank": 20,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 844462,
+      "num": 303981,
+      "word": "月薪一万的工作强度",
+      "onboard_time": 1767692300,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 839039,
       "num": 279380,
       "word": "林屿森都显怀了庄序还没释怀",
@@ -140,23 +148,15 @@
     },
     {
       "raw_hot": 811408,
-      "num": 167976,
+      "num": 300237,
       "word": "日本梅毒",
       "onboard_time": 1767690320,
       "rank": 22,
       "category": "国际时政"
     },
     {
-      "raw_hot": 791306,
-      "num": 174001,
-      "word": "月薪一万的工作强度",
-      "onboard_time": 1767692300,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 725384,
-      "num": 174110,
+      "num": 267165,
       "word": "厦门一5岁男童小区内遇害",
       "onboard_time": 1767685459,
       "rank": 35,
@@ -483,8 +483,16 @@
       "category": "数码"
     },
     {
+      "raw_hot": 333149,
+      "num": 333149,
+      "word": "骄阳似我的庆功宴",
+      "onboard_time": 1767695061,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 332048,
-      "num": 164276,
+      "num": 228417,
       "word": "张凯毅起诉黄金凤冠造谣者",
       "onboard_time": 1767689121,
       "rank": 23,
@@ -548,7 +556,7 @@
     },
     {
       "raw_hot": 295075,
-      "num": 215268,
+      "num": 307243,
       "word": "丈夫离世6旬初代丁克不悔没要孩子",
       "onboard_time": 1767688461,
       "rank": 39,
@@ -564,11 +572,19 @@
     },
     {
       "raw_hot": 292587,
-      "num": 214433,
+      "num": 317661,
       "word": "白鹿这首离婚的歌听了388遍",
       "onboard_time": 1767689960,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291728,
+      "num": 291728,
+      "word": "王一博肖战张凌赫男明星最佳穿搭",
+      "onboard_time": 1767694402,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 287910,
@@ -593,14 +609,6 @@
       "onboard_time": 1767621802,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 263986,
-      "num": 227274,
-      "word": "骄阳似我的庆功宴",
-      "onboard_time": 1767695061,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 263388,
@@ -668,7 +676,7 @@
     },
     {
       "raw_hot": 230896,
-      "num": 230896,
+      "num": 315455,
       "word": "何老师带过最难带的学生出现了",
       "onboard_time": 1767689960,
       "rank": 15,
@@ -683,14 +691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 229288,
-      "num": 146187,
-      "word": "王一博肖战张凌赫男明星最佳穿搭",
-      "onboard_time": 1767694402,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 220600,
       "num": 181418,
       "word": "特斯拉推出7年超低息购车",
@@ -699,20 +699,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 220103,
+      "num": 220103,
+      "word": "张翰已被冻结165万股权",
+      "onboard_time": 1767691702,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219101,
       "num": 443755,
       "word": "外交部回应马杜罗不认罪",
       "onboard_time": 1767687921,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 218142,
-      "num": 136255,
-      "word": "张翰已被冻结165万股权",
-      "onboard_time": 1767691702,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 216007,
@@ -867,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189241,
+      "num": 764622,
+      "word": "李在明抵沪继续中国之行",
+      "onboard_time": 1767695181,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 187145,
       "num": 157651,
       "word": "感染梅毒的典型症状",
@@ -881,6 +889,14 @@
       "onboard_time": 1767671781,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186990,
+      "num": 389386,
+      "word": "李在明抵达上海继续中国之行",
+      "onboard_time": 1767695841,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 186218,
@@ -993,6 +1009,14 @@
       "onboard_time": 1767689301,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 165822,
+      "num": 165822,
+      "word": "吃完垃圾食品记得吃解药",
+      "onboard_time": 1767694160,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 165480,
@@ -1283,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134127,
+      "num": 134127,
+      "word": "突然不爱了很正常",
+      "onboard_time": 1767693321,
+      "rank": 43,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 133978,
       "num": 133978,
       "word": "陈星旭的胸口好多人啊",
@@ -1353,14 +1385,6 @@
       "onboard_time": 1767670941,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127879,
-      "num": 127879,
-      "word": "吃完垃圾食品记得吃解药",
-      "onboard_time": 1767694160,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 127790,
@@ -1443,6 +1467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124681,
+      "num": 124681,
+      "word": "宋威龙赵今麦双人商务",
+      "onboard_time": 1767696320,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124631,
       "num": 114936,
       "word": "白鹿锁骨发",
@@ -1513,6 +1545,14 @@
       "onboard_time": 1767681021,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122611,
+      "num": 158713,
+      "word": "河北农村取暖气价高补贴被砍",
+      "onboard_time": 1767692781,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121894,
@@ -1803,6 +1843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106400,
+      "num": 108220,
+      "word": "小城大事不是大城小事",
+      "onboard_time": 1767695061,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106118,
       "num": 106118,
       "word": "真人电影不行了吗",
@@ -1811,28 +1859,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 105939,
-      "num": 105939,
-      "word": "小城大事不是大城小事",
-      "onboard_time": 1767695061,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 105805,
       "num": 105805,
       "word": "为什么有些人的脑子反应快",
       "onboard_time": 1767680540,
       "rank": 38,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 105740,
-      "num": 105740,
-      "word": "突然不爱了很正常",
-      "onboard_time": 1767693321,
-      "rank": 43,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 105112,
@@ -1979,6 +2011,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 96219,
+      "num": 96219,
+      "word": "王一博肖战上榜男明星最佳穿搭",
+      "onboard_time": 1767695902,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 95539,
       "num": 95539,
       "word": "德国杯",
@@ -2001,14 +2041,6 @@
       "onboard_time": 1767655818,
       "rank": 16,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 94711,
-      "num": 158713,
-      "word": "河北农村取暖气价高补贴被砍",
-      "onboard_time": 1767692781,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94498,
@@ -2259,6 +2291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 67293,
+      "num": 109961,
+      "word": "包文婧瘦回怀孕前体重",
+      "onboard_time": 1767696500,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66997,
       "num": 239389,
       "word": "残联回应残疾夫妇的孩子被烫伤去世",
@@ -2297,14 +2337,6 @@
       "onboard_time": 1767610102,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 61652,
-      "num": 178632,
-      "word": "李在明抵沪继续中国之行",
-      "onboard_time": 1767695181,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 61509,
@@ -2473,6 +2505,14 @@
       "onboard_time": 1767672142,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45480,
+      "num": 112409,
+      "word": "中国记者提问联合国现实意义",
+      "onboard_time": 1767695420,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 45089,
@@ -2715,14 +2755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26331,
-      "num": 112409,
-      "word": "中国记者提问联合国现实意义",
-      "onboard_time": 1767695420,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 26239,
       "num": 63446,
       "word": "刘宇宁千鸟格大衣春晚彩排路透",
@@ -2779,6 +2811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20947,
+      "num": 113681,
+      "word": "顾漫有点太懂爽文桥段了",
+      "onboard_time": 1767695302,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19682,
       "num": 173164,
       "word": "同学称在柬坠亡女导演不像会轻生的人",
@@ -2827,6 +2867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 13000,
+      "num": 220820,
+      "word": "外交部说没有国家可以充当国际警察",
+      "onboard_time": 1767696381,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12588,
       "num": 43549,
       "word": "CBA",
@@ -2849,14 +2897,6 @@
       "onboard_time": 1767672322,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7230,
-      "num": 113681,
-      "word": "顾漫有点太懂爽文桥段了",
-      "onboard_time": 1767695302,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 6886,

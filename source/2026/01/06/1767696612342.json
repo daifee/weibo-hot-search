@@ -1,0 +1,410 @@
+{
+  "runTime": 1767696612342,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 481113,
+        "num": 1076978,
+        "word": "禁止所有两用物项对日本军事用途出口",
+        "onboard_time": 1767687623,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189241,
+        "num": 764622,
+        "word": "李在明抵沪继续中国之行",
+        "onboard_time": 1767695181,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32418,
+        "num": 641407,
+        "word": "元旦假期交通出行5.95亿人次",
+        "onboard_time": 1767693021,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328650,
+        "num": 403637,
+        "word": "1家3口被撞亡父母患上抑郁症",
+        "onboard_time": 1767690320,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255233,
+        "num": 402694,
+        "word": "女子以油养肤导致面部疯狂掉皮",
+        "onboard_time": 1767679040,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402589,
+        "num": 402589,
+        "word": "一点点十年前的价目表",
+        "onboard_time": 1767685761,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 201897,
+        "num": 395525,
+        "word": "专家回应日本梅毒扩散",
+        "onboard_time": 1767688042,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 186990,
+        "num": 389386,
+        "word": "李在明抵达上海继续中国之行",
+        "onboard_time": 1767695841,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 161631,
+        "num": 379283,
+        "word": "南京下雪",
+        "onboard_time": 1767683300,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147299,
+        "num": 368400,
+        "word": "身无分文男子到彩票店刮800元彩票",
+        "onboard_time": 1767684441,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1501174,
+        "num": 363693,
+        "word": "日本年轻人聚众晒梅毒",
+        "onboard_time": 1767686601,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1497333,
+        "num": 350589,
+        "word": "骄阳似我大结局",
+        "onboard_time": 1767694461,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 725100,
+        "num": 341978,
+        "word": "日本梅毒扩散",
+        "onboard_time": 1767661942,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 145843,
+        "num": 337265,
+        "word": "外交部回应马杜罗不认罪",
+        "onboard_time": 1767687921,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 333149,
+        "num": 333149,
+        "word": "骄阳似我的庆功宴",
+        "onboard_time": 1767695061,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326585,
+        "num": 326585,
+        "word": "二婚妻子收15万彩礼后称要丁克",
+        "onboard_time": 1767691641,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320412,
+        "num": 320412,
+        "word": "骄阳似我",
+        "onboard_time": 1767694461,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173409,
+        "num": 317661,
+        "word": "白鹿这首离婚的歌听了388遍",
+        "onboard_time": 1767689960,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157850,
+        "num": 315455,
+        "word": "何老师带过最难带的学生出现了",
+        "onboard_time": 1767689960,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141533,
+        "num": 307243,
+        "word": "丈夫离世6旬初代丁克不悔没要孩子",
+        "onboard_time": 1767688461,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 844462,
+        "num": 303981,
+        "word": "月薪一万的工作强度",
+        "onboard_time": 1767692300,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 547735,
+        "num": 300237,
+        "word": "日本梅毒",
+        "onboard_time": 1767690320,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 527245,
+        "num": 293064,
+        "word": "白百何还回来当女明星吗",
+        "onboard_time": 1767686122,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291728,
+        "num": 291728,
+        "word": "王一博肖战张凌赫男明星最佳穿搭",
+        "onboard_time": 1767694402,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267165,
+        "num": 267165,
+        "word": "厦门一5岁男童小区内遇害",
+        "onboard_time": 1767685459,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228417,
+        "num": 228417,
+        "word": "张凯毅起诉黄金凤冠造谣者",
+        "onboard_time": 1767689121,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 13000,
+        "num": 220820,
+        "word": "外交部说没有国家可以充当国际警察",
+        "onboard_time": 1767696381,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 220103,
+        "num": 220103,
+        "word": "张翰已被冻结165万股权",
+        "onboard_time": 1767691702,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165822,
+        "num": 165822,
+        "word": "吃完垃圾食品记得吃解药",
+        "onboard_time": 1767694160,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134127,
+        "num": 134127,
+        "word": "突然不爱了很正常",
+        "onboard_time": 1767693321,
+        "rank": 29,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 222399,
+        "num": 133122,
+        "word": "霸王茶姬通报",
+        "onboard_time": 1767676221,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187135,
+        "num": 131979,
+        "word": "魏建军宣布新平台命名归元",
+        "onboard_time": 1767694222,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 124681,
+        "num": 124681,
+        "word": "宋威龙赵今麦双人商务",
+        "onboard_time": 1767696320,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122611,
+        "num": 122611,
+        "word": "河北农村取暖气价高补贴被砍",
+        "onboard_time": 1767692781,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117828,
+        "num": 117828,
+        "word": "林屿森留宿",
+        "onboard_time": 1767691041,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115441,
+        "num": 115441,
+        "word": "1元一小时的网吧现状",
+        "onboard_time": 1767690083,
+        "rank": 35,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 111242,
+        "num": 111242,
+        "word": "一笙长文告别狼队",
+        "onboard_time": 1767691820,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110659,
+        "num": 110659,
+        "word": "感染梅毒的典型症状",
+        "onboard_time": 1767690681,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 67293,
+        "num": 109961,
+        "word": "包文婧瘦回怀孕前体重",
+        "onboard_time": 1767696500,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45480,
+        "num": 109625,
+        "word": "中国记者提问联合国现实意义",
+        "onboard_time": 1767695420,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109380,
+        "num": 109380,
+        "word": "731部队曾用中国女性做梅毒实验",
+        "onboard_time": 1767686661,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106400,
+        "num": 108220,
+        "word": "小城大事不是大城小事",
+        "onboard_time": 1767695061,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107624,
+        "num": 107624,
+        "word": "美媒曝大批美军机突然飞往欧洲",
+        "onboard_time": 1767680901,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107205,
+        "num": 107205,
+        "word": "Faker不让Chovy打中单",
+        "onboard_time": 1767693441,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106699,
+        "num": 106699,
+        "word": "女子犯罪获刑四年后4次怀孕",
+        "onboard_time": 1767693441,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101673,
+        "num": 101673,
+        "word": "给杨幂p成胶头滴管了",
+        "onboard_time": 1767687802,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96573,
+        "num": 96573,
+        "word": "霸王茶姬辞退涉事店员",
+        "onboard_time": 1767677361,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20947,
+        "num": 96237,
+        "word": "顾漫有点太懂爽文桥段了",
+        "onboard_time": 1767695302,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96219,
+        "num": 96219,
+        "word": "王一博肖战上榜男明星最佳穿搭",
+        "onboard_time": 1767695902,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 96161,
+        "num": 96161,
+        "word": "马思纯和杨紫聊过想演双女主电影",
+        "onboard_time": 1767694940,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平心系长江经济带发展#"
+    }
+  }
+}
