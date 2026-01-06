@@ -1,0 +1,410 @@
+{
+  "runTime": 1767689692543,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 437794,
+        "num": 1070047,
+        "word": "禁止所有两用物项对日本军事用途出口",
+        "onboard_time": 1767687623,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 346132,
+        "num": 778100,
+        "word": "南京下雪",
+        "onboard_time": 1767683300,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44771,
+        "num": 610124,
+        "word": "冰雪产业跻身万亿赛道",
+        "onboard_time": 1767672142,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300907,
+        "num": 300907,
+        "word": "女子以油养肤导致面部疯狂掉皮",
+        "onboard_time": 1767679040,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224678,
+        "num": 224678,
+        "word": "西施FMVP星传说皮肤",
+        "onboard_time": 1767686782,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198223,
+        "num": 198223,
+        "word": "一点点十年前的价目表",
+        "onboard_time": 1767685761,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 178116,
+        "num": 178116,
+        "word": "2026KPL春季赛大名单",
+        "onboard_time": 1767688401,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 444902,
+        "num": 173949,
+        "word": "身无分文男子到彩票店刮800元彩票",
+        "onboard_time": 1767684441,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166185,
+        "num": 166185,
+        "word": "A股",
+        "onboard_time": 1767684320,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164299,
+        "num": 164299,
+        "word": "瑞幸回应店员徒手捏冰块搅拌饮品",
+        "onboard_time": 1767679880,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1963500,
+        "num": 163968,
+        "word": "日本年轻人聚众晒梅毒",
+        "onboard_time": 1767686601,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1014317,
+        "num": 163202,
+        "word": "日本梅毒扩散",
+        "onboard_time": 1767661942,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 258325,
+        "num": 162580,
+        "word": "闪灵确认引进",
+        "onboard_time": 1767683541,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214634,
+        "num": 161654,
+        "word": "美媒曝大批美军机突然飞往欧洲",
+        "onboard_time": 1767680901,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 684511,
+        "num": 160786,
+        "word": "厦门一5岁男童小区内遇害",
+        "onboard_time": 1767685459,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160753,
+        "num": 160753,
+        "word": "丈夫离世6旬初代丁克不悔没要孩子",
+        "onboard_time": 1767688461,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157636,
+        "num": 157636,
+        "word": "中方呼吁立即释放委总统夫妇",
+        "onboard_time": 1767688700,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156207,
+        "num": 156207,
+        "word": "闪灵",
+        "onboard_time": 1767684801,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143885,
+        "num": 156139,
+        "word": "外交部回应马杜罗不认罪",
+        "onboard_time": 1767687921,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25705,
+        "num": 155793,
+        "word": "美国突袭后委内瑞拉卫星对比图",
+        "onboard_time": 1767689121,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 985682,
+        "num": 155651,
+        "word": "白百何还回来当女明星吗",
+        "onboard_time": 1767686122,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431917,
+        "num": 155382,
+        "word": "易梦玲送阿哲5100黄金",
+        "onboard_time": 1767682579,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 358213,
+        "num": 155249,
+        "word": "颖儿做眼部热玛吉疼哭了",
+        "onboard_time": 1767684861,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185411,
+        "num": 154997,
+        "word": "张凯毅起诉黄金凤冠造谣者",
+        "onboard_time": 1767689121,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 180502,
+        "num": 154601,
+        "word": "冯提莫瘦了50斤",
+        "onboard_time": 1767670281,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 170329,
+        "num": 154527,
+        "word": "731部队曾用中国女性做梅毒实验",
+        "onboard_time": 1767686661,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168553,
+        "num": 154296,
+        "word": "王勃好像被夺走气运的男主",
+        "onboard_time": 1767689301,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154069,
+        "num": 154069,
+        "word": "白鹿宋威龙早期旧照",
+        "onboard_time": 1767678501,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133094,
+        "num": 133094,
+        "word": "正确称体重vs错误称体重",
+        "onboard_time": 1767685102,
+        "rank": 28,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 132883,
+        "num": 132883,
+        "word": "专家回应日本梅毒扩散",
+        "onboard_time": 1767688042,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 289286,
+        "num": 132457,
+        "word": "霸王茶姬辞退涉事店员",
+        "onboard_time": 1767677361,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130097,
+        "num": 130097,
+        "word": "三亚始祖鸟店排长队抢购秋冬款",
+        "onboard_time": 1767672621,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273111,
+        "num": 129400,
+        "word": "霸王茶姬通报",
+        "onboard_time": 1767676221,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130788,
+        "num": 128334,
+        "word": "给杨幂p成胶头滴管了",
+        "onboard_time": 1767687802,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126853,
+        "num": 126853,
+        "word": "27岁健身教练精子畸形率超90%",
+        "onboard_time": 1767675021,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122625,
+        "num": 122625,
+        "word": "徐长卿紫萱进行曲被汪苏泷唱了",
+        "onboard_time": 1767683241,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117808,
+        "num": 117808,
+        "word": "其实春节只放四天假",
+        "onboard_time": 1767686900,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117580,
+        "num": 117580,
+        "word": "沈阳一小学期末卷被指夹带商业元素",
+        "onboard_time": 1767687742,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114963,
+        "num": 114963,
+        "word": "女明星为孩子挤痘致其脸缝四针",
+        "onboard_time": 1767668421,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36861,
+        "num": 111632,
+        "word": "素人走红女孩七七回应出道",
+        "onboard_time": 1767689421,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111234,
+        "num": 111234,
+        "word": "卢昱晓轧戏韩系高智感",
+        "onboard_time": 1767688520,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110878,
+        "num": 110878,
+        "word": "王者荣耀",
+        "onboard_time": 1767684801,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108713,
+        "num": 108713,
+        "word": "逍遥第40集第41分第31秒",
+        "onboard_time": 1767688762,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108500,
+        "num": 108500,
+        "word": "三甲医生回应以油养肤",
+        "onboard_time": 1767689602,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 104595,
+        "num": 104595,
+        "word": "zwy卸任AG主教练",
+        "onboard_time": 1767689602,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103547,
+        "num": 103547,
+        "word": "AG官宣小俞回归",
+        "onboard_time": 1767686841,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101452,
+        "num": 101452,
+        "word": "果然对苏醒的人脉一无所知",
+        "onboard_time": 1767689003,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99960,
+        "num": 99960,
+        "word": "原来短剧作者也看不上自己写的",
+        "onboard_time": 1767689061,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95184,
+        "num": 95184,
+        "word": "马丽央视春晚路透",
+        "onboard_time": 1767689540,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94432,
+        "num": 94432,
+        "word": "狼队官宣一笙转会",
+        "onboard_time": 1767688762,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#2026元首外交开局#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1767631011864,
-  "endTime": 1767688882840,
+  "endTime": 1767689692543,
   "band_list": [
     {
       "raw_hot": 2133729,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 985682,
+      "num": 164524,
+      "word": "白百何还回来当女明星吗",
+      "onboard_time": 1767686122,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 977384,
       "num": 592323,
       "word": "霸王茶姬辞退涉事店员",
@@ -97,14 +105,6 @@
       "onboard_time": 1767664821,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 862510,
-      "num": 164524,
-      "word": "白百何还回来当女明星吗",
-      "onboard_time": 1767686122,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 854227,
@@ -307,6 +307,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 444902,
+      "num": 761510,
+      "word": "身无分文男子到彩票店刮800元彩票",
+      "onboard_time": 1767684441,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 437794,
+      "num": 1070047,
+      "word": "禁止所有两用物项对日本军事用途出口",
+      "onboard_time": 1767687623,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 430634,
       "num": 158738,
       "word": "白鹿宋威龙早期旧照",
@@ -377,14 +393,6 @@
       "onboard_time": 1767672022,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 393081,
-      "num": 761510,
-      "word": "身无分文男子到彩票店刮800元彩票",
-      "onboard_time": 1767684441,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 381960,
@@ -539,14 +547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 244616,
-      "num": 244616,
-      "word": "禁止所有两用物项对日本军事用途出口",
-      "onboard_time": 1767687623,
-      "rank": 5,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 243910,
       "num": 110009,
       "word": "虞书欣双轨伴手礼",
@@ -651,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198223,
+      "num": 198223,
+      "word": "一点点十年前的价目表",
+      "onboard_time": 1767685761,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 197130,
       "num": 114877,
       "word": "实在不行过年让孩子穿校服吧",
@@ -715,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185411,
+      "num": 154997,
+      "word": "张凯毅起诉黄金凤冠造谣者",
+      "onboard_time": 1767689121,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 183815,
       "num": 183815,
       "word": "史上最牛毕业设计",
@@ -755,20 +771,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178116,
+      "num": 178116,
+      "word": "2026KPL春季赛大名单",
+      "onboard_time": 1767688401,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 177913,
       "num": 177913,
       "word": "女子患流感5天不摘隐形眼镜近乎融化",
       "onboard_time": 1767666560,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 177604,
-      "num": 177604,
-      "word": "2026KPL春季赛大名单",
-      "onboard_time": 1767688401,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 177139,
@@ -801,6 +817,14 @@
       "onboard_time": 1767619281,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168553,
+      "num": 154296,
+      "word": "王勃好像被夺走气运的男主",
+      "onboard_time": 1767689301,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 165480,
@@ -859,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160753,
+      "num": 160753,
+      "word": "丈夫离世6旬初代丁克不悔没要孩子",
+      "onboard_time": 1767688461,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159691,
       "num": 159691,
       "word": "内娱首部洋葱剧来了",
@@ -867,20 +899,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157636,
+      "num": 157636,
+      "word": "中方呼吁立即释放委总统夫妇",
+      "onboard_time": 1767688700,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 153754,
       "num": 153754,
       "word": "苹果上架AirPodsPro3马年特别款",
       "onboard_time": 1767668299,
       "rank": 34,
       "category": "数码"
-    },
-    {
-      "raw_hot": 153273,
-      "num": 153273,
-      "word": "一点点十年前的价目表",
-      "onboard_time": 1767685761,
-      "rank": 28,
-      "category": "美食"
     },
     {
       "raw_hot": 152829,
@@ -977,6 +1009,14 @@
       "onboard_time": 1767686841,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 143885,
+      "num": 165572,
+      "word": "外交部回应马杜罗不认罪",
+      "onboard_time": 1767687921,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 143625,
@@ -1083,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132883,
+      "num": 132883,
+      "word": "专家回应日本梅毒扩散",
+      "onboard_time": 1767688042,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 131891,
       "num": 167758,
       "word": "从晋江文里抠出来的现偶男女主",
@@ -1105,6 +1153,14 @@
       "onboard_time": 1767682701,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130788,
+      "num": 128334,
+      "word": "给杨幂p成胶头滴管了",
+      "onboard_time": 1767687802,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 129958,
@@ -1169,14 +1225,6 @@
       "onboard_time": 1767665720,
       "rank": 33,
       "category": "数码"
-    },
-    {
-      "raw_hot": 127289,
-      "num": 127289,
-      "word": "专家回应日本梅毒扩散",
-      "onboard_time": 1767688042,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 127028,
@@ -1347,20 +1395,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118047,
-      "num": 118047,
-      "word": "给杨幂p成胶头滴管了",
-      "onboard_time": 1767687802,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 117969,
       "num": 117969,
       "word": "罗云熙让体制内具象化了",
       "onboard_time": 1767683902,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117580,
+      "num": 166504,
+      "word": "沈阳一小学期末卷被指夹带商业元素",
+      "onboard_time": 1767687742,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116879,
@@ -1435,6 +1483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 111234,
+      "num": 111234,
+      "word": "卢昱晓轧戏韩系高智感",
+      "onboard_time": 1767688520,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110620,
       "num": 115879,
       "word": "内娱现偶带着格局杀回来了",
@@ -1459,6 +1515,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 108713,
+      "num": 108713,
+      "word": "逍遥第40集第41分第31秒",
+      "onboard_time": 1767688762,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108538,
       "num": 114975,
       "word": "父母一个月内相继离世女孩独自报丧",
@@ -1475,12 +1539,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 108158,
-      "num": 108158,
-      "word": "中方呼吁立即释放委总统夫妇",
-      "onboard_time": 1767688700,
-      "rank": 45,
-      "category": "国内时政"
+      "raw_hot": 108500,
+      "num": 108500,
+      "word": "三甲医生回应以油养肤",
+      "onboard_time": 1767689602,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 107958,
@@ -1499,14 +1563,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 106892,
-      "num": 106892,
-      "word": "卢昱晓轧戏韩系高智感",
-      "onboard_time": 1767688520,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 106118,
       "num": 106118,
       "word": "真人电影不行了吗",
@@ -1523,20 +1579,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 105424,
-      "num": 165572,
-      "word": "外交部回应马杜罗不认罪",
-      "onboard_time": 1767687921,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 105112,
       "num": 105112,
       "word": "叶容对庄序翻了个白眼",
       "onboard_time": 1767657259,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104595,
+      "num": 104595,
+      "word": "zwy卸任AG主教练",
+      "onboard_time": 1767689602,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 104325,
@@ -1571,6 +1627,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 101452,
+      "num": 101452,
+      "word": "果然对苏醒的人脉一无所知",
+      "onboard_time": 1767689003,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101002,
       "num": 101002,
       "word": "苹果推出马年限定配件",
@@ -1585,6 +1649,14 @@
       "onboard_time": 1767678380,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 99960,
+      "num": 99960,
+      "word": "原来短剧作者也看不上自己写的",
+      "onboard_time": 1767689061,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 99264,
@@ -1635,20 +1707,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 95565,
-      "num": 95565,
-      "word": "逍遥第40集第41分第31秒",
-      "onboard_time": 1767688762,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 95539,
       "num": 95539,
       "word": "德国杯",
       "onboard_time": 1767666260,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95184,
+      "num": 95184,
+      "word": "马丽央视春晚路透",
+      "onboard_time": 1767689540,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 95124,
@@ -1801,14 +1873,6 @@
       "onboard_time": 1767659841,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 84277,
-      "num": 116879,
-      "word": "丈夫离世6旬初代丁克不悔没要孩子",
-      "onboard_time": 1767688461,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82950,
@@ -1971,14 +2035,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 56435,
-      "num": 166504,
-      "word": "沈阳一小学期末卷被指夹带商业元素",
-      "onboard_time": 1767687742,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56258,
       "num": 114772,
       "word": "官方通报新生儿被剪断手指",
@@ -2099,6 +2155,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 44771,
+      "num": 615123,
+      "word": "冰雪产业跻身万亿赛道",
+      "onboard_time": 1767672142,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44308,
       "num": 208608,
       "word": "女子0.1元打网约车打到保时捷卡宴",
@@ -2203,12 +2267,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36914,
-      "num": 615123,
-      "word": "冰雪产业跻身万亿赛道",
-      "onboard_time": 1767672142,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 36861,
+      "num": 111632,
+      "word": "素人走红女孩七七回应出道",
+      "onboard_time": 1767689421,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 36033,
@@ -2329,6 +2393,14 @@
       "onboard_time": 1767632478,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25705,
+      "num": 155793,
+      "word": "美国突袭后委内瑞拉卫星对比图",
+      "onboard_time": 1767689121,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 24442,

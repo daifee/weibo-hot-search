@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767688882840,
+  "endTime": 1767689692543,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 985682,
+      "num": 164524,
+      "word": "白百何还回来当女明星吗",
+      "onboard_time": 1767686122,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 977384,
       "num": 592323,
       "word": "霸王茶姬辞退涉事店员",
@@ -289,14 +297,6 @@
       "onboard_time": 1767664821,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 862510,
-      "num": 164524,
-      "word": "白百何还回来当女明星吗",
-      "onboard_time": 1767686122,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 854227,
@@ -1171,6 +1171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 444902,
+      "num": 761510,
+      "word": "身无分文男子到彩票店刮800元彩票",
+      "onboard_time": 1767684441,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 444586,
       "num": 444586,
       "word": "马杜罗没能进入安全空间",
@@ -1185,6 +1193,14 @@
       "onboard_time": 1767510983,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 437794,
+      "num": 1070047,
+      "word": "禁止所有两用物项对日本军事用途出口",
+      "onboard_time": 1767687623,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 436427,
@@ -1409,14 +1425,6 @@
       "onboard_time": 1767521123,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 393081,
-      "num": 761510,
-      "word": "身无分文男子到彩票店刮800元彩票",
-      "onboard_time": 1767684441,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 392598,
@@ -2395,14 +2403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 244616,
-      "num": 244616,
-      "word": "禁止所有两用物项对日本军事用途出口",
-      "onboard_time": 1767687623,
-      "rank": 5,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 243910,
       "num": 110009,
       "word": "虞书欣双轨伴手礼",
@@ -2979,6 +2979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198223,
+      "num": 198223,
+      "word": "一点点十年前的价目表",
+      "onboard_time": 1767685761,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 198081,
       "num": 198081,
       "word": "金价波动",
@@ -3275,6 +3283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185411,
+      "num": 154997,
+      "word": "张凯毅起诉黄金凤冠造谣者",
+      "onboard_time": 1767689121,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 184090,
       "num": 254552,
       "word": "马杜罗上台阶时痛苦呻吟",
@@ -3387,6 +3403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178116,
+      "num": 178116,
+      "word": "2026KPL春季赛大名单",
+      "onboard_time": 1767688401,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 177939,
       "num": 177939,
       "word": "人之初",
@@ -3401,14 +3425,6 @@
       "onboard_time": 1767666560,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 177604,
-      "num": 177604,
-      "word": "2026KPL春季赛大名单",
-      "onboard_time": 1767688401,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 177139,
@@ -3593,6 +3609,14 @@
       "onboard_time": 1767531862,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168553,
+      "num": 154296,
+      "word": "王勃好像被夺走气运的男主",
+      "onboard_time": 1767689301,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 168411,
@@ -3827,6 +3851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160753,
+      "num": 160753,
+      "word": "丈夫离世6旬初代丁克不悔没要孩子",
+      "onboard_time": 1767688461,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159691,
       "num": 159691,
       "word": "内娱首部洋葱剧来了",
@@ -3873,6 +3905,14 @@
       "onboard_time": 1767580400,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157636,
+      "num": 157636,
+      "word": "中方呼吁立即释放委总统夫妇",
+      "onboard_time": 1767688700,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 156774,
@@ -3945,14 +3985,6 @@
       "onboard_time": 1767627262,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153273,
-      "num": 153273,
-      "word": "一点点十年前的价目表",
-      "onboard_time": 1767685761,
-      "rank": 28,
-      "category": "美食"
     },
     {
       "raw_hot": 153091,
@@ -4257,6 +4289,14 @@
       "onboard_time": 1767598582,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 143885,
+      "num": 165572,
+      "word": "外交部回应马杜罗不认罪",
+      "onboard_time": 1767687921,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 143625,
@@ -4659,6 +4699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132883,
+      "num": 132883,
+      "word": "专家回应日本梅毒扩散",
+      "onboard_time": 1767688042,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 132591,
       "num": 132591,
       "word": "你是彭于晏那我是谁",
@@ -4697,6 +4745,14 @@
       "onboard_time": 1767682701,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130788,
+      "num": 128334,
+      "word": "给杨幂p成胶头滴管了",
+      "onboard_time": 1767687802,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 130776,
@@ -4825,14 +4881,6 @@
       "onboard_time": 1767665720,
       "rank": 33,
       "category": "数码"
-    },
-    {
-      "raw_hot": 127289,
-      "num": 127289,
-      "word": "专家回应日本梅毒扩散",
-      "onboard_time": 1767688042,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 127276,
@@ -5251,20 +5299,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118047,
-      "num": 118047,
-      "word": "给杨幂p成胶头滴管了",
-      "onboard_time": 1767687802,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 117969,
       "num": 117969,
       "word": "罗云熙让体制内具象化了",
       "onboard_time": 1767683902,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117580,
+      "num": 166504,
+      "word": "沈阳一小学期末卷被指夹带商业元素",
+      "onboard_time": 1767687742,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117362,
@@ -5523,6 +5571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 111234,
+      "num": 111234,
+      "word": "卢昱晓轧戏韩系高智感",
+      "onboard_time": 1767688520,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110820,
       "num": 110820,
       "word": "原来眼镜有寿命",
@@ -5603,6 +5659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108713,
+      "num": 108713,
+      "word": "逍遥第40集第41分第31秒",
+      "onboard_time": 1767688762,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108597,
       "num": 252490,
       "word": "樊振东率队晋级德国杯决赛",
@@ -5611,12 +5675,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108158,
-      "num": 108158,
-      "word": "中方呼吁立即释放委总统夫妇",
-      "onboard_time": 1767688700,
-      "rank": 45,
-      "category": "国内时政"
+      "raw_hot": 108500,
+      "num": 108500,
+      "word": "三甲医生回应以油养肤",
+      "onboard_time": 1767689602,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 108142,
@@ -5665,14 +5729,6 @@
       "onboard_time": 1767657560,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 106892,
-      "num": 106892,
-      "word": "卢昱晓轧戏韩系高智感",
-      "onboard_time": 1767688520,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 106679,
@@ -5747,14 +5803,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 105424,
-      "num": 165572,
-      "word": "外交部回应马杜罗不认罪",
-      "onboard_time": 1767687921,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 105112,
       "num": 105112,
       "word": "叶容对庄序翻了个白眼",
@@ -5769,6 +5817,14 @@
       "onboard_time": 1767520223,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104595,
+      "num": 104595,
+      "word": "zwy卸任AG主教练",
+      "onboard_time": 1767689602,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 104570,
@@ -5931,6 +5987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101452,
+      "num": 101452,
+      "word": "果然对苏醒的人脉一无所知",
+      "onboard_time": 1767689003,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101381,
       "num": 123856,
       "word": "李在明访华经济代表团有三星LG",
@@ -6041,6 +6105,14 @@
       "onboard_time": 1767577521,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99960,
+      "num": 99960,
+      "word": "原来短剧作者也看不上自己写的",
+      "onboard_time": 1767689061,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 99737,
@@ -6323,14 +6395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 95565,
-      "num": 95565,
-      "word": "逍遥第40集第41分第31秒",
-      "onboard_time": 1767688762,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 95486,
       "num": 95486,
       "word": "白鹿王鹤棣范丞丞宇闪合体",
@@ -6345,6 +6409,14 @@
       "onboard_time": 1767623243,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95184,
+      "num": 95184,
+      "word": "马丽央视春晚路透",
+      "onboard_time": 1767689540,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 95124,
@@ -7024,14 +7096,6 @@
       "word": "23岁女孩遇车祸脑疝母亲下跪托付",
       "onboard_time": 1767579021,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84277,
-      "num": 116879,
-      "word": "丈夫离世6旬初代丁克不悔没要孩子",
-      "onboard_time": 1767688461,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -7875,14 +7939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 56435,
-      "num": 166504,
-      "word": "沈阳一小学期末卷被指夹带商业元素",
-      "onboard_time": 1767687742,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56413,
       "num": 204756,
       "word": "2025KPL冬季转会期",
@@ -8187,6 +8243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44771,
+      "num": 615123,
+      "word": "冰雪产业跻身万亿赛道",
+      "onboard_time": 1767672142,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44308,
       "num": 208608,
       "word": "女子0.1元打网约车打到保时捷卡宴",
@@ -8459,12 +8523,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36914,
-      "num": 615123,
-      "word": "冰雪产业跻身万亿赛道",
-      "onboard_time": 1767672142,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 36861,
+      "num": 111632,
+      "word": "素人走红女孩七七回应出道",
+      "onboard_time": 1767689421,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 36755,
@@ -8841,6 +8905,14 @@
       "onboard_time": 1767632478,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25705,
+      "num": 155793,
+      "word": "美国突袭后委内瑞拉卫星对比图",
+      "onboard_time": 1767689121,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25265,
