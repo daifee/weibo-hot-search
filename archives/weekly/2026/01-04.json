@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767720671357,
+  "endTime": 1767721688356,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -10425,6 +10425,14 @@
       "onboard_time": 1767606262,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19751,
+      "num": 51182,
+      "word": "檀健次Get唱歌去处",
+      "onboard_time": 1767721337,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 19682,

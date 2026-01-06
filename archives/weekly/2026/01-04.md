@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/04 00:34:09 ~ 2026/01/07 01:31:11
+本榜单时间：2026/01/04 00:34:09 ~ 2026/01/07 01:48:08
 </p>
 </blockquote>
 <p>
@@ -7829,6 +7829,12 @@ MRC夺冠（热度：40693）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%9A%86%E4%B8%80%E5%B0%8F%E8%B1%A1%E6%8D%A1%E9%A6%99%E8%95%89%E6%97%B6%E5%A4%B4%E9%83%A8%E8%A2%AB%E5%8D%A1%23" target="weibo">
 长隆一小象捡香蕉时头部被卡（热度：20063）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1Get%E5%94%B1%E6%AD%8C%E5%8E%BB%E5%A4%84%23" target="weibo">
+檀健次Get唱歌去处（热度：19751）
 </a>
 </li>
 
