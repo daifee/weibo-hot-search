@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767707791222,
+  "endTime": 1767709879744,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -371,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 808268,
+      "num": 365307,
+      "word": "史上最受欢迎的恋综女嘉宾",
+      "onboard_time": 1767705803,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 794210,
       "num": 555431,
       "word": "在柬埔寨流浪女网红父亲发声",
@@ -489,14 +497,6 @@
       "onboard_time": 1767535584,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 729761,
-      "num": 365307,
-      "word": "史上最受欢迎的恋综女嘉宾",
-      "onboard_time": 1767705803,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 725384,
@@ -859,6 +859,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 527186,
+      "num": 249693,
+      "word": "2025年度最扑剧集",
+      "onboard_time": 1767704303,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 521966,
       "num": 233387,
       "word": "向太回应方媛被骂",
@@ -921,6 +929,14 @@
       "onboard_time": 1767539484,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 511287,
+      "num": 455616,
+      "word": "委内瑞拉爆发大规模抗议活动",
+      "onboard_time": 1767705142,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 510524,
@@ -1227,14 +1243,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 456968,
-      "num": 242964,
-      "word": "2025年度最扑剧集",
-      "onboard_time": 1767704303,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 455589,
       "num": 455589,
       "word": "中国留学生在德遭袭反击致对方骨折",
@@ -1441,6 +1449,14 @@
       "onboard_time": 1767702081,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 415344,
+      "num": 252900,
+      "word": "赵今麦中戏第一的含金量还在上升",
+      "onboard_time": 1767707963,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 412890,
@@ -1667,6 +1683,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 373565,
+      "num": 251711,
+      "word": "骄阳似我真火了",
+      "onboard_time": 1767705562,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 372877,
       "num": 232283,
       "word": "宋威龙张凌赫 今麦郎",
@@ -1763,6 +1787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 361114,
+      "num": 372114,
+      "word": "iPhone没有一个按键是多余的",
+      "onboard_time": 1767705142,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 360040,
       "num": 801724,
       "word": "车厘子价格暴跌商家却赚麻了",
@@ -1800,14 +1832,6 @@
       "word": "特朗普",
       "onboard_time": 1767460698,
       "rank": 11,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 356794,
-      "num": 455616,
-      "word": "委内瑞拉爆发大规模抗议活动",
-      "onboard_time": 1767705142,
-      "rank": 15,
       "category": "国际时政"
     },
     {
@@ -2329,6 +2353,14 @@
       "onboard_time": 1767504982,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279314,
+      "num": 253970,
+      "word": "河北农村取暖问题一天也不能拖了",
+      "onboard_time": 1767708083,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 279026,
@@ -2867,6 +2899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230138,
+      "num": 230138,
+      "word": "Fly转会 王俊凯加盟EXO",
+      "onboard_time": 1767706821,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 229326,
       "num": 220246,
       "word": "生理性喜欢的4个无意识行为",
@@ -2929,14 +2969,6 @@
       "onboard_time": 1767448767,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 223634,
-      "num": 244281,
-      "word": "骄阳似我真火了",
-      "onboard_time": 1767705562,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 222702,
@@ -3065,6 +3097,14 @@
       "onboard_time": 1767612380,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214216,
+      "num": 214216,
+      "word": "喜欢喝咖啡的建议反复观看",
+      "onboard_time": 1767704003,
+      "rank": 40,
+      "category": "科学科普"
     },
     {
       "raw_hot": 213664,
@@ -3601,14 +3641,6 @@
       "onboard_time": 1767608902,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 187279,
-      "num": 187279,
-      "word": "喜欢喝咖啡的建议反复观看",
-      "onboard_time": 1767704003,
-      "rank": 40,
-      "category": "科学科普"
     },
     {
       "raw_hot": 187145,
@@ -5259,14 +5291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132186,
-      "num": 154525,
-      "word": "Fly转会 王俊凯加盟EXO",
-      "onboard_time": 1767706821,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 131891,
       "num": 167758,
       "word": "从晋江文里抠出来的现偶男女主",
@@ -5297,14 +5321,6 @@
       "onboard_time": 1767682701,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130952,
-      "num": 372114,
-      "word": "iPhone没有一个按键是多余的",
-      "onboard_time": 1767705142,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 130776,
@@ -5472,6 +5488,14 @@
       "word": "山姆鳕鱼片惊现血色异物疑寄生虫",
       "onboard_time": 1767626602,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126927,
+      "num": 257115,
+      "word": "民航局动真格整治过低机票价",
+      "onboard_time": 1767706884,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -7195,6 +7219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94791,
+      "num": 154791,
+      "word": "部分城市试管婴儿越做越火",
+      "onboard_time": 1767706942,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94749,
       "num": 94749,
       "word": "美国霸权的凶残性暴露无遗",
@@ -7291,6 +7323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93886,
+      "num": 93886,
+      "word": "印度最干净城市遭粪水污染",
+      "onboard_time": 1767708862,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 93790,
       "num": 822960,
       "word": "雷军公开小米汽车年交付量",
@@ -7361,6 +7401,14 @@
       "onboard_time": 1767699380,
       "rank": 41,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 93063,
+      "num": 93063,
+      "word": "伊朗强硬表态",
+      "onboard_time": 1767709403,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 92973,
@@ -7481,6 +7529,14 @@
       "onboard_time": 1767588743,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 91216,
+      "num": 91216,
+      "word": "被武大靖的奖牌墙震撼了",
+      "onboard_time": 1767709644,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 91088,
@@ -7625,6 +7681,14 @@
       "onboard_time": 1767698241,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 89623,
+      "num": 89623,
+      "word": "武大靖现为吉林大学教授",
+      "onboard_time": 1767709104,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 89572,
@@ -7947,6 +8011,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 85290,
+      "num": 85290,
+      "word": "预防血栓可以吃的5类食物",
+      "onboard_time": 1767708083,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 85279,
       "num": 85279,
       "word": "她被自己困住了",
@@ -8049,6 +8121,14 @@
       "onboard_time": 1767620480,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83306,
+      "num": 250992,
+      "word": "河北村民预计今冬取暖费要8000元",
+      "onboard_time": 1767708923,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83153,
@@ -8177,6 +8257,14 @@
       "onboard_time": 1767578780,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79927,
+      "num": 79927,
+      "word": "A股2025年新开户数",
+      "onboard_time": 1767709043,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 79557,
@@ -8987,6 +9075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 52744,
+      "num": 250650,
+      "word": "台战机失事飞行员跳伞搜救中",
+      "onboard_time": 1767709283,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 52619,
       "num": 88758,
       "word": "茶饮圈跟风玩梗印度奶茶引争议",
@@ -9121,6 +9217,14 @@
       "onboard_time": 1767438026,
       "rank": 41,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 47509,
+      "num": 635823,
+      "word": "元旦假期文旅消费近848亿元",
+      "onboard_time": 1767708805,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47426,
@@ -9419,14 +9523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 38622,
-      "num": 154791,
-      "word": "部分城市试管婴儿越做越火",
-      "onboard_time": 1767706942,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38507,
       "num": 57561,
       "word": "小米汽车26年目标55万",
@@ -9617,14 +9713,6 @@
       "onboard_time": 1767578721,
       "rank": 39,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 33939,
-      "num": 219174,
-      "word": "民航局动真格整治过低机票价",
-      "onboard_time": 1767706884,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33838,

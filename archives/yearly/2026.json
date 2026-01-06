@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767707791222,
+  "endTime": 1767709879744,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -547,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 808268,
+      "num": 365307,
+      "word": "史上最受欢迎的恋综女嘉宾",
+      "onboard_time": 1767705803,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 794210,
       "num": 555431,
       "word": "在柬埔寨流浪女网红父亲发声",
@@ -705,14 +713,6 @@
       "onboard_time": 1767535584,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 729761,
-      "num": 365307,
-      "word": "史上最受欢迎的恋综女嘉宾",
-      "onboard_time": 1767705803,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 727164,
@@ -1275,6 +1275,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 527186,
+      "num": 249693,
+      "word": "2025年度最扑剧集",
+      "onboard_time": 1767704303,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 526876,
       "num": 1710743,
       "word": "美军为何突然袭击委内瑞拉",
@@ -1361,6 +1369,14 @@
       "onboard_time": 1767539484,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 511287,
+      "num": 455616,
+      "word": "委内瑞拉爆发大规模抗议活动",
+      "onboard_time": 1767705142,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 510531,
@@ -1771,14 +1787,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 456968,
-      "num": 242964,
-      "word": "2025年度最扑剧集",
-      "onboard_time": 1767704303,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 456783,
       "num": 1759881,
       "word": "橘子我从未怀疑过你",
@@ -2057,6 +2065,14 @@
       "onboard_time": 1767432566,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 415344,
+      "num": 252900,
+      "word": "赵今麦中戏第一的含金量还在上升",
+      "onboard_time": 1767707963,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 411475,
@@ -2371,36 +2387,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 373565,
+      "num": 251711,
+      "word": "骄阳似我真火了",
+      "onboard_time": 1767705562,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 373337,
       "num": 1017374,
       "word": "元旦宝宝1月1日0点出生",
       "onboard_time": 1767254181,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 373053,
-      "num": 985259,
-      "word": "檀健次出发横店进组何不同舟渡",
-      "onboard_time": 1767414326,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 372877,
-      "num": 232283,
-      "word": "宋威龙张凌赫 今麦郎",
-      "onboard_time": 1767600381,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 372589,
-      "num": 803499,
-      "word": "TF荣耀之战",
-      "onboard_time": 1767502883,
-      "rank": 4,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
