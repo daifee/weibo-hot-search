@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767724924413,
+  "endTime": 1767725717350,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -9331,6 +9331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52138,
+      "num": 36882,
+      "word": "特朗普支持格陵兰岛独立",
+      "onboard_time": 1767724275,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 51808,
       "num": 146292,
       "word": "酒店回应房间能看到游泳池水底",
@@ -9617,14 +9625,6 @@
       "onboard_time": 1767568098,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 42466,
-      "num": 36882,
-      "word": "特朗普支持格陵兰岛独立",
-      "onboard_time": 1767724275,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 42134,
@@ -10163,6 +10163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28390,
+      "num": 36973,
+      "word": "委内瑞拉临时总统",
+      "onboard_time": 1767724815,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 28243,
       "num": 103245,
       "word": "王嘉尔踮起脚抱黄景瑜",
@@ -10441,14 +10449,6 @@
       "onboard_time": 1767721337,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 19694,
-      "num": 36973,
-      "word": "委内瑞拉临时总统",
-      "onboard_time": 1767724815,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 19682,

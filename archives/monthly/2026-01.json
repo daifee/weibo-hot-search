@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767724924413,
+  "endTime": 1767725717350,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -15947,6 +15947,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 52138,
+      "num": 36882,
+      "word": "特朗普支持格陵兰岛独立",
+      "onboard_time": 1767724275,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 52036,
       "num": 748274,
       "word": "卡利亚里0比1AC米兰",
@@ -16801,14 +16809,6 @@
       "onboard_time": 1767368129,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 42466,
-      "num": 36882,
-      "word": "特朗普支持格陵兰岛独立",
-      "onboard_time": 1767724275,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 42370,
@@ -17787,6 +17787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28390,
+      "num": 36973,
+      "word": "委内瑞拉临时总统",
+      "onboard_time": 1767724815,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 28358,
       "num": 233155,
       "word": "暖阳时隔五年再获FMVP",
@@ -18329,14 +18337,6 @@
       "onboard_time": 1767721337,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 19694,
-      "num": 36973,
-      "word": "委内瑞拉临时总统",
-      "onboard_time": 1767724815,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 19682,
