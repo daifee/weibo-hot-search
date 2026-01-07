@@ -1,6 +1,6 @@
 {
   "startTime": 1767717567538,
-  "endTime": 1767753193956,
+  "endTime": 1767758045134,
   "band_list": [
     {
       "raw_hot": 1906595,
@@ -9,6 +9,22 @@
       "onboard_time": 1767748102,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1623515,
+      "num": 144788,
+      "word": "Asen回应Sakee",
+      "onboard_time": 1767757102,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1527024,
+      "num": 229023,
+      "word": "王鹤棣演唱会嘉宾",
+      "onboard_time": 1767757102,
+      "rank": 10,
+      "category": "演出"
     },
     {
       "raw_hot": 1028779,
@@ -27,8 +43,32 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 703052,
+      "num": 361311,
+      "word": "女儿眼中已婚已孕已离的妈妈",
+      "onboard_time": 1767758002,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 545432,
+      "num": 223922,
+      "word": "苏醒谈孩子因为自己的身份攀比",
+      "onboard_time": 1767756561,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 538152,
+      "num": 144694,
+      "word": "徐佳莹 我要再生一个",
+      "onboard_time": 1767753202,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 532385,
-      "num": 238646,
+      "num": 346576,
       "word": "委内瑞拉或将移交3000至5000万桶石油",
       "onboard_time": 1767747622,
       "rank": 11,
@@ -67,12 +107,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 467397,
+      "num": 467397,
+      "word": "武大靖自曝从床爬到洗手间要半小时",
+      "onboard_time": 1767743480,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 465142,
       "num": 236965,
       "word": "日本年轻人聚众晒梅毒",
       "onboard_time": 1767686601,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 461139,
+      "num": 221460,
+      "word": "林屿森女儿 李雾女儿",
+      "onboard_time": 1767751401,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 457450,
@@ -91,20 +147,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 427601,
-      "num": 427601,
-      "word": "武大靖自曝从床爬到洗手间要半小时",
-      "onboard_time": 1767743480,
-      "rank": 6,
-      "category": "体育"
+      "raw_hot": 372346,
+      "num": 372346,
+      "word": "雀巢奶粉",
+      "onboard_time": 1767752721,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 389772,
-      "num": 221460,
-      "word": "林屿森女儿 李雾女儿",
-      "onboard_time": 1767751401,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 344442,
+      "num": 1055110,
+      "word": "小米SU7",
+      "onboard_time": 1767756440,
+      "rank": 0,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 336078,
+      "num": 336078,
+      "word": "嫌98元车费太贵司机和乘客耗到天亮",
+      "onboard_time": 1767753321,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 335287,
@@ -147,12 +211,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 311672,
+      "num": 144580,
+      "word": "Sakee Asen",
+      "onboard_time": 1767757341,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 308673,
+      "num": 144637,
+      "word": "七七饭撒",
+      "onboard_time": 1767754222,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 303419,
       "num": 197811,
       "word": "75岁刘晓庆将再演武则天",
       "onboard_time": 1767750201,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 299853,
+      "num": 299853,
+      "word": "鹅鸭杀抢昵称",
+      "onboard_time": 1767757161,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 293476,
@@ -163,12 +251,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 287641,
+      "num": 144526,
+      "word": "同居十天发现相亲女友是智障",
+      "onboard_time": 1767757280,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 277467,
+      "num": 144417,
+      "word": "赵恩达 内娱00后浓颜帅哥上新了",
+      "onboard_time": 1767755061,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248484,
       "num": 248484,
       "word": "鹅鸭杀手游正式上线",
       "onboard_time": 1767752121,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 244763,
+      "num": 144362,
+      "word": "中国对日本一剑封喉",
+      "onboard_time": 1767757581,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 239828,
@@ -187,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230649,
+      "num": 230649,
+      "word": "小米称此次事件严重伤害米粉感情",
+      "onboard_time": 1767753260,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 230614,
       "num": 204318,
       "word": "马克龙的表态变了",
@@ -200,6 +320,14 @@
       "word": "林屿森聂曦光完全动情了发狠了",
       "onboard_time": 1767714741,
       "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 213798,
+      "num": 213798,
+      "word": "骄阳似我女主第一人选赵今麦",
+      "onboard_time": 1767754760,
+      "rank": 14,
       "category": "剧集"
     },
     {
@@ -225,6 +353,14 @@
       "onboard_time": 1767752301,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186723,
+      "num": 144324,
+      "word": "迪丽热巴红秀开年刊三封面",
+      "onboard_time": 1767757642,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 184317,
@@ -283,6 +419,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 161501,
+      "num": 161501,
+      "word": "原来这些人都接到过娱乐圈劝退书",
+      "onboard_time": 1767757280,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160068,
       "num": 160068,
       "word": "骄阳似我女主备选不是张婧仪",
@@ -307,6 +451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 144896,
+      "num": 144896,
+      "word": "恋爱脑一害害三个",
+      "onboard_time": 1767754101,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143396,
       "num": 143396,
       "word": "中国还有9亿人没有坐过飞机",
@@ -329,6 +481,14 @@
       "onboard_time": 1767749540,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138271,
+      "num": 144738,
+      "word": "宋威龙从梦花廷被争取到了骄阳似我",
+      "onboard_time": 1767755180,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 135717,
@@ -379,6 +539,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123938,
+      "num": 123938,
+      "word": "小米许斐回应被通报批评",
+      "onboard_time": 1767752660,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 118700,
+      "num": 144526,
+      "word": "云南曲靖3.4级地震",
+      "onboard_time": 1767756202,
+      "rank": 28,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 118186,
       "num": 118186,
       "word": "宋威龙壁纸",
@@ -403,12 +579,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 114606,
+      "num": 144457,
+      "word": "菲律宾巴库林地区6.7级地震",
+      "onboard_time": 1767757102,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 114045,
       "num": 114045,
       "word": "曝新款小米SU7将配机械门把手",
       "onboard_time": 1767751281,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 112937,
+      "num": 112937,
+      "word": "曝特朗普曾暗示委内瑞拉将巨变",
+      "onboard_time": 1767757883,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 111858,
+      "num": 111858,
+      "word": "雀巢在欧洲多国召回婴儿奶粉",
+      "onboard_time": 1767757761,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 111479,
@@ -419,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109686,
+      "num": 109686,
+      "word": "在办公室自然风干的橘子",
+      "onboard_time": 1767757761,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107902,
       "num": 107902,
       "word": "母亲借钱买机票接回流落柬埔寨女子",
@@ -427,12 +635,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107276,
-      "num": 107276,
-      "word": "小米许斐回应被通报批评",
-      "onboard_time": 1767752660,
-      "rank": 34,
-      "category": "互联网"
+      "raw_hot": 107207,
+      "num": 109744,
+      "word": "大宋奇闻录官宣",
+      "onboard_time": 1767756501,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 106247,
+      "num": 106247,
+      "word": "特朗普向印度发出新警告",
+      "onboard_time": 1767757521,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 105874,
+      "num": 105874,
+      "word": "芒果综艺遇到罢录嘉宾",
+      "onboard_time": 1767758002,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 102970,
@@ -449,6 +673,14 @@
       "onboard_time": 1767717619,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101082,
+      "num": 107985,
+      "word": "锁单未交付SU7车主可限时升级新款",
+      "onboard_time": 1767757161,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 100051,
@@ -475,14 +707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97173,
-      "num": 97173,
-      "word": "雀巢奶粉",
-      "onboard_time": 1767752721,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93702,
       "num": 101334,
       "word": "Fly转会 王俊凯加盟EXO",
@@ -496,6 +720,14 @@
       "word": "部分城市试管婴儿越做越火",
       "onboard_time": 1767706942,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91285,
+      "num": 104575,
+      "word": "汉武帝争议雕像作者无境外公民身份",
+      "onboard_time": 1767754760,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -643,6 +875,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 75684,
+      "num": 114215,
+      "word": "王一博 动物世界主理人",
+      "onboard_time": 1767757402,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 75624,
       "num": 100833,
       "word": "肖战秘密花园 隔时空对话",
@@ -739,6 +979,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 60674,
+      "num": 144894,
+      "word": "王鹤棣GAI互为演唱会嘉宾",
+      "onboard_time": 1767757221,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 59981,
       "num": 59981,
       "word": "降准降息可期",
@@ -753,6 +1001,14 @@
       "onboard_time": 1767705142,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 55834,
+      "num": 596056,
+      "word": "绿色消费20条与你我密切相关",
+      "onboard_time": 1767756622,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 54983,
@@ -1006,6 +1262,9 @@
   "hotgov_list": [
     {
       "word": "#中韩应当坚定站在历史正确一边#"
+    },
+    {
+      "word": "#习近平接待今年首位访华的外国元首#"
     }
   ]
 }

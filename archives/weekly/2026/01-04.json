@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767753193956,
+  "endTime": 1767758045134,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -51,12 +51,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1623515,
+      "num": 144788,
+      "word": "Asen回应Sakee",
+      "onboard_time": 1767757102,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1541881,
       "num": 469132,
       "word": "特朗普发布马杜罗在美国军舰上照片",
       "onboard_time": 1767459021,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1527024,
+      "num": 229023,
+      "word": "王鹤棣演唱会嘉宾",
+      "onboard_time": 1767757102,
+      "rank": 10,
+      "category": "演出"
     },
     {
       "raw_hot": 1497333,
@@ -571,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 703052,
+      "num": 361311,
+      "word": "女儿眼中已婚已孕已离的妈妈",
+      "onboard_time": 1767758002,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 695485,
       "num": 1109542,
       "word": "上海下雪",
@@ -843,6 +867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 545432,
+      "num": 223922,
+      "word": "苏醒谈孩子因为自己的身份攀比",
+      "onboard_time": 1767756561,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 544794,
       "num": 260629,
       "word": "叙利亚",
@@ -865,6 +897,14 @@
       "onboard_time": 1767596781,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 538152,
+      "num": 144694,
+      "word": "徐佳莹 我要再生一个",
+      "onboard_time": 1767753202,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 536306,
@@ -892,7 +932,7 @@
     },
     {
       "raw_hot": 532385,
-      "num": 238646,
+      "num": 346576,
       "word": "委内瑞拉或将移交3000至5000万桶石油",
       "onboard_time": 1767747622,
       "rank": 11,
@@ -1299,12 +1339,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 467397,
+      "num": 467397,
+      "word": "武大靖自曝从床爬到洗手间要半小时",
+      "onboard_time": 1767743480,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 463917,
       "num": 349697,
       "word": "李在明自拍",
       "onboard_time": 1767675442,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 461139,
+      "num": 221460,
+      "word": "林屿森女儿 李雾女儿",
+      "onboard_time": 1767751401,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 459417,
@@ -1507,14 +1563,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 427601,
-      "num": 427601,
-      "word": "武大靖自曝从床爬到洗手间要半小时",
-      "onboard_time": 1767743480,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 426880,
       "num": 820928,
       "word": "委内瑞拉",
@@ -1715,14 +1763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 389772,
-      "num": 221460,
-      "word": "林屿森女儿 李雾女儿",
-      "onboard_time": 1767751401,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 386094,
       "num": 291728,
       "word": "王一博肖战张凌赫男明星最佳穿搭",
@@ -1833,6 +1873,14 @@
       "onboard_time": 1767502883,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 372346,
+      "num": 372346,
+      "word": "雀巢奶粉",
+      "onboard_time": 1767752721,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 371689,
@@ -2019,6 +2067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 344442,
+      "num": 1055110,
+      "word": "小米SU7",
+      "onboard_time": 1767756440,
+      "rank": 0,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 343614,
       "num": 343614,
       "word": "你是林更新那他是谁",
@@ -2057,6 +2113,14 @@
       "onboard_time": 1767583461,
       "rank": 6,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 336078,
+      "num": 336078,
+      "word": "嫌98元车费太贵司机和乘客耗到天亮",
+      "onboard_time": 1767753321,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 336035,
@@ -2267,12 +2331,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 311672,
+      "num": 144580,
+      "word": "Sakee Asen",
+      "onboard_time": 1767757341,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309469,
       "num": 296215,
       "word": "何炅 我慢慢等到蔡依林的那一天",
       "onboard_time": 1767495682,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 308673,
+      "num": 144637,
+      "word": "七七饭撒",
+      "onboard_time": 1767754222,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 308011,
@@ -2345,6 +2425,14 @@
       "onboard_time": 1767536062,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 299853,
+      "num": 299853,
+      "word": "鹅鸭杀抢昵称",
+      "onboard_time": 1767757161,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 299746,
@@ -2459,6 +2547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 287641,
+      "num": 144526,
+      "word": "同居十天发现相亲女友是智障",
+      "onboard_time": 1767757280,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 286637,
       "num": 450333,
       "word": "专家回应日本梅毒扩散",
@@ -2545,6 +2641,14 @@
       "onboard_time": 1767592222,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 277467,
+      "num": 144417,
+      "word": "赵恩达 内娱00后浓颜帅哥上新了",
+      "onboard_time": 1767755061,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 275658,
@@ -2891,6 +2995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244763,
+      "num": 144362,
+      "word": "中国对日本一剑封喉",
+      "onboard_time": 1767757581,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 243910,
       "num": 110009,
       "word": "虞书欣双轨伴手礼",
@@ -3057,6 +3169,14 @@
       "onboard_time": 1767700041,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 230649,
+      "num": 230649,
+      "word": "小米称此次事件严重伤害米粉感情",
+      "onboard_time": 1767753260,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 230614,
@@ -3305,6 +3425,14 @@
       "onboard_time": 1767704003,
       "rank": 40,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 213798,
+      "num": 213798,
+      "word": "骄阳似我女主第一人选赵今麦",
+      "onboard_time": 1767754760,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 213664,
@@ -3897,6 +4025,14 @@
       "onboard_time": 1767585982,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186723,
+      "num": 144324,
+      "word": "迪丽热巴红秀开年刊三封面",
+      "onboard_time": 1767757642,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 186643,
@@ -4627,6 +4763,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 161501,
+      "num": 161501,
+      "word": "原来这些人都接到过娱乐圈劝退书",
+      "onboard_time": 1767757280,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161400,
       "num": 179589,
       "word": "德国杯",
@@ -5115,6 +5259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144896,
+      "num": 144896,
+      "word": "恋爱脑一害害三个",
+      "onboard_time": 1767754101,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144815,
       "num": 205067,
       "word": "王鹤棣说白鹿净看些没营养的",
@@ -5393,6 +5545,14 @@
       "onboard_time": 1767612201,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 138271,
+      "num": 144738,
+      "word": "宋威龙从梦花廷被争取到了骄阳似我",
+      "onboard_time": 1767755180,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 138205,
@@ -6035,6 +6195,14 @@
       "category": "美食,健康医疗"
     },
     {
+      "raw_hot": 123938,
+      "num": 123938,
+      "word": "小米许斐回应被通报批评",
+      "onboard_time": 1767752660,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 123813,
       "num": 123813,
       "word": "坏了让他读到真大学了",
@@ -6291,6 +6459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118700,
+      "num": 144526,
+      "word": "云南曲靖3.4级地震",
+      "onboard_time": 1767756202,
+      "rank": 28,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 118244,
       "num": 118244,
       "word": "杨紫董竹君造型贵气",
@@ -6451,6 +6627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 114606,
+      "num": 144457,
+      "word": "菲律宾巴库林地区6.7级地震",
+      "onboard_time": 1767757102,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 114521,
       "num": 227638,
       "word": "汪苏泷这首歌的权威性我后知后觉",
@@ -6531,6 +6715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112937,
+      "num": 112937,
+      "word": "曝特朗普曾暗示委内瑞拉将巨变",
+      "onboard_time": 1767757883,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 112828,
       "num": 112828,
       "word": "吃对抗炎食物能抵消久坐伤害",
@@ -6577,6 +6769,14 @@
       "onboard_time": 1767490702,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 111858,
+      "num": 111858,
+      "word": "雀巢在欧洲多国召回婴儿奶粉",
+      "onboard_time": 1767757761,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 111849,
@@ -6673,6 +6873,14 @@
       "onboard_time": 1767533722,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 109686,
+      "num": 109686,
+      "word": "在办公室自然风干的橘子",
+      "onboard_time": 1767757761,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 109661,
@@ -6803,12 +7011,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 107276,
-      "num": 107276,
-      "word": "小米许斐回应被通报批评",
-      "onboard_time": 1767752660,
-      "rank": 34,
-      "category": "互联网"
+      "raw_hot": 107207,
+      "num": 109744,
+      "word": "大宋奇闻录官宣",
+      "onboard_time": 1767756501,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 106679,
@@ -6825,6 +7033,14 @@
       "onboard_time": 1767695061,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106247,
+      "num": 106247,
+      "word": "特朗普向印度发出新警告",
+      "onboard_time": 1767757521,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 106118,
@@ -6865,6 +7081,14 @@
       "onboard_time": 1767583942,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105874,
+      "num": 105874,
+      "word": "芒果综艺遇到罢录嘉宾",
+      "onboard_time": 1767758002,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 105837,
@@ -7169,6 +7393,14 @@
       "onboard_time": 1767532044,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 101082,
+      "num": 107985,
+      "word": "锁单未交付SU7车主可限时升级新款",
+      "onboard_time": 1767757161,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 101002,
@@ -7513,14 +7745,6 @@
       "onboard_time": 1767657800,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 97173,
-      "num": 97173,
-      "word": "雀巢奶粉",
-      "onboard_time": 1767752721,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97169,
@@ -7993,6 +8217,14 @@
       "onboard_time": 1767588743,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 91285,
+      "num": 104575,
+      "word": "汉武帝争议雕像作者无境外公民身份",
+      "onboard_time": 1767754760,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91226,
@@ -8995,6 +9227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75684,
+      "num": 114215,
+      "word": "王一博 动物世界主理人",
+      "onboard_time": 1767757402,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 75648,
       "num": 115696,
       "word": "亚洲杯名单",
@@ -9459,6 +9699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60674,
+      "num": 144894,
+      "word": "王鹤棣GAI互为演唱会嘉宾",
+      "onboard_time": 1767757221,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 60478,
       "num": 774131,
       "word": "马杜罗系被美军三角洲特种部队抓获",
@@ -9633,6 +9881,14 @@
       "onboard_time": 1767629482,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 55834,
+      "num": 596056,
+      "word": "绿色消费20条与你我密切相关",
+      "onboard_time": 1767756622,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 55692,
@@ -11185,6 +11441,9 @@
     },
     {
       "word": "#中韩应当坚定站在历史正确一边#"
+    },
+    {
+      "word": "#习近平接待今年首位访华的外国元首#"
     }
   ]
 }

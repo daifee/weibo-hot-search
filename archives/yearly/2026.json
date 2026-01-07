@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767753193956,
+  "endTime": 1767758045134,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -107,12 +107,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1623515,
+      "num": 144788,
+      "word": "Asen回应Sakee",
+      "onboard_time": 1767757102,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1541881,
       "num": 469132,
       "word": "特朗普发布马杜罗在美国军舰上照片",
       "onboard_time": 1767459021,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1527024,
+      "num": 229023,
+      "word": "王鹤棣演唱会嘉宾",
+      "onboard_time": 1767757102,
+      "rank": 10,
+      "category": "演出"
     },
     {
       "raw_hot": 1497333,
@@ -803,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 703052,
+      "num": 361311,
+      "word": "女儿眼中已婚已孕已离的妈妈",
+      "onboard_time": 1767758002,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 695485,
       "num": 1109542,
       "word": "上海下雪",
@@ -1219,6 +1243,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 545432,
+      "num": 223922,
+      "word": "苏醒谈孩子因为自己的身份攀比",
+      "onboard_time": 1767756561,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 544794,
       "num": 260629,
       "word": "叙利亚",
@@ -1259,6 +1291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 538152,
+      "num": 144694,
+      "word": "徐佳莹 我要再生一个",
+      "onboard_time": 1767753202,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 536306,
       "num": 320874,
       "word": "女教师结婚当日坠楼背后",
@@ -1292,7 +1332,7 @@
     },
     {
       "raw_hot": 532385,
-      "num": 238646,
+      "num": 346576,
       "word": "委内瑞拉或将移交3000至5000万桶石油",
       "onboard_time": 1767747622,
       "rank": 11,
@@ -1827,6 +1867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 467397,
+      "num": 467397,
+      "word": "武大靖自曝从床爬到洗手间要半小时",
+      "onboard_time": 1767743480,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 463917,
       "num": 349697,
       "word": "李在明自拍",
@@ -1849,6 +1897,14 @@
       "onboard_time": 1767277642,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 461139,
+      "num": 221460,
+      "word": "林屿森女儿 李雾女儿",
+      "onboard_time": 1767751401,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 459417,
@@ -2115,14 +2171,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 427601,
-      "num": 427601,
-      "word": "武大靖自曝从床爬到洗手间要半小时",
-      "onboard_time": 1767743480,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 426547,
       "num": 418675,
       "word": "给赵今麦当替身后我扑进了宋威龙怀里",
@@ -2353,54 +2401,6 @@
       "onboard_time": 1767620302,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 394705,
-      "num": 224535,
-      "word": "loveissoap说童锦程配不上她",
-      "onboard_time": 1767502944,
-      "rank": 21,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 393843,
-      "num": 292440,
-      "word": "王俊凯 族长赐赞",
-      "onboard_time": 1767521123,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 392817,
-      "num": 1095638,
-      "word": "张本智和曾参拜东乡神社",
-      "onboard_time": 1767365550,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 392598,
-      "num": 195188,
-      "word": "张淼怡新剧开机哭了",
-      "onboard_time": 1767582021,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 392190,
-      "num": 1096612,
-      "word": "在英国痛了7周到中国四天就治好了",
-      "onboard_time": 1767361522,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 389772,
-      "num": 221460,
-      "word": "林屿森女儿 李雾女儿",
-      "onboard_time": 1767751401,
-      "rank": 30,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
@@ -2463,6 +2463,9 @@
     },
     {
       "word": "#中韩应当坚定站在历史正确一边#"
+    },
+    {
+      "word": "#习近平接待今年首位访华的外国元首#"
     }
   ]
 }
