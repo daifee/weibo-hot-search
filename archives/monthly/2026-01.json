@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767811429847,
+  "endTime": 1767812267075,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -20603,6 +20603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34601,
+      "num": 49424,
+      "word": "鹅鸭杀致歉",
+      "onboard_time": 1767808756,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 34599,
       "num": 767101,
       "word": "雷军回应小米汽车甩尾",
@@ -20931,14 +20939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 30598,
-      "num": 49424,
-      "word": "鹅鸭杀致歉",
-      "onboard_time": 1767808756,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 30455,
       "num": 847406,
       "word": "美国袭击未对委石油设施造成损害",
@@ -21081,6 +21081,14 @@
       "onboard_time": 1767374477,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 28340,
+      "num": 88841,
+      "word": "官方回应救护车遇车祸致3人受伤",
+      "onboard_time": 1767805878,
+      "rank": 49,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 28243,
@@ -21353,14 +21361,6 @@
       "onboard_time": 1767681501,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24271,
-      "num": 88841,
-      "word": "官方回应救护车遇车祸致3人受伤",
-      "onboard_time": 1767805878,
-      "rank": 49,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 24137,
@@ -21817,6 +21817,14 @@
       "onboard_time": 1767466155,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 17986,
+      "num": 48433,
+      "word": "西安一救护车侧翻",
+      "onboard_time": 1767811514,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17372,

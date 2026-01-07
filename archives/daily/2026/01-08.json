@@ -1,6 +1,6 @@
 {
   "startTime": 1767804017084,
-  "endTime": 1767811429847,
+  "endTime": 1767812267075,
   "band_list": [
     {
       "raw_hot": 1096354,
@@ -403,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 34601,
+      "num": 49424,
+      "word": "鹅鸭杀致歉",
+      "onboard_time": 1767808756,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 33554,
       "num": 118918,
       "word": "鹅鸭杀补偿方案",
@@ -435,12 +443,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 30598,
-      "num": 49424,
-      "word": "鹅鸭杀致歉",
-      "onboard_time": 1767808756,
-      "rank": 24,
-      "category": "游戏"
+      "raw_hot": 28340,
+      "num": 88841,
+      "word": "官方回应救护车遇车祸致3人受伤",
+      "onboard_time": 1767805878,
+      "rank": 49,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 27458,
@@ -465,14 +473,6 @@
       "onboard_time": 1767807856,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 24271,
-      "num": 88841,
-      "word": "官方回应救护车遇车祸致3人受伤",
-      "onboard_time": 1767805878,
-      "rank": 49,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 23680,
@@ -513,6 +513,14 @@
       "onboard_time": 1767799404,
       "rank": 40,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 17986,
+      "num": 48433,
+      "word": "西安一救护车侧翻",
+      "onboard_time": 1767811514,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9838,
