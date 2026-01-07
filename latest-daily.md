@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/08 00:40:17 ~ 2026/01/08 03:42:02
+本榜单时间：2026/01/08 00:40:17 ~ 2026/01/08 04:34:19
 </p>
 </blockquote>
 <p>
@@ -237,6 +237,12 @@ digi 解散（热度：61681）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%9C%A8%E7%BA%A6%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%86%85%E5%AE%A3%E7%A7%B0%E6%89%A3%E6%8A%BC%E4%B8%A4%E8%89%98%E6%B2%B9%E8%BD%AE%23" target="weibo">
+美国在约半小时内宣称扣押两艘油轮（热度：51644）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E6%8E%89%E7%B2%8920%E5%A4%9A%E4%B8%87%23" target="weibo">
 雷军回应掉粉20多万（热度：48483）
 </a>
@@ -345,6 +351,12 @@ digi 解散（热度：61681）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%9E%E9%A9%AC%E5%90%8D%E5%AD%97%E5%B8%A6%E9%A9%AC%E7%9A%84%E6%B8%B8%E5%AE%A2%E6%9F%A5%E6%94%B6%E7%A6%8F%E5%88%A9%23" target="weibo">
+属马名字带马的游客查收福利（热度：29869）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%95%91%E6%8A%A4%E8%BD%A6%E9%81%87%E8%BD%A6%E7%A5%B8%E8%87%B43%E4%BA%BA%E5%8F%97%E4%BC%A4%23" target="weibo">
 官方回应救护车遇车祸致3人受伤（热度：28340）
 </a>
@@ -359,6 +371,12 @@ WTT挑战赛多哈站（热度：27458）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E6%96%B0SU7%E5%81%9A%E4%B8%8D%E5%88%B0%E5%8A%A0%E9%87%8F%E4%B8%8D%E5%8A%A0%E4%BB%B7%23" target="weibo">
 雷军称新SU7做不到加量不加价（热度：27360）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E5%AD%90%E4%B8%AD%E5%BF%83%E7%A6%BB%E4%B8%96%E5%A5%B3%E5%A9%B4%E6%9B%BE%E5%A4%84%E4%BA%8E%E7%9B%91%E6%8E%A7%E7%9B%B2%E5%8C%BA%23" target="weibo">
+月子中心离世女婴曾处于监控盲区（热度：26933）
 </a>
 </li>
 
@@ -381,20 +399,14 @@ idoll娃娃（热度：23680）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E9%95%BF%E5%AE%89%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%AE%A128%E9%9B%865.2%E4%BA%BF%E4%BA%BA%E6%AC%A1%E6%94%B6%E8%A7%86%23" target="weibo">
+成毅长安二十四计28集5.2亿人次收视（热度：23010）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E6%9C%9B%E8%BF%9C%E9%95%9C%E7%9A%84%E7%A1%AC%E5%AE%9E%E5%8A%9B%23" target="weibo">
 中国空间望远镜的硬实力（热度：22674）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%9E%E9%A9%AC%E5%90%8D%E5%AD%97%E5%B8%A6%E9%A9%AC%E7%9A%84%E6%B8%B8%E5%AE%A2%E6%9F%A5%E6%94%B6%E7%A6%8F%E5%88%A9%23" target="weibo">
-属马名字带马的游客查收福利（热度：21969）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E9%95%BF%E5%AE%89%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%AE%A128%E9%9B%865.2%E4%BA%BF%E4%BA%BA%E6%AC%A1%E6%94%B6%E8%A7%86%23" target="weibo">
-成毅长安二十四计28集5.2亿人次收视（热度：20953）
 </a>
 </li>
 
@@ -413,6 +425,12 @@ idoll娃娃（热度：23680）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E5%8D%9730%E5%91%A8%E5%B9%B4%23" target="weibo">
 柯南30周年（热度：18741）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BA%A2%E7%A7%80%E6%B2%B9%E7%94%BB%E5%85%AC%E4%B8%BB%23" target="weibo">
+迪丽热巴红秀油画公主（热度：11737）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1767804017084,
-  "endTime": 1767814922585,
+  "endTime": 1767818059665,
   "band_list": [
     {
       "raw_hot": 1096354,
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51644,
+      "num": 27464,
+      "word": "美国在约半小时内宣称扣押两艘油轮",
+      "onboard_time": 1767816194,
+      "rank": 3,
+      "category": "军事"
+    },
+    {
       "raw_hot": 48483,
       "num": 277428,
       "word": "雷军回应掉粉20多万",
@@ -443,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29869,
+      "num": 34027,
+      "word": "属马名字带马的游客查收福利",
+      "onboard_time": 1767812714,
+      "rank": 8,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 28340,
       "num": 88841,
       "word": "官方回应救护车遇车祸致3人受伤",
@@ -465,6 +481,14 @@
       "onboard_time": 1767805697,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 26933,
+      "num": 26933,
+      "word": "月子中心离世女婴曾处于监控盲区",
+      "onboard_time": 1767815834,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26393,
@@ -491,28 +515,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23010,
+      "num": 34025,
+      "word": "成毅长安二十四计28集5.2亿人次收视",
+      "onboard_time": 1767813374,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22674,
       "num": 427992,
       "word": "中国空间望远镜的硬实力",
       "onboard_time": 1767795805,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21969,
-      "num": 34027,
-      "word": "属马名字带马的游客查收福利",
-      "onboard_time": 1767812714,
-      "rank": 8,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 20953,
-      "num": 34025,
-      "word": "成毅长安二十四计28集5.2亿人次收视",
-      "onboard_time": 1767813374,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 20652,
@@ -537,6 +553,14 @@
       "onboard_time": 1767799404,
       "rank": 40,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 11737,
+      "num": 25435,
+      "word": "迪丽热巴红秀油画公主",
+      "onboard_time": 1767816794,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 9854,
