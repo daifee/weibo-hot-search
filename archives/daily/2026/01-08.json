@@ -1,6 +1,6 @@
 {
   "startTime": 1767804017084,
-  "endTime": 1767818059665,
+  "endTime": 1767818896939,
   "band_list": [
     {
       "raw_hot": 1096354,
@@ -299,8 +299,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 51644,
-      "num": 27464,
+      "raw_hot": 52887,
+      "num": 42299,
       "word": "美国在约半小时内宣称扣押两艘油轮",
       "onboard_time": 1767816194,
       "rank": 3,
@@ -329,6 +329,14 @@
       "onboard_time": 1767804858,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 45757,
+      "num": 41317,
+      "word": "月子中心离世女婴曾处于监控盲区",
+      "onboard_time": 1767815834,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45185,
@@ -452,7 +460,7 @@
     },
     {
       "raw_hot": 29869,
-      "num": 34027,
+      "num": 42022,
       "word": "属马名字带马的游客查收福利",
       "onboard_time": 1767812714,
       "rank": 8,
@@ -483,14 +491,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 26933,
-      "num": 26933,
-      "word": "月子中心离世女婴曾处于监控盲区",
-      "onboard_time": 1767815834,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26393,
       "num": 64900,
       "word": "陆江来你是懂给自己留后路的",
@@ -507,20 +507,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23538,
+      "num": 34025,
+      "word": "成毅长安二十四计28集5.2亿人次收视",
+      "onboard_time": 1767813374,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23310,
       "num": 49388,
       "word": "王橹杰生周和棉花娃娃一起开售",
       "onboard_time": 1767808516,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 23010,
-      "num": 34025,
-      "word": "成毅长安二十四计28集5.2亿人次收视",
-      "onboard_time": 1767813374,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 22674,
@@ -555,12 +555,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 11737,
+      "raw_hot": 13914,
       "num": 25435,
       "word": "迪丽热巴红秀油画公主",
       "onboard_time": 1767816794,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 11491,
+      "num": 21738,
+      "word": "你好星期六",
+      "onboard_time": 1767818293,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 9854,
