@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767783020121,
+  "endTime": 1767785325342,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -1116,7 +1116,7 @@
     },
     {
       "raw_hot": 517269,
-      "num": 155516,
+      "num": 165247,
       "word": "偶遇吴倩张雨剑带女儿回国",
       "onboard_time": 1767778883,
       "rank": 35,
@@ -1137,6 +1137,14 @@
       "onboard_time": 1767539484,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 514686,
+      "num": 747152,
+      "word": "240万转错账户一年都没要回来",
+      "onboard_time": 1767780203,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 511362,
@@ -1931,6 +1939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 388430,
+      "num": 287537,
+      "word": "淀粉肠进入瑜伽裤时代",
+      "onboard_time": 1767781883,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 386094,
       "num": 291728,
       "word": "王一博肖战张凌赫男明星最佳穿搭",
@@ -2104,6 +2120,14 @@
       "word": "真正不需要梦女的男明星",
       "onboard_time": 1767585381,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 366166,
+      "num": 164275,
+      "word": "孟子义李昀锐逛街没喊张真源",
+      "onboard_time": 1767781583,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -2369,14 +2393,6 @@
       "onboard_time": 1767689121,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 331872,
-      "num": 747152,
-      "word": "240万转错账户一年都没要回来",
-      "onboard_time": 1767780203,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 329021,
@@ -2723,14 +2739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 297413,
-      "num": 154421,
-      "word": "孟子义李昀锐逛街没喊张真源",
-      "onboard_time": 1767781583,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 297035,
       "num": 203101,
       "word": "叶祖新我还是演戏吧不下海没天赋",
@@ -2857,14 +2865,6 @@
       "onboard_time": 1767703101,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 281805,
-      "num": 94829,
-      "word": "淀粉肠进入瑜伽裤时代",
-      "onboard_time": 1767781883,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 281063,
@@ -4227,6 +4227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195863,
+      "num": 195863,
+      "word": "刘宇宁成都站",
+      "onboard_time": 1767784464,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 195692,
       "num": 779903,
       "word": "湖人战胜鹈鹕",
@@ -4665,6 +4673,14 @@
       "onboard_time": 1767528444,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180641,
+      "num": 358124,
+      "word": "尚界Z7",
+      "onboard_time": 1767783084,
+      "rank": 3,
+      "category": "汽车"
     },
     {
       "raw_hot": 180638,
@@ -5291,6 +5307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163604,
+      "num": 163604,
+      "word": "30多元一碗面吃的是撕袋加热",
+      "onboard_time": 1767781883,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162979,
       "num": 162979,
       "word": "微信状态的好用我后知后觉",
@@ -5907,6 +5931,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 145317,
+      "num": 223712,
+      "word": "厚底鞋",
+      "onboard_time": 1767784464,
+      "rank": 8,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 145211,
       "num": 145211,
       "word": "双城之战音乐秀选角神还原",
@@ -6017,6 +6049,14 @@
       "onboard_time": 1767523102,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 142921,
+      "num": 201396,
+      "word": "尚界轿跑新车Z7官宣",
+      "onboard_time": 1767783924,
+      "rank": 9,
+      "category": "汽车"
     },
     {
       "raw_hot": 142907,
@@ -6611,12 +6651,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 131028,
+      "num": 116929,
+      "word": "Kiv发声",
+      "onboard_time": 1767783204,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130978,
       "num": 139011,
       "word": "2025年十大语文差错公布",
       "onboard_time": 1767682701,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130932,
+      "num": 130932,
+      "word": "谢娜普及女生有小肚子的好处",
+      "onboard_time": 1767784763,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 130776,
@@ -6947,6 +7003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124833,
+      "num": 116411,
+      "word": "在地铁遇见老钱风了",
+      "onboard_time": 1767783264,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124681,
       "num": 124681,
       "word": "宋威龙赵今麦双人商务",
@@ -6993,6 +7057,14 @@
       "onboard_time": 1767576860,
       "rank": 22,
       "category": "美食,健康医疗"
+    },
+    {
+      "raw_hot": 124103,
+      "num": 168774,
+      "word": "歼35绿皮机震撼公开",
+      "onboard_time": 1767784584,
+      "rank": 15,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 123938,
@@ -7219,6 +7291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120269,
+      "num": 120269,
+      "word": "宋威龙借卡给路人买蛋糕",
+      "onboard_time": 1767785004,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120188,
       "num": 120188,
       "word": "夏之光 经常请吃饭的帅气哥哥",
@@ -7433,6 +7513,14 @@
       "onboard_time": 1767691281,
       "rank": 45,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 115583,
+      "num": 115583,
+      "word": "宝蓝和众解说鹅鸭杀团建",
+      "onboard_time": 1767784523,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 115568,
@@ -8283,6 +8371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 103077,
+      "num": 167275,
+      "word": "李在明发夫人在华vlog",
+      "onboard_time": 1767782963,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 103052,
       "num": 103052,
       "word": "这5种表现说明你咖啡不耐受",
@@ -8625,14 +8721,6 @@
       "onboard_time": 1767531023,
       "rank": 43,
       "category": "教育"
-    },
-    {
-      "raw_hot": 99093,
-      "num": 99093,
-      "word": "30多元一碗面吃的是撕袋加热",
-      "onboard_time": 1767781883,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98904,
@@ -9395,6 +9483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 91472,
+      "num": 91472,
+      "word": "我家cp回应二搭就这么大大方方",
+      "onboard_time": 1767785125,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91285,
       "num": 104575,
       "word": "汉武帝争议雕像作者无境外公民身份",
@@ -9747,6 +9843,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 87828,
+      "num": 87828,
+      "word": "朱莉被曝计划移居柬埔寨和欧洲",
+      "onboard_time": 1767785125,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87679,
       "num": 87679,
       "word": "摄影师是多喜欢文淇的眼睛",
@@ -9921,6 +10025,14 @@
       "onboard_time": 1767705021,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85935,
+      "num": 85935,
+      "word": "工会每年可组织职工春秋游4次",
+      "onboard_time": 1767781463,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85910,
@@ -10099,6 +10211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 83754,
+      "num": 83754,
+      "word": "父亲起诉女儿要赡养费被法院驳回",
+      "onboard_time": 1767784883,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83637,
       "num": 83637,
       "word": "小乔周瑜太甜了",
@@ -10235,6 +10355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81266,
+      "num": 81266,
+      "word": "最好的取暖器是数学考试",
+      "onboard_time": 1767785244,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 81160,
       "num": 78329,
       "word": "黄宗泽TVB双料视帝",
@@ -10345,14 +10473,6 @@
       "onboard_time": 1767592463,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 79267,
-      "num": 79267,
-      "word": "工会每年可组织职工春秋游4次",
-      "onboard_time": 1767781463,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79193,
@@ -10563,6 +10683,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75586,
+      "num": 75586,
+      "word": "写字不好看的不许开蛋糕店",
+      "onboard_time": 1767784763,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 75485,
+      "num": 75485,
+      "word": "王源说要不计成本回馈歌迷",
+      "onboard_time": 1767785182,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 75446,
       "num": 75446,
       "word": "势均力敌的我们",
@@ -10585,6 +10721,22 @@
       "onboard_time": 1767592222,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 75312,
+      "num": 75312,
+      "word": "王者S42赛季英雄调整",
+      "onboard_time": 1767784645,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 74947,
+      "num": 74947,
+      "word": "这些人最好少喝或不喝咖啡",
+      "onboard_time": 1767784945,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 74920,
@@ -10697,6 +10849,14 @@
       "onboard_time": 1767777382,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 72553,
+      "num": 72553,
+      "word": "一根猫条和猫妈换来的小猫",
+      "onboard_time": 1767784763,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 72047,
@@ -10915,14 +11075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66235,
-      "num": 66235,
-      "word": "李在明发夫人在华vlog",
-      "onboard_time": 1767782963,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 66203,
       "num": 166775,
       "word": "白鹿 朋友太多也有烦恼",
@@ -11020,7 +11172,7 @@
     },
     {
       "raw_hot": 62601,
-      "num": 599466,
+      "num": 619249,
       "word": "我国情绪消费市场规模超2万亿元",
       "onboard_time": 1767757702,
       "rank": 2,
@@ -11241,6 +11393,14 @@
       "onboard_time": 1767510142,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 57585,
+      "num": 164738,
+      "word": "韩总统李在明结束访华",
+      "onboard_time": 1767783983,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 57484,
@@ -11676,7 +11836,7 @@
     },
     {
       "raw_hot": 44790,
-      "num": 156069,
+      "num": 166404,
       "word": "长城汽车CES又双叒叕给国人长脸了",
       "onboard_time": 1767781343,
       "rank": 18,
@@ -12339,6 +12499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30376,
+      "num": 165692,
+      "word": "经济学家建议给每人发1000元消费券",
+      "onboard_time": 1767784464,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30331,
       "num": 91403,
       "word": "山西一景区悬赏2万元征集扎胎线索",
@@ -12377,6 +12545,14 @@
       "onboard_time": 1767501324,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29787,
+      "num": 83756,
+      "word": "外交部回应李在明称已交流朝鲜核问题",
+      "onboard_time": 1767784404,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 29238,
@@ -12833,6 +13009,14 @@
       "onboard_time": 1767723315,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 17119,
+      "num": 83772,
+      "word": "虞书欣双角色喜爱值破15万",
+      "onboard_time": 1767784825,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 16323,

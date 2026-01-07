@@ -1,0 +1,410 @@
+{
+  "runTime": 1767785325342,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 274526,
+        "num": 1043924,
+        "word": "夫妻做出让小个子无痛长高的鞋",
+        "onboard_time": 1767778103,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 514686,
+        "num": 736594,
+        "word": "240万转错账户一年都没要回来",
+        "onboard_time": 1767780203,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49142,
+        "num": 619249,
+        "word": "我国情绪消费市场规模超2万亿元",
+        "onboard_time": 1767757702,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180641,
+        "num": 358124,
+        "word": "尚界Z7",
+        "onboard_time": 1767783084,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 161161,
+        "num": 300132,
+        "word": "老人体验免费洗金镯洗完少了4.87克",
+        "onboard_time": 1767777441,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298999,
+        "num": 298999,
+        "word": "爱吃自助餐小蛋糕的天塌了",
+        "onboard_time": 1767776901,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 388430,
+        "num": 287537,
+        "word": "淀粉肠进入瑜伽裤时代",
+        "onboard_time": 1767781883,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 160791,
+        "num": 258774,
+        "word": "委内瑞拉发布讣告",
+        "onboard_time": 1767748102,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145317,
+        "num": 223712,
+        "word": "厚底鞋",
+        "onboard_time": 1767784464,
+        "rank": 8,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 142921,
+        "num": 201396,
+        "word": "尚界轿跑新车Z7官宣",
+        "onboard_time": 1767783924,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 195863,
+        "num": 195863,
+        "word": "刘宇宁成都站",
+        "onboard_time": 1767784464,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210568,
+        "num": 184715,
+        "word": "蔡依林方严正声明",
+        "onboard_time": 1767781402,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170458,
+        "num": 170458,
+        "word": "原来是养父活埋了生母",
+        "onboard_time": 1767772461,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137225,
+        "num": 169892,
+        "word": "中国留学生讲述日本梅毒扩散乱象",
+        "onboard_time": 1767776721,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127244,
+        "num": 169342,
+        "word": "大爷拍的素颜巴黎火了",
+        "onboard_time": 1767760942,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124103,
+        "num": 168774,
+        "word": "歼35绿皮机震撼公开",
+        "onboard_time": 1767784584,
+        "rank": 15,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 105299,
+        "num": 167808,
+        "word": "和府捞面 只有面现煮",
+        "onboard_time": 1767761782,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103077,
+        "num": 167275,
+        "word": "李在明发夫人在华vlog",
+        "onboard_time": 1767782963,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27288,
+        "num": 166404,
+        "word": "长城汽车CES又双叒叕给国人长脸了",
+        "onboard_time": 1767781343,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 30376,
+        "num": 165692,
+        "word": "经济学家建议给每人发1000元消费券",
+        "onboard_time": 1767784464,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372689,
+        "num": 165247,
+        "word": "偶遇吴倩张雨剑带女儿回国",
+        "onboard_time": 1767778883,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57585,
+        "num": 164738,
+        "word": "韩总统李在明结束访华",
+        "onboard_time": 1767783983,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 366166,
+        "num": 164275,
+        "word": "孟子义李昀锐逛街没喊张真源",
+        "onboard_time": 1767781583,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163604,
+        "num": 163604,
+        "word": "30多元一碗面吃的是撕袋加热",
+        "onboard_time": 1767781883,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154861,
+        "num": 154861,
+        "word": "Sakee Asen",
+        "onboard_time": 1767757341,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132143,
+        "num": 132143,
+        "word": "哈尔滨会惩罚每一个爱上厕所的人",
+        "onboard_time": 1767780864,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130932,
+        "num": 130932,
+        "word": "谢娜普及女生有小肚子的好处",
+        "onboard_time": 1767784763,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120269,
+        "num": 120269,
+        "word": "宋威龙借卡给路人买蛋糕",
+        "onboard_time": 1767785004,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65892,
+        "num": 120035,
+        "word": "nova15成美妆试色专用机",
+        "onboard_time": 1767780444,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 97593,
+        "num": 118679,
+        "word": "张若昀马思纯回应绝交还儿童手表",
+        "onboard_time": 1767777441,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131028,
+        "num": 116929,
+        "word": "Kiv发声",
+        "onboard_time": 1767783204,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124833,
+        "num": 116411,
+        "word": "在地铁遇见老钱风了",
+        "onboard_time": 1767783264,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115583,
+        "num": 115583,
+        "word": "宝蓝和众解说鹅鸭杀团建",
+        "onboard_time": 1767784523,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98458,
+        "num": 98458,
+        "word": "宋威龙17岁跟吴世勋演戏",
+        "onboard_time": 1767779484,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96246,
+        "num": 96246,
+        "word": "00后显老因为是90后装的",
+        "onboard_time": 1767770421,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91472,
+        "num": 91472,
+        "word": "我家cp回应二搭就这么大大方方",
+        "onboard_time": 1767785125,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87828,
+        "num": 87828,
+        "word": "朱莉被曝计划移居柬埔寨和欧洲",
+        "onboard_time": 1767785125,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85935,
+        "num": 85935,
+        "word": "工会每年可组织职工春秋游4次",
+        "onboard_time": 1767781463,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17119,
+        "num": 83772,
+        "word": "虞书欣双角色喜爱值破15万",
+        "onboard_time": 1767784825,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29787,
+        "num": 83756,
+        "word": "外交部回应李在明称已交流朝鲜核问题",
+        "onboard_time": 1767784404,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 83754,
+        "num": 83754,
+        "word": "父亲起诉女儿要赡养费被法院驳回",
+        "onboard_time": 1767784883,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81266,
+        "num": 81266,
+        "word": "最好的取暖器是数学考试",
+        "onboard_time": 1767785244,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80517,
+        "num": 80517,
+        "word": "梅西说当时退出国家队很后悔",
+        "onboard_time": 1767782362,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75586,
+        "num": 75586,
+        "word": "写字不好看的不许开蛋糕店",
+        "onboard_time": 1767784763,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75485,
+        "num": 75485,
+        "word": "王源说要不计成本回馈歌迷",
+        "onboard_time": 1767785182,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 75312,
+        "num": 75312,
+        "word": "王者S42赛季英雄调整",
+        "onboard_time": 1767784645,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 74947,
+        "num": 74947,
+        "word": "这些人最好少喝或不喝咖啡",
+        "onboard_time": 1767784945,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 74938,
+        "num": 74938,
+        "word": "19岁男子与13岁幼女发生关系获刑",
+        "onboard_time": 1767771261,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72553,
+        "num": 72553,
+        "word": "一根猫条和猫妈换来的小猫",
+        "onboard_time": 1767784763,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71803,
+        "num": 71803,
+        "word": "雷军回应为何不标800V",
+        "onboard_time": 1767780503,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平接待今年首位访华的外国元首#"
+    }
+  }
+}
