@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/07 16:55:11
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/07 17:36:54
 </p>
 </blockquote>
 <p>
@@ -1107,6 +1107,12 @@ iPhoneFold上手（热度：543056）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%90%83%E8%87%AA%E5%8A%A9%E9%A4%90%E5%B0%8F%E8%9B%8B%E7%B3%95%E7%9A%84%E5%A4%A9%E5%A1%8C%E4%BA%86%23" target="weibo">
+爱吃自助餐小蛋糕的天塌了（热度：525806）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%8F%96%E6%B6%88%E9%AB%98%E4%B8%80%E9%AB%98%E4%BA%8C%E5%B9%B4%E6%9C%9F%E6%9C%AB%E7%BB%9F%E8%80%83%23" target="weibo">
 多地取消高一高二年期末统考（热度：525471）
 </a>
@@ -1805,12 +1811,6 @@ iPhone没有一个按键是多余的（热度：420534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E4%B8%87%E5%85%83%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%B9%85%E4%B8%89%E4%BA%9A%E4%BB%856900%E5%85%83%23" target="weibo">
 上万元加拿大鹅三亚仅6900元（热度：411025）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%8B%E9%9B%AA%23" target="weibo">
-南京下雪（热度：410068）
 </a>
 </li>
 

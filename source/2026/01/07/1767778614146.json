@@ -1,0 +1,410 @@
+{
+  "runTime": 1767778614146,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 360768,
+        "num": 1057722,
+        "word": "大爷拍的素颜巴黎火了",
+        "onboard_time": 1767760942,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162044,
+        "num": 750201,
+        "word": "明天就进入三九了",
+        "onboard_time": 1767774322,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40831,
+        "num": 589894,
+        "word": "我国情绪消费市场规模超2万亿元",
+        "onboard_time": 1767757702,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 525806,
+        "num": 525806,
+        "word": "爱吃自助餐小蛋糕的天塌了",
+        "onboard_time": 1767776901,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 316275,
+        "num": 316275,
+        "word": "香港扫黄8名女子被捕最大62岁",
+        "onboard_time": 1767775521,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266331,
+        "num": 266331,
+        "word": "委内瑞拉发布讣告",
+        "onboard_time": 1767748102,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 224896,
+        "num": 224896,
+        "word": "00后显老因为是90后装的",
+        "onboard_time": 1767770421,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170079,
+        "num": 224330,
+        "word": "鹅鸭杀 抢ID",
+        "onboard_time": 1767772401,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145092,
+        "num": 221587,
+        "word": "老人体验免费洗金镯洗完少了4.87克",
+        "onboard_time": 1767777441,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115725,
+        "num": 218212,
+        "word": "realme宣布回归OPPO",
+        "onboard_time": 1767772581,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 481743,
+        "num": 217751,
+        "word": "原来是养父活埋了生母",
+        "onboard_time": 1767772461,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338196,
+        "num": 214623,
+        "word": "和府捞面 只有面现煮",
+        "onboard_time": 1767761782,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307586,
+        "num": 212065,
+        "word": "张若昀马思纯回应绝交还儿童手表",
+        "onboard_time": 1767777441,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254318,
+        "num": 209681,
+        "word": "骄阳似我最后一集弹幕",
+        "onboard_time": 1767776482,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148269,
+        "num": 207339,
+        "word": "家政公司派患高危HPV月嫂上户",
+        "onboard_time": 1767774081,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126406,
+        "num": 203796,
+        "word": "王鹤棣演唱会嘉宾",
+        "onboard_time": 1767757102,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121914,
+        "num": 202556,
+        "word": "王源演唱会 防狼喷雾",
+        "onboard_time": 1767769339,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110135,
+        "num": 200097,
+        "word": "小学生寒风中站岗给老师敬礼无回应",
+        "onboard_time": 1767768022,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109843,
+        "num": 198911,
+        "word": "李在明发文",
+        "onboard_time": 1767760342,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102272,
+        "num": 195443,
+        "word": "中国留学生讲述日本梅毒扩散乱象",
+        "onboard_time": 1767776721,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289492,
+        "num": 192656,
+        "word": "宋威龙 人火了脸也丢尽了",
+        "onboard_time": 1767770540,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76859,
+        "num": 189814,
+        "word": "许家印被执行4700万",
+        "onboard_time": 1767778404,
+        "rank": 21,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 258532,
+        "num": 188810,
+        "word": "Asen回应Sakee",
+        "onboard_time": 1767757102,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101913,
+        "num": 185521,
+        "word": "夫妻做出让小个子无痛长高的鞋",
+        "onboard_time": 1767778103,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184831,
+        "num": 184831,
+        "word": "美国富人订制婴儿打造完美后代",
+        "onboard_time": 1767773541,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 183853,
+        "num": 183853,
+        "word": "苏醒李炜 战绩可查",
+        "onboard_time": 1767772341,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173112,
+        "num": 173112,
+        "word": "檀健次立牌吓人案",
+        "onboard_time": 1767769520,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242551,
+        "num": 172228,
+        "word": "Sakee Asen",
+        "onboard_time": 1767757341,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169007,
+        "num": 169007,
+        "word": "19岁男子与13岁幼女发生关系获刑",
+        "onboard_time": 1767771261,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139981,
+        "num": 139981,
+        "word": "幼女谎称16岁网恋发生关系男子获刑",
+        "onboard_time": 1767773061,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136770,
+        "num": 136770,
+        "word": "第一次见价值4万的黄金美甲",
+        "onboard_time": 1767778285,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 134929,
+        "num": 134929,
+        "word": "杨紫素颜live照",
+        "onboard_time": 1767761182,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134588,
+        "num": 134588,
+        "word": "第一次见气血这么足的男女主",
+        "onboard_time": 1767776482,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127086,
+        "num": 127086,
+        "word": "微信员工辟谣好友太多会被封",
+        "onboard_time": 1767778223,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 122842,
+        "num": 122842,
+        "word": "李金铭否认怀孕",
+        "onboard_time": 1767768801,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114988,
+        "num": 114988,
+        "word": "罗启聪被捕现场查获7.9公斤可卡因",
+        "onboard_time": 1767776721,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108927,
+        "num": 108927,
+        "word": "郭有才宣布婚讯",
+        "onboard_time": 1767773482,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 98268,
+        "num": 98268,
+        "word": "聂曦光舅妈中了风腾集团的设计标",
+        "onboard_time": 1767777501,
+        "rank": 37,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 95541,
+        "num": 95541,
+        "word": "泡泡玛特五折甩卖为假消息",
+        "onboard_time": 1767777322,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 94438,
+        "num": 94438,
+        "word": "田曦薇现身央视路透",
+        "onboard_time": 1767771861,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93878,
+        "num": 93878,
+        "word": "迪丽热巴 没有成为演员的生活",
+        "onboard_time": 1767778464,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92896,
+        "num": 92896,
+        "word": "南部档案",
+        "onboard_time": 1767770780,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72662,
+        "num": 86590,
+        "word": "陈星旭卢昱晓吻戏最多的一部剧",
+        "onboard_time": 1767777382,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80821,
+        "num": 86506,
+        "word": "王赫野回应东方卫视跨年吃肖战名场面",
+        "onboard_time": 1767777382,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21552,
+        "num": 86483,
+        "word": "宣萱55岁自然保养拒医美",
+        "onboard_time": 1767778583,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86482,
+        "num": 86482,
+        "word": "张凌赫人生镜头上新",
+        "onboard_time": 1767778523,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84194,
+        "num": 84194,
+        "word": "原来鼻炎会影响一个人的身高长相",
+        "onboard_time": 1767759440,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 80990,
+        "num": 80990,
+        "word": "猫 再多说几句连你一起打",
+        "onboard_time": 1767778464,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82230,
+        "num": 79968,
+        "word": "没上过发年终奖的班",
+        "onboard_time": 1767777802,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78789,
+        "num": 78789,
+        "word": "娜扎夹个发夹就出来扮精灵了",
+        "onboard_time": 1767768501,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平接待今年首位访华的外国元首#"
+    }
+  }
+}
