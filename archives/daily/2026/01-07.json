@@ -1,6 +1,6 @@
 {
   "startTime": 1767717567538,
-  "endTime": 1767782049382,
+  "endTime": 1767783020121,
   "band_list": [
     {
       "raw_hot": 2704539,
@@ -179,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 517269,
+      "num": 155516,
+      "word": "偶遇吴倩张雨剑带女儿回国",
+      "onboard_time": 1767778883,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 511362,
       "num": 796697,
       "word": "李在明发文",
@@ -193,14 +201,6 @@
       "onboard_time": 1767751221,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 493252,
-      "num": 124919,
-      "word": "偶遇吴倩张雨剑带女儿回国",
-      "onboard_time": 1767778883,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 487139,
@@ -299,19 +299,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 419781,
+      "num": 1067165,
+      "word": "夫妻做出让小个子无痛长高的鞋",
+      "onboard_time": 1767778103,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 393141,
       "num": 393141,
       "word": "7800元始祖鸟限定款二手遇冷",
       "onboard_time": 1767761062,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 386107,
-      "num": 1061777,
-      "word": "夫妻做出让小个子无痛长高的鞋",
-      "onboard_time": 1767778103,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -395,6 +395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 331872,
+      "num": 747152,
+      "word": "240万转错账户一年都没要回来",
+      "onboard_time": 1767780203,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 328235,
       "num": 328235,
       "word": "社区卫生服务中心短信提醒多吃狗肉",
@@ -443,6 +451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 311765,
+      "num": 197328,
+      "word": "蔡依林方严正声明",
+      "onboard_time": 1767781402,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 308673,
       "num": 198465,
       "word": "七七饭撒",
@@ -483,6 +499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 297413,
+      "num": 154421,
+      "word": "孟子义李昀锐逛街没喊张真源",
+      "onboard_time": 1767781583,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296722,
       "num": 296722,
       "word": "白月梵星",
@@ -513,6 +537,14 @@
       "onboard_time": 1767762982,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 281805,
+      "num": 94829,
+      "word": "淀粉肠进入瑜伽裤时代",
+      "onboard_time": 1767781883,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 277467,
@@ -723,14 +755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197328,
-      "num": 197328,
-      "word": "蔡依林方严正声明",
-      "onboard_time": 1767781402,
-      "rank": 11,
-      "category": "演出"
-    },
-    {
       "raw_hot": 196155,
       "num": 196155,
       "word": "郭可盈婉拒15岁女儿出道",
@@ -780,7 +804,7 @@
     },
     {
       "raw_hot": 190693,
-      "num": 103812,
+      "num": 153067,
       "word": "nova15成美妆试色专用机",
       "onboard_time": 1767780444,
       "rank": 23,
@@ -899,6 +923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 166850,
+      "num": 166850,
+      "word": "哈尔滨会惩罚每一个爱上厕所的人",
+      "onboard_time": 1767780864,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166749,
       "num": 158457,
       "word": "日本梅毒",
@@ -993,14 +1025,6 @@
       "onboard_time": 1767760644,
       "rank": 20,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 155730,
-      "num": 103406,
-      "word": "孟子义李昀锐逛街没喊张真源",
-      "onboard_time": 1767781583,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 155578,
@@ -1267,14 +1291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130742,
-      "num": 88339,
-      "word": "哈尔滨会惩罚每一个爱上厕所的人",
-      "onboard_time": 1767780864,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 130675,
       "num": 189599,
       "word": "男子自带3瓶茅台全被服务员调包",
@@ -1531,6 +1547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106677,
+      "num": 159155,
+      "word": "陆虎的房子 雪落下的声音",
+      "onboard_time": 1767782423,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106340,
       "num": 106340,
       "word": "每天下班先睡一觉正常吗",
@@ -1572,19 +1596,11 @@
     },
     {
       "raw_hot": 105563,
-      "num": 117196,
+      "num": 157476,
       "word": "张智霖比陈小春先答出应采儿",
       "onboard_time": 1767779305,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105140,
-      "num": 201732,
-      "word": "240万转错账户一年都没要回来",
-      "onboard_time": 1767780203,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105001,
@@ -1593,6 +1609,14 @@
       "onboard_time": 1767758661,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 104723,
+      "num": 104723,
+      "word": "101大楼飞行街景被转发超4万次",
+      "onboard_time": 1767782903,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104568,
@@ -1716,7 +1740,7 @@
     },
     {
       "raw_hot": 99501,
-      "num": 104461,
+      "num": 166350,
       "word": "雷军回应为何不标800V",
       "onboard_time": 1767780503,
       "rank": 20,
@@ -1729,6 +1753,14 @@
       "onboard_time": 1767742760,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99093,
+      "num": 99093,
+      "word": "30多元一碗面吃的是撕袋加热",
+      "onboard_time": 1767781883,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99021,
@@ -1907,6 +1939,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 89671,
+      "num": 89671,
+      "word": "正确的跳槽顺序",
+      "onboard_time": 1767782724,
+      "rank": 31,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 89487,
       "num": 89487,
       "word": "刘世芳郑英耀列为台独顽固分子",
@@ -1921,6 +1961,14 @@
       "onboard_time": 1767741797,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 88457,
+      "num": 88457,
+      "word": "梅西说当时退出国家队很后悔",
+      "onboard_time": 1767782362,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 86575,
@@ -1987,14 +2035,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 85005,
-      "num": 85005,
-      "word": "淀粉肠进入瑜伽裤时代",
-      "onboard_time": 1767781883,
-      "rank": 42,
-      "category": "美食"
-    },
-    {
       "raw_hot": 84997,
       "num": 180677,
       "word": "玉茗茶骨去父留女",
@@ -2059,12 +2099,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80520,
+      "num": 80520,
+      "word": "汉服羞耻症",
+      "onboard_time": 1767782182,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 80498,
+      "num": 80498,
+      "word": "人之初",
+      "onboard_time": 1767756202,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80478,
       "num": 202212,
       "word": "宋威龙赵今麦庆功宴",
       "onboard_time": 1767750021,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79267,
+      "num": 79267,
+      "word": "工会每年可组织职工春秋游4次",
+      "onboard_time": 1767781463,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78849,
@@ -2112,14 +2176,6 @@
       "word": "除冰机器人在线吃冰",
       "onboard_time": 1767717318,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76929,
-      "num": 76929,
-      "word": "工会每年可组织职工春秋游4次",
-      "onboard_time": 1767781463,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -2171,14 +2227,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 74770,
-      "num": 74770,
-      "word": "人之初",
-      "onboard_time": 1767756202,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 74387,
       "num": 156563,
       "word": "郑钦文的旅行新搭子",
@@ -2193,6 +2241,14 @@
       "onboard_time": 1767751641,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 73812,
+      "num": 73812,
+      "word": "这是用芝麻馅当洗手液了",
+      "onboard_time": 1767782663,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 72662,
@@ -2236,7 +2292,7 @@
     },
     {
       "raw_hot": 68364,
-      "num": 105247,
+      "num": 156630,
       "word": "荣耀高管再度回应Air手机争议",
       "onboard_time": 1767780503,
       "rank": 17,
@@ -2251,12 +2307,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 67082,
+      "num": 67082,
+      "word": "这居然是三岁小孩干出来的事",
+      "onboard_time": 1767776601,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 67064,
+      "num": 67064,
+      "word": "春晚推介片向全世界介绍中国春节",
+      "onboard_time": 1767782963,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 66262,
       "num": 100090,
       "word": "多地裁判文书隐去法官姓名和案号",
       "onboard_time": 1767704541,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66235,
+      "num": 66235,
+      "word": "李在明发夫人在华vlog",
+      "onboard_time": 1767782963,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 65898,
@@ -2444,7 +2524,7 @@
     },
     {
       "raw_hot": 44790,
-      "num": 104921,
+      "num": 156069,
       "word": "长城汽车CES又双叒叕给国人长脸了",
       "onboard_time": 1767781343,
       "rank": 18,
@@ -2481,6 +2561,14 @@
       "onboard_time": 1767773602,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 39455,
+      "num": 75333,
+      "word": "钱芳萍坏但得到别墅",
+      "onboard_time": 1767782303,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 39264,
@@ -2691,6 +2779,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 21385,
+      "num": 86157,
+      "word": "服务员调包3瓶茅台被强制措施",
+      "onboard_time": 1767781762,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21274,
       "num": 89753,
       "word": "娱乐化绝不能染指食品安全",
@@ -2761,14 +2857,6 @@
       "onboard_time": 1767763461,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 8143,
-      "num": 86157,
-      "word": "服务员调包3瓶茅台被强制措施",
-      "onboard_time": 1767781762,
-      "rank": 39,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

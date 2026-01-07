@@ -1,0 +1,410 @@
+{
+  "runTime": 1767783020121,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 419781,
+        "num": 1067165,
+        "word": "夫妻做出让小个子无痛长高的鞋",
+        "onboard_time": 1767778103,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331872,
+        "num": 747152,
+        "word": "240万转错账户一年都没要回来",
+        "onboard_time": 1767780203,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60836,
+        "num": 589119,
+        "word": "我国情绪消费市场规模超2万亿元",
+        "onboard_time": 1767757702,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240559,
+        "num": 240559,
+        "word": "大爷拍的素颜巴黎火了",
+        "onboard_time": 1767760942,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199440,
+        "num": 199440,
+        "word": "老人体验免费洗金镯洗完少了4.87克",
+        "onboard_time": 1767777441,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463120,
+        "num": 192854,
+        "word": "爱吃自助餐小蛋糕的天塌了",
+        "onboard_time": 1767776901,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 216734,
+        "num": 191322,
+        "word": "委内瑞拉发布讣告",
+        "onboard_time": 1767748102,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181149,
+        "num": 181149,
+        "word": "中国留学生讲述日本梅毒扩散乱象",
+        "onboard_time": 1767776721,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166850,
+        "num": 166850,
+        "word": "哈尔滨会惩罚每一个爱上厕所的人",
+        "onboard_time": 1767780864,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96357,
+        "num": 166350,
+        "word": "雷军回应为何不标800V",
+        "onboard_time": 1767780503,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 311765,
+        "num": 163853,
+        "word": "蔡依林方严正声明",
+        "onboard_time": 1767781402,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 219369,
+        "num": 161412,
+        "word": "原来是养父活埋了生母",
+        "onboard_time": 1767772461,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148475,
+        "num": 160755,
+        "word": "和府捞面 只有面现煮",
+        "onboard_time": 1767761782,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159202,
+        "num": 159202,
+        "word": "张若昀马思纯回应绝交还儿童手表",
+        "onboard_time": 1767777441,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106677,
+        "num": 159155,
+        "word": "陆虎的房子 雪落下的声音",
+        "onboard_time": 1767782423,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90609,
+        "num": 158221,
+        "word": "黄奕风格大变",
+        "onboard_time": 1767779003,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103877,
+        "num": 157476,
+        "word": "张智霖比陈小春先答出应采儿",
+        "onboard_time": 1767779305,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87681,
+        "num": 157042,
+        "word": "骄阳似我最后一集弹幕",
+        "onboard_time": 1767776482,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61254,
+        "num": 156630,
+        "word": "荣耀高管再度回应Air手机争议",
+        "onboard_time": 1767780503,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 39625,
+        "num": 156069,
+        "word": "长城汽车CES又双叒叕给国人长脸了",
+        "onboard_time": 1767781343,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 517269,
+        "num": 155516,
+        "word": "偶遇吴倩张雨剑带女儿回国",
+        "onboard_time": 1767778883,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297413,
+        "num": 154421,
+        "word": "孟子义李昀锐逛街没喊张真源",
+        "onboard_time": 1767781583,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175206,
+        "num": 154095,
+        "word": "Sakee Asen",
+        "onboard_time": 1767757341,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164679,
+        "num": 153681,
+        "word": "00后显老因为是90后装的",
+        "onboard_time": 1767770421,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153067,
+        "num": 153067,
+        "word": "nova15成美妆试色专用机",
+        "onboard_time": 1767780444,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 107880,
+        "num": 107880,
+        "word": "第一次见价值4万的黄金美甲",
+        "onboard_time": 1767778285,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 105298,
+        "num": 105298,
+        "word": "19岁男子与13岁幼女发生关系获刑",
+        "onboard_time": 1767771261,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104723,
+        "num": 104723,
+        "word": "101大楼飞行街景被转发超4万次",
+        "onboard_time": 1767782903,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99093,
+        "num": 99093,
+        "word": "30多元一碗面吃的是撕袋加热",
+        "onboard_time": 1767781883,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94988,
+        "num": 94988,
+        "word": "宋威龙17岁跟吴世勋演戏",
+        "onboard_time": 1767779484,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281805,
+        "num": 94829,
+        "word": "淀粉肠进入瑜伽裤时代",
+        "onboard_time": 1767781883,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 89671,
+        "num": 89671,
+        "word": "正确的跳槽顺序",
+        "onboard_time": 1767782724,
+        "rank": 31,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 88457,
+        "num": 88457,
+        "word": "梅西说当时退出国家队很后悔",
+        "onboard_time": 1767782362,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85761,
+        "num": 85761,
+        "word": "美国富人订制婴儿打造完美后代",
+        "onboard_time": 1767773541,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 80520,
+        "num": 80520,
+        "word": "汉服羞耻症",
+        "onboard_time": 1767782182,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80498,
+        "num": 80498,
+        "word": "人之初",
+        "onboard_time": 1767756202,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80478,
+        "num": 80478,
+        "word": "迪丽热巴 没有成为演员的生活",
+        "onboard_time": 1767778464,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79267,
+        "num": 79267,
+        "word": "工会每年可组织职工春秋游4次",
+        "onboard_time": 1767781463,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79255,
+        "num": 79255,
+        "word": "A股中国核建涨停",
+        "onboard_time": 1767780625,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 39455,
+        "num": 75333,
+        "word": "钱芳萍坏但得到别墅",
+        "onboard_time": 1767782303,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74375,
+        "num": 74375,
+        "word": "第一次见气血这么足的男女主",
+        "onboard_time": 1767776482,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75752,
+        "num": 74266,
+        "word": "骄阳似我配音导演发文",
+        "onboard_time": 1767781643,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73812,
+        "num": 73812,
+        "word": "这是用芝麻馅当洗手液了",
+        "onboard_time": 1767782663,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 21385,
+        "num": 72424,
+        "word": "服务员调包3瓶茅台被强制措施",
+        "onboard_time": 1767781762,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71207,
+        "num": 71207,
+        "word": "老师批改时都要停下来笑两分钟",
+        "onboard_time": 1767780802,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67690,
+        "num": 67690,
+        "word": "这句话真的点透了我言多必失",
+        "onboard_time": 1767781762,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67082,
+        "num": 67082,
+        "word": "这居然是三岁小孩干出来的事",
+        "onboard_time": 1767776601,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67064,
+        "num": 67064,
+        "word": "春晚推介片向全世界介绍中国春节",
+        "onboard_time": 1767782963,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66699,
+        "num": 66699,
+        "word": "幼女谎称16岁网恋发生关系男子获刑",
+        "onboard_time": 1767773061,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66235,
+        "num": 66235,
+        "word": "李在明发夫人在华vlog",
+        "onboard_time": 1767782963,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平接待今年首位访华的外国元首#"
+    }
+  }
+}
