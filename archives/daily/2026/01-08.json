@@ -1,6 +1,6 @@
 {
   "startTime": 1767804017084,
-  "endTime": 1767824975473,
+  "endTime": 1767825982118,
   "band_list": [
     {
       "raw_hot": 1096354,
@@ -9,6 +9,14 @@
       "onboard_time": 1767791125,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 278907,
+      "num": 517281,
+      "word": "美国在约半小时内宣称扣押两艘油轮",
+      "onboard_time": 1767816194,
+      "rank": 3,
+      "category": "军事"
     },
     {
       "raw_hot": 260697,
@@ -25,14 +33,6 @@
       "onboard_time": 1767803479,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208018,
-      "num": 418717,
-      "word": "美国在约半小时内宣称扣押两艘油轮",
-      "onboard_time": 1767816194,
-      "rank": 3,
-      "category": "军事"
     },
     {
       "raw_hot": 201190,
@@ -163,6 +163,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 78421,
+      "num": 386550,
+      "word": "女子百万装新房老公每次来都像游客",
+      "onboard_time": 1767785965,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75252,
       "num": 91543,
       "word": "刘宇宁六块腹肌隐藏款",
@@ -185,14 +193,6 @@
       "onboard_time": 1767783264,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 70968,
-      "num": 323885,
-      "word": "女子百万装新房老公每次来都像游客",
-      "onboard_time": 1767785965,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70238,
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57398,
+      "num": 119126,
+      "word": "山东一闲置水井突喷热水变温泉",
+      "onboard_time": 1767800783,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57187,
       "num": 119100,
       "word": "葛夕喊话留几手",
@@ -307,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50854,
+      "num": 50854,
+      "word": "月子中心离世女婴曾处于监控盲区",
+      "onboard_time": 1767815834,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48483,
       "num": 277428,
       "word": "雷军回应掉粉20多万",
@@ -329,14 +345,6 @@
       "onboard_time": 1767804858,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 45757,
-      "num": 45682,
-      "word": "月子中心离世女婴曾处于监控盲区",
-      "onboard_time": 1767815834,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 45185,
@@ -379,20 +387,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 40722,
-      "num": 119126,
-      "word": "山东一闲置水井突喷热水变温泉",
-      "onboard_time": 1767800783,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40601,
       "num": 119106,
       "word": "新型毒品伪装成巧克力曲奇饼干",
       "onboard_time": 1767794606,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38217,
+      "num": 62664,
+      "word": "属马名字带马的游客查收福利",
+      "onboard_time": 1767812714,
+      "rank": 8,
+      "category": "旅游"
     },
     {
       "raw_hot": 38004,
@@ -459,12 +467,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 29869,
-      "num": 62664,
-      "word": "属马名字带马的游客查收福利",
-      "onboard_time": 1767812714,
-      "rank": 8,
-      "category": "旅游"
+      "raw_hot": 28598,
+      "num": 40131,
+      "word": "成毅长安二十四计28集5.2亿人次收视",
+      "onboard_time": 1767813374,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 28340,
@@ -491,20 +499,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 26605,
-      "num": 34025,
-      "word": "成毅长安二十四计28集5.2亿人次收视",
-      "onboard_time": 1767813374,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 26393,
       "num": 64900,
       "word": "陆江来你是懂给自己留后路的",
       "onboard_time": 1767807856,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24138,
+      "num": 36490,
+      "word": "迪丽热巴红秀油画公主",
+      "onboard_time": 1767816794,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 23680,
@@ -539,14 +547,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 20462,
-      "num": 31812,
-      "word": "迪丽热巴红秀油画公主",
-      "onboard_time": 1767816794,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 19105,
       "num": 48433,
       "word": "西安一救护车侧翻",
@@ -563,16 +563,16 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 14479,
-      "num": 31744,
+      "raw_hot": 17207,
+      "num": 36408,
       "word": "你好星期六",
       "onboard_time": 1767818293,
       "rank": 44,
       "category": "综艺"
     },
     {
-      "raw_hot": 9854,
-      "num": 232671,
+      "raw_hot": 11516,
+      "num": 305720,
       "word": "直播电商新规强化AI内容监管",
       "onboard_time": 1767795265,
       "rank": 2,

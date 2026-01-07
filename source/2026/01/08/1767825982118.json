@@ -1,0 +1,410 @@
+{
+  "runTime": 1767825982118,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 278907,
+        "num": 517281,
+        "word": "美国在约半小时内宣称扣押两艘油轮",
+        "onboard_time": 1767816194,
+        "rank": 0,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 78421,
+        "num": 386550,
+        "word": "女子百万装新房老公每次来都像游客",
+        "onboard_time": 1767785965,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11516,
+        "num": 305720,
+        "word": "直播电商新规强化AI内容监管",
+        "onboard_time": 1767795265,
+        "rank": 2,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 58833,
+        "num": 58833,
+        "word": "永川地震",
+        "onboard_time": 1767796284,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 57398,
+        "num": 57398,
+        "word": "山东一闲置水井突喷热水变温泉",
+        "onboard_time": 1767800783,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62979,
+        "num": 57255,
+        "word": "最无用的节俭行为",
+        "onboard_time": 1767789384,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41913,
+        "num": 57227,
+        "word": "爱吃自助餐小蛋糕的天塌了",
+        "onboard_time": 1767776901,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 38217,
+        "num": 57059,
+        "word": "属马名字带马的游客查收福利",
+        "onboard_time": 1767812714,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 37187,
+        "num": 56813,
+        "word": "博主揭露富二代卖玉骗局",
+        "onboard_time": 1767803839,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32008,
+        "num": 56674,
+        "word": "官方回应专升本缴费显示南方航空",
+        "onboard_time": 1767799584,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 97579,
+        "num": 56563,
+        "word": "日本经济界对中方全面禁运感到恐慌",
+        "onboard_time": 1767797484,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93989,
+        "num": 56290,
+        "word": "哈哈哈哈哈6",
+        "onboard_time": 1767803479,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74237,
+        "num": 56148,
+        "word": "五哈6常驻嘉宾",
+        "onboard_time": 1767798144,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68440,
+        "num": 55996,
+        "word": "女子拿5克金子做首饰熔后不足1克",
+        "onboard_time": 1767792085,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 55939,
+        "num": 55939,
+        "word": "伊朗",
+        "onboard_time": 1767797843,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 53918,
+        "num": 53918,
+        "word": "女子杀害丈夫百名村民向法院求情",
+        "onboard_time": 1767799824,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50854,
+        "num": 50854,
+        "word": "月子中心离世女婴曾处于监控盲区",
+        "onboard_time": 1767815834,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33619,
+        "num": 41770,
+        "word": "优酷认证肖战藏海传2025剧王",
+        "onboard_time": 1767804858,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31494,
+        "num": 40388,
+        "word": "日本单身也要替别人养娃",
+        "onboard_time": 1767801321,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 28598,
+        "num": 40131,
+        "word": "成毅长安二十四计28集5.2亿人次收视",
+        "onboard_time": 1767813374,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40115,
+        "num": 40115,
+        "word": "吴倩张雨剑女儿有多可爱",
+        "onboard_time": 1767792444,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39726,
+        "num": 39726,
+        "word": "在地铁遇见老钱风了",
+        "onboard_time": 1767783264,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38381,
+        "num": 38381,
+        "word": "陈妍希这个妆造美成啥了",
+        "onboard_time": 1767800662,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38281,
+        "num": 38281,
+        "word": "医生不建议直接穿外裤坐卧在床上",
+        "onboard_time": 1767790824,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 36559,
+        "num": 36559,
+        "word": "女子炖肉时高压锅爆炸被热气烫伤",
+        "onboard_time": 1767795745,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36526,
+        "num": 36526,
+        "word": "胃癌来临时身体的五个警报",
+        "onboard_time": 1767795626,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 33024,
+        "num": 36525,
+        "word": "刘宇宁 我现在是很丑吗",
+        "onboard_time": 1767794004,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31530,
+        "num": 36510,
+        "word": "葛夕喊话留几手",
+        "onboard_time": 1767791724,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28703,
+        "num": 36504,
+        "word": "王橹杰高会",
+        "onboard_time": 1767791125,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25362,
+        "num": 36502,
+        "word": "宋威龙 一切有迹可循",
+        "onboard_time": 1767789203,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24138,
+        "num": 36490,
+        "word": "迪丽热巴红秀油画公主",
+        "onboard_time": 1767816794,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29146,
+        "num": 36481,
+        "word": "刘宇宁六块腹肌隐藏款",
+        "onboard_time": 1767804678,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23791,
+        "num": 36472,
+        "word": "雷军回应KOL事件",
+        "onboard_time": 1767796226,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 22154,
+        "num": 36467,
+        "word": "育儿嫂玩手机一脚把婴儿踢下床",
+        "onboard_time": 1767785844,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22051,
+        "num": 36464,
+        "word": "240万转错账户一年都没要回来",
+        "onboard_time": 1767780203,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21766,
+        "num": 36451,
+        "word": "鹅鸭杀",
+        "onboard_time": 1767789684,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20242,
+        "num": 36442,
+        "word": "歼35新年首飞",
+        "onboard_time": 1767800482,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 20219,
+        "num": 36439,
+        "word": "厚底鞋",
+        "onboard_time": 1767784464,
+        "rank": 37,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 18724,
+        "num": 36425,
+        "word": "歼35绿皮机震撼公开",
+        "onboard_time": 1767784584,
+        "rank": 38,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 18183,
+        "num": 36425,
+        "word": "丁禹兮少年感演技赛道",
+        "onboard_time": 1767805937,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17253,
+        "num": 36416,
+        "word": "西安一救护车侧翻",
+        "onboard_time": 1767811514,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17207,
+        "num": 36408,
+        "word": "你好星期六",
+        "onboard_time": 1767818293,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17029,
+        "num": 36400,
+        "word": "剑来",
+        "onboard_time": 1767801801,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16740,
+        "num": 36391,
+        "word": "罚罪",
+        "onboard_time": 1767807496,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16479,
+        "num": 36378,
+        "word": "雷军称新SU7做不到加量不加价",
+        "onboard_time": 1767805697,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 15713,
+        "num": 36375,
+        "word": "雷军回应掉粉20多万",
+        "onboard_time": 1767796346,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 15506,
+        "num": 36370,
+        "word": "柯南30周年",
+        "onboard_time": 1767799404,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 15446,
+        "num": 36363,
+        "word": "官方回应救护车遇车祸致3人受伤",
+        "onboard_time": 1767805878,
+        "rank": 47,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 14477,
+        "num": 36353,
+        "word": "鹅鸭杀致歉",
+        "onboard_time": 1767808756,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14062,
+        "num": 36344,
+        "word": "WTT挑战赛多哈站",
+        "onboard_time": 1767802522,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中韩应当坚定站在历史正确一边#"
+    }
+  }
+}

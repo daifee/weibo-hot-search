@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/08 06:29:35
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/08 06:46:22
 </p>
 </blockquote>
 <p>
@@ -3111,6 +3111,12 @@ TVB第一个打烂奖杯（热度：318351）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%9C%A8%E7%BA%A6%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%86%85%E5%AE%A3%E7%A7%B0%E6%89%A3%E6%8A%BC%E4%B8%A4%E8%89%98%E6%B2%B9%E8%BD%AE%23" target="weibo">
+美国在约半小时内宣称扣押两艘油轮（热度：278907）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A5%BF%E5%8D%8A%E7%90%83%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E5%8D%8A%E7%90%83%23" target="weibo">
 特朗普称西半球是我们的半球（热度：278316）
 </a>
@@ -4283,12 +4289,6 @@ cp最好嗑的是烂人真心（热度：212262）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%83%E9%B8%A1%E8%9B%8B%E6%83%8A%E7%8E%B0%E8%9B%8B%E4%B8%AD%E8%9B%8B%23" target="weibo">
 女子吃鸡蛋惊现蛋中蛋（热度：208037）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%9C%A8%E7%BA%A6%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%86%85%E5%AE%A3%E7%A7%B0%E6%89%A3%E6%8A%BC%E4%B8%A4%E8%89%98%E6%B2%B9%E8%BD%AE%23" target="weibo">
-美国在约半小时内宣称扣押两艘油轮（热度：208018）
 </a>
 </li>
 
