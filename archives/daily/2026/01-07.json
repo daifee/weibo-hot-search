@@ -1,6 +1,6 @@
 {
   "startTime": 1767717567538,
-  "endTime": 1767779499622,
+  "endTime": 1767782049382,
   "band_list": [
     {
       "raw_hot": 2704539,
@@ -195,6 +195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 493252,
+      "num": 124919,
+      "word": "偶遇吴倩张雨剑带女儿回国",
+      "onboard_time": 1767778883,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 487139,
       "num": 200131,
       "word": "向太回应前男友心梗去世",
@@ -296,6 +304,14 @@
       "word": "7800元始祖鸟限定款二手遇冷",
       "onboard_time": 1767761062,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 386107,
+      "num": 1061777,
+      "word": "夫妻做出让小个子无痛长高的鞋",
+      "onboard_time": 1767778103,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -571,14 +587,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 239342,
-      "num": 788666,
-      "word": "夫妻做出让小个子无痛长高的鞋",
-      "onboard_time": 1767778103,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 233828,
       "num": 206461,
       "word": "白鹿敖瑞鹏白月梵星一周年售后",
@@ -617,6 +625,14 @@
       "onboard_time": 1767714741,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223525,
+      "num": 369372,
+      "word": "老人体验免费洗金镯洗完少了4.87克",
+      "onboard_time": 1767777441,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221376,
@@ -707,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197328,
+      "num": 197328,
+      "word": "蔡依林方严正声明",
+      "onboard_time": 1767781402,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 196155,
       "num": 196155,
       "word": "郭可盈婉拒15岁女儿出道",
@@ -755,6 +779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 190693,
+      "num": 103812,
+      "word": "nova15成美妆试色专用机",
+      "onboard_time": 1767780444,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 189651,
       "num": 208184,
       "word": "沪指14连阳",
@@ -771,6 +803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187867,
+      "num": 214649,
+      "word": "中国留学生讲述日本梅毒扩散乱象",
+      "onboard_time": 1767776721,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184392,
       "num": 168156,
       "word": "鹅鸭杀保姆级教程",
@@ -785,14 +825,6 @@
       "onboard_time": 1767694461,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 183994,
-      "num": 369372,
-      "word": "老人体验免费洗金镯洗完少了4.87克",
-      "onboard_time": 1767777441,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 179005,
@@ -961,6 +993,14 @@
       "onboard_time": 1767760644,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 155730,
+      "num": 103406,
+      "word": "孟子义李昀锐逛街没喊张真源",
+      "onboard_time": 1767781583,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 155578,
@@ -1227,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130742,
+      "num": 88339,
+      "word": "哈尔滨会惩罚每一个爱上厕所的人",
+      "onboard_time": 1767780864,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130675,
       "num": 189599,
       "word": "男子自带3瓶茅台全被服务员调包",
@@ -1273,14 +1321,6 @@
       "onboard_time": 1767778223,
       "rank": 33,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 124919,
-      "num": 124919,
-      "word": "偶遇吴倩张雨剑带女儿回国",
-      "onboard_time": 1767778883,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 123938,
@@ -1475,14 +1515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107830,
-      "num": 209992,
-      "word": "中国留学生讲述日本梅毒扩散乱象",
-      "onboard_time": 1767776721,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107474,
       "num": 107474,
       "word": "男子晒爸爸给兄弟三人分的自建房",
@@ -1537,6 +1569,22 @@
       "onboard_time": 1767778703,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105563,
+      "num": 117196,
+      "word": "张智霖比陈小春先答出应采儿",
+      "onboard_time": 1767779305,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 105140,
+      "num": 201732,
+      "word": "240万转错账户一年都没要回来",
+      "onboard_time": 1767780203,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105001,
@@ -1619,6 +1667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102517,
+      "num": 198911,
+      "word": "fgo复活",
+      "onboard_time": 1767779785,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 102269,
       "num": 121454,
       "word": "林屿森把女儿送回去",
@@ -1635,6 +1691,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 100736,
+      "num": 100736,
+      "word": "宋威龙17岁跟吴世勋演戏",
+      "onboard_time": 1767779484,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100452,
       "num": 100452,
       "word": "39岁确诊癌症但人生还是要讲笑话",
@@ -1649,6 +1713,14 @@
       "onboard_time": 1767749601,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 99501,
+      "num": 104461,
+      "word": "雷军回应为何不标800V",
+      "onboard_time": 1767780503,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 99441,
@@ -1755,6 +1827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92846,
+      "num": 87369,
+      "word": "不会打麻将的建议反复观看",
+      "onboard_time": 1767780744,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92458,
       "num": 197904,
       "word": "许家印被执行4700万",
@@ -1777,6 +1857,14 @@
       "onboard_time": 1767768680,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 91698,
+      "num": 86912,
+      "word": "A股中国核建涨停",
+      "onboard_time": 1767780625,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 91285,
@@ -1835,6 +1923,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 86575,
+      "num": 86575,
+      "word": "这句话真的点透了我言多必失",
+      "onboard_time": 1767781762,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 86550,
       "num": 188965,
       "word": "中方正研究收紧对日稀土出口许可审查",
@@ -1849,6 +1945,14 @@
       "onboard_time": 1767747382,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 85910,
+      "num": 85910,
+      "word": "老师批改时都要停下来笑两分钟",
+      "onboard_time": 1767780802,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 85779,
@@ -1883,6 +1987,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 85005,
+      "num": 85005,
+      "word": "淀粉肠进入瑜伽裤时代",
+      "onboard_time": 1767781883,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 84997,
       "num": 180677,
       "word": "玉茗茶骨去父留女",
@@ -1899,20 +2011,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83637,
+      "num": 83637,
+      "word": "小乔周瑜太甜了",
+      "onboard_time": 1767781043,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 82719,
+      "num": 82719,
+      "word": "骄阳似我配音导演发文",
+      "onboard_time": 1767781643,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 82406,
+      "num": 82406,
+      "word": "李一桐 美人落泪",
+      "onboard_time": 1767781222,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82230,
       "num": 79968,
       "word": "没上过发年终奖的班",
       "onboard_time": 1767777802,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 81612,
-      "num": 117196,
-      "word": "张智霖比陈小春先答出应采儿",
-      "onboard_time": 1767779305,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 80990,
@@ -1963,6 +2091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77864,
+      "num": 77864,
+      "word": "李在明用中韩双语连发多文",
+      "onboard_time": 1767779723,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 77237,
       "num": 175442,
       "word": "民航局动真格整治过低机票价",
@@ -1976,6 +2112,14 @@
       "word": "除冰机器人在线吃冰",
       "onboard_time": 1767717318,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76929,
+      "num": 76929,
+      "word": "工会每年可组织职工春秋游4次",
+      "onboard_time": 1767781463,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -2025,6 +2169,14 @@
       "onboard_time": 1767724815,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 74770,
+      "num": 74770,
+      "word": "人之初",
+      "onboard_time": 1767756202,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 74387,
@@ -2083,6 +2235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 68364,
+      "num": 105247,
+      "word": "荣耀高管再度回应Air手机争议",
+      "onboard_time": 1767780503,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 67575,
       "num": 67575,
       "word": "终于不再执着于把话说开了",
@@ -2113,6 +2273,14 @@
       "onboard_time": 1767703101,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62601,
+      "num": 599466,
+      "word": "我国情绪消费市场规模超2万亿元",
+      "onboard_time": 1767757702,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60881,
@@ -2153,14 +2321,6 @@
       "onboard_time": 1767705142,
       "rank": 35,
       "category": "数码"
-    },
-    {
-      "raw_hot": 57318,
-      "num": 599466,
-      "word": "我国情绪消费市场规模超2万亿元",
-      "onboard_time": 1767757702,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 56541,
@@ -2281,6 +2441,14 @@
       "onboard_time": 1767696742,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44790,
+      "num": 104921,
+      "word": "长城汽车CES又双叒叕给国人长脸了",
+      "onboard_time": 1767781343,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 44328,
@@ -2507,6 +2675,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 23842,
+      "num": 104602,
+      "word": "男子喝多致死同桌21人共担1成责任",
+      "onboard_time": 1767781402,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22089,
       "num": 657477,
       "word": "以旧换新让绿色消费换挡提速",
@@ -2585,6 +2761,14 @@
       "onboard_time": 1767763461,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 8143,
+      "num": 86157,
+      "word": "服务员调包3瓶茅台被强制措施",
+      "onboard_time": 1767781762,
+      "rank": 39,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
