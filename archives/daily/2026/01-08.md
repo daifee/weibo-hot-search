@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/08 00:40:17 ~ 2026/01/08 04:48:16
+本榜单时间：2026/01/08 00:40:17 ~ 2026/01/08 05:29:18
 </p>
 </blockquote>
 <p>
@@ -129,6 +129,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%9C%A8%E7%BA%A6%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%86%85%E5%AE%A3%E7%A7%B0%E6%89%A3%E6%8A%BC%E4%B8%A4%E8%89%98%E6%B2%B9%E8%BD%AE%23" target="weibo">
+美国在约半小时内宣称扣押两艘油轮（热度：77256）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%85%AD%E5%9D%97%E8%85%B9%E8%82%8C%E9%9A%90%E8%97%8F%E6%AC%BE%23" target="weibo">
 刘宇宁六块腹肌隐藏款（热度：75252）
 </a>
@@ -233,12 +239,6 @@ digi 解散（热度：61681）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%E6%80%8E%E4%B9%88%E7%98%A6%E6%88%90%E8%BF%99%E6%A0%B7%E4%BA%86%23" target="weibo">
 李荣浩怎么瘦成这样了（热度：55405）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%9C%A8%E7%BA%A6%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%86%85%E5%AE%A3%E7%A7%B0%E6%89%A3%E6%8A%BC%E4%B8%A4%E8%89%98%E6%B2%B9%E8%BD%AE%23" target="weibo">
-美国在约半小时内宣称扣押两艘油轮（热度：52887）
 </a>
 </li>
 
@@ -430,13 +430,13 @@ idoll娃娃（热度：23680）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BA%A2%E7%A7%80%E6%B2%B9%E7%94%BB%E5%85%AC%E4%B8%BB%23" target="weibo">
-迪丽热巴红秀油画公主（热度：13914）
+迪丽热巴红秀油画公主（热度：16813）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%23" target="weibo">
-你好星期六（热度：11491）
+你好星期六（热度：12236）
 </a>
 </li>
 
