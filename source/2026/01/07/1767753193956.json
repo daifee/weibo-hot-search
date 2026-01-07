@@ -1,0 +1,410 @@
+{
+  "runTime": 1767753193956,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 336681,
+        "num": 1053869,
+        "word": "英法德意等欧洲七国领导人联合声明",
+        "onboard_time": 1767711323,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 317349,
+        "num": 766203,
+        "word": "教资面试成绩",
+        "onboard_time": 1767751762,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 26119,
+        "num": 601440,
+        "word": "家电以旧换新1.92亿台",
+        "onboard_time": 1767708022,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 509011,
+        "num": 509011,
+        "word": "鹅鸭杀",
+        "onboard_time": 1767751221,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 335287,
+        "num": 335287,
+        "word": "鹅鸭杀登顶iOS免费榜",
+        "onboard_time": 1767750201,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 632170,
+        "num": 315969,
+        "word": "委内瑞拉发布讣告",
+        "onboard_time": 1767748102,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 398499,
+        "num": 315746,
+        "word": "武大靖自曝从床爬到洗手间要半小时",
+        "onboard_time": 1767743480,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290909,
+        "num": 290909,
+        "word": "医院通报收费员玩手机致多人排队",
+        "onboard_time": 1767741256,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 248484,
+        "num": 248484,
+        "word": "鹅鸭杀手游正式上线",
+        "onboard_time": 1767752121,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166038,
+        "num": 245693,
+        "word": "车厘子暴跌第一批受害者出现",
+        "onboard_time": 1767702143,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 532385,
+        "num": 233281,
+        "word": "委内瑞拉或将移交3000至5000万桶石油",
+        "onboard_time": 1767747622,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 415751,
+        "num": 230247,
+        "word": "林屿森 老来得女",
+        "onboard_time": 1767747382,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389772,
+        "num": 221460,
+        "word": "林屿森女儿 李雾女儿",
+        "onboard_time": 1767751401,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274114,
+        "num": 213528,
+        "word": "广东通报12岁男孩被烫伤致死",
+        "onboard_time": 1767746062,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 206904,
+        "num": 206904,
+        "word": "日本年轻人聚众晒梅毒",
+        "onboard_time": 1767686601,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135717,
+        "num": 206756,
+        "word": "年轻人在直播间上一种很新的班",
+        "onboard_time": 1767749840,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133463,
+        "num": 205103,
+        "word": "白月梵星",
+        "onboard_time": 1767742037,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103100,
+        "num": 204318,
+        "word": "马克龙的表态变了",
+        "onboard_time": 1767742700,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82846,
+        "num": 202920,
+        "word": "1盒内存条堪比上海1套房",
+        "onboard_time": 1767702321,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72329,
+        "num": 202212,
+        "word": "宋威龙赵今麦庆功宴",
+        "onboard_time": 1767750021,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 487139,
+        "num": 200131,
+        "word": "向太回应前男友心梗去世",
+        "onboard_time": 1767751040,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389561,
+        "num": 198970,
+        "word": "马思纯考虑结婚时让张若昀当伴娘",
+        "onboard_time": 1767748880,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280015,
+        "num": 197811,
+        "word": "75岁刘晓庆将再演武则天",
+        "onboard_time": 1767750201,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197542,
+        "num": 197542,
+        "word": "赵樱子弟弟上恋综了",
+        "onboard_time": 1767752301,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178349,
+        "num": 178349,
+        "word": "梦中的那片海",
+        "onboard_time": 1767750381,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166226,
+        "num": 166226,
+        "word": "新一代小米SU7续航达902公里",
+        "onboard_time": 1767752721,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 160521,
+        "num": 160521,
+        "word": "小米徐洁云被通报批评",
+        "onboard_time": 1767743119,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 160068,
+        "num": 160068,
+        "word": "骄阳似我女主备选不是张婧仪",
+        "onboard_time": 1767752842,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140178,
+        "num": 140178,
+        "word": "家长为什么会觉得跟老师请假丢人",
+        "onboard_time": 1767749540,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109938,
+        "num": 136918,
+        "word": "日本流行梅毒妆",
+        "onboard_time": 1767702023,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135358,
+        "num": 135358,
+        "word": "12岁男孩烫伤未及时送医8天后死亡",
+        "onboard_time": 1767751762,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134527,
+        "num": 134527,
+        "word": "iPhone18或无缘2亿像素摄像头",
+        "onboard_time": 1767750201,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133460,
+        "num": 133460,
+        "word": "23岁男子信偏方把5cm水蛭塞进尿道",
+        "onboard_time": 1767743239,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114045,
+        "num": 114045,
+        "word": "曝新款小米SU7将配机械门把手",
+        "onboard_time": 1767751281,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 107276,
+        "num": 107276,
+        "word": "小米许斐回应被通报批评",
+        "onboard_time": 1767752660,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 103570,
+        "num": 103570,
+        "word": "日本梅毒",
+        "onboard_time": 1767690320,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98838,
+        "num": 98838,
+        "word": "小米KOL事件经办人员被辞退",
+        "onboard_time": 1767742037,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 97173,
+        "num": 97173,
+        "word": "雀巢奶粉",
+        "onboard_time": 1767752721,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89487,
+        "num": 89487,
+        "word": "刘世芳郑英耀列为台独顽固分子",
+        "onboard_time": 1767753142,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32570,
+        "num": 87253,
+        "word": "汕头一网红店因逃税被罚74万",
+        "onboard_time": 1767752780,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85465,
+        "num": 85465,
+        "word": "妈妈永远都不会离开我们这就是证明",
+        "onboard_time": 1767749601,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76081,
+        "num": 76081,
+        "word": "小米许斐徐洁云被取消2025年度奖金",
+        "onboard_time": 1767741797,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 75752,
+        "num": 75752,
+        "word": "上海一超市成韩国游客宝藏打卡地",
+        "onboard_time": 1767744621,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75678,
+        "num": 75678,
+        "word": "多地取消高一高二年期末统考",
+        "onboard_time": 1767711504,
+        "rank": 43,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 71953,
+        "num": 71953,
+        "word": "母亲借钱买机票接回流落柬埔寨女子",
+        "onboard_time": 1767745520,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69286,
+        "num": 69286,
+        "word": "居然有人能把我的感受完美描述出来",
+        "onboard_time": 1767751641,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 68626,
+        "num": 68626,
+        "word": "特朗普称委内瑞拉将向美国移交石油",
+        "onboard_time": 1767747382,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 68548,
+        "num": 68548,
+        "word": "2025年度最扑剧集",
+        "onboard_time": 1767704303,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 67575,
+        "num": 67575,
+        "word": "终于不再执着于把话说开了",
+        "onboard_time": 1767750561,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67741,
+        "num": 67575,
+        "word": "七七回应进组",
+        "onboard_time": 1767742760,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中韩应当坚定站在历史正确一边#"
+    }
+  }
+}
