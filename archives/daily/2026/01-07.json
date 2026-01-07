@@ -1,6 +1,6 @@
 {
   "startTime": 1767717567538,
-  "endTime": 1767796397974,
+  "endTime": 1767797489464,
   "band_list": [
     {
       "raw_hot": 2704539,
@@ -491,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 328050,
+      "num": 577892,
+      "word": "中国游客识破日拉面店阴阳菜单被禁入",
+      "onboard_time": 1767792024,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 327596,
       "num": 327596,
       "word": "广东通报12岁男孩被烫伤致死",
@@ -547,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307011,
+      "num": 565859,
+      "word": "永川地震",
+      "onboard_time": 1767796284,
+      "rank": 6,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 304969,
       "num": 183853,
       "word": "苏醒李炜 战绩可查",
@@ -585,14 +601,6 @@
       "onboard_time": 1767742037,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 296114,
-      "num": 577892,
-      "word": "中国游客识破日拉面店阴阳菜单被禁入",
-      "onboard_time": 1767792024,
-      "rank": 15,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 295654,
@@ -673,6 +681,14 @@
       "onboard_time": 1767773541,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 263195,
+      "num": 190396,
+      "word": "胃癌来临时身体的五个警报",
+      "onboard_time": 1767795626,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 254318,
@@ -891,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198271,
+      "num": 198271,
+      "word": "美宣布扣押贝拉1号油轮",
+      "onboard_time": 1767796824,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 198237,
       "num": 206285,
       "word": "宋威龙从梦花廷被争取到了骄阳似我",
@@ -921,6 +945,14 @@
       "onboard_time": 1767760403,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196027,
+      "num": 552796,
+      "word": "雷军回应KOL事件",
+      "onboard_time": 1767796226,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 195692,
@@ -1011,6 +1043,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 189271,
+      "num": 189271,
+      "word": "刘宇宁今年不一定进组",
+      "onboard_time": 1767795805,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188881,
       "num": 188881,
       "word": "檀健次被确诊陪伴型人格",
@@ -1025,14 +1065,6 @@
       "onboard_time": 1767776721,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 185202,
-      "num": 565859,
-      "word": "永川地震",
-      "onboard_time": 1767796284,
-      "rank": 6,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 184600,
@@ -1115,6 +1147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 176437,
+      "num": 563129,
+      "word": "女子被开房门起诉酒店反遭索赔35万",
+      "onboard_time": 1767790824,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175167,
       "num": 233434,
       "word": "谢娜普及女生有小肚子的好处",
@@ -1129,6 +1169,14 @@
       "onboard_time": 1767770780,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173912,
+      "num": 173912,
+      "word": "美方扣押贝拉1号油轮",
+      "onboard_time": 1767796765,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 173057,
@@ -1152,6 +1200,14 @@
       "word": "明天就进入三九了",
       "onboard_time": 1767774322,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170081,
+      "num": 170081,
+      "word": "月亮",
+      "onboard_time": 1767796824,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -1251,28 +1307,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162481,
+      "num": 538751,
+      "word": "育儿嫂玩手机一脚把婴儿踢下床",
+      "onboard_time": 1767785844,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162146,
       "num": 162146,
       "word": "Mac回应",
       "onboard_time": 1767770000,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 161813,
-      "num": 161813,
-      "word": "胃癌来临时身体的五个警报",
-      "onboard_time": 1767795626,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 161719,
-      "num": 563129,
-      "word": "女子被开房门起诉酒店反遭索赔35万",
-      "onboard_time": 1767790824,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 161501,
@@ -1313,14 +1361,6 @@
       "onboard_time": 1767767121,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 157118,
-      "num": 538751,
-      "word": "育儿嫂玩手机一脚把婴儿踢下床",
-      "onboard_time": 1767785844,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 156963,
@@ -1385,14 +1425,6 @@
       "onboard_time": 1767761541,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148775,
-      "num": 148775,
-      "word": "刘宇宁今年不一定进组",
-      "onboard_time": 1767795805,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 148727,
@@ -1643,12 +1675,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 133526,
-      "num": 552796,
-      "word": "雷军回应KOL事件",
-      "onboard_time": 1767796226,
-      "rank": 9,
-      "category": "互联网"
+      "raw_hot": 132951,
+      "num": 362953,
+      "word": "晋江文学城2025年度报告",
+      "onboard_time": 1767792384,
+      "rank": 42,
+      "category": "读书作家"
     },
     {
       "raw_hot": 132782,
@@ -1907,14 +1939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113312,
-      "num": 362953,
-      "word": "晋江文学城2025年度报告",
-      "onboard_time": 1767792384,
-      "rank": 42,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 112063,
       "num": 112063,
       "word": "出去旅游全靠辞职",
@@ -2004,7 +2028,7 @@
     },
     {
       "raw_hot": 107203,
-      "num": 143565,
+      "num": 161393,
       "word": "男子月入9500因病被降薪至1824",
       "onboard_time": 1767792505,
       "rank": 38,
@@ -2017,6 +2041,14 @@
       "onboard_time": 1767782423,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106625,
+      "num": 161851,
+      "word": "雷军回应掉粉20多万",
+      "onboard_time": 1767796346,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 106340,
@@ -2291,6 +2323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 96812,
+      "num": 161323,
+      "word": "女子炖肉时高压锅爆炸被热气烫伤",
+      "onboard_time": 1767795745,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96592,
       "num": 96592,
       "word": "司机诱导就餐4菜1868元游客发声",
@@ -2361,6 +2401,14 @@
       "onboard_time": 1767706942,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93021,
+      "num": 161194,
+      "word": "雷军说被小字营销搞怕了",
+      "onboard_time": 1767797305,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 92846,
@@ -2436,11 +2484,19 @@
     },
     {
       "raw_hot": 90906,
-      "num": 143198,
+      "num": 160654,
       "word": "11000亿元买断式逆回购来了",
       "onboard_time": 1767796164,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 90851,
+      "num": 160885,
+      "word": "贺峻霖vlog",
+      "onboard_time": 1767797244,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 89783,
@@ -2747,28 +2803,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 79515,
-      "num": 143140,
-      "word": "女子炖肉时高压锅爆炸被热气烫伤",
-      "onboard_time": 1767795745,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78849,
       "num": 167007,
       "word": "父亲称女儿说忘记在柬流浪经历",
       "onboard_time": 1767770481,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 78839,
-      "num": 143093,
-      "word": "雷军回应掉粉20多万",
-      "onboard_time": 1767796346,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 78251,
@@ -3515,6 +3555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29527,
+      "num": 594967,
+      "word": "中国空间望远镜的硬实力",
+      "onboard_time": 1767795805,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29160,
       "num": 107419,
       "word": "偶遇沙溢胡可吃夜宵",
@@ -3529,6 +3577,14 @@
       "onboard_time": 1767778583,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27605,
+      "num": 192466,
+      "word": "流落柬埔寨女子已与母亲见面",
+      "onboard_time": 1767796525,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27042,
@@ -3585,6 +3641,14 @@
       "onboard_time": 1767756140,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21783,
+      "num": 161714,
+      "word": "13岁男孩遭多名同学殴打致骨折",
+      "onboard_time": 1767797185,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21385,
@@ -3665,14 +3729,6 @@
       "onboard_time": 1767702081,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 13188,
-      "num": 578515,
-      "word": "中国空间望远镜的硬实力",
-      "onboard_time": 1767795805,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11219,
