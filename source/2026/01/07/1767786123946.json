@@ -1,0 +1,410 @@
+{
+  "runTime": 1767786123946,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 301729,
+        "num": 1048276,
+        "word": "夫妻做出让小个子无痛长高的鞋",
+        "onboard_time": 1767778103,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186425,
+        "num": 741353,
+        "word": "歼35绿皮机震撼公开",
+        "onboard_time": 1767784584,
+        "rank": 1,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 54977,
+        "num": 603430,
+        "word": "我国情绪消费市场规模超2万亿元",
+        "onboard_time": 1767757702,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184600,
+        "num": 533156,
+        "word": "尚界Z7",
+        "onboard_time": 1767783084,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 145026,
+        "num": 506571,
+        "word": "老人体验免费洗金镯洗完少了4.87克",
+        "onboard_time": 1767777441,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 503276,
+        "num": 503276,
+        "word": "厚底鞋",
+        "onboard_time": 1767784464,
+        "rank": 5,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 246215,
+        "num": 246215,
+        "word": "爱吃自助餐小蛋糕的天塌了",
+        "onboard_time": 1767776901,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 440003,
+        "num": 242707,
+        "word": "240万转错账户一年都没要回来",
+        "onboard_time": 1767780203,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156801,
+        "num": 242241,
+        "word": "写字不好看的不许开蛋糕店",
+        "onboard_time": 1767784763,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144961,
+        "num": 237362,
+        "word": "委内瑞拉发布讣告",
+        "onboard_time": 1767748102,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 515583,
+        "num": 234245,
+        "word": "刘宇宁成都站",
+        "onboard_time": 1767784464,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157826,
+        "num": 230217,
+        "word": "原来是养父活埋了生母",
+        "onboard_time": 1767772461,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125495,
+        "num": 224410,
+        "word": "中国留学生讲述日本梅毒扩散乱象",
+        "onboard_time": 1767776721,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123407,
+        "num": 222268,
+        "word": "我家cp回应二搭就这么大大方方",
+        "onboard_time": 1767785125,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103529,
+        "num": 217484,
+        "word": "李在明发夫人在华vlog",
+        "onboard_time": 1767782963,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103409,
+        "num": 213229,
+        "word": "大爷拍的素颜巴黎火了",
+        "onboard_time": 1767760942,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97519,
+        "num": 207415,
+        "word": "父亲起诉女儿要赡养费被法院驳回",
+        "onboard_time": 1767784883,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89508,
+        "num": 203079,
+        "word": "和府捞面 只有面现煮",
+        "onboard_time": 1767761782,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74225,
+        "num": 199987,
+        "word": "韩总统李在明结束访华",
+        "onboard_time": 1767783983,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 71773,
+        "num": 195401,
+        "word": "女子百万装新房老公每次来都像游客",
+        "onboard_time": 1767785965,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 505995,
+        "num": 193046,
+        "word": "淀粉肠进入瑜伽裤时代",
+        "onboard_time": 1767781883,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 191305,
+        "num": 191305,
+        "word": "宋威龙借卡给路人买蛋糕",
+        "onboard_time": 1767785004,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175167,
+        "num": 175167,
+        "word": "谢娜普及女生有小肚子的好处",
+        "onboard_time": 1767784763,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154093,
+        "num": 154093,
+        "word": "Sakee Asen",
+        "onboard_time": 1767757341,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152743,
+        "num": 152743,
+        "word": "国漫最可悲父女",
+        "onboard_time": 1767785903,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 70668,
+        "num": 148421,
+        "word": "人之初",
+        "onboard_time": 1767756202,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144806,
+        "num": 144806,
+        "word": "30多元一碗面吃的是撕袋加热",
+        "onboard_time": 1767781883,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128718,
+        "num": 128718,
+        "word": "朱莉被曝计划移居柬埔寨和欧洲",
+        "onboard_time": 1767785125,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108702,
+        "num": 108702,
+        "word": "日本就中方加强出口管制提出抗议",
+        "onboard_time": 1767786084,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108078,
+        "num": 108078,
+        "word": "Kiv发声",
+        "onboard_time": 1767783204,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106238,
+        "num": 106238,
+        "word": "在地铁遇见老钱风了",
+        "onboard_time": 1767783264,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92567,
+        "num": 92567,
+        "word": "以后我就和聚酯纤维过日子了",
+        "onboard_time": 1767785301,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90871,
+        "num": 90871,
+        "word": "哈尔滨会惩罚每一个爱上厕所的人",
+        "onboard_time": 1767780864,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86472,
+        "num": 86472,
+        "word": "黄景瑜在罚罪2报警了",
+        "onboard_time": 1767785545,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85587,
+        "num": 85587,
+        "word": "内娱90男演员 流量退潮",
+        "onboard_time": 1767786024,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85236,
+        "num": 85236,
+        "word": "这些人最好少喝或不喝咖啡",
+        "onboard_time": 1767784945,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 84842,
+        "num": 84842,
+        "word": "王源说要不计成本回馈歌迷",
+        "onboard_time": 1767785182,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81332,
+        "num": 81332,
+        "word": "医生提醒4件事很伤免疫力",
+        "onboard_time": 1767785665,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 15312,
+        "num": 80634,
+        "word": "德甲总经理说樊振东是世界上最好的球员",
+        "onboard_time": 1767785424,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55433,
+        "num": 80220,
+        "word": "肖战藏海角色峰值持续断层领跑",
+        "onboard_time": 1767786024,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80159,
+        "num": 80159,
+        "word": "00后显老因为是90后装的",
+        "onboard_time": 1767770421,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75199,
+        "num": 75199,
+        "word": "工会每年可组织职工春秋游4次",
+        "onboard_time": 1767781463,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68452,
+        "num": 68452,
+        "word": "上官浅李承鄞是要联手鲨我吗",
+        "onboard_time": 1767785783,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67555,
+        "num": 67555,
+        "word": "育儿嫂玩手机一脚把婴儿踢下床",
+        "onboard_time": 1767785844,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67294,
+        "num": 67294,
+        "word": "最好的取暖器是数学考试",
+        "onboard_time": 1767785244,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66794,
+        "num": 66794,
+        "word": "尚界轿跑新车Z7官宣",
+        "onboard_time": 1767783924,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 65808,
+        "num": 65808,
+        "word": "梅西说当时退出国家队很后悔",
+        "onboard_time": 1767782362,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64260,
+        "num": 64260,
+        "word": "香港歌手罗启聪涉毒被捕",
+        "onboard_time": 1767783323,
+        "rank": 47,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 64965,
+        "num": 64071,
+        "word": "原来iPhone长按有那么多秘密",
+        "onboard_time": 1767785965,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 62439,
+        "num": 62439,
+        "word": "经济学家建议给每人发1000元消费券",
+        "onboard_time": 1767784464,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平接待今年首位访华的外国元首#"
+    }
+  }
+}

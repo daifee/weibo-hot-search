@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767785325342,
+  "endTime": 1767786123946,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1571,6 +1571,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 515583,
+      "num": 234245,
+      "word": "刘宇宁成都站",
+      "onboard_time": 1767784464,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 515317,
       "num": 930384,
       "word": "现在的演员成功的让我戒掉了电视剧",
@@ -1675,6 +1683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 505995,
+      "num": 287537,
+      "word": "淀粉肠进入瑜伽裤时代",
+      "onboard_time": 1767781883,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 505369,
       "num": 605268,
       "word": "女子怀孕每次产检发现多出一胎",
@@ -1689,6 +1705,14 @@
       "onboard_time": 1767584181,
       "rank": 3,
       "category": "美食"
+    },
+    {
+      "raw_hot": 503276,
+      "num": 503276,
+      "word": "厚底鞋",
+      "onboard_time": 1767784464,
+      "rank": 8,
+      "category": "时尚"
     },
     {
       "raw_hot": 502102,
@@ -2377,30 +2401,6 @@
       "onboard_time": 1767778103,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 417150,
-      "num": 417150,
-      "word": "赵丽颖一句话扎到黄晓明",
-      "onboard_time": 1767504263,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 416609,
-      "num": 818135,
-      "word": "被播放了70亿次的声音竟然是她",
-      "onboard_time": 1767508162,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 416551,
-      "num": 416551,
-      "word": "王玉雯漂亮得像洋娃娃一样",
-      "onboard_time": 1767702081,
-      "rank": 23,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

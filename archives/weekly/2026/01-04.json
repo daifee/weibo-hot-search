@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767785325342,
+  "endTime": 1767786123946,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -1131,6 +1131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 515583,
+      "num": 234245,
+      "word": "刘宇宁成都站",
+      "onboard_time": 1767784464,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 515317,
       "num": 930384,
       "word": "现在的演员成功的让我戒掉了电视剧",
@@ -1211,6 +1219,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 505995,
+      "num": 287537,
+      "word": "淀粉肠进入瑜伽裤时代",
+      "onboard_time": 1767781883,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 505369,
       "num": 605268,
       "word": "女子怀孕每次产检发现多出一胎",
@@ -1225,6 +1241,14 @@
       "onboard_time": 1767584181,
       "rank": 3,
       "category": "美食"
+    },
+    {
+      "raw_hot": 503276,
+      "num": 503276,
+      "word": "厚底鞋",
+      "onboard_time": 1767784464,
+      "rank": 8,
+      "category": "时尚"
     },
     {
       "raw_hot": 502102,
@@ -1937,14 +1961,6 @@
       "onboard_time": 1767582021,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 388430,
-      "num": 287537,
-      "word": "淀粉肠进入瑜伽裤时代",
-      "onboard_time": 1767781883,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 386094,
@@ -3628,7 +3644,7 @@
     },
     {
       "raw_hot": 223525,
-      "num": 369372,
+      "num": 506571,
       "word": "老人体验免费洗金镯洗完少了4.87克",
       "onboard_time": 1767777441,
       "rank": 8,
@@ -4227,14 +4243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195863,
-      "num": 195863,
-      "word": "刘宇宁成都站",
-      "onboard_time": 1767784464,
-      "rank": 10,
-      "category": "演出"
-    },
-    {
       "raw_hot": 195692,
       "num": 779903,
       "word": "湖人战胜鹈鹕",
@@ -4395,6 +4403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 191305,
+      "num": 191305,
+      "word": "宋威龙借卡给路人买蛋糕",
+      "onboard_time": 1767785004,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191225,
       "num": 182612,
       "word": "向涵之十八宫格营业",
@@ -4468,7 +4484,7 @@
     },
     {
       "raw_hot": 187867,
-      "num": 214649,
+      "num": 224410,
       "word": "中国留学生讲述日本梅毒扩散乱象",
       "onboard_time": 1767776721,
       "rank": 19,
@@ -4547,6 +4563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186425,
+      "num": 741353,
+      "word": "歼35绿皮机震撼公开",
+      "onboard_time": 1767784584,
+      "rank": 15,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 186218,
       "num": 186218,
       "word": "向太说根本不存在名媛培训班",
@@ -4577,6 +4601,14 @@
       "onboard_time": 1767602121,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184600,
+      "num": 533156,
+      "word": "尚界Z7",
+      "onboard_time": 1767783084,
+      "rank": 3,
+      "category": "汽车"
     },
     {
       "raw_hot": 184392,
@@ -4673,14 +4705,6 @@
       "onboard_time": 1767528444,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180641,
-      "num": 358124,
-      "word": "尚界Z7",
-      "onboard_time": 1767783084,
-      "rank": 3,
-      "category": "汽车"
     },
     {
       "raw_hot": 180638,
@@ -4817,6 +4841,14 @@
       "onboard_time": 1767671661,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175167,
+      "num": 175167,
+      "word": "谢娜普及女生有小肚子的好处",
+      "onboard_time": 1767784763,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 174429,
@@ -5499,6 +5531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 156801,
+      "num": 242241,
+      "word": "写字不好看的不许开蛋糕店",
+      "onboard_time": 1767784763,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156774,
       "num": 189372,
       "word": "龚俊 别信票务的签名照",
@@ -5617,6 +5657,14 @@
       "onboard_time": 1767680241,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152743,
+      "num": 152743,
+      "word": "国漫最可悲父女",
+      "onboard_time": 1767785903,
+      "rank": 24,
+      "category": "动漫"
     },
     {
       "raw_hot": 152699,
@@ -5929,14 +5977,6 @@
       "onboard_time": 1767664041,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 145317,
-      "num": 223712,
-      "word": "厚底鞋",
-      "onboard_time": 1767784464,
-      "rank": 8,
-      "category": "时尚"
     },
     {
       "raw_hot": 145211,
@@ -6667,14 +6707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130932,
-      "num": 130932,
-      "word": "谢娜普及女生有小肚子的好处",
-      "onboard_time": 1767784763,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130776,
       "num": 130776,
       "word": "我要再玩100年英雄联盟",
@@ -6761,6 +6793,14 @@
       "onboard_time": 1767519023,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128718,
+      "num": 128718,
+      "word": "朱莉被曝计划移居柬埔寨和欧洲",
+      "onboard_time": 1767785125,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 128713,
@@ -7059,14 +7099,6 @@
       "category": "美食,健康医疗"
     },
     {
-      "raw_hot": 124103,
-      "num": 168774,
-      "word": "歼35绿皮机震撼公开",
-      "onboard_time": 1767784584,
-      "rank": 15,
-      "category": "国内时政,民生新闻"
-    },
-    {
       "raw_hot": 123938,
       "num": 123938,
       "word": "小米许斐回应被通报批评",
@@ -7121,6 +7153,14 @@
       "onboard_time": 1767602841,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 123407,
+      "num": 222268,
+      "word": "我家cp回应二搭就这么大大方方",
+      "onboard_time": 1767785125,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 123221,
@@ -7289,14 +7329,6 @@
       "onboard_time": 1767768501,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120269,
-      "num": 120269,
-      "word": "宋威龙借卡给路人买蛋糕",
-      "onboard_time": 1767785004,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 120188,
@@ -7907,6 +7939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108702,
+      "num": 108702,
+      "word": "日本就中方加强出口管制提出抗议",
+      "onboard_time": 1767786084,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 108597,
       "num": 252490,
       "word": "樊振东率队晋级德国杯决赛",
@@ -8347,6 +8387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 103529,
+      "num": 217484,
+      "word": "李在明发夫人在华vlog",
+      "onboard_time": 1767782963,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 103508,
       "num": 103508,
       "word": "三角洲部队在黑鹰坠落中损失惨重",
@@ -8369,14 +8417,6 @@
       "onboard_time": 1767758422,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 103077,
-      "num": 167275,
-      "word": "李在明发夫人在华vlog",
-      "onboard_time": 1767782963,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 103052,
@@ -8891,6 +8931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97519,
+      "num": 207415,
+      "word": "父亲起诉女儿要赡养费被法院驳回",
+      "onboard_time": 1767784883,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97424,
       "num": 252568,
       "word": "你要和本身就很好的人结婚",
@@ -9403,6 +9451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92567,
+      "num": 92567,
+      "word": "以后我就和聚酯纤维过日子了",
+      "onboard_time": 1767785301,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92483,
       "num": 92483,
       "word": "李在明在华发文",
@@ -9481,14 +9537,6 @@
       "onboard_time": 1767588743,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 91472,
-      "num": 91472,
-      "word": "我家cp回应二搭就这么大大方方",
-      "onboard_time": 1767785125,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 91285,
@@ -9843,14 +9891,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 87828,
-      "num": 87828,
-      "word": "朱莉被曝计划移居柬埔寨和欧洲",
-      "onboard_time": 1767785125,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 87679,
       "num": 87679,
       "word": "摄影师是多喜欢文淇的眼睛",
@@ -9987,6 +10027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 86472,
+      "num": 86472,
+      "word": "黄景瑜在罚罪2报警了",
+      "onboard_time": 1767785545,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86327,
       "num": 86327,
       "word": "黄景瑜王传君梁洁势不三立",
@@ -10059,6 +10107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 85587,
+      "num": 85587,
+      "word": "内娱90男演员 流量退潮",
+      "onboard_time": 1767786024,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85548,
       "num": 85548,
       "word": "赵丽颖黄晓明对手戏",
@@ -10115,6 +10171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 85236,
+      "num": 85236,
+      "word": "这些人最好少喝或不喝咖啡",
+      "onboard_time": 1767784945,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 85196,
       "num": 72085,
       "word": "北京朝霞",
@@ -10137,6 +10201,14 @@
       "onboard_time": 1767776062,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 84842,
+      "num": 84842,
+      "word": "王源说要不计成本回馈歌迷",
+      "onboard_time": 1767785182,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 84787,
@@ -10209,14 +10281,6 @@
       "onboard_time": 1767597621,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 83754,
-      "num": 83754,
-      "word": "父亲起诉女儿要赡养费被法院驳回",
-      "onboard_time": 1767784883,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83637,
@@ -10683,22 +10747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75586,
-      "num": 75586,
-      "word": "写字不好看的不许开蛋糕店",
-      "onboard_time": 1767784763,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 75485,
-      "num": 75485,
-      "word": "王源说要不计成本回馈歌迷",
-      "onboard_time": 1767785182,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 75446,
       "num": 75446,
       "word": "势均力敌的我们",
@@ -10729,14 +10777,6 @@
       "onboard_time": 1767784645,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 74947,
-      "num": 74947,
-      "word": "这些人最好少喝或不喝咖啡",
-      "onboard_time": 1767784945,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 74920,
@@ -10777,6 +10817,14 @@
       "onboard_time": 1767773602,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74225,
+      "num": 199987,
+      "word": "韩总统李在明结束访华",
+      "onboard_time": 1767783983,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 74184,
@@ -10891,6 +10939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71773,
+      "num": 195401,
+      "word": "女子百万装新房老公每次来都像游客",
+      "onboard_time": 1767785965,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71629,
       "num": 106477,
       "word": "网友分享日本东京街头景象",
@@ -10979,6 +11035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68452,
+      "num": 68452,
+      "word": "上官浅李承鄞是要联手鲨我吗",
+      "onboard_time": 1767785783,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 68428,
       "num": 68428,
       "word": "特朗普称可能被弹劾",
@@ -11009,6 +11073,14 @@
       "onboard_time": 1767750561,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 67555,
+      "num": 67555,
+      "word": "育儿嫂玩手机一脚把婴儿踢下床",
+      "onboard_time": 1767785844,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67238,
@@ -11107,6 +11179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 64965,
+      "num": 64071,
+      "word": "原来iPhone长按有那么多秘密",
+      "onboard_time": 1767785965,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 64881,
       "num": 166817,
       "word": "委内瑞拉局势会影响金价吗",
@@ -11129,6 +11209,14 @@
       "onboard_time": 1767597260,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64260,
+      "num": 64260,
+      "word": "香港歌手罗启聪涉毒被捕",
+      "onboard_time": 1767783323,
+      "rank": 47,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 64117,
@@ -11185,6 +11273,14 @@
       "onboard_time": 1767580701,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62439,
+      "num": 165692,
+      "word": "经济学家建议给每人发1000元消费券",
+      "onboard_time": 1767784464,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62054,
@@ -11395,14 +11491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 57585,
-      "num": 164738,
-      "word": "韩总统李在明结束访华",
-      "onboard_time": 1767783983,
-      "rank": 21,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 57484,
       "num": 99617,
       "word": "林屿森聂曦光接吻止晕",
@@ -11465,6 +11553,14 @@
       "onboard_time": 1767460579,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 55433,
+      "num": 80220,
+      "word": "肖战藏海角色峰值持续断层领跑",
+      "onboard_time": 1767786024,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 55373,
@@ -12499,14 +12595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30376,
-      "num": 165692,
-      "word": "经济学家建议给每人发1000元消费券",
-      "onboard_time": 1767784464,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30331,
       "num": 91403,
       "word": "山西一景区悬赏2万元征集扎胎线索",
@@ -13057,6 +13145,14 @@
       "onboard_time": 1767552375,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 15312,
+      "num": 80634,
+      "word": "德甲总经理说樊振东是世界上最好的球员",
+      "onboard_time": 1767785424,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 15077,
