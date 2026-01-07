@@ -1,6 +1,6 @@
 {
   "startTime": 1767804017084,
-  "endTime": 1767821358540,
+  "endTime": 1767822222736,
   "band_list": [
     {
       "raw_hot": 1096354,
@@ -155,8 +155,8 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 77256,
-      "num": 146805,
+      "raw_hot": 79992,
+      "num": 196982,
       "word": "美国在约半小时内宣称扣押两艘油轮",
       "onboard_time": 1767816194,
       "rank": 3,
@@ -499,20 +499,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24062,
+      "num": 34025,
+      "word": "成毅长安二十四计28集5.2亿人次收视",
+      "onboard_time": 1767813374,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23680,
       "num": 49394,
       "word": "idoll娃娃",
       "onboard_time": 1767809776,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 23538,
-      "num": 34025,
-      "word": "成毅长安二十四计28集5.2亿人次收视",
-      "onboard_time": 1767813374,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 23310,
@@ -539,6 +539,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 19931,
+      "num": 25435,
+      "word": "迪丽热巴红秀油画公主",
+      "onboard_time": 1767816794,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 19105,
       "num": 48433,
       "word": "西安一救护车侧翻",
@@ -555,16 +563,8 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 16813,
-      "num": 25435,
-      "word": "迪丽热巴红秀油画公主",
-      "onboard_time": 1767816794,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 12236,
-      "num": 21738,
+      "raw_hot": 13394,
+      "num": 22264,
       "word": "你好星期六",
       "onboard_time": 1767818293,
       "rank": 44,
@@ -572,7 +572,7 @@
     },
     {
       "raw_hot": 9854,
-      "num": 104706,
+      "num": 114776,
       "word": "直播电商新规强化AI内容监管",
       "onboard_time": 1767795265,
       "rank": 2,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/08 00:40:17 ~ 2026/01/08 05:29:18
+本榜单时间：2026/01/08 00:40:17 ~ 2026/01/08 05:43:42
 </p>
 </blockquote>
 <p>
@@ -130,7 +130,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%9C%A8%E7%BA%A6%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%86%85%E5%AE%A3%E7%A7%B0%E6%89%A3%E6%8A%BC%E4%B8%A4%E8%89%98%E6%B2%B9%E8%BD%AE%23" target="weibo">
-美国在约半小时内宣称扣押两艘油轮（热度：77256）
+美国在约半小时内宣称扣押两艘油轮（热度：79992）
 </a>
 </li>
 
@@ -387,14 +387,14 @@ WTT挑战赛多哈站（热度：27458）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23idoll%E5%A8%83%E5%A8%83%23" target="weibo">
-idoll娃娃（热度：23680）
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E9%95%BF%E5%AE%89%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%AE%A128%E9%9B%865.2%E4%BA%BF%E4%BA%BA%E6%AC%A1%E6%94%B6%E8%A7%86%23" target="weibo">
+成毅长安二十四计28集5.2亿人次收视（热度：24062）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E9%95%BF%E5%AE%89%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%AE%A128%E9%9B%865.2%E4%BA%BF%E4%BA%BA%E6%AC%A1%E6%94%B6%E8%A7%86%23" target="weibo">
-成毅长安二十四计28集5.2亿人次收视（热度：23538）
+<a href="https://s.weibo.com/weibo?q=%23idoll%E5%A8%83%E5%A8%83%23" target="weibo">
+idoll娃娃（热度：23680）
 </a>
 </li>
 
@@ -417,6 +417,12 @@ idoll娃娃（热度：23680）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BA%A2%E7%A7%80%E6%B2%B9%E7%94%BB%E5%85%AC%E4%B8%BB%23" target="weibo">
+迪丽热巴红秀油画公主（热度：19931）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%B8%80%E6%95%91%E6%8A%A4%E8%BD%A6%E4%BE%A7%E7%BF%BB%23" target="weibo">
 西安一救护车侧翻（热度：19105）
 </a>
@@ -429,14 +435,8 @@ idoll娃娃（热度：23680）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BA%A2%E7%A7%80%E6%B2%B9%E7%94%BB%E5%85%AC%E4%B8%BB%23" target="weibo">
-迪丽热巴红秀油画公主（热度：16813）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%23" target="weibo">
-你好星期六（热度：12236）
+你好星期六（热度：13394）
 </a>
 </li>
 
