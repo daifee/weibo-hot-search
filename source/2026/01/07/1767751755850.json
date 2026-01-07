@@ -1,0 +1,410 @@
+{
+  "runTime": 1767751755850,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 728633,
+        "num": 1116581,
+        "word": "雷军官宣新一代SU7",
+        "onboard_time": 1767745040,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 265457,
+        "num": 795832,
+        "word": "英法德意等欧洲七国领导人联合声明",
+        "onboard_time": 1767711323,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26881,
+        "num": 666495,
+        "word": "家电以旧换新1.92亿台",
+        "onboard_time": 1767708022,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1028779,
+        "num": 596842,
+        "word": "女教师结婚当天坠楼新郎同学发声",
+        "onboard_time": 1767747923,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318508,
+        "num": 435168,
+        "word": "医院通报收费员玩手机致多人排队",
+        "onboard_time": 1767741256,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1906595,
+        "num": 434864,
+        "word": "委内瑞拉发布讣告",
+        "onboard_time": 1767748102,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 427601,
+        "num": 427601,
+        "word": "武大靖自曝从床爬到洗手间要半小时",
+        "onboard_time": 1767743480,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327596,
+        "num": 327596,
+        "word": "广东通报12岁男孩被烫伤致死",
+        "onboard_time": 1767746062,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 288920,
+        "num": 288920,
+        "word": "鹅鸭杀登顶iOS免费榜",
+        "onboard_time": 1767750201,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 239828,
+        "num": 239828,
+        "word": "小米徐洁云被通报批评",
+        "onboard_time": 1767743119,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 518266,
+        "num": 238981,
+        "word": "林屿森 老来得女",
+        "onboard_time": 1767747382,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 495209,
+        "num": 238646,
+        "word": "委内瑞拉或将移交3000至5000万桶石油",
+        "onboard_time": 1767747622,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 236965,
+        "num": 236965,
+        "word": "日本年轻人聚众晒梅毒",
+        "onboard_time": 1767686601,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 147711,
+        "num": 147711,
+        "word": "车厘子暴跌第一批受害者出现",
+        "onboard_time": 1767702143,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143396,
+        "num": 143396,
+        "word": "中国还有9亿人没有坐过飞机",
+        "onboard_time": 1767747501,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125020,
+        "num": 125020,
+        "word": "马克龙的表态变了",
+        "onboard_time": 1767742700,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123300,
+        "num": 123300,
+        "word": "年轻人在直播间上一种很新的班",
+        "onboard_time": 1767749840,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117697,
+        "num": 117697,
+        "word": "白月梵星",
+        "onboard_time": 1767742037,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108376,
+        "num": 108376,
+        "word": "1盒内存条堪比上海1套房",
+        "onboard_time": 1767702321,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107902,
+        "num": 107902,
+        "word": "母亲借钱买机票接回流落柬埔寨女子",
+        "onboard_time": 1767745520,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 457450,
+        "num": 107877,
+        "word": "马思纯考虑结婚时让张若昀当伴娘",
+        "onboard_time": 1767748880,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303419,
+        "num": 107769,
+        "word": "75岁刘晓庆将再演武则天",
+        "onboard_time": 1767750201,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206906,
+        "num": 107703,
+        "word": "向太回应前男友心梗去世",
+        "onboard_time": 1767751040,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177565,
+        "num": 107578,
+        "word": "鹅鸭杀",
+        "onboard_time": 1767751221,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175569,
+        "num": 107553,
+        "word": "梦中的那片海",
+        "onboard_time": 1767750381,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173057,
+        "num": 107390,
+        "word": "23岁男子信偏方把5cm水蛭塞进尿道",
+        "onboard_time": 1767743239,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155422,
+        "num": 107379,
+        "word": "日本流行梅毒妆",
+        "onboard_time": 1767702023,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 113648,
+        "num": 107224,
+        "word": "iPhone18或无缘2亿像素摄像头",
+        "onboard_time": 1767750201,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 111857,
+        "num": 107168,
+        "word": "家长为什么会觉得跟老师请假丢人",
+        "onboard_time": 1767749540,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107121,
+        "num": 107121,
+        "word": "日本梅毒",
+        "onboard_time": 1767690320,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149188,
+        "num": 106958,
+        "word": "林屿森女儿 李雾女儿",
+        "onboard_time": 1767751401,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100051,
+        "num": 100051,
+        "word": "妈妈永远都不会离开我们这就是证明",
+        "onboard_time": 1767749601,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99441,
+        "num": 99441,
+        "word": "七七回应进组",
+        "onboard_time": 1767742760,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99301,
+        "num": 99301,
+        "word": "小米KOL事件经办人员被辞退",
+        "onboard_time": 1767742037,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 98394,
+        "num": 98394,
+        "word": "2025年度最扑剧集",
+        "onboard_time": 1767704303,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97500,
+        "num": 97500,
+        "word": "曝新款小米SU7将配机械门把手",
+        "onboard_time": 1767751281,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 91226,
+        "num": 91226,
+        "word": "上海一超市成韩国游客宝藏打卡地",
+        "onboard_time": 1767744621,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91176,
+        "num": 91176,
+        "word": "多地取消高一高二年期末统考",
+        "onboard_time": 1767711504,
+        "rank": 37,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 33833,
+        "num": 89798,
+        "word": "商拍占据拍摄位置不许游客拍照",
+        "onboard_time": 1767751221,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21274,
+        "num": 89753,
+        "word": "娱乐化绝不能染指食品安全",
+        "onboard_time": 1767750980,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89744,
+        "num": 89744,
+        "word": "喜欢喝咖啡的建议反复观看",
+        "onboard_time": 1767704003,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 88659,
+        "num": 88659,
+        "word": "小米许斐徐洁云被取消2025年度奖金",
+        "onboard_time": 1767741797,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 86165,
+        "num": 86165,
+        "word": "特朗普称委内瑞拉将向美国移交石油",
+        "onboard_time": 1767747382,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80478,
+        "num": 80478,
+        "word": "宋威龙赵今麦庆功宴",
+        "onboard_time": 1767750021,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78251,
+        "num": 78251,
+        "word": "武大靖谈放下冰刀拿起教案",
+        "onboard_time": 1767750681,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78007,
+        "num": 78007,
+        "word": "李兰迪翟子路剧宣",
+        "onboard_time": 1767746241,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76378,
+        "num": 76378,
+        "word": "陈泽 再也不碰晕3d的游戏了",
+        "onboard_time": 1767750681,
+        "rank": 46,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 73876,
+        "num": 73876,
+        "word": "居然有人能把我的感受完美描述出来",
+        "onboard_time": 1767751641,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70770,
+        "num": 70770,
+        "word": "烫伤致死男孩身上陈旧伤系父亲管教",
+        "onboard_time": 1767751340,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68428,
+        "num": 68428,
+        "word": "特朗普称可能被弹劾",
+        "onboard_time": 1767747682,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中韩应当坚定站在历史正确一边#"
+    }
+  }
+}

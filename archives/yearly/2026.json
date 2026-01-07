@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767742926423,
+  "endTime": 1767751755850,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -81,6 +81,14 @@
       "onboard_time": 1767529643,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1906595,
+      "num": 434864,
+      "word": "委内瑞拉发布讣告",
+      "onboard_time": 1767748102,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1826344,
@@ -297,6 +305,14 @@
       "onboard_time": 1767495020,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1028779,
+      "num": 596842,
+      "word": "女教师结婚当天坠楼新郎同学发声",
+      "onboard_time": 1767747923,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1013556,
@@ -729,6 +745,14 @@
       "onboard_time": 1767535584,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 728633,
+      "num": 1116581,
+      "word": "雷军官宣新一代SU7",
+      "onboard_time": 1767745040,
+      "rank": 0,
+      "category": "汽车"
     },
     {
       "raw_hot": 727164,
@@ -1363,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 518266,
+      "num": 238981,
+      "word": "林屿森 老来得女",
+      "onboard_time": 1767747382,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 518039,
       "num": 325624,
       "word": "金巧巧风格大变",
@@ -1545,6 +1577,14 @@
       "onboard_time": 1767429144,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 495209,
+      "num": 238646,
+      "word": "委内瑞拉或将移交3000至5000万桶石油",
+      "onboard_time": 1767747622,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 495094,
@@ -1827,6 +1867,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 457450,
+      "num": 107877,
+      "word": "马思纯考虑结婚时让张若昀当伴娘",
+      "onboard_time": 1767748880,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 456783,
       "num": 1759881,
       "word": "橘子我从未怀疑过你",
@@ -1868,7 +1916,7 @@
     },
     {
       "raw_hot": 453795,
-      "num": 684450,
+      "num": 795832,
       "word": "英法德意等欧洲七国领导人联合声明",
       "onboard_time": 1767711323,
       "rank": 30,
@@ -2049,6 +2097,14 @@
       "onboard_time": 1767240862,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 427601,
+      "num": 427601,
+      "word": "武大靖自曝从床爬到洗手间要半小时",
+      "onboard_time": 1767743480,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 426547,
@@ -2345,62 +2401,6 @@
       "onboard_time": 1767700820,
       "rank": 22,
       "category": "网红"
-    },
-    {
-      "raw_hot": 384444,
-      "num": 623106,
-      "word": "高市早苗手持安倍画像参拜",
-      "onboard_time": 1767622523,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 384405,
-      "num": 1057218,
-      "word": "李在明抵沪继续中国之行",
-      "onboard_time": 1767695181,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 381960,
-      "num": 381960,
-      "word": "瑞幸回应店员徒手捏冰块搅拌饮品",
-      "onboard_time": 1767679880,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 381335,
-      "num": 259031,
-      "word": "因为父母职业吃到的红利",
-      "onboard_time": 1767585502,
-      "rank": 13,
-      "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 380634,
-      "num": 241691,
-      "word": "意大利政府称美国是正当防御",
-      "onboard_time": 1767528684,
-      "rank": 12,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 380118,
-      "num": 809184,
-      "word": "特朗普称马杜罗夫妇在美军舰上",
-      "onboard_time": 1767454644,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 379921,
-      "num": 1398075,
-      "word": "湖南卫视跨年演唱会",
-      "onboard_time": 1767180262,
-      "rank": 13,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
