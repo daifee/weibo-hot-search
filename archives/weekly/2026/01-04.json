@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767771205694,
+  "endTime": 1767772008604,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -636,7 +636,7 @@
     },
     {
       "raw_hot": 674228,
-      "num": 166047,
+      "num": 170939,
       "word": "李金铭否认怀孕",
       "onboard_time": 1767768801,
       "rank": 32,
@@ -1499,6 +1499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 453328,
+      "num": 453328,
+      "word": "小学生寒风中站岗给老师敬礼无回应",
+      "onboard_time": 1767768022,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 452584,
       "num": 463858,
       "word": "男子自带3瓶茅台全被服务员调包",
@@ -1652,7 +1660,7 @@
     },
     {
       "raw_hot": 429059,
-      "num": 814755,
+      "num": 820994,
       "word": "大爷拍的素颜巴黎火了",
       "onboard_time": 1767760942,
       "rank": 32,
@@ -1697,14 +1705,6 @@
       "onboard_time": 1767519081,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 420317,
-      "num": 420317,
-      "word": "小学生寒风中站岗给老师敬礼无回应",
-      "onboard_time": 1767768022,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 417150,
@@ -2051,6 +2051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364566,
+      "num": 169759,
+      "word": "檀健次立牌吓人案",
+      "onboard_time": 1767769520,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 363412,
       "num": 263565,
       "word": "eStarPro Fly",
@@ -2080,6 +2088,14 @@
       "word": "车厘子价格暴跌商家却赚麻了",
       "onboard_time": 1767497902,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 359209,
+      "num": 168874,
+      "word": "19岁男子与13岁幼女发生关系获刑",
+      "onboard_time": 1767771261,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -2427,6 +2443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 319597,
+      "num": 167748,
+      "word": "宋威龙 人火了脸也丢尽了",
+      "onboard_time": 1767770540,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 318358,
       "num": 694515,
       "word": "特朗普发布马杜罗在美舰照片",
@@ -2441,14 +2465,6 @@
       "onboard_time": 1767584781,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 318155,
-      "num": 165450,
-      "word": "檀健次立牌吓人案",
-      "onboard_time": 1767769520,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 317349,
@@ -2649,6 +2665,14 @@
       "onboard_time": 1767482839,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 295654,
+      "num": 295654,
+      "word": "鹅鸭杀测评",
+      "onboard_time": 1767770120,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 295526,
@@ -2921,6 +2945,14 @@
       "onboard_time": 1767600862,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268232,
+      "num": 206794,
+      "word": "王源演唱会 防狼喷雾",
+      "onboard_time": 1767769339,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 267807,
@@ -3219,6 +3251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240337,
+      "num": 167627,
+      "word": "娜扎夹个发夹就出来扮精灵了",
+      "onboard_time": 1767768501,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239919,
       "num": 239919,
       "word": "唯一一本过目不忘的书",
@@ -3291,19 +3331,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233828,
+      "num": 206461,
+      "word": "白鹿敖瑞鹏白月梵星一周年售后",
+      "onboard_time": 1767770120,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233595,
       "num": 233595,
       "word": "郝熠然云旗直播唱歌",
       "onboard_time": 1767531384,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 232851,
-      "num": 167627,
-      "word": "娜扎夹个发夹就出来扮精灵了",
-      "onboard_time": 1767768501,
-      "rank": 29,
       "category": "艺人"
     },
     {
@@ -3401,14 +3441,6 @@
       "onboard_time": 1767481818,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 228985,
-      "num": 175699,
-      "word": "王源演唱会 防狼喷雾",
-      "onboard_time": 1767769339,
-      "rank": 13,
-      "category": "演出"
     },
     {
       "raw_hot": 228554,
@@ -3787,12 +3819,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206236,
+      "num": 206236,
+      "word": "孟子义开车是跟李昀锐学的吧",
+      "onboard_time": 1767769641,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206054,
       "num": 168183,
       "word": "热巴摄影林嘉杰",
       "onboard_time": 1767767301,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206045,
+      "num": 206045,
+      "word": "田曦薇现身央视路透",
+      "onboard_time": 1767771861,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 205823,
@@ -3929,14 +3977,6 @@
       "onboard_time": 1767691702,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 198739,
-      "num": 163902,
-      "word": "宋威龙 人火了脸也丢尽了",
-      "onboard_time": 1767770540,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 198736,
@@ -4203,22 +4243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 192725,
-      "num": 172542,
-      "word": "白鹿敖瑞鹏白月梵星一周年售后",
-      "onboard_time": 1767770120,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 192050,
-      "num": 192050,
-      "word": "鹅鸭杀测评",
-      "onboard_time": 1767770120,
-      "rank": 8,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 192047,
       "num": 192047,
       "word": "大帅爆改",
@@ -4265,6 +4289,14 @@
       "onboard_time": 1767673762,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189651,
+      "num": 208184,
+      "word": "沪指14连阳",
+      "onboard_time": 1767770839,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 189347,
@@ -4385,6 +4417,14 @@
       "onboard_time": 1767602121,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184392,
+      "num": 168156,
+      "word": "鹅鸭杀保姆级教程",
+      "onboard_time": 1767771500,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 184090,
@@ -4611,6 +4651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174387,
+      "num": 174387,
+      "word": "南部档案",
+      "onboard_time": 1767770780,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174105,
       "num": 803593,
       "word": "美议员称马杜罗将在美国接受审判",
@@ -4835,14 +4883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167772,
-      "num": 167772,
-      "word": "孟子义开车是跟李昀锐学的吧",
-      "onboard_time": 1767769641,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 167498,
       "num": 438985,
       "word": "特朗特称将决定委内瑞拉领导层",
@@ -4953,6 +4993,14 @@
       "onboard_time": 1767657560,
       "rank": 17,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 165225,
+      "num": 165225,
+      "word": "A股14连阳",
+      "onboard_time": 1767771442,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 165219,
@@ -5089,14 +5137,6 @@
       "onboard_time": 1767770000,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 161918,
-      "num": 190595,
-      "word": "沪指14连阳",
-      "onboard_time": 1767770839,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 161867,
@@ -5284,7 +5324,7 @@
     },
     {
       "raw_hot": 155578,
-      "num": 155578,
+      "num": 161125,
       "word": "黄景瑜已争气争气再争气",
       "onboard_time": 1767770540,
       "rank": 31,
@@ -5443,6 +5483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 150317,
+      "num": 150317,
+      "word": "00后显老因为是90后装的",
+      "onboard_time": 1767770421,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 149669,
       "num": 149669,
       "word": "李施嬅的身体状态变差了很多",
@@ -5576,6 +5624,14 @@
       "word": "七七赵钰琪签约后第一条vlog",
       "onboard_time": 1767598282,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 146436,
+      "num": 146436,
+      "word": "辛芷蕾 巴黎下雪最大赢家",
+      "onboard_time": 1767770721,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -5995,14 +6051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 138698,
-      "num": 138698,
-      "word": "南部档案",
-      "onboard_time": 1767770780,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 138290,
       "num": 139487,
       "word": "李在明说中国是千金难换的好邻居",
@@ -6049,6 +6097,14 @@
       "onboard_time": 1767611841,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137159,
+      "num": 137159,
+      "word": "上海地铁站一男子身上冒火冲下电梯",
+      "onboard_time": 1767770421,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137152,
@@ -6425,6 +6481,14 @@
       "onboard_time": 1767585024,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128648,
+      "num": 128648,
+      "word": "封腾年纪轻轻就掌权",
+      "onboard_time": 1767771500,
+      "rank": 40,
+      "category": "读书作家"
     },
     {
       "raw_hot": 128572,
@@ -6971,14 +7035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118865,
-      "num": 118865,
-      "word": "辛芷蕾 巴黎下雪最大赢家",
-      "onboard_time": 1767770721,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 118742,
       "num": 118742,
       "word": "涉事医院回应新生儿被剪断手指",
@@ -7329,14 +7385,6 @@
       "onboard_time": 1767541342,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 111582,
-      "num": 111582,
-      "word": "00后显老因为是90后装的",
-      "onboard_time": 1767770421,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 111544,
@@ -7841,6 +7889,14 @@
       "onboard_time": 1767539063,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 103684,
+      "num": 103684,
+      "word": "李在明与中国机器人握手",
+      "onboard_time": 1767771981,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 103641,
@@ -8449,14 +8505,6 @@
       "onboard_time": 1767486622,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 96629,
-      "num": 134961,
-      "word": "上海地铁站一男子身上冒火冲下电梯",
-      "onboard_time": 1767770421,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96597,
@@ -9803,6 +9851,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 78849,
+      "num": 167007,
+      "word": "父亲称女儿说忘记在柬流浪经历",
+      "onboard_time": 1767770481,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78717,
       "num": 78717,
       "word": "研究表明单纯间歇性禁食无益",
@@ -10603,6 +10659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 56225,
+      "num": 173855,
+      "word": "你想要的大电池DMi来了",
+      "onboard_time": 1767770061,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 56031,
       "num": 96726,
       "word": "张栋梁回应披哥3里镜头不到一分钟",
@@ -10721,14 +10785,6 @@
       "onboard_time": 1767688102,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 52992,
-      "num": 167485,
-      "word": "你想要的大电池DMi来了",
-      "onboard_time": 1767770061,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 52982,
@@ -11595,19 +11651,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31979,
-      "num": 167007,
-      "word": "父亲称女儿说忘记在柬流浪经历",
-      "onboard_time": 1767770481,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 31820,
       "num": 119707,
       "word": "工地被指强制工人在食堂用餐",
       "onboard_time": 1767665662,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31699,
+      "num": 172456,
+      "word": "和府捞面否认是预制菜",
+      "onboard_time": 1767771622,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -11819,6 +11875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25808,
+      "num": 173630,
+      "word": "汉武帝争议雕像1年接待超百万游客",
+      "onboard_time": 1767771500,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25705,
       "num": 155793,
       "word": "美国突袭后委内瑞拉卫星对比图",
@@ -11937,6 +12001,14 @@
       "onboard_time": 1767492921,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 22089,
+      "num": 657477,
+      "word": "以旧换新让绿色消费换挡提速",
+      "onboard_time": 1767756140,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21782,
@@ -12169,14 +12241,6 @@
       "onboard_time": 1767434187,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 14060,
-      "num": 639803,
-      "word": "以旧换新让绿色消费换挡提速",
-      "onboard_time": 1767756140,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 13321,

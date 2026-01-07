@@ -1,6 +1,6 @@
 {
   "startTime": 1767717567538,
-  "endTime": 1767771205694,
+  "endTime": 1767772008604,
   "band_list": [
     {
       "raw_hot": 2704539,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 674228,
-      "num": 166047,
+      "num": 170939,
       "word": "李金铭否认怀孕",
       "onboard_time": 1767768801,
       "rank": 32,
@@ -227,6 +227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 453328,
+      "num": 453328,
+      "word": "小学生寒风中站岗给老师敬礼无回应",
+      "onboard_time": 1767768022,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 451068,
       "num": 220137,
       "word": "封腾依旧是顾漫宇宙最有钱的男主",
@@ -236,18 +244,10 @@
     },
     {
       "raw_hot": 429059,
-      "num": 814755,
+      "num": 820994,
       "word": "大爷拍的素颜巴黎火了",
       "onboard_time": 1767760942,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 420317,
-      "num": 420317,
-      "word": "小学生寒风中站岗给老师敬礼无回应",
-      "onboard_time": 1767768022,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -264,6 +264,22 @@
       "word": "雀巢奶粉",
       "onboard_time": 1767752721,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 364566,
+      "num": 169759,
+      "word": "檀健次立牌吓人案",
+      "onboard_time": 1767769520,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 359209,
+      "num": 168874,
+      "word": "19岁男子与13岁幼女发生关系获刑",
+      "onboard_time": 1767771261,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -347,11 +363,11 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 318155,
-      "num": 165450,
-      "word": "檀健次立牌吓人案",
-      "onboard_time": 1767769520,
-      "rank": 22,
+      "raw_hot": 319597,
+      "num": 167748,
+      "word": "宋威龙 人火了脸也丢尽了",
+      "onboard_time": 1767770540,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -411,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 295654,
+      "num": 295654,
+      "word": "鹅鸭杀测评",
+      "onboard_time": 1767770120,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 293476,
       "num": 159793,
       "word": "2025年度最扑剧集",
@@ -451,12 +475,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 268232,
+      "num": 206794,
+      "word": "王源演唱会 防狼喷雾",
+      "onboard_time": 1767769339,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 248484,
       "num": 248484,
       "word": "鹅鸭杀手游正式上线",
       "onboard_time": 1767752121,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 240337,
+      "num": 167627,
+      "word": "娜扎夹个发夹就出来扮精灵了",
+      "onboard_time": 1767768501,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 239828,
@@ -467,12 +507,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 232851,
-      "num": 167627,
-      "word": "娜扎夹个发夹就出来扮精灵了",
-      "onboard_time": 1767768501,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 233828,
+      "num": 206461,
+      "word": "白鹿敖瑞鹏白月梵星一周年售后",
+      "onboard_time": 1767770120,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 231427,
@@ -489,14 +529,6 @@
       "onboard_time": 1767742700,
       "rank": 11,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 228985,
-      "num": 175699,
-      "word": "王源演唱会 防狼喷雾",
-      "onboard_time": 1767769339,
-      "rank": 13,
-      "category": "演出"
     },
     {
       "raw_hot": 226652,
@@ -539,6 +571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 206236,
+      "num": 206236,
+      "word": "孟子义开车是跟李昀锐学的吧",
+      "onboard_time": 1767769641,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206054,
       "num": 168183,
       "word": "热巴摄影林嘉杰",
@@ -547,20 +587,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 206045,
+      "num": 206045,
+      "word": "田曦薇现身央视路透",
+      "onboard_time": 1767771861,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199159,
       "num": 202920,
       "word": "1盒内存条堪比上海1套房",
       "onboard_time": 1767702321,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198739,
-      "num": 163902,
-      "word": "宋威龙 人火了脸也丢尽了",
-      "onboard_time": 1767770540,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 198237,
@@ -627,20 +667,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 192725,
-      "num": 172542,
-      "word": "白鹿敖瑞鹏白月梵星一周年售后",
-      "onboard_time": 1767770120,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 192050,
-      "num": 192050,
-      "word": "鹅鸭杀测评",
-      "onboard_time": 1767770120,
-      "rank": 8,
-      "category": "游戏"
+      "raw_hot": 189651,
+      "num": 208184,
+      "word": "沪指14连阳",
+      "onboard_time": 1767770839,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 188881,
@@ -649,6 +681,14 @@
       "onboard_time": 1767760882,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 184392,
+      "num": 168156,
+      "word": "鹅鸭杀保姆级教程",
+      "onboard_time": 1767771500,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 184317,
@@ -675,6 +715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174387,
+      "num": 174387,
+      "word": "南部档案",
+      "onboard_time": 1767770780,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173057,
       "num": 133460,
       "word": "23岁男子信偏方把5cm水蛭塞进尿道",
@@ -689,14 +737,6 @@
       "onboard_time": 1767761123,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167772,
-      "num": 167772,
-      "word": "孟子义开车是跟李昀锐学的吧",
-      "onboard_time": 1767769641,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 167284,
@@ -731,6 +771,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 165225,
+      "num": 165225,
+      "word": "A股14连阳",
+      "onboard_time": 1767771442,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 165219,
       "num": 165219,
       "word": "26岁男子跳桥身亡家属发声",
@@ -753,14 +801,6 @@
       "onboard_time": 1767770000,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 161918,
-      "num": 190595,
-      "word": "沪指14连阳",
-      "onboard_time": 1767770839,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 161501,
@@ -804,7 +844,7 @@
     },
     {
       "raw_hot": 155578,
-      "num": 155578,
+      "num": 161125,
       "word": "黄景瑜已争气争气再争气",
       "onboard_time": 1767770540,
       "rank": 31,
@@ -825,6 +865,14 @@
       "onboard_time": 1767702023,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 150317,
+      "num": 150317,
+      "word": "00后显老因为是90后装的",
+      "onboard_time": 1767770421,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 149364,
@@ -857,6 +905,14 @@
       "onboard_time": 1767769221,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146436,
+      "num": 146436,
+      "word": "辛芷蕾 巴黎下雪最大赢家",
+      "onboard_time": 1767770721,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 146407,
@@ -939,12 +995,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 138698,
-      "num": 138698,
-      "word": "南部档案",
-      "onboard_time": 1767770780,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 137159,
+      "num": 137159,
+      "word": "上海地铁站一男子身上冒火冲下电梯",
+      "onboard_time": 1767770421,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136417,
@@ -1027,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128648,
+      "num": 128648,
+      "word": "封腾年纪轻轻就掌权",
+      "onboard_time": 1767771500,
+      "rank": 40,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 123938,
       "num": 123938,
       "word": "小米许斐回应被通报批评",
@@ -1065,14 +1129,6 @@
       "onboard_time": 1767766939,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 118865,
-      "num": 118865,
-      "word": "辛芷蕾 巴黎下雪最大赢家",
-      "onboard_time": 1767770721,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 118700,
@@ -1145,14 +1201,6 @@
       "onboard_time": 1767769520,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111582,
-      "num": 111582,
-      "word": "00后显老因为是90后装的",
-      "onboard_time": 1767770421,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 111479,
@@ -1267,6 +1315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 103684,
+      "num": 103684,
+      "word": "李在明与中国机器人握手",
+      "onboard_time": 1767771981,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 103546,
       "num": 103546,
       "word": "快让她当KFC店长",
@@ -1369,14 +1425,6 @@
       "onboard_time": 1767765561,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 96629,
-      "num": 134961,
-      "word": "上海地铁站一男子身上冒火冲下电梯",
-      "onboard_time": 1767770421,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96592,
@@ -1537,6 +1585,14 @@
       "onboard_time": 1767750021,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 78849,
+      "num": 167007,
+      "word": "父亲称女儿说忘记在柬流浪经历",
+      "onboard_time": 1767770481,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78251,
@@ -1739,6 +1795,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 56225,
+      "num": 173855,
+      "word": "你想要的大电池DMi来了",
+      "onboard_time": 1767770061,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 54983,
       "num": 101189,
       "word": "asen sakee",
@@ -1761,14 +1825,6 @@
       "onboard_time": 1767760583,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52992,
-      "num": 167485,
-      "word": "你想要的大电池DMi来了",
-      "onboard_time": 1767770061,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 52973,
@@ -1971,11 +2027,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31979,
-      "num": 167007,
-      "word": "父亲称女儿说忘记在柬流浪经历",
-      "onboard_time": 1767770481,
-      "rank": 18,
+      "raw_hot": 31699,
+      "num": 172456,
+      "word": "和府捞面否认是预制菜",
+      "onboard_time": 1767771622,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2027,12 +2083,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 25808,
+      "num": 173630,
+      "word": "汉武帝争议雕像1年接待超百万游客",
+      "onboard_time": 1767771500,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25619,
       "num": 38461,
       "word": "刘耀文录制第一天就开始期待骑马",
       "onboard_time": 1767727814,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 22089,
+      "num": 657477,
+      "word": "以旧换新让绿色消费换挡提速",
+      "onboard_time": 1767756140,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21274,
@@ -2081,14 +2153,6 @@
       "onboard_time": 1767723315,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 14060,
-      "num": 639803,
-      "word": "以旧换新让绿色消费换挡提速",
-      "onboard_time": 1767756140,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 13321,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1767772008604,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 793720,
+        "num": 1126995,
+        "word": "和府捞面 只有面现煮",
+        "onboard_time": 1767761782,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384234,
+        "num": 820994,
+        "word": "大爷拍的素颜巴黎火了",
+        "onboard_time": 1767760942,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22089,
+        "num": 657477,
+        "word": "以旧换新让绿色消费换挡提速",
+        "onboard_time": 1767756140,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 453328,
+        "num": 453328,
+        "word": "小学生寒风中站岗给老师敬礼无回应",
+        "onboard_time": 1767768022,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295654,
+        "num": 295654,
+        "word": "鹅鸭杀测评",
+        "onboard_time": 1767770120,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 223051,
+        "num": 223051,
+        "word": "宜家宣布关闭7家门店",
+        "onboard_time": 1767764303,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219359,
+        "num": 219359,
+        "word": "委内瑞拉发布讣告",
+        "onboard_time": 1767748102,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 208671,
+        "num": 208671,
+        "word": "社区卫生服务中心短信提醒多吃狗肉",
+        "onboard_time": 1767765260,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204058,
+        "num": 208369,
+        "word": "李在明发文",
+        "onboard_time": 1767760342,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189651,
+        "num": 208184,
+        "word": "沪指14连阳",
+        "onboard_time": 1767770839,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 394732,
+        "num": 207698,
+        "word": "封腾依旧是顾漫宇宙最有钱的男主",
+        "onboard_time": 1767767060,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296765,
+        "num": 207370,
+        "word": "王鹤棣演唱会嘉宾",
+        "onboard_time": 1767757102,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 268232,
+        "num": 206794,
+        "word": "王源演唱会 防狼喷雾",
+        "onboard_time": 1767769339,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 233828,
+        "num": 206461,
+        "word": "白鹿敖瑞鹏白月梵星一周年售后",
+        "onboard_time": 1767770120,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206236,
+        "num": 206236,
+        "word": "孟子义开车是跟李昀锐学的吧",
+        "onboard_time": 1767769641,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206045,
+        "num": 206045,
+        "word": "田曦薇现身央视路透",
+        "onboard_time": 1767771861,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174387,
+        "num": 174387,
+        "word": "南部档案",
+        "onboard_time": 1767770780,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56225,
+        "num": 173855,
+        "word": "你想要的大电池DMi来了",
+        "onboard_time": 1767770061,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 25808,
+        "num": 173630,
+        "word": "汉武帝争议雕像1年接待超百万游客",
+        "onboard_time": 1767771500,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31699,
+        "num": 172456,
+        "word": "和府捞面否认是预制菜",
+        "onboard_time": 1767771622,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322097,
+        "num": 172250,
+        "word": "中国对日本一剑封喉",
+        "onboard_time": 1767757581,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 606794,
+        "num": 170939,
+        "word": "李金铭否认怀孕",
+        "onboard_time": 1767768801,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 531209,
+        "num": 170701,
+        "word": "Asen回应Sakee",
+        "onboard_time": 1767757102,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364566,
+        "num": 169759,
+        "word": "檀健次立牌吓人案",
+        "onboard_time": 1767769520,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359209,
+        "num": 168874,
+        "word": "19岁男子与13岁幼女发生关系获刑",
+        "onboard_time": 1767771261,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184392,
+        "num": 168156,
+        "word": "鹅鸭杀保姆级教程",
+        "onboard_time": 1767771500,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 319597,
+        "num": 167748,
+        "word": "宋威龙 人火了脸也丢尽了",
+        "onboard_time": 1767770540,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256736,
+        "num": 166859,
+        "word": "杨紫素颜live照",
+        "onboard_time": 1767761182,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240337,
+        "num": 166457,
+        "word": "娜扎夹个发夹就出来扮精灵了",
+        "onboard_time": 1767768501,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227316,
+        "num": 165309,
+        "word": "Sakee Asen",
+        "onboard_time": 1767757341,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165225,
+        "num": 165225,
+        "word": "A股14连阳",
+        "onboard_time": 1767771442,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 161617,
+        "num": 161617,
+        "word": "原来鼻炎会影响一个人的身高长相",
+        "onboard_time": 1767759440,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145893,
+        "num": 161125,
+        "word": "黄景瑜已争气争气再争气",
+        "onboard_time": 1767770540,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160874,
+        "num": 160874,
+        "word": "王者周瑜小乔线条小狗皮肤",
+        "onboard_time": 1767768381,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150317,
+        "num": 150317,
+        "word": "00后显老因为是90后装的",
+        "onboard_time": 1767770421,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146436,
+        "num": 146436,
+        "word": "辛芷蕾 巴黎下雪最大赢家",
+        "onboard_time": 1767770721,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145050,
+        "num": 145050,
+        "word": "苏醒谈孩子因为自己的身份攀比",
+        "onboard_time": 1767756561,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137159,
+        "num": 137159,
+        "word": "上海地铁站一男子身上冒火冲下电梯",
+        "onboard_time": 1767770421,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133478,
+        "num": 133478,
+        "word": "Mac回应",
+        "onboard_time": 1767770000,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130513,
+        "num": 130513,
+        "word": "kiv Sakee",
+        "onboard_time": 1767760163,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128648,
+        "num": 128648,
+        "word": "封腾年纪轻轻就掌权",
+        "onboard_time": 1767771500,
+        "rank": 40,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 122612,
+        "num": 122612,
+        "word": "多名家长反映深夜紧急打印作业",
+        "onboard_time": 1767769221,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121549,
+        "num": 121549,
+        "word": "郑州免费挖玉爆火",
+        "onboard_time": 1767762982,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121491,
+        "num": 121491,
+        "word": "热巴摄影林嘉杰",
+        "onboard_time": 1767767301,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117514,
+        "num": 117514,
+        "word": "Mac跑步",
+        "onboard_time": 1767767901,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78849,
+        "num": 113885,
+        "word": "父亲称女儿说忘记在柬流浪经历",
+        "onboard_time": 1767770481,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110368,
+        "num": 110368,
+        "word": "钱芳萍 清醒的不独立女性",
+        "onboard_time": 1767770540,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110270,
+        "num": 110270,
+        "word": "不愧是马年 下马威来得这么快",
+        "onboard_time": 1767769161,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106057,
+        "num": 106057,
+        "word": "男子被咬不在意次日狗亡紧急打针",
+        "onboard_time": 1767759201,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103684,
+        "num": 103684,
+        "word": "李在明与中国机器人握手",
+        "onboard_time": 1767771981,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平接待今年首位访华的外国元首#"
+    }
+  }
+}

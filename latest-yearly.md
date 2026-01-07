@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/07 15:33:25
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/07 15:46:48
 </p>
 </blockquote>
 <p>
@@ -1569,6 +1569,12 @@ iPhone千万别删的自带软件（热度：474519）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AF%92%E9%A3%8E%E4%B8%AD%E7%AB%99%E5%B2%97%E7%BB%99%E8%80%81%E5%B8%88%E6%95%AC%E7%A4%BC%E6%97%A0%E5%9B%9E%E5%BA%94%23" target="weibo">
+小学生寒风中站岗给老师敬礼无回应（热度：453328）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%87%AA%E5%B8%A63%E7%93%B6%E8%8C%85%E5%8F%B0%E5%85%A8%E8%A2%AB%E6%9C%8D%E5%8A%A1%E5%91%98%E8%B0%83%E5%8C%85%23" target="weibo">
 男子自带3瓶茅台全被服务员调包（热度：452584）
 </a>
@@ -1739,12 +1745,6 @@ iPhone没有一个按键是多余的（热度：420534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E8%AE%A4%E5%AE%9A%E5%A7%94%E5%89%AF%E6%80%BB%E7%BB%9F%E4%B8%BA%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%A2%86%E5%AF%BC%E4%BA%BA%23" target="weibo">
 巴西认定委副总统为委内瑞拉领导人（热度：420432）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AF%92%E9%A3%8E%E4%B8%AD%E7%AB%99%E5%B2%97%E7%BB%99%E8%80%81%E5%B8%88%E6%95%AC%E7%A4%BC%E6%97%A0%E5%9B%9E%E5%BA%94%23" target="weibo">
-小学生寒风中站岗给老师敬礼无回应（热度：420317）
 </a>
 </li>
 
