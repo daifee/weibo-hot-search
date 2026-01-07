@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/07 22:51:29
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/07 23:34:25
 </p>
 </blockquote>
 <p>
@@ -695,6 +695,12 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%92%E7%9A%87%E5%90%8E%E6%89%AE%E6%BC%94%E8%80%85%E8%A2%AB%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B9%90%E5%9B%AD%E8%BE%9E%E9%80%80%23" target="weibo">
 毒皇后扮演者被迪士尼乐园辞退（热度：663329）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%233%E5%B0%8F%E5%AD%A9%E5%9D%90%E8%B7%B3%E6%A5%BC%E6%9C%BA%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%BF%98%E6%94%BE%E5%AE%89%E5%85%A8%E6%9D%A0%23" target="weibo">
+3小孩坐跳楼机工作人员忘放安全杠（热度：652836）
 </a>
 </li>
 
@@ -1695,6 +1701,12 @@ iPhone千万别删的自带软件（热度：474519）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%93%886%E5%B8%B8%E9%A9%BB%E5%98%89%E5%AE%BE%23" target="weibo">
+五哈6常驻嘉宾（热度：446730）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BA%AB%E6%97%A0%E5%88%86%E6%96%87%E7%94%B7%E5%AD%90%E5%88%B0%E5%BD%A9%E7%A5%A8%E5%BA%97%E5%88%AE800%E5%85%83%E5%BD%A9%E7%A5%A8%23" target="weibo">
 身无分文男子到彩票店刮800元彩票（热度：444902）
 </a>
@@ -1799,18 +1811,6 @@ iPhone千万别删的自带软件（热度：474519）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%9B%BD%E5%AE%B6%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23" target="weibo">
 委内瑞拉国家紧急状态（热度：422087）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A2%96%E5%84%BF%E5%81%9A%E7%9C%BC%E9%83%A8%E7%83%AD%E7%8E%9B%E5%90%89%E7%96%BC%E5%93%AD%E4%BA%86%23" target="weibo">
-颖儿做眼部热玛吉疼哭了（热度：421966）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E6%8C%89%E9%94%AE%E6%98%AF%E5%A4%9A%E4%BD%99%E7%9A%84%23" target="weibo">
-iPhone没有一个按键是多余的（热度：420534）
 </a>
 </li>
 

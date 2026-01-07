@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767797489464,
+  "endTime": 1767800065674,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -913,6 +913,14 @@
       "onboard_time": 1767602961,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 652836,
+      "num": 600949,
+      "word": "3小孩坐跳楼机工作人员忘放安全杠",
+      "onboard_time": 1767797484,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 651165,
@@ -2243,6 +2251,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 446730,
+      "num": 446730,
+      "word": "五哈6常驻嘉宾",
+      "onboard_time": 1767798144,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 444902,
       "num": 761510,
       "word": "身无分文男子到彩票店刮800元彩票",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767427524,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 421966,
-      "num": 162843,
-      "word": "颖儿做眼部热玛吉疼哭了",
-      "onboard_time": 1767684861,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 420534,
-      "num": 372114,
-      "word": "iPhone没有一个按键是多余的",
-      "onboard_time": 1767705142,
-      "rank": 39,
-      "category": "数码"
     }
   ],
   "hotgov_list": [

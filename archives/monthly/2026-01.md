@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/07 22:51:29
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/07 23:34:25
 </p>
 </blockquote>
 <p>
@@ -695,6 +695,12 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%92%E7%9A%87%E5%90%8E%E6%89%AE%E6%BC%94%E8%80%85%E8%A2%AB%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B9%90%E5%9B%AD%E8%BE%9E%E9%80%80%23" target="weibo">
 毒皇后扮演者被迪士尼乐园辞退（热度：663329）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%233%E5%B0%8F%E5%AD%A9%E5%9D%90%E8%B7%B3%E6%A5%BC%E6%9C%BA%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%BF%98%E6%94%BE%E5%AE%89%E5%85%A8%E6%9D%A0%23" target="weibo">
+3小孩坐跳楼机工作人员忘放安全杠（热度：652836）
 </a>
 </li>
 
@@ -1695,6 +1701,12 @@ iPhone千万别删的自带软件（热度：474519）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%93%886%E5%B8%B8%E9%A9%BB%E5%98%89%E5%AE%BE%23" target="weibo">
+五哈6常驻嘉宾（热度：446730）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BA%AB%E6%97%A0%E5%88%86%E6%96%87%E7%94%B7%E5%AD%90%E5%88%B0%E5%BD%A9%E7%A5%A8%E5%BA%97%E5%88%AE800%E5%85%83%E5%BD%A9%E7%A5%A8%23" target="weibo">
 身无分文男子到彩票店刮800元彩票（热度：444902）
 </a>
@@ -1925,6 +1937,12 @@ iPhone没有一个按键是多余的（热度：420534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8A%A8%E6%BC%AB%E5%B1%A1%E6%AC%A1%E5%87%BA%E7%8E%B0%E6%97%AD%E6%97%A5%E6%97%97731%E9%83%A8%E9%98%9F%23" target="weibo">
 日本动漫屡次出现旭日旗731部队（热度：404537）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B8%E5%B7%9D%E5%9C%B0%E9%9C%87%23" target="weibo">
+永川地震（热度：400686）
 </a>
 </li>
 
@@ -2763,12 +2781,6 @@ TVB第一个打烂奖杯（热度：318351）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B8%E5%B7%9D%E5%9C%B0%E9%9C%87%23" target="weibo">
-永川地震（热度：307011）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%A9%E4%BA%A7%E5%A3%AB%E8%AF%B4%E5%89%AA%E6%96%AD%E6%89%8B%E6%8C%87%E6%98%AF%E5%9B%A0%E4%B8%BA%E6%96%B0%E7%94%9F%E5%84%BF%E4%B9%B1%E5%8A%A8%23" target="weibo">
 助产士说剪断手指是因为新生儿乱动（热度：305119）
 </a>
@@ -2879,6 +2891,12 @@ TVB第一个打烂奖杯（热度：318351）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%89%8B%E6%8C%81%E5%AE%89%E5%80%8D%E7%94%BB%E5%83%8F%E8%A2%AB%E6%89%B9%E4%BB%A4%E4%BA%BA%E4%BD%9C%E5%91%95%23" target="weibo">
 高市手持安倍画像被批令人作呕（热度：298697）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94KOL%E4%BA%8B%E4%BB%B6%23" target="weibo">
+雷军回应KOL事件（热度：298283）
 </a>
 </li>
 
@@ -3095,6 +3113,12 @@ TVB第一个打烂奖杯（热度：318351）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A5%BF%E5%8D%8A%E7%90%83%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E5%8D%8A%E7%90%83%23" target="weibo">
 特朗普称西半球是我们的半球（热度：278316）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AE%A3%E5%B8%83%E6%89%A3%E6%8A%BC%E8%B4%9D%E6%8B%891%E5%8F%B7%E6%B2%B9%E8%BD%AE%23" target="weibo">
+美宣布扣押贝拉1号油轮（热度：277492）
 </a>
 </li>
 
@@ -4191,6 +4215,12 @@ cp最好嗑的是烂人真心（热度：212262）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E7%95%8C%E5%AF%B9%E4%B8%AD%E6%96%B9%E5%85%A8%E9%9D%A2%E7%A6%81%E8%BF%90%E6%84%9F%E5%88%B0%E6%81%90%E6%85%8C%23" target="weibo">
+日本经济界对中方全面禁运感到恐慌（热度：209023）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90J%E6%98%AF%E5%95%A5%E6%84%8F%E6%80%9D%23" target="weibo">
 车厘子J是啥意思（热度：208969）
 </a>
@@ -4485,12 +4515,6 @@ Faker获青龙勋章（热度：200600）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AE%A3%E5%B8%83%E6%89%A3%E6%8A%BC%E8%B4%9D%E6%8B%891%E5%8F%B7%E6%B2%B9%E8%BD%AE%23" target="weibo">
-美宣布扣押贝拉1号油轮（热度：198271）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A8%81%E9%BE%99%E4%BB%8E%E6%A2%A6%E8%8A%B1%E5%BB%B7%E8%A2%AB%E4%BA%89%E5%8F%96%E5%88%B0%E4%BA%86%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%23" target="weibo">
 宋威龙从梦花廷被争取到了骄阳似我（热度：198237）
 </a>
@@ -4577,12 +4601,6 @@ Faker获青龙勋章（热度：200600）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%8F%AF%E7%9B%88%E5%A9%89%E6%8B%9215%E5%B2%81%E5%A5%B3%E5%84%BF%E5%87%BA%E9%81%93%23" target="weibo">
 郭可盈婉拒15岁女儿出道（热度：196155）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94KOL%E4%BA%8B%E4%BB%B6%23" target="weibo">
-雷军回应KOL事件（热度：196027）
 </a>
 </li>
 
@@ -5847,6 +5865,12 @@ A股14连阳（热度：165225）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%82%96%E8%82%89%E6%97%B6%E9%AB%98%E5%8E%8B%E9%94%85%E7%88%86%E7%82%B8%E8%A2%AB%E7%83%AD%E6%B0%94%E7%83%AB%E4%BC%A4%23" target="weibo">
+女子炖肉时高压锅爆炸被热气烫伤（热度：165185）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Mac%E8%B7%91%E6%AD%A5%23" target="weibo">
 Mac跑步（热度：165029）
 </a>
@@ -5987,30 +6011,6 @@ WTT多哈冠军赛2026（热度：163675）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Mac%E5%9B%9E%E5%BA%94%23" target="weibo">
 Mac回应（热度：162146）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A8%81%E9%BE%99%E8%BF%99%E6%AE%B5%E6%88%91%E5%85%88%E5%93%AD%E7%BA%A2%E4%BA%86%E7%9C%BC%23" target="weibo">
-宋威龙这段我先哭红了眼（热度：162103）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%E9%A2%84%E5%91%8A%23" target="weibo">
-骄阳似我预告（热度：162045）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%A4%A9%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E8%AE%B2%E7%A9%B6%23" target="weibo">
-原来新年第一天有这么多讲究（热度：162010）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%A4%BE%E5%AA%92%E4%B8%8A%E7%9A%84%E4%B8%8A%E6%B5%B7%23" target="weibo">
-韩国社媒上的上海（热度：161867）
 </a>
 </li>
 
