@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767758045134,
+  "endTime": 1767758832788,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -41,6 +41,14 @@
       "onboard_time": 1767177980,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2704539,
+      "num": 203310,
+      "word": "Asen回应Sakee",
+      "onboard_time": 1767757102,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 2133729,
@@ -107,14 +115,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1623515,
-      "num": 144788,
-      "word": "Asen回应Sakee",
-      "onboard_time": 1767757102,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1541881,
       "num": 469132,
       "word": "特朗普发布马杜罗在美国军舰上照片",
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1527024,
-      "num": 229023,
+      "num": 328175,
       "word": "王鹤棣演唱会嘉宾",
       "onboard_time": 1767757102,
       "rank": 10,
@@ -715,6 +715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 742676,
+      "num": 361311,
+      "word": "女儿眼中已婚已孕已离的妈妈",
+      "onboard_time": 1767758002,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 741527,
       "num": 294836,
       "word": "产后55天遭丈夫家暴女子发声",
@@ -817,14 +825,6 @@
       "onboard_time": 1767619281,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 703052,
-      "num": 361311,
-      "word": "女儿眼中已婚已孕已离的妈妈",
-      "onboard_time": 1767758002,
-      "rank": 5,
-      "category": "情感"
     },
     {
       "raw_hot": 695485,
@@ -993,6 +993,14 @@
       "onboard_time": 1767195508,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 612160,
+      "num": 1097945,
+      "word": "小米SU7",
+      "onboard_time": 1767756440,
+      "rank": 0,
+      "category": "汽车"
     },
     {
       "raw_hot": 610292,
@@ -1195,6 +1203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 558510,
+      "num": 558510,
+      "word": "武大靖自曝从床爬到洗手间要半小时",
+      "onboard_time": 1767743480,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 557975,
       "num": 487362,
       "word": "委内瑞拉临时总统宣誓就任",
@@ -1244,7 +1260,7 @@
     },
     {
       "raw_hot": 545432,
-      "num": 223922,
+      "num": 324521,
       "word": "苏醒谈孩子因为自己的身份攀比",
       "onboard_time": 1767756561,
       "rank": 11,
@@ -1257,6 +1273,14 @@
       "onboard_time": 1767589344,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 544274,
+      "num": 198998,
+      "word": "Sakee Asen",
+      "onboard_time": 1767757341,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 544117,
@@ -1292,7 +1316,7 @@
     },
     {
       "raw_hot": 538152,
-      "num": 144694,
+      "num": 199884,
       "word": "徐佳莹 我要再生一个",
       "onboard_time": 1767753202,
       "rank": 23,
@@ -1488,6 +1512,14 @@
       "word": "委内瑞拉爆发大规模抗议活动",
       "onboard_time": 1767705142,
       "rank": 15,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 511095,
+      "num": 511095,
+      "word": "中国对日本一剑封喉",
+      "onboard_time": 1767757581,
+      "rank": 31,
       "category": "国际时政"
     },
     {
@@ -1811,6 +1843,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 472592,
+      "num": 201172,
+      "word": "同居十天发现相亲女友是智障",
+      "onboard_time": 1767757280,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 472404,
       "num": 270281,
       "word": "特朗普警告哥伦比亚总统小心点",
@@ -1867,14 +1907,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 467397,
-      "num": 467397,
-      "word": "武大靖自曝从床爬到洗手间要半小时",
-      "onboard_time": 1767743480,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 463917,
       "num": 349697,
       "word": "李在明自拍",
@@ -1900,7 +1932,7 @@
     },
     {
       "raw_hot": 461139,
-      "num": 221460,
+      "num": 319770,
       "word": "林屿森女儿 李雾女儿",
       "onboard_time": 1767751401,
       "rank": 30,
@@ -2883,14 +2915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 344442,
-      "num": 1055110,
-      "word": "小米SU7",
-      "onboard_time": 1767756440,
-      "rank": 0,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 343614,
       "num": 343614,
       "word": "你是林更新那他是谁",
@@ -2977,6 +3001,14 @@
       "onboard_time": 1767528023,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 334407,
+      "num": 334407,
+      "word": "鹅鸭杀抢昵称",
+      "onboard_time": 1767757161,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 333610,
@@ -3267,14 +3299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 311672,
-      "num": 144580,
-      "word": "Sakee Asen",
-      "onboard_time": 1767757341,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 310239,
       "num": 1095835,
       "word": "煮方便面突然发现哪里不对劲",
@@ -3300,7 +3324,7 @@
     },
     {
       "raw_hot": 308673,
-      "num": 144637,
+      "num": 198465,
       "word": "七七饭撒",
       "onboard_time": 1767754222,
       "rank": 25,
@@ -3443,14 +3467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 299853,
-      "num": 299853,
-      "word": "鹅鸭杀抢昵称",
-      "onboard_time": 1767757161,
-      "rank": 8,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 299746,
       "num": 299746,
       "word": "夫妻为娃争吵丈夫血管气炸40cm",
@@ -3497,6 +3513,14 @@
       "onboard_time": 1767663921,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296722,
+      "num": 296722,
+      "word": "白月梵星",
+      "onboard_time": 1767742037,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 296611,
@@ -3617,14 +3641,6 @@
       "onboard_time": 1767666023,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 287641,
-      "num": 144526,
-      "word": "同居十天发现相亲女友是智障",
-      "onboard_time": 1767757280,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 286637,
@@ -3756,7 +3772,7 @@
     },
     {
       "raw_hot": 277467,
-      "num": 144417,
+      "num": 196398,
       "word": "赵恩达 内娱00后浓颜帅哥上新了",
       "onboard_time": 1767755061,
       "rank": 30,
@@ -4033,6 +4049,14 @@
       "onboard_time": 1767250999,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 261726,
+      "num": 230649,
+      "word": "小米称此次事件严重伤害米粉感情",
+      "onboard_time": 1767753260,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 261107,
@@ -4331,14 +4355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 244763,
-      "num": 144362,
-      "word": "中国对日本一剑封喉",
-      "onboard_time": 1767757581,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 243910,
       "num": 110009,
       "word": "虞书欣双轨伴手礼",
@@ -4569,14 +4585,6 @@
       "onboard_time": 1767700041,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 230649,
-      "num": 230649,
-      "word": "小米称此次事件严重伤害米粉感情",
-      "onboard_time": 1767753260,
-      "rank": 9,
-      "category": "互联网"
     },
     {
       "raw_hot": 230614,
@@ -5291,14 +5299,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 201042,
-      "num": 205103,
-      "word": "白月梵星",
-      "onboard_time": 1767742037,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 201038,
       "num": 201038,
       "word": "樊振东留洋生涯首冠",
@@ -5507,12 +5507,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195692,
+      "num": 779903,
+      "word": "湖人战胜鹈鹕",
+      "onboard_time": 1767758362,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195621,
       "num": 195621,
       "word": "小寒",
       "onboard_time": 1767569059,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195508,
+      "num": 195508,
+      "word": "迪丽热巴红秀开年刊三封面",
+      "onboard_time": 1767757642,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 195435,
@@ -5873,14 +5889,6 @@
       "onboard_time": 1767585982,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186723,
-      "num": 144324,
-      "word": "迪丽热巴红秀开年刊三封面",
-      "onboard_time": 1767757642,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 186643,
@@ -7132,7 +7140,7 @@
     },
     {
       "raw_hot": 161501,
-      "num": 161501,
+      "num": 205374,
       "word": "原来这些人都接到过娱乐圈劝退书",
       "onboard_time": 1767757280,
       "rank": 17,
@@ -7561,6 +7569,14 @@
       "onboard_time": 1767608840,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153059,
+      "num": 206285,
+      "word": "宋威龙从梦花廷被争取到了骄阳似我",
+      "onboard_time": 1767755180,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 152903,
@@ -8059,6 +8075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144324,
+      "num": 202282,
+      "word": "雀巢在欧洲多国召回婴儿奶粉",
+      "onboard_time": 1767757761,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 144059,
       "num": 144059,
       "word": "黄晓明山东人演体制内太权威了",
@@ -8233,6 +8257,14 @@
       "onboard_time": 1767357261,
       "rank": 43,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 141465,
+      "num": 141465,
+      "word": "曝特朗普曾暗示委内瑞拉将巨变",
+      "onboard_time": 1767757883,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 141400,
@@ -8483,14 +8515,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 138271,
-      "num": 144738,
-      "word": "宋威龙从梦花廷被争取到了骄阳似我",
-      "onboard_time": 1767755180,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 138205,
       "num": 138205,
       "word": "见月退役",
@@ -8561,6 +8585,14 @@
       "onboard_time": 1767612741,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136747,
+      "num": 136747,
+      "word": "芒果综艺遇到罢录嘉宾",
+      "onboard_time": 1767758002,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 136705,
@@ -8665,6 +8697,14 @@
       "onboard_time": 1767356361,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135798,
+      "num": 135798,
+      "word": "在办公室自然风干的橘子",
+      "onboard_time": 1767757761,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 135717,
@@ -10483,14 +10523,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 112937,
-      "num": 112937,
-      "word": "曝特朗普曾暗示委内瑞拉将巨变",
-      "onboard_time": 1767757883,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 112894,
       "num": 451391,
       "word": "张信哲陈卓璇记忆点诠释BE美学",
@@ -10593,14 +10625,6 @@
       "onboard_time": 1767490702,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 111858,
-      "num": 111858,
-      "word": "雀巢在欧洲多国召回婴儿奶粉",
-      "onboard_time": 1767757761,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 111849,
@@ -10753,14 +10777,6 @@
       "onboard_time": 1767253580,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109686,
-      "num": 109686,
-      "word": "在办公室自然风干的橘子",
-      "onboard_time": 1767757761,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 109661,
@@ -11019,6 +11035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106340,
+      "num": 106340,
+      "word": "每天下班先睡一觉正常吗",
+      "onboard_time": 1767758661,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106247,
       "num": 106247,
       "word": "特朗普向印度发出新警告",
@@ -11099,14 +11123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105874,
-      "num": 105874,
-      "word": "芒果综艺遇到罢录嘉宾",
-      "onboard_time": 1767758002,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 105837,
       "num": 103770,
       "word": "美多名顶尖律师正争取为马杜罗辩护",
@@ -11185,6 +11201,14 @@
       "onboard_time": 1767657259,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105001,
+      "num": 144379,
+      "word": "高德向100万小商家免费开放飞行街景",
+      "onboard_time": 1767758661,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 104972,
@@ -11299,6 +11323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104131,
+      "num": 114215,
+      "word": "王一博 动物世界主理人",
+      "onboard_time": 1767757402,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 104092,
       "num": 104092,
       "word": "Scout想和Faker中野组合被拒",
@@ -11409,6 +11441,14 @@
       "onboard_time": 1767421466,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 103268,
+      "num": 103268,
+      "word": "彭于晏你别演了我害怕",
+      "onboard_time": 1767758422,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 102970,
@@ -12089,6 +12129,14 @@
       "onboard_time": 1767536845,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97249,
+      "num": 97249,
+      "word": "她就这样抱出一只又一只的猪",
+      "onboard_time": 1767758781,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 97189,
@@ -14547,14 +14595,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 75684,
-      "num": 114215,
-      "word": "王一博 动物世界主理人",
-      "onboard_time": 1767757402,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 75648,
       "num": 115696,
       "word": "亚洲杯名单",
@@ -16243,6 +16283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 56541,
+      "num": 647674,
+      "word": "绿色消费20条与你我密切相关",
+      "onboard_time": 1767756622,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 56441,
       "num": 728978,
       "word": "剑来动画2",
@@ -16329,14 +16377,6 @@
       "onboard_time": 1767629482,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 55834,
-      "num": 596056,
-      "word": "绿色消费20条与你我密切相关",
-      "onboard_time": 1767756622,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 55692,
@@ -18451,6 +18491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 29938,
+      "num": 195698,
+      "word": "为什么网球是女性友好的运动",
+      "onboard_time": 1767758661,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29908,
       "num": 115908,
       "word": "兰州瓜农刺死城管案一审判决",
@@ -18617,6 +18665,14 @@
       "onboard_time": 1767503062,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26675,
+      "num": 204934,
+      "word": "超六成台湾民众不愿自己或家人上战场",
+      "onboard_time": 1767758184,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26605,
@@ -19049,6 +19105,14 @@
       "onboard_time": 1767534024,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20670,
+      "num": 122617,
+      "word": "沙溢一家被安吉拿捏了",
+      "onboard_time": 1767758542,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 20561,

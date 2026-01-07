@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767758045134,
+  "endTime": 1767758832788,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -41,6 +41,14 @@
       "onboard_time": 1767177980,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2704539,
+      "num": 203310,
+      "word": "Asen回应Sakee",
+      "onboard_time": 1767757102,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 2133729,
@@ -107,14 +115,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1623515,
-      "num": 144788,
-      "word": "Asen回应Sakee",
-      "onboard_time": 1767757102,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1541881,
       "num": 469132,
       "word": "特朗普发布马杜罗在美国军舰上照片",
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1527024,
-      "num": 229023,
+      "num": 328175,
       "word": "王鹤棣演唱会嘉宾",
       "onboard_time": 1767757102,
       "rank": 10,
@@ -715,6 +715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 742676,
+      "num": 361311,
+      "word": "女儿眼中已婚已孕已离的妈妈",
+      "onboard_time": 1767758002,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 741527,
       "num": 294836,
       "word": "产后55天遭丈夫家暴女子发声",
@@ -817,14 +825,6 @@
       "onboard_time": 1767619281,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 703052,
-      "num": 361311,
-      "word": "女儿眼中已婚已孕已离的妈妈",
-      "onboard_time": 1767758002,
-      "rank": 5,
-      "category": "情感"
     },
     {
       "raw_hot": 695485,
@@ -993,6 +993,14 @@
       "onboard_time": 1767195508,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 612160,
+      "num": 1097945,
+      "word": "小米SU7",
+      "onboard_time": 1767756440,
+      "rank": 0,
+      "category": "汽车"
     },
     {
       "raw_hot": 610292,
@@ -1195,6 +1203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 558510,
+      "num": 558510,
+      "word": "武大靖自曝从床爬到洗手间要半小时",
+      "onboard_time": 1767743480,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 557975,
       "num": 487362,
       "word": "委内瑞拉临时总统宣誓就任",
@@ -1244,7 +1260,7 @@
     },
     {
       "raw_hot": 545432,
-      "num": 223922,
+      "num": 324521,
       "word": "苏醒谈孩子因为自己的身份攀比",
       "onboard_time": 1767756561,
       "rank": 11,
@@ -1257,6 +1273,14 @@
       "onboard_time": 1767589344,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 544274,
+      "num": 198998,
+      "word": "Sakee Asen",
+      "onboard_time": 1767757341,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 544117,
@@ -1292,7 +1316,7 @@
     },
     {
       "raw_hot": 538152,
-      "num": 144694,
+      "num": 199884,
       "word": "徐佳莹 我要再生一个",
       "onboard_time": 1767753202,
       "rank": 23,
@@ -1488,6 +1512,14 @@
       "word": "委内瑞拉爆发大规模抗议活动",
       "onboard_time": 1767705142,
       "rank": 15,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 511095,
+      "num": 511095,
+      "word": "中国对日本一剑封喉",
+      "onboard_time": 1767757581,
+      "rank": 31,
       "category": "国际时政"
     },
     {
@@ -1811,6 +1843,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 472592,
+      "num": 201172,
+      "word": "同居十天发现相亲女友是智障",
+      "onboard_time": 1767757280,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 472404,
       "num": 270281,
       "word": "特朗普警告哥伦比亚总统小心点",
@@ -1867,14 +1907,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 467397,
-      "num": 467397,
-      "word": "武大靖自曝从床爬到洗手间要半小时",
-      "onboard_time": 1767743480,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 463917,
       "num": 349697,
       "word": "李在明自拍",
@@ -1900,7 +1932,7 @@
     },
     {
       "raw_hot": 461139,
-      "num": 221460,
+      "num": 319770,
       "word": "林屿森女儿 李雾女儿",
       "onboard_time": 1767751401,
       "rank": 30,
@@ -2369,38 +2401,6 @@
       "onboard_time": 1767496704,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 397587,
-      "num": 1035556,
-      "word": "车厘子其实是血糖友好型水果",
-      "onboard_time": 1767407968,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 396541,
-      "num": 396541,
-      "word": "二婚妻子收15万彩礼后称要丁克",
-      "onboard_time": 1767691641,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 396363,
-      "num": 246823,
-      "word": "交警喊话罚罪2",
-      "onboard_time": 1767672022,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 395944,
-      "num": 207881,
-      "word": "秦霄贤直播",
-      "onboard_time": 1767620302,
-      "rank": 35,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
