@@ -1,6 +1,6 @@
 {
   "startTime": 1767804017084,
-  "endTime": 1767825982118,
+  "endTime": 1767828561972,
   "band_list": [
     {
       "raw_hot": 1096354,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 278907,
-      "num": 517281,
+      "raw_hot": 483754,
+      "num": 828511,
       "word": "美国在约半小时内宣称扣押两艘油轮",
       "onboard_time": 1767816194,
       "rank": 3,
@@ -51,6 +51,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 187847,
+      "num": 153706,
+      "word": "日本经济界对中方全面禁运感到恐慌",
+      "onboard_time": 1767797484,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 161843,
       "num": 727301,
       "word": "雷军回应KOL事件",
@@ -59,12 +67,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 153706,
-      "num": 153706,
-      "word": "日本经济界对中方全面禁运感到恐慌",
-      "onboard_time": 1767797484,
-      "rank": 11,
-      "category": "国际时政"
+      "raw_hot": 161664,
+      "num": 605358,
+      "word": "女子百万装新房老公每次来都像游客",
+      "onboard_time": 1767785965,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152448,
@@ -91,6 +99,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 134141,
+      "num": 375023,
+      "word": "最无用的节俭行为",
+      "onboard_time": 1767789384,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131669,
       "num": 119971,
       "word": "吴倩张雨剑女儿有多可爱",
@@ -99,20 +115,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127129,
+      "num": 127129,
+      "word": "女子拿5克金子做首饰熔后不足1克",
+      "onboard_time": 1767792085,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 126460,
       "num": 126460,
       "word": "剑来",
       "onboard_time": 1767801801,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120601,
-      "num": 375023,
-      "word": "最无用的节俭行为",
-      "onboard_time": 1767789384,
-      "rank": 5,
-      "category": "情感"
     },
     {
       "raw_hot": 119303,
@@ -147,12 +163,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 90607,
-      "num": 126256,
-      "word": "女子拿5克金子做首饰熔后不足1克",
-      "onboard_time": 1767792085,
-      "rank": 14,
-      "category": "舆论监督"
+      "raw_hot": 94818,
+      "num": 119238,
+      "word": "在地铁遇见老钱风了",
+      "onboard_time": 1767783264,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 87734,
+      "num": 278311,
+      "word": "山东一闲置水井突喷热水变温泉",
+      "onboard_time": 1767800783,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82983,
+      "num": 119223,
+      "word": "医生不建议直接穿外裤坐卧在床上",
+      "onboard_time": 1767790824,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 82851,
@@ -163,14 +195,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 78421,
-      "num": 386550,
-      "word": "女子百万装新房老公每次来都像游客",
-      "onboard_time": 1767785965,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 75252,
       "num": 91543,
       "word": "刘宇宁六块腹肌隐藏款",
@@ -179,7 +203,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 74777,
+      "raw_hot": 74965,
       "num": 124777,
       "word": "伊朗",
       "onboard_time": 1767797843,
@@ -187,12 +211,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 72564,
-      "num": 119238,
-      "word": "在地铁遇见老钱风了",
-      "onboard_time": 1767783264,
-      "rank": 27,
-      "category": "幽默"
+      "raw_hot": 71822,
+      "num": 102366,
+      "word": "月子中心离世女婴曾处于监控盲区",
+      "onboard_time": 1767815834,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70238,
@@ -201,14 +225,6 @@
       "onboard_time": 1767784584,
       "rank": 8,
       "category": "国内时政,民生新闻"
-    },
-    {
-      "raw_hot": 68977,
-      "num": 119223,
-      "word": "医生不建议直接穿外裤坐卧在床上",
-      "onboard_time": 1767790824,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 66676,
@@ -259,12 +275,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63017,
+      "num": 119100,
+      "word": "葛夕喊话留几手",
+      "onboard_time": 1767791724,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62461,
       "num": 119149,
       "word": "王橹杰下班",
       "onboard_time": 1767797664,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62007,
+      "num": 132820,
+      "word": "属马名字带马的游客查收福利",
+      "onboard_time": 1767812714,
+      "rank": 8,
+      "category": "旅游"
     },
     {
       "raw_hot": 61681,
@@ -275,20 +307,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 57398,
-      "num": 119126,
-      "word": "山东一闲置水井突喷热水变温泉",
-      "onboard_time": 1767800783,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 57187,
-      "num": 119100,
-      "word": "葛夕喊话留几手",
-      "onboard_time": 1767791724,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 58894,
+      "num": 118925,
+      "word": "宋威龙 一切有迹可循",
+      "onboard_time": 1767789203,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 56978,
@@ -313,14 +337,6 @@
       "onboard_time": 1767792444,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 50854,
-      "num": 50854,
-      "word": "月子中心离世女婴曾处于监控盲区",
-      "onboard_time": 1767815834,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48483,
@@ -371,12 +387,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 42571,
+      "num": 97009,
+      "word": "男子飙车撞死3人受害婴儿不到1岁",
+      "onboard_time": 1767826996,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42332,
       "num": 118970,
       "word": "240万转错账户一年都没要回来",
       "onboard_time": 1767780203,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41918,
+      "num": 68505,
+      "word": "成毅长安二十四计28集5.2亿人次收视",
+      "onboard_time": 1767813374,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 40954,
@@ -395,14 +427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 38217,
-      "num": 62664,
-      "word": "属马名字带马的游客查收福利",
-      "onboard_time": 1767812714,
-      "rank": 8,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 38004,
       "num": 71393,
       "word": "罚罪",
@@ -417,14 +441,6 @@
       "onboard_time": 1767784763,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 36133,
-      "num": 118925,
-      "word": "宋威龙 一切有迹可循",
-      "onboard_time": 1767789203,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 34601,
@@ -460,19 +476,11 @@
     },
     {
       "raw_hot": 30985,
-      "num": 60151,
+      "num": 68381,
       "word": "丁禹兮少年感演技赛道",
       "onboard_time": 1767805937,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 28598,
-      "num": 40131,
-      "word": "成毅长安二十四计28集5.2亿人次收视",
-      "onboard_time": 1767813374,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 28340,
@@ -492,7 +500,7 @@
     },
     {
       "raw_hot": 27360,
-      "num": 65065,
+      "num": 68361,
       "word": "雷军称新SU7做不到加量不加价",
       "onboard_time": 1767805697,
       "rank": 43,
@@ -507,12 +515,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25266,
+      "num": 68348,
+      "word": "王橹杰周边",
+      "onboard_time": 1767828438,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 24275,
+      "num": 68332,
+      "word": "李荣浩40岁状态",
+      "onboard_time": 1767828199,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24138,
-      "num": 36490,
+      "num": 68233,
       "word": "迪丽热巴红秀油画公主",
       "onboard_time": 1767816794,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 23754,
+      "num": 68324,
+      "word": "西安一救护车侧翻",
+      "onboard_time": 1767811514,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23680,
@@ -521,6 +553,14 @@
       "onboard_time": 1767809776,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23602,
+      "num": 68308,
+      "word": "柯南30周年",
+      "onboard_time": 1767799404,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 23310,
@@ -539,40 +579,32 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20652,
-      "num": 64892,
-      "word": "歼35新年首飞",
-      "onboard_time": 1767800482,
-      "rank": 48,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 19105,
-      "num": 48433,
-      "word": "西安一救护车侧翻",
-      "onboard_time": 1767811514,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18741,
-      "num": 49346,
-      "word": "柯南30周年",
-      "onboard_time": 1767799404,
-      "rank": 40,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 17207,
-      "num": 36408,
+      "raw_hot": 21992,
+      "num": 68277,
       "word": "你好星期六",
       "onboard_time": 1767818293,
       "rank": 44,
       "category": "综艺"
     },
     {
-      "raw_hot": 11516,
-      "num": 305720,
+      "raw_hot": 21266,
+      "num": 68256,
+      "word": "歼35新年首飞",
+      "onboard_time": 1767800482,
+      "rank": 48,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 20439,
+      "num": 68215,
+      "word": "Bin红温",
+      "onboard_time": 1767828438,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 15288,
+      "num": 473704,
       "word": "直播电商新规强化AI内容监管",
       "onboard_time": 1767795265,
       "rank": 2,

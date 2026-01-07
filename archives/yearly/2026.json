@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767825982118,
+  "endTime": 1767828561972,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1899,6 +1899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 483754,
+      "num": 828511,
+      "word": "美国在约半小时内宣称扣押两艘油轮",
+      "onboard_time": 1767816194,
+      "rank": 3,
+      "category": "军事"
+    },
+    {
       "raw_hot": 482457,
       "num": 818352,
       "word": "美媒称马杜罗夫妇熟睡中被拖出卧室",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767240862,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 426547,
-      "num": 418675,
-      "word": "给赵今麦当替身后我扑进了宋威龙怀里",
-      "onboard_time": 1767527904,
-      "rank": 7,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
