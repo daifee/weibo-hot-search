@@ -1,0 +1,410 @@
+{
+  "runTime": 1767808273398,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 80559,
+        "num": 306292,
+        "word": "官方回应专升本缴费显示南方航空",
+        "onboard_time": 1767799584,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 53955,
+        "num": 220514,
+        "word": "雷军回应KOL事件",
+        "onboard_time": 1767796226,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 14084,
+        "num": 219486,
+        "word": "中国空间望远镜的硬实力",
+        "onboard_time": 1767795805,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83767,
+        "num": 217086,
+        "word": "永川地震",
+        "onboard_time": 1767796284,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 71246,
+        "num": 215516,
+        "word": "爱吃自助餐小蛋糕的天塌了",
+        "onboard_time": 1767776901,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 65720,
+        "num": 212528,
+        "word": "最无用的节俭行为",
+        "onboard_time": 1767789384,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47648,
+        "num": 209707,
+        "word": "博主揭露富二代卖玉骗局",
+        "onboard_time": 1767803839,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35964,
+        "num": 207532,
+        "word": "女子百万装新房老公每次来都像游客",
+        "onboard_time": 1767785965,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33866,
+        "num": 204856,
+        "word": "雷军回应掉粉20多万",
+        "onboard_time": 1767796346,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 30690,
+        "num": 202945,
+        "word": "歼35绿皮机震撼公开",
+        "onboard_time": 1767784584,
+        "rank": 9,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 201389,
+        "num": 201389,
+        "word": "哈哈哈哈哈6",
+        "onboard_time": 1767803479,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87065,
+        "num": 87065,
+        "word": "五哈6常驻嘉宾",
+        "onboard_time": 1767798144,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73950,
+        "num": 73950,
+        "word": "日本经济界对中方全面禁运感到恐慌",
+        "onboard_time": 1767797484,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 54318,
+        "num": 73624,
+        "word": "女子拿5克金子做首饰熔后不足1克",
+        "onboard_time": 1767792085,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 52408,
+        "num": 72577,
+        "word": "女子杀害丈夫百名村民向法院求情",
+        "onboard_time": 1767799824,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47729,
+        "num": 72000,
+        "word": "剑来",
+        "onboard_time": 1767801801,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38004,
+        "num": 71393,
+        "word": "罚罪",
+        "onboard_time": 1767807496,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33435,
+        "num": 70466,
+        "word": "日本单身也要替别人养娃",
+        "onboard_time": 1767801321,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 32344,
+        "num": 69549,
+        "word": "育儿嫂玩手机一脚把婴儿踢下床",
+        "onboard_time": 1767785844,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31222,
+        "num": 68695,
+        "word": "何不同舟渡",
+        "onboard_time": 1767789864,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237457,
+        "num": 67988,
+        "word": "王橹杰高会",
+        "onboard_time": 1767791125,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67840,
+        "num": 67840,
+        "word": "刘宇宁 我现在是很丑吗",
+        "onboard_time": 1767794004,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67713,
+        "num": 67713,
+        "word": "吴倩张雨剑女儿有多可爱",
+        "onboard_time": 1767792444,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65574,
+        "num": 65574,
+        "word": "鹅鸭杀",
+        "onboard_time": 1767789684,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 47530,
+        "num": 65559,
+        "word": "陈妍希这个妆造美成啥了",
+        "onboard_time": 1767800662,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45855,
+        "num": 65528,
+        "word": "胃癌来临时身体的五个警报",
+        "onboard_time": 1767795626,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 41196,
+        "num": 65440,
+        "word": "在地铁遇见老钱风了",
+        "onboard_time": 1767783264,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36732,
+        "num": 65395,
+        "word": "digi 解散",
+        "onboard_time": 1767788543,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36327,
+        "num": 65367,
+        "word": "医生不建议直接穿外裤坐卧在床上",
+        "onboard_time": 1767790824,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 26206,
+        "num": 65337,
+        "word": "鲍鱼价格跌至10元3只",
+        "onboard_time": 1767798385,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33043,
+        "num": 65294,
+        "word": "鹅鸭杀崩了",
+        "onboard_time": 1767789444,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30159,
+        "num": 65255,
+        "word": "女子炖肉时高压锅爆炸被热气烫伤",
+        "onboard_time": 1767795745,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28949,
+        "num": 65211,
+        "word": "刘宇宁六块腹肌隐藏款",
+        "onboard_time": 1767804678,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28250,
+        "num": 65136,
+        "word": "厚底鞋",
+        "onboard_time": 1767784464,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 28073,
+        "num": 65107,
+        "word": "宋威龙 一切有迹可循",
+        "onboard_time": 1767789203,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27360,
+        "num": 65065,
+        "word": "雷军称新SU7做不到加量不加价",
+        "onboard_time": 1767805697,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 27341,
+        "num": 64989,
+        "word": "优酷认证肖战藏海传2025剧王",
+        "onboard_time": 1767804858,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26616,
+        "num": 64968,
+        "word": "杨和苏发文",
+        "onboard_time": 1767798025,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26393,
+        "num": 64900,
+        "word": "陆江来你是懂给自己留后路的",
+        "onboard_time": 1767807856,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20561,
+        "num": 64892,
+        "word": "歼35新年首飞",
+        "onboard_time": 1767800482,
+        "rank": 39,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 25902,
+        "num": 64835,
+        "word": "葛夕喊话留几手",
+        "onboard_time": 1767791724,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25692,
+        "num": 64799,
+        "word": "伊朗",
+        "onboard_time": 1767797843,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24329,
+        "num": 64739,
+        "word": "贺峻霖vlog",
+        "onboard_time": 1767797244,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23692,
+        "num": 64707,
+        "word": "鹅鸭杀回应崩了",
+        "onboard_time": 1767791545,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22668,
+        "num": 64634,
+        "word": "李荣浩怎么瘦成这样了",
+        "onboard_time": 1767792444,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22376,
+        "num": 64585,
+        "word": "240万转错账户一年都没要回来",
+        "onboard_time": 1767780203,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22362,
+        "num": 64540,
+        "word": "王橹杰下班",
+        "onboard_time": 1767797664,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21979,
+        "num": 64527,
+        "word": "雷军重现1300公里只充一次电原话",
+        "onboard_time": 1767798744,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 19596,
+        "num": 64461,
+        "word": "山东一闲置水井突喷热水变温泉",
+        "onboard_time": 1767800783,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19129,
+        "num": 64404,
+        "word": "贵金属全线调整",
+        "onboard_time": 1767804978,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#中韩应当坚定站在历史正确一边#"
+    }
+  }
+}

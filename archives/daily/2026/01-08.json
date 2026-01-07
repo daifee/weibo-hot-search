@@ -1,6 +1,6 @@
 {
   "startTime": 1767804017084,
-  "endTime": 1767807258480,
+  "endTime": 1767808273398,
   "band_list": [
     {
       "raw_hot": 1096354,
@@ -307,6 +307,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 47648,
+      "num": 209707,
+      "word": "博主揭露富二代卖玉骗局",
+      "onboard_time": 1767803839,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46166,
       "num": 91162,
       "word": "优酷认证肖战藏海传2025剧王",
@@ -371,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38004,
+      "num": 71393,
+      "word": "罚罪",
+      "onboard_time": 1767807496,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 36948,
       "num": 118950,
       "word": "谢娜普及女生有小肚子的好处",
@@ -396,19 +412,11 @@
     },
     {
       "raw_hot": 32261,
-      "num": 62955,
+      "num": 68695,
       "word": "何不同舟渡",
       "onboard_time": 1767789864,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 31518,
-      "num": 118901,
-      "word": "博主揭露富二代卖玉骗局",
-      "onboard_time": 1767803839,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31370,
@@ -435,12 +443,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 26498,
-      "num": 60113,
+      "raw_hot": 27360,
+      "num": 65065,
       "word": "雷军称新SU7做不到加量不加价",
       "onboard_time": 1767805697,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 26393,
+      "num": 64900,
+      "word": "陆江来你是懂给自己留后路的",
+      "onboard_time": 1767807856,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 22674,
@@ -452,7 +468,7 @@
     },
     {
       "raw_hot": 20652,
-      "num": 60081,
+      "num": 64892,
       "word": "歼35新年首飞",
       "onboard_time": 1767800482,
       "rank": 48,
