@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767814078802,
+  "endTime": 1767814922585,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -13779,6 +13779,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 21969,
+      "num": 34027,
+      "word": "属马名字带马的游客查收福利",
+      "onboard_time": 1767812714,
+      "rank": 8,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 21783,
       "num": 161714,
       "word": "13岁男孩遭多名同学殴打致骨折",
@@ -13841,6 +13849,14 @@
       "onboard_time": 1767525022,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20953,
+      "num": 34025,
+      "word": "成毅长安二十四计28集5.2亿人次收视",
+      "onboard_time": 1767813374,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 20947,
@@ -13915,6 +13931,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 19105,
+      "num": 48433,
+      "word": "西安一救护车侧翻",
+      "onboard_time": 1767811514,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19019,
       "num": 89416,
       "word": "流浪柬埔寨女网红父亲已报警",
@@ -13931,36 +13955,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18913,
-      "num": 34027,
-      "word": "属马名字带马的游客查收福利",
-      "onboard_time": 1767812714,
-      "rank": 8,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 18863,
       "num": 116989,
       "word": "王源说今年有全原创专辑",
       "onboard_time": 1767466155,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 18256,
-      "num": 34025,
-      "word": "成毅长安二十四计28集5.2亿人次收视",
-      "onboard_time": 1767813374,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 18051,
-      "num": 48433,
-      "word": "西安一救护车侧翻",
-      "onboard_time": 1767811514,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17372,
