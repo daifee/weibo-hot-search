@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767768275963,
+  "endTime": 1767769130972,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -339,6 +339,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1009054,
+      "num": 1161448,
+      "word": "和府捞面 只有面现煮",
+      "onboard_time": 1767761782,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1003635,
       "num": 304816,
       "word": "陈冠希怎么老成这样了",
@@ -441,14 +449,6 @@
       "onboard_time": 1767533664,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 928196,
-      "num": 1148511,
-      "word": "和府捞面 只有面现煮",
-      "onboard_time": 1767761782,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 922373,
@@ -1188,7 +1188,7 @@
     },
     {
       "raw_hot": 576601,
-      "num": 847727,
+      "num": 860084,
       "word": "宜家宣布关闭7家门店",
       "onboard_time": 1767764303,
       "rank": 15,
@@ -2235,6 +2235,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 429059,
+      "num": 429059,
+      "word": "大爷拍的素颜巴黎火了",
+      "onboard_time": 1767760942,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 428471,
       "num": 1002713,
       "word": "电影偷偷藏不住官宣",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767624683,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 405001,
-      "num": 1002911,
-      "word": "怪奇物语",
-      "onboard_time": 1767228139,
-      "rank": 11,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [

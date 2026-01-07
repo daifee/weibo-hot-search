@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/07 14:44:35
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/07 14:58:50
 </p>
 </blockquote>
 <p>
@@ -267,6 +267,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%BA%9C%E6%8D%9E%E9%9D%A2%20%E5%8F%AA%E6%9C%89%E9%9D%A2%E7%8E%B0%E7%85%AE%23" target="weibo">
+和府捞面 只有面现煮（热度：1009054）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%86%A0%E5%B8%8C%E6%80%8E%E4%B9%88%E8%80%81%E6%88%90%E8%BF%99%E6%A0%B7%E4%BA%86%23" target="weibo">
 陈冠希怎么老成这样了（热度：1003635）
 </a>
@@ -341,12 +347,6 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232026%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%BD%A9%E6%8E%92%E5%BC%80%E5%A7%8B%E4%BA%86%23" target="weibo">
 2026央视春晚彩排开始了（热度：932499）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%BA%9C%E6%8D%9E%E9%9D%A2%20%E5%8F%AA%E6%9C%89%E9%9D%A2%E7%8E%B0%E7%85%AE%23" target="weibo">
-和府捞面 只有面现煮（热度：928196）
 </a>
 </li>
 
@@ -1689,6 +1689,12 @@ iPhone千万别删的自带软件（热度：474519）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%88%B7%E6%8B%8D%E7%9A%84%E7%B4%A0%E9%A2%9C%E5%B7%B4%E9%BB%8E%E7%81%AB%E4%BA%86%23" target="weibo">
+大爷拍的素颜巴黎火了（热度：429059）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E5%AE%98%E5%AE%A3%23" target="weibo">
 电影偷偷藏不住官宣（热度：428471）
 </a>
@@ -1805,12 +1811,6 @@ iPhone没有一个按键是多余的（热度：420534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%AD%E6%8C%87%E6%96%B0%E7%94%9F%E5%84%BF%E7%88%B6%E4%BA%B2%E6%8B%92%E7%BB%9D%E5%8C%BB%E9%99%A210%E4%B8%87%E8%B5%94%E5%81%BF%23" target="weibo">
 断指新生儿父亲拒绝医院10万赔偿（热度：405330）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%80%AA%E5%A5%87%E7%89%A9%E8%AF%AD%23" target="weibo">
-怪奇物语（热度：405001）
 </a>
 </li>
 
