@@ -1,6 +1,6 @@
 {
   "startTime": 1767804017084,
-  "endTime": 1767804017084,
+  "endTime": 1767805003270,
   "band_list": [
     {
       "raw_hot": 1096354,
@@ -27,20 +27,20 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 199462,
+      "num": 619691,
+      "word": "官方回应专升本缴费显示南方航空",
+      "onboard_time": 1767799584,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 161843,
       "num": 727301,
       "word": "雷军回应KOL事件",
       "onboard_time": 1767796226,
       "rank": 0,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 157679,
-      "num": 544045,
-      "word": "官方回应专升本缴费显示南方航空",
-      "onboard_time": 1767799584,
-      "rank": 1,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 153706,
@@ -139,6 +139,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 85332,
+      "num": 125484,
+      "word": "哈哈哈哈哈6",
+      "onboard_time": 1767803479,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 82851,
       "num": 119263,
       "word": "厚底鞋",
@@ -147,12 +155,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 79433,
-      "num": 125484,
-      "word": "哈哈哈哈哈6",
-      "onboard_time": 1767803479,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 75252,
+      "num": 91543,
+      "word": "刘宇宁六块腹肌隐藏款",
+      "onboard_time": 1767804678,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 74777,
@@ -251,12 +259,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61681,
+      "num": 119051,
+      "word": "digi 解散",
+      "onboard_time": 1767788543,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57187,
       "num": 119100,
       "word": "葛夕喊话留几手",
       "onboard_time": 1767791724,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 56978,
+      "num": 122123,
+      "word": "日本单身也要替别人养娃",
+      "onboard_time": 1767801321,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 56484,
@@ -275,28 +299,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 52635,
-      "num": 122123,
-      "word": "日本单身也要替别人养娃",
-      "onboard_time": 1767801321,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 52339,
-      "num": 119051,
-      "word": "digi 解散",
-      "onboard_time": 1767788543,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 48483,
       "num": 277428,
       "word": "雷军回应掉粉20多万",
       "onboard_time": 1767796346,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 46166,
+      "num": 91162,
+      "word": "优酷认证肖战藏海传2025剧王",
+      "onboard_time": 1767804858,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 45185,
@@ -379,12 +395,20 @@
       "category": "电竞,游戏"
     },
     {
-      "raw_hot": 29117,
+      "raw_hot": 31518,
       "num": 118901,
       "word": "博主揭露富二代卖玉骗局",
       "onboard_time": 1767803839,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31370,
+      "num": 90856,
+      "word": "贵金属全线调整",
+      "onboard_time": 1767804978,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 27458,
