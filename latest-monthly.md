@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/07 19:42:03
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/07 21:00:00
 </p>
 </blockquote>
 <p>
@@ -681,6 +681,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%85%E9%B8%AD%E6%9D%80%23" target="weibo">
+鹅鸭杀（热度：673705）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2392%E5%B9%B4%E5%A7%A8%E7%88%B6%E6%88%9012%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%AC%AC%E4%BA%8C%E4%B8%AA%E7%88%B8%E7%88%B8%23" target="weibo">
 92年姨父成12岁女孩第二个爸爸（热度：673702）
 </a>
@@ -809,6 +815,12 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%9F%8E%E5%A4%A7%E4%BA%8B%E5%AE%9A%E6%A1%A3%23" target="weibo">
 小城大事定档（热度：604867）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%85%E9%B8%AD%E6%9D%80%E5%B4%A9%E4%BA%86%23" target="weibo">
+鹅鸭杀崩了（热度：604727）
 </a>
 </li>
 
@@ -1113,6 +1125,12 @@ iPhoneFold上手（热度：543056）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9A%E5%BA%95%E9%9E%8B%23" target="weibo">
+厚底鞋（热度：525767）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%8F%96%E6%B6%88%E9%AB%98%E4%B8%80%E9%AB%98%E4%BA%8C%E5%B9%B4%E6%9C%9F%E6%9C%AB%E7%BB%9F%E8%80%83%23" target="weibo">
 多地取消高一高二年期末统考（热度：525471）
 </a>
@@ -1245,12 +1263,6 @@ TVB颁奖典礼（热度：518643）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%85%E9%B8%AD%E6%9D%80%23" target="weibo">
-鹅鸭杀（热度：509011）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E7%9F%B3%E6%B2%B9%E5%82%A8%E9%87%8F%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%23" target="weibo">
 委内瑞拉石油储量世界第一（热度：507982）
 </a>
@@ -1289,12 +1301,6 @@ TVB颁奖典礼（热度：518643）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BA%BB%E8%BE%A3%E7%83%AB%E9%87%8C%E9%9D%A2%E5%85%A8%E6%98%AF%E8%B1%86%23" target="weibo">
 麻辣烫里面全是豆（热度：503974）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9A%E5%BA%95%E9%9E%8B%23" target="weibo">
-厚底鞋（热度：503276）
 </a>
 </li>
 
@@ -3645,6 +3651,12 @@ eStarPro官宣Fly加入（热度：258939）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%B0%B4%E7%8E%A9%E9%B9%85%E9%B8%AD%E6%9D%80%E7%A7%92%E9%98%B5%E4%BA%A1%23" target="weibo">
+阿水玩鹅鸭杀秒阵亡（热度：233602）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%9D%E7%86%A0%E7%84%B6%E4%BA%91%E6%97%97%E7%9B%B4%E6%92%AD%E5%94%B1%E6%AD%8C%23" target="weibo">
 郝熠然云旗直播唱歌（热度：233595）
 </a>
@@ -3819,6 +3831,12 @@ Fly转会 王俊凯加盟EXO（热度：230138）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%99%E5%AD%97%E4%B8%8D%E5%A5%BD%E7%9C%8B%E7%9A%84%E4%B8%8D%E8%AE%B8%E5%BC%80%E8%9B%8B%E7%B3%95%E5%BA%97%23" target="weibo">
+写字不好看的不许开蛋糕店（热度：222994）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%9C%8D%E7%94%A8%E9%98%BF%E5%8F%B8%E5%8C%B9%E6%9E%97%23" target="weibo">
 特朗普承认服用阿司匹林（热度：222939）
 </a>
@@ -3917,6 +3935,12 @@ DRG官宣早点退役（热度：219465）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E5%86%A2%E6%B2%BB%E8%99%AB%E9%A2%84%E8%A8%80%E7%BE%8E%E5%9B%BD%23" target="weibo">
 手冢治虫预言美国（热度：217303）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%BC35%E7%BB%BF%E7%9A%AE%E6%9C%BA%E9%9C%87%E6%92%BC%E5%85%AC%E5%BC%80%23" target="weibo">
+歼35绿皮机震撼公开（热度：217056）
 </a>
 </li>
 
@@ -4827,12 +4851,6 @@ nova15成美妆试色专用机（热度：190693）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%BC35%E7%BB%BF%E7%9A%AE%E6%9C%BA%E9%9C%87%E6%92%BC%E5%85%AC%E5%BC%80%23" target="weibo">
-歼35绿皮机震撼公开（热度：186425）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%83%A8%E6%A1%A3%E6%A1%88%23" target="weibo">
 南部档案（热度：186422）
 </a>
@@ -4989,6 +5007,12 @@ MRC夺冠（热度：184907）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%A5%9E%E5%9B%BE%E5%83%8F%E7%BA%BF%E9%9D%A2%E4%B8%80%E6%A0%B7%E7%B9%81%E6%AE%96%23" target="weibo">
+白鹿神图像线面一样繁殖（热度：182946）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E7%BA%A2%E6%98%AF%E8%BF%9F%E6%97%A9%E7%9A%84%E4%BA%8B%23" target="weibo">
 他红是迟早的事（热度：182931）
 </a>
@@ -5099,6 +5123,12 @@ MRC夺冠（热度：184907）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E7%BB%93%E6%9D%9F%E5%AF%B9%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E8%BD%B0%E7%82%B8%23" target="weibo">
 美军结束对委内瑞拉轰炸（热度：178442）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%A7%B0%E8%AE%BF%E5%8D%8E%E8%B6%85%E5%87%BA%E9%A2%84%E6%9C%9F%23" target="weibo">
+李在明称访华超出预期（热度：178357）
 </a>
 </li>
 
@@ -5625,6 +5655,12 @@ AI时代老艺术家依然坚持手搓（热度：168190）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%87%91%E9%93%AD%20%E6%88%91%E5%8F%AA%E6%98%AF%E6%83%B3%E7%BB%99%E8%87%AA%E5%B7%B1%E6%94%BE%E4%B8%AA%E5%81%87%23" target="weibo">
+李金铭 我只是想给自己放个假（热度：165762）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%B3%95%E9%99%A2%E7%A7%B0%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%B0%86%E4%BA%8E5%E6%97%A5%E5%9C%A8%E7%BA%BD%E7%BA%A6%E5%87%BA%E5%BA%AD%23" target="weibo">
 美国法院称马杜罗将于5日在纽约出庭（热度：165622）
 </a>
@@ -5787,6 +5823,12 @@ WTT多哈冠军赛2026（热度：163675）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%94%9F9%E5%A4%A9%E5%A5%B3%E5%A9%B4%E7%96%91%E5%9B%A0%E6%9C%BA%E6%9E%84%E6%8A%A4%E7%90%86%E4%B8%8D%E5%BD%93%E7%A6%BB%E4%B8%96%23" target="weibo">
+出生9天女婴疑因机构护理不当离世（热度：162294）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Mac%E5%9B%9E%E5%BA%94%23" target="weibo">
 Mac回应（热度：162146）
 </a>
@@ -5895,6 +5937,12 @@ Mac回应（热度：162146）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B190%E7%94%B7%E6%BC%94%E5%91%98%20%E6%B5%81%E9%87%8F%E9%80%80%E6%BD%AE%23" target="weibo">
+内娱90男演员 流量退潮（热度：159697）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E9%A6%96%E9%83%A8%E6%B4%8B%E8%91%B1%E5%89%A7%E6%9D%A5%E4%BA%86%23" target="weibo">
 内娱首部洋葱剧来了（热度：159691）
 </a>
@@ -5963,54 +6011,6 @@ Mac回应（热度：162146）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%B8%8E%E5%8C%85%E4%B8%8A%E6%81%A9%E6%B5%B7%E6%8A%A5%23" target="weibo">
 何与包上恩海报（热度：157784）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23kpl%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%B7%85%E5%B3%B0%E4%B9%8B%E5%A4%9C%23" target="weibo">
-kpl王者荣耀巅峰之夜（热度：157771）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%A1%E9%9D%A2%E5%8A%A0%E7%98%A6%E8%82%89%E4%B8%B8%23" target="weibo">
-泡面加瘦肉丸（热度：157726）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%91%BC%E5%90%81%E7%AB%8B%E5%8D%B3%E9%87%8A%E6%94%BE%E5%A7%94%E6%80%BB%E7%BB%9F%E5%A4%AB%E5%A6%87%23" target="weibo">
-中方呼吁立即释放委总统夫妇（热度：157636）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A8%81%E9%BE%99%E7%8E%B0%E5%81%B6%E5%81%B6%E7%88%B8%23" target="weibo">
-宋威龙现偶偶爸（热度：157492）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%A2%E7%A5%A8%23" target="weibo">
-张杰演唱会抢票（热度：157412）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E8%A6%81%E6%B1%82%E7%BE%8E%E8%AF%81%E6%98%8E%E9%A9%AC%E6%9D%9C%E7%BD%97%E8%BF%98%E6%B4%BB%E7%9D%80%23" target="weibo">
-委内瑞拉要求美证明马杜罗还活着（热度：157316）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%88%B7%E5%85%AC%E5%9B%AD%E6%8D%A1%E5%88%B0%E6%89%8B%E8%A1%A8%E7%9B%B4%E6%8E%A5%E6%8C%82%E6%A0%91%E4%B8%8A%23" target="weibo">
-大爷公园捡到手表直接挂树上（热度：157283）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%87%86%E5%A4%87%23" target="weibo">
-特朗普称美国已做好准备（热度：157241）
 </a>
 </li>
 

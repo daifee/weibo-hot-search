@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/07 19:42:03
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/07 21:00:00
 </p>
 </blockquote>
 <p>
@@ -681,6 +681,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%85%E9%B8%AD%E6%9D%80%23" target="weibo">
+鹅鸭杀（热度：673705）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2392%E5%B9%B4%E5%A7%A8%E7%88%B6%E6%88%9012%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%AC%AC%E4%BA%8C%E4%B8%AA%E7%88%B8%E7%88%B8%23" target="weibo">
 92年姨父成12岁女孩第二个爸爸（热度：673702）
 </a>
@@ -809,6 +815,12 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%9F%8E%E5%A4%A7%E4%BA%8B%E5%AE%9A%E6%A1%A3%23" target="weibo">
 小城大事定档（热度：604867）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%85%E9%B8%AD%E6%9D%80%E5%B4%A9%E4%BA%86%23" target="weibo">
+鹅鸭杀崩了（热度：604727）
 </a>
 </li>
 
@@ -1113,6 +1125,12 @@ iPhoneFold上手（热度：543056）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9A%E5%BA%95%E9%9E%8B%23" target="weibo">
+厚底鞋（热度：525767）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%8F%96%E6%B6%88%E9%AB%98%E4%B8%80%E9%AB%98%E4%BA%8C%E5%B9%B4%E6%9C%9F%E6%9C%AB%E7%BB%9F%E8%80%83%23" target="weibo">
 多地取消高一高二年期末统考（热度：525471）
 </a>
@@ -1245,12 +1263,6 @@ TVB颁奖典礼（热度：518643）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%85%E9%B8%AD%E6%9D%80%23" target="weibo">
-鹅鸭杀（热度：509011）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E7%9F%B3%E6%B2%B9%E5%82%A8%E9%87%8F%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%23" target="weibo">
 委内瑞拉石油储量世界第一（热度：507982）
 </a>
@@ -1289,12 +1301,6 @@ TVB颁奖典礼（热度：518643）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BA%BB%E8%BE%A3%E7%83%AB%E9%87%8C%E9%9D%A2%E5%85%A8%E6%98%AF%E8%B1%86%23" target="weibo">
 麻辣烫里面全是豆（热度：503974）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9A%E5%BA%95%E9%9E%8B%23" target="weibo">
-厚底鞋（热度：503276）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ iPhone没有一个按键是多余的（热度：420534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E8%AE%A4%E5%AE%9A%E5%A7%94%E5%89%AF%E6%80%BB%E7%BB%9F%E4%B8%BA%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%A2%86%E5%AF%BC%E4%BA%BA%23" target="weibo">
 巴西认定委副总统为委内瑞拉领导人（热度：420432）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%81%9A%E5%87%BA%E8%AE%A9%E5%B0%8F%E4%B8%AA%E5%AD%90%E6%97%A0%E7%97%9B%E9%95%BF%E9%AB%98%E7%9A%84%E9%9E%8B%23" target="weibo">
-夫妻做出让小个子无痛长高的鞋（热度：419781）
 </a>
 </li>
 

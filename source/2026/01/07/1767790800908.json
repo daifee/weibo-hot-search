@@ -1,0 +1,410 @@
+{
+  "runTime": 1767790800908,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 417865,
+        "num": 1066858,
+        "word": "夫妻做出让小个子无痛长高的鞋",
+        "onboard_time": 1767778103,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217056,
+        "num": 770978,
+        "word": "歼35绿皮机震撼公开",
+        "onboard_time": 1767784584,
+        "rank": 1,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 42948,
+        "num": 606113,
+        "word": "我国情绪消费市场规模超2万亿元",
+        "onboard_time": 1767757702,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 673705,
+        "num": 605633,
+        "word": "鹅鸭杀",
+        "onboard_time": 1767789684,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 604727,
+        "num": 604727,
+        "word": "鹅鸭杀崩了",
+        "onboard_time": 1767789444,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 274443,
+        "num": 274443,
+        "word": "爱吃自助餐小蛋糕的天塌了",
+        "onboard_time": 1767776901,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 178357,
+        "num": 272713,
+        "word": "李在明称访华超出预期",
+        "onboard_time": 1767788003,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144377,
+        "num": 269986,
+        "word": "女子百万装新房老公每次来都像游客",
+        "onboard_time": 1767785965,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113765,
+        "num": 267448,
+        "word": "中国留学生讲述日本梅毒扩散乱象",
+        "onboard_time": 1767776721,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102591,
+        "num": 265205,
+        "word": "王者皮肤碎片含金量越来越高了",
+        "onboard_time": 1767788064,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168337,
+        "num": 262333,
+        "word": "240万转错账户一年都没要回来",
+        "onboard_time": 1767780203,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162294,
+        "num": 260539,
+        "word": "出生9天女婴疑因机构护理不当离世",
+        "onboard_time": 1767788962,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134402,
+        "num": 255486,
+        "word": "何不同舟渡",
+        "onboard_time": 1767789864,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113870,
+        "num": 252695,
+        "word": "刘宇宁成都站",
+        "onboard_time": 1767784464,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105508,
+        "num": 251010,
+        "word": "赵今麦宋威龙hi6拍立得",
+        "onboard_time": 1767789143,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89188,
+        "num": 249432,
+        "word": "老人体验免费洗金镯洗完少了4.87克",
+        "onboard_time": 1767777441,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82196,
+        "num": 246080,
+        "word": "委内瑞拉发布讣告",
+        "onboard_time": 1767748102,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81308,
+        "num": 242545,
+        "word": "父亲起诉女儿要赡养费被法院驳回",
+        "onboard_time": 1767784883,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70540,
+        "num": 241167,
+        "word": "王源说不知道为何都让我脱掉",
+        "onboard_time": 1767790044,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18735,
+        "num": 236332,
+        "word": "供应商回应雀巢奶粉召回",
+        "onboard_time": 1767790403,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 525767,
+        "num": 233853,
+        "word": "厚底鞋",
+        "onboard_time": 1767784464,
+        "rank": 20,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 233602,
+        "num": 233602,
+        "word": "阿水玩鹅鸭杀秒阵亡",
+        "onboard_time": 1767789684,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222994,
+        "num": 222994,
+        "word": "写字不好看的不许开蛋糕店",
+        "onboard_time": 1767784763,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183267,
+        "num": 183267,
+        "word": "淀粉肠进入瑜伽裤时代",
+        "onboard_time": 1767781883,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 182946,
+        "num": 182946,
+        "word": "白鹿神图像线面一样繁殖",
+        "onboard_time": 1767790224,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68893,
+        "num": 169978,
+        "word": "我家cp回应二搭就这么大大方方",
+        "onboard_time": 1767785125,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165762,
+        "num": 165762,
+        "word": "李金铭 我只是想给自己放个假",
+        "onboard_time": 1767788785,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159697,
+        "num": 159697,
+        "word": "内娱90男演员 流量退潮",
+        "onboard_time": 1767786024,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151977,
+        "num": 151977,
+        "word": "谢娜普及女生有小肚子的好处",
+        "onboard_time": 1767784763,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134051,
+        "num": 134051,
+        "word": "沈月手机最干净的一集",
+        "onboard_time": 1767790284,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131584,
+        "num": 131584,
+        "word": "宋威龙借卡给路人买蛋糕",
+        "onboard_time": 1767785004,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119561,
+        "num": 131327,
+        "word": "育儿嫂玩手机一脚把婴儿踢下床",
+        "onboard_time": 1767785844,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116905,
+        "num": 131271,
+        "word": "digi 解散",
+        "onboard_time": 1767788543,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112828,
+        "num": 130845,
+        "word": "最无用的节俭行为",
+        "onboard_time": 1767789384,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112055,
+        "num": 130547,
+        "word": "日本就中方加强出口管制提出抗议",
+        "onboard_time": 1767786084,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 91269,
+        "num": 130298,
+        "word": "30多元一碗面吃的是撕袋加热",
+        "onboard_time": 1767781883,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130235,
+        "num": 130235,
+        "word": "宋威龙 一切有迹可循",
+        "onboard_time": 1767789203,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108746,
+        "num": 130200,
+        "word": "吕布千魇归渊皮肤",
+        "onboard_time": 1767788003,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94891,
+        "num": 130166,
+        "word": "Sakee Asen",
+        "onboard_time": 1767757341,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94557,
+        "num": 130086,
+        "word": "又一个国产AI爆款在海外大火",
+        "onboard_time": 1767790224,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 91585,
+        "num": 130071,
+        "word": "朱莉被曝计划移居柬埔寨和欧洲",
+        "onboard_time": 1767785125,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83160,
+        "num": 130024,
+        "word": "尚界Z7",
+        "onboard_time": 1767783084,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 80843,
+        "num": 129980,
+        "word": "在地铁遇见老钱风了",
+        "onboard_time": 1767783264,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78607,
+        "num": 129931,
+        "word": "吕布新皮肤好像贝利亚",
+        "onboard_time": 1767790705,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 78051,
+        "num": 129862,
+        "word": "人之初好敢拍",
+        "onboard_time": 1767789744,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74485,
+        "num": 129824,
+        "word": "薯片三文鱼",
+        "onboard_time": 1767786922,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 68288,
+        "num": 129745,
+        "word": "雷军回应被指背刺老车主",
+        "onboard_time": 1767786144,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 68087,
+        "num": 129699,
+        "word": "孙颖莎人见人爱",
+        "onboard_time": 1767788064,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66908,
+        "num": 129641,
+        "word": "赵今麦从小就口条清晰",
+        "onboard_time": 1767789024,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64916,
+        "num": 129592,
+        "word": "珍珠奶茶肠粉",
+        "onboard_time": 1767790163,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平接待今年首位访华的外国元首#"
+    }
+  }
+}

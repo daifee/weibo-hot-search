@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767786123946,
+  "endTime": 1767790800908,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -891,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 673705,
+      "num": 605633,
+      "word": "鹅鸭杀",
+      "onboard_time": 1767751221,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 673702,
       "num": 1105661,
       "word": "92年姨父成12岁女孩第二个爸爸",
@@ -1065,6 +1073,14 @@
       "onboard_time": 1767578240,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 604727,
+      "num": 604727,
+      "word": "鹅鸭杀崩了",
+      "onboard_time": 1767789444,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 604002,
@@ -1467,6 +1483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 525767,
+      "num": 503276,
+      "word": "厚底鞋",
+      "onboard_time": 1767784464,
+      "rank": 8,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 525471,
       "num": 926924,
       "word": "多地取消高一高二年期末统考",
@@ -1572,7 +1596,7 @@
     },
     {
       "raw_hot": 515583,
-      "num": 234245,
+      "num": 252695,
       "word": "刘宇宁成都站",
       "onboard_time": 1767784464,
       "rank": 10,
@@ -1643,14 +1667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 509011,
-      "num": 509011,
-      "word": "鹅鸭杀",
-      "onboard_time": 1767751221,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 507982,
       "num": 423198,
       "word": "委内瑞拉石油储量世界第一",
@@ -1705,14 +1721,6 @@
       "onboard_time": 1767584181,
       "rank": 3,
       "category": "美食"
-    },
-    {
-      "raw_hot": 503276,
-      "num": 503276,
-      "word": "厚底鞋",
-      "onboard_time": 1767784464,
-      "rank": 8,
-      "category": "时尚"
     },
     {
       "raw_hot": 502102,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767519081,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 419781,
-      "num": 1067165,
-      "word": "夫妻做出让小个子无痛长高的鞋",
-      "onboard_time": 1767778103,
-      "rank": 23,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
