@@ -1,0 +1,410 @@
+{
+  "runTime": 1767796397974,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 322315,
+        "num": 1051570,
+        "word": "夫妻做出让小个子无痛长高的鞋",
+        "onboard_time": 1767778103,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209946,
+        "num": 785204,
+        "word": "歼35绿皮机震撼公开",
+        "onboard_time": 1767784584,
+        "rank": 1,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 13188,
+        "num": 578515,
+        "word": "中国空间望远镜的硬实力",
+        "onboard_time": 1767795805,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296114,
+        "num": 577892,
+        "word": "中国游客识破日拉面店阴阳菜单被禁入",
+        "onboard_time": 1767792024,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 257572,
+        "num": 574508,
+        "word": "爱吃自助餐小蛋糕的天塌了",
+        "onboard_time": 1767776901,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 251471,
+        "num": 569475,
+        "word": "最无用的节俭行为",
+        "onboard_time": 1767789384,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185202,
+        "num": 565859,
+        "word": "永川地震",
+        "onboard_time": 1767796284,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 161719,
+        "num": 563129,
+        "word": "女子被开房门起诉酒店反遭索赔35万",
+        "onboard_time": 1767790824,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145813,
+        "num": 559295,
+        "word": "女子百万装新房老公每次来都像游客",
+        "onboard_time": 1767785965,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133526,
+        "num": 552796,
+        "word": "雷军回应KOL事件",
+        "onboard_time": 1767796226,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 352645,
+        "num": 550239,
+        "word": "女子拿5克金子做首饰熔后不足1克",
+        "onboard_time": 1767792085,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 192832,
+        "num": 546734,
+        "word": "我承认是我对人之初太大声了",
+        "onboard_time": 1767795084,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183642,
+        "num": 541542,
+        "word": "谭松韵 演技实力",
+        "onboard_time": 1767795084,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157118,
+        "num": 538751,
+        "word": "育儿嫂玩手机一脚把婴儿踢下床",
+        "onboard_time": 1767785844,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148601,
+        "num": 534619,
+        "word": "日本就中方加强出口管制提出抗议",
+        "onboard_time": 1767786084,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129233,
+        "num": 532447,
+        "word": "何不同舟渡",
+        "onboard_time": 1767789864,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122254,
+        "num": 528983,
+        "word": "公园多只小天鹅冻死在湖面",
+        "onboard_time": 1767791304,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120264,
+        "num": 525683,
+        "word": "赵今麦宋威龙hi6拍立得",
+        "onboard_time": 1767789143,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111386,
+        "num": 522325,
+        "word": "240万转错账户一年都没要回来",
+        "onboard_time": 1767780203,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81062,
+        "num": 518567,
+        "word": "宋威龙 一切有迹可循",
+        "onboard_time": 1767789203,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 515057,
+        "num": 515057,
+        "word": "鹅鸭杀",
+        "onboard_time": 1767789684,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 421096,
+        "num": 421096,
+        "word": "鹅鸭杀崩了",
+        "onboard_time": 1767789444,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 383967,
+        "num": 383967,
+        "word": "吴倩张雨剑女儿有多可爱",
+        "onboard_time": 1767792444,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75130,
+        "num": 364864,
+        "word": "幼儿园老师揪耳拖拽幼童监控曝光",
+        "onboard_time": 1767795323,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113312,
+        "num": 362953,
+        "word": "晋江文学城2025年度报告",
+        "onboard_time": 1767792384,
+        "rank": 24,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 362105,
+        "num": 362105,
+        "word": "鹅鸭杀回应崩了",
+        "onboard_time": 1767791545,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 336478,
+        "num": 336478,
+        "word": "王橹杰高会",
+        "onboard_time": 1767791125,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268072,
+        "num": 268072,
+        "word": "医生不建议直接穿外裤坐卧在床上",
+        "onboard_time": 1767790824,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109896,
+        "num": 252598,
+        "word": "雷军谈新su7涨价",
+        "onboard_time": 1767793764,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 249190,
+        "num": 249190,
+        "word": "刘宇宁 我现在是很丑吗",
+        "onboard_time": 1767794004,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218751,
+        "num": 218751,
+        "word": "厚底鞋",
+        "onboard_time": 1767784464,
+        "rank": 30,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 174558,
+        "num": 174558,
+        "word": "葛夕喊话留几手",
+        "onboard_time": 1767791724,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166269,
+        "num": 166269,
+        "word": "陈妍希颖儿向涵之同框合照",
+        "onboard_time": 1767795444,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161813,
+        "num": 161813,
+        "word": "胃癌来临时身体的五个警报",
+        "onboard_time": 1767795626,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159976,
+        "num": 159976,
+        "word": "李荣浩怎么瘦成这样了",
+        "onboard_time": 1767792444,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64485,
+        "num": 152955,
+        "word": "汪苏泷 罗曼城人脉",
+        "onboard_time": 1767794844,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148775,
+        "num": 148775,
+        "word": "刘宇宁今年不一定进组",
+        "onboard_time": 1767795805,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143971,
+        "num": 143971,
+        "word": "王楚钦收到最有意义的礼物",
+        "onboard_time": 1767794065,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107203,
+        "num": 143565,
+        "word": "男子月入9500因病被降薪至1824",
+        "onboard_time": 1767792505,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10805,
+        "num": 143416,
+        "word": "多方回应男童上托班腿骨折",
+        "onboard_time": 1767795984,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143307,
+        "num": 143307,
+        "word": "淀粉肠进入瑜伽裤时代",
+        "onboard_time": 1767781883,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 114125,
+        "num": 143289,
+        "word": "谢娜普及女生有小肚子的好处",
+        "onboard_time": 1767784763,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113843,
+        "num": 143282,
+        "word": "郭靖宇导演没认出做完妆造的蓝盈莹",
+        "onboard_time": 1767793945,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96896,
+        "num": 143250,
+        "word": "鹅鸭杀补偿方案",
+        "onboard_time": 1767792986,
+        "rank": 43,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 93773,
+        "num": 143229,
+        "word": "白鹿神图像线面一样繁殖",
+        "onboard_time": 1767790224,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90906,
+        "num": 143198,
+        "word": "11000亿元买断式逆回购来了",
+        "onboard_time": 1767796164,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 83618,
+        "num": 143175,
+        "word": "30多元一碗面吃的是撕袋加热",
+        "onboard_time": 1767781883,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81726,
+        "num": 143158,
+        "word": "内娱90男演员 流量退潮",
+        "onboard_time": 1767786024,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79515,
+        "num": 143140,
+        "word": "女子炖肉时高压锅爆炸被热气烫伤",
+        "onboard_time": 1767795745,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78839,
+        "num": 143093,
+        "word": "雷军回应掉粉20多万",
+        "onboard_time": 1767796346,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#中韩应当坚定站在历史正确一边#"
+    }
+  }
+}
