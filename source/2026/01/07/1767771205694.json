@@ -1,0 +1,410 @@
+{
+  "runTime": 1767771205694,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 803593,
+        "num": 1128574,
+        "word": "和府捞面 只有面现煮",
+        "onboard_time": 1767761782,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 394923,
+        "num": 814755,
+        "word": "大爷拍的素颜巴黎火了",
+        "onboard_time": 1767760942,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14060,
+        "num": 639803,
+        "word": "以旧换新让绿色消费换挡提速",
+        "onboard_time": 1767756140,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 420317,
+        "num": 420317,
+        "word": "小学生寒风中站岗给老师敬礼无回应",
+        "onboard_time": 1767768022,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279517,
+        "num": 279517,
+        "word": "宜家宣布关闭7家门店",
+        "onboard_time": 1767764303,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265134,
+        "num": 265134,
+        "word": "委内瑞拉发布讣告",
+        "onboard_time": 1767748102,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 256909,
+        "num": 256909,
+        "word": "社区卫生服务中心短信提醒多吃狗肉",
+        "onboard_time": 1767765260,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222877,
+        "num": 222877,
+        "word": "李在明发文",
+        "onboard_time": 1767760342,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 192050,
+        "num": 192050,
+        "word": "鹅鸭杀测评",
+        "onboard_time": 1767770120,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161918,
+        "num": 190595,
+        "word": "沪指14连阳",
+        "onboard_time": 1767770839,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 451068,
+        "num": 185410,
+        "word": "封腾依旧是顾漫宇宙最有钱的男主",
+        "onboard_time": 1767767060,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 356296,
+        "num": 184240,
+        "word": "中国对日本一剑封喉",
+        "onboard_time": 1767757581,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 321777,
+        "num": 181649,
+        "word": "王鹤棣演唱会嘉宾",
+        "onboard_time": 1767757102,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 228985,
+        "num": 175699,
+        "word": "王源演唱会 防狼喷雾",
+        "onboard_time": 1767769339,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192725,
+        "num": 172542,
+        "word": "白鹿敖瑞鹏白月梵星一周年售后",
+        "onboard_time": 1767770120,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171407,
+        "num": 171407,
+        "word": "苏醒谈孩子因为自己的身份攀比",
+        "onboard_time": 1767756561,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167772,
+        "num": 167772,
+        "word": "孟子义开车是跟李昀锐学的吧",
+        "onboard_time": 1767769641,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52992,
+        "num": 167485,
+        "word": "你想要的大电池DMi来了",
+        "onboard_time": 1767770061,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 31979,
+        "num": 167007,
+        "word": "父亲称女儿说忘记在柬流浪经历",
+        "onboard_time": 1767770481,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37112,
+        "num": 166856,
+        "word": "雀巢中国召回部分奶粉",
+        "onboard_time": 1767770421,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 674228,
+        "num": 166047,
+        "word": "李金铭否认怀孕",
+        "onboard_time": 1767768801,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 572145,
+        "num": 165851,
+        "word": "Asen回应Sakee",
+        "onboard_time": 1767757102,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318155,
+        "num": 165450,
+        "word": "檀健次立牌吓人案",
+        "onboard_time": 1767769520,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268359,
+        "num": 165084,
+        "word": "杨紫素颜live照",
+        "onboard_time": 1767761182,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232851,
+        "num": 164714,
+        "word": "娜扎夹个发夹就出来扮精灵了",
+        "onboard_time": 1767768501,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198739,
+        "num": 163902,
+        "word": "宋威龙 人火了脸也丢尽了",
+        "onboard_time": 1767770540,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246712,
+        "num": 163654,
+        "word": "Sakee Asen",
+        "onboard_time": 1767757341,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146915,
+        "num": 163165,
+        "word": "郑州免费挖玉爆火",
+        "onboard_time": 1767762982,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180489,
+        "num": 162933,
+        "word": "原来鼻炎会影响一个人的身高长相",
+        "onboard_time": 1767759440,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 178289,
+        "num": 162490,
+        "word": "王者周瑜小乔线条小狗皮肤",
+        "onboard_time": 1767768381,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162146,
+        "num": 162146,
+        "word": "Mac回应",
+        "onboard_time": 1767770000,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155578,
+        "num": 155578,
+        "word": "黄景瑜已争气争气再争气",
+        "onboard_time": 1767770540,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155209,
+        "num": 155209,
+        "word": "kiv Sakee",
+        "onboard_time": 1767760163,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147202,
+        "num": 147202,
+        "word": "多名家长反映深夜紧急打印作业",
+        "onboard_time": 1767769221,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141073,
+        "num": 141073,
+        "word": "男子被咬不在意次日狗亡紧急打针",
+        "onboard_time": 1767759201,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140597,
+        "num": 140597,
+        "word": "武大靖自曝从床爬到洗手间要半小时",
+        "onboard_time": 1767743480,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138797,
+        "num": 138797,
+        "word": "Mac跑步",
+        "onboard_time": 1767767901,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138698,
+        "num": 138698,
+        "word": "南部档案",
+        "onboard_time": 1767770780,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137603,
+        "num": 137603,
+        "word": "热巴摄影林嘉杰",
+        "onboard_time": 1767767301,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96629,
+        "num": 134961,
+        "word": "上海地铁站一男子身上冒火冲下电梯",
+        "onboard_time": 1767770421,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134294,
+        "num": 134294,
+        "word": "不愧是马年 下马威来得这么快",
+        "onboard_time": 1767769161,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135322,
+        "num": 127452,
+        "word": "钱芳萍 清醒的不独立女性",
+        "onboard_time": 1767770540,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120115,
+        "num": 120115,
+        "word": "林更新李幼斌怪不得你俩能玩在一起",
+        "onboard_time": 1767763101,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118865,
+        "num": 118865,
+        "word": "辛芷蕾 巴黎下雪最大赢家",
+        "onboard_time": 1767770721,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118472,
+        "num": 118472,
+        "word": "7800元始祖鸟限定款二手遇冷",
+        "onboard_time": 1767761062,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113862,
+        "num": 113862,
+        "word": "骄阳似我 一直挑衅苏州",
+        "onboard_time": 1767769520,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111582,
+        "num": 111582,
+        "word": "00后显老因为是90后装的",
+        "onboard_time": 1767770421,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106318,
+        "num": 106318,
+        "word": "车主被殴打后开车撞碾致1死1伤",
+        "onboard_time": 1767768860,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100245,
+        "num": 100245,
+        "word": "同居十天发现相亲女友是智障",
+        "onboard_time": 1767757280,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97137,
+        "num": 97137,
+        "word": "为啥进老公卧室戴手套",
+        "onboard_time": 1767769581,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平接待今年首位访华的外国元首#"
+    }
+  }
+}
