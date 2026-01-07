@@ -1,6 +1,6 @@
 {
   "startTime": 1767804017084,
-  "endTime": 1767822222736,
+  "endTime": 1767824975473,
   "band_list": [
     {
       "raw_hot": 1096354,
@@ -25,6 +25,14 @@
       "onboard_time": 1767803479,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208018,
+      "num": 418717,
+      "word": "美国在约半小时内宣称扣押两艘油轮",
+      "onboard_time": 1767816194,
+      "rank": 3,
+      "category": "军事"
     },
     {
       "raw_hot": 201190,
@@ -153,14 +161,6 @@
       "onboard_time": 1767784464,
       "rank": 26,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 79992,
-      "num": 196982,
-      "word": "美国在约半小时内宣称扣押两艘油轮",
-      "onboard_time": 1767816194,
-      "rank": 3,
-      "category": "军事"
     },
     {
       "raw_hot": 75252,
@@ -491,19 +491,19 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 26605,
+      "num": 34025,
+      "word": "成毅长安二十四计28集5.2亿人次收视",
+      "onboard_time": 1767813374,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26393,
       "num": 64900,
       "word": "陆江来你是懂给自己留后路的",
       "onboard_time": 1767807856,
       "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 24062,
-      "num": 34025,
-      "word": "成毅长安二十四计28集5.2亿人次收视",
-      "onboard_time": 1767813374,
-      "rank": 18,
       "category": "剧集"
     },
     {
@@ -539,8 +539,8 @@
       "category": "军事"
     },
     {
-      "raw_hot": 19931,
-      "num": 25435,
+      "raw_hot": 20462,
+      "num": 31812,
       "word": "迪丽热巴红秀油画公主",
       "onboard_time": 1767816794,
       "rank": 44,
@@ -563,8 +563,8 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 13394,
-      "num": 22264,
+      "raw_hot": 14479,
+      "num": 31744,
       "word": "你好星期六",
       "onboard_time": 1767818293,
       "rank": 44,
@@ -572,7 +572,7 @@
     },
     {
       "raw_hot": 9854,
-      "num": 114776,
+      "num": 232671,
       "word": "直播电商新规强化AI内容监管",
       "onboard_time": 1767795265,
       "rank": 2,
