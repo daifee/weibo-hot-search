@@ -1,6 +1,6 @@
 {
   "startTime": 1767717567538,
-  "endTime": 1767761995682,
+  "endTime": 1767764024206,
   "band_list": [
     {
       "raw_hot": 2704539,
@@ -59,6 +59,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 653034,
+      "num": 792837,
+      "word": "和府捞面 只有面现煮",
+      "onboard_time": 1767761782,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 612160,
       "num": 1097945,
       "word": "小米SU7",
@@ -80,6 +88,14 @@
       "word": "Sakee Asen",
       "onboard_time": 1767757341,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 550685,
+      "num": 196819,
+      "word": "杨紫素颜live照",
+      "onboard_time": 1767761182,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -115,6 +131,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 525201,
+      "num": 829822,
+      "word": "湖北夫妻炸年糕淀粉肠年入百万",
+      "onboard_time": 1767759201,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 518266,
       "num": 238981,
       "word": "林屿森 老来得女",
@@ -129,14 +153,6 @@
       "onboard_time": 1767751221,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 490263,
-      "num": 829822,
-      "word": "湖北夫妻炸年糕淀粉肠年入百万",
-      "onboard_time": 1767759201,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 487139,
@@ -187,12 +203,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 442362,
+      "num": 442362,
+      "word": "李在明发文",
+      "onboard_time": 1767760342,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 372346,
       "num": 372346,
       "word": "雀巢奶粉",
       "onboard_time": 1767752721,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 348865,
+      "num": 221005,
+      "word": "芒果综艺遇到罢录嘉宾",
+      "onboard_time": 1767758002,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 336078,
@@ -257,14 +289,6 @@
       "onboard_time": 1767751762,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 309822,
-      "num": 221005,
-      "word": "芒果综艺遇到罢录嘉宾",
-      "onboard_time": 1767758002,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 308673,
@@ -339,6 +363,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 233252,
+      "num": 233252,
+      "word": "7800元始祖鸟限定款二手遇冷",
+      "onboard_time": 1767761062,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231427,
       "num": 148723,
       "word": "关晓彤21年只拍了一部戏",
@@ -363,12 +395,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221623,
+      "num": 230552,
+      "word": "男子被咬不在意次日狗亡紧急打针",
+      "onboard_time": 1767759201,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221376,
       "num": 196928,
       "word": "kiv Sakee",
       "onboard_time": 1767760163,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217714,
+      "num": 217714,
+      "word": "敖瑞鹏 阿七是狐狸不是猫",
+      "onboard_time": 1767762803,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 213798,
@@ -387,14 +435,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 207830,
-      "num": 196819,
-      "word": "杨紫素颜live照",
-      "onboard_time": 1767761182,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205908,
       "num": 196379,
       "word": "大爷拍的素颜巴黎火了",
@@ -403,20 +443,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202922,
+      "num": 202922,
+      "word": "林更新李幼斌怪不得你俩能玩在一起",
+      "onboard_time": 1767763101,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 199159,
       "num": 202920,
       "word": "1盒内存条堪比上海1套房",
       "onboard_time": 1767702321,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198697,
-      "num": 196255,
-      "word": "李在明发文",
-      "onboard_time": 1767760342,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 198237,
@@ -465,6 +505,14 @@
       "onboard_time": 1767760403,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195129,
+      "num": 146924,
+      "word": "光与夜之恋",
+      "onboard_time": 1767762441,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 192800,
@@ -555,14 +603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 162984,
-      "num": 230552,
-      "word": "男子被咬不在意次日狗亡紧急打针",
-      "onboard_time": 1767759201,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161501,
       "num": 205374,
       "word": "原来这些人都接到过娱乐圈劝退书",
@@ -633,6 +673,14 @@
       "onboard_time": 1767724275,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 146074,
+      "num": 146074,
+      "word": "杨博文 语法界最严厉的父亲",
+      "onboard_time": 1767762622,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 144896,
@@ -755,6 +803,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 121191,
+      "num": 121191,
+      "word": "唐诡团建居然把卢凌风落下了",
+      "onboard_time": 1767763702,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118700,
       "num": 144526,
       "word": "云南曲靖3.4级地震",
@@ -857,6 +913,22 @@
       "onboard_time": 1767758661,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 104568,
+      "num": 104568,
+      "word": "thome换头像",
+      "onboard_time": 1767763881,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 104145,
+      "num": 104145,
+      "word": "男子晒爸爸给兄弟三人分的自建房",
+      "onboard_time": 1767763281,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 104131,
@@ -1043,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81045,
+      "num": 147876,
+      "word": "郑州免费挖玉爆火",
+      "onboard_time": 1767762982,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80478,
       "num": 202212,
       "word": "宋威龙赵今麦庆功宴",
@@ -1099,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76056,
+      "num": 123025,
+      "word": "赵樱子回应男明星都喜欢网红",
+      "onboard_time": 1767762923,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75806,
       "num": 166888,
       "word": "台战机失事飞行员跳伞搜救中",
@@ -1136,14 +1224,6 @@
       "word": "烫伤致死男孩身上陈旧伤系父亲管教",
       "onboard_time": 1767751340,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 70638,
-      "num": 198433,
-      "word": "7800元始祖鸟限定款二手遇冷",
-      "onboard_time": 1767761062,
-      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -1225,14 +1305,6 @@
       "onboard_time": 1767741739,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 59901,
-      "num": 198075,
-      "word": "和府捞面 只有面现煮",
-      "onboard_time": 1767761782,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58580,
@@ -1531,6 +1603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 14219,
+      "num": 148013,
+      "word": "免税店商品打骨折仍有39.5%毛利率",
+      "onboard_time": 1767763582,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13321,
       "num": 44461,
       "word": "刘宇宁直播",
@@ -1545,6 +1625,14 @@
       "onboard_time": 1767737775,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9932,
+      "num": 122363,
+      "word": "骄阳似我教我谈恋爱",
+      "onboard_time": 1767763461,
+      "rank": 39,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [

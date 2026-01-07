@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767761995682,
+  "endTime": 1767764024206,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -883,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 653034,
+      "num": 792837,
+      "word": "和府捞面 只有面现煮",
+      "onboard_time": 1767761782,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 651165,
       "num": 488723,
       "word": "黄景瑜跨年上台前突发耳石症",
@@ -1251,6 +1259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 550685,
+      "num": 196819,
+      "word": "杨紫素颜live照",
+      "onboard_time": 1767761182,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 550391,
       "num": 1028094,
       "word": "暖阳好强",
@@ -1425,6 +1441,14 @@
       "onboard_time": 1767711504,
       "rank": 7,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 525201,
+      "num": 829822,
+      "word": "湖北夫妻炸年糕淀粉肠年入百万",
+      "onboard_time": 1767759201,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 521966,
@@ -1689,14 +1713,6 @@
       "onboard_time": 1767406949,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 490263,
-      "num": 829822,
-      "word": "湖北夫妻炸年糕淀粉肠年入百万",
-      "onboard_time": 1767759201,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 489574,
@@ -2123,6 +2139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 442362,
+      "num": 442362,
+      "word": "李在明发文",
+      "onboard_time": 1767760342,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 441518,
       "num": 1692801,
       "word": "交警回应撞脸杨紫爆红",
@@ -2377,30 +2401,6 @@
       "onboard_time": 1767502584,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 404537,
-      "num": 1096944,
-      "word": "日本动漫屡次出现旭日旗731部队",
-      "onboard_time": 1767364702,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 399540,
-      "num": 281140,
-      "word": "赵丽颖语文课本封面具象化",
-      "onboard_time": 1767667641,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 399356,
-      "num": 1409345,
-      "word": "跨年收视率",
-      "onboard_time": 1767192568,
-      "rank": 12,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

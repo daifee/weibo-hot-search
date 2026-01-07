@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/07 12:59:55
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/07 13:33:44
 </p>
 </blockquote>
 <p>
@@ -675,6 +675,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%BA%9C%E6%8D%9E%E9%9D%A2%20%E5%8F%AA%E6%9C%89%E9%9D%A2%E7%8E%B0%E7%85%AE%23" target="weibo">
+和府捞面 只有面现煮（热度：653034）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E8%B7%A8%E5%B9%B4%E4%B8%8A%E5%8F%B0%E5%89%8D%E7%AA%81%E5%8F%91%E8%80%B3%E7%9F%B3%E7%97%87%23" target="weibo">
 黄景瑜跨年上台前突发耳石症（热度：651165）
 </a>
@@ -951,6 +957,12 @@ Sakee Asen（热度：556725）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%B4%A0%E9%A2%9Clive%E7%85%A7%23" target="weibo">
+杨紫素颜live照（热度：550685）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%96%E9%98%B3%E5%A5%BD%E5%BC%BA%23" target="weibo">
 暖阳好强（热度：550391）
 </a>
@@ -1079,6 +1091,12 @@ iPhoneFold上手（热度：543056）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%8F%96%E6%B6%88%E9%AB%98%E4%B8%80%E9%AB%98%E4%BA%8C%E5%B9%B4%E6%9C%9F%E6%9C%AB%E7%BB%9F%E8%80%83%23" target="weibo">
 多地取消高一高二年期末统考（热度：525471）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8C%97%E5%A4%AB%E5%A6%BB%E7%82%B8%E5%B9%B4%E7%B3%95%E6%B7%80%E7%B2%89%E8%82%A0%E5%B9%B4%E5%85%A5%E7%99%BE%E4%B8%87%23" target="weibo">
+湖北夫妻炸年糕淀粉肠年入百万（热度：525201）
 </a>
 </li>
 
@@ -1277,12 +1295,6 @@ TVB颁奖典礼（热度：518643）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E6%88%B4%E7%9C%BC%E9%95%9C%E5%AF%BC%E8%87%B4%E7%9A%84%E9%9D%A2%E9%83%A8%E5%8F%98%E5%8C%96%23" target="weibo">
 长期戴眼镜导致的面部变化（热度：493980）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8C%97%E5%A4%AB%E5%A6%BB%E7%82%B8%E5%B9%B4%E7%B3%95%E6%B7%80%E7%B2%89%E8%82%A0%E5%B9%B4%E5%85%A5%E7%99%BE%E4%B8%87%23" target="weibo">
-湖北夫妻炸年糕淀粉肠年入百万（热度：490263）
 </a>
 </li>
 
@@ -1605,6 +1617,12 @@ iPhone千万别删的自带软件（热度：474519）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%8F%91%E6%96%87%23" target="weibo">
+李在明发文（热度：442362）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E6%92%9E%E8%84%B8%E6%9D%A8%E7%B4%AB%E7%88%86%E7%BA%A2%23" target="weibo">
 交警回应撞脸杨紫爆红（热度：441518）
 </a>
@@ -1793,24 +1811,6 @@ iPhone没有一个按键是多余的（热度：420534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E9%A9%AC%E5%AE%98%E5%AE%A3%E9%99%8D%E4%BB%B7%23" target="weibo">
 宝马官宣降价（热度：404975）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8A%A8%E6%BC%AB%E5%B1%A1%E6%AC%A1%E5%87%BA%E7%8E%B0%E6%97%AD%E6%97%A5%E6%97%97731%E9%83%A8%E9%98%9F%23" target="weibo">
-日本动漫屡次出现旭日旗731部队（热度：404537）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%AF%AD%E6%96%87%E8%AF%BE%E6%9C%AC%E5%B0%81%E9%9D%A2%E5%85%B7%E8%B1%A1%E5%8C%96%23" target="weibo">
-赵丽颖语文课本封面具象化（热度：399540）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B7%A8%E5%B9%B4%E6%94%B6%E8%A7%86%E7%8E%87%23" target="weibo">
-跨年收视率（热度：399356）
 </a>
 </li>
 
