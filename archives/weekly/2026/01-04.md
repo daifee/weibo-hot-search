@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/04 00:34:09 ~ 2026/01/08 01:51:13
+本榜单时间：2026/01/04 00:34:09 ~ 2026/01/08 02:43:49
 </p>
 </blockquote>
 <p>
@@ -10035,6 +10035,12 @@ MRC夺冠（热度：40693）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%85%E9%B8%AD%E6%9D%80%E8%87%B4%E6%AD%89%23" target="weibo">
+鹅鸭杀致歉（热度：30598）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%83%E6%97%A6%E5%81%87%E6%9C%9F%E5%B8%A6%E5%8A%A8%E6%96%B0%E5%B9%B4%E6%B6%88%E8%B4%B9%E6%B4%BB%E5%8A%9B%E6%BB%A1%E6%BB%A1%23" target="weibo">
 元旦假期带动新年消费活力满满（热度：30426）
 </a>
@@ -10245,6 +10251,12 @@ WTT挑战赛多哈站（热度：27458）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%95%91%E6%8A%A4%E8%BD%A6%E9%81%87%E8%BD%A6%E7%A5%B8%E8%87%B43%E4%BA%BA%E5%8F%97%E4%BC%A4%23" target="weibo">
+官方回应救护车遇车祸致3人受伤（热度：24271）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%96%9D%E5%A4%9A%E8%87%B4%E6%AD%BB%E5%90%8C%E6%A1%8C21%E4%BA%BA%E5%85%B1%E6%8B%851%E6%88%90%E8%B4%A3%E4%BB%BB%23" target="weibo">
 男子喝多致死同桌21人共担1成责任（热度：23842）
 </a>
@@ -10269,8 +10281,20 @@ WTT挑战赛多哈站（热度：27458）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23idoll%E5%A8%83%E5%A8%83%23" target="weibo">
+idoll娃娃（热度：23680）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%BB%84%E6%95%B0%E6%8D%AE%E8%A7%81%E8%AF%81%E6%B4%BB%E5%8A%9B%E8%BF%B8%E5%8F%91%E7%9A%84%E5%85%83%E6%97%A6%E5%81%87%E6%9C%9F%23" target="weibo">
 这组数据见证活力迸发的元旦假期（热度：23342）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E7%94%9F%E5%91%A8%E5%92%8C%E6%A3%89%E8%8A%B1%E5%A8%83%E5%A8%83%E4%B8%80%E8%B5%B7%E5%BC%80%E5%94%AE%23" target="weibo">
+王橹杰生周和棉花娃娃一起开售（热度：23310）
 </a>
 </li>
 
@@ -10443,12 +10467,6 @@ WTT挑战赛多哈站（热度：27458）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%95%91%E6%8A%A4%E8%BD%A6%E9%81%87%E8%BD%A6%E7%A5%B8%E8%87%B43%E4%BA%BA%E5%8F%97%E4%BC%A4%23" target="weibo">
-官方回应救护车遇车祸致3人受伤（热度：18827）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E6%96%B0%E6%AD%8C%E5%A4%96%E7%BD%91%E4%B8%8A%E7%BA%BF%23" target="weibo">
 檀健次新歌外网上线（热度：17372）
 </a>
@@ -10589,6 +10607,12 @@ kpl王者荣耀巅峰之夜（热度：14148）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%E6%95%99%E6%88%91%E8%B0%88%E6%81%8B%E7%88%B1%23" target="weibo">
 骄阳似我教我谈恋爱（热度：9932）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E7%94%B5%E5%95%86%E6%96%B0%E8%A7%84%E5%BC%BA%E5%8C%96AI%E5%86%85%E5%AE%B9%E7%9B%91%E7%AE%A1%23" target="weibo">
+直播电商新规强化AI内容监管（热度：9838）
 </a>
 </li>
 

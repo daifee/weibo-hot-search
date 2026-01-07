@@ -1,6 +1,6 @@
 {
   "startTime": 1767804017084,
-  "endTime": 1767808273398,
+  "endTime": 1767811429847,
   "band_list": [
     {
       "raw_hot": 1096354,
@@ -435,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30598,
+      "num": 49424,
+      "word": "鹅鸭杀致歉",
+      "onboard_time": 1767808756,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 27458,
       "num": 118872,
       "word": "WTT挑战赛多哈站",
@@ -459,6 +467,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24271,
+      "num": 88841,
+      "word": "官方回应救护车遇车祸致3人受伤",
+      "onboard_time": 1767805878,
+      "rank": 49,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 23680,
+      "num": 49394,
+      "word": "idoll娃娃",
+      "onboard_time": 1767809776,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 23310,
+      "num": 49388,
+      "word": "王橹杰生周和棉花娃娃一起开售",
+      "onboard_time": 1767808516,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22674,
       "num": 427992,
       "word": "中国空间望远镜的硬实力",
@@ -475,12 +507,20 @@
       "category": "军事"
     },
     {
-      "raw_hot": 18827,
-      "num": 60077,
-      "word": "官方回应救护车遇车祸致3人受伤",
-      "onboard_time": 1767805878,
-      "rank": 49,
-      "category": "辟谣/通报"
+      "raw_hot": 18741,
+      "num": 49346,
+      "word": "柯南30周年",
+      "onboard_time": 1767799404,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 9838,
+      "num": 104706,
+      "word": "直播电商新规强化AI内容监管",
+      "onboard_time": 1767795265,
+      "rank": 2,
+      "category": "民生新闻,互联网"
     }
   ],
   "hotgov_list": [
