@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767778614146,
+  "endTime": 1767779499622,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1227,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 572347,
+      "num": 572347,
+      "word": "爱吃自助餐小蛋糕的天塌了",
+      "onboard_time": 1767776901,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 563322,
       "num": 585798,
       "word": "剪断男婴手指助产士已停职",
@@ -1457,14 +1465,6 @@
       "onboard_time": 1767432264,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 525806,
-      "num": 525806,
-      "word": "爱吃自助餐小蛋糕的天塌了",
-      "onboard_time": 1767776901,
-      "rank": 3,
-      "category": "美食"
     },
     {
       "raw_hot": 525471,
@@ -2068,7 +2068,7 @@
     },
     {
       "raw_hot": 455249,
-      "num": 192656,
+      "num": 197639,
       "word": "宋威龙 人火了脸也丢尽了",
       "onboard_time": 1767770540,
       "rank": 25,
@@ -2209,6 +2209,14 @@
       "onboard_time": 1767415407,
       "rank": 32,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 440169,
+      "num": 212065,
+      "word": "张若昀马思纯回应绝交还儿童手表",
+      "onboard_time": 1767777441,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 439304,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767573563,
       "rank": 4,
       "category": "美食"
-    },
-    {
-      "raw_hot": 411025,
-      "num": 921389,
-      "word": "上万元加拿大鹅三亚仅6900元",
-      "onboard_time": 1767627802,
-      "rank": 39,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
