@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767805003270,
+  "endTime": 1767807258480,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -3985,6 +3985,14 @@
       "onboard_time": 1767694222,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 214545,
+      "num": 214545,
+      "word": "哈哈哈哈哈6",
+      "onboard_time": 1767803479,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 214272,
@@ -10675,14 +10683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 85332,
-      "num": 125484,
-      "word": "哈哈哈哈哈6",
-      "onboard_time": 1767803479,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 85330,
       "num": 85330,
       "word": "金饰克价涨至1390元",
@@ -13355,6 +13355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30985,
+      "num": 60151,
+      "word": "丁禹兮少年感演技赛道",
+      "onboard_time": 1767805937,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30426,
       "num": 762925,
       "word": "元旦假期带动新年消费活力满满",
@@ -13545,6 +13553,14 @@
       "onboard_time": 1767697822,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 26498,
+      "num": 60113,
+      "word": "雷军称新SU7做不到加量不加价",
+      "onboard_time": 1767805697,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 26379,
@@ -13881,6 +13897,14 @@
       "onboard_time": 1767466155,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 18827,
+      "num": 60077,
+      "word": "官方回应救护车遇车祸致3人受伤",
+      "onboard_time": 1767805878,
+      "rank": 49,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 17372,

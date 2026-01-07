@@ -1,6 +1,6 @@
 {
   "startTime": 1767804017084,
-  "endTime": 1767805003270,
+  "endTime": 1767807258480,
   "band_list": [
     {
       "raw_hot": 1096354,
@@ -16,6 +16,14 @@
       "word": "五哈6常驻嘉宾",
       "onboard_time": 1767798144,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 214545,
+      "num": 214545,
+      "word": "哈哈哈哈哈6",
+      "onboard_time": 1767803479,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -137,14 +145,6 @@
       "onboard_time": 1767792085,
       "rank": 14,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 85332,
-      "num": 125484,
-      "word": "哈哈哈哈哈6",
-      "onboard_time": 1767803479,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 82851,
@@ -395,6 +395,14 @@
       "category": "电竞,游戏"
     },
     {
+      "raw_hot": 32261,
+      "num": 62955,
+      "word": "何不同舟渡",
+      "onboard_time": 1767789864,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 31518,
       "num": 118901,
       "word": "博主揭露富二代卖玉骗局",
@@ -411,6 +419,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 30985,
+      "num": 60151,
+      "word": "丁禹兮少年感演技赛道",
+      "onboard_time": 1767805937,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27458,
       "num": 118872,
       "word": "WTT挑战赛多哈站",
@@ -419,12 +435,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26498,
+      "num": 60113,
+      "word": "雷军称新SU7做不到加量不加价",
+      "onboard_time": 1767805697,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 22674,
       "num": 427992,
       "word": "中国空间望远镜的硬实力",
       "onboard_time": 1767795805,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20652,
+      "num": 60081,
+      "word": "歼35新年首飞",
+      "onboard_time": 1767800482,
+      "rank": 48,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 18827,
+      "num": 60077,
+      "word": "官方回应救护车遇车祸致3人受伤",
+      "onboard_time": 1767805878,
+      "rank": 49,
+      "category": "辟谣/通报"
     }
   ],
   "hotgov_list": [

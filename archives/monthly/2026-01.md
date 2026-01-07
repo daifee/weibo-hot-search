@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/08 00:56:43
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/08 01:34:18
 </p>
 </blockquote>
 <p>
@@ -4119,6 +4119,12 @@ DRG官宣早点退役（热度：219465）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%886%23" target="weibo">
+哈哈哈哈哈6（热度：214545）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E6%88%91%E7%9B%B4%E6%8E%A5%E5%91%8A%E8%AF%89%E4%BD%A0%E5%BE%97%E4%BA%86%E5%91%97%23" target="weibo">
 罗云熙我直接告诉你得了呗（热度：214272）
 </a>
@@ -6005,12 +6011,6 @@ WTT多哈冠军赛2026（热度：163675）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%B2%E5%84%BF%E5%AB%82%E7%8E%A9%E6%89%8B%E6%9C%BA%E4%B8%80%E8%84%9A%E6%8A%8A%E5%A9%B4%E5%84%BF%E8%B8%A2%E4%B8%8B%E5%BA%8A%23" target="weibo">
 育儿嫂玩手机一脚把婴儿踢下床（热度：162481）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%9A%E7%BD%AA2%E7%AC%AC28%E9%9B%86%E5%B0%81%E7%A5%9E%23" target="weibo">
-罚罪2第28集封神（热度：162397）
 </a>
 </li>
 

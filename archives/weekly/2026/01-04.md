@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/04 00:34:09 ~ 2026/01/08 00:56:43
+本榜单时间：2026/01/04 00:34:09 ~ 2026/01/08 01:34:18
 </p>
 </blockquote>
 <p>
@@ -2999,6 +2999,12 @@ DRG官宣早点退役（热度：219465）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%BB%BA%E5%86%9B%E5%AE%A3%E5%B8%83%E6%96%B0%E5%B9%B3%E5%8F%B0%E5%91%BD%E5%90%8D%E5%BD%92%E5%85%83%23" target="weibo">
 魏建军宣布新平台命名归元（热度：214728）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%886%23" target="weibo">
+哈哈哈哈哈6（热度：214545）
 </a>
 </li>
 
@@ -8019,12 +8025,6 @@ A股超过百股涨停（热度：88052）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%886%23" target="weibo">
-哈哈哈哈哈6（热度：85332）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E5%85%8B%E4%BB%B7%E6%B6%A8%E8%87%B31390%E5%85%83%23" target="weibo">
 金饰克价涨至1390元（热度：85330）
 </a>
@@ -10029,6 +10029,12 @@ MRC夺冠（热度：40693）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E5%B0%91%E5%B9%B4%E6%84%9F%E6%BC%94%E6%8A%80%E8%B5%9B%E9%81%93%23" target="weibo">
+丁禹兮少年感演技赛道（热度：30985）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%83%E6%97%A6%E5%81%87%E6%9C%9F%E5%B8%A6%E5%8A%A8%E6%96%B0%E5%B9%B4%E6%B6%88%E8%B4%B9%E6%B4%BB%E5%8A%9B%E6%BB%A1%E6%BB%A1%23" target="weibo">
 元旦假期带动新年消费活力满满（热度：30426）
 </a>
@@ -10169,6 +10175,12 @@ WTT挑战赛多哈站（热度：27458）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E9%9D%99%E9%9B%AF%E6%BC%94%E5%BC%A0%E9%9B%AA%E8%BF%8E%E5%A6%88%E5%A6%88%23" target="weibo">
 贾静雯演张雪迎妈妈（热度：26605）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E6%96%B0SU7%E5%81%9A%E4%B8%8D%E5%88%B0%E5%8A%A0%E9%87%8F%E4%B8%8D%E5%8A%A0%E4%BB%B7%23" target="weibo">
+雷军称新SU7做不到加量不加价（热度：26498）
 </a>
 </li>
 
@@ -10421,6 +10433,12 @@ WTT挑战赛多哈站（热度：27458）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E8%AF%B4%E4%BB%8A%E5%B9%B4%E6%9C%89%E5%85%A8%E5%8E%9F%E5%88%9B%E4%B8%93%E8%BE%91%23" target="weibo">
 王源说今年有全原创专辑（热度：18863）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%95%91%E6%8A%A4%E8%BD%A6%E9%81%87%E8%BD%A6%E7%A5%B8%E8%87%B43%E4%BA%BA%E5%8F%97%E4%BC%A4%23" target="weibo">
+官方回应救护车遇车祸致3人受伤（热度：18827）
 </a>
 </li>
 
