@@ -1,0 +1,410 @@
+{
+  "runTime": 1767794286580,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 241848,
+        "num": 1038695,
+        "word": "歼35绿皮机震撼公开",
+        "onboard_time": 1767784584,
+        "rank": 0,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 171769,
+        "num": 770963,
+        "word": "夫妻做出让小个子无痛长高的鞋",
+        "onboard_time": 1767778103,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52817,
+        "num": 581706,
+        "word": "国补成了消费者的购物标配",
+        "onboard_time": 1767777022,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307222,
+        "num": 307222,
+        "word": "爱吃自助餐小蛋糕的天塌了",
+        "onboard_time": 1767776901,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 290911,
+        "num": 290911,
+        "word": "鹅鸭杀回应崩了",
+        "onboard_time": 1767791545,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 332544,
+        "num": 289438,
+        "word": "最无用的节俭行为",
+        "onboard_time": 1767789384,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217099,
+        "num": 289043,
+        "word": "鹅鸭杀服务器被挤爆",
+        "onboard_time": 1767794065,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194348,
+        "num": 286859,
+        "word": "王楚钦收到最有意义的礼物",
+        "onboard_time": 1767794065,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147642,
+        "num": 284742,
+        "word": "女子百万装新房老公每次来都像游客",
+        "onboard_time": 1767785965,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144581,
+        "num": 283376,
+        "word": "鹅鸭杀补偿方案",
+        "onboard_time": 1767792986,
+        "rank": 9,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 321157,
+        "num": 282073,
+        "word": "女子拿5克金子做首饰熔后不足1克",
+        "onboard_time": 1767792085,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 197414,
+        "num": 278748,
+        "word": "何不同舟渡",
+        "onboard_time": 1767789864,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154869,
+        "num": 277527,
+        "word": "赵今麦宋威龙hi6拍立得",
+        "onboard_time": 1767789143,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140461,
+        "num": 276872,
+        "word": "中国游客识破日拉面店阴阳菜单被禁入",
+        "onboard_time": 1767792024,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129865,
+        "num": 275072,
+        "word": "日本就中方加强出口管制提出抗议",
+        "onboard_time": 1767786084,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117649,
+        "num": 273039,
+        "word": "育儿嫂玩手机一脚把婴儿踢下床",
+        "onboard_time": 1767785844,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113497,
+        "num": 270699,
+        "word": "240万转错账户一年都没要回来",
+        "onboard_time": 1767780203,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99717,
+        "num": 269614,
+        "word": "中国留学生讲述日本梅毒扩散乱象",
+        "onboard_time": 1767776721,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95176,
+        "num": 267999,
+        "word": "女子被开房门起诉酒店反遭索赔35万",
+        "onboard_time": 1767790824,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89590,
+        "num": 265162,
+        "word": "公园多只小天鹅冻死在湖面",
+        "onboard_time": 1767791304,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 609833,
+        "num": 263313,
+        "word": "吴倩张雨剑女儿有多可爱",
+        "onboard_time": 1767792444,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556185,
+        "num": 261799,
+        "word": "鹅鸭杀",
+        "onboard_time": 1767789684,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 489055,
+        "num": 260870,
+        "word": "鹅鸭杀崩了",
+        "onboard_time": 1767789444,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 350761,
+        "num": 258650,
+        "word": "王橹杰高会",
+        "onboard_time": 1767791125,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88557,
+        "num": 256821,
+        "word": "老人体验免费洗金镯洗完少了4.87克",
+        "onboard_time": 1767777441,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333256,
+        "num": 255360,
+        "word": "厚底鞋",
+        "onboard_time": 1767784464,
+        "rank": 25,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 254203,
+        "num": 254203,
+        "word": "葛夕喊话留几手",
+        "onboard_time": 1767791724,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234213,
+        "num": 234213,
+        "word": "医生不建议直接穿外裤坐卧在床上",
+        "onboard_time": 1767790824,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 197651,
+        "num": 234155,
+        "word": "李荣浩怎么瘦成这样了",
+        "onboard_time": 1767792444,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184559,
+        "num": 233989,
+        "word": "阿水鹅鸭杀被路人吓跑了",
+        "onboard_time": 1767794244,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139129,
+        "num": 233843,
+        "word": "淀粉肠进入瑜伽裤时代",
+        "onboard_time": 1767781883,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132972,
+        "num": 233734,
+        "word": "写字不好看的不许开蛋糕店",
+        "onboard_time": 1767784763,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127591,
+        "num": 233649,
+        "word": "宋威龙 一切有迹可循",
+        "onboard_time": 1767789203,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122002,
+        "num": 233434,
+        "word": "谢娜普及女生有小肚子的好处",
+        "onboard_time": 1767784763,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113742,
+        "num": 233302,
+        "word": "白鹿神图像线面一样繁殖",
+        "onboard_time": 1767790224,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104019,
+        "num": 233179,
+        "word": "沈月手机最干净的一集",
+        "onboard_time": 1767790284,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100925,
+        "num": 233138,
+        "word": "digi 解散",
+        "onboard_time": 1767788543,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99822,
+        "num": 232942,
+        "word": "郭靖宇导演没认出做完妆造的蓝盈莹",
+        "onboard_time": 1767793945,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99452,
+        "num": 232900,
+        "word": "内娱90男演员 流量退潮",
+        "onboard_time": 1767786024,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98340,
+        "num": 232739,
+        "word": "晋江文学城2025年度报告",
+        "onboard_time": 1767792384,
+        "rank": 39,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 97994,
+        "num": 232595,
+        "word": "刘宇宁 我现在是很丑吗",
+        "onboard_time": 1767794004,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92219,
+        "num": 232509,
+        "word": "30多元一碗面吃的是撕袋加热",
+        "onboard_time": 1767781883,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74796,
+        "num": 232359,
+        "word": "日本2026年的魔幻开局",
+        "onboard_time": 1767788785,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89623,
+        "num": 232128,
+        "word": "雷军谈新su7涨价",
+        "onboard_time": 1767793764,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 83557,
+        "num": 231992,
+        "word": "李金铭 我只是想给自己放个假",
+        "onboard_time": 1767788785,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82767,
+        "num": 231873,
+        "word": "河南新乡通报村民被顶包成村支书",
+        "onboard_time": 1767793885,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78092,
+        "num": 231792,
+        "word": "尚界Z7",
+        "onboard_time": 1767783084,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 62111,
+        "num": 231598,
+        "word": "广东男篮vs深圳男篮",
+        "onboard_time": 1767792683,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76160,
+        "num": 231502,
+        "word": "素颜巴黎没有好看的义务",
+        "onboard_time": 1767794065,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 75965,
+        "num": 231357,
+        "word": "伊朗军方强硬表态",
+        "onboard_time": 1767791364,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平接待今年首位访华的外国元首#"
+    }
+  }
+}
