@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767791725429,
+  "endTime": 1767793648967,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -571,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 830063,
+      "num": 605633,
+      "word": "鹅鸭杀",
+      "onboard_time": 1767751221,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 821415,
       "num": 1663351,
       "word": "5个影后有4个都选了财富自由",
@@ -891,14 +899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 673705,
-      "num": 605633,
-      "word": "鹅鸭杀",
-      "onboard_time": 1767751221,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 673702,
       "num": 1105661,
       "word": "92年姨父成12岁女孩第二个爸爸",
@@ -969,6 +969,14 @@
       "onboard_time": 1767587123,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 634123,
+      "num": 243499,
+      "word": "吴倩张雨剑女儿有多可爱",
+      "onboard_time": 1767792444,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 633524,
@@ -1043,6 +1051,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 610374,
+      "num": 604727,
+      "word": "鹅鸭杀崩了",
+      "onboard_time": 1767789444,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 610292,
       "num": 610292,
       "word": "印度高调宣布大米产量超越中国",
@@ -1073,14 +1089,6 @@
       "onboard_time": 1767578240,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 604727,
-      "num": 604727,
-      "word": "鹅鸭杀崩了",
-      "onboard_time": 1767789444,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 604002,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767705142,
       "rank": 39,
       "category": "数码"
-    },
-    {
-      "raw_hot": 420432,
-      "num": 339459,
-      "word": "巴西认定委副总统为委内瑞拉领导人",
-      "onboard_time": 1767519081,
-      "rank": 30,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [

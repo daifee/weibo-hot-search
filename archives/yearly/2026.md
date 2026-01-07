@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/07 21:15:25
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/07 21:47:28
 </p>
 </blockquote>
 <p>
@@ -441,6 +441,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%85%E9%B8%AD%E6%9D%80%23" target="weibo">
+鹅鸭杀（热度：830063）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%235%E4%B8%AA%E5%BD%B1%E5%90%8E%E6%9C%894%E4%B8%AA%E9%83%BD%E9%80%89%E4%BA%86%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1%23" target="weibo">
 5个影后有4个都选了财富自由（热度：821415）
 </a>
@@ -681,12 +687,6 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%85%E9%B8%AD%E6%9D%80%23" target="weibo">
-鹅鸭杀（热度：673705）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%2392%E5%B9%B4%E5%A7%A8%E7%88%B6%E6%88%9012%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%AC%AC%E4%BA%8C%E4%B8%AA%E7%88%B8%E7%88%B8%23" target="weibo">
 92年姨父成12岁女孩第二个爸爸（热度：673702）
 </a>
@@ -737,6 +737,12 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%B6%E6%89%8B%E5%90%AC%E5%88%B0%E9%87%8F%E5%88%91%E5%BB%BA%E8%AE%AE%E6%AD%BB%E7%AB%8B%E6%89%A7%E6%89%8D%E9%81%93%E6%AD%89%23" target="weibo">
 凶手听到量刑建议死立执才道歉（热度：634706）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%80%A9%E5%BC%A0%E9%9B%A8%E5%89%91%E5%A5%B3%E5%84%BF%E6%9C%89%E5%A4%9A%E5%8F%AF%E7%88%B1%23" target="weibo">
+吴倩张雨剑女儿有多可爱（热度：634123）
 </a>
 </li>
 
@@ -795,6 +801,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%85%E9%B8%AD%E6%9D%80%E5%B4%A9%E4%BA%86%23" target="weibo">
+鹅鸭杀崩了（热度：610374）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E9%AB%98%E8%B0%83%E5%AE%A3%E5%B8%83%E5%A4%A7%E7%B1%B3%E4%BA%A7%E9%87%8F%E8%B6%85%E8%B6%8A%E4%B8%AD%E5%9B%BD%23" target="weibo">
 印度高调宣布大米产量超越中国（热度：610292）
 </a>
@@ -815,12 +827,6 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%9F%8E%E5%A4%A7%E4%BA%8B%E5%AE%9A%E6%A1%A3%23" target="weibo">
 小城大事定档（热度：604867）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%85%E9%B8%AD%E6%9D%80%E5%B4%A9%E4%BA%86%23" target="weibo">
-鹅鸭杀崩了（热度：604727）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ iPhone千万别删的自带软件（热度：474519）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E6%8C%89%E9%94%AE%E6%98%AF%E5%A4%9A%E4%BD%99%E7%9A%84%23" target="weibo">
 iPhone没有一个按键是多余的（热度：420534）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E8%AE%A4%E5%AE%9A%E5%A7%94%E5%89%AF%E6%80%BB%E7%BB%9F%E4%B8%BA%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%A2%86%E5%AF%BC%E4%BA%BA%23" target="weibo">
-巴西认定委副总统为委内瑞拉领导人（热度：420432）
 </a>
 </li>
 
