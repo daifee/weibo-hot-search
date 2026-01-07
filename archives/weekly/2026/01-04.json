@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767775271641,
+  "endTime": 1767776111474,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 752697,
-      "num": 198713,
+      "num": 241059,
       "word": "原来是养父活埋了生母",
       "onboard_time": 1767772461,
       "rank": 10,
@@ -1124,7 +1124,7 @@
     },
     {
       "raw_hot": 511362,
-      "num": 751399,
+      "num": 796697,
       "word": "李在明发文",
       "onboard_time": 1767760342,
       "rank": 33,
@@ -1684,7 +1684,7 @@
     },
     {
       "raw_hot": 429059,
-      "num": 1047091,
+      "num": 1065308,
       "word": "大爷拍的素颜巴黎火了",
       "onboard_time": 1767760942,
       "rank": 32,
@@ -2556,7 +2556,7 @@
     },
     {
       "raw_hot": 304969,
-      "num": 142935,
+      "num": 153522,
       "word": "苏醒李炜 战绩可查",
       "onboard_time": 1767772341,
       "rank": 24,
@@ -3028,7 +3028,7 @@
     },
     {
       "raw_hot": 263613,
-      "num": 136930,
+      "num": 151915,
       "word": "美国富人订制婴儿打造完美后代",
       "onboard_time": 1767773541,
       "rank": 30,
@@ -3393,6 +3393,14 @@
       "onboard_time": 1767664099,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 231258,
+      "num": 231258,
+      "word": "家政公司派患高危HPV月嫂上户",
+      "onboard_time": 1767774081,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231132,
@@ -3929,6 +3937,14 @@
       "onboard_time": 1767623363,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202088,
+      "num": 151713,
+      "word": "我的巴黎病被治好了",
+      "onboard_time": 1767775342,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 201823,
@@ -5571,6 +5587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 148468,
+      "num": 385173,
+      "word": "明天就进入三九了",
+      "onboard_time": 1767774322,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148450,
       "num": 148450,
       "word": "左航苏新皓去环球影城了",
@@ -5635,6 +5659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147182,
+      "num": 257439,
+      "word": "realme宣布回归OPPO",
+      "onboard_time": 1767772581,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 147027,
       "num": 147027,
       "word": "逍遥",
@@ -5681,6 +5713,14 @@
       "onboard_time": 1767509362,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146204,
+      "num": 146204,
+      "word": "幼女谎称16岁网恋发生关系男子获刑",
+      "onboard_time": 1767773061,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146172,
@@ -5872,6 +5912,14 @@
       "word": "Digi Ghetto",
       "onboard_time": 1767761902,
       "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 142408,
+      "num": 142408,
+      "word": "王一博怎么这么会演哭戏",
+      "onboard_time": 1767776001,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -6083,14 +6131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139064,
-      "num": 219699,
-      "word": "realme宣布回归OPPO",
-      "onboard_time": 1767772581,
-      "rank": 8,
-      "category": "数码"
-    },
-    {
       "raw_hot": 138290,
       "num": 139487,
       "word": "李在明说中国是千金难换的好邻居",
@@ -6241,14 +6281,6 @@
       "onboard_time": 1767757761,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 135760,
-      "num": 135760,
-      "word": "幼女谎称16岁网恋发生关系男子获刑",
-      "onboard_time": 1767773061,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 135717,
@@ -6875,6 +6907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123074,
+      "num": 249850,
+      "word": "鹅鸭杀 抢ID",
+      "onboard_time": 1767772401,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123054,
       "num": 186811,
       "word": "AI医生能超过真人医生吗",
@@ -7001,14 +7041,6 @@
       "onboard_time": 1767771981,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 121106,
-      "num": 121106,
-      "word": "明天就进入三九了",
-      "onboard_time": 1767774322,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120903,
@@ -7144,14 +7176,6 @@
       "word": "沈阳一小学期末卷被指夹带商业元素",
       "onboard_time": 1767687742,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117513,
-      "num": 147382,
-      "word": "家政公司派患高危HPV月嫂上户",
-      "onboard_time": 1767774081,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -7723,14 +7747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106912,
-      "num": 106912,
-      "word": "鹅鸭杀 抢ID",
-      "onboard_time": 1767772401,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 106679,
       "num": 106679,
       "word": "迅猛龙回应参加恋综",
@@ -7995,6 +8011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 103677,
+      "num": 103677,
+      "word": "徐冬冬把尹子维气委屈了",
+      "onboard_time": 1767772824,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103641,
       "num": 103641,
       "word": "怪不得说在东北丢不了小孩",
@@ -8051,12 +8075,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 103068,
-      "num": 103068,
-      "word": "徐冬冬把尹子维气委屈了",
-      "onboard_time": 1767772824,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 103052,
+      "num": 103052,
+      "word": "这5种表现说明你咖啡不耐受",
+      "onboard_time": 1767775941,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 102970,
@@ -8843,6 +8867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94066,
+      "num": 94066,
+      "word": "李煜东牙套勾住嘴了",
+      "onboard_time": 1767776062,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 94019,
       "num": 94019,
       "word": "肖战演出普通人面对战争的真实反应",
@@ -9025,6 +9057,14 @@
       "onboard_time": 1767682341,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 92430,
+      "num": 92430,
+      "word": "OPPO回应realme将回归",
+      "onboard_time": 1767775881,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 92052,
@@ -9667,6 +9707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85092,
+      "num": 85092,
+      "word": "张子枫在线表白张钧甯",
+      "onboard_time": 1767776062,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 84787,
       "num": 84787,
       "word": "Zhuo被问韩国的男朋友",
@@ -10188,7 +10236,7 @@
     },
     {
       "raw_hot": 74387,
-      "num": 149148,
+      "num": 156563,
       "word": "郑钦文的旅行新搭子",
       "onboard_time": 1767773602,
       "rank": 18,
@@ -10249,6 +10297,14 @@
       "onboard_time": 1767711383,
       "rank": 47,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 72700,
+      "num": 104539,
+      "word": "香港扫黄8名女子被捕最大62岁",
+      "onboard_time": 1767775521,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72047,
@@ -11371,6 +11427,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 40319,
+      "num": 157665,
+      "word": "中山人真把鸽子吃明白了",
+      "onboard_time": 1767773602,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40002,
       "num": 56104,
       "word": "今年黄金白银还涨吗",
@@ -11809,14 +11873,6 @@
       "onboard_time": 1767461658,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 31000,
-      "num": 149970,
-      "word": "中山人真把鸽子吃明白了",
-      "onboard_time": 1767773602,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 30999,

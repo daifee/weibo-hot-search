@@ -1,0 +1,410 @@
+{
+  "runTime": 1767776111474,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 408178,
+        "num": 1065308,
+        "word": "大爷拍的素颜巴黎火了",
+        "onboard_time": 1767760942,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190734,
+        "num": 796697,
+        "word": "李在明发文",
+        "onboard_time": 1767760342,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20356,
+        "num": 603967,
+        "word": "以旧换新让绿色消费换挡提速",
+        "onboard_time": 1767756140,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 178815,
+        "num": 475344,
+        "word": "小学生寒风中站岗给老师敬礼无回应",
+        "onboard_time": 1767768022,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148468,
+        "num": 385173,
+        "word": "明天就进入三九了",
+        "onboard_time": 1767774322,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380305,
+        "num": 380305,
+        "word": "00后显老因为是90后装的",
+        "onboard_time": 1767770421,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262263,
+        "num": 262263,
+        "word": "委内瑞拉发布讣告",
+        "onboard_time": 1767748102,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147182,
+        "num": 257439,
+        "word": "realme宣布回归OPPO",
+        "onboard_time": 1767772581,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 142076,
+        "num": 254298,
+        "word": "宜家宣布关闭7家门店",
+        "onboard_time": 1767764303,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123074,
+        "num": 249850,
+        "word": "鹅鸭杀 抢ID",
+        "onboard_time": 1767772401,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 669472,
+        "num": 241059,
+        "word": "原来是养父活埋了生母",
+        "onboard_time": 1767772461,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 649569,
+        "num": 233706,
+        "word": "和府捞面 只有面现煮",
+        "onboard_time": 1767761782,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231258,
+        "num": 231258,
+        "word": "家政公司派患高危HPV月嫂上户",
+        "onboard_time": 1767774081,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161824,
+        "num": 161824,
+        "word": "王源演唱会 防狼喷雾",
+        "onboard_time": 1767769339,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142362,
+        "num": 161359,
+        "word": "白鹿敖瑞鹏白月梵星一周年售后",
+        "onboard_time": 1767770120,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132912,
+        "num": 160257,
+        "word": "孟子义开车是跟李昀锐学的吧",
+        "onboard_time": 1767769641,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132539,
+        "num": 159429,
+        "word": "田曦薇现身央视路透",
+        "onboard_time": 1767771861,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131139,
+        "num": 158504,
+        "word": "黄景瑜已争气争气再争气",
+        "onboard_time": 1767770540,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40319,
+        "num": 157665,
+        "word": "中山人真把鸽子吃明白了",
+        "onboard_time": 1767773602,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44226,
+        "num": 156563,
+        "word": "郑钦文的旅行新搭子",
+        "onboard_time": 1767773602,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 436872,
+        "num": 155893,
+        "word": "宋威龙 人火了脸也丢尽了",
+        "onboard_time": 1767770540,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380917,
+        "num": 155348,
+        "word": "Asen回应Sakee",
+        "onboard_time": 1767757102,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307360,
+        "num": 153588,
+        "word": "19岁男子与13岁幼女发生关系获刑",
+        "onboard_time": 1767771261,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253217,
+        "num": 153522,
+        "word": "苏醒李炜 战绩可查",
+        "onboard_time": 1767772341,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233175,
+        "num": 151915,
+        "word": "美国富人订制婴儿打造完美后代",
+        "onboard_time": 1767773541,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 202088,
+        "num": 151713,
+        "word": "我的巴黎病被治好了",
+        "onboard_time": 1767775342,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195430,
+        "num": 150623,
+        "word": "李金铭否认怀孕",
+        "onboard_time": 1767768801,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115688,
+        "num": 149120,
+        "word": "封腾依旧是顾漫宇宙最有钱的男主",
+        "onboard_time": 1767767060,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174099,
+        "num": 148120,
+        "word": "杨紫素颜live照",
+        "onboard_time": 1767761182,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172306,
+        "num": 147355,
+        "word": "Sakee Asen",
+        "onboard_time": 1767757341,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165951,
+        "num": 146969,
+        "word": "檀健次立牌吓人案",
+        "onboard_time": 1767769520,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146204,
+        "num": 146204,
+        "word": "幼女谎称16岁网恋发生关系男子获刑",
+        "onboard_time": 1767773061,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145578,
+        "num": 145578,
+        "word": "娜扎夹个发夹就出来扮精灵了",
+        "onboard_time": 1767768501,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142408,
+        "num": 142408,
+        "word": "王一博怎么这么会演哭戏",
+        "onboard_time": 1767776001,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129102,
+        "num": 129102,
+        "word": "原来鼻炎会影响一个人的身高长相",
+        "onboard_time": 1767759440,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124526,
+        "num": 124526,
+        "word": "郭有才宣布婚讯",
+        "onboard_time": 1767773482,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 112562,
+        "num": 112562,
+        "word": "上海地铁站一男子身上冒火冲下电梯",
+        "onboard_time": 1767770421,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110415,
+        "num": 110415,
+        "word": "出去旅游全靠辞职",
+        "onboard_time": 1767774322,
+        "rank": 37,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 107792,
+        "num": 107792,
+        "word": "李在明与中国机器人握手",
+        "onboard_time": 1767771981,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72700,
+        "num": 104539,
+        "word": "香港扫黄8名女子被捕最大62岁",
+        "onboard_time": 1767775521,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103677,
+        "num": 103677,
+        "word": "徐冬冬把尹子维气委屈了",
+        "onboard_time": 1767772824,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103052,
+        "num": 103052,
+        "word": "这5种表现说明你咖啡不耐受",
+        "onboard_time": 1767775941,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 101787,
+        "num": 101787,
+        "word": "鹅鸭杀测评",
+        "onboard_time": 1767770120,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94363,
+        "num": 94363,
+        "word": "Mac回应",
+        "onboard_time": 1767770000,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94066,
+        "num": 94066,
+        "word": "李煜东牙套勾住嘴了",
+        "onboard_time": 1767776062,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93629,
+        "num": 93629,
+        "word": "王者周瑜小乔线条小狗皮肤",
+        "onboard_time": 1767768381,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 92430,
+        "num": 92430,
+        "word": "OPPO回应realme将回归",
+        "onboard_time": 1767775881,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 89672,
+        "num": 89672,
+        "word": "社区卫生服务中心短信提醒多吃狗肉",
+        "onboard_time": 1767765260,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86634,
+        "num": 86634,
+        "word": "南部档案",
+        "onboard_time": 1767770780,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85092,
+        "num": 85092,
+        "word": "张子枫在线表白张钧甯",
+        "onboard_time": 1767776062,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平接待今年首位访华的外国元首#"
+    }
+  }
+}
