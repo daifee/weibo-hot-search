@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767758832788,
+  "endTime": 1767761995682,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -377,6 +377,14 @@
       "onboard_time": 1767710245,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 982453,
+      "num": 1157192,
+      "word": "中国对日本一剑封喉",
+      "onboard_time": 1767757581,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 977384,
@@ -1227,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 556725,
+      "num": 198998,
+      "word": "Sakee Asen",
+      "onboard_time": 1767757341,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 554359,
       "num": 378092,
       "word": "纽约市长已致电特朗普",
@@ -1273,14 +1289,6 @@
       "onboard_time": 1767589344,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 544274,
-      "num": 198998,
-      "word": "Sakee Asen",
-      "onboard_time": 1767757341,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 544117,
@@ -1515,14 +1523,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 511095,
-      "num": 511095,
-      "word": "中国对日本一剑封喉",
-      "onboard_time": 1767757581,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 510531,
       "num": 539097,
       "word": "中彩票后先捐款再交税",
@@ -1689,6 +1689,14 @@
       "onboard_time": 1767406949,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 490263,
+      "num": 829822,
+      "word": "湖北夫妻炸年糕淀粉肠年入百万",
+      "onboard_time": 1767759201,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 489574,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767192568,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 398227,
-      "num": 221527,
-      "word": "轧戏",
-      "onboard_time": 1767496704,
-      "rank": 41,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [

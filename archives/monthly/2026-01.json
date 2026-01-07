@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767758832788,
+  "endTime": 1767761995682,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -377,6 +377,14 @@
       "onboard_time": 1767710245,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 982453,
+      "num": 1157192,
+      "word": "中国对日本一剑封喉",
+      "onboard_time": 1767757581,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 977384,
@@ -1227,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 556725,
+      "num": 198998,
+      "word": "Sakee Asen",
+      "onboard_time": 1767757341,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 554359,
       "num": 378092,
       "word": "纽约市长已致电特朗普",
@@ -1273,14 +1289,6 @@
       "onboard_time": 1767589344,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 544274,
-      "num": 198998,
-      "word": "Sakee Asen",
-      "onboard_time": 1767757341,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 544117,
@@ -1515,14 +1523,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 511095,
-      "num": 511095,
-      "word": "中国对日本一剑封喉",
-      "onboard_time": 1767757581,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 510531,
       "num": 539097,
       "word": "中彩票后先捐款再交税",
@@ -1689,6 +1689,14 @@
       "onboard_time": 1767406949,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 490263,
+      "num": 829822,
+      "word": "湖北夫妻炸年糕淀粉肠年入百万",
+      "onboard_time": 1767759201,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 489574,
@@ -3083,6 +3091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 325196,
+      "num": 325196,
+      "word": "小米称此次事件严重伤害米粉感情",
+      "onboard_time": 1767753260,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 324453,
       "num": 1051912,
       "word": "闪迪股价飙涨559%",
@@ -3307,6 +3323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 309822,
+      "num": 221005,
+      "word": "芒果综艺遇到罢录嘉宾",
+      "onboard_time": 1767758002,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 309469,
       "num": 296215,
       "word": "何炅 我慢慢等到蔡依林的那一天",
@@ -3377,6 +3401,14 @@
       "onboard_time": 1767332060,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 304777,
+      "num": 215729,
+      "word": "这竟然是杨玏",
+      "onboard_time": 1767760522,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 304212,
@@ -3787,6 +3819,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 275727,
+      "num": 197211,
+      "word": "原来鼻炎会影响一个人的身高长相",
+      "onboard_time": 1767759440,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 275658,
       "num": 199691,
       "word": "孩子妈曝童锦程想毁灭证据",
@@ -4049,14 +4089,6 @@
       "onboard_time": 1767250999,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 261726,
-      "num": 230649,
-      "word": "小米称此次事件严重伤害米粉感情",
-      "onboard_time": 1767753260,
-      "rank": 9,
-      "category": "互联网"
     },
     {
       "raw_hot": 261107,
@@ -4779,6 +4811,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 221376,
+      "num": 196928,
+      "word": "kiv Sakee",
+      "onboard_time": 1767760163,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220600,
       "num": 181418,
       "word": "特斯拉推出7年超低息购车",
@@ -5051,6 +5091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 209358,
+      "num": 209358,
+      "word": "王鹤棣DPARTY演唱会",
+      "onboard_time": 1767760342,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 208969,
       "num": 1730508,
       "word": "车厘子J是啥意思",
@@ -5131,6 +5179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207830,
+      "num": 196819,
+      "word": "杨紫素颜live照",
+      "onboard_time": 1767761182,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207813,
       "num": 740407,
       "word": "陈妍希新喜综被东北人包围了",
@@ -5193,6 +5249,14 @@
       "onboard_time": 1767257842,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 205908,
+      "num": 196379,
+      "word": "大爷拍的素颜巴黎火了",
+      "onboard_time": 1767760942,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205823,
@@ -5395,6 +5459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198697,
+      "num": 196255,
+      "word": "李在明发文",
+      "onboard_time": 1767760342,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 198604,
       "num": 198604,
       "word": "鹅鸭杀登顶多平台预约榜",
@@ -5409,6 +5481,14 @@
       "onboard_time": 1767686661,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198237,
+      "num": 206285,
+      "word": "宋威龙从梦花廷被争取到了骄阳似我",
+      "onboard_time": 1767755180,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 198081,
@@ -5507,6 +5587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196155,
+      "num": 196155,
+      "word": "郭可盈婉拒15岁女儿出道",
+      "onboard_time": 1767760403,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195692,
       "num": 779903,
       "word": "湖人战胜鹈鹕",
@@ -5544,6 +5632,14 @@
       "word": "唐嫣你别演了我害怕",
       "onboard_time": 1767503303,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 195324,
+      "num": 192194,
+      "word": "你是王安宇那他是谁",
+      "onboard_time": 1767760403,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -5673,6 +5769,14 @@
       "onboard_time": 1767421587,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192800,
+      "num": 192800,
+      "word": "十年考了十个证只有一个有用",
+      "onboard_time": 1767759683,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 192047,
@@ -5809,6 +5913,14 @@
       "onboard_time": 1767198386,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188881,
+      "num": 188881,
+      "word": "檀健次被确诊陪伴型人格",
+      "onboard_time": 1767760882,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 188383,
@@ -6539,6 +6651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 172468,
+      "num": 172468,
+      "word": "迪丽热巴红秀油画公主大片",
+      "onboard_time": 1767761123,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172263,
       "num": 539818,
       "word": "林依轮 姜平也是聂曦光唯一的舅舅",
@@ -6939,6 +7059,14 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 165219,
+      "num": 165219,
+      "word": "26岁男子跳桥身亡家属发声",
+      "onboard_time": 1767759323,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164877,
       "num": 450860,
       "word": "寻秦记 大大方方为情怀买单",
@@ -7073,6 +7201,14 @@
       "onboard_time": 1767224237,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 162984,
+      "num": 230552,
+      "word": "男子被咬不在意次日狗亡紧急打针",
+      "onboard_time": 1767759201,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162979,
@@ -7403,6 +7539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156963,
+      "num": 197429,
+      "word": "LPL官网移除RNG和FPX",
+      "onboard_time": 1767759503,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 156774,
       "num": 189372,
       "word": "龚俊 别信票务的签名照",
@@ -7425,6 +7569,14 @@
       "onboard_time": 1767243319,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 156311,
+      "num": 198113,
+      "word": "雷军宣布今晚8点直播",
+      "onboard_time": 1767760644,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 156168,
@@ -7569,14 +7721,6 @@
       "onboard_time": 1767608840,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153059,
-      "num": 206285,
-      "word": "宋威龙从梦花廷被争取到了骄阳似我",
-      "onboard_time": 1767755180,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 152903,
@@ -7787,6 +7931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149364,
+      "num": 149364,
+      "word": "陈星旭单手抱卢昱晓猫的树先嗑",
+      "onboard_time": 1767761541,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149216,
       "num": 149216,
       "word": "空枪",
@@ -7801,6 +7953,14 @@
       "onboard_time": 1767610102,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148727,
+      "num": 196715,
+      "word": "36元一碗和府捞面被曝是预制的",
+      "onboard_time": 1767760522,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148712,
@@ -7921,6 +8081,14 @@
       "onboard_time": 1767314598,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 146407,
+      "num": 146407,
+      "word": "迪丽热巴熠熠生光",
+      "onboard_time": 1767760644,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 146303,
@@ -8145,6 +8313,14 @@
       "onboard_time": 1767537085,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 142542,
+      "num": 142542,
+      "word": "Digi Ghetto",
+      "onboard_time": 1767761902,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 142366,
@@ -8585,14 +8761,6 @@
       "onboard_time": 1767612741,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136747,
-      "num": 136747,
-      "word": "芒果综艺遇到罢录嘉宾",
-      "onboard_time": 1767758002,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 136705,
@@ -10819,6 +10987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108785,
+      "num": 188877,
+      "word": "七七首次在机场被粉丝接机",
+      "onboard_time": 1767761723,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108764,
       "num": 108764,
       "word": "多方回应5岁男童小区内遇害",
@@ -11204,7 +11380,7 @@
     },
     {
       "raw_hot": 105001,
-      "num": 144379,
+      "num": 198265,
       "word": "高德向100万小商家免费开放飞行街景",
       "onboard_time": 1767758661,
       "rank": 33,
@@ -13843,6 +14019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 83912,
+      "num": 188877,
+      "word": "杨幂随时随地唱茉莉雨",
+      "onboard_time": 1767761605,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83903,
       "num": 248684,
       "word": "香港人第一次搓澡的体验",
@@ -14995,6 +15179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 70638,
+      "num": 198433,
+      "word": "7800元始祖鸟限定款二手遇冷",
+      "onboard_time": 1767761062,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70458,
       "num": 737604,
       "word": "咪为什么喜欢把尾巴圈在脚上",
@@ -15995,6 +16187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 59901,
+      "num": 198075,
+      "word": "和府捞面 只有面现煮",
+      "onboard_time": 1767761782,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59689,
       "num": 132545,
       "word": "只有爸爸听进去了",
@@ -16105,6 +16305,14 @@
       "onboard_time": 1767714321,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 58580,
+      "num": 137954,
+      "word": "国台办已公布台独顽固分子14人",
+      "onboard_time": 1767761961,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 58494,
@@ -16284,7 +16492,7 @@
     },
     {
       "raw_hot": 56541,
-      "num": 647674,
+      "num": 667094,
       "word": "绿色消费20条与你我密切相关",
       "onboard_time": 1767756622,
       "rank": 2,
@@ -16537,6 +16745,14 @@
       "onboard_time": 1767685041,
       "rank": 19,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 53294,
+      "num": 188877,
+      "word": "救孙伤人服刑8月获国赔17万元",
+      "onboard_time": 1767760583,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53272,
@@ -18168,6 +18384,14 @@
       "word": "假期2天海南离岛免税购物5亿元",
       "onboard_time": 1767427226,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34763,
+      "num": 198251,
+      "word": "张家界 猴子监工",
+      "onboard_time": 1767761062,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
