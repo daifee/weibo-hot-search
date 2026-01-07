@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767764970133,
+  "endTime": 1767768275963,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -443,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 928196,
+      "num": 1148511,
+      "word": "和府捞面 只有面现煮",
+      "onboard_time": 1767761782,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 922373,
       "num": 1147579,
       "word": "父亲凌晨去世邻居听到鞭炮声后赶来",
@@ -673,14 +681,6 @@
       "onboard_time": 1767338359,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 768340,
-      "num": 1122934,
-      "word": "和府捞面 只有面现煮",
-      "onboard_time": 1767761782,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 768109,
@@ -1185,6 +1185,14 @@
       "onboard_time": 1767536244,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 576601,
+      "num": 847727,
+      "word": "宜家宣布关闭7家门店",
+      "onboard_time": 1767764303,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 574191,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767228139,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 404975,
-      "num": 404975,
-      "word": "宝马官宣降价",
-      "onboard_time": 1767502584,
-      "rank": 18,
-      "category": "汽车"
     }
   ],
   "hotgov_list": [

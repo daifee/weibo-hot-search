@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/07 13:49:30
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/07 14:44:35
 </p>
 </blockquote>
 <p>
@@ -345,6 +345,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%BA%9C%E6%8D%9E%E9%9D%A2%20%E5%8F%AA%E6%9C%89%E9%9D%A2%E7%8E%B0%E7%85%AE%23" target="weibo">
+和府捞面 只有面现煮（热度：928196）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%87%8C%E6%99%A8%E5%8E%BB%E4%B8%96%E9%82%BB%E5%B1%85%E5%90%AC%E5%88%B0%E9%9E%AD%E7%82%AE%E5%A3%B0%E5%90%8E%E8%B5%B6%E6%9D%A5%23" target="weibo">
 父亲凌晨去世邻居听到鞭炮声后赶来（热度：922373）
 </a>
@@ -515,12 +521,6 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%88%91%E6%84%8F%E8%AF%86%E5%88%B0%E5%A7%9A%E6%99%A8%E5%9C%A8%E5%8F%91%E5%9C%A3%E5%9C%B0%E5%B7%A1%E7%A4%BC%E7%9A%84%E6%97%B6%E5%80%99%23" target="weibo">
 当我意识到姚晨在发圣地巡礼的时候（热度：776597）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%BA%9C%E6%8D%9E%E9%9D%A2%20%E5%8F%AA%E6%9C%89%E9%9D%A2%E7%8E%B0%E7%85%AE%23" target="weibo">
-和府捞面 只有面现煮（热度：768340）
 </a>
 </li>
 
@@ -899,6 +899,12 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%98%E8%AF%97%E6%9B%BC%E9%BB%84%E5%AE%97%E6%B3%BD%E6%8C%BD%E6%89%8B%E8%B5%B0%E7%BA%A2%E6%AF%AF%23" target="weibo">
 佘诗曼黄宗泽挽手走红毯（热度：578258）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9C%E5%AE%B6%E5%AE%A3%E5%B8%83%E5%85%B3%E9%97%AD7%E5%AE%B6%E9%97%A8%E5%BA%97%23" target="weibo">
+宜家宣布关闭7家门店（热度：576601）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ iPhone没有一个按键是多余的（热度：420534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%AA%E5%A5%87%E7%89%A9%E8%AF%AD%23" target="weibo">
 怪奇物语（热度：405001）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E9%A9%AC%E5%AE%98%E5%AE%A3%E9%99%8D%E4%BB%B7%23" target="weibo">
-宝马官宣降价（热度：404975）
 </a>
 </li>
 
