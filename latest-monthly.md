@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/07 13:33:44
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/07 13:49:30
 </p>
 </blockquote>
 <p>
@@ -519,6 +519,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%BA%9C%E6%8D%9E%E9%9D%A2%20%E5%8F%AA%E6%9C%89%E9%9D%A2%E7%8E%B0%E7%85%AE%23" target="weibo">
+和府捞面 只有面现煮（热度：768340）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%20%E8%A4%AA%E9%BB%91%E7%B4%A0%23" target="weibo">
 车厘子 褪黑素（热度：768109）
 </a>
@@ -671,12 +677,6 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%92%E7%9A%87%E5%90%8E%E6%89%AE%E6%BC%94%E8%80%85%E8%A2%AB%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B9%90%E5%9B%AD%E8%BE%9E%E9%80%80%23" target="weibo">
 毒皇后扮演者被迪士尼乐园辞退（热度：663329）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%BA%9C%E6%8D%9E%E9%9D%A2%20%E5%8F%AA%E6%9C%89%E9%9D%A2%E7%8E%B0%E7%85%AE%23" target="weibo">
-和府捞面 只有面现煮（热度：653034）
 </a>
 </li>
 
@@ -843,6 +843,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%B4%A0%E9%A2%9Clive%E7%85%A7%23" target="weibo">
+杨紫素颜live照（热度：588214）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%81%E6%AD%A2%E6%89%80%E6%9C%89%E4%B8%A4%E7%94%A8%E7%89%A9%E9%A1%B9%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%86%9B%E4%BA%8B%E7%94%A8%E9%80%94%E5%87%BA%E5%8F%A3%23" target="weibo">
 禁止所有两用物项对日本军事用途出口（热度：585184）
 </a>
@@ -953,12 +959,6 @@ Sakee Asen（热度：556725）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%BD%E7%BA%A6%E5%B8%82%E9%95%BF%E5%B7%B2%E8%87%B4%E7%94%B5%E7%89%B9%E6%9C%97%E6%99%AE%23" target="weibo">
 纽约市长已致电特朗普（热度：554359）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%B4%A0%E9%A2%9Clive%E7%85%A7%23" target="weibo">
-杨紫素颜live照（热度：550685）
 </a>
 </li>
 
@@ -1163,6 +1163,12 @@ TVB颁奖典礼（热度：518643）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E7%9A%84%E6%BC%94%E5%91%98%E6%88%90%E5%8A%9F%E7%9A%84%E8%AE%A9%E6%88%91%E6%88%92%E6%8E%89%E4%BA%86%E7%94%B5%E8%A7%86%E5%89%A7%23" target="weibo">
 现在的演员成功的让我戒掉了电视剧（热度：515317）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%8F%91%E6%96%87%23" target="weibo">
+李在明发文（热度：511362）
 </a>
 </li>
 
@@ -1617,12 +1623,6 @@ iPhone千万别删的自带软件（热度：474519）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%8F%91%E6%96%87%23" target="weibo">
-李在明发文（热度：442362）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E6%92%9E%E8%84%B8%E6%9D%A8%E7%B4%AB%E7%88%86%E7%BA%A2%23" target="weibo">
 交警回应撞脸杨紫爆红（热度：441518）
 </a>
@@ -1871,6 +1871,12 @@ loveissoap说童锦程配不上她（热度：394705）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E6%97%8F%E9%95%BF%E8%B5%90%E8%B5%9E%23" target="weibo">
 王俊凯 族长赐赞（热度：393843）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%237800%E5%85%83%E5%A7%8B%E7%A5%96%E9%B8%9F%E9%99%90%E5%AE%9A%E6%AC%BE%E4%BA%8C%E6%89%8B%E9%81%87%E5%86%B7%23" target="weibo">
+7800元始祖鸟限定款二手遇冷（热度：393141）
 </a>
 </li>
 
@@ -2147,6 +2153,12 @@ FMVP皮肤（热度：362967）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%9A%E5%A7%8B%E7%A5%96%E9%B8%9F%E5%BA%97%E6%8E%92%E9%95%BF%E9%98%9F%E6%8A%A2%E8%B4%AD%E7%A7%8B%E5%86%AC%E6%AC%BE%23" target="weibo">
 三亚始祖鸟店排长队抢购秋冬款（热度：356784）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%96%E7%91%9E%E9%B9%8F%20%E9%98%BF%E4%B8%83%E6%98%AF%E7%8B%90%E7%8B%B8%E4%B8%8D%E6%98%AF%E7%8C%AB%23" target="weibo">
+敖瑞鹏 阿七是狐狸不是猫（热度：356698）
 </a>
 </li>
 
@@ -2895,6 +2907,12 @@ TVB第一个打烂奖杯（热度：318351）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E5%92%AC%E4%B8%8D%E5%9C%A8%E6%84%8F%E6%AC%A1%E6%97%A5%E7%8B%97%E4%BA%A1%E7%B4%A7%E6%80%A5%E6%89%93%E9%92%88%23" target="weibo">
+男子被咬不在意次日狗亡紧急打针（热度：275908）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%BC%BB%E7%82%8E%E4%BC%9A%E5%BD%B1%E5%93%8D%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E8%BA%AB%E9%AB%98%E9%95%BF%E7%9B%B8%23" target="weibo">
 原来鼻炎会影响一个人的身高长相（热度：275727）
 </a>
@@ -3387,6 +3405,12 @@ eStarPro官宣Fly加入（热度：258939）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%85%8D%E8%B4%B9%E6%8C%96%E7%8E%89%E7%88%86%E7%81%AB%23" target="weibo">
+郑州免费挖玉爆火（热度：238752）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%85%E6%96%87%E5%A9%A7%E7%98%A6%E5%9B%9E%E6%80%80%E5%AD%95%E5%89%8D%E4%BD%93%E9%87%8D%23" target="weibo">
 包文婧瘦回怀孕前体重（热度：238122）
 </a>
@@ -3401,6 +3425,12 @@ eStarPro官宣Fly加入（热度：258939）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E6%AD%8C%E6%89%8B%E7%94%A8%E6%AD%8C%E5%9B%9E%E5%87%BB%E8%BF%99%E4%B9%88%E7%88%BD%23" target="weibo">
 第一次见歌手用歌回击这么爽（热度：237504）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E6%9D%8E%E5%B9%BC%E6%96%8C%E6%80%AA%E4%B8%8D%E5%BE%97%E4%BD%A0%E4%BF%A9%E8%83%BD%E7%8E%A9%E5%9C%A8%E4%B8%80%E8%B5%B7%23" target="weibo">
+林更新李幼斌怪不得你俩能玩在一起（热度：235971）
 </a>
 </li>
 
@@ -3437,12 +3467,6 @@ eStarPro官宣Fly加入（热度：258939）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%9D%E7%86%A0%E7%84%B6%E4%BA%91%E6%97%97%E7%9B%B4%E6%92%AD%E5%94%B1%E6%AD%8C%23" target="weibo">
 郝熠然云旗直播唱歌（热度：233595）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%237800%E5%85%83%E5%A7%8B%E7%A5%96%E9%B8%9F%E9%99%90%E5%AE%9A%E6%AC%BE%E4%BA%8C%E6%89%8B%E9%81%87%E5%86%B7%23" target="weibo">
-7800元始祖鸟限定款二手遇冷（热度：233252）
 </a>
 </li>
 
@@ -3645,12 +3669,6 @@ FGO（热度：222295）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E5%92%AC%E4%B8%8D%E5%9C%A8%E6%84%8F%E6%AC%A1%E6%97%A5%E7%8B%97%E4%BA%A1%E7%B4%A7%E6%80%A5%E6%89%93%E9%92%88%23" target="weibo">
-男子被咬不在意次日狗亡紧急打针（热度：221623）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23kiv%20Sakee%23" target="weibo">
 kiv Sakee（热度：221376）
 </a>
@@ -3701,12 +3719,6 @@ DRG官宣早点退役（热度：219465）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%AF%B9%E5%BC%A0%E8%89%BA%E5%87%A1%E5%96%8A303%23" target="weibo">
 范丞丞对张艺凡喊303（热度：217985）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%96%E7%91%9E%E9%B9%8F%20%E9%98%BF%E4%B8%83%E6%98%AF%E7%8B%90%E7%8B%B8%E4%B8%8D%E6%98%AF%E7%8C%AB%23" target="weibo">
-敖瑞鹏 阿七是狐狸不是猫（热度：217714）
 </a>
 </li>
 
@@ -3873,6 +3885,12 @@ cp最好嗑的是烂人真心（热度：212262）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9C%E5%AE%B6%E5%AE%A3%E5%B8%83%E5%85%B3%E9%97%AD7%E5%AE%B6%E9%97%A8%E5%BA%97%23" target="weibo">
+宜家宣布关闭7家门店（热度：209216）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90J%E6%98%AF%E5%95%A5%E6%84%8F%E6%80%9D%23" target="weibo">
 车厘子J是啥意思（热度：208969）
 </a>
@@ -4031,12 +4049,6 @@ cp最好嗑的是烂人真心（热度：212262）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%88%9D%E4%BB%A4%23" target="weibo">
 云初令（热度：203135）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E6%9D%8E%E5%B9%BC%E6%96%8C%E6%80%AA%E4%B8%8D%E5%BE%97%E4%BD%A0%E4%BF%A9%E8%83%BD%E7%8E%A9%E5%9C%A8%E4%B8%80%E8%B5%B7%23" target="weibo">
-林更新李幼斌怪不得你俩能玩在一起（热度：202922）
 </a>
 </li>
 
@@ -5775,6 +5787,12 @@ LPL官网移除RNG和FPX（热度：156963）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E8%AF%A1%E5%9B%A2%E5%BB%BA%E5%B1%85%E7%84%B6%E6%8A%8A%E5%8D%A2%E5%87%8C%E9%A3%8E%E8%90%BD%E4%B8%8B%E4%BA%86%23" target="weibo">
+唐诡团建居然把卢凌风落下了（热度：155489）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%88%86%E4%BA%AB%E4%B8%AD%E5%9B%BD%E8%A1%8C%E9%A6%96%E6%97%A5%E8%A7%86%E9%A2%91%23" target="weibo">
 李在明分享中国行首日视频（热度：155448）
 </a>
@@ -5993,24 +6011,6 @@ Gala决赛给Wei放狠话（热度：152310）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%98%9F%E6%97%AD%E5%8D%95%E6%89%8B%E6%8A%B1%E5%8D%A2%E6%98%B1%E6%99%93%E7%8C%AB%E7%9A%84%E6%A0%91%E5%85%88%E5%97%91%23" target="weibo">
 陈星旭单手抱卢昱晓猫的树先嗑（热度：149364）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A9%BA%E6%9E%AA%23" target="weibo">
-空枪（热度：149216）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23sakee%20asen%23" target="weibo">
-sakee asen（热度：148966）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2336%E5%85%83%E4%B8%80%E7%A2%97%E5%92%8C%E5%BA%9C%E6%8D%9E%E9%9D%A2%E8%A2%AB%E6%9B%9D%E6%98%AF%E9%A2%84%E5%88%B6%E7%9A%84%23" target="weibo">
-36元一碗和府捞面被曝是预制的（热度：148727）
 </a>
 </li>
 

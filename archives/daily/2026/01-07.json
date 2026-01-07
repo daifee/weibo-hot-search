@@ -1,6 +1,6 @@
 {
   "startTime": 1767717567538,
-  "endTime": 1767764024206,
+  "endTime": 1767764970133,
   "band_list": [
     {
       "raw_hot": 2704539,
@@ -43,6 +43,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 768340,
+      "num": 1122934,
+      "word": "和府捞面 只有面现煮",
+      "onboard_time": 1767761782,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 742676,
       "num": 361311,
       "word": "女儿眼中已婚已孕已离的妈妈",
@@ -59,20 +67,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 653034,
-      "num": 792837,
-      "word": "和府捞面 只有面现煮",
-      "onboard_time": 1767761782,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 612160,
       "num": 1097945,
       "word": "小米SU7",
       "onboard_time": 1767756440,
       "rank": 0,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 588214,
+      "num": 196819,
+      "word": "杨紫素颜live照",
+      "onboard_time": 1767761182,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 558510,
@@ -88,14 +96,6 @@
       "word": "Sakee Asen",
       "onboard_time": 1767757341,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 550685,
-      "num": 196819,
-      "word": "杨紫素颜live照",
-      "onboard_time": 1767761182,
-      "rank": 29,
       "category": "艺人"
     },
     {
@@ -145,6 +145,14 @@
       "onboard_time": 1767747382,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 511362,
+      "num": 511362,
+      "word": "李在明发文",
+      "onboard_time": 1767760342,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 509011,
@@ -203,12 +211,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 442362,
-      "num": 442362,
-      "word": "李在明发文",
-      "onboard_time": 1767760342,
-      "rank": 33,
-      "category": "国际时政"
+      "raw_hot": 393141,
+      "num": 393141,
+      "word": "7800元始祖鸟限定款二手遇冷",
+      "onboard_time": 1767761062,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 372346,
@@ -219,8 +227,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 356698,
+      "num": 238024,
+      "word": "敖瑞鹏 阿七是狐狸不是猫",
+      "onboard_time": 1767762803,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 348865,
-      "num": 221005,
+      "num": 237275,
       "word": "芒果综艺遇到罢录嘉宾",
       "onboard_time": 1767758002,
       "rank": 48,
@@ -339,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275908,
+      "num": 275908,
+      "word": "男子被咬不在意次日狗亡紧急打针",
+      "onboard_time": 1767759201,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 275727,
       "num": 197211,
       "word": "原来鼻炎会影响一个人的身高长相",
@@ -363,12 +387,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 233252,
-      "num": 233252,
-      "word": "7800元始祖鸟限定款二手遇冷",
-      "onboard_time": 1767761062,
-      "rank": 16,
+      "raw_hot": 238752,
+      "num": 238752,
+      "word": "郑州免费挖玉爆火",
+      "onboard_time": 1767762982,
+      "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235971,
+      "num": 235971,
+      "word": "林更新李幼斌怪不得你俩能玩在一起",
+      "onboard_time": 1767763101,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 231427,
@@ -395,28 +427,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221623,
-      "num": 230552,
-      "word": "男子被咬不在意次日狗亡紧急打针",
-      "onboard_time": 1767759201,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 221376,
       "num": 196928,
       "word": "kiv Sakee",
       "onboard_time": 1767760163,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 217714,
-      "num": 217714,
-      "word": "敖瑞鹏 阿七是狐狸不是猫",
-      "onboard_time": 1767762803,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 213798,
@@ -435,20 +451,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 209216,
+      "num": 209216,
+      "word": "宜家宣布关闭7家门店",
+      "onboard_time": 1767764303,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205908,
       "num": 196379,
       "word": "大爷拍的素颜巴黎火了",
       "onboard_time": 1767760942,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 202922,
-      "num": 202922,
-      "word": "林更新李幼斌怪不得你俩能玩在一起",
-      "onboard_time": 1767763101,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 199159,
@@ -635,6 +651,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 155489,
+      "num": 141356,
+      "word": "唐诡团建居然把卢凌风落下了",
+      "onboard_time": 1767763702,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155422,
       "num": 138654,
       "word": "日本流行梅毒妆",
@@ -657,6 +681,14 @@
       "onboard_time": 1767760522,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147769,
+      "num": 147769,
+      "word": "陆虎吃完菌子的精神状态",
+      "onboard_time": 1767764121,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 146407,
@@ -803,14 +835,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 121191,
-      "num": 121191,
-      "word": "唐诡团建居然把卢凌风落下了",
-      "onboard_time": 1767763702,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 118700,
       "num": 144526,
       "word": "云南曲靖3.4级地震",
@@ -843,6 +867,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 116464,
+      "num": 116464,
+      "word": "DNF打团热身神曲来了",
+      "onboard_time": 1767764061,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114606,
       "num": 144457,
       "word": "菲律宾巴库林地区6.7级地震",
@@ -867,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109215,
+      "num": 109215,
+      "word": "原来AirPods是这样换电池的",
+      "onboard_time": 1767763642,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 108785,
       "num": 188877,
       "word": "七七首次在机场被粉丝接机",
@@ -881,6 +921,14 @@
       "onboard_time": 1767745520,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107474,
+      "num": 107474,
+      "word": "男子晒爸爸给兄弟三人分的自建房",
+      "onboard_time": 1767763281,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 107207,
@@ -921,14 +969,6 @@
       "onboard_time": 1767763881,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 104145,
-      "num": 104145,
-      "word": "男子晒爸爸给兄弟三人分的自建房",
-      "onboard_time": 1767763281,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 104131,
@@ -1001,6 +1041,14 @@
       "onboard_time": 1767758781,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94834,
+      "num": 94834,
+      "word": "Ale少了一颗门牙",
+      "onboard_time": 1767764602,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 93702,
@@ -1113,14 +1161,6 @@
       "onboard_time": 1767761605,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 81045,
-      "num": 147876,
-      "word": "郑州免费挖玉爆火",
-      "onboard_time": 1767762982,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80478,
@@ -1403,6 +1443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46947,
+      "num": 149036,
+      "word": "远洋渔船船长公海遇害嫌犯死刑",
+      "onboard_time": 1767764182,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46686,
       "num": 100410,
       "word": "高校通报网传2研究生被迫退学",
@@ -1465,6 +1513,14 @@
       "onboard_time": 1767713121,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 38338,
+      "num": 148013,
+      "word": "免税店商品打骨折仍有39.5%毛利率",
+      "onboard_time": 1767763582,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37399,
@@ -1579,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20113,
+      "num": 114973,
+      "word": "徐峥任素汐领衔主演无毒有偶",
+      "onboard_time": 1767764661,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19751,
       "num": 51182,
       "word": "檀健次Get唱歌去处",
@@ -1601,14 +1665,6 @@
       "onboard_time": 1767723315,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 14219,
-      "num": 148013,
-      "word": "免税店商品打骨折仍有39.5%毛利率",
-      "onboard_time": 1767763582,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13321,

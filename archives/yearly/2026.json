@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767764024206,
+  "endTime": 1767764970133,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -675,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 768340,
+      "num": 1122934,
+      "word": "和府捞面 只有面现煮",
+      "onboard_time": 1767761782,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 768109,
       "num": 1122897,
       "word": "车厘子 褪黑素",
@@ -881,14 +889,6 @@
       "onboard_time": 1767602961,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 653034,
-      "num": 792837,
-      "word": "和府捞面 只有面现煮",
-      "onboard_time": 1767761782,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 651165,
@@ -1107,6 +1107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 588214,
+      "num": 196819,
+      "word": "杨紫素颜live照",
+      "onboard_time": 1767761182,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 585184,
       "num": 1093629,
       "word": "禁止所有两用物项对日本军事用途出口",
@@ -1257,14 +1265,6 @@
       "onboard_time": 1767507262,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 550685,
-      "num": 196819,
-      "word": "杨紫素颜live照",
-      "onboard_time": 1767761182,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 550391,
@@ -1537,6 +1537,14 @@
       "onboard_time": 1767539484,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 511362,
+      "num": 511362,
+      "word": "李在明发文",
+      "onboard_time": 1767760342,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 511287,
@@ -2136,14 +2144,6 @@
       "word": "马杜罗没能进入安全空间",
       "onboard_time": 1767481699,
       "rank": 11,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 442362,
-      "num": 442362,
-      "word": "李在明发文",
-      "onboard_time": 1767760342,
-      "rank": 33,
       "category": "国际时政"
     },
     {
