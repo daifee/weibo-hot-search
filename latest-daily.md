@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/09 00:39:55 ~ 2026/01/09 06:29:40
+本榜单时间：2026/01/09 00:39:55 ~ 2026/01/09 06:46:52
 </p>
 </blockquote>
 <p>
@@ -81,6 +81,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%9C%8B%E7%BE%8A%E5%9C%88%E7%9B%91%E6%8E%A7%E5%8F%91%E7%8E%B0%E5%A6%BB%E5%AD%90%E5%A9%9A%E5%A4%96%E6%83%858%E5%B9%B4%23" target="weibo">
+男子看羊圈监控发现妻子婚外情8年（热度：150812）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Manus%E5%88%9B%E5%A7%8B%E4%BA%BA%23" target="weibo">
 Manus创始人（热度：147531）
 </a>
@@ -107,12 +113,6 @@ Manus创始人（热度：147531）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%20%E5%B0%BF%E4%B8%8D%E6%B9%BF%23" target="weibo">
 海底捞 尿不湿（热度：136294）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%9C%8B%E7%BE%8A%E5%9C%88%E7%9B%91%E6%8E%A7%E5%8F%91%E7%8E%B0%E5%A6%BB%E5%AD%90%E5%A9%9A%E5%A4%96%E6%83%858%E5%B9%B4%23" target="weibo">
-男子看羊圈监控发现妻子婚外情8年（热度：123412）
 </a>
 </li>
 
@@ -207,6 +207,12 @@ Manus 新加坡（热度：111024）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%93%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E4%BA%9A%E8%BF%90%E4%B8%89%E9%87%91%E5%BE%97%E4%B8%BB%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%23" target="weibo">
+体育局回应亚运三金得主实名举报（热度：72843）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E5%8D%8A%E8%A3%B8%E7%94%B7%E6%A8%A1%E5%9C%A8%E5%95%86%E5%9C%BA%E8%B5%B0%E7%A7%80%E8%A2%AB%E8%B4%A8%E7%96%91%E6%93%A6%E8%BE%B9%23" target="weibo">
 多名半裸男模在商场走秀被质疑擦边（热度：66800）
 </a>
@@ -225,8 +231,8 @@ Manus 新加坡（热度：111024）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%93%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E4%BA%9A%E8%BF%90%E4%B8%89%E9%87%91%E5%BE%97%E4%B8%BB%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%23" target="weibo">
-体育局回应亚运三金得主实名举报（热度：60026）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%B0%BF%E5%B8%83%E5%85%A5%E9%94%85%E8%83%8C%E5%90%8E%E6%98%AF%E7%9B%91%E6%8A%A4%E7%BC%BA%E4%BD%8D%23" target="weibo">
+海底捞尿布入锅背后是监护缺位（热度：58551）
 </a>
 </li>
 
@@ -251,12 +257,6 @@ Manus 新加坡（热度：111024）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E4%BD%A0%E9%A9%BE%E9%A9%B6%E8%AF%81%E8%AF%A5%E6%8D%A2%E4%BA%86%23" target="weibo">
 周深你驾驶证该换了（热度：52501）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%B0%BF%E5%B8%83%E5%85%A5%E9%94%85%E8%83%8C%E5%90%8E%E6%98%AF%E7%9B%91%E6%8A%A4%E7%BC%BA%E4%BD%8D%23" target="weibo">
-海底捞尿布入锅背后是监护缺位（热度：48322）
 </a>
 </li>
 
@@ -298,7 +298,7 @@ Manus 新加坡（热度：111024）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%9957%E5%B2%81%E8%BA%AB%E6%9D%90%23" target="weibo">
-伊能静57岁身材（热度：41635）
+伊能静57岁身材（热度：42461）
 </a>
 </li>
 
@@ -363,6 +363,18 @@ Manus 新加坡（热度：111024）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%233%E5%B2%81%E7%94%B7%E7%AB%A5%E5%92%8C%E7%8B%97%E7%9C%8B%E6%8C%96%E6%9C%BA%E8%B5%B0%E5%A4%B1%E6%95%91%E6%8F%B4%E8%80%85%E5%8F%91%E5%A3%B0%23" target="weibo">
+3岁男童和狗看挖机走失救援者发声（热度：25769）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%233%E5%B2%81%E7%94%B7%E7%AB%A5%E7%9C%8B%E6%8C%96%E6%9C%BA%E8%B5%B0%E5%A4%B1%E6%89%BE%E5%88%B0%E6%97%B6%E5%87%BA%E7%8E%B0%E5%A4%B1%E6%B8%A9%23" target="weibo">
+3岁男童看挖机走失找到时出现失温（热度：22328）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%BE%E9%BE%99%E6%89%B9%E8%AF%84%E7%BE%8E%E5%9B%BD%E8%BF%9D%E5%8F%8D%E5%9B%BD%E9%99%85%E6%B3%95%23" target="weibo">
 李显龙批评美国违反国际法（热度：22197）
 </a>
@@ -370,7 +382,7 @@ Manus 新加坡（热度：111024）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%95%E8%AF%95%E6%B2%89%E6%B5%B8%E5%BC%8F%E5%81%9A%E8%87%AA%E5%B7%B1%23" target="weibo">
-试试沉浸式做自己（热度：21388）
+试试沉浸式做自己（热度：21979）
 </a>
 </li>
 
@@ -381,32 +393,20 @@ Meta Manus（热度：20949）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%233%E5%B2%81%E7%94%B7%E7%AB%A5%E5%92%8C%E7%8B%97%E7%9C%8B%E6%8C%96%E6%9C%BA%E8%B5%B0%E5%A4%B1%E6%95%91%E6%8F%B4%E8%80%85%E5%8F%91%E5%A3%B0%23" target="weibo">
-3岁男童和狗看挖机走失救援者发声（热度：20210）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%233%E5%B2%81%E7%94%B7%E7%AB%A5%E7%9C%8B%E6%8C%96%E6%9C%BA%E8%B5%B0%E5%A4%B1%E6%89%BE%E5%88%B0%E6%97%B6%E5%87%BA%E7%8E%B0%E5%A4%B1%E6%B8%A9%23" target="weibo">
-3岁男童看挖机走失找到时出现失温（热度：16966）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E4%BF%9D%E6%96%B0%E4%B8%BE%E6%8E%AA%E4%B8%93%E6%B2%BB%E7%BC%B4%E8%B4%B9%E6%8E%92%E9%95%BF%E9%98%9F%23" target="weibo">
-医保新举措专治缴费排长队（热度：16875）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E5%9B%9E%E5%BA%94%E5%B1%B1%E4%B8%9C%E5%A5%B3%E5%9B%A2%E5%85%A8%E8%BF%90%E4%BC%9A%E6%8A%BD%E7%AD%BE%23" target="weibo">
-陈梦回应山东女团全运会抽签（热度：14861）
+医保新举措专治缴费排长队（热度：20126）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23U23%E4%BA%9A%E6%B4%B2%E6%9D%AF%23" target="weibo">
-U23亚洲杯（热度：14187）
+U23亚洲杯（热度：17486）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E5%9B%9E%E5%BA%94%E5%B1%B1%E4%B8%9C%E5%A5%B3%E5%9B%A2%E5%85%A8%E8%BF%90%E4%BC%9A%E6%8A%BD%E7%AD%BE%23" target="weibo">
+陈梦回应山东女团全运会抽签（热度：16603）
 </a>
 </li>
 

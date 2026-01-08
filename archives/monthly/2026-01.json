@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767911380210,
+  "endTime": 1767912412319,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -19915,6 +19915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 72843,
+      "num": 175594,
+      "word": "体育局回应亚运三金得主实名举报",
+      "onboard_time": 1767889518,
+      "rank": 34,
+      "category": "民生新闻,体育"
+    },
+    {
       "raw_hot": 72757,
       "num": 713776,
       "word": "这3个带马成语太给劲了",
@@ -21355,14 +21363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 60026,
-      "num": 175594,
-      "word": "体育局回应亚运三金得主实名举报",
-      "onboard_time": 1767889518,
-      "rank": 34,
-      "category": "民生新闻,体育"
-    },
-    {
       "raw_hot": 59981,
       "num": 59981,
       "word": "降准降息可期",
@@ -21497,6 +21497,14 @@
       "onboard_time": 1767761961,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 58551,
+      "num": 58551,
+      "word": "海底捞尿布入锅背后是监护缺位",
+      "onboard_time": 1767902833,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58494,
@@ -22489,14 +22497,6 @@
       "onboard_time": 1767423804,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 48322,
-      "num": 48322,
-      "word": "海底捞尿布入锅背后是监护缺位",
-      "onboard_time": 1767902833,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48217,
@@ -24723,6 +24723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25769,
+      "num": 43017,
+      "word": "3岁男童和狗看挖机走失救援者发声",
+      "onboard_time": 1767896835,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25705,
       "num": 155793,
       "word": "美国突袭后委内瑞拉卫星对比图",
@@ -25043,6 +25051,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 21979,
+      "num": 44936,
+      "word": "试试沉浸式做自己",
+      "onboard_time": 1767887719,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 21836,
       "num": 581907,
       "word": "瑞士酒吧火灾遇难者遗体辨认困难",
@@ -25113,14 +25129,6 @@
       "onboard_time": 1767232880,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21388,
-      "num": 44936,
-      "word": "试试沉浸式做自己",
-      "onboard_time": 1767887719,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 21385,
@@ -25251,12 +25259,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 20210,
-      "num": 43017,
-      "word": "3岁男童和狗看挖机走失救援者发声",
-      "onboard_time": 1767896835,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 20126,
+      "num": 295968,
+      "word": "医保新举措专治缴费排长队",
+      "onboard_time": 1767878182,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 20113,
@@ -25339,6 +25347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 17486,
+      "num": 37391,
+      "word": "U23亚洲杯",
+      "onboard_time": 1767885321,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 17372,
       "num": 37616,
       "word": "檀健次新歌外网上线",
@@ -25363,20 +25379,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 16875,
-      "num": 230368,
-      "word": "医保新举措专治缴费排长队",
-      "onboard_time": 1767878182,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 16669,
       "num": 321029,
       "word": "央企重组大动作",
       "onboard_time": 1767883640,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16603,
+      "num": 37378,
+      "word": "陈梦回应山东女团全运会抽签",
+      "onboard_time": 1767898935,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 16560,
@@ -25467,14 +25483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 14861,
-      "num": 31259,
-      "word": "陈梦回应山东女团全运会抽签",
-      "onboard_time": 1767898935,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 14806,
       "num": 727838,
       "word": "9岁女孩给外公连发2年想你",
@@ -25513,14 +25521,6 @@
       "onboard_time": 1767516084,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14187,
-      "num": 28695,
-      "word": "U23亚洲杯",
-      "onboard_time": 1767885321,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 14157,
