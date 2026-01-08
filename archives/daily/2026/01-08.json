@@ -1,6 +1,6 @@
 {
   "startTime": 1767804017084,
-  "endTime": 1767886491750,
+  "endTime": 1767887410460,
   "band_list": [
     {
       "raw_hot": 2608150,
@@ -65,6 +65,14 @@
       "onboard_time": 1767841700,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1015922,
+      "num": 173603,
+      "word": "王橹杰 这次不是草莓蛋糕了",
+      "onboard_time": 1767886341,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 958444,
@@ -136,6 +144,14 @@
       "word": "41岁女子健身断奶茶一年换了张脸",
       "onboard_time": 1767843800,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 640701,
+      "num": 238847,
+      "word": "景德镇被撞宝宝遗容4小时才修复",
+      "onboard_time": 1767882442,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -329,6 +345,14 @@
       "onboard_time": 1767845962,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 431621,
+      "num": 795922,
+      "word": "中国人花六十多万买下北海道三套房",
+      "onboard_time": 1767885380,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 428447,
@@ -603,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 301459,
+      "num": 326331,
+      "word": "海底捞已将被扔尿不湿的锅具废弃",
+      "onboard_time": 1767879742,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 297541,
       "num": 321200,
       "word": "深圳坪山突发山火",
@@ -659,6 +691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 271312,
+      "num": 327577,
+      "word": "男子脖子套绳被女子牵引滑雪",
+      "onboard_time": 1767880042,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 266550,
       "num": 219099,
       "word": "iPhone 13全系开启限时半价换电池",
@@ -707,6 +747,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 247869,
+      "num": 323587,
+      "word": "中产涌入超市抢300元羽绒服",
+      "onboard_time": 1767882623,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244637,
+      "num": 244637,
+      "word": "上海移动已报案",
+      "onboard_time": 1767883822,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242580,
       "num": 166738,
       "word": "悄悄涨价的东西",
@@ -720,14 +776,6 @@
       "word": "父亲被害年幼女儿问妈妈会不会改嫁",
       "onboard_time": 1767853281,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 238847,
-      "num": 238847,
-      "word": "景德镇被撞宝宝遗容4小时才修复",
-      "onboard_time": 1767882442,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -755,6 +803,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 226369,
+      "num": 201017,
+      "word": "张凌赫背林允",
+      "onboard_time": 1767882743,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226094,
       "num": 226094,
       "word": "周深你驾驶证该换了",
@@ -777,14 +833,6 @@
       "onboard_time": 1767870680,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 224388,
-      "num": 327577,
-      "word": "男子脖子套绳被女子牵引滑雪",
-      "onboard_time": 1767880042,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 222090,
@@ -827,14 +875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212917,
-      "num": 326331,
-      "word": "海底捞已将被扔尿不湿的锅具废弃",
-      "onboard_time": 1767879742,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 209249,
       "num": 209249,
       "word": "虞书欣开机应援排面",
@@ -849,6 +889,14 @@
       "onboard_time": 1767861622,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 203563,
+      "num": 203563,
+      "word": "呼和浩特地震",
+      "onboard_time": 1767885561,
+      "rank": 6,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 202986,
@@ -889,14 +937,6 @@
       "onboard_time": 1767836539,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 199809,
-      "num": 199809,
-      "word": "张凌赫背林允",
-      "onboard_time": 1767882743,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 199707,
@@ -985,6 +1025,14 @@
       "onboard_time": 1767861622,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188372,
+      "num": 180986,
+      "word": "李兰迪确认客串千里江山图",
+      "onboard_time": 1767885321,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 186347,
@@ -1099,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162261,
+      "num": 203268,
+      "word": "Manus 新加坡",
+      "onboard_time": 1767885142,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161843,
       "num": 727301,
       "word": "雷军回应KOL事件",
@@ -1203,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149846,
+      "num": 149846,
+      "word": "卢昱晓兔子警官vlog",
+      "onboard_time": 1767886521,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148348,
       "num": 147027,
       "word": "多家车企公布2026年销量目标",
@@ -1267,6 +1331,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 143163,
+      "num": 143163,
+      "word": "陈伟霆让老板给员工涨工资",
+      "onboard_time": 1767886221,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141912,
       "num": 141912,
       "word": "侯明昊衣服换了眼神也换了",
@@ -1289,14 +1361,6 @@
       "onboard_time": 1767864740,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140404,
-      "num": 323587,
-      "word": "中产涌入超市抢300元羽绒服",
-      "onboard_time": 1767882623,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140290,
@@ -1724,7 +1788,7 @@
     },
     {
       "raw_hot": 120069,
-      "num": 120069,
+      "num": 132979,
       "word": "U23国足vs伊拉克U23",
       "onboard_time": 1767883944,
       "rank": 35,
@@ -1841,6 +1905,14 @@
       "onboard_time": 1767869601,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116317,
+      "num": 134470,
+      "word": "鹅鸭杀服务器正在扩容",
+      "onboard_time": 1767886161,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 115493,
@@ -1993,6 +2065,14 @@
       "onboard_time": 1767864320,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 109213,
+      "num": 134195,
+      "word": "虞书欣云初令摔杯路透",
+      "onboard_time": 1767884603,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 108945,
@@ -2332,7 +2412,7 @@
     },
     {
       "raw_hot": 98890,
-      "num": 98890,
+      "num": 132124,
       "word": "一翼装飞行员跃下不到10秒撞上岩石",
       "onboard_time": 1767881542,
       "rank": 43,
@@ -2449,14 +2529,6 @@
       "onboard_time": 1767879561,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96140,
-      "num": 96140,
-      "word": "上海移动已报案",
-      "onboard_time": 1767883822,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96098,
@@ -2947,6 +3019,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 79758,
+      "num": 202363,
+      "word": "Manus创始人",
+      "onboard_time": 1767886761,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79252,
       "num": 79252,
       "word": "2026演员奖提名",
@@ -3147,6 +3227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 68134,
+      "num": 133168,
+      "word": "微博之夜",
+      "onboard_time": 1767885082,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 67067,
       "num": 67067,
       "word": "迪丽热巴2026年开门红",
@@ -3163,6 +3251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66513,
+      "num": 132780,
+      "word": "Meta Manus",
+      "onboard_time": 1767887120,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66237,
       "num": 123310,
       "word": "我承认是我对人之初太大声了",
@@ -3177,6 +3273,22 @@
       "onboard_time": 1767798744,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 65815,
+      "num": 132414,
+      "word": "黄景瑜王传君GIF和JPG",
+      "onboard_time": 1767885922,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 65678,
+      "num": 132080,
+      "word": "罚罪2",
+      "onboard_time": 1767886761,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 65410,
@@ -3241,6 +3353,14 @@
       "onboard_time": 1767857721,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 61819,
+      "num": 131937,
+      "word": "王曼昱回应首局爆分",
+      "onboard_time": 1767885742,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 61681,
@@ -3640,6 +3760,14 @@
       "word": "解锁智能穿戴领域的千亿级市场",
       "onboard_time": 1767845841,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31392,
+      "num": 179030,
+      "word": "华为门店否认请半裸男模跳舞",
+      "onboard_time": 1767886580,
+      "rank": 19,
       "category": "民生新闻"
     },
     {

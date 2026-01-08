@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767886491750,
+  "endTime": 1767887410460,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -273,6 +273,14 @@
       "onboard_time": 1767747923,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1015922,
+      "num": 173603,
+      "word": "王橹杰 这次不是草莓蛋糕了",
+      "onboard_time": 1767886341,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1013556,
@@ -849,6 +857,14 @@
       "onboard_time": 1767618021,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 640701,
+      "num": 238847,
+      "word": "景德镇被撞宝宝遗容4小时才修复",
+      "onboard_time": 1767882442,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 640334,
@@ -2081,6 +2097,14 @@
       "onboard_time": 1767506242,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 431621,
+      "num": 795922,
+      "word": "中国人花六十多万买下北海道三套房",
+      "onboard_time": 1767885380,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 430634,
@@ -3387,6 +3411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 301459,
+      "num": 326331,
+      "word": "海底捞已将被扔尿不湿的锅具废弃",
+      "onboard_time": 1767879742,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 300684,
       "num": 268368,
       "word": "太原一商场马年雕塑被连夜拆除",
@@ -3771,6 +3803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271312,
+      "num": 327577,
+      "word": "男子脖子套绳被女子牵引滑雪",
+      "onboard_time": 1767880042,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 271145,
       "num": 239313,
       "word": "鲁比奥或被选为委内瑞拉总督",
@@ -4139,6 +4179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 247869,
+      "num": 323587,
+      "word": "中产涌入超市抢300元羽绒服",
+      "onboard_time": 1767882623,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246274,
       "num": 460124,
       "word": "多地裁判文书隐去法官姓名和案号",
@@ -4160,6 +4208,14 @@
       "word": "不要在车里放小玩偶了",
       "onboard_time": 1767489323,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244637,
+      "num": 244637,
+      "word": "上海移动已报案",
+      "onboard_time": 1767883822,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -4257,14 +4313,6 @@
       "onboard_time": 1767591503,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 238847,
-      "num": 238847,
-      "word": "景德镇被撞宝宝遗容4小时才修复",
-      "onboard_time": 1767882442,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 238122,
@@ -4507,6 +4555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226369,
+      "num": 201017,
+      "word": "张凌赫背林允",
+      "onboard_time": 1767882743,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226094,
       "num": 226094,
       "word": "周深你驾驶证该换了",
@@ -4569,14 +4625,6 @@
       "onboard_time": 1767792444,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 224388,
-      "num": 327577,
-      "word": "男子脖子套绳被女子牵引滑雪",
-      "onboard_time": 1767880042,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 223525,
@@ -4835,14 +4883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212917,
-      "num": 326331,
-      "word": "海底捞已将被扔尿不湿的锅具废弃",
-      "onboard_time": 1767879742,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 212641,
       "num": 212641,
       "word": "眼泪是庄序最好的医美",
@@ -5059,6 +5099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203563,
+      "num": 203563,
+      "word": "呼和浩特地震",
+      "onboard_time": 1767885561,
+      "rank": 6,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 202986,
       "num": 131794,
       "word": "檀健次文化底蕴",
@@ -5153,14 +5201,6 @@
       "onboard_time": 1767573143,
       "rank": 11,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 199809,
-      "num": 199809,
-      "word": "张凌赫背林允",
-      "onboard_time": 1767882743,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 199707,
@@ -5665,6 +5705,14 @@
       "onboard_time": 1767760882,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 188372,
+      "num": 180986,
+      "word": "李兰迪确认客串千里江山图",
+      "onboard_time": 1767885321,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 187867,
@@ -6731,6 +6779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162261,
+      "num": 203268,
+      "word": "Manus 新加坡",
+      "onboard_time": 1767885142,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162146,
       "num": 162146,
       "word": "Mac回应",
@@ -7187,6 +7243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149846,
+      "num": 149846,
+      "word": "卢昱晓兔子警官vlog",
+      "onboard_time": 1767886521,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149798,
       "num": 534619,
       "word": "日本就中方加强出口管制提出抗议",
@@ -7619,6 +7683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143163,
+      "num": 143163,
+      "word": "陈伟霆让老板给员工涨工资",
+      "onboard_time": 1767886221,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143113,
       "num": 143113,
       "word": "委内瑞拉或出现难民潮",
@@ -7816,14 +7888,6 @@
       "word": "29岁女子呕吐水肿一查患上尿毒症",
       "onboard_time": 1767568157,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140404,
-      "num": 323587,
-      "word": "中产涌入超市抢300元羽绒服",
-      "onboard_time": 1767882623,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -9324,7 +9388,7 @@
     },
     {
       "raw_hot": 120069,
-      "num": 120069,
+      "num": 132979,
       "word": "U23国足vs伊拉克U23",
       "onboard_time": 1767883944,
       "rank": 35,
@@ -9633,6 +9697,14 @@
       "onboard_time": 1767709403,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 116317,
+      "num": 134470,
+      "word": "鹅鸭杀服务器正在扩容",
+      "onboard_time": 1767886161,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 115646,
@@ -10153,6 +10225,14 @@
       "onboard_time": 1767763642,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 109213,
+      "num": 134195,
+      "word": "虞书欣云初令摔杯路透",
+      "onboard_time": 1767884603,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 109124,
@@ -11396,7 +11476,7 @@
     },
     {
       "raw_hot": 98890,
-      "num": 98890,
+      "num": 132124,
       "word": "一翼装飞行员跃下不到10秒撞上岩石",
       "onboard_time": 1767881542,
       "rank": 43,
@@ -11825,14 +11905,6 @@
       "onboard_time": 1767703521,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 96140,
-      "num": 96140,
-      "word": "上海移动已报案",
-      "onboard_time": 1767883822,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96098,
@@ -13819,6 +13891,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 79758,
+      "num": 202363,
+      "word": "Manus创始人",
+      "onboard_time": 1767886761,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79557,
       "num": 89762,
       "word": "特朗普称美国已掌控委内瑞拉",
@@ -14707,6 +14787,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 66513,
+      "num": 132780,
+      "word": "Meta Manus",
+      "onboard_time": 1767887120,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66499,
       "num": 123081,
       "word": "孙俪女儿和狗狗穿兄妹装",
@@ -14729,6 +14817,22 @@
       "onboard_time": 1767617901,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 65815,
+      "num": 132414,
+      "word": "黄景瑜王传君GIF和JPG",
+      "onboard_time": 1767885922,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 65678,
+      "num": 132080,
+      "word": "罚罪2",
+      "onboard_time": 1767886761,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 65234,
@@ -14905,6 +15009,14 @@
       "onboard_time": 1767857721,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 61819,
+      "num": 131937,
+      "word": "王曼昱回应首局爆分",
+      "onboard_time": 1767885742,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 61696,
@@ -16479,6 +16591,14 @@
       "num": 172456,
       "word": "和府捞面否认是预制菜",
       "onboard_time": 1767771622,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31392,
+      "num": 179030,
+      "word": "华为门店否认请半裸男模跳舞",
+      "onboard_time": 1767886580,
       "rank": 19,
       "category": "民生新闻"
     },
