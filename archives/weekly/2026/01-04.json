@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767890395081,
+  "endTime": 1767891407564,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -5691,6 +5691,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 189532,
+      "num": 200980,
+      "word": "再也不去理发店洗头了",
+      "onboard_time": 1767888740,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189347,
       "num": 189347,
       "word": "殷世航曝某三千万粉丝网红打人",
@@ -7387,6 +7395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147531,
+      "num": 217733,
+      "word": "Manus创始人",
+      "onboard_time": 1767886761,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147513,
       "num": 157635,
       "word": "女孩写试卷时昏倒去世家属不忍尸检",
@@ -7553,14 +7569,6 @@
       "onboard_time": 1767707723,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 145571,
-      "num": 217733,
-      "word": "Manus创始人",
-      "onboard_time": 1767886761,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145375,
@@ -8473,14 +8481,6 @@
       "onboard_time": 1767696742,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 131957,
-      "num": 200980,
-      "word": "再也不去理发店洗头了",
-      "onboard_time": 1767888740,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 131891,
@@ -16369,6 +16369,14 @@
       "onboard_time": 1767511521,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 35421,
+      "num": 154136,
+      "word": "高校建议高数成绩落后家长陪读",
+      "onboard_time": 1767890597,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35160,

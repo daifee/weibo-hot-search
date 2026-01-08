@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/09 00:39:55 ~ 2026/01/09 00:39:55
+本榜单时间：2026/01/09 00:39:55 ~ 2026/01/09 00:56:47
 </p>
 </blockquote>
 <p>
@@ -69,6 +69,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E4%B9%9F%E4%B8%8D%E5%8E%BB%E7%90%86%E5%8F%91%E5%BA%97%E6%B4%97%E5%A4%B4%E4%BA%86%23" target="weibo">
+再也不去理发店洗头了（热度：189532）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%E7%A1%AE%E8%AE%A4%E5%AE%A2%E4%B8%B2%E5%8D%83%E9%87%8C%E6%B1%9F%E5%B1%B1%E5%9B%BE%23" target="weibo">
 李兰迪确认客串千里江山图（热度：176450）
 </a>
@@ -76,7 +82,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Manus%E5%88%9B%E5%A7%8B%E4%BA%BA%23" target="weibo">
-Manus创始人（热度：145571）
+Manus创始人（热度：147531）
 </a>
 </li>
 
@@ -95,12 +101,6 @@ Manus创始人（热度：145571）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%20%E5%B0%BF%E4%B8%8D%E6%B9%BF%23" target="weibo">
 海底捞 尿不湿（热度：136294）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E4%B9%9F%E4%B8%8D%E5%8E%BB%E7%90%86%E5%8F%91%E5%BA%97%E6%B4%97%E5%A4%B4%E4%BA%86%23" target="weibo">
-再也不去理发店洗头了（热度：131957）
 </a>
 </li>
 
@@ -292,7 +292,7 @@ iPhone18Pro系列影像测试配置（热度：79790）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%8D%E9%81%A5%23" target="weibo">
-逍遥（热度：39781）
+逍遥（热度：41417）
 </a>
 </li>
 
@@ -305,6 +305,12 @@ iPhone18Pro系列影像测试配置（热度：79790）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%23" target="weibo">
 微博之夜（热度：36087）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%BB%BA%E8%AE%AE%E9%AB%98%E6%95%B0%E6%88%90%E7%BB%A9%E8%90%BD%E5%90%8E%E5%AE%B6%E9%95%BF%E9%99%AA%E8%AF%BB%23" target="weibo">
+高校建议高数成绩落后家长陪读（热度：35421）
 </a>
 </li>
 

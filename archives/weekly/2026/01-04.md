@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/04 00:34:09 ~ 2026/01/09 00:39:55
+本榜单时间：2026/01/04 00:34:09 ~ 2026/01/09 00:56:47
 </p>
 </blockquote>
 <p>
@@ -4281,6 +4281,12 @@ nova15成美妆试色专用机（热度：190693）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E4%B9%9F%E4%B8%8D%E5%8E%BB%E7%90%86%E5%8F%91%E5%BA%97%E6%B4%97%E5%A4%B4%E4%BA%86%23" target="weibo">
+再也不去理发店洗头了（热度：189532）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AE%B7%E4%B8%96%E8%88%AA%E6%9B%9D%E6%9F%90%E4%B8%89%E5%8D%83%E4%B8%87%E7%B2%89%E4%B8%9D%E7%BD%91%E7%BA%A2%E6%89%93%E4%BA%BA%23" target="weibo">
 殷世航曝某三千万粉丝网红打人（热度：189347）
 </a>
@@ -5553,6 +5559,12 @@ sakee asen（热度：148966）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Manus%E5%88%9B%E5%A7%8B%E4%BA%BA%23" target="weibo">
+Manus创始人（热度：147531）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%86%99%E8%AF%95%E5%8D%B7%E6%97%B6%E6%98%8F%E5%80%92%E5%8E%BB%E4%B8%96%E5%AE%B6%E5%B1%9E%E4%B8%8D%E5%BF%8D%E5%B0%B8%E6%A3%80%23" target="weibo">
 女孩写试卷时昏倒去世家属不忍尸检（热度：147513）
 </a>
@@ -5675,12 +5687,6 @@ realme宣布回归OPPO（热度：147182）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E9%80%80%E5%BD%B9%E5%8F%91%E6%96%87%23" target="weibo">
 武大靖退役发文（热度：146036）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Manus%E5%88%9B%E5%A7%8B%E4%BA%BA%23" target="weibo">
-Manus创始人（热度：145571）
 </a>
 </li>
 
@@ -6365,12 +6371,6 @@ ChatGPT发布美国版蚂蚁阿福（热度：133455）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%A7%A6%E6%91%B8%E7%96%91%E4%BC%BC%E5%B8%83%E7%97%85%E6%B5%81%E4%BA%A7%E7%BE%8A%E7%BE%94%23" target="weibo">
 网友触摸疑似布病流产羊羔（热度：132359）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E4%B9%9F%E4%B8%8D%E5%8E%BB%E7%90%86%E5%8F%91%E5%BA%97%E6%B4%97%E5%A4%B4%E4%BA%86%23" target="weibo">
-再也不去理发店洗头了（热度：131957）
 </a>
 </li>
 
@@ -12287,6 +12287,12 @@ Bin红温（热度：40110）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%88%E5%A4%9A%E5%8F%A4%E5%B7%B4%E4%BA%BA%E5%9C%A8%E7%BE%8E%E5%86%9B%E8%A1%8C%E5%8A%A8%E4%B8%AD%E4%B8%A7%E7%94%9F%23" target="weibo">
 很多古巴人在美军行动中丧生（热度：35527）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%BB%BA%E8%AE%AE%E9%AB%98%E6%95%B0%E6%88%90%E7%BB%A9%E8%90%BD%E5%90%8E%E5%AE%B6%E9%95%BF%E9%99%AA%E8%AF%BB%23" target="weibo">
+高校建议高数成绩落后家长陪读（热度：35421）
 </a>
 </li>
 

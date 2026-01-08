@@ -1,6 +1,6 @@
 {
   "startTime": 1767890395081,
-  "endTime": 1767890395081,
+  "endTime": 1767891407564,
   "band_list": [
     {
       "raw_hot": 1118560,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189532,
+      "num": 200980,
+      "word": "再也不去理发店洗头了",
+      "onboard_time": 1767888740,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 176450,
       "num": 176450,
       "word": "李兰迪确认客串千里江山图",
@@ -83,7 +91,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145571,
+      "raw_hot": 147531,
       "num": 217733,
       "word": "Manus创始人",
       "onboard_time": 1767886761,
@@ -113,14 +121,6 @@
       "onboard_time": 1767870680,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 131957,
-      "num": 200980,
-      "word": "再也不去理发店洗头了",
-      "onboard_time": 1767888740,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 123412,
@@ -371,7 +371,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 39781,
+      "raw_hot": 41417,
       "num": 175134,
       "word": "逍遥",
       "onboard_time": 1767873202,
@@ -393,6 +393,14 @@
       "onboard_time": 1767885082,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 35421,
+      "num": 154136,
+      "word": "高校建议高数成绩落后家长陪读",
+      "onboard_time": 1767890597,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27196,

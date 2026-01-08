@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/09 00:39:55
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/09 00:56:47
 </p>
 </blockquote>
 <p>
@@ -5607,6 +5607,12 @@ nova15成美妆试色专用机（热度：190693）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E4%B9%9F%E4%B8%8D%E5%8E%BB%E7%90%86%E5%8F%91%E5%BA%97%E6%B4%97%E5%A4%B4%E4%BA%86%23" target="weibo">
+再也不去理发店洗头了（热度：189532）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%A3%AB%E5%8C%BB%E9%99%A2%E8%A2%AB%E7%83%A7%E4%BC%A4%E6%82%A3%E8%80%85%E6%B7%B9%E6%B2%A1%23" target="weibo">
 瑞士医院被烧伤患者淹没（热度：189468）
 </a>
@@ -6005,12 +6011,6 @@ NBA交易（热度：183700）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%80%E7%89%B5%E5%AD%9F%E7%BB%95%23" target="weibo">
 昀牵孟绕（热度：180782）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E5%85%AD%E5%85%83%E7%9A%AE%E8%82%A4%E5%A4%A9%E8%8A%B1%E6%9D%BF%23" target="weibo">
-王者六元皮肤天花板（热度：180638）
 </a>
 </li>
 
