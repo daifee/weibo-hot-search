@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/04 00:34:09 ~ 2026/01/09 05:44:25
+本榜单时间：2026/01/04 00:34:09 ~ 2026/01/09 06:29:40
 </p>
 </blockquote>
 <p>
@@ -13077,6 +13077,12 @@ idoll娃娃（热度：23680）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%233%E5%B2%81%E7%94%B7%E7%AB%A5%E5%92%8C%E7%8B%97%E7%9C%8B%E6%8C%96%E6%9C%BA%E8%B5%B0%E5%A4%B1%E6%95%91%E6%8F%B4%E8%80%85%E5%8F%91%E5%A3%B0%23" target="weibo">
+3岁男童和狗看挖机走失救援者发声（热度：20210）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%B3%A5%E4%BB%BB%E7%B4%A0%E6%B1%90%E9%A2%86%E8%A1%94%E4%B8%BB%E6%BC%94%E6%97%A0%E6%AF%92%E6%9C%89%E5%81%B6%23" target="weibo">
 徐峥任素汐领衔主演无毒有偶（热度：20113）
 </a>
@@ -13131,12 +13137,6 @@ idoll娃娃（热度：23680）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%233%E5%B2%81%E7%94%B7%E7%AB%A5%E5%92%8C%E7%8B%97%E7%9C%8B%E6%8C%96%E6%9C%BA%E8%B5%B0%E5%A4%B1%E6%95%91%E6%8F%B4%E8%80%85%E5%8F%91%E5%A3%B0%23" target="weibo">
-3岁男童和狗看挖机走失救援者发声（热度：17549）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E6%96%B0%E6%AD%8C%E5%A4%96%E7%BD%91%E4%B8%8A%E7%BA%BF%23" target="weibo">
 檀健次新歌外网上线（热度：17372）
 </a>
@@ -13145,6 +13145,12 @@ idoll娃娃（热度：23680）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8F%8C%E8%A7%92%E8%89%B2%E5%96%9C%E7%88%B1%E5%80%BC%E7%A0%B415%E4%B8%87%23" target="weibo">
 虞书欣双角色喜爱值破15万（热度：17119）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E4%BF%9D%E6%96%B0%E4%B8%BE%E6%8E%AA%E4%B8%93%E6%B2%BB%E7%BC%B4%E8%B4%B9%E6%8E%92%E9%95%BF%E9%98%9F%23" target="weibo">
+医保新举措专治缴费排长队（热度：16875）
 </a>
 </li>
 
@@ -13203,14 +13209,14 @@ idoll娃娃（热度：23680）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E4%BA%AC%E9%83%BD%E6%B0%91%E4%BC%97%E5%86%8D%E9%9B%86%E4%BC%9A%E5%8F%8D%E5%AF%B9%E6%97%A5%E6%9C%AC%E6%89%A9%E5%86%9B%E5%A4%87%E6%AD%A6%23" target="weibo">
-东京都民众再集会反对日本扩军备武（热度：14559）
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E5%9B%9E%E5%BA%94%E5%B1%B1%E4%B8%9C%E5%A5%B3%E5%9B%A2%E5%85%A8%E8%BF%90%E4%BC%9A%E6%8A%BD%E7%AD%BE%23" target="weibo">
+陈梦回应山东女团全运会抽签（热度：14861）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E5%9B%9E%E5%BA%94%E5%B1%B1%E4%B8%9C%E5%A5%B3%E5%9B%A2%E5%85%A8%E8%BF%90%E4%BC%9A%E6%8A%BD%E7%AD%BE%23" target="weibo">
-陈梦回应山东女团全运会抽签（热度：14539）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E4%BA%AC%E9%83%BD%E6%B0%91%E4%BC%97%E5%86%8D%E9%9B%86%E4%BC%9A%E5%8F%8D%E5%AF%B9%E6%97%A5%E6%9C%AC%E6%89%A9%E5%86%9B%E5%A4%87%E6%AD%A6%23" target="weibo">
+东京都民众再集会反对日本扩军备武（热度：14559）
 </a>
 </li>
 
@@ -13223,6 +13229,12 @@ idoll娃娃（热度：23680）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BB%A5%E4%B8%BA%E8%BE%B9%E5%A2%83%E6%90%AC%E7%8C%AA%E8%82%89%E9%99%A9%E8%A2%AB%E5%8D%96%E7%BC%85%E7%94%B8%23" target="weibo">
 男子以为边境搬猪肉险被卖缅甸（热度：14292）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23U23%E4%BA%9A%E6%B4%B2%E6%9D%AF%23" target="weibo">
+U23亚洲杯（热度：14187）
 </a>
 </li>
 
@@ -13293,12 +13305,6 @@ kpl王者荣耀巅峰之夜（热度：14148）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23U23%E4%BA%9A%E6%B4%B2%E6%9D%AF%23" target="weibo">
-U23亚洲杯（热度：11447）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%9E%E7%82%89%E8%AF%BB%E6%8A%80%E6%A0%A1%23" target="weibo">
 越来越多大学生回炉读技校（热度：11296）
 </a>
@@ -13319,12 +13325,6 @@ U23亚洲杯（热度：11447）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E7%AB%A5%E4%B8%8A%E6%89%98%E7%8F%AD%E8%85%BF%E9%AA%A8%E6%8A%98%23" target="weibo">
 多方回应男童上托班腿骨折（热度：10805）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E4%BF%9D%E6%96%B0%E4%B8%BE%E6%8E%AA%E4%B8%93%E6%B2%BB%E7%BC%B4%E8%B4%B9%E6%8E%92%E9%95%BF%E9%98%9F%23" target="weibo">
-医保新举措专治缴费排长队（热度：10540）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767908665328,
+  "endTime": 1767911380210,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -17419,6 +17419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20210,
+      "num": 43017,
+      "word": "3岁男童和狗看挖机走失救援者发声",
+      "onboard_time": 1767896835,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20113,
       "num": 114973,
       "word": "徐峥任素汐领衔主演无毒有偶",
@@ -17491,14 +17499,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 17549,
-      "num": 43017,
-      "word": "3岁男童和狗看挖机走失救援者发声",
-      "onboard_time": 1767896835,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17372,
       "num": 37616,
       "word": "檀健次新歌外网上线",
@@ -17513,6 +17513,14 @@
       "onboard_time": 1767784825,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16875,
+      "num": 230368,
+      "word": "医保新举措专治缴费排长队",
+      "onboard_time": 1767878182,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 16669,
@@ -17587,20 +17595,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 14861,
+      "num": 31259,
+      "word": "陈梦回应山东女团全运会抽签",
+      "onboard_time": 1767898935,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 14559,
       "num": 114713,
       "word": "东京都民众再集会反对日本扩军备武",
       "onboard_time": 1767516262,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 14539,
-      "num": 31259,
-      "word": "陈梦回应山东女团全运会抽签",
-      "onboard_time": 1767898935,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 14463,
@@ -17617,6 +17625,14 @@
       "onboard_time": 1767516084,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14187,
+      "num": 28695,
+      "word": "U23亚洲杯",
+      "onboard_time": 1767885321,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 14148,
@@ -17707,14 +17723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11447,
-      "num": 22008,
-      "word": "U23亚洲杯",
-      "onboard_time": 1767885321,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 11296,
       "num": 112313,
       "word": "越来越多大学生回炉读技校",
@@ -17745,14 +17753,6 @@
       "onboard_time": 1767795984,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10540,
-      "num": 110839,
-      "word": "医保新举措专治缴费排长队",
-      "onboard_time": 1767878182,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 9932,

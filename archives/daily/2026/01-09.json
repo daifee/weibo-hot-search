@@ -1,6 +1,6 @@
 {
   "startTime": 1767890395081,
-  "endTime": 1767908665328,
+  "endTime": 1767911380210,
   "band_list": [
     {
       "raw_hot": 1118560,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 290385,
-      "num": 290385,
+      "num": 297855,
       "word": "双胞胎姐妹分别取名灿和烂",
       "onboard_time": 1767873022,
       "rank": 3,
@@ -491,7 +491,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17549,
+      "raw_hot": 20210,
       "num": 43017,
       "word": "3岁男童和狗看挖机走失救援者发声",
       "onboard_time": 1767896835,
@@ -499,11 +499,35 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14539,
+      "raw_hot": 16966,
+      "num": 33945,
+      "word": "3岁男童看挖机走失找到时出现失温",
+      "onboard_time": 1767875002,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16875,
+      "num": 230368,
+      "word": "医保新举措专治缴费排长队",
+      "onboard_time": 1767878182,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 14861,
       "num": 31259,
       "word": "陈梦回应山东女团全运会抽签",
       "onboard_time": 1767898935,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 14187,
+      "num": 28695,
+      "word": "U23亚洲杯",
+      "onboard_time": 1767885321,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -515,34 +539,10 @@
       "category": "演出"
     },
     {
-      "raw_hot": 12960,
-      "num": 33945,
-      "word": "3岁男童看挖机走失找到时出现失温",
-      "onboard_time": 1767875002,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 12816,
       "num": 235108,
       "word": "国补新政激发新年消费热情",
       "onboard_time": 1767877821,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 11447,
-      "num": 22008,
-      "word": "U23亚洲杯",
-      "onboard_time": 1767885321,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 10540,
-      "num": 110839,
-      "word": "医保新举措专治缴费排长队",
-      "onboard_time": 1767878182,
       "rank": 2,
       "category": "国内时政"
     }

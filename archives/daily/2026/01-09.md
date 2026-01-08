@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/09 00:39:55 ~ 2026/01/09 05:44:25
+本榜单时间：2026/01/09 00:39:55 ~ 2026/01/09 06:29:40
 </p>
 </blockquote>
 <p>
@@ -382,13 +382,31 @@ Meta Manus（热度：20949）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%233%E5%B2%81%E7%94%B7%E7%AB%A5%E5%92%8C%E7%8B%97%E7%9C%8B%E6%8C%96%E6%9C%BA%E8%B5%B0%E5%A4%B1%E6%95%91%E6%8F%B4%E8%80%85%E5%8F%91%E5%A3%B0%23" target="weibo">
-3岁男童和狗看挖机走失救援者发声（热度：17549）
+3岁男童和狗看挖机走失救援者发声（热度：20210）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%233%E5%B2%81%E7%94%B7%E7%AB%A5%E7%9C%8B%E6%8C%96%E6%9C%BA%E8%B5%B0%E5%A4%B1%E6%89%BE%E5%88%B0%E6%97%B6%E5%87%BA%E7%8E%B0%E5%A4%B1%E6%B8%A9%23" target="weibo">
+3岁男童看挖机走失找到时出现失温（热度：16966）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E4%BF%9D%E6%96%B0%E4%B8%BE%E6%8E%AA%E4%B8%93%E6%B2%BB%E7%BC%B4%E8%B4%B9%E6%8E%92%E9%95%BF%E9%98%9F%23" target="weibo">
+医保新举措专治缴费排长队（热度：16875）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E5%9B%9E%E5%BA%94%E5%B1%B1%E4%B8%9C%E5%A5%B3%E5%9B%A2%E5%85%A8%E8%BF%90%E4%BC%9A%E6%8A%BD%E7%AD%BE%23" target="weibo">
-陈梦回应山东女团全运会抽签（热度：14539）
+陈梦回应山东女团全运会抽签（热度：14861）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23U23%E4%BA%9A%E6%B4%B2%E6%9D%AF%23" target="weibo">
+U23亚洲杯（热度：14187）
 </a>
 </li>
 
@@ -399,26 +417,8 @@ Meta Manus（热度：20949）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%233%E5%B2%81%E7%94%B7%E7%AB%A5%E7%9C%8B%E6%8C%96%E6%9C%BA%E8%B5%B0%E5%A4%B1%E6%89%BE%E5%88%B0%E6%97%B6%E5%87%BA%E7%8E%B0%E5%A4%B1%E6%B8%A9%23" target="weibo">
-3岁男童看挖机走失找到时出现失温（热度：12960）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%A1%A5%E6%96%B0%E6%94%BF%E6%BF%80%E5%8F%91%E6%96%B0%E5%B9%B4%E6%B6%88%E8%B4%B9%E7%83%AD%E6%83%85%23" target="weibo">
 国补新政激发新年消费热情（热度：12816）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23U23%E4%BA%9A%E6%B4%B2%E6%9D%AF%23" target="weibo">
-U23亚洲杯（热度：11447）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E4%BF%9D%E6%96%B0%E4%B8%BE%E6%8E%AA%E4%B8%93%E6%B2%BB%E7%BC%B4%E8%B4%B9%E6%8E%92%E9%95%BF%E9%98%9F%23" target="weibo">
-医保新举措专治缴费排长队（热度：10540）
 </a>
 </li>
 
