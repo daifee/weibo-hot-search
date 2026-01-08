@@ -1,6 +1,6 @@
 {
   "startTime": 1767804017084,
-  "endTime": 1767851370748,
+  "endTime": 1767854701534,
   "band_list": [
     {
       "raw_hot": 2608150,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 476971,
+      "num": 181509,
+      "word": "蔡徐坤上海",
+      "onboard_time": 1767849742,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 454909,
       "num": 454909,
       "word": "王腾从小米离开后成立新公司",
@@ -131,6 +139,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 422872,
+      "num": 375872,
+      "word": "虞书欣云初令出妆",
+      "onboard_time": 1767846141,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 421734,
       "num": 246484,
       "word": "我的朋友圈点赞等级森严",
@@ -139,20 +155,36 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 410599,
-      "num": 375872,
-      "word": "虞书欣云初令出妆",
-      "onboard_time": 1767846141,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 385475,
       "num": 244859,
       "word": "张凌赫归鸾出妆",
       "onboard_time": 1767844340,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 376299,
+      "num": 778602,
+      "word": "3万请1400万网红带货仅成交4单",
+      "onboard_time": 1767846681,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 357473,
+      "num": 231618,
+      "word": "2025央八收视前十",
+      "onboard_time": 1767849321,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 338720,
+      "num": 338720,
+      "word": "神秘园 鳌太线",
+      "onboard_time": 1767851720,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 334099,
@@ -299,14 +331,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 231618,
-      "num": 231618,
-      "word": "2025央八收视前十",
-      "onboard_time": 1767849321,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 225916,
       "num": 225916,
       "word": "林允归鸾妆造",
@@ -331,20 +355,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207411,
-      "num": 181509,
-      "word": "蔡徐坤上海",
-      "onboard_time": 1767849742,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 202068,
       "num": 177653,
       "word": "荣耀之战",
       "onboard_time": 1767849201,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201566,
+      "num": 165641,
+      "word": "荣耀之战四代仅有一班参加",
+      "onboard_time": 1767853879,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 201190,
@@ -385,6 +409,14 @@
       "onboard_time": 1767797484,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 197125,
+      "num": 197125,
+      "word": "杨瀚森五犯下场被吹出表情包",
+      "onboard_time": 1767851300,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 186347,
@@ -435,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173726,
+      "num": 173726,
+      "word": "洗头发油得慢的小方法",
+      "onboard_time": 1767853582,
+      "rank": 8,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 171587,
       "num": 677277,
       "word": "女子百万装新房老公每次来都像游客",
@@ -467,12 +507,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 158476,
+      "num": 158476,
+      "word": "委内瑞拉外长感谢中国政府支持",
+      "onboard_time": 1767853640,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 157146,
       "num": 157146,
       "word": "国产剧又来三女一男修罗场",
       "onboard_time": 1767850942,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155861,
+      "num": 129210,
+      "word": "老鼠干也是一种芭比娃娃",
+      "onboard_time": 1767851121,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 153902,
@@ -568,14 +624,6 @@
       "word": "律师将唇膏给嫌疑人用被停业3个月",
       "onboard_time": 1767839480,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141162,
-      "num": 143695,
-      "word": "3万请1400万网红带货仅成交4单",
-      "onboard_time": 1767846681,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -699,12 +747,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123805,
+      "num": 123805,
+      "word": "众星送别萧敬腾岳父林光宁",
+      "onboard_time": 1767851780,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122831,
       "num": 149814,
       "word": "被国产剧治好了我的恋爱脑",
       "onboard_time": 1767843740,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122208,
+      "num": 122208,
+      "word": "坠亡女教师父母否认卖女换彩礼",
+      "onboard_time": 1767852800,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121017,
@@ -721,6 +785,14 @@
       "onboard_time": 1767836900,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120419,
+      "num": 120419,
+      "word": "蓝盈莹新剧带了136个孩子",
+      "onboard_time": 1767851720,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 120402,
@@ -793,6 +865,14 @@
       "onboard_time": 1767834620,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 114787,
+      "num": 114787,
+      "word": "王者荣耀大禹",
+      "onboard_time": 1767853761,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 113205,
@@ -875,6 +955,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 106090,
+      "num": 106090,
+      "word": "父亲被害年幼女儿问妈妈会不会改嫁",
+      "onboard_time": 1767853281,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105914,
       "num": 117564,
       "word": "马思纯演技",
@@ -915,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103500,
+      "num": 103500,
+      "word": "郑恺苗工我的年度意难平",
+      "onboard_time": 1767854182,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 103045,
       "num": 103045,
       "word": "寻秦记",
@@ -936,6 +1032,14 @@
       "word": "白鹿 路见不平一声吼",
       "onboard_time": 1767848062,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 102016,
+      "num": 102016,
+      "word": "papi说何美延梁淞结局像悬疑片",
+      "onboard_time": 1767853820,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -1033,14 +1137,6 @@
       "onboard_time": 1767850463,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 95268,
-      "num": 114475,
-      "word": "老鼠干也是一种芭比娃娃",
-      "onboard_time": 1767851121,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 94843,
@@ -1163,12 +1259,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 87295,
-      "num": 87295,
-      "word": "杨瀚森五犯下场被吹出表情包",
-      "onboard_time": 1767851300,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 87783,
+      "num": 87783,
+      "word": "华为门店回应请半裸男模跳舞",
+      "onboard_time": 1767853700,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86860,
@@ -1235,6 +1331,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81014,
+      "num": 81014,
+      "word": "冬季穿衣法则 每层都能见人",
+      "onboard_time": 1767854000,
+      "rank": 40,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 80848,
+      "num": 80848,
+      "word": "体育解说需要专业门槛吗",
+      "onboard_time": 1767854240,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80026,
       "num": 80026,
       "word": "这是砂糖橘最害怕看到的非遗",
@@ -1251,6 +1363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 77564,
+      "num": 77564,
+      "word": "4菜1868元海鲜店商家退款1000元",
+      "onboard_time": 1767852741,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75252,
       "num": 91543,
       "word": "刘宇宁六块腹肌隐藏款",
@@ -1259,12 +1379,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74476,
+      "num": 74476,
+      "word": "发现了合身羽绒内胆的好处",
+      "onboard_time": 1767851839,
+      "rank": 43,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 74294,
       "num": 74294,
       "word": "最高法回应裁判文书隐名",
       "onboard_time": 1767839419,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74072,
+      "num": 74072,
+      "word": "AI应用概念爆发",
+      "onboard_time": 1767853400,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 73729,
@@ -1283,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70718,
+      "num": 70718,
+      "word": "玉茗茶骨 双强夫妻",
+      "onboard_time": 1767854599,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70514,
       "num": 70514,
       "word": "雷军说身高183是口误",
@@ -1297,6 +1441,14 @@
       "onboard_time": 1767784584,
       "rank": 8,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 70116,
+      "num": 70116,
+      "word": "易小雅给林允做的人生古装",
+      "onboard_time": 1767852141,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 69257,

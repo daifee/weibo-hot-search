@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767851370748,
+  "endTime": 1767854701534,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -2035,6 +2035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 476971,
+      "num": 181509,
+      "word": "蔡徐坤上海",
+      "onboard_time": 1767849742,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 476728,
       "num": 453390,
       "word": "郭芙蓉自由了",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767415407,
       "rank": 32,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 440169,
-      "num": 212065,
-      "word": "张若昀马思纯回应绝交还儿童手表",
-      "onboard_time": 1767777441,
-      "rank": 12,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [

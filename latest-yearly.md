@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/08 13:49:30
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/08 14:45:01
 </p>
 </blockquote>
 <p>
@@ -1539,6 +1539,12 @@ TVB颁奖典礼（热度：518643）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E4%B8%8A%E6%B5%B7%23" target="weibo">
+蔡徐坤上海（热度：476971）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E8%8A%99%E8%93%89%E8%87%AA%E7%94%B1%E4%BA%86%23" target="weibo">
 郭芙蓉自由了（热度：476728）
 </a>
@@ -1805,12 +1811,6 @@ iPhone千万别删的自带软件（热度：474519）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E6%92%9E%E8%84%B8%E6%9D%A8%E7%B4%AB%E7%88%86%E7%BA%A2%23" target="weibo">
 交警回应撞脸杨紫爆红（热度：441518）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E9%A9%AC%E6%80%9D%E7%BA%AF%E5%9B%9E%E5%BA%94%E7%BB%9D%E4%BA%A4%E8%BF%98%E5%84%BF%E7%AB%A5%E6%89%8B%E8%A1%A8%23" target="weibo">
-张若昀马思纯回应绝交还儿童手表（热度：440169）
 </a>
 </li>
 
