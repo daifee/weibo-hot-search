@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767845204358,
+  "endTime": 1767848307582,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -836,7 +836,7 @@
     },
     {
       "raw_hot": 728241,
-      "num": 232363,
+      "num": 244639,
       "word": "浪姐2026 张曼玉",
       "onboard_time": 1767839961,
       "rank": 10,
@@ -948,7 +948,7 @@
     },
     {
       "raw_hot": 663511,
-      "num": 238760,
+      "num": 245026,
       "word": "男子散布未婚妻不雅视频后坠亡",
       "onboard_time": 1767837920,
       "rank": 13,
@@ -961,6 +961,14 @@
       "onboard_time": 1767602961,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 656764,
+      "num": 245950,
+      "word": "41岁女子健身断奶茶一年换了张脸",
+      "onboard_time": 1767843800,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 651165,
@@ -1459,14 +1467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 538289,
-      "num": 229627,
-      "word": "41岁女子健身断奶茶一年换了张脸",
-      "onboard_time": 1767843800,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 538152,
       "num": 199884,
       "word": "徐佳莹 我要再生一个",
@@ -1769,6 +1769,14 @@
       "onboard_time": 1767657680,
       "rank": 6,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 506314,
+      "num": 245507,
+      "word": "原来轧戏轧的是韩剧啊",
+      "onboard_time": 1767845420,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 506183,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767504743,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 435654,
-      "num": 435654,
-      "word": "轧戏定档",
-      "onboard_time": 1767617600,
-      "rank": 14,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [

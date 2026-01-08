@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767845204358,
+  "endTime": 1767848307582,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -836,7 +836,7 @@
     },
     {
       "raw_hot": 728241,
-      "num": 232363,
+      "num": 244639,
       "word": "浪姐2026 张曼玉",
       "onboard_time": 1767839961,
       "rank": 10,
@@ -948,7 +948,7 @@
     },
     {
       "raw_hot": 663511,
-      "num": 238760,
+      "num": 245026,
       "word": "男子散布未婚妻不雅视频后坠亡",
       "onboard_time": 1767837920,
       "rank": 13,
@@ -961,6 +961,14 @@
       "onboard_time": 1767602961,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 656764,
+      "num": 245950,
+      "word": "41岁女子健身断奶茶一年换了张脸",
+      "onboard_time": 1767843800,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 651165,
@@ -1459,14 +1467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 538289,
-      "num": 229627,
-      "word": "41岁女子健身断奶茶一年换了张脸",
-      "onboard_time": 1767843800,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 538152,
       "num": 199884,
       "word": "徐佳莹 我要再生一个",
@@ -1769,6 +1769,14 @@
       "onboard_time": 1767657680,
       "rank": 6,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 506314,
+      "num": 245507,
+      "word": "原来轧戏轧的是韩剧啊",
+      "onboard_time": 1767845420,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 506183,
@@ -2803,6 +2811,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 385475,
+      "num": 244859,
+      "word": "张凌赫归鸾出妆",
+      "onboard_time": 1767844340,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 384444,
       "num": 623106,
       "word": "高市早苗手持安倍画像参拜",
@@ -3307,6 +3323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 340418,
+      "num": 294809,
+      "word": "原来长辈买衣服不是随便摸摸",
+      "onboard_time": 1767846561,
+      "rank": 5,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 340364,
       "num": 340364,
       "word": "差三分考上北大研究生的含金量",
@@ -3516,7 +3540,7 @@
     },
     {
       "raw_hot": 324070,
-      "num": 170497,
+      "num": 215063,
       "word": "原来命运真的有伏笔",
       "onboard_time": 1767841820,
       "rank": 20,
@@ -4075,6 +4099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 294360,
+      "num": 244084,
+      "word": "张真源新歌将上线",
+      "onboard_time": 1767846863,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 294159,
       "num": 252862,
       "word": "我客串骄阳似我",
@@ -4441,6 +4473,14 @@
       "onboard_time": 1767323661,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268745,
+      "num": 235859,
+      "word": "董子健晒四年前偶遇刘昊然合影",
+      "onboard_time": 1767845962,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 268712,
@@ -4971,6 +5011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244051,
+      "num": 556354,
+      "word": "再见爱人",
+      "onboard_time": 1767251300,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243910,
       "num": 110009,
       "word": "虞书欣双轨伴手礼",
@@ -5115,12 +5163,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 237295,
+      "num": 237295,
+      "word": "虞书欣云初令出妆",
+      "onboard_time": 1767846141,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235792,
       "num": 2320284,
       "word": "20块和2000块相机差距",
       "onboard_time": 1767339979,
       "rank": 8,
       "category": "数码,幽默"
+    },
+    {
+      "raw_hot": 235727,
+      "num": 235727,
+      "word": "云初令",
+      "onboard_time": 1767503901,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 235452,
@@ -5137,14 +5201,6 @@
       "onboard_time": 1767494361,
       "rank": 18,
       "category": "美食"
-    },
-    {
-      "raw_hot": 235336,
-      "num": 223472,
-      "word": "云初令",
-      "onboard_time": 1767503901,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 235123,
@@ -5387,6 +5443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 225916,
+      "num": 225916,
+      "word": "林允归鸾妆造",
+      "onboard_time": 1767846502,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225532,
       "num": 160160,
       "word": "马杜罗下飞机画面曝光",
@@ -5481,14 +5545,6 @@
       "onboard_time": 1767623784,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 221742,
-      "num": 221742,
-      "word": "张凌赫归鸾出妆",
-      "onboard_time": 1767844340,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 221684,
@@ -6177,6 +6233,14 @@
       "onboard_time": 1767799584,
       "rank": 39,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 199236,
+      "num": 199236,
+      "word": "陶喆巡演官宣",
+      "onboard_time": 1767847402,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 199048,
@@ -7049,6 +7113,14 @@
       "onboard_time": 1767674844,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183700,
+      "num": 246133,
+      "word": "NBA交易",
+      "onboard_time": 1767843920,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 183651,
@@ -8563,6 +8635,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 157573,
+      "num": 143614,
+      "word": "美国ICE当街射杀37岁母亲",
+      "onboard_time": 1767846141,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 157492,
       "num": 228374,
       "word": "宋威龙现偶偶爸",
@@ -8963,6 +9043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151426,
+      "num": 151426,
+      "word": "金吾不禁",
+      "onboard_time": 1767846802,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151403,
       "num": 425341,
       "word": "马斯克机器人涉色情被法国调查",
@@ -9137,6 +9225,14 @@
       "onboard_time": 1767252081,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148256,
+      "num": 148256,
+      "word": "美国吞并格陵兰岛的四种方案",
+      "onboard_time": 1767845781,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 148030,
@@ -10051,6 +10147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136927,
+      "num": 136927,
+      "word": "余宇涵坐高铁不会刷身份证",
+      "onboard_time": 1767845180,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136705,
       "num": 520182,
       "word": "IG对战JDG",
@@ -10435,14 +10539,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 132286,
-      "num": 556354,
-      "word": "再见爱人",
-      "onboard_time": 1767251300,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 131891,
       "num": 167758,
       "word": "从晋江文里抠出来的现偶男女主",
@@ -10587,14 +10683,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 129895,
-      "num": 129895,
-      "word": "NBA交易",
-      "onboard_time": 1767843920,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 129846,
       "num": 129846,
       "word": "勇士vs快船",
@@ -10699,6 +10787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 129084,
+      "num": 129084,
+      "word": "杨幂钻石脸链",
+      "onboard_time": 1767845360,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128954,
       "num": 128954,
       "word": "张栋梁拒唱成名曲气哭经纪人",
@@ -10761,6 +10857,14 @@
       "onboard_time": 1767265280,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128202,
+      "num": 128202,
+      "word": "孙怡道歉",
+      "onboard_time": 1767848122,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 128037,
@@ -11555,6 +11659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121017,
+      "num": 121017,
+      "word": "司机今天拉了一位蒲公英",
+      "onboard_time": 1767847521,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120969,
       "num": 557159,
       "word": "清融夜色海风造型",
@@ -11625,6 +11737,14 @@
       "onboard_time": 1767526162,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119970,
+      "num": 143695,
+      "word": "3万请1400万网红带货仅成交4单",
+      "onboard_time": 1767846681,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119908,
@@ -11761,6 +11881,14 @@
       "onboard_time": 1767756202,
       "rank": 28,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 118676,
+      "num": 111545,
+      "word": "小S二女儿回应18岁是否可以恋爱",
+      "onboard_time": 1767846202,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 118329,
@@ -12475,6 +12603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111357,
+      "num": 111357,
+      "word": "结婚可以在这个快餐店办了",
+      "onboard_time": 1767847822,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111234,
       "num": 111234,
       "word": "卢昱晓轧戏韩系高智感",
@@ -13067,6 +13203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 105813,
+      "num": 105813,
+      "word": "黄金白银铂金全线下挫",
+      "onboard_time": 1767846922,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 105805,
       "num": 105805,
       "word": "为什么有些人的脑子反应快",
@@ -13523,6 +13667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102737,
+      "num": 102737,
+      "word": "白鹿 路见不平一声吼",
+      "onboard_time": 1767848062,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102634,
       "num": 633124,
       "word": "白露十九岁的第一个冠军",
@@ -13777,6 +13929,14 @@
       "onboard_time": 1767779484,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100728,
+      "num": 100728,
+      "word": "微信回应好友太多会被封",
+      "onboard_time": 1767847702,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 100586,
@@ -14273,6 +14433,14 @@
       "onboard_time": 1767536845,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97329,
+      "num": 97329,
+      "word": "程潇演技",
+      "onboard_time": 1767848182,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 97249,
@@ -15033,6 +15201,14 @@
       "onboard_time": 1767775881,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 92375,
+      "num": 95360,
+      "word": "CBA解说员言论引争议",
+      "onboard_time": 1767845721,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 92129,
@@ -15963,14 +16139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 86295,
-      "num": 86295,
-      "word": "余宇涵坐高铁不会刷身份证",
-      "onboard_time": 1767845180,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 86271,
       "num": 1398609,
       "word": "长期手机充电至100%会损伤电池",
@@ -16707,6 +16875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81029,
+      "num": 237318,
+      "word": "被于适的红色马表帅到了",
+      "onboard_time": 1767845061,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80990,
       "num": 80990,
       "word": "猫 再多说几句连你一起打",
@@ -17057,14 +17233,6 @@
       "onboard_time": 1767789744,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 78045,
-      "num": 129365,
-      "word": "被于适的红色马表帅到了",
-      "onboard_time": 1767845061,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 78007,
@@ -21043,6 +21211,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 38899,
+      "num": 112694,
+      "word": "丁程鑫想的宋亚轩刘耀文热搜",
+      "onboard_time": 1767847341,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38891,
       "num": 198893,
       "word": "地球online 2026正式版今日开服",
@@ -21707,6 +21883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31712,
+      "num": 642030,
+      "word": "解锁智能穿戴领域的千亿级市场",
+      "onboard_time": 1767845841,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31699,
       "num": 172456,
       "word": "和府捞面否认是预制菜",
@@ -21899,6 +22083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29291,
+      "num": 114405,
+      "word": "小S让Lily说错话就假装没事",
+      "onboard_time": 1767847402,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29238,
       "num": 633194,
       "word": "上海优化营商环境",
@@ -21977,6 +22169,14 @@
       "onboard_time": 1767778583,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27995,
+      "num": 235969,
+      "word": "委内瑞拉代总统誓言营救马杜罗夫妇",
+      "onboard_time": 1767847642,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 27920,
