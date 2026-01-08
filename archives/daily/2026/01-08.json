@@ -1,6 +1,6 @@
 {
   "startTime": 1767804017084,
-  "endTime": 1767880698296,
+  "endTime": 1767882800125,
   "band_list": [
     {
       "raw_hot": 2608150,
@@ -363,6 +363,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 401052,
+      "num": 847638,
+      "word": "1818名明星网红查补税款",
+      "onboard_time": 1767876381,
+      "rank": 33,
+      "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 394511,
+      "num": 309033,
+      "word": "一家三口被撞亡前1秒行车记录曝光",
+      "onboard_time": 1767869901,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 393106,
       "num": 238107,
       "word": "以爱为营要拍2了白鹿你知道吗",
@@ -403,12 +419,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 368445,
-      "num": 309033,
-      "word": "一家三口被撞亡前1秒行车记录曝光",
-      "onboard_time": 1767869901,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 362593,
+      "num": 249085,
+      "word": "刘冲转发宋威龙赵今麦",
+      "onboard_time": 1767880523,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 358815,
@@ -424,6 +440,14 @@
       "word": "2025央八收视前十",
       "onboard_time": 1767849321,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 355107,
+      "num": 222325,
+      "word": "短剧版紫萱",
+      "onboard_time": 1767880581,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -489,14 +513,6 @@
       "onboard_time": 1767863480,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 327952,
-      "num": 847638,
-      "word": "1818名明星网红查补税款",
-      "onboard_time": 1767876381,
-      "rank": 33,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 326036,
@@ -571,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297541,
+      "num": 321200,
+      "word": "深圳坪山突发山火",
+      "onboard_time": 1767879202,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 294360,
       "num": 244084,
       "word": "张真源新歌将上线",
@@ -584,6 +608,14 @@
       "word": "羽绒服 里面是飞丝",
       "onboard_time": 1767857959,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 283870,
+      "num": 283870,
+      "word": "扔尿不湿幼童监护人已被处理",
+      "onboard_time": 1767879982,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -665,14 +697,6 @@
       "onboard_time": 1767875002,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 249085,
-      "num": 249085,
-      "word": "刘冲转发宋威龙赵今麦",
-      "onboard_time": 1767880523,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 242580,
@@ -763,6 +787,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 220460,
+      "num": 220460,
+      "word": "千里江山图",
+      "onboard_time": 1767880942,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219038,
       "num": 165333,
       "word": "靠刷boss完成了精神离职",
@@ -793,14 +825,6 @@
       "onboard_time": 1767861622,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 205720,
-      "num": 321200,
-      "word": "深圳坪山突发山火",
-      "onboard_time": 1767879202,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 202986,
@@ -1299,6 +1323,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 137792,
+      "num": 137792,
+      "word": "景德镇被撞宝宝遗容4小时才修复",
+      "onboard_time": 1767882442,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137164,
       "num": 375023,
       "word": "最无用的节俭行为",
@@ -1321,6 +1353,14 @@
       "onboard_time": 1767867802,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135989,
+      "num": 311537,
+      "word": "TT处罚Feather",
+      "onboard_time": 1767879624,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 135427,
@@ -1347,6 +1387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 134482,
+      "num": 134482,
+      "word": "关晓彤三部央视备播",
+      "onboard_time": 1767880463,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134302,
       "num": 228279,
       "word": "全家衣服混洗致女儿身上长红斑水泡",
@@ -1368,6 +1416,14 @@
       "word": "女子喝自制豆浆中毒上吐下泻",
       "onboard_time": 1767859642,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132423,
+      "num": 223977,
+      "word": "海底捞已将被扔尿不湿的锅具废弃",
+      "onboard_time": 1767879742,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1401,6 +1457,14 @@
       "onboard_time": 1767868521,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129875,
+      "num": 221502,
+      "word": "男子脖子套绳被女子牵引滑雪",
+      "onboard_time": 1767880042,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129286,
@@ -1505,14 +1569,6 @@
       "onboard_time": 1767872961,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 123173,
-      "num": 311537,
-      "word": "TT处罚Feather",
-      "onboard_time": 1767879624,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 122831,
@@ -1779,6 +1835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 114270,
+      "num": 114270,
+      "word": "女子买雪地靴穿一脚泥申请退款",
+      "onboard_time": 1767880822,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113718,
       "num": 113718,
       "word": "商务部回应审查Meta收购Manu",
@@ -1875,6 +1939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110704,
+      "num": 110704,
+      "word": "庆余年剧组来小城大事团建了",
+      "onboard_time": 1767882322,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110425,
       "num": 110425,
       "word": "骄阳似我",
@@ -1889,14 +1961,6 @@
       "onboard_time": 1767864320,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 109161,
-      "num": 109161,
-      "word": "扔尿不湿幼童监护人已被处理",
-      "onboard_time": 1767879982,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108945,
@@ -2025,14 +2089,6 @@
       "onboard_time": 1767849801,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 103996,
-      "num": 103996,
-      "word": "短剧版紫萱",
-      "onboard_time": 1767880581,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 103620,
@@ -2179,6 +2235,14 @@
       "category": "舆论监督,体育"
     },
     {
+      "raw_hot": 101502,
+      "num": 101502,
+      "word": "张凌赫背林允",
+      "onboard_time": 1767882743,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101453,
       "num": 113688,
       "word": "忘放跳楼机安全杠工作人员已被开除",
@@ -2243,6 +2307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98890,
+      "num": 98890,
+      "word": "一翼装飞行员跃下不到10秒撞上岩石",
+      "onboard_time": 1767881542,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98343,
       "num": 98343,
       "word": "曝助理被艺人妈妈骂半小时",
@@ -2289,6 +2361,14 @@
       "onboard_time": 1767789684,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 97615,
+      "num": 97615,
+      "word": "让白宇朱亚文演历史古人的是天才",
+      "onboard_time": 1767882264,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 97608,
@@ -2369,6 +2449,14 @@
       "onboard_time": 1767874581,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 95793,
+      "num": 95793,
+      "word": "Feather发文回应挂机事件",
+      "onboard_time": 1767882500,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 95337,
@@ -2523,6 +2611,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 91210,
+      "num": 95776,
+      "word": "万科发布公告",
+      "onboard_time": 1767881182,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 91197,
       "num": 91197,
       "word": "华为门店回应请半裸男模跳舞",
@@ -2643,14 +2739,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 87772,
-      "num": 87772,
-      "word": "男子脖子套绳被女子牵引滑雪",
-      "onboard_time": 1767880042,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87101,
       "num": 95970,
       "word": "研究生教人骑车两年赚27万",
@@ -2691,6 +2779,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 85601,
+      "num": 95417,
+      "word": "咒术回战第三季开播",
+      "onboard_time": 1767880822,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 85559,
       "num": 85559,
       "word": "中国海军近期在南海救助菲渔民",
@@ -2729,14 +2825,6 @@
       "onboard_time": 1767879561,
       "rank": 43,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 83405,
-      "num": 83405,
-      "word": "关晓彤三部央视备播",
-      "onboard_time": 1767880463,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 82851,
@@ -2891,14 +2979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75424,
-      "num": 203504,
-      "word": "海底捞已将被扔尿不湿的锅具废弃",
-      "onboard_time": 1767879742,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 75252,
       "num": 91543,
       "word": "刘宇宁六块腹肌隐藏款",
@@ -2953,6 +3033,14 @@
       "onboard_time": 1767855081,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 72584,
+      "num": 168476,
+      "word": "中产涌入超市抢300元羽绒服",
+      "onboard_time": 1767882623,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71822,
@@ -3443,6 +3531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36919,
+      "num": 164998,
+      "word": "李显龙就美对委军事行动发声",
+      "onboard_time": 1767882623,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 35887,
       "num": 227025,
       "word": "最高法回应裁判文书隐名问题",
@@ -3721,6 +3817,14 @@
       "onboard_time": 1767868041,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 14463,
+      "num": 108954,
+      "word": "河南一市政绿化带被人埋入骨灰盒",
+      "onboard_time": 1767882322,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12384,
