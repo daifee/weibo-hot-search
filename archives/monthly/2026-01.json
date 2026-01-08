@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767848307582,
+  "endTime": 1767850415865,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -48,6 +48,14 @@
       "word": "Asen回应Sakee",
       "onboard_time": 1767757102,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2530729,
+      "num": 185579,
+      "word": "孙怡道歉",
+      "onboard_time": 1767848122,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -948,7 +956,7 @@
     },
     {
       "raw_hot": 663511,
-      "num": 245026,
+      "num": 308360,
       "word": "男子散布未婚妻不雅视频后坠亡",
       "onboard_time": 1767837920,
       "rank": 13,
@@ -964,7 +972,7 @@
     },
     {
       "raw_hot": 656764,
-      "num": 245950,
+      "num": 381792,
       "word": "41岁女子健身断奶茶一年换了张脸",
       "onboard_time": 1767843800,
       "rank": 12,
@@ -1772,7 +1780,7 @@
     },
     {
       "raw_hot": 506314,
-      "num": 245507,
+      "num": 294688,
       "word": "原来轧戏轧的是韩剧啊",
       "onboard_time": 1767845420,
       "rank": 11,
@@ -2427,6 +2435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 434822,
+      "num": 235859,
+      "word": "董子健晒四年前偶遇刘昊然合影",
+      "onboard_time": 1767845962,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434032,
       "num": 234827,
       "word": "高三男生被邻居驾车撞伤1年多身亡",
@@ -2489,6 +2505,14 @@
       "onboard_time": 1767527904,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 426442,
+      "num": 426442,
+      "word": "原来长辈买衣服不是随便摸摸",
+      "onboard_time": 1767846561,
+      "rank": 5,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 422087,
@@ -2907,6 +2931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 375872,
+      "num": 375872,
+      "word": "虞书欣云初令出妆",
+      "onboard_time": 1767846141,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 375440,
       "num": 375440,
       "word": "载有马杜罗飞机抵达纽约",
@@ -3323,14 +3355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 340418,
-      "num": 294809,
-      "word": "原来长辈买衣服不是随便摸摸",
-      "onboard_time": 1767846561,
-      "rank": 5,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 340364,
       "num": 340364,
       "word": "差三分考上北大研究生的含金量",
@@ -3404,7 +3428,7 @@
     },
     {
       "raw_hot": 334099,
-      "num": 334099,
+      "num": 393226,
       "word": "王者荣耀水晶概率好高",
       "onboard_time": 1767842180,
       "rank": 5,
@@ -3428,7 +3452,7 @@
     },
     {
       "raw_hot": 333035,
-      "num": 333035,
+      "num": 401011,
       "word": "请1400万网红带货成交4单男子发声",
       "onboard_time": 1767841640,
       "rank": 8,
@@ -4139,6 +4163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291751,
+      "num": 291751,
+      "word": "李施嬅车崇健he了",
+      "onboard_time": 1767849381,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290460,
       "num": 352214,
       "word": "李在明夫人感谢中国女性代表",
@@ -4267,6 +4299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 280673,
+      "num": 280673,
+      "word": "陶喆巡演官宣",
+      "onboard_time": 1767847402,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 280098,
       "num": 251972,
       "word": "统一军装审美的男人杀回来了",
@@ -4289,6 +4329,14 @@
       "onboard_time": 1767504982,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279542,
+      "num": 556354,
+      "word": "再见爱人",
+      "onboard_time": 1767251300,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 279044,
@@ -4473,14 +4521,6 @@
       "onboard_time": 1767323661,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 268745,
-      "num": 235859,
-      "word": "董子健晒四年前偶遇刘昊然合影",
-      "onboard_time": 1767845962,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 268712,
@@ -5011,14 +5051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 244051,
-      "num": 556354,
-      "word": "再见爱人",
-      "onboard_time": 1767251300,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 243910,
       "num": 110009,
       "word": "虞书欣双轨伴手礼",
@@ -5161,14 +5193,6 @@
       "onboard_time": 1767839480,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 237295,
-      "num": 237295,
-      "word": "虞书欣云初令出妆",
-      "onboard_time": 1767846141,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 235792,
@@ -5417,6 +5441,14 @@
       "onboard_time": 1767573143,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 227858,
+      "num": 227858,
+      "word": "2025央八收视前十",
+      "onboard_time": 1767849321,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 227387,
@@ -5859,6 +5891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210195,
+      "num": 422760,
+      "word": "美国ICE当街射杀37岁母亲",
+      "onboard_time": 1767846141,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 209761,
       "num": 1030602,
       "word": "伊朗面临40多年来最严峻挑战",
@@ -5969,6 +6009,14 @@
       "onboard_time": 1767410549,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207411,
+      "num": 179842,
+      "word": "蔡徐坤上海",
+      "onboard_time": 1767849742,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 207352,
@@ -6131,6 +6179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 202068,
+      "num": 183870,
+      "word": "荣耀之战",
+      "onboard_time": 1767514642,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201823,
       "num": 201823,
       "word": "骄阳似我集均",
@@ -6233,14 +6289,6 @@
       "onboard_time": 1767799584,
       "rank": 39,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 199236,
-      "num": 199236,
-      "word": "陶喆巡演官宣",
-      "onboard_time": 1767847402,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 199048,
@@ -6979,6 +7027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 185898,
+      "num": 185898,
+      "word": "赵丽颖录音棚live图",
+      "onboard_time": 1767849622,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 185840,
       "num": 2519848,
       "word": "幼儿园园长回应篮球表演失误出圈",
@@ -7097,14 +7153,6 @@
       "onboard_time": 1767616102,
       "rank": 9,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 183870,
-      "num": 183870,
-      "word": "荣耀之战",
-      "onboard_time": 1767514642,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 183815,
@@ -8635,14 +8683,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 157573,
-      "num": 143614,
-      "word": "美国ICE当街射杀37岁母亲",
-      "onboard_time": 1767846141,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 157492,
       "num": 228374,
       "word": "宋威龙现偶偶爸",
@@ -9267,6 +9307,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 147439,
+      "num": 147439,
+      "word": "原神少女",
+      "onboard_time": 1767848782,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 147312,
       "num": 147312,
       "word": "当你过上了小时候想过的生活",
@@ -9513,6 +9561,14 @@
       "onboard_time": 1767594742,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144812,
+      "num": 141425,
+      "word": "宋威龙海外口碑",
+      "onboard_time": 1767849742,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 144671,
@@ -10033,6 +10089,14 @@
       "onboard_time": 1767439645,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 138730,
+      "num": 138730,
+      "word": "玉茗茶骨十年冤案竟然有原型",
+      "onboard_time": 1767848662,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 138346,
@@ -10859,14 +10923,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128202,
-      "num": 128202,
-      "word": "孙怡道歉",
-      "onboard_time": 1767848122,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128037,
       "num": 1678085,
       "word": "数字人民币和微信支付宝的不同",
@@ -11539,6 +11595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 122192,
+      "num": 143695,
+      "word": "3万请1400万网红带货仅成交4单",
+      "onboard_time": 1767846681,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121894,
       "num": 121894,
       "word": "中方就马杜罗称无罪表态",
@@ -11731,20 +11795,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120402,
+      "num": 120402,
+      "word": "无期迷途",
+      "onboard_time": 1767849321,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120188,
       "num": 120188,
       "word": "夏之光 经常请吃饭的帅气哥哥",
       "onboard_time": 1767526162,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 119970,
-      "num": 143695,
-      "word": "3万请1400万网红带货仅成交4单",
-      "onboard_time": 1767846681,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119908,
@@ -11809,6 +11873,14 @@
       "onboard_time": 1767413486,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 119316,
+      "num": 108944,
+      "word": "赵今麦 cp都是姐的过客",
+      "onboard_time": 1767849262,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 119269,
@@ -12779,6 +12851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 108945,
+      "num": 108945,
+      "word": "女子取现240万称给外甥彩礼",
+      "onboard_time": 1767848901,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108927,
       "num": 108927,
       "word": "紫金矿业涨超6%",
@@ -13049,6 +13129,14 @@
       "onboard_time": 1767796346,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 106582,
+      "num": 235969,
+      "word": "委内瑞拉代总统誓言营救马杜罗夫妇",
+      "onboard_time": 1767847642,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 106476,
@@ -13435,6 +13523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104239,
+      "num": 148133,
+      "word": "CBA",
+      "onboard_time": 1767623243,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104157,
       "num": 176670,
       "word": "起底男婴疑被助产士剪断手指涉事医院",
@@ -13473,6 +13569,14 @@
       "onboard_time": 1767456082,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103997,
+      "num": 103997,
+      "word": "樊振东以一己之力改善联赛生态",
+      "onboard_time": 1767849801,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 103956,
@@ -14571,6 +14675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96534,
+      "num": 96534,
+      "word": "人的吃商等于恋商",
+      "onboard_time": 1767848601,
+      "rank": 42,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 96338,
       "num": 96338,
       "word": "剪断婴儿手指低级失误是如何发生的",
@@ -14731,14 +14843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95349,
-      "num": 148133,
-      "word": "CBA",
-      "onboard_time": 1767623243,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95346,
       "num": 1033486,
       "word": "代谢一碗方便面需要多久",
@@ -14841,6 +14945,14 @@
       "onboard_time": 1767790224,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 94525,
+      "num": 94525,
+      "word": "过年了狗子要派上用场了",
+      "onboard_time": 1767850220,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 94498,
@@ -15467,6 +15579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 90576,
+      "num": 90576,
+      "word": "王者荣耀吕布荣耀典藏",
+      "onboard_time": 1767850101,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 90470,
       "num": 420464,
       "word": "五角大楼披萨订单又升高了",
@@ -15809,6 +15929,14 @@
       "onboard_time": 1767461358,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 88183,
+      "num": 88183,
+      "word": "小猫装睡好像幼儿园小朋友",
+      "onboard_time": 1767850400,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 88175,
@@ -22169,14 +22297,6 @@
       "onboard_time": 1767778583,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 27995,
-      "num": 235969,
-      "word": "委内瑞拉代总统誓言营救马杜罗夫妇",
-      "onboard_time": 1767847642,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 27920,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/08 12:58:27
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/08 13:33:35
 </p>
 </blockquote>
 <p>
@@ -47,6 +47,12 @@ WB冠军（热度：3566119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Asen%E5%9B%9E%E5%BA%94Sakee%23" target="weibo">
 Asen回应Sakee（热度：2704539）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E9%81%93%E6%AD%89%23" target="weibo">
+孙怡道歉（热度：2530729）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ iPhone千万别删的自带软件（热度：474519）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%95%E5%AE%8C%E7%BB%BC%E8%89%BA%E6%80%BB%E8%A3%81%E7%88%B6%E4%BA%B2%E4%B8%BB%E5%8A%A8%E5%90%91%E5%A5%B3%E5%84%BF%E9%81%93%E6%AD%89%23" target="weibo">
 录完综艺总裁父亲主动向女儿道歉（热度：439304）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%89%8D%E5%89%AF%E6%80%BB%E7%BB%9F%E5%93%88%E9%87%8C%E6%96%AF%E5%8F%91%E8%A1%A8%E5%A3%B0%E6%98%8E%23" target="weibo">
-美国前副总统哈里斯发表声明（热度：436427）
 </a>
 </li>
 
