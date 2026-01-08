@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767855498264,
+  "endTime": 1767857579797,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1035,6 +1035,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 635884,
+      "num": 371366,
+      "word": "洗头发油得慢的小方法",
+      "onboard_time": 1767853582,
+      "rank": 8,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 634706,
       "num": 243785,
       "word": "凶手听到量刑建议死立执才道歉",
@@ -1152,6 +1160,14 @@
       "word": "两外国人在重庆用筷子烫火锅",
       "onboard_time": 1767402928,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 606806,
+      "num": 421910,
+      "word": "神秘园 鳌太线",
+      "onboard_time": 1767851720,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -1515,6 +1531,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 533332,
+      "num": 375872,
+      "word": "虞书欣云初令出妆",
+      "onboard_time": 1767846141,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 532385,
       "num": 346576,
       "word": "委内瑞拉或将移交3000至5000万桶石油",
@@ -1624,14 +1648,6 @@
       "word": "内娱现偶婚纱照",
       "onboard_time": 1767597861,
       "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 518724,
-      "num": 375872,
-      "word": "虞书欣云初令出妆",
-      "onboard_time": 1767846141,
-      "rank": 18,
       "category": "剧集"
     },
     {
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767798144,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 444902,
-      "num": 761510,
-      "word": "身无分文男子到彩票店刮800元彩票",
-      "onboard_time": 1767684441,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 444586,
-      "num": 444586,
-      "word": "马杜罗没能进入安全空间",
-      "onboard_time": 1767481699,
-      "rank": 11,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/08 14:58:18
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/08 15:32:59
 </p>
 </blockquote>
 <p>
@@ -789,6 +789,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B4%97%E5%A4%B4%E5%8F%91%E6%B2%B9%E5%BE%97%E6%85%A2%E7%9A%84%E5%B0%8F%E6%96%B9%E6%B3%95%23" target="weibo">
+洗头发油得慢的小方法（热度：635884）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%B6%E6%89%8B%E5%90%AC%E5%88%B0%E9%87%8F%E5%88%91%E5%BB%BA%E8%AE%AE%E6%AD%BB%E7%AB%8B%E6%89%A7%E6%89%8D%E9%81%93%E6%AD%89%23" target="weibo">
 凶手听到量刑建议死立执才道歉（热度：634706）
 </a>
@@ -875,6 +881,12 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%9C%A8%E9%87%8D%E5%BA%86%E7%94%A8%E7%AD%B7%E5%AD%90%E7%83%AB%E7%81%AB%E9%94%85%23" target="weibo">
 两外国人在重庆用筷子烫火锅（热度：607813）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A5%9E%E7%A7%98%E5%9B%AD%20%E9%B3%8C%E5%A4%AA%E7%BA%BF%23" target="weibo">
+神秘园 鳌太线（热度：606806）
 </a>
 </li>
 
@@ -1149,6 +1161,12 @@ iPhoneFold上手（热度：543056）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%BA%91%E5%88%9D%E4%BB%A4%E5%87%BA%E5%A6%86%23" target="weibo">
+虞书欣云初令出妆（热度：533332）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%88%96%E5%B0%86%E7%A7%BB%E4%BA%A43000%E8%87%B35000%E4%B8%87%E6%A1%B6%E7%9F%B3%E6%B2%B9%23" target="weibo">
 委内瑞拉或将移交3000至5000万桶石油（热度：532385）
 </a>
@@ -1229,12 +1247,6 @@ iPhoneFold上手（热度：543056）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%8E%B0%E5%81%B6%E5%A9%9A%E7%BA%B1%E7%85%A7%23" target="weibo">
 内娱现偶婚纱照（热度：519373）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%BA%91%E5%88%9D%E4%BB%A4%E5%87%BA%E5%A6%86%23" target="weibo">
-虞书欣云初令出妆（热度：518724）
 </a>
 </li>
 
@@ -1799,18 +1811,6 @@ iPhone千万别删的自带软件（热度：474519）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%93%886%E5%B8%B8%E9%A9%BB%E5%98%89%E5%AE%BE%23" target="weibo">
 五哈6常驻嘉宾（热度：446730）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BA%AB%E6%97%A0%E5%88%86%E6%96%87%E7%94%B7%E5%AD%90%E5%88%B0%E5%BD%A9%E7%A5%A8%E5%BA%97%E5%88%AE800%E5%85%83%E5%BD%A9%E7%A5%A8%23" target="weibo">
-身无分文男子到彩票店刮800元彩票（热度：444902）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%9C%E7%BD%97%E6%B2%A1%E8%83%BD%E8%BF%9B%E5%85%A5%E5%AE%89%E5%85%A8%E7%A9%BA%E9%97%B4%23" target="weibo">
-马杜罗没能进入安全空间（热度：444586）
 </a>
 </li>
 
