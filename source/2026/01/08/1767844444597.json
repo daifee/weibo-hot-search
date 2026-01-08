@@ -1,0 +1,410 @@
+{
+  "runTime": 1767844444597,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 915244,
+        "num": 1146439,
+        "word": "机票价格大跳水",
+        "onboard_time": 1767837319,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 553956,
+        "num": 818994,
+        "word": "女律师将唇膏给嫌疑人用被停业",
+        "onboard_time": 1767840020,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21482,
+        "num": 685334,
+        "word": "直播电商新规强化AI内容监管",
+        "onboard_time": 1767795265,
+        "rank": 2,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 995587,
+        "num": 679218,
+        "word": "海底捞小便当事人登报道歉",
+        "onboard_time": 1767841700,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454909,
+        "num": 454909,
+        "word": "王腾从小米离开后成立新公司",
+        "onboard_time": 1767837979,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 291318,
+        "num": 291318,
+        "word": "王者荣耀水晶概率好高",
+        "onboard_time": 1767842180,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 251220,
+        "num": 251220,
+        "word": "美国一口气退66个群",
+        "onboard_time": 1767828619,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 237383,
+        "num": 237383,
+        "word": "中国公民被印方拒绝入境并劝返",
+        "onboard_time": 1767839480,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 228259,
+        "num": 228259,
+        "word": "请1400万网红带货成交4单男子发声",
+        "onboard_time": 1767841640,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201746,
+        "num": 201746,
+        "word": "我的朋友圈点赞等级森严",
+        "onboard_time": 1767834441,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 728241,
+        "num": 200967,
+        "word": "浪姐2026 张曼玉",
+        "onboard_time": 1767839961,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 534367,
+        "num": 200862,
+        "word": "男子散布未婚妻不雅视频后坠亡",
+        "onboard_time": 1767837920,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390370,
+        "num": 198896,
+        "word": "41岁女子健身断奶茶一年换了张脸",
+        "onboard_time": 1767843800,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195077,
+        "num": 195077,
+        "word": "云初令",
+        "onboard_time": 1767843501,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91309,
+        "num": 182307,
+        "word": "AI大模型上市第一股",
+        "onboard_time": 1767841581,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 181213,
+        "num": 181213,
+        "word": "赵丽颖吃完你的吃你的",
+        "onboard_time": 1767843561,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155082,
+        "num": 155082,
+        "word": "李在明希望再租借一对熊猫",
+        "onboard_time": 1767831681,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150208,
+        "num": 150208,
+        "word": "男子隐瞒案底有娃追求北京独生女",
+        "onboard_time": 1767838519,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122831,
+        "num": 149814,
+        "word": "被国产剧治好了我的恋爱脑",
+        "onboard_time": 1767843740,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37861,
+        "num": 148841,
+        "word": "和府捞面曾公开速冻肉类视频",
+        "onboard_time": 1767843381,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319686,
+        "num": 146879,
+        "word": "原来命运真的有伏笔",
+        "onboard_time": 1767841820,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207771,
+        "num": 146545,
+        "word": "悄悄涨价的东西",
+        "onboard_time": 1767841101,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182843,
+        "num": 145216,
+        "word": "黄晓明抄的哪个主包穿搭",
+        "onboard_time": 1767841160,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144499,
+        "num": 144499,
+        "word": "工作的松弛感是靠刷出来的",
+        "onboard_time": 1767843740,
+        "rank": 23,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 137215,
+        "num": 137215,
+        "word": "张钧甯哭出了漫画里才有的泪眼",
+        "onboard_time": 1767843860,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123136,
+        "num": 123136,
+        "word": "人一定会为漂亮的东西买单",
+        "onboard_time": 1767843561,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119014,
+        "num": 119014,
+        "word": "6类人的衣服袜子最好别混洗",
+        "onboard_time": 1767844220,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118801,
+        "num": 118801,
+        "word": "鳌太线 不卖烤肠的山不能爬",
+        "onboard_time": 1767835341,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101722,
+        "num": 117823,
+        "word": "老鹰将特雷杨交易到奇才",
+        "onboard_time": 1767840440,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94306,
+        "num": 117665,
+        "word": "为什么HPV是男性健康刺客",
+        "onboard_time": 1767839601,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105914,
+        "num": 117564,
+        "word": "马思纯演技",
+        "onboard_time": 1767843260,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117547,
+        "num": 117547,
+        "word": "王腾回应新产品是否接入米家",
+        "onboard_time": 1767843381,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 117478,
+        "num": 117478,
+        "word": "用迪丽热巴打开微微一笑很倾城",
+        "onboard_time": 1767842720,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110130,
+        "num": 110130,
+        "word": "靠刷boss完成了精神离职",
+        "onboard_time": 1767844401,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107347,
+        "num": 107347,
+        "word": "王腾团队核心来自小米华为等大厂",
+        "onboard_time": 1767839480,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 102513,
+        "num": 102513,
+        "word": "冰岛偶遇周也",
+        "onboard_time": 1767832999,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99928,
+        "num": 99928,
+        "word": "王腾新公司名今日宜休",
+        "onboard_time": 1767837800,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 99813,
+        "num": 99813,
+        "word": "宋威龙赵今麦互为一级铁粉",
+        "onboard_time": 1767844220,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32240,
+        "num": 98715,
+        "word": "美媒曝美军重启二战空军基地进展",
+        "onboard_time": 1767843441,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29417,
+        "num": 98434,
+        "word": "大爷回应拍素颜巴黎火了",
+        "onboard_time": 1767843620,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97996,
+        "num": 98408,
+        "word": "小酒窝朵朵看时空奇旅看哭了",
+        "onboard_time": 1767842780,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98390,
+        "num": 98390,
+        "word": "82岁外婆翻3米高围栏出门",
+        "onboard_time": 1767836539,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98149,
+        "num": 98149,
+        "word": "林依轮在赵今麦面前演聂曦光",
+        "onboard_time": 1767841700,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95734,
+        "num": 95734,
+        "word": "iPhone 13全系开启限时半价换电池",
+        "onboard_time": 1767829339,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 90888,
+        "num": 90888,
+        "word": "有鹅鸭杀ID被炒到7500元",
+        "onboard_time": 1767839961,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90349,
+        "num": 90349,
+        "word": "雷军说刘强东营销也很好",
+        "onboard_time": 1767840679,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 84359,
+        "num": 84359,
+        "word": "张凌赫归鸾出妆",
+        "onboard_time": 1767844340,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83315,
+        "num": 83315,
+        "word": "有这么会谈的男女主进入现偶",
+        "onboard_time": 1767844401,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81090,
+        "num": 81090,
+        "word": "高铁上跟我讲这些根本不带睡的",
+        "onboard_time": 1767843680,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80370,
+        "num": 80370,
+        "word": "NBA交易",
+        "onboard_time": 1767843920,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中韩应当坚定站在历史正确一边#"
+    }
+  }
+}
