@@ -1,6 +1,6 @@
 {
   "startTime": 1767890395081,
-  "endTime": 1767894759750,
+  "endTime": 1767897550062,
   "band_list": [
     {
       "raw_hot": 1118560,
@@ -473,6 +473,22 @@
       "onboard_time": 1767887719,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 20949,
+      "num": 41860,
+      "word": "Meta Manus",
+      "onboard_time": 1767887120,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15005,
+      "num": 41426,
+      "word": "3岁男童和狗看挖机走失救援者发声",
+      "onboard_time": 1767896835,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12816,

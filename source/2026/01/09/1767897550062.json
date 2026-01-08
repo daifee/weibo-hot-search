@@ -1,0 +1,410 @@
+{
+  "runTime": 1767897550062,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 115672,
+        "num": 135243,
+        "word": "中国人花六十多万买下北海道三套房",
+        "onboard_time": 1767885380,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66354,
+        "num": 98133,
+        "word": "双胞胎姐妹分别取名灿和烂",
+        "onboard_time": 1767873022,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12732,
+        "num": 80040,
+        "word": "国补新政激发新年消费热情",
+        "onboard_time": 1767877821,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 79994,
+        "num": 79994,
+        "word": "高校建议高数成绩落后家长陪读",
+        "onboard_time": 1767890597,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58950,
+        "num": 58950,
+        "word": "博主吃播室友剩饭被多平台封禁",
+        "onboard_time": 1767889278,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44687,
+        "num": 44687,
+        "word": "再也不去理发店洗头了",
+        "onboard_time": 1767888740,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36505,
+        "num": 44680,
+        "word": "Manus创始人",
+        "onboard_time": 1767886761,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33434,
+        "num": 44448,
+        "word": "iPhone18Pro系列影像测试配置",
+        "onboard_time": 1767888859,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 30854,
+        "num": 44307,
+        "word": "上海移动已报案",
+        "onboard_time": 1767883822,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29432,
+        "num": 44119,
+        "word": "中产涌入超市抢300元羽绒服",
+        "onboard_time": 1767882623,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67716,
+        "num": 44098,
+        "word": "海底捞 尿不湿",
+        "onboard_time": 1767870680,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58879,
+        "num": 43901,
+        "word": "海底捞已将被扔尿不湿的锅具废弃",
+        "onboard_time": 1767879742,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35368,
+        "num": 43751,
+        "word": "多名半裸男模在商场走秀被质疑擦边",
+        "onboard_time": 1767869181,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30809,
+        "num": 43538,
+        "word": "短剧版仙剑三",
+        "onboard_time": 1767887840,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28876,
+        "num": 43422,
+        "word": "体育局回应亚运三金得主实名举报",
+        "onboard_time": 1767889518,
+        "rank": 14,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 28850,
+        "num": 43237,
+        "word": "小姐姐用自己外套救起受伤小猫",
+        "onboard_time": 1767893536,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27658,
+        "num": 43141,
+        "word": "呼和浩特发生2.8级地震",
+        "onboard_time": 1767885561,
+        "rank": 16,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 26750,
+        "num": 43011,
+        "word": "海底捞锅里被扔尿布门店已报警",
+        "onboard_time": 1767872661,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25712,
+        "num": 42886,
+        "word": "张凌赫背林允",
+        "onboard_time": 1767882743,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24388,
+        "num": 42702,
+        "word": "短剧版紫萱",
+        "onboard_time": 1767880581,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89657,
+        "num": 42535,
+        "word": "孙怡道歉",
+        "onboard_time": 1767848122,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84252,
+        "num": 42430,
+        "word": "王橹杰 这次不是草莓蛋糕了",
+        "onboard_time": 1767886341,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64426,
+        "num": 42353,
+        "word": "檀健次直播",
+        "onboard_time": 1767875242,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23788,
+        "num": 42134,
+        "word": "扔尿不湿幼童监护人已被处理",
+        "onboard_time": 1767879982,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42076,
+        "num": 42076,
+        "word": "男子看羊圈监控发现妻子婚外情8年",
+        "onboard_time": 1767878722,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27829,
+        "num": 42070,
+        "word": "卢昱晓兔子警官vlog",
+        "onboard_time": 1767886521,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38204,
+        "num": 42021,
+        "word": "王橹杰黑头纱",
+        "onboard_time": 1767868041,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26518,
+        "num": 41987,
+        "word": "女子买洗碗机老公嫌水电贵把家砸了",
+        "onboard_time": 1767867440,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21942,
+        "num": 41971,
+        "word": "迪丽热巴高雅人士",
+        "onboard_time": 1767874521,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21936,
+        "num": 41935,
+        "word": "伊能静57岁身材",
+        "onboard_time": 1767873321,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21000,
+        "num": 41907,
+        "word": "双高胎合唱",
+        "onboard_time": 1767892517,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20949,
+        "num": 41860,
+        "word": "Meta Manus",
+        "onboard_time": 1767887120,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20724,
+        "num": 41853,
+        "word": "导演认可侯明昊顶尖猫系男主",
+        "onboard_time": 1767891619,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20592,
+        "num": 41801,
+        "word": "张真源腰腹纹身",
+        "onboard_time": 1767874643,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18905,
+        "num": 41782,
+        "word": "一翼装飞行员跃下不到10秒撞上岩石",
+        "onboard_time": 1767881542,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18861,
+        "num": 41751,
+        "word": "1818名明星网红查补税款",
+        "onboard_time": 1767876381,
+        "rank": 35,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 18484,
+        "num": 41735,
+        "word": "Manus 新加坡",
+        "onboard_time": 1767885142,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19074,
+        "num": 41691,
+        "word": "侯明昊发长文告别逍遥",
+        "onboard_time": 1767876262,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18108,
+        "num": 41671,
+        "word": "试试沉浸式做自己",
+        "onboard_time": 1767887719,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17432,
+        "num": 41636,
+        "word": "苹果养生吃法不只煮水",
+        "onboard_time": 1767887421,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 17404,
+        "num": 41595,
+        "word": "中方驳回日方交涉",
+        "onboard_time": 1767873081,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17305,
+        "num": 41582,
+        "word": "千里江山图",
+        "onboard_time": 1767880942,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16358,
+        "num": 41528,
+        "word": "王源郑州吃播vlog",
+        "onboard_time": 1767893418,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17177,
+        "num": 41492,
+        "word": "李兰迪确认客串千里江山图",
+        "onboard_time": 1767885321,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15325,
+        "num": 41473,
+        "word": "刘宇宁称巡演成都站有小惊喜",
+        "onboard_time": 1767892217,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15229,
+        "num": 41440,
+        "word": "李显龙批评美国违反国际法",
+        "onboard_time": 1767893117,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15005,
+        "num": 41426,
+        "word": "3岁男童和狗看挖机走失救援者发声",
+        "onboard_time": 1767896835,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15002,
+        "num": 41382,
+        "word": "虞书欣云初令摔杯路透",
+        "onboard_time": 1767884603,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14384,
+        "num": 41347,
+        "word": "关晓彤三部央视备播",
+        "onboard_time": 1767880463,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13995,
+        "num": 41313,
+        "word": "三九天喝苹果水",
+        "onboard_time": 1767866000,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央政治局常委会召开会议#"
+    }
+  }
+}
