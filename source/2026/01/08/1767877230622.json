@@ -1,0 +1,410 @@
+{
+  "runTime": 1767877230622,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 832264,
+        "num": 1133162,
+        "word": "海底捞锅里被扔尿布门店已报警",
+        "onboard_time": 1767872661,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 815710,
+        "num": 838601,
+        "word": "双胞胎姐妹分别取名灿和烂",
+        "onboard_time": 1767873022,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23150,
+        "num": 635069,
+        "word": "向新向优发展中国经济向好",
+        "onboard_time": 1767863901,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 226982,
+        "num": 226982,
+        "word": "中方驳回日方交涉",
+        "onboard_time": 1767873081,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 209439,
+        "num": 226297,
+        "word": "男子180个蛋糕送福利院以为做少了",
+        "onboard_time": 1767868701,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207939,
+        "num": 225800,
+        "word": "三九天喝苹果水",
+        "onboard_time": 1767866000,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 138202,
+        "num": 224515,
+        "word": "党员烧香算违纪吗官方释疑",
+        "onboard_time": 1767858380,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126663,
+        "num": 223519,
+        "word": "王曼昱3比0大藤沙月",
+        "onboard_time": 1767875601,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112421,
+        "num": 222637,
+        "word": "中共中央政治局常务委员会召开会议",
+        "onboard_time": 1767872961,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 222090,
+        "num": 222090,
+        "word": "恋与深空最有耐心的男主",
+        "onboard_time": 1767874762,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 980380,
+        "num": 218828,
+        "word": "海底捞 尿不湿",
+        "onboard_time": 1767870680,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370403,
+        "num": 217971,
+        "word": "多名半裸男模在商场走秀被质疑擦边",
+        "onboard_time": 1767869181,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255199,
+        "num": 217039,
+        "word": "一家三口被撞亡前1秒行车记录曝光",
+        "onboard_time": 1767869901,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214437,
+        "num": 214437,
+        "word": "周深你驾驶证该换了",
+        "onboard_time": 1767873382,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198773,
+        "num": 198773,
+        "word": "侯明昊发长文告别逍遥",
+        "onboard_time": 1767876262,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159446,
+        "num": 159446,
+        "word": "肖战今年或将开演唱会",
+        "onboard_time": 1767870680,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142288,
+        "num": 142288,
+        "word": "骄阳似我番外篇",
+        "onboard_time": 1767869240,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142134,
+        "num": 142134,
+        "word": "梁淞以为何美延没下车慌了",
+        "onboard_time": 1767865280,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114797,
+        "num": 141590,
+        "word": "孙俪又拍完了一个新角色",
+        "onboard_time": 1767870441,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108126,
+        "num": 141045,
+        "word": "机票价格大跳水",
+        "onboard_time": 1767837319,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 686508,
+        "num": 140594,
+        "word": "孙怡道歉",
+        "onboard_time": 1767848122,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 622469,
+        "num": 139508,
+        "word": "檀健次直播",
+        "onboard_time": 1767875242,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564385,
+        "num": 138857,
+        "word": "曝男艺人因负面骂助理",
+        "onboard_time": 1767866061,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486546,
+        "num": 138142,
+        "word": "王橹杰黑头纱",
+        "onboard_time": 1767868041,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403814,
+        "num": 137670,
+        "word": "张真源腰腹纹身",
+        "onboard_time": 1767874643,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358815,
+        "num": 136410,
+        "word": "叶祖新 不要虐待四旬老人",
+        "onboard_time": 1767875902,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324224,
+        "num": 136012,
+        "word": "迪丽热巴高雅人士",
+        "onboard_time": 1767874521,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268168,
+        "num": 135028,
+        "word": "伊能静57岁身材",
+        "onboard_time": 1767873321,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259266,
+        "num": 134450,
+        "word": "女子买洗碗机老公嫌水电贵把家砸了",
+        "onboard_time": 1767867440,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144588,
+        "num": 133964,
+        "word": "歌手萧煌奇宣布结婚",
+        "onboard_time": 1767867381,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133455,
+        "num": 133455,
+        "word": "ChatGPT发布美国版蚂蚁阿福",
+        "onboard_time": 1767874521,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131794,
+        "num": 131794,
+        "word": "檀健次文化底蕴",
+        "onboard_time": 1767871461,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115023,
+        "num": 115023,
+        "word": "一家三口被撞身亡墓地飞出蝴蝶",
+        "onboard_time": 1767869121,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107409,
+        "num": 107409,
+        "word": "1818名明星网红查补税款",
+        "onboard_time": 1767876381,
+        "rank": 33,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 107136,
+        "num": 107136,
+        "word": "成毅曾舜晞肖顺尧再聚江湖",
+        "onboard_time": 1767871341,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105705,
+        "num": 105705,
+        "word": "中国递烟大爷在外网好火",
+        "onboard_time": 1767876081,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104679,
+        "num": 104679,
+        "word": "章昊 你好星期六",
+        "onboard_time": 1767876562,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101612,
+        "num": 101612,
+        "word": "导演否认于正张慧雯有吻戏",
+        "onboard_time": 1767868220,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99738,
+        "num": 99738,
+        "word": "王者碎片商店三款皮肤堪比传说",
+        "onboard_time": 1767876262,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 44261,
+        "num": 96830,
+        "word": "谁给宋威龙张凌赫递个本子",
+        "onboard_time": 1767876022,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96372,
+        "num": 96372,
+        "word": "中方管制可对日本造成多重影响",
+        "onboard_time": 1767877103,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95823,
+        "num": 95823,
+        "word": "为何娘身上掉下的肉能终身在儿体内",
+        "onboard_time": 1767874581,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 90771,
+        "num": 90771,
+        "word": "3岁男童看挖机走失找到时出现失温",
+        "onboard_time": 1767875002,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89235,
+        "num": 89235,
+        "word": "王曼昱晋级多哈冠军赛16强",
+        "onboard_time": 1767876801,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95975,
+        "num": 88764,
+        "word": "宋威龙的锁骨痣",
+        "onboard_time": 1767861622,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88264,
+        "num": 88264,
+        "word": "周深4条微博99条回复",
+        "onboard_time": 1767873801,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87939,
+        "num": 87939,
+        "word": "雀巢中国已按要求实施奶粉召回",
+        "onboard_time": 1767876981,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85025,
+        "num": 85025,
+        "word": "大学老师已进入海底捞环节",
+        "onboard_time": 1767876862,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84952,
+        "num": 84952,
+        "word": "车厘子甜品",
+        "onboard_time": 1767871881,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 82068,
+        "num": 82068,
+        "word": "陈梦说全运会前9个月完全没有训练",
+        "onboard_time": 1767875721,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#打开长江经济带高质量可持续发展之窗#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1767804017084,
-  "endTime": 1767872567966,
+  "endTime": 1767877230622,
   "band_list": [
     {
       "raw_hot": 2608150,
@@ -83,8 +83,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 832264,
+      "num": 1133162,
+      "word": "海底捞锅里被扔尿布门店已报警",
+      "onboard_time": 1767872661,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 815710,
+      "num": 838601,
+      "word": "双胞胎姐妹分别取名灿和烂",
+      "onboard_time": 1767873022,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 748073,
-      "num": 197656,
+      "num": 217971,
       "word": "多名半裸男模在商场走秀被质疑擦边",
       "onboard_time": 1767869181,
       "rank": 39,
@@ -129,6 +145,14 @@
       "onboard_time": 1767853582,
       "rank": 8,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 622469,
+      "num": 139508,
+      "word": "檀健次直播",
+      "onboard_time": 1767875242,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 606806,
@@ -307,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 403814,
+      "num": 137670,
+      "word": "张真源腰腹纹身",
+      "onboard_time": 1767874643,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 401318,
       "num": 401318,
       "word": "坠亡女教师母亲想不通女儿为何轻生",
@@ -353,6 +385,14 @@
       "onboard_time": 1767867440,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 358815,
+      "num": 136410,
+      "word": "叶祖新 不要虐待四旬老人",
+      "onboard_time": 1767875902,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 357473,
@@ -424,6 +464,14 @@
       "word": "冰岛偶遇周也",
       "onboard_time": 1767832999,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 324224,
+      "num": 136012,
+      "word": "迪丽热巴高雅人士",
+      "onboard_time": 1767874521,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -523,6 +571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 268168,
+      "num": 135028,
+      "word": "伊能静57岁身材",
+      "onboard_time": 1767873321,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266550,
       "num": 219099,
       "word": "iPhone 13全系开启限时半价换电池",
@@ -561,6 +617,14 @@
       "onboard_time": 1767859580,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 255199,
+      "num": 217039,
+      "word": "一家三口被撞亡前1秒行车记录曝光",
+      "onboard_time": 1767869901,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 242580,
@@ -603,6 +667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 226982,
+      "num": 226982,
+      "word": "中方驳回日方交涉",
+      "onboard_time": 1767873081,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 225916,
       "num": 225916,
       "word": "林允归鸾妆造",
@@ -617,6 +689,14 @@
       "onboard_time": 1767870680,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 222090,
+      "num": 222090,
+      "word": "恋与深空最有耐心的男主",
+      "onboard_time": 1767874762,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 220854,
@@ -651,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214437,
+      "num": 214437,
+      "word": "周深你驾驶证该换了",
+      "onboard_time": 1767873382,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207189,
       "num": 184941,
       "word": "气血不足的人大多有这些习惯",
@@ -660,7 +748,7 @@
     },
     {
       "raw_hot": 202986,
-      "num": 129637,
+      "num": 131794,
       "word": "檀健次文化底蕴",
       "onboard_time": 1767871461,
       "rank": 26,
@@ -705,6 +793,14 @@
       "onboard_time": 1767799584,
       "rank": 1,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 198773,
+      "num": 198773,
+      "word": "侯明昊发长文告别逍遥",
+      "onboard_time": 1767876262,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 198671,
@@ -1171,12 +1267,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133695,
-      "num": 133695,
-      "word": "一家三口被撞亡前1秒行车记录曝光",
-      "onboard_time": 1767869901,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 133455,
+      "num": 133455,
+      "word": "ChatGPT发布美国版蚂蚁阿福",
+      "onboard_time": 1767874521,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 132964,
@@ -1273,6 +1369,14 @@
       "onboard_time": 1767869480,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126663,
+      "num": 223519,
+      "word": "王曼昱3比0大藤沙月",
+      "onboard_time": 1767875601,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 126460,
@@ -1611,6 +1715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112421,
+      "num": 222637,
+      "word": "中共中央政治局常务委员会召开会议",
+      "onboard_time": 1767872961,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 112392,
       "num": 119296,
       "word": "胃癌来临时身体的五个警报",
@@ -1683,6 +1795,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107409,
+      "num": 107409,
+      "word": "1818名明星网红查补税款",
+      "onboard_time": 1767876381,
+      "rank": 33,
+      "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 107136,
+      "num": 140935,
+      "word": "成毅曾舜晞肖顺尧再聚江湖",
+      "onboard_time": 1767871341,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106730,
       "num": 106730,
       "word": "秦天宇曹骏常华森 25年出圈男配",
@@ -1697,14 +1825,6 @@
       "onboard_time": 1767847642,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 106317,
-      "num": 140935,
-      "word": "成毅曾舜晞肖顺尧再聚江湖",
-      "onboard_time": 1767871341,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 105914,
@@ -1731,6 +1851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105705,
+      "num": 105705,
+      "word": "中国递烟大爷在外网好火",
+      "onboard_time": 1767876081,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 105290,
       "num": 105290,
       "word": "外交部回应美国再退66个群",
@@ -1753,6 +1881,14 @@
       "onboard_time": 1767864022,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 104679,
+      "num": 104679,
+      "word": "章昊 你好星期六",
+      "onboard_time": 1767876562,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 104239,
@@ -1939,6 +2075,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 99738,
+      "num": 99738,
+      "word": "王者碎片商店三款皮肤堪比传说",
+      "onboard_time": 1767876262,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 99043,
       "num": 99043,
       "word": "杨瀚森扣篮扣飞了",
@@ -2035,6 +2179,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 96372,
+      "num": 96372,
+      "word": "中方管制可对日本造成多重影响",
+      "onboard_time": 1767877103,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 95947,
       "num": 95947,
       "word": "车厘子甜品",
@@ -2049,6 +2201,14 @@
       "onboard_time": 1767850463,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95823,
+      "num": 95823,
+      "word": "为何娘身上掉下的肉能终身在儿体内",
+      "onboard_time": 1767874581,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 95337,
@@ -2211,6 +2371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 90771,
+      "num": 90771,
+      "word": "3岁男童看挖机走失找到时出现失温",
+      "onboard_time": 1767875002,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90576,
       "num": 90576,
       "word": "王者荣耀吕布荣耀典藏",
@@ -2233,6 +2401,14 @@
       "onboard_time": 1767790824,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 89235,
+      "num": 89235,
+      "word": "王曼昱晋级多哈冠军赛16强",
+      "onboard_time": 1767876801,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 89193,
@@ -2275,6 +2451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88264,
+      "num": 88264,
+      "word": "周深4条微博99条回复",
+      "onboard_time": 1767873801,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88185,
       "num": 88185,
       "word": "鼻病毒检测阳性率上升",
@@ -2289,6 +2473,14 @@
       "onboard_time": 1767850400,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 87939,
+      "num": 87939,
+      "word": "雀巢中国已按要求实施奶粉召回",
+      "onboard_time": 1767876981,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87101,
@@ -2331,6 +2523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 85025,
+      "num": 85025,
+      "word": "大学老师已进入海底捞环节",
+      "onboard_time": 1767876862,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 84556,
       "num": 84556,
       "word": "雷军回应小米研发投入",
@@ -2361,6 +2561,14 @@
       "onboard_time": 1767830661,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 82068,
+      "num": 82068,
+      "word": "陈梦说全运会前9个月完全没有训练",
+      "onboard_time": 1767875721,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 81090,
@@ -2857,6 +3065,14 @@
       "onboard_time": 1767791304,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44261,
+      "num": 96830,
+      "word": "谁给宋威龙张凌赫递个本子",
+      "onboard_time": 1767876022,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 44133,

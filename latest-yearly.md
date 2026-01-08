@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/08 19:42:47
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/08 21:00:30
 </p>
 </blockquote>
 <p>
@@ -501,6 +501,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E9%94%85%E9%87%8C%E8%A2%AB%E6%89%94%E5%B0%BF%E5%B8%83%E9%97%A8%E5%BA%97%E5%B7%B2%E6%8A%A5%E8%AD%A6%23" target="weibo">
+海底捞锅里被扔尿布门店已报警（热度：832264）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%85%E9%B8%AD%E6%9D%80%23" target="weibo">
 鹅鸭杀（热度：830063）
 </a>
@@ -509,6 +515,12 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%235%E4%B8%AA%E5%BD%B1%E5%90%8E%E6%9C%894%E4%B8%AA%E9%83%BD%E9%80%89%E4%BA%86%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1%23" target="weibo">
 5个影后有4个都选了财富自由（热度：821415）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E5%88%86%E5%88%AB%E5%8F%96%E5%90%8D%E7%81%BF%E5%92%8C%E7%83%82%23" target="weibo">
+双胞胎姐妹分别取名灿和烂（热度：815710）
 </a>
 </li>
 
@@ -881,6 +893,12 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%82%E9%BE%84%E7%94%B7%E6%80%A7%E5%85%AC%E6%B0%91%E9%83%BD%E5%BA%94%E8%BF%9B%E8%A1%8C%E5%85%B5%E5%BD%B9%E7%99%BB%E8%AE%B0%23" target="weibo">
 适龄男性公民都应进行兵役登记（热度：622739）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9B%B4%E6%92%AD%23" target="weibo">
+檀健次直播（热度：622469）
 </a>
 </li>
 
@@ -1793,24 +1811,6 @@ iPhone千万别删的自带软件（热度：474519）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%9C%A8%E5%BE%B7%E9%81%AD%E8%A2%AD%E5%8F%8D%E5%87%BB%E8%87%B4%E5%AF%B9%E6%96%B9%E9%AA%A8%E6%8A%98%23" target="weibo">
 中国留学生在德遭袭反击致对方骨折（热度：455589）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%23" target="weibo">
-东方卫视跨年（热度：455514）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A8%81%E9%BE%99%20%E4%BA%BA%E7%81%AB%E4%BA%86%E8%84%B8%E4%B9%9F%E4%B8%A2%E5%B0%BD%E4%BA%86%23" target="weibo">
-宋威龙 人火了脸也丢尽了（热度：455249）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%85%BE%E4%BB%8E%E5%B0%8F%E7%B1%B3%E7%A6%BB%E5%BC%80%E5%90%8E%E6%88%90%E7%AB%8B%E6%96%B0%E5%85%AC%E5%8F%B8%23" target="weibo">
-王腾从小米离开后成立新公司（热度：454909）
 </a>
 </li>
 
