@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/04 00:34:09 ~ 2026/01/09 05:30:26
+本榜单时间：2026/01/04 00:34:09 ~ 2026/01/09 05:44:25
 </p>
 </blockquote>
 <p>
@@ -11775,6 +11775,12 @@ A股脑机接口概念集体爆发（热度：52205）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%B0%BF%E5%B8%83%E5%85%A5%E9%94%85%E8%83%8C%E5%90%8E%E6%98%AF%E7%9B%91%E6%8A%A4%E7%BC%BA%E4%BD%8D%23" target="weibo">
+海底捞尿布入锅背后是监护缺位（热度：48322）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%BD%E7%8E%B0%E5%81%B6%E9%80%81%E6%B0%91%E5%81%B6%23" target="weibo">
 追现偶送民偶（热度：48161）
 </a>
@@ -12975,12 +12981,6 @@ idoll娃娃（热度：23680）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%B0%BF%E5%B8%83%E5%85%A5%E9%94%85%E8%83%8C%E5%90%8E%E6%98%AF%E7%9B%91%E6%8A%A4%E7%BC%BA%E4%BD%8D%23" target="weibo">
-海底捞尿布入锅背后是监护缺位（热度：22118）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E8%AE%A9%E7%BB%BF%E8%89%B2%E6%B6%88%E8%B4%B9%E6%8D%A2%E6%8C%A1%E6%8F%90%E9%80%9F%23" target="weibo">
 以旧换新让绿色消费换挡提速（热度：22089）
 </a>
@@ -13323,6 +13323,12 @@ U23亚洲杯（热度：11447）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E4%BF%9D%E6%96%B0%E4%B8%BE%E6%8E%AA%E4%B8%93%E6%B2%BB%E7%BC%B4%E8%B4%B9%E6%8E%92%E9%95%BF%E9%98%9F%23" target="weibo">
+医保新举措专治缴费排长队（热度：10540）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%E6%95%99%E6%88%91%E8%B0%88%E6%81%8B%E7%88%B1%23" target="weibo">
 骄阳似我教我谈恋爱（热度：9932）
 </a>
@@ -13331,12 +13337,6 @@ U23亚洲杯（热度：11447）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23AG%E5%AE%A3%E5%B8%83%E5%89%AF%E6%95%99%E7%BB%83%E6%9D%8E%E6%89%98%E5%8D%B8%E4%BB%BB%23" target="weibo">
 AG宣布副教练李托卸任（热度：9244）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E4%BF%9D%E6%96%B0%E4%B8%BE%E6%8E%AA%E4%B8%93%E6%B2%BB%E7%BC%B4%E8%B4%B9%E6%8E%92%E9%95%BF%E9%98%9F%23" target="weibo">
-医保新举措专治缴费排长队（热度：9205）
 </a>
 </li>
 
