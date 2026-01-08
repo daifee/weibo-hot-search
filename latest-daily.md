@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/09 00:39:55 ~ 2026/01/09 01:34:25
+本榜单时间：2026/01/09 00:39:55 ~ 2026/01/09 01:52:39
 </p>
 </blockquote>
 <p>
@@ -83,6 +83,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Manus%E5%88%9B%E5%A7%8B%E4%BA%BA%23" target="weibo">
 Manus创始人（热度：147531）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%BB%BA%E8%AE%AE%E9%AB%98%E6%95%B0%E6%88%90%E7%BB%A9%E8%90%BD%E5%90%8E%E5%AE%B6%E9%95%BF%E9%99%AA%E8%AF%BB%23" target="weibo">
+高校建议高数成绩落后家长陪读（热度：144734）
 </a>
 </li>
 
@@ -249,12 +255,6 @@ Manus 新加坡（热度：111024）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%BB%BA%E8%AE%AE%E9%AB%98%E6%95%B0%E6%88%90%E7%BB%A9%E8%90%BD%E5%90%8E%E5%AE%B6%E9%95%BF%E9%99%AA%E8%AF%BB%23" target="weibo">
-高校建议高数成绩落后家长陪读（热度：48813）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%9A%E7%BD%AA2%23" target="weibo">
 罚罪2（热度：47307）
 </a>
@@ -352,7 +352,19 @@ Manus 新加坡（热度：111024）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%86%E6%B1%9F%E6%9D%A5%E7%AE%80%E7%9B%B4%E6%98%AF%E5%93%84%E4%BA%BA%E4%B8%93%E4%B8%9A%E6%88%B7%23" target="weibo">
-陆江来简直是哄人专业户（热度：26623）
+陆江来简直是哄人专业户（热度：26843）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%BE%E9%BE%99%E6%89%B9%E8%AF%84%E7%BE%8E%E5%9B%BD%E8%BF%9D%E5%8F%8D%E5%9B%BD%E9%99%85%E6%B3%95%23" target="weibo">
+李显龙批评美国违反国际法（热度：22197）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AF%95%E8%AF%95%E6%B2%89%E6%B5%B8%E5%BC%8F%E5%81%9A%E8%87%AA%E5%B7%B1%23" target="weibo">
+试试沉浸式做自己（热度：21388）
 </a>
 </li>
 

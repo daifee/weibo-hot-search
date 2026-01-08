@@ -1,6 +1,6 @@
 {
   "startTime": 1767890395081,
-  "endTime": 1767893665230,
+  "endTime": 1767894759750,
   "band_list": [
     {
       "raw_hot": 1118560,
@@ -96,6 +96,14 @@
       "word": "Manus创始人",
       "onboard_time": 1767886761,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144734,
+      "num": 154136,
+      "word": "高校建议高数成绩落后家长陪读",
+      "onboard_time": 1767890597,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -315,14 +323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 48813,
-      "num": 154136,
-      "word": "高校建议高数成绩落后家长陪读",
-      "onboard_time": 1767890597,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47307,
       "num": 175402,
       "word": "罚罪2",
@@ -451,12 +451,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26623,
+      "raw_hot": 26843,
       "num": 70072,
       "word": "陆江来简直是哄人专业户",
       "onboard_time": 1767893596,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22197,
+      "num": 44951,
+      "word": "李显龙批评美国违反国际法",
+      "onboard_time": 1767893117,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 21388,
+      "num": 44936,
+      "word": "试试沉浸式做自己",
+      "onboard_time": 1767887719,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 12816,
