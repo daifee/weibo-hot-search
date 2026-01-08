@@ -1,6 +1,6 @@
 {
   "startTime": 1767804017084,
-  "endTime": 1767865916953,
+  "endTime": 1767868482314,
   "band_list": [
     {
       "raw_hot": 2608150,
@@ -123,6 +123,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 550054,
+      "num": 155224,
+      "word": "曝男艺人因负面骂助理",
+      "onboard_time": 1767866061,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 541244,
+      "num": 199369,
+      "word": "梁淞以为何美延没下车慌了",
+      "onboard_time": 1767865280,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 540530,
       "num": 232718,
       "word": "檀健次清水带漪",
@@ -161,6 +177,14 @@
       "onboard_time": 1767857421,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 515933,
+      "num": 154345,
+      "word": "王橹杰黑头纱",
+      "onboard_time": 1767868041,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 506314,
@@ -276,7 +300,7 @@
     },
     {
       "raw_hot": 369927,
-      "num": 172382,
+      "num": 185026,
       "word": "男子发现女友出轨后坠亡",
       "onboard_time": 1767860721,
       "rank": 34,
@@ -323,8 +347,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 327447,
-      "num": 327447,
+      "raw_hot": 330680,
+      "num": 762678,
       "word": "陈志被从柬埔寨押解回国",
       "onboard_time": 1767863480,
       "rank": 30,
@@ -379,12 +403,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 299668,
+      "num": 152407,
+      "word": "女子买洗碗机老公嫌水电贵把家砸了",
+      "onboard_time": 1767867440,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 294360,
       "num": 244084,
       "word": "张真源新歌将上线",
       "onboard_time": 1767846863,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 293236,
+      "num": 210963,
+      "word": "三九天喝苹果水",
+      "onboard_time": 1767866000,
+      "rank": 6,
+      "category": "美食"
     },
     {
       "raw_hot": 287354,
@@ -443,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 262976,
+      "num": 189702,
+      "word": "导演否认于正张慧雯有吻戏",
+      "onboard_time": 1767868220,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260697,
       "num": 260697,
       "word": "五哈6常驻嘉宾",
@@ -459,6 +507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 248842,
+      "num": 151243,
+      "word": "歌手萧煌奇宣布结婚",
+      "onboard_time": 1767867381,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242580,
       "num": 166738,
       "word": "悄悄涨价的东西",
@@ -473,14 +529,6 @@
       "onboard_time": 1767853281,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 238865,
-      "num": 155677,
-      "word": "梁淞以为何美延没下车慌了",
-      "onboard_time": 1767865280,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 237383,
@@ -699,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176793,
+      "num": 176793,
+      "word": "孙俪蛮好的人生最好的收视",
+      "onboard_time": 1767865580,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171587,
       "num": 677277,
       "word": "女子百万装新房老公每次来都像游客",
@@ -801,6 +857,14 @@
       "onboard_time": 1767846802,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151228,
+      "num": 151228,
+      "word": "蔡徐坤藏不住一点事儿",
+      "onboard_time": 1767867624,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 150208,
@@ -947,14 +1011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138104,
-      "num": 138104,
-      "word": "孙俪蛮好的人生最好的收视",
-      "onboard_time": 1767865580,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 137953,
       "num": 137953,
       "word": "洗发水不应该直接抹在头发上",
@@ -1081,6 +1137,14 @@
       "onboard_time": 1767801801,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125874,
+      "num": 110945,
+      "word": "欧阳娜娜首次杏鲍菇系穿搭",
+      "onboard_time": 1767867802,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 125417,
@@ -1235,6 +1299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 119111,
+      "num": 157635,
+      "word": "女孩写试卷时昏倒去世家属不忍尸检",
+      "onboard_time": 1767862581,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119014,
       "num": 119014,
       "word": "6类人的衣服袜子最好别混洗",
@@ -1257,6 +1329,14 @@
       "onboard_time": 1767856881,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117933,
+      "num": 157117,
+      "word": "林更新被观众贴脸开大",
+      "onboard_time": 1767867081,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 117700,
@@ -1395,12 +1475,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 111246,
-      "num": 111246,
-      "word": "女孩写试卷时昏倒去世家属不忍尸检",
-      "onboard_time": 1767862581,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 110986,
+      "num": 110986,
+      "word": "王玉雯赵今麦早期合照",
+      "onboard_time": 1767867802,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 110425,
@@ -1523,6 +1603,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103620,
+      "num": 103620,
+      "word": "下辈子生我时能不能用这个文案",
+      "onboard_time": 1767865881,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 103294,
+      "num": 103294,
+      "word": "余承恩生图帅我一大跳",
+      "onboard_time": 1767867201,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103275,
       "num": 103275,
       "word": "开拓者1分险胜火箭",
@@ -1561,6 +1657,22 @@
       "onboard_time": 1767857840,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102471,
+      "num": 102471,
+      "word": "Suk说差一分其实差很多",
+      "onboard_time": 1767867681,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 102289,
+      "num": 102289,
+      "word": "统信",
+      "onboard_time": 1767866301,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102075,
@@ -1609,6 +1721,14 @@
       "onboard_time": 1767865100,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 101518,
+      "num": 116113,
+      "word": "国家级射击教练被认定走私武器罪进展",
+      "onboard_time": 1767866781,
+      "rank": 29,
+      "category": "舆论监督,体育"
     },
     {
       "raw_hot": 101453,
@@ -1803,6 +1923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 92926,
+      "num": 102747,
+      "word": "金银比跌至10年来最低水平",
+      "onboard_time": 1767863420,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 92411,
       "num": 106377,
       "word": "侯明昊娜扎你俩不对劲",
@@ -1883,14 +2011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88864,
-      "num": 88864,
-      "word": "金银比跌至10年来最低水平",
-      "onboard_time": 1767863420,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 88752,
       "num": 88752,
       "word": "有这么会谈的男女主进入现偶",
@@ -1953,14 +2073,6 @@
       "onboard_time": 1767838821,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 85019,
-      "num": 85019,
-      "word": "下辈子生我时能不能用这个文案",
-      "onboard_time": 1767865881,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 84524,
@@ -2379,12 +2491,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50678,
+      "num": 87434,
+      "word": "藏海传包揽三榜年冠",
+      "onboard_time": 1767867201,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 48483,
       "num": 277428,
       "word": "雷军回应掉粉20多万",
       "onboard_time": 1767796346,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 48338,
+      "num": 103431,
+      "word": "日本人调侃日本只有禁动漫一张牌",
+      "onboard_time": 1767868400,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 47648,
@@ -2808,6 +2936,30 @@
       "word": "多地新年第一会释放重要信号",
       "onboard_time": 1767845482,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19582,
+      "num": 103420,
+      "word": "明尼阿波利斯爆发自发悼念游行",
+      "onboard_time": 1767868041,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 12384,
+      "num": 103309,
+      "word": "12岁男孩温泉泳池溺水身亡",
+      "onboard_time": 1767867980,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10970,
+      "num": 103497,
+      "word": "上网的法律文书为何隐去法官姓名",
+      "onboard_time": 1767868400,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
