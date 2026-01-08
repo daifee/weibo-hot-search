@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767850415865,
+  "endTime": 1767851370748,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -51,7 +51,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2530729,
+      "raw_hot": 2608150,
       "num": 185579,
       "word": "孙怡道歉",
       "onboard_time": 1767848122,
@@ -1819,6 +1819,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 503346,
+      "num": 311507,
+      "word": "李施嬅车崇健he了",
+      "onboard_time": 1767849381,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 502102,
       "num": 1069636,
       "word": "哈尔滨零下20℃外国游客光腿穿短裤",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767777441,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 439304,
-      "num": 439304,
-      "word": "录完综艺总裁父亲主动向女儿道歉",
-      "onboard_time": 1767510983,
-      "rank": 24,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

@@ -1,9 +1,9 @@
 {
   "startTime": 1767804017084,
-  "endTime": 1767850415865,
+  "endTime": 1767851370748,
   "band_list": [
     {
-      "raw_hot": 2530729,
+      "raw_hot": 2608150,
       "num": 185579,
       "word": "孙怡道歉",
       "onboard_time": 1767848122,
@@ -83,6 +83,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 503346,
+      "num": 311507,
+      "word": "李施嬅车崇健he了",
+      "onboard_time": 1767849381,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 483754,
       "num": 920326,
       "word": "美国在约半小时内宣称扣押两艘油轮",
@@ -131,19 +139,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 410599,
+      "num": 375872,
+      "word": "虞书欣云初令出妆",
+      "onboard_time": 1767846141,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 385475,
       "num": 244859,
       "word": "张凌赫归鸾出妆",
       "onboard_time": 1767844340,
       "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 375872,
-      "num": 375872,
-      "word": "虞书欣云初令出妆",
-      "onboard_time": 1767846141,
-      "rank": 18,
       "category": "剧集"
     },
     {
@@ -187,6 +195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 312673,
+      "num": 422760,
+      "word": "美国ICE当街射杀37岁母亲",
+      "onboard_time": 1767846141,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 305898,
       "num": 773487,
       "word": "李在明希望再租借一对熊猫",
@@ -201,14 +217,6 @@
       "onboard_time": 1767846863,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 291751,
-      "num": 291751,
-      "word": "李施嬅车崇健he了",
-      "onboard_time": 1767849381,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 281286,
@@ -291,8 +299,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 227858,
-      "num": 227858,
+      "raw_hot": 231618,
+      "num": 231618,
       "word": "2025央八收视前十",
       "onboard_time": 1767849321,
       "rank": 18,
@@ -323,16 +331,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210195,
-      "num": 422760,
-      "word": "美国ICE当街射杀37岁母亲",
-      "onboard_time": 1767846141,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 207411,
-      "num": 179842,
+      "num": 181509,
       "word": "蔡徐坤上海",
       "onboard_time": 1767849742,
       "rank": 22,
@@ -467,6 +467,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 157146,
+      "num": 157146,
+      "word": "国产剧又来三女一男修罗场",
+      "onboard_time": 1767850942,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153902,
       "num": 241926,
       "word": "王腾新公司名今日宜休",
@@ -547,11 +555,27 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 141912,
+      "num": 141912,
+      "word": "侯明昊衣服换了眼神也换了",
+      "onboard_time": 1767850582,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141670,
       "num": 92238,
       "word": "律师将唇膏给嫌疑人用被停业3个月",
       "onboard_time": 1767839480,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141162,
+      "num": 143695,
+      "word": "3万请1400万网红带货仅成交4单",
+      "onboard_time": 1767846681,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -584,6 +608,14 @@
       "word": "玉茗茶骨十年冤案竟然有原型",
       "onboard_time": 1767848662,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 138391,
+      "num": 138391,
+      "word": "2025值得一看的口碑长剧",
+      "onboard_time": 1767850641,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -675,14 +707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122192,
-      "num": 143695,
-      "word": "3万请1400万网红带货仅成交4单",
-      "onboard_time": 1767846681,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121017,
       "num": 121017,
       "word": "司机今天拉了一位蒲公英",
@@ -707,6 +731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119418,
+      "num": 119418,
+      "word": "小S二女儿回应18岁是否可以恋爱",
+      "onboard_time": 1767846202,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119316,
       "num": 108944,
       "word": "赵今麦 cp都是姐的过客",
@@ -729,14 +761,6 @@
       "onboard_time": 1767844220,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 118676,
-      "num": 111545,
-      "word": "小S二女儿回应18岁是否可以恋爱",
-      "onboard_time": 1767846202,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 117547,
@@ -769,6 +793,14 @@
       "onboard_time": 1767834620,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 113205,
+      "num": 113205,
+      "word": "蔡依林巡演官宣深圳厦门",
+      "onboard_time": 1767850881,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 112657,
@@ -812,7 +844,7 @@
     },
     {
       "raw_hot": 108945,
-      "num": 108945,
+      "num": 121401,
       "word": "女子取现240万称给外甥彩礼",
       "onboard_time": 1767848901,
       "rank": 34,
@@ -923,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101670,
+      "num": 101670,
+      "word": "卢昱晓新剧萌成啥样了",
+      "onboard_time": 1767850942,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100728,
       "num": 100728,
       "word": "微信回应好友太多会被封",
@@ -985,6 +1025,22 @@
       "onboard_time": 1767848601,
       "rank": 42,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 95887,
+      "num": 95887,
+      "word": "再见爱人5最终抉择",
+      "onboard_time": 1767850463,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 95268,
+      "num": 114475,
+      "word": "老鼠干也是一种芭比娃娃",
+      "onboard_time": 1767851121,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 94843,
@@ -1105,6 +1161,14 @@
       "onboard_time": 1767850400,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 87295,
+      "num": 87295,
+      "word": "杨瀚森五犯下场被吹出表情包",
+      "onboard_time": 1767851300,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 86860,
@@ -1440,6 +1504,14 @@
       "word": "博主揭露富二代卖玉骗局",
       "onboard_time": 1767803839,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46240,
+      "num": 181714,
+      "word": "河南21岁老板给每人发1克黄金",
+      "onboard_time": 1767850521,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
