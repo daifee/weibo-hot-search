@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767861650418,
+  "endTime": 1767862551991,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2608150,
-      "num": 185579,
+      "num": 186218,
       "word": "孙怡道歉",
       "onboard_time": 1767848122,
       "rank": 35,
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1095672,
+      "num": 241638,
+      "word": "于正张慧雯或有吻戏",
+      "onboard_time": 1767859941,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1076314,
       "num": 1018912,
       "word": "个人存取款超5万元不再登记",
@@ -475,14 +483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 923298,
-      "num": 225488,
-      "word": "于正张慧雯或有吻戏",
-      "onboard_time": 1767859941,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 922373,
       "num": 1147579,
       "word": "父亲凌晨去世邻居听到鞭炮声后赶来",
@@ -584,6 +584,14 @@
       "word": "餐馆内死亡13岁男孩父母智力残疾",
       "onboard_time": 1767664821,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 860920,
+      "num": 1137747,
+      "word": "党员烧香算违纪吗官方释疑",
+      "onboard_time": 1767858380,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -745,14 +753,6 @@
       "onboard_time": 1767483558,
       "rank": 40,
       "category": "美食"
-    },
-    {
-      "raw_hot": 764278,
-      "num": 1122284,
-      "word": "党员烧香算违纪吗官方释疑",
-      "onboard_time": 1767858380,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 762482,
@@ -1604,7 +1604,7 @@
     },
     {
       "raw_hot": 527938,
-      "num": 216502,
+      "num": 238510,
       "word": "再见爱人5全员下车",
       "onboard_time": 1767857421,
       "rank": 16,
@@ -2875,6 +2875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 393106,
+      "num": 238107,
+      "word": "以爱为营要拍2了白鹿你知道吗",
+      "onboard_time": 1767858920,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 392817,
       "num": 1095638,
       "word": "张本智和曾参拜东乡神社",
@@ -2897,14 +2905,6 @@
       "onboard_time": 1767361522,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 390679,
-      "num": 203080,
-      "word": "以爱为营要拍2了白鹿你知道吗",
-      "onboard_time": 1767858920,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 386421,
@@ -4323,6 +4323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 287354,
+      "num": 287354,
+      "word": "羽绒服 里面是飞丝",
+      "onboard_time": 1767857959,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 286893,
       "num": 286893,
       "word": "郑州免费挖玉爆火",
@@ -4915,6 +4923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257994,
+      "num": 233273,
+      "word": "林更新喊赵又廷高圆圆成毅学他的演技",
+      "onboard_time": 1767859580,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 257383,
       "num": 267621,
       "word": "宇树科技上市绿色通道被叫停",
@@ -5065,6 +5081,14 @@
       "onboard_time": 1767604401,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 250887,
+      "num": 250887,
+      "word": "日本距离核武器只差一把螺丝刀",
+      "onboard_time": 1767860241,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 249988,
@@ -5395,6 +5419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232718,
+      "num": 232718,
+      "word": "檀健次清水带漪",
+      "onboard_time": 1767861860,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 232456,
       "num": 1005637,
       "word": "吃凉拌菜也减不了肥的原因",
@@ -5571,14 +5603,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 227774,
-      "num": 227774,
-      "word": "羽绒服 里面是飞丝",
-      "onboard_time": 1767857959,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 227387,
       "num": 676046,
       "word": "李在明与李在镕微笑着打招呼",
@@ -5625,6 +5649,14 @@
       "onboard_time": 1767517522,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224916,
+      "num": 122075,
+      "word": "娶了个魔丸生了个魔童",
+      "onboard_time": 1767862160,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 224828,
@@ -5728,6 +5760,14 @@
       "word": "特斯拉推出7年超低息购车",
       "onboard_time": 1767666081,
       "rank": 25,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 220559,
+      "num": 185285,
+      "word": "1704公里小鹏G7续航长长长长长长长长",
+      "onboard_time": 1767861261,
+      "rank": 21,
       "category": "汽车"
     },
     {
@@ -6275,6 +6315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202657,
+      "num": 184941,
+      "word": "气血不足的人大多有这些习惯",
+      "onboard_time": 1767861622,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 202105,
       "num": 424027,
       "word": "委内瑞拉前内政部长身亡",
@@ -6819,12 +6867,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 192040,
-      "num": 192040,
-      "word": "日本距离核武器只差一把螺丝刀",
-      "onboard_time": 1767860241,
-      "rank": 14,
-      "category": "国际时政"
+      "raw_hot": 191440,
+      "num": 133133,
+      "word": "宋威龙的锁骨痣",
+      "onboard_time": 1767861622,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 191305,
@@ -7011,14 +7059,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 188274,
-      "num": 188274,
-      "word": "林更新喊赵又廷高圆圆成毅学他的演技",
-      "onboard_time": 1767859580,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 187867,
       "num": 269614,
       "word": "中国留学生讲述日本梅毒扩散乱象",
@@ -7049,14 +7089,6 @@
       "onboard_time": 1767341721,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187512,
-      "num": 133133,
-      "word": "宋威龙的锁骨痣",
-      "onboard_time": 1767861622,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 187145,
@@ -7265,6 +7297,14 @@
       "onboard_time": 1767783084,
       "rank": 3,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 184591,
+      "num": 184591,
+      "word": "欧阳娜娜我都多余搭理你",
+      "onboard_time": 1767861021,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 184559,
@@ -7625,6 +7665,14 @@
       "onboard_time": 1767247039,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 177450,
+      "num": 187307,
+      "word": "男子与女友争论鹦鹉学舌撞死1家3口",
+      "onboard_time": 1767857780,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177218,
@@ -8105,6 +8153,14 @@
       "onboard_time": 1767689301,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168476,
+      "num": 186322,
+      "word": "坠亡女教师母亲想不通女儿为何轻生",
+      "onboard_time": 1767861980,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168411,
@@ -9187,28 +9243,12 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 152651,
-      "num": 152651,
-      "word": "1704公里小鹏G7续航长长长长长长长长",
-      "onboard_time": 1767861261,
-      "rank": 21,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 152632,
       "num": 1037890,
       "word": "2026开年第一对女性反杀",
       "onboard_time": 1767419006,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 152583,
-      "num": 152583,
-      "word": "男子与女友争论鹦鹉学舌撞死1家3口",
-      "onboard_time": 1767857780,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152558,
@@ -9473,14 +9513,6 @@
       "onboard_time": 1767252081,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148264,
-      "num": 148264,
-      "word": "气血不足的人大多有这些习惯",
-      "onboard_time": 1767861622,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 148256,
@@ -9881,6 +9913,14 @@
       "onboard_time": 1767361640,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142951,
+      "num": 142951,
+      "word": "男子发现女友出轨后坠亡",
+      "onboard_time": 1767860721,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142921,
@@ -10795,14 +10835,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 133673,
-      "num": 133673,
-      "word": "欧阳娜娜我都多余搭理你",
-      "onboard_time": 1767861021,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 133531,
       "num": 316984,
       "word": "男子靠吃辣赢下一头300斤的猪",
@@ -10833,6 +10865,14 @@
       "onboard_time": 1767258799,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 132964,
+      "num": 132964,
+      "word": "女子喝自制豆浆中毒上吐下泻",
+      "onboard_time": 1767859642,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132951,
@@ -10923,6 +10963,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 131029,
+      "num": 131029,
+      "word": "WTA回应郑钦文退出2026年澳网",
+      "onboard_time": 1767861622,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131028,
       "num": 116929,
       "word": "Kiv发声",
@@ -10984,6 +11032,14 @@
       "word": "柯淳对表演不热爱但敬畏",
       "onboard_time": 1767334819,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 130430,
+      "num": 158938,
+      "word": "李施嬅听了何炅的语音后泪崩",
+      "onboard_time": 1767861201,
+      "rank": 19,
       "category": "综艺"
     },
     {
@@ -11147,14 +11203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128868,
-      "num": 128868,
-      "word": "男子发现女友出轨后坠亡",
-      "onboard_time": 1767860721,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128746,
       "num": 260524,
       "word": "监控被叫做猫眼是有理由的",
@@ -11203,6 +11251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128532,
+      "num": 120843,
+      "word": "张慧雯工伤",
+      "onboard_time": 1767861801,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128511,
       "num": 727787,
       "word": "渐冻症女孩重生",
@@ -11241,6 +11297,14 @@
       "onboard_time": 1767237800,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127806,
+      "num": 127806,
+      "word": "林更新问范丞丞这舞是我能跳的吗",
+      "onboard_time": 1767862401,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 127790,
@@ -11393,14 +11457,6 @@
       "onboard_time": 1767607881,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 126567,
-      "num": 131957,
-      "word": "女子喝自制豆浆中毒上吐下泻",
-      "onboard_time": 1767859642,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126498,
@@ -12099,6 +12155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 120653,
+      "num": 120653,
+      "word": "赖伟明请假原因是去拍戏",
+      "onboard_time": 1767859881,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120647,
       "num": 880737,
       "word": "樊振东新外号叫做Funny",
@@ -12145,6 +12209,14 @@
       "onboard_time": 1767849321,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 120247,
+      "num": 120247,
+      "word": "张凌赫横店最顶级的daddy",
+      "onboard_time": 1767862224,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 120188,
@@ -12289,6 +12361,14 @@
       "onboard_time": 1767531384,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118832,
+      "num": 118832,
+      "word": "一个35一个31",
+      "onboard_time": 1767861740,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 118742,
@@ -12729,14 +12809,6 @@
       "onboard_time": 1767677960,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 114200,
-      "num": 114200,
-      "word": "赖伟明请假原因是去拍戏",
-      "onboard_time": 1767859881,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 114152,
@@ -13289,6 +13361,14 @@
       "onboard_time": 1767671121,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 108908,
+      "num": 163314,
+      "word": "原来长剧观众吃得这么好",
+      "onboard_time": 1767860781,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 108848,
@@ -13865,14 +13945,6 @@
       "onboard_time": 1767366211,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 104623,
-      "num": 102538,
-      "word": "WTA回应郑钦文退出2026年澳网",
-      "onboard_time": 1767861622,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 104606,
@@ -14899,6 +14971,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 98211,
+      "num": 98211,
+      "word": "汪苏泷咱大大方方的",
+      "onboard_time": 1767861320,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 98152,
+      "num": 98152,
+      "word": "生万物2025央八收视TOP2",
+      "onboard_time": 1767861560,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98149,
       "num": 98149,
       "word": "林依轮在赵今麦面前演聂曦光",
@@ -14945,14 +15033,6 @@
       "onboard_time": 1767842780,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 97968,
-      "num": 97968,
-      "word": "生万物2025央八收视TOP2",
-      "onboard_time": 1767861560,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 97939,
@@ -15401,14 +15481,6 @@
       "onboard_time": 1767605721,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 94895,
-      "num": 94895,
-      "word": "汪苏泷咱大大方方的",
-      "onboard_time": 1767861320,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 94840,
@@ -18715,6 +18787,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 71623,
+      "num": 118852,
+      "word": "杨超越这样低头都没有双下巴",
+      "onboard_time": 1767862040,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71483,
       "num": 205986,
       "word": "我是脱口秀演员蔡文静",
@@ -20099,6 +20179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 58593,
+      "num": 119271,
+      "word": "旅俄大熊猫喀秋莎体重超80公斤",
+      "onboard_time": 1767861381,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58592,
       "num": 107728,
       "word": "周深香港演唱会",
@@ -20241,14 +20329,6 @@
       "onboard_time": 1767415347,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 56945,
-      "num": 158938,
-      "word": "李施嬅听了何炅的语音后泪崩",
-      "onboard_time": 1767861201,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 56939,
@@ -20489,14 +20569,6 @@
       "onboard_time": 1767312137,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 54686,
-      "num": 108498,
-      "word": "旅俄大熊猫喀秋莎体重超80公斤",
-      "onboard_time": 1767861381,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 54646,
@@ -20937,14 +21009,6 @@
       "onboard_time": 1767309617,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 49628,
-      "num": 163314,
-      "word": "原来长剧观众吃得这么好",
-      "onboard_time": 1767860781,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 49578,
@@ -22915,6 +22979,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 29540,
+      "num": 121399,
+      "word": "男子回应180个蛋糕送400多个孩子",
+      "onboard_time": 1767862401,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29417,
       "num": 98434,
       "word": "大爷回应拍素颜巴黎火了",
@@ -23667,6 +23739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20712,
+      "num": 678482,
+      "word": "多地新年第一会释放重要信号",
+      "onboard_time": 1767845482,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20670,
       "num": 122617,
       "word": "沙溢一家被安吉拿捏了",
@@ -23817,14 +23897,6 @@
       "onboard_time": 1767643034,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 16106,
-      "num": 631954,
-      "word": "多地新年第一会释放重要信号",
-      "onboard_time": 1767845482,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16025,

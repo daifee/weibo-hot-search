@@ -1,0 +1,410 @@
+{
+  "runTime": 1767862551991,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 860920,
+        "num": 1137747,
+        "word": "党员烧香算违纪吗官方释疑",
+        "onboard_time": 1767858380,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455519,
+        "num": 817999,
+        "word": "李在明驳斥中方干预韩选举荒唐言论",
+        "onboard_time": 1767856520,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20712,
+        "num": 678482,
+        "word": "多地新年第一会释放重要信号",
+        "onboard_time": 1767845482,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348790,
+        "num": 348790,
+        "word": "机票价格大跳水",
+        "onboard_time": 1767837319,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337429,
+        "num": 337429,
+        "word": "3万请1400万网红带货仅成交4单",
+        "onboard_time": 1767846681,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287354,
+        "num": 287354,
+        "word": "羽绒服 里面是飞丝",
+        "onboard_time": 1767857959,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265205,
+        "num": 265205,
+        "word": "洗头发油得慢的小方法",
+        "onboard_time": 1767853582,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 250887,
+        "num": 250887,
+        "word": "日本距离核武器只差一把螺丝刀",
+        "onboard_time": 1767860241,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 248463,
+        "num": 248463,
+        "word": "郑钦文退出澳网",
+        "onboard_time": 1767859580,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243553,
+        "num": 243553,
+        "word": "RNG告别LPL",
+        "onboard_time": 1767855800,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1095672,
+        "num": 241638,
+        "word": "于正张慧雯或有吻戏",
+        "onboard_time": 1767859941,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 475443,
+        "num": 238510,
+        "word": "再见爱人5全员下车",
+        "onboard_time": 1767857421,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393106,
+        "num": 238107,
+        "word": "以爱为营要拍2了白鹿你知道吗",
+        "onboard_time": 1767858920,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257994,
+        "num": 233273,
+        "word": "林更新喊赵又廷高圆圆成毅学他的演技",
+        "onboard_time": 1767859580,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 232718,
+        "num": 232718,
+        "word": "檀健次清水带漪",
+        "onboard_time": 1767861860,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203992,
+        "num": 203992,
+        "word": "虞书欣云初令出妆",
+        "onboard_time": 1767846141,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187865,
+        "num": 187865,
+        "word": "古币掉入趵突泉游客称价值百万",
+        "onboard_time": 1767855621,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170611,
+        "num": 187602,
+        "word": "41岁女子健身断奶茶一年换了张脸",
+        "onboard_time": 1767843800,
+        "rank": 17,
+        "category": "民生新闻,运动健身"
+      },
+      {
+        "raw_hot": 177450,
+        "num": 187307,
+        "word": "男子与女友争论鹦鹉学舌撞死1家3口",
+        "onboard_time": 1767857780,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168476,
+        "num": 186322,
+        "word": "坠亡女教师母亲想不通女儿为何轻生",
+        "onboard_time": 1767861980,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1394962,
+        "num": 186218,
+        "word": "孙怡道歉",
+        "onboard_time": 1767848122,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220559,
+        "num": 185285,
+        "word": "1704公里小鹏G7续航长长长长长长长长",
+        "onboard_time": 1767861261,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 202657,
+        "num": 184941,
+        "word": "气血不足的人大多有这些习惯",
+        "onboard_time": 1767861622,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 184591,
+        "num": 184591,
+        "word": "欧阳娜娜我都多余搭理你",
+        "onboard_time": 1767861021,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142951,
+        "num": 142951,
+        "word": "男子发现女友出轨后坠亡",
+        "onboard_time": 1767860721,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132964,
+        "num": 132964,
+        "word": "女子喝自制豆浆中毒上吐下泻",
+        "onboard_time": 1767859642,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131029,
+        "num": 131029,
+        "word": "WTA回应郑钦文退出2026年澳网",
+        "onboard_time": 1767861622,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130430,
+        "num": 130430,
+        "word": "李施嬅听了何炅的语音后泪崩",
+        "onboard_time": 1767861201,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127806,
+        "num": 127806,
+        "word": "林更新问范丞丞这舞是我能跳的吗",
+        "onboard_time": 1767862401,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122164,
+        "num": 122164,
+        "word": "老板回应石槽火锅被吐槽像猪食槽",
+        "onboard_time": 1767860002,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224916,
+        "num": 122075,
+        "word": "娶了个魔丸生了个魔童",
+        "onboard_time": 1767862160,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127651,
+        "num": 121705,
+        "word": "李施嬅回应再见爱人he了",
+        "onboard_time": 1767857480,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191440,
+        "num": 121477,
+        "word": "宋威龙的锁骨痣",
+        "onboard_time": 1767861622,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29540,
+        "num": 121399,
+        "word": "男子回应180个蛋糕送400多个孩子",
+        "onboard_time": 1767862401,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115517,
+        "num": 120947,
+        "word": "云初令",
+        "onboard_time": 1767843501,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128532,
+        "num": 120843,
+        "word": "张慧雯工伤",
+        "onboard_time": 1767861801,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120653,
+        "num": 120653,
+        "word": "赖伟明请假原因是去拍戏",
+        "onboard_time": 1767859881,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120247,
+        "num": 120247,
+        "word": "张凌赫横店最顶级的daddy",
+        "onboard_time": 1767862224,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 58593,
+        "num": 119271,
+        "word": "旅俄大熊猫喀秋莎体重超80公斤",
+        "onboard_time": 1767861381,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71623,
+        "num": 118852,
+        "word": "杨超越这样低头都没有双下巴",
+        "onboard_time": 1767862040,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118832,
+        "num": 118832,
+        "word": "一个35一个31",
+        "onboard_time": 1767861740,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116555,
+        "num": 116555,
+        "word": "蔡徐坤上海",
+        "onboard_time": 1767849742,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110425,
+        "num": 110425,
+        "word": "骄阳似我",
+        "onboard_time": 1767859100,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108908,
+        "num": 108908,
+        "word": "原来长剧观众吃得这么好",
+        "onboard_time": 1767860781,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99500,
+        "num": 99500,
+        "word": "45岁离婚后她去冰岛当了公务员",
+        "onboard_time": 1767856221,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 34929,
+        "num": 99455,
+        "word": "新款小鹏P7+自带空间魔法",
+        "onboard_time": 1767857721,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 99434,
+        "num": 99434,
+        "word": "张智霖儿子给陈楚生做过灯替",
+        "onboard_time": 1767858622,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98916,
+        "num": 98916,
+        "word": "多方回应9岁女孩写试卷时昏倒去世",
+        "onboard_time": 1767858981,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98211,
+        "num": 98211,
+        "word": "汪苏泷咱大大方方的",
+        "onboard_time": 1767861320,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98152,
+        "num": 98152,
+        "word": "生万物2025央八收视TOP2",
+        "onboard_time": 1767861560,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系航天事业#"
+    }
+  }
+}
