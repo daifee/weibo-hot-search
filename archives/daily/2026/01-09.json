@@ -1,6 +1,6 @@
 {
   "startTime": 1767890395081,
-  "endTime": 1767912412319,
+  "endTime": 1767914738312,
   "band_list": [
     {
       "raw_hot": 1118560,
@@ -11,20 +11,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 625616,
+      "num": 829699,
+      "word": "中国人花六十多万买下北海道三套房",
+      "onboard_time": 1767885380,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 540536,
       "num": 176109,
       "word": "檀健次直播",
       "onboard_time": 1767875242,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 495649,
-      "num": 780710,
-      "word": "中国人花六十多万买下北海道三套房",
-      "onboard_time": 1767885380,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 360335,
@@ -43,11 +43,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297957,
+      "num": 176027,
+      "word": "男子看羊圈监控发现妻子婚外情8年",
+      "onboard_time": 1767878722,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 290385,
-      "num": 374963,
+      "num": 621211,
       "word": "双胞胎姐妹分别取名灿和烂",
       "onboard_time": 1767873022,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 253833,
+      "num": 107021,
+      "word": "女子补户口本发现名下有老公私生子",
+      "onboard_time": 1767914598,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -75,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192741,
+      "num": 98258,
+      "word": "红果年度短剧",
+      "onboard_time": 1767914478,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189532,
       "num": 200980,
       "word": "再也不去理发店洗头了",
@@ -91,19 +115,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150812,
-      "num": 176027,
-      "word": "男子看羊圈监控发现妻子婚外情8年",
-      "onboard_time": 1767878722,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 147531,
       "num": 217733,
       "word": "Manus创始人",
       "onboard_time": 1767886761,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146554,
+      "num": 208592,
+      "word": "中产涌入超市抢300元羽绒服",
+      "onboard_time": 1767882623,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -123,14 +147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137882,
-      "num": 208592,
-      "word": "中产涌入超市抢300元羽绒服",
-      "onboard_time": 1767882623,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136294,
       "num": 176407,
       "word": "海底捞 尿不湿",
@@ -145,6 +161,22 @@
       "onboard_time": 1767888859,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 118761,
+      "num": 61154,
+      "word": "文淇被陌生男子骚扰",
+      "onboard_time": 1767914478,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 118746,
+      "num": 175733,
+      "word": "多名半裸男模在商场走秀被质疑擦边",
+      "onboard_time": 1767869181,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111024,
@@ -171,12 +203,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107298,
+      "num": 175213,
+      "word": "一翼装飞行员跃下不到10秒撞上岩石",
+      "onboard_time": 1767881542,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106517,
       "num": 176302,
       "word": "1818名明星网红查补税款",
       "onboard_time": 1767876381,
       "rank": 15,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 106346,
+      "num": 175594,
+      "word": "体育局回应亚运三金得主实名举报",
+      "onboard_time": 1767889518,
+      "rank": 34,
+      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 106235,
@@ -193,6 +241,14 @@
       "onboard_time": 1767879982,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96804,
+      "num": 96804,
+      "word": "谍报上不封顶",
+      "onboard_time": 1767914658,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 96383,
@@ -227,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86323,
+      "num": 86323,
+      "word": "王安宇吃饭奶奶的梦中情孙",
+      "onboard_time": 1767914658,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84018,
       "num": 176164,
       "word": "海底捞锅里被扔尿布门店已报警",
@@ -251,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77712,
+      "num": 77712,
+      "word": "海底捞尿布入锅背后是监护缺位",
+      "onboard_time": 1767902833,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76763,
       "num": 175776,
       "word": "女子买洗碗机老公嫌水电贵把家砸了",
@@ -259,20 +331,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 72843,
-      "num": 175594,
-      "word": "体育局回应亚运三金得主实名举报",
-      "onboard_time": 1767889518,
-      "rank": 34,
-      "category": "民生新闻,体育"
-    },
-    {
-      "raw_hot": 66800,
-      "num": 175733,
-      "word": "多名半裸男模在商场走秀被质疑擦边",
-      "onboard_time": 1767869181,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 69592,
+      "num": 175166,
+      "word": "伊能静57岁身材",
+      "onboard_time": 1767873321,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 66154,
@@ -291,12 +355,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 58551,
-      "num": 58551,
-      "word": "海底捞尿布入锅背后是监护缺位",
-      "onboard_time": 1767902833,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 59515,
+      "num": 59515,
+      "word": "于正说的85花顶流是张慧雯",
+      "onboard_time": 1767914658,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 58168,
@@ -371,20 +435,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 42887,
-      "num": 175213,
-      "word": "一翼装飞行员跃下不到10秒撞上岩石",
-      "onboard_time": 1767881542,
-      "rank": 45,
+      "raw_hot": 41679,
+      "num": 50095,
+      "word": "3岁男童看挖机走失找到时出现失温",
+      "onboard_time": 1767875002,
+      "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42461,
-      "num": 175166,
-      "word": "伊能静57岁身材",
-      "onboard_time": 1767873321,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 41417,
@@ -401,6 +457,14 @@
       "onboard_time": 1767892517,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40364,
+      "num": 491889,
+      "word": "医保新举措专治缴费排长队",
+      "onboard_time": 1767878182,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 39752,
@@ -467,20 +531,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25769,
-      "num": 43017,
+      "raw_hot": 25981,
+      "num": 50076,
+      "word": "A股行情",
+      "onboard_time": 1767870680,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 25918,
+      "num": 50074,
       "word": "3岁男童和狗看挖机走失救援者发声",
       "onboard_time": 1767896835,
       "rank": 46,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22328,
-      "num": 37435,
-      "word": "3岁男童看挖机走失找到时出现失温",
-      "onboard_time": 1767875002,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 22384,
+      "num": 50072,
+      "word": "U23亚洲杯",
+      "onboard_time": 1767885321,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 22197,
@@ -505,22 +577,6 @@
       "onboard_time": 1767887120,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20126,
-      "num": 295968,
-      "word": "医保新举措专治缴费排长队",
-      "onboard_time": 1767878182,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 17486,
-      "num": 37391,
-      "word": "U23亚洲杯",
-      "onboard_time": 1767885321,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 16603,
