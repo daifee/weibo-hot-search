@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/09 00:39:55 ~ 2026/01/09 04:46:51
+本榜单时间：2026/01/09 00:39:55 ~ 2026/01/09 05:30:26
 </p>
 </blockquote>
 <p>
@@ -363,6 +363,12 @@ Manus 新加坡（热度：111024）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%B0%BF%E5%B8%83%E5%85%A5%E9%94%85%E8%83%8C%E5%90%8E%E6%98%AF%E7%9B%91%E6%8A%A4%E7%BC%BA%E4%BD%8D%23" target="weibo">
+海底捞尿布入锅背后是监护缺位（热度：22118）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%95%E8%AF%95%E6%B2%89%E6%B5%B8%E5%BC%8F%E5%81%9A%E8%87%AA%E5%B7%B1%23" target="weibo">
 试试沉浸式做自己（热度：21388）
 </a>
@@ -393,12 +399,6 @@ Meta Manus（热度：20949）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%B0%BF%E5%B8%83%E5%85%A5%E9%94%85%E8%83%8C%E5%90%8E%E6%98%AF%E7%9B%91%E6%8A%A4%E7%BC%BA%E4%BD%8D%23" target="weibo">
-海底捞尿布入锅背后是监护缺位（热度：13151）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%233%E5%B2%81%E7%94%B7%E7%AB%A5%E7%9C%8B%E6%8C%96%E6%9C%BA%E8%B5%B0%E5%A4%B1%E6%89%BE%E5%88%B0%E6%97%B6%E5%87%BA%E7%8E%B0%E5%A4%B1%E6%B8%A9%23" target="weibo">
 3岁男童看挖机走失找到时出现失温（热度：12960）
 </a>
@@ -413,6 +413,12 @@ Meta Manus（热度：20949）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23U23%E4%BA%9A%E6%B4%B2%E6%9D%AF%23" target="weibo">
 U23亚洲杯（热度：11447）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E4%BF%9D%E6%96%B0%E4%B8%BE%E6%8E%AA%E4%B8%93%E6%B2%BB%E7%BC%B4%E8%B4%B9%E6%8E%92%E9%95%BF%E9%98%9F%23" target="weibo">
+医保新举措专治缴费排长队（热度：9205）
 </a>
 </li>
 
