@@ -1,6 +1,6 @@
 {
   "startTime": 1767890395081,
-  "endTime": 1767904429874,
+  "endTime": 1767905211956,
   "band_list": [
     {
       "raw_hot": 1118560,
@@ -507,6 +507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 13151,
+      "num": 21987,
+      "word": "海底捞尿布入锅背后是监护缺位",
+      "onboard_time": 1767902833,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12960,
       "num": 33945,
       "word": "3岁男童看挖机走失找到时出现失温",
@@ -529,14 +537,6 @@
       "onboard_time": 1767885321,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 11364,
-      "num": 21987,
-      "word": "海底捞尿布入锅背后是监护缺位",
-      "onboard_time": 1767902833,
-      "rank": 43,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

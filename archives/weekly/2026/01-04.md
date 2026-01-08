@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/04 00:34:09 ~ 2026/01/09 04:33:49
+本榜单时间：2026/01/04 00:34:09 ~ 2026/01/09 04:46:51
 </p>
 </blockquote>
 <p>
@@ -13239,6 +13239,12 @@ kpl王者荣耀巅峰之夜（热度：14148）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%B0%BF%E5%B8%83%E5%85%A5%E9%94%85%E8%83%8C%E5%90%8E%E6%98%AF%E7%9B%91%E6%8A%A4%E7%BC%BA%E4%BD%8D%23" target="weibo">
+海底捞尿布入锅背后是监护缺位（热度：13151）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E8%AF%B4%E6%B2%A1%E6%9C%89%E5%9B%BD%E5%AE%B6%E5%8F%AF%E4%BB%A5%E5%85%85%E5%BD%93%E5%9B%BD%E9%99%85%E8%AD%A6%E5%AF%9F%23" target="weibo">
 外交部说没有国家可以充当国际警察（热度：13000）
 </a>
@@ -13289,12 +13295,6 @@ kpl王者荣耀巅峰之夜（热度：14148）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23U23%E4%BA%9A%E6%B4%B2%E6%9D%AF%23" target="weibo">
 U23亚洲杯（热度：11447）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%B0%BF%E5%B8%83%E5%85%A5%E9%94%85%E8%83%8C%E5%90%8E%E6%98%AF%E7%9B%91%E6%8A%A4%E7%BC%BA%E4%BD%8D%23" target="weibo">
-海底捞尿布入锅背后是监护缺位（热度：11364）
 </a>
 </li>
 
