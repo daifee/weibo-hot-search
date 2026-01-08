@@ -1,0 +1,410 @@
+{
+  "runTime": 1767878099009,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 736918,
+        "num": 1117906,
+        "word": "双胞胎姐妹分别取名灿和烂",
+        "onboard_time": 1767873022,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237674,
+        "num": 812367,
+        "word": "中方驳回日方交涉",
+        "onboard_time": 1767873081,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 10082,
+        "num": 615579,
+        "word": "国补新政激发新年消费热情",
+        "onboard_time": 1767877821,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 958444,
+        "num": 543621,
+        "word": "海底捞锅里被扔尿布门店已报警",
+        "onboard_time": 1767872661,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218033,
+        "num": 218033,
+        "word": "三九天喝苹果水",
+        "onboard_time": 1767866000,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 201041,
+        "num": 201041,
+        "word": "男子180个蛋糕送福利院以为做少了",
+        "onboard_time": 1767868701,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139959,
+        "num": 200169,
+        "word": "1818名明星网红查补税款",
+        "onboard_time": 1767876381,
+        "rank": 6,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 129520,
+        "num": 196715,
+        "word": "党员烧香算违纪吗官方释疑",
+        "onboard_time": 1767858380,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123521,
+        "num": 192967,
+        "word": "中共中央政治局常务委员会召开会议",
+        "onboard_time": 1767872961,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100002,
+        "num": 187892,
+        "word": "3岁男童看挖机走失找到时出现失温",
+        "onboard_time": 1767875002,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 728721,
+        "num": 184691,
+        "word": "海底捞 尿不湿",
+        "onboard_time": 1767870680,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368445,
+        "num": 182123,
+        "word": "一家三口被撞亡前1秒行车记录曝光",
+        "onboard_time": 1767869901,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321212,
+        "num": 176089,
+        "word": "多名半裸男模在商场走秀被质疑擦边",
+        "onboard_time": 1767869181,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224600,
+        "num": 174487,
+        "word": "周深你驾驶证该换了",
+        "onboard_time": 1767873382,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171315,
+        "num": 171315,
+        "word": "虞书欣开机应援排面",
+        "onboard_time": 1767878002,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151225,
+        "num": 151225,
+        "word": "肖战今年或将开演唱会",
+        "onboard_time": 1767870680,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145159,
+        "num": 145159,
+        "word": "梁淞以为何美延没下车慌了",
+        "onboard_time": 1767865280,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105189,
+        "num": 141006,
+        "word": "秦家族210KM大电池DMi来了",
+        "onboard_time": 1767877642,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 139850,
+        "num": 139850,
+        "word": "侯明昊发长文告别逍遥",
+        "onboard_time": 1767876262,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123650,
+        "num": 123650,
+        "word": "骄阳似我番外篇",
+        "onboard_time": 1767869240,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 906851,
+        "num": 123599,
+        "word": "檀健次直播",
+        "onboard_time": 1767875242,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 724743,
+        "num": 123402,
+        "word": "孙怡道歉",
+        "onboard_time": 1767848122,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533262,
+        "num": 123315,
+        "word": "曝男艺人因负面骂助理",
+        "onboard_time": 1767866061,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469607,
+        "num": 123257,
+        "word": "张真源腰腹纹身",
+        "onboard_time": 1767874643,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92287,
+        "num": 123027,
+        "word": "王曼昱3比0大藤沙月",
+        "onboard_time": 1767875601,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 433351,
+        "num": 122875,
+        "word": "王橹杰黑头纱",
+        "onboard_time": 1767868041,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21009,
+        "num": 122752,
+        "word": "向新向优发展中国经济向好",
+        "onboard_time": 1767863901,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 324225,
+        "num": 122669,
+        "word": "叶祖新 不要虐待四旬老人",
+        "onboard_time": 1767875902,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316797,
+        "num": 122600,
+        "word": "迪丽热巴高雅人士",
+        "onboard_time": 1767874521,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295846,
+        "num": 122412,
+        "word": "女子买洗碗机老公嫌水电贵把家砸了",
+        "onboard_time": 1767867440,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283285,
+        "num": 122288,
+        "word": "伊能静57岁身材",
+        "onboard_time": 1767873321,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156316,
+        "num": 122126,
+        "word": "杨幂手上拿的是蜜蜂",
+        "onboard_time": 1767877583,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153177,
+        "num": 122088,
+        "word": "曝骂助理的男艺人有公开的恋情",
+        "onboard_time": 1767877520,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125947,
+        "num": 121872,
+        "word": "歌手萧煌奇宣布结婚",
+        "onboard_time": 1767867381,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121828,
+        "num": 121828,
+        "word": "成毅曾舜晞肖顺尧再聚江湖",
+        "onboard_time": 1767871341,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119022,
+        "num": 119022,
+        "word": "中国递烟大爷在外网好火",
+        "onboard_time": 1767876081,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117932,
+        "num": 117932,
+        "word": "檀健次文化底蕴",
+        "onboard_time": 1767871461,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 117618,
+        "num": 117618,
+        "word": "蔡徐坤 大背头最严厉的父亲",
+        "onboard_time": 1767877342,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84584,
+        "num": 109675,
+        "word": "ChatGPT发布美国版蚂蚁阿福",
+        "onboard_time": 1767874521,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 49349,
+        "num": 107491,
+        "word": "警方正核查女婴在月子中心离世",
+        "onboard_time": 1767877221,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105802,
+        "num": 105802,
+        "word": "林更新唱跳楼机红温了",
+        "onboard_time": 1767877642,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104329,
+        "num": 104329,
+        "word": "一家三口被撞身亡墓地飞出蝴蝶",
+        "onboard_time": 1767869121,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100517,
+        "num": 100517,
+        "word": "Tabe在JDG休息室训话",
+        "onboard_time": 1767877642,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98804,
+        "num": 98804,
+        "word": "雀巢中国已按要求实施奶粉召回",
+        "onboard_time": 1767876981,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94776,
+        "num": 95907,
+        "word": "孙俪又拍完了一个新角色",
+        "onboard_time": 1767870441,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95901,
+        "num": 95901,
+        "word": "大学老师已进入海底捞环节",
+        "onboard_time": 1767876862,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94966,
+        "num": 94966,
+        "word": "宋威龙的锁骨痣",
+        "onboard_time": 1767861622,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93803,
+        "num": 93803,
+        "word": "洗碗机比手洗省水省电",
+        "onboard_time": 1767877882,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90049,
+        "num": 90049,
+        "word": "恋与深空最有耐心的男主",
+        "onboard_time": 1767874762,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 86522,
+        "num": 86522,
+        "word": "陈梦说全运会前9个月完全没有训练",
+        "onboard_time": 1767875721,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺通伦#"
+    }
+  }
+}

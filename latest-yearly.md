@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/08 21:00:30
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/08 21:14:59
 </p>
 </blockquote>
 <p>
@@ -369,6 +369,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E9%94%85%E9%87%8C%E8%A2%AB%E6%89%94%E5%B0%BF%E5%B8%83%E9%97%A8%E5%BA%97%E5%B7%B2%E6%8A%A5%E8%AD%A6%23" target="weibo">
+海底捞锅里被扔尿布门店已报警（热度：958444）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E8%A2%AB%E5%8A%A9%E4%BA%A7%E5%A3%AB%E5%89%AA%E6%96%AD%E6%89%8B%E6%8C%87%E7%94%B7%E5%A9%B4%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23" target="weibo">
 疑被助产士剪断手指男婴父亲发声（热度：956208）
 </a>
@@ -407,6 +413,12 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%BA%E7%A5%A8%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4%23" target="weibo">
 机票价格大跳水（热度：915244）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9B%B4%E6%92%AD%23" target="weibo">
+檀健次直播（热度：906851）
 </a>
 </li>
 
@@ -497,12 +509,6 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%B1%BF%E6%A3%AE%E9%83%BD%E6%98%BE%E6%80%80%E4%BA%86%E5%BA%84%E5%BA%8F%E8%BF%98%E6%B2%A1%E9%87%8A%E6%80%80%23" target="weibo">
 林屿森都显怀了庄序还没释怀（热度：839039）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E9%94%85%E9%87%8C%E8%A2%AB%E6%89%94%E5%B0%BF%E5%B8%83%E9%97%A8%E5%BA%97%E5%B7%B2%E6%8A%A5%E8%AD%A6%23" target="weibo">
-海底捞锅里被扔尿布门店已报警（热度：832264）
 </a>
 </li>
 
@@ -893,12 +899,6 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%82%E9%BE%84%E7%94%B7%E6%80%A7%E5%85%AC%E6%B0%91%E9%83%BD%E5%BA%94%E8%BF%9B%E8%A1%8C%E5%85%B5%E5%BD%B9%E7%99%BB%E8%AE%B0%23" target="weibo">
 适龄男性公民都应进行兵役登记（热度：622739）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9B%B4%E6%92%AD%23" target="weibo">
-檀健次直播（热度：622469）
 </a>
 </li>
 
@@ -1743,6 +1743,12 @@ iPhone千万别删的自带软件（热度：474519）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9C%9F%E6%BA%90%E8%85%B0%E8%85%B9%E7%BA%B9%E8%BA%AB%23" target="weibo">
+张真源腰腹纹身（热度：469607）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%23" target="weibo">
 英雄联盟（热度：467932）
 </a>
@@ -1805,12 +1811,6 @@ iPhone千万别删的自带软件（热度：474519）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A9%98%E5%AD%90%E6%88%91%E4%BB%8E%E6%9C%AA%E6%80%80%E7%96%91%E8%BF%87%E4%BD%A0%23" target="weibo">
 橘子我从未怀疑过你（热度：456783）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%9C%A8%E5%BE%B7%E9%81%AD%E8%A2%AD%E5%8F%8D%E5%87%BB%E8%87%B4%E5%AF%B9%E6%96%B9%E9%AA%A8%E6%8A%98%23" target="weibo">
-中国留学生在德遭袭反击致对方骨折（热度：455589）
 </a>
 </li>
 
@@ -1955,6 +1955,12 @@ iPhone千万别删的自带软件（热度：474519）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%89%93%E5%BC%80%E9%95%BF%E6%B1%9F%E7%BB%8F%E6%B5%8E%E5%B8%A6%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%AF%E6%8C%81%E7%BB%AD%E5%8F%91%E5%B1%95%E4%B9%8B%E7%AA%97%23%23" target="weibo">
 #打开长江经济带高质量可持续发展之窗#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E7%94%B5%E7%A5%9D%E8%B4%BA%E9%80%9A%E4%BC%A6%23%23" target="weibo">
+#习近平致电祝贺通伦#
 </a>
 </li>
 
