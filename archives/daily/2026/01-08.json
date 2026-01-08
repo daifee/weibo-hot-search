@@ -1,6 +1,6 @@
 {
   "startTime": 1767804017084,
-  "endTime": 1767844444597,
+  "endTime": 1767845204358,
   "band_list": [
     {
       "raw_hot": 1096354,
@@ -11,7 +11,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 995587,
+      "raw_hot": 1034811,
       "num": 679218,
       "word": "海底捞小便当事人登报道歉",
       "onboard_time": 1767841700,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 728241,
-      "num": 200967,
+      "num": 232363,
       "word": "浪姐2026 张曼玉",
       "onboard_time": 1767839961,
       "rank": 10,
@@ -52,10 +52,18 @@
     },
     {
       "raw_hot": 553956,
-      "num": 818994,
+      "num": 843979,
       "word": "女律师将唇膏给嫌疑人用被停业",
       "onboard_time": 1767840020,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 538289,
+      "num": 229627,
+      "word": "41岁女子健身断奶茶一年换了张脸",
+      "onboard_time": 1767843800,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -91,11 +99,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 390370,
-      "num": 198896,
-      "word": "41岁女子健身断奶茶一年换了张脸",
-      "onboard_time": 1767843800,
-      "rank": 12,
+      "raw_hot": 334099,
+      "num": 334099,
+      "word": "王者荣耀水晶概率好高",
+      "onboard_time": 1767842180,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 333035,
+      "num": 333035,
+      "word": "请1400万网红带货成交4单男子发声",
+      "onboard_time": 1767841640,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -107,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 324070,
+      "num": 170497,
+      "word": "原来命运真的有伏笔",
+      "onboard_time": 1767841820,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 321236,
       "num": 225502,
       "word": "鳌太线 不卖烤肠的山不能爬",
@@ -115,28 +139,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 319686,
-      "num": 146879,
-      "word": "原来命运真的有伏笔",
-      "onboard_time": 1767841820,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 305898,
       "num": 773487,
       "word": "李在明希望再租借一对熊猫",
       "onboard_time": 1767831681,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 291318,
-      "num": 291318,
-      "word": "王者荣耀水晶概率好高",
-      "onboard_time": 1767842180,
-      "rank": 5,
-      "category": "游戏"
     },
     {
       "raw_hot": 281286,
@@ -155,12 +163,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 264264,
+      "num": 225764,
+      "word": "赵丽颖吃完你的吃你的",
+      "onboard_time": 1767843561,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260697,
       "num": 260697,
       "word": "五哈6常驻嘉宾",
       "onboard_time": 1767798144,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242580,
+      "num": 166738,
+      "word": "悄悄涨价的东西",
+      "onboard_time": 1767841101,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 237383,
@@ -179,12 +203,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 228259,
-      "num": 228259,
-      "word": "请1400万网红带货成交4单男子发声",
-      "onboard_time": 1767841640,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 235336,
+      "num": 223472,
+      "word": "云初令",
+      "onboard_time": 1767843501,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 221742,
+      "num": 221742,
+      "word": "张凌赫归鸾出妆",
+      "onboard_time": 1767844340,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 219038,
+      "num": 165333,
+      "word": "靠刷boss完成了精神离职",
+      "onboard_time": 1767844401,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 214545,
@@ -193,14 +233,6 @@
       "onboard_time": 1767803479,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207771,
-      "num": 146545,
-      "word": "悄悄涨价的东西",
-      "onboard_time": 1767841101,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 201190,
@@ -243,14 +275,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 195077,
-      "num": 195077,
-      "word": "云初令",
-      "onboard_time": 1767843501,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 186347,
       "num": 232676,
       "word": "俄要求美方确保油轮上俄公民权益",
@@ -260,18 +284,18 @@
     },
     {
       "raw_hot": 182843,
-      "num": 145216,
+      "num": 158474,
       "word": "黄晓明抄的哪个主包穿搭",
       "onboard_time": 1767841160,
       "rank": 22,
       "category": "剧集"
     },
     {
-      "raw_hot": 181213,
-      "num": 181213,
-      "word": "赵丽颖吃完你的吃你的",
-      "onboard_time": 1767843561,
-      "rank": 15,
+      "raw_hot": 177901,
+      "num": 177901,
+      "word": "归鸾",
+      "onboard_time": 1767844761,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -297,6 +321,14 @@
       "onboard_time": 1767839480,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 163422,
+      "num": 163422,
+      "word": "张钧甯哭出了漫画里才有的泪眼",
+      "onboard_time": 1767843860,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 161843,
@@ -395,14 +427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 137215,
-      "num": 137215,
-      "word": "张钧甯哭出了漫画里才有的泪眼",
-      "onboard_time": 1767843860,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 137164,
       "num": 375023,
       "word": "最无用的节俭行为",
@@ -435,6 +459,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129895,
+      "num": 129895,
+      "word": "NBA交易",
+      "onboard_time": 1767843920,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129286,
+      "num": 129286,
+      "word": "人一定会为漂亮的东西买单",
+      "onboard_time": 1767843561,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126460,
       "num": 126460,
       "word": "剑来",
@@ -449,14 +489,6 @@
       "onboard_time": 1767831261,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123136,
-      "num": 123136,
-      "word": "人一定会为漂亮的东西买单",
-      "onboard_time": 1767843561,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 122831,
@@ -531,6 +563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 112644,
+      "num": 112644,
+      "word": "宋威龙赵今麦互为一级铁粉",
+      "onboard_time": 1767844220,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112392,
       "num": 119296,
       "word": "胃癌来临时身体的五个警报",
@@ -547,20 +587,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 110130,
-      "num": 110130,
-      "word": "靠刷boss完成了精神离职",
-      "onboard_time": 1767844401,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 108366,
       "num": 153019,
       "word": "5人违规穿越鳌太线致3人死亡",
       "onboard_time": 1767828678,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106730,
+      "num": 106730,
+      "word": "秦天宇曹骏常华森 25年出圈男配",
+      "onboard_time": 1767844761,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 105914,
@@ -587,6 +627,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 101908,
+      "num": 101908,
+      "word": "火星哥明天将回归",
+      "onboard_time": 1767844940,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101722,
       "num": 117823,
       "word": "老鹰将特雷杨交易到奇才",
@@ -595,12 +643,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99813,
-      "num": 99813,
-      "word": "宋威龙赵今麦互为一级铁粉",
-      "onboard_time": 1767844220,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 100342,
+      "num": 100342,
+      "word": "王腾离开小米创业后用的还是红米",
+      "onboard_time": 1767845000,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 98941,
@@ -676,7 +724,7 @@
     },
     {
       "raw_hot": 91309,
-      "num": 182307,
+      "num": 224882,
       "word": "AI大模型上市第一股",
       "onboard_time": 1767841581,
       "rank": 14,
@@ -715,12 +763,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88752,
+      "num": 88752,
+      "word": "有这么会谈的男女主进入现偶",
+      "onboard_time": 1767844401,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86860,
       "num": 119178,
       "word": "女子炖肉时高压锅爆炸被热气烫伤",
       "onboard_time": 1767795745,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86295,
+      "num": 86295,
+      "word": "余宇涵坐高铁不会刷身份证",
+      "onboard_time": 1767845180,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 86219,
@@ -747,22 +811,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 84359,
-      "num": 84359,
-      "word": "张凌赫归鸾出妆",
-      "onboard_time": 1767844340,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 83315,
-      "num": 83315,
-      "word": "有这么会谈的男女主进入现偶",
-      "onboard_time": 1767844401,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 82851,
       "num": 119263,
       "word": "厚底鞋",
@@ -787,14 +835,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 80370,
-      "num": 80370,
-      "word": "NBA交易",
-      "onboard_time": 1767843920,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 80026,
       "num": 80026,
       "word": "这是砂糖橘最害怕看到的非遗",
@@ -809,6 +849,14 @@
       "onboard_time": 1767838401,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 78045,
+      "num": 129365,
+      "word": "被于适的红色马表帅到了",
+      "onboard_time": 1767845061,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 75252,
@@ -1043,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52429,
+      "num": 103599,
+      "word": "男子骑摩托被抢杀害十指几乎全断",
+      "onboard_time": 1767844641,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48483,
       "num": 277428,
       "word": "雷军回应掉粉20多万",
@@ -1065,6 +1121,14 @@
       "onboard_time": 1767804858,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46160,
+      "num": 102874,
+      "word": "安徽542万大奖无人认领成弃奖",
+      "onboard_time": 1767844820,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45185,
@@ -1107,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 41289,
+      "num": 105041,
+      "word": "男子因孩子生病醉驾免于刑罚",
+      "onboard_time": 1767844641,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40954,
       "num": 118954,
       "word": "鹅鸭杀回应崩了",
@@ -1137,6 +1209,30 @@
       "onboard_time": 1767828199,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39015,
+      "num": 176332,
+      "word": "车厘子什么时候买最划算",
+      "onboard_time": 1767844641,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38433,
+      "num": 106578,
+      "word": "女子与小8岁实习生分手后追偿8万",
+      "onboard_time": 1767845000,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38373,
+      "num": 173309,
+      "word": "李在明斥责针对慰安妇受害者仇恨集会",
+      "onboard_time": 1767844580,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 38004,
@@ -1347,6 +1443,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 7015,
+      "num": 676696,
+      "word": "2025中国经济澎湃征程",
+      "onboard_time": 1767845180,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 6519,
       "num": 79201,
       "word": "大母猪沟小母猪沟改名",
@@ -1358,6 +1462,9 @@
   "hotgov_list": [
     {
       "word": "#中韩应当坚定站在历史正确一边#"
+    },
+    {
+      "word": "#总书记心系航天事业#"
     }
   ]
 }
