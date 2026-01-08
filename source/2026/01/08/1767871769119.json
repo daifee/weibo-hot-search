@@ -1,0 +1,410 @@
+{
+  "runTime": 1767871769119,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 483711,
+        "num": 1077393,
+        "word": "海底捞 尿不湿",
+        "onboard_time": 1767870680,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443158,
+        "num": 754487,
+        "word": "中国断供日本军事工业遭斩首",
+        "onboard_time": 1767868639,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23182,
+        "num": 604414,
+        "word": "向新向优发展中国经济向好",
+        "onboard_time": 1767863901,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 369712,
+        "num": 369712,
+        "word": "党员烧香算违纪吗官方释疑",
+        "onboard_time": 1767858380,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310038,
+        "num": 310038,
+        "word": "男子180个蛋糕送福利院以为做少了",
+        "onboard_time": 1767868701,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306895,
+        "num": 306895,
+        "word": "三九天喝苹果水",
+        "onboard_time": 1767866000,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 254818,
+        "num": 254818,
+        "word": "机票价格大跳水",
+        "onboard_time": 1767837319,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206552,
+        "num": 206552,
+        "word": "娶了个魔丸生了个魔童",
+        "onboard_time": 1767862160,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142781,
+        "num": 206211,
+        "word": "陈志被从柬埔寨押解回国",
+        "onboard_time": 1767863480,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130760,
+        "num": 195813,
+        "word": "洗头发油得慢的小方法",
+        "onboard_time": 1767853582,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 507430,
+        "num": 192619,
+        "word": "一家三口被撞身亡墓地飞出蝴蝶",
+        "onboard_time": 1767869121,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428850,
+        "num": 183057,
+        "word": "多名半裸男模在商场走秀被质疑擦边",
+        "onboard_time": 1767869181,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345895,
+        "num": 177111,
+        "word": "导演否认于正张慧雯有吻戏",
+        "onboard_time": 1767868220,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296070,
+        "num": 173349,
+        "word": "梁淞以为何美延没下车慌了",
+        "onboard_time": 1767865280,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245605,
+        "num": 165563,
+        "word": "骄阳似我番外篇",
+        "onboard_time": 1767869240,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225220,
+        "num": 157956,
+        "word": "肖战今年或将开演唱会",
+        "onboard_time": 1767870680,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 220854,
+        "num": 152903,
+        "word": "陈伟霆比梁洁更想打黄景瑜",
+        "onboard_time": 1767869001,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147812,
+        "num": 147812,
+        "word": "孙俪又拍完了一个新角色",
+        "onboard_time": 1767870441,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141610,
+        "num": 141610,
+        "word": "檀健次清水带漪",
+        "onboard_time": 1767861860,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 50570,
+        "num": 140935,
+        "word": "成毅曾舜晞肖顺尧再聚江湖",
+        "onboard_time": 1767871341,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1173749,
+        "num": 139283,
+        "word": "曝男艺人因负面骂助理",
+        "onboard_time": 1767866061,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1020635,
+        "num": 137419,
+        "word": "王橹杰黑头纱",
+        "onboard_time": 1767868041,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 886965,
+        "num": 134159,
+        "word": "孙怡道歉",
+        "onboard_time": 1767848122,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308134,
+        "num": 133118,
+        "word": "歌手萧煌奇宣布结婚",
+        "onboard_time": 1767867381,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27008,
+        "num": 130063,
+        "word": "若美武力夺岛丹麦士兵可先开枪再请示",
+        "onboard_time": 1767870501,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 289120,
+        "num": 128557,
+        "word": "女子买洗碗机老公嫌水电贵把家砸了",
+        "onboard_time": 1767867440,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202986,
+        "num": 127352,
+        "word": "檀健次文化底蕴",
+        "onboard_time": 1767871461,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126179,
+        "num": 126179,
+        "word": "一家三口被撞亡前1秒行车记录曝光",
+        "onboard_time": 1767869901,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123660,
+        "num": 123660,
+        "word": "杨幂直播",
+        "onboard_time": 1767868521,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121761,
+        "num": 121761,
+        "word": "再见爱人5全员下车",
+        "onboard_time": 1767857421,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112584,
+        "num": 112584,
+        "word": "李龙馥 女装模特",
+        "onboard_time": 1767870200,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110341,
+        "num": 110341,
+        "word": "赵本山女儿球球否认吃十万块早餐",
+        "onboard_time": 1767869480,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103872,
+        "num": 103872,
+        "word": "陈妍希 红气养人",
+        "onboard_time": 1767869601,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103415,
+        "num": 103415,
+        "word": "A股行情",
+        "onboard_time": 1767870680,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 101196,
+        "num": 101196,
+        "word": "男子发现女友出轨后坠亡",
+        "onboard_time": 1767860721,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97232,
+        "num": 97232,
+        "word": "日本人调侃日本只有禁动漫一张牌",
+        "onboard_time": 1767868400,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 95337,
+        "num": 95337,
+        "word": "过马路羞耻症",
+        "onboard_time": 1767871461,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 102192,
+        "num": 95097,
+        "word": "宋威龙的锁骨痣",
+        "onboard_time": 1767861622,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27133,
+        "num": 94921,
+        "word": "李冰冰 我本来从从容容游刃有余",
+        "onboard_time": 1767871100,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55545,
+        "num": 94300,
+        "word": "90年代的刘亦菲",
+        "onboard_time": 1767870799,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98029,
+        "num": 93872,
+        "word": "以爱为营要拍2了白鹿你知道吗",
+        "onboard_time": 1767858920,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93808,
+        "num": 93808,
+        "word": "孙俪蛮好的人生最好的收视",
+        "onboard_time": 1767865580,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91099,
+        "num": 91099,
+        "word": "RNG告别LPL",
+        "onboard_time": 1767855800,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93863,
+        "num": 90670,
+        "word": "十年前的宋威龙",
+        "onboard_time": 1767870381,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92515,
+        "num": 89743,
+        "word": "中方回应太子集团创始人被遣送回国",
+        "onboard_time": 1767870982,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88185,
+        "num": 88185,
+        "word": "鼻病毒检测阳性率上升",
+        "onboard_time": 1767871401,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 81030,
+        "num": 81030,
+        "word": "河南趴地菠菜火了",
+        "onboard_time": 1767870261,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 80560,
+        "num": 80560,
+        "word": "欧阳娜娜首次杏鲍菇系穿搭",
+        "onboard_time": 1767867802,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77544,
+        "num": 77544,
+        "word": "50元的旧人民币卖到700元",
+        "onboard_time": 1767870020,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75836,
+        "num": 76801,
+        "word": "樊振东的父母真的了不起",
+        "onboard_time": 1767868161,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#打开长江经济带高质量可持续发展之窗#"
+    }
+  }
+}
