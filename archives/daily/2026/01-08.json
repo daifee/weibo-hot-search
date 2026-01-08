@@ -1,6 +1,6 @@
 {
   "startTime": 1767804017084,
-  "endTime": 1767838188381,
+  "endTime": 1767839613001,
   "band_list": [
     {
       "raw_hot": 1096354,
@@ -9,6 +9,22 @@
       "onboard_time": 1767791125,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 811039,
+      "num": 1129766,
+      "word": "机票价格大跳水",
+      "onboard_time": 1767837319,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 663511,
+      "num": 238760,
+      "word": "男子散布未婚妻不雅视频后坠亡",
+      "onboard_time": 1767837920,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 640334,
@@ -28,7 +44,7 @@
     },
     {
       "raw_hot": 477318,
-      "num": 165405,
+      "num": 238020,
       "word": "产后遭家暴女子临产时只有生子的钱",
       "onboard_time": 1767835221,
       "rank": 10,
@@ -36,7 +52,7 @@
     },
     {
       "raw_hot": 421734,
-      "num": 182565,
+      "num": 246484,
       "word": "我的朋友圈点赞等级森严",
       "onboard_time": 1767834441,
       "rank": 5,
@@ -44,7 +60,7 @@
     },
     {
       "raw_hot": 326036,
-      "num": 103690,
+      "num": 223690,
       "word": "冰岛偶遇周也",
       "onboard_time": 1767832999,
       "rank": 20,
@@ -52,7 +68,7 @@
     },
     {
       "raw_hot": 321236,
-      "num": 103119,
+      "num": 225502,
       "word": "鳌太线 不卖烤肠的山不能爬",
       "onboard_time": 1767835341,
       "rank": 21,
@@ -67,8 +83,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 281286,
+      "num": 223839,
+      "word": "刘宇宁 男人最好的医美就是医美",
+      "onboard_time": 1767837680,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266550,
-      "num": 102858,
+      "num": 219099,
       "word": "iPhone 13全系开启限时半价换电池",
       "onboard_time": 1767829339,
       "rank": 22,
@@ -84,7 +108,7 @@
     },
     {
       "raw_hot": 235452,
-      "num": 235452,
+      "num": 243794,
       "word": "美国对格陵兰岛改口",
       "onboard_time": 1767831080,
       "rank": 3,
@@ -99,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212593,
+      "num": 247914,
+      "word": "王腾从小米离开后成立新公司",
+      "onboard_time": 1767837979,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 201190,
       "num": 417397,
       "word": "永川地震",
@@ -107,12 +139,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 201170,
+      "num": 236905,
+      "word": "82岁外婆翻3米高围栏出门",
+      "onboard_time": 1767836539,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199462,
       "num": 619691,
       "word": "官方回应专升本缴费显示南方航空",
       "onboard_time": 1767799584,
       "rank": 1,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 198671,
+      "num": 245231,
+      "word": "3人徒步鳌太线遇难景区无责",
+      "onboard_time": 1767835041,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198048,
@@ -124,7 +172,7 @@
     },
     {
       "raw_hot": 186347,
-      "num": 186347,
+      "num": 232676,
       "word": "俄要求美方确保油轮上俄公民权益",
       "onboard_time": 1767832221,
       "rank": 4,
@@ -139,14 +187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 174770,
-      "num": 174770,
-      "word": "3人徒步鳌太线遇难景区无责",
-      "onboard_time": 1767835041,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 171587,
       "num": 677277,
       "word": "女子百万装新房老公每次来都像游客",
@@ -155,12 +195,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 163421,
-      "num": 163421,
-      "word": "82岁外婆翻3米高围栏出门",
-      "onboard_time": 1767836539,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 168997,
+      "num": 95542,
+      "word": "王腾团队核心来自小米华为等大厂",
+      "onboard_time": 1767839480,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 161843,
@@ -168,6 +208,14 @@
       "word": "雷军回应KOL事件",
       "onboard_time": 1767796226,
       "rank": 0,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 153902,
+      "num": 241926,
+      "word": "王腾新公司名今日宜休",
+      "onboard_time": 1767837800,
+      "rank": 7,
       "category": "互联网"
     },
     {
@@ -179,6 +227,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 152558,
+      "num": 152558,
+      "word": "赵今麦 擦擦西瓜汁",
+      "onboard_time": 1767835820,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152448,
       "num": 120177,
       "word": "刘宇宁 我现在是很丑吗",
@@ -187,27 +243,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151995,
-      "num": 102112,
-      "word": "赵今麦 擦擦西瓜汁",
-      "onboard_time": 1767835820,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 141670,
+      "num": 92238,
+      "word": "律师将唇膏给嫌疑人用被停业3个月",
+      "onboard_time": 1767839480,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 148660,
-      "num": 172124,
-      "word": "王腾新公司名今日宜休",
-      "onboard_time": 1767837800,
-      "rank": 7,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 144307,
-      "num": 144307,
-      "word": "男子散布未婚妻不雅视频后坠亡",
-      "onboard_time": 1767837920,
-      "rank": 13,
+      "raw_hot": 140290,
+      "num": 239993,
+      "word": "鳌太线",
+      "onboard_time": 1767839240,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -228,7 +276,7 @@
     },
     {
       "raw_hot": 138213,
-      "num": 169543,
+      "num": 229626,
       "word": "阿姨趁没人剪走店主羽绒服布料",
       "onboard_time": 1767829399,
       "rank": 8,
@@ -243,8 +291,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134500,
+      "num": 234503,
+      "word": "国防部回应近期涉军问题",
+      "onboard_time": 1767837260,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 134302,
-      "num": 134302,
+      "num": 228279,
       "word": "全家衣服混洗致女儿身上长红斑水泡",
       "onboard_time": 1767831561,
       "rank": 14,
@@ -275,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120494,
+      "num": 120494,
+      "word": "黄子韬扛不住于洋的美",
+      "onboard_time": 1767836900,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119303,
       "num": 119303,
       "word": "陈妍希这个妆造美成啥了",
@@ -284,7 +348,7 @@
     },
     {
       "raw_hot": 116733,
-      "num": 116733,
+      "num": 230805,
       "word": "原亚洲最大宜家门店即将关闭",
       "onboard_time": 1767836900,
       "rank": 16,
@@ -292,27 +356,11 @@
     },
     {
       "raw_hot": 115493,
-      "num": 101673,
+      "num": 113382,
       "word": "马斯克称未来3到7年将非常坎坷",
       "onboard_time": 1767834620,
       "rank": 24,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 113854,
-      "num": 86871,
-      "word": "王腾从小米离开后成立新公司",
-      "onboard_time": 1767837979,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 113805,
-      "num": 113805,
-      "word": "国防部回应近期涉军问题",
-      "onboard_time": 1767837260,
-      "rank": 17,
-      "category": "国内时政"
     },
     {
       "raw_hot": 112657,
@@ -347,20 +395,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105234,
+      "num": 105234,
+      "word": "雷军宣布小米千万技术大奖",
+      "onboard_time": 1767839061,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 102968,
       "num": 100657,
       "word": "这样喝咖啡反而促癌",
       "onboard_time": 1767828799,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 99319,
-      "num": 99319,
-      "word": "刘宇宁 男人最好的医美就是医美",
-      "onboard_time": 1767837680,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 98941,
@@ -377,6 +425,14 @@
       "onboard_time": 1767789684,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 97196,
+      "num": 97196,
+      "word": "中国公民被印方拒绝入境并劝返",
+      "onboard_time": 1767839480,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 94843,
@@ -427,12 +483,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86875,
-      "num": 86875,
-      "word": "黄子韬扛不住于洋的美",
-      "onboard_time": 1767836900,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 88879,
+      "num": 88879,
+      "word": "男子隐瞒案底有娃追求北京独生女",
+      "onboard_time": 1767838519,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86860,
@@ -448,6 +504,14 @@
       "word": "国防部回应日方鼓吹拥核",
       "onboard_time": 1767836960,
       "rank": 33,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 85559,
+      "num": 85559,
+      "word": "中国海军近期在南海救助菲渔民",
+      "onboard_time": 1767838821,
+      "rank": 35,
       "category": "国内时政"
     },
     {
@@ -467,12 +531,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 81404,
-      "num": 168784,
-      "word": "机票价格大跳水",
-      "onboard_time": 1767837319,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 82370,
+      "num": 82370,
+      "word": "合理饮用咖啡可能比你想象的更养人",
+      "onboard_time": 1767830661,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 80026,
@@ -483,12 +547,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 78876,
-      "num": 78876,
-      "word": "合理饮用咖啡可能比你想象的更养人",
-      "onboard_time": 1767830661,
-      "rank": 40,
-      "category": "健康医疗"
+      "raw_hot": 79252,
+      "num": 79252,
+      "word": "2026演员奖提名",
+      "onboard_time": 1767838401,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 75252,
@@ -497,6 +561,14 @@
       "onboard_time": 1767804678,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74294,
+      "num": 74294,
+      "word": "最高法回应裁判文书隐名",
+      "onboard_time": 1767839419,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73729,
@@ -531,12 +603,36 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 69257,
+      "num": 69257,
+      "word": "刘宇宁36岁状态",
+      "onboard_time": 1767839180,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68724,
       "num": 68724,
       "word": "卖家回应鹅鸭杀ID炒到上千元",
       "onboard_time": 1767835341,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 68515,
+      "num": 68515,
+      "word": "抖音体育致歉",
+      "onboard_time": 1767838401,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68298,
+      "num": 68298,
+      "word": "央行连续14个月增持黄金背后信号",
+      "onboard_time": 1767838339,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 67067,
@@ -803,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35887,
+      "num": 227025,
+      "word": "最高法回应裁判文书隐名问题",
+      "onboard_time": 1767838519,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 34601,
       "num": 49424,
       "word": "鹅鸭杀致歉",
@@ -825,6 +929,14 @@
       "onboard_time": 1767805937,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 32292,
+      "num": 74721,
+      "word": "中国该怎么粉碎日本的卡脖子",
+      "onboard_time": 1767838821,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32261,
@@ -873,6 +985,14 @@
       "onboard_time": 1767807856,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24995,
+      "num": 650336,
+      "word": "直播电商新规强化AI内容监管",
+      "onboard_time": 1767795265,
+      "rank": 2,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 24980,
@@ -945,14 +1065,6 @@
       "onboard_time": 1767800482,
       "rank": 48,
       "category": "军事"
-    },
-    {
-      "raw_hot": 20082,
-      "num": 650336,
-      "word": "直播电商新规强化AI内容监管",
-      "onboard_time": 1767795265,
-      "rank": 2,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 6519,

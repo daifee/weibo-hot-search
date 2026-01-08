@@ -1,0 +1,410 @@
+{
+  "runTime": 1767839613001,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 811039,
+        "num": 1129766,
+        "word": "机票价格大跳水",
+        "onboard_time": 1767837319,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 498115,
+        "num": 802729,
+        "word": "美国一口气退66个群",
+        "onboard_time": 1767828619,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24995,
+        "num": 636712,
+        "word": "直播电商新规强化AI内容监管",
+        "onboard_time": 1767795265,
+        "rank": 2,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 247970,
+        "num": 247970,
+        "word": "李在明希望再租借一对熊猫",
+        "onboard_time": 1767831681,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 212593,
+        "num": 247914,
+        "word": "王腾从小米离开后成立新公司",
+        "onboard_time": 1767837979,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 396354,
+        "num": 246484,
+        "word": "我的朋友圈点赞等级森严",
+        "onboard_time": 1767834441,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198671,
+        "num": 245231,
+        "word": "3人徒步鳌太线遇难景区无责",
+        "onboard_time": 1767835041,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156333,
+        "num": 243794,
+        "word": "美国对格陵兰岛改口",
+        "onboard_time": 1767831080,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153902,
+        "num": 241926,
+        "word": "王腾新公司名今日宜休",
+        "onboard_time": 1767837800,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 140290,
+        "num": 239993,
+        "word": "鳌太线",
+        "onboard_time": 1767839240,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 663511,
+        "num": 238760,
+        "word": "男子散布未婚妻不雅视频后坠亡",
+        "onboard_time": 1767837920,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392617,
+        "num": 238020,
+        "word": "产后遭家暴女子临产时只有生子的钱",
+        "onboard_time": 1767835221,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201170,
+        "num": 236905,
+        "word": "82岁外婆翻3米高围栏出门",
+        "onboard_time": 1767836539,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134500,
+        "num": 234503,
+        "word": "国防部回应近期涉军问题",
+        "onboard_time": 1767837260,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130707,
+        "num": 233902,
+        "word": "五哈6常驻嘉宾",
+        "onboard_time": 1767798144,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121999,
+        "num": 232676,
+        "word": "俄要求美方确保油轮上俄公民权益",
+        "onboard_time": 1767832221,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99504,
+        "num": 230805,
+        "word": "原亚洲最大宜家门店即将关闭",
+        "onboard_time": 1767836900,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98525,
+        "num": 229626,
+        "word": "阿姨趁没人剪走店主羽绒服布料",
+        "onboard_time": 1767829399,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98414,
+        "num": 228279,
+        "word": "全家衣服混洗致女儿身上长红斑水泡",
+        "onboard_time": 1767831561,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35887,
+        "num": 227025,
+        "word": "最高法回应裁判文书隐名问题",
+        "onboard_time": 1767838519,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 285779,
+        "num": 225502,
+        "word": "鳌太线 不卖烤肠的山不能爬",
+        "onboard_time": 1767835341,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 281286,
+        "num": 223839,
+        "word": "刘宇宁 男人最好的医美就是医美",
+        "onboard_time": 1767837680,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223690,
+        "num": 223690,
+        "word": "冰岛偶遇周也",
+        "onboard_time": 1767832999,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219099,
+        "num": 219099,
+        "word": "iPhone 13全系开启限时半价换电池",
+        "onboard_time": 1767829339,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 152558,
+        "num": 152558,
+        "word": "赵今麦 擦擦西瓜汁",
+        "onboard_time": 1767835820,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120494,
+        "num": 120494,
+        "word": "黄子韬扛不住于洋的美",
+        "onboard_time": 1767836900,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113382,
+        "num": 113382,
+        "word": "马斯克称未来3到7年将非常坎坷",
+        "onboard_time": 1767834620,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 105234,
+        "num": 105234,
+        "word": "雷军宣布小米千万技术大奖",
+        "onboard_time": 1767839061,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 97517,
+        "num": 97517,
+        "word": "网剧双轨",
+        "onboard_time": 1767831261,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97196,
+        "num": 97196,
+        "word": "中国公民被印方拒绝入境并劝返",
+        "onboard_time": 1767839480,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168997,
+        "num": 95542,
+        "word": "王腾团队核心来自小米华为等大厂",
+        "onboard_time": 1767839480,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 141670,
+        "num": 92238,
+        "word": "律师将唇膏给嫌疑人用被停业3个月",
+        "onboard_time": 1767839480,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88879,
+        "num": 88879,
+        "word": "男子隐瞒案底有娃追求北京独生女",
+        "onboard_time": 1767838519,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86988,
+        "num": 86988,
+        "word": "周恩来同志逝世50周年",
+        "onboard_time": 1767835881,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86384,
+        "num": 86384,
+        "word": "这样喝咖啡反而促癌",
+        "onboard_time": 1767828799,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 85559,
+        "num": 85559,
+        "word": "中国海军近期在南海救助菲渔民",
+        "onboard_time": 1767838821,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 83320,
+        "num": 83320,
+        "word": "马斯克指出中国关键优势",
+        "onboard_time": 1767837319,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 82370,
+        "num": 82370,
+        "word": "合理饮用咖啡可能比你想象的更养人",
+        "onboard_time": 1767830661,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 79252,
+        "num": 79252,
+        "word": "2026演员奖提名",
+        "onboard_time": 1767838401,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32292,
+        "num": 74721,
+        "word": "中国该怎么粉碎日本的卡脖子",
+        "onboard_time": 1767838821,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74294,
+        "num": 74294,
+        "word": "最高法回应裁判文书隐名",
+        "onboard_time": 1767839419,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73826,
+        "num": 73826,
+        "word": "女子炖肉时高压锅爆炸被热气烫伤",
+        "onboard_time": 1767795745,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72417,
+        "num": 72417,
+        "word": "这是砂糖橘最害怕看到的非遗",
+        "onboard_time": 1767831381,
+        "rank": 42,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 69688,
+        "num": 69688,
+        "word": "女子拿5克金子做首饰熔后不足1克",
+        "onboard_time": 1767792085,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 69551,
+        "num": 69551,
+        "word": "日本经济界对中方全面禁运感到恐慌",
+        "onboard_time": 1767797484,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69257,
+        "num": 69257,
+        "word": "刘宇宁36岁状态",
+        "onboard_time": 1767839180,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68515,
+        "num": 68515,
+        "word": "抖音体育致歉",
+        "onboard_time": 1767838401,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68298,
+        "num": 68298,
+        "word": "央行连续14个月增持黄金背后信号",
+        "onboard_time": 1767838339,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 66238,
+        "num": 66238,
+        "word": "迪丽热巴2026年开门红",
+        "onboard_time": 1767834141,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65466,
+        "num": 65466,
+        "word": "哈哈哈哈哈6",
+        "onboard_time": 1767803479,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中韩应当坚定站在历史正确一边#"
+    }
+  }
+}

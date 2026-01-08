@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767838188381,
+  "endTime": 1767839613001,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -619,6 +619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 811039,
+      "num": 1129766,
+      "word": "机票价格大跳水",
+      "onboard_time": 1767837319,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 810815,
       "num": 293596,
       "word": "女生游黄山高坠死亡谁呼出的电话",
@@ -920,6 +928,14 @@
       "word": "3小孩坐跳楼机工作人员忘放安全杠",
       "onboard_time": 1767797484,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 663511,
+      "num": 238760,
+      "word": "男子散布未婚妻不雅视频后坠亡",
+      "onboard_time": 1767837920,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -1956,7 +1972,7 @@
     },
     {
       "raw_hot": 477318,
-      "num": 165405,
+      "num": 238020,
       "word": "产后遭家暴女子临产时只有生子的钱",
       "onboard_time": 1767835221,
       "rank": 10,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767506242,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 430634,
-      "num": 158738,
-      "word": "白鹿宋威龙早期旧照",
-      "onboard_time": 1767678501,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 429903,
-      "num": 832151,
-      "word": "特斯拉ModelYL首次推出5年0息",
-      "onboard_time": 1767666501,
-      "rank": 27,
-      "category": "汽车"
     }
   ],
   "hotgov_list": [
