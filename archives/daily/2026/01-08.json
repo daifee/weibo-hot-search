@@ -1,6 +1,6 @@
 {
   "startTime": 1767804017084,
-  "endTime": 1767865013365,
+  "endTime": 1767865916953,
   "band_list": [
     {
       "raw_hot": 2608150,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 554927,
+      "num": 316249,
+      "word": "娶了个魔丸生了个魔童",
+      "onboard_time": 1767862160,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 553956,
       "num": 843979,
       "word": "女律师将唇膏给嫌疑人用被停业",
@@ -153,14 +161,6 @@
       "onboard_time": 1767857421,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 520171,
-      "num": 289466,
-      "word": "娶了个魔丸生了个魔童",
-      "onboard_time": 1767862160,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 506314,
@@ -243,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 401318,
+      "num": 401318,
+      "word": "坠亡女教师母亲想不通女儿为何轻生",
+      "onboard_time": 1767861980,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 393106,
       "num": 238107,
       "word": "以爱为营要拍2了白鹿你知道吗",
@@ -259,19 +267,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 376723,
-      "num": 376723,
-      "word": "坠亡女教师母亲想不通女儿为何轻生",
-      "onboard_time": 1767861980,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 376299,
       "num": 778602,
       "word": "3万请1400万网红带货仅成交4单",
       "onboard_time": 1767846681,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 369927,
+      "num": 172382,
+      "word": "男子发现女友出轨后坠亡",
+      "onboard_time": 1767860721,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -281,6 +289,14 @@
       "onboard_time": 1767849321,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 339829,
+      "num": 184591,
+      "word": "欧阳娜娜我都多余搭理你",
+      "onboard_time": 1767861021,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 334099,
@@ -305,6 +321,14 @@
       "onboard_time": 1767859580,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 327447,
+      "num": 327447,
+      "word": "陈志被从柬埔寨押解回国",
+      "onboard_time": 1767863480,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 326036,
@@ -345,6 +369,14 @@
       "onboard_time": 1767831681,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 305480,
+      "num": 165619,
+      "word": "张慧雯工伤",
+      "onboard_time": 1767861801,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 294360,
@@ -427,14 +459,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 256070,
-      "num": 184591,
-      "word": "欧阳娜娜我都多余搭理你",
-      "onboard_time": 1767861021,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 242580,
       "num": 166738,
       "word": "悄悄涨价的东西",
@@ -449,6 +473,14 @@
       "onboard_time": 1767853281,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238865,
+      "num": 155677,
+      "word": "梁淞以为何美延没下车慌了",
+      "onboard_time": 1767865280,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 237383,
@@ -473,22 +505,6 @@
       "onboard_time": 1767831080,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 229566,
-      "num": 165619,
-      "word": "张慧雯工伤",
-      "onboard_time": 1767861801,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 226842,
-      "num": 172382,
-      "word": "男子发现女友出轨后坠亡",
-      "onboard_time": 1767860721,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 225916,
@@ -811,20 +827,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 148122,
+      "num": 148122,
+      "word": "杨超越这样低头都没有双下巴",
+      "onboard_time": 1767862040,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147439,
       "num": 147439,
       "word": "原神少女",
       "onboard_time": 1767848782,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 146986,
-      "num": 146986,
-      "word": "杨超越这样低头都没有双下巴",
-      "onboard_time": 1767862040,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 144812,
@@ -857,6 +873,14 @@
       "onboard_time": 1767839480,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141172,
+      "num": 141172,
+      "word": "孙怡多家公司已注销",
+      "onboard_time": 1767864740,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 140290,
@@ -921,6 +945,14 @@
       "onboard_time": 1767829399,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138104,
+      "num": 138104,
+      "word": "孙俪蛮好的人生最好的收视",
+      "onboard_time": 1767865580,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 137953,
@@ -1011,14 +1043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129741,
-      "num": 129741,
-      "word": "孙怡多家公司已注销",
-      "onboard_time": 1767864740,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129286,
       "num": 129286,
       "word": "人一定会为漂亮的东西买单",
@@ -1081,14 +1105,6 @@
       "onboard_time": 1767856221,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 124211,
-      "num": 124211,
-      "word": "陈志被从柬埔寨押解回国",
-      "onboard_time": 1767863480,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 122831,
@@ -1587,6 +1603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101589,
+      "num": 101589,
+      "word": "癌症疫苗新突破",
+      "onboard_time": 1767865100,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 101453,
       "num": 113688,
       "word": "忘放跳楼机安全杠工作人员已被开除",
@@ -1625,6 +1649,14 @@
       "onboard_time": 1767798385,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98343,
+      "num": 98343,
+      "word": "曝助理被艺人妈妈骂半小时",
+      "onboard_time": 1767865761,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 98211,
@@ -1875,6 +1907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88561,
+      "num": 88561,
+      "word": "A股微跌走出15连阳",
+      "onboard_time": 1767865521,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 88477,
       "num": 94876,
       "word": "七七早期跳舞视频",
@@ -1913,6 +1953,14 @@
       "onboard_time": 1767838821,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 85019,
+      "num": 85019,
+      "word": "下辈子生我时能不能用这个文案",
+      "onboard_time": 1767865881,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 84524,
@@ -2009,6 +2057,14 @@
       "onboard_time": 1767854599,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76632,
+      "num": 100530,
+      "word": "普通人别爬没卖烤肠的山",
+      "onboard_time": 1767865040,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75252,
@@ -2627,6 +2683,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28784,
+      "num": 102822,
+      "word": "美国盐湖城大规模枪击",
+      "onboard_time": 1767864800,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 28340,
       "num": 88841,
       "word": "官方回应救护车遇车祸致3人受伤",
@@ -2745,14 +2809,6 @@
       "onboard_time": 1767845482,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20096,
-      "num": 102822,
-      "word": "美国盐湖城大规模枪击",
-      "onboard_time": 1767864800,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 7015,

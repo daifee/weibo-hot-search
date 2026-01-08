@@ -1,0 +1,410 @@
+{
+  "runTime": 1767865916953,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 681668,
+        "num": 1109066,
+        "word": "党员烧香算违纪吗官方释疑",
+        "onboard_time": 1767858380,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 517061,
+        "num": 816849,
+        "word": "日本距离核武器只差一把螺丝刀",
+        "onboard_time": 1767860241,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25169,
+        "num": 650123,
+        "word": "向新向优发展中国经济向好",
+        "onboard_time": 1767863901,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 401318,
+        "num": 401318,
+        "word": "坠亡女教师母亲想不通女儿为何轻生",
+        "onboard_time": 1767861980,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327447,
+        "num": 327447,
+        "word": "陈志被从柬埔寨押解回国",
+        "onboard_time": 1767863480,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 554927,
+        "num": 316249,
+        "word": "娶了个魔丸生了个魔童",
+        "onboard_time": 1767862160,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 304027,
+        "num": 304027,
+        "word": "机票价格大跳水",
+        "onboard_time": 1767837319,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250105,
+        "num": 250105,
+        "word": "3万请1400万网红带货仅成交4单",
+        "onboard_time": 1767846681,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194764,
+        "num": 194764,
+        "word": "洗头发油得慢的小方法",
+        "onboard_time": 1767853582,
+        "rank": 8,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 173896,
+        "num": 173896,
+        "word": "李在明驳斥中方干预韩选举荒唐言论",
+        "onboard_time": 1767856520,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 691706,
+        "num": 171685,
+        "word": "于正张慧雯或有吻戏",
+        "onboard_time": 1767859941,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 509521,
+        "num": 169129,
+        "word": "檀健次清水带漪",
+        "onboard_time": 1767861860,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 369927,
+        "num": 167928,
+        "word": "男子发现女友出轨后坠亡",
+        "onboard_time": 1767860721,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268725,
+        "num": 162620,
+        "word": "再见爱人5全员下车",
+        "onboard_time": 1767857421,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252827,
+        "num": 162010,
+        "word": "以爱为营要拍2了白鹿你知道吗",
+        "onboard_time": 1767858920,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305480,
+        "num": 158826,
+        "word": "张慧雯工伤",
+        "onboard_time": 1767861801,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238865,
+        "num": 155677,
+        "word": "梁淞以为何美延没下车慌了",
+        "onboard_time": 1767865280,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153405,
+        "num": 153405,
+        "word": "陈志已被采取强制措施",
+        "onboard_time": 1767863122,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186793,
+        "num": 153368,
+        "word": "李施嬅听了何炅的语音后泪崩",
+        "onboard_time": 1767861201,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153223,
+        "num": 153223,
+        "word": "羽绒服 里面是飞丝",
+        "onboard_time": 1767857959,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1278735,
+        "num": 152615,
+        "word": "孙怡道歉",
+        "onboard_time": 1767848122,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339829,
+        "num": 152224,
+        "word": "欧阳娜娜我都多余搭理你",
+        "onboard_time": 1767861021,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164677,
+        "num": 151286,
+        "word": "气血不足的人大多有这些习惯",
+        "onboard_time": 1767861622,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149904,
+        "num": 149904,
+        "word": "RNG告别LPL",
+        "onboard_time": 1767855800,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148122,
+        "num": 148122,
+        "word": "杨超越这样低头都没有双下巴",
+        "onboard_time": 1767862040,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141172,
+        "num": 141172,
+        "word": "孙怡多家公司已注销",
+        "onboard_time": 1767864740,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138104,
+        "num": 138104,
+        "word": "孙俪蛮好的人生最好的收视",
+        "onboard_time": 1767865580,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134128,
+        "num": 134128,
+        "word": "1704公里小鹏G7续航长长长长长长长长",
+        "onboard_time": 1767861261,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 129442,
+        "num": 129442,
+        "word": "林更新喊赵又廷高圆圆成毅学他的演技",
+        "onboard_time": 1767859580,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123904,
+        "num": 123904,
+        "word": "周震南 魔丸碰上魔丸",
+        "onboard_time": 1767864740,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117017,
+        "num": 117017,
+        "word": "男子回应180个蛋糕送400多个孩子",
+        "onboard_time": 1767862401,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115753,
+        "num": 115753,
+        "word": "宋威龙的锁骨痣",
+        "onboard_time": 1767861622,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114492,
+        "num": 114492,
+        "word": "多家车企公布2026年销量目标",
+        "onboard_time": 1767864681,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 113155,
+        "num": 113155,
+        "word": "马伊琍爆炸头",
+        "onboard_time": 1767862581,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110955,
+        "num": 110955,
+        "word": "女孩写试卷时昏倒去世家属不忍尸检",
+        "onboard_time": 1767862581,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103623,
+        "num": 103623,
+        "word": "虞书欣云初令出妆",
+        "onboard_time": 1767846141,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101589,
+        "num": 101589,
+        "word": "癌症疫苗新突破",
+        "onboard_time": 1767865100,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100588,
+        "num": 100588,
+        "word": "短剧版仙剑三剧情",
+        "onboard_time": 1767863420,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76632,
+        "num": 100530,
+        "word": "普通人别爬没卖烤肠的山",
+        "onboard_time": 1767865040,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28784,
+        "num": 100504,
+        "word": "美国盐湖城大规模枪击",
+        "onboard_time": 1767864800,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100484,
+        "num": 100484,
+        "word": "41岁女子健身断奶茶一年换了张脸",
+        "onboard_time": 1767843800,
+        "rank": 40,
+        "category": "民生新闻,运动健身"
+      },
+      {
+        "raw_hot": 98343,
+        "num": 98343,
+        "word": "曝助理被艺人妈妈骂半小时",
+        "onboard_time": 1767865761,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97118,
+        "num": 97118,
+        "word": "二月日历 强迫症狂喜",
+        "onboard_time": 1767864022,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95300,
+        "num": 95300,
+        "word": "2025央八收视前十",
+        "onboard_time": 1767849321,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93196,
+        "num": 93196,
+        "word": "云初令",
+        "onboard_time": 1767843501,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91101,
+        "num": 91101,
+        "word": "叶祖新 再也不自作多情了",
+        "onboard_time": 1767863841,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88561,
+        "num": 88561,
+        "word": "A股微跌走出15连阳",
+        "onboard_time": 1767865521,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 88536,
+        "num": 88536,
+        "word": "赖伟明请假原因是去拍戏",
+        "onboard_time": 1767859881,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87030,
+        "num": 87030,
+        "word": "女子喝自制豆浆中毒上吐下泻",
+        "onboard_time": 1767859642,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85019,
+        "num": 85019,
+        "word": "下辈子生我时能不能用这个文案",
+        "onboard_time": 1767865881,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#打开长江经济带高质量可持续发展之窗#"
+    }
+  }
+}
