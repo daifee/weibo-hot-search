@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/09 00:39:55 ~ 2026/01/09 02:53:57
+本榜单时间：2026/01/09 00:39:55 ~ 2026/01/09 03:27:11
 </p>
 </blockquote>
 <p>
@@ -377,6 +377,18 @@ Meta Manus（热度：20949）
 <li>
 <a href="https://s.weibo.com/weibo?q=%233%E5%B2%81%E7%94%B7%E7%AB%A5%E5%92%8C%E7%8B%97%E7%9C%8B%E6%8C%96%E6%9C%BA%E8%B5%B0%E5%A4%B1%E6%95%91%E6%8F%B4%E8%80%85%E5%8F%91%E5%A3%B0%23" target="weibo">
 3岁男童和狗看挖机走失救援者发声（热度：15789）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%9C%9F%E6%9C%AB%E8%A1%A5%E4%BD%9C%E4%B8%9A%23" target="weibo">
+周深期末补作业（热度：13825）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%233%E5%B2%81%E7%94%B7%E7%AB%A5%E7%9C%8B%E6%8C%96%E6%9C%BA%E8%B5%B0%E5%A4%B1%E6%89%BE%E5%88%B0%E6%97%B6%E5%87%BA%E7%8E%B0%E5%A4%B1%E6%B8%A9%23" target="weibo">
+3岁男童看挖机走失找到时出现失温（热度：12960）
 </a>
 </li>
 

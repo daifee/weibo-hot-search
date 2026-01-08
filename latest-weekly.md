@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/04 00:34:09 ~ 2026/01/09 02:53:57
+本榜单时间：2026/01/04 00:34:09 ~ 2026/01/09 03:27:11
 </p>
 </blockquote>
 <p>
@@ -13217,6 +13217,12 @@ idoll娃娃（热度：23680）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23kpl%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%B7%85%E5%B3%B0%E4%B9%8B%E5%A4%9C%23" target="weibo">
 kpl王者荣耀巅峰之夜（热度：14148）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%9C%9F%E6%9C%AB%E8%A1%A5%E4%BD%9C%E4%B8%9A%23" target="weibo">
+周深期末补作业（热度：13825）
 </a>
 </li>
 

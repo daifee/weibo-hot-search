@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767898437515,
+  "endTime": 1767900431598,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -17609,6 +17609,14 @@
       "onboard_time": 1767434187,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 13825,
+      "num": 33961,
+      "word": "周深期末补作业",
+      "onboard_time": 1767899055,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 13321,
