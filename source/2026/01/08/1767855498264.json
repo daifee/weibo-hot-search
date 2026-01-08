@@ -1,0 +1,410 @@
+{
+  "runTime": 1767855498264,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 434212,
+        "num": 1069473,
+        "word": "机票价格大跳水",
+        "onboard_time": 1767837319,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347729,
+        "num": 774442,
+        "word": "3万请1400万网红带货仅成交4单",
+        "onboard_time": 1767846681,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19102,
+        "num": 622493,
+        "word": "解锁智能穿戴领域的千亿级市场",
+        "onboard_time": 1767845841,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421910,
+        "num": 421910,
+        "word": "神秘园 鳌太线",
+        "onboard_time": 1767851720,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231254,
+        "num": 378652,
+        "word": "美国ICE当街射杀37岁母亲",
+        "onboard_time": 1767846141,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 371366,
+        "num": 371366,
+        "word": "洗头发油得慢的小方法",
+        "onboard_time": 1767853582,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 217070,
+        "num": 217070,
+        "word": "海底捞小便当事人登报道歉",
+        "onboard_time": 1767841700,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197085,
+        "num": 197085,
+        "word": "原来长辈买衣服不是随便摸摸",
+        "onboard_time": 1767846561,
+        "rank": 7,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 184051,
+        "num": 184051,
+        "word": "委内瑞拉外长感谢中国政府支持",
+        "onboard_time": 1767853640,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182571,
+        "num": 182571,
+        "word": "杨瀚森五犯下场被吹出表情包",
+        "onboard_time": 1767851300,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 518724,
+        "num": 182413,
+        "word": "虞书欣云初令出妆",
+        "onboard_time": 1767846141,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351652,
+        "num": 179954,
+        "word": "李施嬅车崇健he了",
+        "onboard_time": 1767849381,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284045,
+        "num": 177571,
+        "word": "2025央八收视前十",
+        "onboard_time": 1767849321,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246390,
+        "num": 177239,
+        "word": "41岁女子健身断奶茶一年换了张脸",
+        "onboard_time": 1767843800,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175608,
+        "num": 175608,
+        "word": "父亲被害年幼女儿问妈妈会不会改嫁",
+        "onboard_time": 1767853281,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157609,
+        "num": 157609,
+        "word": "云初令",
+        "onboard_time": 1767843501,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154879,
+        "num": 154879,
+        "word": "张若昀脸上的巴掌印可见五指",
+        "onboard_time": 1767854780,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149064,
+        "num": 149064,
+        "word": "男子散布未婚妻不雅视频后坠亡",
+        "onboard_time": 1767837920,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139211,
+        "num": 139211,
+        "word": "荣耀之战",
+        "onboard_time": 1767849201,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138256,
+        "num": 138256,
+        "word": "女律师将唇膏给嫌疑人用被停业",
+        "onboard_time": 1767840020,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1952476,
+        "num": 138199,
+        "word": "孙怡道歉",
+        "onboard_time": 1767848122,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386609,
+        "num": 135727,
+        "word": "蔡徐坤上海",
+        "onboard_time": 1767849742,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190070,
+        "num": 129747,
+        "word": "董子健晒四年前偶遇刘昊然合影",
+        "onboard_time": 1767845962,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122989,
+        "num": 122989,
+        "word": "荣耀之战四代仅有一班参加",
+        "onboard_time": 1767853879,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122622,
+        "num": 122622,
+        "word": "老鼠干也是一种芭比娃娃",
+        "onboard_time": 1767851121,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122550,
+        "num": 122550,
+        "word": "浪姐2026 张曼玉",
+        "onboard_time": 1767839961,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120828,
+        "num": 120828,
+        "word": "郑恺苗工我的年度意难平",
+        "onboard_time": 1767854182,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118989,
+        "num": 118989,
+        "word": "原来命运真的有伏笔",
+        "onboard_time": 1767841820,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117012,
+        "num": 117012,
+        "word": "陶喆巡演官宣",
+        "onboard_time": 1767847402,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116060,
+        "num": 116060,
+        "word": "王腾从小米离开后成立新公司",
+        "onboard_time": 1767837979,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 122360,
+        "num": 115993,
+        "word": "我就说谈恋爱好尴尬吧",
+        "onboard_time": 1767855201,
+        "rank": 30,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 115500,
+        "num": 115500,
+        "word": "众星送别萧敬腾岳父林光宁",
+        "onboard_time": 1767851780,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114359,
+        "num": 114359,
+        "word": "蓝盈莹新剧带了136个孩子",
+        "onboard_time": 1767851720,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109895,
+        "num": 109895,
+        "word": "坠亡女教师父母否认卖女换彩礼",
+        "onboard_time": 1767852800,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104829,
+        "num": 104829,
+        "word": "王者荣耀大禹",
+        "onboard_time": 1767853761,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103275,
+        "num": 103275,
+        "word": "开拓者1分险胜火箭",
+        "onboard_time": 1767854960,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100584,
+        "num": 100584,
+        "word": "张真源新歌将上线",
+        "onboard_time": 1767846863,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94945,
+        "num": 94945,
+        "word": "王者荣耀水晶概率好高",
+        "onboard_time": 1767842180,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 33389,
+        "num": 84773,
+        "word": "宋威龙 草莓发卡系艺人",
+        "onboard_time": 1767855380,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84077,
+        "num": 84077,
+        "word": "华为门店回应请半裸男模跳舞",
+        "onboard_time": 1767853700,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79237,
+        "num": 79237,
+        "word": "机票价格将出现波动",
+        "onboard_time": 1767855260,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77281,
+        "num": 77281,
+        "word": "papi说何美延梁淞结局像悬疑片",
+        "onboard_time": 1767853820,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76668,
+        "num": 76668,
+        "word": "玉茗茶骨 双强夫妻",
+        "onboard_time": 1767854599,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81575,
+        "num": 76592,
+        "word": "宋威龙海外口碑",
+        "onboard_time": 1767849742,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76431,
+        "num": 76431,
+        "word": "再见爱人5",
+        "onboard_time": 1767854478,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74714,
+        "num": 74714,
+        "word": "原来轧戏轧的是韩剧啊",
+        "onboard_time": 1767845420,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74655,
+        "num": 74655,
+        "word": "雷军回应为何处罚这么严重",
+        "onboard_time": 1767855380,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 72650,
+        "num": 72650,
+        "word": "玉茗茶骨",
+        "onboard_time": 1767855081,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71337,
+        "num": 71337,
+        "word": "悄悄涨价的东西",
+        "onboard_time": 1767841101,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69667,
+        "num": 69667,
+        "word": "小狗做完绝育还为自己拉警报",
+        "onboard_time": 1767854541,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系航天事业#"
+    }
+  }
+}
