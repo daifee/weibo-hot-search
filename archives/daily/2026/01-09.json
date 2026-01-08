@@ -1,6 +1,6 @@
 {
   "startTime": 1767890395081,
-  "endTime": 1767891407564,
+  "endTime": 1767893665230,
   "band_list": [
     {
       "raw_hot": 1118560,
@@ -131,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120284,
+      "num": 175810,
+      "word": "iPhone18Pro系列影像测试配置",
+      "onboard_time": 1767888859,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 111024,
       "num": 199184,
       "word": "Manus 新加坡",
@@ -145,6 +153,14 @@
       "onboard_time": 1767882743,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109458,
+      "num": 175572,
+      "word": "博主吃播室友剩饭被多平台封禁",
+      "onboard_time": 1767889278,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106517,
@@ -227,14 +243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 79790,
-      "num": 175810,
-      "word": "iPhone18Pro系列影像测试配置",
-      "onboard_time": 1767888859,
-      "rank": 29,
-      "category": "数码"
-    },
-    {
       "raw_hot": 76763,
       "num": 175776,
       "word": "女子买洗碗机老公嫌水电贵把家砸了",
@@ -275,14 +283,6 @@
       "category": "民生新闻,体育"
     },
     {
-      "raw_hot": 58179,
-      "num": 175572,
-      "word": "博主吃播室友剩饭被多平台封禁",
-      "onboard_time": 1767889278,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 58168,
       "num": 175552,
       "word": "侯明昊发长文告别逍遥",
@@ -313,6 +313,14 @@
       "onboard_time": 1767873382,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 48813,
+      "num": 154136,
+      "word": "高校建议高数成绩落后家长陪读",
+      "onboard_time": 1767890597,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47307,
@@ -379,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 41026,
+      "num": 70920,
+      "word": "双高胎合唱",
+      "onboard_time": 1767892517,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 37384,
       "num": 175085,
       "word": "王曼昱回应首局爆分",
@@ -395,12 +411,36 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 35421,
-      "num": 154136,
-      "word": "高校建议高数成绩落后家长陪读",
-      "onboard_time": 1767890597,
-      "rank": 46,
+      "raw_hot": 29964,
+      "num": 70382,
+      "word": "小姐姐用自己外套救起受伤小猫",
+      "onboard_time": 1767893536,
+      "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29586,
+      "num": 70322,
+      "word": "王源郑州吃播vlog",
+      "onboard_time": 1767893418,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 28718,
+      "num": 70223,
+      "word": "刘宇宁称巡演成都站有小惊喜",
+      "onboard_time": 1767892217,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 27577,
+      "num": 70125,
+      "word": "导演认可侯明昊顶尖猫系男主",
+      "onboard_time": 1767891619,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 27196,
@@ -409,11 +449,30 @@
       "onboard_time": 1767878481,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26623,
+      "num": 70072,
+      "word": "陆江来简直是哄人专业户",
+      "onboard_time": 1767893596,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 12816,
+      "num": 235108,
+      "word": "国补新政激发新年消费热情",
+      "onboard_time": 1767877821,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
     {
       "word": "#习近平致电祝贺通伦#"
+    },
+    {
+      "word": "#中央政治局常委会召开会议#"
     }
   ]
 }
