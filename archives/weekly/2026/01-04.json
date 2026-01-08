@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767829319825,
+  "endTime": 1767838188381,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -720,6 +720,14 @@
       "word": "马杜罗出庭",
       "onboard_time": 1767618021,
       "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 640334,
+      "num": 1102453,
+      "word": "美国一口气退66个群",
+      "onboard_time": 1767828619,
+      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -1443,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 477318,
+      "num": 165405,
+      "word": "产后遭家暴女子临产时只有生子的钱",
+      "onboard_time": 1767835221,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 476228,
       "num": 450755,
       "word": "马筱梅挺孕肚挑礼服",
@@ -1817,6 +1833,14 @@
       "onboard_time": 1767684861,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 421734,
+      "num": 182565,
+      "word": "我的朋友圈点赞等级森严",
+      "onboard_time": 1767834441,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 420534,
@@ -2555,6 +2579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 326036,
+      "num": 103690,
+      "word": "冰岛偶遇周也",
+      "onboard_time": 1767832999,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 325196,
       "num": 325196,
       "word": "小米称此次事件严重伤害米粉感情",
@@ -2601,6 +2633,14 @@
       "onboard_time": 1767654558,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 321236,
+      "num": 103119,
+      "word": "鳌太线 不卖烤肠的山不能爬",
+      "onboard_time": 1767835341,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 320868,
@@ -2728,6 +2768,14 @@
       "word": "格陵兰岛不想成美国的一部分",
       "onboard_time": 1767670402,
       "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 305898,
+      "num": 773487,
+      "word": "李在明希望再租借一对熊猫",
+      "onboard_time": 1767831681,
+      "rank": 1,
       "category": "国际时政"
     },
     {
@@ -3211,6 +3259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 266550,
+      "num": 102858,
+      "word": "iPhone 13全系开启限时半价换电池",
+      "onboard_time": 1767829339,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 265920,
       "num": 252136,
       "word": "撞死3口人凶手父亲想儿子赡养受害方",
@@ -3577,6 +3633,14 @@
       "onboard_time": 1767697161,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235452,
+      "num": 235452,
+      "word": "美国对格陵兰岛改口",
+      "onboard_time": 1767831080,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 235343,
@@ -4827,6 +4891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186347,
+      "num": 186347,
+      "word": "俄要求美方确保油轮上俄公民权益",
+      "onboard_time": 1767832221,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 186218,
       "num": 186218,
       "word": "向太说根本不存在名媛培训班",
@@ -5011,14 +5083,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 180107,
-      "num": 73702,
-      "word": "美国一口气退66个群",
-      "onboard_time": 1767828619,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 180099,
       "num": 180099,
       "word": "周先旺被双开",
@@ -5161,6 +5225,14 @@
       "onboard_time": 1767784763,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174770,
+      "num": 174770,
+      "word": "3人徒步鳌太线遇难景区无责",
+      "onboard_time": 1767835041,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174429,
@@ -5699,6 +5771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163421,
+      "num": 163421,
+      "word": "82岁外婆翻3米高围栏出门",
+      "onboard_time": 1767836539,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162979,
       "num": 162979,
       "word": "微信状态的好用我后知后觉",
@@ -6067,6 +6147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151995,
+      "num": 102112,
+      "word": "赵今麦 擦擦西瓜汁",
+      "onboard_time": 1767835820,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151748,
       "num": 151748,
       "word": "鲸还是比人类善良太多",
@@ -6169,6 +6257,14 @@
       "onboard_time": 1767533363,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 148660,
+      "num": 172124,
+      "word": "王腾新公司名今日宜休",
+      "onboard_time": 1767837800,
+      "rank": 7,
+      "category": "互联网"
     },
     {
       "raw_hot": 148450,
@@ -6433,6 +6529,14 @@
       "onboard_time": 1767757761,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 144307,
+      "num": 144307,
+      "word": "男子散布未婚妻不雅视频后坠亡",
+      "onboard_time": 1767837920,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144059,
@@ -6763,6 +6867,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 138213,
+      "num": 169543,
+      "word": "阿姨趁没人剪走店主羽绒服布料",
+      "onboard_time": 1767829399,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138205,
       "num": 138205,
       "word": "见月退役",
@@ -7001,6 +7113,14 @@
       "onboard_time": 1767526883,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 134302,
+      "num": 134302,
+      "word": "全家衣服混洗致女儿身上长红斑水泡",
+      "onboard_time": 1767831561,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134294,
@@ -7424,6 +7544,14 @@
       "word": "黑泽杀回短剧赛道",
       "onboard_time": 1767505162,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 125417,
+      "num": 125417,
+      "word": "网剧双轨",
+      "onboard_time": 1767831261,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -7939,6 +8067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 116733,
+      "num": 116733,
+      "word": "原亚洲最大宜家门店即将关闭",
+      "onboard_time": 1767836900,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116654,
       "num": 766981,
       "word": "高市早苗称愿与中国保持开放对话",
@@ -8001,6 +8137,14 @@
       "onboard_time": 1767515602,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115493,
+      "num": 101673,
+      "word": "马斯克称未来3到7年将非常坎坷",
+      "onboard_time": 1767834620,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 115236,
@@ -8115,12 +8259,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113854,
+      "num": 86871,
+      "word": "王腾从小米离开后成立新公司",
+      "onboard_time": 1767837979,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 113843,
       "num": 232942,
       "word": "郭靖宇导演没认出做完妆造的蓝盈莹",
       "onboard_time": 1767793945,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113805,
+      "num": 113805,
+      "word": "国防部回应近期涉军问题",
+      "onboard_time": 1767837260,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 113777,
@@ -8187,6 +8347,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 112657,
+      "num": 112657,
+      "word": "周恩来同志逝世50周年",
+      "onboard_time": 1767835881,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 112347,
       "num": 112347,
       "word": "1斤车厘子热量超1碗米饭",
@@ -8201,6 +8369,14 @@
       "onboard_time": 1767693441,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112284,
+      "num": 101149,
+      "word": "雷军说花2个月下决心回应诋毁",
+      "onboard_time": 1767831261,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 112106,
@@ -8924,7 +9100,7 @@
     },
     {
       "raw_hot": 102968,
-      "num": 73697,
+      "num": 100657,
       "word": "这样喝咖啡反而促癌",
       "onboard_time": 1767828799,
       "rank": 31,
@@ -9248,6 +9424,14 @@
       "word": "七七回应进组",
       "onboard_time": 1767742760,
       "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 99319,
+      "num": 99319,
+      "word": "刘宇宁 男人最好的医美就是医美",
+      "onboard_time": 1767837680,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -9771,6 +9955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94481,
+      "num": 85498,
+      "word": "大妈以为芹菜按斤卖不停甩水",
+      "onboard_time": 1767830781,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94363,
       "num": 94363,
       "word": "姐狗见多了姐猫还是第一次见",
@@ -9785,6 +9977,14 @@
       "onboard_time": 1767609625,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 94306,
+      "num": 86868,
+      "word": "俄罗斯指责美国违法",
+      "onboard_time": 1767837500,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 94251,
@@ -10579,6 +10779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86875,
+      "num": 86875,
+      "word": "黄子韬扛不住于洋的美",
+      "onboard_time": 1767836900,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86723,
       "num": 86723,
       "word": "3岁女童疑被父亲女友杀害",
@@ -10633,6 +10841,14 @@
       "onboard_time": 1767614299,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86219,
+      "num": 86219,
+      "word": "国防部回应日方鼓吹拥核",
+      "onboard_time": 1767836960,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 86179,
@@ -10825,6 +11041,14 @@
       "onboard_time": 1767659841,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 84524,
+      "num": 84524,
+      "word": "马斯克指出中国关键优势",
+      "onboard_time": 1767837319,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 84337,
@@ -11043,6 +11267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81404,
+      "num": 168784,
+      "word": "机票价格大跳水",
+      "onboard_time": 1767837319,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81266,
       "num": 81266,
       "word": "最好的取暖器是数学考试",
@@ -11139,6 +11371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80026,
+      "num": 80026,
+      "word": "这是砂糖橘最害怕看到的非遗",
+      "onboard_time": 1767831381,
+      "rank": 37,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 79969,
       "num": 79969,
       "word": "黄宗泽哭了",
@@ -11217,6 +11457,14 @@
       "onboard_time": 1767619403,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 78876,
+      "num": 78876,
+      "word": "合理饮用咖啡可能比你想象的更养人",
+      "onboard_time": 1767830661,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 78849,
@@ -11699,6 +11947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 70514,
+      "num": 70514,
+      "word": "雷军说身高183是口误",
+      "onboard_time": 1767836480,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 69816,
       "num": 97457,
       "word": "医院收费员玩手机多人排队待缴费",
@@ -11753,6 +12009,14 @@
       "onboard_time": 1767605780,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68724,
+      "num": 68724,
+      "word": "卖家回应鹅鸭杀ID炒到上千元",
+      "onboard_time": 1767835341,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 68452,
@@ -11835,6 +12099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67067,
+      "num": 67067,
+      "word": "迪丽热巴2026年开门红",
+      "onboard_time": 1767834141,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67064,
       "num": 67064,
       "word": "春晚推介片向全世界介绍中国春节",
@@ -11905,6 +12177,14 @@
       "onboard_time": 1767617901,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 65234,
+      "num": 65234,
+      "word": "看到这样的冷冻肉赶紧扔掉",
+      "onboard_time": 1767837260,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 65182,
@@ -11985,6 +12265,14 @@
       "onboard_time": 1767783323,
       "rank": 47,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 64181,
+      "num": 64181,
+      "word": "肖战或将参加网络视听盛典",
+      "onboard_time": 1767832462,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 64117,
@@ -12097,6 +12385,14 @@
       "onboard_time": 1767508162,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60905,
+      "num": 64142,
+      "word": "小米强烈推荐升级至新一代SU7",
+      "onboard_time": 1767836179,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 60863,
@@ -13747,6 +14043,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 24980,
+      "num": 78950,
+      "word": "日首相拟继续推动扩大武器出口",
+      "onboard_time": 1767837621,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 24442,
       "num": 98212,
       "word": "女子买房离婚数年发现被亡夫转给他人",
@@ -14003,6 +14307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20082,
+      "num": 650336,
+      "word": "直播电商新规强化AI内容监管",
+      "onboard_time": 1767795265,
+      "rank": 2,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 20063,
       "num": 125646,
       "word": "长隆一小象捡香蕉时头部被卡",
@@ -14073,14 +14385,6 @@
       "onboard_time": 1767784825,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16484,
-      "num": 521668,
-      "word": "直播电商新规强化AI内容监管",
-      "onboard_time": 1767795265,
-      "rank": 2,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 16323,
@@ -14265,6 +14569,14 @@
       "onboard_time": 1767550695,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 6519,
+      "num": 79201,
+      "word": "大母猪沟小母猪沟改名",
+      "onboard_time": 1767837979,
+      "rank": 38,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

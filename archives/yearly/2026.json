@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767829319825,
+  "endTime": 1767838188381,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -968,6 +968,14 @@
       "word": "马杜罗出庭",
       "onboard_time": 1767618021,
       "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 640334,
+      "num": 1102453,
+      "word": "美国一口气退66个群",
+      "onboard_time": 1767828619,
+      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -1947,6 +1955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 477318,
+      "num": 165405,
+      "word": "产后遭家暴女子临产时只有生子的钱",
+      "onboard_time": 1767835221,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 476728,
       "num": 453390,
       "word": "郭芙蓉自由了",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767666501,
       "rank": 27,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 429059,
-      "num": 1065308,
-      "word": "大爷拍的素颜巴黎火了",
-      "onboard_time": 1767760942,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 428471,
-      "num": 1002713,
-      "word": "电影偷偷藏不住官宣",
-      "onboard_time": 1767240862,
-      "rank": 21,
-      "category": "电影"
     }
   ],
   "hotgov_list": [

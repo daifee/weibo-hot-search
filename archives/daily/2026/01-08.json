@@ -1,6 +1,6 @@
 {
   "startTime": 1767804017084,
-  "endTime": 1767829319825,
+  "endTime": 1767838188381,
   "band_list": [
     {
       "raw_hot": 1096354,
@@ -11,6 +11,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 640334,
+      "num": 1102453,
+      "word": "美国一口气退66个群",
+      "onboard_time": 1767828619,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 483754,
       "num": 920326,
       "word": "美国在约半小时内宣称扣押两艘油轮",
@@ -19,12 +27,68 @@
       "category": "军事"
     },
     {
+      "raw_hot": 477318,
+      "num": 165405,
+      "word": "产后遭家暴女子临产时只有生子的钱",
+      "onboard_time": 1767835221,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 421734,
+      "num": 182565,
+      "word": "我的朋友圈点赞等级森严",
+      "onboard_time": 1767834441,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 326036,
+      "num": 103690,
+      "word": "冰岛偶遇周也",
+      "onboard_time": 1767832999,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 321236,
+      "num": 103119,
+      "word": "鳌太线 不卖烤肠的山不能爬",
+      "onboard_time": 1767835341,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 305898,
+      "num": 773487,
+      "word": "李在明希望再租借一对熊猫",
+      "onboard_time": 1767831681,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 266550,
+      "num": 102858,
+      "word": "iPhone 13全系开启限时半价换电池",
+      "onboard_time": 1767829339,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 260697,
       "num": 260697,
       "word": "五哈6常驻嘉宾",
       "onboard_time": 1767798144,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235452,
+      "num": 235452,
+      "word": "美国对格陵兰岛改口",
+      "onboard_time": 1767831080,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 214545,
@@ -59,11 +123,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 180107,
-      "num": 73702,
-      "word": "美国一口气退66个群",
-      "onboard_time": 1767828619,
-      "rank": 30,
+      "raw_hot": 186347,
+      "num": 186347,
+      "word": "俄要求美方确保油轮上俄公民权益",
+      "onboard_time": 1767832221,
+      "rank": 4,
       "category": "国际时政"
     },
     {
@@ -75,11 +139,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174770,
+      "num": 174770,
+      "word": "3人徒步鳌太线遇难景区无责",
+      "onboard_time": 1767835041,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171587,
       "num": 677277,
       "word": "女子百万装新房老公每次来都像游客",
       "onboard_time": 1767785965,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163421,
+      "num": 163421,
+      "word": "82岁外婆翻3米高围栏出门",
+      "onboard_time": 1767836539,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -107,6 +187,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151995,
+      "num": 102112,
+      "word": "赵今麦 擦擦西瓜汁",
+      "onboard_time": 1767835820,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148660,
+      "num": 172124,
+      "word": "王腾新公司名今日宜休",
+      "onboard_time": 1767837800,
+      "rank": 7,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 144307,
+      "num": 144307,
+      "word": "男子散布未婚妻不雅视频后坠亡",
+      "onboard_time": 1767837920,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139450,
       "num": 139450,
       "word": "女子杀害丈夫百名村民向法院求情",
@@ -123,12 +227,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 138213,
+      "num": 169543,
+      "word": "阿姨趁没人剪走店主羽绒服布料",
+      "onboard_time": 1767829399,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137164,
       "num": 375023,
       "word": "最无用的节俭行为",
       "onboard_time": 1767789384,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134302,
+      "num": 134302,
+      "word": "全家衣服混洗致女儿身上长红斑水泡",
+      "onboard_time": 1767831561,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131669,
@@ -147,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125417,
+      "num": 125417,
+      "word": "网剧双轨",
+      "onboard_time": 1767831261,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119303,
       "num": 119303,
       "word": "陈妍希这个妆造美成啥了",
@@ -155,12 +283,60 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 116733,
+      "num": 116733,
+      "word": "原亚洲最大宜家门店即将关闭",
+      "onboard_time": 1767836900,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115493,
+      "num": 101673,
+      "word": "马斯克称未来3到7年将非常坎坷",
+      "onboard_time": 1767834620,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 113854,
+      "num": 86871,
+      "word": "王腾从小米离开后成立新公司",
+      "onboard_time": 1767837979,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 113805,
+      "num": 113805,
+      "word": "国防部回应近期涉军问题",
+      "onboard_time": 1767837260,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 112657,
+      "num": 112657,
+      "word": "周恩来同志逝世50周年",
+      "onboard_time": 1767835881,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 112392,
       "num": 119296,
       "word": "胃癌来临时身体的五个警报",
       "onboard_time": 1767795626,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 112284,
+      "num": 101149,
+      "word": "雷军说花2个月下决心回应诋毁",
+      "onboard_time": 1767831261,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 108366,
@@ -172,11 +348,19 @@
     },
     {
       "raw_hot": 102968,
-      "num": 73697,
+      "num": 100657,
       "word": "这样喝咖啡反而促癌",
       "onboard_time": 1767828799,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 99319,
+      "num": 99319,
+      "word": "刘宇宁 男人最好的医美就是医美",
+      "onboard_time": 1767837680,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 98941,
@@ -203,11 +387,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 94481,
+      "num": 85498,
+      "word": "大妈以为芹菜按斤卖不停甩水",
+      "onboard_time": 1767830781,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94462,
       "num": 124777,
       "word": "伊朗",
       "onboard_time": 1767797843,
       "rank": 16,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 94306,
+      "num": 86868,
+      "word": "俄罗斯指责美国违法",
+      "onboard_time": 1767837500,
+      "rank": 31,
       "category": "国际时政"
     },
     {
@@ -227,12 +427,68 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86875,
+      "num": 86875,
+      "word": "黄子韬扛不住于洋的美",
+      "onboard_time": 1767836900,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 86860,
+      "num": 119178,
+      "word": "女子炖肉时高压锅爆炸被热气烫伤",
+      "onboard_time": 1767795745,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86219,
+      "num": 86219,
+      "word": "国防部回应日方鼓吹拥核",
+      "onboard_time": 1767836960,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 84524,
+      "num": 84524,
+      "word": "马斯克指出中国关键优势",
+      "onboard_time": 1767837319,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 82851,
       "num": 119263,
       "word": "厚底鞋",
       "onboard_time": 1767784464,
       "rank": 26,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 81404,
+      "num": 168784,
+      "word": "机票价格大跳水",
+      "onboard_time": 1767837319,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80026,
+      "num": 80026,
+      "word": "这是砂糖橘最害怕看到的非遗",
+      "onboard_time": 1767831381,
+      "rank": 37,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 78876,
+      "num": 78876,
+      "word": "合理饮用咖啡可能比你想象的更养人",
+      "onboard_time": 1767830661,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 75252,
@@ -259,12 +515,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70514,
+      "num": 70514,
+      "word": "雷军说身高183是口误",
+      "onboard_time": 1767836480,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 70238,
       "num": 285406,
       "word": "歼35绿皮机震撼公开",
       "onboard_time": 1767784584,
       "rank": 8,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 68724,
+      "num": 68724,
+      "word": "卖家回应鹅鸭杀ID炒到上千元",
+      "onboard_time": 1767835341,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 67067,
+      "num": 67067,
+      "word": "迪丽热巴2026年开门红",
+      "onboard_time": 1767834141,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 66676,
@@ -291,14 +571,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 65790,
-      "num": 119178,
-      "word": "女子炖肉时高压锅爆炸被热气烫伤",
-      "onboard_time": 1767795745,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65410,
       "num": 119153,
       "word": "刘宇宁 没有人会说歌手丑",
@@ -307,12 +579,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65234,
+      "num": 65234,
+      "word": "看到这样的冷冻肉赶紧扔掉",
+      "onboard_time": 1767837260,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 64651,
       "num": 132820,
       "word": "属马名字带马的游客查收福利",
       "onboard_time": 1767812714,
       "rank": 8,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 64181,
+      "num": 64181,
+      "word": "肖战或将参加网络视听盛典",
+      "onboard_time": 1767832462,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 64143,
+      "num": 64143,
+      "word": "王者荣耀",
+      "onboard_time": 1767832041,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 63132,
@@ -337,6 +633,14 @@
       "onboard_time": 1767788543,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 60905,
+      "num": 64142,
+      "word": "小米强烈推荐升级至新一代SU7",
+      "onboard_time": 1767836179,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 60863,
@@ -571,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24980,
+      "num": 78950,
+      "word": "日首相拟继续推动扩大武器出口",
+      "onboard_time": 1767837621,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 24138,
       "num": 68233,
       "word": "迪丽热巴红秀油画公主",
@@ -635,12 +947,20 @@
       "category": "军事"
     },
     {
-      "raw_hot": 16484,
-      "num": 521668,
+      "raw_hot": 20082,
+      "num": 650336,
       "word": "直播电商新规强化AI内容监管",
       "onboard_time": 1767795265,
       "rank": 2,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 6519,
+      "num": 79201,
+      "word": "大母猪沟小母猪沟改名",
+      "onboard_time": 1767837979,
+      "rank": 38,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
