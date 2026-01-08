@@ -1,6 +1,6 @@
 {
   "startTime": 1767804017084,
-  "endTime": 1767857579797,
+  "endTime": 1767858362543,
   "band_list": [
     {
       "raw_hot": 2608150,
@@ -147,6 +147,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 449032,
+      "num": 207970,
+      "word": "再见爱人5全员下车",
+      "onboard_time": 1767857421,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 445954,
+      "num": 793755,
+      "word": "李在明驳斥中方干预韩选举荒唐言论",
+      "onboard_time": 1767856520,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 434822,
       "num": 235859,
       "word": "董子健晒四年前偶遇刘昊然合影",
@@ -171,20 +187,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 404855,
+      "num": 775744,
+      "word": "古币掉入趵突泉游客称价值百万",
+      "onboard_time": 1767855621,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 385475,
       "num": 244859,
       "word": "张凌赫归鸾出妆",
       "onboard_time": 1767844340,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 380270,
-      "num": 775744,
-      "word": "古币掉入趵突泉游客称价值百万",
-      "onboard_time": 1767855621,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 376299,
@@ -291,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272548,
+      "num": 272548,
+      "word": "RNG告别LPL",
+      "onboard_time": 1767855800,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 266550,
       "num": 219099,
       "word": "iPhone 13全系开启限时半价换电池",
@@ -313,14 +337,6 @@
       "onboard_time": 1767798144,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 251192,
-      "num": 251192,
-      "word": "RNG告别LPL",
-      "onboard_time": 1767855800,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 242580,
@@ -387,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213125,
+      "num": 213125,
+      "word": "每天2小时上三休四月入7000",
+      "onboard_time": 1767857540,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 202068,
       "num": 177653,
       "word": "荣耀之战",
@@ -451,8 +475,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195072,
-      "num": 168421,
+      "raw_hot": 196916,
+      "num": 196916,
       "word": "张若昀脸上的巴掌印可见五指",
       "onboard_time": 1767854780,
       "rank": 16,
@@ -529,6 +553,14 @@
       "onboard_time": 1767839480,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 165497,
+      "num": 165497,
+      "word": "李施嬅回应再见爱人he了",
+      "onboard_time": 1767857480,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 163422,
@@ -779,22 +811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126439,
-      "num": 126439,
-      "word": "李在明驳斥中方干预韩选举荒唐言论",
-      "onboard_time": 1767856520,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 125989,
-      "num": 125989,
-      "word": "再见爱人5全员下车",
-      "onboard_time": 1767857421,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 125417,
       "num": 125417,
       "word": "网剧双轨",
@@ -804,7 +820,7 @@
     },
     {
       "raw_hot": 124311,
-      "num": 101420,
+      "num": 113358,
       "word": "45岁离婚后她去冰岛当了公务员",
       "onboard_time": 1767856221,
       "rank": 30,
@@ -835,11 +851,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121754,
+      "num": 121754,
+      "word": "RNG",
+      "onboard_time": 1767858141,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121017,
       "num": 121017,
       "word": "司机今天拉了一位蒲公英",
       "onboard_time": 1767847521,
       "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 120859,
+      "num": 120859,
+      "word": "年轻人的上头行为模式",
+      "onboard_time": 1767857060,
+      "rank": 26,
       "category": "幽默"
     },
     {
@@ -875,6 +907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 120129,
+      "num": 120129,
+      "word": "55岁林依轮线下状态",
+      "onboard_time": 1767857540,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119418,
       "num": 119418,
       "word": "小S二女儿回应18岁是否可以恋爱",
@@ -905,6 +945,14 @@
       "onboard_time": 1767844220,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 118137,
+      "num": 118137,
+      "word": "王安宇的深情眼",
+      "onboard_time": 1767856881,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 117547,
@@ -939,20 +987,36 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 115244,
-      "num": 115244,
-      "word": "年轻人的上头行为模式",
-      "onboard_time": 1767857060,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 114787,
       "num": 114787,
       "word": "王者荣耀大禹",
       "onboard_time": 1767853761,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113718,
+      "num": 113718,
+      "word": "商务部回应审查Meta收购Manu",
+      "onboard_time": 1767857840,
+      "rank": 28,
+      "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 113279,
+      "num": 122633,
+      "word": "林更新吐槽宋茜这段真像一家子",
+      "onboard_time": 1767857181,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 113248,
+      "num": 113248,
+      "word": "丹麦称若遭入侵先开枪再等命令",
+      "onboard_time": 1767857480,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 113205,
@@ -1107,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102550,
+      "num": 102550,
+      "word": "蛮好的人生2025央八收视第一",
+      "onboard_time": 1767857840,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102075,
       "num": 102075,
       "word": "宋威龙 草莓发卡系艺人",
@@ -1148,7 +1220,7 @@
     },
     {
       "raw_hot": 101453,
-      "num": 101453,
+      "num": 113688,
       "word": "忘放跳楼机安全杠工作人员已被开除",
       "onboard_time": 1767854719,
       "rank": 29,
@@ -1169,6 +1241,14 @@
       "onboard_time": 1767845000,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 99322,
+      "num": 99322,
+      "word": "羽绒服 里面是飞丝",
+      "onboard_time": 1767857959,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99043,
@@ -1211,6 +1291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 97608,
+      "num": 97608,
+      "word": "宝儿 等我来娶你",
+      "onboard_time": 1767858141,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97329,
       "num": 97329,
       "word": "程潇演技",
@@ -1241,14 +1329,6 @@
       "onboard_time": 1767783264,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 94641,
-      "num": 94641,
-      "word": "李施嬅回应再见爱人he了",
-      "onboard_time": 1767857480,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 94525,
@@ -1299,12 +1379,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 93556,
-      "num": 93556,
-      "word": "王安宇的深情眼",
-      "onboard_time": 1767856881,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 93854,
+      "num": 93854,
+      "word": "妈妈决定今年不自己做年夜饭",
+      "onboard_time": 1767858261,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 92375,
@@ -1361,14 +1441,6 @@
       "onboard_time": 1767840679,
       "rank": 45,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 90232,
-      "num": 90232,
-      "word": "每天2小时上三休四月入7000",
-      "onboard_time": 1767857540,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 89248,
@@ -1435,14 +1507,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 83426,
-      "num": 83426,
-      "word": "55岁林依轮线下状态",
-      "onboard_time": 1767857540,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 82851,
       "num": 119263,
       "word": "厚底鞋",
@@ -1457,14 +1521,6 @@
       "onboard_time": 1767830661,
       "rank": 40,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 81490,
-      "num": 81490,
-      "word": "丹麦称若遭入侵先开枪再等命令",
-      "onboard_time": 1767857480,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 81090,
@@ -1537,6 +1593,14 @@
       "onboard_time": 1767854599,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 75712,
+      "num": 97883,
+      "word": "男子与女友争论鹦鹉学舌撞死1家3口",
+      "onboard_time": 1767857780,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75252,
@@ -1755,6 +1819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61868,
+      "num": 137831,
+      "word": "新款小鹏P7+自带空间魔法",
+      "onboard_time": 1767857721,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 61681,
       "num": 119051,
       "word": "digi 解散",
@@ -1811,20 +1883,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 55833,
-      "num": 92256,
-      "word": "林更新吐槽宋茜这段真像一家子",
-      "onboard_time": 1767857181,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 55405,
       "num": 119067,
       "word": "李荣浩怎么瘦成这样了",
       "onboard_time": 1767792444,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54627,
+      "num": 124264,
+      "word": "官方通报江西一幼师被指虐童",
+      "onboard_time": 1767857060,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 52429,
@@ -2091,6 +2163,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 30752,
+      "num": 113387,
+      "word": "男子主动辞职35万年终奖泡汤",
+      "onboard_time": 1767858261,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30616,
       "num": 73567,
       "word": "雷军称新SU7做不到加量不加价",
@@ -2099,12 +2179,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 29525,
-      "num": 124264,
-      "word": "官方通报江西一幼师被指虐童",
-      "onboard_time": 1767857060,
-      "rank": 19,
-      "category": "辟谣/通报"
+      "raw_hot": 29843,
+      "num": 98357,
+      "word": "200斤小伙大吃大喝后突发脑出血",
+      "onboard_time": 1767857780,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29417,
@@ -2219,20 +2299,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21761,
+      "num": 97632,
+      "word": "中央为何提出深化住房公积金制度改革",
+      "onboard_time": 1767857421,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21266,
       "num": 68256,
       "word": "歼35新年首飞",
       "onboard_time": 1767800482,
       "rank": 48,
       "category": "军事"
-    },
-    {
-      "raw_hot": 13111,
-      "num": 92064,
-      "word": "中央为何提出深化住房公积金制度改革",
-      "onboard_time": 1767857421,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 7015,

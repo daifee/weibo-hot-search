@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/08 15:32:59
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/08 15:46:02
 </p>
 </blockquote>
 <p>
@@ -1785,6 +1785,12 @@ iPhone千万别删的自带软件（热度：474519）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA5%E5%85%A8%E5%91%98%E4%B8%8B%E8%BD%A6%23" target="weibo">
+再见爱人5全员下车（热度：449032）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%A1%97%E5%A4%B4%E5%A5%B3%E5%AD%90%E6%AF%92%E5%93%81%E6%A3%80%E6%B5%8B%E5%91%88%E9%98%B3%E6%80%A7%23" target="weibo">
 流落柬埔寨街头女子毒品检测呈阳性（热度：448313）
 </a>
@@ -1805,12 +1811,6 @@ iPhone千万别删的自带软件（热度：474519）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%B3%E5%85%89%E4%BF%A1%E7%94%A8%23" target="weibo">
 阳光信用（热度：446937）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%93%886%E5%B8%B8%E9%A9%BB%E5%98%89%E5%AE%BE%23" target="weibo">
-五哈6常驻嘉宾（热度：446730）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767857579797,
+  "endTime": 1767858362543,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -2363,6 +2363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 449032,
+      "num": 207970,
+      "word": "再见爱人5全员下车",
+      "onboard_time": 1767857421,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 448313,
       "num": 395938,
       "word": "流落柬埔寨街头女子毒品检测呈阳性",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767412468,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 446730,
-      "num": 446730,
-      "word": "五哈6常驻嘉宾",
-      "onboard_time": 1767798144,
-      "rank": 10,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
