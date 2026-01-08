@@ -1,6 +1,6 @@
 {
   "startTime": 1767804017084,
-  "endTime": 1767880178524,
+  "endTime": 1767880698296,
   "band_list": [
     {
       "raw_hot": 2608150,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 748073,
-      "num": 226397,
+      "num": 282980,
       "word": "多名半裸男模在商场走秀被质疑擦边",
       "onboard_time": 1767869181,
       "rank": 39,
@@ -171,12 +171,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 554142,
+      "num": 200291,
+      "word": "曝骂助理的男艺人有公开的恋情",
+      "onboard_time": 1767877520,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 553956,
       "num": 843979,
       "word": "女律师将唇膏给嫌疑人用被停业",
       "onboard_time": 1767840020,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 551666,
+      "num": 201510,
+      "word": "鹅鸭杀排队",
+      "onboard_time": 1767878242,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 541244,
@@ -193,14 +209,6 @@
       "onboard_time": 1767861860,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 538261,
-      "num": 201510,
-      "word": "鹅鸭杀排队",
-      "onboard_time": 1767878242,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 533860,
@@ -259,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 504016,
+      "num": 201010,
+      "word": "张真源腰腹纹身",
+      "onboard_time": 1767874643,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 503346,
       "num": 311507,
       "word": "李施嬅车崇健he了",
@@ -273,14 +289,6 @@
       "onboard_time": 1767816194,
       "rank": 3,
       "category": "军事"
-    },
-    {
-      "raw_hot": 480917,
-      "num": 201010,
-      "word": "张真源腰腹纹身",
-      "onboard_time": 1767874643,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 477318,
@@ -332,19 +340,11 @@
     },
     {
       "raw_hot": 411792,
-      "num": 306895,
+      "num": 320228,
       "word": "三九天喝苹果水",
       "onboard_time": 1767866000,
       "rank": 6,
       "category": "美食"
-    },
-    {
-      "raw_hot": 410459,
-      "num": 200291,
-      "word": "曝骂助理的男艺人有公开的恋情",
-      "onboard_time": 1767877520,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 404855,
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 368445,
-      "num": 226572,
+      "num": 309033,
       "word": "一家三口被撞亡前1秒行车记录曝光",
       "onboard_time": 1767869901,
       "rank": 27,
@@ -489,6 +489,14 @@
       "onboard_time": 1767863480,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 327952,
+      "num": 847638,
+      "word": "1818名明星网红查补税款",
+      "onboard_time": 1767876381,
+      "rank": 33,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 326036,
@@ -611,14 +619,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 275858,
-      "num": 275858,
-      "word": "1818名明星网红查补税款",
-      "onboard_time": 1767876381,
-      "rank": 33,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 266550,
       "num": 219099,
       "word": "iPhone 13全系开启限时半价换电池",
@@ -659,6 +659,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 254692,
+      "num": 324711,
+      "word": "3岁男童看挖机走失找到时出现失温",
+      "onboard_time": 1767875002,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 249085,
+      "num": 249085,
+      "word": "刘冲转发宋威龙赵今麦",
+      "onboard_time": 1767880523,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242580,
       "num": 166738,
       "word": "悄悄涨价的东西",
@@ -697,14 +713,6 @@
       "onboard_time": 1767831080,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 229042,
-      "num": 229042,
-      "word": "3岁男童看挖机走失找到时出现失温",
-      "onboard_time": 1767875002,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 226094,
@@ -771,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209249,
+      "num": 209249,
+      "word": "虞书欣开机应援排面",
+      "onboard_time": 1767878002,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207189,
       "num": 184941,
       "word": "气血不足的人大多有这些习惯",
@@ -779,12 +795,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 204759,
-      "num": 204759,
-      "word": "虞书欣开机应援排面",
-      "onboard_time": 1767878002,
-      "rank": 14,
-      "category": "剧集"
+      "raw_hot": 205720,
+      "num": 321200,
+      "word": "深圳坪山突发山火",
+      "onboard_time": 1767879202,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202986,
@@ -891,20 +907,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195623,
+      "num": 317715,
+      "word": "雀巢中国已按要求实施奶粉召回",
+      "onboard_time": 1767876981,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191440,
       "num": 133133,
       "word": "宋威龙的锁骨痣",
       "onboard_time": 1767861622,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 189268,
-      "num": 228108,
-      "word": "雀巢中国已按要求实施奶粉召回",
-      "onboard_time": 1767876981,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 186347,
@@ -1379,14 +1395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130172,
-      "num": 227951,
-      "word": "深圳坪山突发山火",
-      "onboard_time": 1767879202,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129886,
       "num": 129886,
       "word": "杨幂直播",
@@ -1500,7 +1508,7 @@
     },
     {
       "raw_hot": 123173,
-      "num": 227707,
+      "num": 311537,
       "word": "TT处罚Feather",
       "onboard_time": 1767879624,
       "rank": 9,
@@ -1883,6 +1891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 109161,
+      "num": 109161,
+      "word": "扔尿不湿幼童监护人已被处理",
+      "onboard_time": 1767879982,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108945,
       "num": 121401,
       "word": "女子取现240万称给外甥彩礼",
@@ -1980,7 +1996,7 @@
     },
     {
       "raw_hot": 105189,
-      "num": 211400,
+      "num": 222609,
       "word": "秦家族210KM大电池DMi来了",
       "onboard_time": 1767877642,
       "rank": 17,
@@ -2009,6 +2025,14 @@
       "onboard_time": 1767849801,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103996,
+      "num": 103996,
+      "word": "短剧版紫萱",
+      "onboard_time": 1767880581,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 103620,
@@ -2507,6 +2531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91172,
+      "num": 91172,
+      "word": "亚运冠军王莉举报领导索要奖金续",
+      "onboard_time": 1767879382,
+      "rank": 43,
+      "category": "民生新闻,体育"
+    },
+    {
       "raw_hot": 90888,
       "num": 90888,
       "word": "有鹅鸭杀ID被炒到7500元",
@@ -2611,6 +2643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 87772,
+      "num": 87772,
+      "word": "男子脖子套绳被女子牵引滑雪",
+      "onboard_time": 1767880042,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87101,
       "num": 95970,
       "word": "研究生教人骑车两年赚27万",
@@ -2659,6 +2699,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 84675,
+      "num": 84675,
+      "word": "宋雨琦直播",
+      "onboard_time": 1767880282,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84556,
       "num": 84556,
       "word": "雷军回应小米研发投入",
@@ -2681,6 +2729,14 @@
       "onboard_time": 1767879561,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 83405,
+      "num": 83405,
+      "word": "关晓彤三部央视备播",
+      "onboard_time": 1767880463,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 82851,
@@ -2779,14 +2835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78012,
-      "num": 78012,
-      "word": "男子脖子套绳被女子牵引滑雪",
-      "onboard_time": 1767880042,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77691,
       "num": 77691,
       "word": "为骄阳似我配角加冕",
@@ -2841,6 +2889,14 @@
       "onboard_time": 1767868161,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75424,
+      "num": 203504,
+      "word": "海底捞已将被扔尿不湿的锅具废弃",
+      "onboard_time": 1767879742,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75252,
@@ -3107,14 +3163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 59969,
-      "num": 203504,
-      "word": "海底捞已将被扔尿不湿的锅具废弃",
-      "onboard_time": 1767879742,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 58593,
       "num": 119271,
       "word": "旅俄大熊猫喀秋莎体重超80公斤",
@@ -3291,6 +3339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 41355,
+      "num": 675630,
+      "word": "我国冰雪旅游正进入持续繁荣新阶段",
+      "onboard_time": 1767878481,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41289,
       "num": 105041,
       "word": "男子因孩子生病醉驾免于刑罚",
@@ -3336,14 +3392,6 @@
       "word": "车厘子什么时候买最划算",
       "onboard_time": 1767844641,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38915,
-      "num": 663863,
-      "word": "我国冰雪旅游正进入持续繁荣新阶段",
-      "onboard_time": 1767878481,
-      "rank": 2,
       "category": "民生新闻"
     },
     {

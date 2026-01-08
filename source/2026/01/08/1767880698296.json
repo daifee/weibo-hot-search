@@ -1,0 +1,410 @@
+{
+  "runTime": 1767880698296,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 882675,
+        "num": 1141228,
+        "word": "双胞胎姐妹分别取名灿和烂",
+        "onboard_time": 1767873022,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327952,
+        "num": 847638,
+        "word": "1818名明星网红查补税款",
+        "onboard_time": 1767876381,
+        "rank": 1,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 41355,
+        "num": 675630,
+        "word": "我国冰雪旅游正进入持续繁荣新阶段",
+        "onboard_time": 1767878481,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325001,
+        "num": 325001,
+        "word": "中方驳回日方交涉",
+        "onboard_time": 1767873081,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 254692,
+        "num": 324711,
+        "word": "3岁男童看挖机走失找到时出现失温",
+        "onboard_time": 1767875002,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205720,
+        "num": 321200,
+        "word": "深圳坪山突发山火",
+        "onboard_time": 1767879202,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201288,
+        "num": 320228,
+        "word": "三九天喝苹果水",
+        "onboard_time": 1767866000,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 195623,
+        "num": 317715,
+        "word": "雀巢中国已按要求实施奶粉召回",
+        "onboard_time": 1767876981,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186264,
+        "num": 314080,
+        "word": "男子180个蛋糕送福利院以为做少了",
+        "onboard_time": 1767868701,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115232,
+        "num": 311537,
+        "word": "TT处罚Feather",
+        "onboard_time": 1767879624,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 954582,
+        "num": 309611,
+        "word": "海底捞锅里被扔尿布门店已报警",
+        "onboard_time": 1767872661,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309033,
+        "num": 309033,
+        "word": "一家三口被撞亡前1秒行车记录曝光",
+        "onboard_time": 1767869901,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298122,
+        "num": 298122,
+        "word": "海底捞 尿不湿",
+        "onboard_time": 1767870680,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282980,
+        "num": 282980,
+        "word": "多名半裸男模在商场走秀被质疑擦边",
+        "onboard_time": 1767869181,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249085,
+        "num": 249085,
+        "word": "刘冲转发宋威龙赵今麦",
+        "onboard_time": 1767880523,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38015,
+        "num": 222609,
+        "word": "秦家族210KM大电池DMi来了",
+        "onboard_time": 1767877642,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 209249,
+        "num": 209249,
+        "word": "虞书欣开机应援排面",
+        "onboard_time": 1767878002,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199232,
+        "num": 199232,
+        "word": "周深你驾驶证该换了",
+        "onboard_time": 1767873382,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141804,
+        "num": 198565,
+        "word": "侯明昊发长文告别逍遥",
+        "onboard_time": 1767876262,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75424,
+        "num": 197911,
+        "word": "海底捞已将被扔尿不湿的锅具废弃",
+        "onboard_time": 1767879742,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1797050,
+        "num": 197507,
+        "word": "檀健次直播",
+        "onboard_time": 1767875242,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 778844,
+        "num": 195940,
+        "word": "孙怡道歉",
+        "onboard_time": 1767848122,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554142,
+        "num": 195620,
+        "word": "曝骂助理的男艺人有公开的恋情",
+        "onboard_time": 1767877520,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108973,
+        "num": 194333,
+        "word": "党员烧香算违纪吗官方释疑",
+        "onboard_time": 1767858380,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 551666,
+        "num": 193470,
+        "word": "鹅鸭杀排队",
+        "onboard_time": 1767878242,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 504016,
+        "num": 192557,
+        "word": "张真源腰腹纹身",
+        "onboard_time": 1767874643,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437806,
+        "num": 191946,
+        "word": "王橹杰黑头纱",
+        "onboard_time": 1767868041,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322266,
+        "num": 191004,
+        "word": "曝男艺人因负面骂助理",
+        "onboard_time": 1767866061,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296059,
+        "num": 190182,
+        "word": "女子买洗碗机老公嫌水电贵把家砸了",
+        "onboard_time": 1767867440,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248732,
+        "num": 189346,
+        "word": "伊能静57岁身材",
+        "onboard_time": 1767873321,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229386,
+        "num": 188748,
+        "word": "迪丽热巴高雅人士",
+        "onboard_time": 1767874521,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133445,
+        "num": 188046,
+        "word": "肖战今年或将开演唱会",
+        "onboard_time": 1767870680,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187496,
+        "num": 187496,
+        "word": "叶祖新 不要虐待四旬老人",
+        "onboard_time": 1767875902,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178581,
+        "num": 178581,
+        "word": "男子看羊圈监控发现妻子婚外情8年",
+        "onboard_time": 1767878722,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123950,
+        "num": 123950,
+        "word": "杨幂手上拿的是蜜蜂",
+        "onboard_time": 1767877583,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118553,
+        "num": 118553,
+        "word": "宋妍霏深V开到肚脐眼",
+        "onboard_time": 1767878901,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113559,
+        "num": 113559,
+        "word": "歌手萧煌奇宣布结婚",
+        "onboard_time": 1767867381,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112900,
+        "num": 112900,
+        "word": "梁淞以为何美延没下车慌了",
+        "onboard_time": 1767865280,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112329,
+        "num": 112329,
+        "word": "成毅曾舜晞肖顺尧再聚江湖",
+        "onboard_time": 1767871341,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109161,
+        "num": 109161,
+        "word": "扔尿不湿幼童监护人已被处理",
+        "onboard_time": 1767879982,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103996,
+        "num": 103996,
+        "word": "短剧版紫萱",
+        "onboard_time": 1767880581,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103045,
+        "num": 103045,
+        "word": "一家三口被撞身亡墓地飞出蝴蝶",
+        "onboard_time": 1767869121,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93973,
+        "num": 93973,
+        "word": "中国递烟大爷在外网好火",
+        "onboard_time": 1767876081,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 91172,
+        "num": 91172,
+        "word": "亚运冠军王莉举报领导索要奖金续",
+        "onboard_time": 1767879382,
+        "rank": 43,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 87772,
+        "num": 87772,
+        "word": "男子脖子套绳被女子牵引滑雪",
+        "onboard_time": 1767880042,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86077,
+        "num": 86077,
+        "word": "骄阳似我番外篇",
+        "onboard_time": 1767869240,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84675,
+        "num": 84675,
+        "word": "宋雨琦直播",
+        "onboard_time": 1767880282,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84657,
+        "num": 84657,
+        "word": "曝骂助理的男艺人丢机场粉丝信件",
+        "onboard_time": 1767879202,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83521,
+        "num": 83521,
+        "word": "王曼昱谈首次交手大藤沙月",
+        "onboard_time": 1767879561,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83405,
+        "num": 83405,
+        "word": "关晓彤三部央视备播",
+        "onboard_time": 1767880463,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺通伦#"
+    }
+  }
+}

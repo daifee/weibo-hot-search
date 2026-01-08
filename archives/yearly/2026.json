@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767880178524,
+  "endTime": 1767880698296,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -836,7 +836,7 @@
     },
     {
       "raw_hot": 748073,
-      "num": 226397,
+      "num": 282980,
       "word": "多名半裸男模在商场走秀被质疑擦边",
       "onboard_time": 1767869181,
       "rank": 39,
@@ -1499,12 +1499,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 554142,
+      "num": 200291,
+      "word": "曝骂助理的男艺人有公开的恋情",
+      "onboard_time": 1767877520,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 553956,
       "num": 843979,
       "word": "女律师将唇膏给嫌疑人用被停业",
       "onboard_time": 1767840020,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 551666,
+      "num": 201510,
+      "word": "鹅鸭杀排队",
+      "onboard_time": 1767878242,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 550391,
@@ -1593,14 +1609,6 @@
       "onboard_time": 1767596781,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 538261,
-      "num": 201510,
-      "word": "鹅鸭杀排队",
-      "onboard_time": 1767878242,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 538152,
@@ -1987,6 +1995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 504016,
+      "num": 201010,
+      "word": "张真源腰腹纹身",
+      "onboard_time": 1767874643,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 503974,
       "num": 503974,
       "word": "麻辣烫里面全是豆",
@@ -2169,14 +2185,6 @@
       "onboard_time": 1767451766,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 480917,
-      "num": 201010,
-      "word": "张真源腰腹纹身",
-      "onboard_time": 1767874643,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 480295,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767522501,
       "rank": 49,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 457450,
-      "num": 198970,
-      "word": "马思纯考虑结婚时让张若昀当伴娘",
-      "onboard_time": 1767748880,
-      "rank": 20,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
