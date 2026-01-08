@@ -1,6 +1,6 @@
 {
   "startTime": 1767890395081,
-  "endTime": 1767900431598,
+  "endTime": 1767901283611,
   "band_list": [
     {
       "raw_hot": 1118560,
@@ -513,6 +513,14 @@
       "onboard_time": 1767877821,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11687,
+      "num": 31259,
+      "word": "陈梦回应山东女团全运会抽签",
+      "onboard_time": 1767898935,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
