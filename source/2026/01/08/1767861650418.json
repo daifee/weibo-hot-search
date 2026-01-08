@@ -1,0 +1,410 @@
+{
+  "runTime": 1767861650418,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 764278,
+        "num": 1122284,
+        "word": "党员烧香算违纪吗官方释疑",
+        "onboard_time": 1767858380,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 533860,
+        "num": 831264,
+        "word": "李在明驳斥中方干预韩选举荒唐言论",
+        "onboard_time": 1767856520,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16106,
+        "num": 631954,
+        "word": "多地新年第一会释放重要信号",
+        "onboard_time": 1767845482,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377844,
+        "num": 377844,
+        "word": "机票价格大跳水",
+        "onboard_time": 1767837319,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332128,
+        "num": 332128,
+        "word": "郑钦文退出澳网",
+        "onboard_time": 1767859580,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327265,
+        "num": 327265,
+        "word": "3万请1400万网红带货仅成交4单",
+        "onboard_time": 1767846681,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292939,
+        "num": 292939,
+        "word": "洗头发油得慢的小方法",
+        "onboard_time": 1767853582,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 278250,
+        "num": 278250,
+        "word": "RNG告别LPL",
+        "onboard_time": 1767855800,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 229234,
+        "num": 229234,
+        "word": "古币掉入趵突泉游客称价值百万",
+        "onboard_time": 1767855621,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227774,
+        "num": 227774,
+        "word": "羽绒服 里面是飞丝",
+        "onboard_time": 1767857959,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 923298,
+        "num": 225488,
+        "word": "于正张慧雯或有吻戏",
+        "onboard_time": 1767859941,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 527938,
+        "num": 216502,
+        "word": "再见爱人5全员下车",
+        "onboard_time": 1767857421,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390679,
+        "num": 203080,
+        "word": "以爱为营要拍2了白鹿你知道吗",
+        "onboard_time": 1767858920,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236567,
+        "num": 199309,
+        "word": "虞书欣云初令出妆",
+        "onboard_time": 1767846141,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192040,
+        "num": 192040,
+        "word": "日本距离核武器只差一把螺丝刀",
+        "onboard_time": 1767860241,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188274,
+        "num": 188274,
+        "word": "林更新喊赵又廷高圆圆成毅学他的演技",
+        "onboard_time": 1767859580,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173172,
+        "num": 173172,
+        "word": "41岁女子健身断奶茶一年换了张脸",
+        "onboard_time": 1767843800,
+        "rank": 16,
+        "category": "民生新闻,运动健身"
+      },
+      {
+        "raw_hot": 51731,
+        "num": 170767,
+        "word": "新款小鹏P7+自带空间魔法",
+        "onboard_time": 1767857721,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 49628,
+        "num": 163314,
+        "word": "原来长剧观众吃得这么好",
+        "onboard_time": 1767860781,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56945,
+        "num": 158938,
+        "word": "李施嬅听了何炅的语音后泪崩",
+        "onboard_time": 1767861201,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1489238,
+        "num": 156755,
+        "word": "孙怡道歉",
+        "onboard_time": 1767848122,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152651,
+        "num": 152651,
+        "word": "1704公里小鹏G7续航长长长长长长长长",
+        "onboard_time": 1767861261,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 152583,
+        "num": 152583,
+        "word": "男子与女友争论鹦鹉学舌撞死1家3口",
+        "onboard_time": 1767857780,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148264,
+        "num": 148264,
+        "word": "气血不足的人大多有这些习惯",
+        "onboard_time": 1767861622,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168119,
+        "num": 147236,
+        "word": "李施嬅回应再见爱人he了",
+        "onboard_time": 1767857480,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140094,
+        "num": 140094,
+        "word": "蔡徐坤上海",
+        "onboard_time": 1767849742,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139967,
+        "num": 139967,
+        "word": "老板回应石槽火锅被吐槽像猪食槽",
+        "onboard_time": 1767860002,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137953,
+        "num": 137953,
+        "word": "洗发水不应该直接抹在头发上",
+        "onboard_time": 1767859762,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136508,
+        "num": 136508,
+        "word": "云初令",
+        "onboard_time": 1767843501,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133673,
+        "num": 133673,
+        "word": "欧阳娜娜我都多余搭理你",
+        "onboard_time": 1767861021,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187512,
+        "num": 133133,
+        "word": "宋威龙的锁骨痣",
+        "onboard_time": 1767861622,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135427,
+        "num": 132585,
+        "word": "郑钦文期待满血重返赛场",
+        "onboard_time": 1767860781,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126567,
+        "num": 131957,
+        "word": "女子喝自制豆浆中毒上吐下泻",
+        "onboard_time": 1767859642,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131485,
+        "num": 131485,
+        "word": "张智霖儿子给陈楚生做过灯替",
+        "onboard_time": 1767858622,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128868,
+        "num": 128868,
+        "word": "男子发现女友出轨后坠亡",
+        "onboard_time": 1767860721,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117700,
+        "num": 117700,
+        "word": "多方回应9岁女孩写试卷时昏倒去世",
+        "onboard_time": 1767858981,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114200,
+        "num": 114200,
+        "word": "赖伟明请假原因是去拍戏",
+        "onboard_time": 1767859881,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113303,
+        "num": 113303,
+        "word": "和张凌赫高马尾萧厉初见面",
+        "onboard_time": 1767860541,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54686,
+        "num": 108498,
+        "word": "旅俄大熊猫喀秋莎体重超80公斤",
+        "onboard_time": 1767861381,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92411,
+        "num": 106377,
+        "word": "侯明昊娜扎你俩不对劲",
+        "onboard_time": 1767860840,
+        "rank": 39,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 105290,
+        "num": 105290,
+        "word": "外交部回应美国再退66个群",
+        "onboard_time": 1767858741,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102803,
+        "num": 102803,
+        "word": "45岁离婚后她去冰岛当了公务员",
+        "onboard_time": 1767856221,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104623,
+        "num": 102538,
+        "word": "WTA回应郑钦文退出2026年澳网",
+        "onboard_time": 1767861622,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 877275,
+        "num": 101732,
+        "word": "每天2小时上三休四月入7000",
+        "onboard_time": 1767857540,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100573,
+        "num": 100573,
+        "word": "张若昀脸上的巴掌印可见五指",
+        "onboard_time": 1767854780,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97968,
+        "num": 97968,
+        "word": "生万物2025央八收视TOP2",
+        "onboard_time": 1767861560,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88624,
+        "num": 97293,
+        "word": "郑钦文肘伤恢复顺利",
+        "onboard_time": 1767860360,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97102,
+        "num": 97102,
+        "word": "骄阳似我",
+        "onboard_time": 1767859100,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94895,
+        "num": 94895,
+        "word": "汪苏泷咱大大方方的",
+        "onboard_time": 1767861320,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95456,
+        "num": 94863,
+        "word": "丹麦称若遭入侵先开枪再等命令",
+        "onboard_time": 1767857480,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系航天事业#"
+    }
+  }
+}
