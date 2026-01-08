@@ -1,6 +1,6 @@
 {
   "startTime": 1767890395081,
-  "endTime": 1767914738312,
+  "endTime": 1767915651766,
   "band_list": [
     {
       "raw_hot": 1118560,
@@ -11,7 +11,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 625616,
+      "raw_hot": 698379,
       "num": 829699,
       "word": "中国人花六十多万买下北海道三套房",
       "onboard_time": 1767885380,
@@ -25,6 +25,22 @@
       "onboard_time": 1767875242,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 443581,
+      "num": 133588,
+      "word": "女子补户口本发现名下有老公私生子",
+      "onboard_time": 1767914598,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 389874,
+      "num": 106783,
+      "word": "红果年度短剧",
+      "onboard_time": 1767914478,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 360335,
@@ -43,7 +59,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 297957,
+      "raw_hot": 338263,
       "num": 176027,
       "word": "男子看羊圈监控发现妻子婚外情8年",
       "onboard_time": 1767878722,
@@ -59,12 +75,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 253833,
-      "num": 107021,
-      "word": "女子补户口本发现名下有老公私生子",
-      "onboard_time": 1767914598,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 250591,
+      "num": 61482,
+      "word": "文淇被陌生男子骚扰",
+      "onboard_time": 1767914478,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 237726,
@@ -91,12 +107,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192741,
-      "num": 98258,
-      "word": "红果年度短剧",
-      "onboard_time": 1767914478,
-      "rank": 10,
-      "category": "剧集"
+      "raw_hot": 197718,
+      "num": 105087,
+      "word": "王安宇吃饭奶奶的梦中情孙",
+      "onboard_time": 1767914658,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 189532,
@@ -115,19 +131,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161859,
+      "num": 866175,
+      "word": "中产涌入超市抢300元羽绒服",
+      "onboard_time": 1767882623,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147531,
       "num": 217733,
       "word": "Manus创始人",
       "onboard_time": 1767886761,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 146554,
-      "num": 208592,
-      "word": "中产涌入超市抢300元羽绒服",
-      "onboard_time": 1767882623,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -155,6 +171,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135383,
+      "num": 175213,
+      "word": "一翼装飞行员跃下不到10秒撞上岩石",
+      "onboard_time": 1767881542,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129070,
+      "num": 61387,
+      "word": "于正说的85花顶流是张慧雯",
+      "onboard_time": 1767914658,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 126644,
+      "num": 175733,
+      "word": "多名半裸男模在商场走秀被质疑擦边",
+      "onboard_time": 1767869181,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120284,
       "num": 175810,
       "word": "iPhone18Pro系列影像测试配置",
@@ -163,20 +203,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 118761,
-      "num": 61154,
-      "word": "文淇被陌生男子骚扰",
-      "onboard_time": 1767914478,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 118746,
-      "num": 175733,
-      "word": "多名半裸男模在商场走秀被质疑擦边",
-      "onboard_time": 1767869181,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 111142,
+      "num": 175594,
+      "word": "体育局回应亚运三金得主实名举报",
+      "onboard_time": 1767889518,
+      "rank": 34,
+      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 111024,
@@ -203,28 +235,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107298,
-      "num": 175213,
-      "word": "一翼装飞行员跃下不到10秒撞上岩石",
-      "onboard_time": 1767881542,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106517,
       "num": 176302,
       "word": "1818名明星网红查补税款",
       "onboard_time": 1767876381,
       "rank": 15,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 106346,
-      "num": 175594,
-      "word": "体育局回应亚运三金得主实名举报",
-      "onboard_time": 1767889518,
-      "rank": 34,
-      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 106235,
@@ -235,20 +251,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100324,
+      "num": 100324,
+      "word": "谍报上不封顶",
+      "onboard_time": 1767914658,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98833,
       "num": 176226,
       "word": "扔尿不湿幼童监护人已被处理",
       "onboard_time": 1767879982,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96804,
-      "num": 96804,
-      "word": "谍报上不封顶",
-      "onboard_time": 1767914658,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 96383,
@@ -283,19 +299,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 86323,
-      "num": 86323,
-      "word": "王安宇吃饭奶奶的梦中情孙",
-      "onboard_time": 1767914658,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 84018,
       "num": 176164,
       "word": "海底捞锅里被扔尿布门店已报警",
       "onboard_time": 1767872661,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81170,
+      "num": 175776,
+      "word": "女子买洗碗机老公嫌水电贵把家砸了",
+      "onboard_time": 1767867440,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -323,20 +339,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 76763,
-      "num": 175776,
-      "word": "女子买洗碗机老公嫌水电贵把家砸了",
-      "onboard_time": 1767867440,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69592,
       "num": 175166,
       "word": "伊能静57岁身材",
       "onboard_time": 1767873321,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67971,
+      "num": 175646,
+      "word": "苹果养生吃法不只煮水",
+      "onboard_time": 1767887421,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 66154,
@@ -347,20 +363,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 64835,
-      "num": 175646,
-      "word": "苹果养生吃法不只煮水",
-      "onboard_time": 1767887421,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 59515,
-      "num": 59515,
-      "word": "于正说的85花顶流是张慧雯",
-      "onboard_time": 1767914658,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 60654,
+      "num": 60654,
+      "word": "超市羽绒服为啥这么火",
+      "onboard_time": 1767915259,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58168,
@@ -411,6 +419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 45514,
+      "num": 498617,
+      "word": "医保新举措专治缴费排长队",
+      "onboard_time": 1767878182,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 45334,
       "num": 175322,
       "word": "中方驳回日方交涉",
@@ -436,7 +452,7 @@
     },
     {
       "raw_hot": 41679,
-      "num": 50095,
+      "num": 55092,
       "word": "3岁男童看挖机走失找到时出现失温",
       "onboard_time": 1767875002,
       "rank": 44,
@@ -457,14 +473,6 @@
       "onboard_time": 1767892517,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 40364,
-      "num": 491889,
-      "word": "医保新举措专治缴费排长队",
-      "onboard_time": 1767878182,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 39752,
@@ -515,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27204,
+      "num": 55086,
+      "word": "A股行情",
+      "onboard_time": 1767870680,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 27196,
       "num": 432188,
       "word": "我国冰雪旅游正进入持续繁荣新阶段",
@@ -531,16 +547,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25981,
-      "num": 50076,
-      "word": "A股行情",
-      "onboard_time": 1767870680,
-      "rank": 45,
-      "category": "财经"
-    },
-    {
       "raw_hot": 25918,
-      "num": 50074,
+      "num": 55084,
       "word": "3岁男童和狗看挖机走失救援者发声",
       "onboard_time": 1767896835,
       "rank": 46,

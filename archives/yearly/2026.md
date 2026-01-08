@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/09 07:25:38
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/09 07:40:51
 </p>
 </blockquote>
 <p>
@@ -753,6 +753,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%8A%B1%E5%85%AD%E5%8D%81%E5%A4%9A%E4%B8%87%E4%B9%B0%E4%B8%8B%E5%8C%97%E6%B5%B7%E9%81%93%E4%B8%89%E5%A5%97%E6%88%BF%23" target="weibo">
+中国人花六十多万买下北海道三套房（热度：698379）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%8B%E9%9B%AA%23" target="weibo">
 上海下雪（热度：695485）
 </a>
@@ -887,12 +893,6 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E7%A7%B0%E6%B0%B8%E4%B8%8D%E4%B8%8E%E5%A4%A7%E7%86%8A%E5%90%88%E4%BD%9C%23" target="weibo">
 小米称永不与大熊合作（热度：631492）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%8A%B1%E5%85%AD%E5%8D%81%E5%A4%9A%E4%B8%87%E4%B9%B0%E4%B8%8B%E5%8C%97%E6%B5%B7%E9%81%93%E4%B8%89%E5%A5%97%E6%88%BF%23" target="weibo">
-中国人花六十多万买下北海道三套房（热度：625616）
 </a>
 </li>
 
