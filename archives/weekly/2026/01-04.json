@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767901283611,
+  "endTime": 1767904429874,
   "band_list": [
     {
       "raw_hot": 3655537,
@@ -17483,6 +17483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 17549,
+      "num": 43017,
+      "word": "3岁男童和狗看挖机走失救援者发声",
+      "onboard_time": 1767896835,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17372,
       "num": 37616,
       "word": "檀健次新歌外网上线",
@@ -17539,14 +17547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15789,
-      "num": 43017,
-      "word": "3岁男童和狗看挖机走失救援者发声",
-      "onboard_time": 1767896835,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 15518,
       "num": 39031,
       "word": "王力宏手比嘴忙",
@@ -17585,6 +17585,14 @@
       "onboard_time": 1767516262,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14539,
+      "num": 31259,
+      "word": "陈梦回应山东女团全运会抽签",
+      "onboard_time": 1767898935,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 14463,
@@ -17691,12 +17699,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11687,
-      "num": 31259,
-      "word": "陈梦回应山东女团全运会抽签",
-      "onboard_time": 1767898935,
-      "rank": 49,
+      "raw_hot": 11447,
+      "num": 22008,
+      "word": "U23亚洲杯",
+      "onboard_time": 1767885321,
+      "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11364,
+      "num": 21987,
+      "word": "海底捞尿布入锅背后是监护缺位",
+      "onboard_time": 1767902833,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11296,
