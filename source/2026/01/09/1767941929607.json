@@ -1,0 +1,410 @@
+{
+  "runTime": 1767941929607,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 399932,
+        "num": 1063989,
+        "word": "嘲笑同事的奖牌破结果发现是纯金的",
+        "onboard_time": 1767929420,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351053,
+        "num": 785895,
+        "word": "毛绒玩具里藏了10万黄金",
+        "onboard_time": 1767931642,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37101,
+        "num": 599528,
+        "word": "2026以旧换新国补持续发力",
+        "onboard_time": 1767938181,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333091,
+        "num": 333091,
+        "word": "公积金改革都有哪些变化",
+        "onboard_time": 1767937161,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314005,
+        "num": 314005,
+        "word": "南通一医院酿一级甲等医疗事故",
+        "onboard_time": 1767939802,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465871,
+        "num": 310999,
+        "word": "河南通报1名学生校内身亡",
+        "onboard_time": 1767939622,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323458,
+        "num": 295701,
+        "word": "景德镇车祸肇事司机一审死缓",
+        "onboard_time": 1767923059,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273707,
+        "num": 273707,
+        "word": "女子频繁往下水道冲猫砂判赔10万",
+        "onboard_time": 1767933021,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221739,
+        "num": 221739,
+        "word": "朋友圈长按微信头像可以设置权限",
+        "onboard_time": 1767933323,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 215356,
+        "num": 215356,
+        "word": "用3年赚到了100万",
+        "onboard_time": 1767932301,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 403364,
+        "num": 211938,
+        "word": "一男孩校内身亡学校疑似转移遗体",
+        "onboard_time": 1767936682,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291159,
+        "num": 209938,
+        "word": "雨霖铃",
+        "onboard_time": 1767936261,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193874,
+        "num": 193874,
+        "word": "王安宇狂流官宣",
+        "onboard_time": 1767932362,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175936,
+        "num": 175936,
+        "word": "杨紫祯娘传新镜头",
+        "onboard_time": 1767936023,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161710,
+        "num": 161710,
+        "word": "ICE枪杀",
+        "onboard_time": 1767941361,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 456329,
+        "num": 158717,
+        "word": "景德镇车祸被告人听到判决面无表情",
+        "onboard_time": 1767936320,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150539,
+        "num": 150539,
+        "word": "张若昀刘诗诗千里江山图单人照",
+        "onboard_time": 1767939141,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134947,
+        "num": 150175,
+        "word": "一家三口被撞时丈夫第一反应推开妻儿",
+        "onboard_time": 1767935781,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128866,
+        "num": 148900,
+        "word": "丈夫砸家事件女子将洗碗机退货",
+        "onboard_time": 1767931221,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126721,
+        "num": 147930,
+        "word": "关晓彤千里江山图造型",
+        "onboard_time": 1767935662,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348084,
+        "num": 146965,
+        "word": "年终奖领导30万员工1万",
+        "onboard_time": 1767939681,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213825,
+        "num": 145234,
+        "word": "原来痛经是子宫太想保护你",
+        "onboard_time": 1767932182,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 212351,
+        "num": 144145,
+        "word": "坚持吃煮苹果1个月身体会有这些变化",
+        "onboard_time": 1767938360,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168725,
+        "num": 143058,
+        "word": "女子哭诉带2岁儿子去女浴室遭拒",
+        "onboard_time": 1767927621,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157130,
+        "num": 141443,
+        "word": "杨幂赵丽颖年度女明星热度前二",
+        "onboard_time": 1767939559,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153057,
+        "num": 141193,
+        "word": "被二次元霸总送去看极光了",
+        "onboard_time": 1767940941,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 140160,
+        "num": 140160,
+        "word": "强者气息需要从头开始改变",
+        "onboard_time": 1767941300,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139471,
+        "num": 139471,
+        "word": "腾讯娱乐白皮书",
+        "onboard_time": 1767936201,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137402,
+        "num": 137402,
+        "word": "讨好型水果",
+        "onboard_time": 1767939082,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135542,
+        "num": 135542,
+        "word": "王传君去了武大靖退役仪式",
+        "onboard_time": 1767932663,
+        "rank": 29,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 133528,
+        "num": 133528,
+        "word": "Faker举报路人游戏ID",
+        "onboard_time": 1767930741,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121945,
+        "num": 121945,
+        "word": "刘诗诗关晓彤双人剧照",
+        "onboard_time": 1767939622,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116933,
+        "num": 116933,
+        "word": "美国夺取格陵兰岛方案价码流出",
+        "onboard_time": 1767933202,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111607,
+        "num": 111607,
+        "word": "谭松韵否认逍遥是仙侠剧",
+        "onboard_time": 1767937520,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110713,
+        "num": 110713,
+        "word": "小米17官宣降价",
+        "onboard_time": 1767928820,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 107176,
+        "num": 107176,
+        "word": "张若昀马思纯撞脸",
+        "onboard_time": 1767939559,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103998,
+        "num": 103998,
+        "word": "千万不要让豆包帮忙搭配衣服",
+        "onboard_time": 1767933802,
+        "rank": 36,
+        "category": "幽默,互联网"
+      },
+      {
+        "raw_hot": 102047,
+        "num": 102047,
+        "word": "周深2025男歌手口碑热度双第一",
+        "onboard_time": 1767941600,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99565,
+        "num": 99565,
+        "word": "冯宝宝国漫唯一蟑螂塑",
+        "onboard_time": 1767935721,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 98339,
+        "num": 98339,
+        "word": "在Excel里玩拼豆",
+        "onboard_time": 1767941061,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95871,
+        "num": 95871,
+        "word": "和手机分房睡",
+        "onboard_time": 1767940760,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95052,
+        "num": 95052,
+        "word": "御赐小仵作2定档",
+        "onboard_time": 1767928101,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93933,
+        "num": 93933,
+        "word": "怀孕妻子目睹丈夫遇害惨状泪崩",
+        "onboard_time": 1767940281,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91566,
+        "num": 91566,
+        "word": "装减脂餐给自己装笑了",
+        "onboard_time": 1767940822,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91345,
+        "num": 91345,
+        "word": "关东煮 鞋底豆干",
+        "onboard_time": 1767929541,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 90016,
+        "num": 90016,
+        "word": "陈晓代旭梦华录后二搭",
+        "onboard_time": 1767937880,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88901,
+        "num": 88901,
+        "word": "刘美含说的是谁",
+        "onboard_time": 1767925700,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84700,
+        "num": 84700,
+        "word": "女子跨年夜被前男友捅26刀身亡",
+        "onboard_time": 1767933143,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84122,
+        "num": 84122,
+        "word": "延长甲 外置器官",
+        "onboard_time": 1767940579,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77247,
+        "num": 83991,
+        "word": "阿森纳利物浦冲突",
+        "onboard_time": 1767941841,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平2025年出访足迹#"
+    }
+  }
+}

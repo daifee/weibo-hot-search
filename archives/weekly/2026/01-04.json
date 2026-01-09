@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767941094305,
+  "endTime": 1767941929607,
   "band_list": [
     {
       "raw_hot": 8104554,
@@ -1915,6 +1915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 465871,
+      "num": 310999,
+      "word": "河南通报1名学生校内身亡",
+      "onboard_time": 1767939622,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 463917,
       "num": 349697,
       "word": "李在明自拍",
@@ -1969,6 +1977,14 @@
       "onboard_time": 1767748880,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 456329,
+      "num": 168156,
+      "word": "景德镇车祸被告人听到判决面无表情",
+      "onboard_time": 1767936320,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 455589,
@@ -2979,6 +2995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 351053,
+      "num": 785895,
+      "word": "毛绒玩具里藏了10万黄金",
+      "onboard_time": 1767931642,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 348865,
       "num": 237275,
       "word": "芒果综艺遇到罢录嘉宾",
@@ -3011,6 +3035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 348084,
+      "num": 152446,
+      "word": "年终奖领导30万员工1万",
+      "onboard_time": 1767939681,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 347833,
       "num": 280253,
       "word": "谢娜 女本位",
@@ -3033,14 +3065,6 @@
       "onboard_time": 1767868220,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 344105,
-      "num": 152446,
-      "word": "年终奖领导30万员工1万",
-      "onboard_time": 1767939681,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 343614,
@@ -3163,6 +3187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 333091,
+      "num": 333091,
+      "word": "公积金改革都有哪些变化",
+      "onboard_time": 1767937161,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 333035,
       "num": 401011,
       "word": "请1400万网红带货成交4单男子发声",
@@ -3273,14 +3305,6 @@
       "onboard_time": 1767602241,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 327078,
-      "num": 168156,
-      "word": "景德镇车祸被告人听到判决面无表情",
-      "onboard_time": 1767936320,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 326826,
@@ -3473,6 +3497,14 @@
       "onboard_time": 1767873321,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 314005,
+      "num": 314005,
+      "word": "南通一医院酿一级甲等医疗事故",
+      "onboard_time": 1767939802,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 313364,
@@ -3787,14 +3819,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 289397,
-      "num": 289397,
-      "word": "公积金改革都有哪些变化",
-      "onboard_time": 1767937161,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 288136,
       "num": 288136,
       "word": "金莎曾因靠商演维持收入感到自卑",
@@ -4067,14 +4091,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 269763,
-      "num": 753364,
-      "word": "毛绒玩具里藏了10万黄金",
-      "onboard_time": 1767931642,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 269384,
       "num": 233602,
       "word": "阿水玩鹅鸭杀秒阵亡",
@@ -4136,14 +4152,6 @@
       "word": "车厘子正确清洗教程来了",
       "onboard_time": 1767514223,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 267790,
-      "num": 267790,
-      "word": "河南通报1名学生校内身亡",
-      "onboard_time": 1767939622,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -4264,14 +4272,6 @@
       "word": "多家茶饮品牌涉手打奶茶视频",
       "onboard_time": 1767680481,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 262324,
-      "num": 146651,
-      "word": "南通一医院酿一级甲等医疗事故",
-      "onboard_time": 1767939802,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -5249,6 +5249,14 @@
       "onboard_time": 1767614000,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212351,
+      "num": 152287,
+      "word": "坚持吃煮苹果1个月身体会有这些变化",
+      "onboard_time": 1767938360,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 212151,
@@ -7171,14 +7179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 164110,
-      "num": 152287,
-      "word": "坚持吃煮苹果1个月身体会有这些变化",
-      "onboard_time": 1767938360,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 164083,
       "num": 164083,
       "word": "曾爆火素人女孩七七签约经纪公司",
@@ -7312,6 +7312,14 @@
       "word": "韩国社媒上的上海",
       "onboard_time": 1767657441,
       "rank": 18,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 161710,
+      "num": 161710,
+      "word": "ICE枪杀",
+      "onboard_time": 1767941361,
+      "rank": 14,
       "category": "海外新闻"
     },
     {
@@ -7496,6 +7504,14 @@
       "word": "国产剧又来三女一男修罗场",
       "onboard_time": 1767850942,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 157130,
+      "num": 147523,
+      "word": "杨幂赵丽颖年度女明星热度前二",
+      "onboard_time": 1767939559,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -7969,14 +7985,6 @@
       "onboard_time": 1767886761,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 147523,
-      "num": 147523,
-      "word": "杨幂赵丽颖年度女明星热度前二",
-      "onboard_time": 1767939559,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 147513,
@@ -8561,6 +8569,14 @@
       "onboard_time": 1767582201,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140160,
+      "num": 140160,
+      "word": "强者气息需要从头开始改变",
+      "onboard_time": 1767941300,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 140089,
@@ -12051,6 +12067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102047,
+      "num": 102047,
+      "word": "周深2025男歌手口碑热度双第一",
+      "onboard_time": 1767941600,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102016,
       "num": 102016,
       "word": "papi说何美延梁淞结局像悬疑片",
@@ -12515,6 +12539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98339,
+      "num": 98339,
+      "word": "在Excel里玩拼豆",
+      "onboard_time": 1767941061,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 98326,
       "num": 98326,
       "word": "王曼昱小秀一手",
@@ -12947,6 +12979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95871,
+      "num": 95871,
+      "word": "和手机分房睡",
+      "onboard_time": 1767940760,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95855,
       "num": 95855,
       "word": "原来取悦自己是这样的",
@@ -13179,14 +13219,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 94322,
-      "num": 94322,
-      "word": "和手机分房睡",
-      "onboard_time": 1767940760,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 94306,
       "num": 86868,
       "word": "俄罗斯指责美国违法",
@@ -13249,6 +13281,14 @@
       "onboard_time": 1767568217,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93933,
+      "num": 93933,
+      "word": "怀孕妻子目睹丈夫遇害惨状泪崩",
+      "onboard_time": 1767940281,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93909,
@@ -13465,14 +13505,6 @@
       "onboard_time": 1767499284,
       "rank": 31,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 92688,
-      "num": 92688,
-      "word": "怀孕妻子目睹丈夫遇害惨状泪崩",
-      "onboard_time": 1767940281,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92687,
@@ -14491,14 +14523,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 85281,
-      "num": 85281,
-      "word": "在Excel里玩拼豆",
-      "onboard_time": 1767941061,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 85279,
       "num": 85279,
       "word": "她被自己困住了",
@@ -14617,6 +14641,14 @@
       "onboard_time": 1767623243,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84122,
+      "num": 84122,
+      "word": "延长甲 外置器官",
+      "onboard_time": 1767940579,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 84029,
@@ -15241,6 +15273,14 @@
       "onboard_time": 1767915739,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 77247,
+      "num": 83991,
+      "word": "阿森纳利物浦冲突",
+      "onboard_time": 1767941841,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 77119,

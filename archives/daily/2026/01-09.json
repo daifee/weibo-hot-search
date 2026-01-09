@@ -1,6 +1,6 @@
 {
   "startTime": 1767890395081,
-  "endTime": 1767941094305,
+  "endTime": 1767941929607,
   "band_list": [
     {
       "raw_hot": 8104554,
@@ -107,6 +107,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 465871,
+      "num": 310999,
+      "word": "河南通报1名学生校内身亡",
+      "onboard_time": 1767939622,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 456329,
+      "num": 168156,
+      "word": "景德镇车祸被告人听到判决面无表情",
+      "onboard_time": 1767936320,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 443581,
       "num": 133588,
       "word": "女子补户口本发现名下有老公私生子",
@@ -203,7 +219,15 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 344105,
+      "raw_hot": 351053,
+      "num": 785895,
+      "word": "毛绒玩具里藏了10万黄金",
+      "onboard_time": 1767931642,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 348084,
       "num": 152446,
       "word": "年终奖领导30万员工1万",
       "onboard_time": 1767939681,
@@ -227,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 333091,
+      "num": 333091,
+      "word": "公积金改革都有哪些变化",
+      "onboard_time": 1767937161,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 330209,
       "num": 165668,
       "word": "原来痛经是子宫太想保护你",
@@ -235,11 +267,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 327078,
-      "num": 168156,
-      "word": "景德镇车祸被告人听到判决面无表情",
-      "onboard_time": 1767936320,
-      "rank": 34,
+      "raw_hot": 314005,
+      "num": 314005,
+      "word": "南通一医院酿一级甲等医疗事故",
+      "onboard_time": 1767939802,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -267,14 +299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 289397,
-      "num": 289397,
-      "word": "公积金改革都有哪些变化",
-      "onboard_time": 1767937161,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 275106,
       "num": 275106,
       "word": "崩坏星穹铁道",
@@ -291,14 +315,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 269763,
-      "num": 753364,
-      "word": "毛绒玩具里藏了10万黄金",
-      "onboard_time": 1767931642,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 268283,
       "num": 268283,
       "word": "廖某宇当庭表现平静",
@@ -307,27 +323,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 267790,
-      "num": 267790,
-      "word": "河南通报1名学生校内身亡",
-      "onboard_time": 1767939622,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 266895,
       "num": 266895,
       "word": "丈夫砸家事件女子将洗碗机退货",
       "onboard_time": 1767931221,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 262324,
-      "num": 146651,
-      "word": "南通一医院酿一级甲等医疗事故",
-      "onboard_time": 1767939802,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -425,6 +425,14 @@
       "onboard_time": 1767926301,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212351,
+      "num": 152287,
+      "word": "坚持吃煮苹果1个月身体会有这些变化",
+      "onboard_time": 1767938360,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 206668,
@@ -587,20 +595,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 164110,
-      "num": 152287,
-      "word": "坚持吃煮苹果1个月身体会有这些变化",
-      "onboard_time": 1767938360,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 162985,
       "num": 156397,
       "word": "国产剧开始为妇产科发声了",
       "onboard_time": 1767934102,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161710,
+      "num": 161710,
+      "word": "ICE枪杀",
+      "onboard_time": 1767941361,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 160651,
@@ -617,6 +625,14 @@
       "onboard_time": 1767890597,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157130,
+      "num": 147523,
+      "word": "杨幂赵丽颖年度女明星热度前二",
+      "onboard_time": 1767939559,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 156354,
@@ -691,14 +707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147523,
-      "num": 147523,
-      "word": "杨幂赵丽颖年度女明星热度前二",
-      "onboard_time": 1767939559,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147298,
       "num": 147298,
       "word": "胡歌李沁命运十四年前的伏笔",
@@ -736,6 +744,14 @@
       "word": "逛完水贝才明白什么叫聪明买金",
       "onboard_time": 1767936562,
       "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 140160,
+      "num": 140160,
+      "word": "强者气息需要从头开始改变",
+      "onboard_time": 1767941300,
+      "rank": 26,
       "category": "幽默"
     },
     {
@@ -1115,6 +1131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 102047,
+      "num": 102047,
+      "word": "周深2025男歌手口碑热度双第一",
+      "onboard_time": 1767941600,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101287,
       "num": 101287,
       "word": "国色芳华2025古偶热度第一",
@@ -1145,6 +1169,14 @@
       "onboard_time": 1767879982,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98339,
+      "num": 98339,
+      "word": "在Excel里玩拼豆",
+      "onboard_time": 1767941061,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 98233,
@@ -1195,6 +1227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 95871,
+      "num": 95871,
+      "word": "和手机分房睡",
+      "onboard_time": 1767940760,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95783,
       "num": 175911,
       "word": "张真源腰腹纹身",
@@ -1219,12 +1259,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 94322,
-      "num": 94322,
-      "word": "和手机分房睡",
-      "onboard_time": 1767940760,
-      "rank": 42,
-      "category": "情感"
+      "raw_hot": 93933,
+      "num": 93933,
+      "word": "怀孕妻子目睹丈夫遇害惨状泪崩",
+      "onboard_time": 1767940281,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93283,
@@ -1233,14 +1273,6 @@
       "onboard_time": 1767931582,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 92688,
-      "num": 92688,
-      "word": "怀孕妻子目睹丈夫遇害惨状泪崩",
-      "onboard_time": 1767940281,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91964,
@@ -1331,11 +1363,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 85281,
-      "num": 85281,
-      "word": "在Excel里玩拼豆",
-      "onboard_time": 1767941061,
-      "rank": 46,
+      "raw_hot": 84122,
+      "num": 84122,
+      "word": "延长甲 外置器官",
+      "onboard_time": 1767940579,
+      "rank": 48,
       "category": "幽默"
     },
     {
@@ -1393,6 +1425,14 @@
       "onboard_time": 1767915739,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 77247,
+      "num": 83991,
+      "word": "阿森纳利物浦冲突",
+      "onboard_time": 1767941841,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 73941,
