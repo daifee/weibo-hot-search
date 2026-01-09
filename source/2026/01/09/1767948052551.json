@@ -1,0 +1,410 @@
+{
+  "runTime": 1767948052551,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 291175,
+        "num": 1046588,
+        "word": "住房公积金制度改革",
+        "onboard_time": 1767943340,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 230012,
+        "num": 747760,
+        "word": "嘲笑同事的奖牌破结果发现是纯金的",
+        "onboard_time": 1767929420,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5729,
+        "num": 619788,
+        "word": "这组数据见证大国水网新画卷",
+        "onboard_time": 1767947962,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380738,
+        "num": 380738,
+        "word": "南通一医院酿一级甲等医疗事故",
+        "onboard_time": 1767939802,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182387,
+        "num": 255190,
+        "word": "女子频繁往下水道冲猫砂判赔10万",
+        "onboard_time": 1767933021,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218587,
+        "num": 218587,
+        "word": "延长甲 外置器官",
+        "onboard_time": 1767940579,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183148,
+        "num": 217704,
+        "word": "景德镇车祸肇事司机一审死缓",
+        "onboard_time": 1767923059,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149644,
+        "num": 216386,
+        "word": "保时捷文案",
+        "onboard_time": 1767943999,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 143928,
+        "num": 215142,
+        "word": "毛绒玩具里藏了10万黄金",
+        "onboard_time": 1767931642,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105852,
+        "num": 213255,
+        "word": "王者小乔糖果流星雨",
+        "onboard_time": 1767947962,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 266466,
+        "num": 212529,
+        "word": "万斯称遭ICE射杀女子是咎由自取",
+        "onboard_time": 1767943041,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 674221,
+        "num": 210208,
+        "word": "网传再见爱人邓莎夫妇没下车",
+        "onboard_time": 1767943880,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34050,
+        "num": 208527,
+        "word": "2026以旧换新国补持续发力",
+        "onboard_time": 1767938181,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 625186,
+        "num": 207618,
+        "word": "年终奖领导30万员工1万",
+        "onboard_time": 1767939681,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 535376,
+        "num": 205641,
+        "word": "河南通报1名学生校内身亡",
+        "onboard_time": 1767939622,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300997,
+        "num": 204341,
+        "word": "网传宋威龙赵今麦或二搭",
+        "onboard_time": 1767943580,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271804,
+        "num": 203068,
+        "word": "白鹿春晚彩排路透",
+        "onboard_time": 1767946161,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269845,
+        "num": 201749,
+        "word": "男子在鞋内藏定位器发现妻子出轨",
+        "onboard_time": 1767944240,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200993,
+        "num": 200993,
+        "word": "骄阳似我豆瓣开分7.4",
+        "onboard_time": 1767947001,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167899,
+        "num": 167899,
+        "word": "李施嬅车崇健现实版麦琪的礼物",
+        "onboard_time": 1767947541,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160652,
+        "num": 160652,
+        "word": "乱讲PPT大赛",
+        "onboard_time": 1767947661,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 470267,
+        "num": 160413,
+        "word": "狗头萝莉自曝负债650万成老赖",
+        "onboard_time": 1767947121,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 228657,
+        "num": 160188,
+        "word": "赵今麦给卢昱晓留言相信光",
+        "onboard_time": 1767947121,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93494,
+        "num": 159962,
+        "word": "丈夫砸家事件女子将洗碗机退货",
+        "onboard_time": 1767931221,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97593,
+        "num": 159836,
+        "word": "吴千语娜然让小说女主有了脸",
+        "onboard_time": 1767945800,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196722,
+        "num": 159476,
+        "word": "华策用10年拍了一部历史古装剧",
+        "onboard_time": 1767946822,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159374,
+        "num": 159374,
+        "word": "坚持吃煮苹果1个月身体会有这些变化",
+        "onboard_time": 1767938360,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172140,
+        "num": 157648,
+        "word": "跑男导演口音惹众怒",
+        "onboard_time": 1767946281,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153098,
+        "num": 153098,
+        "word": "用3年赚到了100万",
+        "onboard_time": 1767932301,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147197,
+        "num": 147197,
+        "word": "歌手不红干什么都是错吗",
+        "onboard_time": 1767945021,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159535,
+        "num": 147148,
+        "word": "洗碗 做手膜",
+        "onboard_time": 1767947780,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146950,
+        "num": 146950,
+        "word": "原来痛经是子宫太想保护你",
+        "onboard_time": 1767932182,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142291,
+        "num": 142291,
+        "word": "A股实现16连阳",
+        "onboard_time": 1767947661,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130220,
+        "num": 130220,
+        "word": "女子哭诉带2岁儿子去女浴室遭拒",
+        "onboard_time": 1767927621,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124015,
+        "num": 124015,
+        "word": "施诗要不咱们切墨兰的号吧",
+        "onboard_time": 1767947482,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112446,
+        "num": 112446,
+        "word": "王一博 一款情绪稳定的岩羊",
+        "onboard_time": 1767944359,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95674,
+        "num": 108972,
+        "word": "为什么认定廖某宇系间接故意",
+        "onboard_time": 1767947182,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108050,
+        "num": 108050,
+        "word": "巅峰榜年度十大单曲",
+        "onboard_time": 1767943041,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 106902,
+        "num": 106902,
+        "word": "吻戏是猫叔的前菜",
+        "onboard_time": 1767946522,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94704,
+        "num": 99658,
+        "word": "年前减肥",
+        "onboard_time": 1767947482,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 99630,
+        "num": 99630,
+        "word": "果然对王嘉尔的人脉一无所知",
+        "onboard_time": 1767944660,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99572,
+        "num": 99572,
+        "word": "王安宇狂流官宣",
+        "onboard_time": 1767932362,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93665,
+        "num": 99307,
+        "word": "雷军晒新一代SU7轮毂",
+        "onboard_time": 1767947601,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 99242,
+        "num": 99242,
+        "word": "杨志刚父子俩从唐诡演到马背",
+        "onboard_time": 1767946041,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98723,
+        "num": 98723,
+        "word": "雨霖铃",
+        "onboard_time": 1767936261,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91194,
+        "num": 91194,
+        "word": "00后美女拉斯维加斯谈成上亿生意",
+        "onboard_time": 1767947422,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96475,
+        "num": 90426,
+        "word": "张艺兴闹天宫巅峰榜年度十大专辑",
+        "onboard_time": 1767947241,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 84998,
+        "num": 84998,
+        "word": "外交部回应美领导人涉台言论",
+        "onboard_time": 1767945441,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 83330,
+        "num": 83330,
+        "word": "Faker举报路人游戏ID",
+        "onboard_time": 1767930741,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82471,
+        "num": 82471,
+        "word": "讨好型水果",
+        "onboard_time": 1767939082,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#新的一年再启新程#"
+    }
+  }
+}

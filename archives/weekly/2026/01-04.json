@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767944803815,
+  "endTime": 1767948052551,
   "band_list": [
     {
       "raw_hot": 8104554,
@@ -843,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 674221,
+      "num": 210463,
+      "word": "网传再见爱人邓莎夫妇没下车",
+      "onboard_time": 1767943880,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 670620,
       "num": 619493,
       "word": "3小孩坐跳楼机工作人员忘放安全杠",
@@ -977,14 +985,6 @@
       "onboard_time": 1767792444,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 633711,
-      "num": 210463,
-      "word": "网传再见爱人邓莎夫妇没下车",
-      "onboard_time": 1767943880,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 633524,
@@ -1361,6 +1361,14 @@
       "onboard_time": 1767483320,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 535376,
+      "num": 452276,
+      "word": "河南通报1名学生校内身亡",
+      "onboard_time": 1767939622,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 535373,
@@ -1931,6 +1939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 470267,
+      "num": 160413,
+      "word": "狗头萝莉自曝负债650万成老赖",
+      "onboard_time": 1767947121,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 470247,
       "num": 470247,
       "word": "婚礼电子请柬 访客记录",
@@ -1953,14 +1969,6 @@
       "onboard_time": 1767588023,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 465871,
-      "num": 452276,
-      "word": "河南通报1名学生校内身亡",
-      "onboard_time": 1767939622,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 463917,
@@ -3691,6 +3699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 300997,
+      "num": 204341,
+      "word": "网传宋威龙赵今麦或二搭",
+      "onboard_time": 1767943580,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 300684,
       "num": 268368,
       "word": "太原一商场马年雕塑被连夜拆除",
@@ -3900,7 +3916,7 @@
     },
     {
       "raw_hot": 282205,
-      "num": 155472,
+      "num": 159374,
       "word": "坚持吃煮苹果1个月身体会有这些变化",
       "onboard_time": 1767938360,
       "rank": 24,
@@ -4083,6 +4099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 271804,
+      "num": 203068,
+      "word": "白鹿春晚彩排路透",
+      "onboard_time": 1767946161,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271655,
       "num": 815469,
       "word": "马杜罗及其夫人已在美国被起诉",
@@ -4121,6 +4145,14 @@
       "onboard_time": 1767591622,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 269845,
+      "num": 201749,
+      "word": "男子在鞋内藏定位器发现妻子出轨",
+      "onboard_time": 1767944240,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 269384,
@@ -4219,6 +4251,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 266466,
+      "num": 213464,
+      "word": "万斯称遭ICE射杀女子是咎由自取",
+      "onboard_time": 1767943041,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 265920,
       "num": 252136,
       "word": "撞死3口人凶手父亲想儿子赡养受害方",
@@ -4281,14 +4321,6 @@
       "onboard_time": 1767795626,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 263001,
-      "num": 194668,
-      "word": "网传宋威龙赵今麦或二搭",
-      "onboard_time": 1767943580,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 262904,
@@ -4385,14 +4417,6 @@
       "onboard_time": 1767512722,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 256536,
-      "num": 213464,
-      "word": "万斯称遭ICE射杀女子是咎由自取",
-      "onboard_time": 1767943041,
-      "rank": 15,
-      "category": "国际时政"
     },
     {
       "raw_hot": 255943,
@@ -4883,6 +4907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 228657,
+      "num": 160188,
+      "word": "赵今麦给卢昱晓留言相信光",
+      "onboard_time": 1767947121,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228554,
       "num": 272019,
       "word": "残疾阿姨反复撞车导致车主损失过万",
@@ -5177,6 +5209,14 @@
       "onboard_time": 1767519922,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218587,
+      "num": 218587,
+      "word": "延长甲 外置器官",
+      "onboard_time": 1767940579,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 217985,
@@ -5643,6 +5683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200993,
+      "num": 200993,
+      "word": "骄阳似我豆瓣开分7.4",
+      "onboard_time": 1767947001,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200523,
       "num": 831064,
       "word": "白鹿圈内人脉",
@@ -5857,6 +5905,14 @@
       "onboard_time": 1767576440,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196722,
+      "num": 159476,
+      "word": "华策用10年拍了一部历史古装剧",
+      "onboard_time": 1767946822,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 196641,
@@ -6851,6 +6907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172140,
+      "num": 157648,
+      "word": "跑男导演口音惹众怒",
+      "onboard_time": 1767946281,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172071,
       "num": 806855,
       "word": "巴西总统称美开创危险先例",
@@ -7025,6 +7089,14 @@
       "onboard_time": 1767698421,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167899,
+      "num": 167899,
+      "word": "李施嬅车崇健现实版麦琪的礼物",
+      "onboard_time": 1767947541,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 167498,
@@ -7427,6 +7499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160652,
+      "num": 160652,
+      "word": "乱讲PPT大赛",
+      "onboard_time": 1767947661,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160651,
       "num": 160651,
       "word": "中学生被按地强行理发画面曝光",
@@ -7497,6 +7577,14 @@
       "onboard_time": 1767711383,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159535,
+      "num": 147148,
+      "word": "洗碗 做手膜",
+      "onboard_time": 1767947780,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 159195,
@@ -7715,14 +7803,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 153359,
-      "num": 130986,
-      "word": "延长甲 外置器官",
-      "onboard_time": 1767940579,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 153278,
       "num": 175248,
       "word": "庄序结局",
@@ -7913,6 +7993,14 @@
       "onboard_time": 1767512182,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149644,
+      "num": 216386,
+      "word": "保时捷文案",
+      "onboard_time": 1767943999,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 149414,
@@ -8121,6 +8209,14 @@
       "onboard_time": 1767769221,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147197,
+      "num": 147197,
+      "word": "歌手不红干什么都是错吗",
+      "onboard_time": 1767945021,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 147182,
@@ -8457,6 +8553,14 @@
       "onboard_time": 1767776001,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142291,
+      "num": 142291,
+      "word": "A股实现16连阳",
+      "onboard_time": 1767947661,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 142265,
@@ -9849,6 +9953,14 @@
       "onboard_time": 1767576860,
       "rank": 22,
       "category": "美食,健康医疗"
+    },
+    {
+      "raw_hot": 124015,
+      "num": 124015,
+      "word": "施诗要不咱们切墨兰的号吧",
+      "onboard_time": 1767947482,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 123989,
@@ -11467,6 +11579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106902,
+      "num": 106902,
+      "word": "吻戏是猫叔的前菜",
+      "onboard_time": 1767946522,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106730,
       "num": 106730,
       "word": "秦天宇曹骏常华森 25年出圈男配",
@@ -11601,6 +11721,14 @@
       "onboard_time": 1767583942,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105852,
+      "num": 213255,
+      "word": "王者小乔糖果流星雨",
+      "onboard_time": 1767947962,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 105837,
@@ -12571,6 +12699,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 99242,
+      "num": 99242,
+      "word": "杨志刚父子俩从唐诡演到马背",
+      "onboard_time": 1767946041,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99173,
       "num": 99173,
       "word": "贵州工商职业大学",
@@ -12625,14 +12761,6 @@
       "onboard_time": 1767702922,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 98752,
-      "num": 98752,
-      "word": "保时捷文案",
-      "onboard_time": 1767943999,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 98622,
@@ -12851,6 +12979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97593,
+      "num": 159836,
+      "word": "吴千语娜然让小说女主有了脸",
+      "onboard_time": 1767945800,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 97519,
       "num": 242545,
       "word": "父亲起诉女儿要赡养费被法院驳回",
@@ -13003,6 +13139,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 96475,
+      "num": 90426,
+      "word": "张艺兴闹天宫巅峰榜年度十大专辑",
+      "onboard_time": 1767947241,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 96372,
       "num": 96372,
       "word": "中方管制可对日本造成多重影响",
@@ -13091,14 +13235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96119,
-      "num": 96119,
-      "word": "男子在鞋内藏定位器发现妻子出轨",
-      "onboard_time": 1767944240,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96098,
       "num": 96098,
       "word": "万科发布公告",
@@ -13176,6 +13312,14 @@
       "word": "宜家在中国内地有37家门店",
       "onboard_time": 1767768381,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95674,
+      "num": 108972,
+      "word": "为什么认定廖某宇系间接故意",
+      "onboard_time": 1767947182,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -13297,6 +13441,14 @@
       "onboard_time": 1767526582,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 94704,
+      "num": 99658,
+      "word": "年前减肥",
+      "onboard_time": 1767947482,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 94676,
@@ -13497,6 +13649,14 @@
       "onboard_time": 1767447266,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 93665,
+      "num": 99307,
+      "word": "雷军晒新一代SU7轮毂",
+      "onboard_time": 1767947601,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 93619,
@@ -13872,6 +14032,14 @@
       "word": "华为门店回应请半裸男模跳舞",
       "onboard_time": 1767853700,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91194,
+      "num": 91194,
+      "word": "00后美女拉斯维加斯谈成上亿生意",
+      "onboard_time": 1767947422,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -14761,6 +14929,14 @@
       "onboard_time": 1767776062,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 84998,
+      "num": 84998,
+      "word": "外交部回应美领导人涉台言论",
+      "onboard_time": 1767945441,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 84842,
@@ -19257,6 +19433,14 @@
       "onboard_time": 1767837979,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 5729,
+      "num": 619788,
+      "word": "这组数据见证大国水网新画卷",
+      "onboard_time": 1767947962,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -19307,6 +19491,9 @@
     },
     {
       "word": "#习近平2025年出访足迹#"
+    },
+    {
+      "word": "#新的一年再启新程#"
     }
   ]
 }
