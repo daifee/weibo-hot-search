@@ -1,0 +1,410 @@
+{
+  "runTime": 1767966967108,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 607912,
+        "num": 1097266,
+        "word": "住房公积金制度改革",
+        "onboard_time": 1767943340,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 295129,
+        "num": 801899,
+        "word": "猫的树真的很会拍",
+        "onboard_time": 1767962240,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 6706,
+        "num": 624496,
+        "word": "绿色消费激活中国经济增长新空间",
+        "onboard_time": 1767966801,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 461216,
+        "num": 461216,
+        "word": "今天的赵丽颖梦回明兰了",
+        "onboard_time": 1767960439,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187987,
+        "num": 458629,
+        "word": "喜欢车厘子和抹茶的有福了",
+        "onboard_time": 1767956539,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 457795,
+        "num": 457795,
+        "word": "顾漫五部曲吴倩出演了三部",
+        "onboard_time": 1767959960,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289436,
+        "num": 455501,
+        "word": "台湾网红馆长以恐吓罪被起诉",
+        "onboard_time": 1767959361,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283186,
+        "num": 454921,
+        "word": "轧戏",
+        "onboard_time": 1767957140,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140436,
+        "num": 452068,
+        "word": "医院通报女子看胃病死于心脏手术",
+        "onboard_time": 1767963201,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 131340,
+        "num": 447444,
+        "word": "北京男篮vs山东男篮",
+        "onboard_time": 1767966561,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 807790,
+        "num": 444024,
+        "word": "妻子整理遗物发现亡夫转情人1900万",
+        "onboard_time": 1767963080,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443786,
+        "num": 443786,
+        "word": "当红演员未进组天数",
+        "onboard_time": 1767965362,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436590,
+        "num": 436590,
+        "word": "卢昱晓好美",
+        "onboard_time": 1767962360,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234906,
+        "num": 234906,
+        "word": "鹅鸭杀排队补偿",
+        "onboard_time": 1767965841,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 365632,
+        "num": 234167,
+        "word": "檀健次文案翻译",
+        "onboard_time": 1767953121,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 228006,
+        "num": 228006,
+        "word": "液断7天瘦了13.2斤",
+        "onboard_time": 1767949820,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224334,
+        "num": 224334,
+        "word": "胖东来回应羽绒服进价303售价393",
+        "onboard_time": 1767951142,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206207,
+        "num": 206207,
+        "word": "黄晓明认证和赵丽颖是魔丸灵珠",
+        "onboard_time": 1767964279,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45670,
+        "num": 206009,
+        "word": "东数西算效率10倍速狂飙",
+        "onboard_time": 1767966261,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47835,
+        "num": 205700,
+        "word": "赵长江称智界V9三年之内难有对手",
+        "onboard_time": 1767962960,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 736672,
+        "num": 204740,
+        "word": "演员关凌因挤痘事件上火烂嘴角",
+        "onboard_time": 1767960921,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219994,
+        "num": 204589,
+        "word": "周生生一条金项链一年多涨了近10万",
+        "onboard_time": 1767964161,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204225,
+        "num": 204225,
+        "word": "檀健次不语只是一味打歌",
+        "onboard_time": 1767951622,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198132,
+        "num": 198132,
+        "word": "山姆回应充绒400克499元羽绒服卖爆",
+        "onboard_time": 1767951201,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189608,
+        "num": 189608,
+        "word": "房贷利率又迎下调",
+        "onboard_time": 1767966741,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 172741,
+        "num": 172741,
+        "word": "娜扎直播",
+        "onboard_time": 1767965301,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148227,
+        "num": 148227,
+        "word": "王心凌穿了500条珠链在身上",
+        "onboard_time": 1767966801,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126899,
+        "num": 137555,
+        "word": "集美大学花720万元采购可乐",
+        "onboard_time": 1767953900,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79724,
+        "num": 137103,
+        "word": "退役军犬在新家撒欢",
+        "onboard_time": 1767964702,
+        "rank": 28,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 74390,
+        "num": 136784,
+        "word": "台独分子沈伯洋全网紧急删个人定位",
+        "onboard_time": 1767957439,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136704,
+        "num": 136704,
+        "word": "朱珠往那一坐就有两个身份",
+        "onboard_time": 1767965482,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130090,
+        "num": 130090,
+        "word": "李幼斌去养老院看父母特别痛苦",
+        "onboard_time": 1767956122,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126883,
+        "num": 126883,
+        "word": "教师拧断11岁男童胳膊事发地无监控",
+        "onboard_time": 1767966681,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128585,
+        "num": 125867,
+        "word": "轧戏开播",
+        "onboard_time": 1767957801,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117619,
+        "num": 117619,
+        "word": "吴谨言这毅力做什么都会成功",
+        "onboard_time": 1767965241,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102000,
+        "num": 115914,
+        "word": "俄罗斯报复乌克兰",
+        "onboard_time": 1767959421,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114256,
+        "num": 114256,
+        "word": "古天乐被曝拍戏时每晚照美黑灯",
+        "onboard_time": 1767965601,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109951,
+        "num": 109951,
+        "word": "张碧晨裙子上有43朵玫瑰",
+        "onboard_time": 1767964762,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 80201,
+        "num": 103117,
+        "word": "奶奶想要孙子遗弃残疾孙女近20年",
+        "onboard_time": 1767966143,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17000,
+        "num": 102183,
+        "word": "男子醉酒后散步把人撞成十级伤残",
+        "onboard_time": 1767966741,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101257,
+        "num": 101257,
+        "word": "领导奖金30万员工1万公司已报警",
+        "onboard_time": 1767965961,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99784,
+        "num": 99784,
+        "word": "华晨宇2025华语新专销量第一",
+        "onboard_time": 1767965902,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94128,
+        "num": 94128,
+        "word": "猫的树拍的陈星旭",
+        "onboard_time": 1767964221,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93231,
+        "num": 93231,
+        "word": "年终奖领导30万员工1万",
+        "onboard_time": 1767939681,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92501,
+        "num": 92501,
+        "word": "同居4年生娃分手后男方索要彩礼",
+        "onboard_time": 1767950542,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88042,
+        "num": 88042,
+        "word": "取消光伏等产品增值税出口退税",
+        "onboard_time": 1767955159,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 87039,
+        "num": 87039,
+        "word": "白鹿春晚彩排路透",
+        "onboard_time": 1767946161,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85966,
+        "num": 85966,
+        "word": "彭小苒已争气争气再争气",
+        "onboard_time": 1767963382,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83872,
+        "num": 85836,
+        "word": "新年美甲最佳时间",
+        "onboard_time": 1767962781,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 85801,
+        "num": 85801,
+        "word": "女主越要扇巴掌男主脸抬得越高",
+        "onboard_time": 1767966801,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记指出扩大内需是战略之举#"
+    }
+  }
+}
