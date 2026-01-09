@@ -1,6 +1,6 @@
 {
   "startTime": 1767976730727,
-  "endTime": 1767980865230,
+  "endTime": 1767984168616,
   "band_list": [
     {
       "raw_hot": 853653,
@@ -299,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64051,
+      "num": 64051,
+      "word": "轧戏 剧本杀",
+      "onboard_time": 1767978737,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59346,
       "num": 97854,
       "word": "猫的树拍的陈星旭",
@@ -371,14 +379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 52789,
-      "num": 52789,
-      "word": "轧戏 剧本杀",
-      "onboard_time": 1767978737,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 51372,
       "num": 97802,
       "word": "TF家族2026新年音乐会荣耀",
@@ -409,6 +409,14 @@
       "onboard_time": 1767959960,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46907,
+      "num": 30812,
+      "word": "苹果煮水喝孩子越喝越长个儿",
+      "onboard_time": 1767981196,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 44682,
@@ -471,6 +479,38 @@
       "num": 420808,
       "word": "27项重大水利工程开工",
       "onboard_time": 1767967041,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22996,
+      "num": 30518,
+      "word": "我们与法庭的距离",
+      "onboard_time": 1767983054,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 22706,
+      "num": 30507,
+      "word": "醒来",
+      "onboard_time": 1767981256,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 19553,
+      "num": 30475,
+      "word": "赵丽颖说熟人局很享受",
+      "onboard_time": 1767983354,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 10520,
+      "num": 76463,
+      "word": "东数西算效率10倍速狂飙",
+      "onboard_time": 1767966261,
       "rank": 2,
       "category": "民生新闻"
     }
