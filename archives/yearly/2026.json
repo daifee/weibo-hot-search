@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767973664638,
+  "endTime": 1767976730727,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -697,6 +697,14 @@
       "onboard_time": 1767663501,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 853653,
+      "num": 401486,
+      "word": "卢昱晓台词",
+      "onboard_time": 1767971901,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 844462,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767497183,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 485940,
-      "num": 243129,
-      "word": "童锦程孩子妈回应要220万",
-      "onboard_time": 1767510683,
-      "rank": 25,
-      "category": "网红"
     }
   ],
   "hotgov_list": [

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/09 23:47:44
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/10 00:38:50
 </p>
 </blockquote>
 <p>
@@ -533,6 +533,12 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E5%BD%A9%E6%8E%92%E7%9A%84%E6%98%8E%E6%98%9F%23" target="weibo">
 春晚彩排的明星（热度：854227）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E5%8F%B0%E8%AF%8D%23" target="weibo">
+卢昱晓台词（热度：853653）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ TVB颁奖典礼（热度：518643）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%20%E8%8A%B1%E5%A4%A9%E9%85%92%E5%9C%B0%E4%B8%8D%E5%A6%82%E4%B8%8A%E5%A4%A9%E5%85%A5%E5%9C%B0%23" target="weibo">
 王一博 花天酒地不如上天入地（热度：486021）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AB%A5%E9%94%A6%E7%A8%8B%E5%AD%A9%E5%AD%90%E5%A6%88%E5%9B%9E%E5%BA%94%E8%A6%81220%E4%B8%87%23" target="weibo">
-童锦程孩子妈回应要220万（热度：485940）
 </a>
 </li>
 
