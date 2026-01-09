@@ -1,0 +1,410 @@
+{
+  "runTime": 1767958954854,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 617671,
+        "num": 1098827,
+        "word": "住房公积金制度改革",
+        "onboard_time": 1767943340,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 415543,
+        "num": 811719,
+        "word": "取消光伏等产品增值税出口退税",
+        "onboard_time": 1767955159,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 43589,
+        "num": 645023,
+        "word": "手机数码国补超72%买中高端机",
+        "onboard_time": 1767948442,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345815,
+        "num": 345815,
+        "word": "胖东来回应羽绒服进价303售价393",
+        "onboard_time": 1767951142,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126476,
+        "num": 312795,
+        "word": "中国抹茶反向出口日本",
+        "onboard_time": 1767956122,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284583,
+        "num": 284583,
+        "word": "喜欢车厘子和抹茶的有福了",
+        "onboard_time": 1767956539,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 523590,
+        "num": 276468,
+        "word": "集美大学花720万元采购可乐",
+        "onboard_time": 1767953900,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137415,
+        "num": 270355,
+        "word": "台风中救了25人荣誉却被冒领",
+        "onboard_time": 1767952160,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267310,
+        "num": 267310,
+        "word": "液断7天瘦了13.2斤",
+        "onboard_time": 1767949820,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109733,
+        "num": 259861,
+        "word": "保时捷文案",
+        "onboard_time": 1767943999,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1049171,
+        "num": 258859,
+        "word": "檀健次文案翻译",
+        "onboard_time": 1767953121,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 256207,
+        "num": 256207,
+        "word": "轧戏开播",
+        "onboard_time": 1767957801,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212220,
+        "num": 212220,
+        "word": "同居4年生娃分手后男方索要彩礼",
+        "onboard_time": 1767950542,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245466,
+        "num": 210590,
+        "word": "轧戏",
+        "onboard_time": 1767957140,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175588,
+        "num": 175588,
+        "word": "年终奖领导30万员工1万",
+        "onboard_time": 1767939681,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250206,
+        "num": 173284,
+        "word": "檀健次不语只是一味打歌",
+        "onboard_time": 1767951622,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154218,
+        "num": 154218,
+        "word": "宋威龙 春晚彩排",
+        "onboard_time": 1767949580,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88587,
+        "num": 137363,
+        "word": "景德镇车祸肇事司机一审死缓",
+        "onboard_time": 1767923059,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124571,
+        "num": 124571,
+        "word": "顾漫五部曲豆瓣评分",
+        "onboard_time": 1767950960,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114364,
+        "num": 114364,
+        "word": "王传君现在已经这样演了吗",
+        "onboard_time": 1767952822,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301656,
+        "num": 114355,
+        "word": "廖某宇判死缓其家属冲击法庭被制止",
+        "onboard_time": 1767955700,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219008,
+        "num": 114044,
+        "word": "山姆回应充绒400克499元羽绒服卖爆",
+        "onboard_time": 1767951201,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197109,
+        "num": 113988,
+        "word": "赵丽颖工作室出图",
+        "onboard_time": 1767958461,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192247,
+        "num": 113801,
+        "word": "李幼斌去养老院看父母特别痛苦",
+        "onboard_time": 1767956122,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177758,
+        "num": 113524,
+        "word": "台独分子沈伯洋全网紧急删个人定位",
+        "onboard_time": 1767957439,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 173474,
+        "num": 113366,
+        "word": "杨洋滑雪冲粉",
+        "onboard_time": 1767957020,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129880,
+        "num": 113096,
+        "word": "声生不息唱了孙颖莎战歌",
+        "onboard_time": 1767956061,
+        "rank": 26,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 113094,
+        "num": 113094,
+        "word": "洗碗 做手膜",
+        "onboard_time": 1767947780,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119599,
+        "num": 112002,
+        "word": "韩振直播",
+        "onboard_time": 1767957561,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107176,
+        "num": 107176,
+        "word": "黄景瑜一场直播把身家搭进去了",
+        "onboard_time": 1767955041,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103210,
+        "num": 103210,
+        "word": "坚持吃煮苹果1个月身体会有这些变化",
+        "onboard_time": 1767938360,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 102024,
+        "num": 102024,
+        "word": "陈浚铭被贴在少年宫墙上",
+        "onboard_time": 1767957862,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101301,
+        "num": 101301,
+        "word": "男子唇周黑斑肠道查出200多颗息肉",
+        "onboard_time": 1767956840,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95531,
+        "num": 95531,
+        "word": "丝芭传媒被罚",
+        "onboard_time": 1767951079,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93598,
+        "num": 93598,
+        "word": "赵丽颖秦俊杰演县城父母爱情",
+        "onboard_time": 1767949041,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85617,
+        "num": 93086,
+        "word": "严禁违规开展徒步穿越等活动",
+        "onboard_time": 1767958461,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54800,
+        "num": 93081,
+        "word": "2026年度车揭晓",
+        "onboard_time": 1767952999,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 93081,
+        "num": 93080,
+        "word": "网传宋威龙赵今麦或二搭",
+        "onboard_time": 1767943580,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92181,
+        "num": 92181,
+        "word": "王一博回应情绪稳定",
+        "onboard_time": 1767956241,
+        "rank": 38,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 60902,
+        "num": 90856,
+        "word": "今晚你轧戏吗",
+        "onboard_time": 1767957439,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82892,
+        "num": 90810,
+        "word": "比浏览记录更劲爆的是计算器记录",
+        "onboard_time": 1767957981,
+        "rank": 40,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 90781,
+        "num": 90781,
+        "word": "白鹿春晚彩排路透",
+        "onboard_time": 1767946161,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80412,
+        "num": 90454,
+        "word": "知道缅因猫大但没想到这么大",
+        "onboard_time": 1767955940,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77288,
+        "num": 90306,
+        "word": "金正恩称愿与普京始终站在一起",
+        "onboard_time": 1767956481,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77240,
+        "num": 89707,
+        "word": "张信哲说完刘宇宁身份证都掉出来了",
+        "onboard_time": 1767956661,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76498,
+        "num": 89301,
+        "word": "中方回应李在明即将访日",
+        "onboard_time": 1767948981,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 74310,
+        "num": 88969,
+        "word": "狗头萝莉自曝负债650万成老赖",
+        "onboard_time": 1767947121,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 70547,
+        "num": 88818,
+        "word": "美团淘宝闪购回应外卖平台竞争调查",
+        "onboard_time": 1767958822,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 66233,
+        "num": 88165,
+        "word": "林诗栋回应3比2杜达",
+        "onboard_time": 1767958579,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65856,
+        "num": 87997,
+        "word": "总台2026年电视剧片单",
+        "onboard_time": 1767958881,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#新的一年再启新程#"
+    }
+  }
+}

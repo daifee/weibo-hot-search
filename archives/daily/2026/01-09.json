@@ -1,6 +1,6 @@
 {
   "startTime": 1767890395081,
-  "endTime": 1767958052619,
+  "endTime": 1767958954854,
   "band_list": [
     {
       "raw_hot": 8104554,
@@ -163,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 523590,
+      "num": 299429,
+      "word": "集美大学花720万元采购可乐",
+      "onboard_time": 1767953900,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 522348,
       "num": 425186,
       "word": "ICE枪杀",
@@ -185,14 +193,6 @@
       "onboard_time": 1767947780,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 472947,
-      "num": 299429,
-      "word": "集美大学花720万元采购可乐",
-      "onboard_time": 1767953900,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 456329,
@@ -233,6 +233,14 @@
       "onboard_time": 1767936682,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 415543,
+      "num": 811719,
+      "word": "取消光伏等产品增值税出口退税",
+      "onboard_time": 1767955159,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 413446,
@@ -371,12 +379,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 306406,
-      "num": 306406,
-      "word": "取消光伏等产品增值税出口退税",
-      "onboard_time": 1767955159,
-      "rank": 8,
-      "category": "国内时政"
+      "raw_hot": 301656,
+      "num": 136628,
+      "word": "廖某宇判死缓其家属冲击法庭被制止",
+      "onboard_time": 1767955700,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 300997,
@@ -401,6 +409,14 @@
       "onboard_time": 1767873022,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 284583,
+      "num": 289875,
+      "word": "喜欢车厘子和抹茶的有福了",
+      "onboard_time": 1767956539,
+      "rank": 7,
+      "category": "美食"
     },
     {
       "raw_hot": 284192,
@@ -531,6 +547,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 256207,
+      "num": 256207,
+      "word": "轧戏开播",
+      "onboard_time": 1767957801,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250591,
       "num": 61482,
       "word": "文淇被陌生男子骚扰",
@@ -547,6 +571,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 245466,
+      "num": 226960,
+      "word": "轧戏",
+      "onboard_time": 1767926660,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244419,
       "num": 244419,
       "word": "法院回应为何对廖某宇判死缓",
@@ -560,14 +592,6 @@
       "word": "海底捞已将被扔尿不湿的锅具废弃",
       "onboard_time": 1767879742,
       "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 240928,
-      "num": 136628,
-      "word": "廖某宇判死缓其家属冲击法庭被制止",
-      "onboard_time": 1767955700,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -592,14 +616,6 @@
       "word": "关晓彤千里江山图造型",
       "onboard_time": 1767935662,
       "rank": 13,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 226960,
-      "num": 226960,
-      "word": "轧戏",
-      "onboard_time": 1767926660,
-      "rank": 39,
       "category": "剧集"
     },
     {
@@ -739,12 +755,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197375,
-      "num": 289875,
-      "word": "喜欢车厘子和抹茶的有福了",
-      "onboard_time": 1767956539,
-      "rank": 7,
-      "category": "美食"
+      "raw_hot": 197109,
+      "num": 113988,
+      "word": "赵丽颖工作室出图",
+      "onboard_time": 1767958461,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 196722,
@@ -771,6 +787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192247,
+      "num": 132449,
+      "word": "李幼斌去养老院看父母特别痛苦",
+      "onboard_time": 1767956122,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192222,
       "num": 156848,
       "word": "美国夺取格陵兰岛方案价码流出",
@@ -785,14 +809,6 @@
       "onboard_time": 1767930921,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189549,
-      "num": 132449,
-      "word": "李幼斌去养老院看父母特别痛苦",
-      "onboard_time": 1767956122,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 189532,
@@ -859,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177758,
+      "num": 129365,
+      "word": "台独分子沈伯洋全网紧急删个人定位",
+      "onboard_time": 1767957439,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 177494,
       "num": 177494,
       "word": "黄景瑜关晓彤岁月有情时双人海报",
@@ -905,14 +929,6 @@
       "onboard_time": 1767946281,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 171042,
-      "num": 129365,
-      "word": "台独分子沈伯洋全网紧急删个人定位",
-      "onboard_time": 1767957439,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 168309,
@@ -1052,7 +1068,7 @@
     },
     {
       "raw_hot": 148936,
-      "num": 288142,
+      "num": 312795,
       "word": "中国抹茶反向出口日本",
       "onboard_time": 1767956122,
       "rank": 8,
@@ -1121,14 +1137,6 @@
       "onboard_time": 1767943159,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146046,
-      "num": 146046,
-      "word": "轧戏开播",
-      "onboard_time": 1767957801,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 145462,
@@ -1419,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119599,
+      "num": 112002,
+      "word": "韩振直播",
+      "onboard_time": 1767957561,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119594,
       "num": 119594,
       "word": "罚罪2局中局中局",
@@ -1699,12 +1715,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102024,
+      "num": 102024,
+      "word": "陈浚铭被贴在少年宫墙上",
+      "onboard_time": 1767957862,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101683,
       "num": 180128,
       "word": "全国首台小米定制服务交付完成",
       "onboard_time": 1767949341,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 101301,
+      "num": 101301,
+      "word": "男子唇周黑斑肠道查出200多颗息肉",
+      "onboard_time": 1767956840,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101287,
@@ -1875,14 +1907,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 95796,
-      "num": 95796,
-      "word": "男子唇周黑斑肠道查出200多颗息肉",
-      "onboard_time": 1767956840,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95783,
       "num": 175911,
       "word": "张真源腰腹纹身",
@@ -1979,6 +2003,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 92181,
+      "num": 92181,
+      "word": "王一博回应情绪稳定",
+      "onboard_time": 1767956241,
+      "rank": 37,
+      "category": "综艺,作品衍生"
+    },
+    {
       "raw_hot": 91964,
       "num": 91964,
       "word": "装减脂餐给自己装笑了",
@@ -2011,28 +2043,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 91013,
-      "num": 91013,
-      "word": "韩振直播",
-      "onboard_time": 1767957561,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 90509,
       "num": 90509,
       "word": "张继科说男队没之前稳定",
       "onboard_time": 1767927020,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 89818,
-      "num": 89818,
-      "word": "王一博回应情绪稳定",
-      "onboard_time": 1767956241,
-      "rank": 37,
-      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 89713,
@@ -2068,7 +2084,7 @@
     },
     {
       "raw_hot": 88332,
-      "num": 88332,
+      "num": 90856,
       "word": "今晚你轧戏吗",
       "onboard_time": 1767957439,
       "rank": 39,
@@ -2163,6 +2179,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 85617,
+      "num": 93086,
+      "word": "严禁违规开展徒步穿越等活动",
+      "onboard_time": 1767958461,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84859,
       "num": 84859,
       "word": "王子奇开年定档上星开播三连",
@@ -2203,6 +2227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82892,
+      "num": 90810,
+      "word": "比浏览记录更劲爆的是计算器记录",
+      "onboard_time": 1767957981,
+      "rank": 43,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 82367,
       "num": 179835,
       "word": "这是女性群像最小单位的共鸣吧",
@@ -2228,7 +2260,7 @@
     },
     {
       "raw_hot": 81425,
-      "num": 81425,
+      "num": 90454,
       "word": "知道缅因猫大但没想到这么大",
       "onboard_time": 1767955940,
       "rank": 40,
@@ -2249,14 +2281,6 @@
       "onboard_time": 1767867440,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 80981,
-      "num": 80981,
-      "word": "比浏览记录更劲爆的是计算器记录",
-      "onboard_time": 1767957981,
-      "rank": 43,
-      "category": "休闲"
     },
     {
       "raw_hot": 80517,
@@ -2323,14 +2347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 76257,
-      "num": 76257,
-      "word": "陈浚铭被贴在少年宫墙上",
-      "onboard_time": 1767957862,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 75307,
       "num": 75307,
       "word": "林诗栋3比2杜达",
@@ -2385,6 +2401,14 @@
       "onboard_time": 1767925279,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 70547,
+      "num": 88818,
+      "word": "美团淘宝闪购回应外卖平台竞争调查",
+      "onboard_time": 1767958822,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 70422,
@@ -2443,11 +2467,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66233,
+      "num": 88165,
+      "word": "林诗栋回应3比2杜达",
+      "onboard_time": 1767958579,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66154,
       "num": 175683,
       "word": "刘冲转发宋威龙赵今麦",
       "onboard_time": 1767880523,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 65856,
+      "num": 87997,
+      "word": "总台2026年电视剧片单",
+      "onboard_time": 1767958881,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -2545,6 +2585,14 @@
       "onboard_time": 1767886221,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54800,
+      "num": 219476,
+      "word": "2026年度车揭晓",
+      "onboard_time": 1767952999,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 53879,
@@ -2681,14 +2729,6 @@
       "onboard_time": 1767893536,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39215,
-      "num": 219476,
-      "word": "2026年度车揭晓",
-      "onboard_time": 1767952999,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 39095,

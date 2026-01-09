@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/09 19:27:32
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/09 19:42:34
 </p>
 </blockquote>
 <p>
@@ -1455,6 +1455,12 @@ iPhoneFold上手（热度：543056）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%86%E7%BE%8E%E5%A4%A7%E5%AD%A6%E8%8A%B1720%E4%B8%87%E5%85%83%E9%87%87%E8%B4%AD%E5%8F%AF%E4%B9%90%23" target="weibo">
+集美大学花720万元采购可乐（热度：523590）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23ICE%E6%9E%AA%E6%9D%80%23" target="weibo">
 ICE枪杀（热度：522348）
 </a>
@@ -1805,12 +1811,6 @@ TVB颁奖典礼（热度：518643）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%E8%BF%9E%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E9%83%BD%E5%B0%8A%E9%87%8D%E8%A7%82%E4%BC%97%23" target="weibo">
 骄阳似我连聊天记录都尊重观众（热度：479487）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A421%E5%B9%B4%E5%8F%AA%E6%8B%8D%E4%BA%86%E4%B8%80%E9%83%A8%E6%88%8F%23" target="weibo">
-关晓彤21年只拍了一部戏（热度：478191）
 </a>
 </li>
 
