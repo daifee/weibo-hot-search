@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/09 19:42:34
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/09 20:59:35
 </p>
 </blockquote>
 <p>
@@ -783,6 +783,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E5%85%B3%E5%87%8C%E5%9B%A0%E6%8C%A4%E7%97%98%E4%BA%8B%E4%BB%B6%E4%B8%8A%E7%81%AB%E7%83%82%E5%98%B4%E8%A7%92%23" target="weibo">
+演员关凌因挤痘事件上火烂嘴角（热度：711874）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BD%8F%E5%BA%97%E6%8B%89%E5%BC%80%E7%AA%97%E5%B8%98%E7%AB%9F%E6%98%AF%E6%B3%B3%E6%B1%A0%E6%B0%B4%E5%BA%95%23" target="weibo">
 女子住店拉开窗帘竟是泳池水底（热度：706424）
 </a>
@@ -857,6 +863,12 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%BE%B7%E9%95%87%E8%82%87%E4%BA%8B%E5%8F%B8%E6%9C%BA%E5%AE%B6%E5%B1%9E%E5%86%B2%E6%92%9E%E5%85%AC%E8%AF%89%E5%B8%AD%E8%A2%AB%E6%91%81%E4%BD%8F%23" target="weibo">
 景德镇肇事司机家属冲撞公诉席被摁住（热度：668083）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E6%BC%AB%E4%BA%94%E9%83%A8%E6%9B%B2%E5%90%B4%E5%80%A9%E5%87%BA%E6%BC%94%E4%BA%86%E4%B8%89%E9%83%A8%23" target="weibo">
+顾漫五部曲吴倩出演了三部（热度：665521）
 </a>
 </li>
 
@@ -1295,6 +1307,12 @@ Sakee Asen（热度：556725）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPhoneFold%E4%B8%8A%E6%89%8B%23" target="weibo">
 iPhoneFold上手（热度：543056）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E7%BD%91%E7%BA%A2%E9%A6%86%E9%95%BF%E4%BB%A5%E6%81%90%E5%90%93%E7%BD%AA%E8%A2%AB%E8%B5%B7%E8%AF%89%23" target="weibo">
+台湾网红馆长以恐吓罪被起诉（热度：542486）
 </a>
 </li>
 
@@ -1793,24 +1811,6 @@ TVB颁奖典礼（热度：518643）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E7%A7%B0%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%A4%AB%E5%A6%87%E7%86%9F%E7%9D%A1%E4%B8%AD%E8%A2%AB%E6%8B%96%E5%87%BA%E5%8D%A7%E5%AE%A4%23" target="weibo">
 美媒称马杜罗夫妇熟睡中被拖出卧室（热度：482457）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2327%E5%B2%81%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83%E7%B2%BE%E5%AD%90%E7%95%B8%E5%BD%A2%E7%8E%87%E8%B6%8590%25%23" target="weibo">
-27岁健身教练精子畸形率超90%（热度：480295）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%AA%9D%E5%9B%8A%E5%BA%9F%E5%85%AC%E5%8F%B8%E6%9D%A5%E4%BA%86%E6%B2%A1%E6%96%87%E5%8C%96%E7%9A%84%E9%87%8E%E4%BA%BA%23" target="weibo">
-内娱窝囊废公司来了没文化的野人（热度：479653）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%E8%BF%9E%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E9%83%BD%E5%B0%8A%E9%87%8D%E8%A7%82%E4%BC%97%23" target="weibo">
-骄阳似我连聊天记录都尊重观众（热度：479487）
 </a>
 </li>
 

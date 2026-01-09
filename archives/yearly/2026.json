@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767958954854,
+  "endTime": 1767963575644,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 1156450,
-      "num": 295205,
+      "num": 521995,
       "word": "檀健次文案翻译",
       "onboard_time": 1767953121,
       "rank": 10,
@@ -1027,6 +1027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 711874,
+      "num": 232494,
+      "word": "演员关凌因挤痘事件上火烂嘴角",
+      "onboard_time": 1767960921,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 706424,
       "num": 819667,
       "word": "女子住店拉开窗帘竟是泳池水底",
@@ -1129,6 +1137,14 @@
       "onboard_time": 1767931161,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 665521,
+      "num": 370293,
+      "word": "顾漫五部曲吴倩出演了三部",
+      "onboard_time": 1767959960,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 663511,
@@ -1713,6 +1729,14 @@
       "onboard_time": 1767505283,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 542486,
+      "num": 1086797,
+      "word": "台湾网红馆长以恐吓罪被起诉",
+      "onboard_time": 1767959361,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 541764,
@@ -2377,30 +2401,6 @@
       "onboard_time": 1767451766,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 480295,
-      "num": 219524,
-      "word": "27岁健身教练精子畸形率超90%",
-      "onboard_time": 1767675021,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 479653,
-      "num": 189276,
-      "word": "内娱窝囊废公司来了没文化的野人",
-      "onboard_time": 1767615680,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 479487,
-      "num": 479487,
-      "word": "骄阳似我连聊天记录都尊重观众",
-      "onboard_time": 1767606922,
-      "rank": 46,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [

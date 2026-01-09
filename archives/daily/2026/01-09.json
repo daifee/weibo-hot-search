@@ -1,6 +1,6 @@
 {
   "startTime": 1767890395081,
-  "endTime": 1767958954854,
+  "endTime": 1767963575644,
   "band_list": [
     {
       "raw_hot": 8104554,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1156450,
-      "num": 295205,
+      "num": 521995,
       "word": "檀健次文案翻译",
       "onboard_time": 1767953121,
       "rank": 10,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 711874,
+      "num": 232494,
+      "word": "演员关凌因挤痘事件上火烂嘴角",
+      "onboard_time": 1767960921,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 698379,
       "num": 829699,
       "word": "中国人花六十多万买下北海道三套房",
@@ -99,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 665521,
+      "num": 370293,
+      "word": "顾漫五部曲吴倩出演了三部",
+      "onboard_time": 1767959960,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 647517,
       "num": 328423,
       "word": "张雪峰发博纪念做梦都不敢梦的一天",
@@ -129,6 +145,14 @@
       "onboard_time": 1767947121,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 542486,
+      "num": 1086797,
+      "word": "台湾网红馆长以恐吓罪被起诉",
+      "onboard_time": 1767959361,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 540536,
@@ -211,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 441999,
+      "num": 798987,
+      "word": "轧戏",
+      "onboard_time": 1767926660,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 431862,
       "num": 431862,
       "word": "液断7天瘦了13.2斤",
@@ -241,6 +273,14 @@
       "onboard_time": 1767955159,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 413900,
+      "num": 231825,
+      "word": "今天的赵丽颖梦回明兰了",
+      "onboard_time": 1767960439,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 413446,
@@ -347,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 347024,
+      "num": 206078,
+      "word": "赵丽颖工作室出图",
+      "onboard_time": 1767958461,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343243,
       "num": 159780,
       "word": "刘美含说的是谁",
@@ -380,7 +428,7 @@
     },
     {
       "raw_hot": 301656,
-      "num": 136628,
+      "num": 167311,
       "word": "廖某宇判死缓其家属冲击法庭被制止",
       "onboard_time": 1767955700,
       "rank": 37,
@@ -571,14 +619,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 245466,
-      "num": 226960,
-      "word": "轧戏",
-      "onboard_time": 1767926660,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 244419,
       "num": 244419,
       "word": "法院回应为何对廖某宇判死缓",
@@ -609,6 +649,14 @@
       "onboard_time": 1767943041,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 230548,
+      "num": 230548,
+      "word": "猫的树真的很会拍",
+      "onboard_time": 1767962240,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 227454,
@@ -707,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205780,
+      "num": 205780,
+      "word": "李幼斌去养老院看父母特别痛苦",
+      "onboard_time": 1767956122,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204466,
       "num": 161025,
       "word": "腾讯娱乐白皮书",
@@ -755,14 +811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197109,
-      "num": 113988,
-      "word": "赵丽颖工作室出图",
-      "onboard_time": 1767958461,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196722,
       "num": 159476,
       "word": "华策用10年拍了一部历史古装剧",
@@ -785,14 +833,6 @@
       "onboard_time": 1767951321,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192247,
-      "num": 132449,
-      "word": "李幼斌去养老院看父母特别痛苦",
-      "onboard_time": 1767956122,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 192222,
@@ -929,6 +969,14 @@
       "onboard_time": 1767946281,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169630,
+      "num": 169630,
+      "word": "卢昱晓好美",
+      "onboard_time": 1767962360,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 168309,
@@ -1137,6 +1185,14 @@
       "onboard_time": 1767943159,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146104,
+      "num": 146104,
+      "word": "妻子整理遗物发现亡夫转情人1900万",
+      "onboard_time": 1767963080,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145462,
@@ -1483,6 +1539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115511,
+      "num": 115511,
+      "word": "轧戏有27场吻戏",
+      "onboard_time": 1767961220,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114964,
       "num": 114964,
       "word": "果然对王嘉尔的人脉一无所知",
@@ -1497,6 +1561,14 @@
       "onboard_time": 1767922579,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 113271,
+      "num": 113271,
+      "word": "第一次见男主用开枪哄女主的",
+      "onboard_time": 1767962424,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 113171,
@@ -1569,6 +1641,14 @@
       "onboard_time": 1767889278,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109388,
+      "num": 109388,
+      "word": "俄罗斯报复乌克兰",
+      "onboard_time": 1767959421,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 108131,
@@ -1707,6 +1787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 102908,
+      "num": 102908,
+      "word": "骄阳似我大结局",
+      "onboard_time": 1767960680,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102047,
       "num": 102047,
       "word": "周深2025男歌手口碑热度双第一",
@@ -1728,6 +1816,14 @@
       "word": "全国首台小米定制服务交付完成",
       "onboard_time": 1767949341,
       "rank": 45,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 101554,
+      "num": 109585,
+      "word": "赵长江称智界V9三年之内难有对手",
+      "onboard_time": 1767962960,
+      "rank": 29,
       "category": "汽车"
     },
     {
@@ -1843,6 +1939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97638,
+      "num": 97638,
+      "word": "比浏览记录更劲爆的是计算器记录",
+      "onboard_time": 1767957981,
+      "rank": 43,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 97593,
       "num": 180459,
       "word": "吴千语娜然让小说女主有了脸",
@@ -1857,6 +1961,14 @@
       "onboard_time": 1767932061,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97126,
+      "num": 97126,
+      "word": "研究称外星人或用脉冲星通信",
+      "onboard_time": 1767961761,
+      "rank": 37,
+      "category": "科学科普"
     },
     {
       "raw_hot": 96475,
@@ -1905,6 +2017,14 @@
       "onboard_time": 1767940760,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 95832,
+      "num": 95832,
+      "word": "种田一年赚了38万元年终奖",
+      "onboard_time": 1767959240,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95783,
@@ -1979,6 +2099,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 93480,
+      "num": 93480,
+      "word": "张含韵分享减肥心得",
+      "onboard_time": 1767962121,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93283,
       "num": 93283,
       "word": "武大靖退役泪洒节目现场",
@@ -2049,6 +2177,14 @@
       "onboard_time": 1767927020,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89832,
+      "num": 89832,
+      "word": "彭小苒已争气争气再争气",
+      "onboard_time": 1767963382,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 89713,
@@ -2227,14 +2363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82892,
-      "num": 90810,
-      "word": "比浏览记录更劲爆的是计算器记录",
-      "onboard_time": 1767957981,
-      "rank": 43,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 82367,
       "num": 179835,
       "word": "这是女性群像最小单位的共鸣吧",
@@ -2289,6 +2417,14 @@
       "onboard_time": 1767866000,
       "rank": 9,
       "category": "美食"
+    },
+    {
+      "raw_hot": 79041,
+      "num": 86634,
+      "word": "中国唱将",
+      "onboard_time": 1767963441,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 78223,
@@ -2347,11 +2483,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76460,
+      "num": 86633,
+      "word": "留几手称童锦程被算计了",
+      "onboard_time": 1767959600,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75307,
       "num": 75307,
       "word": "林诗栋3比2杜达",
       "onboard_time": 1767952341,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 74838,
+      "num": 87897,
+      "word": "蒯曼vs早田希娜",
+      "onboard_time": 1767963501,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -2459,6 +2611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 68286,
+      "num": 86633,
+      "word": "魔芋爽我好想你",
+      "onboard_time": 1767960380,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 66660,
       "num": 66660,
       "word": "樊振东德国乒乓杂志封面",
@@ -2481,6 +2641,14 @@
       "onboard_time": 1767880523,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 66072,
+      "num": 86633,
+      "word": "怪不得古代一交手就知道门派了",
+      "onboard_time": 1767961161,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 65856,
@@ -2651,6 +2819,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 46234,
+      "num": 97747,
+      "word": "南通市第一人民医院致歉",
+      "onboard_time": 1767963441,
+      "rank": 35,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 46105,
       "num": 85049,
       "word": "医保个人账户跨省共济提速",
@@ -2731,6 +2907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39595,
+      "num": 94310,
+      "word": "男子自述先后被4家医院误诊癌症",
+      "onboard_time": 1767962662,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39095,
       "num": 95060,
       "word": "胖东来2025年发放委屈奖39.2万",
@@ -2779,6 +2963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33020,
+      "num": 109409,
+      "word": "女医学生遭前男友杀害案将宣判",
+      "onboard_time": 1767962240,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29586,
       "num": 70322,
       "word": "王源郑州吃播vlog",
@@ -2793,6 +2985,14 @@
       "onboard_time": 1767892217,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 28555,
+      "num": 205793,
+      "word": "医院通报女子看胃病死于心脏手术",
+      "onboard_time": 1767963201,
+      "rank": 17,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 27577,

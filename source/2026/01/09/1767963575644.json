@@ -1,0 +1,410 @@
+{
+  "runTime": 1767963575644,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 542486,
+        "num": 1086797,
+        "word": "台湾网红馆长以恐吓罪被起诉",
+        "onboard_time": 1767959361,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441999,
+        "num": 798987,
+        "word": "轧戏",
+        "onboard_time": 1767957140,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44930,
+        "num": 634004,
+        "word": "手机数码国补超72%买中高端机",
+        "onboard_time": 1767948442,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 721539,
+        "num": 521995,
+        "word": "檀健次文案翻译",
+        "onboard_time": 1767953121,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 400307,
+        "num": 400307,
+        "word": "住房公积金制度改革",
+        "onboard_time": 1767943340,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 665521,
+        "num": 370293,
+        "word": "顾漫五部曲吴倩出演了三部",
+        "onboard_time": 1767959960,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254342,
+        "num": 254342,
+        "word": "轧戏开播",
+        "onboard_time": 1767957801,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237124,
+        "num": 237124,
+        "word": "胖东来回应羽绒服进价303售价393",
+        "onboard_time": 1767951142,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233261,
+        "num": 233261,
+        "word": "喜欢车厘子和抹茶的有福了",
+        "onboard_time": 1767956539,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 150775,
+        "num": 232678,
+        "word": "取消光伏等产品增值税出口退税",
+        "onboard_time": 1767955159,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 711874,
+        "num": 232494,
+        "word": "演员关凌因挤痘事件上火烂嘴角",
+        "onboard_time": 1767960921,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413900,
+        "num": 231825,
+        "word": "今天的赵丽颖梦回明兰了",
+        "onboard_time": 1767960439,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276346,
+        "num": 230639,
+        "word": "液断7天瘦了13.2斤",
+        "onboard_time": 1767949820,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230548,
+        "num": 230548,
+        "word": "猫的树真的很会拍",
+        "onboard_time": 1767962240,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217405,
+        "num": 217405,
+        "word": "集美大学花720万元采购可乐",
+        "onboard_time": 1767953900,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206116,
+        "num": 206116,
+        "word": "檀健次不语只是一味打歌",
+        "onboard_time": 1767951622,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 347024,
+        "num": 206078,
+        "word": "赵丽颖工作室出图",
+        "onboard_time": 1767958461,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28555,
+        "num": 205793,
+        "word": "医院通报女子看胃病死于心脏手术",
+        "onboard_time": 1767963201,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 205780,
+        "num": 205780,
+        "word": "李幼斌去养老院看父母特别痛苦",
+        "onboard_time": 1767956122,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169630,
+        "num": 169630,
+        "word": "卢昱晓好美",
+        "onboard_time": 1767962360,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231427,
+        "num": 167311,
+        "word": "廖某宇判死缓其家属冲击法庭被制止",
+        "onboard_time": 1767955700,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197096,
+        "num": 160518,
+        "word": "山姆回应充绒400克499元羽绒服卖爆",
+        "onboard_time": 1767951201,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152872,
+        "num": 152872,
+        "word": "同居4年生娃分手后男方索要彩礼",
+        "onboard_time": 1767950542,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146104,
+        "num": 146104,
+        "word": "妻子整理遗物发现亡夫转情人1900万",
+        "onboard_time": 1767963080,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124666,
+        "num": 124666,
+        "word": "杨洋滑雪冲粉",
+        "onboard_time": 1767957020,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120554,
+        "num": 120554,
+        "word": "年终奖领导30万员工1万",
+        "onboard_time": 1767939681,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115511,
+        "num": 115511,
+        "word": "轧戏有27场吻戏",
+        "onboard_time": 1767961220,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113271,
+        "num": 113271,
+        "word": "第一次见男主用开枪哄女主的",
+        "onboard_time": 1767962424,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101610,
+        "num": 110385,
+        "word": "台独分子沈伯洋全网紧急删个人定位",
+        "onboard_time": 1767957439,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101554,
+        "num": 109585,
+        "word": "赵长江称智界V9三年之内难有对手",
+        "onboard_time": 1767962960,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 33020,
+        "num": 109409,
+        "word": "女医学生遭前男友杀害案将宣判",
+        "onboard_time": 1767962240,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109388,
+        "num": 109388,
+        "word": "俄罗斯报复乌克兰",
+        "onboard_time": 1767959421,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102908,
+        "num": 102908,
+        "word": "骄阳似我大结局",
+        "onboard_time": 1767960680,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101792,
+        "num": 101792,
+        "word": "宋威龙 春晚彩排",
+        "onboard_time": 1767949580,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98556,
+        "num": 98556,
+        "word": "洗碗 做手膜",
+        "onboard_time": 1767947780,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46234,
+        "num": 97747,
+        "word": "南通市第一人民医院致歉",
+        "onboard_time": 1767963441,
+        "rank": 35,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 97638,
+        "num": 97638,
+        "word": "比浏览记录更劲爆的是计算器记录",
+        "onboard_time": 1767957981,
+        "rank": 36,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 97126,
+        "num": 97126,
+        "word": "研究称外星人或用脉冲星通信",
+        "onboard_time": 1767961761,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 95832,
+        "num": 95832,
+        "word": "种田一年赚了38万元年终奖",
+        "onboard_time": 1767959240,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39595,
+        "num": 94310,
+        "word": "男子自述先后被4家医院误诊癌症",
+        "onboard_time": 1767962662,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93480,
+        "num": 93480,
+        "word": "张含韵分享减肥心得",
+        "onboard_time": 1767962121,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93103,
+        "num": 93103,
+        "word": "男子唇周黑斑肠道查出200多颗息肉",
+        "onboard_time": 1767956840,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91474,
+        "num": 91474,
+        "word": "声生不息唱了孙颖莎战歌",
+        "onboard_time": 1767956061,
+        "rank": 42,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 89832,
+        "num": 89832,
+        "word": "彭小苒已争气争气再争气",
+        "onboard_time": 1767963382,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74838,
+        "num": 87897,
+        "word": "蒯曼vs早田希娜",
+        "onboard_time": 1767963501,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86634,
+        "num": 86634,
+        "word": "白鹿春晚彩排路透",
+        "onboard_time": 1767946161,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79041,
+        "num": 86634,
+        "word": "中国唱将",
+        "onboard_time": 1767963441,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68286,
+        "num": 86633,
+        "word": "魔芋爽我好想你",
+        "onboard_time": 1767960380,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76460,
+        "num": 86633,
+        "word": "留几手称童锦程被算计了",
+        "onboard_time": 1767959600,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66072,
+        "num": 86633,
+        "word": "怪不得古代一交手就知道门派了",
+        "onboard_time": 1767961161,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#新的一年再启新程#"
+    }
+  }
+}
