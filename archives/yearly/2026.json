@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767952282210,
+  "endTime": 1767954786658,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -657,6 +657,14 @@
       "onboard_time": 1767664821,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 861312,
+      "num": 295205,
+      "word": "檀健次文案翻译",
+      "onboard_time": 1767953121,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 860920,
@@ -1412,7 +1420,7 @@
     },
     {
       "raw_hot": 595132,
-      "num": 180602,
+      "num": 215705,
       "word": "狗头萝莉自曝负债650万成老赖",
       "onboard_time": 1767947121,
       "rank": 21,
@@ -1761,6 +1769,14 @@
       "onboard_time": 1767483320,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 535677,
+      "num": 827955,
+      "word": "胖东来回应羽绒服进价303售价393",
+      "onboard_time": 1767951142,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 535376,
@@ -2384,22 +2400,6 @@
       "word": "关晓彤21年只拍了一部戏",
       "onboard_time": 1767703942,
       "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 477318,
-      "num": 238020,
-      "word": "产后遭家暴女子临产时只有生子的钱",
-      "onboard_time": 1767835221,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 476971,
-      "num": 181509,
-      "word": "蔡徐坤上海",
-      "onboard_time": 1767849742,
-      "rank": 22,
       "category": "艺人"
     }
   ],
