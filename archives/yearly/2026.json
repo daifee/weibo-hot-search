@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767915651766,
+  "endTime": 1767924649187,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -17,6 +17,14 @@
       "onboard_time": 1767432625,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 4872287,
+      "num": 6122287,
+      "word": "景德镇车祸肇事司机一审死缓",
+      "onboard_time": 1767923059,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 3655537,
@@ -2019,6 +2027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 504403,
+      "num": 117097,
+      "word": "红果年度短剧",
+      "onboard_time": 1767914478,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 504016,
       "num": 205768,
       "word": "张真源腰腹纹身",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767277642,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 461139,
-      "num": 319770,
-      "word": "林屿森女儿 李雾女儿",
-      "onboard_time": 1767751401,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 459417,
-      "num": 217312,
-      "word": "霍启仁妻子公开婚礼现场照",
-      "onboard_time": 1767591922,
-      "rank": 28,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
