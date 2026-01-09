@@ -1,6 +1,6 @@
 {
   "startTime": 1767976730727,
-  "endTime": 1767987669108,
+  "endTime": 1767990816777,
   "band_list": [
     {
       "raw_hot": 853653,
@@ -529,6 +529,14 @@
       "onboard_time": 1767963441,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11881,
+      "num": 20977,
+      "word": "美国宣称扣押一艘油轮",
+      "onboard_time": 1767969321,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 10539,

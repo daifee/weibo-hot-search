@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/10 00:38:50 ~ 2026/01/10 03:41:09
+本榜单时间：2026/01/10 00:38:50 ~ 2026/01/10 04:33:36
 </p>
 </blockquote>
 <p>
@@ -407,6 +407,12 @@ TF家族2026新年音乐会荣耀（热度：51372）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%94%B1%E5%B0%86%23" target="weibo">
 中国唱将（热度：14457）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AE%A3%E7%A7%B0%E6%89%A3%E6%8A%BC%E4%B8%80%E8%89%98%E6%B2%B9%E8%BD%AE%23" target="weibo">
+美国宣称扣押一艘油轮（热度：11881）
 </a>
 </li>
 
