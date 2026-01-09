@@ -1,0 +1,410 @@
+{
+  "runTime": 1767926034513,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8104554,
+        "num": 9354554,
+        "word": "景德镇车祸肇事司机一审死缓",
+        "onboard_time": 1767923059,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246014,
+        "num": 1702909,
+        "word": "中产涌入超市抢300元羽绒服",
+        "onboard_time": 1767882623,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36451,
+        "num": 1362764,
+        "word": "医保新举措专治缴费排长队",
+        "onboard_time": 1767878182,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 766973,
+        "num": 766973,
+        "word": "一家三口被撞亡家属拒绝卖房",
+        "onboard_time": 1767915799,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275106,
+        "num": 275106,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1767925100,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185169,
+        "num": 185169,
+        "word": "当人在狗咖里摔倒时",
+        "onboard_time": 1767916520,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147691,
+        "num": 147691,
+        "word": "司机诱导就餐4菜1868元被罚1.5万",
+        "onboard_time": 1767919822,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124840,
+        "num": 147476,
+        "word": "高校建议高数成绩落后家长陪读",
+        "onboard_time": 1767890597,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99003,
+        "num": 147026,
+        "word": "一翼装飞行员跃下不到10秒撞上岩石",
+        "onboard_time": 1767881542,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92033,
+        "num": 146797,
+        "word": "苹果养生吃法不只煮水",
+        "onboard_time": 1767887421,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 444932,
+        "num": 145918,
+        "word": "红果年度短剧",
+        "onboard_time": 1767914478,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319859,
+        "num": 145782,
+        "word": "王安宇吃饭奶奶的梦中情孙",
+        "onboard_time": 1767914658,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145462,
+        "num": 145462,
+        "word": "2026总台央视片单抢先看",
+        "onboard_time": 1767925520,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143833,
+        "num": 143833,
+        "word": "海底捞已将被扔尿不湿的锅具废弃",
+        "onboard_time": 1767879742,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135560,
+        "num": 135560,
+        "word": "男子杀前女友哥哥还发血泊照威胁",
+        "onboard_time": 1767915799,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123989,
+        "num": 123989,
+        "word": "谍报上不封顶",
+        "onboard_time": 1767914658,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107666,
+        "num": 107666,
+        "word": "得闲谨制票房3.93亿",
+        "onboard_time": 1767922579,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97100,
+        "num": 97100,
+        "word": "宋威龙赵今麦回复刘冲",
+        "onboard_time": 1767915799,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 91355,
+        "num": 91355,
+        "word": "千里江山图",
+        "onboard_time": 1767880942,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81314,
+        "num": 91193,
+        "word": "张凌赫背林允",
+        "onboard_time": 1767882743,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218275,
+        "num": 91028,
+        "word": "刘美含说的是谁",
+        "onboard_time": 1767925700,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166917,
+        "num": 90601,
+        "word": "谁又惹迪丽热巴高兴了",
+        "onboard_time": 1767918319,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146063,
+        "num": 90250,
+        "word": "于正说的85花顶流是张慧雯",
+        "onboard_time": 1767914658,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134356,
+        "num": 89890,
+        "word": "王鹤棣让老师代表他出席捐赠仪式",
+        "onboard_time": 1767922160,
+        "rank": 23,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 126800,
+        "num": 89627,
+        "word": "每天1个苹果身体会发生什么变化",
+        "onboard_time": 1767916938,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115686,
+        "num": 89186,
+        "word": "人与人的关系只有一次",
+        "onboard_time": 1767916158,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106778,
+        "num": 88843,
+        "word": "男子看羊圈监控发现妻子婚外情8年",
+        "onboard_time": 1767878722,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76761,
+        "num": 88714,
+        "word": "上海移动已报案",
+        "onboard_time": 1767883822,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88509,
+        "num": 88509,
+        "word": "超自然行动组",
+        "onboard_time": 1767925760,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87536,
+        "num": 87536,
+        "word": "没开情根的具象化",
+        "onboard_time": 1767920840,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83239,
+        "num": 83239,
+        "word": "一家三口被撞亡家属路过现场未停留",
+        "onboard_time": 1767925760,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81328,
+        "num": 81328,
+        "word": "赵今麦新剧会说敢说",
+        "onboard_time": 1767924199,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79257,
+        "num": 79257,
+        "word": "短剧版仙剑三",
+        "onboard_time": 1767887840,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78576,
+        "num": 78576,
+        "word": "玉茗茶骨收视第一",
+        "onboard_time": 1767915739,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77327,
+        "num": 77327,
+        "word": "德国总统发出呼吁",
+        "onboard_time": 1767915739,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71825,
+        "num": 71825,
+        "word": "新一代小米SU7申报图曝光",
+        "onboard_time": 1767924078,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 70653,
+        "num": 70653,
+        "word": "马斯克一句话引爆脑机接口行情",
+        "onboard_time": 1767925279,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 66660,
+        "num": 66660,
+        "word": "樊振东德国乒乓杂志封面",
+        "onboard_time": 1767925040,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66146,
+        "num": 66146,
+        "word": "王橹杰 这次不是草莓蛋糕了",
+        "onboard_time": 1767886341,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63512,
+        "num": 63512,
+        "word": "41岁二孩妈妈回应一年减重60斤",
+        "onboard_time": 1767916760,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63150,
+        "num": 63150,
+        "word": "歼20水墨皮肤帅出圈",
+        "onboard_time": 1767925821,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 63060,
+        "num": 63060,
+        "word": "41岁妈妈狠下心戒奶茶开始锻炼",
+        "onboard_time": 1767924500,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62932,
+        "num": 62932,
+        "word": "伊朗外长称做好准备应对战争",
+        "onboard_time": 1767921680,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 63046,
+        "num": 62835,
+        "word": "再也不去理发店洗头了",
+        "onboard_time": 1767888740,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62392,
+        "num": 62392,
+        "word": "日本变得越来越危险",
+        "onboard_time": 1767872001,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 61625,
+        "num": 61625,
+        "word": "企业不满高校专家评审拉黑学校学生",
+        "onboard_time": 1767925223,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53877,
+        "num": 53877,
+        "word": "辽宁规定农村办席百人以上需留菜样",
+        "onboard_time": 1767921559,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53696,
+        "num": 53696,
+        "word": "云初妈咪",
+        "onboard_time": 1767922279,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52507,
+        "num": 52507,
+        "word": "中国稀土断供或致日本GDP下降",
+        "onboard_time": 1767917961,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 51275,
+        "num": 51275,
+        "word": "罚罪2",
+        "onboard_time": 1767886761,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央政治局常委会召开会议#"
+    }
+  }
+}

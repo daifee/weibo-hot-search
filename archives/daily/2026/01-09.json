@@ -1,10 +1,10 @@
 {
   "startTime": 1767890395081,
-  "endTime": 1767924649187,
+  "endTime": 1767926034513,
   "band_list": [
     {
-      "raw_hot": 4872287,
-      "num": 6122287,
+      "raw_hot": 8104554,
+      "num": 9354554,
       "word": "景德镇车祸肇事司机一审死缓",
       "onboard_time": 1767923059,
       "rank": 0,
@@ -17,6 +17,14 @@
       "onboard_time": 1767886341,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 766973,
+      "num": 766973,
+      "word": "一家三口被撞亡家属拒绝卖房",
+      "onboard_time": 1767915799,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 698379,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 504403,
-      "num": 117097,
+      "num": 145918,
       "word": "红果年度短剧",
       "onboard_time": 1767914478,
       "rank": 10,
@@ -51,16 +59,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 376447,
-      "num": 116431,
-      "word": "一家三口被撞亡家属拒绝卖房",
-      "onboard_time": 1767915799,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 365511,
-      "num": 116072,
+      "num": 145782,
       "word": "王安宇吃饭奶奶的梦中情孙",
       "onboard_time": 1767914658,
       "rank": 15,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 293528,
-      "num": 1287199,
+      "num": 1702909,
       "word": "中产涌入超市抢300元羽绒服",
       "onboard_time": 1767882623,
       "rank": 6,
@@ -105,6 +105,14 @@
       "onboard_time": 1767873022,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 275106,
+      "num": 275106,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1767925100,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 250591,
@@ -140,11 +148,19 @@
     },
     {
       "raw_hot": 219008,
-      "num": 125415,
+      "num": 185169,
       "word": "当人在狗咖里摔倒时",
       "onboard_time": 1767916520,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 218275,
+      "num": 91028,
+      "word": "刘美含说的是谁",
+      "onboard_time": 1767925700,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 201820,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 166763,
-      "num": 114475,
+      "num": 135560,
       "word": "男子杀前女友哥哥还发血泊照威胁",
       "onboard_time": 1767915799,
       "rank": 14,
@@ -195,12 +211,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147691,
+      "num": 147691,
+      "word": "司机诱导就餐4菜1868元被罚1.5万",
+      "onboard_time": 1767919822,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147531,
       "num": 217733,
       "word": "Manus创始人",
       "onboard_time": 1767886761,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145462,
+      "num": 145462,
+      "word": "2026总台央视片单抢先看",
+      "onboard_time": 1767925520,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 140089,
@@ -227,6 +259,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134356,
+      "num": 89890,
+      "word": "王鹤棣让老师代表他出席捐赠仪式",
+      "onboard_time": 1767922160,
+      "rank": 26,
+      "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 126800,
+      "num": 93529,
+      "word": "每天1个苹果身体会发生什么变化",
+      "onboard_time": 1767916938,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 126644,
       "num": 175733,
       "word": "多名半裸男模在商场走秀被质疑擦边",
@@ -235,20 +283,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122799,
-      "num": 114044,
+      "raw_hot": 123989,
+      "num": 123989,
       "word": "谍报上不封顶",
       "onboard_time": 1767914658,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121675,
-      "num": 93529,
-      "word": "每天1个苹果身体会发生什么变化",
-      "onboard_time": 1767916938,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 120284,
@@ -259,7 +299,7 @@
       "category": "数码"
     },
     {
-      "raw_hot": 114626,
+      "raw_hot": 115686,
       "num": 93081,
       "word": "人与人的关系只有一次",
       "onboard_time": 1767916158,
@@ -371,12 +411,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 93202,
-      "num": 118571,
-      "word": "司机诱导就餐4菜1868元被罚1.5万",
-      "onboard_time": 1767919822,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 91355,
+      "num": 175826,
+      "word": "千里江山图",
+      "onboard_time": 1767880942,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 88509,
+      "num": 88509,
+      "word": "超自然行动组",
+      "onboard_time": 1767925760,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 88112,
@@ -403,12 +451,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 87338,
-      "num": 87338,
-      "word": "王鹤棣让老师代表他出席捐赠仪式",
-      "onboard_time": 1767922160,
-      "rank": 26,
-      "category": "民生新闻,艺人"
+      "raw_hot": 87536,
+      "num": 87536,
+      "word": "没开情根的具象化",
+      "onboard_time": 1767920840,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 84018,
@@ -419,20 +467,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83239,
+      "num": 83239,
+      "word": "一家三口被撞亡家属路过现场未停留",
+      "onboard_time": 1767925760,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81328,
+      "num": 81328,
+      "word": "赵今麦新剧会说敢说",
+      "onboard_time": 1767924199,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 81170,
       "num": 175776,
       "word": "女子买洗碗机老公嫌水电贵把家砸了",
       "onboard_time": 1767867440,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 81147,
-      "num": 81147,
-      "word": "没开情根的具象化",
-      "onboard_time": 1767920840,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 80517,
@@ -443,14 +499,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 79930,
-      "num": 175826,
-      "word": "千里江山图",
-      "onboard_time": 1767880942,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 77712,
       "num": 77712,
       "word": "海底捞尿布入锅背后是监护缺位",
@@ -459,20 +507,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74448,
-      "num": 74448,
+      "raw_hot": 77327,
+      "num": 77327,
       "word": "德国总统发出呼吁",
       "onboard_time": 1767915739,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 74135,
-      "num": 74135,
-      "word": "赵今麦新剧会说敢说",
-      "onboard_time": 1767924199,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 71968,
@@ -491,6 +531,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 71825,
+      "num": 71825,
+      "word": "新一代小米SU7申报图曝光",
+      "onboard_time": 1767924078,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 70653,
+      "num": 70653,
+      "word": "马斯克一句话引爆脑机接口行情",
+      "onboard_time": 1767925279,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 69592,
       "num": 175166,
       "word": "伊能静57岁身材",
@@ -505,6 +561,14 @@
       "onboard_time": 1767916578,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 66660,
+      "num": 66660,
+      "word": "樊振东德国乒乓杂志封面",
+      "onboard_time": 1767925040,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 66154,
@@ -531,6 +595,30 @@
       "category": "财经"
     },
     {
+      "raw_hot": 63150,
+      "num": 63150,
+      "word": "歼20水墨皮肤帅出圈",
+      "onboard_time": 1767925821,
+      "rank": 40,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 63060,
+      "num": 63060,
+      "word": "41岁妈妈狠下心戒奶茶开始锻炼",
+      "onboard_time": 1767924500,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61625,
+      "num": 61625,
+      "word": "企业不满高校专家评审拉黑学校学生",
+      "onboard_time": 1767925223,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61053,
       "num": 61053,
       "word": "ICE枪击事件引发大规模抗议",
@@ -545,14 +633,6 @@
       "onboard_time": 1767915259,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59475,
-      "num": 59475,
-      "word": "新一代小米SU7申报图曝光",
-      "onboard_time": 1767924078,
-      "rank": 40,
-      "category": "汽车"
     },
     {
       "raw_hot": 58168,
@@ -579,14 +659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 53962,
-      "num": 53962,
-      "word": "41岁妈妈狠下心戒奶茶开始锻炼",
-      "onboard_time": 1767924500,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53879,
       "num": 53879,
       "word": "辽宁规定农村办席百人以上需留菜样",
@@ -611,7 +683,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 47307,
+      "raw_hot": 51275,
       "num": 175402,
       "word": "罚罪2",
       "onboard_time": 1767886761,
@@ -636,7 +708,7 @@
     },
     {
       "raw_hot": 45514,
-      "num": 1003384,
+      "num": 1362764,
       "word": "医保新举措专治缴费排长队",
       "onboard_time": 1767878182,
       "rank": 2,
