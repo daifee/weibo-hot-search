@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/09 00:39:55 ~ 2026/01/09 12:07:05
+本榜单时间：2026/01/09 00:39:55 ~ 2026/01/09 12:16:28
 </p>
 </blockquote>
 <p>
@@ -70,7 +70,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%98%B2%E7%AC%91%E5%90%8C%E4%BA%8B%E7%9A%84%E5%A5%96%E7%89%8C%E7%A0%B4%E7%BB%93%E6%9E%9C%E5%8F%91%E7%8E%B0%E6%98%AF%E7%BA%AF%E9%87%91%E7%9A%84%23" target="weibo">
-嘲笑同事的奖牌破结果发现是纯金的（热度：498044）
+嘲笑同事的奖牌破结果发现是纯金的（热度：503473）
 </a>
 </li>
 
@@ -123,6 +123,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E4%B8%9C%E7%85%AE%20%E9%9E%8B%E5%BA%95%E8%B1%86%E5%B9%B2%23" target="weibo">
+关东煮 鞋底豆干（热度：330936）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BA%A7%E6%B6%8C%E5%85%A5%E8%B6%85%E5%B8%82%E6%8A%A2300%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%23" target="weibo">
 中产涌入超市抢300元羽绒服（热度：293528）
 </a>
@@ -135,14 +141,20 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E4%B8%9C%E7%85%AE%20%E9%9E%8B%E5%BA%95%E8%B1%86%E5%B9%B2%23" target="weibo">
-关东煮 鞋底豆干（热度：280749）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B4%A9%E5%9D%8F%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%23" target="weibo">
+崩坏星穹铁道（热度：275106）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B4%A9%E5%9D%8F%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%23" target="weibo">
-崩坏星穹铁道（热度：275106）
+<a href="https://s.weibo.com/weibo?q=%23Faker%E4%B8%BE%E6%8A%A5%E8%B7%AF%E4%BA%BA%E6%B8%B8%E6%88%8FID%23" target="weibo">
+Faker举报路人游戏ID（热度：271382）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%BE%B7%E9%95%87%E8%82%87%E4%BA%8B%E5%8F%B8%E6%9C%BA%E5%AE%B6%E5%B1%9E%E5%86%B2%E6%92%9E%E5%85%AC%E8%AF%89%E5%B8%AD%E8%A2%AB%E6%91%81%E4%BD%8F%23" target="weibo">
+景德镇肇事司机家属冲撞公诉席被摁住（热度：259393）
 </a>
 </li>
 
@@ -161,12 +173,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%B7%B2%E5%B0%86%E8%A2%AB%E6%89%94%E5%B0%BF%E4%B8%8D%E6%B9%BF%E7%9A%84%E9%94%85%E5%85%B7%E5%BA%9F%E5%BC%83%23" target="weibo">
 海底捞已将被扔尿不湿的锅具废弃（热度：242034）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Faker%E4%B8%BE%E6%8A%A5%E8%B7%AF%E4%BA%BA%E6%B8%B8%E6%88%8FID%23" target="weibo">
-Faker举报路人游戏ID（热度：224061）
 </a>
 </li>
 
@@ -190,7 +196,7 @@ Faker举报路人游戏ID（热度：224061）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%AF%8F%E5%A4%A9%E4%B9%85%E7%A9%BF%E5%85%89%E8%85%BF%E7%A5%9E%E5%99%A8%E9%97%B7%E5%87%BA%E5%A6%87%E7%A7%91%E7%97%85%23" target="weibo">
-女子每天久穿光腿神器闷出妇科病（热度：206580）
+女子每天久穿光腿神器闷出妇科病（热度：216960）
 </a>
 </li>
 
@@ -208,7 +214,13 @@ Faker举报路人游戏ID（热度：224061）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%90%83%E4%BA%86%E4%B8%80%E5%8F%AA%E5%B0%8F%E9%A3%9E%E8%99%AB%23" target="weibo">
-王一博吃了一只小飞虫（热度：200962）
+王一博吃了一只小飞虫（热度：201618）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E4%B8%9A%23" target="weibo">
+家业（热度：200343）
 </a>
 </li>
 
@@ -255,8 +267,32 @@ Faker举报路人游戏ID（热度：224061）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E9%80%80%E7%BE%A4%23" target="weibo">
+联合国回应美国退群（热度：172634）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9D%80%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%93%A5%E5%93%A5%E8%BF%98%E5%8F%91%E8%A1%80%E6%B3%8A%E7%85%A7%E5%A8%81%E8%83%81%23" target="weibo">
 男子杀前女友哥哥还发血泊照威胁（热度：166763）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%23" target="weibo">
+俄乌冲突（热度：163147）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%9B%E7%BB%92%E7%8E%A9%E5%85%B7%E9%87%8C%E8%97%8F%E4%BA%8610%E4%B8%87%E9%BB%84%E9%87%91%23" target="weibo">
+毛绒玩具里藏了10万黄金（热度：162421）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%8C%89%E5%9C%B0%E5%BC%BA%E8%A1%8C%E7%90%86%E5%8F%91%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23" target="weibo">
+中学生被按地强行理发画面曝光（热度：160651）
 </a>
 </li>
 
@@ -267,8 +303,8 @@ Faker举报路人游戏ID（热度：224061）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%BE%B7%E9%95%87%E8%82%87%E4%BA%8B%E5%8F%B8%E6%9C%BA%E5%AE%B6%E5%B1%9E%E5%86%B2%E6%92%9E%E5%85%AC%E8%AF%89%E5%B8%AD%E8%A2%AB%E6%91%81%E4%BD%8F%23" target="weibo">
-景德镇肇事司机家属冲撞公诉席被摁住（热度：160132）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E7%A0%B8%E5%AE%B6%E4%BA%8B%E4%BB%B6%E5%A5%B3%E5%AD%90%E5%B0%86%E6%B4%97%E7%A2%97%E6%9C%BA%E9%80%80%E8%B4%A7%23" target="weibo">
+丈夫砸家事件女子将洗碗机退货（热度：159218）
 </a>
 </li>
 
@@ -281,6 +317,12 @@ Faker举报路人游戏ID（热度：224061）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B8%E6%9C%BA%E8%AF%B1%E5%AF%BC%E5%B0%B1%E9%A4%904%E8%8F%9C1868%E5%85%83%E8%A2%AB%E7%BD%9A1.5%E4%B8%87%23" target="weibo">
 司机诱导就餐4菜1868元被罚1.5万（热度：147691）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E7%A7%8D%E5%87%BA%E4%BA%86%E5%B7%A8%E6%97%A0%E9%9C%B8%E4%B8%8A%E6%B5%B7%E9%9D%92%23" target="weibo">
+爷爷种出了巨无霸上海青（热度：147533）
 </a>
 </li>
 
@@ -309,18 +351,6 @@ Manus创始人（热度：147531）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E9%80%80%E7%BE%A4%23" target="weibo">
-联合国回应美国退群（热度：139590）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E7%A7%8D%E5%87%BA%E4%BA%86%E5%B7%A8%E6%97%A0%E9%9C%B8%E4%B8%8A%E6%B5%B7%E9%9D%92%23" target="weibo">
-爷爷种出了巨无霸上海青（热度：138148）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%BA%A2%E6%B8%A9%E5%A4%B4%E5%83%8F%E6%A1%86%23" target="weibo">
 王者荣耀红温头像框（热度：137280）
 </a>
@@ -329,12 +359,6 @@ Manus创始人（热度：147531）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%89%A5%E8%8C%A7%23" target="weibo">
 剥茧（热度：136632）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%8C%89%E5%9C%B0%E5%BC%BA%E8%A1%8C%E7%90%86%E5%8F%91%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23" target="weibo">
-中学生被按地强行理发画面曝光（热度：136351）
 </a>
 </li>
 
@@ -375,12 +399,6 @@ Manus创始人（热度：147531）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%23" target="weibo">
-俄乌冲突（热度：127118）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%23" target="weibo">
 A股（热度：126883）
 </a>
@@ -401,6 +419,12 @@ A股（热度：126883）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%8D%E6%8A%A5%E4%B8%8A%E4%B8%8D%E5%B0%81%E9%A1%B6%23" target="weibo">
 谍报上不封顶（热度：123989）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E4%B8%BA%E7%BC%93%E8%A7%A3%E7%97%9B%E7%BB%8F%E5%96%9D%E7%BA%A2%E7%B3%96%E6%B0%B4%E8%83%9620%E6%96%A4%23" target="weibo">
+女生为缓解痛经喝红糖水胖20斤（热度：123486）
 </a>
 </li>
 
@@ -489,8 +513,8 @@ Manus 新加坡（热度：111024）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E7%A0%B8%E5%AE%B6%E4%BA%8B%E4%BB%B6%E5%A5%B3%E5%AD%90%E5%B0%86%E6%B4%97%E7%A2%97%E6%9C%BA%E9%80%80%E8%B4%A7%23" target="weibo">
-丈夫砸家事件女子将洗碗机退货（热度：108423）
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E5%A4%AE%E5%A6%88%E4%B8%A5%E9%80%89%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%23" target="weibo">
+黄景瑜央妈严选的含金量（热度：107673）
 </a>
 </li>
 
@@ -513,8 +537,20 @@ Manus 新加坡（热度：111024）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E6%9D%8E%E6%B2%81%E5%91%BD%E8%BF%90%E5%8D%81%E5%9B%9B%E5%B9%B4%E5%89%8D%E7%9A%84%E4%BC%8F%E7%AC%94%23" target="weibo">
+胡歌李沁命运十四年前的伏笔（热度：106235）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%89%AF%E6%80%BB%E7%BB%9F%E4%B8%87%E6%96%AF%E8%AD%A6%E5%91%8A%E6%AC%A7%E6%B4%B2%23" target="weibo">
+美国副总统万斯警告欧洲（热度：105723）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BB%96%E6%9F%90%E5%AE%87%E5%BD%93%E5%BA%AD%E8%A1%A8%E7%8E%B0%E5%B9%B3%E9%9D%99%23" target="weibo">
-廖某宇当庭表现平静（热度：103585）
+廖某宇当庭表现平静（热度：104109）
 </a>
 </li>
 
@@ -537,20 +573,26 @@ Manus 新加坡（热度：111024）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%BE%B7%E9%95%87%E8%BD%A6%E7%A5%B8%E8%82%87%E4%BA%8B%E8%80%85%E7%88%B6%E4%BA%B2%E5%85%A8%E7%A8%8B%E6%88%B4%E5%8F%A3%E7%BD%A9%23" target="weibo">
+景德镇车祸肇事者父亲全程戴口罩（热度：98233）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A8%81%E9%BE%99%E8%B5%B5%E4%BB%8A%E9%BA%A6%E5%9B%9E%E5%A4%8D%E5%88%98%E5%86%B2%23" target="weibo">
 宋威龙赵今麦回复刘冲（热度：97936）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%AB%98%E9%9B%85%E4%BA%BA%E5%A3%AB%23" target="weibo">
-迪丽热巴高雅人士（热度：96383）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E5%B0%BA%E7%A0%81%E4%B8%8D%E5%90%8C%E5%85%85%E7%BB%92%E9%87%8F%E4%BC%9A%E6%9C%89%E5%B7%AE%E5%BC%82%23" target="weibo">
+客服回应尺码不同充绒量会有差异（热度：97481）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%BE%B7%E9%95%87%E8%BD%A6%E7%A5%B8%E8%82%87%E4%BA%8B%E8%80%85%E7%88%B6%E4%BA%B2%E5%85%A8%E7%A8%8B%E6%88%B4%E5%8F%A3%E7%BD%A9%23" target="weibo">
-景德镇车祸肇事者父亲全程戴口罩（热度：96049）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%AB%98%E9%9B%85%E4%BA%BA%E5%A3%AB%23" target="weibo">
+迪丽热巴高雅人士（热度：96383）
 </a>
 </li>
 

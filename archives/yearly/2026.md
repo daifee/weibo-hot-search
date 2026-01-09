@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/09 12:07:05
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/09 12:16:28
 </p>
 </blockquote>
 <p>
@@ -1575,6 +1575,12 @@ TVB颁奖典礼（热度：518643）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%98%B2%E7%AC%91%E5%90%8C%E4%BA%8B%E7%9A%84%E5%A5%96%E7%89%8C%E7%A0%B4%E7%BB%93%E6%9E%9C%E5%8F%91%E7%8E%B0%E6%98%AF%E7%BA%AF%E9%87%91%E7%9A%84%23" target="weibo">
+嘲笑同事的奖牌破结果发现是纯金的（热度：503473）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%96%BD%E5%AC%85%E8%BD%A6%E5%B4%87%E5%81%A5he%E4%BA%86%23" target="weibo">
 李施嬅车崇健he了（热度：503346）
 </a>
@@ -1601,12 +1607,6 @@ TVB颁奖典礼（热度：518643）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%81%B7SIM%E5%8D%A1%E5%A5%97%E8%B7%AF%23" target="weibo">
 央视曝光偷SIM卡套路（热度：498292）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%98%B2%E7%AC%91%E5%90%8C%E4%BA%8B%E7%9A%84%E5%A5%96%E7%89%8C%E7%A0%B4%E7%BB%93%E6%9E%9C%E5%8F%91%E7%8E%B0%E6%98%AF%E7%BA%AF%E9%87%91%E7%9A%84%23" target="weibo">
-嘲笑同事的奖牌破结果发现是纯金的（热度：498044）
 </a>
 </li>
 

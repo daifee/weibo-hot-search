@@ -1,6 +1,6 @@
 {
   "startTime": 1767890395081,
-  "endTime": 1767931625706,
+  "endTime": 1767932188172,
   "band_list": [
     {
       "raw_hot": 8104554,
@@ -68,15 +68,15 @@
     },
     {
       "raw_hot": 504403,
-      "num": 148986,
+      "num": 154472,
       "word": "红果年度短剧",
       "onboard_time": 1767914478,
       "rank": 10,
       "category": "剧集"
     },
     {
-      "raw_hot": 498044,
-      "num": 498044,
+      "raw_hot": 503473,
+      "num": 1080555,
       "word": "嘲笑同事的奖牌破结果发现是纯金的",
       "onboard_time": 1767929420,
       "rank": 3,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 405221,
-      "num": 219630,
+      "num": 244940,
       "word": "御赐小仵作2定档",
       "onboard_time": 1767928101,
       "rank": 10,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 343243,
-      "num": 143424,
+      "num": 153886,
       "word": "刘美含说的是谁",
       "onboard_time": 1767925700,
       "rank": 20,
@@ -145,6 +145,14 @@
       "onboard_time": 1767878722,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 330936,
+      "num": 330936,
+      "word": "关东煮 鞋底豆干",
+      "onboard_time": 1767929541,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 293528,
@@ -163,20 +171,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 280749,
-      "num": 280749,
-      "word": "关东煮 鞋底豆干",
-      "onboard_time": 1767929541,
-      "rank": 4,
-      "category": "美食"
-    },
-    {
       "raw_hot": 275106,
       "num": 275106,
       "word": "崩坏星穹铁道",
       "onboard_time": 1767925100,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 271382,
+      "num": 153578,
+      "word": "Faker举报路人游戏ID",
+      "onboard_time": 1767930741,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 259393,
+      "num": 259393,
+      "word": "景德镇肇事司机家属冲撞公诉席被摁住",
+      "onboard_time": 1767931161,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250591,
@@ -203,14 +219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 224061,
-      "num": 142345,
-      "word": "Faker举报路人游戏ID",
-      "onboard_time": 1767930741,
-      "rank": 21,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 222673,
       "num": 222673,
       "word": "上海移动已报案",
@@ -235,8 +243,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 206580,
-      "num": 140296,
+      "raw_hot": 216960,
+      "num": 153163,
       "word": "女子每天久穿光腿神器闷出妇科病",
       "onboard_time": 1767926301,
       "rank": 22,
@@ -259,12 +267,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200962,
-      "num": 200962,
+      "raw_hot": 201618,
+      "num": 201618,
       "word": "王一博吃了一只小飞虫",
       "onboard_time": 1767931101,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200343,
+      "num": 200343,
+      "word": "家业",
+      "onboard_time": 1767931880,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 197638,
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 192017,
-      "num": 139359,
+      "num": 152768,
       "word": "唐嫣彭冠英此刻的生活双人海报",
       "onboard_time": 1767930921,
       "rank": 23,
@@ -316,11 +332,19 @@
     },
     {
       "raw_hot": 175895,
-      "num": 137594,
+      "num": 152685,
       "word": "姚晨对五分钟看完一部电影感到崩溃",
       "onboard_time": 1767929721,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172634,
+      "num": 252627,
+      "word": "联合国回应美国退群",
+      "onboard_time": 1767930622,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 166763,
@@ -328,6 +352,30 @@
       "word": "男子杀前女友哥哥还发血泊照威胁",
       "onboard_time": 1767915799,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163147,
+      "num": 249643,
+      "word": "俄乌冲突",
+      "onboard_time": 1767931221,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 162421,
+      "num": 121181,
+      "word": "毛绒玩具里藏了10万黄金",
+      "onboard_time": 1767931642,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160651,
+      "num": 160651,
+      "word": "中学生被按地强行理发画面曝光",
+      "onboard_time": 1767930501,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -339,11 +387,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160132,
-      "num": 127109,
-      "word": "景德镇肇事司机家属冲撞公诉席被摁住",
-      "onboard_time": 1767931161,
-      "rank": 30,
+      "raw_hot": 159218,
+      "num": 159218,
+      "word": "丈夫砸家事件女子将洗碗机退货",
+      "onboard_time": 1767931221,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -361,6 +409,14 @@
       "onboard_time": 1767919822,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147533,
+      "num": 227146,
+      "word": "爷爷种出了巨无霸上海青",
+      "onboard_time": 1767929060,
+      "rank": 9,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 147531,
@@ -395,22 +451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139590,
-      "num": 240001,
-      "word": "联合国回应美国退群",
-      "onboard_time": 1767930622,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 138148,
-      "num": 227146,
-      "word": "爷爷种出了巨无霸上海青",
-      "onboard_time": 1767929060,
-      "rank": 9,
-      "category": "幽默,休闲"
-    },
-    {
       "raw_hot": 137280,
       "num": 137280,
       "word": "王者荣耀红温头像框",
@@ -425,14 +465,6 @@
       "onboard_time": 1767930440,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136351,
-      "num": 145099,
-      "word": "中学生被按地强行理发画面曝光",
-      "onboard_time": 1767930501,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136294,
@@ -483,14 +515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127118,
-      "num": 127118,
-      "word": "俄乌冲突",
-      "onboard_time": 1767931221,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 126883,
       "num": 126883,
       "word": "A股",
@@ -521,6 +545,14 @@
       "onboard_time": 1767914658,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123486,
+      "num": 123486,
+      "word": "女生为缓解痛经喝红糖水胖20斤",
+      "onboard_time": 1767931642,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 123460,
@@ -635,12 +667,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108423,
-      "num": 108423,
-      "word": "丈夫砸家事件女子将洗碗机退货",
-      "onboard_time": 1767931221,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 107673,
+      "num": 107673,
+      "word": "黄景瑜央妈严选的含金量",
+      "onboard_time": 1767931822,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 106517,
@@ -667,8 +699,24 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 103585,
-      "num": 103585,
+      "raw_hot": 106235,
+      "num": 106235,
+      "word": "胡歌李沁命运十四年前的伏笔",
+      "onboard_time": 1767932061,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 105723,
+      "num": 105723,
+      "word": "美国副总统万斯警告欧洲",
+      "onboard_time": 1767931702,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 104109,
+      "num": 104109,
       "word": "廖某宇当庭表现平静",
       "onboard_time": 1767931101,
       "rank": 43,
@@ -699,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98233,
+      "num": 98233,
+      "word": "景德镇车祸肇事者父亲全程戴口罩",
+      "onboard_time": 1767930202,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97936,
       "num": 97936,
       "word": "宋威龙赵今麦回复刘冲",
@@ -707,20 +763,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 97481,
+      "num": 97481,
+      "word": "客服回应尺码不同充绒量会有差异",
+      "onboard_time": 1767932061,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96383,
       "num": 175971,
       "word": "迪丽热巴高雅人士",
       "onboard_time": 1767874521,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 96049,
-      "num": 96049,
-      "word": "景德镇车祸肇事者父亲全程戴口罩",
-      "onboard_time": 1767930202,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95783,

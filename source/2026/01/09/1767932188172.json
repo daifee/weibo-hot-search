@@ -1,0 +1,410 @@
+{
+  "runTime": 1767932188172,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 503473,
+        "num": 1080555,
+        "word": "嘲笑同事的奖牌破结果发现是纯金的",
+        "onboard_time": 1767929420,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359769,
+        "num": 780235,
+        "word": "小米17官宣降价",
+        "onboard_time": 1767928820,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 23610,
+        "num": 605400,
+        "word": "医保新举措专治缴费排长队",
+        "onboard_time": 1767878182,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 330936,
+        "num": 330936,
+        "word": "关东煮 鞋底豆干",
+        "onboard_time": 1767929541,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 259393,
+        "num": 259393,
+        "word": "景德镇肇事司机家属冲撞公诉席被摁住",
+        "onboard_time": 1767931161,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6298093,
+        "num": 6298093,
+        "word": "景德镇车祸肇事司机一审死缓",
+        "onboard_time": 1767923059,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 619429,
+        "num": 256102,
+        "word": "女子哭诉带2岁儿子去女浴室遭拒",
+        "onboard_time": 1767927621,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172634,
+        "num": 252627,
+        "word": "联合国回应美国退群",
+        "onboard_time": 1767930622,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163147,
+        "num": 249643,
+        "word": "俄乌冲突",
+        "onboard_time": 1767931221,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 697286,
+        "num": 247194,
+        "word": "波司登2299元羽绒服充绒量86克",
+        "onboard_time": 1767927261,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366782,
+        "num": 244940,
+        "word": "御赐小仵作2定档",
+        "onboard_time": 1767928101,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243236,
+        "num": 243236,
+        "word": "法院回应为何对廖某宇判死缓",
+        "onboard_time": 1767926839,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201618,
+        "num": 201618,
+        "word": "王一博吃了一只小飞虫",
+        "onboard_time": 1767931101,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200343,
+        "num": 200343,
+        "word": "家业",
+        "onboard_time": 1767931880,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189233,
+        "num": 189233,
+        "word": "巅峰榜年度十大艺人",
+        "onboard_time": 1767931461,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160651,
+        "num": 160651,
+        "word": "中学生被按地强行理发画面曝光",
+        "onboard_time": 1767930501,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160445,
+        "num": 160445,
+        "word": "赵丽颖像做了一个梦",
+        "onboard_time": 1767929901,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159218,
+        "num": 159218,
+        "word": "丈夫砸家事件女子将洗碗机退货",
+        "onboard_time": 1767931221,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154472,
+        "num": 154472,
+        "word": "红果年度短剧",
+        "onboard_time": 1767914478,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145766,
+        "num": 154207,
+        "word": "李雪琴贴脸开大林更新",
+        "onboard_time": 1767927560,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 296669,
+        "num": 153886,
+        "word": "刘美含说的是谁",
+        "onboard_time": 1767925700,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271382,
+        "num": 153578,
+        "word": "Faker举报路人游戏ID",
+        "onboard_time": 1767930741,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 216960,
+        "num": 153163,
+        "word": "女子每天久穿光腿神器闷出妇科病",
+        "onboard_time": 1767926301,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182323,
+        "num": 152768,
+        "word": "唐嫣彭冠英此刻的生活双人海报",
+        "onboard_time": 1767930921,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152685,
+        "num": 152685,
+        "word": "姚晨对五分钟看完一部电影感到崩溃",
+        "onboard_time": 1767929721,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147533,
+        "num": 147533,
+        "word": "爷爷种出了巨无霸上海青",
+        "onboard_time": 1767929060,
+        "rank": 25,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 137219,
+        "num": 137219,
+        "word": "白鹿笑成啥样了",
+        "onboard_time": 1767930202,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126222,
+        "num": 126222,
+        "word": "A股",
+        "onboard_time": 1767927740,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 123486,
+        "num": 123486,
+        "word": "女生为缓解痛经喝红糖水胖20斤",
+        "onboard_time": 1767931642,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121538,
+        "num": 121538,
+        "word": "这次囤Labubu的黄牛破大防了",
+        "onboard_time": 1767928340,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162421,
+        "num": 121181,
+        "word": "毛绒玩具里藏了10万黄金",
+        "onboard_time": 1767931642,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126317,
+        "num": 121180,
+        "word": "中国石化股价",
+        "onboard_time": 1767931342,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 119368,
+        "num": 119368,
+        "word": "狂流",
+        "onboard_time": 1767929962,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114595,
+        "num": 114595,
+        "word": "肖战待播剧预告片",
+        "onboard_time": 1767927140,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109311,
+        "num": 109311,
+        "word": "男子分手后长期发前女友裸照威胁",
+        "onboard_time": 1767929480,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108090,
+        "num": 108090,
+        "word": "王者荣耀红温头像框",
+        "onboard_time": 1767928462,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108058,
+        "num": 108058,
+        "word": "轧戏",
+        "onboard_time": 1767926660,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107673,
+        "num": 107673,
+        "word": "黄景瑜央妈严选的含金量",
+        "onboard_time": 1767931822,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106235,
+        "num": 106235,
+        "word": "胡歌李沁命运十四年前的伏笔",
+        "onboard_time": 1767932061,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105723,
+        "num": 105723,
+        "word": "美国副总统万斯警告欧洲",
+        "onboard_time": 1767931702,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104452,
+        "num": 104452,
+        "word": "肖战双剧登总台2026大剧片单",
+        "onboard_time": 1767929661,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104109,
+        "num": 104109,
+        "word": "廖某宇当庭表现平静",
+        "onboard_time": 1767931101,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99505,
+        "num": 99505,
+        "word": "骄阳似我得剧粉者得天下",
+        "onboard_time": 1767929241,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99001,
+        "num": 99001,
+        "word": "车厘子脆皮毛巾卷",
+        "onboard_time": 1767929241,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 98233,
+        "num": 98233,
+        "word": "景德镇车祸肇事者父亲全程戴口罩",
+        "onboard_time": 1767930202,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97481,
+        "num": 97481,
+        "word": "客服回应尺码不同充绒量会有差异",
+        "onboard_time": 1767932061,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93834,
+        "num": 97476,
+        "word": "剥茧",
+        "onboard_time": 1767930440,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92148,
+        "num": 97476,
+        "word": "鹅鸭杀村规",
+        "onboard_time": 1767930440,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 91857,
+        "num": 97471,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1767925100,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89335,
+        "num": 97461,
+        "word": "王安宇吃饭奶奶的梦中情孙",
+        "onboard_time": 1767914658,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央政治局常委会召开会议#"
+    }
+  }
+}
