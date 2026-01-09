@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/10 06:45:57
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/10 07:29:21
 </p>
 </blockquote>
 <p>
@@ -3117,6 +3117,12 @@ WB对战RW（热度：355689）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%A3%E5%B8%83%E9%97%AD%E5%BA%97%E5%90%8E%E7%9A%84%E5%AE%9C%E5%AE%B6%E4%BA%BA%E6%BB%A1%E4%B8%BA%E6%82%A3%23" target="weibo">
+宣布闭店后的宜家人满为患（热度：340851）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%AE%E4%B8%89%E5%88%86%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%94%9F%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%23" target="weibo">
 差三分考上北大研究生的含金量（热度：340364）
 </a>
@@ -3743,12 +3749,6 @@ TVB第一个打烂奖杯（热度：318351）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%89%8B%E6%8C%81%E5%AE%89%E5%80%8D%E7%94%BB%E5%83%8F%E8%A2%AB%E6%89%B9%E4%BB%A4%E4%BA%BA%E4%BD%9C%E5%91%95%23" target="weibo">
 高市手持安倍画像被批令人作呕（热度：298697）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%A3%E5%B8%83%E9%97%AD%E5%BA%97%E5%90%8E%E7%9A%84%E5%AE%9C%E5%AE%B6%E4%BA%BA%E6%BB%A1%E4%B8%BA%E6%82%A3%23" target="weibo">
-宣布闭店后的宜家人满为患（热度：298321）
 </a>
 </li>
 
