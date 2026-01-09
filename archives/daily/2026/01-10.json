@@ -1,6 +1,6 @@
 {
   "startTime": 1767976730727,
-  "endTime": 1767984168616,
+  "endTime": 1767984978663,
   "band_list": [
     {
       "raw_hot": 853653,
@@ -403,20 +403,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 48312,
+      "num": 30812,
+      "word": "苹果煮水喝孩子越喝越长个儿",
+      "onboard_time": 1767981196,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 47638,
       "num": 97776,
       "word": "顾漫五部曲吴倩出演了三部",
       "onboard_time": 1767959960,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 46907,
-      "num": 30812,
-      "word": "苹果煮水喝孩子越喝越长个儿",
-      "onboard_time": 1767981196,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 44682,
@@ -483,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23880,
+      "num": 30475,
+      "word": "赵丽颖说熟人局很享受",
+      "onboard_time": 1767983354,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22996,
       "num": 30518,
       "word": "我们与法庭的距离",
@@ -499,15 +507,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19553,
-      "num": 30475,
-      "word": "赵丽颖说熟人局很享受",
-      "onboard_time": 1767983354,
-      "rank": 45,
+      "raw_hot": 16662,
+      "num": 26310,
+      "word": "小城大事微博追剧团",
+      "onboard_time": 1767977777,
+      "rank": 48,
       "category": "剧集"
     },
     {
-      "raw_hot": 10520,
+      "raw_hot": 10539,
       "num": 76463,
       "word": "东数西算效率10倍速狂飙",
       "onboard_time": 1767966261,
