@@ -1,6 +1,6 @@
 {
   "startTime": 1767890395081,
-  "endTime": 1767970219421,
+  "endTime": 1767972774981,
   "band_list": [
     {
       "raw_hot": 8104554,
@@ -251,6 +251,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 470483,
+      "num": 470483,
+      "word": "王者荣耀 打麻将",
+      "onboard_time": 1767968061,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 457993,
+      "num": 457993,
+      "word": "林屿森 下西瓜了",
+      "onboard_time": 1767970941,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 456329,
       "num": 168156,
       "word": "景德镇车祸被告人听到判决面无表情",
@@ -347,14 +363,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 387828,
-      "num": 387828,
-      "word": "王者荣耀 打麻将",
-      "onboard_time": 1767968061,
-      "rank": 8,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 387629,
       "num": 387629,
       "word": "顾漫五部曲豆瓣评分",
@@ -433,6 +441,14 @@
       "onboard_time": 1767958461,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 346437,
+      "num": 346437,
+      "word": "领导奖金30万员工1万公司已报警",
+      "onboard_time": 1767965961,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 343243,
@@ -520,6 +536,14 @@
       "word": "黄晓明认证和赵丽颖是魔丸灵珠",
       "onboard_time": 1767964279,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 286455,
+      "num": 286455,
+      "word": "赵丽颖说秦俊杰练出片了",
+      "onboard_time": 1767970760,
+      "rank": 6,
       "category": "剧集"
     },
     {
@@ -641,6 +665,14 @@
       "onboard_time": 1767950542,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259425,
+      "num": 259425,
+      "word": "日本一医院遗失放射性物质",
+      "onboard_time": 1767968722,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 259165,
@@ -1011,6 +1043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179006,
+      "num": 179006,
+      "word": "父亲称儿子撞亡一家三口系天灾",
+      "onboard_time": 1767970102,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178675,
       "num": 178675,
       "word": "李施嬅车崇健现实版麦琪的礼物",
@@ -1059,12 +1099,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 175662,
-      "num": 175662,
-      "word": "领导奖金30万员工1万公司已报警",
-      "onboard_time": 1767965961,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 173507,
+      "num": 173507,
+      "word": "卢昱晓台词",
+      "onboard_time": 1767971901,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 172634,
@@ -1217,14 +1257,6 @@
       "onboard_time": 1767930202,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 150337,
-      "num": 161647,
-      "word": "日本一医院遗失放射性物质",
-      "onboard_time": 1767968722,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 150058,
@@ -1427,6 +1459,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 134254,
+      "num": 133738,
+      "word": "教师拧断11岁男童胳膊事发地无监控",
+      "onboard_time": 1767966681,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134219,
       "num": 126559,
       "word": "中国石化股价",
@@ -1441,14 +1481,6 @@
       "onboard_time": 1767959421,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 133738,
-      "num": 133738,
-      "word": "教师拧断11岁男童胳膊事发地无监控",
-      "onboard_time": 1767966681,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132524,
@@ -1771,6 +1803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111850,
+      "num": 111850,
+      "word": "向涵之空档483天了",
+      "onboard_time": 1767968362,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111142,
       "num": 175594,
       "word": "体育局回应亚运三金得主实名举报",
@@ -1891,14 +1931,6 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 106301,
-      "num": 106301,
-      "word": "向涵之空档483天了",
-      "onboard_time": 1767968362,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 106257,
       "num": 106257,
       "word": "骄阳似我得剧粉者得天下",
@@ -1944,14 +1976,6 @@
       "word": "景德镇车祸原因是肇事司机与女友吵架",
       "onboard_time": 1767935781,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104470,
-      "num": 107885,
-      "word": "父亲称儿子撞亡一家三口系天灾",
-      "onboard_time": 1767970102,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -2459,6 +2483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87661,
+      "num": 111098,
+      "word": "流浪地球3刘德华杀青",
+      "onboard_time": 1767968661,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 87619,
       "num": 87619,
       "word": "北京大风",
@@ -2481,6 +2513,14 @@
       "onboard_time": 1767920840,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 86910,
+      "num": 110300,
+      "word": "2025年歌手价值TOP10",
+      "onboard_time": 1767971301,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 86558,
@@ -2537,6 +2577,14 @@
       "onboard_time": 1767958461,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85166,
+      "num": 116413,
+      "word": "哈梅内伊呼吁伊朗人民团结",
+      "onboard_time": 1767971901,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 84859,
@@ -2691,6 +2739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78955,
+      "num": 164482,
+      "word": "美国正在进行服从性测试",
+      "onboard_time": 1767969922,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 78768,
       "num": 78768,
       "word": "樊振东最新比赛信息出炉",
@@ -2779,6 +2835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75355,
+      "num": 110088,
+      "word": "肖战谍报上不封顶新预告片",
+      "onboard_time": 1767972201,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 75307,
       "num": 75307,
       "word": "林诗栋3比2杜达",
@@ -2796,7 +2860,7 @@
     },
     {
       "raw_hot": 74664,
-      "num": 106168,
+      "num": 108728,
       "word": "G2发文怀念RNG",
       "onboard_time": 1767968061,
       "rank": 46,
@@ -2817,6 +2881,14 @@
       "onboard_time": 1767969261,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73307,
+      "num": 109695,
+      "word": "倪妮短发好飒",
+      "onboard_time": 1767971542,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 72819,
@@ -2931,6 +3003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 67879,
+      "num": 228061,
+      "word": "美国宣称扣押一艘油轮",
+      "onboard_time": 1767969321,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 66660,
       "num": 66660,
       "word": "樊振东德国乒乓杂志封面",
@@ -2987,6 +3067,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 63483,
+      "num": 110786,
+      "word": "商家已注明孩童不能进异性浴场",
+      "onboard_time": 1767970760,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63150,
       "num": 63150,
       "word": "歼20水墨皮肤帅出圈",
@@ -3035,6 +3123,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59957,
+      "num": 110020,
+      "word": "狗骑电动车上街后座还趴着一只狗",
+      "onboard_time": 1767972381,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58961,
+      "num": 109243,
+      "word": "王者赛季皮肤含金量",
+      "onboard_time": 1767971601,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 58168,
       "num": 175552,
       "word": "侯明昊发长文告别逍遥",
@@ -3051,12 +3155,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 56180,
+      "num": 108687,
+      "word": "安徽省应急广播深夜误播5分钟节目",
+      "onboard_time": 1767971722,
+      "rank": 48,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 56137,
       "num": 218871,
       "word": "Burberry英式慢游",
       "onboard_time": 1767953420,
       "rank": 19,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 56054,
+      "num": 108291,
+      "word": "珀塞尔绝杀北京男篮",
+      "onboard_time": 1767971841,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 55918,
@@ -3260,7 +3380,7 @@
     },
     {
       "raw_hot": 36610,
-      "num": 620990,
+      "num": 631496,
       "word": "27项重大水利工程开工",
       "onboard_time": 1767967041,
       "rank": 2,
@@ -3275,28 +3395,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 35599,
-      "num": 228061,
-      "word": "美国宣称扣押一艘油轮",
-      "onboard_time": 1767969321,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 35543,
       "num": 95783,
       "word": "淄博网红炒锅饼店否认生意惨淡闭店",
       "onboard_time": 1767955281,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33777,
-      "num": 100496,
-      "word": "流浪地球3刘德华杀青",
-      "onboard_time": 1767968661,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 33273,
@@ -3395,6 +3499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 22749,
+      "num": 128812,
+      "word": "遭遇已婚博士后恋爱骗局女子被恐吓",
+      "onboard_time": 1767972320,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22384,
       "num": 50072,
       "word": "U23亚洲杯",
@@ -3427,20 +3539,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19435,
+      "num": 110530,
+      "word": "衡阳湘江水域污染现红水带",
+      "onboard_time": 1767972261,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 18927,
       "num": 661212,
       "word": "这组数据见证大国水网新画卷",
       "onboard_time": 1767947962,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18740,
-      "num": 164482,
-      "word": "美国正在进行服从性测试",
-      "onboard_time": 1767969922,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 17000,
