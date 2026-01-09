@@ -1,0 +1,410 @@
+{
+  "runTime": 1767936850639,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 453329,
+        "num": 1072532,
+        "word": "嘲笑同事的奖牌破结果发现是纯金的",
+        "onboard_time": 1767929420,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205487,
+        "num": 781531,
+        "word": "小米17官宣降价",
+        "onboard_time": 1767928820,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 8278,
+        "num": 625240,
+        "word": "医保新举措专治缴费排长队",
+        "onboard_time": 1767878182,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 386120,
+        "num": 400820,
+        "word": "女子频繁往下水道冲猫砂判赔10万",
+        "onboard_time": 1767933021,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353015,
+        "num": 390111,
+        "word": "朋友圈长按微信头像可以设置权限",
+        "onboard_time": 1767933323,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 2553080,
+        "num": 389598,
+        "word": "景德镇车祸肇事司机一审死缓",
+        "onboard_time": 1767923059,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388345,
+        "num": 388345,
+        "word": "用3年赚到了100万",
+        "onboard_time": 1767932301,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 437549,
+        "num": 328423,
+        "word": "张雪峰发博纪念做梦都不敢梦的一天",
+        "onboard_time": 1767934461,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223354,
+        "num": 223354,
+        "word": "冯宝宝国漫唯一蟑螂塑",
+        "onboard_time": 1767935721,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 217914,
+        "num": 217914,
+        "word": "关东煮 鞋底豆干",
+        "onboard_time": 1767929541,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 668083,
+        "num": 213778,
+        "word": "景德镇肇事司机家属冲撞公诉席被摁住",
+        "onboard_time": 1767931161,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 479145,
+        "num": 210869,
+        "word": "王安宇狂流官宣",
+        "onboard_time": 1767932362,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223089,
+        "num": 209063,
+        "word": "杨紫祯娘传新镜头",
+        "onboard_time": 1767936023,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202781,
+        "num": 202781,
+        "word": "关晓彤千里江山图造型",
+        "onboard_time": 1767935662,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217865,
+        "num": 201350,
+        "word": "家业官宣改名祯娘传",
+        "onboard_time": 1767933621,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194389,
+        "num": 194389,
+        "word": "丈夫砸家事件女子将洗碗机退货",
+        "onboard_time": 1767931221,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164491,
+        "num": 189125,
+        "word": "廖某宇当庭表现平静",
+        "onboard_time": 1767931101,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187387,
+        "num": 187387,
+        "word": "杨紫双剧登总台2026大剧片单",
+        "onboard_time": 1767936441,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177494,
+        "num": 177494,
+        "word": "黄景瑜关晓彤岁月有情时双人海报",
+        "onboard_time": 1767934943,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143246,
+        "num": 177039,
+        "word": "毛绒玩具里藏了10万黄金",
+        "onboard_time": 1767931642,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 493574,
+        "num": 173974,
+        "word": "女子哭诉带2岁儿子去女浴室遭拒",
+        "onboard_time": 1767927621,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383113,
+        "num": 170260,
+        "word": "王传君去了武大靖退役仪式",
+        "onboard_time": 1767932663,
+        "rank": 21,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 155414,
+        "num": 168354,
+        "word": "御赐小仵作2定档",
+        "onboard_time": 1767928101,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326556,
+        "num": 165668,
+        "word": "原来痛经是子宫太想保护你",
+        "onboard_time": 1767932182,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 246851,
+        "num": 163410,
+        "word": "Faker举报路人游戏ID",
+        "onboard_time": 1767930741,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 204466,
+        "num": 161025,
+        "word": "腾讯娱乐白皮书",
+        "onboard_time": 1767936201,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159780,
+        "num": 159780,
+        "word": "刘美含说的是谁",
+        "onboard_time": 1767925700,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150259,
+        "num": 150259,
+        "word": "美国夺取格陵兰岛方案价码流出",
+        "onboard_time": 1767933202,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141225,
+        "num": 141225,
+        "word": "一家三口被撞时丈夫第一反应推开妻儿",
+        "onboard_time": 1767935781,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129314,
+        "num": 139553,
+        "word": "法院回应为何对廖某宇判死缓",
+        "onboard_time": 1767926839,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138710,
+        "num": 138710,
+        "word": "女子跨年夜被前男友捅26刀身亡",
+        "onboard_time": 1767933143,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131504,
+        "num": 131504,
+        "word": "雨霖铃",
+        "onboard_time": 1767936261,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129259,
+        "num": 129259,
+        "word": "千万不要让豆包帮忙搭配衣服",
+        "onboard_time": 1767933802,
+        "rank": 32,
+        "category": "幽默,互联网"
+      },
+      {
+        "raw_hot": 115657,
+        "num": 115657,
+        "word": "赵丽颖 我体制内的姐",
+        "onboard_time": 1767935959,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112640,
+        "num": 112640,
+        "word": "景德镇车祸被告人听到判决面无表情",
+        "onboard_time": 1767936320,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112539,
+        "num": 112539,
+        "word": "鹅鸭杀运营凌晨还在回复网友",
+        "onboard_time": 1767934822,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108392,
+        "num": 108392,
+        "word": "逛完水贝才明白什么叫聪明买金",
+        "onboard_time": 1767936562,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107871,
+        "num": 107871,
+        "word": "国产剧开始为妇产科发声了",
+        "onboard_time": 1767934102,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107668,
+        "num": 107668,
+        "word": "买羽绒服最好选过腰的",
+        "onboard_time": 1767935662,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 107256,
+        "num": 107256,
+        "word": "刘浩存最萌的脸开最猛的车",
+        "onboard_time": 1767932301,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105697,
+        "num": 105697,
+        "word": "医生想救助遭射杀女子被ICE斥退",
+        "onboard_time": 1767936682,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105309,
+        "num": 105309,
+        "word": "景德镇车祸原因是肇事司机与女友吵架",
+        "onboard_time": 1767935781,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104080,
+        "num": 104080,
+        "word": "A股",
+        "onboard_time": 1767927740,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103919,
+        "num": 103919,
+        "word": "联合国回应美国退群",
+        "onboard_time": 1767930622,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93853,
+        "num": 93853,
+        "word": "狂流",
+        "onboard_time": 1767929962,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92493,
+        "num": 92493,
+        "word": "唐嫣彭冠英此刻的生活双人海报",
+        "onboard_time": 1767930921,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92411,
+        "num": 92411,
+        "word": "肖战待播剧预告片",
+        "onboard_time": 1767927140,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92409,
+        "num": 92409,
+        "word": "女子每天久穿光腿神器闷出妇科病",
+        "onboard_time": 1767926301,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90934,
+        "num": 90934,
+        "word": "胡歌李沁命运十四年前的伏笔",
+        "onboard_time": 1767932061,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89615,
+        "num": 89615,
+        "word": "刘宇宁欧阳娣娣欧阳娜娜画像",
+        "onboard_time": 1767936741,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺通伦#"
+    }
+  }
+}

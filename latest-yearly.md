@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/09 12:59:38
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/09 13:34:10
 </p>
 </blockquote>
 <p>
@@ -831,6 +831,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%BE%B7%E9%95%87%E8%82%87%E4%BA%8B%E5%8F%B8%E6%9C%BA%E5%AE%B6%E5%B1%9E%E5%86%B2%E6%92%9E%E5%85%AC%E8%AF%89%E5%B8%AD%E8%A2%AB%E6%91%81%E4%BD%8F%23" target="weibo">
+景德镇肇事司机家属冲撞公诉席被摁住（热度：668083）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%95%A3%E5%B8%83%E6%9C%AA%E5%A9%9A%E5%A6%BB%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E5%90%8E%E5%9D%A0%E4%BA%A1%23" target="weibo">
 男子散布未婚妻不雅视频后坠亡（热度：663511）
 </a>
@@ -1073,12 +1079,6 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%97%A5%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%98%8E%E6%97%A5%E4%BB%BB%E4%BD%95%E4%B8%80%E5%9B%BD%23" target="weibo">
 今日委内瑞拉明日任何一国（热度：583612）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%BE%B7%E9%95%87%E8%82%87%E4%BA%8B%E5%8F%B8%E6%9C%BA%E5%AE%B6%E5%B1%9E%E5%86%B2%E6%92%9E%E5%85%AC%E8%AF%89%E5%B8%AD%E8%A2%AB%E6%91%81%E4%BD%8F%23" target="weibo">
-景德镇肇事司机家属冲撞公诉席被摁住（热度：582382）
 </a>
 </li>
 
