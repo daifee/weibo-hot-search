@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767969202821,
+  "endTime": 1767970219421,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -355,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1091753,
+      "num": 443786,
+      "word": "当红演员未进组天数",
+      "onboard_time": 1767965362,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1076314,
       "num": 1018912,
       "word": "个人存取款超5万元不再登记",
@@ -625,14 +633,6 @@
       "onboard_time": 1767238040,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 888995,
-      "num": 443786,
-      "word": "当红演员未进组天数",
-      "onboard_time": 1767965362,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 882691,
