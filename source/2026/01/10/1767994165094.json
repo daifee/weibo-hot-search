@@ -1,0 +1,410 @@
+{
+  "runTime": 1767994165094,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 104661,
+        "num": 151190,
+        "word": "内蒙古赤峰一小学校服里有薄膜",
+        "onboard_time": 1767974002,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 86441,
+        "num": 111419,
+        "word": "宣布闭店后的宜家人满为患",
+        "onboard_time": 1767974659,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11073,
+        "num": 88790,
+        "word": "东数西算效率10倍速狂飙",
+        "onboard_time": 1767966261,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76450,
+        "num": 76450,
+        "word": "卢昱晓台词",
+        "onboard_time": 1767971901,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41608,
+        "num": 41608,
+        "word": "住房公积金制度改革",
+        "onboard_time": 1767943340,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 52202,
+        "num": 40505,
+        "word": "王心凌穿了500条珠链在身上",
+        "onboard_time": 1767966801,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36348,
+        "num": 36348,
+        "word": "违规穿鳌太线获救男子失温产生幻觉",
+        "onboard_time": 1767973460,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33739,
+        "num": 33739,
+        "word": "日本一医院遗失放射性物质",
+        "onboard_time": 1767968722,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 33517,
+        "num": 33517,
+        "word": "领导奖金30万员工1万公司已报警",
+        "onboard_time": 1767965961,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30502,
+        "num": 30502,
+        "word": "林屿森 下西瓜了",
+        "onboard_time": 1767970941,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52541,
+        "num": 29986,
+        "word": "妻子整理遗物发现亡夫转情人1900万",
+        "onboard_time": 1767963080,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31262,
+        "num": 28826,
+        "word": "34层高楼回家得接力按楼层",
+        "onboard_time": 1767975200,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26101,
+        "num": 26101,
+        "word": "35岁男子柬埔寨转机后失联",
+        "onboard_time": 1767974721,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25248,
+        "num": 25248,
+        "word": "王者荣耀 打麻将",
+        "onboard_time": 1767968061,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 25060,
+        "num": 25060,
+        "word": "流落柬埔寨街头女子已出院准备回国",
+        "onboard_time": 1767973520,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 24196,
+        "num": 24196,
+        "word": "台独分子沈伯洋全网紧急删个人定位",
+        "onboard_time": 1767957439,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23567,
+        "num": 23567,
+        "word": "赵丽颖说熟人局很享受",
+        "onboard_time": 1767983354,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23083,
+        "num": 23083,
+        "word": "俄罗斯报复乌克兰",
+        "onboard_time": 1767959421,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20689,
+        "num": 20689,
+        "word": "台湾网红馆长以恐吓罪被起诉",
+        "onboard_time": 1767959361,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19919,
+        "num": 19919,
+        "word": "卢昱晓好美",
+        "onboard_time": 1767962360,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55484,
+        "num": 19900,
+        "word": "当红演员未进组天数",
+        "onboard_time": 1767965362,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26982,
+        "num": 19661,
+        "word": "轧戏",
+        "onboard_time": 1767957140,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26002,
+        "num": 19429,
+        "word": "宜家闭店门店排长队市民发声",
+        "onboard_time": 1767977477,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24703,
+        "num": 19250,
+        "word": "苹果煮水喝孩子越喝越长个儿",
+        "onboard_time": 1767981196,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19176,
+        "num": 19176,
+        "word": "轧戏 剧本杀",
+        "onboard_time": 1767978737,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18398,
+        "num": 18398,
+        "word": "古天乐被曝拍戏时每晚照美黑灯",
+        "onboard_time": 1767965601,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18797,
+        "num": 18024,
+        "word": "猫的树真的很会拍",
+        "onboard_time": 1767962240,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17550,
+        "num": 17550,
+        "word": "周生生一条金项链一年多涨了近10万",
+        "onboard_time": 1767964161,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16970,
+        "num": 16970,
+        "word": "顾漫五部曲吴倩出演了三部",
+        "onboard_time": 1767959960,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16844,
+        "num": 16844,
+        "word": "遭遇已婚博士后恋爱骗局女子被恐吓",
+        "onboard_time": 1767972320,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16736,
+        "num": 16736,
+        "word": "胖东来回应羽绒服进价303售价393",
+        "onboard_time": 1767951142,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16626,
+        "num": 16626,
+        "word": "奶奶想要孙子遗弃残疾孙女近20年",
+        "onboard_time": 1767966143,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16034,
+        "num": 16034,
+        "word": "房贷利率又迎下调",
+        "onboard_time": 1767966741,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 15626,
+        "num": 15626,
+        "word": "山姆回应充绒400克499元羽绒服卖爆",
+        "onboard_time": 1767951201,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15183,
+        "num": 15183,
+        "word": "总台2026年电视剧片单",
+        "onboard_time": 1767958881,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14903,
+        "num": 14903,
+        "word": "猫的树拍的陈星旭",
+        "onboard_time": 1767964221,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14531,
+        "num": 14531,
+        "word": "萧亚轩回应人生进入下半场",
+        "onboard_time": 1767974361,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14293,
+        "num": 14293,
+        "word": "声生不息华流季",
+        "onboard_time": 1767976939,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14240,
+        "num": 14240,
+        "word": "今天的赵丽颖梦回明兰了",
+        "onboard_time": 1767960439,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14219,
+        "num": 14219,
+        "word": "向涵之空档483天了",
+        "onboard_time": 1767968362,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13935,
+        "num": 14219,
+        "word": "檀健次文案翻译",
+        "onboard_time": 1767953121,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 13877,
+        "num": 14218,
+        "word": "教师拧断11岁男童胳膊事发地无监控",
+        "onboard_time": 1767966681,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13452,
+        "num": 14218,
+        "word": "醒来",
+        "onboard_time": 1767981256,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13162,
+        "num": 14218,
+        "word": "2026年人生体验清单",
+        "onboard_time": 1767979637,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12190,
+        "num": 14217,
+        "word": "美国宣称扣押一艘油轮",
+        "onboard_time": 1767969321,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 10759,
+        "num": 14217,
+        "word": "小城大事微博追剧团",
+        "onboard_time": 1767977777,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10274,
+        "num": 14217,
+        "word": "檀健次不语只是一味打歌",
+        "onboard_time": 1767951622,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 10111,
+        "num": 14216,
+        "word": "液断7天瘦了13.2斤",
+        "onboard_time": 1767949820,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 9874,
+        "num": 14215,
+        "word": "我们与法庭的距离",
+        "onboard_time": 1767983054,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9333,
+        "num": 14215,
+        "word": "中国唱将",
+        "onboard_time": 1767963441,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记指出扩大内需是战略之举#"
+    }
+  }
+}
