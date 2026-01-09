@@ -1,6 +1,6 @@
 {
   "startTime": 1767890395081,
-  "endTime": 1767954786658,
+  "endTime": 1767955808300,
   "band_list": [
     {
       "raw_hot": 8104554,
@@ -9,6 +9,14 @@
       "onboard_time": 1767923059,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1156450,
+      "num": 295205,
+      "word": "檀健次文案翻译",
+      "onboard_time": 1767953121,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 1118560,
@@ -25,14 +33,6 @@
       "onboard_time": 1767939681,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 861312,
-      "num": 295205,
-      "word": "檀健次文案翻译",
-      "onboard_time": 1767953121,
-      "rank": 10,
-      "category": "音乐"
     },
     {
       "raw_hot": 794730,
@@ -403,6 +403,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 280110,
+      "num": 215503,
+      "word": "檀健次不语只是一味打歌",
+      "onboard_time": 1767951622,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 275106,
       "num": 275106,
       "word": "崩坏星穹铁道",
@@ -440,6 +448,14 @@
       "word": "廖某宇当庭表现平静",
       "onboard_time": 1767931101,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 266985,
+      "num": 218152,
+      "word": "山姆回应充绒400克499元羽绒服卖爆",
+      "onboard_time": 1767951201,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -489,14 +505,6 @@
       "onboard_time": 1767935721,
       "rank": 8,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 258474,
-      "num": 218152,
-      "word": "山姆回应充绒400克499元羽绒服卖爆",
-      "onboard_time": 1767951201,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 258406,
@@ -609,6 +617,14 @@
       "onboard_time": 1767918319,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220586,
+      "num": 462688,
+      "word": "台风中救了25人荣誉却被冒领",
+      "onboard_time": 1767952160,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 219008,
@@ -763,6 +779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 181147,
+      "num": 181147,
+      "word": "罚罪2爱奇艺热度破万",
+      "onboard_time": 1767954801,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178675,
       "num": 178675,
       "word": "李施嬅车崇健现实版麦琪的礼物",
@@ -825,14 +849,6 @@
       "onboard_time": 1767946281,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 171295,
-      "num": 462688,
-      "word": "台风中救了25人荣誉却被冒领",
-      "onboard_time": 1767952160,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168309,
@@ -1043,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142427,
+      "num": 220142,
+      "word": "王传君现在已经这样演了吗",
+      "onboard_time": 1767952822,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141687,
       "num": 141687,
       "word": "刘浩存最萌的脸开最猛的车",
@@ -1105,6 +1129,14 @@
       "onboard_time": 1767881542,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134812,
+      "num": 218803,
+      "word": "取消光伏等产品增值税出口退税",
+      "onboard_time": 1767955159,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 134356,
@@ -1227,14 +1259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123615,
-      "num": 220142,
-      "word": "王传君现在已经这样演了吗",
-      "onboard_time": 1767952822,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 123486,
       "num": 123486,
       "word": "女生为缓解痛经喝红糖水胖20斤",
@@ -1265,6 +1289,14 @@
       "onboard_time": 1767937341,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121916,
+      "num": 218077,
+      "word": "集美大学花720万元采购可乐",
+      "onboard_time": 1767953900,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121507,
@@ -1603,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101011,
+      "num": 99090,
+      "word": "周震南扫楼送妈妈做的腊肠",
+      "onboard_time": 1767955041,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100911,
       "num": 100911,
       "word": "怀孕妻子目睹丈夫遇害惨状泪崩",
@@ -1633,6 +1673,14 @@
       "onboard_time": 1767887421,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 99357,
+      "num": 99357,
+      "word": "在公司立什么人设最舒服",
+      "onboard_time": 1767954622,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 99242,
@@ -1667,12 +1715,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98005,
+      "num": 98005,
+      "word": "黄景瑜一场直播把身家搭进去了",
+      "onboard_time": 1767955041,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97936,
       "num": 97936,
       "word": "宋威龙赵今麦回复刘冲",
       "onboard_time": 1767915799,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 97818,
+      "num": 97818,
+      "word": "医保个账里的钱可跨省给家人用",
+      "onboard_time": 1767952341,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97645,
+      "num": 97645,
+      "word": "廖某宇判死缓其家属冲击法庭被制止",
+      "onboard_time": 1767955700,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97593,
@@ -1729,14 +1801,6 @@
       "onboard_time": 1767934580,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 96044,
-      "num": 180195,
-      "word": "檀健次不语只是一味打歌",
-      "onboard_time": 1767951622,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 95871,
@@ -1843,14 +1907,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 91969,
-      "num": 91969,
-      "word": "医保个账里的钱可跨省给家人用",
-      "onboard_time": 1767952341,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91964,
       "num": 91964,
       "word": "装减脂餐给自己装笑了",
@@ -1931,6 +1987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87619,
+      "num": 87619,
+      "word": "北京大风",
+      "onboard_time": 1767955520,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87599,
       "num": 175866,
       "word": "卢昱晓兔子警官vlog",
@@ -1947,6 +2011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 86558,
+      "num": 86558,
+      "word": "杨瀚森新年礼物是英语书",
+      "onboard_time": 1767954741,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86199,
       "num": 86199,
       "word": "Ruler出装不听劝",
@@ -1961,6 +2033,14 @@
       "onboard_time": 1767943340,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85707,
+      "num": 85707,
+      "word": "KPL选手大会",
+      "onboard_time": 1767954981,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 85679,
@@ -2107,20 +2187,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77036,
+      "num": 77036,
+      "word": "玉茗茶骨 粉圈大混战",
+      "onboard_time": 1767955700,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 75307,
       "num": 75307,
       "word": "林诗栋3比2杜达",
       "onboard_time": 1767952341,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75233,
-      "num": 75233,
-      "word": "在公司立什么人设最舒服",
-      "onboard_time": 1767954622,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 73941,
@@ -2137,14 +2217,6 @@
       "onboard_time": 1767954440,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 72343,
-      "num": 72343,
-      "word": "杨瀚森新年礼物是英语书",
-      "onboard_time": 1767954741,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 71968,
@@ -2475,6 +2547,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 39095,
+      "num": 95060,
+      "word": "胖东来2025年发放委屈奖39.2万",
+      "onboard_time": 1767955041,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38918,
       "num": 91589,
       "word": "11岁智障男童胳膊疑被老师拧断",
@@ -2499,20 +2579,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36887,
-      "num": 91574,
-      "word": "集美大学花720万元采购可乐",
-      "onboard_time": 1767953900,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36087,
       "num": 175067,
       "word": "微博之夜",
       "onboard_time": 1767885082,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 35543,
+      "num": 95783,
+      "word": "淄博网红炒锅饼店否认生意惨淡闭店",
+      "onboard_time": 1767955281,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29586,

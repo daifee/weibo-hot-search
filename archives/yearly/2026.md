@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/09 18:33:06
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/09 18:50:08
 </p>
 </blockquote>
 <p>
@@ -227,6 +227,12 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%94%B7%E8%89%BA%E4%BA%BA%E5%9B%A0%E8%B4%9F%E9%9D%A2%E9%AA%82%E5%8A%A9%E7%90%86%23" target="weibo">
 曝男艺人因负面骂助理（热度：1173749）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E6%96%87%E6%A1%88%E7%BF%BB%E8%AF%91%23" target="weibo">
+檀健次文案翻译（热度：1156450）
 </a>
 </li>
 
@@ -503,12 +509,6 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A4%90%E9%A6%86%E5%86%85%E6%AD%BB%E4%BA%A113%E5%B2%81%E7%94%B7%E5%AD%A9%E7%88%B6%E6%AF%8D%E6%99%BA%E5%8A%9B%E6%AE%8B%E7%96%BE%23" target="weibo">
 餐馆内死亡13岁男孩父母智力残疾（热度：866623）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E6%96%87%E6%A1%88%E7%BF%BB%E8%AF%91%23" target="weibo">
-檀健次文案翻译（热度：861312）
 </a>
 </li>
 

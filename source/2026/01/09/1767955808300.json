@@ -1,0 +1,410 @@
+{
+  "runTime": 1767955808300,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 733707,
+        "num": 1117393,
+        "word": "住房公积金制度改革",
+        "onboard_time": 1767943340,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 534658,
+        "num": 782810,
+        "word": "胖东来回应羽绒服进价303售价393",
+        "onboard_time": 1767951142,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47259,
+        "num": 637517,
+        "word": "手机数码国补超72%买中高端机",
+        "onboard_time": 1767948442,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220586,
+        "num": 220586,
+        "word": "台风中救了25人荣誉却被冒领",
+        "onboard_time": 1767952160,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178165,
+        "num": 220250,
+        "word": "保时捷文案",
+        "onboard_time": 1767943999,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 401626,
+        "num": 220086,
+        "word": "液断7天瘦了13.2斤",
+        "onboard_time": 1767949820,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164331,
+        "num": 219629,
+        "word": "景德镇车祸肇事司机一审死缓",
+        "onboard_time": 1767923059,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255923,
+        "num": 219243,
+        "word": "特朗普称取消对委第二波军事打击",
+        "onboard_time": 1767952700,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134812,
+        "num": 218803,
+        "word": "取消光伏等产品增值税出口退税",
+        "onboard_time": 1767955159,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121916,
+        "num": 218077,
+        "word": "集美大学花720万元采购可乐",
+        "onboard_time": 1767953900,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1156450,
+        "num": 217988,
+        "word": "檀健次文案翻译",
+        "onboard_time": 1767953121,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 253819,
+        "num": 217586,
+        "word": "年终奖领导30万员工1万",
+        "onboard_time": 1767939681,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222357,
+        "num": 217022,
+        "word": "顾漫五部曲豆瓣评分",
+        "onboard_time": 1767950960,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117647,
+        "num": 216351,
+        "word": "女子频繁往下水道冲猫砂判赔10万",
+        "onboard_time": 1767933021,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221948,
+        "num": 216112,
+        "word": "同居4年生娃分手后男方索要彩礼",
+        "onboard_time": 1767950542,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280110,
+        "num": 215503,
+        "word": "檀健次不语只是一味打歌",
+        "onboard_time": 1767951622,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215452,
+        "num": 215452,
+        "word": "宋威龙 春晚彩排",
+        "onboard_time": 1767949580,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102583,
+        "num": 209303,
+        "word": "男子在鞋内藏定位器发现妻子出轨",
+        "onboard_time": 1767944240,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50278,
+        "num": 200268,
+        "word": "Burberry英式慢游",
+        "onboard_time": 1767953420,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 35212,
+        "num": 196943,
+        "word": "2026年度车揭晓",
+        "onboard_time": 1767952999,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 266985,
+        "num": 189619,
+        "word": "山姆回应充绒400克499元羽绒服卖爆",
+        "onboard_time": 1767951201,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181147,
+        "num": 181147,
+        "word": "罚罪2爱奇艺热度破万",
+        "onboard_time": 1767954801,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176027,
+        "num": 176027,
+        "word": "洗碗 做手膜",
+        "onboard_time": 1767947780,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161737,
+        "num": 161737,
+        "word": "狗头萝莉自曝负债650万成老赖",
+        "onboard_time": 1767947121,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 143237,
+        "num": 143237,
+        "word": "丝芭传媒被罚",
+        "onboard_time": 1767951079,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106390,
+        "num": 142555,
+        "word": "中方回应李在明即将访日",
+        "onboard_time": 1767948981,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 142427,
+        "num": 142427,
+        "word": "王传君现在已经这样演了吗",
+        "onboard_time": 1767952822,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125182,
+        "num": 125182,
+        "word": "赵丽颖秦俊杰演县城父母爱情",
+        "onboard_time": 1767949041,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102436,
+        "num": 112782,
+        "word": "结婚登报",
+        "onboard_time": 1767949881,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112062,
+        "num": 112062,
+        "word": "春晚彩排",
+        "onboard_time": 1767951021,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111977,
+        "num": 111977,
+        "word": "网传宋威龙赵今麦或二搭",
+        "onboard_time": 1767943580,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99357,
+        "num": 99357,
+        "word": "在公司立什么人设最舒服",
+        "onboard_time": 1767954622,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101011,
+        "num": 99090,
+        "word": "周震南扫楼送妈妈做的腊肠",
+        "onboard_time": 1767955041,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98164,
+        "num": 98164,
+        "word": "坚持吃煮苹果1个月身体会有这些变化",
+        "onboard_time": 1767938360,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98005,
+        "num": 98005,
+        "word": "黄景瑜一场直播把身家搭进去了",
+        "onboard_time": 1767955041,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94094,
+        "num": 97891,
+        "word": "毛绒玩具里藏了10万黄金",
+        "onboard_time": 1767931642,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97818,
+        "num": 97818,
+        "word": "医保个账里的钱可跨省给家人用",
+        "onboard_time": 1767952341,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97645,
+        "num": 97645,
+        "word": "廖某宇判死缓其家属冲击法庭被制止",
+        "onboard_time": 1767955700,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35543,
+        "num": 95783,
+        "word": "淄博网红炒锅饼店否认生意惨淡闭店",
+        "onboard_time": 1767955281,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39095,
+        "num": 95060,
+        "word": "胖东来2025年发放委屈奖39.2万",
+        "onboard_time": 1767955041,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94832,
+        "num": 94832,
+        "word": "刘宇宁护短",
+        "onboard_time": 1767951681,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88600,
+        "num": 88600,
+        "word": "白鹿春晚彩排路透",
+        "onboard_time": 1767946161,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87619,
+        "num": 87619,
+        "word": "北京大风",
+        "onboard_time": 1767955520,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86558,
+        "num": 86558,
+        "word": "杨瀚森新年礼物是英语书",
+        "onboard_time": 1767954741,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85707,
+        "num": 85707,
+        "word": "KPL选手大会",
+        "onboard_time": 1767954981,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83939,
+        "num": 83939,
+        "word": "网传再见爱人邓莎夫妇没下车",
+        "onboard_time": 1767943880,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79432,
+        "num": 79432,
+        "word": "全国首台小米定制服务交付完成",
+        "onboard_time": 1767949341,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 79115,
+        "num": 79115,
+        "word": "重生2 文俊辉",
+        "onboard_time": 1767953840,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 77211,
+        "num": 77211,
+        "word": "中国俄罗斯南非等将海上联演",
+        "onboard_time": 1767953840,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 77036,
+        "num": 77036,
+        "word": "玉茗茶骨 粉圈大混战",
+        "onboard_time": 1767955700,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#新的一年再启新程#"
+    }
+  }
+}
