@@ -1,6 +1,6 @@
 {
   "startTime": 1767976730727,
-  "endTime": 1767994967290,
+  "endTime": 1767997781973,
   "band_list": [
     {
       "raw_hot": 853653,
@@ -523,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 14872,
+      "num": 20977,
+      "word": "美国宣称扣押一艘油轮",
+      "onboard_time": 1767969321,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 14457,
       "num": 24182,
       "word": "中国唱将",
@@ -531,27 +539,27 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 13376,
-      "num": 20977,
-      "word": "美国宣称扣押一艘油轮",
-      "onboard_time": 1767969321,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 11073,
-      "num": 116152,
-      "word": "东数西算效率10倍速狂飙",
-      "onboard_time": 1767966261,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9618,
-      "num": 14593,
+      "raw_hot": 14116,
+      "num": 18833,
       "word": "男子境外转机失联妻子接奇怪电话",
       "onboard_time": 1767992474,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13129,
+      "num": 18831,
+      "word": "骄阳似我大结局",
+      "onboard_time": 1767960680,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 11073,
+      "num": 248705,
+      "word": "东数西算效率10倍速狂飙",
+      "onboard_time": 1767966261,
+      "rank": 2,
       "category": "民生新闻"
     }
   ],
