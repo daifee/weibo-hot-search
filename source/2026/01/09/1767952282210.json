@@ -1,0 +1,410 @@
+{
+  "runTime": 1767952282210,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 788948,
+        "num": 1126231,
+        "word": "住房公积金制度改革",
+        "onboard_time": 1767943340,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 180549,
+        "num": 819875,
+        "word": "毛绒玩具里藏了10万黄金",
+        "onboard_time": 1767931642,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52296,
+        "num": 660742,
+        "word": "手机数码国补超72%买中高端机",
+        "onboard_time": 1767948442,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208786,
+        "num": 478852,
+        "word": "保时捷文案",
+        "onboard_time": 1767943999,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 174975,
+        "num": 460411,
+        "word": "胖东来回应羽绒服进价303售价393",
+        "onboard_time": 1767951142,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455692,
+        "num": 455692,
+        "word": "洗碗 做手膜",
+        "onboard_time": 1767947780,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164856,
+        "num": 447980,
+        "word": "景德镇车祸肇事司机一审死缓",
+        "onboard_time": 1767923059,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157705,
+        "num": 422905,
+        "word": "女子频繁往下水道冲猫砂判赔10万",
+        "onboard_time": 1767933021,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130964,
+        "num": 404734,
+        "word": "2026LCK季前赛",
+        "onboard_time": 1767952041,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118423,
+        "num": 399855,
+        "word": "外交部回应美领导人涉台言论",
+        "onboard_time": 1767945441,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 387629,
+        "num": 387629,
+        "word": "顾漫五部曲豆瓣评分",
+        "onboard_time": 1767950960,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 368870,
+        "num": 368870,
+        "word": "宋威龙 春晚彩排",
+        "onboard_time": 1767949580,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285973,
+        "num": 285973,
+        "word": "年终奖领导30万员工1万",
+        "onboard_time": 1767939681,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201938,
+        "num": 201938,
+        "word": "赵丽颖秦俊杰演县城父母爱情",
+        "onboard_time": 1767949041,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193125,
+        "num": 193125,
+        "word": "长安二十四计豆瓣开分6.9",
+        "onboard_time": 1767951321,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137189,
+        "num": 188644,
+        "word": "男子在鞋内藏定位器发现妻子出轨",
+        "onboard_time": 1767944240,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187153,
+        "num": 187153,
+        "word": "春晚彩排",
+        "onboard_time": 1767951021,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180698,
+        "num": 180698,
+        "word": "网传再见爱人邓莎夫妇没下车",
+        "onboard_time": 1767943880,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78417,
+        "num": 180697,
+        "word": "丈夫砸家事件女子将洗碗机退货",
+        "onboard_time": 1767931221,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152060,
+        "num": 180650,
+        "word": "赵今麦给卢昱晓留言相信光",
+        "onboard_time": 1767947121,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410163,
+        "num": 180615,
+        "word": "液断7天瘦了13.2斤",
+        "onboard_time": 1767949820,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 397744,
+        "num": 180602,
+        "word": "狗头萝莉自曝负债650万成老赖",
+        "onboard_time": 1767947121,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 258406,
+        "num": 180573,
+        "word": "同居4年生娃分手后男方索要彩礼",
+        "onboard_time": 1767950542,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205844,
+        "num": 180541,
+        "word": "丝芭传媒被罚",
+        "onboard_time": 1767951079,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192746,
+        "num": 180517,
+        "word": "山姆回应充绒400克499元羽绒服卖爆",
+        "onboard_time": 1767951201,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164702,
+        "num": 180485,
+        "word": "中方回应李在明即将访日",
+        "onboard_time": 1767948981,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49548,
+        "num": 180459,
+        "word": "吴千语娜然让小说女主有了脸",
+        "onboard_time": 1767945800,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130000,
+        "num": 180447,
+        "word": "刘宇宁护短",
+        "onboard_time": 1767951681,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116874,
+        "num": 180402,
+        "word": "坚持吃煮苹果1个月身体会有这些变化",
+        "onboard_time": 1767938360,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21629,
+        "num": 180380,
+        "word": "台风中救了25人荣誉却被冒领",
+        "onboard_time": 1767952160,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129427,
+        "num": 180340,
+        "word": "网传宋威龙赵今麦或二搭",
+        "onboard_time": 1767943580,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125544,
+        "num": 180317,
+        "word": "跑男导演口音惹众怒",
+        "onboard_time": 1767946281,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122638,
+        "num": 180302,
+        "word": "官方调查外卖平台市场竞争状况",
+        "onboard_time": 1767951260,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 112038,
+        "num": 180281,
+        "word": "结婚登报",
+        "onboard_time": 1767949881,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101200,
+        "num": 180245,
+        "word": "白鹿春晚彩排路透",
+        "onboard_time": 1767946161,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99480,
+        "num": 180222,
+        "word": "A股实现16连阳",
+        "onboard_time": 1767947661,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 96044,
+        "num": 180195,
+        "word": "檀健次不语只是一味打歌",
+        "onboard_time": 1767951622,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 92486,
+        "num": 180154,
+        "word": "原来痛经是子宫太想保护你",
+        "onboard_time": 1767932182,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88390,
+        "num": 180128,
+        "word": "全国首台小米定制服务交付完成",
+        "onboard_time": 1767949341,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 9587,
+        "num": 180103,
+        "word": "印度阅兵彩排再次上演摩托叠罗汉",
+        "onboard_time": 1767952222,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 84448,
+        "num": 180072,
+        "word": "女子哭诉带2岁儿子去女浴室遭拒",
+        "onboard_time": 1767927621,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82307,
+        "num": 180060,
+        "word": "醒来生理性cp感真的存在",
+        "onboard_time": 1767952101,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78214,
+        "num": 180016,
+        "word": "后知后觉陈晓的古装能有多绝",
+        "onboard_time": 1767951079,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74668,
+        "num": 179996,
+        "word": "北方冬天穿的每层衣服都要能见人",
+        "onboard_time": 1767951021,
+        "rank": 43,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 77680,
+        "num": 179959,
+        "word": "看车崇健吃薯片这段好心酸",
+        "onboard_time": 1767948801,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72300,
+        "num": 179951,
+        "word": "用3年赚到了100万",
+        "onboard_time": 1767932301,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70422,
+        "num": 179924,
+        "word": "周瑜峡谷第一赘婿",
+        "onboard_time": 1767951681,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 69529,
+        "num": 179893,
+        "word": "罚罪2师徒和解等了十二年",
+        "onboard_time": 1767950840,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68852,
+        "num": 179849,
+        "word": "王一博 一款情绪稳定的岩羊",
+        "onboard_time": 1767944359,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68418,
+        "num": 179835,
+        "word": "这是女性群像最小单位的共鸣吧",
+        "onboard_time": 1767950241,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#新的一年再启新程#"
+    }
+  }
+}
