@@ -1,6 +1,6 @@
 {
   "startTime": 1767890395081,
-  "endTime": 1767955808300,
+  "endTime": 1767958052619,
   "band_list": [
     {
       "raw_hot": 8104554,
@@ -187,6 +187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 472947,
+      "num": 299429,
+      "word": "集美大学花720万元采购可乐",
+      "onboard_time": 1767953900,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 456329,
       "num": 168156,
       "word": "景德镇车祸被告人听到判决面无表情",
@@ -363,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 306406,
+      "num": 306406,
+      "word": "取消光伏等产品增值税出口退税",
+      "onboard_time": 1767955159,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 300997,
       "num": 204341,
       "word": "网传宋威龙赵今麦或二搭",
@@ -491,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 261087,
+      "num": 261087,
+      "word": "同居4年生娃分手后男方索要彩礼",
+      "onboard_time": 1767950542,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259165,
       "num": 259165,
       "word": "家业官宣改名祯娘传",
@@ -505,14 +529,6 @@
       "onboard_time": 1767935721,
       "rank": 8,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 258406,
-      "num": 217670,
-      "word": "同居4年生娃分手后男方索要彩礼",
-      "onboard_time": 1767950542,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 250591,
@@ -547,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 240928,
+      "num": 136628,
+      "word": "廖某宇判死缓其家属冲击法庭被制止",
+      "onboard_time": 1767955700,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 236260,
       "num": 249643,
       "word": "俄乌冲突",
@@ -568,6 +592,14 @@
       "word": "关晓彤千里江山图造型",
       "onboard_time": 1767935662,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 226960,
+      "num": 226960,
+      "word": "轧戏",
+      "onboard_time": 1767926660,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -707,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197375,
+      "num": 289875,
+      "word": "喜欢车厘子和抹茶的有福了",
+      "onboard_time": 1767956539,
+      "rank": 7,
+      "category": "美食"
+    },
+    {
       "raw_hot": 196722,
       "num": 159476,
       "word": "华策用10年拍了一部历史古装剧",
@@ -747,6 +787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189549,
+      "num": 132449,
+      "word": "李幼斌去养老院看父母特别痛苦",
+      "onboard_time": 1767956122,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189532,
       "num": 200980,
       "word": "再也不去理发店洗头了",
@@ -769,6 +817,14 @@
       "onboard_time": 1767940941,
       "rank": 9,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 186889,
+      "num": 130203,
+      "word": "杨洋滑雪冲粉",
+      "onboard_time": 1767957020,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 181213,
@@ -849,6 +905,14 @@
       "onboard_time": 1767946281,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171042,
+      "num": 129365,
+      "word": "台独分子沈伯洋全网紧急删个人定位",
+      "onboard_time": 1767957439,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 168309,
@@ -947,6 +1011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158256,
+      "num": 127102,
+      "word": "声生不息唱了孙颖莎战歌",
+      "onboard_time": 1767956061,
+      "rank": 25,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 156354,
       "num": 156354,
       "word": "女子跨年夜被前男友捅26刀身亡",
@@ -977,6 +1049,14 @@
       "onboard_time": 1767927740,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 148936,
+      "num": 288142,
+      "word": "中国抹茶反向出口日本",
+      "onboard_time": 1767956122,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148719,
@@ -1041,6 +1121,14 @@
       "onboard_time": 1767943159,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146046,
+      "num": 146046,
+      "word": "轧戏开播",
+      "onboard_time": 1767957801,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 145462,
@@ -1129,14 +1217,6 @@
       "onboard_time": 1767881542,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134812,
-      "num": 218803,
-      "word": "取消光伏等产品增值税出口退税",
-      "onboard_time": 1767955159,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 134356,
@@ -1235,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126261,
+      "num": 126261,
+      "word": "黄景瑜一场直播把身家搭进去了",
+      "onboard_time": 1767955041,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124161,
       "num": 124161,
       "word": "施诗要不咱们切墨兰的号吧",
@@ -1289,14 +1377,6 @@
       "onboard_time": 1767937341,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121916,
-      "num": 218077,
-      "word": "集美大学花720万元采购可乐",
-      "onboard_time": 1767953900,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121507,
@@ -1451,19 +1531,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110156,
+      "num": 110156,
+      "word": "张信哲说完刘宇宁身份证都掉出来了",
+      "onboard_time": 1767956661,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109815,
       "num": 176341,
       "word": "张凌赫背林允",
       "onboard_time": 1767882743,
       "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 109600,
-      "num": 109600,
-      "word": "轧戏",
-      "onboard_time": 1767926660,
-      "rank": 39,
       "category": "剧集"
     },
     {
@@ -1715,14 +1795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98005,
-      "num": 98005,
-      "word": "黄景瑜一场直播把身家搭进去了",
-      "onboard_time": 1767955041,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 97936,
       "num": 97936,
       "word": "宋威龙赵今麦回复刘冲",
@@ -1736,14 +1808,6 @@
       "word": "医保个账里的钱可跨省给家人用",
       "onboard_time": 1767952341,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97645,
-      "num": 97645,
-      "word": "廖某宇判死缓其家属冲击法庭被制止",
-      "onboard_time": 1767955700,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1809,6 +1873,14 @@
       "onboard_time": 1767940760,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 95796,
+      "num": 95796,
+      "word": "男子唇周黑斑肠道查出200多颗息肉",
+      "onboard_time": 1767956840,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95783,
@@ -1939,12 +2011,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91013,
+      "num": 91013,
+      "word": "韩振直播",
+      "onboard_time": 1767957561,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90509,
       "num": 90509,
       "word": "张继科说男队没之前稳定",
       "onboard_time": 1767927020,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89818,
+      "num": 89818,
+      "word": "王一博回应情绪稳定",
+      "onboard_time": 1767956241,
+      "rank": 37,
+      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 89713,
@@ -1955,12 +2043,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89563,
+      "num": 89563,
+      "word": "王凯新剧署名好权威",
+      "onboard_time": 1767957020,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88509,
       "num": 88509,
       "word": "超自然行动组",
       "onboard_time": 1767925760,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 88398,
+      "num": 137267,
+      "word": "金正恩称愿与普京始终站在一起",
+      "onboard_time": 1767956481,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 88332,
+      "num": 88332,
+      "word": "今晚你轧戏吗",
+      "onboard_time": 1767957439,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 88112,
@@ -2115,6 +2227,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 81425,
+      "num": 81425,
+      "word": "知道缅因猫大但没想到这么大",
+      "onboard_time": 1767955940,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 81328,
       "num": 81328,
       "word": "赵今麦新剧会说敢说",
@@ -2129,6 +2249,14 @@
       "onboard_time": 1767867440,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80981,
+      "num": 80981,
+      "word": "比浏览记录更劲爆的是计算器记录",
+      "onboard_time": 1767957981,
+      "rank": 43,
+      "category": "休闲"
     },
     {
       "raw_hot": 80517,
@@ -2195,6 +2323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76257,
+      "num": 76257,
+      "word": "陈浚铭被贴在少年宫墙上",
+      "onboard_time": 1767957862,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75307,
       "num": 75307,
       "word": "林诗栋3比2杜达",
@@ -2257,6 +2393,14 @@
       "onboard_time": 1767951681,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 70352,
+      "num": 70352,
+      "word": "PEL搞什么",
+      "onboard_time": 1767957260,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 69592,
