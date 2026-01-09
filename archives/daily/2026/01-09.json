@@ -1,6 +1,6 @@
 {
   "startTime": 1767890395081,
-  "endTime": 1767963575644,
+  "endTime": 1767964464467,
   "band_list": [
     {
       "raw_hot": 8104554,
@@ -35,6 +35,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 937090,
+      "num": 1149934,
+      "word": "轧戏",
+      "onboard_time": 1767926660,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 822931,
+      "num": 232494,
+      "word": "演员关凌因挤痘事件上火烂嘴角",
+      "onboard_time": 1767960921,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 794730,
       "num": 213004,
       "word": "车祸肇事者家庭条件相当好",
@@ -67,20 +83,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 711874,
-      "num": 232494,
-      "word": "演员关凌因挤痘事件上火烂嘴角",
-      "onboard_time": 1767960921,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 698379,
       "num": 829699,
       "word": "中国人花六十多万买下北海道三套房",
       "onboard_time": 1767885380,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 689093,
+      "num": 581765,
+      "word": "顾漫五部曲吴倩出演了三部",
+      "onboard_time": 1767959960,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 679440,
@@ -105,14 +121,6 @@
       "onboard_time": 1767931161,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 665521,
-      "num": 370293,
-      "word": "顾漫五部曲吴倩出演了三部",
-      "onboard_time": 1767959960,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 647517,
@@ -227,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 445209,
+      "num": 231825,
+      "word": "今天的赵丽颖梦回明兰了",
+      "onboard_time": 1767960439,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 443581,
       "num": 133588,
       "word": "女子补户口本发现名下有老公私生子",
@@ -235,20 +251,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 441999,
-      "num": 798987,
-      "word": "轧戏",
-      "onboard_time": 1767926660,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 431862,
       "num": 431862,
       "word": "液断7天瘦了13.2斤",
       "onboard_time": 1767949820,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 431085,
+      "num": 214101,
+      "word": "妻子整理遗物发现亡夫转情人1900万",
+      "onboard_time": 1767963080,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 423306,
@@ -273,14 +289,6 @@
       "onboard_time": 1767955159,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 413900,
-      "num": 231825,
-      "word": "今天的赵丽颖梦回明兰了",
-      "onboard_time": 1767960439,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 413446,
@@ -428,7 +436,7 @@
     },
     {
       "raw_hot": 301656,
-      "num": 167311,
+      "num": 189986,
       "word": "廖某宇判死缓其家属冲击法庭被制止",
       "onboard_time": 1767955700,
       "rank": 37,
@@ -440,6 +448,14 @@
       "word": "网传宋威龙赵今麦或二搭",
       "onboard_time": 1767943580,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 293950,
+      "num": 293950,
+      "word": "猫的树真的很会拍",
+      "onboard_time": 1767962240,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -457,6 +473,14 @@
       "onboard_time": 1767873022,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 287671,
+      "num": 211525,
+      "word": "黄晓明认证和赵丽颖是魔丸灵珠",
+      "onboard_time": 1767964279,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 284583,
@@ -651,11 +675,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 230548,
-      "num": 230548,
-      "word": "猫的树真的很会拍",
-      "onboard_time": 1767962240,
-      "rank": 13,
+      "raw_hot": 231039,
+      "num": 212426,
+      "word": "卢昱晓好美",
+      "onboard_time": 1767962360,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -971,14 +995,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169630,
-      "num": 169630,
-      "word": "卢昱晓好美",
-      "onboard_time": 1767962360,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 168309,
       "num": 168309,
       "word": "刘宇宁欧阳娣娣欧阳娜娜画像",
@@ -1187,14 +1203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146104,
-      "num": 146104,
-      "word": "妻子整理遗物发现亡夫转情人1900万",
-      "onboard_time": 1767963080,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145462,
       "num": 145462,
       "word": "2026总台央视片单抢先看",
@@ -1209,6 +1217,14 @@
       "onboard_time": 1767929962,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143003,
+      "num": 120202,
+      "word": "彭小苒已争气争气再争气",
+      "onboard_time": 1767963382,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 142427,
@@ -1299,6 +1315,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 133811,
+      "num": 215895,
+      "word": "俄罗斯报复乌克兰",
+      "onboard_time": 1767959421,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 132524,
       "num": 132524,
       "word": "肖战双剧登总台2026大剧片单",
@@ -1353,6 +1377,14 @@
       "onboard_time": 1767929480,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127050,
+      "num": 206384,
+      "word": "南通市第一人民医院致歉",
+      "onboard_time": 1767963441,
+      "rank": 35,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 126800,
@@ -1643,14 +1675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109388,
-      "num": 109388,
-      "word": "俄罗斯报复乌克兰",
-      "onboard_time": 1767959421,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 108131,
       "num": 108131,
       "word": "孙颖莎恢复训练",
@@ -1843,6 +1867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101038,
+      "num": 101038,
+      "word": "比浏览记录更劲爆的是计算器记录",
+      "onboard_time": 1767957981,
+      "rank": 43,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 101011,
       "num": 99090,
       "word": "周震南扫楼送妈妈做的腊肠",
@@ -1939,14 +1971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97638,
-      "num": 97638,
-      "word": "比浏览记录更劲爆的是计算器记录",
-      "onboard_time": 1767957981,
-      "rank": 43,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 97593,
       "num": 180459,
       "word": "吴千语娜然让小说女主有了脸",
@@ -2041,6 +2065,14 @@
       "onboard_time": 1767947182,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95622,
+      "num": 213499,
+      "word": "医院通报女子看胃病死于心脏手术",
+      "onboard_time": 1767963201,
+      "rank": 17,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 95262,
@@ -2171,20 +2203,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91003,
+      "num": 91003,
+      "word": "猫的树拍的陈星旭",
+      "onboard_time": 1767964221,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90509,
       "num": 90509,
       "word": "张继科说男队没之前稳定",
       "onboard_time": 1767927020,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 89832,
-      "num": 89832,
-      "word": "彭小苒已争气争气再争气",
-      "onboard_time": 1767963382,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 89713,
@@ -2355,6 +2387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83551,
+      "num": 91415,
+      "word": "周生生一条金项链一年多涨了近10万",
+      "onboard_time": 1767964161,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83239,
       "num": 83239,
       "word": "一家三口被撞亡家属路过现场未停留",
@@ -2427,6 +2467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78768,
+      "num": 78768,
+      "word": "樊振东最新比赛信息出炉",
+      "onboard_time": 1767963801,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78223,
       "num": 86448,
       "word": "日产高管欢迎同行做大插混市场",
@@ -2457,6 +2505,14 @@
       "onboard_time": 1767902833,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77471,
+      "num": 77471,
+      "word": "新年美甲最佳时间",
+      "onboard_time": 1767962781,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 77327,
@@ -2563,6 +2619,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 70533,
+      "num": 69602,
+      "word": "虞书欣新剧云初令开机应援",
+      "onboard_time": 1767964342,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70422,
       "num": 179924,
       "word": "周瑜峡谷第一赘婿",
@@ -2577,6 +2641,14 @@
       "onboard_time": 1767957260,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 69968,
+      "num": 86633,
+      "word": "魔芋爽我好想你",
+      "onboard_time": 1767960380,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 69592,
@@ -2609,14 +2681,6 @@
       "onboard_time": 1767916578,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 68286,
-      "num": 86633,
-      "word": "魔芋爽我好想你",
-      "onboard_time": 1767960380,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 66660,
@@ -2819,14 +2883,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 46234,
-      "num": 97747,
-      "word": "南通市第一人民医院致歉",
-      "onboard_time": 1767963441,
-      "rank": 35,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 46105,
       "num": 85049,
       "word": "医保个人账户跨省共济提速",
@@ -2987,14 +3043,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 28555,
-      "num": 205793,
-      "word": "医院通报女子看胃病死于心脏手术",
-      "onboard_time": 1767963201,
-      "rank": 17,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 27577,
       "num": 70125,
       "word": "导演认可侯明昊顶尖猫系男主",
@@ -3033,6 +3081,14 @@
       "onboard_time": 1767896835,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23786,
+      "num": 85722,
+      "word": "马杜罗宿敌或成委内瑞拉总督",
+      "onboard_time": 1767963921,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 22384,
@@ -3099,6 +3155,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 11695,
+      "num": 661212,
+      "word": "这组数据见证大国水网新画卷",
+      "onboard_time": 1767947962,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9587,
       "num": 180103,
       "word": "印度阅兵彩排再次上演摩托叠罗汉",
@@ -3111,14 +3175,6 @@
       "num": 592599,
       "word": "冰雪旅游3重破圈活力满满",
       "onboard_time": 1767937341,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 5729,
-      "num": 619788,
-      "word": "这组数据见证大国水网新画卷",
-      "onboard_time": 1767947962,
       "rank": 2,
       "category": "民生新闻"
     }
