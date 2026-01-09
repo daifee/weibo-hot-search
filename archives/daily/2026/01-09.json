@@ -1,6 +1,6 @@
 {
   "startTime": 1767890395081,
-  "endTime": 1767932188172,
+  "endTime": 1767934778752,
   "band_list": [
     {
       "raw_hot": 8104554,
@@ -59,6 +59,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 622883,
+      "num": 1099661,
+      "word": "嘲笑同事的奖牌破结果发现是纯金的",
+      "onboard_time": 1767929420,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 582382,
+      "num": 582382,
+      "word": "景德镇肇事司机家属冲撞公诉席被摁住",
+      "onboard_time": 1767931161,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 540536,
       "num": 176109,
       "word": "檀健次直播",
@@ -67,20 +83,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 528076,
+      "num": 267264,
+      "word": "王安宇狂流官宣",
+      "onboard_time": 1767932362,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 504403,
       "num": 154472,
       "word": "红果年度短剧",
       "onboard_time": 1767914478,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 503473,
-      "num": 1080555,
-      "word": "嘲笑同事的奖牌破结果发现是纯金的",
-      "onboard_time": 1767929420,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 443581,
@@ -92,11 +108,27 @@
     },
     {
       "raw_hot": 405221,
-      "num": 244940,
+      "num": 248763,
       "word": "御赐小仵作2定档",
       "onboard_time": 1767928101,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 403587,
+      "num": 158028,
+      "word": "王传君去了武大靖退役仪式",
+      "onboard_time": 1767932663,
+      "rank": 21,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 388351,
+      "num": 388351,
+      "word": "关东煮 鞋底豆干",
+      "onboard_time": 1767929541,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 365511,
@@ -132,7 +164,7 @@
     },
     {
       "raw_hot": 343243,
-      "num": 153886,
+      "num": 157297,
       "word": "刘美含说的是谁",
       "onboard_time": 1767925700,
       "rank": 20,
@@ -147,12 +179,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 330936,
-      "num": 330936,
-      "word": "关东煮 鞋底豆干",
-      "onboard_time": 1767929541,
-      "rank": 4,
-      "category": "美食"
+      "raw_hot": 327778,
+      "num": 157849,
+      "word": "原来痛经是子宫太想保护你",
+      "onboard_time": 1767932182,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 317545,
+      "num": 317545,
+      "word": "用3年赚到了100万",
+      "onboard_time": 1767932301,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 293528,
@@ -160,6 +200,14 @@
       "word": "中产涌入超市抢300元羽绒服",
       "onboard_time": 1767882623,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 290938,
+      "num": 290938,
+      "word": "女子频繁往下水道冲猫砂判赔10万",
+      "onboard_time": 1767933021,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -179,20 +227,36 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 271382,
-      "num": 153578,
+      "raw_hot": 272754,
+      "num": 157624,
       "word": "Faker举报路人游戏ID",
       "onboard_time": 1767930741,
       "rank": 21,
       "category": "电竞"
     },
     {
-      "raw_hot": 259393,
-      "num": 259393,
-      "word": "景德镇肇事司机家属冲撞公诉席被摁住",
-      "onboard_time": 1767931161,
-      "rank": 30,
+      "raw_hot": 268283,
+      "num": 268283,
+      "word": "廖某宇当庭表现平静",
+      "onboard_time": 1767931101,
+      "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 266895,
+      "num": 266895,
+      "word": "丈夫砸家事件女子将洗碗机退货",
+      "onboard_time": 1767931221,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259165,
+      "num": 259165,
+      "word": "家业官宣改名祯娘传",
+      "onboard_time": 1767933621,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 250591,
@@ -217,6 +281,22 @@
       "onboard_time": 1767879742,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 236260,
+      "num": 249643,
+      "word": "俄乌冲突",
+      "onboard_time": 1767931221,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 235386,
+      "num": 267433,
+      "word": "朋友圈长按微信头像可以设置权限",
+      "onboard_time": 1767933323,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 222673,
@@ -251,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206668,
+      "num": 206668,
+      "word": "家业",
+      "onboard_time": 1767931880,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202641,
       "num": 202641,
       "word": "巅峰榜年度十大艺人",
@@ -275,20 +363,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200343,
-      "num": 200343,
-      "word": "家业",
-      "onboard_time": 1767931880,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 197638,
       "num": 94016,
       "word": "于正说的85花顶流是张慧雯",
       "onboard_time": 1767914658,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192222,
+      "num": 156848,
+      "word": "美国夺取格陵兰岛方案价码流出",
+      "onboard_time": 1767933202,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 192017,
@@ -355,16 +443,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 163147,
-      "num": 249643,
-      "word": "俄乌冲突",
-      "onboard_time": 1767931221,
-      "rank": 29,
-      "category": "国际时政"
+      "raw_hot": 162985,
+      "num": 156397,
+      "word": "国产剧开始为妇产科发声了",
+      "onboard_time": 1767934102,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 162421,
-      "num": 121181,
+      "num": 158674,
       "word": "毛绒玩具里藏了10万黄金",
       "onboard_time": 1767931642,
       "rank": 30,
@@ -387,11 +475,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 159218,
-      "num": 159218,
-      "word": "丈夫砸家事件女子将洗碗机退货",
-      "onboard_time": 1767931221,
-      "rank": 40,
+      "raw_hot": 156354,
+      "num": 156354,
+      "word": "女子跨年夜被前男友捅26刀身亡",
+      "onboard_time": 1767933143,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -401,6 +489,14 @@
       "onboard_time": 1767930202,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150058,
+      "num": 150058,
+      "word": "A股",
+      "onboard_time": 1767927740,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 147691,
@@ -427,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147298,
+      "num": 147298,
+      "word": "胡歌李沁命运十四年前的伏笔",
+      "onboard_time": 1767932061,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145462,
       "num": 145462,
       "word": "2026总台央视片单抢先看",
@@ -436,10 +540,18 @@
     },
     {
       "raw_hot": 145279,
-      "num": 145279,
+      "num": 158563,
       "word": "狂流",
       "onboard_time": 1767929962,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141687,
+      "num": 141687,
+      "word": "刘浩存最萌的脸开最猛的车",
+      "onboard_time": 1767932301,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -515,12 +627,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126883,
-      "num": 126883,
-      "word": "A股",
-      "onboard_time": 1767927740,
-      "rank": 31,
-      "category": "财经"
+      "raw_hot": 128610,
+      "num": 128610,
+      "word": "张雪峰发博纪念做梦都不敢梦的一天",
+      "onboard_time": 1767934461,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126800,
@@ -603,6 +715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 115177,
+      "num": 115177,
+      "word": "千万不要让豆包帮忙搭配衣服",
+      "onboard_time": 1767933802,
+      "rank": 36,
+      "category": "幽默,互联网"
+    },
+    {
       "raw_hot": 113723,
       "num": 113723,
       "word": "得闲谨制票房3.93亿",
@@ -643,6 +763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 110284,
+      "num": 110284,
+      "word": "宋雨琦说李昀锐就是甜",
+      "onboard_time": 1767932544,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109815,
       "num": 176341,
       "word": "张凌赫背林允",
@@ -664,6 +792,14 @@
       "word": "博主吃播室友剩饭被多平台封禁",
       "onboard_time": 1767889278,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107721,
+      "num": 107721,
+      "word": "中铁五局被停业整顿180日",
+      "onboard_time": 1767934341,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -699,28 +835,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106235,
-      "num": 106235,
-      "word": "胡歌李沁命运十四年前的伏笔",
-      "onboard_time": 1767932061,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 105723,
       "num": 105723,
       "word": "美国副总统万斯警告欧洲",
       "onboard_time": 1767931702,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 104109,
-      "num": 104109,
-      "word": "廖某宇当庭表现平静",
-      "onboard_time": 1767931101,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 103234,
@@ -779,12 +899,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96169,
+      "num": 96169,
+      "word": "小城大事第0集",
+      "onboard_time": 1767932602,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 96161,
+      "num": 96161,
+      "word": "王者荣耀暴击夺宝好划算",
+      "onboard_time": 1767934580,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 95783,
       "num": 175911,
       "word": "张真源腰腹纹身",
       "onboard_time": 1767874643,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94898,
+      "num": 94898,
+      "word": "只有肖战才能超越肖战",
+      "onboard_time": 1767933982,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 94415,

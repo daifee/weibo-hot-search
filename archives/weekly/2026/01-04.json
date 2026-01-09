@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767932188172,
+  "endTime": 1767934778752,
   "band_list": [
     {
       "raw_hot": 8104554,
@@ -971,6 +971,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 622883,
+      "num": 1099661,
+      "word": "嘲笑同事的奖牌破结果发现是纯金的",
+      "onboard_time": 1767929420,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 615112,
       "num": 832547,
       "word": "1盒内存条堪比上海1套房",
@@ -1065,6 +1073,14 @@
       "onboard_time": 1767499703,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 582382,
+      "num": 582382,
+      "word": "景德镇肇事司机家属冲撞公诉席被摁住",
+      "onboard_time": 1767931161,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 579903,
@@ -1355,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 528076,
+      "num": 267264,
+      "word": "王安宇狂流官宣",
+      "onboard_time": 1767932362,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 527938,
       "num": 238510,
       "word": "再见爱人5全员下车",
@@ -1617,14 +1641,6 @@
       "onboard_time": 1767584181,
       "rank": 3,
       "category": "美食"
-    },
-    {
-      "raw_hot": 503473,
-      "num": 1080555,
-      "word": "嘲笑同事的奖牌破结果发现是纯金的",
-      "onboard_time": 1767929420,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 503346,
@@ -2364,7 +2380,7 @@
     },
     {
       "raw_hot": 405221,
-      "num": 244940,
+      "num": 248763,
       "word": "御赐小仵作2定档",
       "onboard_time": 1767928101,
       "rank": 10,
@@ -2385,6 +2401,14 @@
       "onboard_time": 1767855621,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 403587,
+      "num": 158028,
+      "word": "王传君去了武大靖退役仪式",
+      "onboard_time": 1767932663,
+      "rank": 21,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 401318,
@@ -2489,6 +2513,14 @@
       "onboard_time": 1767582021,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 388351,
+      "num": 388351,
+      "word": "关东煮 鞋底豆干",
+      "onboard_time": 1767929541,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 386094,
@@ -2972,7 +3004,7 @@
     },
     {
       "raw_hot": 343243,
-      "num": 153886,
+      "num": 157297,
       "word": "刘美含说的是谁",
       "onboard_time": 1767925700,
       "rank": 20,
@@ -3115,14 +3147,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 330936,
-      "num": 330936,
-      "word": "关东煮 鞋底豆干",
-      "onboard_time": 1767929541,
-      "rank": 4,
-      "category": "美食"
-    },
-    {
       "raw_hot": 330680,
       "num": 762678,
       "word": "陈志被从柬埔寨押解回国",
@@ -3169,6 +3193,14 @@
       "onboard_time": 1767792024,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 327778,
+      "num": 157849,
+      "word": "原来痛经是子宫太想保护你",
+      "onboard_time": 1767932182,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 327596,
@@ -3345,6 +3377,14 @@
       "onboard_time": 1767584781,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 317545,
+      "num": 317545,
+      "word": "用3年赚到了100万",
+      "onboard_time": 1767932301,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 317349,
@@ -3683,6 +3723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 290938,
+      "num": 290938,
+      "word": "女子频繁往下水道冲猫砂判赔10万",
+      "onboard_time": 1767933021,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 290460,
       "num": 352214,
       "word": "李在明夫人感谢中国女性代表",
@@ -3915,6 +3963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272754,
+      "num": 157624,
+      "word": "Faker举报路人游戏ID",
+      "onboard_time": 1767930741,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 271655,
       "num": 815469,
       "word": "马杜罗及其夫人已在美国被起诉",
@@ -3937,14 +3993,6 @@
       "onboard_time": 1767538764,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 271382,
-      "num": 153578,
-      "word": "Faker举报路人游戏ID",
-      "onboard_time": 1767930741,
-      "rank": 21,
-      "category": "电竞"
     },
     {
       "raw_hot": 271312,
@@ -3995,6 +4043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268283,
+      "num": 268283,
+      "word": "廖某宇当庭表现平静",
+      "onboard_time": 1767931101,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 268232,
       "num": 206794,
       "word": "王源演唱会 防狼喷雾",
@@ -4024,6 +4080,14 @@
       "word": "女生游黄山身亡家属称护栏存缺陷",
       "onboard_time": 1767595161,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 266895,
+      "num": 266895,
+      "word": "丈夫砸家事件女子将洗碗机退货",
+      "onboard_time": 1767931221,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -4147,12 +4211,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 259393,
-      "num": 259393,
-      "word": "景德镇肇事司机家属冲撞公诉席被摁住",
-      "onboard_time": 1767931161,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 259165,
+      "num": 259165,
+      "word": "家业官宣改名祯娘传",
+      "onboard_time": 1767933621,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 258939,
@@ -4499,6 +4563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 236260,
+      "num": 249643,
+      "word": "俄乌冲突",
+      "onboard_time": 1767931221,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 235727,
       "num": 235727,
       "word": "云初令",
@@ -4513,6 +4585,14 @@
       "onboard_time": 1767831080,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 235386,
+      "num": 267433,
+      "word": "朋友圈长按微信头像可以设置权限",
+      "onboard_time": 1767933323,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 235343,
@@ -5203,6 +5283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 206668,
+      "num": 206668,
+      "word": "家业",
+      "onboard_time": 1767931880,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206636,
       "num": 137928,
       "word": "范丞丞私下篮球台球都来的",
@@ -5393,14 +5481,6 @@
       "onboard_time": 1767445826,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200343,
-      "num": 200343,
-      "word": "家业",
-      "onboard_time": 1767931880,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 200023,
@@ -5801,6 +5881,14 @@
       "onboard_time": 1767759683,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 192222,
+      "num": 156848,
+      "word": "美国夺取格陵兰岛方案价码流出",
+      "onboard_time": 1767933202,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 192047,
@@ -7011,12 +7099,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 163147,
-      "num": 249643,
-      "word": "俄乌冲突",
-      "onboard_time": 1767931221,
-      "rank": 29,
-      "category": "国际时政"
+      "raw_hot": 162985,
+      "num": 156397,
+      "word": "国产剧开始为妇产科发声了",
+      "onboard_time": 1767934102,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 162979,
@@ -7044,7 +7132,7 @@
     },
     {
       "raw_hot": 162421,
-      "num": 121181,
+      "num": 158674,
       "word": "毛绒玩具里藏了10万黄金",
       "onboard_time": 1767931642,
       "rank": 30,
@@ -7187,14 +7275,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 159218,
-      "num": 159218,
-      "word": "丈夫砸家事件女子将洗碗机退货",
-      "onboard_time": 1767931221,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 159195,
       "num": 148125,
       "word": "上海全款150万9平米的独栋",
@@ -7289,6 +7369,14 @@
       "onboard_time": 1767539244,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156354,
+      "num": 156354,
+      "word": "女子跨年夜被前男友捅26刀身亡",
+      "onboard_time": 1767933143,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156316,
@@ -7739,6 +7827,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 147298,
+      "num": 147298,
+      "word": "胡歌李沁命运十四年前的伏笔",
+      "onboard_time": 1767932061,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147279,
       "num": 147279,
       "word": "陈妍希这个妆造美成啥了",
@@ -7900,7 +7996,7 @@
     },
     {
       "raw_hot": 145279,
-      "num": 145279,
+      "num": 158563,
       "word": "狂流",
       "onboard_time": 1767929962,
       "rank": 18,
@@ -8152,6 +8248,14 @@
       "word": "2025女演员扛剧花",
       "onboard_time": 1767714981,
       "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141687,
+      "num": 141687,
+      "word": "刘浩存最萌的脸开最猛的车",
+      "onboard_time": 1767932301,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -9057,6 +9161,14 @@
       "onboard_time": 1767771500,
       "rank": 40,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 128610,
+      "num": 128610,
+      "word": "张雪峰发博纪念做梦都不敢梦的一天",
+      "onboard_time": 1767934461,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128572,
@@ -10251,6 +10363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115177,
+      "num": 115177,
+      "word": "千万不要让豆包帮忙搭配衣服",
+      "onboard_time": 1767933802,
+      "rank": 36,
+      "category": "幽默,互联网"
+    },
+    {
       "raw_hot": 115083,
       "num": 223078,
       "word": "杨瀚森2分2篮板2盖帽",
@@ -10691,6 +10811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 110284,
+      "num": 110284,
+      "word": "宋雨琦说李昀锐就是甜",
+      "onboard_time": 1767932544,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110239,
       "num": 194738,
       "word": "黄奕风格大变",
@@ -10907,6 +11035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107721,
+      "num": 107721,
+      "word": "中铁五局被停业整顿180日",
+      "onboard_time": 1767934341,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107673,
       "num": 107673,
       "word": "黄景瑜央妈严选的含金量",
@@ -11033,14 +11169,6 @@
       "onboard_time": 1767757521,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 106235,
-      "num": 106235,
-      "word": "胡歌李沁命运十四年前的伏笔",
-      "onboard_time": 1767932061,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 106118,
@@ -11353,14 +11481,6 @@
       "onboard_time": 1767757402,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 104109,
-      "num": 104109,
-      "word": "廖某宇当庭表现平静",
-      "onboard_time": 1767931101,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104092,
@@ -12491,6 +12611,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 96169,
+      "num": 96169,
+      "word": "小城大事第0集",
+      "onboard_time": 1767932602,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 96161,
+      "num": 96161,
+      "word": "王者荣耀暴击夺宝好划算",
+      "onboard_time": 1767934580,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 96147,
       "num": 96147,
       "word": "张若昀阴湿男鬼味",
@@ -12641,6 +12777,14 @@
       "onboard_time": 1767605721,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94898,
+      "num": 94898,
+      "word": "只有肖战才能超越肖战",
+      "onboard_time": 1767933982,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 94840,
