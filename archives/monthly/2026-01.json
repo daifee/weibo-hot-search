@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767994165094,
+  "endTime": 1767994967290,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -28873,6 +28873,14 @@
       "onboard_time": 1767763461,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 9618,
+      "num": 14593,
+      "word": "男子境外转机失联妻子接奇怪电话",
+      "onboard_time": 1767992474,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9587,
