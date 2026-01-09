@@ -1,6 +1,6 @@
 {
   "startTime": 1767976730727,
-  "endTime": 1767977675861,
+  "endTime": 1767979836969,
   "band_list": [
     {
       "raw_hot": 853653,
@@ -19,7 +19,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 419642,
+      "raw_hot": 419905,
       "num": 674243,
       "word": "内蒙古赤峰一小学校服里有薄膜",
       "onboard_time": 1767974002,
@@ -51,19 +51,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 298321,
+      "num": 344777,
+      "word": "宣布闭店后的宜家人满为患",
+      "onboard_time": 1767974659,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 263973,
       "num": 146322,
       "word": "遭遇已婚博士后恋爱骗局女子被恐吓",
       "onboard_time": 1767972320,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 232455,
-      "num": 232455,
-      "word": "宣布闭店后的宜家人满为患",
-      "onboard_time": 1767974659,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -371,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52789,
+      "num": 52789,
+      "word": "轧戏 剧本杀",
+      "onboard_time": 1767978737,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51372,
       "num": 97802,
       "word": "TF家族2026新年音乐会荣耀",
@@ -425,6 +433,38 @@
       "onboard_time": 1767972201,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38019,
+      "num": 50900,
+      "word": "谁家男女主看似纯爱实际是纯恨",
+      "onboard_time": 1767978737,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 33935,
+      "num": 50788,
+      "word": "2026年人生体验清单",
+      "onboard_time": 1767979637,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 33192,
+      "num": 50822,
+      "word": "新音官摄舞台",
+      "onboard_time": 1767978258,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 32960,
+      "num": 50774,
+      "word": "俄罗斯报复乌克兰",
+      "onboard_time": 1767959421,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25539,
