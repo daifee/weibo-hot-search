@@ -1,6 +1,6 @@
 {
   "startTime": 1767976730727,
-  "endTime": 1767984978663,
+  "endTime": 1767986826968,
   "band_list": [
     {
       "raw_hot": 853653,
@@ -475,20 +475,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 32690,
+      "num": 32690,
+      "word": "赵丽颖说熟人局很享受",
+      "onboard_time": 1767983354,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 25539,
       "num": 420808,
       "word": "27项重大水利工程开工",
       "onboard_time": 1767967041,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23880,
-      "num": 30475,
-      "word": "赵丽颖说熟人局很享受",
-      "onboard_time": 1767983354,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 22996,
@@ -507,12 +507,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20852,
+      "num": 24302,
+      "word": "总台2026年电视剧片单",
+      "onboard_time": 1767958881,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 16662,
       "num": 26310,
       "word": "小城大事微博追剧团",
       "onboard_time": 1767977777,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14457,
+      "num": 24182,
+      "word": "中国唱将",
+      "onboard_time": 1767963441,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 10539,

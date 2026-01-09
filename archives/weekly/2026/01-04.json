@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767984978663,
+  "endTime": 1767986826968,
   "band_list": [
     {
       "raw_hot": 8104554,
@@ -19723,6 +19723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32690,
+      "num": 32690,
+      "word": "赵丽颖说熟人局很享受",
+      "onboard_time": 1767983354,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 32615,
       "num": 96005,
       "word": "船务公司否认招聘失联柬埔寨男子",
@@ -20297,14 +20305,6 @@
       "onboard_time": 1767816794,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 23880,
-      "num": 30475,
-      "word": "赵丽颖说熟人局很享受",
-      "onboard_time": 1767983354,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 23842,
