@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/10 00:38:50
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/10 00:54:35
 </p>
 </blockquote>
 <p>
@@ -2337,6 +2337,12 @@ iPhone没有一个按键是多余的（热度：420534）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E8%B5%A4%E5%B3%B0%E4%B8%80%E5%B0%8F%E5%AD%A6%E6%A0%A1%E6%9C%8D%E9%87%8C%E6%9C%89%E8%96%84%E8%86%9C%23" target="weibo">
+内蒙古赤峰一小学校服里有薄膜（热度：419642）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%89%8E%E5%88%B0%E9%BB%84%E6%99%93%E6%98%8E%23" target="weibo">
 赵丽颖一句话扎到黄晓明（热度：417150）
 </a>
@@ -3693,12 +3699,6 @@ TVB第一个打烂奖杯（热度：318351）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E8%B5%A4%E5%B3%B0%E4%B8%80%E5%B0%8F%E5%AD%A6%E6%A0%A1%E6%9C%8D%E9%87%8C%E6%9C%89%E8%96%84%E8%86%9C%23" target="weibo">
-内蒙古赤峰一小学校服里有薄膜（热度：300823）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%8E%9F%E4%B8%80%E5%95%86%E5%9C%BA%E9%A9%AC%E5%B9%B4%E9%9B%95%E5%A1%91%E8%A2%AB%E8%BF%9E%E5%A4%9C%E6%8B%86%E9%99%A4%23" target="weibo">
 太原一商场马年雕塑被连夜拆除（热度：300684）
 </a>
@@ -4893,6 +4893,12 @@ eStarPro官宣Fly加入（热度：258939）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%A3%E5%B8%83%E9%97%AD%E5%BA%97%E5%90%8E%E7%9A%84%E5%AE%9C%E5%AE%B6%E4%BA%BA%E6%BB%A1%E4%B8%BA%E6%82%A3%23" target="weibo">
+宣布闭店后的宜家人满为患（热度：232455）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B150%E6%9E%B6%E9%A3%9E%E6%9C%BA%E6%8A%93%E6%8D%95%E8%A1%8C%E5%8A%A8%E5%85%A8%E7%A8%8B%E6%9B%9D%E5%85%89%23" target="weibo">
 美军150架飞机抓捕行动全程曝光（热度：231805）
 </a>
@@ -6005,12 +6011,6 @@ Faker获青龙勋章（热度：200600）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%8F%AF%E7%9B%88%E5%A9%89%E6%8B%9215%E5%B2%81%E5%A5%B3%E5%84%BF%E5%87%BA%E9%81%93%23" target="weibo">
 郭可盈婉拒15岁女儿出道（热度：196155）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E4%BA%BA%E6%88%98%E8%83%9C%E9%B9%88%E9%B9%95%23" target="weibo">
-湖人战胜鹈鹕（热度：195692）
 </a>
 </li>
 

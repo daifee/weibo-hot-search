@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767976730727,
+  "endTime": 1767977675861,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -3099,6 +3099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 419642,
+      "num": 674243,
+      "word": "内蒙古赤峰一小学校服里有薄膜",
+      "onboard_time": 1767974002,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 417150,
       "num": 417150,
       "word": "赵丽颖一句话扎到黄晓明",
@@ -4907,14 +4915,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 300823,
-      "num": 300823,
-      "word": "内蒙古赤峰一小学校服里有薄膜",
-      "onboard_time": 1767974002,
-      "rank": 5,
-      "category": "教育"
-    },
-    {
       "raw_hot": 300684,
       "num": 268368,
       "word": "太原一商场马年雕塑被连夜拆除",
@@ -6505,6 +6505,14 @@
       "onboard_time": 1767252139,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 232455,
+      "num": 232455,
+      "word": "宣布闭店后的宜家人满为患",
+      "onboard_time": 1767974659,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231805,
@@ -11619,6 +11627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144802,
+      "num": 132672,
+      "word": "34层高楼回家得接力按楼层",
+      "onboard_time": 1767975200,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144671,
       "num": 189909,
       "word": "张凌赫壁纸",
@@ -12395,14 +12411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136769,
-      "num": 136769,
-      "word": "宣布闭店后的宜家人满为患",
-      "onboard_time": 1767974659,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136705,
       "num": 520182,
       "word": "IG对战JDG",
@@ -12857,14 +12865,6 @@
       "onboard_time": 1767792384,
       "rank": 42,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 132672,
-      "num": 132672,
-      "word": "34层高楼回家得接力按楼层",
-      "onboard_time": 1767975200,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132591,
@@ -19059,6 +19059,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 92788,
+      "num": 97940,
+      "word": "萧亚轩回应人生进入下半场",
+      "onboard_time": 1767974361,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92773,
       "num": 134075,
       "word": "马年生肖邮票来了",
@@ -20027,6 +20035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87733,
+      "num": 83581,
+      "word": "宜家闭店门店排长队市民发声",
+      "onboard_time": 1767977477,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87679,
       "num": 87679,
       "word": "摄影师是多喜欢文淇的眼睛",
@@ -20881,14 +20897,6 @@
       "onboard_time": 1767781043,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 83584,
-      "num": 97940,
-      "word": "萧亚轩回应人生进入下半场",
-      "onboard_time": 1767974361,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 83554,
@@ -24299,6 +24307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 59106,
+      "num": 97830,
+      "word": "黄景瑜说警察是无路亦向前的人",
+      "onboard_time": 1767973702,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 58961,
       "num": 109243,
       "word": "王者赛季皮肤含金量",
@@ -24561,14 +24577,6 @@
       "onboard_time": 1767432505,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 56569,
-      "num": 97830,
-      "word": "黄景瑜说警察是无路亦向前的人",
-      "onboard_time": 1767973702,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 56541,
@@ -24961,6 +24969,14 @@
       "onboard_time": 1767688102,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 53010,
+      "num": 83184,
+      "word": "声生不息华流季",
+      "onboard_time": 1767976939,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 52984,
@@ -25889,6 +25905,14 @@
       "onboard_time": 1767238341,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 44682,
+      "num": 82912,
+      "word": "邓紫棋破亚洲单巡纪录",
+      "onboard_time": 1767974481,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 44490,

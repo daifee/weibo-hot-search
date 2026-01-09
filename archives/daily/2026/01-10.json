@@ -1,6 +1,6 @@
 {
   "startTime": 1767976730727,
-  "endTime": 1767976730727,
+  "endTime": 1767977675861,
   "band_list": [
     {
       "raw_hot": 853653,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 419642,
+      "num": 674243,
+      "word": "内蒙古赤峰一小学校服里有薄膜",
+      "onboard_time": 1767974002,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 354869,
       "num": 354869,
       "word": "林屿森 下西瓜了",
@@ -35,14 +43,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 300823,
-      "num": 300823,
-      "word": "内蒙古赤峰一小学校服里有薄膜",
-      "onboard_time": 1767974002,
-      "rank": 5,
-      "category": "教育"
-    },
-    {
       "raw_hot": 300252,
       "num": 153484,
       "word": "父亲称儿子撞亡一家三口系天灾",
@@ -56,6 +56,14 @@
       "word": "遭遇已婚博士后恋爱骗局女子被恐吓",
       "onboard_time": 1767972320,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232455,
+      "num": 232455,
+      "word": "宣布闭店后的宜家人满为患",
+      "onboard_time": 1767974659,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -123,15 +131,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136769,
-      "num": 136769,
-      "word": "宣布闭店后的宜家人满为患",
-      "onboard_time": 1767974659,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132672,
+      "raw_hot": 144802,
       "num": 132672,
       "word": "34层高楼回家得接力按楼层",
       "onboard_time": 1767975200,
@@ -195,12 +195,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83584,
+      "raw_hot": 92788,
       "num": 97940,
       "word": "萧亚轩回应人生进入下半场",
       "onboard_time": 1767974361,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87733,
+      "num": 83581,
+      "word": "宜家闭店门店排长队市民发声",
+      "onboard_time": 1767977477,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82637,
@@ -299,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59106,
+      "num": 97830,
+      "word": "黄景瑜说警察是无路亦向前的人",
+      "onboard_time": 1767973702,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 57956,
       "num": 97921,
       "word": "美国正在进行服从性测试",
@@ -321,14 +337,6 @@
       "onboard_time": 1767966143,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 56569,
-      "num": 97830,
-      "word": "黄景瑜说警察是无路亦向前的人",
-      "onboard_time": 1767973702,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 55934,
@@ -355,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53010,
+      "num": 83184,
+      "word": "声生不息华流季",
+      "onboard_time": 1767976939,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 51372,
       "num": 97802,
       "word": "TF家族2026新年音乐会荣耀",
@@ -371,7 +387,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48314,
+      "raw_hot": 49123,
       "num": 97783,
       "word": "古天乐被曝拍戏时每晚照美黑灯",
       "onboard_time": 1767965601,
@@ -387,12 +403,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44682,
+      "num": 82912,
+      "word": "邓紫棋破亚洲单巡纪录",
+      "onboard_time": 1767974481,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 43826,
       "num": 97770,
       "word": "台独分子沈伯洋全网紧急删个人定位",
       "onboard_time": 1767957439,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 43185,
+      "num": 82682,
+      "word": "肖战谍报上不封顶新预告片",
+      "onboard_time": 1767972201,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 25539,
