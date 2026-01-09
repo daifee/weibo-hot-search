@@ -1,6 +1,6 @@
 {
   "startTime": 1767890395081,
-  "endTime": 1767944028932,
+  "endTime": 1767944803815,
   "band_list": [
     {
       "raw_hot": 8104554,
@@ -75,12 +75,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 662063,
+      "num": 1105930,
+      "word": "住房公积金制度改革",
+      "onboard_time": 1767943340,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 647517,
       "num": 328423,
       "word": "张雪峰发博纪念做梦都不敢梦的一天",
       "onboard_time": 1767934461,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 633711,
+      "num": 210463,
+      "word": "网传再见爱人邓莎夫妇没下车",
+      "onboard_time": 1767943880,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 622883,
@@ -91,8 +107,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 601626,
-      "num": 601626,
+      "raw_hot": 603107,
+      "num": 603107,
       "word": "南通一医院酿一级甲等医疗事故",
       "onboard_time": 1767939802,
       "rank": 30,
@@ -113,6 +129,14 @@
       "onboard_time": 1767932362,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 522348,
+      "num": 425186,
+      "word": "ICE枪杀",
+      "onboard_time": 1767941361,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 504403,
@@ -145,14 +169,6 @@
       "onboard_time": 1767914598,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 425186,
-      "num": 425186,
-      "word": "ICE枪杀",
-      "onboard_time": 1767941361,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 423306,
@@ -347,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 263001,
+      "num": 194668,
+      "word": "网传宋威龙赵今麦或二搭",
+      "onboard_time": 1767943580,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259165,
       "num": 259165,
       "word": "家业官宣改名祯娘传",
@@ -363,20 +387,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 256536,
+      "num": 213464,
+      "word": "万斯称遭ICE射杀女子是咎由自取",
+      "onboard_time": 1767943041,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 250591,
       "num": 61482,
       "word": "文淇被陌生男子骚扰",
       "onboard_time": 1767914478,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 250071,
-      "num": 453992,
-      "word": "住房公积金制度改革",
-      "onboard_time": 1767943340,
-      "rank": 4,
-      "category": "财经"
     },
     {
       "raw_hot": 244419,
@@ -419,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223825,
+      "num": 147175,
+      "word": "王一博 一款情绪稳定的岩羊",
+      "onboard_time": 1767944359,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223089,
       "num": 209063,
       "word": "杨紫祯娘传新镜头",
@@ -457,14 +489,6 @@
       "onboard_time": 1767926301,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 210463,
-      "num": 210463,
-      "word": "网传再见爱人邓莎夫妇没下车",
-      "onboard_time": 1767943880,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 206668,
@@ -675,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158924,
+      "num": 158924,
+      "word": "时代少年团演唱会年度价值TOP1",
+      "onboard_time": 1767943761,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 156354,
       "num": 156354,
       "word": "女子跨年夜被前男友捅26刀身亡",
@@ -683,16 +715,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 155917,
-      "num": 155917,
-      "word": "万斯称遭ICE射杀女子是咎由自取",
-      "onboard_time": 1767943041,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 153359,
-      "num": 119959,
+      "num": 130986,
       "word": "延长甲 外置器官",
       "onboard_time": 1767940579,
       "rank": 48,
@@ -769,6 +793,14 @@
       "onboard_time": 1767932061,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146201,
+      "num": 146201,
+      "word": "退圈歌手都来有歌了",
+      "onboard_time": 1767943159,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 145462,
@@ -873,14 +905,6 @@
       "onboard_time": 1767929661,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132132,
-      "num": 132132,
-      "word": "退圈歌手都来有歌了",
-      "onboard_time": 1767943159,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 131286,
@@ -1011,14 +1035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119282,
-      "num": 119282,
-      "word": "网传宋威龙赵今麦或二搭",
-      "onboard_time": 1767943580,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 118347,
       "num": 118347,
       "word": "张若昀马思纯撞脸",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1767935959,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114964,
+      "num": 114964,
+      "word": "果然对王嘉尔的人脉一无所知",
+      "onboard_time": 1767944660,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 113723,
@@ -1275,6 +1299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98752,
+      "num": 98752,
+      "word": "保时捷文案",
+      "onboard_time": 1767943999,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 98339,
       "num": 98339,
       "word": "在Excel里玩拼豆",
@@ -1339,6 +1371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 96119,
+      "num": 96119,
+      "word": "男子在鞋内藏定位器发现妻子出轨",
+      "onboard_time": 1767944240,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95871,
       "num": 95871,
       "word": "和手机分房睡",
@@ -1363,6 +1403,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 94778,
+      "num": 94778,
+      "word": "王一博 导师的梦中情徒",
+      "onboard_time": 1767944602,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 94521,
+      "num": 94521,
+      "word": "A股放量3224亿",
+      "onboard_time": 1767944660,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 94415,
       "num": 94415,
       "word": "玉茗茶骨收视第一",
@@ -1377,6 +1433,22 @@
       "onboard_time": 1767931582,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92912,
+      "num": 94803,
+      "word": "期待再次吃到杨洋的古装细糠",
+      "onboard_time": 1767944121,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 92520,
+      "num": 92520,
+      "word": "AppleWatch房颤历史获国家批准",
+      "onboard_time": 1767943999,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 91964,
@@ -1409,14 +1481,6 @@
       "onboard_time": 1767927919,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 90572,
-      "num": 90572,
-      "word": "时代少年团演唱会年度价值TOP1",
-      "onboard_time": 1767943761,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 90509,
@@ -1523,6 +1587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81777,
+      "num": 81777,
+      "word": "怎么不等我出生前再告诉我",
+      "onboard_time": 1767944060,
+      "rank": 46,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 81328,
       "num": 81328,
       "word": "赵今麦新剧会说敢说",
@@ -1539,28 +1611,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80524,
-      "num": 80524,
-      "word": "保时捷文案",
-      "onboard_time": 1767943999,
-      "rank": 48,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 80517,
       "num": 185940,
       "word": "三九天喝苹果水",
       "onboard_time": 1767866000,
       "rank": 9,
       "category": "美食"
-    },
-    {
-      "raw_hot": 79895,
-      "num": 79895,
-      "word": "AppleWatch房颤历史获国家批准",
-      "onboard_time": 1767943999,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 78223,
@@ -1860,7 +1916,7 @@
     },
     {
       "raw_hot": 37478,
-      "num": 623567,
+      "num": 651183,
       "word": "2026以旧换新国补持续发力",
       "onboard_time": 1767938181,
       "rank": 2,
