@@ -1,0 +1,410 @@
+{
+  "runTime": 1767966278406,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 999982,
+        "num": 1159997,
+        "word": "轧戏",
+        "onboard_time": 1767957140,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 638629,
+        "num": 835661,
+        "word": "住房公积金制度改革",
+        "onboard_time": 1767943340,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 18927,
+        "num": 656310,
+        "word": "这组数据见证大国水网新画卷",
+        "onboard_time": 1767947962,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 547723,
+        "num": 547723,
+        "word": "顾漫五部曲吴倩出演了三部",
+        "onboard_time": 1767959960,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352146,
+        "num": 352146,
+        "word": "台湾网红馆长以恐吓罪被起诉",
+        "onboard_time": 1767959361,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 533941,
+        "num": 330755,
+        "word": "今天的赵丽颖梦回明兰了",
+        "onboard_time": 1767960439,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273794,
+        "num": 273794,
+        "word": "猫的树真的很会拍",
+        "onboard_time": 1767962240,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232235,
+        "num": 232235,
+        "word": "胖东来回应羽绒服进价303售价393",
+        "onboard_time": 1767951142,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190294,
+        "num": 190294,
+        "word": "喜欢车厘子和抹茶的有福了",
+        "onboard_time": 1767956539,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 152452,
+        "num": 152452,
+        "word": "医院通报女子看胃病死于心脏手术",
+        "onboard_time": 1767963201,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 820463,
+        "num": 152347,
+        "word": "妻子整理遗物发现亡夫转情人1900万",
+        "onboard_time": 1767963080,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 436197,
+        "num": 151051,
+        "word": "卢昱晓好美",
+        "onboard_time": 1767962360,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 433901,
+        "num": 149779,
+        "word": "檀健次文案翻译",
+        "onboard_time": 1767953121,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 225536,
+        "num": 147978,
+        "word": "液断7天瘦了13.2斤",
+        "onboard_time": 1767949820,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230781,
+        "num": 147055,
+        "word": "当红演员未进组天数",
+        "onboard_time": 1767965362,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212253,
+        "num": 145989,
+        "word": "娜扎直播",
+        "onboard_time": 1767965301,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171458,
+        "num": 144612,
+        "word": "鹅鸭杀排队补偿",
+        "onboard_time": 1767965841,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220703,
+        "num": 143747,
+        "word": "檀健次不语只是一味打歌",
+        "onboard_time": 1767951622,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207089,
+        "num": 142948,
+        "word": "黄晓明认证和赵丽颖是魔丸灵珠",
+        "onboard_time": 1767964279,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59773,
+        "num": 141004,
+        "word": "赵长江称智界V9三年之内难有对手",
+        "onboard_time": 1767962960,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 753222,
+        "num": 139633,
+        "word": "演员关凌因挤痘事件上火烂嘴角",
+        "onboard_time": 1767960921,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211902,
+        "num": 138973,
+        "word": "山姆回应充绒400克499元羽绒服卖爆",
+        "onboard_time": 1767951201,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180895,
+        "num": 137430,
+        "word": "周生生一条金项链一年多涨了近10万",
+        "onboard_time": 1767964161,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137066,
+        "num": 137066,
+        "word": "轧戏开播",
+        "onboard_time": 1767957801,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131661,
+        "num": 131661,
+        "word": "李幼斌去养老院看父母特别痛苦",
+        "onboard_time": 1767956122,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127815,
+        "num": 127815,
+        "word": "集美大学花720万元采购可乐",
+        "onboard_time": 1767953900,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130388,
+        "num": 125389,
+        "word": "朱珠往那一坐就有两个身份",
+        "onboard_time": 1767965482,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120860,
+        "num": 120860,
+        "word": "吴谨言这毅力做什么都会成功",
+        "onboard_time": 1767965241,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111162,
+        "num": 111162,
+        "word": "俄罗斯报复乌克兰",
+        "onboard_time": 1767959421,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81203,
+        "num": 110324,
+        "word": "台独分子沈伯洋全网紧急删个人定位",
+        "onboard_time": 1767957439,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112719,
+        "num": 110318,
+        "word": "彭小苒已争气争气再争气",
+        "onboard_time": 1767963382,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109871,
+        "num": 109871,
+        "word": "同居4年生娃分手后男方索要彩礼",
+        "onboard_time": 1767950542,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106091,
+        "num": 106091,
+        "word": "张碧晨裙子上有43朵玫瑰",
+        "onboard_time": 1767964762,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102710,
+        "num": 102710,
+        "word": "猫的树拍的陈星旭",
+        "onboard_time": 1767964221,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98485,
+        "num": 98485,
+        "word": "取消光伏等产品增值税出口退税",
+        "onboard_time": 1767955159,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95056,
+        "num": 95056,
+        "word": "年终奖领导30万员工1万",
+        "onboard_time": 1767939681,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92706,
+        "num": 92706,
+        "word": "华晨宇2025华语新专销量第一",
+        "onboard_time": 1767965902,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 91209,
+        "num": 91209,
+        "word": "古天乐被曝拍戏时每晚照美黑灯",
+        "onboard_time": 1767965601,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 300137,
+        "num": 89810,
+        "word": "南通市第一人民医院致歉",
+        "onboard_time": 1767963441,
+        "rank": 38,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 45866,
+        "num": 86831,
+        "word": "奶奶想要孙子遗弃残疾孙女近20年",
+        "onboard_time": 1767966143,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86546,
+        "num": 86546,
+        "word": "白鹿春晚彩排路透",
+        "onboard_time": 1767946161,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81477,
+        "num": 81477,
+        "word": "轧戏有27场吻戏",
+        "onboard_time": 1767961220,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80606,
+        "num": 80606,
+        "word": "新年美甲最佳时间",
+        "onboard_time": 1767962781,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 80242,
+        "num": 80242,
+        "word": "卢昱晓模仿代旭推眼镜",
+        "onboard_time": 1767964882,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 71272,
+        "num": 78473,
+        "word": "领导奖金30万员工1万公司已报警",
+        "onboard_time": 1767965961,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78318,
+        "num": 78318,
+        "word": "退役军犬在新家撒欢",
+        "onboard_time": 1767964702,
+        "rank": 45,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 78293,
+        "num": 78293,
+        "word": "许魏洲首登央视主持",
+        "onboard_time": 1767964882,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76715,
+        "num": 76715,
+        "word": "男子唇周黑斑肠道查出200多颗息肉",
+        "onboard_time": 1767956840,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76274,
+        "num": 76274,
+        "word": "宋威龙 春晚彩排",
+        "onboard_time": 1767949580,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32116,
+        "num": 75955,
+        "word": "深圳一公车日常接送学生引质疑",
+        "onboard_time": 1767964941,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#新的一年再启新程#"
+    }
+  }
+}

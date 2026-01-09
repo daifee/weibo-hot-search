@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767964464467,
+  "endTime": 1767966278406,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -443,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 999982,
+      "num": 1159997,
+      "word": "轧戏",
+      "onboard_time": 1767496704,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 987620,
       "num": 287964,
       "word": "黄金",
@@ -545,14 +553,6 @@
       "onboard_time": 1767358040,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 937090,
-      "num": 1149934,
-      "word": "轧戏",
-      "onboard_time": 1767496704,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 932499,
@@ -737,6 +737,14 @@
       "onboard_time": 1767407007,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 820463,
+      "num": 214101,
+      "word": "妻子整理遗物发现亡夫转情人1900万",
+      "onboard_time": 1767963080,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 814910,
@@ -1835,6 +1843,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 533941,
+      "num": 330755,
+      "word": "今天的赵丽颖梦回明兰了",
+      "onboard_time": 1767960439,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 533860,
       "num": 831264,
       "word": "李在明驳斥中方干预韩选举荒唐言论",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767578599,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 484404,
-      "num": 394383,
-      "word": "今天是委内瑞拉明天可能是任何国家",
-      "onboard_time": 1767510502,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 483754,
-      "num": 920326,
-      "word": "美国在约半小时内宣称扣押两艘油轮",
-      "onboard_time": 1767816194,
-      "rank": 3,
-      "category": "军事"
     }
   ],
   "hotgov_list": [

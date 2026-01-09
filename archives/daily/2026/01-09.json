@@ -1,6 +1,6 @@
 {
   "startTime": 1767890395081,
-  "endTime": 1767964464467,
+  "endTime": 1767966278406,
   "band_list": [
     {
       "raw_hot": 8104554,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 999982,
+      "num": 1159997,
+      "word": "轧戏",
+      "onboard_time": 1767926660,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 945837,
       "num": 575009,
       "word": "年终奖领导30万员工1万",
@@ -35,20 +43,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 937090,
-      "num": 1149934,
-      "word": "轧戏",
-      "onboard_time": 1767926660,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 822931,
       "num": 232494,
       "word": "演员关凌因挤痘事件上火烂嘴角",
       "onboard_time": 1767960921,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 820463,
+      "num": 214101,
+      "word": "妻子整理遗物发现亡夫转情人1900万",
+      "onboard_time": 1767963080,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 794730,
@@ -187,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 533941,
+      "num": 330755,
+      "word": "今天的赵丽颖梦回明兰了",
+      "onboard_time": 1767960439,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 528076,
       "num": 267264,
       "word": "王安宇狂流官宣",
@@ -235,14 +251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 445209,
-      "num": 231825,
-      "word": "今天的赵丽颖梦回明兰了",
-      "onboard_time": 1767960439,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 443581,
       "num": 133588,
       "word": "女子补户口本发现名下有老公私生子",
@@ -251,20 +259,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 436197,
+      "num": 212426,
+      "word": "卢昱晓好美",
+      "onboard_time": 1767962360,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 431862,
       "num": 431862,
       "word": "液断7天瘦了13.2斤",
       "onboard_time": 1767949820,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 431085,
-      "num": 214101,
-      "word": "妻子整理遗物发现亡夫转情人1900万",
-      "onboard_time": 1767963080,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 423306,
@@ -449,6 +457,14 @@
       "onboard_time": 1767943580,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 300137,
+      "num": 206384,
+      "word": "南通市第一人民医院致歉",
+      "onboard_time": 1767963441,
+      "rank": 35,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 293950,
@@ -675,12 +691,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 231039,
-      "num": 212426,
-      "word": "卢昱晓好美",
-      "onboard_time": 1767962360,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 230781,
+      "num": 147055,
+      "word": "当红演员未进组天数",
+      "onboard_time": 1767965362,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 227454,
@@ -761,6 +777,14 @@
       "onboard_time": 1767926301,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212253,
+      "num": 145989,
+      "word": "娜扎直播",
+      "onboard_time": 1767965301,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 206668,
@@ -923,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180895,
+      "num": 137430,
+      "word": "周生生一条金项链一年多涨了近10万",
+      "onboard_time": 1767964161,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178675,
       "num": 178675,
       "word": "李施嬅车崇健现实版麦琪的礼物",
@@ -993,6 +1025,14 @@
       "onboard_time": 1767946281,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171458,
+      "num": 144612,
+      "word": "鹅鸭杀排队补偿",
+      "onboard_time": 1767965841,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 168309,
@@ -1121,6 +1161,14 @@
       "onboard_time": 1767930202,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152452,
+      "num": 213499,
+      "word": "医院通报女子看胃病死于心脏手术",
+      "onboard_time": 1767963201,
+      "rank": 17,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 150058,
@@ -1355,6 +1403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 130388,
+      "num": 125389,
+      "word": "朱珠往那一坐就有两个身份",
+      "onboard_time": 1767965482,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130000,
       "num": 180447,
       "word": "刘宇宁护短",
@@ -1377,14 +1433,6 @@
       "onboard_time": 1767929480,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127050,
-      "num": 206384,
-      "word": "南通市第一人民医院致歉",
-      "onboard_time": 1767963441,
-      "rank": 35,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 126800,
@@ -1489,6 +1537,14 @@
       "onboard_time": 1767927140,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120860,
+      "num": 120860,
+      "word": "吴谨言这毅力做什么都会成功",
+      "onboard_time": 1767965241,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 120284,
@@ -1747,6 +1803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106091,
+      "num": 106091,
+      "word": "张碧晨裙子上有43朵玫瑰",
+      "onboard_time": 1767964762,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 105852,
       "num": 213255,
       "word": "王者小乔糖果流星雨",
@@ -1819,6 +1883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102710,
+      "num": 102710,
+      "word": "猫的树拍的陈星旭",
+      "onboard_time": 1767964221,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102047,
       "num": 102047,
       "word": "周深2025男歌手口碑热度双第一",
@@ -1844,7 +1916,7 @@
     },
     {
       "raw_hot": 101554,
-      "num": 109585,
+      "num": 141004,
       "word": "赵长江称智界V9三年之内难有对手",
       "onboard_time": 1767962960,
       "rank": 29,
@@ -2067,14 +2139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95622,
-      "num": 213499,
-      "word": "医院通报女子看胃病死于心脏手术",
-      "onboard_time": 1767963201,
-      "rank": 17,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 95262,
       "num": 95262,
       "word": "桃田贤斗官宣结婚",
@@ -2155,6 +2219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92706,
+      "num": 92706,
+      "word": "华晨宇2025华语新专销量第一",
+      "onboard_time": 1767965902,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 92520,
       "num": 92520,
       "word": "AppleWatch房颤历史获国家批准",
@@ -2195,19 +2267,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91209,
+      "num": 91209,
+      "word": "古天乐被曝拍戏时每晚照美黑灯",
+      "onboard_time": 1767965601,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 91047,
       "num": 91047,
       "word": "总台2026电视剧片单",
       "onboard_time": 1767927919,
       "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 91003,
-      "num": 91003,
-      "word": "猫的树拍的陈星旭",
-      "onboard_time": 1767964221,
-      "rank": 37,
       "category": "剧集"
     },
     {
@@ -2387,14 +2459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83551,
-      "num": 91415,
-      "word": "周生生一条金项链一年多涨了近10万",
-      "onboard_time": 1767964161,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83239,
       "num": 83239,
       "word": "一家三口被撞亡家属路过现场未停留",
@@ -2451,12 +2515,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80606,
+      "num": 80606,
+      "word": "新年美甲最佳时间",
+      "onboard_time": 1767962781,
+      "rank": 44,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 80517,
       "num": 185940,
       "word": "三九天喝苹果水",
       "onboard_time": 1767866000,
       "rank": 9,
       "category": "美食"
+    },
+    {
+      "raw_hot": 80242,
+      "num": 80242,
+      "word": "卢昱晓模仿代旭推眼镜",
+      "onboard_time": 1767964882,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 79041,
@@ -2473,6 +2553,22 @@
       "onboard_time": 1767963801,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78318,
+      "num": 78318,
+      "word": "退役军犬在新家撒欢",
+      "onboard_time": 1767964702,
+      "rank": 45,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 78293,
+      "num": 78293,
+      "word": "许魏洲首登央视主持",
+      "onboard_time": 1767964882,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 78223,
@@ -2505,14 +2601,6 @@
       "onboard_time": 1767902833,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77471,
-      "num": 77471,
-      "word": "新年美甲最佳时间",
-      "onboard_time": 1767962781,
-      "rank": 44,
-      "category": "美妆"
     },
     {
       "raw_hot": 77327,
@@ -2601,6 +2689,14 @@
       "onboard_time": 1767924078,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 71272,
+      "num": 78473,
+      "word": "领导奖金30万员工1万公司已报警",
+      "onboard_time": 1767965961,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70653,
@@ -2891,6 +2987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45866,
+      "num": 86831,
+      "word": "奶奶想要孙子遗弃残疾孙女近20年",
+      "onboard_time": 1767966143,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45514,
       "num": 1362764,
       "word": "医保新举措专治缴费排长队",
@@ -3027,6 +3131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32116,
+      "num": 75955,
+      "word": "深圳一公车日常接送学生引质疑",
+      "onboard_time": 1767964941,
+      "rank": 49,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 29586,
       "num": 70322,
       "word": "王源郑州吃播vlog",
@@ -3123,6 +3235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18927,
+      "num": 661212,
+      "word": "这组数据见证大国水网新画卷",
+      "onboard_time": 1767947962,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16603,
       "num": 37378,
       "word": "陈梦回应山东女团全运会抽签",
@@ -3153,14 +3273,6 @@
       "onboard_time": 1767953781,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 11695,
-      "num": 661212,
-      "word": "这组数据见证大国水网新画卷",
-      "onboard_time": 1767947962,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9587,
