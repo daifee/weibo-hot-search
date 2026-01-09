@@ -1,6 +1,6 @@
 {
   "startTime": 1767976730727,
-  "endTime": 1768001361471,
+  "endTime": 1768002156429,
   "band_list": [
     {
       "raw_hot": 853653,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 419905,
-      "num": 813010,
+      "num": 920857,
       "word": "内蒙古赤峰一小学校服里有薄膜",
       "onboard_time": 1767974002,
       "rank": 5,
@@ -43,8 +43,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 340851,
-      "num": 583024,
+      "raw_hot": 344792,
+      "num": 677989,
       "word": "宣布闭店后的宜家人满为患",
       "onboard_time": 1767974659,
       "rank": 13,
@@ -75,7 +75,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 193321,
+      "raw_hot": 212038,
       "num": 145172,
       "word": "妻子整理遗物发现亡夫转情人1900万",
       "onboard_time": 1767963080,
@@ -99,6 +99,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 174223,
+      "num": 174223,
+      "word": "古天乐被曝拍戏时每晚照美黑灯",
+      "onboard_time": 1767965601,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 167721,
       "num": 100204,
       "word": "今天的赵丽颖梦回明兰了",
@@ -112,6 +120,14 @@
       "word": "领导奖金30万员工1万公司已报警",
       "onboard_time": 1767965961,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160708,
+      "num": 160708,
+      "word": "违规穿鳌太线获救男子失温产生幻觉",
+      "onboard_time": 1767973460,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -131,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148441,
+      "num": 90845,
+      "word": "娜扎贴脸于正和张慧雯演情侣",
+      "onboard_time": 1768001357,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144802,
       "num": 132672,
       "word": "34层高楼回家得接力按楼层",
@@ -139,20 +163,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138998,
-      "num": 42335,
+      "raw_hot": 143241,
+      "num": 57898,
       "word": "她的一天是小说都不敢写的程度",
       "onboard_time": 1768000276,
       "rank": 30,
       "category": "情感"
     },
     {
-      "raw_hot": 134396,
-      "num": 134396,
-      "word": "古天乐被曝拍戏时每晚照美黑灯",
-      "onboard_time": 1767965601,
-      "rank": 47,
-      "category": "电影"
+      "raw_hot": 135513,
+      "num": 97944,
+      "word": "王心凌穿了500条珠链在身上",
+      "onboard_time": 1767966801,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 132412,
@@ -163,12 +187,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125292,
-      "num": 97944,
-      "word": "王心凌穿了500条珠链在身上",
-      "onboard_time": 1767966801,
-      "rank": 26,
-      "category": "演出"
+      "raw_hot": 131579,
+      "num": 84775,
+      "word": "卢昱晓的身材",
+      "onboard_time": 1768001717,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 118509,
@@ -177,6 +201,14 @@
       "onboard_time": 1767962360,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115814,
+      "num": 50437,
+      "word": "义乌产的哭哭马火了",
+      "onboard_time": 1768001777,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108050,
@@ -195,14 +227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102203,
-      "num": 102203,
-      "word": "违规穿鳌太线获救男子失温产生幻觉",
-      "onboard_time": 1767973460,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101527,
       "num": 101527,
       "word": "檀健次文案翻译",
@@ -211,12 +235,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 99514,
+      "num": 56629,
+      "word": "苹果煮水喝孩子越喝越长个儿",
+      "onboard_time": 1767981196,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 96577,
       "num": 101415,
       "word": "台湾网红馆长以恐吓罪被起诉",
       "onboard_time": 1767959361,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95634,
+      "num": 97875,
+      "word": "房贷利率又迎下调",
+      "onboard_time": 1767966741,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 92788,
@@ -243,14 +283,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 79125,
-      "num": 97875,
-      "word": "房贷利率又迎下调",
-      "onboard_time": 1767966741,
-      "rank": 36,
-      "category": "财经"
-    },
-    {
       "raw_hot": 77211,
       "num": 98413,
       "word": "液断7天瘦了13.2斤",
@@ -259,12 +291,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 74915,
-      "num": 49300,
-      "word": "苹果煮水喝孩子越喝越长个儿",
-      "onboard_time": 1767981196,
-      "rank": 21,
-      "category": "健康医疗"
+      "raw_hot": 74544,
+      "num": 97770,
+      "word": "台独分子沈伯洋全网紧急删个人定位",
+      "onboard_time": 1767957439,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 73193,
@@ -283,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71538,
+      "num": 54339,
+      "word": "熬夜到什么程度可能会发生猝死",
+      "onboard_time": 1768001357,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 70566,
       "num": 97906,
       "word": "35岁男子柬埔寨转机后失联",
@@ -297,14 +337,6 @@
       "onboard_time": 1767951622,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 67859,
-      "num": 97770,
-      "word": "台独分子沈伯洋全网紧急删个人定位",
-      "onboard_time": 1767957439,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 67091,
@@ -329,6 +361,14 @@
       "onboard_time": 1767968722,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 64106,
+      "num": 97846,
+      "word": "奶奶想要孙子遗弃残疾孙女近20年",
+      "onboard_time": 1767966143,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64051,
@@ -371,14 +411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 56808,
-      "num": 97846,
-      "word": "奶奶想要孙子遗弃残疾孙女近20年",
-      "onboard_time": 1767966143,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55934,
       "num": 97822,
       "word": "22万铺大理石感觉太花",
@@ -419,12 +451,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52879,
+      "num": 52879,
+      "word": "赵丽颖说熟人局很享受",
+      "onboard_time": 1767983354,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 52787,
+      "num": 52787,
+      "word": "19岁男孩在洛阳失踪系溺水身亡",
+      "onboard_time": 1768001176,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51372,
       "num": 97802,
       "word": "TF家族2026新年音乐会荣耀",
       "onboard_time": 1767974780,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 50846,
+      "num": 50846,
+      "word": "王者荣耀S42赛季",
+      "onboard_time": 1768000756,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 49492,
@@ -443,11 +499,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 44759,
-      "num": 44759,
-      "word": "赵丽颖说熟人局很享受",
-      "onboard_time": 1767983354,
-      "rank": 45,
+      "raw_hot": 45201,
+      "num": 44306,
+      "word": "醒来",
+      "onboard_time": 1767981256,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -459,14 +515,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 43238,
-      "num": 43238,
-      "word": "王者荣耀S42赛季",
-      "onboard_time": 1768000756,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 43185,
       "num": 82682,
       "word": "肖战谍报上不封顶新预告片",
@@ -475,12 +523,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 40941,
+      "raw_hot": 42269,
       "num": 50774,
       "word": "俄罗斯报复乌克兰",
       "onboard_time": 1767959421,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 40622,
+      "num": 40622,
+      "word": "车崇健等到李施嬅下车后暴饮暴食",
+      "onboard_time": 1768001656,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 40427,
+      "num": 40427,
+      "word": "陈熠2比3韩莹",
+      "onboard_time": 1768001117,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 40154,
@@ -489,6 +553,22 @@
       "onboard_time": 1768001176,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 38977,
+      "num": 38977,
+      "word": "冰块为什么能清理煎锅",
+      "onboard_time": 1768001357,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 38090,
+      "num": 38090,
+      "word": "经济上行时期的口红比黄金还贵",
+      "onboard_time": 1768001598,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 38019,
@@ -507,11 +587,19 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 34402,
-      "num": 34402,
-      "word": "19岁男孩在洛阳失踪系溺水身亡",
+      "raw_hot": 35331,
+      "num": 35331,
+      "word": "马年公仔嘴巴缝反意外走红",
       "onboard_time": 1768001176,
-      "rank": 36,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35323,
+      "num": 35323,
+      "word": "女子深夜开窗老公飞速抱住闹乌龙",
+      "onboard_time": 1768001598,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -531,27 +619,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 31474,
-      "num": 31474,
-      "word": "陈熠2比3韩莹",
-      "onboard_time": 1768001117,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 31178,
-      "num": 461410,
+      "num": 541472,
       "word": "东数西算效率10倍速狂飙",
       "onboard_time": 1767966261,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29209,
-      "num": 31471,
-      "word": "马年公仔嘴巴缝反意外走红",
-      "onboard_time": 1768001176,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -592,14 +664,6 @@
       "word": "我们与法庭的距离",
       "onboard_time": 1767983054,
       "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 22706,
-      "num": 30507,
-      "word": "醒来",
-      "onboard_time": 1767981256,
-      "rank": 37,
       "category": "剧集"
     },
     {

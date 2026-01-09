@@ -1,0 +1,410 @@
+{
+  "runTime": 1768002156429,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 407703,
+        "num": 920857,
+        "word": "内蒙古赤峰一小学校服里有薄膜",
+        "onboard_time": 1767974002,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 344792,
+        "num": 677989,
+        "word": "宣布闭店后的宜家人满为患",
+        "onboard_time": 1767974659,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28429,
+        "num": 541472,
+        "word": "东数西算效率10倍速狂飙",
+        "onboard_time": 1767966261,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348642,
+        "num": 348642,
+        "word": "卢昱晓台词",
+        "onboard_time": 1767971901,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175396,
+        "num": 175396,
+        "word": "住房公积金制度改革",
+        "onboard_time": 1767943340,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 174223,
+        "num": 174223,
+        "word": "古天乐被曝拍戏时每晚照美黑灯",
+        "onboard_time": 1767965601,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160708,
+        "num": 160708,
+        "word": "违规穿鳌太线获救男子失温产生幻觉",
+        "onboard_time": 1767973460,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151827,
+        "num": 151827,
+        "word": "领导奖金30万员工1万公司已报警",
+        "onboard_time": 1767965961,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145750,
+        "num": 145750,
+        "word": "日本一医院遗失放射性物质",
+        "onboard_time": 1767968722,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 95634,
+        "num": 95634,
+        "word": "房贷利率又迎下调",
+        "onboard_time": 1767966741,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 212038,
+        "num": 92866,
+        "word": "妻子整理遗物发现亡夫转情人1900万",
+        "onboard_time": 1767963080,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148441,
+        "num": 90845,
+        "word": "娜扎贴脸于正和张慧雯演情侣",
+        "onboard_time": 1768001357,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135513,
+        "num": 90710,
+        "word": "王心凌穿了500条珠链在身上",
+        "onboard_time": 1767966801,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86634,
+        "num": 86634,
+        "word": "34层高楼回家得接力按楼层",
+        "onboard_time": 1767975200,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131579,
+        "num": 84775,
+        "word": "卢昱晓的身材",
+        "onboard_time": 1768001717,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82763,
+        "num": 82763,
+        "word": "遭遇已婚博士后恋爱骗局女子被恐吓",
+        "onboard_time": 1767972320,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74544,
+        "num": 74544,
+        "word": "台独分子沈伯洋全网紧急删个人定位",
+        "onboard_time": 1767957439,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 66758,
+        "num": 66758,
+        "word": "檀健次文案翻译",
+        "onboard_time": 1767953121,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 64106,
+        "num": 64106,
+        "word": "奶奶想要孙子遗弃残疾孙女近20年",
+        "onboard_time": 1767966143,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59720,
+        "num": 59720,
+        "word": "台湾网红馆长以恐吓罪被起诉",
+        "onboard_time": 1767959361,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208354,
+        "num": 59284,
+        "word": "当红演员未进组天数",
+        "onboard_time": 1767965362,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143241,
+        "num": 57898,
+        "word": "她的一天是小说都不敢写的程度",
+        "onboard_time": 1768000276,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99514,
+        "num": 56629,
+        "word": "苹果煮水喝孩子越喝越长个儿",
+        "onboard_time": 1767981196,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 71538,
+        "num": 54339,
+        "word": "熬夜到什么程度可能会发生猝死",
+        "onboard_time": 1768001357,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 61289,
+        "num": 52897,
+        "word": "山姆回应充绒400克499元羽绒服卖爆",
+        "onboard_time": 1767951201,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52879,
+        "num": 52879,
+        "word": "赵丽颖说熟人局很享受",
+        "onboard_time": 1767983354,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52787,
+        "num": 52787,
+        "word": "19岁男孩在洛阳失踪系溺水身亡",
+        "onboard_time": 1768001176,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52523,
+        "num": 52523,
+        "word": "胖东来回应羽绒服进价303售价393",
+        "onboard_time": 1767951142,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52384,
+        "num": 52384,
+        "word": "林屿森 下西瓜了",
+        "onboard_time": 1767970941,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50846,
+        "num": 50846,
+        "word": "王者荣耀S42赛季",
+        "onboard_time": 1768000756,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115814,
+        "num": 50437,
+        "word": "义乌产的哭哭马火了",
+        "onboard_time": 1768001777,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51949,
+        "num": 49266,
+        "word": "小城大事",
+        "onboard_time": 1768000696,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45592,
+        "num": 45592,
+        "word": "轧戏",
+        "onboard_time": 1767957140,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44533,
+        "num": 44533,
+        "word": "教师拧断11岁男童胳膊事发地无监控",
+        "onboard_time": 1767966681,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45201,
+        "num": 44306,
+        "word": "醒来",
+        "onboard_time": 1767981256,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43599,
+        "num": 43599,
+        "word": "周生生一条金项链一年多涨了近10万",
+        "onboard_time": 1767964161,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42780,
+        "num": 42780,
+        "word": "猫的树拍的陈星旭",
+        "onboard_time": 1767964221,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42269,
+        "num": 42269,
+        "word": "俄罗斯报复乌克兰",
+        "onboard_time": 1767959421,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 40622,
+        "num": 40622,
+        "word": "车崇健等到李施嬅下车后暴饮暴食",
+        "onboard_time": 1768001656,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40427,
+        "num": 40427,
+        "word": "陈熠2比3韩莹",
+        "onboard_time": 1768001117,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40271,
+        "num": 40271,
+        "word": "流落柬埔寨街头女子已出院准备回国",
+        "onboard_time": 1767973520,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 38977,
+        "num": 38977,
+        "word": "冰块为什么能清理煎锅",
+        "onboard_time": 1768001357,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 38387,
+        "num": 38387,
+        "word": "王者新赛季那个男人回来了",
+        "onboard_time": 1768001176,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 38090,
+        "num": 38090,
+        "word": "经济上行时期的口红比黄金还贵",
+        "onboard_time": 1768001598,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 38047,
+        "num": 38047,
+        "word": "王者荣耀 打麻将",
+        "onboard_time": 1767968061,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 35478,
+        "num": 35478,
+        "word": "今天的赵丽颖梦回明兰了",
+        "onboard_time": 1767960439,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35331,
+        "num": 35331,
+        "word": "马年公仔嘴巴缝反意外走红",
+        "onboard_time": 1768001176,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35323,
+        "num": 35323,
+        "word": "女子深夜开窗老公飞速抱住闹乌龙",
+        "onboard_time": 1768001598,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35312,
+        "num": 35312,
+        "word": "难度低效果好的减肥方法",
+        "onboard_time": 1767999797,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 34801,
+        "num": 34801,
+        "word": "35岁男子柬埔寨转机后失联",
+        "onboard_time": 1767974721,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记指出扩大内需是战略之举#"
+    }
+  }
+}

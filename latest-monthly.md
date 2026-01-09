@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/10 07:29:21
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/10 07:42:36
 </p>
 </blockquote>
 <p>
@@ -3093,6 +3093,12 @@ WB对战RW（热度：355689）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%A3%E5%B8%83%E9%97%AD%E5%BA%97%E5%90%8E%E7%9A%84%E5%AE%9C%E5%AE%B6%E4%BA%BA%E6%BB%A1%E4%B8%BA%E6%82%A3%23" target="weibo">
+宣布闭店后的宜家人满为患（热度：344792）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%98%AF%E6%9E%97%E6%9B%B4%E6%96%B0%E9%82%A3%E4%BB%96%E6%98%AF%E8%B0%81%23" target="weibo">
 你是林更新那他是谁（热度：343614）
 </a>
@@ -3113,12 +3119,6 @@ WB对战RW（热度：355689）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%90%83%E8%94%A1%E7%A3%8A%E7%A0%94%E5%8F%91%E8%8D%AF%E6%B8%90%E5%86%BB%E7%97%87%E6%B2%A1%E5%86%8D%E5%8F%91%E5%B1%95%23" target="weibo">
 女孩吃蔡磊研发药渐冻症没再发展（热度：341647）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%A3%E5%B8%83%E9%97%AD%E5%BA%97%E5%90%8E%E7%9A%84%E5%AE%9C%E5%AE%B6%E4%BA%BA%E6%BB%A1%E4%B8%BA%E6%82%A3%23" target="weibo">
-宣布闭店后的宜家人满为患（热度：340851）
 </a>
 </li>
 
