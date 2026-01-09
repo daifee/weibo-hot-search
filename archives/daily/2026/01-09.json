@@ -1,6 +1,6 @@
 {
   "startTime": 1767890395081,
-  "endTime": 1767941929607,
+  "endTime": 1767944028932,
   "band_list": [
     {
       "raw_hot": 8104554,
@@ -17,6 +17,14 @@
       "onboard_time": 1767886341,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 945837,
+      "num": 232110,
+      "word": "年终奖领导30万员工1万",
+      "onboard_time": 1767939681,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 794730,
@@ -83,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 601626,
+      "num": 601626,
+      "word": "南通一医院酿一级甲等医疗事故",
+      "onboard_time": 1767939802,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 540536,
       "num": 176109,
       "word": "檀健次直播",
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 465871,
-      "num": 310999,
+      "num": 452276,
       "word": "河南通报1名学生校内身亡",
       "onboard_time": 1767939622,
       "rank": 7,
@@ -129,6 +145,14 @@
       "onboard_time": 1767914598,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 425186,
+      "num": 425186,
+      "word": "ICE枪杀",
+      "onboard_time": 1767941361,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 423306,
@@ -227,11 +251,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 348084,
-      "num": 152446,
-      "word": "年终奖领导30万员工1万",
-      "onboard_time": 1767939681,
-      "rank": 20,
+      "raw_hot": 349206,
+      "num": 1055873,
+      "word": "公积金改革都有哪些变化",
+      "onboard_time": 1767937161,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -251,28 +275,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 333091,
-      "num": 333091,
-      "word": "公积金改革都有哪些变化",
-      "onboard_time": 1767937161,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 330209,
       "num": 165668,
       "word": "原来痛经是子宫太想保护你",
       "onboard_time": 1767932182,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 314005,
-      "num": 314005,
-      "word": "南通一医院酿一级甲等医疗事故",
-      "onboard_time": 1767939802,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 309486,
@@ -297,6 +305,14 @@
       "onboard_time": 1767873022,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 282205,
+      "num": 155472,
+      "word": "坚持吃煮苹果1个月身体会有这些变化",
+      "onboard_time": 1767938360,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 275106,
@@ -355,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250071,
+      "num": 453992,
+      "word": "住房公积金制度改革",
+      "onboard_time": 1767943340,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 244419,
       "num": 244419,
       "word": "法院回应为何对廖某宇判死缓",
@@ -377,6 +401,14 @@
       "onboard_time": 1767931221,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 231294,
+      "num": 231294,
+      "word": "巅峰榜年度十大单曲",
+      "onboard_time": 1767943041,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 227454,
@@ -427,12 +459,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 212351,
-      "num": 152287,
-      "word": "坚持吃煮苹果1个月身体会有这些变化",
-      "onboard_time": 1767938360,
-      "rank": 24,
-      "category": "健康医疗"
+      "raw_hot": 210463,
+      "num": 210463,
+      "word": "网传再见爱人邓莎夫妇没下车",
+      "onboard_time": 1767943880,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 206668,
@@ -595,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164731,
+      "num": 155145,
+      "word": "A股成交额再次突破3万亿",
+      "onboard_time": 1767943340,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 162985,
       "num": 156397,
       "word": "国产剧开始为妇产科发声了",
@@ -603,12 +643,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161710,
-      "num": 161710,
-      "word": "ICE枪杀",
-      "onboard_time": 1767941361,
+      "raw_hot": 161771,
+      "num": 161771,
+      "word": "赵今麦魏大勋职场剧",
+      "onboard_time": 1767942321,
       "rank": 14,
-      "category": "海外新闻"
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 161009,
+      "num": 155000,
+      "word": "杨幂赵丽颖年度女明星热度前二",
+      "onboard_time": 1767939559,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 160651,
@@ -627,14 +675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 157130,
-      "num": 147523,
-      "word": "杨幂赵丽颖年度女明星热度前二",
-      "onboard_time": 1767939559,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 156354,
       "num": 156354,
       "word": "女子跨年夜被前男友捅26刀身亡",
@@ -643,20 +683,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155917,
+      "num": 155917,
+      "word": "万斯称遭ICE射杀女子是咎由自取",
+      "onboard_time": 1767943041,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 153359,
+      "num": 119959,
+      "word": "延长甲 外置器官",
+      "onboard_time": 1767940579,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 152979,
+      "num": 152979,
+      "word": "讨好型水果",
+      "onboard_time": 1767939082,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152815,
       "num": 152815,
       "word": "白鹿笑成啥样了",
       "onboard_time": 1767930202,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152190,
-      "num": 152190,
-      "word": "讨好型水果",
-      "onboard_time": 1767939082,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 150058,
@@ -819,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132132,
+      "num": 132132,
+      "word": "退圈歌手都来有歌了",
+      "onboard_time": 1767943159,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131286,
       "num": 152531,
       "word": "谭松韵否认逍遥是仙侠剧",
@@ -857,6 +921,14 @@
       "onboard_time": 1767869181,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126373,
+      "num": 155649,
+      "word": "肖战待播一部现代剧一部谍战剧",
+      "onboard_time": 1767942200,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 123989,
@@ -923,11 +995,27 @@
       "category": "数码"
     },
     {
+      "raw_hot": 119958,
+      "num": 155605,
+      "word": "谢娜回应看着自己长大",
+      "onboard_time": 1767942800,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119728,
       "num": 119728,
       "word": "玉茗茶骨有自己的安陵容",
       "onboard_time": 1767937102,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 119282,
+      "num": 119282,
+      "word": "网传宋威龙赵今麦或二搭",
+      "onboard_time": 1767943580,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -1043,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108131,
+      "num": 108131,
+      "word": "孙颖莎恢复训练",
+      "onboard_time": 1767942680,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107721,
       "num": 107721,
       "word": "中铁五局被停业整顿180日",
@@ -1147,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100911,
+      "num": 100911,
+      "word": "怀孕妻子目睹丈夫遇害惨状泪崩",
+      "onboard_time": 1767940281,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100880,
       "num": 100880,
       "word": "陈晓代旭梦华录后二搭",
@@ -1211,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96272,
+      "num": 96272,
+      "word": "校内死亡学生已排除刑事案件",
+      "onboard_time": 1767943761,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96169,
       "num": 96169,
       "word": "小城大事第0集",
@@ -1259,14 +1371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 93933,
-      "num": 93933,
-      "word": "怀孕妻子目睹丈夫遇害惨状泪崩",
-      "onboard_time": 1767940281,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93283,
       "num": 93283,
       "word": "武大靖退役泪洒节目现场",
@@ -1307,12 +1411,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90572,
+      "num": 90572,
+      "word": "时代少年团演唱会年度价值TOP1",
+      "onboard_time": 1767943761,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 90509,
       "num": 90509,
       "word": "张继科说男队没之前稳定",
       "onboard_time": 1767927020,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89713,
+      "num": 89713,
+      "word": "王安宇央视片单推介新剧狂流",
+      "onboard_time": 1767943281,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 88509,
@@ -1363,12 +1483,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 84122,
-      "num": 84122,
-      "word": "延长甲 外置器官",
-      "onboard_time": 1767940579,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 86041,
+      "num": 86041,
+      "word": "波司登同价位羽绒服充绒量3倍多",
+      "onboard_time": 1767943340,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85679,
+      "num": 85679,
+      "word": "小米称可再测试200公里瞬间刹停",
+      "onboard_time": 1767943700,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 84018,
@@ -1376,6 +1504,14 @@
       "word": "海底捞锅里被扔尿布门店已报警",
       "onboard_time": 1767872661,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83554,
+      "num": 83554,
+      "word": "海航 Bug票",
+      "onboard_time": 1767942080,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -1403,12 +1539,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80524,
+      "num": 80524,
+      "word": "保时捷文案",
+      "onboard_time": 1767943999,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 80517,
       "num": 185940,
       "word": "三九天喝苹果水",
       "onboard_time": 1767866000,
       "rank": 9,
       "category": "美食"
+    },
+    {
+      "raw_hot": 79895,
+      "num": 79895,
+      "word": "AppleWatch房颤历史获国家批准",
+      "onboard_time": 1767943999,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 78223,
+      "num": 86448,
+      "word": "日产高管欢迎同行做大插混市场",
+      "onboard_time": 1767943580,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 77712,
@@ -1700,7 +1860,7 @@
     },
     {
       "raw_hot": 37478,
-      "num": 604621,
+      "num": 623567,
       "word": "2026以旧换新国补持续发力",
       "onboard_time": 1767938181,
       "rank": 2,

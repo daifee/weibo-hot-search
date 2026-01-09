@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767941929607,
+  "endTime": 1767944028932,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -521,6 +521,14 @@
       "onboard_time": 1767619642,
       "rank": 6,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 945837,
+      "num": 232110,
+      "word": "年终奖领导30万员工1万",
+      "onboard_time": 1767939681,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 940105,
@@ -1361,6 +1369,14 @@
       "onboard_time": 1767424705,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 601626,
+      "num": 601626,
+      "word": "南通一医院酿一级甲等医疗事故",
+      "onboard_time": 1767939802,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 599176,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767757280,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 472404,
-      "num": 270281,
-      "word": "特朗普警告哥伦比亚总统小心点",
-      "onboard_time": 1767483920,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 472303,
-      "num": 472303,
-      "word": "骄阳似我 你把我害惨了",
-      "onboard_time": 1767524423,
-      "rank": 22,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
