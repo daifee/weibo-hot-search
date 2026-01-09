@@ -1,0 +1,410 @@
+{
+  "runTime": 1767951400088,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 590031,
+        "num": 1094405,
+        "word": "住房公积金制度改革",
+        "onboard_time": 1767943340,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 186459,
+        "num": 773319,
+        "word": "毛绒玩具里藏了10万黄金",
+        "onboard_time": 1767931642,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52541,
+        "num": 637460,
+        "word": "手机数码国补超72%买中高端机",
+        "onboard_time": 1767948442,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249594,
+        "num": 515982,
+        "word": "保时捷文案",
+        "onboard_time": 1767943999,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 165445,
+        "num": 496412,
+        "word": "女子频繁往下水道冲猫砂判赔10万",
+        "onboard_time": 1767933021,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 495716,
+        "num": 495716,
+        "word": "洗碗 做手膜",
+        "onboard_time": 1767947780,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169755,
+        "num": 486088,
+        "word": "景德镇车祸肇事司机一审死缓",
+        "onboard_time": 1767923059,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160466,
+        "num": 456665,
+        "word": "外交部回应美领导人涉台言论",
+        "onboard_time": 1767945441,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113245,
+        "num": 438954,
+        "word": "A股实现16连阳",
+        "onboard_time": 1767947661,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 62715,
+        "num": 429481,
+        "word": "A股4100点",
+        "onboard_time": 1767949341,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 413446,
+        "num": 413446,
+        "word": "宋威龙 春晚彩排",
+        "onboard_time": 1767949580,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371193,
+        "num": 371193,
+        "word": "南通一医院酿一级甲等医疗事故",
+        "onboard_time": 1767939802,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349972,
+        "num": 349972,
+        "word": "年终奖领导30万员工1万",
+        "onboard_time": 1767939681,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262693,
+        "num": 262693,
+        "word": "赵丽颖秦俊杰演县城父母爱情",
+        "onboard_time": 1767949041,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62265,
+        "num": 259635,
+        "word": "嘲笑同事的奖牌破结果发现是纯金的",
+        "onboard_time": 1767929420,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258936,
+        "num": 258936,
+        "word": "顾漫五部曲豆瓣评分",
+        "onboard_time": 1767950960,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239256,
+        "num": 239256,
+        "word": "网传再见爱人邓莎夫妇没下车",
+        "onboard_time": 1767943880,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158490,
+        "num": 158490,
+        "word": "男子在鞋内藏定位器发现妻子出轨",
+        "onboard_time": 1767944240,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159485,
+        "num": 157009,
+        "word": "赵今麦给卢昱晓留言相信光",
+        "onboard_time": 1767947121,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143064,
+        "num": 143064,
+        "word": "春晚彩排",
+        "onboard_time": 1767951021,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372886,
+        "num": 142765,
+        "word": "液断7天瘦了13.2斤",
+        "onboard_time": 1767949820,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49199,
+        "num": 140690,
+        "word": "吴千语娜然让小说女主有了脸",
+        "onboard_time": 1767945800,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 534268,
+        "num": 139422,
+        "word": "狗头萝莉自曝负债650万成老赖",
+        "onboard_time": 1767947121,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 75686,
+        "num": 138183,
+        "word": "丈夫砸家事件女子将洗碗机退货",
+        "onboard_time": 1767931221,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188553,
+        "num": 137397,
+        "word": "同居4年生娃分手后男方索要彩礼",
+        "onboard_time": 1767950542,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165912,
+        "num": 136790,
+        "word": "丝芭传媒被罚",
+        "onboard_time": 1767951079,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149946,
+        "num": 135665,
+        "word": "网传宋威龙赵今麦或二搭",
+        "onboard_time": 1767943580,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126900,
+        "num": 134147,
+        "word": "坚持吃煮苹果1个月身体会有这些变化",
+        "onboard_time": 1767938360,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133235,
+        "num": 133235,
+        "word": "白鹿春晚彩排路透",
+        "onboard_time": 1767946161,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117837,
+        "num": 132782,
+        "word": "山姆回应充绒400克499元羽绒服卖爆",
+        "onboard_time": 1767951201,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156208,
+        "num": 132570,
+        "word": "中方回应李在明即将访日",
+        "onboard_time": 1767948981,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132347,
+        "num": 132347,
+        "word": "结婚登报",
+        "onboard_time": 1767949881,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129607,
+        "num": 129607,
+        "word": "跑男导演口音惹众怒",
+        "onboard_time": 1767946281,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123992,
+        "num": 123992,
+        "word": "官方调查外卖平台市场竞争状况",
+        "onboard_time": 1767951260,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110962,
+        "num": 110962,
+        "word": "原来痛经是子宫太想保护你",
+        "onboard_time": 1767932182,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 101065,
+        "num": 101065,
+        "word": "骄阳似我豆瓣开分7.4",
+        "onboard_time": 1767947001,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100573,
+        "num": 100573,
+        "word": "北方冬天穿的每层衣服都要能见人",
+        "onboard_time": 1767951021,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 94875,
+        "num": 94875,
+        "word": "李施嬅车崇健现实版麦琪的礼物",
+        "onboard_time": 1767947541,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93077,
+        "num": 93077,
+        "word": "延长甲 外置器官",
+        "onboard_time": 1767940579,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90565,
+        "num": 90565,
+        "word": "长安二十四计豆瓣开分6.9",
+        "onboard_time": 1767951321,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89792,
+        "num": 89792,
+        "word": "女子哭诉带2岁儿子去女浴室遭拒",
+        "onboard_time": 1767927621,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84958,
+        "num": 84958,
+        "word": "胖东来回应羽绒服进价303售价393",
+        "onboard_time": 1767951142,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84862,
+        "num": 84862,
+        "word": "用3年赚到了100万",
+        "onboard_time": 1767932301,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84756,
+        "num": 84756,
+        "word": "看车崇健吃薯片这段好心酸",
+        "onboard_time": 1767948801,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82367,
+        "num": 82367,
+        "word": "这是女性群像最小单位的共鸣吧",
+        "onboard_time": 1767950241,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81170,
+        "num": 81170,
+        "word": "全国首台小米定制服务交付完成",
+        "onboard_time": 1767949341,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 77794,
+        "num": 77794,
+        "word": "年前减肥",
+        "onboard_time": 1767947482,
+        "rank": 46,
+        "category": "运动健身,健康医疗"
+      },
+      {
+        "raw_hot": 76687,
+        "num": 76687,
+        "word": "最适合牵手的cp出现了",
+        "onboard_time": 1767948201,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74940,
+        "num": 74940,
+        "word": "华策用10年拍了一部历史古装剧",
+        "onboard_time": 1767946822,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69424,
+        "num": 73605,
+        "word": "消失的网红小吃",
+        "onboard_time": 1767951321,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#新的一年再启新程#"
+    }
+  }
+}
