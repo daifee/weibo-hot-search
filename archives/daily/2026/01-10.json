@@ -1,6 +1,6 @@
 {
   "startTime": 1767976730727,
-  "endTime": 1767997781973,
+  "endTime": 1767998757567,
   "band_list": [
     {
       "raw_hot": 853653,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 298321,
-      "num": 344777,
+      "num": 362900,
       "word": "宣布闭店后的宜家人满为患",
       "onboard_time": 1767974659,
       "rank": 13,
@@ -339,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56962,
+      "num": 97783,
+      "word": "古天乐被曝拍戏时每晚照美黑灯",
+      "onboard_time": 1767965601,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 56808,
       "num": 97846,
       "word": "奶奶想要孙子遗弃残疾孙女近20年",
@@ -395,16 +403,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49123,
-      "num": 97783,
-      "word": "古天乐被曝拍戏时每晚照美黑灯",
-      "onboard_time": 1767965601,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 48312,
-      "num": 30812,
+      "num": 32187,
       "word": "苹果煮水喝孩子越喝越长个儿",
       "onboard_time": 1767981196,
       "rank": 21,
@@ -475,7 +475,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 32960,
+      "raw_hot": 33180,
       "num": 50774,
       "word": "俄罗斯报复乌克兰",
       "onboard_time": 1767959421,
@@ -523,12 +523,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 14872,
+      "raw_hot": 16613,
       "num": 20977,
       "word": "美国宣称扣押一艘油轮",
       "onboard_time": 1767969321,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 16449,
+      "num": 20577,
+      "word": "男子境外转机失联妻子接奇怪电话",
+      "onboard_time": 1767992474,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14457,
@@ -539,24 +547,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 14116,
-      "num": 18833,
-      "word": "男子境外转机失联妻子接奇怪电话",
-      "onboard_time": 1767992474,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13129,
-      "num": 18831,
+      "raw_hot": 14049,
+      "num": 20556,
       "word": "骄阳似我大结局",
       "onboard_time": 1767960680,
       "rank": 46,
       "category": "剧集"
     },
     {
-      "raw_hot": 11073,
-      "num": 248705,
+      "raw_hot": 13393,
+      "num": 302852,
       "word": "东数西算效率10倍速狂飙",
       "onboard_time": 1767966261,
       "rank": 2,
