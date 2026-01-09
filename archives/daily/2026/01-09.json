@@ -1,6 +1,6 @@
 {
   "startTime": 1767890395081,
-  "endTime": 1767937814037,
+  "endTime": 1767941094305,
   "band_list": [
     {
       "raw_hot": 8104554,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 417002,
+      "num": 219692,
+      "word": "一男孩校内身亡学校疑似转移遗体",
+      "onboard_time": 1767936682,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 405221,
       "num": 248763,
       "word": "御赐小仵作2定档",
@@ -195,6 +203,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 344105,
+      "num": 152446,
+      "word": "年终奖领导30万员工1万",
+      "onboard_time": 1767939681,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 343243,
       "num": 159780,
       "word": "刘美含说的是谁",
@@ -219,6 +235,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 327078,
+      "num": 168156,
+      "word": "景德镇车祸被告人听到判决面无表情",
+      "onboard_time": 1767936320,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 309486,
+      "num": 218352,
+      "word": "雨霖铃",
+      "onboard_time": 1767936261,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 293528,
       "num": 1702909,
       "word": "中产涌入超市抢300元羽绒服",
@@ -232,6 +264,14 @@
       "word": "双胞胎姐妹分别取名灿和烂",
       "onboard_time": 1767873022,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289397,
+      "num": 289397,
+      "word": "公积金改革都有哪些变化",
+      "onboard_time": 1767937161,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -251,6 +291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 269763,
+      "num": 753364,
+      "word": "毛绒玩具里藏了10万黄金",
+      "onboard_time": 1767931642,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 268283,
       "num": 268283,
       "word": "廖某宇当庭表现平静",
@@ -259,11 +307,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267790,
+      "num": 267790,
+      "word": "河南通报1名学生校内身亡",
+      "onboard_time": 1767939622,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 266895,
       "num": 266895,
       "word": "丈夫砸家事件女子将洗碗机退货",
       "onboard_time": 1767931221,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262324,
+      "num": 146651,
+      "word": "南通一医院酿一级甲等医疗事故",
+      "onboard_time": 1767939802,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -411,11 +475,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193870,
-      "num": 169442,
-      "word": "雨霖铃",
-      "onboard_time": 1767936261,
-      "rank": 31,
+      "raw_hot": 196641,
+      "num": 196641,
+      "word": "张若昀刘诗诗千里江山图单人照",
+      "onboard_time": 1767939141,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -449,6 +513,14 @@
       "onboard_time": 1767936441,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187204,
+      "num": 219823,
+      "word": "被二次元霸总送去看极光了",
+      "onboard_time": 1767940941,
+      "rank": 9,
+      "category": "动漫"
     },
     {
       "raw_hot": 181213,
@@ -491,14 +563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 175721,
-      "num": 177039,
-      "word": "毛绒玩具里藏了10万黄金",
-      "onboard_time": 1767931642,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 172634,
       "num": 252627,
       "word": "联合国回应美国退群",
@@ -521,6 +585,14 @@
       "onboard_time": 1767915799,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164110,
+      "num": 152287,
+      "word": "坚持吃煮苹果1个月身体会有这些变化",
+      "onboard_time": 1767938360,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 162985,
@@ -563,12 +635,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152190,
+      "num": 152190,
+      "word": "讨好型水果",
+      "onboard_time": 1767939082,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150058,
       "num": 150058,
       "word": "A股",
       "onboard_time": 1767927740,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 148719,
+      "num": 148719,
+      "word": "刘诗诗关晓彤双人剧照",
+      "onboard_time": 1767939622,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 148191,
+      "num": 152601,
+      "word": "一家三口被撞时丈夫第一反应推开妻儿",
+      "onboard_time": 1767935781,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147691,
@@ -593,6 +689,14 @@
       "onboard_time": 1767886761,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147523,
+      "num": 147523,
+      "word": "杨幂赵丽颖年度女明星热度前二",
+      "onboard_time": 1767939559,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 147298,
@@ -625,14 +729,6 @@
       "onboard_time": 1767932301,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141225,
-      "num": 141225,
-      "word": "一家三口被撞时丈夫第一反应推开妻儿",
-      "onboard_time": 1767935781,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140985,
@@ -691,14 +787,6 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 134234,
-      "num": 138914,
-      "word": "景德镇车祸被告人听到判决面无表情",
-      "onboard_time": 1767936320,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134219,
       "num": 126559,
       "word": "中国石化股价",
@@ -712,6 +800,14 @@
       "word": "肖战双剧登总台2026大剧片单",
       "onboard_time": 1767929661,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 131286,
+      "num": 152531,
+      "word": "谭松韵否认逍遥是仙侠剧",
+      "onboard_time": 1767937520,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -811,20 +907,28 @@
       "category": "数码"
     },
     {
-      "raw_hot": 120214,
-      "num": 120214,
-      "word": "谭松韵否认逍遥是仙侠剧",
-      "onboard_time": 1767937520,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 119728,
       "num": 119728,
       "word": "玉茗茶骨有自己的安陵容",
       "onboard_time": 1767937102,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118347,
+      "num": 118347,
+      "word": "张若昀马思纯撞脸",
+      "onboard_time": 1767939559,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 116703,
+      "num": 116703,
+      "word": "被中国技术狠狠拿捏的外国人",
+      "onboard_time": 1767939861,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 115686,
@@ -915,27 +1019,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 109595,
-      "num": 109595,
-      "word": "一男孩校内身亡学校疑似转移遗体",
-      "onboard_time": 1767936682,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109458,
       "num": 175572,
       "word": "博主吃播室友剩饭被多平台封禁",
       "onboard_time": 1767889278,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109100,
-      "num": 109100,
-      "word": "公积金改革都有哪些变化",
-      "onboard_time": 1767937161,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1011,6 +1099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103847,
+      "num": 103847,
+      "word": "刘浩存 温柔妈感",
+      "onboard_time": 1767940340,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103234,
       "num": 103234,
       "word": "这届年轻人是懂去哪打卡景点的",
@@ -1023,6 +1119,14 @@
       "num": 101287,
       "word": "国色芳华2025古偶热度第一",
       "onboard_time": 1767936921,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100880,
+      "num": 100880,
+      "word": "陈晓代旭梦华录后二搭",
+      "onboard_time": 1767937880,
       "rank": 40,
       "category": "剧集"
     },
@@ -1115,12 +1219,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94322,
+      "num": 94322,
+      "word": "和手机分房睡",
+      "onboard_time": 1767940760,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 93283,
       "num": 93283,
       "word": "武大靖退役泪洒节目现场",
       "onboard_time": 1767931582,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92688,
+      "num": 92688,
+      "word": "怀孕妻子目睹丈夫遇害惨状泪崩",
+      "onboard_time": 1767940281,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91964,
+      "num": 91964,
+      "word": "装减脂餐给自己装笑了",
+      "onboard_time": 1767940822,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 91355,
@@ -1203,6 +1331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 85281,
+      "num": 85281,
+      "word": "在Excel里玩拼豆",
+      "onboard_time": 1767941061,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 84018,
       "num": 176164,
       "word": "海底捞锅里被扔尿布门店已报警",
@@ -1257,6 +1393,14 @@
       "onboard_time": 1767915739,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 73941,
+      "num": 84257,
+      "word": "19岁小伙疑被16万转卖并落下残疾",
+      "onboard_time": 1767938601,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71968,
@@ -1512,6 +1656,14 @@
       "word": "小姐姐用自己外套救起受伤小猫",
       "onboard_time": 1767893536,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37478,
+      "num": 604621,
+      "word": "2026以旧换新国补持续发力",
+      "onboard_time": 1767938181,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
