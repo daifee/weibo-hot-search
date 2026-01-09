@@ -1,6 +1,6 @@
 {
   "startTime": 1767890395081,
-  "endTime": 1767972774981,
+  "endTime": 1767973664638,
   "band_list": [
     {
       "raw_hot": 8104554,
@@ -251,20 +251,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 486693,
+      "num": 486693,
+      "word": "林屿森 下西瓜了",
+      "onboard_time": 1767970941,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 470483,
       "num": 470483,
       "word": "王者荣耀 打麻将",
       "onboard_time": 1767968061,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 457993,
-      "num": 457993,
-      "word": "林屿森 下西瓜了",
-      "onboard_time": 1767970941,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 456329,
@@ -345,6 +345,14 @@
       "onboard_time": 1767932663,
       "rank": 21,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 401486,
+      "num": 401486,
+      "word": "卢昱晓台词",
+      "onboard_time": 1767971901,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 392359,
@@ -473,6 +481,22 @@
       "onboard_time": 1767932182,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 329402,
+      "num": 772812,
+      "word": "日本一医院遗失放射性物质",
+      "onboard_time": 1767968722,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 320062,
+      "num": 180350,
+      "word": "父亲称儿子撞亡一家三口系天灾",
+      "onboard_time": 1767970102,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 309486,
@@ -665,14 +689,6 @@
       "onboard_time": 1767950542,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 259425,
-      "num": 259425,
-      "word": "日本一医院遗失放射性物质",
-      "onboard_time": 1767968722,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 259165,
@@ -1043,14 +1059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179006,
-      "num": 179006,
-      "word": "父亲称儿子撞亡一家三口系天灾",
-      "onboard_time": 1767970102,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 178675,
       "num": 178675,
       "word": "李施嬅车崇健现实版麦琪的礼物",
@@ -1097,14 +1105,6 @@
       "onboard_time": 1767929721,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173507,
-      "num": 173507,
-      "word": "卢昱晓台词",
-      "onboard_time": 1767971901,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 172634,
@@ -1635,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122389,
+      "num": 110300,
+      "word": "2025年歌手价值TOP10",
+      "onboard_time": 1767971301,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121507,
       "num": 121507,
       "word": "车厘子脆皮毛巾卷",
@@ -1739,6 +1747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115566,
+      "num": 111850,
+      "word": "向涵之空档483天了",
+      "onboard_time": 1767968362,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115511,
       "num": 115511,
       "word": "轧戏有27场吻戏",
@@ -1801,14 +1817,6 @@
       "onboard_time": 1767964221,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111850,
-      "num": 111850,
-      "word": "向涵之空档483天了",
-      "onboard_time": 1767968362,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 111142,
@@ -2515,14 +2523,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 86910,
-      "num": 110300,
-      "word": "2025年歌手价值TOP10",
-      "onboard_time": 1767971301,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 86558,
       "num": 86558,
       "word": "杨瀚森新年礼物是英语书",
@@ -2867,6 +2867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 74221,
+      "num": 228061,
+      "word": "美国宣称扣押一艘油轮",
+      "onboard_time": 1767969321,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 73941,
       "num": 84257,
       "word": "19岁小伙疑被16万转卖并落下残疾",
@@ -2929,6 +2937,14 @@
       "onboard_time": 1767925279,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 70619,
+      "num": 110020,
+      "word": "狗骑电动车上街后座还趴着一只狗",
+      "onboard_time": 1767972381,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70547,
@@ -3003,12 +3019,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 67879,
-      "num": 228061,
-      "word": "美国宣称扣押一艘油轮",
-      "onboard_time": 1767969321,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 68078,
+      "num": 95947,
+      "word": "于正说要亲自给娜扎做饭",
+      "onboard_time": 1767973639,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 66660,
@@ -3099,6 +3115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 61708,
+      "num": 95932,
+      "word": "违规穿鳌太线获救男子失温产生幻觉",
+      "onboard_time": 1767973460,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61625,
       "num": 61625,
       "word": "企业不满高校专家评审拉黑学校学生",
@@ -3120,14 +3144,6 @@
       "word": "超市羽绒服为啥这么火",
       "onboard_time": 1767915259,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59957,
-      "num": 110020,
-      "word": "狗骑电动车上街后座还趴着一只狗",
-      "onboard_time": 1767972381,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -3307,6 +3323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41752,
+      "num": 128812,
+      "word": "遭遇已婚博士后恋爱骗局女子被恐吓",
+      "onboard_time": 1767972320,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41679,
       "num": 55092,
       "word": "3岁男童看挖机走失找到时出现失温",
@@ -3403,6 +3427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35216,
+      "num": 107248,
+      "word": "流落柬埔寨街头女子已出院准备回国",
+      "onboard_time": 1767973520,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 33273,
       "num": 106256,
       "word": "偷拿纸箱被告法院判赔两毛",
@@ -3417,6 +3449,14 @@
       "onboard_time": 1767962240,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32615,
+      "num": 96005,
+      "word": "船务公司否认招聘失联柬埔寨男子",
+      "onboard_time": 1767973460,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 32116,
@@ -3497,14 +3537,6 @@
       "onboard_time": 1767963921,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 22749,
-      "num": 128812,
-      "word": "遭遇已婚博士后恋爱骗局女子被恐吓",
-      "onboard_time": 1767972320,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22384,
