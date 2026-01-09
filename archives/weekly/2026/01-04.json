@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1767986826968,
+  "endTime": 1767987669108,
   "band_list": [
     {
       "raw_hot": 8104554,
@@ -19363,6 +19363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37452,
+      "num": 37452,
+      "word": "赵丽颖说熟人局很享受",
+      "onboard_time": 1767983354,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37112,
       "num": 166856,
       "word": "雀巢中国召回部分奶粉",
@@ -19721,14 +19729,6 @@
       "onboard_time": 1767962240,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32690,
-      "num": 32690,
-      "word": "赵丽颖说熟人局很享受",
-      "onboard_time": 1767983354,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 32615,

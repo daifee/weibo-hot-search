@@ -1,6 +1,6 @@
 {
   "startTime": 1767976730727,
-  "endTime": 1767986826968,
+  "endTime": 1767987669108,
   "band_list": [
     {
       "raw_hot": 853653,
@@ -451,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37452,
+      "num": 37452,
+      "word": "赵丽颖说熟人局很享受",
+      "onboard_time": 1767983354,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 33935,
       "num": 50788,
       "word": "2026年人生体验清单",
@@ -473,14 +481,6 @@
       "onboard_time": 1767959421,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 32690,
-      "num": 32690,
-      "word": "赵丽颖说熟人局很享受",
-      "onboard_time": 1767983354,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 25539,
@@ -507,7 +507,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 20852,
+      "raw_hot": 21054,
       "num": 24302,
       "word": "总台2026年电视剧片单",
       "onboard_time": 1767958881,

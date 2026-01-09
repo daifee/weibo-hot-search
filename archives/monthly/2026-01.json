@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1767986826968,
+  "endTime": 1767987669108,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -26675,6 +26675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37452,
+      "num": 37452,
+      "word": "赵丽颖说熟人局很享受",
+      "onboard_time": 1767983354,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37380,
       "num": 929577,
       "word": "起猛了看见鱼在水面上走",
@@ -27185,14 +27193,6 @@
       "onboard_time": 1767414988,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 32690,
-      "num": 32690,
-      "word": "赵丽颖说熟人局很享受",
-      "onboard_time": 1767983354,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 32615,
