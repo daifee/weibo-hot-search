@@ -1,6 +1,6 @@
 {
   "startTime": 1767890395081,
-  "endTime": 1767936850639,
+  "endTime": 1767937814037,
   "band_list": [
     {
       "raw_hot": 8104554,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 647517,
+      "num": 328423,
+      "word": "张雪峰发博纪念做梦都不敢梦的一天",
+      "onboard_time": 1767934461,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 622883,
       "num": 1099661,
       "word": "嘲笑同事的奖牌破结果发现是纯金的",
@@ -107,11 +115,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 437549,
-      "num": 328423,
-      "word": "张雪峰发博纪念做梦都不敢梦的一天",
-      "onboard_time": 1767934461,
-      "rank": 32,
+      "raw_hot": 423306,
+      "num": 423306,
+      "word": "女子频繁往下水道冲猫砂判赔10万",
+      "onboard_time": 1767933021,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -131,28 +139,20 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 388351,
-      "num": 388351,
-      "word": "关东煮 鞋底豆干",
-      "onboard_time": 1767929541,
-      "rank": 4,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 388345,
-      "num": 388345,
+      "raw_hot": 392359,
+      "num": 392359,
       "word": "用3年赚到了100万",
       "onboard_time": 1767932301,
       "rank": 6,
       "category": "幽默"
     },
     {
-      "raw_hot": 386120,
-      "num": 400820,
-      "word": "女子频繁往下水道冲猫砂判赔10万",
-      "onboard_time": 1767933021,
-      "rank": 7,
-      "category": "民生新闻"
+      "raw_hot": 388351,
+      "num": 388351,
+      "word": "关东煮 鞋底豆干",
+      "onboard_time": 1767929541,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 365511,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 353015,
-      "num": 390111,
+      "num": 393596,
       "word": "朋友圈长按微信头像可以设置权限",
       "onboard_time": 1767933323,
       "rank": 9,
@@ -211,7 +211,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 327778,
+      "raw_hot": 330209,
       "num": 165668,
       "word": "原来痛经是子宫太想保护你",
       "onboard_time": 1767932182,
@@ -275,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259054,
+      "num": 259054,
+      "word": "冯宝宝国漫唯一蟑螂塑",
+      "onboard_time": 1767935721,
+      "rank": 8,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 250591,
       "num": 61482,
       "word": "文淇被陌生男子骚扰",
@@ -307,12 +315,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 223354,
-      "num": 223354,
-      "word": "冯宝宝国漫唯一蟑螂塑",
-      "onboard_time": 1767935721,
-      "rank": 8,
-      "category": "动漫"
+      "raw_hot": 227454,
+      "num": 202781,
+      "word": "关晓彤千里江山图造型",
+      "onboard_time": 1767935662,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 223089,
@@ -371,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 202781,
-      "num": 202781,
-      "word": "关晓彤千里江山图造型",
-      "onboard_time": 1767935662,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 202641,
       "num": 202641,
       "word": "巅峰榜年度十大艺人",
@@ -408,6 +408,14 @@
       "word": "于正说的85花顶流是张慧雯",
       "onboard_time": 1767914658,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193870,
+      "num": 169442,
+      "word": "雨霖铃",
+      "onboard_time": 1767936261,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -483,12 +491,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175721,
+      "num": 177039,
+      "word": "毛绒玩具里藏了10万黄金",
+      "onboard_time": 1767931642,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172634,
       "num": 252627,
       "word": "联合国回应美国退群",
       "onboard_time": 1767930622,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 168309,
+      "num": 168309,
+      "word": "刘宇宁欧阳娣娣欧阳娜娜画像",
+      "onboard_time": 1767936741,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 166763,
@@ -505,14 +529,6 @@
       "onboard_time": 1767934102,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162421,
-      "num": 177039,
-      "word": "毛绒玩具里藏了10万黄金",
-      "onboard_time": 1767931642,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160651,
@@ -619,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140985,
+      "num": 140985,
+      "word": "逛完水贝才明白什么叫聪明买金",
+      "onboard_time": 1767936562,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140089,
       "num": 176446,
       "word": "虞书欣云初令摔杯路透",
@@ -667,6 +691,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 134234,
+      "num": 138914,
+      "word": "景德镇车祸被告人听到判决面无表情",
+      "onboard_time": 1767936320,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134219,
       "num": 126559,
       "word": "中国石化股价",
@@ -680,14 +712,6 @@
       "word": "肖战双剧登总台2026大剧片单",
       "onboard_time": 1767929661,
       "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 131504,
-      "num": 131504,
-      "word": "雨霖铃",
-      "onboard_time": 1767936261,
-      "rank": 31,
       "category": "剧集"
     },
     {
@@ -755,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122648,
+      "num": 122648,
+      "word": "师兄师弟都是狼结果师父是狼王",
+      "onboard_time": 1767937341,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121507,
       "num": 121507,
       "word": "车厘子脆皮毛巾卷",
@@ -777,6 +809,22 @@
       "onboard_time": 1767888859,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 120214,
+      "num": 120214,
+      "word": "谭松韵否认逍遥是仙侠剧",
+      "onboard_time": 1767937520,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 119728,
+      "num": 119728,
+      "word": "玉茗茶骨有自己的安陵容",
+      "onboard_time": 1767937102,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 115686,
@@ -809,14 +857,6 @@
       "onboard_time": 1767930322,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112640,
-      "num": 112640,
-      "word": "景德镇车祸被告人听到判决面无表情",
-      "onboard_time": 1767936320,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112539,
@@ -875,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109595,
+      "num": 109595,
+      "word": "一男孩校内身亡学校疑似转移遗体",
+      "onboard_time": 1767936682,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109458,
       "num": 175572,
       "word": "博主吃播室友剩饭被多平台封禁",
@@ -883,12 +931,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108392,
-      "num": 108392,
-      "word": "逛完水贝才明白什么叫聪明买金",
-      "onboard_time": 1767936562,
-      "rank": 36,
-      "category": "幽默"
+      "raw_hot": 109100,
+      "num": 109100,
+      "word": "公积金改革都有哪些变化",
+      "onboard_time": 1767937161,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107721,
@@ -969,6 +1017,14 @@
       "onboard_time": 1767930501,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101287,
+      "num": 101287,
+      "word": "国色芳华2025古偶热度第一",
+      "onboard_time": 1767936921,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 99841,
@@ -1075,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91342,
+      "num": 91342,
+      "word": "汪苏泷让姚晓棠参加歌手排队",
+      "onboard_time": 1767937282,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91047,
       "num": 91047,
       "word": "总台2026电视剧片单",
@@ -1091,14 +1155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89615,
-      "num": 89615,
-      "word": "刘宇宁欧阳娣娣欧阳娜娜画像",
-      "onboard_time": 1767936741,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 88509,
       "num": 88509,
       "word": "超自然行动组",
@@ -1113,6 +1169,14 @@
       "onboard_time": 1767872001,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 88035,
+      "num": 88035,
+      "word": "多睡五分钟的感觉就这样",
+      "onboard_time": 1767937761,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 87673,
@@ -1577,6 +1641,14 @@
       "onboard_time": 1767877821,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 8847,
+      "num": 592599,
+      "word": "冰雪旅游3重破圈活力满满",
+      "onboard_time": 1767937341,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -1585,6 +1657,9 @@
     },
     {
       "word": "#中央政治局常委会召开会议#"
+    },
+    {
+      "word": "#习近平2025年出访足迹#"
     }
   ]
 }
