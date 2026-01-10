@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768085064489,
+  "endTime": 1768087672572,
   "band_list": [
     {
       "raw_hot": 2076111,
@@ -67,20 +67,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 471940,
+      "num": 819416,
+      "word": "运动员王某举报范某某情况基本属实",
+      "onboard_time": 1768060342,
+      "rank": 3,
+      "category": "辟谣/通报,体育"
+    },
+    {
       "raw_hot": 439558,
       "num": 814235,
       "word": "一起来看流星雨",
       "onboard_time": 1768055963,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 413792,
-      "num": 505478,
-      "word": "运动员王某举报范某某情况基本属实",
-      "onboard_time": 1768060342,
-      "rank": 3,
-      "category": "辟谣/通报,体育"
     },
     {
       "raw_hot": 410699,
@@ -187,7 +187,15 @@
       "category": "网红"
     },
     {
-      "raw_hot": 132960,
+      "raw_hot": 140953,
+      "num": 73538,
+      "word": "偶遇贾玲张小斐崇礼滑雪",
+      "onboard_time": 1768086554,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 136280,
       "num": 196544,
       "word": "为什么干婚的中年人越来越多了",
       "onboard_time": 1768055303,
@@ -251,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80286,
+      "num": 151338,
+      "word": "美国为啥一直在要格陵兰岛",
+      "onboard_time": 1768063639,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 79127,
       "num": 88829,
       "word": "黄晓明这是会议室不是中餐厅",
@@ -297,14 +313,6 @@
       "onboard_time": 1768047682,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 69057,
-      "num": 151338,
-      "word": "美国为啥一直在要格陵兰岛",
-      "onboard_time": 1768063639,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 68588,
@@ -371,6 +379,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57109,
+      "num": 57109,
+      "word": "地震痛失儿女的辅警又有了宝宝",
+      "onboard_time": 1768087336,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56552,
+      "num": 75673,
+      "word": "陈幸同4比3张本美和",
+      "onboard_time": 1768087157,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54037,
       "num": 151658,
       "word": "收到了去世十年姐姐的微信",
@@ -411,6 +435,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51764,
+      "num": 51764,
+      "word": "昀牵孟绕",
+      "onboard_time": 1768086737,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 50781,
+      "num": 50781,
+      "word": "小城大事杀青16天后朱媛媛离世",
+      "onboard_time": 1768086737,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 47880,
       "num": 195449,
       "word": "新员工咬掉老员工鼻子被判刑",
@@ -443,12 +483,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 42696,
+      "num": 42696,
+      "word": "鹅妈妈谈小澈事件",
+      "onboard_time": 1768087395,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 39827,
       "num": 151314,
       "word": "鹅鸭杀打台球",
       "onboard_time": 1768060221,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 38472,
+      "num": 38472,
+      "word": "美国一男子家中如恐怖电影",
+      "onboard_time": 1768087577,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 36758,
@@ -483,6 +539,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 27211,
+      "num": 29882,
+      "word": "王玉雯我再也不画了",
+      "onboard_time": 1768087336,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 25996,
+      "num": 29864,
+      "word": "刘宇宁提前3个月准备惊喜揭晓",
+      "onboard_time": 1768086675,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 23672,
       "num": 38634,
       "word": "奔跑吧天路篇",
@@ -499,8 +571,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 21189,
-      "num": 21189,
+      "raw_hot": 21715,
+      "num": 29871,
       "word": "2026年多地养老金调整",
       "onboard_time": 1768078333,
       "rank": 36,
@@ -513,6 +585,14 @@
       "onboard_time": 1768068616,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19115,
+      "num": 29824,
+      "word": "2011年1月11日歼20首飞成功",
+      "onboard_time": 1768084815,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 17134,
@@ -547,16 +627,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 11196,
-      "num": 20001,
-      "word": "2011年1月11日歼20首飞成功",
-      "onboard_time": 1768084815,
-      "rank": 48,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 7762,
-      "num": 290286,
+      "raw_hot": 9496,
+      "num": 491536,
       "word": "规范互联网应用程序个人信息收集使用",
       "onboard_time": 1768035021,
       "rank": 2,
