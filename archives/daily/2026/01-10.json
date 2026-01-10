@@ -1,10 +1,10 @@
 {
   "startTime": 1767976730727,
-  "endTime": 1768016774223,
+  "endTime": 1768017674851,
   "band_list": [
     {
-      "raw_hot": 2803034,
-      "num": 130311,
+      "raw_hot": 3020265,
+      "num": 138360,
       "word": "刘一诺 没义务替檀健次承受抹黑",
       "onboard_time": 1768014739,
       "rank": 20,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357883,
+      "num": 797946,
+      "word": "流浪地球3",
+      "onboard_time": 1768011199,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 354869,
       "num": 354869,
       "word": "林屿森 下西瓜了",
@@ -139,8 +147,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 349932,
-      "num": 349932,
+      "raw_hot": 352442,
+      "num": 352442,
       "word": "北约成员国开撕",
       "onboard_time": 1768008139,
       "rank": 8,
@@ -155,12 +163,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 341457,
-      "num": 797946,
-      "word": "流浪地球3",
-      "onboard_time": 1768011199,
-      "rank": 20,
-      "category": "电影"
+      "raw_hot": 321689,
+      "num": 194433,
+      "word": "千万网红出镜四年衣服都是自己做的",
+      "onboard_time": 1768014860,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 300252,
@@ -195,6 +203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 269892,
+      "num": 269892,
+      "word": "赵又廷张子枫新剧空降",
+      "onboard_time": 1768015402,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263973,
       "num": 146322,
       "word": "遭遇已婚博士后恋爱骗局女子被恐吓",
@@ -209,14 +225,6 @@
       "onboard_time": 1768011919,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 256276,
-      "num": 194433,
-      "word": "千万网红出镜四年衣服都是自己做的",
-      "onboard_time": 1768014860,
-      "rank": 16,
-      "category": "网红"
     },
     {
       "raw_hot": 247596,
@@ -241,6 +249,14 @@
       "onboard_time": 1768005258,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 226278,
+      "num": 226278,
+      "word": "女子上门喂猫两周赚7454元",
+      "onboard_time": 1768015701,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222241,
@@ -275,7 +291,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 202603,
+      "raw_hot": 207520,
       "num": 202603,
       "word": "医生称妊娠孕吐绝不是忍忍就过去",
       "onboard_time": 1768012640,
@@ -283,19 +299,19 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 204362,
+      "num": 132908,
+      "word": "刘一诺再次声明和檀健次好聚好散",
+      "onboard_time": 1768016541,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202362,
       "num": 202362,
       "word": "归鸾",
       "onboard_time": 1768008800,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 192380,
-      "num": 129062,
-      "word": "赵又廷张子枫新剧空降",
-      "onboard_time": 1768015402,
-      "rank": 21,
       "category": "剧集"
     },
     {
@@ -316,7 +332,7 @@
     },
     {
       "raw_hot": 187465,
-      "num": 122370,
+      "num": 134513,
       "word": "荣耀之战三组阵列对抗",
       "onboard_time": 1768015880,
       "rank": 23,
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 160484,
-      "num": 103267,
+      "num": 130051,
       "word": "王一博坦言更喜欢现在的状态",
       "onboard_time": 1768015340,
       "rank": 29,
@@ -396,7 +412,7 @@
     },
     {
       "raw_hot": 156594,
-      "num": 123997,
+      "num": 125122,
       "word": "官方通报小学校服有薄膜",
       "onboard_time": 1768011320,
       "rank": 21,
@@ -411,20 +427,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153414,
-      "num": 153414,
-      "word": "女子上门喂猫两周赚7454元",
-      "onboard_time": 1768015701,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 151351,
       "num": 120182,
       "word": "轧戏",
       "onboard_time": 1767957140,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150514,
+      "num": 150514,
+      "word": "四大电诈头目被押解回国舱内特写曝光",
+      "onboard_time": 1768017020,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148850,
@@ -444,7 +460,7 @@
     },
     {
       "raw_hot": 147590,
-      "num": 124701,
+      "num": 133337,
       "word": "熬夜到什么程度可能会发生猝死",
       "onboard_time": 1768001357,
       "rank": 23,
@@ -473,6 +489,14 @@
       "onboard_time": 1768000276,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136918,
+      "num": 136918,
+      "word": "网传陈少熙妈妈上浪姐",
+      "onboard_time": 1768015580,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 136398,
@@ -515,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132246,
+      "num": 132246,
+      "word": "唐宫奇案",
+      "onboard_time": 1768017199,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131579,
       "num": 84775,
       "word": "卢昱晓的身材",
@@ -524,11 +556,19 @@
     },
     {
       "raw_hot": 131286,
-      "num": 100375,
+      "num": 127899,
       "word": "惊蛰无声",
       "onboard_time": 1768012222,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 127585,
+      "num": 127585,
+      "word": "林依轮连夜换头像",
+      "onboard_time": 1768016840,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 122553,
@@ -547,11 +587,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120851,
-      "num": 95090,
-      "word": "刘一诺再次声明和檀健次好聚好散",
-      "onboard_time": 1768016541,
-      "rank": 40,
+      "raw_hot": 121248,
+      "num": 121248,
+      "word": "女明星不进组前三甲刘亦菲李沁卢昱晓",
+      "onboard_time": 1768016419,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -571,20 +611,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 116558,
-      "num": 95155,
-      "word": "网传陈少熙妈妈上浪姐",
-      "onboard_time": 1768015580,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 109421,
       "num": 104279,
       "word": "女友证实讨债群群主就是王大陆",
       "onboard_time": 1768004538,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108645,
+      "num": 128749,
+      "word": "保温杯里带方便面一年买房了",
+      "onboard_time": 1768017261,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 108050,
@@ -643,14 +683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 101615,
-      "num": 94959,
-      "word": "女明星不进组前三甲刘亦菲李沁卢昱晓",
-      "onboard_time": 1768016419,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 101527,
       "num": 101527,
       "word": "檀健次文案翻译",
@@ -673,6 +705,14 @@
       "onboard_time": 1768013900,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99941,
+      "num": 87386,
+      "word": "张峻豪 狼来了",
+      "onboard_time": 1768017621,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 98527,
@@ -729,6 +769,14 @@
       "onboard_time": 1767974361,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88833,
+      "num": 88833,
+      "word": "你以为的热饮vs实际上的热饮",
+      "onboard_time": 1768016899,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 88714,
@@ -865,6 +913,22 @@
       "onboard_time": 1767949820,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 76458,
+      "num": 86674,
+      "word": "讨厌的人千万别塌房",
+      "onboard_time": 1768017500,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 75336,
+      "num": 86312,
+      "word": "遭训练基地主任猥亵女队员发声",
+      "onboard_time": 1768017319,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74544,
@@ -1171,6 +1235,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 38264,
+      "num": 618784,
+      "word": "国有经济向新布局明显提速",
+      "onboard_time": 1768015460,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38090,
       "num": 38090,
       "word": "经济上行时期的口红比黄金还贵",
@@ -1227,12 +1299,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 32778,
-      "num": 612619,
-      "word": "国有经济向新布局明显提速",
-      "onboard_time": 1768015460,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 28506,
+      "num": 87110,
+      "word": "猫的树现偶的神",
+      "onboard_time": 1768017621,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 28342,

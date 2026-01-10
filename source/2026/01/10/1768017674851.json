@@ -1,0 +1,410 @@
+{
+  "runTime": 1768017674851,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 423672,
+        "num": 1067787,
+        "word": "义乌产的哭哭马火了",
+        "onboard_time": 1768001777,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357883,
+        "num": 754832,
+        "word": "流浪地球3",
+        "onboard_time": 1768011199,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38264,
+        "num": 618784,
+        "word": "国有经济向新布局明显提速",
+        "onboard_time": 1768015460,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 709392,
+        "num": 502403,
+        "word": "TF家族荣耀之战演唱会官宣",
+        "onboard_time": 1768014560,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 237327,
+        "num": 420544,
+        "word": "王莉举报训练基地主任猥亵女队员",
+        "onboard_time": 1768012340,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352442,
+        "num": 352442,
+        "word": "北约成员国开撕",
+        "onboard_time": 1768008139,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 334940,
+        "num": 334940,
+        "word": "金价波动",
+        "onboard_time": 1768014920,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 269892,
+        "num": 269892,
+        "word": "赵又廷张子枫新剧空降",
+        "onboard_time": 1768015402,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226278,
+        "num": 226278,
+        "word": "女子上门喂猫两周赚7454元",
+        "onboard_time": 1768015701,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188507,
+        "num": 188507,
+        "word": "格陵兰岛居民说给钱也不加入美国",
+        "onboard_time": 1768011439,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 634158,
+        "num": 186807,
+        "word": "范丞丞爸爸75岁状态",
+        "onboard_time": 1768010838,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528887,
+        "num": 178400,
+        "word": "蒋毅结过婚了",
+        "onboard_time": 1768014500,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207520,
+        "num": 176691,
+        "word": "医生称妊娠孕吐绝不是忍忍就过去",
+        "onboard_time": 1768012640,
+        "rank": 12,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 429358,
+        "num": 167116,
+        "word": "彭小苒凌晨朋友圈发长文",
+        "onboard_time": 1768014079,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321689,
+        "num": 163252,
+        "word": "千万网红出镜四年衣服都是自己做的",
+        "onboard_time": 1768014860,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 195273,
+        "num": 157517,
+        "word": "在妻子孕期出轨博士后未给女子道歉",
+        "onboard_time": 1768002978,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227224,
+        "num": 154793,
+        "word": "100年以内没有人能认出这是杨洋",
+        "onboard_time": 1768011919,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150514,
+        "num": 150514,
+        "word": "四大电诈头目被押解回国舱内特写曝光",
+        "onboard_time": 1768017020,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149412,
+        "num": 149412,
+        "word": "痛经其实并不是什么好事",
+        "onboard_time": 1768009940,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138441,
+        "num": 138441,
+        "word": "中方沉痛哀悼丹羽宇一郎",
+        "onboard_time": 1768005258,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 3020265,
+        "num": 138360,
+        "word": "刘一诺 没义务替檀健次承受抹黑",
+        "onboard_time": 1768014739,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144120,
+        "num": 138117,
+        "word": "荣耀之战",
+        "onboard_time": 1768015701,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113478,
+        "num": 137155,
+        "word": "7岁女儿跳蚤市场淘到飞天茅台",
+        "onboard_time": 1768005439,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136918,
+        "num": 136918,
+        "word": "网传陈少熙妈妈上浪姐",
+        "onboard_time": 1768015580,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134513,
+        "num": 134513,
+        "word": "荣耀之战三组阵列对抗",
+        "onboard_time": 1768015880,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98749,
+        "num": 133337,
+        "word": "熬夜到什么程度可能会发生猝死",
+        "onboard_time": 1768001357,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 204362,
+        "num": 132908,
+        "word": "刘一诺再次声明和檀健次好聚好散",
+        "onboard_time": 1768016541,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132246,
+        "num": 132246,
+        "word": "唐宫奇案",
+        "onboard_time": 1768017199,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97786,
+        "num": 131798,
+        "word": "多地大到暴雪",
+        "onboard_time": 1768006220,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131601,
+        "num": 131601,
+        "word": "网传乘风2026将取消嘉宾年龄限制",
+        "onboard_time": 1768007600,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130051,
+        "num": 130051,
+        "word": "王一博坦言更喜欢现在的状态",
+        "onboard_time": 1768015340,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108645,
+        "num": 128749,
+        "word": "保温杯里带方便面一年买房了",
+        "onboard_time": 1768017261,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127899,
+        "num": 127899,
+        "word": "惊蛰无声",
+        "onboard_time": 1768012222,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127585,
+        "num": 127585,
+        "word": "林依轮连夜换头像",
+        "onboard_time": 1768016840,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93825,
+        "num": 125122,
+        "word": "官方通报小学校服有薄膜",
+        "onboard_time": 1768011320,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123439,
+        "num": 123439,
+        "word": "赵樱子称和蒋毅试婚三天",
+        "onboard_time": 1768002618,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121248,
+        "num": 121248,
+        "word": "女明星不进组前三甲刘亦菲李沁卢昱晓",
+        "onboard_time": 1768016419,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89548,
+        "num": 89548,
+        "word": "一条金项链一夜涨15200元",
+        "onboard_time": 1768003337,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 88833,
+        "num": 88833,
+        "word": "你以为的热饮vs实际上的热饮",
+        "onboard_time": 1768016899,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87881,
+        "num": 87881,
+        "word": "宜家被年轻人抛弃了吗",
+        "onboard_time": 1768013900,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117174,
+        "num": 87879,
+        "word": "黄景瑜把剧演成大ip",
+        "onboard_time": 1768016060,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113679,
+        "num": 87584,
+        "word": "曾比特瘦了40斤",
+        "onboard_time": 1768015641,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83577,
+        "num": 87450,
+        "word": "云南61岁老妇杀害13岁男孩",
+        "onboard_time": 1768003159,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99941,
+        "num": 87386,
+        "word": "张峻豪 狼来了",
+        "onboard_time": 1768017621,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28506,
+        "num": 87110,
+        "word": "猫的树现偶的神",
+        "onboard_time": 1768017621,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82007,
+        "num": 86977,
+        "word": "孙颖莎2025年最受品牌关注运动员TOP1",
+        "onboard_time": 1768011080,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97243,
+        "num": 86921,
+        "word": "宋威龙 姐就是女王",
+        "onboard_time": 1768008680,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76458,
+        "num": 86674,
+        "word": "讨厌的人千万别塌房",
+        "onboard_time": 1768017500,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95354,
+        "num": 86616,
+        "word": "觉得倒霉的人可以看看李昀锐这段",
+        "onboard_time": 1768016240,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75336,
+        "num": 86312,
+        "word": "遭训练基地主任猥亵女队员发声",
+        "onboard_time": 1768017319,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平点赞公安英雄模范#"
+    }
+  }
+}

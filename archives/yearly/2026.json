@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768016774223,
+  "endTime": 1768017674851,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -43,20 +43,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 3020265,
+      "num": 138360,
+      "word": "刘一诺 没义务替檀健次承受抹黑",
+      "onboard_time": 1768014739,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2932923,
       "num": 2932923,
       "word": "新年贺词",
       "onboard_time": 1767177980,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 2803034,
-      "num": 130311,
-      "word": "刘一诺 没义务替檀健次承受抹黑",
-      "onboard_time": 1768014739,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 2704539,
