@@ -1,0 +1,410 @@
+{
+  "runTime": 1768065970489,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 281967,
+        "num": 462215,
+        "word": "一起来看流星雨",
+        "onboard_time": 1768055963,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196526,
+        "num": 340454,
+        "word": "海底捞回应送黄金小马挂件",
+        "onboard_time": 1768054403,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13340,
+        "num": 257039,
+        "word": "中国大港动能澎湃",
+        "onboard_time": 1768052604,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 413792,
+        "num": 239370,
+        "word": "运动员王某举报范某某情况基本属实",
+        "onboard_time": 1768060342,
+        "rank": 3,
+        "category": "辟谣/通报,体育"
+      },
+      {
+        "raw_hot": 213625,
+        "num": 213625,
+        "word": "云初令",
+        "onboard_time": 1768055483,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176623,
+        "num": 176623,
+        "word": "房东心软减租1万5反被上了一课",
+        "onboard_time": 1768058482,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103349,
+        "num": 103349,
+        "word": "为什么干婚的中年人越来越多了",
+        "onboard_time": 1768055303,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98728,
+        "num": 98728,
+        "word": "范某某索要运动员奖金基本属实",
+        "onboard_time": 1768059742,
+        "rank": 7,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 93973,
+        "num": 93973,
+        "word": "21岁和26岁差距真的很大",
+        "onboard_time": 1768042700,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90861,
+        "num": 90861,
+        "word": "我不是药神原型陆勇重返印度",
+        "onboard_time": 1768048101,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 581349,
+        "num": 90826,
+        "word": "颜安长文回应",
+        "onboard_time": 1768053024,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 472680,
+        "num": 90727,
+        "word": "王橹杰维权",
+        "onboard_time": 1768058062,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409324,
+        "num": 90583,
+        "word": "檀健次 知道我多坚强了吧",
+        "onboard_time": 1768054462,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171696,
+        "num": 90405,
+        "word": "13岁男孩拒绝老妇邀约偷铁皮被杀",
+        "onboard_time": 1768059803,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154095,
+        "num": 90248,
+        "word": "死了么app",
+        "onboard_time": 1768035741,
+        "rank": 14,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 152127,
+        "num": 90203,
+        "word": "鹅妈妈仇人运",
+        "onboard_time": 1768054283,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 291172,
+        "num": 90061,
+        "word": "王橹杰哭了",
+        "onboard_time": 1768058062,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94971,
+        "num": 89942,
+        "word": "差评率100%的自助餐有多差",
+        "onboard_time": 1768055603,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89834,
+        "num": 89834,
+        "word": "白鹿看升旗哭到停不下来",
+        "onboard_time": 1768046720,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70294,
+        "num": 89805,
+        "word": "iPhone里最容易忽略的效率神器",
+        "onboard_time": 1768059083,
+        "rank": 19,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 1501354,
+        "num": 89665,
+        "word": "小澈 梅毒",
+        "onboard_time": 1768049061,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1271113,
+        "num": 89635,
+        "word": "小澈",
+        "onboard_time": 1768062861,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 637915,
+        "num": 89522,
+        "word": "小澈 抗艾滋药",
+        "onboard_time": 1768041321,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 526350,
+        "num": 89434,
+        "word": "小澈还在方圆家住半个月",
+        "onboard_time": 1768055902,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 66044,
+        "num": 89310,
+        "word": "这些食物是隐藏的抗炎王者",
+        "onboard_time": 1768062441,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 352679,
+        "num": 89251,
+        "word": "小澈回应抗艾滋药",
+        "onboard_time": 1768043901,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 109309,
+        "num": 89134,
+        "word": "轧戏",
+        "onboard_time": 1768046421,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107756,
+        "num": 89100,
+        "word": "颜安直播",
+        "onboard_time": 1768054103,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63165,
+        "num": 88941,
+        "word": "麦当劳回应汉堡尺寸像马卡龙",
+        "onboard_time": 1768040540,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56371,
+        "num": 88925,
+        "word": "美国为啥一直在要格陵兰岛",
+        "onboard_time": 1768063639,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 79127,
+        "num": 88829,
+        "word": "黄晓明这是会议室不是中餐厅",
+        "onboard_time": 1768064718,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72617,
+        "num": 88694,
+        "word": "轧戏 男二",
+        "onboard_time": 1768065019,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57252,
+        "num": 88660,
+        "word": "小城大事热度",
+        "onboard_time": 1768046421,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45274,
+        "num": 88506,
+        "word": "死了么APP开发者为3名95后",
+        "onboard_time": 1768037361,
+        "rank": 33,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 42719,
+        "num": 88401,
+        "word": "差评率100%的自助",
+        "onboard_time": 1768057523,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55787,
+        "num": 88326,
+        "word": "小城大事",
+        "onboard_time": 1768045161,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53831,
+        "num": 88295,
+        "word": "宋威龙现偶",
+        "onboard_time": 1768053084,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42579,
+        "num": 88170,
+        "word": "孙颖莎韩莹交手记录",
+        "onboard_time": 1768055003,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38601,
+        "num": 88067,
+        "word": "收到了去世十年姐姐的微信",
+        "onboard_time": 1768047682,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36758,
+        "num": 88032,
+        "word": "Breathe说RNG退出可惜了",
+        "onboard_time": 1768063939,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 52294,
+        "num": 87915,
+        "word": "张凌赫壁纸",
+        "onboard_time": 1768059083,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45041,
+        "num": 87789,
+        "word": "sakee文言文",
+        "onboard_time": 1768047682,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41224,
+        "num": 87712,
+        "word": "檀健次镜中万象vlog",
+        "onboard_time": 1768038020,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40568,
+        "num": 87669,
+        "word": "李秋萍爸妈",
+        "onboard_time": 1768060642,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38854,
+        "num": 87548,
+        "word": "白鹿下一季最期待的项目",
+        "onboard_time": 1768065858,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35844,
+        "num": 87474,
+        "word": "王曼昱3比4韩莹",
+        "onboard_time": 1768047502,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32940,
+        "num": 87360,
+        "word": "白头发是身体释放的压力警告",
+        "onboard_time": 1768041201,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 32565,
+        "num": 87281,
+        "word": "歼20裸眼3D硬核海报",
+        "onboard_time": 1768064419,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 31598,
+        "num": 87176,
+        "word": "云南范某某被立案调查",
+        "onboard_time": 1768059202,
+        "rank": 48,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 28404,
+        "num": 87112,
+        "word": "飞机延误中国大妈带中外友人练八段锦",
+        "onboard_time": 1768057162,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#创新创造催生了新质生产力#"
+    }
+  }
+}

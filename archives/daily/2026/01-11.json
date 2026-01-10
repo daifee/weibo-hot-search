@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768063701824,
+  "endTime": 1768065970489,
   "band_list": [
     {
       "raw_hot": 2076111,
@@ -8,6 +8,14 @@
       "word": "小澈 梅毒",
       "onboard_time": 1768049061,
       "rank": 20,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 1271113,
+      "num": 152144,
+      "word": "小澈",
+      "onboard_time": 1768062861,
+      "rank": 25,
       "category": "网红"
     },
     {
@@ -59,20 +67,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 519276,
-      "num": 152144,
-      "word": "小澈",
-      "onboard_time": 1768062861,
-      "rank": 25,
-      "category": "网红"
-    },
-    {
       "raw_hot": 439558,
       "num": 814235,
       "word": "一起来看流星雨",
       "onboard_time": 1768055963,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 413792,
+      "num": 282575,
+      "word": "运动员王某举报范某某情况基本属实",
+      "onboard_time": 1768060342,
+      "rank": 3,
+      "category": "辟谣/通报,体育"
     },
     {
       "raw_hot": 410699,
@@ -113,14 +121,6 @@
       "onboard_time": 1768035741,
       "rank": 14,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 282575,
-      "num": 282575,
-      "word": "运动员王某举报范某某情况基本属实",
-      "onboard_time": 1768060342,
-      "rank": 3,
-      "category": "辟谣/通报,体育"
     },
     {
       "raw_hot": 282139,
@@ -243,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79127,
+      "num": 88829,
+      "word": "黄晓明这是会议室不是中餐厅",
+      "onboard_time": 1768064718,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78357,
       "num": 195876,
       "word": "宋威龙现偶",
@@ -265,6 +273,14 @@
       "onboard_time": 1768059202,
       "rank": 28,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 72617,
+      "num": 88694,
+      "word": "轧戏 男二",
+      "onboard_time": 1768065019,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 69976,
@@ -347,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 56371,
+      "num": 151338,
+      "word": "美国为啥一直在要格陵兰岛",
+      "onboard_time": 1768063639,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 54037,
       "num": 151658,
       "word": "收到了去世十年姐姐的微信",
@@ -411,20 +435,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40198,
-      "num": 151338,
-      "word": "美国为啥一直在要格陵兰岛",
-      "onboard_time": 1768063639,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 39827,
       "num": 151314,
       "word": "鹅鸭杀打台球",
       "onboard_time": 1768060221,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 38854,
+      "num": 87548,
+      "word": "白鹿下一季最期待的项目",
+      "onboard_time": 1768065858,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 36758,
+      "num": 88032,
+      "word": "Breathe说RNG退出可惜了",
+      "onboard_time": 1768063939,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 32565,
+      "num": 87281,
+      "word": "歼20裸眼3D硬核海报",
+      "onboard_time": 1768064419,
+      "rank": 47,
+      "category": "军事"
     },
     {
       "raw_hot": 21948,
