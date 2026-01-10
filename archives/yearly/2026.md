@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/10 14:40:42
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/10 14:54:01
 </p>
 </blockquote>
 <p>
@@ -1269,6 +1269,12 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%A6%BB%E4%B8%96%E5%89%8D%E5%B0%8627%E5%B2%81%E7%98%AB%E7%97%AA%E5%85%BB%E5%A5%B3%E9%80%81%E5%85%BB%E8%80%81%E9%99%A2%23" target="weibo">
+老人离世前将27岁瘫痪养女送养老院（热度：559979）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%A9%E4%B8%9A%E7%AC%91%E4%BA%86%E5%8D%8A%E5%B0%8F%E6%97%B6%E6%89%8D%E5%86%B3%E5%AE%9A%E6%95%91%E4%BA%BA%23" target="weibo">
 物业笑了半小时才决定救人（热度：559904）
 </a>
@@ -1805,12 +1811,6 @@ TVB颁奖典礼（热度：518643）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%A5%B3%E4%B8%BB%E5%AE%98%E5%AE%A3%E5%AE%8C%E7%94%B7%E4%BA%8C%E6%89%8D%E8%BF%BD%23" target="weibo">
 男女主官宣完男二才追（热度：495862）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B4%97%E7%A2%97%20%E5%81%9A%E6%89%8B%E8%86%9C%23" target="weibo">
-洗碗 做手膜（热度：495716）
 </a>
 </li>
 

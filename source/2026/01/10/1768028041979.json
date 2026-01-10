@@ -1,0 +1,410 @@
+{
+  "runTime": 1768028041979,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 342350,
+        "num": 1054776,
+        "word": "流浪地球3",
+        "onboard_time": 1768011199,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163110,
+        "num": 741684,
+        "word": "美撤销对中国无人机所谓管制计划",
+        "onboard_time": 1768020381,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20534,
+        "num": 619358,
+        "word": "国有经济向新布局明显提速",
+        "onboard_time": 1768015460,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 198011,
+        "num": 576751,
+        "word": "刘耀文陈浚铭最怕空气突然的安静",
+        "onboard_time": 1768026802,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142638,
+        "num": 565705,
+        "word": "麦当劳汉堡 马卡龙",
+        "onboard_time": 1768024280,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 559979,
+        "num": 559979,
+        "word": "老人离世前将27岁瘫痪养女送养老院",
+        "onboard_time": 1768025780,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268130,
+        "num": 268130,
+        "word": "不知道 我的身材很曼妙",
+        "onboard_time": 1768024401,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204514,
+        "num": 268075,
+        "word": "女子生理期逛胖东来腹痛被送布洛芬",
+        "onboard_time": 1768023022,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163113,
+        "num": 264842,
+        "word": "女子上门喂猫两周赚7454元",
+        "onboard_time": 1768015701,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131783,
+        "num": 262968,
+        "word": "义乌产的哭哭马火了",
+        "onboard_time": 1768001777,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 476792,
+        "num": 259984,
+        "word": "刘宇宁终于默认了婆婆",
+        "onboard_time": 1768023140,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358575,
+        "num": 259087,
+        "word": "吴速玲曝儿子Joe是恋爱脑",
+        "onboard_time": 1768022360,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257583,
+        "num": 257583,
+        "word": "再不期末考就得糖尿病了",
+        "onboard_time": 1768022000,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216322,
+        "num": 216322,
+        "word": "小猫还原自己摔伤的过程",
+        "onboard_time": 1768025659,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215499,
+        "num": 215499,
+        "word": "第一集就吻上了陈星旭",
+        "onboard_time": 1768023260,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209138,
+        "num": 209138,
+        "word": "王一博回应对未来组建家庭的规划",
+        "onboard_time": 1768021460,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174039,
+        "num": 174039,
+        "word": "婆婆瞒着儿媳伙同儿子遗弃孙女",
+        "onboard_time": 1768020621,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161555,
+        "num": 161555,
+        "word": "保温杯里带方便面一年买房了",
+        "onboard_time": 1768017261,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141977,
+        "num": 141977,
+        "word": "伊能静恩利母子大片",
+        "onboard_time": 1768025601,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120053,
+        "num": 120053,
+        "word": "赵本山女儿新发型被调侃像父亲",
+        "onboard_time": 1768027041,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360955,
+        "num": 120035,
+        "word": "金价",
+        "onboard_time": 1768017859,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 941130,
+        "num": 117004,
+        "word": "刘一诺 没义务替檀健次承受抹黑",
+        "onboard_time": 1768014739,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328908,
+        "num": 113201,
+        "word": "黄子韬住重庆胖到300斤",
+        "onboard_time": 1768026082,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104025,
+        "num": 111105,
+        "word": "美国男子家中搜出大量人骨",
+        "onboard_time": 1768021161,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109631,
+        "num": 109631,
+        "word": "彭小苒杀死了天台拍照比赛",
+        "onboard_time": 1768024819,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107026,
+        "num": 107026,
+        "word": "刘耀文说在四代面前自己算老了",
+        "onboard_time": 1768020680,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92250,
+        "num": 99216,
+        "word": "如果你隐约感觉到一个人不真诚",
+        "onboard_time": 1768026682,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92832,
+        "num": 92832,
+        "word": "澳大利亚首位华人女市长曾是精神科护士",
+        "onboard_time": 1768023799,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92589,
+        "num": 92589,
+        "word": "张函瑞膝盖走路",
+        "onboard_time": 1768027522,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91980,
+        "num": 91980,
+        "word": "中央纪委反腐大片即将开播",
+        "onboard_time": 1768026862,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115267,
+        "num": 90918,
+        "word": "难怪这周上班跟鬼打墙一样",
+        "onboard_time": 1768026261,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89797,
+        "num": 89797,
+        "word": "沈梦辰被歌手腌入味了",
+        "onboard_time": 1768026501,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95443,
+        "num": 89763,
+        "word": "彭小苒凌晨朋友圈发长文",
+        "onboard_time": 1768014079,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89492,
+        "num": 89492,
+        "word": "孙颖莎王楚钦出战新加坡大满贯",
+        "onboard_time": 1768020440,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88447,
+        "num": 88447,
+        "word": "要被迪丽热巴贺思慕可爱鼠了",
+        "onboard_time": 1768025780,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86130,
+        "num": 86130,
+        "word": "好的人设真的会让一个人变帅",
+        "onboard_time": 1768027041,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84589,
+        "num": 84589,
+        "word": "删了吧有个单休的人破防了",
+        "onboard_time": 1768023921,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84609,
+        "num": 84450,
+        "word": "归鸾女二是黄羿",
+        "onboard_time": 1768023200,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83832,
+        "num": 83832,
+        "word": "TF家族荣耀之战演唱会官宣",
+        "onboard_time": 1768014560,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 9588,
+        "num": 83275,
+        "word": "韩总统要求彻查无人机侵犯朝领空",
+        "onboard_time": 1768027883,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83107,
+        "num": 83107,
+        "word": "曝Clearlove回归EDG",
+        "onboard_time": 1768025540,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83761,
+        "num": 82530,
+        "word": "荣耀之战",
+        "onboard_time": 1768015701,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81925,
+        "num": 81925,
+        "word": "鹿晗代表作",
+        "onboard_time": 1768027701,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81154,
+        "num": 81154,
+        "word": "infj为什么很E",
+        "onboard_time": 1768017980,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80791,
+        "num": 80791,
+        "word": "女子3天闪婚收20万彩礼拒同居",
+        "onboard_time": 1768020680,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80701,
+        "num": 80701,
+        "word": "乘风2026",
+        "onboard_time": 1768009459,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79441,
+        "num": 79441,
+        "word": "砂糖橘花束",
+        "onboard_time": 1768027701,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77286,
+        "num": 77286,
+        "word": "第一批回村的猫",
+        "onboard_time": 1768027883,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70271,
+        "num": 76912,
+        "word": "年度反腐大片",
+        "onboard_time": 1768023740,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 68751,
+        "num": 76704,
+        "word": "雄鹿战胜湖人",
+        "onboard_time": 1768027041,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平点赞公安英雄模范#"
+    }
+  }
+}

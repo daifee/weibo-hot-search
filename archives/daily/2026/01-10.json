@@ -1,6 +1,6 @@
 {
   "startTime": 1767976730727,
-  "endTime": 1768027242913,
+  "endTime": 1768028041979,
   "band_list": [
     {
       "raw_hot": 3020265,
@@ -68,11 +68,19 @@
     },
     {
       "raw_hot": 565640,
-      "num": 249101,
+      "num": 259984,
       "word": "刘宇宁终于默认了婆婆",
       "onboard_time": 1768023140,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 559979,
+      "num": 559979,
+      "word": "老人离世前将27岁瘫痪养女送养老院",
+      "onboard_time": 1768025780,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 555532,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 422313,
-      "num": 248100,
+      "num": 259087,
       "word": "吴速玲曝儿子Joe是恋爱脑",
       "onboard_time": 1768022360,
       "rank": 14,
@@ -177,14 +185,6 @@
       "onboard_time": 1768021460,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 365010,
-      "num": 365010,
-      "word": "老人离世前将27岁瘫痪养女送养老院",
-      "onboard_time": 1768025780,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 362879,
@@ -235,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 328908,
+      "num": 130657,
+      "word": "黄子韬住重庆胖到300斤",
+      "onboard_time": 1768026082,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 321689,
       "num": 194433,
       "word": "千万网红出镜四年衣服都是自己做的",
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 289462,
-      "num": 247403,
+      "num": 257583,
       "word": "再不期末考就得糖尿病了",
       "onboard_time": 1768022000,
       "rank": 24,
@@ -273,14 +281,6 @@
       "onboard_time": 1768008680,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 278013,
-      "num": 130657,
-      "word": "黄子韬住重庆胖到300斤",
-      "onboard_time": 1768026082,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 277780,
@@ -297,6 +297,14 @@
       "onboard_time": 1768015701,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 268130,
+      "num": 268130,
+      "word": "不知道 我的身材很曼妙",
+      "onboard_time": 1768024401,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 263973,
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 259934,
-      "num": 252474,
+      "num": 264842,
       "word": "女子上门喂猫两周赚7454元",
       "onboard_time": 1768015701,
       "rank": 18,
@@ -329,14 +337,6 @@
       "onboard_time": 1768011919,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 252838,
-      "num": 252838,
-      "word": "不知道 我的身材很曼妙",
-      "onboard_time": 1768024401,
-      "rank": 6,
-      "category": "情感"
     },
     {
       "raw_hot": 251727,
@@ -395,6 +395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 216322,
+      "num": 216322,
+      "word": "小猫还原自己摔伤的过程",
+      "onboard_time": 1768025659,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 212038,
       "num": 145172,
       "word": "妻子整理遗物发现亡夫转情人1900万",
@@ -427,6 +435,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 204514,
+      "num": 268075,
+      "word": "女子生理期逛胖东来腹痛被送布洛芬",
+      "onboard_time": 1768023022,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204362,
       "num": 132908,
       "word": "刘一诺再次声明和檀健次好聚好散",
@@ -451,6 +467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198011,
+      "num": 576751,
+      "word": "刘耀文陈浚铭最怕空气突然的安静",
+      "onboard_time": 1768026802,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189865,
       "num": 569366,
       "word": "日本一医院遗失放射性物质",
@@ -465,14 +489,6 @@
       "onboard_time": 1768022539,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188751,
-      "num": 188751,
-      "word": "小猫还原自己摔伤的过程",
-      "onboard_time": 1768025659,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 188215,
@@ -529,14 +545,6 @@
       "onboard_time": 1767965601,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 173878,
-      "num": 251705,
-      "word": "女子生理期逛胖东来腹痛被送布洛芬",
-      "onboard_time": 1768023022,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 172358,
@@ -731,6 +739,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142638,
+      "num": 565705,
+      "word": "麦当劳汉堡 马卡龙",
+      "onboard_time": 1768024280,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 141977,
+      "num": 141977,
+      "word": "伊能静恩利母子大片",
+      "onboard_time": 1768025601,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140013,
       "num": 140013,
       "word": "王心凌唱了3分钟我蹦了180秒",
@@ -777,14 +801,6 @@
       "onboard_time": 1767966801,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 135102,
-      "num": 135102,
-      "word": "伊能静恩利母子大片",
-      "onboard_time": 1768025601,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 134643,
@@ -939,12 +955,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120111,
-      "num": 120111,
-      "word": "刘耀文陈浚铭最怕空气突然的安静",
-      "onboard_time": 1768026802,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 120053,
+      "num": 120053,
+      "word": "赵本山女儿新发型被调侃像父亲",
+      "onboard_time": 1768027041,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 119637,
@@ -971,6 +987,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 115267,
+      "num": 104773,
+      "word": "难怪这周上班跟鬼打墙一样",
+      "onboard_time": 1768026261,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113155,
       "num": 113155,
       "word": "蒲熠星连续两年加盟最强大脑",
@@ -993,14 +1017,6 @@
       "onboard_time": 1768004538,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108323,
-      "num": 104773,
-      "word": "难怪这周上班跟鬼打墙一样",
-      "onboard_time": 1768026261,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 108050,
@@ -1259,12 +1275,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92589,
+      "num": 92589,
+      "word": "张函瑞膝盖走路",
+      "onboard_time": 1768027522,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92337,
       "num": 92337,
       "word": "你以为的热饮vs实际上的热饮",
       "onboard_time": 1768016899,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92250,
+      "num": 99216,
+      "word": "如果你隐约感觉到一个人不真诚",
+      "onboard_time": 1768026682,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 91980,
+      "num": 91980,
+      "word": "中央纪委反腐大片即将开播",
+      "onboard_time": 1768026862,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 91114,
@@ -1283,14 +1323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 89499,
-      "num": 89499,
-      "word": "麦当劳汉堡 马卡龙",
-      "onboard_time": 1768024280,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
       "raw_hot": 88848,
       "num": 95182,
       "word": "性子急缩短寿命",
@@ -1305,14 +1337,6 @@
       "onboard_time": 1768011080,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88626,
-      "num": 88626,
-      "word": "赵本山女儿新发型被调侃像父亲",
-      "onboard_time": 1768027041,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 88113,
@@ -1371,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86130,
+      "num": 86130,
+      "word": "好的人设真的会让一个人变帅",
+      "onboard_time": 1768027041,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85208,
       "num": 93459,
       "word": "雄鹿战胜湖人",
@@ -1419,12 +1451,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 81600,
-      "num": 87079,
-      "word": "如果你隐约感觉到一个人不真诚",
-      "onboard_time": 1768026682,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 81925,
+      "num": 81925,
+      "word": "鹿晗代表作",
+      "onboard_time": 1768027701,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 81006,
@@ -1457,6 +1489,14 @@
       "onboard_time": 1768016180,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 79441,
+      "num": 79441,
+      "word": "砂糖橘花束",
+      "onboard_time": 1768027701,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 79044,
@@ -1497,6 +1537,14 @@
       "onboard_time": 1768003279,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77286,
+      "num": 77286,
+      "word": "第一批回村的猫",
+      "onboard_time": 1768027883,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 77211,
@@ -2041,6 +2089,14 @@
       "onboard_time": 1767960680,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 9588,
+      "num": 83275,
+      "word": "韩总统要求彻查无人机侵犯朝领空",
+      "onboard_time": 1768027883,
+      "rank": 39,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
