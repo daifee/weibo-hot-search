@@ -1,0 +1,410 @@
+{
+  "runTime": 1768023928487,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 384295,
+        "num": 1061487,
+        "word": "流浪地球3",
+        "onboard_time": 1768011199,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 277780,
+        "num": 751811,
+        "word": "美撤销对中国无人机所谓管制计划",
+        "onboard_time": 1768020381,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25814,
+        "num": 630882,
+        "word": "国有经济向新布局明显提速",
+        "onboard_time": 1768015460,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 244277,
+        "num": 244277,
+        "word": "义乌产的哭哭马火了",
+        "onboard_time": 1768001777,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237499,
+        "num": 237499,
+        "word": "TF家族荣耀之战演唱会官宣",
+        "onboard_time": 1768014560,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 274255,
+        "num": 223646,
+        "word": "保温杯里带方便面一年买房了",
+        "onboard_time": 1768017261,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208868,
+        "num": 208868,
+        "word": "刘耀文说在四代面前自己算老了",
+        "onboard_time": 1768020680,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203339,
+        "num": 203339,
+        "word": "女子上门喂猫两周赚7454元",
+        "onboard_time": 1768015701,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190255,
+        "num": 190255,
+        "word": "北约成员国开撕",
+        "onboard_time": 1768008139,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128336,
+        "num": 128336,
+        "word": "Dior上海快闪明星",
+        "onboard_time": 1768022420,
+        "rank": 9,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 573912,
+        "num": 128294,
+        "word": "黄磊孙莉小儿子颜值",
+        "onboard_time": 1768018459,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422313,
+        "num": 128120,
+        "word": "吴速玲曝儿子Joe是恋爱脑",
+        "onboard_time": 1768022360,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413405,
+        "num": 128015,
+        "word": "婆婆瞒着儿媳伙同儿子遗弃孙女",
+        "onboard_time": 1768020621,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373639,
+        "num": 127936,
+        "word": "王一博回应对未来组建家庭的规划",
+        "onboard_time": 1768021460,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230312,
+        "num": 127873,
+        "word": "刘宇宁终于默认了婆婆",
+        "onboard_time": 1768023140,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223753,
+        "num": 127763,
+        "word": "infj为什么很E",
+        "onboard_time": 1768017980,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178526,
+        "num": 127594,
+        "word": "彭小苒凌晨朋友圈发长文",
+        "onboard_time": 1768014079,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56912,
+        "num": 127507,
+        "word": "中方釜底抽薪打击日本军工体系",
+        "onboard_time": 1768023560,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 174108,
+        "num": 127452,
+        "word": "再不期末考就得糖尿病了",
+        "onboard_time": 1768022000,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15987,
+        "num": 127321,
+        "word": "亚运三金得主王莉回应举报进展",
+        "onboard_time": 1768023320,
+        "rank": 19,
+        "category": "舆论监督,体育"
+      },
+      {
+        "raw_hot": 1798356,
+        "num": 127243,
+        "word": "刘一诺 没义务替檀健次承受抹黑",
+        "onboard_time": 1768014739,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 680148,
+        "num": 127093,
+        "word": "金价",
+        "onboard_time": 1768017859,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 191273,
+        "num": 127025,
+        "word": "第一集就吻上了陈星旭",
+        "onboard_time": 1768023260,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168829,
+        "num": 126843,
+        "word": "归鸾女二是黄羿",
+        "onboard_time": 1768023200,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156746,
+        "num": 126809,
+        "word": "四大电诈头目被押解回国舱内特写曝光",
+        "onboard_time": 1768017020,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154140,
+        "num": 126705,
+        "word": "TF四代跳爆闪团单曲串烧",
+        "onboard_time": 1768022539,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146470,
+        "num": 126561,
+        "word": "特朗普遭美石油巨头打脸",
+        "onboard_time": 1768017920,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129440,
+        "num": 126426,
+        "word": "程晓玥自曝二胎孕期食量惊人",
+        "onboard_time": 1768019181,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20409,
+        "num": 126345,
+        "word": "年度反腐大片",
+        "onboard_time": 1768023740,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 126275,
+        "num": 126275,
+        "word": "张凌赫少年感扑面而来了",
+        "onboard_time": 1768020920,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124904,
+        "num": 124904,
+        "word": "赵又廷张子枫新剧空降",
+        "onboard_time": 1768015402,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121628,
+        "num": 121628,
+        "word": "女子3天闪婚收20万彩礼拒同居",
+        "onboard_time": 1768020680,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120461,
+        "num": 120461,
+        "word": "美国男子家中搜出大量人骨",
+        "onboard_time": 1768021161,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119637,
+        "num": 119637,
+        "word": "WTT新加坡大满贯",
+        "onboard_time": 1768023140,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118761,
+        "num": 118761,
+        "word": "黄子韬一秒听出鹿晗的歌",
+        "onboard_time": 1768019600,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116723,
+        "num": 116723,
+        "word": "卢昱晓轧戏出圈镜头",
+        "onboard_time": 1768018880,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99073,
+        "num": 108678,
+        "word": "金价波动",
+        "onboard_time": 1768014920,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107005,
+        "num": 107005,
+        "word": "谁去把肖央王太利的网线拔了",
+        "onboard_time": 1768021820,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74684,
+        "num": 102739,
+        "word": "原来早期的时代峰峻这么真诚",
+        "onboard_time": 1768021341,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31042,
+        "num": 101944,
+        "word": "女子生理期逛胖东来腹痛被送布洛芬",
+        "onboard_time": 1768023022,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101223,
+        "num": 101223,
+        "word": "蒋毅结过婚了",
+        "onboard_time": 1768014500,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100010,
+        "num": 100010,
+        "word": "澳大利亚首位华人女市长曾是精神科护士",
+        "onboard_time": 1768023799,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95474,
+        "num": 98500,
+        "word": "7岁女童镜片配反10个月后才发现",
+        "onboard_time": 1768018940,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97630,
+        "num": 97630,
+        "word": "邵子恒不愧是在韩出道的断层C位",
+        "onboard_time": 1768023501,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97388,
+        "num": 97388,
+        "word": "周深在辽宁春晚吃完你的吃你的",
+        "onboard_time": 1768023022,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91114,
+        "num": 91114,
+        "word": "2026LPL定妆照",
+        "onboard_time": 1768023680,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95095,
+        "num": 90697,
+        "word": "乘风2026",
+        "onboard_time": 1768009459,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89726,
+        "num": 89726,
+        "word": "赵丽颖真的不是在演喜剧吗",
+        "onboard_time": 1768023740,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87198,
+        "num": 87198,
+        "word": "杨瀚森被坐到头部",
+        "onboard_time": 1768022839,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83685,
+        "num": 85533,
+        "word": "我工资的四大构成",
+        "onboard_time": 1768023859,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平点赞公安英雄模范#"
+    }
+  }
+}

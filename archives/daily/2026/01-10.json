@@ -1,6 +1,6 @@
 {
   "startTime": 1767976730727,
-  "endTime": 1768023023608,
+  "endTime": 1768023928487,
   "band_list": [
     {
       "raw_hot": 3020265,
@@ -51,7 +51,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 596354,
+      "raw_hot": 680148,
       "num": 253647,
       "word": "金价",
       "onboard_time": 1768017859,
@@ -59,19 +59,19 @@
       "category": "财经"
     },
     {
+      "raw_hot": 573912,
+      "num": 240745,
+      "word": "黄磊孙莉小儿子颜值",
+      "onboard_time": 1768018459,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 555532,
       "num": 206077,
       "word": "蒋毅结过婚了",
       "onboard_time": 1768014500,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 533999,
-      "num": 240745,
-      "word": "黄磊孙莉小儿子颜值",
-      "onboard_time": 1768018459,
-      "rank": 14,
       "category": "艺人"
     },
     {
@@ -131,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 422313,
+      "num": 195006,
+      "word": "吴速玲曝儿子Joe是恋爱脑",
+      "onboard_time": 1768022360,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 421367,
       "num": 197062,
       "word": "婆婆瞒着儿媳伙同儿子遗弃孙女",
@@ -153,6 +161,14 @@
       "onboard_time": 1768014920,
       "rank": 5,
       "category": "财经"
+    },
+    {
+      "raw_hot": 373639,
+      "num": 196377,
+      "word": "王一博回应对未来组建家庭的规划",
+      "onboard_time": 1768021460,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 362879,
@@ -185,14 +201,6 @@
       "onboard_time": 1768008139,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 348108,
-      "num": 196377,
-      "word": "王一博回应对未来组建家庭的规划",
-      "onboard_time": 1768021460,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 344792,
@@ -241,6 +249,14 @@
       "onboard_time": 1768008680,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 277780,
+      "num": 751811,
+      "word": "美撤销对中国无人机所谓管制计划",
+      "onboard_time": 1768020381,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 277592,
@@ -300,7 +316,7 @@
     },
     {
       "raw_hot": 236700,
-      "num": 207578,
+      "num": 208868,
       "word": "刘耀文说在四代面前自己算老了",
       "onboard_time": 1768020680,
       "rank": 29,
@@ -315,10 +331,10 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 228997,
-      "num": 195006,
-      "word": "吴速玲曝儿子Joe是恋爱脑",
-      "onboard_time": 1768022360,
+      "raw_hot": 230312,
+      "num": 127873,
+      "word": "刘宇宁终于默认了婆婆",
+      "onboard_time": 1768023140,
       "rank": 14,
       "category": "艺人"
     },
@@ -337,14 +353,6 @@
       "onboard_time": 1767968061,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 214759,
-      "num": 214759,
-      "word": "美撤销对中国无人机所谓管制计划",
-      "onboard_time": 1768020381,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 212038,
@@ -401,6 +409,14 @@
       "onboard_time": 1768017621,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 191273,
+      "num": 127025,
+      "word": "第一集就吻上了陈星旭",
+      "onboard_time": 1768023260,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 189865,
@@ -475,6 +491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 174108,
+      "num": 152087,
+      "word": "再不期末考就得糖尿病了",
+      "onboard_time": 1768022000,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 172358,
       "num": 107221,
       "word": "曾比特瘦了40斤",
@@ -497,6 +521,14 @@
       "onboard_time": 1768020440,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168829,
+      "num": 126843,
+      "word": "归鸾女二是黄羿",
+      "onboard_time": 1768023200,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 167721,
@@ -747,14 +779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 131433,
-      "num": 152087,
-      "word": "再不期末考就得糖尿病了",
-      "onboard_time": 1768022000,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 131286,
       "num": 127899,
       "word": "惊蛰无声",
@@ -851,6 +875,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120461,
+      "num": 159083,
+      "word": "美国男子家中搜出大量人骨",
+      "onboard_time": 1768021161,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 119637,
+      "num": 119637,
+      "word": "WTT新加坡大满贯",
+      "onboard_time": 1768023140,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118509,
       "num": 102275,
       "word": "卢昱晓好美",
@@ -881,14 +921,6 @@
       "onboard_time": 1768004538,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108657,
-      "num": 159083,
-      "word": "美国男子家中搜出大量人骨",
-      "onboard_time": 1768021161,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 108050,
@@ -987,8 +1019,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100010,
+      "num": 100010,
+      "word": "澳大利亚首位华人女市长曾是精神科护士",
+      "onboard_time": 1768023799,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99784,
-      "num": 95769,
+      "num": 102739,
       "word": "原来早期的时代峰峻这么真诚",
       "onboard_time": 1768021341,
       "rank": 45,
@@ -1001,6 +1041,22 @@
       "onboard_time": 1767981256,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97630,
+      "num": 97630,
+      "word": "邵子恒不愧是在韩出道的断层C位",
+      "onboard_time": 1768023501,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 97388,
+      "num": 97388,
+      "word": "周深在辽宁春晚吃完你的吃你的",
+      "onboard_time": 1768023022,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 97071,
@@ -1043,6 +1099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95474,
+      "num": 139485,
+      "word": "7岁女童镜片配反10个月后才发现",
+      "onboard_time": 1768018940,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94311,
       "num": 100105,
       "word": "火箭vs开拓者",
@@ -1073,6 +1137,22 @@
       "onboard_time": 1768016899,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 91114,
+      "num": 91114,
+      "word": "2026LPL定妆照",
+      "onboard_time": 1768023680,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 89726,
+      "num": 89726,
+      "word": "赵丽颖真的不是在演喜剧吗",
+      "onboard_time": 1768023740,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 88848,
@@ -1115,12 +1195,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87002,
-      "num": 139485,
-      "word": "7岁女童镜片配反10个月后才发现",
-      "onboard_time": 1768018940,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 87198,
+      "num": 118870,
+      "word": "杨瀚森被坐到头部",
+      "onboard_time": 1768022839,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 86497,
@@ -1147,20 +1227,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 83685,
+      "num": 85533,
+      "word": "我工资的四大构成",
+      "onboard_time": 1768023859,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 82637,
       "num": 97916,
       "word": "彭小苒白天官宣晚上亮相",
       "onboard_time": 1767974299,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 81863,
-      "num": 118870,
-      "word": "杨瀚森被坐到头部",
-      "onboard_time": 1768022839,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 80863,
@@ -1409,6 +1489,14 @@
       "onboard_time": 1768019840,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 56912,
+      "num": 127507,
+      "word": "中方釜底抽薪打击日本军工体系",
+      "onboard_time": 1768023560,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 55934,
@@ -1667,6 +1755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 31042,
+      "num": 101944,
+      "word": "女子生理期逛胖东来腹痛被送布洛芬",
+      "onboard_time": 1768023022,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28506,
       "num": 87110,
       "word": "猫的树现偶的神",
@@ -1723,6 +1819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20409,
+      "num": 126345,
+      "word": "年度反腐大片",
+      "onboard_time": 1768023740,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 16662,
       "num": 26310,
       "word": "小城大事微博追剧团",
@@ -1737,6 +1841,14 @@
       "onboard_time": 1767992474,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15987,
+      "num": 127321,
+      "word": "亚运三金得主王莉回应举报进展",
+      "onboard_time": 1768023320,
+      "rank": 19,
+      "category": "舆论监督,体育"
     },
     {
       "raw_hot": 14457,
