@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768041931139,
+  "endTime": 1768044294410,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -41,6 +41,14 @@
       "onboard_time": 1767354981,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 3534737,
+      "num": 121593,
+      "word": "小澈 抗艾滋药",
+      "onboard_time": 1768041321,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 3020265,
@@ -635,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 909104,
+      "num": 93278,
+      "word": "小澈回应抗艾滋药",
+      "onboard_time": 1768043901,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 906835,
       "num": 906835,
       "word": "一点点十年前的价目表",
@@ -1185,6 +1201,14 @@
       "onboard_time": 1767193168,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 681248,
+      "num": 1108999,
+      "word": "麦当劳回应汉堡尺寸像马卡龙",
+      "onboard_time": 1768040540,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 679440,
@@ -1883,14 +1907,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 543856,
-      "num": 121593,
-      "word": "小澈 抗艾滋药",
-      "onboard_time": 1768041321,
-      "rank": 21,
-      "category": "网红"
-    },
-    {
       "raw_hot": 543056,
       "num": 424813,
       "word": "iPhoneFold上手",
@@ -2348,7 +2364,7 @@
     },
     {
       "raw_hot": 506694,
-      "num": 197339,
+      "num": 212227,
       "word": "死了么APP开发者为3名95后",
       "onboard_time": 1768037361,
       "rank": 32,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767781883,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 505369,
-      "num": 605268,
-      "word": "女子怀孕每次产检发现多出一胎",
-      "onboard_time": 1767589044,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 504403,
-      "num": 154472,
-      "word": "红果年度短剧",
-      "onboard_time": 1767914478,
-      "rank": 10,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
