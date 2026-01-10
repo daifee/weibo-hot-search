@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768073869005,
+  "endTime": 1768077058178,
   "band_list": [
     {
       "raw_hot": 2076111,
@@ -491,6 +491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 21096,
+      "num": 38634,
+      "word": "奔跑吧天路篇",
+      "onboard_time": 1768064479,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 20114,
       "num": 38634,
       "word": "轧戏女主男二cp感",
@@ -499,20 +507,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19729,
-      "num": 38634,
-      "word": "奔跑吧天路篇",
-      "onboard_time": 1768064479,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 17134,
       "num": 33394,
       "word": "刘宇宁沙丘战士",
       "onboard_time": 1768071855,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 16252,
+      "num": 25023,
+      "word": "刘宇宁不会太晚首唱",
+      "onboard_time": 1768076653,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 13234,
+      "num": 24942,
+      "word": "张真源新歌",
+      "onboard_time": 1768064179,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 11056,
+      "num": 24876,
+      "word": "美石油高管对投资委内瑞拉表态谨慎",
+      "onboard_time": 1768068796,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 7762,
