@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768084073098,
+  "endTime": 1768085064489,
   "band_list": [
     {
       "raw_hot": 2076111,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 413792,
-      "num": 411351,
+      "num": 505478,
       "word": "运动员王某举报范某某情况基本属实",
       "onboard_time": 1768060342,
       "rank": 3,
@@ -483,7 +483,7 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 22925,
+      "raw_hot": 23672,
       "num": 38634,
       "word": "奔跑吧天路篇",
       "onboard_time": 1768064479,
@@ -499,20 +499,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 21189,
+      "num": 21189,
+      "word": "2026年多地养老金调整",
+      "onboard_time": 1768078333,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20114,
       "num": 38634,
       "word": "轧戏女主男二cp感",
       "onboard_time": 1768068616,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 18606,
-      "num": 20943,
-      "word": "2026年多地养老金调整",
-      "onboard_time": 1768078333,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17134,
@@ -539,7 +539,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 11607,
+      "raw_hot": 13097,
       "num": 24876,
       "word": "美石油高管对投资委内瑞拉表态谨慎",
       "onboard_time": 1768068796,
@@ -547,8 +547,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 11196,
+      "num": 20001,
+      "word": "2011年1月11日歼20首飞成功",
+      "onboard_time": 1768084815,
+      "rank": 48,
+      "category": "军事"
+    },
+    {
       "raw_hot": 7762,
-      "num": 232209,
+      "num": 290286,
       "word": "规范互联网应用程序个人信息收集使用",
       "onboard_time": 1768035021,
       "rank": 2,
