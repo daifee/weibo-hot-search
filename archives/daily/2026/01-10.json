@@ -1,6 +1,6 @@
 {
   "startTime": 1767976730727,
-  "endTime": 1768030836781,
+  "endTime": 1768034175902,
   "band_list": [
     {
       "raw_hot": 3020265,
@@ -9,6 +9,14 @@
       "onboard_time": 1768014739,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1264119,
+      "num": 140773,
+      "word": "王一博自曝是否考虑结婚",
+      "onboard_time": 1768031481,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 1014473,
@@ -115,6 +123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 506151,
+      "num": 143385,
+      "word": "全网捞47码脚男艺人",
+      "onboard_time": 1768031120,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 490924,
       "num": 259191,
       "word": "保温杯里带方便面一年买房了",
@@ -145,6 +161,14 @@
       "onboard_time": 1768002618,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 459799,
+      "num": 142637,
+      "word": "陈妍希周柯宇红秀预告",
+      "onboard_time": 1768032620,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 451296,
@@ -275,6 +299,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 316700,
+      "num": 138631,
+      "word": "钟欣潼回应眼线半永久质疑",
+      "onboard_time": 1768031000,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300252,
       "num": 153484,
       "word": "父亲称儿子撞亡一家三口系天灾",
@@ -313,6 +345,14 @@
       "onboard_time": 1768008680,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281673,
+      "num": 157863,
+      "word": "金唱片",
+      "onboard_time": 1768032441,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 277780,
@@ -401,6 +441,14 @@
       "onboard_time": 1768020680,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234729,
+      "num": 141465,
+      "word": "说话含糊 言语霸凌",
+      "onboard_time": 1768028721,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 234214,
@@ -651,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160359,
+      "num": 160359,
+      "word": "辩积和两只小猫",
+      "onboard_time": 1768028661,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 159187,
       "num": 198102,
       "word": "Dior上海快闪明星",
@@ -707,12 +763,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152014,
+      "num": 118176,
+      "word": "身体有炎症就会激发出各种毛病",
+      "onboard_time": 1768032801,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 151351,
       "num": 120182,
       "word": "轧戏",
       "onboard_time": 1767957140,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150561,
+      "num": 150561,
+      "word": "王一博看到小猫偷吃的反应",
+      "onboard_time": 1768034001,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 148850,
@@ -739,12 +811,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 147178,
+      "num": 147178,
+      "word": "网购4J车厘子变成空文件",
+      "onboard_time": 1768033520,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144802,
       "num": 132672,
       "word": "34层高楼回家得接力按楼层",
       "onboard_time": 1767975200,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143597,
+      "num": 143597,
+      "word": "中央纪委反腐大片即将开播",
+      "onboard_time": 1768026862,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 143438,
@@ -803,12 +891,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137464,
-      "num": 137464,
-      "word": "说话含糊 言语霸凌",
-      "onboard_time": 1768028721,
-      "rank": 25,
-      "category": "情感"
+      "raw_hot": 138497,
+      "num": 138497,
+      "word": "被患癌父亲送养老院女生入院吃不下饭",
+      "onboard_time": 1768031780,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136918,
@@ -907,6 +995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 130429,
+      "num": 130429,
+      "word": "起猛了看见赵丽颖咕楼了",
+      "onboard_time": 1768033823,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130418,
       "num": 130418,
       "word": "内娱终于有短剧把减肥讲透了",
@@ -979,14 +1075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123832,
-      "num": 123832,
-      "word": "辩积和两只小猫",
-      "onboard_time": 1768028661,
-      "rank": 34,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 122553,
       "num": 122553,
       "word": "乘风2026",
@@ -1019,6 +1107,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121018,
+      "num": 121018,
+      "word": "贰万结婚",
+      "onboard_time": 1768031840,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 120677,
+      "num": 136584,
+      "word": "巴厘岛拟要求外国游客晒存款",
+      "onboard_time": 1768033341,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 119637,
       "num": 119637,
       "word": "WTT新加坡大满贯",
@@ -1035,12 +1139,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117786,
+      "num": 117786,
+      "word": "早安说豆角不用炖太熟被集体反驳",
+      "onboard_time": 1768033041,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117540,
       "num": 117540,
       "word": "一条金项链一夜涨15200元",
       "onboard_time": 1768003337,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 117256,
+      "num": 117256,
+      "word": "见过啃老的第一次见啃狗的",
+      "onboard_time": 1768033402,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 117135,
@@ -1052,7 +1172,7 @@
     },
     {
       "raw_hot": 115689,
-      "num": 115689,
+      "num": 129511,
       "word": "ADHD 炎症串联",
       "onboard_time": 1768029142,
       "rank": 35,
@@ -1075,20 +1195,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113008,
+      "num": 113008,
+      "word": "第一次见内娱男明星身姿很曼妙",
+      "onboard_time": 1768033701,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 111538,
+      "num": 111538,
+      "word": "陈星旭卢昱晓在谈一种很新的恋爱",
+      "onboard_time": 1768033580,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109421,
       "num": 104279,
       "word": "女友证实讨债群群主就是王大陆",
       "onboard_time": 1768004538,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108853,
-      "num": 142069,
-      "word": "中央纪委反腐大片即将开播",
-      "onboard_time": 1768026862,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 108050,
@@ -1123,6 +1251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 106033,
+      "num": 106033,
+      "word": "王安宇现身央视路透",
+      "onboard_time": 1768033701,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105958,
       "num": 105958,
       "word": "删了吧有个单休的人破防了",
@@ -1153,6 +1289,14 @@
       "onboard_time": 1767981196,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 104155,
+      "num": 104155,
+      "word": "一起来看流星雨短剧男主",
+      "onboard_time": 1768033102,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 104051,
@@ -1299,6 +1443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96170,
+      "num": 96170,
+      "word": "庾澄庆被王赫野的阴间作息吓到",
+      "onboard_time": 1768033941,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95634,
       "num": 97875,
       "word": "房贷利率又迎下调",
@@ -1371,6 +1523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 92912,
+      "num": 92912,
+      "word": "金唱片直播",
+      "onboard_time": 1768034061,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 92788,
       "num": 97940,
       "word": "萧亚轩回应人生进入下半场",
@@ -1403,12 +1563,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 92246,
+      "num": 112191,
+      "word": "小米汽车25年销量涨幅近300%",
+      "onboard_time": 1768032560,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 92119,
+      "num": 89107,
+      "word": "老天爷给张柏芝赏的饭还没吃完",
+      "onboard_time": 1768032560,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91114,
       "num": 91114,
       "word": "2026LPL定妆照",
       "onboard_time": 1768023680,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 91012,
+      "num": 91012,
+      "word": "以为是长期不换 原来是长期钟爱",
+      "onboard_time": 1768034061,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 90692,
@@ -1523,12 +1707,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86086,
+      "num": 86086,
+      "word": "王欣瑜回应首进硬地决赛",
+      "onboard_time": 1768033281,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85901,
       "num": 79863,
       "word": "刘耀文有多害怕吃不上这口青春饭",
       "onboard_time": 1768029201,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85286,
+      "num": 85286,
+      "word": "独居APP死了么被吐槽晦气",
+      "onboard_time": 1768033701,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85208,
@@ -1987,6 +2187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 50153,
+      "num": 102314,
+      "word": "多位多邻国用户投诉遭直接扣款998",
+      "onboard_time": 1768033161,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49492,
       "num": 97791,
       "word": "教师拧断11岁男童胳膊事发地无监控",
@@ -2099,6 +2307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 40135,
+      "num": 633400,
+      "word": "中国在2000米高空架起移动充电宝",
+      "onboard_time": 1768015220,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39979,
       "num": 114610,
       "word": "联合国尚未收到美国退群通知",
@@ -2179,20 +2395,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 33293,
+      "num": 102102,
+      "word": "20岁男生填报高考志愿当晚遇害",
+      "onboard_time": 1768034121,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33192,
       "num": 50822,
       "word": "新音官摄舞台",
       "onboard_time": 1767978258,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 32453,
-      "num": 633400,
-      "word": "中国在2000米高空架起移动充电宝",
-      "onboard_time": 1768015220,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28506,
