@@ -1,10 +1,10 @@
 {
   "startTime": 1767976730727,
-  "endTime": 1768020883160,
+  "endTime": 1768023023608,
   "band_list": [
     {
       "raw_hot": 3020265,
-      "num": 152660,
+      "num": 158842,
       "word": "刘一诺 没义务替檀健次承受抹黑",
       "onboard_time": 1768014739,
       "rank": 20,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 596354,
+      "num": 253647,
+      "word": "金价",
+      "onboard_time": 1768017859,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 555532,
       "num": 206077,
       "word": "蒋毅结过婚了",
@@ -59,7 +67,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 522927,
+      "raw_hot": 533999,
       "num": 240745,
       "word": "黄磊孙莉小儿子颜值",
       "onboard_time": 1768018459,
@@ -123,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 421367,
+      "num": 197062,
+      "word": "婆婆瞒着儿媳伙同儿子遗弃孙女",
+      "onboard_time": 1768020621,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 419905,
       "num": 920857,
       "word": "内蒙古赤峰一小学校服里有薄膜",
@@ -147,14 +163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 355091,
-      "num": 253647,
-      "word": "金价",
-      "onboard_time": 1768017859,
-      "rank": 5,
-      "category": "财经"
-    },
-    {
       "raw_hot": 354869,
       "num": 354869,
       "word": "林屿森 下西瓜了",
@@ -177,6 +185,14 @@
       "onboard_time": 1768008139,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 348108,
+      "num": 196377,
+      "word": "王一博回应对未来组建家庭的规划",
+      "onboard_time": 1768021460,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 344792,
@@ -267,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251727,
+      "num": 195819,
+      "word": "infj为什么很E",
+      "onboard_time": 1768017980,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 247596,
       "num": 433842,
       "word": "王莉举报训练基地主任猥亵女队员",
@@ -275,12 +299,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 236700,
+      "num": 207578,
+      "word": "刘耀文说在四代面前自己算老了",
+      "onboard_time": 1768020680,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234214,
       "num": 186269,
       "word": "云南61岁老妇杀害13岁男孩",
       "onboard_time": 1768003159,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228997,
+      "num": 195006,
+      "word": "吴速玲曝儿子Joe是恋爱脑",
+      "onboard_time": 1768022360,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 226300,
@@ -297,6 +337,14 @@
       "onboard_time": 1767968061,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 214759,
+      "num": 214759,
+      "word": "美撤销对中国无人机所谓管制计划",
+      "onboard_time": 1768020381,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 212038,
@@ -363,6 +411,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 189045,
+      "num": 189045,
+      "word": "TF四代跳爆闪团单曲串烧",
+      "onboard_time": 1768022539,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188215,
       "num": 188215,
       "word": "流落柬埔寨街头女子已出院准备回国",
@@ -427,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171320,
+      "num": 158525,
+      "word": "谁去把肖央王太利的网线拔了",
+      "onboard_time": 1768021820,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169377,
       "num": 169377,
       "word": "孙颖莎王楚钦出战新加坡大满贯",
@@ -452,7 +516,7 @@
     },
     {
       "raw_hot": 165781,
-      "num": 149577,
+      "num": 150299,
       "word": "程晓玥自曝二胎孕期食量惊人",
       "onboard_time": 1768019181,
       "rank": 47,
@@ -481,6 +545,22 @@
       "onboard_time": 1768015340,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159187,
+      "num": 198102,
+      "word": "Dior上海快闪明星",
+      "onboard_time": 1768022420,
+      "rank": 9,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 159104,
+      "num": 159104,
+      "word": "特朗普遭美石油巨头打脸",
+      "onboard_time": 1768017920,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 158117,
@@ -523,14 +603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154219,
-      "num": 154219,
-      "word": "infj为什么很E",
-      "onboard_time": 1768017980,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 151351,
       "num": 120182,
       "word": "轧戏",
@@ -563,14 +635,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 146888,
-      "num": 146888,
-      "word": "刘耀文说在四代面前自己算老了",
-      "onboard_time": 1768020680,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 144802,
       "num": 132672,
       "word": "34层高楼回家得接力按楼层",
@@ -595,6 +659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140013,
+      "num": 140013,
+      "word": "王心凌唱了3分钟我蹦了180秒",
+      "onboard_time": 1768022000,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 139297,
       "num": 139297,
       "word": "宇宙闪烁请注意",
@@ -603,12 +675,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 137690,
-      "num": 137690,
-      "word": "特朗普遭美石油巨头打脸",
-      "onboard_time": 1768017920,
-      "rank": 25,
-      "category": "国际时政"
+      "raw_hot": 139030,
+      "num": 139030,
+      "word": "张凌赫少年感扑面而来了",
+      "onboard_time": 1768020920,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 136918,
@@ -673,6 +745,14 @@
       "onboard_time": 1768001717,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131433,
+      "num": 152087,
+      "word": "再不期末考就得糖尿病了",
+      "onboard_time": 1768022000,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 131286,
@@ -755,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122181,
+      "num": 140659,
+      "word": "女子3天闪婚收20万彩礼拒同居",
+      "onboard_time": 1768020680,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121369,
       "num": 121369,
       "word": "医生在8岁女孩阑尾里发现7颗葡萄籽",
@@ -787,20 +875,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 112967,
-      "num": 112967,
-      "word": "婆婆瞒着儿媳伙同儿子遗弃孙女",
-      "onboard_time": 1768020621,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109421,
       "num": 104279,
       "word": "女友证实讨债群群主就是王大陆",
       "onboard_time": 1768004538,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108657,
+      "num": 159083,
+      "word": "美国男子家中搜出大量人骨",
+      "onboard_time": 1768021161,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 108050,
@@ -817,6 +905,14 @@
       "onboard_time": 1768008500,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106535,
+      "num": 106535,
+      "word": "以闪亮之名",
+      "onboard_time": 1768020980,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 105222,
@@ -891,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99784,
+      "num": 95769,
+      "word": "原来早期的时代峰峻这么真诚",
+      "onboard_time": 1768021341,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98527,
       "num": 98527,
       "word": "醒来",
@@ -904,14 +1008,6 @@
       "word": "金钱豹不语只是一味地伸手",
       "onboard_time": 1768010719,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96643,
-      "num": 103972,
-      "word": "女子3天闪婚收20万彩礼拒同居",
-      "onboard_time": 1768020680,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -979,6 +1075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 88848,
+      "num": 95182,
+      "word": "性子急缩短寿命",
+      "onboard_time": 1768020082,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 88714,
       "num": 94849,
       "word": "孙颖莎2025年最受品牌关注运动员TOP1",
@@ -1011,12 +1115,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87314,
-      "num": 86520,
-      "word": "性子急缩短寿命",
-      "onboard_time": 1768020082,
-      "rank": 48,
-      "category": "健康医疗"
+      "raw_hot": 87002,
+      "num": 139485,
+      "word": "7岁女童镜片配反10个月后才发现",
+      "onboard_time": 1768018940,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86497,
@@ -1049,6 +1153,14 @@
       "onboard_time": 1767974299,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 81863,
+      "num": 118870,
+      "word": "杨瀚森被坐到头部",
+      "onboard_time": 1768022839,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 80863,
@@ -1251,6 +1363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 61620,
+      "num": 94816,
+      "word": "台军悄悄强化防斩首演训",
+      "onboard_time": 1768022000,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 59346,
       "num": 97854,
       "word": "猫的树拍的陈星旭",
@@ -1395,6 +1515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 43276,
+      "num": 104543,
+      "word": "吴速玲说女儿Grace不想进演艺圈",
+      "onboard_time": 1768022420,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43185,
       "num": 82682,
       "word": "肖战谍报上不封顶新预告片",
@@ -1449,6 +1577,14 @@
       "onboard_time": 1768001176,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 39979,
+      "num": 114610,
+      "word": "联合国尚未收到美国退群通知",
+      "onboard_time": 1768021580,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 38977,
@@ -1529,14 +1665,6 @@
       "onboard_time": 1767978258,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 29167,
-      "num": 153221,
-      "word": "美撤销对中国无人机所谓管制计划",
-      "onboard_time": 1768020381,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 28506,

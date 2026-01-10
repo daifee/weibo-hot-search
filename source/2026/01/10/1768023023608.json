@@ -1,0 +1,410 @@
+{
+  "runTime": 1768023023608,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 420613,
+        "num": 1067298,
+        "word": "流浪地球3",
+        "onboard_time": 1768011199,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 256988,
+        "num": 760611,
+        "word": "义乌产的哭哭马火了",
+        "onboard_time": 1768001777,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27726,
+        "num": 633487,
+        "word": "国有经济向新布局明显提速",
+        "onboard_time": 1768015460,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 256285,
+        "num": 256285,
+        "word": "TF家族荣耀之战演唱会官宣",
+        "onboard_time": 1768014560,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 214759,
+        "num": 214759,
+        "word": "美撤销对中国无人机所谓管制计划",
+        "onboard_time": 1768020381,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 299749,
+        "num": 212033,
+        "word": "保温杯里带方便面一年买房了",
+        "onboard_time": 1768017261,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236700,
+        "num": 207578,
+        "word": "刘耀文说在四代面前自己算老了",
+        "onboard_time": 1768020680,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202702,
+        "num": 202702,
+        "word": "女子上门喂猫两周赚7454元",
+        "onboard_time": 1768015701,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198594,
+        "num": 198594,
+        "word": "北约成员国开撕",
+        "onboard_time": 1768008139,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159187,
+        "num": 198102,
+        "word": "Dior上海快闪明星",
+        "onboard_time": 1768022420,
+        "rank": 9,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 533999,
+        "num": 197820,
+        "word": "黄磊孙莉小儿子颜值",
+        "onboard_time": 1768018459,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421367,
+        "num": 197062,
+        "word": "婆婆瞒着儿媳伙同儿子遗弃孙女",
+        "onboard_time": 1768020621,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348108,
+        "num": 196377,
+        "word": "王一博回应对未来组建家庭的规划",
+        "onboard_time": 1768021460,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251727,
+        "num": 195819,
+        "word": "infj为什么很E",
+        "onboard_time": 1768017980,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228997,
+        "num": 195006,
+        "word": "吴速玲曝儿子Joe是恋爱脑",
+        "onboard_time": 1768022360,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212302,
+        "num": 194261,
+        "word": "彭小苒凌晨朋友圈发长文",
+        "onboard_time": 1768014079,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194179,
+        "num": 194179,
+        "word": "四大电诈头目被押解回国舱内特写曝光",
+        "onboard_time": 1768017020,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189045,
+        "num": 189045,
+        "word": "TF四代跳爆闪团单曲串烧",
+        "onboard_time": 1768022539,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159104,
+        "num": 159104,
+        "word": "特朗普遭美石油巨头打脸",
+        "onboard_time": 1768017920,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108657,
+        "num": 159083,
+        "word": "美国男子家中搜出大量人骨",
+        "onboard_time": 1768021161,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1912912,
+        "num": 158842,
+        "word": "刘一诺 没义务替檀健次承受抹黑",
+        "onboard_time": 1768014739,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 596354,
+        "num": 158702,
+        "word": "金价",
+        "onboard_time": 1768017859,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 171320,
+        "num": 158525,
+        "word": "谁去把肖央王太利的网线拔了",
+        "onboard_time": 1768021820,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158434,
+        "num": 158434,
+        "word": "蒋毅结过婚了",
+        "onboard_time": 1768014500,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131433,
+        "num": 152087,
+        "word": "再不期末考就得糖尿病了",
+        "onboard_time": 1768022000,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150299,
+        "num": 150299,
+        "word": "程晓玥自曝二胎孕期食量惊人",
+        "onboard_time": 1768019181,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149765,
+        "num": 149765,
+        "word": "赵又廷张子枫新剧空降",
+        "onboard_time": 1768015402,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122181,
+        "num": 140659,
+        "word": "女子3天闪婚收20万彩礼拒同居",
+        "onboard_time": 1768020680,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140013,
+        "num": 140013,
+        "word": "王心凌唱了3分钟我蹦了180秒",
+        "onboard_time": 1768022000,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 87002,
+        "num": 139485,
+        "word": "7岁女童镜片配反10个月后才发现",
+        "onboard_time": 1768018940,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139030,
+        "num": 139030,
+        "word": "张凌赫少年感扑面而来了",
+        "onboard_time": 1768020920,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134153,
+        "num": 134153,
+        "word": "黄子韬一秒听出鹿晗的歌",
+        "onboard_time": 1768019600,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107027,
+        "num": 131446,
+        "word": "金价波动",
+        "onboard_time": 1768014920,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 129044,
+        "num": 129044,
+        "word": "卢昱晓轧戏出圈镜头",
+        "onboard_time": 1768018880,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81863,
+        "num": 118870,
+        "word": "杨瀚森被坐到头部",
+        "onboard_time": 1768022839,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116549,
+        "num": 116549,
+        "word": "千万网红出镜四年衣服都是自己做的",
+        "onboard_time": 1768014860,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 39979,
+        "num": 114610,
+        "word": "联合国尚未收到美国退群通知",
+        "onboard_time": 1768021580,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113450,
+        "num": 113450,
+        "word": "张峻豪 狼来了",
+        "onboard_time": 1768017621,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106535,
+        "num": 106535,
+        "word": "以闪亮之名",
+        "onboard_time": 1768020980,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 43276,
+        "num": 104543,
+        "word": "吴速玲说女儿Grace不想进演艺圈",
+        "onboard_time": 1768022420,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112457,
+        "num": 104385,
+        "word": "内娱终于有短剧把减肥讲透了",
+        "onboard_time": 1768019901,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72510,
+        "num": 103948,
+        "word": "孙颖莎王楚钦出战新加坡大满贯",
+        "onboard_time": 1768020440,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103922,
+        "num": 103922,
+        "word": "王一博像跟着妈妈买菜的我",
+        "onboard_time": 1768018459,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101092,
+        "num": 101092,
+        "word": "女明星不进组前三甲刘亦菲李沁卢昱晓",
+        "onboard_time": 1768016419,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95847,
+        "num": 95847,
+        "word": "讨厌的人千万别塌房",
+        "onboard_time": 1768017500,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99784,
+        "num": 95769,
+        "word": "原来早期的时代峰峻这么真诚",
+        "onboard_time": 1768021341,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97728,
+        "num": 95487,
+        "word": "荣耀之战",
+        "onboard_time": 1768015701,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88848,
+        "num": 95182,
+        "word": "性子急缩短寿命",
+        "onboard_time": 1768020082,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 83782,
+        "num": 94948,
+        "word": "在妻子孕期出轨博士后未给女子道歉",
+        "onboard_time": 1768002978,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61620,
+        "num": 94816,
+        "word": "台军悄悄强化防斩首演训",
+        "onboard_time": 1768022000,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平点赞公安英雄模范#"
+    }
+  }
+}
