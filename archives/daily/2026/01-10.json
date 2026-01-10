@@ -1,6 +1,6 @@
 {
   "startTime": 1767976730727,
-  "endTime": 1768002156429,
+  "endTime": 1768010822677,
   "band_list": [
     {
       "raw_hot": 853653,
@@ -11,12 +11,52 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 756977,
+      "num": 1121116,
+      "word": "义乌产的哭哭马火了",
+      "onboard_time": 1768001777,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 732768,
+      "num": 193570,
+      "word": "在妻子孕期出轨博士后未给女子道歉",
+      "onboard_time": 1768002978,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 514380,
       "num": 100759,
       "word": "当红演员未进组天数",
       "onboard_time": 1767965362,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 462481,
+      "num": 275134,
+      "word": "7岁女儿跳蚤市场淘到飞天茅台",
+      "onboard_time": 1768005439,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 462424,
+      "num": 190867,
+      "word": "赵樱子称和蒋毅试婚三天",
+      "onboard_time": 1768002618,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 451296,
+      "num": 821609,
+      "word": "多地大到暴雪",
+      "onboard_time": 1768006220,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 419905,
@@ -51,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 334996,
+      "num": 334996,
+      "word": "网传乘风2026将取消嘉宾年龄限制",
+      "onboard_time": 1768007600,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 300252,
       "num": 153484,
       "word": "父亲称儿子撞亡一家三口系天灾",
@@ -59,11 +107,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 285755,
+      "num": 188498,
+      "word": "宋威龙 姐就是女王",
+      "onboard_time": 1768008680,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 279967,
+      "num": 279967,
+      "word": "欧阳娣娣被怼刘宇宁马上站出来",
+      "onboard_time": 1768008022,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263973,
       "num": 146322,
       "word": "遭遇已婚博士后恋爱骗局女子被恐吓",
       "onboard_time": 1767972320,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234214,
+      "num": 186269,
+      "word": "云南61岁老妇杀害13岁男孩",
+      "onboard_time": 1768003159,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -83,6 +155,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208183,
+      "num": 185153,
+      "word": "娜扎贴脸于正和张慧雯演情侣",
+      "onboard_time": 1768001357,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 202362,
+      "num": 202362,
+      "word": "归鸾",
+      "onboard_time": 1768008800,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 195647,
+      "num": 195647,
+      "word": "北约成员国开撕",
+      "onboard_time": 1768008139,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 189865,
       "num": 569366,
       "word": "日本一医院遗失放射性物质",
@@ -97,6 +193,22 @@
       "onboard_time": 1767973520,
       "rank": 7,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 185826,
+      "num": 126521,
+      "word": "中方沉痛哀悼丹羽宇一郎",
+      "onboard_time": 1768005258,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 182441,
+      "num": 182441,
+      "word": "欧阳娣娣是怎么说服刘宇宁的",
+      "onboard_time": 1768004479,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 174223,
@@ -147,12 +259,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148441,
-      "num": 90845,
-      "word": "娜扎贴脸于正和张慧雯演情侣",
+      "raw_hot": 147590,
+      "num": 124701,
+      "word": "熬夜到什么程度可能会发生猝死",
       "onboard_time": 1768001357,
-      "rank": 11,
-      "category": "艺人"
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 144802,
@@ -171,12 +283,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 136398,
+      "num": 124559,
+      "word": "白鹿知道范丞丞要走的反应",
+      "onboard_time": 1768004660,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135513,
-      "num": 97944,
+      "num": 115725,
       "word": "王心凌穿了500条珠链在身上",
       "onboard_time": 1767966801,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134179,
+      "num": 134179,
+      "word": "归鸾官宣开机",
+      "onboard_time": 1768003639,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 132412,
@@ -195,6 +323,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127978,
+      "num": 127978,
+      "word": "流浪地球3 如没杀青大吉还在",
+      "onboard_time": 1768008259,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 122553,
+      "num": 122553,
+      "word": "乘风2026",
+      "onboard_time": 1768009459,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118509,
       "num": 102275,
       "word": "卢昱晓好美",
@@ -203,12 +347,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115814,
-      "num": 50437,
-      "word": "义乌产的哭哭马火了",
-      "onboard_time": 1768001777,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 117540,
+      "num": 117540,
+      "word": "一条金项链一夜涨15200元",
+      "onboard_time": 1768003337,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 109421,
+      "num": 104279,
+      "word": "女友证实讨债群群主就是王大陆",
+      "onboard_time": 1768004538,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 108050,
@@ -219,11 +371,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105222,
+      "num": 105222,
+      "word": "老祖宗的顶流审美诚不我欺",
+      "onboard_time": 1768009940,
+      "rank": 27,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 102396,
       "num": 102396,
       "word": "胖东来回应羽绒服进价303售价393",
       "onboard_time": 1767951142,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101631,
+      "num": 101631,
+      "word": "去宜家等闭店清仓的人都想一块了",
+      "onboard_time": 1768008500,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -235,12 +403,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 101449,
+      "num": 101449,
+      "word": "赵樱子问蒋毅和成毅谁好看",
+      "onboard_time": 1768010059,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99514,
-      "num": 56629,
+      "num": 97085,
       "word": "苹果煮水喝孩子越喝越长个儿",
       "onboard_time": 1767981196,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 98527,
+      "num": 98527,
+      "word": "醒来",
+      "onboard_time": 1767981256,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 96577,
@@ -259,12 +443,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 93835,
+      "num": 93835,
+      "word": "美国网友劝阻想回美国的网红",
+      "onboard_time": 1768004238,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 92788,
       "num": 97940,
       "word": "萧亚轩回应人生进入下半场",
       "onboard_time": 1767974361,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92402,
+      "num": 92402,
+      "word": "痛经其实并不是什么好事",
+      "onboard_time": 1768009940,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 87733,
@@ -275,12 +475,76 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84444,
+      "num": 84444,
+      "word": "身体真正需要的5种休息",
+      "onboard_time": 1768003819,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 82637,
       "num": 97916,
       "word": "彭小苒白天官宣晚上亮相",
       "onboard_time": 1767974299,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 80863,
+      "num": 80863,
+      "word": "美国宣称扣押奥利娜油轮",
+      "onboard_time": 1768005500,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 79044,
+      "num": 79044,
+      "word": "平遥古城景区已报案",
+      "onboard_time": 1768007600,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78418,
+      "num": 78418,
+      "word": "卢昱晓坚持用自己原声",
+      "onboard_time": 1768009400,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 78249,
+      "num": 193936,
+      "word": "陈熠无缘多哈冠军赛八强",
+      "onboard_time": 1768009760,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 78160,
+      "num": 78160,
+      "word": "医生在8岁女孩阑尾里发现7颗葡萄籽",
+      "onboard_time": 1768010480,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77717,
+      "num": 77717,
+      "word": "男子感染HPV未重视拖成癌",
+      "onboard_time": 1768002738,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 77597,
+      "num": 77597,
+      "word": "再见爱人5",
+      "onboard_time": 1768003279,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 77211,
@@ -299,6 +563,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 73962,
+      "num": 77598,
+      "word": "警察节",
+      "onboard_time": 1768003939,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73712,
+      "num": 73712,
+      "word": "球迷对解说的要求并不高",
+      "onboard_time": 1768009940,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73193,
       "num": 97906,
       "word": "向涵之空档483天了",
@@ -315,12 +595,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 71538,
-      "num": 54339,
-      "word": "熬夜到什么程度可能会发生猝死",
-      "onboard_time": 1768001357,
-      "rank": 23,
-      "category": "健康医疗"
+      "raw_hot": 71820,
+      "num": 71820,
+      "word": "72岁蔡正元将入狱",
+      "onboard_time": 1768003037,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 71524,
+      "num": 71524,
+      "word": "王腾回应红米贵了",
+      "onboard_time": 1768010360,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 70566,
@@ -499,14 +787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 45201,
-      "num": 44306,
-      "word": "醒来",
-      "onboard_time": 1767981256,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 44682,
       "num": 82912,
       "word": "邓紫棋破亚洲单巡纪录",
@@ -531,6 +811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 41753,
+      "num": 655647,
+      "word": "东数西算效率10倍速狂飙",
+      "onboard_time": 1767966261,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40622,
       "num": 40622,
       "word": "车崇健等到李施嬅下车后暴饮暴食",
@@ -553,6 +841,14 @@
       "onboard_time": 1768001176,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 39711,
+      "num": 101501,
+      "word": "金钱豹不语只是一味地伸手",
+      "onboard_time": 1768010719,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38977,
@@ -617,14 +913,6 @@
       "onboard_time": 1767978258,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 31178,
-      "num": 541472,
-      "word": "东数西算效率10倍速狂飙",
-      "onboard_time": 1767966261,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28342,

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768002156429,
+  "endTime": 1768010822677,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -923,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 756977,
+      "num": 1121116,
+      "word": "义乌产的哭哭马火了",
+      "onboard_time": 1768001777,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 755347,
       "num": 1120855,
       "word": "韩国总统李在明抵达北京",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1767606682,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 732768,
+      "num": 193570,
+      "word": "在妻子孕期出轨博士后未给女子道歉",
+      "onboard_time": 1768002978,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 731212,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767970941,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 486438,
-      "num": 1031680,
-      "word": "警惕日本军国主义在文体领域的渗透",
-      "onboard_time": 1767349221,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 486021,
-      "num": 270554,
-      "word": "王一博 花天酒地不如上天入地",
-      "onboard_time": 1767497183,
-      "rank": 20,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
