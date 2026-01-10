@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768055223413,
+  "endTime": 1768056253158,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -651,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 928980,
+      "num": 175325,
+      "word": "檀健次 知道我多坚强了吧",
+      "onboard_time": 1768054462,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 922373,
       "num": 1147579,
       "word": "父亲凌晨去世邻居听到鞭炮声后赶来",
@@ -812,7 +820,7 @@
     },
     {
       "raw_hot": 835368,
-      "num": 149034,
+      "num": 153970,
       "word": "颜安直播",
       "onboard_time": 1768054103,
       "rank": 24,
@@ -1795,6 +1803,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 570048,
+      "num": 223041,
+      "word": "赵丽颖 扛剧",
+      "onboard_time": 1768052604,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 565640,
       "num": 259984,
       "word": "刘宇宁终于默认了婆婆",
@@ -2001,14 +2017,6 @@
       "onboard_time": 1767861860,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 539948,
-      "num": 184880,
-      "word": "赵丽颖 扛剧",
-      "onboard_time": 1768052604,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 539918,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767260061,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 509492,
-      "num": 754487,
-      "word": "中国断供日本军事工业遭斩首",
-      "onboard_time": 1767868639,
-      "rank": 4,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
