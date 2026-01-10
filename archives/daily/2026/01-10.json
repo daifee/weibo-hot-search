@@ -1,10 +1,10 @@
 {
   "startTime": 1767976730727,
-  "endTime": 1768017674851,
+  "endTime": 1768020162624,
   "band_list": [
     {
       "raw_hot": 3020265,
-      "num": 138360,
+      "num": 139226,
       "word": "刘一诺 没义务替檀健次承受抹黑",
       "onboard_time": 1768014739,
       "rank": 20,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 495675,
+      "num": 1079308,
+      "word": "流浪地球3",
+      "onboard_time": 1768011199,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 465702,
       "num": 203628,
       "word": "彭小苒凌晨朋友圈发长文",
@@ -123,12 +131,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 357883,
-      "num": 797946,
-      "word": "流浪地球3",
-      "onboard_time": 1768011199,
-      "rank": 20,
-      "category": "电影"
+      "raw_hot": 355091,
+      "num": 242838,
+      "word": "金价",
+      "onboard_time": 1768017859,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 354869,
@@ -161,6 +169,22 @@
       "onboard_time": 1767974659,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 341610,
+      "num": 239331,
+      "word": "保温杯里带方便面一年买房了",
+      "onboard_time": 1768017261,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 337773,
+      "num": 269892,
+      "word": "赵又廷张子枫新剧空降",
+      "onboard_time": 1768015402,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 321689,
@@ -203,19 +227,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 269892,
-      "num": 269892,
-      "word": "赵又廷张子枫新剧空降",
-      "onboard_time": 1768015402,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 263973,
       "num": 146322,
       "word": "遭遇已婚博士后恋爱骗局女子被恐吓",
       "onboard_time": 1767972320,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259934,
+      "num": 226278,
+      "word": "女子上门喂猫两周赚7454元",
+      "onboard_time": 1768015701,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -225,6 +249,22 @@
       "onboard_time": 1768011919,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 258013,
+      "num": 153026,
+      "word": "黄磊孙莉小儿子颜值",
+      "onboard_time": 1768018459,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 250455,
+      "num": 250455,
+      "word": "四大电诈头目被押解回国舱内特写曝光",
+      "onboard_time": 1768017020,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247596,
@@ -249,14 +289,6 @@
       "onboard_time": 1768005258,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 226278,
-      "num": 226278,
-      "word": "女子上门喂猫两周赚7454元",
-      "onboard_time": 1768015701,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 222241,
@@ -313,6 +345,14 @@
       "onboard_time": 1768008800,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199662,
+      "num": 138683,
+      "word": "张峻豪 狼来了",
+      "onboard_time": 1768017621,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 189865,
@@ -411,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158117,
+      "num": 138047,
+      "word": "苏新皓快闪店人气",
+      "onboard_time": 1768019420,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156594,
       "num": 125122,
       "word": "官方通报小学校服有薄膜",
@@ -427,20 +475,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154229,
+      "num": 125974,
+      "word": "新加坡大满贯参赛名单公布",
+      "onboard_time": 1768019780,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 152711,
+      "num": 138002,
+      "word": "卢昱晓轧戏出圈镜头",
+      "onboard_time": 1768018880,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151351,
       "num": 120182,
       "word": "轧戏",
       "onboard_time": 1767957140,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 150514,
-      "num": 150514,
-      "word": "四大电诈头目被押解回国舱内特写曝光",
-      "onboard_time": 1768017020,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148850,
@@ -491,6 +547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137690,
+      "num": 137690,
+      "word": "特朗普遭美石油巨头打脸",
+      "onboard_time": 1768017920,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 136918,
       "num": 136918,
       "word": "网传陈少熙妈妈上浪姐",
@@ -531,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133065,
+      "num": 133065,
+      "word": "infj为什么很E",
+      "onboard_time": 1768017980,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132412,
       "num": 132412,
       "word": "猫的树真的很会拍",
@@ -563,11 +635,35 @@
       "category": "电影"
     },
     {
+      "raw_hot": 127982,
+      "num": 127982,
+      "word": "生下残疾女婴遭婆婆遗弃女子发声",
+      "onboard_time": 1768018998,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127585,
       "num": 127585,
       "word": "林依轮连夜换头像",
       "onboard_time": 1768016840,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 125578,
+      "num": 125578,
+      "word": "王一博像跟着妈妈买菜的我",
+      "onboard_time": 1768018459,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 124548,
+      "num": 124548,
+      "word": "女明星不进组前三甲刘亦菲李沁卢昱晓",
+      "onboard_time": 1768016419,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -579,20 +675,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122425,
+      "num": 122425,
+      "word": "赵丽颖这段发言",
+      "onboard_time": 1768018039,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121369,
       "num": 121369,
       "word": "医生在8岁女孩阑尾里发现7颗葡萄籽",
       "onboard_time": 1768010480,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121248,
-      "num": 121248,
-      "word": "女明星不进组前三甲刘亦菲李沁卢昱晓",
-      "onboard_time": 1768016419,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 118509,
@@ -611,20 +707,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 116185,
+      "num": 116185,
+      "word": "黄子韬一秒听出鹿晗的歌",
+      "onboard_time": 1768019600,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 113155,
+      "num": 113155,
+      "word": "蒲熠星连续两年加盟最强大脑",
+      "onboard_time": 1768019061,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109421,
       "num": 104279,
       "word": "女友证实讨债群群主就是王大陆",
       "onboard_time": 1768004538,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108645,
-      "num": 128749,
-      "word": "保温杯里带方便面一年买房了",
-      "onboard_time": 1768017261,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 108050,
@@ -651,6 +755,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 104586,
+      "num": 123252,
+      "word": "讨厌的人千万别塌房",
+      "onboard_time": 1768017500,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104388,
       "num": 104388,
       "word": "苹果煮水喝孩子越喝越长个儿",
@@ -665,6 +777,14 @@
       "onboard_time": 1768011739,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103255,
+      "num": 103255,
+      "word": "寻秦记他们都不看好你偏偏你最争气",
+      "onboard_time": 1768020082,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 102396,
@@ -707,12 +827,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 99941,
-      "num": 87386,
-      "word": "张峻豪 狼来了",
-      "onboard_time": 1768017621,
+      "raw_hot": 99316,
+      "num": 92879,
+      "word": "内娱终于有短剧把减肥讲透了",
+      "onboard_time": 1768019901,
       "rank": 43,
-      "category": "演出"
+      "category": "剧集"
     },
     {
       "raw_hot": 98527,
@@ -747,6 +867,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 95618,
+      "num": 113590,
+      "word": "这就是老实人上综艺吗",
+      "onboard_time": 1768018819,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95516,
       "num": 94893,
       "word": "张凌赫林允归鸾开机",
@@ -771,12 +899,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 88833,
-      "num": 88833,
+      "raw_hot": 92337,
+      "num": 92337,
       "word": "你以为的热饮vs实际上的热饮",
       "onboard_time": 1768016899,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 91645,
+      "num": 91645,
+      "word": "老婆跟人跑了还是跟你领导",
+      "onboard_time": 1768020139,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 88714,
@@ -809,6 +945,22 @@
       "onboard_time": 1768016479,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87314,
+      "num": 86520,
+      "word": "性子急缩短寿命",
+      "onboard_time": 1768020082,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 86554,
+      "num": 86554,
+      "word": "程晓玥自曝二胎孕期食量惊人",
+      "onboard_time": 1768019181,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 86497,
@@ -915,14 +1067,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 76458,
-      "num": 86674,
-      "word": "讨厌的人千万别塌房",
-      "onboard_time": 1768017500,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 75336,
       "num": 86312,
       "word": "遭训练基地主任猥亵女队员发声",
@@ -1017,6 +1161,14 @@
       "onboard_time": 1767956539,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 66190,
+      "num": 122497,
+      "word": "委内瑞拉与美国互派代表团",
+      "onboard_time": 1768018819,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 65533,
@@ -1203,6 +1355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40866,
+      "num": 140568,
+      "word": "特朗普提出1.5万亿美元军费",
+      "onboard_time": 1768019241,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 40622,
       "num": 40622,
       "word": "车崇健等到李施嬅下车后暴饮暴食",
@@ -1236,7 +1396,7 @@
     },
     {
       "raw_hot": 38264,
-      "num": 618784,
+      "num": 644269,
       "word": "国有经济向新布局明显提速",
       "onboard_time": 1768015460,
       "rank": 2,
@@ -1323,6 +1483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25950,
+      "num": 113336,
+      "word": "绿化带埋骨灰盒当地部门介入已移走",
+      "onboard_time": 1768019780,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25539,
       "num": 420808,
       "word": "27项重大水利工程开工",
@@ -1353,6 +1521,14 @@
       "onboard_time": 1767983054,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20311,
+      "num": 139849,
+      "word": "马克龙谴责新帝国主义矛头直指美国",
+      "onboard_time": 1768019840,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 16662,

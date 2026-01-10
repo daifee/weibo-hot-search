@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768017674851,
+  "endTime": 1768020162624,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 3020265,
-      "num": 138360,
+      "num": 139226,
       "word": "刘一诺 没义务替檀健次承受抹黑",
       "onboard_time": 1768014739,
       "rank": 20,
@@ -2379,6 +2379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 495675,
+      "num": 1079308,
+      "word": "流浪地球3",
+      "onboard_time": 1768011199,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 495094,
       "num": 419412,
       "word": "瑞士冻结马杜罗在瑞资产",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767668480,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 493980,
-      "num": 1093193,
-      "word": "长期戴眼镜导致的面部变化",
-      "onboard_time": 1767406949,
-      "rank": 32,
-      "category": "情感"
     }
   ],
   "hotgov_list": [
