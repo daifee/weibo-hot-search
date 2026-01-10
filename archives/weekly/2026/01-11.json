@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768062840322,
+  "endTime": 1768063701824,
   "band_list": [
     {
       "raw_hot": 2076111,
@@ -43,7 +43,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 672312,
+      "raw_hot": 686666,
       "num": 196656,
       "word": "王橹杰维权",
       "onboard_time": 1768058062,
@@ -59,12 +59,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 519276,
+      "num": 152144,
+      "word": "小澈",
+      "onboard_time": 1768062861,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 439558,
       "num": 814235,
       "word": "一起来看流星雨",
       "onboard_time": 1768055963,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 410699,
+      "num": 196246,
+      "word": "小澈回应抗艾滋药",
+      "onboard_time": 1768043901,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 407211,
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 407095,
-      "num": 214861,
+      "num": 240224,
       "word": "房东心软减租1万5反被上了一课",
       "onboard_time": 1768058482,
       "rank": 5,
@@ -91,14 +107,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 379843,
-      "num": 196246,
-      "word": "小澈回应抗艾滋药",
-      "onboard_time": 1768043901,
-      "rank": 24,
-      "category": "网红"
-    },
-    {
       "raw_hot": 336734,
       "num": 196620,
       "word": "死了么app",
@@ -107,20 +115,28 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 241975,
-      "num": 241975,
+      "raw_hot": 282575,
+      "num": 282575,
       "word": "运动员王某举报范某某情况基本属实",
       "onboard_time": 1768060342,
       "rank": 3,
       "category": "辟谣/通报,体育"
     },
     {
-      "raw_hot": 218171,
-      "num": 218171,
+      "raw_hot": 282139,
+      "num": 282139,
       "word": "云初令",
       "onboard_time": 1768055483,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215784,
+      "num": 196423,
+      "word": "13岁男孩拒绝老妇邀约偷铁皮被杀",
+      "onboard_time": 1768059803,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196883,
@@ -171,7 +187,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127754,
+      "raw_hot": 127853,
       "num": 196147,
       "word": "轧戏",
       "onboard_time": 1768046421,
@@ -193,14 +209,6 @@
       "onboard_time": 1768055003,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114906,
-      "num": 196423,
-      "word": "13岁男孩拒绝老妇邀约偷铁皮被杀",
-      "onboard_time": 1768059803,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101627,
@@ -227,15 +235,7 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 76825,
-      "num": 196134,
-      "word": "云南范某某被立案调查",
-      "onboard_time": 1768059202,
-      "rank": 28,
-      "category": "民生新闻,体育"
-    },
-    {
-      "raw_hot": 75062,
+      "raw_hot": 80408,
       "num": 196069,
       "word": "麦当劳回应汉堡尺寸像马卡龙",
       "onboard_time": 1768040540,
@@ -243,12 +243,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 71389,
+      "raw_hot": 78357,
+      "num": 195876,
+      "word": "宋威龙现偶",
+      "onboard_time": 1768053084,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 78220,
       "num": 196030,
       "word": "张凌赫壁纸",
       "onboard_time": 1768059083,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76825,
+      "num": 196134,
+      "word": "云南范某某被立案调查",
+      "onboard_time": 1768059202,
+      "rank": 28,
+      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 69976,
@@ -275,12 +291,12 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 68166,
-      "num": 195876,
-      "word": "宋威龙现偶",
-      "onboard_time": 1768053084,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 67844,
+      "num": 195786,
+      "word": "这些食物是隐藏的抗炎王者",
+      "onboard_time": 1768062441,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 67771,
@@ -331,12 +347,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 54625,
-      "num": 195786,
-      "word": "这些食物是隐藏的抗炎王者",
-      "onboard_time": 1768062441,
-      "rank": 38,
-      "category": "健康医疗"
+      "raw_hot": 54037,
+      "num": 151658,
+      "word": "收到了去世十年姐姐的微信",
+      "onboard_time": 1768047682,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 52711,
+      "num": 195470,
+      "word": "侯明昊回应被叫男妖妃",
+      "onboard_time": 1768056621,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 52287,
@@ -347,12 +371,12 @@
       "category": "辟谣/通报,体育"
     },
     {
-      "raw_hot": 52287,
-      "num": 195470,
-      "word": "侯明昊回应被叫男妖妃",
-      "onboard_time": 1768056621,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 52046,
+      "num": 195531,
+      "word": "白头发是身体释放的压力警告",
+      "onboard_time": 1768041201,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 51893,
@@ -361,14 +385,6 @@
       "onboard_time": 1768047502,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 50834,
-      "num": 195531,
-      "word": "白头发是身体释放的压力警告",
-      "onboard_time": 1768041201,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 47880,
@@ -393,6 +409,22 @@
       "onboard_time": 1768062680,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40198,
+      "num": 151338,
+      "word": "美国为啥一直在要格陵兰岛",
+      "onboard_time": 1768063639,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 39827,
+      "num": 151314,
+      "word": "鹅鸭杀打台球",
+      "onboard_time": 1768060221,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 21948,

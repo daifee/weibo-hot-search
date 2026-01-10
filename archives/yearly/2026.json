@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768062840322,
+  "endTime": 1768063701824,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1267,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 686666,
+      "num": 205272,
+      "word": "王橹杰维权",
+      "onboard_time": 1768058062,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 686111,
       "num": 1402334,
       "word": "江苏卫视 听爽了",
@@ -1321,14 +1329,6 @@
       "onboard_time": 1767445105,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 672312,
-      "num": 205272,
-      "word": "王橹杰维权",
-      "onboard_time": 1768058062,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 670620,
@@ -2299,6 +2299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 519276,
+      "num": 152144,
+      "word": "小澈",
+      "onboard_time": 1768062861,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 518643,
       "num": 675435,
       "word": "TVB颁奖典礼",
@@ -2392,14 +2400,6 @@
       "word": "李在明发文",
       "onboard_time": 1767760342,
       "rank": 33,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 511287,
-      "num": 455616,
-      "word": "委内瑞拉爆发大规模抗议活动",
-      "onboard_time": 1767705142,
-      "rank": 15,
       "category": "国际时政"
     }
   ],

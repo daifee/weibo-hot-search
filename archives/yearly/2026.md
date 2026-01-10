@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/11 00:34:00
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/11 00:48:21
 </p>
 </blockquote>
 <p>
@@ -963,6 +963,12 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E7%BB%B4%E6%9D%83%23" target="weibo">
+王橹杰维权（热度：686666）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%20%E5%90%AC%E7%88%BD%E4%BA%86%23" target="weibo">
 江苏卫视 听爽了（热度：686111）
 </a>
@@ -1001,12 +1007,6 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2392%E5%B9%B4%E5%A7%A8%E7%88%B6%E6%88%9012%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%AC%AC%E4%BA%8C%E4%B8%AA%E7%88%B8%E7%88%B8%23" target="weibo">
 92年姨父成12岁女孩第二个爸爸（热度：673702）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E7%BB%B4%E6%9D%83%23" target="weibo">
-王橹杰维权（热度：672312）
 </a>
 </li>
 
@@ -1737,6 +1737,12 @@ ICE枪杀（热度：522348）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%BE%88%23" target="weibo">
+小澈（热度：519276）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TVB%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC%23" target="weibo">
 TVB颁奖典礼（热度：518643）
 </a>
@@ -1805,12 +1811,6 @@ TVB颁奖典礼（热度：518643）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%8F%91%E6%96%87%23" target="weibo">
 李在明发文（热度：511362）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8%23" target="weibo">
-委内瑞拉爆发大规模抗议活动（热度：511287）
 </a>
 </li>
 
