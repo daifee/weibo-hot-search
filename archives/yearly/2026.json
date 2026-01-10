@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768034978163,
+  "endTime": 1768037343068,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 3020265,
-      "num": 158842,
+      "num": 201730,
       "word": "刘一诺 没义务替檀健次承受抹黑",
       "onboard_time": 1768014739,
       "rank": 20,
@@ -185,6 +185,14 @@
       "onboard_time": 1767670641,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1446750,
+      "num": 247981,
+      "word": "死了么app",
+      "onboard_time": 1768035741,
+      "rank": 10,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 1430098,
@@ -1371,6 +1379,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 630707,
+      "num": 1100913,
+      "word": "网购4J车厘子变成空文件",
+      "onboard_time": 1768033520,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 624910,
       "num": 1405221,
       "word": "不要回头",
@@ -1744,6 +1760,14 @@
       "word": "Sakee Asen",
       "onboard_time": 1767757341,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 555947,
+      "num": 242894,
+      "word": "郭宇欣dior活动",
+      "onboard_time": 1768034301,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -2316,7 +2340,7 @@
     },
     {
       "raw_hot": 506151,
-      "num": 203245,
+      "num": 238103,
       "word": "全网捞47码脚男艺人",
       "onboard_time": 1768031120,
       "rank": 10,
@@ -2376,30 +2400,6 @@
       "word": "哈尔滨零下20℃外国游客光腿穿短裤",
       "onboard_time": 1767595701,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 501262,
-      "num": 501262,
-      "word": "春晚彩排路透",
-      "onboard_time": 1767605002,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 500587,
-      "num": 500587,
-      "word": "王安宇电影分账票房第一",
-      "onboard_time": 1767520101,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 498292,
-      "num": 1079726,
-      "word": "央视曝光偷SIM卡套路",
-      "onboard_time": 1767593122,
-      "rank": 1,
       "category": "民生新闻"
     }
   ],
@@ -2490,6 +2490,9 @@
     },
     {
       "word": "#习近平点赞公安英雄模范#"
+    },
+    {
+      "word": "#重温总书记对人民警察的殷殷嘱托#"
     }
   ]
 }

@@ -1,14 +1,22 @@
 {
   "startTime": 1767976730727,
-  "endTime": 1768034978163,
+  "endTime": 1768037343068,
   "band_list": [
     {
       "raw_hot": 3020265,
-      "num": 158842,
+      "num": 201730,
       "word": "刘一诺 没义务替檀健次承受抹黑",
       "onboard_time": 1768014739,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1446750,
+      "num": 247981,
+      "word": "死了么app",
+      "onboard_time": 1768035741,
+      "rank": 10,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 1265298,
@@ -75,6 +83,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 630707,
+      "num": 1100913,
+      "word": "网购4J车厘子变成空文件",
+      "onboard_time": 1768033520,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 576348,
       "num": 212962,
       "word": "于正 没见过比娜扎好看的女明星",
@@ -96,6 +112,14 @@
       "word": "刘宇宁终于默认了婆婆",
       "onboard_time": 1768023140,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 555947,
+      "num": 242894,
+      "word": "郭宇欣dior活动",
+      "onboard_time": 1768034301,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -124,7 +148,7 @@
     },
     {
       "raw_hot": 506151,
-      "num": 203245,
+      "num": 238103,
       "word": "全网捞47码脚男艺人",
       "onboard_time": 1768031120,
       "rank": 10,
@@ -140,7 +164,7 @@
     },
     {
       "raw_hot": 468651,
-      "num": 197057,
+      "num": 222075,
       "word": "陈妍希周柯宇红秀预告",
       "onboard_time": 1768032620,
       "rank": 11,
@@ -300,15 +324,15 @@
     },
     {
       "raw_hot": 316700,
-      "num": 180695,
+      "num": 218521,
       "word": "钟欣潼回应眼线半永久质疑",
       "onboard_time": 1768031000,
       "rank": 16,
       "category": "艺人"
     },
     {
-      "raw_hot": 312858,
-      "num": 312858,
+      "raw_hot": 314665,
+      "num": 314665,
       "word": "巴厘岛拟要求外国游客晒存款",
       "onboard_time": 1768033341,
       "rank": 19,
@@ -337,6 +361,14 @@
       "onboard_time": 1768008022,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 290097,
+      "num": 290097,
+      "word": "起猛了看见赵丽颖咕楼了",
+      "onboard_time": 1768033823,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 289462,
@@ -379,6 +411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 275139,
+      "num": 230578,
+      "word": "独居APP死了么被吐槽晦气",
+      "onboard_time": 1768033701,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 268130,
       "num": 268130,
       "word": "不知道 我的身材很曼妙",
@@ -401,6 +441,14 @@
       "onboard_time": 1768017020,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263088,
+      "num": 263088,
+      "word": "优酷把白鹿的班续上了",
+      "onboard_time": 1768035500,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 259934,
@@ -443,14 +491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 237191,
-      "num": 298314,
-      "word": "网购4J车厘子变成空文件",
-      "onboard_time": 1768033520,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 236700,
       "num": 365181,
       "word": "刘耀文说在四代面前自己算老了",
@@ -484,7 +524,7 @@
     },
     {
       "raw_hot": 226052,
-      "num": 226052,
+      "num": 254969,
       "word": "辩积和两只小猫",
       "onboard_time": 1768028661,
       "rank": 34,
@@ -499,8 +539,16 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 219989,
+      "num": 219989,
+      "word": "赵丽颖招商",
+      "onboard_time": 1768036761,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214296,
-      "num": 120345,
+      "num": 191342,
       "word": "身体有炎症就会激发出各种毛病",
       "onboard_time": 1768032801,
       "rank": 30,
@@ -513,14 +561,6 @@
       "onboard_time": 1767963080,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 210466,
-      "num": 210466,
-      "word": "起猛了看见赵丽颖咕楼了",
-      "onboard_time": 1768033823,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 208183,
@@ -545,14 +585,6 @@
       "onboard_time": 1768012640,
       "rank": 15,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 205306,
-      "num": 119960,
-      "word": "郭宇欣dior活动",
-      "onboard_time": 1768034301,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 204514,
@@ -595,11 +627,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196921,
+      "num": 136750,
+      "word": "喜糖已经进化成这样了吗",
+      "onboard_time": 1768036340,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192567,
       "num": 150561,
       "word": "王一博看到小猫偷吃的反应",
       "onboard_time": 1768034001,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192545,
+      "num": 192545,
+      "word": "左奇函综艺细节控",
+      "onboard_time": 1768037181,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -804,7 +852,7 @@
     },
     {
       "raw_hot": 156373,
-      "num": 117862,
+      "num": 135576,
       "word": "长安二十四计发布律师声明",
       "onboard_time": 1768034540,
       "rank": 26,
@@ -817,6 +865,14 @@
       "onboard_time": 1767970760,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154284,
+      "num": 154284,
+      "word": "内娱一下子来了6个鬼怪",
+      "onboard_time": 1768036520,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 154229,
@@ -1067,6 +1123,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 129136,
+      "num": 129136,
+      "word": "张韶涵背后伤疤",
+      "onboard_time": 1768035862,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128692,
       "num": 124548,
       "word": "女明星不进组前三甲刘亦菲李沁卢昱晓",
@@ -1123,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125200,
+      "num": 118053,
+      "word": "于正 张慧雯我的新太太",
+      "onboard_time": 1768037240,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122553,
       "num": 122553,
       "word": "乘风2026",
@@ -1171,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119335,
+      "num": 119335,
+      "word": "骨相美和皮相美的区别",
+      "onboard_time": 1768035981,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 118509,
       "num": 102275,
       "word": "卢昱晓好美",
@@ -1211,14 +1291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116331,
-      "num": 116331,
-      "word": "独居APP死了么被吐槽晦气",
-      "onboard_time": 1768033701,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115689,
       "num": 129511,
       "word": "ADHD 炎症串联",
@@ -1241,6 +1313,30 @@
       "onboard_time": 1768026261,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114489,
+      "num": 114489,
+      "word": "你可以一直相信老祖宗的审美",
+      "onboard_time": 1768036940,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 114457,
+      "num": 204308,
+      "word": "你手机里装着几个体育APP",
+      "onboard_time": 1768036280,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114359,
+      "num": 139320,
+      "word": "苏翊鸣米兰冬奥会目标",
+      "onboard_time": 1768036700,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 113155,
@@ -1297,6 +1393,14 @@
       "onboard_time": 1768023921,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105931,
+      "num": 138687,
+      "word": "金价飙涨美元一跌再跌",
+      "onboard_time": 1768035801,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 105537,
@@ -1451,6 +1555,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99461,
+      "num": 99461,
+      "word": "刘一诺再次明确声明",
+      "onboard_time": 1768036280,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 99387,
+      "num": 102016,
+      "word": "时代峰峻练习生挑战SM练习生",
+      "onboard_time": 1768034361,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98527,
       "num": 98527,
       "word": "醒来",
@@ -1465,6 +1585,14 @@
       "onboard_time": 1768023501,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97572,
+      "num": 97572,
+      "word": "以为是长期不换 原来是长期钟爱",
+      "onboard_time": 1768034061,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 97388,
@@ -1555,6 +1683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93581,
+      "num": 93581,
+      "word": "死了么APP开发者回应名称争议",
+      "onboard_time": 1768035862,
+      "rank": 46,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 93452,
       "num": 93452,
       "word": "iG大名单好多人",
@@ -1617,14 +1753,6 @@
       "onboard_time": 1768023680,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 91012,
-      "num": 91012,
-      "word": "以为是长期不换 原来是长期钟爱",
-      "onboard_time": 1768034061,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 90692,
@@ -1707,12 +1835,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87075,
+      "num": 87075,
+      "word": "原来出去玩才是最好的休息",
+      "onboard_time": 1768036401,
+      "rank": 48,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 87008,
       "num": 87008,
       "word": "笔本国产手机等集体调价",
       "onboard_time": 1768029801,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 86655,
+      "num": 86655,
+      "word": "樊振东不再是输了不行赢了也不行",
+      "onboard_time": 1768036940,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 86550,
@@ -1979,14 +2123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 73604,
-      "num": 102016,
-      "word": "时代峰峻练习生挑战SM练习生",
-      "onboard_time": 1768034361,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 73436,
       "num": 73436,
       "word": "陈梦说范思琦逆转让自己绷不住了",
@@ -2099,6 +2235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63438,
+      "num": 138125,
+      "word": "张凌赫老公级别的代言人",
+      "onboard_time": 1768036220,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 61620,
       "num": 94816,
       "word": "台军悄悄强化防斩首演训",
@@ -2129,6 +2273,14 @@
       "onboard_time": 1767969922,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 57528,
+      "num": 137275,
+      "word": "南天门计划有多酷炫",
+      "onboard_time": 1768036881,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56965,
@@ -2435,6 +2587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34729,
+      "num": 101617,
+      "word": "双宋这张神图居然是章子怡拍的",
+      "onboard_time": 1768037181,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33935,
       "num": 50788,
       "word": "2026年人生体验清单",
@@ -2491,6 +2651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23594,
+      "num": 652371,
+      "word": "无人机拍到了现实版千里江山图",
+      "onboard_time": 1768037240,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23212,
       "num": 31447,
       "word": "美国宣称扣押一艘油轮",
@@ -2505,6 +2673,14 @@
       "onboard_time": 1767983054,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22502,
+      "num": 226202,
+      "word": "110是刻在骨子里的安全感",
+      "onboard_time": 1768021101,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21844,
@@ -2577,6 +2753,9 @@
     },
     {
       "word": "#习近平点赞公安英雄模范#"
+    },
+    {
+      "word": "#重温总书记对人民警察的殷殷嘱托#"
     }
   ]
 }
