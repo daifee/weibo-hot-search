@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768059706692,
+  "endTime": 1768062840322,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1323,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 672312,
+      "num": 205272,
+      "word": "王橹杰维权",
+      "onboard_time": 1768058062,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 670620,
       "num": 619493,
       "word": "3小孩坐跳楼机工作人员忘放安全杠",
@@ -1833,14 +1841,6 @@
       "onboard_time": 1768052604,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 569229,
-      "num": 205272,
-      "word": "王橹杰维权",
-      "onboard_time": 1768058062,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 565640,

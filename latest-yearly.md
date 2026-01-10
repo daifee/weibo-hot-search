@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/10 23:41:46
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/11 00:34:00
 </p>
 </blockquote>
 <p>
@@ -1005,6 +1005,12 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E7%BB%B4%E6%9D%83%23" target="weibo">
+王橹杰维权（热度：672312）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%233%E5%B0%8F%E5%AD%A9%E5%9D%90%E8%B7%B3%E6%A5%BC%E6%9C%BA%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%BF%98%E6%94%BE%E5%AE%89%E5%85%A8%E6%9D%A0%23" target="weibo">
 3小孩坐跳楼机工作人员忘放安全杠（热度：670620）
 </a>
@@ -1385,12 +1391,6 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E6%89%9B%E5%89%A7%23" target="weibo">
 赵丽颖 扛剧（热度：570048）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E7%BB%B4%E6%9D%83%23" target="weibo">
-王橹杰维权（热度：569229）
 </a>
 </li>
 
