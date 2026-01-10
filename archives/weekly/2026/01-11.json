@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768066930488,
+  "endTime": 1768070367078,
   "band_list": [
     {
       "raw_hot": 2076111,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185463,
+      "num": 185463,
+      "word": "轧戏 男二",
+      "onboard_time": 1768065019,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168918,
       "num": 196869,
       "word": "我不是药神原型陆勇重返印度",
@@ -235,14 +243,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 87179,
-      "num": 88694,
-      "word": "轧戏 男二",
-      "onboard_time": 1768065019,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 80408,
       "num": 196069,
       "word": "麦当劳回应汉堡尺寸像马卡龙",
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69057,
+      "num": 151338,
+      "word": "美国为啥一直在要格陵兰岛",
+      "onboard_time": 1768063639,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 68588,
       "num": 195957,
       "word": "死了么APP开发者为3名95后",
@@ -337,14 +345,6 @@
       "onboard_time": 1768057523,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 64189,
-      "num": 151338,
-      "word": "美国为啥一直在要格陵兰岛",
-      "onboard_time": 1768063639,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 63785,
@@ -475,7 +475,7 @@
       "category": "军事"
     },
     {
-      "raw_hot": 28286,
+      "raw_hot": 31352,
       "num": 75123,
       "word": "乙骨忧太订婚戒指出周边了",
       "onboard_time": 1768066157,
@@ -489,6 +489,14 @@
       "onboard_time": 1768052604,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 6900,
+      "num": 82093,
+      "word": "规范互联网应用程序个人信息收集使用",
+      "onboard_time": 1768035021,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

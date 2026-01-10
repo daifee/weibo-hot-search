@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768066930488,
+  "endTime": 1768070367078,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -9664,6 +9664,14 @@
       "word": "男二刚碰上女主的手就被甩开了",
       "onboard_time": 1767602121,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 185463,
+      "num": 185463,
+      "word": "轧戏 男二",
+      "onboard_time": 1768065019,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -22819,14 +22827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87179,
-      "num": 88694,
-      "word": "轧戏 男二",
-      "onboard_time": 1768065019,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 87178,
       "num": 96514,
       "word": "白宫附近披萨订单也爆了",
@@ -26115,6 +26115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69057,
+      "num": 151338,
+      "word": "美国为啥一直在要格陵兰岛",
+      "onboard_time": 1768063639,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 69023,
       "num": 119663,
       "word": "女子贴甲片时502胶水喷进眼睛",
@@ -26841,14 +26849,6 @@
       "onboard_time": 1767922279,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 64189,
-      "num": 151338,
-      "word": "美国为啥一直在要格陵兰岛",
-      "onboard_time": 1768063639,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 64181,
@@ -30755,6 +30755,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 31352,
+      "num": 75123,
+      "word": "乙骨忧太订婚戒指出周边了",
+      "onboard_time": 1768066157,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 31326,
       "num": 721272,
       "word": "憧憬十五五",
@@ -31081,14 +31089,6 @@
       "onboard_time": 1767805878,
       "rank": 49,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 28286,
-      "num": 75123,
-      "word": "乙骨忧太订婚戒指出周边了",
-      "onboard_time": 1768066157,
-      "rank": 46,
-      "category": "动漫"
     },
     {
       "raw_hot": 28243,
