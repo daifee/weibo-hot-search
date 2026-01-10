@@ -1,0 +1,410 @@
+{
+  "runTime": 1768073869005,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 150111,
+        "num": 150111,
+        "word": "运动员王某举报范某某情况基本属实",
+        "onboard_time": 1768060342,
+        "rank": 0,
+        "category": "辟谣/通报,体育"
+      },
+      {
+        "raw_hot": 77377,
+        "num": 77377,
+        "word": "轧戏 男二",
+        "onboard_time": 1768065019,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 7762,
+        "num": 70038,
+        "word": "规范互联网应用程序个人信息收集使用",
+        "onboard_time": 1768035021,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64267,
+        "num": 64267,
+        "word": "一起来看流星雨",
+        "onboard_time": 1768055963,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54740,
+        "num": 54740,
+        "word": "海底捞回应送黄金小马挂件",
+        "onboard_time": 1768054403,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55203,
+        "num": 51953,
+        "word": "房东心软减租1万5反被上了一课",
+        "onboard_time": 1768058482,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37765,
+        "num": 37765,
+        "word": "云初令",
+        "onboard_time": 1768055483,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37569,
+        "num": 37569,
+        "word": "美国为啥一直在要格陵兰岛",
+        "onboard_time": 1768063639,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35281,
+        "num": 37521,
+        "word": "我不是药神原型陆勇重返印度",
+        "onboard_time": 1768048101,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30219,
+        "num": 37496,
+        "word": "为什么干婚的中年人越来越多了",
+        "onboard_time": 1768055303,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146588,
+        "num": 37437,
+        "word": "檀健次 知道我多坚强了吧",
+        "onboard_time": 1768054462,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107669,
+        "num": 37415,
+        "word": "颜安长文回应",
+        "onboard_time": 1768053024,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80185,
+        "num": 37348,
+        "word": "死了么app",
+        "onboard_time": 1768035741,
+        "rank": 12,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 72400,
+        "num": 37297,
+        "word": "王橹杰哭了",
+        "onboard_time": 1768058062,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49535,
+        "num": 37217,
+        "word": "鹅妈妈仇人运",
+        "onboard_time": 1768054283,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 35812,
+        "num": 37216,
+        "word": "13岁男孩拒绝老妇邀约偷铁皮被杀",
+        "onboard_time": 1768059803,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30941,
+        "num": 37141,
+        "word": "收到了去世十年姐姐的微信",
+        "onboard_time": 1768047682,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29818,
+        "num": 37079,
+        "word": "差评率100%的自助餐有多差",
+        "onboard_time": 1768055603,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 50398,
+        "num": 37050,
+        "word": "王橹杰维权",
+        "onboard_time": 1768058062,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26846,
+        "num": 36983,
+        "word": "21岁和26岁差距真的很大",
+        "onboard_time": 1768042700,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 454320,
+        "num": 36957,
+        "word": "小澈",
+        "onboard_time": 1768062861,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 419746,
+        "num": 36875,
+        "word": "小澈 梅毒",
+        "onboard_time": 1768049061,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 218832,
+        "num": 36841,
+        "word": "小澈 抗艾滋药",
+        "onboard_time": 1768041321,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 161680,
+        "num": 36801,
+        "word": "小澈回应抗艾滋药",
+        "onboard_time": 1768043901,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 24690,
+        "num": 36759,
+        "word": "麦当劳回应汉堡尺寸像马卡龙",
+        "onboard_time": 1768040540,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93826,
+        "num": 36710,
+        "word": "小澈还在方圆家住半个月",
+        "onboard_time": 1768055902,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 36663,
+        "num": 36663,
+        "word": "轧戏",
+        "onboard_time": 1768046421,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28034,
+        "num": 36660,
+        "word": "颜安直播",
+        "onboard_time": 1768054103,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22748,
+        "num": 36648,
+        "word": "范某某索要运动员奖金基本属实",
+        "onboard_time": 1768059742,
+        "rank": 28,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 18801,
+        "num": 36646,
+        "word": "这些食物是隐藏的抗炎王者",
+        "onboard_time": 1768062441,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 24985,
+        "num": 36633,
+        "word": "小城大事",
+        "onboard_time": 1768045161,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24591,
+        "num": 36620,
+        "word": "白鹿看升旗哭到停不下来",
+        "onboard_time": 1768046720,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21962,
+        "num": 36618,
+        "word": "sakee文言文",
+        "onboard_time": 1768047682,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18229,
+        "num": 36608,
+        "word": "乙骨忧太订婚戒指出周边了",
+        "onboard_time": 1768066157,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 16905,
+        "num": 36594,
+        "word": "云南范某某被立案调查",
+        "onboard_time": 1768059202,
+        "rank": 34,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 19729,
+        "num": 36585,
+        "word": "奔跑吧天路篇",
+        "onboard_time": 1768064479,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19430,
+        "num": 36584,
+        "word": "轧戏女主男二cp感",
+        "onboard_time": 1768068616,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16676,
+        "num": 36574,
+        "word": "差评率100%的自助",
+        "onboard_time": 1768057523,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14477,
+        "num": 36561,
+        "word": "王曼昱3比4韩莹",
+        "onboard_time": 1768047502,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14180,
+        "num": 36550,
+        "word": "云南回应运动员实名举报",
+        "onboard_time": 1768058722,
+        "rank": 39,
+        "category": "辟谣/通报,体育"
+      },
+      {
+        "raw_hot": 18588,
+        "num": 36550,
+        "word": "小城大事热度",
+        "onboard_time": 1768046421,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17916,
+        "num": 36536,
+        "word": "宋威龙现偶",
+        "onboard_time": 1768053084,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16882,
+        "num": 36527,
+        "word": "张凌赫壁纸",
+        "onboard_time": 1768059083,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14861,
+        "num": 36522,
+        "word": "檀健次镜中万象vlog",
+        "onboard_time": 1768038020,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13978,
+        "num": 36511,
+        "word": "陈楚生深圳演唱会",
+        "onboard_time": 1768066577,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13894,
+        "num": 36503,
+        "word": "死了么APP开发者为3名95后",
+        "onboard_time": 1768037361,
+        "rank": 45,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 13875,
+        "num": 36490,
+        "word": "Breathe说RNG退出可惜了",
+        "onboard_time": 1768063939,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13044,
+        "num": 36488,
+        "word": "歼20裸眼3D硬核海报",
+        "onboard_time": 1768064419,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 12965,
+        "num": 36477,
+        "word": "iPhone里最容易忽略的效率神器",
+        "onboard_time": 1768059083,
+        "rank": 48,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 12914,
+        "num": 36466,
+        "word": "孙颖莎韩莹交手记录",
+        "onboard_time": 1768055003,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#创新创造催生了新质生产力#"
+    }
+  }
+}

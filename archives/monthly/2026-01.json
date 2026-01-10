@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768072984378,
+  "endTime": 1768073869005,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -31995,6 +31995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 19729,
+      "num": 38634,
+      "word": "奔跑吧天路篇",
+      "onboard_time": 1768064479,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 19682,
       "num": 173164,
       "word": "同学称在柬坠亡女导演不像会轻生的人",
@@ -32025,14 +32033,6 @@
       "onboard_time": 1767512421,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 19292,
-      "num": 38634,
-      "word": "奔跑吧天路篇",
-      "onboard_time": 1768064479,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 19019,

@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768072984378,
+  "endTime": 1768073869005,
   "band_list": [
     {
       "raw_hot": 2076111,
@@ -499,7 +499,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19292,
+      "raw_hot": 19729,
       "num": 38634,
       "word": "奔跑吧天路篇",
       "onboard_time": 1768064479,
@@ -515,7 +515,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 7263,
+      "raw_hot": 7762,
       "num": 115059,
       "word": "规范互联网应用程序个人信息收集使用",
       "onboard_time": 1768035021,
