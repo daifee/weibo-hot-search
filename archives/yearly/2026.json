@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768037343068,
+  "endTime": 1768038138441,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -73,6 +73,14 @@
       "onboard_time": 1767848122,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2188802,
+      "num": 247981,
+      "word": "死了么app",
+      "onboard_time": 1768035741,
+      "rank": 10,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 2133729,
@@ -185,14 +193,6 @@
       "onboard_time": 1767670641,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1446750,
-      "num": 247981,
-      "word": "死了么app",
-      "onboard_time": 1768035741,
-      "rank": 10,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 1430098,
@@ -1603,6 +1603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 580868,
+      "num": 242894,
+      "word": "郭宇欣dior活动",
+      "onboard_time": 1768034301,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 580217,
       "num": 1399643,
       "word": "江苏卫视大爆",
@@ -1760,14 +1768,6 @@
       "word": "Sakee Asen",
       "onboard_time": 1767757341,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 555947,
-      "num": 242894,
-      "word": "郭宇欣dior活动",
-      "onboard_time": 1768034301,
-      "rank": 22,
       "category": "艺人"
     },
     {

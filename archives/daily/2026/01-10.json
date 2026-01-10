@@ -1,6 +1,6 @@
 {
   "startTime": 1767976730727,
-  "endTime": 1768037343068,
+  "endTime": 1768038138441,
   "band_list": [
     {
       "raw_hot": 3020265,
@@ -11,7 +11,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1446750,
+      "raw_hot": 2188802,
       "num": 247981,
       "word": "死了么app",
       "onboard_time": 1768035741,
@@ -91,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 580868,
+      "num": 242894,
+      "word": "郭宇欣dior活动",
+      "onboard_time": 1768034301,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 576348,
       "num": 212962,
       "word": "于正 没见过比娜扎好看的女明星",
@@ -112,14 +120,6 @@
       "word": "刘宇宁终于默认了婆婆",
       "onboard_time": 1768023140,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 555947,
-      "num": 242894,
-      "word": "郭宇欣dior活动",
-      "onboard_time": 1768034301,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -299,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 333076,
+      "num": 271693,
+      "word": "喜糖已经进化成这样了吗",
+      "onboard_time": 1768036340,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 328908,
       "num": 139923,
       "word": "黄子韬住重庆胖到300斤",
@@ -395,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281214,
+      "num": 281214,
+      "word": "优酷把白鹿的班续上了",
+      "onboard_time": 1768035500,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 277780,
       "num": 779622,
       "word": "美撤销对中国无人机所谓管制计划",
@@ -412,7 +428,7 @@
     },
     {
       "raw_hot": 275139,
-      "num": 230578,
+      "num": 231875,
       "word": "独居APP死了么被吐槽晦气",
       "onboard_time": 1768033701,
       "rank": 49,
@@ -443,14 +459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 263088,
-      "num": 263088,
-      "word": "优酷把白鹿的班续上了",
-      "onboard_time": 1768035500,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 259934,
       "num": 264842,
       "word": "女子上门喂猫两周赚7454元",
@@ -464,6 +472,14 @@
       "word": "100年以内没有人能认出这是杨洋",
       "onboard_time": 1768011919,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 258006,
+      "num": 145948,
+      "word": "檀健次镜中万象vlog",
+      "onboard_time": 1768038020,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -563,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210381,
+      "num": 130660,
+      "word": "死了么APP开发者为3名95后",
+      "onboard_time": 1768037361,
+      "rank": 32,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 208183,
       "num": 185153,
       "word": "娜扎贴脸于正和张慧雯演情侣",
@@ -587,6 +611,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 205866,
+      "num": 205866,
+      "word": "你可以一直相信老祖宗的审美",
+      "onboard_time": 1768036940,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204514,
       "num": 268075,
       "word": "女子生理期逛胖东来腹痛被送布洛芬",
@@ -601,6 +633,14 @@
       "onboard_time": 1768016541,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203440,
+      "num": 237976,
+      "word": "孙颖莎在哪个榜都很权威",
+      "onboard_time": 1768037421,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 202362,
@@ -625,14 +665,6 @@
       "onboard_time": 1768029201,
       "rank": 13,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 196921,
-      "num": 136750,
-      "word": "喜糖已经进化成这样了吗",
-      "onboard_time": 1768036340,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 192567,
@@ -691,6 +723,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 183721,
+      "num": 183721,
+      "word": "于正 张慧雯我的新太太",
+      "onboard_time": 1768037240,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182441,
       "num": 182441,
       "word": "欧阳娣娣是怎么说服刘宇宁的",
@@ -712,6 +752,14 @@
       "word": "第一次见内娱男明星身姿很曼妙",
       "onboard_time": 1768033701,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 177093,
+      "num": 186576,
+      "word": "内娱一下子来了6个鬼怪",
+      "onboard_time": 1768036520,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -865,14 +913,6 @@
       "onboard_time": 1767970760,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 154284,
-      "num": 154284,
-      "word": "内娱一下子来了6个鬼怪",
-      "onboard_time": 1768036520,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 154229,
@@ -1187,14 +1227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125200,
-      "num": 118053,
-      "word": "于正 张慧雯我的新太太",
-      "onboard_time": 1768037240,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 122553,
       "num": 122553,
       "word": "乘风2026",
@@ -1227,12 +1259,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 121705,
+      "num": 187178,
+      "word": "樊振东不再是输了不行赢了也不行",
+      "onboard_time": 1768036940,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121369,
       "num": 121369,
       "word": "医生在8岁女孩阑尾里发现7颗葡萄籽",
       "onboard_time": 1768010480,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120863,
+      "num": 120863,
+      "word": "保剑锋26年在央视要拿全勤奖",
+      "onboard_time": 1768037421,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 119637,
@@ -1315,14 +1363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 114489,
-      "num": 114489,
-      "word": "你可以一直相信老祖宗的审美",
-      "onboard_time": 1768036940,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 114457,
       "num": 204308,
       "word": "你手机里装着几个体育APP",
@@ -1396,7 +1436,7 @@
     },
     {
       "raw_hot": 105931,
-      "num": 138687,
+      "num": 165564,
       "word": "金价飙涨美元一跌再跌",
       "onboard_time": 1768035801,
       "rank": 27,
@@ -1651,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95080,
+      "num": 105901,
+      "word": "李佳航跟李晟报备",
+      "onboard_time": 1768037721,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94311,
       "num": 100105,
       "word": "火箭vs开拓者",
@@ -1851,14 +1899,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 86655,
-      "num": 86655,
-      "word": "樊振东不再是输了不行赢了也不行",
-      "onboard_time": 1768036940,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 86550,
       "num": 86550,
       "word": "吴彤被自己邀请的嘉宾赶出去了",
@@ -1921,6 +1961,14 @@
       "onboard_time": 1768003819,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 84300,
+      "num": 104690,
+      "word": "双宋这张神图居然是章子怡拍的",
+      "onboard_time": 1768037181,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 83757,
@@ -2179,12 +2227,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 70273,
+      "num": 87981,
+      "word": "记者赞王曼昱采访细节见人品",
+      "onboard_time": 1768038080,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 69392,
+      "num": 163038,
+      "word": "张凌赫老公级别的代言人",
+      "onboard_time": 1768036220,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 69274,
       "num": 97897,
       "word": "檀健次不语只是一味打歌",
       "onboard_time": 1767951622,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 67286,
+      "num": 652371,
+      "word": "无人机拍到了现实版千里江山图",
+      "onboard_time": 1768037240,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67091,
@@ -2235,12 +2307,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 63438,
-      "num": 138125,
-      "word": "张凌赫老公级别的代言人",
-      "onboard_time": 1768036220,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 63951,
+      "num": 137275,
+      "word": "南天门计划有多酷炫",
+      "onboard_time": 1768036881,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61620,
@@ -2273,14 +2345,6 @@
       "onboard_time": 1767969922,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 57528,
-      "num": 137275,
-      "word": "南天门计划有多酷炫",
-      "onboard_time": 1768036881,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 56965,
@@ -2409,6 +2473,14 @@
       "onboard_time": 1767959960,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46768,
+      "num": 156816,
+      "word": "格陵兰岛各政党领导人发表联合声明",
+      "onboard_time": 1768037961,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 45873,
@@ -2587,14 +2659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34729,
-      "num": 101617,
-      "word": "双宋这张神图居然是章子怡拍的",
-      "onboard_time": 1768037181,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 33935,
       "num": 50788,
       "word": "2026年人生体验清单",
@@ -2648,14 +2712,6 @@
       "word": "这次是真的马倒成功了",
       "onboard_time": 1768015939,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23594,
-      "num": 652371,
-      "word": "无人机拍到了现实版千里江山图",
-      "onboard_time": 1768037240,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -2745,6 +2801,14 @@
       "onboard_time": 1768027883,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 6154,
+      "num": 654634,
+      "word": "警察节致敬平安守护者",
+      "onboard_time": 1768037600,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

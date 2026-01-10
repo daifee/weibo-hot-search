@@ -1,6 +1,6 @@
 {
   "startTime": 1767458049535,
-  "endTime": 1768037343068,
+  "endTime": 1768038138441,
   "band_list": [
     {
       "raw_hot": 8104554,
@@ -41,6 +41,14 @@
       "onboard_time": 1767848122,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2188802,
+      "num": 247981,
+      "word": "死了么app",
+      "onboard_time": 1768035741,
+      "rank": 10,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 2133729,
@@ -129,14 +137,6 @@
       "onboard_time": 1767670641,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1446750,
-      "num": 247981,
-      "word": "死了么app",
-      "onboard_time": 1768035741,
-      "rank": 10,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 1430098,
@@ -1259,6 +1259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 580868,
+      "num": 242894,
+      "word": "郭宇欣dior活动",
+      "onboard_time": 1768034301,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 579903,
       "num": 323875,
       "word": "美媒曝大批美军机突然飞往欧洲",
@@ -1400,14 +1408,6 @@
       "word": "Sakee Asen",
       "onboard_time": 1767757341,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 555947,
-      "num": 242894,
-      "word": "郭宇欣dior活动",
-      "onboard_time": 1768034301,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -3659,6 +3659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 333076,
+      "num": 271693,
+      "word": "喜糖已经进化成这样了吗",
+      "onboard_time": 1768036340,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 333035,
       "num": 401011,
       "word": "请1400万网红带货成交4单男子发声",
@@ -4515,6 +4523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281214,
+      "num": 281214,
+      "word": "优酷把白鹿的班续上了",
+      "onboard_time": 1768035500,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 281063,
       "num": 207292,
       "word": "男子偷500张刮刮乐隔一会刮一张",
@@ -4676,7 +4692,7 @@
     },
     {
       "raw_hot": 275139,
-      "num": 230578,
+      "num": 231875,
       "word": "独居APP死了么被吐槽晦气",
       "onboard_time": 1768033701,
       "rank": 49,
@@ -4979,14 +4995,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 263088,
-      "num": 263088,
-      "word": "优酷把白鹿的班续上了",
-      "onboard_time": 1768035500,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 262904,
       "num": 262904,
       "word": "特朗普说绝对需要格陵兰岛",
@@ -5097,6 +5105,14 @@
       "onboard_time": 1767606321,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258006,
+      "num": 145948,
+      "word": "檀健次镜中万象vlog",
+      "onboard_time": 1768038020,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 257994,
@@ -6227,6 +6243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210381,
+      "num": 130660,
+      "word": "死了么APP开发者为3名95后",
+      "onboard_time": 1768037361,
+      "rank": 32,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 210363,
       "num": 463331,
       "word": "男子8.2万买的卡皮巴拉到货后死亡",
@@ -6395,6 +6419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205866,
+      "num": 205866,
+      "word": "你可以一直相信老祖宗的审美",
+      "onboard_time": 1768036940,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 205844,
       "num": 180541,
       "word": "丝芭传媒被罚",
@@ -6481,6 +6513,14 @@
       "onboard_time": 1767885561,
       "rank": 6,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 203440,
+      "num": 237976,
+      "word": "孙颖莎在哪个榜都很权威",
+      "onboard_time": 1768037421,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 202986,
@@ -6801,14 +6841,6 @@
       "onboard_time": 1767586042,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 196921,
-      "num": 136750,
-      "word": "喜糖已经进化成这样了吗",
-      "onboard_time": 1768036340,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 196916,
@@ -7451,6 +7483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183721,
+      "num": 183721,
+      "word": "于正 张慧雯我的新太太",
+      "onboard_time": 1768037240,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183700,
       "num": 246133,
       "word": "NBA交易",
@@ -7721,6 +7761,14 @@
       "onboard_time": 1767669441,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 177093,
+      "num": 186576,
+      "word": "内娱一下子来了6个鬼怪",
+      "onboard_time": 1768036520,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 176812,
@@ -8945,14 +8993,6 @@
       "onboard_time": 1767569718,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 154284,
-      "num": 154284,
-      "word": "内娱一下子来了6个鬼怪",
-      "onboard_time": 1768036520,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 154229,
@@ -11395,14 +11435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125200,
-      "num": 118053,
-      "word": "于正 张慧雯我的新太太",
-      "onboard_time": 1768037240,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 125040,
       "num": 125040,
       "word": "宋祖儿和闺蜜跨年",
@@ -11835,6 +11867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 121705,
+      "num": 187178,
+      "word": "樊振东不再是输了不行赢了也不行",
+      "onboard_time": 1768036940,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121519,
       "num": 121519,
       "word": "王玉雯赵今麦早期合照",
@@ -11929,6 +11969,14 @@
       "onboard_time": 1767682221,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 120863,
+      "num": 120863,
+      "word": "保剑锋26年在央视要拿全勤奖",
+      "onboard_time": 1768037421,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 120860,
@@ -12633,14 +12681,6 @@
       "onboard_time": 1767672022,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 114489,
-      "num": 114489,
-      "word": "你可以一直相信老祖宗的审美",
-      "onboard_time": 1768036940,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 114457,
@@ -13540,7 +13580,7 @@
     },
     {
       "raw_hot": 105931,
-      "num": 138687,
+      "num": 165564,
       "word": "金价飙涨美元一跌再跌",
       "onboard_time": 1768035801,
       "rank": 27,
@@ -15579,6 +15619,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 95080,
+      "num": 105901,
+      "word": "李佳航跟李晟报备",
+      "onboard_time": 1768037721,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95066,
       "num": 95066,
       "word": "大餐后三天这样吃体重会下降",
@@ -17123,14 +17171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86655,
-      "num": 86655,
-      "word": "樊振东不再是输了不行赢了也不行",
-      "onboard_time": 1768036940,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 86598,
       "num": 86598,
       "word": "微信正常社交行为不会受到限制",
@@ -17585,6 +17625,14 @@
       "onboard_time": 1767579021,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84300,
+      "num": 104690,
+      "word": "双宋这张神图居然是章子怡拍的",
+      "onboard_time": 1768037181,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 84260,
@@ -19211,6 +19259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 70273,
+      "num": 87981,
+      "word": "记者赞王曼昱采访细节见人品",
+      "onboard_time": 1768038080,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70116,
       "num": 70116,
       "word": "易小雅给林允做的人生古装",
@@ -19265,6 +19321,14 @@
       "onboard_time": 1767951321,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 69392,
+      "num": 163038,
+      "word": "张凌赫老公级别的代言人",
+      "onboard_time": 1768036220,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 69316,
@@ -19417,6 +19481,14 @@
       "onboard_time": 1767750561,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 67286,
+      "num": 652371,
+      "word": "无人机拍到了现实版千里江山图",
+      "onboard_time": 1768037240,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67238,
@@ -19707,6 +19779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63951,
+      "num": 137275,
+      "word": "南天门计划有多酷炫",
+      "onboard_time": 1768036881,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63902,
       "num": 63902,
       "word": "孕妇想玩密室逃脱被老板拒绝并退款",
@@ -19737,14 +19817,6 @@
       "onboard_time": 1767970760,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63438,
-      "num": 138125,
-      "word": "张凌赫老公级别的代言人",
-      "onboard_time": 1768036220,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 63150,
@@ -20113,14 +20185,6 @@
       "onboard_time": 1767510142,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 57528,
-      "num": 137275,
-      "word": "南天门计划有多酷炫",
-      "onboard_time": 1768036881,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57484,
@@ -20665,6 +20729,14 @@
       "onboard_time": 1767764182,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46768,
+      "num": 156816,
+      "word": "格陵兰岛各政党领导人发表联合声明",
+      "onboard_time": 1768037961,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 46690,
@@ -21587,14 +21659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 34729,
-      "num": 101617,
-      "word": "双宋这张神图居然是章子怡拍的",
-      "onboard_time": 1768037181,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 34696,
       "num": 41278,
       "word": "车厘子自由但消费者开盲盒太闹心",
@@ -22459,14 +22523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23594,
-      "num": 652371,
-      "word": "无人机拍到了现实版千里江山图",
-      "onboard_time": 1768037240,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23342,
       "num": 642840,
       "word": "这组数据见证活力迸发的元旦假期",
@@ -23160,6 +23216,14 @@
       "word": "大母猪沟小母猪沟改名",
       "onboard_time": 1767837979,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6154,
+      "num": 654634,
+      "word": "警察节致敬平安守护者",
+      "onboard_time": 1768037600,
+      "rank": 2,
       "category": "民生新闻"
     }
   ],

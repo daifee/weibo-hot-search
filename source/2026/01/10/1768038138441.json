@@ -1,0 +1,410 @@
+{
+  "runTime": 1768038138441,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 594301,
+        "num": 1095088,
+        "word": "网购4J车厘子变成空文件",
+        "onboard_time": 1768033520,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382236,
+        "num": 802039,
+        "word": "老人离世前将27岁瘫痪养女送养老院",
+        "onboard_time": 1768025780,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6154,
+        "num": 654634,
+        "word": "警察节致敬平安守护者",
+        "onboard_time": 1768037600,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281214,
+        "num": 281214,
+        "word": "优酷把白鹿的班续上了",
+        "onboard_time": 1768035500,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271695,
+        "num": 271695,
+        "word": "巴厘岛拟要求外国游客晒存款",
+        "onboard_time": 1768033341,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 333076,
+        "num": 271693,
+        "word": "喜糖已经进化成这样了吗",
+        "onboard_time": 1768036340,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249574,
+        "num": 249574,
+        "word": "金唱片",
+        "onboard_time": 1768032441,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 239571,
+        "num": 239571,
+        "word": "起猛了看见赵丽颖咕楼了",
+        "onboard_time": 1768033823,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203440,
+        "num": 237976,
+        "word": "孙颖莎在哪个榜都很权威",
+        "onboard_time": 1768037421,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164210,
+        "num": 237360,
+        "word": "辩积和两只小猫",
+        "onboard_time": 1768028661,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 2188802,
+        "num": 234737,
+        "word": "死了么app",
+        "onboard_time": 1768035741,
+        "rank": 10,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 314106,
+        "num": 232366,
+        "word": "全网捞47码脚男艺人",
+        "onboard_time": 1768031120,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231875,
+        "num": 231875,
+        "word": "独居APP死了么被吐槽晦气",
+        "onboard_time": 1768033701,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229121,
+        "num": 229121,
+        "word": "小猫还原自己摔伤的过程",
+        "onboard_time": 1768025659,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210146,
+        "num": 210146,
+        "word": "赵丽颖招商",
+        "onboard_time": 1768036761,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205866,
+        "num": 205866,
+        "word": "你可以一直相信老祖宗的审美",
+        "onboard_time": 1768036940,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187809,
+        "num": 187809,
+        "word": "左奇函综艺细节控",
+        "onboard_time": 1768037181,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124226,
+        "num": 187606,
+        "word": "流浪地球3",
+        "onboard_time": 1768011199,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121705,
+        "num": 187178,
+        "word": "樊振东不再是输了不行赢了也不行",
+        "onboard_time": 1768036940,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177093,
+        "num": 186576,
+        "word": "内娱一下子来了6个鬼怪",
+        "onboard_time": 1768036520,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 599194,
+        "num": 185973,
+        "word": "刘一诺 没义务替檀健次承受抹黑",
+        "onboard_time": 1768014739,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191035,
+        "num": 185693,
+        "word": "身体有炎症就会激发出各种毛病",
+        "onboard_time": 1768032801,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 580868,
+        "num": 185063,
+        "word": "郭宇欣dior活动",
+        "onboard_time": 1768034301,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121280,
+        "num": 184383,
+        "word": "麦当劳汉堡 马卡龙",
+        "onboard_time": 1768024280,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 288460,
+        "num": 184212,
+        "word": "陈妍希周柯宇红秀预告",
+        "onboard_time": 1768032620,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183721,
+        "num": 183721,
+        "word": "于正 张慧雯我的新太太",
+        "onboard_time": 1768037240,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84488,
+        "num": 165564,
+        "word": "金价飙涨美元一跌再跌",
+        "onboard_time": 1768035801,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 69392,
+        "num": 163038,
+        "word": "张凌赫老公级别的代言人",
+        "onboard_time": 1768036220,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162853,
+        "num": 162853,
+        "word": "钟欣潼回应眼线半永久质疑",
+        "onboard_time": 1768031000,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46768,
+        "num": 156816,
+        "word": "格陵兰岛各政党领导人发表联合声明",
+        "onboard_time": 1768037961,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114806,
+        "num": 152599,
+        "word": "不知道 我的身材很曼妙",
+        "onboard_time": 1768024401,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 258006,
+        "num": 145948,
+        "word": "檀健次镜中万象vlog",
+        "onboard_time": 1768038020,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210381,
+        "num": 130660,
+        "word": "死了么APP开发者为3名95后",
+        "onboard_time": 1768037361,
+        "rank": 32,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 67286,
+        "num": 126497,
+        "word": "无人机拍到了现实版千里江山图",
+        "onboard_time": 1768037240,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122286,
+        "num": 122286,
+        "word": "长安二十四计发布律师声明",
+        "onboard_time": 1768034540,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120863,
+        "num": 120863,
+        "word": "保剑锋26年在央视要拿全勤奖",
+        "onboard_time": 1768037421,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114511,
+        "num": 114511,
+        "word": "骨相美和皮相美的区别",
+        "onboard_time": 1768035981,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 70806,
+        "num": 108107,
+        "word": "苏翊鸣米兰冬奥会目标",
+        "onboard_time": 1768036700,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95080,
+        "num": 105901,
+        "word": "李佳航跟李晟报备",
+        "onboard_time": 1768037721,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84300,
+        "num": 104690,
+        "word": "双宋这张神图居然是章子怡拍的",
+        "onboard_time": 1768037181,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104614,
+        "num": 104614,
+        "word": "婆婆瞒着儿媳伙同儿子遗弃孙女",
+        "onboard_time": 1768020621,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109659,
+        "num": 104153,
+        "word": "张韶涵背后伤疤",
+        "onboard_time": 1768035862,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103674,
+        "num": 103674,
+        "word": "说话含糊 言语霸凌",
+        "onboard_time": 1768028721,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92683,
+        "num": 92683,
+        "word": "刘一诺再次明确声明",
+        "onboard_time": 1768036280,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91052,
+        "num": 91052,
+        "word": "金唱片直播",
+        "onboard_time": 1768034061,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 78760,
+        "num": 90815,
+        "word": "以为是长期不换 原来是长期钟爱",
+        "onboard_time": 1768034061,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63951,
+        "num": 90699,
+        "word": "南天门计划有多酷炫",
+        "onboard_time": 1768036881,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90665,
+        "num": 90665,
+        "word": "时代峰峻练习生挑战SM练习生",
+        "onboard_time": 1768034361,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70273,
+        "num": 87981,
+        "word": "记者赞王曼昱采访细节见人品",
+        "onboard_time": 1768038080,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68869,
+        "num": 87839,
+        "word": "被患癌父亲送养老院女生入院吃不下饭",
+        "onboard_time": 1768031780,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记对人民警察的殷殷嘱托#"
+    }
+  }
+}
