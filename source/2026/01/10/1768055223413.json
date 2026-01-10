@@ -1,0 +1,410 @@
+{
+  "runTime": 1768055223413,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 523700,
+        "num": 1083792,
+        "word": "小城大事热度",
+        "onboard_time": 1768046421,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390702,
+        "num": 776665,
+        "word": "我不是药神原型陆勇重返印度",
+        "onboard_time": 1768048101,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35652,
+        "num": 629267,
+        "word": "中国大港动能澎湃",
+        "onboard_time": 1768052604,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 820085,
+        "num": 622494,
+        "word": "朱媛媛出场",
+        "onboard_time": 1768052243,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189472,
+        "num": 189472,
+        "word": "王曼昱3比4韩莹",
+        "onboard_time": 1768047502,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 539948,
+        "num": 184880,
+        "word": "赵丽颖 扛剧",
+        "onboard_time": 1768052604,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226232,
+        "num": 182604,
+        "word": "21岁和26岁差距真的很大",
+        "onboard_time": 1768042700,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198075,
+        "num": 182018,
+        "word": "新员工咬掉老员工鼻子被判刑",
+        "onboard_time": 1768046421,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176976,
+        "num": 176976,
+        "word": "警号030463重启",
+        "onboard_time": 1768052784,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140642,
+        "num": 176702,
+        "word": "马琳抬头望天",
+        "onboard_time": 1768053923,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6840252,
+        "num": 6840252,
+        "word": "颜安长文回应",
+        "onboard_time": 1768053024,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 654029,
+        "num": 175709,
+        "word": "死了么app",
+        "onboard_time": 1768035741,
+        "rank": 11,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 489404,
+        "num": 175325,
+        "word": "檀健次 知道我多坚强了吧",
+        "onboard_time": 1768054462,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290882,
+        "num": 175039,
+        "word": "白鹿看升旗哭到停不下来",
+        "onboard_time": 1768046720,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188947,
+        "num": 174547,
+        "word": "收到了去世十年姐姐的微信",
+        "onboard_time": 1768047682,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174399,
+        "num": 174399,
+        "word": "死了么APP开发者为3名95后",
+        "onboard_time": 1768037361,
+        "rank": 15,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 168899,
+        "num": 168899,
+        "word": "鹅妈妈仇人运",
+        "onboard_time": 1768054283,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 168758,
+        "num": 168758,
+        "word": "小城大事",
+        "onboard_time": 1768045161,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152465,
+        "num": 152465,
+        "word": "美国男子涉嫌出售人皮包",
+        "onboard_time": 1768052843,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 39185,
+        "num": 152263,
+        "word": "海底捞回应送黄金小马挂件",
+        "onboard_time": 1768054403,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2399870,
+        "num": 151223,
+        "word": "小澈 梅毒",
+        "onboard_time": 1768049061,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1254135,
+        "num": 150999,
+        "word": "小澈 抗艾滋药",
+        "onboard_time": 1768041321,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 165225,
+        "num": 150380,
+        "word": "宋威龙现偶",
+        "onboard_time": 1768053084,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129257,
+        "num": 149633,
+        "word": "麦当劳回应汉堡尺寸像马卡龙",
+        "onboard_time": 1768040540,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 835368,
+        "num": 149034,
+        "word": "颜安直播",
+        "onboard_time": 1768054103,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448977,
+        "num": 148499,
+        "word": "小澈回应抗艾滋药",
+        "onboard_time": 1768043901,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 124791,
+        "num": 147524,
+        "word": "骨相美和皮相美的区别",
+        "onboard_time": 1768035981,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 168035,
+        "num": 147067,
+        "word": "轧戏",
+        "onboard_time": 1768046421,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146629,
+        "num": 146629,
+        "word": "sakee文言文",
+        "onboard_time": 1768047682,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109043,
+        "num": 144768,
+        "word": "生苹果和熟苹果哪个更有营养",
+        "onboard_time": 1768052362,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143730,
+        "num": 143730,
+        "word": "檀健次镜中万象vlog",
+        "onboard_time": 1768038020,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134553,
+        "num": 134553,
+        "word": "韩红演唱会嘉宾许嵩",
+        "onboard_time": 1768054044,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121950,
+        "num": 121950,
+        "word": "农民养老金缴费上限上涨",
+        "onboard_time": 1768053444,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132050,
+        "num": 116327,
+        "word": "刘宇宁你们再喊我飞走了",
+        "onboard_time": 1768053983,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108961,
+        "num": 108961,
+        "word": "孙颖莎韩莹交手记录",
+        "onboard_time": 1768055003,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126562,
+        "num": 105957,
+        "word": "姚琛张子枫 姐弟救赎文学",
+        "onboard_time": 1768054943,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123405,
+        "num": 104733,
+        "word": "小澈刚参加过一日店长",
+        "onboard_time": 1768048161,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 100357,
+        "num": 100357,
+        "word": "喜糖已经进化成这样了吗",
+        "onboard_time": 1768036340,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100286,
+        "num": 100286,
+        "word": "白头发是身体释放的压力警告",
+        "onboard_time": 1768041201,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 29762,
+        "num": 98952,
+        "word": "狗不理英文商标是gobelieve",
+        "onboard_time": 1768054044,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125273,
+        "num": 98628,
+        "word": "欧阳娣娣说刘宇宁和姐姐一直帮自己",
+        "onboard_time": 1768053444,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121244,
+        "num": 98441,
+        "word": "小城大事收视",
+        "onboard_time": 1768047442,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98020,
+        "num": 98020,
+        "word": "国乒女单上半区失守",
+        "onboard_time": 1768053863,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96755,
+        "num": 96755,
+        "word": "原来明朝人真的把鞋子念成孩子",
+        "onboard_time": 1768054524,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 119132,
+        "num": 96675,
+        "word": "宋雨琦给张真源哭懵了",
+        "onboard_time": 1768050624,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118844,
+        "num": 96622,
+        "word": "女主参加别人婚礼新郎竟是未婚夫",
+        "onboard_time": 1768049122,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96492,
+        "num": 96492,
+        "word": "歼20歼16歼10C编队验证全新战术",
+        "onboard_time": 1768051704,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 110999,
+        "num": 95347,
+        "word": "蒲熠星巡演",
+        "onboard_time": 1768054224,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89573,
+        "num": 89573,
+        "word": "外协削球手对国乒的挑战",
+        "onboard_time": 1768052362,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88142,
+        "num": 88142,
+        "word": "蒸苹果蒸出了果冻",
+        "onboard_time": 1768042041,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平心中的人民卫士#"
+    }
+  }
+}

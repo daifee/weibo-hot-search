@@ -1,7 +1,15 @@
 {
   "startTime": 1767976730727,
-  "endTime": 1768052837065,
+  "endTime": 1768055223413,
   "band_list": [
+    {
+      "raw_hot": 6840252,
+      "num": 6840252,
+      "word": "颜安长文回应",
+      "onboard_time": 1768053024,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 3534737,
       "num": 183896,
@@ -80,6 +88,22 @@
       "word": "卢昱晓台词",
       "onboard_time": 1767971901,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 835368,
+      "num": 149034,
+      "word": "颜安直播",
+      "onboard_time": 1768054103,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 820085,
+      "num": 622494,
+      "word": "朱媛媛出场",
+      "onboard_time": 1768052243,
+      "rank": 5,
       "category": "剧集"
     },
     {
@@ -203,6 +227,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 539948,
+      "num": 184880,
+      "word": "赵丽颖 扛剧",
+      "onboard_time": 1768052604,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 524840,
       "num": 524840,
       "word": "21岁和26岁差距真的很大",
@@ -249,6 +281,14 @@
       "onboard_time": 1768017261,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 489404,
+      "num": 175325,
+      "word": "檀健次 知道我多坚强了吧",
+      "onboard_time": 1768054462,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 477493,
@@ -355,12 +395,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 394631,
-      "num": 331703,
-      "word": "朱媛媛出场",
-      "onboard_time": 1768052243,
-      "rank": 5,
-      "category": "剧集"
+      "raw_hot": 390702,
+      "num": 819195,
+      "word": "我不是药神原型陆勇重返印度",
+      "onboard_time": 1768048101,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 385093,
@@ -393,14 +433,6 @@
       "onboard_time": 1768021460,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 366889,
-      "num": 819195,
-      "word": "我不是药神原型陆勇重返印度",
-      "onboard_time": 1768048101,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 366742,
@@ -1059,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176976,
+      "num": 176976,
+      "word": "警号030463重启",
+      "onboard_time": 1768052784,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176469,
       "num": 176469,
       "word": "王一博探索新境2今日收官",
@@ -1115,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168899,
+      "num": 168899,
+      "word": "鹅妈妈仇人运",
+      "onboard_time": 1768054283,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 168829,
       "num": 126843,
       "word": "归鸾女二是黄羿",
@@ -1161,6 +1209,14 @@
       "onboard_time": 1768040181,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165225,
+      "num": 150380,
+      "word": "宋威龙现偶",
+      "onboard_time": 1768053084,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 162642,
@@ -1257,6 +1313,14 @@
       "onboard_time": 1768019780,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152465,
+      "num": 152465,
+      "word": "美国男子涉嫌出售人皮包",
+      "onboard_time": 1768052843,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 152188,
@@ -1371,6 +1435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140642,
+      "num": 176702,
+      "word": "马琳抬头望天",
+      "onboard_time": 1768053923,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140335,
       "num": 140335,
       "word": "侯明昊flag已经立上了",
@@ -1483,6 +1555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134553,
+      "num": 134553,
+      "word": "韩红演唱会嘉宾许嵩",
+      "onboard_time": 1768054044,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 134200,
       "num": 134200,
       "word": "杨博文击掌俯卧撑",
@@ -1529,6 +1609,14 @@
       "onboard_time": 1768017199,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132050,
+      "num": 116327,
+      "word": "刘宇宁你们再喊我飞走了",
+      "onboard_time": 1768053983,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 131842,
@@ -1675,6 +1763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126562,
+      "num": 105957,
+      "word": "姚琛张子枫 姐弟救赎文学",
+      "onboard_time": 1768054943,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126553,
       "num": 122562,
       "word": "酷云",
@@ -1699,12 +1795,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125372,
-      "num": 125372,
-      "word": "赵丽颖 扛剧",
-      "onboard_time": 1768052604,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 125273,
+      "num": 98628,
+      "word": "欧阳娣娣说刘宇宁和姐姐一直帮自己",
+      "onboard_time": 1768053444,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 125099,
@@ -1736,6 +1832,14 @@
       "word": "女子3天闪婚收20万彩礼拒同居",
       "onboard_time": 1768020680,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121950,
+      "num": 121950,
+      "word": "农民养老金缴费上限上涨",
+      "onboard_time": 1768053444,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -1939,6 +2043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 110999,
+      "num": 95347,
+      "word": "蒲熠星巡演",
+      "onboard_time": 1768054224,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 110440,
       "num": 125672,
       "word": "阳台上突然出现三个小狗头",
@@ -1961,6 +2073,22 @@
       "onboard_time": 1768004538,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109043,
+      "num": 147075,
+      "word": "生苹果和熟苹果哪个更有营养",
+      "onboard_time": 1768052362,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 108961,
+      "num": 108961,
+      "word": "孙颖莎韩莹交手记录",
+      "onboard_time": 1768055003,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 108408,
@@ -2139,14 +2267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 101386,
-      "num": 147075,
-      "word": "生苹果和熟苹果哪个更有营养",
-      "onboard_time": 1768052362,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 101048,
       "num": 115004,
       "word": "柚子每天坐过山车出门",
@@ -2243,6 +2363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98020,
+      "num": 98020,
+      "word": "国乒女单上半区失守",
+      "onboard_time": 1768053863,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97798,
       "num": 97798,
       "word": "黄子韬也刷到过橹穆吗",
@@ -2289,6 +2417,14 @@
       "onboard_time": 1768010719,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96755,
+      "num": 96755,
+      "word": "原来明朝人真的把鞋子念成孩子",
+      "onboard_time": 1768054524,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 96577,
@@ -3427,6 +3563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39185,
+      "num": 152263,
+      "word": "海底捞回应送黄金小马挂件",
+      "onboard_time": 1768054403,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38977,
       "num": 38977,
       "word": "冰块为什么能清理煎锅",
@@ -3467,20 +3611,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36875,
-      "num": 117473,
-      "word": "警号030463重启",
-      "onboard_time": 1768052784,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36485,
       "num": 169397,
       "word": "当地通报越野赛车手驾车失控致14伤",
       "onboard_time": 1768049122,
       "rank": 19,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 35652,
+      "num": 651108,
+      "word": "中国大港动能澎湃",
+      "onboard_time": 1768052604,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 35426,
@@ -3544,6 +3688,14 @@
       "word": "东北一豆角种子取名兔子翻白眼",
       "onboard_time": 1768040420,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29762,
+      "num": 98952,
+      "word": "狗不理英文商标是gobelieve",
+      "onboard_time": 1768054044,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -3665,14 +3817,6 @@
       "onboard_time": 1768046481,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 17586,
-      "num": 651108,
-      "word": "中国大港动能澎湃",
-      "onboard_time": 1768052604,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17585,

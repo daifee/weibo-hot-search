@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768052837065,
+  "endTime": 1768055223413,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -25,6 +25,14 @@
       "onboard_time": 1767923059,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6840252,
+      "num": 6840252,
+      "word": "颜安长文回应",
+      "onboard_time": 1768053024,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 3655537,
@@ -803,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 835368,
+      "num": 149034,
+      "word": "颜安直播",
+      "onboard_time": 1768054103,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 830063,
       "num": 605633,
       "word": "鹅鸭杀",
@@ -833,6 +849,14 @@
       "onboard_time": 1767963080,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 820085,
+      "num": 622494,
+      "word": "朱媛媛出场",
+      "onboard_time": 1768052243,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 814910,
@@ -1979,6 +2003,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 539948,
+      "num": 184880,
+      "word": "赵丽颖 扛剧",
+      "onboard_time": 1768052604,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 539918,
       "num": 1086386,
       "word": "山姆车厘子每斤狂降70元",
@@ -2369,38 +2401,6 @@
       "onboard_time": 1767868639,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 507982,
-      "num": 423198,
-      "word": "委内瑞拉石油储量世界第一",
-      "onboard_time": 1767503663,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 507430,
-      "num": 192619,
-      "word": "一家三口被撞身亡墓地飞出蝴蝶",
-      "onboard_time": 1767869121,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 507400,
-      "num": 858739,
-      "word": "特斯拉",
-      "onboard_time": 1767661640,
-      "rank": 4,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 507140,
-      "num": 424481,
-      "word": "原来摇粒绒真的是摇出来的",
-      "onboard_time": 1767657680,
-      "rank": 6,
-      "category": "休闲"
     }
   ],
   "hotgov_list": [
