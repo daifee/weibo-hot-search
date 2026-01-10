@@ -1,6 +1,6 @@
 {
   "startTime": 1767976730727,
-  "endTime": 1768056253158,
+  "endTime": 1768058907847,
   "band_list": [
     {
       "raw_hot": 6840252,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3534737,
-      "num": 183896,
+      "num": 196954,
       "word": "小澈 抗艾滋药",
       "onboard_time": 1768041321,
       "rank": 21,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 3457955,
-      "num": 184096,
+      "num": 197355,
       "word": "小澈 梅毒",
       "onboard_time": 1768049061,
       "rank": 23,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2202454,
-      "num": 183208,
+      "num": 194273,
       "word": "小澈回应抗艾滋药",
       "onboard_time": 1768043901,
       "rank": 21,
@@ -57,6 +57,14 @@
       "onboard_time": 1768031481,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1156408,
+      "num": 202082,
+      "word": "檀健次 知道我多坚强了吧",
+      "onboard_time": 1768054462,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1014473,
@@ -83,14 +91,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 928980,
-      "num": 175325,
-      "word": "檀健次 知道我多坚强了吧",
-      "onboard_time": 1768054462,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 853653,
       "num": 400617,
       "word": "卢昱晓台词",
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 835368,
-      "num": 153970,
+      "num": 195113,
       "word": "颜安直播",
       "onboard_time": 1768054103,
       "rank": 24,
@@ -113,6 +113,14 @@
       "onboard_time": 1768052243,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 766343,
+      "num": 195901,
+      "word": "小澈还在方圆家住半个月",
+      "onboard_time": 1768055902,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 756977,
@@ -219,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 567602,
+      "num": 1090816,
+      "word": "海底捞回应送黄金小马挂件",
+      "onboard_time": 1768054403,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 565640,
       "num": 259984,
       "word": "刘宇宁终于默认了婆婆",
@@ -241,6 +257,14 @@
       "onboard_time": 1768035981,
       "rank": 34,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 544339,
+      "num": 201269,
+      "word": "王橹杰哭了",
+      "onboard_time": 1768058062,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 524840,
@@ -348,7 +372,7 @@
     },
     {
       "raw_hot": 438215,
-      "num": 181531,
+      "num": 192110,
       "word": "sakee文言文",
       "onboard_time": 1768047682,
       "rank": 24,
@@ -435,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 373458,
+      "num": 193176,
+      "word": "王橹杰维权",
+      "onboard_time": 1768058062,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 366742,
       "num": 182833,
       "word": "小澈刚参加过一日店长",
@@ -449,6 +481,14 @@
       "onboard_time": 1768007600,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 356772,
+      "num": 199808,
+      "word": "差评率100%的自助餐有多差",
+      "onboard_time": 1768055603,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 354869,
@@ -684,7 +724,7 @@
     },
     {
       "raw_hot": 260235,
-      "num": 178580,
+      "num": 191970,
       "word": "檀健次镜中万象vlog",
       "onboard_time": 1768038020,
       "rank": 31,
@@ -763,14 +803,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 230856,
-      "num": 230856,
-      "word": "海底捞回应送黄金小马挂件",
-      "onboard_time": 1768054403,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 228635,
       "num": 634237,
       "word": "张子枫时隔四年回归剧圈",
@@ -809,6 +841,14 @@
       "onboard_time": 1767968061,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 220240,
+      "num": 220240,
+      "word": "孙颖莎韩莹交手记录",
+      "onboard_time": 1768055003,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 219989,
@@ -884,7 +924,7 @@
     },
     {
       "raw_hot": 205053,
-      "num": 168672,
+      "num": 192368,
       "word": "轧戏",
       "onboard_time": 1767957140,
       "rank": 23,
@@ -905,14 +945,6 @@
       "onboard_time": 1768016541,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203869,
-      "num": 152161,
-      "word": "小澈还在方圆家住半个月",
-      "onboard_time": 1768055902,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 203440,
@@ -948,7 +980,7 @@
     },
     {
       "raw_hot": 198756,
-      "num": 198756,
+      "num": 202963,
       "word": "警号030463重启",
       "onboard_time": 1768052784,
       "rank": 41,
@@ -980,7 +1012,7 @@
     },
     {
       "raw_hot": 193449,
-      "num": 161746,
+      "num": 210952,
       "word": "云初令",
       "onboard_time": 1768055483,
       "rank": 14,
@@ -1033,14 +1065,6 @@
       "onboard_time": 1768015880,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 186359,
-      "num": 149725,
-      "word": "差评率100%的自助餐有多差",
-      "onboard_time": 1768055603,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 185283,
@@ -1115,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178626,
+      "num": 192361,
+      "word": "鹅妈妈仇人运",
+      "onboard_time": 1768054283,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 177912,
       "num": 117998,
       "word": "第一次见内娱男明星身姿很曼妙",
@@ -1153,14 +1185,6 @@
       "onboard_time": 1768050143,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 174752,
-      "num": 174752,
-      "word": "孙颖莎韩莹交手记录",
-      "onboard_time": 1768055003,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 174223,
@@ -1203,20 +1227,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168899,
-      "num": 168899,
-      "word": "鹅妈妈仇人运",
-      "onboard_time": 1768054283,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 168829,
       "num": 126843,
       "word": "归鸾女二是黄羿",
       "onboard_time": 1768023200,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168523,
+      "num": 204050,
+      "word": "为什么干婚的中年人越来越多了",
+      "onboard_time": 1768055303,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167721,
@@ -1260,7 +1284,7 @@
     },
     {
       "raw_hot": 165225,
-      "num": 150380,
+      "num": 192125,
       "word": "宋威龙现偶",
       "onboard_time": 1768053084,
       "rank": 22,
@@ -1476,7 +1500,7 @@
     },
     {
       "raw_hot": 140642,
-      "num": 176702,
+      "num": 191991,
       "word": "马琳抬头望天",
       "onboard_time": 1768053923,
       "rank": 9,
@@ -1556,7 +1580,7 @@
     },
     {
       "raw_hot": 136837,
-      "num": 136837,
+      "num": 192015,
       "word": "姚琛张子枫 姐弟救赎文学",
       "onboard_time": 1768054943,
       "rank": 35,
@@ -1731,6 +1755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130521,
+      "num": 192254,
+      "word": "一起来看流星雨",
+      "onboard_time": 1768055963,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130418,
       "num": 130418,
       "word": "内娱终于有短剧把减肥讲透了",
@@ -1819,6 +1851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126628,
+      "num": 192215,
+      "word": "杨紫37套高定",
+      "onboard_time": 1768056503,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 126553,
       "num": 122562,
       "word": "酷云",
@@ -1859,16 +1899,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125010,
-      "num": 151165,
-      "word": "为什么干婚的中年人越来越多了",
-      "onboard_time": 1768055303,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122820,
-      "num": 131265,
+      "num": 197994,
       "word": "农民养老金缴费上限上涨",
       "onboard_time": 1768053444,
       "rank": 32,
@@ -1924,7 +1956,7 @@
     },
     {
       "raw_hot": 120970,
-      "num": 147075,
+      "num": 192310,
       "word": "生苹果和熟苹果哪个更有营养",
       "onboard_time": 1768052362,
       "rank": 35,
@@ -2068,11 +2100,19 @@
     },
     {
       "raw_hot": 114268,
-      "num": 173806,
+      "num": 192153,
       "word": "白头发是身体释放的压力警告",
       "onboard_time": 1768041201,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 114083,
+      "num": 192184,
+      "word": "侯明昊回应被叫男妖妃",
+      "onboard_time": 1768056621,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 113545,
@@ -2121,6 +2161,22 @@
       "onboard_time": 1768050503,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109954,
+      "num": 196304,
+      "word": "差评率100%的自助",
+      "onboard_time": 1768057523,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 109792,
+      "num": 192272,
+      "word": "TF家族花絮照",
+      "onboard_time": 1768057102,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 109712,
@@ -2217,14 +2273,6 @@
       "onboard_time": 1768025780,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 105349,
-      "num": 105349,
-      "word": "一起来看流星雨",
-      "onboard_time": 1768055963,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 105222,
@@ -2353,6 +2401,14 @@
       "onboard_time": 1768026501,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100381,
+      "num": 194779,
+      "word": "房东心软减租1万5反被上了一课",
+      "onboard_time": 1768058482,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100346,
@@ -3147,6 +3203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75115,
+      "num": 192066,
+      "word": "王者cp喜结连理",
+      "onboard_time": 1768058362,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 74544,
       "num": 97770,
       "word": "台独分子沈伯洋全网紧急删个人定位",
@@ -3227,6 +3291,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 71109,
+      "num": 191917,
+      "word": "不知道 我的尊严很曼妙",
+      "onboard_time": 1768056263,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 70778,
       "num": 70778,
       "word": "查理苏说入赘真是个好习俗",
@@ -3273,6 +3345,14 @@
       "onboard_time": 1768037240,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67221,
+      "num": 191904,
+      "word": "虎杖悠仁个人ED曲",
+      "onboard_time": 1768058122,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 67091,
@@ -3721,6 +3801,14 @@
       "onboard_time": 1768019780,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35008,
+      "num": 193527,
+      "word": "云南回应运动员实名举报",
+      "onboard_time": 1768058722,
+      "rank": 27,
+      "category": "辟谣/通报,体育"
     },
     {
       "raw_hot": 33935,
