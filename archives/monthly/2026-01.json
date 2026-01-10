@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768050479014,
+  "endTime": 1768052172240,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -51,6 +51,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 3393330,
+      "num": 177368,
+      "word": "小澈 梅毒",
+      "onboard_time": 1768049061,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 3020265,
       "num": 201730,
       "word": "刘一诺 没义务替檀健次承受抹黑",
@@ -65,14 +73,6 @@
       "onboard_time": 1767177980,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 2770824,
-      "num": 177368,
-      "word": "小澈 梅毒",
-      "onboard_time": 1768049061,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 2704539,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 2353704,
-      "num": 276984,
+      "num": 285680,
       "word": "死了么app",
       "onboard_time": 1768035741,
       "rank": 10,
@@ -4099,6 +4099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 364934,
+      "num": 571745,
+      "word": "我不是药神原型陆勇重返印度",
+      "onboard_time": 1768048101,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 364566,
       "num": 192152,
       "word": "檀健次立牌吓人案",
@@ -4561,6 +4569,14 @@
       "onboard_time": 1768015402,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 337664,
+      "num": 174123,
+      "word": "小澈刚参加过一日店长",
+      "onboard_time": 1768048161,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 337304,
@@ -5043,14 +5059,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 315743,
-      "num": 571745,
-      "word": "我不是药神原型陆勇重返印度",
-      "onboard_time": 1768048101,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 315437,
       "num": 1050470,
       "word": "雷军回应KOL事件",
@@ -5217,14 +5225,6 @@
       "onboard_time": 1767449605,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 307527,
-      "num": 174123,
-      "word": "小澈刚参加过一日店长",
-      "onboard_time": 1768048161,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 305898,
@@ -5713,6 +5713,14 @@
       "onboard_time": 1767494121,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 284790,
+      "num": 284790,
+      "word": "收到了去世十年姐姐的微信",
+      "onboard_time": 1768047682,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 284583,
@@ -7705,14 +7713,6 @@
       "onboard_time": 1767519922,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 217992,
-      "num": 217992,
-      "word": "收到了去世十年姐姐的微信",
-      "onboard_time": 1768047682,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 217985,
@@ -10195,6 +10195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175164,
+      "num": 142545,
+      "word": "曾轶可闷声办大事",
+      "onboard_time": 1768050143,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175119,
       "num": 587972,
       "word": "新年红包",
@@ -10451,6 +10459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170713,
+      "num": 289769,
+      "word": "圣枪哥晒21EDG合照",
+      "onboard_time": 1768051523,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 170561,
       "num": 170561,
       "word": "字节跳动实习生涨薪最高日薪500元",
@@ -10569,6 +10585,14 @@
       "onboard_time": 1767269062,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 169280,
+      "num": 169280,
+      "word": "张凯丽为1500斤柚子操碎了心",
+      "onboard_time": 1768051643,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 169131,
@@ -12059,6 +12083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 151719,
+      "num": 142541,
+      "word": "宋雨琦给张真源哭懵了",
+      "onboard_time": 1768050624,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151618,
       "num": 151618,
       "word": "聂曦光妈妈",
@@ -12947,6 +12979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 142329,
+      "num": 142329,
+      "word": "小城大事观众反馈",
+      "onboard_time": 1768051402,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142265,
       "num": 717318,
       "word": "陈都灵邓为或二搭黛色",
@@ -13217,6 +13257,14 @@
       "onboard_time": 1767192507,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140335,
+      "num": 140335,
+      "word": "侯明昊flag已经立上了",
+      "onboard_time": 1768051402,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 140311,
@@ -13819,6 +13867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135369,
+      "num": 142379,
+      "word": "韩莹半决赛将对阵朱雨玲",
+      "onboard_time": 1768052063,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135358,
       "num": 135358,
       "word": "12岁男孩烫伤未及时送医8天后死亡",
@@ -14057,14 +14113,6 @@
       "onboard_time": 1768028241,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 133926,
-      "num": 133926,
-      "word": "曾轶可闷声办大事",
-      "onboard_time": 1768050143,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 133860,
@@ -16515,6 +16563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 116354,
+      "num": 116354,
+      "word": "卢昱晓人生镜头",
+      "onboard_time": 1768050743,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116317,
       "num": 134470,
       "word": "鹅鸭杀服务器正在扩容",
@@ -16801,6 +16857,14 @@
       "onboard_time": 1767677960,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114369,
+      "num": 149226,
+      "word": "刘宇宁公路文男主",
+      "onboard_time": 1768051764,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 114359,
@@ -17361,6 +17425,14 @@
       "onboard_time": 1767434127,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110440,
+      "num": 125672,
+      "word": "阳台上突然出现三个小狗头",
+      "onboard_time": 1768050503,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 110354,
@@ -21203,6 +21275,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 92412,
+      "num": 141566,
+      "word": "歼20歼16歼10C编队验证全新战术",
+      "onboard_time": 1768051704,
+      "rank": 34,
+      "category": "军事"
+    },
+    {
       "raw_hot": 92411,
       "num": 106377,
       "word": "侯明昊娜扎你俩不对劲",
@@ -21585,6 +21665,14 @@
       "onboard_time": 1767850101,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 90533,
+      "num": 142750,
+      "word": "林诗栋痛苦捂住肩膀",
+      "onboard_time": 1768050743,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 90509,
@@ -23115,6 +23203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 83954,
+      "num": 116677,
+      "word": "村里专门给柚子铺了60多条铁轨",
+      "onboard_time": 1768051283,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83912,
       "num": 188877,
       "word": "杨幂随时随地唱茉莉雨",
@@ -23473,6 +23569,14 @@
       "onboard_time": 1767258440,
       "rank": 40,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 82216,
+      "num": 137380,
+      "word": "特朗普表示你们不干有人干",
+      "onboard_time": 1768050681,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 82096,
@@ -27923,6 +28027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50146,
+      "num": 154068,
+      "word": "法国推迟G7峰会只为避特朗普生日",
+      "onboard_time": 1768051523,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 50137,
       "num": 207439,
       "word": "汪苏泷2026第一踹",
@@ -28665,6 +28777,14 @@
       "onboard_time": 1767876022,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 44167,
+      "num": 616463,
+      "word": "致敬110致敬人民警察",
+      "onboard_time": 1768051764,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44120,
@@ -31569,6 +31689,14 @@
       "onboard_time": 1767785424,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15078,
+      "num": 136544,
+      "word": "4人为拍视频在斑马线跳舞被罚",
+      "onboard_time": 1768051643,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15077,

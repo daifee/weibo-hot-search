@@ -1,6 +1,6 @@
 {
   "startTime": 1767976730727,
-  "endTime": 1768050479014,
+  "endTime": 1768052172240,
   "band_list": [
     {
       "raw_hot": 3534737,
@@ -8,6 +8,14 @@
       "word": "小澈 抗艾滋药",
       "onboard_time": 1768041321,
       "rank": 21,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 3393330,
+      "num": 177368,
+      "word": "小澈 梅毒",
+      "onboard_time": 1768049061,
+      "rank": 23,
       "category": "网红"
     },
     {
@@ -19,16 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2770824,
-      "num": 177368,
-      "word": "小澈 梅毒",
-      "onboard_time": 1768049061,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
       "raw_hot": 2353704,
-      "num": 276984,
+      "num": 285680,
       "word": "死了么app",
       "onboard_time": 1768035741,
       "rank": 10,
@@ -387,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 364934,
+      "num": 571745,
+      "word": "我不是药神原型陆勇重返印度",
+      "onboard_time": 1768048101,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 362879,
       "num": 803965,
       "word": "网传乘风2026将取消嘉宾年龄限制",
@@ -435,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 337664,
+      "num": 174123,
+      "word": "小澈刚参加过一日店长",
+      "onboard_time": 1768048161,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 328908,
       "num": 139923,
       "word": "黄子韬住重庆胖到300斤",
@@ -475,28 +491,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 315743,
-      "num": 571745,
-      "word": "我不是药神原型陆勇重返印度",
-      "onboard_time": 1768048101,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 314665,
       "num": 314665,
       "word": "巴厘岛拟要求外国游客晒存款",
       "onboard_time": 1768033341,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 307527,
-      "num": 174123,
-      "word": "小澈刚参加过一日店长",
-      "onboard_time": 1768048161,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 300252,
@@ -553,6 +553,14 @@
       "onboard_time": 1768008680,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284790,
+      "num": 284790,
+      "word": "收到了去世十年姐姐的微信",
+      "onboard_time": 1768047682,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 281214,
@@ -761,14 +769,6 @@
       "onboard_time": 1768036761,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 217992,
-      "num": 217992,
-      "word": "收到了去世十年姐姐的微信",
-      "onboard_time": 1768047682,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 217525,
@@ -1043,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175164,
+      "num": 142545,
+      "word": "曾轶可闷声办大事",
+      "onboard_time": 1768050143,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174223,
       "num": 174223,
       "word": "古天乐被曝拍戏时每晚照美黑灯",
@@ -1067,12 +1075,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170713,
+      "num": 289769,
+      "word": "圣枪哥晒21EDG合照",
+      "onboard_time": 1768051523,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 169377,
       "num": 169377,
       "word": "孙颖莎王楚钦出战新加坡大满贯",
       "onboard_time": 1768020440,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169280,
+      "num": 169280,
+      "word": "张凯丽为1500斤柚子操碎了心",
+      "onboard_time": 1768051643,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 168829,
@@ -1219,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151719,
+      "num": 142541,
+      "word": "宋雨琦给张真源哭懵了",
+      "onboard_time": 1768050624,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150356,
       "num": 150356,
       "word": "王艺迪2比4朱雨玲",
@@ -1307,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142329,
+      "num": 142329,
+      "word": "小城大事观众反馈",
+      "onboard_time": 1768051402,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141977,
       "num": 141977,
       "word": "伊能静恩利母子大片",
@@ -1321,6 +1361,14 @@
       "onboard_time": 1768042881,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 140335,
+      "num": 140335,
+      "word": "侯明昊flag已经立上了",
+      "onboard_time": 1768051402,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 140013,
@@ -1403,6 +1451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 135369,
+      "num": 142379,
+      "word": "韩莹半决赛将对阵朱雨玲",
+      "onboard_time": 1768052063,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135334,
       "num": 171835,
       "word": "林诗栋晋级多哈冠军赛四强",
@@ -1441,14 +1497,6 @@
       "onboard_time": 1768028241,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 133926,
-      "num": 133926,
-      "word": "曾轶可闷声办大事",
-      "onboard_time": 1768050143,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 132915,
@@ -1763,6 +1811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116354,
+      "num": 116354,
+      "word": "卢昱晓人生镜头",
+      "onboard_time": 1768050743,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115689,
       "num": 129511,
       "word": "ADHD 炎症串联",
@@ -1801,6 +1857,14 @@
       "onboard_time": 1768036280,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114369,
+      "num": 149226,
+      "word": "刘宇宁公路文男主",
+      "onboard_time": 1768051764,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 114359,
@@ -1849,6 +1913,14 @@
       "onboard_time": 1768050261,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110440,
+      "num": 125672,
+      "word": "阳台上突然出现三个小狗头",
+      "onboard_time": 1768050503,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 109712,
@@ -2307,6 +2379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92412,
+      "num": 141566,
+      "word": "歼20歼16歼10C编队验证全新战术",
+      "onboard_time": 1768051704,
+      "rank": 34,
+      "category": "军事"
+    },
+    {
       "raw_hot": 92337,
       "num": 92337,
       "word": "你以为的热饮vs实际上的热饮",
@@ -2353,6 +2433,14 @@
       "onboard_time": 1768028122,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90533,
+      "num": 142750,
+      "word": "林诗栋痛苦捂住肩膀",
+      "onboard_time": 1768050743,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 89726,
@@ -2563,6 +2651,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 83954,
+      "num": 116677,
+      "word": "村里专门给柚子铺了60多条铁轨",
+      "onboard_time": 1768051283,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83757,
       "num": 83757,
       "word": "鹅鸭杀今天上午停服维护",
@@ -2609,6 +2705,14 @@
       "onboard_time": 1768041380,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 82216,
+      "num": 137380,
+      "word": "特朗普表示你们不干有人干",
+      "onboard_time": 1768050681,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 81895,
@@ -3139,6 +3243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50146,
+      "num": 154068,
+      "word": "法国推迟G7峰会只为避特朗普生日",
+      "onboard_time": 1768051523,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 49492,
       "num": 97791,
       "word": "教师拧断11岁男童胳膊事发地无监控",
@@ -3185,6 +3297,14 @@
       "onboard_time": 1767974481,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 44167,
+      "num": 616463,
+      "word": "致敬110致敬人民警察",
+      "onboard_time": 1768051764,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43276,
@@ -3529,6 +3649,14 @@
       "onboard_time": 1768023320,
       "rank": 19,
       "category": "舆论监督,体育"
+    },
+    {
+      "raw_hot": 15078,
+      "num": 136544,
+      "word": "4人为拍视频在斑马线跳舞被罚",
+      "onboard_time": 1768051643,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14457,
