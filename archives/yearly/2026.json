@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768049637713,
+  "endTime": 1768050479014,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 3534737,
-      "num": 164572,
+      "num": 176927,
       "word": "小澈 抗艾滋药",
       "onboard_time": 1768041321,
       "rank": 21,
@@ -67,6 +67,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 2770824,
+      "num": 177368,
+      "word": "小澈 梅毒",
+      "onboard_time": 1768049061,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2704539,
       "num": 203310,
       "word": "Asen回应Sakee",
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 2353704,
-      "num": 269176,
+      "num": 276984,
       "word": "死了么app",
       "onboard_time": 1768035741,
       "rank": 10,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 2202454,
-      "num": 163948,
+      "num": 176023,
       "word": "小澈回应抗艾滋药",
       "onboard_time": 1768043901,
       "rank": 21,
@@ -1236,7 +1244,7 @@
     },
     {
       "raw_hot": 674768,
-      "num": 826115,
+      "num": 848400,
       "word": "王曼昱3比4韩莹",
       "onboard_time": 1768047502,
       "rank": 1,
@@ -2009,14 +2017,6 @@
       "onboard_time": 1767951142,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 535482,
-      "num": 159606,
-      "word": "小澈 梅毒",
-      "onboard_time": 1768049061,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 535376,
