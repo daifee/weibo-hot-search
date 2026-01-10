@@ -1,0 +1,410 @@
+{
+  "runTime": 1768045154034,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 181706,
+        "num": 1029073,
+        "word": "网购4J车厘子变成空文件",
+        "onboard_time": 1768033520,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180980,
+        "num": 760069,
+        "word": "林诗栋4比2梁靖崑",
+        "onboard_time": 1768044201,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24751,
+        "num": 594260,
+        "word": "110是刻在骨子里的安全感",
+        "onboard_time": 1768021101,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 687397,
+        "num": 498112,
+        "word": "麦当劳回应汉堡尺寸像马卡龙",
+        "onboard_time": 1768040540,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163742,
+        "num": 421892,
+        "word": "老人离世前将27岁瘫痪养女送养老院",
+        "onboard_time": 1768025780,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384549,
+        "num": 384549,
+        "word": "喜糖已经进化成这样了吗",
+        "onboard_time": 1768036340,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219751,
+        "num": 219751,
+        "word": "蒸苹果蒸出了果冻",
+        "onboard_time": 1768042041,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 172475,
+        "num": 172475,
+        "word": "双眼皮手术后眼睛闭不上卫健委介入",
+        "onboard_time": 1768040481,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135334,
+        "num": 171835,
+        "word": "林诗栋晋级多哈冠军赛四强",
+        "onboard_time": 1768044501,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107160,
+        "num": 170148,
+        "word": "格陵兰岛各政党领导人发表联合声明",
+        "onboard_time": 1768037961,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1145786,
+        "num": 168665,
+        "word": "死了么app",
+        "onboard_time": 1768035741,
+        "rank": 10,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 385093,
+        "num": 167502,
+        "word": "黄子韬 EXO老祖训话TF曾孙",
+        "onboard_time": 1768043541,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224085,
+        "num": 166001,
+        "word": "死了么APP开发者为3名95后",
+        "onboard_time": 1768037361,
+        "rank": 12,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 165500,
+        "num": 165500,
+        "word": "马年春晚",
+        "onboard_time": 1768040181,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156284,
+        "num": 156284,
+        "word": "21岁和26岁差距真的很大",
+        "onboard_time": 1768042700,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147124,
+        "num": 147124,
+        "word": "张子枫时隔四年回归剧圈",
+        "onboard_time": 1768039462,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126760,
+        "num": 126760,
+        "word": "陈星旭顶着两个大红灯笼就来了",
+        "onboard_time": 1768044141,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110955,
+        "num": 110955,
+        "word": "鹅鸭杀玩家谎言文学",
+        "onboard_time": 1768042881,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106531,
+        "num": 106531,
+        "word": "刘一诺否认有剧要出",
+        "onboard_time": 1768043781,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100346,
+        "num": 100346,
+        "word": "我国已新增20万颗卫星申请",
+        "onboard_time": 1768044560,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3437365,
+        "num": 100340,
+        "word": "小澈 抗艾滋药",
+        "onboard_time": 1768041321,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 2202454,
+        "num": 100328,
+        "word": "小澈回应抗艾滋药",
+        "onboard_time": 1768043901,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 443447,
+        "num": 100328,
+        "word": "骨相美和皮相美的区别",
+        "onboard_time": 1768035981,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 100291,
+        "num": 100291,
+        "word": "石平窜访台湾被当面痛斥汉奸",
+        "onboard_time": 1768043661,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 357839,
+        "num": 100218,
+        "word": "刘一诺 没义务替檀健次承受抹黑",
+        "onboard_time": 1768014739,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252159,
+        "num": 99243,
+        "word": "于正 张慧雯我的新太太",
+        "onboard_time": 1768037240,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209512,
+        "num": 99062,
+        "word": "天选淡人美甲",
+        "onboard_time": 1768042581,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 164554,
+        "num": 98608,
+        "word": "何老师你没宠错人",
+        "onboard_time": 1768042041,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114268,
+        "num": 97812,
+        "word": "白头发是身体释放的压力警告",
+        "onboard_time": 1768041201,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 200513,
+        "num": 97567,
+        "word": "檀健次镜中万象vlog",
+        "onboard_time": 1768038020,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113545,
+        "num": 96993,
+        "word": "邵明明见面会一秒售罄",
+        "onboard_time": 1768044382,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96550,
+        "num": 96550,
+        "word": "身体有炎症就会激发出各种毛病",
+        "onboard_time": 1768032801,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108359,
+        "num": 93769,
+        "word": "郭宇欣dior活动",
+        "onboard_time": 1768034301,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107589,
+        "num": 92385,
+        "word": "侯明昊已争气争气再争气",
+        "onboard_time": 1768044681,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89343,
+        "num": 89343,
+        "word": "王者线条小狗小兵攻击是投喂食物",
+        "onboard_time": 1768044560,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104259,
+        "num": 89325,
+        "word": "李佳航跟李晟报备",
+        "onboard_time": 1768037721,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98249,
+        "num": 89248,
+        "word": "国产剧又多了一对豹豹猫猫",
+        "onboard_time": 1768043361,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88338,
+        "num": 88338,
+        "word": "吃麻辣烫把资金链吃断了",
+        "onboard_time": 1768044261,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88305,
+        "num": 88305,
+        "word": "过度独立 创伤反应",
+        "onboard_time": 1768044560,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32274,
+        "num": 87850,
+        "word": "16次高考后唐尚珺在直播间自救",
+        "onboard_time": 1768044862,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87447,
+        "num": 87447,
+        "word": "陈妍希周柯宇红秀预告",
+        "onboard_time": 1768032620,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 84548,
+        "num": 84548,
+        "word": "鹅鸭杀会议安全发言",
+        "onboard_time": 1768044981,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 25477,
+        "num": 83978,
+        "word": "当地给被送养老院截瘫女子申请低保",
+        "onboard_time": 1768043661,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83461,
+        "num": 83461,
+        "word": "云旗直播",
+        "onboard_time": 1768044382,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83297,
+        "num": 83297,
+        "word": "张子枫张新成新剧恨比爱长久",
+        "onboard_time": 1768038742,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82144,
+        "num": 82144,
+        "word": "梁靖崑vs林诗栋",
+        "onboard_time": 1768042641,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79063,
+        "num": 79063,
+        "word": "全网捞47码脚男艺人",
+        "onboard_time": 1768031120,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78435,
+        "num": 78435,
+        "word": "金唱片直播",
+        "onboard_time": 1768034061,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 77947,
+        "num": 77947,
+        "word": "鹅鸭杀呆呆鸟必胜秘籍",
+        "onboard_time": 1768045040,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 74414,
+        "num": 74414,
+        "word": "小猫还原自己摔伤的过程",
+        "onboard_time": 1768025659,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记对人民警察的殷殷嘱托#"
+    }
+  }
+}

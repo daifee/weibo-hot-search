@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768044294410,
+  "endTime": 1768045154034,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -89,6 +89,14 @@
       "onboard_time": 1768035741,
       "rank": 10,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 2202454,
+      "num": 100328,
+      "word": "小澈回应抗艾滋药",
+      "onboard_time": 1768043901,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 2133729,
@@ -643,14 +651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 909104,
-      "num": 93278,
-      "word": "小澈回应抗艾滋药",
-      "onboard_time": 1768043901,
-      "rank": 21,
-      "category": "网红"
-    },
-    {
       "raw_hot": 906835,
       "num": 906835,
       "word": "一点点十年前的价目表",
@@ -1195,20 +1195,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 687397,
+      "num": 1108999,
+      "word": "麦当劳回应汉堡尺寸像马卡龙",
+      "onboard_time": 1768040540,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 686111,
       "num": 1402334,
       "word": "江苏卫视 听爽了",
       "onboard_time": 1767193168,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 681248,
-      "num": 1108999,
-      "word": "麦当劳回应汉堡尺寸像马卡龙",
-      "onboard_time": 1768040540,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 679440,
