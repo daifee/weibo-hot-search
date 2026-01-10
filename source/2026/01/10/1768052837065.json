@@ -1,0 +1,410 @@
+{
+  "runTime": 1768052837065,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 671775,
+        "num": 1107484,
+        "word": "小城大事热度",
+        "onboard_time": 1768046421,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366889,
+        "num": 819195,
+        "word": "我不是药神原型陆勇重返印度",
+        "onboard_time": 1768048101,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17586,
+        "num": 651108,
+        "word": "中国大港动能澎湃",
+        "onboard_time": 1768052604,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 456509,
+        "num": 456509,
+        "word": "白鹿看升旗哭到停不下来",
+        "onboard_time": 1768046720,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332732,
+        "num": 332732,
+        "word": "王曼昱3比4韩莹",
+        "onboard_time": 1768047502,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394631,
+        "num": 331703,
+        "word": "朱媛媛出场",
+        "onboard_time": 1768052243,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343737,
+        "num": 329891,
+        "word": "21岁和26岁差距真的很大",
+        "onboard_time": 1768042700,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 284891,
+        "num": 325355,
+        "word": "新员工咬掉老员工鼻子被判刑",
+        "onboard_time": 1768046421,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152865,
+        "num": 324552,
+        "word": "圣枪哥晒21EDG合照",
+        "onboard_time": 1768051523,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137871,
+        "num": 319650,
+        "word": "王曼昱无缘多哈冠军赛四强",
+        "onboard_time": 1768049002,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 572736,
+        "num": 318651,
+        "word": "死了么app",
+        "onboard_time": 1768035741,
+        "rank": 10,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 316598,
+        "num": 316598,
+        "word": "收到了去世十年姐姐的微信",
+        "onboard_time": 1768047682,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295233,
+        "num": 295233,
+        "word": "小城大事收视",
+        "onboard_time": 1768047442,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187941,
+        "num": 187941,
+        "word": "女主参加别人婚礼新郎竟是未婚夫",
+        "onboard_time": 1768049122,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163848,
+        "num": 186575,
+        "word": "喜糖已经进化成这样了吗",
+        "onboard_time": 1768036340,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193026,
+        "num": 186263,
+        "word": "小城大事",
+        "onboard_time": 1768045161,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185283,
+        "num": 185283,
+        "word": "张凯丽为1500斤柚子操碎了心",
+        "onboard_time": 1768051643,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159251,
+        "num": 185198,
+        "word": "死了么APP开发者为3名95后",
+        "onboard_time": 1768037361,
+        "rank": 17,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 124841,
+        "num": 184729,
+        "word": "蒸苹果蒸出了果冻",
+        "onboard_time": 1768042041,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 109869,
+        "num": 184618,
+        "word": "刘宇宁公路文男主",
+        "onboard_time": 1768051764,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20821,
+        "num": 184221,
+        "word": "规范互联网应用程序个人信息收集使用",
+        "onboard_time": 1768035021,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3457955,
+        "num": 184096,
+        "word": "小澈 梅毒",
+        "onboard_time": 1768049061,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1688277,
+        "num": 183896,
+        "word": "小澈 抗艾滋药",
+        "onboard_time": 1768041321,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 132972,
+        "num": 183460,
+        "word": "骨相美和皮相美的区别",
+        "onboard_time": 1768035981,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 711865,
+        "num": 183208,
+        "word": "小澈回应抗艾滋药",
+        "onboard_time": 1768043901,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 366742,
+        "num": 182833,
+        "word": "小澈刚参加过一日店长",
+        "onboard_time": 1768048161,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 124483,
+        "num": 182749,
+        "word": "麦当劳回应汉堡尺寸像马卡龙",
+        "onboard_time": 1768040540,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61339,
+        "num": 182359,
+        "word": "法国推迟G7峰会只为避特朗普生日",
+        "onboard_time": 1768051523,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115105,
+        "num": 182136,
+        "word": "外协削球手对国乒的挑战",
+        "onboard_time": 1768052362,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105176,
+        "num": 181741,
+        "word": "歼20歼16歼10C编队验证全新战术",
+        "onboard_time": 1768051704,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 215523,
+        "num": 181531,
+        "word": "sakee文言文",
+        "onboard_time": 1768047682,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181406,
+        "num": 181406,
+        "word": "宋雨琦给张真源哭懵了",
+        "onboard_time": 1768050624,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117547,
+        "num": 174066,
+        "word": "韩莹半决赛将对阵朱雨玲",
+        "onboard_time": 1768052063,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170544,
+        "num": 170544,
+        "word": "檀健次镜中万象vlog",
+        "onboard_time": 1768038020,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152188,
+        "num": 152188,
+        "word": "小城大事观众反馈",
+        "onboard_time": 1768051402,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101386,
+        "num": 147075,
+        "word": "生苹果和熟苹果哪个更有营养",
+        "onboard_time": 1768052362,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143809,
+        "num": 143809,
+        "word": "曾轶可闷声办大事",
+        "onboard_time": 1768050143,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85610,
+        "num": 127700,
+        "word": "特朗普表示你们不干有人干",
+        "onboard_time": 1768050681,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125372,
+        "num": 125372,
+        "word": "赵丽颖 扛剧",
+        "onboard_time": 1768052604,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20614,
+        "num": 122467,
+        "word": "4人为拍视频在斑马线跳舞被罚",
+        "onboard_time": 1768051643,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121980,
+        "num": 121980,
+        "word": "黄子韬 EXO老祖训话TF曾孙",
+        "onboard_time": 1768043541,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36875,
+        "num": 117473,
+        "word": "警号030463重启",
+        "onboard_time": 1768052784,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124520,
+        "num": 117465,
+        "word": "轧戏",
+        "onboard_time": 1768046421,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116826,
+        "num": 116826,
+        "word": "刘一诺 没义务替檀健次承受抹黑",
+        "onboard_time": 1768014739,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97559,
+        "num": 97559,
+        "word": "白头发是身体释放的压力警告",
+        "onboard_time": 1768041201,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105038,
+        "num": 96160,
+        "word": "卢昱晓人生镜头",
+        "onboard_time": 1768050743,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93650,
+        "num": 93650,
+        "word": "阳台上突然出现三个小狗头",
+        "onboard_time": 1768050503,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93158,
+        "num": 93158,
+        "word": "侯明昊flag已经立上了",
+        "onboard_time": 1768051402,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62373,
+        "num": 92683,
+        "word": "致敬110致敬人民警察",
+        "onboard_time": 1768051764,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92592,
+        "num": 92592,
+        "word": "天选淡人美甲",
+        "onboard_time": 1768042581,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平心中的人民卫士#"
+    }
+  }
+}
