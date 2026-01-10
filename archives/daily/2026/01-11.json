@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768071120923,
+  "endTime": 1768072984378,
   "band_list": [
     {
       "raw_hot": 2076111,
@@ -491,7 +491,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 19225,
+      "raw_hot": 20114,
       "num": 38634,
       "word": "轧戏女主男二cp感",
       "onboard_time": 1768068616,
@@ -499,7 +499,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19087,
+      "raw_hot": 19292,
       "num": 38634,
       "word": "奔跑吧天路篇",
       "onboard_time": 1768064479,
@@ -507,7 +507,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 6900,
+      "raw_hot": 17134,
+      "num": 33394,
+      "word": "刘宇宁沙丘战士",
+      "onboard_time": 1768071855,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 7263,
       "num": 115059,
       "word": "规范互联网应用程序个人信息收集使用",
       "onboard_time": 1768035021,
