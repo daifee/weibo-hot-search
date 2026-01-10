@@ -1,6 +1,6 @@
 {
   "startTime": 1767976730727,
-  "endTime": 1768038138441,
+  "endTime": 1768040950928,
   "band_list": [
     {
       "raw_hot": 3020265,
@@ -11,7 +11,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2188802,
+      "raw_hot": 2353704,
       "num": 247981,
       "word": "死了么app",
       "onboard_time": 1768035741,
@@ -83,6 +83,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 660464,
+      "num": 271693,
+      "word": "喜糖已经进化成这样了吗",
+      "onboard_time": 1768036340,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 630707,
       "num": 1100913,
       "word": "网购4J车厘子变成空文件",
@@ -145,6 +153,14 @@
       "onboard_time": 1768011199,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 506694,
+      "num": 162873,
+      "word": "死了么APP开发者为3名95后",
+      "onboard_time": 1768037361,
+      "rank": 32,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 506151,
@@ -227,12 +243,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 420641,
+      "num": 1067302,
+      "word": "骨相美和皮相美的区别",
+      "onboard_time": 1768035981,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 419905,
       "num": 920857,
       "word": "内蒙古赤峰一小学校服里有薄膜",
       "onboard_time": 1767974002,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 378199,
+      "num": 378199,
+      "word": "樊振东不再是输了不行赢了也不行",
+      "onboard_time": 1768036940,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 375063,
+      "num": 183721,
+      "word": "于正 张慧雯我的新太太",
+      "onboard_time": 1768037240,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 374194,
@@ -299,14 +339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 333076,
-      "num": 271693,
-      "word": "喜糖已经进化成这样了吗",
-      "onboard_time": 1768036340,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 328908,
       "num": 139923,
       "word": "黄子韬住重庆胖到300斤",
@@ -345,6 +377,14 @@
       "onboard_time": 1768033341,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 312207,
+      "num": 186576,
+      "word": "内娱一下子来了6个鬼怪",
+      "onboard_time": 1768036520,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 300252,
@@ -459,6 +499,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 260427,
+      "num": 120411,
+      "word": "双宋这张神图居然是章子怡拍的",
+      "onboard_time": 1768037181,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 260235,
+      "num": 145948,
+      "word": "檀健次镜中万象vlog",
+      "onboard_time": 1768038020,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259934,
       "num": 264842,
       "word": "女子上门喂猫两周赚7454元",
@@ -472,14 +528,6 @@
       "word": "100年以内没有人能认出这是杨洋",
       "onboard_time": 1768011919,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 258006,
-      "num": 145948,
-      "word": "檀健次镜中万象vlog",
-      "onboard_time": 1768038020,
-      "rank": 31,
       "category": "艺人"
     },
     {
@@ -531,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226405,
+      "num": 119748,
+      "word": "李佳航跟李晟报备",
+      "onboard_time": 1768037721,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226300,
       "num": 295186,
       "word": "中方沉痛哀悼丹羽宇一郎",
@@ -579,14 +635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 210381,
-      "num": 130660,
-      "word": "死了么APP开发者为3名95后",
-      "onboard_time": 1768037361,
-      "rank": 32,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 208183,
       "num": 185153,
       "word": "娜扎贴脸于正和张慧雯演情侣",
@@ -600,6 +648,14 @@
       "word": "格陵兰岛居民说给钱也不加入美国",
       "onboard_time": 1768011439,
       "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 207555,
+      "num": 207555,
+      "word": "格陵兰岛各政党领导人发表联合声明",
+      "onboard_time": 1768037961,
+      "rank": 29,
       "category": "国际时政"
     },
     {
@@ -723,14 +779,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 183721,
-      "num": 183721,
-      "word": "于正 张慧雯我的新太太",
-      "onboard_time": 1768037240,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 182441,
       "num": 182441,
       "word": "欧阳娣娣是怎么说服刘宇宁的",
@@ -752,14 +800,6 @@
       "word": "第一次见内娱男明星身姿很曼妙",
       "onboard_time": 1768033701,
       "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 177093,
-      "num": 186576,
-      "word": "内娱一下子来了6个鬼怪",
-      "onboard_time": 1768036520,
-      "rank": 24,
       "category": "综艺"
     },
     {
@@ -883,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157112,
+      "num": 157112,
+      "word": "张子枫时隔四年回归剧圈",
+      "onboard_time": 1768039462,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156720,
       "num": 147878,
       "word": "寻秦记他们都不看好你偏偏你最争气",
@@ -929,6 +977,14 @@
       "onboard_time": 1767957140,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149599,
+      "num": 149599,
+      "word": "王艺迪2比4朱雨玲",
+      "onboard_time": 1768040540,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 148850,
@@ -1043,6 +1099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137712,
+      "num": 119286,
+      "word": "陈星旭王玉雯dior活动路透",
+      "onboard_time": 1768038620,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136918,
       "num": 136918,
       "word": "网传陈少熙妈妈上浪姐",
@@ -1107,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133922,
+      "num": 125838,
+      "word": "麦当劳回应汉堡尺寸像马卡龙",
+      "onboard_time": 1768040540,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132915,
       "num": 116477,
       "word": "陈星旭卢昱晓在谈一种很新的恋爱",
@@ -1147,6 +1219,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 131229,
+      "num": 131229,
+      "word": "鸵鸟主理人",
+      "onboard_time": 1768040540,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 130957,
+      "num": 130957,
+      "word": "陈星旭治好了我的重度字幕依赖症",
+      "onboard_time": 1768040481,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130418,
       "num": 130418,
       "word": "内娱终于有短剧把减肥讲透了",
@@ -1161,6 +1249,14 @@
       "onboard_time": 1768020319,
       "rank": 33,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 129305,
+      "num": 119052,
+      "word": "金唱片直播",
+      "onboard_time": 1768034061,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 129136,
@@ -1259,14 +1355,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 121705,
-      "num": 187178,
-      "word": "樊振东不再是输了不行赢了也不行",
-      "onboard_time": 1768036940,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 121369,
       "num": 121369,
       "word": "医生在8岁女孩阑尾里发现7颗葡萄籽",
@@ -1289,14 +1377,6 @@
       "onboard_time": 1768023140,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119335,
-      "num": 119335,
-      "word": "骨相美和皮相美的区别",
-      "onboard_time": 1768035981,
-      "rank": 34,
-      "category": "科学科普"
     },
     {
       "raw_hot": 118509,
@@ -1387,6 +1467,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112043,
+      "num": 112043,
+      "word": "48岁金喜善收到成龙来信叫出声",
+      "onboard_time": 1768040121,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 109712,
+      "num": 109712,
+      "word": "原来大老板砍价也只会说便宜点",
+      "onboard_time": 1768039882,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109421,
       "num": 104279,
       "word": "女友证实讨债群群主就是王大陆",
@@ -1449,14 +1545,6 @@
       "onboard_time": 1768025780,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 105225,
-      "num": 105225,
-      "word": "金唱片直播",
-      "onboard_time": 1768034061,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 105222,
@@ -1547,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100910,
+      "num": 119948,
+      "word": "死了么APP售价8元",
+      "onboard_time": 1768040060,
+      "rank": 28,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 100611,
       "num": 100611,
       "word": "宜家被年轻人抛弃了吗",
@@ -1569,6 +1665,14 @@
       "onboard_time": 1768025901,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100151,
+      "num": 113735,
+      "word": "林允杀死了公主复仇比赛",
+      "onboard_time": 1768038620,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 100010,
@@ -1617,6 +1721,14 @@
       "onboard_time": 1767981256,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97798,
+      "num": 97798,
+      "word": "黄子韬也刷到过橹穆吗",
+      "onboard_time": 1768038921,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 97630,
@@ -1691,12 +1803,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95080,
-      "num": 105901,
-      "word": "李佳航跟李晟报备",
-      "onboard_time": 1768037721,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 94329,
+      "num": 94329,
+      "word": "金唱片用AI评奖了",
+      "onboard_time": 1768040722,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 94311,
@@ -1705,6 +1817,14 @@
       "onboard_time": 1768020319,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94135,
+      "num": 94135,
+      "word": "张子枫张新成新剧恨比爱长久",
+      "onboard_time": 1768038742,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 93835,
@@ -1843,6 +1963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 88396,
+      "num": 88396,
+      "word": "荣筠书黑化",
+      "onboard_time": 1768038861,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88113,
       "num": 88113,
       "word": "金桔是中医眼里的天然逍遥丸",
@@ -1955,20 +2083,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84518,
+      "num": 84518,
+      "word": "马年春晚",
+      "onboard_time": 1768040181,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84444,
       "num": 84444,
       "word": "身体真正需要的5种休息",
       "onboard_time": 1768003819,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 84300,
-      "num": 104690,
-      "word": "双宋这张神图居然是章子怡拍的",
-      "onboard_time": 1768037181,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 83757,
@@ -2043,6 +2171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 80056,
+      "num": 89728,
+      "word": "这谁研究的八卦阵户型",
+      "onboard_time": 1768040722,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 80047,
       "num": 80047,
       "word": "爸爸回应奶奶想要孙子遗弃残疾孙女",
@@ -2097,6 +2233,14 @@
       "onboard_time": 1768009760,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78139,
+      "num": 78139,
+      "word": "王者28碎片首选皮肤",
+      "onboard_time": 1768039519,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 77717,
@@ -2185,6 +2329,14 @@
       "onboard_time": 1767968362,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72619,
+      "num": 112737,
+      "word": "湛江寸金动物园 地狱动物园",
+      "onboard_time": 1768039760,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71945,
@@ -2379,6 +2531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55842,
+      "num": 131062,
+      "word": "双眼皮手术后眼睛闭不上卫健委介入",
+      "onboard_time": 1768040481,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55234,
       "num": 97814,
       "word": "流浪地球3刘德华杀青",
@@ -2475,12 +2635,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 46768,
-      "num": 156816,
-      "word": "格陵兰岛各政党领导人发表联合声明",
-      "onboard_time": 1768037961,
-      "rank": 29,
-      "category": "国际时政"
+      "raw_hot": 46715,
+      "num": 109765,
+      "word": "女导演柬埔寨坠亡案2人被拘",
+      "onboard_time": 1768040481,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46114,
+      "num": 119449,
+      "word": "手机预装APP限制来了",
+      "onboard_time": 1768040782,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45873,
@@ -2675,6 +2843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 31111,
+      "num": 110712,
+      "word": "东北一豆角种子取名兔子翻白眼",
+      "onboard_time": 1768040420,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28506,
       "num": 87110,
       "word": "猫的树现偶的神",
@@ -2715,6 +2891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23485,
+      "num": 612407,
+      "word": "110是刻在骨子里的安全感",
+      "onboard_time": 1768021101,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23212,
       "num": 31447,
       "word": "美国宣称扣押一艘油轮",
@@ -2729,14 +2913,6 @@
       "onboard_time": 1767983054,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 22502,
-      "num": 226202,
-      "word": "110是刻在骨子里的安全感",
-      "onboard_time": 1768021101,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21844,

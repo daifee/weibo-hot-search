@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768038138441,
+  "endTime": 1768040950928,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -75,7 +75,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2188802,
+      "raw_hot": 2353704,
       "num": 247981,
       "word": "死了么app",
       "onboard_time": 1768035741,
@@ -1259,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 660464,
+      "num": 271693,
+      "word": "喜糖已经进化成这样了吗",
+      "onboard_time": 1768036340,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 656764,
       "num": 381792,
       "word": "41岁女子健身断奶茶一年换了张脸",
@@ -2323,6 +2331,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 506694,
+      "num": 162873,
+      "word": "死了么APP开发者为3名95后",
+      "onboard_time": 1768037361,
+      "rank": 32,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 506314,
       "num": 294688,
       "word": "原来轧戏轧的是韩剧啊",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767584181,
       "rank": 3,
       "category": "美食"
-    },
-    {
-      "raw_hot": 503346,
-      "num": 311507,
-      "word": "李施嬅车崇健he了",
-      "onboard_time": 1767849381,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 502102,
-      "num": 1069636,
-      "word": "哈尔滨零下20℃外国游客光腿穿短裤",
-      "onboard_time": 1767595701,
-      "rank": 34,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

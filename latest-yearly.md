@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/10 17:42:18
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/10 18:29:10
 </p>
 </blockquote>
 <p>
@@ -70,7 +70,7 @@ Asen回应Sakee（热度：2704539）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%BB%E4%BA%86%E4%B9%88app%23" target="weibo">
-死了么app（热度：2188802）
+死了么app（热度：2353704）
 </a>
 </li>
 
@@ -957,6 +957,12 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%96%9C%E7%B3%96%E5%B7%B2%E7%BB%8F%E8%BF%9B%E5%8C%96%E6%88%90%E8%BF%99%E6%A0%B7%E4%BA%86%E5%90%97%23" target="weibo">
+喜糖已经进化成这样了吗（热度：660464）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2341%E5%B2%81%E5%A5%B3%E5%AD%90%E5%81%A5%E8%BA%AB%E6%96%AD%E5%A5%B6%E8%8C%B6%E4%B8%80%E5%B9%B4%E6%8D%A2%E4%BA%86%E5%BC%A0%E8%84%B8%23" target="weibo">
 41岁女子健身断奶茶一年换了张脸（热度：656764）
 </a>
@@ -1755,6 +1761,12 @@ TVB颁奖典礼（热度：518643）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%BB%E4%BA%86%E4%B9%88APP%E5%BC%80%E5%8F%91%E8%80%85%E4%B8%BA3%E5%90%8D95%E5%90%8E%23" target="weibo">
+死了么APP开发者为3名95后（热度：506694）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BD%A7%E6%88%8F%E8%BD%A7%E7%9A%84%E6%98%AF%E9%9F%A9%E5%89%A7%E5%95%8A%23" target="weibo">
 原来轧戏轧的是韩剧啊（热度：506314）
 </a>
@@ -1799,18 +1811,6 @@ TVB颁奖典礼（热度：518643）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BA%BB%E8%BE%A3%E7%83%AB%E9%87%8C%E9%9D%A2%E5%85%A8%E6%98%AF%E8%B1%86%23" target="weibo">
 麻辣烫里面全是豆（热度：503974）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%96%BD%E5%AC%85%E8%BD%A6%E5%B4%87%E5%81%A5he%E4%BA%86%23" target="weibo">
-李施嬅车崇健he了（热度：503346）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E9%9B%B6%E4%B8%8B20%E2%84%83%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%85%89%E8%85%BF%E7%A9%BF%E7%9F%AD%E8%A3%A4%23" target="weibo">
-哈尔滨零下20℃外国游客光腿穿短裤（热度：502102）
 </a>
 </li>
 
