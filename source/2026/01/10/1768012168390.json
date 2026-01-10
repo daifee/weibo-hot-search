@@ -1,0 +1,410 @@
+{
+  "runTime": 1768012168390,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 617528,
+        "num": 1098804,
+        "word": "义乌产的哭哭马火了",
+        "onboard_time": 1768001777,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362879,
+        "num": 803965,
+        "word": "网传乘风2026将取消嘉宾年龄限制",
+        "onboard_time": 1768007600,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34061,
+        "num": 619099,
+        "word": "东数西算效率10倍速狂飙",
+        "onboard_time": 1767966261,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357882,
+        "num": 357882,
+        "word": "多地大到暴雪",
+        "onboard_time": 1768006220,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296053,
+        "num": 296053,
+        "word": "北约成员国开撕",
+        "onboard_time": 1768008139,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 367254,
+        "num": 295837,
+        "word": "7岁女儿跳蚤市场淘到飞天茅台",
+        "onboard_time": 1768005439,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295310,
+        "num": 295310,
+        "word": "欧阳娣娣被怼刘宇宁马上站出来",
+        "onboard_time": 1768008022,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226300,
+        "num": 295186,
+        "word": "中方沉痛哀悼丹羽宇一郎",
+        "onboard_time": 1768005258,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69172,
+        "num": 291000,
+        "word": "陈熠无缘多哈冠军赛八强",
+        "onboard_time": 1768009760,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63054,
+        "num": 289206,
+        "word": "格陵兰岛居民说给钱也不加入美国",
+        "onboard_time": 1768011439,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 947140,
+        "num": 286346,
+        "word": "范丞丞爸爸75岁状态",
+        "onboard_time": 1768010838,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525117,
+        "num": 283229,
+        "word": "在妻子孕期出轨博士后未给女子道歉",
+        "onboard_time": 1768002978,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379231,
+        "num": 280134,
+        "word": "赵樱子称和蒋毅试婚三天",
+        "onboard_time": 1768002618,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279958,
+        "num": 279958,
+        "word": "宋威龙 姐就是女王",
+        "onboard_time": 1768008680,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182196,
+        "num": 182196,
+        "word": "云南61岁老妇杀害13岁男孩",
+        "onboard_time": 1768003159,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194570,
+        "num": 180395,
+        "word": "卢昱晓台词",
+        "onboard_time": 1767971901,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176469,
+        "num": 176469,
+        "word": "王一博探索新境2今日收官",
+        "onboard_time": 1768011620,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126617,
+        "num": 126617,
+        "word": "痛经其实并不是什么好事",
+        "onboard_time": 1768009940,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 167529,
+        "num": 126611,
+        "word": "娜扎贴脸于正和张慧雯演情侣",
+        "onboard_time": 1768001357,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112529,
+        "num": 125594,
+        "word": "宣布闭店后的宜家人满为患",
+        "onboard_time": 1767974659,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161146,
+        "num": 124845,
+        "word": "流浪地球3",
+        "onboard_time": 1768011199,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156594,
+        "num": 123997,
+        "word": "官方通报小学校服有薄膜",
+        "onboard_time": 1768011320,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148850,
+        "num": 123665,
+        "word": "流浪地球3 如没杀青大吉还在",
+        "onboard_time": 1768008259,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147113,
+        "num": 123106,
+        "word": "归鸾",
+        "onboard_time": 1768008800,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146287,
+        "num": 122596,
+        "word": "熬夜到什么程度可能会发生猝死",
+        "onboard_time": 1768001357,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143438,
+        "num": 121476,
+        "word": "白鹿DIY微缩小屋",
+        "onboard_time": 1768011020,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121369,
+        "num": 121369,
+        "word": "医生在8岁女孩阑尾里发现7颗葡萄籽",
+        "onboard_time": 1768010480,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120182,
+        "num": 120182,
+        "word": "轧戏",
+        "onboard_time": 1767957140,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119753,
+        "num": 119753,
+        "word": "欧阳娣娣是怎么说服刘宇宁的",
+        "onboard_time": 1768004479,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109747,
+        "num": 109747,
+        "word": "一条金项链一夜涨15200元",
+        "onboard_time": 1768003337,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 214890,
+        "num": 109195,
+        "word": "内蒙古赤峰一小学校服里有薄膜",
+        "onboard_time": 1767974002,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 112371,
+        "num": 109131,
+        "word": "归鸾官宣开机",
+        "onboard_time": 1768003639,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107626,
+        "num": 107626,
+        "word": "白鹿知道范丞丞要走的反应",
+        "onboard_time": 1768004660,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107117,
+        "num": 107117,
+        "word": "去宜家等闭店清仓的人都想一块了",
+        "onboard_time": 1768008500,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106281,
+        "num": 106281,
+        "word": "100年以内没有人能认出这是杨洋",
+        "onboard_time": 1768011919,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104388,
+        "num": 104388,
+        "word": "苹果煮水喝孩子越喝越长个儿",
+        "onboard_time": 1767981196,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103482,
+        "num": 103482,
+        "word": "发现不内耗的人多是榴莲型人格",
+        "onboard_time": 1768011739,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97071,
+        "num": 97071,
+        "word": "金钱豹不语只是一味地伸手",
+        "onboard_time": 1768010719,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88802,
+        "num": 88802,
+        "word": "美国网友劝阻想回美国的网红",
+        "onboard_time": 1768004238,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88714,
+        "num": 88714,
+        "word": "孙颖莎2025年最受品牌关注运动员TOP1",
+        "onboard_time": 1768011080,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88541,
+        "num": 88541,
+        "word": "王心凌穿了500条珠链在身上",
+        "onboard_time": 1767966801,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88113,
+        "num": 88113,
+        "word": "金桔是中医眼里的天然逍遥丸",
+        "onboard_time": 1768011199,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86497,
+        "num": 86497,
+        "word": "卢昱晓坚持用自己原声",
+        "onboard_time": 1768009400,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84302,
+        "num": 84302,
+        "word": "林屿森 下西瓜了",
+        "onboard_time": 1767970941,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83757,
+        "num": 83757,
+        "word": "鹅鸭杀今天上午停服维护",
+        "onboard_time": 1768011561,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81134,
+        "num": 81134,
+        "word": "赵樱子问蒋毅和成毅谁好看",
+        "onboard_time": 1768010059,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80047,
+        "num": 80047,
+        "word": "爸爸回应奶奶想要孙子遗弃残疾孙女",
+        "onboard_time": 1768012039,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78758,
+        "num": 78758,
+        "word": "美国宣称扣押奥利娜油轮",
+        "onboard_time": 1768005500,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 75988,
+        "num": 75988,
+        "word": "乘风2026",
+        "onboard_time": 1768009459,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75128,
+        "num": 75128,
+        "word": "老祖宗的顶流审美诚不我欺",
+        "onboard_time": 1768009940,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记指出扩大内需是战略之举#"
+    }
+  }
+}

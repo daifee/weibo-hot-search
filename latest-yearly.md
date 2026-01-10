@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/10 10:07:02
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/10 10:29:28
 </p>
 </blockquote>
 <p>
@@ -419,6 +419,12 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%96%B0%E7%94%9F%E5%84%BF%E8%A2%AB%E5%89%AA%E6%96%AD%E6%89%8B%E6%8C%87%23" target="weibo">
 官方通报新生儿被剪断手指（热度：947476）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%88%B8%E7%88%B875%E5%B2%81%E7%8A%B6%E6%80%81%23" target="weibo">
+范丞丞爸爸75岁状态（热度：947140）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ TVB颁奖典礼（热度：518643）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%A4%AA%E5%9B%9E%E5%BA%94%E5%89%8D%E7%94%B7%E5%8F%8B%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96%23" target="weibo">
 向太回应前男友心梗去世（热度：487139）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%B1%BF%E6%A3%AE%20%E4%B8%8B%E8%A5%BF%E7%93%9C%E4%BA%86%23" target="weibo">
-林屿森 下西瓜了（热度：486693）
 </a>
 </li>
 
