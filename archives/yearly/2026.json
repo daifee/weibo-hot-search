@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768045154034,
+  "endTime": 1768049637713,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 3534737,
-      "num": 121593,
+      "num": 164572,
       "word": "小澈 抗艾滋药",
       "onboard_time": 1768041321,
       "rank": 21,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 2353704,
-      "num": 247981,
+      "num": 269176,
       "word": "死了么app",
       "onboard_time": 1768035741,
       "rank": 10,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 2202454,
-      "num": 100328,
+      "num": 163948,
       "word": "小澈回应抗艾滋药",
       "onboard_time": 1768043901,
       "rank": 21,
@@ -497,6 +497,14 @@
       "onboard_time": 1767502106,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1002688,
+      "num": 1160430,
+      "word": "小城大事热度",
+      "onboard_time": 1768046421,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 999982,
@@ -1227,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 674768,
+      "num": 826115,
+      "word": "王曼昱3比4韩莹",
+      "onboard_time": 1768047502,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 674228,
       "num": 170939,
       "word": "李金铭否认怀孕",
@@ -1313,6 +1329,14 @@
       "onboard_time": 1767583880,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 650104,
+      "num": 650104,
+      "word": "白鹿看升旗哭到停不下来",
+      "onboard_time": 1768046720,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 649549,
@@ -1987,6 +2011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 535482,
+      "num": 159606,
+      "word": "小澈 梅毒",
+      "onboard_time": 1768049061,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 535376,
       "num": 452276,
       "word": "河南通报1名学生校内身亡",
@@ -2137,6 +2169,14 @@
       "onboard_time": 1767759201,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 524840,
+      "num": 524840,
+      "word": "21岁和26岁差距真的很大",
+      "onboard_time": 1768042700,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 523590,
@@ -2361,46 +2401,6 @@
       "onboard_time": 1767657680,
       "rank": 6,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 506694,
-      "num": 212227,
-      "word": "死了么APP开发者为3名95后",
-      "onboard_time": 1768037361,
-      "rank": 32,
-      "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 506314,
-      "num": 294688,
-      "word": "原来轧戏轧的是韩剧啊",
-      "onboard_time": 1767845420,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 506183,
-      "num": 452981,
-      "word": "袁祥仁去世",
-      "onboard_time": 1767317599,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 506151,
-      "num": 238103,
-      "word": "全网捞47码脚男艺人",
-      "onboard_time": 1768031120,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 505995,
-      "num": 287537,
-      "word": "淀粉肠进入瑜伽裤时代",
-      "onboard_time": 1767781883,
-      "rank": 42,
-      "category": "美食"
     }
   ],
   "hotgov_list": [

@@ -1,10 +1,10 @@
 {
   "startTime": 1767976730727,
-  "endTime": 1768045154034,
+  "endTime": 1768049637713,
   "band_list": [
     {
       "raw_hot": 3534737,
-      "num": 121593,
+      "num": 164572,
       "word": "小澈 抗艾滋药",
       "onboard_time": 1768041321,
       "rank": 21,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2353704,
-      "num": 247981,
+      "num": 269176,
       "word": "死了么app",
       "onboard_time": 1768035741,
       "rank": 10,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2202454,
-      "num": 100328,
+      "num": 163948,
       "word": "小澈回应抗艾滋药",
       "onboard_time": 1768043901,
       "rank": 21,
@@ -49,6 +49,14 @@
       "onboard_time": 1768014560,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1002688,
+      "num": 1160430,
+      "word": "小城大事热度",
+      "onboard_time": 1768046421,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 947140,
@@ -107,12 +115,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 674768,
+      "num": 826115,
+      "word": "王曼昱3比4韩莹",
+      "onboard_time": 1768047502,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 660464,
       "num": 631890,
       "word": "喜糖已经进化成这样了吗",
       "onboard_time": 1768036340,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 650104,
+      "num": 650104,
+      "word": "白鹿看升旗哭到停不下来",
+      "onboard_time": 1768046720,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 630707,
@@ -171,6 +195,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 535482,
+      "num": 159606,
+      "word": "小澈 梅毒",
+      "onboard_time": 1768049061,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 524840,
+      "num": 524840,
+      "word": "21岁和26岁差距真的很大",
+      "onboard_time": 1768042700,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 514380,
       "num": 100759,
       "word": "当红演员未进组天数",
@@ -219,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 473602,
+      "num": 473602,
+      "word": "小城大事收视",
+      "onboard_time": 1768047442,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 468651,
       "num": 222075,
       "word": "陈妍希周柯宇红秀预告",
@@ -259,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 438215,
+      "num": 158060,
+      "word": "sakee文言文",
+      "onboard_time": 1768047682,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 435980,
       "num": 278883,
       "word": "小猫还原自己摔伤的过程",
@@ -291,8 +347,16 @@
       "category": "教育"
     },
     {
+      "raw_hot": 397518,
+      "num": 397518,
+      "word": "新员工咬掉老员工鼻子被判刑",
+      "onboard_time": 1768046421,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 385093,
-      "num": 208918,
+      "num": 268754,
       "word": "黄子韬 EXO老祖训话TF曾孙",
       "onboard_time": 1768043541,
       "rank": 12,
@@ -500,7 +564,7 @@
     },
     {
       "raw_hot": 276893,
-      "num": 99062,
+      "num": 122723,
       "word": "天选淡人美甲",
       "onboard_time": 1768042581,
       "rank": 22,
@@ -579,6 +643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 249655,
+      "num": 249655,
+      "word": "小城大事",
+      "onboard_time": 1768000696,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247596,
       "num": 433842,
       "word": "王莉举报训练基地主任猥亵女队员",
@@ -603,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236569,
+      "num": 571745,
+      "word": "我不是药神原型陆勇重返印度",
+      "onboard_time": 1768048101,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234729,
       "num": 201446,
       "word": "说话含糊 言语霸凌",
@@ -617,6 +697,14 @@
       "onboard_time": 1768003159,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233619,
+      "num": 155026,
+      "word": "小澈刚参加过一日店长",
+      "onboard_time": 1768048161,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 231328,
@@ -675,6 +763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216280,
+      "num": 146594,
+      "word": "收到了去世十年姐姐的微信",
+      "onboard_time": 1768047682,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 214296,
       "num": 191342,
       "word": "身体有炎症就会激发出各种毛病",
@@ -731,6 +827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 205053,
+      "num": 154102,
+      "word": "轧戏",
+      "onboard_time": 1767957140,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204514,
       "num": 268075,
       "word": "女子生理期逛胖东来腹痛被送布洛芬",
@@ -755,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202404,
+      "num": 149577,
+      "word": "短剧一姐李沐宸搭档新人张卓尔",
+      "onboard_time": 1768046241,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202362,
       "num": 202362,
       "word": "归鸾",
@@ -777,6 +889,14 @@
       "onboard_time": 1768029201,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 197588,
+      "num": 271212,
+      "word": "王曼昱无缘多哈冠军赛四强",
+      "onboard_time": 1768049002,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 197414,
@@ -851,6 +971,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 182784,
+      "num": 182784,
+      "word": "张真源连续三天请工作人员喝下午茶",
+      "onboard_time": 1768045882,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182441,
       "num": 182441,
       "word": "欧阳娣娣是怎么说服刘宇宁的",
@@ -867,14 +995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179623,
-      "num": 179623,
-      "word": "21岁和26岁差距真的很大",
-      "onboard_time": 1768042700,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 179123,
       "num": 150585,
       "word": "黄子韬一秒听出鹿晗的歌",
@@ -889,6 +1009,14 @@
       "onboard_time": 1768033701,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177793,
+      "num": 177793,
+      "word": "王赫野上海站秒罄",
+      "onboard_time": 1768048521,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 177672,
@@ -952,6 +1080,22 @@
       "word": "今天的赵丽颖梦回明兰了",
       "onboard_time": 1767960439,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 167346,
+      "num": 269438,
+      "word": "王曼昱vs韩莹",
+      "onboard_time": 1768045161,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 167268,
+      "num": 138529,
+      "word": "女主参加别人婚礼新郎竟是未婚夫",
+      "onboard_time": 1768049122,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -1075,14 +1219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151351,
-      "num": 120182,
-      "word": "轧戏",
-      "onboard_time": 1767957140,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 150356,
       "num": 150356,
       "word": "王艺迪2比4朱雨玲",
@@ -1113,6 +1249,14 @@
       "onboard_time": 1768012399,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148175,
+      "num": 136926,
+      "word": "侯明昊直播",
+      "onboard_time": 1768047682,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 147590,
@@ -1217,6 +1361,14 @@
       "onboard_time": 1768038620,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137079,
+      "num": 137079,
+      "word": "石平窜访台湾被当面痛斥汉奸",
+      "onboard_time": 1768043661,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 136918,
@@ -1363,6 +1515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 130628,
+      "num": 122621,
+      "word": "云旗直播",
+      "onboard_time": 1768044382,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130418,
       "num": 130418,
       "word": "内娱终于有短剧把减肥讲透了",
@@ -1403,6 +1563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127916,
+      "num": 168969,
+      "word": "刘宇宁像是刚从火星回来",
+      "onboard_time": 1768048461,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 127585,
       "num": 127585,
       "word": "林依轮连夜换头像",
@@ -1431,6 +1599,22 @@
       "num": 126760,
       "word": "陈星旭顶着两个大红灯笼就来了",
       "onboard_time": 1768044141,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 126751,
+      "num": 126751,
+      "word": "韩莹晋级多哈冠军赛四强",
+      "onboard_time": 1768049002,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 126553,
+      "num": 122562,
+      "word": "酷云",
+      "onboard_time": 1768048282,
       "rank": 42,
       "category": "剧集"
     },
@@ -1489,6 +1673,14 @@
       "onboard_time": 1768031840,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 121854,
+      "num": 121854,
+      "word": "小城大事腾讯视频热度值破22000",
+      "onboard_time": 1768048701,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 121369,
@@ -1612,7 +1804,7 @@
     },
     {
       "raw_hot": 114268,
-      "num": 97812,
+      "num": 122162,
       "word": "白头发是身体释放的压力警告",
       "onboard_time": 1768041201,
       "rank": 45,
@@ -1625,6 +1817,14 @@
       "onboard_time": 1768044382,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 113384,
+      "num": 100902,
+      "word": "张子枫赵今麦胡先煦旧照",
+      "onboard_time": 1768046361,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 113155,
@@ -1819,6 +2019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101048,
+      "num": 101048,
+      "word": "柚子每天坐过山车出门",
+      "onboard_time": 1768049303,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100910,
       "num": 119948,
       "word": "死了么APP售价8元",
@@ -1849,14 +2057,6 @@
       "onboard_time": 1768044560,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100291,
-      "num": 100291,
-      "word": "石平窜访台湾被当面痛斥汉奸",
-      "onboard_time": 1768043661,
-      "rank": 35,
-      "category": "国内时政"
     },
     {
       "raw_hot": 100267,
@@ -1947,6 +2147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 97356,
+      "num": 97356,
+      "word": "王曼昱暂停",
+      "onboard_time": 1768047021,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97071,
       "num": 101501,
       "word": "金钱豹不语只是一味地伸手",
@@ -1985,6 +2193,14 @@
       "onboard_time": 1768014020,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95499,
+      "num": 95499,
+      "word": "韩莹太能扛了",
+      "onboard_time": 1768049424,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 95474,
@@ -2337,14 +2553,6 @@
       "onboard_time": 1768023859,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 83461,
-      "num": 83461,
-      "word": "云旗直播",
-      "onboard_time": 1768044382,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 83267,
@@ -2827,14 +3035,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 54643,
-      "num": 52134,
-      "word": "小城大事",
-      "onboard_time": 1768000696,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 54206,
       "num": 97812,
       "word": "狗骑电动车上街后座还趴着一只狗",
@@ -2913,6 +3113,14 @@
       "onboard_time": 1767959960,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 47369,
+      "num": 167362,
+      "word": "中国技术把鲍鱼价格打下来了",
+      "onboard_time": 1768049122,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46715,
@@ -3132,7 +3340,7 @@
     },
     {
       "raw_hot": 29237,
-      "num": 652711,
+      "num": 687541,
       "word": "110是刻在骨子里的安全感",
       "onboard_time": 1768021101,
       "rank": 14,
@@ -3169,6 +3377,14 @@
       "onboard_time": 1767967041,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25519,
+      "num": 165603,
+      "word": "当地通报越野赛车手驾车失控致14伤",
+      "onboard_time": 1768049122,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 25477,
@@ -3227,6 +3443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20408,
+      "num": 122807,
+      "word": "短剧赛道也是被劲仔闯进去了",
+      "onboard_time": 1768046481,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 16662,
       "num": 26310,
       "word": "小城大事微博追剧团",
@@ -3241,6 +3465,14 @@
       "onboard_time": 1767992474,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16082,
+      "num": 122899,
+      "word": "韩方称侵朝无人机或系拼装货",
+      "onboard_time": 1768049182,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 15987,
