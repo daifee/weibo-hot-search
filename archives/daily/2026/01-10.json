@@ -1,6 +1,6 @@
 {
   "startTime": 1767976730727,
-  "endTime": 1768034175902,
+  "endTime": 1768034978163,
   "band_list": [
     {
       "raw_hot": 3020265,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1264119,
-      "num": 140773,
+      "raw_hot": 1265298,
+      "num": 206552,
       "word": "王一博自曝是否考虑结婚",
       "onboard_time": 1768031481,
       "rank": 13,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 506151,
-      "num": 143385,
+      "num": 203245,
       "word": "全网捞47码脚男艺人",
       "onboard_time": 1768031120,
       "rank": 10,
@@ -137,6 +137,14 @@
       "onboard_time": 1768017261,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 468651,
+      "num": 197057,
+      "word": "陈妍希周柯宇红秀预告",
+      "onboard_time": 1768032620,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 465702,
@@ -163,14 +171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 459799,
-      "num": 142637,
-      "word": "陈妍希周柯宇红秀预告",
-      "onboard_time": 1768032620,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 451296,
       "num": 821609,
       "word": "多地大到暴雪",
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 435980,
-      "num": 267937,
+      "num": 278883,
       "word": "小猫还原自己摔伤的过程",
       "onboard_time": 1768025659,
       "rank": 16,
@@ -300,11 +300,19 @@
     },
     {
       "raw_hot": 316700,
-      "num": 138631,
+      "num": 180695,
       "word": "钟欣潼回应眼线半永久质疑",
       "onboard_time": 1768031000,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 312858,
+      "num": 312858,
+      "word": "巴厘岛拟要求外国游客晒存款",
+      "onboard_time": 1768033341,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 300252,
@@ -339,20 +347,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 286488,
+      "num": 286488,
+      "word": "金唱片",
+      "onboard_time": 1768032441,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 285755,
       "num": 279958,
       "word": "宋威龙 姐就是女王",
       "onboard_time": 1768008680,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 281673,
-      "num": 157863,
-      "word": "金唱片",
-      "onboard_time": 1768032441,
-      "rank": 6,
-      "category": "音乐"
     },
     {
       "raw_hot": 277780,
@@ -435,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237191,
+      "num": 298314,
+      "word": "网购4J车厘子变成空文件",
+      "onboard_time": 1768033520,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 236700,
       "num": 365181,
       "word": "刘耀文说在四代面前自己算老了",
@@ -444,7 +460,7 @@
     },
     {
       "raw_hot": 234729,
-      "num": 141465,
+      "num": 201446,
       "word": "说话含糊 言语霸凌",
       "onboard_time": 1768028721,
       "rank": 25,
@@ -467,6 +483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 226052,
+      "num": 226052,
+      "word": "辩积和两只小猫",
+      "onboard_time": 1768028661,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 222241,
       "num": 222241,
       "word": "王者荣耀 打麻将",
@@ -475,12 +499,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 214296,
+      "num": 120345,
+      "word": "身体有炎症就会激发出各种毛病",
+      "onboard_time": 1768032801,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 212038,
       "num": 145172,
       "word": "妻子整理遗物发现亡夫转情人1900万",
       "onboard_time": 1767963080,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210466,
+      "num": 210466,
+      "word": "起猛了看见赵丽颖咕楼了",
+      "onboard_time": 1768033823,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 208183,
@@ -505,6 +545,14 @@
       "onboard_time": 1768012640,
       "rank": 15,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 205306,
+      "num": 119960,
+      "word": "郭宇欣dior活动",
+      "onboard_time": 1768034301,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 204514,
@@ -545,6 +593,14 @@
       "onboard_time": 1768029201,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 192567,
+      "num": 150561,
+      "word": "王一博看到小猫偷吃的反应",
+      "onboard_time": 1768034001,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 189865,
@@ -600,6 +656,14 @@
       "word": "黄子韬一秒听出鹿晗的歌",
       "onboard_time": 1768019600,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 177912,
+      "num": 117998,
+      "word": "第一次见内娱男明星身姿很曼妙",
+      "onboard_time": 1768033701,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -699,14 +763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160359,
-      "num": 160359,
-      "word": "辩积和两只小猫",
-      "onboard_time": 1768028661,
-      "rank": 34,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 159187,
       "num": 198102,
       "word": "Dior上海快闪明星",
@@ -747,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156373,
+      "num": 117862,
+      "word": "长安二十四计发布律师声明",
+      "onboard_time": 1768034540,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155587,
       "num": 155587,
       "word": "赵丽颖说秦俊杰练出片了",
@@ -763,14 +827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152014,
-      "num": 118176,
-      "word": "身体有炎症就会激发出各种毛病",
-      "onboard_time": 1768032801,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 151351,
       "num": 120182,
       "word": "轧戏",
@@ -779,20 +835,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150561,
-      "num": 150561,
-      "word": "王一博看到小猫偷吃的反应",
-      "onboard_time": 1768034001,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 148850,
       "num": 127978,
       "word": "流浪地球3 如没杀青大吉还在",
       "onboard_time": 1768008259,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 148790,
+      "num": 116771,
+      "word": "长安二十四计",
+      "onboard_time": 1768034781,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 148217,
@@ -809,14 +865,6 @@
       "onboard_time": 1768001357,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 147178,
-      "num": 147178,
-      "word": "网购4J车厘子变成空文件",
-      "onboard_time": 1768033520,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144802,
@@ -963,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132915,
+      "num": 116477,
+      "word": "陈星旭卢昱晓在谈一种很新的恋爱",
+      "onboard_time": 1768033580,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132412,
       "num": 132412,
       "word": "猫的树真的很会拍",
@@ -993,14 +1049,6 @@
       "onboard_time": 1768012222,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 130429,
-      "num": 130429,
-      "word": "起猛了看见赵丽颖咕楼了",
-      "onboard_time": 1768033823,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 130418,
@@ -1099,15 +1147,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121369,
-      "num": 121369,
-      "word": "医生在8岁女孩阑尾里发现7颗葡萄籽",
-      "onboard_time": 1768010480,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121018,
+      "raw_hot": 121917,
       "num": 121018,
       "word": "贰万结婚",
       "onboard_time": 1768031840,
@@ -1115,12 +1155,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 120677,
-      "num": 136584,
-      "word": "巴厘岛拟要求外国游客晒存款",
-      "onboard_time": 1768033341,
-      "rank": 19,
-      "category": "海外新闻"
+      "raw_hot": 121369,
+      "num": 121369,
+      "word": "医生在8岁女孩阑尾里发现7颗葡萄籽",
+      "onboard_time": 1768010480,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119637,
@@ -1171,12 +1211,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116331,
+      "num": 116331,
+      "word": "独居APP死了么被吐槽晦气",
+      "onboard_time": 1768033701,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115689,
       "num": 129511,
       "word": "ADHD 炎症串联",
       "onboard_time": 1768029142,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 115475,
+      "num": 115475,
+      "word": "王安宇现身央视路透",
+      "onboard_time": 1768033701,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 115267,
@@ -1193,22 +1249,6 @@
       "onboard_time": 1768019061,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113008,
-      "num": 113008,
-      "word": "第一次见内娱男明星身姿很曼妙",
-      "onboard_time": 1768033701,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 111538,
-      "num": 111538,
-      "word": "陈星旭卢昱晓在谈一种很新的恋爱",
-      "onboard_time": 1768033580,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 109421,
@@ -1251,14 +1291,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 106033,
-      "num": 106033,
-      "word": "王安宇现身央视路透",
-      "onboard_time": 1768033701,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 105958,
       "num": 105958,
       "word": "删了吧有个单休的人破防了",
@@ -1273,6 +1305,14 @@
       "onboard_time": 1768025780,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105225,
+      "num": 105225,
+      "word": "金唱片直播",
+      "onboard_time": 1768034061,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 105222,
@@ -1313,6 +1353,14 @@
       "onboard_time": 1768011739,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 102479,
+      "num": 102479,
+      "word": "庾澄庆被王赫野的阴间作息吓到",
+      "onboard_time": 1768033941,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 102396,
@@ -1443,14 +1491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96170,
-      "num": 96170,
-      "word": "庾澄庆被王赫野的阴间作息吓到",
-      "onboard_time": 1768033941,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 95634,
       "num": 97875,
       "word": "房贷利率又迎下调",
@@ -1521,14 +1561,6 @@
       "onboard_time": 1768026261,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 92912,
-      "num": 92912,
-      "word": "金唱片直播",
-      "onboard_time": 1768034061,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 92788,
@@ -1723,20 +1755,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 85286,
-      "num": 85286,
-      "word": "独居APP死了么被吐槽晦气",
-      "onboard_time": 1768033701,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85208,
       "num": 93459,
       "word": "雄鹿战胜湖人",
       "onboard_time": 1768027041,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85158,
+      "num": 95529,
+      "word": "为400只流浪猫建了个公园",
+      "onboard_time": 1768034901,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84444,
@@ -1945,6 +1977,14 @@
       "onboard_time": 1768009940,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73604,
+      "num": 102016,
+      "word": "时代峰峻练习生挑战SM练习生",
+      "onboard_time": 1768034361,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 73436,
@@ -2308,7 +2348,7 @@
     },
     {
       "raw_hot": 40135,
-      "num": 633400,
+      "num": 649668,
       "word": "中国在2000米高空架起移动充电宝",
       "onboard_time": 1768015220,
       "rank": 2,
@@ -2355,6 +2395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37132,
+      "num": 102102,
+      "word": "20岁男生填报高考志愿当晚遇害",
+      "onboard_time": 1768034121,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35426,
       "num": 35426,
       "word": "难度低效果好的减肥方法",
@@ -2393,14 +2441,6 @@
       "onboard_time": 1767979637,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 33293,
-      "num": 102102,
-      "word": "20岁男生填报高考志愿当晚遇害",
-      "onboard_time": 1768034121,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33192,
@@ -2465,6 +2505,22 @@
       "onboard_time": 1767983054,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21844,
+      "num": 101562,
+      "word": "18名假工人流窜多地敲诈施工方",
+      "onboard_time": 1768034481,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20844,
+      "num": 207784,
+      "word": "趴地菠菜爆单大娘铲子抡冒烟了",
+      "onboard_time": 1768034481,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16662,
