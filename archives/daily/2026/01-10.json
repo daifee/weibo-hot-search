@@ -1,6 +1,6 @@
 {
   "startTime": 1767976730727,
-  "endTime": 1768030027541,
+  "endTime": 1768030836781,
   "band_list": [
     {
       "raw_hot": 3020265,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 714194,
+      "num": 1114271,
+      "word": "老人离世前将27岁瘫痪养女送养老院",
+      "onboard_time": 1768025780,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 680148,
       "num": 253647,
       "word": "金价",
@@ -59,12 +67,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 580620,
-      "num": 559979,
-      "word": "老人离世前将27岁瘫痪养女送养老院",
-      "onboard_time": 1768025780,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 576348,
+      "num": 212962,
+      "word": "于正 没见过比娜扎好看的女明星",
+      "onboard_time": 1768028840,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 573912,
@@ -147,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 435980,
+      "num": 267937,
+      "word": "小猫还原自己摔伤的过程",
+      "onboard_time": 1768025659,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 422313,
       "num": 259087,
       "word": "吴速玲曝儿子Joe是恋爱脑",
@@ -219,14 +235,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 349752,
-      "num": 253062,
-      "word": "小猫还原自己摔伤的过程",
-      "onboard_time": 1768025659,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 344792,
       "num": 677989,
       "word": "宣布闭店后的宜家人满为患",
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 328908,
-      "num": 138486,
+      "num": 139923,
       "word": "黄子韬住重庆胖到300斤",
       "onboard_time": 1768026082,
       "rank": 22,
@@ -275,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 295739,
+      "num": 576751,
+      "word": "刘耀文陈浚铭最怕空气突然的安静",
+      "onboard_time": 1768026802,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295310,
       "num": 295310,
       "word": "欧阳娣娣被怼刘宇宁马上站出来",
@@ -295,14 +311,6 @@
       "num": 279958,
       "word": "宋威龙 姐就是女王",
       "onboard_time": 1768008680,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 283599,
-      "num": 212962,
-      "word": "于正 没见过比娜扎好看的女明星",
-      "onboard_time": 1768028840,
       "rank": 12,
       "category": "艺人"
     },
@@ -345,14 +353,6 @@
       "onboard_time": 1768017020,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 260003,
-      "num": 576751,
-      "word": "刘耀文陈浚铭最怕空气突然的安静",
-      "onboard_time": 1768026802,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 259934,
@@ -491,6 +491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198001,
+      "num": 186661,
+      "word": "这还是我认识的鹅鸭杀吗",
+      "onboard_time": 1768029201,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 189865,
       "num": 569366,
       "word": "日本一医院遗失放射性物质",
@@ -521,14 +529,6 @@
       "onboard_time": 1768015880,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 186661,
-      "num": 186661,
-      "word": "这还是我认识的鹅鸭杀吗",
-      "onboard_time": 1768029201,
-      "rank": 13,
-      "category": "游戏"
     },
     {
       "raw_hot": 183861,
@@ -763,6 +763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143115,
+      "num": 143115,
+      "word": "赵本山女儿新发型被调侃像父亲",
+      "onboard_time": 1768027041,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141977,
       "num": 141977,
       "word": "伊能静恩利母子大片",
@@ -793,6 +801,14 @@
       "onboard_time": 1768020920,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137464,
+      "num": 137464,
+      "word": "说话含糊 言语霸凌",
+      "onboard_time": 1768028721,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 136918,
@@ -891,14 +907,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 131234,
-      "num": 131234,
-      "word": "说话含糊 言语霸凌",
-      "onboard_time": 1768028721,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 130418,
       "num": 130418,
       "word": "内娱终于有短剧把减肥讲透了",
@@ -955,6 +963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126489,
+      "num": 126489,
+      "word": "鹿晗代表作",
+      "onboard_time": 1768027701,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125578,
       "num": 125578,
       "word": "王一博像跟着妈妈买菜的我",
@@ -963,12 +979,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125226,
-      "num": 125226,
-      "word": "赵本山女儿新发型被调侃像父亲",
-      "onboard_time": 1768027041,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 123832,
+      "num": 123832,
+      "word": "辩积和两只小猫",
+      "onboard_time": 1768028661,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 122553,
@@ -1003,14 +1019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120160,
-      "num": 120160,
-      "word": "鹿晗代表作",
-      "onboard_time": 1768027701,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 119637,
       "num": 119637,
       "word": "WTT新加坡大满贯",
@@ -1035,6 +1043,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 117135,
+      "num": 117135,
+      "word": "彭小苒杀死了天台拍照比赛",
+      "onboard_time": 1768024819,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 115689,
+      "num": 115689,
+      "word": "ADHD 炎症串联",
+      "onboard_time": 1768029142,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 115267,
       "num": 104773,
       "word": "难怪这周上班跟鬼打墙一样",
@@ -1051,14 +1075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 110936,
-      "num": 110936,
-      "word": "彭小苒杀死了天台拍照比赛",
-      "onboard_time": 1768024819,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 109421,
       "num": 104279,
       "word": "女友证实讨债群群主就是王大陆",
@@ -1067,12 +1083,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108853,
+      "num": 142069,
+      "word": "中央纪委反腐大片即将开播",
+      "onboard_time": 1768026862,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 108050,
       "num": 98960,
       "word": "2025年歌手价值TOP10",
       "onboard_time": 1767971301,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107746,
+      "num": 107746,
+      "word": "赵丽颖体制内干部感",
+      "onboard_time": 1768028122,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 107117,
@@ -1219,19 +1251,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99647,
+      "num": 124670,
+      "word": "杜兰特怒摔水瓶",
+      "onboard_time": 1768029201,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98527,
       "num": 98527,
       "word": "醒来",
       "onboard_time": 1767981256,
       "rank": 37,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 98521,
-      "num": 98521,
-      "word": "赵丽颖体制内干部感",
-      "onboard_time": 1768028122,
-      "rank": 33,
       "category": "剧集"
     },
     {
@@ -1251,14 +1283,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 97149,
-      "num": 97149,
-      "word": "辩积和两只小猫",
-      "onboard_time": 1768028661,
-      "rank": 34,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 97071,
       "num": 101501,
       "word": "金钱豹不语只是一味地伸手",
@@ -1273,14 +1297,6 @@
       "onboard_time": 1767959361,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 95755,
-      "num": 95755,
-      "word": "ADHD 炎症串联",
-      "onboard_time": 1768029142,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 95634,
@@ -1339,6 +1355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 93638,
+      "num": 123895,
+      "word": "两老人因拿女子1个纸箱被判赔0.2元",
+      "onboard_time": 1768029081,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93452,
       "num": 93452,
       "word": "iG大名单好多人",
@@ -1377,14 +1401,6 @@
       "onboard_time": 1768026682,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 91980,
-      "num": 120695,
-      "word": "中央纪委反腐大片即将开播",
-      "onboard_time": 1768026862,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 91114,
@@ -1475,6 +1491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87008,
+      "num": 87008,
+      "word": "笔本国产手机等集体调价",
+      "onboard_time": 1768029801,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 86550,
       "num": 86550,
       "word": "吴彤被自己邀请的嘉宾赶出去了",
@@ -1547,12 +1571,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82974,
+      "num": 82974,
+      "word": "反反复复减肥还减不下来的人",
+      "onboard_time": 1768028421,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 82637,
       "num": 97916,
       "word": "彭小苒白天官宣晚上亮相",
       "onboard_time": 1767974299,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 81895,
+      "num": 81895,
+      "word": "字母哥防詹姆斯下狠手",
+      "onboard_time": 1768030339,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 81006,
@@ -1587,14 +1627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79755,
-      "num": 79755,
-      "word": "杜兰特怒摔水瓶",
-      "onboard_time": 1768029201,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 79722,
       "num": 92265,
       "word": "DeepSeekV4被曝春节前后发布",
@@ -1619,12 +1651,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78623,
-      "num": 78623,
-      "word": "笔本国产手机等集体调价",
-      "onboard_time": 1768029801,
+      "raw_hot": 78901,
+      "num": 78901,
+      "word": "肖央 他们说一秒都不用剪",
+      "onboard_time": 1768030460,
       "rank": 42,
-      "category": "数码"
+      "category": "综艺"
     },
     {
       "raw_hot": 78320,
@@ -1715,6 +1747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73436,
+      "num": 73436,
+      "word": "陈梦说范思琦逆转让自己绷不住了",
+      "onboard_time": 1768029921,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73193,
       "num": 97906,
       "word": "向涵之空档483天了",
@@ -1737,14 +1777,6 @@
       "onboard_time": 1768003037,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 71725,
-      "num": 71725,
-      "word": "陈梦说范思琦逆转让自己绷不住了",
-      "onboard_time": 1768029921,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 71524,
@@ -1801,14 +1833,6 @@
       "onboard_time": 1768018819,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 65647,
-      "num": 79863,
-      "word": "两老人因拿女子1个纸箱被判赔0.2元",
-      "onboard_time": 1768029081,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 65533,
@@ -2035,6 +2059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41445,
+      "num": 83572,
+      "word": "白鹿你们不要再打了啦",
+      "onboard_time": 1768030220,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40866,
       "num": 140568,
       "word": "特朗普提出1.5万亿美元军费",
@@ -2155,6 +2187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 32453,
+      "num": 633400,
+      "word": "中国在2000米高空架起移动充电宝",
+      "onboard_time": 1768015220,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28506,
       "num": 87110,
       "word": "猫的树现偶的神",
@@ -2233,14 +2273,6 @@
       "onboard_time": 1768023320,
       "rank": 19,
       "category": "舆论监督,体育"
-    },
-    {
-      "raw_hot": 15296,
-      "num": 602396,
-      "word": "中国在2000米高空架起移动充电宝",
-      "onboard_time": 1768015220,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14457,
