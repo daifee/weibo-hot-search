@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768012168390,
+  "endTime": 1768016774223,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -49,6 +49,14 @@
       "onboard_time": 1767177980,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2803034,
+      "num": 130311,
+      "word": "刘一诺 没义务替檀健次承受抹黑",
+      "onboard_time": 1768014739,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 2704539,
@@ -425,6 +433,14 @@
       "onboard_time": 1767747923,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1014473,
+      "num": 507210,
+      "word": "TF家族荣耀之战演唱会官宣",
+      "onboard_time": 1768014560,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 1013556,
@@ -1691,6 +1707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 555532,
+      "num": 206077,
+      "word": "蒋毅结过婚了",
+      "onboard_time": 1768014500,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 554927,
       "num": 316249,
       "word": "娶了个魔丸生了个魔童",
@@ -2377,30 +2401,6 @@
       "onboard_time": 1767406949,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 489574,
-      "num": 253970,
-      "word": "河北农村取暖问题一天也不能拖了",
-      "onboard_time": 1767708083,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 488298,
-      "num": 1404022,
-      "word": "2026壁纸",
-      "onboard_time": 1767175881,
-      "rank": 11,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 487139,
-      "num": 200131,
-      "word": "向太回应前男友心梗去世",
-      "onboard_time": 1767751040,
-      "rank": 22,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
@@ -2487,6 +2487,9 @@
     },
     {
       "word": "#总书记指出扩大内需是战略之举#"
+    },
+    {
+      "word": "#习近平点赞公安英雄模范#"
     }
   ]
 }

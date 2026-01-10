@@ -1,7 +1,23 @@
 {
   "startTime": 1767976730727,
-  "endTime": 1768012168390,
+  "endTime": 1768016774223,
   "band_list": [
+    {
+      "raw_hot": 2803034,
+      "num": 130311,
+      "word": "刘一诺 没义务替檀健次承受抹黑",
+      "onboard_time": 1768014739,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1014473,
+      "num": 507210,
+      "word": "TF家族荣耀之战演唱会官宣",
+      "onboard_time": 1768014560,
+      "rank": 3,
+      "category": "演出"
+    },
     {
       "raw_hot": 947140,
       "num": 286346,
@@ -35,11 +51,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 555532,
+      "num": 206077,
+      "word": "蒋毅结过婚了",
+      "onboard_time": 1768014500,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 514380,
       "num": 100759,
       "word": "当红演员未进组天数",
       "onboard_time": 1767965362,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 465702,
+      "num": 203628,
+      "word": "彭小苒凌晨朋友圈发长文",
+      "onboard_time": 1768014079,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -75,6 +107,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 374194,
+      "num": 374194,
+      "word": "金价波动",
+      "onboard_time": 1768014920,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 362879,
       "num": 803965,
       "word": "网传乘风2026将取消嘉宾年龄限制",
@@ -99,6 +139,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 349932,
+      "num": 349932,
+      "word": "北约成员国开撕",
+      "onboard_time": 1768008139,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 344792,
       "num": 677989,
       "word": "宣布闭店后的宜家人满为患",
@@ -107,20 +155,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 341457,
+      "num": 797946,
+      "word": "流浪地球3",
+      "onboard_time": 1768011199,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 300252,
       "num": 153484,
       "word": "父亲称儿子撞亡一家三口系天灾",
       "onboard_time": 1767970102,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 296053,
-      "num": 296053,
-      "word": "北约成员国开撕",
-      "onboard_time": 1768008139,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 295310,
@@ -139,11 +187,43 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277592,
+      "num": 277592,
+      "word": "荣耀之战",
+      "onboard_time": 1768015701,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 263973,
       "num": 146322,
       "word": "遭遇已婚博士后恋爱骗局女子被恐吓",
       "onboard_time": 1767972320,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259131,
+      "num": 202846,
+      "word": "100年以内没有人能认出这是杨洋",
+      "onboard_time": 1768011919,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 256276,
+      "num": 194433,
+      "word": "千万网红出镜四年衣服都是自己做的",
+      "onboard_time": 1768014860,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 247596,
+      "num": 433842,
+      "word": "王莉举报训练基地主任猥亵女队员",
+      "onboard_time": 1768012340,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -187,11 +267,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207847,
+      "num": 289206,
+      "word": "格陵兰岛居民说给钱也不加入美国",
+      "onboard_time": 1768011439,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 202603,
+      "num": 202603,
+      "word": "医生称妊娠孕吐绝不是忍忍就过去",
+      "onboard_time": 1768012640,
+      "rank": 15,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 202362,
       "num": 202362,
       "word": "归鸾",
       "onboard_time": 1768008800,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 192380,
+      "num": 129062,
+      "word": "赵又廷张子枫新剧空降",
+      "onboard_time": 1768015402,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -209,6 +313,22 @@
       "onboard_time": 1767973520,
       "rank": 7,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 187465,
+      "num": 122370,
+      "word": "荣耀之战三组阵列对抗",
+      "onboard_time": 1768015880,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 183861,
+      "num": 183861,
+      "word": "痛经其实并不是什么好事",
+      "onboard_time": 1768009940,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 182441,
@@ -235,6 +355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 172358,
+      "num": 107221,
+      "word": "曾比特瘦了40斤",
+      "onboard_time": 1768015641,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167721,
       "num": 100204,
       "word": "今天的赵丽颖梦回明兰了",
@@ -251,20 +379,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 161146,
-      "num": 124845,
-      "word": "流浪地球3",
-      "onboard_time": 1768011199,
-      "rank": 20,
-      "category": "电影"
-    },
-    {
       "raw_hot": 160708,
       "num": 160708,
       "word": "违规穿鳌太线获救男子失温产生幻觉",
       "onboard_time": 1767973460,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160484,
+      "num": 103267,
+      "word": "王一博坦言更喜欢现在的状态",
+      "onboard_time": 1768015340,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 156594,
@@ -283,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153414,
+      "num": 153414,
+      "word": "女子上门喂猫两周赚7454元",
+      "onboard_time": 1768015701,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151351,
       "num": 120182,
       "word": "轧戏",
@@ -297,6 +433,14 @@
       "onboard_time": 1768008259,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 148217,
+      "num": 103231,
+      "word": "你好星期六剧本杀全员入局",
+      "onboard_time": 1768012399,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 147590,
@@ -347,6 +491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134643,
+      "num": 100590,
+      "word": "黄景瑜把剧演成大ip",
+      "onboard_time": 1768016060,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134179,
       "num": 134179,
       "word": "归鸾官宣开机",
@@ -371,12 +523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126617,
-      "num": 126617,
-      "word": "痛经其实并不是什么好事",
-      "onboard_time": 1768009940,
-      "rank": 36,
-      "category": "健康医疗"
+      "raw_hot": 131286,
+      "num": 100375,
+      "word": "惊蛰无声",
+      "onboard_time": 1768012222,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 122553,
@@ -395,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120851,
+      "num": 95090,
+      "word": "刘一诺再次声明和檀健次好聚好散",
+      "onboard_time": 1768016541,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118509,
       "num": 102275,
       "word": "卢昱晓好美",
@@ -409,6 +569,14 @@
       "onboard_time": 1768003337,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 116558,
+      "num": 95155,
+      "word": "网传陈少熙妈妈上浪姐",
+      "onboard_time": 1768015580,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 109421,
@@ -433,14 +601,6 @@
       "onboard_time": 1768008500,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106281,
-      "num": 106281,
-      "word": "100年以内没有人能认出这是杨洋",
-      "onboard_time": 1768011919,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 105222,
@@ -475,6 +635,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102233,
+      "num": 95048,
+      "word": "觉得倒霉的人可以看看李昀锐这段",
+      "onboard_time": 1768016240,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 101615,
+      "num": 94959,
+      "word": "女明星不进组前三甲刘亦菲李沁卢昱晓",
+      "onboard_time": 1768016419,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101527,
       "num": 101527,
       "word": "檀健次文案翻译",
@@ -489,6 +665,14 @@
       "onboard_time": 1768010059,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100611,
+      "num": 100611,
+      "word": "宜家被年轻人抛弃了吗",
+      "onboard_time": 1768013900,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98527,
@@ -523,6 +707,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 95516,
+      "num": 94893,
+      "word": "张凌赫林允归鸾开机",
+      "onboard_time": 1768014020,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93835,
       "num": 93835,
       "word": "美国网友劝阻想回美国的网红",
@@ -540,7 +732,7 @@
     },
     {
       "raw_hot": 88714,
-      "num": 88714,
+      "num": 94849,
       "word": "孙颖莎2025年最受品牌关注运动员TOP1",
       "onboard_time": 1768011080,
       "rank": 39,
@@ -561,6 +753,14 @@
       "onboard_time": 1767977477,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87449,
+      "num": 95005,
+      "word": "王莉获亚运三金后被禁止训练",
+      "onboard_time": 1768016479,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 86497,
@@ -611,12 +811,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79722,
+      "num": 92265,
+      "word": "DeepSeekV4被曝春节前后发布",
+      "onboard_time": 1768016180,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 79044,
       "num": 79044,
       "word": "平遥古城景区已报案",
       "onboard_time": 1768007600,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78320,
+      "num": 92043,
+      "word": "没人觉得洗澡很累吗",
+      "onboard_time": 1768016299,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 78249,
@@ -763,14 +979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 63054,
-      "num": 289206,
-      "word": "格陵兰岛居民说给钱也不加入美国",
-      "onboard_time": 1768011439,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 59346,
       "num": 97854,
       "word": "猫的树拍的陈星旭",
@@ -889,6 +1097,14 @@
       "onboard_time": 1767959960,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 45873,
+      "num": 100490,
+      "word": "哭哭马走红老板速开十多条生产线",
+      "onboard_time": 1768015402,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44682,
@@ -1011,6 +1227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 32778,
+      "num": 612619,
+      "word": "国有经济向新布局明显提速",
+      "onboard_time": 1768015460,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28342,
       "num": 31454,
       "word": "探索新境2",
@@ -1032,6 +1256,14 @@
       "word": "27项重大水利工程开工",
       "onboard_time": 1767967041,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23846,
+      "num": 95124,
+      "word": "这次是真的马倒成功了",
+      "onboard_time": 1768015939,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1086,6 +1318,9 @@
   "hotgov_list": [
     {
       "word": "#总书记指出扩大内需是战略之举#"
+    },
+    {
+      "word": "#习近平点赞公安英雄模范#"
     }
   ]
 }
