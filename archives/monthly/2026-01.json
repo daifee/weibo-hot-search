@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768028041979,
+  "endTime": 1768030027541,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1571,6 +1571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 580620,
+      "num": 559979,
+      "word": "老人离世前将27岁瘫痪养女送养老院",
+      "onboard_time": 1768025780,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 580217,
       "num": 1399643,
       "word": "江苏卫视大爆",
@@ -1672,14 +1680,6 @@
       "word": "剪断男婴手指助产士已停职",
       "onboard_time": 1767621203,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 559979,
-      "num": 559979,
-      "word": "老人离世前将27岁瘫痪养女送养老院",
-      "onboard_time": 1768025780,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -4187,6 +4187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 349752,
+      "num": 253062,
+      "word": "小猫还原自己摔伤的过程",
+      "onboard_time": 1768025659,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 349206,
       "num": 1055873,
       "word": "公积金改革都有哪些变化",
@@ -4500,7 +4508,7 @@
     },
     {
       "raw_hot": 328908,
-      "num": 130657,
+      "num": 138486,
       "word": "黄子韬住重庆胖到300斤",
       "onboard_time": 1768026082,
       "rank": 22,
@@ -4649,6 +4657,14 @@
       "onboard_time": 1767262160,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 322684,
+      "num": 565705,
+      "word": "麦当劳汉堡 马卡龙",
+      "onboard_time": 1768024280,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 322677,
@@ -5467,6 +5483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 283599,
+      "num": 212962,
+      "word": "于正 没见过比娜扎好看的女明星",
+      "onboard_time": 1768028840,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282342,
       "num": 422602,
       "word": "雷军现场直播拆小米YU7",
@@ -6129,6 +6153,14 @@
       "onboard_time": 1767869240,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 260003,
+      "num": 576751,
+      "word": "刘耀文陈浚铭最怕空气突然的安静",
+      "onboard_time": 1768026802,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 259934,
@@ -7387,14 +7419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 216322,
-      "num": 216322,
-      "word": "小猫还原自己摔伤的过程",
-      "onboard_time": 1768025659,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 215945,
       "num": 255123,
       "word": "檀健次湖南跨年舞台推荐第一",
@@ -8203,14 +8227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198011,
-      "num": 576751,
-      "word": "刘耀文陈浚铭最怕空气突然的安静",
-      "onboard_time": 1768026802,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197638,
       "num": 94016,
       "word": "于正说的85花顶流是张慧雯",
@@ -8961,6 +8977,14 @@
       "onboard_time": 1767585982,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186661,
+      "num": 186661,
+      "word": "这还是我认识的鹅鸭杀吗",
+      "onboard_time": 1768029201,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 186643,
@@ -12347,14 +12371,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 142638,
-      "num": 565705,
-      "word": "麦当劳汉堡 马卡龙",
-      "onboard_time": 1768024280,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
       "raw_hot": 142542,
       "num": 142542,
       "word": "Digi Ghetto",
@@ -13171,6 +13187,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 135871,
+      "num": 135871,
+      "word": "养鸡场一年亏损1500万",
+      "onboard_time": 1768029081,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135816,
       "num": 884411,
       "word": "Gr对战成都Wolves",
@@ -13443,6 +13467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133950,
+      "num": 133950,
+      "word": "这居然是王子奇写的",
+      "onboard_time": 1768028241,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133860,
       "num": 182779,
       "word": "老林哭了",
@@ -13625,6 +13657,14 @@
       "onboard_time": 1768012222,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 131234,
+      "num": 131234,
+      "word": "说话含糊 言语霸凌",
+      "onboard_time": 1768028721,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 131156,
@@ -14409,6 +14449,14 @@
       "onboard_time": 1767331940,
       "rank": 31,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 125226,
+      "num": 125226,
+      "word": "赵本山女儿新发型被调侃像父亲",
+      "onboard_time": 1768027041,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 125040,
@@ -15219,6 +15267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120160,
+      "num": 120160,
+      "word": "鹿晗代表作",
+      "onboard_time": 1768027701,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120129,
       "num": 120129,
       "word": "55岁林依轮线下状态",
@@ -15233,14 +15289,6 @@
       "onboard_time": 1767883944,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 120053,
-      "num": 120053,
-      "word": "赵本山女儿新发型被调侃像父亲",
-      "onboard_time": 1768027041,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 119958,
@@ -17955,6 +18003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102364,
+      "num": 102364,
+      "word": "收收心可以回去赶集了",
+      "onboard_time": 1768029621,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102336,
       "num": 102336,
       "word": "男子连吃3天火锅配猪蹄诱发胰腺炎",
@@ -18707,6 +18763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98521,
+      "num": 98521,
+      "word": "赵丽颖体制内干部感",
+      "onboard_time": 1768028122,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98514,
       "num": 96110,
       "word": "美军跨国绑架马杜罗只花了5分钟",
@@ -19091,6 +19155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97149,
+      "num": 97149,
+      "word": "辩积和两只小猫",
+      "onboard_time": 1768028661,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 97140,
       "num": 1002432,
       "word": "元旦",
@@ -19433,6 +19505,14 @@
       "onboard_time": 1767253401,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95755,
+      "num": 95755,
+      "word": "ADHD 炎症串联",
+      "onboard_time": 1768029142,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 95717,
@@ -20252,7 +20332,7 @@
     },
     {
       "raw_hot": 91980,
-      "num": 91980,
+      "num": 120695,
       "word": "中央纪委反腐大片即将开播",
       "onboard_time": 1768026862,
       "rank": 29,
@@ -20513,6 +20593,14 @@
       "onboard_time": 1767444686,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 90692,
+      "num": 121324,
+      "word": "男生为陌生老人夹断面条获数万点赞",
+      "onboard_time": 1768028122,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90673,
@@ -20905,6 +20993,14 @@
       "onboard_time": 1767860360,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88609,
+      "num": 88609,
+      "word": "林更新王彦霖这集我在楚乔传看过",
+      "onboard_time": 1768028241,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 88561,
@@ -21585,6 +21681,14 @@
       "onboard_time": 1767780802,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 85901,
+      "num": 79863,
+      "word": "刘耀文有多害怕吃不上这口青春饭",
+      "onboard_time": 1768029201,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 85881,
@@ -22347,14 +22451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 81925,
-      "num": 81925,
-      "word": "鹿晗代表作",
-      "onboard_time": 1768027701,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 81777,
       "num": 81777,
       "word": "怎么不等我出生前再告诉我",
@@ -22539,6 +22635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 80882,
+      "num": 80882,
+      "word": "火箭再负开拓者",
+      "onboard_time": 1768029501,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80863,
       "num": 80863,
       "word": "美国宣称扣押奥利娜油轮",
@@ -22689,6 +22793,14 @@
       "onboard_time": 1767429144,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79755,
+      "num": 79755,
+      "word": "杜兰特怒摔水瓶",
+      "onboard_time": 1768029201,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 79727,
@@ -22905,6 +23017,14 @@
       "onboard_time": 1767329419,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 78623,
+      "num": 78623,
+      "word": "笔本国产手机等集体调价",
+      "onboard_time": 1768029801,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 78435,
@@ -23393,6 +23513,14 @@
       "onboard_time": 1767231800,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 75689,
+      "num": 75689,
+      "word": "狗狗麻醉还没过但护主",
+      "onboard_time": 1768029440,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 75648,
@@ -24003,6 +24131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 71725,
+      "num": 71725,
+      "word": "陈梦说范思琦逆转让自己绷不住了",
+      "onboard_time": 1768029921,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71629,
       "num": 106477,
       "word": "网友分享日本东京街头景象",
@@ -24049,6 +24185,14 @@
       "onboard_time": 1767792444,
       "rank": 49,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 70778,
+      "num": 70778,
+      "word": "查理苏说入赘真是个好习俗",
+      "onboard_time": 1768029982,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 70770,
@@ -24809,6 +24953,14 @@
       "onboard_time": 1767361462,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65647,
+      "num": 79863,
+      "word": "两老人因拿女子1个纸箱被判赔0.2元",
+      "onboard_time": 1768029081,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65620,
@@ -26768,6 +26920,14 @@
       "word": "上海元旦登记结婚1551对",
       "onboard_time": 1767345139,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48535,
+      "num": 141198,
+      "word": "一等战斗功臣高翔逝世",
+      "onboard_time": 1768028840,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -30113,6 +30273,14 @@
       "onboard_time": 1767785424,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15296,
+      "num": 602396,
+      "word": "中国在2000米高空架起移动充电宝",
+      "onboard_time": 1768015220,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15077,

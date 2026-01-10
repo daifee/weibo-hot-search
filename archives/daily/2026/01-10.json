@@ -1,6 +1,6 @@
 {
   "startTime": 1767976730727,
-  "endTime": 1768028041979,
+  "endTime": 1768030027541,
   "band_list": [
     {
       "raw_hot": 3020265,
@@ -59,6 +59,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 580620,
+      "num": 559979,
+      "word": "老人离世前将27岁瘫痪养女送养老院",
+      "onboard_time": 1768025780,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 573912,
       "num": 240745,
       "word": "黄磊孙莉小儿子颜值",
@@ -73,14 +81,6 @@
       "onboard_time": 1768023140,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 559979,
-      "num": 559979,
-      "word": "老人离世前将27岁瘫痪养女送养老院",
-      "onboard_time": 1768025780,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 555532,
@@ -219,6 +219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 349752,
+      "num": 253062,
+      "word": "小猫还原自己摔伤的过程",
+      "onboard_time": 1768025659,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 344792,
       "num": 677989,
       "word": "宣布闭店后的宜家人满为患",
@@ -236,11 +244,19 @@
     },
     {
       "raw_hot": 328908,
-      "num": 130657,
+      "num": 138486,
       "word": "黄子韬住重庆胖到300斤",
       "onboard_time": 1768026082,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 322684,
+      "num": 565705,
+      "word": "麦当劳汉堡 马卡龙",
+      "onboard_time": 1768024280,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 321689,
@@ -283,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283599,
+      "num": 212962,
+      "word": "于正 没见过比娜扎好看的女明星",
+      "onboard_time": 1768028840,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277780,
       "num": 779622,
       "word": "美撤销对中国无人机所谓管制计划",
@@ -321,6 +345,14 @@
       "onboard_time": 1768017020,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 260003,
+      "num": 576751,
+      "word": "刘耀文陈浚铭最怕空气突然的安静",
+      "onboard_time": 1768026802,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 259934,
@@ -395,14 +427,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 216322,
-      "num": 216322,
-      "word": "小猫还原自己摔伤的过程",
-      "onboard_time": 1768025659,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 212038,
       "num": 145172,
       "word": "妻子整理遗物发现亡夫转情人1900万",
@@ -467,14 +491,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 198011,
-      "num": 576751,
-      "word": "刘耀文陈浚铭最怕空气突然的安静",
-      "onboard_time": 1768026802,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 189865,
       "num": 569366,
       "word": "日本一医院遗失放射性物质",
@@ -505,6 +521,14 @@
       "onboard_time": 1768015880,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 186661,
+      "num": 186661,
+      "word": "这还是我认识的鹅鸭杀吗",
+      "onboard_time": 1768029201,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 183861,
@@ -739,14 +763,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 142638,
-      "num": 565705,
-      "word": "麦当劳汉堡 马卡龙",
-      "onboard_time": 1768024280,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
       "raw_hot": 141977,
       "num": 141977,
       "word": "伊能静恩利母子大片",
@@ -795,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135871,
+      "num": 135871,
+      "word": "养鸡场一年亏损1500万",
+      "onboard_time": 1768029081,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135513,
       "num": 115725,
       "word": "王心凌穿了500条珠链在身上",
@@ -827,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133950,
+      "num": 133950,
+      "word": "这居然是王子奇写的",
+      "onboard_time": 1768028241,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132412,
       "num": 132412,
       "word": "猫的树真的很会拍",
@@ -857,6 +889,14 @@
       "onboard_time": 1768012222,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 131234,
+      "num": 131234,
+      "word": "说话含糊 言语霸凌",
+      "onboard_time": 1768028721,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 130418,
@@ -923,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125226,
+      "num": 125226,
+      "word": "赵本山女儿新发型被调侃像父亲",
+      "onboard_time": 1768027041,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122553,
       "num": 122553,
       "word": "乘风2026",
@@ -955,12 +1003,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120053,
-      "num": 120053,
-      "word": "赵本山女儿新发型被调侃像父亲",
-      "onboard_time": 1768027041,
+      "raw_hot": 120160,
+      "num": 120160,
+      "word": "鹿晗代表作",
+      "onboard_time": 1768027701,
       "rank": 42,
-      "category": "艺人"
+      "category": "综艺"
     },
     {
       "raw_hot": 119637,
@@ -1099,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102364,
+      "num": 102364,
+      "word": "收收心可以回去赶集了",
+      "onboard_time": 1768029621,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102233,
       "num": 95048,
       "word": "觉得倒霉的人可以看看李昀锐这段",
@@ -1171,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98521,
+      "num": 98521,
+      "word": "赵丽颖体制内干部感",
+      "onboard_time": 1768028122,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97630,
       "num": 97630,
       "word": "邵子恒不愧是在韩出道的断层C位",
@@ -1187,6 +1251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 97149,
+      "num": 97149,
+      "word": "辩积和两只小猫",
+      "onboard_time": 1768028661,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 97071,
       "num": 101501,
       "word": "金钱豹不语只是一味地伸手",
@@ -1201,6 +1273,14 @@
       "onboard_time": 1767959361,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95755,
+      "num": 95755,
+      "word": "ADHD 炎症串联",
+      "onboard_time": 1768029142,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 95634,
@@ -1300,7 +1380,7 @@
     },
     {
       "raw_hot": 91980,
-      "num": 91980,
+      "num": 120695,
       "word": "中央纪委反腐大片即将开播",
       "onboard_time": 1768026862,
       "rank": 29,
@@ -1313,6 +1393,14 @@
       "onboard_time": 1768023680,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 90692,
+      "num": 121324,
+      "word": "男生为陌生老人夹断面条获数万点赞",
+      "onboard_time": 1768028122,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89726,
@@ -1337,6 +1425,14 @@
       "onboard_time": 1768011080,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88609,
+      "num": 88609,
+      "word": "林更新王彦霖这集我在楚乔传看过",
+      "onboard_time": 1768028241,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 88113,
@@ -1403,6 +1499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85901,
+      "num": 79863,
+      "word": "刘耀文有多害怕吃不上这口青春饭",
+      "onboard_time": 1768029201,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85208,
       "num": 93459,
       "word": "雄鹿战胜湖人",
@@ -1451,20 +1555,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 81925,
-      "num": 81925,
-      "word": "鹿晗代表作",
-      "onboard_time": 1768027701,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 81006,
       "num": 126345,
       "word": "年度反腐大片",
       "onboard_time": 1768023740,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 80882,
+      "num": 80882,
+      "word": "火箭再负开拓者",
+      "onboard_time": 1768029501,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 80863,
@@ -1481,6 +1585,14 @@
       "onboard_time": 1768012039,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79755,
+      "num": 79755,
+      "word": "杜兰特怒摔水瓶",
+      "onboard_time": 1768029201,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 79722,
@@ -1505,6 +1617,14 @@
       "onboard_time": 1768007600,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78623,
+      "num": 78623,
+      "word": "笔本国产手机等集体调价",
+      "onboard_time": 1768029801,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 78320,
@@ -1553,6 +1673,14 @@
       "onboard_time": 1767949820,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 75689,
+      "num": 75689,
+      "word": "狗狗麻醉还没过但护主",
+      "onboard_time": 1768029440,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 75336,
@@ -1611,12 +1739,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 71725,
+      "num": 71725,
+      "word": "陈梦说范思琦逆转让自己绷不住了",
+      "onboard_time": 1768029921,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71524,
       "num": 71524,
       "word": "王腾回应红米贵了",
       "onboard_time": 1768010360,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 70778,
+      "num": 70778,
+      "word": "查理苏说入赘真是个好习俗",
+      "onboard_time": 1768029982,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 70566,
@@ -1657,6 +1801,14 @@
       "onboard_time": 1768018819,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 65647,
+      "num": 79863,
+      "word": "两老人因拿女子1个纸箱被判赔0.2元",
+      "onboard_time": 1768029081,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65533,
@@ -1816,6 +1968,14 @@
       "word": "教师拧断11岁男童胳膊事发地无监控",
       "onboard_time": 1767966681,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48535,
+      "num": 141198,
+      "word": "一等战斗功臣高翔逝世",
+      "onboard_time": 1768028840,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2073,6 +2233,14 @@
       "onboard_time": 1768023320,
       "rank": 19,
       "category": "舆论监督,体育"
+    },
+    {
+      "raw_hot": 15296,
+      "num": 602396,
+      "word": "中国在2000米高空架起移动充电宝",
+      "onboard_time": 1768015220,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14457,
