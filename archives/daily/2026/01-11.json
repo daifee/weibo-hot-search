@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768065970489,
+  "endTime": 1768066930488,
   "band_list": [
     {
       "raw_hot": 2076111,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 413792,
-      "num": 282575,
+      "num": 395756,
       "word": "运动员王某举报范某某情况基本属实",
       "onboard_time": 1768060342,
       "rank": 3,
@@ -235,6 +235,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 87179,
+      "num": 88694,
+      "word": "轧戏 男二",
+      "onboard_time": 1768065019,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80408,
       "num": 196069,
       "word": "麦当劳回应汉堡尺寸像马卡龙",
@@ -273,14 +281,6 @@
       "onboard_time": 1768059202,
       "rank": 28,
       "category": "民生新闻,体育"
-    },
-    {
-      "raw_hot": 72617,
-      "num": 88694,
-      "word": "轧戏 男二",
-      "onboard_time": 1768065019,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 69976,
@@ -339,6 +339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64189,
+      "num": 151338,
+      "word": "美国为啥一直在要格陵兰岛",
+      "onboard_time": 1768063639,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 63785,
       "num": 195588,
       "word": "李秋萍爸妈",
@@ -361,14 +369,6 @@
       "onboard_time": 1768057102,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 56371,
-      "num": 151338,
-      "word": "美国为啥一直在要格陵兰岛",
-      "onboard_time": 1768063639,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 54037,
@@ -435,20 +435,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45362,
+      "num": 87548,
+      "word": "白鹿下一季最期待的项目",
+      "onboard_time": 1768065858,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39827,
       "num": 151314,
       "word": "鹅鸭杀打台球",
       "onboard_time": 1768060221,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 38854,
-      "num": 87548,
-      "word": "白鹿下一季最期待的项目",
-      "onboard_time": 1768065858,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 36758,
@@ -459,12 +459,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 35435,
+      "num": 75124,
+      "word": "陈楚生深圳演唱会",
+      "onboard_time": 1768066577,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 32565,
       "num": 87281,
       "word": "歼20裸眼3D硬核海报",
       "onboard_time": 1768064419,
       "rank": 47,
       "category": "军事"
+    },
+    {
+      "raw_hot": 28286,
+      "num": 75123,
+      "word": "乙骨忧太订婚戒指出周边了",
+      "onboard_time": 1768066157,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 21948,
@@ -478,6 +494,9 @@
   "hotgov_list": [
     {
       "word": "#创新创造催生了新质生产力#"
+    },
+    {
+      "word": "#习近平心中的人民卫士#"
     }
   ]
 }
