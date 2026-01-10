@@ -1,0 +1,410 @@
+{
+  "runTime": 1768020883160,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 513643,
+        "num": 1082182,
+        "word": "流浪地球3",
+        "onboard_time": 1768011199,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 279637,
+        "num": 776684,
+        "word": "义乌产的哭哭马火了",
+        "onboard_time": 1768001777,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34826,
+        "num": 643547,
+        "word": "国有经济向新布局明显提速",
+        "onboard_time": 1768015460,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 392719,
+        "num": 392719,
+        "word": "TF家族荣耀之战演唱会官宣",
+        "onboard_time": 1768014560,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 263460,
+        "num": 263460,
+        "word": "四大电诈头目被押解回国舱内特写曝光",
+        "onboard_time": 1768017020,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 490924,
+        "num": 259191,
+        "word": "保温杯里带方便面一年买房了",
+        "onboard_time": 1768017261,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 340370,
+        "num": 253647,
+        "word": "金价",
+        "onboard_time": 1768017859,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 303664,
+        "num": 251179,
+        "word": "北约成员国开撕",
+        "onboard_time": 1768008139,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 247431,
+        "num": 247431,
+        "word": "女子上门喂猫两周赚7454元",
+        "onboard_time": 1768015701,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243487,
+        "num": 243487,
+        "word": "赵又廷张子枫新剧空降",
+        "onboard_time": 1768015402,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 522927,
+        "num": 240745,
+        "word": "黄磊孙莉小儿子颜值",
+        "onboard_time": 1768018459,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227007,
+        "num": 227007,
+        "word": "金价波动",
+        "onboard_time": 1768014920,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 476368,
+        "num": 201310,
+        "word": "范丞丞爸爸75岁状态",
+        "onboard_time": 1768010838,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309925,
+        "num": 195632,
+        "word": "彭小苒凌晨朋友圈发长文",
+        "onboard_time": 1768014079,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169377,
+        "num": 169377,
+        "word": "孙颖莎王楚钦出战新加坡大满贯",
+        "onboard_time": 1768020440,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286913,
+        "num": 166269,
+        "word": "蒋毅结过婚了",
+        "onboard_time": 1768014500,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201433,
+        "num": 164181,
+        "word": "千万网红出镜四年衣服都是自己做的",
+        "onboard_time": 1768014860,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 154219,
+        "num": 154219,
+        "word": "infj为什么很E",
+        "onboard_time": 1768017980,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56931,
+        "num": 153831,
+        "word": "马克龙谴责新帝国主义矛头直指美国",
+        "onboard_time": 1768019840,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29167,
+        "num": 153221,
+        "word": "美撤销对中国无人机所谓管制计划",
+        "onboard_time": 1768020381,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2475721,
+        "num": 152660,
+        "word": "刘一诺 没义务替檀健次承受抹黑",
+        "onboard_time": 1768014739,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189478,
+        "num": 152112,
+        "word": "张峻豪 狼来了",
+        "onboard_time": 1768017621,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138068,
+        "num": 151020,
+        "word": "在妻子孕期出轨博士后未给女子道歉",
+        "onboard_time": 1768002978,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179123,
+        "num": 150585,
+        "word": "黄子韬一秒听出鹿晗的歌",
+        "onboard_time": 1768019600,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165781,
+        "num": 149577,
+        "word": "程晓玥自曝二胎孕期食量惊人",
+        "onboard_time": 1768019181,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127113,
+        "num": 149032,
+        "word": "讨厌的人千万别塌房",
+        "onboard_time": 1768017500,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162642,
+        "num": 148590,
+        "word": "卢昱晓轧戏出圈镜头",
+        "onboard_time": 1768018880,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156720,
+        "num": 147878,
+        "word": "寻秦记他们都不看好你偏偏你最争气",
+        "onboard_time": 1768020082,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125811,
+        "num": 146948,
+        "word": "王莉举报训练基地主任猥亵女队员",
+        "onboard_time": 1768012340,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146888,
+        "num": 146888,
+        "word": "刘耀文说在四代面前自己算老了",
+        "onboard_time": 1768020680,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139297,
+        "num": 139297,
+        "word": "宇宙闪烁请注意",
+        "onboard_time": 1768020381,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127062,
+        "num": 130968,
+        "word": "新加坡大满贯参赛名单公布",
+        "onboard_time": 1768019780,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130418,
+        "num": 130418,
+        "word": "内娱终于有短剧把减肥讲透了",
+        "onboard_time": 1768019901,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130004,
+        "num": 130004,
+        "word": "侯明昊 首辅权臣有了脸",
+        "onboard_time": 1768020319,
+        "rank": 33,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 115860,
+        "num": 115860,
+        "word": "特朗普遭美石油巨头打脸",
+        "onboard_time": 1768017920,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128692,
+        "num": 115525,
+        "word": "女明星不进组前三甲刘亦菲李沁卢昱晓",
+        "onboard_time": 1768016419,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112967,
+        "num": 112967,
+        "word": "婆婆瞒着儿媳伙同儿子遗弃孙女",
+        "onboard_time": 1768020621,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112569,
+        "num": 112569,
+        "word": "医生称妊娠孕吐绝不是忍忍就过去",
+        "onboard_time": 1768012640,
+        "rank": 37,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 85386,
+        "num": 109278,
+        "word": "这就是老实人上综艺吗",
+        "onboard_time": 1768018819,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35105,
+        "num": 109037,
+        "word": "绿化带埋骨灰盒当地部门介入已移走",
+        "onboard_time": 1768019780,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122130,
+        "num": 109036,
+        "word": "王一博像跟着妈妈买菜的我",
+        "onboard_time": 1768018459,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109031,
+        "num": 109031,
+        "word": "刘一诺再次声明和檀健次好聚好散",
+        "onboard_time": 1768016541,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101177,
+        "num": 106412,
+        "word": "生下残疾女婴遭婆婆遗弃女子发声",
+        "onboard_time": 1768018998,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104520,
+        "num": 104520,
+        "word": "赵丽颖这段发言",
+        "onboard_time": 1768018039,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104051,
+        "num": 104051,
+        "word": "老婆跟人跑了还是跟你领导",
+        "onboard_time": 1768020139,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96643,
+        "num": 103972,
+        "word": "女子3天闪婚收20万彩礼拒同居",
+        "onboard_time": 1768020680,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103910,
+        "num": 103910,
+        "word": "100年以内没有人能认出这是杨洋",
+        "onboard_time": 1768011919,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94311,
+        "num": 100105,
+        "word": "火箭vs开拓者",
+        "onboard_time": 1768020319,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98808,
+        "num": 98808,
+        "word": "苏新皓快闪店人气",
+        "onboard_time": 1768019420,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94015,
+        "num": 98334,
+        "word": "中方沉痛哀悼丹羽宇一郎",
+        "onboard_time": 1768005258,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平点赞公安英雄模范#"
+    }
+  }
+}

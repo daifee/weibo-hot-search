@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768020162624,
+  "endTime": 1768020883160,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 3020265,
-      "num": 139226,
+      "num": 152660,
       "word": "刘一诺 没义务替檀健次承受抹黑",
       "onboard_time": 1768014739,
       "rank": 20,
@@ -2043,6 +2043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 522927,
+      "num": 240745,
+      "word": "黄磊孙莉小儿子颜值",
+      "onboard_time": 1768018459,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 522348,
       "num": 425186,
       "word": "ICE枪杀",
@@ -2161,6 +2169,14 @@
       "onboard_time": 1767780203,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 513643,
+      "num": 1082182,
+      "word": "流浪地球3",
+      "onboard_time": 1768011199,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 511362,
@@ -2379,28 +2395,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 495675,
-      "num": 1079308,
-      "word": "流浪地球3",
-      "onboard_time": 1768011199,
-      "rank": 20,
-      "category": "电影"
-    },
-    {
       "raw_hot": 495094,
       "num": 419412,
       "word": "瑞士冻结马杜罗在瑞资产",
       "onboard_time": 1767614420,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 494287,
-      "num": 281799,
-      "word": "林屿森聂曦光开荤了",
-      "onboard_time": 1767668480,
-      "rank": 12,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
