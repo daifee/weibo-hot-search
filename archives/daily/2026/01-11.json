@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768116529057,
+  "endTime": 1768117322077,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 717720,
+      "num": 545076,
+      "word": "死了么APP发文回应",
+      "onboard_time": 1768115301,
+      "rank": 3,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 714958,
       "num": 256854,
       "word": "卢昱晓 别扒了别扒了",
@@ -155,14 +163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 545076,
-      "num": 545076,
-      "word": "死了么APP发文回应",
-      "onboard_time": 1768115301,
-      "rank": 3,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 506991,
       "num": 506991,
       "word": "云初令开机",
@@ -193,6 +193,14 @@
       "onboard_time": 1768095199,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 445670,
+      "num": 445670,
+      "word": "KK园区彻底清零",
+      "onboard_time": 1768112901,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 442685,
@@ -233,14 +241,6 @@
       "onboard_time": 1768103420,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 413748,
-      "num": 413748,
-      "word": "KK园区彻底清零",
-      "onboard_time": 1768112901,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 410699,
@@ -299,7 +299,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 338001,
+      "raw_hot": 338267,
       "num": 338001,
       "word": "扁扁咪 鼓鼓咪",
       "onboard_time": 1768111881,
@@ -411,6 +411,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 254599,
+      "num": 134137,
+      "word": "时代峰峻致歉王橹杰",
+      "onboard_time": 1768116262,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 246273,
+      "num": 1039403,
+      "word": "救援队被秦岭遇难者家属起诉一审结束",
+      "onboard_time": 1768108580,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 238942,
       "num": 238942,
       "word": "15年前的iPhone4S开箱",
@@ -441,14 +457,6 @@
       "onboard_time": 1768086554,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 224788,
-      "num": 1035966,
-      "word": "救援队被秦岭遇难者家属起诉一审结束",
-      "onboard_time": 1768108580,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 223783,
@@ -483,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211832,
+      "num": 760367,
+      "word": "夫妻卖10元盒饭20年挣2套房",
+      "onboard_time": 1768110741,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200980,
       "num": 200980,
       "word": "麻六记的酸辣粉为何卖不动了",
@@ -500,7 +516,7 @@
     },
     {
       "raw_hot": 194972,
-      "num": 134557,
+      "num": 134611,
       "word": "王俊凯跨年纪录片",
       "onboard_time": 1768115841,
       "rank": 16,
@@ -513,14 +529,6 @@
       "onboard_time": 1768109181,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192798,
-      "num": 748906,
-      "word": "夫妻卖10元盒饭20年挣2套房",
-      "onboard_time": 1768110741,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 191743,
@@ -595,6 +603,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 174616,
+      "num": 215513,
+      "word": "日本一餐厅墙内发现女尸",
+      "onboard_time": 1768115781,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 172938,
       "num": 257183,
       "word": "偷挖三百平地下室业主赔每户1500",
@@ -617,6 +633,14 @@
       "onboard_time": 1768112182,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170795,
+      "num": 214368,
+      "word": "AI登顶LOL韩服",
+      "onboard_time": 1768116201,
+      "rank": 34,
+      "category": "互联网,游戏"
     },
     {
       "raw_hot": 169932,
@@ -675,6 +699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 157831,
+      "num": 157831,
+      "word": "死了么APP感谢大家对新名称建议",
+      "onboard_time": 1768115781,
+      "rank": 15,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 157309,
       "num": 286230,
       "word": "为什么干婚的中年人越来越多了",
@@ -715,14 +747,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 146485,
-      "num": 134137,
-      "word": "时代峰峻致歉王橹杰",
-      "onboard_time": 1768116262,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 146137,
       "num": 146137,
       "word": "谢娜的菜来了",
@@ -747,6 +771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 139496,
+      "num": 125424,
+      "word": "小腿出现这个变化建议查查血糖",
+      "onboard_time": 1768115661,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 136943,
       "num": 134428,
       "word": "女子先嫁2人未离婚又跟9人结离婚",
@@ -755,20 +787,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136656,
+      "num": 136656,
+      "word": "何炅这段话值得每个女孩背诵",
+      "onboard_time": 1768116500,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134848,
       "num": 134848,
       "word": "特朗普听取军事打击伊朗的方案",
       "onboard_time": 1768098321,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 134584,
-      "num": 134584,
-      "word": "死了么APP感谢大家对新名称建议",
-      "onboard_time": 1768115781,
-      "rank": 15,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 134377,
@@ -939,20 +971,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 108288,
-      "num": 118828,
-      "word": "小腿出现这个变化建议查查血糖",
-      "onboard_time": 1768115661,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 107941,
       "num": 124288,
       "word": "苍兰诀云初令是一个地方开机",
       "onboard_time": 1768108520,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106799,
+      "num": 122703,
+      "word": "一个班学生集体退货演出服",
+      "onboard_time": 1768113861,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106567,
@@ -1011,14 +1043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 101415,
-      "num": 102273,
-      "word": "AI登顶LOL韩服",
-      "onboard_time": 1768116201,
-      "rank": 34,
-      "category": "互联网,游戏"
-    },
-    {
       "raw_hot": 101015,
       "num": 90685,
       "word": "赵丽颖朱超艺 二搭",
@@ -1035,20 +1059,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100208,
-      "num": 122703,
-      "word": "一个班学生集体退货演出服",
-      "onboard_time": 1768113861,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99809,
       "num": 196320,
       "word": "飞机延误中国大妈带中外友人练八段锦",
       "onboard_time": 1768057162,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98934,
+      "num": 98934,
+      "word": "体面碎了 赵又廷的演技立住了",
+      "onboard_time": 1768116440,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 98579,
@@ -1219,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85267,
+      "num": 89693,
+      "word": "iPhone4需求激增近1000%",
+      "onboard_time": 1768117099,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 83398,
       "num": 83398,
       "word": "法国司法部长撞脸赵本山",
@@ -1241,14 +1273,6 @@
       "onboard_time": 1768105521,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 81285,
-      "num": 81285,
-      "word": "体面碎了 赵又廷的演技立住了",
-      "onboard_time": 1768116440,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 81217,
@@ -1321,6 +1345,14 @@
       "onboard_time": 1768098920,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 80090,
+      "num": 80090,
+      "word": "张云龙云初令路透",
+      "onboard_time": 1768116862,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 80046,
@@ -1443,14 +1475,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 74982,
-      "num": 100571,
-      "word": "何炅这段话值得每个女孩背诵",
-      "onboard_time": 1768116500,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 74819,
       "num": 126451,
       "word": "老君山现神光宝轮超惊艳",
@@ -1480,6 +1504,14 @@
       "word": "毕业15年小伙救了同班同学的孩子",
       "onboard_time": 1768098920,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72283,
+      "num": 88870,
+      "word": "茶颜悦色门店售卖过期奶酥菠萝包",
+      "onboard_time": 1768114162,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1691,12 +1723,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 58473,
-      "num": 100295,
-      "word": "日本一餐厅墙内发现女尸",
-      "onboard_time": 1768115781,
-      "rank": 39,
-      "category": "海外新闻"
+      "raw_hot": 57757,
+      "num": 134440,
+      "word": "委代总统宣誓将解救马杜罗",
+      "onboard_time": 1768115841,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 54037,
@@ -1819,14 +1851,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 39703,
-      "num": 134440,
-      "word": "委代总统宣誓将解救马杜罗",
-      "onboard_time": 1768115841,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 39192,
       "num": 39192,
       "word": "范某某索要奖金被立案",
@@ -1939,6 +1963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24817,
+      "num": 134396,
+      "word": "从委内瑞拉看美国电力战威胁",
+      "onboard_time": 1768116080,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 24541,
       "num": 101115,
       "word": "患精神病男子借宿同学家行凶最新进展",
@@ -1947,7 +1979,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23730,
+      "raw_hot": 24331,
       "num": 627232,
       "word": "歼20带来的满满安全感",
       "onboard_time": 1768101499,
@@ -1993,14 +2025,6 @@
       "onboard_time": 1768078333,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20456,
-      "num": 134396,
-      "word": "从委内瑞拉看美国电力战威胁",
-      "onboard_time": 1768116080,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 20114,
@@ -2049,14 +2073,6 @@
       "onboard_time": 1768068796,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 10424,
-      "num": 88870,
-      "word": "茶颜悦色门店售卖过期奶酥菠萝包",
-      "onboard_time": 1768114162,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9496,

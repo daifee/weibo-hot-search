@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768116529057,
+  "endTime": 1768117322077,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1243,6 +1243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 717720,
+      "num": 545076,
+      "word": "死了么APP发文回应",
+      "onboard_time": 1768115301,
+      "rank": 3,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 714958,
       "num": 256854,
       "word": "卢昱晓 别扒了别扒了",
@@ -2089,14 +2097,6 @@
       "onboard_time": 1767756561,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 545076,
-      "num": 545076,
-      "word": "死了么APP发文回应",
-      "onboard_time": 1768115301,
-      "rank": 3,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 544794,

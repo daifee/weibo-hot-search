@@ -1,0 +1,410 @@
+{
+  "runTime": 1768117322077,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 246273,
+        "num": 1039403,
+        "word": "救援队被秦岭遇难者家属起诉一审结束",
+        "onboard_time": 1768108580,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211832,
+        "num": 760367,
+        "word": "夫妻卖10元盒饭20年挣2套房",
+        "onboard_time": 1768110741,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24331,
+        "num": 580120,
+        "word": "歼20带来的满满安全感",
+        "onboard_time": 1768101499,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 445670,
+        "num": 445670,
+        "word": "KK园区彻底清零",
+        "onboard_time": 1768112901,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 221259,
+        "num": 221259,
+        "word": "美国蜜雪冰城含糖量",
+        "onboard_time": 1768110559,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 338267,
+        "num": 220473,
+        "word": "扁扁咪 鼓鼓咪",
+        "onboard_time": 1768111881,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 335610,
+        "num": 219307,
+        "word": "AI照片竟然拿了摄影比赛第一名",
+        "onboard_time": 1768108461,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235401,
+        "num": 217104,
+        "word": "奔跑吧节目组还没联系邵子恒吗",
+        "onboard_time": 1768113441,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174616,
+        "num": 215513,
+        "word": "日本一餐厅墙内发现女尸",
+        "onboard_time": 1768115781,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 170795,
+        "num": 214368,
+        "word": "AI登顶LOL韩服",
+        "onboard_time": 1768116201,
+        "rank": 9,
+        "category": "互联网,游戏"
+      },
+      {
+        "raw_hot": 717720,
+        "num": 212961,
+        "word": "死了么APP发文回应",
+        "onboard_time": 1768115301,
+        "rank": 10,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 478491,
+        "num": 211714,
+        "word": "卢昱晓 别扒了别扒了",
+        "onboard_time": 1768110260,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211109,
+        "num": 211109,
+        "word": "王俊凯丁禹兮鞠婧祎QQ音乐预热",
+        "onboard_time": 1768114821,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157831,
+        "num": 157831,
+        "word": "死了么APP感谢大家对新名称建议",
+        "onboard_time": 1768115781,
+        "rank": 13,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 210828,
+        "num": 153708,
+        "word": "虞书欣张云龙开机照",
+        "onboard_time": 1768105700,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141545,
+        "num": 141545,
+        "word": "麻六记的酸辣粉为何卖不动了",
+        "onboard_time": 1768105341,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 136656,
+        "num": 136656,
+        "word": "何炅这段话值得每个女孩背诵",
+        "onboard_time": 1768116500,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146769,
+        "num": 134611,
+        "word": "王俊凯跨年纪录片",
+        "onboard_time": 1768115841,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128716,
+        "num": 128716,
+        "word": "偷挖三百平地下室业主赔每户1500",
+        "onboard_time": 1768110800,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40498,
+        "num": 128428,
+        "word": "混动王炸一车传三代隔年油还在",
+        "onboard_time": 1768115182,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 4996676,
+        "num": 128268,
+        "word": "小澈发检测报告",
+        "onboard_time": 1768114701,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 254599,
+        "num": 127917,
+        "word": "时代峰峻致歉王橹杰",
+        "onboard_time": 1768116262,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174988,
+        "num": 127338,
+        "word": "被体制内大佬的工作留痕震撼到了",
+        "onboard_time": 1768110981,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 646273,
+        "num": 127137,
+        "word": "方圆回应小澈在她家住半个月",
+        "onboard_time": 1768104200,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 24817,
+        "num": 126785,
+        "word": "从委内瑞拉看美国电力战威胁",
+        "onboard_time": 1768116080,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 215075,
+        "num": 126474,
+        "word": "刘一诺直播回应和檀健次的恋情",
+        "onboard_time": 1768097721,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286962,
+        "num": 126069,
+        "word": "小澈脱粉粉丝爆料",
+        "onboard_time": 1768103420,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 139496,
+        "num": 125424,
+        "word": "小腿出现这个变化建议查查血糖",
+        "onboard_time": 1768115661,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180032,
+        "num": 125002,
+        "word": "黄晓明吃泡面这段太有生活了",
+        "onboard_time": 1768111821,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124990,
+        "num": 124990,
+        "word": "Amy姐说林俊杰前任美商很高",
+        "onboard_time": 1768109601,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114711,
+        "num": 114711,
+        "word": "成毅两京十五日路透",
+        "onboard_time": 1768116021,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106799,
+        "num": 106799,
+        "word": "一个班学生集体退货演出服",
+        "onboard_time": 1768113861,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103257,
+        "num": 103257,
+        "word": "金价银价大幅波动原因",
+        "onboard_time": 1768116201,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 101370,
+        "num": 101370,
+        "word": "小城大事生万物首日收视率对比",
+        "onboard_time": 1768107620,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98934,
+        "num": 98934,
+        "word": "体面碎了 赵又廷的演技立住了",
+        "onboard_time": 1768116440,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85267,
+        "num": 89693,
+        "word": "iPhone4需求激增近1000%",
+        "onboard_time": 1768117099,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 89238,
+        "num": 89238,
+        "word": "冯小刚带女儿出席芭莎活动",
+        "onboard_time": 1768107679,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87196,
+        "num": 87196,
+        "word": "彭小苒零下10度穿无袖",
+        "onboard_time": 1768112182,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80899,
+        "num": 87076,
+        "word": "北欧五国联合声明",
+        "onboard_time": 1768115001,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86989,
+        "num": 86989,
+        "word": "张凌赫首个千万赞视频",
+        "onboard_time": 1768104139,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86084,
+        "num": 86084,
+        "word": "dora退出3unshine",
+        "onboard_time": 1768110860,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78206,
+        "num": 85777,
+        "word": "死了么APP呼吁关注独居群体",
+        "onboard_time": 1768116381,
+        "rank": 41,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 85649,
+        "num": 85649,
+        "word": "赵丽颖被道具砸懵了",
+        "onboard_time": 1768111461,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57757,
+        "num": 84738,
+        "word": "委代总统宣誓将解救马杜罗",
+        "onboard_time": 1768115841,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84231,
+        "num": 84231,
+        "word": "玉茗茶骨女鬼缠书生原来这么好嗑",
+        "onboard_time": 1768115540,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82248,
+        "num": 82248,
+        "word": "岳云鹏回应今年不上春晚",
+        "onboard_time": 1768102758,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78107,
+        "num": 81859,
+        "word": "被美国奶茶的含糖量惊到了",
+        "onboard_time": 1768106061,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 81607,
+        "num": 81607,
+        "word": "唐宫奇案",
+        "onboard_time": 1768097721,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80090,
+        "num": 80090,
+        "word": "张云龙云初令路透",
+        "onboard_time": 1768116862,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72283,
+        "num": 72283,
+        "word": "茶颜悦色门店售卖过期奶酥菠萝包",
+        "onboard_time": 1768114162,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#领悟总书记全面从严治党之喻#"
+    }
+  }
+}
