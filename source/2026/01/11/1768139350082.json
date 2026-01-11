@@ -1,0 +1,410 @@
+{
+  "runTime": 1768139350082,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 697958,
+        "num": 1111673,
+        "word": "国乒无缘多哈冠军赛男单决赛",
+        "onboard_time": 1768133660,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 546150,
+        "num": 778370,
+        "word": "烟台暴雪下冒烟了",
+        "onboard_time": 1768134981,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24395,
+        "num": 649142,
+        "word": "中国农民种地科技感拉满",
+        "onboard_time": 1768138883,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 414015,
+        "num": 414015,
+        "word": "赵丽颖台词",
+        "onboard_time": 1768131441,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333057,
+        "num": 333057,
+        "word": "车厘子几个J一下看明白了",
+        "onboard_time": 1768133841,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325041,
+        "num": 325041,
+        "word": "林诗栋已连续11个月男单无冠",
+        "onboard_time": 1768137202,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295220,
+        "num": 295220,
+        "word": "轧戏剧组道歉",
+        "onboard_time": 1768128140,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276548,
+        "num": 276548,
+        "word": "家长背婴儿跑步致其脑袋剧烈摇晃",
+        "onboard_time": 1768135341,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272575,
+        "num": 272575,
+        "word": "小城大事",
+        "onboard_time": 1768131201,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38920,
+        "num": 251683,
+        "word": "唐仁健生日成收割老板的盛会",
+        "onboard_time": 1768138222,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 662855,
+        "num": 251626,
+        "word": "拍婚纱照偶遇陈哲远后续",
+        "onboard_time": 1768133960,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 626836,
+        "num": 251406,
+        "word": "单依纯 香奈儿",
+        "onboard_time": 1768130661,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247810,
+        "num": 247810,
+        "word": "iPhone4需求激增近1000%",
+        "onboard_time": 1768117099,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 383591,
+        "num": 239772,
+        "word": "王玉雯自己P的图",
+        "onboard_time": 1768137202,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259386,
+        "num": 236295,
+        "word": "那英 我上过浪姐你们不懂",
+        "onboard_time": 1768138102,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230326,
+        "num": 230326,
+        "word": "张本智和vs林昀儒",
+        "onboard_time": 1768137142,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 379813,
+        "num": 229939,
+        "word": "陈哲远 三个人的婚礼有点拥挤",
+        "onboard_time": 1768136122,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215898,
+        "num": 215898,
+        "word": "张本智和3比4林昀儒",
+        "onboard_time": 1768137922,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205282,
+        "num": 205282,
+        "word": "李昊屡献神扑",
+        "onboard_time": 1768138942,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109770,
+        "num": 202218,
+        "word": "10人违规吃喝1人死亡9人被处理",
+        "onboard_time": 1768138642,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 641659,
+        "num": 194995,
+        "word": "闫学晶之子就读中戏新疆班不实",
+        "onboard_time": 1768133361,
+        "rank": 20,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 484720,
+        "num": 190233,
+        "word": "刘一诺说和檀健次谈恋爱没给她什么戏",
+        "onboard_time": 1768137622,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211650,
+        "num": 185627,
+        "word": "男子出门打工9个月回家女友怀孕了",
+        "onboard_time": 1768134561,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182687,
+        "num": 182687,
+        "word": "U23国足vs澳大利亚",
+        "onboard_time": 1768134622,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 342486,
+        "num": 182587,
+        "word": "卫健局将调查疑小澈住院记录曝光",
+        "onboard_time": 1768128381,
+        "rank": 24,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 220455,
+        "num": 180988,
+        "word": "娜扎给工作人员每人发1000元",
+        "onboard_time": 1768135463,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178809,
+        "num": 178809,
+        "word": "河南10名干部违规吃喝1人死亡",
+        "onboard_time": 1768138462,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184787,
+        "num": 171637,
+        "word": "代旭给卢昱晓打伞有鬼怪那味了",
+        "onboard_time": 1768138822,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179647,
+        "num": 164480,
+        "word": "阿信想去看刘宇宁演唱会",
+        "onboard_time": 1768138701,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151487,
+        "num": 151487,
+        "word": "你以为断网的老干妈悄悄赚了54亿",
+        "onboard_time": 1768133660,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163955,
+        "num": 144497,
+        "word": "冯小刚女儿颜值",
+        "onboard_time": 1768128200,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152255,
+        "num": 142887,
+        "word": "红果年度大赏",
+        "onboard_time": 1768134862,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136072,
+        "num": 136072,
+        "word": "2026亚足联U23亚洲杯",
+        "onboard_time": 1768139003,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138434,
+        "num": 135709,
+        "word": "演员夫妻回应撞死人后拉黑遗属",
+        "onboard_time": 1768123040,
+        "rank": 33,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 22501,
+        "num": 135286,
+        "word": "借宿杀人案凶手精神鉴定改限定刑责",
+        "onboard_time": 1768137982,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135209,
+        "num": 135209,
+        "word": "辽粤大战",
+        "onboard_time": 1768138523,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132520,
+        "num": 132520,
+        "word": "侯明昊 这是能说的话吗",
+        "onboard_time": 1768139122,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129866,
+        "num": 129866,
+        "word": "早上刷牙的真正目的是清除牙菌斑",
+        "onboard_time": 1768133361,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 42171,
+        "num": 127896,
+        "word": "严查违规吃喝背后的团团伙伙",
+        "onboard_time": 1768137922,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127696,
+        "num": 127696,
+        "word": "发朋友圈前先回复消息",
+        "onboard_time": 1768136961,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124974,
+        "num": 124974,
+        "word": "杨博文第一次演戏的片段",
+        "onboard_time": 1768138462,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123327,
+        "num": 123327,
+        "word": "U23国足1比0澳大利亚U23",
+        "onboard_time": 1768139302,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122325,
+        "num": 122325,
+        "word": "玉簟秋拍摄效率",
+        "onboard_time": 1768137023,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119785,
+        "num": 119785,
+        "word": "得闲谨制",
+        "onboard_time": 1768139122,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117831,
+        "num": 117831,
+        "word": "人参酒里泡3年突然长出绿叶",
+        "onboard_time": 1768139183,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6459,
+        "num": 117291,
+        "word": "天马1000无人运输机成功首飞",
+        "onboard_time": 1768099340,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116907,
+        "num": 116907,
+        "word": "00后真的上年纪了",
+        "onboard_time": 1768128322,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115420,
+        "num": 115420,
+        "word": "女子每天化精致眼妆睫毛藏6条螨虫",
+        "onboard_time": 1768119200,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115228,
+        "num": 115228,
+        "word": "莫雷加德采访回应比赛视线受干扰",
+        "onboard_time": 1768138822,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111904,
+        "num": 111904,
+        "word": "U23国足领先澳大利亚",
+        "onboard_time": 1768135043,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#反腐大片一步不停歇半步不退让#"
+    }
+  }
+}
