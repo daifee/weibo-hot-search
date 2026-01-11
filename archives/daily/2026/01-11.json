@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768109620018,
+  "endTime": 1768110539838,
   "band_list": [
     {
       "raw_hot": 2076111,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1563752,
-      "num": 111785,
+      "num": 133605,
       "word": "方圆回应小澈在她家住半个月",
       "onboard_time": 1768104200,
       "rank": 21,
@@ -67,6 +67,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 806487,
+      "num": 131702,
+      "word": "小澈刚复播",
+      "onboard_time": 1768108641,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 781021,
       "num": 196710,
       "word": "檀健次 知道我多坚强了吧",
@@ -81,6 +89,14 @@
       "onboard_time": 1768058062,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 667067,
+      "num": 1106730,
+      "word": "AI照片竟然拿了摄影比赛第一名",
+      "onboard_time": 1768108461,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 664884,
@@ -99,6 +115,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 587201,
+      "num": 340245,
+      "word": "死了么app创始人称已实现盈利",
+      "onboard_time": 1768104560,
+      "rank": 19,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 552604,
       "num": 1088416,
       "word": "河南新蔡通报13岁男生宿舍内死亡",
@@ -113,22 +137,6 @@
       "onboard_time": 1768097721,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 521106,
-      "num": 340245,
-      "word": "死了么app创始人称已实现盈利",
-      "onboard_time": 1768104560,
-      "rank": 19,
-      "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 510061,
-      "num": 106409,
-      "word": "小澈刚复播",
-      "onboard_time": 1768108641,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 506991,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 414718,
-      "num": 108304,
+      "num": 128029,
       "word": "小澈脱粉粉丝爆料",
       "onboard_time": 1768103420,
       "rank": 23,
@@ -225,6 +233,14 @@
       "onboard_time": 1768058482,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 405858,
+      "num": 829163,
+      "word": "英伟达要求中国客户预付全款",
+      "onboard_time": 1768108461,
+      "rank": 3,
+      "category": "互联网"
     },
     {
       "raw_hot": 393516,
@@ -275,28 +291,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 324199,
-      "num": 324199,
-      "word": "英伟达要求中国客户预付全款",
-      "onboard_time": 1768108461,
-      "rank": 3,
-      "category": "互联网"
+      "raw_hot": 321209,
+      "num": 321209,
+      "word": "被美国奶茶的含糖量惊到了",
+      "onboard_time": 1768106061,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 317640,
-      "num": 107165,
+      "num": 124810,
       "word": "张凌赫首个千万赞视频",
       "onboard_time": 1768104139,
       "rank": 25,
       "category": "艺人"
     },
     {
-      "raw_hot": 316341,
-      "num": 316341,
-      "word": "被美国奶茶的含糖量惊到了",
-      "onboard_time": 1768106061,
-      "rank": 4,
-      "category": "美食"
+      "raw_hot": 315624,
+      "num": 784724,
+      "word": "小城大事生万物首日收视率对比",
+      "onboard_time": 1768107620,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 282139,
@@ -304,14 +320,6 @@
       "word": "云初令",
       "onboard_time": 1768055483,
       "rank": 4,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 281023,
-      "num": 784724,
-      "word": "小城大事生万物首日收视率对比",
-      "onboard_time": 1768107620,
-      "rank": 1,
       "category": "剧集"
     },
     {
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 234074,
-      "num": 102414,
+      "num": 127198,
       "word": "小澈直播时就有其他网红暗示了",
       "onboard_time": 1768105221,
       "rank": 29,
@@ -363,16 +371,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 223548,
-      "num": 223548,
-      "word": "AI照片竟然拿了摄影比赛第一名",
-      "onboard_time": 1768108461,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 220800,
-      "num": 101291,
+      "num": 103799,
       "word": "方圆说自己没事",
       "onboard_time": 1768105281,
       "rank": 32,
@@ -395,8 +395,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200010,
-      "num": 192829,
+      "raw_hot": 200980,
+      "num": 200980,
       "word": "麻六记的酸辣粉为何卖不动了",
       "onboard_time": 1768105341,
       "rank": 30,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 193051,
-      "num": 101661,
+      "num": 125883,
       "word": "刘一诺说从未主动爆料檀健次",
       "onboard_time": 1768109181,
       "rank": 34,
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 185852,
-      "num": 100959,
+      "num": 125176,
       "word": "冯小刚带女儿出席芭莎活动",
       "onboard_time": 1768107679,
       "rank": 40,
@@ -449,6 +449,14 @@
       "onboard_time": 1768102640,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183906,
+      "num": 126134,
+      "word": "时代峰峻下架王橹杰音效争议视频",
+      "onboard_time": 1768110500,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 180473,
@@ -539,6 +547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156309,
+      "num": 156309,
+      "word": "卢昱晓 别扒了别扒了",
+      "onboard_time": 1768110260,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156116,
       "num": 156116,
       "word": "明日方舟",
@@ -561,6 +577,14 @@
       "onboard_time": 1768103420,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 151351,
+      "num": 151351,
+      "word": "救援队被秦岭遇难者家属起诉一审结束",
+      "onboard_time": 1768108580,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146137,
@@ -611,20 +635,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 128715,
+      "num": 128715,
+      "word": "萝卜纸巾猫为什么火了",
+      "onboard_time": 1768107861,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127853,
       "num": 196147,
       "word": "轧戏",
       "onboard_time": 1768046421,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126202,
-      "num": 106505,
-      "word": "萝卜纸巾猫为什么火了",
-      "onboard_time": 1768107861,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123630,
@@ -635,8 +659,16 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 122541,
+      "num": 122541,
+      "word": "向佐你这样我有点陌生",
+      "onboard_time": 1768109120,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122438,
-      "num": 106377,
+      "num": 127898,
       "word": "曝美军方抵制入侵格陵兰岛计划",
       "onboard_time": 1768108760,
       "rank": 24,
@@ -675,14 +707,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 116657,
-      "num": 100885,
-      "word": "向佐你这样我有点陌生",
-      "onboard_time": 1768109120,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116236,
       "num": 196800,
       "word": "孙颖莎韩莹交手记录",
@@ -699,12 +723,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111788,
-      "num": 111788,
-      "word": "救援队被秦岭遇难者家属起诉一审结束",
-      "onboard_time": 1768108580,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 111121,
+      "num": 111121,
+      "word": "Amy姐说林俊杰前任美商很高",
+      "onboard_time": 1768109601,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 111034,
+      "num": 111034,
+      "word": "王心凌昨天陶艾青今天查美乐",
+      "onboard_time": 1768109361,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 110607,
@@ -712,6 +744,14 @@
       "word": "黄晓明从接剧本就在背道歉台词",
       "onboard_time": 1768104319,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 107941,
+      "num": 124288,
+      "word": "苍兰诀云初令是一个地方开机",
+      "onboard_time": 1768108520,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -732,7 +772,7 @@
     },
     {
       "raw_hot": 102282,
-      "num": 102282,
+      "num": 126978,
       "word": "大爷5岁走失回家已72岁",
       "onboard_time": 1768108461,
       "rank": 28,
@@ -779,14 +819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98588,
-      "num": 98588,
-      "word": "王心凌昨天陶艾青今天查美乐",
-      "onboard_time": 1768109361,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 98579,
       "num": 102131,
       "word": "光与夜之恋",
@@ -827,14 +859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95348,
-      "num": 95348,
-      "word": "Amy姐说林俊杰前任美商很高",
-      "onboard_time": 1768109601,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 94858,
       "num": 94858,
       "word": "热乎饭的正确打开方式",
@@ -849,14 +873,6 @@
       "onboard_time": 1768105521,
       "rank": 42,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 94644,
-      "num": 101336,
-      "word": "苍兰诀云初令是一个地方开机",
-      "onboard_time": 1768108520,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 94141,
@@ -979,6 +995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 80977,
+      "num": 124057,
+      "word": "王欣瑜vs斯维托丽娜",
+      "onboard_time": 1768110500,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80542,
       "num": 80542,
       "word": "上海2000平的豪华别墅",
@@ -1060,7 +1084,7 @@
     },
     {
       "raw_hot": 77126,
-      "num": 637713,
+      "num": 661368,
       "word": "中国扫地机器人扫全球",
       "onboard_time": 1768101981,
       "rank": 2,
@@ -1075,12 +1099,36 @@
       "category": "民生新闻,体育"
     },
     {
+      "raw_hot": 75619,
+      "num": 111058,
+      "word": "高敏感的人能察觉到微妙的恶意",
+      "onboard_time": 1768109661,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 74819,
+      "num": 126451,
+      "word": "老君山现神光宝轮超惊艳",
+      "onboard_time": 1768110140,
+      "rank": 29,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 73810,
       "num": 263524,
       "word": "名侦探柯南最唯美的主题曲",
       "onboard_time": 1768097600,
       "rank": 9,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 73609,
+      "num": 103925,
+      "word": "中国警察缅北守护中国公民尸体",
+      "onboard_time": 1768109781,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72716,
@@ -1355,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43673,
+      "num": 123479,
+      "word": "哭哭马 将错就错",
+      "onboard_time": 1768109361,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42523,
       "num": 42523,
       "word": "王玉雯我再也不画了",
@@ -1377,14 +1433,6 @@
       "onboard_time": 1768060221,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 39620,
-      "num": 101220,
-      "word": "哭哭马 将错就错",
-      "onboard_time": 1768109361,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39192,
@@ -1441,6 +1489,14 @@
       "onboard_time": 1768066577,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 33814,
+      "num": 122916,
+      "word": "男子网购茶饼拆出吸剩烟头",
+      "onboard_time": 1768109781,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33437,

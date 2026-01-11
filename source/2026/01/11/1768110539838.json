@@ -1,0 +1,410 @@
+{
+  "runTime": 1768110539838,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 667067,
+        "num": 1106730,
+        "word": "AI照片竟然拿了摄影比赛第一名",
+        "onboard_time": 1768108461,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405858,
+        "num": 829163,
+        "word": "英伟达要求中国客户预付全款",
+        "onboard_time": 1768108461,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 53856,
+        "num": 661368,
+        "word": "中国扫地机器人扫全球",
+        "onboard_time": 1768101981,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 321209,
+        "num": 321209,
+        "word": "被美国奶茶的含糖量惊到了",
+        "onboard_time": 1768106061,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 315624,
+        "num": 315624,
+        "word": "小城大事生万物首日收视率对比",
+        "onboard_time": 1768107620,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241592,
+        "num": 241592,
+        "word": "成都地铁实现1人1座",
+        "onboard_time": 1768096460,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223490,
+        "num": 223490,
+        "word": "月薪一万的试吃员",
+        "onboard_time": 1768105700,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 212015,
+        "num": 212015,
+        "word": "老外被中国细糠折服的一天",
+        "onboard_time": 1768102640,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 200980,
+        "num": 200980,
+        "word": "麻六记的酸辣粉为何卖不动了",
+        "onboard_time": 1768105341,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 194371,
+        "num": 194371,
+        "word": "朱媛媛抗癌5年拍了5部作品",
+        "onboard_time": 1768100660,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 587201,
+        "num": 179570,
+        "word": "死了么app创始人称已实现盈利",
+        "onboard_time": 1768104560,
+        "rank": 10,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 475188,
+        "num": 173476,
+        "word": "虞书欣张云龙开机照",
+        "onboard_time": 1768105700,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226239,
+        "num": 167266,
+        "word": "岳云鹏回应今年不上春晚",
+        "onboard_time": 1768102758,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160430,
+        "num": 160430,
+        "word": "这是真上过大学的",
+        "onboard_time": 1768103000,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167956,
+        "num": 158734,
+        "word": "轧戏 盗用素人offer",
+        "onboard_time": 1768097180,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156309,
+        "num": 156309,
+        "word": "卢昱晓 别扒了别扒了",
+        "onboard_time": 1768110260,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151351,
+        "num": 151351,
+        "word": "救援队被秦岭遇难者家属起诉一审结束",
+        "onboard_time": 1768108580,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155601,
+        "num": 146384,
+        "word": "名侦探学院",
+        "onboard_time": 1768107800,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138974,
+        "num": 138974,
+        "word": "云初令开机",
+        "onboard_time": 1768103540,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135300,
+        "num": 135300,
+        "word": "中国科学家发现基因封条",
+        "onboard_time": 1768105400,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1260320,
+        "num": 133605,
+        "word": "方圆回应小澈在她家住半个月",
+        "onboard_time": 1768104200,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 806487,
+        "num": 131702,
+        "word": "小澈刚复播",
+        "onboard_time": 1768108641,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 128715,
+        "num": 128715,
+        "word": "萝卜纸巾猫为什么火了",
+        "onboard_time": 1768107861,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 551896,
+        "num": 128507,
+        "word": "刘一诺直播回应和檀健次的恋情",
+        "onboard_time": 1768097721,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405253,
+        "num": 128029,
+        "word": "小澈脱粉粉丝爆料",
+        "onboard_time": 1768103420,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 109353,
+        "num": 127898,
+        "word": "曝美军方抵制入侵格陵兰岛计划",
+        "onboard_time": 1768108760,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 262036,
+        "num": 127666,
+        "word": "唐宫奇案",
+        "onboard_time": 1768097721,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206694,
+        "num": 127198,
+        "word": "小澈直播时就有其他网红暗示了",
+        "onboard_time": 1768105221,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 97471,
+        "num": 126978,
+        "word": "大爷5岁走失回家已72岁",
+        "onboard_time": 1768108461,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74819,
+        "num": 126451,
+        "word": "老君山现神光宝轮超惊艳",
+        "onboard_time": 1768110140,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 183906,
+        "num": 126134,
+        "word": "时代峰峻下架王橹杰音效争议视频",
+        "onboard_time": 1768110500,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180997,
+        "num": 125883,
+        "word": "刘一诺说从未主动爆料檀健次",
+        "onboard_time": 1768109181,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93850,
+        "num": 125433,
+        "word": "伊朗",
+        "onboard_time": 1768091599,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 180943,
+        "num": 125176,
+        "word": "冯小刚带女儿出席芭莎活动",
+        "onboard_time": 1768107679,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161652,
+        "num": 124810,
+        "word": "张凌赫首个千万赞视频",
+        "onboard_time": 1768104139,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107941,
+        "num": 124288,
+        "word": "苍兰诀云初令是一个地方开机",
+        "onboard_time": 1768108520,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80977,
+        "num": 124057,
+        "word": "王欣瑜vs斯维托丽娜",
+        "onboard_time": 1768110500,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159182,
+        "num": 123579,
+        "word": "颜安长文回应",
+        "onboard_time": 1768053024,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43673,
+        "num": 123479,
+        "word": "哭哭马 将错就错",
+        "onboard_time": 1768109361,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33814,
+        "num": 122916,
+        "word": "男子网购茶饼拆出吸剩烟头",
+        "onboard_time": 1768109781,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80413,
+        "num": 122633,
+        "word": "15年前的iPhone4S开箱",
+        "onboard_time": 1768100660,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 122541,
+        "num": 122541,
+        "word": "向佐你这样我有点陌生",
+        "onboard_time": 1768109120,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111121,
+        "num": 111121,
+        "word": "Amy姐说林俊杰前任美商很高",
+        "onboard_time": 1768109601,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75619,
+        "num": 111058,
+        "word": "高敏感的人能察觉到微妙的恶意",
+        "onboard_time": 1768109661,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111034,
+        "num": 111034,
+        "word": "王心凌昨天陶艾青今天查美乐",
+        "onboard_time": 1768109361,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104740,
+        "num": 104740,
+        "word": "朱媛媛拍小城大事时口袋揣着止痛泵",
+        "onboard_time": 1768095199,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73609,
+        "num": 103925,
+        "word": "中国警察缅北守护中国公民尸体",
+        "onboard_time": 1768109781,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103799,
+        "num": 103799,
+        "word": "方圆说自己没事",
+        "onboard_time": 1768105281,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 72667,
+        "num": 95337,
+        "word": "左奇函函左奇奇函左",
+        "onboard_time": 1768108940,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70734,
+        "num": 93704,
+        "word": "女子先嫁2人未离婚又跟9人结离婚",
+        "onboard_time": 1768098020,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#领悟总书记全面从严治党之喻#"
+    }
+  }
+}

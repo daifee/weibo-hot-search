@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768109620018,
+  "endTime": 1768110539838,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 1563752,
-      "num": 111785,
+      "num": 133605,
       "word": "方圆回应小澈在她家住半个月",
       "onboard_time": 1768104200,
       "rank": 21,
@@ -955,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 806487,
+      "num": 131702,
+      "word": "小澈刚复播",
+      "onboard_time": 1768108641,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 794730,
       "num": 213004,
       "word": "车祸肇事者家庭条件相当好",
@@ -1379,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 667067,
+      "num": 1106730,
+      "word": "AI照片竟然拿了摄影比赛第一名",
+      "onboard_time": 1768108461,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 663511,
       "num": 308360,
       "word": "男子散布未婚妻不雅视频后坠亡",
@@ -1745,6 +1761,14 @@
       "onboard_time": 1767761182,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 587201,
+      "num": 340245,
+      "word": "死了么app创始人称已实现盈利",
+      "onboard_time": 1768104560,
+      "rank": 19,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 585184,
@@ -2331,14 +2355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 521106,
-      "num": 340245,
-      "word": "死了么app创始人称已实现盈利",
-      "onboard_time": 1768104560,
-      "rank": 19,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 521015,
       "num": 241642,
       "word": "美国强掳马杜罗中俄英法表态",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767585862,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 517469,
-      "num": 1004582,
-      "word": "台积电发布声明",
-      "onboard_time": 1767255620,
-      "rank": 7,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 517269,
-      "num": 165247,
-      "word": "偶遇吴倩张雨剑带女儿回国",
-      "onboard_time": 1767778883,
-      "rank": 35,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
