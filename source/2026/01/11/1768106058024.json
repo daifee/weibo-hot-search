@@ -1,0 +1,410 @@
+{
+  "runTime": 1768106058024,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 546667,
+        "num": 1087466,
+        "word": "唐宫奇案",
+        "onboard_time": 1768097721,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313350,
+        "num": 790906,
+        "word": "成都地铁实现1人1座",
+        "onboard_time": 1768096460,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74304,
+        "num": 637713,
+        "word": "中国扫地机器人扫全球",
+        "onboard_time": 1768101981,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 535198,
+        "num": 535198,
+        "word": "老外被中国细糠折服的一天",
+        "onboard_time": 1768102640,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 506991,
+        "num": 506991,
+        "word": "云初令开机",
+        "onboard_time": 1768103540,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340245,
+        "num": 340245,
+        "word": "死了么app创始人称已实现盈利",
+        "onboard_time": 1768104560,
+        "rank": 5,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 332400,
+        "num": 332400,
+        "word": "朱媛媛抗癌5年拍了5部作品",
+        "onboard_time": 1768100660,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237232,
+        "num": 237232,
+        "word": "15年前的iPhone4S开箱",
+        "onboard_time": 1768100660,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 218402,
+        "num": 218402,
+        "word": "死了么APP拟出售10%股份",
+        "onboard_time": 1768103300,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 217641,
+        "num": 217641,
+        "word": "这是真上过大学的",
+        "onboard_time": 1768103000,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 437121,
+        "num": 206400,
+        "word": "岳云鹏回应今年不上春晚",
+        "onboard_time": 1768102758,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392987,
+        "num": 197190,
+        "word": "身亡学生左胸针孔系法医抽血所致",
+        "onboard_time": 1768096401,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 279113,
+        "num": 195978,
+        "word": "轧戏 盗用素人offer",
+        "onboard_time": 1768097180,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184445,
+        "num": 184445,
+        "word": "卢昱晓拼音组词 黄子韬在拉",
+        "onboard_time": 1768102640,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156116,
+        "num": 156116,
+        "word": "明日方舟",
+        "onboard_time": 1768105281,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157748,
+        "num": 147212,
+        "word": "王玉雯精心画的卧蚕",
+        "onboard_time": 1768092020,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136040,
+        "num": 136040,
+        "word": "伊朗",
+        "onboard_time": 1768091599,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119196,
+        "num": 119196,
+        "word": "小狗在跑步机上狂奔主人淡定打电话",
+        "onboard_time": 1768099519,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113556,
+        "num": 113556,
+        "word": "朱媛媛拍小城大事时口袋揣着止痛泵",
+        "onboard_time": 1768095199,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91918,
+        "num": 113502,
+        "word": "施罗德被禁赛三场",
+        "onboard_time": 1768099760,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1563752,
+        "num": 111785,
+        "word": "方圆回应小澈在她家住半个月",
+        "onboard_time": 1768104200,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 776342,
+        "num": 110507,
+        "word": "刘一诺直播回应和檀健次的恋情",
+        "onboard_time": 1768097721,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332699,
+        "num": 109052,
+        "word": "学生校内死亡嘴角流液体因法医翻动",
+        "onboard_time": 1768100599,
+        "rank": 22,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 414718,
+        "num": 108304,
+        "word": "小澈脱粉粉丝爆料",
+        "onboard_time": 1768103420,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 316730,
+        "num": 107165,
+        "word": "张凌赫首个千万赞视频",
+        "onboard_time": 1768104139,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90850,
+        "num": 105851,
+        "word": "海底捞回应送黄金小马挂件",
+        "onboard_time": 1768054403,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274869,
+        "num": 104556,
+        "word": "颜安长文回应",
+        "onboard_time": 1768053024,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115663,
+        "num": 103876,
+        "word": "委内瑞拉街头现状",
+        "onboard_time": 1768099700,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102721,
+        "num": 102721,
+        "word": "中国科学家发现基因封条",
+        "onboard_time": 1768105400,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226161,
+        "num": 102414,
+        "word": "小澈直播时就有其他网红暗示了",
+        "onboard_time": 1768105221,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 200010,
+        "num": 102100,
+        "word": "麻六记的酸辣粉为何卖不动了",
+        "onboard_time": 1768105341,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 189908,
+        "num": 101806,
+        "word": "虞书欣张云龙开机照",
+        "onboard_time": 1768105700,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220800,
+        "num": 101291,
+        "word": "方圆说自己没事",
+        "onboard_time": 1768105281,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 154079,
+        "num": 100905,
+        "word": "月薪一万的试吃员",
+        "onboard_time": 1768105700,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 165367,
+        "num": 100583,
+        "word": "檀健次 知道我多坚强了吧",
+        "onboard_time": 1768054462,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121642,
+        "num": 100280,
+        "word": "鹅妈妈谈小澈事件",
+        "onboard_time": 1768087395,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 113414,
+        "num": 99901,
+        "word": "女子先嫁2人未离婚又跟9人结离婚",
+        "onboard_time": 1768098020,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117285,
+        "num": 99698,
+        "word": "杨丞琳的背不拔罐可惜了",
+        "onboard_time": 1768103420,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99446,
+        "num": 99446,
+        "word": "谢娜的菜来了",
+        "onboard_time": 1768102939,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33437,
+        "num": 98665,
+        "word": "为什么感觉比天气预报更冷",
+        "onboard_time": 1768105821,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97955,
+        "num": 97955,
+        "word": "侯明昊我从寒武纪就上桌了",
+        "onboard_time": 1768104261,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94858,
+        "num": 94858,
+        "word": "热乎饭的正确打开方式",
+        "onboard_time": 1768105941,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 94771,
+        "num": 94771,
+        "word": "拼豆进入裸眼3D时代",
+        "onboard_time": 1768105521,
+        "rank": 42,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 94753,
+        "num": 94753,
+        "word": "白鹿给呵呵打电话假哭",
+        "onboard_time": 1768096761,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94141,
+        "num": 94141,
+        "word": "张艺兴改编的大花轿上线",
+        "onboard_time": 1768105879,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 84729,
+        "num": 84729,
+        "word": "詹姆斯晒照上篮被打手",
+        "onboard_time": 1768104498,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93714,
+        "num": 84266,
+        "word": "黄晓明从接剧本就在背道歉台词",
+        "onboard_time": 1768104319,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83628,
+        "num": 83628,
+        "word": "南昌警方通报男子用水果刀划伤女子",
+        "onboard_time": 1768101140,
+        "rank": 47,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 82541,
+        "num": 82541,
+        "word": "哈登把自己拉出会议室",
+        "onboard_time": 1768105760,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81494,
+        "num": 81494,
+        "word": "Ruler韩服被封号",
+        "onboard_time": 1768105521,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#领悟总书记全面从严治党之喻#"
+    }
+  }
+}

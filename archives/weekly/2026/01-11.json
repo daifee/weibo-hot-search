@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768104928380,
+  "endTime": 1768106058024,
   "band_list": [
     {
       "raw_hot": 2076111,
@@ -8,6 +8,14 @@
       "word": "小澈 梅毒",
       "onboard_time": 1768049061,
       "rank": 20,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 1563752,
+      "num": 111785,
+      "word": "方圆回应小澈在她家住半个月",
+      "onboard_time": 1768104200,
+      "rank": 21,
       "category": "网红"
     },
     {
@@ -67,14 +75,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 778757,
-      "num": 103321,
-      "word": "方圆回应小澈在她家住半个月",
-      "onboard_time": 1768104200,
-      "rank": 21,
-      "category": "网红"
-    },
-    {
       "raw_hot": 686666,
       "num": 196656,
       "word": "王橹杰维权",
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 506991,
+      "num": 506991,
+      "word": "云初令开机",
+      "onboard_time": 1768103540,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 473457,
       "num": 916030,
       "word": "运动员王某举报范某某情况基本属实",
@@ -147,8 +155,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 433868,
-      "num": 200425,
+      "raw_hot": 437121,
+      "num": 206400,
       "word": "岳云鹏回应今年不上春晚",
       "onboard_time": 1768102758,
       "rank": 10,
@@ -156,11 +164,19 @@
     },
     {
       "raw_hot": 422946,
-      "num": 102360,
+      "num": 109052,
       "word": "学生校内死亡嘴角流液体因法医翻动",
       "onboard_time": 1768100599,
       "rank": 22,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 414718,
+      "num": 108304,
+      "word": "小澈脱粉粉丝爆料",
+      "onboard_time": 1768103420,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 410699,
@@ -168,14 +184,6 @@
       "word": "小澈回应抗艾滋药",
       "onboard_time": 1768043901,
       "rank": 24,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 408784,
-      "num": 101491,
-      "word": "小澈脱粉粉丝爆料",
-      "onboard_time": 1768103420,
-      "rank": 23,
       "category": "网红"
     },
     {
@@ -193,14 +201,6 @@
       "onboard_time": 1768058482,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 395328,
-      "num": 395328,
-      "word": "云初令开机",
-      "onboard_time": 1768103540,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 393516,
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 340245,
+      "num": 340245,
+      "word": "死了么app创始人称已实现盈利",
+      "onboard_time": 1768104560,
+      "rank": 19,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 336734,
       "num": 222882,
       "word": "死了么app",
@@ -235,8 +243,8 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 331817,
-      "num": 331817,
+      "raw_hot": 332400,
+      "num": 332400,
       "word": "朱媛媛抗癌5年拍了5部作品",
       "onboard_time": 1768100660,
       "rank": 5,
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 317640,
-      "num": 101087,
+      "num": 107165,
       "word": "张凌赫首个千万赞视频",
       "onboard_time": 1768104139,
       "rank": 25,
@@ -299,12 +307,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226161,
+      "num": 102414,
+      "word": "小澈直播时就有其他网红暗示了",
+      "onboard_time": 1768105221,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 220800,
+      "num": 101291,
+      "word": "方圆说自己没事",
+      "onboard_time": 1768105281,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 217641,
+      "num": 223015,
+      "word": "这是真上过大学的",
+      "onboard_time": 1768103000,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 215784,
       "num": 196423,
       "word": "13岁男孩拒绝老妇邀约偷铁皮被杀",
       "onboard_time": 1768059803,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200010,
+      "num": 102100,
+      "word": "麻六记的酸辣粉为何卖不动了",
+      "onboard_time": 1768105341,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 196883,
@@ -323,12 +363,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189908,
+      "num": 101806,
+      "word": "虞书欣张云龙开机照",
+      "onboard_time": 1768105700,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185463,
       "num": 185463,
       "word": "轧戏 男二",
       "onboard_time": 1768065019,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184445,
+      "num": 184445,
+      "word": "卢昱晓拼音组词 黄子韬在拉",
+      "onboard_time": 1768102640,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 180473,
@@ -363,14 +419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166105,
-      "num": 166104,
-      "word": "卢昱晓拼音组词 黄子韬在拉",
-      "onboard_time": 1768102640,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 161946,
       "num": 225513,
       "word": "小狗在跑步机上狂奔主人淡定打电话",
@@ -388,7 +436,7 @@
     },
     {
       "raw_hot": 158939,
-      "num": 100541,
+      "num": 103876,
       "word": "委内瑞拉街头现状",
       "onboard_time": 1768099700,
       "rank": 26,
@@ -411,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156116,
+      "num": 156116,
+      "word": "明日方舟",
+      "onboard_time": 1768105281,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154996,
       "num": 196598,
       "word": "鹅妈妈仇人运",
@@ -420,11 +476,19 @@
     },
     {
       "raw_hot": 154957,
-      "num": 98046,
+      "num": 99698,
       "word": "杨丞琳的背不拔罐可惜了",
       "onboard_time": 1768103420,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154079,
+      "num": 100905,
+      "word": "月薪一万的试吃员",
+      "onboard_time": 1768105700,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 146137,
@@ -483,14 +547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127277,
-      "num": 223015,
-      "word": "这是真上过大学的",
-      "onboard_time": 1768103000,
-      "rank": 9,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 123630,
       "num": 123630,
       "word": "吃下一头大蒜你的身体会怎样",
@@ -547,12 +603,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104315,
-      "num": 104315,
-      "word": "死了么app创始人称已实现盈利",
-      "onboard_time": 1768104560,
-      "rank": 19,
-      "category": "民生新闻,互联网"
+      "raw_hot": 102721,
+      "num": 102721,
+      "word": "中国科学家发现基因封条",
+      "onboard_time": 1768105400,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102619,
@@ -595,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97955,
+      "num": 97955,
+      "word": "侯明昊我从寒武纪就上桌了",
+      "onboard_time": 1768104261,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96582,
       "num": 196234,
       "word": "iPhone里最容易忽略的效率神器",
@@ -619,12 +683,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94259,
-      "num": 90541,
-      "word": "侯明昊我从寒武纪就上桌了",
-      "onboard_time": 1768104261,
+      "raw_hot": 94858,
+      "num": 94858,
+      "word": "热乎饭的正确打开方式",
+      "onboard_time": 1768105941,
       "rank": 41,
-      "category": "剧集"
+      "category": "美食"
+    },
+    {
+      "raw_hot": 94771,
+      "num": 94771,
+      "word": "拼豆进入裸眼3D时代",
+      "onboard_time": 1768105521,
+      "rank": 42,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 94141,
+      "num": 94141,
+      "word": "张艺兴改编的大花轿上线",
+      "onboard_time": 1768105879,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 93136,
@@ -705,6 +785,22 @@
       "onboard_time": 1768104680,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 82541,
+      "num": 82541,
+      "word": "哈登把自己拉出会议室",
+      "onboard_time": 1768105760,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 81494,
+      "num": 81494,
+      "word": "Ruler韩服被封号",
+      "onboard_time": 1768105521,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 81217,
@@ -804,7 +900,7 @@
     },
     {
       "raw_hot": 77126,
-      "num": 629756,
+      "num": 637713,
       "word": "中国扫地机器人扫全球",
       "onboard_time": 1768101981,
       "rank": 2,
@@ -1161,6 +1257,14 @@
       "onboard_time": 1768066577,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 33437,
+      "num": 98665,
+      "word": "为什么感觉比天气预报更冷",
+      "onboard_time": 1768105821,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32565,

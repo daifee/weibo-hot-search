@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768104928380,
+  "endTime": 1768106058024,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -185,6 +185,14 @@
       "onboard_time": 1767493042,
       "rank": 10,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1563752,
+      "num": 111785,
+      "word": "方圆回应小澈在她家住半个月",
+      "onboard_time": 1768104200,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 1541881,
@@ -1017,14 +1025,6 @@
       "onboard_time": 1767571581,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 778757,
-      "num": 103321,
-      "word": "方圆回应小澈在她家住半个月",
-      "onboard_time": 1768104200,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 778603,
