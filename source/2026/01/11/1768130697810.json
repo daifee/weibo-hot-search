@@ -1,0 +1,410 @@
+{
+  "runTime": 1768130697810,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 323656,
+        "num": 1051785,
+        "word": "美方再次亮明弃台主张",
+        "onboard_time": 1768118541,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 298554,
+        "num": 766448,
+        "word": "朝鲜万套住宅震撼亮相",
+        "onboard_time": 1768129401,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 44804,
+        "num": 603740,
+        "word": "神舟二十一号乘组在轨超70天",
+        "onboard_time": 1768125741,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 283856,
+        "num": 598927,
+        "word": "日本一餐厅墙内发现女尸",
+        "onboard_time": 1768115781,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 177763,
+        "num": 595133,
+        "word": "仙逆",
+        "onboard_time": 1768128740,
+        "rank": 4,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 496631,
+        "num": 586019,
+        "word": "iPhone4需求激增近1000%",
+        "onboard_time": 1768117099,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 172683,
+        "num": 580409,
+        "word": "苹果脆片",
+        "onboard_time": 1768123700,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 170911,
+        "num": 573909,
+        "word": "开了十年寒衣店第一次遇到退货",
+        "onboard_time": 1768122380,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168105,
+        "num": 568210,
+        "word": "陈幸同晋级多哈冠军赛决赛",
+        "onboard_time": 1768129822,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151304,
+        "num": 558260,
+        "word": "蒯曼vs陈幸同",
+        "onboard_time": 1768128140,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 556856,
+        "num": 556856,
+        "word": "轧戏剧组道歉",
+        "onboard_time": 1768128140,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372687,
+        "num": 372687,
+        "word": "宋威龙祝骄阳似我也似你",
+        "onboard_time": 1768126161,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367422,
+        "num": 367422,
+        "word": "活了么APP上线",
+        "onboard_time": 1768127421,
+        "rank": 12,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 306346,
+        "num": 306346,
+        "word": "虞书欣扛着权杖去拍戏了",
+        "onboard_time": 1768126040,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297455,
+        "num": 297455,
+        "word": "死了么APP 独居人群",
+        "onboard_time": 1768127241,
+        "rank": 14,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 290136,
+        "num": 290136,
+        "word": "子阳道歉",
+        "onboard_time": 1768128801,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 252336,
+        "num": 252336,
+        "word": "生长痛真的很痛",
+        "onboard_time": 1768125861,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225520,
+        "num": 225520,
+        "word": "死了么APP付费人数翻200倍",
+        "onboard_time": 1768127179,
+        "rank": 17,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 194361,
+        "num": 194361,
+        "word": "初老症状",
+        "onboard_time": 1768123279,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 190446,
+        "num": 190446,
+        "word": "有白鹿在是不会让徐志胜落泪的",
+        "onboard_time": 1768130062,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1109025,
+        "num": 174580,
+        "word": "卫健局将调查疑小澈住院记录曝光",
+        "onboard_time": 1768128381,
+        "rank": 20,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 149404,
+        "num": 149404,
+        "word": "AI照片竟然拿了摄影比赛第一名",
+        "onboard_time": 1768108461,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 476012,
+        "num": 147246,
+        "word": "冯小刚女儿颜值",
+        "onboard_time": 1768128200,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453532,
+        "num": 146974,
+        "word": "演员夫妻回应撞死人后拉黑遗属",
+        "onboard_time": 1768123040,
+        "rank": 23,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 142937,
+        "num": 142937,
+        "word": "女子每天化精致眼妆睫毛藏6条螨虫",
+        "onboard_time": 1768119200,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321282,
+        "num": 142025,
+        "word": "孙怡马尔代夫度假照",
+        "onboard_time": 1768125800,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289751,
+        "num": 137570,
+        "word": "登陆少年直播",
+        "onboard_time": 1768130121,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130086,
+        "num": 130086,
+        "word": "00后真的上年纪了",
+        "onboard_time": 1768128322,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238534,
+        "num": 129994,
+        "word": "正经的老邪质疑小澈检测报告",
+        "onboard_time": 1768130001,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 160715,
+        "num": 129932,
+        "word": "张奕然住廉租房",
+        "onboard_time": 1768118601,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128159,
+        "num": 129852,
+        "word": "朱雨玲晋级多哈冠军赛决赛",
+        "onboard_time": 1768129822,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151313,
+        "num": 129689,
+        "word": "曼谷偶遇鞠婧祎逛街",
+        "onboard_time": 1768118061,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142837,
+        "num": 129568,
+        "word": "网传杨紫和白鹿新剧同档期播出",
+        "onboard_time": 1768127060,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110593,
+        "num": 129447,
+        "word": "林诗栋vs张禹珍",
+        "onboard_time": 1768130480,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129435,
+        "num": 129435,
+        "word": "灵隐寺偶遇陈哲远",
+        "onboard_time": 1768127660,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128593,
+        "num": 128593,
+        "word": "卢昱晓 别扒了别扒了",
+        "onboard_time": 1768110260,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106790,
+        "num": 127227,
+        "word": "金价飙升银行紧急提示",
+        "onboard_time": 1768118240,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 26863,
+        "num": 127012,
+        "word": "TF四代宇宙闪烁请注意侧拍",
+        "onboard_time": 1768130181,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126874,
+        "num": 126874,
+        "word": "赵又廷演技",
+        "onboard_time": 1768129220,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23886,
+        "num": 125724,
+        "word": "泰国边境多处加油站遭袭",
+        "onboard_time": 1768129822,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109263,
+        "num": 125566,
+        "word": "台湾网红钟明轩来大陆旅游",
+        "onboard_time": 1768127780,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99002,
+        "num": 125542,
+        "word": "陈幸同决赛对阵朱雨玲",
+        "onboard_time": 1768130001,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125533,
+        "num": 125533,
+        "word": "时代峰峻致歉王橹杰",
+        "onboard_time": 1768116262,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123761,
+        "num": 123761,
+        "word": "王俊凯鞋底是红袜子",
+        "onboard_time": 1768121182,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99740,
+        "num": 117239,
+        "word": "我真的拥有过账单上显示的那么多钱吗",
+        "onboard_time": 1768130541,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112597,
+        "num": 112597,
+        "word": "何穗披个床单就上封面了",
+        "onboard_time": 1768124420,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 96488,
+        "num": 111711,
+        "word": "KK园区彻底清零",
+        "onboard_time": 1768112901,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 111080,
+        "num": 111080,
+        "word": "3unshine只有Abby了",
+        "onboard_time": 1768120822,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108415,
+        "num": 108415,
+        "word": "单依纯 香奈儿",
+        "onboard_time": 1768130661,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93328,
+        "num": 93328,
+        "word": "白银暴涨暴跌比黄金更刺激",
+        "onboard_time": 1768121000,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美关系的希望在人民未来在青年#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768128363591,
+  "endTime": 1768130697810,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -41,6 +41,14 @@
       "onboard_time": 1768053024,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1109025,
+      "num": 174580,
+      "word": "卫健局将调查疑小澈住院记录曝光",
+      "onboard_time": 1768128381,
+      "rank": 20,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 1040302,
@@ -187,6 +195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 556856,
+      "num": 556856,
+      "word": "轧戏剧组道歉",
+      "onboard_time": 1768128140,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 552604,
       "num": 1088416,
       "word": "河南新蔡通报13岁男生宿舍内死亡",
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 510403,
-      "num": 510403,
+      "num": 598927,
       "word": "日本一餐厅墙内发现女尸",
       "onboard_time": 1768115781,
       "rank": 39,
@@ -225,6 +241,14 @@
       "onboard_time": 1768103540,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 496631,
+      "num": 586019,
+      "word": "iPhone4需求激增近1000%",
+      "onboard_time": 1768117099,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 488051,
@@ -249,6 +273,14 @@
       "onboard_time": 1768105700,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 476012,
+      "num": 147246,
+      "word": "冯小刚女儿颜值",
+      "onboard_time": 1768128200,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 473457,
@@ -372,7 +404,7 @@
     },
     {
       "raw_hot": 399523,
-      "num": 238636,
+      "num": 306346,
       "word": "虞书欣扛着权杖去拍戏了",
       "onboard_time": 1768126040,
       "rank": 11,
@@ -411,6 +443,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 367422,
+      "num": 367422,
+      "word": "活了么APP上线",
+      "onboard_time": 1768127421,
+      "rank": 15,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 359682,
       "num": 1051100,
       "word": "成都地铁实现1人1座",
@@ -433,14 +473,6 @@
       "onboard_time": 1768111881,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 338011,
-      "num": 287318,
-      "word": "iPhone4需求激增近1000%",
-      "onboard_time": 1768117099,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 336734,
@@ -516,19 +548,43 @@
     },
     {
       "raw_hot": 315322,
-      "num": 315322,
+      "num": 580409,
       "word": "苹果脆片",
       "onboard_time": 1768123700,
       "rank": 46,
       "category": "美食"
     },
     {
-      "raw_hot": 292424,
-      "num": 207456,
+      "raw_hot": 298554,
+      "num": 766448,
+      "word": "朝鲜万套住宅震撼亮相",
+      "onboard_time": 1768129401,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 297455,
+      "num": 297455,
       "word": "死了么APP 独居人群",
       "onboard_time": 1768127241,
       "rank": 15,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 290136,
+      "num": 290136,
+      "word": "子阳道歉",
+      "onboard_time": 1768128801,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 289751,
+      "num": 137570,
+      "word": "登陆少年直播",
+      "onboard_time": 1768130121,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 288570,
@@ -548,7 +604,7 @@
     },
     {
       "raw_hot": 277032,
-      "num": 238596,
+      "num": 252336,
       "word": "生长痛真的很痛",
       "onboard_time": 1768125861,
       "rank": 12,
@@ -619,6 +675,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 238534,
+      "num": 129994,
+      "word": "正经的老邪质疑小澈检测报告",
+      "onboard_time": 1768130001,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 235610,
       "num": 235610,
       "word": "王玉雯精心画的卧蚕",
@@ -636,7 +700,7 @@
     },
     {
       "raw_hot": 232451,
-      "num": 238838,
+      "num": 573909,
       "word": "开了十年寒衣店第一次遇到退货",
       "onboard_time": 1768122380,
       "rank": 33,
@@ -657,6 +721,14 @@
       "onboard_time": 1768124060,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 225520,
+      "num": 225520,
+      "word": "死了么APP付费人数翻200倍",
+      "onboard_time": 1768127179,
+      "rank": 46,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 223783,
@@ -747,14 +819,6 @@
       "category": "民生新闻,体育"
     },
     {
-      "raw_hot": 194996,
-      "num": 194996,
-      "word": "活了么APP上线",
-      "onboard_time": 1768127421,
-      "rank": 15,
-      "category": "互联网,民生新闻"
-    },
-    {
       "raw_hot": 194972,
       "num": 134611,
       "word": "王俊凯跨年纪录片",
@@ -785,6 +849,14 @@
       "onboard_time": 1768054103,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190446,
+      "num": 190446,
+      "word": "有白鹿在是不会让徐志胜落泪的",
+      "onboard_time": 1768130062,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 187263,
@@ -849,6 +921,14 @@
       "onboard_time": 1768115661,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 177763,
+      "num": 595133,
+      "word": "仙逆",
+      "onboard_time": 1768128740,
+      "rank": 4,
+      "category": "动漫"
     },
     {
       "raw_hot": 176895,
@@ -931,12 +1011,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168025,
-      "num": 168025,
-      "word": "死了么APP付费人数翻200倍",
-      "onboard_time": 1768127179,
-      "rank": 46,
-      "category": "互联网,民生新闻"
+      "raw_hot": 168105,
+      "num": 568210,
+      "word": "陈幸同晋级多哈冠军赛决赛",
+      "onboard_time": 1768129822,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 167764,
@@ -1059,6 +1139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 151304,
+      "num": 558260,
+      "word": "蒯曼vs陈幸同",
+      "onboard_time": 1768128140,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146137,
       "num": 146137,
       "word": "谢娜的菜来了",
@@ -1092,7 +1180,7 @@
     },
     {
       "raw_hot": 142325,
-      "num": 121983,
+      "num": 129435,
       "word": "灵隐寺偶遇陈哲远",
       "onboard_time": 1768127660,
       "rank": 41,
@@ -1147,14 +1235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133053,
-      "num": 120438,
-      "word": "冯小刚女儿颜值",
-      "onboard_time": 1768128200,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 131362,
       "num": 131362,
       "word": "王欣瑜获奥克兰赛亚军",
@@ -1179,12 +1259,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 130086,
+      "num": 130086,
+      "word": "00后真的上年纪了",
+      "onboard_time": 1768128322,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128715,
       "num": 128715,
       "word": "萝卜纸巾猫为什么火了",
       "onboard_time": 1768107861,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128159,
+      "num": 129852,
+      "word": "朱雨玲晋级多哈冠军赛决赛",
+      "onboard_time": 1768129822,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 128100,
@@ -1211,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126874,
+      "num": 126874,
+      "word": "赵又廷演技",
+      "onboard_time": 1768129220,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126786,
       "num": 137764,
       "word": "坤音2026家族演唱会",
@@ -1233,14 +1337,6 @@
       "onboard_time": 1768088717,
       "rank": 27,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 122840,
-      "num": 122840,
-      "word": "蒯曼vs陈幸同",
-      "onboard_time": 1768128140,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 122541,
@@ -1300,7 +1396,7 @@
     },
     {
       "raw_hot": 115893,
-      "num": 115893,
+      "num": 125566,
       "word": "台湾网红钟明轩来大陆旅游",
       "onboard_time": 1768127780,
       "rank": 48,
@@ -1347,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110593,
+      "num": 129447,
+      "word": "林诗栋vs张禹珍",
+      "onboard_time": 1768130480,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110435,
       "num": 110435,
       "word": "赵丽颖被道具砸懵了",
@@ -1363,12 +1467,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 109009,
-      "num": 109009,
-      "word": "00后真的上年纪了",
-      "onboard_time": 1768128322,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 108415,
+      "num": 108415,
+      "word": "单依纯 香奈儿",
+      "onboard_time": 1768130661,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 107941,
@@ -1481,6 +1585,22 @@
       "onboard_time": 1768057162,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99740,
+      "num": 117239,
+      "word": "我真的拥有过账单上显示的那么多钱吗",
+      "onboard_time": 1768130541,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 99002,
+      "num": 125542,
+      "word": "陈幸同决赛对阵朱雨玲",
+      "onboard_time": 1768130001,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 98934,
@@ -2419,14 +2539,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 39989,
-      "num": 147278,
-      "word": "轧戏剧组道歉",
-      "onboard_time": 1768128140,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 39827,
       "num": 151314,
       "word": "鹅鸭杀打台球",
@@ -2579,6 +2691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 26863,
+      "num": 127012,
+      "word": "TF四代宇宙闪烁请注意侧拍",
+      "onboard_time": 1768130181,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 24817,
       "num": 134396,
       "word": "从委内瑞拉看美国电力战威胁",
@@ -2617,6 +2737,14 @@
       "onboard_time": 1768119861,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23886,
+      "num": 125724,
+      "word": "泰国边境多处加油站遭袭",
+      "onboard_time": 1768129822,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23672,
