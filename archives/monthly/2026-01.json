@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768153359613,
+  "endTime": 1768156749533,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -35427,6 +35427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 19175,
+      "num": 59349,
+      "word": "王橹杰音效争议暴露时代峰峻疏漏",
+      "onboard_time": 1768155076,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19019,
       "num": 89416,
       "word": "流浪柬埔寨女网红父亲已报警",
@@ -35459,12 +35467,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 18457,
+      "num": 59284,
+      "word": "刘宇宁这完全是going",
+      "onboard_time": 1768153996,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 18443,
       "num": 156956,
       "word": "死了么APP开发者称会出中老年版",
       "onboard_time": 1768055603,
       "rank": 19,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 18295,
+      "num": 59232,
+      "word": "高超callback老麦克",
+      "onboard_time": 1768150458,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 17585,

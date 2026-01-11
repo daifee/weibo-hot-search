@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/12 00:33:57 ~ 2026/01/12 01:42:39
+本榜单时间：2026/01/12 00:33:57 ~ 2026/01/12 02:39:09
 </p>
 </blockquote>
 <p>
@@ -395,6 +395,30 @@ TOP 荣耀之战都不知道怎么输（热度：181110）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23HHG%23" target="weibo">
 HHG（热度：20141）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E9%9F%B3%E6%95%88%E4%BA%89%E8%AE%AE%E6%9A%B4%E9%9C%B2%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E7%96%8F%E6%BC%8F%23" target="weibo">
+王橹杰音效争议暴露时代峰峻疏漏（热度：19175）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E8%BF%99%E5%AE%8C%E5%85%A8%E6%98%AFgoing%23" target="weibo">
+刘宇宁这完全是going（热度：18457）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%B6%85callback%E8%80%81%E9%BA%A6%E5%85%8B%23" target="weibo">
+高超callback老麦克（热度：18295）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%B0%91%E7%A7%8D%E5%9C%B0%E7%A7%91%E6%8A%80%E6%84%9F%E6%8B%89%E6%BB%A1%23" target="weibo">
+中国农民种地科技感拉满（热度：10396）
 </a>
 </li>
 

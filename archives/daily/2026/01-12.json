@@ -1,6 +1,6 @@
 {
   "startTime": 1768149237092,
-  "endTime": 1768153359613,
+  "endTime": 1768156749533,
   "band_list": [
     {
       "raw_hot": 1015098,
@@ -513,6 +513,38 @@
       "onboard_time": 1768146080,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 19175,
+      "num": 59349,
+      "word": "王橹杰音效争议暴露时代峰峻疏漏",
+      "onboard_time": 1768155076,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 18457,
+      "num": 59284,
+      "word": "刘宇宁这完全是going",
+      "onboard_time": 1768153996,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 18295,
+      "num": 59232,
+      "word": "高超callback老麦克",
+      "onboard_time": 1768150458,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 10396,
+      "num": 87642,
+      "word": "中国农民种地科技感拉满",
+      "onboard_time": 1768138883,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
