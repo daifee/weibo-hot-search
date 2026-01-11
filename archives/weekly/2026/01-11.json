@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768124591688,
+  "endTime": 1768127397492,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 670457,
+      "num": 156674,
+      "word": "演员夫妻回应撞死人后拉黑遗属",
+      "onboard_time": 1768123040,
+      "rank": 32,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 667067,
       "num": 1106730,
       "word": "AI照片竟然拿了摄影比赛第一名",
@@ -211,6 +219,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 497392,
+      "num": 155205,
+      "word": "孙怡马尔代夫度假照",
+      "onboard_time": 1768125800,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 488051,
+      "num": 238737,
+      "word": "初老症状",
+      "onboard_time": 1768123279,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 486298,
+      "num": 153279,
+      "word": "网友质疑小澈检测报告",
+      "onboard_time": 1768125441,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 486097,
       "num": 207519,
       "word": "虞书欣张云龙开机照",
@@ -273,6 +305,14 @@
       "onboard_time": 1768102758,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 434413,
+      "num": 434413,
+      "word": "赵今麦告别聂曦光",
+      "onboard_time": 1768125141,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 422946,
@@ -403,6 +443,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 331761,
+      "num": 238636,
+      "word": "虞书欣扛着权杖去拍戏了",
+      "onboard_time": 1768126040,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 329868,
+      "num": 316081,
+      "word": "宋威龙祝骄阳似我也似你",
+      "onboard_time": 1768126161,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 329041,
+      "num": 147799,
+      "word": "何穗披个床单就上封面了",
+      "onboard_time": 1768124420,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 328307,
       "num": 328307,
       "word": "白鹿剧宣来的太快就像龙卷风",
@@ -449,6 +513,14 @@
       "onboard_time": 1768107620,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 315322,
+      "num": 315322,
+      "word": "苹果脆片",
+      "onboard_time": 1768123700,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 288570,
@@ -515,14 +587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 248997,
-      "num": 155924,
-      "word": "演员夫妻回应撞死人后拉黑遗属",
-      "onboard_time": 1768123040,
-      "rank": 32,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 246273,
       "num": 1039403,
       "word": "救援队被秦岭遇难者家属起诉一审结束",
@@ -537,6 +601,14 @@
       "onboard_time": 1768100660,
       "rank": 7,
       "category": "数码"
+    },
+    {
+      "raw_hot": 238596,
+      "num": 238596,
+      "word": "生长痛真的很痛",
+      "onboard_time": 1768125861,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 235610,
@@ -563,12 +635,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229108,
+      "num": 229108,
+      "word": "流浪地球3 王智进组",
+      "onboard_time": 1768124060,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 223783,
       "num": 223783,
       "word": "月薪一万的试吃员",
       "onboard_time": 1768105700,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 222249,
+      "num": 222249,
+      "word": "网传杨紫和白鹿新剧同档期播出",
+      "onboard_time": 1768127060,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 220800,
@@ -593,14 +681,6 @@
       "onboard_time": 1768117640,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 216071,
-      "num": 97588,
-      "word": "何穗披个床单就上封面了",
-      "onboard_time": 1768124420,
-      "rank": 35,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 215784,
@@ -635,12 +715,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 204046,
-      "num": 175658,
-      "word": "初老症状",
-      "onboard_time": 1768123279,
-      "rank": 17,
-      "category": "健康医疗"
+      "raw_hot": 206210,
+      "num": 238838,
+      "word": "开了十年寒衣店第一次遇到退货",
+      "onboard_time": 1768122380,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 200980,
@@ -665,6 +745,14 @@
       "onboard_time": 1768115841,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193215,
+      "num": 238772,
+      "word": "白银暴涨暴跌比黄金更刺激",
+      "onboard_time": 1768121000,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 193051,
@@ -771,14 +859,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 174316,
-      "num": 142174,
-      "word": "开了十年寒衣店第一次遇到退货",
-      "onboard_time": 1768122380,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 172938,
       "num": 257183,
       "word": "偷挖三百平地下室业主赔每户1500",
@@ -803,6 +883,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170389,
+      "num": 170389,
+      "word": "死了么APP 独居人群",
+      "onboard_time": 1768127241,
+      "rank": 15,
+      "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 170380,
+      "num": 170380,
+      "word": "中式咖啡 咖啡豆的洗澡水",
+      "onboard_time": 1768121840,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 169932,
       "num": 169932,
       "word": "白鹿给呵呵打电话假哭",
@@ -817,6 +913,14 @@
       "onboard_time": 1768048101,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167764,
+      "num": 167764,
+      "word": "朱雨玲4比2韩莹",
+      "onboard_time": 1768126820,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 163882,
@@ -848,6 +952,14 @@
       "word": "中国科学家发现基因封条",
       "onboard_time": 1768105400,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160386,
+      "num": 160386,
+      "word": "医生受贿3.5万元开具近2万支药品",
+      "onboard_time": 1768123581,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -955,14 +1067,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 140402,
-      "num": 140402,
-      "word": "中式咖啡 咖啡豆的洗澡水",
-      "onboard_time": 1768121840,
-      "rank": 38,
-      "category": "美食"
-    },
-    {
       "raw_hot": 139987,
       "num": 139987,
       "word": "一次违规吃喝搭上一条人命",
@@ -977,14 +1081,6 @@
       "onboard_time": 1768098020,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 136197,
-      "num": 175562,
-      "word": "白银暴涨暴跌比黄金更刺激",
-      "onboard_time": 1768121000,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 134848,
@@ -1027,6 +1123,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130638,
+      "num": 128116,
+      "word": "Viper蝰蛇塑最像的一集",
+      "onboard_time": 1768126701,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 130294,
+      "num": 130294,
+      "word": "Viper脸颊ok自拍",
+      "onboard_time": 1768126341,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128715,
       "num": 128715,
       "word": "萝卜纸巾猫为什么火了",
@@ -1059,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126786,
+      "num": 137764,
+      "word": "坤音2026家族演唱会",
+      "onboard_time": 1768126100,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 126665,
       "num": 126665,
       "word": "原来鸡还能下麻辣蛋",
@@ -1067,20 +1187,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125293,
+      "num": 125293,
+      "word": "死了么APP付费人数翻200倍",
+      "onboard_time": 1768127179,
+      "rank": 46,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 123630,
       "num": 123630,
       "word": "吃下一头大蒜你的身体会怎样",
       "onboard_time": 1768088717,
       "rank": 27,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 123036,
-      "num": 123036,
-      "word": "苹果脆片",
-      "onboard_time": 1768123700,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 122541,
@@ -1235,14 +1355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104610,
-      "num": 104610,
-      "word": "流浪地球3 王智进组",
-      "onboard_time": 1768124060,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 104011,
       "num": 134083,
       "word": "金价银价大幅波动原因",
@@ -1305,14 +1417,6 @@
       "onboard_time": 1768108641,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 99964,
-      "num": 99964,
-      "word": "医生受贿3.5万元开具近2万支药品",
-      "onboard_time": 1768123581,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99809,
@@ -1811,6 +1915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 75481,
+      "num": 122547,
+      "word": "麻辣烫店员用选菜盆给娃洗手搓灰",
+      "onboard_time": 1768126100,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74819,
       "num": 126451,
       "word": "老君山现神光宝轮超惊艳",
@@ -2099,12 +2211,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58178,
+      "num": 130601,
+      "word": "工作十年熬成老员工月薪只剩2500",
+      "onboard_time": 1768126221,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57757,
       "num": 134440,
       "word": "委代总统宣誓将解救马杜罗",
       "onboard_time": 1768115841,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 54222,
+      "num": 126615,
+      "word": "37万投资包子铺办不出营业执照",
+      "onboard_time": 1768126161,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54037,
@@ -2275,6 +2403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 36131,
+      "num": 587150,
+      "word": "神舟二十一号乘组在轨超70天",
+      "onboard_time": 1768125741,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 35435,
       "num": 75124,
       "word": "陈楚生深圳演唱会",
@@ -2355,6 +2491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28505,
+      "num": 131539,
+      "word": "别让流量害死下一个驴友",
+      "onboard_time": 1768127300,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24817,
       "num": 134396,
       "word": "从委内瑞拉看美国电力战威胁",
@@ -2368,6 +2512,14 @@
       "word": "患精神病男子借宿同学家行凶最新进展",
       "onboard_time": 1768108580,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24500,
+      "num": 130908,
+      "word": "小伙手放电脑上睡着烫出大水疱",
+      "onboard_time": 1768127000,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2451,6 +2603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19079,
+      "num": 160370,
+      "word": "柯文哲蔡正元同框秀电子脚镣",
+      "onboard_time": 1768127000,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 17134,
       "num": 33394,
       "word": "刘宇宁沙丘战士",
@@ -2516,6 +2676,9 @@
     },
     {
       "word": "#领悟总书记全面从严治党之喻#"
+    },
+    {
+      "word": "#中美关系的希望在人民未来在青年#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1768127397492,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 393954,
+        "num": 1063032,
+        "word": "美方再次亮明弃台主张",
+        "onboard_time": 1768118541,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233306,
+        "num": 783018,
+        "word": "AI登顶LOL韩服",
+        "onboard_time": 1768116201,
+        "rank": 1,
+        "category": "互联网,电竞"
+      },
+      {
+        "raw_hot": 36131,
+        "num": 587150,
+        "word": "神舟二十一号乘组在轨超70天",
+        "onboard_time": 1768125741,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 434413,
+        "num": 434413,
+        "word": "赵今麦告别聂曦光",
+        "onboard_time": 1768125141,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316112,
+        "num": 316112,
+        "word": "日本一餐厅墙内发现女尸",
+        "onboard_time": 1768115781,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 329868,
+        "num": 316081,
+        "word": "宋威龙祝骄阳似我也似你",
+        "onboard_time": 1768126161,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315322,
+        "num": 315322,
+        "word": "苹果脆片",
+        "onboard_time": 1768123700,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 238904,
+        "num": 238904,
+        "word": "AI照片竟然拿了摄影比赛第一名",
+        "onboard_time": 1768108461,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206210,
+        "num": 238838,
+        "word": "开了十年寒衣店第一次遇到退货",
+        "onboard_time": 1768122380,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193215,
+        "num": 238772,
+        "word": "白银暴涨暴跌比黄金更刺激",
+        "onboard_time": 1768121000,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 488051,
+        "num": 238737,
+        "word": "初老症状",
+        "onboard_time": 1768123279,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 331761,
+        "num": 238636,
+        "word": "虞书欣扛着权杖去拍戏了",
+        "onboard_time": 1768126040,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238596,
+        "num": 238596,
+        "word": "生长痛真的很痛",
+        "onboard_time": 1768125861,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229108,
+        "num": 229108,
+        "word": "流浪地球3 王智进组",
+        "onboard_time": 1768124060,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 222249,
+        "num": 222249,
+        "word": "网传杨紫和白鹿新剧同档期播出",
+        "onboard_time": 1768127060,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170389,
+        "num": 170389,
+        "word": "死了么APP 独居人群",
+        "onboard_time": 1768127241,
+        "rank": 15,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 170380,
+        "num": 170380,
+        "word": "中式咖啡 咖啡豆的洗澡水",
+        "onboard_time": 1768121840,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 167764,
+        "num": 167764,
+        "word": "朱雨玲4比2韩莹",
+        "onboard_time": 1768126820,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160386,
+        "num": 160386,
+        "word": "医生受贿3.5万元开具近2万支药品",
+        "onboard_time": 1768123581,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19079,
+        "num": 160370,
+        "word": "柯文哲蔡正元同框秀电子脚镣",
+        "onboard_time": 1768127000,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1698536,
+        "num": 158671,
+        "word": "小澈发检测报告",
+        "onboard_time": 1768114701,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 670457,
+        "num": 156674,
+        "word": "演员夫妻回应撞死人后拉黑遗属",
+        "onboard_time": 1768123040,
+        "rank": 21,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 297127,
+        "num": 155382,
+        "word": "iPhone4需求激增近1000%",
+        "onboard_time": 1768117099,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 497392,
+        "num": 155205,
+        "word": "孙怡马尔代夫度假照",
+        "onboard_time": 1768125800,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486298,
+        "num": 153279,
+        "word": "网友质疑小澈检测报告",
+        "onboard_time": 1768125441,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 152631,
+        "num": 152631,
+        "word": "女生租房仅15天被中介砸门催交租",
+        "onboard_time": 1768117460,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382234,
+        "num": 149836,
+        "word": "张奕然住廉租房",
+        "onboard_time": 1768118601,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329041,
+        "num": 147799,
+        "word": "何穗披个床单就上封面了",
+        "onboard_time": 1768124420,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 137816,
+        "num": 137816,
+        "word": "KK园区彻底清零",
+        "onboard_time": 1768112901,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 281056,
+        "num": 137814,
+        "word": "曼谷偶遇鞠婧祎逛街",
+        "onboard_time": 1768118061,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126786,
+        "num": 137764,
+        "word": "坤音2026家族演唱会",
+        "onboard_time": 1768126100,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137721,
+        "num": 137721,
+        "word": "金价飙升银行紧急提示",
+        "onboard_time": 1768118240,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 276110,
+        "num": 136459,
+        "word": "方圆回应小澈在她家住半个月",
+        "onboard_time": 1768104200,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 251668,
+        "num": 135885,
+        "word": "王俊凯鞋底是红袜子",
+        "onboard_time": 1768121182,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133305,
+        "num": 133305,
+        "word": "女子每天化精致眼妆睫毛藏6条螨虫",
+        "onboard_time": 1768119200,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219184,
+        "num": 133174,
+        "word": "宋威龙赵今麦明天合体",
+        "onboard_time": 1768121061,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201317,
+        "num": 132366,
+        "word": "卢昱晓 别扒了别扒了",
+        "onboard_time": 1768110260,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28505,
+        "num": 131539,
+        "word": "别让流量害死下一个驴友",
+        "onboard_time": 1768127300,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24500,
+        "num": 130908,
+        "word": "小伙手放电脑上睡着烫出大水疱",
+        "onboard_time": 1768127000,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58178,
+        "num": 130601,
+        "word": "工作十年熬成老员工月薪只剩2500",
+        "onboard_time": 1768126221,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130294,
+        "num": 130294,
+        "word": "Viper脸颊ok自拍",
+        "onboard_time": 1768126341,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179651,
+        "num": 129983,
+        "word": "时代峰峻致歉王橹杰",
+        "onboard_time": 1768116262,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173781,
+        "num": 129280,
+        "word": "3unshine只有Abby了",
+        "onboard_time": 1768120822,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130638,
+        "num": 128116,
+        "word": "Viper蝰蛇塑最像的一集",
+        "onboard_time": 1768126701,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 54222,
+        "num": 126615,
+        "word": "37万投资包子铺办不出营业执照",
+        "onboard_time": 1768126161,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134723,
+        "num": 125960,
+        "word": "网友评新四大女顶流",
+        "onboard_time": 1768122201,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125293,
+        "num": 125293,
+        "word": "死了么APP付费人数翻200倍",
+        "onboard_time": 1768127179,
+        "rank": 46,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 123495,
+        "num": 123495,
+        "word": "虞书欣张云龙开机照",
+        "onboard_time": 1768105700,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75481,
+        "num": 122547,
+        "word": "麻辣烫店员用选菜盆给娃洗手搓灰",
+        "onboard_time": 1768126100,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121733,
+        "num": 121733,
+        "word": "王俊凯丁禹兮鞠婧祎QQ音乐预热",
+        "onboard_time": 1768114821,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美关系的希望在人民未来在青年#"
+    }
+  }
+}

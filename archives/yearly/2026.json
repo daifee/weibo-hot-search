@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768124591688,
+  "endTime": 1768127397492,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1419,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 670457,
+      "num": 156674,
+      "word": "演员夫妻回应撞死人后拉黑遗属",
+      "onboard_time": 1768123040,
+      "rank": 32,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 668083,
       "num": 582382,
       "word": "景德镇肇事司机家属冲撞公诉席被摁住",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767953900,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 522348,
-      "num": 425186,
-      "word": "ICE枪杀",
-      "onboard_time": 1767941361,
-      "rank": 14,
-      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
