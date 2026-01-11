@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768113738247,
+  "endTime": 1768114534250,
   "band_list": [
     {
       "raw_hot": 2076111,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 714958,
-      "num": 156309,
+      "num": 170365,
       "word": "卢昱晓 别扒了别扒了",
       "onboard_time": 1768110260,
       "rank": 15,
@@ -291,12 +291,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329534,
+      "num": 308798,
+      "word": "扁扁咪 鼓鼓咪",
+      "onboard_time": 1768111881,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 328307,
       "num": 328307,
       "word": "白鹿剧宣来的太快就像龙卷风",
       "onboard_time": 1768093760,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 325582,
+      "num": 325582,
+      "word": "KK园区彻底清零",
+      "onboard_time": 1768112901,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 322411,
+      "num": 322411,
+      "word": "美国蜜雪冰城含糖量",
+      "onboard_time": 1768110559,
+      "rank": 3,
+      "category": "美食"
     },
     {
       "raw_hot": 321209,
@@ -323,14 +347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 299045,
-      "num": 299045,
-      "word": "美国蜜雪冰城含糖量",
-      "onboard_time": 1768110559,
-      "rank": 3,
-      "category": "美食"
-    },
-    {
       "raw_hot": 282139,
       "num": 282139,
       "word": "云初令",
@@ -355,20 +371,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 245116,
-      "num": 97540,
+      "raw_hot": 254832,
+      "num": 125116,
       "word": "被体制内大佬的工作留痕震撼到了",
       "onboard_time": 1768110981,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 241438,
-      "num": 241438,
-      "word": "扁扁咪 鼓鼓咪",
-      "onboard_time": 1768111881,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 238942,
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 213835,
-      "num": 774229,
+      "num": 787791,
       "word": "救援队被秦岭遇难者家属起诉一审结束",
       "onboard_time": 1768108580,
       "rank": 18,
@@ -459,6 +467,14 @@
       "category": "民生新闻,体育"
     },
     {
+      "raw_hot": 196120,
+      "num": 145765,
+      "word": "奔跑吧节目组还没联系邵子恒吗",
+      "onboard_time": 1768113441,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193051,
       "num": 125883,
       "word": "刘一诺说从未主动爆料檀健次",
@@ -473,6 +489,14 @@
       "onboard_time": 1768054103,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187263,
+      "num": 187263,
+      "word": "抹茶最早发展于唐朝",
+      "onboard_time": 1768114162,
+      "rank": 7,
+      "category": "美食"
     },
     {
       "raw_hot": 185852,
@@ -515,12 +539,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 175137,
+      "num": 124469,
+      "word": "杨博文 插画界来了一个小天才",
+      "onboard_time": 1768113621,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 174668,
       "num": 136484,
       "word": "鹅妈妈谈小澈事件",
       "onboard_time": 1768087395,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 172938,
+      "num": 172938,
+      "word": "偷挖三百平地下室业主赔每户1500",
+      "onboard_time": 1768110800,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172082,
@@ -531,8 +571,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171681,
+      "num": 171681,
+      "word": "夫妻卖10元盒饭20年挣2套房",
+      "onboard_time": 1768110741,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171118,
-      "num": 95866,
+      "num": 123592,
       "word": "彭小苒零下10度穿无袖",
       "onboard_time": 1768112182,
       "rank": 28,
@@ -556,7 +604,7 @@
     },
     {
       "raw_hot": 163093,
-      "num": 111121,
+      "num": 122653,
       "word": "Amy姐说林俊杰前任美商很高",
       "onboard_time": 1768109601,
       "rank": 49,
@@ -576,14 +624,6 @@
       "word": "中国科学家发现基因封条",
       "onboard_time": 1768105400,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161318,
-      "num": 161318,
-      "word": "夫妻卖10元盒饭20年挣2套房",
-      "onboard_time": 1768110741,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -643,22 +683,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 152456,
-      "num": 80167,
-      "word": "杨博文 插画界来了一个小天才",
-      "onboard_time": 1768113621,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 149715,
-      "num": 149715,
-      "word": "偷挖三百平地下室业主赔每户1500",
-      "onboard_time": 1768110800,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146137,
       "num": 146137,
       "word": "谢娜的菜来了",
@@ -667,7 +691,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142529,
+      "raw_hot": 144925,
       "num": 142529,
       "word": "dora退出3unshine",
       "onboard_time": 1768110860,
@@ -739,6 +763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126665,
+      "num": 126665,
+      "word": "原来鸡还能下麻辣蛋",
+      "onboard_time": 1768113441,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123630,
       "num": 123630,
       "word": "吃下一头大蒜你的身体会怎样",
@@ -803,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115717,
+      "num": 115717,
+      "word": "陶喆破了自己28年的纪录",
+      "onboard_time": 1768113081,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 113600,
       "num": 113600,
       "word": "施罗德被禁赛三场",
@@ -827,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110435,
+      "num": 110435,
+      "word": "赵丽颖被道具砸懵了",
+      "onboard_time": 1768111461,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107941,
       "num": 124288,
       "word": "苍兰诀云初令是一个地方开机",
@@ -841,14 +889,6 @@
       "onboard_time": 1768108940,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 104714,
-      "num": 79480,
-      "word": "赵丽颖被道具砸懵了",
-      "onboard_time": 1768111461,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 102619,
@@ -923,14 +963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97141,
-      "num": 97141,
-      "word": "奔跑吧节目组还没联系邵子恒吗",
-      "onboard_time": 1768113441,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 96582,
       "num": 196234,
       "word": "iPhone里最容易忽略的效率神器",
@@ -987,14 +1019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 92209,
-      "num": 78496,
-      "word": "陶喆破了自己28年的纪录",
-      "onboard_time": 1768113081,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 91835,
       "num": 91835,
       "word": "成都地铁回应1人1座设计",
@@ -1033,14 +1057,6 @@
       "onboard_time": 1768100240,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 89451,
-      "num": 77900,
-      "word": "原来鸡还能下麻辣蛋",
-      "onboard_time": 1768113441,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 88358,
@@ -1089,6 +1105,14 @@
       "onboard_time": 1768111821,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83398,
+      "num": 83398,
+      "word": "法国司法部长撞脸赵本山",
+      "onboard_time": 1768114220,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 82541,
@@ -1164,7 +1188,7 @@
     },
     {
       "raw_hot": 80258,
-      "num": 80258,
+      "num": 117482,
       "word": "苏翊鸣回应获世界杯亚军",
       "onboard_time": 1768113621,
       "rank": 33,
@@ -1185,6 +1209,14 @@
       "onboard_time": 1768112661,
       "rank": 36,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 79989,
+      "num": 79989,
+      "word": "sakee详细说明",
+      "onboard_time": 1768114162,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 79127,
@@ -1228,11 +1260,19 @@
     },
     {
       "raw_hot": 77993,
-      "num": 77993,
+      "num": 111321,
       "word": "马斯克宣布下周开源X最新推荐算法",
       "onboard_time": 1768113323,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 77618,
+      "num": 95640,
+      "word": "胡连馨以后上综艺你就长点心吧",
+      "onboard_time": 1768114401,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 77553,
@@ -1339,12 +1379,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 69698,
+      "num": 122703,
+      "word": "一个班学生集体退货演出服",
+      "onboard_time": 1768113861,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69361,
       "num": 195924,
       "word": "sakee文言文",
       "onboard_time": 1768047682,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 68602,
+      "num": 83938,
+      "word": "让我睡满十个小时再去爱这个世界",
+      "onboard_time": 1768114401,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 68588,
@@ -1401,6 +1457,14 @@
       "onboard_time": 1768057523,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 65803,
+      "num": 76683,
+      "word": "冰淇淋吐司",
+      "onboard_time": 1768112541,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 64818,
@@ -1489,14 +1553,6 @@
       "onboard_time": 1768098380,
       "rank": 49,
       "category": "网红"
-    },
-    {
-      "raw_hot": 59662,
-      "num": 158394,
-      "word": "KK园区彻底清零",
-      "onboard_time": 1768112901,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 58695,
@@ -1811,6 +1867,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14117,
+      "num": 627232,
+      "word": "歼20带来的满满安全感",
+      "onboard_time": 1768101499,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13097,
       "num": 24876,
       "word": "美石油高管对投资委内瑞拉表态谨慎",
@@ -1819,20 +1883,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 10424,
+      "num": 88870,
+      "word": "茶颜悦色门店售卖过期奶酥菠萝包",
+      "onboard_time": 1768114162,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9496,
       "num": 641431,
       "word": "规范互联网应用程序个人信息收集使用",
       "onboard_time": 1768035021,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8782,
-      "num": 612472,
-      "word": "歼20带来的满满安全感",
-      "onboard_time": 1768101499,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
