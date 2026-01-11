@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768123785266,
+  "endTime": 1768124591688,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 378599,
-      "num": 802380,
+      "num": 806861,
       "word": "AI登顶LOL韩服",
       "onboard_time": 1768116201,
       "rank": 34,
@@ -361,6 +361,14 @@
       "onboard_time": 1768096460,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 342127,
+      "num": 175694,
+      "word": "宋威龙赵今麦明天合体",
+      "onboard_time": 1768121061,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 338267,
@@ -459,14 +467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 279228,
-      "num": 175694,
-      "word": "宋威龙赵今麦明天合体",
-      "onboard_time": 1768121061,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 272479,
       "num": 272479,
       "word": "黄晓明吃泡面这段太有生活了",
@@ -513,6 +513,14 @@
       "onboard_time": 1768119200,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 248997,
+      "num": 155924,
+      "word": "演员夫妻回应撞死人后拉黑遗属",
+      "onboard_time": 1768123040,
+      "rank": 32,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 246273,
@@ -587,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216071,
+      "num": 97588,
+      "word": "何穗披个床单就上封面了",
+      "onboard_time": 1768124420,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 215784,
       "num": 196423,
       "word": "13岁男孩拒绝老妇邀约偷铁皮被杀",
@@ -609,6 +625,22 @@
       "onboard_time": 1768110741,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207188,
+      "num": 137684,
+      "word": "3unshine只有Abby了",
+      "onboard_time": 1768120822,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 204046,
+      "num": 175658,
+      "word": "初老症状",
+      "onboard_time": 1768123279,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 200980,
@@ -739,6 +771,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 174316,
+      "num": 142174,
+      "word": "开了十年寒衣店第一次遇到退货",
+      "onboard_time": 1768122380,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 172938,
       "num": 257183,
       "word": "偷挖三百平地下室业主赔每户1500",
@@ -779,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163882,
+      "num": 160429,
+      "word": "网友评新四大女顶流",
+      "onboard_time": 1768122201,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163093,
       "num": 133949,
       "word": "Amy姐说林俊杰前任美商很高",
@@ -801,14 +849,6 @@
       "onboard_time": 1768105400,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 160429,
-      "num": 160429,
-      "word": "网友评新四大女顶流",
-      "onboard_time": 1768122201,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 159503,
@@ -857,14 +897,6 @@
       "onboard_time": 1768105281,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 155924,
-      "num": 155924,
-      "word": "演员夫妻回应撞死人后拉黑遗属",
-      "onboard_time": 1768123040,
-      "rank": 32,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 154996,
@@ -923,12 +955,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 142174,
-      "num": 142174,
-      "word": "开了十年寒衣店第一次遇到退货",
-      "onboard_time": 1768122380,
-      "rank": 33,
-      "category": "幽默"
+      "raw_hot": 140402,
+      "num": 140402,
+      "word": "中式咖啡 咖啡豆的洗澡水",
+      "onboard_time": 1768121840,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 139987,
@@ -939,20 +971,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 137684,
-      "num": 137684,
-      "word": "3unshine只有Abby了",
-      "onboard_time": 1768120822,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 136943,
       "num": 134428,
       "word": "女子先嫁2人未离婚又跟9人结离婚",
       "onboard_time": 1768098020,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136197,
+      "num": 175562,
+      "word": "白银暴涨暴跌比黄金更刺激",
+      "onboard_time": 1768121000,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 134848,
@@ -1019,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127644,
+      "num": 115297,
+      "word": "松天硕直播",
+      "onboard_time": 1768123521,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126665,
       "num": 126665,
       "word": "原来鸡还能下麻辣蛋",
@@ -1033,6 +1073,14 @@
       "onboard_time": 1768088717,
       "rank": 27,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 123036,
+      "num": 123036,
+      "word": "苹果脆片",
+      "onboard_time": 1768123700,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 122541,
@@ -1075,14 +1123,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 117006,
-      "num": 175658,
-      "word": "初老症状",
-      "onboard_time": 1768123279,
-      "rank": 17,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 116658,
       "num": 116658,
       "word": "刘宇宁成都不吃火锅的原因",
@@ -1107,28 +1147,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 115297,
-      "num": 115297,
-      "word": "松天硕直播",
-      "onboard_time": 1768123521,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 113600,
       "num": 113600,
       "word": "施罗德被禁赛三场",
       "onboard_time": 1768099760,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113385,
-      "num": 175562,
-      "word": "白银暴涨暴跌比黄金更刺激",
-      "onboard_time": 1768121000,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 112597,
@@ -1161,6 +1185,14 @@
       "onboard_time": 1768111461,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109036,
+      "num": 175152,
+      "word": "Faker有信心战胜AI",
+      "onboard_time": 1768122620,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 107941,
@@ -1201,6 +1233,14 @@
       "onboard_time": 1768120221,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104610,
+      "num": 104610,
+      "word": "流浪地球3 王智进组",
+      "onboard_time": 1768124060,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 104011,
@@ -1267,20 +1307,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99964,
+      "num": 99964,
+      "word": "医生受贿3.5万元开具近2万支药品",
+      "onboard_time": 1768123581,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99809,
       "num": 196320,
       "word": "飞机延误中国大妈带中外友人练八段锦",
       "onboard_time": 1768057162,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 98999,
-      "num": 98999,
-      "word": "中式咖啡 咖啡豆的洗澡水",
-      "onboard_time": 1768121840,
-      "rank": 38,
-      "category": "美食"
     },
     {
       "raw_hot": 98934,
@@ -1339,14 +1379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95258,
-      "num": 175152,
-      "word": "Faker有信心战胜AI",
-      "onboard_time": 1768122620,
-      "rank": 27,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 94858,
       "num": 94858,
       "word": "热乎饭的正确打开方式",
@@ -1371,12 +1403,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 94108,
-      "num": 94108,
-      "word": "医生受贿3.5万元开具近2万支药品",
-      "onboard_time": 1768123581,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 93921,
+      "num": 93921,
+      "word": "日乒教练分析松岛辉空与王楚钦差距",
+      "onboard_time": 1768124119,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 93136,
@@ -1401,6 +1433,14 @@
       "onboard_time": 1768098801,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91023,
+      "num": 91023,
+      "word": "Bin说不会说赛前垃圾话了",
+      "onboard_time": 1768124001,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 90958,
@@ -1457,14 +1497,6 @@
       "onboard_time": 1768101381,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 87783,
-      "num": 87783,
-      "word": "苹果脆片",
-      "onboard_time": 1768123700,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 87619,
@@ -2307,6 +2339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 28734,
+      "num": 101283,
+      "word": "在百年未有变局中推进祖国统一大业",
+      "onboard_time": 1768124360,
+      "rank": 25,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 28508,
       "num": 70491,
       "word": "卢昱晓问陈星旭我只是你的同事吗",
@@ -2395,6 +2435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21447,
+      "num": 96031,
+      "word": "男子持刀和矛行凶后服毒自杀未遂",
+      "onboard_time": 1768123821,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20114,
       "num": 38634,
       "word": "轧戏女主男二cp感",
@@ -2417,6 +2465,14 @@
       "onboard_time": 1768076653,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 15772,
+      "num": 96293,
+      "word": "艺人间太熟了也是什么话都敢说",
+      "onboard_time": 1768124481,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 14507,

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768123785266,
+  "endTime": 1768124591688,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -4220,7 +4220,7 @@
     },
     {
       "raw_hot": 378599,
-      "num": 802380,
+      "num": 806861,
       "word": "AI登顶LOL韩服",
       "onboard_time": 1768116201,
       "rank": 34,
@@ -4872,6 +4872,14 @@
       "word": "刘美含说的是谁",
       "onboard_time": 1767925700,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 342127,
+      "num": 175694,
+      "word": "宋威龙赵今麦明天合体",
+      "onboard_time": 1768121061,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -6307,14 +6315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 279228,
-      "num": 175694,
-      "word": "宋威龙赵今麦明天合体",
-      "onboard_time": 1768121061,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 279044,
       "num": 453355,
       "word": "李维嘉跨年夜哭是因为想谢娜了",
@@ -7273,6 +7273,14 @@
       "onboard_time": 1767794004,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248997,
+      "num": 155924,
+      "word": "演员夫妻回应撞死人后拉黑遗属",
+      "onboard_time": 1768123040,
+      "rank": 32,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 248862,
@@ -8347,6 +8355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216071,
+      "num": 97588,
+      "word": "何穗披个床单就上封面了",
+      "onboard_time": 1768124420,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 215945,
       "num": 255123,
       "word": "檀健次湖南跨年舞台推荐第一",
@@ -8763,6 +8779,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 207188,
+      "num": 137684,
+      "word": "3unshine只有Abby了",
+      "onboard_time": 1768120822,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206721,
       "num": 206721,
       "word": "荣耀之战橹穆没有双人舞台",
@@ -8929,6 +8953,14 @@
       "onboard_time": 1767255260,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 204046,
+      "num": 175658,
+      "word": "初老症状",
+      "onboard_time": 1768123279,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 203563,
@@ -10995,6 +11027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174316,
+      "num": 142174,
+      "word": "开了十年寒衣店第一次遇到退货",
+      "onboard_time": 1768122380,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174223,
       "num": 174223,
       "word": "古天乐被曝拍戏时每晚照美黑灯",
@@ -11883,6 +11923,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 163882,
+      "num": 160429,
+      "word": "网友评新四大女顶流",
+      "onboard_time": 1768122201,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163675,
       "num": 585368,
       "word": "WTT多哈冠军赛2026",
@@ -12201,14 +12249,6 @@
       "onboard_time": 1767419125,
       "rank": 33,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 160429,
-      "num": 160429,
-      "word": "网友评新四大女顶流",
-      "onboard_time": 1768122201,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 160250,
@@ -12617,14 +12657,6 @@
       "onboard_time": 1767343940,
       "rank": 21,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 155924,
-      "num": 155924,
-      "word": "演员夫妻回应撞死人后拉黑遗属",
-      "onboard_time": 1768123040,
-      "rank": 32,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 155911,
@@ -13907,14 +13939,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 142174,
-      "num": 142174,
-      "word": "开了十年寒衣店第一次遇到退货",
-      "onboard_time": 1768122380,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 142096,
       "num": 142096,
       "word": "汪海声明与儿子断绝父子关系",
@@ -14153,6 +14177,14 @@
       "onboard_time": 1767179961,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140402,
+      "num": 140402,
+      "word": "中式咖啡 咖啡豆的洗澡水",
+      "onboard_time": 1768121840,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 140336,
@@ -14499,14 +14531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137684,
-      "num": 137684,
-      "word": "3unshine只有Abby了",
-      "onboard_time": 1768120822,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 137417,
       "num": 137417,
       "word": "韩国总统李在明将访华",
@@ -14713,6 +14737,14 @@
       "onboard_time": 1767677960,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136197,
+      "num": 175562,
+      "word": "白银暴涨暴跌比黄金更刺激",
+      "onboard_time": 1768121000,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 136092,
@@ -15835,6 +15867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127644,
+      "num": 115297,
+      "word": "松天硕直播",
+      "onboard_time": 1768123521,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127635,
       "num": 382221,
       "word": "瑞士酒吧爆炸幸存者发声",
@@ -16553,6 +16593,14 @@
       "onboard_time": 1767672203,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 123036,
+      "num": 123036,
+      "word": "苹果脆片",
+      "onboard_time": 1768123700,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 122971,
@@ -17531,14 +17579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 117006,
-      "num": 175658,
-      "word": "初老症状",
-      "onboard_time": 1768123279,
-      "rank": 17,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 116990,
       "num": 589160,
       "word": "爬楼机要爬上泰山了",
@@ -17833,14 +17873,6 @@
       "onboard_time": 1767872241,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 115297,
-      "num": 115297,
-      "word": "松天硕直播",
-      "onboard_time": 1768123521,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 115267,
@@ -18193,14 +18225,6 @@
       "onboard_time": 1767431725,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113385,
-      "num": 175562,
-      "word": "白银暴涨暴跌比黄金更刺激",
-      "onboard_time": 1768121000,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 113384,
@@ -18817,6 +18841,14 @@
       "onboard_time": 1767481998,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 109036,
+      "num": 175152,
+      "word": "Faker有信心战胜AI",
+      "onboard_time": 1768122620,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 108945,
@@ -19673,6 +19705,14 @@
       "onboard_time": 1767366211,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 104610,
+      "num": 104610,
+      "word": "流浪地球3 王智进组",
+      "onboard_time": 1768124060,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 104606,
@@ -20779,6 +20819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99964,
+      "num": 99964,
+      "word": "医生受贿3.5万元开具近2万支药品",
+      "onboard_time": 1768123581,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99960,
       "num": 99960,
       "word": "原来短剧作者也看不上自己写的",
@@ -20993,14 +21041,6 @@
       "onboard_time": 1767261859,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 98999,
-      "num": 98999,
-      "word": "中式咖啡 咖啡豆的洗澡水",
-      "onboard_time": 1768121840,
-      "rank": 38,
-      "category": "美食"
     },
     {
       "raw_hot": 98941,
@@ -22011,14 +22051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95258,
-      "num": 175152,
-      "word": "Faker有信心战胜AI",
-      "onboard_time": 1768122620,
-      "rank": 27,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 95184,
       "num": 95184,
       "word": "马丽央视春晚路透",
@@ -22291,14 +22323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 94108,
-      "num": 94108,
-      "word": "医生受贿3.5万元开具近2万支药品",
-      "onboard_time": 1768123581,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94066,
       "num": 94066,
       "word": "李煜东牙套勾住嘴了",
@@ -22337,6 +22361,14 @@
       "onboard_time": 1767568217,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93921,
+      "num": 93921,
+      "word": "日乒教练分析松岛辉空与王楚钦差距",
+      "onboard_time": 1768124119,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 93907,
@@ -23033,6 +23065,14 @@
       "onboard_time": 1767927919,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91023,
+      "num": 91023,
+      "word": "Bin说不会说赛前垃圾话了",
+      "onboard_time": 1768124001,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 90993,
@@ -23817,14 +23857,6 @@
       "onboard_time": 1767336979,
       "rank": 47,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 87783,
-      "num": 87783,
-      "word": "苹果脆片",
-      "onboard_time": 1768123700,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 87768,
@@ -32811,6 +32843,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 28734,
+      "num": 101283,
+      "word": "在百年未有变局中推进祖国统一大业",
+      "onboard_time": 1768124360,
+      "rank": 25,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 28718,
       "num": 70223,
       "word": "刘宇宁称巡演成都站有小惊喜",
@@ -33651,6 +33691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21447,
+      "num": 96031,
+      "word": "男子持刀和矛行凶后服毒自杀未遂",
+      "onboard_time": 1768123821,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21385,
       "num": 86157,
       "word": "服务员调包3瓶茅台被强制措施",
@@ -34073,6 +34121,14 @@
       "onboard_time": 1767634517,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15772,
+      "num": 96293,
+      "word": "艺人间太熟了也是什么话都敢说",
+      "onboard_time": 1768124481,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 15518,

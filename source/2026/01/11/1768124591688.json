@@ -1,0 +1,410 @@
+{
+  "runTime": 1768124591688,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 549340,
+        "num": 1087894,
+        "word": "美方再次亮明弃台主张",
+        "onboard_time": 1768118541,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 249734,
+        "num": 806861,
+        "word": "AI登顶LOL韩服",
+        "onboard_time": 1768116201,
+        "rank": 1,
+        "category": "互联网,电竞"
+      },
+      {
+        "raw_hot": 19320,
+        "num": 599176,
+        "word": "歼20带来的满满安全感",
+        "onboard_time": 1768101499,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 398326,
+        "num": 398326,
+        "word": "日本一餐厅墙内发现女尸",
+        "onboard_time": 1768115781,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 307222,
+        "num": 307222,
+        "word": "女生租房仅15天被中介砸门催交租",
+        "onboard_time": 1768117460,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268704,
+        "num": 268704,
+        "word": "AI照片竟然拿了摄影比赛第一名",
+        "onboard_time": 1768108461,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200942,
+        "num": 200942,
+        "word": "何炅这段话值得每个女孩背诵",
+        "onboard_time": 1768116500,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176257,
+        "num": 176257,
+        "word": "KK园区彻底清零",
+        "onboard_time": 1768112901,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 170281,
+        "num": 170281,
+        "word": "小城大事首日云合",
+        "onboard_time": 1768119621,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152326,
+        "num": 152326,
+        "word": "63岁痴呆老人掏光钱找去世40年妈妈",
+        "onboard_time": 1768117640,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257387,
+        "num": 147956,
+        "word": "梅毒成为一种日式斩杀线",
+        "onboard_time": 1768117581,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 216568,
+        "num": 145273,
+        "word": "虞书欣张云龙开机照",
+        "onboard_time": 1768105700,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204046,
+        "num": 145181,
+        "word": "初老症状",
+        "onboard_time": 1768123279,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140402,
+        "num": 140402,
+        "word": "中式咖啡 咖啡豆的洗澡水",
+        "onboard_time": 1768121840,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 136197,
+        "num": 136197,
+        "word": "白银暴涨暴跌比黄金更刺激",
+        "onboard_time": 1768121000,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135503,
+        "num": 135503,
+        "word": "扁扁咪 鼓鼓咪",
+        "onboard_time": 1768111881,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123036,
+        "num": 123036,
+        "word": "苹果脆片",
+        "onboard_time": 1768123700,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 109036,
+        "num": 109036,
+        "word": "Faker有信心战胜AI",
+        "onboard_time": 1768122620,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105040,
+        "num": 105040,
+        "word": "明川有知夏 黄景瑜金晨",
+        "onboard_time": 1768120221,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104610,
+        "num": 104610,
+        "word": "流浪地球3 王智进组",
+        "onboard_time": 1768124060,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 286260,
+        "num": 104211,
+        "word": "iPhone4需求激增近1000%",
+        "onboard_time": 1768117099,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1913566,
+        "num": 103885,
+        "word": "小澈发检测报告",
+        "onboard_time": 1768114701,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 667312,
+        "num": 102879,
+        "word": "张奕然住廉租房",
+        "onboard_time": 1768118601,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191863,
+        "num": 102331,
+        "word": "女子每天化精致眼妆睫毛藏6条螨虫",
+        "onboard_time": 1768119200,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475975,
+        "num": 101850,
+        "word": "曼谷偶遇鞠婧祎逛街",
+        "onboard_time": 1768118061,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28734,
+        "num": 101283,
+        "word": "在百年未有变局中推进祖国统一大业",
+        "onboard_time": 1768124360,
+        "rank": 25,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 385275,
+        "num": 101041,
+        "word": "方圆回应小澈在她家住半个月",
+        "onboard_time": 1768104200,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 358375,
+        "num": 100133,
+        "word": "王俊凯鞋底是红袜子",
+        "onboard_time": 1768121182,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99964,
+        "num": 99964,
+        "word": "医生受贿3.5万元开具近2万支药品",
+        "onboard_time": 1768123581,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342127,
+        "num": 99844,
+        "word": "宋威龙赵今麦明天合体",
+        "onboard_time": 1768121061,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298604,
+        "num": 99454,
+        "word": "卢昱晓 别扒了别扒了",
+        "onboard_time": 1768110260,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174316,
+        "num": 98965,
+        "word": "开了十年寒衣店第一次遇到退货",
+        "onboard_time": 1768122380,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 280426,
+        "num": 98462,
+        "word": "时代峰峻致歉王橹杰",
+        "onboard_time": 1768116262,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248997,
+        "num": 98127,
+        "word": "演员夫妻回应撞死人后拉黑遗属",
+        "onboard_time": 1768123040,
+        "rank": 33,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 146921,
+        "num": 98053,
+        "word": "金价飙升银行紧急提示",
+        "onboard_time": 1768118240,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 216071,
+        "num": 97588,
+        "word": "何穗披个床单就上封面了",
+        "onboard_time": 1768124420,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 207188,
+        "num": 97261,
+        "word": "3unshine只有Abby了",
+        "onboard_time": 1768120822,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147266,
+        "num": 96823,
+        "word": "气血足的人日常多有5个习惯",
+        "onboard_time": 1768119320,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 15772,
+        "num": 96293,
+        "word": "艺人间太熟了也是什么话都敢说",
+        "onboard_time": 1768124481,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21447,
+        "num": 96031,
+        "word": "男子持刀和矛行凶后服毒自杀未遂",
+        "onboard_time": 1768123821,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183339,
+        "num": 95708,
+        "word": "小澈直播时就有其他网红暗示了",
+        "onboard_time": 1768105221,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 168859,
+        "num": 95259,
+        "word": "赵樱子说跟蒋毅在一起了",
+        "onboard_time": 1768120341,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112553,
+        "num": 95011,
+        "word": "小腿出现这个变化建议查查血糖",
+        "onboard_time": 1768115661,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163882,
+        "num": 94645,
+        "word": "网友评新四大女顶流",
+        "onboard_time": 1768122201,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151910,
+        "num": 93976,
+        "word": "王俊凯丁禹兮鞠婧祎QQ音乐预热",
+        "onboard_time": 1768114821,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93921,
+        "num": 93921,
+        "word": "日乒教练分析松岛辉空与王楚钦差距",
+        "onboard_time": 1768124119,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127644,
+        "num": 93840,
+        "word": "松天硕直播",
+        "onboard_time": 1768123521,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93450,
+        "num": 93450,
+        "word": "刘一诺直播回应和檀健次的恋情",
+        "onboard_time": 1768097721,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91023,
+        "num": 91023,
+        "word": "Bin说不会说赛前垃圾话了",
+        "onboard_time": 1768124001,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86316,
+        "num": 86316,
+        "word": "近五年7分以上现偶",
+        "onboard_time": 1768121661,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#领悟总书记全面从严治党之喻#"
+    }
+  }
+}
