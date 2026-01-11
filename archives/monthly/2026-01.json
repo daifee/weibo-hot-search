@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768121363933,
+  "endTime": 1768123785266,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1563752,
-      "num": 150029,
+      "num": 175349,
       "word": "方圆回应小澈在她家住半个月",
       "onboard_time": 1768104200,
       "rank": 21,
@@ -1187,6 +1187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 738148,
+      "num": 176040,
+      "word": "张奕然住廉租房",
+      "onboard_time": 1768118601,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 734115,
       "num": 1117458,
       "word": "韩国四大财团掌门人在京集体亮相",
@@ -1939,6 +1947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 567891,
+      "num": 1090862,
+      "word": "美方再次亮明弃台主张",
+      "onboard_time": 1768118541,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 565640,
       "num": 259984,
       "word": "刘宇宁终于默认了婆婆",
@@ -2124,7 +2140,7 @@
     },
     {
       "raw_hot": 543870,
-      "num": 150036,
+      "num": 175466,
       "word": "时代峰峻致歉王橹杰",
       "onboard_time": 1768116262,
       "rank": 24,
@@ -2425,14 +2441,6 @@
       "onboard_time": 1767530542,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 518544,
-      "num": 1082967,
-      "word": "美方再次亮明弃台主张",
-      "onboard_time": 1768118541,
-      "rank": 0,
-      "category": "国际时政"
     },
     {
       "raw_hot": 518266,
@@ -2801,14 +2809,6 @@
       "onboard_time": 1768017261,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 490797,
-      "num": 170732,
-      "word": "张奕然住廉租房",
-      "onboard_time": 1768118601,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 489574,
@@ -3772,7 +3772,7 @@
     },
     {
       "raw_hot": 414718,
-      "num": 149990,
+      "num": 175106,
       "word": "小澈脱粉粉丝爆料",
       "onboard_time": 1768103420,
       "rank": 23,
@@ -4017,6 +4017,14 @@
       "onboard_time": 1767620302,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 395369,
+      "num": 175887,
+      "word": "王俊凯鞋底是红袜子",
+      "onboard_time": 1768121182,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 394705,
@@ -4924,7 +4932,7 @@
     },
     {
       "raw_hot": 338011,
-      "num": 150054,
+      "num": 175416,
       "word": "iPhone4需求激增近1000%",
       "onboard_time": 1768117099,
       "rank": 35,
@@ -6051,6 +6059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 288570,
+      "num": 235436,
+      "word": "梅毒成为一种日式斩杀线",
+      "onboard_time": 1768117581,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 288384,
       "num": 1756179,
       "word": "五角大楼附近披萨订单量又升高了",
@@ -6289,6 +6305,14 @@
       "onboard_time": 1767251300,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279228,
+      "num": 175694,
+      "word": "宋威龙赵今麦明天合体",
+      "onboard_time": 1768121061,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 279044,
@@ -7204,7 +7228,7 @@
     },
     {
       "raw_hot": 250416,
-      "num": 150015,
+      "num": 175279,
       "word": "女子每天化精致眼妆睫毛藏6条螨虫",
       "onboard_time": 1768119200,
       "rank": 24,
@@ -7569,14 +7593,6 @@
       "onboard_time": 1767831080,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 235436,
-      "num": 235436,
-      "word": "梅毒成为一种日式斩杀线",
-      "onboard_time": 1768117581,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 235343,
@@ -8304,6 +8320,14 @@
       "word": "女子每天久穿光腿神器闷出妇科病",
       "onboard_time": 1767926301,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216857,
+      "num": 216857,
+      "word": "63岁痴呆老人掏光钱找去世40年妈妈",
+      "onboard_time": 1768117640,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -10587,6 +10611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179906,
+      "num": 175251,
+      "word": "金价飙升银行紧急提示",
+      "onboard_time": 1768118240,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 179614,
       "num": 179614,
       "word": "国产剧里的恶魔有脸了",
@@ -10769,6 +10801,14 @@
       "onboard_time": 1767669441,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 176895,
+      "num": 175192,
+      "word": "赵樱子说跟蒋毅在一起了",
+      "onboard_time": 1768120341,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 176812,
@@ -11099,14 +11139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 172360,
-      "num": 172360,
-      "word": "63岁痴呆老人掏光钱找去世40年妈妈",
-      "onboard_time": 1768117640,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 172358,
       "num": 107221,
       "word": "曾比特瘦了40斤",
@@ -11161,14 +11193,6 @@
       "onboard_time": 1767325340,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171809,
-      "num": 140693,
-      "word": "赵樱子说跟蒋毅在一起了",
-      "onboard_time": 1768120341,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 171587,
@@ -11859,14 +11883,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 163897,
-      "num": 139554,
-      "word": "金价飙升银行紧急提示",
-      "onboard_time": 1768118240,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 163675,
       "num": 585368,
       "word": "WTT多哈冠军赛2026",
@@ -12185,6 +12201,14 @@
       "onboard_time": 1767419125,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 160429,
+      "num": 160429,
+      "word": "网友评新四大女顶流",
+      "onboard_time": 1768122201,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 160250,
@@ -12595,6 +12619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 155924,
+      "num": 155924,
+      "word": "演员夫妻回应撞死人后拉黑遗属",
+      "onboard_time": 1768123040,
+      "rank": 32,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 155911,
       "num": 523974,
       "word": "张凌赫新剧9号开机",
@@ -12923,6 +12955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151523,
+      "num": 160923,
+      "word": "气血足的人日常多有5个习惯",
+      "onboard_time": 1768119320,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 151426,
       "num": 151426,
       "word": "金吾不禁",
@@ -12977,14 +13017,6 @@
       "onboard_time": 1767341299,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 150381,
-      "num": 137933,
-      "word": "气血足的人日常多有5个习惯",
-      "onboard_time": 1768119320,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 150356,
@@ -13875,6 +13907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142174,
+      "num": 142174,
+      "word": "开了十年寒衣店第一次遇到退货",
+      "onboard_time": 1768122380,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142096,
       "num": 142096,
       "word": "汪海声明与儿子断绝父子关系",
@@ -14456,6 +14496,14 @@
       "word": "陈星旭王玉雯dior活动路透",
       "onboard_time": 1768038620,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 137684,
+      "num": 137684,
+      "word": "3unshine只有Abby了",
+      "onboard_time": 1768120822,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -17483,6 +17531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117006,
+      "num": 175658,
+      "word": "初老症状",
+      "onboard_time": 1768123279,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 116990,
       "num": 589160,
       "word": "爬楼机要爬上泰山了",
@@ -17777,6 +17833,14 @@
       "onboard_time": 1767872241,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 115297,
+      "num": 115297,
+      "word": "松天硕直播",
+      "onboard_time": 1768123521,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 115267,
@@ -18129,6 +18193,14 @@
       "onboard_time": 1767431725,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113385,
+      "num": 175562,
+      "word": "白银暴涨暴跌比黄金更刺激",
+      "onboard_time": 1768121000,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 113384,
@@ -18779,14 +18851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108791,
-      "num": 108791,
-      "word": "王俊凯鞋底是红袜子",
-      "onboard_time": 1768121182,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 108785,
       "num": 188877,
       "word": "七七首次在机场被粉丝接机",
@@ -18809,14 +18873,6 @@
       "onboard_time": 1767788003,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 108714,
-      "num": 103222,
-      "word": "3unshine只有Abby了",
-      "onboard_time": 1768120822,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 108713,
@@ -20939,6 +20995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 98999,
+      "num": 98999,
+      "word": "中式咖啡 咖啡豆的洗澡水",
+      "onboard_time": 1768121840,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 98941,
       "num": 346184,
       "word": "鲍鱼价格跌至10元3只",
@@ -21273,6 +21337,14 @@
       "onboard_time": 1767698661,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 97754,
+      "num": 97754,
+      "word": "中国人手中万物皆可做豆腐",
+      "onboard_time": 1768122982,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 97740,
@@ -21939,6 +22011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95258,
+      "num": 175152,
+      "word": "Faker有信心战胜AI",
+      "onboard_time": 1768122620,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 95184,
       "num": 95184,
       "word": "马丽央视春晚路透",
@@ -22209,6 +22289,14 @@
       "onboard_time": 1767681441,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94108,
+      "num": 94108,
+      "word": "医生受贿3.5万元开具近2万支药品",
+      "onboard_time": 1768123581,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94066,
@@ -23107,6 +23195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90276,
+      "num": 90276,
+      "word": "近五年7分以上现偶",
+      "onboard_time": 1768121661,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 90274,
       "num": 201930,
       "word": "小城大事质感",
@@ -23193,14 +23289,6 @@
       "onboard_time": 1767598222,
       "rank": 44,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 89954,
-      "num": 89954,
-      "word": "宋威龙赵今麦明天合体",
-      "onboard_time": 1768121061,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 89871,
@@ -23320,6 +23408,14 @@
       "word": "骄阳似我初吻热恋结婚",
       "onboard_time": 1767705021,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 89502,
+      "num": 89502,
+      "word": "演了4集男女主怼了4集",
+      "onboard_time": 1768121781,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -23723,6 +23819,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 87783,
+      "num": 87783,
+      "word": "苹果脆片",
+      "onboard_time": 1768123700,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 87768,
       "num": 586898,
       "word": "爱具体的人过具体的生活",
@@ -23913,14 +24017,6 @@
       "onboard_time": 1768022839,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87188,
-      "num": 96192,
-      "word": "白银暴涨暴跌比黄金更刺激",
-      "onboard_time": 1768121000,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 87179,
@@ -26811,6 +26907,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 74101,
+      "num": 74101,
+      "word": "终于知道刘海卷筒到底怎么用了",
+      "onboard_time": 1768123401,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 74072,
       "num": 74072,
       "word": "AI应用概念爆发",
@@ -27113,6 +27217,14 @@
       "onboard_time": 1767711923,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 71906,
+      "num": 71906,
+      "word": "韩莹vs朱雨玲",
+      "onboard_time": 1768122140,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 71877,
@@ -33313,6 +33425,14 @@
       "onboard_time": 1767983054,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22976,
+      "num": 98789,
+      "word": "甘肃申建自贸区",
+      "onboard_time": 1768122620,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 22966,

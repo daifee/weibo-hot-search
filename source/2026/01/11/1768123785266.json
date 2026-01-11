@@ -1,0 +1,410 @@
+{
+  "runTime": 1768123785266,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 567891,
+        "num": 1090862,
+        "word": "美方再次亮明弃台主张",
+        "onboard_time": 1768118541,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 267036,
+        "num": 776866,
+        "word": "AI登顶LOL韩服",
+        "onboard_time": 1768116201,
+        "rank": 1,
+        "category": "互联网,电竞"
+      },
+      {
+        "raw_hot": 22052,
+        "num": 615167,
+        "word": "歼20带来的满满安全感",
+        "onboard_time": 1768101499,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 420680,
+        "num": 420680,
+        "word": "日本一餐厅墙内发现女尸",
+        "onboard_time": 1768115781,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 398970,
+        "num": 398970,
+        "word": "女生租房仅15天被中介砸门催交租",
+        "onboard_time": 1768117460,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265814,
+        "num": 265814,
+        "word": "AI照片竟然拿了摄影比赛第一名",
+        "onboard_time": 1768108461,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219185,
+        "num": 219185,
+        "word": "何炅这段话值得每个女孩背诵",
+        "onboard_time": 1768116500,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216857,
+        "num": 216857,
+        "word": "63岁痴呆老人掏光钱找去世40年妈妈",
+        "onboard_time": 1768117640,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176097,
+        "num": 176097,
+        "word": "KK园区彻底清零",
+        "onboard_time": 1768112901,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 164676,
+        "num": 176081,
+        "word": "小城大事首日云合",
+        "onboard_time": 1768119621,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 738148,
+        "num": 176040,
+        "word": "张奕然住廉租房",
+        "onboard_time": 1768118601,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288570,
+        "num": 175982,
+        "word": "梅毒成为一种日式斩杀线",
+        "onboard_time": 1768117581,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 589752,
+        "num": 175927,
+        "word": "曼谷偶遇鞠婧祎逛街",
+        "onboard_time": 1768118061,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395369,
+        "num": 175887,
+        "word": "王俊凯鞋底是红袜子",
+        "onboard_time": 1768121182,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144792,
+        "num": 175810,
+        "word": "扁扁咪 鼓鼓咪",
+        "onboard_time": 1768111881,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 343742,
+        "num": 175779,
+        "word": "卢昱晓 别扒了别扒了",
+        "onboard_time": 1768110260,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279228,
+        "num": 175694,
+        "word": "宋威龙赵今麦明天合体",
+        "onboard_time": 1768121061,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117006,
+        "num": 175658,
+        "word": "初老症状",
+        "onboard_time": 1768123279,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 217477,
+        "num": 175577,
+        "word": "虞书欣张云龙开机照",
+        "onboard_time": 1768105700,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113385,
+        "num": 175562,
+        "word": "白银暴涨暴跌比黄金更刺激",
+        "onboard_time": 1768121000,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1988167,
+        "num": 175495,
+        "word": "小澈发检测报告",
+        "onboard_time": 1768114701,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 320790,
+        "num": 175466,
+        "word": "时代峰峻致歉王橹杰",
+        "onboard_time": 1768116262,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317482,
+        "num": 175416,
+        "word": "iPhone4需求激增近1000%",
+        "onboard_time": 1768117099,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 424249,
+        "num": 175349,
+        "word": "方圆回应小澈在她家住半个月",
+        "onboard_time": 1768104200,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 202680,
+        "num": 175279,
+        "word": "女子每天化精致眼妆睫毛藏6条螨虫",
+        "onboard_time": 1768119200,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179906,
+        "num": 175251,
+        "word": "金价飙升银行紧急提示",
+        "onboard_time": 1768118240,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 176895,
+        "num": 175192,
+        "word": "赵樱子说跟蒋毅在一起了",
+        "onboard_time": 1768120341,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95258,
+        "num": 175152,
+        "word": "Faker有信心战胜AI",
+        "onboard_time": 1768122620,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175106,
+        "num": 175106,
+        "word": "小澈脱粉粉丝爆料",
+        "onboard_time": 1768103420,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 166731,
+        "num": 166731,
+        "word": "王俊凯丁禹兮鞠婧祎QQ音乐预热",
+        "onboard_time": 1768114821,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151523,
+        "num": 160923,
+        "word": "气血足的人日常多有5个习惯",
+        "onboard_time": 1768119320,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160429,
+        "num": 160429,
+        "word": "网友评新四大女顶流",
+        "onboard_time": 1768122201,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155924,
+        "num": 155924,
+        "word": "演员夫妻回应撞死人后拉黑遗属",
+        "onboard_time": 1768123040,
+        "rank": 32,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 142174,
+        "num": 142174,
+        "word": "开了十年寒衣店第一次遇到退货",
+        "onboard_time": 1768122380,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137684,
+        "num": 137684,
+        "word": "3unshine只有Abby了",
+        "onboard_time": 1768120822,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118757,
+        "num": 118757,
+        "word": "小腿出现这个变化建议查查血糖",
+        "onboard_time": 1768115661,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115297,
+        "num": 115297,
+        "word": "松天硕直播",
+        "onboard_time": 1768123521,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99363,
+        "num": 99363,
+        "word": "明川有知夏 黄景瑜金晨",
+        "onboard_time": 1768120221,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98999,
+        "num": 98999,
+        "word": "中式咖啡 咖啡豆的洗澡水",
+        "onboard_time": 1768121840,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 22976,
+        "num": 98789,
+        "word": "甘肃申建自贸区",
+        "onboard_time": 1768122620,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98603,
+        "num": 98603,
+        "word": "刘一诺直播回应和檀健次的恋情",
+        "onboard_time": 1768097721,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97754,
+        "num": 97754,
+        "word": "中国人手中万物皆可做豆腐",
+        "onboard_time": 1768122982,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 94108,
+        "num": 94108,
+        "word": "医生受贿3.5万元开具近2万支药品",
+        "onboard_time": 1768123581,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90276,
+        "num": 90276,
+        "word": "近五年7分以上现偶",
+        "onboard_time": 1768121661,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89502,
+        "num": 89502,
+        "word": "演了4集男女主怼了4集",
+        "onboard_time": 1768121781,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88412,
+        "num": 88412,
+        "word": "被体制内大佬的工作留痕震撼到了",
+        "onboard_time": 1768110981,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87783,
+        "num": 87783,
+        "word": "苹果脆片",
+        "onboard_time": 1768123700,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 77298,
+        "num": 77298,
+        "word": "唐宫奇案",
+        "onboard_time": 1768097721,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74101,
+        "num": 74101,
+        "word": "终于知道刘海卷筒到底怎么用了",
+        "onboard_time": 1768123401,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 71906,
+        "num": 71906,
+        "word": "韩莹vs朱雨玲",
+        "onboard_time": 1768122140,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#领悟总书记全面从严治党之喻#"
+    }
+  }
+}

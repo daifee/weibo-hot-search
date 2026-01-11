@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768121363933,
+  "endTime": 1768123785266,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1563752,
-      "num": 150029,
+      "num": 175349,
       "word": "方圆回应小澈在她家住半个月",
       "onboard_time": 1768104200,
       "rank": 21,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 738148,
+      "num": 176040,
+      "word": "张奕然住廉租房",
+      "onboard_time": 1768118601,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 717720,
       "num": 545076,
       "word": "死了么APP发文回应",
@@ -155,6 +163,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 567891,
+      "num": 1090862,
+      "word": "美方再次亮明弃台主张",
+      "onboard_time": 1768118541,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 552604,
       "num": 1088416,
       "word": "河南新蔡通报13岁男生宿舍内死亡",
@@ -172,19 +188,11 @@
     },
     {
       "raw_hot": 543870,
-      "num": 150036,
+      "num": 175466,
       "word": "时代峰峻致歉王橹杰",
       "onboard_time": 1768116262,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 518544,
-      "num": 1082967,
-      "word": "美方再次亮明弃台主张",
-      "onboard_time": 1768118541,
-      "rank": 0,
-      "category": "国际时政"
     },
     {
       "raw_hot": 510403,
@@ -201,14 +209,6 @@
       "onboard_time": 1768103540,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 490797,
-      "num": 170732,
-      "word": "张奕然住廉租房",
-      "onboard_time": 1768118601,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 486097,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 414718,
-      "num": 149990,
+      "num": 175106,
       "word": "小澈脱粉粉丝爆料",
       "onboard_time": 1768103420,
       "rank": 23,
@@ -321,6 +321,14 @@
       "onboard_time": 1768108461,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 395369,
+      "num": 175887,
+      "word": "王俊凯鞋底是红袜子",
+      "onboard_time": 1768121182,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 393516,
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 338011,
-      "num": 150054,
+      "num": 175416,
       "word": "iPhone4需求激增近1000%",
       "onboard_time": 1768117099,
       "rank": 35,
@@ -435,12 +443,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 288570,
+      "num": 235436,
+      "word": "梅毒成为一种日式斩杀线",
+      "onboard_time": 1768117581,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 282139,
       "num": 282139,
       "word": "云初令",
       "onboard_time": 1768055483,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 279228,
+      "num": 175694,
+      "word": "宋威龙赵今麦明天合体",
+      "onboard_time": 1768121061,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 272479,
@@ -484,7 +508,7 @@
     },
     {
       "raw_hot": 250416,
-      "num": 150015,
+      "num": 175279,
       "word": "女子每天化精致眼妆睫毛藏6条螨虫",
       "onboard_time": 1768119200,
       "rank": 24,
@@ -513,14 +537,6 @@
       "onboard_time": 1768092020,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 235436,
-      "num": 235436,
-      "word": "梅毒成为一种日式斩杀线",
-      "onboard_time": 1768117581,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 234074,
@@ -561,6 +577,14 @@
       "onboard_time": 1768103000,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 216857,
+      "num": 216857,
+      "word": "63岁痴呆老人掏光钱找去世40年妈妈",
+      "onboard_time": 1768117640,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215784,
@@ -675,12 +699,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 179906,
+      "num": 175251,
+      "word": "金价飙升银行紧急提示",
+      "onboard_time": 1768118240,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 178595,
       "num": 150000,
       "word": "小腿出现这个变化建议查查血糖",
       "onboard_time": 1768115661,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 176895,
+      "num": 175192,
+      "word": "赵樱子说跟蒋毅在一起了",
+      "onboard_time": 1768120341,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 175137,
@@ -707,28 +747,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 172360,
-      "num": 172360,
-      "word": "63岁痴呆老人掏光钱找去世40年妈妈",
-      "onboard_time": 1768117640,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 172082,
       "num": 172082,
       "word": "名侦探学院",
       "onboard_time": 1768107800,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 171809,
-      "num": 140693,
-      "word": "赵樱子说跟蒋毅在一起了",
-      "onboard_time": 1768120341,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 171118,
@@ -755,14 +779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 163897,
-      "num": 139554,
-      "word": "金价飙升银行紧急提示",
-      "onboard_time": 1768118240,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 163093,
       "num": 133949,
       "word": "Amy姐说林俊杰前任美商很高",
@@ -785,6 +801,14 @@
       "onboard_time": 1768105400,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160429,
+      "num": 160429,
+      "word": "网友评新四大女顶流",
+      "onboard_time": 1768122201,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 159503,
@@ -835,6 +859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 155924,
+      "num": 155924,
+      "word": "演员夫妻回应撞死人后拉黑遗属",
+      "onboard_time": 1768123040,
+      "rank": 32,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 154996,
       "num": 196598,
       "word": "鹅妈妈仇人运",
@@ -851,8 +883,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 150381,
-      "num": 137933,
+      "raw_hot": 151523,
+      "num": 160923,
       "word": "气血足的人日常多有5个习惯",
       "onboard_time": 1768119320,
       "rank": 31,
@@ -891,12 +923,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142174,
+      "num": 142174,
+      "word": "开了十年寒衣店第一次遇到退货",
+      "onboard_time": 1768122380,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139987,
       "num": 139987,
       "word": "一次违规吃喝搭上一条人命",
       "onboard_time": 1768096700,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 137684,
+      "num": 137684,
+      "word": "3unshine只有Abby了",
+      "onboard_time": 1768120822,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 136943,
@@ -1027,6 +1075,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 117006,
+      "num": 175658,
+      "word": "初老症状",
+      "onboard_time": 1768123279,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 116658,
       "num": 116658,
       "word": "刘宇宁成都不吃火锅的原因",
@@ -1051,12 +1107,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 115297,
+      "num": 115297,
+      "word": "松天硕直播",
+      "onboard_time": 1768123521,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113600,
       "num": 113600,
       "word": "施罗德被禁赛三场",
       "onboard_time": 1768099760,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113385,
+      "num": 175562,
+      "word": "白银暴涨暴跌比黄金更刺激",
+      "onboard_time": 1768121000,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 112597,
@@ -1089,22 +1161,6 @@
       "onboard_time": 1768111461,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 108791,
-      "num": 108791,
-      "word": "王俊凯鞋底是红袜子",
-      "onboard_time": 1768121182,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 108714,
-      "num": 103222,
-      "word": "3unshine只有Abby了",
-      "onboard_time": 1768120822,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 107941,
@@ -1219,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98999,
+      "num": 98999,
+      "word": "中式咖啡 咖啡豆的洗澡水",
+      "onboard_time": 1768121840,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 98934,
       "num": 98934,
       "word": "体面碎了 赵又廷的演技立住了",
@@ -1241,6 +1305,14 @@
       "onboard_time": 1768104261,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97754,
+      "num": 97754,
+      "word": "中国人手中万物皆可做豆腐",
+      "onboard_time": 1768122982,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 96582,
@@ -1267,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95258,
+      "num": 175152,
+      "word": "Faker有信心战胜AI",
+      "onboard_time": 1768122620,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 94858,
       "num": 94858,
       "word": "热乎饭的正确打开方式",
@@ -1289,6 +1369,14 @@
       "onboard_time": 1768105879,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 94108,
+      "num": 94108,
+      "word": "医生受贿3.5万元开具近2万支药品",
+      "onboard_time": 1768123581,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93136,
@@ -1331,6 +1419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90276,
+      "num": 90276,
+      "word": "近五年7分以上现偶",
+      "onboard_time": 1768121661,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 90103,
       "num": 90103,
       "word": "一个早生贵己一个老来得己",
@@ -1339,12 +1435,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 89954,
-      "num": 89954,
-      "word": "宋威龙赵今麦明天合体",
-      "onboard_time": 1768121061,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 89502,
+      "num": 89502,
+      "word": "演了4集男女主怼了4集",
+      "onboard_time": 1768121781,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 88593,
@@ -1363,20 +1459,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87783,
+      "num": 87783,
+      "word": "苹果脆片",
+      "onboard_time": 1768123700,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 87619,
       "num": 87619,
       "word": "王俊凯练舞练到腿淤青",
       "onboard_time": 1768117581,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 87188,
-      "num": 96192,
-      "word": "白银暴涨暴跌比黄金更刺激",
-      "onboard_time": 1768121000,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 86338,
@@ -1691,6 +1787,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 74101,
+      "num": 74101,
+      "word": "终于知道刘海卷筒到底怎么用了",
+      "onboard_time": 1768123401,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 73810,
       "num": 263524,
       "word": "名侦探柯南最唯美的主题曲",
@@ -1745,6 +1849,14 @@
       "onboard_time": 1768121182,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 71906,
+      "num": 71906,
+      "word": "韩莹vs朱雨玲",
+      "onboard_time": 1768122140,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 71699,
@@ -2249,6 +2361,14 @@
       "onboard_time": 1768115661,
       "rank": 38,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 22976,
+      "num": 98789,
+      "word": "甘肃申建自贸区",
+      "onboard_time": 1768122620,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21948,
