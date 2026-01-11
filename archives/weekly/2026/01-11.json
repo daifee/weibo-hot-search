@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768160276499,
+  "endTime": 1768163512956,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -3851,6 +3851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25393,
+      "num": 25393,
+      "word": "代旭好帅",
+      "onboard_time": 1768160594,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24817,
       "num": 134396,
       "word": "从委内瑞拉看美国电力战威胁",
@@ -4089,6 +4097,30 @@
       "onboard_time": 1768068796,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 11639,
+      "num": 25380,
+      "word": "苏新皓超话达成钻三成就",
+      "onboard_time": 1768161674,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 11146,
+      "num": 25379,
+      "word": "告别童家堡 愿此去繁花",
+      "onboard_time": 1768150820,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 10625,
+      "num": 25378,
+      "word": "老君山狗狗主动为徒步下山游客引路",
+      "onboard_time": 1768163354,
+      "rank": 47,
+      "category": "正能量"
     },
     {
       "raw_hot": 9496,

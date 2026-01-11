@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/12 00:33:57 ~ 2026/01/12 03:37:56
+本榜单时间：2026/01/12 00:33:57 ~ 2026/01/12 04:31:52
 </p>
 </blockquote>
 <p>
@@ -417,6 +417,12 @@ TOP 荣耀之战都不知道怎么输（热度：181110）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E6%97%AD%E5%A5%BD%E5%B8%85%23" target="weibo">
+代旭好帅（热度：25393）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 刘宇宁演唱会（热度：21371）
 </a>
@@ -449,6 +455,30 @@ HHG（热度：20141）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%9F%AC%E5%8E%8B%E5%93%A8%E6%99%8B%E7%BA%A7%23" target="weibo">
 马韬压哨晋级（热度：15825）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%97%E9%97%B2%E8%B0%A8%E5%88%B6%23" target="weibo">
+得闲谨制（热度：12360）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%96%B0%E7%9A%93%E8%B6%85%E8%AF%9D%E8%BE%BE%E6%88%90%E9%92%BB%E4%B8%89%E6%88%90%E5%B0%B1%23" target="weibo">
+苏新皓超话达成钻三成就（热度：11639）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%8A%E5%88%AB%E7%AB%A5%E5%AE%B6%E5%A0%A1%20%E6%84%BF%E6%AD%A4%E5%8E%BB%E7%B9%81%E8%8A%B1%23" target="weibo">
+告别童家堡 愿此去繁花（热度：11146）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%90%9B%E5%B1%B1%E7%8B%97%E7%8B%97%E4%B8%BB%E5%8A%A8%E4%B8%BA%E5%BE%92%E6%AD%A5%E4%B8%8B%E5%B1%B1%E6%B8%B8%E5%AE%A2%E5%BC%95%E8%B7%AF%23" target="weibo">
+老君山狗狗主动为徒步下山游客引路（热度：10625）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1768149237092,
-  "endTime": 1768160276499,
+  "endTime": 1768163512956,
   "band_list": [
     {
       "raw_hot": 1015098,
@@ -539,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25393,
+      "num": 25393,
+      "word": "代旭好帅",
+      "onboard_time": 1768160594,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 21371,
       "num": 26125,
       "word": "刘宇宁演唱会",
@@ -585,6 +593,38 @@
       "onboard_time": 1768159994,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 12360,
+      "num": 25383,
+      "word": "得闲谨制",
+      "onboard_time": 1768139122,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 11639,
+      "num": 25380,
+      "word": "苏新皓超话达成钻三成就",
+      "onboard_time": 1768161674,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 11146,
+      "num": 25379,
+      "word": "告别童家堡 愿此去繁花",
+      "onboard_time": 1768150820,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 10625,
+      "num": 25378,
+      "word": "老君山狗狗主动为徒步下山游客引路",
+      "onboard_time": 1768163354,
+      "rank": 47,
+      "category": "正能量"
     },
     {
       "raw_hot": 10479,
