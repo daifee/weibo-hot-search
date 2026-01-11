@@ -1,7 +1,15 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768114534250,
+  "endTime": 1768116529057,
   "band_list": [
+    {
+      "raw_hot": 5632996,
+      "num": 5632996,
+      "word": "小澈发检测报告",
+      "onboard_time": 1768114701,
+      "rank": 20,
+      "category": "网红"
+    },
     {
       "raw_hot": 2076111,
       "num": 196399,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 1563752,
-      "num": 133605,
+      "num": 134144,
       "word": "方圆回应小澈在她家住半个月",
       "onboard_time": 1768104200,
       "rank": 21,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 714958,
-      "num": 170365,
+      "num": 256854,
       "word": "卢昱晓 别扒了别扒了",
       "onboard_time": 1768110260,
       "rank": 15,
@@ -145,6 +153,14 @@
       "onboard_time": 1768097721,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 545076,
+      "num": 545076,
+      "word": "死了么APP发文回应",
+      "onboard_time": 1768115301,
+      "rank": 3,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 506991,
@@ -212,11 +228,19 @@
     },
     {
       "raw_hot": 414718,
-      "num": 128029,
+      "num": 133996,
       "word": "小澈脱粉粉丝爆料",
       "onboard_time": 1768103420,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 413748,
+      "num": 413748,
+      "word": "KK园区彻底清零",
+      "onboard_time": 1768112901,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 410699,
@@ -275,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 338001,
+      "num": 338001,
+      "word": "扁扁咪 鼓鼓咪",
+      "onboard_time": 1768111881,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 336734,
       "num": 222882,
       "word": "死了么app",
@@ -291,28 +323,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 329534,
-      "num": 308798,
-      "word": "扁扁咪 鼓鼓咪",
-      "onboard_time": 1768111881,
-      "rank": 5,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 328307,
       "num": 328307,
       "word": "白鹿剧宣来的太快就像龙卷风",
       "onboard_time": 1768093760,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 325582,
-      "num": 325582,
-      "word": "KK园区彻底清零",
-      "onboard_time": 1768112901,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 322411,
@@ -371,8 +387,24 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 255732,
+      "num": 255732,
+      "word": "王俊凯丁禹兮鞠婧祎QQ音乐预热",
+      "onboard_time": 1768114821,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 255438,
+      "num": 258704,
+      "word": "奔跑吧节目组还没联系邵子恒吗",
+      "onboard_time": 1768113441,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254832,
-      "num": 125116,
+      "num": 134238,
       "word": "被体制内大佬的工作留痕震撼到了",
       "onboard_time": 1768110981,
       "rank": 22,
@@ -411,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224788,
+      "num": 1035966,
+      "word": "救援队被秦岭遇难者家属起诉一审结束",
+      "onboard_time": 1768108580,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 223783,
       "num": 223783,
       "word": "月薪一万的试吃员",
@@ -443,14 +483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 213835,
-      "num": 787791,
-      "word": "救援队被秦岭遇难者家属起诉一审结束",
-      "onboard_time": 1768108580,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 200980,
       "num": 200980,
       "word": "麻六记的酸辣粉为何卖不动了",
@@ -467,12 +499,12 @@
       "category": "民生新闻,体育"
     },
     {
-      "raw_hot": 196120,
-      "num": 145765,
-      "word": "奔跑吧节目组还没联系邵子恒吗",
-      "onboard_time": 1768113441,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 194972,
+      "num": 134557,
+      "word": "王俊凯跨年纪录片",
+      "onboard_time": 1768115841,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 193051,
@@ -481,6 +513,14 @@
       "onboard_time": 1768109181,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192798,
+      "num": 748906,
+      "word": "夫妻卖10元盒饭20年挣2套房",
+      "onboard_time": 1768110741,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191743,
@@ -556,7 +596,7 @@
     },
     {
       "raw_hot": 172938,
-      "num": 172938,
+      "num": 257183,
       "word": "偷挖三百平地下室业主赔每户1500",
       "onboard_time": 1768110800,
       "rank": 13,
@@ -569,14 +609,6 @@
       "onboard_time": 1768107800,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 171681,
-      "num": 171681,
-      "word": "夫妻卖10元盒饭20年挣2套房",
-      "onboard_time": 1768110741,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171118,
@@ -604,7 +636,7 @@
     },
     {
       "raw_hot": 163093,
-      "num": 122653,
+      "num": 133949,
       "word": "Amy姐说林俊杰前任美商很高",
       "onboard_time": 1768109601,
       "rank": 49,
@@ -683,6 +715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 146485,
+      "num": 134137,
+      "word": "时代峰峻致歉王橹杰",
+      "onboard_time": 1768116262,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146137,
       "num": 146137,
       "word": "谢娜的菜来了",
@@ -723,6 +763,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134584,
+      "num": 134584,
+      "word": "死了么APP感谢大家对新名称建议",
+      "onboard_time": 1768115781,
+      "rank": 15,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 134377,
       "num": 96884,
       "word": "电影喜欢上欠欠的你定档",
@@ -739,6 +787,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 133860,
+      "num": 133860,
+      "word": "成毅两京十五日路透",
+      "onboard_time": 1768116021,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131362,
       "num": 131362,
       "word": "王欣瑜获奥克兰赛亚军",
@@ -753,6 +809,14 @@
       "onboard_time": 1768107861,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128100,
+      "num": 128100,
+      "word": "玉茗茶骨女鬼缠书生原来这么好嗑",
+      "onboard_time": 1768115540,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 127853,
@@ -875,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108288,
+      "num": 118828,
+      "word": "小腿出现这个变化建议查查血糖",
+      "onboard_time": 1768115661,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 107941,
       "num": 124288,
       "word": "苍兰诀云初令是一个地方开机",
@@ -889,6 +961,22 @@
       "onboard_time": 1768108940,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104011,
+      "num": 134083,
+      "word": "金价银价大幅波动原因",
+      "onboard_time": 1768116201,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 103103,
+      "num": 133878,
+      "word": "死了么APP呼吁关注独居群体",
+      "onboard_time": 1768116381,
+      "rank": 28,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 102619,
@@ -923,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101415,
+      "num": 102273,
+      "word": "AI登顶LOL韩服",
+      "onboard_time": 1768116201,
+      "rank": 34,
+      "category": "互联网,游戏"
+    },
+    {
       "raw_hot": 101015,
       "num": 90685,
       "word": "赵丽颖朱超艺 二搭",
@@ -937,6 +1033,14 @@
       "onboard_time": 1768108641,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100208,
+      "num": 122703,
+      "word": "一个班学生集体退货演出服",
+      "onboard_time": 1768113861,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99809,
@@ -1059,6 +1163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 88593,
+      "num": 88593,
+      "word": "北欧五国联合声明",
+      "onboard_time": 1768115001,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 88358,
       "num": 88358,
       "word": "王玉雯维护化妆师",
@@ -1129,6 +1241,14 @@
       "onboard_time": 1768105521,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 81285,
+      "num": 81285,
+      "word": "体面碎了 赵又廷的演技立住了",
+      "onboard_time": 1768116440,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 81217,
@@ -1217,6 +1337,14 @@
       "onboard_time": 1768114162,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79174,
+      "num": 79174,
+      "word": "我讨厌打开APP我的歌就被暂停了",
+      "onboard_time": 1768116500,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 79127,
@@ -1315,6 +1443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 74982,
+      "num": 100571,
+      "word": "何炅这段话值得每个女孩背诵",
+      "onboard_time": 1768116500,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 74819,
       "num": 126451,
       "word": "老君山现神光宝轮超惊艳",
@@ -1377,14 +1513,6 @@
       "onboard_time": 1768092680,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 69698,
-      "num": 122703,
-      "word": "一个班学生集体退货演出服",
-      "onboard_time": 1768113861,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69361,
@@ -1563,6 +1691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58473,
+      "num": 100295,
+      "word": "日本一餐厅墙内发现女尸",
+      "onboard_time": 1768115781,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 54037,
       "num": 151658,
       "word": "收到了去世十年姐姐的微信",
@@ -1659,6 +1795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42523,
+      "num": 134516,
+      "word": "混动王炸一车传三代隔年油还在",
+      "onboard_time": 1768115182,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 40524,
       "num": 73182,
       "word": "美国一男子枪杀6人",
@@ -1673,6 +1817,14 @@
       "onboard_time": 1768060221,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 39703,
+      "num": 134440,
+      "word": "委代总统宣誓将解救马杜罗",
+      "onboard_time": 1768115841,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 39192,
@@ -1795,12 +1947,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23730,
+      "num": 627232,
+      "word": "歼20带来的满满安全感",
+      "onboard_time": 1768101499,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23672,
       "num": 38634,
       "word": "奔跑吧天路篇",
       "onboard_time": 1768064479,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23336,
+      "num": 100387,
+      "word": "娜扎把大小姐演成动词",
+      "onboard_time": 1768115661,
+      "rank": 38,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 21948,
@@ -1825,6 +1993,14 @@
       "onboard_time": 1768078333,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20456,
+      "num": 134396,
+      "word": "从委内瑞拉看美国电力战威胁",
+      "onboard_time": 1768116080,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 20114,
@@ -1864,14 +2040,6 @@
       "word": "热血忠诚铸就平安中国",
       "onboard_time": 1768111701,
       "rank": 30,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 14117,
-      "num": 627232,
-      "word": "歼20带来的满满安全感",
-      "onboard_time": 1768101499,
-      "rank": 2,
       "category": "国内时政"
     },
     {
