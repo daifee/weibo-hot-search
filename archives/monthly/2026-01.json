@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768145324457,
+  "endTime": 1768146141118,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -4028,7 +4028,7 @@
     },
     {
       "raw_hot": 408004,
-      "num": 756061,
+      "num": 757243,
       "word": "河南10名干部违规吃喝1人死亡",
       "onboard_time": 1768138462,
       "rank": 41,
@@ -7563,6 +7563,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 249566,
+      "num": 249566,
+      "word": "红果年度短剧投票结果",
+      "onboard_time": 1768142722,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249499,
       "num": 214906,
       "word": "佘诗曼获奖大哭",
@@ -7955,6 +7963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 234240,
+      "num": 234240,
+      "word": "山东威海下了倾盆大瓢雪",
+      "onboard_time": 1768141522,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234214,
       "num": 186269,
       "word": "云南61岁老妇杀害13岁男孩",
@@ -8307,14 +8323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 225678,
-      "num": 225678,
-      "word": "山东威海下了倾盆大瓢雪",
-      "onboard_time": 1768141522,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 225532,
       "num": 160160,
       "word": "马杜罗下飞机画面曝光",
@@ -8425,6 +8433,14 @@
       "onboard_time": 1767497722,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222565,
+      "num": 222565,
+      "word": "一个礼拜掉8斤的食谱",
+      "onboard_time": 1768141643,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 222414,
@@ -8649,14 +8665,6 @@
       "onboard_time": 1767614000,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 217660,
-      "num": 217660,
-      "word": "红果年度短剧投票结果",
-      "onboard_time": 1768142722,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 217641,
@@ -8953,14 +8961,6 @@
       "onboard_time": 1767709283,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 211067,
-      "num": 211067,
-      "word": "一个礼拜掉8斤的食谱",
-      "onboard_time": 1768141643,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 210851,
@@ -14107,6 +14107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146808,
+      "num": 146808,
+      "word": "宋威龙工作室好用心",
+      "onboard_time": 1768143743,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146619,
       "num": 755749,
       "word": "一文看懂2026新一轮国补",
@@ -14449,14 +14457,6 @@
       "onboard_time": 1767772762,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 143279,
-      "num": 108442,
-      "word": "宋威龙工作室好用心",
-      "onboard_time": 1768143743,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 143249,
@@ -16545,6 +16545,14 @@
       "onboard_time": 1767237800,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127938,
+      "num": 127938,
+      "word": "陈楚生 跟香港的哥哥都要唱两遍",
+      "onboard_time": 1768145660,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 127916,
@@ -20059,6 +20067,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 107230,
+      "num": 107230,
+      "word": "王心凌制服的神",
+      "onboard_time": 1768145361,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 107207,
       "num": 109744,
       "word": "大宋奇闻录官宣",
@@ -21001,6 +21017,14 @@
       "onboard_time": 1767758422,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 103254,
+      "num": 103254,
+      "word": "想理顺生活先放下这4样东西",
+      "onboard_time": 1768145900,
+      "rank": 29,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 103234,
@@ -23833,6 +23857,14 @@
       "onboard_time": 1767956241,
       "rank": 37,
       "category": "综艺,作品衍生"
+    },
+    {
+      "raw_hot": 92160,
+      "num": 184221,
+      "word": "贪官建周末愉快群捞钱",
+      "onboard_time": 1768144762,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 92129,
@@ -29331,6 +29363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65462,
+      "num": 65462,
+      "word": "HHG",
+      "onboard_time": 1768146080,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 65376,
       "num": 1092000,
       "word": "二十米好像走了一辈子",
@@ -29345,6 +29385,14 @@
       "onboard_time": 1768049122,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65340,
+      "num": 65340,
+      "word": "U23国足有望创造历史",
+      "onboard_time": 1768145361,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 65302,
@@ -29377,6 +29425,14 @@
       "onboard_time": 1767430226,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 65013,
+      "num": 65013,
+      "word": "董路 澳大利亚足球到头了",
+      "onboard_time": 1768145602,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 64993,
@@ -29731,6 +29787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63391,
+      "num": 146705,
+      "word": "汕头突发山火暂无人员伤亡",
+      "onboard_time": 1768144881,
+      "rank": 19,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 63312,
       "num": 757079,
       "word": "东方美学给世界亿点点震撼",
@@ -29843,6 +29907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62460,
+      "num": 65140,
+      "word": "那英回忆花少唱你不知道的事爆哭",
+      "onboard_time": 1768143382,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 62453,
       "num": 133582,
       "word": "小城大事定档节奏",
@@ -29857,14 +29929,6 @@
       "onboard_time": 1767784464,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62435,
-      "num": 184221,
-      "word": "贪官建周末愉快群捞钱",
-      "onboard_time": 1768144762,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 62373,
@@ -29889,6 +29953,14 @@
       "onboard_time": 1767249921,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 62160,
+      "num": 65013,
+      "word": "公务员考试的所有公式都在这里了",
+      "onboard_time": 1768144463,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 62072,
@@ -32161,14 +32233,6 @@
       "onboard_time": 1767677660,
       "rank": 19,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 43171,
-      "num": 146705,
-      "word": "汕头突发山火暂无人员伤亡",
-      "onboard_time": 1768144881,
-      "rank": 19,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 43152,

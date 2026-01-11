@@ -1,0 +1,410 @@
+{
+  "runTime": 1768146141118,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 346505,
+        "num": 1055440,
+        "word": "烟台暴雪下冒烟了",
+        "onboard_time": 1768134981,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294638,
+        "num": 757243,
+        "word": "河南10名干部违规吃喝1人死亡",
+        "onboard_time": 1768138462,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65917,
+        "num": 599212,
+        "word": "这就是现实版的千里江山图吧",
+        "onboard_time": 1768139482,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 249566,
+        "num": 249566,
+        "word": "红果年度短剧投票结果",
+        "onboard_time": 1768142722,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234240,
+        "num": 234240,
+        "word": "山东威海下了倾盆大瓢雪",
+        "onboard_time": 1768141522,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222565,
+        "num": 222565,
+        "word": "一个礼拜掉8斤的食谱",
+        "onboard_time": 1768141643,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 217277,
+        "num": 217277,
+        "word": "国乒无缘多哈冠军赛男单决赛",
+        "onboard_time": 1768133660,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157336,
+        "num": 157336,
+        "word": "车厘子几个J一下看明白了",
+        "onboard_time": 1768133841,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155272,
+        "num": 155272,
+        "word": "老人开飘窗玻璃突然从24楼砸下",
+        "onboard_time": 1768140622,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146808,
+        "num": 146808,
+        "word": "宋威龙工作室好用心",
+        "onboard_time": 1768143743,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2388412,
+        "num": 146541,
+        "word": "闫学晶发文道歉",
+        "onboard_time": 1768140082,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168934,
+        "num": 145313,
+        "word": "人参酒里泡3年突然长出绿叶",
+        "onboard_time": 1768139183,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142961,
+        "num": 142961,
+        "word": "家长背婴儿跑步致其脑袋剧烈摇晃",
+        "onboard_time": 1768135341,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235473,
+        "num": 141750,
+        "word": "陈哲远 三个人的婚礼有点拥挤",
+        "onboard_time": 1768136122,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154233,
+        "num": 136787,
+        "word": "TOP 荣耀之战都不知道怎么输",
+        "onboard_time": 1768144701,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115265,
+        "num": 133424,
+        "word": "发朋友圈前先回复消息",
+        "onboard_time": 1768136961,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149970,
+        "num": 128903,
+        "word": "穆祉丞高会更新",
+        "onboard_time": 1768143202,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127938,
+        "num": 127938,
+        "word": "陈楚生 跟香港的哥哥都要唱两遍",
+        "onboard_time": 1768145660,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114679,
+        "num": 123476,
+        "word": "多哈冠军赛",
+        "onboard_time": 1768144522,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122309,
+        "num": 122309,
+        "word": "华晨宇说不化妆上台值得尊重",
+        "onboard_time": 1768143863,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92160,
+        "num": 121615,
+        "word": "贪官建周末愉快群捞钱",
+        "onboard_time": 1768144762,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 510656,
+        "num": 120296,
+        "word": "闫学晶之子就读中戏新疆班不实",
+        "onboard_time": 1768133361,
+        "rank": 21,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 63391,
+        "num": 118952,
+        "word": "汕头突发山火暂无人员伤亡",
+        "onboard_time": 1768144881,
+        "rank": 22,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 202148,
+        "num": 118776,
+        "word": "卫健局将调查疑小澈住院记录曝光",
+        "onboard_time": 1768128381,
+        "rank": 23,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 117764,
+        "num": 117764,
+        "word": "宋威龙 雷霆泳姿",
+        "onboard_time": 1768142123,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113410,
+        "num": 113410,
+        "word": "早上刷牙的真正目的是清除牙菌斑",
+        "onboard_time": 1768133361,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109832,
+        "num": 109832,
+        "word": "男子出门打工9个月回家女友怀孕了",
+        "onboard_time": 1768134561,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108897,
+        "num": 108897,
+        "word": "内娱首个素颜音综舞台出现了",
+        "onboard_time": 1768144161,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107230,
+        "num": 107230,
+        "word": "王心凌制服的神",
+        "onboard_time": 1768145361,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103254,
+        "num": 103254,
+        "word": "想理顺生活先放下这4样东西",
+        "onboard_time": 1768145900,
+        "rank": 29,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 96665,
+        "num": 96665,
+        "word": "微博之夜",
+        "onboard_time": 1768144282,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95937,
+        "num": 95937,
+        "word": "苏新皓我听到啦",
+        "onboard_time": 1768141282,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95289,
+        "num": 95289,
+        "word": "男子网购5斤瓜子收到1斤瓜子皮",
+        "onboard_time": 1768140321,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93079,
+        "num": 93079,
+        "word": "林诗栋已连续11个月男单无冠",
+        "onboard_time": 1768137202,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92028,
+        "num": 92028,
+        "word": "沈梦辰 我内心装满了张凌赫",
+        "onboard_time": 1768141522,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91839,
+        "num": 91839,
+        "word": "10人违规吃喝1人死亡9人被处理",
+        "onboard_time": 1768138642,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91529,
+        "num": 91529,
+        "word": "侯明昊出道十周年直播",
+        "onboard_time": 1768135521,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91354,
+        "num": 91354,
+        "word": "河南五名大学教师被处罚",
+        "onboard_time": 1768143023,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83864,
+        "num": 83864,
+        "word": "台游客发现大陆与民进党宣传不同",
+        "onboard_time": 1768142423,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80384,
+        "num": 80384,
+        "word": "iPhone4需求激增近1000%",
+        "onboard_time": 1768117099,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 79909,
+        "num": 79909,
+        "word": "孙颖莎王楚钦亮相国际乒联百年宣传片",
+        "onboard_time": 1768143322,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79885,
+        "num": 79885,
+        "word": "国产剧拍了弟妹开门我是我弟",
+        "onboard_time": 1768142543,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73427,
+        "num": 73427,
+        "word": "小城大事",
+        "onboard_time": 1768131201,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70171,
+        "num": 70171,
+        "word": "国乒男队面临的挑战越来越严峻",
+        "onboard_time": 1768142302,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67465,
+        "num": 67465,
+        "word": "轧戏剧组道歉",
+        "onboard_time": 1768128140,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65462,
+        "num": 65462,
+        "word": "HHG",
+        "onboard_time": 1768146080,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 65340,
+        "num": 65340,
+        "word": "U23国足有望创造历史",
+        "onboard_time": 1768145361,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62460,
+        "num": 65140,
+        "word": "那英回忆花少唱你不知道的事爆哭",
+        "onboard_time": 1768143382,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65013,
+        "num": 65013,
+        "word": "董路 澳大利亚足球到头了",
+        "onboard_time": 1768145602,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62160,
+        "num": 65013,
+        "word": "公务员考试的所有公式都在这里了",
+        "onboard_time": 1768144463,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#反腐大片一步不停歇半步不退让#"
+    }
+  }
+}
