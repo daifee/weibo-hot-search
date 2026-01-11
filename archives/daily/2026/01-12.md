@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/12 00:33:57 ~ 2026/01/12 03:23:07
+本榜单时间：2026/01/12 00:33:57 ~ 2026/01/12 03:37:56
 </p>
 </blockquote>
 <p>
@@ -417,6 +417,12 @@ TOP 荣耀之战都不知道怎么输（热度：181110）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+刘宇宁演唱会（热度：21371）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23HHG%23" target="weibo">
 HHG（热度：20141）
 </a>
@@ -437,6 +443,12 @@ HHG（热度：20141）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%B6%85callback%E8%80%81%E9%BA%A6%E5%85%8B%23" target="weibo">
 高超callback老麦克（热度：18295）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%9F%AC%E5%8E%8B%E5%93%A8%E6%99%8B%E7%BA%A7%23" target="weibo">
+马韬压哨晋级（热度：15825）
 </a>
 </li>
 
