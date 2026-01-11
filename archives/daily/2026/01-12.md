@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/12 00:33:57 ~ 2026/01/12 04:44:36
+本榜单时间：2026/01/12 00:33:57 ~ 2026/01/12 05:26:26
 </p>
 </blockquote>
 <p>
@@ -369,6 +369,12 @@ TOP 荣耀之战都不知道怎么输（热度：181110）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E6%97%AD%E5%A5%BD%E5%B8%85%23" target="weibo">
+代旭好帅（热度：35681）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A3%B0%E9%B8%A3%E8%BF%9C%E6%89%AC%E5%85%A8%E5%9B%BD%E5%9B%9B%E5%BC%BA%23" target="weibo">
 声鸣远扬全国四强（热度：35604）
 </a>
@@ -401,12 +407,6 @@ TOP 荣耀之战都不知道怎么输（热度：181110）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E9%98%9F%E9%9D%A2%E4%B8%B4%E7%9A%84%E6%8C%91%E6%88%98%E8%B6%8A%E6%9D%A5%E8%B6%8A%E4%B8%A5%E5%B3%BB%23" target="weibo">
 国乒男队面临的挑战越来越严峻（热度：28427）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E6%97%AD%E5%A5%BD%E5%B8%85%23" target="weibo">
-代旭好帅（热度：27698）
 </a>
 </li>
 
@@ -453,6 +453,12 @@ HHG（热度：20141）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%90%9B%E5%B1%B1%E7%8B%97%E7%8B%97%E4%B8%BB%E5%8A%A8%E4%B8%BA%E5%BE%92%E6%AD%A5%E4%B8%8B%E5%B1%B1%E6%B8%B8%E5%AE%A2%E5%BC%95%E8%B7%AF%23" target="weibo">
+老君山狗狗主动为徒步下山游客引路（热度：16061）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%9F%AC%E5%8E%8B%E5%93%A8%E6%99%8B%E7%BA%A7%23" target="weibo">
 马韬压哨晋级（热度：15825）
 </a>
@@ -465,26 +471,38 @@ HHG（热度：20141）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%8A%E5%88%AB%E7%AB%A5%E5%AE%B6%E5%A0%A1%20%E6%84%BF%E6%AD%A4%E5%8E%BB%E7%B9%81%E8%8A%B1%23" target="weibo">
+告别童家堡 愿此去繁花（热度：11804）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%96%B0%E7%9A%93%E8%B6%85%E8%AF%9D%E8%BE%BE%E6%88%90%E9%92%BB%E4%B8%89%E6%88%90%E5%B0%B1%23" target="weibo">
 苏新皓超话达成钻三成就（热度：11639）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%8A%E5%88%AB%E7%AB%A5%E5%AE%B6%E5%A0%A1%20%E6%84%BF%E6%AD%A4%E5%8E%BB%E7%B9%81%E8%8A%B1%23" target="weibo">
-告别童家堡 愿此去繁花（热度：11191）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%90%9B%E5%B1%B1%E7%8B%97%E7%8B%97%E4%B8%BB%E5%8A%A8%E4%B8%BA%E5%BE%92%E6%AD%A5%E4%B8%8B%E5%B1%B1%E6%B8%B8%E5%AE%A2%E5%BC%95%E8%B7%AF%23" target="weibo">
-老君山狗狗主动为徒步下山游客引路（热度：10939）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%B0%91%E7%A7%8D%E5%9C%B0%E7%A7%91%E6%8A%80%E6%84%9F%E6%8B%89%E6%BB%A1%23" target="weibo">
 中国农民种地科技感拉满（热度：10558）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%A3%B0%E9%B8%A3%E8%BF%9C%E6%89%AC%E9%A6%96%E5%B8%AD%E8%AF%84%E5%AE%A1%23" target="weibo">
+华晨宇声鸣远扬首席评审（热度：10134）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%9B%9E%E5%BA%94%E9%98%BF%E4%BF%A1%E6%83%B3%E6%9D%A5%E7%9C%8B%E4%BB%96%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+刘宇宁回应阿信想来看他的演唱会（热度：10048）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%B9%E9%BA%A6%E7%A7%B0%E8%8B%A5%E5%9B%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%8F%91%E7%94%9F%E6%88%98%E4%BA%89%E5%B0%86%E5%BE%88%E6%84%9A%E8%A0%A2%23" target="weibo">
+丹麦称若因格陵兰岛发生战争将很愚蠢（热度：9260）
 </a>
 </li>
 

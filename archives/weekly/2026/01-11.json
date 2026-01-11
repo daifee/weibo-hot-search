@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768164276471,
+  "endTime": 1768166786389,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -3675,6 +3675,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 35681,
+      "num": 35681,
+      "word": "代旭好帅",
+      "onboard_time": 1768160594,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 35604,
       "num": 73257,
       "word": "声鸣远扬全国四强",
@@ -3825,14 +3833,6 @@
       "onboard_time": 1768127000,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 27698,
-      "num": 27698,
-      "word": "代旭好帅",
-      "onboard_time": 1768160594,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 27248,
@@ -4059,6 +4059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 16061,
+      "num": 25378,
+      "word": "老君山狗狗主动为徒步下山游客引路",
+      "onboard_time": 1768163354,
+      "rank": 47,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 15825,
       "num": 26079,
       "word": "马韬压哨晋级",
@@ -4099,6 +4107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 11804,
+      "num": 25379,
+      "word": "告别童家堡 愿此去繁花",
+      "onboard_time": 1768150820,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 11639,
       "num": 25380,
       "word": "苏新皓超话达成钻三成就",
@@ -4107,20 +4123,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 11191,
-      "num": 25379,
-      "word": "告别童家堡 愿此去繁花",
-      "onboard_time": 1768150820,
-      "rank": 43,
-      "category": "电竞"
+      "raw_hot": 10134,
+      "num": 25036,
+      "word": "华晨宇声鸣远扬首席评审",
+      "onboard_time": 1768164673,
+      "rank": 44,
+      "category": "综艺"
     },
     {
-      "raw_hot": 10939,
-      "num": 25378,
-      "word": "老君山狗狗主动为徒步下山游客引路",
-      "onboard_time": 1768163354,
-      "rank": 47,
-      "category": "正能量"
+      "raw_hot": 10048,
+      "num": 25035,
+      "word": "刘宇宁回应阿信想来看他的演唱会",
+      "onboard_time": 1768165934,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 9496,
@@ -4129,6 +4145,14 @@
       "onboard_time": 1768035021,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9260,
+      "num": 25034,
+      "word": "丹麦称若因格陵兰岛发生战争将很愚蠢",
+      "onboard_time": 1768166233,
+      "rank": 49,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
