@@ -1,0 +1,410 @@
+{
+  "runTime": 1768150116661,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 330993,
+        "num": 699643,
+        "word": "烟台暴雪下冒烟了",
+        "onboard_time": 1768134981,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295713,
+        "num": 495174,
+        "word": "特朗普表态让万千台湾民众看清现实",
+        "onboard_time": 1768148659,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39003,
+        "num": 388431,
+        "word": "这就是现实版的千里江山图吧",
+        "onboard_time": 1768139482,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 197777,
+        "num": 197777,
+        "word": "红果年度短剧投票结果",
+        "onboard_time": 1768142722,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184396,
+        "num": 184396,
+        "word": "国乒无缘多哈冠军赛男单决赛",
+        "onboard_time": 1768133660,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178171,
+        "num": 178171,
+        "word": "电视剧年度盛典出席艺人",
+        "onboard_time": 1768147100,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138400,
+        "num": 138400,
+        "word": "宋威龙工作室好用心",
+        "onboard_time": 1768143743,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134214,
+        "num": 134214,
+        "word": "一个礼拜掉8斤的食谱",
+        "onboard_time": 1768141643,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 130061,
+        "num": 130061,
+        "word": "格陵兰岛上正发生恐慌性抢购",
+        "onboard_time": 1768146981,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117603,
+        "num": 117603,
+        "word": "河南10名干部违规吃喝1人死亡",
+        "onboard_time": 1768138462,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 774142,
+        "num": 117569,
+        "word": "闫学晶发文道歉",
+        "onboard_time": 1768140082,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172831,
+        "num": 117554,
+        "word": "苏新皓我听到啦",
+        "onboard_time": 1768141282,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94810,
+        "num": 117509,
+        "word": "发朋友圈前先回复消息",
+        "onboard_time": 1768136961,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157028,
+        "num": 117452,
+        "word": "TOP 荣耀之战都不知道怎么输",
+        "onboard_time": 1768144701,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131691,
+        "num": 117436,
+        "word": "陈楚生 跟香港的哥哥都要唱两遍",
+        "onboard_time": 1768145660,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 82258,
+        "num": 117406,
+        "word": "山东威海下了倾盆大瓢雪",
+        "onboard_time": 1768141522,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122072,
+        "num": 117363,
+        "word": "律师解读王橹杰音效争议",
+        "onboard_time": 1768148299,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81833,
+        "num": 117304,
+        "word": "社保工作人员用漏洞挪用养老金超百万",
+        "onboard_time": 1768149019,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81724,
+        "num": 117274,
+        "word": "车厘子几个J一下看明白了",
+        "onboard_time": 1768133841,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69198,
+        "num": 117225,
+        "word": "老人开飘窗玻璃突然从24楼砸下",
+        "onboard_time": 1768140622,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154358,
+        "num": 117211,
+        "word": "卫健局将调查疑小澈住院记录曝光",
+        "onboard_time": 1768128381,
+        "rank": 20,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 89149,
+        "num": 117156,
+        "word": "陈哲远 三个人的婚礼有点拥挤",
+        "onboard_time": 1768136122,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69194,
+        "num": 117144,
+        "word": "家长背婴儿跑步致其脑袋剧烈摇晃",
+        "onboard_time": 1768135341,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86288,
+        "num": 117109,
+        "word": "穆祉丞高会更新",
+        "onboard_time": 1768143202,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66770,
+        "num": 117070,
+        "word": "微博之夜",
+        "onboard_time": 1768144282,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 62834,
+        "num": 117011,
+        "word": "男子出门打工9个月回家女友怀孕了",
+        "onboard_time": 1768134561,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65126,
+        "num": 116967,
+        "word": "丁程鑫安慰女嘉宾被淋了水",
+        "onboard_time": 1768148240,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58016,
+        "num": 116935,
+        "word": "早上刷牙的真正目的是清除牙菌斑",
+        "onboard_time": 1768133361,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 55021,
+        "num": 116907,
+        "word": "刘宇宁五月天隔空互动",
+        "onboard_time": 1768146140,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54696,
+        "num": 116876,
+        "word": "王心凌制服的神",
+        "onboard_time": 1768145361,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54139,
+        "num": 116835,
+        "word": "人参酒里泡3年突然长出绿叶",
+        "onboard_time": 1768139183,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54171,
+        "num": 116781,
+        "word": "小城大事热度破24000",
+        "onboard_time": 1768147880,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51702,
+        "num": 116747,
+        "word": "用吹风机吹了一下小咪",
+        "onboard_time": 1768143202,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 51772,
+        "num": 116724,
+        "word": "小城大事",
+        "onboard_time": 1768131201,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51269,
+        "num": 116664,
+        "word": "宋威龙 雷霆泳姿",
+        "onboard_time": 1768142123,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50891,
+        "num": 116622,
+        "word": "多哈冠军赛",
+        "onboard_time": 1768144522,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50459,
+        "num": 116596,
+        "word": "侯明昊出道十周年直播",
+        "onboard_time": 1768135521,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49290,
+        "num": 116555,
+        "word": "家政市场爆单了",
+        "onboard_time": 1768148480,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47498,
+        "num": 116500,
+        "word": "你以为断网的老干妈悄悄赚了54亿",
+        "onboard_time": 1768133660,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46897,
+        "num": 116467,
+        "word": "河南五名大学教师被处罚",
+        "onboard_time": 1768143023,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45186,
+        "num": 116430,
+        "word": "贪官建周末愉快群捞钱",
+        "onboard_time": 1768144762,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 43908,
+        "num": 116403,
+        "word": "孙颖莎王楚钦亮相国际乒联百年宣传片",
+        "onboard_time": 1768143322,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42375,
+        "num": 116371,
+        "word": "闫学晶说习惯被人捧着忘了本",
+        "onboard_time": 1768149318,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42334,
+        "num": 116330,
+        "word": "红果年度大赏TOP3",
+        "onboard_time": 1768147400,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38028,
+        "num": 116307,
+        "word": "林诗栋已连续11个月男单无冠",
+        "onboard_time": 1768137202,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41381,
+        "num": 116259,
+        "word": "张泽禹夺命六摇",
+        "onboard_time": 1768148419,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40303,
+        "num": 116215,
+        "word": "张真源小张盲盒",
+        "onboard_time": 1768149799,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37734,
+        "num": 116166,
+        "word": "10人违规吃喝1人死亡9人被处理",
+        "onboard_time": 1768138642,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40203,
+        "num": 116124,
+        "word": "轧戏剧组道歉",
+        "onboard_time": 1768128140,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36309,
+        "num": 116105,
+        "word": "童家堡",
+        "onboard_time": 1768147040,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#反腐大片一步不停歇半步不退让#"
+    }
+  }
+}

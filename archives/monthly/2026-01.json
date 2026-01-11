@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768149237092,
+  "endTime": 1768150116661,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -6201,6 +6201,14 @@
       "onboard_time": 1768026802,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 295713,
+      "num": 495174,
+      "word": "特朗普表态让万千台湾民众看清现实",
+      "onboard_time": 1768148659,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 295654,
@@ -23339,14 +23347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94309,
-      "num": 160598,
-      "word": "特朗普表态让万千台湾民众看清现实",
-      "onboard_time": 1768148659,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 94306,
       "num": 86868,
       "word": "俄罗斯指责美国违法",
@@ -26385,6 +26385,14 @@
       "onboard_time": 1768030339,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81833,
+      "num": 157733,
+      "word": "社保工作人员用漏洞挪用养老金超百万",
+      "onboard_time": 1768149019,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81777,
@@ -31003,6 +31011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54171,
+      "num": 157817,
+      "word": "小城大事热度破24000",
+      "onboard_time": 1768147880,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 54064,
       "num": 241946,
       "word": "人一旦恢复了主体性",
@@ -31041,14 +31057,6 @@
       "onboard_time": 1767374838,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 53395,
-      "num": 157817,
-      "word": "小城大事热度破24000",
-      "onboard_time": 1768147880,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 53377,
@@ -31497,14 +31505,6 @@
       "onboard_time": 1767331940,
       "rank": 36,
       "category": "教育,情感"
-    },
-    {
-      "raw_hot": 49708,
-      "num": 157733,
-      "word": "社保工作人员用漏洞挪用养老金超百万",
-      "onboard_time": 1768149019,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 49685,
@@ -32419,6 +32419,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 42375,
+      "num": 116371,
+      "word": "闫学晶说习惯被人捧着忘了本",
+      "onboard_time": 1768149318,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42370,
       "num": 946618,
       "word": "完美世界一个月两个特别篇",
@@ -32673,6 +32681,14 @@
       "onboard_time": 1767773602,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 40303,
+      "num": 116215,
+      "word": "张真源小张盲盒",
+      "onboard_time": 1768149799,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 40267,
@@ -33225,6 +33241,14 @@
       "onboard_time": 1767225198,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 36309,
+      "num": 116105,
+      "word": "童家堡",
+      "onboard_time": 1768147040,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 36275,

@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768149237092,
+  "endTime": 1768150116661,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -713,6 +713,14 @@
       "onboard_time": 1768127241,
       "rank": 15,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 295713,
+      "num": 495174,
+      "word": "特朗普表态让万千台湾民众看清现实",
+      "onboard_time": 1768148659,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 290136,
@@ -2483,14 +2491,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 94309,
-      "num": 160598,
-      "word": "特朗普表态让万千台湾民众看清现实",
-      "onboard_time": 1768148659,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 94141,
       "num": 94141,
       "word": "张艺兴改编的大花轿上线",
@@ -2713,6 +2713,14 @@
       "onboard_time": 1768105760,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81833,
+      "num": 157733,
+      "word": "社保工作人员用漏洞挪用养老金超百万",
+      "onboard_time": 1768149019,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81494,
@@ -3371,20 +3379,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54171,
+      "num": 157817,
+      "word": "小城大事热度破24000",
+      "onboard_time": 1768147880,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 54037,
       "num": 151658,
       "word": "收到了去世十年姐姐的微信",
       "onboard_time": 1768047682,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 53395,
-      "num": 157817,
-      "word": "小城大事热度破24000",
-      "onboard_time": 1768147880,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 52711,
@@ -3467,14 +3475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49708,
-      "num": 157733,
-      "word": "社保工作人员用漏洞挪用养老金超百万",
-      "onboard_time": 1768149019,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47880,
       "num": 195449,
       "word": "新员工咬掉老员工鼻子被判刑",
@@ -3539,6 +3539,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 42375,
+      "num": 116371,
+      "word": "闫学晶说习惯被人捧着忘了本",
+      "onboard_time": 1768149318,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42171,
       "num": 195299,
       "word": "严查违规吃喝背后的团团伙伙",
@@ -3553,6 +3561,14 @@
       "onboard_time": 1768099459,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 40303,
+      "num": 116215,
+      "word": "张真源小张盲盒",
+      "onboard_time": 1768149799,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 39827,
@@ -3608,6 +3624,14 @@
       "word": "Breathe说RNG退出可惜了",
       "onboard_time": 1768063939,
       "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 36309,
+      "num": 116105,
+      "word": "童家堡",
+      "onboard_time": 1768147040,
+      "rank": 49,
       "category": "电竞"
     },
     {

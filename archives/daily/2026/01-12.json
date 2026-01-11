@@ -1,6 +1,6 @@
 {
   "startTime": 1768149237092,
-  "endTime": 1768149237092,
+  "endTime": 1768150116661,
   "band_list": [
     {
       "raw_hot": 1015098,
@@ -17,6 +17,14 @@
       "onboard_time": 1768134981,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 295713,
+      "num": 495174,
+      "word": "特朗普表态让万千台湾民众看清现实",
+      "onboard_time": 1768148659,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 239554,
@@ -171,19 +179,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 94309,
-      "num": 160598,
-      "word": "特朗普表态让万千台湾民众看清现实",
-      "onboard_time": 1768148659,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 85730,
       "num": 160177,
       "word": "老人开飘窗玻璃突然从24楼砸下",
       "onboard_time": 1768140622,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81833,
+      "num": 157733,
+      "word": "社保工作人员用漏洞挪用养老金超百万",
+      "onboard_time": 1768149019,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -291,7 +299,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 53395,
+      "raw_hot": 54171,
       "num": 157817,
       "word": "小城大事热度破24000",
       "onboard_time": 1768147880,
@@ -347,14 +355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 49708,
-      "num": 157733,
-      "word": "社保工作人员用漏洞挪用养老金超百万",
-      "onboard_time": 1768149019,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49326,
       "num": 157719,
       "word": "孙颖莎王楚钦亮相国际乒联百年宣传片",
@@ -401,6 +401,38 @@
       "onboard_time": 1768139482,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 42375,
+      "num": 116371,
+      "word": "闫学晶说习惯被人捧着忘了本",
+      "onboard_time": 1768149318,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 40303,
+      "num": 116215,
+      "word": "张真源小张盲盒",
+      "onboard_time": 1768149799,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 40203,
+      "num": 116124,
+      "word": "轧戏剧组道歉",
+      "onboard_time": 1768128140,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 36309,
+      "num": 116105,
+      "word": "童家堡",
+      "onboard_time": 1768147040,
+      "rank": 49,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [
