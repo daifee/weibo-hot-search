@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768171494977,
+  "endTime": 1768174053898,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1699,6 +1699,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 627325,
+      "num": 844278,
+      "word": "特朗普表态让万千台湾民众看清现实",
+      "onboard_time": 1768148659,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 624910,
       "num": 1405221,
       "word": "不要回头",
@@ -3043,14 +3051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 485024,
-      "num": 526792,
-      "word": "特朗普表态让万千台湾民众看清现实",
-      "onboard_time": 1768148659,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 484474,
       "num": 484474,
       "word": "窈窈有期官宣",
@@ -3905,6 +3905,14 @@
       "onboard_time": 1767778103,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 419116,
+      "num": 419116,
+      "word": "蔡依林演唱会被举报",
+      "onboard_time": 1768173197,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 417150,
@@ -8891,6 +8899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213309,
+      "num": 213309,
+      "word": "林昀儒男单冠军",
+      "onboard_time": 1768157474,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213249,
       "num": 519243,
       "word": "看完这一集不敢喝排骨汤了",
@@ -11193,6 +11209,14 @@
       "onboard_time": 1768118240,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 179807,
+      "num": 62520,
+      "word": "手欠小狗每个人路过都要摸一下",
+      "onboard_time": 1768173138,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 179647,
@@ -14243,14 +14267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146075,
-      "num": 146075,
-      "word": "林昀儒男单冠军",
-      "onboard_time": 1768157474,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 146074,
       "num": 146074,
       "word": "杨博文 语法界最严厉的父亲",
@@ -16779,6 +16795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126990,
+      "num": 96776,
+      "word": "90后女子卖淫秽视频被判刑",
+      "onboard_time": 1768173858,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126901,
       "num": 126901,
       "word": "今屿剑与玫瑰造型帅哭了",
@@ -16985,6 +17009,14 @@
       "onboard_time": 1767503963,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126144,
+      "num": 126144,
+      "word": "国乒WTT多哈冠军赛无缘冠军",
+      "onboard_time": 1768157474,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 126082,
@@ -25147,6 +25179,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 87343,
+      "num": 87343,
+      "word": "肖战将出席电视剧年度盛典",
+      "onboard_time": 1768173378,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87224,
       "num": 930646,
       "word": "贾磊说徐杰应该问题不大",
@@ -25851,14 +25891,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 84580,
-      "num": 84580,
-      "word": "国乒WTT多哈冠军赛无缘冠军",
-      "onboard_time": 1768157474,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 84577,
       "num": 84577,
       "word": "哥总统称将为祖国拿起武器",
@@ -26377,6 +26409,14 @@
       "onboard_time": 1767258440,
       "rank": 40,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 82144,
+      "num": 116371,
+      "word": "闫学晶说习惯被人捧着忘了本",
+      "onboard_time": 1768149318,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 82096,
@@ -28107,6 +28147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 74049,
+      "num": 74049,
+      "word": "国家德比",
+      "onboard_time": 1768173437,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73962,
       "num": 77598,
       "word": "警察节",
@@ -29041,14 +29089,6 @@
       "onboard_time": 1767328639,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 68125,
-      "num": 116371,
-      "word": "闫学晶说习惯被人捧着忘了本",
-      "onboard_time": 1768149318,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 68087,
@@ -29987,6 +30027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62583,
+      "num": 62583,
+      "word": "代旭好帅",
+      "onboard_time": 1768160594,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 62460,
       "num": 65140,
       "word": "那英回忆花少唱你不知道的事爆哭",
@@ -30713,6 +30761,14 @@
       "onboard_time": 1767404968,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 56693,
+      "num": 62573,
+      "word": "檀健次连续5天营业",
+      "onboard_time": 1768173497,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 56664,
@@ -31532,7 +31588,7 @@
     },
     {
       "raw_hot": 49742,
-      "num": 49742,
+      "num": 62517,
       "word": "陈幸同2比4朱雨玲",
       "onboard_time": 1768157474,
       "rank": 18,
@@ -31553,14 +31609,6 @@
       "onboard_time": 1767425905,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 49394,
-      "num": 49394,
-      "word": "代旭好帅",
-      "onboard_time": 1768160594,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 49349,
@@ -33451,6 +33499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35371,
+      "num": 62474,
+      "word": "丹麦称若因格陵兰岛发生战争将很愚蠢",
+      "onboard_time": 1768166233,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 35340,
       "num": 451889,
       "word": "郑丽文出席中华民族祭祖大典",
@@ -33539,6 +33595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 34749,
+      "num": 62456,
+      "word": "刘宇宁回应阿信想来看他的演唱会",
+      "onboard_time": 1768165934,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 34696,
       "num": 41278,
       "word": "车厘子自由但消费者开盲盒太闹心",
@@ -33569,14 +33633,6 @@
       "onboard_time": 1767274642,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 34390,
-      "num": 39346,
-      "word": "丹麦称若因格陵兰岛发生战争将很愚蠢",
-      "onboard_time": 1768166233,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 34275,
@@ -34331,6 +34387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 28620,
+      "num": 62400,
+      "word": "老君山狗狗主动为徒步下山游客引路",
+      "onboard_time": 1768163354,
+      "rank": 47,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 28508,
       "num": 70491,
       "word": "卢昱晓问陈星旭我只是你的同事吗",
@@ -34715,11 +34779,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 25195,
-      "num": 39349,
-      "word": "刘宇宁回应阿信想来看他的演唱会",
-      "onboard_time": 1768165934,
-      "rank": 45,
+      "raw_hot": 25124,
+      "num": 62383,
+      "word": "刘宇宁这完全是going",
+      "onboard_time": 1768153996,
+      "rank": 42,
       "category": "演出"
     },
     {
@@ -35105,14 +35169,6 @@
       "onboard_time": 1767492921,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 22321,
-      "num": 39347,
-      "word": "老君山狗狗主动为徒步下山游客引路",
-      "onboard_time": 1768163354,
-      "rank": 47,
-      "category": "正能量"
     },
     {
       "raw_hot": 22319,
@@ -35537,14 +35593,6 @@
       "onboard_time": 1767466155,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 18457,
-      "num": 59284,
-      "word": "刘宇宁这完全是going",
-      "onboard_time": 1768153996,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 18443,

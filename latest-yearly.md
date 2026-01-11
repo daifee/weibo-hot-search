@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/12 06:44:54
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/12 07:27:33
 </p>
 </blockquote>
 <p>
@@ -1287,6 +1287,12 @@ AI照片竟然拿了摄影比赛第一名（热度：667067）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E6%80%81%E8%AE%A9%E4%B8%87%E5%8D%83%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%BC%97%E7%9C%8B%E6%B8%85%E7%8E%B0%E5%AE%9E%23" target="weibo">
+特朗普表态让万千台湾民众看清现实（热度：627325）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%9B%9E%E5%A4%B4%23" target="weibo">
 不要回头（热度：624910）
 </a>
@@ -1805,12 +1811,6 @@ iPhoneFold上手（热度：543056）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%A9%B3%E6%96%A5%E4%B8%AD%E6%96%B9%E5%B9%B2%E9%A2%84%E9%9F%A9%E9%80%89%E4%B8%BE%E8%8D%92%E5%94%90%E8%A8%80%E8%AE%BA%23" target="weibo">
 李在明驳斥中方干预韩选举荒唐言论（热度：533860）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%BA%91%E5%88%9D%E4%BB%A4%E5%87%BA%E5%A6%86%23" target="weibo">
-虞书欣云初令出妆（热度：533332）
 </a>
 </li>
 

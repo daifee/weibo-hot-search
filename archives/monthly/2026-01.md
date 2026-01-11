@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/12 06:44:54
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/12 07:27:33
 </p>
 </blockquote>
 <p>
@@ -1287,6 +1287,12 @@ AI照片竟然拿了摄影比赛第一名（热度：667067）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E6%80%81%E8%AE%A9%E4%B8%87%E5%8D%83%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%BC%97%E7%9C%8B%E6%B8%85%E7%8E%B0%E5%AE%9E%23" target="weibo">
+特朗普表态让万千台湾民众看清现实（热度：627325）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%9B%9E%E5%A4%B4%23" target="weibo">
 不要回头（热度：624910）
 </a>
@@ -2295,12 +2301,6 @@ iPhone4需求激增近1000%（热度：506886）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E6%80%81%E8%AE%A9%E4%B8%87%E5%8D%83%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%BC%97%E7%9C%8B%E6%B8%85%E7%8E%B0%E5%AE%9E%23" target="weibo">
-特朗普表态让万千台湾民众看清现实（热度：485024）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AA%88%E7%AA%88%E6%9C%89%E6%9C%9F%E5%AE%98%E5%AE%A3%23" target="weibo">
 窈窈有期官宣（热度：484474）
 </a>
@@ -2939,6 +2939,12 @@ iPhone没有一个按键是多余的（热度：420534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%81%9A%E5%87%BA%E8%AE%A9%E5%B0%8F%E4%B8%AA%E5%AD%90%E6%97%A0%E7%97%9B%E9%95%BF%E9%AB%98%E7%9A%84%E9%9E%8B%23" target="weibo">
 夫妻做出让小个子无痛长高的鞋（热度：419781）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E4%B8%BE%E6%8A%A5%23" target="weibo">
+蔡依林演唱会被举报（热度：419116）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ infj为什么很E（热度：251727）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%9761%E5%B2%81%E8%80%81%E5%A6%87%E6%9D%80%E5%AE%B313%E5%B2%81%E7%94%B7%E5%AD%A9%23" target="weibo">
 云南61岁老妇杀害13岁男孩（热度：234214）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%BE%88%E7%9B%B4%E6%92%AD%E6%97%B6%E5%B0%B1%E6%9C%89%E5%85%B6%E4%BB%96%E7%BD%91%E7%BA%A2%E6%9A%97%E7%A4%BA%E4%BA%86%23" target="weibo">
-小澈直播时就有其他网红暗示了（热度：234074）
 </a>
 </li>
 

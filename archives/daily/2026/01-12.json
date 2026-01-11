@@ -1,6 +1,6 @@
 {
   "startTime": 1768149237092,
-  "endTime": 1768171494977,
+  "endTime": 1768174053898,
   "band_list": [
     {
       "raw_hot": 1015098,
@@ -11,20 +11,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 485024,
-      "num": 526792,
+      "raw_hot": 627325,
+      "num": 844278,
       "word": "特朗普表态让万千台湾民众看清现实",
       "onboard_time": 1768148659,
       "rank": 17,
       "category": "国际时政"
     },
     {
-      "raw_hot": 390122,
+      "raw_hot": 435409,
       "num": 806325,
       "word": "烟台暴雪下冒烟了",
       "onboard_time": 1768134981,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 419116,
+      "num": 419116,
+      "word": "蔡依林演唱会被举报",
+      "onboard_time": 1768173197,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 239554,
@@ -43,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233160,
+      "num": 158065,
+      "word": "卫健局将调查疑小澈住院记录曝光",
+      "onboard_time": 1768128381,
+      "rank": 20,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 230010,
       "num": 230010,
       "word": "红果年度短剧投票结果",
@@ -57,6 +73,14 @@
       "onboard_time": 1768141282,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213309,
+      "num": 213309,
+      "word": "林昀儒男单冠军",
+      "onboard_time": 1768157474,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 208286,
@@ -83,6 +107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 179807,
+      "num": 62520,
+      "word": "手欠小狗每个人路过都要摸一下",
+      "onboard_time": 1768173138,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 173835,
       "num": 173835,
       "word": "宋威龙工作室好用心",
@@ -97,14 +129,6 @@
       "onboard_time": 1768148299,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158065,
-      "num": 158065,
-      "word": "卫健局将调查疑小澈住院记录曝光",
-      "onboard_time": 1768128381,
-      "rank": 20,
-      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 154861,
@@ -123,12 +147,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 146075,
-      "num": 146075,
-      "word": "林昀儒男单冠军",
-      "onboard_time": 1768157474,
-      "rank": 3,
-      "category": "体育"
+      "raw_hot": 146944,
+      "num": 166978,
+      "word": "山东威海下了倾盆大瓢雪",
+      "onboard_time": 1768141522,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144394,
@@ -147,6 +171,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 126990,
+      "num": 96776,
+      "word": "90后女子卖淫秽视频被判刑",
+      "onboard_time": 1768173858,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126144,
+      "num": 126144,
+      "word": "国乒WTT多哈冠军赛无缘冠军",
+      "onboard_time": 1768157474,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117042,
       "num": 158055,
       "word": "陈哲远 三个人的婚礼有点拥挤",
@@ -161,14 +201,6 @@
       "onboard_time": 1768136961,
       "rank": 9,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 110768,
-      "num": 166978,
-      "word": "山东威海下了倾盆大瓢雪",
-      "onboard_time": 1768141522,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104804,
@@ -195,7 +227,23 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 85730,
+      "raw_hot": 92839,
+      "num": 158360,
+      "word": "家长背婴儿跑步致其脑袋剧烈摇晃",
+      "onboard_time": 1768135341,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87343,
+      "num": 87343,
+      "word": "肖战将出席电视剧年度盛典",
+      "onboard_time": 1768173378,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 86268,
       "num": 160177,
       "word": "老人开飘窗玻璃突然从24楼砸下",
       "onboard_time": 1768140622,
@@ -203,19 +251,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84580,
-      "num": 84580,
-      "word": "国乒WTT多哈冠军赛无缘冠军",
-      "onboard_time": 1768157474,
-      "rank": 4,
-      "category": "体育"
+      "raw_hot": 82144,
+      "num": 116371,
+      "word": "闫学晶说习惯被人捧着忘了本",
+      "onboard_time": 1768149318,
+      "rank": 42,
+      "category": "艺人"
     },
     {
-      "raw_hot": 81258,
-      "num": 158360,
-      "word": "家长背婴儿跑步致其脑袋剧烈摇晃",
-      "onboard_time": 1768135341,
-      "rank": 19,
+      "raw_hot": 81860,
+      "num": 158042,
+      "word": "男子出门打工9个月回家女友怀孕了",
+      "onboard_time": 1768134561,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -227,6 +275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 74049,
+      "num": 74049,
+      "word": "国家德比",
+      "onboard_time": 1768173437,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73710,
       "num": 157969,
       "word": "丁程鑫安慰女嘉宾被淋了水",
@@ -235,12 +291,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 71459,
-      "num": 158042,
-      "word": "男子出门打工9个月回家女友怀孕了",
-      "onboard_time": 1768134561,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 71400,
+      "num": 157957,
+      "word": "早上刷牙的真正目的是清除牙菌斑",
+      "onboard_time": 1768133361,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 68698,
@@ -249,22 +305,6 @@
       "onboard_time": 1768143202,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 68125,
-      "num": 116371,
-      "word": "闫学晶说习惯被人捧着忘了本",
-      "onboard_time": 1768149318,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 67404,
-      "num": 157957,
-      "word": "早上刷牙的真正目的是清除牙菌斑",
-      "onboard_time": 1768133361,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 65634,
@@ -289,6 +329,14 @@
       "onboard_time": 1768139183,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62583,
+      "num": 62583,
+      "word": "代旭好帅",
+      "onboard_time": 1768160594,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 61394,
@@ -321,6 +369,14 @@
       "onboard_time": 1768147880,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56693,
+      "num": 62573,
+      "word": "檀健次连续5天营业",
+      "onboard_time": 1768173497,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 54268,
@@ -380,19 +436,11 @@
     },
     {
       "raw_hot": 49742,
-      "num": 49742,
+      "num": 62517,
       "word": "陈幸同2比4朱雨玲",
       "onboard_time": 1768157474,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 49394,
-      "num": 49394,
-      "word": "代旭好帅",
-      "onboard_time": 1768160594,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 49326,
@@ -499,12 +547,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 34390,
-      "num": 39346,
+      "raw_hot": 35371,
+      "num": 62474,
       "word": "丹麦称若因格陵兰岛发生战争将很愚蠢",
       "onboard_time": 1768166233,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 34749,
+      "num": 62456,
+      "word": "刘宇宁回应阿信想来看他的演唱会",
+      "onboard_time": 1768165934,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 33506,
+      "num": 100622,
+      "word": "国乒男队面临的挑战越来越严峻",
+      "onboard_time": 1768142302,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 30866,
@@ -539,12 +603,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 28427,
-      "num": 100622,
-      "word": "国乒男队面临的挑战越来越严峻",
-      "onboard_time": 1768142302,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 28620,
+      "num": 62400,
+      "word": "老君山狗狗主动为徒步下山游客引路",
+      "onboard_time": 1768163354,
+      "rank": 47,
+      "category": "正能量"
     },
     {
       "raw_hot": 27248,
@@ -555,20 +619,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25195,
-      "num": 39349,
-      "word": "刘宇宁回应阿信想来看他的演唱会",
-      "onboard_time": 1768165934,
-      "rank": 45,
+      "raw_hot": 25124,
+      "num": 62383,
+      "word": "刘宇宁这完全是going",
+      "onboard_time": 1768153996,
+      "rank": 42,
       "category": "演出"
     },
     {
-      "raw_hot": 22321,
-      "num": 39347,
-      "word": "老君山狗狗主动为徒步下山游客引路",
-      "onboard_time": 1768163354,
-      "rank": 47,
-      "category": "正能量"
+      "raw_hot": 24046,
+      "num": 62363,
+      "word": "WTT新加坡大满贯",
+      "onboard_time": 1768173858,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 22045,
+      "num": 484767,
+      "word": "中国农民种地科技感拉满",
+      "onboard_time": 1768138883,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21371,
@@ -595,14 +667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 18457,
-      "num": 59284,
-      "word": "刘宇宁这完全是going",
-      "onboard_time": 1768153996,
-      "rank": 42,
-      "category": "演出"
-    },
-    {
       "raw_hot": 18295,
       "num": 59232,
       "word": "高超callback老麦克",
@@ -625,14 +689,6 @@
       "onboard_time": 1768164673,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 13666,
-      "num": 310919,
-      "word": "中国农民种地科技感拉满",
-      "onboard_time": 1768138883,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 12908,
