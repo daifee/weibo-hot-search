@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768120602324,
+  "endTime": 1768121363933,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 810345,
-      "num": 166736,
+      "num": 208690,
       "word": "曼谷偶遇鞠婧祎逛街",
       "onboard_time": 1768118061,
       "rank": 10,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 518544,
+      "num": 1082967,
+      "word": "美方再次亮明弃台主张",
+      "onboard_time": 1768118541,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 510403,
       "num": 510403,
       "word": "日本一餐厅墙内发现女尸",
@@ -195,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 490797,
+      "num": 170732,
+      "word": "张奕然住廉租房",
+      "onboard_time": 1768118601,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 486097,
       "num": 207519,
       "word": "虞书欣张云龙开机照",
@@ -209,6 +225,14 @@
       "onboard_time": 1768060342,
       "rank": 3,
       "category": "辟谣/通报,体育"
+    },
+    {
+      "raw_hot": 458810,
+      "num": 458810,
+      "word": "女生租房仅15天被中介砸门催交租",
+      "onboard_time": 1768117460,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 446182,
@@ -307,16 +331,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 391092,
-      "num": 1062574,
-      "word": "美方再次亮明弃台主张",
-      "onboard_time": 1768118541,
-      "rank": 0,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 378599,
-      "num": 748232,
+      "num": 802380,
       "word": "AI登顶LOL韩服",
       "onboard_time": 1768116201,
       "rank": 34,
@@ -331,27 +347,11 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 370232,
-      "num": 158844,
-      "word": "张奕然住廉租房",
-      "onboard_time": 1768118601,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 359682,
       "num": 1051100,
       "word": "成都地铁实现1人1座",
       "onboard_time": 1768096460,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 354764,
-      "num": 354764,
-      "word": "女生租房仅15天被中介砸门催交租",
-      "onboard_time": 1768117460,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -515,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235436,
+      "num": 235436,
+      "word": "梅毒成为一种日式斩杀线",
+      "onboard_time": 1768117581,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 234074,
       "num": 127198,
       "word": "小澈直播时就有其他网红暗示了",
@@ -561,6 +569,14 @@
       "onboard_time": 1768059803,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212259,
+      "num": 212259,
+      "word": "小城大事首日云合",
+      "onboard_time": 1768119621,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 211832,
@@ -691,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172360,
+      "num": 172360,
+      "word": "63岁痴呆老人掏光钱找去世40年妈妈",
+      "onboard_time": 1768117640,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172082,
       "num": 172082,
       "word": "名侦探学院",
@@ -699,20 +723,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171809,
+      "num": 140693,
+      "word": "赵樱子说跟蒋毅在一起了",
+      "onboard_time": 1768120341,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171118,
       "num": 123592,
       "word": "彭小苒零下10度穿无袖",
       "onboard_time": 1768112182,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169966,
-      "num": 169966,
-      "word": "梅毒成为一种日式斩杀线",
-      "onboard_time": 1768117581,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 169932,
@@ -729,6 +753,14 @@
       "onboard_time": 1768048101,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163897,
+      "num": 139554,
+      "word": "金价飙升银行紧急提示",
+      "onboard_time": 1768118240,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 163093,
@@ -819,12 +851,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 150108,
-      "num": 150108,
-      "word": "小城大事首日云合",
-      "onboard_time": 1768119621,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 150381,
+      "num": 137933,
+      "word": "气血足的人日常多有5个习惯",
+      "onboard_time": 1768119320,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 146137,
@@ -841,6 +873,22 @@
       "onboard_time": 1768110860,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144647,
+      "num": 142750,
+      "word": "明川有知夏 黄景瑜金晨",
+      "onboard_time": 1768120221,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142704,
+      "num": 142704,
+      "word": "谁懂恶女身后是更小的恶女",
+      "onboard_time": 1768120520,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 139987,
@@ -899,14 +947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129833,
-      "num": 129833,
-      "word": "金价飙升银行紧急提示",
-      "onboard_time": 1768118240,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 128715,
       "num": 128715,
       "word": "萝卜纸巾猫为什么火了",
@@ -937,14 +977,6 @@
       "onboard_time": 1768113441,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124337,
-      "num": 154334,
-      "word": "63岁痴呆老人掏光钱找去世40年妈妈",
-      "onboard_time": 1768117640,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123630,
@@ -985,14 +1017,6 @@
       "onboard_time": 1768108760,
       "rank": 32,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 118653,
-      "num": 118653,
-      "word": "气血足的人日常多有5个习惯",
-      "onboard_time": 1768119320,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 117960,
@@ -1067,6 +1091,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108791,
+      "num": 108791,
+      "word": "王俊凯鞋底是红袜子",
+      "onboard_time": 1768121182,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 108714,
+      "num": 103222,
+      "word": "3unshine只有Abby了",
+      "onboard_time": 1768120822,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107941,
       "num": 124288,
       "word": "苍兰诀云初令是一个地方开机",
@@ -1097,6 +1137,14 @@
       "onboard_time": 1768108940,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106425,
+      "num": 142742,
+      "word": "徐梦桃的对手只有自己",
+      "onboard_time": 1768120221,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 104011,
@@ -1195,14 +1243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97845,
-      "num": 94686,
-      "word": "赵樱子说跟蒋毅在一起了",
-      "onboard_time": 1768120341,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 96582,
       "num": 196234,
       "word": "iPhone里最容易忽略的效率神器",
@@ -1224,14 +1264,6 @@
       "word": "樊振东德甲赛程预告",
       "onboard_time": 1768104139,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 95232,
-      "num": 95232,
-      "word": "徐梦桃的对手只有自己",
-      "onboard_time": 1768120221,
-      "rank": 34,
       "category": "体育"
     },
     {
@@ -1307,12 +1339,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 88969,
-      "num": 88969,
-      "word": "明川有知夏 黄景瑜金晨",
-      "onboard_time": 1768120221,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 89954,
+      "num": 89954,
+      "word": "宋威龙赵今麦明天合体",
+      "onboard_time": 1768121061,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 88593,
@@ -1337,6 +1369,14 @@
       "onboard_time": 1768117581,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87188,
+      "num": 96192,
+      "word": "白银暴涨暴跌比黄金更刺激",
+      "onboard_time": 1768121000,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 86338,
@@ -1409,6 +1449,14 @@
       "onboard_time": 1768105521,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 81370,
+      "num": 81370,
+      "word": "冬天是最适合减肥的季节",
+      "onboard_time": 1768118061,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 81217,
@@ -1659,6 +1707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73572,
+      "num": 73572,
+      "word": "悉尼气温飙至43.5摄氏度",
+      "onboard_time": 1768119081,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 72716,
       "num": 72716,
       "word": "毕业15年小伙救了同班同学的孩子",
@@ -1683,20 +1739,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72055,
+      "num": 72055,
+      "word": "马杜罗被美国强行控制一周后",
+      "onboard_time": 1768121182,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 71699,
       "num": 71699,
       "word": "内娱需要这样养眼的古装扮相",
       "onboard_time": 1768099459,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 71355,
-      "num": 71355,
-      "word": "谁懂恶女身后是更小的恶女",
-      "onboard_time": 1768120520,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 70106,
@@ -2105,6 +2161,14 @@
       "onboard_time": 1768064419,
       "rank": 47,
       "category": "军事"
+    },
+    {
+      "raw_hot": 31684,
+      "num": 96497,
+      "word": "也没人跟我说这剧是我主演啊",
+      "onboard_time": 1768121241,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 31352,

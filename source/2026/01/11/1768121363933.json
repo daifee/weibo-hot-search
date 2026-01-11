@@ -1,0 +1,410 @@
+{
+  "runTime": 1768121363933,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 518544,
+        "num": 1082967,
+        "word": "美方再次亮明弃台主张",
+        "onboard_time": 1768118541,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 357715,
+        "num": 802380,
+        "word": "AI登顶LOL韩服",
+        "onboard_time": 1768116201,
+        "rank": 1,
+        "category": "互联网,电竞"
+      },
+      {
+        "raw_hot": 22248,
+        "num": 620613,
+        "word": "歼20带来的满满安全感",
+        "onboard_time": 1768101499,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 472630,
+        "num": 472630,
+        "word": "日本一餐厅墙内发现女尸",
+        "onboard_time": 1768115781,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 458810,
+        "num": 458810,
+        "word": "女生租房仅15天被中介砸门催交租",
+        "onboard_time": 1768117460,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302755,
+        "num": 302755,
+        "word": "何炅这段话值得每个女孩背诵",
+        "onboard_time": 1768116500,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240274,
+        "num": 240274,
+        "word": "AI照片竟然拿了摄影比赛第一名",
+        "onboard_time": 1768108461,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235436,
+        "num": 235436,
+        "word": "梅毒成为一种日式斩杀线",
+        "onboard_time": 1768117581,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 217834,
+        "num": 217834,
+        "word": "KK园区彻底清零",
+        "onboard_time": 1768112901,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 212259,
+        "num": 212259,
+        "word": "小城大事首日云合",
+        "onboard_time": 1768119621,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 725023,
+        "num": 208690,
+        "word": "曼谷偶遇鞠婧祎逛街",
+        "onboard_time": 1768118061,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172360,
+        "num": 172360,
+        "word": "63岁痴呆老人掏光钱找去世40年妈妈",
+        "onboard_time": 1768117640,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 490797,
+        "num": 170732,
+        "word": "张奕然住廉租房",
+        "onboard_time": 1768118601,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471795,
+        "num": 166237,
+        "word": "卢昱晓 别扒了别扒了",
+        "onboard_time": 1768110260,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156559,
+        "num": 156559,
+        "word": "扁扁咪 鼓鼓咪",
+        "onboard_time": 1768111881,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221937,
+        "num": 153791,
+        "word": "王俊凯丁禹兮鞠婧祎QQ音乐预热",
+        "onboard_time": 1768114821,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170124,
+        "num": 150282,
+        "word": "虞书欣张云龙开机照",
+        "onboard_time": 1768105700,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142762,
+        "num": 142762,
+        "word": "夫妻卖10元盒饭20年挣2套房",
+        "onboard_time": 1768110741,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144647,
+        "num": 142750,
+        "word": "明川有知夏 黄景瑜金晨",
+        "onboard_time": 1768120221,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106425,
+        "num": 142742,
+        "word": "徐梦桃的对手只有自己",
+        "onboard_time": 1768120221,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2432886,
+        "num": 142731,
+        "word": "小澈发检测报告",
+        "onboard_time": 1768114701,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 451515,
+        "num": 142723,
+        "word": "时代峰峻致歉王橹杰",
+        "onboard_time": 1768116262,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336779,
+        "num": 142712,
+        "word": "iPhone4需求激增近1000%",
+        "onboard_time": 1768117099,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 142704,
+        "num": 142704,
+        "word": "谁懂恶女身后是更小的恶女",
+        "onboard_time": 1768120520,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97029,
+        "num": 142497,
+        "word": "美国蜜雪冰城含糖量",
+        "onboard_time": 1768110559,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 548471,
+        "num": 141775,
+        "word": "方圆回应小澈在她家住半个月",
+        "onboard_time": 1768104200,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 226610,
+        "num": 141419,
+        "word": "女子每天化精致眼妆睫毛藏6条螨虫",
+        "onboard_time": 1768119200,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171809,
+        "num": 140693,
+        "word": "赵樱子说跟蒋毅在一起了",
+        "onboard_time": 1768120341,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244653,
+        "num": 140209,
+        "word": "小澈脱粉粉丝爆料",
+        "onboard_time": 1768103420,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 163897,
+        "num": 139554,
+        "word": "金价飙升银行紧急提示",
+        "onboard_time": 1768118240,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160900,
+        "num": 138815,
+        "word": "小腿出现这个变化建议查查血糖",
+        "onboard_time": 1768115661,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150381,
+        "num": 137933,
+        "word": "气血足的人日常多有5个习惯",
+        "onboard_time": 1768119320,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137836,
+        "num": 137836,
+        "word": "刘一诺直播回应和檀健次的恋情",
+        "onboard_time": 1768097721,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108791,
+        "num": 108791,
+        "word": "王俊凯鞋底是红袜子",
+        "onboard_time": 1768121182,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104049,
+        "num": 104049,
+        "word": "被体制内大佬的工作留痕震撼到了",
+        "onboard_time": 1768110981,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108714,
+        "num": 103222,
+        "word": "3unshine只有Abby了",
+        "onboard_time": 1768120822,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101362,
+        "num": 101362,
+        "word": "救援队被秦岭遇难者家属起诉一审结束",
+        "onboard_time": 1768108580,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103079,
+        "num": 101089,
+        "word": "何穗 大红大绿大粉大橙",
+        "onboard_time": 1768119021,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31684,
+        "num": 96497,
+        "word": "也没人跟我说这剧是我主演啊",
+        "onboard_time": 1768121241,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87188,
+        "num": 96192,
+        "word": "白银暴涨暴跌比黄金更刺激",
+        "onboard_time": 1768121000,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 95907,
+        "num": 95907,
+        "word": "奔跑吧节目组还没联系邵子恒吗",
+        "onboard_time": 1768113441,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89954,
+        "num": 89954,
+        "word": "宋威龙赵今麦明天合体",
+        "onboard_time": 1768121061,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85761,
+        "num": 85761,
+        "word": "麻六记的酸辣粉为何卖不动了",
+        "onboard_time": 1768105341,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 81370,
+        "num": 81370,
+        "word": "冬天是最适合减肥的季节",
+        "onboard_time": 1768118061,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 78820,
+        "num": 78820,
+        "word": "小城大事生万物首日收视率对比",
+        "onboard_time": 1768107620,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78710,
+        "num": 78710,
+        "word": "唐宫奇案",
+        "onboard_time": 1768097721,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73572,
+        "num": 73572,
+        "word": "悉尼气温飙至43.5摄氏度",
+        "onboard_time": 1768119081,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 74645,
+        "num": 73118,
+        "word": "Amy姐说林俊杰前任美商很高",
+        "onboard_time": 1768109601,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72334,
+        "num": 72334,
+        "word": "黄晓明吃泡面这段太有生活了",
+        "onboard_time": 1768111821,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72055,
+        "num": 72055,
+        "word": "马杜罗被美国强行控制一周后",
+        "onboard_time": 1768121182,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#领悟总书记全面从严治党之喻#"
+    }
+  }
+}
