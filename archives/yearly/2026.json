@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768088489151,
+  "endTime": 1768098365201,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -473,6 +473,14 @@
       "onboard_time": 1767410309,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1040302,
+      "num": 241335,
+      "word": "身亡学生左胸针孔系法医抽血所致",
+      "onboard_time": 1768096401,
+      "rank": 10,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1034811,
@@ -2003,6 +2011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 545167,
+      "num": 1087226,
+      "word": "河南新蔡通报13岁男生宿舍内死亡",
+      "onboard_time": 1768094480,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 544794,
       "num": 260629,
       "word": "叙利亚",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767780203,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 513643,
-      "num": 1082182,
-      "word": "流浪地球3",
-      "onboard_time": 1768011199,
-      "rank": 20,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 511362,
-      "num": 796697,
-      "word": "李在明发文",
-      "onboard_time": 1767760342,
-      "rank": 33,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [

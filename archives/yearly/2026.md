@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/11 07:41:29
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/11 10:26:05
 </p>
 </blockquote>
 <p>
@@ -365,6 +365,12 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%B9%B4%E7%9A%84%E8%80%81%E5%B7%B1%E5%9C%A8QQ%E7%BB%99%E8%80%81%E8%87%AA%E7%95%99%E4%BA%86%E7%AC%94%E5%B7%A8%E6%AC%BE%23" target="weibo">
 当年的老己在QQ给老自留了笔巨款（热度：1049300）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BA%A1%E5%AD%A6%E7%94%9F%E5%B7%A6%E8%83%B8%E9%92%88%E5%AD%94%E7%B3%BB%E6%B3%95%E5%8C%BB%E6%8A%BD%E8%A1%80%E6%89%80%E8%87%B4%23" target="weibo">
+身亡学生左胸针孔系法医抽血所致（热度：1040302）
 </a>
 </li>
 
@@ -1515,6 +1521,12 @@ Sakee Asen（热度：556725）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%96%B0%E8%94%A1%E9%80%9A%E6%8A%A513%E5%B2%81%E7%94%B7%E7%94%9F%E5%AE%BF%E8%88%8D%E5%86%85%E6%AD%BB%E4%BA%A1%23" target="weibo">
+河南新蔡通报13岁男生宿舍内死亡（热度：545167）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%99%E5%88%A9%E4%BA%9A%23" target="weibo">
 叙利亚（热度：544794）
 </a>
@@ -1799,18 +1811,6 @@ TVB颁奖典礼（热度：518643）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23240%E4%B8%87%E8%BD%AC%E9%94%99%E8%B4%A6%E6%88%B7%E4%B8%80%E5%B9%B4%E9%83%BD%E6%B2%A1%E8%A6%81%E5%9B%9E%E6%9D%A5%23" target="weibo">
 240万转错账户一年都没要回来（热度：514686）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%833%23" target="weibo">
-流浪地球3（热度：513643）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%8F%91%E6%96%87%23" target="weibo">
-李在明发文（热度：511362）
 </a>
 </li>
 
