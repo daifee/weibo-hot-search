@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768141627974,
+  "endTime": 1768142648874,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -11,7 +11,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 3672113,
+      "raw_hot": 3680249,
       "num": 216828,
       "word": "闫学晶发文道歉",
       "onboard_time": 1768140082,
@@ -475,6 +475,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 408004,
+      "num": 756061,
+      "word": "河南10名干部违规吃喝1人死亡",
+      "onboard_time": 1768138462,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 407211,
       "num": 790314,
       "word": "海底捞回应送黄金小马挂件",
@@ -576,14 +584,6 @@
       "word": "男子出门打工9个月回家女友怀孕了",
       "onboard_time": 1768134561,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 346509,
-      "num": 346509,
-      "word": "河南10名干部违规吃喝1人死亡",
-      "onboard_time": 1768138462,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -995,6 +995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 210437,
+      "num": 210437,
+      "word": "人参酒里泡3年突然长出绿叶",
+      "onboard_time": 1768139183,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207188,
       "num": 137684,
       "word": "3unshine只有Abby了",
@@ -1059,14 +1067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194119,
-      "num": 194119,
-      "word": "人参酒里泡3年突然长出绿叶",
-      "onboard_time": 1768139183,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 193903,
       "num": 193903,
       "word": "侯明昊 这是能说的话吗",
@@ -1107,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191668,
+      "num": 192540,
+      "word": "发朋友圈前先回复消息",
+      "onboard_time": 1768136961,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190446,
       "num": 190446,
       "word": "有白鹿在是不会让徐志胜落泪的",
@@ -1124,7 +1132,7 @@
     },
     {
       "raw_hot": 188509,
-      "num": 161788,
+      "num": 169583,
       "word": "苏新皓我听到啦",
       "onboard_time": 1768141282,
       "rank": 27,
@@ -1251,6 +1259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174822,
+      "num": 174822,
+      "word": "宋威龙 雷霆泳姿",
+      "onboard_time": 1768142123,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174668,
       "num": 136484,
       "word": "鹅妈妈谈小澈事件",
@@ -1305,6 +1321,14 @@
       "onboard_time": 1768096761,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169583,
+      "num": 169582,
+      "word": "山东威海下了倾盆大瓢雪",
+      "onboard_time": 1768141522,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168918,
@@ -1395,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159430,
+      "num": 159430,
+      "word": "张峻豪在看TOP直播",
+      "onboard_time": 1768141103,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158939,
       "num": 103876,
       "word": "委内瑞拉街头现状",
@@ -1475,12 +1507,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148876,
-      "num": 148876,
-      "word": "张峻豪在看TOP直播",
-      "onboard_time": 1768141103,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 150226,
+      "num": 170024,
+      "word": "老人开飘窗玻璃突然从24楼砸下",
+      "onboard_time": 1768140622,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149714,
+      "num": 149714,
+      "word": "沈梦辰 我内心装满了张凌赫",
+      "onboard_time": 1768141522,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 148741,
@@ -1513,14 +1553,6 @@
       "onboard_time": 1768120221,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 143642,
-      "num": 192540,
-      "word": "发朋友圈前先回复消息",
-      "onboard_time": 1768136961,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 142704,
@@ -1644,7 +1676,7 @@
     },
     {
       "raw_hot": 129866,
-      "num": 129866,
+      "num": 164241,
       "word": "早上刷牙的真正目的是清除牙菌斑",
       "onboard_time": 1768133361,
       "rank": 41,
@@ -1795,14 +1827,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 122117,
-      "num": 154910,
-      "word": "老人开飘窗玻璃突然从24楼砸下",
-      "onboard_time": 1768140622,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120702,
       "num": 120702,
       "word": "林诗栋2比4张禹珍",
@@ -1923,6 +1947,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113816,
+      "num": 150021,
+      "word": "男子网购5斤瓜子收到1斤瓜子皮",
+      "onboard_time": 1768140321,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113674,
+      "num": 113674,
+      "word": "一个礼拜掉8斤的食谱",
+      "onboard_time": 1768141643,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 113600,
       "num": 113600,
       "word": "施罗德被禁赛三场",
@@ -2003,6 +2043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 108972,
+      "num": 108972,
+      "word": "国乒男队面临的挑战越来越严峻",
+      "onboard_time": 1768142302,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108921,
       "num": 124210,
       "word": "子阳回应与KSG争议",
@@ -2033,14 +2081,6 @@
       "onboard_time": 1768119320,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 107167,
-      "num": 107167,
-      "word": "山东威海下了倾盆大瓢雪",
-      "onboard_time": 1768141522,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106799,
@@ -2123,6 +2163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102176,
+      "num": 99157,
+      "word": "小城大事酷云破2.7了",
+      "onboard_time": 1768141402,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102148,
       "num": 112605,
       "word": "张凌赫招蜂引蝶",
@@ -2145,6 +2193,14 @@
       "onboard_time": 1768103961,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101060,
+      "num": 169691,
+      "word": "刘宇宁你们装什么小朋友啊",
+      "onboard_time": 1768141823,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 101015,
@@ -2187,14 +2243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 99157,
-      "num": 99157,
-      "word": "小城大事酷云破2.7了",
-      "onboard_time": 1768141402,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 99002,
       "num": 125542,
       "word": "陈幸同决赛对阵朱雨玲",
@@ -2209,6 +2257,14 @@
       "onboard_time": 1768116440,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98850,
+      "num": 98850,
+      "word": "深圳男篮vs北京男篮",
+      "onboard_time": 1768142062,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 98579,
@@ -2323,14 +2379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 92635,
-      "num": 96027,
-      "word": "男子网购5斤瓜子收到1斤瓜子皮",
-      "onboard_time": 1768140321,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91835,
       "num": 91835,
       "word": "成都地铁回应1人1座设计",
@@ -2369,6 +2417,22 @@
       "onboard_time": 1768104200,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 90851,
+      "num": 646173,
+      "word": "这就是现实版的千里江山图吧",
+      "onboard_time": 1768139482,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 90421,
+      "num": 90421,
+      "word": "国产剧拍了弟妹开门我是我弟",
+      "onboard_time": 1768142543,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 90276,
@@ -2497,14 +2561,6 @@
       "onboard_time": 1768105760,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 82168,
-      "num": 646173,
-      "word": "这就是现实版的千里江山图吧",
-      "onboard_time": 1768139482,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 81494,
@@ -2809,14 +2865,6 @@
       "onboard_time": 1768120400,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 72477,
-      "num": 108076,
-      "word": "沈梦辰 我内心装满了张凌赫",
-      "onboard_time": 1768141522,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 72283,
@@ -3201,6 +3249,14 @@
       "onboard_time": 1768065858,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 43681,
+      "num": 99984,
+      "word": "台游客发现大陆与民进党宣传不同",
+      "onboard_time": 1768142423,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43673,
