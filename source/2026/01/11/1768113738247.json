@@ -1,0 +1,410 @@
+{
+  "runTime": 1768113738247,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 642688,
+        "num": 1102830,
+        "word": "AI照片竟然拿了摄影比赛第一名",
+        "onboard_time": 1768108461,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213835,
+        "num": 774229,
+        "word": "救援队被秦岭遇难者家属起诉一审结束",
+        "onboard_time": 1768108580,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8782,
+        "num": 612472,
+        "word": "歼20带来的满满安全感",
+        "onboard_time": 1768101499,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 299045,
+        "num": 299045,
+        "word": "美国蜜雪冰城含糖量",
+        "onboard_time": 1768110559,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 272479,
+        "num": 272479,
+        "word": "黄晓明吃泡面这段太有生活了",
+        "onboard_time": 1768111821,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241438,
+        "num": 241438,
+        "word": "扁扁咪 鼓鼓咪",
+        "onboard_time": 1768111881,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207771,
+        "num": 207771,
+        "word": "小城大事生万物首日收视率对比",
+        "onboard_time": 1768107620,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161318,
+        "num": 161318,
+        "word": "夫妻卖10元盒饭20年挣2套房",
+        "onboard_time": 1768110741,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160593,
+        "num": 160593,
+        "word": "麻六记的酸辣粉为何卖不动了",
+        "onboard_time": 1768105341,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 59662,
+        "num": 158394,
+        "word": "KK园区彻底清零",
+        "onboard_time": 1768112901,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 714958,
+        "num": 155916,
+        "word": "卢昱晓 别扒了别扒了",
+        "onboard_time": 1768110260,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245375,
+        "num": 155117,
+        "word": "虞书欣张云龙开机照",
+        "onboard_time": 1768105700,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179715,
+        "num": 151731,
+        "word": "被美国奶茶的含糖量惊到了",
+        "onboard_time": 1768106061,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 149715,
+        "num": 149715,
+        "word": "偷挖三百平地下室业主赔每户1500",
+        "onboard_time": 1768110800,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142529,
+        "num": 142529,
+        "word": "dora退出3unshine",
+        "onboard_time": 1768110860,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131362,
+        "num": 131362,
+        "word": "王欣瑜获奥克兰赛亚军",
+        "onboard_time": 1768112720,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114044,
+        "num": 114044,
+        "word": "岳云鹏回应今年不上春晚",
+        "onboard_time": 1768102758,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104660,
+        "num": 104660,
+        "word": "老外被中国细糠折服的一天",
+        "onboard_time": 1768102640,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 101125,
+        "num": 101125,
+        "word": "朱媛媛抗癌5年拍了5部作品",
+        "onboard_time": 1768100660,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97807,
+        "num": 97807,
+        "word": "月薪一万的试吃员",
+        "onboard_time": 1768105700,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 721632,
+        "num": 97746,
+        "word": "方圆回应小澈在她家住半个月",
+        "onboard_time": 1768104200,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 325378,
+        "num": 97658,
+        "word": "小澈脱粉粉丝爆料",
+        "onboard_time": 1768103420,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 245116,
+        "num": 97540,
+        "word": "被体制内大佬的工作留痕震撼到了",
+        "onboard_time": 1768110981,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 294953,
+        "num": 97367,
+        "word": "刘一诺直播回应和檀健次的恋情",
+        "onboard_time": 1768097721,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277014,
+        "num": 97160,
+        "word": "英伟达要求中国客户预付全款",
+        "onboard_time": 1768108461,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 97141,
+        "num": 97141,
+        "word": "奔跑吧节目组还没联系邵子恒吗",
+        "onboard_time": 1768113441,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219075,
+        "num": 96989,
+        "word": "小澈直播时就有其他网红暗示了",
+        "onboard_time": 1768105221,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 96606,
+        "num": 96606,
+        "word": "萝卜纸巾猫为什么火了",
+        "onboard_time": 1768107861,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171118,
+        "num": 95866,
+        "word": "彭小苒零下10度穿无袖",
+        "onboard_time": 1768112182,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64205,
+        "num": 91739,
+        "word": "躲开3个促炎习惯",
+        "onboard_time": 1768111941,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 14469,
+        "num": 87982,
+        "word": "热血忠诚铸就平安中国",
+        "onboard_time": 1768111701,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 218507,
+        "num": 83940,
+        "word": "小澈刚复播",
+        "onboard_time": 1768108641,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 163093,
+        "num": 80599,
+        "word": "Amy姐说林俊杰前任美商很高",
+        "onboard_time": 1768109601,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80258,
+        "num": 80258,
+        "word": "苏翊鸣回应获世界杯亚军",
+        "onboard_time": 1768113621,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152456,
+        "num": 80167,
+        "word": "杨博文 插画界来了一个小天才",
+        "onboard_time": 1768113621,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140879,
+        "num": 80119,
+        "word": "冯小刚带女儿出席芭莎活动",
+        "onboard_time": 1768107679,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80046,
+        "num": 80046,
+        "word": "真正的灯下黑",
+        "onboard_time": 1768112661,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 116747,
+        "num": 79922,
+        "word": "张凌赫首个千万赞视频",
+        "onboard_time": 1768104139,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104714,
+        "num": 79480,
+        "word": "赵丽颖被道具砸懵了",
+        "onboard_time": 1768111461,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78946,
+        "num": 78946,
+        "word": "大爷5岁走失回家已72岁",
+        "onboard_time": 1768108461,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100379,
+        "num": 78800,
+        "word": "唐宫奇案",
+        "onboard_time": 1768097721,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92209,
+        "num": 78496,
+        "word": "陶喆破了自己28年的纪录",
+        "onboard_time": 1768113081,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 77993,
+        "num": 77993,
+        "word": "马斯克宣布下周开源X最新推荐算法",
+        "onboard_time": 1768113323,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 89451,
+        "num": 77900,
+        "word": "原来鸡还能下麻辣蛋",
+        "onboard_time": 1768113441,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77553,
+        "num": 77553,
+        "word": "价值8000元的爱丽丝美甲",
+        "onboard_time": 1768113140,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 85988,
+        "num": 77354,
+        "word": "颜安长文回应",
+        "onboard_time": 1768053024,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85946,
+        "num": 77243,
+        "word": "刑侦有黄景瑜你放心吧",
+        "onboard_time": 1768112601,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77112,
+        "num": 77112,
+        "word": "西游记妖怪下凡转场",
+        "onboard_time": 1768113561,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85339,
+        "num": 77010,
+        "word": "赵丽颖用5个手指形容5个人",
+        "onboard_time": 1768111821,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76589,
+        "num": 76589,
+        "word": "曝美军方抵制入侵格陵兰岛计划",
+        "onboard_time": 1768108760,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#领悟总书记全面从严治党之喻#"
+    }
+  }
+}

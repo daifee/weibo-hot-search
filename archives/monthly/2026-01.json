@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768110539838,
+  "endTime": 1768113738247,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1233,6 +1233,14 @@
       "onboard_time": 1767672261,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 714958,
+      "num": 156309,
+      "word": "卢昱晓 别扒了别扒了",
+      "onboard_time": 1768110260,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 714194,
@@ -5731,6 +5739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299045,
+      "num": 299045,
+      "word": "美国蜜雪冰城含糖量",
+      "onboard_time": 1768110559,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 298697,
       "num": 298697,
       "word": "高市手持安倍画像被批令人作呕",
@@ -6337,6 +6353,14 @@
       "onboard_time": 1767930741,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 272479,
+      "num": 272479,
+      "word": "黄晓明吃泡面这段太有生活了",
+      "onboard_time": 1768111821,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 271804,
@@ -7179,6 +7203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 245116,
+      "num": 97540,
+      "word": "被体制内大佬的工作留痕震撼到了",
+      "onboard_time": 1768110981,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 245028,
       "num": 1087905,
       "word": "黑龙江一景区现3米高冰封鱼墙",
@@ -7257,6 +7289,14 @@
       "onboard_time": 1767352043,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241438,
+      "num": 241438,
+      "word": "扁扁咪 鼓鼓咪",
+      "onboard_time": 1768111881,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 241429,
@@ -8257,6 +8297,14 @@
       "onboard_time": 1767704003,
       "rank": 40,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 213835,
+      "num": 774229,
+      "word": "救援队被秦岭遇难者家属起诉一审结束",
+      "onboard_time": 1768108580,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 213798,
@@ -10947,6 +10995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171118,
+      "num": 95866,
+      "word": "彭小苒零下10度穿无袖",
+      "onboard_time": 1768112182,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170815,
       "num": 153636,
       "word": "王楚然 这是我老板送我的",
@@ -11667,6 +11723,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 163093,
+      "num": 111121,
+      "word": "Amy姐说林俊杰前任美商很高",
+      "onboard_time": 1768109601,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162985,
       "num": 156397,
       "word": "国产剧开始为妇产科发声了",
@@ -11824,6 +11888,14 @@
       "word": "陈志已被采取强制措施",
       "onboard_time": 1767863122,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161318,
+      "num": 161318,
+      "word": "夫妻卖10元盒饭20年挣2套房",
+      "onboard_time": 1768110741,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -12283,14 +12355,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 156309,
-      "num": 156309,
-      "word": "卢昱晓 别扒了别扒了",
-      "onboard_time": 1768110260,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 156168,
       "num": 156168,
       "word": "白鹿上车喽",
@@ -12571,6 +12635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152456,
+      "num": 80167,
+      "word": "杨博文 插画界来了一个小天才",
+      "onboard_time": 1768113621,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 152325,
       "num": 192378,
       "word": "委内瑞拉首都加拉加斯传出枪声",
@@ -12675,14 +12747,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 151351,
-      "num": 151351,
-      "word": "救援队被秦岭遇难者家属起诉一审结束",
-      "onboard_time": 1768108580,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 151228,
       "num": 151228,
       "word": "蔡徐坤藏不住一点事儿",
@@ -12777,6 +12841,14 @@
       "onboard_time": 1767786084,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 149715,
+      "num": 149715,
+      "word": "偷挖三百平地下室业主赔每户1500",
+      "onboard_time": 1768110800,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149669,
@@ -13520,6 +13592,14 @@
       "word": "Digi Ghetto",
       "onboard_time": 1767761902,
       "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 142529,
+      "num": 142529,
+      "word": "dora退出3unshine",
+      "onboard_time": 1768110860,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -14921,6 +15001,14 @@
       "onboard_time": 1767858622,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131362,
+      "num": 131362,
+      "word": "王欣瑜获奥克兰赛亚军",
+      "onboard_time": 1768112720,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 131340,
@@ -18123,14 +18211,6 @@
       "category": "民生新闻,体育"
     },
     {
-      "raw_hot": 111121,
-      "num": 111121,
-      "word": "Amy姐说林俊杰前任美商很高",
-      "onboard_time": 1768109601,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 111034,
       "num": 111034,
       "word": "王心凌昨天陶艾青今天查美乐",
@@ -19217,6 +19297,14 @@
       "onboard_time": 1767782903,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104714,
+      "num": 79480,
+      "word": "赵丽颖被道具砸懵了",
+      "onboard_time": 1768111461,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 104679,
@@ -21043,6 +21131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97141,
+      "num": 97141,
+      "word": "奔跑吧节目组还没联系邵子恒吗",
+      "onboard_time": 1768113441,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97140,
       "num": 1002432,
       "word": "元旦",
@@ -22283,6 +22379,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 92209,
+      "num": 78496,
+      "word": "陶喆破了自己28年的纪录",
+      "onboard_time": 1768113081,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 92181,
       "num": 92181,
       "word": "王一博回应情绪稳定",
@@ -22913,6 +23017,14 @@
       "onboard_time": 1767753142,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 89451,
+      "num": 77900,
+      "word": "原来鸡还能下麻辣蛋",
+      "onboard_time": 1768113441,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 89372,
@@ -23819,6 +23931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 85946,
+      "num": 77243,
+      "word": "刑侦有黄景瑜你放心吧",
+      "onboard_time": 1768112601,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85935,
       "num": 85935,
       "word": "工会每年可组织职工春秋游4次",
@@ -23976,6 +24096,14 @@
       "word": "张籽沐05花买股",
       "onboard_time": 1767715701,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 85339,
+      "num": 77010,
+      "word": "赵丽颖用5个手指形容5个人",
+      "onboard_time": 1768111821,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -25003,6 +25131,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 80258,
+      "num": 80258,
+      "word": "苏翊鸣回应获世界杯亚军",
+      "onboard_time": 1768113621,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80242,
       "num": 80242,
       "word": "卢昱晓模仿代旭推眼镜",
@@ -25041,6 +25177,14 @@
       "onboard_time": 1768012039,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80046,
+      "num": 80046,
+      "word": "真正的灯下黑",
+      "onboard_time": 1768112661,
+      "rank": 36,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 80026,
@@ -25483,6 +25627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77993,
+      "num": 77993,
+      "word": "马斯克宣布下周开源X最新推荐算法",
+      "onboard_time": 1768113323,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 77947,
       "num": 77947,
       "word": "鹅鸭杀呆呆鸟必胜秘籍",
@@ -25579,6 +25731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77553,
+      "num": 77553,
+      "word": "价值8000元的爱丽丝美甲",
+      "onboard_time": 1768113140,
+      "rank": 44,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 77544,
       "num": 77544,
       "word": "50元的旧人民币卖到700元",
@@ -25649,6 +25809,14 @@
       "onboard_time": 1767516262,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77112,
+      "num": 77112,
+      "word": "西游记妖怪下凡转场",
+      "onboard_time": 1768113561,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 77106,
@@ -27707,6 +27875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64205,
+      "num": 91739,
+      "word": "躲开3个促炎习惯",
+      "onboard_time": 1768111941,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 64195,
       "num": 64195,
       "word": "云初妈咪",
@@ -28329,6 +28505,14 @@
       "onboard_time": 1767346459,
       "rank": 48,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 59662,
+      "num": 158394,
+      "word": "KK园区彻底清零",
+      "onboard_time": 1768112901,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 59525,
@@ -33339,6 +33523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 14469,
+      "num": 87982,
+      "word": "热血忠诚铸就平安中国",
+      "onboard_time": 1768111701,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14463,
       "num": 108954,
       "word": "河南一市政绿化带被人埋入骨灰盒",
@@ -33593,6 +33785,14 @@
       "onboard_time": 1767937341,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8782,
+      "num": 612472,
+      "word": "歼20带来的满满安全感",
+      "onboard_time": 1768101499,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 8037,
