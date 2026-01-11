@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/12 00:33:57 ~ 2026/01/12 05:26:26
+本榜单时间：2026/01/12 00:33:57 ~ 2026/01/12 05:40:24
 </p>
 </blockquote>
 <p>
@@ -471,6 +471,12 @@ HHG（热度：20141）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%9B%9E%E5%BA%94%E9%98%BF%E4%BF%A1%E6%83%B3%E6%9D%A5%E7%9C%8B%E4%BB%96%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+刘宇宁回应阿信想来看他的演唱会（热度：12412）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%8A%E5%88%AB%E7%AB%A5%E5%AE%B6%E5%A0%A1%20%E6%84%BF%E6%AD%A4%E5%8E%BB%E7%B9%81%E8%8A%B1%23" target="weibo">
 告别童家堡 愿此去繁花（热度：11804）
 </a>
@@ -495,14 +501,8 @@ HHG（热度：20141）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%9B%9E%E5%BA%94%E9%98%BF%E4%BF%A1%E6%83%B3%E6%9D%A5%E7%9C%8B%E4%BB%96%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-刘宇宁回应阿信想来看他的演唱会（热度：10048）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%B9%E9%BA%A6%E7%A7%B0%E8%8B%A5%E5%9B%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%8F%91%E7%94%9F%E6%88%98%E4%BA%89%E5%B0%86%E5%BE%88%E6%84%9A%E8%A0%A2%23" target="weibo">
-丹麦称若因格陵兰岛发生战争将很愚蠢（热度：9260）
+丹麦称若因格陵兰岛发生战争将很愚蠢（热度：10027）
 </a>
 </li>
 

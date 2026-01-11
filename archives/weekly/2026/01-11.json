@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768166786389,
+  "endTime": 1768167624106,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -1708,7 +1708,7 @@
     },
     {
       "raw_hot": 137932,
-      "num": 117291,
+      "num": 134823,
       "word": "林昀儒男单冠军",
       "onboard_time": 1768157474,
       "rank": 3,
@@ -4107,6 +4107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 12412,
+      "num": 25035,
+      "word": "刘宇宁回应阿信想来看他的演唱会",
+      "onboard_time": 1768165934,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 11804,
       "num": 25379,
       "word": "告别童家堡 愿此去繁花",
@@ -4131,12 +4139,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 10048,
-      "num": 25035,
-      "word": "刘宇宁回应阿信想来看他的演唱会",
-      "onboard_time": 1768165934,
-      "rank": 45,
-      "category": "演出"
+      "raw_hot": 10027,
+      "num": 25034,
+      "word": "丹麦称若因格陵兰岛发生战争将很愚蠢",
+      "onboard_time": 1768166233,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 9496,
@@ -4145,14 +4153,6 @@
       "onboard_time": 1768035021,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9260,
-      "num": 25034,
-      "word": "丹麦称若因格陵兰岛发生战争将很愚蠢",
-      "onboard_time": 1768166233,
-      "rank": 49,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
