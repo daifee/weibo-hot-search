@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768117322077,
+  "endTime": 1768120602324,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1563752,
-      "num": 134144,
+      "num": 150029,
       "word": "方圆回应小澈在她家住半个月",
       "onboard_time": 1768104200,
       "rank": 21,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 903109,
-      "num": 134775,
+      "num": 149975,
       "word": "刘一诺直播回应和檀健次的恋情",
       "onboard_time": 1768097721,
       "rank": 26,
@@ -73,6 +73,14 @@
       "onboard_time": 1768055902,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 810345,
+      "num": 166736,
+      "word": "曼谷偶遇鞠婧祎逛街",
+      "onboard_time": 1768118061,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 806487,
@@ -163,6 +171,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 543870,
+      "num": 150036,
+      "word": "时代峰峻致歉王橹杰",
+      "onboard_time": 1768116262,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 510403,
+      "num": 510403,
+      "word": "日本一餐厅墙内发现女尸",
+      "onboard_time": 1768115781,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 506991,
       "num": 506991,
       "word": "云初令开机",
@@ -236,7 +260,7 @@
     },
     {
       "raw_hot": 414718,
-      "num": 133996,
+      "num": 149990,
       "word": "小澈脱粉粉丝爆料",
       "onboard_time": 1768103420,
       "rank": 23,
@@ -283,12 +307,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 391092,
+      "num": 1062574,
+      "word": "美方再次亮明弃台主张",
+      "onboard_time": 1768118541,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 378599,
+      "num": 748232,
+      "word": "AI登顶LOL韩服",
+      "onboard_time": 1768116201,
+      "rank": 34,
+      "category": "互联网,游戏"
+    },
+    {
       "raw_hot": 377417,
       "num": 379573,
       "word": "死了么APP开发成本1000多元",
       "onboard_time": 1768096100,
       "rank": 4,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 370232,
+      "num": 158844,
+      "word": "张奕然住廉租房",
+      "onboard_time": 1768118601,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 359682,
@@ -299,12 +347,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 354764,
+      "num": 354764,
+      "word": "女生租房仅15天被中介砸门催交租",
+      "onboard_time": 1768117460,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 338267,
       "num": 338001,
       "word": "扁扁咪 鼓鼓咪",
       "onboard_time": 1768111881,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 338011,
+      "num": 150054,
+      "word": "iPhone4需求激增近1000%",
+      "onboard_time": 1768117099,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 336734,
@@ -347,6 +411,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 319624,
+      "num": 319624,
+      "word": "何炅这段话值得每个女孩背诵",
+      "onboard_time": 1768116500,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317640,
       "num": 124810,
       "word": "张凌赫首个千万赞视频",
@@ -387,7 +459,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 255732,
+      "raw_hot": 262327,
       "num": 255732,
       "word": "王俊凯丁禹兮鞠婧祎QQ音乐预热",
       "onboard_time": 1768114821,
@@ -411,12 +483,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 254599,
-      "num": 134137,
-      "word": "时代峰峻致歉王橹杰",
-      "onboard_time": 1768116262,
+      "raw_hot": 250416,
+      "num": 150015,
+      "word": "女子每天化精致眼妆睫毛藏6条螨虫",
+      "onboard_time": 1768119200,
       "rank": 24,
-      "category": "艺人"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 246273,
@@ -587,6 +659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 178595,
+      "num": 150000,
+      "word": "小腿出现这个变化建议查查血糖",
+      "onboard_time": 1768115661,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 175137,
       "num": 124469,
       "word": "杨博文 插画界来了一个小天才",
@@ -601,14 +681,6 @@
       "onboard_time": 1768087395,
       "rank": 27,
       "category": "网红"
-    },
-    {
-      "raw_hot": 174616,
-      "num": 215513,
-      "word": "日本一餐厅墙内发现女尸",
-      "onboard_time": 1768115781,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 172938,
@@ -635,12 +707,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170795,
-      "num": 214368,
-      "word": "AI登顶LOL韩服",
-      "onboard_time": 1768116201,
-      "rank": 34,
-      "category": "互联网,游戏"
+      "raw_hot": 169966,
+      "num": 169966,
+      "word": "梅毒成为一种日式斩杀线",
+      "onboard_time": 1768117581,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 169932,
@@ -747,6 +819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 150108,
+      "num": 150108,
+      "word": "小城大事首日云合",
+      "onboard_time": 1768119621,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146137,
       "num": 146137,
       "word": "谢娜的菜来了",
@@ -771,28 +851,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 139496,
-      "num": 125424,
-      "word": "小腿出现这个变化建议查查血糖",
-      "onboard_time": 1768115661,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 136943,
       "num": 134428,
       "word": "女子先嫁2人未离婚又跟9人结离婚",
       "onboard_time": 1768098020,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 136656,
-      "num": 136656,
-      "word": "何炅这段话值得每个女孩背诵",
-      "onboard_time": 1768116500,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 134848,
@@ -835,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129833,
+      "num": 129833,
+      "word": "金价飙升银行紧急提示",
+      "onboard_time": 1768118240,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 128715,
       "num": 128715,
       "word": "萝卜纸巾猫为什么火了",
@@ -865,6 +937,14 @@
       "onboard_time": 1768113441,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124337,
+      "num": 154334,
+      "word": "63岁痴呆老人掏光钱找去世40年妈妈",
+      "onboard_time": 1768117640,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123630,
@@ -907,6 +987,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 118653,
+      "num": 118653,
+      "word": "气血足的人日常多有5个习惯",
+      "onboard_time": 1768119320,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 117960,
       "num": 117960,
       "word": "尼泊尔盗版迪士尼",
@@ -947,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112597,
+      "num": 112597,
+      "word": "何穗 大红大绿大粉大橙",
+      "onboard_time": 1768119021,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111034,
       "num": 111034,
       "word": "王心凌昨天陶艾青今天查美乐",
@@ -977,6 +1073,14 @@
       "onboard_time": 1768108520,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107407,
+      "num": 107407,
+      "word": "展轩首套高定",
+      "onboard_time": 1768119320,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 106799,
@@ -1091,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97845,
+      "num": 94686,
+      "word": "赵樱子说跟蒋毅在一起了",
+      "onboard_time": 1768120341,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96582,
       "num": 196234,
       "word": "iPhone里最容易忽略的效率神器",
@@ -1112,6 +1224,14 @@
       "word": "樊振东德甲赛程预告",
       "onboard_time": 1768104139,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95232,
+      "num": 95232,
+      "word": "徐梦桃的对手只有自己",
+      "onboard_time": 1768120221,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -1187,6 +1307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 88969,
+      "num": 88969,
+      "word": "明川有知夏 黄景瑜金晨",
+      "onboard_time": 1768120221,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88593,
       "num": 88593,
       "word": "北欧五国联合声明",
@@ -1200,6 +1328,14 @@
       "word": "王玉雯维护化妆师",
       "onboard_time": 1768101381,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 87619,
+      "num": 87619,
+      "word": "王俊凯练舞练到腿淤青",
+      "onboard_time": 1768117581,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -1243,20 +1379,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 85267,
-      "num": 89693,
-      "word": "iPhone4需求激增近1000%",
-      "onboard_time": 1768117099,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
       "raw_hot": 83398,
       "num": 83398,
       "word": "法国司法部长撞脸赵本山",
       "onboard_time": 1768114220,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82827,
+      "num": 82827,
+      "word": "中介回应砸门恐吓女租客交租",
+      "onboard_time": 1768119980,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82541,
@@ -1371,6 +1507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79471,
+      "num": 79471,
+      "word": "鹅鸭杀中的女友",
+      "onboard_time": 1768119980,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 79174,
       "num": 79174,
       "word": "我讨厌打开APP我的歌就被暂停了",
@@ -1467,6 +1611,22 @@
       "category": "民生新闻,体育"
     },
     {
+      "raw_hot": 76432,
+      "num": 76432,
+      "word": "谁懂这剧大结局含金量",
+      "onboard_time": 1768120101,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 75940,
+      "num": 75940,
+      "word": "新一小兰终于团聚了",
+      "onboard_time": 1768118421,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 75619,
       "num": 111058,
       "word": "高敏感的人能察觉到微妙的恶意",
@@ -1507,6 +1667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72498,
+      "num": 71098,
+      "word": "鹅鸭杀最希望被冤枉的一集",
+      "onboard_time": 1768120400,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 72283,
       "num": 88870,
       "word": "茶颜悦色门店售卖过期奶酥菠萝包",
@@ -1521,6 +1689,14 @@
       "onboard_time": 1768099459,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 71355,
+      "num": 71355,
+      "word": "谁懂恶女身后是更小的恶女",
+      "onboard_time": 1768120520,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 70106,
@@ -1985,6 +2161,14 @@
       "onboard_time": 1768101499,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24167,
+      "num": 89210,
+      "word": "有供应商称冬季校服都会贴膜",
+      "onboard_time": 1768119861,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23672,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1768120602324,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 391092,
+        "num": 1062574,
+        "word": "美方再次亮明弃台主张",
+        "onboard_time": 1768118541,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 378599,
+        "num": 748232,
+        "word": "AI登顶LOL韩服",
+        "onboard_time": 1768116201,
+        "rank": 1,
+        "category": "互联网,电竞"
+      },
+      {
+        "raw_hot": 21065,
+        "num": 604278,
+        "word": "歼20带来的满满安全感",
+        "onboard_time": 1768101499,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 510403,
+        "num": 510403,
+        "word": "日本一餐厅墙内发现女尸",
+        "onboard_time": 1768115781,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 354764,
+        "num": 354764,
+        "word": "女生租房仅15天被中介砸门催交租",
+        "onboard_time": 1768117460,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319624,
+        "num": 319624,
+        "word": "何炅这段话值得每个女孩背诵",
+        "onboard_time": 1768116500,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249035,
+        "num": 249035,
+        "word": "KK园区彻底清零",
+        "onboard_time": 1768112901,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 213148,
+        "num": 213148,
+        "word": "AI照片竟然拿了摄影比赛第一名",
+        "onboard_time": 1768108461,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172304,
+        "num": 172304,
+        "word": "扁扁咪 鼓鼓咪",
+        "onboard_time": 1768111881,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169966,
+        "num": 169966,
+        "word": "梅毒成为一种日式斩杀线",
+        "onboard_time": 1768117581,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 810345,
+        "num": 166736,
+        "word": "曼谷偶遇鞠婧祎逛街",
+        "onboard_time": 1768118061,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479951,
+        "num": 166174,
+        "word": "卢昱晓 别扒了别扒了",
+        "onboard_time": 1768110260,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159164,
+        "num": 159164,
+        "word": "夫妻卖10元盒饭20年挣2套房",
+        "onboard_time": 1768110741,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370232,
+        "num": 158844,
+        "word": "张奕然住廉租房",
+        "onboard_time": 1768118601,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178547,
+        "num": 154923,
+        "word": "虞书欣张云龙开机照",
+        "onboard_time": 1768105700,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124337,
+        "num": 154334,
+        "word": "63岁痴呆老人掏光钱找去世40年妈妈",
+        "onboard_time": 1768117640,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262327,
+        "num": 151006,
+        "word": "王俊凯丁禹兮鞠婧祎QQ音乐预热",
+        "onboard_time": 1768114821,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150108,
+        "num": 150108,
+        "word": "小城大事首日云合",
+        "onboard_time": 1768119621,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116175,
+        "num": 150108,
+        "word": "美国蜜雪冰城含糖量",
+        "onboard_time": 1768110559,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 128132,
+        "num": 150092,
+        "word": "奔跑吧节目组还没联系邵子恒吗",
+        "onboard_time": 1768113441,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2570280,
+        "num": 150070,
+        "word": "小澈发检测报告",
+        "onboard_time": 1768114701,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 338011,
+        "num": 150054,
+        "word": "iPhone4需求激增近1000%",
+        "onboard_time": 1768117099,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 543870,
+        "num": 150036,
+        "word": "时代峰峻致歉王橹杰",
+        "onboard_time": 1768116262,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 626553,
+        "num": 150029,
+        "word": "方圆回应小澈在她家住半个月",
+        "onboard_time": 1768104200,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 250416,
+        "num": 150015,
+        "word": "女子每天化精致眼妆睫毛藏6条螨虫",
+        "onboard_time": 1768119200,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178595,
+        "num": 150000,
+        "word": "小腿出现这个变化建议查查血糖",
+        "onboard_time": 1768115661,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 267156,
+        "num": 149990,
+        "word": "小澈脱粉粉丝爆料",
+        "onboard_time": 1768103420,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 149975,
+        "num": 149975,
+        "word": "刘一诺直播回应和檀健次的恋情",
+        "onboard_time": 1768097721,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129833,
+        "num": 129833,
+        "word": "金价飙升银行紧急提示",
+        "onboard_time": 1768118240,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124622,
+        "num": 124622,
+        "word": "救援队被秦岭遇难者家属起诉一审结束",
+        "onboard_time": 1768108580,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121351,
+        "num": 121351,
+        "word": "被体制内大佬的工作留痕震撼到了",
+        "onboard_time": 1768110981,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118653,
+        "num": 118653,
+        "word": "气血足的人日常多有5个习惯",
+        "onboard_time": 1768119320,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112597,
+        "num": 112597,
+        "word": "何穗 大红大绿大粉大橙",
+        "onboard_time": 1768119021,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107407,
+        "num": 107407,
+        "word": "展轩首套高定",
+        "onboard_time": 1768119320,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 95232,
+        "num": 95232,
+        "word": "徐梦桃的对手只有自己",
+        "onboard_time": 1768120221,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97845,
+        "num": 94686,
+        "word": "赵樱子说跟蒋毅在一起了",
+        "onboard_time": 1768120341,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93912,
+        "num": 93912,
+        "word": "黄晓明吃泡面这段太有生活了",
+        "onboard_time": 1768111821,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92279,
+        "num": 92279,
+        "word": "麻六记的酸辣粉为何卖不动了",
+        "onboard_time": 1768105341,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 89489,
+        "num": 89489,
+        "word": "小城大事生万物首日收视率对比",
+        "onboard_time": 1768107620,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24167,
+        "num": 89210,
+        "word": "有供应商称冬季校服都会贴膜",
+        "onboard_time": 1768119861,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88969,
+        "num": 88969,
+        "word": "明川有知夏 黄景瑜金晨",
+        "onboard_time": 1768120221,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87619,
+        "num": 87619,
+        "word": "王俊凯练舞练到腿淤青",
+        "onboard_time": 1768117581,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82827,
+        "num": 82827,
+        "word": "中介回应砸门恐吓女租客交租",
+        "onboard_time": 1768119980,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80754,
+        "num": 80754,
+        "word": "Amy姐说林俊杰前任美商很高",
+        "onboard_time": 1768109601,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79471,
+        "num": 79471,
+        "word": "鹅鸭杀中的女友",
+        "onboard_time": 1768119980,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 76432,
+        "num": 76432,
+        "word": "谁懂这剧大结局含金量",
+        "onboard_time": 1768120101,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75940,
+        "num": 75940,
+        "word": "新一小兰终于团聚了",
+        "onboard_time": 1768118421,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 71355,
+        "num": 71355,
+        "word": "谁懂恶女身后是更小的恶女",
+        "onboard_time": 1768120520,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72498,
+        "num": 71098,
+        "word": "鹅鸭杀最希望被冤枉的一集",
+        "onboard_time": 1768120400,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 69492,
+        "num": 69492,
+        "word": "张凌赫首个千万赞视频",
+        "onboard_time": 1768104139,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#领悟总书记全面从严治党之喻#"
+    }
+  }
+}

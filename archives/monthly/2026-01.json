@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768117322077,
+  "endTime": 1768120602324,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1563752,
-      "num": 134144,
+      "num": 150029,
       "word": "方圆回应小澈在她家住半个月",
       "onboard_time": 1768104200,
       "rank": 21,
@@ -732,7 +732,7 @@
     },
     {
       "raw_hot": 903109,
-      "num": 134775,
+      "num": 149975,
       "word": "刘一诺直播回应和檀健次的恋情",
       "onboard_time": 1768097721,
       "rank": 26,
@@ -953,6 +953,14 @@
       "onboard_time": 1767602061,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 810345,
+      "num": 166736,
+      "word": "曼谷偶遇鞠婧祎逛街",
+      "onboard_time": 1768118061,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 808268,
@@ -2115,6 +2123,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 543870,
+      "num": 150036,
+      "word": "时代峰峻致歉王橹杰",
+      "onboard_time": 1768116262,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 543056,
       "num": 424813,
       "word": "iPhoneFold上手",
@@ -2529,6 +2545,14 @@
       "onboard_time": 1767596841,
       "rank": 10,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 510403,
+      "num": 510403,
+      "word": "日本一餐厅墙内发现女尸",
+      "onboard_time": 1768115781,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 509642,
@@ -3724,7 +3748,7 @@
     },
     {
       "raw_hot": 414718,
-      "num": 133996,
+      "num": 149990,
       "word": "小澈脱粉粉丝爆料",
       "onboard_time": 1768103420,
       "rank": 23,
@@ -4035,6 +4059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 391092,
+      "num": 1062574,
+      "word": "美方再次亮明弃台主张",
+      "onboard_time": 1768118541,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 390702,
       "num": 819195,
       "word": "我不是药神原型陆勇重返印度",
@@ -4161,6 +4193,14 @@
       "onboard_time": 1767180262,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 378599,
+      "num": 748232,
+      "word": "AI登顶LOL韩服",
+      "onboard_time": 1768116201,
+      "rank": 34,
+      "category": "互联网,游戏"
     },
     {
       "raw_hot": 378488,
@@ -4321,6 +4361,14 @@
       "onboard_time": 1767527842,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 370232,
+      "num": 158844,
+      "word": "张奕然住廉租房",
+      "onboard_time": 1768118601,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 369927,
@@ -4619,6 +4667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 354764,
+      "num": 354764,
+      "word": "女生租房仅15天被中介砸门催交租",
+      "onboard_time": 1768117460,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 353015,
       "num": 393596,
       "word": "朋友圈长按微信头像可以设置权限",
@@ -4865,6 +4921,14 @@
       "onboard_time": 1767878722,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 338011,
+      "num": 150054,
+      "word": "iPhone4需求激增近1000%",
+      "onboard_time": 1768117099,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 337910,
@@ -5297,6 +5361,14 @@
       "onboard_time": 1767590184,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 319624,
+      "num": 319624,
+      "word": "何炅这段话值得每个女孩背诵",
+      "onboard_time": 1768116500,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 319585,
@@ -6779,6 +6851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 262327,
+      "num": 255732,
+      "word": "王俊凯丁禹兮鞠婧祎QQ音乐预热",
+      "onboard_time": 1768114821,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261771,
       "num": 1002527,
       "word": "TE对战北京WBG",
@@ -6963,14 +7043,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 255732,
-      "num": 255732,
-      "word": "王俊凯丁禹兮鞠婧祎QQ音乐预热",
-      "onboard_time": 1768114821,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 255438,
       "num": 258704,
       "word": "奔跑吧节目组还没联系邵子恒吗",
@@ -7017,14 +7089,6 @@
       "onboard_time": 1767875002,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 254599,
-      "num": 134137,
-      "word": "时代峰峻致歉王橹杰",
-      "onboard_time": 1768116262,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 254463,
@@ -7137,6 +7201,14 @@
       "onboard_time": 1767914478,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250416,
+      "num": 150015,
+      "word": "女子每天化精致眼妆睫毛藏6条螨虫",
+      "onboard_time": 1768119200,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 249988,
@@ -10547,6 +10619,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 178595,
+      "num": 150000,
+      "word": "小腿出现这个变化建议查查血糖",
+      "onboard_time": 1768115661,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 178442,
       "num": 1703345,
       "word": "美军结束对委内瑞拉轰炸",
@@ -10851,14 +10931,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 174616,
-      "num": 215513,
-      "word": "日本一餐厅墙内发现女尸",
-      "onboard_time": 1768115781,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 174429,
       "num": 174429,
       "word": "周冠宇回应凯迪拉克官宣",
@@ -11107,14 +11179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170795,
-      "num": 214368,
-      "word": "AI登顶LOL韩服",
-      "onboard_time": 1768116201,
-      "rank": 34,
-      "category": "互联网,游戏"
-    },
-    {
       "raw_hot": 170713,
       "num": 324552,
       "word": "圣枪哥晒21EDG合照",
@@ -11193,6 +11257,14 @@
       "onboard_time": 1767772401,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 169966,
+      "num": 169966,
+      "word": "梅毒成为一种日式斩杀线",
+      "onboard_time": 1768117581,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 169932,
@@ -12891,6 +12963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150108,
+      "num": 150108,
+      "word": "小城大事首日云合",
+      "onboard_time": 1768119621,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150106,
       "num": 521915,
       "word": "周冠宇方回应离开法拉利",
@@ -14139,14 +14219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139496,
-      "num": 125424,
-      "word": "小腿出现这个变化建议查查血糖",
-      "onboard_time": 1768115661,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 139450,
       "num": 330342,
       "word": "女子杀害丈夫百名村民向法院求情",
@@ -14465,14 +14537,6 @@
       "onboard_time": 1767693441,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 136656,
-      "num": 136656,
-      "word": "何炅这段话值得每个女孩背诵",
-      "onboard_time": 1768116500,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 136654,
@@ -15363,6 +15427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129833,
+      "num": 129833,
+      "word": "金价飙升银行紧急提示",
+      "onboard_time": 1768118240,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 129605,
       "num": 129605,
       "word": "2026年第一部群像剧来了",
@@ -16201,6 +16273,14 @@
       "onboard_time": 1767669021,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 124337,
+      "num": 154334,
+      "word": "63岁痴呆老人掏光钱找去世40年妈妈",
+      "onboard_time": 1768117640,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124311,
@@ -17177,6 +17257,14 @@
       "onboard_time": 1767756202,
       "rank": 28,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 118653,
+      "num": 118653,
+      "word": "气血足的人日常多有5个习惯",
+      "onboard_time": 1768119320,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 118347,
@@ -18163,6 +18251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112597,
+      "num": 112597,
+      "word": "何穗 大红大绿大粉大橙",
+      "onboard_time": 1768119021,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112596,
       "num": 1027722,
       "word": "薛之谦独唱呢",
@@ -18881,6 +18977,14 @@
       "onboard_time": 1767763281,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107407,
+      "num": 107407,
+      "word": "展轩首套高定",
+      "onboard_time": 1768119320,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 107328,
@@ -21083,6 +21187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97845,
+      "num": 94686,
+      "word": "赵樱子说跟蒋毅在一起了",
+      "onboard_time": 1768120341,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97818,
       "num": 97818,
       "word": "医保个账里的钱可跨省给家人用",
@@ -21784,6 +21896,14 @@
       "word": "桃田贤斗官宣结婚",
       "onboard_time": 1767954141,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95232,
+      "num": 95232,
+      "word": "徐梦桃的对手只有自己",
+      "onboard_time": 1768120221,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -23251,6 +23371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88969,
+      "num": 88969,
+      "word": "明川有知夏 黄景瑜金晨",
+      "onboard_time": 1768120221,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88848,
       "num": 95182,
       "word": "性子急缩短寿命",
@@ -23633,6 +23761,14 @@
       "onboard_time": 1767955520,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87619,
+      "num": 87619,
+      "word": "王俊凯练舞练到腿淤青",
+      "onboard_time": 1768117581,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 87582,
@@ -24291,14 +24427,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 85267,
-      "num": 89693,
-      "word": "iPhone4需求激增近1000%",
-      "onboard_time": 1768117099,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
       "raw_hot": 85236,
       "num": 85236,
       "word": "这些人最好少喝或不喝咖啡",
@@ -24753,6 +24881,14 @@
       "onboard_time": 1767596482,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 82827,
+      "num": 82827,
+      "word": "中介回应砸门恐吓女租客交租",
+      "onboard_time": 1768119980,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82771,
@@ -25475,6 +25611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79471,
+      "num": 79471,
+      "word": "鹅鸭杀中的女友",
+      "onboard_time": 1768119980,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 79441,
       "num": 79441,
       "word": "砂糖橘花束",
@@ -26131,6 +26275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76432,
+      "num": 76432,
+      "word": "谁懂这剧大结局含金量",
+      "onboard_time": 1768120101,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76428,
       "num": 627053,
       "word": "二十年快滴很 弹指一挥间",
@@ -26217,6 +26369,14 @@
       "onboard_time": 1767762923,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75940,
+      "num": 75940,
+      "word": "新一小兰终于团聚了",
+      "onboard_time": 1768118421,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 75836,
@@ -26803,6 +26963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 72498,
+      "num": 71098,
+      "word": "鹅鸭杀最希望被冤枉的一集",
+      "onboard_time": 1768120400,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 72474,
       "num": 1031379,
       "word": "为什么以前骨折不用手术也能好",
@@ -26969,6 +27137,14 @@
       "onboard_time": 1767625103,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71355,
+      "num": 71355,
+      "word": "谁懂恶女身后是更小的恶女",
+      "onboard_time": 1768120520,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 71325,
@@ -32897,6 +33073,14 @@
       "onboard_time": 1768101499,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24167,
+      "num": 89210,
+      "word": "有供应商称冬季校服都会贴膜",
+      "onboard_time": 1768119861,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24138,
