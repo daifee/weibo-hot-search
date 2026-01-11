@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/11 00:34:00 ~ 2026/01/12 04:31:52
+本榜单时间：2026/01/11 00:34:00 ~ 2026/01/12 04:44:36
 </p>
 </blockquote>
 <p>
@@ -2883,6 +2883,12 @@ Breathe说RNG退出可惜了（热度：36758）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E6%97%AD%E5%A5%BD%E5%B8%85%23" target="weibo">
+代旭好帅（热度：27698）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%85%8D%E4%BD%9C%E4%B8%9A%E5%B0%8F%E5%AD%A9%E5%93%A5%E4%B8%80%E5%B7%B1%E4%B9%8B%E5%8A%9B%E6%89%9B%E4%B8%8B%E6%89%80%E6%9C%89%23" target="weibo">
 为免作业小孩哥一己之力扛下所有（热度：27248）
 </a>
@@ -2897,12 +2903,6 @@ Breathe说RNG退出可惜了（热度：36758）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TF%E5%9B%9B%E4%BB%A3%E5%AE%87%E5%AE%99%E9%97%AA%E7%83%81%E8%AF%B7%E6%B3%A8%E6%84%8F%E4%BE%A7%E6%8B%8D%23" target="weibo">
 TF四代宇宙闪烁请注意侧拍（热度：26863）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E6%97%AD%E5%A5%BD%E5%B8%85%23" target="weibo">
-代旭好帅（热度：25393）
 </a>
 </li>
 
@@ -3094,13 +3094,13 @@ TF四代宇宙闪烁请注意侧拍（热度：26863）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%8A%E5%88%AB%E7%AB%A5%E5%AE%B6%E5%A0%A1%20%E6%84%BF%E6%AD%A4%E5%8E%BB%E7%B9%81%E8%8A%B1%23" target="weibo">
-告别童家堡 愿此去繁花（热度：11146）
+告别童家堡 愿此去繁花（热度：11191）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%90%9B%E5%B1%B1%E7%8B%97%E7%8B%97%E4%B8%BB%E5%8A%A8%E4%B8%BA%E5%BE%92%E6%AD%A5%E4%B8%8B%E5%B1%B1%E6%B8%B8%E5%AE%A2%E5%BC%95%E8%B7%AF%23" target="weibo">
-老君山狗狗主动为徒步下山游客引路（热度：10625）
+老君山狗狗主动为徒步下山游客引路（热度：10939）
 </a>
 </li>
 

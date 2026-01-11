@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/12 00:33:57 ~ 2026/01/12 04:31:52
+本榜单时间：2026/01/12 00:33:57 ~ 2026/01/12 04:44:36
 </p>
 </blockquote>
 <p>
@@ -405,6 +405,12 @@ TOP 荣耀之战都不知道怎么输（热度：181110）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E6%97%AD%E5%A5%BD%E5%B8%85%23" target="weibo">
+代旭好帅（热度：27698）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%85%8D%E4%BD%9C%E4%B8%9A%E5%B0%8F%E5%AD%A9%E5%93%A5%E4%B8%80%E5%B7%B1%E4%B9%8B%E5%8A%9B%E6%89%9B%E4%B8%8B%E6%89%80%E6%9C%89%23" target="weibo">
 为免作业小孩哥一己之力扛下所有（热度：27248）
 </a>
@@ -413,12 +419,6 @@ TOP 荣耀之战都不知道怎么输（热度：181110）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B9%B8%E5%90%8C2%E6%AF%944%E6%9C%B1%E9%9B%A8%E7%8E%B2%23" target="weibo">
 陈幸同2比4朱雨玲（热度：26957）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E6%97%AD%E5%A5%BD%E5%B8%85%23" target="weibo">
-代旭好帅（热度：25393）
 </a>
 </li>
 
@@ -460,7 +460,7 @@ HHG（热度：20141）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%97%E9%97%B2%E8%B0%A8%E5%88%B6%23" target="weibo">
-得闲谨制（热度：12360）
+得闲谨制（热度：12908）
 </a>
 </li>
 
@@ -472,19 +472,19 @@ HHG（热度：20141）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%8A%E5%88%AB%E7%AB%A5%E5%AE%B6%E5%A0%A1%20%E6%84%BF%E6%AD%A4%E5%8E%BB%E7%B9%81%E8%8A%B1%23" target="weibo">
-告别童家堡 愿此去繁花（热度：11146）
+告别童家堡 愿此去繁花（热度：11191）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%90%9B%E5%B1%B1%E7%8B%97%E7%8B%97%E4%B8%BB%E5%8A%A8%E4%B8%BA%E5%BE%92%E6%AD%A5%E4%B8%8B%E5%B1%B1%E6%B8%B8%E5%AE%A2%E5%BC%95%E8%B7%AF%23" target="weibo">
-老君山狗狗主动为徒步下山游客引路（热度：10625）
+老君山狗狗主动为徒步下山游客引路（热度：10939）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%B0%91%E7%A7%8D%E5%9C%B0%E7%A7%91%E6%8A%80%E6%84%9F%E6%8B%89%E6%BB%A1%23" target="weibo">
-中国农民种地科技感拉满（热度：10479）
+中国农民种地科技感拉满（热度：10558）
 </a>
 </li>
 

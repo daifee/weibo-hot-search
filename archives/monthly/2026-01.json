@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768163512956,
+  "endTime": 1768164276471,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -34403,6 +34403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27698,
+      "num": 27698,
+      "word": "代旭好帅",
+      "onboard_time": 1768160594,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 27645,
       "num": 1061006,
       "word": "西班牙人vs巴萨",
@@ -34681,14 +34689,6 @@
       "onboard_time": 1768043661,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25393,
-      "num": 25393,
-      "word": "代旭好帅",
-      "onboard_time": 1768160594,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 25265,
@@ -35955,7 +35955,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 11146,
+      "raw_hot": 11191,
       "num": 25379,
       "word": "告别童家堡 愿此去繁花",
       "onboard_time": 1768150820,
@@ -35969,6 +35969,14 @@
       "onboard_time": 1767883702,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10939,
+      "num": 25378,
+      "word": "老君山狗狗主动为徒步下山游客引路",
+      "onboard_time": 1768163354,
+      "rank": 47,
+      "category": "正能量"
     },
     {
       "raw_hot": 10805,
@@ -35993,14 +36001,6 @@
       "onboard_time": 1767277822,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10625,
-      "num": 25378,
-      "word": "老君山狗狗主动为徒步下山游客引路",
-      "onboard_time": 1768163354,
-      "rank": 47,
-      "category": "正能量"
     },
     {
       "raw_hot": 10233,

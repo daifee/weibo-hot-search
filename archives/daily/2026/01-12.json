@@ -1,6 +1,6 @@
 {
   "startTime": 1768149237092,
-  "endTime": 1768163512956,
+  "endTime": 1768164276471,
   "band_list": [
     {
       "raw_hot": 1015098,
@@ -523,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27698,
+      "num": 27698,
+      "word": "代旭好帅",
+      "onboard_time": 1768160594,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 27248,
       "num": 100504,
       "word": "为免作业小孩哥一己之力扛下所有",
@@ -537,14 +545,6 @@
       "onboard_time": 1768157474,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25393,
-      "num": 25393,
-      "word": "代旭好帅",
-      "onboard_time": 1768160594,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 21371,
@@ -595,7 +595,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 12360,
+      "raw_hot": 12908,
       "num": 25383,
       "word": "得闲谨制",
       "onboard_time": 1768139122,
@@ -611,7 +611,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 11146,
+      "raw_hot": 11191,
       "num": 25379,
       "word": "告别童家堡 愿此去繁花",
       "onboard_time": 1768150820,
@@ -619,7 +619,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 10625,
+      "raw_hot": 10939,
       "num": 25378,
       "word": "老君山狗狗主动为徒步下山游客引路",
       "onboard_time": 1768163354,
@@ -627,7 +627,7 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 10479,
+      "raw_hot": 10558,
       "num": 87642,
       "word": "中国农民种地科技感拉满",
       "onboard_time": 1768138883,
