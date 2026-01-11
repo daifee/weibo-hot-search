@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768106058024,
+  "endTime": 1768109620018,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -2331,6 +2331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 521106,
+      "num": 340245,
+      "word": "死了么app创始人称已实现盈利",
+      "onboard_time": 1768104560,
+      "rank": 19,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 521015,
       "num": 241642,
       "word": "美国强掳马杜罗中俄英法表态",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767778883,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 517226,
-      "num": 327171,
-      "word": "特朗普称美在西半球地位再不会被质疑",
-      "onboard_time": 1767496283,
-      "rank": 6,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [

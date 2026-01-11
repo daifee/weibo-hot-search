@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768106058024,
+  "endTime": 1768109620018,
   "band_list": [
     {
       "raw_hot": 2076111,
@@ -115,11 +115,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 521106,
+      "num": 340245,
+      "word": "死了么app创始人称已实现盈利",
+      "onboard_time": 1768104560,
+      "rank": 19,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 510061,
+      "num": 106409,
+      "word": "小澈刚复播",
+      "onboard_time": 1768108641,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 506991,
       "num": 506991,
       "word": "云初令开机",
       "onboard_time": 1768103540,
       "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 486097,
+      "num": 207519,
+      "word": "虞书欣张云龙开机照",
+      "onboard_time": 1768105700,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -156,7 +180,7 @@
     },
     {
       "raw_hot": 437121,
-      "num": 206400,
+      "num": 206665,
       "word": "岳云鹏回应今年不上春晚",
       "onboard_time": 1768102758,
       "rank": 10,
@@ -220,19 +244,11 @@
     },
     {
       "raw_hot": 359682,
-      "num": 814876,
+      "num": 1051100,
       "word": "成都地铁实现1人1座",
       "onboard_time": 1768096460,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 340245,
-      "num": 340245,
-      "word": "死了么app创始人称已实现盈利",
-      "onboard_time": 1768104560,
-      "rank": 19,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 336734,
@@ -259,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 324199,
+      "num": 324199,
+      "word": "英伟达要求中国客户预付全款",
+      "onboard_time": 1768108461,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 317640,
       "num": 107165,
       "word": "张凌赫首个千万赞视频",
@@ -267,11 +291,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 316341,
+      "num": 316341,
+      "word": "被美国奶茶的含糖量惊到了",
+      "onboard_time": 1768106061,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 282139,
       "num": 282139,
       "word": "云初令",
       "onboard_time": 1768055483,
       "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 281023,
+      "num": 784724,
+      "word": "小城大事生万物首日收视率对比",
+      "onboard_time": 1768107620,
+      "rank": 1,
       "category": "剧集"
     },
     {
@@ -299,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234074,
+      "num": 102414,
+      "word": "小澈直播时就有其他网红暗示了",
+      "onboard_time": 1768105221,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 231686,
       "num": 183319,
       "word": "偶遇贾玲张小斐崇礼滑雪",
@@ -307,12 +355,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 226161,
-      "num": 102414,
-      "word": "小澈直播时就有其他网红暗示了",
-      "onboard_time": 1768105221,
-      "rank": 29,
-      "category": "网红"
+      "raw_hot": 223783,
+      "num": 223783,
+      "word": "月薪一万的试吃员",
+      "onboard_time": 1768105700,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 223548,
+      "num": 223548,
+      "word": "AI照片竟然拿了摄影比赛第一名",
+      "onboard_time": 1768108461,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220800,
@@ -340,7 +396,7 @@
     },
     {
       "raw_hot": 200010,
-      "num": 102100,
+      "num": 192829,
       "word": "麻六记的酸辣粉为何卖不动了",
       "onboard_time": 1768105341,
       "rank": 30,
@@ -355,6 +411,14 @@
       "category": "民生新闻,体育"
     },
     {
+      "raw_hot": 193051,
+      "num": 101661,
+      "word": "刘一诺说从未主动爆料檀健次",
+      "onboard_time": 1768109181,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191743,
       "num": 196205,
       "word": "颜安直播",
@@ -363,12 +427,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189908,
-      "num": 101806,
-      "word": "虞书欣张云龙开机照",
-      "onboard_time": 1768105700,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 185852,
+      "num": 100959,
+      "word": "冯小刚带女儿出席芭莎活动",
+      "onboard_time": 1768107679,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 185463,
@@ -403,6 +467,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 172082,
+      "num": 172082,
+      "word": "名侦探学院",
+      "onboard_time": 1768107800,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169932,
       "num": 169932,
       "word": "白鹿给呵呵打电话假哭",
@@ -424,6 +496,14 @@
       "word": "小狗在跑步机上狂奔主人淡定打电话",
       "onboard_time": 1768099519,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161413,
+      "num": 161413,
+      "word": "中国科学家发现基因封条",
+      "onboard_time": 1768105400,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -483,14 +563,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 154079,
-      "num": 100905,
-      "word": "月薪一万的试吃员",
-      "onboard_time": 1768105700,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 146137,
       "num": 146137,
       "word": "谢娜的菜来了",
@@ -547,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126202,
+      "num": 106505,
+      "word": "萝卜纸巾猫为什么火了",
+      "onboard_time": 1768107861,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123630,
       "num": 123630,
       "word": "吃下一头大蒜你的身体会怎样",
@@ -555,12 +635,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 122438,
+      "num": 106377,
+      "word": "曝美军方抵制入侵格陵兰岛计划",
+      "onboard_time": 1768108760,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 122191,
       "num": 196481,
       "word": "白鹿看升旗哭到停不下来",
       "onboard_time": 1768046720,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119713,
+      "num": 101936,
+      "word": "成何体统动画定档时间线重叠",
+      "onboard_time": 1768108760,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 117960,
@@ -579,6 +675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 116657,
+      "num": 100885,
+      "word": "向佐你这样我有点陌生",
+      "onboard_time": 1768109120,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116236,
       "num": 196800,
       "word": "孙颖莎韩莹交手记录",
@@ -595,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111788,
+      "num": 111788,
+      "word": "救援队被秦岭遇难者家属起诉一审结束",
+      "onboard_time": 1768108580,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110607,
       "num": 96295,
       "word": "黄晓明从接剧本就在背道歉台词",
@@ -603,12 +715,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102721,
-      "num": 102721,
-      "word": "中国科学家发现基因封条",
-      "onboard_time": 1768105400,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 106567,
+      "num": 106567,
+      "word": "左奇函函左奇奇函左",
+      "onboard_time": 1768108940,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 102619,
@@ -616,6 +728,14 @@
       "word": "地震痛失儿女的辅警又有了宝宝",
       "onboard_time": 1768087336,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102282,
+      "num": 102282,
+      "word": "大爷5岁走失回家已72岁",
+      "onboard_time": 1768108461,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -643,12 +763,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100733,
+      "num": 100733,
+      "word": "未来女婿直接pass岳父提议",
+      "onboard_time": 1768108641,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99809,
       "num": 196320,
       "word": "飞机延误中国大妈带中外友人练八段锦",
       "onboard_time": 1768057162,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98588,
+      "num": 98588,
+      "word": "王心凌昨天陶艾青今天查美乐",
+      "onboard_time": 1768109361,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 98579,
+      "num": 102131,
+      "word": "光与夜之恋",
+      "onboard_time": 1768107020,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 97955,
@@ -683,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95348,
+      "num": 95348,
+      "word": "Amy姐说林俊杰前任美商很高",
+      "onboard_time": 1768109601,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94858,
       "num": 94858,
       "word": "热乎饭的正确打开方式",
@@ -697,6 +849,14 @@
       "onboard_time": 1768105521,
       "rank": 42,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 94644,
+      "num": 101336,
+      "word": "苍兰诀云初令是一个地方开机",
+      "onboard_time": 1768108520,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 94141,
@@ -1011,6 +1171,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 66443,
+      "num": 97244,
+      "word": "确诊为仓鼠型人格",
+      "onboard_time": 1768109181,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 66308,
       "num": 195844,
       "word": "差评率100%的自助",
@@ -1025,6 +1193,14 @@
       "onboard_time": 1768087157,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64366,
+      "num": 95846,
+      "word": "苹果炖鸡",
+      "onboard_time": 1768109061,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 63785,
@@ -1203,6 +1379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 39620,
+      "num": 101220,
+      "word": "哭哭马 将错就错",
+      "onboard_time": 1768109361,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39192,
       "num": 39192,
       "word": "范某某索要奖金被立案",
@@ -1305,6 +1489,14 @@
       "onboard_time": 1768097660,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24541,
+      "num": 101115,
+      "word": "患精神病男子借宿同学家行凶最新进展",
+      "onboard_time": 1768108580,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23672,
