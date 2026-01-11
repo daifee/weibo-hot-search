@@ -1,6 +1,6 @@
 {
   "startTime": 1768149237092,
-  "endTime": 1768156749533,
+  "endTime": 1768157517049,
   "band_list": [
     {
       "raw_hot": 1015098,
@@ -137,6 +137,14 @@
       "onboard_time": 1768146981,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 137932,
+      "num": 65791,
+      "word": "林昀儒男单冠军",
+      "onboard_time": 1768157474,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 117042,
@@ -291,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60902,
+      "num": 60902,
+      "word": "国乒WTT多哈冠军赛无缘冠军",
+      "onboard_time": 1768157474,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59705,
       "num": 157817,
       "word": "小城大事热度破24000",
@@ -411,6 +427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 40988,
+      "num": 53970,
+      "word": "张真源新歌音源上线",
+      "onboard_time": 1768157235,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 40303,
       "num": 116215,
       "word": "张真源小张盲盒",
@@ -507,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26957,
+      "num": 49428,
+      "word": "陈幸同2比4朱雨玲",
+      "onboard_time": 1768157474,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20141,
       "num": 73221,
       "word": "HHG",
@@ -515,7 +547,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 19175,
+      "raw_hot": 20073,
       "num": 59349,
       "word": "王橹杰音效争议暴露时代峰峻疏漏",
       "onboard_time": 1768155076,
@@ -539,7 +571,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 10396,
+      "raw_hot": 10479,
       "num": 87642,
       "word": "中国农民种地科技感拉满",
       "onboard_time": 1768138883,

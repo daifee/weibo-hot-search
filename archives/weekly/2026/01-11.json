@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768156749533,
+  "endTime": 1768157517049,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -1707,6 +1707,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 137932,
+      "num": 65791,
+      "word": "林昀儒男单冠军",
+      "onboard_time": 1768157474,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136943,
       "num": 134428,
       "word": "女子先嫁2人未离婚又跟9人结离婚",
@@ -3307,6 +3315,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 60902,
+      "num": 60902,
+      "word": "国乒WTT多哈冠军赛无缘冠军",
+      "onboard_time": 1768157474,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60843,
       "num": 60843,
       "word": "快船vs活塞",
@@ -3553,6 +3569,14 @@
       "onboard_time": 1768137922,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 40988,
+      "num": 53970,
+      "word": "张真源新歌音源上线",
+      "onboard_time": 1768157235,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 40524,
@@ -3811,6 +3835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26957,
+      "num": 49428,
+      "word": "陈幸同2比4朱雨玲",
+      "onboard_time": 1768157474,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26863,
       "num": 127012,
       "word": "TF四代宇宙闪烁请注意侧拍",
@@ -3971,7 +4003,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19175,
+      "raw_hot": 20073,
       "num": 59349,
       "word": "王橹杰音效争议暴露时代峰峻疏漏",
       "onboard_time": 1768155076,
