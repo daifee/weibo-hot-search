@@ -1,0 +1,410 @@
+{
+  "runTime": 1768136955421,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 605524,
+        "num": 1096883,
+        "word": "国乒无缘多哈冠军赛男单决赛",
+        "onboard_time": 1768133660,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376868,
+        "num": 781327,
+        "word": "轧戏剧组道歉",
+        "onboard_time": 1768128140,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33907,
+        "num": 649988,
+        "word": "神舟二十一号乘组在轨超70天",
+        "onboard_time": 1768125741,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 583690,
+        "num": 583690,
+        "word": "赵丽颖台词",
+        "onboard_time": 1768131441,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272924,
+        "num": 272924,
+        "word": "烟台暴雪下冒烟了",
+        "onboard_time": 1768134981,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212721,
+        "num": 212721,
+        "word": "赖伟明千字长文告别庄序",
+        "onboard_time": 1768132101,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212304,
+        "num": 212304,
+        "word": "车厘子几个J一下看明白了",
+        "onboard_time": 1768133841,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2422672,
+        "num": 211323,
+        "word": "霍启刚首公开个人财产",
+        "onboard_time": 1768134622,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 180709,
+        "num": 180709,
+        "word": "家长背婴儿跑步致其脑袋剧烈摇晃",
+        "onboard_time": 1768135341,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70680,
+        "num": 180504,
+        "word": "伊朗媒体称大量人员在骚乱中死亡",
+        "onboard_time": 1768136062,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 632303,
+        "num": 179232,
+        "word": "单依纯 香奈儿",
+        "onboard_time": 1768130661,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 594301,
+        "num": 179017,
+        "word": "拍婚纱照偶遇陈哲远后续",
+        "onboard_time": 1768133960,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293567,
+        "num": 177879,
+        "word": "iPhone4需求激增近1000%",
+        "onboard_time": 1768117099,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 237464,
+        "num": 177081,
+        "word": "娜扎给工作人员每人发1000元",
+        "onboard_time": 1768135463,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176828,
+        "num": 176828,
+        "word": "00后真的上年纪了",
+        "onboard_time": 1768128322,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226848,
+        "num": 176737,
+        "word": "演员夫妻回应撞死人后拉黑遗属",
+        "onboard_time": 1768123040,
+        "rank": 15,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 182539,
+        "num": 176579,
+        "word": "小城大事",
+        "onboard_time": 1768131201,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150647,
+        "num": 176521,
+        "word": "王皓面色凝重",
+        "onboard_time": 1768135341,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121628,
+        "num": 176388,
+        "word": "你以为断网的老干妈悄悄赚了54亿",
+        "onboard_time": 1768133660,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33595,
+        "num": 176149,
+        "word": "直播间成烟花爆竹黑市",
+        "onboard_time": 1768136001,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 503278,
+        "num": 176108,
+        "word": "闫学晶之子就读中戏新疆班不实",
+        "onboard_time": 1768133361,
+        "rank": 20,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 418050,
+        "num": 175922,
+        "word": "卫健局将调查疑小澈住院记录曝光",
+        "onboard_time": 1768128381,
+        "rank": 21,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 180955,
+        "num": 175752,
+        "word": "侯明昊出道十周年直播",
+        "onboard_time": 1768135521,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347271,
+        "num": 175698,
+        "word": "男子出门打工9个月回家女友怀孕了",
+        "onboard_time": 1768134561,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319477,
+        "num": 175462,
+        "word": "冯小刚女儿颜值",
+        "onboard_time": 1768128200,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191938,
+        "num": 175278,
+        "word": "唐诡马参军真的参军了",
+        "onboard_time": 1768135941,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132383,
+        "num": 175189,
+        "word": "女子每天化精致眼妆睫毛藏6条螨虫",
+        "onboard_time": 1768119200,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175134,
+        "num": 175134,
+        "word": "陈哲远 三个人的婚礼有点拥挤",
+        "onboard_time": 1768136122,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170516,
+        "num": 170516,
+        "word": "红果年度大赏",
+        "onboard_time": 1768134862,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109369,
+        "num": 149489,
+        "word": "PEL转会期",
+        "onboard_time": 1768134381,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136333,
+        "num": 136333,
+        "word": "登陆少年直播",
+        "onboard_time": 1768130121,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135653,
+        "num": 135653,
+        "word": "得闲谨制我们再也不用躲了",
+        "onboard_time": 1768135582,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104952,
+        "num": 135027,
+        "word": "哭哭十二生肖要来了",
+        "onboard_time": 1768136722,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134984,
+        "num": 134984,
+        "word": "白鹿晒与粉丝合影live",
+        "onboard_time": 1768134922,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101365,
+        "num": 124601,
+        "word": "气血足的人日常多有5个习惯",
+        "onboard_time": 1768119320,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 122189,
+        "num": 122189,
+        "word": "严浩翔谦卑最严厉的父亲",
+        "onboard_time": 1768136482,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33300,
+        "num": 121910,
+        "word": "出租房粘挂钩被扣50元维修费",
+        "onboard_time": 1768136362,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50359,
+        "num": 120936,
+        "word": "单亲妈妈为寻子只身闯电诈园区",
+        "onboard_time": 1768136302,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 50295,
+        "num": 119631,
+        "word": "火锅吃出整只劳保手套",
+        "onboard_time": 1768135881,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23145,
+        "num": 118537,
+        "word": "格陵兰岛上普通人囤粮存钱",
+        "onboard_time": 1768136001,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104300,
+        "num": 117686,
+        "word": "2026开年刘宇宁让我吃这么好",
+        "onboard_time": 1768135941,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89324,
+        "num": 116761,
+        "word": "早上刷牙的真正目的是清除牙菌斑",
+        "onboard_time": 1768133361,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115878,
+        "num": 115878,
+        "word": "网红起床了小澈2次否认",
+        "onboard_time": 1768136362,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 106242,
+        "num": 106242,
+        "word": "虞书欣扛着权杖去拍戏了",
+        "onboard_time": 1768126040,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98860,
+        "num": 98860,
+        "word": "U23国足vs澳大利亚",
+        "onboard_time": 1768134622,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102148,
+        "num": 98415,
+        "word": "张凌赫招蜂引蝶",
+        "onboard_time": 1768135222,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101494,
+        "num": 96513,
+        "word": "登陆少年要吵出去吵",
+        "onboard_time": 1768133482,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92269,
+        "num": 92269,
+        "word": "美方再次亮明弃台主张",
+        "onboard_time": 1768118541,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94607,
+        "num": 92216,
+        "word": "玉茗茶骨",
+        "onboard_time": 1768136001,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91967,
+        "num": 91967,
+        "word": "子阳道歉",
+        "onboard_time": 1768128801,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美关系的希望在人民未来在青年#"
+    }
+  }
+}
