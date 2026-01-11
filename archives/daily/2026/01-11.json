@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768139350082,
+  "endTime": 1768141627974,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -9,6 +9,14 @@
       "onboard_time": 1768114701,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 3672113,
+      "num": 216828,
+      "word": "闫学晶发文道歉",
+      "onboard_time": 1768140082,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2422672,
@@ -147,6 +155,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 717389,
+      "num": 194995,
+      "word": "闫学晶之子就读中戏新疆班不实",
+      "onboard_time": 1768133361,
+      "rank": 20,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 714958,
       "num": 256854,
       "word": "卢昱晓 别扒了别扒了",
@@ -203,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 663664,
+      "num": 193107,
+      "word": "刘一诺说和檀健次谈恋爱没给她什么戏",
+      "onboard_time": 1768137622,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 644519,
       "num": 191675,
       "word": "冯小刚女儿颜值",
@@ -211,12 +235,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 641659,
-      "num": 194995,
-      "word": "闫学晶之子就读中戏新疆班不实",
-      "onboard_time": 1768133361,
-      "rank": 20,
-      "category": "艺人,民生新闻"
+      "raw_hot": 628638,
+      "num": 239772,
+      "word": "王玉雯自己P的图",
+      "onboard_time": 1768137202,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 627673,
@@ -259,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 571282,
+      "num": 1091405,
+      "word": "烟台暴雪下冒烟了",
+      "onboard_time": 1768134981,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 567891,
       "num": 1090862,
       "word": "美方再次亮明弃台主张",
@@ -281,14 +313,6 @@
       "onboard_time": 1768097721,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 546150,
-      "num": 817617,
-      "word": "烟台暴雪下冒烟了",
-      "onboard_time": 1768134981,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 543870,
@@ -353,14 +377,6 @@
       "onboard_time": 1768105700,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 484720,
-      "num": 193107,
-      "word": "刘一诺说和檀健次谈恋爱没给她什么戏",
-      "onboard_time": 1768137622,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 473457,
@@ -515,14 +531,6 @@
       "category": "互联网,民生新闻"
     },
     {
-      "raw_hot": 383591,
-      "num": 239772,
-      "word": "王玉雯自己P的图",
-      "onboard_time": 1768137202,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 379813,
       "num": 229939,
       "word": "陈哲远 三个人的婚礼有点拥挤",
@@ -568,6 +576,14 @@
       "word": "男子出门打工9个月回家女友怀孕了",
       "onboard_time": 1768134561,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 346509,
+      "num": 346509,
+      "word": "河南10名干部违规吃喝1人死亡",
+      "onboard_time": 1768138462,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -780,7 +796,7 @@
     },
     {
       "raw_hot": 259386,
-      "num": 236295,
+      "num": 254171,
       "word": "那英 我上过浪姐你们不懂",
       "onboard_time": 1768138102,
       "rank": 17,
@@ -915,6 +931,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 219682,
+      "num": 219682,
+      "word": "10人违规吃喝1人死亡9人被处理",
+      "onboard_time": 1768138642,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 217641,
       "num": 223015,
       "word": "这是真上过大学的",
@@ -995,6 +1019,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 199813,
+      "num": 194092,
+      "word": "黄晓明演技",
+      "onboard_time": 1768140203,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199040,
       "num": 191834,
       "word": "红果年度大赏",
@@ -1024,6 +1056,22 @@
       "word": "侯明昊出道十周年直播",
       "onboard_time": 1768135521,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 194119,
+      "num": 194119,
+      "word": "人参酒里泡3年突然长出绿叶",
+      "onboard_time": 1768139183,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193903,
+      "num": 193903,
+      "word": "侯明昊 这是能说的话吗",
+      "onboard_time": 1768139122,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -1073,6 +1121,14 @@
       "onboard_time": 1768134622,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188509,
+      "num": 161788,
+      "word": "苏新皓我听到啦",
+      "onboard_time": 1768141282,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 187263,
@@ -1169,14 +1225,6 @@
       "onboard_time": 1768138701,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 178809,
-      "num": 178809,
-      "word": "河南10名干部违规吃喝1人死亡",
-      "onboard_time": 1768138462,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 178595,
@@ -1427,6 +1475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148876,
+      "num": 148876,
+      "word": "张峻豪在看TOP直播",
+      "onboard_time": 1768141103,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148741,
       "num": 134984,
       "word": "白鹿晒与粉丝合影live",
@@ -1457,6 +1513,14 @@
       "onboard_time": 1768120221,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143642,
+      "num": 192540,
+      "word": "发朋友圈前先回复消息",
+      "onboard_time": 1768136961,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 142704,
@@ -1555,14 +1619,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 132520,
-      "num": 132520,
-      "word": "侯明昊 这是能说的话吗",
-      "onboard_time": 1768139122,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 131362,
       "num": 131362,
       "word": "王欣瑜获奥克兰赛亚军",
@@ -1627,14 +1683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127696,
-      "num": 127696,
-      "word": "发朋友圈前先回复消息",
-      "onboard_time": 1768136961,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 127644,
       "num": 115297,
       "word": "松天硕直播",
@@ -1667,6 +1715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126423,
+      "num": 186748,
+      "word": "U23男足战胜澳大利亚",
+      "onboard_time": 1768139603,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124974,
       "num": 124974,
       "word": "杨博文第一次演戏的片段",
@@ -1681,6 +1737,14 @@
       "onboard_time": 1768137261,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123723,
+      "num": 162251,
+      "word": "AG花花",
+      "onboard_time": 1768140141,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 123630,
@@ -1731,6 +1795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122117,
+      "num": 154910,
+      "word": "老人开飘窗玻璃突然从24楼砸下",
+      "onboard_time": 1768140622,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120702,
       "num": 120702,
       "word": "林诗栋2比4张禹珍",
@@ -1779,12 +1851,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 117831,
-      "num": 117831,
-      "word": "人参酒里泡3年突然长出绿叶",
-      "onboard_time": 1768139183,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 117458,
+      "num": 117458,
+      "word": "AI沙皇也是平A为主",
+      "onboard_time": 1768141223,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 117062,
@@ -1840,6 +1912,14 @@
       "word": "莫雷加德采访回应比赛视线受干扰",
       "onboard_time": 1768138822,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114089,
+      "num": 114089,
+      "word": "张继科谈国乒运动员不允许输",
+      "onboard_time": 1768139902,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -1907,14 +1987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 109770,
-      "num": 202218,
-      "word": "10人违规吃喝1人死亡9人被处理",
-      "onboard_time": 1768138642,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109369,
       "num": 149489,
       "word": "PEL转会期",
@@ -1961,6 +2033,14 @@
       "onboard_time": 1768119320,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 107167,
+      "num": 107167,
+      "word": "山东威海下了倾盆大瓢雪",
+      "onboard_time": 1768141522,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106799,
@@ -2107,6 +2187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99157,
+      "num": 99157,
+      "word": "小城大事酷云破2.7了",
+      "onboard_time": 1768141402,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99002,
       "num": 125542,
       "word": "陈幸同决赛对阵朱雨玲",
@@ -2129,6 +2217,14 @@
       "onboard_time": 1768107020,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 98131,
+      "num": 98131,
+      "word": "上班意思一下就得了",
+      "onboard_time": 1768141342,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 97955,
@@ -2179,6 +2275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95496,
+      "num": 95496,
+      "word": "刘宇宁演唱会把腰带扭掉了",
+      "onboard_time": 1768141042,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 94858,
       "num": 94858,
       "word": "热乎饭的正确打开方式",
@@ -2216,6 +2320,14 @@
       "word": "消费者买到xiaonnri电视 小米回应",
       "onboard_time": 1768089199,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92635,
+      "num": 96027,
+      "word": "男子网购5斤瓜子收到1斤瓜子皮",
+      "onboard_time": 1768140321,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -2385,6 +2497,14 @@
       "onboard_time": 1768105760,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82168,
+      "num": 646173,
+      "word": "这就是现实版的千里江山图吧",
+      "onboard_time": 1768139482,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 81494,
@@ -2689,6 +2809,14 @@
       "onboard_time": 1768120400,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 72477,
+      "num": 108076,
+      "word": "沈梦辰 我内心装满了张凌赫",
+      "onboard_time": 1768141522,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 72283,
