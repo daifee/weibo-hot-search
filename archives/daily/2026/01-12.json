@@ -1,6 +1,6 @@
 {
   "startTime": 1768149237092,
-  "endTime": 1768170476821,
+  "endTime": 1768171494977,
   "band_list": [
     {
       "raw_hot": 1015098,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 485024,
-      "num": 500103,
+      "num": 526792,
       "word": "特朗普表态让万千台湾民众看清现实",
       "onboard_time": 1768148659,
       "rank": 17,
@@ -123,6 +123,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 146075,
+      "num": 146075,
+      "word": "林昀儒男单冠军",
+      "onboard_time": 1768157474,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144394,
       "num": 173251,
       "word": "河南10名干部违规吃喝1人死亡",
@@ -137,14 +145,6 @@
       "onboard_time": 1768146981,
       "rank": 8,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 137932,
-      "num": 134823,
-      "word": "林昀儒男单冠军",
-      "onboard_time": 1768157474,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 117042,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84580,
+      "num": 84580,
+      "word": "国乒WTT多哈冠军赛无缘冠军",
+      "onboard_time": 1768157474,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81258,
       "num": 158360,
       "word": "家长背婴儿跑步致其脑袋剧烈摇晃",
@@ -243,6 +251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 68125,
+      "num": 116371,
+      "word": "闫学晶说习惯被人捧着忘了本",
+      "onboard_time": 1768149318,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67404,
       "num": 157957,
       "word": "早上刷牙的真正目的是清除牙菌斑",
@@ -275,14 +291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63383,
-      "num": 63383,
-      "word": "国乒WTT多哈冠军赛无缘冠军",
-      "onboard_time": 1768157474,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 61394,
       "num": 157905,
       "word": "河南五名大学教师被处罚",
@@ -313,14 +321,6 @@
       "onboard_time": 1768147880,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 59503,
-      "num": 116371,
-      "word": "闫学晶说习惯被人捧着忘了本",
-      "onboard_time": 1768149318,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 54268,
@@ -379,6 +379,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 49742,
+      "num": 49742,
+      "word": "陈幸同2比4朱雨玲",
+      "onboard_time": 1768157474,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 49394,
+      "num": 49394,
+      "word": "代旭好帅",
+      "onboard_time": 1768160594,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 49326,
       "num": 157719,
       "word": "孙颖莎王楚钦亮相国际乒联百年宣传片",
@@ -417,14 +433,6 @@
       "onboard_time": 1768143863,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 44958,
-      "num": 44958,
-      "word": "代旭好帅",
-      "onboard_time": 1768160594,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 42654,
@@ -467,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38387,
-      "num": 49428,
-      "word": "陈幸同2比4朱雨玲",
-      "onboard_time": 1768157474,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 38284,
       "num": 101454,
       "word": "陈楚生荒芜之境",
@@ -497,6 +497,14 @@
       "onboard_time": 1768152497,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 34390,
+      "num": 39346,
+      "word": "丹麦称若因格陵兰岛发生战争将很愚蠢",
+      "onboard_time": 1768166233,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 30866,
@@ -547,12 +555,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25736,
-      "num": 31472,
-      "word": "丹麦称若因格陵兰岛发生战争将很愚蠢",
-      "onboard_time": 1768166233,
-      "rank": 49,
-      "category": "国际时政"
+      "raw_hot": 25195,
+      "num": 39349,
+      "word": "刘宇宁回应阿信想来看他的演唱会",
+      "onboard_time": 1768165934,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 22321,
+      "num": 39347,
+      "word": "老君山狗狗主动为徒步下山游客引路",
+      "onboard_time": 1768163354,
+      "rank": 47,
+      "category": "正能量"
     },
     {
       "raw_hot": 21371,
@@ -579,14 +595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 19609,
-      "num": 31527,
-      "word": "老君山狗狗主动为徒步下山游客引路",
-      "onboard_time": 1768163354,
-      "rank": 47,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 18457,
       "num": 59284,
       "word": "刘宇宁这完全是going",
@@ -603,14 +611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17529,
-      "num": 31445,
-      "word": "刘宇宁回应阿信想来看他的演唱会",
-      "onboard_time": 1768165934,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 15825,
       "num": 26079,
       "word": "马韬压哨晋级",
@@ -619,8 +619,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 13630,
-      "num": 245942,
+      "raw_hot": 15234,
+      "num": 39325,
+      "word": "华晨宇声鸣远扬首席评审",
+      "onboard_time": 1768164673,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 13666,
+      "num": 310919,
       "word": "中国农民种地科技感拉满",
       "onboard_time": 1768138883,
       "rank": 2,
@@ -649,14 +657,6 @@
       "onboard_time": 1768161674,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11070,
-      "num": 31217,
-      "word": "华晨宇声鸣远扬首席评审",
-      "onboard_time": 1768164673,
-      "rank": 44,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
