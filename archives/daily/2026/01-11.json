@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768127397492,
+  "endTime": 1768128363591,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -131,7 +131,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 670457,
+      "raw_hot": 673583,
       "num": 156674,
       "word": "演员夫妻回应撞死人后拉黑遗属",
       "onboard_time": 1768123040,
@@ -169,6 +169,14 @@
       "onboard_time": 1768104560,
       "rank": 19,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 572910,
+      "num": 155205,
+      "word": "孙怡马尔代夫度假照",
+      "onboard_time": 1768125800,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 567891,
@@ -219,14 +227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 497392,
-      "num": 155205,
-      "word": "孙怡马尔代夫度假照",
-      "onboard_time": 1768125800,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 488051,
       "num": 238737,
       "word": "初老症状",
@@ -272,6 +272,14 @@
       "word": "朱媛媛拍小城大事时口袋揣着止痛泵",
       "onboard_time": 1768095199,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 446175,
+      "num": 446175,
+      "word": "宋威龙祝骄阳似我也似你",
+      "onboard_time": 1768126161,
+      "rank": 5,
       "category": "剧集"
     },
     {
@@ -363,6 +371,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 399523,
+      "num": 238636,
+      "word": "虞书欣扛着权杖去拍戏了",
+      "onboard_time": 1768126040,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 395369,
       "num": 175887,
       "word": "王俊凯鞋底是红袜子",
@@ -420,7 +436,7 @@
     },
     {
       "raw_hot": 338011,
-      "num": 175416,
+      "num": 287318,
       "word": "iPhone4需求激增近1000%",
       "onboard_time": 1768117099,
       "rank": 35,
@@ -439,22 +455,6 @@
       "num": 332400,
       "word": "朱媛媛抗癌5年拍了5部作品",
       "onboard_time": 1768100660,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 331761,
-      "num": 238636,
-      "word": "虞书欣扛着权杖去拍戏了",
-      "onboard_time": 1768126040,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 329868,
-      "num": 316081,
-      "word": "宋威龙祝骄阳似我也似你",
-      "onboard_time": 1768126161,
       "rank": 5,
       "category": "剧集"
     },
@@ -523,6 +523,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 292424,
+      "num": 207456,
+      "word": "死了么APP 独居人群",
+      "onboard_time": 1768127241,
+      "rank": 15,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 288570,
       "num": 235436,
       "word": "梅毒成为一种日式斩杀线",
@@ -537,6 +545,14 @@
       "onboard_time": 1768055483,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 277032,
+      "num": 238596,
+      "word": "生长痛真的很痛",
+      "onboard_time": 1768125861,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 272479,
@@ -603,14 +619,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 238596,
-      "num": 238596,
-      "word": "生长痛真的很痛",
-      "onboard_time": 1768125861,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
       "raw_hot": 235610,
       "num": 235610,
       "word": "王玉雯精心画的卧蚕",
@@ -625,6 +633,14 @@
       "onboard_time": 1768105221,
       "rank": 29,
       "category": "网红"
+    },
+    {
+      "raw_hot": 232451,
+      "num": 238838,
+      "word": "开了十年寒衣店第一次遇到退货",
+      "onboard_time": 1768122380,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 231686,
@@ -715,14 +731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206210,
-      "num": 238838,
-      "word": "开了十年寒衣店第一次遇到退货",
-      "onboard_time": 1768122380,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 200980,
       "num": 200980,
       "word": "麻六记的酸辣粉为何卖不动了",
@@ -737,6 +745,14 @@
       "onboard_time": 1768059742,
       "rank": 6,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 194996,
+      "num": 194996,
+      "word": "活了么APP上线",
+      "onboard_time": 1768127421,
+      "rank": 15,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 194972,
@@ -867,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172163,
+      "num": 148538,
+      "word": "樊振东拿什么奖都从从容容",
+      "onboard_time": 1768127961,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172082,
       "num": 172082,
       "word": "名侦探学院",
@@ -881,14 +905,6 @@
       "onboard_time": 1768112182,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 170389,
-      "num": 170389,
-      "word": "死了么APP 独居人群",
-      "onboard_time": 1768127241,
-      "rank": 15,
-      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 170380,
@@ -915,8 +931,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168025,
+      "num": 168025,
+      "word": "死了么APP付费人数翻200倍",
+      "onboard_time": 1768127179,
+      "rank": 46,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 167764,
-      "num": 167764,
+      "num": 776105,
       "word": "朱雨玲4比2韩莹",
       "onboard_time": 1768126820,
       "rank": 17,
@@ -1067,6 +1091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142325,
+      "num": 121983,
+      "word": "灵隐寺偶遇陈哲远",
+      "onboard_time": 1768127660,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139987,
       "num": 139987,
       "word": "一次违规吃喝搭上一条人命",
@@ -1113,6 +1145,14 @@
       "onboard_time": 1768116021,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133053,
+      "num": 120438,
+      "word": "冯小刚女儿颜值",
+      "onboard_time": 1768128200,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 131362,
@@ -1187,20 +1227,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125293,
-      "num": 125293,
-      "word": "死了么APP付费人数翻200倍",
-      "onboard_time": 1768127179,
-      "rank": 46,
-      "category": "互联网,民生新闻"
-    },
-    {
       "raw_hot": 123630,
       "num": 123630,
       "word": "吃下一头大蒜你的身体会怎样",
       "onboard_time": 1768088717,
       "rank": 27,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 122840,
+      "num": 122840,
+      "word": "蒯曼vs陈幸同",
+      "onboard_time": 1768128140,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 122541,
@@ -1259,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115893,
+      "num": 115893,
+      "word": "台湾网红钟明轩来大陆旅游",
+      "onboard_time": 1768127780,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115717,
       "num": 115717,
       "word": "陶喆破了自己28年的纪录",
@@ -1313,6 +1361,14 @@
       "onboard_time": 1768122620,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 109009,
+      "num": 109009,
+      "word": "00后真的上年纪了",
+      "onboard_time": 1768128322,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 107941,
@@ -2195,6 +2251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60036,
+      "num": 131539,
+      "word": "别让流量害死下一个驴友",
+      "onboard_time": 1768127300,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59934,
       "num": 59934,
       "word": "网红回应直播中现抗HIV药物",
@@ -2307,6 +2371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46206,
+      "num": 632421,
+      "word": "神舟二十一号乘组在轨超70天",
+      "onboard_time": 1768125741,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 45362,
       "num": 87548,
       "word": "白鹿下一季最期待的项目",
@@ -2345,6 +2417,14 @@
       "onboard_time": 1768099459,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 39989,
+      "num": 147278,
+      "word": "轧戏剧组道歉",
+      "onboard_time": 1768128140,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 39827,
@@ -2403,14 +2483,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 36131,
-      "num": 587150,
-      "word": "神舟二十一号乘组在轨超70天",
-      "onboard_time": 1768125741,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 35435,
       "num": 75124,
       "word": "陈楚生深圳演唱会",
@@ -2449,6 +2521,14 @@
       "onboard_time": 1768121241,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 31679,
+      "num": 122317,
+      "word": "菲律宾20层楼高垃圾山坍塌至少6死",
+      "onboard_time": 1768127421,
+      "rank": 39,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 31352,
@@ -2491,12 +2571,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 28505,
-      "num": 131539,
-      "word": "别让流量害死下一个驴友",
-      "onboard_time": 1768127300,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 28385,
+      "num": 160370,
+      "word": "柯文哲蔡正元同框秀电子脚镣",
+      "onboard_time": 1768127000,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 24817,
@@ -2595,20 +2675,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20677,
+      "num": 145818,
+      "word": "泰国快艇与渔船相撞致1死20余伤",
+      "onboard_time": 1768128200,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 20114,
       "num": 38634,
       "word": "轧戏女主男二cp感",
       "onboard_time": 1768068616,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19079,
-      "num": 160370,
-      "word": "柯文哲蔡正元同框秀电子脚镣",
-      "onboard_time": 1768127000,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17134,

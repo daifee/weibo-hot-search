@@ -1,0 +1,410 @@
+{
+  "runTime": 1768128363591,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 376155,
+        "num": 1060184,
+        "word": "美方再次亮明弃台主张",
+        "onboard_time": 1768118541,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 167692,
+        "num": 776105,
+        "word": "朱雨玲4比2韩莹",
+        "onboard_time": 1768126820,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46206,
+        "num": 632421,
+        "word": "神舟二十一号乘组在轨超70天",
+        "onboard_time": 1768125741,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 446175,
+        "num": 446175,
+        "word": "宋威龙祝骄阳似我也似你",
+        "onboard_time": 1768126161,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306899,
+        "num": 400670,
+        "word": "日本一餐厅墙内发现女尸",
+        "onboard_time": 1768115781,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 371159,
+        "num": 371159,
+        "word": "赵今麦告别聂曦光",
+        "onboard_time": 1768125141,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308951,
+        "num": 308951,
+        "word": "苹果脆片",
+        "onboard_time": 1768123700,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 287318,
+        "num": 287318,
+        "word": "iPhone4需求激增近1000%",
+        "onboard_time": 1768117099,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 232451,
+        "num": 232451,
+        "word": "开了十年寒衣店第一次遇到退货",
+        "onboard_time": 1768122380,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219733,
+        "num": 219733,
+        "word": "AI登顶LOL韩服",
+        "onboard_time": 1768116201,
+        "rank": 9,
+        "category": "互联网,电竞"
+      },
+      {
+        "raw_hot": 400886,
+        "num": 216671,
+        "word": "初老症状",
+        "onboard_time": 1768123279,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 399523,
+        "num": 214664,
+        "word": "虞书欣扛着权杖去拍戏了",
+        "onboard_time": 1768126040,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292424,
+        "num": 207456,
+        "word": "死了么APP 独居人群",
+        "onboard_time": 1768127241,
+        "rank": 12,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 277032,
+        "num": 204032,
+        "word": "生长痛真的很痛",
+        "onboard_time": 1768125861,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201434,
+        "num": 201434,
+        "word": "AI照片竟然拿了摄影比赛第一名",
+        "onboard_time": 1768108461,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194996,
+        "num": 194996,
+        "word": "活了么APP上线",
+        "onboard_time": 1768127421,
+        "rank": 15,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 184758,
+        "num": 184758,
+        "word": "流浪地球3 王智进组",
+        "onboard_time": 1768124060,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174378,
+        "num": 174378,
+        "word": "网传杨紫和白鹿新剧同档期播出",
+        "onboard_time": 1768127060,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168025,
+        "num": 168025,
+        "word": "死了么APP付费人数翻200倍",
+        "onboard_time": 1768127179,
+        "rank": 18,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 150856,
+        "num": 150856,
+        "word": "白银暴涨暴跌比黄金更刺激",
+        "onboard_time": 1768121000,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1503389,
+        "num": 150246,
+        "word": "小澈发检测报告",
+        "onboard_time": 1768114701,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 673583,
+        "num": 149358,
+        "word": "演员夫妻回应撞死人后拉黑遗属",
+        "onboard_time": 1768123040,
+        "rank": 21,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 172163,
+        "num": 148538,
+        "word": "樊振东拿什么奖都从从容容",
+        "onboard_time": 1768127961,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 572910,
+        "num": 147430,
+        "word": "孙怡马尔代夫度假照",
+        "onboard_time": 1768125800,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39989,
+        "num": 147278,
+        "word": "轧戏剧组道歉",
+        "onboard_time": 1768128140,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20677,
+        "num": 145818,
+        "word": "泰国快艇与渔船相撞致1死20余伤",
+        "onboard_time": 1768128200,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 145556,
+        "num": 145556,
+        "word": "医生受贿3.5万元开具近2万支药品",
+        "onboard_time": 1768123581,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464110,
+        "num": 145553,
+        "word": "网友质疑小澈检测报告",
+        "onboard_time": 1768125441,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 304045,
+        "num": 145553,
+        "word": "张奕然住廉租房",
+        "onboard_time": 1768118601,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145550,
+        "num": 145550,
+        "word": "女子每天化精致眼妆睫毛藏6条螨虫",
+        "onboard_time": 1768119200,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273507,
+        "num": 139998,
+        "word": "何穗披个床单就上封面了",
+        "onboard_time": 1768124420,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 244549,
+        "num": 136224,
+        "word": "曼谷偶遇鞠婧祎逛街",
+        "onboard_time": 1768118061,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123721,
+        "num": 123721,
+        "word": "金价飙升银行紧急提示",
+        "onboard_time": 1768118240,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 28385,
+        "num": 123254,
+        "word": "柯文哲蔡正元同框秀电子脚镣",
+        "onboard_time": 1768127000,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 196475,
+        "num": 123054,
+        "word": "王俊凯鞋底是红袜子",
+        "onboard_time": 1768121182,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191332,
+        "num": 123001,
+        "word": "卢昱晓 别扒了别扒了",
+        "onboard_time": 1768110260,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122840,
+        "num": 122840,
+        "word": "蒯曼vs陈幸同",
+        "onboard_time": 1768128140,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162288,
+        "num": 122767,
+        "word": "宋威龙赵今麦明天合体",
+        "onboard_time": 1768121061,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60036,
+        "num": 122596,
+        "word": "别让流量害死下一个驴友",
+        "onboard_time": 1768127300,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31679,
+        "num": 122317,
+        "word": "菲律宾20层楼高垃圾山坍塌至少6死",
+        "onboard_time": 1768127421,
+        "rank": 39,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 159791,
+        "num": 122175,
+        "word": "时代峰峻致歉王橹杰",
+        "onboard_time": 1768116262,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142325,
+        "num": 121983,
+        "word": "灵隐寺偶遇陈哲远",
+        "onboard_time": 1768127660,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121858,
+        "num": 121858,
+        "word": "中式咖啡 咖啡豆的洗澡水",
+        "onboard_time": 1768121840,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 140932,
+        "num": 120886,
+        "word": "3unshine只有Abby了",
+        "onboard_time": 1768120822,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133053,
+        "num": 120438,
+        "word": "冯小刚女儿颜值",
+        "onboard_time": 1768128200,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118671,
+        "num": 118671,
+        "word": "KK园区彻底清零",
+        "onboard_time": 1768112901,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122974,
+        "num": 118312,
+        "word": "网友评新四大女顶流",
+        "onboard_time": 1768122201,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116513,
+        "num": 116513,
+        "word": "王俊凯丁禹兮鞠婧祎QQ音乐预热",
+        "onboard_time": 1768114821,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115893,
+        "num": 115893,
+        "word": "台湾网红钟明轩来大陆旅游",
+        "onboard_time": 1768127780,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109009,
+        "num": 109009,
+        "word": "00后真的上年纪了",
+        "onboard_time": 1768128322,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美关系的希望在人民未来在青年#"
+    }
+  }
+}
