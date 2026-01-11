@@ -1,6 +1,6 @@
 {
   "startTime": 1768149237092,
-  "endTime": 1768152330068,
+  "endTime": 1768153359613,
   "band_list": [
     {
       "raw_hot": 1015098,
@@ -291,19 +291,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59705,
+      "num": 157817,
+      "word": "小城大事热度破24000",
+      "onboard_time": 1768147880,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 54268,
       "num": 157848,
       "word": "小城大事",
       "onboard_time": 1768131201,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 54171,
-      "num": 157817,
-      "word": "小城大事热度破24000",
-      "onboard_time": 1768147880,
-      "rank": 38,
       "category": "剧集"
     },
     {
@@ -435,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38284,
+      "num": 101454,
+      "word": "陈楚生荒芜之境",
+      "onboard_time": 1768152136,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 36309,
       "num": 116105,
       "word": "童家堡",
@@ -443,12 +451,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 33005,
-      "num": 101454,
-      "word": "陈楚生荒芜之境",
-      "onboard_time": 1768152136,
-      "rank": 40,
-      "category": "作品衍生"
+      "raw_hot": 35604,
+      "num": 73257,
+      "word": "声鸣远扬全国四强",
+      "onboard_time": 1768152497,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 30866,
@@ -475,6 +483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 28817,
+      "num": 73235,
+      "word": "侯明昊和17年好像没什么差别",
+      "onboard_time": 1768153156,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28427,
       "num": 100622,
       "word": "国乒男队面临的挑战越来越严峻",
@@ -489,6 +505,14 @@
       "onboard_time": 1768152136,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20141,
+      "num": 73221,
+      "word": "HHG",
+      "onboard_time": 1768146080,
+      "rank": 49,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [

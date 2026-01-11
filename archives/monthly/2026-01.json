@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768152330068,
+  "endTime": 1768153359613,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -29420,7 +29420,7 @@
     },
     {
       "raw_hot": 65462,
-      "num": 65462,
+      "num": 73221,
       "word": "HHG",
       "onboard_time": 1768146080,
       "rank": 45,
@@ -30331,6 +30331,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 59705,
+      "num": 157817,
+      "word": "小城大事热度破24000",
+      "onboard_time": 1768147880,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59689,
       "num": 132545,
       "word": "只有爸爸听进去了",
@@ -31009,14 +31017,6 @@
       "onboard_time": 1768126161,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54171,
-      "num": 157817,
-      "word": "小城大事热度破24000",
-      "onboard_time": 1768147880,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 54064,
@@ -33035,6 +33035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38284,
+      "num": 101454,
+      "word": "陈楚生荒芜之境",
+      "onboard_time": 1768152136,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 38264,
       "num": 644269,
       "word": "国有经济向新布局明显提速",
@@ -33353,6 +33361,14 @@
       "onboard_time": 1768052604,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 35604,
+      "num": 73257,
+      "word": "声鸣远扬全国四强",
+      "onboard_time": 1768152497,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 35543,
@@ -33745,14 +33761,6 @@
       "onboard_time": 1767962240,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33005,
-      "num": 101454,
-      "word": "陈楚生荒芜之境",
-      "onboard_time": 1768152136,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 32945,
@@ -34241,6 +34249,14 @@
       "onboard_time": 1767418827,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28817,
+      "num": 73235,
+      "word": "侯明昊和17年好像没什么差别",
+      "onboard_time": 1768153156,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 28784,

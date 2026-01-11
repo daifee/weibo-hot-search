@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/12 00:33:57 ~ 2026/01/12 01:25:30
+本榜单时间：2026/01/12 00:33:57 ~ 2026/01/12 01:42:39
 </p>
 </blockquote>
 <p>
@@ -231,14 +231,14 @@ TOP 荣耀之战都不知道怎么输（热度：181110）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%9F%8E%E5%A4%A7%E4%BA%8B%23" target="weibo">
-小城大事（热度：54268）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%9F%8E%E5%A4%A7%E4%BA%8B%E7%83%AD%E5%BA%A6%E7%A0%B424000%23" target="weibo">
+小城大事热度破24000（热度：59705）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%9F%8E%E5%A4%A7%E4%BA%8B%E7%83%AD%E5%BA%A6%E7%A0%B424000%23" target="weibo">
-小城大事热度破24000（热度：54171）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%9F%8E%E5%A4%A7%E4%BA%8B%23" target="weibo">
+小城大事（热度：54268）
 </a>
 </li>
 
@@ -339,14 +339,20 @@ TOP 荣耀之战都不知道怎么输（热度：181110）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E8%8D%92%E8%8A%9C%E4%B9%8B%E5%A2%83%23" target="weibo">
+陈楚生荒芜之境（热度：38284）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%A5%E5%AE%B6%E5%A0%A1%23" target="weibo">
 童家堡（热度：36309）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E8%8D%92%E8%8A%9C%E4%B9%8B%E5%A2%83%23" target="weibo">
-陈楚生荒芜之境（热度：33005）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A3%B0%E9%B8%A3%E8%BF%9C%E6%89%AC%E5%85%A8%E5%9B%BD%E5%9B%9B%E5%BC%BA%23" target="weibo">
+声鸣远扬全国四强（热度：35604）
 </a>
 </li>
 
@@ -369,6 +375,12 @@ TOP 荣耀之战都不知道怎么输（热度：181110）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E5%92%8C17%E5%B9%B4%E5%A5%BD%E5%83%8F%E6%B2%A1%E4%BB%80%E4%B9%88%E5%B7%AE%E5%88%AB%23" target="weibo">
+侯明昊和17年好像没什么差别（热度：28817）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E9%98%9F%E9%9D%A2%E4%B8%B4%E7%9A%84%E6%8C%91%E6%88%98%E8%B6%8A%E6%9D%A5%E8%B6%8A%E4%B8%A5%E5%B3%BB%23" target="weibo">
 国乒男队面临的挑战越来越严峻（热度：28427）
 </a>
@@ -377,6 +389,12 @@ TOP 荣耀之战都不知道怎么输（热度：181110）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%85%8D%E4%BD%9C%E4%B8%9A%E5%B0%8F%E5%AD%A9%E5%93%A5%E4%B8%80%E5%B7%B1%E4%B9%8B%E5%8A%9B%E6%89%9B%E4%B8%8B%E6%89%80%E6%9C%89%23" target="weibo">
 为免作业小孩哥一己之力扛下所有（热度：27248）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23HHG%23" target="weibo">
+HHG（热度：20141）
 </a>
 </li>
 
