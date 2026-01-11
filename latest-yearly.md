@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/12 07:27:33
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/12 07:41:37
 </p>
 </blockquote>
 <p>
@@ -425,6 +425,12 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E7%BB%93%E5%A9%9A%E5%BD%93%E5%A4%A9%E5%9D%A0%E6%A5%BC%E6%96%B0%E9%83%8E%E5%90%8C%E5%AD%A6%E5%8F%91%E5%A3%B0%23" target="weibo">
 女教师结婚当天坠楼新郎同学发声（热度：1028779）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E4%B8%BE%E6%8A%A5%23" target="weibo">
+蔡依林演唱会被举报（热度：1022078）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ iPhoneFold上手（热度：543056）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E7%9A%84%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%A2%A6%E5%9B%9E%E6%98%8E%E5%85%B0%E4%BA%86%23" target="weibo">
 今天的赵丽颖梦回明兰了（热度：533941）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%A9%B3%E6%96%A5%E4%B8%AD%E6%96%B9%E5%B9%B2%E9%A2%84%E9%9F%A9%E9%80%89%E4%B8%BE%E8%8D%92%E5%94%90%E8%A8%80%E8%AE%BA%23" target="weibo">
-李在明驳斥中方干预韩选举荒唐言论（热度：533860）
 </a>
 </li>
 

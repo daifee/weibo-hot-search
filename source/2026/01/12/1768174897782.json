@@ -1,0 +1,410 @@
+{
+  "runTime": 1768174897782,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 587559,
+        "num": 941943,
+        "word": "特朗普表态让万千台湾民众看清现实",
+        "onboard_time": 1768148659,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 432358,
+        "num": 667627,
+        "word": "烟台暴雪下冒烟了",
+        "onboard_time": 1768134981,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25373,
+        "num": 520627,
+        "word": "中国农民种地科技感拉满",
+        "onboard_time": 1768138883,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1022078,
+        "num": 423054,
+        "word": "蔡依林演唱会被举报",
+        "onboard_time": 1768173197,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209246,
+        "num": 209246,
+        "word": "林昀儒男单冠军",
+        "onboard_time": 1768157474,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213133,
+        "num": 209199,
+        "word": "手欠小狗每个人路过都要摸一下",
+        "onboard_time": 1768173138,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159686,
+        "num": 159686,
+        "word": "山东威海下了倾盆大瓢雪",
+        "onboard_time": 1768141522,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129996,
+        "num": 129996,
+        "word": "国乒WTT多哈冠军赛无缘冠军",
+        "onboard_time": 1768157474,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127535,
+        "num": 127535,
+        "word": "社保工作人员用漏洞挪用养老金超百万",
+        "onboard_time": 1768149019,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107862,
+        "num": 107862,
+        "word": "河南10名干部违规吃喝1人死亡",
+        "onboard_time": 1768138462,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 914268,
+        "num": 107434,
+        "word": "闫学晶发文道歉",
+        "onboard_time": 1768140082,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255379,
+        "num": 106966,
+        "word": "90后女子卖淫秽视频被判刑",
+        "onboard_time": 1768173858,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106435,
+        "num": 106435,
+        "word": "肖战将出席电视剧年度盛典",
+        "onboard_time": 1768173378,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105024,
+        "num": 105024,
+        "word": "伊朗哀悼3天",
+        "onboard_time": 1768174338,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102021,
+        "num": 102021,
+        "word": "家长背婴儿跑步致其脑袋剧烈摇晃",
+        "onboard_time": 1768135341,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99745,
+        "num": 99745,
+        "word": "格陵兰岛上正发生恐慌性抢购",
+        "onboard_time": 1768146981,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98617,
+        "num": 98617,
+        "word": "老人开飘窗玻璃突然从24楼砸下",
+        "onboard_time": 1768140622,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98488,
+        "num": 98488,
+        "word": "微博之夜",
+        "onboard_time": 1768144282,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 90575,
+        "num": 90575,
+        "word": "巴萨3比2皇马",
+        "onboard_time": 1768174157,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85580,
+        "num": 85580,
+        "word": "恋与深空",
+        "onboard_time": 1768174278,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236961,
+        "num": 85185,
+        "word": "卫健局将调查疑小澈住院记录曝光",
+        "onboard_time": 1768128381,
+        "rank": 20,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 95424,
+        "num": 84396,
+        "word": "男子出门打工9个月回家女友怀孕了",
+        "onboard_time": 1768134561,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83498,
+        "num": 83498,
+        "word": "威海特大暴雪为何这么厉害",
+        "onboard_time": 1768174458,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81494,
+        "num": 81494,
+        "word": "早上刷牙的真正目的是清除牙菌斑",
+        "onboard_time": 1768133361,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 80182,
+        "num": 80182,
+        "word": "脾胃不好多吃金银饭",
+        "onboard_time": 1768174397,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 77859,
+        "num": 77859,
+        "word": "还有5周就除夕了",
+        "onboard_time": 1768174878,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76641,
+        "num": 76641,
+        "word": "陈哲远 三个人的婚礼有点拥挤",
+        "onboard_time": 1768136122,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72162,
+        "num": 72162,
+        "word": "早餐一个改变整天的血糖都稳了",
+        "onboard_time": 1768174458,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 70951,
+        "num": 70951,
+        "word": "王者荣耀泉水被打爆",
+        "onboard_time": 1768174638,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 69355,
+        "num": 69355,
+        "word": "原来一直错怪粉底液了",
+        "onboard_time": 1768174397,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 66120,
+        "num": 66120,
+        "word": "左眼跳财右眼跳相信科学",
+        "onboard_time": 1768174638,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64996,
+        "num": 64996,
+        "word": "用吹风机吹了一下小咪",
+        "onboard_time": 1768143202,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64991,
+        "num": 64991,
+        "word": "4种伪休息反而伤气血",
+        "onboard_time": 1768174458,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 64602,
+        "num": 64602,
+        "word": "闫学晶说习惯被人捧着忘了本",
+        "onboard_time": 1768149318,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61063,
+        "num": 61063,
+        "word": "国家德比",
+        "onboard_time": 1768173437,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60805,
+        "num": 60805,
+        "word": "红果年度短剧投票结果",
+        "onboard_time": 1768142722,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60055,
+        "num": 60055,
+        "word": "代旭好帅",
+        "onboard_time": 1768160594,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59955,
+        "num": 59955,
+        "word": "10人违规吃喝1人死亡9人被处理",
+        "onboard_time": 1768138642,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58932,
+        "num": 58932,
+        "word": "檀健次连续5天营业",
+        "onboard_time": 1768173497,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56736,
+        "num": 56736,
+        "word": "电视剧年度盛典出席艺人",
+        "onboard_time": 1768147100,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55121,
+        "num": 55121,
+        "word": "一个礼拜掉8斤的食谱",
+        "onboard_time": 1768141643,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 53574,
+        "num": 53574,
+        "word": "发朋友圈前先回复消息",
+        "onboard_time": 1768136961,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47957,
+        "num": 53567,
+        "word": "车厘子几个J一下看明白了",
+        "onboard_time": 1768133841,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46937,
+        "num": 53518,
+        "word": "人参酒里泡3年突然长出绿叶",
+        "onboard_time": 1768139183,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45239,
+        "num": 53485,
+        "word": "陈幸同2比4朱雨玲",
+        "onboard_time": 1768157474,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42700,
+        "num": 53453,
+        "word": "伊朗111名安全人员丧生",
+        "onboard_time": 1768174818,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39499,
+        "num": 53417,
+        "word": "你以为断网的老干妈悄悄赚了54亿",
+        "onboard_time": 1768133660,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39224,
+        "num": 53379,
+        "word": "国乒无缘多哈冠军赛男单决赛",
+        "onboard_time": 1768133660,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34235,
+        "num": 53348,
+        "word": "丹麦称若因格陵兰岛发生战争将很愚蠢",
+        "onboard_time": 1768166233,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33582,
+        "num": 53303,
+        "word": "国乒男队面临的挑战越来越严峻",
+        "onboard_time": 1768142302,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#反腐大片一步不停歇半步不退让#"
+    }
+  }
+}

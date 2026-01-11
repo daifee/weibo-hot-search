@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768174053898,
+  "endTime": 1768174897782,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -81,6 +81,14 @@
       "onboard_time": 1768096401,
       "rank": 10,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1022078,
+      "num": 423054,
+      "word": "蔡依林演唱会被举报",
+      "onboard_time": 1768173197,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 920995,
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 627325,
-      "num": 844278,
+      "num": 941943,
       "word": "特朗普表态让万千台湾民众看清现实",
       "onboard_time": 1768148659,
       "rank": 17,
@@ -465,14 +473,6 @@
       "onboard_time": 1768100599,
       "rank": 22,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 419116,
-      "num": 419116,
-      "word": "蔡依林演唱会被举报",
-      "onboard_time": 1768173197,
-      "rank": 3,
-      "category": "演出"
     },
     {
       "raw_hot": 414718,
@@ -835,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255379,
+      "num": 106966,
+      "word": "90后女子卖淫秽视频被判刑",
+      "onboard_time": 1768173858,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 254832,
       "num": 134238,
       "word": "被体制内大佬的工作留痕震撼到了",
@@ -1033,6 +1041,14 @@
       "onboard_time": 1768157474,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213133,
+      "num": 209199,
+      "word": "手欠小狗每个人路过都要摸一下",
+      "onboard_time": 1768173138,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 212542,
@@ -1305,14 +1321,6 @@
       "onboard_time": 1768118240,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 179807,
-      "num": 62520,
-      "word": "手欠小狗每个人路过都要摸一下",
-      "onboard_time": 1768173138,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 179647,
@@ -1827,6 +1835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 129996,
+      "num": 129996,
+      "word": "国乒WTT多哈冠军赛无缘冠军",
+      "onboard_time": 1768157474,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128715,
       "num": 128715,
       "word": "萝卜纸巾猫为什么火了",
@@ -1867,14 +1883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126990,
-      "num": 96776,
-      "word": "90后女子卖淫秽视频被判刑",
-      "onboard_time": 1768173858,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126874,
       "num": 126874,
       "word": "赵又廷演技",
@@ -1904,14 +1912,6 @@
       "word": "U23男足战胜澳大利亚",
       "onboard_time": 1768139603,
       "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 126144,
-      "num": 126144,
-      "word": "国乒WTT多哈冠军赛无缘冠军",
-      "onboard_time": 1768157474,
-      "rank": 4,
       "category": "体育"
     },
     {
@@ -2259,6 +2259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106435,
+      "num": 106435,
+      "word": "肖战将出席电视剧年度盛典",
+      "onboard_time": 1768173378,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106425,
       "num": 142742,
       "word": "徐梦桃的对手只有自己",
@@ -2273,6 +2281,14 @@
       "onboard_time": 1768136001,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105024,
+      "num": 105024,
+      "word": "伊朗哀悼3天",
+      "onboard_time": 1768174338,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 104952,
@@ -2619,6 +2635,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 90575,
+      "num": 90575,
+      "word": "巴萨3比2皇马",
+      "onboard_time": 1768174157,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90421,
       "num": 90421,
       "word": "国产剧拍了弟妹开门我是我弟",
@@ -2675,14 +2699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 87343,
-      "num": 87343,
-      "word": "肖战将出席电视剧年度盛典",
-      "onboard_time": 1768173378,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 86581,
       "num": 99984,
       "word": "台游客发现大陆与民进党宣传不同",
@@ -2731,12 +2747,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85580,
+      "num": 85580,
+      "word": "恋与深空",
+      "onboard_time": 1768174278,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 85339,
       "num": 77010,
       "word": "赵丽颖用5个手指形容5个人",
       "onboard_time": 1768111821,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83498,
+      "num": 83498,
+      "word": "威海特大暴雪为何这么厉害",
+      "onboard_time": 1768174458,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83398,
@@ -2867,6 +2899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 80182,
+      "num": 80182,
+      "word": "脾胃不好多吃金银饭",
+      "onboard_time": 1768174397,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 80090,
       "num": 80090,
       "word": "张云龙云初令路透",
@@ -2953,6 +2993,14 @@
       "onboard_time": 1768113323,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 77859,
+      "num": 77859,
+      "word": "还有5周就除夕了",
+      "onboard_time": 1768174878,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77618,
@@ -3107,6 +3155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72162,
+      "num": 72162,
+      "word": "早餐一个改变整天的血糖都稳了",
+      "onboard_time": 1768174458,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 72055,
       "num": 72055,
       "word": "马杜罗被美国强行控制一周后",
@@ -3129,6 +3185,14 @@
       "onboard_time": 1768099459,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 70951,
+      "num": 70951,
+      "word": "王者荣耀泉水被打爆",
+      "onboard_time": 1768174638,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 70680,
@@ -3169,6 +3233,14 @@
       "onboard_time": 1768047682,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69355,
+      "num": 69355,
+      "word": "原来一直错怪粉底液了",
+      "onboard_time": 1768174397,
+      "rank": 29,
+      "category": "美妆"
     },
     {
       "raw_hot": 68698,
@@ -3235,6 +3307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 66120,
+      "num": 66120,
+      "word": "左眼跳财右眼跳相信科学",
+      "onboard_time": 1768174638,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 65803,
       "num": 76683,
       "word": "冰淇淋吐司",
@@ -3265,6 +3345,14 @@
       "onboard_time": 1768145602,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64991,
+      "num": 64991,
+      "word": "4种伪休息反而伤气血",
+      "onboard_time": 1768174458,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 64818,
@@ -3419,6 +3507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58932,
+      "num": 62573,
+      "word": "檀健次连续5天营业",
+      "onboard_time": 1768173497,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58695,
       "num": 58695,
       "word": "sakee asen",
@@ -3441,14 +3537,6 @@
       "onboard_time": 1768115841,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 56693,
-      "num": 62573,
-      "word": "檀健次连续5天营业",
-      "onboard_time": 1768173497,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 55125,
@@ -3609,6 +3697,14 @@
       "onboard_time": 1768109361,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42700,
+      "num": 53453,
+      "word": "伊朗111名安全人员丧生",
+      "onboard_time": 1768174818,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 42523,
@@ -3931,6 +4027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25373,
+      "num": 649142,
+      "word": "中国农民种地科技感拉满",
+      "onboard_time": 1768138883,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25124,
       "num": 62383,
       "word": "刘宇宁这完全是going",
@@ -3969,14 +4073,6 @@
       "onboard_time": 1768127000,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24395,
-      "num": 649142,
-      "word": "中国农民种地科技感拉满",
-      "onboard_time": 1768138883,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 24331,
