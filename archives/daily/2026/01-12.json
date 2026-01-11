@@ -1,6 +1,6 @@
 {
   "startTime": 1768149237092,
-  "endTime": 1768150116661,
+  "endTime": 1768152330068,
   "band_list": [
     {
       "raw_hot": 1015098,
@@ -11,6 +11,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 485024,
+      "num": 500103,
+      "word": "特朗普表态让万千台湾民众看清现实",
+      "onboard_time": 1768148659,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 390122,
       "num": 806325,
       "word": "烟台暴雪下冒烟了",
@@ -19,20 +27,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 295713,
-      "num": 495174,
-      "word": "特朗普表态让万千台湾民众看清现实",
-      "onboard_time": 1768148659,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 239554,
       "num": 157753,
       "word": "闫学晶之子就读中戏新疆班不实",
       "onboard_time": 1768133361,
       "rank": 43,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 237717,
+      "num": 356447,
+      "word": "社保工作人员用漏洞挪用养老金超百万",
+      "onboard_time": 1768149019,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 230010,
@@ -83,6 +91,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167214,
+      "num": 162074,
+      "word": "律师解读王橹杰音效争议",
+      "onboard_time": 1768148299,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158065,
       "num": 158065,
       "word": "卫健局将调查疑小澈住院记录曝光",
@@ -121,14 +137,6 @@
       "onboard_time": 1768146981,
       "rank": 8,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 124715,
-      "num": 162074,
-      "word": "律师解读王橹杰音效争议",
-      "onboard_time": 1768148299,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 117042,
@@ -184,14 +192,6 @@
       "word": "老人开飘窗玻璃突然从24楼砸下",
       "onboard_time": 1768140622,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 81833,
-      "num": 157733,
-      "word": "社保工作人员用漏洞挪用养老金超百万",
-      "onboard_time": 1768149019,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -363,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47215,
+      "num": 116371,
+      "word": "闫学晶说习惯被人捧着忘了本",
+      "onboard_time": 1768149318,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46824,
       "num": 157708,
       "word": "男子网购5斤瓜子收到1斤瓜子皮",
@@ -403,14 +411,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 42375,
-      "num": 116371,
-      "word": "闫学晶说习惯被人捧着忘了本",
-      "onboard_time": 1768149318,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 40303,
       "num": 116215,
       "word": "张真源小张盲盒",
@@ -427,12 +427,68 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 39986,
+      "num": 102624,
+      "word": "高越感谢粉丝端水",
+      "onboard_time": 1768151716,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36309,
       "num": 116105,
       "word": "童家堡",
       "onboard_time": 1768147040,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 33005,
+      "num": 101454,
+      "word": "陈楚生荒芜之境",
+      "onboard_time": 1768152136,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 30866,
+      "num": 101332,
+      "word": "张钧甯从金桔到菠萝包",
+      "onboard_time": 1768151896,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 29819,
+      "num": 100979,
+      "word": "李秋萍上班第一天就被同事排挤",
+      "onboard_time": 1768150698,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 29537,
+      "num": 100955,
+      "word": "檀健次开沙滩车",
+      "onboard_time": 1768151416,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 28427,
+      "num": 100622,
+      "word": "国乒男队面临的挑战越来越严峻",
+      "onboard_time": 1768142302,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 27248,
+      "num": 100504,
+      "word": "为免作业小孩哥一己之力扛下所有",
+      "onboard_time": 1768152136,
+      "rank": 47,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
