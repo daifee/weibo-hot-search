@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768146141118,
+  "endTime": 1768149237092,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -947,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221788,
+      "num": 169583,
+      "word": "苏新皓我听到啦",
+      "onboard_time": 1768141282,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220800,
       "num": 103799,
       "word": "方圆说自己没事",
@@ -1155,14 +1163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188509,
-      "num": 169583,
-      "word": "苏新皓我听到啦",
-      "onboard_time": 1768141282,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 187263,
       "num": 187263,
       "word": "抹茶最早发展于唐朝",
@@ -1185,6 +1185,14 @@
       "onboard_time": 1768107679,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185596,
+      "num": 185596,
+      "word": "电视剧年度盛典出席艺人",
+      "onboard_time": 1768147100,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 185498,
@@ -1241,6 +1249,14 @@
       "onboard_time": 1768128740,
       "rank": 4,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 181110,
+      "num": 165642,
+      "word": "TOP 荣耀之战都不知道怎么输",
+      "onboard_time": 1768144701,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 180473,
@@ -1305,6 +1321,14 @@
       "onboard_time": 1768087395,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 173835,
+      "num": 173835,
+      "word": "宋威龙工作室好用心",
+      "onboard_time": 1768143743,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 172938,
@@ -1393,14 +1417,6 @@
       "onboard_time": 1768122201,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163845,
-      "num": 163845,
-      "word": "TOP 荣耀之战都不知道怎么输",
-      "onboard_time": 1768144701,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 163093,
@@ -1539,6 +1555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 154861,
+      "num": 164419,
+      "word": "陈楚生 跟香港的哥哥都要唱两遍",
+      "onboard_time": 1768145660,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 151523,
       "num": 160923,
       "word": "气血足的人日常多有5个习惯",
@@ -1556,7 +1580,7 @@
     },
     {
       "raw_hot": 151140,
-      "num": 151140,
+      "num": 157683,
       "word": "内娱首个素颜音综舞台出现了",
       "onboard_time": 1768144161,
       "rank": 18,
@@ -1580,7 +1604,7 @@
     },
     {
       "raw_hot": 149200,
-      "num": 142237,
+      "num": 158026,
       "word": "微博之夜",
       "onboard_time": 1768144282,
       "rank": 24,
@@ -1593,14 +1617,6 @@
       "onboard_time": 1768134922,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 146808,
-      "num": 146808,
-      "word": "宋威龙工作室好用心",
-      "onboard_time": 1768143743,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 146137,
@@ -1649,6 +1665,14 @@
       "onboard_time": 1768127660,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140463,
+      "num": 171807,
+      "word": "格陵兰岛上正发生恐慌性抢购",
+      "onboard_time": 1768146981,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 139987,
@@ -1779,14 +1803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127938,
-      "num": 127938,
-      "word": "陈楚生 跟香港的哥哥都要唱两遍",
-      "onboard_time": 1768145660,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 127853,
       "num": 196147,
       "word": "轧戏",
@@ -1841,6 +1857,14 @@
       "onboard_time": 1768138462,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124715,
+      "num": 162074,
+      "word": "律师解读王橹杰音效争议",
+      "onboard_time": 1768148299,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 123890,
@@ -2028,7 +2052,7 @@
     },
     {
       "raw_hot": 113816,
-      "num": 150021,
+      "num": 157708,
       "word": "男子网购5斤瓜子收到1斤瓜子皮",
       "onboard_time": 1768140321,
       "rank": 48,
@@ -2156,7 +2180,7 @@
     },
     {
       "raw_hot": 107230,
-      "num": 107230,
+      "num": 157989,
       "word": "王心凌制服的神",
       "onboard_time": 1768145361,
       "rank": 28,
@@ -2228,7 +2252,7 @@
     },
     {
       "raw_hot": 103176,
-      "num": 103176,
+      "num": 157719,
       "word": "孙颖莎王楚钦亮相国际乒联百年宣传片",
       "onboard_time": 1768143322,
       "rank": 33,
@@ -2316,7 +2340,7 @@
     },
     {
       "raw_hot": 100740,
-      "num": 100740,
+      "num": 157905,
       "word": "河南五名大学教师被处罚",
       "onboard_time": 1768143023,
       "rank": 36,
@@ -2457,6 +2481,14 @@
       "onboard_time": 1768105521,
       "rank": 42,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 94309,
+      "num": 160598,
+      "word": "特朗普表态让万千台湾民众看清现实",
+      "onboard_time": 1768148659,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 94141,
@@ -2955,6 +2987,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 73710,
+      "num": 157969,
+      "word": "丁程鑫安慰女嘉宾被淋了水",
+      "onboard_time": 1768148240,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73609,
       "num": 103925,
       "word": "中国警察缅北守护中国公民尸体",
@@ -3057,6 +3097,14 @@
       "onboard_time": 1768047682,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 68698,
+      "num": 157996,
+      "word": "用吹风机吹了一下小咪",
+      "onboard_time": 1768143202,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 68602,
@@ -3227,6 +3275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61389,
+      "num": 157887,
+      "word": "刘宇宁五月天隔空互动",
+      "onboard_time": 1768146140,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 61317,
       "num": 61317,
       "word": "家属回应双胞胎姐妹嫁双胞胎兄弟",
@@ -3323,6 +3379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 53395,
+      "num": 157817,
+      "word": "小城大事热度破24000",
+      "onboard_time": 1768147880,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 52711,
       "num": 195470,
       "word": "侯明昊回应被叫男妖妃",
@@ -3355,12 +3419,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51584,
+      "num": 157798,
+      "word": "张泽禹夺命六摇",
+      "onboard_time": 1768148419,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51541,
       "num": 57171,
       "word": "伊朗总统称正全力根除腐败改善民生",
       "onboard_time": 1768097540,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 51042,
+      "num": 157776,
+      "word": "家政市场爆单了",
+      "onboard_time": 1768148480,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50359,
@@ -3371,11 +3451,27 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 50316,
+      "num": 157774,
+      "word": "红果年度大赏TOP3",
+      "onboard_time": 1768147400,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 50295,
       "num": 119631,
       "word": "火锅吃出整只劳保手套",
       "onboard_time": 1768135881,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49708,
+      "num": 157733,
+      "word": "社保工作人员用漏洞挪用养老金超百万",
+      "onboard_time": 1768149019,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
