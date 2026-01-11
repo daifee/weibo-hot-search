@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768098365201,
+  "endTime": 1768099509956,
   "band_list": [
     {
       "raw_hot": 2076111,
@@ -43,6 +43,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 903109,
+      "num": 134775,
+      "word": "刘一诺直播回应和檀健次的恋情",
+      "onboard_time": 1768097721,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 813471,
       "num": 196314,
       "word": "小澈还在方圆家住半个月",
@@ -75,8 +83,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 545167,
-      "num": 1087226,
+      "raw_hot": 552604,
+      "num": 1088416,
       "word": "河南新蔡通报13岁男生宿舍内死亡",
       "onboard_time": 1768094480,
       "rank": 0,
@@ -99,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 442685,
+      "num": 232522,
+      "word": "轧戏 盗用素人offer",
+      "onboard_time": 1768097180,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 439558,
       "num": 814235,
       "word": "一起来看流星雨",
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 407211,
-      "num": 773563,
+      "num": 790314,
       "word": "海底捞回应送黄金小马挂件",
       "onboard_time": 1768054403,
       "rank": 1,
@@ -139,20 +155,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 377417,
+      "num": 379573,
+      "word": "死了么APP开发成本1000多元",
+      "onboard_time": 1768096100,
+      "rank": 4,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 336734,
       "num": 222882,
       "word": "死了么app",
       "onboard_time": 1768035741,
       "rank": 14,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 329132,
-      "num": 123745,
-      "word": "刘一诺直播回应和檀健次的恋情",
-      "onboard_time": 1768097721,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 328307,
@@ -179,14 +195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 232522,
-      "num": 232522,
-      "word": "轧戏 盗用素人offer",
-      "onboard_time": 1768097180,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 231686,
       "num": 183319,
       "word": "偶遇贾玲张小斐崇礼滑雪",
@@ -195,20 +203,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 228964,
-      "num": 379573,
-      "word": "死了么APP开发成本1000多元",
-      "onboard_time": 1768096100,
-      "rank": 4,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 215784,
       "num": 196423,
       "word": "13岁男孩拒绝老妇邀约偷铁皮被杀",
       "onboard_time": 1768059803,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211624,
+      "num": 200850,
+      "word": "唐宫奇案",
+      "onboard_time": 1768097721,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 196883,
@@ -235,12 +243,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 175302,
-      "num": 175302,
+      "raw_hot": 180473,
+      "num": 180473,
       "word": "伊朗",
       "onboard_time": 1768091599,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 174668,
+      "num": 136484,
+      "word": "鹅妈妈谈小澈事件",
+      "onboard_time": 1768087395,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 169932,
@@ -249,14 +265,6 @@
       "onboard_time": 1768096761,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169681,
-      "num": 136484,
-      "word": "鹅妈妈谈小澈事件",
-      "onboard_time": 1768087395,
-      "rank": 27,
-      "category": "网红"
     },
     {
       "raw_hot": 168918,
@@ -291,20 +299,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155788,
+      "num": 198356,
+      "word": "成都地铁实现1人1座",
+      "onboard_time": 1768096460,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154996,
       "num": 196598,
       "word": "鹅妈妈仇人运",
       "onboard_time": 1768054283,
       "rank": 15,
       "category": "网红"
-    },
-    {
-      "raw_hot": 146918,
-      "num": 131188,
-      "word": "唐宫奇案",
-      "onboard_time": 1768097721,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 139987,
@@ -315,20 +323,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 136943,
+      "num": 134428,
+      "word": "女子先嫁2人未离婚又跟9人结离婚",
+      "onboard_time": 1768098020,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134848,
+      "num": 134848,
+      "word": "特朗普听取军事打击伊朗的方案",
+      "onboard_time": 1768098321,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 134087,
+      "num": 134087,
+      "word": "这4种食物会让身体慢性发炎",
+      "onboard_time": 1768094059,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 127853,
       "num": 196147,
       "word": "轧戏",
       "onboard_time": 1768046421,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123797,
-      "num": 123797,
-      "word": "这4种食物会让身体慢性发炎",
-      "onboard_time": 1768094059,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 123630,
@@ -339,20 +363,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 122588,
-      "num": 122588,
-      "word": "成都地铁实现1人1座",
-      "onboard_time": 1768096460,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122191,
       "num": 196481,
       "word": "白鹿看升旗哭到停不下来",
       "onboard_time": 1768046720,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117960,
+      "num": 117960,
+      "word": "尼泊尔盗版迪士尼",
+      "onboard_time": 1768095500,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 116658,
@@ -369,14 +393,6 @@
       "onboard_time": 1768055003,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104784,
-      "num": 104784,
-      "word": "尼泊尔盗版迪士尼",
-      "onboard_time": 1768095500,
-      "rank": 30,
-      "category": "旅游"
     },
     {
       "raw_hot": 102619,
@@ -427,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91249,
+      "num": 197161,
+      "word": "厦门马拉松",
+      "onboard_time": 1768098801,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86338,
       "num": 151338,
       "word": "美国为啥一直在要格陵兰岛",
@@ -475,6 +499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 80237,
+      "num": 80237,
+      "word": "店里来了位特别的客人",
+      "onboard_time": 1768098920,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 79127,
       "num": 88829,
       "word": "黄晓明这是会议室不是中餐厅",
@@ -497,14 +529,6 @@
       "onboard_time": 1768053084,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 78341,
-      "num": 78341,
-      "word": "特朗普听取军事打击伊朗的方案",
-      "onboard_time": 1768098321,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 78274,
@@ -537,6 +561,30 @@
       "onboard_time": 1768097600,
       "rank": 9,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 72716,
+      "num": 72716,
+      "word": "毕业15年小伙救了同班同学的孩子",
+      "onboard_time": 1768098920,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71699,
+      "num": 71699,
+      "word": "内娱需要这样养眼的古装扮相",
+      "onboard_time": 1768099459,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 70106,
+      "num": 70106,
+      "word": "天马1000无人运输机成功首飞",
+      "onboard_time": 1768099340,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69976,
@@ -595,20 +643,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 66624,
+      "num": 66624,
+      "word": "柯南近期新兰浓度过高",
+      "onboard_time": 1768099100,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 66308,
       "num": 195844,
       "word": "差评率100%的自助",
       "onboard_time": 1768057523,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 64921,
-      "num": 64921,
-      "word": "女子先嫁2人未离婚又跟9人结离婚",
-      "onboard_time": 1768098020,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 64818,
@@ -651,12 +699,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61170,
+      "num": 61170,
+      "word": "练习3个动作不伤膝盖还减脂",
+      "onboard_time": 1768099340,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 60843,
+      "num": 60843,
+      "word": "快船vs活塞",
+      "onboard_time": 1768099281,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60223,
       "num": 195564,
       "word": "TF家族花絮照",
       "onboard_time": 1768057102,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 59934,
+      "num": 59934,
+      "word": "网红回应直播中现抗HIV药物",
+      "onboard_time": 1768098380,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 58695,
@@ -755,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40524,
+      "num": 73182,
+      "word": "美国一男子枪杀6人",
+      "onboard_time": 1768099459,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 39827,
       "num": 151314,
       "word": "鹅鸭杀打台球",
@@ -785,6 +865,14 @@
       "onboard_time": 1768087577,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 38008,
+      "num": 70788,
+      "word": "刘耀文说沙发是师兄在就有的",
+      "onboard_time": 1768098499,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 36809,

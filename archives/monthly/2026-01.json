@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768098365201,
+  "endTime": 1768099509956,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -713,6 +713,14 @@
       "onboard_time": 1767685761,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 903109,
+      "num": 134775,
+      "word": "刘一诺直播回应和檀健次的恋情",
+      "onboard_time": 1768097721,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 903012,
@@ -1963,6 +1971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 552604,
+      "num": 1088416,
+      "word": "河南新蔡通报13岁男生宿舍内死亡",
+      "onboard_time": 1768094480,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 551666,
       "num": 211584,
       "word": "鹅鸭杀排队",
@@ -2009,14 +2025,6 @@
       "onboard_time": 1767756561,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 545167,
-      "num": 1087226,
-      "word": "河南新蔡通报13岁男生宿舍内死亡",
-      "onboard_time": 1768094480,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 544794,
@@ -3283,6 +3291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 442685,
+      "num": 232522,
+      "word": "轧戏 盗用素人offer",
+      "onboard_time": 1768097180,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 441518,
       "num": 1692801,
       "word": "交警回应撞脸杨紫爆红",
@@ -4041,6 +4057,14 @@
       "onboard_time": 1767431664,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 377417,
+      "num": 379573,
+      "word": "死了么APP开发成本1000多元",
+      "onboard_time": 1768096100,
+      "rank": 4,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 376299,
@@ -4841,14 +4865,6 @@
       "onboard_time": 1767968722,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 329132,
-      "num": 123745,
-      "word": "刘一诺直播回应和檀健次的恋情",
-      "onboard_time": 1768097721,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 329021,
@@ -7307,14 +7323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 232522,
-      "num": 232522,
-      "word": "轧戏 盗用素人offer",
-      "onboard_time": 1768097180,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 232456,
       "num": 1005637,
       "word": "吃凉拌菜也减不了肥的原因",
@@ -7473,14 +7481,6 @@
       "onboard_time": 1767356241,
       "rank": 21,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 228964,
-      "num": 379573,
-      "word": "死了么APP开发成本1000多元",
-      "onboard_time": 1768096100,
-      "rank": 4,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 228635,
@@ -8144,6 +8144,14 @@
       "word": "林屿森留宿",
       "onboard_time": 1767691041,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 211624,
+      "num": 1003524,
+      "word": "唐宫奇案",
+      "onboard_time": 1767257780,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -10491,6 +10499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174668,
+      "num": 136484,
+      "word": "鹅妈妈谈小澈事件",
+      "onboard_time": 1768087395,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 174429,
       "num": 174429,
       "word": "周冠宇回应凯迪拉克官宣",
@@ -10809,14 +10825,6 @@
       "onboard_time": 1767703281,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 169681,
-      "num": 136484,
-      "word": "鹅妈妈谈小澈事件",
-      "onboard_time": 1768087395,
-      "rank": 27,
-      "category": "网红"
     },
     {
       "raw_hot": 169672,
@@ -11683,14 +11691,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 160002,
-      "num": 1003524,
-      "word": "唐宫奇案",
-      "onboard_time": 1767257780,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 159868,
       "num": 522646,
       "word": "俄称美国袭击委内瑞拉违反国际法",
@@ -12089,6 +12089,14 @@
       "onboard_time": 1767264201,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 155788,
+      "num": 198356,
+      "word": "成都地铁实现1人1座",
+      "onboard_time": 1768096460,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155735,
@@ -13955,6 +13963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136943,
+      "num": 134428,
+      "word": "女子先嫁2人未离婚又跟9人结离婚",
+      "onboard_time": 1768098020,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136927,
       "num": 136927,
       "word": "余宇涵坐高铁不会刷身份证",
@@ -14267,6 +14283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134848,
+      "num": 134848,
+      "word": "特朗普听取军事打击伊朗的方案",
+      "onboard_time": 1768098321,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 134807,
       "num": 134807,
       "word": "龚俊直播",
@@ -14409,6 +14433,14 @@
       "onboard_time": 1767693321,
       "rank": 43,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 134087,
+      "num": 134087,
+      "word": "这4种食物会让身体慢性发炎",
+      "onboard_time": 1768094059,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 134042,
@@ -15731,14 +15763,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 123797,
-      "num": 123797,
-      "word": "这4种食物会让身体慢性发炎",
-      "onboard_time": 1768094059,
-      "rank": 25,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 123630,
       "num": 123630,
       "word": "吃下一头大蒜你的身体会怎样",
@@ -15961,14 +15985,6 @@
       "onboard_time": 1767937341,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122588,
-      "num": 122588,
-      "word": "成都地铁实现1人1座",
-      "onboard_time": 1768096460,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122553,
@@ -16681,6 +16697,14 @@
       "onboard_time": 1767683902,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117960,
+      "num": 117960,
+      "word": "尼泊尔盗版迪士尼",
+      "onboard_time": 1768095500,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 117786,
@@ -18825,14 +18849,6 @@
       "onboard_time": 1767259101,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 104784,
-      "num": 104784,
-      "word": "尼泊尔盗版迪士尼",
-      "onboard_time": 1768095500,
-      "rank": 30,
-      "category": "旅游"
     },
     {
       "raw_hot": 104723,
@@ -21995,6 +22011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 91249,
+      "num": 197161,
+      "word": "厦门马拉松",
+      "onboard_time": 1768098801,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91226,
       "num": 91226,
       "word": "上海一超市成韩国游客宝藏打卡地",
@@ -24467,6 +24491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 80237,
+      "num": 80237,
+      "word": "店里来了位特别的客人",
+      "onboard_time": 1768098920,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 80097,
       "num": 314772,
       "word": "哪吒",
@@ -24809,14 +24841,6 @@
       "onboard_time": 1767230121,
       "rank": 25,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 78341,
-      "num": 78341,
-      "word": "特朗普听取军事打击伊朗的方案",
-      "onboard_time": 1768098321,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 78320,
@@ -25827,6 +25851,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 72716,
+      "num": 72716,
+      "word": "毕业15年小伙救了同班同学的孩子",
+      "onboard_time": 1768098920,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72662,
       "num": 86590,
       "word": "陈星旭卢昱晓吻戏最多的一部剧",
@@ -25977,6 +26009,14 @@
       "onboard_time": 1767345261,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 71699,
+      "num": 71699,
+      "word": "内娱需要这样养眼的古装扮相",
+      "onboard_time": 1768099459,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 71629,
@@ -26193,6 +26233,14 @@
       "onboard_time": 1767852141,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 70106,
+      "num": 70106,
+      "word": "天马1000无人运输机成功首飞",
+      "onboard_time": 1768099340,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69968,
@@ -26707,6 +26755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66624,
+      "num": 66624,
+      "word": "柯南近期新兰浓度过高",
+      "onboard_time": 1768099100,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 66620,
       "num": 732890,
       "word": "球队教练回应老板承诺送车后赖账",
@@ -26953,14 +27009,6 @@
       "onboard_time": 1767330020,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 64921,
-      "num": 64921,
-      "word": "女子先嫁2人未离婚又跟9人结离婚",
-      "onboard_time": 1768098020,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 64916,
@@ -27547,6 +27595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61170,
+      "num": 61170,
+      "word": "练习3个动作不伤膝盖还减脂",
+      "onboard_time": 1768099340,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 61053,
       "num": 61053,
       "word": "ICE枪击事件引发大规模抗议",
@@ -27577,6 +27633,14 @@
       "onboard_time": 1767801321,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 60843,
+      "num": 60843,
+      "word": "快船vs活塞",
+      "onboard_time": 1768099281,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 60826,
@@ -27681,6 +27745,14 @@
       "onboard_time": 1767741739,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 59934,
+      "num": 59934,
+      "word": "网红回应直播中现抗HIV药物",
+      "onboard_time": 1768098380,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 59689,
@@ -29875,6 +29947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40524,
+      "num": 73182,
+      "word": "美国一男子枪杀6人",
+      "onboard_time": 1768099459,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 40427,
       "num": 40427,
       "word": "陈熠2比3韩莹",
@@ -30289,6 +30369,14 @@
       "onboard_time": 1767978737,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38008,
+      "num": 70788,
+      "word": "刘耀文说沙发是师兄在就有的",
+      "onboard_time": 1768098499,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 37861,

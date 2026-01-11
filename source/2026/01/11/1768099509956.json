@@ -1,0 +1,410 @@
+{
+  "runTime": 1768099509956,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 552604,
+        "num": 1088416,
+        "word": "河南新蔡通报13岁男生宿舍内死亡",
+        "onboard_time": 1768094480,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233331,
+        "num": 790314,
+        "word": "海底捞回应送黄金小马挂件",
+        "onboard_time": 1768054403,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8734,
+        "num": 631564,
+        "word": "规范互联网应用程序个人信息收集使用",
+        "onboard_time": 1768035021,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402068,
+        "num": 402068,
+        "word": "朱媛媛拍小城大事时口袋揣着止痛泵",
+        "onboard_time": 1768095199,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 377417,
+        "num": 377417,
+        "word": "死了么APP开发成本1000多元",
+        "onboard_time": 1768096100,
+        "rank": 4,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 294944,
+        "num": 294944,
+        "word": "白鹿剧宣来的太快就像龙卷风",
+        "onboard_time": 1768093760,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201282,
+        "num": 201282,
+        "word": "房东心软减租1万5反被上了一课",
+        "onboard_time": 1768058482,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211624,
+        "num": 200850,
+        "word": "唐宫奇案",
+        "onboard_time": 1768097721,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155788,
+        "num": 198356,
+        "word": "成都地铁实现1人1座",
+        "onboard_time": 1768096460,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91249,
+        "num": 197161,
+        "word": "厦门马拉松",
+        "onboard_time": 1768098801,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 907166,
+        "num": 195196,
+        "word": "身亡学生左胸针孔系法医抽血所致",
+        "onboard_time": 1768096401,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 442685,
+        "num": 192425,
+        "word": "轧戏 盗用素人offer",
+        "onboard_time": 1768097180,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192421,
+        "num": 192421,
+        "word": "王玉雯精心画的卧蚕",
+        "onboard_time": 1768092020,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180473,
+        "num": 180473,
+        "word": "伊朗",
+        "onboard_time": 1768091599,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164226,
+        "num": 164226,
+        "word": "白鹿给呵呵打电话假哭",
+        "onboard_time": 1768096761,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158797,
+        "num": 158797,
+        "word": "偶遇贾玲张小斐崇礼滑雪",
+        "onboard_time": 1768086554,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146415,
+        "num": 146415,
+        "word": "死了么app",
+        "onboard_time": 1768035741,
+        "rank": 16,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 154804,
+        "num": 144795,
+        "word": "小城大事杀青16天后朱媛媛离世",
+        "onboard_time": 1768086737,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142113,
+        "num": 142113,
+        "word": "为什么干婚的中年人越来越多了",
+        "onboard_time": 1768055303,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134848,
+        "num": 134848,
+        "word": "特朗普听取军事打击伊朗的方案",
+        "onboard_time": 1768098321,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 903109,
+        "num": 134775,
+        "word": "刘一诺直播回应和檀健次的恋情",
+        "onboard_time": 1768097721,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415026,
+        "num": 134489,
+        "word": "颜安长文回应",
+        "onboard_time": 1768053024,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136943,
+        "num": 134428,
+        "word": "女子先嫁2人未离婚又跟9人结离婚",
+        "onboard_time": 1768098020,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174668,
+        "num": 134184,
+        "word": "鹅妈妈谈小澈事件",
+        "onboard_time": 1768087395,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 134087,
+        "num": 134087,
+        "word": "这4种食物会让身体慢性发炎",
+        "onboard_time": 1768094059,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 420518,
+        "num": 130295,
+        "word": "檀健次 知道我多坚强了吧",
+        "onboard_time": 1768054462,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117960,
+        "num": 117960,
+        "word": "尼泊尔盗版迪士尼",
+        "onboard_time": 1768095500,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 113632,
+        "num": 113632,
+        "word": "一次违规吃喝搭上一条人命",
+        "onboard_time": 1768096700,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110745,
+        "num": 110745,
+        "word": "刘宇宁成都不吃火锅的原因",
+        "onboard_time": 1768089979,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107630,
+        "num": 107630,
+        "word": "一起来看流星雨",
+        "onboard_time": 1768055963,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104181,
+        "num": 104181,
+        "word": "吃下一头大蒜你的身体会怎样",
+        "onboard_time": 1768088717,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 100629,
+        "num": 100629,
+        "word": "王橹杰维权",
+        "onboard_time": 1768058062,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91894,
+        "num": 91894,
+        "word": "地震痛失儿女的辅警又有了宝宝",
+        "onboard_time": 1768087336,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80237,
+        "num": 80237,
+        "word": "店里来了位特别的客人",
+        "onboard_time": 1768098920,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74713,
+        "num": 74713,
+        "word": "消费者买到xiaonnri电视 小米回应",
+        "onboard_time": 1768089199,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74701,
+        "num": 74701,
+        "word": "上海2000平的豪华别墅",
+        "onboard_time": 1768091180,
+        "rank": 35,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 40524,
+        "num": 73182,
+        "word": "美国一男子枪杀6人",
+        "onboard_time": 1768099459,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 72716,
+        "num": 72716,
+        "word": "毕业15年小伙救了同班同学的孩子",
+        "onboard_time": 1768098920,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71699,
+        "num": 71699,
+        "word": "内娱需要这样养眼的古装扮相",
+        "onboard_time": 1768099459,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38008,
+        "num": 70788,
+        "word": "刘耀文说沙发是师兄在就有的",
+        "onboard_time": 1768098499,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70106,
+        "num": 70106,
+        "word": "天马1000无人运输机成功首飞",
+        "onboard_time": 1768099340,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69503,
+        "num": 69503,
+        "word": "卢昱晓英文台词",
+        "onboard_time": 1768096220,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67968,
+        "num": 67968,
+        "word": "差评率100%的自助餐有多差",
+        "onboard_time": 1768055603,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66780,
+        "num": 66780,
+        "word": "公司的小猫自己学会了开声控门",
+        "onboard_time": 1768095140,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66624,
+        "num": 66624,
+        "word": "柯南近期新兰浓度过高",
+        "onboard_time": 1768099100,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 64389,
+        "num": 64389,
+        "word": "成都地铁回应1人1座设计",
+        "onboard_time": 1768092259,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61170,
+        "num": 61170,
+        "word": "练习3个动作不伤膝盖还减脂",
+        "onboard_time": 1768099340,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 60843,
+        "num": 60843,
+        "word": "快船vs活塞",
+        "onboard_time": 1768099281,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60509,
+        "num": 60509,
+        "word": "李在明称无人机入朝是严重犯罪",
+        "onboard_time": 1768092680,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59934,
+        "num": 59934,
+        "word": "网红回应直播中现抗HIV药物",
+        "onboard_time": 1768098380,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平心中的人民卫士#"
+    }
+  }
+}
