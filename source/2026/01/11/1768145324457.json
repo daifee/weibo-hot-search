@@ -1,0 +1,410 @@
+{
+  "runTime": 1768145324457,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 409206,
+        "num": 1065472,
+        "word": "烟台暴雪下冒烟了",
+        "onboard_time": 1768134981,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341505,
+        "num": 755988,
+        "word": "河南10名干部违规吃喝1人死亡",
+        "onboard_time": 1768138462,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87368,
+        "num": 627653,
+        "word": "这就是现实版的千里江山图吧",
+        "onboard_time": 1768139482,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 254300,
+        "num": 254300,
+        "word": "国乒无缘多哈冠军赛男单决赛",
+        "onboard_time": 1768133660,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225678,
+        "num": 225678,
+        "word": "山东威海下了倾盆大瓢雪",
+        "onboard_time": 1768141522,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217660,
+        "num": 217660,
+        "word": "红果年度短剧投票结果",
+        "onboard_time": 1768142722,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211067,
+        "num": 211067,
+        "word": "一个礼拜掉8斤的食谱",
+        "onboard_time": 1768141643,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 187578,
+        "num": 187578,
+        "word": "车厘子几个J一下看明白了",
+        "onboard_time": 1768133841,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185624,
+        "num": 185624,
+        "word": "家长背婴儿跑步致其脑袋剧烈摇晃",
+        "onboard_time": 1768135341,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62435,
+        "num": 184221,
+        "word": "贪官建周末愉快群捞钱",
+        "onboard_time": 1768144762,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2063784,
+        "num": 179771,
+        "word": "闫学晶发文道歉",
+        "onboard_time": 1768140082,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246186,
+        "num": 177091,
+        "word": "陈哲远 三个人的婚礼有点拥挤",
+        "onboard_time": 1768136122,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212542,
+        "num": 175126,
+        "word": "人参酒里泡3年突然长出绿叶",
+        "onboard_time": 1768139183,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186836,
+        "num": 171179,
+        "word": "穆祉丞高会更新",
+        "onboard_time": 1768143202,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170291,
+        "num": 170291,
+        "word": "老人开飘窗玻璃突然从24楼砸下",
+        "onboard_time": 1768140622,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163845,
+        "num": 163845,
+        "word": "TOP 荣耀之战都不知道怎么输",
+        "onboard_time": 1768144701,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161719,
+        "num": 161719,
+        "word": "华晨宇说不化妆上台值得尊重",
+        "onboard_time": 1768143863,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160478,
+        "num": 160478,
+        "word": "多哈冠军赛",
+        "onboard_time": 1768144522,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151140,
+        "num": 151140,
+        "word": "内娱首个素颜音综舞台出现了",
+        "onboard_time": 1768144161,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43171,
+        "num": 146705,
+        "word": "汕头突发山火暂无人员伤亡",
+        "onboard_time": 1768144881,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 510223,
+        "num": 146470,
+        "word": "闫学晶之子就读中戏新疆班不实",
+        "onboard_time": 1768133361,
+        "rank": 20,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 271738,
+        "num": 145985,
+        "word": "卫健局将调查疑小澈住院记录曝光",
+        "onboard_time": 1768128381,
+        "rank": 21,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 144928,
+        "num": 144928,
+        "word": "林诗栋已连续11个月男单无冠",
+        "onboard_time": 1768137202,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142362,
+        "num": 142362,
+        "word": "发朋友圈前先回复消息",
+        "onboard_time": 1768136961,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149200,
+        "num": 142237,
+        "word": "微博之夜",
+        "onboard_time": 1768144282,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143249,
+        "num": 142223,
+        "word": "早上刷牙的真正目的是清除牙菌斑",
+        "onboard_time": 1768133361,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142066,
+        "num": 142066,
+        "word": "宋威龙 雷霆泳姿",
+        "onboard_time": 1768142123,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128613,
+        "num": 128613,
+        "word": "男子出门打工9个月回家女友怀孕了",
+        "onboard_time": 1768134561,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109380,
+        "num": 109380,
+        "word": "男子网购5斤瓜子收到1斤瓜子皮",
+        "onboard_time": 1768140321,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109272,
+        "num": 109272,
+        "word": "沈梦辰 我内心装满了张凌赫",
+        "onboard_time": 1768141522,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108766,
+        "num": 108766,
+        "word": "iPhone4需求激增近1000%",
+        "onboard_time": 1768117099,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 143279,
+        "num": 108442,
+        "word": "宋威龙工作室好用心",
+        "onboard_time": 1768143743,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107033,
+        "num": 107033,
+        "word": "苏新皓我听到啦",
+        "onboard_time": 1768141282,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103176,
+        "num": 103176,
+        "word": "孙颖莎王楚钦亮相国际乒联百年宣传片",
+        "onboard_time": 1768143322,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283483,
+        "num": 102028,
+        "word": "单依纯 香奈儿",
+        "onboard_time": 1768130661,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302630,
+        "num": 101643,
+        "word": "赵丽颖台词",
+        "onboard_time": 1768131441,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100740,
+        "num": 100740,
+        "word": "河南五名大学教师被处罚",
+        "onboard_time": 1768143023,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415087,
+        "num": 100367,
+        "word": "王玉雯自己P的图",
+        "onboard_time": 1768137202,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147694,
+        "num": 100286,
+        "word": "黄晓明演技",
+        "onboard_time": 1768140203,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 444537,
+        "num": 100158,
+        "word": "刘一诺说和檀健次谈恋爱没给她什么戏",
+        "onboard_time": 1768137622,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99647,
+        "num": 99647,
+        "word": "10人违规吃喝1人死亡9人被处理",
+        "onboard_time": 1768138642,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105041,
+        "num": 98666,
+        "word": "侯明昊 这是能说的话吗",
+        "onboard_time": 1768139122,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96541,
+        "num": 96541,
+        "word": "国乒男队面临的挑战越来越严峻",
+        "onboard_time": 1768142302,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92007,
+        "num": 92007,
+        "word": "张峻豪在看TOP直播",
+        "onboard_time": 1768141103,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89206,
+        "num": 89206,
+        "word": "国产剧拍了弟妹开门我是我弟",
+        "onboard_time": 1768142543,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86581,
+        "num": 86581,
+        "word": "台游客发现大陆与民进党宣传不同",
+        "onboard_time": 1768142423,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97613,
+        "num": 85770,
+        "word": "那英 我上过浪姐你们不懂",
+        "onboard_time": 1768138102,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87308,
+        "num": 85201,
+        "word": "小城大事",
+        "onboard_time": 1768131201,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84364,
+        "num": 84364,
+        "word": "AI沙皇也是平A为主",
+        "onboard_time": 1768141223,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 84781,
+        "num": 83927,
+        "word": "侯明昊出道十周年直播",
+        "onboard_time": 1768135521,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#反腐大片一步不停歇半步不退让#"
+    }
+  }
+}

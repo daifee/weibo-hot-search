@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768142648874,
+  "endTime": 1768145324457,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -899,6 +899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 225678,
+      "num": 225678,
+      "word": "山东威海下了倾盆大瓢雪",
+      "onboard_time": 1768141522,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225520,
       "num": 225520,
       "word": "死了么APP付费人数翻200倍",
@@ -939,6 +947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 217660,
+      "num": 217660,
+      "word": "红果年度短剧投票结果",
+      "onboard_time": 1768142722,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217641,
       "num": 223015,
       "word": "这是真上过大学的",
@@ -971,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212542,
+      "num": 210437,
+      "word": "人参酒里泡3年突然长出绿叶",
+      "onboard_time": 1768139183,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212259,
       "num": 212259,
       "word": "小城大事首日云合",
@@ -995,12 +1019,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 210437,
-      "num": 210437,
-      "word": "人参酒里泡3年突然长出绿叶",
-      "onboard_time": 1768139183,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 211067,
+      "num": 211067,
+      "word": "一个礼拜掉8斤的食谱",
+      "onboard_time": 1768141643,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 207188,
@@ -1145,6 +1169,14 @@
       "onboard_time": 1768114162,
       "rank": 7,
       "category": "美食"
+    },
+    {
+      "raw_hot": 186836,
+      "num": 171179,
+      "word": "穆祉丞高会更新",
+      "onboard_time": 1768143202,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 185852,
@@ -1315,20 +1347,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 170291,
+      "num": 170291,
+      "word": "老人开飘窗玻璃突然从24楼砸下",
+      "onboard_time": 1768140622,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169932,
       "num": 169932,
       "word": "白鹿给呵呵打电话假哭",
       "onboard_time": 1768096761,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169583,
-      "num": 169582,
-      "word": "山东威海下了倾盆大瓢雪",
-      "onboard_time": 1768141522,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168918,
@@ -1363,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163845,
+      "num": 163845,
+      "word": "TOP 荣耀之战都不知道怎么输",
+      "onboard_time": 1768144701,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 163093,
       "num": 133949,
       "word": "Amy姐说林俊杰前任美商很高",
@@ -1395,12 +1435,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161719,
+      "num": 161719,
+      "word": "华晨宇说不化妆上台值得尊重",
+      "onboard_time": 1768143863,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161413,
       "num": 161413,
       "word": "中国科学家发现基因封条",
       "onboard_time": 1768105400,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160478,
+      "num": 160478,
+      "word": "多哈冠军赛",
+      "onboard_time": 1768144522,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 160386,
@@ -1499,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151140,
+      "num": 151140,
+      "word": "内娱首个素颜音综舞台出现了",
+      "onboard_time": 1768144161,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150563,
       "num": 150563,
       "word": "小城大事 经济上行的感觉",
@@ -1507,20 +1571,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150226,
-      "num": 170024,
-      "word": "老人开飘窗玻璃突然从24楼砸下",
-      "onboard_time": 1768140622,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149714,
       "num": 149714,
       "word": "沈梦辰 我内心装满了张凌赫",
       "onboard_time": 1768141522,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149200,
+      "num": 142237,
+      "word": "微博之夜",
+      "onboard_time": 1768144282,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 148741,
@@ -1553,6 +1617,22 @@
       "onboard_time": 1768120221,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143279,
+      "num": 108442,
+      "word": "宋威龙工作室好用心",
+      "onboard_time": 1768143743,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 143249,
+      "num": 164241,
+      "word": "早上刷牙的真正目的是清除牙菌斑",
+      "onboard_time": 1768133361,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 142704,
@@ -1673,14 +1753,6 @@
       "onboard_time": 1768126341,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 129866,
-      "num": 164241,
-      "word": "早上刷牙的真正目的是清除牙菌斑",
-      "onboard_time": 1768133361,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 128715,
@@ -1955,14 +2027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113674,
-      "num": 113674,
-      "word": "一个礼拜掉8斤的食谱",
-      "onboard_time": 1768141643,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 113600,
       "num": 113600,
       "word": "施罗德被禁赛三场",
@@ -2139,6 +2203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103176,
+      "num": 103176,
+      "word": "孙颖莎王楚钦亮相国际乒联百年宣传片",
+      "onboard_time": 1768143322,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103103,
       "num": 133878,
       "word": "死了么APP呼吁关注独居群体",
@@ -2217,6 +2289,14 @@
       "onboard_time": 1768137622,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100740,
+      "num": 100740,
+      "word": "河南五名大学教师被处罚",
+      "onboard_time": 1768143023,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100733,
@@ -2481,6 +2561,14 @@
       "onboard_time": 1768117581,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86581,
+      "num": 99984,
+      "word": "台游客发现大陆与民进党宣传不同",
+      "onboard_time": 1768142423,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86338,
@@ -3051,6 +3139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 62435,
+      "num": 184221,
+      "word": "贪官建周末愉快群捞钱",
+      "onboard_time": 1768144762,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 61872,
       "num": 195664,
       "word": "檀健次镜中万象vlog",
@@ -3251,20 +3347,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 43681,
-      "num": 99984,
-      "word": "台游客发现大陆与民进党宣传不同",
-      "onboard_time": 1768142423,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43673,
       "num": 123479,
       "word": "哭哭马 将错就错",
       "onboard_time": 1768109361,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43171,
+      "num": 146705,
+      "word": "汕头突发山火暂无人员伤亡",
+      "onboard_time": 1768144881,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 42523,
