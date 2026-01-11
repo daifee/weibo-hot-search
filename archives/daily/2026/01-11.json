@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768099509956,
+  "endTime": 1768104928380,
   "band_list": [
     {
       "raw_hot": 2076111,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 778757,
+      "num": 103321,
+      "word": "方圆回应小澈在她家住半个月",
+      "onboard_time": 1768104200,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 686666,
       "num": 196656,
       "word": "王橹杰维权",
@@ -83,12 +91,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 627673,
+      "num": 627673,
+      "word": "老外被中国细糠折服的一天",
+      "onboard_time": 1768102640,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 552604,
       "num": 1088416,
       "word": "河南新蔡通报13岁男生宿舍内死亡",
       "onboard_time": 1768094480,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 552265,
+      "num": 1088362,
+      "word": "唐宫奇案",
+      "onboard_time": 1768097721,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 473457,
@@ -123,11 +147,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 433868,
+      "num": 200425,
+      "word": "岳云鹏回应今年不上春晚",
+      "onboard_time": 1768102758,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 422946,
+      "num": 102360,
+      "word": "学生校内死亡嘴角流液体因法医翻动",
+      "onboard_time": 1768100599,
+      "rank": 22,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 410699,
       "num": 196246,
       "word": "小澈回应抗艾滋药",
       "onboard_time": 1768043901,
       "rank": 24,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 408784,
+      "num": 101491,
+      "word": "小澈脱粉粉丝爆料",
+      "onboard_time": 1768103420,
+      "rank": 23,
       "category": "网红"
     },
     {
@@ -147,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 395328,
+      "num": 395328,
+      "word": "云初令开机",
+      "onboard_time": 1768103540,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 393516,
       "num": 196702,
       "word": "差评率100%的自助餐有多差",
@@ -163,12 +219,28 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 359682,
+      "num": 814876,
+      "word": "成都地铁实现1人1座",
+      "onboard_time": 1768096460,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 336734,
       "num": 222882,
       "word": "死了么app",
       "onboard_time": 1768035741,
       "rank": 14,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 331817,
+      "num": 331817,
+      "word": "朱媛媛抗癌5年拍了5部作品",
+      "onboard_time": 1768100660,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 328307,
@@ -179,12 +251,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 317640,
+      "num": 101087,
+      "word": "张凌赫首个千万赞视频",
+      "onboard_time": 1768104139,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282139,
       "num": 282139,
       "word": "云初令",
       "onboard_time": 1768055483,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 262865,
+      "num": 262865,
+      "word": "死了么APP拟出售10%股份",
+      "onboard_time": 1768103300,
+      "rank": 6,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 238942,
+      "num": 238942,
+      "word": "15年前的iPhone4S开箱",
+      "onboard_time": 1768100660,
+      "rank": 7,
+      "category": "数码"
     },
     {
       "raw_hot": 235610,
@@ -209,14 +305,6 @@
       "onboard_time": 1768059803,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 211624,
-      "num": 200850,
-      "word": "唐宫奇案",
-      "onboard_time": 1768097721,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 196883,
@@ -275,12 +363,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166105,
+      "num": 166104,
+      "word": "卢昱晓拼音组词 黄子韬在拉",
+      "onboard_time": 1768102640,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 161946,
+      "num": 225513,
+      "word": "小狗在跑步机上狂奔主人淡定打电话",
+      "onboard_time": 1768099519,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159503,
       "num": 159503,
       "word": "小城大事杀青16天后朱媛媛离世",
       "onboard_time": 1768086737,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158939,
+      "num": 100541,
+      "word": "委内瑞拉街头现状",
+      "onboard_time": 1768099700,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 157309,
@@ -299,20 +411,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 155788,
-      "num": 198356,
-      "word": "成都地铁实现1人1座",
-      "onboard_time": 1768096460,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154996,
       "num": 196598,
       "word": "鹅妈妈仇人运",
       "onboard_time": 1768054283,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 154957,
+      "num": 98046,
+      "word": "杨丞琳的背不拔罐可惜了",
+      "onboard_time": 1768103420,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 146137,
+      "num": 146137,
+      "word": "谢娜的菜来了",
+      "onboard_time": 1768102939,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 139987,
@@ -339,6 +459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134377,
+      "num": 96884,
+      "word": "电影喜欢上欠欠的你定档",
+      "onboard_time": 1768104139,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 134087,
       "num": 134087,
       "word": "这4种食物会让身体慢性发炎",
@@ -353,6 +481,14 @@
       "onboard_time": 1768046421,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127277,
+      "num": 223015,
+      "word": "这是真上过大学的",
+      "onboard_time": 1768103000,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 123630,
@@ -395,6 +531,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113600,
+      "num": 113600,
+      "word": "施罗德被禁赛三场",
+      "onboard_time": 1768099760,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110607,
+      "num": 96295,
+      "word": "黄晓明从接剧本就在背道歉台词",
+      "onboard_time": 1768104319,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 104315,
+      "num": 104315,
+      "word": "死了么app创始人称已实现盈利",
+      "onboard_time": 1768104560,
+      "rank": 19,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 102619,
       "num": 154740,
       "word": "地震痛失儿女的辅警又有了宝宝",
@@ -408,6 +568,22 @@
       "word": "小城大事热度",
       "onboard_time": 1768046421,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 101440,
+      "num": 101440,
+      "word": "哭哭马",
+      "onboard_time": 1768103961,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101015,
+      "num": 90685,
+      "word": "赵丽颖朱超艺 二搭",
+      "onboard_time": 1768101261,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -425,6 +601,30 @@
       "onboard_time": 1768059083,
       "rank": 25,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 96377,
+      "num": 96377,
+      "word": "苏翊鸣世界杯亚军",
+      "onboard_time": 1768100180,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95727,
+      "num": 95727,
+      "word": "樊振东德甲赛程预告",
+      "onboard_time": 1768104139,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 94259,
+      "num": 90541,
+      "word": "侯明昊我从寒武纪就上桌了",
+      "onboard_time": 1768104261,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 93136,
@@ -451,6 +651,38 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90958,
+      "num": 99063,
+      "word": "南昌警方通报男子用水果刀划伤女子",
+      "onboard_time": 1768101140,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 90941,
+      "num": 90941,
+      "word": "在家猫丢了都没人发现",
+      "onboard_time": 1768104200,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 90103,
+      "num": 90103,
+      "word": "一个早生贵己一个老来得己",
+      "onboard_time": 1768100240,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 88358,
+      "num": 88358,
+      "word": "王玉雯维护化妆师",
+      "onboard_time": 1768101381,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86338,
       "num": 151338,
       "word": "美国为啥一直在要格陵兰岛",
@@ -459,12 +691,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 86266,
+      "num": 90146,
+      "word": "詹姆斯晒照上篮被打手",
+      "onboard_time": 1768104498,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 86035,
+      "num": 86035,
+      "word": "小乔线条小狗太香了",
+      "onboard_time": 1768104680,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 81217,
       "num": 81217,
       "word": "卢昱晓英文台词",
       "onboard_time": 1768096220,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81131,
+      "num": 81131,
+      "word": "戒奶茶快成功了",
+      "onboard_time": 1768095620,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 80542,
@@ -491,12 +747,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 80363,
-      "num": 80363,
-      "word": "戒奶茶快成功了",
-      "onboard_time": 1768095620,
-      "rank": 36,
-      "category": "情感"
+      "raw_hot": 80379,
+      "num": 80379,
+      "word": "5米长牛肉串3米高糖葫芦树惊现内蒙古",
+      "onboard_time": 1768104860,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 80237,
@@ -545,6 +801,14 @@
       "onboard_time": 1768059083,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77126,
+      "num": 629756,
+      "word": "中国扫地机器人扫全球",
+      "onboard_time": 1768101981,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 76825,
@@ -1025,6 +1289,9 @@
     },
     {
       "word": "#习近平心中的人民卫士#"
+    },
+    {
+      "word": "#领悟总书记全面从严治党之喻#"
     }
   ]
 }
