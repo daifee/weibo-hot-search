@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768131583749,
+  "endTime": 1768136108615,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -187,12 +187,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1752409,
+      "num": 101133,
+      "word": "疑似小澈P图编码",
+      "onboard_time": 1768131560,
+      "rank": 48,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1631134,
       "num": 272735,
       "word": "汉堡王崩了",
       "onboard_time": 1767493042,
       "rank": 10,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1565901,
+      "num": 1565901,
+      "word": "霍启刚首公开个人财产",
+      "onboard_time": 1768134622,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1563752,
@@ -1371,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 680805,
+      "num": 180998,
+      "word": "单依纯 香奈儿",
+      "onboard_time": 1768130661,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 679440,
       "num": 260769,
       "word": "女子哭诉带2岁儿子去女浴室遭拒",
@@ -1420,7 +1444,7 @@
     },
     {
       "raw_hot": 673583,
-      "num": 156674,
+      "num": 159230,
       "word": "演员夫妻回应撞死人后拉黑遗属",
       "onboard_time": 1768123040,
       "rank": 32,
@@ -1627,6 +1651,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 627078,
+      "num": 169838,
+      "word": "拍婚纱照偶遇陈哲远后续",
+      "onboard_time": 1768133960,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 624910,
       "num": 1405221,
       "word": "不要回头",
@@ -1771,6 +1803,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 600605,
+      "num": 600605,
+      "word": "赵丽颖台词",
+      "onboard_time": 1768131441,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 599176,
       "num": 904079,
       "word": "杨某人抽奖",
@@ -1889,6 +1929,14 @@
       "onboard_time": 1767680901,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 578875,
+      "num": 912806,
+      "word": "国乒无缘多哈冠军赛男单决赛",
+      "onboard_time": 1768133660,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 578847,
@@ -2195,6 +2243,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 543048,
+      "num": 120651,
+      "word": "闫学晶之子就读中戏新疆班不实",
+      "onboard_time": 1768133361,
+      "rank": 20,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 542486,
       "num": 1086797,
       "word": "台湾网红馆长以恐吓罪被起诉",
@@ -2345,62 +2401,6 @@
       "onboard_time": 1767431544,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 528286,
-      "num": 528286,
-      "word": "黄子韬哭了",
-      "onboard_time": 1767514523,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 528076,
-      "num": 267264,
-      "word": "王安宇狂流官宣",
-      "onboard_time": 1767932362,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 527938,
-      "num": 238510,
-      "word": "再见爱人5全员下车",
-      "onboard_time": 1767857421,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 527882,
-      "num": 450528,
-      "word": "日本流行梅毒妆",
-      "onboard_time": 1767702023,
-      "rank": 21,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 527186,
-      "num": 249693,
-      "word": "2025年度最扑剧集",
-      "onboard_time": 1767704303,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 526876,
-      "num": 1710743,
-      "word": "美军为何突然袭击委内瑞拉",
-      "onboard_time": 1767432264,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 525767,
-      "num": 503276,
-      "word": "厚底鞋",
-      "onboard_time": 1767784464,
-      "rank": 8,
-      "category": "时尚"
     }
   ],
   "hotgov_list": [
