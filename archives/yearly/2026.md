@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/12 12:36:46
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/12 13:37:50
 </p>
 </blockquote>
 <p>
@@ -479,6 +479,12 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%A7%E6%88%8F%23" target="weibo">
 轧戏（热度：999982）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%97%9E%E5%B9%BC%E4%B8%8A%E6%81%8B%E7%BB%BC%E8%BF%9B%E5%8C%BB%E9%99%A2%23" target="weibo">
+痞幼上恋综进医院（热度：996957）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ iPhoneFold上手（热度：543056）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E4%BD%B3%E8%8E%B9%20%E6%88%91%E8%A6%81%E5%86%8D%E7%94%9F%E4%B8%80%E4%B8%AA%23" target="weibo">
 徐佳莹 我要再生一个（热度：538152）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E7%BB%93%E5%A9%9A%E5%BD%93%E6%97%A5%E5%9D%A0%E6%A5%BC%E8%83%8C%E5%90%8E%23" target="weibo">
-女教师结婚当日坠楼背后（热度：536306）
 </a>
 </li>
 

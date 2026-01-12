@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768192606838,
+  "endTime": 1768196270175,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 1268140,
-      "num": 508326,
+      "num": 515703,
       "word": "这居然是陈梦",
       "onboard_time": 1768188260,
       "rank": 5,
@@ -625,6 +625,14 @@
       "onboard_time": 1767496704,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 996957,
+      "num": 585588,
+      "word": "痞幼上恋综进医院",
+      "onboard_time": 1768194860,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 987620,
@@ -3251,6 +3259,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 473839,
+      "num": 473839,
+      "word": "日本第一代不婚族开始后悔了",
+      "onboard_time": 1768190660,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 473602,
       "num": 473602,
       "word": "小城大事收视",
@@ -4412,7 +4428,7 @@
     },
     {
       "raw_hot": 387527,
-      "num": 593660,
+      "num": 1059458,
       "word": "初中生网购疑似侵华日军信件",
       "onboard_time": 1768188141,
       "rank": 4,
@@ -5097,6 +5113,14 @@
       "onboard_time": 1767428064,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 351463,
+      "num": 230735,
+      "word": "单依纯官宣香奈儿",
+      "onboard_time": 1768184659,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 351369,
@@ -6377,6 +6401,14 @@
       "onboard_time": 1768183278,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296083,
+      "num": 531629,
+      "word": "用户与AI聊黄开发者获刑",
+      "onboard_time": 1768190541,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 295883,
@@ -7667,14 +7699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 254319,
-      "num": 230735,
-      "word": "单依纯官宣香奈儿",
-      "onboard_time": 1768184659,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 254318,
       "num": 209681,
       "word": "骄阳似我最后一集弹幕",
@@ -7795,6 +7819,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 249741,
+      "num": 745817,
+      "word": "威海暴雪",
+      "onboard_time": 1768194381,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 249594,
       "num": 606638,
       "word": "保时捷文案",
@@ -7873,6 +7905,14 @@
       "onboard_time": 1767460877,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 248086,
+      "num": 248086,
+      "word": "社保工作人员骗养老金多少蛀虫待清理",
+      "onboard_time": 1768192101,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247621,
@@ -8259,14 +8299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233070,
-      "num": 233070,
-      "word": "用户与AI聊黄开发者获刑",
-      "onboard_time": 1768190541,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 232456,
       "num": 1005637,
       "word": "吃凉拌菜也减不了肥的原因",
@@ -8505,6 +8537,14 @@
       "onboard_time": 1767615200,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 226692,
+      "num": 226692,
+      "word": "河南省考 进不去",
+      "onboard_time": 1768190241,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 226652,
@@ -8843,6 +8883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 220285,
+      "num": 220285,
+      "word": "美人余有易梦玲",
+      "onboard_time": 1768194262,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220240,
       "num": 220240,
       "word": "孙颖莎韩莹交手记录",
@@ -9065,14 +9113,6 @@
       "onboard_time": 1767357261,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 215189,
-      "num": 215189,
-      "word": "日本第一代不婚族开始后悔了",
-      "onboard_time": 1768190660,
-      "rank": 33,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 214873,
@@ -11171,6 +11211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 184057,
+      "num": 184057,
+      "word": "虞书欣碎镜海报",
+      "onboard_time": 1768192882,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184051,
       "num": 184051,
       "word": "委内瑞拉外长感谢中国政府支持",
@@ -11457,6 +11505,14 @@
       "onboard_time": 1767528444,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180685,
+      "num": 180685,
+      "word": "我是谢娜 你现在必须去上学",
+      "onboard_time": 1768195881,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 180638,
@@ -12331,6 +12387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 169014,
+      "num": 169014,
+      "word": "戚薇发量",
+      "onboard_time": 1768194980,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168997,
       "num": 107347,
       "word": "王腾团队核心来自小米华为等大厂",
@@ -12539,6 +12603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167115,
+      "num": 167115,
+      "word": "于正3个月瘦了30斤减肥心得",
+      "onboard_time": 1768190361,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166857,
       "num": 827051,
       "word": "玉兰花开君再来",
@@ -12745,6 +12817,14 @@
       "onboard_time": 1767795745,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165094,
+      "num": 165094,
+      "word": "死了么APP创始人称没想到这么火",
+      "onboard_time": 1768195761,
+      "rank": 23,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 165029,
@@ -14139,14 +14219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149967,
-      "num": 164457,
-      "word": "社保工作人员骗养老金多少蛀虫待清理",
-      "onboard_time": 1768192101,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149958,
       "num": 486388,
       "word": "原来Safari才是iPhone隐藏的资源大户",
@@ -14723,6 +14795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144961,
+      "num": 144961,
+      "word": "最佳睡眠到底是几个小时",
+      "onboard_time": 1768190060,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144925,
       "num": 142529,
       "word": "dora退出3unshine",
@@ -15233,6 +15313,14 @@
       "onboard_time": 1768192461,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 140878,
+      "num": 140878,
+      "word": "轧戏微博追剧团",
+      "onboard_time": 1768194680,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 140693,
@@ -15947,6 +16035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135514,
+      "num": 128136,
+      "word": "全红婵肉眼可见的瘦了",
+      "onboard_time": 1768192581,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135427,
       "num": 132585,
       "word": "郑钦文期待满血重返赛场",
@@ -16008,6 +16104,14 @@
       "word": "钱芳萍 清醒的不独立女性",
       "onboard_time": 1767770540,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 135304,
+      "num": 128281,
+      "word": "李现一如既往的稳定输出",
+      "onboard_time": 1768195041,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -16587,14 +16691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130781,
-      "num": 130781,
-      "word": "于正3个月瘦了30斤减肥心得",
-      "onboard_time": 1768190361,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130776,
       "num": 130776,
       "word": "我要再玩100年英雄联盟",
@@ -17065,6 +17161,14 @@
       "onboard_time": 1767661520,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127780,
+      "num": 127780,
+      "word": "呆呆杀猪",
+      "onboard_time": 1768195101,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127778,
@@ -17801,6 +17905,14 @@
       "onboard_time": 1767264980,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123437,
+      "num": 128519,
+      "word": "俄罗斯回应绑架普京言论",
+      "onboard_time": 1768192101,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 123432,
@@ -18675,6 +18787,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 118767,
+      "num": 118767,
+      "word": "横店群演12天挣了1721元",
+      "onboard_time": 1768194140,
+      "rank": 33,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 118742,
       "num": 118742,
       "word": "涉事医院回应新生儿被剪断手指",
@@ -19035,6 +19155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 116466,
+      "num": 116466,
+      "word": "河南省考报名",
+      "onboard_time": 1768189461,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 116464,
       "num": 116464,
       "word": "DNF打团热身神曲来了",
@@ -19083,6 +19211,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 116175,
+      "num": 116175,
+      "word": "深圳市民投诉网格员深夜入户检查",
+      "onboard_time": 1768195220,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116111,
+      "num": 116111,
+      "word": "宋威龙 苦了自己也不能苦别人",
+      "onboard_time": 1768191561,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115942,
       "num": 114183,
       "word": "哺乳期妈妈打玻尿酸致单眼失明",
@@ -19121,14 +19265,6 @@
       "onboard_time": 1768113081,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 115693,
-      "num": 115693,
-      "word": "河南省考 进不去",
-      "onboard_time": 1768190241,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 115689,
@@ -19513,14 +19649,6 @@
       "onboard_time": 1767222556,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114024,
-      "num": 128519,
-      "word": "俄罗斯回应绑架普京言论",
-      "onboard_time": 1768192101,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 113916,
@@ -19939,6 +20067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111909,
+      "num": 111909,
+      "word": "装着装着就变成真的了",
+      "onboard_time": 1768194801,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111905,
       "num": 111905,
       "word": "雷军说被黑出了心理阴影",
@@ -20241,14 +20377,6 @@
       "onboard_time": 1768057102,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109787,
-      "num": 109787,
-      "word": "宋威龙 苦了自己也不能苦别人",
-      "onboard_time": 1768191561,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 109712,
@@ -20889,6 +21017,14 @@
       "onboard_time": 1768185019,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 106207,
+      "num": 106207,
+      "word": "低温烫伤后不要冰敷",
+      "onboard_time": 1768195820,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 106169,
@@ -21745,6 +21881,14 @@
       "onboard_time": 1767828799,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 102903,
+      "num": 102903,
+      "word": "官方回应女子喊网友杀猪来了上千人",
+      "onboard_time": 1768195999,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102798,
@@ -23843,14 +23987,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 95053,
-      "num": 95053,
-      "word": "全红婵肉眼可见的瘦了",
-      "onboard_time": 1768192581,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95041,
       "num": 95041,
       "word": "樊振东肚子露出来了立刻遮住",
@@ -24297,6 +24433,14 @@
       "onboard_time": 1767362542,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 93382,
+      "num": 93382,
+      "word": "iPhone锁屏被玩明白了",
+      "onboard_time": 1768192761,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 93372,
@@ -25259,6 +25403,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 89580,
+      "num": 89580,
+      "word": "特朗普1周2次嘲讽格陵兰岛",
+      "onboard_time": 1768195702,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 89572,
       "num": 89572,
       "word": "美国人民不想要另一场战争",
@@ -25417,6 +25569,14 @@
       "onboard_time": 1767239181,
       "rank": 36,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 88680,
+      "num": 88680,
+      "word": "主人不在家 我下地嘎油嘎油",
+      "onboard_time": 1768196241,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 88659,
@@ -26241,6 +26401,14 @@
       "onboard_time": 1767943340,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86038,
+      "num": 86038,
+      "word": "林允 古装仪态",
+      "onboard_time": 1768196241,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 86035,
@@ -28659,6 +28827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75237,
+      "num": 115066,
+      "word": "陈梦小城大事拿菜刀打球",
+      "onboard_time": 1768196181,
+      "rank": 37,
+      "category": "剧集,体育"
+    },
+    {
       "raw_hot": 75219,
       "num": 1641542,
       "word": "期待郑钦文2026年首秀",
@@ -29352,6 +29528,14 @@
       "word": "林屿森被盛家当众欺负",
       "onboard_time": 1767309556,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 71300,
+      "num": 114769,
+      "word": "赵丽颖演技",
+      "onboard_time": 1768196181,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -31632,6 +31816,14 @@
       "word": "2026的第一份幸运是零点同框",
       "onboard_time": 1767261859,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56614,
+      "num": 114658,
+      "word": "女医学生边上学边创业却遭前任杀害",
+      "onboard_time": 1768195401,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -35401,6 +35593,14 @@
       "onboard_time": 1767891619,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27563,
+      "num": 169305,
+      "word": "特朗普称对美联储主席被查一无所知",
+      "onboard_time": 1768195401,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 27487,
