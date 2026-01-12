@@ -1,6 +1,6 @@
 {
   "startTime": 1768235820030,
-  "endTime": 1768250065600,
+  "endTime": 1768250872692,
   "band_list": [
     {
       "raw_hot": 757152,
@@ -531,20 +531,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 10647,
-      "num": 14897,
+      "raw_hot": 11467,
+      "num": 18227,
+      "word": "轧戏设定",
+      "onboard_time": 1768249394,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 10811,
+      "num": 18222,
       "word": "秦志戬曾任马龙许昕主管教练",
       "onboard_time": 1768248434,
       "rank": 46,
       "category": "体育"
     },
     {
-      "raw_hot": 10514,
-      "num": 14897,
-      "word": "轧戏设定",
-      "onboard_time": 1768249394,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 10618,
+      "num": 18220,
+      "word": "村委回应呆呆家杀猪宴最后一天",
+      "onboard_time": 1768248914,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 3422,
