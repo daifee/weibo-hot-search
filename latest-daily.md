@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/13 00:37:00 ~ 2026/01/13 05:44:09
+本榜单时间：2026/01/13 00:37:00 ~ 2026/01/13 06:26:56
 </p>
 </blockquote>
 <p>
@@ -135,6 +135,12 @@ A股涨疯了一天创2项纪录（热度：138632）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E9%BD%90%E5%A4%8F%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86%23" target="weibo">
+肖战齐夏真的要来了（热度：103150）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%86%E5%91%861%E5%88%86%E9%92%9F%E8%A7%86%E9%A2%91%E6%8A%A5%E4%BB%B72400%E5%85%83%23" target="weibo">
 呆呆1分钟视频报价2400元（热度：100879）
 </a>
@@ -201,8 +207,8 @@ A股涨疯了一天创2项纪录（热度：138632）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E9%BD%90%E5%A4%8F%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86%23" target="weibo">
-肖战齐夏真的要来了（热度：74394）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%B5%B7%E8%88%AA%E6%97%97%E4%B8%8B%E9%A3%9E%E6%9C%BA%E5%87%A0%E4%B9%8E%E6%88%90%E8%90%BD%E9%A9%AC%E5%AE%98%E5%91%98%E7%A7%81%E4%BA%BA%E4%B8%93%E7%94%A8%23" target="weibo">
+原海航旗下飞机几乎成落马官员私人专用（热度：80934）
 </a>
 </li>
 
@@ -327,12 +333,6 @@ A股涨疯了一天创2项纪录（热度：138632）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%B5%B7%E8%88%AA%E6%97%97%E4%B8%8B%E9%A3%9E%E6%9C%BA%E5%87%A0%E4%B9%8E%E6%88%90%E8%90%BD%E9%A9%AC%E5%AE%98%E5%91%98%E7%A7%81%E4%BA%BA%E4%B8%93%E7%94%A8%23" target="weibo">
-原海航旗下飞机几乎成落马官员私人专用（热度：47910）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%A7%E6%88%8F%20%E7%8C%AB%E7%9A%84%E6%A0%91%23" target="weibo">
 轧戏 猫的树（热度：44143）
 </a>
@@ -345,14 +345,14 @@ A股涨疯了一天创2项纪录（热度：138632）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%9C%BA%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E6%B4%97%E6%89%8B%E5%8F%B0%E9%85%B7%E4%BC%BC%E5%B0%8F%E4%BE%BF%E6%B1%A0%23" target="weibo">
-商场客服回应洗手台酷似小便池（热度：39775）
+<a href="https://s.weibo.com/weibo?q=%239%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%B8%A6%E4%BC%A4%E6%99%9A%E4%B8%8A%E5%9C%A8%E9%AB%98%E9%80%9F%E8%A1%8C%E8%B5%B0%23" target="weibo">
+9岁男孩被发现带伤晚上在高速行走（热度：41305）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%239%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%B8%A6%E4%BC%A4%E6%99%9A%E4%B8%8A%E5%9C%A8%E9%AB%98%E9%80%9F%E8%A1%8C%E8%B5%B0%23" target="weibo">
-9岁男孩被发现带伤晚上在高速行走（热度：38834）
+<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%9C%BA%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E6%B4%97%E6%89%8B%E5%8F%B0%E9%85%B7%E4%BC%BC%E5%B0%8F%E4%BE%BF%E6%B1%A0%23" target="weibo">
+商场客服回应洗手台酷似小便池（热度：39775）
 </a>
 </li>
 
@@ -393,6 +393,18 @@ A股涨疯了一天创2项纪录（热度：138632）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%9F%E5%BE%85%E8%82%96%E6%88%98%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%23" target="weibo">
+期待肖战小城良方（热度：22998）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A8%81%E9%BE%99%E8%B5%B5%E4%BB%8A%E9%BA%A6%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%E7%9A%84%E5%94%AE%E5%90%8E%23" target="weibo">
+宋威龙赵今麦骄阳似我的售后（热度：21020）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%90%AF2026%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB%23" target="weibo">
 开启2026美好生活（热度：18754）
 </a>
@@ -406,19 +418,13 @@ A股涨疯了一天创2项纪录（热度：138632）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%91%E5%A7%94%E5%9B%9E%E5%BA%94%E5%91%86%E5%91%86%E5%AE%B6%E6%9D%80%E7%8C%AA%E5%AE%B4%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9%23" target="weibo">
-村委回应呆呆家杀猪宴最后一天（热度：14530）
+村委回应呆呆家杀猪宴最后一天（热度：14726）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%BF%97%E6%88%AC%E6%9B%BE%E4%BB%BB%E9%A9%AC%E9%BE%99%E8%AE%B8%E6%98%95%E4%B8%BB%E7%AE%A1%E6%95%99%E7%BB%83%23" target="weibo">
 秦志戬曾任马龙许昕主管教练（热度：12478）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A8%81%E9%BE%99%E8%B5%B5%E4%BB%8A%E9%BA%A6%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%E7%9A%84%E5%94%AE%E5%90%8E%23" target="weibo">
-宋威龙赵今麦骄阳似我的售后（热度：12103）
 </a>
 </li>
 
@@ -436,7 +442,7 @@ A股涨疯了一天创2项纪录（热度：138632）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%94%E6%BB%A8%E7%9A%84%E9%A3%8E%E5%90%B9%E5%88%B0%E4%B8%9C%E5%8D%97%E4%BA%9A%E4%BA%86%23" target="weibo">
-尔滨的风吹到东南亚了（热度：3729）
+尔滨的风吹到东南亚了（热度：5483）
 </a>
 </li>
 
