@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/13 00:37:00 ~ 2026/01/13 06:26:56
+本榜单时间：2026/01/13 00:37:00 ~ 2026/01/13 06:44:57
 </p>
 </blockquote>
 <p>
@@ -87,6 +87,12 @@ iPhone相册自带手写体（热度：262082）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E9%BD%90%E5%A4%8F%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86%23" target="weibo">
+肖战齐夏真的要来了（热度：160504）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%88%E5%A4%AB%E5%87%BA%E5%B7%AE%E7%94%B7%E5%AD%90%E8%B7%A8%E5%9F%8E%E7%BA%A6%E9%85%92%E5%BC%BA%E5%A5%B8%E6%9C%AA%E9%81%82%23" target="weibo">
 女子丈夫出差男子跨城约酒强奸未遂（热度：144082）
 </a>
@@ -129,14 +135,14 @@ A股涨疯了一天创2项纪录（热度：138632）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%88%E5%B7%9D%E6%96%87%E6%97%85%E7%A7%B0%E6%9D%80%E7%8C%AA%E5%AE%B4%E6%98%AF%E5%91%86%E5%91%86%E7%A7%81%E4%BA%BA%E5%8F%91%E8%B5%B7%23" target="weibo">
-合川文旅称杀猪宴是呆呆私人发起（热度：109647）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%B5%B7%E8%88%AA%E6%97%97%E4%B8%8B%E9%A3%9E%E6%9C%BA%E5%87%A0%E4%B9%8E%E6%88%90%E8%90%BD%E9%A9%AC%E5%AE%98%E5%91%98%E7%A7%81%E4%BA%BA%E4%B8%93%E7%94%A8%23" target="weibo">
+原海航旗下飞机几乎成落马官员私人专用（热度：113655）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E9%BD%90%E5%A4%8F%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86%23" target="weibo">
-肖战齐夏真的要来了（热度：103150）
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%88%E5%B7%9D%E6%96%87%E6%97%85%E7%A7%B0%E6%9D%80%E7%8C%AA%E5%AE%B4%E6%98%AF%E5%91%86%E5%91%86%E7%A7%81%E4%BA%BA%E5%8F%91%E8%B5%B7%23" target="weibo">
+合川文旅称杀猪宴是呆呆私人发起（热度：109647）
 </a>
 </li>
 
@@ -203,12 +209,6 @@ A股涨疯了一天创2项纪录（热度：138632）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%96%B0%E7%9A%93%20%E6%88%91%E4%BB%AC%E4%BC%9A%E4%B8%80%E7%9B%B4%E5%9C%A8%E4%B8%80%E8%B5%B7%E7%9A%84%23" target="weibo">
 苏新皓 我们会一直在一起的（热度：82392）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%B5%B7%E8%88%AA%E6%97%97%E4%B8%8B%E9%A3%9E%E6%9C%BA%E5%87%A0%E4%B9%8E%E6%88%90%E8%90%BD%E9%A9%AC%E5%AE%98%E5%91%98%E7%A7%81%E4%BA%BA%E4%B8%93%E7%94%A8%23" target="weibo">
-原海航旗下飞机几乎成落马官员私人专用（热度：80934）
 </a>
 </li>
 
@@ -285,6 +285,12 @@ A股涨疯了一天创2项纪录（热度：138632）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%239%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%B8%A6%E4%BC%A4%E6%99%9A%E4%B8%8A%E5%9C%A8%E9%AB%98%E9%80%9F%E8%A1%8C%E8%B5%B0%23" target="weibo">
+9岁男孩被发现带伤晚上在高速行走（热度：57652）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%23" target="weibo">
 第五人格（热度：56336）
 </a>
@@ -345,12 +351,6 @@ A股涨疯了一天创2项纪录（热度：138632）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%239%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%B8%A6%E4%BC%A4%E6%99%9A%E4%B8%8A%E5%9C%A8%E9%AB%98%E9%80%9F%E8%A1%8C%E8%B5%B0%23" target="weibo">
-9岁男孩被发现带伤晚上在高速行走（热度：41305）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%9C%BA%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E6%B4%97%E6%89%8B%E5%8F%B0%E9%85%B7%E4%BC%BC%E5%B0%8F%E4%BE%BF%E6%B1%A0%23" target="weibo">
 商场客服回应洗手台酷似小便池（热度：39775）
 </a>
@@ -371,6 +371,12 @@ A股涨疯了一天创2项纪录（热度：138632）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E5%92%8C%E7%B2%89%E4%B8%9D%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E7%9A%84%E7%88%B1%23" target="weibo">
 侯明昊和粉丝双向奔赴的爱（热度：28112）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A8%81%E9%BE%99%E8%B5%B5%E4%BB%8A%E9%BA%A6%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%E7%9A%84%E5%94%AE%E5%90%8E%23" target="weibo">
+宋威龙赵今麦骄阳似我的售后（热度：27705）
 </a>
 </li>
 
@@ -399,12 +405,6 @@ A股涨疯了一天创2项纪录（热度：138632）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A8%81%E9%BE%99%E8%B5%B5%E4%BB%8A%E9%BA%A6%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%E7%9A%84%E5%94%AE%E5%90%8E%23" target="weibo">
-宋威龙赵今麦骄阳似我的售后（热度：21020）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%90%AF2026%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB%23" target="weibo">
 开启2026美好生活（热度：18754）
 </a>
@@ -418,7 +418,7 @@ A股涨疯了一天创2项纪录（热度：138632）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%91%E5%A7%94%E5%9B%9E%E5%BA%94%E5%91%86%E5%91%86%E5%AE%B6%E6%9D%80%E7%8C%AA%E5%AE%B4%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9%23" target="weibo">
-村委回应呆呆家杀猪宴最后一天（热度：14726）
+村委回应呆呆家杀猪宴最后一天（热度：15537）
 </a>
 </li>
 
@@ -442,7 +442,7 @@ A股涨疯了一天创2项纪录（热度：138632）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%94%E6%BB%A8%E7%9A%84%E9%A3%8E%E5%90%B9%E5%88%B0%E4%B8%9C%E5%8D%97%E4%BA%9A%E4%BA%86%23" target="weibo">
-尔滨的风吹到东南亚了（热度：5483）
+尔滨的风吹到东南亚了（热度：7249）
 </a>
 </li>
 
