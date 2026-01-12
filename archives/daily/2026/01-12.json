@@ -1,6 +1,6 @@
 {
   "startTime": 1768149237092,
-  "endTime": 1768200504600,
+  "endTime": 1768201330900,
   "band_list": [
     {
       "raw_hot": 2692974,
@@ -83,6 +83,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 592079,
+      "num": 182278,
+      "word": "闫学晶儿子说对不起",
+      "onboard_time": 1768199422,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 589158,
+      "num": 1094265,
+      "word": "河南省考 进不去",
+      "onboard_time": 1768190241,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 576109,
       "num": 122528,
       "word": "闫学晶说讨厌下意识露出轻视的自己",
@@ -97,14 +113,6 @@
       "onboard_time": 1768195881,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 521712,
-      "num": 1083474,
-      "word": "河南省考 进不去",
-      "onboard_time": 1768190241,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 503313,
@@ -179,14 +187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 412749,
-      "num": 182278,
-      "word": "闫学晶儿子说对不起",
-      "onboard_time": 1768199422,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 410777,
       "num": 454895,
       "word": "A股",
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 368013,
+      "num": 799304,
+      "word": "河南省考",
+      "onboard_time": 1768198941,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 360025,
       "num": 1057604,
       "word": "央视播出养老金贪污案细节",
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 354680,
-      "num": 265493,
+      "num": 337932,
       "word": "呆呆杀猪",
       "onboard_time": 1768195101,
       "rank": 31,
@@ -275,6 +283,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 325824,
+      "num": 325824,
+      "word": "娇兰活动",
+      "onboard_time": 1768198819,
+      "rank": 6,
+      "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 322100,
+      "num": 322100,
+      "word": "100%食用率水果",
+      "onboard_time": 1768198041,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 319699,
       "num": 227671,
       "word": "左眼跳财右眼跳相信科学",
@@ -299,14 +323,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 299234,
-      "num": 778074,
-      "word": "河南省考",
-      "onboard_time": 1768198941,
-      "rank": 1,
-      "category": "教育"
-    },
-    {
       "raw_hot": 296124,
       "num": 157372,
       "word": "闫学晶给所有公众人物敲响警钟",
@@ -323,20 +339,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 284148,
+      "num": 338223,
+      "word": "卢昱晓线下美成这样了",
+      "onboard_time": 1768196542,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 278890,
       "num": 148884,
       "word": "单依纯代言香奈儿",
       "onboard_time": 1768184659,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 276265,
-      "num": 276265,
-      "word": "卢昱晓线下美成这样了",
-      "onboard_time": 1768196542,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 276178,
@@ -377,14 +393,6 @@
       "onboard_time": 1768173858,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 251800,
-      "num": 251800,
-      "word": "娇兰活动",
-      "onboard_time": 1768198819,
-      "rank": 6,
-      "category": "美妆,艺人"
     },
     {
       "raw_hot": 248086,
@@ -491,14 +499,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 208985,
-      "num": 208985,
-      "word": "100%食用率水果",
-      "onboard_time": 1768198041,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
       "raw_hot": 208286,
       "num": 601739,
       "word": "国乒无缘多哈冠军赛男单决赛",
@@ -571,6 +571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 180144,
+      "num": 160399,
+      "word": "小英两胎顺产都没打无痛",
+      "onboard_time": 1768199899,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 178149,
       "num": 178149,
       "word": "九万已经可以首付买房了",
@@ -579,19 +587,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177467,
+      "num": 177467,
+      "word": "黄晓明18年前闹太套18年后里头门",
+      "onboard_time": 1768198521,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173835,
       "num": 173835,
       "word": "宋威龙工作室好用心",
       "onboard_time": 1768143743,
       "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 171460,
-      "num": 171460,
-      "word": "黄晓明18年前闹太套18年后里头门",
-      "onboard_time": 1768198521,
-      "rank": 17,
       "category": "剧集"
     },
     {
@@ -667,14 +675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160399,
-      "num": 160399,
-      "word": "小英两胎顺产都没打无痛",
-      "onboard_time": 1768199899,
-      "rank": 22,
-      "category": "网红"
-    },
-    {
       "raw_hot": 159686,
       "num": 166978,
       "word": "山东威海下了倾盆大瓢雪",
@@ -707,6 +707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155544,
+      "num": 155544,
+      "word": "肯德基品牌代言人孙颖莎",
+      "onboard_time": 1768201100,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154861,
       "num": 164419,
       "word": "陈楚生 跟香港的哥哥都要唱两遍",
@@ -737,6 +745,14 @@
       "onboard_time": 1768199241,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 149669,
+      "num": 149669,
+      "word": "河南省考报名",
+      "onboard_time": 1768189461,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 146052,
@@ -796,11 +812,19 @@
     },
     {
       "raw_hot": 137452,
-      "num": 113896,
+      "num": 127242,
       "word": "孙颖莎王曼昱打破女队发展模式",
       "onboard_time": 1768200200,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135767,
+      "num": 648495,
+      "word": "海南离岛免税7天卖了12个亿",
+      "onboard_time": 1768198460,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135514,
@@ -825,14 +849,6 @@
       "onboard_time": 1768191021,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 132186,
-      "num": 648495,
-      "word": "海南离岛免税7天卖了12个亿",
-      "onboard_time": 1768198460,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130775,
@@ -889,14 +905,6 @@
       "onboard_time": 1768192101,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 122707,
-      "num": 122707,
-      "word": "河南省考报名",
-      "onboard_time": 1768189461,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 120865,
@@ -1035,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110047,
+      "num": 110047,
+      "word": "恋综心眼最多的男嘉宾出现了",
+      "onboard_time": 1768200019,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108513,
       "num": 108513,
       "word": "陈星旭卢昱晓连黑历史都是高清的",
@@ -1043,8 +1059,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107369,
-      "num": 107369,
+      "raw_hot": 108469,
+      "num": 108060,
       "word": "宋祖儿入局杀青",
       "onboard_time": 1768199059,
       "rank": 35,
@@ -1171,6 +1187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101092,
+      "num": 101092,
+      "word": "违规穿越鳌太线5人因分歧拆成3股",
+      "onboard_time": 1768200741,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100993,
       "num": 100993,
       "word": "地下车库氡气为1类致癌物",
@@ -1227,6 +1251,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97522,
+      "num": 97522,
+      "word": "李莎旻子被华晨宇的不重逢击中了",
+      "onboard_time": 1768200980,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 96429,
+      "num": 96429,
+      "word": "追觅CEO称打造首个百万亿美金生态",
+      "onboard_time": 1768200080,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 96246,
       "num": 97382,
       "word": "樊振东捐钱修路切实造福民众",
@@ -1267,14 +1307,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 93368,
-      "num": 93368,
-      "word": "追觅CEO称打造首个百万亿美金生态",
-      "onboard_time": 1768200080,
-      "rank": 37,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 92886,
       "num": 92886,
       "word": "工作日才是用来休息的",
@@ -1307,20 +1339,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 91045,
+      "num": 91045,
+      "word": "我不再讨厌星期一了",
+      "onboard_time": 1768200200,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90575,
       "num": 90575,
       "word": "巴萨3比2皇马",
       "onboard_time": 1768174157,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 90025,
-      "num": 87626,
-      "word": "恋综心眼最多的男嘉宾出现了",
-      "onboard_time": 1768200019,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 89580,
@@ -1379,6 +1411,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 84924,
+      "num": 84924,
+      "word": "拥有恐怖表达力的秘籍",
+      "onboard_time": 1768199840,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 84343,
       "num": 84343,
       "word": "除LPL外各大联赛取消奖金",
@@ -1395,19 +1435,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83557,
-      "num": 83557,
-      "word": "拥有恐怖表达力的秘籍",
-      "onboard_time": 1768199840,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 83483,
       "num": 83483,
       "word": "潮宏基回应涨价",
       "onboard_time": 1768200200,
       "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 82607,
+      "num": 82607,
+      "word": "A股超百只个股涨停",
+      "onboard_time": 1768198281,
+      "rank": 43,
       "category": "财经"
     },
     {
@@ -1441,6 +1481,14 @@
       "onboard_time": 1768133361,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 81001,
+      "num": 90475,
+      "word": "艾米的妆是自己化的",
+      "onboard_time": 1768199781,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 80990,
@@ -1491,14 +1539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 78383,
-      "num": 78383,
-      "word": "我不再讨厌星期一了",
-      "onboard_time": 1768200200,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 77873,
       "num": 77873,
       "word": "金价波动",
@@ -1516,7 +1556,7 @@
     },
     {
       "raw_hot": 76335,
-      "num": 76335,
+      "num": 79237,
       "word": "曝LCK在越南举办正赛",
       "onboard_time": 1768197680,
       "rank": 49,
@@ -1747,14 +1787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54868,
-      "num": 90475,
-      "word": "艾米的妆是自己化的",
-      "onboard_time": 1768199781,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 54268,
       "num": 157848,
       "word": "小城大事",
@@ -1867,6 +1899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 44190,
+      "num": 126389,
+      "word": "原来三个人的感情一点也不拥挤",
+      "onboard_time": 1768200980,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42700,
       "num": 53453,
       "word": "伊朗111名安全人员丧生",
@@ -1953,6 +1993,14 @@
       "onboard_time": 1768198701,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 34787,
+      "num": 107908,
+      "word": "美悄悄撤回对中国无人机限制计划",
+      "onboard_time": 1768200800,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 34749,

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768200504600,
+  "endTime": 1768201330900,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1955,12 +1955,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 592079,
+      "num": 182278,
+      "word": "闫学晶儿子说对不起",
+      "onboard_time": 1768199422,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 591379,
       "num": 827328,
       "word": "幼童吃15颗车厘子患急性肠胃炎",
       "onboard_time": 1767531624,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 589158,
+      "num": 1094265,
+      "word": "河南省考 进不去",
+      "onboard_time": 1768190241,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 588214,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767865280,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 540530,
-      "num": 232718,
-      "word": "檀健次清水带漪",
-      "onboard_time": 1767861860,
-      "rank": 14,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 539918,
-      "num": 1086386,
-      "word": "山姆车厘子每斤狂降70元",
-      "onboard_time": 1767596781,
-      "rank": 27,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
