@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768257897761,
+  "endTime": 1768260264310,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -1411,6 +1411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 294955,
+      "num": 107535,
+      "word": "萧亚轩前男友黄皓官宣二胎",
+      "onboard_time": 1768259957,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290136,
       "num": 290136,
       "word": "子阳道歉",
@@ -1779,6 +1787,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 233180,
+      "num": 614229,
+      "word": "原海航旗下飞机几乎成落马官员私人专用",
+      "onboard_time": 1768239316,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 232451,
       "num": 624637,
       "word": "开了十年寒衣店第一次遇到退货",
@@ -1912,6 +1928,14 @@
       "word": "63岁痴呆老人掏光钱找去世40年妈妈",
       "onboard_time": 1768117640,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216485,
+      "num": 104030,
+      "word": "男子趁女子丈夫出差约酒强奸未遂",
+      "onboard_time": 1768228702,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -2555,6 +2579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170647,
+      "num": 170647,
+      "word": "贪官和家人坐公务飞机四处旅游",
+      "onboard_time": 1768226902,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 170455,
       "num": 114191,
       "word": "卢昱晓玩游戏摔倒",
@@ -2883,6 +2915,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 157974,
+      "num": 157974,
+      "word": "合川文旅称杀猪宴是呆呆私人发起",
+      "onboard_time": 1768233680,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157831,
       "num": 157831,
       "word": "死了么APP感谢大家对新名称建议",
@@ -3081,6 +3121,14 @@
       "onboard_time": 1768144282,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 148924,
+      "num": 99828,
+      "word": "宋祖儿我都不敢想能出现在你们面前",
+      "onboard_time": 1768259417,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 148741,
@@ -3307,14 +3355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 137395,
-      "num": 137727,
-      "word": "贪官和家人坐公务飞机四处旅游",
-      "onboard_time": 1768226902,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 137090,
       "num": 137090,
       "word": "短剧版慕容云海",
@@ -3425,6 +3465,14 @@
       "onboard_time": 1768098321,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 134447,
+      "num": 98026,
+      "word": "鹿晗又去看粉丝祝福墙了",
+      "onboard_time": 1768260198,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 134435,
@@ -3689,6 +3737,22 @@
       "onboard_time": 1768139603,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126292,
+      "num": 96935,
+      "word": "代旭儿子小名叫代劲",
+      "onboard_time": 1768260198,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 126041,
+      "num": 80419,
+      "word": "这4个小时被称为黄金睡眠时间",
+      "onboard_time": 1768259658,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 125303,
@@ -4123,14 +4187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113655,
-      "num": 113655,
-      "word": "原海航旗下飞机几乎成落马官员私人专用",
-      "onboard_time": 1768239316,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 113600,
       "num": 113600,
       "word": "施罗德被禁赛三场",
@@ -4267,20 +4323,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109926,
+      "num": 109926,
+      "word": "李隼卸任国乒总教练",
+      "onboard_time": 1768259719,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109920,
       "num": 109920,
       "word": "王鹤润喝嗨了开始发疯",
       "onboard_time": 1768222282,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 109647,
-      "num": 124481,
-      "word": "合川文旅称杀猪宴是呆呆私人发起",
-      "onboard_time": 1768233680,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 109434,
@@ -4947,6 +5003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96633,
+      "num": 70653,
+      "word": "复旦大学博士生威海追暴雪",
+      "onboard_time": 1768260078,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96582,
       "num": 196234,
       "word": "iPhone里最容易忽略的效率神器",
@@ -5065,6 +5129,14 @@
       "onboard_time": 1768211242,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94620,
+      "num": 69538,
+      "word": "福宝用手赶小鸟太可爱了",
+      "onboard_time": 1768259719,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 94616,
@@ -5699,6 +5771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80743,
+      "num": 80743,
+      "word": "9岁男孩被发现带伤晚上在高速行走",
+      "onboard_time": 1768239376,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80542,
       "num": 80542,
       "word": "上海2000平的豪华别墅",
@@ -5825,6 +5905,14 @@
       "onboard_time": 1768119980,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 79381,
+      "num": 77239,
+      "word": "央视曝光退休高官腐败细节",
+      "onboard_time": 1768259658,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79359,
@@ -6041,6 +6129,14 @@
       "onboard_time": 1768173437,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73826,
+      "num": 73826,
+      "word": "鹿晗愿望季",
+      "onboard_time": 1768259597,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 73810,
@@ -6619,14 +6715,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 57652,
-      "num": 57652,
-      "word": "9岁男孩被发现带伤晚上在高速行走",
-      "onboard_time": 1768239376,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56614,
       "num": 114658,
       "word": "女医学生边上学边创业却遭前任杀害",
@@ -6657,6 +6745,14 @@
       "onboard_time": 1768126161,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54133,
+      "num": 54133,
+      "word": "慕胥辞",
+      "onboard_time": 1768259777,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 54037,
@@ -7131,6 +7227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32668,
+      "num": 51842,
+      "word": "宋威龙赵今麦骄阳似我的售后",
+      "onboard_time": 1768253054,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 32565,
       "num": 87281,
       "word": "歼20裸眼3D硬核海报",
@@ -7321,14 +7425,6 @@
       "onboard_time": 1768207520,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27705,
-      "num": 37013,
-      "word": "宋威龙赵今麦骄阳似我的售后",
-      "onboard_time": 1768253054,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 27563,
@@ -7763,20 +7859,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 11721,
+      "num": 578758,
+      "word": "尔滨的风吹到东南亚了",
+      "onboard_time": 1768201641,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11639,
       "num": 25380,
       "word": "苏新皓超话达成钻三成就",
       "onboard_time": 1768161674,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11598,
-      "num": 578758,
-      "word": "尔滨的风吹到东南亚了",
-      "onboard_time": 1768201641,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11053,

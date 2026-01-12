@@ -1,0 +1,410 @@
+{
+  "runTime": 1768260264310,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 796015,
+        "num": 842796,
+        "word": "老干妈创始人出山救子又赚翻了",
+        "onboard_time": 1768226783,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 233180,
+        "num": 614229,
+        "word": "原海航旗下飞机几乎成落马官员私人专用",
+        "onboard_time": 1768239316,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11721,
+        "num": 481295,
+        "word": "尔滨的风吹到东南亚了",
+        "onboard_time": 1768201641,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206324,
+        "num": 206324,
+        "word": "轧戏",
+        "onboard_time": 1768216883,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170647,
+        "num": 170647,
+        "word": "贪官和家人坐公务飞机四处旅游",
+        "onboard_time": 1768226902,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157974,
+        "num": 157974,
+        "word": "合川文旅称杀猪宴是呆呆私人发起",
+        "onboard_time": 1768233680,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137270,
+        "num": 137270,
+        "word": "肖战齐夏真的要来了",
+        "onboard_time": 1768238897,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112009,
+        "num": 112009,
+        "word": "微信通知显示头像",
+        "onboard_time": 1768208120,
+        "rank": 7,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 109926,
+        "num": 109926,
+        "word": "李隼卸任国乒总教练",
+        "onboard_time": 1768259719,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108890,
+        "num": 108890,
+        "word": "皇马解雇阿隆索",
+        "onboard_time": 1768241834,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294955,
+        "num": 107535,
+        "word": "萧亚轩前男友黄皓官宣二胎",
+        "onboard_time": 1768259957,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223059,
+        "num": 106600,
+        "word": "网红口子姐去世",
+        "onboard_time": 1768215022,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 216485,
+        "num": 104030,
+        "word": "男子趁女子丈夫出差约酒强奸未遂",
+        "onboard_time": 1768228702,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152192,
+        "num": 102304,
+        "word": "家属称痔疮手术致34岁医生离世",
+        "onboard_time": 1768219221,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148924,
+        "num": 99828,
+        "word": "宋祖儿我都不敢想能出现在你们面前",
+        "onboard_time": 1768259417,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134447,
+        "num": 98026,
+        "word": "鹿晗又去看粉丝祝福墙了",
+        "onboard_time": 1768260198,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97833,
+        "num": 97833,
+        "word": "A股涨疯了一天创2项纪录",
+        "onboard_time": 1768224622,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 126292,
+        "num": 96935,
+        "word": "代旭儿子小名叫代劲",
+        "onboard_time": 1768260198,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88750,
+        "num": 88750,
+        "word": "上海的婚宴果然是晚上办",
+        "onboard_time": 1768235119,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80743,
+        "num": 80743,
+        "word": "9岁男孩被发现带伤晚上在高速行走",
+        "onboard_time": 1768239376,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126041,
+        "num": 80419,
+        "word": "这4个小时被称为黄金睡眠时间",
+        "onboard_time": 1768259658,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108494,
+        "num": 79784,
+        "word": "妻子花光97万打赏主播承诺不看后抑郁",
+        "onboard_time": 1768224501,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79144,
+        "num": 79144,
+        "word": "韩国空难失事前75秒黑匣子录音",
+        "onboard_time": 1768209262,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 79381,
+        "num": 77239,
+        "word": "央视曝光退休高官腐败细节",
+        "onboard_time": 1768259658,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97015,
+        "num": 75748,
+        "word": "59岁高龄产妇顺利产下4斤4两男婴",
+        "onboard_time": 1768228462,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88603,
+        "num": 75240,
+        "word": "十日终焉",
+        "onboard_time": 1768223483,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 73845,
+        "num": 73845,
+        "word": "呆呆1分钟视频报价2400元",
+        "onboard_time": 1768218621,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73826,
+        "num": 73826,
+        "word": "鹿晗愿望季",
+        "onboard_time": 1768259597,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72619,
+        "num": 72619,
+        "word": "肖战网文排名前五演了四个",
+        "onboard_time": 1768231641,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 71975,
+        "num": 71975,
+        "word": "杀猪来了上千网友做清洁只剩妈妈一人",
+        "onboard_time": 1768210642,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96633,
+        "num": 70653,
+        "word": "复旦大学博士生威海追暴雪",
+        "onboard_time": 1768260078,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94620,
+        "num": 69538,
+        "word": "福宝用手赶小鸟太可爱了",
+        "onboard_time": 1768259719,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67610,
+        "num": 67610,
+        "word": "张雨绮 我的身材很曼妙",
+        "onboard_time": 1768222461,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59363,
+        "num": 63429,
+        "word": "向佐录综艺丢失重要项链",
+        "onboard_time": 1768218861,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68486,
+        "num": 62678,
+        "word": "伊朗外长说已控制全国局势",
+        "onboard_time": 1768227501,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59453,
+        "num": 59453,
+        "word": "代旭男友力",
+        "onboard_time": 1768234460,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54133,
+        "num": 54133,
+        "word": "慕胥辞",
+        "onboard_time": 1768259777,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52107,
+        "num": 52107,
+        "word": "贵州省博老馆丢失被盗29件套文物",
+        "onboard_time": 1768232301,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44798,
+        "num": 52089,
+        "word": "iPhone相册自带手写体",
+        "onboard_time": 1768230321,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 37473,
+        "num": 52056,
+        "word": "白鹿你好星期六repo",
+        "onboard_time": 1768230802,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34648,
+        "num": 51987,
+        "word": "杀生丸的脸还是太权威了",
+        "onboard_time": 1768229121,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 37375,
+        "num": 51923,
+        "word": "你好星期六",
+        "onboard_time": 1768232180,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32707,
+        "num": 51883,
+        "word": "香港人组团买房涌入大湾区",
+        "onboard_time": 1768228761,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32668,
+        "num": 51842,
+        "word": "宋威龙赵今麦骄阳似我的售后",
+        "onboard_time": 1768253054,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31863,
+        "num": 51803,
+        "word": "宋祖儿丁禹兮 司宫令",
+        "onboard_time": 1768229901,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30370,
+        "num": 51781,
+        "word": "携程误发全员离职信息",
+        "onboard_time": 1768220540,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 31783,
+        "num": 51714,
+        "word": "苏新皓 朱志鑫大哥哥",
+        "onboard_time": 1768230441,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29466,
+        "num": 51664,
+        "word": "轧戏 猫的树",
+        "onboard_time": 1768223181,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28700,
+        "num": 51619,
+        "word": "你完全可以用一年的时间变强",
+        "onboard_time": 1768232780,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28857,
+        "num": 51579,
+        "word": "小城大事",
+        "onboard_time": 1768217901,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届中央纪委五次全会召开#"
+    }
+  }
+}
