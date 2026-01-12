@@ -1,0 +1,410 @@
+{
+  "runTime": 1768235820030,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 757152,
+        "num": 843644,
+        "word": "老干妈创始人出山救子又赚翻了",
+        "onboard_time": 1768226783,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 492957,
+        "num": 606564,
+        "word": "轧戏",
+        "onboard_time": 1768216883,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18754,
+        "num": 503803,
+        "word": "开启2026美好生活",
+        "onboard_time": 1768226841,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223798,
+        "num": 486705,
+        "word": "肖战网文排名前五演了四个",
+        "onboard_time": 1768231641,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94747,
+        "num": 486498,
+        "word": "贵州一幼儿园森林里放养娃",
+        "onboard_time": 1768226902,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 486293,
+        "num": 486293,
+        "word": "租客深夜发救命房东醒来满楼血迹",
+        "onboard_time": 1768230263,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262082,
+        "num": 262082,
+        "word": "iPhone相册自带手写体",
+        "onboard_time": 1768230321,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 202469,
+        "num": 202469,
+        "word": "代旭掀桌了",
+        "onboard_time": 1768228642,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196347,
+        "num": 196347,
+        "word": "微信通知显示头像",
+        "onboard_time": 1768208120,
+        "rank": 8,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 138632,
+        "num": 191469,
+        "word": "A股涨疯了一天创2项纪录",
+        "onboard_time": 1768224622,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 382622,
+        "num": 191016,
+        "word": "网红口子姐去世",
+        "onboard_time": 1768215022,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 190563,
+        "num": 190563,
+        "word": "苏新皓 朱志鑫大哥哥",
+        "onboard_time": 1768230441,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175100,
+        "num": 175100,
+        "word": "携程误发全员离职信息",
+        "onboard_time": 1768220540,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 144082,
+        "num": 144082,
+        "word": "女子丈夫出差男子跨城约酒强奸未遂",
+        "onboard_time": 1768228702,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135032,
+        "num": 135032,
+        "word": "宋祖儿丁禹兮 司宫令",
+        "onboard_time": 1768229901,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132400,
+        "num": 132400,
+        "word": "娇兰你好事做尽",
+        "onboard_time": 1768224081,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124565,
+        "num": 124565,
+        "word": "家属称痔疮手术致34岁医生离世",
+        "onboard_time": 1768219221,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95325,
+        "num": 124561,
+        "word": "赵今麦这个背",
+        "onboard_time": 1768210760,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93548,
+        "num": 124561,
+        "word": "韩国空难失事前75秒黑匣子录音",
+        "onboard_time": 1768209262,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 85338,
+        "num": 124556,
+        "word": "伊朗外长说已控制全国局势",
+        "onboard_time": 1768227501,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 333943,
+        "num": 124553,
+        "word": "肖战 十日终焉",
+        "onboard_time": 1768220300,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116989,
+        "num": 124548,
+        "word": "张雨绮 我的身材很曼妙",
+        "onboard_time": 1768222461,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100879,
+        "num": 124546,
+        "word": "呆呆1分钟视频报价2400元",
+        "onboard_time": 1768218621,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97205,
+        "num": 124542,
+        "word": "十日终焉",
+        "onboard_time": 1768223483,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90801,
+        "num": 124542,
+        "word": "59岁高龄产妇顺利产下4斤4两男婴",
+        "onboard_time": 1768228462,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79964,
+        "num": 124537,
+        "word": "哭哭马订单排到3月",
+        "onboard_time": 1768231101,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94943,
+        "num": 124534,
+        "word": "十日终焉开机时间",
+        "onboard_time": 1768222461,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87857,
+        "num": 124531,
+        "word": "杀猪来了上千网友做清洁只剩妈妈一人",
+        "onboard_time": 1768210642,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82392,
+        "num": 124529,
+        "word": "苏新皓 我们会一直在一起的",
+        "onboard_time": 1768226841,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57719,
+        "num": 124524,
+        "word": "你完全可以用一年的时间变强",
+        "onboard_time": 1768232780,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74168,
+        "num": 124520,
+        "word": "上海的婚宴果然是晚上办",
+        "onboard_time": 1768235119,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69100,
+        "num": 124519,
+        "word": "白鹿你好星期六repo",
+        "onboard_time": 1768230802,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66769,
+        "num": 124512,
+        "word": "和府捞面门店拒回复汤是否现熬",
+        "onboard_time": 1768233500,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68340,
+        "num": 124512,
+        "word": "彭小苒工作室道歉",
+        "onboard_time": 1768230802,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65537,
+        "num": 124508,
+        "word": "杀生丸的脸还是太权威了",
+        "onboard_time": 1768229121,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 64877,
+        "num": 124503,
+        "word": "龙麦",
+        "onboard_time": 1768220662,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 64812,
+        "num": 124502,
+        "word": "代旭男友力",
+        "onboard_time": 1768234460,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64082,
+        "num": 124496,
+        "word": "贵州省博老馆丢失被盗29件套文物",
+        "onboard_time": 1768232301,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63176,
+        "num": 124496,
+        "word": "妻子花光97万打赏主播承诺不看后抑郁",
+        "onboard_time": 1768224501,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61848,
+        "num": 124491,
+        "word": "宋威龙又唱忘记时间了",
+        "onboard_time": 1768230380,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59588,
+        "num": 124490,
+        "word": "你好星期六",
+        "onboard_time": 1768232180,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56336,
+        "num": 124483,
+        "word": "第五人格",
+        "onboard_time": 1768228522,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 55894,
+        "num": 124481,
+        "word": "合川文旅称杀猪宴是呆呆私人发起",
+        "onboard_time": 1768233680,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54375,
+        "num": 124477,
+        "word": "香港人组团买房涌入大湾区",
+        "onboard_time": 1768228761,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53644,
+        "num": 124477,
+        "word": "章若楠胸前好大一朵花",
+        "onboard_time": 1768216282,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52770,
+        "num": 124471,
+        "word": "贪官和家人坐公务飞机四处旅游",
+        "onboard_time": 1768226902,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 51419,
+        "num": 124468,
+        "word": "水泥麻辣烫",
+        "onboard_time": 1768213942,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 50854,
+        "num": 124465,
+        "word": "商业航天概念股集体回应",
+        "onboard_time": 1768231280,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 50833,
+        "num": 124460,
+        "word": "爱喝奶茶的人天塌了",
+        "onboard_time": 1768210043,
+        "rank": 48,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 49829,
+        "num": 124457,
+        "word": "小城大事",
+        "onboard_time": 1768217901,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届中央纪委五次全会召开#"
+    }
+  }
+}
