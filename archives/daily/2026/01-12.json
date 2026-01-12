@@ -1,6 +1,6 @@
 {
   "startTime": 1768149237092,
-  "endTime": 1768210874094,
+  "endTime": 1768211797526,
   "band_list": [
     {
       "raw_hot": 2692974,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1510836,
-      "num": 262610,
+      "num": 293743,
       "word": "微信通知显示头像",
       "onboard_time": 1768208120,
       "rank": 40,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 847748,
+      "num": 1135639,
+      "word": "韩国空难黑匣子录音首次公开",
+      "onboard_time": 1768207340,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 839474,
       "num": 240160,
       "word": "女医学生遭前男友杀害临终遗言曝光",
@@ -75,16 +83,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 758055,
-      "num": 1121288,
-      "word": "韩国空难黑匣子录音首次公开",
-      "onboard_time": 1768207340,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 736598,
-      "num": 249315,
+      "num": 292215,
       "word": "iPhone4回收价涨了60倍",
       "onboard_time": 1768207640,
       "rank": 9,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 573533,
+      "num": 851346,
+      "word": "秦志戬担任国乒总教练",
+      "onboard_time": 1768208120,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 571208,
       "num": 323239,
       "word": "我是谢娜 你现在必须去上学",
@@ -153,14 +161,6 @@
       "onboard_time": 1768189461,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 566406,
-      "num": 810236,
-      "word": "秦志戬担任国乒总教练",
-      "onboard_time": 1768208120,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 524924,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 459355,
-      "num": 203592,
+      "num": 232835,
       "word": "比单休更恶心的是月休4天",
       "onboard_time": 1768204760,
       "rank": 15,
@@ -347,6 +347,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 360840,
+      "num": 167110,
+      "word": "赵今麦这个背",
+      "onboard_time": 1768210760,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 360025,
       "num": 1057604,
       "word": "央视播出养老金贪污案细节",
@@ -385,6 +393,14 @@
       "onboard_time": 1768184659,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 351247,
+      "num": 351247,
+      "word": "肖战担任国乒副总教练",
+      "onboard_time": 1768210580,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 348442,
@@ -451,12 +467,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 285320,
+      "num": 285320,
+      "word": "爱喝奶茶的人天塌了",
+      "onboard_time": 1768210043,
+      "rank": 21,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 284148,
       "num": 338223,
       "word": "卢昱晓线下美成这样了",
       "onboard_time": 1768196542,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 281004,
+      "num": 294680,
+      "word": "27岁于子洋入选国乒教练组",
+      "onboard_time": 1768210521,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 278890,
@@ -491,6 +523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 275588,
+      "num": 275588,
+      "word": "什么零食的出现就意味着快过年了",
+      "onboard_time": 1768208000,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 271803,
       "num": 212770,
       "word": "迅猛龙曾多次发与网红小澈同框视频",
@@ -515,14 +555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 265732,
-      "num": 265732,
-      "word": "什么零食的出现就意味着快过年了",
-      "onboard_time": 1768208000,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 255379,
       "num": 151951,
       "word": "90后女子卖淫秽视频被判刑",
@@ -532,7 +564,7 @@
     },
     {
       "raw_hot": 254192,
-      "num": 180660,
+      "num": 214761,
       "word": "女儿被杀患癌母亲停止化疗",
       "onboard_time": 1768204460,
       "rank": 20,
@@ -547,11 +579,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 246062,
+      "num": 227212,
+      "word": "为什么要和别人的老婆谈恋爱呢",
+      "onboard_time": 1768208421,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242665,
       "num": 242665,
       "word": "张碧晨骄阳似我大结局发文",
       "onboard_time": 1768202721,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 240597,
+      "num": 240597,
+      "word": "狂花",
+      "onboard_time": 1768210043,
+      "rank": 11,
       "category": "剧集"
     },
     {
@@ -667,14 +715,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 210584,
-      "num": 197324,
-      "word": "狂花",
-      "onboard_time": 1768210043,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208286,
       "num": 601739,
       "word": "国乒无缘多哈冠军赛男单决赛",
@@ -691,12 +731,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200356,
-      "num": 200356,
-      "word": "肖战担任国乒副总教练",
-      "onboard_time": 1768210580,
-      "rank": 9,
-      "category": "体育"
+      "raw_hot": 205840,
+      "num": 205840,
+      "word": "杀猪来了上千网友做清洁只剩妈妈一人",
+      "onboard_time": 1768210642,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201826,
+      "num": 163861,
+      "word": "XG改名",
+      "onboard_time": 1768211361,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 198780,
@@ -731,14 +779,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 193817,
-      "num": 193817,
-      "word": "27岁于子洋入选国乒教练组",
-      "onboard_time": 1768210521,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 193708,
       "num": 142604,
       "word": "虞书欣张云龙新剧同框",
@@ -769,6 +809,22 @@
       "onboard_time": 1768203442,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 190080,
+      "num": 170964,
+      "word": "小澈曾给迅猛龙道歉",
+      "onboard_time": 1768206079,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 189067,
+      "num": 150930,
+      "word": "邢菲古早韩妹味",
+      "onboard_time": 1768210580,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 188641,
@@ -816,14 +872,6 @@
       "word": "小英两胎顺产都没打无痛",
       "onboard_time": 1768199899,
       "rank": 22,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 178326,
-      "num": 170964,
-      "word": "小澈曾给迅猛龙道歉",
-      "onboard_time": 1768206079,
-      "rank": 23,
       "category": "网红"
     },
     {
@@ -875,12 +923,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167192,
+      "num": 167192,
+      "word": "韩国空难失事前75秒黑匣子录音",
+      "onboard_time": 1768209262,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 167115,
       "num": 167115,
       "word": "于正3个月瘦了30斤减肥心得",
       "onboard_time": 1768190361,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166248,
+      "num": 166248,
+      "word": "十位新面孔进入国乒教练组",
+      "onboard_time": 1768211061,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 165861,
@@ -897,14 +961,6 @@
       "onboard_time": 1768197020,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 165033,
-      "num": 159999,
-      "word": "为什么要和别人的老婆谈恋爱呢",
-      "onboard_time": 1768208421,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 164773,
@@ -995,20 +1051,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156436,
-      "num": 156436,
-      "word": "爱喝奶茶的人天塌了",
-      "onboard_time": 1768210043,
-      "rank": 21,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 154861,
       "num": 164419,
       "word": "陈楚生 跟香港的哥哥都要唱两遍",
       "onboard_time": 1768145660,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154637,
+      "num": 149031,
+      "word": "杨幂中学时代就是风云人物了",
+      "onboard_time": 1768210521,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 154352,
@@ -1049,6 +1105,14 @@
       "onboard_time": 1768205600,
       "rank": 29,
       "category": "美食,情感"
+    },
+    {
+      "raw_hot": 149418,
+      "num": 149418,
+      "word": "店主误将10万中奖彩票给他人",
+      "onboard_time": 1768210822,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146052,
@@ -1131,6 +1195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139041,
+      "num": 139041,
+      "word": "陈妍希形容周柯宇是小狗",
+      "onboard_time": 1768210521,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 138451,
       "num": 130961,
       "word": "刘昊然这人夫感",
@@ -1201,14 +1273,6 @@
       "onboard_time": 1768206501,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132060,
-      "num": 111849,
-      "word": "陈妍希形容周柯宇是小狗",
-      "onboard_time": 1768210521,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 130775,
@@ -1307,6 +1371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 122510,
+      "num": 122510,
+      "word": "外交部回应王毅调整行程",
+      "onboard_time": 1768210881,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 120865,
       "num": 120865,
       "word": "林允 古装仪态",
@@ -1336,6 +1408,14 @@
       "word": "陈哲远 三个人的婚礼有点拥挤",
       "onboard_time": 1768136122,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 116548,
+      "num": 116548,
+      "word": "宋威龙 白马王子",
+      "onboard_time": 1768211599,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -1411,6 +1491,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 114313,
+      "num": 114313,
+      "word": "国乒教练暂留2个岗位空缺",
+      "onboard_time": 1768210822,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113857,
       "num": 113857,
       "word": "官方回应女子喊网友杀猪来了上千人",
@@ -1475,14 +1563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109956,
-      "num": 109956,
-      "word": "杨幂中学时代就是风云人物了",
-      "onboard_time": 1768210521,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 108513,
       "num": 108513,
       "word": "陈星旭卢昱晓连黑历史都是高清的",
@@ -1499,14 +1579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106600,
-      "num": 106600,
-      "word": "邢菲古早韩妹味",
-      "onboard_time": 1768210580,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 106523,
       "num": 106523,
       "word": "李一桐拍美人余穿了高定",
@@ -1521,6 +1593,14 @@
       "onboard_time": 1768173378,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106293,
+      "num": 106293,
+      "word": "孙颖莎玩自己的手办",
+      "onboard_time": 1768211599,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 106233,
@@ -1819,6 +1899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94667,
+      "num": 94667,
+      "word": "22岁女儿被前任杀害父亲凌晨出门哭",
+      "onboard_time": 1768211242,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93586,
       "num": 93586,
       "word": "白月光真的不一定是人",
@@ -1907,14 +1995,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 89499,
-      "num": 89499,
-      "word": "国乒教练暂留2个岗位空缺",
-      "onboard_time": 1768210822,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 88680,
       "num": 88680,
       "word": "主人不在家 我下地嘎油嘎油",
@@ -1963,14 +2043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 86701,
-      "num": 86701,
-      "word": "赵今麦这个背",
-      "onboard_time": 1768210760,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 86492,
       "num": 93568,
       "word": "村干部回应千名网友帮女子杀年猪",
@@ -2009,14 +2081,6 @@
       "onboard_time": 1768193601,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 85406,
-      "num": 85406,
-      "word": "店主误将10万中奖彩票给他人",
-      "onboard_time": 1768210822,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 85084,
@@ -2315,6 +2379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62939,
+      "num": 171919,
+      "word": "刘宇宁 你们文明点啊",
+      "onboard_time": 1768210941,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 62633,
       "num": 87714,
       "word": "猫狗大战咬坏3个月新车",
@@ -2419,14 +2491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 55525,
-      "num": 112623,
-      "word": "杀猪来了上千网友做清洁只剩妈妈一人",
-      "onboard_time": 1768210642,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 54268,
       "num": 157848,
       "word": "小城大事",
@@ -2499,8 +2563,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48391,
-      "num": 176946,
+      "raw_hot": 48575,
+      "num": 208830,
       "word": "刘震云回应便利店文学角走红",
       "onboard_time": 1768208421,
       "rank": 14,
@@ -2513,6 +2577,14 @@
       "onboard_time": 1768140321,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45944,
+      "num": 119000,
+      "word": "向涵之这个红绳你今年别摘了",
+      "onboard_time": 1768211242,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 45764,
@@ -2625,6 +2697,14 @@
       "onboard_time": 1768152136,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 37420,
+      "num": 167123,
+      "word": "中方回应暂停对日稀土出口许可审查",
+      "onboard_time": 1768211420,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 36309,
@@ -2852,7 +2932,7 @@
     },
     {
       "raw_hot": 18084,
-      "num": 634542,
+      "num": 665972,
       "word": "青年回村让家乡变得很酷",
       "onboard_time": 1768207820,
       "rank": 2,
@@ -2913,6 +2993,14 @@
       "onboard_time": 1768161674,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11053,
+      "num": 118519,
+      "word": "东莞轿车撞大货车致3死调查报告",
+      "onboard_time": 1768211480,
+      "rank": 39,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 9066,

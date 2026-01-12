@@ -1,0 +1,410 @@
+{
+  "runTime": 1768211797526,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 847748,
+        "num": 1135639,
+        "word": "韩国空难黑匣子录音首次公开",
+        "onboard_time": 1768207340,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 573533,
+        "num": 851346,
+        "word": "秦志戬担任国乒总教练",
+        "onboard_time": 1768208120,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6921,
+        "num": 665972,
+        "word": "青年回村让家乡变得很酷",
+        "onboard_time": 1768207820,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351247,
+        "num": 351247,
+        "word": "肖战担任国乒副总教练",
+        "onboard_time": 1768210580,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281004,
+        "num": 294680,
+        "word": "27岁于子洋入选国乒教练组",
+        "onboard_time": 1768210521,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1403782,
+        "num": 293743,
+        "word": "微信通知显示头像",
+        "onboard_time": 1768208120,
+        "rank": 5,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 644397,
+        "num": 292215,
+        "word": "iPhone4回收价涨了60倍",
+        "onboard_time": 1768207640,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 285320,
+        "num": 285320,
+        "word": "爱喝奶茶的人天塌了",
+        "onboard_time": 1768210043,
+        "rank": 7,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 275588,
+        "num": 275588,
+        "word": "什么零食的出现就意味着快过年了",
+        "onboard_time": 1768208000,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240597,
+        "num": 240597,
+        "word": "狂花",
+        "onboard_time": 1768210043,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389390,
+        "num": 232835,
+        "word": "比单休更恶心的是月休4天",
+        "onboard_time": 1768204760,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246062,
+        "num": 227212,
+        "word": "为什么要和别人的老婆谈恋爱呢",
+        "onboard_time": 1768208421,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218982,
+        "num": 218982,
+        "word": "国乒洛奥教练班子揭晓",
+        "onboard_time": 1768207881,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214761,
+        "num": 214761,
+        "word": "女儿被杀患癌母亲停止化疗",
+        "onboard_time": 1768204460,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48575,
+        "num": 208830,
+        "word": "刘震云回应便利店文学角走红",
+        "onboard_time": 1768208421,
+        "rank": 14,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 205840,
+        "num": 205840,
+        "word": "杀猪来了上千网友做清洁只剩妈妈一人",
+        "onboard_time": 1768210642,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177646,
+        "num": 177646,
+        "word": "敖瑞鹏客串狂花",
+        "onboard_time": 1768208840,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62939,
+        "num": 171919,
+        "word": "刘宇宁 你们文明点啊",
+        "onboard_time": 1768210941,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167192,
+        "num": 167192,
+        "word": "韩国空难失事前75秒黑匣子录音",
+        "onboard_time": 1768209262,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37420,
+        "num": 167123,
+        "word": "中方回应暂停对日稀土出口许可审查",
+        "onboard_time": 1768211420,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 360840,
+        "num": 167110,
+        "word": "赵今麦这个背",
+        "onboard_time": 1768210760,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313189,
+        "num": 167105,
+        "word": "娇兰活动",
+        "onboard_time": 1768198819,
+        "rank": 21,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 167095,
+        "num": 167095,
+        "word": "金帝巧克力 擦边营销",
+        "onboard_time": 1768203561,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285359,
+        "num": 166710,
+        "word": "杨迪吐槽papi恶意录制",
+        "onboard_time": 1768201761,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235960,
+        "num": 166504,
+        "word": "我是谢娜 你现在必须去上学",
+        "onboard_time": 1768195881,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166248,
+        "num": 166248,
+        "word": "十位新面孔进入国乒教练组",
+        "onboard_time": 1768211061,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201826,
+        "num": 163861,
+        "word": "XG改名",
+        "onboard_time": 1768211361,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190080,
+        "num": 161815,
+        "word": "小澈曾给迅猛龙道歉",
+        "onboard_time": 1768206079,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 159712,
+        "num": 159712,
+        "word": "100%食用率水果",
+        "onboard_time": 1768198041,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56335,
+        "num": 151432,
+        "word": "外交部回应特朗普委石油言论",
+        "onboard_time": 1768206920,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189067,
+        "num": 150930,
+        "word": "邢菲古早韩妹味",
+        "onboard_time": 1768210580,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170839,
+        "num": 150201,
+        "word": "陈妍希周柯宇红秀",
+        "onboard_time": 1768202601,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 149418,
+        "num": 149418,
+        "word": "店主误将10万中奖彩票给他人",
+        "onboard_time": 1768210822,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154637,
+        "num": 149031,
+        "word": "杨幂中学时代就是风云人物了",
+        "onboard_time": 1768210521,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147904,
+        "num": 147904,
+        "word": "歼10CE击落多架战机自身无损伤",
+        "onboard_time": 1768202242,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 140244,
+        "num": 140244,
+        "word": "张子枫赵又廷新剧吻戏",
+        "onboard_time": 1768198580,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139041,
+        "num": 139041,
+        "word": "陈妍希形容周柯宇是小狗",
+        "onboard_time": 1768210521,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122510,
+        "num": 122510,
+        "word": "外交部回应王毅调整行程",
+        "onboard_time": 1768210881,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 45944,
+        "num": 119000,
+        "word": "向涵之这个红绳你今年别摘了",
+        "onboard_time": 1768211242,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11053,
+        "num": 118519,
+        "word": "东莞轿车撞大货车致3死调查报告",
+        "onboard_time": 1768211480,
+        "rank": 39,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 118434,
+        "num": 118434,
+        "word": "女子患病2年后像裘千尺被离婚",
+        "onboard_time": 1768201879,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116548,
+        "num": 116548,
+        "word": "宋威龙 白马王子",
+        "onboard_time": 1768211599,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114313,
+        "num": 114313,
+        "word": "国乒教练暂留2个岗位空缺",
+        "onboard_time": 1768210822,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109054,
+        "num": 109054,
+        "word": "孙颖莎王曼昱打破女队发展模式",
+        "onboard_time": 1768200200,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106293,
+        "num": 106293,
+        "word": "孙颖莎玩自己的手办",
+        "onboard_time": 1768211599,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101407,
+        "num": 101407,
+        "word": "秦志戬简历",
+        "onboard_time": 1768209500,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96511,
+        "num": 96511,
+        "word": "这居然是陈梦",
+        "onboard_time": 1768188260,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96436,
+        "num": 96436,
+        "word": "河南便利店文学角",
+        "onboard_time": 1768210521,
+        "rank": 47,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 94667,
+        "num": 94667,
+        "word": "22岁女儿被前任杀害父亲凌晨出门哭",
+        "onboard_time": 1768211242,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88177,
+        "num": 88177,
+        "word": "小时候以为长这样的才叫排骨",
+        "onboard_time": 1768205600,
+        "rank": 49,
+        "category": "美食,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记高度重视党风廉政建设#"
+    }
+  }
+}
