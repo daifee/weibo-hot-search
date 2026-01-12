@@ -1,0 +1,410 @@
+{
+  "runTime": 1768210874094,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 758055,
+        "num": 1121288,
+        "word": "韩国空难黑匣子录音首次公开",
+        "onboard_time": 1768207340,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 566406,
+        "num": 810236,
+        "word": "秦志戬担任国乒总教练",
+        "onboard_time": 1768208120,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8487,
+        "num": 634542,
+        "word": "青年回村让家乡变得很酷",
+        "onboard_time": 1768207820,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325972,
+        "num": 325972,
+        "word": "国乒洛奥教练班子揭晓",
+        "onboard_time": 1768207881,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265732,
+        "num": 265732,
+        "word": "什么零食的出现就意味着快过年了",
+        "onboard_time": 1768208000,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1510836,
+        "num": 262610,
+        "word": "微信通知显示头像",
+        "onboard_time": 1768208120,
+        "rank": 5,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 736598,
+        "num": 249315,
+        "word": "iPhone4回收价涨了60倍",
+        "onboard_time": 1768207640,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 229702,
+        "num": 229702,
+        "word": "金帝巧克力 擦边营销",
+        "onboard_time": 1768203561,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214838,
+        "num": 214838,
+        "word": "敖瑞鹏客串狂花",
+        "onboard_time": 1768208840,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200356,
+        "num": 200356,
+        "word": "肖战担任国乒副总教练",
+        "onboard_time": 1768210580,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 459355,
+        "num": 198618,
+        "word": "比单休更恶心的是月休4天",
+        "onboard_time": 1768204760,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210584,
+        "num": 197324,
+        "word": "狂花",
+        "onboard_time": 1768210043,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193817,
+        "num": 193817,
+        "word": "27岁于子洋入选国乒教练组",
+        "onboard_time": 1768210521,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179642,
+        "num": 179642,
+        "word": "歼10CE击落多架战机自身无损伤",
+        "onboard_time": 1768202242,
+        "rank": 13,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 48391,
+        "num": 176946,
+        "word": "刘震云回应便利店文学角走红",
+        "onboard_time": 1768208421,
+        "rank": 14,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 175832,
+        "num": 175832,
+        "word": "女儿被杀患癌母亲停止化疗",
+        "onboard_time": 1768204460,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173843,
+        "num": 173843,
+        "word": "100%食用率水果",
+        "onboard_time": 1768198041,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170062,
+        "num": 170062,
+        "word": "张子枫赵又廷新剧吻戏",
+        "onboard_time": 1768198580,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161787,
+        "num": 161787,
+        "word": "河南省考报名延期2天",
+        "onboard_time": 1768205779,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165033,
+        "num": 159999,
+        "word": "为什么要和别人的老婆谈恋爱呢",
+        "onboard_time": 1768208421,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 397746,
+        "num": 158814,
+        "word": "杨迪吐槽papi恶意录制",
+        "onboard_time": 1768201761,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156436,
+        "num": 156436,
+        "word": "爱喝奶茶的人天塌了",
+        "onboard_time": 1768210043,
+        "rank": 21,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 288949,
+        "num": 155114,
+        "word": "娇兰活动",
+        "onboard_time": 1768198819,
+        "rank": 22,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 211677,
+        "num": 154085,
+        "word": "我是谢娜 你现在必须去上学",
+        "onboard_time": 1768195881,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152956,
+        "num": 152956,
+        "word": "孙颖莎王曼昱打破女队发展模式",
+        "onboard_time": 1768200200,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203974,
+        "num": 148757,
+        "word": "陈妍希周柯宇红秀",
+        "onboard_time": 1768202601,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 178326,
+        "num": 146875,
+        "word": "小澈曾给迅猛龙道歉",
+        "onboard_time": 1768206079,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 142830,
+        "num": 142830,
+        "word": "女子患病2年后像裘千尺被离婚",
+        "onboard_time": 1768201879,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116219,
+        "num": 116219,
+        "word": "这居然是陈梦",
+        "onboard_time": 1768188260,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66957,
+        "num": 115341,
+        "word": "外交部回应特朗普委石油言论",
+        "onboard_time": 1768206920,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143902,
+        "num": 114871,
+        "word": "秦志戬简历",
+        "onboard_time": 1768209500,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55525,
+        "num": 112623,
+        "word": "杀猪来了上千网友做清洁只剩妈妈一人",
+        "onboard_time": 1768210642,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132060,
+        "num": 111849,
+        "word": "陈妍希形容周柯宇是小狗",
+        "onboard_time": 1768210521,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110934,
+        "num": 110934,
+        "word": "小时候以为长这样的才叫排骨",
+        "onboard_time": 1768205600,
+        "rank": 33,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 109956,
+        "num": 109956,
+        "word": "杨幂中学时代就是风云人物了",
+        "onboard_time": 1768210521,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106600,
+        "num": 106600,
+        "word": "邢菲古早韩妹味",
+        "onboard_time": 1768210580,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100538,
+        "num": 106533,
+        "word": "河南便利店文学角",
+        "onboard_time": 1768210521,
+        "rank": 36,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 106523,
+        "num": 106523,
+        "word": "李一桐拍美人余穿了高定",
+        "onboard_time": 1768210221,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105768,
+        "num": 105768,
+        "word": "张真源突袭直播",
+        "onboard_time": 1768206920,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51184,
+        "num": 100491,
+        "word": "陈星旭卢昱晓差点亲上了",
+        "onboard_time": 1768210400,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97477,
+        "num": 97477,
+        "word": "金帝巧克力道歉",
+        "onboard_time": 1768207582,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95561,
+        "num": 95561,
+        "word": "住进了30岁高龄的祖传自建房",
+        "onboard_time": 1768210221,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95363,
+        "num": 95363,
+        "word": "深圳一男子徒步望郎归摔倒后去世",
+        "onboard_time": 1768209200,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94059,
+        "num": 94059,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1768207582,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93586,
+        "num": 93586,
+        "word": "白月光真的不一定是人",
+        "onboard_time": 1768209740,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89499,
+        "num": 89499,
+        "word": "国乒教练暂留2个岗位空缺",
+        "onboard_time": 1768210822,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86701,
+        "num": 86701,
+        "word": "赵今麦这个背",
+        "onboard_time": 1768210760,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85406,
+        "num": 85406,
+        "word": "店主误将10万中奖彩票给他人",
+        "onboard_time": 1768210822,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84501,
+        "num": 84501,
+        "word": "为避罚款鳌太线事故全员开飞行模式",
+        "onboard_time": 1768210521,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84443,
+        "num": 84443,
+        "word": "王皓连任国乒男队主教练",
+        "onboard_time": 1768208061,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记高度重视党风廉政建设#"
+    }
+  }
+}

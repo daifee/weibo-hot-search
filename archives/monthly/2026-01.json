@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768208280996,
+  "endTime": 1768210874094,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -249,6 +249,14 @@
       "onboard_time": 1767757102,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1510836,
+      "num": 262610,
+      "word": "微信通知显示头像",
+      "onboard_time": 1768208120,
+      "rank": 40,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 1497333,
@@ -1187,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 758055,
+      "num": 1121288,
+      "word": "韩国空难黑匣子录音首次公开",
+      "onboard_time": 1768207340,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 756977,
       "num": 1121116,
       "word": "义乌产的哭哭马火了",
@@ -1281,6 +1297,14 @@
       "onboard_time": 1768118601,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 736598,
+      "num": 249315,
+      "word": "iPhone4回收价涨了60倍",
+      "onboard_time": 1768207640,
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 734582,
@@ -2193,6 +2217,14 @@
       "onboard_time": 1768118541,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 566406,
+      "num": 810236,
+      "word": "秦志戬担任国乒总教练",
+      "onboard_time": 1768208120,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 565640,
@@ -3515,6 +3547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 459355,
+      "num": 203592,
+      "word": "比单休更恶心的是月休4天",
+      "onboard_time": 1768204760,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 459298,
       "num": 1134190,
       "word": "美高官妻子暗示很快拿下格陵兰岛",
@@ -4233,14 +4273,6 @@
       "onboard_time": 1768046421,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 409389,
-      "num": 203592,
-      "word": "比单休更恶心的是月休4天",
-      "onboard_time": 1768204760,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 408500,
@@ -5777,6 +5809,14 @@
       "onboard_time": 1767832999,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 325972,
+      "num": 325972,
+      "word": "国乒洛奥教练班子揭晓",
+      "onboard_time": 1768207881,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 325196,
@@ -7456,6 +7496,14 @@
       "word": "撞死3口人凶手父亲想儿子赡养受害方",
       "onboard_time": 1767710484,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 265732,
+      "num": 265732,
+      "word": "什么零食的出现就意味着快过年了",
+      "onboard_time": 1768208000,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -9315,6 +9363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214838,
+      "num": 214838,
+      "word": "敖瑞鹏客串狂花",
+      "onboard_time": 1768208840,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214754,
       "num": 1037388,
       "word": "多地网友晒贷款逾期记录清零",
@@ -9377,14 +9433,6 @@
       "onboard_time": 1767754760,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 213786,
-      "num": 213786,
-      "word": "iPhone4回收价涨了60倍",
-      "onboard_time": 1768207640,
-      "rank": 9,
-      "category": "数码"
     },
     {
       "raw_hot": 213631,
@@ -9529,6 +9577,14 @@
       "onboard_time": 1767587362,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210584,
+      "num": 197324,
+      "word": "狂花",
+      "onboard_time": 1768210043,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 210363,
@@ -10067,14 +10123,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 200496,
-      "num": 200496,
-      "word": "国乒洛奥教练班子揭晓",
-      "onboard_time": 1768207881,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 200488,
       "num": 902077,
       "word": "姚晨再发短片纪念武林外传",
@@ -10089,6 +10137,14 @@
       "onboard_time": 1767431305,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 200356,
+      "num": 200356,
+      "word": "肖战担任国乒副总教练",
+      "onboard_time": 1768210580,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 200023,
@@ -10297,14 +10353,6 @@
       "onboard_time": 1767752301,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 197472,
-      "num": 197472,
-      "word": "韩国空难黑匣子录音首次公开",
-      "onboard_time": 1768207340,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 197414,
@@ -10625,6 +10673,14 @@
       "onboard_time": 1768139122,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193817,
+      "num": 193817,
+      "word": "27岁于子洋入选国乒教练组",
+      "onboard_time": 1768210521,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 193782,
@@ -11915,6 +11971,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 178326,
+      "num": 170964,
+      "word": "小澈曾给迅猛龙道歉",
+      "onboard_time": 1768206079,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 178149,
       "num": 178149,
       "word": "九万已经可以首付买房了",
@@ -12481,14 +12545,6 @@
       "onboard_time": 1768112182,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 170964,
-      "num": 170964,
-      "word": "小澈曾给迅猛龙道歉",
-      "onboard_time": 1768206079,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 170815,
@@ -13121,6 +13177,14 @@
       "onboard_time": 1767795745,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165033,
+      "num": 159999,
+      "word": "为什么要和别人的老婆谈恋爱呢",
+      "onboard_time": 1768208421,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 165029,
@@ -14035,6 +14099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156436,
+      "num": 156436,
+      "word": "爱喝奶茶的人天塌了",
+      "onboard_time": 1768210043,
+      "rank": 21,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 156373,
       "num": 135576,
       "word": "长安二十四计发布律师声明",
@@ -14529,14 +14601,6 @@
       "onboard_time": 1767663861,
       "rank": 24,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 150623,
-      "num": 150623,
-      "word": "什么零食的出现就意味着快过年了",
-      "onboard_time": 1768208000,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150576,
@@ -15273,6 +15337,14 @@
       "onboard_time": 1767598582,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 143902,
+      "num": 114871,
+      "word": "秦志戬简历",
+      "onboard_time": 1768209500,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 143758,
@@ -16867,14 +16939,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 132968,
-      "num": 132968,
-      "word": "秦志戬担任国乒总教练",
-      "onboard_time": 1768208120,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 132964,
       "num": 132964,
       "word": "女子喝自制豆浆中毒上吐下泻",
@@ -16953,6 +17017,14 @@
       "onboard_time": 1767345920,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 132060,
+      "num": 111849,
+      "word": "陈妍希形容周柯宇是小狗",
+      "onboard_time": 1768210521,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 132050,
@@ -18017,14 +18089,6 @@
       "onboard_time": 1767440006,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125792,
-      "num": 113331,
-      "word": "微信通知显示头像",
-      "onboard_time": 1768208120,
-      "rank": 40,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 125583,
@@ -20859,6 +20923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109956,
+      "num": 109956,
+      "word": "杨幂中学时代就是风云人物了",
+      "onboard_time": 1768210521,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109954,
       "num": 203154,
       "word": "差评率100%的自助",
@@ -21435,6 +21507,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 106600,
+      "num": 106600,
+      "word": "邢菲古早韩妹味",
+      "onboard_time": 1768210580,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106582,
       "num": 235969,
       "word": "委内瑞拉代总统誓言营救马杜罗夫妇",
@@ -21464,6 +21544,14 @@
       "word": "刘一诺否认有剧要出",
       "onboard_time": 1768043781,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 106523,
+      "num": 106523,
+      "word": "李一桐拍美人余穿了高定",
+      "onboard_time": 1768210221,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -23107,6 +23195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100538,
+      "num": 106533,
+      "word": "河南便利店文学角",
+      "onboard_time": 1768210521,
+      "rank": 36,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 100521,
       "num": 100521,
       "word": "中方呼吁美方停止颠覆委政权",
@@ -24491,6 +24587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95561,
+      "num": 95561,
+      "word": "住进了30岁高龄的祖传自建房",
+      "onboard_time": 1768210221,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95541,
       "num": 95541,
       "word": "泡泡玛特五折甩卖为假消息",
@@ -24553,6 +24657,14 @@
       "onboard_time": 1767704362,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95363,
+      "num": 95363,
+      "word": "深圳一男子徒步望郎归摔倒后去世",
+      "onboard_time": 1768209200,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95346,
@@ -24977,6 +25089,14 @@
       "onboard_time": 1767866900,
       "rank": 46,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 93586,
+      "num": 93586,
+      "word": "白月光真的不一定是人",
+      "onboard_time": 1768209740,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 93581,
@@ -26091,6 +26211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89499,
+      "num": 89499,
+      "word": "国乒教练暂留2个岗位空缺",
+      "onboard_time": 1768210822,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89487,
       "num": 89487,
       "word": "刘世芳郑英耀列为台独顽固分子",
@@ -26835,6 +26963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86701,
+      "num": 86701,
+      "word": "赵今麦这个背",
+      "onboard_time": 1768210760,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86638,
       "num": 520292,
       "word": "瑞士爆炸遇难者朋友称现场像恐怖片",
@@ -27267,6 +27403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 85406,
+      "num": 85406,
+      "word": "店主误将10万中奖彩票给他人",
+      "onboard_time": 1768210822,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85366,
       "num": 154333,
       "word": "13克金饰在三亚买立省3500元",
@@ -27505,6 +27649,14 @@
       "onboard_time": 1767837319,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 84501,
+      "num": 84501,
+      "word": "为避罚款鳌太线事故全员开飞行模式",
+      "onboard_time": 1768210521,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84465,
@@ -32771,6 +32923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55525,
+      "num": 112623,
+      "word": "杀猪来了上千网友做清洁只剩妈妈一人",
+      "onboard_time": 1768210642,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55446,
       "num": 955429,
       "word": "上海2026年春考作文题出炉",
@@ -33251,6 +33411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 51184,
+      "num": 100491,
+      "word": "陈星旭卢昱晓差点亲上了",
+      "onboard_time": 1768210400,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51097,
       "num": 51097,
       "word": "小米判定接触相关KOL属于严重违规",
@@ -33577,6 +33745,14 @@
       "onboard_time": 1767423804,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48391,
+      "num": 176946,
+      "word": "刘震云回应便利店文学角走红",
+      "onboard_time": 1768208421,
+      "rank": 14,
+      "category": "读书作家"
     },
     {
       "raw_hot": 48217,
@@ -37532,7 +37708,7 @@
     },
     {
       "raw_hot": 18084,
-      "num": 610286,
+      "num": 634542,
       "word": "青年回村让家乡变得很酷",
       "onboard_time": 1768207820,
       "rank": 2,
