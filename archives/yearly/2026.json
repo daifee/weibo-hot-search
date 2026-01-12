@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768260264310,
+  "endTime": 1768261167810,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -2083,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 591393,
+      "num": 110361,
+      "word": "萧亚轩前男友黄皓官宣二胎",
+      "onboard_time": 1768259957,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 591379,
       "num": 827328,
       "word": "幼童吃15颗车厘子患急性肠胃炎",
@@ -2392,14 +2400,6 @@
       "word": "Sakee Asen",
       "onboard_time": 1767757341,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 555532,
-      "num": 206077,
-      "word": "蒋毅结过婚了",
-      "onboard_time": 1768014500,
-      "rank": 11,
       "category": "艺人"
     }
   ],

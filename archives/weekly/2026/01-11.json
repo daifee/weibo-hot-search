@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768260264310,
+  "endTime": 1768261167810,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -464,6 +464,14 @@
       "word": "闫学晶儿子说对不起",
       "onboard_time": 1768199422,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 591393,
+      "num": 110361,
+      "word": "萧亚轩前男友黄皓官宣二胎",
+      "onboard_time": 1768259957,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -1411,11 +1419,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 294955,
-      "num": 107535,
-      "word": "萧亚轩前男友黄皓官宣二胎",
-      "onboard_time": 1768259957,
-      "rank": 10,
+      "raw_hot": 294757,
+      "num": 108987,
+      "word": "宋祖儿我都不敢想能出现在你们面前",
+      "onboard_time": 1768259417,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -1683,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 246449,
+      "num": 715227,
+      "word": "原海航旗下飞机几乎成落马官员私人专用",
+      "onboard_time": 1768239316,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 246273,
       "num": 1039403,
       "word": "救援队被秦岭遇难者家属起诉一审结束",
@@ -1763,6 +1779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235336,
+      "num": 102005,
+      "word": "代旭儿子小名叫代劲",
+      "onboard_time": 1768260198,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235152,
       "num": 176236,
       "word": "新娘冻到发抖公公立刻脱衣披上",
@@ -1785,14 +1809,6 @@
       "onboard_time": 1768105221,
       "rank": 29,
       "category": "网红"
-    },
-    {
-      "raw_hot": 233180,
-      "num": 614229,
-      "word": "原海航旗下飞机几乎成落马官员私人专用",
-      "onboard_time": 1768239316,
-      "rank": 32,
-      "category": "国内时政"
     },
     {
       "raw_hot": 232451,
@@ -1904,6 +1920,14 @@
       "word": "10人违规吃喝1人死亡9人被处理",
       "onboard_time": 1768138642,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218975,
+      "num": 218975,
+      "word": "央视曝光退休高官腐败细节",
+      "onboard_time": 1768259658,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -2307,6 +2331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188945,
+      "num": 101081,
+      "word": "鹿晗又去看粉丝祝福墙了",
+      "onboard_time": 1768260198,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188641,
       "num": 188641,
       "word": "代旭说卢昱晓不会按电梯",
@@ -2689,6 +2721,14 @@
       "onboard_time": 1768207582,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165860,
+      "num": 165860,
+      "word": "李隼卸任国乒总教练",
+      "onboard_time": 1768259719,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 165601,
@@ -3123,14 +3163,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 148924,
-      "num": 99828,
-      "word": "宋祖儿我都不敢想能出现在你们面前",
-      "onboard_time": 1768259417,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148741,
       "num": 134984,
       "word": "白鹿晒与粉丝合影live",
@@ -3467,14 +3499,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 134447,
-      "num": 98026,
-      "word": "鹿晗又去看粉丝祝福墙了",
-      "onboard_time": 1768260198,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 134435,
       "num": 134435,
       "word": "周杰伦以球员身份参加澳网",
@@ -3667,12 +3691,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127897,
+      "num": 80618,
+      "word": "这4个小时被称为黄金睡眠时间",
+      "onboard_time": 1768259658,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 127644,
       "num": 115297,
       "word": "松天硕直播",
       "onboard_time": 1768123521,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127590,
+      "num": 73613,
+      "word": "福宝用手赶小鸟太可爱了",
+      "onboard_time": 1768259719,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 127494,
@@ -3739,22 +3779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126292,
-      "num": 96935,
-      "word": "代旭儿子小名叫代劲",
-      "onboard_time": 1768260198,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 126041,
-      "num": 80419,
-      "word": "这4个小时被称为黄金睡眠时间",
-      "onboard_time": 1768259658,
-      "rank": 20,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 125303,
       "num": 128801,
       "word": "违规穿越鳌太线5人因分歧拆成3股",
@@ -3769,6 +3793,14 @@
       "onboard_time": 1768138462,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124414,
+      "num": 80169,
+      "word": "复旦大学博士生威海追暴雪",
+      "onboard_time": 1768260078,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124319,
@@ -4323,14 +4355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109926,
-      "num": 109926,
-      "word": "李隼卸任国乒总教练",
-      "onboard_time": 1768259719,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 109920,
       "num": 109920,
       "word": "王鹤润喝嗨了开始发疯",
@@ -4851,6 +4875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99648,
+      "num": 79389,
+      "word": "鹿晗愿望季",
+      "onboard_time": 1768259597,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99192,
       "num": 99192,
       "word": "李莎旻子被华晨宇的不重逢击中了",
@@ -5003,14 +5035,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 96633,
-      "num": 70653,
-      "word": "复旦大学博士生威海追暴雪",
-      "onboard_time": 1768260078,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96582,
       "num": 196234,
       "word": "iPhone里最容易忽略的效率神器",
@@ -5129,14 +5153,6 @@
       "onboard_time": 1768211242,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94620,
-      "num": 69538,
-      "word": "福宝用手赶小鸟太可爱了",
-      "onboard_time": 1768259719,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 94616,
@@ -5779,6 +5795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80714,
+      "num": 80714,
+      "word": "慕胥辞",
+      "onboard_time": 1768259777,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80542,
       "num": 80542,
       "word": "上海2000平的豪华别墅",
@@ -5905,14 +5929,6 @@
       "onboard_time": 1768119980,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 79381,
-      "num": 77239,
-      "word": "央视曝光退休高官腐败细节",
-      "onboard_time": 1768259658,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79359,
@@ -6107,6 +6123,14 @@
       "category": "剧集,体育"
     },
     {
+      "raw_hot": 75058,
+      "num": 73614,
+      "word": "茶颜悦色门店1人触电死亡",
+      "onboard_time": 1768260739,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74819,
       "num": 126451,
       "word": "老君山现神光宝轮超惊艳",
@@ -6129,14 +6153,6 @@
       "onboard_time": 1768173437,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 73826,
-      "num": 73826,
-      "word": "鹿晗愿望季",
-      "onboard_time": 1768259597,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 73810,
@@ -6675,6 +6691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59516,
+      "num": 59516,
+      "word": "张继科说马龙许昕王皓都不好对付",
+      "onboard_time": 1768260797,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59147,
       "num": 101788,
       "word": "14岁男孩闯入铁轨拍照逼停火车",
@@ -6739,20 +6763,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 54948,
+      "num": 54948,
+      "word": "只有养过小孩的才知道他有多乖",
+      "onboard_time": 1768260918,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 54222,
       "num": 126615,
       "word": "37万投资包子铺办不出营业执照",
       "onboard_time": 1768126161,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54133,
-      "num": 54133,
-      "word": "慕胥辞",
-      "onboard_time": 1768259777,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 54037,
@@ -6817,6 +6841,14 @@
       "onboard_time": 1768210400,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 51140,
+      "num": 51140,
+      "word": "全网关心的刨猪汤长啥样",
+      "onboard_time": 1768261099,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51042,
@@ -6987,6 +7019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 41773,
+      "num": 51136,
+      "word": "林高远抵达德国",
+      "onboard_time": 1768261099,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41610,
       "num": 759597,
       "word": "我国冰雪游成为世界游客的选择",
@@ -7105,6 +7145,14 @@
       "onboard_time": 1768098499,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37900,
+      "num": 51129,
+      "word": "社恐小猫装忙不去开门",
+      "onboard_time": 1768260378,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 37107,
@@ -7241,6 +7289,14 @@
       "onboard_time": 1768064419,
       "rank": 47,
       "category": "军事"
+    },
+    {
+      "raw_hot": 32216,
+      "num": 51121,
+      "word": "司宫令",
+      "onboard_time": 1768260980,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 31998,

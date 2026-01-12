@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768260264310,
+  "endTime": 1768261167810,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -2080,6 +2080,14 @@
       "word": "闫学晶儿子说对不起",
       "onboard_time": 1768199422,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 591393,
+      "num": 110361,
+      "word": "萧亚轩前男友黄皓官宣二胎",
+      "onboard_time": 1768259957,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -6915,11 +6923,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 294955,
-      "num": 107535,
-      "word": "萧亚轩前男友黄皓官宣二胎",
-      "onboard_time": 1768259957,
-      "rank": 10,
+      "raw_hot": 294757,
+      "num": 108987,
+      "word": "宋祖儿我都不敢想能出现在你们面前",
+      "onboard_time": 1768259417,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -8475,6 +8483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 246449,
+      "num": 715227,
+      "word": "原海航旗下飞机几乎成落马官员私人专用",
+      "onboard_time": 1768239316,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 246274,
       "num": 460124,
       "word": "多地裁判文书隐去法官姓名和案号",
@@ -8803,6 +8819,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 235336,
+      "num": 102005,
+      "word": "代旭儿子小名叫代劲",
+      "onboard_time": 1768260198,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235152,
       "num": 176236,
       "word": "新娘冻到发抖公公立刻脱衣披上",
@@ -8889,14 +8913,6 @@
       "onboard_time": 1767531384,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 233180,
-      "num": 614229,
-      "word": "原海航旗下飞机几乎成落马官员私人专用",
-      "onboard_time": 1768239316,
-      "rank": 32,
-      "category": "国内时政"
     },
     {
       "raw_hot": 232456,
@@ -9577,6 +9593,14 @@
       "onboard_time": 1767196407,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218975,
+      "num": 218975,
+      "word": "央视曝光退休高官腐败细节",
+      "onboard_time": 1768259658,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218738,
@@ -11529,6 +11553,14 @@
       "onboard_time": 1768022539,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188945,
+      "num": 101081,
+      "word": "鹿晗又去看粉丝祝福墙了",
+      "onboard_time": 1768260198,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 188881,
@@ -13547,6 +13579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165860,
+      "num": 165860,
+      "word": "李隼卸任国乒总教练",
+      "onboard_time": 1768259719,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165829,
       "num": 165829,
       "word": "小米KOL事件经办人员被辞退",
@@ -15321,14 +15361,6 @@
       "onboard_time": 1767956122,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 148924,
-      "num": 99828,
-      "word": "宋祖儿我都不敢想能出现在你们面前",
-      "onboard_time": 1768259417,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 148850,
@@ -17419,14 +17451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134447,
-      "num": 98026,
-      "word": "鹿晗又去看粉丝祝福墙了",
-      "onboard_time": 1768260198,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 134445,
       "num": 134445,
       "word": "建议大家修完照片后再镜像看看",
@@ -18411,6 +18435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127897,
+      "num": 80618,
+      "word": "这4个小时被称为黄金睡眠时间",
+      "onboard_time": 1768259658,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 127806,
       "num": 127806,
       "word": "林更新问范丞丞这舞是我能跳的吗",
@@ -18457,6 +18489,14 @@
       "onboard_time": 1767315560,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 127590,
+      "num": 73613,
+      "word": "福宝用手赶小鸟太可爱了",
+      "onboard_time": 1768259719,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 127585,
@@ -18795,14 +18835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126292,
-      "num": 96935,
-      "word": "代旭儿子小名叫代劲",
-      "onboard_time": 1768260198,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 126261,
       "num": 126261,
       "word": "黄景瑜一场直播把身家搭进去了",
@@ -18833,14 +18865,6 @@
       "onboard_time": 1767676881,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 126041,
-      "num": 80419,
-      "word": "这4个小时被称为黄金睡眠时间",
-      "onboard_time": 1768259658,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 125884,
@@ -19057,6 +19081,14 @@
       "onboard_time": 1767631398,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124414,
+      "num": 80169,
+      "word": "复旦大学博士生威海追暴雪",
+      "onboard_time": 1768260078,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124375,
@@ -21835,14 +21867,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 109926,
-      "num": 109926,
-      "word": "李隼卸任国乒总教练",
-      "onboard_time": 1768259719,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 109920,
       "num": 109920,
       "word": "王鹤润喝嗨了开始发疯",
@@ -24371,6 +24395,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 99648,
+      "num": 79389,
+      "word": "鹿晗愿望季",
+      "onboard_time": 1768259597,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99647,
       "num": 124670,
       "word": "杜兰特怒摔水瓶",
@@ -25243,14 +25275,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 96633,
-      "num": 70653,
-      "word": "复旦大学博士生威海追暴雪",
-      "onboard_time": 1768260078,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96631,
       "num": 96631,
       "word": "近视眼的世界真这么离谱吗",
@@ -25857,14 +25881,6 @@
       "onboard_time": 1768211242,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94620,
-      "num": 69538,
-      "word": "福宝用手赶小鸟太可爱了",
-      "onboard_time": 1768259719,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 94616,
@@ -29643,6 +29659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80714,
+      "num": 80714,
+      "word": "慕胥辞",
+      "onboard_time": 1768259777,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80660,
       "num": 213721,
       "word": "吕布新皮肤好像贝利亚",
@@ -29945,14 +29969,6 @@
       "onboard_time": 1768027701,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 79381,
-      "num": 77239,
-      "word": "央视曝光退休高官腐败细节",
-      "onboard_time": 1768259658,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79359,
@@ -30939,6 +30955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 75058,
+      "num": 73614,
+      "word": "茶颜悦色门店1人触电死亡",
+      "onboard_time": 1768260739,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74998,
       "num": 124901,
       "word": "沉浸式上面部瑜伽课",
@@ -31209,14 +31233,6 @@
       "onboard_time": 1767337339,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 73826,
-      "num": 73826,
-      "word": "鹿晗愿望季",
-      "onboard_time": 1768259597,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 73812,
@@ -33635,6 +33651,14 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 59516,
+      "num": 59516,
+      "word": "张继科说马龙许昕王皓都不好对付",
+      "onboard_time": 1768260797,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59489,
       "num": 516727,
       "word": "萝卜纸巾猫认亲戚版",
@@ -34243,6 +34267,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 54948,
+      "num": 54948,
+      "word": "只有养过小孩的才知道他有多乖",
+      "onboard_time": 1768260918,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 54837,
       "num": 379523,
       "word": "2026一名航天员将太空出差超1年",
@@ -34321,14 +34353,6 @@
       "onboard_time": 1768126161,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54133,
-      "num": 54133,
-      "word": "慕胥辞",
-      "onboard_time": 1768259777,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 54064,
@@ -34681,6 +34705,14 @@
       "onboard_time": 1768210400,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 51140,
+      "num": 51140,
+      "word": "全网关心的刨猪汤长啥样",
+      "onboard_time": 1768261099,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51097,
@@ -35899,6 +35931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41773,
+      "num": 51136,
+      "word": "林高远抵达德国",
+      "onboard_time": 1768261099,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41650,
       "num": 71169,
       "word": "2026一起加油",
@@ -36521,6 +36561,14 @@
       "onboard_time": 1768098499,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37900,
+      "num": 51129,
+      "word": "社恐小猫装忙不去开门",
+      "onboard_time": 1768260378,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 37861,
@@ -37321,6 +37369,14 @@
       "onboard_time": 1767843441,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 32216,
+      "num": 51121,
+      "word": "司宫令",
+      "onboard_time": 1768260980,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 32189,
