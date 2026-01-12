@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768226379714,
+  "endTime": 1768228508287,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1907,6 +1907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 619036,
+      "num": 368472,
+      "word": "娇兰你好事做尽",
+      "onboard_time": 1768224081,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 615112,
       "num": 832547,
       "word": "1盒内存条堪比上海1套房",
@@ -1969,14 +1977,6 @@
       "onboard_time": 1767851720,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 605384,
-      "num": 368472,
-      "word": "娇兰你好事做尽",
-      "onboard_time": 1768224081,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 604867,
