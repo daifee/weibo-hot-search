@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768246898345,
+  "endTime": 1768250065600,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -7347,6 +7347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26687,
+      "num": 33673,
+      "word": "哈姆奈特 赵婷",
+      "onboard_time": 1768244114,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 26631,
       "num": 649142,
       "word": "中国农民种地科技感拉满",
@@ -7449,14 +7457,6 @@
       "onboard_time": 1768173858,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 23939,
-      "num": 33673,
-      "word": "哈姆奈特 赵婷",
-      "onboard_time": 1768244114,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 23886,
@@ -7745,6 +7745,22 @@
       "onboard_time": 1768211480,
       "rank": 39,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 10647,
+      "num": 14897,
+      "word": "秦志戬曾任马龙许昕主管教练",
+      "onboard_time": 1768248434,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 10514,
+      "num": 14897,
+      "word": "轧戏设定",
+      "onboard_time": 1768249394,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 9496,

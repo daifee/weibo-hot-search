@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768246898345,
+  "endTime": 1768250065600,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -37987,6 +37987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26687,
+      "num": 33673,
+      "word": "哈姆奈特 赵婷",
+      "onboard_time": 1768244114,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 26675,
       "num": 204934,
       "word": "超六成台湾民众不愿自己或家人上战场",
@@ -38297,14 +38305,6 @@
       "onboard_time": 1767398300,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23939,
-      "num": 33673,
-      "word": "哈姆奈特 赵婷",
-      "onboard_time": 1768244114,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 23886,
@@ -39539,12 +39539,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10647,
+      "num": 14897,
+      "word": "秦志戬曾任马龙许昕主管教练",
+      "onboard_time": 1768248434,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 10633,
       "num": 544183,
       "word": "海南迎封关后首个小长假",
       "onboard_time": 1767277822,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10514,
+      "num": 14897,
+      "word": "轧戏设定",
+      "onboard_time": 1768249394,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 10233,
