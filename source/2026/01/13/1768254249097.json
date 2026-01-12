@@ -1,0 +1,410 @@
+{
+  "runTime": 1768254249097,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 121823,
+        "num": 203675,
+        "word": "老干妈创始人出山救子又赚翻了",
+        "onboard_time": 1768226783,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 39291,
+        "num": 145769,
+        "word": "皇马解雇阿隆索",
+        "onboard_time": 1768241834,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3729,
+        "num": 114216,
+        "word": "尔滨的风吹到东南亚了",
+        "onboard_time": 1768201641,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48394,
+        "num": 57879,
+        "word": "肖战齐夏真的要来了",
+        "onboard_time": 1768238897,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47910,
+        "num": 52317,
+        "word": "原海航旗下飞机几乎成落马官员私人专用",
+        "onboard_time": 1768239316,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 51402,
+        "num": 51402,
+        "word": "微信通知显示头像",
+        "onboard_time": 1768208120,
+        "rank": 5,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 37519,
+        "num": 37519,
+        "word": "合川文旅称杀猪宴是呆呆私人发起",
+        "onboard_time": 1768233680,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36762,
+        "num": 36762,
+        "word": "轧戏",
+        "onboard_time": 1768216883,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25830,
+        "num": 25830,
+        "word": "伊朗外长说已控制全国局势",
+        "onboard_time": 1768227501,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24623,
+        "num": 24623,
+        "word": "韩国空难失事前75秒黑匣子录音",
+        "onboard_time": 1768209262,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 51933,
+        "num": 24574,
+        "word": "网红口子姐去世",
+        "onboard_time": 1768215022,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 38958,
+        "num": 24055,
+        "word": "女子丈夫出差男子跨城约酒强奸未遂",
+        "onboard_time": 1768228702,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32959,
+        "num": 23820,
+        "word": "上海的婚宴果然是晚上办",
+        "onboard_time": 1768235119,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29934,
+        "num": 23337,
+        "word": "家属称痔疮手术致34岁医生离世",
+        "onboard_time": 1768219221,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23090,
+        "num": 23090,
+        "word": "9岁男孩被发现带伤晚上在高速行走",
+        "onboard_time": 1768239376,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22666,
+        "num": 22666,
+        "word": "A股涨疯了一天创2项纪录",
+        "onboard_time": 1768224622,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 21932,
+        "num": 21932,
+        "word": "反腐大片第二集播出",
+        "onboard_time": 1768237757,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21922,
+        "num": 21922,
+        "word": "苏新皓苹果不是无聊的水果",
+        "onboard_time": 1768239016,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20680,
+        "num": 20680,
+        "word": "携程误发全员离职信息",
+        "onboard_time": 1768220540,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 18310,
+        "num": 18310,
+        "word": "你完全可以用一年的时间变强",
+        "onboard_time": 1768232780,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26821,
+        "num": 18304,
+        "word": "十日终焉",
+        "onboard_time": 1768223483,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24765,
+        "num": 18271,
+        "word": "妻子花光97万打赏主播承诺不看后抑郁",
+        "onboard_time": 1768224501,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24362,
+        "num": 18234,
+        "word": "张雨绮 我的身材很曼妙",
+        "onboard_time": 1768222461,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20306,
+        "num": 18174,
+        "word": "59岁高龄产妇顺利产下4斤4两男婴",
+        "onboard_time": 1768228462,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20275,
+        "num": 18150,
+        "word": "呆呆1分钟视频报价2400元",
+        "onboard_time": 1768218621,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18129,
+        "num": 18129,
+        "word": "贵州省博老馆丢失被盗29件套文物",
+        "onboard_time": 1768232301,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17835,
+        "num": 17835,
+        "word": "肖战 十日终焉",
+        "onboard_time": 1768220300,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17811,
+        "num": 17811,
+        "word": "奔跑吧天路篇",
+        "onboard_time": 1768238237,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17557,
+        "num": 17557,
+        "word": "杀猪来了上千网友做清洁只剩妈妈一人",
+        "onboard_time": 1768210642,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16883,
+        "num": 16883,
+        "word": "香港人组团买房涌入大湾区",
+        "onboard_time": 1768228761,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16688,
+        "num": 16688,
+        "word": "代旭男友力",
+        "onboard_time": 1768234460,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16668,
+        "num": 16668,
+        "word": "龙麦",
+        "onboard_time": 1768220662,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16135,
+        "num": 16135,
+        "word": "贪官和家人坐公务飞机四处旅游",
+        "onboard_time": 1768226902,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14530,
+        "num": 16135,
+        "word": "村委回应呆呆家杀猪宴最后一天",
+        "onboard_time": 1768248914,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14109,
+        "num": 16135,
+        "word": "商场客服回应洗手台酷似小便池",
+        "onboard_time": 1768236319,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15006,
+        "num": 16135,
+        "word": "代旭掀桌了",
+        "onboard_time": 1768228642,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13938,
+        "num": 16135,
+        "word": "iPhone相册自带手写体",
+        "onboard_time": 1768230321,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 13551,
+        "num": 16135,
+        "word": "王者荣耀S42赛季",
+        "onboard_time": 1768215560,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13411,
+        "num": 16134,
+        "word": "你好星期六",
+        "onboard_time": 1768232180,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13269,
+        "num": 16134,
+        "word": "哈姆奈特 赵婷",
+        "onboard_time": 1768244114,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13144,
+        "num": 16134,
+        "word": "宋祖儿丁禹兮 司宫令",
+        "onboard_time": 1768229901,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12889,
+        "num": 16134,
+        "word": "和府捞面门店拒回复汤是否现熬",
+        "onboard_time": 1768233500,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12506,
+        "num": 16134,
+        "word": "白鹿你好星期六repo",
+        "onboard_time": 1768230802,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12478,
+        "num": 16133,
+        "word": "秦志戬曾任马龙许昕主管教练",
+        "onboard_time": 1768248434,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12297,
+        "num": 16133,
+        "word": "第五人格",
+        "onboard_time": 1768228522,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 12103,
+        "num": 16133,
+        "word": "宋威龙赵今麦骄阳似我的售后",
+        "onboard_time": 1768253054,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12083,
+        "num": 16133,
+        "word": "杀生丸的脸还是太权威了",
+        "onboard_time": 1768229121,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 11983,
+        "num": 16133,
+        "word": "小城大事",
+        "onboard_time": 1768217901,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11796,
+        "num": 16132,
+        "word": "轧戏设定",
+        "onboard_time": 1768249394,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10530,
+        "num": 16132,
+        "word": "苏新皓 朱志鑫大哥哥",
+        "onboard_time": 1768230441,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届中央纪委五次全会召开#"
+    }
+  }
+}
