@@ -1,6 +1,6 @@
 {
   "startTime": 1768235820030,
-  "endTime": 1768239986819,
+  "endTime": 1768243393543,
   "band_list": [
     {
       "raw_hot": 757152,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127093,
+      "num": 74458,
+      "word": "皇马解雇阿隆索",
+      "onboard_time": 1768241834,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124565,
       "num": 124565,
       "word": "家属称痔疮手术致34岁医生离世",
@@ -243,8 +251,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 73716,
-      "num": 73716,
+      "raw_hot": 74394,
+      "num": 74394,
       "word": "肖战齐夏真的要来了",
       "onboard_time": 1768238897,
       "rank": 12,
@@ -411,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45333,
+      "num": 35610,
+      "word": "原海航旗下飞机几乎成落马官员私人专用",
+      "onboard_time": 1768239316,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 44143,
       "num": 81488,
       "word": "轧戏 猫的树",
@@ -435,19 +451,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34171,
+      "num": 35434,
+      "word": "9岁男孩被发现带伤晚上在高速行走",
+      "onboard_time": 1768239376,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31998,
       "num": 46354,
       "word": "反腐大片第二集播出",
       "onboard_time": 1768237757,
       "rank": 39,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 31398,
-      "num": 35610,
-      "word": "原海航旗下飞机几乎成落马官员私人专用",
-      "onboard_time": 1768239316,
-      "rank": 32,
       "category": "国内时政"
     },
     {
@@ -467,12 +483,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 26165,
-      "num": 35434,
-      "word": "9岁男孩被发现带伤晚上在高速行走",
-      "onboard_time": 1768239376,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 26549,
+      "num": 26549,
+      "word": "易烊千玺周一的充电处方",
+      "onboard_time": 1768242374,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 24689,
@@ -489,6 +505,14 @@
       "onboard_time": 1768226841,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16392,
+      "num": 25532,
+      "word": "王者荣耀S42赛季",
+      "onboard_time": 1768215560,
+      "rank": 48,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [

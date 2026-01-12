@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/13 00:37:00 ~ 2026/01/13 01:46:26
+本榜单时间：2026/01/13 00:37:00 ~ 2026/01/13 02:43:13
 </p>
 </blockquote>
 <p>
@@ -111,6 +111,12 @@ A股涨疯了一天创2项纪录（热度：138632）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9A%87%E9%A9%AC%E8%A7%A3%E9%9B%87%E9%98%BF%E9%9A%86%E7%B4%A2%23" target="weibo">
+皇马解雇阿隆索（热度：127093）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E7%A7%B0%E7%97%94%E7%96%AE%E6%89%8B%E6%9C%AF%E8%87%B434%E5%B2%81%E5%8C%BB%E7%94%9F%E7%A6%BB%E4%B8%96%23" target="weibo">
 家属称痔疮手术致34岁医生离世（热度：124565）
 </a>
@@ -196,7 +202,7 @@ A股涨疯了一天创2项纪录（热度：138632）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E9%BD%90%E5%A4%8F%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86%23" target="weibo">
-肖战齐夏真的要来了（热度：73716）
+肖战齐夏真的要来了（热度：74394）
 </a>
 </li>
 
@@ -321,6 +327,12 @@ A股涨疯了一天创2项纪录（热度：138632）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%B5%B7%E8%88%AA%E6%97%97%E4%B8%8B%E9%A3%9E%E6%9C%BA%E5%87%A0%E4%B9%8E%E6%88%90%E8%90%BD%E9%A9%AC%E5%AE%98%E5%91%98%E7%A7%81%E4%BA%BA%E4%B8%93%E7%94%A8%23" target="weibo">
+原海航旗下飞机几乎成落马官员私人专用（热度：45333）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%A7%E6%88%8F%20%E7%8C%AB%E7%9A%84%E6%A0%91%23" target="weibo">
 轧戏 猫的树（热度：44143）
 </a>
@@ -339,14 +351,14 @@ A股涨疯了一天创2项纪录（热度：138632）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8D%E8%85%90%E5%A4%A7%E7%89%87%E7%AC%AC%E4%BA%8C%E9%9B%86%E6%92%AD%E5%87%BA%23" target="weibo">
-反腐大片第二集播出（热度：31998）
+<a href="https://s.weibo.com/weibo?q=%239%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%B8%A6%E4%BC%A4%E6%99%9A%E4%B8%8A%E5%9C%A8%E9%AB%98%E9%80%9F%E8%A1%8C%E8%B5%B0%23" target="weibo">
+9岁男孩被发现带伤晚上在高速行走（热度：34171）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%B5%B7%E8%88%AA%E6%97%97%E4%B8%8B%E9%A3%9E%E6%9C%BA%E5%87%A0%E4%B9%8E%E6%88%90%E8%90%BD%E9%A9%AC%E5%AE%98%E5%91%98%E7%A7%81%E4%BA%BA%E4%B8%93%E7%94%A8%23" target="weibo">
-原海航旗下飞机几乎成落马官员私人专用（热度：31398）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8D%E8%85%90%E5%A4%A7%E7%89%87%E7%AC%AC%E4%BA%8C%E9%9B%86%E6%92%AD%E5%87%BA%23" target="weibo">
+反腐大片第二集播出（热度：31998）
 </a>
 </li>
 
@@ -363,8 +375,8 @@ A股涨疯了一天创2项纪录（热度：138632）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%239%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%B8%A6%E4%BC%A4%E6%99%9A%E4%B8%8A%E5%9C%A8%E9%AB%98%E9%80%9F%E8%A1%8C%E8%B5%B0%23" target="weibo">
-9岁男孩被发现带伤晚上在高速行走（热度：26165）
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%91%A8%E4%B8%80%E7%9A%84%E5%85%85%E7%94%B5%E5%A4%84%E6%96%B9%23" target="weibo">
+易烊千玺周一的充电处方（热度：26549）
 </a>
 </li>
 
@@ -377,6 +389,12 @@ A股涨疯了一天创2项纪录（热度：138632）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%90%AF2026%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB%23" target="weibo">
 开启2026美好生活（热度：18754）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80S42%E8%B5%9B%E5%AD%A3%23" target="weibo">
+王者荣耀S42赛季（热度：16392）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/11 00:34:00 ~ 2026/01/13 01:46:26
+本榜单时间：2026/01/11 00:34:00 ~ 2026/01/13 02:43:13
 </p>
 </blockquote>
 <p>
@@ -2733,6 +2733,12 @@ A股涨疯了一天创2项记录（热度：129695）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9A%87%E9%A9%AC%E8%A7%A3%E9%9B%87%E9%98%BF%E9%9A%86%E7%B4%A2%23" target="weibo">
+皇马解雇阿隆索（热度：127093）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E9%97%A8%E7%A5%A8%E6%83%85%E5%86%B5%23" target="weibo">
 微博之夜门票情况（热度：126980）
 </a>
@@ -4515,6 +4521,12 @@ sakee详细说明（热度：79989）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E9%BD%90%E5%A4%8F%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86%23" target="weibo">
+肖战齐夏真的要来了（热度：74394）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E5%88%98%E6%B5%B7%E5%8D%B7%E7%AD%92%E5%88%B0%E5%BA%95%E6%80%8E%E4%B9%88%E7%94%A8%E4%BA%86%23" target="weibo">
 终于知道刘海卷筒到底怎么用了（热度：74101）
 </a>
@@ -4529,12 +4541,6 @@ sakee详细说明（热度：79989）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97%E6%9C%80%E5%94%AF%E7%BE%8E%E7%9A%84%E4%B8%BB%E9%A2%98%E6%9B%B2%23" target="weibo">
 名侦探柯南最唯美的主题曲（热度：73810）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E9%BD%90%E5%A4%8F%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86%23" target="weibo">
-肖战齐夏真的要来了（热度：73716）
 </a>
 </li>
 
@@ -5115,6 +5121,12 @@ sakee asen（热度：58695）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%B5%B7%E8%88%AA%E6%97%97%E4%B8%8B%E9%A3%9E%E6%9C%BA%E5%87%A0%E4%B9%8E%E6%88%90%E8%90%BD%E9%A9%AC%E5%AE%98%E5%91%98%E7%A7%81%E4%BA%BA%E4%B8%93%E7%94%A8%23" target="weibo">
+原海航旗下飞机几乎成落马官员私人专用（热度：45333）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%90%83%E5%A5%96%E5%90%90%E6%A7%BD%E5%B0%8F%E6%9D%8E%E5%AD%90%E6%89%BE%E5%B9%B4%E8%BD%BB%E5%A5%B3%E5%8F%8B%23" target="weibo">
 金球奖吐槽小李子找年轻女友（热度：44677）
 </a>
@@ -5319,6 +5331,12 @@ Breathe说RNG退出可惜了（热度：36758）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%239%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%B8%A6%E4%BC%A4%E6%99%9A%E4%B8%8A%E5%9C%A8%E9%AB%98%E9%80%9F%E8%A1%8C%E8%B5%B0%23" target="weibo">
+9岁男孩被发现带伤晚上在高速行走（热度：34171）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%BD%91%E8%B4%AD%E8%8C%B6%E9%A5%BC%E6%8B%86%E5%87%BA%E5%90%B8%E5%89%A9%E7%83%9F%E5%A4%B4%23" target="weibo">
 男子网购茶饼拆出吸剩烟头（热度：33814）
 </a>
@@ -5369,12 +5387,6 @@ Breathe说RNG退出可惜了（热度：36758）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%91%8A%E4%BA%BA%E6%9D%80%E6%AD%BB%E5%A5%B3%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%90%8E%E5%BC%80%E7%A9%BA%E8%B0%83%E8%97%8F%E5%B0%B8%23" target="weibo">
 被告人杀死女医学生后开空调藏尸（热度：31462）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%B5%B7%E8%88%AA%E6%97%97%E4%B8%8B%E9%A3%9E%E6%9C%BA%E5%87%A0%E4%B9%8E%E6%88%90%E8%90%BD%E9%A9%AC%E5%AE%98%E5%91%98%E7%A7%81%E4%BA%BA%E4%B8%93%E7%94%A8%23" target="weibo">
-原海航旗下飞机几乎成落马官员私人专用（热度：31398）
 </a>
 </li>
 
@@ -5523,8 +5535,8 @@ TF四代宇宙闪烁请注意侧拍（热度：26863）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%239%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%B8%A6%E4%BC%A4%E6%99%9A%E4%B8%8A%E5%9C%A8%E9%AB%98%E9%80%9F%E8%A1%8C%E8%B5%B0%23" target="weibo">
-9岁男孩被发现带伤晚上在高速行走（热度：26165）
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%91%A8%E4%B8%80%E7%9A%84%E5%85%85%E7%94%B5%E5%A4%84%E6%96%B9%23" target="weibo">
+易烊千玺周一的充电处方（热度：26549）
 </a>
 </li>
 
@@ -5717,6 +5729,12 @@ WTT新加坡大满贯（热度：24046）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%B2%99%E4%B8%98%E6%88%98%E5%A3%AB%23" target="weibo">
 刘宇宁沙丘战士（热度：17134）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80S42%E8%B5%9B%E5%AD%A3%23" target="weibo">
+王者荣耀S42赛季（热度：16392）
 </a>
 </li>
 
