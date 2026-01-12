@@ -1,6 +1,6 @@
 {
   "startTime": 1768149237092,
-  "endTime": 1768223791103,
+  "endTime": 1768225928600,
   "band_list": [
     {
       "raw_hot": 2692974,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1522691,
-      "num": 206643,
+      "num": 373486,
       "word": "宋威龙赵今麦完全是婚礼现场",
       "onboard_time": 1768221381,
       "rank": 10,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1513071,
-      "num": 206325,
+      "num": 371177,
       "word": "网红口子姐去世",
       "onboard_time": 1768215022,
       "rank": 48,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 828217,
-      "num": 167110,
+      "num": 179131,
       "word": "赵今麦这个背",
       "onboard_time": 1768210760,
       "rank": 46,
@@ -155,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 664978,
+      "num": 182990,
+      "word": "张雨绮 我的身材很曼妙",
+      "onboard_time": 1768222461,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 660844,
       "num": 382193,
       "word": "英语老师回应12岁小学生自杀",
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 578563,
-      "num": 204565,
+      "num": 366451,
       "word": "家属称痔疮手术致34岁医生离世",
       "onboard_time": 1768219221,
       "rank": 13,
@@ -227,8 +235,16 @@
       "category": "教育"
     },
     {
+      "raw_hot": 561939,
+      "num": 368472,
+      "word": "娇兰你好事做尽",
+      "onboard_time": 1768224081,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 558789,
-      "num": 377006,
+      "num": 377972,
       "word": "爱喝奶茶的人天塌了",
       "onboard_time": 1768210043,
       "rank": 21,
@@ -241,6 +257,14 @@
       "onboard_time": 1768201761,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 523641,
+      "num": 902986,
+      "word": "北京退休人员产检也可报销",
+      "onboard_time": 1768220840,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 520800,
@@ -300,7 +324,7 @@
     },
     {
       "raw_hot": 482805,
-      "num": 201551,
+      "num": 363039,
       "word": "龙麦",
       "onboard_time": 1768220662,
       "rank": 14,
@@ -345,14 +369,6 @@
       "onboard_time": 1768202601,
       "rank": 17,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 451698,
-      "num": 902986,
-      "word": "北京退休人员产检也可报销",
-      "onboard_time": 1768220840,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 446810,
@@ -507,6 +523,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 365363,
+      "num": 365363,
+      "word": "国乒丢冠的根本原因",
+      "onboard_time": 1768220900,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 360025,
       "num": 1057604,
       "word": "央视播出养老金贪污案细节",
@@ -603,6 +627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 309005,
+      "num": 1049440,
+      "word": "十日终焉",
+      "onboard_time": 1768223483,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 302461,
       "num": 302461,
       "word": "陈梦回应出演小城大事",
@@ -684,7 +716,7 @@
     },
     {
       "raw_hot": 273705,
-      "num": 166481,
+      "num": 195516,
       "word": "苏新皓直播",
       "onboard_time": 1768215921,
       "rank": 28,
@@ -737,6 +769,14 @@
       "onboard_time": 1768204460,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 250856,
+      "num": 381419,
+      "word": "十日终焉开机时间",
+      "onboard_time": 1768222461,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 248411,
@@ -835,14 +875,6 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 235828,
-      "num": 235828,
-      "word": "十日终焉开机时间",
-      "onboard_time": 1768222461,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 235152,
       "num": 176236,
       "word": "新娘冻到发抖公公立刻脱衣披上",
@@ -889,14 +921,6 @@
       "onboard_time": 1768178301,
       "rank": 14,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 217870,
-      "num": 179538,
-      "word": "张雨绮 我的身材很曼妙",
-      "onboard_time": 1768222461,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 214838,
@@ -985,22 +1009,6 @@
       "onboard_time": 1768213341,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 196409,
-      "num": 196409,
-      "word": "十日终焉",
-      "onboard_time": 1768223483,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 194934,
-      "num": 194934,
-      "word": "国乒丢冠的根本原因",
-      "onboard_time": 1768220900,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 194752,
@@ -1121,6 +1129,14 @@
       "onboard_time": 1768144701,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 180905,
+      "num": 180905,
+      "word": "妻子花光97万打赏主播承诺不看后抑郁",
+      "onboard_time": 1768224501,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180144,
@@ -1427,12 +1443,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146655,
+      "num": 146655,
+      "word": "商场男厕洗手台酷似小便池险误用",
+      "onboard_time": 1768224142,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146052,
       "num": 127837,
       "word": "林高远欧冠出战时间确认",
       "onboard_time": 1768191381,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145360,
+      "num": 145360,
+      "word": "轧戏 猫的树",
+      "onboard_time": 1768223181,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 144394,
@@ -1452,7 +1484,7 @@
     },
     {
       "raw_hot": 143174,
-      "num": 143174,
+      "num": 376491,
       "word": "2026年起这些化妆品不能卖",
       "onboard_time": 1768222162,
       "rank": 29,
@@ -1460,7 +1492,7 @@
     },
     {
       "raw_hot": 142020,
-      "num": 142020,
+      "num": 182183,
       "word": "A股为何这么猛",
       "onboard_time": 1768218500,
       "rank": 27,
@@ -1571,12 +1603,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137961,
+      "num": 183955,
+      "word": "47岁女子上班期间冲泡奶茶被辞退",
+      "onboard_time": 1768221801,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137090,
       "num": 137090,
       "word": "短剧版慕容云海",
       "onboard_time": 1768203020,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136507,
+      "num": 136507,
+      "word": "陈梦探班黄晓明探成客串",
+      "onboard_time": 1768224682,
+      "rank": 32,
+      "category": "剧集,体育"
     },
     {
       "raw_hot": 135767,
@@ -1745,14 +1793,6 @@
       "onboard_time": 1768206022,
       "rank": 32,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 125756,
-      "num": 132620,
-      "word": "47岁女子上班期间冲泡奶茶被辞退",
-      "onboard_time": 1768221801,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125303,
@@ -2019,6 +2059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110536,
+      "num": 132553,
+      "word": "张继科回应质疑身正不怕影子斜",
+      "onboard_time": 1768225043,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110258,
       "num": 110258,
       "word": "威海特大暴雪为何这么厉害",
@@ -2147,6 +2195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104861,
+      "num": 100298,
+      "word": "娇兰现场放龙麦吻戏",
+      "onboard_time": 1768225882,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104804,
       "num": 158026,
       "word": "微博之夜",
@@ -2185,6 +2241,14 @@
       "onboard_time": 1768182919,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 103622,
+      "num": 108122,
+      "word": "A股涨疯了一天创2项记录",
+      "onboard_time": 1768224622,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 103598,
@@ -2331,6 +2395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98488,
+      "num": 139458,
+      "word": "呆呆家杀猪现场已限流",
+      "onboard_time": 1768224560,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97815,
       "num": 101487,
       "word": "山东的雪杀疯了",
@@ -2467,20 +2539,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94560,
+      "num": 108063,
+      "word": "合川文旅否认呆呆杀年猪是联合炒作",
+      "onboard_time": 1768222883,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93586,
       "num": 93586,
       "word": "白月光真的不一定是人",
       "onboard_time": 1768209740,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 93399,
-      "num": 93399,
-      "word": "轧戏 猫的树",
-      "onboard_time": 1768223181,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 93382,
@@ -2521,6 +2593,14 @@
       "onboard_time": 1768186278,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 92147,
+      "num": 92147,
+      "word": "代旭 爱上男二的梦女病又犯了",
+      "onboard_time": 1768225643,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 91922,
@@ -2579,12 +2659,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 89573,
+      "num": 89573,
+      "word": "全新未拆封iPhone4炒到万元",
+      "onboard_time": 1768223123,
+      "rank": 49,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 89570,
       "num": 104284,
       "word": "肖战2部电影3部剧得奖",
       "onboard_time": 1768219521,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 88713,
+      "num": 88713,
+      "word": "黄晓明无台词演技",
+      "onboard_time": 1768225581,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 88680,
@@ -2827,14 +2923,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 79393,
-      "num": 89222,
-      "word": "全新未拆封iPhone4炒到万元",
-      "onboard_time": 1768223123,
-      "rank": 49,
-      "category": "民生新闻,数码"
-    },
-    {
       "raw_hot": 78883,
       "num": 78883,
       "word": "朱雨玲世界排名升至第五",
@@ -2921,14 +3009,6 @@
       "onboard_time": 1768174458,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 72136,
-      "num": 108063,
-      "word": "合川文旅否认呆呆杀年猪是联合炒作",
-      "onboard_time": 1768222883,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70407,
@@ -3323,6 +3403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 41610,
+      "num": 759597,
+      "word": "我国冰雪游成为世界游客的选择",
+      "onboard_time": 1768207100,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41470,
       "num": 123949,
       "word": "6秒见证金靖的神图诞生",
@@ -3531,6 +3619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 26273,
+      "num": 181475,
+      "word": "贪官到哪就把行贿商人带到哪",
+      "onboard_time": 1768225702,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25990,
       "num": 213069,
       "word": "特朗普说考虑干预伊朗局势的强硬选项",
@@ -3569,14 +3665,6 @@
       "onboard_time": 1768200141,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 22424,
-      "num": 759597,
-      "word": "我国冰雪游成为世界游客的选择",
-      "onboard_time": 1768207100,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21371,
@@ -3705,6 +3793,14 @@
       "onboard_time": 1768197140,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 5116,
+      "num": 578758,
+      "word": "尔滨的风吹到东南亚了",
+      "onboard_time": 1768201641,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -3713,6 +3809,9 @@
     },
     {
       "word": "#总书记高度重视党风廉政建设#"
+    },
+    {
+      "word": "#二十届中央纪委五次全会召开#"
     }
   ]
 }
