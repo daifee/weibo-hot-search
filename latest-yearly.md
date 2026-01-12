@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/12 07:41:37
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/12 10:22:05
 </p>
 </blockquote>
 <p>
@@ -1539,6 +1539,12 @@ AI照片竟然拿了摄影比赛第一名（热度：667067）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%97%AB%E5%AD%A6%E6%99%B6%E8%AF%B4%E8%AE%A8%E5%8E%8C%E4%B8%8B%E6%84%8F%E8%AF%86%E9%9C%B2%E5%87%BA%E8%BD%BB%E8%A7%86%E7%9A%84%E8%87%AA%E5%B7%B1%23" target="weibo">
+闫学晶说讨厌下意识露出轻视的自己（热度：576109）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E5%AE%98%E5%AE%A3%E9%80%80%E5%BD%B9%23" target="weibo">
 武大靖官宣退役（热度：574191）
 </a>
@@ -1805,12 +1811,6 @@ iPhoneFold上手（热度：543056）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%A3%AB%E6%BB%91%E9%9B%AA%E8%83%9C%E5%9C%B0%E7%88%86%E7%82%B8%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BC%A4%23" target="weibo">
 瑞士滑雪胜地爆炸多人死伤（热度：534844）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E7%9A%84%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%A2%A6%E5%9B%9E%E6%98%8E%E5%85%B0%E4%BA%86%23" target="weibo">
-今天的赵丽颖梦回明兰了（热度：533941）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1768184525364,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 351709,
+        "num": 1056273,
+        "word": "烟台暴雪下冒烟了",
+        "onboard_time": 1768134981,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314407,
+        "num": 785343,
+        "word": "美联储主席鲍威尔遭刑事调查",
+        "onboard_time": 1768179921,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25769,
+        "num": 613532,
+        "word": "中国农民种地科技感拉满",
+        "onboard_time": 1768138883,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 270792,
+        "num": 270792,
+        "word": "江苏省考成绩",
+        "onboard_time": 1768181659,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 221915,
+        "num": 221915,
+        "word": "住在山顶的小猫1天被游客带下山3次",
+        "onboard_time": 1768177281,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319699,
+        "num": 214315,
+        "word": "左眼跳财右眼跳相信科学",
+        "onboard_time": 1768174638,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192219,
+        "num": 192219,
+        "word": "金球奖",
+        "onboard_time": 1768177580,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178149,
+        "num": 178149,
+        "word": "九万已经可以首付买房了",
+        "onboard_time": 1768175960,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161405,
+        "num": 161405,
+        "word": "云初令",
+        "onboard_time": 1768184300,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124083,
+        "num": 124083,
+        "word": "王者荣耀泉水被打爆",
+        "onboard_time": 1768174638,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 629444,
+        "num": 123287,
+        "word": "金价",
+        "onboard_time": 1768179620,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 576109,
+        "num": 122528,
+        "word": "闫学晶说讨厌下意识露出轻视的自己",
+        "onboard_time": 1768178540,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352522,
+        "num": 122024,
+        "word": "张凌赫用了粉丝选的头像",
+        "onboard_time": 1768176740,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240982,
+        "num": 121261,
+        "word": "90后女子卖淫秽视频被判刑",
+        "onboard_time": 1768173858,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219966,
+        "num": 120176,
+        "word": "代旭按电梯",
+        "onboard_time": 1768178301,
+        "rank": 14,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 152557,
+        "num": 119002,
+        "word": "手欠小狗每个人路过都要摸一下",
+        "onboard_time": 1768173138,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 272024,
+        "num": 118075,
+        "word": "闫学晶给所有公众人物敲响警钟",
+        "onboard_time": 1768183278,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117629,
+        "num": 117629,
+        "word": "贪官称世界真奇妙退休才知道",
+        "onboard_time": 1768183220,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114563,
+        "num": 114563,
+        "word": "伊朗哀悼3天",
+        "onboard_time": 1768174338,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98944,
+        "num": 114252,
+        "word": "女医学生遭前男友杀害临终遗言曝光",
+        "onboard_time": 1768183579,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276178,
+        "num": 114194,
+        "word": "娘家坐月子因开灯被嫂子吐槽",
+        "onboard_time": 1768181059,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115942,
+        "num": 114183,
+        "word": "哺乳期妈妈打玻尿酸致单眼失明",
+        "onboard_time": 1768178420,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114133,
+        "num": 114133,
+        "word": "男子怂恿多人卖淫私吞嫖资获刑",
+        "onboard_time": 1768183040,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111740,
+        "num": 111740,
+        "word": "新娘结婚也不忘记工作",
+        "onboard_time": 1768180280,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110773,
+        "num": 110773,
+        "word": "脾胃不好多吃金银饭",
+        "onboard_time": 1768174397,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110258,
+        "num": 110258,
+        "word": "威海特大暴雪为何这么厉害",
+        "onboard_time": 1768174458,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108513,
+        "num": 108513,
+        "word": "陈星旭卢昱晓连黑历史都是高清的",
+        "onboard_time": 1768176200,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103725,
+        "num": 103725,
+        "word": "特朗普称无论如何都要拿下格陵兰岛",
+        "onboard_time": 1768182919,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100683,
+        "num": 100683,
+        "word": "金价突破4600美元",
+        "onboard_time": 1768181181,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 96708,
+        "num": 96708,
+        "word": "轧戏",
+        "onboard_time": 1768176860,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189304,
+        "num": 96022,
+        "word": "全红婵留长发了",
+        "onboard_time": 1768184358,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92808,
+        "num": 92808,
+        "word": "林昀儒男单冠军",
+        "onboard_time": 1768157474,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87540,
+        "num": 87540,
+        "word": "五角大楼回应末日飞机现身洛杉矶",
+        "onboard_time": 1768184120,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87256,
+        "num": 87256,
+        "word": "主人回应猫被反复救助后自己爬山回家",
+        "onboard_time": 1768183339,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87233,
+        "num": 87233,
+        "word": "红果年度的女演员",
+        "onboard_time": 1768179141,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84343,
+        "num": 84343,
+        "word": "除LPL外各大联赛取消奖金",
+        "onboard_time": 1768181598,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 84041,
+        "num": 84041,
+        "word": "威海的雪叫冷流雪",
+        "onboard_time": 1768181181,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82145,
+        "num": 82145,
+        "word": "虞书欣张云龙新剧同框",
+        "onboard_time": 1768184419,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81719,
+        "num": 81719,
+        "word": "4种伪休息反而伤气血",
+        "onboard_time": 1768174458,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 23251,
+        "num": 79221,
+        "word": "家教中介线上信息费是线下1.3倍",
+        "onboard_time": 1768183579,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78876,
+        "num": 78876,
+        "word": "伊朗或很快遭美国以色列攻击",
+        "onboard_time": 1768184479,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77873,
+        "num": 77873,
+        "word": "金价波动",
+        "onboard_time": 1768181419,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 74690,
+        "num": 74690,
+        "word": "小城大事nono哥",
+        "onboard_time": 1768184300,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72695,
+        "num": 72695,
+        "word": "朱雨玲夺冠后与教练陈振江拥抱",
+        "onboard_time": 1768184239,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69540,
+        "num": 69540,
+        "word": "肖战将出席电视剧年度盛典",
+        "onboard_time": 1768173378,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67255,
+        "num": 67255,
+        "word": "网红起床了小澈2次否认",
+        "onboard_time": 1768136362,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 64333,
+        "num": 64333,
+        "word": "老人开飘窗玻璃突然从24楼砸下",
+        "onboard_time": 1768140622,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69198,
+        "num": 64043,
+        "word": "杨幂将出席电视剧年度盛典",
+        "onboard_time": 1768181239,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63660,
+        "num": 63660,
+        "word": "小众的洁癖行为",
+        "onboard_time": 1768177099,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61799,
+        "num": 61799,
+        "word": "U23国足出线形势",
+        "onboard_time": 1768184479,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#反腐大片一步不停歇半步不退让#"
+    }
+  }
+}
