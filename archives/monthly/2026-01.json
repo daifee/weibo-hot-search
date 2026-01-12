@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768232084255,
+  "endTime": 1768233050962,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -6475,6 +6475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 311717,
+      "num": 311717,
+      "word": "肖战网文排名前五演了四个",
+      "onboard_time": 1768231641,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 311662,
       "num": 383706,
       "word": "宋妍霏用可视掏耳勺拍的MV",
@@ -7163,16 +7171,8 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 281893,
-      "num": 203956,
-      "word": "肖战网文排名前五演了四个",
-      "onboard_time": 1768231641,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 281289,
-      "num": 188336,
+      "num": 228855,
       "word": "女子丈夫出差男子跨城约酒强奸未遂",
       "onboard_time": 1768228702,
       "rank": 19,
@@ -7633,6 +7633,14 @@
       "onboard_time": 1767601702,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 269195,
+      "num": 269195,
+      "word": "租客深夜发救命房东醒来满楼血迹",
+      "onboard_time": 1768230263,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 269000,
@@ -9860,7 +9868,7 @@
     },
     {
       "raw_hot": 212174,
-      "num": 212174,
+      "num": 346684,
       "word": "贵州一幼儿园森林里放养娃",
       "onboard_time": 1768226902,
       "rank": 28,
@@ -11457,14 +11465,6 @@
       "onboard_time": 1767795805,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 189237,
-      "num": 189237,
-      "word": "租客深夜发救命房东醒来满楼血迹",
-      "onboard_time": 1768230263,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 189067,
@@ -14379,6 +14379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158175,
+      "num": 266501,
+      "word": "A股涨疯了一天创2项纪录",
+      "onboard_time": 1768224622,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 158117,
       "num": 138047,
       "word": "苏新皓快闪店人气",
@@ -15785,6 +15793,14 @@
       "onboard_time": 1767754101,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144887,
+      "num": 258326,
+      "word": "哭哭马订单排到3月",
+      "onboard_time": 1768231101,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144815,
@@ -17307,6 +17323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134593,
+      "num": 134593,
+      "word": "iPhone相册自带手写体",
+      "onboard_time": 1768230321,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 134553,
       "num": 134553,
       "word": "韩红演唱会嘉宾许嵩",
@@ -17641,14 +17665,6 @@
       "onboard_time": 1767345920,
       "rank": 15,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 132196,
-      "num": 132196,
-      "word": "A股涨疯了一天创2项纪录",
-      "onboard_time": 1768224622,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 132191,
@@ -19539,14 +19555,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 121594,
-      "num": 121594,
-      "word": "iPhone相册自带手写体",
-      "onboard_time": 1768230321,
-      "rank": 34,
-      "category": "数码"
-    },
-    {
       "raw_hot": 121519,
       "num": 121519,
       "word": "王玉雯赵今麦早期合照",
@@ -20507,6 +20515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116054,
+      "num": 541652,
+      "word": "你好星期六",
+      "onboard_time": 1767413906,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115942,
       "num": 114183,
       "word": "哺乳期妈妈打玻尿酸致单眼失明",
@@ -21425,6 +21441,14 @@
       "onboard_time": 1767774322,
       "rank": 37,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 112054,
+      "num": 134078,
+      "word": "你完全可以用一年的时间变强",
+      "onboard_time": 1768232780,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 111917,
@@ -22385,14 +22409,6 @@
       "onboard_time": 1768120221,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106402,
-      "num": 541652,
-      "word": "你好星期六",
-      "onboard_time": 1767413906,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 106400,
@@ -29811,6 +29827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 79359,
+      "num": 77645,
+      "word": "这段黄晓明完全本色出演",
+      "onboard_time": 1768232059,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 79328,
       "num": 243435,
       "word": "港媒称樊振东效应引爆德国杯",
@@ -30248,14 +30272,6 @@
       "word": "为骄阳似我配角加冕",
       "onboard_time": 1767879262,
       "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 77645,
-      "num": 77645,
-      "word": "这段黄晓明完全本色出演",
-      "onboard_time": 1768232059,
-      "rank": 48,
       "category": "剧集"
     },
     {
@@ -31473,6 +31489,14 @@
       "onboard_time": 1768056263,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 70920,
+      "num": 70920,
+      "word": "香港人组团买房涌入大湾区",
+      "onboard_time": 1768228761,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70802,
@@ -33337,14 +33361,6 @@
       "onboard_time": 1767828438,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 60407,
-      "num": 156960,
-      "word": "哭哭马订单排到3月",
-      "onboard_time": 1768231101,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60396,
@@ -36363,6 +36379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37182,
+      "num": 141970,
+      "word": "贵州省博老馆丢失被盗29件套文物",
+      "onboard_time": 1768232301,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37132,
       "num": 102102,
       "word": "20岁男生填报高考志愿当晚遇害",
@@ -37267,6 +37291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30955,
+      "num": 713305,
+      "word": "开启2026美好生活",
+      "onboard_time": 1768226841,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30866,
       "num": 101332,
       "word": "张钧甯从金桔到菠萝包",
@@ -37488,14 +37520,6 @@
       "word": "110是刻在骨子里的安全感",
       "onboard_time": 1768021101,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29236,
-      "num": 713305,
-      "word": "开启2026美好生活",
-      "onboard_time": 1768226841,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -37873,6 +37897,14 @@
       "onboard_time": 1767697822,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 26581,
+      "num": 91933,
+      "word": "买家退货羊毛夹克店家称收到棉服",
+      "onboard_time": 1768232662,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26393,

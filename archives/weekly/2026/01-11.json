@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768232084255,
+  "endTime": 1768233050962,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -395,20 +395,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 646778,
+      "num": 861625,
+      "word": "轧戏",
+      "onboard_time": 1768046421,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 644519,
       "num": 191675,
       "word": "冯小刚女儿颜值",
       "onboard_time": 1768128200,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 640278,
-      "num": 861625,
-      "word": "轧戏",
-      "onboard_time": 1768046421,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 629444,
@@ -1347,6 +1347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 311717,
+      "num": 311717,
+      "word": "肖战网文排名前五演了四个",
+      "onboard_time": 1768231641,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 311662,
       "num": 383706,
       "word": "宋妍霏用可视掏耳勺拍的MV",
@@ -1419,16 +1427,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 281893,
-      "num": 203956,
-      "word": "肖战网文排名前五演了四个",
-      "onboard_time": 1768231641,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 281289,
-      "num": 188336,
+      "num": 228855,
       "word": "女子丈夫出差男子跨城约酒强奸未遂",
       "onboard_time": 1768228702,
       "rank": 19,
@@ -1544,6 +1544,14 @@
       "word": "2026年第一个闯大祸的人出现了",
       "onboard_time": 1768189880,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269195,
+      "num": 269195,
+      "word": "租客深夜发救命房东醒来满楼血迹",
+      "onboard_time": 1768230263,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -1964,7 +1972,7 @@
     },
     {
       "raw_hot": 212174,
-      "num": 212174,
+      "num": 346684,
       "word": "贵州一幼儿园森林里放养娃",
       "onboard_time": 1768226902,
       "rank": 28,
@@ -2249,14 +2257,6 @@
       "onboard_time": 1768206079,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 189237,
-      "num": 189237,
-      "word": "租客深夜发救命房东醒来满楼血迹",
-      "onboard_time": 1768230263,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 189067,
@@ -2851,6 +2851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158175,
+      "num": 266501,
+      "word": "A股涨疯了一天创2项纪录",
+      "onboard_time": 1768224622,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 157831,
       "num": 157831,
       "word": "死了么APP感谢大家对新名称建议",
@@ -3105,6 +3113,14 @@
       "onboard_time": 1768110860,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144887,
+      "num": 258326,
+      "word": "哭哭马订单排到3月",
+      "onboard_time": 1768231101,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144647,
@@ -3387,6 +3403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134593,
+      "num": 134593,
+      "word": "iPhone相册自带手写体",
+      "onboard_time": 1768230321,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 134435,
       "num": 134435,
       "word": "周杰伦以球员身份参加澳网",
@@ -3449,14 +3473,6 @@
       "onboard_time": 1768222101,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132196,
-      "num": 132196,
-      "word": "A股涨疯了一天创2项纪录",
-      "onboard_time": 1768224622,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 132191,
@@ -3779,14 +3795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121594,
-      "num": 121594,
-      "word": "iPhone相册自带手写体",
-      "onboard_time": 1768230321,
-      "rank": 34,
-      "category": "数码"
-    },
-    {
       "raw_hot": 120865,
       "num": 120865,
       "word": "林允 古装仪态",
@@ -3937,6 +3945,14 @@
       "onboard_time": 1768191561,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116054,
+      "num": 116054,
+      "word": "你好星期六",
+      "onboard_time": 1768232180,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 115942,
@@ -4137,6 +4153,14 @@
       "onboard_time": 1768119021,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112054,
+      "num": 134078,
+      "word": "你完全可以用一年的时间变强",
+      "onboard_time": 1768232780,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 111909,
@@ -5763,6 +5787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 79359,
+      "num": 77645,
+      "word": "这段黄晓明完全本色出演",
+      "onboard_time": 1768232059,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 79174,
       "num": 79174,
       "word": "我讨厌打开APP我的歌就被暂停了",
@@ -5841,14 +5873,6 @@
       "onboard_time": 1768174878,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77645,
-      "num": 77645,
-      "word": "这段黄晓明完全本色出演",
-      "onboard_time": 1768232059,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 77618,
@@ -6073,6 +6097,14 @@
       "onboard_time": 1768099459,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 70920,
+      "num": 70920,
+      "word": "香港人组团买房涌入大湾区",
+      "onboard_time": 1768228761,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70680,
@@ -6433,14 +6465,6 @@
       "onboard_time": 1768099281,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60407,
-      "num": 156960,
-      "word": "哭哭马订单排到3月",
-      "onboard_time": 1768231101,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60223,
@@ -6891,6 +6915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 37182,
+      "num": 141970,
+      "word": "贵州省博老馆丢失被盗29件套文物",
+      "onboard_time": 1768232301,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37107,
       "num": 188784,
       "word": "国家文物局就优化文物管理发声",
@@ -7059,6 +7091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30955,
+      "num": 713305,
+      "word": "开启2026美好生活",
+      "onboard_time": 1768226841,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30866,
       "num": 101332,
       "word": "张钧甯从金桔到菠萝包",
@@ -7097,14 +7137,6 @@
       "onboard_time": 1768151416,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 29236,
-      "num": 713305,
-      "word": "开启2026美好生活",
-      "onboard_time": 1768226841,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29120,
@@ -7209,6 +7241,14 @@
       "onboard_time": 1768138883,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 26581,
+      "num": 91933,
+      "word": "买家退货羊毛夹克店家称收到棉服",
+      "onboard_time": 1768232662,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25990,
