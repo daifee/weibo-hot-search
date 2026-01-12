@@ -1,6 +1,6 @@
 {
   "startTime": 1768235820030,
-  "endTime": 1768236871306,
+  "endTime": 1768239097204,
   "band_list": [
     {
       "raw_hot": 757152,
@@ -83,20 +83,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176966,
+      "num": 124520,
+      "word": "上海的婚宴果然是晚上办",
+      "onboard_time": 1768235119,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175100,
       "num": 175100,
       "word": "携程误发全员离职信息",
       "onboard_time": 1768220540,
       "rank": 12,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 157291,
-      "num": 124520,
-      "word": "上海的婚宴果然是晚上办",
-      "onboard_time": 1768235119,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 144082,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89910,
+      "num": 124481,
+      "word": "合川文旅称杀猪宴是呆呆私人发起",
+      "onboard_time": 1768233680,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87857,
       "num": 124531,
       "word": "杀猪来了上千网友做清洁只剩妈妈一人",
@@ -235,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73716,
+      "num": 73716,
+      "word": "肖战齐夏真的要来了",
+      "onboard_time": 1768238897,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 69100,
       "num": 124519,
       "word": "白鹿你好星期六repo",
@@ -249,14 +265,6 @@
       "onboard_time": 1768230802,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 67335,
-      "num": 124481,
-      "word": "合川文旅称杀猪宴是呆呆私人发起",
-      "onboard_time": 1768233680,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 66769,
@@ -339,6 +347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 55105,
+      "num": 51709,
+      "word": "苏新皓苹果不是无聊的水果",
+      "onboard_time": 1768239016,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54375,
       "num": 124477,
       "word": "香港人组团买房涌入大湾区",
@@ -403,12 +419,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 41501,
+      "num": 46387,
+      "word": "奔跑吧天路篇",
+      "onboard_time": 1768238237,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39775,
       "num": 81473,
       "word": "商场客服回应洗手台酷似小便池",
       "onboard_time": 1768236319,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31998,
+      "num": 46354,
+      "word": "反腐大片第二集播出",
+      "onboard_time": 1768237757,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 31382,
+      "num": 46348,
+      "word": "春节前手机大厂最后一波冲刺",
+      "onboard_time": 1768236917,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 28112,
+      "num": 46340,
+      "word": "侯明昊和粉丝双向奔赴的爱",
+      "onboard_time": 1768237636,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 18754,
