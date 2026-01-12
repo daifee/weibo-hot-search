@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768203356696,
+  "endTime": 1768204111823,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -2156,11 +2156,19 @@
     },
     {
       "raw_hot": 571208,
-      "num": 211919,
+      "num": 323239,
       "word": "我是谢娜 你现在必须去上学",
       "onboard_time": 1768195881,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 570505,
+      "num": 1076543,
+      "word": "河南省考报名",
+      "onboard_time": 1768189461,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 570048,
@@ -2392,14 +2400,6 @@
       "word": "跨年晚会主持人告别单薄礼服",
       "onboard_time": 1767266420,
       "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 541244,
-      "num": 199369,
-      "word": "梁淞以为何美延没下车慌了",
-      "onboard_time": 1767865280,
-      "rank": 16,
       "category": "综艺"
     }
   ],

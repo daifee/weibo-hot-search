@@ -1,0 +1,410 @@
+{
+  "runTime": 1768204111823,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 272412,
+        "num": 1043585,
+        "word": "初中生网购疑似侵华日军信件",
+        "onboard_time": 1768188141,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216668,
+        "num": 769426,
+        "word": "歼10CE击落多架战机自身无损伤",
+        "onboard_time": 1768202242,
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 130021,
+        "num": 605414,
+        "word": "海南离岛免税7天卖了12个亿",
+        "onboard_time": 1768198460,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330487,
+        "num": 571465,
+        "word": "得知三孩又是儿子爸爸笑容当场凝固",
+        "onboard_time": 1768198220,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 570505,
+        "num": 570505,
+        "word": "河南省考报名",
+        "onboard_time": 1768189461,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 484693,
+        "num": 484693,
+        "word": "100%食用率水果",
+        "onboard_time": 1768198041,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 404208,
+        "num": 404208,
+        "word": "娇兰活动",
+        "onboard_time": 1768198819,
+        "rank": 6,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 388253,
+        "num": 399932,
+        "word": "孙颖莎王曼昱打破女队发展模式",
+        "onboard_time": 1768200200,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223830,
+        "num": 399338,
+        "word": "呆呆杀猪",
+        "onboard_time": 1768195101,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196453,
+        "num": 399310,
+        "word": "痞幼回应前几段恋情",
+        "onboard_time": 1768201581,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399299,
+        "num": 399299,
+        "word": "陈妍希周柯宇红秀",
+        "onboard_time": 1768202601,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 256631,
+        "num": 383182,
+        "word": "女子患病2年后像裘千尺被离婚",
+        "onboard_time": 1768201879,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378357,
+        "num": 378357,
+        "word": "张子枫赵又廷新剧吻戏",
+        "onboard_time": 1768198580,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323239,
+        "num": 323239,
+        "word": "我是谢娜 你现在必须去上学",
+        "onboard_time": 1768195881,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191757,
+        "num": 191757,
+        "word": "A股实现17连阳",
+        "onboard_time": 1768203442,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 225697,
+        "num": 188638,
+        "word": "杨迪吐槽papi恶意录制",
+        "onboard_time": 1768201761,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184249,
+        "num": 184249,
+        "word": "黄晓明18年前闹太套18年后里头门",
+        "onboard_time": 1768198521,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172832,
+        "num": 172832,
+        "word": "A股",
+        "onboard_time": 1768185680,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 70458,
+        "num": 172658,
+        "word": "金帝巧克力 擦边营销",
+        "onboard_time": 1768203561,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43436,
+        "num": 172594,
+        "word": "日本派船出海探查海底稀土",
+        "onboard_time": 1768203380,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 765208,
+        "num": 172244,
+        "word": "河南省考 进不去",
+        "onboard_time": 1768190241,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 354522,
+        "num": 172045,
+        "word": "河南省考",
+        "onboard_time": 1768198941,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 215459,
+        "num": 171950,
+        "word": "新娘冻到发抖公公立刻脱衣披上",
+        "onboard_time": 1768202420,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171793,
+        "num": 171793,
+        "word": "农业农村部原部长唐仁健贪腐轨迹",
+        "onboard_time": 1768201939,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 180730,
+        "num": 171010,
+        "word": "张碧晨骄阳似我大结局发文",
+        "onboard_time": 1768202721,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169998,
+        "num": 169998,
+        "word": "小英两胎顺产都没打无痛",
+        "onboard_time": 1768199899,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 155126,
+        "num": 155126,
+        "word": "死了么APP付费人数几天翻200倍",
+        "onboard_time": 1768202360,
+        "rank": 26,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 153491,
+        "num": 153491,
+        "word": "无手女孩再回应演示换卫生巾",
+        "onboard_time": 1768202841,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151479,
+        "num": 151479,
+        "word": "最佳睡眠到底是几个小时",
+        "onboard_time": 1768190060,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140950,
+        "num": 140950,
+        "word": "肯德基品牌代言人孙颖莎",
+        "onboard_time": 1768201100,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138994,
+        "num": 138994,
+        "word": "章小蕙曾以两票之差输给章子怡",
+        "onboard_time": 1768202721,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134972,
+        "num": 134972,
+        "word": "短剧版慕容云海",
+        "onboard_time": 1768203020,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112484,
+        "num": 128801,
+        "word": "违规穿越鳌太线5人因分歧拆成3股",
+        "onboard_time": 1768200741,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128553,
+        "num": 128553,
+        "word": "苏新皓cha了偶像万万岁",
+        "onboard_time": 1768203320,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125255,
+        "num": 125255,
+        "word": "这居然是陈梦",
+        "onboard_time": 1768188260,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105133,
+        "num": 117900,
+        "word": "我不再讨厌星期一了",
+        "onboard_time": 1768200200,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116028,
+        "num": 116028,
+        "word": "单依纯官宣香奈儿",
+        "onboard_time": 1768184659,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115239,
+        "num": 115239,
+        "word": "洪金宝和三个儿子第一次合作",
+        "onboard_time": 1768203681,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97796,
+        "num": 97796,
+        "word": "2026年第一个闯大祸的人出现了",
+        "onboard_time": 1768189880,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82221,
+        "num": 97356,
+        "word": "休假女警一脚踢落嫌犯凶器",
+        "onboard_time": 1768203020,
+        "rank": 39,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 97007,
+        "num": 97007,
+        "word": "代旭吻戏",
+        "onboard_time": 1768202660,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94819,
+        "num": 94819,
+        "word": "李莎旻子被华晨宇的不重逢击中了",
+        "onboard_time": 1768200980,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91922,
+        "num": 91922,
+        "word": "2025年新开两融账户154.21万户",
+        "onboard_time": 1768203921,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 87587,
+        "num": 87587,
+        "word": "求助杀猪女子走红合川文旅连夜开会",
+        "onboard_time": 1768202301,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86499,
+        "num": 86499,
+        "word": "果然赌徒心理是不分年龄的",
+        "onboard_time": 1768203320,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85128,
+        "num": 85128,
+        "word": "代旭喊卢昱晓羞羞",
+        "onboard_time": 1768201400,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85084,
+        "num": 85084,
+        "word": "去东北一定记得带根火腿肠",
+        "onboard_time": 1768203981,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84097,
+        "num": 84097,
+        "word": "这8个习惯很容易带走气血",
+        "onboard_time": 1768201461,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 83565,
+        "num": 83565,
+        "word": "宋祖儿入局杀青",
+        "onboard_time": 1768199059,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82344,
+        "num": 82344,
+        "word": "QQ音乐超级会员代言人",
+        "onboard_time": 1768190060,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记高度重视党风廉政建设#"
+    }
+  }
+}
