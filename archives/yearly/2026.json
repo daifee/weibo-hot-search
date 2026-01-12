@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768211797526,
+  "endTime": 1768214085593,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 1510836,
-      "num": 293743,
+      "num": 393899,
       "word": "微信通知显示头像",
       "onboard_time": 1768208120,
       "rank": 40,
@@ -979,6 +979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 828217,
+      "num": 167110,
+      "word": "赵今麦这个背",
+      "onboard_time": 1768210760,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 822931,
       "num": 232494,
       "word": "演员关凌因挤痘事件上火烂嘴角",
@@ -1049,6 +1057,14 @@
       "onboard_time": 1768118061,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 809206,
+      "num": 1129473,
+      "word": "杀猪来了上千网友做清洁只剩妈妈一人",
+      "onboard_time": 1768210642,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 808268,
@@ -1145,6 +1161,14 @@
       "onboard_time": 1767595701,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 777384,
+      "num": 837364,
+      "word": "韩国空难失事前75秒黑匣子录音",
+      "onboard_time": 1768209262,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 777134,
@@ -2251,6 +2275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 558789,
+      "num": 377006,
+      "word": "爱喝奶茶的人天塌了",
+      "onboard_time": 1768210043,
+      "rank": 21,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 558513,
       "num": 1030792,
       "word": "吃蒜 偏头痛",
@@ -2369,38 +2401,6 @@
       "onboard_time": 1768035981,
       "rank": 34,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 547779,
-      "num": 827960,
-      "word": "李在明夫人穿韩服出席晚宴",
-      "onboard_time": 1767579021,
-      "rank": 13,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 546661,
-      "num": 1029254,
-      "word": "瑞士历史上最严重的悲剧之一",
-      "onboard_time": 1767345320,
-      "rank": 26,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 545432,
-      "num": 324521,
-      "word": "苏醒谈孩子因为自己的身份攀比",
-      "onboard_time": 1767756561,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 544794,
-      "num": 260629,
-      "word": "叙利亚",
-      "onboard_time": 1767589344,
-      "rank": 14,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [

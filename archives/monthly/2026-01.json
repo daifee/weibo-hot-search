@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768211797526,
+  "endTime": 1768214085593,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 1510836,
-      "num": 293743,
+      "num": 393899,
       "word": "微信通知显示头像",
       "onboard_time": 1768208120,
       "rank": 40,
@@ -979,6 +979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 828217,
+      "num": 167110,
+      "word": "赵今麦这个背",
+      "onboard_time": 1768210760,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 822931,
       "num": 232494,
       "word": "演员关凌因挤痘事件上火烂嘴角",
@@ -1049,6 +1057,14 @@
       "onboard_time": 1768118061,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 809206,
+      "num": 1129473,
+      "word": "杀猪来了上千网友做清洁只剩妈妈一人",
+      "onboard_time": 1768210642,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 808268,
@@ -1145,6 +1161,14 @@
       "onboard_time": 1767595701,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 777384,
+      "num": 837364,
+      "word": "韩国空难失事前75秒黑匣子录音",
+      "onboard_time": 1768209262,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 777134,
@@ -2251,6 +2275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 558789,
+      "num": 377006,
+      "word": "爱喝奶茶的人天塌了",
+      "onboard_time": 1768210043,
+      "rank": 21,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 558513,
       "num": 1030792,
       "word": "吃蒜 偏头痛",
@@ -2883,6 +2915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 509300,
+      "num": 142729,
+      "word": "宋威龙 白马王子",
+      "onboard_time": 1768211599,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 507982,
       "num": 423198,
       "word": "委内瑞拉石油储量世界第一",
@@ -2913,6 +2953,14 @@
       "onboard_time": 1767657680,
       "rank": 6,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 507017,
+      "num": 163861,
+      "word": "XG改名",
+      "onboard_time": 1768211361,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 506991,
@@ -5067,14 +5115,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 360840,
-      "num": 167110,
-      "word": "赵今麦这个背",
-      "onboard_time": 1768210760,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 360335,
       "num": 562423,
       "word": "呼和浩特发生2.8级地震",
@@ -5177,6 +5217,14 @@
       "onboard_time": 1767849321,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 356981,
+      "num": 356981,
+      "word": "肖战担任国乒副总教练",
+      "onboard_time": 1768210580,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 356968,
@@ -5329,14 +5377,6 @@
       "onboard_time": 1767868701,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 351247,
-      "num": 351247,
-      "word": "肖战担任国乒副总教练",
-      "onboard_time": 1768210580,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 351190,
@@ -6107,6 +6147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 317931,
+      "num": 140329,
+      "word": "王俊凯和伴舞 两个绝望的直男",
+      "onboard_time": 1768212441,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 317640,
       "num": 124810,
       "word": "张凌赫首个千万赞视频",
@@ -6873,14 +6921,6 @@
       "onboard_time": 1767229520,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 285320,
-      "num": 285320,
-      "word": "爱喝奶茶的人天塌了",
-      "onboard_time": 1768210043,
-      "rank": 21,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 284795,
@@ -8115,6 +8155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 249476,
+      "num": 129321,
+      "word": "英国人在中国暴食后喜提急诊",
+      "onboard_time": 1768212081,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 249400,
       "num": 154612,
       "word": "董璇张维伊牵着小酒窝",
@@ -8745,6 +8793,14 @@
       "onboard_time": 1767706821,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 229955,
+      "num": 229955,
+      "word": "黄海城会是孙颖莎主管教练吗",
+      "onboard_time": 1768212261,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 229326,
@@ -9915,14 +9971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205840,
-      "num": 205840,
-      "word": "杀猪来了上千网友做清洁只剩妈妈一人",
-      "onboard_time": 1768210642,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 205823,
       "num": 258403,
       "word": "马杜罗",
@@ -10089,14 +10137,6 @@
       "onboard_time": 1767775342,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 201826,
-      "num": 163861,
-      "word": "XG改名",
-      "onboard_time": 1768211361,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 201823,
@@ -10401,6 +10441,14 @@
       "onboard_time": 1767752301,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197528,
+      "num": 197528,
+      "word": "御赐小仵作",
+      "onboard_time": 1768212921,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 197414,
@@ -12491,6 +12539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 172579,
+      "num": 172579,
+      "word": "丁程鑫踢话筒",
+      "onboard_time": 1768212921,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 172468,
       "num": 172468,
       "word": "迪丽热巴红秀油画公主大片",
@@ -12987,14 +13043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167192,
-      "num": 167192,
-      "word": "韩国空难失事前75秒黑匣子录音",
-      "onboard_time": 1768209262,
-      "rank": 18,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 167120,
       "num": 167120,
       "word": "乱讲PPT大赛",
@@ -13465,6 +13513,14 @@
       "onboard_time": 1767501803,
       "rank": 27,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 162950,
+      "num": 162950,
+      "word": "虞书欣云初令看啥呢",
+      "onboard_time": 1768212681,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 162847,
@@ -14035,6 +14091,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 157577,
+      "num": 134163,
+      "word": "向涵之这个红绳你今年别摘了",
+      "onboard_time": 1768211242,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157492,
       "num": 228374,
       "word": "宋威龙现偶偶爸",
@@ -14105,6 +14169,14 @@
       "onboard_time": 1767443547,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157049,
+      "num": 129061,
+      "word": "父亲见到遇害女儿遗体哭都哭不出来",
+      "onboard_time": 1768213341,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156963,
@@ -14963,6 +15035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147694,
+      "num": 128918,
+      "word": "整栋楼都醒了只有妹妹没醒",
+      "onboard_time": 1768212561,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147691,
       "num": 147691,
       "word": "司机诱导就餐4菜1868元被罚1.5万",
@@ -14993,6 +15073,14 @@
       "onboard_time": 1767886761,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147518,
+      "num": 128778,
+      "word": "无拖延症动线",
+      "onboard_time": 1768213700,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 147513,
@@ -15403,6 +15491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144026,
+      "num": 141768,
+      "word": "A股创新高的原因找到了",
+      "onboard_time": 1768213101,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 143902,
       "num": 114871,
       "word": "秦志戬简历",
@@ -15433,6 +15529,14 @@
       "onboard_time": 1768026862,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 143594,
+      "num": 143594,
+      "word": "当地文旅回应呆呆杀猪后续安排",
+      "onboard_time": 1768211781,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143438,
@@ -16027,6 +16131,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 139768,
+      "num": 167123,
+      "word": "中方回应暂停对日稀土出口许可审查",
+      "onboard_time": 1768211420,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 139751,
       "num": 139751,
       "word": "黄金白银将迎新年第一劫",
@@ -16249,6 +16361,14 @@
       "onboard_time": 1767513742,
       "rank": 46,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 137969,
+      "num": 128346,
+      "word": "第一次在综艺里看到油锅加水",
+      "onboard_time": 1768213402,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 137953,
@@ -17443,6 +17563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 129507,
+      "num": 129507,
+      "word": "孙颖莎前主管教练回归",
+      "onboard_time": 1768213281,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129500,
       "num": 1385289,
       "word": "2026跨年图片",
@@ -17649,6 +17777,14 @@
       "onboard_time": 1767265280,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128274,
+      "num": 128274,
+      "word": "许我耀眼导演新作",
+      "onboard_time": 1768213761,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 128254,
@@ -19787,14 +19923,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 116548,
-      "num": 116548,
-      "word": "宋威龙 白马王子",
-      "onboard_time": 1768211599,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116464,
       "num": 116464,
       "word": "DNF打团热身神曲来了",
@@ -20273,6 +20401,14 @@
       "onboard_time": 1767597562,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114115,
+      "num": 114115,
+      "word": "小城大事云合6.3%",
+      "onboard_time": 1768212200,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 114089,
@@ -21305,6 +21441,14 @@
       "onboard_time": 1767257360,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 108259,
+      "num": 119682,
+      "word": "大连8米高梦露雕塑被撤",
+      "onboard_time": 1768212801,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108142,
@@ -22601,6 +22745,14 @@
       "onboard_time": 1767828799,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 102880,
+      "num": 102880,
+      "word": "被白砂糖做的龙震惊到了",
+      "onboard_time": 1768212382,
+      "rank": 45,
+      "category": "休闲"
     },
     {
       "raw_hot": 102798,
@@ -24505,6 +24657,14 @@
       "onboard_time": 1767330921,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96082,
+      "num": 96082,
+      "word": "水泥麻辣烫",
+      "onboard_time": 1768213942,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 96043,
@@ -31123,6 +31283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67366,
+      "num": 128472,
+      "word": "中国或将首个带回火星样本",
+      "onboard_time": 1768212621,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67286,
       "num": 652371,
       "word": "无人机拍到了现实版千里江山图",
@@ -32963,6 +33131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 55846,
+      "num": 102465,
+      "word": "中方回应美对古巴发出新威胁",
+      "onboard_time": 1768212621,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 55692,
       "num": 108027,
       "word": "中国男子马来西亚潜水拖拽玳瑁",
@@ -33587,6 +33763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50251,
+      "num": 123943,
+      "word": "新娘回应结婚当天接学生电话",
+      "onboard_time": 1768213460,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50153,
       "num": 102314,
       "word": "多位多邻国用户投诉遭直接扣款998",
@@ -34177,14 +34361,6 @@
       "onboard_time": 1767323300,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 45944,
-      "num": 119000,
-      "word": "向涵之这个红绳你今年别摘了",
-      "onboard_time": 1768211242,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 45873,
@@ -35313,14 +35489,6 @@
       "onboard_time": 1767938181,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37420,
-      "num": 167123,
-      "word": "中方回应暂停对日稀土出口许可审查",
-      "onboard_time": 1768211420,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 37380,
@@ -38185,6 +38353,14 @@
       "onboard_time": 1767867980,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11949,
+      "num": 123949,
+      "word": "6秒见证金靖的神图诞生",
+      "onboard_time": 1768213880,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 11911,
