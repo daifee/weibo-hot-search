@@ -1,0 +1,410 @@
+{
+  "runTime": 1768192606838,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 360025,
+        "num": 1057604,
+        "word": "央视播出养老金贪污案细节",
+        "onboard_time": 1768188441,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 332922,
+        "num": 784116,
+        "word": "贪官称世界真奇妙退休才知道",
+        "onboard_time": 1768183220,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18243,
+        "num": 611344,
+        "word": "中国农民种地科技感拉满",
+        "onboard_time": 1768138883,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 383973,
+        "num": 593660,
+        "word": "初中生网购疑似侵华日军信件",
+        "onboard_time": 1768188141,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332659,
+        "num": 566367,
+        "word": "甜茶金球奖影帝",
+        "onboard_time": 1768186639,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 618835,
+        "num": 508326,
+        "word": "这居然是陈梦",
+        "onboard_time": 1768188260,
+        "rank": 5,
+        "category": "剧集,体育"
+      },
+      {
+        "raw_hot": 397757,
+        "num": 454895,
+        "word": "A股",
+        "onboard_time": 1768185680,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 449496,
+        "num": 449496,
+        "word": "特朗普发图自称委内瑞拉代总统",
+        "onboard_time": 1768189221,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 275295,
+        "num": 442570,
+        "word": "女子网购一箱粑粑柑开出百种丑法",
+        "onboard_time": 1768187480,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270691,
+        "num": 440686,
+        "word": "2026年第一个闯大祸的人出现了",
+        "onboard_time": 1768189880,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439252,
+        "num": 439252,
+        "word": "QQ音乐超级会员代言人",
+        "onboard_time": 1768190060,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367318,
+        "num": 367318,
+        "word": "香奈儿官宣单依纯",
+        "onboard_time": 1768186999,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362991,
+        "num": 362991,
+        "word": "全红婵留长发了",
+        "onboard_time": 1768184358,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240468,
+        "num": 240468,
+        "word": "宋妍霏用可视掏耳勺拍的MV",
+        "onboard_time": 1768188919,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 239372,
+        "num": 239372,
+        "word": "死了么app",
+        "onboard_time": 1768192343,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 233070,
+        "num": 233070,
+        "word": "用户与AI聊黄开发者获刑",
+        "onboard_time": 1768190541,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254319,
+        "num": 230735,
+        "word": "单依纯官宣香奈儿",
+        "onboard_time": 1768184659,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215189,
+        "num": 215189,
+        "word": "日本第一代不婚族开始后悔了",
+        "onboard_time": 1768190660,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 61782,
+        "num": 213171,
+        "word": "羽绒服成新年送礼黑马",
+        "onboard_time": 1768190781,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 25990,
+        "num": 213069,
+        "word": "特朗普说考虑干预伊朗局势的强硬选项",
+        "onboard_time": 1768191982,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 212977,
+        "num": 212977,
+        "word": "死了么APP估值达千万",
+        "onboard_time": 1768190420,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 271803,
+        "num": 212770,
+        "word": "迅猛龙曾多次发与网红小澈同框视频",
+        "onboard_time": 1768189820,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 206543,
+        "num": 206543,
+        "word": "檀健次 孟子义送我菠萝这何意味",
+        "onboard_time": 1768191863,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157772,
+        "num": 196957,
+        "word": "娘家坐月子因开灯被嫂子吐槽",
+        "onboard_time": 1768181059,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188641,
+        "num": 188641,
+        "word": "代旭说卢昱晓不会按电梯",
+        "onboard_time": 1768190721,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174960,
+        "num": 174960,
+        "word": "汪苏泷代言MLB",
+        "onboard_time": 1768184720,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149967,
+        "num": 164457,
+        "word": "社保工作人员骗养老金多少蛀虫待清理",
+        "onboard_time": 1768192101,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161605,
+        "num": 161605,
+        "word": "赵文卓金巧巧 武术人的精气神",
+        "onboard_time": 1768191322,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157163,
+        "num": 157163,
+        "word": "虞书欣张云龙云初令首发海报",
+        "onboard_time": 1768187240,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140902,
+        "num": 140902,
+        "word": "未定事件簿",
+        "onboard_time": 1768192461,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130781,
+        "num": 130781,
+        "word": "于正3个月瘦了30斤减肥心得",
+        "onboard_time": 1768190361,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130775,
+        "num": 130775,
+        "word": "吴佳怡不是命硬的不演",
+        "onboard_time": 1768192101,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114024,
+        "num": 128519,
+        "word": "俄罗斯回应绑架普京言论",
+        "onboard_time": 1768192101,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127913,
+        "num": 127913,
+        "word": "朱志鑫 您在哪里啊",
+        "onboard_time": 1768192403,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118532,
+        "num": 118532,
+        "word": "散是一地鸡毛聚是意大利炮",
+        "onboard_time": 1768191803,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112964,
+        "num": 112964,
+        "word": "金价",
+        "onboard_time": 1768179620,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110280,
+        "num": 110280,
+        "word": "00后买年货有自己的碎碎念",
+        "onboard_time": 1768190060,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109787,
+        "num": 109787,
+        "word": "宋威龙 苦了自己也不能苦别人",
+        "onboard_time": 1768191561,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108956,
+        "num": 108956,
+        "word": "河南省考 进不去",
+        "onboard_time": 1768190241,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 59800,
+        "num": 105898,
+        "word": "威海暴雪再现冰河世纪场景",
+        "onboard_time": 1768191621,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104573,
+        "num": 104573,
+        "word": "玉茗茶骨给男二写了个男主人设",
+        "onboard_time": 1768187299,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103268,
+        "num": 103268,
+        "word": "成何体统",
+        "onboard_time": 1768192222,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97815,
+        "num": 101487,
+        "word": "山东的雪杀疯了",
+        "onboard_time": 1768191262,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100298,
+        "num": 100298,
+        "word": "向太 7天闪婚和7年长跑没有区别",
+        "onboard_time": 1768192523,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98155,
+        "num": 98155,
+        "word": "云初令",
+        "onboard_time": 1768184300,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96246,
+        "num": 97382,
+        "word": "樊振东捐钱修路切实造福民众",
+        "onboard_time": 1768191681,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96761,
+        "num": 96761,
+        "word": "侯明昊太粘人了",
+        "onboard_time": 1768189401,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96554,
+        "num": 96554,
+        "word": "魏大勋孙千有罪之身新海报",
+        "onboard_time": 1768189941,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95053,
+        "num": 95053,
+        "word": "全红婵肉眼可见的瘦了",
+        "onboard_time": 1768192581,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92501,
+        "num": 92501,
+        "word": "受到口头表扬上百次但含金量为零",
+        "onboard_time": 1768191021,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#反腐大片一步不停歇半步不退让#"
+    }
+  }
+}

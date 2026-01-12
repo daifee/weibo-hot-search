@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768191409246,
+  "endTime": 1768192606838,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1268140,
-      "num": 387288,
+      "num": 508326,
       "word": "这居然是陈梦",
       "onboard_time": 1768188260,
       "rank": 5,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 481845,
-      "num": 386205,
+      "num": 449496,
       "word": "特朗普发图自称委内瑞拉代总统",
       "onboard_time": 1768189221,
       "rank": 6,
@@ -523,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 439252,
+      "num": 439252,
+      "word": "QQ音乐超级会员代言人",
+      "onboard_time": 1768190060,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 437121,
       "num": 206665,
       "word": "岳云鹏回应今年不上春晚",
@@ -556,7 +564,7 @@
     },
     {
       "raw_hot": 410777,
-      "num": 385617,
+      "num": 454895,
       "word": "A股",
       "onboard_time": 1768185680,
       "rank": 7,
@@ -604,7 +612,7 @@
     },
     {
       "raw_hot": 401952,
-      "num": 401952,
+      "num": 566367,
       "word": "甜茶金球奖影帝",
       "onboard_time": 1768186639,
       "rank": 3,
@@ -636,7 +644,7 @@
     },
     {
       "raw_hot": 387527,
-      "num": 387527,
+      "num": 593660,
       "word": "初中生网购疑似侵华日军信件",
       "onboard_time": 1768188141,
       "rank": 4,
@@ -649,14 +657,6 @@
       "onboard_time": 1768127421,
       "rank": 15,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 381001,
-      "num": 381001,
-      "word": "QQ音乐超级会员代言人",
-      "onboard_time": 1768190060,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 379813,
@@ -699,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 360025,
+      "num": 1057604,
+      "word": "央视播出养老金贪污案细节",
+      "onboard_time": 1768188441,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 359682,
       "num": 1051100,
       "word": "成都地铁实现1人1座",
@@ -732,7 +740,7 @@
     },
     {
       "raw_hot": 348442,
-      "num": 384453,
+      "num": 442570,
       "word": "女子网购一箱粑粑柑开出百种丑法",
       "onboard_time": 1768187480,
       "rank": 8,
@@ -764,7 +772,7 @@
     },
     {
       "raw_hot": 336734,
-      "num": 222882,
+      "num": 239372,
       "word": "死了么app",
       "onboard_time": 1768035741,
       "rank": 14,
@@ -948,7 +956,7 @@
     },
     {
       "raw_hot": 276178,
-      "num": 148178,
+      "num": 196957,
       "word": "娘家坐月子因开灯被嫂子吐槽",
       "onboard_time": 1768181059,
       "rank": 20,
@@ -963,14 +971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 272562,
-      "num": 750494,
-      "word": "央视播出养老金贪污案细节",
-      "onboard_time": 1768188441,
-      "rank": 1,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 272479,
       "num": 272479,
       "word": "黄晓明吃泡面这段太有生活了",
@@ -979,12 +979,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271803,
+      "num": 212770,
+      "word": "迅猛龙曾多次发与网红小澈同框视频",
+      "onboard_time": 1768189820,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 270792,
       "num": 768730,
       "word": "江苏省考成绩",
       "onboard_time": 1768181659,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 270691,
+      "num": 440686,
+      "word": "2026年第一个闯大祸的人出现了",
+      "onboard_time": 1768189880,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 264707,
@@ -1009,14 +1025,6 @@
       "onboard_time": 1768114821,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 260755,
-      "num": 260755,
-      "word": "2026年第一个闯大祸的人出现了",
-      "onboard_time": 1768189880,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 259386,
@@ -1057,6 +1065,14 @@
       "onboard_time": 1768110981,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 254319,
+      "num": 230735,
+      "word": "单依纯官宣香奈儿",
+      "onboard_time": 1768184659,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 250416,
@@ -1129,6 +1145,14 @@
       "onboard_time": 1768105221,
       "rank": 29,
       "category": "网红"
+    },
+    {
+      "raw_hot": 233070,
+      "num": 233070,
+      "word": "用户与AI聊黄开发者获刑",
+      "onboard_time": 1768190541,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 232451,
@@ -1259,12 +1283,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 214157,
-      "num": 159393,
-      "word": "单依纯官宣香奈儿",
-      "onboard_time": 1768184659,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 215189,
+      "num": 215189,
+      "word": "日本第一代不婚族开始后悔了",
+      "onboard_time": 1768190660,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 213309,
@@ -1281,6 +1305,14 @@
       "onboard_time": 1768173138,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 212977,
+      "num": 212977,
+      "word": "死了么APP估值达千万",
+      "onboard_time": 1768190420,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 212542,
@@ -1321,6 +1353,14 @@
       "onboard_time": 1768120822,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206543,
+      "num": 206543,
+      "word": "檀健次 孟子义送我菠萝这何意味",
+      "onboard_time": 1768191863,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 205282,
@@ -1427,14 +1467,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 192161,
-      "num": 159392,
-      "word": "迅猛龙曾多次发与网红小澈同框视频",
-      "onboard_time": 1768189820,
-      "rank": 21,
-      "category": "网红"
-    },
-    {
       "raw_hot": 191938,
       "num": 175278,
       "word": "唐诡马参军真的参军了",
@@ -1473,6 +1505,14 @@
       "onboard_time": 1768134622,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188641,
+      "num": 188641,
+      "word": "代旭说卢昱晓不会按电梯",
+      "onboard_time": 1768190721,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 187263,
@@ -1787,12 +1827,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 161629,
-      "num": 161629,
-      "word": "死了么APP估值达千万",
-      "onboard_time": 1768190420,
-      "rank": 18,
-      "category": "互联网"
+      "raw_hot": 161605,
+      "num": 161605,
+      "word": "赵文卓金巧巧 武术人的精气神",
+      "onboard_time": 1768191322,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 161497,
@@ -1883,6 +1923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157163,
+      "num": 157163,
+      "word": "虞书欣张云龙云初令首发海报",
+      "onboard_time": 1768187240,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156116,
       "num": 156116,
       "word": "明日方舟",
@@ -1913,14 +1961,6 @@
       "onboard_time": 1768145660,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 154712,
-      "num": 154712,
-      "word": "用户与AI聊黄开发者获刑",
-      "onboard_time": 1768190541,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154032,
@@ -1963,6 +2003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149967,
+      "num": 164457,
+      "word": "社保工作人员骗养老金多少蛀虫待清理",
+      "onboard_time": 1768192101,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149714,
       "num": 149714,
       "word": "沈梦辰 我内心装满了张凌赫",
@@ -1985,14 +2033,6 @@
       "onboard_time": 1768134922,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 148161,
-      "num": 148161,
-      "word": "虞书欣张云龙云初令首发海报",
-      "onboard_time": 1768187240,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 146137,
@@ -2051,6 +2091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140902,
+      "num": 140902,
+      "word": "未定事件簿",
+      "onboard_time": 1768192461,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 140463,
       "num": 171807,
       "word": "格陵兰岛上正发生恐慌性抢购",
@@ -2097,14 +2145,6 @@
       "onboard_time": 1768139003,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135545,
-      "num": 135545,
-      "word": "代旭说卢昱晓不会按电梯",
-      "onboard_time": 1768190721,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 135209,
@@ -2171,6 +2211,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130781,
+      "num": 130781,
+      "word": "于正3个月瘦了30斤减肥心得",
+      "onboard_time": 1768190361,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 130775,
+      "num": 130775,
+      "word": "吴佳怡不是命硬的不演",
+      "onboard_time": 1768192101,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130638,
       "num": 128116,
       "word": "Viper蝰蛇塑最像的一集",
@@ -2225,6 +2281,14 @@
       "onboard_time": 1768115540,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127913,
+      "num": 127913,
+      "word": "朱志鑫 您在哪里啊",
+      "onboard_time": 1768192403,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 127853,
@@ -2395,12 +2459,12 @@
       "category": "互联网,民生新闻"
     },
     {
-      "raw_hot": 118297,
-      "num": 118297,
-      "word": "于正3个月瘦了30斤减肥心得",
-      "onboard_time": 1768190361,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 118532,
+      "num": 118532,
+      "word": "散是一地鸡毛聚是意大利炮",
+      "onboard_time": 1768191803,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 117960,
@@ -2409,14 +2473,6 @@
       "onboard_time": 1768095500,
       "rank": 30,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 117838,
-      "num": 117838,
-      "word": "日本第一代不婚族开始后悔了",
-      "onboard_time": 1768190660,
-      "rank": 33,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 117458,
@@ -2531,6 +2587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114024,
+      "num": 128519,
+      "word": "俄罗斯回应绑架普京言论",
+      "onboard_time": 1768192101,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 113816,
       "num": 157708,
       "word": "男子网购5斤瓜子收到1斤瓜子皮",
@@ -2615,6 +2679,14 @@
       "num": 110235,
       "word": "侯明昊太粘人了",
       "onboard_time": 1768189401,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 109787,
+      "num": 109787,
+      "word": "宋威龙 苦了自己也不能苦别人",
+      "onboard_time": 1768191561,
       "rank": 37,
       "category": "艺人"
     },
@@ -2819,6 +2891,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 103268,
+      "num": 103268,
+      "word": "成何体统",
+      "onboard_time": 1768192222,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103267,
       "num": 103267,
       "word": "2026金球奖获奖名单",
@@ -2963,6 +3043,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 100298,
+      "num": 100298,
+      "word": "向太 7天闪婚和7年长跑没有区别",
+      "onboard_time": 1768192523,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99809,
       "num": 196320,
       "word": "飞机延误中国大妈带中外友人练八段锦",
@@ -3027,6 +3115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97815,
+      "num": 101487,
+      "word": "山东的雪杀疯了",
+      "onboard_time": 1768191262,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97754,
       "num": 97754,
       "word": "中国人手中万物皆可做豆腐",
@@ -3067,12 +3163,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 96013,
-      "num": 96013,
-      "word": "山东的雪杀疯了",
-      "onboard_time": 1768191262,
+      "raw_hot": 96246,
+      "num": 97382,
+      "word": "樊振东捐钱修路切实造福民众",
+      "onboard_time": 1768191681,
       "rank": 45,
-      "category": "民生新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 95727,
@@ -3089,6 +3185,14 @@
       "onboard_time": 1768141042,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 95053,
+      "num": 95053,
+      "word": "全红婵肉眼可见的瘦了",
+      "onboard_time": 1768192581,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 94858,
@@ -3121,14 +3225,6 @@
       "onboard_time": 1768124119,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93840,
-      "num": 93840,
-      "word": "赵文卓金巧巧 武术人的精气神",
-      "onboard_time": 1768191322,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 93136,
@@ -4131,6 +4227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61782,
+      "num": 213171,
+      "word": "羽绒服成新年送礼黑马",
+      "onboard_time": 1768190781,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 61389,
       "num": 157887,
       "word": "刘宇宁五月天隔空互动",
@@ -4187,20 +4291,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 59800,
+      "num": 105898,
+      "word": "威海暴雪再现冰河世纪场景",
+      "onboard_time": 1768191621,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59705,
       "num": 157817,
       "word": "小城大事热度破24000",
       "onboard_time": 1768147880,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 59099,
-      "num": 159395,
-      "word": "羽绒服成新年送礼黑马",
-      "onboard_time": 1768190781,
-      "rank": 19,
-      "category": "时尚"
     },
     {
       "raw_hot": 58932,
@@ -4737,6 +4841,14 @@
       "onboard_time": 1768138883,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 25990,
+      "num": 213069,
+      "word": "特朗普说考虑干预伊朗局势的强硬选项",
+      "onboard_time": 1768191982,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25124,
