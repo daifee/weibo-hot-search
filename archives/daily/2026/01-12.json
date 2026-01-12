@@ -1,6 +1,6 @@
 {
   "startTime": 1768149237092,
-  "endTime": 1768204111823,
+  "endTime": 1768207368649,
   "band_list": [
     {
       "raw_hot": 2692974,
@@ -49,6 +49,14 @@
       "onboard_time": 1768183579,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 777134,
+      "num": 202540,
+      "word": "死了么APP付费人数几天翻200倍",
+      "onboard_time": 1768202360,
+      "rank": 25,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 770460,
@@ -123,6 +131,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 520800,
+      "num": 221838,
+      "word": "金帝巧克力 擦边营销",
+      "onboard_time": 1768203561,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 505897,
       "num": 505897,
       "word": "100%食用率水果",
@@ -179,6 +195,22 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 453015,
+      "num": 202358,
+      "word": "杨迪吐槽papi恶意录制",
+      "onboard_time": 1768201761,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 451713,
+      "num": 399299,
+      "word": "陈妍希周柯宇红秀",
+      "onboard_time": 1768202601,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 446810,
       "num": 446810,
       "word": "娇兰活动",
@@ -227,20 +259,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 399299,
-      "num": 399299,
-      "word": "陈妍希周柯宇红秀",
-      "onboard_time": 1768202601,
-      "rank": 17,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 392414,
       "num": 1059458,
       "word": "初中生网购疑似侵华日军信件",
       "onboard_time": 1768188141,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 389420,
+      "num": 1062307,
+      "word": "河南省考报名延期2天",
+      "onboard_time": 1768205779,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 388253,
@@ -323,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 340041,
+      "num": 781456,
+      "word": "歼10CE击落多架战机自身无损伤",
+      "onboard_time": 1768202242,
+      "rank": 18,
+      "category": "军事"
+    },
+    {
       "raw_hot": 319699,
       "num": 227671,
       "word": "左眼跳财右眼跳相信科学",
@@ -345,6 +385,14 @@
       "onboard_time": 1768188919,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 299355,
+      "num": 199602,
+      "word": "比单休更恶心的是月休4天",
+      "onboard_time": 1768204760,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 296124,
@@ -451,6 +499,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 238677,
+      "num": 180660,
+      "word": "女儿被杀患癌母亲停止化疗",
+      "onboard_time": 1768204460,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237717,
       "num": 356447,
       "word": "社保工作人员用漏洞挪用养老金超百万",
@@ -475,19 +531,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 231243,
-      "num": 188638,
-      "word": "杨迪吐槽papi恶意录制",
-      "onboard_time": 1768201761,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 230010,
       "num": 230010,
       "word": "红果年度短剧投票结果",
       "onboard_time": 1768142722,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 224124,
+      "num": 224124,
+      "word": "张碧晨骄阳似我大结局发文",
+      "onboard_time": 1768202721,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -523,14 +579,6 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 216668,
-      "num": 769426,
-      "word": "歼10CE击落多架战机自身无损伤",
-      "onboard_time": 1768202242,
-      "rank": 18,
-      "category": "军事"
-    },
-    {
       "raw_hot": 213309,
       "num": 213309,
       "word": "林昀儒男单冠军",
@@ -563,12 +611,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206579,
+      "num": 206579,
+      "word": "陈妍希周柯宇狙击蝴蝶的售后",
+      "onboard_time": 1768206141,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206543,
       "num": 206543,
       "word": "檀健次 孟子义送我菠萝这何意味",
       "onboard_time": 1768191863,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198165,
+      "num": 198165,
+      "word": "苏新皓薄荷绿返场",
+      "onboard_time": 1768206200,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 196453,
@@ -643,6 +707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182217,
+      "num": 182217,
+      "word": "张真源突袭直播",
+      "onboard_time": 1768206920,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181121,
       "num": 181121,
       "word": "农业农村部原部长唐仁健贪腐轨迹",
@@ -657,14 +729,6 @@
       "onboard_time": 1768144701,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 180730,
-      "num": 171010,
-      "word": "张碧晨骄阳似我大结局发文",
-      "onboard_time": 1768202721,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 180144,
@@ -689,6 +753,14 @@
       "onboard_time": 1768143743,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170964,
+      "num": 170964,
+      "word": "小澈曾给迅猛龙道歉",
+      "onboard_time": 1768206079,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 170455,
@@ -739,6 +811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 164773,
+      "num": 188807,
+      "word": "超7成三甲医生推荐AI医生",
+      "onboard_time": 1768205962,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 162997,
       "num": 162997,
       "word": "绿巨人扮演者走红毯抗议ICE枪杀",
@@ -761,6 +841,14 @@
       "onboard_time": 1768189941,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160879,
+      "num": 160879,
+      "word": "洪金宝和三个儿子第一次合作",
+      "onboard_time": 1768203681,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 159686,
@@ -803,14 +891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 155126,
-      "num": 155126,
-      "word": "死了么APP付费人数几天翻200倍",
-      "onboard_time": 1768202360,
-      "rank": 25,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 154861,
       "num": 164419,
       "word": "陈楚生 跟香港的哥哥都要唱两遍",
@@ -849,6 +929,14 @@
       "onboard_time": 1768199241,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 149687,
+      "num": 149687,
+      "word": "小时候以为长这样的才叫排骨",
+      "onboard_time": 1768205600,
+      "rank": 29,
+      "category": "美食,情感"
     },
     {
       "raw_hot": 146052,
@@ -955,6 +1043,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 134435,
+      "num": 134435,
+      "word": "周杰伦以球员身份参加澳网",
+      "onboard_time": 1768205600,
+      "rank": 30,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 133287,
+      "num": 133287,
+      "word": "云合",
+      "onboard_time": 1768206501,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130775,
       "num": 130775,
       "word": "吴佳怡不是命硬的不演",
@@ -995,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126622,
+      "num": 126622,
+      "word": "被爸妈支持的二次元",
+      "onboard_time": 1768206022,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 125303,
       "num": 128801,
       "word": "违规穿越鳌太线5人因分歧拆成3股",
@@ -1017,6 +1129,14 @@
       "onboard_time": 1768174638,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123767,
+      "num": 123767,
+      "word": "张真源新歌MV",
+      "onboard_time": 1768192824,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 123437,
@@ -1089,14 +1209,6 @@
       "onboard_time": 1768180280,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 115239,
-      "num": 115239,
-      "word": "洪金宝和三个儿子第一次合作",
-      "onboard_time": 1768203681,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 115176,
@@ -1347,6 +1459,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 100806,
+      "num": 100806,
+      "word": "平时不买过年会买的东西",
+      "onboard_time": 1768204101,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 100683,
       "num": 100683,
       "word": "金价突破4600美元",
@@ -1411,7 +1531,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97007,
+      "raw_hot": 97086,
       "num": 97007,
       "word": "代旭吻戏",
       "onboard_time": 1768202660,
@@ -1483,6 +1603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93419,
+      "num": 93419,
+      "word": "韩国空难黑匣子录音首次公开",
+      "onboard_time": 1768207340,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 93382,
       "num": 93382,
       "word": "iPhone锁屏被玩明白了",
@@ -1505,6 +1633,14 @@
       "onboard_time": 1768196720,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92282,
+      "num": 92282,
+      "word": "加拿大总理卡尼将访华",
+      "onboard_time": 1768206860,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 92234,
@@ -1537,6 +1673,14 @@
       "onboard_time": 1768174157,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90031,
+      "num": 90031,
+      "word": "韩语不过瘾切换中文了吗",
+      "onboard_time": 1768206320,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 89580,
@@ -1601,6 +1745,14 @@
       "onboard_time": 1768202000,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86086,
+      "num": 86086,
+      "word": "去朋友家做客一屁股坐扁了馒头",
+      "onboard_time": 1768207040,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 85580,
@@ -1827,14 +1979,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 70458,
-      "num": 172658,
-      "word": "金帝巧克力 擦边营销",
-      "onboard_time": 1768203561,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 70407,
       "num": 87767,
       "word": "女子求助杀年猪10万网友在线围观",
@@ -1889,6 +2033,14 @@
       "onboard_time": 1768144762,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 64729,
+      "num": 203075,
+      "word": "外交部回应特朗普委石油言论",
+      "onboard_time": 1768206920,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 63955,
@@ -1993,6 +2145,14 @@
       "onboard_time": 1768147880,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 59147,
+      "num": 101788,
+      "word": "14岁男孩闯入铁轨拍照逼停火车",
+      "onboard_time": 1768206441,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58932,
@@ -2275,6 +2435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 29120,
+      "num": 101850,
+      "word": "代旭回应出演轧戏",
+      "onboard_time": 1768206621,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28817,
       "num": 73235,
       "word": "侯明昊和17年好像没什么差别",
@@ -2417,6 +2585,14 @@
       "onboard_time": 1768184960,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 13263,
+      "num": 613142,
+      "word": "我国冰雪游成为世界游客的选择",
+      "onboard_time": 1768207100,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12908,

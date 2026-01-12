@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/12 15:48:31
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/12 16:42:48
 </p>
 </blockquote>
 <p>
@@ -857,6 +857,12 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E8%AE%A4%E5%87%BA%E8%BF%99%E6%98%AF%E8%B5%96%E5%86%A0%E9%9C%96%23" target="weibo">
 没认出这是赖冠霖（热度：778603）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%BB%E4%BA%86%E4%B9%88APP%E4%BB%98%E8%B4%B9%E4%BA%BA%E6%95%B0%E5%87%A0%E5%A4%A9%E7%BF%BB200%E5%80%8D%23" target="weibo">
+死了么APP付费人数几天翻200倍（热度：777134）
 </a>
 </li>
 
@@ -2001,6 +2007,12 @@ ICE枪杀（热度：522348）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%B8%9D%E5%B7%A7%E5%85%8B%E5%8A%9B%20%E6%93%A6%E8%BE%B9%E8%90%A5%E9%94%80%23" target="weibo">
+金帝巧克力 擦边营销（热度：520800）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C%E4%B8%87%E5%A5%97%E4%BD%8F%E5%AE%85%E9%9C%87%E6%92%BC%E4%BA%AE%E7%9B%B8%23" target="weibo">
 朝鲜万套住宅震撼亮相（热度：520475）
 </a>
@@ -2721,6 +2733,12 @@ iPhone千万别删的自带软件（热度：474519）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E5%90%90%E6%A7%BDpapi%E6%81%B6%E6%84%8F%E5%BD%95%E5%88%B6%23" target="weibo">
+杨迪吐槽papi恶意录制（热度：453015）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%87%AA%E5%B8%A63%E7%93%B6%E8%8C%85%E5%8F%B0%E5%85%A8%E8%A2%AB%E6%9C%8D%E5%8A%A1%E5%91%98%E8%B0%83%E5%8C%85%23" target="weibo">
 男子自带3瓶茅台全被服务员调包（热度：452584）
 </a>
@@ -2729,6 +2747,12 @@ iPhone千万别删的自带软件（热度：474519）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E9%AB%98%E4%BC%9A%E6%94%B9%E5%90%8D%23" target="weibo">
 时代峰峻高会改名（热度：452234）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E5%91%A8%E6%9F%AF%E5%AE%87%E7%BA%A2%E7%A7%80%23" target="weibo">
+陈妍希周柯宇红秀（热度：451713）
 </a>
 </li>
 
@@ -3297,12 +3321,6 @@ A股（热度：410777）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E5%91%A8%E6%9F%AF%E5%AE%87%E7%BA%A2%E7%A7%80%23" target="weibo">
-陈妍希周柯宇红秀（热度：399299）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E5%85%B6%E5%AE%9E%E6%98%AF%E8%A1%80%E7%B3%96%E5%8F%8B%E5%A5%BD%E5%9E%8B%E6%B0%B4%E6%9E%9C%23" target="weibo">
 车厘子其实是血糖友好型水果（热度：397587）
 </a>
@@ -3389,6 +3407,12 @@ loveissoap说童锦程配不上她（热度：394705）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E%E5%8E%9F%E5%9E%8B%E9%99%86%E5%8B%87%E9%87%8D%E8%BF%94%E5%8D%B0%E5%BA%A6%23" target="weibo">
 我不是药神原型陆勇重返印度（热度：390702）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E7%9C%81%E8%80%83%E6%8A%A5%E5%90%8D%E5%BB%B6%E6%9C%9F2%E5%A4%A9%23" target="weibo">
+河南省考报名延期2天（热度：389420）
 </a>
 </li>
 
@@ -4079,6 +4103,12 @@ WB对战RW（热度：355689）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%AE%E4%B8%89%E5%88%86%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%94%9F%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%23" target="weibo">
 差三分考上北大研究生的含金量（热度：340364）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%BC10CE%E5%87%BB%E8%90%BD%E5%A4%9A%E6%9E%B6%E6%88%98%E6%9C%BA%E8%87%AA%E8%BA%AB%E6%97%A0%E6%8D%9F%E4%BC%A4%23" target="weibo">
+歼10CE击落多架战机自身无损伤（热度：340041）
 </a>
 </li>
 
@@ -4841,6 +4871,12 @@ TVB第一个打烂奖杯（热度：318351）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%9D%B0%E5%8F%97%E4%BC%A4%23" target="weibo">
 徐杰受伤（热度：299362）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E5%8D%95%E4%BC%91%E6%9B%B4%E6%81%B6%E5%BF%83%E7%9A%84%E6%98%AF%E6%9C%88%E4%BC%914%E5%A4%A9%23" target="weibo">
+比单休更恶心的是月休4天（热度：299355）
 </a>
 </li>
 
@@ -5975,42 +6011,6 @@ infj为什么很E（热度：251727）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%9D%E6%97%B6%E6%8D%B7%E6%96%87%E6%A1%88%23" target="weibo">
 保时捷文案（热度：249594）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%9E%9C%E5%B9%B4%E5%BA%A6%E7%9F%AD%E5%89%A7%E6%8A%95%E7%A5%A8%E7%BB%93%E6%9E%9C%23" target="weibo">
-红果年度短剧投票结果（热度：249566）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%98%E8%AF%97%E6%9B%BC%E8%8E%B7%E5%A5%96%E5%A4%A7%E5%93%AD%23" target="weibo">
-佘诗曼获奖大哭（热度：249499）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E7%92%87%E5%BC%A0%E7%BB%B4%E4%BC%8A%E7%89%B5%E7%9D%80%E5%B0%8F%E9%85%92%E7%AA%9D%23" target="weibo">
-董璇张维伊牵着小酒窝（热度：249400）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%20%E6%88%91%E7%8E%B0%E5%9C%A8%E6%98%AF%E5%BE%88%E4%B8%91%E5%90%97%23" target="weibo">
-刘宇宁 我现在是很丑吗（热度：249190）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B6%E4%B8%8B30%E5%A4%9A%E5%BA%A6%E7%94%B7%E5%AD%90%E5%BC%80%E7%AA%97%E5%86%B7%E7%A9%BA%E6%B0%94%E7%9E%AC%E9%97%B4%E7%8E%B0%E5%BD%A2%23" target="weibo">
-零下30多度男子开窗冷空气瞬间现形（热度：248862）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9C%84%E4%BA%91%E4%BD%99%E9%A2%9D1%E5%9D%976%E4%BB%98%E4%B8%8D%E8%B5%B7%E5%81%9C%E8%BD%A6%E8%B4%B9%23" target="weibo">
-李霄云余额1块6付不起停车费（热度：248642）
 </a>
 </li>
 

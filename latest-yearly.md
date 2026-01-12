@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/12 15:48:31
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/12 16:42:48
 </p>
 </blockquote>
 <p>
@@ -857,6 +857,12 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E8%AE%A4%E5%87%BA%E8%BF%99%E6%98%AF%E8%B5%96%E5%86%A0%E9%9C%96%23" target="weibo">
 没认出这是赖冠霖（热度：778603）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%BB%E4%BA%86%E4%B9%88APP%E4%BB%98%E8%B4%B9%E4%BA%BA%E6%95%B0%E5%87%A0%E5%A4%A9%E7%BF%BB200%E5%80%8D%23" target="weibo">
+死了么APP付费人数几天翻200倍（热度：777134）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ iPhoneFold上手（热度：543056）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E7%BD%91%E7%BA%A2%E9%A6%86%E9%95%BF%E4%BB%A5%E6%81%90%E5%90%93%E7%BD%AA%E8%A2%AB%E8%B5%B7%E8%AF%89%23" target="weibo">
 台湾网红馆长以恐吓罪被起诉（热度：542486）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%91%8A%E5%88%AB%E5%8D%95%E8%96%84%E7%A4%BC%E6%9C%8D%23" target="weibo">
-跨年晚会主持人告别单薄礼服（热度：541764）
 </a>
 </li>
 
