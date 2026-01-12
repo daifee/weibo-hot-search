@@ -1,0 +1,410 @@
+{
+  "runTime": 1768185657320,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 496642,
+        "num": 1079462,
+        "word": "云初令",
+        "onboard_time": 1768184300,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260171,
+        "num": 768730,
+        "word": "江苏省考成绩",
+        "onboard_time": 1768181659,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 26631,
+        "num": 594536,
+        "word": "中国农民种地科技感拉满",
+        "onboard_time": 1768138883,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 259458,
+        "num": 259458,
+        "word": "烟台暴雪下冒烟了",
+        "onboard_time": 1768134981,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243851,
+        "num": 243851,
+        "word": "美联储主席鲍威尔遭刑事调查",
+        "onboard_time": 1768179921,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 839474,
+        "num": 240160,
+        "word": "女医学生遭前男友杀害临终遗言曝光",
+        "onboard_time": 1768183579,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266855,
+        "num": 227671,
+        "word": "左眼跳财右眼跳相信科学",
+        "onboard_time": 1768174638,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199108,
+        "num": 199108,
+        "word": "贪官称世界真奇妙退休才知道",
+        "onboard_time": 1768183220,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 184997,
+        "num": 184997,
+        "word": "住在山顶的小猫1天被游客带下山3次",
+        "onboard_time": 1768177281,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175059,
+        "num": 175059,
+        "word": "金球奖",
+        "onboard_time": 1768177580,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 734582,
+        "num": 171494,
+        "word": "全红婵留长发了",
+        "onboard_time": 1768184358,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 604200,
+        "num": 165973,
+        "word": "金价",
+        "onboard_time": 1768179620,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 370269,
+        "num": 162714,
+        "word": "汪苏泷代言MLB",
+        "onboard_time": 1768184720,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296124,
+        "num": 157372,
+        "word": "闫学晶给所有公众人物敲响警钟",
+        "onboard_time": 1768183278,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200207,
+        "num": 151951,
+        "word": "90后女子卖淫秽视频被判刑",
+        "onboard_time": 1768173858,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278890,
+        "num": 148884,
+        "word": "单依纯代言香奈儿",
+        "onboard_time": 1768184659,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193708,
+        "num": 142604,
+        "word": "虞书欣张云龙新剧同框",
+        "onboard_time": 1768184419,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142581,
+        "num": 142581,
+        "word": "九万已经可以首付买房了",
+        "onboard_time": 1768175960,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164443,
+        "num": 141619,
+        "word": "代旭按电梯",
+        "onboard_time": 1768178301,
+        "rank": 18,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 140186,
+        "num": 140186,
+        "word": "男子怂恿多人卖淫私吞嫖资获刑",
+        "onboard_time": 1768183040,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238613,
+        "num": 136950,
+        "word": "娘家坐月子因开灯被嫂子吐槽",
+        "onboard_time": 1768181059,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130276,
+        "num": 130276,
+        "word": "五角大楼回应末日飞机现身洛杉矶",
+        "onboard_time": 1768184120,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115288,
+        "num": 115288,
+        "word": "新娘结婚也不忘记工作",
+        "onboard_time": 1768180280,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114371,
+        "num": 114371,
+        "word": "脾胃不好多吃金银饭",
+        "onboard_time": 1768174397,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107971,
+        "num": 107971,
+        "word": "手欠小狗每个人路过都要摸一下",
+        "onboard_time": 1768173138,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106233,
+        "num": 106233,
+        "word": "国际金银大涨",
+        "onboard_time": 1768185019,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 105335,
+        "num": 105335,
+        "word": "伊朗哀悼3天",
+        "onboard_time": 1768174338,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103598,
+        "num": 103598,
+        "word": "烟台威海为何被称为雪窝",
+        "onboard_time": 1768185258,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103267,
+        "num": 103267,
+        "word": "2026金球奖获奖名单",
+        "onboard_time": 1768185258,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101773,
+        "num": 101773,
+        "word": "特朗普称无论如何都要拿下格陵兰岛",
+        "onboard_time": 1768182919,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104554,
+        "num": 99871,
+        "word": "伊朗或很快遭美国以色列攻击",
+        "onboard_time": 1768184479,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102090,
+        "num": 98168,
+        "word": "此人活商极高",
+        "onboard_time": 1768184239,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96304,
+        "num": 96304,
+        "word": "轧戏",
+        "onboard_time": 1768176860,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94012,
+        "num": 94012,
+        "word": "王者荣耀泉水被打爆",
+        "onboard_time": 1768174638,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 92028,
+        "num": 92028,
+        "word": "气血好的人有这6个特点",
+        "onboard_time": 1768185139,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 87808,
+        "num": 87808,
+        "word": "朱雨玲夺冠后与教练陈振江拥抱",
+        "onboard_time": 1768184239,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44677,
+        "num": 87773,
+        "word": "金球奖吐槽小李子找年轻女友",
+        "onboard_time": 1768184720,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 70407,
+        "num": 87767,
+        "word": "女子求助杀年猪10万网友在线围观",
+        "onboard_time": 1768184840,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62633,
+        "num": 87714,
+        "word": "猫狗大战咬坏3个月新车",
+        "onboard_time": 1768184900,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14645,
+        "num": 87688,
+        "word": "琉球民众为何对美军基地说NO",
+        "onboard_time": 1768184960,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87667,
+        "num": 87667,
+        "word": "哺乳期妈妈打玻尿酸致单眼失明",
+        "onboard_time": 1768178420,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83144,
+        "num": 83144,
+        "word": "除LPL外各大联赛取消奖金",
+        "onboard_time": 1768181598,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82721,
+        "num": 82721,
+        "word": "威海特大暴雪为何这么厉害",
+        "onboard_time": 1768174458,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82334,
+        "num": 82334,
+        "word": "中国电视剧年度盛典",
+        "onboard_time": 1768184780,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80484,
+        "num": 80484,
+        "word": "小城大事nono哥",
+        "onboard_time": 1768184300,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80990,
+        "num": 80042,
+        "word": "为什么很少看到农学生在抨击别专业",
+        "onboard_time": 1768185620,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 78883,
+        "num": 78883,
+        "word": "朱雨玲世界排名升至第五",
+        "onboard_time": 1768184780,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77633,
+        "num": 77633,
+        "word": "林昀儒男单冠军",
+        "onboard_time": 1768157474,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75700,
+        "num": 75700,
+        "word": "金价突破4600美元",
+        "onboard_time": 1768181181,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 73435,
+        "num": 73435,
+        "word": "老板娘回应火锅吃出整只劳保手套",
+        "onboard_time": 1768185559,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#反腐大片一步不停歇半步不退让#"
+    }
+  }
+}

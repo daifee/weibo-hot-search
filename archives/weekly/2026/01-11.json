@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768184525364,
+  "endTime": 1768185657320,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 839474,
+      "num": 240160,
+      "word": "女医学生遭前男友杀害临终遗言曝光",
+      "onboard_time": 1768183579,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 813471,
       "num": 196314,
       "word": "小澈还在方圆家住半个月",
@@ -145,6 +153,14 @@
       "onboard_time": 1768118601,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 734582,
+      "num": 171494,
+      "word": "全红婵留长发了",
+      "onboard_time": 1768184358,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 720604,
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 629444,
-      "num": 123287,
+      "num": 165973,
       "word": "金价",
       "onboard_time": 1768179620,
       "rank": 10,
@@ -385,6 +401,14 @@
       "onboard_time": 1768117099,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 496642,
+      "num": 1079462,
+      "word": "云初令",
+      "onboard_time": 1768055483,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 488051,
@@ -595,6 +619,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 370269,
+      "num": 162714,
+      "word": "汪苏泷代言MLB",
+      "onboard_time": 1768184720,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 359682,
       "num": 1051100,
       "word": "成都地铁实现1人1座",
@@ -716,7 +748,7 @@
     },
     {
       "raw_hot": 319699,
-      "num": 214315,
+      "num": 227671,
       "word": "左眼跳财右眼跳相信科学",
       "onboard_time": 1768174638,
       "rank": 30,
@@ -771,6 +803,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 296124,
+      "num": 157372,
+      "word": "闫学晶给所有公众人物敲响警钟",
+      "onboard_time": 1768183278,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290136,
       "num": 290136,
       "word": "子阳道歉",
@@ -787,12 +827,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 282139,
-      "num": 282139,
-      "word": "云初令",
-      "onboard_time": 1768055483,
-      "rank": 4,
-      "category": "剧集"
+      "raw_hot": 278890,
+      "num": 148884,
+      "word": "单依纯代言香奈儿",
+      "onboard_time": 1768184659,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 277032,
@@ -812,7 +852,7 @@
     },
     {
       "raw_hot": 276178,
-      "num": 114194,
+      "num": 136950,
       "word": "娘家坐月子因开灯被嫂子吐槽",
       "onboard_time": 1768181059,
       "rank": 20,
@@ -835,16 +875,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 272024,
-      "num": 118075,
-      "word": "闫学晶给所有公众人物敲响警钟",
-      "onboard_time": 1768183278,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 270792,
-      "num": 270792,
+      "num": 768730,
       "word": "江苏省考成绩",
       "onboard_time": 1768181659,
       "rank": 3,
@@ -900,7 +932,7 @@
     },
     {
       "raw_hot": 255379,
-      "num": 121261,
+      "num": 151951,
       "word": "90后女子卖淫秽视频被判刑",
       "onboard_time": 1768173858,
       "rank": 11,
@@ -1068,7 +1100,7 @@
     },
     {
       "raw_hot": 219966,
-      "num": 120176,
+      "num": 141619,
       "word": "代旭按电梯",
       "onboard_time": 1768178301,
       "rank": 14,
@@ -1195,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199108,
+      "num": 199108,
+      "word": "贪官称世界真奇妙退休才知道",
+      "onboard_time": 1768183220,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 199040,
       "num": 191834,
       "word": "红果年度大赏",
@@ -1233,6 +1273,14 @@
       "onboard_time": 1768139122,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193708,
+      "num": 142604,
+      "word": "虞书欣张云龙新剧同框",
+      "onboard_time": 1768184419,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 193215,
@@ -1296,14 +1344,6 @@
       "word": "U23国足vs澳大利亚",
       "onboard_time": 1768134622,
       "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 189304,
-      "num": 96022,
-      "word": "全红婵留长发了",
-      "onboard_time": 1768184358,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -1835,6 +1875,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 140186,
+      "num": 140186,
+      "word": "男子怂恿多人卖淫私吞嫖资获刑",
+      "onboard_time": 1768183040,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139987,
       "num": 139987,
       "word": "一次违规吃喝搭上一条人命",
@@ -1937,6 +1985,14 @@
       "onboard_time": 1768126341,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130276,
+      "num": 130276,
+      "word": "五角大楼回应末日飞机现身洛杉矶",
+      "onboard_time": 1768184120,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 129996,
@@ -2147,14 +2203,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 117629,
-      "num": 117629,
-      "word": "贪官称世界真奇妙退休才知道",
-      "onboard_time": 1768183220,
-      "rank": 17,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 117458,
       "num": 117458,
       "word": "AI沙皇也是平A为主",
@@ -2219,6 +2267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 115288,
+      "num": 115288,
+      "word": "新娘结婚也不忘记工作",
+      "onboard_time": 1768180280,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115228,
       "num": 115228,
       "word": "莫雷加德采访回应比赛视线受干扰",
@@ -2235,12 +2291,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 114133,
-      "num": 114133,
-      "word": "男子怂恿多人卖淫私吞嫖资获刑",
-      "onboard_time": 1768183040,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 114371,
+      "num": 114371,
+      "word": "脾胃不好多吃金银饭",
+      "onboard_time": 1768174397,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 114089,
@@ -2291,28 +2347,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 111740,
-      "num": 111740,
-      "word": "新娘结婚也不忘记工作",
-      "onboard_time": 1768180280,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 111034,
       "num": 111034,
       "word": "王心凌昨天陶艾青今天查美乐",
       "onboard_time": 1768109361,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 110773,
-      "num": 110773,
-      "word": "脾胃不好多吃金银饭",
-      "onboard_time": 1768174397,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 110607,
@@ -2451,6 +2491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106233,
+      "num": 106233,
+      "word": "国际金银大涨",
+      "onboard_time": 1768185019,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 106098,
       "num": 106098,
       "word": "玉茗茶骨",
@@ -2465,6 +2513,14 @@
       "onboard_time": 1768136722,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104554,
+      "num": 99871,
+      "word": "伊朗或很快遭美国以色列攻击",
+      "onboard_time": 1768184479,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 104011,
@@ -2489,6 +2545,22 @@
       "onboard_time": 1768182919,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 103598,
+      "num": 103598,
+      "word": "烟台威海为何被称为雪窝",
+      "onboard_time": 1768185258,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103267,
+      "num": 103267,
+      "word": "2026金球奖获奖名单",
+      "onboard_time": 1768185258,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 103254,
@@ -2545,6 +2617,14 @@
       "onboard_time": 1768135222,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102090,
+      "num": 98168,
+      "word": "此人活商极高",
+      "onboard_time": 1768184239,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 101627,
@@ -2633,14 +2713,6 @@
       "onboard_time": 1768130001,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98944,
-      "num": 114252,
-      "word": "女医学生遭前男友杀害临终遗言曝光",
-      "onboard_time": 1768183579,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98934,
@@ -2779,6 +2851,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 92028,
+      "num": 92028,
+      "word": "气血好的人有这6个特点",
+      "onboard_time": 1768185139,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 91835,
       "num": 91835,
       "word": "成都地铁回应1人1座设计",
@@ -2883,20 +2963,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87808,
+      "num": 87808,
+      "word": "朱雨玲夺冠后与教练陈振江拥抱",
+      "onboard_time": 1768184239,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87619,
       "num": 87619,
       "word": "王俊凯练舞练到腿淤青",
       "onboard_time": 1768117581,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 87540,
-      "num": 87540,
-      "word": "五角大楼回应末日飞机现身洛杉矶",
-      "onboard_time": 1768184120,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 87256,
@@ -3027,11 +3107,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82145,
-      "num": 82145,
-      "word": "虞书欣张云龙新剧同框",
-      "onboard_time": 1768184419,
-      "rank": 37,
+      "raw_hot": 82334,
+      "num": 82334,
+      "word": "中国电视剧年度盛典",
+      "onboard_time": 1768184780,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -3083,6 +3163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 80990,
+      "num": 80042,
+      "word": "为什么很少看到农学生在抨击别专业",
+      "onboard_time": 1768185620,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 80977,
       "num": 124057,
       "word": "王欣瑜vs斯维托丽娜",
@@ -3097,6 +3185,14 @@
       "onboard_time": 1768091180,
       "rank": 35,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 80484,
+      "num": 80484,
+      "word": "小城大事nono哥",
+      "onboard_time": 1768184300,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 80408,
@@ -3195,12 +3291,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 78876,
-      "num": 78876,
-      "word": "伊朗或很快遭美国以色列攻击",
-      "onboard_time": 1768184479,
-      "rank": 40,
-      "category": "国际时政"
+      "raw_hot": 78883,
+      "num": 78883,
+      "word": "朱雨玲世界排名升至第五",
+      "onboard_time": 1768184780,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 78357,
@@ -3331,14 +3427,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 74690,
-      "num": 74690,
-      "word": "小城大事nono哥",
-      "onboard_time": 1768184300,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 74101,
       "num": 74101,
       "word": "终于知道刘海卷筒到底怎么用了",
@@ -3387,20 +3475,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 73435,
+      "num": 73435,
+      "word": "老板娘回应火锅吃出整只劳保手套",
+      "onboard_time": 1768185559,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72716,
       "num": 72716,
       "word": "毕业15年小伙救了同班同学的孩子",
       "onboard_time": 1768098920,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 72695,
-      "num": 72695,
-      "word": "朱雨玲夺冠后与教练陈振江拥抱",
-      "onboard_time": 1768184239,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 72498,
@@ -3457,6 +3545,14 @@
       "onboard_time": 1768136062,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 70407,
+      "num": 87767,
+      "word": "女子求助杀年猪10万网友在线围观",
+      "onboard_time": 1768184840,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70106,
@@ -3665,6 +3761,14 @@
       "onboard_time": 1768138222,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 62633,
+      "num": 87714,
+      "word": "猫狗大战咬坏3个月新车",
+      "onboard_time": 1768184900,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62583,
@@ -3953,6 +4057,14 @@
       "onboard_time": 1768065858,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 44677,
+      "num": 87773,
+      "word": "金球奖吐槽小李子找年轻女友",
+      "onboard_time": 1768184720,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 43673,
@@ -4291,7 +4403,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 25769,
+      "raw_hot": 26631,
       "num": 649142,
       "word": "中国农民种地科技感拉满",
       "onboard_time": 1768138883,
@@ -4529,6 +4641,14 @@
       "onboard_time": 1768164673,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14645,
+      "num": 87688,
+      "word": "琉球民众为何对美军基地说NO",
+      "onboard_time": 1768184960,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14507,

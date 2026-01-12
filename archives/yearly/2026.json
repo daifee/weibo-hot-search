@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768184525364,
+  "endTime": 1768185657320,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -899,6 +899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 839474,
+      "num": 240160,
+      "word": "女医学生遭前男友杀害临终遗言曝光",
+      "onboard_time": 1768183579,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 839039,
       "num": 279380,
       "word": "林屿森都显怀了庄序还没释怀",
@@ -1233,6 +1241,14 @@
       "onboard_time": 1768118601,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 734582,
+      "num": 171494,
+      "word": "全红婵留长发了",
+      "onboard_time": 1768184358,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 734115,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767939622,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 535373,
-      "num": 679492,
-      "word": "美国拒绝外部介入委内瑞拉",
-      "onboard_time": 1767526702,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 534844,
-      "num": 1004508,
-      "word": "瑞士滑雪胜地爆炸多人死伤",
-      "onboard_time": 1767253940,
-      "rank": 20,
-      "category": "海外新闻"
     }
   ],
   "hotgov_list": [

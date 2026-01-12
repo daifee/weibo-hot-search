@@ -1,6 +1,6 @@
 {
   "startTime": 1768149237092,
-  "endTime": 1768184525364,
+  "endTime": 1768185657320,
   "band_list": [
     {
       "raw_hot": 1022078,
@@ -19,8 +19,24 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 839474,
+      "num": 240160,
+      "word": "女医学生遭前男友杀害临终遗言曝光",
+      "onboard_time": 1768183579,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 734582,
+      "num": 171494,
+      "word": "全红婵留长发了",
+      "onboard_time": 1768184358,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 629444,
-      "num": 123287,
+      "num": 165973,
       "word": "金价",
       "onboard_time": 1768179620,
       "rank": 10,
@@ -43,12 +59,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 496642,
+      "num": 1079462,
+      "word": "云初令",
+      "onboard_time": 1768184300,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 435409,
       "num": 1056273,
       "word": "烟台暴雪下冒烟了",
       "onboard_time": 1768134981,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 370269,
+      "num": 162714,
+      "word": "汪苏泷代言MLB",
+      "onboard_time": 1768184720,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 352522,
@@ -60,7 +92,7 @@
     },
     {
       "raw_hot": 319699,
-      "num": 214315,
+      "num": 227671,
       "word": "左眼跳财右眼跳相信科学",
       "onboard_time": 1768174638,
       "rank": 30,
@@ -75,24 +107,32 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 276178,
-      "num": 114194,
-      "word": "娘家坐月子因开灯被嫂子吐槽",
-      "onboard_time": 1768181059,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 272024,
-      "num": 118075,
+      "raw_hot": 296124,
+      "num": 157372,
       "word": "闫学晶给所有公众人物敲响警钟",
       "onboard_time": 1768183278,
       "rank": 16,
       "category": "艺人"
     },
     {
+      "raw_hot": 278890,
+      "num": 148884,
+      "word": "单依纯代言香奈儿",
+      "onboard_time": 1768184659,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 276178,
+      "num": 136950,
+      "word": "娘家坐月子因开灯被嫂子吐槽",
+      "onboard_time": 1768181059,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 270792,
-      "num": 270792,
+      "num": 768730,
       "word": "江苏省考成绩",
       "onboard_time": 1768181659,
       "rank": 3,
@@ -100,7 +140,7 @@
     },
     {
       "raw_hot": 255379,
-      "num": 121261,
+      "num": 151951,
       "word": "90后女子卖淫秽视频被判刑",
       "onboard_time": 1768173858,
       "rank": 11,
@@ -156,7 +196,7 @@
     },
     {
       "raw_hot": 219966,
-      "num": 120176,
+      "num": 141619,
       "word": "代旭按电梯",
       "onboard_time": 1768178301,
       "rank": 14,
@@ -187,20 +227,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199108,
+      "num": 199108,
+      "word": "贪官称世界真奇妙退休才知道",
+      "onboard_time": 1768183220,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 193708,
+      "num": 142604,
+      "word": "虞书欣张云龙新剧同框",
+      "onboard_time": 1768184419,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192219,
       "num": 192219,
       "word": "金球奖",
       "onboard_time": 1768177580,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 189304,
-      "num": 96022,
-      "word": "全红婵留长发了",
-      "onboard_time": 1768184358,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 185596,
@@ -243,14 +291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161405,
-      "num": 161405,
-      "word": "云初令",
-      "onboard_time": 1768184300,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 159686,
       "num": 166978,
       "word": "山东威海下了倾盆大瓢雪",
@@ -291,6 +331,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 140186,
+      "num": 140186,
+      "word": "男子怂恿多人卖淫私吞嫖资获刑",
+      "onboard_time": 1768183040,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130276,
+      "num": 130276,
+      "word": "五角大楼回应末日飞机现身洛杉矶",
+      "onboard_time": 1768184120,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 129996,
       "num": 129996,
       "word": "国乒WTT多哈冠军赛无缘冠军",
@@ -305,14 +361,6 @@
       "onboard_time": 1768174638,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 117629,
-      "num": 117629,
-      "word": "贪官称世界真奇妙退休才知道",
-      "onboard_time": 1768183220,
-      "rank": 17,
-      "category": "国内时政"
     },
     {
       "raw_hot": 117042,
@@ -331,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115288,
+      "num": 115288,
+      "word": "新娘结婚也不忘记工作",
+      "onboard_time": 1768180280,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114563,
       "num": 114563,
       "word": "伊朗哀悼3天",
@@ -339,12 +395,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 114133,
-      "num": 114133,
-      "word": "男子怂恿多人卖淫私吞嫖资获刑",
-      "onboard_time": 1768183040,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 114371,
+      "num": 114371,
+      "word": "脾胃不好多吃金银饭",
+      "onboard_time": 1768174397,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 113209,
@@ -353,22 +409,6 @@
       "onboard_time": 1768136961,
       "rank": 9,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 111740,
-      "num": 111740,
-      "word": "新娘结婚也不忘记工作",
-      "onboard_time": 1768180280,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 110773,
-      "num": 110773,
-      "word": "脾胃不好多吃金银饭",
-      "onboard_time": 1768174397,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 110258,
@@ -395,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106233,
+      "num": 106233,
+      "word": "国际金银大涨",
+      "onboard_time": 1768185019,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 104804,
       "num": 158026,
       "word": "微博之夜",
@@ -403,12 +451,44 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 104554,
+      "num": 99871,
+      "word": "伊朗或很快遭美国以色列攻击",
+      "onboard_time": 1768184479,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 103725,
       "num": 103725,
       "word": "特朗普称无论如何都要拿下格陵兰岛",
       "onboard_time": 1768182919,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 103598,
+      "num": 103598,
+      "word": "烟台威海为何被称为雪窝",
+      "onboard_time": 1768185258,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103267,
+      "num": 103267,
+      "word": "2026金球奖获奖名单",
+      "onboard_time": 1768185258,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 102090,
+      "num": 98168,
+      "word": "此人活商极高",
+      "onboard_time": 1768184239,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 102021,
@@ -425,14 +505,6 @@
       "onboard_time": 1768181181,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 98944,
-      "num": 114252,
-      "word": "女医学生遭前男友杀害临终遗言曝光",
-      "onboard_time": 1768183579,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98617,
@@ -475,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92028,
+      "num": 92028,
+      "word": "气血好的人有这6个特点",
+      "onboard_time": 1768185139,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 90575,
       "num": 90575,
       "word": "巴萨3比2皇马",
@@ -483,12 +563,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87540,
-      "num": 87540,
-      "word": "五角大楼回应末日飞机现身洛杉矶",
-      "onboard_time": 1768184120,
-      "rank": 32,
-      "category": "国际时政"
+      "raw_hot": 87808,
+      "num": 87808,
+      "word": "朱雨玲夺冠后与教练陈振江拥抱",
+      "onboard_time": 1768184239,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 87256,
@@ -531,11 +611,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82145,
-      "num": 82145,
-      "word": "虞书欣张云龙新剧同框",
-      "onboard_time": 1768184419,
-      "rank": 37,
+      "raw_hot": 82334,
+      "num": 82334,
+      "word": "中国电视剧年度盛典",
+      "onboard_time": 1768184780,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -563,12 +643,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 78876,
-      "num": 78876,
-      "word": "伊朗或很快遭美国以色列攻击",
-      "onboard_time": 1768184479,
-      "rank": 40,
-      "category": "国际时政"
+      "raw_hot": 80990,
+      "num": 80042,
+      "word": "为什么很少看到农学生在抨击别专业",
+      "onboard_time": 1768185620,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 80484,
+      "num": 80484,
+      "word": "小城大事nono哥",
+      "onboard_time": 1768184300,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 78883,
+      "num": 78883,
+      "word": "朱雨玲世界排名升至第五",
+      "onboard_time": 1768184780,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 77873,
@@ -585,14 +681,6 @@
       "onboard_time": 1768174878,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 74690,
-      "num": 74690,
-      "word": "小城大事nono哥",
-      "onboard_time": 1768184300,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 74447,
@@ -619,12 +707,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 72695,
-      "num": 72695,
-      "word": "朱雨玲夺冠后与教练陈振江拥抱",
-      "onboard_time": 1768184239,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 73435,
+      "num": 73435,
+      "word": "老板娘回应火锅吃出整只劳保手套",
+      "onboard_time": 1768185559,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72162,
@@ -633,6 +721,14 @@
       "onboard_time": 1768174458,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 70407,
+      "num": 87767,
+      "word": "女子求助杀年猪10万网友在线围观",
+      "onboard_time": 1768184840,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69355,
@@ -696,6 +792,14 @@
       "word": "人参酒里泡3年突然长出绿叶",
       "onboard_time": 1768139183,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62633,
+      "num": 87714,
+      "word": "猫狗大战咬坏3个月新车",
+      "onboard_time": 1768184900,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -859,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44677,
+      "num": 87773,
+      "word": "金球奖吐槽小李子找年轻女友",
+      "onboard_time": 1768184720,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 42700,
       "num": 53453,
       "word": "伊朗111名安全人员丧生",
@@ -1003,7 +1115,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25769,
+      "raw_hot": 26631,
       "num": 613532,
       "word": "中国农民种地科技感拉满",
       "onboard_time": 1768138883,
@@ -1081,6 +1193,14 @@
       "onboard_time": 1768164673,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14645,
+      "num": 87688,
+      "word": "琉球民众为何对美军基地说NO",
+      "onboard_time": 1768184960,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 12908,

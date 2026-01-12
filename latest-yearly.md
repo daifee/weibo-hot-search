@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/12 10:22:05
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/12 10:40:57
 </p>
 </blockquote>
 <p>
@@ -687,6 +687,12 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8C%BB%E5%AD%A6%E7%94%9F%E9%81%AD%E5%89%8D%E7%94%B7%E5%8F%8B%E6%9D%80%E5%AE%B3%E4%B8%B4%E7%BB%88%E9%81%97%E8%A8%80%E6%9B%9D%E5%85%89%23" target="weibo">
+女医学生遭前男友杀害临终遗言曝光（热度：839474）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%B1%BF%E6%A3%AE%E9%83%BD%E6%98%BE%E6%80%80%E4%BA%86%E5%BA%84%E5%BA%8F%E8%BF%98%E6%B2%A1%E9%87%8A%E6%80%80%23" target="weibo">
 林屿森都显怀了庄序还没释怀（热度：839039）
 </a>
@@ -935,6 +941,12 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A5%95%E7%84%B6%E4%BD%8F%E5%BB%89%E7%A7%9F%E6%88%BF%23" target="weibo">
 张奕然住廉租房（热度：738148）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%95%99%E9%95%BF%E5%8F%91%E4%BA%86%23" target="weibo">
+全红婵留长发了（热度：734582）
 </a>
 </li>
 
@@ -1799,18 +1811,6 @@ iPhoneFold上手（热度：543056）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E9%80%9A%E6%8A%A51%E5%90%8D%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E8%BA%AB%E4%BA%A1%23" target="weibo">
 河南通报1名学生校内身亡（热度：535376）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%8B%92%E7%BB%9D%E5%A4%96%E9%83%A8%E4%BB%8B%E5%85%A5%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%23" target="weibo">
-美国拒绝外部介入委内瑞拉（热度：535373）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%A3%AB%E6%BB%91%E9%9B%AA%E8%83%9C%E5%9C%B0%E7%88%86%E7%82%B8%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BC%A4%23" target="weibo">
-瑞士滑雪胜地爆炸多人死伤（热度：534844）
 </a>
 </li>
 
