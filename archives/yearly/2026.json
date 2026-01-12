@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768201330900,
+  "endTime": 1768203356696,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1139,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 770460,
+      "num": 1094265,
+      "word": "河南省考 进不去",
+      "onboard_time": 1768190241,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 768109,
       "num": 1122897,
       "word": "车厘子 褪黑素",
@@ -1969,14 +1977,6 @@
       "onboard_time": 1767531624,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 589158,
-      "num": 1094265,
-      "word": "河南省考 进不去",
-      "onboard_time": 1768190241,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 588214,

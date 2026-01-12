@@ -1,6 +1,6 @@
 {
   "startTime": 1768149237092,
-  "endTime": 1768201330900,
+  "endTime": 1768203356696,
   "band_list": [
     {
       "raw_hot": 2692974,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 770460,
+      "num": 1094265,
+      "word": "河南省考 进不去",
+      "onboard_time": 1768190241,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 734582,
       "num": 381374,
       "word": "全红婵留长发了",
@@ -91,14 +99,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 589158,
-      "num": 1094265,
-      "word": "河南省考 进不去",
-      "onboard_time": 1768190241,
-      "rank": 34,
-      "category": "教育"
-    },
-    {
       "raw_hot": 576109,
       "num": 122528,
       "word": "闫学晶说讨厌下意识露出轻视的自己",
@@ -113,6 +113,14 @@
       "onboard_time": 1768195881,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 505897,
+      "num": 505897,
+      "word": "100%食用率水果",
+      "onboard_time": 1768198041,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 503313,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 495767,
-      "num": 495767,
+      "num": 508693,
       "word": "得知三孩又是儿子爸爸笑容当场凝固",
       "onboard_time": 1768198220,
       "rank": 3,
@@ -145,6 +153,14 @@
       "onboard_time": 1768189221,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 478397,
+      "num": 1076543,
+      "word": "河南省考报名",
+      "onboard_time": 1768189461,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 473839,
@@ -161,6 +177,14 @@
       "onboard_time": 1768195761,
       "rank": 23,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 446810,
+      "num": 446810,
+      "word": "娇兰活动",
+      "onboard_time": 1768198819,
+      "rank": 6,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 439252,
@@ -283,20 +307,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 325824,
-      "num": 325824,
-      "word": "娇兰活动",
-      "onboard_time": 1768198819,
-      "rank": 6,
-      "category": "美妆,艺人"
-    },
-    {
-      "raw_hot": 322100,
-      "num": 322100,
-      "word": "100%食用率水果",
-      "onboard_time": 1768198041,
-      "rank": 8,
-      "category": "情感"
+      "raw_hot": 324028,
+      "num": 324028,
+      "word": "孙颖莎王曼昱打破女队发展模式",
+      "onboard_time": 1768200200,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 319699,
@@ -353,6 +369,14 @@
       "onboard_time": 1768184659,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 277670,
+      "num": 179980,
+      "word": "女子患病2年后像裘千尺被离婚",
+      "onboard_time": 1768201879,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 276178,
@@ -435,6 +459,22 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 235152,
+      "num": 176236,
+      "word": "新娘冻到发抖公公立刻脱衣披上",
+      "onboard_time": 1768202420,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231243,
+      "num": 179689,
+      "word": "杨迪吐槽papi恶意录制",
+      "onboard_time": 1768201761,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230010,
       "num": 230010,
       "word": "红果年度短剧投票结果",
@@ -515,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200859,
+      "num": 178060,
+      "word": "陈妍希周柯宇红秀",
+      "onboard_time": 1768202601,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 194752,
       "num": 194752,
       "word": "有一种卷叫家卷",
@@ -537,6 +585,14 @@
       "onboard_time": 1768177580,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191945,
+      "num": 506593,
+      "word": "黄晓明18年前闹太套18年后里头门",
+      "onboard_time": 1768198521,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 188641,
@@ -563,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181121,
+      "num": 181121,
+      "word": "农业农村部原部长唐仁健贪腐轨迹",
+      "onboard_time": 1768201939,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 181110,
       "num": 165642,
       "word": "TOP 荣耀之战都不知道怎么输",
@@ -572,11 +636,19 @@
     },
     {
       "raw_hot": 180144,
-      "num": 160399,
+      "num": 176107,
       "word": "小英两胎顺产都没打无痛",
       "onboard_time": 1768199899,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 179462,
+      "num": 179462,
+      "word": "痞幼回应前几段恋情",
+      "onboard_time": 1768201581,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 178149,
@@ -585,14 +657,6 @@
       "onboard_time": 1768175960,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 177467,
-      "num": 177467,
-      "word": "黄晓明18年前闹太套18年后里头门",
-      "onboard_time": 1768198521,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 173835,
@@ -691,6 +755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159265,
+      "num": 159265,
+      "word": "肯德基品牌代言人孙颖莎",
+      "onboard_time": 1768201100,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158802,
       "num": 158802,
       "word": "最佳睡眠到底是几个小时",
@@ -705,14 +777,6 @@
       "onboard_time": 1768187240,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 155544,
-      "num": 155544,
-      "word": "肯德基品牌代言人孙颖莎",
-      "onboard_time": 1768201100,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 154861,
@@ -747,14 +811,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 149669,
-      "num": 149669,
-      "word": "河南省考报名",
-      "onboard_time": 1768189461,
-      "rank": 34,
-      "category": "教育"
-    },
-    {
       "raw_hot": 146052,
       "num": 127837,
       "word": "林高远欧冠出战时间确认",
@@ -771,6 +827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143809,
+      "num": 143809,
+      "word": "死了么APP付费人数几天翻200倍",
+      "onboard_time": 1768202360,
+      "rank": 25,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 140902,
       "num": 140902,
       "word": "未定事件簿",
@@ -785,6 +849,14 @@
       "onboard_time": 1768194680,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140622,
+      "num": 140622,
+      "word": "章小蕙曾以两票之差输给章子怡",
+      "onboard_time": 1768202721,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 140463,
@@ -811,12 +883,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 137452,
-      "num": 127242,
-      "word": "孙颖莎王曼昱打破女队发展模式",
-      "onboard_time": 1768200200,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 138161,
+      "num": 138161,
+      "word": "无手女孩再回应演示换卫生巾",
+      "onboard_time": 1768202841,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137090,
+      "num": 137090,
+      "word": "短剧版慕容云海",
+      "onboard_time": 1768203020,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 135767,
@@ -851,6 +931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 134595,
+      "num": 134595,
+      "word": "张碧晨骄阳似我大结局发文",
+      "onboard_time": 1768202721,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130775,
       "num": 130775,
       "word": "吴佳怡不是命硬的不演",
@@ -875,12 +963,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128103,
+      "num": 177372,
+      "word": "歼10CE击落多架战机自身无损伤",
+      "onboard_time": 1768202242,
+      "rank": 18,
+      "category": "军事"
+    },
+    {
       "raw_hot": 127913,
       "num": 127913,
       "word": "朱志鑫 您在哪里啊",
       "onboard_time": 1768192403,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125303,
+      "num": 125303,
+      "word": "违规穿越鳌太线5人因分歧拆成3股",
+      "onboard_time": 1768200741,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124319,
@@ -969,6 +1073,22 @@
       "onboard_time": 1768180280,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115176,
+      "num": 115176,
+      "word": "两市成交额3.6万亿创新高",
+      "onboard_time": 1768202721,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 114999,
+      "num": 114999,
+      "word": "代旭喊卢昱晓羞羞",
+      "onboard_time": 1768201400,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 114651,
@@ -1187,14 +1307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 101092,
-      "num": 101092,
-      "word": "违规穿越鳌太线5人因分歧拆成3股",
-      "onboard_time": 1768200741,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100993,
       "num": 100993,
       "word": "地下车库氡气为1类致癌物",
@@ -1217,6 +1329,22 @@
       "onboard_time": 1768192523,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99741,
+      "num": 99741,
+      "word": "两市成交额突破3.46万亿刷新纪录",
+      "onboard_time": 1768202360,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 99192,
+      "num": 99192,
+      "word": "李莎旻子被华晨宇的不重逢击中了",
+      "onboard_time": 1768200980,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 98974,
@@ -1251,12 +1379,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97522,
-      "num": 97522,
-      "word": "李莎旻子被华晨宇的不重逢击中了",
-      "onboard_time": 1768200980,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 96720,
+      "num": 96720,
+      "word": "果然赌徒心理是不分年龄的",
+      "onboard_time": 1768203320,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 96456,
+      "num": 96456,
+      "word": "这8个习惯很容易带走气血",
+      "onboard_time": 1768201461,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 96429,
@@ -1283,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95841,
+      "num": 95841,
+      "word": "侯明昊有这张脸这张嘴拿什么输",
+      "onboard_time": 1768202780,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95424,
       "num": 158042,
       "word": "男子出门打工9个月回家女友怀孕了",
@@ -1296,6 +1440,14 @@
       "word": "穆祉丞高会更新",
       "onboard_time": 1768143202,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 93568,
+      "num": 93567,
+      "word": "苏新皓cha了偶像万万岁",
+      "onboard_time": 1768203320,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -1395,6 +1547,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87106,
+      "num": 90475,
+      "word": "艾米的妆是自己化的",
+      "onboard_time": 1768199781,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 86492,
+      "num": 93568,
+      "word": "村干部回应千名网友帮女子杀年猪",
+      "onboard_time": 1768202000,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85580,
       "num": 85580,
       "word": "恋与深空",
@@ -1483,20 +1651,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 81001,
-      "num": 90475,
-      "word": "艾米的妆是自己化的",
-      "onboard_time": 1768199781,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 80990,
       "num": 80042,
       "word": "为什么很少看到农学生在抨击别专业",
       "onboard_time": 1768185620,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 80537,
+      "num": 80537,
+      "word": "代旭吻戏",
+      "onboard_time": 1768202660,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 80484,
@@ -1665,6 +1833,14 @@
       "onboard_time": 1768144762,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 65223,
+      "num": 97651,
+      "word": "休假女警一脚踢落嫌犯凶器",
+      "onboard_time": 1768203020,
+      "rank": 39,
+      "category": "正能量"
     },
     {
       "raw_hot": 63955,
@@ -1849,6 +2025,14 @@
       "onboard_time": 1768143322,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48495,
+      "num": 176716,
+      "word": "求助杀猪女子走红合川文旅连夜开会",
+      "onboard_time": 1768202301,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46824,
