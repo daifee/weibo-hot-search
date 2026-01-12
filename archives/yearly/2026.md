@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/12 13:53:38
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/12 14:48:24
 </p>
 </blockquote>
 <p>
@@ -1617,6 +1617,12 @@ AI照片竟然拿了摄影比赛第一名（热度：667067）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%98%AF%E8%B0%A2%E5%A8%9C%20%E4%BD%A0%E7%8E%B0%E5%9C%A8%E5%BF%85%E9%A1%BB%E5%8E%BB%E4%B8%8A%E5%AD%A6%23" target="weibo">
+我是谢娜 你现在必须去上学（热度：571208）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E6%89%9B%E5%89%A7%23" target="weibo">
 赵丽颖 扛剧（热度：570048）
 </a>
@@ -1805,12 +1811,6 @@ iPhoneFold上手（热度：543056）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E8%BD%A6%E5%8E%98%E5%AD%90%E6%AF%8F%E6%96%A4%E7%8B%82%E9%99%8D70%E5%85%83%23" target="weibo">
 山姆车厘子每斤狂降70元（热度：539918）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E4%BD%B3%E8%8E%B9%20%E6%88%91%E8%A6%81%E5%86%8D%E7%94%9F%E4%B8%80%E4%B8%AA%23" target="weibo">
-徐佳莹 我要再生一个（热度：538152）
 </a>
 </li>
 

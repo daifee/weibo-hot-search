@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768197218795,
+  "endTime": 1768200504600,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -2139,6 +2139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 571208,
+      "num": 211919,
+      "word": "我是谢娜 你现在必须去上学",
+      "onboard_time": 1768195881,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 570048,
       "num": 223041,
       "word": "赵丽颖 扛剧",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767596781,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 538152,
-      "num": 199884,
-      "word": "徐佳莹 我要再生一个",
-      "onboard_time": 1767753202,
-      "rank": 23,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

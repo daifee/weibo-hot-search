@@ -1,6 +1,6 @@
 {
   "startTime": 1768149237092,
-  "endTime": 1768197218795,
+  "endTime": 1768200504600,
   "band_list": [
     {
       "raw_hot": 2692974,
@@ -91,12 +91,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 534339,
+      "raw_hot": 571208,
       "num": 211919,
       "word": "我是谢娜 你现在必须去上学",
       "onboard_time": 1768195881,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 521712,
+      "num": 1083474,
+      "word": "河南省考 进不去",
+      "onboard_time": 1768190241,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 503313,
+      "num": 185986,
+      "word": "张子枫赵又廷新剧吻戏",
+      "onboard_time": 1768198580,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 496642,
@@ -105,6 +121,14 @@
       "onboard_time": 1768184300,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 495767,
+      "num": 495767,
+      "word": "得知三孩又是儿子爸爸笑容当场凝固",
+      "onboard_time": 1768198220,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 481845,
@@ -121,6 +145,14 @@
       "onboard_time": 1768190660,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 463580,
+      "num": 203370,
+      "word": "死了么APP创始人称没想到这么火",
+      "onboard_time": 1768195761,
+      "rank": 23,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 439252,
@@ -145,6 +177,14 @@
       "onboard_time": 1768194381,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 412749,
+      "num": 182278,
+      "word": "闫学晶儿子说对不起",
+      "onboard_time": 1768199422,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 410777,
@@ -193,6 +233,14 @@
       "onboard_time": 1768188441,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 354680,
+      "num": 265493,
+      "word": "呆呆杀猪",
+      "onboard_time": 1768195101,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 353270,
@@ -251,6 +299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 299234,
+      "num": 778074,
+      "word": "河南省考",
+      "onboard_time": 1768198941,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 296124,
       "num": 157372,
       "word": "闫学晶给所有公众人物敲响警钟",
@@ -273,6 +329,14 @@
       "onboard_time": 1768184659,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276265,
+      "num": 276265,
+      "word": "卢昱晓线下美成这样了",
+      "onboard_time": 1768196542,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 276178,
@@ -315,12 +379,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 249156,
-      "num": 249156,
-      "word": "河南省考 进不去",
-      "onboard_time": 1768190241,
-      "rank": 34,
-      "category": "教育"
+      "raw_hot": 251800,
+      "num": 251800,
+      "word": "娇兰活动",
+      "onboard_time": 1768198819,
+      "rank": 6,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 248086,
@@ -427,6 +491,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 208985,
+      "num": 208985,
+      "word": "100%食用率水果",
+      "onboard_time": 1768198041,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 208286,
       "num": 601739,
       "word": "国乒无缘多哈冠军赛男单决赛",
@@ -441,14 +513,6 @@
       "onboard_time": 1768191863,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203370,
-      "num": 203370,
-      "word": "死了么APP创始人称没想到这么火",
-      "onboard_time": 1768195761,
-      "rank": 23,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 194752,
@@ -523,6 +587,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171460,
+      "num": 171460,
+      "word": "黄晓明18年前闹太套18年后里头门",
+      "onboard_time": 1768198521,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 170455,
+      "num": 114191,
+      "word": "卢昱晓玩游戏摔倒",
+      "onboard_time": 1768199661,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 169967,
+      "num": 169967,
+      "word": "黄誉博参加婚礼没给黄子韬随份子",
+      "onboard_time": 1768197801,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169014,
       "num": 169014,
       "word": "戚薇发量",
@@ -555,6 +643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162997,
+      "num": 162997,
+      "word": "绿巨人扮演者走红毯抗议ICE枪杀",
+      "onboard_time": 1768198880,
+      "rank": 21,
+      "category": "海外新闻,电影"
+    },
+    {
       "raw_hot": 161605,
       "num": 161605,
       "word": "赵文卓金巧巧 武术人的精气神",
@@ -571,12 +667,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160657,
-      "num": 160657,
-      "word": "卢昱晓线下美成这样了",
-      "onboard_time": 1768196542,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 160399,
+      "num": 160399,
+      "word": "小英两胎顺产都没打无痛",
+      "onboard_time": 1768199899,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 159686,
@@ -592,6 +688,14 @@
       "word": "00后买年货有自己的碎碎念",
       "onboard_time": 1768190060,
       "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 158802,
+      "num": 158802,
+      "word": "最佳睡眠到底是几个小时",
+      "onboard_time": 1768190060,
+      "rank": 25,
       "category": "情感"
     },
     {
@@ -627,20 +731,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152569,
+      "num": 152569,
+      "word": "内娱最意想不到的搭档合作了",
+      "onboard_time": 1768199241,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 146052,
       "num": 127837,
       "word": "林高远欧冠出战时间确认",
       "onboard_time": 1768191381,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144961,
-      "num": 144961,
-      "word": "最佳睡眠到底是几个小时",
-      "onboard_time": 1768190060,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 144394,
@@ -691,6 +795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137452,
+      "num": 113896,
+      "word": "孙颖莎王曼昱打破女队发展模式",
+      "onboard_time": 1768200200,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135514,
       "num": 128136,
       "word": "全红婵肉眼可见的瘦了",
@@ -713,6 +825,14 @@
       "onboard_time": 1768191021,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132186,
+      "num": 648495,
+      "word": "海南离岛免税7天卖了12个亿",
+      "onboard_time": 1768198460,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130775,
@@ -747,14 +867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127780,
-      "num": 127780,
-      "word": "呆呆杀猪",
-      "onboard_time": 1768195101,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124319,
       "num": 124319,
       "word": "横店群演12天挣了1721元",
@@ -779,6 +891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 122707,
+      "num": 122707,
+      "word": "河南省考报名",
+      "onboard_time": 1768189461,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 120865,
       "num": 120865,
       "word": "林允 古装仪态",
@@ -795,20 +915,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 118087,
+      "num": 118087,
+      "word": "泡泡玛特回应将出潮玩手机",
+      "onboard_time": 1768199961,
+      "rank": 28,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 117042,
       "num": 158055,
       "word": "陈哲远 三个人的婚礼有点拥挤",
       "onboard_time": 1768136122,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 116466,
-      "num": 116466,
-      "word": "河南省考报名",
-      "onboard_time": 1768189461,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 116175,
@@ -875,20 +995,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113274,
+      "num": 157337,
+      "word": "赵丽颖演技",
+      "onboard_time": 1768196181,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113209,
       "num": 171171,
       "word": "发朋友圈前先回复消息",
       "onboard_time": 1768136961,
       "rank": 9,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 112570,
-      "num": 157337,
-      "word": "赵丽颖演技",
-      "onboard_time": 1768196181,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 111909,
@@ -921,6 +1041,14 @@
       "onboard_time": 1768176200,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107369,
+      "num": 107369,
+      "word": "宋祖儿入局杀青",
+      "onboard_time": 1768199059,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 106435,
@@ -1139,6 +1267,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 93368,
+      "num": 93368,
+      "word": "追觅CEO称打造首个百万亿美金生态",
+      "onboard_time": 1768200080,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 92886,
       "num": 92886,
       "word": "工作日才是用来休息的",
@@ -1177,6 +1313,14 @@
       "onboard_time": 1768174157,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90025,
+      "num": 87626,
+      "word": "恋综心眼最多的男嘉宾出现了",
+      "onboard_time": 1768200019,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 89580,
@@ -1251,6 +1395,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83557,
+      "num": 83557,
+      "word": "拥有恐怖表达力的秘籍",
+      "onboard_time": 1768199840,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 83483,
+      "num": 83483,
+      "word": "潮宏基回应涨价",
+      "onboard_time": 1768200200,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 82334,
       "num": 82334,
       "word": "中国电视剧年度盛典",
@@ -1299,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80025,
+      "num": 80025,
+      "word": "女儿遇害妻子患癌男子说我只能硬扛",
+      "onboard_time": 1768197739,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79924,
       "num": 79924,
       "word": "韩服AI疑似Bro替补中单Roamer",
@@ -1307,12 +1475,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 79724,
+      "num": 79724,
+      "word": "小狗有自己的坐井观天",
+      "onboard_time": 1768200320,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 78883,
       "num": 78883,
       "word": "朱雨玲世界排名升至第五",
       "onboard_time": 1768184780,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78383,
+      "num": 78383,
+      "word": "我不再讨厌星期一了",
+      "onboard_time": 1768200200,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 77873,
@@ -1329,6 +1513,14 @@
       "onboard_time": 1768174878,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76335,
+      "num": 76335,
+      "word": "曝LCK在越南举办正赛",
+      "onboard_time": 1768197680,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 75237,
@@ -1555,6 +1747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54868,
+      "num": 90475,
+      "word": "艾米的妆是自己化的",
+      "onboard_time": 1768199781,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54268,
       "num": 157848,
       "word": "小城大事",
@@ -1747,6 +1947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 35273,
+      "num": 114344,
+      "word": "年度反腐大片",
+      "onboard_time": 1768198701,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34749,
       "num": 62456,
       "word": "刘宇宁回应阿信想来看他的演唱会",
@@ -1867,6 +2075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22836,
+      "num": 88277,
+      "word": "怎么会有人把脑综录成恋综",
+      "onboard_time": 1768200141,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21371,
       "num": 26125,
       "word": "刘宇宁演唱会",
@@ -1958,6 +2174,9 @@
   "hotgov_list": [
     {
       "word": "#反腐大片一步不停歇半步不退让#"
+    },
+    {
+      "word": "#总书记高度重视党风廉政建设#"
     }
   ]
 }

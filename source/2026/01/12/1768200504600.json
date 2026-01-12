@@ -1,0 +1,410 @@
+{
+  "runTime": 1768200504600,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 521712,
+        "num": 1083474,
+        "word": "河南省考 进不去",
+        "onboard_time": 1768190241,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 299234,
+        "num": 778074,
+        "word": "河南省考",
+        "onboard_time": 1768198941,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 132186,
+        "num": 648495,
+        "word": "海南离岛免税7天卖了12个亿",
+        "onboard_time": 1768198460,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 495767,
+        "num": 495767,
+        "word": "得知三孩又是儿子爸爸笑容当场凝固",
+        "onboard_time": 1768198220,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276265,
+        "num": 276265,
+        "word": "卢昱晓线下美成这样了",
+        "onboard_time": 1768196542,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354680,
+        "num": 265493,
+        "word": "呆呆杀猪",
+        "onboard_time": 1768195101,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251800,
+        "num": 251800,
+        "word": "娇兰活动",
+        "onboard_time": 1768198819,
+        "rank": 6,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 231313,
+        "num": 231313,
+        "word": "初中生网购疑似侵华日军信件",
+        "onboard_time": 1768188141,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208985,
+        "num": 208985,
+        "word": "100%食用率水果",
+        "onboard_time": 1768198041,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203754,
+        "num": 203754,
+        "word": "威海暴雪",
+        "onboard_time": 1768194381,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 984277,
+        "num": 203148,
+        "word": "痞幼上恋综进医院",
+        "onboard_time": 1768194860,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 571208,
+        "num": 195935,
+        "word": "我是谢娜 你现在必须去上学",
+        "onboard_time": 1768195881,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463580,
+        "num": 190348,
+        "word": "死了么APP创始人称没想到这么火",
+        "onboard_time": 1768195761,
+        "rank": 12,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 503313,
+        "num": 185986,
+        "word": "张子枫赵又廷新剧吻戏",
+        "onboard_time": 1768198580,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 412749,
+        "num": 182278,
+        "word": "闫学晶儿子说对不起",
+        "onboard_time": 1768199422,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277574,
+        "num": 177707,
+        "word": "日本第一代不婚族开始后悔了",
+        "onboard_time": 1768190660,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 215745,
+        "num": 175052,
+        "word": "单依纯官宣香奈儿",
+        "onboard_time": 1768184659,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171460,
+        "num": 171460,
+        "word": "黄晓明18年前闹太套18年后里头门",
+        "onboard_time": 1768198521,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170566,
+        "num": 170566,
+        "word": "A股",
+        "onboard_time": 1768185680,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 169967,
+        "num": 169967,
+        "word": "黄誉博参加婚礼没给黄子韬随份子",
+        "onboard_time": 1768197801,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215528,
+        "num": 168136,
+        "word": "这居然是陈梦",
+        "onboard_time": 1768188260,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162997,
+        "num": 162997,
+        "word": "绿巨人扮演者走红毯抗议ICE枪杀",
+        "onboard_time": 1768198880,
+        "rank": 21,
+        "category": "海外新闻,电影"
+      },
+      {
+        "raw_hot": 160399,
+        "num": 160399,
+        "word": "小英两胎顺产都没打无痛",
+        "onboard_time": 1768199899,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 158802,
+        "num": 158802,
+        "word": "最佳睡眠到底是几个小时",
+        "onboard_time": 1768190060,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152569,
+        "num": 152569,
+        "word": "内娱最意想不到的搭档合作了",
+        "onboard_time": 1768199241,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145313,
+        "num": 145313,
+        "word": "QQ音乐超级会员代言人",
+        "onboard_time": 1768190060,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127300,
+        "num": 127300,
+        "word": "女子网购一箱粑粑柑开出百种丑法",
+        "onboard_time": 1768187480,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122707,
+        "num": 122707,
+        "word": "河南省考报名",
+        "onboard_time": 1768189461,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 118087,
+        "num": 118087,
+        "word": "泡泡玛特回应将出潮玩手机",
+        "onboard_time": 1768199961,
+        "rank": 28,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 35273,
+        "num": 114344,
+        "word": "年度反腐大片",
+        "onboard_time": 1768198701,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170455,
+        "num": 114191,
+        "word": "卢昱晓玩游戏摔倒",
+        "onboard_time": 1768199661,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137452,
+        "num": 113896,
+        "word": "孙颖莎王曼昱打破女队发展模式",
+        "onboard_time": 1768200200,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113274,
+        "num": 113274,
+        "word": "赵丽颖演技",
+        "onboard_time": 1768196181,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110969,
+        "num": 110969,
+        "word": "美人余有易梦玲",
+        "onboard_time": 1768194262,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107391,
+        "num": 107391,
+        "word": "2026年第一个闯大祸的人出现了",
+        "onboard_time": 1768189880,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107369,
+        "num": 107369,
+        "word": "宋祖儿入局杀青",
+        "onboard_time": 1768199059,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93870,
+        "num": 93870,
+        "word": "轧戏",
+        "onboard_time": 1768176860,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93368,
+        "num": 93368,
+        "word": "追觅CEO称打造首个百万亿美金生态",
+        "onboard_time": 1768200080,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 54868,
+        "num": 90475,
+        "word": "艾米的妆是自己化的",
+        "onboard_time": 1768199781,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22836,
+        "num": 88277,
+        "word": "怎么会有人把脑综录成恋综",
+        "onboard_time": 1768200141,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87837,
+        "num": 87837,
+        "word": "横店群演12天挣了1721元",
+        "onboard_time": 1768194140,
+        "rank": 40,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 90025,
+        "num": 87626,
+        "word": "恋综心眼最多的男嘉宾出现了",
+        "onboard_time": 1768200019,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85903,
+        "num": 85903,
+        "word": "用户与AI聊黄开发者获刑",
+        "onboard_time": 1768190541,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85381,
+        "num": 85381,
+        "word": "虞书欣碎镜海报",
+        "onboard_time": 1768192882,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83557,
+        "num": 83557,
+        "word": "拥有恐怖表达力的秘籍",
+        "onboard_time": 1768199840,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83483,
+        "num": 83483,
+        "word": "潮宏基回应涨价",
+        "onboard_time": 1768200200,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 80025,
+        "num": 80025,
+        "word": "女儿遇害妻子患癌男子说我只能硬扛",
+        "onboard_time": 1768197739,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79724,
+        "num": 79724,
+        "word": "小狗有自己的坐井观天",
+        "onboard_time": 1768200320,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78383,
+        "num": 78383,
+        "word": "我不再讨厌星期一了",
+        "onboard_time": 1768200200,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76335,
+        "num": 76335,
+        "word": "曝LCK在越南举办正赛",
+        "onboard_time": 1768197680,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记高度重视党风廉政建设#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768197218795,
+  "endTime": 1768200504600,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -2139,6 +2139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 571208,
+      "num": 211919,
+      "word": "我是谢娜 你现在必须去上学",
+      "onboard_time": 1768195881,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 570048,
       "num": 223041,
       "word": "赵丽颖 扛剧",
@@ -2451,14 +2459,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 534339,
-      "num": 211919,
-      "word": "我是谢娜 你现在必须去上学",
-      "onboard_time": 1768195881,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 533941,
       "num": 461216,
       "word": "今天的赵丽颖梦回明兰了",
@@ -2617,6 +2617,14 @@
       "onboard_time": 1767673881,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 521712,
+      "num": 1083474,
+      "word": "河南省考 进不去",
+      "onboard_time": 1768190241,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 521015,
@@ -2931,6 +2939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 503313,
+      "num": 185986,
+      "word": "张子枫赵又廷新剧吻戏",
+      "onboard_time": 1768198580,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 502102,
       "num": 1069636,
       "word": "哈尔滨零下20℃外国游客光腿穿短裤",
@@ -2993,6 +3009,14 @@
       "onboard_time": 1767429144,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 495767,
+      "num": 495767,
+      "word": "得知三孩又是儿子爸爸笑容当场凝固",
+      "onboard_time": 1768198220,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 495716,
@@ -3385,6 +3409,14 @@
       "onboard_time": 1767675442,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 463580,
+      "num": 203370,
+      "word": "死了么APP创始人称没想到这么火",
+      "onboard_time": 1768195761,
+      "rank": 23,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 462799,
@@ -4081,6 +4113,14 @@
       "onboard_time": 1767949580,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 412749,
+      "num": 182278,
+      "word": "闫学晶儿子说对不起",
+      "onboard_time": 1768199422,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 411792,
@@ -5065,6 +5105,14 @@
       "onboard_time": 1767341059,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 354680,
+      "num": 265493,
+      "word": "呆呆杀猪",
+      "onboard_time": 1768195101,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 353270,
@@ -6347,6 +6395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299234,
+      "num": 778074,
+      "word": "河南省考",
+      "onboard_time": 1768198941,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 298697,
       "num": 298697,
       "word": "高市手持安倍画像被批令人作呕",
@@ -6929,6 +6985,14 @@
       "onboard_time": 1768135341,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 276265,
+      "num": 276265,
+      "word": "卢昱晓线下美成这样了",
+      "onboard_time": 1768196542,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 276178,
@@ -7787,6 +7851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251800,
+      "num": 251800,
+      "word": "娇兰活动",
+      "onboard_time": 1768198819,
+      "rank": 6,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 251727,
       "num": 195819,
       "word": "infj为什么很E",
@@ -7873,14 +7945,6 @@
       "onboard_time": 1767794004,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 249156,
-      "num": 249156,
-      "word": "河南省考 进不去",
-      "onboard_time": 1768190241,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 248862,
@@ -9379,6 +9443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208985,
+      "num": 208985,
+      "word": "100%食用率水果",
+      "onboard_time": 1768198041,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 208969,
       "num": 1730508,
       "word": "车厘子J是啥意思",
@@ -9737,14 +9809,6 @@
       "onboard_time": 1768037421,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 203370,
-      "num": 203370,
-      "word": "死了么APP创始人称没想到这么火",
-      "onboard_time": 1768195761,
-      "rank": 23,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 202986,
@@ -12211,6 +12275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171460,
+      "num": 171460,
+      "word": "黄晓明18年前闹太套18年后里头门",
+      "onboard_time": 1768198521,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171320,
       "num": 158525,
       "word": "谁去把肖央王太利的网线拔了",
@@ -12264,6 +12336,14 @@
       "word": "郭芙蓉欠的48两银子值多少钱",
       "onboard_time": 1767351260,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 170455,
+      "num": 114191,
+      "word": "卢昱晓玩游戏摔倒",
+      "onboard_time": 1768199661,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -12329,6 +12409,14 @@
       "onboard_time": 1767772401,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 169967,
+      "num": 169967,
+      "word": "黄誉博参加婚礼没给黄子韬随份子",
+      "onboard_time": 1768197801,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 169932,
@@ -13027,6 +13115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162997,
+      "num": 162997,
+      "word": "绿巨人扮演者走红毯抗议ICE枪杀",
+      "onboard_time": 1768198880,
+      "rank": 21,
+      "category": "海外新闻,电影"
+    },
+    {
       "raw_hot": 162985,
       "num": 156397,
       "word": "国产剧开始为妇产科发声了",
@@ -13275,14 +13371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160657,
-      "num": 160657,
-      "word": "卢昱晓线下美成这样了",
-      "onboard_time": 1768196542,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 160651,
       "num": 160651,
       "word": "中学生被按地强行理发画面曝光",
@@ -13329,6 +13417,14 @@
       "onboard_time": 1767419125,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 160399,
+      "num": 160399,
+      "word": "小英两胎顺产都没打无痛",
+      "onboard_time": 1768199899,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 160386,
@@ -13481,6 +13577,14 @@
       "onboard_time": 1767943761,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158802,
+      "num": 158802,
+      "word": "最佳睡眠到底是几个小时",
+      "onboard_time": 1768190060,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 158697,
@@ -14025,6 +14129,14 @@
       "onboard_time": 1767419006,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152569,
+      "num": 152569,
+      "word": "内娱最意想不到的搭档合作了",
+      "onboard_time": 1768199241,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 152558,
@@ -14809,14 +14921,6 @@
       "onboard_time": 1767234861,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144961,
-      "num": 144961,
-      "word": "最佳睡眠到底是几个小时",
-      "onboard_time": 1768190060,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 144925,
@@ -15755,6 +15859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137452,
+      "num": 113896,
+      "word": "孙颖莎王曼昱打破女队发展模式",
+      "onboard_time": 1768200200,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137417,
       "num": 137417,
       "word": "韩国总统李在明将访华",
@@ -16531,6 +16643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132186,
+      "num": 648495,
+      "word": "海南离岛免税7天卖了12个亿",
+      "onboard_time": 1768198460,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132050,
       "num": 157157,
       "word": "刘宇宁你们再喊我飞走了",
@@ -17177,14 +17297,6 @@
       "onboard_time": 1767661520,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127780,
-      "num": 127780,
-      "word": "呆呆杀猪",
-      "onboard_time": 1768195101,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127778,
@@ -18091,6 +18203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122707,
+      "num": 122707,
+      "word": "河南省考报名",
+      "onboard_time": 1768189461,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 122667,
       "num": 135603,
       "word": "丁程鑫化妆技术战绩可查",
@@ -18891,6 +19011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118087,
+      "num": 118087,
+      "word": "泡泡玛特回应将出潮玩手机",
+      "onboard_time": 1768199961,
+      "rank": 28,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 117969,
       "num": 117969,
       "word": "罗云熙让体制内具象化了",
@@ -19177,14 +19305,6 @@
       "onboard_time": 1767223758,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 116466,
-      "num": 116466,
-      "word": "河南省考报名",
-      "onboard_time": 1768189461,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 116464,
@@ -19843,6 +19963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 113274,
+      "num": 157337,
+      "word": "赵丽颖演技",
+      "onboard_time": 1768196181,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113271,
       "num": 113271,
       "word": "第一次见男主用开枪哄女主的",
@@ -19993,14 +20121,6 @@
       "onboard_time": 1767870200,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 112570,
-      "num": 157337,
-      "word": "赵丽颖演技",
-      "onboard_time": 1768196181,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 112553,
@@ -20793,6 +20913,14 @@
       "onboard_time": 1768119320,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 107369,
+      "num": 107369,
+      "word": "宋祖儿入局杀青",
+      "onboard_time": 1768199059,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 107328,
@@ -24491,6 +24619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 93368,
+      "num": 93368,
+      "word": "追觅CEO称打造首个百万亿美金生态",
+      "onboard_time": 1768200080,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 93283,
       "num": 93283,
       "word": "武大靖退役泪洒节目现场",
@@ -25329,6 +25465,14 @@
       "onboard_time": 1767412947,
       "rank": 18,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 90025,
+      "num": 87626,
+      "word": "恋综心眼最多的男嘉宾出现了",
+      "onboard_time": 1768200019,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 90010,
@@ -27035,6 +27179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 83557,
+      "num": 83557,
+      "word": "拥有恐怖表达力的秘籍",
+      "onboard_time": 1768199840,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 83554,
       "num": 83554,
       "word": "海航 Bug票",
@@ -27048,6 +27200,14 @@
       "word": "茅台批发价再度跌破1499元",
       "onboard_time": 1767497484,
       "rank": 49,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 83483,
+      "num": 83483,
+      "word": "潮宏基回应涨价",
+      "onboard_time": 1768200200,
+      "rank": 45,
       "category": "财经"
     },
     {
@@ -27835,6 +27995,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 80025,
+      "num": 80025,
+      "word": "女儿遇害妻子患癌男子说我只能硬扛",
+      "onboard_time": 1768197739,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79989,
       "num": 79989,
       "word": "sakee详细说明",
@@ -27913,6 +28081,14 @@
       "onboard_time": 1767327319,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 79724,
+      "num": 79724,
+      "word": "小狗有自己的坐井观天",
+      "onboard_time": 1768200320,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 79722,
@@ -28185,6 +28361,14 @@
       "onboard_time": 1767230121,
       "rank": 25,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 78383,
+      "num": 78383,
+      "word": "我不再讨厌星期一了",
+      "onboard_time": 1768200200,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 78320,
@@ -28673,6 +28857,14 @@
       "onboard_time": 1767415707,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76335,
+      "num": 76335,
+      "word": "曝LCK在越南举办正赛",
+      "onboard_time": 1768197680,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 76187,
@@ -32113,6 +32305,14 @@
       "onboard_time": 1767245361,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 54868,
+      "num": 90475,
+      "word": "艾米的妆是自己化的",
+      "onboard_time": 1768199781,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 54837,
@@ -36251,6 +36451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22836,
+      "num": 88277,
+      "word": "怎么会有人把脑综录成恋综",
+      "onboard_time": 1768200141,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 22835,
       "num": 183841,
       "word": "领养12岁外甥女90后小伙否认卖惨",
@@ -37468,6 +37676,9 @@
     },
     {
       "word": "#反腐大片一步不停歇半步不退让#"
+    },
+    {
+      "word": "#总书记高度重视党风廉政建设#"
     }
   ]
 }
