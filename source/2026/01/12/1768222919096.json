@@ -1,0 +1,410 @@
+{
+  "runTime": 1768222919096,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1459109,
+        "num": 1459109,
+        "word": "携程误发全员离职信息",
+        "onboard_time": 1768220540,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388347,
+        "num": 886186,
+        "word": "韩国空难失事前75秒黑匣子录音",
+        "onboard_time": 1768209262,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 7104,
+        "num": 685471,
+        "word": "我国冰雪游成为世界游客的选择",
+        "onboard_time": 1768207100,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 886705,
+        "num": 555286,
+        "word": "肖战 十日终焉",
+        "onboard_time": 1768220300,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 273510,
+        "num": 273510,
+        "word": "水泥麻辣烫",
+        "onboard_time": 1768213942,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 424220,
+        "num": 270604,
+        "word": "微信通知显示头像",
+        "onboard_time": 1768208120,
+        "rank": 5,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 420689,
+        "num": 268505,
+        "word": "呆呆1分钟视频报价2400元",
+        "onboard_time": 1768218621,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264999,
+        "num": 264999,
+        "word": "北京退休人员产检也可报销",
+        "onboard_time": 1768220840,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212989,
+        "num": 212989,
+        "word": "爱喝奶茶的人天塌了",
+        "onboard_time": 1768210043,
+        "rank": 8,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 194780,
+        "num": 194780,
+        "word": "小米17",
+        "onboard_time": 1768216161,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1522691,
+        "num": 193469,
+        "word": "宋威龙赵今麦完全是婚礼现场",
+        "onboard_time": 1768221381,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 5918,
+        "num": 193280,
+        "word": "青年回村让家乡变得很酷",
+        "onboard_time": 1768207820,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 948539,
+        "num": 191284,
+        "word": "网红口子姐去世",
+        "onboard_time": 1768215022,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 578563,
+        "num": 190217,
+        "word": "家属称痔疮手术致34岁医生离世",
+        "onboard_time": 1768219221,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 482805,
+        "num": 188296,
+        "word": "龙麦",
+        "onboard_time": 1768220662,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 345160,
+        "num": 186600,
+        "word": "宋威龙赵今麦王子公主",
+        "onboard_time": 1768216461,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220499,
+        "num": 185322,
+        "word": "iPhone4回收价涨了60倍",
+        "onboard_time": 1768207640,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 289824,
+        "num": 184625,
+        "word": "章若楠胸前好大一朵花",
+        "onboard_time": 1768216282,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183667,
+        "num": 183667,
+        "word": "游客拍到两只小猫在华山顶上对决",
+        "onboard_time": 1768217720,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76969,
+        "num": 181090,
+        "word": "我家比家人更懂我",
+        "onboard_time": 1768219882,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 371883,
+        "num": 180927,
+        "word": "杀猪来了上千网友做清洁只剩妈妈一人",
+        "onboard_time": 1768210642,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179538,
+        "num": 179538,
+        "word": "张雨绮 我的身材很曼妙",
+        "onboard_time": 1768222461,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165865,
+        "num": 165865,
+        "word": "国乒丢冠的根本原因",
+        "onboard_time": 1768220900,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154656,
+        "num": 154656,
+        "word": "苏新皓直播",
+        "onboard_time": 1768215921,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152082,
+        "num": 152082,
+        "word": "肖战担任国乒副总教练",
+        "onboard_time": 1768210580,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149974,
+        "num": 149974,
+        "word": "穆祉丞 看不惯我就憋着",
+        "onboard_time": 1768218740,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139071,
+        "num": 139071,
+        "word": "当地文旅回应呆呆杀猪后续安排",
+        "onboard_time": 1768211781,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138960,
+        "num": 138960,
+        "word": "A股为何这么猛",
+        "onboard_time": 1768218500,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135748,
+        "num": 135748,
+        "word": "向佐录综艺丢失重要项链",
+        "onboard_time": 1768218861,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110587,
+        "num": 134763,
+        "word": "2026年起这些化妆品不能卖",
+        "onboard_time": 1768222162,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170724,
+        "num": 134673,
+        "word": "十日终焉开机时间",
+        "onboard_time": 1768222461,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134554,
+        "num": 134554,
+        "word": "父亲见到遇害女儿遗体哭都哭不出来",
+        "onboard_time": 1768213341,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133262,
+        "num": 133262,
+        "word": "娇兰上海活动明星",
+        "onboard_time": 1768222402,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118980,
+        "num": 132668,
+        "word": "陈梦回应出演小城大事",
+        "onboard_time": 1768215981,
+        "rank": 33,
+        "category": "剧集,体育"
+      },
+      {
+        "raw_hot": 108318,
+        "num": 132620,
+        "word": "47岁女子上班期间冲泡奶茶被辞退",
+        "onboard_time": 1768221801,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132582,
+        "num": 132582,
+        "word": "本想私聊结果吵架被公放了",
+        "onboard_time": 1768222101,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132439,
+        "num": 132439,
+        "word": "XG改名",
+        "onboard_time": 1768211361,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91737,
+        "num": 126152,
+        "word": "英国人在中国暴食后喜提急诊",
+        "onboard_time": 1768212081,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122588,
+        "num": 122588,
+        "word": "娇兰活动",
+        "onboard_time": 1768198819,
+        "rank": 38,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 45800,
+        "num": 118490,
+        "word": "当年这支舞惊艳了内娱十几年",
+        "onboard_time": 1768222883,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115797,
+        "num": 115797,
+        "word": "张子枫演技",
+        "onboard_time": 1768221323,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79615,
+        "num": 114472,
+        "word": "鹅鸭杀手游在线人数超Steam峰值",
+        "onboard_time": 1768221080,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120029,
+        "num": 114207,
+        "word": "小城大事",
+        "onboard_time": 1768217901,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113563,
+        "num": 113563,
+        "word": "轧戏",
+        "onboard_time": 1768216883,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77238,
+        "num": 111955,
+        "word": "鹅鸭杀还原梦泪名场面",
+        "onboard_time": 1768217783,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110946,
+        "num": 110946,
+        "word": "王俊凯和伴舞 两个绝望的直男",
+        "onboard_time": 1768212441,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109920,
+        "num": 109920,
+        "word": "王鹤润喝嗨了开始发疯",
+        "onboard_time": 1768222282,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72136,
+        "num": 108063,
+        "word": "合川文旅否认呆呆杀年猪是联合炒作",
+        "onboard_time": 1768222883,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89820,
+        "num": 107509,
+        "word": "小城大事前6集观后感",
+        "onboard_time": 1768221262,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89570,
+        "num": 104284,
+        "word": "肖战2部电影3部剧得奖",
+        "onboard_time": 1768219521,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记高度重视党风廉政建设#"
+    }
+  }
+}
