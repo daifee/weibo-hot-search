@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768235820030,
+  "endTime": 1768236871306,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -14481,6 +14481,14 @@
       "onboard_time": 1767439526,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 157291,
+      "num": 124520,
+      "word": "上海的婚宴果然是晚上办",
+      "onboard_time": 1768235119,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 157283,
@@ -31019,14 +31027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 74168,
-      "num": 124520,
-      "word": "上海的婚宴果然是晚上办",
-      "onboard_time": 1768235119,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 74102,
       "num": 827838,
       "word": "智利车厘子快线比地铁还勤",
@@ -32128,6 +32128,14 @@
       "word": "中国或将首个带回火星样本",
       "onboard_time": 1768212621,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67335,
+      "num": 124481,
+      "word": "合川文旅称杀猪宴是呆呆私人发起",
+      "onboard_time": 1768233680,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -34009,14 +34017,6 @@
       "onboard_time": 1767629482,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 55894,
-      "num": 124481,
-      "word": "合川文旅称杀猪宴是呆呆私人发起",
-      "onboard_time": 1768233680,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55846,
@@ -36057,6 +36057,14 @@
       "onboard_time": 1767354140,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 39775,
+      "num": 81473,
+      "word": "商场客服回应洗手台酷似小便池",
+      "onboard_time": 1768236319,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39752,
