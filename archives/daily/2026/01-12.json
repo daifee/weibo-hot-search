@@ -1,6 +1,6 @@
 {
   "startTime": 1768149237092,
-  "endTime": 1768229725217,
+  "endTime": 1768232084255,
   "band_list": [
     {
       "raw_hot": 2692974,
@@ -43,20 +43,20 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 1338830,
+      "num": 1338830,
+      "word": "老干妈创始人出山救子又赚翻了",
+      "onboard_time": 1768226783,
+      "rank": 3,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1268140,
       "num": 515703,
       "word": "这居然是陈梦",
       "onboard_time": 1768188260,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1123017,
-      "num": 1179682,
-      "word": "老干妈创始人出山救子又赚翻了",
-      "onboard_time": 1768226783,
-      "rank": 3,
-      "category": "财经"
     },
     {
       "raw_hot": 1073090,
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 640278,
+      "num": 861625,
+      "word": "轧戏",
+      "onboard_time": 1768176860,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 629444,
       "num": 165973,
       "word": "金价",
@@ -209,6 +217,14 @@
       "onboard_time": 1768199422,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 586432,
+      "num": 586432,
+      "word": "代旭掀桌了",
+      "onboard_time": 1768228642,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 578563,
@@ -691,6 +707,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 281893,
+      "num": 203956,
+      "word": "肖战网文排名前五演了四个",
+      "onboard_time": 1768231641,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 281289,
+      "num": 188336,
+      "word": "女子丈夫出差男子跨城约酒强奸未遂",
+      "onboard_time": 1768228702,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 281004,
       "num": 294680,
       "word": "27岁于子洋入选国乒教练组",
@@ -769,14 +801,6 @@
       "onboard_time": 1768189880,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 267273,
-      "num": 267273,
-      "word": "轧戏",
-      "onboard_time": 1768176860,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 255379,
@@ -947,14 +971,6 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 218307,
-      "num": 218307,
-      "word": "代旭掀桌了",
-      "onboard_time": 1768228642,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 217405,
       "num": 217405,
       "word": "伊朗外长说已控制全国局势",
@@ -995,8 +1011,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 211740,
-      "num": 211740,
+      "raw_hot": 212174,
+      "num": 212174,
       "word": "贵州一幼儿园森林里放养娃",
       "onboard_time": 1768226902,
       "rank": 28,
@@ -1147,6 +1163,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 189237,
+      "num": 189237,
+      "word": "租客深夜发救命房东醒来满楼血迹",
+      "onboard_time": 1768230263,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189067,
       "num": 150930,
       "word": "邢菲古早韩妹味",
@@ -1187,6 +1211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183057,
+      "num": 154665,
+      "word": "苏新皓 朱志鑫大哥哥",
+      "onboard_time": 1768230441,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181121,
       "num": 181121,
       "word": "农业农村部原部长唐仁健贪腐轨迹",
@@ -1209,6 +1241,14 @@
       "onboard_time": 1768199899,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 178633,
+      "num": 155214,
+      "word": "59岁高龄产妇顺利产下4斤4两男婴",
+      "onboard_time": 1768228462,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178149,
@@ -1363,14 +1403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161493,
-      "num": 138985,
-      "word": "59岁高龄产妇顺利产下4斤4两男婴",
-      "onboard_time": 1768228462,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 160879,
       "num": 160879,
       "word": "洪金宝和三个儿子第一次合作",
@@ -1523,6 +1555,14 @@
       "category": "美食,情感"
     },
     {
+      "raw_hot": 149443,
+      "num": 149443,
+      "word": "宋祖儿丁禹兮 司宫令",
+      "onboard_time": 1768229901,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149418,
       "num": 149418,
       "word": "店主误将10万中奖彩票给他人",
@@ -1555,6 +1595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145560,
+      "num": 145560,
+      "word": "白鹿你好星期六repo",
+      "onboard_time": 1768230802,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144394,
       "num": 173251,
       "word": "河南10名干部违规吃喝1人死亡",
@@ -1569,14 +1617,6 @@
       "onboard_time": 1768209500,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142454,
-      "num": 142454,
-      "word": "女子丈夫出差男子跨城约酒强奸未遂",
-      "onboard_time": 1768228702,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142020,
@@ -1691,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137395,
+      "num": 137727,
+      "word": "贪官和家人坐公务飞机四处旅游",
+      "onboard_time": 1768226902,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 137090,
       "num": 137090,
       "word": "短剧版慕容云海",
@@ -1795,6 +1843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132196,
+      "num": 132196,
+      "word": "A股涨疯了一天创2项纪录",
+      "onboard_time": 1768224622,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 132191,
       "num": 132191,
       "word": "孙颖莎前主管教练回归",
@@ -1848,6 +1904,14 @@
       "word": "苏新皓cha了偶像万万岁",
       "onboard_time": 1768203320,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 128329,
+      "num": 128329,
+      "word": "彭小苒工作室道歉",
+      "onboard_time": 1768230802,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -1947,6 +2011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121594,
+      "num": 121594,
+      "word": "iPhone相册自带手写体",
+      "onboard_time": 1768230321,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 120865,
       "num": 120865,
       "word": "林允 古装仪态",
@@ -1969,14 +2041,6 @@
       "onboard_time": 1768216581,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 119435,
-      "num": 137727,
-      "word": "贪官和家人坐公务飞机四处旅游",
-      "onboard_time": 1768226902,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 118532,
@@ -2539,6 +2603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97739,
+      "num": 97739,
+      "word": "商业航天概念股集体回应",
+      "onboard_time": 1768231280,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 97681,
       "num": 97681,
       "word": "肖战维权案二审新进展",
@@ -2785,14 +2857,6 @@
       "onboard_time": 1768174157,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 90347,
-      "num": 101603,
-      "word": "A股涨疯了一天创2项纪录",
-      "onboard_time": 1768224622,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 90039,
@@ -3051,6 +3115,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 80762,
+      "num": 78624,
+      "word": "宋威龙又唱忘记时间了",
+      "onboard_time": 1768230380,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80484,
       "num": 80484,
       "word": "小城大事nono哥",
@@ -3123,12 +3195,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77645,
+      "num": 77645,
+      "word": "这段黄晓明完全本色出演",
+      "onboard_time": 1768232059,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76969,
       "num": 181090,
       "word": "我家比家人更懂我",
       "onboard_time": 1768219882,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 76964,
+      "num": 76964,
+      "word": "贵州茅台下调多款产品价格",
+      "onboard_time": 1768231400,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 76335,
@@ -3361,6 +3449,14 @@
       "onboard_time": 1768142123,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 60407,
+      "num": 156960,
+      "word": "哭哭马订单排到3月",
+      "onboard_time": 1768231101,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59955,
@@ -3643,6 +3739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 37107,
+      "num": 188784,
+      "word": "国家文物局就优化文物管理发声",
+      "onboard_time": 1768231042,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36309,
       "num": 116105,
       "word": "童家堡",
@@ -3707,6 +3811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31462,
+      "num": 91950,
+      "word": "被告人杀死女医学生后开空调藏尸",
+      "onboard_time": 1768231461,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30866,
       "num": 101332,
       "word": "张钧甯从金桔到菠萝包",
@@ -3740,7 +3852,7 @@
     },
     {
       "raw_hot": 29236,
-      "num": 655435,
+      "num": 713305,
       "word": "开启2026美好生活",
       "onboard_time": 1768226841,
       "rank": 2,

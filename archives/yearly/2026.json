@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768229725217,
+  "endTime": 1768232084255,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -323,6 +323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1338830,
+      "num": 1338830,
+      "word": "老干妈创始人出山救子又赚翻了",
+      "onboard_time": 1768226783,
+      "rank": 3,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1316774,
       "num": 1032526,
       "word": "张本智和被点名",
@@ -489,14 +497,6 @@
       "onboard_time": 1767654558,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1123017,
-      "num": 1179682,
-      "word": "老干妈创始人出山救子又赚翻了",
-      "onboard_time": 1768226783,
-      "rank": 3,
-      "category": "财经"
     },
     {
       "raw_hot": 1118560,
@@ -2107,6 +2107,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 586432,
+      "num": 586432,
+      "word": "代旭掀桌了",
+      "onboard_time": 1768228642,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 585184,
       "num": 1093629,
       "word": "禁止所有两用物项对日本军事用途出口",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768014500,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 554927,
-      "num": 316249,
-      "word": "娶了个魔丸生了个魔童",
-      "onboard_time": 1767862160,
-      "rank": 30,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [
