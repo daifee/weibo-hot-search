@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768222919096,
+  "endTime": 1768223791103,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -43,6 +43,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1754609,
+      "num": 1754609,
+      "word": "携程误发全员离职信息",
+      "onboard_time": 1768220540,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1752409,
       "num": 101133,
       "word": "疑似小澈P图编码",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1522691,
-      "num": 193469,
+      "num": 206643,
       "word": "宋威龙赵今麦完全是婚礼现场",
       "onboard_time": 1768221381,
       "rank": 10,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1513071,
-      "num": 191284,
+      "num": 206325,
       "word": "网红口子姐去世",
       "onboard_time": 1768215022,
       "rank": 48,
@@ -81,14 +89,6 @@
       "onboard_time": 1768208120,
       "rank": 40,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 1459109,
-      "num": 1459109,
-      "word": "携程误发全员离职信息",
-      "onboard_time": 1768220540,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1271113,
@@ -147,6 +147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 977197,
+      "num": 634160,
+      "word": "肖战 十日终焉",
+      "onboard_time": 1768220300,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 920995,
       "num": 196369,
       "word": "小澈 抗艾滋药",
@@ -161,14 +169,6 @@
       "onboard_time": 1768097721,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 886705,
-      "num": 555286,
-      "word": "肖战 十日终焉",
-      "onboard_time": 1768220300,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 847748,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 578563,
-      "num": 190217,
+      "num": 204565,
       "word": "家属称痔疮手术致34岁医生离世",
       "onboard_time": 1768219221,
       "rank": 13,
@@ -668,7 +668,7 @@
     },
     {
       "raw_hot": 482805,
-      "num": 188296,
+      "num": 201551,
       "word": "龙麦",
       "onboard_time": 1768220662,
       "rank": 14,
@@ -729,6 +729,14 @@
       "onboard_time": 1768202601,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 451698,
+      "num": 902986,
+      "word": "北京退休人员产检也可报销",
+      "onboard_time": 1768220840,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 446810,
@@ -811,6 +819,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 433244,
+      "num": 301112,
+      "word": "呆呆1分钟视频报价2400元",
+      "onboard_time": 1768218621,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 423183,
       "num": 273941,
       "word": "宋威龙赵今麦王子公主",
@@ -825,14 +841,6 @@
       "onboard_time": 1768100599,
       "rank": 22,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 420689,
-      "num": 268505,
-      "word": "呆呆1分钟视频报价2400元",
-      "onboard_time": 1768218621,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 415599,
@@ -1124,7 +1132,7 @@
     },
     {
       "raw_hot": 341523,
-      "num": 184625,
+      "num": 200064,
       "word": "章若楠胸前好大一朵花",
       "onboard_time": 1768216282,
       "rank": 29,
@@ -1404,7 +1412,7 @@
     },
     {
       "raw_hot": 273705,
-      "num": 154656,
+      "num": 166481,
       "word": "苏新皓直播",
       "onboard_time": 1768215921,
       "rank": 28,
@@ -1457,14 +1465,6 @@
       "onboard_time": 1768046421,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 264999,
-      "num": 264999,
-      "word": "北京退休人员产检也可报销",
-      "onboard_time": 1768220840,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 264707,
@@ -1651,6 +1651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235828,
+      "num": 235828,
+      "word": "十日终焉开机时间",
+      "onboard_time": 1768222461,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 235610,
       "num": 235610,
       "word": "王玉雯精心画的卧蚕",
@@ -1785,6 +1793,14 @@
       "onboard_time": 1768138642,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217870,
+      "num": 179538,
+      "word": "张雨绮 我的身材很曼妙",
+      "onboard_time": 1768222461,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 217641,
@@ -1979,12 +1995,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196409,
+      "num": 196409,
+      "word": "十日终焉",
+      "onboard_time": 1768223483,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194972,
       "num": 134611,
       "word": "王俊凯跨年纪录片",
       "onboard_time": 1768115841,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194934,
+      "num": 194934,
+      "word": "国乒丢冠的根本原因",
+      "onboard_time": 1768220900,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 194752,
@@ -2291,14 +2323,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 179538,
-      "num": 179538,
-      "word": "张雨绮 我的身材很曼妙",
-      "onboard_time": 1768222461,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 178595,
       "num": 150000,
       "word": "小腿出现这个变化建议查查血糖",
@@ -2385,14 +2409,6 @@
       "onboard_time": 1768112182,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 170724,
-      "num": 134673,
-      "word": "十日终焉开机时间",
-      "onboard_time": 1768222461,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 170455,
@@ -2488,14 +2504,6 @@
       "word": "十位新面孔进入国乒教练组",
       "onboard_time": 1768211061,
       "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 165865,
-      "num": 165865,
-      "word": "国乒丢冠的根本原因",
-      "onboard_time": 1768220900,
-      "rank": 22,
       "category": "体育"
     },
     {
@@ -2955,6 +2963,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 143174,
+      "num": 143174,
+      "word": "2026年起这些化妆品不能卖",
+      "onboard_time": 1768222162,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142704,
       "num": 142704,
       "word": "谁懂恶女身后是更小的恶女",
@@ -2969,6 +2985,14 @@
       "onboard_time": 1768127660,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142020,
+      "num": 142020,
+      "word": "A股为何这么猛",
+      "onboard_time": 1768218500,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 141893,
@@ -3059,14 +3083,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 138960,
-      "num": 138960,
-      "word": "A股为何这么猛",
-      "onboard_time": 1768218500,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 138451,
       "num": 130961,
       "word": "刘昊然这人夫感",
@@ -3147,6 +3163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135457,
+      "num": 135457,
+      "word": "娇兰上海活动明星",
+      "onboard_time": 1768222402,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135304,
       "num": 128281,
       "word": "李现一如既往的稳定输出",
@@ -3225,14 +3249,6 @@
       "onboard_time": 1768206501,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133262,
-      "num": 133262,
-      "word": "娇兰上海活动明星",
-      "onboard_time": 1768222402,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 132904,
@@ -3425,6 +3441,14 @@
       "onboard_time": 1768139603,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125756,
+      "num": 132620,
+      "word": "47岁女子上班期间冲泡奶茶被辞退",
+      "onboard_time": 1768221801,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125303,
@@ -3867,6 +3891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113203,
+      "num": 113203,
+      "word": "大学生口中的吃顿好的",
+      "onboard_time": 1768223483,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112898,
       "num": 112898,
       "word": "女子网上求助按年猪结果来了几百人",
@@ -3921,14 +3953,6 @@
       "onboard_time": 1768130480,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110587,
-      "num": 134763,
-      "word": "2026年起这些化妆品不能卖",
-      "onboard_time": 1768222162,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110435,
@@ -4033,14 +4057,6 @@
       "onboard_time": 1768199059,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 108318,
-      "num": 132620,
-      "word": "47岁女子上班期间冲泡奶茶被辞退",
-      "onboard_time": 1768221801,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107941,
@@ -4355,6 +4371,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 101073,
+      "num": 101073,
+      "word": "老乡圈成了官商勾结畸形圈",
+      "onboard_time": 1768223244,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101060,
       "num": 169691,
       "word": "刘宇宁你们装什么小朋友啊",
@@ -4539,6 +4563,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 97681,
+      "num": 97681,
+      "word": "肖战维权案二审新进展",
+      "onboard_time": 1768223303,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97601,
       "num": 99540,
       "word": "上班后最容易丢的是心气",
@@ -4713,6 +4745,14 @@
       "onboard_time": 1768209740,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 93399,
+      "num": 93399,
+      "word": "轧戏 猫的树",
+      "onboard_time": 1768223181,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 93382,
@@ -5307,6 +5347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 80148,
+      "num": 93790,
+      "word": "9岁的我在爸妈婚礼上当了一次司仪",
+      "onboard_time": 1768223661,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 80090,
       "num": 80090,
       "word": "张云龙云初令路透",
@@ -5369,6 +5417,14 @@
       "onboard_time": 1768119980,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 79393,
+      "num": 89222,
+      "word": "全新未拆封iPhone4炒到万元",
+      "onboard_time": 1768223123,
+      "rank": 49,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 79174,
@@ -5931,6 +5987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 63104,
+      "num": 118490,
+      "word": "当年这支舞惊艳了内娱十几年",
+      "onboard_time": 1768222883,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 62939,
       "num": 171919,
       "word": "刘宇宁 你们文明点啊",
@@ -6289,14 +6353,6 @@
       "onboard_time": 1768125741,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 45800,
-      "num": 118490,
-      "word": "当年这支舞惊艳了内娱十几年",
-      "onboard_time": 1768222883,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 45764,
@@ -6891,6 +6947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22424,
+      "num": 759597,
+      "word": "我国冰雪游成为世界游客的选择",
+      "onboard_time": 1768207100,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21948,
       "num": 485978,
       "word": "中国大港动能澎湃",
@@ -7057,14 +7121,6 @@
       "onboard_time": 1768111701,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 13263,
-      "num": 685471,
-      "word": "我国冰雪游成为世界游客的选择",
-      "onboard_time": 1768207100,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13097,
