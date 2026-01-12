@@ -1,0 +1,410 @@
+{
+  "runTime": 1768208280996,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 317417,
+        "num": 1050786,
+        "word": "歼10CE击落多架战机自身无损伤",
+        "onboard_time": 1768202242,
+        "rank": 0,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 269135,
+        "num": 777612,
+        "word": "河南省考报名延期2天",
+        "onboard_time": 1768205779,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 18084,
+        "num": 610286,
+        "word": "青年回村让家乡变得很酷",
+        "onboard_time": 1768207820,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276506,
+        "num": 276506,
+        "word": "陈妍希周柯宇狙击蝴蝶的售后",
+        "onboard_time": 1768206141,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213211,
+        "num": 260518,
+        "word": "初中生网购疑似侵华日军信件",
+        "onboard_time": 1768188141,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475339,
+        "num": 260119,
+        "word": "金帝巧克力 擦边营销",
+        "onboard_time": 1768203561,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259526,
+        "num": 259526,
+        "word": "孙颖莎王曼昱打破女队发展模式",
+        "onboard_time": 1768200200,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245382,
+        "num": 245382,
+        "word": "100%食用率水果",
+        "onboard_time": 1768198041,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242665,
+        "num": 242665,
+        "word": "张碧晨骄阳似我大结局发文",
+        "onboard_time": 1768202721,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213786,
+        "num": 213786,
+        "word": "iPhone4回收价涨了60倍",
+        "onboard_time": 1768207640,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 720184,
+        "num": 209890,
+        "word": "死了么APP付费人数几天翻200倍",
+        "onboard_time": 1768202360,
+        "rank": 10,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 524924,
+        "num": 206555,
+        "word": "杨迪吐槽papi恶意录制",
+        "onboard_time": 1768201761,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409389,
+        "num": 203592,
+        "word": "比单休更恶心的是月休4天",
+        "onboard_time": 1768204760,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200496,
+        "num": 200496,
+        "word": "国乒洛奥教练班子揭晓",
+        "onboard_time": 1768207881,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357554,
+        "num": 199834,
+        "word": "陈妍希周柯宇红秀",
+        "onboard_time": 1768202601,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 322262,
+        "num": 198792,
+        "word": "我是谢娜 你现在必须去上学",
+        "onboard_time": 1768195881,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197472,
+        "num": 197472,
+        "word": "韩国空难黑匣子录音首次公开",
+        "onboard_time": 1768207340,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 180420,
+        "num": 180420,
+        "word": "得知三孩又是儿子爸爸笑容当场凝固",
+        "onboard_time": 1768198220,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153175,
+        "num": 180322,
+        "word": "超7成三甲医生推荐AI医生",
+        "onboard_time": 1768205962,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 85892,
+        "num": 178265,
+        "word": "刘宇宁给粉丝使眼色",
+        "onboard_time": 1768207940,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 254192,
+        "num": 177184,
+        "word": "女儿被杀患癌母亲停止化疗",
+        "onboard_time": 1768204460,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217539,
+        "num": 175077,
+        "word": "张子枫赵又廷新剧吻戏",
+        "onboard_time": 1768198580,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198780,
+        "num": 173719,
+        "word": "张真源突袭直播",
+        "onboard_time": 1768206920,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172381,
+        "num": 172381,
+        "word": "女子患病2年后像裘千尺被离婚",
+        "onboard_time": 1768201879,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110819,
+        "num": 166049,
+        "word": "外交部回应特朗普委石油言论",
+        "onboard_time": 1768206920,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165861,
+        "num": 165861,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1768207582,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162964,
+        "num": 162964,
+        "word": "小澈曾给迅猛龙道歉",
+        "onboard_time": 1768206079,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 150623,
+        "num": 150623,
+        "word": "什么零食的出现就意味着快过年了",
+        "onboard_time": 1768208000,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160671,
+        "num": 149589,
+        "word": "娇兰活动",
+        "onboard_time": 1768198819,
+        "rank": 28,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 140880,
+        "num": 140880,
+        "word": "金帝巧克力道歉",
+        "onboard_time": 1768207582,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158996,
+        "num": 140837,
+        "word": "少女歌剧新作动画",
+        "onboard_time": 1768208061,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 140534,
+        "num": 140534,
+        "word": "A股实现17连阳",
+        "onboard_time": 1768203442,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139747,
+        "num": 139747,
+        "word": "王皓连任国乒男队主教练",
+        "onboard_time": 1768208061,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135195,
+        "num": 135195,
+        "word": "代旭帅成啥样了",
+        "onboard_time": 1768207700,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133317,
+        "num": 133317,
+        "word": "周杰伦以球员身份参加澳网",
+        "onboard_time": 1768205600,
+        "rank": 34,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 132968,
+        "num": 132968,
+        "word": "秦志戬担任国乒总教练",
+        "onboard_time": 1768208120,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127494,
+        "num": 127494,
+        "word": "马琳连任国乒女队主教练",
+        "onboard_time": 1768208061,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130263,
+        "num": 127031,
+        "word": "小时候以为长这样的才叫排骨",
+        "onboard_time": 1768205600,
+        "rank": 37,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 125742,
+        "num": 125742,
+        "word": "河南省考 进不去",
+        "onboard_time": 1768190241,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 19873,
+        "num": 116592,
+        "word": "章若楠金靖你俩有点暧昧了",
+        "onboard_time": 1768207940,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125792,
+        "num": 113331,
+        "word": "微信通知显示头像",
+        "onboard_time": 1768208120,
+        "rank": 40,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 107846,
+        "num": 107846,
+        "word": "云合",
+        "onboard_time": 1768206501,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105810,
+        "num": 105810,
+        "word": "短剧版慕容云海",
+        "onboard_time": 1768203020,
+        "rank": 42,
+        "category": "综艺,剧集"
+      },
+      {
+        "raw_hot": 105306,
+        "num": 105306,
+        "word": "新娘冻到发抖公公立刻脱衣披上",
+        "onboard_time": 1768202420,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27823,
+        "num": 103605,
+        "word": "向50位勇士致敬",
+        "onboard_time": 1768207520,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102839,
+        "num": 102839,
+        "word": "洪金宝和三个儿子第一次合作",
+        "onboard_time": 1768203681,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97562,
+        "num": 97562,
+        "word": "平时不买过年会买的东西",
+        "onboard_time": 1768204101,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96693,
+        "num": 96693,
+        "word": "这居然是陈梦",
+        "onboard_time": 1768188260,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93737,
+        "num": 93737,
+        "word": "苏新皓薄荷绿返场",
+        "onboard_time": 1768206200,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88973,
+        "num": 88973,
+        "word": "无手女孩再回应演示换卫生巾",
+        "onboard_time": 1768202841,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记高度重视党风廉政建设#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768207368649,
+  "endTime": 1768208280996,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 777134,
-      "num": 202540,
+      "num": 209890,
       "word": "死了么APP付费人数几天翻200倍",
       "onboard_time": 1768202360,
       "rank": 25,
@@ -443,8 +443,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 524924,
+      "num": 206555,
+      "word": "杨迪吐槽papi恶意录制",
+      "onboard_time": 1768201761,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 520800,
-      "num": 221838,
+      "num": 260119,
       "word": "金帝巧克力 擦边营销",
       "onboard_time": 1768203561,
       "rank": 18,
@@ -579,14 +587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 453015,
-      "num": 202358,
-      "word": "杨迪吐槽papi恶意录制",
-      "onboard_time": 1768201761,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 451713,
       "num": 399299,
       "word": "陈妍希周柯宇红秀",
@@ -705,6 +705,14 @@
       "onboard_time": 1768043901,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 409389,
+      "num": 203592,
+      "word": "比单休更恶心的是月休4天",
+      "onboard_time": 1768204760,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 408004,
@@ -932,7 +940,7 @@
     },
     {
       "raw_hot": 340041,
-      "num": 781456,
+      "num": 1050786,
       "word": "歼10CE击落多架战机自身无损伤",
       "onboard_time": 1768202242,
       "rank": 18,
@@ -1075,14 +1083,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 299355,
-      "num": 199602,
-      "word": "比单休更恶心的是月休4天",
-      "onboard_time": 1768204760,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 297455,
       "num": 297455,
       "word": "死了么APP 独居人群",
@@ -1161,6 +1161,14 @@
       "onboard_time": 1768135341,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 276506,
+      "num": 276506,
+      "word": "陈妍希周柯宇狙击蝴蝶的售后",
+      "onboard_time": 1768206141,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 276178,
@@ -1275,6 +1283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 254192,
+      "num": 180660,
+      "word": "女儿被杀患癌母亲停止化疗",
+      "onboard_time": 1768204460,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 250416,
       "num": 175279,
       "word": "女子每天化精致眼妆睫毛藏6条螨虫",
@@ -1307,20 +1323,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 242665,
+      "num": 242665,
+      "word": "张碧晨骄阳似我大结局发文",
+      "onboard_time": 1768202721,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238942,
       "num": 238942,
       "word": "15年前的iPhone4S开箱",
       "onboard_time": 1768100660,
       "rank": 7,
       "category": "数码"
-    },
-    {
-      "raw_hot": 238677,
-      "num": 180660,
-      "word": "女儿被杀患癌母亲停止化疗",
-      "onboard_time": 1768204460,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 238534,
@@ -1401,14 +1417,6 @@
       "onboard_time": 1768127179,
       "rank": 46,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 224124,
-      "num": 224124,
-      "word": "张碧晨骄阳似我大结局发文",
-      "onboard_time": 1768202721,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 223783,
@@ -1515,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213786,
+      "num": 213786,
+      "word": "iPhone4回收价涨了60倍",
+      "onboard_time": 1768207640,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 213309,
       "num": 213309,
       "word": "林昀儒男单冠军",
@@ -1579,14 +1595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206579,
-      "num": 206579,
-      "word": "陈妍希周柯宇狙击蝴蝶的售后",
-      "onboard_time": 1768206141,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 206543,
       "num": 206543,
       "word": "檀健次 孟子义送我菠萝这何意味",
@@ -1611,6 +1619,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 200496,
+      "num": 200496,
+      "word": "国乒洛奥教练班子揭晓",
+      "onboard_time": 1768207881,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199813,
       "num": 194092,
       "word": "黄晓明演技",
@@ -1627,12 +1643,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198780,
+      "num": 182217,
+      "word": "张真源突袭直播",
+      "onboard_time": 1768206920,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198165,
       "num": 198165,
       "word": "苏新皓薄荷绿返场",
       "onboard_time": 1768206200,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197472,
+      "num": 197472,
+      "word": "韩国空难黑匣子录音首次公开",
+      "onboard_time": 1768207340,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 196883,
@@ -1865,14 +1897,6 @@
       "onboard_time": 1768135582,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 182217,
-      "num": 182217,
-      "word": "张真源突袭直播",
-      "onboard_time": 1768206920,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 181964,
@@ -2115,6 +2139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165861,
+      "num": 165861,
+      "word": "狙击蝴蝶",
+      "onboard_time": 1768207582,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165601,
       "num": 165601,
       "word": "2026KPL春季赛",
@@ -2267,6 +2299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158996,
+      "num": 140837,
+      "word": "少女歌剧新作动画",
+      "onboard_time": 1768208061,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 158939,
       "num": 103876,
       "word": "委内瑞拉街头现状",
@@ -2395,6 +2435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150623,
+      "num": 150623,
+      "word": "什么零食的出现就意味着快过年了",
+      "onboard_time": 1768208000,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150563,
       "num": 150563,
       "word": "小城大事 经济上行的感觉",
@@ -2499,6 +2547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140880,
+      "num": 140880,
+      "word": "金帝巧克力道歉",
+      "onboard_time": 1768207582,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140878,
       "num": 140878,
       "word": "轧戏微博追剧团",
@@ -2537,6 +2593,14 @@
       "onboard_time": 1768096700,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 139747,
+      "num": 139747,
+      "word": "王皓连任国乒男队主教练",
+      "onboard_time": 1768208061,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 138451,
@@ -2611,6 +2675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135195,
+      "num": 135195,
+      "word": "代旭帅成啥样了",
+      "onboard_time": 1768207700,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135191,
       "num": 135191,
       "word": "这个奖到底还有没有外人了",
@@ -2665,6 +2737,14 @@
       "onboard_time": 1768206501,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132968,
+      "num": 132968,
+      "word": "秦志戬担任国乒总教练",
+      "onboard_time": 1768208120,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 132904,
@@ -2779,6 +2859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127494,
+      "num": 127494,
+      "word": "马琳连任国乒女队主教练",
+      "onboard_time": 1768208061,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126874,
       "num": 126874,
       "word": "赵又廷演技",
@@ -2817,6 +2905,14 @@
       "onboard_time": 1768139603,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125792,
+      "num": 113331,
+      "word": "微信通知显示头像",
+      "onboard_time": 1768208120,
+      "rank": 40,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 125303,
@@ -3209,6 +3305,14 @@
       "onboard_time": 1768109361,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 110819,
+      "num": 203075,
+      "word": "外交部回应特朗普委石油言论",
+      "onboard_time": 1768206920,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 110607,
@@ -3883,14 +3987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93419,
-      "num": 93419,
-      "word": "韩国空难黑匣子录音首次公开",
-      "onboard_time": 1768207340,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 93382,
       "num": 93382,
       "word": "iPhone锁屏被玩明白了",
@@ -4193,6 +4289,14 @@
       "onboard_time": 1768112601,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85892,
+      "num": 178265,
+      "word": "刘宇宁给粉丝使眼色",
+      "onboard_time": 1768207940,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 85803,
@@ -4963,14 +5067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 64729,
-      "num": 203075,
-      "word": "外交部回应特朗普委石油言论",
-      "onboard_time": 1768206920,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 64366,
       "num": 95846,
       "word": "苹果炖鸡",
@@ -5739,6 +5835,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27823,
+      "num": 103605,
+      "word": "向50位勇士致敬",
+      "onboard_time": 1768207520,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27563,
       "num": 169305,
       "word": "特朗普称对美联储主席被查一无所知",
@@ -5971,12 +6075,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19873,
+      "num": 116592,
+      "word": "章若楠金靖你俩有点暧昧了",
+      "onboard_time": 1768207940,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 18295,
       "num": 59232,
       "word": "高超callback老麦克",
       "onboard_time": 1768150458,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18084,
+      "num": 610286,
+      "word": "青年回村让家乡变得很酷",
+      "onboard_time": 1768207820,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17134,
