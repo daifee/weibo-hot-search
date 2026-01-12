@@ -1,0 +1,410 @@
+{
+  "runTime": 1768226379714,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 418029,
+        "num": 1066884,
+        "word": "十日终焉",
+        "onboard_time": 1768223483,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 305802,
+        "num": 783952,
+        "word": "韩国空难失事前75秒黑匣子录音",
+        "onboard_time": 1768209262,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 8201,
+        "num": 634481,
+        "word": "加快培育服务消费新增长点",
+        "onboard_time": 1768226183,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 838369,
+        "num": 516922,
+        "word": "肖战 十日终焉",
+        "onboard_time": 1768220300,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198672,
+        "num": 405626,
+        "word": "水泥麻辣烫",
+        "onboard_time": 1768213942,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 370058,
+        "num": 370058,
+        "word": "微信通知显示头像",
+        "onboard_time": 1768208120,
+        "rank": 5,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 256482,
+        "num": 369586,
+        "word": "十日终焉开机时间",
+        "onboard_time": 1768222461,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175733,
+        "num": 359280,
+        "word": "爱喝奶茶的人天塌了",
+        "onboard_time": 1768210043,
+        "rank": 7,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 157408,
+        "num": 357011,
+        "word": "2026年起这些化妆品不能卖",
+        "onboard_time": 1768222162,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150913,
+        "num": 351575,
+        "word": "47岁女子上班期间冲泡奶茶被辞退",
+        "onboard_time": 1768221801,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1341931,
+        "num": 344547,
+        "word": "携程误发全员离职信息",
+        "onboard_time": 1768220540,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 892223,
+        "num": 335099,
+        "word": "宋威龙赵今麦完全是婚礼现场",
+        "onboard_time": 1768221381,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 678766,
+        "num": 327836,
+        "word": "网红口子姐去世",
+        "onboard_time": 1768215022,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 492983,
+        "num": 322234,
+        "word": "北京退休人员产检也可报销",
+        "onboard_time": 1768220840,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 605384,
+        "num": 320549,
+        "word": "娇兰你好事做尽",
+        "onboard_time": 1768224081,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376534,
+        "num": 312036,
+        "word": "家属称痔疮手术致34岁医生离世",
+        "onboard_time": 1768219221,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309036,
+        "num": 309036,
+        "word": "龙麦",
+        "onboard_time": 1768220662,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208331,
+        "num": 208331,
+        "word": "赵今麦这个背",
+        "onboard_time": 1768210760,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11598,
+        "num": 208225,
+        "word": "尔滨的风吹到东南亚了",
+        "onboard_time": 1768201641,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29860,
+        "num": 207650,
+        "word": "贪官到哪就把行贿商人带到哪",
+        "onboard_time": 1768225702,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 579591,
+        "num": 207203,
+        "word": "张雨绮 我的身材很曼妙",
+        "onboard_time": 1768222461,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422227,
+        "num": 206561,
+        "word": "呆呆1分钟视频报价2400元",
+        "onboard_time": 1768218621,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344293,
+        "num": 206159,
+        "word": "国乒丢冠的根本原因",
+        "onboard_time": 1768220900,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234671,
+        "num": 205266,
+        "word": "杀猪来了上千网友做清洁只剩妈妈一人",
+        "onboard_time": 1768210642,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205126,
+        "num": 205126,
+        "word": "苏新皓直播",
+        "onboard_time": 1768215921,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184428,
+        "num": 184428,
+        "word": "iPhone4回收价涨了60倍",
+        "onboard_time": 1768207640,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 176775,
+        "num": 176775,
+        "word": "妻子花光97万打赏主播承诺不看后抑郁",
+        "onboard_time": 1768224501,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155036,
+        "num": 155036,
+        "word": "章若楠胸前好大一朵花",
+        "onboard_time": 1768216282,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122017,
+        "num": 151837,
+        "word": "张继科回应质疑身正不怕影子斜",
+        "onboard_time": 1768225043,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118036,
+        "num": 151278,
+        "word": "A股为何这么猛",
+        "onboard_time": 1768218500,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 173684,
+        "num": 151055,
+        "word": "苏新皓要和穆祉丞一起考驾照",
+        "onboard_time": 1768226122,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150784,
+        "num": 150784,
+        "word": "商场男厕洗手台酷似小便池险误用",
+        "onboard_time": 1768224142,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150557,
+        "num": 150557,
+        "word": "轧戏 猫的树",
+        "onboard_time": 1768223181,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131044,
+        "num": 131044,
+        "word": "轧戏",
+        "onboard_time": 1768216883,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116522,
+        "num": 129168,
+        "word": "父亲见到遇害女儿遗体哭都哭不出来",
+        "onboard_time": 1768213341,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128298,
+        "num": 128298,
+        "word": "宋威龙 白马王子",
+        "onboard_time": 1768211599,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119095,
+        "num": 119095,
+        "word": "陈梦探班黄晓明探成客串",
+        "onboard_time": 1768224682,
+        "rank": 36,
+        "category": "剧集,体育"
+      },
+      {
+        "raw_hot": 110212,
+        "num": 110212,
+        "word": "A股涨疯了一天创2项记录",
+        "onboard_time": 1768224622,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112694,
+        "num": 107404,
+        "word": "小城大事",
+        "onboard_time": 1768217901,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104300,
+        "num": 104300,
+        "word": "代旭 爱上男二的梦女病又犯了",
+        "onboard_time": 1768225643,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102116,
+        "num": 102116,
+        "word": "肖战担任国乒副总教练",
+        "onboard_time": 1768210580,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101737,
+        "num": 101737,
+        "word": "娇兰上海活动明星",
+        "onboard_time": 1768222402,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99749,
+        "num": 99749,
+        "word": "娇兰现场放龙麦吻戏",
+        "onboard_time": 1768225882,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96132,
+        "num": 96132,
+        "word": "小米17",
+        "onboard_time": 1768216161,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 95366,
+        "num": 95366,
+        "word": "合川文旅否认呆呆杀年猪是联合炒作",
+        "onboard_time": 1768222883,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94616,
+        "num": 94616,
+        "word": "黄晓明无台词演技",
+        "onboard_time": 1768225581,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91635,
+        "num": 91635,
+        "word": "XG改名",
+        "onboard_time": 1768211361,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87737,
+        "num": 87737,
+        "word": "全新未拆封iPhone4炒到万元",
+        "onboard_time": 1768223123,
+        "rank": 47,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 87659,
+        "num": 87659,
+        "word": "本想私聊结果吵架被公放了",
+        "onboard_time": 1768222101,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85011,
+        "num": 85011,
+        "word": "呆呆家杀猪现场已限流",
+        "onboard_time": 1768224560,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记高度重视党风廉政建设#"
+    }
+  }
+}
