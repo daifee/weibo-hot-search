@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768196270175,
+  "endTime": 1768197218795,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -507,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1073090,
+      "num": 585588,
+      "word": "痞幼上恋综进医院",
+      "onboard_time": 1768194860,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1072301,
       "num": 463828,
       "word": "特朗普称美将管理委直至安全过渡",
@@ -625,14 +633,6 @@
       "onboard_time": 1767496704,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 996957,
-      "num": 585588,
-      "word": "痞幼上恋综进医院",
-      "onboard_time": 1768194860,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 987620,
@@ -2451,6 +2451,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 534339,
+      "num": 211919,
+      "word": "我是谢娜 你现在必须去上学",
+      "onboard_time": 1768195881,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 533941,
       "num": 461216,
       "word": "今天的赵丽颖梦回明兰了",
@@ -4043,6 +4051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 415599,
+      "num": 1066495,
+      "word": "威海暴雪",
+      "onboard_time": 1768194381,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 415543,
       "num": 811719,
       "word": "取消光伏等产品增值税出口退税",
@@ -4387,6 +4403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 392414,
+      "num": 1059458,
+      "word": "初中生网购疑似侵华日军信件",
+      "onboard_time": 1768188141,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 392359,
       "num": 392359,
       "word": "用3年赚到了100万",
@@ -4425,14 +4449,6 @@
       "onboard_time": 1767950960,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 387527,
-      "num": 1059458,
-      "word": "初中生网购疑似侵华日军信件",
-      "onboard_time": 1768188141,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 387380,
@@ -7819,14 +7835,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 249741,
-      "num": 745817,
-      "word": "威海暴雪",
-      "onboard_time": 1768194381,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 249594,
       "num": 606638,
       "word": "保时捷文案",
@@ -7865,6 +7873,14 @@
       "onboard_time": 1767794004,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249156,
+      "num": 249156,
+      "word": "河南省考 进不去",
+      "onboard_time": 1768190241,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 248862,
@@ -8537,14 +8553,6 @@
       "onboard_time": 1767615200,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 226692,
-      "num": 226692,
-      "word": "河南省考 进不去",
-      "onboard_time": 1768190241,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 226652,
@@ -9729,6 +9737,14 @@
       "onboard_time": 1768037421,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203370,
+      "num": 203370,
+      "word": "死了么APP创始人称没想到这么火",
+      "onboard_time": 1768195761,
+      "rank": 23,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 202986,
@@ -11507,14 +11523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180685,
-      "num": 180685,
-      "word": "我是谢娜 你现在必须去上学",
-      "onboard_time": 1768195881,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 180638,
       "num": 291256,
       "word": "王者六元皮肤天花板",
@@ -12763,6 +12771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 165601,
+      "num": 165601,
+      "word": "2026KPL春季赛",
+      "onboard_time": 1767691702,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165500,
       "num": 165500,
       "word": "马年春晚",
@@ -12817,14 +12833,6 @@
       "onboard_time": 1767795745,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 165094,
-      "num": 165094,
-      "word": "死了么APP创始人称没想到这么火",
-      "onboard_time": 1768195761,
-      "rank": 23,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 165029,
@@ -13265,6 +13273,14 @@
       "onboard_time": 1767973460,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160657,
+      "num": 160657,
+      "word": "卢昱晓线下美成这样了",
+      "onboard_time": 1768196542,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 160651,
@@ -15099,14 +15115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142244,
-      "num": 142244,
-      "word": "2026KPL春季赛",
-      "onboard_time": 1767691702,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 142207,
       "num": 1027631,
       "word": "原来这样玩手机才毁眼",
@@ -15649,6 +15657,14 @@
       "onboard_time": 1768031780,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138451,
+      "num": 130961,
+      "word": "刘昊然这人夫感",
+      "onboard_time": 1768196542,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 138391,
@@ -17755,6 +17771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 124319,
+      "num": 124319,
+      "word": "横店群演12天挣了1721元",
+      "onboard_time": 1768194140,
+      "rank": 33,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 124311,
       "num": 113358,
       "word": "45岁离婚后她去冰岛当了公务员",
@@ -18427,6 +18451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 120865,
+      "num": 120865,
+      "word": "林允 古装仪态",
+      "onboard_time": 1768196241,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120863,
       "num": 120863,
       "word": "保剑锋26年在央视要拿全勤奖",
@@ -18785,14 +18817,6 @@
       "onboard_time": 1768130781,
       "rank": 18,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 118767,
-      "num": 118767,
-      "word": "横店群演12天挣了1721元",
-      "onboard_time": 1768194140,
-      "rank": 33,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 118742,
@@ -19675,6 +19699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113857,
+      "num": 113857,
+      "word": "官方回应女子喊网友杀猪来了上千人",
+      "onboard_time": 1768195999,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113843,
       "num": 232942,
       "word": "郭靖宇导演没认出做完妆造的蓝盈莹",
@@ -19961,6 +19993,14 @@
       "onboard_time": 1767870200,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112570,
+      "num": 157337,
+      "word": "赵丽颖演技",
+      "onboard_time": 1768196181,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 112553,
@@ -21883,14 +21923,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 102903,
-      "num": 102903,
-      "word": "官方回应女子喊网友杀猪来了上千人",
-      "onboard_time": 1768195999,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102798,
       "num": 263074,
       "word": "王星越的副驾还缺人吗",
@@ -22897,6 +22929,14 @@
       "onboard_time": 1768130001,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98974,
+      "num": 98974,
+      "word": "鳌太线3人遇难细节披露",
+      "onboard_time": 1768196961,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98941,
@@ -24707,6 +24747,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 92379,
+      "num": 92379,
+      "word": "国王火箭冲突",
+      "onboard_time": 1768196720,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92375,
       "num": 95360,
       "word": "CBA解说员言论引争议",
@@ -26403,14 +26451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86038,
-      "num": 86038,
-      "word": "林允 古装仪态",
-      "onboard_time": 1768196241,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 86035,
       "num": 86035,
       "word": "小乔线条小狗太香了",
@@ -26545,6 +26585,14 @@
       "onboard_time": 1767195266,
       "rank": 27,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 85576,
+      "num": 85576,
+      "word": "卢伟冰辟谣辞职",
+      "onboard_time": 1768193601,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 85560,
@@ -27833,6 +27881,14 @@
       "onboard_time": 1768056142,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 79924,
+      "num": 79924,
+      "word": "韩服AI疑似Bro替补中单Roamer",
+      "onboard_time": 1768197080,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 79884,
@@ -29528,14 +29584,6 @@
       "word": "林屿森被盛家当众欺负",
       "onboard_time": 1767309556,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 71300,
-      "num": 114769,
-      "word": "赵丽颖演技",
-      "onboard_time": 1768196181,
-      "rank": 38,
       "category": "剧集"
     },
     {
@@ -33187,6 +33235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45764,
+      "num": 99141,
+      "word": "印度杀人象昼伏夜出致21人死亡",
+      "onboard_time": 1768197140,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 45706,
       "num": 919474,
       "word": "冰雪产业跻身万亿赛道",
@@ -35435,6 +35491,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 28784,
+      "num": 99842,
+      "word": "保安与业主起冲突后咬断对方手指",
+      "onboard_time": 1768196600,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28734,
       "num": 101283,
       "word": "在百年未有变局中推进祖国统一大业",
@@ -37225,6 +37289,14 @@
       "onboard_time": 1768050324,
       "rank": 29,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 9066,
+      "num": 96332,
+      "word": "古德之死引爆全美上千场抗议",
+      "onboard_time": 1768197140,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 8847,

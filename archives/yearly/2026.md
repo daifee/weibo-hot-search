@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/12 13:37:50
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/12 13:53:38
 </p>
 </blockquote>
 <p>
@@ -393,6 +393,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%97%9E%E5%B9%BC%E4%B8%8A%E6%81%8B%E7%BB%BC%E8%BF%9B%E5%8C%BB%E9%99%A2%23" target="weibo">
+痞幼上恋综进医院（热度：1073090）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%B0%86%E7%AE%A1%E7%90%86%E5%A7%94%E7%9B%B4%E8%87%B3%E5%AE%89%E5%85%A8%E8%BF%87%E6%B8%A1%23" target="weibo">
 特朗普称美将管理委直至安全过渡（热度：1072301）
 </a>
@@ -479,12 +485,6 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%A7%E6%88%8F%23" target="weibo">
 轧戏（热度：999982）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%97%9E%E5%B9%BC%E4%B8%8A%E6%81%8B%E7%BB%BC%E8%BF%9B%E5%8C%BB%E9%99%A2%23" target="weibo">
-痞幼上恋综进医院（热度：996957）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1768197218795,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 415599,
+        "num": 1066495,
+        "word": "威海暴雪",
+        "onboard_time": 1768194381,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392414,
+        "num": 788386,
+        "word": "初中生网购疑似侵华日军信件",
+        "onboard_time": 1768188141,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8975,
+        "num": 612068,
+        "word": "中国农民种地科技感拉满",
+        "onboard_time": 1768138883,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1073090,
+        "num": 493607,
+        "word": "痞幼上恋综进医院",
+        "onboard_time": 1768194860,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249156,
+        "num": 249156,
+        "word": "河南省考 进不去",
+        "onboard_time": 1768190241,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 426753,
+        "num": 241658,
+        "word": "这居然是陈梦",
+        "onboard_time": 1768188260,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398883,
+        "num": 240670,
+        "word": "日本第一代不婚族开始后悔了",
+        "onboard_time": 1768190660,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 230610,
+        "num": 230610,
+        "word": "用户与AI聊黄开发者获刑",
+        "onboard_time": 1768190541,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223357,
+        "num": 223357,
+        "word": "社保工作人员骗养老金多少蛀虫待清理",
+        "onboard_time": 1768192101,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213988,
+        "num": 213988,
+        "word": "美人余有易梦玲",
+        "onboard_time": 1768194262,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 534339,
+        "num": 211919,
+        "word": "我是谢娜 你现在必须去上学",
+        "onboard_time": 1768195881,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203370,
+        "num": 203370,
+        "word": "死了么APP创始人称没想到这么火",
+        "onboard_time": 1768195761,
+        "rank": 11,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 307105,
+        "num": 203334,
+        "word": "单依纯官宣香奈儿",
+        "onboard_time": 1768184659,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272350,
+        "num": 203197,
+        "word": "QQ音乐超级会员代言人",
+        "onboard_time": 1768190060,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203057,
+        "num": 203057,
+        "word": "全红婵留长发了",
+        "onboard_time": 1768184358,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174917,
+        "num": 174917,
+        "word": "2026年第一个闯大祸的人出现了",
+        "onboard_time": 1768189880,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169388,
+        "num": 169388,
+        "word": "女子网购一箱粑粑柑开出百种丑法",
+        "onboard_time": 1768187480,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165601,
+        "num": 165601,
+        "word": "2026KPL春季赛",
+        "onboard_time": 1768197020,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160657,
+        "num": 160657,
+        "word": "卢昱晓线下美成这样了",
+        "onboard_time": 1768196542,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112570,
+        "num": 157337,
+        "word": "赵丽颖演技",
+        "onboard_time": 1768196181,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157076,
+        "num": 157076,
+        "word": "A股",
+        "onboard_time": 1768185680,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155967,
+        "num": 155967,
+        "word": "虞书欣碎镜海报",
+        "onboard_time": 1768192882,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143667,
+        "num": 143667,
+        "word": "于正3个月瘦了30斤减肥心得",
+        "onboard_time": 1768190361,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131009,
+        "num": 131009,
+        "word": "最佳睡眠到底是几个小时",
+        "onboard_time": 1768190060,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138451,
+        "num": 130961,
+        "word": "刘昊然这人夫感",
+        "onboard_time": 1768196542,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128309,
+        "num": 128309,
+        "word": "檀健次 孟子义送我菠萝这何意味",
+        "onboard_time": 1768191863,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124319,
+        "num": 124319,
+        "word": "横店群演12天挣了1721元",
+        "onboard_time": 1768194140,
+        "rank": 26,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 124304,
+        "num": 124304,
+        "word": "娘家坐月子因开灯被嫂子吐槽",
+        "onboard_time": 1768181059,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120865,
+        "num": 120865,
+        "word": "林允 古装仪态",
+        "onboard_time": 1768196241,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111734,
+        "num": 118476,
+        "word": "央视播出养老金贪污案细节",
+        "onboard_time": 1768188441,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118229,
+        "num": 118229,
+        "word": "戚薇发量",
+        "onboard_time": 1768194980,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116290,
+        "num": 116290,
+        "word": "河南省考报名",
+        "onboard_time": 1768189461,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115822,
+        "num": 115822,
+        "word": "甜茶金球奖影帝",
+        "onboard_time": 1768186639,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113857,
+        "num": 113857,
+        "word": "官方回应女子喊网友杀猪来了上千人",
+        "onboard_time": 1768195999,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105788,
+        "num": 105788,
+        "word": "宋威龙 苦了自己也不能苦别人",
+        "onboard_time": 1768191561,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104976,
+        "num": 104976,
+        "word": "深圳市民投诉网格员深夜入户检查",
+        "onboard_time": 1768195220,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103015,
+        "num": 103015,
+        "word": "俄罗斯回应绑架普京言论",
+        "onboard_time": 1768192101,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 64977,
+        "num": 101588,
+        "word": "陈梦小城大事拿菜刀打球",
+        "onboard_time": 1768196181,
+        "rank": 37,
+        "category": "剧集,体育"
+      },
+      {
+        "raw_hot": 100410,
+        "num": 100410,
+        "word": "装着装着就变成真的了",
+        "onboard_time": 1768194801,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28784,
+        "num": 99842,
+        "word": "保安与业主起冲突后咬断对方手指",
+        "onboard_time": 1768196600,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99509,
+        "num": 99509,
+        "word": "低温烫伤后不要冰敷",
+        "onboard_time": 1768195820,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 45764,
+        "num": 99141,
+        "word": "印度杀人象昼伏夜出致21人死亡",
+        "onboard_time": 1768197140,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98974,
+        "num": 98974,
+        "word": "鳌太线3人遇难细节披露",
+        "onboard_time": 1768196961,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96506,
+        "num": 96506,
+        "word": "轧戏",
+        "onboard_time": 1768176860,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9066,
+        "num": 96332,
+        "word": "古德之死引爆全美上千场抗议",
+        "onboard_time": 1768197140,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 96191,
+        "num": 96191,
+        "word": "轧戏微博追剧团",
+        "onboard_time": 1768194680,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92379,
+        "num": 92379,
+        "word": "国王火箭冲突",
+        "onboard_time": 1768196720,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85576,
+        "num": 85576,
+        "word": "卢伟冰辟谣辞职",
+        "onboard_time": 1768193601,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 85180,
+        "num": 85180,
+        "word": "香奈儿官宣单依纯",
+        "onboard_time": 1768186999,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79924,
+        "num": 79924,
+        "word": "韩服AI疑似Bro替补中单Roamer",
+        "onboard_time": 1768197080,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#反腐大片一步不停歇半步不退让#"
+    }
+  }
+}
