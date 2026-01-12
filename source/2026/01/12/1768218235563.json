@@ -1,0 +1,410 @@
+{
+  "runTime": 1768218235563,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 451432,
+        "num": 1072229,
+        "word": "韩国空难失事前75秒黑匣子录音",
+        "onboard_time": 1768209262,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 248411,
+        "num": 752293,
+        "word": "小米17",
+        "onboard_time": 1768216161,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 3698,
+        "num": 594992,
+        "word": "青年回村让家乡变得很酷",
+        "onboard_time": 1768207820,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248219,
+        "num": 549396,
+        "word": "当地文旅回应呆呆杀猪后续安排",
+        "onboard_time": 1768211781,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173695,
+        "num": 546421,
+        "word": "秦志戬担任国乒总教练",
+        "onboard_time": 1768208120,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 543591,
+        "num": 543591,
+        "word": "微信通知显示头像",
+        "onboard_time": 1768208120,
+        "rank": 5,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 433867,
+        "num": 433867,
+        "word": "水泥麻辣烫",
+        "onboard_time": 1768213942,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 330400,
+        "num": 330400,
+        "word": "樊振东带给王皓最好成绩",
+        "onboard_time": 1768214301,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276858,
+        "num": 276858,
+        "word": "爱喝奶茶的人天塌了",
+        "onboard_time": 1768210043,
+        "rank": 8,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 206469,
+        "num": 275468,
+        "word": "A股创新高的原因找到了",
+        "onboard_time": 1768213101,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 423183,
+        "num": 273941,
+        "word": "宋威龙赵今麦王子公主",
+        "onboard_time": 1768216461,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354551,
+        "num": 272892,
+        "word": "英国人在中国暴食后喜提急诊",
+        "onboard_time": 1768212081,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 292443,
+        "num": 270122,
+        "word": "陈梦回应出演小城大事",
+        "onboard_time": 1768215981,
+        "rank": 12,
+        "category": "剧集,体育"
+      },
+      {
+        "raw_hot": 290105,
+        "num": 269066,
+        "word": "肖战担任国乒副总教练",
+        "onboard_time": 1768210580,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267273,
+        "num": 267273,
+        "word": "轧戏",
+        "onboard_time": 1768216883,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239122,
+        "num": 239122,
+        "word": "iPhone4回收价涨了60倍",
+        "onboard_time": 1768207640,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 204018,
+        "num": 204018,
+        "word": "御赐小仵作",
+        "onboard_time": 1768212921,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175694,
+        "num": 175694,
+        "word": "小城大事",
+        "onboard_time": 1768217901,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138097,
+        "num": 138097,
+        "word": "鹅鸭杀还原梦泪名场面",
+        "onboard_time": 1768217783,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 74023,
+        "num": 137360,
+        "word": "游客拍到两只小猫在华山顶上对决",
+        "onboard_time": 1768217720,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1513071,
+        "num": 137344,
+        "word": "网红口子姐去世",
+        "onboard_time": 1768215022,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 670409,
+        "num": 136175,
+        "word": "杀猪来了上千网友做清洁只剩妈妈一人",
+        "onboard_time": 1768210642,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 510020,
+        "num": 135817,
+        "word": "赵今麦这个背",
+        "onboard_time": 1768210760,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341523,
+        "num": 134926,
+        "word": "章若楠胸前好大一朵花",
+        "onboard_time": 1768216282,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160614,
+        "num": 134221,
+        "word": "父亲见到遇害女儿遗体哭都哭不出来",
+        "onboard_time": 1768213341,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296458,
+        "num": 133480,
+        "word": "王俊凯和伴舞 两个绝望的直男",
+        "onboard_time": 1768212441,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165519,
+        "num": 132483,
+        "word": "向佐终于上对了节目",
+        "onboard_time": 1768217541,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132191,
+        "num": 132191,
+        "word": "孙颖莎前主管教练回归",
+        "onboard_time": 1768213281,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231971,
+        "num": 132187,
+        "word": "苏新皓直播",
+        "onboard_time": 1768215921,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226549,
+        "num": 130925,
+        "word": "宋威龙 白马王子",
+        "onboard_time": 1768211599,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128969,
+        "num": 128969,
+        "word": "比单休更恶心的是月休4天",
+        "onboard_time": 1768204760,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213850,
+        "num": 123410,
+        "word": "XG改名",
+        "onboard_time": 1768211361,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212180,
+        "num": 122481,
+        "word": "娇兰活动",
+        "onboard_time": 1768198819,
+        "rank": 32,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 115846,
+        "num": 115846,
+        "word": "无畏契约但鹅鸭杀",
+        "onboard_time": 1768217783,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131652,
+        "num": 115619,
+        "word": "丁程鑫踢话筒",
+        "onboard_time": 1768212921,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127848,
+        "num": 115529,
+        "word": "苏新皓薄荷绿返场",
+        "onboard_time": 1768206200,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114768,
+        "num": 114768,
+        "word": "孙颖莎王楚钦满屏的奖杯",
+        "onboard_time": 1768215500,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120443,
+        "num": 114677,
+        "word": "微博之夜门票情况",
+        "onboard_time": 1768215441,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20596,
+        "num": 114416,
+        "word": "老乡鸡一门店宠物狗上椅进食",
+        "onboard_time": 1768217241,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40179,
+        "num": 114409,
+        "word": "男子凑热闹去看杀猪结果当上主厨",
+        "onboard_time": 1768217901,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114409,
+        "num": 114408,
+        "word": "宋祖儿亲手送粉丝口红",
+        "onboard_time": 1768216940,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103534,
+        "num": 103534,
+        "word": "杨幂中学时代就是风云人物了",
+        "onboard_time": 1768210521,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102769,
+        "num": 102769,
+        "word": "黄海城会是孙颖莎主管教练吗",
+        "onboard_time": 1768212261,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102231,
+        "num": 102231,
+        "word": "十二星座本周好运tips",
+        "onboard_time": 1768214720,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100104,
+        "num": 100104,
+        "word": "陈妍希周柯宇红秀",
+        "onboard_time": 1768202601,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 101099,
+        "num": 98848,
+        "word": "死了么APP打假",
+        "onboard_time": 1768214421,
+        "rank": 45,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 94711,
+        "num": 94711,
+        "word": "长期碎片化睡眠大脑会加速衰老",
+        "onboard_time": 1768216940,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94657,
+        "num": 94657,
+        "word": "女儿被杀患癌母亲停止化疗",
+        "onboard_time": 1768204460,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93020,
+        "num": 93020,
+        "word": "什么零食的出现就意味着快过年了",
+        "onboard_time": 1768208000,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87692,
+        "num": 87692,
+        "word": "小澈曾给迅猛龙道歉",
+        "onboard_time": 1768206079,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记高度重视党风廉政建设#"
+    }
+  }
+}

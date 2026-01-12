@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768217391608,
+  "endTime": 1768218235563,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -59,20 +59,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1510836,
-      "num": 530113,
-      "word": "微信通知显示头像",
-      "onboard_time": 1768208120,
-      "rank": 40,
-      "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 1500996,
+      "raw_hot": 1513071,
       "num": 146509,
       "word": "网红口子姐去世",
       "onboard_time": 1768215022,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1510836,
+      "num": 543591,
+      "word": "微信通知显示头像",
+      "onboard_time": 1768208120,
+      "rank": 40,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 1271113,
@@ -763,12 +763,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 427999,
-      "num": 427999,
+      "raw_hot": 433867,
+      "num": 433867,
       "word": "水泥麻辣烫",
       "onboard_time": 1768213942,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 423183,
+      "num": 273941,
+      "word": "宋威龙赵今麦王子公主",
+      "onboard_time": 1768216461,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 422946,
@@ -1064,6 +1072,14 @@
       "word": "宋威龙赵今麦明天合体",
       "onboard_time": 1768121061,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 341523,
+      "num": 137910,
+      "word": "章若楠胸前好大一朵花",
+      "onboard_time": 1768216282,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -1371,14 +1387,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 271073,
-      "num": 271073,
-      "word": "宋威龙赵今麦王子公主",
-      "onboard_time": 1768216461,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 270792,
       "num": 768730,
       "word": "江苏省考成绩",
@@ -1395,12 +1403,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 267236,
-      "num": 137910,
-      "word": "章若楠胸前好大一朵花",
-      "onboard_time": 1768216282,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 267273,
+      "num": 267273,
+      "word": "轧戏",
+      "onboard_time": 1768046421,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 264707,
@@ -1491,6 +1499,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248411,
+      "num": 752293,
+      "word": "小米17",
+      "onboard_time": 1768216161,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 248219,
+      "num": 549396,
+      "word": "当地文旅回应呆呆杀猪后续安排",
+      "onboard_time": 1768211781,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 248086,
       "num": 248086,
       "word": "社保工作人员骗养老金多少蛀虫待清理",
@@ -1569,14 +1593,6 @@
       "onboard_time": 1768149019,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 237524,
-      "num": 237524,
-      "word": "轧戏",
-      "onboard_time": 1768046421,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 235610,
@@ -1827,6 +1843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206469,
+      "num": 323126,
+      "word": "A股创新高的原因找到了",
+      "onboard_time": 1768213101,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 205282,
       "num": 205282,
       "word": "李昊屡献神扑",
@@ -1897,14 +1921,6 @@
       "onboard_time": 1768213341,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 195621,
-      "num": 323126,
-      "word": "A股创新高的原因找到了",
-      "onboard_time": 1768213101,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 194972,
@@ -2403,20 +2419,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165716,
-      "num": 546139,
-      "word": "小米17",
-      "onboard_time": 1768216161,
-      "rank": 3,
-      "category": "数码"
-    },
-    {
       "raw_hot": 165601,
       "num": 165601,
       "word": "2026KPL春季赛",
       "onboard_time": 1768197020,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165519,
+      "num": 132483,
+      "word": "向佐终于上对了节目",
+      "onboard_time": 1768217541,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 164793,
@@ -2835,14 +2851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143594,
-      "num": 532842,
-      "word": "当地文旅回应呆呆杀猪后续安排",
-      "onboard_time": 1768211781,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143249,
       "num": 164241,
       "word": "早上刷牙的真正目的是清除牙菌斑",
@@ -2961,6 +2969,14 @@
       "onboard_time": 1768196542,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 138097,
+      "num": 138097,
+      "word": "鹅鸭杀还原梦泪名场面",
+      "onboard_time": 1768217783,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 137969,
@@ -3115,6 +3131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132191,
+      "num": 132191,
+      "word": "孙颖莎前主管教练回归",
+      "onboard_time": 1768213281,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131362,
       "num": 131362,
       "word": "王欣瑜获奥克兰赛亚军",
@@ -3160,14 +3184,6 @@
       "word": "国乒WTT多哈冠军赛无缘冠军",
       "onboard_time": 1768157474,
       "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 129507,
-      "num": 129507,
-      "word": "孙颖莎前主管教练回归",
-      "onboard_time": 1768213281,
-      "rank": 28,
       "category": "体育"
     },
     {
@@ -3577,6 +3593,14 @@
       "onboard_time": 1768136362,
       "rank": 42,
       "category": "网红"
+    },
+    {
+      "raw_hot": 115846,
+      "num": 115846,
+      "word": "无畏契约但鹅鸭杀",
+      "onboard_time": 1768217783,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 115761,
@@ -5355,6 +5379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74023,
+      "num": 137360,
+      "word": "游客拍到两只小猫在华山顶上对决",
+      "onboard_time": 1768217720,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73810,
       "num": 263524,
       "word": "名侦探柯南最唯美的主题曲",
@@ -6179,6 +6211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40179,
+      "num": 114409,
+      "word": "男子凑热闹去看杀猪结果当上主厨",
+      "onboard_time": 1768217901,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39986,
       "num": 102624,
       "word": "高越感谢粉丝端水",
@@ -6707,6 +6747,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 20596,
+      "num": 114416,
+      "word": "老乡鸡一门店宠物狗上椅进食",
+      "onboard_time": 1768217241,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20114,
       "num": 38634,
       "word": "轧戏女主男二cp感",
@@ -6785,14 +6833,6 @@
       "onboard_time": 1768164673,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 15216,
-      "num": 110301,
-      "word": "老乡鸡一门店宠物狗上椅进食",
-      "onboard_time": 1768217241,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14645,

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768217391608,
+  "endTime": 1768218235563,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -251,20 +251,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1510836,
-      "num": 530113,
-      "word": "微信通知显示头像",
-      "onboard_time": 1768208120,
-      "rank": 40,
-      "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 1500996,
+      "raw_hot": 1513071,
       "num": 146509,
       "word": "网红口子姐去世",
       "onboard_time": 1768215022,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1510836,
+      "num": 543591,
+      "word": "微信通知显示头像",
+      "onboard_time": 1768208120,
+      "rank": 40,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 1497333,
@@ -4035,6 +4035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 433867,
+      "num": 433867,
+      "word": "水泥麻辣烫",
+      "onboard_time": 1768213942,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 431970,
       "num": 274087,
       "word": "委内瑞拉代总统致信美国及世界",
@@ -4099,14 +4107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 427999,
-      "num": 427999,
-      "word": "水泥麻辣烫",
-      "onboard_time": 1768213942,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 426547,
       "num": 418675,
       "word": "给赵今麦当替身后我扑进了宋威龙怀里",
@@ -4129,6 +4129,14 @@
       "onboard_time": 1767933021,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 423183,
+      "num": 273941,
+      "word": "宋威龙赵今麦王子公主",
+      "onboard_time": 1768216461,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 422946,
@@ -5585,6 +5593,14 @@
       "onboard_time": 1767260899,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 341523,
+      "num": 137910,
+      "word": "章若楠胸前好大一朵花",
+      "onboard_time": 1768216282,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 340364,
@@ -7419,14 +7435,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 271073,
-      "num": 271073,
-      "word": "宋威龙赵今麦王子公主",
-      "onboard_time": 1768216461,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 270792,
       "num": 768730,
       "word": "江苏省考成绩",
@@ -7577,14 +7585,6 @@
       "onboard_time": 1767595161,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 267236,
-      "num": 137910,
-      "word": "章若楠胸前好大一朵花",
-      "onboard_time": 1768216282,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 266985,
@@ -8267,12 +8267,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 248411,
+      "num": 752293,
+      "word": "小米17",
+      "onboard_time": 1768216161,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 248302,
       "num": 437383,
       "word": "美国大型石油公司将前往委内瑞拉",
       "onboard_time": 1767460877,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 248219,
+      "num": 549396,
+      "word": "当地文旅回应呆呆杀猪后续安排",
+      "onboard_time": 1768211781,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 248086,
@@ -9987,6 +10003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206469,
+      "num": 323126,
+      "word": "A股创新高的原因找到了",
+      "onboard_time": 1768213101,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 206236,
       "num": 206236,
       "word": "孟子义开车是跟李昀锐学的吧",
@@ -10689,14 +10713,6 @@
       "onboard_time": 1767569059,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 195621,
-      "num": 323126,
-      "word": "A股创新高的原因找到了",
-      "onboard_time": 1768213101,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 195508,
@@ -13299,14 +13315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165716,
-      "num": 546139,
-      "word": "小米17",
-      "onboard_time": 1768216161,
-      "rank": 3,
-      "category": "数码"
-    },
-    {
       "raw_hot": 165622,
       "num": 165622,
       "word": "美国法院称马杜罗将于5日在纽约出庭",
@@ -13321,6 +13329,14 @@
       "onboard_time": 1767691702,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165519,
+      "num": 132483,
+      "word": "向佐终于上对了节目",
+      "onboard_time": 1768217541,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 165500,
@@ -15611,14 +15627,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 143594,
-      "num": 532842,
-      "word": "当地文旅回应呆呆杀猪后续安排",
-      "onboard_time": 1768211781,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143438,
       "num": 121476,
       "word": "白鹿DIY微缩小屋",
@@ -16433,6 +16441,14 @@
       "onboard_time": 1767602601,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138097,
+      "num": 138097,
+      "word": "鹅鸭杀还原梦泪名场面",
+      "onboard_time": 1768217783,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 138055,
@@ -17307,6 +17323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132191,
+      "num": 132191,
+      "word": "孙颖莎前主管教练回归",
+      "onboard_time": 1768213281,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132050,
       "num": 157157,
       "word": "刘宇宁你们再喊我飞走了",
@@ -17657,14 +17681,6 @@
       "onboard_time": 1767431004,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 129507,
-      "num": 129507,
-      "word": "孙颖莎前主管教练回归",
-      "onboard_time": 1768213281,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 129500,
@@ -20145,6 +20161,14 @@
       "onboard_time": 1768136362,
       "rank": 42,
       "category": "网红"
+    },
+    {
+      "raw_hot": 115846,
+      "num": 115846,
+      "word": "无畏契约但鹅鸭杀",
+      "onboard_time": 1768217783,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 115761,
@@ -30419,6 +30443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74023,
+      "num": 137360,
+      "word": "游客拍到两只小猫在华山顶上对决",
+      "onboard_time": 1768217720,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73962,
       "num": 77598,
       "word": "警察节",
@@ -35275,6 +35307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40179,
+      "num": 114409,
+      "word": "男子凑热闹去看杀猪结果当上主厨",
+      "onboard_time": 1768217901,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40154,
       "num": 40154,
       "word": "王者新赛季那个男人回来了",
@@ -38027,6 +38067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20596,
+      "num": 114416,
+      "word": "老乡鸡一门店宠物狗上椅进食",
+      "onboard_time": 1768217241,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20408,
       "num": 122807,
       "word": "短剧赛道也是被劲仔闯进去了",
@@ -38393,14 +38441,6 @@
       "onboard_time": 1768164673,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 15216,
-      "num": 110301,
-      "word": "老乡鸡一门店宠物狗上椅进食",
-      "onboard_time": 1768217241,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15077,

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768217391608,
+  "endTime": 1768218235563,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -251,20 +251,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1510836,
-      "num": 530113,
-      "word": "微信通知显示头像",
-      "onboard_time": 1768208120,
-      "rank": 40,
-      "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 1500996,
+      "raw_hot": 1513071,
       "num": 146509,
       "word": "网红口子姐去世",
       "onboard_time": 1768215022,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1510836,
+      "num": 543591,
+      "word": "微信通知显示头像",
+      "onboard_time": 1768208120,
+      "rank": 40,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 1497333,
