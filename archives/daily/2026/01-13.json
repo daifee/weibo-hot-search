@@ -1,6 +1,6 @@
 {
   "startTime": 1768235820030,
-  "endTime": 1768243393543,
+  "endTime": 1768244236644,
   "band_list": [
     {
       "raw_hot": 757152,
@@ -451,8 +451,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34171,
-      "num": 35434,
+      "raw_hot": 38834,
+      "num": 35919,
       "word": "9岁男孩被发现带伤晚上在高速行走",
       "onboard_time": 1768239376,
       "rank": 41,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 26549,
-      "num": 26549,
+      "num": 33670,
       "word": "易烊千玺周一的充电处方",
       "onboard_time": 1768242374,
       "rank": 25,
@@ -507,12 +507,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16392,
-      "num": 25532,
+      "raw_hot": 16911,
+      "num": 33681,
       "word": "王者荣耀S42赛季",
       "onboard_time": 1768215560,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 15337,
+      "num": 33673,
+      "word": "哈姆奈特 赵婷",
+      "onboard_time": 1768244114,
+      "rank": 44,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
