@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/11 00:34:00 ~ 2026/01/13 01:31:37
+本榜单时间：2026/01/11 00:34:00 ~ 2026/01/13 01:46:26
 </p>
 </blockquote>
 <p>
@@ -3201,6 +3201,12 @@ AI沙皇也是平A为主（热度：117458）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%88%E5%B7%9D%E6%96%87%E6%97%85%E7%A7%B0%E6%9D%80%E7%8C%AA%E5%AE%B4%E6%98%AF%E5%91%86%E5%91%86%E7%A7%81%E4%BA%BA%E5%8F%91%E8%B5%B7%23" target="weibo">
+合川文旅称杀猪宴是呆呆私人发起（热度：109647）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%B4%E9%98%B3%E5%B8%88%23" target="weibo">
 阴阳师（热度：109434）
 </a>
@@ -3959,12 +3965,6 @@ Bin说不会说赛前垃圾话了（热度：91023）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E8%AF%AD%E4%B8%8D%E8%BF%87%E7%98%BE%E5%88%87%E6%8D%A2%E4%B8%AD%E6%96%87%E4%BA%86%E5%90%97%23" target="weibo">
 韩语不过瘾切换中文了吗（热度：90031）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%88%E5%B7%9D%E6%96%87%E6%97%85%E7%A7%B0%E6%9D%80%E7%8C%AA%E5%AE%B4%E6%98%AF%E5%91%86%E5%91%86%E7%A7%81%E4%BA%BA%E5%8F%91%E8%B5%B7%23" target="weibo">
-合川文旅称杀猪宴是呆呆私人发起（热度：89910）
 </a>
 </li>
 
@@ -4833,6 +4833,12 @@ U23国足有望创造历史（热度：65340）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%96%B0%E7%9A%93%E8%8B%B9%E6%9E%9C%E4%B8%8D%E6%98%AF%E6%97%A0%E8%81%8A%E7%9A%84%E6%B0%B4%E6%9E%9C%23" target="weibo">
+苏新皓苹果不是无聊的水果（热度：62878）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E7%8B%97%E5%A4%A7%E6%88%98%E5%92%AC%E5%9D%8F3%E4%B8%AA%E6%9C%88%E6%96%B0%E8%BD%A6%23" target="weibo">
 猫狗大战咬坏3个月新车（热度：62633）
 </a>
@@ -4973,12 +4979,6 @@ sakee asen（热度：58695）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%9C%A8%E5%AD%A6%E6%A0%A150%E5%85%83%E6%B7%98%E5%88%B0%E8%8C%85%E5%8F%B0%E7%B3%BB%E6%9D%9C%E6%92%B0%23" target="weibo">
 小学生在学校50元淘到茅台系杜撰（热度：55125）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%96%B0%E7%9A%93%E8%8B%B9%E6%9E%9C%E4%B8%8D%E6%98%AF%E6%97%A0%E8%81%8A%E7%9A%84%E6%B0%B4%E6%9E%9C%23" target="weibo">
-苏新皓苹果不是无聊的水果（热度：55105）
 </a>
 </li>
 
@@ -5373,6 +5373,12 @@ Breathe说RNG退出可惜了（热度：36758）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%B5%B7%E8%88%AA%E6%97%97%E4%B8%8B%E9%A3%9E%E6%9C%BA%E5%87%A0%E4%B9%8E%E6%88%90%E8%90%BD%E9%A9%AC%E5%AE%98%E5%91%98%E7%A7%81%E4%BA%BA%E4%B8%93%E7%94%A8%23" target="weibo">
+原海航旗下飞机几乎成落马官员私人专用（热度：31398）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E5%89%8D%E6%89%8B%E6%9C%BA%E5%A4%A7%E5%8E%82%E6%9C%80%E5%90%8E%E4%B8%80%E6%B3%A2%E5%86%B2%E5%88%BA%23" target="weibo">
 春节前手机大厂最后一波冲刺（热度：31382）
 </a>
@@ -5517,6 +5523,12 @@ TF四代宇宙闪烁请注意侧拍（热度：26863）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%239%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%B8%A6%E4%BC%A4%E6%99%9A%E4%B8%8A%E5%9C%A8%E9%AB%98%E9%80%9F%E8%A1%8C%E8%B5%B0%23" target="weibo">
+9岁男孩被发现带伤晚上在高速行走（热度：26165）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E8%80%83%E8%99%91%E5%B9%B2%E9%A2%84%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF%E7%9A%84%E5%BC%BA%E7%A1%AC%E9%80%89%E9%A1%B9%23" target="weibo">
 特朗普说考虑干预伊朗局势的强硬选项（热度：25990）
 </a>
@@ -5537,6 +5549,12 @@ TF四代宇宙闪烁请注意侧拍（热度：26863）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B8%BB%E6%9C%89%E7%82%B9%E5%9D%8F%E7%82%B9%E5%AD%90%E5%85%A8%E4%BD%BF%E7%94%B7%E4%B8%BB%E8%BA%AB%E4%B8%8A%E4%BA%86%23" target="weibo">
 女主有点坏点子全使男主身上了（热度：24771）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%994%E4%B8%AA%E8%A7%92%E8%89%B2%E9%83%BD%E6%98%AF%E4%B8%80%E5%BC%A0%E8%84%B8%23" target="weibo">
+原来这4个角色都是一张脸（热度：24689）
 </a>
 </li>
 
