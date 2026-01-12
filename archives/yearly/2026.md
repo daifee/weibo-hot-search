@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/12 10:40:57
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/12 12:16:49
 </p>
 </blockquote>
 <p>
@@ -89,6 +89,12 @@ WB冠军（热度：3566119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Asen%E5%9B%9E%E5%BA%94Sakee%23" target="weibo">
 Asen回应Sakee（热度：2704539）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AE%B6%E4%B8%AD%E8%87%AA%E6%9D%80%E7%95%99%E4%B8%8B%E9%81%97%E4%B9%A6%23" target="weibo">
+小学生家中自杀留下遗书（热度：2692974）
 </a>
 </li>
 
@@ -251,6 +257,12 @@ Asen回应Sakee（热度：2704539）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%BE%88%23" target="weibo">
 小澈（热度：1271113）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E9%99%88%E6%A2%A6%23" target="weibo">
+这居然是陈梦（热度：1268140）
 </a>
 </li>
 
@@ -1179,6 +1191,12 @@ AI照片竟然拿了摄影比赛第一名（热度：667067）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%AF%AD%E8%80%81%E5%B8%88%E5%9B%9E%E5%BA%9412%E5%B2%81%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%87%AA%E6%9D%80%23" target="weibo">
+英语老师回应12岁小学生自杀（热度：660844）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%96%9C%E7%B3%96%E5%B7%B2%E7%BB%8F%E8%BF%9B%E5%8C%96%E6%88%90%E8%BF%99%E6%A0%B7%E4%BA%86%E5%90%97%23" target="weibo">
 喜糖已经进化成这样了吗（热度：660464）
 </a>
@@ -1793,24 +1811,6 @@ iPhoneFold上手（热度：543056）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E7%BB%93%E5%A9%9A%E5%BD%93%E6%97%A5%E5%9D%A0%E6%A5%BC%E8%83%8C%E5%90%8E%23" target="weibo">
 女教师结婚当日坠楼背后（热度：536306）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E4%B8%A5%E9%87%8D%E6%92%9E%E4%BC%A4%23" target="weibo">
-两名中国公民在日本被严重撞伤（热度：536292）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%9B%9E%E5%BA%94%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%BF%9B%E4%BB%B7303%E5%94%AE%E4%BB%B7393%23" target="weibo">
-胖东来回应羽绒服进价303售价393（热度：535677）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E9%80%9A%E6%8A%A51%E5%90%8D%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E8%BA%AB%E4%BA%A1%23" target="weibo">
-河南通报1名学生校内身亡（热度：535376）
 </a>
 </li>
 

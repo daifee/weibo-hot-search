@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768185657320,
+  "endTime": 1768191409246,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -105,6 +105,14 @@
       "onboard_time": 1767757102,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2692974,
+      "num": 383407,
+      "word": "小学生家中自杀留下遗书",
+      "onboard_time": 1768188080,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2608150,
@@ -321,6 +329,14 @@
       "onboard_time": 1768062861,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1268140,
+      "num": 387288,
+      "word": "这居然是陈梦",
+      "onboard_time": 1768188260,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1265298,
@@ -1244,7 +1260,7 @@
     },
     {
       "raw_hot": 734582,
-      "num": 171494,
+      "num": 381374,
       "word": "全红婵留长发了",
       "onboard_time": 1768184358,
       "rank": 30,
@@ -1553,6 +1569,14 @@
       "onboard_time": 1767602961,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 660844,
+      "num": 382193,
+      "word": "英语老师回应12岁小学生自杀",
+      "onboard_time": 1768188260,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 660464,
@@ -2376,30 +2400,6 @@
       "word": "女教师结婚当日坠楼背后",
       "onboard_time": 1767699861,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 536292,
-      "num": 536292,
-      "word": "两名中国公民在日本被严重撞伤",
-      "onboard_time": 1767483320,
-      "rank": 4,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 535677,
-      "num": 827955,
-      "word": "胖东来回应羽绒服进价303售价393",
-      "onboard_time": 1767951142,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 535376,
-      "num": 452276,
-      "word": "河南通报1名学生校内身亡",
-      "onboard_time": 1767939622,
-      "rank": 7,
       "category": "民生新闻"
     }
   ],

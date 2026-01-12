@@ -1,7 +1,23 @@
 {
   "startTime": 1768149237092,
-  "endTime": 1768185657320,
+  "endTime": 1768191409246,
   "band_list": [
+    {
+      "raw_hot": 2692974,
+      "num": 383407,
+      "word": "小学生家中自杀留下遗书",
+      "onboard_time": 1768188080,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1268140,
+      "num": 387288,
+      "word": "这居然是陈梦",
+      "onboard_time": 1768188260,
+      "rank": 5,
+      "category": "体育"
+    },
     {
       "raw_hot": 1022078,
       "num": 423054,
@@ -28,11 +44,19 @@
     },
     {
       "raw_hot": 734582,
-      "num": 171494,
+      "num": 381374,
       "word": "全红婵留长发了",
       "onboard_time": 1768184358,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 660844,
+      "num": 382193,
+      "word": "英语老师回应12岁小学生自杀",
+      "onboard_time": 1768188260,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 629444,
@@ -67,6 +91,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 481845,
+      "num": 386205,
+      "word": "特朗普发图自称委内瑞拉代总统",
+      "onboard_time": 1768189221,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 435409,
       "num": 1056273,
       "word": "烟台暴雪下冒烟了",
@@ -75,12 +107,60 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 410777,
+      "num": 385617,
+      "word": "A股",
+      "onboard_time": 1768185680,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 401952,
+      "num": 401952,
+      "word": "甜茶金球奖影帝",
+      "onboard_time": 1768186639,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 387527,
+      "num": 387527,
+      "word": "初中生网购疑似侵华日军信件",
+      "onboard_time": 1768188141,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 381001,
+      "num": 381001,
+      "word": "QQ音乐超级会员代言人",
+      "onboard_time": 1768190060,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 377034,
+      "num": 377034,
+      "word": "香奈儿官宣单依纯",
+      "onboard_time": 1768186999,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 370269,
-      "num": 162714,
+      "num": 199980,
       "word": "汪苏泷代言MLB",
       "onboard_time": 1768184720,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 353270,
+      "num": 1056523,
+      "word": "贪官称世界真奇妙退休才知道",
+      "onboard_time": 1768183220,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 352522,
@@ -89,6 +169,14 @@
       "onboard_time": 1768176740,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 348442,
+      "num": 384453,
+      "word": "女子网购一箱粑粑柑开出百种丑法",
+      "onboard_time": 1768187480,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 319699,
@@ -105,6 +193,14 @@
       "onboard_time": 1768179921,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 311662,
+      "num": 383706,
+      "word": "宋妍霏用可视掏耳勺拍的MV",
+      "onboard_time": 1768188919,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 296124,
@@ -124,11 +220,19 @@
     },
     {
       "raw_hot": 276178,
-      "num": 136950,
+      "num": 148178,
       "word": "娘家坐月子因开灯被嫂子吐槽",
       "onboard_time": 1768181059,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 272562,
+      "num": 750494,
+      "word": "央视播出养老金贪污案细节",
+      "onboard_time": 1768188441,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 270792,
@@ -137,6 +241,14 @@
       "onboard_time": 1768181659,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 260755,
+      "num": 260755,
+      "word": "2026年第一个闯大祸的人出现了",
+      "onboard_time": 1768189880,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 255379,
@@ -203,6 +315,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 214157,
+      "num": 159393,
+      "word": "单依纯官宣香奈儿",
+      "onboard_time": 1768184659,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213309,
       "num": 213309,
       "word": "林昀儒男单冠军",
@@ -227,12 +347,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199108,
-      "num": 199108,
-      "word": "贪官称世界真奇妙退休才知道",
-      "onboard_time": 1768183220,
+      "raw_hot": 194752,
+      "num": 194752,
+      "word": "有一种卷叫家卷",
+      "onboard_time": 1768190900,
       "rank": 17,
-      "category": "国内时政"
+      "category": "情感"
     },
     {
       "raw_hot": 193708,
@@ -249,6 +369,14 @@
       "onboard_time": 1768177580,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 192161,
+      "num": 159392,
+      "word": "迅猛龙曾多次发与网红小澈同框视频",
+      "onboard_time": 1768189820,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 185596,
@@ -291,12 +419,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161629,
+      "num": 161629,
+      "word": "死了么APP估值达千万",
+      "onboard_time": 1768190420,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 161497,
+      "num": 157547,
+      "word": "魏大勋孙千有罪之身新海报",
+      "onboard_time": 1768189941,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159686,
       "num": 166978,
       "word": "山东威海下了倾盆大瓢雪",
       "onboard_time": 1768141522,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159364,
+      "num": 159364,
+      "word": "00后买年货有自己的碎碎念",
+      "onboard_time": 1768190060,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 154861,
@@ -307,12 +459,44 @@
       "category": "演出"
     },
     {
+      "raw_hot": 154712,
+      "num": 154712,
+      "word": "用户与AI聊黄开发者获刑",
+      "onboard_time": 1768190541,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154352,
       "num": 174720,
       "word": "一个礼拜掉8斤的食谱",
       "onboard_time": 1768141643,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 154032,
+      "num": 154032,
+      "word": "玉茗茶骨给男二写了个男主人设",
+      "onboard_time": 1768187299,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 148161,
+      "num": 148161,
+      "word": "虞书欣张云龙云初令首发海报",
+      "onboard_time": 1768187240,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 146052,
+      "num": 127837,
+      "word": "林高远欧冠出战时间确认",
+      "onboard_time": 1768191381,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 144394,
@@ -339,6 +523,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135545,
+      "num": 135545,
+      "word": "代旭说卢昱晓不会按电梯",
+      "onboard_time": 1768190721,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 135191,
+      "num": 135191,
+      "word": "这个奖到底还有没有外人了",
+      "onboard_time": 1768191021,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130276,
       "num": 130276,
       "word": "五角大楼回应末日飞机现身洛杉矶",
@@ -363,6 +563,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 118297,
+      "num": 118297,
+      "word": "于正3个月瘦了30斤减肥心得",
+      "onboard_time": 1768190361,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 117838,
+      "num": 117838,
+      "word": "日本第一代不婚族开始后悔了",
+      "onboard_time": 1768190660,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 117042,
       "num": 158055,
       "word": "陈哲远 三个人的婚礼有点拥挤",
@@ -377,6 +593,14 @@
       "onboard_time": 1768178420,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115693,
+      "num": 115693,
+      "word": "河南省考 进不去",
+      "onboard_time": 1768190241,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 115288,
@@ -419,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110235,
+      "num": 110235,
+      "word": "侯明昊太粘人了",
+      "onboard_time": 1768189401,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108513,
       "num": 108513,
       "word": "陈星旭卢昱晓连黑历史都是高清的",
@@ -443,12 +675,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 105137,
+      "num": 105137,
+      "word": "活了么APP免费下载",
+      "onboard_time": 1768191202,
+      "rank": 38,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 104804,
       "num": 158026,
       "word": "微博之夜",
       "onboard_time": 1768144282,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 104597,
+      "num": 104597,
+      "word": "受到口头表扬上百次但含金量为零",
+      "onboard_time": 1768191021,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 104564,
+      "num": 104564,
+      "word": "李一桐这段晋江味儿太浓了",
+      "onboard_time": 1768188561,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 104554,
@@ -475,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103364,
+      "num": 103364,
+      "word": "气血好的人有这6个特点",
+      "onboard_time": 1768185139,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 103267,
       "num": 103267,
       "word": "2026金球奖获奖名单",
@@ -499,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100993,
+      "num": 100993,
+      "word": "地下车库氡气为1类致癌物",
+      "onboard_time": 1768190660,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 100683,
       "num": 100683,
       "word": "金价突破4600美元",
@@ -512,6 +784,14 @@
       "word": "老人开飘窗玻璃突然从24楼砸下",
       "onboard_time": 1768140622,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97546,
+      "num": 97546,
+      "word": "15岁少年打人被拘称忘记过了1月1日",
+      "onboard_time": 1768188740,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -531,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96013,
+      "num": 96013,
+      "word": "山东的雪杀疯了",
+      "onboard_time": 1768191262,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95424,
       "num": 158042,
       "word": "男子出门打工9个月回家女友怀孕了",
@@ -547,12 +835,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 92028,
-      "num": 92028,
-      "word": "气血好的人有这6个特点",
-      "onboard_time": 1768185139,
-      "rank": 34,
-      "category": "健康医疗"
+      "raw_hot": 93840,
+      "num": 93840,
+      "word": "赵文卓金巧巧 武术人的精气神",
+      "onboard_time": 1768191322,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 92886,
+      "num": 92886,
+      "word": "工作日才是用来休息的",
+      "onboard_time": 1768190962,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 92234,
+      "num": 92234,
+      "word": "红楼梦二姐吞金",
+      "onboard_time": 1768186278,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 91501,
+      "num": 91501,
+      "word": "要不还是纯纸化办公吧",
+      "onboard_time": 1768190660,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 90575,
@@ -731,6 +1043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69788,
+      "num": 101152,
+      "word": "民警执法牺牲画面公开同事哭喊破防",
+      "onboard_time": 1768189941,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69355,
       "num": 69355,
       "word": "原来一直错怪粉底液了",
@@ -857,6 +1177,14 @@
       "onboard_time": 1768147880,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 59099,
+      "num": 159395,
+      "word": "羽绒服成新年送礼黑马",
+      "onboard_time": 1768190781,
+      "rank": 19,
+      "category": "时尚"
     },
     {
       "raw_hot": 58932,
