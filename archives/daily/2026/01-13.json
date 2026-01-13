@@ -1,6 +1,6 @@
 {
   "startTime": 1768235820030,
-  "endTime": 1768276391583,
+  "endTime": 1768277254961,
   "band_list": [
     {
       "raw_hot": 1195104,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 913492,
-      "num": 1107171,
+      "num": 1113796,
       "word": "老干妈创始人出山救子又赚翻了",
       "onboard_time": 1768226783,
       "rank": 0,
       "category": "财经"
+    },
+    {
+      "raw_hot": 888305,
+      "num": 277939,
+      "word": "陈楚河承认恋情",
+      "onboard_time": 1768273340,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 816335,
@@ -27,12 +35,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 755103,
-      "num": 225797,
-      "word": "陈楚河承认恋情",
-      "onboard_time": 1768273340,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 644914,
+      "num": 225651,
+      "word": "黄金又急跌",
+      "onboard_time": 1768272980,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 613601,
+      "num": 277908,
+      "word": "妻子隐私被丈夫发到亲友群后自杀",
+      "onboard_time": 1768275501,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 591393,
@@ -44,22 +60,14 @@
     },
     {
       "raw_hot": 513702,
-      "num": 225419,
+      "num": 277856,
       "word": "刘嘉玲接受章泽天采访家中装修曝光",
       "onboard_time": 1768268720,
       "rank": 14,
       "category": "艺人"
     },
     {
-      "raw_hot": 513454,
-      "num": 225651,
-      "word": "黄金又急跌",
-      "onboard_time": 1768272980,
-      "rank": 11,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 501080,
+      "raw_hot": 503499,
       "num": 362495,
       "word": "黄金",
       "onboard_time": 1768274901,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 478081,
-      "num": 819888,
+      "num": 828621,
       "word": "长春居民因客厅放床被停燃气20天",
       "onboard_time": 1768271239,
       "rank": 39,
@@ -100,11 +108,27 @@
     },
     {
       "raw_hot": 429317,
-      "num": 224832,
+      "num": 277853,
       "word": "有3个睡眠习惯的人更易患癌",
       "onboard_time": 1768267999,
       "rank": 11,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 401743,
+      "num": 277883,
+      "word": "尹雨航和鹿晗演过双胞胎",
+      "onboard_time": 1768275980,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 400352,
+      "num": 400352,
+      "word": "商业航天",
+      "onboard_time": 1768272920,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 382622,
@@ -148,19 +172,11 @@
     },
     {
       "raw_hot": 356671,
-      "num": 125425,
+      "num": 130061,
       "word": "代旭尹雨航",
       "onboard_time": 1768266680,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 355331,
-      "num": 355331,
-      "word": "商业航天",
-      "onboard_time": 1768272920,
-      "rank": 7,
-      "category": "财经"
     },
     {
       "raw_hot": 355280,
@@ -179,12 +195,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 326069,
-      "num": 224908,
-      "word": "妻子隐私被丈夫发到亲友群后自杀",
-      "onboard_time": 1768275501,
-      "rank": 13,
-      "category": "民生新闻"
+      "raw_hot": 309810,
+      "num": 309810,
+      "word": "何炅情商",
+      "onboard_time": 1768274781,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 296789,
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 270478,
-      "num": 224410,
+      "num": 243237,
       "word": "杨紫迪丽热巴新剧或对打",
       "onboard_time": 1768261939,
       "rank": 15,
@@ -251,20 +267,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 242188,
+      "num": 242188,
+      "word": "林依轮对赵今麦说戏里戏外舅爱你",
+      "onboard_time": 1768275080,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 232839,
+      "num": 200837,
+      "word": "微博之夜",
+      "onboard_time": 1768275261,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 232828,
       "num": 232828,
       "word": "金饰克价涨到1432元",
       "onboard_time": 1768269679,
       "rank": 30,
       "category": "财经"
-    },
-    {
-      "raw_hot": 224365,
-      "num": 224365,
-      "word": "何炅情商",
-      "onboard_time": 1768274781,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 223798,
@@ -276,7 +300,7 @@
     },
     {
       "raw_hot": 222044,
-      "num": 122109,
+      "num": 122396,
       "word": "张翅 小黄萝卜",
       "onboard_time": 1768262479,
       "rank": 22,
@@ -299,12 +323,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 208155,
-      "num": 208155,
-      "word": "林依轮对赵今麦说戏里戏外舅爱你",
-      "onboard_time": 1768275080,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 206463,
+      "num": 180460,
+      "word": "黄誉博拍出了杨幂在泰国有多火",
+      "onboard_time": 1768276641,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 202469,
@@ -313,14 +337,6 @@
       "onboard_time": 1768228642,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 200837,
-      "num": 200837,
-      "word": "微博之夜",
-      "onboard_time": 1768275261,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 196347,
@@ -340,7 +356,7 @@
     },
     {
       "raw_hot": 190923,
-      "num": 140079,
+      "num": 179861,
       "word": "谁家综艺7个嘉宾哭了4个",
       "onboard_time": 1768275199,
       "rank": 26,
@@ -363,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187375,
+      "num": 187375,
+      "word": "赵长江官宣加入智界",
+      "onboard_time": 1768276822,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 183698,
       "num": 183698,
       "word": "香港退役警察花100万在广东安家",
@@ -379,12 +403,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 178968,
+      "num": 178968,
+      "word": "代旭小时候上过春晚敲钟",
+      "onboard_time": 1768276101,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176966,
       "num": 124520,
       "word": "上海的婚宴果然是晚上办",
       "onboard_time": 1768235119,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175470,
+      "num": 175470,
+      "word": "问界M7占问界总交付40%以上",
+      "onboard_time": 1768276340,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 175329,
@@ -427,14 +467,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 168896,
-      "num": 131723,
-      "word": "代旭小时候上过春晚敲钟",
-      "onboard_time": 1768276101,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 166876,
       "num": 124565,
       "word": "家属称痔疮手术致34岁医生离世",
@@ -475,14 +507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 154472,
-      "num": 126227,
-      "word": "尹雨航和鹿晗演过双胞胎",
-      "onboard_time": 1768275980,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 154065,
       "num": 154065,
       "word": "A股此轮大牛市十年一遇",
@@ -521,14 +545,6 @@
       "onboard_time": 1768228702,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 142084,
-      "num": 142084,
-      "word": "问界M7占问界总交付40%以上",
-      "onboard_time": 1768276340,
-      "rank": 24,
-      "category": "汽车"
     },
     {
       "raw_hot": 141039,
@@ -643,11 +659,43 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 119993,
+      "num": 119993,
+      "word": "上海去年婚姻登记17万对",
+      "onboard_time": 1768277063,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119649,
+      "num": 119649,
+      "word": "赵长江感谢比亚迪经历",
+      "onboard_time": 1768277121,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 118724,
       "num": 118724,
       "word": "宋威龙赵今麦退场",
       "onboard_time": 1768269138,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 118367,
+      "num": 118367,
+      "word": "蹲国考成绩",
+      "onboard_time": 1768274000,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 117342,
+      "num": 182548,
+      "word": "汪苏泷这次玩上街头节奏了",
+      "onboard_time": 1768277002,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -665,6 +713,30 @@
       "onboard_time": 1768273700,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 114858,
+      "num": 114858,
+      "word": "原来每个城市都有自己的旅游季",
+      "onboard_time": 1768276701,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 114071,
+      "num": 114071,
+      "word": "蒋奇明 盖完你的盖你的",
+      "onboard_time": 1768277063,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 112656,
+      "num": 118381,
+      "word": "张凌赫田曦薇逐玉3月播出",
+      "onboard_time": 1768276580,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 111819,
@@ -731,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107735,
+      "num": 185676,
+      "word": "用年轻人的浪漫打开很新的年",
+      "onboard_time": 1768277002,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106266,
       "num": 106266,
       "word": "曝童锦程女友要生了",
@@ -739,12 +819,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 105673,
+      "num": 105673,
+      "word": "A股GEO概念大幅高开",
+      "onboard_time": 1768277179,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 104424,
       "num": 104424,
       "word": "马斯克回应苹果谷歌合作",
       "onboard_time": 1768276340,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 104368,
+      "num": 104368,
+      "word": "iPhone无感通话录音技巧",
+      "onboard_time": 1768276880,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 103669,
@@ -817,6 +913,14 @@
       "onboard_time": 1768223483,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 96929,
+      "num": 223170,
+      "word": "男子杀害22岁前女友一审被判死刑",
+      "onboard_time": 1768276041,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96079,
@@ -1123,6 +1227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61559,
+      "num": 118874,
+      "word": "十日终焉是今年最重视的男频剧",
+      "onboard_time": 1768276940,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 61532,
       "num": 122759,
       "word": "特朗普称将对伊朗商业伙伴加征25%关税",
@@ -1153,6 +1265,14 @@
       "onboard_time": 1768218861,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 58020,
+      "num": 277979,
+      "word": "贪官妻子一句暗语商人就送房",
+      "onboard_time": 1768276461,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 57719,
@@ -1272,14 +1392,6 @@
       "word": "商场客服回应洗手台酷似小便池",
       "onboard_time": 1768236319,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38273,
-      "num": 223170,
-      "word": "男子杀害22岁前女友一审被判死刑",
-      "onboard_time": 1768276041,
-      "rank": 19,
       "category": "民生新闻"
     },
     {

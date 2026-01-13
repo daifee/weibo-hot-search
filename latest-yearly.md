@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/13 11:53:11
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/13 12:07:34
 </p>
 </blockquote>
 <p>
@@ -681,6 +681,12 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E6%B2%B3%E6%89%BF%E8%AE%A4%E6%81%8B%E6%83%85%23" target="weibo">
+陈楚河承认恋情（热度：888305）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E5%88%86%E5%88%AB%E5%8F%96%E5%90%8D%E7%81%BF%E5%92%8C%E7%83%82%23" target="weibo">
 双胞胎姐妹分别取名灿和烂（热度：882691）
 </a>
@@ -983,12 +989,6 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC%23" target="weibo">
 韩国总统李在明抵达北京（热度：755347）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E6%B2%B3%E6%89%BF%E8%AE%A4%E6%81%8B%E6%83%85%23" target="weibo">
-陈楚河承认恋情（热度：755103）
 </a>
 </li>
 
@@ -1347,6 +1347,12 @@ AI照片竟然拿了摄影比赛第一名（热度：667067）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E5%8F%88%E6%80%A5%E8%B7%8C%23" target="weibo">
+黄金又急跌（热度：644914）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%B0%8F%E5%88%9A%E5%A5%B3%E5%84%BF%E9%A2%9C%E5%80%BC%23" target="weibo">
 冯小刚女儿颜值（热度：644519）
 </a>
@@ -1481,6 +1487,12 @@ AI照片竟然拿了摄影比赛第一名（热度：667067）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%23" target="weibo">
 种地吧（热度：614251）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E9%9A%90%E7%A7%81%E8%A2%AB%E4%B8%88%E5%A4%AB%E5%8F%91%E5%88%B0%E4%BA%B2%E5%8F%8B%E7%BE%A4%E5%90%8E%E8%87%AA%E6%9D%80%23" target="weibo">
+妻子隐私被丈夫发到亲友群后自杀（热度：613601）
 </a>
 </li>
 
@@ -1799,18 +1811,6 @@ AI照片竟然拿了摄影比赛第一名（热度：667067）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%96%9D%E5%A5%B6%E8%8C%B6%E7%9A%84%E4%BA%BA%E5%A4%A9%E5%A1%8C%E4%BA%86%23" target="weibo">
 爱喝奶茶的人天塌了（热度：558789）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E8%92%9C%20%E5%81%8F%E5%A4%B4%E7%97%9B%23" target="weibo">
-吃蒜 偏头痛（热度：558513）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E8%87%AA%E6%9B%9D%E4%BB%8E%E5%BA%8A%E7%88%AC%E5%88%B0%E6%B4%97%E6%89%8B%E9%97%B4%E8%A6%81%E5%8D%8A%E5%B0%8F%E6%97%B6%23" target="weibo">
-武大靖自曝从床爬到洗手间要半小时（热度：558510）
 </a>
 </li>
 

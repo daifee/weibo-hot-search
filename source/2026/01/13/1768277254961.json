@@ -1,0 +1,410 @@
+{
+  "runTime": 1768277254961,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 711231,
+        "num": 1113796,
+        "word": "老干妈创始人出山救子又赚翻了",
+        "onboard_time": 1768226783,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 414113,
+        "num": 828621,
+        "word": "长春居民因客厅放床被停燃气20天",
+        "onboard_time": 1768271239,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 7139,
+        "num": 614825,
+        "word": "尔滨的风吹到东南亚了",
+        "onboard_time": 1768201641,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 400352,
+        "num": 400352,
+        "word": "商业航天",
+        "onboard_time": 1768272920,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 346693,
+        "num": 346693,
+        "word": "贪官误以为退下来就安全了",
+        "onboard_time": 1768272261,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 503499,
+        "num": 333085,
+        "word": "黄金",
+        "onboard_time": 1768274901,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 309810,
+        "num": 309810,
+        "word": "何炅情商",
+        "onboard_time": 1768274781,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306265,
+        "num": 306265,
+        "word": "官方通报4名专家身体不适拒评标",
+        "onboard_time": 1768269861,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 277990,
+        "num": 277990,
+        "word": "祯娘传",
+        "onboard_time": 1768274360,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58020,
+        "num": 277979,
+        "word": "贪官妻子一句暗语商人就送房",
+        "onboard_time": 1768276461,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 888305,
+        "num": 277939,
+        "word": "陈楚河承认恋情",
+        "onboard_time": 1768273340,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 613601,
+        "num": 277908,
+        "word": "妻子隐私被丈夫发到亲友群后自杀",
+        "onboard_time": 1768275501,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401743,
+        "num": 277883,
+        "word": "尹雨航和鹿晗演过双胞胎",
+        "onboard_time": 1768275980,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317712,
+        "num": 277856,
+        "word": "刘嘉玲接受章泽天采访家中装修曝光",
+        "onboard_time": 1768268720,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277853,
+        "num": 277853,
+        "word": "有3个睡眠习惯的人更易患癌",
+        "onboard_time": 1768267999,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 243237,
+        "num": 243237,
+        "word": "杨紫迪丽热巴新剧或对打",
+        "onboard_time": 1768261939,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242188,
+        "num": 242188,
+        "word": "林依轮对赵今麦说戏里戏外舅爱你",
+        "onboard_time": 1768275080,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187375,
+        "num": 187375,
+        "word": "赵长江官宣加入智界",
+        "onboard_time": 1768276822,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 37655,
+        "num": 187005,
+        "word": "逆战未来正式上线",
+        "onboard_time": 1768273460,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96929,
+        "num": 186514,
+        "word": "男子杀害22岁前女友一审被判死刑",
+        "onboard_time": 1768276041,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107735,
+        "num": 185676,
+        "word": "用年轻人的浪漫打开很新的年",
+        "onboard_time": 1768277002,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 644914,
+        "num": 184377,
+        "word": "黄金又急跌",
+        "onboard_time": 1768272980,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 598897,
+        "num": 183860,
+        "word": "曝童锦程女友怀孕",
+        "onboard_time": 1768266620,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232839,
+        "num": 183277,
+        "word": "微博之夜",
+        "onboard_time": 1768275261,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117342,
+        "num": 182548,
+        "word": "汪苏泷这次玩上街头节奏了",
+        "onboard_time": 1768277002,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218399,
+        "num": 181114,
+        "word": "气血足的人头发有3个特征",
+        "onboard_time": 1768268839,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 206463,
+        "num": 180460,
+        "word": "黄誉博拍出了杨幂在泰国有多火",
+        "onboard_time": 1768276641,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190214,
+        "num": 179861,
+        "word": "谁家综艺7个嘉宾哭了4个",
+        "onboard_time": 1768275199,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179358,
+        "num": 179358,
+        "word": "男子再婚被16岁双胞胎儿子送上婚车",
+        "onboard_time": 1768265600,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178968,
+        "num": 178968,
+        "word": "代旭小时候上过春晚敲钟",
+        "onboard_time": 1768276101,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175470,
+        "num": 175470,
+        "word": "问界M7占问界总交付40%以上",
+        "onboard_time": 1768276340,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 158184,
+        "num": 158184,
+        "word": "苹果官宣iPhone将搭载最强AI",
+        "onboard_time": 1768272739,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 151320,
+        "num": 151320,
+        "word": "张钧甯妈妈发言这一段",
+        "onboard_time": 1768274419,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132563,
+        "num": 132563,
+        "word": "伊朗如遭攻击将给美国永生难忘的教训",
+        "onboard_time": 1768270160,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151029,
+        "num": 130061,
+        "word": "代旭尹雨航",
+        "onboard_time": 1768266680,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122396,
+        "num": 122396,
+        "word": "张翅 小黄萝卜",
+        "onboard_time": 1768262479,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119993,
+        "num": 119993,
+        "word": "上海去年婚姻登记17万对",
+        "onboard_time": 1768277063,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119649,
+        "num": 119649,
+        "word": "赵长江感谢比亚迪经历",
+        "onboard_time": 1768277121,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 61559,
+        "num": 118874,
+        "word": "十日终焉是今年最重视的男频剧",
+        "onboard_time": 1768276940,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112656,
+        "num": 118381,
+        "word": "张凌赫田曦薇逐玉3月播出",
+        "onboard_time": 1768276580,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117247,
+        "num": 118368,
+        "word": "国产剧拍出了女性之间的凝视",
+        "onboard_time": 1768275620,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118367,
+        "num": 118367,
+        "word": "蹲国考成绩",
+        "onboard_time": 1768274000,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 114858,
+        "num": 114858,
+        "word": "原来每个城市都有自己的旅游季",
+        "onboard_time": 1768276701,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 114071,
+        "num": 114071,
+        "word": "蒋奇明 盖完你的盖你的",
+        "onboard_time": 1768277063,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110862,
+        "num": 110862,
+        "word": "张远唱嘉宾这不就是婚礼吗",
+        "onboard_time": 1768273819,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106501,
+        "num": 106501,
+        "word": "研究发现小腿肌肉多死亡率降一半",
+        "onboard_time": 1768273700,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107732,
+        "num": 106286,
+        "word": "沈梦辰说何炅是自己最大的安全感",
+        "onboard_time": 1768274181,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105673,
+        "num": 105673,
+        "word": "A股GEO概念大幅高开",
+        "onboard_time": 1768277179,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 104368,
+        "num": 104368,
+        "word": "iPhone无感通话录音技巧",
+        "onboard_time": 1768276880,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 103967,
+        "num": 103967,
+        "word": "摄影师吐槽艺人互勉拍照不配合",
+        "onboard_time": 1768268060,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届中央纪委五次全会召开#"
+    }
+  }
+}

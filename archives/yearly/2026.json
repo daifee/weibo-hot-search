@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768276391583,
+  "endTime": 1768277254961,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -891,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 888305,
+      "num": 277939,
+      "word": "陈楚河承认恋情",
+      "onboard_time": 1768273340,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 882691,
       "num": 1141230,
       "word": "双胞胎姐妹分别取名灿和烂",
@@ -1297,14 +1305,6 @@
       "onboard_time": 1767505463,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 755103,
-      "num": 225797,
-      "word": "陈楚河承认恋情",
-      "onboard_time": 1768273340,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 752697,
@@ -1779,6 +1779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 644914,
+      "num": 225651,
+      "word": "黄金又急跌",
+      "onboard_time": 1768272980,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 644519,
       "num": 191675,
       "word": "冯小刚女儿颜值",
@@ -1961,6 +1969,14 @@
       "onboard_time": 1767195508,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 613601,
+      "num": 277908,
+      "word": "妻子隐私被丈夫发到亲友群后自杀",
+      "onboard_time": 1768275501,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 612160,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1768210043,
       "rank": 21,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 558513,
-      "num": 1030792,
-      "word": "吃蒜 偏头痛",
-      "onboard_time": 1767346820,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 558510,
-      "num": 558510,
-      "word": "武大靖自曝从床爬到洗手间要半小时",
-      "onboard_time": 1767743480,
-      "rank": 6,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
