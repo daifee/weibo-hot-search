@@ -1,6 +1,6 @@
 {
   "startTime": 1768235820030,
-  "endTime": 1768270049465,
+  "endTime": 1768271529113,
   "band_list": [
     {
       "raw_hot": 1195104,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 816335,
-      "num": 113770,
+      "num": 122514,
       "word": "曝童锦程女友怀孕",
       "onboard_time": 1768266620,
       "rank": 20,
@@ -32,6 +32,14 @@
       "word": "萧亚轩前男友黄皓官宣二胎",
       "onboard_time": 1768259957,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 513702,
+      "num": 125775,
+      "word": "刘嘉玲接受章泽天采访家中装修曝光",
+      "onboard_time": 1768268720,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -59,8 +67,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 420044,
-      "num": 120485,
+      "raw_hot": 429317,
+      "num": 125555,
       "word": "有3个睡眠习惯的人更易患癌",
       "onboard_time": 1768267999,
       "rank": 11,
@@ -76,9 +84,17 @@
     },
     {
       "raw_hot": 377301,
-      "num": 119062,
+      "num": 122995,
       "word": "代旭儿子小名叫代劲",
       "onboard_time": 1768260198,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 356671,
+      "num": 125425,
+      "word": "代旭尹雨航",
+      "onboard_time": 1768266680,
       "rank": 17,
       "category": "艺人"
     },
@@ -99,24 +115,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 318934,
-      "num": 118073,
-      "word": "刘嘉玲接受章泽天采访家中装修曝光",
-      "onboard_time": 1768268720,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 317479,
-      "num": 115240,
-      "word": "代旭尹雨航",
-      "onboard_time": 1768266680,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 296789,
-      "num": 112689,
+      "num": 122433,
       "word": "气血足的人头发有3个特征",
       "onboard_time": 1768268839,
       "rank": 21,
@@ -128,6 +128,14 @@
       "word": "宋祖儿我都不敢想能出现在你们面前",
       "onboard_time": 1768259417,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 294314,
+      "num": 123444,
+      "word": "摄影师吐槽艺人互勉拍照不配合",
+      "onboard_time": 1768268060,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 259067,
-      "num": 117236,
+      "num": 123398,
       "word": "杨紫迪丽热巴新剧或对打",
       "onboard_time": 1768261939,
       "rank": 15,
@@ -163,6 +171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 232828,
+      "num": 232828,
+      "word": "金饰克价涨到1432元",
+      "onboard_time": 1768269679,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 223798,
       "num": 486705,
       "word": "肖战网文排名前五演了四个",
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 222044,
-      "num": 111446,
+      "num": 122109,
       "word": "张翅 小黄萝卜",
       "onboard_time": 1768262479,
       "rank": 22,
@@ -203,14 +219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202171,
-      "num": 114717,
-      "word": "摄影师吐槽艺人互勉拍照不配合",
-      "onboard_time": 1768268060,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196347,
       "num": 196347,
       "word": "微信通知显示头像",
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 188945,
-      "num": 110742,
+      "num": 122269,
       "word": "鹿晗又去看粉丝祝福墙了",
       "onboard_time": 1768260198,
       "rank": 15,
@@ -259,12 +267,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 173372,
+      "num": 121977,
+      "word": "为什么睡够8小时还很累",
+      "onboard_time": 1768268060,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 170647,
       "num": 170647,
       "word": "贪官和家人坐公务飞机四处旅游",
       "onboard_time": 1768226902,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 169377,
+      "num": 123177,
+      "word": "只有健身的才知道她有多厉害",
+      "onboard_time": 1768261519,
+      "rank": 16,
+      "category": "运动健身"
     },
     {
       "raw_hot": 166876,
@@ -299,12 +323,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 157426,
-      "num": 116226,
-      "word": "只有健身的才知道她有多厉害",
-      "onboard_time": 1768261519,
-      "rank": 16,
-      "category": "运动健身"
+      "raw_hot": 156680,
+      "num": 122898,
+      "word": "刨猪汤",
+      "onboard_time": 1768270640,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154065,
@@ -355,14 +379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133009,
-      "num": 109561,
-      "word": "为什么睡够8小时还很累",
-      "onboard_time": 1768268060,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 132400,
       "num": 132400,
       "word": "娇兰你好事做尽",
@@ -395,6 +411,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 126090,
+      "num": 126090,
+      "word": "今年三九暖得不像冬天",
+      "onboard_time": 1768271359,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124414,
       "num": 80169,
       "word": "复旦大学博士生威海追暴雪",
@@ -403,12 +427,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122625,
-      "num": 98783,
-      "word": "金饰克价涨到1432元",
-      "onboard_time": 1768269679,
-      "rank": 30,
-      "category": "财经"
+      "raw_hot": 121879,
+      "num": 121879,
+      "word": "用药可控制近视度数增加",
+      "onboard_time": 1768262059,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 121418,
@@ -419,20 +443,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 118724,
+      "num": 118724,
+      "word": "宋威龙赵今麦退场",
+      "onboard_time": 1768269138,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116989,
       "num": 124548,
       "word": "张雨绮 我的身材很曼妙",
       "onboard_time": 1768222461,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114309,
-      "num": 114309,
-      "word": "用药可控制近视度数增加",
-      "onboard_time": 1768262059,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 109016,
@@ -451,6 +475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 108721,
+      "num": 100245,
+      "word": "旺仔牛奶的尽头是小馒头",
+      "onboard_time": 1768269799,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108607,
       "num": 106448,
       "word": "张翅工作室发长文否认网传恋情",
@@ -467,20 +499,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105188,
+      "num": 105188,
+      "word": "伊朗如遭攻击将给美国永生难忘的教训",
+      "onboard_time": 1768270160,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 103665,
       "num": 97044,
       "word": "网友喊话章泽天对话刘强东",
       "onboard_time": 1768264702,
       "rank": 32,
       "category": "网红"
-    },
-    {
-      "raw_hot": 101649,
-      "num": 96465,
-      "word": "旺仔牛奶的尽头是小馒头",
-      "onboard_time": 1768269799,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 100879,
@@ -515,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98550,
+      "num": 98550,
+      "word": "男子回应再婚被双胞胎儿子送上婚车",
+      "onboard_time": 1768270819,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97205,
       "num": 124542,
       "word": "十日终焉",
@@ -523,10 +563,18 @@
       "category": "电影"
     },
     {
-      "raw_hot": 95904,
-      "num": 95904,
-      "word": "宋威龙赵今麦退场",
-      "onboard_time": 1768269138,
+      "raw_hot": 96079,
+      "num": 96079,
+      "word": "曝苹果买OPPO折叠屏拆机",
+      "onboard_time": 1768270999,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 96079,
+      "num": 96079,
+      "word": "萧亚轩黄皓于感情维持约三年",
+      "onboard_time": 1768271181,
       "rank": 34,
       "category": "艺人"
     },
@@ -563,6 +611,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93587,
+      "num": 93587,
+      "word": "谁给了网格员强行入户的权力",
+      "onboard_time": 1768271239,
+      "rank": 35,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 91050,
+      "num": 91050,
+      "word": "孙颖莎路都是自己走出来的",
+      "onboard_time": 1768270039,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 89305,
+      "num": 89305,
+      "word": "教育部拟同意设置14所本科高校",
+      "onboard_time": 1768270459,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 87857,
       "num": 124531,
       "word": "杀猪来了上千网友做清洁只剩妈妈一人",
@@ -577,6 +649,14 @@
       "onboard_time": 1768266080,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 86338,
+      "num": 88926,
+      "word": "长春居民因客厅放床被停燃气20天",
+      "onboard_time": 1768271239,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 85338,
@@ -603,6 +683,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 82980,
+      "num": 82980,
+      "word": "所有小猫钻被窝的统一流程",
+      "onboard_time": 1768271359,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82392,
       "num": 124529,
       "word": "苏新皓 我们会一直在一起的",
@@ -617,6 +705,22 @@
       "onboard_time": 1768266260,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 81946,
+      "num": 81946,
+      "word": "呆呆杀猪宴后厨发声",
+      "onboard_time": 1768270520,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81909,
+      "num": 77484,
+      "word": "村民都没吃上呆呆杀猪饭",
+      "onboard_time": 1768271181,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80743,
@@ -641,6 +745,14 @@
       "onboard_time": 1768269619,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75333,
+      "num": 75333,
+      "word": "老股民1周绝对收益超打工1年收入",
+      "onboard_time": 1768268780,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 74053,
@@ -761,6 +873,14 @@
       "onboard_time": 1768230380,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61532,
+      "num": 122759,
+      "word": "特朗普称将对伊朗商业伙伴加征25%关税",
+      "onboard_time": 1768270579,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 59588,
@@ -945,6 +1065,14 @@
       "onboard_time": 1768237636,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27159,
+      "num": 88971,
+      "word": "司机称帮老板贷款3750万公司破产",
+      "onboard_time": 1768271239,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26687,
