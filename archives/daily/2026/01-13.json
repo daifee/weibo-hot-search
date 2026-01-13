@@ -1,6 +1,6 @@
 {
   "startTime": 1768235820030,
-  "endTime": 1768316042015,
+  "endTime": 1768318508585,
   "band_list": [
     {
       "raw_hot": 2536475,
@@ -73,6 +73,14 @@
       "onboard_time": 1768297821,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1030323,
+      "num": 229458,
+      "word": "死了么APP宣布改名",
+      "onboard_time": 1768315822,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 972932,
@@ -275,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 493685,
+      "num": 296661,
+      "word": "日本餐厅墙壁女尸身份确认",
+      "onboard_time": 1768314263,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 492957,
       "num": 606564,
       "word": "轧戏",
@@ -356,7 +372,7 @@
     },
     {
       "raw_hot": 423705,
-      "num": 210514,
+      "num": 217626,
       "word": "何晴儿子称许亚军给自己莫大支持",
       "onboard_time": 1768312343,
       "rank": 33,
@@ -369,6 +385,14 @@
       "onboard_time": 1768307482,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 412025,
+      "num": 222073,
+      "word": "王鹤棣宋茜王嘉尔周冬雨手挽手",
+      "onboard_time": 1768315163,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 403043,
@@ -707,14 +731,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 296661,
-      "num": 296661,
-      "word": "日本餐厅墙壁女尸身份确认",
-      "onboard_time": 1768314263,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 294757,
       "num": 108987,
       "word": "宋祖儿我都不敢想能出现在你们面前",
@@ -859,14 +875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 252997,
-      "num": 205686,
-      "word": "王鹤棣宋茜王嘉尔周冬雨手挽手",
-      "onboard_time": 1768315163,
-      "rank": 18,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 252457,
       "num": 252457,
       "word": "张钧甯妈妈发言这一段",
@@ -889,14 +897,6 @@
       "onboard_time": 1768276940,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 247856,
-      "num": 205858,
-      "word": "死了么APP宣布改名",
-      "onboard_time": 1768315822,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 247140,
@@ -1123,6 +1123,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 201397,
+      "num": 143881,
+      "word": "BBC报道死了么APP",
+      "onboard_time": 1768317562,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 200139,
       "num": 200139,
       "word": "呆呆曾问父母猪被吃完是否介意",
@@ -1179,12 +1187,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195565,
+      "num": 183316,
+      "word": "13岁男孩泡澡20分钟脑出血",
+      "onboard_time": 1768316602,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194385,
       "num": 109098,
       "word": "吴昕没看出杜海涛沈梦辰恋爱",
       "onboard_time": 1768293982,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193537,
+      "num": 193537,
+      "word": "LV活动大合照",
+      "onboard_time": 1768315763,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 192802,
@@ -1299,8 +1323,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180116,
+      "num": 170434,
+      "word": "A股",
+      "onboard_time": 1768317503,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 179344,
-      "num": 209676,
+      "num": 231558,
       "word": "LV三里屯新店开幕",
       "onboard_time": 1768314083,
       "rank": 12,
@@ -1321,6 +1353,14 @@
       "onboard_time": 1768276101,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177817,
+      "num": 296340,
+      "word": "00后新警一根针保住126万",
+      "onboard_time": 1768316002,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176966,
@@ -1619,20 +1659,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 149011,
+      "num": 149011,
+      "word": "原来羽绒服可以这么洗",
+      "onboard_time": 1768312584,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148069,
       "num": 313857,
       "word": "内蒙古小学校服薄膜调查结果",
       "onboard_time": 1768303341,
       "rank": 14,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 147444,
-      "num": 147444,
-      "word": "原来羽绒服可以这么洗",
-      "onboard_time": 1768312584,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 147402,
@@ -1729,6 +1769,14 @@
       "onboard_time": 1768313962,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142432,
+      "num": 142432,
+      "word": "金价",
+      "onboard_time": 1768317681,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 141039,
@@ -1907,6 +1955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128471,
+      "num": 128471,
+      "word": "看得出王圣迪是公主",
+      "onboard_time": 1768317800,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128402,
       "num": 140335,
       "word": "EDG官宣Clearlove回归",
@@ -1929,6 +1985,14 @@
       "onboard_time": 1768241834,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126807,
+      "num": 126807,
+      "word": "徐老师宋威龙赵今麦合拍",
+      "onboard_time": 1768316244,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 126501,
@@ -2001,6 +2065,14 @@
       "onboard_time": 1768260078,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124127,
+      "num": 192615,
+      "word": "Demumu",
+      "onboard_time": 1768316482,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 122999,
@@ -2177,14 +2249,6 @@
       "onboard_time": 1768289241,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 117199,
-      "num": 117199,
-      "word": "LV活动大合照",
-      "onboard_time": 1768315763,
-      "rank": 42,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 116989,
@@ -2523,6 +2587,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 105621,
+      "num": 129259,
+      "word": "女子连续4天在餐馆门口趴地不起",
+      "onboard_time": 1768316841,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105472,
       "num": 120154,
       "word": "为什么有人不看朋友圈了",
@@ -2649,6 +2721,14 @@
       "onboard_time": 1768294822,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102468,
+      "num": 102468,
+      "word": "Desire4训练营",
+      "onboard_time": 1768318402,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 102230,
@@ -2867,6 +2947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94663,
+      "num": 127214,
+      "word": "推特崩了",
+      "onboard_time": 1768318283,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 94196,
       "num": 94196,
       "word": "杨洋开年刊封面",
@@ -2985,6 +3073,14 @@
       "onboard_time": 1768270459,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 88333,
+      "num": 115689,
+      "word": "工行APP 进不去",
+      "onboard_time": 1768316542,
+      "rank": 44,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 87898,
@@ -3249,6 +3345,14 @@
       "onboard_time": 1768302622,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77160,
+      "num": 126830,
+      "word": "遥感五十号01星发射成功",
+      "onboard_time": 1768317083,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 75481,
@@ -3563,14 +3667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 53700,
-      "num": 119907,
-      "word": "00后新警一根针保住126万",
-      "onboard_time": 1768316002,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53644,
       "num": 124477,
       "word": "章若楠胸前好大一朵花",
@@ -3699,6 +3795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39542,
+      "num": 785146,
+      "word": "2025有3000场大型营业性演出",
+      "onboard_time": 1768314022,
+      "rank": 2,
+      "category": "演出"
+    },
+    {
       "raw_hot": 39263,
       "num": 675090,
       "word": "自主研发电力示范机组实现核心技术突破",
@@ -3721,14 +3825,6 @@
       "onboard_time": 1768260378,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 37174,
-      "num": 785146,
-      "word": "2025有3000场大型营业性演出",
-      "onboard_time": 1768314022,
-      "rank": 2,
-      "category": "演出"
     },
     {
       "raw_hot": 35475,
@@ -4041,6 +4137,14 @@
       "onboard_time": 1768201641,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6720,
+      "num": 128559,
+      "word": "张杰继逆战后又一全新战歌",
+      "onboard_time": 1768318461,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 6610,

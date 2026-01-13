@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/13 22:54:02
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/13 23:35:08
 </p>
 </blockquote>
 <p>
@@ -515,6 +515,12 @@ LV活动（热度：1044426）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%B0%8F%E4%BE%BF%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%99%BB%E6%8A%A5%E9%81%93%E6%AD%89%23" target="weibo">
 海底捞小便当事人登报道歉（热度：1034811）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%BB%E4%BA%86%E4%B9%88APP%E5%AE%A3%E5%B8%83%E6%94%B9%E5%90%8D%23" target="weibo">
+死了么APP宣布改名（热度：1030323）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ AI照片竟然拿了摄影比赛第一名（热度：667067）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E4%B8%80%E4%B8%AA%E6%9C%88%E5%86%85%E7%9B%B8%E7%BB%A7%E7%A6%BB%E4%B8%96%E5%A5%B3%E5%AD%A9%E7%8B%AC%E8%87%AA%E6%8A%A5%E4%B8%A7%23" target="weibo">
 父母一个月内相继离世女孩独自报丧（热度：578847）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%8B%B1%E8%87%AA%E6%9B%9D%E8%A2%AB%E4%B8%8A%E6%8B%89%E5%A6%82%E8%BA%AB%E8%BE%B9%E4%BA%BA%E6%AC%BA%E8%B4%9F%23" target="weibo">
-小英自曝被上拉如身边人欺负（热度：578694）
 </a>
 </li>
 

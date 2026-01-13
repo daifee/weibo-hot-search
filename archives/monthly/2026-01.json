@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768316042015,
+  "endTime": 1768318508585,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -673,6 +673,14 @@
       "onboard_time": 1767841700,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1030323,
+      "num": 229458,
+      "word": "死了么APP宣布改名",
+      "onboard_time": 1768315822,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 1029154,
@@ -3523,6 +3531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 493685,
+      "num": 296661,
+      "word": "日本餐厅墙壁女尸身份确认",
+      "onboard_time": 1768314263,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 490924,
       "num": 259191,
       "word": "保温杯里带方便面一年买房了",
@@ -4540,7 +4556,7 @@
     },
     {
       "raw_hot": 423705,
-      "num": 210514,
+      "num": 217626,
       "word": "何晴儿子称许亚军给自己莫大支持",
       "onboard_time": 1768312343,
       "rank": 33,
@@ -4729,6 +4745,14 @@
       "onboard_time": 1767949580,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 412025,
+      "num": 222073,
+      "word": "王鹤棣宋茜王嘉尔周冬雨手挽手",
+      "onboard_time": 1768315163,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 411792,
@@ -7499,14 +7523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 296661,
-      "num": 296661,
-      "word": "日本餐厅墙壁女尸身份确认",
-      "onboard_time": 1768314263,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 296611,
       "num": 1047457,
       "word": "在长城哽咽背诗女孩回应走红",
@@ -9075,14 +9091,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 252997,
-      "num": 205686,
-      "word": "王鹤棣宋茜王嘉尔周冬雨手挽手",
-      "onboard_time": 1768315163,
-      "rank": 18,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 252643,
       "num": 1397167,
       "word": "红包分组",
@@ -9273,14 +9281,6 @@
       "onboard_time": 1768192101,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 247856,
-      "num": 205858,
-      "word": "死了么APP宣布改名",
-      "onboard_time": 1768315822,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 247621,
@@ -11475,6 +11475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201397,
+      "num": 143881,
+      "word": "BBC报道死了么APP",
+      "onboard_time": 1768317562,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 201170,
       "num": 236905,
       "word": "82岁外婆翻3米高围栏出门",
@@ -11987,6 +11995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195565,
+      "num": 183316,
+      "word": "13岁男孩泡澡20分钟脑出血",
+      "onboard_time": 1768316602,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195508,
       "num": 195508,
       "word": "迪丽热巴红秀开年刊三封面",
@@ -12169,6 +12185,14 @@
       "onboard_time": 1767537325,
       "rank": 38,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 193537,
+      "num": 193537,
+      "word": "LV活动大合照",
+      "onboard_time": 1768315763,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 193523,
@@ -13524,7 +13548,7 @@
     },
     {
       "raw_hot": 179344,
-      "num": 209676,
+      "num": 231558,
       "word": "LV三里屯新店开幕",
       "onboard_time": 1768314083,
       "rank": 12,
@@ -13665,6 +13689,14 @@
       "onboard_time": 1768033701,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177817,
+      "num": 296340,
+      "word": "00后新警一根针保住126万",
+      "onboard_time": 1768316002,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177793,
@@ -16747,6 +16779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 149011,
+      "num": 149011,
+      "word": "原来羽绒服可以这么洗",
+      "onboard_time": 1768312584,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148966,
       "num": 205593,
       "word": "sakee asen",
@@ -16985,14 +17025,6 @@
       "onboard_time": 1767223996,
       "rank": 23,
       "category": "财经"
-    },
-    {
-      "raw_hot": 147444,
-      "num": 147444,
-      "word": "原来羽绒服可以这么洗",
-      "onboard_time": 1768312584,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 147439,
@@ -19987,6 +20019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128471,
+      "num": 128471,
+      "word": "看得出王圣迪是公主",
+      "onboard_time": 1768317800,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128402,
       "num": 140335,
       "word": "EDG官宣Clearlove回归",
@@ -20305,6 +20345,14 @@
       "onboard_time": 1768129220,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126807,
+      "num": 126807,
+      "word": "徐老师宋威龙赵今麦合拍",
+      "onboard_time": 1768316244,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 126800,
@@ -20849,6 +20897,14 @@
       "onboard_time": 1767947482,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124127,
+      "num": 192615,
+      "word": "Demumu",
+      "onboard_time": 1768316482,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 124083,
@@ -22281,14 +22337,6 @@
       "onboard_time": 1767600741,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117199,
-      "num": 117199,
-      "word": "LV活动大合照",
-      "onboard_time": 1768315763,
-      "rank": 42,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 117197,
@@ -25003,6 +25051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105621,
+      "num": 129259,
+      "word": "女子连续4天在餐馆门口趴地不起",
+      "onboard_time": 1768316841,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105592,
       "num": 421285,
       "word": "美军轰炸委内瑞拉地点曝光",
@@ -25953,6 +26009,14 @@
       "onboard_time": 1767867681,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 102468,
+      "num": 102468,
+      "word": "Desire4训练营",
+      "onboard_time": 1768318402,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 102385,
@@ -28363,6 +28427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94663,
+      "num": 127214,
+      "word": "推特崩了",
+      "onboard_time": 1768318283,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 94616,
       "num": 94616,
       "word": "黄晓明无台词演技",
@@ -30209,6 +30281,14 @@
       "onboard_time": 1768044261,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 88333,
+      "num": 115689,
+      "word": "工行APP 进不去",
+      "onboard_time": 1768316542,
+      "rank": 44,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 88332,
@@ -33305,6 +33385,14 @@
       "onboard_time": 1767941841,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77160,
+      "num": 126830,
+      "word": "遥感五十号01星发射成功",
+      "onboard_time": 1768317083,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 77126,
@@ -37371,14 +37459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 53700,
-      "num": 119907,
-      "word": "00后新警一根针保住126万",
-      "onboard_time": 1768316002,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53542,
       "num": 1092592,
       "word": "尹锡悦桑拿房藏总统办公室暗门后",
@@ -39339,6 +39419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39542,
+      "num": 785146,
+      "word": "2025有3000场大型营业性演出",
+      "onboard_time": 1768314022,
+      "rank": 2,
+      "category": "演出"
+    },
+    {
       "raw_hot": 39524,
       "num": 444606,
       "word": "陈立农赶鸭子上架奈何真不会",
@@ -39681,14 +39769,6 @@
       "onboard_time": 1767427945,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 37174,
-      "num": 785146,
-      "word": "2025有3000场大型营业性演出",
-      "onboard_time": 1768314022,
-      "rank": 2,
-      "category": "演出"
     },
     {
       "raw_hot": 37132,
@@ -43105,6 +43185,14 @@
       "onboard_time": 1767845180,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 6720,
+      "num": 128559,
+      "word": "张杰继逆战后又一全新战歌",
+      "onboard_time": 1768318461,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 6706,
