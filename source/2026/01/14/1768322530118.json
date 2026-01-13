@@ -1,0 +1,410 @@
+{
+  "runTime": 1768322530118,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 387057,
+        "num": 749446,
+        "word": "马年纪念币预约",
+        "onboard_time": 1768313484,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 180474,
+        "num": 560409,
+        "word": "2026国考成绩查询",
+        "onboard_time": 1768319539,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 26869,
+        "num": 421191,
+        "word": "2025有3000场大型营业性演出",
+        "onboard_time": 1768314022,
+        "rank": 2,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156595,
+        "num": 403129,
+        "word": "老婆错失年终奖老公婆婆默契补上",
+        "onboard_time": 1768317681,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108201,
+        "num": 386301,
+        "word": "00后新警一根针保住126万",
+        "onboard_time": 1768316002,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106060,
+        "num": 363404,
+        "word": "爱吃车厘子的女生天亮了",
+        "onboard_time": 1768297821,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93528,
+        "num": 333757,
+        "word": "小城大事收视率",
+        "onboard_time": 1768309162,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92869,
+        "num": 290790,
+        "word": "马年纪念币 抢不到",
+        "onboard_time": 1768314142,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 91773,
+        "num": 274985,
+        "word": "抢马钞",
+        "onboard_time": 1768315343,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 88576,
+        "num": 248419,
+        "word": "轧戏官配",
+        "onboard_time": 1768313962,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 634048,
+        "num": 219004,
+        "word": "推特崩了",
+        "onboard_time": 1768318283,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 207123,
+        "num": 207123,
+        "word": "BBC报道死了么APP",
+        "onboard_time": 1768317562,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 163244,
+        "num": 163244,
+        "word": "LV活动大合照",
+        "onboard_time": 1768315763,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 161608,
+        "num": 161608,
+        "word": "西安华清池贵妃裸体出浴雕像引争议",
+        "onboard_time": 1768304721,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135206,
+        "num": 135206,
+        "word": "张杰继逆战后又一全新战歌",
+        "onboard_time": 1768318461,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 100308,
+        "num": 100308,
+        "word": "徐老师宋威龙赵今麦合拍",
+        "onboard_time": 1768316244,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91051,
+        "num": 91051,
+        "word": "女子连续4天在餐馆门口趴地不起",
+        "onboard_time": 1768316841,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87965,
+        "num": 87965,
+        "word": "马币",
+        "onboard_time": 1768314743,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 84260,
+        "num": 84260,
+        "word": "橹穆联排",
+        "onboard_time": 1768309284,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 78265,
+        "num": 78265,
+        "word": "Demumu",
+        "onboard_time": 1768316482,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 641527,
+        "num": 78139,
+        "word": "阿Sa官宣恋情",
+        "onboard_time": 1768303462,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367370,
+        "num": 78093,
+        "word": "迅猛龙 小澈",
+        "onboard_time": 1768292421,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 104872,
+        "num": 78005,
+        "word": "金价",
+        "onboard_time": 1768317681,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 225036,
+        "num": 77772,
+        "word": "王鹤棣宋茜王嘉尔周冬雨手挽手",
+        "onboard_time": 1768315163,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 100540,
+        "num": 77665,
+        "word": "何晴儿子头像仍为全黑",
+        "onboard_time": 1768315343,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91226,
+        "num": 77514,
+        "word": "13岁男孩泡澡20分钟脑出血",
+        "onboard_time": 1768316602,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90584,
+        "num": 77413,
+        "word": "爱吃鸭头的天塌了",
+        "onboard_time": 1768309462,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89134,
+        "num": 77327,
+        "word": "王橹杰手动降温",
+        "onboard_time": 1768319721,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77231,
+        "num": 77231,
+        "word": "金晨LV活动状态",
+        "onboard_time": 1768310304,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 67213,
+        "num": 76672,
+        "word": "韩检方要求判尹锡悦死刑",
+        "onboard_time": 1768308322,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94048,
+        "num": 76560,
+        "word": "何晴儿子称许亚军给自己莫大支持",
+        "onboard_time": 1768312343,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76324,
+        "num": 76324,
+        "word": "章泽天完全不给孩子看社媒",
+        "onboard_time": 1768295241,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75941,
+        "num": 75941,
+        "word": "iPhone自带堪比打印机的软件",
+        "onboard_time": 1768308682,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 75451,
+        "num": 75451,
+        "word": "巩俐压轴",
+        "onboard_time": 1768310423,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 75246,
+        "num": 75246,
+        "word": "高市早苗对李在明尖声喊您好",
+        "onboard_time": 1768321338,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74335,
+        "num": 74335,
+        "word": "杨洋不让江山",
+        "onboard_time": 1768314204,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73725,
+        "num": 73725,
+        "word": "轧戏",
+        "onboard_time": 1768304423,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58197,
+        "num": 71799,
+        "word": "贪官商人一起空手套白狼买企业",
+        "onboard_time": 1768314620,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71323,
+        "num": 71323,
+        "word": "第一次见恋综骂这么狠的",
+        "onboard_time": 1768310962,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67097,
+        "num": 67097,
+        "word": "穆祉丞更新",
+        "onboard_time": 1768314083,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52007,
+        "num": 67075,
+        "word": "贪官曾在机场威胁乘客",
+        "onboard_time": 1768314263,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 63518,
+        "num": 67071,
+        "word": "刘嘉玲遗憾没有像样代表作",
+        "onboard_time": 1768321759,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57611,
+        "num": 67048,
+        "word": "白敬亭LV活动生图",
+        "onboard_time": 1768311143,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 51782,
+        "num": 67010,
+        "word": "原来羽绒服可以这么洗",
+        "onboard_time": 1768312584,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 51758,
+        "num": 67006,
+        "word": "国考",
+        "onboard_time": 1768288881,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 53983,
+        "num": 66976,
+        "word": "归鸾",
+        "onboard_time": 1768322059,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51256,
+        "num": 66946,
+        "word": "这是谁给张予曦选的歌",
+        "onboard_time": 1768319840,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47198,
+        "num": 66929,
+        "word": "LV活动",
+        "onboard_time": 1768302202,
+        "rank": 47,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 49482,
+        "num": 66915,
+        "word": "复联5第四支预告",
+        "onboard_time": 1768317083,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44654,
+        "num": 66881,
+        "word": "A股",
+        "onboard_time": 1768317503,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记的反腐警句#"
+    }
+  }
+}

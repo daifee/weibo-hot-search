@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768319440560,
+  "endTime": 1768322530118,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -569,6 +569,14 @@
       "onboard_time": 1768128200,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 634048,
+      "num": 219004,
+      "word": "推特崩了",
+      "onboard_time": 1768318283,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 629444,
@@ -3028,7 +3036,7 @@
     },
     {
       "raw_hot": 211114,
-      "num": 211114,
+      "num": 333757,
       "word": "小城大事收视率",
       "onboard_time": 1768309162,
       "rank": 45,
@@ -3049,6 +3057,14 @@
       "onboard_time": 1768120822,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207123,
+      "num": 207123,
+      "word": "BBC报道死了么APP",
+      "onboard_time": 1768317562,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 206543,
@@ -3105,14 +3121,6 @@
       "onboard_time": 1768297400,
       "rank": 37,
       "category": "网红"
-    },
-    {
-      "raw_hot": 201397,
-      "num": 143881,
-      "word": "BBC报道死了么APP",
-      "onboard_time": 1768317562,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 200980,
@@ -3468,7 +3476,7 @@
     },
     {
       "raw_hot": 188130,
-      "num": 296340,
+      "num": 386301,
       "word": "00后新警一根针保住126万",
       "onboard_time": 1768316002,
       "rank": 40,
@@ -3657,6 +3665,14 @@
       "onboard_time": 1768302622,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180474,
+      "num": 560409,
+      "word": "2026国考成绩查询",
+      "onboard_time": 1768319539,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 180473,
@@ -4355,6 +4371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156595,
+      "num": 403129,
+      "word": "老婆错失年终奖老公婆婆默契补上",
+      "onboard_time": 1768317681,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156116,
       "num": 156116,
       "word": "明日方舟",
@@ -4780,7 +4804,7 @@
     },
     {
       "raw_hot": 143323,
-      "num": 199152,
+      "num": 248419,
       "word": "轧戏官配",
       "onboard_time": 1768313962,
       "rank": 34,
@@ -5089,6 +5113,14 @@
       "onboard_time": 1768138523,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135206,
+      "num": 192489,
+      "word": "张杰继逆战后又一全新战歌",
+      "onboard_time": 1768318461,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 135195,
@@ -6707,14 +6739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107123,
-      "num": 192489,
-      "word": "张杰继逆战后又一全新战歌",
-      "onboard_time": 1768318461,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 106867,
       "num": 146968,
       "word": "尹锡悦案庭审",
@@ -7185,14 +7209,6 @@
       "onboard_time": 1768184239,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 101762,
-      "num": 190806,
-      "word": "推特崩了",
-      "onboard_time": 1768318283,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 101717,
@@ -8155,6 +8171,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 89134,
+      "num": 77327,
+      "word": "王橹杰手动降温",
+      "onboard_time": 1768319721,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88680,
       "num": 88680,
       "word": "主人不在家 我下地嘎油嘎油",
@@ -9099,6 +9123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75246,
+      "num": 75246,
+      "word": "高市早苗对李在明尖声喊您好",
+      "onboard_time": 1768321338,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 75237,
       "num": 115066,
       "word": "陈梦小城大事拿菜刀打球",
@@ -9595,6 +9627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63518,
+      "num": 67071,
+      "word": "刘嘉玲遗憾没有像样代表作",
+      "onboard_time": 1768321759,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63391,
       "num": 146705,
       "word": "汕头突发山火暂无人员伤亡",
@@ -9923,6 +9963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53983,
+      "num": 66976,
+      "word": "归鸾",
+      "onboard_time": 1768322059,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 52722,
       "num": 133579,
       "word": "骄阳心有林曦参加娇兰晚宴",
@@ -9977,6 +10025,14 @@
       "onboard_time": 1768097540,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 51256,
+      "num": 66946,
+      "word": "这是谁给张予曦选的歌",
+      "onboard_time": 1768319840,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 51184,
@@ -10041,6 +10097,14 @@
       "onboard_time": 1768157474,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49482,
+      "num": 66915,
+      "word": "复联5第四支预告",
+      "onboard_time": 1768317083,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 48575,

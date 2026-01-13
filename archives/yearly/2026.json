@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768319440560,
+  "endTime": 1768322530118,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1987,6 +1987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 634048,
+      "num": 219004,
+      "word": "推特崩了",
+      "onboard_time": 1768318283,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 633524,
       "num": 355471,
       "word": "王祖贤眼睛怎么了",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767680901,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 578847,
-      "num": 578847,
-      "word": "父母一个月内相继离世女孩独自报丧",
-      "onboard_time": 1767617901,
-      "rank": 15,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

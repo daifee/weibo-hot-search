@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768319440560,
+  "endTime": 1768322530118,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1985,6 +1985,14 @@
       "onboard_time": 1767792444,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 634048,
+      "num": 219004,
+      "word": "推特崩了",
+      "onboard_time": 1768318283,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 633524,
@@ -10924,7 +10932,7 @@
     },
     {
       "raw_hot": 211114,
-      "num": 211114,
+      "num": 333757,
       "word": "小城大事收视率",
       "onboard_time": 1768309162,
       "rank": 45,
@@ -11153,6 +11161,14 @@
       "onboard_time": 1768120822,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207123,
+      "num": 207123,
+      "word": "BBC报道死了么APP",
+      "onboard_time": 1768317562,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 206721,
@@ -11481,14 +11497,6 @@
       "onboard_time": 1767853879,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 201397,
-      "num": 143881,
-      "word": "BBC报道死了么APP",
-      "onboard_time": 1768317562,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 201170,
@@ -12700,7 +12708,7 @@
     },
     {
       "raw_hot": 188130,
-      "num": 296340,
+      "num": 386301,
       "word": "00后新警一根针保住126万",
       "onboard_time": 1768316002,
       "rank": 40,
@@ -13489,6 +13497,14 @@
       "onboard_time": 1767255081,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 180474,
+      "num": 560409,
+      "word": "2026国考成绩查询",
+      "onboard_time": 1768319539,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 180377,
@@ -15995,6 +16011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156595,
+      "num": 403129,
+      "word": "老婆错失年终奖老公婆婆默契补上",
+      "onboard_time": 1768317681,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156594,
       "num": 125122,
       "word": "官方通报小学校服有薄膜",
@@ -17564,7 +17588,7 @@
     },
     {
       "raw_hot": 143323,
-      "num": 199152,
+      "num": 248419,
       "word": "轧戏官配",
       "onboard_time": 1768313962,
       "rank": 34,
@@ -18945,6 +18969,14 @@
       "onboard_time": 1768138523,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135206,
+      "num": 192489,
+      "word": "张杰继逆战后又一全新战歌",
+      "onboard_time": 1768318461,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 135197,
@@ -24595,14 +24627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107123,
-      "num": 192489,
-      "word": "张杰继逆战后又一全新战歌",
-      "onboard_time": 1768318461,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 107117,
       "num": 107117,
       "word": "去宜家等闭店清仓的人都想一块了",
@@ -26217,14 +26241,6 @@
       "onboard_time": 1767844940,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 101762,
-      "num": 190806,
-      "word": "推特崩了",
-      "onboard_time": 1768318283,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 101722,
@@ -30115,6 +30131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89134,
+      "num": 77327,
+      "word": "王橹杰手动降温",
+      "onboard_time": 1768319721,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89074,
       "num": 89074,
       "word": "檀健次何不同舟渡谢却山定妆",
@@ -33867,6 +33891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75246,
+      "num": 75246,
+      "word": "高市早苗对李在明尖声喊您好",
+      "onboard_time": 1768321338,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 75237,
       "num": 115066,
       "word": "陈梦小城大事拿菜刀打球",
@@ -36091,6 +36123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63518,
+      "num": 67071,
+      "word": "刘嘉玲遗憾没有像样代表作",
+      "onboard_time": 1768321759,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63483,
       "num": 110786,
       "word": "商家已注明孩童不能进异性浴场",
@@ -37795,6 +37835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 51256,
+      "num": 66946,
+      "word": "这是谁给张予曦选的歌",
+      "onboard_time": 1768319840,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51249,
       "num": 728638,
       "word": "一些邪修管用的小知识",
@@ -37993,6 +38041,14 @@
       "onboard_time": 1767425905,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 49482,
+      "num": 66915,
+      "word": "复联5第四支预告",
+      "onboard_time": 1768317083,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 49349,

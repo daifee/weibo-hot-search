@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/13 23:50:40
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/14 00:42:10
 </p>
 </blockquote>
 <p>
@@ -1499,6 +1499,12 @@ AI照片竟然拿了摄影比赛第一名（热度：667067）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%80%A9%E5%BC%A0%E9%9B%A8%E5%89%91%E5%A5%B3%E5%84%BF%E6%9C%89%E5%A4%9A%E5%8F%AF%E7%88%B1%23" target="weibo">
 吴倩张雨剑女儿有多可爱（热度：634123）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8E%A8%E7%89%B9%E5%B4%A9%E4%BA%86%23" target="weibo">
+推特崩了（热度：634048）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone自带堪比打印机的软件（热度：315415）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BA%A2%E7%A7%80%E5%BC%80%E5%B9%B4%E5%B0%81%E9%9D%A2%23" target="weibo">
 迪丽热巴红秀开年封面（热度：279552）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%23" target="weibo">
-再见爱人（热度：279542）
 </a>
 </li>
 
