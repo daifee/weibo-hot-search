@@ -1,0 +1,410 @@
+{
+  "runTime": 1768286694284,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 555984,
+        "num": 1088957,
+        "word": "中方已经保持最大限度忍耐和克制",
+        "onboard_time": 1768283241,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 218891,
+        "num": 776349,
+        "word": "老干妈创始人出山救子又赚翻了",
+        "onboard_time": 1768226783,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 6610,
+        "num": 649940,
+        "word": "2026开年新政红利持续释放",
+        "onboard_time": 1768286481,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388573,
+        "num": 388573,
+        "word": "祯娘传",
+        "onboard_time": 1768274360,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272144,
+        "num": 272144,
+        "word": "吴磊陈都灵合作",
+        "onboard_time": 1768284141,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1046307,
+        "num": 267203,
+        "word": "警犬被通报批评",
+        "onboard_time": 1768283660,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 337864,
+        "num": 265799,
+        "word": "代旭孟宴臣2.0",
+        "onboard_time": 1768283479,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253329,
+        "num": 253329,
+        "word": "台甜品店因用青提二字被骂滚出台湾",
+        "onboard_time": 1768282041,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180701,
+        "num": 180701,
+        "word": "永辉超市2025净利润为负",
+        "onboard_time": 1768281021,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 179142,
+        "num": 179142,
+        "word": "上海去年婚姻登记17万对",
+        "onboard_time": 1768277063,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401442,
+        "num": 178966,
+        "word": "苏州巨响",
+        "onboard_time": 1768283421,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381882,
+        "num": 178813,
+        "word": "刘亦菲 淡季旺季都不上班",
+        "onboard_time": 1768278022,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314638,
+        "num": 178746,
+        "word": "妻子隐私被丈夫发到亲友群后自杀",
+        "onboard_time": 1768275501,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273990,
+        "num": 178552,
+        "word": "玉茗茶骨圆房吻",
+        "onboard_time": 1768282582,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211609,
+        "num": 178214,
+        "word": "买过很贵但不后悔的东西",
+        "onboard_time": 1768284321,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195971,
+        "num": 178065,
+        "word": "原来看到帅哥眼睛真的会亮",
+        "onboard_time": 1768285760,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192905,
+        "num": 177995,
+        "word": "长期独居后的真实感受",
+        "onboard_time": 1768283839,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187510,
+        "num": 177725,
+        "word": "脂包骨身材是什么",
+        "onboard_time": 1768280122,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 183297,
+        "num": 177530,
+        "word": "代旭 开始考古了意味着什么",
+        "onboard_time": 1768281499,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177432,
+        "num": 177432,
+        "word": "尹雨航和鹿晗演过双胞胎",
+        "onboard_time": 1768275980,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122999,
+        "num": 122999,
+        "word": "旅游了一整年但是不快乐",
+        "onboard_time": 1768284321,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 386378,
+        "num": 122990,
+        "word": "鹅妈妈为小澈发声",
+        "onboard_time": 1768283121,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 23354,
+        "num": 122909,
+        "word": "水上大国重器又要上新了",
+        "onboard_time": 1768286120,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153940,
+        "num": 122859,
+        "word": "十日终焉是今年最重视的男频剧",
+        "onboard_time": 1768276940,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149755,
+        "num": 122812,
+        "word": "港媒曝徐冬冬疑似怀孕",
+        "onboard_time": 1768286422,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115017,
+        "num": 122725,
+        "word": "金粒门",
+        "onboard_time": 1768286180,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122722,
+        "num": 122722,
+        "word": "曝童锦程女友怀孕",
+        "onboard_time": 1768266620,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119491,
+        "num": 119491,
+        "word": "现在就出发3",
+        "onboard_time": 1768284800,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110482,
+        "num": 110482,
+        "word": "女医学生被前男友杀害藏尸细节披露",
+        "onboard_time": 1768277243,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109337,
+        "num": 109337,
+        "word": "小黄豆回应去医院查艾滋病",
+        "onboard_time": 1768277902,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 105420,
+        "num": 105420,
+        "word": "金粒门被曝厨房脏臭生产日期造假",
+        "onboard_time": 1768286240,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104859,
+        "num": 104859,
+        "word": "黄金又急跌",
+        "onboard_time": 1768272980,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100168,
+        "num": 100168,
+        "word": "蹲国考成绩",
+        "onboard_time": 1768274000,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 97472,
+        "num": 97472,
+        "word": "御赐小仵作2",
+        "onboard_time": 1768281861,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96576,
+        "num": 96576,
+        "word": "宋威龙赵今麦切蛋糕合影",
+        "onboard_time": 1768282582,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95068,
+        "num": 95068,
+        "word": "4199元一瓶的茅台上线首日被秒空",
+        "onboard_time": 1768285820,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 94002,
+        "num": 94002,
+        "word": "这种苗条身材可能比纯胖更危险",
+        "onboard_time": 1768286240,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 76122,
+        "num": 93192,
+        "word": "贪官妻子一句暗语商人就送房",
+        "onboard_time": 1768276461,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 63599,
+        "num": 92917,
+        "word": "十日终焉正在置景",
+        "onboard_time": 1768286600,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92911,
+        "num": 92911,
+        "word": "第一次看求婚后的对话记录",
+        "onboard_time": 1768286000,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92883,
+        "num": 92883,
+        "word": "微博之夜",
+        "onboard_time": 1768275261,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92330,
+        "num": 92330,
+        "word": "赵樱子曝某女星爱半夜喝酒",
+        "onboard_time": 1768278204,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89696,
+        "num": 89696,
+        "word": "59岁女子回应高龄产子",
+        "onboard_time": 1768286540,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90487,
+        "num": 89676,
+        "word": "尹雨航演过家有儿女",
+        "onboard_time": 1768281980,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 87512,
+        "num": 87512,
+        "word": "老干妈为节省成本味道变了",
+        "onboard_time": 1768285881,
+        "rank": 44,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 84766,
+        "num": 84766,
+        "word": "快乐老友记",
+        "onboard_time": 1768285460,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83784,
+        "num": 83784,
+        "word": "终于把iPhone截屏玩明白了",
+        "onboard_time": 1768285760,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 83534,
+        "num": 83534,
+        "word": "遇害女生母亲称听到死刑想当庭大笑",
+        "onboard_time": 1768282161,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82397,
+        "num": 82397,
+        "word": "被字节跳动的食堂震惊到了",
+        "onboard_time": 1768286540,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 81090,
+        "num": 81090,
+        "word": "A股商业航天概念全线爆发",
+        "onboard_time": 1768286660,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记的反腐警句#"
+    }
+  }
+}

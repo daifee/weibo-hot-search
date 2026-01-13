@@ -1,6 +1,6 @@
 {
   "startTime": 1768235820030,
-  "endTime": 1768283374186,
+  "endTime": 1768286694284,
   "band_list": [
     {
       "raw_hot": 1195104,
@@ -9,6 +9,14 @@
       "onboard_time": 1768266260,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1046307,
+      "num": 267203,
+      "word": "警犬被通报批评",
+      "onboard_time": 1768283660,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 913492,
@@ -75,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 555984,
+      "num": 1088957,
+      "word": "中方已经保持最大限度忍耐和克制",
+      "onboard_time": 1768283241,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 513702,
       "num": 277856,
       "word": "刘嘉玲接受章泽天采访家中装修曝光",
@@ -131,12 +147,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 401442,
+      "num": 178966,
+      "word": "苏州巨响",
+      "onboard_time": 1768283421,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 400352,
       "num": 400352,
       "word": "商业航天",
       "onboard_time": 1768272920,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 388573,
+      "num": 762616,
+      "word": "祯娘传",
+      "onboard_time": 1768274360,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 386378,
+      "num": 122990,
+      "word": "鹅妈妈为小澈发声",
+      "onboard_time": 1768283121,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 382622,
@@ -153,14 +193,6 @@
       "onboard_time": 1768260198,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 374363,
-      "num": 762616,
-      "word": "祯娘传",
-      "onboard_time": 1768274360,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 373790,
@@ -201,6 +233,14 @@
       "onboard_time": 1768265600,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 337864,
+      "num": 265799,
+      "word": "代旭孟宴臣2.0",
+      "onboard_time": 1768283479,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 333943,
@@ -283,6 +323,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 273990,
+      "num": 178552,
+      "word": "玉茗茶骨圆房吻",
+      "onboard_time": 1768282582,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 272144,
+      "num": 272144,
+      "word": "吴磊陈都灵合作",
+      "onboard_time": 1768284141,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 270478,
       "num": 243237,
       "word": "杨紫迪丽热巴新剧或对打",
@@ -305,6 +361,14 @@
       "onboard_time": 1768230321,
       "rank": 6,
       "category": "数码"
+    },
+    {
+      "raw_hot": 253329,
+      "num": 253329,
+      "word": "台甜品店因用青提二字被骂滚出台湾",
+      "onboard_time": 1768282041,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 252457,
@@ -419,6 +483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 211609,
+      "num": 178214,
+      "word": "买过很贵但不后悔的东西",
+      "onboard_time": 1768284321,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 202469,
       "num": 202469,
       "word": "代旭掀桌了",
@@ -427,20 +499,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198287,
-      "num": 198287,
-      "word": "台甜品店因用青提二字被骂滚出台湾",
-      "onboard_time": 1768282041,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 196347,
       "num": 196347,
       "word": "微信通知显示头像",
       "onboard_time": 1768208120,
       "rank": 8,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 195971,
+      "num": 178065,
+      "word": "原来看到帅哥眼睛真的会亮",
+      "onboard_time": 1768285760,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192905,
+      "num": 177995,
+      "word": "长期独居后的真实感受",
+      "onboard_time": 1768283839,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 192802,
@@ -513,6 +593,14 @@
       "onboard_time": 1768272739,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 179142,
+      "num": 204627,
+      "word": "上海去年婚姻登记17万对",
+      "onboard_time": 1768277063,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178968,
@@ -651,12 +739,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 152034,
-      "num": 152034,
-      "word": "玉茗茶骨圆房吻",
-      "onboard_time": 1768282582,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 149755,
+      "num": 122812,
+      "word": "港媒曝徐冬冬疑似怀孕",
+      "onboard_time": 1768286422,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 146892,
@@ -673,14 +761,6 @@
       "onboard_time": 1768261579,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 146557,
-      "num": 204627,
-      "word": "上海去年婚姻登记17万对",
-      "onboard_time": 1768277063,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144397,
@@ -835,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122999,
+      "num": 122999,
+      "word": "旅游了一整年但是不快乐",
+      "onboard_time": 1768284321,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121879,
       "num": 121879,
       "word": "用药可控制近视度数增加",
@@ -881,6 +969,14 @@
       "onboard_time": 1768277121,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 119491,
+      "num": 119491,
+      "word": "现在就出发3",
+      "onboard_time": 1768284800,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 118724,
@@ -939,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115017,
+      "num": 122725,
+      "word": "金粒门",
+      "onboard_time": 1768286180,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114858,
       "num": 114858,
       "word": "原来每个城市都有自己的旅游季",
@@ -961,14 +1065,6 @@
       "onboard_time": 1768276580,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112118,
-      "num": 112118,
-      "word": "鹅妈妈为小澈发声",
-      "onboard_time": 1768283121,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 112086,
@@ -1073,6 +1169,14 @@
       "onboard_time": 1768277179,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 105420,
+      "num": 105420,
+      "word": "金粒门被曝厨房脏臭生产日期造假",
+      "onboard_time": 1768286240,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104424,
@@ -1259,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95068,
+      "num": 95068,
+      "word": "4199元一瓶的茅台上线首日被秒空",
+      "onboard_time": 1768285820,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 94943,
       "num": 124534,
       "word": "十日终焉开机时间",
@@ -1275,12 +1387,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94002,
+      "num": 94002,
+      "word": "这种苗条身材可能比纯胖更危险",
+      "onboard_time": 1768286240,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 93587,
       "num": 93587,
       "word": "谁给了网格员强行入户的权力",
       "onboard_time": 1768271239,
       "rank": 35,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 92911,
+      "num": 92911,
+      "word": "第一次看求婚后的对话记录",
+      "onboard_time": 1768286000,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 91536,
@@ -1307,6 +1435,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 89696,
+      "num": 89696,
+      "word": "59岁女子回应高龄产子",
+      "onboard_time": 1768286540,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89305,
       "num": 89305,
       "word": "教育部拟同意设置14所本科高校",
@@ -1329,6 +1465,14 @@
       "onboard_time": 1768210642,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87512,
+      "num": 87512,
+      "word": "老干妈为节省成本味道变了",
+      "onboard_time": 1768285881,
+      "rank": 44,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 87272,
@@ -1371,6 +1515,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84766,
+      "num": 84766,
+      "word": "快乐老友记",
+      "onboard_time": 1768285460,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 83784,
+      "num": 83784,
+      "word": "终于把iPhone截屏玩明白了",
+      "onboard_time": 1768285760,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 83589,
       "num": 83589,
       "word": "超6成中国人下一辆车预算30万元以上",
@@ -1379,20 +1539,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 83519,
-      "num": 83519,
-      "word": "中方已经保持最大限度忍耐和克制",
-      "onboard_time": 1768283241,
-      "rank": 47,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 82980,
       "num": 82980,
       "word": "所有小猫钻被窝的统一流程",
       "onboard_time": 1768271359,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82397,
+      "num": 82397,
+      "word": "被字节跳动的食堂震惊到了",
+      "onboard_time": 1768286540,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 82392,
@@ -1433,6 +1593,14 @@
       "onboard_time": 1768282760,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 81090,
+      "num": 81090,
+      "word": "A股商业航天概念全线爆发",
+      "onboard_time": 1768286660,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 80743,
@@ -1585,6 +1753,14 @@
       "onboard_time": 1768232301,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63599,
+      "num": 92917,
+      "word": "十日终焉正在置景",
+      "onboard_time": 1768286600,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 62878,
@@ -1859,6 +2035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23354,
+      "num": 122909,
+      "word": "水上大国重器又要上新了",
+      "onboard_time": 1768286120,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22998,
       "num": 22998,
       "word": "期待肖战小城良方",
@@ -1921,11 +2105,22 @@
       "onboard_time": 1768201641,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6610,
+      "num": 649940,
+      "word": "2026开年新政红利持续释放",
+      "onboard_time": 1768286481,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#二十届中央纪委五次全会召开#"
+    },
+    {
+      "word": "#重温总书记的反腐警句#"
     }
   ]
 }

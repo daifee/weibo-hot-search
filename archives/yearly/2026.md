@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/13 13:49:34
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/13 14:44:54
 </p>
 </blockquote>
 <p>
@@ -455,6 +455,12 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%B9%B4%E7%9A%84%E8%80%81%E5%B7%B1%E5%9C%A8QQ%E7%BB%99%E8%80%81%E8%87%AA%E7%95%99%E4%BA%86%E7%AC%94%E5%B7%A8%E6%AC%BE%23" target="weibo">
 当年的老己在QQ给老自留了笔巨款（热度：1049300）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E7%8A%AC%E8%A2%AB%E9%80%9A%E6%8A%A5%E6%89%B9%E8%AF%84%23" target="weibo">
+警犬被通报批评（热度：1046307）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ AI照片竟然拿了摄影比赛第一名（热度：667067）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%BB%88%E4%BA%8E%E9%BB%98%E8%AE%A4%E4%BA%86%E5%A9%86%E5%A9%86%23" target="weibo">
 刘宇宁终于默认了婆婆（热度：565640）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%89%AA%E6%96%AD%E7%94%B7%E5%A9%B4%E6%89%8B%E6%8C%87%E5%8A%A9%E4%BA%A7%E5%A3%AB%E5%B7%B2%E5%81%9C%E8%81%8C%23" target="weibo">
-剪断男婴手指助产士已停职（热度：563322）
 </a>
 </li>
 
