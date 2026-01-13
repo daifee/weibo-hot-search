@@ -1,6 +1,6 @@
 {
   "startTime": 1768235820030,
-  "endTime": 1768318508585,
+  "endTime": 1768319440560,
   "band_list": [
     {
       "raw_hot": 2536475,
@@ -235,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 565091,
+      "num": 296661,
+      "word": "日本餐厅墙壁女尸身份确认",
+      "onboard_time": 1768314263,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 513702,
       "num": 277856,
       "word": "刘嘉玲接受章泽天采访家中装修曝光",
@@ -281,14 +289,6 @@
       "onboard_time": 1768306222,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 493685,
-      "num": 296661,
-      "word": "日本餐厅墙壁女尸身份确认",
-      "onboard_time": 1768314263,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 492957,
@@ -859,6 +859,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 257953,
+      "num": 194312,
+      "word": "LV活动大合照",
+      "onboard_time": 1768315763,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 256266,
       "num": 471743,
       "word": "王楚钦LV品牌大使",
@@ -1140,7 +1148,7 @@
     },
     {
       "raw_hot": 199975,
-      "num": 171192,
+      "num": 186377,
       "word": "何晴儿子头像仍为全黑",
       "onboard_time": 1768315343,
       "rank": 30,
@@ -1188,7 +1196,7 @@
     },
     {
       "raw_hot": 195565,
-      "num": 183316,
+      "num": 187657,
       "word": "13岁男孩泡澡20分钟脑出血",
       "onboard_time": 1768316602,
       "rank": 22,
@@ -1201,14 +1209,6 @@
       "onboard_time": 1768293982,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 193537,
-      "num": 193537,
-      "word": "LV活动大合照",
-      "onboard_time": 1768315763,
-      "rank": 42,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 192802,
@@ -1257,6 +1257,14 @@
       "onboard_time": 1768260198,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188130,
+      "num": 296340,
+      "word": "00后新警一根针保住126万",
+      "onboard_time": 1768316002,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187977,
@@ -1353,14 +1361,6 @@
       "onboard_time": 1768276101,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177817,
-      "num": 296340,
-      "word": "00后新警一根针保住126万",
-      "onboard_time": 1768316002,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 176966,
@@ -1755,20 +1755,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143323,
+      "num": 199152,
+      "word": "轧戏官配",
+      "onboard_time": 1768313962,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143129,
       "num": 143129,
       "word": "贵州辣椒",
       "onboard_time": 1768294522,
       "rank": 49,
       "category": "民生新闻,美食"
-    },
-    {
-      "raw_hot": 143060,
-      "num": 134836,
-      "word": "轧戏官配",
-      "onboard_time": 1768313962,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 142432,
@@ -2147,6 +2147,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 120146,
+      "num": 120146,
+      "word": "Desire4训练营",
+      "onboard_time": 1768318402,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119649,
       "num": 119649,
       "word": "赵长江感谢比亚迪经历",
@@ -2241,6 +2249,14 @@
       "onboard_time": 1768286240,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117600,
+      "num": 117600,
+      "word": "唐诡的石头馍终于轮到刘智扬了",
+      "onboard_time": 1768318220,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 117277,
@@ -2531,6 +2547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107123,
+      "num": 192489,
+      "word": "张杰继逆战后又一全新战歌",
+      "onboard_time": 1768318461,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 106867,
       "num": 146968,
       "word": "尹锡悦案庭审",
@@ -2675,6 +2699,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 103555,
+      "num": 103555,
+      "word": "高质量陪伴先从这6件事开始",
+      "onboard_time": 1768319180,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103484,
       "num": 103484,
       "word": "锂价狂飙",
@@ -2723,20 +2755,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102468,
-      "num": 102468,
-      "word": "Desire4训练营",
-      "onboard_time": 1768318402,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102230,
       "num": 102230,
       "word": "遇害女生母亲称听到死刑想当庭大笑",
       "onboard_time": 1768282161,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101762,
+      "num": 190806,
+      "word": "推特崩了",
+      "onboard_time": 1768318283,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 101717,
@@ -2945,14 +2977,6 @@
       "onboard_time": 1768226902,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94663,
-      "num": 127214,
-      "word": "推特崩了",
-      "onboard_time": 1768318283,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 94196,
@@ -4137,14 +4161,6 @@
       "onboard_time": 1768201641,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 6720,
-      "num": 128559,
-      "word": "张杰继逆战后又一全新战歌",
-      "onboard_time": 1768318461,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 6610,

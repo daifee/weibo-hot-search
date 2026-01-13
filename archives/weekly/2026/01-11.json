@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768318508585,
+  "endTime": 1768319440560,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -779,6 +779,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 565091,
+      "num": 296661,
+      "word": "日本餐厅墙壁女尸身份确认",
+      "onboard_time": 1768314263,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 558789,
       "num": 377972,
       "word": "爱喝奶茶的人天塌了",
@@ -961,14 +969,6 @@
       "onboard_time": 1768198220,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 493685,
-      "num": 296661,
-      "word": "日本餐厅墙壁女尸身份确认",
-      "onboard_time": 1768314263,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 488051,
@@ -2403,6 +2403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257953,
+      "num": 194312,
+      "word": "LV活动大合照",
+      "onboard_time": 1768315763,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 257363,
       "num": 257363,
       "word": "赖伟明千字长文告别庄序",
@@ -3124,7 +3132,7 @@
     },
     {
       "raw_hot": 199975,
-      "num": 171192,
+      "num": 186377,
       "word": "何晴儿子头像仍为全黑",
       "onboard_time": 1768315343,
       "rank": 30,
@@ -3228,7 +3236,7 @@
     },
     {
       "raw_hot": 195565,
-      "num": 183316,
+      "num": 187657,
       "word": "13岁男孩泡澡20分钟脑出血",
       "onboard_time": 1768316602,
       "rank": 22,
@@ -3289,14 +3297,6 @@
       "onboard_time": 1768184419,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 193537,
-      "num": 193537,
-      "word": "LV活动大合照",
-      "onboard_time": 1768315763,
-      "rank": 42,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 193215,
@@ -3465,6 +3465,14 @@
       "onboard_time": 1768190721,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188130,
+      "num": 296340,
+      "word": "00后新警一根针保住126万",
+      "onboard_time": 1768316002,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187977,
@@ -3728,14 +3736,6 @@
       "word": "九万已经可以首付买房了",
       "onboard_time": 1768175960,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 177817,
-      "num": 296340,
-      "word": "00后新警一根针保住126万",
-      "onboard_time": 1768316002,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -4779,6 +4779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143323,
+      "num": 199152,
+      "word": "轧戏官配",
+      "onboard_time": 1768313962,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143249,
       "num": 164241,
       "word": "早上刷牙的真正目的是清除牙菌斑",
@@ -4793,14 +4801,6 @@
       "onboard_time": 1768294522,
       "rank": 49,
       "category": "民生新闻,美食"
-    },
-    {
-      "raw_hot": 143060,
-      "num": 134836,
-      "word": "轧戏官配",
-      "onboard_time": 1768313962,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 142704,
@@ -5811,6 +5811,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 120146,
+      "num": 120146,
+      "word": "Desire4训练营",
+      "onboard_time": 1768318402,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119785,
       "num": 119785,
       "word": "得闲谨制",
@@ -5953,6 +5961,14 @@
       "onboard_time": 1768286240,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117600,
+      "num": 117600,
+      "word": "唐诡的石头馍终于轮到刘智扬了",
+      "onboard_time": 1768318220,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 117458,
@@ -6691,6 +6707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107123,
+      "num": 192489,
+      "word": "张杰继逆战后又一全新战歌",
+      "onboard_time": 1768318461,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 106867,
       "num": 146968,
       "word": "尹锡悦案庭审",
@@ -7003,6 +7027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103555,
+      "num": 103555,
+      "word": "高质量陪伴先从这6件事开始",
+      "onboard_time": 1768319180,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103484,
       "num": 103484,
       "word": "锂价狂飙",
@@ -7115,14 +7147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102468,
-      "num": 102468,
-      "word": "Desire4训练营",
-      "onboard_time": 1768318402,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102282,
       "num": 126978,
       "word": "大爷5岁走失回家已72岁",
@@ -7161,6 +7185,14 @@
       "onboard_time": 1768184239,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101762,
+      "num": 190806,
+      "word": "推特崩了",
+      "onboard_time": 1768318283,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 101717,
@@ -7729,14 +7761,6 @@
       "onboard_time": 1768211242,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94663,
-      "num": 127214,
-      "word": "推特崩了",
-      "onboard_time": 1768318283,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 94616,
@@ -11337,14 +11361,6 @@
       "onboard_time": 1768226183,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 6720,
-      "num": 128559,
-      "word": "张杰继逆战后又一全新战歌",
-      "onboard_time": 1768318461,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 6610,
