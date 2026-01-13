@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/11 00:34:00 ~ 2026/01/14 05:30:10
+本榜单时间：2026/01/11 00:34:00 ~ 2026/01/14 05:44:21
 </p>
 </blockquote>
 <p>
@@ -8535,6 +8535,12 @@ WTT新加坡大满贯（热度：24046）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A1%8C90%E5%BA%A6%E9%9E%A0%E8%BA%AC%E7%A4%BC%E8%BF%8E%E6%8E%A5%E6%9D%8E%E5%9C%A8%E6%98%8E%23" target="weibo">
+高市早苗行90度鞠躬礼迎接李在明（热度：15074）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%90%89%E7%90%83%E6%B0%91%E4%BC%97%E4%B8%BA%E4%BD%95%E5%AF%B9%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E8%AF%B4NO%23" target="weibo">
 琉球民众为何对美军基地说NO（热度：14645）
 </a>
@@ -8549,12 +8555,6 @@ WTT新加坡大满贯（热度：24046）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E9%9D%9E%E9%81%97%E4%B8%80%E5%87%BA%E8%BF%87%E5%B9%B4DNA%E5%8A%A8%E4%BA%86%23" target="weibo">
 这些非遗一出过年DNA动了（热度：14298）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A1%8C90%E5%BA%A6%E9%9E%A0%E8%BA%AC%E7%A4%BC%E8%BF%8E%E6%8E%A5%E6%9D%8E%E5%9C%A8%E6%98%8E%23" target="weibo">
-高市早苗行90度鞠躬礼迎接李在明（热度：13912）
 </a>
 </li>
 
