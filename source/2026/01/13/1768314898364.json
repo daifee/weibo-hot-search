@@ -1,0 +1,410 @@
+{
+  "runTime": 1768314898364,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2285482,
+        "num": 2285482,
+        "word": "马年纪念币预约",
+        "onboard_time": 1768313484,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 300311,
+        "num": 962502,
+        "word": "国考",
+        "onboard_time": 1768288881,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 27208,
+        "num": 785044,
+        "word": "2025有3000场大型营业性演出",
+        "onboard_time": 1768314022,
+        "rank": 2,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 282463,
+        "num": 282463,
+        "word": "韩检方要求判尹锡悦死刑",
+        "onboard_time": 1768308322,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 247999,
+        "num": 247999,
+        "word": "马币",
+        "onboard_time": 1768314743,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 387799,
+        "num": 247898,
+        "word": "爱吃车厘子的女生天亮了",
+        "onboard_time": 1768297821,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 315415,
+        "num": 244421,
+        "word": "iPhone自带堪比打印机的软件",
+        "onboard_time": 1768308682,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 238882,
+        "num": 238882,
+        "word": "马年纪念币 抢不到",
+        "onboard_time": 1768314142,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 217193,
+        "num": 217193,
+        "word": "麦当劳回应汉堡变小了",
+        "onboard_time": 1768302502,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211114,
+        "num": 211114,
+        "word": "小城大事收视率",
+        "onboard_time": 1768309162,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 512842,
+        "num": 208889,
+        "word": "巩俐压轴",
+        "onboard_time": 1768310423,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 508996,
+        "num": 206608,
+        "word": "西安华清池贵妃裸体出浴雕像引争议",
+        "onboard_time": 1768304721,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89145,
+        "num": 198611,
+        "word": "LV三里屯新店开幕",
+        "onboard_time": 1768314083,
+        "rank": 12,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 195270,
+        "num": 195270,
+        "word": "杨洋不让江山",
+        "onboard_time": 1768314204,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 413746,
+        "num": 191519,
+        "word": "何晴儿子称许亚军给自己莫大支持",
+        "onboard_time": 1768312343,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183100,
+        "num": 183100,
+        "word": "劝了800次分手最后参加了婚礼",
+        "onboard_time": 1768303642,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 355481,
+        "num": 178955,
+        "word": "橹穆联排",
+        "onboard_time": 1768309284,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 315751,
+        "num": 171912,
+        "word": "白敬亭LV活动生图",
+        "onboard_time": 1768311143,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 162963,
+        "num": 162963,
+        "word": "呆呆曾问父母猪被吃完是否介意",
+        "onboard_time": 1768312343,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46653,
+        "num": 162878,
+        "word": "贪官曾在机场威胁乘客",
+        "onboard_time": 1768314263,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1648626,
+        "num": 162634,
+        "word": "阿Sa官宣恋情",
+        "onboard_time": 1768303462,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247140,
+        "num": 162524,
+        "word": "王橹杰脸红",
+        "onboard_time": 1768313363,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 322873,
+        "num": 162296,
+        "word": "爱吃鸭头的天塌了",
+        "onboard_time": 1768309462,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 378170,
+        "num": 162135,
+        "word": "章泽天完全不给孩子看社媒",
+        "onboard_time": 1768295241,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339285,
+        "num": 161783,
+        "word": "迅猛龙 小澈",
+        "onboard_time": 1768292421,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 161742,
+        "num": 161742,
+        "word": "王楚钦LV品牌大使",
+        "onboard_time": 1768308622,
+        "rank": 25,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 210363,
+        "num": 157545,
+        "word": "金晨LV活动状态",
+        "onboard_time": 1768310304,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187267,
+        "num": 153536,
+        "word": "穆祉丞更新",
+        "onboard_time": 1768314083,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137415,
+        "num": 137415,
+        "word": "原来羽绒服可以这么洗",
+        "onboard_time": 1768312584,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135306,
+        "num": 135945,
+        "word": "国考成绩 紧张",
+        "onboard_time": 1768307301,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 176039,
+        "num": 135921,
+        "word": "第一次见恋综骂这么狠的",
+        "onboard_time": 1768310962,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145893,
+        "num": 135913,
+        "word": "宋茜大背头黑西装",
+        "onboard_time": 1768306162,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135879,
+        "num": 135879,
+        "word": "雷军回应小米二手车行情",
+        "onboard_time": 1768305503,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 139919,
+        "num": 135242,
+        "word": "美雪扮演者因出演小魔仙被校园暴力",
+        "onboard_time": 1768308741,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143060,
+        "num": 134836,
+        "word": "轧戏官配",
+        "onboard_time": 1768313962,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130935,
+        "num": 130935,
+        "word": "全国多地长租公寓清退租客",
+        "onboard_time": 1768313063,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140786,
+        "num": 130857,
+        "word": "何晴儿子长文缅怀母亲",
+        "onboard_time": 1768312762,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132189,
+        "num": 129952,
+        "word": "张艺兴中巴建交七十五载合照",
+        "onboard_time": 1768305682,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56061,
+        "num": 129493,
+        "word": "18岁男生抢劫2600元获刑11年",
+        "onboard_time": 1768314562,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84361,
+        "num": 129287,
+        "word": "日本餐厅墙壁女尸身份确认",
+        "onboard_time": 1768314263,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 128961,
+        "num": 128961,
+        "word": "贪官商人一起空手套白狼买企业",
+        "onboard_time": 1768314620,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129803,
+        "num": 128116,
+        "word": "LV活动",
+        "onboard_time": 1768302202,
+        "rank": 41,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 117824,
+        "num": 117824,
+        "word": "不让江山",
+        "onboard_time": 1768310003,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116501,
+        "num": 116501,
+        "word": "大背头BB机宋茜是我的天菜姬",
+        "onboard_time": 1768311082,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 105323,
+        "num": 114474,
+        "word": "男子疑因辞职照顾母亲没批准致跳楼",
+        "onboard_time": 1768308622,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113584,
+        "num": 113584,
+        "word": "邵明明持证上岗",
+        "onboard_time": 1768306222,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106485,
+        "num": 106485,
+        "word": "轧戏",
+        "onboard_time": 1768304423,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96477,
+        "num": 102885,
+        "word": "病人是找的病历是编的手术是假的",
+        "onboard_time": 1768313243,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100795,
+        "num": 100795,
+        "word": "车行老板说小米二手车市场一塌糊涂",
+        "onboard_time": 1768312402,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 99760,
+        "num": 99760,
+        "word": "徐明浩裤子上挂了个鲨鱼",
+        "onboard_time": 1768314863,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记的反腐警句#"
+    }
+  }
+}

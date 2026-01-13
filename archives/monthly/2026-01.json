@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768312736860,
+  "endTime": 1768314898364,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -145,6 +145,14 @@
       "onboard_time": 1768035741,
       "rank": 10,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 2285482,
+      "num": 2285482,
+      "word": "马年纪念币预约",
+      "onboard_time": 1768313484,
+      "rank": 0,
+      "category": "财经"
     },
     {
       "raw_hot": 2202454,
@@ -4691,6 +4699,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 413746,
+      "num": 191519,
+      "word": "何晴儿子称许亚军给自己莫大支持",
+      "onboard_time": 1768312343,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 413446,
       "num": 413446,
       "word": "宋威龙 春晚彩排",
@@ -6875,6 +6891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 315751,
+      "num": 199671,
+      "word": "白敬亭LV活动生图",
+      "onboard_time": 1768311143,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 315624,
       "num": 784724,
       "word": "小城大事生万物首日收视率对比",
@@ -6897,6 +6921,14 @@
       "onboard_time": 1767796226,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 315415,
+      "num": 244421,
+      "word": "iPhone自带堪比打印机的软件",
+      "onboard_time": 1768308682,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 315322,
@@ -9195,6 +9227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 247999,
+      "num": 247999,
+      "word": "马币",
+      "onboard_time": 1768314743,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 247621,
       "num": 1005141,
       "word": "2026年生娃基本不花钱",
@@ -9209,6 +9249,14 @@
       "onboard_time": 1768012340,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247140,
+      "num": 162524,
+      "word": "王橹杰脸红",
+      "onboard_time": 1768313363,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 246880,
@@ -9473,6 +9521,14 @@
       "onboard_time": 1767591503,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238882,
+      "num": 238882,
+      "word": "马年纪念币 抢不到",
+      "onboard_time": 1768314142,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 238534,
@@ -10819,6 +10875,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 211114,
+      "num": 211114,
+      "word": "小城大事收视率",
+      "onboard_time": 1768309162,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210851,
       "num": 524214,
       "word": "委内瑞拉将向联合国提出控诉",
@@ -11467,14 +11531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199671,
-      "num": 199671,
-      "word": "白敬亭LV活动生图",
-      "onboard_time": 1768311143,
-      "rank": 17,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 199667,
       "num": 199667,
       "word": "宋威龙anotherman预告",
@@ -11904,6 +11960,14 @@
       "word": "你是王安宇那他是谁",
       "onboard_time": 1767760403,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 195270,
+      "num": 195270,
+      "word": "杨洋不让江山",
+      "onboard_time": 1768314204,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -12627,6 +12691,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 187267,
+      "num": 153536,
+      "word": "穆祉丞更新",
+      "onboard_time": 1768314083,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187263,
       "num": 187263,
       "word": "抹茶最早发展于唐朝",
@@ -13241,14 +13313,6 @@
       "onboard_time": 1767244340,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 181449,
-      "num": 222260,
-      "word": "iPhone自带堪比打印机的软件",
-      "onboard_time": 1768308682,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 181406,
@@ -15067,6 +15131,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 162963,
+      "num": 185787,
+      "word": "呆呆曾问父母猪被吃完是否介意",
+      "onboard_time": 1768312343,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162950,
       "num": 162950,
       "word": "虞书欣云初令看啥呢",
@@ -16121,14 +16193,6 @@
       "onboard_time": 1767668299,
       "rank": 34,
       "category": "数码"
-    },
-    {
-      "raw_hot": 153700,
-      "num": 148115,
-      "word": "何晴儿子称许亚军给自己莫大支持",
-      "onboard_time": 1768312343,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 153491,
@@ -17451,6 +17515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 143060,
+      "num": 134836,
+      "word": "轧戏官配",
+      "onboard_time": 1768313962,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143003,
       "num": 120202,
       "word": "彭小苒已争气争气再争气",
@@ -17795,6 +17867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140786,
+      "num": 130857,
+      "word": "何晴儿子长文缅怀母亲",
+      "onboard_time": 1768312762,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140750,
       "num": 140750,
       "word": "逆战未来主题曲首唱",
@@ -18067,14 +18147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139536,
-      "num": 208561,
-      "word": "小城大事收视率",
-      "onboard_time": 1768309162,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 139450,
       "num": 330342,
       "word": "女子杀害丈夫百名村民向法院求情",
@@ -18299,20 +18371,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137501,
-      "num": 185787,
-      "word": "呆呆曾问父母猪被吃完是否介意",
-      "onboard_time": 1768312343,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137417,
       "num": 137417,
       "word": "韩国总统李在明将访华",
       "onboard_time": 1767504202,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 137415,
+      "num": 137415,
+      "word": "原来羽绒服可以这么洗",
+      "onboard_time": 1768312584,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 137280,
@@ -18593,6 +18665,14 @@
       "onboard_time": 1767591442,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 135879,
+      "num": 135879,
+      "word": "雷军回应小米二手车行情",
+      "onboard_time": 1768305503,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 135871,
@@ -19395,6 +19475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130935,
+      "num": 130935,
+      "word": "全国多地长租公寓清退租客",
+      "onboard_time": 1768313063,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130933,
       "num": 130933,
       "word": "金唱片直播",
@@ -19736,6 +19824,14 @@
       "word": "男子分手后长期发前女友裸照威胁",
       "onboard_time": 1767929480,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128961,
+      "num": 128961,
+      "word": "贪官商人一起空手套白狼买企业",
+      "onboard_time": 1768314620,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -21979,6 +22075,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 117824,
+      "num": 117824,
+      "word": "不让江山",
+      "onboard_time": 1768310003,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117786,
       "num": 117786,
       "word": "早安说豆角不用炖太熟被集体反驳",
@@ -22073,14 +22177,6 @@
       "onboard_time": 1768141223,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 117398,
-      "num": 123026,
-      "word": "雷军回应小米二手车行情",
-      "onboard_time": 1768305503,
-      "rank": 36,
-      "category": "汽车"
     },
     {
       "raw_hot": 117362,
@@ -23467,14 +23563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111454,
-      "num": 136183,
-      "word": "原来羽绒服可以这么洗",
-      "onboard_time": 1768312584,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 111357,
       "num": 111357,
       "word": "结婚可以在这个快餐店办了",
@@ -24577,14 +24665,6 @@
       "onboard_time": 1767758661,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 106338,
-      "num": 106338,
-      "word": "不让江山",
-      "onboard_time": 1768310003,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 106318,
@@ -26603,6 +26683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99760,
+      "num": 99760,
+      "word": "徐明浩裤子上挂了个鲨鱼",
+      "onboard_time": 1768314863,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 99741,
       "num": 99741,
       "word": "两市成交额突破3.46万亿刷新纪录",
@@ -27601,6 +27689,14 @@
       "onboard_time": 1767848601,
       "rank": 42,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 96477,
+      "num": 102885,
+      "word": "病人是找的病历是编的手术是假的",
+      "onboard_time": 1768313243,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96475,
@@ -29851,6 +29947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89145,
+      "num": 198611,
+      "word": "LV三里屯新店开幕",
+      "onboard_time": 1768314083,
+      "rank": 12,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 89074,
       "num": 89074,
       "word": "檀健次何不同舟渡谢却山定妆",
@@ -31321,6 +31425,14 @@
       "onboard_time": 1767254780,
       "rank": 17,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 84361,
+      "num": 129287,
+      "word": "日本餐厅墙壁女尸身份确认",
+      "onboard_time": 1768314263,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 84343,
@@ -36915,6 +37027,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 56061,
+      "num": 129493,
+      "word": "18岁男生抢劫2600元获刑11年",
+      "onboard_time": 1768314562,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56054,
       "num": 108291,
       "word": "珀塞尔绝杀北京男篮",
@@ -38097,6 +38217,14 @@
       "onboard_time": 1767715520,
       "rank": 45,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 46653,
+      "num": 162878,
+      "word": "贪官曾在机场威胁乘客",
+      "onboard_time": 1768314263,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 46575,
@@ -41025,6 +41153,14 @@
       "onboard_time": 1768297340,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 27208,
+      "num": 785044,
+      "word": "2025有3000场大型营业性演出",
+      "onboard_time": 1768314022,
+      "rank": 2,
+      "category": "演出"
     },
     {
       "raw_hot": 27159,

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768312736860,
+  "endTime": 1768314898364,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -145,6 +145,14 @@
       "onboard_time": 1768035741,
       "rank": 10,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 2285482,
+      "num": 2285482,
+      "word": "马年纪念币预约",
+      "onboard_time": 1768313484,
+      "rank": 0,
+      "category": "财经"
     },
     {
       "raw_hot": 2202454,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768219221,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 578279,
-      "num": 272453,
-      "word": "马杜罗被押后首次公开发声",
-      "onboard_time": 1767496162,
-      "rank": 13,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [

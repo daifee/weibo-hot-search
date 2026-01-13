@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768312736860,
+  "endTime": 1768314898364,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -41,6 +41,14 @@
       "onboard_time": 1768134622,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2285482,
+      "num": 2285482,
+      "word": "马年纪念币预约",
+      "onboard_time": 1768313484,
+      "rank": 0,
+      "category": "财经"
     },
     {
       "raw_hot": 2076111,
@@ -1227,6 +1235,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 413746,
+      "num": 191519,
+      "word": "何晴儿子称许亚军给自己莫大支持",
+      "onboard_time": 1768312343,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 410777,
       "num": 454895,
       "word": "A股",
@@ -1843,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315751,
+      "num": 199671,
+      "word": "白敬亭LV活动生图",
+      "onboard_time": 1768311143,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 315624,
       "num": 784724,
       "word": "小城大事生万物首日收视率对比",
@@ -1857,6 +1881,14 @@
       "onboard_time": 1768279642,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 315415,
+      "num": 244421,
+      "word": "iPhone自带堪比打印机的软件",
+      "onboard_time": 1768308682,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 315322,
@@ -2435,6 +2467,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 247999,
+      "num": 247999,
+      "word": "马币",
+      "onboard_time": 1768314743,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 247140,
+      "num": 162524,
+      "word": "王橹杰脸红",
+      "onboard_time": 1768313363,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 246880,
       "num": 246880,
       "word": "雷军转发",
@@ -2521,6 +2569,14 @@
       "onboard_time": 1768100660,
       "rank": 7,
       "category": "数码"
+    },
+    {
+      "raw_hot": 238882,
+      "num": 238882,
+      "word": "马年纪念币 抢不到",
+      "onboard_time": 1768314142,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 238534,
@@ -2923,6 +2979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211114,
+      "num": 211114,
+      "word": "小城大事收视率",
+      "onboard_time": 1768309162,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207991,
       "num": 306996,
       "word": "去糖最快的运动",
@@ -3011,14 +3075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199671,
-      "num": 199671,
-      "word": "白敬亭LV活动生图",
-      "onboard_time": 1768311143,
-      "rank": 17,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 199667,
       "num": 199667,
       "word": "宋威龙anotherman预告",
@@ -3105,6 +3161,14 @@
       "onboard_time": 1768285760,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195270,
+      "num": 195270,
+      "word": "杨洋不让江山",
+      "onboard_time": 1768314204,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 194972,
@@ -3347,6 +3411,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 187267,
+      "num": 153536,
+      "word": "穆祉丞更新",
+      "onboard_time": 1768314083,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187263,
       "num": 187263,
       "word": "抹茶最早发展于唐朝",
@@ -3481,14 +3553,6 @@
       "onboard_time": 1768128740,
       "rank": 4,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 181449,
-      "num": 222260,
-      "word": "iPhone自带堪比打印机的软件",
-      "onboard_time": 1768308682,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 181121,
@@ -3939,6 +4003,14 @@
       "category": "海外新闻,电影"
     },
     {
+      "raw_hot": 162963,
+      "num": 185787,
+      "word": "呆呆曾问父母猪被吃完是否介意",
+      "onboard_time": 1768312343,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162950,
       "num": 162950,
       "word": "虞书欣云初令看啥呢",
@@ -4291,14 +4363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153700,
-      "num": 148115,
-      "word": "何晴儿子称许亚军给自己莫大支持",
-      "onboard_time": 1768312343,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 153491,
       "num": 153491,
       "word": "无手女孩再回应演示换卫生巾",
@@ -4627,6 +4691,14 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 143060,
+      "num": 134836,
+      "word": "轧戏官配",
+      "onboard_time": 1768313962,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142704,
       "num": 142704,
       "word": "谁懂恶女身后是更小的恶女",
@@ -4689,6 +4761,14 @@
       "onboard_time": 1768194680,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140786,
+      "num": 130857,
+      "word": "何晴儿子长文缅怀母亲",
+      "onboard_time": 1768312762,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 140750,
@@ -4763,14 +4843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139536,
-      "num": 208561,
-      "word": "小城大事收视率",
-      "onboard_time": 1768309162,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 139041,
       "num": 139041,
       "word": "陈妍希形容周柯宇是小狗",
@@ -4803,12 +4875,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 137501,
-      "num": 185787,
-      "word": "呆呆曾问父母猪被吃完是否介意",
-      "onboard_time": 1768312343,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 137415,
+      "num": 137415,
+      "word": "原来羽绒服可以这么洗",
+      "onboard_time": 1768312584,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 137090,
@@ -4857,6 +4929,14 @@
       "onboard_time": 1768139003,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135879,
+      "num": 135879,
+      "word": "雷军回应小米二手车行情",
+      "onboard_time": 1768305503,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 135767,
@@ -5067,6 +5147,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 130935,
+      "num": 130935,
+      "word": "全国多地长租公寓清退租客",
+      "onboard_time": 1768313063,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130775,
       "num": 130775,
       "word": "吴佳怡不是命硬的不演",
@@ -5137,6 +5225,14 @@
       "onboard_time": 1768310904,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128961,
+      "num": 128961,
+      "word": "贪官商人一起空手套白狼买企业",
+      "onboard_time": 1768314620,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128715,
@@ -5723,6 +5819,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 117824,
+      "num": 117824,
+      "word": "不让江山",
+      "onboard_time": 1768310003,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117619,
       "num": 117619,
       "word": "金粒门被曝厨房脏臭生产日期造假",
@@ -5737,14 +5841,6 @@
       "onboard_time": 1768141223,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 117398,
-      "num": 123026,
-      "word": "雷军回应小米二手车行情",
-      "onboard_time": 1768305503,
-      "rank": 36,
-      "category": "汽车"
     },
     {
       "raw_hot": 117277,
@@ -6155,14 +6251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 111454,
-      "num": 136183,
-      "word": "原来羽绒服可以这么洗",
-      "onboard_time": 1768312584,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 111096,
       "num": 111096,
       "word": "8人组团徒步2女子体力不支被弃荒山",
@@ -6561,14 +6649,6 @@
       "onboard_time": 1768120221,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106338,
-      "num": 106338,
-      "word": "不让江山",
-      "onboard_time": 1768310003,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 106293,
@@ -7131,6 +7211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99760,
+      "num": 99760,
+      "word": "徐明浩裤子上挂了个鲨鱼",
+      "onboard_time": 1768314863,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 99741,
       "num": 99741,
       "word": "两市成交额突破3.46万亿刷新纪录",
@@ -7353,6 +7441,14 @@
       "onboard_time": 1768216101,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 96477,
+      "num": 102885,
+      "word": "病人是找的病历是编的手术是假的",
+      "onboard_time": 1768313243,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96456,
@@ -7891,6 +7987,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 89145,
+      "num": 198611,
+      "word": "LV三里屯新店开幕",
+      "onboard_time": 1768314083,
+      "rank": 12,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 88680,
       "num": 88680,
       "word": "主人不在家 我下地嘎油嘎油",
@@ -8193,6 +8297,14 @@
       "onboard_time": 1768210521,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84361,
+      "num": 129287,
+      "word": "日本餐厅墙壁女尸身份确认",
+      "onboard_time": 1768314263,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 84343,
@@ -9579,6 +9691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56061,
+      "num": 129493,
+      "word": "18岁男生抢劫2600元获刑11年",
+      "onboard_time": 1768314562,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55846,
       "num": 102465,
       "word": "中方回应美对古巴发出新威胁",
@@ -9785,6 +9905,14 @@
       "onboard_time": 1768062680,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46653,
+      "num": 162878,
+      "word": "贪官曾在机场威胁乘客",
+      "onboard_time": 1768314263,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 46206,
@@ -10481,6 +10609,14 @@
       "onboard_time": 1768297340,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 27208,
+      "num": 785044,
+      "word": "2025有3000场大型营业性演出",
+      "onboard_time": 1768314022,
+      "rank": 2,
+      "category": "演出"
     },
     {
       "raw_hot": 27159,
