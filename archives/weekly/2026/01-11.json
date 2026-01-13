@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768309315291,
+  "endTime": 1768310239240,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2536475,
-      "num": 193843,
+      "num": 198991,
       "word": "阿Sa官宣恋情",
       "onboard_time": 1768303462,
       "rank": 20,
@@ -603,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 608941,
+      "num": 315421,
+      "word": "西安华清池贵妃裸体出浴雕像引争议",
+      "onboard_time": 1768304721,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 601670,
       "num": 161215,
       "word": "死了么APP仅剩2个功能",
@@ -777,14 +785,6 @@
       "onboard_time": 1768116262,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 525463,
-      "num": 315421,
-      "word": "西安华清池贵妃裸体出浴雕像引争议",
-      "onboard_time": 1768304721,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 524924,
@@ -1121,6 +1121,14 @@
       "onboard_time": 1768102758,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 436709,
+      "num": 807021,
+      "word": "韩检方要求判尹锡悦死刑",
+      "onboard_time": 1768308322,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 434413,
@@ -1667,6 +1675,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 335073,
+      "num": 335073,
+      "word": "国考成绩 紧张",
+      "onboard_time": 1768307301,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 333057,
       "num": 333057,
       "word": "车厘子几个J一下看明白了",
@@ -1737,14 +1753,6 @@
       "onboard_time": 1768137202,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 323783,
-      "num": 323783,
-      "word": "国考成绩 紧张",
-      "onboard_time": 1768307301,
-      "rank": 3,
-      "category": "教育"
     },
     {
       "raw_hot": 322839,
@@ -2003,6 +2011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 292065,
+      "num": 221151,
+      "word": "橹穆联排",
+      "onboard_time": 1768309284,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 291166,
       "num": 133639,
       "word": "阎鹤祥升级当爸",
@@ -2211,6 +2227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 268996,
+      "num": 197586,
+      "word": "爱吃鸭头的天塌了",
+      "onboard_time": 1768309462,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 266824,
       "num": 266824,
       "word": "首款登顶Steam国游将上线鸿蒙",
@@ -2273,6 +2297,14 @@
       "onboard_time": 1768132101,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 256266,
+      "num": 318264,
+      "word": "王楚钦LV品牌大使",
+      "onboard_time": 1768308622,
+      "rank": 8,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 255438,
@@ -2556,7 +2588,7 @@
     },
     {
       "raw_hot": 230824,
-      "num": 182525,
+      "num": 191531,
       "word": "王楚钦礼貌社交中",
       "onboard_time": 1768306762,
       "rank": 24,
@@ -2939,14 +2971,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 201696,
-      "num": 318264,
-      "word": "王楚钦LV品牌大使",
-      "onboard_time": 1768308622,
-      "rank": 8,
-      "category": "体育,时尚"
-    },
-    {
       "raw_hot": 200980,
       "num": 200980,
       "word": "麻六记的酸辣粉为何卖不动了",
@@ -2961,6 +2985,14 @@
       "onboard_time": 1768140203,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199667,
+      "num": 199667,
+      "word": "宋威龙anotherman预告",
+      "onboard_time": 1768310122,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 199371,
@@ -3691,14 +3723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169966,
-      "num": 317299,
-      "word": "韩检方要求判尹锡悦死刑",
-      "onboard_time": 1768308322,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 169932,
       "num": 169932,
       "word": "白鹿给呵呵打电话假哭",
@@ -3905,14 +3929,6 @@
       "onboard_time": 1768099519,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161837,
-      "num": 161837,
-      "word": "橹穆联排",
-      "onboard_time": 1768309284,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 161719,
@@ -4145,6 +4161,22 @@
       "onboard_time": 1768105281,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 155834,
+      "num": 155834,
+      "word": "男子疑因辞职照顾母亲没批准致跳楼",
+      "onboard_time": 1768308622,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155691,
+      "num": 199320,
+      "word": "老人生前录遗嘱遗产给儿子不给女儿",
+      "onboard_time": 1768308562,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155584,
@@ -4587,6 +4619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140750,
+      "num": 140750,
+      "word": "逆战未来主题曲首唱",
+      "onboard_time": 1768309042,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 140737,
       "num": 140737,
       "word": "刘冲偏爱杨幂的样子像极我和闺蜜",
@@ -4651,6 +4691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139536,
+      "num": 139536,
+      "word": "小城大事收视率",
+      "onboard_time": 1768309162,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139041,
       "num": 139041,
       "word": "陈妍希形容周柯宇是小狗",
@@ -4707,12 +4755,12 @@
       "category": "剧集,体育"
     },
     {
-      "raw_hot": 136111,
-      "num": 162667,
-      "word": "老人生前录遗嘱遗产给儿子不给女儿",
-      "onboard_time": 1768308562,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 136323,
+      "num": 136323,
+      "word": "王楚钦挥手有点像人机",
+      "onboard_time": 1768309762,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 136099,
@@ -4769,6 +4817,14 @@
       "onboard_time": 1768222402,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135381,
+      "num": 135381,
+      "word": "iPhone自带堪比打印机的软件",
+      "onboard_time": 1768308682,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 135304,
@@ -4931,14 +4987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131210,
-      "num": 131210,
-      "word": "逆战未来主题曲首唱",
-      "onboard_time": 1768309042,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 130967,
       "num": 137727,
       "word": "追觅科技",
@@ -5051,6 +5099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128252,
+      "num": 128252,
+      "word": "美雪扮演者因出演小魔仙被校园暴力",
+      "onboard_time": 1768308741,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128159,
       "num": 129852,
       "word": "朱雨玲晋级多哈冠军赛决赛",
@@ -5153,14 +5209,6 @@
       "onboard_time": 1768275261,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 126446,
-      "num": 126446,
-      "word": "男子疑因辞职照顾母亲没批准致跳楼",
-      "onboard_time": 1768308622,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126423,
@@ -5403,14 +5451,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 121059,
-      "num": 121059,
-      "word": "iPhone自带堪比打印机的软件",
-      "onboard_time": 1768308682,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
       "raw_hot": 120935,
       "num": 120935,
       "word": "合川文旅委称被流量砸懵了",
@@ -5547,6 +5587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118642,
+      "num": 118642,
+      "word": "徐明浩栗色狼尾头",
+      "onboard_time": 1768309462,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 118532,
       "num": 118532,
       "word": "散是一地鸡毛聚是意大利炮",
@@ -5604,7 +5652,7 @@
     },
     {
       "raw_hot": 117398,
-      "num": 117398,
+      "num": 123026,
       "word": "雷军回应小米二手车行情",
       "onboard_time": 1768305503,
       "rank": 36,
@@ -5624,14 +5672,6 @@
       "word": "登陆少年要吵出去吵",
       "onboard_time": 1768133482,
       "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 116668,
-      "num": 116668,
-      "word": "美雪扮演者因出演小魔仙被校园暴力",
-      "onboard_time": 1768308741,
-      "rank": 39,
       "category": "艺人"
     },
     {
@@ -6067,14 +6107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110532,
-      "num": 109352,
-      "word": "小城大事收视率",
-      "onboard_time": 1768309162,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 110493,
       "num": 111157,
       "word": "老干妈回应味道变了",
@@ -6379,6 +6411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106503,
+      "num": 106503,
+      "word": "看了很久才认出是狗",
+      "onboard_time": 1768309822,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106454,
       "num": 290533,
       "word": "贵州文旅厅成立联合调查组",
@@ -6401,6 +6441,14 @@
       "onboard_time": 1768120221,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106338,
+      "num": 106338,
+      "word": "不让江山",
+      "onboard_time": 1768310003,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 106293,
@@ -6705,6 +6753,14 @@
       "onboard_time": 1768276223,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 102883,
+      "num": 186875,
+      "word": "犟种都是以乖乖女的人设出现",
+      "onboard_time": 1768304242,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 102880,
@@ -7499,6 +7555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 91432,
+      "num": 91432,
+      "word": "李一桐咱俩太暧昧了吧",
+      "onboard_time": 1768310183,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91377,
       "num": 103283,
       "word": "奶茶会偷偷升高你的尿酸",
@@ -7553,14 +7617,6 @@
       "onboard_time": 1768139482,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 90788,
-      "num": 186875,
-      "word": "犟种都是以乖乖女的人设出现",
-      "onboard_time": 1768304242,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 90662,
@@ -7769,6 +7825,14 @@
       "onboard_time": 1768285881,
       "rank": 44,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 87285,
+      "num": 90793,
+      "word": "商人拿60万给贪官保姆买房",
+      "onboard_time": 1768310183,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 87272,

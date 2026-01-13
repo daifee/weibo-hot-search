@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/13 21:01:55
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/13 21:17:19
 </p>
 </blockquote>
 <p>
@@ -1605,6 +1605,12 @@ AI照片竟然拿了摄影比赛第一名（热度：667067）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E5%8D%8E%E6%B8%85%E6%B1%A0%E8%B4%B5%E5%A6%83%E8%A3%B8%E4%BD%93%E5%87%BA%E6%B5%B4%E9%9B%95%E5%83%8F%E5%BC%95%E4%BA%89%E8%AE%AE%23" target="weibo">
+西安华清池贵妃裸体出浴雕像引争议（热度：608941）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%9C%A8%E9%87%8D%E5%BA%86%E7%94%A8%E7%AD%B7%E5%AD%90%E7%83%AB%E7%81%AB%E9%94%85%23" target="weibo">
 两外国人在重庆用筷子烫火锅（热度：607813）
 </a>
@@ -1805,12 +1811,6 @@ AI照片竟然拿了摄影比赛第一名（热度：667067）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%9C%E7%BD%97%E8%A2%AB%E6%8A%BC%E5%90%8E%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%8F%91%E5%A3%B0%23" target="weibo">
 马杜罗被押后首次公开发声（热度：578279）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%98%E8%AF%97%E6%9B%BC%E9%BB%84%E5%AE%97%E6%B3%BD%E6%8C%BD%E6%89%8B%E8%B5%B0%E7%BA%A2%E6%AF%AF%23" target="weibo">
-佘诗曼黄宗泽挽手走红毯（热度：578258）
 </a>
 </li>
 
