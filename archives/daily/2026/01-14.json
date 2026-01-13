@@ -1,6 +1,6 @@
 {
   "startTime": 1768322530118,
-  "endTime": 1768333193485,
+  "endTime": 1768336519800,
   "band_list": [
     {
       "raw_hot": 641527,
@@ -467,6 +467,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 26358,
+      "num": 26358,
+      "word": "贪官一个招呼收一笔巨额贿赂",
+      "onboard_time": 1768332616,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 21247,
       "num": 61579,
       "word": "王楚钦LV品牌大使",
@@ -515,12 +523,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 13083,
-      "num": 18520,
-      "word": "贪官一个招呼收一笔巨额贿赂",
-      "onboard_time": 1768332616,
-      "rank": 47,
-      "category": "国内时政"
+      "raw_hot": 11746,
+      "num": 18499,
+      "word": "高市早苗行90度鞠躬礼迎接李在明",
+      "onboard_time": 1768334594,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 10159,

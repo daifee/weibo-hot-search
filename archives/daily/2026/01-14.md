@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/14 00:42:10 ~ 2026/01/14 03:39:53
+本榜单时间：2026/01/14 00:42:10 ~ 2026/01/14 04:35:19
 </p>
 </blockquote>
 <p>
@@ -363,6 +363,12 @@ A股（热度：44654）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%AA%E5%AE%98%E4%B8%80%E4%B8%AA%E6%8B%9B%E5%91%BC%E6%94%B6%E4%B8%80%E7%AC%94%E5%B7%A8%E9%A2%9D%E8%B4%BF%E8%B5%82%23" target="weibo">
+贪官一个招呼收一笔巨额贿赂（热度：26358）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6LV%E5%93%81%E7%89%8C%E5%A4%A7%E4%BD%BF%23" target="weibo">
 王楚钦LV品牌大使（热度：21247）
 </a>
@@ -399,8 +405,8 @@ A股（热度：44654）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B4%AA%E5%AE%98%E4%B8%80%E4%B8%AA%E6%8B%9B%E5%91%BC%E6%94%B6%E4%B8%80%E7%AC%94%E5%B7%A8%E9%A2%9D%E8%B4%BF%E8%B5%82%23" target="weibo">
-贪官一个招呼收一笔巨额贿赂（热度：13083）
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A1%8C90%E5%BA%A6%E9%9E%A0%E8%BA%AC%E7%A4%BC%E8%BF%8E%E6%8E%A5%E6%9D%8E%E5%9C%A8%E6%98%8E%23" target="weibo">
+高市早苗行90度鞠躬礼迎接李在明（热度：11746）
 </a>
 </li>
 
