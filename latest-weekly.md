@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/11 00:34:00 ~ 2026/01/14 02:55:53
+本榜单时间：2026/01/11 00:34:00 ~ 2026/01/14 03:28:01
 </p>
 </blockquote>
 <p>
@@ -8471,6 +8471,12 @@ WTT新加坡大满贯（热度：24046）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%B2%99%E4%B8%98%E6%88%98%E5%A3%AB%23" target="weibo">
 刘宇宁沙丘战士（热度：17134）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E8%8A%B1%E5%BD%B1%E6%B5%AE%E5%8A%A8%E5%A4%A7%E7%89%87%23" target="weibo">
+龚俊花影浮动大片（热度：17042）
 </a>
 </li>
 

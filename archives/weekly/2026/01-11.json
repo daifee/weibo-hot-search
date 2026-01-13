@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768330553062,
+  "endTime": 1768332481616,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -11281,6 +11281,14 @@
       "onboard_time": 1768071855,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 17042,
+      "num": 20878,
+      "word": "龚俊花影浮动大片",
+      "onboard_time": 1768331234,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 16911,

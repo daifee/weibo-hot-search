@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/14 00:42:10 ~ 2026/01/14 02:55:53
+本榜单时间：2026/01/14 00:42:10 ~ 2026/01/14 03:28:01
 </p>
 </blockquote>
 <p>
@@ -371,6 +371,12 @@ A股（热度：44654）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E4%B8%8B%E7%8F%AD%E5%89%8D%E5%AF%B9%E9%95%9C%E6%8B%8D%23" target="weibo">
 王鹤棣下班前对镜拍（热度：18049）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E8%8A%B1%E5%BD%B1%E6%B5%AE%E5%8A%A8%E5%A4%A7%E7%89%87%23" target="weibo">
+龚俊花影浮动大片（热度：17042）
 </a>
 </li>
 
