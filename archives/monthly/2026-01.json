@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768304636964,
+  "endTime": 1768309315291,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -120,6 +120,14 @@
       "word": "孙怡道歉",
       "onboard_time": 1767848122,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2536475,
+      "num": 193843,
+      "word": "阿Sa官宣恋情",
+      "onboard_time": 1768303462,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -1211,6 +1219,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 800080,
+      "num": 1128012,
+      "word": "国考",
+      "onboard_time": 1768288881,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 794730,
       "num": 213004,
       "word": "车祸肇事者家庭条件相当好",
@@ -1833,14 +1849,6 @@
       "onboard_time": 1767843800,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 655446,
-      "num": 1104871,
-      "word": "国考",
-      "onboard_time": 1768288881,
-      "rank": 23,
-      "category": "教育"
     },
     {
       "raw_hot": 651165,
@@ -2931,6 +2939,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 525463,
+      "num": 315421,
+      "word": "西安华清池贵妃裸体出浴雕像引争议",
+      "onboard_time": 1768304721,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 525201,
       "num": 829822,
       "word": "湖北夫妻炸年糕淀粉肠年入百万",
@@ -3385,6 +3401,14 @@
       "onboard_time": 1767593122,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 498052,
+      "num": 314906,
+      "word": "邵明明持证上岗",
+      "onboard_time": 1768306222,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 497492,
@@ -4569,6 +4593,14 @@
       "onboard_time": 1768223483,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 417162,
+      "num": 797737,
+      "word": "新音联排",
+      "onboard_time": 1767697759,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 417150,
@@ -6003,6 +6035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346962,
+      "num": 313229,
+      "word": "柬埔寨狗笼运活人视频疯传",
+      "onboard_time": 1768303521,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 346918,
       "num": 183043,
       "word": "四大顶级扛剧花",
@@ -6291,6 +6331,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 330689,
+      "num": 312282,
+      "word": "张艺兴中巴建交七十五载合照",
+      "onboard_time": 1768305682,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 330680,
       "num": 762678,
       "word": "陈志被从柬埔寨押解回国",
@@ -6491,6 +6539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 323783,
+      "num": 323783,
+      "word": "国考成绩 紧张",
+      "onboard_time": 1768307301,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 323701,
       "num": 201214,
       "word": "年会聚餐15个人分300克牛筋",
@@ -6521,6 +6577,14 @@
       "onboard_time": 1767503901,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 322839,
+      "num": 388433,
+      "word": "麦当劳回应汉堡变小了",
+      "onboard_time": 1768302502,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 322734,
@@ -6931,6 +6995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 311091,
+      "num": 311091,
+      "word": "日本女市长与下属开房辞职后再当选",
+      "onboard_time": 1768308562,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 310331,
       "num": 310331,
       "word": "沈梦辰 何老师我们是腻了吗",
@@ -7041,6 +7113,14 @@
       "onboard_time": 1767831681,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 305566,
+      "num": 211146,
+      "word": "汪涵杨乐乐11岁儿子正脸",
+      "onboard_time": 1768303282,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 305480,
@@ -7475,14 +7555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 292867,
-      "num": 388433,
-      "word": "麦当劳回应汉堡变小了",
-      "onboard_time": 1768302502,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 292587,
       "num": 317661,
       "word": "白鹿这首离婚的歌听了388遍",
@@ -7849,6 +7921,14 @@
       "onboard_time": 1767855800,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 278102,
+      "num": 278102,
+      "word": "劝了800次分手最后参加了婚礼",
+      "onboard_time": 1768303642,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 277780,
@@ -8321,14 +8401,6 @@
       "onboard_time": 1768286959,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 266581,
-      "num": 456460,
-      "word": "新音联排",
-      "onboard_time": 1767697759,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 266561,
@@ -9643,6 +9715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 230824,
+      "num": 182525,
+      "word": "王楚钦礼貌社交中",
+      "onboard_time": 1768306762,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230707,
       "num": 751099,
       "word": "你好星期六新年全员心动",
@@ -9825,6 +9905,14 @@
       "onboard_time": 1767536964,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226484,
+      "num": 320956,
+      "word": "国考成绩什么时候出",
+      "onboard_time": 1768287620,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 226405,
@@ -10233,14 +10321,6 @@
       "onboard_time": 1768178301,
       "rank": 14,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 219954,
-      "num": 289730,
-      "word": "柬埔寨狗笼运活人视频疯传",
-      "onboard_time": 1768303521,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 219682,
@@ -10681,14 +10761,6 @@
       "onboard_time": 1767709283,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 211146,
-      "num": 211146,
-      "word": "汪涵杨乐乐11岁儿子正脸",
-      "onboard_time": 1768303282,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 210851,
@@ -11179,6 +11251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202318,
+      "num": 202318,
+      "word": "宋茜大背头黑西装",
+      "onboard_time": 1768306162,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 202105,
       "num": 424027,
       "word": "委内瑞拉前内政部长身亡",
@@ -11209,6 +11289,14 @@
       "onboard_time": 1767583281,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201696,
+      "num": 318264,
+      "word": "王楚钦LV品牌大使",
+      "onboard_time": 1768308622,
+      "rank": 8,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 201624,
@@ -11833,14 +11921,6 @@
       "onboard_time": 1768135521,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 194130,
-      "num": 213824,
-      "word": "劝了800次分手最后参加了婚礼",
-      "onboard_time": 1768303642,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 193975,
@@ -13715,6 +13795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173980,
+      "num": 173980,
+      "word": "第一次被女主男二追着喂饭",
+      "onboard_time": 1768308803,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173912,
       "num": 173912,
       "word": "美方扣押贝拉1号油轮",
@@ -14097,6 +14185,14 @@
       "onboard_time": 1768197801,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169966,
+      "num": 317299,
+      "word": "韩检方要求判尹锡悦死刑",
+      "onboard_time": 1768308322,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 169932,
@@ -14563,6 +14659,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 165806,
+      "num": 165806,
+      "word": "迅猛龙小澈曾共用化妆品",
+      "onboard_time": 1768307421,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 165781,
       "num": 150299,
       "word": "程晓玥自曝二胎孕期食量惊人",
@@ -15009,6 +15113,14 @@
       "onboard_time": 1767657441,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 161837,
+      "num": 161837,
+      "word": "橹穆联排",
+      "onboard_time": 1768309284,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 161793,
@@ -15673,14 +15785,6 @@
       "onboard_time": 1768011320,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 156546,
-      "num": 291046,
-      "word": "国考成绩什么时候出",
-      "onboard_time": 1768287620,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 156373,
@@ -17587,6 +17691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140737,
+      "num": 140737,
+      "word": "刘冲偏爱杨幂的样子像极我和闺蜜",
+      "onboard_time": 1768306402,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140693,
       "num": 295422,
       "word": "吃爽了是一种什么体验",
@@ -18289,6 +18401,14 @@
       "onboard_time": 1767677960,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136111,
+      "num": 162667,
+      "word": "老人生前录遗嘱遗产给儿子不给女儿",
+      "onboard_time": 1768308562,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136099,
@@ -19075,6 +19195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131210,
+      "num": 131210,
+      "word": "逆战未来主题曲首唱",
+      "onboard_time": 1768309042,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 131156,
       "num": 131156,
       "word": "恋与深空",
@@ -19571,6 +19699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128402,
+      "num": 140335,
+      "word": "EDG官宣Clearlove回归",
+      "onboard_time": 1768307904,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128329,
       "num": 128329,
       "word": "彭小苒工作室道歉",
@@ -20025,6 +20161,14 @@
       "onboard_time": 1768027701,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126446,
+      "num": 126446,
+      "word": "男子疑因辞职照顾母亲没批准致跳楼",
+      "onboard_time": 1768308622,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126423,
@@ -21075,6 +21219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 121059,
+      "num": 121059,
+      "word": "iPhone自带堪比打印机的软件",
+      "onboard_time": 1768308682,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 121031,
       "num": 465084,
       "word": "蔡磊透露已进入疾病终末期",
@@ -21787,6 +21939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117398,
+      "num": 117398,
+      "word": "雷军回应小米二手车行情",
+      "onboard_time": 1768305503,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 117362,
       "num": 148132,
       "word": "新生儿被剪断手指助产士已停职",
@@ -21937,6 +22097,14 @@
       "onboard_time": 1767939861,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 116668,
+      "num": 116668,
+      "word": "美雪扮演者因出演小魔仙被校园暴力",
+      "onboard_time": 1768308741,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 116658,
@@ -22579,6 +22747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114071,
+      "num": 116676,
+      "word": "一张闲置床竟让一家人20天没法做饭",
+      "onboard_time": 1768307661,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114045,
       "num": 114045,
       "word": "曝新款小米SU7将配机械门把手",
@@ -22736,6 +22912,14 @@
       "word": "美人心计vs玉茗茶骨",
       "onboard_time": 1767431725,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 113415,
+      "num": 113415,
+      "word": "辛云来真在工厂打过工",
+      "onboard_time": 1768304843,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -23291,6 +23475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110532,
+      "num": 109352,
+      "word": "小城大事收视率",
+      "onboard_time": 1768309162,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110493,
       "num": 111157,
       "word": "老干妈回应味道变了",
@@ -23313,6 +23505,14 @@
       "onboard_time": 1768111461,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110414,
+      "num": 113419,
+      "word": "肚子上挂了三年瘤子的狗狗重生了",
+      "onboard_time": 1768306463,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 110354,
@@ -23465,6 +23665,14 @@
       "onboard_time": 1768057102,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109714,
+      "num": 109714,
+      "word": "小猫可爱的出场竟是为了去吵架",
+      "onboard_time": 1768308862,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 109712,
@@ -24515,6 +24723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105407,
+      "num": 105407,
+      "word": "逆战未来",
+      "onboard_time": 1768307062,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 105309,
       "num": 105309,
       "word": "景德镇车祸原因是肇事司机与女友吵架",
@@ -24619,6 +24835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105066,
+      "num": 105066,
+      "word": "逆战未来开服直播",
+      "onboard_time": 1768309042,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 105001,
       "num": 198265,
       "word": "高德向100万小商家免费开放飞行街景",
@@ -24681,6 +24905,14 @@
       "onboard_time": 1767520223,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104601,
+      "num": 106272,
+      "word": "王楚钦现身备受关注",
+      "onboard_time": 1768305803,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 104597,
@@ -33035,6 +33267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75481,
+      "num": 198407,
+      "word": "花539元网购的鸭鸭羽绒服有2个尺码",
+      "onboard_time": 1768308562,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75462,
       "num": 972135,
       "word": "王者中阵亡次数最多的英雄",
@@ -35059,6 +35299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64707,
+      "num": 116739,
+      "word": "王楚钦今日状态正好",
+      "onboard_time": 1768308262,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64651,
       "num": 132820,
       "word": "属马名字带马的游客查收福利",
@@ -36697,6 +36945,14 @@
       "onboard_time": 1767339319,
       "rank": 43,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 53996,
+      "num": 199882,
+      "word": "一单位招聘要求去南北极本科可报名",
+      "onboard_time": 1768308503,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53879,

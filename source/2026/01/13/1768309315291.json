@@ -1,0 +1,410 @@
+{
+  "runTime": 1768309315291,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 800080,
+        "num": 1128012,
+        "word": "国考",
+        "onboard_time": 1768288881,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 417162,
+        "num": 797737,
+        "word": "新音联排",
+        "onboard_time": 1768307482,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86219,
+        "num": 660147,
+        "word": "小砂糖橘勇闯东北新一季来了",
+        "onboard_time": 1768298120,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323783,
+        "num": 323783,
+        "word": "国考成绩 紧张",
+        "onboard_time": 1768307301,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 322839,
+        "num": 322839,
+        "word": "麦当劳回应汉堡变小了",
+        "onboard_time": 1768302502,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385770,
+        "num": 321620,
+        "word": "爱吃车厘子的女生天亮了",
+        "onboard_time": 1768297821,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226484,
+        "num": 320956,
+        "word": "国考成绩什么时候出",
+        "onboard_time": 1768287620,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 224622,
+        "num": 318984,
+        "word": "钟薛高已被申请破产清算",
+        "onboard_time": 1768300340,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201696,
+        "num": 318264,
+        "word": "王楚钦LV品牌大使",
+        "onboard_time": 1768308622,
+        "rank": 8,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 169966,
+        "num": 317299,
+        "word": "韩检方要求判尹锡悦死刑",
+        "onboard_time": 1768308322,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 525463,
+        "num": 315421,
+        "word": "西安华清池贵妃裸体出浴雕像引争议",
+        "onboard_time": 1768304721,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 498052,
+        "num": 314906,
+        "word": "邵明明持证上岗",
+        "onboard_time": 1768306222,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346962,
+        "num": 313229,
+        "word": "柬埔寨狗笼运活人视频疯传",
+        "onboard_time": 1768303521,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 330689,
+        "num": 312282,
+        "word": "张艺兴中巴建交七十五载合照",
+        "onboard_time": 1768305682,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311091,
+        "num": 311091,
+        "word": "日本女市长与下属开房辞职后再当选",
+        "onboard_time": 1768308562,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 278102,
+        "num": 278102,
+        "word": "劝了800次分手最后参加了婚礼",
+        "onboard_time": 1768303642,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236641,
+        "num": 236641,
+        "word": "林心如说霍建华结婚后没下过厨",
+        "onboard_time": 1768302741,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202318,
+        "num": 202318,
+        "word": "宋茜大背头黑西装",
+        "onboard_time": 1768306162,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 53996,
+        "num": 199882,
+        "word": "一单位招聘要求去南北极本科可报名",
+        "onboard_time": 1768308503,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75481,
+        "num": 198407,
+        "word": "花539元网购的鸭鸭羽绒服有2个尺码",
+        "onboard_time": 1768308562,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2536475,
+        "num": 193843,
+        "word": "阿Sa官宣恋情",
+        "onboard_time": 1768303462,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 572089,
+        "num": 192535,
+        "word": "LV活动",
+        "onboard_time": 1768302202,
+        "rank": 21,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 406531,
+        "num": 190083,
+        "word": "章泽天完全不给孩子看社媒",
+        "onboard_time": 1768295241,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305566,
+        "num": 187628,
+        "word": "汪涵杨乐乐11岁儿子正脸",
+        "onboard_time": 1768303282,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230824,
+        "num": 182525,
+        "word": "王楚钦礼貌社交中",
+        "onboard_time": 1768306762,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181865,
+        "num": 181865,
+        "word": "产检正常娃出生却诊出先天畸形",
+        "onboard_time": 1768302442,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173980,
+        "num": 173980,
+        "word": "第一次被女主男二追着喂饭",
+        "onboard_time": 1768308803,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165806,
+        "num": 165806,
+        "word": "迅猛龙小澈曾共用化妆品",
+        "onboard_time": 1768307421,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 136111,
+        "num": 162667,
+        "word": "老人生前录遗嘱遗产给儿子不给女儿",
+        "onboard_time": 1768308562,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161837,
+        "num": 161837,
+        "word": "橹穆联排",
+        "onboard_time": 1768309284,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140737,
+        "num": 140737,
+        "word": "刘冲偏爱杨幂的样子像极我和闺蜜",
+        "onboard_time": 1768306402,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128402,
+        "num": 140335,
+        "word": "EDG官宣Clearlove回归",
+        "onboard_time": 1768307904,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139998,
+        "num": 139998,
+        "word": "迅猛龙 小澈",
+        "onboard_time": 1768292421,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 131210,
+        "num": 131210,
+        "word": "逆战未来主题曲首唱",
+        "onboard_time": 1768309042,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126446,
+        "num": 126446,
+        "word": "男子疑因辞职照顾母亲没批准致跳楼",
+        "onboard_time": 1768308622,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121059,
+        "num": 121059,
+        "word": "iPhone自带堪比打印机的软件",
+        "onboard_time": 1768308682,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 117398,
+        "num": 117398,
+        "word": "雷军回应小米二手车行情",
+        "onboard_time": 1768305503,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 64707,
+        "num": 116739,
+        "word": "王楚钦今日状态正好",
+        "onboard_time": 1768308262,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114071,
+        "num": 116676,
+        "word": "一张闲置床竟让一家人20天没法做饭",
+        "onboard_time": 1768307661,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116668,
+        "num": 116668,
+        "word": "美雪扮演者因出演小魔仙被校园暴力",
+        "onboard_time": 1768308741,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113437,
+        "num": 113437,
+        "word": "腾讯告诉全世界肖战签了十日终焉",
+        "onboard_time": 1768290201,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110414,
+        "num": 113419,
+        "word": "肚子上挂了三年瘤子的狗狗重生了",
+        "onboard_time": 1768306463,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113415,
+        "num": 113415,
+        "word": "辛云来真在工厂打过工",
+        "onboard_time": 1768304843,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111077,
+        "num": 111077,
+        "word": "高晓松26天瘦了26斤",
+        "onboard_time": 1768299141,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109714,
+        "num": 109714,
+        "word": "小猫可爱的出场竟是为了去吵架",
+        "onboard_time": 1768308862,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110532,
+        "num": 109352,
+        "word": "小城大事收视率",
+        "onboard_time": 1768309162,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104601,
+        "num": 106272,
+        "word": "王楚钦现身备受关注",
+        "onboard_time": 1768305803,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105407,
+        "num": 105407,
+        "word": "逆战未来",
+        "onboard_time": 1768307062,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105066,
+        "num": 105066,
+        "word": "逆战未来开服直播",
+        "onboard_time": 1768309042,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98340,
+        "num": 98340,
+        "word": "白鹿跑男收官发文",
+        "onboard_time": 1768298182,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记推进全面从严治党最新部署#"
+    }
+  }
+}
