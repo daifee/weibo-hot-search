@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/13 19:29:08
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/13 19:43:56
 </p>
 </blockquote>
 <p>
@@ -149,6 +149,12 @@ Asen回应Sakee（热度：2704539）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E7%94%B5%E8%A7%86%E5%89%A7%E8%87%B4%E6%AD%89%23" target="weibo">
 爱奇艺电视剧致歉（热度：1998587）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BFSa%E8%94%A1%E5%8D%93%E5%A6%8D%E5%AE%98%E5%AE%A3%E6%81%8B%E6%83%85%23" target="weibo">
+阿Sa蔡卓妍官宣恋情（热度：1932998）
 </a>
 </li>
 
@@ -477,6 +483,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23LV%E6%B4%BB%E5%8A%A8%23" target="weibo">
+LV活动（热度：1044426）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%90%83%E8%BD%A6%E5%8E%98%E5%AD%90%E7%9A%84%E5%A5%B3%E7%94%9F%E5%A4%A9%E4%BA%AE%E4%BA%86%23" target="weibo">
 爱吃车厘子的女生天亮了（热度：1042600）
 </a>
@@ -719,12 +731,6 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E5%88%86%E5%88%AB%E5%8F%96%E5%90%8D%E7%81%BF%E5%92%8C%E7%83%82%23" target="weibo">
 双胞胎姐妹分别取名灿和烂（热度：882691）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23LV%E6%B4%BB%E5%8A%A8%23" target="weibo">
-LV活动（热度：881081）
 </a>
 </li>
 
@@ -5121,6 +5127,12 @@ TVB第一个打烂奖杯（热度：318351）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%83%E5%A6%82%E8%AF%B4%E9%9C%8D%E5%BB%BA%E5%8D%8E%E7%BB%93%E5%A9%9A%E5%90%8E%E6%B2%A1%E4%B8%8B%E8%BF%87%E5%8E%A8%23" target="weibo">
+林心如说霍建华结婚后没下过厨（热度：315176）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E5%86%99%E4%BA%8626%E5%B9%B4%E7%9A%84%E4%B8%93%E6%A0%8F%E5%81%9C%E6%9B%B4%E4%BA%86%23" target="weibo">
 何炅写了26年的专栏停更了（热度：314757）
 </a>
@@ -5267,12 +5279,6 @@ TVB第一个打烂奖杯（热度：318351）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E8%A6%81%E6%B1%82%E7%BE%8E%E7%AB%8B%E5%8D%B3%E6%BE%84%E6%B8%85%E9%A9%AC%E6%9D%9C%E7%BD%97%E6%83%85%E5%86%B5%23" target="weibo">
 俄要求美立即澄清马杜罗情况（热度：307617）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%83%E5%A6%82%E8%AF%B4%E9%9C%8D%E5%BB%BA%E5%8D%8E%E7%BB%93%E5%A9%9A%E5%90%8E%E6%B2%A1%E4%B8%8B%E8%BF%87%E5%8E%A8%23" target="weibo">
-林心如说霍建华结婚后没下过厨（热度：306212）
 </a>
 </li>
 
@@ -5613,6 +5619,12 @@ TVB第一个打烂奖杯（热度：318351）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%9B%9E%E5%BA%94%E6%B1%89%E5%A0%A1%E5%8F%98%E5%B0%8F%E4%BA%86%23" target="weibo">
+麦当劳回应汉堡变小了（热度：292867）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E8%BF%99%E9%A6%96%E7%A6%BB%E5%A9%9A%E7%9A%84%E6%AD%8C%E5%90%AC%E4%BA%86388%E9%81%8D%23" target="weibo">
 白鹿这首离婚的歌听了388遍（热度：292587）
 </a>
@@ -5877,12 +5889,6 @@ TVB第一个打烂奖杯（热度：318351）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%BFSa%E8%94%A1%E5%8D%93%E5%A6%8D%E5%AE%98%E5%AE%A3%E6%81%8B%E6%83%85%23" target="weibo">
-阿Sa蔡卓妍官宣恋情（热度：278624）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A5%BF%E5%8D%8A%E7%90%83%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E5%8D%8A%E7%90%83%23" target="weibo">
 特朗普称西半球是我们的半球（热度：278316）
 </a>
@@ -6005,12 +6011,6 @@ RNG告别LPL（热度：278250）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%AC%E5%B1%85APP%E6%AD%BB%E4%BA%86%E4%B9%88%E8%A2%AB%E5%90%90%E6%A7%BD%E6%99%A6%E6%B0%94%23" target="weibo">
 独居APP死了么被吐槽晦气（热度：275139）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B4%A9%E5%9D%8F%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%23" target="weibo">
-崩坏星穹铁道（热度：275106）
 </a>
 </li>
 

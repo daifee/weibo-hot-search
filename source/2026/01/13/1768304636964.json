@@ -1,0 +1,410 @@
+{
+  "runTime": 1768304636964,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 659153,
+        "num": 1105464,
+        "word": "钟薛高已被申请破产清算",
+        "onboard_time": 1768300340,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 476417,
+        "num": 798908,
+        "word": "国考",
+        "onboard_time": 1768288881,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 99716,
+        "num": 637136,
+        "word": "小砂糖橘勇闯东北新一季来了",
+        "onboard_time": 1768298120,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292867,
+        "num": 292867,
+        "word": "麦当劳回应汉堡变小了",
+        "onboard_time": 1768302502,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168020,
+        "num": 292468,
+        "word": "深圳多地租客突然被通知退租",
+        "onboard_time": 1768297821,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 471613,
+        "num": 292172,
+        "word": "爱吃车厘子的女生天亮了",
+        "onboard_time": 1768297821,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187977,
+        "num": 291941,
+        "word": "产检正常娃出生却诊出先天畸形",
+        "onboard_time": 1768302442,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148069,
+        "num": 291259,
+        "word": "内蒙古小学校服薄膜调查结果",
+        "onboard_time": 1768303341,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 117689,
+        "num": 291046,
+        "word": "国考成绩什么时候出",
+        "onboard_time": 1768287620,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 106454,
+        "num": 290533,
+        "word": "贵州文旅厅成立联合调查组",
+        "onboard_time": 1768304242,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1044426,
+        "num": 290301,
+        "word": "LV活动",
+        "onboard_time": 1768302202,
+        "rank": 10,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 219954,
+        "num": 289730,
+        "word": "柬埔寨狗笼运活人视频疯传",
+        "onboard_time": 1768303521,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 172500,
+        "num": 289483,
+        "word": "孩子一张嘴身份证都掉出来了",
+        "onboard_time": 1768291220,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160201,
+        "num": 289097,
+        "word": "轧戏",
+        "onboard_time": 1768304423,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154546,
+        "num": 288685,
+        "word": "王楚钦棕色牛仔套装",
+        "onboard_time": 1768304423,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146228,
+        "num": 288036,
+        "word": "女子称领育儿补贴被拒分居丈夫却可领",
+        "onboard_time": 1768302502,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131921,
+        "num": 287549,
+        "word": "中方已经保持最大限度忍耐和克制",
+        "onboard_time": 1768283241,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133375,
+        "num": 287174,
+        "word": "小城大事",
+        "onboard_time": 1768304481,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60675,
+        "num": 286759,
+        "word": "王勉和Norah嘴替了谁",
+        "onboard_time": 1768304242,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47487,
+        "num": 286402,
+        "word": "金粒门致歉",
+        "onboard_time": 1768303702,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1932998,
+        "num": 286064,
+        "word": "阿Sa蔡卓妍官宣恋情",
+        "onboard_time": 1768303462,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 682490,
+        "num": 285785,
+        "word": "章泽天完全不给孩子看社媒",
+        "onboard_time": 1768295241,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147273,
+        "num": 285064,
+        "word": "去糖最快的运动",
+        "onboard_time": 1768298361,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125896,
+        "num": 284917,
+        "word": "警犬被通报批评",
+        "onboard_time": 1768283660,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 611264,
+        "num": 284350,
+        "word": "迅猛龙 小澈",
+        "onboard_time": 1768292421,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 318710,
+        "num": 283831,
+        "word": "高晓松26天瘦了26斤",
+        "onboard_time": 1768299141,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126297,
+        "num": 283324,
+        "word": "建议大家不要长期戴隐形眼镜",
+        "onboard_time": 1768299262,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 315176,
+        "num": 282875,
+        "word": "林心如说霍建华结婚后没下过厨",
+        "onboard_time": 1768302741,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282870,
+        "num": 282870,
+        "word": "奔跑吧14要去很久没去的地方",
+        "onboard_time": 1768298722,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99459,
+        "num": 265931,
+        "word": "谁吃过飞机餐的五无包",
+        "onboard_time": 1768300701,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109195,
+        "num": 261835,
+        "word": "刘亦菲代旭对手戏",
+        "onboard_time": 1768301421,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308147,
+        "num": 261677,
+        "word": "高市早苗迎接李在明画面",
+        "onboard_time": 1768297101,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 261507,
+        "num": 261507,
+        "word": "网传刘耀文出演十日终焉",
+        "onboard_time": 1768300943,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145733,
+        "num": 240981,
+        "word": "李在明与高市早苗谈话内容披露",
+        "onboard_time": 1768300102,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 255537,
+        "num": 240013,
+        "word": "李在明向日方强调韩中日三国合作",
+        "onboard_time": 1768300400,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 235757,
+        "num": 235757,
+        "word": "腾讯告诉全世界肖战签了十日终焉",
+        "onboard_time": 1768290201,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229981,
+        "num": 229981,
+        "word": "张艺兴做了鼻炎手术",
+        "onboard_time": 1768297281,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27355,
+        "num": 226937,
+        "word": "门兴多特争宠樊振东",
+        "onboard_time": 1768304362,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74368,
+        "num": 223602,
+        "word": "蒋勤勤不愧是纯元",
+        "onboard_time": 1768304303,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12215,
+        "num": 219185,
+        "word": "怀化通报一公司排放臭气扰民",
+        "onboard_time": 1768304362,
+        "rank": 39,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 194130,
+        "num": 213824,
+        "word": "劝了800次分手最后参加了婚礼",
+        "onboard_time": 1768303642,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211146,
+        "num": 211146,
+        "word": "汪涵杨乐乐11岁儿子正脸",
+        "onboard_time": 1768303282,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199531,
+        "num": 199531,
+        "word": "祯娘传央妈赐名",
+        "onboard_time": 1768299321,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90788,
+        "num": 186875,
+        "word": "犟种都是以乖乖女的人设出现",
+        "onboard_time": 1768304242,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181551,
+        "num": 181551,
+        "word": "易烊千玺报名金像奖男配",
+        "onboard_time": 1768298662,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150789,
+        "num": 150789,
+        "word": "口子姐曾自曝患梅毒手臂溃烂",
+        "onboard_time": 1768290980,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 86814,
+        "num": 145931,
+        "word": "樊振东开心得变成小孩子",
+        "onboard_time": 1768302382,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145775,
+        "num": 145775,
+        "word": "李亚鹏称嫣然天使儿童医院或成历史",
+        "onboard_time": 1768304423,
+        "rank": 47,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 131990,
+        "num": 131990,
+        "word": "高晓松因为医疗事故有了双眼皮",
+        "onboard_time": 1768302622,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61676,
+        "num": 129311,
+        "word": "脂包骨是身体发出的危机信号",
+        "onboard_time": 1768301662,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记推进全面从严治党最新部署#"
+    }
+  }
+}

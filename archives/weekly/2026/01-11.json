@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768303748134,
+  "endTime": 1768304636964,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -41,6 +41,14 @@
       "onboard_time": 1768049061,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1932998,
+      "num": 286064,
+      "word": "阿Sa蔡卓妍官宣恋情",
+      "onboard_time": 1768303462,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 1754609,
@@ -171,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1044426,
+      "num": 336984,
+      "word": "LV活动",
+      "onboard_time": 1768302202,
+      "rank": 10,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 1042600,
       "num": 762403,
       "word": "爱吃车厘子的女生天亮了",
@@ -233,14 +249,6 @@
       "onboard_time": 1768273340,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 881081,
-      "num": 336984,
-      "word": "LV活动",
-      "onboard_time": 1768302202,
-      "rank": 10,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 848525,
@@ -1755,6 +1763,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 315176,
+      "num": 306212,
+      "word": "林心如说霍建华结婚后没下过厨",
+      "onboard_time": 1768302741,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314407,
       "num": 785343,
       "word": "美联储主席鲍威尔遭刑事调查",
@@ -1809,14 +1825,6 @@
       "onboard_time": 1768274781,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 306212,
-      "num": 306212,
-      "word": "林心如说霍建华结婚后没下过厨",
-      "onboard_time": 1768302741,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 306054,
@@ -1915,6 +1923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 292867,
+      "num": 388433,
+      "word": "麦当劳回应汉堡变小了",
+      "onboard_time": 1768302502,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 291166,
       "num": 133639,
       "word": "阎鹤祥升级当爸",
@@ -1976,14 +1992,6 @@
       "word": "单依纯代言香奈儿",
       "onboard_time": 1768184659,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 278624,
-      "num": 278624,
-      "word": "阿Sa蔡卓妍官宣恋情",
-      "onboard_time": 1768303462,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -2060,7 +2068,7 @@
     },
     {
       "raw_hot": 272575,
-      "num": 272575,
+      "num": 287174,
       "word": "小城大事",
       "onboard_time": 1768045161,
       "rank": 40,
@@ -2611,6 +2619,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 219954,
+      "num": 289730,
+      "word": "柬埔寨狗笼运活人视频疯传",
+      "onboard_time": 1768303521,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 219682,
       "num": 219682,
       "word": "10人违规吃喝1人死亡9人被处理",
@@ -2761,6 +2777,14 @@
       "onboard_time": 1768128322,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 211146,
+      "num": 211146,
+      "word": "汪涵杨乐乐11岁儿子正脸",
+      "onboard_time": 1768303282,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 207991,
@@ -2945,6 +2969,14 @@
       "onboard_time": 1768135521,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194130,
+      "num": 213824,
+      "word": "劝了800次分手最后参加了婚礼",
+      "onboard_time": 1768303642,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 193903,
@@ -3137,6 +3169,14 @@
       "onboard_time": 1768190721,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187977,
+      "num": 361662,
+      "word": "产检正常娃出生却诊出先天畸形",
+      "onboard_time": 1768302442,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187375,
@@ -3980,7 +4020,7 @@
     },
     {
       "raw_hot": 156546,
-      "num": 196312,
+      "num": 291046,
       "word": "国考成绩什么时候出",
       "onboard_time": 1768287620,
       "rank": 9,
@@ -4041,6 +4081,14 @@
       "onboard_time": 1768210521,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154546,
+      "num": 288685,
+      "word": "王楚钦棕色牛仔套装",
+      "onboard_time": 1768304423,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 154065,
@@ -4219,6 +4267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148069,
+      "num": 313857,
+      "word": "内蒙古小学校服薄膜调查结果",
+      "onboard_time": 1768303341,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 147694,
       "num": 128918,
       "word": "整栋楼都醒了只有妹妹没醒",
@@ -4259,6 +4315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 146228,
+      "num": 288036,
+      "word": "女子称领育儿补贴被拒分居丈夫却可领",
+      "onboard_time": 1768302502,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146137,
       "num": 146137,
       "word": "谢娜的菜来了",
@@ -4273,6 +4337,14 @@
       "onboard_time": 1768191381,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145775,
+      "num": 145775,
+      "word": "李亚鹏称嫣然天使儿童医院或成历史",
+      "onboard_time": 1768304423,
+      "rank": 47,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 145560,
@@ -4401,14 +4473,6 @@
       "onboard_time": 1768194680,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 140648,
-      "num": 180874,
-      "word": "柬埔寨狗笼运活人视频疯传",
-      "onboard_time": 1768303521,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 140622,
@@ -4553,14 +4617,6 @@
       "onboard_time": 1768218861,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 135596,
-      "num": 361662,
-      "word": "产检正常娃出生却诊出先天畸形",
-      "onboard_time": 1768302442,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 135583,
@@ -4740,7 +4796,7 @@
     },
     {
       "raw_hot": 131250,
-      "num": 113517,
+      "num": 261835,
       "word": "刘亦菲代旭对手戏",
       "onboard_time": 1768301421,
       "rank": 44,
@@ -4969,6 +5025,14 @@
       "onboard_time": 1768298120,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126297,
+      "num": 283324,
+      "word": "建议大家不要长期戴隐形眼镜",
+      "onboard_time": 1768299262,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 126155,
@@ -5371,14 +5435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117497,
-      "num": 388433,
-      "word": "麦当劳回应汉堡变小了",
-      "onboard_time": 1768302502,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 117458,
       "num": 117458,
       "word": "AI沙皇也是平A为主",
@@ -5649,14 +5705,6 @@
       "onboard_time": 1768140321,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113699,
-      "num": 113699,
-      "word": "劝了800次分手最后参加了婚礼",
-      "onboard_time": 1768303642,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 113600,
@@ -6115,6 +6163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106454,
+      "num": 290533,
+      "word": "贵州文旅厅成立联合调查组",
+      "onboard_time": 1768304242,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106435,
       "num": 106435,
       "word": "肖战将出席电视剧年度盛典",
@@ -6505,14 +6561,6 @@
       "onboard_time": 1768216282,
       "rank": 43,
       "category": "数码"
-    },
-    {
-      "raw_hot": 101104,
-      "num": 109921,
-      "word": "建议大家不要长期戴隐形眼镜",
-      "onboard_time": 1768299262,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 101073,
@@ -7027,14 +7075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 94226,
-      "num": 284904,
-      "word": "女子称领育儿补贴被拒分居丈夫却可领",
-      "onboard_time": 1768302502,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94196,
       "num": 94196,
       "word": "杨洋开年刊封面",
@@ -7273,6 +7313,14 @@
       "onboard_time": 1768139482,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 90788,
+      "num": 186875,
+      "word": "犟种都是以乖乖女的人设出现",
+      "onboard_time": 1768304242,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 90662,
@@ -7633,14 +7681,6 @@
       "onboard_time": 1768131201,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 85766,
-      "num": 152398,
-      "word": "汪涵杨乐乐11岁儿子正脸",
-      "onboard_time": 1768303282,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 85580,
@@ -8339,6 +8379,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 74368,
+      "num": 223602,
+      "word": "蒋勤勤不愧是纯元",
+      "onboard_time": 1768304303,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74101,
       "num": 74101,
       "word": "终于知道刘海卷筒到底怎么用了",
@@ -8505,14 +8553,6 @@
       "onboard_time": 1768184840,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 70205,
-      "num": 313857,
-      "word": "内蒙古小学校服薄膜调查结果",
-      "onboard_time": 1768303341,
-      "rank": 14,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 70194,
@@ -8844,7 +8884,7 @@
     },
     {
       "raw_hot": 62892,
-      "num": 109899,
+      "num": 129311,
       "word": "脂包骨是身体发出的危机信号",
       "onboard_time": 1768301662,
       "rank": 48,
@@ -8955,6 +8995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60675,
+      "num": 286759,
+      "word": "王勉和Norah嘴替了谁",
+      "onboard_time": 1768304242,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60223,
       "num": 195564,
       "word": "TF家族花絮照",
@@ -9004,7 +9052,7 @@
     },
     {
       "raw_hot": 59333,
-      "num": 154043,
+      "num": 286402,
       "word": "金粒门致歉",
       "onboard_time": 1768303702,
       "rank": 36,
@@ -9939,6 +9987,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 27355,
+      "num": 226937,
+      "word": "门兴多特争宠樊振东",
+      "onboard_time": 1768304362,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27248,
       "num": 100504,
       "word": "为免作业小孩哥一己之力扛下所有",
@@ -10441,6 +10497,14 @@
       "onboard_time": 1768248434,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12215,
+      "num": 219185,
+      "word": "怀化通报一公司排放臭气扰民",
+      "onboard_time": 1768304362,
+      "rank": 39,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 11979,

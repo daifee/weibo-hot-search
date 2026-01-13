@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/13 19:29:08
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/13 19:43:56
 </p>
 </blockquote>
 <p>
@@ -149,6 +149,12 @@ Asen回应Sakee（热度：2704539）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E7%94%B5%E8%A7%86%E5%89%A7%E8%87%B4%E6%AD%89%23" target="weibo">
 爱奇艺电视剧致歉（热度：1998587）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BFSa%E8%94%A1%E5%8D%93%E5%A6%8D%E5%AE%98%E5%AE%A3%E6%81%8B%E6%83%85%23" target="weibo">
+阿Sa蔡卓妍官宣恋情（热度：1932998）
 </a>
 </li>
 
@@ -477,6 +483,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23LV%E6%B4%BB%E5%8A%A8%23" target="weibo">
+LV活动（热度：1044426）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%90%83%E8%BD%A6%E5%8E%98%E5%AD%90%E7%9A%84%E5%A5%B3%E7%94%9F%E5%A4%A9%E4%BA%AE%E4%BA%86%23" target="weibo">
 爱吃车厘子的女生天亮了（热度：1042600）
 </a>
@@ -719,12 +731,6 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E5%88%86%E5%88%AB%E5%8F%96%E5%90%8D%E7%81%BF%E5%92%8C%E7%83%82%23" target="weibo">
 双胞胎姐妹分别取名灿和烂（热度：882691）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23LV%E6%B4%BB%E5%8A%A8%23" target="weibo">
-LV活动（热度：881081）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ AI照片竟然拿了摄影比赛第一名（热度：667067）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%9C%E5%AE%B6%E5%AE%A3%E5%B8%83%E5%85%B3%E9%97%AD7%E5%AE%B6%E9%97%A8%E5%BA%97%23" target="weibo">
 宜家宣布关闭7家门店（热度：576601）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%20%E6%B2%A1%E8%A7%81%E8%BF%87%E6%AF%94%E5%A8%9C%E6%89%8E%E5%A5%BD%E7%9C%8B%E7%9A%84%E5%A5%B3%E6%98%8E%E6%98%9F%23" target="weibo">
-于正 没见过比娜扎好看的女明星（热度：576348）
 </a>
 </li>
 
