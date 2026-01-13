@@ -1,6 +1,6 @@
 {
   "startTime": 1768322530118,
-  "endTime": 1768323557826,
+  "endTime": 1768325682687,
   "band_list": [
     {
       "raw_hot": 641527,
@@ -75,12 +75,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 162496,
+      "num": 97334,
+      "word": "刘嘉玲遗憾没有像样代表作",
+      "onboard_time": 1768321759,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161608,
       "num": 161608,
       "word": "西安华清池贵妃裸体出浴雕像引争议",
       "onboard_time": 1768304721,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160217,
+      "num": 134745,
+      "word": "高市早苗对李在明尖声喊您好",
+      "onboard_time": 1768321338,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 135206,
@@ -129,22 +145,6 @@
       "onboard_time": 1768316244,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 97334,
-      "num": 97334,
-      "word": "刘嘉玲遗憾没有像样代表作",
-      "onboard_time": 1768321759,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 94563,
-      "num": 134745,
-      "word": "高市早苗对李在明尖声喊您好",
-      "onboard_time": 1768321338,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 94048,
@@ -283,12 +283,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74274,
+      "num": 55967,
+      "word": "欧阳娜娜线下美成啥样了",
+      "onboard_time": 1768323557,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74181,
       "num": 118241,
       "word": "轧戏",
       "onboard_time": 1768304423,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 72915,
+      "num": 72915,
+      "word": "狗主人已接受高校提供的经济补偿",
+      "onboard_time": 1768323078,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71323,
@@ -403,6 +419,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 43022,
+      "num": 46447,
+      "word": "美雪扮演者因出演小魔仙被校园暴力",
+      "onboard_time": 1768308741,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36327,
       "num": 97109,
       "word": "雷军回应小米二手车行情",
@@ -425,6 +449,14 @@
       "onboard_time": 1768314022,
       "rank": 2,
       "category": "演出"
+    },
+    {
+      "raw_hot": 26861,
+      "num": 46309,
+      "word": "王鹤棣条纹风衣",
+      "onboard_time": 1768325476,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     }
   ],
   "hotgov_list": [

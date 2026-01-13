@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768323557826,
+  "endTime": 1768325682687,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -15275,6 +15275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162496,
+      "num": 97334,
+      "word": "刘嘉玲遗憾没有像样代表作",
+      "onboard_time": 1768321759,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162485,
       "num": 162485,
       "word": "TF四代参加川渝春晚",
@@ -15577,6 +15585,14 @@
       "onboard_time": 1767710245,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160217,
+      "num": 134745,
+      "word": "高市早苗对李在明尖声喊您好",
+      "onboard_time": 1768321338,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 160068,
@@ -27627,14 +27643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97334,
-      "num": 97334,
-      "word": "刘嘉玲遗憾没有像样代表作",
-      "onboard_time": 1768321759,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 97329,
       "num": 97329,
       "word": "程潇演技",
@@ -28489,14 +28497,6 @@
       "onboard_time": 1768225581,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 94563,
-      "num": 134745,
-      "word": "高市早苗对李在明尖声喊您好",
-      "onboard_time": 1768321338,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 94557,
@@ -34123,6 +34123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74274,
+      "num": 55967,
+      "word": "欧阳娜娜线下美成啥样了",
+      "onboard_time": 1768323557,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74251,
       "num": 739239,
       "word": "2026新年贺词壁纸",
@@ -34369,6 +34377,14 @@
       "onboard_time": 1767435566,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 72915,
+      "num": 72915,
+      "word": "狗主人已接受高校提供的经济补偿",
+      "onboard_time": 1768323078,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72819,
@@ -41441,6 +41457,14 @@
       "onboard_time": 1768130181,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26861,
+      "num": 46309,
+      "word": "王鹤棣条纹风衣",
+      "onboard_time": 1768325476,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 26843,
