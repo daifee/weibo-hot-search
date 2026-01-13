@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/14 06:47:43
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/14 07:27:27
 </p>
 </blockquote>
 <p>
@@ -4209,6 +4209,12 @@ TF荣耀之战（热度：372589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E6%81%8B%E7%BB%BC%E9%AA%82%E8%BF%99%E4%B9%88%E7%8B%A0%E7%9A%84%23" target="weibo">
+第一次见恋综骂这么狠的（热度：368759）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%20%E6%9C%89%E7%A6%8F%E6%B0%94%E7%9A%84%E4%BA%BA%E9%83%BD%E4%B8%8D%E4%B8%8A%E9%95%9C%23" target="weibo">
 娜扎 有福气的人都不上镜（热度：368104）
 </a>
@@ -5205,6 +5211,12 @@ TVB第一个打烂奖杯（热度：318351）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A9%86%E9%94%99%E5%A4%B1%E5%B9%B4%E7%BB%88%E5%A5%96%E8%80%81%E5%85%AC%E5%A9%86%E5%A9%86%E9%BB%98%E5%A5%91%E8%A1%A5%E4%B8%8A%23" target="weibo">
+老婆错失年终奖老公婆婆默契补上（热度：317338）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%A1%A8%E6%80%81%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%23" target="weibo">
 李在明表态台湾问题（热度：316987）
 </a>
@@ -5999,18 +6011,6 @@ iPhone自带堪比打印机的软件（热度：315415）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%9F%E4%B8%80%E5%86%9B%E8%A3%85%E5%AE%A1%E7%BE%8E%E7%9A%84%E7%94%B7%E4%BA%BA%E6%9D%80%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
 统一军装审美的男人杀回来了（热度：280098）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B01499%E5%85%83%E7%9B%B4%E9%94%80%E6%88%90%E9%BB%84%E7%89%9B%E5%99%A9%E6%A2%A6%23" target="weibo">
-茅台1499元直销成黄牛噩梦（热度：280003）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BA%A2%E7%A7%80%E5%BC%80%E5%B9%B4%E5%B0%81%E9%9D%A2%23" target="weibo">
-迪丽热巴红秀开年封面（热度：279552）
 </a>
 </li>
 

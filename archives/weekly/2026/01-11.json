@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768344463434,
+  "endTime": 1768346847844,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -1555,6 +1555,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 368759,
+      "num": 368759,
+      "word": "第一次见恋综骂这么狠的",
+      "onboard_time": 1768310962,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 368013,
       "num": 799304,
       "word": "河南省考",
@@ -1921,6 +1929,14 @@
       "onboard_time": 1768104139,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 317338,
+      "num": 787510,
+      "word": "老婆错失年终奖老公婆婆默契补上",
+      "onboard_time": 1768317681,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 315751,
@@ -3211,22 +3227,6 @@
       "category": "民生新闻,体育"
     },
     {
-      "raw_hot": 196737,
-      "num": 187117,
-      "word": "第一次见恋综骂这么狠的",
-      "onboard_time": 1768310962,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 196648,
-      "num": 454089,
-      "word": "老婆错失年终奖老公婆婆默契补上",
-      "onboard_time": 1768317681,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 196453,
       "num": 399310,
       "word": "痞幼回应前几段恋情",
@@ -3273,6 +3273,14 @@
       "onboard_time": 1768190900,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 194476,
+      "num": 132367,
+      "word": "刘嘉玲遗憾没有像样代表作",
+      "onboard_time": 1768321759,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 194385,
@@ -3529,6 +3537,14 @@
       "onboard_time": 1768143202,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186245,
+      "num": 167799,
+      "word": "高市早苗对李在明尖声喊您好",
+      "onboard_time": 1768321338,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 185852,
@@ -4131,14 +4147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162496,
-      "num": 132367,
-      "word": "刘嘉玲遗憾没有像样代表作",
-      "onboard_time": 1768321759,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 162485,
       "num": 162485,
       "word": "TF四代参加川渝春晚",
@@ -4233,14 +4241,6 @@
       "onboard_time": 1768123581,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 160217,
-      "num": 167799,
-      "word": "高市早苗对李在明尖声喊您好",
-      "onboard_time": 1768321338,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 159503,
@@ -5731,6 +5731,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 122495,
+      "num": 122495,
+      "word": "有人出价13万求购会装死的小羊",
+      "onboard_time": 1768346597,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122438,
       "num": 127898,
       "word": "曝美军方抵制入侵格陵兰岛计划",
@@ -5825,6 +5833,14 @@
       "onboard_time": 1768212801,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120818,
+      "num": 120818,
+      "word": "吴昕回忆快乐家族最后一次合体主持",
+      "onboard_time": 1768326915,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 120702,
@@ -6443,6 +6459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111362,
+      "num": 92847,
+      "word": "吴昕妈妈曾因杜海涛怀疑比赛不正规",
+      "onboard_time": 1768305561,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111096,
       "num": 111096,
       "word": "8人组团徒步2女子体力不支被弃荒山",
@@ -6641,6 +6665,14 @@
       "onboard_time": 1768269799,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108664,
+      "num": 130408,
+      "word": "女子连续4天在餐馆门口趴地不起",
+      "onboard_time": 1768316841,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108607,
@@ -6897,14 +6929,6 @@
       "onboard_time": 1768277179,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 105621,
-      "num": 130408,
-      "word": "女子连续4天在餐馆门口趴地不起",
-      "onboard_time": 1768316841,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105472,
@@ -7377,6 +7401,14 @@
       "onboard_time": 1768286600,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100365,
+      "num": 55293,
+      "word": "中方反对韩国国会议员同台方交往",
+      "onboard_time": 1768346597,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 100354,
@@ -8097,6 +8129,14 @@
       "onboard_time": 1768142543,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90388,
+      "num": 90388,
+      "word": "今天丽江机场被07快男承包了",
+      "onboard_time": 1768342334,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 90370,
@@ -9387,14 +9427,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 69817,
-      "num": 72558,
-      "word": "吴昕回忆快乐家族最后一次合体主持",
-      "onboard_time": 1768326915,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 69788,
       "num": 101152,
       "word": "民警执法牺牲画面公开同事哭喊破防",
@@ -9945,6 +9977,14 @@
       "onboard_time": 1768212621,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 55260,
+      "num": 55260,
+      "word": "大可4个月瘦了50斤",
+      "onboard_time": 1768345276,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 55125,
@@ -10859,6 +10899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 27428,
+      "num": 451676,
+      "word": "全国铁路新增243列客车",
+      "onboard_time": 1768313184,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27355,
       "num": 226937,
       "word": "门兴多特争宠樊振东",
@@ -10955,20 +11003,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 26151,
-      "num": 44864,
-      "word": "今天丽江机场被07快男承包了",
-      "onboard_time": 1768342334,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 25990,
       "num": 213069,
       "word": "特朗普说考虑干预伊朗局势的强硬选项",
       "onboard_time": 1768191982,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 25768,
+      "num": 55132,
+      "word": "黄轩杀青旁白",
+      "onboard_time": 1768346778,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 25478,
@@ -11393,14 +11441,6 @@
       "onboard_time": 1768184960,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 14586,
-      "num": 298579,
-      "word": "全国铁路新增243列客车",
-      "onboard_time": 1768313184,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14469,

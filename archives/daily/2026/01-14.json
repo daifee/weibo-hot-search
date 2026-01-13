@@ -1,6 +1,6 @@
 {
   "startTime": 1768322530118,
-  "endTime": 1768344463434,
+  "endTime": 1768346847844,
   "band_list": [
     {
       "raw_hot": 641527,
@@ -27,12 +27,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 368759,
+      "num": 368759,
+      "word": "第一次见恋综骂这么狠的",
+      "onboard_time": 1768310962,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 367370,
       "num": 131541,
       "word": "迅猛龙 小澈",
       "onboard_time": 1768292421,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 317338,
+      "num": 787510,
+      "word": "老婆错失年终奖老公婆婆默契补上",
+      "onboard_time": 1768317681,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 287168,
+      "num": 161608,
+      "word": "西安华清池贵妃裸体出浴雕像引争议",
+      "onboard_time": 1768304721,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225036,
@@ -51,20 +75,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 196648,
-      "num": 454089,
-      "word": "老婆错失年终奖老公婆婆默契补上",
-      "onboard_time": 1768317681,
-      "rank": 3,
-      "category": "民生新闻"
+      "raw_hot": 194476,
+      "num": 132367,
+      "word": "刘嘉玲遗憾没有像样代表作",
+      "onboard_time": 1768321759,
+      "rank": 41,
+      "category": "艺人"
     },
     {
-      "raw_hot": 187117,
-      "num": 187117,
-      "word": "第一次见恋综骂这么狠的",
-      "onboard_time": 1768310962,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 186245,
+      "num": 167799,
+      "word": "高市早苗对李在明尖声喊您好",
+      "onboard_time": 1768321338,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 180474,
@@ -83,28 +107,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 162496,
-      "num": 132367,
-      "word": "刘嘉玲遗憾没有像样代表作",
-      "onboard_time": 1768321759,
-      "rank": 41,
+      "raw_hot": 157013,
+      "num": 130923,
+      "word": "何晴儿子头像仍为全黑",
+      "onboard_time": 1768315343,
+      "rank": 24,
       "category": "艺人"
     },
     {
-      "raw_hot": 161608,
-      "num": 161608,
-      "word": "西安华清池贵妃裸体出浴雕像引争议",
-      "onboard_time": 1768304721,
-      "rank": 13,
+      "raw_hot": 146951,
+      "num": 130198,
+      "word": "13岁男孩泡澡20分钟脑出血",
+      "onboard_time": 1768316602,
+      "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 160217,
-      "num": 167799,
-      "word": "高市早苗对李在明尖声喊您好",
-      "onboard_time": 1768321338,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 139419,
@@ -121,6 +137,38 @@
       "onboard_time": 1768318461,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 122495,
+      "num": 122495,
+      "word": "有人出价13万求购会装死的小羊",
+      "onboard_time": 1768346597,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120818,
+      "num": 120818,
+      "word": "吴昕回忆快乐家族最后一次合体主持",
+      "onboard_time": 1768326915,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 111362,
+      "num": 92847,
+      "word": "吴昕妈妈曾因杜海涛怀疑比赛不正规",
+      "onboard_time": 1768305561,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 108664,
+      "num": 130408,
+      "word": "女子连续4天在餐馆门口趴地不起",
+      "onboard_time": 1768316841,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108201,
@@ -147,12 +195,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 100540,
-      "num": 130923,
-      "word": "何晴儿子头像仍为全黑",
-      "onboard_time": 1768315343,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 100365,
+      "num": 55293,
+      "word": "中方反对韩国国会议员同台方交往",
+      "onboard_time": 1768346597,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 100308,
@@ -195,28 +243,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 91226,
-      "num": 130198,
-      "word": "13岁男孩泡澡20分钟脑出血",
-      "onboard_time": 1768316602,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 91051,
-      "num": 130408,
-      "word": "女子连续4天在餐馆门口趴地不起",
-      "onboard_time": 1768316841,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90584,
       "num": 131228,
       "word": "爱吃鸭头的天塌了",
       "onboard_time": 1768309462,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 90388,
+      "num": 90388,
+      "word": "今天丽江机场被07快男承包了",
+      "onboard_time": 1768342334,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 89134,
@@ -249,6 +289,14 @@
       "onboard_time": 1768309284,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 86898,
+      "num": 130957,
+      "word": "美雪扮演者因出演小魔仙被校园暴力",
+      "onboard_time": 1768308741,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 78265,
@@ -323,12 +371,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 69817,
-      "num": 72558,
-      "word": "吴昕回忆快乐家族最后一次合体主持",
-      "onboard_time": 1768326915,
-      "rank": 4,
-      "category": "综艺"
+      "raw_hot": 68577,
+      "num": 130024,
+      "word": "麦当劳回应汉堡变小了",
+      "onboard_time": 1768302502,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67213,
@@ -347,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58944,
+      "num": 128972,
+      "word": "原来羽绒服可以这么洗",
+      "onboard_time": 1768312584,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 58197,
       "num": 159691,
       "word": "贪官商人一起空手套白狼买企业",
@@ -363,6 +419,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 55260,
+      "num": 55260,
+      "word": "大可4个月瘦了50斤",
+      "onboard_time": 1768345276,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 53983,
       "num": 97146,
       "word": "归鸾",
@@ -377,14 +441,6 @@
       "onboard_time": 1768314263,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 51782,
-      "num": 128972,
-      "word": "原来羽绒服可以这么洗",
-      "onboard_time": 1768312584,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 51758,
@@ -427,23 +483,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 43022,
-      "num": 130957,
-      "word": "美雪扮演者因出演小魔仙被校园暴力",
-      "onboard_time": 1768308741,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 37163,
-      "num": 130024,
-      "word": "麦当劳回应汉堡变小了",
-      "onboard_time": 1768302502,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36327,
+      "raw_hot": 36598,
       "num": 128857,
       "word": "雷军回应小米二手车行情",
       "onboard_time": 1768305503,
@@ -457,6 +497,22 @@
       "onboard_time": 1768332616,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27428,
+      "num": 451676,
+      "word": "全国铁路新增243列客车",
+      "onboard_time": 1768313184,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27321,
+      "num": 61579,
+      "word": "王楚钦LV品牌大使",
+      "onboard_time": 1768308622,
+      "rank": 37,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 26869,
@@ -475,20 +531,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 26151,
-      "num": 44864,
-      "word": "今天丽江机场被07快男承包了",
-      "onboard_time": 1768342334,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 21247,
-      "num": 61579,
-      "word": "王楚钦LV品牌大使",
-      "onboard_time": 1768308622,
-      "rank": 37,
-      "category": "体育,时尚"
+      "raw_hot": 25768,
+      "num": 55132,
+      "word": "黄轩杀青旁白",
+      "onboard_time": 1768346778,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 20923,
@@ -545,14 +593,6 @@
       "onboard_time": 1768306162,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 14586,
-      "num": 298579,
-      "word": "全国铁路新增243列客车",
-      "onboard_time": 1768313184,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
