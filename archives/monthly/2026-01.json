@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768314898364,
+  "endTime": 1768316042015,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 2536475,
-      "num": 198991,
+      "num": 204117,
       "word": "阿Sa官宣恋情",
       "onboard_time": 1768303462,
       "rank": 20,
@@ -1009,6 +1009,14 @@
       "onboard_time": 1767463877,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 867710,
+      "num": 947285,
+      "word": "马年纪念币 抢不到",
+      "onboard_time": 1768314142,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 866623,
@@ -3235,6 +3243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 508400,
+      "num": 508400,
+      "word": "抢马钞",
+      "onboard_time": 1768315343,
+      "rank": 3,
+      "category": "财经"
+    },
+    {
       "raw_hot": 507982,
       "num": 423198,
       "word": "委内瑞拉石油储量世界第一",
@@ -4523,6 +4539,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 423705,
+      "num": 210514,
+      "word": "何晴儿子称许亚军给自己莫大支持",
+      "onboard_time": 1768312343,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 423306,
       "num": 588772,
       "word": "女子频繁往下水道冲猫砂判赔10万",
@@ -4697,14 +4721,6 @@
       "onboard_time": 1768103420,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 413746,
-      "num": 191519,
-      "word": "何晴儿子称许亚军给自己莫大支持",
-      "onboard_time": 1768312343,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 413446,
@@ -5860,7 +5876,7 @@
     },
     {
       "raw_hot": 356630,
-      "num": 197586,
+      "num": 201217,
       "word": "爱吃鸭头的天塌了",
       "onboard_time": 1768309462,
       "rank": 23,
@@ -6395,6 +6411,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 332034,
+      "num": 332034,
+      "word": "杨洋不让江山",
+      "onboard_time": 1768314204,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 330689,
       "num": 312282,
       "word": "张艺兴中巴建交七十五载合照",
@@ -6601,6 +6625,14 @@
       "onboard_time": 1767841820,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 323732,
+      "num": 247999,
+      "word": "马币",
+      "onboard_time": 1768314743,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 323701,
@@ -6892,7 +6924,7 @@
     },
     {
       "raw_hot": 315751,
-      "num": 199671,
+      "num": 206755,
       "word": "白敬亭LV活动生图",
       "onboard_time": 1768311143,
       "rank": 17,
@@ -6924,7 +6956,7 @@
     },
     {
       "raw_hot": 315415,
-      "num": 244421,
+      "num": 261465,
       "word": "iPhone自带堪比打印机的软件",
       "onboard_time": 1768308682,
       "rank": 35,
@@ -7465,6 +7497,14 @@
       "onboard_time": 1767742037,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 296661,
+      "num": 296661,
+      "word": "日本餐厅墙壁女尸身份确认",
+      "onboard_time": 1768314263,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 296611,
@@ -9035,6 +9075,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 252997,
+      "num": 205686,
+      "word": "王鹤棣宋茜王嘉尔周冬雨手挽手",
+      "onboard_time": 1768315163,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 252643,
       "num": 1397167,
       "word": "红包分组",
@@ -9227,12 +9275,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 247999,
-      "num": 247999,
-      "word": "马币",
-      "onboard_time": 1768314743,
-      "rank": 4,
-      "category": "财经"
+      "raw_hot": 247856,
+      "num": 205858,
+      "word": "死了么APP宣布改名",
+      "onboard_time": 1768315822,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 247621,
@@ -9252,7 +9300,7 @@
     },
     {
       "raw_hot": 247140,
-      "num": 162524,
+      "num": 200773,
       "word": "王橹杰脸红",
       "onboard_time": 1768313363,
       "rank": 21,
@@ -9521,14 +9569,6 @@
       "onboard_time": 1767591503,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 238882,
-      "num": 238882,
-      "word": "马年纪念币 抢不到",
-      "onboard_time": 1768314142,
-      "rank": 7,
-      "category": "财经"
     },
     {
       "raw_hot": 238534,
@@ -11499,12 +11539,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 200139,
+      "num": 200139,
+      "word": "呆呆曾问父母猪被吃完是否介意",
+      "onboard_time": 1768312343,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200023,
       "num": 200023,
       "word": "这就是心脏支架",
       "onboard_time": 1767573143,
       "rank": 11,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 199975,
+      "num": 171192,
+      "word": "何晴儿子头像仍为全黑",
+      "onboard_time": 1768315343,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 199891,
@@ -11960,14 +12016,6 @@
       "word": "你是王安宇那他是谁",
       "onboard_time": 1767760403,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 195270,
-      "num": 195270,
-      "word": "杨洋不让江山",
-      "onboard_time": 1768314204,
-      "rank": 13,
       "category": "剧集"
     },
     {
@@ -13473,6 +13521,14 @@
       "onboard_time": 1767694640,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179344,
+      "num": 209676,
+      "word": "LV三里屯新店开幕",
+      "onboard_time": 1768314083,
+      "rank": 12,
+      "category": "时尚"
     },
     {
       "raw_hot": 179142,
@@ -15131,14 +15187,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 162963,
-      "num": 185787,
-      "word": "呆呆曾问父母猪被吃完是否介意",
-      "onboard_time": 1768312343,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 162950,
       "num": 162950,
       "word": "虞书欣云初令看啥呢",
@@ -16219,6 +16267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153129,
+      "num": 147277,
+      "word": "徐明浩裤子上挂了个鲨鱼",
+      "onboard_time": 1768314863,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 153091,
       "num": 153091,
       "word": "周冠宇加盟凯迪拉克F1车队",
@@ -16931,6 +16987,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 147444,
+      "num": 147444,
+      "word": "原来羽绒服可以这么洗",
+      "onboard_time": 1768312584,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147439,
       "num": 147439,
       "word": "原神少女",
@@ -17393,6 +17457,14 @@
       "onboard_time": 1767757761,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 144290,
+      "num": 162878,
+      "word": "贪官曾在机场威胁乘客",
+      "onboard_time": 1768314263,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 144059,
@@ -18377,14 +18449,6 @@
       "onboard_time": 1767504202,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 137415,
-      "num": 137415,
-      "word": "原来羽绒服可以这么洗",
-      "onboard_time": 1768312584,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 137280,
@@ -22217,6 +22281,14 @@
       "onboard_time": 1767600741,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117199,
+      "num": 117199,
+      "word": "LV活动大合照",
+      "onboard_time": 1768315763,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 117197,
@@ -26683,14 +26755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 99760,
-      "num": 99760,
-      "word": "徐明浩裤子上挂了个鲨鱼",
-      "onboard_time": 1768314863,
-      "rank": 49,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 99741,
       "num": 99741,
       "word": "两市成交额突破3.46万亿刷新纪录",
@@ -27161,6 +27225,14 @@
       "onboard_time": 1768141342,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98106,
+      "num": 98106,
+      "word": "呆呆已婉拒所有礼物",
+      "onboard_time": 1768316002,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98068,
@@ -29947,14 +30019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89145,
-      "num": 198611,
-      "word": "LV三里屯新店开幕",
-      "onboard_time": 1768314083,
-      "rank": 12,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 89074,
       "num": 89074,
       "word": "檀健次何不同舟渡谢却山定妆",
@@ -31427,14 +31491,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 84361,
-      "num": 129287,
-      "word": "日本餐厅墙壁女尸身份确认",
-      "onboard_time": 1768314263,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 84343,
       "num": 84343,
       "word": "除LPL外各大联赛取消奖金",
@@ -32161,6 +32217,14 @@
       "onboard_time": 1768118061,
       "rank": 43,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 81353,
+      "num": 204889,
+      "word": "南京今年小学主科教师岗仅招2人",
+      "onboard_time": 1768314922,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81328,
@@ -37307,6 +37371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53700,
+      "num": 119907,
+      "word": "00后新警一根针保住126万",
+      "onboard_time": 1768316002,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53542,
       "num": 1092592,
       "word": "尹锡悦桑拿房藏总统办公室暗门后",
@@ -38217,14 +38289,6 @@
       "onboard_time": 1767715520,
       "rank": 45,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 46653,
-      "num": 162878,
-      "word": "贪官曾在机场威胁乘客",
-      "onboard_time": 1768314263,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 46575,
@@ -39617,6 +39681,14 @@
       "onboard_time": 1767427945,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37174,
+      "num": 785146,
+      "word": "2025有3000场大型营业性演出",
+      "onboard_time": 1768314022,
+      "rank": 2,
+      "category": "演出"
     },
     {
       "raw_hot": 37132,
@@ -41155,14 +41227,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 27208,
-      "num": 785044,
-      "word": "2025有3000场大型营业性演出",
-      "onboard_time": 1768314022,
-      "rank": 2,
-      "category": "演出"
-    },
-    {
       "raw_hot": 27159,
       "num": 88971,
       "word": "司机称帮老板贷款3750万公司破产",
@@ -42353,6 +42417,14 @@
       "onboard_time": 1767466155,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 18754,
+      "num": 120082,
+      "word": "望郎归实施封闭管理",
+      "onboard_time": 1768315464,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18443,
