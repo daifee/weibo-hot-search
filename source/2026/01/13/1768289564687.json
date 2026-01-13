@@ -1,0 +1,410 @@
+{
+  "runTime": 1768289564687,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 586279,
+        "num": 1093804,
+        "word": "中方已经保持最大限度忍耐和克制",
+        "onboard_time": 1768283241,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 372686,
+        "num": 794694,
+        "word": "剑来",
+        "onboard_time": 1768287440,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37768,
+        "num": 622763,
+        "word": "自主研发电力示范机组实现核心技术突破",
+        "onboard_time": 1768286841,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251803,
+        "num": 251803,
+        "word": "首款登顶Steam国游将上线鸿蒙",
+        "onboard_time": 1768286959,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 214880,
+        "num": 214880,
+        "word": "吴磊陈都灵合作",
+        "onboard_time": 1768284141,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 971439,
+        "num": 211275,
+        "word": "警犬被通报批评",
+        "onboard_time": 1768283660,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207089,
+        "num": 207089,
+        "word": "张文宏称拒绝将AI引入医院病历系统",
+        "onboard_time": 1768287440,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165621,
+        "num": 205873,
+        "word": "台甜品店因用青提二字被骂滚出台湾",
+        "onboard_time": 1768282041,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157433,
+        "num": 201154,
+        "word": "员工太努力老板竟然破防了",
+        "onboard_time": 1768288401,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156546,
+        "num": 196312,
+        "word": "国考成绩什么时候出",
+        "onboard_time": 1768287620,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 848525,
+        "num": 192775,
+        "word": "吴昕七八年不看朋友圈",
+        "onboard_time": 1768287620,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475558,
+        "num": 189289,
+        "word": "买过很贵但不后悔的东西",
+        "onboard_time": 1768284321,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 350943,
+        "num": 188029,
+        "word": "金粒门",
+        "onboard_time": 1768286180,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267765,
+        "num": 183408,
+        "word": "苏州巨响",
+        "onboard_time": 1768283421,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248801,
+        "num": 181218,
+        "word": "刘亦菲 淡季旺季都不上班",
+        "onboard_time": 1768278022,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154601,
+        "num": 177538,
+        "word": "老干妈创始人出山救子又赚翻了",
+        "onboard_time": 1768226783,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 235649,
+        "num": 171325,
+        "word": "赵今麦和宋威龙姐姐热聊",
+        "onboard_time": 1768287440,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235414,
+        "num": 168641,
+        "word": "长期独居后的真实感受",
+        "onboard_time": 1768283839,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167382,
+        "num": 167382,
+        "word": "张艺兴 鸵鸟蛋的后续",
+        "onboard_time": 1768288820,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161201,
+        "num": 161201,
+        "word": "剑来陈都灵路透",
+        "onboard_time": 1768289419,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150657,
+        "num": 150657,
+        "word": "59岁女子回应高龄产子",
+        "onboard_time": 1768286540,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364495,
+        "num": 149922,
+        "word": "港媒曝徐冬冬疑似怀孕",
+        "onboard_time": 1768286422,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287765,
+        "num": 149837,
+        "word": "鹅妈妈为小澈发声",
+        "onboard_time": 1768283121,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 149018,
+        "num": 149018,
+        "word": "国考",
+        "onboard_time": 1768288881,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 150564,
+        "num": 145539,
+        "word": "好久没见调度这么大的国产剧了",
+        "onboard_time": 1768288161,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258532,
+        "num": 139781,
+        "word": "代旭孟宴臣2.0",
+        "onboard_time": 1768283479,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115925,
+        "num": 115925,
+        "word": "永辉超市2025净利润为负",
+        "onboard_time": 1768281021,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 213315,
+        "num": 115890,
+        "word": "尹子维街头摸徐冬冬肚子",
+        "onboard_time": 1768286719,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52722,
+        "num": 114324,
+        "word": "骄阳心有林曦参加娇兰晚宴",
+        "onboard_time": 1768287859,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112804,
+        "num": 112804,
+        "word": "这种苗条身材可能比纯胖更危险",
+        "onboard_time": 1768286240,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 186661,
+        "num": 112619,
+        "word": "祯娘传",
+        "onboard_time": 1768274360,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155549,
+        "num": 112471,
+        "word": "宋妍霏从头到脚都是波点",
+        "onboard_time": 1768288580,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141441,
+        "num": 112217,
+        "word": "A股终结17连阳",
+        "onboard_time": 1768289000,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142531,
+        "num": 112174,
+        "word": "玉茗茶骨圆房吻",
+        "onboard_time": 1768282582,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137421,
+        "num": 111916,
+        "word": "微博之夜",
+        "onboard_time": 1768275261,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111803,
+        "num": 111803,
+        "word": "脂包骨身材是什么",
+        "onboard_time": 1768280122,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103056,
+        "num": 103056,
+        "word": "被字节跳动的食堂震惊到了",
+        "onboard_time": 1768286540,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 27245,
+        "num": 102664,
+        "word": "张凌赫 怪会招蜂引蝶的",
+        "onboard_time": 1768289360,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102650,
+        "num": 102650,
+        "word": "心理医生和算命先生的区别",
+        "onboard_time": 1768289241,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24326,
+        "num": 100406,
+        "word": "高市表达将解散众议院提前大选意向",
+        "onboard_time": 1768288640,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103134,
+        "num": 100406,
+        "word": "刚向生活低头生活就让我下跪",
+        "onboard_time": 1768289060,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99859,
+        "num": 99859,
+        "word": "李一桐曾舜晞Hi6录制路透",
+        "onboard_time": 1768288760,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97413,
+        "num": 97413,
+        "word": "上海去年婚姻登记17万对",
+        "onboard_time": 1768277063,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97239,
+        "num": 97239,
+        "word": "樊振东波尔一起受访",
+        "onboard_time": 1768289060,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92683,
+        "num": 92683,
+        "word": "蒋敦豪张小婉在打劫时又唱又跳",
+        "onboard_time": 1768288101,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90670,
+        "num": 90670,
+        "word": "张凌赫归鸾第一场吻戏",
+        "onboard_time": 1768287381,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84420,
+        "num": 88294,
+        "word": "第一次看求婚后的对话记录",
+        "onboard_time": 1768286000,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88110,
+        "num": 88110,
+        "word": "代旭 开始考古了意味着什么",
+        "onboard_time": 1768281499,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87376,
+        "num": 87376,
+        "word": "小黄豆回应去医院查艾滋病",
+        "onboard_time": 1768277902,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 82516,
+        "num": 82516,
+        "word": "A股商业航天概念全线爆发",
+        "onboard_time": 1768286660,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记的反腐警句#"
+    }
+  }
+}

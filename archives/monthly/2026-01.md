@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/13 14:58:45
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/13 15:32:44
 </p>
 </blockquote>
 <p>
@@ -743,6 +743,12 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E5%8F%B0%E8%AF%8D%23" target="weibo">
 卢昱晓台词（热度：853653）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%98%95%E4%B8%83%E5%85%AB%E5%B9%B4%E4%B8%8D%E7%9C%8B%E6%9C%8B%E5%8F%8B%E5%9C%88%23" target="weibo">
+吴昕七八年不看朋友圈（热度：848525）
 </a>
 </li>
 
@@ -2709,6 +2715,12 @@ iPhone4需求激增近1000%（热度：506886）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E8%BF%87%E5%BE%88%E8%B4%B5%E4%BD%86%E4%B8%8D%E5%90%8E%E6%82%94%E7%9A%84%E4%B8%9C%E8%A5%BF%23" target="weibo">
+买过很贵但不后悔的东西（热度：475558）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%A7%B0%E8%BD%A6%E5%8E%98%E5%AD%90%E6%9E%9C%E8%9D%87%E7%9A%84%E5%B9%BC%E8%99%AB%E6%B0%B4%E6%B4%97%E4%B8%8D%E6%8E%89%23" target="weibo">
 医生称车厘子果蝇的幼虫水洗不掉（热度：475018）
 </a>
@@ -3867,12 +3879,6 @@ AI登顶LOL韩服（热度：378599）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E8%BF%87%E5%BE%88%E8%B4%B5%E4%BD%86%E4%B8%8D%E5%90%8E%E6%82%94%E7%9A%84%E4%B8%9C%E8%A5%BF%23" target="weibo">
-买过很贵但不后悔的东西（热度：374759）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E4%BA%BA%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%9A%B4%E9%A3%9F%E5%90%8E%E5%96%9C%E6%8F%90%E6%80%A5%E8%AF%8A%23" target="weibo">
 英国人在中国暴食后喜提急诊（热度：374238）
 </a>
@@ -3917,6 +3923,12 @@ AI登顶LOL韩服（热度：378599）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A8%81%E9%BE%99%E5%BC%A0%E5%87%8C%E8%B5%AB%20%E4%BB%8A%E9%BA%A6%E9%83%8E%23" target="weibo">
 宋威龙张凌赫 今麦郎（热度：372877）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%89%91%E6%9D%A5%23" target="weibo">
+剑来（热度：372686）
 </a>
 </li>
 
@@ -4049,6 +4061,12 @@ TF荣耀之战（热度：372589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%AB%8B%E7%89%8C%E5%90%93%E4%BA%BA%E6%A1%88%23" target="weibo">
 檀健次立牌吓人案（热度：364566）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%AF%E5%AA%92%E6%9B%9D%E5%BE%90%E5%86%AC%E5%86%AC%E7%96%91%E4%BC%BC%E6%80%80%E5%AD%95%23" target="weibo">
+港媒曝徐冬冬疑似怀孕（热度：364495）
 </a>
 </li>
 
@@ -4331,6 +4349,12 @@ WB对战RW（热度：355689）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%9B%E7%BB%92%E7%8E%A9%E5%85%B7%E9%87%8C%E8%97%8F%E4%BA%8610%E4%B8%87%E9%BB%84%E9%87%91%23" target="weibo">
 毛绒玩具里藏了10万黄金（热度：351053）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%B2%92%E9%97%A8%23" target="weibo">
+金粒门（热度：350943）
 </a>
 </li>
 
@@ -5457,12 +5481,6 @@ TVB第一个打烂奖杯（热度：318351）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%AF%E5%AA%92%E6%9B%9D%E5%BE%90%E5%86%AC%E5%86%AC%E7%96%91%E4%BC%BC%E6%80%80%E5%AD%95%23" target="weibo">
-港媒曝徐冬冬疑似怀孕（热度：291952）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%A4%AB%E4%BA%BA%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%80%A7%E4%BB%A3%E8%A1%A8%23" target="weibo">
 李在明夫人感谢中国女性代表（热度：290460）
 </a>
@@ -5993,24 +6011,6 @@ Faker举报路人游戏ID（热度：272754）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%94%9F%E5%84%BF%E7%96%91%E8%A2%AB%E5%8A%A9%E4%BA%A7%E5%A3%AB%E5%89%AA%E6%96%AD%E6%89%8B%E6%8C%87%23" target="weibo">
 新生儿疑被助产士剪断手指（热度：268712）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%9C%9F%E6%9C%89%E4%BA%BA%E4%B8%8A%E7%8F%AD%E6%98%AF%E5%BC%80%E5%BF%83%E7%9A%84%23" target="weibo">
-原来真有人上班是开心的（热度：268507）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B7%91%E7%94%B7%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%AE%89%E9%9D%99%E7%9A%84%E4%B8%80%E6%9C%9F%23" target="weibo">
-跑男史上最安静的一期（热度：268484）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BB%96%E6%9F%90%E5%AE%87%E5%BD%93%E5%BA%AD%E8%A1%A8%E7%8E%B0%E5%B9%B3%E9%9D%99%23" target="weibo">
-廖某宇当庭表现平静（热度：268283）
 </a>
 </li>
 
