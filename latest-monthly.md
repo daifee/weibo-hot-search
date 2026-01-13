@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/13 21:51:52
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/13 21:58:56
 </p>
 </blockquote>
 <p>
@@ -2368,7 +2368,7 @@ TVB颁奖典礼（热度：518643）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%A9%E4%BF%90%E5%8E%8B%E8%BD%B4%23" target="weibo">
-巩俐压轴（热度：513280）
+巩俐压轴（热度：513385）
 </a>
 </li>
 
@@ -4395,6 +4395,12 @@ FMVP皮肤（热度：362967）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%90%83%E9%B8%AD%E5%A4%B4%E7%9A%84%E5%A4%A9%E5%A1%8C%E4%BA%86%23" target="weibo">
+爱吃鸭头的天塌了（热度：356630）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%82%A3%E8%83%8E%E5%84%BF%E9%85%92%E7%B2%BE%E7%BB%BC%E5%90%88%E7%97%87%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%B5%B6%E5%87%BA%E5%AE%B6%23" target="weibo">
 美国患胎儿酒精综合症女子被赶出家（热度：355944）
 </a>
@@ -5699,12 +5705,6 @@ TVB第一个打烂奖杯（热度：318351）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E8%BF%99%E9%A6%96%E7%A6%BB%E5%A9%9A%E7%9A%84%E6%AD%8C%E5%90%AC%E4%BA%86388%E9%81%8D%23" target="weibo">
 白鹿这首离婚的歌听了388遍（热度：292587）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%90%83%E9%B8%AD%E5%A4%B4%E7%9A%84%E5%A4%A9%E5%A1%8C%E4%BA%86%23" target="weibo">
-爱吃鸭头的天塌了（热度：292004）
 </a>
 </li>
 
