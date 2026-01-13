@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/13 10:32:09
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/13 11:53:11
 </p>
 </blockquote>
 <p>
@@ -987,6 +987,12 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E6%B2%B3%E6%89%BF%E8%AE%A4%E6%81%8B%E6%83%85%23" target="weibo">
+陈楚河承认恋情（热度：755103）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%85%BB%E7%88%B6%E6%B4%BB%E5%9F%8B%E4%BA%86%E7%94%9F%E6%AF%8D%23" target="weibo">
 原来是养父活埋了生母（热度：752697）
 </a>
@@ -1805,12 +1811,6 @@ AI照片竟然拿了摄影比赛第一名（热度：667067）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E8%87%AA%E6%9B%9D%E4%BB%8E%E5%BA%8A%E7%88%AC%E5%88%B0%E6%B4%97%E6%89%8B%E9%97%B4%E8%A6%81%E5%8D%8A%E5%B0%8F%E6%97%B6%23" target="weibo">
 武大靖自曝从床爬到洗手间要半小时（热度：558510）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%B8%B4%E6%97%B6%E6%80%BB%E7%BB%9F%E5%AE%A3%E8%AA%93%E5%B0%B1%E4%BB%BB%23" target="weibo">
-委内瑞拉临时总统宣誓就任（热度：557975）
 </a>
 </li>
 

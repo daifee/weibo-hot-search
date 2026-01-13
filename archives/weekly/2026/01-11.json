@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768271529113,
+  "endTime": 1768276391583,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 816335,
-      "num": 122514,
+      "num": 222950,
       "word": "曝童锦程女友怀孕",
       "onboard_time": 1768266620,
       "rank": 20,
@@ -281,6 +281,14 @@
       "onboard_time": 1768190241,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 755103,
+      "num": 225797,
+      "word": "陈楚河承认恋情",
+      "onboard_time": 1768273340,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 738148,
@@ -644,11 +652,19 @@
     },
     {
       "raw_hot": 513702,
-      "num": 125775,
+      "num": 225419,
       "word": "刘嘉玲接受章泽天采访家中装修曝光",
       "onboard_time": 1768268720,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 513454,
+      "num": 225651,
+      "word": "黄金又急跌",
+      "onboard_time": 1768272980,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 510403,
@@ -705,6 +721,14 @@
       "onboard_time": 1768198580,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 501080,
+      "num": 362495,
+      "word": "黄金",
+      "onboard_time": 1768274901,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 496642,
@@ -769,6 +793,14 @@
       "onboard_time": 1768189221,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 478081,
+      "num": 819888,
+      "word": "长春居民因客厅放床被停燃气20天",
+      "onboard_time": 1768271239,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 473839,
@@ -916,7 +948,7 @@
     },
     {
       "raw_hot": 429317,
-      "num": 125555,
+      "num": 224832,
       "word": "有3个睡眠习惯的人更易患癌",
       "onboard_time": 1768267999,
       "rank": 11,
@@ -1123,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 374363,
+      "num": 374363,
+      "word": "祯娘传",
+      "onboard_time": 1768274360,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 374238,
       "num": 323071,
       "word": "英国人在中国暴食后喜提急诊",
@@ -1171,6 +1211,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 362876,
+      "num": 362876,
+      "word": "官方通报4名专家身体不适拒评标",
+      "onboard_time": 1768269861,
+      "rank": 25,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 360513,
+      "num": 360513,
+      "word": "贪官误以为退下来就安全了",
+      "onboard_time": 1768272261,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 360025,
       "num": 1057604,
       "word": "央视播出养老金贪污案细节",
@@ -1201,6 +1257,14 @@
       "onboard_time": 1768266680,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 355331,
+      "num": 355331,
+      "word": "商业航天",
+      "onboard_time": 1768272920,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 355280,
@@ -1347,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 326069,
+      "num": 224908,
+      "word": "妻子隐私被丈夫发到亲友群后自杀",
+      "onboard_time": 1768275501,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 325972,
       "num": 325972,
       "word": "国乒洛奥教练班子揭晓",
@@ -1468,7 +1540,7 @@
     },
     {
       "raw_hot": 296789,
-      "num": 122433,
+      "num": 222577,
       "word": "气血足的人头发有3个特征",
       "onboard_time": 1768268839,
       "rank": 21,
@@ -1500,7 +1572,7 @@
     },
     {
       "raw_hot": 294314,
-      "num": 123444,
+      "num": 126368,
       "word": "摄影师吐槽艺人互勉拍照不配合",
       "onboard_time": 1768268060,
       "rank": 18,
@@ -1651,6 +1723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 270478,
+      "num": 224410,
+      "word": "杨紫迪丽热巴新剧或对打",
+      "onboard_time": 1768261939,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269122,
       "num": 269122,
       "word": "格陵兰岛自治政府发声明",
@@ -1699,14 +1779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 259067,
-      "num": 123398,
-      "word": "杨紫迪丽热巴新剧或对打",
-      "onboard_time": 1768261939,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 257363,
       "num": 257363,
       "word": "赖伟明千字长文告别庄序",
@@ -1745,6 +1817,14 @@
       "onboard_time": 1768204460,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 252457,
+      "num": 252457,
+      "word": "张钧甯妈妈发言这一段",
+      "onboard_time": 1768274419,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 250416,
@@ -1945,6 +2025,14 @@
       "onboard_time": 1768127179,
       "rank": 46,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 224365,
+      "num": 224365,
+      "word": "何炅情商",
+      "onboard_time": 1768274781,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 223783,
@@ -2155,6 +2243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208155,
+      "num": 208155,
+      "word": "林依轮对赵今麦说戏里戏外舅爱你",
+      "onboard_time": 1768275080,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207188,
       "num": 137684,
       "word": "3unshine只有Abby了",
@@ -2201,6 +2297,14 @@
       "onboard_time": 1768105341,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 200837,
+      "num": 200837,
+      "word": "微博之夜",
+      "onboard_time": 1768144282,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 199813,
@@ -2331,6 +2435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192802,
+      "num": 140411,
+      "word": "国产剧拍出了女性之间的凝视",
+      "onboard_time": 1768275620,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192219,
       "num": 192219,
       "word": "金球奖",
@@ -2385,6 +2497,14 @@
       "onboard_time": 1768136961,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 190923,
+      "num": 140079,
+      "word": "谁家综艺7个嘉宾哭了4个",
+      "onboard_time": 1768275199,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 190916,
@@ -2555,6 +2675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182212,
+      "num": 224058,
+      "word": "苹果官宣iPhone将搭载最强AI",
+      "onboard_time": 1768272739,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 181964,
       "num": 613835,
       "word": "仙逆",
@@ -2649,6 +2777,14 @@
       "onboard_time": 1768120341,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175329,
+      "num": 133151,
+      "word": "原来80年代就有了火遍内娱的wink",
+      "onboard_time": 1768275380,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 175137,
@@ -2801,6 +2937,14 @@
       "onboard_time": 1768048101,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168896,
+      "num": 131723,
+      "word": "代旭小时候上过春晚敲钟",
+      "onboard_time": 1768276101,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 168105,
@@ -3179,6 +3323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154472,
+      "num": 126227,
+      "word": "尹雨航和鹿晗演过双胞胎",
+      "onboard_time": 1768275980,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154065,
       "num": 154065,
       "word": "A股此轮大牛市十年一遇",
@@ -3299,14 +3451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 149200,
-      "num": 158026,
-      "word": "微博之夜",
-      "onboard_time": 1768144282,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 148741,
       "num": 134984,
       "word": "白鹿晒与粉丝合影live",
@@ -3395,6 +3539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144397,
+      "num": 121425,
+      "word": "男主宣示主权男二接二连三",
+      "onboard_time": 1768275741,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143902,
       "num": 114871,
       "word": "秦志戬简历",
@@ -3427,6 +3579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142084,
+      "num": 142084,
+      "word": "问界M7占问界总交付40%以上",
+      "onboard_time": 1768276340,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 142020,
       "num": 182183,
       "word": "A股为何这么猛",
@@ -3441,6 +3601,14 @@
       "onboard_time": 1768214421,
       "rank": 33,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 141039,
+      "num": 116319,
+      "word": "沈梦辰说何炅是自己最大的安全感",
+      "onboard_time": 1768274181,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 140902,
@@ -3675,6 +3843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 134301,
+      "num": 134301,
+      "word": "伊朗如遭攻击将给美国永生难忘的教训",
+      "onboard_time": 1768270160,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 134087,
       "num": 134087,
       "word": "这4种食物会让身体慢性发炎",
@@ -3721,6 +3897,14 @@
       "onboard_time": 1768222101,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132456,
+      "num": 114557,
+      "word": "张远唱嘉宾这不就是婚礼吗",
+      "onboard_time": 1768273819,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 132191,
@@ -3923,6 +4107,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 126501,
+      "num": 126501,
+      "word": "独属于东北的纯天然大冰箱",
+      "onboard_time": 1768275261,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126423,
       "num": 186748,
       "word": "U23男足战胜澳大利亚",
@@ -3931,20 +4123,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126165,
-      "num": 108735,
-      "word": "官方通报4名专家身体不适拒评标",
-      "onboard_time": 1768269861,
-      "rank": 25,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 126090,
       "num": 126090,
       "word": "今年三九暖得不像冬天",
       "onboard_time": 1768271359,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125950,
+      "num": 125950,
+      "word": "官方通报雪乡黑导猥亵游客",
+      "onboard_time": 1768274841,
+      "rank": 33,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 125303,
@@ -4219,6 +4411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 116437,
+      "num": 116437,
+      "word": "研究发现小腿肌肉多死亡率降一半",
+      "onboard_time": 1768273700,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 116409,
       "num": 116409,
       "word": "孙颖莎王楚钦满屏的奖杯",
@@ -4483,6 +4683,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111819,
+      "num": 111819,
+      "word": "P人简直是最佳旅游搭子",
+      "onboard_time": 1768275620,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 111096,
+      "num": 111096,
+      "word": "8人组团徒步2女子体力不支被弃荒山",
+      "onboard_time": 1768273340,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111034,
       "num": 111034,
       "word": "王心凌昨天陶艾青今天查美乐",
@@ -4555,6 +4771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109568,
+      "num": 109568,
+      "word": "雪地坦克实弹射击震撼现场",
+      "onboard_time": 1768276161,
+      "rank": 43,
+      "category": "军事"
+    },
+    {
       "raw_hot": 109434,
       "num": 109434,
       "word": "阴阳师",
@@ -4612,7 +4836,7 @@
     },
     {
       "raw_hot": 108721,
-      "num": 100245,
+      "num": 103223,
       "word": "旺仔牛奶的尽头是小馒头",
       "onboard_time": 1768269799,
       "rank": 33,
@@ -4747,6 +4971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106266,
+      "num": 106266,
+      "word": "曝童锦程女友要生了",
+      "onboard_time": 1768274721,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 106233,
       "num": 106233,
       "word": "国际金银大涨",
@@ -4769,14 +5001,6 @@
       "onboard_time": 1768136001,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 105188,
-      "num": 105188,
-      "word": "伊朗如遭攻击将给美国永生难忘的教训",
-      "onboard_time": 1768270160,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 105137,
@@ -4827,6 +5051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104424,
+      "num": 104424,
+      "word": "马斯克回应苹果谷歌合作",
+      "onboard_time": 1768276340,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 104300,
       "num": 104300,
       "word": "代旭 爱上男二的梦女病又犯了",
@@ -4857,6 +5089,14 @@
       "onboard_time": 1768182919,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 103669,
+      "num": 103669,
+      "word": "雪乡黑导猥亵游客被拘12日",
+      "onboard_time": 1768275741,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103665,
@@ -4921,6 +5161,14 @@
       "onboard_time": 1768116381,
       "rank": 28,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 102901,
+      "num": 102901,
+      "word": "无期迷途",
+      "onboard_time": 1768276223,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 102880,
@@ -5833,14 +6081,6 @@
       "onboard_time": 1768063639,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 86338,
-      "num": 88926,
-      "word": "长春居民因客厅放床被停燃气20天",
-      "onboard_time": 1768271239,
-      "rank": 39,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 86266,
@@ -7475,6 +7715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 40890,
+      "num": 223711,
+      "word": "逆战未来正式上线",
+      "onboard_time": 1768273460,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 40524,
       "num": 73182,
       "word": "美国一男子枪杀6人",
@@ -7553,6 +7801,14 @@
       "onboard_time": 1768152136,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 38273,
+      "num": 223170,
+      "word": "男子杀害22岁前女友一审被判死刑",
+      "onboard_time": 1768276041,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38008,
