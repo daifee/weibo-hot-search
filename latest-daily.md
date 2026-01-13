@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/14 00:42:10 ~ 2026/01/14 01:34:42
+本榜单时间：2026/01/14 00:42:10 ~ 2026/01/14 01:53:06
 </p>
 </blockquote>
 <p>
@@ -83,6 +83,12 @@ LV活动大合照（热度：163244）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%AF%B9%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B0%96%E5%A3%B0%E5%96%8A%E6%82%A8%E5%A5%BD%23" target="weibo">
 高市早苗对李在明尖声喊您好（热度：160217）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E4%B8%BB%E4%BA%BA%E5%B7%B2%E6%8E%A5%E5%8F%97%E9%AB%98%E6%A0%A1%E6%8F%90%E4%BE%9B%E7%9A%84%E7%BB%8F%E6%B5%8E%E8%A1%A5%E5%81%BF%23" target="weibo">
+狗主人已接受高校提供的经济补偿（热度：139419）
 </a>
 </li>
 
@@ -233,12 +239,6 @@ iPhone自带堪比打印机的软件（热度：75941）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%A7%E6%88%8F%23" target="weibo">
 轧戏（热度：74181）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E4%B8%BB%E4%BA%BA%E5%B7%B2%E6%8E%A5%E5%8F%97%E9%AB%98%E6%A0%A1%E6%8F%90%E4%BE%9B%E7%9A%84%E7%BB%8F%E6%B5%8E%E8%A1%A5%E5%81%BF%23" target="weibo">
-狗主人已接受高校提供的经济补偿（热度：72915）
 </a>
 </li>
 
