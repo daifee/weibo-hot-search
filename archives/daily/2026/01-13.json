@@ -1,7 +1,15 @@
 {
   "startTime": 1768235820030,
-  "endTime": 1768293682057,
+  "endTime": 1768294560156,
   "band_list": [
+    {
+      "raw_hot": 1352396,
+      "num": 156588,
+      "word": "迅猛龙 小澈",
+      "onboard_time": 1768292421,
+      "rank": 20,
+      "category": "网红"
+    },
     {
       "raw_hot": 1195104,
       "num": 120989,
@@ -11,16 +19,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1128260,
-      "num": 156588,
-      "word": "迅猛龙 小澈",
-      "onboard_time": 1768292421,
-      "rank": 20,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1078398,
-      "num": 295373,
+      "num": 356648,
       "word": "警犬被通报批评",
       "onboard_time": 1768283660,
       "rank": 5,
@@ -211,6 +211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 414347,
+      "num": 414347,
+      "word": "国考",
+      "onboard_time": 1768288881,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 403043,
       "num": 794694,
       "word": "剑来",
@@ -257,14 +265,6 @@
       "onboard_time": 1768215022,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 381569,
-      "num": 381569,
-      "word": "国考",
-      "onboard_time": 1768288881,
-      "rank": 23,
-      "category": "教育"
     },
     {
       "raw_hot": 377301,
@@ -355,6 +355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 318450,
+      "num": 160273,
+      "word": "孩子一张嘴身份证都掉出来了",
+      "onboard_time": 1768291220,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 315457,
       "num": 192754,
       "word": "代旭妻子尹雨航被称女版鹿晗",
@@ -377,14 +385,6 @@
       "onboard_time": 1768277841,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 310012,
-      "num": 160273,
-      "word": "孩子一张嘴身份证都掉出来了",
-      "onboard_time": 1768291220,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 309810,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269258,
+      "num": 158887,
+      "word": "59岁产妇说因女儿定居国外寂寞",
+      "onboard_time": 1768292781,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269122,
       "num": 269122,
       "word": "格陵兰岛自治政府发声明",
@@ -523,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246880,
+      "num": 246880,
+      "word": "雷军转发",
+      "onboard_time": 1768292721,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 246449,
       "num": 715227,
       "word": "原海航旗下飞机几乎成落马官员私人专用",
@@ -544,6 +560,14 @@
       "word": "薛小婉任权至今未领结婚证",
       "onboard_time": 1768278321,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 236530,
+      "num": 155506,
+      "word": "章泽天刘嘉玲大赞澳社媒禁令",
+      "onboard_time": 1768292662,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -723,6 +747,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 185876,
+      "num": 124156,
+      "word": "王安宇",
+      "onboard_time": 1768294161,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184364,
       "num": 184364,
       "word": "小黄豆回应去医院查艾滋病",
@@ -883,14 +915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158887,
-      "num": 158887,
-      "word": "59岁产妇说因女儿定居国外寂寞",
-      "onboard_time": 1768292781,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157974,
       "num": 157974,
       "word": "合川文旅称杀猪宴是呆呆私人发起",
@@ -944,14 +968,6 @@
       "word": "宋妍霏从头到脚都是波点",
       "onboard_time": 1768288580,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 155506,
-      "num": 155506,
-      "word": "章泽天刘嘉玲大赞澳社媒禁令",
-      "onboard_time": 1768292662,
-      "rank": 26,
       "category": "艺人"
     },
     {
@@ -1017,14 +1033,6 @@
       "onboard_time": 1768228702,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141872,
-      "num": 141872,
-      "word": "雷军转发",
-      "onboard_time": 1768292721,
-      "rank": 27,
-      "category": "互联网"
     },
     {
       "raw_hot": 141039,
@@ -1323,6 +1331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117012,
+      "num": 117012,
+      "word": "贵州烙锅",
+      "onboard_time": 1768292961,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 116989,
       "num": 124548,
       "word": "张雨绮 我的身材很曼妙",
@@ -1355,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115788,
+      "num": 106126,
+      "word": "微博之夜网传名单",
+      "onboard_time": 1768291641,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 114858,
       "num": 114858,
       "word": "原来每个城市都有自己的旅游季",
@@ -1369,14 +1393,6 @@
       "onboard_time": 1768277063,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 113579,
-      "num": 94925,
-      "word": "微博之夜网传名单",
-      "onboard_time": 1768291641,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 112656,
@@ -1419,6 +1435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 110493,
+      "num": 110493,
+      "word": "老干妈回应味道变了",
+      "onboard_time": 1768293441,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109568,
       "num": 109568,
       "word": "雪地坦克实弹射击震撼现场",
@@ -1432,6 +1456,14 @@
       "word": "妻子花光97万打赏主播承诺不看后抑郁",
       "onboard_time": 1768224501,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108933,
+      "num": 108933,
+      "word": "曾被通报的警犬幺幺零已经立功了",
+      "onboard_time": 1768292961,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -1619,6 +1651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100582,
+      "num": 100582,
+      "word": "在银行上班的感觉就这样",
+      "onboard_time": 1768293622,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100385,
       "num": 97002,
       "word": "十日终焉正在置景",
@@ -1713,14 +1753,6 @@
       "onboard_time": 1768286000,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 95982,
-      "num": 95982,
-      "word": "贵州烙锅",
-      "onboard_time": 1768292961,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 95755,
@@ -1819,6 +1851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90662,
+      "num": 90662,
+      "word": "微博音频",
+      "onboard_time": 1768293801,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 90370,
       "num": 90370,
       "word": "原来拍立得白边下还有图",
@@ -1859,6 +1899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87693,
+      "num": 87693,
+      "word": "少年 你的剑太重了",
+      "onboard_time": 1768294281,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87512,
       "num": 87512,
       "word": "老干妈为节省成本味道变了",
@@ -1873,6 +1921,14 @@
       "onboard_time": 1768266080,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 87070,
+      "num": 87070,
+      "word": "安卓鸿蒙暂不支持微信通知显示头像",
+      "onboard_time": 1768294401,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 86965,
@@ -1891,14 +1947,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 86620,
-      "num": 88232,
-      "word": "曾被通报的警犬幺幺零已经立功了",
-      "onboard_time": 1768292961,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86350,
       "num": 86350,
       "word": "小猫每天帮主人关热水器",
@@ -1915,20 +1963,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 85702,
+      "num": 85702,
+      "word": "贵州辣椒",
+      "onboard_time": 1768294522,
+      "rank": 49,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 85338,
       "num": 124556,
       "word": "伊朗外长说已控制全国局势",
       "onboard_time": 1768227501,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 84848,
-      "num": 84848,
-      "word": "老干妈回应味道变了",
-      "onboard_time": 1768293441,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84824,
@@ -1963,20 +2011,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 83019,
-      "num": 83019,
-      "word": "在银行上班的感觉就这样",
-      "onboard_time": 1768293622,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 82980,
       "num": 82980,
       "word": "所有小猫钻被窝的统一流程",
       "onboard_time": 1768271359,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82673,
+      "num": 105965,
+      "word": "吴昕没看出杜海涛沈梦辰恋爱",
+      "onboard_time": 1768293982,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 82516,
@@ -2147,6 +2195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65796,
+      "num": 105614,
+      "word": "王橹杰苟到决赛圈",
+      "onboard_time": 1768294041,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 65537,
       "num": 124508,
       "word": "杀生丸的脸还是太权威了",
@@ -2217,6 +2273,14 @@
       "onboard_time": 1768270579,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 60706,
+      "num": 126784,
+      "word": "日本餐厅老板杀人藏尸墙内营业10天",
+      "onboard_time": 1768293741,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 59588,
@@ -2396,7 +2460,7 @@
     },
     {
       "raw_hot": 39263,
-      "num": 666593,
+      "num": 675090,
       "word": "自主研发电力示范机组实现核心技术突破",
       "onboard_time": 1768286841,
       "rank": 2,
@@ -2569,6 +2633,14 @@
       "onboard_time": 1768256054,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19289,
+      "num": 107456,
+      "word": "外交部回应李在明将与高市早苗会谈",
+      "onboard_time": 1768294462,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18754,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1768294560156,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 881013,
+        "num": 1140962,
+        "word": "网传花少8小妹已确定",
+        "onboard_time": 1768290022,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 651673,
+        "num": 842391,
+        "word": "钟薛高创始人宣布终审胜诉",
+        "onboard_time": 1768289661,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38372,
+        "num": 675090,
+        "word": "自主研发电力示范机组实现核心技术突破",
+        "onboard_time": 1768286841,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414347,
+        "num": 414347,
+        "word": "国考",
+        "onboard_time": 1768288881,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 372149,
+        "num": 372149,
+        "word": "剑来",
+        "onboard_time": 1768287440,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428139,
+        "num": 356648,
+        "word": "警犬被通报批评",
+        "onboard_time": 1768283660,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 309542,
+        "num": 309542,
+        "word": "中方已经保持最大限度忍耐和克制",
+        "onboard_time": 1768283241,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 246880,
+        "num": 246880,
+        "word": "雷军转发",
+        "onboard_time": 1768292721,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 192935,
+        "num": 192935,
+        "word": "张文宏称拒绝将AI引入医院病历系统",
+        "onboard_time": 1768287440,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154769,
+        "num": 154769,
+        "word": "A股终结17连阳",
+        "onboard_time": 1768289000,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 601406,
+        "num": 152853,
+        "word": "死了么APP仅剩2个功能",
+        "onboard_time": 1768291581,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 508900,
+        "num": 150589,
+        "word": "腾讯告诉全世界肖战签了十日终焉",
+        "onboard_time": 1768290201,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336506,
+        "num": 147976,
+        "word": "吴昕七八年不看朋友圈",
+        "onboard_time": 1768287620,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318450,
+        "num": 143051,
+        "word": "孩子一张嘴身份证都掉出来了",
+        "onboard_time": 1768291220,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277684,
+        "num": 142290,
+        "word": "买过很贵但不后悔的东西",
+        "onboard_time": 1768284321,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 269258,
+        "num": 137254,
+        "word": "59岁产妇说因女儿定居国外寂寞",
+        "onboard_time": 1768292781,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236530,
+        "num": 136269,
+        "word": "章泽天刘嘉玲大赞澳社媒禁令",
+        "onboard_time": 1768292662,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207002,
+        "num": 133144,
+        "word": "赵今麦和宋威龙姐姐热聊",
+        "onboard_time": 1768287440,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130832,
+        "num": 130832,
+        "word": "外交部回应七国集团将减少对华稀土依赖",
+        "onboard_time": 1768291641,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 60706,
+        "num": 126784,
+        "word": "日本餐厅老板杀人藏尸墙内营业10天",
+        "onboard_time": 1768293741,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1352396,
+        "num": 126425,
+        "word": "迅猛龙 小澈",
+        "onboard_time": 1768292421,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 556845,
+        "num": 126191,
+        "word": "口子姐曾自曝患梅毒手臂溃烂",
+        "onboard_time": 1768290980,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 125842,
+        "num": 125842,
+        "word": "苏州巨响",
+        "onboard_time": 1768283421,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185876,
+        "num": 124156,
+        "word": "王安宇",
+        "onboard_time": 1768294161,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173768,
+        "num": 122301,
+        "word": "爱情公寓和回家的诱惑是同一个家",
+        "onboard_time": 1768290439,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117012,
+        "num": 117012,
+        "word": "贵州烙锅",
+        "onboard_time": 1768292961,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 172943,
+        "num": 116150,
+        "word": "谢霆锋保密协议又到期了",
+        "onboard_time": 1768292662,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156817,
+        "num": 113968,
+        "word": "杨洋人没来但亲签来了",
+        "onboard_time": 1768289780,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110493,
+        "num": 110493,
+        "word": "老干妈回应味道变了",
+        "onboard_time": 1768293441,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136020,
+        "num": 109958,
+        "word": "鹅妈妈为小澈发声",
+        "onboard_time": 1768283121,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 130999,
+        "num": 109676,
+        "word": "刘亦菲 淡季旺季都不上班",
+        "onboard_time": 1768278022,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108933,
+        "num": 108933,
+        "word": "曾被通报的警犬幺幺零已经立功了",
+        "onboard_time": 1768292961,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127181,
+        "num": 108629,
+        "word": "小S20年前婚礼照片",
+        "onboard_time": 1768292181,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126620,
+        "num": 108563,
+        "word": "十日终焉男主肖战没变过",
+        "onboard_time": 1768291820,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19289,
+        "num": 107456,
+        "word": "外交部回应李在明将与高市早苗会谈",
+        "onboard_time": 1768294462,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106689,
+        "num": 106689,
+        "word": "金粒门",
+        "onboard_time": 1768286180,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121180,
+        "num": 106512,
+        "word": "我会为卢昱晓这句话哭一晚上",
+        "onboard_time": 1768290439,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115788,
+        "num": 106126,
+        "word": "微博之夜网传名单",
+        "onboard_time": 1768291641,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82673,
+        "num": 105965,
+        "word": "吴昕没看出杜海涛沈梦辰恋爱",
+        "onboard_time": 1768293982,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65796,
+        "num": 105614,
+        "word": "王橹杰苟到决赛圈",
+        "onboard_time": 1768294041,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105503,
+        "num": 105503,
+        "word": "心理医生和算命先生的区别",
+        "onboard_time": 1768289241,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109136,
+        "num": 103967,
+        "word": "杨紫央视总台大剧",
+        "onboard_time": 1768291762,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100582,
+        "num": 100582,
+        "word": "在银行上班的感觉就这样",
+        "onboard_time": 1768293622,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96623,
+        "num": 96623,
+        "word": "吴艳妮回归长发",
+        "onboard_time": 1768288881,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91177,
+        "num": 91177,
+        "word": "港媒曝徐冬冬疑似怀孕",
+        "onboard_time": 1768286422,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90662,
+        "num": 90662,
+        "word": "微博音频",
+        "onboard_time": 1768293801,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 88585,
+        "num": 88585,
+        "word": "代旭孟宴臣2.0",
+        "onboard_time": 1768283479,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87693,
+        "num": 87693,
+        "word": "少年 你的剑太重了",
+        "onboard_time": 1768294281,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87070,
+        "num": 87070,
+        "word": "安卓鸿蒙暂不支持微信通知显示头像",
+        "onboard_time": 1768294401,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 85702,
+        "num": 85702,
+        "word": "贵州辣椒",
+        "onboard_time": 1768294522,
+        "rank": 49,
+        "category": "民生新闻,美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记的反腐警句#"
+    }
+  }
+}

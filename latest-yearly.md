@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/13 16:41:22
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/13 16:56:00
 </p>
 </blockquote>
 <p>
@@ -255,6 +255,12 @@ Asen回应Sakee（热度：2704539）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%85%E7%8C%9B%E9%BE%99%20%E5%B0%8F%E6%BE%88%23" target="weibo">
+迅猛龙 小澈（热度：1352396）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B9%B2%E5%A6%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%87%BA%E5%B1%B1%E6%95%91%E5%AD%90%E5%8F%88%E8%B5%9A%E7%BF%BB%E4%BA%86%23" target="weibo">
 老干妈创始人出山救子又赚翻了（热度：1338830）
 </a>
@@ -377,12 +383,6 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E5%B1%80%E5%B0%86%E8%B0%83%E6%9F%A5%E7%96%91%E5%B0%8F%E6%BE%88%E4%BD%8F%E9%99%A2%E8%AE%B0%E5%BD%95%E6%9B%9D%E5%85%89%23" target="weibo">
 卫健局将调查疑小澈住院记录曝光（热度：1130396）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%85%E7%8C%9B%E9%BE%99%20%E5%B0%8F%E6%BE%88%23" target="weibo">
-迅猛龙 小澈（热度：1128260）
 </a>
 </li>
 
