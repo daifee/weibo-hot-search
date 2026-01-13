@@ -1,6 +1,6 @@
 {
   "startTime": 1768322530118,
-  "endTime": 1768343443482,
+  "endTime": 1768344463434,
   "band_list": [
     {
       "raw_hot": 641527,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187117,
+      "num": 187117,
+      "word": "第一次见恋综骂这么狠的",
+      "onboard_time": 1768310962,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180474,
       "num": 560409,
       "word": "2026国考成绩查询",
@@ -113,14 +121,6 @@
       "onboard_time": 1768318461,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 128584,
-      "num": 130600,
-      "word": "第一次见恋综骂这么狠的",
-      "onboard_time": 1768310962,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 108201,
@@ -323,20 +323,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69817,
+      "num": 72558,
+      "word": "吴昕回忆快乐家族最后一次合体主持",
+      "onboard_time": 1768326915,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67213,
       "num": 129970,
       "word": "韩检方要求判尹锡悦死刑",
       "onboard_time": 1768308322,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 64241,
-      "num": 72558,
-      "word": "吴昕回忆快乐家族最后一次合体主持",
-      "onboard_time": 1768326915,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 59703,
@@ -435,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 37163,
+      "num": 130024,
+      "word": "麦当劳回应汉堡变小了",
+      "onboard_time": 1768302502,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36327,
       "num": 128857,
       "word": "雷军回应小米二手车行情",
@@ -443,15 +451,7 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 34863,
-      "num": 130024,
-      "word": "麦当劳回应汉堡变小了",
-      "onboard_time": 1768302502,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27483,
+      "raw_hot": 34029,
       "num": 104908,
       "word": "贪官一个招呼收一笔巨额贿赂",
       "onboard_time": 1768332616,
@@ -475,6 +475,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 26151,
+      "num": 44864,
+      "word": "今天丽江机场被07快男承包了",
+      "onboard_time": 1768342334,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21247,
       "num": 61579,
       "word": "王楚钦LV品牌大使",
@@ -483,7 +491,7 @@
       "category": "体育,时尚"
     },
     {
-      "raw_hot": 19857,
+      "raw_hot": 20923,
       "num": 61235,
       "word": "王鹤棣下班前对镜拍",
       "onboard_time": 1768323797,
@@ -492,19 +500,19 @@
     },
     {
       "raw_hot": 19508,
-      "num": 38315,
+      "num": 41999,
       "word": "高市早苗行90度鞠躬礼迎接李在明",
       "onboard_time": 1768334594,
       "rank": 44,
       "category": "国际时政"
     },
     {
-      "raw_hot": 17409,
-      "num": 37925,
-      "word": "今天丽江机场被07快男承包了",
-      "onboard_time": 1768342334,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 19312,
+      "num": 42003,
+      "word": "金像奖",
+      "onboard_time": 1768301721,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 17042,
@@ -539,16 +547,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 14798,
-      "num": 37806,
-      "word": "金像奖",
-      "onboard_time": 1768301721,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 12838,
-      "num": 235294,
+      "raw_hot": 14586,
+      "num": 298579,
       "word": "全国铁路新增243列客车",
       "onboard_time": 1768313184,
       "rank": 2,
