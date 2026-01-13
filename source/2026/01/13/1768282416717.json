@@ -1,0 +1,410 @@
+{
+  "runTime": 1768282416717,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 441202,
+        "num": 1070592,
+        "word": "老干妈创始人出山救子又赚翻了",
+        "onboard_time": 1768226783,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 366840,
+        "num": 762616,
+        "word": "祯娘传",
+        "onboard_time": 1768274360,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 7229,
+        "num": 627196,
+        "word": "尔滨的风吹到东南亚了",
+        "onboard_time": 1768201641,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311354,
+        "num": 311354,
+        "word": "贪官妻子一句暗语商人就送房",
+        "onboard_time": 1768276461,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 250919,
+        "num": 250919,
+        "word": "十日终焉是今年最重视的男频剧",
+        "onboard_time": 1768276940,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266819,
+        "num": 247119,
+        "word": "女医学生被前男友杀害藏尸细节披露",
+        "onboard_time": 1768277243,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241950,
+        "num": 241950,
+        "word": "沈梦辰 何老师我们是腻了吗",
+        "onboard_time": 1768277841,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205203,
+        "num": 205203,
+        "word": "长春居民因客厅放床被停燃气20天",
+        "onboard_time": 1768271239,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 184737,
+        "num": 205101,
+        "word": "永辉超市2025净利润为负",
+        "onboard_time": 1768281021,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136984,
+        "num": 204627,
+        "word": "上海去年婚姻登记17万对",
+        "onboard_time": 1768277063,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 651563,
+        "num": 204157,
+        "word": "刘亦菲 淡季旺季都不上班",
+        "onboard_time": 1768278022,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395091,
+        "num": 203883,
+        "word": "妻子隐私被丈夫发到亲友群后自杀",
+        "onboard_time": 1768275501,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391342,
+        "num": 203558,
+        "word": "尹雨航和鹿晗演过双胞胎",
+        "onboard_time": 1768275980,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203236,
+        "num": 203236,
+        "word": "代旭 开始考古了意味着什么",
+        "onboard_time": 1768281499,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198648,
+        "num": 198648,
+        "word": "脂包骨身材是什么",
+        "onboard_time": 1768280122,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 35749,
+        "num": 194705,
+        "word": "赵长江称智界是纯血鸿蒙",
+        "onboard_time": 1768278862,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 136879,
+        "num": 194329,
+        "word": "商业航天",
+        "onboard_time": 1768272920,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 194078,
+        "num": 194078,
+        "word": "有3个睡眠习惯的人更易患癌",
+        "onboard_time": 1768267999,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 315457,
+        "num": 192754,
+        "word": "代旭妻子尹雨航被称女版鹿晗",
+        "onboard_time": 1768279642,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26835,
+        "num": 190831,
+        "word": "夫妻俩收拆迁款后被控诈骗遭羁押",
+        "onboard_time": 1768281621,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309345,
+        "num": 187677,
+        "word": "黄金又急跌",
+        "onboard_time": 1768272980,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 304944,
+        "num": 184145,
+        "word": "赵樱子曝某女星爱半夜喝酒",
+        "onboard_time": 1768278204,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220372,
+        "num": 182929,
+        "word": "曝童锦程女友怀孕",
+        "onboard_time": 1768266620,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180210,
+        "num": 180210,
+        "word": "薛小婉任权至今未领结婚证",
+        "onboard_time": 1768278321,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152867,
+        "num": 152867,
+        "word": "气血足的人头发有3个特征",
+        "onboard_time": 1768268839,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150439,
+        "num": 150439,
+        "word": "黄誉博拍出了杨幂在泰国有多火",
+        "onboard_time": 1768276641,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143983,
+        "num": 143983,
+        "word": "朱颜曼滋任彬离婚搭子对抗路夫妻",
+        "onboard_time": 1768279882,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130417,
+        "num": 130417,
+        "word": "官方通报4名专家身体不适拒评标",
+        "onboard_time": 1768269861,
+        "rank": 27,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 142454,
+        "num": 129457,
+        "word": "小黄豆回应去医院查艾滋病",
+        "onboard_time": 1768277902,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 118440,
+        "num": 118440,
+        "word": "御赐小仵作2",
+        "onboard_time": 1768281861,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145178,
+        "num": 116521,
+        "word": "台甜品店因用青提二字被骂滚出台湾",
+        "onboard_time": 1768282041,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129729,
+        "num": 114903,
+        "word": "李泽言珍藏心意",
+        "onboard_time": 1768282279,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106653,
+        "num": 106653,
+        "word": "尹雨航演过家有儿女",
+        "onboard_time": 1768281980,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105915,
+        "num": 105915,
+        "word": "iOS26升级率被严重低估",
+        "onboard_time": 1768280601,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 105404,
+        "num": 105404,
+        "word": "黄金",
+        "onboard_time": 1768274901,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 104782,
+        "num": 104782,
+        "word": "苦练咖啡拉花的人天塌了",
+        "onboard_time": 1768277723,
+        "rank": 35,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 103713,
+        "num": 103713,
+        "word": "刘嘉玲接受章泽天采访家中装修曝光",
+        "onboard_time": 1768268720,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40231,
+        "num": 102281,
+        "word": "爷奶炒野生蘑菇5岁孙子吃完肝衰竭",
+        "onboard_time": 1768282041,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61289,
+        "num": 101651,
+        "word": "卤鹅哥帮呆呆清杀猪宴垃圾到深夜",
+        "onboard_time": 1768282102,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35089,
+        "num": 101427,
+        "word": "杀害前女友男子被判死刑后双腿发抖",
+        "onboard_time": 1768281621,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101411,
+        "num": 101411,
+        "word": "遇害女生母亲称听到死刑想当庭大笑",
+        "onboard_time": 1768282161,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100354,
+        "num": 100354,
+        "word": "呆呆家杀猪饭后清出百斤垃圾",
+        "onboard_time": 1768280601,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96016,
+        "num": 96016,
+        "word": "排骨上的肉可能比肥肠还肥",
+        "onboard_time": 1768279821,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 90542,
+        "num": 90542,
+        "word": "蒋奇明长得东南西北的",
+        "onboard_time": 1768278142,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90370,
+        "num": 90370,
+        "word": "原来拍立得白边下还有图",
+        "onboard_time": 1768281499,
+        "rank": 44,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 87898,
+        "num": 87898,
+        "word": "问界下线第100万辆整车",
+        "onboard_time": 1768281261,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 86965,
+        "num": 86965,
+        "word": "日本急寻稀土替代",
+        "onboard_time": 1768280842,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86861,
+        "num": 86861,
+        "word": "微博之夜",
+        "onboard_time": 1768275261,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 86692,
+        "num": 86692,
+        "word": "北京二环10平米三层的家",
+        "onboard_time": 1768279461,
+        "rank": 48,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 86350,
+        "num": 86350,
+        "word": "小猫每天帮主人关热水器",
+        "onboard_time": 1768282341,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届中央纪委五次全会召开#"
+    }
+  }
+}

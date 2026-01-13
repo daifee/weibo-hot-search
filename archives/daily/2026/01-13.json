@@ -1,6 +1,6 @@
 {
   "startTime": 1768235820030,
-  "endTime": 1768280386954,
+  "endTime": 1768282416717,
   "band_list": [
     {
       "raw_hot": 1195104,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 697999,
-      "num": 198921,
+      "num": 204157,
       "word": "刘亦菲 淡季旺季都不上班",
       "onboard_time": 1768278022,
       "rank": 10,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 374363,
-      "num": 374363,
+      "num": 762616,
       "word": "祯娘传",
       "onboard_time": 1768274360,
       "rank": 3,
@@ -211,6 +211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 315457,
+      "num": 192754,
+      "word": "代旭妻子尹雨航被称女版鹿晗",
+      "onboard_time": 1768279642,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311577,
       "num": 251516,
       "word": "女医学生被前男友杀害藏尸细节披露",
@@ -235,11 +243,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 306861,
-      "num": 190881,
-      "word": "代旭妻子尹雨航被称女版鹿晗",
-      "onboard_time": 1768279642,
-      "rank": 17,
+      "raw_hot": 304944,
+      "num": 186694,
+      "word": "赵樱子曝某女星爱半夜喝酒",
+      "onboard_time": 1768278204,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -291,14 +299,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 261737,
-      "num": 186694,
-      "word": "赵樱子曝某女星爱半夜喝酒",
-      "onboard_time": 1768278204,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 252457,
       "num": 252457,
       "word": "张钧甯妈妈发言这一段",
@@ -313,6 +313,14 @@
       "onboard_time": 1768276641,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250919,
+      "num": 250919,
+      "word": "十日终焉是今年最重视的男频剧",
+      "onboard_time": 1768276940,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 246449,
@@ -387,12 +395,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 208207,
-      "num": 208207,
-      "word": "十日终焉是今年最重视的男频剧",
-      "onboard_time": 1768276940,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 203236,
+      "num": 203236,
+      "word": "代旭 开始考古了意味着什么",
+      "onboard_time": 1768281499,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 202469,
@@ -401,6 +409,14 @@
       "onboard_time": 1768228642,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198648,
+      "num": 198648,
+      "word": "脂包骨身材是什么",
+      "onboard_time": 1768280122,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 196347,
@@ -457,6 +473,14 @@
       "onboard_time": 1768276822,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 184737,
+      "num": 205101,
+      "word": "永辉超市2025净利润为负",
+      "onboard_time": 1768281021,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 184364,
@@ -524,7 +548,7 @@
     },
     {
       "raw_hot": 173430,
-      "num": 138997,
+      "num": 143983,
       "word": "朱颜曼滋任彬离婚搭子对抗路夫妻",
       "onboard_time": 1768279882,
       "rank": 29,
@@ -635,6 +659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 145178,
+      "num": 116521,
+      "word": "台甜品店因用青提二字被骂滚出台湾",
+      "onboard_time": 1768282041,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144397,
       "num": 121425,
       "word": "男主宣示主权男二接二连三",
@@ -665,6 +697,14 @@
       "onboard_time": 1768224622,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 136984,
+      "num": 204627,
+      "word": "上海去年婚姻登记17万对",
+      "onboard_time": 1768277063,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135583,
@@ -707,12 +747,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 130707,
-      "num": 130707,
-      "word": "上海去年婚姻登记17万对",
-      "onboard_time": 1768277063,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 129729,
+      "num": 114903,
+      "word": "李泽言珍藏心意",
+      "onboard_time": 1768282279,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 129305,
@@ -779,14 +819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122869,
-      "num": 122869,
-      "word": "脂包骨身材是什么",
-      "onboard_time": 1768280122,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 121879,
       "num": 121879,
       "word": "用药可控制近视度数增加",
@@ -841,6 +873,14 @@
       "onboard_time": 1768269138,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118440,
+      "num": 118440,
+      "word": "御赐小仵作2",
+      "onboard_time": 1768281861,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 118367,
@@ -979,12 +1019,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106653,
+      "num": 106653,
+      "word": "尹雨航演过家有儿女",
+      "onboard_time": 1768281980,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 106266,
       "num": 106266,
       "word": "曝童锦程女友要生了",
       "onboard_time": 1768274721,
       "rank": 45,
       "category": "网红"
+    },
+    {
+      "raw_hot": 105915,
+      "num": 105915,
+      "word": "iOS26升级率被严重低估",
+      "onboard_time": 1768280601,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 105673,
@@ -1059,11 +1115,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 101411,
+      "num": 101411,
+      "word": "遇害女生母亲称听到死刑想当庭大笑",
+      "onboard_time": 1768282161,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100879,
       "num": 124546,
       "word": "呆呆1分钟视频报价2400元",
       "onboard_time": 1768218621,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100354,
+      "num": 100354,
+      "word": "呆呆家杀猪饭后清出百斤垃圾",
+      "onboard_time": 1768280601,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -1179,12 +1251,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90370,
+      "num": 90370,
+      "word": "原来拍立得白边下还有图",
+      "onboard_time": 1768281499,
+      "rank": 44,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 89305,
       "num": 89305,
       "word": "教育部拟同意设置14所本科高校",
       "onboard_time": 1768270459,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 87898,
+      "num": 87898,
+      "word": "问界下线第100万辆整车",
+      "onboard_time": 1768281261,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 87857,
@@ -1201,6 +1289,22 @@
       "onboard_time": 1768266080,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 86965,
+      "num": 86965,
+      "word": "日本急寻稀土替代",
+      "onboard_time": 1768280842,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 86350,
+      "num": 86350,
+      "word": "小猫每天帮主人关热水器",
+      "onboard_time": 1768282341,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 85338,
@@ -1427,6 +1531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 61289,
+      "num": 101651,
+      "word": "卤鹅哥帮呆呆清杀猪宴垃圾到深夜",
+      "onboard_time": 1768282102,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59588,
       "num": 124490,
       "word": "你好星期六",
@@ -1532,7 +1644,7 @@
     },
     {
       "raw_hot": 48266,
-      "num": 189917,
+      "num": 194705,
       "word": "赵长江称智界是纯血鸿蒙",
       "onboard_time": 1768278862,
       "rank": 18,
@@ -1571,6 +1683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 40231,
+      "num": 102281,
+      "word": "爷奶炒野生蘑菇5岁孙子吃完肝衰竭",
+      "onboard_time": 1768282041,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39775,
       "num": 81473,
       "word": "商场客服回应洗手台酷似小便池",
@@ -1585,6 +1705,14 @@
       "onboard_time": 1768260378,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 35089,
+      "num": 101427,
+      "word": "杀害前女友男子被判死刑后双腿发抖",
+      "onboard_time": 1768281621,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32668,
@@ -1632,6 +1760,14 @@
       "word": "司机称帮老板贷款3750万公司破产",
       "onboard_time": 1768271239,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26835,
+      "num": 190831,
+      "word": "夫妻俩收拆迁款后被控诈骗遭羁押",
+      "onboard_time": 1768281621,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
