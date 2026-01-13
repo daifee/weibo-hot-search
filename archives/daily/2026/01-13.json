@@ -1,6 +1,6 @@
 {
   "startTime": 1768235820030,
-  "endTime": 1768310239240,
+  "endTime": 1768312312861,
   "band_list": [
     {
       "raw_hot": 2536475,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 513280,
+      "num": 214374,
+      "word": "巩俐压轴",
+      "onboard_time": 1768310423,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 511745,
       "num": 206786,
       "word": "买过很贵但不后悔的东西",
@@ -283,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 466227,
+      "num": 221151,
+      "word": "橹穆联排",
+      "onboard_time": 1768309284,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 465870,
       "num": 306436,
       "word": "高晓松26天瘦了26斤",
@@ -299,7 +315,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 436709,
+      "raw_hot": 439005,
       "num": 807021,
       "word": "韩检方要求判尹锡悦死刑",
       "onboard_time": 1768308322,
@@ -403,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 369378,
+      "num": 311091,
+      "word": "日本女市长与下属开房辞职后再当选",
+      "onboard_time": 1768308562,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 364495,
       "num": 166887,
       "word": "港媒曝徐冬冬疑似怀孕",
@@ -476,7 +500,7 @@
     },
     {
       "raw_hot": 335073,
-      "num": 335073,
+      "num": 444795,
       "word": "国考成绩 紧张",
       "onboard_time": 1768307301,
       "rank": 3,
@@ -553,14 +577,6 @@
       "onboard_time": 1768277243,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 311091,
-      "num": 311091,
-      "word": "日本女市长与下属开房辞职后再当选",
-      "onboard_time": 1768308562,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 310331,
@@ -643,12 +659,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 292065,
-      "num": 221151,
-      "word": "橹穆联排",
-      "onboard_time": 1768309284,
-      "rank": 29,
-      "category": "演出"
+      "raw_hot": 292004,
+      "num": 197586,
+      "word": "爱吃鸭头的天塌了",
+      "onboard_time": 1768309462,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 291166,
@@ -715,14 +731,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 268996,
-      "num": 197586,
-      "word": "爱吃鸭头的天塌了",
-      "onboard_time": 1768309462,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 266824,
       "num": 266824,
       "word": "首款登顶Steam国游将上线鸿蒙",
@@ -739,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262780,
+      "num": 204446,
+      "word": "老人生前录遗嘱遗产给儿子不给女儿",
+      "onboard_time": 1768308562,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 262082,
       "num": 262082,
       "word": "iPhone相册自带手写体",
@@ -748,7 +764,7 @@
     },
     {
       "raw_hot": 256266,
-      "num": 318264,
+      "num": 471743,
       "word": "王楚钦LV品牌大使",
       "onboard_time": 1768308622,
       "rank": 8,
@@ -785,6 +801,14 @@
       "onboard_time": 1768276940,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 247837,
+      "num": 181715,
+      "word": "金晨LV活动状态",
+      "onboard_time": 1768310304,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 246880,
@@ -963,6 +987,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 204330,
+      "num": 204330,
+      "word": "宋茜大背头黑西装",
+      "onboard_time": 1768306162,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 202469,
       "num": 202469,
       "word": "代旭掀桌了",
@@ -979,20 +1011,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 202318,
-      "num": 202318,
-      "word": "宋茜大背头黑西装",
-      "onboard_time": 1768306162,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 201924,
       "num": 120033,
       "word": "三只羊复播大小杨哥未现身",
       "onboard_time": 1768297400,
       "rank": 37,
       "category": "网红"
+    },
+    {
+      "raw_hot": 199671,
+      "num": 199671,
+      "word": "白敬亭LV活动生图",
+      "onboard_time": 1768311143,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 199667,
@@ -1137,6 +1169,14 @@
       "onboard_time": 1768302622,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179224,
+      "num": 179224,
+      "word": "第一次见恋综骂这么狠的",
+      "onboard_time": 1768310962,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 179142,
@@ -1355,14 +1395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 155691,
-      "num": 199320,
-      "word": "老人生前录遗嘱遗产给儿子不给女儿",
-      "onboard_time": 1768308562,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 155584,
       "num": 126332,
       "word": "蒋奇明长得东南西北的",
@@ -1409,6 +1441,14 @@
       "onboard_time": 1768303221,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 150901,
+      "num": 150901,
+      "word": "美雪扮演者因出演小魔仙被校园暴力",
+      "onboard_time": 1768308741,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 150657,
@@ -1467,6 +1507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146790,
+      "num": 222260,
+      "word": "iPhone自带堪比打印机的软件",
+      "onboard_time": 1768308682,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 146693,
       "num": 146693,
       "word": "委内瑞拉回应特朗普自称代总统",
@@ -1481,6 +1529,14 @@
       "onboard_time": 1768302502,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145808,
+      "num": 145808,
+      "word": "大背头BB机宋茜是我的天菜姬",
+      "onboard_time": 1768311082,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 145775,
@@ -1579,14 +1635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135381,
-      "num": 135381,
-      "word": "iPhone自带堪比打印机的软件",
-      "onboard_time": 1768308682,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
       "raw_hot": 135100,
       "num": 135100,
       "word": "金像奖报名名单",
@@ -1667,20 +1715,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129178,
+      "num": 220126,
+      "word": "苏晓彤也在考古六年前的楚楚",
+      "onboard_time": 1768310904,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128402,
       "num": 140335,
       "word": "EDG官宣Clearlove回归",
       "onboard_time": 1768307904,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 128252,
-      "num": 128252,
-      "word": "美雪扮演者因出演小魔仙被校园暴力",
-      "onboard_time": 1768308741,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 127897,
@@ -1883,6 +1931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118719,
+      "num": 118719,
+      "word": "完美解释了为什么摸鱼也觉得好累",
+      "onboard_time": 1768311803,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118642,
       "num": 118642,
       "word": "徐明浩栗色狼尾头",
@@ -2003,6 +2059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113121,
+      "num": 113121,
+      "word": "LPL队长名单公布",
+      "onboard_time": 1768312223,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113090,
       "num": 276104,
       "word": "谁吃过飞机餐的五无包",
@@ -2049,6 +2113,14 @@
       "onboard_time": 1768298662,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111482,
+      "num": 111482,
+      "word": "明星LV活动生图",
+      "onboard_time": 1768312223,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 111096,
@@ -2201,6 +2273,14 @@
       "onboard_time": 1768298120,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106867,
+      "num": 146968,
+      "word": "尹锡悦案庭审",
+      "onboard_time": 1768310543,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 106503,
@@ -2531,6 +2611,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 95727,
+      "num": 95727,
+      "word": "西红柿为何涨价",
+      "onboard_time": 1768311681,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95325,
       "num": 124561,
       "word": "赵今麦这个背",
@@ -2555,12 +2643,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 94929,
+      "num": 94929,
+      "word": "张真源 你关注的人格正在切号",
+      "onboard_time": 1768310662,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94747,
       "num": 486498,
       "word": "贵州一幼儿园森林里放养娃",
       "onboard_time": 1768226902,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94407,
+      "num": 94407,
+      "word": "尹锡悦案结案庭审",
+      "onboard_time": 1768312283,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 94196,
@@ -2673,6 +2777,14 @@
       "onboard_time": 1768270459,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 88421,
+      "num": 90477,
+      "word": "辽宁男篮vs青岛男篮",
+      "onboard_time": 1768311861,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 87898,
