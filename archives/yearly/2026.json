@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768297019708,
+  "endTime": 1768297897264,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -464,6 +464,14 @@
       "word": "曝男艺人因负面骂助理",
       "onboard_time": 1767866061,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1170739,
+      "num": 140866,
+      "word": "章泽天完全不给孩子看社媒",
+      "onboard_time": 1768295241,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -945,14 +953,6 @@
       "onboard_time": 1767437066,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 869877,
-      "num": 93566,
-      "word": "章泽天完全不给孩子看社媒",
-      "onboard_time": 1768295241,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 868378,
@@ -1803,6 +1803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 655446,
+      "num": 1104871,
+      "word": "国考",
+      "onboard_time": 1768288881,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 651165,
       "num": 488723,
       "word": "黄景瑜跨年上台前突发耳石症",
@@ -2049,14 +2057,6 @@
       "onboard_time": 1767756440,
       "rank": 0,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 611583,
-      "num": 1097853,
-      "word": "国考",
-      "onboard_time": 1768288881,
-      "rank": 23,
-      "category": "教育"
     },
     {
       "raw_hot": 610374,
