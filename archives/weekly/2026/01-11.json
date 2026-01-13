@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768332481616,
+  "endTime": 1768333193485,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -11385,6 +11385,14 @@
       "onboard_time": 1768068796,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 13083,
+      "num": 18520,
+      "word": "贪官一个招呼收一笔巨额贿赂",
+      "onboard_time": 1768332616,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 12478,
