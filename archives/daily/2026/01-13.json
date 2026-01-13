@@ -1,6 +1,6 @@
 {
   "startTime": 1768235820030,
-  "endTime": 1768294560156,
+  "endTime": 1768297019708,
   "band_list": [
     {
       "raw_hot": 1352396,
@@ -48,6 +48,14 @@
       "word": "陈楚河承认恋情",
       "onboard_time": 1768273340,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 869877,
+      "num": 93566,
+      "word": "章泽天完全不给孩子看社媒",
+      "onboard_time": 1768295241,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -105,6 +113,14 @@
       "onboard_time": 1768275980,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 611583,
+      "num": 1097853,
+      "word": "国考",
+      "onboard_time": 1768288881,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 601670,
@@ -195,6 +211,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 467140,
+      "num": 124156,
+      "word": "王安宇",
+      "onboard_time": 1768294161,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 456707,
       "num": 798412,
       "word": "4专家因送餐延误身体不适拒评标",
@@ -209,14 +233,6 @@
       "onboard_time": 1768267999,
       "rank": 11,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 414347,
-      "num": 414347,
-      "word": "国考",
-      "onboard_time": 1768288881,
-      "rank": 23,
-      "category": "教育"
     },
     {
       "raw_hot": 403043,
@@ -339,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 344958,
+      "num": 162439,
+      "word": "日本餐厅老板杀人藏尸墙内营业10天",
+      "onboard_time": 1768293741,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 337864,
       "num": 265799,
       "word": "代旭孟宴臣2.0",
@@ -443,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 291166,
+      "num": 90901,
+      "word": "阎鹤祥升级当爸",
+      "onboard_time": 1768295182,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276456,
       "num": 276456,
       "word": "永辉超市2025净利润为负",
@@ -489,6 +521,14 @@
       "onboard_time": 1768286959,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 266425,
+      "num": 155506,
+      "word": "章泽天刘嘉玲大赞澳社媒禁令",
+      "onboard_time": 1768292662,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 262082,
@@ -563,14 +603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 236530,
-      "num": 155506,
-      "word": "章泽天刘嘉玲大赞澳社媒禁令",
-      "onboard_time": 1768292662,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 235414,
       "num": 177995,
       "word": "长期独居后的真实感受",
@@ -596,7 +628,7 @@
     },
     {
       "raw_hot": 227583,
-      "num": 155780,
+      "num": 164898,
       "word": "谢霆锋保密协议又到期了",
       "onboard_time": 1768292662,
       "rank": 23,
@@ -699,12 +731,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194385,
+      "num": 105965,
+      "word": "吴昕没看出杜海涛沈梦辰恋爱",
+      "onboard_time": 1768293982,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192802,
       "num": 140411,
       "word": "国产剧拍出了女性之间的凝视",
       "onboard_time": 1768275620,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191263,
+      "num": 191263,
+      "word": "外交部回应七国集团将减少对华稀土依赖",
+      "onboard_time": 1768291641,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 190923,
@@ -745,14 +793,6 @@
       "onboard_time": 1768276822,
       "rank": 17,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 185876,
-      "num": 124156,
-      "word": "王安宇",
-      "onboard_time": 1768294161,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 184364,
@@ -995,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149614,
+      "num": 90760,
+      "word": "35岁苦练化妆3个月的变化",
+      "onboard_time": 1768295361,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 147402,
       "num": 132253,
       "word": "小S20年前婚礼照片",
@@ -1017,6 +1065,14 @@
       "onboard_time": 1768261579,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 146392,
+      "num": 146392,
+      "word": "贵州烙锅",
+      "onboard_time": 1768292961,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 144397,
@@ -1073,14 +1129,6 @@
       "onboard_time": 1768270160,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 132677,
-      "num": 132677,
-      "word": "外交部回应七国集团将减少对华稀土依赖",
-      "onboard_time": 1768291641,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 132456,
@@ -1331,14 +1379,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 117012,
-      "num": 117012,
-      "word": "贵州烙锅",
-      "onboard_time": 1768292961,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 116989,
       "num": 124548,
       "word": "张雨绮 我的身材很曼妙",
@@ -1379,6 +1419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 115516,
+      "num": 115516,
+      "word": "贵州辣椒",
+      "onboard_time": 1768294522,
+      "rank": 49,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 114858,
       "num": 114858,
       "word": "原来每个城市都有自己的旅游季",
@@ -1401,6 +1449,14 @@
       "onboard_time": 1768276580,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112551,
+      "num": 90437,
+      "word": "张呈牙都要咬碎了",
+      "onboard_time": 1768295541,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 112086,
@@ -1489,6 +1545,14 @@
       "onboard_time": 1768265241,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108498,
+      "num": 108498,
+      "word": "肖战射雕英雄传报名金像奖男主",
+      "onboard_time": 1768296982,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 108135,
@@ -1611,6 +1675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 102589,
+      "num": 90333,
+      "word": "赵丽颖新剧全是申论素材",
+      "onboard_time": 1768294822,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102230,
       "num": 102230,
       "word": "遇害女生母亲称听到死刑想当庭大笑",
@@ -1673,6 +1745,14 @@
       "onboard_time": 1768280601,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100054,
+      "num": 90618,
+      "word": "为什么有人不看朋友圈了",
+      "onboard_time": 1768296922,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 99962,
@@ -1956,19 +2036,11 @@
     },
     {
       "raw_hot": 85989,
-      "num": 85989,
+      "num": 90990,
       "word": "中方希望并支持伊朗保持国家稳定",
       "onboard_time": 1768290742,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 85702,
-      "num": 85702,
-      "word": "贵州辣椒",
-      "onboard_time": 1768294522,
-      "rank": 49,
-      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 85338,
@@ -2019,12 +2091,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 82673,
-      "num": 105965,
-      "word": "吴昕没看出杜海涛沈梦辰恋爱",
-      "onboard_time": 1768293982,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 82594,
+      "num": 90379,
+      "word": "没见过睡这么死的猫",
+      "onboard_time": 1768296620,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 82516,
@@ -2195,6 +2267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66497,
+      "num": 80055,
+      "word": "A股商业航天概念为什么跌了",
+      "onboard_time": 1768294762,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 65796,
       "num": 105614,
       "word": "王橹杰苟到决赛圈",
@@ -2275,14 +2355,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 60706,
-      "num": 126784,
-      "word": "日本餐厅老板杀人藏尸墙内营业10天",
-      "onboard_time": 1768293741,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 59588,
       "num": 124490,
       "word": "你好星期六",
@@ -2313,6 +2385,14 @@
       "onboard_time": 1768232780,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 57439,
+      "num": 90266,
+      "word": "摇篮曲公告",
+      "onboard_time": 1768295663,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 56336,
@@ -2515,6 +2595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33809,
+      "num": 90555,
+      "word": "美联邦法官裁定特朗普政府违宪",
+      "onboard_time": 1768296141,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33394,
       "num": 124201,
       "word": "杀猪宴现场志愿者全收拾好了",
@@ -2555,12 +2643,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 30086,
+      "num": 95442,
+      "word": "娇兰赢家派对阵容有多绝",
+      "onboard_time": 1768295602,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28112,
       "num": 46340,
       "word": "侯明昊和粉丝双向奔赴的爱",
       "onboard_time": 1768237636,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27776,
+      "num": 96090,
+      "word": "中方回应日本或提前举行众议院大选",
+      "onboard_time": 1768296562,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 27159,
@@ -2713,6 +2817,9 @@
     },
     {
       "word": "#重温总书记的反腐警句#"
+    },
+    {
+      "word": "#总书记推进全面从严治党最新部署#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768294560156,
+  "endTime": 1768297019708,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -216,6 +216,14 @@
       "word": "陈楚河承认恋情",
       "onboard_time": 1768273340,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 869877,
+      "num": 93566,
+      "word": "章泽天完全不给孩子看社媒",
+      "onboard_time": 1768295241,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -545,6 +553,14 @@
       "onboard_time": 1768275980,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 611583,
+      "num": 1097853,
+      "word": "国考",
+      "onboard_time": 1768288881,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 601670,
@@ -923,6 +939,14 @@
       "category": "辟谣/通报,体育"
     },
     {
+      "raw_hot": 467140,
+      "num": 124156,
+      "word": "王安宇",
+      "onboard_time": 1768294161,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 463580,
       "num": 203370,
       "word": "死了么APP创始人称没想到这么火",
@@ -1097,14 +1121,6 @@
       "onboard_time": 1768103420,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 414347,
-      "num": 414347,
-      "word": "国考",
-      "onboard_time": 1768288881,
-      "rank": 23,
-      "category": "教育"
     },
     {
       "raw_hot": 410777,
@@ -1499,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 344958,
+      "num": 162439,
+      "word": "日本餐厅老板杀人藏尸墙内营业10天",
+      "onboard_time": 1768293741,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 342127,
       "num": 175694,
       "word": "宋威龙赵今麦明天合体",
@@ -1811,6 +1835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 291166,
+      "num": 90901,
+      "word": "阎鹤祥升级当爸",
+      "onboard_time": 1768295182,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290136,
       "num": 290136,
       "word": "子阳道歉",
@@ -2001,6 +2033,14 @@
       "onboard_time": 1768286959,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 266425,
+      "num": 155506,
+      "word": "章泽天刘嘉玲大赞澳社媒禁令",
+      "onboard_time": 1768292662,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 264707,
@@ -2259,14 +2299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 236530,
-      "num": 155506,
-      "word": "章泽天刘嘉玲大赞澳社媒禁令",
-      "onboard_time": 1768292662,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 235610,
       "num": 235610,
       "word": "王玉雯精心画的卧蚕",
@@ -2348,7 +2380,7 @@
     },
     {
       "raw_hot": 227583,
-      "num": 155780,
+      "num": 164898,
       "word": "谢霆锋保密协议又到期了",
       "onboard_time": 1768292662,
       "rank": 23,
@@ -2755,6 +2787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 194385,
+      "num": 105965,
+      "word": "吴昕没看出杜海涛沈梦辰恋爱",
+      "onboard_time": 1768293982,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194199,
       "num": 175752,
       "word": "侯明昊出道十周年直播",
@@ -2867,6 +2907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 191263,
+      "num": 191263,
+      "word": "外交部回应七国集团将减少对华稀土依赖",
+      "onboard_time": 1768291641,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 190923,
       "num": 179861,
       "word": "谁家综艺7个嘉宾哭了4个",
@@ -2968,14 +3016,6 @@
       "word": "穆祉丞高会更新",
       "onboard_time": 1768143202,
       "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 185876,
-      "num": 124156,
-      "word": "王安宇",
-      "onboard_time": 1768294161,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -3939,6 +3979,14 @@
       "category": "美食,情感"
     },
     {
+      "raw_hot": 149614,
+      "num": 90760,
+      "word": "35岁苦练化妆3个月的变化",
+      "onboard_time": 1768295361,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 149443,
       "num": 149443,
       "word": "宋祖儿丁禹兮 司宫令",
@@ -4001,6 +4049,14 @@
       "onboard_time": 1768261579,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 146392,
+      "num": 146392,
+      "word": "贵州烙锅",
+      "onboard_time": 1768292961,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 146137,
@@ -4401,14 +4457,6 @@
       "onboard_time": 1768214720,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 132677,
-      "num": 132677,
-      "word": "外交部回应七国集团将减少对华稀土依赖",
-      "onboard_time": 1768291641,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 132582,
@@ -5083,14 +5131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 117012,
-      "num": 117012,
-      "word": "贵州烙锅",
-      "onboard_time": 1768292961,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 116658,
       "num": 116658,
       "word": "刘宇宁成都不吃火锅的原因",
@@ -5233,6 +5273,14 @@
       "onboard_time": 1768113081,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 115516,
+      "num": 115516,
+      "word": "贵州辣椒",
+      "onboard_time": 1768294522,
+      "rank": 49,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 115288,
@@ -5400,6 +5448,14 @@
       "word": "何穗 大红大绿大粉大橙",
       "onboard_time": 1768119021,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 112551,
+      "num": 90437,
+      "word": "张呈牙都要咬碎了",
+      "onboard_time": 1768295541,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -5625,6 +5681,14 @@
       "onboard_time": 1768176200,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108498,
+      "num": 108498,
+      "word": "肖战射雕英雄传报名金像奖男主",
+      "onboard_time": 1768296982,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 108469,
@@ -6027,6 +6091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102589,
+      "num": 90333,
+      "word": "赵丽颖新剧全是申论素材",
+      "onboard_time": 1768294822,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102282,
       "num": 126978,
       "word": "大爷5岁走失回家已72岁",
@@ -6225,6 +6297,14 @@
       "onboard_time": 1768192523,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100054,
+      "num": 90618,
+      "word": "为什么有人不看朋友圈了",
+      "onboard_time": 1768296922,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 99859,
@@ -7156,7 +7236,7 @@
     },
     {
       "raw_hot": 85989,
-      "num": 85989,
+      "num": 90990,
       "word": "中方希望并支持伊朗保持国家稳定",
       "onboard_time": 1768290742,
       "rank": 46,
@@ -7185,14 +7265,6 @@
       "onboard_time": 1768131201,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 85702,
-      "num": 85702,
-      "word": "贵州辣椒",
-      "onboard_time": 1768294522,
-      "rank": 49,
-      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 85580,
@@ -7331,20 +7403,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82673,
-      "num": 105965,
-      "word": "吴昕没看出杜海涛沈梦辰恋爱",
-      "onboard_time": 1768293982,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 82607,
       "num": 82607,
       "word": "A股超百只个股涨停",
       "onboard_time": 1768198281,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 82594,
+      "num": 90379,
+      "word": "没见过睡这么死的猫",
+      "onboard_time": 1768296620,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 82541,
@@ -8171,6 +8243,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 66497,
+      "num": 80055,
+      "word": "A股商业航天概念为什么跌了",
+      "onboard_time": 1768294762,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 66443,
       "num": 97244,
       "word": "确诊为仓鼠型人格",
@@ -8451,14 +8531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60706,
-      "num": 126784,
-      "word": "日本餐厅老板杀人藏尸墙内营业10天",
-      "onboard_time": 1768293741,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 60223,
       "num": 195564,
       "word": "TF家族花絮照",
@@ -8545,6 +8617,14 @@
       "onboard_time": 1768115841,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 57439,
+      "num": 90266,
+      "word": "摇篮曲公告",
+      "onboard_time": 1768295663,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 56614,
@@ -9147,6 +9227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33809,
+      "num": 90555,
+      "word": "美联邦法官裁定特朗普政府违宪",
+      "onboard_time": 1768296141,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33595,
       "num": 176149,
       "word": "直播间成烟花爆竹黑市",
@@ -9275,6 +9363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30086,
+      "num": 95442,
+      "word": "娇兰赢家派对阵容有多绝",
+      "onboard_time": 1768295602,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29956,
       "num": 33831,
       "word": "刘宇宁提前3个月准备惊喜揭晓",
@@ -9385,6 +9481,14 @@
       "onboard_time": 1768207520,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27776,
+      "num": 96090,
+      "word": "中方回应日本或提前举行众议院大选",
+      "onboard_time": 1768296562,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 27563,
@@ -9947,6 +10051,9 @@
     },
     {
       "word": "#重温总书记的反腐警句#"
+    },
+    {
+      "word": "#总书记推进全面从严治党最新部署#"
     }
   ]
 }
