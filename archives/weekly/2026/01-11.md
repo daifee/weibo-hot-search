@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/11 00:34:00 ~ 2026/01/14 01:53:06
+本榜单时间：2026/01/11 00:34:00 ~ 2026/01/14 02:40:43
 </p>
 </blockquote>
 <p>
@@ -7743,6 +7743,12 @@ sakee asen（热度：58695）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%98%95%E5%9B%9E%E5%BF%86%E5%BF%AB%E4%B9%90%E5%AE%B6%E6%97%8F%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E5%90%88%E4%BD%93%E4%B8%BB%E6%8C%81%23" target="weibo">
+吴昕回忆快乐家族最后一次合体主持（热度：41086）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9C%9F%E6%BA%90%E6%96%B0%E6%AD%8C%E9%9F%B3%E6%BA%90%E4%B8%8A%E7%BA%BF%23" target="weibo">
 张真源新歌音源上线（热度：40988）
 </a>
@@ -8457,6 +8463,12 @@ WTT新加坡大满贯（热度：24046）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E4%B8%8B%E7%8F%AD%E5%89%8D%E5%AF%B9%E9%95%9C%E6%8B%8D%23" target="weibo">
+王鹤棣下班前对镜拍（热度：18049）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%B2%99%E4%B8%98%E6%88%98%E5%A3%AB%23" target="weibo">
 刘宇宁沙丘战士（热度：17134）
 </a>
@@ -8471,6 +8483,12 @@ WTT新加坡大满贯（热度：24046）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%BA%E8%BF%98%E8%B5%8C%E5%80%BA%E5%8A%AB%E6%9D%80%E7%89%8C%E5%8F%8B%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
 女子为还赌债劫杀牌友被执行死刑（热度：16775）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9C%9F%E6%BA%90%E6%96%B0%E6%AD%8C%23" target="weibo">
+张真源新歌（热度：16489）
 </a>
 </li>
 
@@ -8507,12 +8525,6 @@ WTT新加坡大满贯（热度：24046）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%90%89%E7%90%83%E6%B0%91%E4%BC%97%E4%B8%BA%E4%BD%95%E5%AF%B9%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E8%AF%B4NO%23" target="weibo">
 琉球民众为何对美军基地说NO（热度：14645）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9C%9F%E6%BA%90%E6%96%B0%E6%AD%8C%23" target="weibo">
-张真源新歌（热度：14507）
 </a>
 </li>
 
@@ -8579,6 +8591,12 @@ WTT新加坡大满贯（热度：24046）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%8E%9E%E8%BD%BF%E8%BD%A6%E6%92%9E%E5%A4%A7%E8%B4%A7%E8%BD%A6%E8%87%B43%E6%AD%BB%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%23" target="weibo">
 东莞轿车撞大货车致3死调查报告（热度：11053）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E9%93%81%E8%B7%AF%E6%96%B0%E5%A2%9E243%E5%88%97%E5%AE%A2%E8%BD%A6%23" target="weibo">
+全国铁路新增243列客车（热度：9576）
 </a>
 </li>
 
