@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768286694284,
+  "endTime": 1768287525342,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -139,20 +139,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1078398,
+      "num": 267203,
+      "word": "警犬被通报批评",
+      "onboard_time": 1768283660,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1073090,
       "num": 585588,
       "word": "痞幼上恋综进医院",
       "onboard_time": 1768194860,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1046307,
-      "num": 267203,
-      "word": "警犬被通报批评",
-      "onboard_time": 1768283660,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 1040302,
@@ -523,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 599085,
+      "num": 1095853,
+      "word": "中方已经保持最大限度忍耐和克制",
+      "onboard_time": 1768283241,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 592079,
       "num": 182278,
       "word": "闫学晶儿子说对不起",
@@ -633,14 +641,6 @@
       "onboard_time": 1768210043,
       "rank": 21,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 555984,
-      "num": 1088957,
-      "word": "中方已经保持最大限度忍耐和克制",
-      "onboard_time": 1768283241,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 552604,
@@ -1180,7 +1180,7 @@
     },
     {
       "raw_hot": 386378,
-      "num": 122990,
+      "num": 152568,
       "word": "鹅妈妈为小澈发声",
       "onboard_time": 1768283121,
       "rank": 31,
@@ -1225,6 +1225,14 @@
       "onboard_time": 1768186999,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 374759,
+      "num": 179799,
+      "word": "买过很贵但不后悔的东西",
+      "onboard_time": 1768284321,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 374238,
@@ -1635,6 +1643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 297811,
+      "num": 297811,
+      "word": "吴磊陈都灵合作",
+      "onboard_time": 1768284141,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 297455,
       "num": 297455,
       "word": "死了么APP 独居人群",
@@ -1680,6 +1696,14 @@
       "word": "摄影师吐槽艺人互勉拍照不配合",
       "onboard_time": 1768268060,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 291952,
+      "num": 152063,
+      "word": "港媒曝徐冬冬疑似怀孕",
+      "onboard_time": 1768286422,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -1819,14 +1843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 272144,
-      "num": 272144,
-      "word": "吴磊陈都灵合作",
-      "onboard_time": 1768284141,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 271803,
       "num": 212770,
       "word": "迅猛龙曾多次发与网红小澈同框视频",
@@ -1865,6 +1881,14 @@
       "onboard_time": 1768267279,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 266824,
+      "num": 266824,
+      "word": "首款登顶Steam国游将上线鸿蒙",
+      "onboard_time": 1768286959,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 264707,
@@ -2137,6 +2161,14 @@
       "onboard_time": 1768141522,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234094,
+      "num": 177995,
+      "word": "长期独居后的真实感受",
+      "onboard_time": 1768283839,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 234074,
@@ -2419,14 +2451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 211609,
-      "num": 178214,
-      "word": "买过很贵但不后悔的东西",
-      "onboard_time": 1768284321,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 211473,
       "num": 211473,
       "word": "00后真的上年纪了",
@@ -2473,6 +2497,14 @@
       "onboard_time": 1768138942,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204830,
+      "num": 117294,
+      "word": "尹子维街头摸徐冬冬肚子",
+      "onboard_time": 1768286719,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 200980,
@@ -2619,14 +2651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192905,
-      "num": 177995,
-      "word": "长期独居后的真实感受",
-      "onboard_time": 1768283839,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 192802,
       "num": 140411,
       "word": "国产剧拍出了女性之间的凝视",
@@ -2753,6 +2777,14 @@
       "onboard_time": 1768210580,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189008,
+      "num": 189008,
+      "word": "剑来",
+      "onboard_time": 1768287440,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 188945,
@@ -2888,6 +2920,14 @@
       "word": "游客拍到两只小猫在华山顶上对决",
       "onboard_time": 1768217720,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183192,
+      "num": 164830,
+      "word": "金粒门",
+      "onboard_time": 1768286180,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -3667,12 +3707,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149755,
-      "num": 122812,
-      "word": "港媒曝徐冬冬疑似怀孕",
-      "onboard_time": 1768286422,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 149806,
+      "num": 149806,
+      "word": "59岁女子回应高龄产子",
+      "onboard_time": 1768286540,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149714,
@@ -4739,6 +4779,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 117619,
+      "num": 117619,
+      "word": "金粒门被曝厨房脏臭生产日期造假",
+      "onboard_time": 1768286240,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117458,
       "num": 117458,
       "word": "AI沙皇也是平A为主",
@@ -4843,6 +4891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115911,
+      "num": 115911,
+      "word": "这种苗条身材可能比纯胖更危险",
+      "onboard_time": 1768286240,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 115893,
       "num": 125566,
       "word": "台湾网红钟明轩来大陆旅游",
@@ -4913,14 +4969,6 @@
       "onboard_time": 1768202721,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 115017,
-      "num": 122725,
-      "word": "金粒门",
-      "onboard_time": 1768286180,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114999,
@@ -5435,14 +5483,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 105420,
-      "num": 105420,
-      "word": "金粒门被曝厨房脏臭生产日期造假",
-      "onboard_time": 1768286240,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105137,
       "num": 105137,
       "word": "活了么APP免费下载",
@@ -5811,12 +5851,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 100665,
+      "num": 100665,
+      "word": "坏了真让黄轩演上傻小子了",
+      "onboard_time": 1768286781,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100538,
       "num": 106533,
       "word": "河南便利店文学角",
       "onboard_time": 1768210521,
       "rank": 36,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 100385,
+      "num": 97002,
+      "word": "十日终焉正在置景",
+      "onboard_time": 1768286600,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 100354,
@@ -6115,6 +6171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96022,
+      "num": 96022,
+      "word": "第一次看求婚后的对话记录",
+      "onboard_time": 1768286000,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95841,
       "num": 95841,
       "word": "侯明昊有这张脸这张嘴拿什么输",
@@ -6203,20 +6267,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94193,
+      "num": 94193,
+      "word": "赵今麦和宋威龙姐姐热聊",
+      "onboard_time": 1768287440,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94141,
       "num": 94141,
       "word": "张艺兴改编的大花轿上线",
       "onboard_time": 1768105879,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 94002,
-      "num": 94002,
-      "word": "这种苗条身材可能比纯胖更危险",
-      "onboard_time": 1768286240,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 93921,
@@ -6267,20 +6331,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 92911,
-      "num": 92911,
-      "word": "第一次看求婚后的对话记录",
-      "onboard_time": 1768286000,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 92886,
       "num": 92886,
       "word": "工作日才是用来休息的",
       "onboard_time": 1768190962,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 92585,
+      "num": 92585,
+      "word": "张凌赫归鸾第一场吻戏",
+      "onboard_time": 1768287381,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 92379,
@@ -6329,6 +6393,14 @@
       "onboard_time": 1768092259,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91615,
+      "num": 89179,
+      "word": "内娱上桌成功的男配",
+      "onboard_time": 1768287320,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 91536,
@@ -6483,14 +6555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 89696,
-      "num": 89696,
-      "word": "59岁女子回应高龄产子",
-      "onboard_time": 1768286540,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89580,
       "num": 89580,
       "word": "特朗普1周2次嘲讽格陵兰岛",
@@ -6521,6 +6585,14 @@
       "onboard_time": 1768121781,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89335,
+      "num": 89335,
+      "word": "终于把iPhone截屏玩明白了",
+      "onboard_time": 1768285760,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 89305,
@@ -6603,6 +6675,14 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 87381,
+      "num": 87381,
+      "word": "张文宏称拒绝将AI引入医院病历系统",
+      "onboard_time": 1768287440,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87272,
       "num": 87272,
       "word": "肖战演完你的演你的",
@@ -6641,6 +6721,14 @@
       "onboard_time": 1768280842,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 86691,
+      "num": 86691,
+      "word": "原神少女角色预告",
+      "onboard_time": 1768286060,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 86581,
@@ -6803,12 +6891,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83784,
-      "num": 83784,
-      "word": "终于把iPhone截屏玩明白了",
-      "onboard_time": 1768285760,
-      "rank": 46,
-      "category": "数码"
+      "raw_hot": 83891,
+      "num": 83891,
+      "word": "奔跑吧把整理OST当个事办了",
+      "onboard_time": 1768287501,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 83589,
@@ -7811,14 +7899,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 63599,
-      "num": 92917,
-      "word": "十日终焉正在置景",
-      "onboard_time": 1768286600,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 63521,
       "num": 63521,
       "word": "官方通报亚运冠军遭索要奖金事件",
@@ -8451,6 +8531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 39025,
+      "num": 93853,
+      "word": "请人按年猪当事人称自己捅了娄子",
+      "onboard_time": 1768287201,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38472,
       "num": 38472,
       "word": "美国一男子家中如恐怖电影",
@@ -8553,6 +8641,14 @@
       "onboard_time": 1768281621,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34864,
+      "num": 94862,
+      "word": "娜扎侯明昊 人鬼情未了",
+      "onboard_time": 1768286959,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 34787,
@@ -8971,6 +9067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23979,
+      "num": 153326,
+      "word": "馆长坦言当年对不起大陆的同胞",
+      "onboard_time": 1768287201,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23886,
       "num": 125724,
       "word": "泰国边境多处加油站遭袭",
@@ -9177,6 +9281,14 @@
       "onboard_time": 1768076653,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 16083,
+      "num": 639210,
+      "word": "自主研发电力示范机组实现核心技术突破",
+      "onboard_time": 1768286841,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15825,

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768286694284,
+  "endTime": 1768287525342,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -547,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1078398,
+      "num": 267203,
+      "word": "警犬被通报批评",
+      "onboard_time": 1768283660,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1076314,
       "num": 1018912,
       "word": "个人存取款超5万元不再登记",
@@ -592,14 +600,6 @@
       "word": "当年的老己在QQ给老自留了笔巨款",
       "onboard_time": 1767410309,
       "rank": 11,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 1046307,
-      "num": 267203,
-      "word": "警犬被通报批评",
-      "onboard_time": 1768283660,
-      "rank": 5,
       "category": "幽默"
     },
     {
@@ -2107,6 +2107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 599085,
+      "num": 1095853,
+      "word": "中方已经保持最大限度忍耐和克制",
+      "onboard_time": 1768283241,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 596731,
       "num": 453094,
       "word": "一个月四千不多一个星期一千花不完",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768118541,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 565640,
-      "num": 259984,
-      "word": "刘宇宁终于默认了婆婆",
-      "onboard_time": 1768023140,
-      "rank": 14,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

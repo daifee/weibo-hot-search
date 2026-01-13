@@ -1,6 +1,6 @@
 {
   "startTime": 1768235820030,
-  "endTime": 1768286694284,
+  "endTime": 1768287525342,
   "band_list": [
     {
       "raw_hot": 1195104,
@@ -11,7 +11,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1046307,
+      "raw_hot": 1078398,
       "num": 267203,
       "word": "警犬被通报批评",
       "onboard_time": 1768283660,
@@ -75,20 +75,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 599085,
+      "num": 1095853,
+      "word": "中方已经保持最大限度忍耐和克制",
+      "onboard_time": 1768283241,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 591393,
       "num": 110361,
       "word": "萧亚轩前男友黄皓官宣二胎",
       "onboard_time": 1768259957,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 555984,
-      "num": 1088957,
-      "word": "中方已经保持最大限度忍耐和克制",
-      "onboard_time": 1768283241,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 513702,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 386378,
-      "num": 122990,
+      "num": 152568,
       "word": "鹅妈妈为小澈发声",
       "onboard_time": 1768283121,
       "rank": 31,
@@ -193,6 +193,14 @@
       "onboard_time": 1768260198,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 374759,
+      "num": 179799,
+      "word": "买过很贵但不后悔的东西",
+      "onboard_time": 1768284321,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 373790,
@@ -291,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297811,
+      "num": 297811,
+      "word": "吴磊陈都灵合作",
+      "onboard_time": 1768284141,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 296789,
       "num": 222577,
       "word": "气血足的人头发有3个特征",
@@ -315,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291952,
+      "num": 152063,
+      "word": "港媒曝徐冬冬疑似怀孕",
+      "onboard_time": 1768286422,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276456,
       "num": 276456,
       "word": "永辉超市2025净利润为负",
@@ -328,14 +352,6 @@
       "word": "玉茗茶骨圆房吻",
       "onboard_time": 1768282582,
       "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 272144,
-      "num": 272144,
-      "word": "吴磊陈都灵合作",
-      "onboard_time": 1768284141,
-      "rank": 4,
       "category": "剧集"
     },
     {
@@ -353,6 +369,14 @@
       "onboard_time": 1768267279,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 266824,
+      "num": 266824,
+      "word": "首款登顶Steam国游将上线鸿蒙",
+      "onboard_time": 1768286959,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 262082,
@@ -419,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234094,
+      "num": 177995,
+      "word": "长期独居后的真实感受",
+      "onboard_time": 1768283839,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232839,
       "num": 200837,
       "word": "微博之夜",
@@ -483,12 +515,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 211609,
-      "num": 178214,
-      "word": "买过很贵但不后悔的东西",
-      "onboard_time": 1768284321,
-      "rank": 14,
-      "category": "情感"
+      "raw_hot": 204830,
+      "num": 117294,
+      "word": "尹子维街头摸徐冬冬肚子",
+      "onboard_time": 1768286719,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 202469,
@@ -513,14 +545,6 @@
       "onboard_time": 1768285760,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192905,
-      "num": 177995,
-      "word": "长期独居后的真实感受",
-      "onboard_time": 1768283839,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 192802,
@@ -555,6 +579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189008,
+      "num": 189008,
+      "word": "剑来",
+      "onboard_time": 1768287440,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188945,
       "num": 122269,
       "word": "鹿晗又去看粉丝祝福墙了",
@@ -584,6 +616,14 @@
       "word": "香港退役警察花100万在广东安家",
       "onboard_time": 1768263680,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183192,
+      "num": 164830,
+      "word": "金粒门",
+      "onboard_time": 1768286180,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -739,12 +779,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 149755,
-      "num": 122812,
-      "word": "港媒曝徐冬冬疑似怀孕",
-      "onboard_time": 1768286422,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 149806,
+      "num": 149806,
+      "word": "59岁女子回应高龄产子",
+      "onboard_time": 1768286540,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146892,
@@ -1003,6 +1043,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 117619,
+      "num": 117619,
+      "word": "金粒门被曝厨房脏臭生产日期造假",
+      "onboard_time": 1768286240,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116989,
       "num": 124548,
       "word": "张雨绮 我的身材很曼妙",
@@ -1035,12 +1083,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115017,
-      "num": 122725,
-      "word": "金粒门",
-      "onboard_time": 1768286180,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 115911,
+      "num": 115911,
+      "word": "这种苗条身材可能比纯胖更危险",
+      "onboard_time": 1768286240,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 114858,
@@ -1171,14 +1219,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 105420,
-      "num": 105420,
-      "word": "金粒门被曝厨房脏臭生产日期造假",
-      "onboard_time": 1768286240,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104424,
       "num": 104424,
       "word": "马斯克回应苹果谷歌合作",
@@ -1275,6 +1315,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100665,
+      "num": 100665,
+      "word": "坏了真让黄轩演上傻小子了",
+      "onboard_time": 1768286781,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100385,
+      "num": 97002,
+      "word": "十日终焉正在置景",
+      "onboard_time": 1768286600,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100354,
       "num": 100354,
       "word": "呆呆家杀猪饭后清出百斤垃圾",
@@ -1347,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96022,
+      "num": 96022,
+      "word": "第一次看求婚后的对话记录",
+      "onboard_time": 1768286000,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95755,
       "num": 400530,
       "word": "韩国空难失事前75秒黑匣子录音",
@@ -1387,12 +1451,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94002,
-      "num": 94002,
-      "word": "这种苗条身材可能比纯胖更危险",
-      "onboard_time": 1768286240,
-      "rank": 36,
-      "category": "健康医疗"
+      "raw_hot": 94193,
+      "num": 94193,
+      "word": "赵今麦和宋威龙姐姐热聊",
+      "onboard_time": 1768287440,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 93587,
@@ -1403,12 +1467,20 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 92911,
-      "num": 92911,
-      "word": "第一次看求婚后的对话记录",
-      "onboard_time": 1768286000,
-      "rank": 39,
-      "category": "情感"
+      "raw_hot": 92585,
+      "num": 92585,
+      "word": "张凌赫归鸾第一场吻戏",
+      "onboard_time": 1768287381,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 91615,
+      "num": 89179,
+      "word": "内娱上桌成功的男配",
+      "onboard_time": 1768287320,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 91536,
@@ -1435,12 +1507,12 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 89696,
-      "num": 89696,
-      "word": "59岁女子回应高龄产子",
-      "onboard_time": 1768286540,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 89335,
+      "num": 89335,
+      "word": "终于把iPhone截屏玩明白了",
+      "onboard_time": 1768285760,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 89305,
@@ -1475,6 +1547,14 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 87381,
+      "num": 87381,
+      "word": "张文宏称拒绝将AI引入医院病历系统",
+      "onboard_time": 1768287440,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87272,
       "num": 87272,
       "word": "肖战演完你的演你的",
@@ -1489,6 +1569,14 @@
       "onboard_time": 1768280842,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 86691,
+      "num": 86691,
+      "word": "原神少女角色预告",
+      "onboard_time": 1768286060,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 86350,
@@ -1523,12 +1611,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 83784,
-      "num": 83784,
-      "word": "终于把iPhone截屏玩明白了",
-      "onboard_time": 1768285760,
-      "rank": 46,
-      "category": "数码"
+      "raw_hot": 83891,
+      "num": 83891,
+      "word": "奔跑吧把整理OST当个事办了",
+      "onboard_time": 1768287501,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 83589,
@@ -1755,14 +1843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63599,
-      "num": 92917,
-      "word": "十日终焉正在置景",
-      "onboard_time": 1768286600,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 62878,
       "num": 51709,
       "word": "苏新皓苹果不是无聊的水果",
@@ -1939,6 +2019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39025,
+      "num": 93853,
+      "word": "请人按年猪当事人称自己捅了娄子",
+      "onboard_time": 1768287201,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37900,
       "num": 51129,
       "word": "社恐小猫装忙不去开门",
@@ -1953,6 +2041,14 @@
       "onboard_time": 1768281621,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34864,
+      "num": 94862,
+      "word": "娜扎侯明昊 人鬼情未了",
+      "onboard_time": 1768286959,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 32668,
@@ -2035,6 +2131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23979,
+      "num": 153326,
+      "word": "馆长坦言当年对不起大陆的同胞",
+      "onboard_time": 1768287201,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23354,
       "num": 122909,
       "word": "水上大国重器又要上新了",
@@ -2065,6 +2169,14 @@
       "onboard_time": 1768215560,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 16083,
+      "num": 639210,
+      "word": "自主研发电力示范机组实现核心技术突破",
+      "onboard_time": 1768286841,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15537,

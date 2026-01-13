@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/13 14:44:54
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/13 14:58:45
 </p>
 </blockquote>
 <p>
@@ -423,6 +423,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E7%8A%AC%E8%A2%AB%E9%80%9A%E6%8A%A5%E6%89%B9%E8%AF%84%23" target="weibo">
+警犬被通报批评（热度：1078398）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AA%E4%BA%BA%E5%AD%98%E5%8F%96%E6%AC%BE%E8%B6%855%E4%B8%87%E5%85%83%E4%B8%8D%E5%86%8D%E7%99%BB%E8%AE%B0%23" target="weibo">
 个人存取款超5万元不再登记（热度：1076314）
 </a>
@@ -455,12 +461,6 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%B9%B4%E7%9A%84%E8%80%81%E5%B7%B1%E5%9C%A8QQ%E7%BB%99%E8%80%81%E8%87%AA%E7%95%99%E4%BA%86%E7%AC%94%E5%B7%A8%E6%AC%BE%23" target="weibo">
 当年的老己在QQ给老自留了笔巨款（热度：1049300）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E7%8A%AC%E8%A2%AB%E9%80%9A%E6%8A%A5%E6%89%B9%E8%AF%84%23" target="weibo">
-警犬被通报批评（热度：1046307）
 </a>
 </li>
 
@@ -1593,6 +1593,12 @@ AI照片竟然拿了摄影比赛第一名（热度：667067）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%B7%B2%E7%BB%8F%E4%BF%9D%E6%8C%81%E6%9C%80%E5%A4%A7%E9%99%90%E5%BA%A6%E5%BF%8D%E8%80%90%E5%92%8C%E5%85%8B%E5%88%B6%23" target="weibo">
+中方已经保持最大限度忍耐和克制（热度：599085）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E6%9C%88%E5%9B%9B%E5%8D%83%E4%B8%8D%E5%A4%9A%E4%B8%80%E4%B8%AA%E6%98%9F%E6%9C%9F%E4%B8%80%E5%8D%83%E8%8A%B1%E4%B8%8D%E5%AE%8C%23" target="weibo">
 一个月四千不多一个星期一千花不完（热度：596731）
 </a>
@@ -1859,12 +1865,6 @@ AI照片竟然拿了摄影比赛第一名（热度：667067）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Sakee%20Asen%23" target="weibo">
 Sakee Asen（热度：556725）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%B7%B2%E7%BB%8F%E4%BF%9D%E6%8C%81%E6%9C%80%E5%A4%A7%E9%99%90%E5%BA%A6%E5%BF%8D%E8%80%90%E5%92%8C%E5%85%8B%E5%88%B6%23" target="weibo">
-中方已经保持最大限度忍耐和克制（热度：555984）
 </a>
 </li>
 
@@ -3867,6 +3867,12 @@ AI登顶LOL韩服（热度：378599）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E8%BF%87%E5%BE%88%E8%B4%B5%E4%BD%86%E4%B8%8D%E5%90%8E%E6%82%94%E7%9A%84%E4%B8%9C%E8%A5%BF%23" target="weibo">
+买过很贵但不后悔的东西（热度：374759）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E4%BA%BA%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%9A%B4%E9%A3%9F%E5%90%8E%E5%96%9C%E6%8F%90%E6%80%A5%E8%AF%8A%23" target="weibo">
 英国人在中国暴食后喜提急诊（热度：374238）
 </a>
@@ -5301,6 +5307,12 @@ TVB第一个打烂奖杯（热度：318351）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E9%99%88%E9%83%BD%E7%81%B5%E5%90%88%E4%BD%9C%23" target="weibo">
+吴磊陈都灵合作（热度：297811）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%9D%AA%E5%B1%B1%E7%AA%81%E5%8F%91%E5%B1%B1%E7%81%AB%23" target="weibo">
 深圳坪山突发山火（热度：297541）
 </a>
@@ -5441,6 +5453,12 @@ TVB第一个打烂奖杯（热度：318351）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E8%BF%99%E9%A6%96%E7%A6%BB%E5%A9%9A%E7%9A%84%E6%AD%8C%E5%90%AC%E4%BA%86388%E9%81%8D%23" target="weibo">
 白鹿这首离婚的歌听了388遍（热度：292587）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%AF%E5%AA%92%E6%9B%9D%E5%BE%90%E5%86%AC%E5%86%AC%E7%96%91%E4%BC%BC%E6%80%80%E5%AD%95%23" target="weibo">
+港媒曝徐冬冬疑似怀孕（热度：291952）
 </a>
 </li>
 
@@ -5871,12 +5889,6 @@ Faker举报路人游戏ID（热度：272754）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E9%99%88%E9%83%BD%E7%81%B5%E5%90%88%E4%BD%9C%23" target="weibo">
-吴磊陈都灵合作（热度：272144）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%98%A5%E6%99%9A%E5%BD%A9%E6%8E%92%E8%B7%AF%E9%80%8F%23" target="weibo">
 白鹿春晚彩排路透（热度：271804）
 </a>
@@ -5999,18 +6011,6 @@ Faker举报路人游戏ID（热度：272754）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BB%96%E6%9F%90%E5%AE%87%E5%BD%93%E5%BA%AD%E8%A1%A8%E7%8E%B0%E5%B9%B3%E9%9D%99%23" target="weibo">
 廖某宇当庭表现平静（热度：268283）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E6%BC%94%E5%94%B1%E4%BC%9A%20%E9%98%B2%E7%8B%BC%E5%96%B7%E9%9B%BE%23" target="weibo">
-王源演唱会 防狼喷雾（热度：268232）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E7%9F%A5%E9%81%93%20%E6%88%91%E7%9A%84%E8%BA%AB%E6%9D%90%E5%BE%88%E6%9B%BC%E5%A6%99%23" target="weibo">
-不知道 我的身材很曼妙（热度：268130）
 </a>
 </li>
 

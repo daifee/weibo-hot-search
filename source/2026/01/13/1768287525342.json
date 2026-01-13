@@ -1,0 +1,410 @@
+{
+  "runTime": 1768287525342,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 599085,
+        "num": 1095853,
+        "word": "中方已经保持最大限度忍耐和克制",
+        "onboard_time": 1768283241,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 214455,
+        "num": 771634,
+        "word": "老干妈创始人出山救子又赚翻了",
+        "onboard_time": 1768226783,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 16083,
+        "num": 639210,
+        "word": "自主研发电力示范机组实现核心技术突破",
+        "onboard_time": 1768286841,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297811,
+        "num": 297811,
+        "word": "吴磊陈都灵合作",
+        "onboard_time": 1768284141,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266824,
+        "num": 266824,
+        "word": "首款登顶Steam国游将上线鸿蒙",
+        "onboard_time": 1768286959,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1078398,
+        "num": 264960,
+        "word": "警犬被通报批评",
+        "onboard_time": 1768283660,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 376926,
+        "num": 258495,
+        "word": "祯娘传",
+        "onboard_time": 1768274360,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232055,
+        "num": 232055,
+        "word": "台甜品店因用青提二字被骂滚出台湾",
+        "onboard_time": 1768282041,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189008,
+        "num": 189008,
+        "word": "剑来",
+        "onboard_time": 1768287440,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181440,
+        "num": 181440,
+        "word": "永辉超市2025净利润为负",
+        "onboard_time": 1768281021,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 374759,
+        "num": 179799,
+        "word": "买过很贵但不后悔的东西",
+        "onboard_time": 1768284321,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 349586,
+        "num": 176856,
+        "word": "苏州巨响",
+        "onboard_time": 1768283421,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348908,
+        "num": 174157,
+        "word": "刘亦菲 淡季旺季都不上班",
+        "onboard_time": 1768278022,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328165,
+        "num": 170570,
+        "word": "代旭孟宴臣2.0",
+        "onboard_time": 1768283479,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234094,
+        "num": 168848,
+        "word": "长期独居后的真实感受",
+        "onboard_time": 1768283839,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217247,
+        "num": 166367,
+        "word": "玉茗茶骨圆房吻",
+        "onboard_time": 1768282582,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183192,
+        "num": 164830,
+        "word": "金粒门",
+        "onboard_time": 1768286180,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162373,
+        "num": 162373,
+        "word": "上海去年婚姻登记17万对",
+        "onboard_time": 1768277063,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159954,
+        "num": 159954,
+        "word": "脂包骨身材是什么",
+        "onboard_time": 1768280122,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 23979,
+        "num": 153326,
+        "word": "馆长坦言当年对不起大陆的同胞",
+        "onboard_time": 1768287201,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 347339,
+        "num": 152568,
+        "word": "鹅妈妈为小澈发声",
+        "onboard_time": 1768283121,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 291952,
+        "num": 152063,
+        "word": "港媒曝徐冬冬疑似怀孕",
+        "onboard_time": 1768286422,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149806,
+        "num": 149806,
+        "word": "59岁女子回应高龄产子",
+        "onboard_time": 1768286540,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153551,
+        "num": 149037,
+        "word": "代旭 开始考古了意味着什么",
+        "onboard_time": 1768281499,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139170,
+        "num": 139170,
+        "word": "尹雨航和鹿晗演过双胞胎",
+        "onboard_time": 1768275980,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117619,
+        "num": 117619,
+        "word": "金粒门被曝厨房脏臭生产日期造假",
+        "onboard_time": 1768286240,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204830,
+        "num": 117294,
+        "word": "尹子维街头摸徐冬冬肚子",
+        "onboard_time": 1768286719,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116275,
+        "num": 116275,
+        "word": "十日终焉是今年最重视的男频剧",
+        "onboard_time": 1768276940,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298058,
+        "num": 116242,
+        "word": "妻子隐私被丈夫发到亲友群后自杀",
+        "onboard_time": 1768275501,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115911,
+        "num": 115911,
+        "word": "这种苗条身材可能比纯胖更危险",
+        "onboard_time": 1768286240,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107649,
+        "num": 107649,
+        "word": "旅游了一整年但是不快乐",
+        "onboard_time": 1768284321,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103646,
+        "num": 103646,
+        "word": "曝童锦程女友怀孕",
+        "onboard_time": 1768266620,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100665,
+        "num": 100665,
+        "word": "坏了真让黄轩演上傻小子了",
+        "onboard_time": 1768286781,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97544,
+        "num": 97544,
+        "word": "蹲国考成绩",
+        "onboard_time": 1768274000,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100385,
+        "num": 97002,
+        "word": "十日终焉正在置景",
+        "onboard_time": 1768286600,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100265,
+        "num": 96794,
+        "word": "小黄豆回应去医院查艾滋病",
+        "onboard_time": 1768277902,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 96022,
+        "num": 96022,
+        "word": "第一次看求婚后的对话记录",
+        "onboard_time": 1768286000,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34864,
+        "num": 94862,
+        "word": "娜扎侯明昊 人鬼情未了",
+        "onboard_time": 1768286959,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94193,
+        "num": 94193,
+        "word": "赵今麦和宋威龙姐姐热聊",
+        "onboard_time": 1768287440,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39025,
+        "num": 93853,
+        "word": "请人按年猪当事人称自己捅了娄子",
+        "onboard_time": 1768287201,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93817,
+        "num": 93817,
+        "word": "微博之夜",
+        "onboard_time": 1768275261,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92585,
+        "num": 92585,
+        "word": "张凌赫归鸾第一场吻戏",
+        "onboard_time": 1768287381,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89335,
+        "num": 89335,
+        "word": "终于把iPhone截屏玩明白了",
+        "onboard_time": 1768285760,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 91615,
+        "num": 89179,
+        "word": "内娱上桌成功的男配",
+        "onboard_time": 1768287320,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88910,
+        "num": 88910,
+        "word": "原来看到帅哥眼睛真的会亮",
+        "onboard_time": 1768285760,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87697,
+        "num": 87697,
+        "word": "黄金又急跌",
+        "onboard_time": 1768272980,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 87703,
+        "num": 87696,
+        "word": "御赐小仵作2",
+        "onboard_time": 1768281861,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87381,
+        "num": 87381,
+        "word": "张文宏称拒绝将AI引入医院病历系统",
+        "onboard_time": 1768287440,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86691,
+        "num": 86691,
+        "word": "原神少女角色预告",
+        "onboard_time": 1768286060,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 83891,
+        "num": 83891,
+        "word": "奔跑吧把整理OST当个事办了",
+        "onboard_time": 1768287501,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记的反腐警句#"
+    }
+  }
+}
