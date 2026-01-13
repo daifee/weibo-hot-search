@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768290385303,
+  "endTime": 1768293682057,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -491,6 +491,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 1128260,
+      "num": 156588,
+      "word": "迅猛龙 小澈",
+      "onboard_time": 1768292421,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1127372,
       "num": 1029037,
       "word": "骄阳似我",
@@ -548,7 +556,7 @@
     },
     {
       "raw_hot": 1078398,
-      "num": 267203,
+      "num": 295373,
       "word": "警犬被通报批评",
       "onboard_time": 1768283660,
       "rank": 5,
@@ -753,6 +761,14 @@
       "onboard_time": 1767663201,
       "rank": 0,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 972932,
+      "num": 1155669,
+      "word": "网传花少8小妹已确定",
+      "onboard_time": 1768290022,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 968745,
@@ -1443,6 +1459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 728925,
+      "num": 866031,
+      "word": "钟薛高创始人宣布终审胜诉",
+      "onboard_time": 1768289661,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 728633,
       "num": 1116581,
       "word": "雷军官宣新一代SU7",
@@ -2099,6 +2123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 601670,
+      "num": 161215,
+      "word": "死了么APP仅剩2个功能",
+      "onboard_time": 1768291581,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 600605,
       "num": 600605,
       "word": "赵丽颖台词",
@@ -2136,6 +2168,14 @@
       "word": "狗头萝莉自曝负债650万成老赖",
       "onboard_time": 1767947121,
       "rank": 21,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 594195,
+      "num": 155853,
+      "word": "口子姐曾自曝患梅毒手臂溃烂",
+      "onboard_time": 1768290980,
+      "rank": 22,
       "category": "网红"
     },
     {
@@ -2225,6 +2265,14 @@
       "onboard_time": 1767499703,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 582761,
+      "num": 246600,
+      "word": "腾讯告诉全世界肖战签了十日终焉",
+      "onboard_time": 1768290201,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 580868,
@@ -2353,54 +2401,6 @@
       "onboard_time": 1768125800,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 572505,
-      "num": 925354,
-      "word": "给张凌赫递麦的是靳梦佳",
-      "onboard_time": 1767360142,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 572347,
-      "num": 574508,
-      "word": "爱吃自助餐小蛋糕的天塌了",
-      "onboard_time": 1767776901,
-      "rank": 3,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 571282,
-      "num": 1091405,
-      "word": "烟台暴雪下冒烟了",
-      "onboard_time": 1768134981,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 571208,
-      "num": 323239,
-      "word": "我是谢娜 你现在必须去上学",
-      "onboard_time": 1768195881,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 570505,
-      "num": 1076543,
-      "word": "河南省考报名",
-      "onboard_time": 1768189461,
-      "rank": 34,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 570048,
-      "num": 223041,
-      "word": "赵丽颖 扛剧",
-      "onboard_time": 1768052604,
-      "rank": 38,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [

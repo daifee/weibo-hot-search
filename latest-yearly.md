@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/13 15:46:25
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/13 16:41:22
 </p>
 </blockquote>
 <p>
@@ -381,6 +381,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%85%E7%8C%9B%E9%BE%99%20%E5%B0%8F%E6%BE%88%23" target="weibo">
+迅猛龙 小澈（热度：1128260）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%23" target="weibo">
 骄阳似我（热度：1127372）
 </a>
@@ -575,6 +581,12 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E9%97%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E6%89%8B%E6%89%93%E5%A5%B6%E8%8C%B6%23" target="weibo">
 霸王茶姬门店回应手打奶茶（热度：974878）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E8%8A%B1%E5%B0%918%E5%B0%8F%E5%A6%B9%E5%B7%B2%E7%A1%AE%E5%AE%9A%23" target="weibo">
+网传花少8小妹已确定（热度：972932）
 </a>
 </li>
 
@@ -1095,6 +1107,12 @@ iPhone4回收价涨了60倍（热度：736598）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AE%A3%E5%B8%83%E7%BB%88%E5%AE%A1%E8%83%9C%E8%AF%89%23" target="weibo">
+钟薛高创始人宣布终审胜诉（热度：728925）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%AE%98%E5%AE%A3%E6%96%B0%E4%B8%80%E4%BB%A3SU7%23" target="weibo">
 雷军官宣新一代SU7（热度：728633）
 </a>
@@ -1587,6 +1605,12 @@ AI照片竟然拿了摄影比赛第一名（热度：667067）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%BB%E4%BA%86%E4%B9%88APP%E4%BB%85%E5%89%A92%E4%B8%AA%E5%8A%9F%E8%83%BD%23" target="weibo">
+死了么APP仅剩2个功能（热度：601670）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8F%B0%E8%AF%8D%23" target="weibo">
 赵丽颖台词（热度：600605）
 </a>
@@ -1613,6 +1637,12 @@ AI照片竟然拿了摄影比赛第一名（热度：667067）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%A4%B4%E8%90%9D%E8%8E%89%E8%87%AA%E6%9B%9D%E8%B4%9F%E5%80%BA650%E4%B8%87%E6%88%90%E8%80%81%E8%B5%96%23" target="weibo">
 狗头萝莉自曝负债650万成老赖（热度：595132）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A3%E5%AD%90%E5%A7%90%E6%9B%BE%E8%87%AA%E6%9B%9D%E6%82%A3%E6%A2%85%E6%AF%92%E6%89%8B%E8%87%82%E6%BA%83%E7%83%82%23" target="weibo">
+口子姐曾自曝患梅毒手臂溃烂（热度：594195）
 </a>
 </li>
 
@@ -1679,6 +1709,12 @@ AI照片竟然拿了摄影比赛第一名（热度：667067）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%97%A5%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%98%8E%E6%97%A5%E4%BB%BB%E4%BD%95%E4%B8%80%E5%9B%BD%23" target="weibo">
 今日委内瑞拉明日任何一国（热度：583612）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%91%8A%E8%AF%89%E5%85%A8%E4%B8%96%E7%95%8C%E8%82%96%E6%88%98%E7%AD%BE%E4%BA%86%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%23" target="weibo">
+腾讯告诉全世界肖战签了十日终焉（热度：582761）
 </a>
 </li>
 
@@ -1775,42 +1811,6 @@ AI照片竟然拿了摄影比赛第一名（热度：667067）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E5%BA%A6%E5%81%87%E7%85%A7%23" target="weibo">
 孙怡马尔代夫度假照（热度：572910）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%99%E5%BC%A0%E5%87%8C%E8%B5%AB%E9%80%92%E9%BA%A6%E7%9A%84%E6%98%AF%E9%9D%B3%E6%A2%A6%E4%BD%B3%23" target="weibo">
-给张凌赫递麦的是靳梦佳（热度：572505）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%90%83%E8%87%AA%E5%8A%A9%E9%A4%90%E5%B0%8F%E8%9B%8B%E7%B3%95%E7%9A%84%E5%A4%A9%E5%A1%8C%E4%BA%86%23" target="weibo">
-爱吃自助餐小蛋糕的天塌了（热度：572347）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%83%9F%E5%8F%B0%E6%9A%B4%E9%9B%AA%E4%B8%8B%E5%86%92%E7%83%9F%E4%BA%86%23" target="weibo">
-烟台暴雪下冒烟了（热度：571282）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%98%AF%E8%B0%A2%E5%A8%9C%20%E4%BD%A0%E7%8E%B0%E5%9C%A8%E5%BF%85%E9%A1%BB%E5%8E%BB%E4%B8%8A%E5%AD%A6%23" target="weibo">
-我是谢娜 你现在必须去上学（热度：571208）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E7%9C%81%E8%80%83%E6%8A%A5%E5%90%8D%23" target="weibo">
-河南省考报名（热度：570505）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E6%89%9B%E5%89%A7%23" target="weibo">
-赵丽颖 扛剧（热度：570048）
 </a>
 </li>
 
