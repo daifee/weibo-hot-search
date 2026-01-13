@@ -1,0 +1,410 @@
+{
+  "runTime": 1768303748134,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 666564,
+        "num": 1106650,
+        "word": "钟薛高已被申请破产清算",
+        "onboard_time": 1768300340,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473789,
+        "num": 791245,
+        "word": "国考",
+        "onboard_time": 1768288881,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 112288,
+        "num": 610084,
+        "word": "小砂糖橘勇闯东北新一季来了",
+        "onboard_time": 1768298120,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221927,
+        "num": 411934,
+        "word": "深圳多地租客突然被通知退租",
+        "onboard_time": 1768297821,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117497,
+        "num": 388433,
+        "word": "麦当劳回应汉堡变小了",
+        "onboard_time": 1768302502,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376830,
+        "num": 376830,
+        "word": "爱吃车厘子的女生天亮了",
+        "onboard_time": 1768297821,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166166,
+        "num": 373471,
+        "word": "李在明与高市早苗谈话内容披露",
+        "onboard_time": 1768300102,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135596,
+        "num": 361662,
+        "word": "产检正常娃出生却诊出先天畸形",
+        "onboard_time": 1768302442,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289430,
+        "num": 352954,
+        "word": "李在明向日方强调韩中日三国合作",
+        "onboard_time": 1768300400,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150535,
+        "num": 348076,
+        "word": "中方已经保持最大限度忍耐和克制",
+        "onboard_time": 1768283241,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 881081,
+        "num": 336984,
+        "word": "LV活动",
+        "onboard_time": 1768302202,
+        "rank": 10,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 422612,
+        "num": 326837,
+        "word": "高市早苗迎接李在明画面",
+        "onboard_time": 1768297101,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 325248,
+        "num": 325248,
+        "word": "奔跑吧14要去很久没去的地方",
+        "onboard_time": 1768298722,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313921,
+        "num": 313921,
+        "word": "网传刘耀文出演十日终焉",
+        "onboard_time": 1768300943,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70205,
+        "num": 313857,
+        "word": "内蒙古小学校服薄膜调查结果",
+        "onboard_time": 1768303341,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 223467,
+        "num": 312443,
+        "word": "祯娘传央妈赐名",
+        "onboard_time": 1768299321,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222448,
+        "num": 312365,
+        "word": "易烊千玺报名金像奖男配",
+        "onboard_time": 1768298662,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183556,
+        "num": 311381,
+        "word": "警犬被通报批评",
+        "onboard_time": 1768283660,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176692,
+        "num": 310787,
+        "word": "孩子一张嘴身份证都掉出来了",
+        "onboard_time": 1768291220,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108335,
+        "num": 309591,
+        "word": "甘孜治好了我的精神内耗",
+        "onboard_time": 1768302981,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 812875,
+        "num": 309199,
+        "word": "章泽天完全不给孩子看社媒",
+        "onboard_time": 1768295241,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 707675,
+        "num": 308366,
+        "word": "迅猛龙 小澈",
+        "onboard_time": 1768292421,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 190293,
+        "num": 306996,
+        "word": "去糖最快的运动",
+        "onboard_time": 1768298361,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 410182,
+        "num": 306436,
+        "word": "高晓松26天瘦了26斤",
+        "onboard_time": 1768299141,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306212,
+        "num": 306212,
+        "word": "林心如说霍建华结婚后没下过厨",
+        "onboard_time": 1768302741,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94226,
+        "num": 284904,
+        "word": "女子称领育儿补贴被拒分居丈夫却可领",
+        "onboard_time": 1768302502,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278678,
+        "num": 278678,
+        "word": "张艺兴做了鼻炎手术",
+        "onboard_time": 1768297281,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278624,
+        "num": 278624,
+        "word": "阿Sa蔡卓妍官宣恋情",
+        "onboard_time": 1768303462,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166762,
+        "num": 276427,
+        "word": "剑来",
+        "onboard_time": 1768287440,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113090,
+        "num": 276104,
+        "word": "谁吃过飞机餐的五无包",
+        "onboard_time": 1768300701,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 276070,
+        "num": 276070,
+        "word": "腾讯告诉全世界肖战签了十日终焉",
+        "onboard_time": 1768290201,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181261,
+        "num": 181261,
+        "word": "口子姐曾自曝患梅毒手臂溃烂",
+        "onboard_time": 1768290980,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 140648,
+        "num": 180874,
+        "word": "柬埔寨狗笼运活人视频疯传",
+        "onboard_time": 1768303521,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 180802,
+        "num": 180802,
+        "word": "高晓松因为医疗事故有了双眼皮",
+        "onboard_time": 1768302622,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162485,
+        "num": 162485,
+        "word": "TF四代参加川渝春晚",
+        "onboard_time": 1768302382,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77910,
+        "num": 157442,
+        "word": "官方回应4专家饿晕拒评标引争议",
+        "onboard_time": 1768302622,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59333,
+        "num": 154043,
+        "word": "金粒门致歉",
+        "onboard_time": 1768303702,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152558,
+        "num": 152558,
+        "word": "微博之夜抢座101",
+        "onboard_time": 1768303221,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 85766,
+        "num": 152398,
+        "word": "汪涵杨乐乐11岁儿子正脸",
+        "onboard_time": 1768303282,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83127,
+        "num": 151901,
+        "word": "杨幂 从你的20岁走到了我们的20岁",
+        "onboard_time": 1768303642,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103970,
+        "num": 151072,
+        "word": "樊振东开心得变成小孩子",
+        "onboard_time": 1768302382,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99790,
+        "num": 150535,
+        "word": "国考成绩什么时候出",
+        "onboard_time": 1768287620,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 149969,
+        "num": 149969,
+        "word": "原来我们早就认识代旭了",
+        "onboard_time": 1768303102,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108561,
+        "num": 136182,
+        "word": "见识到了西红柿比鸡蛋贵的一天",
+        "onboard_time": 1768303282,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131074,
+        "num": 131074,
+        "word": "杨幂赵丽颖报名金像奖女配",
+        "onboard_time": 1768299921,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130181,
+        "num": 130181,
+        "word": "白鹿跑男收官发文",
+        "onboard_time": 1768298182,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113699,
+        "num": 113699,
+        "word": "劝了800次分手最后参加了婚礼",
+        "onboard_time": 1768303642,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131250,
+        "num": 113517,
+        "word": "刘亦菲代旭对手戏",
+        "onboard_time": 1768301421,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62892,
+        "num": 109899,
+        "word": "脂包骨是身体发出的危机信号",
+        "onboard_time": 1768301662,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 50678,
+        "num": 107598,
+        "word": "贵州烙锅",
+        "onboard_time": 1768292961,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记推进全面从严治党最新部署#"
+    }
+  }
+}
