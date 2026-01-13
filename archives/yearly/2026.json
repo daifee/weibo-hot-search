@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768277254961,
+  "endTime": 1768280386954,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1547,6 +1547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 697999,
+      "num": 198921,
+      "word": "刘亦菲 淡季旺季都不上班",
+      "onboard_time": 1768278022,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 695485,
       "num": 1109542,
       "word": "上海下雪",
@@ -1675,6 +1683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 667960,
+      "num": 225651,
+      "word": "黄金又急跌",
+      "onboard_time": 1768272980,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 667067,
       "num": 1106730,
       "word": "AI照片竟然拿了摄影比赛第一名",
@@ -1777,14 +1793,6 @@
       "onboard_time": 1767934461,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 644914,
-      "num": 225651,
-      "word": "黄金又急跌",
-      "onboard_time": 1768272980,
-      "rank": 11,
-      "category": "财经"
     },
     {
       "raw_hot": 644519,
@@ -1977,6 +1985,14 @@
       "onboard_time": 1768275501,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 613214,
+      "num": 277883,
+      "word": "尹雨航和鹿晗演过双胞胎",
+      "onboard_time": 1768275980,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 612160,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767621203,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 559904,
-      "num": 559904,
-      "word": "物业笑了半小时才决定救人",
-      "onboard_time": 1767596723,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 558789,
-      "num": 377972,
-      "word": "爱喝奶茶的人天塌了",
-      "onboard_time": 1768210043,
-      "rank": 21,
-      "category": "美食,幽默"
     }
   ],
   "hotgov_list": [

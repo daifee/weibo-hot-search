@@ -1,6 +1,6 @@
 {
   "startTime": 1768235820030,
-  "endTime": 1768277254961,
+  "endTime": 1768280386954,
   "band_list": [
     {
       "raw_hot": 1195104,
@@ -35,7 +35,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 644914,
+      "raw_hot": 697999,
+      "num": 198921,
+      "word": "刘亦菲 淡季旺季都不上班",
+      "onboard_time": 1768278022,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 667960,
       "num": 225651,
       "word": "黄金又急跌",
       "onboard_time": 1768272980,
@@ -49,6 +57,14 @@
       "onboard_time": 1768275501,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 613214,
+      "num": 277883,
+      "word": "尹雨航和鹿晗演过双胞胎",
+      "onboard_time": 1768275980,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 591393,
@@ -115,14 +131,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 401743,
-      "num": 277883,
-      "word": "尹雨航和鹿晗演过双胞胎",
-      "onboard_time": 1768275980,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 400352,
       "num": 400352,
       "word": "商业航天",
@@ -153,6 +161,14 @@
       "onboard_time": 1768274360,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 373790,
+      "num": 769848,
+      "word": "贪官妻子一句暗语商人就送房",
+      "onboard_time": 1768276461,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 362876,
@@ -195,12 +211,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 311577,
+      "num": 251516,
+      "word": "女医学生被前男友杀害藏尸细节披露",
+      "onboard_time": 1768277243,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 310331,
+      "num": 310331,
+      "word": "沈梦辰 何老师我们是腻了吗",
+      "onboard_time": 1768277841,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 309810,
       "num": 309810,
       "word": "何炅情商",
       "onboard_time": 1768274781,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 306861,
+      "num": 190881,
+      "word": "代旭妻子尹雨航被称女版鹿晗",
+      "onboard_time": 1768279642,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 296789,
@@ -251,12 +291,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 261737,
+      "num": 186694,
+      "word": "赵樱子曝某女星爱半夜喝酒",
+      "onboard_time": 1768278204,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252457,
       "num": 252457,
       "word": "张钧甯妈妈发言这一段",
       "onboard_time": 1768274419,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 252164,
+      "num": 194292,
+      "word": "黄誉博拍出了杨幂在泰国有多火",
+      "onboard_time": 1768276641,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 246449,
@@ -273,6 +329,14 @@
       "onboard_time": 1768275080,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 239607,
+      "num": 193843,
+      "word": "薛小婉任权至今未领结婚证",
+      "onboard_time": 1768278321,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 232839,
@@ -323,12 +387,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 206463,
-      "num": 180460,
-      "word": "黄誉博拍出了杨幂在泰国有多火",
-      "onboard_time": 1768276641,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 208207,
+      "num": 208207,
+      "word": "十日终焉是今年最重视的男频剧",
+      "onboard_time": 1768276940,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 202469,
@@ -371,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189687,
+      "num": 189687,
+      "word": "闪耀暖暖",
+      "onboard_time": 1768278983,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188945,
       "num": 122269,
       "word": "鹿晗又去看粉丝祝福墙了",
@@ -385,6 +457,14 @@
       "onboard_time": 1768276822,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 184364,
+      "num": 184364,
+      "word": "小黄豆回应去医院查艾滋病",
+      "onboard_time": 1768277902,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 183698,
@@ -443,6 +523,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 173430,
+      "num": 138997,
+      "word": "朱颜曼滋任彬离婚搭子对抗路夫妻",
+      "onboard_time": 1768279882,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 173372,
       "num": 121977,
       "word": "为什么睡够8小时还很累",
@@ -499,12 +587,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156688,
+      "num": 128196,
+      "word": "杨洋能不能把轻熟风穿搭焊身上",
+      "onboard_time": 1768279522,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156680,
       "num": 122898,
       "word": "刨猪汤",
       "onboard_time": 1768270640,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155584,
+      "num": 126332,
+      "word": "蒋奇明长得东南西北的",
+      "onboard_time": 1768278142,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 154065,
@@ -563,6 +667,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 135583,
+      "num": 188974,
+      "word": "汪苏泷这次玩上街头节奏了",
+      "onboard_time": 1768277002,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135032,
       "num": 135032,
       "word": "宋祖儿丁禹兮 司宫令",
@@ -593,6 +705,22 @@
       "onboard_time": 1768224081,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130707,
+      "num": 130707,
+      "word": "上海去年婚姻登记17万对",
+      "onboard_time": 1768277063,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129305,
+      "num": 121299,
+      "word": "王鹤棣减肥白天鸡蛋晚上鸡的全家",
+      "onboard_time": 1768277420,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 127897,
@@ -627,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125968,
+      "num": 120920,
+      "word": "谁把檀健次丁程鑫放一块儿了",
+      "onboard_time": 1768279281,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125950,
       "num": 125950,
       "word": "官方通报雪乡黑导猥亵游客",
@@ -641,6 +777,14 @@
       "onboard_time": 1768260078,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122869,
+      "num": 122869,
+      "word": "脂包骨身材是什么",
+      "onboard_time": 1768280122,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 121879,
@@ -659,12 +803,28 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 119993,
-      "num": 119993,
-      "word": "上海去年婚姻登记17万对",
-      "onboard_time": 1768277063,
-      "rank": 36,
+      "raw_hot": 121357,
+      "num": 121357,
+      "word": "北京二环10平米三层的家",
+      "onboard_time": 1768279461,
+      "rank": 37,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 120935,
+      "num": 120935,
+      "word": "合川文旅委称被流量砸懵了",
+      "onboard_time": 1768278920,
+      "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120373,
+      "num": 120373,
+      "word": "苦练咖啡拉花的人天塌了",
+      "onboard_time": 1768277723,
+      "rank": 42,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 119649,
@@ -691,14 +851,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 117342,
-      "num": 182548,
-      "word": "汪苏泷这次玩上街头节奏了",
-      "onboard_time": 1768277002,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116989,
       "num": 124548,
       "word": "张雨绮 我的身材很曼妙",
@@ -713,6 +865,14 @@
       "onboard_time": 1768273700,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 116402,
+      "num": 116402,
+      "word": "墨刃藏娇定档双强复仇开局",
+      "onboard_time": 1768280001,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 114858,
@@ -737,6 +897,14 @@
       "onboard_time": 1768276580,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112086,
+      "num": 112086,
+      "word": "呆呆建了7个刨猪汤群都满了",
+      "onboard_time": 1768275141,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111819,
@@ -804,7 +972,7 @@
     },
     {
       "raw_hot": 107735,
-      "num": 185676,
+      "num": 192567,
       "word": "用年轻人的浪漫打开很新的年",
       "onboard_time": 1768277002,
       "rank": 20,
@@ -843,6 +1011,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 104330,
+      "num": 104330,
+      "word": "排骨上的肉可能比肥肠还肥",
+      "onboard_time": 1768279821,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 103669,
       "num": 103669,
       "word": "雪乡黑导猥亵游客被拘12日",
@@ -857,6 +1033,22 @@
       "onboard_time": 1768264702,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 103484,
+      "num": 103484,
+      "word": "锂价狂飙",
+      "onboard_time": 1768278623,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 103442,
+      "num": 103442,
+      "word": "侯明昊浪漫疯子",
+      "onboard_time": 1768280180,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 102901,
@@ -1227,14 +1419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 61559,
-      "num": 118874,
-      "word": "十日终焉是今年最重视的男频剧",
-      "onboard_time": 1768276940,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 61532,
       "num": 122759,
       "word": "特朗普称将对伊朗商业伙伴加征25%关税",
@@ -1265,14 +1449,6 @@
       "onboard_time": 1768218861,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 58020,
-      "num": 277979,
-      "word": "贪官妻子一句暗语商人就送房",
-      "onboard_time": 1768276461,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 57719,
@@ -1353,6 +1529,14 @@
       "onboard_time": 1768217901,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 48266,
+      "num": 189917,
+      "word": "赵长江称智界是纯血鸿蒙",
+      "onboard_time": 1768278862,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 44143,
