@@ -1,0 +1,410 @@
+{
+  "runTime": 1768290385303,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 563411,
+        "num": 1090145,
+        "word": "中方已经保持最大限度忍耐和克制",
+        "onboard_time": 1768283241,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 403043,
+        "num": 772050,
+        "word": "剑来",
+        "onboard_time": 1768287440,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39263,
+        "num": 621103,
+        "word": "自主研发电力示范机组实现核心技术突破",
+        "onboard_time": 1768286841,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293969,
+        "num": 293969,
+        "word": "张文宏称拒绝将AI引入医院病历系统",
+        "onboard_time": 1768287440,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246600,
+        "num": 246600,
+        "word": "腾讯告诉全世界肖战签了十日终焉",
+        "onboard_time": 1768290201,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 862576,
+        "num": 237006,
+        "word": "警犬被通报批评",
+        "onboard_time": 1768283660,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226423,
+        "num": 226423,
+        "word": "国考",
+        "onboard_time": 1768288881,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 221773,
+        "num": 221773,
+        "word": "A股终结17连阳",
+        "onboard_time": 1768289000,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 208566,
+        "num": 208566,
+        "word": "首款登顶Steam国游将上线鸿蒙",
+        "onboard_time": 1768286959,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 63094,
+        "num": 204533,
+        "word": "外交部回应伊朗局势",
+        "onboard_time": 1768290022,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 837388,
+        "num": 198659,
+        "word": "吴昕七八年不看朋友圈",
+        "onboard_time": 1768287620,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511745,
+        "num": 193174,
+        "word": "买过很贵但不后悔的东西",
+        "onboard_time": 1768284321,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 373676,
+        "num": 188455,
+        "word": "金粒门",
+        "onboard_time": 1768286180,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345883,
+        "num": 178718,
+        "word": "赵今麦和宋威龙姐姐热聊",
+        "onboard_time": 1768287440,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175948,
+        "num": 175948,
+        "word": "吴磊陈都灵合作",
+        "onboard_time": 1768284141,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222233,
+        "num": 174874,
+        "word": "苏州巨响",
+        "onboard_time": 1768283421,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230584,
+        "num": 174050,
+        "word": "刘亦菲 淡季旺季都不上班",
+        "onboard_time": 1768278022,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193386,
+        "num": 171017,
+        "word": "长期独居后的真实感受",
+        "onboard_time": 1768283839,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34570,
+        "num": 169354,
+        "word": "4专家集体饿晕拒评标究竟为何",
+        "onboard_time": 1768289661,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22266,
+        "num": 168374,
+        "word": "钟薛高创始人宣布终审胜诉",
+        "onboard_time": 1768289661,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345621,
+        "num": 166887,
+        "word": "港媒曝徐冬冬疑似怀孕",
+        "onboard_time": 1768286422,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270651,
+        "num": 164929,
+        "word": "鹅妈妈为小澈发声",
+        "onboard_time": 1768283121,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 163489,
+        "num": 163489,
+        "word": "台甜品店因用青提二字被骂滚出台湾",
+        "onboard_time": 1768282041,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213191,
+        "num": 154233,
+        "word": "代旭孟宴臣2.0",
+        "onboard_time": 1768283479,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54328,
+        "num": 148343,
+        "word": "网传花少8小妹已确定",
+        "onboard_time": 1768290022,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144188,
+        "num": 144188,
+        "word": "59岁女子回应高龄产子",
+        "onboard_time": 1768286540,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175798,
+        "num": 138807,
+        "word": "剑来陈都灵路透",
+        "onboard_time": 1768289419,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168889,
+        "num": 138115,
+        "word": "尹子维街头摸徐冬冬肚子",
+        "onboard_time": 1768286719,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41560,
+        "num": 133579,
+        "word": "骄阳心有林曦参加娇兰晚宴",
+        "onboard_time": 1768287859,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133004,
+        "num": 133004,
+        "word": "国考成绩什么时候出",
+        "onboard_time": 1768287620,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 159994,
+        "num": 132874,
+        "word": "杨洋人没来但亲签来了",
+        "onboard_time": 1768289780,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143145,
+        "num": 132237,
+        "word": "祯娘传",
+        "onboard_time": 1768274360,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131542,
+        "num": 131542,
+        "word": "吴艳妮回归长发",
+        "onboard_time": 1768288881,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132928,
+        "num": 131509,
+        "word": "张艺兴 鸵鸟蛋的后续",
+        "onboard_time": 1768288820,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130782,
+        "num": 130782,
+        "word": "好久没见调度这么大的国产剧了",
+        "onboard_time": 1768288161,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125948,
+        "num": 125948,
+        "word": "脂包骨身材是什么",
+        "onboard_time": 1768280122,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 42599,
+        "num": 125495,
+        "word": "张凌赫 怪会招蜂引蝶的",
+        "onboard_time": 1768289360,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79761,
+        "num": 124784,
+        "word": "第一次见现场转账的剧宣",
+        "onboard_time": 1768289780,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33394,
+        "num": 124201,
+        "word": "杀猪宴现场志愿者全收拾好了",
+        "onboard_time": 1768290079,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41557,
+        "num": 123711,
+        "word": "4专家低血糖拒评标是否另有猫腻",
+        "onboard_time": 1768289840,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 119497,
+        "num": 123328,
+        "word": "樊振东波尔一起受访",
+        "onboard_time": 1768289060,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129568,
+        "num": 122477,
+        "word": "微博之夜",
+        "onboard_time": 1768275261,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122120,
+        "num": 122120,
+        "word": "老干妈创始人出山救子又赚翻了",
+        "onboard_time": 1768226783,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121186,
+        "num": 121186,
+        "word": "这种苗条身材可能比纯胖更危险",
+        "onboard_time": 1768286240,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120523,
+        "num": 120523,
+        "word": "刚向生活低头生活就让我下跪",
+        "onboard_time": 1768289060,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118238,
+        "num": 118238,
+        "word": "玉茗茶骨圆房吻",
+        "onboard_time": 1768282582,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117277,
+        "num": 117277,
+        "word": "心理医生和算命先生的区别",
+        "onboard_time": 1768289241,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115291,
+        "num": 115291,
+        "word": "宋妍霏从头到脚都是波点",
+        "onboard_time": 1768288580,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112528,
+        "num": 112528,
+        "word": "永辉超市2025净利润为负",
+        "onboard_time": 1768281021,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107803,
+        "num": 107803,
+        "word": "全市场超3700个股下跌",
+        "onboard_time": 1768290321,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记的反腐警句#"
+    }
+  }
+}

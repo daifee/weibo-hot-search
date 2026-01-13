@@ -1,6 +1,6 @@
 {
   "startTime": 1768235820030,
-  "endTime": 1768289564687,
+  "endTime": 1768290385303,
   "band_list": [
     {
       "raw_hot": 1195104,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 848525,
-      "num": 192775,
+      "num": 198659,
       "word": "吴昕七八年不看朋友圈",
       "onboard_time": 1768287620,
       "rank": 10,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 511745,
+      "num": 193174,
+      "word": "买过很贵但不后悔的东西",
+      "onboard_time": 1768284321,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 503499,
       "num": 362495,
       "word": "黄金",
@@ -139,14 +147,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 475558,
-      "num": 189289,
-      "word": "买过很贵但不后悔的东西",
-      "onboard_time": 1768284321,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 456707,
       "num": 798412,
       "word": "4专家因送餐延误身体不适拒评标",
@@ -161,6 +161,14 @@
       "onboard_time": 1768267999,
       "rank": 11,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 403043,
+      "num": 794694,
+      "word": "剑来",
+      "onboard_time": 1768287440,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 401442,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 386378,
-      "num": 152568,
+      "num": 164929,
       "word": "鹅妈妈为小澈发声",
       "onboard_time": 1768283121,
       "rank": 31,
@@ -219,16 +227,16 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 372686,
-      "num": 794694,
-      "word": "剑来",
-      "onboard_time": 1768287440,
-      "rank": 8,
-      "category": "剧集"
+      "raw_hot": 373676,
+      "num": 188455,
+      "word": "金粒门",
+      "onboard_time": 1768286180,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 364495,
-      "num": 152063,
+      "num": 166887,
       "word": "港媒曝徐冬冬疑似怀孕",
       "onboard_time": 1768286422,
       "rank": 24,
@@ -267,12 +275,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 350943,
-      "num": 188029,
-      "word": "金粒门",
-      "onboard_time": 1768286180,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 345883,
+      "num": 178718,
+      "word": "赵今麦和宋威龙姐姐热聊",
+      "onboard_time": 1768287440,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 337864,
@@ -363,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 293969,
+      "num": 293969,
+      "word": "张文宏称拒绝将AI引入医院病历系统",
+      "onboard_time": 1768287440,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 276456,
       "num": 276456,
       "word": "永辉超市2025净利润为负",
@@ -443,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246600,
+      "num": 246600,
+      "word": "腾讯告诉全世界肖战签了十日终焉",
+      "onboard_time": 1768290201,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246449,
       "num": 715227,
       "word": "原海航旗下飞机几乎成落马官员私人专用",
@@ -464,14 +488,6 @@
       "word": "薛小婉任权至今未领结婚证",
       "onboard_time": 1768278321,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 235649,
-      "num": 171325,
-      "word": "赵今麦和宋威龙姐姐热聊",
-      "onboard_time": 1768287440,
-      "rank": 38,
       "category": "艺人"
     },
     {
@@ -507,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226423,
+      "num": 226423,
+      "word": "国考",
+      "onboard_time": 1768288881,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 223798,
       "num": 486705,
       "word": "肖战网文排名前五演了四个",
@@ -521,6 +545,14 @@
       "onboard_time": 1768262479,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221773,
+      "num": 221773,
+      "word": "A股终结17连阳",
+      "onboard_time": 1768289000,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 218975,
@@ -548,19 +580,11 @@
     },
     {
       "raw_hot": 213315,
-      "num": 117294,
+      "num": 138115,
       "word": "尹子维街头摸徐冬冬肚子",
       "onboard_time": 1768286719,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 207089,
-      "num": 207089,
-      "word": "张文宏称拒绝将AI引入医院病历系统",
-      "onboard_time": 1768287440,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 202469,
@@ -683,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175798,
+      "num": 161201,
+      "word": "剑来陈都灵路透",
+      "onboard_time": 1768289419,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175470,
       "num": 175470,
       "word": "问界M7占问界总交付40%以上",
@@ -763,20 +795,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161201,
-      "num": 161201,
-      "word": "剑来陈都灵路透",
-      "onboard_time": 1768289419,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 160504,
       "num": 160504,
       "word": "肖战齐夏真的要来了",
       "onboard_time": 1768238897,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159994,
+      "num": 132874,
+      "word": "杨洋人没来但亲签来了",
+      "onboard_time": 1768289780,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 157974,
@@ -828,7 +860,7 @@
     },
     {
       "raw_hot": 155549,
-      "num": 112471,
+      "num": 115291,
       "word": "宋妍霏从头到脚都是波点",
       "onboard_time": 1768288580,
       "rank": 31,
@@ -857,14 +889,6 @@
       "onboard_time": 1768288161,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149018,
-      "num": 149018,
-      "word": "国考",
-      "onboard_time": 1768288881,
-      "rank": 23,
-      "category": "教育"
     },
     {
       "raw_hot": 146892,
@@ -897,14 +921,6 @@
       "onboard_time": 1768228702,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141441,
-      "num": 112217,
-      "word": "A股终结17连阳",
-      "onboard_time": 1768289000,
-      "rank": 32,
-      "category": "财经"
     },
     {
       "raw_hot": 141039,
@@ -961,6 +977,14 @@
       "onboard_time": 1768224081,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131542,
+      "num": 131542,
+      "word": "吴艳妮回归长发",
+      "onboard_time": 1768288881,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 129729,
@@ -1075,12 +1099,28 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 121186,
+      "num": 121186,
+      "word": "这种苗条身材可能比纯胖更危险",
+      "onboard_time": 1768286240,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 120935,
       "num": 120935,
       "word": "合川文旅委称被流量砸懵了",
       "onboard_time": 1768278920,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120523,
+      "num": 120523,
+      "word": "刚向生活低头生活就让我下跪",
+      "onboard_time": 1768289060,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 120373,
@@ -1097,6 +1137,14 @@
       "onboard_time": 1768277121,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 119497,
+      "num": 123328,
+      "word": "樊振东波尔一起受访",
+      "onboard_time": 1768289060,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 119491,
@@ -1139,6 +1187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117277,
+      "num": 117277,
+      "word": "心理医生和算命先生的区别",
+      "onboard_time": 1768289241,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116989,
       "num": 124548,
       "word": "张雨绮 我的身材很曼妙",
@@ -1169,14 +1225,6 @@
       "onboard_time": 1768282582,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115911,
-      "num": 115911,
-      "word": "这种苗条身材可能比纯胖更危险",
-      "onboard_time": 1768286240,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 114858,
@@ -1275,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107803,
+      "num": 107803,
+      "word": "全市场超3700个股下跌",
+      "onboard_time": 1768290321,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 107735,
       "num": 192567,
       "word": "用年轻人的浪漫打开很新的年",
@@ -1363,14 +1419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 103134,
-      "num": 100406,
-      "word": "刚向生活低头生活就让我下跪",
-      "onboard_time": 1768289060,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 103056,
       "num": 103056,
       "word": "被字节跳动的食堂震惊到了",
@@ -1385,14 +1433,6 @@
       "onboard_time": 1768276223,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 102650,
-      "num": 102650,
-      "word": "心理医生和算命先生的区别",
-      "onboard_time": 1768289241,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 102230,
@@ -1489,14 +1529,6 @@
       "onboard_time": 1768270819,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97239,
-      "num": 97239,
-      "word": "樊振东波尔一起受访",
-      "onboard_time": 1768289060,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 97205,
@@ -1819,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79761,
+      "num": 124784,
+      "word": "第一次见现场转账的剧宣",
+      "onboard_time": 1768289780,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78092,
       "num": 78092,
       "word": "球队赞樊振东统治级表现",
@@ -1955,6 +1995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63094,
+      "num": 204533,
+      "word": "外交部回应伊朗局势",
+      "onboard_time": 1768290022,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 62878,
       "num": 51709,
       "word": "苏新皓苹果不是无聊的水果",
@@ -2035,6 +2083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54328,
+      "num": 148343,
+      "word": "网传花少8小妹已确定",
+      "onboard_time": 1768290022,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 53644,
       "num": 124477,
       "word": "章若楠胸前好大一朵花",
@@ -2044,7 +2100,7 @@
     },
     {
       "raw_hot": 52722,
-      "num": 114324,
+      "num": 133579,
       "word": "骄阳心有林曦参加娇兰晚宴",
       "onboard_time": 1768287859,
       "rank": 28,
@@ -2107,12 +2163,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42599,
+      "num": 125495,
+      "word": "张凌赫 怪会招蜂引蝶的",
+      "onboard_time": 1768289360,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41773,
       "num": 51136,
       "word": "林高远抵达德国",
       "onboard_time": 1768261099,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41557,
+      "num": 123711,
+      "word": "4专家低血糖拒评标是否另有猫腻",
+      "onboard_time": 1768289840,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 41501,
@@ -2139,6 +2211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39263,
+      "num": 639210,
+      "word": "自主研发电力示范机组实现核心技术突破",
+      "onboard_time": 1768286841,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39025,
       "num": 93853,
       "word": "请人按年猪当事人称自己捅了娄子",
@@ -2155,14 +2235,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 37768,
-      "num": 639210,
-      "word": "自主研发电力示范机组实现核心技术突破",
-      "onboard_time": 1768286841,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35089,
       "num": 101427,
       "word": "杀害前女友男子被判死刑后双腿发抖",
@@ -2177,6 +2249,22 @@
       "onboard_time": 1768286959,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 34570,
+      "num": 169354,
+      "word": "4专家集体饿晕拒评标究竟为何",
+      "onboard_time": 1768289661,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33394,
+      "num": 124201,
+      "word": "杀猪宴现场志愿者全收拾好了",
+      "onboard_time": 1768290079,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32668,
@@ -2216,14 +2304,6 @@
       "word": "侯明昊和粉丝双向奔赴的爱",
       "onboard_time": 1768237636,
       "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 27245,
-      "num": 102664,
-      "word": "张凌赫 怪会招蜂引蝶的",
-      "onboard_time": 1768289360,
-      "rank": 37,
       "category": "艺人"
     },
     {
@@ -2297,6 +2377,14 @@
       "onboard_time": 1768256054,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22266,
+      "num": 168374,
+      "word": "钟薛高创始人宣布终审胜诉",
+      "onboard_time": 1768289661,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18754,

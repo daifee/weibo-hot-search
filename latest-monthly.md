@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/13 15:32:44
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/13 15:46:25
 </p>
 </blockquote>
 <p>
@@ -2283,6 +2283,12 @@ TVB颁奖典礼（热度：518643）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E8%BF%87%E5%BE%88%E8%B4%B5%E4%BD%86%E4%B8%8D%E5%90%8E%E6%82%94%E7%9A%84%E4%B8%9C%E8%A5%BF%23" target="weibo">
+买过很贵但不后悔的东西（热度：511745）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%8F%91%E6%96%87%23" target="weibo">
 李在明发文（热度：511362）
 </a>
@@ -2711,12 +2717,6 @@ iPhone4需求激增近1000%（热度：506886）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E6%8A%8A%E7%8E%89%E8%8C%97%E8%8C%B6%E9%AA%A8%E5%8F%AB%E7%8E%89%E7%B1%B3%E6%8E%92%E9%AA%A8%23" target="weibo">
 娜扎把玉茗茶骨叫玉米排骨（热度：476168）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E8%BF%87%E5%BE%88%E8%B4%B5%E4%BD%86%E4%B8%8D%E5%90%8E%E6%82%94%E7%9A%84%E4%B8%9C%E8%A5%BF%23" target="weibo">
-买过很贵但不后悔的东西（热度：475558）
 </a>
 </li>
 
@@ -3537,6 +3537,12 @@ A股（热度：410777）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%89%91%E6%9D%A5%23" target="weibo">
+剑来（热度：403043）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%9C%E8%8C%B6%E9%87%91%E7%90%83%E5%A5%96%E5%BD%B1%E5%B8%9D%23" target="weibo">
 甜茶金球奖影帝（热度：401952）
 </a>
@@ -3897,6 +3903,12 @@ AI登顶LOL韩服（热度：378599）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%B2%92%E9%97%A8%23" target="weibo">
+金粒门（热度：373676）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%9B%9E%E5%BA%94%E5%AF%B9%E6%9C%AA%E6%9D%A5%E7%BB%84%E5%BB%BA%E5%AE%B6%E5%BA%AD%E7%9A%84%E8%A7%84%E5%88%92%23" target="weibo">
 王一博回应对未来组建家庭的规划（热度：373639）
 </a>
@@ -3923,12 +3935,6 @@ AI登顶LOL韩服（热度：378599）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A8%81%E9%BE%99%E5%BC%A0%E5%87%8C%E8%B5%AB%20%E4%BB%8A%E9%BA%A6%E9%83%8E%23" target="weibo">
 宋威龙张凌赫 今麦郎（热度：372877）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%89%91%E6%9D%A5%23" target="weibo">
-剑来（热度：372686）
 </a>
 </li>
 
@@ -4353,12 +4359,6 @@ WB对战RW（热度：355689）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%B2%92%E9%97%A8%23" target="weibo">
-金粒门（热度：350943）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E7%A7%AF%E9%87%91%E6%94%B9%E9%9D%A9%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8F%98%E5%8C%96%23" target="weibo">
 公积金改革都有哪些变化（热度：349206）
 </a>
@@ -4433,6 +4433,12 @@ WB对战RW（热度：355689）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E5%90%A6%E8%AE%A4%E4%BA%8E%E6%AD%A3%E5%BC%A0%E6%85%A7%E9%9B%AF%E6%9C%89%E5%90%BB%E6%88%8F%23" target="weibo">
 导演否认于正张慧雯有吻戏（热度：345895）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E5%92%8C%E5%AE%8B%E5%A8%81%E9%BE%99%E5%A7%90%E5%A7%90%E7%83%AD%E8%81%8A%23" target="weibo">
+赵今麦和宋威龙姐姐热聊（热度：345883）
 </a>
 </li>
 
@@ -5457,6 +5463,12 @@ TVB第一个打烂奖杯（热度：318351）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E6%8B%92%E7%BB%9D%E5%B0%86AI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F%23" target="weibo">
+张文宏称拒绝将AI引入医院病历系统（热度：293969）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BA%A7%E6%B6%8C%E5%85%A5%E8%B6%85%E5%B8%82%E6%8A%A2300%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%23" target="weibo">
 中产涌入超市抢300元羽绒服（热度：293528）
 </a>
@@ -5999,18 +6011,6 @@ Faker举报路人游戏ID（热度：272754）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E8%87%AA%E6%B2%BB%E6%94%BF%E5%BA%9C%E5%8F%91%E5%A3%B0%E6%98%8E%23" target="weibo">
 格陵兰岛自治政府发声明（热度：269122）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E8%88%AA%E7%A9%BA%E5%A7%90%E7%BB%9F%E4%B8%80%E6%88%B4%E9%95%BF%E5%8F%91%E7%B0%AA%E9%81%AD%E8%B4%A8%E7%96%91%E4%B8%8D%E5%AE%89%E5%85%A8%23" target="weibo">
-海航空姐统一戴长发簪遭质疑不安全（热度：269000）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%94%9F%E5%84%BF%E7%96%91%E8%A2%AB%E5%8A%A9%E4%BA%A7%E5%A3%AB%E5%89%AA%E6%96%AD%E6%89%8B%E6%8C%87%23" target="weibo">
-新生儿疑被助产士剪断手指（热度：268712）
 </a>
 </li>
 
