@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768340661521,
+  "endTime": 1768343443482,
   "band_list": [
     {
       "raw_hot": 5632996,
@@ -11235,12 +11235,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 19857,
+      "num": 61235,
+      "word": "王鹤棣下班前对镜拍",
+      "onboard_time": 1768323797,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 19731,
       "num": 156730,
       "word": "数读绿色消费新成效",
       "onboard_time": 1768297222,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19508,
+      "num": 38315,
+      "word": "高市早苗行90度鞠躬礼迎接李在明",
+      "onboard_time": 1768334594,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 19289,
@@ -11275,12 +11291,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18049,
-      "num": 61235,
-      "word": "王鹤棣下班前对镜拍",
-      "onboard_time": 1768323797,
-      "rank": 42,
-      "category": "作品衍生,时尚"
+      "raw_hot": 17409,
+      "num": 37925,
+      "word": "今天丽江机场被07快男承包了",
+      "onboard_time": 1768342334,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 17134,
@@ -11363,12 +11379,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 15074,
-      "num": 18609,
-      "word": "高市早苗行90度鞠躬礼迎接李在明",
-      "onboard_time": 1768334594,
-      "rank": 44,
-      "category": "国际时政"
+      "raw_hot": 14798,
+      "num": 37806,
+      "word": "金像奖",
+      "onboard_time": 1768301721,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 14645,
@@ -11401,6 +11417,14 @@
       "onboard_time": 1768068796,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 12838,
+      "num": 235294,
+      "word": "全国铁路新增243列客车",
+      "onboard_time": 1768313184,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12478,
@@ -11465,14 +11489,6 @@
       "onboard_time": 1768211480,
       "rank": 39,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 10159,
-      "num": 106568,
-      "word": "全国铁路新增243列客车",
-      "onboard_time": 1768313184,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9496,

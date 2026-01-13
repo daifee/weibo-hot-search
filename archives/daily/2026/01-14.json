@@ -1,6 +1,6 @@
 {
   "startTime": 1768322530118,
-  "endTime": 1768340661521,
+  "endTime": 1768343443482,
   "band_list": [
     {
       "raw_hot": 641527,
@@ -113,6 +113,14 @@
       "onboard_time": 1768318461,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 128584,
+      "num": 130600,
+      "word": "第一次见恋综骂这么狠的",
+      "onboard_time": 1768310962,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 108201,
@@ -307,14 +315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 71323,
-      "num": 130600,
-      "word": "第一次见恋综骂这么狠的",
-      "onboard_time": 1768310962,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 70029,
       "num": 131837,
       "word": "穆祉丞更新",
@@ -483,12 +483,28 @@
       "category": "体育,时尚"
     },
     {
-      "raw_hot": 18049,
+      "raw_hot": 19857,
       "num": 61235,
       "word": "王鹤棣下班前对镜拍",
       "onboard_time": 1768323797,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 19508,
+      "num": 38315,
+      "word": "高市早苗行90度鞠躬礼迎接李在明",
+      "onboard_time": 1768334594,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 17409,
+      "num": 37925,
+      "word": "今天丽江机场被07快男承包了",
+      "onboard_time": 1768342334,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 17042,
@@ -523,16 +539,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 15074,
-      "num": 18609,
-      "word": "高市早苗行90度鞠躬礼迎接李在明",
-      "onboard_time": 1768334594,
-      "rank": 44,
-      "category": "国际时政"
+      "raw_hot": 14798,
+      "num": 37806,
+      "word": "金像奖",
+      "onboard_time": 1768301721,
+      "rank": 48,
+      "category": "电影"
     },
     {
-      "raw_hot": 10159,
-      "num": 106568,
+      "raw_hot": 12838,
+      "num": 235294,
       "word": "全国铁路新增243列客车",
       "onboard_time": 1768313184,
       "rank": 2,

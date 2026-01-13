@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768340661521,
+  "endTime": 1768343443482,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -42531,6 +42531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 19857,
+      "num": 61235,
+      "word": "王鹤棣下班前对镜拍",
+      "onboard_time": 1768323797,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 19751,
       "num": 51182,
       "word": "檀健次Get唱歌去处",
@@ -42561,6 +42569,14 @@
       "onboard_time": 1767868041,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 19508,
+      "num": 38315,
+      "word": "高市早苗行90度鞠躬礼迎接李在明",
+      "onboard_time": 1768334594,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 19435,
@@ -42651,20 +42667,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18049,
-      "num": 61235,
-      "word": "王鹤棣下班前对镜拍",
-      "onboard_time": 1768323797,
-      "rank": 42,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 17585,
       "num": 119643,
       "word": "百余只羊被烧死残疾主人救火被烧伤",
       "onboard_time": 1768050382,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17409,
+      "num": 37925,
+      "word": "今天丽江机场被07快男承包了",
+      "onboard_time": 1768342334,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 17372,
@@ -42907,14 +42923,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 15074,
-      "num": 18609,
-      "word": "高市早苗行90度鞠躬礼迎接李在明",
-      "onboard_time": 1768334594,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 14917,
       "num": 93159,
       "word": "刘宇宁三个角色喜爱值破5万",
@@ -42929,6 +42937,14 @@
       "onboard_time": 1767425305,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14798,
+      "num": 37806,
+      "word": "金像奖",
+      "onboard_time": 1768301721,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 14645,
@@ -43039,6 +43055,14 @@
       "num": 610865,
       "word": "1分钟看开工首日奋斗图景",
       "onboard_time": 1767603681,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12838,
+      "num": 235294,
+      "word": "全国铁路新增243列客车",
+      "onboard_time": 1768313184,
       "rank": 2,
       "category": "民生新闻"
     },
@@ -43224,14 +43248,6 @@
       "word": "2025四川新生儿叫锦程雨桐最多",
       "onboard_time": 1767364524,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10159,
-      "num": 106568,
-      "word": "全国铁路新增243列客车",
-      "onboard_time": 1768313184,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
