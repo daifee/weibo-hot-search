@@ -1,0 +1,410 @@
+{
+  "runTime": 1768339810561,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 38873,
+        "num": 143737,
+        "word": "马年纪念币预约",
+        "onboard_time": 1768313484,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 27483,
+        "num": 104908,
+        "word": "贪官一个招呼收一笔巨额贿赂",
+        "onboard_time": 1768332616,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 8970,
+        "num": 85675,
+        "word": "全国铁路新增243列客车",
+        "onboard_time": 1768313184,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26745,
+        "num": 26745,
+        "word": "吴昕回忆快乐家族最后一次合体主持",
+        "onboard_time": 1768326915,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26460,
+        "num": 26460,
+        "word": "第一次见恋综骂这么狠的",
+        "onboard_time": 1768310962,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34051,
+        "num": 25611,
+        "word": "高市早苗对李在明尖声喊您好",
+        "onboard_time": 1768321338,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23728,
+        "num": 23728,
+        "word": "老婆错失年终奖老公婆婆默契补上",
+        "onboard_time": 1768317681,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20368,
+        "num": 20368,
+        "word": "麦当劳回应汉堡变小了",
+        "onboard_time": 1768302502,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19721,
+        "num": 19721,
+        "word": "00后新警一根针保住126万",
+        "onboard_time": 1768316002,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19531,
+        "num": 19531,
+        "word": "轧戏",
+        "onboard_time": 1768304423,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45967,
+        "num": 19529,
+        "word": "西安华清池贵妃裸体出浴雕像引争议",
+        "onboard_time": 1768304721,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36321,
+        "num": 19503,
+        "word": "刘嘉玲遗憾没有像样代表作",
+        "onboard_time": 1768321759,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32032,
+        "num": 19468,
+        "word": "推特崩了",
+        "onboard_time": 1768318283,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 29643,
+        "num": 19458,
+        "word": "狗主人已接受高校提供的经济补偿",
+        "onboard_time": 1768323078,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26528,
+        "num": 19432,
+        "word": "张杰继逆战后又一全新战歌",
+        "onboard_time": 1768318461,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20179,
+        "num": 19422,
+        "word": "女子连续4天在餐馆门口趴地不起",
+        "onboard_time": 1768316841,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17898,
+        "num": 19391,
+        "word": "抢马钞",
+        "onboard_time": 1768315343,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 16323,
+        "num": 19368,
+        "word": "韩检方要求判尹锡悦死刑",
+        "onboard_time": 1768308322,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16304,
+        "num": 19359,
+        "word": "贪官商人一起空手套白狼买企业",
+        "onboard_time": 1768314620,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15942,
+        "num": 19333,
+        "word": "小城大事收视率",
+        "onboard_time": 1768309162,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68215,
+        "num": 19308,
+        "word": "阿Sa官宣恋情",
+        "onboard_time": 1768303462,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43843,
+        "num": 19296,
+        "word": "迅猛龙 小澈",
+        "onboard_time": 1768292421,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 21365,
+        "num": 19262,
+        "word": "汪涵杨乐乐11岁儿子正脸",
+        "onboard_time": 1768303282,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20845,
+        "num": 19243,
+        "word": "美雪扮演者因出演小魔仙被校园暴力",
+        "onboard_time": 1768308741,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19703,
+        "num": 19223,
+        "word": "13岁男孩泡澡20分钟脑出血",
+        "onboard_time": 1768316602,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19213,
+        "num": 19213,
+        "word": "何晴儿子头像仍为全黑",
+        "onboard_time": 1768315343,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19076,
+        "num": 19076,
+        "word": "爱吃鸭头的天塌了",
+        "onboard_time": 1768309462,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18738,
+        "num": 18738,
+        "word": "LV活动",
+        "onboard_time": 1768302202,
+        "rank": 27,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 17595,
+        "num": 17595,
+        "word": "金价",
+        "onboard_time": 1768317681,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 17083,
+        "num": 17595,
+        "word": "章泽天完全不给孩子看社媒",
+        "onboard_time": 1768295241,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16213,
+        "num": 17592,
+        "word": "何晴儿子称许亚军给自己莫大支持",
+        "onboard_time": 1768312343,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14522,
+        "num": 17591,
+        "word": "王楚钦LV品牌大使",
+        "onboard_time": 1768308622,
+        "rank": 31,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 14445,
+        "num": 17589,
+        "word": "欧阳娜娜线下美成啥样了",
+        "onboard_time": 1768323557,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13912,
+        "num": 17589,
+        "word": "高市早苗行90度鞠躬礼迎接李在明",
+        "onboard_time": 1768334594,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13671,
+        "num": 17588,
+        "word": "BBC报道死了么APP",
+        "onboard_time": 1768317562,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 13519,
+        "num": 17586,
+        "word": "橹穆联排",
+        "onboard_time": 1768309284,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13436,
+        "num": 17583,
+        "word": "马年纪念币 抢不到",
+        "onboard_time": 1768314142,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 13337,
+        "num": 17582,
+        "word": "贪官曾在机场威胁乘客",
+        "onboard_time": 1768314263,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13203,
+        "num": 17581,
+        "word": "原来羽绒服可以这么洗",
+        "onboard_time": 1768312584,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13074,
+        "num": 17579,
+        "word": "王鹤棣下班前对镜拍",
+        "onboard_time": 1768323797,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 13047,
+        "num": 17578,
+        "word": "A股",
+        "onboard_time": 1768317503,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 12803,
+        "num": 17576,
+        "word": "马币",
+        "onboard_time": 1768314743,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 12629,
+        "num": 17575,
+        "word": "爱吃车厘子的女生天亮了",
+        "onboard_time": 1768297821,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12478,
+        "num": 17575,
+        "word": "LV活动大合照",
+        "onboard_time": 1768315763,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 12056,
+        "num": 17572,
+        "word": "iPhone自带堪比打印机的软件",
+        "onboard_time": 1768308682,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 11302,
+        "num": 17572,
+        "word": "Demumu",
+        "onboard_time": 1768316482,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 11116,
+        "num": 17570,
+        "word": "归鸾",
+        "onboard_time": 1768322059,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10988,
+        "num": 17568,
+        "word": "王鹤棣宋茜王嘉尔周冬雨手挽手",
+        "onboard_time": 1768315163,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 10919,
+        "num": 17567,
+        "word": "2026国考成绩查询",
+        "onboard_time": 1768319539,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 10561,
+        "num": 17566,
+        "word": "国考",
+        "onboard_time": 1768288881,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记的反腐警句#"
+    }
+  }
+}
