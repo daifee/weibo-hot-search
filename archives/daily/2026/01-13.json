@@ -1,6 +1,6 @@
 {
   "startTime": 1768235820030,
-  "endTime": 1768297897264,
+  "endTime": 1768300417598,
   "band_list": [
     {
       "raw_hot": 1352396,
@@ -32,6 +32,14 @@
       "word": "警犬被通报批评",
       "onboard_time": 1768283660,
       "rank": 5,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1042600,
+      "num": 220754,
+      "word": "爱吃车厘子的女生天亮了",
+      "onboard_time": 1768297821,
+      "rank": 44,
       "category": "幽默"
     },
     {
@@ -203,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 485891,
+      "num": 242137,
+      "word": "高市早苗迎接李在明画面",
+      "onboard_time": 1768297101,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 478081,
       "num": 828621,
       "word": "长春居民因客厅放床被停燃气20天",
@@ -257,6 +273,22 @@
       "onboard_time": 1768272920,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 393756,
+      "num": 124036,
+      "word": "高晓松26天瘦了26斤",
+      "onboard_time": 1768299141,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 391488,
+      "num": 122681,
+      "word": "张艺兴做了鼻炎手术",
+      "onboard_time": 1768297281,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 388573,
@@ -419,14 +451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 308496,
-      "num": 242137,
-      "word": "高市早苗迎接李在明画面",
-      "onboard_time": 1768297101,
-      "rank": 6,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 306054,
       "num": 239130,
       "word": "谢霆锋保密协议又到期了",
@@ -483,16 +507,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 293319,
-      "num": 117801,
-      "word": "张艺兴做了鼻炎手术",
-      "onboard_time": 1768297281,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 291166,
-      "num": 116408,
+      "num": 119618,
       "word": "阎鹤祥升级当爸",
       "onboard_time": 1768295182,
       "rank": 30,
@@ -651,6 +667,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 229686,
+      "num": 212860,
+      "word": "白鹿跑男收官发文",
+      "onboard_time": 1768298182,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227001,
       "num": 203236,
       "word": "代旭 开始考古了意味着什么",
@@ -699,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215337,
+      "num": 120670,
+      "word": "奔跑吧14要去很久没去的地方",
+      "onboard_time": 1768298722,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213363,
       "num": 198648,
       "word": "脂包骨身材是什么",
@@ -731,6 +763,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201924,
+      "num": 120033,
+      "word": "三只羊复播大小杨哥未现身",
+      "onboard_time": 1768297400,
+      "rank": 37,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 199371,
+      "num": 199371,
+      "word": "李一桐给粉丝喷香水",
+      "onboard_time": 1768299620,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196347,
       "num": 196347,
       "word": "微信通知显示头像",
@@ -753,6 +801,14 @@
       "onboard_time": 1768293982,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193029,
+      "num": 193029,
+      "word": "易烊千玺报名金像奖男配",
+      "onboard_time": 1768298662,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 192802,
@@ -812,7 +868,7 @@
     },
     {
       "raw_hot": 185645,
-      "num": 185645,
+      "num": 206002,
       "word": "贵州烙锅",
       "onboard_time": 1768292961,
       "rank": 35,
@@ -979,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159222,
+      "num": 125915,
+      "word": "去糖最快的运动",
+      "onboard_time": 1768298361,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 157974,
       "num": 157974,
       "word": "合川文旅称杀猪宴是呆呆私人发起",
@@ -1076,7 +1140,7 @@
     },
     {
       "raw_hot": 149614,
-      "num": 114936,
+      "num": 116818,
       "word": "35岁苦练化妆3个月的变化",
       "onboard_time": 1768295361,
       "rank": 34,
@@ -1131,14 +1195,6 @@
       "category": "民生新闻,美食"
     },
     {
-      "raw_hot": 141072,
-      "num": 107892,
-      "word": "三只羊复播大小杨哥未现身",
-      "onboard_time": 1768297400,
-      "rank": 37,
-      "category": "网红"
-    },
-    {
       "raw_hot": 141039,
       "num": 116319,
       "word": "沈梦辰说何炅是自己最大的安全感",
@@ -1169,6 +1225,14 @@
       "onboard_time": 1768277002,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135100,
+      "num": 135100,
+      "word": "金像奖报名名单",
+      "onboard_time": 1768298120,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 135032,
@@ -1241,6 +1305,14 @@
       "onboard_time": 1768241834,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127075,
+      "num": 118786,
+      "word": "祯娘传央妈赐名",
+      "onboard_time": 1768299321,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 126501,
@@ -1419,6 +1491,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 118216,
+      "num": 118216,
+      "word": "杨幂赵丽颖报名金像奖女配",
+      "onboard_time": 1768299921,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 117619,
       "num": 117619,
       "word": "金粒门被曝厨房脏臭生产日期造假",
@@ -1523,6 +1603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111244,
+      "num": 122030,
+      "word": "小马闻到去世母马尾毛悄悄流眼泪",
+      "onboard_time": 1768298662,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111096,
       "num": 111096,
       "word": "8人组团徒步2女子体力不支被弃荒山",
@@ -1625,6 +1713,14 @@
       "onboard_time": 1768297703,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107337,
+      "num": 107337,
+      "word": "白鹿十八宫格",
+      "onboard_time": 1768298120,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 106266,
@@ -1755,14 +1851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 101085,
-      "num": 101085,
-      "word": "爱吃车厘子的女生天亮了",
-      "onboard_time": 1768297821,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 100879,
       "num": 124546,
       "word": "呆呆1分钟视频报价2400元",
@@ -1833,6 +1921,14 @@
       "onboard_time": 1768259597,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99018,
+      "num": 619338,
+      "word": "小砂糖橘勇闯东北新一季来了",
+      "onboard_time": 1768298120,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98813,
@@ -1937,6 +2033,14 @@
       "onboard_time": 1768297821,
       "rank": 48,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 93678,
+      "num": 120441,
+      "word": "李在明与高市早苗谈话内容披露",
+      "onboard_time": 1768300102,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 93587,
@@ -2073,6 +2177,14 @@
       "onboard_time": 1768266080,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 87217,
+      "num": 119123,
+      "word": "男子经济舱被取消买公务舱补差被拒",
+      "onboard_time": 1768298421,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87070,
@@ -2241,6 +2353,14 @@
       "onboard_time": 1768289780,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79094,
+      "num": 94594,
+      "word": "小时候完全听不懂的名牌现在懂了",
+      "onboard_time": 1768299860,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 78092,
@@ -2488,6 +2608,14 @@
       "word": "香港人组团买房涌入大湾区",
       "onboard_time": 1768228761,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54083,
+      "num": 116915,
+      "word": "钟薛高已被申请破产清算",
+      "onboard_time": 1768300340,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -2849,6 +2977,22 @@
       "onboard_time": 1768215560,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 16775,
+      "num": 117048,
+      "word": "女子为还赌债劫杀牌友被执行死刑",
+      "onboard_time": 1768299741,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16715,
+      "num": 118325,
+      "word": "借款68万不还国土所所长被停职",
+      "onboard_time": 1768300340,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15537,
