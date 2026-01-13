@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/13 07:39:27
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/13 10:07:29
 </p>
 </blockquote>
 <p>
@@ -323,6 +323,12 @@ Asen回应Sakee（热度：2704539）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%BE%AE%E4%BF%A1%E6%9C%89%E4%B8%A4%E5%8D%83%E4%B8%AA%E7%BD%AE%E9%A1%B6%23" target="weibo">
 爸爸微信有两千个置顶（热度：1200620）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%86%E5%91%86%E5%93%AD%E8%AF%89%E5%A4%A7%E5%AE%B6%E9%83%BD%E5%9C%A8%E7%9B%B4%E6%92%AD%E5%8F%AA%E6%9C%89%E5%A6%88%E5%A6%88%E6%B8%85%E6%89%AB%23" target="weibo">
+呆呆哭诉大家都在直播只有妈妈清扫（热度：1195104）
 </a>
 </li>
 
@@ -803,6 +809,12 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%AA%9B%E5%AA%9B%E5%87%BA%E5%9C%BA%23" target="weibo">
 朱媛媛出场（热度：820085）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%AB%A5%E9%94%A6%E7%A8%8B%E5%A5%B3%E5%8F%8B%E6%80%80%E5%AD%95%23" target="weibo">
+曝童锦程女友怀孕（热度：816335）
 </a>
 </li>
 
@@ -1799,18 +1811,6 @@ AI照片竟然拿了摄影比赛第一名（热度：667067）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%B8%B4%E6%97%B6%E6%80%BB%E7%BB%9F%E5%AE%A3%E8%AA%93%E5%B0%B1%E4%BB%BB%23" target="weibo">
 委内瑞拉临时总统宣誓就任（热度：557975）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E4%B8%AD%E6%88%8F%E7%AC%AC%E4%B8%80%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%E8%BF%98%E5%9C%A8%E4%B8%8A%E5%8D%87%23" target="weibo">
-赵今麦中戏第一的含金量还在上升（热度：557526）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Sakee%20Asen%23" target="weibo">
-Sakee Asen（热度：556725）
 </a>
 </li>
 

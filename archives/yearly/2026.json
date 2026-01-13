@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768261167810,
+  "endTime": 1768270049465,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -417,6 +417,14 @@
       "onboard_time": 1767497601,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1195104,
+      "num": 120989,
+      "word": "呆呆哭诉大家都在直播只有妈妈清扫",
+      "onboard_time": 1768266260,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1190595,
@@ -1057,6 +1065,14 @@
       "onboard_time": 1768052243,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 816335,
+      "num": 113770,
+      "word": "曝童锦程女友怀孕",
+      "onboard_time": 1768266620,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 815960,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767660742,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 557526,
-      "num": 252900,
-      "word": "赵今麦中戏第一的含金量还在上升",
-      "onboard_time": 1767707963,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 556725,
-      "num": 198998,
-      "word": "Sakee Asen",
-      "onboard_time": 1767757341,
-      "rank": 26,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
