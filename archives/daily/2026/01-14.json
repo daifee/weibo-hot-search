@@ -1,6 +1,6 @@
 {
   "startTime": 1768322530118,
-  "endTime": 1768401239540,
+  "endTime": 1768402368153,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1039734,
-      "num": 412197,
+      "num": 427640,
       "word": "河南一教师与学生发生不正当关系",
       "onboard_time": 1768395320,
       "rank": 16,
@@ -123,12 +123,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 848845,
+      "raw_hot": 853809,
       "num": 316523,
       "word": "佟丽娅连续三年收到苏翊鸣的滑板",
       "onboard_time": 1768396701,
       "rank": 13,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 831518,
+      "num": 411721,
+      "word": "27岁男子订婚后才知女友快40岁",
+      "onboard_time": 1768400002,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 826962,
@@ -265,14 +273,6 @@
       "onboard_time": 1768382601,
       "rank": 6,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 572336,
-      "num": 411721,
-      "word": "27岁男子订婚后才知女友快40岁",
-      "onboard_time": 1768400002,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 568587,
@@ -491,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 436143,
+      "num": 436143,
+      "word": "申论分好低",
+      "onboard_time": 1768397661,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 434064,
       "num": 434064,
       "word": "茶颜悦色称放久变半杯是工艺特色",
@@ -529,14 +537,6 @@
       "onboard_time": 1768363702,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 420768,
-      "num": 420768,
-      "word": "申论分好低",
-      "onboard_time": 1768397661,
-      "rank": 6,
-      "category": "教育"
     },
     {
       "raw_hot": 419160,
@@ -732,7 +732,7 @@
     },
     {
       "raw_hot": 304952,
-      "num": 290070,
+      "num": 298689,
       "word": "你那儿几点 王安宇周也",
       "onboard_time": 1768389320,
       "rank": 15,
@@ -784,6 +784,14 @@
       "word": "有人出价13万求购会装死的小羊",
       "onboard_time": 1768346597,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289239,
+      "num": 301040,
+      "word": "家属回应母亲躲藏致女儿心源性休克身亡",
+      "onboard_time": 1768399403,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -867,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267437,
+      "num": 267437,
+      "word": "疑似张颂文不演狂流了",
+      "onboard_time": 1768397842,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 264361,
       "num": 264361,
       "word": "彭十六偷税216.32万元",
@@ -876,7 +892,7 @@
     },
     {
       "raw_hot": 262747,
-      "num": 155713,
+      "num": 165105,
       "word": "龚俊因左眼下新长了颗痣而开心",
       "onboard_time": 1768388541,
       "rank": 27,
@@ -1211,12 +1227,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191059,
-      "num": 191059,
-      "word": "家属回应母亲躲藏致女儿心源性休克身亡",
-      "onboard_time": 1768399403,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 190746,
+      "num": 190746,
+      "word": "张函瑞 拜拜了大蘑菇头",
+      "onboard_time": 1768401622,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 190740,
@@ -1225,6 +1241,14 @@
       "onboard_time": 1768398622,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189219,
+      "num": 189219,
+      "word": "马年春晚",
+      "onboard_time": 1768402162,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 187749,
@@ -1256,14 +1280,6 @@
       "word": "小城大事多年闺蜜反目",
       "onboard_time": 1768395502,
       "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 184046,
-      "num": 184046,
-      "word": "疑似张颂文不演狂流了",
-      "onboard_time": 1768397842,
-      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1411,6 +1427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169638,
+      "num": 169638,
+      "word": "卢昱晓代旭抽象合拍",
+      "onboard_time": 1768401622,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169321,
       "num": 169321,
       "word": "无畏少司缘MVP",
@@ -1529,6 +1553,14 @@
       "onboard_time": 1768376300,
       "rank": 26,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 156134,
+      "num": 156134,
+      "word": "JDG战胜TES",
+      "onboard_time": 1768401742,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 154589,
@@ -1795,6 +1827,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138036,
+      "num": 138036,
+      "word": "周深最适合追星女的祝福",
+      "onboard_time": 1768401321,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 137921,
+      "num": 137921,
+      "word": "两千元羽绒服充绒量仅86克",
+      "onboard_time": 1768401562,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137738,
       "num": 137738,
       "word": "携程曾涉不正当竞争纠纷",
@@ -1851,6 +1899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135271,
+      "num": 135271,
+      "word": "金毛很生气为你服务",
+      "onboard_time": 1768402041,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135206,
       "num": 135206,
       "word": "张杰继逆战后又一全新战歌",
@@ -1889,6 +1945,14 @@
       "onboard_time": 1768389141,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133046,
+      "num": 133046,
+      "word": "浙江用AI抓出贪官",
+      "onboard_time": 1768401503,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 132691,
@@ -2211,6 +2275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112554,
+      "num": 112554,
+      "word": "李耕耘直播",
+      "onboard_time": 1768402283,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112390,
       "num": 111472,
       "word": "肖战一口流利的东北话",
@@ -2441,6 +2513,14 @@
       "onboard_time": 1768372760,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 101438,
+      "num": 111739,
+      "word": "久坐的代价",
+      "onboard_time": 1768400782,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 100907,
@@ -3123,6 +3203,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 75288,
+      "num": 183247,
+      "word": "尹锡悦为何被要求死刑",
+      "onboard_time": 1768400841,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 74928,
       "num": 74928,
       "word": "日本雪车队因协会漏看规定无缘冬奥会",
@@ -3451,6 +3539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35505,
+      "num": 178736,
+      "word": "看似是U盘其实藏着贪官赃款",
+      "onboard_time": 1768402041,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34359,
       "num": 230148,
       "word": "热雪新年转出奇迹",
@@ -3553,14 +3649,6 @@
       "onboard_time": 1768383501,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 24858,
-      "num": 183247,
-      "word": "尹锡悦为何被要求死刑",
-      "onboard_time": 1768400841,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 20923,
