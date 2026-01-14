@@ -1,0 +1,410 @@
+{
+  "runTime": 1768373922608,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 700693,
+        "num": 1112110,
+        "word": "美国即将正式退出世卫组织",
+        "onboard_time": 1768369641,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 408343,
+        "num": 818494,
+        "word": "以色列宣布退群",
+        "onboard_time": 1768361421,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32056,
+        "num": 622937,
+        "word": "让高效办成一件事成为寻常事",
+        "onboard_time": 1768360940,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 323029,
+        "num": 323029,
+        "word": "对御赐小仵作的五年有了实感",
+        "onboard_time": 1768371320,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308106,
+        "num": 308106,
+        "word": "茶颜悦色称放久变半杯是工艺特色",
+        "onboard_time": 1768367722,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 744055,
+        "num": 303999,
+        "word": "iPhone18Pro新爆料",
+        "onboard_time": 1768366281,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 313390,
+        "num": 300289,
+        "word": "以为中奖羽绒服 没想到是挂件",
+        "onboard_time": 1768367002,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277158,
+        "num": 277158,
+        "word": "杨瀚森受伤",
+        "onboard_time": 1768372100,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251802,
+        "num": 251802,
+        "word": "iPhone18Pro灵动岛或变小",
+        "onboard_time": 1768366341,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 222927,
+        "num": 222927,
+        "word": "活人微死原来是张子枫这么演",
+        "onboard_time": 1768369100,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297875,
+        "num": 221872,
+        "word": "44岁阿娇与43岁阿Sa同框",
+        "onboard_time": 1768367722,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287569,
+        "num": 221087,
+        "word": "这几天可以先不要做美甲了",
+        "onboard_time": 1768364301,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 272803,
+        "num": 220925,
+        "word": "虞书欣云初令记录",
+        "onboard_time": 1768371980,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216386,
+        "num": 216386,
+        "word": "又一省份取消12345热线语音导航",
+        "onboard_time": 1768371201,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213066,
+        "num": 213066,
+        "word": "孩子产检正常出生却畸形母亲发声",
+        "onboard_time": 1768365202,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191744,
+        "num": 191744,
+        "word": "欢迎来到蘑菇屋",
+        "onboard_time": 1768372640,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168838,
+        "num": 168838,
+        "word": "单依纯拒绝歌手2024的原因",
+        "onboard_time": 1768364122,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159668,
+        "num": 159668,
+        "word": "国漫白切黑医生姐姐你好香",
+        "onboard_time": 1768373060,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 159271,
+        "num": 159271,
+        "word": "肖战或创金像奖年轻影帝传奇",
+        "onboard_time": 1768369521,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20968,
+        "num": 158920,
+        "word": "银行回应凌晨多次点外卖账户被风控",
+        "onboard_time": 1768373360,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244169,
+        "num": 158844,
+        "word": "唐嫣粉裙",
+        "onboard_time": 1768373001,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181845,
+        "num": 158749,
+        "word": "02年属马女生抢到整套马钞马币",
+        "onboard_time": 1768369221,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158592,
+        "num": 158592,
+        "word": "赵丽颖 纪梵希",
+        "onboard_time": 1768360940,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154315,
+        "num": 154315,
+        "word": "与辉同行83元3只皖西麻黄鸡引质疑",
+        "onboard_time": 1768363821,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150254,
+        "num": 150254,
+        "word": "国产积木已经进化到这种水平了",
+        "onboard_time": 1768373180,
+        "rank": 24,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 144771,
+        "num": 144771,
+        "word": "贺娇龙单位将发布官方消息",
+        "onboard_time": 1768366403,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121671,
+        "num": 121671,
+        "word": "A股",
+        "onboard_time": 1768368081,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121168,
+        "num": 121168,
+        "word": "陈数 冻龄",
+        "onboard_time": 1768371081,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116044,
+        "num": 116044,
+        "word": "CSGO",
+        "onboard_time": 1768362861,
+        "rank": 28,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 111542,
+        "num": 111542,
+        "word": "泰国起重机砸中火车致22死",
+        "onboard_time": 1768366822,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 467472,
+        "num": 111526,
+        "word": "跳水",
+        "onboard_time": 1768368200,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112928,
+        "num": 111488,
+        "word": "韦德关注王橹杰",
+        "onboard_time": 1768365022,
+        "rank": 31,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 112390,
+        "num": 111472,
+        "word": "肖战一口流利的东北话",
+        "onboard_time": 1768373421,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111425,
+        "num": 111425,
+        "word": "亲手把女儿和她的好朋友拆散了",
+        "onboard_time": 1768373841,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109630,
+        "num": 109630,
+        "word": "一餐厅几乎只服务贪官",
+        "onboard_time": 1768364061,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98619,
+        "num": 98619,
+        "word": "医生被控强奸两幼女案宣判",
+        "onboard_time": 1768369100,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97241,
+        "num": 97241,
+        "word": "官方将澄清说明贺娇龙坠马事件",
+        "onboard_time": 1768363880,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67200,
+        "num": 95180,
+        "word": "同学你在食堂吃饭少的事被发现了",
+        "onboard_time": 1768373841,
+        "rank": 37,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 14057,
+        "num": 94297,
+        "word": "揭秘产检正常出生畸形涉事医院",
+        "onboard_time": 1768372820,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18193,
+        "num": 93887,
+        "word": "医院回应笔试短信滞后被质疑内定",
+        "onboard_time": 1768373360,
+        "rank": 39,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 93733,
+        "num": 93733,
+        "word": "陆江来身世",
+        "onboard_time": 1768373542,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93493,
+        "num": 93493,
+        "word": "吕严回应王广删博",
+        "onboard_time": 1768363702,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91772,
+        "num": 91772,
+        "word": "苹果宣传iPhone17耐刮",
+        "onboard_time": 1768370481,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 90845,
+        "num": 90845,
+        "word": "厦门大学悄悄给学生打了一笔钱",
+        "onboard_time": 1768372760,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 88369,
+        "num": 88369,
+        "word": "Fly MVP",
+        "onboard_time": 1768373900,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86065,
+        "num": 86065,
+        "word": "A股行情",
+        "onboard_time": 1768370000,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 85228,
+        "num": 85228,
+        "word": "酷酷的天放寡淡四部曲更新了",
+        "onboard_time": 1768370180,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79204,
+        "num": 83699,
+        "word": "22岁姑娘在高原为国找矿",
+        "onboard_time": 1768372939,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83632,
+        "num": 83632,
+        "word": "关系降级是一种自救方式",
+        "onboard_time": 1768373001,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83117,
+        "num": 83117,
+        "word": "KPL",
+        "onboard_time": 1768363702,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国特色反腐败之路要坚定走下去#"
+    }
+  }
+}

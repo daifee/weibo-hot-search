@@ -1,6 +1,6 @@
 {
   "startTime": 1768322530118,
-  "endTime": 1768373098081,
+  "endTime": 1768373922608,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -51,8 +51,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 651772,
-      "num": 1104283,
+      "raw_hot": 700693,
+      "num": 1112110,
       "word": "美国即将正式退出世卫组织",
       "onboard_time": 1768369641,
       "rank": 37,
@@ -395,6 +395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 277158,
+      "num": 277158,
+      "word": "杨瀚森受伤",
+      "onboard_time": 1768372100,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 272805,
       "num": 272805,
       "word": "去了瑞士才懂钱包有多瘪",
@@ -403,7 +411,7 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 270403,
+      "raw_hot": 272803,
       "num": 270403,
       "word": "虞书欣云初令记录",
       "onboard_time": 1768371980,
@@ -443,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244169,
+      "num": 158844,
+      "word": "唐嫣粉裙",
+      "onboard_time": 1768373001,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231426,
       "num": 203031,
       "word": "何炅 我就说我不喜欢直播",
@@ -467,20 +483,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 216386,
+      "num": 216386,
+      "word": "又一省份取消12345热线语音导航",
+      "onboard_time": 1768371201,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216167,
       "num": 168809,
       "word": "代旭真敲过世纪钟",
       "onboard_time": 1768355603,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 213237,
-      "num": 142890,
-      "word": "又一省份取消12345热线语音导航",
-      "onboard_time": 1768371201,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 213143,
@@ -515,14 +531,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 205701,
-      "num": 205701,
-      "word": "杨瀚森受伤",
-      "onboard_time": 1768372100,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205399,
       "num": 205399,
       "word": "原神开门",
@@ -540,7 +548,7 @@
     },
     {
       "raw_hot": 201797,
-      "num": 142208,
+      "num": 158749,
       "word": "02年属马女生抢到整套马钞马币",
       "onboard_time": 1768369221,
       "rank": 28,
@@ -579,6 +587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 191744,
+      "num": 191744,
+      "word": "欢迎来到蘑菇屋",
+      "onboard_time": 1768372640,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187749,
       "num": 117589,
       "word": "吴昕妈妈曾因杜海涛怀疑比赛不正规",
@@ -593,14 +609,6 @@
       "onboard_time": 1768353440,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 185397,
-      "num": 185397,
-      "word": "欢迎来到蘑菇屋",
-      "onboard_time": 1768372640,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 183623,
@@ -691,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159668,
+      "num": 159668,
+      "word": "国漫白切黑医生姐姐你好香",
+      "onboard_time": 1768373060,
+      "rank": 18,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 158310,
       "num": 158310,
       "word": "老鹰vs湖人",
@@ -713,6 +729,14 @@
       "onboard_time": 1768346597,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 150254,
+      "num": 150254,
+      "word": "国产积木已经进化到这种水平了",
+      "onboard_time": 1768373180,
+      "rank": 24,
+      "category": "休闲"
     },
     {
       "raw_hot": 149839,
@@ -739,12 +763,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144551,
-      "num": 144551,
-      "word": "国漫白切黑医生姐姐你好香",
-      "onboard_time": 1768373060,
-      "rank": 18,
-      "category": "动漫"
+      "raw_hot": 144771,
+      "num": 144771,
+      "word": "贺娇龙单位将发布官方消息",
+      "onboard_time": 1768366403,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143964,
@@ -899,20 +923,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112390,
+      "num": 111472,
+      "word": "肖战一口流利的东北话",
+      "onboard_time": 1768373421,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 111425,
+      "num": 111425,
+      "word": "亲手把女儿和她的好朋友拆散了",
+      "onboard_time": 1768373841,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111168,
       "num": 111168,
       "word": "情侣是一种很诡异的亲密关系",
       "onboard_time": 1768362079,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 110876,
-      "num": 110876,
-      "word": "贺娇龙单位将发布官方消息",
-      "onboard_time": 1768366403,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110292,
@@ -1147,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93733,
+      "num": 93733,
+      "word": "陆江来身世",
+      "onboard_time": 1768373542,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93528,
       "num": 333757,
       "word": "小城大事收视率",
@@ -1195,6 +1235,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 91772,
+      "num": 91772,
+      "word": "苹果宣传iPhone17耐刮",
+      "onboard_time": 1768370481,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 91746,
       "num": 91746,
       "word": "王者峡谷第一赘婿",
@@ -1217,6 +1265,14 @@
       "onboard_time": 1768368440,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90845,
+      "num": 90845,
+      "word": "厦门大学悄悄给学生打了一笔钱",
+      "onboard_time": 1768372760,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 90584,
@@ -1291,6 +1347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88369,
+      "num": 88369,
+      "word": "Fly MVP",
+      "onboard_time": 1768373900,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 88130,
       "num": 88130,
       "word": "开拓者vs勇士",
@@ -1323,14 +1387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 86039,
-      "num": 86039,
-      "word": "唐嫣粉裙",
-      "onboard_time": 1768373001,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 85352,
       "num": 85352,
       "word": "网友缅怀贺娇龙",
@@ -1340,7 +1396,7 @@
     },
     {
       "raw_hot": 85315,
-      "num": 84539,
+      "num": 85228,
       "word": "酷酷的天放寡淡四部曲更新了",
       "onboard_time": 1768370180,
       "rank": 44,
@@ -1353,14 +1409,6 @@
       "onboard_time": 1768366882,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 85115,
-      "num": 85115,
-      "word": "厦门大学悄悄给学生打了一笔钱",
-      "onboard_time": 1768372760,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 84460,
@@ -1379,12 +1427,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83757,
-      "num": 83757,
-      "word": "苹果宣传iPhone17耐刮",
-      "onboard_time": 1768370481,
-      "rank": 45,
-      "category": "数码"
+      "raw_hot": 83632,
+      "num": 83632,
+      "word": "关系降级是一种自救方式",
+      "onboard_time": 1768373001,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 82185,
@@ -1401,14 +1449,6 @@
       "onboard_time": 1768302502,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 81873,
-      "num": 81873,
-      "word": "关系降级是一种自救方式",
-      "onboard_time": 1768373001,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 81516,
@@ -1436,7 +1476,7 @@
     },
     {
       "raw_hot": 79892,
-      "num": 79892,
+      "num": 83699,
       "word": "22岁姑娘在高原为国找矿",
       "onboard_time": 1768372939,
       "rank": 48,
@@ -1585,6 +1625,14 @@
       "onboard_time": 1768308322,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 67200,
+      "num": 95180,
+      "word": "同学你在食堂吃饭少的事被发现了",
+      "onboard_time": 1768373841,
+      "rank": 37,
+      "category": "正能量"
     },
     {
       "raw_hot": 66731,
@@ -1771,6 +1819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20968,
+      "num": 158920,
+      "word": "银行回应凌晨多次点外卖账户被风控",
+      "onboard_time": 1768373360,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20923,
       "num": 61235,
       "word": "王鹤棣下班前对镜拍",
@@ -1811,6 +1867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 18193,
+      "num": 93887,
+      "word": "医院回应笔试短信滞后被质疑内定",
+      "onboard_time": 1768373360,
+      "rank": 39,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 17042,
       "num": 20878,
       "word": "龚俊花影浮动大片",
@@ -1843,8 +1907,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 9287,
-      "num": 89133,
+      "raw_hot": 14057,
+      "num": 94297,
       "word": "揭秘产检正常出生畸形涉事医院",
       "onboard_time": 1768372820,
       "rank": 39,
