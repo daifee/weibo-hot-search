@@ -1,0 +1,410 @@
+{
+  "runTime": 1768369792556,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 583541,
+        "num": 1093366,
+        "word": "以色列宣布退群",
+        "onboard_time": 1768361421,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 456020,
+        "num": 766622,
+        "word": "孩子产检正常出生却畸形母亲发声",
+        "onboard_time": 1768365202,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36028,
+        "num": 618297,
+        "word": "让高效办成一件事成为寻常事",
+        "onboard_time": 1768360940,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 434064,
+        "num": 434064,
+        "word": "茶颜悦色称放久变半杯是工艺特色",
+        "onboard_time": 1768367722,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372297,
+        "num": 372297,
+        "word": "与辉同行83元3只皖西麻黄鸡引质疑",
+        "onboard_time": 1768363821,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 730376,
+        "num": 364110,
+        "word": "iPhone18Pro新爆料",
+        "onboard_time": 1768366281,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 522657,
+        "num": 348025,
+        "word": "这几天可以先不要做美甲了",
+        "onboard_time": 1768364301,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 412510,
+        "num": 340856,
+        "word": "iPhone18Pro灵动岛或变小",
+        "onboard_time": 1768366341,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 378992,
+        "num": 325368,
+        "word": "单依纯拒绝歌手2024的原因",
+        "onboard_time": 1768364122,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313727,
+        "num": 313727,
+        "word": "一餐厅几乎只服务贪官",
+        "onboard_time": 1768364061,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 441252,
+        "num": 312273,
+        "word": "以为中奖羽绒服 没想到是挂件",
+        "onboard_time": 1768367002,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 313849,
+        "num": 301286,
+        "word": "韦德关注王橹杰",
+        "onboard_time": 1768365022,
+        "rank": 11,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 226460,
+        "num": 226460,
+        "word": "赵丽颖 纪梵希",
+        "onboard_time": 1768360940,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220745,
+        "num": 220745,
+        "word": "优衣库女装男装对比",
+        "onboard_time": 1768362621,
+        "rank": 13,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 216811,
+        "num": 216811,
+        "word": "吕严回应王广删博",
+        "onboard_time": 1768363702,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214538,
+        "num": 214538,
+        "word": "官方将澄清说明贺娇龙坠马事件",
+        "onboard_time": 1768363880,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207195,
+        "num": 207195,
+        "word": "创造营卡位选手自曝长期无收入",
+        "onboard_time": 1768361661,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194447,
+        "num": 194447,
+        "word": "肖战或创金像奖年轻影帝传奇",
+        "onboard_time": 1768369521,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192398,
+        "num": 192398,
+        "word": "泰国起重机砸中火车致22死",
+        "onboard_time": 1768366822,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 189653,
+        "num": 189653,
+        "word": "CSGO",
+        "onboard_time": 1768362861,
+        "rank": 19,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 608594,
+        "num": 189563,
+        "word": "A股",
+        "onboard_time": 1768368081,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 225413,
+        "num": 189560,
+        "word": "跳水",
+        "onboard_time": 1768368200,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 189401,
+        "num": 189401,
+        "word": "活人微死原来是张子枫这么演",
+        "onboard_time": 1768369100,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176619,
+        "num": 176619,
+        "word": "44岁阿娇与43岁阿Sa同框",
+        "onboard_time": 1768367722,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141189,
+        "num": 141189,
+        "word": "女子遭丈夫家暴致残孩子称无法接受",
+        "onboard_time": 1768366523,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145400,
+        "num": 140655,
+        "word": "北京台春晚就差直接说肖战大名了",
+        "onboard_time": 1768361480,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137588,
+        "num": 137588,
+        "word": "卢昱晓 对美女从小就没抵抗力",
+        "onboard_time": 1768364901,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125559,
+        "num": 125559,
+        "word": "王楚钦首位出场",
+        "onboard_time": 1768365381,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125045,
+        "num": 125045,
+        "word": "02年属马女生抢到整套马钞马币",
+        "onboard_time": 1768369221,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120729,
+        "num": 120729,
+        "word": "朱一龙 水果报吃",
+        "onboard_time": 1768355961,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119664,
+        "num": 119664,
+        "word": "医生被控强奸两幼女案宣判",
+        "onboard_time": 1768369100,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114416,
+        "num": 114416,
+        "word": "月入一万以下最好的理财方式",
+        "onboard_time": 1768347379,
+        "rank": 31,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 112970,
+        "num": 112970,
+        "word": "何炅 我就说我不喜欢直播",
+        "onboard_time": 1768362861,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109234,
+        "num": 109234,
+        "word": "林允告黑了",
+        "onboard_time": 1768367421,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99241,
+        "num": 108003,
+        "word": "以为是一只猫结果是一辆咪",
+        "onboard_time": 1768369341,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107933,
+        "num": 107933,
+        "word": "芒果捧新人的资源",
+        "onboard_time": 1768366102,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107601,
+        "num": 107601,
+        "word": "王一珩团队回应",
+        "onboard_time": 1768368501,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98946,
+        "num": 105266,
+        "word": "美国即将正式退出世卫组织",
+        "onboard_time": 1768369641,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103825,
+        "num": 103825,
+        "word": "陈伟霆很帅但衣服穿不明白",
+        "onboard_time": 1768358241,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102164,
+        "num": 102164,
+        "word": "晏白楼下线了才迎来高光",
+        "onboard_time": 1768368860,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95589,
+        "num": 95589,
+        "word": "警犬明明看到有人摸我了",
+        "onboard_time": 1768366341,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94446,
+        "num": 94446,
+        "word": "北京台春晚",
+        "onboard_time": 1768368801,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92940,
+        "num": 92940,
+        "word": "女子因害怕路边车要求车主开走",
+        "onboard_time": 1768367602,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90012,
+        "num": 90012,
+        "word": "今年最有爆相的古偶",
+        "onboard_time": 1768368440,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89030,
+        "num": 89030,
+        "word": "重返狼群",
+        "onboard_time": 1768363222,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86876,
+        "num": 86876,
+        "word": "章泽天播客",
+        "onboard_time": 1768361602,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 85254,
+        "num": 85254,
+        "word": "猫界版的黄亦玫和周士辉",
+        "onboard_time": 1768366882,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82867,
+        "num": 82867,
+        "word": "A股全市场超4700只个股上涨",
+        "onboard_time": 1768368262,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 80910,
+        "num": 80910,
+        "word": "csgo官方关注穆祉丞",
+        "onboard_time": 1768365502,
+        "rank": 48,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 78894,
+        "num": 78894,
+        "word": "公积金制度会怎么改",
+        "onboard_time": 1768360700,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国特色反腐败之路要坚定走下去#"
+    }
+  }
+}

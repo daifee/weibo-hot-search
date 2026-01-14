@@ -1,6 +1,6 @@
 {
   "startTime": 1768322530118,
-  "endTime": 1768368807437,
+  "endTime": 1768369792556,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -33,6 +33,14 @@
       "onboard_time": 1768353739,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 730376,
+      "num": 382101,
+      "word": "iPhone18Pro新爆料",
+      "onboard_time": 1768366281,
+      "rank": 6,
+      "category": "数码"
     },
     {
       "raw_hot": 713520,
@@ -123,14 +131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 515405,
-      "num": 382101,
-      "word": "iPhone18Pro新爆料",
-      "onboard_time": 1768366281,
-      "rank": 6,
-      "category": "数码"
-    },
-    {
       "raw_hot": 505322,
       "num": 505322,
       "word": "单依纯拒绝歌手2024的原因",
@@ -155,6 +155,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 456020,
+      "num": 779048,
+      "word": "孩子产检正常出生却畸形母亲发声",
+      "onboard_time": 1768365202,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 448909,
       "num": 368759,
       "word": "第一次见恋综骂这么狠的",
@@ -171,11 +179,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 436609,
-      "num": 779048,
-      "word": "孩子产检正常出生却畸形母亲发声",
-      "onboard_time": 1768365202,
-      "rank": 33,
+      "raw_hot": 441252,
+      "num": 312273,
+      "word": "以为中奖羽绒服 没想到是挂件",
+      "onboard_time": 1768367002,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 434064,
+      "num": 434064,
+      "word": "茶颜悦色称放久变半杯是工艺特色",
+      "onboard_time": 1768367722,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -219,20 +235,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 412510,
+      "num": 340856,
+      "word": "iPhone18Pro灵动岛或变小",
+      "onboard_time": 1768366341,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 408121,
       "num": 905577,
       "word": "老婆错失年终奖老公婆婆默契补上",
       "onboard_time": 1768317681,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 407131,
-      "num": 257976,
-      "word": "以为中奖羽绒服 没想到是挂件",
-      "onboard_time": 1768367002,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 399572,
@@ -259,6 +275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 372297,
+      "num": 372297,
+      "word": "与辉同行83元3只皖西麻黄鸡引质疑",
+      "onboard_time": 1768363821,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 367370,
       "num": 131541,
       "word": "迅猛龙 小澈",
@@ -276,7 +300,7 @@
     },
     {
       "raw_hot": 347764,
-      "num": 255858,
+      "num": 301286,
       "word": "韦德关注王橹杰",
       "onboard_time": 1768365022,
       "rank": 44,
@@ -289,14 +313,6 @@
       "onboard_time": 1768358241,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 323560,
-      "num": 323560,
-      "word": "iPhone18Pro灵动岛或变小",
-      "onboard_time": 1768366341,
-      "rank": 7,
-      "category": "数码"
     },
     {
       "raw_hot": 301894,
@@ -347,14 +363,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 261997,
-      "num": 261997,
-      "word": "与辉同行83元3只皖西麻黄鸡引质疑",
-      "onboard_time": 1768363821,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 261051,
       "num": 130923,
       "word": "何晴儿子头像仍为全黑",
@@ -393,6 +401,14 @@
       "onboard_time": 1768362861,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225413,
+      "num": 202550,
+      "word": "跳水",
+      "onboard_time": 1768368200,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 225036,
@@ -467,14 +483,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 202550,
-      "num": 202550,
-      "word": "跳水",
-      "onboard_time": 1768368200,
-      "rank": 21,
-      "category": "财经"
-    },
-    {
       "raw_hot": 198744,
       "num": 198744,
       "word": "44岁阿娇与43岁阿Sa同框",
@@ -491,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194447,
+      "num": 194447,
+      "word": "肖战或创金像奖年轻影帝传奇",
+      "onboard_time": 1768369521,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194032,
       "num": 194032,
       "word": "KPL春季赛",
@@ -505,6 +521,14 @@
       "onboard_time": 1768363702,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 189401,
+      "num": 189401,
+      "word": "活人微死原来是张子枫这么演",
+      "onboard_time": 1768369100,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 187749,
@@ -587,14 +611,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 165669,
-      "num": 202628,
-      "word": "茶颜悦色称放久变半杯是工艺特色",
-      "onboard_time": 1768367722,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 163244,
       "num": 163244,
       "word": "LV活动大合照",
@@ -665,6 +681,14 @@
       "onboard_time": 1768347379,
       "rank": 37,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 141189,
+      "num": 141189,
+      "word": "女子遭丈夫家暴致残孩子称无法接受",
+      "onboard_time": 1768366523,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139913,
@@ -747,6 +771,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 125559,
+      "num": 125559,
+      "word": "王楚钦首位出场",
+      "onboard_time": 1768365381,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 125045,
+      "num": 125045,
+      "word": "02年属马女生抢到整套马钞马币",
+      "onboard_time": 1768369221,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124503,
       "num": 124503,
       "word": "寿司郎 黄牛号",
@@ -755,20 +795,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124113,
-      "num": 124113,
-      "word": "女子遭丈夫家暴致残孩子称无法接受",
-      "onboard_time": 1768366523,
-      "rank": 27,
+      "raw_hot": 119664,
+      "num": 119664,
+      "word": "医生被控强奸两幼女案宣判",
+      "onboard_time": 1768369100,
+      "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118882,
-      "num": 118882,
-      "word": "王楚钦首位出场",
-      "onboard_time": 1768365381,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 115936,
@@ -843,6 +875,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 107601,
+      "num": 107601,
+      "word": "王一珩团队回应",
+      "onboard_time": 1768368501,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107549,
       "num": 107549,
       "word": "福宝的肚肚真是一口一口吃出来的",
@@ -880,6 +920,14 @@
       "word": "一个师门出3个大情种",
       "onboard_time": 1768362740,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 102164,
+      "num": 102164,
+      "word": "晏白楼下线了才迎来高光",
+      "onboard_time": 1768368860,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -931,6 +979,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 99241,
+      "num": 108003,
+      "word": "以为是一只猫结果是一辆咪",
+      "onboard_time": 1768369341,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 98946,
+      "num": 105266,
+      "word": "美国即将正式退出世卫组织",
+      "onboard_time": 1768369641,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 97972,
       "num": 114867,
       "word": "落马官员近千平米别墅内景",
@@ -979,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94446,
+      "num": 94446,
+      "word": "北京台春晚",
+      "onboard_time": 1768368801,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94338,
       "num": 94338,
       "word": "钟楚曦生图最严厉的母亲",
@@ -992,14 +1064,6 @@
       "word": "何晴儿子称许亚军给自己莫大支持",
       "onboard_time": 1768312343,
       "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 93703,
-      "num": 93703,
-      "word": "王一珩团队回应",
-      "onboard_time": 1768368501,
-      "rank": 42,
       "category": "艺人"
     },
     {
@@ -1017,6 +1081,14 @@
       "onboard_time": 1768365502,
       "rank": 43,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 92940,
+      "num": 92940,
+      "word": "女子因害怕路边车要求车主开走",
+      "onboard_time": 1768367602,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92869,
@@ -1075,20 +1147,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90012,
+      "num": 99955,
+      "word": "今年最有爆相的古偶",
+      "onboard_time": 1768368440,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89872,
       "num": 94321,
       "word": "原神哥伦比娅",
       "onboard_time": 1768361602,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 89611,
-      "num": 89611,
-      "word": "女子因害怕路边车要求车主开走",
-      "onboard_time": 1768367602,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89309,
@@ -1171,6 +1243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85254,
+      "num": 85254,
+      "word": "猫界版的黄亦玫和周士辉",
+      "onboard_time": 1768366882,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 84460,
       "num": 84460,
       "word": "黄牛这把你真给我整不会了",
@@ -1217,14 +1297,6 @@
       "onboard_time": 1768357641,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 80193,
-      "num": 99955,
-      "word": "今年最有爆相的古偶",
-      "onboard_time": 1768368440,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 79673,

@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768368807437,
+  "endTime": 1768369792556,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -449,6 +449,14 @@
       "onboard_time": 1768184358,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 730376,
+      "num": 382101,
+      "word": "iPhone18Pro新爆料",
+      "onboard_time": 1768366281,
+      "rank": 6,
+      "category": "数码"
     },
     {
       "raw_hot": 728925,
@@ -963,14 +971,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 515405,
-      "num": 382101,
-      "word": "iPhone18Pro新爆料",
-      "onboard_time": 1768366281,
-      "rank": 6,
-      "category": "数码"
-    },
-    {
       "raw_hot": 513702,
       "num": 277856,
       "word": "刘嘉玲接受章泽天采访家中装修曝光",
@@ -1251,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 456020,
+      "num": 779048,
+      "word": "孩子产检正常出生却畸形母亲发声",
+      "onboard_time": 1768365202,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 451713,
       "num": 399299,
       "word": "陈妍希周柯宇红秀",
@@ -1315,6 +1323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 441252,
+      "num": 312273,
+      "word": "以为中奖羽绒服 没想到是挂件",
+      "onboard_time": 1768367002,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 439558,
       "num": 814235,
       "word": "一起来看流星雨",
@@ -1347,20 +1363,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 436609,
-      "num": 779048,
-      "word": "孩子产检正常出生却畸形母亲发声",
-      "onboard_time": 1768365202,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 434413,
       "num": 434413,
       "word": "赵今麦告别聂曦光",
       "onboard_time": 1768125141,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 434064,
+      "num": 434064,
+      "word": "茶颜悦色称放久变半杯是工艺特色",
+      "onboard_time": 1768367722,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 433867,
@@ -1483,6 +1499,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 412510,
+      "num": 340856,
+      "word": "iPhone18Pro灵动岛或变小",
+      "onboard_time": 1768366341,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 412025,
       "num": 222073,
       "word": "王鹤棣宋茜王嘉尔周冬雨手挽手",
@@ -1521,14 +1545,6 @@
       "onboard_time": 1768054403,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 407131,
-      "num": 257976,
-      "word": "以为中奖羽绒服 没想到是挂件",
-      "onboard_time": 1768367002,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 407095,
@@ -1747,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 372297,
+      "num": 372297,
+      "word": "与辉同行83元3只皖西麻黄鸡引质疑",
+      "onboard_time": 1768363821,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 371586,
       "num": 371586,
       "word": "肖战担任国乒副总教练",
@@ -1916,7 +1940,7 @@
     },
     {
       "raw_hot": 347764,
-      "num": 255858,
+      "num": 301286,
       "word": "韦德关注王橹杰",
       "onboard_time": 1768365022,
       "rank": 44,
@@ -2105,14 +2129,6 @@
       "onboard_time": 1768314743,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 323560,
-      "num": 323560,
-      "word": "iPhone18Pro灵动岛或变小",
-      "onboard_time": 1768366341,
-      "rank": 7,
-      "category": "数码"
     },
     {
       "raw_hot": 322839,
@@ -2699,14 +2715,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 261997,
-      "num": 261997,
-      "word": "与辉同行83元3只皖西麻黄鸡引质疑",
-      "onboard_time": 1768363821,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 261051,
       "num": 186377,
       "word": "何晴儿子头像仍为全黑",
@@ -3131,6 +3139,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 225413,
+      "num": 202550,
+      "word": "跳水",
+      "onboard_time": 1768368200,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 224092,
       "num": 167799,
       "word": "高市早苗对李在明尖声喊您好",
@@ -3507,14 +3523,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 202550,
-      "num": 202550,
-      "word": "跳水",
-      "onboard_time": 1768368200,
-      "rank": 21,
-      "category": "财经"
-    },
-    {
       "raw_hot": 202356,
       "num": 158280,
       "word": "杨洋人没来但亲签来了",
@@ -3673,6 +3681,14 @@
       "onboard_time": 1768321759,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194447,
+      "num": 194447,
+      "word": "肖战或创金像奖年轻影帝传奇",
+      "onboard_time": 1768369521,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 194385,
@@ -3873,6 +3889,14 @@
       "onboard_time": 1768278983,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189401,
+      "num": 189401,
+      "word": "活人微死原来是张子枫这么演",
+      "onboard_time": 1768369100,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 189067,
@@ -4537,14 +4561,6 @@
       "onboard_time": 1768259719,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 165669,
-      "num": 202628,
-      "word": "茶颜悦色称放久变半杯是工艺特色",
-      "onboard_time": 1768367722,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 165601,
@@ -5411,6 +5427,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 141189,
+      "num": 141189,
+      "word": "女子遭丈夫家暴致残孩子称无法接受",
+      "onboard_time": 1768366523,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141039,
       "num": 116319,
       "word": "沈梦辰说何炅是自己最大的安全感",
@@ -6203,11 +6227,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125559,
+      "num": 125559,
+      "word": "王楚钦首位出场",
+      "onboard_time": 1768365381,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125303,
       "num": 128801,
       "word": "违规穿越鳌太线5人因分歧拆成3股",
       "onboard_time": 1768200741,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125045,
+      "num": 125045,
+      "word": "02年属马女生抢到整套马钞马币",
+      "onboard_time": 1768369221,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -6249,14 +6289,6 @@
       "onboard_time": 1768316482,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 124113,
-      "num": 124113,
-      "word": "女子遭丈夫家暴致残孩子称无法接受",
-      "onboard_time": 1768366523,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124083,
@@ -6499,6 +6531,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 119664,
+      "num": 119664,
+      "word": "医生被控强奸两幼女案宣判",
+      "onboard_time": 1768369100,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119649,
       "num": 119649,
       "word": "赵长江感谢比亚迪经历",
@@ -6537,14 +6577,6 @@
       "onboard_time": 1768300582,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 118882,
-      "num": 118882,
-      "word": "王楚钦首位出场",
-      "onboard_time": 1768365381,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 118785,
@@ -7403,6 +7435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107601,
+      "num": 107601,
+      "word": "王一珩团队回应",
+      "onboard_time": 1768368501,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107549,
       "num": 107549,
       "word": "福宝的肚肚真是一口一口吃出来的",
@@ -7915,6 +7955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102164,
+      "num": 102164,
+      "word": "晏白楼下线了才迎来高光",
+      "onboard_time": 1768368860,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102148,
       "num": 112605,
       "word": "张凌赫招蜂引蝶",
@@ -8171,6 +8219,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 99241,
+      "num": 108003,
+      "word": "以为是一只猫结果是一辆咪",
+      "onboard_time": 1768369341,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99192,
       "num": 99192,
       "word": "李莎旻子被华晨宇的不重逢击中了",
@@ -8193,6 +8249,14 @@
       "onboard_time": 1768196961,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98946,
+      "num": 105266,
+      "word": "美国即将正式退出世卫组织",
+      "onboard_time": 1768369641,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 98934,
@@ -8571,6 +8635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94446,
+      "num": 94446,
+      "word": "北京台春晚",
+      "onboard_time": 1768368801,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94338,
       "num": 94338,
       "word": "钟楚曦生图最严厉的母亲",
@@ -8601,14 +8673,6 @@
       "onboard_time": 1768124119,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93703,
-      "num": 93703,
-      "word": "王一珩团队回应",
-      "onboard_time": 1768368501,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 93587,
@@ -8665,6 +8729,14 @@
       "onboard_time": 1768229302,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 92940,
+      "num": 92940,
+      "word": "女子因害怕路边车要求车主开走",
+      "onboard_time": 1768367602,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92886,
@@ -8955,6 +9027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90012,
+      "num": 99955,
+      "word": "今年最有爆相的古偶",
+      "onboard_time": 1768368440,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89872,
       "num": 94321,
       "word": "原神哥伦比娅",
@@ -8969,14 +9049,6 @@
       "onboard_time": 1768221262,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 89611,
-      "num": 89611,
-      "word": "女子因害怕路边车要求车主开走",
-      "onboard_time": 1768367602,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89580,
@@ -9353,6 +9425,14 @@
       "onboard_time": 1768111821,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85254,
+      "num": 85254,
+      "word": "猫界版的黄亦玫和周士辉",
+      "onboard_time": 1768366882,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 85084,
@@ -9745,14 +9825,6 @@
       "onboard_time": 1768098920,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 80193,
-      "num": 99955,
-      "word": "今年最有爆相的古偶",
-      "onboard_time": 1768368440,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 80148,
