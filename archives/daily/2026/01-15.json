@@ -1,7 +1,15 @@
 {
   "startTime": 1768408888455,
-  "endTime": 1768409872614,
+  "endTime": 1768412145040,
   "band_list": [
+    {
+      "raw_hot": 2401677,
+      "num": 287004,
+      "word": "贺娇龙抢救无效不幸离世",
+      "onboard_time": 1768409658,
+      "rank": 13,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 2032182,
       "num": 162079,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 384874,
-      "num": 474397,
+      "num": 628429,
       "word": "马年春晚",
       "onboard_time": 1768402162,
       "rank": 3,
@@ -83,6 +91,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 196309,
+      "num": 196309,
+      "word": "彭十六偷税案",
+      "onboard_time": 1768378881,
+      "rank": 21,
+      "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 168833,
+      "num": 168833,
+      "word": "AI查贪官准确率相当高",
+      "onboard_time": 1768409238,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168295,
       "num": 168295,
       "word": "申论分好低",
@@ -115,14 +139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133243,
-      "num": 133243,
-      "word": "彭十六偷税案",
-      "onboard_time": 1768378881,
-      "rank": 21,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 112237,
       "num": 112237,
       "word": "彭十六偷税216.32万元",
@@ -152,14 +168,6 @@
       "word": "90后医生强奸2幼女父亲曾为其辩护",
       "onboard_time": 1768386681,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104989,
-      "num": 117406,
-      "word": "贺娇龙抢救无效不幸离世",
-      "onboard_time": 1768409658,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -203,11 +211,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 74144,
-      "num": 74144,
-      "word": "AI查贪官准确率相当高",
-      "onboard_time": 1768409238,
-      "rank": 23,
+      "raw_hot": 73179,
+      "num": 52409,
+      "word": "撞见前任和闺蜜共处女子坠楼致瘫",
+      "onboard_time": 1768410317,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -339,6 +347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 54619,
+      "num": 54619,
+      "word": "把钱藏海外的贪官栽了",
+      "onboard_time": 1768409539,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 53928,
       "num": 53928,
       "word": "张函瑞 拜拜了大蘑菇头",
@@ -395,20 +411,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 49489,
-      "num": 51088,
-      "word": "把钱藏海外的贪官栽了",
-      "onboard_time": 1768409539,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 49094,
       "num": 53914,
       "word": "携程跌近17%",
       "onboard_time": 1768402643,
       "rank": 46,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 48601,
+      "num": 51125,
+      "word": "常州一警务室里开警茶店",
+      "onboard_time": 1768409598,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48071,
@@ -427,18 +443,34 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32295,
-      "num": 51125,
-      "word": "常州一警务室里开警茶店",
-      "onboard_time": 1768409598,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 37529,
+      "num": 37529,
+      "word": "银价继续上涨创新高",
+      "onboard_time": 1768411997,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 30270,
+      "num": 37077,
+      "word": "雷军提醒不要轻易关闭ESP",
+      "onboard_time": 1768411997,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 15445,
       "num": 456322,
       "word": "8图看经济工作8大重点任务攻坚",
       "onboard_time": 1768397421,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 10279,
+      "num": 361030,
+      "word": "一图速览2025年进出口情况",
+      "onboard_time": 1768397062,
       "rank": 2,
       "category": "国内时政"
     }

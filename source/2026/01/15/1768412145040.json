@@ -1,0 +1,410 @@
+{
+  "runTime": 1768412145040,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 292377,
+        "num": 628429,
+        "word": "马年春晚",
+        "onboard_time": 1768402162,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238050,
+        "num": 468872,
+        "word": "美国将暂停对75个国家的所有签证",
+        "onboard_time": 1768403241,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 10279,
+        "num": 361030,
+        "word": "一图速览2025年进出口情况",
+        "onboard_time": 1768397062,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2401677,
+        "num": 287004,
+        "word": "贺娇龙抢救无效不幸离世",
+        "onboard_time": 1768409658,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199759,
+        "num": 199759,
+        "word": "镖人",
+        "onboard_time": 1768407079,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196309,
+        "num": 196309,
+        "word": "彭十六偷税案",
+        "onboard_time": 1768378881,
+        "rank": 5,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 168833,
+        "num": 168833,
+        "word": "AI查贪官准确率相当高",
+        "onboard_time": 1768409238,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155751,
+        "num": 155751,
+        "word": "花海晒聊天记录",
+        "onboard_time": 1768397181,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126458,
+        "num": 126458,
+        "word": "国考成绩",
+        "onboard_time": 1768394242,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121716,
+        "num": 121716,
+        "word": "携程涉嫌垄断",
+        "onboard_time": 1768378102,
+        "rank": 9,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 1256420,
+        "num": 109935,
+        "word": "韦德",
+        "onboard_time": 1768408280,
+        "rank": 10,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 350807,
+        "num": 109563,
+        "word": "杨幂 见面会",
+        "onboard_time": 1768404802,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86750,
+        "num": 86750,
+        "word": "当街抢小孩女子已被警方带走",
+        "onboard_time": 1768405041,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69585,
+        "num": 69585,
+        "word": "死了么APP征名奖励666元",
+        "onboard_time": 1768404082,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 67463,
+        "num": 67463,
+        "word": "彭十六偷税216.32万元",
+        "onboard_time": 1768380440,
+        "rank": 14,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 64834,
+        "num": 64834,
+        "word": "彭十六个人账户累计收款905万",
+        "onboard_time": 1768389441,
+        "rank": 15,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 60959,
+        "num": 60959,
+        "word": "陈星旭卢昱晓剧里互吻剧外互关",
+        "onboard_time": 1768405460,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57310,
+        "num": 57310,
+        "word": "申论分好低",
+        "onboard_time": 1768397661,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 54619,
+        "num": 54619,
+        "word": "把钱藏海外的贪官栽了",
+        "onboard_time": 1768409539,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 53862,
+        "num": 53862,
+        "word": "龚俊因左眼下新长了颗痣而开心",
+        "onboard_time": 1768388541,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73179,
+        "num": 52409,
+        "word": "撞见前任和闺蜜共处女子坠楼致瘫",
+        "onboard_time": 1768410317,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57893,
+        "num": 51335,
+        "word": "90后医生强奸2幼女父亲曾为其辩护",
+        "onboard_time": 1768386681,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50219,
+        "num": 50219,
+        "word": "成都网红发起刨猪宴临时取消引争议",
+        "onboard_time": 1768402401,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48601,
+        "num": 48601,
+        "word": "常州一警务室里开警茶店",
+        "onboard_time": 1768409598,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45288,
+        "num": 45288,
+        "word": "网友评林志玲面相变了",
+        "onboard_time": 1768381521,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44196,
+        "num": 44196,
+        "word": "彭十六 盛世天下",
+        "onboard_time": 1768384400,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 43679,
+        "num": 43679,
+        "word": "原来苏翊鸣10岁就和佟丽娅演过电影",
+        "onboard_time": 1768405341,
+        "rank": 26,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 42250,
+        "num": 42250,
+        "word": "杨紫新剧人设太顶了",
+        "onboard_time": 1768393760,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41738,
+        "num": 41738,
+        "word": "我的朋友安德烈",
+        "onboard_time": 1768407918,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41502,
+        "num": 41502,
+        "word": "认错肖战的大哥大姐像演小品",
+        "onboard_time": 1768394181,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40420,
+        "num": 40420,
+        "word": "DYG战胜狼队",
+        "onboard_time": 1768393942,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 39872,
+        "num": 39872,
+        "word": "行测",
+        "onboard_time": 1768404082,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 39693,
+        "num": 39693,
+        "word": "浙江用AI抓出贪官",
+        "onboard_time": 1768401503,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 39266,
+        "num": 39266,
+        "word": "盛世天下",
+        "onboard_time": 1768385600,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 39107,
+        "num": 39107,
+        "word": "马嘉祺读粉丝来信哭了",
+        "onboard_time": 1768398021,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37731,
+        "num": 37731,
+        "word": "国考",
+        "onboard_time": 1768385362,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 37529,
+        "num": 37529,
+        "word": "银价继续上涨创新高",
+        "onboard_time": 1768411997,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 37436,
+        "num": 37436,
+        "word": "美军机沿伊朗边界飞行",
+        "onboard_time": 1768395742,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37080,
+        "num": 37080,
+        "word": "贺峻霖悉尼",
+        "onboard_time": 1768394841,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35606,
+        "num": 37080,
+        "word": "一诺解说",
+        "onboard_time": 1768398082,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 33355,
+        "num": 37079,
+        "word": "伊朗开展外交活动争取支持",
+        "onboard_time": 1768395082,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33200,
+        "num": 37079,
+        "word": "桃黑黑烟花秀",
+        "onboard_time": 1768394361,
+        "rank": 41,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 32669,
+        "num": 37078,
+        "word": "邓恩熙姐感",
+        "onboard_time": 1768405280,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31629,
+        "num": 37078,
+        "word": "张函瑞 拜拜了大蘑菇头",
+        "onboard_time": 1768401622,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31093,
+        "num": 37078,
+        "word": "鸡蛋配不上番茄了吗",
+        "onboard_time": 1768407918,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30800,
+        "num": 37078,
+        "word": "80多家央企负责人薪酬公开",
+        "onboard_time": 1768396642,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 30484,
+        "num": 37078,
+        "word": "曝皇马三大球星反对阿隆索",
+        "onboard_time": 1768408460,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30270,
+        "num": 37077,
+        "word": "雷军提醒不要轻易关闭ESP",
+        "onboard_time": 1768411997,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 28782,
+        "num": 37077,
+        "word": "小猫也会因为早恋被训斥",
+        "onboard_time": 1768404740,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28634,
+        "num": 37077,
+        "word": "张子枫张新成新剧从发小到恶语相向",
+        "onboard_time": 1768404261,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届中央纪委五次全会公报#"
+    }
+  }
+}
