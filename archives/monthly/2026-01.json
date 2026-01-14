@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768383461619,
+  "endTime": 1768384324263,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -353,6 +353,14 @@
       "onboard_time": 1767661942,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1472597,
+      "num": 1472597,
+      "word": "彭十六",
+      "onboard_time": 1768380440,
+      "rank": 6,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 1469509,
@@ -1019,14 +1027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 899485,
-      "num": 899485,
-      "word": "彭十六",
-      "onboard_time": 1768380440,
-      "rank": 6,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 898363,
       "num": 626145,
       "word": "尚公主",
@@ -1420,7 +1420,7 @@
     },
     {
       "raw_hot": 776979,
-      "num": 285190,
+      "num": 335092,
       "word": "春晚已经不好笑到好笑的程度了",
       "onboard_time": 1768378881,
       "rank": 18,
@@ -1643,6 +1643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 725868,
+      "num": 694581,
+      "word": "携程 杀熟",
+      "onboard_time": 1768380501,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 725384,
       "num": 267165,
       "word": "厦门一5岁男童小区内遇害",
@@ -1681,14 +1689,6 @@
       "onboard_time": 1768133361,
       "rank": 20,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 716310,
-      "num": 694581,
-      "word": "携程 杀熟",
-      "onboard_time": 1768380501,
-      "rank": 23,
-      "category": "互联网"
     },
     {
       "raw_hot": 714958,
@@ -2651,6 +2651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 572413,
+      "num": 572413,
+      "word": "携程回应被查",
+      "onboard_time": 1768382601,
+      "rank": 6,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 572347,
       "num": 574508,
       "word": "爱吃自助餐小蛋糕的天塌了",
@@ -2729,14 +2737,6 @@
       "onboard_time": 1767621203,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 561981,
-      "num": 561981,
-      "word": "携程回应被查",
-      "onboard_time": 1768382601,
-      "rank": 6,
-      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 561656,
@@ -3201,6 +3201,14 @@
       "onboard_time": 1768042700,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 523733,
+      "num": 167143,
+      "word": "周杰伦澳网",
+      "onboard_time": 1768380501,
+      "rank": 36,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 523641,
@@ -4219,6 +4227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 461671,
+      "num": 159590,
+      "word": "微博之夜 集体婚礼",
+      "onboard_time": 1768382601,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 461243,
       "num": 969189,
       "word": "重庆飞三亚航班紧急返航乘客发声",
@@ -4563,6 +4579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 444803,
+      "num": 615268,
+      "word": "男子拍摄近视眼女友站岗爆火",
+      "onboard_time": 1768381762,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 444586,
       "num": 444586,
       "word": "马杜罗没能进入安全空间",
@@ -4857,14 +4881,6 @@
       "onboard_time": 1767869901,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 427044,
-      "num": 167143,
-      "word": "周杰伦澳网",
-      "onboard_time": 1768380501,
-      "rank": 36,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 426547,
@@ -5857,6 +5873,14 @@
       "onboard_time": 1767502883,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 372445,
+      "num": 158048,
+      "word": "周杰伦澳网一轮游",
+      "onboard_time": 1768382961,
+      "rank": 27,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 372346,
@@ -7539,14 +7563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 311979,
-      "num": 159590,
-      "word": "微博之夜 集体婚礼",
-      "onboard_time": 1768382601,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 311765,
       "num": 197328,
       "word": "蔡依林方严正声明",
@@ -7681,14 +7697,6 @@
       "onboard_time": 1767449605,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 306541,
-      "num": 306541,
-      "word": "男子拍摄近视眼女友站岗爆火",
-      "onboard_time": 1768381762,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 306054,
@@ -9483,6 +9491,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 257905,
+      "num": 257905,
+      "word": "极品饭灵根真的出现了",
+      "onboard_time": 1768381103,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 257383,
       "num": 267621,
       "word": "宇树科技上市绿色通道被叫停",
@@ -9497,6 +9513,14 @@
       "onboard_time": 1768132101,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 257143,
+      "num": 159107,
+      "word": "37岁坚持化妆200天的变化",
+      "onboard_time": 1768380921,
+      "rank": 25,
+      "category": "美妆"
     },
     {
       "raw_hot": 256749,
@@ -10331,14 +10355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 234765,
-      "num": 234765,
-      "word": "极品饭灵根真的出现了",
-      "onboard_time": 1768381103,
-      "rank": 11,
-      "category": "美食"
-    },
-    {
       "raw_hot": 234729,
       "num": 201446,
       "word": "说话含糊 言语霸凌",
@@ -10617,6 +10633,14 @@
       "onboard_time": 1768124060,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 229030,
+      "num": 229030,
+      "word": "马云前助理陈伟被曝去世",
+      "onboard_time": 1768383621,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 228635,
@@ -11475,14 +11499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 213261,
-      "num": 158048,
-      "word": "周杰伦澳网一轮游",
-      "onboard_time": 1768382961,
-      "rank": 27,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 213249,
       "num": 519243,
       "word": "看完这一集不敢喝排骨汤了",
@@ -11793,14 +11809,6 @@
       "onboard_time": 1767410549,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207673,
-      "num": 159107,
-      "word": "37岁坚持化妆200天的变化",
-      "onboard_time": 1768380921,
-      "rank": 25,
-      "category": "美妆"
     },
     {
       "raw_hot": 207555,
@@ -12329,6 +12337,14 @@
       "onboard_time": 1768140203,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199748,
+      "num": 199748,
+      "word": "银价彻底杀疯了",
+      "onboard_time": 1768378161,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 199707,
@@ -15483,14 +15499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168079,
-      "num": 168079,
-      "word": "银价彻底杀疯了",
-      "onboard_time": 1768378161,
-      "rank": 25,
-      "category": "财经"
-    },
-    {
       "raw_hot": 167963,
       "num": 167963,
       "word": "刘宇宁新年第一播",
@@ -17923,6 +17931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148142,
+      "num": 148142,
+      "word": "主人称装死小羊再高价也不卖",
+      "onboard_time": 1768380862,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148122,
       "num": 148122,
       "word": "杨超越这样低头都没有双下巴",
@@ -19003,14 +19019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140828,
-      "num": 140828,
-      "word": "主人称装死小羊再高价也不卖",
-      "onboard_time": 1768380862,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140786,
       "num": 130857,
       "word": "何晴儿子长文缅怀母亲",
@@ -19489,6 +19497,14 @@
       "onboard_time": 1768217783,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138078,
+      "num": 138078,
+      "word": "MLB回应抽奖中羽绒服结果收到挂件",
+      "onboard_time": 1768383202,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138055,
@@ -22915,6 +22931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120551,
+      "num": 120551,
+      "word": "王者妲己新皮肤爆料",
+      "onboard_time": 1768380921,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120523,
       "num": 120523,
       "word": "刚向生活低头生活就让我下跪",
@@ -23489,14 +23513,6 @@
       "onboard_time": 1768318220,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117598,
-      "num": 117598,
-      "word": "王者妲己新皮肤爆料",
-      "onboard_time": 1768380921,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 117594,
@@ -24553,14 +24569,6 @@
       "onboard_time": 1767431725,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113504,
-      "num": 113504,
-      "word": "MLB回应抽奖中羽绒服结果收到挂件",
-      "onboard_time": 1768383202,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113415,
@@ -30579,6 +30587,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 92818,
+      "num": 104278,
+      "word": "玉茗茶骨曹骏要出场了",
+      "onboard_time": 1768379962,
+      "rank": 39,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 92788,
       "num": 97940,
       "word": "萧亚轩回应人生进入下半场",
@@ -32235,6 +32251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 87660,
+      "num": 87660,
+      "word": "第一次在鱼身上看到了难哄",
+      "onboard_time": 1768383501,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87652,
       "num": 241167,
       "word": "王源说不知道为何都让我脱掉",
@@ -32537,6 +32561,14 @@
       "onboard_time": 1768043060,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86901,
+      "num": 86901,
+      "word": "成人间的暧昧信息",
+      "onboard_time": 1768384101,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 86860,
@@ -33473,6 +33505,14 @@
       "onboard_time": 1767879561,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 83795,
+      "num": 83795,
+      "word": "越长大越害怕过年了",
+      "onboard_time": 1768384220,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 83794,
@@ -36385,14 +36425,6 @@
       "onboard_time": 1767921680,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 71830,
-      "num": 104278,
-      "word": "玉茗茶骨曹骏要出场了",
-      "onboard_time": 1768379962,
-      "rank": 39,
-      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 71825,
@@ -40171,6 +40203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47918,
+      "num": 92921,
+      "word": "42岁唐嫣状态",
+      "onboard_time": 1768384041,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47856,
       "num": 314407,
       "word": "新年第1天放飞和平鸽",
@@ -43675,6 +43715,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 25192,
+      "num": 93579,
+      "word": "金晨给欧阳娜娜捂肩",
+      "onboard_time": 1768383501,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25124,
       "num": 62383,
       "word": "刘宇宁这完全是going",
@@ -44425,6 +44473,14 @@
       "onboard_time": 1767758542,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20660,
+      "num": 167166,
+      "word": "当事人独家回应评标被除名事件",
+      "onboard_time": 1768382901,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20614,
@@ -45240,14 +45296,6 @@
       "word": "2025四川新生儿叫锦程雨桐最多",
       "onboard_time": 1767364524,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10019,
-      "num": 167166,
-      "word": "当事人独家回应评标被除名事件",
-      "onboard_time": 1768382901,
-      "rank": 19,
       "category": "民生新闻"
     },
     {

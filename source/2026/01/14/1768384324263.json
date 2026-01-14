@@ -1,0 +1,410 @@
+{
+  "runTime": 1768384324263,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1472597,
+        "num": 1472597,
+        "word": "彭十六",
+        "onboard_time": 1768380440,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 1091403,
+        "num": 1091403,
+        "word": "携程涉嫌垄断",
+        "onboard_time": 1768378102,
+        "rank": 1,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 46462,
+        "num": 700773,
+        "word": "中国汽车产销量再创历史新高",
+        "onboard_time": 1768378102,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 725868,
+        "num": 681118,
+        "word": "携程 杀熟",
+        "onboard_time": 1768380501,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 444803,
+        "num": 615268,
+        "word": "男子拍摄近视眼女友站岗爆火",
+        "onboard_time": 1768381762,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 572413,
+        "num": 572413,
+        "word": "携程回应被查",
+        "onboard_time": 1768382601,
+        "rank": 5,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 511501,
+        "num": 511501,
+        "word": "40一盒和400一盒草莓的区别",
+        "onboard_time": 1768377380,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 412076,
+        "num": 412076,
+        "word": "彭十六偷税案",
+        "onboard_time": 1768378881,
+        "rank": 7,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 390553,
+        "num": 390553,
+        "word": "曾经很火但消失了的茶饮",
+        "onboard_time": 1768375100,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 353174,
+        "num": 353174,
+        "word": "携程",
+        "onboard_time": 1768378521,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 733323,
+        "num": 335092,
+        "word": "春晚已经不好笑到好笑的程度了",
+        "onboard_time": 1768378881,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257905,
+        "num": 257905,
+        "word": "极品饭灵根真的出现了",
+        "onboard_time": 1768381103,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 229030,
+        "num": 229030,
+        "word": "马云前助理陈伟被曝去世",
+        "onboard_time": 1768383621,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203551,
+        "num": 203551,
+        "word": "iPhone18Pro新爆料",
+        "onboard_time": 1768366281,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 199748,
+        "num": 199748,
+        "word": "银价彻底杀疯了",
+        "onboard_time": 1768378161,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 180425,
+        "num": 180425,
+        "word": "彭十六已被禁言",
+        "onboard_time": 1768380620,
+        "rank": 15,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 170345,
+        "num": 170345,
+        "word": "韩国女孩被逼婚出逃上海",
+        "onboard_time": 1768376780,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 155716,
+        "num": 155716,
+        "word": "贵妃出浴裸露争议点不应是雅不雅",
+        "onboard_time": 1768381222,
+        "rank": 17,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 152067,
+        "num": 152067,
+        "word": "携程跌超9%",
+        "onboard_time": 1768379781,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 151403,
+        "num": 151403,
+        "word": "荣耀之战",
+        "onboard_time": 1768380801,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 523733,
+        "num": 151016,
+        "word": "周杰伦澳网",
+        "onboard_time": 1768380501,
+        "rank": 20,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 257143,
+        "num": 150565,
+        "word": "37岁坚持化妆200天的变化",
+        "onboard_time": 1768380921,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 461671,
+        "num": 150256,
+        "word": "微博之夜 集体婚礼",
+        "onboard_time": 1768382601,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 287193,
+        "num": 149582,
+        "word": "网友评林志玲面相变了",
+        "onboard_time": 1768381521,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149492,
+        "num": 149492,
+        "word": "建议关闭微信的支付后摇一摇功能",
+        "onboard_time": 1768380081,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 372445,
+        "num": 149037,
+        "word": "周杰伦澳网一轮游",
+        "onboard_time": 1768382961,
+        "rank": 25,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 173703,
+        "num": 148868,
+        "word": "迪丽热巴这段自我介绍完播率100%",
+        "onboard_time": 1768377200,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148142,
+        "num": 148142,
+        "word": "主人称装死小羊再高价也不卖",
+        "onboard_time": 1768380862,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138078,
+        "num": 138078,
+        "word": "MLB回应抽奖中羽绒服结果收到挂件",
+        "onboard_time": 1768383202,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120551,
+        "num": 120551,
+        "word": "王者妲己新皮肤爆料",
+        "onboard_time": 1768380921,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119547,
+        "num": 119547,
+        "word": "澳网",
+        "onboard_time": 1768382841,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117005,
+        "num": 117005,
+        "word": "虞书欣这十八秒我已经听入戏了",
+        "onboard_time": 1768375460,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109220,
+        "num": 109220,
+        "word": "LPL",
+        "onboard_time": 1768382661,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108241,
+        "num": 108241,
+        "word": "2026国考上岸",
+        "onboard_time": 1768379480,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 107465,
+        "num": 107465,
+        "word": "但愿人长久 张晚意沈月",
+        "onboard_time": 1768379000,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103820,
+        "num": 103820,
+        "word": "唐嫣粉裙",
+        "onboard_time": 1768373001,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99422,
+        "num": 99422,
+        "word": "男子按猪被踢致截瘫邀约者判赔52万",
+        "onboard_time": 1768374621,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97047,
+        "num": 97047,
+        "word": "你是蒋奇明那他是谁",
+        "onboard_time": 1768381701,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25192,
+        "num": 93579,
+        "word": "金晨给欧阳娜娜捂肩",
+        "onboard_time": 1768383501,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47918,
+        "num": 92921,
+        "word": "42岁唐嫣状态",
+        "onboard_time": 1768384041,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20660,
+        "num": 92829,
+        "word": "当事人独家回应评标被除名事件",
+        "onboard_time": 1768382901,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92818,
+        "num": 92818,
+        "word": "玉茗茶骨曹骏要出场了",
+        "onboard_time": 1768379962,
+        "rank": 41,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 87660,
+        "num": 87660,
+        "word": "第一次在鱼身上看到了难哄",
+        "onboard_time": 1768383501,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86901,
+        "num": 86901,
+        "word": "成人间的暧昧信息",
+        "onboard_time": 1768384101,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85447,
+        "num": 85447,
+        "word": "杜兰特回应吴艳妮",
+        "onboard_time": 1768379781,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84372,
+        "num": 84372,
+        "word": "WBG对战iG",
+        "onboard_time": 1768382422,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 84363,
+        "num": 84363,
+        "word": "王广吕严合照已经有cos了",
+        "onboard_time": 1768375639,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83795,
+        "num": 83795,
+        "word": "越长大越害怕过年了",
+        "onboard_time": 1768384220,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77583,
+        "num": 77583,
+        "word": "云合",
+        "onboard_time": 1768379962,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77384,
+        "num": 77384,
+        "word": "花300万逼男友离婚同居一年起诉返还",
+        "onboard_time": 1768374980,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记推进全面从严治党最新部署#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768383461619,
+  "endTime": 1768384324263,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -145,6 +145,14 @@
       "onboard_time": 1768208120,
       "rank": 40,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 1472597,
+      "num": 1472597,
+      "word": "彭十六",
+      "onboard_time": 1768380440,
+      "rank": 6,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 1352396,
@@ -323,14 +331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 899485,
-      "num": 899485,
-      "word": "彭十六",
-      "onboard_time": 1768380440,
-      "rank": 6,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 888305,
       "num": 277939,
       "word": "陈楚河承认恋情",
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 776979,
-      "num": 285190,
+      "num": 335092,
       "word": "春晚已经不好笑到好笑的程度了",
       "onboard_time": 1768378881,
       "rank": 18,
@@ -507,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 725868,
+      "num": 694581,
+      "word": "携程 杀熟",
+      "onboard_time": 1768380501,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 720604,
       "num": 251626,
       "word": "拍婚纱照偶遇陈哲远后续",
@@ -529,14 +537,6 @@
       "onboard_time": 1768133361,
       "rank": 20,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 716310,
-      "num": 694581,
-      "word": "携程 杀熟",
-      "onboard_time": 1768380501,
-      "rank": 23,
-      "category": "互联网"
     },
     {
       "raw_hot": 714958,
@@ -899,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 572413,
+      "num": 572413,
+      "word": "携程回应被查",
+      "onboard_time": 1768382601,
+      "rank": 6,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 571282,
       "num": 1091405,
       "word": "烟台暴雪下冒烟了",
@@ -945,14 +953,6 @@
       "onboard_time": 1768314263,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 561981,
-      "num": 561981,
-      "word": "携程回应被查",
-      "onboard_time": 1768382601,
-      "rank": 6,
-      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 561656,
@@ -1025,6 +1025,14 @@
       "onboard_time": 1768201761,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 523733,
+      "num": 167143,
+      "word": "周杰伦澳网",
+      "onboard_time": 1768380501,
+      "rank": 36,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 523641,
@@ -1323,6 +1331,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 461671,
+      "num": 159590,
+      "word": "微博之夜 集体婚礼",
+      "onboard_time": 1768382601,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 459355,
       "num": 232835,
       "word": "比单休更恶心的是月休4天",
@@ -1417,6 +1433,14 @@
       "onboard_time": 1768112901,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 444803,
+      "num": 615268,
+      "word": "男子拍摄近视眼女友站岗爆火",
+      "onboard_time": 1768381762,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 442994,
@@ -1537,14 +1561,6 @@
       "onboard_time": 1768364061,
       "rank": 38,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 427044,
-      "num": 167143,
-      "word": "周杰伦澳网",
-      "onboard_time": 1768380501,
-      "rank": 36,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 424570,
@@ -1889,6 +1905,14 @@
       "onboard_time": 1768286180,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 372445,
+      "num": 158048,
+      "word": "周杰伦澳网一轮游",
+      "onboard_time": 1768382961,
+      "rank": 27,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 372297,
@@ -2427,14 +2451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 311979,
-      "num": 159590,
-      "word": "微博之夜 集体婚礼",
-      "onboard_time": 1768382601,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 311717,
       "num": 486705,
       "word": "肖战网文排名前五演了四个",
@@ -2481,14 +2497,6 @@
       "onboard_time": 1768374741,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 306541,
-      "num": 306541,
-      "word": "男子拍摄近视眼女友站岗爆火",
-      "onboard_time": 1768381762,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 306054,
@@ -2987,12 +2995,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 257905,
+      "num": 257905,
+      "word": "极品饭灵根真的出现了",
+      "onboard_time": 1768381103,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 257363,
       "num": 257363,
       "word": "赖伟明千字长文告别庄序",
       "onboard_time": 1768132101,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 257143,
+      "num": 159107,
+      "word": "37岁坚持化妆200天的变化",
+      "onboard_time": 1768380921,
+      "rank": 25,
+      "category": "美妆"
     },
     {
       "raw_hot": 256266,
@@ -3283,14 +3307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 234765,
-      "num": 234765,
-      "word": "极品饭灵根真的出现了",
-      "onboard_time": 1768381103,
-      "rank": 11,
-      "category": "美食"
-    },
-    {
       "raw_hot": 234240,
       "num": 234240,
       "word": "山东威海下了倾盆大瓢雪",
@@ -3385,6 +3401,14 @@
       "onboard_time": 1768124060,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 229030,
+      "num": 229030,
+      "word": "马云前助理陈伟被曝去世",
+      "onboard_time": 1768383621,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 227001,
@@ -3643,14 +3667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 213261,
-      "num": 158048,
-      "word": "周杰伦澳网一轮游",
-      "onboard_time": 1768382961,
-      "rank": 27,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 213143,
       "num": 213143,
       "word": "女子遭丈夫掐脖致残后床头放斧头",
@@ -3737,14 +3753,6 @@
       "onboard_time": 1768298361,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 207673,
-      "num": 159107,
-      "word": "37岁坚持化妆200天的变化",
-      "onboard_time": 1768380921,
-      "rank": 25,
-      "category": "美妆"
     },
     {
       "raw_hot": 207188,
@@ -3881,6 +3889,14 @@
       "onboard_time": 1768140203,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199748,
+      "num": 199748,
+      "word": "银价彻底杀疯了",
+      "onboard_time": 1768378161,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 199667,
@@ -4843,14 +4859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168079,
-      "num": 168079,
-      "word": "银价彻底杀疯了",
-      "onboard_time": 1768378161,
-      "rank": 25,
-      "category": "财经"
-    },
-    {
       "raw_hot": 167764,
       "num": 776105,
       "word": "朱雨玲4比2韩莹",
@@ -5467,6 +5475,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 151403,
+      "num": 151403,
+      "word": "荣耀之战",
+      "onboard_time": 1768380801,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 151304,
       "num": 627279,
       "word": "蒯曼vs陈幸同",
@@ -5632,6 +5648,14 @@
       "word": "鸭鸭羽绒服回应衣服双标双码",
       "onboard_time": 1768347318,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148142,
+      "num": 148142,
+      "word": "主人称装死小羊再高价也不卖",
+      "onboard_time": 1768380862,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -5915,14 +5939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140828,
-      "num": 140828,
-      "word": "主人称装死小羊再高价也不卖",
-      "onboard_time": 1768380862,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140786,
       "num": 130857,
       "word": "何晴儿子长文缅怀母亲",
@@ -6011,14 +6027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139451,
-      "num": 139451,
-      "word": "荣耀之战",
-      "onboard_time": 1768380801,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 139419,
       "num": 139419,
       "word": "狗主人已接受高校提供的经济补偿",
@@ -6057,6 +6065,14 @@
       "onboard_time": 1768217783,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138078,
+      "num": 138078,
+      "word": "MLB回应抽奖中羽绒服结果收到挂件",
+      "onboard_time": 1768383202,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137969,
@@ -7011,6 +7027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120551,
+      "num": 120551,
+      "word": "王者妲己新皮肤爆料",
+      "onboard_time": 1768380921,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120523,
       "num": 120523,
       "word": "刚向生活低头生活就让我下跪",
@@ -7217,14 +7241,6 @@
       "onboard_time": 1768318220,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117598,
-      "num": 117598,
-      "word": "王者妲己新皮肤爆料",
-      "onboard_time": 1768380921,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 117458,
@@ -7569,14 +7585,6 @@
       "onboard_time": 1768131259,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113504,
-      "num": 113504,
-      "word": "MLB回应抽奖中羽绒服结果收到挂件",
-      "onboard_time": 1768383202,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113415,
@@ -9451,6 +9459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 92818,
+      "num": 104278,
+      "word": "玉茗茶骨曹骏要出场了",
+      "onboard_time": 1768379962,
+      "rank": 39,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 92683,
       "num": 92683,
       "word": "蒋敦豪张小婉在打劫时又唱又跳",
@@ -9947,6 +9963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 87660,
+      "num": 87660,
+      "word": "第一次在鱼身上看到了难哄",
+      "onboard_time": 1768383501,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87619,
       "num": 87619,
       "word": "王俊凯练舞练到腿淤青",
@@ -10033,6 +10057,14 @@
       "onboard_time": 1768280842,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 86901,
+      "num": 86901,
+      "word": "成人间的暧昧信息",
+      "onboard_time": 1768384101,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 86691,
@@ -10265,6 +10297,14 @@
       "onboard_time": 1768287501,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 83795,
+      "num": 83795,
+      "word": "越长大越害怕过年了",
+      "onboard_time": 1768384220,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 83632,
@@ -11153,14 +11193,6 @@
       "onboard_time": 1768122140,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71830,
-      "num": 104278,
-      "word": "玉茗茶骨曹骏要出场了",
-      "onboard_time": 1768379962,
-      "rank": 39,
-      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 71699,
@@ -12067,6 +12099,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 47918,
+      "num": 92921,
+      "word": "42岁唐嫣状态",
+      "onboard_time": 1768384041,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47880,
       "num": 195449,
       "word": "新员工咬掉老员工鼻子被判刑",
@@ -12971,6 +13011,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 25192,
+      "num": 93579,
+      "word": "金晨给欧阳娜娜捂肩",
+      "onboard_time": 1768383501,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25124,
       "num": 62383,
       "word": "刘宇宁这完全是going",
@@ -13209,6 +13257,14 @@
       "onboard_time": 1768128200,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 20660,
+      "num": 167166,
+      "word": "当事人独家回应评标被除名事件",
+      "onboard_time": 1768382901,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20596,
@@ -13513,14 +13569,6 @@
       "onboard_time": 1768211480,
       "rank": 39,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 10019,
-      "num": 167166,
-      "word": "当事人独家回应评标被除名事件",
-      "onboard_time": 1768382901,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9496,
