@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768413206531,
+  "endTime": 1768416210918,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -4155,6 +4155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208320,
+      "num": 208320,
+      "word": "贺娇龙所有直播打赏均用于公益事业",
+      "onboard_time": 1768412595,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207991,
       "num": 306996,
       "word": "去糖最快的运动",
@@ -5648,14 +5656,6 @@
       "word": "中国科学家发现基因封条",
       "onboard_time": 1768105400,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161015,
-      "num": 161015,
-      "word": "贺娇龙所有直播打赏均用于公益事业",
-      "onboard_time": 1768412595,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -12315,6 +12315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73062,
+      "num": 57721,
+      "word": "贺娇龙5天前曾发视频聊汗血马",
+      "onboard_time": 1768412416,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72806,
       "num": 72806,
       "word": "合川文旅发长文感谢各界朋友",
@@ -13041,14 +13049,6 @@
       "onboard_time": 1768115841,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 57721,
-      "num": 57721,
-      "word": "贺娇龙5天前曾发视频聊汗血马",
-      "onboard_time": 1768412416,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57439,
@@ -14587,6 +14587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20716,
+      "num": 20716,
+      "word": "秋雪漫过的冬天",
+      "onboard_time": 1768407259,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 20677,
       "num": 145818,
       "word": "泰国快艇与渔船相撞致1死20余伤",
@@ -14665,6 +14673,14 @@
       "onboard_time": 1768334594,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19385,
+      "num": 19385,
+      "word": "檀健次DEADREFLEX预热",
+      "onboard_time": 1768410078,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 19312,
