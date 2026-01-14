@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768396581133,
+  "endTime": 1768398621679,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 1075672,
-      "num": 253743,
+      "num": 260102,
       "word": "母亲躲藏致女儿心源性休克身亡",
       "onboard_time": 1768392561,
       "rank": 10,
@@ -385,6 +385,14 @@
       "onboard_time": 1768393942,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 862020,
+      "num": 257640,
+      "word": "河南一教师与学生发生不正当关系",
+      "onboard_time": 1768395320,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 857288,
@@ -923,14 +931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 581278,
-      "num": 244044,
-      "word": "河南一教师与学生发生不正当关系",
-      "onboard_time": 1768395320,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 580191,
       "num": 781327,
       "word": "轧戏剧组道歉",
@@ -1104,6 +1104,14 @@
       "word": "时代峰峻致歉王橹杰",
       "onboard_time": 1768116262,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 538097,
+      "num": 254180,
+      "word": "贺峻霖悉尼",
+      "onboard_time": 1768394841,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -1403,14 +1411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 465831,
-      "num": 243428,
-      "word": "贺峻霖悉尼",
-      "onboard_time": 1768394841,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 464279,
       "num": 464279,
       "word": "国产积木已经进化到这种水平了",
@@ -1608,6 +1608,14 @@
       "word": "QQ音乐超级会员代言人",
       "onboard_time": 1768190060,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 439156,
+      "num": 196691,
+      "word": "网友评林志玲面相变了",
+      "onboard_time": 1768381521,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -2091,6 +2099,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 366080,
+      "num": 252667,
+      "word": "佟丽娅连续三年收到苏翊鸣的滑板",
+      "onboard_time": 1768396701,
+      "rank": 13,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 365363,
       "num": 365363,
       "word": "国乒丢冠的根本原因",
@@ -2113,6 +2129,14 @@
       "onboard_time": 1768269861,
       "rank": 25,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 361961,
+      "num": 361961,
+      "word": "申论",
+      "onboard_time": 1768395920,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 360513,
@@ -2145,6 +2169,14 @@
       "onboard_time": 1768137142,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 357199,
+      "num": 357199,
+      "word": "国考 没有进面的风险",
+      "onboard_time": 1768395860,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 356671,
@@ -2273,6 +2305,14 @@
       "onboard_time": 1768371320,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 343010,
+      "num": 343010,
+      "word": "申论分好低",
+      "onboard_time": 1768397661,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 342748,
@@ -2475,14 +2515,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 320640,
-      "num": 177216,
-      "word": "网友评林志玲面相变了",
-      "onboard_time": 1768381521,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 319699,
       "num": 227671,
       "word": "左眼跳财右眼跳相信科学",
@@ -2644,7 +2676,7 @@
     },
     {
       "raw_hot": 304952,
-      "num": 232717,
+      "num": 266803,
       "word": "你那儿几点 王安宇周也",
       "onboard_time": 1768389320,
       "rank": 15,
@@ -2777,14 +2809,6 @@
       "onboard_time": 1768295182,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 290795,
-      "num": 290795,
-      "word": "申论",
-      "onboard_time": 1768395920,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 290136,
@@ -3132,7 +3156,7 @@
     },
     {
       "raw_hot": 262747,
-      "num": 150023,
+      "num": 154686,
       "word": "龚俊因左眼下新长了颗痣而开心",
       "onboard_time": 1768388541,
       "rank": 27,
@@ -3233,6 +3257,14 @@
       "onboard_time": 1768173858,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 255168,
+      "num": 193198,
+      "word": "花海晒聊天记录",
+      "onboard_time": 1768397181,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 254832,
@@ -3393,14 +3425,6 @@
       "onboard_time": 1768212921,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 245266,
-      "num": 245266,
-      "word": "国考 没有进面的风险",
-      "onboard_time": 1768395860,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 244362,
@@ -3657,6 +3681,14 @@
       "onboard_time": 1768127179,
       "rank": 46,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 225273,
+      "num": 225273,
+      "word": "国考系统 进不去",
+      "onboard_time": 1768396281,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 224092,
@@ -3979,6 +4011,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211106,
+      "num": 211106,
+      "word": "WB对战AG",
+      "onboard_time": 1768397181,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 208066,
+      "num": 208066,
+      "word": "代旭 我是配角怎敢吃醋",
+      "onboard_time": 1768397720,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207991,
       "num": 306996,
       "word": "去糖最快的运动",
@@ -4107,12 +4155,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201042,
+      "num": 201042,
+      "word": "马嘉祺读粉丝来信哭了",
+      "onboard_time": 1768398021,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200980,
       "num": 200980,
       "word": "麻六记的酸辣粉为何卖不动了",
       "onboard_time": 1768105341,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 200443,
+      "num": 200443,
+      "word": "U23国足0比0泰国U23",
+      "onboard_time": 1768397962,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 200139,
@@ -4475,6 +4539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189132,
+      "num": 189132,
+      "word": "上岸",
+      "onboard_time": 1768398200,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 189067,
       "num": 150930,
       "word": "邢菲古早韩妹味",
@@ -4747,14 +4819,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 181038,
-      "num": 168166,
-      "word": "国考系统 进不去",
-      "onboard_time": 1768396281,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 180802,
       "num": 180802,
       "word": "高晓松因为医疗事故有了双眼皮",
@@ -4849,6 +4913,14 @@
       "onboard_time": 1768115661,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 178587,
+      "num": 200534,
+      "word": "宋亚轩拍了拍宋亚轩",
+      "onboard_time": 1768397360,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 178149,
@@ -5328,6 +5400,14 @@
       "word": "U23国足领先澳大利亚",
       "onboard_time": 1768135043,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162663,
+      "num": 162663,
+      "word": "U23男足晋级淘汰赛",
+      "onboard_time": 1768398200,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -6003,6 +6083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148786,
+      "num": 148786,
+      "word": "U23亚洲杯",
+      "onboard_time": 1768394242,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148741,
       "num": 134984,
       "word": "白鹿晒与粉丝合影live",
@@ -6041,6 +6129,14 @@
       "onboard_time": 1768387400,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 147800,
+      "num": 147800,
+      "word": "疑似张颂文不演狂流了",
+      "onboard_time": 1768397842,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 147694,
@@ -6153,6 +6249,14 @@
       "onboard_time": 1768376480,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 145210,
+      "num": 145210,
+      "word": "当你发现可以这样夹头发时",
+      "onboard_time": 1768397842,
+      "rank": 35,
+      "category": "美妆"
     },
     {
       "raw_hot": 144925,
@@ -6435,6 +6539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138694,
+      "num": 138694,
+      "word": "美军机沿伊朗边界飞行",
+      "onboard_time": 1768395742,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 138451,
       "num": 130961,
       "word": "刘昊然这人夫感",
@@ -6667,6 +6779,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134745,
+      "num": 134745,
+      "word": "U23男足创造历史",
+      "onboard_time": 1768398323,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134560,
       "num": 121143,
       "word": "杜兰特回应吴艳妮",
@@ -6825,6 +6945,22 @@
       "onboard_time": 1768301421,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131193,
+      "num": 131193,
+      "word": "U23国足vs泰国U23",
+      "onboard_time": 1768389141,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131131,
+      "num": 131131,
+      "word": "u23国足亚洲杯小组出线",
+      "onboard_time": 1768398562,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 130967,
@@ -7017,6 +7153,14 @@
       "onboard_time": 1768259658,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 127803,
+      "num": 127803,
+      "word": "80多家央企负责人薪酬公开",
+      "onboard_time": 1768396642,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 127644,
@@ -7403,6 +7547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121959,
+      "num": 121959,
+      "word": "伊朗开展外交活动争取支持",
+      "onboard_time": 1768395082,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 121953,
       "num": 121953,
       "word": "FENDI上海快闪活动",
@@ -7417,6 +7569,22 @@
       "onboard_time": 1768262059,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 121796,
+      "num": 121796,
+      "word": "一诺解说",
+      "onboard_time": 1768398082,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 121703,
+      "num": 121703,
+      "word": "iPhone微信自带美颜功能设置",
+      "onboard_time": 1768396762,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 121418,
@@ -8153,14 +8321,6 @@
       "onboard_time": 1768295541,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 112515,
-      "num": 112515,
-      "word": "伊朗开展外交活动争取支持",
-      "onboard_time": 1768395082,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 112390,
@@ -9121,14 +9281,6 @@
       "onboard_time": 1768294822,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102451,
-      "num": 102451,
-      "word": "U23国足vs泰国U23",
-      "onboard_time": 1768389141,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 102282,
@@ -10529,6 +10681,14 @@
       "onboard_time": 1768316542,
       "rank": 44,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 88293,
+      "num": 127440,
+      "word": "钎城太C了",
+      "onboard_time": 1768396880,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 88220,
@@ -13259,6 +13419,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 34359,
+      "num": 230148,
+      "word": "热雪新年转出奇迹",
+      "onboard_time": 1768395920,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34179,
       "num": 85623,
       "word": "死了么APP用户数翻800倍",
@@ -13427,20 +13595,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30921,
-      "num": 230148,
-      "word": "热雪新年转出奇迹",
-      "onboard_time": 1768395920,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 30866,
       "num": 101332,
       "word": "张钧甯从金桔到菠萝包",
       "onboard_time": 1768151896,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 30520,
+      "num": 815151,
+      "word": "8图看经济工作8大重点任务攻坚",
+      "onboard_time": 1768397421,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 29956,
@@ -14353,6 +14521,9 @@
     },
     {
       "word": "#中国特色反腐败之路要坚定走下去#"
+    },
+    {
+      "word": "#二十届中央纪委五次全会公报#"
     }
   ]
 }

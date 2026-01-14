@@ -1,6 +1,6 @@
 {
   "startTime": 1768322530118,
-  "endTime": 1768396581133,
+  "endTime": 1768398621679,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1075672,
-      "num": 253743,
+      "num": 260102,
       "word": "母亲躲藏致女儿心源性休克身亡",
       "onboard_time": 1768392561,
       "rank": 10,
@@ -105,6 +105,14 @@
       "onboard_time": 1768393942,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 862020,
+      "num": 257640,
+      "word": "河南一教师与学生发生不正当关系",
+      "onboard_time": 1768395320,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 857288,
@@ -235,14 +243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 581278,
-      "num": 244044,
-      "word": "河南一教师与学生发生不正当关系",
-      "onboard_time": 1768395320,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 579447,
       "num": 219078,
       "word": "彭十六 盛世天下",
@@ -307,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 538097,
+      "num": 254180,
+      "word": "贺峻霖悉尼",
+      "onboard_time": 1768394841,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 523733,
       "num": 167143,
       "word": "周杰伦澳网",
@@ -344,14 +352,6 @@
       "word": "金晨 没有烂饼都是好饼",
       "onboard_time": 1768394361,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 465831,
-      "num": 243428,
-      "word": "贺峻霖悉尼",
-      "onboard_time": 1768394841,
-      "rank": 14,
       "category": "艺人"
     },
     {
@@ -457,6 +457,14 @@
       "onboard_time": 1768375761,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 439156,
+      "num": 196691,
+      "word": "网友评林志玲面相变了",
+      "onboard_time": 1768381521,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 434064,
@@ -579,12 +587,36 @@
       "category": "网红"
     },
     {
+      "raw_hot": 366080,
+      "num": 252667,
+      "word": "佟丽娅连续三年收到苏翊鸣的滑板",
+      "onboard_time": 1768396701,
+      "rank": 13,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 361961,
+      "num": 361961,
+      "word": "申论",
+      "onboard_time": 1768395920,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 358948,
       "num": 172223,
       "word": "西安华清池贵妃裸体出浴雕像引争议",
       "onboard_time": 1768304721,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 357199,
+      "num": 357199,
+      "word": "国考 没有进面的风险",
+      "onboard_time": 1768395860,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 354434,
@@ -609,6 +641,14 @@
       "onboard_time": 1768371320,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 343010,
+      "num": 343010,
+      "word": "申论分好低",
+      "onboard_time": 1768397661,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 342748,
@@ -643,14 +683,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 320640,
-      "num": 177216,
-      "word": "网友评林志玲面相变了",
-      "onboard_time": 1768381521,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 307647,
       "num": 170272,
       "word": "金鸡白玉兰得主居然演短剧了",
@@ -660,7 +692,7 @@
     },
     {
       "raw_hot": 304952,
-      "num": 232717,
+      "num": 266803,
       "word": "你那儿几点 王安宇周也",
       "onboard_time": 1768389320,
       "rank": 15,
@@ -697,14 +729,6 @@
       "onboard_time": 1768348699,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 290795,
-      "num": 290795,
-      "word": "申论",
-      "onboard_time": 1768395920,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 289882,
@@ -804,7 +828,7 @@
     },
     {
       "raw_hot": 262747,
-      "num": 150023,
+      "num": 154686,
       "word": "龚俊因左眼下新长了颗痣而开心",
       "onboard_time": 1768388541,
       "rank": 27,
@@ -843,6 +867,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 255168,
+      "num": 193198,
+      "word": "花海晒聊天记录",
+      "onboard_time": 1768397181,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 250319,
       "num": 192959,
       "word": "月入一万以下最好的理财方式",
@@ -865,14 +897,6 @@
       "onboard_time": 1768373900,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 245266,
-      "num": 245266,
-      "word": "国考 没有进面的风险",
-      "onboard_time": 1768395860,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 244362,
@@ -929,6 +953,14 @@
       "onboard_time": 1768379781,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 225273,
+      "num": 225273,
+      "word": "国考系统 进不去",
+      "onboard_time": 1768396281,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 225036,
@@ -1003,6 +1035,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 211106,
+      "num": 211106,
+      "word": "WB对战AG",
+      "onboard_time": 1768397181,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 208066,
+      "num": 208066,
+      "word": "代旭 我是配角怎敢吃醋",
+      "onboard_time": 1768397720,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207123,
       "num": 207123,
       "word": "BBC报道死了么APP",
@@ -1059,6 +1107,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201042,
+      "num": 201042,
+      "word": "马嘉祺读粉丝来信哭了",
+      "onboard_time": 1768398021,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 200443,
+      "num": 200443,
+      "word": "U23国足0比0泰国U23",
+      "onboard_time": 1768397962,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194476,
       "num": 132367,
       "word": "刘嘉玲遗憾没有像样代表作",
@@ -1113,6 +1177,14 @@
       "onboard_time": 1768372640,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189132,
+      "num": 189132,
+      "word": "上岸",
+      "onboard_time": 1768398200,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 187749,
@@ -1179,14 +1251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181038,
-      "num": 168166,
-      "word": "国考系统 进不去",
-      "onboard_time": 1768396281,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 180474,
       "num": 560409,
       "word": "2026国考成绩查询",
@@ -1201,6 +1265,14 @@
       "onboard_time": 1768389801,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178587,
+      "num": 200534,
+      "word": "宋亚轩拍了拍宋亚轩",
+      "onboard_time": 1768397360,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 177861,
@@ -1321,6 +1393,14 @@
       "onboard_time": 1768315763,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 162663,
+      "num": 162663,
+      "word": "U23男足晋级淘汰赛",
+      "onboard_time": 1768398200,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 161659,
@@ -1499,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148786,
+      "num": 148786,
+      "word": "U23亚洲杯",
+      "onboard_time": 1768394242,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148737,
       "num": 148737,
       "word": "鸭鸭羽绒服回应衣服双标双码",
@@ -1523,6 +1611,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 147800,
+      "num": 147800,
+      "word": "疑似张颂文不演狂流了",
+      "onboard_time": 1768397842,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146425,
       "num": 146425,
       "word": "多方回应59岁产子能否领育儿补贴",
@@ -1545,6 +1641,14 @@
       "onboard_time": 1768376480,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 145210,
+      "num": 145210,
+      "word": "当你发现可以这样夹头发时",
+      "onboard_time": 1768397842,
+      "rank": 35,
+      "category": "美妆"
     },
     {
       "raw_hot": 143964,
@@ -1593,6 +1697,14 @@
       "onboard_time": 1768326915,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138694,
+      "num": 138694,
+      "word": "美军机沿伊朗边界飞行",
+      "onboard_time": 1768395742,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 138493,
@@ -1667,6 +1779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 134745,
+      "num": 134745,
+      "word": "U23男足创造历史",
+      "onboard_time": 1768398323,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134560,
       "num": 121143,
       "word": "杜兰特回应吴艳妮",
@@ -1723,6 +1843,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 131193,
+      "num": 131193,
+      "word": "U23国足vs泰国U23",
+      "onboard_time": 1768389141,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131131,
+      "num": 131131,
+      "word": "u23国足亚洲杯小组出线",
+      "onboard_time": 1768398562,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129862,
       "num": 117285,
       "word": "美国批准向中国出口英伟达H200芯片",
@@ -1737,6 +1873,14 @@
       "onboard_time": 1768360761,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127803,
+      "num": 127803,
+      "word": "80多家央企负责人薪酬公开",
+      "onboard_time": 1768396642,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 127425,
@@ -1819,12 +1963,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 121959,
+      "num": 121959,
+      "word": "伊朗开展外交活动争取支持",
+      "onboard_time": 1768395082,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 121953,
       "num": 121953,
       "word": "FENDI上海快闪活动",
       "onboard_time": 1768377081,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 121796,
+      "num": 121796,
+      "word": "一诺解说",
+      "onboard_time": 1768398082,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 121703,
+      "num": 121703,
+      "word": "iPhone微信自带美颜功能设置",
+      "onboard_time": 1768396762,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 120551,
@@ -1945,14 +2113,6 @@
       "onboard_time": 1768393460,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112515,
-      "num": 112515,
-      "word": "伊朗开展外交活动争取支持",
-      "onboard_time": 1768395082,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 112390,
@@ -2153,14 +2313,6 @@
       "onboard_time": 1768362740,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102451,
-      "num": 102451,
-      "word": "U23国足vs泰国U23",
-      "onboard_time": 1768389141,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 102164,
@@ -2609,6 +2761,14 @@
       "onboard_time": 1768365082,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88293,
+      "num": 127440,
+      "word": "钎城太C了",
+      "onboard_time": 1768396880,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 88130,
@@ -3171,6 +3331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34359,
+      "num": 230148,
+      "word": "热雪新年转出奇迹",
+      "onboard_time": 1768395920,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34179,
       "num": 85623,
       "word": "死了么APP用户数翻800倍",
@@ -3203,12 +3371,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30921,
-      "num": 230148,
-      "word": "热雪新年转出奇迹",
-      "onboard_time": 1768395920,
-      "rank": 17,
-      "category": "体育"
+      "raw_hot": 30520,
+      "num": 815151,
+      "word": "8图看经济工作8大重点任务攻坚",
+      "onboard_time": 1768397421,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 29743,
@@ -3412,6 +3580,9 @@
     },
     {
       "word": "#总书记推进全面从严治党最新部署#"
+    },
+    {
+      "word": "#二十届中央纪委五次全会公报#"
     }
   ]
 }

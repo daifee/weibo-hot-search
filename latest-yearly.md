@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/14 21:16:21
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/14 21:50:21
 </p>
 </blockquote>
 <p>
@@ -863,6 +863,12 @@ DYG战胜狼队（热度：867183）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A4%90%E9%A6%86%E5%86%85%E6%AD%BB%E4%BA%A113%E5%B2%81%E7%94%B7%E5%AD%A9%E7%88%B6%E6%AF%8D%E6%99%BA%E5%8A%9B%E6%AE%8B%E7%96%BE%23" target="weibo">
 餐馆内死亡13岁男孩父母智力残疾（热度：866623）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E6%95%99%E5%B8%88%E4%B8%8E%E5%AD%A6%E7%94%9F%E5%8F%91%E7%94%9F%E4%B8%8D%E6%AD%A3%E5%BD%93%E5%85%B3%E7%B3%BB%23" target="weibo">
+河南一教师与学生发生不正当关系（热度：862020）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ CSGO（热度：630992）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%80%9A%E4%B8%80%E5%8C%BB%E9%99%A2%E9%85%BF%E4%B8%80%E7%BA%A7%E7%94%B2%E7%AD%89%E5%8C%BB%E7%96%97%E4%BA%8B%E6%95%85%23" target="weibo">
 南通一医院酿一级甲等医疗事故（热度：603107）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%80%8E%E4%B9%88%E4%BA%86%23" target="weibo">
-委内瑞拉怎么了（热度：601729）
 </a>
 </li>
 
