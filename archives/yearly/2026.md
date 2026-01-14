@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/14 15:47:07
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/14 16:40:46
 </p>
 </blockquote>
 <p>
@@ -173,6 +173,12 @@ Asen回应Sakee（热度：2704539）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E7%94%B5%E8%A7%86%E5%89%A7%E8%87%B4%E6%AD%89%23" target="weibo">
 爱奇艺电视剧致歉（热度：1998587）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%90%BA%E7%A8%8B%E6%B6%89%E5%AB%8C%E5%9E%84%E6%96%AD%23" target="weibo">
+携程涉嫌垄断（热度：1962844）
 </a>
 </li>
 
@@ -717,6 +723,12 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E7%BB%8F%E5%BE%88%E7%81%AB%E4%BD%86%E6%B6%88%E5%A4%B1%E4%BA%86%E7%9A%84%E8%8C%B6%E9%A5%AE%23" target="weibo">
+曾经很火但消失了的茶饮（热度：917005）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%BA%E7%A5%A8%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4%23" target="weibo">
 机票价格大跳水（热度：915244）
 </a>
@@ -917,12 +929,6 @@ iPhone18Pro新爆料（热度：826962）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%AA%9B%E5%AA%9B%E5%87%BA%E5%9C%BA%23" target="weibo">
 朱媛媛出场（热度：820085）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E7%BB%8F%E5%BE%88%E7%81%AB%E4%BD%86%E6%B6%88%E5%A4%B1%E4%BA%86%E7%9A%84%E8%8C%B6%E9%A5%AE%23" target="weibo">
-曾经很火但消失了的茶饮（热度：817645）
 </a>
 </li>
 
@@ -1365,6 +1371,12 @@ A股（热度：713520）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E5%8D%81%E5%85%AD%E5%81%B7%E7%A8%8E%E6%A1%88%23" target="weibo">
+彭十六偷税案（热度：678528）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%944%E9%9F%A9%E8%8E%B9%23" target="weibo">
 王曼昱3比4韩莹（热度：674768）
 </a>
@@ -1743,6 +1755,12 @@ CSGO（热度：630992）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%90%BA%E7%A8%8B%23" target="weibo">
+携程（热度：601392）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8F%B0%E8%AF%8D%23" target="weibo">
 赵丽颖台词（热度：600605）
 </a>
@@ -1793,24 +1811,6 @@ CSGO（热度：630992）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%AB%E5%AD%A6%E6%99%B6%E5%84%BF%E5%AD%90%E8%AF%B4%E5%AF%B9%E4%B8%8D%E8%B5%B7%23" target="weibo">
 闫学晶儿子说对不起（热度：592079）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%90%A7%E4%BA%9A%E8%BD%A9%E5%89%8D%E7%94%B7%E5%8F%8B%E9%BB%84%E7%9A%93%E5%AE%98%E5%AE%A3%E4%BA%8C%E8%83%8E%23" target="weibo">
-萧亚轩前男友黄皓官宣二胎（热度：591393）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E7%AB%A5%E5%90%8315%E9%A2%97%E8%BD%A6%E5%8E%98%E5%AD%90%E6%82%A3%E6%80%A5%E6%80%A7%E8%82%A0%E8%83%83%E7%82%8E%23" target="weibo">
-幼童吃15颗车厘子患急性肠胃炎（热度：591379）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%B4%E5%A5%97%E9%A9%AC%E9%92%9E%E4%BB%B7%E6%A0%BC%E5%B7%B2%E8%A2%AB%E7%82%92%E5%88%B02000%E5%85%83%23" target="weibo">
-整套马钞价格已被炒到2000元（热度：590944）
 </a>
 </li>
 

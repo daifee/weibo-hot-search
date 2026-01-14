@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768376827489,
+  "endTime": 1768380046956,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -73,6 +73,14 @@
       "onboard_time": 1768049061,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1962844,
+      "num": 1962844,
+      "word": "携程涉嫌垄断",
+      "onboard_time": 1768378102,
+      "rank": 0,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 1932998,
@@ -283,6 +291,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 917005,
+      "num": 917005,
+      "word": "曾经很火但消失了的茶饮",
+      "onboard_time": 1768375100,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 910443,
       "num": 174135,
       "word": "王广删博",
@@ -353,14 +369,6 @@
       "onboard_time": 1768366281,
       "rank": 6,
       "category": "数码"
-    },
-    {
-      "raw_hot": 817645,
-      "num": 562311,
-      "word": "曾经很火但消失了的茶饮",
-      "onboard_time": 1768375100,
-      "rank": 3,
-      "category": "美食"
     },
     {
       "raw_hot": 816335,
@@ -555,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 678528,
+      "num": 267326,
+      "word": "彭十六偷税案",
+      "onboard_time": 1768378881,
+      "rank": 10,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 673583,
       "num": 176737,
       "word": "演员夫妻回应撞死人后拉黑遗属",
@@ -728,6 +744,14 @@
       "word": "死了么APP仅剩2个功能",
       "onboard_time": 1768291581,
       "rank": 10,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 601392,
+      "num": 940509,
+      "word": "携程",
+      "onboard_time": 1768378521,
+      "rank": 1,
       "category": "互联网"
     },
     {
@@ -1131,6 +1155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 491072,
+      "num": 491072,
+      "word": "40一盒和400一盒草莓的区别",
+      "onboard_time": 1768377380,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 488051,
       "num": 238737,
       "word": "初老症状",
@@ -1377,6 +1409,14 @@
       "onboard_time": 1768367002,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 440826,
+      "num": 264960,
+      "word": "贺娇龙截至14日中午仍在抢救",
+      "onboard_time": 1768375761,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 439558,
@@ -2139,6 +2179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 331038,
+      "num": 331038,
+      "word": "韩国女孩被逼婚出逃上海",
+      "onboard_time": 1768376780,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 330689,
       "num": 312282,
       "word": "张艺兴中巴建交七十五载合照",
@@ -2556,11 +2604,19 @@
     },
     {
       "raw_hot": 283895,
-      "num": 207601,
+      "num": 217643,
       "word": "虞书欣这十八秒我已经听入戏了",
       "onboard_time": 1768375460,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 281739,
+      "num": 281739,
+      "word": "尹锡悦最后陈述情绪失控拍桌咆哮",
+      "onboard_time": 1768377380,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 281617,
@@ -2657,6 +2713,14 @@
       "onboard_time": 1768181059,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 275868,
+      "num": 275868,
+      "word": "尹锡悦听到韩检方要求死刑后笑了",
+      "onboard_time": 1768376180,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 275588,
@@ -3051,6 +3115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244362,
+      "num": 244362,
+      "word": "花300万逼男友离婚同居一年起诉返还",
+      "onboard_time": 1768374980,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243636,
       "num": 243636,
       "word": "黄海城会是孙颖莎主管教练吗",
@@ -3201,6 +3273,14 @@
       "onboard_time": 1768306762,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230292,
+      "num": 230292,
+      "word": "迪丽热巴这段自我介绍完播率100%",
+      "onboard_time": 1768377200,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 230204,
@@ -3593,14 +3673,6 @@
       "onboard_time": 1768213101,
       "rank": 22,
       "category": "财经"
-    },
-    {
-      "raw_hot": 206105,
-      "num": 206105,
-      "word": "花300万逼男友离婚同居一年起诉返还",
-      "onboard_time": 1768374980,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 205895,
@@ -4531,6 +4603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171688,
+      "num": 171688,
+      "word": "春晚已经不好笑到好笑的程度了",
+      "onboard_time": 1768378881,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171118,
       "num": 123592,
       "word": "彭小苒零下10度穿无袖",
@@ -5019,6 +5099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157901,
+      "num": 157901,
+      "word": "携程跌超9%",
+      "onboard_time": 1768379781,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 157831,
       "num": 157831,
       "word": "死了么APP感谢大家对新名称建议",
@@ -5105,14 +5193,6 @@
       "onboard_time": 1768308622,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155817,
-      "num": 155817,
-      "word": "尹锡悦听到韩检方要求死刑后笑了",
-      "onboard_time": 1768376180,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 155584,
@@ -5387,6 +5467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149249,
+      "num": 149249,
+      "word": "但愿人长久 张晚意沈月",
+      "onboard_time": 1768379000,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149011,
       "num": 149011,
       "word": "原来羽绒服可以这么洗",
@@ -5457,6 +5545,14 @@
       "onboard_time": 1768261579,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 146425,
+      "num": 146425,
+      "word": "多方回应59岁产子能否领育儿补贴",
+      "onboard_time": 1768378460,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146228,
@@ -6267,6 +6363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128153,
+      "num": 128153,
+      "word": "银价彻底杀疯了",
+      "onboard_time": 1768378161,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 128100,
       "num": 128100,
       "word": "玉茗茶骨女鬼缠书生原来这么好嗑",
@@ -6441,14 +6545,6 @@
       "onboard_time": 1768274841,
       "rank": 33,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 125901,
-      "num": 173394,
-      "word": "贺娇龙截至14日中午仍在抢救",
-      "onboard_time": 1768375761,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125792,
@@ -6641,6 +6737,14 @@
       "onboard_time": 1768225043,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121953,
+      "num": 121953,
+      "word": "FENDI上海快闪活动",
+      "onboard_time": 1768377081,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 121879,
@@ -6873,6 +6977,14 @@
       "onboard_time": 1768274000,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 118327,
+      "num": 118327,
+      "word": "16岁主播1个月赚1377元遭索赔12万",
+      "onboard_time": 1768377440,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118087,
@@ -7177,6 +7289,14 @@
       "onboard_time": 1768210822,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114255,
+      "num": 114255,
+      "word": "观致汽车累计被执行超7亿元",
+      "onboard_time": 1768379421,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 114115,
@@ -7499,6 +7619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109980,
+      "num": 109980,
+      "word": "2026国考上岸",
+      "onboard_time": 1768379480,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 109920,
       "num": 109920,
       "word": "王鹤润喝嗨了开始发疯",
@@ -7537,6 +7665,14 @@
       "onboard_time": 1768276161,
       "rank": 43,
       "category": "军事"
+    },
+    {
+      "raw_hot": 109537,
+      "num": 109537,
+      "word": "特朗普疑对工人爆粗口并竖中指",
+      "onboard_time": 1768378699,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 109434,
@@ -7680,6 +7816,14 @@
       "word": "荣昌卤鹅哥带卤鹅支持呆呆杀猪宴",
       "onboard_time": 1768268359,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108025,
+      "num": 108025,
+      "word": "卷子还没改完120拉走29岁数学老师",
+      "onboard_time": 1768379541,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -8291,6 +8435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101570,
+      "num": 101570,
+      "word": "两煤球生了个实心球",
+      "onboard_time": 1768377562,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101495,
       "num": 104043,
       "word": "厦门大学悄悄给学生打了一笔钱",
@@ -8377,6 +8529,14 @@
       "onboard_time": 1768108641,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100728,
+      "num": 100728,
+      "word": "侯明昊又双叒叕被夜抛了",
+      "onboard_time": 1768379781,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 100711,
@@ -8659,6 +8819,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 97730,
+      "num": 97730,
+      "word": "女子感慨自己手显老评论区纷纷晒手",
+      "onboard_time": 1768377320,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 97681,
       "num": 97681,
       "word": "肖战维权案二审新进展",
@@ -8841,6 +9009,14 @@
       "onboard_time": 1768202780,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95780,
+      "num": 95780,
+      "word": "杜兰特回应吴艳妮",
+      "onboard_time": 1768379781,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 95727,
@@ -10643,6 +10819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73672,
+      "num": 80796,
+      "word": "死了么APP爆火后更名",
+      "onboard_time": 1768379720,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 73609,
       "num": 103925,
       "word": "中国警察缅北守护中国公民尸体",
@@ -11459,6 +11643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53920,
+      "num": 922580,
+      "word": "中国汽车产销量再创历史新高",
+      "onboard_time": 1768378102,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 53626,
       "num": 678797,
       "word": "让高效办成一件事成为寻常事",
@@ -11497,14 +11689,6 @@
       "onboard_time": 1768041201,
       "rank": 45,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 52000,
-      "num": 116981,
-      "word": "韩国女孩被逼婚出逃上海",
-      "onboard_time": 1768376780,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 51893,
@@ -11683,6 +11867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44775,
+      "num": 247505,
+      "word": "原神少女",
+      "onboard_time": 1768377021,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 44677,
       "num": 87773,
       "word": "金球奖吐槽小李子找年轻女友",
@@ -11777,6 +11969,14 @@
       "onboard_time": 1768137922,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 42169,
+      "num": 98772,
+      "word": "玉茗茶骨曹骏要出场了",
+      "onboard_time": 1768379962,
+      "rank": 39,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 41773,
@@ -12297,6 +12497,14 @@
       "onboard_time": 1768372221,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 29590,
+      "num": 90079,
+      "word": "原来这已经是十年前的王俊凯了",
+      "onboard_time": 1768378763,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 29537,
