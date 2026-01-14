@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768380046956,
+  "endTime": 1768380940990,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -105,6 +105,14 @@
       "onboard_time": 1768131560,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1607103,
+      "num": 1607103,
+      "word": "彭十六偷税案",
+      "onboard_time": 1768378881,
+      "rank": 10,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 1563752,
@@ -563,14 +571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 678528,
-      "num": 267326,
-      "word": "彭十六偷税案",
-      "onboard_time": 1768378881,
-      "rank": 10,
-      "category": "网红,民生新闻"
-    },
-    {
       "raw_hot": 673583,
       "num": 176737,
       "word": "演员夫妻回应撞死人后拉黑遗属",
@@ -1003,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 521466,
+      "num": 521466,
+      "word": "40一盒和400一盒草莓的区别",
+      "onboard_time": 1768377380,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 520800,
       "num": 260119,
       "word": "金帝巧克力 擦边营销",
@@ -1153,14 +1161,6 @@
       "onboard_time": 1768198220,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 491072,
-      "num": 491072,
-      "word": "40一盒和400一盒草莓的区别",
-      "onboard_time": 1768377380,
-      "rank": 4,
-      "category": "美食"
     },
     {
       "raw_hot": 488051,
@@ -2155,6 +2155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 334247,
+      "num": 334247,
+      "word": "彭十六",
+      "onboard_time": 1768380440,
+      "rank": 6,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 333057,
       "num": 333057,
       "word": "车厘子几个J一下看明白了",
@@ -2193,6 +2201,14 @@
       "onboard_time": 1768305682,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329697,
+      "num": 329697,
+      "word": "尹锡悦最后陈述情绪失控拍桌咆哮",
+      "onboard_time": 1768377380,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 329041,
@@ -2604,19 +2620,11 @@
     },
     {
       "raw_hot": 283895,
-      "num": 217643,
+      "num": 224353,
       "word": "虞书欣这十八秒我已经听入戏了",
       "onboard_time": 1768375460,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 281739,
-      "num": 281739,
-      "word": "尹锡悦最后陈述情绪失控拍桌咆哮",
-      "onboard_time": 1768377380,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 281617,
@@ -2681,6 +2689,14 @@
       "onboard_time": 1768125861,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 276562,
+      "num": 276562,
+      "word": "迪丽热巴这段自我介绍完播率100%",
+      "onboard_time": 1768377200,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 276548,
@@ -3251,6 +3267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 232266,
+      "num": 232266,
+      "word": "春晚已经不好笑到好笑的程度了",
+      "onboard_time": 1768378881,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 231686,
       "num": 183319,
       "word": "偶遇贾玲张小斐崇礼滑雪",
@@ -3273,14 +3297,6 @@
       "onboard_time": 1768306762,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 230292,
-      "num": 230292,
-      "word": "迪丽热巴这段自我介绍完播率100%",
-      "onboard_time": 1768377200,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 230204,
@@ -3329,6 +3345,14 @@
       "onboard_time": 1768221801,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226048,
+      "num": 226048,
+      "word": "携程跌超9%",
+      "onboard_time": 1768379781,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 225520,
@@ -4603,14 +4627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171688,
-      "num": 171688,
-      "word": "春晚已经不好笑到好笑的程度了",
-      "onboard_time": 1768378881,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 171118,
       "num": 123592,
       "word": "彭小苒零下10度穿无袖",
@@ -4697,6 +4713,14 @@
       "onboard_time": 1768375940,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 169208,
+      "num": 169208,
+      "word": "建议关闭微信的支付后摇一摇功能",
+      "onboard_time": 1768380081,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 169014,
@@ -4995,6 +5019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160217,
+      "num": 160217,
+      "word": "彭十六已被禁言",
+      "onboard_time": 1768380620,
+      "rank": 21,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 159668,
       "num": 159668,
       "word": "国漫白切黑医生姐姐你好香",
@@ -5097,14 +5129,6 @@
       "onboard_time": 1768233680,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 157901,
-      "num": 157901,
-      "word": "携程跌超9%",
-      "onboard_time": 1768379781,
-      "rank": 19,
-      "category": "财经"
     },
     {
       "raw_hot": 157831,
@@ -5619,6 +5643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 145186,
+      "num": 145186,
+      "word": "携程 杀熟",
+      "onboard_time": 1768380501,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 144925,
       "num": 142529,
       "word": "dora退出3unshine",
@@ -5705,6 +5737,14 @@
       "onboard_time": 1768294522,
       "rank": 49,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 143084,
+      "num": 143084,
+      "word": "银价彻底杀疯了",
+      "onboard_time": 1768378161,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 142704,
@@ -6027,6 +6067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135368,
+      "num": 135368,
+      "word": "侯明昊又双叒叕被夜抛了",
+      "onboard_time": 1768379781,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135304,
       "num": 128281,
       "word": "李现一如既往的稳定输出",
@@ -6081,6 +6129,14 @@
       "onboard_time": 1768098321,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 134560,
+      "num": 121143,
+      "word": "杜兰特回应吴艳妮",
+      "onboard_time": 1768379781,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 134435,
@@ -6363,14 +6419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128153,
-      "num": 128153,
-      "word": "银价彻底杀疯了",
-      "onboard_time": 1768378161,
-      "rank": 25,
-      "category": "财经"
-    },
-    {
       "raw_hot": 128100,
       "num": 128100,
       "word": "玉茗茶骨女鬼缠书生原来这么好嗑",
@@ -6561,6 +6609,14 @@
       "onboard_time": 1768365381,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125534,
+      "num": 125534,
+      "word": "2026国考上岸",
+      "onboard_time": 1768379480,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 125303,
@@ -7251,6 +7307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114930,
+      "num": 114930,
+      "word": "卷子还没改完120拉走29岁数学老师",
+      "onboard_time": 1768379541,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114858,
       "num": 114858,
       "word": "原来每个城市都有自己的旅游季",
@@ -7619,14 +7683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109980,
-      "num": 109980,
-      "word": "2026国考上岸",
-      "onboard_time": 1768379480,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
       "raw_hot": 109920,
       "num": 109920,
       "word": "王鹤润喝嗨了开始发疯",
@@ -7819,14 +7875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108025,
-      "num": 108025,
-      "word": "卷子还没改完120拉走29岁数学老师",
-      "onboard_time": 1768379541,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107941,
       "num": 124288,
       "word": "苍兰诀云初令是一个地方开机",
@@ -7921,6 +7969,14 @@
       "onboard_time": 1768310543,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 106800,
+      "num": 106800,
+      "word": "两煤球生了个实心球",
+      "onboard_time": 1768377562,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 106799,
@@ -8097,6 +8153,14 @@
       "onboard_time": 1768309042,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 105012,
+      "num": 105012,
+      "word": "周杰伦澳网",
+      "onboard_time": 1768380501,
+      "rank": 36,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 104952,
@@ -8435,14 +8499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101570,
-      "num": 101570,
-      "word": "两煤球生了个实心球",
-      "onboard_time": 1768377562,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 101495,
       "num": 104043,
       "word": "厦门大学悄悄给学生打了一笔钱",
@@ -8531,14 +8587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100728,
-      "num": 100728,
-      "word": "侯明昊又双叒叕被夜抛了",
-      "onboard_time": 1768379781,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 100711,
       "num": 99700,
       "word": "鹭卓爱人该做的事他顺手就做了",
@@ -8577,6 +8625,14 @@
       "onboard_time": 1768210521,
       "rank": 36,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 100479,
+      "num": 100479,
+      "word": "毕业证正在天上失望地看着你",
+      "onboard_time": 1768380381,
+      "rank": 44,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 100385,
@@ -9011,20 +9067,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95780,
-      "num": 95780,
-      "word": "杜兰特回应吴艳妮",
-      "onboard_time": 1768379781,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95727,
       "num": 95727,
       "word": "樊振东德甲赛程预告",
       "onboard_time": 1768104139,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95659,
+      "num": 95659,
+      "word": "荣耀之战",
+      "onboard_time": 1768380801,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 95561,
@@ -9617,6 +9673,14 @@
       "onboard_time": 1768354459,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 89143,
+      "num": 89143,
+      "word": "主人称装死小羊再高价也不卖",
+      "onboard_time": 1768380862,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89134,
@@ -10923,6 +10987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71830,
+      "num": 104278,
+      "word": "玉茗茶骨曹骏要出场了",
+      "onboard_time": 1768379962,
+      "rank": 39,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 71699,
       "num": 71699,
       "word": "内娱需要这样养眼的古装扮相",
@@ -11571,6 +11643,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 56872,
+      "num": 1091838,
+      "word": "中国汽车产销量再创历史新高",
+      "onboard_time": 1768378102,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 56614,
       "num": 114658,
       "word": "女医学生边上学边创业却遭前任杀害",
@@ -11641,14 +11721,6 @@
       "onboard_time": 1768322059,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 53920,
-      "num": 922580,
-      "word": "中国汽车产销量再创历史新高",
-      "onboard_time": 1768378102,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 53626,
@@ -11779,6 +11851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50057,
+      "num": 247505,
+      "word": "原神少女",
+      "onboard_time": 1768377021,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 49742,
       "num": 62517,
       "word": "陈幸同2比4朱雨玲",
@@ -11865,14 +11945,6 @@
       "onboard_time": 1768065858,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 44775,
-      "num": 247505,
-      "word": "原神少女",
-      "onboard_time": 1768377021,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 44677,
@@ -11971,14 +12043,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 42169,
-      "num": 98772,
-      "word": "玉茗茶骨曹骏要出场了",
-      "onboard_time": 1768379962,
-      "rank": 39,
-      "category": "剧集,作品衍生"
-    },
-    {
       "raw_hot": 41773,
       "num": 51136,
       "word": "林高远抵达德国",
@@ -12001,6 +12065,14 @@
       "onboard_time": 1768289840,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 41532,
+      "num": 103404,
+      "word": "59岁女子诞下男婴能领育儿补贴吗",
+      "onboard_time": 1768380140,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41501,
