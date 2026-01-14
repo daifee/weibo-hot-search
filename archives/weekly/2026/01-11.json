@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768433133266,
+  "endTime": 1768433943397,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2603317,
+      "num": 287004,
+      "word": "贺娇龙抢救无效不幸离世",
+      "onboard_time": 1768409658,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2536475,
       "num": 204117,
       "word": "阿Sa官宣恋情",
@@ -65,14 +73,6 @@
       "onboard_time": 1768134622,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 2401677,
-      "num": 287004,
-      "word": "贺娇龙抢救无效不幸离世",
-      "onboard_time": 1768409658,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 2285482,
@@ -347,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 925148,
+      "num": 543145,
+      "word": "贺娇龙所有直播打赏均用于公益事业",
+      "onboard_time": 1768412595,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 920995,
       "num": 196369,
       "word": "小澈 抗艾滋药",
@@ -513,14 +521,6 @@
       "onboard_time": 1768108641,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 803670,
-      "num": 543145,
-      "word": "贺娇龙所有直播打赏均用于公益事业",
-      "onboard_time": 1768412595,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 781021,
@@ -2084,7 +2084,7 @@
     },
     {
       "raw_hot": 384874,
-      "num": 628429,
+      "num": 672778,
       "word": "马年春晚",
       "onboard_time": 1768402162,
       "rank": 19,
@@ -3152,6 +3152,14 @@
       "word": "苏新皓直播",
       "onboard_time": 1768215921,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 273645,
+      "num": 120556,
+      "word": "谢娜大晚上不能我一个人笑",
+      "onboard_time": 1768432638,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -4347,6 +4355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199260,
+      "num": 239125,
+      "word": "AI查贪官准确率相当高",
+      "onboard_time": 1768409238,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199040,
       "num": 191834,
       "word": "红果年度大赏",
@@ -4755,14 +4771,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 187327,
-      "num": 239125,
-      "word": "AI查贪官准确率相当高",
-      "onboard_time": 1768409238,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 187267,
       "num": 153536,
       "word": "穆祉丞更新",
@@ -4963,6 +4971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181555,
+      "num": 105745,
+      "word": "贺娇龙5天前曾发视频聊汗血马",
+      "onboard_time": 1768412416,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181407,
       "num": 120384,
       "word": "张维伊带小酒窝录制新春节目",
@@ -5041,6 +5057,14 @@
       "onboard_time": 1768314083,
       "rank": 12,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 179172,
+      "num": 179172,
+      "word": "12306回应一等座禁止无座乘客逗留",
+      "onboard_time": 1768392321,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179146,
@@ -5281,14 +5305,6 @@
       "onboard_time": 1768107800,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 171452,
-      "num": 101012,
-      "word": "贺娇龙5天前曾发视频聊汗血马",
-      "onboard_time": 1768412416,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171250,
@@ -6027,14 +6043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153604,
-      "num": 153604,
-      "word": "12306回应一等座禁止无座乘客逗留",
-      "onboard_time": 1768392321,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153527,
       "num": 153527,
       "word": "WBG战胜iG",
@@ -6771,14 +6779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138512,
-      "num": 99875,
-      "word": "谢娜大晚上不能我一个人笑",
-      "onboard_time": 1768432638,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138451,
       "num": 130961,
       "word": "刘昊然这人夫感",
@@ -6985,6 +6985,14 @@
       "onboard_time": 1768379781,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135315,
+      "num": 135315,
+      "word": "把钱藏海外的贪官栽了",
+      "onboard_time": 1768409539,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 135304,
@@ -7465,14 +7473,6 @@
       "onboard_time": 1768347798,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127372,
-      "num": 127372,
-      "word": "把钱藏海外的贪官栽了",
-      "onboard_time": 1768409539,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 127114,
@@ -9939,6 +9939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99489,
+      "num": 93866,
+      "word": "撞见前任和闺蜜共处女子坠楼致瘫",
+      "onboard_time": 1768410317,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99487,
       "num": 99487,
       "word": "被这位婆婆的一天累到了",
@@ -10379,6 +10387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 94961,
+      "num": 94961,
+      "word": "常州一警务室里开警茶店",
+      "onboard_time": 1768409598,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94929,
       "num": 94929,
       "word": "张真源 你关注的人格正在切号",
@@ -10553,14 +10569,6 @@
       "onboard_time": 1768229302,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 92948,
-      "num": 92948,
-      "word": "常州一警务室里开警茶店",
-      "onboard_time": 1768409598,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92940,
@@ -10883,6 +10891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 90128,
+      "num": 90128,
+      "word": "阿尔瓦塞特3比2皇马",
+      "onboard_time": 1768432698,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90103,
       "num": 90103,
       "word": "一个早生贵己一个老来得己",
@@ -11049,14 +11065,6 @@
       "onboard_time": 1768115001,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 88534,
-      "num": 83854,
-      "word": "撞见前任和闺蜜共处女子坠楼致瘫",
-      "onboard_time": 1768410317,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88427,
@@ -12475,14 +12483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 70077,
-      "num": 70077,
-      "word": "阿尔瓦塞特3比2皇马",
-      "onboard_time": 1768432698,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 69976,
       "num": 195996,
       "word": "杨紫37套高定",
@@ -12795,6 +12795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63459,
+      "num": 65727,
+      "word": "特朗普称同委内瑞拉代总统通话",
+      "onboard_time": 1768433539,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 63391,
       "num": 146705,
       "word": "汕头突发山火暂无人员伤亡",
@@ -13059,6 +13067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58730,
+      "num": 65691,
+      "word": "贺娇龙曾谈及为何坚持骑马拍视频",
+      "onboard_time": 1768432818,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58695,
       "num": 58695,
       "word": "sakee asen",
@@ -13244,7 +13260,7 @@
     },
     {
       "raw_hot": 51383,
-      "num": 58514,
+      "num": 65480,
       "word": "曝皇马三大球星反对阿隆索",
       "onboard_time": 1768408460,
       "rank": 43,
@@ -13272,6 +13288,14 @@
       "word": "全网关心的刨猪汤长啥样",
       "onboard_time": 1768261099,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51101,
+      "num": 65675,
+      "word": "男子修路疑似挖出野生乌灵参",
+      "onboard_time": 1768433659,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -13347,6 +13371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 48593,
+      "num": 65646,
+      "word": "Creme塞拉斯1打5笑了",
+      "onboard_time": 1768433599,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 48575,
       "num": 208830,
       "word": "刘震云回应便利店文学角走红",
@@ -13411,6 +13443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 46135,
+      "num": 65738,
+      "word": "超适合冬天喝的4杯热饮",
+      "onboard_time": 1768432939,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 45764,
       "num": 99141,
       "word": "印度杀人象昼伏夜出致21人死亡",
@@ -13425,6 +13465,14 @@
       "onboard_time": 1768065858,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 44909,
+      "num": 65624,
+      "word": "南京信息工程大学期末考试泄题",
+      "onboard_time": 1768433720,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44677,
@@ -13460,7 +13508,7 @@
     },
     {
       "raw_hot": 44031,
-      "num": 58557,
+      "num": 65524,
       "word": "银价继续上涨创新高",
       "onboard_time": 1768411997,
       "rank": 36,
@@ -13611,6 +13659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41082,
+      "num": 65565,
+      "word": "JackeyLove队危速归",
+      "onboard_time": 1768433720,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 40988,
       "num": 53970,
       "word": "张真源新歌音源上线",
@@ -13691,14 +13747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39749,
-      "num": 58529,
-      "word": "超适合冬天喝的4杯热饮",
-      "onboard_time": 1768432939,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 39542,
       "num": 785146,
       "word": "2025有3000场大型营业性演出",
@@ -13739,6 +13787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38480,
+      "num": 65501,
+      "word": "小城良方",
+      "onboard_time": 1768427594,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 38472,
       "num": 38472,
       "word": "美国一男子家中如恐怖电影",
@@ -13769,14 +13825,6 @@
       "onboard_time": 1768260378,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 37689,
-      "num": 58504,
-      "word": "小城良方",
-      "onboard_time": 1768427594,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 37153,
@@ -13939,6 +13987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34133,
+      "num": 65428,
+      "word": "切尔西vs阿森纳",
+      "onboard_time": 1768433900,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34029,
       "num": 104908,
       "word": "贪官一个招呼收一笔巨额贿赂",
@@ -14025,6 +14081,14 @@
       "onboard_time": 1768260980,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32193,
+      "num": 65389,
+      "word": "WB战胜AG",
+      "onboard_time": 1768433900,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 31998,
@@ -14627,14 +14691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20740,
-      "num": 58289,
-      "word": "贺娇龙曾谈及为何坚持骑马拍视频",
-      "onboard_time": 1768432818,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 20718,
       "num": 95143,
       "word": "夫妻夜行高速遇男子爬引擎盖喊救命",
@@ -14689,6 +14745,14 @@
       "onboard_time": 1768155076,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19977,
+      "num": 514370,
+      "word": "一图速览2025年进出口情况",
+      "onboard_time": 1768397062,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19873,
@@ -14785,14 +14849,6 @@
       "onboard_time": 1768207820,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17271,
-      "num": 462574,
-      "word": "一图速览2025年进出口情况",
-      "onboard_time": 1768397062,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17134,

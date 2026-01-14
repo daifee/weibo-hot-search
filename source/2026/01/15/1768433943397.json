@@ -1,0 +1,410 @@
+{
+  "runTime": 1768433943397,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 470406,
+        "num": 900334,
+        "word": "美国将暂停对75个国家的所有签证",
+        "onboard_time": 1768403241,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 327578,
+        "num": 672778,
+        "word": "马年春晚",
+        "onboard_time": 1768402162,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19977,
+        "num": 514370,
+        "word": "一图速览2025年进出口情况",
+        "onboard_time": 1768397062,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 288161,
+        "num": 288161,
+        "word": "携程涉嫌垄断",
+        "onboard_time": 1768378102,
+        "rank": 3,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 199260,
+        "num": 199260,
+        "word": "AI查贪官准确率相当高",
+        "onboard_time": 1768409238,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2603317,
+        "num": 197270,
+        "word": "贺娇龙抢救无效不幸离世",
+        "onboard_time": 1768409658,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187807,
+        "num": 187807,
+        "word": "当街抢小孩女子已被警方带走",
+        "onboard_time": 1768405041,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179172,
+        "num": 179172,
+        "word": "12306回应一等座禁止无座乘客逗留",
+        "onboard_time": 1768392321,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135315,
+        "num": 135315,
+        "word": "把钱藏海外的贪官栽了",
+        "onboard_time": 1768409539,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132560,
+        "num": 132560,
+        "word": "国考成绩",
+        "onboard_time": 1768394242,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 925148,
+        "num": 130721,
+        "word": "贺娇龙所有直播打赏均用于公益事业",
+        "onboard_time": 1768412595,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 577041,
+        "num": 124970,
+        "word": "韦德",
+        "onboard_time": 1768408280,
+        "rank": 11,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 273645,
+        "num": 120556,
+        "word": "谢娜大晚上不能我一个人笑",
+        "onboard_time": 1768432638,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190824,
+        "num": 113587,
+        "word": "杨幂 见面会",
+        "onboard_time": 1768404802,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181555,
+        "num": 105745,
+        "word": "贺娇龙5天前曾发视频聊汗血马",
+        "onboard_time": 1768412416,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135427,
+        "num": 104427,
+        "word": "成都网红发起刨猪宴临时取消引争议",
+        "onboard_time": 1768402401,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99577,
+        "num": 99577,
+        "word": "杨紫新剧人设太顶了",
+        "onboard_time": 1768393760,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97149,
+        "num": 97149,
+        "word": "龚俊因左眼下新长了颗痣而开心",
+        "onboard_time": 1768388541,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94961,
+        "num": 94961,
+        "word": "常州一警务室里开警茶店",
+        "onboard_time": 1768409598,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96539,
+        "num": 94513,
+        "word": "镖人",
+        "onboard_time": 1768407079,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 252078,
+        "num": 93913,
+        "word": "90后医生强奸2幼女父亲曾为其辩护",
+        "onboard_time": 1768386681,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99489,
+        "num": 93866,
+        "word": "撞见前任和闺蜜共处女子坠楼致瘫",
+        "onboard_time": 1768410317,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92722,
+        "num": 92722,
+        "word": "原来苏翊鸣10岁就和佟丽娅演过电影",
+        "onboard_time": 1768405341,
+        "rank": 22,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 90128,
+        "num": 90128,
+        "word": "阿尔瓦塞特3比2皇马",
+        "onboard_time": 1768432698,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81667,
+        "num": 81667,
+        "word": "浙江用AI抓出贪官",
+        "onboard_time": 1768401503,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 79609,
+        "num": 79609,
+        "word": "彭十六个人账户累计收款905万",
+        "onboard_time": 1768389441,
+        "rank": 25,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 65793,
+        "num": 65793,
+        "word": "网友评林志玲面相变了",
+        "onboard_time": 1768381521,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47530,
+        "num": 65781,
+        "word": "一袭红衣策马扬鞭的贺娇龙走了",
+        "onboard_time": 1768412536,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47986,
+        "num": 65768,
+        "word": "彭十六偷税案",
+        "onboard_time": 1768378881,
+        "rank": 28,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 46135,
+        "num": 65738,
+        "word": "超适合冬天喝的4杯热饮",
+        "onboard_time": 1768432939,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 63459,
+        "num": 65727,
+        "word": "特朗普称同委内瑞拉代总统通话",
+        "onboard_time": 1768433539,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59689,
+        "num": 65707,
+        "word": "中国女子在泰国芭提雅遭遇捆绑抢劫",
+        "onboard_time": 1768403782,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 58730,
+        "num": 65691,
+        "word": "贺娇龙曾谈及为何坚持骑马拍视频",
+        "onboard_time": 1768432818,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51101,
+        "num": 65675,
+        "word": "男子修路疑似挖出野生乌灵参",
+        "onboard_time": 1768433659,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48593,
+        "num": 65646,
+        "word": "Creme塞拉斯1打5笑了",
+        "onboard_time": 1768433599,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 45009,
+        "num": 65626,
+        "word": "行测",
+        "onboard_time": 1768404082,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 44909,
+        "num": 65624,
+        "word": "南京信息工程大学期末考试泄题",
+        "onboard_time": 1768433720,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43999,
+        "num": 65606,
+        "word": "祯娘传",
+        "onboard_time": 1768404921,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42643,
+        "num": 65570,
+        "word": "国考",
+        "onboard_time": 1768385362,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 41082,
+        "num": 65565,
+        "word": "JackeyLove队危速归",
+        "onboard_time": 1768433720,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 40814,
+        "num": 65537,
+        "word": "花海晒聊天记录",
+        "onboard_time": 1768397181,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 40790,
+        "num": 65524,
+        "word": "银价继续上涨创新高",
+        "onboard_time": 1768411997,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 38480,
+        "num": 65501,
+        "word": "小城良方",
+        "onboard_time": 1768427594,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37708,
+        "num": 65480,
+        "word": "曝皇马三大球星反对阿隆索",
+        "onboard_time": 1768408460,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33983,
+        "num": 65461,
+        "word": "陈星旭卢昱晓剧里互吻剧外互关",
+        "onboard_time": 1768405460,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35903,
+        "num": 65448,
+        "word": "申论分好低",
+        "onboard_time": 1768397661,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 34133,
+        "num": 65428,
+        "word": "切尔西vs阿森纳",
+        "onboard_time": 1768433900,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33533,
+        "num": 65408,
+        "word": "彭十六偷税216.32万元",
+        "onboard_time": 1768380440,
+        "rank": 47,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 32193,
+        "num": 65389,
+        "word": "WB战胜AG",
+        "onboard_time": 1768433900,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31173,
+        "num": 65373,
+        "word": "剑来",
+        "onboard_time": 1768390821,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届中央纪委五次全会公报#"
+    }
+  }
+}
