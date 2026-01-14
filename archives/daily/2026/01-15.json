@@ -1,6 +1,6 @@
 {
   "startTime": 1768408888455,
-  "endTime": 1768423563250,
+  "endTime": 1768426245183,
   "band_list": [
     {
       "raw_hot": 2401677,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 16970,
-      "num": 17837,
+      "num": 18080,
       "word": "U23男足战平泰国队",
       "onboard_time": 1768416314,
       "rank": 47,
@@ -529,6 +529,14 @@
       "onboard_time": 1768410557,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15488,
+      "num": 18139,
+      "word": "12306回应一等座禁止无座乘客逗留",
+      "onboard_time": 1768392321,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15445,
@@ -545,14 +553,6 @@
       "onboard_time": 1768388181,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 11964,
-      "num": 16487,
-      "word": "12306回应一等座禁止无座乘客逗留",
-      "onboard_time": 1768392321,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10279,
