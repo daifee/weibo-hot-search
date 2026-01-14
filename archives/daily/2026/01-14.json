@@ -1,6 +1,6 @@
 {
   "startTime": 1768322530118,
-  "endTime": 1768402368153,
+  "endTime": 1768404854806,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -243,6 +243,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 600350,
+      "num": 600350,
+      "word": "美国将暂停对75个国家的所有签证",
+      "onboard_time": 1768403241,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 590944,
       "num": 590944,
       "word": "整套马钞价格已被炒到2000元",
@@ -459,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 445340,
+      "num": 445340,
+      "word": "家属回应母亲躲藏致女儿心源性休克身亡",
+      "onboard_time": 1768399403,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 444803,
       "num": 615268,
       "word": "男子拍摄近视眼女友站岗爆火",
@@ -497,6 +513,14 @@
       "onboard_time": 1768397661,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 435764,
+      "num": 435764,
+      "word": "疑似张颂文不演狂流了",
+      "onboard_time": 1768397842,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 434064,
@@ -601,6 +625,14 @@
       "onboard_time": 1768356321,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 384876,
+      "num": 201701,
+      "word": "成都网红发起刨猪宴临时取消引争议",
+      "onboard_time": 1768402401,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 381451,
@@ -787,14 +819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 289239,
-      "num": 301040,
-      "word": "家属回应母亲躲藏致女儿心源性休克身亡",
-      "onboard_time": 1768399403,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 283895,
       "num": 224353,
       "word": "虞书欣这十八秒我已经听入戏了",
@@ -872,14 +896,6 @@
       "word": "虞书欣云初令记录",
       "onboard_time": 1768371980,
       "rank": 12,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 267437,
-      "num": 267437,
-      "word": "疑似张颂文不演狂流了",
-      "onboard_time": 1768397842,
-      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1169,6 +1185,14 @@
       "onboard_time": 1768398200,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197143,
+      "num": 197143,
+      "word": "行测",
+      "onboard_time": 1768404082,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 194476,
@@ -1723,6 +1747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146892,
+      "num": 146892,
+      "word": "死了么APP征名奖励666元",
+      "onboard_time": 1768404082,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 146425,
       "num": 146425,
       "word": "多方回应59岁产子能否领育儿补贴",
@@ -1801,6 +1833,14 @@
       "onboard_time": 1768394841,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139585,
+      "num": 139585,
+      "word": "张子枫张新成新剧从发小到恶语相向",
+      "onboard_time": 1768404261,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 139419,
@@ -2203,6 +2243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 115242,
+      "num": 115242,
+      "word": "杨幂 见面会",
+      "onboard_time": 1768404802,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115132,
       "num": 115132,
       "word": "狂流",
@@ -2371,12 +2419,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109555,
+      "num": 109555,
+      "word": "樊振东感谢多特送球衣",
+      "onboard_time": 1768404441,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109537,
       "num": 109537,
       "word": "特朗普疑对工人爆粗口并竖中指",
       "onboard_time": 1768378699,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 109263,
+      "num": 109263,
+      "word": "向日葵被查",
+      "onboard_time": 1768401382,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108386,
@@ -2651,6 +2715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96197,
+      "num": 96197,
+      "word": "携程跌近17%",
+      "onboard_time": 1768402643,
+      "rank": 40,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 96109,
       "num": 96109,
       "word": "谁家男主一整部剧40集不化妆啊",
@@ -2819,6 +2891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 91658,
+      "num": 89963,
+      "word": "炒到2000元这马钞为啥这么香",
+      "onboard_time": 1768402521,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91501,
       "num": 91501,
       "word": "贺娇龙曾坠马换马再拍家乡",
@@ -2888,6 +2968,14 @@
       "word": "泰国在建铁路事故已致28死",
       "onboard_time": 1768389741,
       "rank": 45,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 89697,
+      "num": 89697,
+      "word": "中国女子在泰国芭提雅遭遇捆绑抢劫",
+      "onboard_time": 1768403782,
+      "rank": 46,
       "category": "海外新闻"
     },
     {
@@ -3001,6 +3089,14 @@
       "onboard_time": 1768390821,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 87193,
+      "num": 87193,
+      "word": "小猫也会因为早恋被训斥",
+      "onboard_time": 1768404740,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 86411,
@@ -3569,6 +3665,14 @@
       "onboard_time": 1768332616,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33961,
+      "num": 176933,
+      "word": "医院称贺娇龙已转院",
+      "onboard_time": 1768404441,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33174,
