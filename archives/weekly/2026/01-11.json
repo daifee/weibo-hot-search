@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768405679294,
+  "endTime": 1768408888455,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -89,6 +89,14 @@
       "onboard_time": 1768378102,
       "rank": 0,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 1935090,
+      "num": 162079,
+      "word": "韦德",
+      "onboard_time": 1768408280,
+      "rank": 10,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 1932998,
@@ -545,6 +553,14 @@
       "onboard_time": 1768378161,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 742060,
+      "num": 230391,
+      "word": "杨幂 见面会",
+      "onboard_time": 1768404802,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 738148,
@@ -2419,6 +2435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 338128,
+      "num": 338128,
+      "word": "马年春晚",
+      "onboard_time": 1768402162,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 337864,
       "num": 265799,
       "word": "代旭孟宴臣2.0",
@@ -3275,6 +3299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260209,
+      "num": 260209,
+      "word": "镖人",
+      "onboard_time": 1768407079,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 259386,
       "num": 254171,
       "word": "那英 我上过浪姐你们不懂",
@@ -3523,6 +3555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244339,
+      "num": 244339,
+      "word": "当街抢小孩女子已被警方带走",
+      "onboard_time": 1768405041,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243636,
       "num": 243636,
       "word": "黄海城会是孙颖莎主管教练吗",
@@ -3553,6 +3593,14 @@
       "onboard_time": 1768275080,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241078,
+      "num": 176521,
+      "word": "死了么APP征名奖励666元",
+      "onboard_time": 1768404082,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 240597,
@@ -3697,14 +3745,6 @@
       "onboard_time": 1768306762,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 230391,
-      "num": 230391,
-      "word": "杨幂 见面会",
-      "onboard_time": 1768404802,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 230204,
@@ -3937,14 +3977,6 @@
       "onboard_time": 1768227501,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 217083,
-      "num": 217083,
-      "word": "马年春晚",
-      "onboard_time": 1768402162,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 216857,
@@ -5075,14 +5107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 176521,
-      "num": 176521,
-      "word": "死了么APP征名奖励666元",
-      "onboard_time": 1768404082,
-      "rank": 25,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 176280,
       "num": 176280,
       "word": "贺娇龙单位将发布官方消息",
@@ -5721,6 +5745,14 @@
       "onboard_time": 1768099700,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 158914,
+      "num": 158914,
+      "word": "陈星旭卢昱晓剧里互吻剧外互关",
+      "onboard_time": 1768405460,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 158802,
@@ -8651,6 +8683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 110974,
+      "num": 110974,
+      "word": "原来苏翊鸣10岁就和佟丽娅演过电影",
+      "onboard_time": 1768405341,
+      "rank": 28,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 110874,
       "num": 110874,
       "word": "赵今麦宋威龙 我们绕了一圈才遇到",
@@ -8881,14 +8921,6 @@
       "onboard_time": 1768130841,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 108907,
-      "num": 108907,
-      "word": "陈星旭卢昱晓剧里互吻剧外互关",
-      "onboard_time": 1768405460,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 108884,
@@ -9241,14 +9273,6 @@
       "onboard_time": 1768307062,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 105254,
-      "num": 105254,
-      "word": "原来苏翊鸣10岁就和佟丽娅演过电影",
-      "onboard_time": 1768405341,
-      "rank": 28,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 105137,
@@ -12859,6 +12883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60548,
+      "num": 60548,
+      "word": "我的朋友安德烈",
+      "onboard_time": 1768407918,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 60451,
       "num": 60451,
       "word": "王cc紧紧跟着王楚钦",
@@ -12995,6 +13027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56338,
+      "num": 56338,
+      "word": "鸡蛋配不上番茄了吗",
+      "onboard_time": 1768407918,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56061,
       "num": 129493,
       "word": "18岁男生抢劫2600元获刑11年",
@@ -13123,6 +13163,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 51383,
+      "num": 53922,
+      "word": "曝皇马三大球星反对阿隆索",
+      "onboard_time": 1768408460,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51256,
       "num": 66946,
       "word": "这是谁给张予曦选的歌",
@@ -13144,14 +13192,6 @@
       "word": "全网关心的刨猪汤长啥样",
       "onboard_time": 1768261099,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 51105,
-      "num": 123423,
-      "word": "当街抢小孩女子已被警方带走",
-      "onboard_time": 1768405041,
-      "rank": 19,
       "category": "民生新闻"
     },
     {

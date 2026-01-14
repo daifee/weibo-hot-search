@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768405679294,
+  "endTime": 1768408888455,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -233,6 +233,14 @@
       "onboard_time": 1768378102,
       "rank": 0,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 1935090,
+      "num": 162079,
+      "word": "韦德",
+      "onboard_time": 1768408280,
+      "rank": 10,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 1932998,
@@ -1601,6 +1609,14 @@
       "onboard_time": 1767758002,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 742060,
+      "num": 230391,
+      "word": "杨幂 见面会",
+      "onboard_time": 1768404802,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 741527,
@@ -6955,6 +6971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 338128,
+      "num": 338128,
+      "word": "马年春晚",
+      "onboard_time": 1768040181,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 337910,
       "num": 254121,
       "word": "委内瑞拉之后这些国家面临危险",
@@ -9675,6 +9699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260209,
+      "num": 260209,
+      "word": "镖人",
+      "onboard_time": 1768407079,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 260193,
       "num": 192078,
       "word": "骄阳似我番外篇",
@@ -10355,6 +10387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244339,
+      "num": 244339,
+      "word": "当街抢小孩女子已被警方带走",
+      "onboard_time": 1768405041,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243910,
       "num": 110009,
       "word": "虞书欣双轨伴手礼",
@@ -10457,6 +10497,14 @@
       "onboard_time": 1767502584,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241078,
+      "num": 176521,
+      "word": "死了么APP征名奖励666元",
+      "onboard_time": 1768404082,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 240597,
@@ -10896,14 +10944,6 @@
       "word": "肖战秘密花园 隔时空对话",
       "onboard_time": 1767703101,
       "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 230391,
-      "num": 230391,
-      "word": "杨幂 见面会",
-      "onboard_time": 1768404802,
-      "rank": 33,
       "category": "艺人"
     },
     {
@@ -11625,14 +11665,6 @@
       "onboard_time": 1767794065,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 217083,
-      "num": 217083,
-      "word": "马年春晚",
-      "onboard_time": 1768040181,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 216960,
@@ -15147,14 +15179,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 176521,
-      "num": 176521,
-      "word": "死了么APP征名奖励666元",
-      "onboard_time": 1768404082,
-      "rank": 25,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 176469,
       "num": 176469,
       "word": "王一博探索新境2今日收官",
@@ -17161,6 +17185,14 @@
       "onboard_time": 1767943761,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158914,
+      "num": 158914,
+      "word": "陈星旭卢昱晓剧里互吻剧外互关",
+      "onboard_time": 1768405460,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 158802,
@@ -25955,6 +25987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 110974,
+      "num": 110974,
+      "word": "原来苏翊鸣10岁就和佟丽娅演过电影",
+      "onboard_time": 1768405341,
+      "rank": 28,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 110913,
       "num": 588306,
       "word": "短剧男主超级冠军硬核开唱",
@@ -26456,14 +26496,6 @@
       "word": "原来长剧观众吃得这么好",
       "onboard_time": 1767860781,
       "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 108907,
-      "num": 108907,
-      "word": "陈星旭卢昱晓剧里互吻剧外互关",
-      "onboard_time": 1768405460,
-      "rank": 26,
       "category": "剧集"
     },
     {
@@ -27465,14 +27497,6 @@
       "onboard_time": 1767858741,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 105254,
-      "num": 105254,
-      "word": "原来苏翊鸣10岁就和佟丽娅演过电影",
-      "onboard_time": 1768405341,
-      "rank": 28,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 105234,
@@ -39651,6 +39675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60548,
+      "num": 60548,
+      "word": "我的朋友安德烈",
+      "onboard_time": 1768407918,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 60465,
       "num": 60465,
       "word": "小英回应找男朋友",
@@ -40240,6 +40272,14 @@
       "word": "学生证优惠区间未盖章要补41元",
       "onboard_time": 1767333619,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56338,
+      "num": 56338,
+      "word": "鸡蛋配不上番茄了吗",
+      "onboard_time": 1768407918,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -40867,6 +40907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51383,
+      "num": 53922,
+      "word": "曝皇马三大球星反对阿隆索",
+      "onboard_time": 1768408460,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51372,
       "num": 97802,
       "word": "TF家族2026新年音乐会荣耀",
@@ -40912,14 +40960,6 @@
       "word": "全网关心的刨猪汤长啥样",
       "onboard_time": 1768261099,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 51105,
-      "num": 123423,
-      "word": "当街抢小孩女子已被警方带走",
-      "onboard_time": 1768405041,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
