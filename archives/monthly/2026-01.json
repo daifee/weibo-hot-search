@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768380940990,
+  "endTime": 1768383461619,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1019,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 899485,
+      "num": 899485,
+      "word": "彭十六",
+      "onboard_time": 1768380440,
+      "rank": 6,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 898363,
       "num": 626145,
       "word": "尚公主",
@@ -1411,6 +1419,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 776979,
+      "num": 285190,
+      "word": "春晚已经不好笑到好笑的程度了",
+      "onboard_time": 1768378881,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 776597,
       "num": 248337,
       "word": "当我意识到姚晨在发圣地巡礼的时候",
@@ -1665,6 +1681,14 @@
       "onboard_time": 1768133361,
       "rank": 20,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 716310,
+      "num": 694581,
+      "word": "携程 杀熟",
+      "onboard_time": 1768380501,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 714958,
@@ -2299,6 +2323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 603170,
+      "num": 603170,
+      "word": "40一盒和400一盒草莓的区别",
+      "onboard_time": 1768377380,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 603107,
       "num": 611783,
       "word": "南通一医院酿一级甲等医疗事故",
@@ -2697,6 +2729,14 @@
       "onboard_time": 1767621203,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 561981,
+      "num": 561981,
+      "word": "携程回应被查",
+      "onboard_time": 1768382601,
+      "rank": 6,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 561656,
@@ -3201,14 +3241,6 @@
       "onboard_time": 1767673881,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 521466,
-      "num": 521466,
-      "word": "40一盒和400一盒草莓的区别",
-      "onboard_time": 1768377380,
-      "rank": 4,
-      "category": "美食"
     },
     {
       "raw_hot": 521015,
@@ -4825,6 +4857,14 @@
       "onboard_time": 1767869901,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 427044,
+      "num": 167143,
+      "word": "周杰伦澳网",
+      "onboard_time": 1768380501,
+      "rank": 36,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 426547,
@@ -6747,14 +6787,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 334247,
-      "num": 334247,
-      "word": "彭十六",
-      "onboard_time": 1768380440,
-      "rank": 6,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 334099,
       "num": 393226,
       "word": "王者荣耀水晶概率好高",
@@ -7179,6 +7211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 320640,
+      "num": 160308,
+      "word": "网友评林志玲面相变了",
+      "onboard_time": 1768381521,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320424,
       "num": 320424,
       "word": "委内瑞拉首都主干道空了",
@@ -7499,6 +7539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 311979,
+      "num": 159590,
+      "word": "微博之夜 集体婚礼",
+      "onboard_time": 1768382601,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 311765,
       "num": 197328,
       "word": "蔡依林方严正声明",
@@ -7633,6 +7681,14 @@
       "onboard_time": 1767449605,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 306541,
+      "num": 306541,
+      "word": "男子拍摄近视眼女友站岗爆火",
+      "onboard_time": 1768381762,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 306054,
@@ -10275,6 +10331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234765,
+      "num": 234765,
+      "word": "极品饭灵根真的出现了",
+      "onboard_time": 1768381103,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 234729,
       "num": 201446,
       "word": "说话含糊 言语霸凌",
@@ -10315,6 +10379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233858,
+      "num": 233858,
+      "word": "彭十六已被禁言",
+      "onboard_time": 1768380620,
+      "rank": 21,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 233828,
       "num": 206461,
       "word": "白鹿敖瑞鹏白月梵星一周年售后",
@@ -10352,14 +10424,6 @@
       "word": "开了十年寒衣店第一次遇到退货",
       "onboard_time": 1768122380,
       "rank": 33,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 232266,
-      "num": 232266,
-      "word": "春晚已经不好笑到好笑的程度了",
-      "onboard_time": 1768378881,
-      "rank": 18,
       "category": "幽默"
     },
     {
@@ -11411,6 +11475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213261,
+      "num": 158048,
+      "word": "周杰伦澳网一轮游",
+      "onboard_time": 1768382961,
+      "rank": 27,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 213249,
       "num": 519243,
       "word": "看完这一集不敢喝排骨汤了",
@@ -11723,6 +11795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207673,
+      "num": 159107,
+      "word": "37岁坚持化妆200天的变化",
+      "onboard_time": 1768380921,
+      "rank": 25,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 207555,
       "num": 218493,
       "word": "格陵兰岛各政党领导人发表联合声明",
@@ -11865,6 +11945,14 @@
       "onboard_time": 1767257842,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 205987,
+      "num": 205987,
+      "word": "建议关闭微信的支付后摇一摇功能",
+      "onboard_time": 1768380081,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 205895,
@@ -14731,6 +14819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174752,
+      "num": 174752,
+      "word": "LPL",
+      "onboard_time": 1768382661,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 174668,
       "num": 136484,
       "word": "鹅妈妈谈小澈事件",
@@ -14753,6 +14849,14 @@
       "onboard_time": 1767965601,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 174058,
+      "num": 174058,
+      "word": "贵妃出浴裸露争议点不应是雅不雅",
+      "onboard_time": 1768381222,
+      "rank": 16,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 174033,
@@ -15251,14 +15355,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 169208,
-      "num": 169208,
-      "word": "建议关闭微信的支付后摇一摇功能",
-      "onboard_time": 1768380081,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 169131,
       "num": 772446,
       "word": "一诺连续三年获KPL最受欢迎选手",
@@ -15387,6 +15483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168079,
+      "num": 168079,
+      "word": "银价彻底杀疯了",
+      "onboard_time": 1768378161,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 167963,
       "num": 167963,
       "word": "刘宇宁新年第一播",
@@ -15505,6 +15609,14 @@
       "onboard_time": 1768347379,
       "rank": 31,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 167071,
+      "num": 167071,
+      "word": "JDG战胜eStar",
+      "onboard_time": 1768382121,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 166994,
@@ -16363,14 +16475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160217,
-      "num": 160217,
-      "word": "彭十六已被禁言",
-      "onboard_time": 1768380620,
-      "rank": 21,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 160068,
       "num": 160068,
       "word": "骄阳似我女主备选不是张婧仪",
@@ -16673,6 +16777,14 @@
       "onboard_time": 1767689061,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 157719,
+      "num": 157719,
+      "word": "澳网",
+      "onboard_time": 1768382841,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 157636,
@@ -18251,14 +18363,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 145186,
-      "num": 145186,
-      "word": "携程 杀熟",
-      "onboard_time": 1768380501,
-      "rank": 23,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 145166,
       "num": 264252,
       "word": "华晨宇演唱会",
@@ -18553,14 +18657,6 @@
       "onboard_time": 1767523102,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 143084,
-      "num": 143084,
-      "word": "银价彻底杀疯了",
-      "onboard_time": 1768378161,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 143003,
@@ -18905,6 +19001,14 @@
       "onboard_time": 1768194680,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140828,
+      "num": 140828,
+      "word": "主人称装死小羊再高价也不卖",
+      "onboard_time": 1768380862,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140786,
@@ -19425,6 +19529,14 @@
       "onboard_time": 1767667281,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137738,
+      "num": 137738,
+      "word": "携程曾涉不正当竞争纠纷",
+      "onboard_time": 1768382481,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 137712,
@@ -20393,6 +20505,22 @@
       "onboard_time": 1768053983,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 131983,
+      "num": 131983,
+      "word": "你是蒋奇明那他是谁",
+      "onboard_time": 1768381701,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 131894,
+      "num": 131894,
+      "word": "2026国考上岸",
+      "onboard_time": 1768379480,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 131891,
@@ -21707,14 +21835,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 125534,
-      "num": 125534,
-      "word": "2026国考上岸",
-      "onboard_time": 1768379480,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
       "raw_hot": 125417,
       "num": 125417,
       "word": "网剧双轨",
@@ -22153,6 +22273,14 @@
       "onboard_time": 1767704482,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123116,
+      "num": 123116,
+      "word": "JDG揭幕战开门红",
+      "onboard_time": 1768382481,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 123077,
@@ -23363,6 +23491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117598,
+      "num": 117598,
+      "word": "王者妲己新皮肤爆料",
+      "onboard_time": 1768380921,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 117594,
       "num": 284646,
       "word": "谁懂石明鑫背刺文韬这段",
@@ -24417,6 +24553,14 @@
       "onboard_time": 1767431725,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113504,
+      "num": 113504,
+      "word": "MLB回应抽奖中羽绒服结果收到挂件",
+      "onboard_time": 1768383202,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113415,
@@ -26475,14 +26619,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 105012,
-      "num": 105012,
-      "word": "周杰伦澳网",
-      "onboard_time": 1768380501,
-      "rank": 36,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 105001,
       "num": 198265,
       "word": "高德向100万小商家免费开放飞行街景",
@@ -26769,6 +26905,14 @@
       "onboard_time": 1767456082,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104015,
+      "num": 104015,
+      "word": "WBG对战iG",
+      "onboard_time": 1768382422,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 104011,
@@ -27745,6 +27889,14 @@
       "onboard_time": 1768040060,
       "rank": 28,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 100907,
+      "num": 100907,
+      "word": "鹅鸭杀手游角色从夯到拉排名",
+      "onboard_time": 1768382422,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 100883,
@@ -29441,6 +29593,14 @@
       "onboard_time": 1767871881,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 95946,
+      "num": 95946,
+      "word": "发明极简婚礼的人真是个天才",
+      "onboard_time": 1768383020,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 95901,
@@ -31267,6 +31427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90173,
+      "num": 90173,
+      "word": "当鹅鸭杀留下4个带刀时",
+      "onboard_time": 1768382481,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 90146,
       "num": 221112,
       "word": "张凌赫适乐肤线下人气",
@@ -31499,6 +31667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89528,
+      "num": 89528,
+      "word": "月神少女的权威我后知后觉",
+      "onboard_time": 1768382002,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 89502,
       "num": 89502,
       "word": "演了4集男女主怼了4集",
@@ -31609,14 +31785,6 @@
       "onboard_time": 1768354459,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 89143,
-      "num": 89143,
-      "word": "主人称装死小羊再高价也不卖",
-      "onboard_time": 1768380862,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89134,
@@ -45072,6 +45240,14 @@
       "word": "2025四川新生儿叫锦程雨桐最多",
       "onboard_time": 1767364524,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10019,
+      "num": 167166,
+      "word": "当事人独家回应评标被除名事件",
+      "onboard_time": 1768382901,
+      "rank": 19,
       "category": "民生新闻"
     },
     {

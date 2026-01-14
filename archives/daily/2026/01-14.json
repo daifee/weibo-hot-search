@@ -1,6 +1,6 @@
 {
   "startTime": 1768322530118,
-  "endTime": 1768380940990,
+  "endTime": 1768383461619,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -59,12 +59,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 899485,
+      "num": 899485,
+      "word": "彭十六",
+      "onboard_time": 1768380440,
+      "rank": 6,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 826962,
       "num": 382101,
       "word": "iPhone18Pro新爆料",
       "onboard_time": 1768366281,
       "rank": 6,
       "category": "数码"
+    },
+    {
+      "raw_hot": 776979,
+      "num": 285190,
+      "word": "春晚已经不好笑到好笑的程度了",
+      "onboard_time": 1768378881,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 716310,
+      "num": 694581,
+      "word": "携程 杀熟",
+      "onboard_time": 1768380501,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 713520,
@@ -115,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 603170,
+      "num": 603170,
+      "word": "40一盒和400一盒草莓的区别",
+      "onboard_time": 1768377380,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 601392,
       "num": 940509,
       "word": "携程",
@@ -137,6 +169,14 @@
       "onboard_time": 1768364301,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 561981,
+      "num": 561981,
+      "word": "携程回应被查",
+      "onboard_time": 1768382601,
+      "rank": 6,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 561656,
@@ -177,14 +217,6 @@
       "onboard_time": 1768363222,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 521466,
-      "num": 521466,
-      "word": "40一盒和400一盒草莓的区别",
-      "onboard_time": 1768377380,
-      "rank": 4,
-      "category": "美食"
     },
     {
       "raw_hot": 505322,
@@ -297,6 +329,14 @@
       "onboard_time": 1768364061,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 427044,
+      "num": 167143,
+      "word": "周杰伦澳网",
+      "onboard_time": 1768380501,
+      "rank": 36,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 424570,
@@ -427,14 +467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 334247,
-      "num": 334247,
-      "word": "彭十六",
-      "onboard_time": 1768380440,
-      "rank": 6,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 331038,
       "num": 331038,
       "word": "韩国女孩被逼婚出逃上海",
@@ -451,12 +483,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 320640,
+      "num": 160308,
+      "word": "网友评林志玲面相变了",
+      "onboard_time": 1768381521,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 311979,
+      "num": 159590,
+      "word": "微博之夜 集体婚礼",
+      "onboard_time": 1768382601,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 307647,
       "num": 170272,
       "word": "金鸡白玉兰得主居然演短剧了",
       "onboard_time": 1768374741,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 306541,
+      "num": 306541,
+      "word": "男子拍摄近视眼女友站岗爆火",
+      "onboard_time": 1768381762,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 301894,
@@ -603,12 +659,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 232266,
-      "num": 232266,
-      "word": "春晚已经不好笑到好笑的程度了",
-      "onboard_time": 1768378881,
-      "rank": 18,
-      "category": "幽默"
+      "raw_hot": 234765,
+      "num": 234765,
+      "word": "极品饭灵根真的出现了",
+      "onboard_time": 1768381103,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 233858,
+      "num": 233858,
+      "word": "彭十六已被禁言",
+      "onboard_time": 1768380620,
+      "rank": 21,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 231426,
@@ -659,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213261,
+      "num": 158048,
+      "word": "周杰伦澳网一轮游",
+      "onboard_time": 1768382961,
+      "rank": 27,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 213143,
       "num": 213143,
       "word": "女子遭丈夫掐脖致残后床头放斧头",
@@ -675,11 +747,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 207673,
+      "num": 159107,
+      "word": "37岁坚持化妆200天的变化",
+      "onboard_time": 1768380921,
+      "rank": 25,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 207123,
       "num": 207123,
       "word": "BBC报道死了么APP",
       "onboard_time": 1768317562,
       "rank": 11,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 205987,
+      "num": 205987,
+      "word": "建议关闭微信的支付后摇一摇功能",
+      "onboard_time": 1768380081,
+      "rank": 19,
       "category": "互联网"
     },
     {
@@ -819,12 +907,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174752,
+      "num": 174752,
+      "word": "LPL",
+      "onboard_time": 1768382661,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 174192,
       "num": 130198,
       "word": "13岁男孩泡澡20分钟脑出血",
       "onboard_time": 1768316602,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174058,
+      "num": 174058,
+      "word": "贵妃出浴裸露争议点不应是雅不雅",
+      "onboard_time": 1768381222,
+      "rank": 16,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 172656,
@@ -859,12 +963,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 169208,
-      "num": 169208,
-      "word": "建议关闭微信的支付后摇一摇功能",
-      "onboard_time": 1768380081,
-      "rank": 19,
-      "category": "互联网"
+      "raw_hot": 168079,
+      "num": 168079,
+      "word": "银价彻底杀疯了",
+      "onboard_time": 1768378161,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 167101,
@@ -873,6 +977,14 @@
       "onboard_time": 1768347379,
       "rank": 31,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 167071,
+      "num": 167071,
+      "word": "JDG战胜eStar",
+      "onboard_time": 1768382121,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 163244,
@@ -907,14 +1019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160217,
-      "num": 160217,
-      "word": "彭十六已被禁言",
-      "onboard_time": 1768380620,
-      "rank": 21,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 159668,
       "num": 159668,
       "word": "国漫白切黑医生姐姐你好香",
@@ -927,6 +1031,14 @@
       "num": 158310,
       "word": "老鹰vs湖人",
       "onboard_time": 1768364542,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 157719,
+      "num": 157719,
+      "word": "澳网",
+      "onboard_time": 1768382841,
       "rank": 28,
       "category": "体育"
     },
@@ -1011,28 +1123,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 145186,
-      "num": 145186,
-      "word": "携程 杀熟",
-      "onboard_time": 1768380501,
-      "rank": 23,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 143964,
       "num": 117527,
       "word": "余华人和人交往尽量少说话",
       "onboard_time": 1768347379,
       "rank": 37,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 143084,
-      "num": 143084,
-      "word": "银价彻底杀疯了",
-      "onboard_time": 1768378161,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 141189,
@@ -1043,12 +1139,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140828,
+      "num": 140828,
+      "word": "主人称装死小羊再高价也不卖",
+      "onboard_time": 1768380862,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139913,
       "num": 150523,
       "word": "樊振东德甲欧冠未来赛程",
       "onboard_time": 1768362920,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139451,
+      "num": 139451,
+      "word": "荣耀之战",
+      "onboard_time": 1768380801,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 139419,
@@ -1065,6 +1177,14 @@
       "onboard_time": 1768326915,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137738,
+      "num": 137738,
+      "word": "携程曾涉不正当竞争纠纷",
+      "onboard_time": 1768382481,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 136499,
@@ -1115,6 +1235,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131983,
+      "num": 131983,
+      "word": "你是蒋奇明那他是谁",
+      "onboard_time": 1768381701,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 131894,
+      "num": 131894,
+      "word": "2026国考上岸",
+      "onboard_time": 1768379480,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 129862,
       "num": 117285,
       "word": "美国批准向中国出口英伟达H200芯片",
@@ -1155,14 +1291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125534,
-      "num": 125534,
-      "word": "2026国考上岸",
-      "onboard_time": 1768379480,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
       "raw_hot": 124503,
       "num": 124503,
       "word": "寿司郎 黄牛号",
@@ -1177,6 +1305,14 @@
       "onboard_time": 1768376121,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123116,
+      "num": 123116,
+      "word": "JDG揭幕战开门红",
+      "onboard_time": 1768382481,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 121953,
@@ -1217,6 +1353,14 @@
       "onboard_time": 1768377440,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117598,
+      "num": 117598,
+      "word": "王者妲己新皮肤爆料",
+      "onboard_time": 1768380921,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 116283,
@@ -1273,6 +1417,14 @@
       "onboard_time": 1768379421,
       "rank": 31,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 113504,
+      "num": 113504,
+      "word": "MLB回应抽奖中羽绒服结果收到挂件",
+      "onboard_time": 1768383202,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112390,
@@ -1395,14 +1547,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 105012,
-      "num": 105012,
-      "word": "周杰伦澳网",
-      "onboard_time": 1768380501,
-      "rank": 36,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 104872,
       "num": 130770,
       "word": "金价",
@@ -1425,6 +1569,14 @@
       "onboard_time": 1768342334,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104015,
+      "num": 104015,
+      "word": "WBG对战iG",
+      "onboard_time": 1768382422,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 103330,
@@ -1457,6 +1609,14 @@
       "onboard_time": 1768372760,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 100907,
+      "num": 100907,
+      "word": "鹅鸭杀手游角色从夯到拉排名",
+      "onboard_time": 1768382422,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 100479,
@@ -1571,12 +1731,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95659,
-      "num": 95659,
-      "word": "荣耀之战",
-      "onboard_time": 1768380801,
-      "rank": 46,
-      "category": "演出"
+      "raw_hot": 95946,
+      "num": 95946,
+      "word": "发明极简婚礼的人真是个天才",
+      "onboard_time": 1768383020,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 95475,
@@ -1723,6 +1883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 90173,
+      "num": 90173,
+      "word": "当鹅鸭杀留下4个带刀时",
+      "onboard_time": 1768382481,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 90012,
       "num": 99955,
       "word": "今年最有爆相的古偶",
@@ -1739,6 +1907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 89528,
+      "num": 89528,
+      "word": "月神少女的权威我后知后觉",
+      "onboard_time": 1768382002,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 89309,
       "num": 89309,
       "word": "怪不得手机玩起来这么亲切",
@@ -1753,14 +1929,6 @@
       "onboard_time": 1768354459,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 89143,
-      "num": 89143,
-      "word": "主人称装死小羊再高价也不卖",
-      "onboard_time": 1768380862,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89134,
@@ -2440,6 +2608,14 @@
       "word": "揭秘产检正常出生畸形涉事医院",
       "onboard_time": 1768372820,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10019,
+      "num": 167166,
+      "word": "当事人独家回应评标被除名事件",
+      "onboard_time": 1768382901,
+      "rank": 19,
       "category": "民生新闻"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768380940990,
+  "endTime": 1768383461619,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1019,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 899485,
+      "num": 899485,
+      "word": "彭十六",
+      "onboard_time": 1768380440,
+      "rank": 6,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 898363,
       "num": 626145,
       "word": "尚公主",
@@ -1411,6 +1419,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 776979,
+      "num": 285190,
+      "word": "春晚已经不好笑到好笑的程度了",
+      "onboard_time": 1768378881,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 776597,
       "num": 248337,
       "word": "当我意识到姚晨在发圣地巡礼的时候",
@@ -1665,6 +1681,14 @@
       "onboard_time": 1768133361,
       "rank": 20,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 716310,
+      "num": 694581,
+      "word": "携程 杀熟",
+      "onboard_time": 1768380501,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 714958,
@@ -2299,6 +2323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 603170,
+      "num": 603170,
+      "word": "40一盒和400一盒草莓的区别",
+      "onboard_time": 1768377380,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 603107,
       "num": 611783,
       "word": "南通一医院酿一级甲等医疗事故",
@@ -2369,38 +2401,6 @@
       "onboard_time": 1767947121,
       "rank": 21,
       "category": "网红"
-    },
-    {
-      "raw_hot": 594195,
-      "num": 181261,
-      "word": "口子姐曾自曝患梅毒手臂溃烂",
-      "onboard_time": 1768290980,
-      "rank": 22,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 592698,
-      "num": 592698,
-      "word": "女子以油养肤导致面部疯狂掉皮",
-      "onboard_time": 1767679040,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 592422,
-      "num": 844347,
-      "word": "委内瑞拉首都街头几乎空无一人",
-      "onboard_time": 1767444805,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 592079,
-      "num": 182278,
-      "word": "闫学晶儿子说对不起",
-      "onboard_time": 1768199422,
-      "rank": 14,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
