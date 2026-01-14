@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/15 00:41:28 ~ 2026/01/15 02:58:31
+本榜单时间：2026/01/15 00:41:28 ~ 2026/01/15 03:27:35
 </p>
 </blockquote>
 <p>
@@ -401,6 +401,12 @@ WB对战AG（热度：71414）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23U23%E7%94%B7%E8%B6%B3%E6%88%98%E5%B9%B3%E6%B3%B0%E5%9B%BD%E9%98%9F%23" target="weibo">
 U23男足战平泰国队（热度：16970）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%B8%81%E7%A8%8B%E9%91%AB%E5%AE%88%E6%8A%A4%E6%98%9F%E6%84%BF%23" target="weibo">
+为丁程鑫守护星愿（热度：15559）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1768408888455,
-  "endTime": 1768417111968,
+  "endTime": 1768418855770,
   "band_list": [
     {
       "raw_hot": 2401677,
@@ -521,6 +521,14 @@
       "onboard_time": 1768416314,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15559,
+      "num": 15559,
+      "word": "为丁程鑫守护星愿",
+      "onboard_time": 1768410557,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 15445,
