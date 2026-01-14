@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/14 23:34:14
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/14 23:47:59
 </p>
 </blockquote>
 <p>
@@ -1437,6 +1437,12 @@ A股（热度：713520）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%9A%82%E5%81%9C%E5%AF%B975%E4%B8%AA%E5%9B%BD%E5%AE%B6%E7%9A%84%E6%89%80%E6%9C%89%E7%AD%BE%E8%AF%81%23" target="weibo">
+美国将暂停对75个国家的所有签证（热度：680062）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%93%AD%E8%AF%89%E5%B8%A62%E5%B2%81%E5%84%BF%E5%AD%90%E5%8E%BB%E5%A5%B3%E6%B5%B4%E5%AE%A4%E9%81%AD%E6%8B%92%23" target="weibo">
 女子哭诉带2岁儿子去女浴室遭拒（热度：679440）
 </a>
@@ -1847,12 +1853,6 @@ CSGO（热度：630992）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8F%B0%E8%AF%8D%23" target="weibo">
 赵丽颖台词（热度：600605）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%9A%82%E5%81%9C%E5%AF%B975%E4%B8%AA%E5%9B%BD%E5%AE%B6%E7%9A%84%E6%89%80%E6%9C%89%E7%AD%BE%E8%AF%81%23" target="weibo">
-美国将暂停对75个国家的所有签证（热度：600350）
 </a>
 </li>
 
@@ -5355,6 +5355,12 @@ WB对战RW（热度：355689）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E7%A7%B0%E8%B4%BA%E5%A8%87%E9%BE%99%E5%B7%B2%E8%BD%AC%E9%99%A2%23" target="weibo">
+医院称贺娇龙已转院（热度：330702）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E4%B8%AD%E5%B7%B4%E5%BB%BA%E4%BA%A4%E4%B8%83%E5%8D%81%E4%BA%94%E8%BD%BD%E5%90%88%E7%85%A7%23" target="weibo">
 张艺兴中巴建交七十五载合照（热度：330689）
 </a>
@@ -6005,12 +6011,6 @@ iPhone自带堪比打印机的软件（热度：315415）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%A8%B1%E5%AD%90%E6%9B%9D%E6%9F%90%E5%A5%B3%E6%98%9F%E7%88%B1%E5%8D%8A%E5%A4%9C%E5%96%9D%E9%85%92%23" target="weibo">
 赵樱子曝某女星爱半夜喝酒（热度：304944）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%23" target="weibo">
-原神（热度：304894）
 </a>
 </li>
 

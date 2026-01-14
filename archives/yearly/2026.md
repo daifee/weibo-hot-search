@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/14 23:34:14
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/14 23:47:59
 </p>
 </blockquote>
 <p>
@@ -1437,6 +1437,12 @@ A股（热度：713520）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%9A%82%E5%81%9C%E5%AF%B975%E4%B8%AA%E5%9B%BD%E5%AE%B6%E7%9A%84%E6%89%80%E6%9C%89%E7%AD%BE%E8%AF%81%23" target="weibo">
+美国将暂停对75个国家的所有签证（热度：680062）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%93%AD%E8%AF%89%E5%B8%A62%E5%B2%81%E5%84%BF%E5%AD%90%E5%8E%BB%E5%A5%B3%E6%B5%B4%E5%AE%A4%E9%81%AD%E6%8B%92%23" target="weibo">
 女子哭诉带2岁儿子去女浴室遭拒（热度：679440）
 </a>
@@ -1805,12 +1811,6 @@ CSGO（热度：630992）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94%E9%80%81%E9%BB%84%E9%87%91%E5%B0%8F%E9%A9%AC%E6%8C%82%E4%BB%B6%23" target="weibo">
 海底捞回应送黄金小马挂件（热度：604548）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%20%E8%AF%81%E4%B9%A6%E5%88%B0%E6%9C%9F%23" target="weibo">
-英雄联盟 证书到期（热度：604002）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768404854806,
+  "endTime": 1768405679294,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -667,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 680062,
+      "num": 1108809,
+      "word": "美国将暂停对75个国家的所有签证",
+      "onboard_time": 1768403241,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 673583,
       "num": 176737,
       "word": "演员夫妻回应撞死人后拉黑遗属",
@@ -873,14 +881,6 @@
       "onboard_time": 1768131441,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 600350,
-      "num": 600350,
-      "word": "美国将暂停对75个国家的所有签证",
-      "onboard_time": 1768403241,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 599085,
@@ -2044,7 +2044,7 @@
     },
     {
       "raw_hot": 384876,
-      "num": 201701,
+      "num": 246319,
       "word": "成都网红发起刨猪宴临时取消引争议",
       "onboard_time": 1768402401,
       "rank": 13,
@@ -2473,6 +2473,14 @@
       "onboard_time": 1768376780,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 330702,
+      "num": 330702,
+      "word": "医院称贺娇龙已转院",
+      "onboard_time": 1768404441,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 330689,
@@ -3323,6 +3331,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 255524,
+      "num": 255524,
+      "word": "行测",
+      "onboard_time": 1768404082,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 255438,
       "num": 258704,
       "word": "奔跑吧节目组还没联系邵子恒吗",
@@ -3683,6 +3699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230391,
+      "num": 230391,
+      "word": "杨幂 见面会",
+      "onboard_time": 1768404802,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230204,
       "num": 763988,
       "word": "易烊千玺报名金像奖男配",
@@ -3913,6 +3937,14 @@
       "onboard_time": 1768227501,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 217083,
+      "num": 217083,
+      "word": "马年春晚",
+      "onboard_time": 1768402162,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 216857,
@@ -4307,14 +4339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197143,
-      "num": 197143,
-      "word": "行测",
-      "onboard_time": 1768404082,
-      "rank": 16,
-      "category": "教育"
-    },
-    {
       "raw_hot": 196883,
       "num": 196883,
       "word": "范某某索要运动员奖金基本属实",
@@ -4625,14 +4649,6 @@
       "onboard_time": 1768278983,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 189219,
-      "num": 189219,
-      "word": "马年春晚",
-      "onboard_time": 1768402162,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 189067,
@@ -5057,6 +5073,14 @@
       "onboard_time": 1768120341,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176521,
+      "num": 176521,
+      "word": "死了么APP征名奖励666元",
+      "onboard_time": 1768404082,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 176280,
@@ -6289,14 +6313,6 @@
       "onboard_time": 1768259719,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 146892,
-      "num": 146892,
-      "word": "死了么APP征名奖励666元",
-      "onboard_time": 1768404082,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 146693,
@@ -8251,14 +8267,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 115242,
-      "num": 115242,
-      "word": "杨幂 见面会",
-      "onboard_time": 1768404802,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 115228,
       "num": 115228,
       "word": "莫雷加德采访回应比赛视线受干扰",
@@ -8433,6 +8441,14 @@
       "onboard_time": 1768131259,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113484,
+      "num": 113484,
+      "word": "樊振东感谢多特送球衣",
+      "onboard_time": 1768404441,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 113415,
@@ -8795,14 +8811,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 109555,
-      "num": 109555,
-      "word": "樊振东感谢多特送球衣",
-      "onboard_time": 1768404441,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 109537,
       "num": 109537,
       "word": "特朗普疑对工人爆粗口并竖中指",
@@ -8873,6 +8881,14 @@
       "onboard_time": 1768130841,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 108907,
+      "num": 108907,
+      "word": "陈星旭卢昱晓剧里互吻剧外互关",
+      "onboard_time": 1768405460,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 108884,
@@ -9227,6 +9243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 105254,
+      "num": 105254,
+      "word": "原来苏翊鸣10岁就和佟丽娅演过电影",
+      "onboard_time": 1768405341,
+      "rank": 28,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 105137,
       "num": 105137,
       "word": "活了么APP免费下载",
@@ -9353,6 +9377,14 @@
       "onboard_time": 1768135823,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103754,
+      "num": 103754,
+      "word": "小猫也会因为早恋被训斥",
+      "onboard_time": 1768404740,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 103725,
@@ -11091,14 +11123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 87193,
-      "num": 87193,
-      "word": "小猫也会因为早恋被训斥",
-      "onboard_time": 1768404740,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 87106,
       "num": 90475,
       "word": "艾米的妆是自己化的",
@@ -11145,6 +11169,14 @@
       "onboard_time": 1768202000,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86467,
+      "num": 86467,
+      "word": "邓恩熙姐感",
+      "onboard_time": 1768405280,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 86411,
@@ -11857,6 +11889,14 @@
       "onboard_time": 1768184780,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78766,
+      "num": 78766,
+      "word": "易点天下停牌核查",
+      "onboard_time": 1768405220,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 78357,
@@ -13107,6 +13147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51105,
+      "num": 123423,
+      "word": "当街抢小孩女子已被警方带走",
+      "onboard_time": 1768405041,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51042,
       "num": 157776,
       "word": "家政市场爆单了",
@@ -13753,14 +13801,6 @@
       "onboard_time": 1768332616,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 33961,
-      "num": 176933,
-      "word": "医院称贺娇龙已转院",
-      "onboard_time": 1768404441,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33814,
