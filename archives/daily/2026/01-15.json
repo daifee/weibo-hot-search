@@ -1,6 +1,6 @@
 {
   "startTime": 1768408888455,
-  "endTime": 1768412145040,
+  "endTime": 1768413206531,
   "band_list": [
     {
       "raw_hot": 2401677,
@@ -99,8 +99,8 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 168833,
-      "num": 168833,
+      "raw_hot": 187327,
+      "num": 239125,
       "word": "AI查贪官准确率相当高",
       "onboard_time": 1768409238,
       "rank": 23,
@@ -123,6 +123,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 161015,
+      "num": 161015,
+      "word": "贺娇龙所有直播打赏均用于公益事业",
+      "onboard_time": 1768412595,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159436,
       "num": 159436,
       "word": "成都网红发起刨猪宴临时取消引争议",
@@ -137,6 +145,14 @@
       "onboard_time": 1768405460,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136359,
+      "num": 136359,
+      "word": "一袭红衣策马扬鞭的贺娇龙走了",
+      "onboard_time": 1768412536,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112237,
@@ -299,12 +315,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 57721,
+      "num": 57721,
+      "word": "贺娇龙5天前曾发视频聊汗血马",
+      "onboard_time": 1768412416,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57665,
       "num": 57665,
       "word": "80多家央企负责人薪酬公开",
       "onboard_time": 1768396642,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 57122,
+      "num": 57122,
+      "word": "把钱藏海外的贪官栽了",
+      "onboard_time": 1768409539,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 56802,
@@ -345,14 +377,6 @@
       "onboard_time": 1768385600,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 54619,
-      "num": 54619,
-      "word": "把钱藏海外的贪官栽了",
-      "onboard_time": 1768409539,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 53928,

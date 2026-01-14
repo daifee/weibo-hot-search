@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768412145040,
+  "endTime": 1768413206531,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -4747,6 +4747,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 187327,
+      "num": 239125,
+      "word": "AI查贪官准确率相当高",
+      "onboard_time": 1768409238,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187267,
       "num": 153536,
       "word": "穆祉丞更新",
@@ -5387,14 +5395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168833,
-      "num": 168833,
-      "word": "AI查贪官准确率相当高",
-      "onboard_time": 1768409238,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168105,
       "num": 568210,
       "word": "陈幸同晋级多哈冠军赛决赛",
@@ -5648,6 +5648,14 @@
       "word": "中国科学家发现基因封条",
       "onboard_time": 1768105400,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161015,
+      "num": 161015,
+      "word": "贺娇龙所有直播打赏均用于公益事业",
+      "onboard_time": 1768412595,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -6857,6 +6865,14 @@
       "onboard_time": 1768373841,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136359,
+      "num": 136359,
+      "word": "一袭红衣策马扬鞭的贺娇龙走了",
+      "onboard_time": 1768412536,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136323,
@@ -13027,12 +13043,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 57721,
+      "num": 57721,
+      "word": "贺娇龙5天前曾发视频聊汗血马",
+      "onboard_time": 1768412416,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57439,
       "num": 90266,
       "word": "摇篮曲公告",
       "onboard_time": 1768295663,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 57122,
+      "num": 57122,
+      "word": "把钱藏海外的贪官栽了",
+      "onboard_time": 1768409539,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 56872,
@@ -13089,14 +13121,6 @@
       "onboard_time": 1768260918,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 54619,
-      "num": 54619,
-      "word": "把钱藏海外的贪官栽了",
-      "onboard_time": 1768409539,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 54222,
