@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768399104791,
+  "endTime": 1768401239540,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 1075672,
-      "num": 275374,
+      "num": 316398,
       "word": "母亲躲藏致女儿心源性休克身亡",
       "onboard_time": 1768392561,
       "rank": 10,
@@ -289,6 +289,14 @@
       "onboard_time": 1768096401,
       "rank": 10,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1039734,
+      "num": 412197,
+      "word": "河南一教师与学生发生不正当关系",
+      "onboard_time": 1768395320,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1030323,
@@ -363,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 895620,
-      "num": 274166,
-      "word": "河南一教师与学生发生不正当关系",
-      "onboard_time": 1768395320,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 888305,
       "num": 277939,
       "word": "陈楚河承认恋情",
@@ -401,6 +401,14 @@
       "onboard_time": 1768386681,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 848845,
+      "num": 316523,
+      "word": "佟丽娅连续三年收到苏翊鸣的滑板",
+      "onboard_time": 1768396701,
+      "rank": 13,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 848525,
@@ -987,6 +995,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 572336,
+      "num": 411721,
+      "word": "27岁男子订婚后才知女友快40岁",
+      "onboard_time": 1768400002,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 571282,
       "num": 1091405,
       "word": "烟台暴雪下冒烟了",
@@ -1059,6 +1075,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 557855,
+      "num": 557855,
+      "word": "花海晒聊天记录",
+      "onboard_time": 1768397181,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 555275,
       "num": 137995,
       "word": "贺娇龙受伤仍在救治",
@@ -1108,7 +1132,7 @@
     },
     {
       "raw_hot": 538097,
-      "num": 268615,
+      "num": 315928,
       "word": "贺峻霖悉尼",
       "onboard_time": 1768394841,
       "rank": 14,
@@ -1297,14 +1321,6 @@
       "onboard_time": 1768198220,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 488440,
-      "num": 271942,
-      "word": "佟丽娅连续三年收到苏翊鸣的滑板",
-      "onboard_time": 1768396701,
-      "rank": 13,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 488051,
@@ -2003,6 +2019,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 381451,
+      "num": 381451,
+      "word": "代旭 我是配角怎敢吃醋",
+      "onboard_time": 1768397720,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 379813,
       "num": 229939,
       "word": "陈哲远 三个人的婚礼有点拥挤",
@@ -2547,6 +2571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317387,
+      "num": 317387,
+      "word": "一诺解说",
+      "onboard_time": 1768398082,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 315751,
       "num": 206755,
       "word": "白敬亭LV活动生图",
@@ -2561,6 +2593,14 @@
       "onboard_time": 1768107620,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 315605,
+      "num": 315605,
+      "word": "马嘉祺读粉丝来信哭了",
+      "onboard_time": 1768398021,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 315457,
@@ -2593,14 +2633,6 @@
       "onboard_time": 1768302741,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 314468,
-      "num": 207324,
-      "word": "花海晒聊天记录",
-      "onboard_time": 1768397181,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 314407,
@@ -2753,14 +2785,6 @@
       "onboard_time": 1768127241,
       "rank": 15,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 296995,
-      "num": 296995,
-      "word": "一诺解说",
-      "onboard_time": 1768398082,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 296789,
@@ -3139,14 +3163,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 267182,
-      "num": 267182,
-      "word": "马嘉祺读粉丝来信哭了",
-      "onboard_time": 1768398021,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 266824,
       "num": 266824,
       "word": "首款登顶Steam国游将上线鸿蒙",
@@ -3289,14 +3305,6 @@
       "onboard_time": 1768173858,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 255259,
-      "num": 270279,
-      "word": "代旭 我是配角怎敢吃醋",
-      "onboard_time": 1768397720,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 254832,
@@ -4507,6 +4515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 191059,
+      "num": 191059,
+      "word": "家属回应母亲躲藏致女儿心源性休克身亡",
+      "onboard_time": 1768399403,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190923,
       "num": 179861,
       "word": "谁家综艺7个嘉宾哭了4个",
@@ -4747,6 +4763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184046,
+      "num": 184046,
+      "word": "疑似张颂文不演狂流了",
+      "onboard_time": 1768397842,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183906,
       "num": 126134,
       "word": "时代峰峻下架王橹杰音效争议视频",
@@ -4897,14 +4921,6 @@
       "onboard_time": 1768138701,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 179601,
-      "num": 179601,
-      "word": "疑似张颂文不演狂流了",
-      "onboard_time": 1768397842,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 179344,
@@ -5859,6 +5875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153686,
+      "num": 153686,
+      "word": "周翊然余承恩同框",
+      "onboard_time": 1768399882,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153604,
       "num": 153604,
       "word": "12306回应一等座禁止无座乘客逗留",
@@ -6395,20 +6419,20 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 142810,
+      "num": 152941,
+      "word": "美军机沿伊朗边界飞行",
+      "onboard_time": 1768395742,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 142704,
       "num": 142704,
       "word": "谁懂恶女身后是更小的恶女",
       "onboard_time": 1768120520,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 142453,
-      "num": 152941,
-      "word": "美军机沿伊朗边界飞行",
-      "onboard_time": 1768395742,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 142325,
@@ -6707,6 +6731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136041,
+      "num": 136041,
+      "word": "王曼昱新造型现身",
+      "onboard_time": 1768401202,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135879,
       "num": 135879,
       "word": "雷军回应小米二手车行情",
@@ -6939,6 +6971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132517,
+      "num": 132517,
+      "word": "黄晓明新剧一己之力得罪一千个人",
+      "onboard_time": 1768400542,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132456,
       "num": 114557,
       "word": "张远唱嘉宾这不就是婚礼吗",
@@ -7145,6 +7185,14 @@
       "onboard_time": 1768230802,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128327,
+      "num": 181571,
+      "word": "贪官阁楼烧现金企图脱罪",
+      "onboard_time": 1768399882,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 128274,
@@ -7625,6 +7673,14 @@
       "onboard_time": 1768279461,
       "rank": 37,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 121194,
+      "num": 121194,
+      "word": "钟意行程冲突",
+      "onboard_time": 1768400962,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 121186,
@@ -8537,6 +8593,14 @@
       "onboard_time": 1768174458,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110245,
+      "num": 110245,
+      "word": "TES对战JDG",
+      "onboard_time": 1768397781,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 110235,
@@ -13019,6 +13083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 44242,
+      "num": 122503,
+      "word": "快递驿站经营者称每月只赚五六千",
+      "onboard_time": 1768400601,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44190,
       "num": 126389,
       "word": "原来三个人的感情一点也不拥挤",
@@ -13225,6 +13297,14 @@
       "onboard_time": 1768217901,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40006,
+      "num": 815151,
+      "word": "8图看经济工作8大重点任务攻坚",
+      "onboard_time": 1768397421,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 39986,
@@ -13553,14 +13633,6 @@
       "onboard_time": 1768064419,
       "rank": 47,
       "category": "军事"
-    },
-    {
-      "raw_hot": 32334,
-      "num": 815151,
-      "word": "8图看经济工作8大重点任务攻坚",
-      "onboard_time": 1768397421,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 32216,
@@ -13929,6 +14001,14 @@
       "onboard_time": 1768153996,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 24858,
+      "num": 183247,
+      "word": "尹锡悦为何被要求死刑",
+      "onboard_time": 1768400841,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 24817,

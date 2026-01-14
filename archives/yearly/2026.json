@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768399104791,
+  "endTime": 1768401239540,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -668,7 +668,7 @@
     },
     {
       "raw_hot": 1075672,
-      "num": 275374,
+      "num": 316398,
       "word": "母亲躲藏致女儿心源性休克身亡",
       "onboard_time": 1768392561,
       "rank": 10,
@@ -737,6 +737,14 @@
       "onboard_time": 1768096401,
       "rank": 10,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1039734,
+      "num": 412197,
+      "word": "河南一教师与学生发生不正当关系",
+      "onboard_time": 1768395320,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1034811,
@@ -1067,14 +1075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 895620,
-      "num": 274166,
-      "word": "河南一教师与学生发生不正当关系",
-      "onboard_time": 1768395320,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 888305,
       "num": 277939,
       "word": "陈楚河承认恋情",
@@ -1177,6 +1177,14 @@
       "onboard_time": 1767971901,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 848845,
+      "num": 316523,
+      "word": "佟丽娅连续三年收到苏翊鸣的滑板",
+      "onboard_time": 1768396701,
+      "rank": 13,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 848525,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768377380,
       "rank": 4,
       "category": "美食"
-    },
-    {
-      "raw_hot": 603107,
-      "num": 611783,
-      "word": "南通一医院酿一级甲等医疗事故",
-      "onboard_time": 1767939802,
-      "rank": 30,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

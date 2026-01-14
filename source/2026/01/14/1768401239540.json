@@ -1,0 +1,410 @@
+{
+  "runTime": 1768401239540,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1410580,
+        "num": 1410580,
+        "word": "国考成绩",
+        "onboard_time": 1768394242,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 681016,
+        "num": 875678,
+        "word": "携程涉嫌垄断",
+        "onboard_time": 1768378102,
+        "rank": 1,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 40006,
+        "num": 731396,
+        "word": "8图看经济工作8大重点任务攻坚",
+        "onboard_time": 1768397421,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 557855,
+        "num": 557855,
+        "word": "花海晒聊天记录",
+        "onboard_time": 1768397181,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 414017,
+        "num": 414017,
+        "word": "申论分好低",
+        "onboard_time": 1768397661,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1039734,
+        "num": 412197,
+        "word": "河南一教师与学生发生不正当关系",
+        "onboard_time": 1768395320,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 572336,
+        "num": 411721,
+        "word": "27岁男子订婚后才知女友快40岁",
+        "onboard_time": 1768400002,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381451,
+        "num": 381451,
+        "word": "代旭 我是配角怎敢吃醋",
+        "onboard_time": 1768397720,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317387,
+        "num": 317387,
+        "word": "一诺解说",
+        "onboard_time": 1768398082,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 299311,
+        "num": 317294,
+        "word": "国考",
+        "onboard_time": 1768385362,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 848845,
+        "num": 316523,
+        "word": "佟丽娅连续三年收到苏翊鸣的滑板",
+        "onboard_time": 1768396701,
+        "rank": 10,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 765299,
+        "num": 316398,
+        "word": "母亲躲藏致女儿心源性休克身亡",
+        "onboard_time": 1768392561,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317696,
+        "num": 315928,
+        "word": "贺峻霖悉尼",
+        "onboard_time": 1768394841,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315605,
+        "num": 315605,
+        "word": "马嘉祺读粉丝来信哭了",
+        "onboard_time": 1768398021,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239855,
+        "num": 239855,
+        "word": "国考 没有进面的风险",
+        "onboard_time": 1768395860,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 298252,
+        "num": 238506,
+        "word": "你那儿几点 王安宇周也",
+        "onboard_time": 1768389320,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228146,
+        "num": 228146,
+        "word": "DYG战胜狼队",
+        "onboard_time": 1768393942,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191059,
+        "num": 191059,
+        "word": "家属回应母亲躲藏致女儿心源性休克身亡",
+        "onboard_time": 1768399403,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184046,
+        "num": 184046,
+        "word": "疑似张颂文不演狂流了",
+        "onboard_time": 1768397842,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24858,
+        "num": 183247,
+        "word": "尹锡悦为何被要求死刑",
+        "onboard_time": 1768400841,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128327,
+        "num": 181571,
+        "word": "贪官阁楼烧现金企图脱罪",
+        "onboard_time": 1768399882,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 322555,
+        "num": 181318,
+        "word": "银价彻底杀疯了",
+        "onboard_time": 1768378161,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 230005,
+        "num": 179777,
+        "word": "网友评林志玲面相变了",
+        "onboard_time": 1768381521,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178751,
+        "num": 178751,
+        "word": "彭十六个人账户累计收款905万",
+        "onboard_time": 1768389441,
+        "rank": 23,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 176806,
+        "num": 176806,
+        "word": "彭十六偷税案",
+        "onboard_time": 1768378881,
+        "rank": 24,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 171683,
+        "num": 171683,
+        "word": "申论",
+        "onboard_time": 1768395920,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165218,
+        "num": 165218,
+        "word": "90后医生强奸2幼女父亲曾为其辩护",
+        "onboard_time": 1768386681,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158785,
+        "num": 158785,
+        "word": "U23男足晋级淘汰赛",
+        "onboard_time": 1768398200,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153686,
+        "num": 153686,
+        "word": "周翊然余承恩同框",
+        "onboard_time": 1768399882,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148152,
+        "num": 148152,
+        "word": "杨紫新剧人设太顶了",
+        "onboard_time": 1768393760,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147819,
+        "num": 147819,
+        "word": "彭十六偷税216.32万元",
+        "onboard_time": 1768380440,
+        "rank": 30,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 142810,
+        "num": 142810,
+        "word": "美军机沿伊朗边界飞行",
+        "onboard_time": 1768395742,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142782,
+        "num": 142782,
+        "word": "WB对战AG",
+        "onboard_time": 1768397181,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141986,
+        "num": 141986,
+        "word": "龚俊因左眼下新长了颗痣而开心",
+        "onboard_time": 1768388541,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141274,
+        "num": 141274,
+        "word": "轧戏",
+        "onboard_time": 1768390941,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136041,
+        "num": 136041,
+        "word": "王曼昱新造型现身",
+        "onboard_time": 1768401202,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132517,
+        "num": 132517,
+        "word": "黄晓明新剧一己之力得罪一千个人",
+        "onboard_time": 1768400542,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129205,
+        "num": 129205,
+        "word": "国考系统 进不去",
+        "onboard_time": 1768396281,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126451,
+        "num": 126451,
+        "word": "彭十六 盛世天下",
+        "onboard_time": 1768384400,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 44242,
+        "num": 122503,
+        "word": "快递驿站经营者称每月只赚五六千",
+        "onboard_time": 1768400601,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121194,
+        "num": 121194,
+        "word": "钟意行程冲突",
+        "onboard_time": 1768400962,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121123,
+        "num": 121123,
+        "word": "12306回应一等座禁止无座乘客逗留",
+        "onboard_time": 1768392321,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118505,
+        "num": 118505,
+        "word": "80多家央企负责人薪酬公开",
+        "onboard_time": 1768396642,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117063,
+        "num": 117063,
+        "word": "嗑了13集你俩终于亲了",
+        "onboard_time": 1768393581,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116289,
+        "num": 116289,
+        "word": "伊朗开展外交活动争取支持",
+        "onboard_time": 1768395082,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115586,
+        "num": 115586,
+        "word": "当你发现可以这样夹头发时",
+        "onboard_time": 1768397842,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 114597,
+        "num": 114597,
+        "word": "马嘉祺有回声更新",
+        "onboard_time": 1768398862,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115369,
+        "num": 114541,
+        "word": "内娱商战女主从此有了脸",
+        "onboard_time": 1768398441,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112869,
+        "num": 112869,
+        "word": "桃黑黑烟花秀",
+        "onboard_time": 1768394361,
+        "rank": 48,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 110245,
+        "num": 110245,
+        "word": "TES对战JDG",
+        "onboard_time": 1768397781,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届中央纪委五次全会公报#"
+    }
+  }
+}

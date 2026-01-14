@@ -1,6 +1,6 @@
 {
   "startTime": 1768322530118,
-  "endTime": 1768399104791,
+  "endTime": 1768401239540,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -68,10 +68,18 @@
     },
     {
       "raw_hot": 1075672,
-      "num": 275374,
+      "num": 316398,
       "word": "母亲躲藏致女儿心源性休克身亡",
       "onboard_time": 1768392561,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1039734,
+      "num": 412197,
+      "word": "河南一教师与学生发生不正当关系",
+      "onboard_time": 1768395320,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -99,14 +107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 895620,
-      "num": 274166,
-      "word": "河南一教师与学生发生不正当关系",
-      "onboard_time": 1768395320,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 867183,
       "num": 867183,
       "word": "DYG战胜狼队",
@@ -121,6 +121,14 @@
       "onboard_time": 1768386681,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 848845,
+      "num": 316523,
+      "word": "佟丽娅连续三年收到苏翊鸣的滑板",
+      "onboard_time": 1768396701,
+      "rank": 13,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 826962,
@@ -259,6 +267,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 572336,
+      "num": 411721,
+      "word": "27岁男子订婚后才知女友快40岁",
+      "onboard_time": 1768400002,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 568587,
       "num": 419661,
       "word": "这几天可以先不要做美甲了",
@@ -281,6 +297,14 @@
       "onboard_time": 1768382961,
       "rank": 27,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 557855,
+      "num": 557855,
+      "word": "花海晒聊天记录",
+      "onboard_time": 1768397181,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 555275,
@@ -308,7 +332,7 @@
     },
     {
       "raw_hot": 538097,
-      "num": 268615,
+      "num": 315928,
       "word": "贺峻霖悉尼",
       "onboard_time": 1768394841,
       "rank": 14,
@@ -345,14 +369,6 @@
       "onboard_time": 1768361480,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 488440,
-      "num": 271942,
-      "word": "佟丽娅连续三年收到苏翊鸣的滑板",
-      "onboard_time": 1768396701,
-      "rank": 13,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 470266,
@@ -587,6 +603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 381451,
+      "num": 381451,
+      "word": "代旭 我是配角怎敢吃醋",
+      "onboard_time": 1768397720,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 372297,
       "num": 372297,
       "word": "与辉同行83元3只皖西麻黄鸡引质疑",
@@ -683,12 +707,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 314468,
-      "num": 207324,
-      "word": "花海晒聊天记录",
-      "onboard_time": 1768397181,
-      "rank": 24,
+      "raw_hot": 317387,
+      "num": 317387,
+      "word": "一诺解说",
+      "onboard_time": 1768398082,
+      "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 315605,
+      "num": 315605,
+      "word": "马嘉祺读粉丝来信哭了",
+      "onboard_time": 1768398021,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 307647,
@@ -729,14 +761,6 @@
       "onboard_time": 1768360700,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 296995,
-      "num": 296995,
-      "word": "一诺解说",
-      "onboard_time": 1768398082,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 291737,
@@ -843,14 +867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 267182,
-      "num": 267182,
-      "word": "马嘉祺读粉丝来信哭了",
-      "onboard_time": 1768398021,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 264361,
       "num": 264361,
       "word": "彭十六偷税216.32万元",
@@ -897,14 +913,6 @@
       "onboard_time": 1768354700,
       "rank": 22,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 255259,
-      "num": 270279,
-      "word": "代旭 我是配角怎敢吃醋",
-      "onboard_time": 1768397720,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 250319,
@@ -1203,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191059,
+      "num": 191059,
+      "word": "家属回应母亲躲藏致女儿心源性休克身亡",
+      "onboard_time": 1768399403,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190740,
       "num": 213741,
       "word": "U23男足首进亚洲杯淘汰赛",
@@ -1240,6 +1256,14 @@
       "word": "小城大事多年闺蜜反目",
       "onboard_time": 1768395502,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 184046,
+      "num": 184046,
+      "word": "疑似张颂文不演狂流了",
+      "onboard_time": 1768397842,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1289,14 +1313,6 @@
       "onboard_time": 1768319539,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 179601,
-      "num": 179601,
-      "word": "疑似张颂文不演狂流了",
-      "onboard_time": 1768397842,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 179146,
@@ -1523,6 +1539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153686,
+      "num": 153686,
+      "word": "周翊然余承恩同框",
+      "onboard_time": 1768399882,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153604,
       "num": 153604,
       "word": "12306回应一等座禁止无座乘客逗留",
@@ -1715,7 +1739,7 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 142453,
+      "raw_hot": 142810,
       "num": 152941,
       "word": "美军机沿伊朗边界飞行",
       "onboard_time": 1768395742,
@@ -1803,6 +1827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 136041,
+      "num": 136041,
+      "word": "王曼昱新造型现身",
+      "onboard_time": 1768401202,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135498,
       "num": 135498,
       "word": "贺娇龙曾谈47岁感悟",
@@ -1867,6 +1899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132517,
+      "num": 132517,
+      "word": "黄晓明新剧一己之力得罪一千个人",
+      "onboard_time": 1768400542,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132088,
       "num": 386301,
       "word": "00后新警一根针保住126万",
@@ -1905,6 +1945,14 @@
       "onboard_time": 1768360761,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128327,
+      "num": 181571,
+      "word": "贪官阁楼烧现金企图脱罪",
+      "onboard_time": 1768399882,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 127803,
@@ -2017,6 +2065,14 @@
       "onboard_time": 1768377081,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 121194,
+      "num": 121194,
+      "word": "钟意行程冲突",
+      "onboard_time": 1768400962,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 120551,
@@ -2209,6 +2265,14 @@
       "onboard_time": 1768366341,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110245,
+      "num": 110245,
+      "word": "TES对战JDG",
+      "onboard_time": 1768397781,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 110142,
@@ -3315,6 +3379,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 44242,
+      "num": 122503,
+      "word": "快递驿站经营者称每月只赚五六千",
+      "onboard_time": 1768400601,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44032,
       "num": 114258,
       "word": "乡镇民办幼儿园批量倒闭",
@@ -3363,6 +3435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40006,
+      "num": 815151,
+      "word": "8图看经济工作8大重点任务攻坚",
+      "onboard_time": 1768397421,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37153,
       "num": 1320319,
       "word": "全国铁路新增243列客车",
@@ -3400,14 +3480,6 @@
       "word": "台积电被质疑变美积电",
       "onboard_time": 1768375639,
       "rank": 19,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 32334,
-      "num": 815151,
-      "word": "8图看经济工作8大重点任务攻坚",
-      "onboard_time": 1768397421,
-      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -3481,6 +3553,14 @@
       "onboard_time": 1768383501,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 24858,
+      "num": 183247,
+      "word": "尹锡悦为何被要求死刑",
+      "onboard_time": 1768400841,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 20923,
