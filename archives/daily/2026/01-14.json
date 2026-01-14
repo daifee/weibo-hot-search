@@ -1,6 +1,6 @@
 {
   "startTime": 1768322530118,
-  "endTime": 1768364094348,
+  "endTime": 1768365291214,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -19,8 +19,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1025781,
-      "num": 1164125,
+      "raw_hot": 1099888,
+      "num": 1175982,
       "word": "以色列宣布退群",
       "onboard_time": 1768361421,
       "rank": 0,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 561656,
-      "num": 227539,
+      "num": 249244,
       "word": "朱一龙 水果报吃",
       "onboard_time": 1768355961,
       "rank": 13,
@@ -89,6 +89,22 @@
       "onboard_time": 1768359260,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 547088,
+      "num": 264247,
+      "word": "贺娇龙曾说坠马后很疼痛",
+      "onboard_time": 1768359681,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 522330,
+      "num": 849709,
+      "word": "重返狼群",
+      "onboard_time": 1768363222,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 497278,
@@ -107,14 +123,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 452408,
-      "num": 226305,
-      "word": "贺娇龙曾说坠马后很疼痛",
-      "onboard_time": 1768359681,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 448909,
       "num": 368759,
       "word": "第一次见恋综骂这么狠的",
@@ -124,14 +132,14 @@
     },
     {
       "raw_hot": 442994,
-      "num": 218429,
+      "num": 264132,
       "word": "赵丽颖 纪梵希",
       "onboard_time": 1768360940,
       "rank": 12,
       "category": "艺人"
     },
     {
-      "raw_hot": 424869,
+      "raw_hot": 433651,
       "num": 424869,
       "word": "创造营卡位选手自曝长期无收入",
       "onboard_time": 1768361661,
@@ -145,6 +153,14 @@
       "onboard_time": 1768356080,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 422895,
+      "num": 250578,
+      "word": "吕严回应王广删博",
+      "onboard_time": 1768363702,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 419160,
@@ -187,12 +203,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 379936,
+      "num": 312169,
+      "word": "这几天可以先不要做美甲了",
+      "onboard_time": 1768364301,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 367370,
       "num": 131541,
       "word": "迅猛龙 小澈",
       "onboard_time": 1768292421,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 365462,
+      "num": 236158,
+      "word": "单依纯拒绝歌手2024的原因",
+      "onboard_time": 1768364122,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 358948,
@@ -211,8 +243,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 297610,
-      "num": 297610,
+      "raw_hot": 300332,
+      "num": 300332,
       "word": "公积金制度会怎么改",
       "onboard_time": 1768360700,
       "rank": 7,
@@ -235,12 +267,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 281617,
+      "num": 281617,
+      "word": "光与夜之恋",
+      "onboard_time": 1768363821,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 272805,
       "num": 272805,
       "word": "去了瑞士才懂钱包有多瘪",
       "onboard_time": 1768353620,
       "rank": 5,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 264299,
+      "num": 264299,
+      "word": "优衣库女装男装对比",
+      "onboard_time": 1768362621,
+      "rank": 27,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 264064,
+      "num": 264064,
+      "word": "一餐厅几乎只服务贪官",
+      "onboard_time": 1768364061,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 261051,
@@ -252,7 +308,7 @@
     },
     {
       "raw_hot": 255751,
-      "num": 122407,
+      "num": 124808,
       "word": "韩国开始出现迪拜巧克力麻薯糖葫芦了",
       "onboard_time": 1768354700,
       "rank": 22,
@@ -267,16 +323,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 232045,
-      "num": 232045,
-      "word": "重返狼群",
-      "onboard_time": 1768363222,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 231426,
-      "num": 194057,
+      "num": 203031,
       "word": "何炅 我就说我不喜欢直播",
       "onboard_time": 1768362861,
       "rank": 20,
@@ -315,12 +363,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 209416,
-      "num": 209416,
-      "word": "吕严回应王广删博",
-      "onboard_time": 1768363702,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 212496,
+      "num": 212496,
+      "word": "你以为的老板vs实际上的老板",
+      "onboard_time": 1768365143,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 207123,
@@ -345,6 +393,14 @@
       "onboard_time": 1768361602,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 201192,
+      "num": 201192,
+      "word": "与辉同行83元3只皖西麻黄鸡引质疑",
+      "onboard_time": 1768363821,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194476,
@@ -387,14 +443,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 183913,
-      "num": 183913,
-      "word": "光与夜之恋",
-      "onboard_time": 1768363821,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 183623,
       "num": 183623,
       "word": "小城大事酷云跌破2了",
@@ -424,6 +472,14 @@
       "word": "13岁男孩泡澡20分钟脑出血",
       "onboard_time": 1768316602,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170559,
+      "num": 192459,
+      "word": "官方将澄清说明贺娇龙坠马事件",
+      "onboard_time": 1768363880,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -459,12 +515,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154096,
-      "num": 154096,
-      "word": "优衣库女装男装对比",
-      "onboard_time": 1768362621,
-      "rank": 27,
-      "category": "时尚"
+      "raw_hot": 158310,
+      "num": 158310,
+      "word": "老鹰vs湖人",
+      "onboard_time": 1768364542,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 152162,
@@ -489,6 +545,14 @@
       "onboard_time": 1768362621,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149482,
+      "num": 149482,
+      "word": "鸭鸭羽绒服涉多起买卖合同纠纷",
+      "onboard_time": 1768355301,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148737,
@@ -531,14 +595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138154,
-      "num": 138154,
-      "word": "鸭鸭羽绒服涉多起买卖合同纠纷",
-      "onboard_time": 1768355301,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135498,
       "num": 135498,
       "word": "贺娇龙曾谈47岁感悟",
@@ -560,6 +616,14 @@
       "word": "00后新警一根针保住126万",
       "onboard_time": 1768316002,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130523,
+      "num": 130523,
+      "word": "孩子产检正常出生却畸形母亲发声",
+      "onboard_time": 1768365202,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -587,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127114,
+      "num": 127114,
+      "word": "2025全球手机排行榜出炉",
+      "onboard_time": 1768361120,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 124503,
       "num": 124503,
       "word": "寿司郎 黄牛号",
@@ -611,12 +683,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 115747,
-      "num": 115747,
-      "word": "2025全球手机排行榜出炉",
-      "onboard_time": 1768361120,
-      "rank": 36,
-      "category": "数码"
+      "raw_hot": 114972,
+      "num": 114972,
+      "word": "两只内向的企鹅见面但是没打招呼",
+      "onboard_time": 1768364420,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 114605,
@@ -624,6 +696,30 @@
       "word": "女子连续4天在餐馆门口趴地不起",
       "onboard_time": 1768316841,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111168,
+      "num": 111168,
+      "word": "情侣是一种很诡异的亲密关系",
+      "onboard_time": 1768362079,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 110373,
+      "num": 110373,
+      "word": "韦德关注王橹杰",
+      "onboard_time": 1768365022,
+      "rank": 44,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 109727,
+      "num": 109727,
+      "word": "男子家暴妻子致残当庭指责她把家毁了",
+      "onboard_time": 1768363341,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -641,6 +737,14 @@
       "onboard_time": 1768352840,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107437,
+      "num": 115936,
+      "word": "卢昱晓 对美女从小就没抵抗力",
+      "onboard_time": 1768364901,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 106060,
@@ -675,14 +779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102161,
-      "num": 102161,
-      "word": "与辉同行83元3只皖西麻黄鸡引质疑",
-      "onboard_time": 1768363821,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100308,
       "num": 129051,
       "word": "徐老师宋威龙赵今麦合拍",
@@ -697,6 +793,22 @@
       "onboard_time": 1768350921,
       "rank": 36,
       "category": "网红"
+    },
+    {
+      "raw_hot": 99747,
+      "num": 99747,
+      "word": "玉茗茶骨",
+      "onboard_time": 1768364781,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 99487,
+      "num": 99487,
+      "word": "被这位婆婆的一天累到了",
+      "onboard_time": 1768364482,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 99457,
@@ -729,14 +841,6 @@
       "onboard_time": 1768358482,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 95545,
-      "num": 95545,
-      "word": "情侣是一种很诡异的亲密关系",
-      "onboard_time": 1768362079,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 95475,
@@ -787,12 +891,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 92628,
+      "num": 92628,
+      "word": "产检正常并不表示胎儿一定健康",
+      "onboard_time": 1768364603,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 91773,
       "num": 274985,
       "word": "抢马钞",
       "onboard_time": 1768315343,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 91608,
+      "num": 91608,
+      "word": "王者峡谷第一赘婿",
+      "onboard_time": 1768365262,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 91501,
@@ -851,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88427,
+      "num": 206028,
+      "word": "贺娇龙同事发声",
+      "onboard_time": 1768365082,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87965,
       "num": 131739,
       "word": "马币",
@@ -873,14 +1001,6 @@
       "onboard_time": 1768357281,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85148,
-      "num": 106126,
-      "word": "一餐厅几乎只服务贪官",
-      "onboard_time": 1768364061,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 84290,
@@ -971,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75986,
+      "num": 115107,
+      "word": "为什么精神疾病正在年轻化",
+      "onboard_time": 1768364301,
+      "rank": 39,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 75941,
       "num": 97195,
       "word": "iPhone自带堪比打印机的软件",
@@ -985,14 +1113,6 @@
       "onboard_time": 1768310423,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 75128,
-      "num": 106061,
-      "word": "男子家暴妻子致残当庭指责她把家毁了",
-      "onboard_time": 1768363341,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74928,
@@ -1131,6 +1251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53626,
+      "num": 678797,
+      "word": "让高效办成一件事成为寻常事",
+      "onboard_time": 1768360940,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 52007,
       "num": 128656,
       "word": "贪官曾在机场威胁乘客",
@@ -1185,22 +1313,6 @@
       "onboard_time": 1768317503,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 44629,
-      "num": 671915,
-      "word": "让高效办成一件事成为寻常事",
-      "onboard_time": 1768360940,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 39287,
-      "num": 192459,
-      "word": "官方将澄清说明贺娇龙坠马事件",
-      "onboard_time": 1768363880,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37153,

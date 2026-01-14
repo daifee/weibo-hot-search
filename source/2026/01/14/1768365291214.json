@@ -1,0 +1,410 @@
+{
+  "runTime": 1768365291214,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1099888,
+        "num": 1175982,
+        "word": "以色列宣布退群",
+        "onboard_time": 1768361421,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 522330,
+        "num": 849709,
+        "word": "重返狼群",
+        "onboard_time": 1768363222,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53626,
+        "num": 678797,
+        "word": "让高效办成一件事成为寻常事",
+        "onboard_time": 1768360940,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 478641,
+        "num": 478641,
+        "word": "北京台春晚就差直接说肖战大名了",
+        "onboard_time": 1768361480,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321921,
+        "num": 321921,
+        "word": "贪官称最后已离不开行贿商人",
+        "onboard_time": 1768358601,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 433651,
+        "num": 321432,
+        "word": "创造营卡位选手自曝长期无收入",
+        "onboard_time": 1768361661,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379936,
+        "num": 312169,
+        "word": "这几天可以先不要做美甲了",
+        "onboard_time": 1768364301,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 300332,
+        "num": 300332,
+        "word": "公积金制度会怎么改",
+        "onboard_time": 1768360700,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281617,
+        "num": 281617,
+        "word": "光与夜之恋",
+        "onboard_time": 1768363821,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 264299,
+        "num": 264299,
+        "word": "优衣库女装男装对比",
+        "onboard_time": 1768362621,
+        "rank": 9,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 547088,
+        "num": 264247,
+        "word": "贺娇龙曾说坠马后很疼痛",
+        "onboard_time": 1768359681,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 480784,
+        "num": 264229,
+        "word": "CSGO",
+        "onboard_time": 1768362861,
+        "rank": 11,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 430645,
+        "num": 264132,
+        "word": "赵丽颖 纪梵希",
+        "onboard_time": 1768360940,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287470,
+        "num": 264107,
+        "word": "李在明提中国高市早苗没提",
+        "onboard_time": 1768356321,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 264064,
+        "num": 264064,
+        "word": "一餐厅几乎只服务贪官",
+        "onboard_time": 1768364061,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 422895,
+        "num": 250578,
+        "word": "吕严回应王广删博",
+        "onboard_time": 1768363702,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419133,
+        "num": 249244,
+        "word": "朱一龙 水果报吃",
+        "onboard_time": 1768355961,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236193,
+        "num": 236193,
+        "word": "整套马钞价格已被炒到2000元",
+        "onboard_time": 1768349780,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365462,
+        "num": 236158,
+        "word": "单依纯拒绝歌手2024的原因",
+        "onboard_time": 1768364122,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212496,
+        "num": 212496,
+        "word": "你以为的老板vs实际上的老板",
+        "onboard_time": 1768365143,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 260592,
+        "num": 209991,
+        "word": "陈伟霆很帅但衣服穿不明白",
+        "onboard_time": 1768358241,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88427,
+        "num": 206028,
+        "word": "贺娇龙同事发声",
+        "onboard_time": 1768365082,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203031,
+        "num": 203031,
+        "word": "何炅 我就说我不喜欢直播",
+        "onboard_time": 1768362861,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201192,
+        "num": 201192,
+        "word": "与辉同行83元3只皖西麻黄鸡引质疑",
+        "onboard_time": 1768363821,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192873,
+        "num": 192873,
+        "word": "章泽天播客",
+        "onboard_time": 1768361602,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 182813,
+        "num": 182813,
+        "word": "月入一万以下最好的理财方式",
+        "onboard_time": 1768347379,
+        "rank": 25,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 170559,
+        "num": 170559,
+        "word": "官方将澄清说明贺娇龙坠马事件",
+        "onboard_time": 1768363880,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167960,
+        "num": 167960,
+        "word": "拍半天认错肖战了",
+        "onboard_time": 1768355660,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158310,
+        "num": 158310,
+        "word": "老鹰vs湖人",
+        "onboard_time": 1768364542,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149921,
+        "num": 149921,
+        "word": "女子遭丈夫掐脖致残后床头放斧头",
+        "onboard_time": 1768358241,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149482,
+        "num": 149482,
+        "word": "鸭鸭羽绒服涉多起买卖合同纠纷",
+        "onboard_time": 1768355301,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147354,
+        "num": 147354,
+        "word": "间谍美色诱惑策反军工企业人员",
+        "onboard_time": 1768354100,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143873,
+        "num": 143873,
+        "word": "去了瑞士才懂钱包有多瘪",
+        "onboard_time": 1768353620,
+        "rank": 32,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 130523,
+        "num": 130523,
+        "word": "孩子产检正常出生却畸形母亲发声",
+        "onboard_time": 1768365202,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127114,
+        "num": 127114,
+        "word": "2025全球手机排行榜出炉",
+        "onboard_time": 1768361120,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 124808,
+        "num": 124808,
+        "word": "韩国开始出现迪拜巧克力麻薯糖葫芦了",
+        "onboard_time": 1768354700,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 121405,
+        "num": 121405,
+        "word": "展博这次拿了林宛瑜剧本",
+        "onboard_time": 1768362621,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118074,
+        "num": 118074,
+        "word": "KPL",
+        "onboard_time": 1768363702,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107437,
+        "num": 115936,
+        "word": "卢昱晓 对美女从小就没抵抗力",
+        "onboard_time": 1768364901,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75986,
+        "num": 115107,
+        "word": "为什么精神疾病正在年轻化",
+        "onboard_time": 1768364301,
+        "rank": 39,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 114972,
+        "num": 114972,
+        "word": "两只内向的企鹅见面但是没打招呼",
+        "onboard_time": 1768364420,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114357,
+        "num": 114357,
+        "word": "美国不能购买另一国的人民",
+        "onboard_time": 1768362142,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111168,
+        "num": 111168,
+        "word": "情侣是一种很诡异的亲密关系",
+        "onboard_time": 1768362079,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110862,
+        "num": 110862,
+        "word": "杨紫 我即剧名",
+        "onboard_time": 1768363341,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110373,
+        "num": 110373,
+        "word": "韦德关注王橹杰",
+        "onboard_time": 1768365022,
+        "rank": 44,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 109727,
+        "num": 109727,
+        "word": "男子家暴妻子致残当庭指责她把家毁了",
+        "onboard_time": 1768363341,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99747,
+        "num": 99747,
+        "word": "玉茗茶骨",
+        "onboard_time": 1768364781,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99487,
+        "num": 99487,
+        "word": "被这位婆婆的一天累到了",
+        "onboard_time": 1768364482,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92628,
+        "num": 92628,
+        "word": "产检正常并不表示胎儿一定健康",
+        "onboard_time": 1768364603,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 91608,
+        "num": 91608,
+        "word": "王者峡谷第一赘婿",
+        "onboard_time": 1768365262,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国特色反腐败之路要坚定走下去#"
+    }
+  }
+}
