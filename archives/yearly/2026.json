@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768387920656,
+  "endTime": 1768390238112,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1112,6 +1112,14 @@
       "word": "党员烧香算违纪吗官方释疑",
       "onboard_time": 1767858380,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 857288,
+      "num": 184653,
+      "word": "90后医生强奸2幼女父亲曾为其辩护",
+      "onboard_time": 1768386681,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767360623,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 599085,
-      "num": 1095853,
-      "word": "中方已经保持最大限度忍耐和克制",
-      "onboard_time": 1768283241,
-      "rank": 47,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [

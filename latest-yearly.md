@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/14 18:52:00
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/14 19:30:38
 </p>
 </blockquote>
 <p>
@@ -845,6 +845,12 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%9A%E5%91%98%E7%83%A7%E9%A6%99%E7%AE%97%E8%BF%9D%E7%BA%AA%E5%90%97%E5%AE%98%E6%96%B9%E9%87%8A%E7%96%91%23" target="weibo">
 党员烧香算违纪吗官方释疑（热度：860920）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%8C%BB%E7%94%9F%E5%BC%BA%E5%A5%B82%E5%B9%BC%E5%A5%B3%E7%88%B6%E4%BA%B2%E6%9B%BE%E4%B8%BA%E5%85%B6%E8%BE%A9%E6%8A%A4%23" target="weibo">
+90后医生强奸2幼女父亲曾为其辩护（热度：857288）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ CSGO（热度：630992）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%9F%90%E4%BA%BA%E6%8A%BD%E5%A5%96%23" target="weibo">
 杨某人抽奖（热度：599176）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%B7%B2%E7%BB%8F%E4%BF%9D%E6%8C%81%E6%9C%80%E5%A4%A7%E9%99%90%E5%BA%A6%E5%BF%8D%E8%80%90%E5%92%8C%E5%85%8B%E5%88%B6%23" target="weibo">
-中方已经保持最大限度忍耐和克制（热度：599085）
 </a>
 </li>
 
