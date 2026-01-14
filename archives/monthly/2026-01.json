@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768369792556,
+  "endTime": 1768373098081,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1171,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 826962,
+      "num": 382101,
+      "word": "iPhone18Pro新爆料",
+      "onboard_time": 1768366281,
+      "rank": 6,
+      "category": "数码"
+    },
+    {
       "raw_hot": 822931,
       "num": 232494,
       "word": "演员关凌因挤痘事件上火烂嘴角",
@@ -1563,14 +1571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 730376,
-      "num": 382101,
-      "word": "iPhone18Pro新爆料",
-      "onboard_time": 1768366281,
-      "rank": 6,
-      "category": "数码"
-    },
-    {
       "raw_hot": 728925,
       "num": 866031,
       "word": "钟薛高创始人宣布终审胜诉",
@@ -1921,6 +1921,14 @@
       "onboard_time": 1767843800,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 651772,
+      "num": 1104283,
+      "word": "美国即将正式退出世卫组织",
+      "onboard_time": 1768369641,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 651165,
@@ -2753,6 +2761,14 @@
       "onboard_time": 1767507262,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 554349,
+      "num": 202550,
+      "word": "跳水",
+      "onboard_time": 1768368200,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 554142,
@@ -4492,7 +4508,7 @@
     },
     {
       "raw_hot": 441252,
-      "num": 312273,
+      "num": 335955,
       "word": "以为中奖羽绒服 没想到是挂件",
       "onboard_time": 1768367002,
       "rank": 10,
@@ -6451,6 +6467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 344173,
+      "num": 344173,
+      "word": "对御赐小仵作的五年有了实感",
+      "onboard_time": 1768371320,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 343614,
       "num": 343614,
       "word": "你是林更新那他是谁",
@@ -6464,6 +6488,14 @@
       "word": "刘美含说的是谁",
       "onboard_time": 1767925700,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 342748,
+      "num": 279736,
+      "word": "44岁阿娇与43岁阿Sa同框",
+      "onboard_time": 1768367722,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -8011,6 +8043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 289882,
+      "num": 289882,
+      "word": "活人微死原来是张子枫这么演",
+      "onboard_time": 1768369100,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 289588,
       "num": 1394393,
       "word": "跨年朋友圈",
@@ -8681,6 +8721,14 @@
       "onboard_time": 1768261939,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270403,
+      "num": 270403,
+      "word": "虞书欣云初令记录",
+      "onboard_time": 1768371980,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 270391,
@@ -10523,14 +10571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 225413,
-      "num": 202550,
-      "word": "跳水",
-      "onboard_time": 1768368200,
-      "rank": 21,
-      "category": "财经"
-    },
-    {
       "raw_hot": 225220,
       "num": 204699,
       "word": "肖战今年或将开演唱会",
@@ -11195,6 +11235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213237,
+      "num": 142890,
+      "word": "又一省份取消12345热线语音导航",
+      "onboard_time": 1768371201,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213143,
       "num": 213143,
       "word": "女子遭丈夫掐脖致残后床头放斧头",
@@ -11691,6 +11739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205701,
+      "num": 205701,
+      "word": "杨瀚森受伤",
+      "onboard_time": 1768372100,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205416,
       "num": 148820,
       "word": "你们看宋威龙的手",
@@ -11889,6 +11945,14 @@
       "onboard_time": 1767583281,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201797,
+      "num": 142208,
+      "word": "02年属马女生抢到整套马钞马币",
+      "onboard_time": 1768369221,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201624,
@@ -12113,14 +12177,6 @@
       "onboard_time": 1768052784,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198744,
-      "num": 198744,
-      "word": "44岁阿娇与43岁阿Sa同框",
-      "onboard_time": 1768367722,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 198736,
@@ -13051,14 +13107,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 189401,
-      "num": 189401,
-      "word": "活人微死原来是张子枫这么演",
-      "onboard_time": 1768369100,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189347,
       "num": 189347,
       "word": "殷世航曝某三千万粉丝网红打人",
@@ -13473,6 +13521,14 @@
       "onboard_time": 1768065019,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185397,
+      "num": 185397,
+      "word": "欢迎来到蘑菇屋",
+      "onboard_time": 1768372640,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 185291,
@@ -15883,6 +15939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161659,
+      "num": 141053,
+      "word": "陈数 冻龄",
+      "onboard_time": 1768371081,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161605,
       "num": 161605,
       "word": "赵文卓金巧巧 武术人的精气神",
@@ -18033,6 +18097,14 @@
       "onboard_time": 1767417687,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144551,
+      "num": 144551,
+      "word": "国漫白切黑医生姐姐你好香",
+      "onboard_time": 1768373060,
+      "rank": 18,
+      "category": "动漫"
     },
     {
       "raw_hot": 144522,
@@ -21371,14 +21443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125045,
-      "num": 125045,
-      "word": "02年属马女生抢到整套马钞马币",
-      "onboard_time": 1768369221,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125040,
       "num": 125040,
       "word": "宋祖儿和闺蜜跨年",
@@ -24489,6 +24553,14 @@
       "onboard_time": 1767454525,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 110876,
+      "num": 110876,
+      "word": "贺娇龙单位将发布官方消息",
+      "onboard_time": 1768366403,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110820,
@@ -27867,14 +27939,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98946,
-      "num": 105266,
-      "word": "美国即将正式退出世卫组织",
-      "onboard_time": 1768369641,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 98941,
       "num": 346184,
       "word": "鲍鱼价格跌至10元3只",
@@ -28321,6 +28385,14 @@
       "onboard_time": 1767368961,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97652,
+      "num": 97652,
+      "word": "丁程鑫hi6上班帅成这样了",
+      "onboard_time": 1768372399,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 97630,
@@ -31963,6 +32035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86411,
+      "num": 86411,
+      "word": "何与 诡面男爵味太超过了",
+      "onboard_time": 1768371681,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86350,
       "num": 86350,
       "word": "小猫每天帮主人关热水器",
@@ -32105,6 +32185,14 @@
       "onboard_time": 1767943340,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86039,
+      "num": 86039,
+      "word": "唐嫣粉裙",
+      "onboard_time": 1768373001,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 86035,
@@ -32347,6 +32435,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 85315,
+      "num": 84539,
+      "word": "酷酷的天放寡淡四部曲更新了",
+      "onboard_time": 1768370180,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85290,
       "num": 85290,
       "word": "预防血栓可以吃的5类食物",
@@ -32425,6 +32521,14 @@
       "onboard_time": 1767451586,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 85115,
+      "num": 85115,
+      "word": "厦门大学悄悄给学生打了一笔钱",
+      "onboard_time": 1768372760,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 85092,
@@ -32753,6 +32857,14 @@
       "onboard_time": 1768011561,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 83757,
+      "num": 83757,
+      "word": "苹果宣传iPhone17耐刮",
+      "onboard_time": 1768370481,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 83735,
@@ -33235,6 +33347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81873,
+      "num": 81873,
+      "word": "关系降级是一种自救方式",
+      "onboard_time": 1768373001,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 81777,
       "num": 81777,
       "word": "怎么不等我出生前再告诉我",
@@ -33401,6 +33521,14 @@
       "onboard_time": 1768096220,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81181,
+      "num": 81181,
+      "word": "第一次见少男心事",
+      "onboard_time": 1768371441,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 81160,
@@ -33801,6 +33929,14 @@
       "onboard_time": 1768197080,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 79892,
+      "num": 79892,
+      "word": "22岁姑娘在高原为国找矿",
+      "onboard_time": 1768372939,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79884,
@@ -42147,6 +42283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29743,
+      "num": 89517,
+      "word": "斩杀线登上纽约时报",
+      "onboard_time": 1768372221,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 29695,
       "num": 1092223,
       "word": "嫦娥七号计划2026年发射",
@@ -44392,6 +44536,14 @@
       "word": "本周这些数据最值得关注",
       "onboard_time": 1767430705,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9287,
+      "num": 89133,
+      "word": "揭秘产检正常出生畸形涉事医院",
+      "onboard_time": 1768372820,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
