@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768408888455,
+  "endTime": 1768409872614,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -211,6 +211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 2032182,
+      "num": 162079,
+      "word": "韦德",
+      "onboard_time": 1768408280,
+      "rank": 10,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 2006164,
       "num": 2006164,
       "word": "特朗普下令打击委内瑞拉境内目标",
@@ -233,14 +241,6 @@
       "onboard_time": 1768378102,
       "rank": 0,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 1935090,
-      "num": 162079,
-      "word": "韦德",
-      "onboard_time": 1768408280,
-      "rank": 10,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 1932998,
@@ -5859,6 +5859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 384874,
+      "num": 474397,
+      "word": "马年春晚",
+      "onboard_time": 1768040181,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 384444,
       "num": 623106,
       "word": "高市早苗手持安倍画像参拜",
@@ -6971,14 +6979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 338128,
-      "num": 338128,
-      "word": "马年春晚",
-      "onboard_time": 1768040181,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 337910,
       "num": 254121,
       "word": "委内瑞拉之后这些国家面临危险",
@@ -7441,6 +7441,14 @@
       "onboard_time": 1767867381,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 322427,
+      "num": 322427,
+      "word": "镖人",
+      "onboard_time": 1768407079,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 322411,
@@ -9697,14 +9705,6 @@
       "onboard_time": 1768038020,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 260209,
-      "num": 260209,
-      "word": "镖人",
-      "onboard_time": 1768407079,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 260193,
@@ -27603,6 +27603,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 104989,
+      "num": 117406,
+      "word": "贺娇龙抢救无效不幸离世",
+      "onboard_time": 1768409658,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104972,
       "num": 104972,
       "word": "微信最需要增加什么功能",
@@ -37131,6 +37139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74144,
+      "num": 74144,
+      "word": "AI查贪官准确率相当高",
+      "onboard_time": 1768409238,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74102,
       "num": 827838,
       "word": "智利车厘子快线比地铁还勤",
@@ -41147,6 +41163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 49489,
+      "num": 51088,
+      "word": "把钱藏海外的贪官栽了",
+      "onboard_time": 1768409539,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 49482,
       "num": 97121,
       "word": "复联5第四支预告",
@@ -43857,6 +43881,14 @@
       "onboard_time": 1767594621,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 32295,
+      "num": 51125,
+      "word": "常州一警务室里开警茶店",
+      "onboard_time": 1768409598,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32292,

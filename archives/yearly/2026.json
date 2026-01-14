@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768408888455,
+  "endTime": 1768409872614,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -211,6 +211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 2032182,
+      "num": 162079,
+      "word": "韦德",
+      "onboard_time": 1768408280,
+      "rank": 10,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 2006164,
       "num": 2006164,
       "word": "特朗普下令打击委内瑞拉境内目标",
@@ -233,14 +241,6 @@
       "onboard_time": 1768378102,
       "rank": 0,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 1935090,
-      "num": 162079,
-      "word": "韦德",
-      "onboard_time": 1768408280,
-      "rank": 10,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 1932998,

@@ -1,9 +1,9 @@
 {
   "startTime": 1768408888455,
-  "endTime": 1768408888455,
+  "endTime": 1768409872614,
   "band_list": [
     {
-      "raw_hot": 1935090,
+      "raw_hot": 2032182,
       "num": 162079,
       "word": "韦德",
       "onboard_time": 1768408280,
@@ -27,20 +27,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 384874,
+      "num": 474397,
+      "word": "马年春晚",
+      "onboard_time": 1768402162,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357818,
       "num": 558183,
       "word": "携程涉嫌垄断",
       "onboard_time": 1768378102,
       "rank": 1,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 338128,
-      "num": 338128,
-      "word": "马年春晚",
-      "onboard_time": 1768402162,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 329072,
@@ -51,20 +51,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 322427,
+      "num": 322427,
+      "word": "镖人",
+      "onboard_time": 1768407079,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 291423,
       "num": 291423,
       "word": "国考成绩",
       "onboard_time": 1768394242,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 260209,
-      "num": 260209,
-      "word": "镖人",
-      "onboard_time": 1768407079,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 244339,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133243,
+      "num": 133243,
+      "word": "彭十六偷税案",
+      "onboard_time": 1768378881,
+      "rank": 21,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 112237,
       "num": 112237,
       "word": "彭十六偷税216.32万元",
@@ -147,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104989,
+      "num": 117406,
+      "word": "贺娇龙抢救无效不幸离世",
+      "onboard_time": 1768409658,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104905,
       "num": 104905,
       "word": "马嘉祺读粉丝来信哭了",
@@ -161,14 +177,6 @@
       "onboard_time": 1768388541,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 99666,
-      "num": 99666,
-      "word": "彭十六偷税案",
-      "onboard_time": 1768378881,
-      "rank": 21,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 86610,
@@ -193,6 +201,14 @@
       "onboard_time": 1768405280,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74144,
+      "num": 74144,
+      "word": "AI查贪官准确率相当高",
+      "onboard_time": 1768409238,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72931,
@@ -243,6 +259,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 62740,
+      "num": 62740,
+      "word": "国考",
+      "onboard_time": 1768385362,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 60878,
+      "num": 60878,
+      "word": "浙江用AI抓出贪官",
+      "onboard_time": 1768401503,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 60548,
       "num": 60548,
       "word": "我的朋友安德烈",
@@ -259,28 +291,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 59184,
-      "num": 59184,
-      "word": "国考",
-      "onboard_time": 1768385362,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
       "raw_hot": 57665,
       "num": 57665,
       "word": "80多家央企负责人薪酬公开",
       "onboard_time": 1768396642,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 57624,
-      "num": 57624,
-      "word": "浙江用AI抓出贪官",
-      "onboard_time": 1768401503,
-      "rank": 35,
-      "category": "国内时政"
     },
     {
       "raw_hot": 56802,
@@ -339,6 +355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 51874,
+      "num": 51874,
+      "word": "中国女子在泰国芭提雅遭遇捆绑抢劫",
+      "onboard_time": 1768403782,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 51383,
       "num": 53922,
       "word": "曝皇马三大球星反对阿隆索",
@@ -371,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 49489,
+      "num": 51088,
+      "word": "把钱藏海外的贪官栽了",
+      "onboard_time": 1768409539,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 49094,
       "num": 53914,
       "word": "携程跌近17%",
@@ -392,6 +424,14 @@
       "word": "向日葵被查",
       "onboard_time": 1768401382,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32295,
+      "num": 51125,
+      "word": "常州一警务室里开警茶店",
+      "onboard_time": 1768409598,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
