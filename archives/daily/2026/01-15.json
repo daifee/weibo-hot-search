@@ -1,6 +1,6 @@
 {
   "startTime": 1768408888455,
-  "endTime": 1768419707869,
+  "endTime": 1768422676980,
   "band_list": [
     {
       "raw_hot": 2401677,
@@ -539,12 +539,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14177,
+      "raw_hot": 14459,
       "num": 19376,
       "word": "王者荣耀S42赛季",
       "onboard_time": 1768388181,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 11364,
+      "num": 16422,
+      "word": "12306回应一等座禁止无座乘客逗留",
+      "onboard_time": 1768392321,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10279,
