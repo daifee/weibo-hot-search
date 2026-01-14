@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768398621679,
+  "endTime": 1768399104791,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -668,7 +668,7 @@
     },
     {
       "raw_hot": 1075672,
-      "num": 260102,
+      "num": 275374,
       "word": "母亲躲藏致女儿心源性休克身亡",
       "onboard_time": 1768392561,
       "rank": 10,
@@ -1067,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 895620,
+      "num": 274166,
+      "word": "河南一教师与学生发生不正当关系",
+      "onboard_time": 1768395320,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 888305,
       "num": 277939,
       "word": "陈楚河承认恋情",
@@ -1136,14 +1144,6 @@
       "word": "餐馆内死亡13岁男孩父母智力残疾",
       "onboard_time": 1767664821,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 862020,
-      "num": 257640,
-      "word": "河南一教师与学生发生不正当关系",
-      "onboard_time": 1768395320,
-      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -3100,7 +3100,7 @@
     },
     {
       "raw_hot": 538097,
-      "num": 254180,
+      "num": 268615,
       "word": "贺峻霖悉尼",
       "onboard_time": 1768394841,
       "rank": 14,
@@ -3883,6 +3883,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 488440,
+      "num": 271942,
+      "word": "佟丽娅连续三年收到苏翊鸣的滑板",
+      "onboard_time": 1768396701,
+      "rank": 13,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 488298,
       "num": 1404022,
       "word": "2026壁纸",
@@ -4611,6 +4619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 448532,
+      "num": 214026,
+      "word": "网友评林志玲面相变了",
+      "onboard_time": 1768381521,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 448313,
       "num": 395938,
       "word": "流落柬埔寨街头女子毒品检测呈阳性",
@@ -4792,14 +4808,6 @@
       "word": "QQ音乐超级会员代言人",
       "onboard_time": 1768190060,
       "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 439156,
-      "num": 196691,
-      "word": "网友评林志玲面相变了",
-      "onboard_time": 1768381521,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -5113,6 +5121,14 @@
       "onboard_time": 1768020621,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 420768,
+      "num": 420768,
+      "word": "申论分好低",
+      "onboard_time": 1768397661,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 420534,
@@ -6171,14 +6187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 366080,
-      "num": 252667,
-      "word": "佟丽娅连续三年收到苏翊鸣的滑板",
-      "onboard_time": 1768396701,
-      "rank": 13,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 365715,
       "num": 1095962,
       "word": "原来中年发福不是因为代谢变差",
@@ -6793,14 +6801,6 @@
       "onboard_time": 1767925700,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 343010,
-      "num": 343010,
-      "word": "申论分好低",
-      "onboard_time": 1768397661,
-      "rank": 6,
-      "category": "教育"
     },
     {
       "raw_hot": 342748,
@@ -7667,6 +7667,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 314468,
+      "num": 207324,
+      "word": "花海晒聊天记录",
+      "onboard_time": 1768397181,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 314407,
       "num": 785343,
       "word": "美联储主席鲍威尔遭刑事调查",
@@ -7908,7 +7916,7 @@
     },
     {
       "raw_hot": 304952,
-      "num": 266803,
+      "num": 290070,
       "word": "你那儿几点 王安宇周也",
       "onboard_time": 1768389320,
       "rank": 15,
@@ -8177,6 +8185,14 @@
       "onboard_time": 1767663921,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296995,
+      "num": 296995,
+      "word": "一诺解说",
+      "onboard_time": 1768398082,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 296789,
@@ -8899,6 +8915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 275969,
+      "num": 275969,
+      "word": "WB对战AG",
+      "onboard_time": 1768397181,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 275908,
       "num": 275908,
       "word": "男子被咬不在意次日狗亡紧急打针",
@@ -9283,6 +9307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267182,
+      "num": 267182,
+      "word": "马嘉祺读粉丝来信哭了",
+      "onboard_time": 1768398021,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266985,
       "num": 218152,
       "word": "山姆回应充绒400克499元羽绒服卖爆",
@@ -9484,7 +9516,7 @@
     },
     {
       "raw_hot": 262747,
-      "num": 154686,
+      "num": 155713,
       "word": "龚俊因左眼下新长了颗痣而开心",
       "onboard_time": 1768388541,
       "rank": 27,
@@ -9803,12 +9835,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 255168,
-      "num": 193198,
-      "word": "花海晒聊天记录",
-      "onboard_time": 1768397181,
-      "rank": 24,
-      "category": "电竞"
+      "raw_hot": 255259,
+      "num": 270279,
+      "word": "代旭 我是配角怎敢吃醋",
+      "onboard_time": 1768397720,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 254851,
@@ -11907,14 +11939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211106,
-      "num": 211106,
-      "word": "WB对战AG",
-      "onboard_time": 1768397181,
-      "rank": 16,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 210851,
       "num": 524214,
       "word": "委内瑞拉将向联合国提出控诉",
@@ -12049,14 +12073,6 @@
       "onboard_time": 1767196045,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208066,
-      "num": 208066,
-      "word": "代旭 我是配角怎敢吃醋",
-      "onboard_time": 1768397720,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 208037,
@@ -12379,6 +12395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 204172,
+      "num": 204172,
+      "word": "上岸",
+      "onboard_time": 1768398200,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 204105,
       "num": 1003773,
       "word": "外网流行中国化",
@@ -12432,6 +12456,14 @@
       "word": "广东男篮vs浙江男篮",
       "onboard_time": 1767623363,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 202648,
+      "num": 202648,
+      "word": "U23国足0比0泰国U23",
+      "onboard_time": 1768397962,
+      "rank": 21,
       "category": "体育"
     },
     {
@@ -12539,14 +12571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 201042,
-      "num": 201042,
-      "word": "马嘉祺读粉丝来信哭了",
-      "onboard_time": 1768398021,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201038,
       "num": 201038,
       "word": "樊振东留洋生涯首冠",
@@ -12593,14 +12617,6 @@
       "onboard_time": 1767356241,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 200443,
-      "num": 200443,
-      "word": "U23国足0比0泰国U23",
-      "onboard_time": 1768397962,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 200394,
@@ -12857,6 +12873,14 @@
       "onboard_time": 1768041800,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197401,
+      "num": 197401,
+      "word": "U23男足晋级淘汰赛",
+      "onboard_time": 1768398200,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 197331,
@@ -13547,6 +13571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190740,
+      "num": 213741,
+      "word": "U23男足首进亚洲杯淘汰赛",
+      "onboard_time": 1768398622,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190705,
       "num": 860004,
       "word": "天云发言",
@@ -13713,14 +13745,6 @@
       "onboard_time": 1767795805,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 189132,
-      "num": 189132,
-      "word": "上岸",
-      "onboard_time": 1768398200,
-      "rank": 26,
-      "category": "教育"
     },
     {
       "raw_hot": 189067,
@@ -14081,6 +14105,14 @@
       "onboard_time": 1767332600,
       "rank": 15,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 185660,
+      "num": 185660,
+      "word": "u23国足亚洲杯小组出线",
+      "onboard_time": 1768398562,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 185645,
@@ -14720,6 +14752,14 @@
       "word": "国产剧里的恶魔有脸了",
       "onboard_time": 1767694640,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 179601,
+      "num": 179601,
+      "word": "疑似张颂文不演狂流了",
+      "onboard_time": 1768397842,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -16227,6 +16267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165483,
+      "num": 165483,
+      "word": "U23男足创造历史",
+      "onboard_time": 1768398323,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165480,
       "num": 165480,
       "word": "辽宁偶遇宋威龙逛山姆",
@@ -16529,14 +16577,6 @@
       "onboard_time": 1767623063,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 162663,
-      "num": 162663,
-      "word": "U23男足晋级淘汰赛",
-      "onboard_time": 1768398200,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 162642,
@@ -17049,6 +17089,14 @@
       "onboard_time": 1768190060,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 158769,
+      "num": 158769,
+      "word": "马嘉祺有回声更新",
+      "onboard_time": 1768398862,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 158697,
@@ -18435,14 +18483,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 147800,
-      "num": 147800,
-      "word": "疑似张颂文不演狂流了",
-      "onboard_time": 1768397842,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147769,
       "num": 147769,
       "word": "陆虎吃完菌子的精神状态",
@@ -18769,6 +18809,14 @@
       "onboard_time": 1768191381,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146047,
+      "num": 137897,
+      "word": "内娱商战女主从此有了脸",
+      "onboard_time": 1768398441,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 146043,
@@ -19209,6 +19257,14 @@
       "onboard_time": 1767761902,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142453,
+      "num": 152941,
+      "word": "美军机沿伊朗边界飞行",
+      "onboard_time": 1768395742,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 142427,
@@ -19913,14 +19969,6 @@
       "onboard_time": 1767848662,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138694,
-      "num": 138694,
-      "word": "美军机沿伊朗边界飞行",
-      "onboard_time": 1768395742,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 138497,
@@ -20643,14 +20691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134745,
-      "num": 134745,
-      "word": "U23男足创造历史",
-      "onboard_time": 1768398323,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 134744,
       "num": 134744,
       "word": "萧亚轩一天13首歌上榜",
@@ -21201,14 +21241,6 @@
       "onboard_time": 1767588083,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 131131,
-      "num": 131131,
-      "word": "u23国足亚洲杯小组出线",
-      "onboard_time": 1768398562,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 131084,
@@ -22073,6 +22105,14 @@
       "onboard_time": 1768215441,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 126922,
+      "num": 126922,
+      "word": "iPhone微信自带美颜功能设置",
+      "onboard_time": 1768396762,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 126901,
@@ -23219,14 +23259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121796,
-      "num": 121796,
-      "word": "一诺解说",
-      "onboard_time": 1768398082,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 121787,
       "num": 121787,
       "word": "马杜罗被控制后遭遇多次换衣",
@@ -23273,14 +23305,6 @@
       "onboard_time": 1767351859,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 121703,
-      "num": 121703,
-      "word": "iPhone微信自带美颜功能设置",
-      "onboard_time": 1768396762,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 121695,
@@ -24785,6 +24809,14 @@
       "onboard_time": 1767682520,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115019,
+      "num": 115019,
+      "word": "穆祉丞baddie直拍破百万",
+      "onboard_time": 1768399040,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 114999,
@@ -43475,6 +43507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 32334,
+      "num": 815151,
+      "word": "8图看经济工作8大重点任务攻坚",
+      "onboard_time": 1768397421,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 32292,
       "num": 74721,
       "word": "中国该怎么粉碎日本的卡脖子",
@@ -43745,14 +43785,6 @@
       "onboard_time": 1767805697,
       "rank": 43,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 30520,
-      "num": 815151,
-      "word": "8图看经济工作8大重点任务攻坚",
-      "onboard_time": 1768397421,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 30455,

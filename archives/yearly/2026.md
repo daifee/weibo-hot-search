@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/14 21:50:21
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/14 21:58:24
 </p>
 </blockquote>
 <p>
@@ -813,6 +813,12 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E6%95%99%E5%B8%88%E4%B8%8E%E5%AD%A6%E7%94%9F%E5%8F%91%E7%94%9F%E4%B8%8D%E6%AD%A3%E5%BD%93%E5%85%B3%E7%B3%BB%23" target="weibo">
+河南一教师与学生发生不正当关系（热度：895620）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E6%B2%B3%E6%89%BF%E8%AE%A4%E6%81%8B%E6%83%85%23" target="weibo">
 陈楚河承认恋情（热度：888305）
 </a>
@@ -863,12 +869,6 @@ DYG战胜狼队（热度：867183）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A4%90%E9%A6%86%E5%86%85%E6%AD%BB%E4%BA%A113%E5%B2%81%E7%94%B7%E5%AD%A9%E7%88%B6%E6%AF%8D%E6%99%BA%E5%8A%9B%E6%AE%8B%E7%96%BE%23" target="weibo">
 餐馆内死亡13岁男孩父母智力残疾（热度：866623）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E6%95%99%E5%B8%88%E4%B8%8E%E5%AD%A6%E7%94%9F%E5%8F%91%E7%94%9F%E4%B8%8D%E6%AD%A3%E5%BD%93%E5%85%B3%E7%B3%BB%23" target="weibo">
-河南一教师与学生发生不正当关系（热度：862020）
 </a>
 </li>
 
