@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768358363932,
+  "endTime": 1768364094348,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -713,6 +713,14 @@
       "onboard_time": 1767747923,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1025781,
+      "num": 1164125,
+      "word": "以色列宣布退群",
+      "onboard_time": 1768361421,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1022078,
@@ -2035,6 +2043,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 630992,
+      "num": 630992,
+      "word": "CSGO",
+      "onboard_time": 1768362861,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 630707,
       "num": 1100913,
       "word": "网购4J车厘子变成空文件",
@@ -2384,22 +2400,6 @@
       "word": "禁止所有两用物项对日本军事用途出口",
       "onboard_time": 1767687623,
       "rank": 5,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 584264,
-      "num": 1093482,
-      "word": "超级月亮",
-      "onboard_time": 1767434666,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 583612,
-      "num": 271025,
-      "word": "今日委内瑞拉明日任何一国",
-      "onboard_time": 1767499703,
-      "rank": 19,
       "category": "国际时政"
     }
   ],

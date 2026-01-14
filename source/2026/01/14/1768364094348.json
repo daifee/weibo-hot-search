@@ -1,0 +1,410 @@
+{
+  "runTime": 1768364094348,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1025781,
+        "num": 1164125,
+        "word": "以色列宣布退群",
+        "onboard_time": 1768361421,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 463311,
+        "num": 816054,
+        "word": "贪官称最后已离不开行贿商人",
+        "onboard_time": 1768358601,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 44629,
+        "num": 671915,
+        "word": "让高效办成一件事成为寻常事",
+        "onboard_time": 1768360940,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 630992,
+        "num": 630992,
+        "word": "CSGO",
+        "onboard_time": 1768362861,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 497278,
+        "num": 497278,
+        "word": "北京台春晚就差直接说肖战大名了",
+        "onboard_time": 1768361480,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424869,
+        "num": 424869,
+        "word": "创造营卡位选手自曝长期无收入",
+        "onboard_time": 1768361661,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310986,
+        "num": 310986,
+        "word": "李在明提中国高市早苗没提",
+        "onboard_time": 1768356321,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 297610,
+        "num": 297610,
+        "word": "公积金制度会怎么改",
+        "onboard_time": 1768360700,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289304,
+        "num": 289304,
+        "word": "整套马钞价格已被炒到2000元",
+        "onboard_time": 1768349780,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232045,
+        "num": 232045,
+        "word": "重返狼群",
+        "onboard_time": 1768363222,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 561656,
+        "num": 227539,
+        "word": "朱一龙 水果报吃",
+        "onboard_time": 1768355961,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452408,
+        "num": 226305,
+        "word": "贺娇龙曾说坠马后很疼痛",
+        "onboard_time": 1768359681,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442994,
+        "num": 218429,
+        "word": "赵丽颖 纪梵希",
+        "onboard_time": 1768360940,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340722,
+        "num": 215440,
+        "word": "陈伟霆很帅但衣服穿不明白",
+        "onboard_time": 1768358241,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213143,
+        "num": 213143,
+        "word": "女子遭丈夫掐脖致残后床头放斧头",
+        "onboard_time": 1768358241,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219143,
+        "num": 211964,
+        "word": "拍半天认错肖战了",
+        "onboard_time": 1768355660,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209416,
+        "num": 209416,
+        "word": "吕严回应王广删博",
+        "onboard_time": 1768363702,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203907,
+        "num": 203907,
+        "word": "章泽天播客",
+        "onboard_time": 1768361602,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 194237,
+        "num": 194237,
+        "word": "去了瑞士才懂钱包有多瘪",
+        "onboard_time": 1768353620,
+        "rank": 18,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 169854,
+        "num": 194071,
+        "word": "间谍美色诱惑策反军工企业人员",
+        "onboard_time": 1768354100,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231426,
+        "num": 194057,
+        "word": "何炅 我就说我不喜欢直播",
+        "onboard_time": 1768362861,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194032,
+        "num": 194032,
+        "word": "KPL春季赛",
+        "onboard_time": 1768363041,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192959,
+        "num": 192959,
+        "word": "月入一万以下最好的理财方式",
+        "onboard_time": 1768347379,
+        "rank": 22,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 39287,
+        "num": 192459,
+        "word": "官方将澄清说明贺娇龙坠马事件",
+        "onboard_time": 1768363880,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192036,
+        "num": 192036,
+        "word": "KPL",
+        "onboard_time": 1768363702,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183913,
+        "num": 183913,
+        "word": "光与夜之恋",
+        "onboard_time": 1768363821,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160657,
+        "num": 160657,
+        "word": "杨紫 我即剧名",
+        "onboard_time": 1768363341,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154096,
+        "num": 154096,
+        "word": "优衣库女装男装对比",
+        "onboard_time": 1768362621,
+        "rank": 27,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 152162,
+        "num": 152162,
+        "word": "美国不能购买另一国的人民",
+        "onboard_time": 1768362142,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139913,
+        "num": 150523,
+        "word": "樊振东德甲欧冠未来赛程",
+        "onboard_time": 1768362920,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149839,
+        "num": 149839,
+        "word": "展博这次拿了林宛瑜剧本",
+        "onboard_time": 1768362621,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138154,
+        "num": 138154,
+        "word": "鸭鸭羽绒服涉多起买卖合同纠纷",
+        "onboard_time": 1768355301,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 555275,
+        "num": 137995,
+        "word": "贺娇龙受伤仍在救治",
+        "onboard_time": 1768359260,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129847,
+        "num": 129847,
+        "word": "赵尧珂御赐小仵作5年前后对比",
+        "onboard_time": 1768360761,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2174105,
+        "num": 126369,
+        "word": "官方回应贺娇龙被传去世",
+        "onboard_time": 1768355000,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115843,
+        "num": 115843,
+        "word": "王源在星穹下狂奔实体专辑",
+        "onboard_time": 1768362200,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115747,
+        "num": 115747,
+        "word": "2025全球手机排行榜出炉",
+        "onboard_time": 1768361120,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 82185,
+        "num": 106382,
+        "word": "沈梦辰王霏霏注意点你们是女明星",
+        "onboard_time": 1768363702,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85148,
+        "num": 106126,
+        "word": "一餐厅几乎只服务贪官",
+        "onboard_time": 1768364061,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 75128,
+        "num": 106061,
+        "word": "男子家暴妻子致残当庭指责她把家毁了",
+        "onboard_time": 1768363341,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106038,
+        "num": 106038,
+        "word": "韩国开始出现迪拜巧克力麻薯糖葫芦了",
+        "onboard_time": 1768354700,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103196,
+        "num": 103196,
+        "word": "一个师门出3个大情种",
+        "onboard_time": 1768362740,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102161,
+        "num": 102161,
+        "word": "与辉同行83元3只皖西麻黄鸡引质疑",
+        "onboard_time": 1768363821,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102095,
+        "num": 102095,
+        "word": "鸭鸭羽绒服回应衣服双标双码",
+        "onboard_time": 1768347318,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97972,
+        "num": 97972,
+        "word": "落马官员近千平米别墅内景",
+        "onboard_time": 1768357702,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97382,
+        "num": 97382,
+        "word": "知道为啥都喜欢高鼻梁了吧",
+        "onboard_time": 1768347379,
+        "rank": 45,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 96511,
+        "num": 96511,
+        "word": "檀健次DEADREFLEX上线",
+        "onboard_time": 1768359020,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 96109,
+        "num": 96109,
+        "word": "谁家男主一整部剧40集不化妆啊",
+        "onboard_time": 1768358482,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95545,
+        "num": 95545,
+        "word": "情侣是一种很诡异的亲密关系",
+        "onboard_time": 1768362079,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89872,
+        "num": 94321,
+        "word": "原神哥伦比娅",
+        "onboard_time": 1768361602,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国特色反腐败之路要坚定走下去#"
+    }
+  }
+}
