@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/14 15:33:54
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/14 15:47:07
 </p>
 </blockquote>
 <p>
@@ -921,6 +921,12 @@ iPhone18Pro新爆料（热度：826962）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E7%BB%8F%E5%BE%88%E7%81%AB%E4%BD%86%E6%B6%88%E5%A4%B1%E4%BA%86%E7%9A%84%E8%8C%B6%E9%A5%AE%23" target="weibo">
+曾经很火但消失了的茶饮（热度：817645）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%AB%A5%E9%94%A6%E7%A8%8B%E5%A5%B3%E5%8F%8B%E6%80%80%E5%AD%95%23" target="weibo">
 曝童锦程女友怀孕（热度：816335）
 </a>
@@ -1805,12 +1811,6 @@ CSGO（热度：630992）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%B4%E5%A5%97%E9%A9%AC%E9%92%9E%E4%BB%B7%E6%A0%BC%E5%B7%B2%E8%A2%AB%E7%82%92%E5%88%B02000%E5%85%83%23" target="weibo">
 整套马钞价格已被炒到2000元（热度：590944）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%B4%A0%E9%A2%9Clive%E7%85%A7%23" target="weibo">
-杨紫素颜live照（热度：588214）
 </a>
 </li>
 

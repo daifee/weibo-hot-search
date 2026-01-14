@@ -1,0 +1,410 @@
+{
+  "runTime": 1768376827489,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 458528,
+        "num": 1073364,
+        "word": "宝能董事长姚振华实名举报",
+        "onboard_time": 1768374560,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354434,
+        "num": 782605,
+        "word": "男子按猪被踢致截瘫邀约者判赔52万",
+        "onboard_time": 1768374621,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43722,
+        "num": 636660,
+        "word": "我国深海勘探技术实现重要突破",
+        "onboard_time": 1768375821,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 817645,
+        "num": 562311,
+        "word": "曾经很火但消失了的茶饮",
+        "onboard_time": 1768375100,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 345377,
+        "num": 345377,
+        "word": "以色列宣布退群",
+        "onboard_time": 1768361421,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 427506,
+        "num": 328234,
+        "word": "国产积木已经进化到这种水平了",
+        "onboard_time": 1768373180,
+        "rank": 5,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 264765,
+        "num": 264765,
+        "word": "这几天可以先不要做美甲了",
+        "onboard_time": 1768364301,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214392,
+        "num": 214392,
+        "word": "杨瀚森受伤",
+        "onboard_time": 1768372100,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213546,
+        "num": 213546,
+        "word": "Fly MVP",
+        "onboard_time": 1768373900,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 48116,
+        "num": 212395,
+        "word": "外交部回应特朗普称国际法无关紧要",
+        "onboard_time": 1768376240,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 682245,
+        "num": 211820,
+        "word": "美国即将正式退出世卫组织",
+        "onboard_time": 1768369641,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 566354,
+        "num": 210519,
+        "word": "iPhone18Pro新爆料",
+        "onboard_time": 1768366281,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 283895,
+        "num": 207601,
+        "word": "虞书欣这十八秒我已经听入戏了",
+        "onboard_time": 1768375460,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242571,
+        "num": 207507,
+        "word": "以为中奖羽绒服 没想到是挂件",
+        "onboard_time": 1768367002,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206105,
+        "num": 206105,
+        "word": "花300万逼男友离婚同居一年起诉返还",
+        "onboard_time": 1768374980,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200794,
+        "num": 200794,
+        "word": "对御赐小仵作的五年有了实感",
+        "onboard_time": 1768371320,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169321,
+        "num": 169321,
+        "word": "无畏少司缘MVP",
+        "onboard_time": 1768375940,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 206541,
+        "num": 168740,
+        "word": "虞书欣云初令记录",
+        "onboard_time": 1768371980,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33174,
+        "num": 167473,
+        "word": "台积电被质疑变美积电",
+        "onboard_time": 1768375639,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125901,
+        "num": 167089,
+        "word": "贺娇龙截至14日中午仍在抢救",
+        "onboard_time": 1768375761,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160929,
+        "num": 165906,
+        "word": "特斯拉FSD停售",
+        "onboard_time": 1768375521,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 429327,
+        "num": 165214,
+        "word": "唐嫣粉裙",
+        "onboard_time": 1768373001,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274857,
+        "num": 164213,
+        "word": "金鸡白玉兰得主居然演短剧了",
+        "onboard_time": 1768374741,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183481,
+        "num": 162866,
+        "word": "日本租客死后2个月房内又现腐尸",
+        "onboard_time": 1768374980,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 162712,
+        "num": 162712,
+        "word": "44岁阿娇与43岁阿Sa同框",
+        "onboard_time": 1768367722,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162679,
+        "num": 162679,
+        "word": "iPhone18Pro灵动岛或变小",
+        "onboard_time": 1768366341,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 156447,
+        "num": 156447,
+        "word": "穆祉丞和CSGO互关",
+        "onboard_time": 1768376300,
+        "rank": 26,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 155817,
+        "num": 155817,
+        "word": "尹锡悦听到韩检方要求死刑后笑了",
+        "onboard_time": 1768376180,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149214,
+        "num": 149214,
+        "word": "贺娇龙单位将发布官方消息",
+        "onboard_time": 1768366403,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146218,
+        "num": 146218,
+        "word": "茶颜悦色称放久变半杯是工艺特色",
+        "onboard_time": 1768367722,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145275,
+        "num": 145275,
+        "word": "原神超话签到",
+        "onboard_time": 1768376480,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138068,
+        "num": 138068,
+        "word": "银行回应凌晨多次点外卖账户被风控",
+        "onboard_time": 1768373360,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132522,
+        "num": 132522,
+        "word": "跳水",
+        "onboard_time": 1768368200,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 123734,
+        "num": 123734,
+        "word": "张艺兴参与制作中巴建交75周年主题曲",
+        "onboard_time": 1768376121,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121457,
+        "num": 121457,
+        "word": "又一省份取消12345热线语音导航",
+        "onboard_time": 1768371201,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118996,
+        "num": 118996,
+        "word": "茶颜悦色放置半小时仅剩半杯",
+        "onboard_time": 1768375400,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52000,
+        "num": 116981,
+        "word": "韩国女孩被逼婚出逃上海",
+        "onboard_time": 1768376780,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 90524,
+        "num": 116588,
+        "word": "李在明两句话把日本整破防",
+        "onboard_time": 1768376180,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116283,
+        "num": 116283,
+        "word": "内娱的大恶女主已经发展成这样了",
+        "onboard_time": 1768376361,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19676,
+        "num": 116203,
+        "word": "4名专家拒评标通报为何需脑补",
+        "onboard_time": 1768375701,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116163,
+        "num": 116163,
+        "word": "亲手把女儿和她的好朋友拆散了",
+        "onboard_time": 1768373841,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113495,
+        "num": 113495,
+        "word": "孩子产检正常出生却畸形母亲发声",
+        "onboard_time": 1768365202,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112797,
+        "num": 112797,
+        "word": "单依纯拒绝歌手2024的原因",
+        "onboard_time": 1768364122,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112084,
+        "num": 112084,
+        "word": "王广吕严合照已经有cos了",
+        "onboard_time": 1768375639,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110874,
+        "num": 110874,
+        "word": "赵今麦宋威龙 我们绕了一圈才遇到",
+        "onboard_time": 1768376541,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106115,
+        "num": 110350,
+        "word": "02年属马女生抢到整套马钞马币",
+        "onboard_time": 1768369221,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109986,
+        "num": 109986,
+        "word": "赵丽颖 纪梵希",
+        "onboard_time": 1768360940,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109003,
+        "num": 109003,
+        "word": "肖战一口流利的东北话",
+        "onboard_time": 1768373421,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105378,
+        "num": 105378,
+        "word": "与辉同行83元3只皖西麻黄鸡引质疑",
+        "onboard_time": 1768363821,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108345,
+        "num": 101390,
+        "word": "单依纯回应审美欧美化",
+        "onboard_time": 1768375761,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国特色反腐败之路要坚定走下去#"
+    }
+  }
+}
