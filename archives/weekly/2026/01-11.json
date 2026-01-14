@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768430922166,
+  "endTime": 1768433133266,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -513,6 +513,14 @@
       "onboard_time": 1768108641,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 803670,
+      "num": 543145,
+      "word": "贺娇龙所有直播打赏均用于公益事业",
+      "onboard_time": 1768412595,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 781021,
@@ -2489,14 +2497,6 @@
       "onboard_time": 1768100660,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 332161,
-      "num": 543145,
-      "word": "贺娇龙所有直播打赏均用于公益事业",
-      "onboard_time": 1768412595,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 332034,
@@ -5283,6 +5283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171452,
+      "num": 101012,
+      "word": "贺娇龙5天前曾发视频聊汗血马",
+      "onboard_time": 1768412416,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171250,
       "num": 171250,
       "word": "金晨直播",
@@ -6355,14 +6363,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 147431,
-      "num": 69270,
-      "word": "贺娇龙5天前曾发视频聊汗血马",
-      "onboard_time": 1768412416,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 147402,
       "num": 132253,
       "word": "小S20年前婚礼照片",
@@ -6769,6 +6769,14 @@
       "onboard_time": 1768326915,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138512,
+      "num": 99875,
+      "word": "谢娜大晚上不能我一个人笑",
+      "onboard_time": 1768432638,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 138451,
@@ -7457,6 +7465,14 @@
       "onboard_time": 1768347798,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127372,
+      "num": 127372,
+      "word": "把钱藏海外的贪官栽了",
+      "onboard_time": 1768409539,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 127114,
@@ -10539,6 +10555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 92948,
+      "num": 92948,
+      "word": "常州一警务室里开警茶店",
+      "onboard_time": 1768409598,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92940,
       "num": 92940,
       "word": "女子因害怕路边车要求车主开走",
@@ -11027,6 +11051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 88534,
+      "num": 83854,
+      "word": "撞见前任和闺蜜共处女子坠楼致瘫",
+      "onboard_time": 1768410317,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88427,
       "num": 206028,
       "word": "贺娇龙同事发声",
@@ -11081,14 +11113,6 @@
       "onboard_time": 1768281261,
       "rank": 45,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 87828,
-      "num": 87828,
-      "word": "把钱藏海外的贪官栽了",
-      "onboard_time": 1768409539,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 87808,
@@ -12323,14 +12347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73179,
-      "num": 52409,
-      "word": "撞见前任和闺蜜共处女子坠楼致瘫",
-      "onboard_time": 1768410317,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72806,
       "num": 72806,
       "word": "合川文旅发长文感谢各界朋友",
@@ -12457,6 +12473,14 @@
       "onboard_time": 1768099340,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70077,
+      "num": 70077,
+      "word": "阿尔瓦塞特3比2皇马",
+      "onboard_time": 1768432698,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 69976,
@@ -13107,14 +13131,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 55284,
-      "num": 55284,
-      "word": "常州一警务室里开警茶店",
-      "onboard_time": 1768409598,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55125,
       "num": 116524,
       "word": "小学生在学校50元淘到茅台系杜撰",
@@ -13228,7 +13244,7 @@
     },
     {
       "raw_hot": 51383,
-      "num": 53922,
+      "num": 58514,
       "word": "曝皇马三大球星反对阿隆索",
       "onboard_time": 1768408460,
       "rank": 43,
@@ -13441,6 +13457,14 @@
       "onboard_time": 1768375100,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44031,
+      "num": 58557,
+      "word": "银价继续上涨创新高",
+      "onboard_time": 1768411997,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 43722,
@@ -13667,6 +13691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39749,
+      "num": 58529,
+      "word": "超适合冬天喝的4杯热饮",
+      "onboard_time": 1768432939,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 39542,
       "num": 785146,
       "word": "2025有3000场大型营业性演出",
@@ -13739,12 +13771,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 37529,
-      "num": 37529,
-      "word": "银价继续上涨创新高",
-      "onboard_time": 1768411997,
-      "rank": 36,
-      "category": "财经"
+      "raw_hot": 37689,
+      "num": 58504,
+      "word": "小城良方",
+      "onboard_time": 1768427594,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 37153,
@@ -14073,14 +14105,6 @@
       "onboard_time": 1768151896,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 30336,
-      "num": 36518,
-      "word": "小城良方",
-      "onboard_time": 1768427594,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 30270,
@@ -14508,7 +14532,7 @@
     },
     {
       "raw_hot": 22800,
-      "num": 36387,
+      "num": 58309,
       "word": "檀健次DEADREFLEX预热",
       "onboard_time": 1768410078,
       "rank": 45,
@@ -14601,6 +14625,14 @@
       "onboard_time": 1768300340,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20740,
+      "num": 58289,
+      "word": "贺娇龙曾谈及为何坚持骑马拍视频",
+      "onboard_time": 1768432818,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 20718,
@@ -14753,6 +14785,14 @@
       "onboard_time": 1768207820,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17271,
+      "num": 462574,
+      "word": "一图速览2025年进出口情况",
+      "onboard_time": 1768397062,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 17134,
@@ -14929,14 +14969,6 @@
       "onboard_time": 1768241355,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 11898,
-      "num": 361030,
-      "word": "一图速览2025年进出口情况",
-      "onboard_time": 1768397062,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 11804,

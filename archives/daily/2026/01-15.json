@@ -1,6 +1,6 @@
 {
   "startTime": 1768408888455,
-  "endTime": 1768430922166,
+  "endTime": 1768433133266,
   "band_list": [
     {
       "raw_hot": 2401677,
@@ -17,6 +17,14 @@
       "onboard_time": 1768408280,
       "rank": 10,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 803670,
+      "num": 543145,
+      "word": "贺娇龙所有直播打赏均用于公益事业",
+      "onboard_time": 1768412595,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 742060,
@@ -49,14 +57,6 @@
       "onboard_time": 1768378102,
       "rank": 1,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 332161,
-      "num": 543145,
-      "word": "贺娇龙所有直播打赏均用于公益事业",
-      "onboard_time": 1768412595,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 329072,
@@ -99,6 +99,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 214228,
+      "num": 100601,
+      "word": "90后医生强奸2幼女父亲曾为其辩护",
+      "onboard_time": 1768386681,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196309,
       "num": 196309,
       "word": "彭十六偷税案",
@@ -112,6 +120,14 @@
       "word": "AI查贪官准确率相当高",
       "onboard_time": 1768409238,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171452,
+      "num": 101012,
+      "word": "贺娇龙5天前曾发视频聊汗血马",
+      "onboard_time": 1768412416,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -147,12 +163,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147431,
-      "num": 69270,
-      "word": "贺娇龙5天前曾发视频聊汗血马",
-      "onboard_time": 1768412416,
-      "rank": 16,
-      "category": "民生新闻"
+      "raw_hot": 138512,
+      "num": 99875,
+      "word": "谢娜大晚上不能我一个人笑",
+      "onboard_time": 1768432638,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 136359,
@@ -161,6 +177,14 @@
       "onboard_time": 1768412536,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127372,
+      "num": 127372,
+      "word": "把钱藏海外的贪官栽了",
+      "onboard_time": 1768409539,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 112237,
@@ -179,11 +203,11 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 107357,
-      "num": 100601,
-      "word": "90后医生强奸2幼女父亲曾为其辩护",
-      "onboard_time": 1768386681,
-      "rank": 20,
+      "raw_hot": 110629,
+      "num": 110629,
+      "word": "12306回应一等座禁止无座乘客逗留",
+      "onboard_time": 1768392321,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -211,12 +235,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 87828,
-      "num": 87828,
-      "word": "把钱藏海外的贪官栽了",
-      "onboard_time": 1768409539,
-      "rank": 41,
-      "category": "国内时政"
+      "raw_hot": 97252,
+      "num": 97252,
+      "word": "杨紫新剧人设太顶了",
+      "onboard_time": 1768393760,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 92948,
+      "num": 92948,
+      "word": "常州一警务室里开警茶店",
+      "onboard_time": 1768409598,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88534,
+      "num": 83854,
+      "word": "撞见前任和闺蜜共处女子坠楼致瘫",
+      "onboard_time": 1768410317,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86610,
@@ -243,14 +283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 73179,
-      "num": 52409,
-      "word": "撞见前任和闺蜜共处女子坠楼致瘫",
-      "onboard_time": 1768410317,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72931,
       "num": 72931,
       "word": "小猫也会因为早恋被训斥",
@@ -275,6 +307,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 70077,
+      "num": 70077,
+      "word": "阿尔瓦塞特3比2皇马",
+      "onboard_time": 1768432698,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 69419,
+      "num": 69419,
+      "word": "网友评林志玲面相变了",
+      "onboard_time": 1768381521,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66500,
       "num": 66500,
       "word": "张子枫张新成新剧从发小到恶语相向",
@@ -283,12 +331,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 66215,
-      "num": 66215,
-      "word": "杨紫新剧人设太顶了",
-      "onboard_time": 1768393760,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 66081,
+      "num": 66081,
+      "word": "浙江用AI抓出贪官",
+      "onboard_time": 1768401503,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 64426,
@@ -315,14 +363,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 60878,
-      "num": 60878,
-      "word": "浙江用AI抓出贪官",
-      "onboard_time": 1768401503,
-      "rank": 35,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 60548,
       "num": 60548,
       "word": "我的朋友安德烈",
@@ -337,6 +377,14 @@
       "onboard_time": 1768395742,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 58540,
+      "num": 58540,
+      "word": "中国女子在泰国芭提雅遭遇捆绑抢劫",
+      "onboard_time": 1768403782,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 57665,
@@ -356,7 +404,7 @@
     },
     {
       "raw_hot": 56267,
-      "num": 56267,
+      "num": 58498,
       "word": "祯娘传",
       "onboard_time": 1768404921,
       "rank": 38,
@@ -369,14 +417,6 @@
       "onboard_time": 1768394361,
       "rank": 39,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 55284,
-      "num": 55284,
-      "word": "常州一警务室里开警茶店",
-      "onboard_time": 1768409598,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55186,
@@ -396,35 +436,19 @@
     },
     {
       "raw_hot": 52728,
-      "num": 53928,
+      "num": 58323,
       "word": "伊朗开展外交活动争取支持",
       "onboard_time": 1768395082,
       "rank": 42,
       "category": "国际时政"
     },
     {
-      "raw_hot": 51874,
-      "num": 51874,
-      "word": "中国女子在泰国芭提雅遭遇捆绑抢劫",
-      "onboard_time": 1768403782,
-      "rank": 36,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 51383,
-      "num": 53922,
+      "num": 58514,
       "word": "曝皇马三大球星反对阿隆索",
       "onboard_time": 1768408460,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51267,
-      "num": 53919,
-      "word": "网友评林志玲面相变了",
-      "onboard_time": 1768381521,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 50658,
@@ -452,7 +476,7 @@
     },
     {
       "raw_hot": 48071,
-      "num": 53905,
+      "num": 58331,
       "word": "申论",
       "onboard_time": 1768395920,
       "rank": 48,
@@ -467,28 +491,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42462,
-      "num": 42462,
-      "word": "12306回应一等座禁止无座乘客逗留",
-      "onboard_time": 1768392321,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37529,
-      "num": 37529,
+      "raw_hot": 44031,
+      "num": 58557,
       "word": "银价继续上涨创新高",
       "onboard_time": 1768411997,
       "rank": 36,
       "category": "财经"
     },
     {
-      "raw_hot": 30336,
-      "num": 36518,
+      "raw_hot": 39749,
+      "num": 58529,
+      "word": "超适合冬天喝的4杯热饮",
+      "onboard_time": 1768432939,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 37689,
+      "num": 58504,
       "word": "小城良方",
       "onboard_time": 1768427594,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33702,
+      "num": 58459,
+      "word": "剑来",
+      "onboard_time": 1768390821,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 30270,
@@ -499,16 +531,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 23052,
-      "num": 36428,
-      "word": "剑来",
-      "onboard_time": 1768390821,
-      "rank": 38,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 22800,
-      "num": 36387,
+      "num": 58309,
       "word": "檀健次DEADREFLEX预热",
       "onboard_time": 1768410078,
       "rank": 45,
@@ -523,12 +547,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20740,
+      "num": 58289,
+      "word": "贺娇龙曾谈及为何坚持骑马拍视频",
+      "onboard_time": 1768432818,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18523,
       "num": 35985,
       "word": "小城大事",
       "onboard_time": 1768390281,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17271,
+      "num": 462574,
+      "word": "一图速览2025年进出口情况",
+      "onboard_time": 1768397062,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 16970,
@@ -569,14 +609,6 @@
       "onboard_time": 1768388181,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 11898,
-      "num": 361030,
-      "word": "一图速览2025年进出口情况",
-      "onboard_time": 1768397062,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
