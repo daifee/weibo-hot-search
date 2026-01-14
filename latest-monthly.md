@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/14 21:01:33
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/14 21:16:21
 </p>
 </blockquote>
 <p>
@@ -1947,6 +1947,12 @@ CSGO（热度：630992）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E6%95%99%E5%B8%88%E4%B8%8E%E5%AD%A6%E7%94%9F%E5%8F%91%E7%94%9F%E4%B8%8D%E6%AD%A3%E5%BD%93%E5%85%B3%E7%B3%BB%23" target="weibo">
+河南一教师与学生发生不正当关系（热度：581278）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%AE%87%E6%AC%A3dior%E6%B4%BB%E5%8A%A8%23" target="weibo">
 郭宇欣dior活动（热度：580868）
 </a>
@@ -3197,6 +3203,12 @@ iPhone千万别删的自带软件（热度：474519）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%99%93%E6%9D%BE26%E5%A4%A9%E7%98%A6%E4%BA%8626%E6%96%A4%23" target="weibo">
 高晓松26天瘦了26斤（热度：465870）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E6%82%89%E5%B0%BC%23" target="weibo">
+贺峻霖悉尼（热度：465831）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ iPhone自带堪比打印机的软件（热度：315415）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%B7%B2%E5%B0%86%E8%A2%AB%E6%89%94%E5%B0%BF%E4%B8%8D%E6%B9%BF%E7%9A%84%E9%94%85%E5%85%B7%E5%BA%9F%E5%BC%83%23" target="weibo">
 海底捞已将被扔尿不湿的锅具废弃（热度：301459）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E5%BC%80%E6%9C%BA%E6%97%B6%E9%97%B4%23" target="weibo">
-十日终焉开机时间（热度：301153）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%AE%8B%E5%A8%81%E9%BE%99%E8%B5%B5%E4%BB%8A%E9%BA%A6%E6%88%96%E4%BA%8C%E6%90%AD%23" target="weibo">
-网传宋威龙赵今麦或二搭（热度：300997）
 </a>
 </li>
 

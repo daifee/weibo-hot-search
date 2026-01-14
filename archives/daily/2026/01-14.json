@@ -1,6 +1,6 @@
 {
   "startTime": 1768322530118,
-  "endTime": 1768395693138,
+  "endTime": 1768396581133,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 857288,
-      "num": 198797,
+      "num": 219386,
       "word": "90后医生强奸2幼女父亲曾为其辩护",
       "onboard_time": 1768386681,
       "rank": 32,
@@ -235,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 581278,
+      "num": 244044,
+      "word": "河南一教师与学生发生不正当关系",
+      "onboard_time": 1768395320,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 579447,
       "num": 219078,
       "word": "彭十六 盛世天下",
@@ -336,6 +344,14 @@
       "word": "金晨 没有烂饼都是好饼",
       "onboard_time": 1768394361,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 465831,
+      "num": 243428,
+      "word": "贺峻霖悉尼",
+      "onboard_time": 1768394841,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -644,7 +660,7 @@
     },
     {
       "raw_hot": 304952,
-      "num": 229627,
+      "num": 232717,
       "word": "你那儿几点 王安宇周也",
       "onboard_time": 1768389320,
       "rank": 15,
@@ -681,6 +697,14 @@
       "onboard_time": 1768348699,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 290795,
+      "num": 290795,
+      "word": "申论",
+      "onboard_time": 1768395920,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 289882,
@@ -721,6 +745,14 @@
       "onboard_time": 1768392921,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 278093,
+      "num": 226350,
+      "word": "金晨回应接烂饼",
+      "onboard_time": 1768393882,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 277158,
@@ -803,28 +835,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 256669,
-      "num": 204883,
-      "word": "金晨回应接烂饼",
-      "onboard_time": 1768393882,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 255751,
       "num": 124808,
       "word": "韩国开始出现迪拜巧克力麻薯糖葫芦了",
       "onboard_time": 1768354700,
       "rank": 22,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 253574,
-      "num": 219506,
-      "word": "贺峻霖悉尼",
-      "onboard_time": 1768394841,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 250319,
@@ -851,11 +867,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 245266,
+      "num": 245266,
+      "word": "国考 没有进面的风险",
+      "onboard_time": 1768395860,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 244362,
       "num": 244362,
       "word": "花300万逼男友离婚同居一年起诉返还",
       "onboard_time": 1768374980,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 242332,
+      "num": 242332,
+      "word": "再也不用纠结扶不扶了",
+      "onboard_time": 1768392261,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -881,14 +913,6 @@
       "onboard_time": 1768362861,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 228169,
-      "num": 228169,
-      "word": "再也不用纠结扶不扶了",
-      "onboard_time": 1768392261,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 226390,
@@ -1011,14 +1035,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 205119,
-      "num": 205119,
-      "word": "河南一教师与学生发生不正当关系",
-      "onboard_time": 1768395320,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 203907,
       "num": 203907,
       "word": "章泽天播客",
@@ -1115,6 +1131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 184737,
+      "num": 184737,
+      "word": "小城大事多年闺蜜反目",
+      "onboard_time": 1768395502,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183623,
       "num": 183623,
       "word": "小城大事酷云跌破2了",
@@ -1153,6 +1177,14 @@
       "onboard_time": 1768354159,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181038,
+      "num": 168166,
+      "word": "国考系统 进不去",
+      "onboard_time": 1768396281,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 180474,
@@ -1259,6 +1291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 167404,
+      "num": 167404,
+      "word": "刘亦菲北电时期旧照",
+      "onboard_time": 1768392561,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167101,
       "num": 119725,
       "word": "知道为啥都喜欢高鼻梁了吧",
@@ -1307,14 +1347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160242,
-      "num": 160242,
-      "word": "刘亦菲北电时期旧照",
-      "onboard_time": 1768392561,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159668,
       "num": 159668,
       "word": "国漫白切黑医生姐姐你好香",
@@ -1337,6 +1369,14 @@
       "onboard_time": 1768382841,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157238,
+      "num": 157238,
+      "word": "卢昱晓眼镜轻轻一戴就出神图",
+      "onboard_time": 1768395621,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 156447,
@@ -1643,12 +1683,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 133743,
+      "num": 133743,
+      "word": "认错肖战的大哥大姐像演小品",
+      "onboard_time": 1768394181,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133179,
       "num": 133179,
       "word": "女子熟睡中被丈夫3次掐脖致残",
       "onboard_time": 1768389141,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132691,
+      "num": 132691,
+      "word": "DYG战胜狼队后发文",
+      "onboard_time": 1768396400,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 132088,
@@ -1739,6 +1795,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122473,
+      "num": 122473,
+      "word": "在超市放15天与在我家放2天",
+      "onboard_time": 1768395381,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 122290,
+      "num": 122290,
+      "word": "小城大事剧情平",
+      "onboard_time": 1768395800,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122073,
       "num": 122073,
       "word": "清融西施FMVP换装上新",
@@ -1753,22 +1825,6 @@
       "onboard_time": 1768377081,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 121496,
-      "num": 121496,
-      "word": "认错肖战的大哥大姐像演小品",
-      "onboard_time": 1768394181,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 121324,
-      "num": 121324,
-      "word": "小城大事多年闺蜜反目",
-      "onboard_time": 1768395502,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 120551,
@@ -1809,14 +1865,6 @@
       "onboard_time": 1768377440,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117542,
-      "num": 117542,
-      "word": "在超市放15天与在我家放2天",
-      "onboard_time": 1768395381,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 116849,
@@ -1969,14 +2017,6 @@
       "onboard_time": 1768385962,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 109759,
-      "num": 109759,
-      "word": "卢昱晓眼镜轻轻一戴就出神图",
-      "onboard_time": 1768395621,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 109727,
@@ -2883,6 +2923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68881,
+      "num": 229806,
+      "word": "医保局回应退休人员产检可报销",
+      "onboard_time": 1768395621,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68138,
       "num": 68138,
       "word": "卫星互联网低轨18组卫星发射成功",
@@ -2995,14 +3043,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 52419,
-      "num": 121396,
-      "word": "医保局回应退休人员产检可报销",
-      "onboard_time": 1768395621,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52007,
       "num": 128656,
       "word": "贪官曾在机场威胁乘客",
@@ -3017,6 +3057,14 @@
       "onboard_time": 1768319840,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 50166,
+      "num": 142150,
+      "word": "高速上一男子爬上他人车辆喊救命",
+      "onboard_time": 1768395920,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50057,
@@ -3153,6 +3201,14 @@
       "onboard_time": 1768386441,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30921,
+      "num": 230148,
+      "word": "热雪新年转出奇迹",
+      "onboard_time": 1768395920,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 29743,
@@ -3336,6 +3392,14 @@
       "word": "揭秘产检正常出生畸形涉事医院",
       "onboard_time": 1768372820,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13624,
+      "num": 227489,
+      "word": "他还是个孩子不再是挡箭牌",
+      "onboard_time": 1768396100,
+      "rank": 19,
       "category": "民生新闻"
     }
   ],

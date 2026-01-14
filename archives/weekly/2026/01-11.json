@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768395693138,
+  "endTime": 1768396581133,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 857288,
-      "num": 198797,
+      "num": 219386,
       "word": "90后医生强奸2幼女父亲曾为其辩护",
       "onboard_time": 1768386681,
       "rank": 32,
@@ -923,6 +923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 581278,
+      "num": 244044,
+      "word": "河南一教师与学生发生不正当关系",
+      "onboard_time": 1768395320,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 580191,
       "num": 781327,
       "word": "轧戏剧组道歉",
@@ -1392,6 +1400,14 @@
       "word": "高晓松26天瘦了26斤",
       "onboard_time": 1768299141,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 465831,
+      "num": 243428,
+      "word": "贺峻霖悉尼",
+      "onboard_time": 1768394841,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -2628,7 +2644,7 @@
     },
     {
       "raw_hot": 304952,
-      "num": 229627,
+      "num": 232717,
       "word": "你那儿几点 王安宇周也",
       "onboard_time": 1768389320,
       "rank": 15,
@@ -2763,6 +2779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290795,
+      "num": 290795,
+      "word": "申论",
+      "onboard_time": 1768395920,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 290136,
       "num": 290136,
       "word": "子阳道歉",
@@ -2865,6 +2889,14 @@
       "onboard_time": 1768303642,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 278093,
+      "num": 226350,
+      "word": "金晨回应接烂饼",
+      "onboard_time": 1768393882,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 277670,
@@ -3171,14 +3203,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 256669,
-      "num": 204883,
-      "word": "金晨回应接烂饼",
-      "onboard_time": 1768393882,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 256266,
       "num": 471743,
       "word": "王楚钦LV品牌大使",
@@ -3225,14 +3249,6 @@
       "onboard_time": 1768204460,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 253574,
-      "num": 219506,
-      "word": "贺峻霖悉尼",
-      "onboard_time": 1768394841,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 253329,
@@ -3379,6 +3395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245266,
+      "num": 245266,
+      "word": "国考 没有进面的风险",
+      "onboard_time": 1768395860,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 244362,
       "num": 244362,
       "word": "花300万逼男友离婚同居一年起诉返还",
@@ -3401,6 +3425,14 @@
       "onboard_time": 1768202721,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242332,
+      "num": 242332,
+      "word": "再也不用纠结扶不扶了",
+      "onboard_time": 1768392261,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 242188,
@@ -3577,14 +3609,6 @@
       "onboard_time": 1768124060,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 228169,
-      "num": 228169,
-      "word": "再也不用纠结扶不扶了",
-      "onboard_time": 1768392261,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 227001,
@@ -4033,14 +4057,6 @@
       "onboard_time": 1768138942,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 205119,
-      "num": 205119,
-      "word": "河南一教师与学生发生不正当关系",
-      "onboard_time": 1768395320,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 204330,
@@ -4595,6 +4611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184737,
+      "num": 184737,
+      "word": "小城大事多年闺蜜反目",
+      "onboard_time": 1768395502,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184445,
       "num": 184445,
       "word": "卢昱晓拼音组词 黄子韬在拉",
@@ -4721,6 +4745,14 @@
       "onboard_time": 1768144701,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 181038,
+      "num": 168166,
+      "word": "国考系统 进不去",
+      "onboard_time": 1768396281,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 180802,
@@ -5139,6 +5171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167404,
+      "num": 167404,
+      "word": "刘亦菲北电时期旧照",
+      "onboard_time": 1768392561,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167382,
       "num": 167382,
       "word": "张艺兴 鸵鸟蛋的后续",
@@ -5411,14 +5451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160242,
-      "num": 160242,
-      "word": "刘亦菲北电时期旧照",
-      "onboard_time": 1768392561,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159668,
       "num": 159668,
       "word": "国漫白切黑医生姐姐你好香",
@@ -5561,6 +5593,14 @@
       "onboard_time": 1768055303,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157238,
+      "num": 157238,
+      "word": "卢昱晓眼镜轻轻一戴就出神图",
+      "onboard_time": 1768395621,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 157167,
@@ -6683,6 +6723,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 133743,
+      "num": 133743,
+      "word": "认错肖战的大哥大姐像演小品",
+      "onboard_time": 1768394181,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133287,
       "num": 133287,
       "word": "云合",
@@ -6713,6 +6761,14 @@
       "onboard_time": 1768214720,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132691,
+      "num": 132691,
+      "word": "DYG战胜狼队后发文",
+      "onboard_time": 1768396400,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 132582,
@@ -7283,6 +7339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 122473,
+      "num": 122473,
+      "word": "在超市放15天与在我家放2天",
+      "onboard_time": 1768395381,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122438,
       "num": 127898,
       "word": "曝美军方抵制入侵格陵兰岛计划",
@@ -7297,6 +7361,14 @@
       "onboard_time": 1768312283,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 122290,
+      "num": 122290,
+      "word": "小城大事剧情平",
+      "onboard_time": 1768395800,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 122191,
@@ -7347,14 +7419,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 121496,
-      "num": 121496,
-      "word": "认错肖战的大哥大姐像演小品",
-      "onboard_time": 1768394181,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 121418,
       "num": 121418,
       "word": "DeepSeek发布梁文锋署名论文",
@@ -7369,14 +7433,6 @@
       "onboard_time": 1768279461,
       "rank": 37,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 121324,
-      "num": 121324,
-      "word": "小城大事多年闺蜜反目",
-      "onboard_time": 1768395502,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 121186,
@@ -7641,14 +7697,6 @@
       "onboard_time": 1768318220,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117542,
-      "num": 117542,
-      "word": "在超市放15天与在我家放2天",
-      "onboard_time": 1768395381,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 117458,
@@ -8328,14 +8376,6 @@
       "word": "吴昕海涛合租史",
       "onboard_time": 1768301241,
       "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 109759,
-      "num": 109759,
-      "word": "卢昱晓眼镜轻轻一戴就出神图",
-      "onboard_time": 1768395621,
-      "rank": 49,
       "category": "艺人"
     },
     {
@@ -11899,6 +11939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68881,
+      "num": 229806,
+      "word": "医保局回应退休人员产检可报销",
+      "onboard_time": 1768395621,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68698,
       "num": 157996,
       "word": "用吹风机吹了一下小咪",
@@ -12547,14 +12595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 52419,
-      "num": 121396,
-      "word": "医保局回应退休人员产检可报销",
-      "onboard_time": 1768395621,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52287,
       "num": 195746,
       "word": "云南回应运动员实名举报",
@@ -12655,6 +12695,14 @@
       "num": 123943,
       "word": "新娘回应结婚当天接学生电话",
       "onboard_time": 1768213460,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50166,
+      "num": 142150,
+      "word": "高速上一男子爬上他人车辆喊救命",
+      "onboard_time": 1768395920,
       "rank": 39,
       "category": "民生新闻"
     },
@@ -13377,6 +13425,14 @@
       "onboard_time": 1768226841,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30921,
+      "num": 230148,
+      "word": "热雪新年转出奇迹",
+      "onboard_time": 1768395920,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 30866,
@@ -14152,6 +14208,14 @@
       "word": "揭秘产检正常出生畸形涉事医院",
       "onboard_time": 1768372820,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13624,
+      "num": 227489,
+      "word": "他还是个孩子不再是挡箭牌",
+      "onboard_time": 1768396100,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
