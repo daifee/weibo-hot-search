@@ -1,6 +1,6 @@
 {
   "startTime": 1768408888455,
-  "endTime": 1768418855770,
+  "endTime": 1768419707869,
   "band_list": [
     {
       "raw_hot": 2401677,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 15559,
-      "num": 15559,
+      "num": 19387,
       "word": "为丁程鑫守护星愿",
       "onboard_time": 1768410557,
       "rank": 42,
@@ -537,6 +537,14 @@
       "onboard_time": 1768397421,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14177,
+      "num": 19376,
+      "word": "王者荣耀S42赛季",
+      "onboard_time": 1768388181,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 10279,

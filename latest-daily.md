@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/15 00:41:28 ~ 2026/01/15 03:27:35
+本榜单时间：2026/01/15 00:41:28 ~ 2026/01/15 03:41:47
 </p>
 </blockquote>
 <p>
@@ -413,6 +413,12 @@ U23男足战平泰国队（热度：16970）
 <li>
 <a href="https://s.weibo.com/weibo?q=%238%E5%9B%BE%E7%9C%8B%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C8%E5%A4%A7%E9%87%8D%E7%82%B9%E4%BB%BB%E5%8A%A1%E6%94%BB%E5%9D%9A%23" target="weibo">
 8图看经济工作8大重点任务攻坚（热度：15445）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80S42%E8%B5%9B%E5%AD%A3%23" target="weibo">
+王者荣耀S42赛季（热度：14177）
 </a>
 </li>
 
