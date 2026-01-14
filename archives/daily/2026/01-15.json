@@ -1,6 +1,6 @@
 {
   "startTime": 1768408888455,
-  "endTime": 1768427084663,
+  "endTime": 1768429922460,
   "band_list": [
     {
       "raw_hot": 2401677,
@@ -75,6 +75,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 253261,
+      "num": 436372,
+      "word": "贺娇龙所有直播打赏均用于公益事业",
+      "onboard_time": 1768412595,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 244339,
       "num": 244339,
       "word": "当街抢小孩女子已被警方带走",
@@ -89,14 +97,6 @@
       "onboard_time": 1768404082,
       "rank": 12,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 208320,
-      "num": 208320,
-      "word": "贺娇龙所有直播打赏均用于公益事业",
-      "onboard_time": 1768412595,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 196309,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103471,
+      "num": 57721,
+      "word": "贺娇龙5天前曾发视频聊汗血马",
+      "onboard_time": 1768412416,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100666,
       "num": 100666,
       "word": "龚俊因左眼下新长了颗痣而开心",
@@ -232,14 +240,6 @@
       "word": "撞见前任和闺蜜共处女子坠楼致瘫",
       "onboard_time": 1768410317,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73062,
-      "num": 57721,
-      "word": "贺娇龙5天前曾发视频聊汗血马",
-      "onboard_time": 1768412416,
-      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -291,6 +291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 64099,
+      "num": 64099,
+      "word": "把钱藏海外的贪官栽了",
+      "onboard_time": 1768409539,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 62740,
       "num": 62740,
       "word": "国考",
@@ -329,14 +337,6 @@
       "onboard_time": 1768396642,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 57122,
-      "num": 57122,
-      "word": "把钱藏海外的贪官栽了",
-      "onboard_time": 1768409539,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 56802,
@@ -475,6 +475,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 33637,
+      "num": 33637,
+      "word": "12306回应一等座禁止无座乘客逗留",
+      "onboard_time": 1768392321,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30336,
+      "num": 30336,
+      "word": "小城良方",
+      "onboard_time": 1768427594,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 30270,
       "num": 37077,
       "word": "雷军提醒不要轻易关闭ESP",
@@ -484,47 +500,39 @@
     },
     {
       "raw_hot": 21781,
-      "num": 21781,
+      "num": 24570,
       "word": "剑来",
       "onboard_time": 1768390821,
       "rank": 38,
       "category": "动漫"
     },
     {
-      "raw_hot": 20716,
-      "num": 20716,
-      "word": "秋雪漫过的冬天",
-      "onboard_time": 1768407259,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 19385,
-      "num": 19385,
+      "raw_hot": 21278,
+      "num": 24570,
       "word": "檀健次DEADREFLEX预热",
       "onboard_time": 1768410078,
       "rank": 45,
       "category": "音乐"
     },
     {
+      "raw_hot": 20716,
+      "num": 24567,
+      "word": "秋雪漫过的冬天",
+      "onboard_time": 1768407259,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18523,
-      "num": 19308,
+      "num": 24560,
       "word": "小城大事",
       "onboard_time": 1768390281,
       "rank": 49,
       "category": "剧集"
     },
     {
-      "raw_hot": 17491,
-      "num": 18139,
-      "word": "12306回应一等座禁止无座乘客逗留",
-      "onboard_time": 1768392321,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 16970,
-      "num": 18080,
+      "num": 24562,
       "word": "U23男足战平泰国队",
       "onboard_time": 1768416314,
       "rank": 47,
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 15559,
-      "num": 19387,
+      "num": 24564,
       "word": "为丁程鑫守护星愿",
       "onboard_time": 1768410557,
       "rank": 42,
@@ -555,15 +563,15 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 11961,
-      "num": 17255,
+      "raw_hot": 14072,
+      "num": 24562,
       "word": "U23亚洲杯",
       "onboard_time": 1768394242,
       "rank": 44,
       "category": "体育"
     },
     {
-      "raw_hot": 10279,
+      "raw_hot": 10728,
       "num": 361030,
       "word": "一图速览2025年进出口情况",
       "onboard_time": 1768397062,

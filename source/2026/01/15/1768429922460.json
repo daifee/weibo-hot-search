@@ -1,0 +1,410 @@
+{
+  "runTime": 1768429922460,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 253261,
+        "num": 436372,
+        "word": "贺娇龙所有直播打赏均用于公益事业",
+        "onboard_time": 1768412595,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182152,
+        "num": 319922,
+        "word": "美国将暂停对75个国家的所有签证",
+        "onboard_time": 1768403241,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 10728,
+        "num": 250302,
+        "word": "一图速览2025年进出口情况",
+        "onboard_time": 1768397062,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112709,
+        "num": 112709,
+        "word": "马年春晚",
+        "onboard_time": 1768402162,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89729,
+        "num": 89729,
+        "word": "携程涉嫌垄断",
+        "onboard_time": 1768378102,
+        "rank": 4,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 822808,
+        "num": 86091,
+        "word": "贺娇龙抢救无效不幸离世",
+        "onboard_time": 1768409658,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81380,
+        "num": 81380,
+        "word": "当街抢小孩女子已被警方带走",
+        "onboard_time": 1768405041,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79069,
+        "num": 79069,
+        "word": "AI查贪官准确率相当高",
+        "onboard_time": 1768409238,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64099,
+        "num": 64099,
+        "word": "把钱藏海外的贪官栽了",
+        "onboard_time": 1768409539,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 58828,
+        "num": 58828,
+        "word": "镖人",
+        "onboard_time": 1768407079,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 275132,
+        "num": 58420,
+        "word": "韦德",
+        "onboard_time": 1768408280,
+        "rank": 10,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 103471,
+        "num": 56827,
+        "word": "贺娇龙5天前曾发视频聊汗血马",
+        "onboard_time": 1768412416,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81747,
+        "num": 56720,
+        "word": "杨幂 见面会",
+        "onboard_time": 1768404802,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51518,
+        "num": 51518,
+        "word": "杨紫新剧人设太顶了",
+        "onboard_time": 1768393760,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48762,
+        "num": 48762,
+        "word": "一袭红衣策马扬鞭的贺娇龙走了",
+        "onboard_time": 1768412536,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47699,
+        "num": 47699,
+        "word": "成都网红发起刨猪宴临时取消引争议",
+        "onboard_time": 1768402401,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47229,
+        "num": 47229,
+        "word": "原来苏翊鸣10岁就和佟丽娅演过电影",
+        "onboard_time": 1768405341,
+        "rank": 16,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 43196,
+        "num": 43196,
+        "word": "国考成绩",
+        "onboard_time": 1768394242,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 36067,
+        "num": 36067,
+        "word": "常州一警务室里开警茶店",
+        "onboard_time": 1768409598,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35560,
+        "num": 35560,
+        "word": "彭十六个人账户累计收款905万",
+        "onboard_time": 1768389441,
+        "rank": 19,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 53728,
+        "num": 35013,
+        "word": "90后医生强奸2幼女父亲曾为其辩护",
+        "onboard_time": 1768386681,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51240,
+        "num": 34548,
+        "word": "撞见前任和闺蜜共处女子坠楼致瘫",
+        "onboard_time": 1768410317,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33637,
+        "num": 33637,
+        "word": "12306回应一等座禁止无座乘客逗留",
+        "onboard_time": 1768392321,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30336,
+        "num": 30336,
+        "word": "小城良方",
+        "onboard_time": 1768427594,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30272,
+        "num": 30272,
+        "word": "网友评林志玲面相变了",
+        "onboard_time": 1768381521,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28396,
+        "num": 28396,
+        "word": "曝皇马三大球星反对阿隆索",
+        "onboard_time": 1768408460,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27268,
+        "num": 27268,
+        "word": "彭十六偷税案",
+        "onboard_time": 1768378881,
+        "rank": 26,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 27076,
+        "num": 27076,
+        "word": "龚俊因左眼下新长了颗痣而开心",
+        "onboard_time": 1768388541,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27045,
+        "num": 27045,
+        "word": "浙江用AI抓出贪官",
+        "onboard_time": 1768401503,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25563,
+        "num": 25563,
+        "word": "祯娘传",
+        "onboard_time": 1768404921,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29857,
+        "num": 25348,
+        "word": "中国女子在泰国芭提雅遭遇捆绑抢劫",
+        "onboard_time": 1768403782,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 24572,
+        "num": 24572,
+        "word": "陈星旭卢昱晓剧里互吻剧外互关",
+        "onboard_time": 1768405460,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22375,
+        "num": 24572,
+        "word": "银价继续上涨创新高",
+        "onboard_time": 1768411997,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 21278,
+        "num": 24570,
+        "word": "檀健次DEADREFLEX预热",
+        "onboard_time": 1768410078,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20726,
+        "num": 24570,
+        "word": "剑来",
+        "onboard_time": 1768390821,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 20098,
+        "num": 24569,
+        "word": "DYG战胜狼队",
+        "onboard_time": 1768393942,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19396,
+        "num": 24569,
+        "word": "国考",
+        "onboard_time": 1768385362,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 19377,
+        "num": 24568,
+        "word": "花海晒聊天记录",
+        "onboard_time": 1768397181,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19082,
+        "num": 24567,
+        "word": "行测",
+        "onboard_time": 1768404082,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 17935,
+        "num": 24567,
+        "word": "秋雪漫过的冬天",
+        "onboard_time": 1768407259,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17934,
+        "num": 24566,
+        "word": "马嘉祺读粉丝来信哭了",
+        "onboard_time": 1768398021,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17453,
+        "num": 24566,
+        "word": "彭十六 盛世天下",
+        "onboard_time": 1768384400,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 17363,
+        "num": 24565,
+        "word": "美军机沿伊朗边界飞行",
+        "onboard_time": 1768395742,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16441,
+        "num": 24565,
+        "word": "彭十六偷税216.32万元",
+        "onboard_time": 1768380440,
+        "rank": 43,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 15488,
+        "num": 24564,
+        "word": "为丁程鑫守护星愿",
+        "onboard_time": 1768410557,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14480,
+        "num": 24563,
+        "word": "申论",
+        "onboard_time": 1768395920,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 14072,
+        "num": 24562,
+        "word": "U23亚洲杯",
+        "onboard_time": 1768394242,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14006,
+        "num": 24562,
+        "word": "伊朗开展外交活动争取支持",
+        "onboard_time": 1768395082,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13839,
+        "num": 24562,
+        "word": "U23男足战平泰国队",
+        "onboard_time": 1768416314,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13721,
+        "num": 24560,
+        "word": "小城大事",
+        "onboard_time": 1768390281,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届中央纪委五次全会公报#"
+    }
+  }
+}
