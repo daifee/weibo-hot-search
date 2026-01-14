@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768356872035,
+  "endTime": 1768358363932,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -41,6 +41,14 @@
       "onboard_time": 1768053024,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6042964,
+      "num": 6042964,
+      "word": "官方回应贺娇龙被传去世",
+      "onboard_time": 1768355000,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 5632996,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767499703,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 582761,
-      "num": 276070,
-      "word": "腾讯告诉全世界肖战签了十日终焉",
-      "onboard_time": 1768290201,
-      "rank": 4,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [

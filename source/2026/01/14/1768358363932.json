@@ -1,0 +1,410 @@
+{
+  "runTime": 1768358363932,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 425480,
+        "num": 1469539,
+        "word": "卫健委回应产检正常出生却诊出畸形",
+        "onboard_time": 1768352181,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424570,
+        "num": 1061400,
+        "word": "贺娇龙曾因策马雪原带火当地旅游",
+        "onboard_time": 1768356080,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37107,
+        "num": 839657,
+        "word": "全国铁路新增243列客车",
+        "onboard_time": 1768313184,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6042964,
+        "num": 6042964,
+        "word": "官方回应贺娇龙被传去世",
+        "onboard_time": 1768355000,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417576,
+        "num": 417576,
+        "word": "整套马钞价格已被炒到2000元",
+        "onboard_time": 1768349780,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384981,
+        "num": 384981,
+        "word": "李在明提中国高市早苗没提",
+        "onboard_time": 1768356321,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 272805,
+        "num": 272805,
+        "word": "去了瑞士才懂钱包有多瘪",
+        "onboard_time": 1768353620,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 205399,
+        "num": 205399,
+        "word": "原神开门",
+        "onboard_time": 1768357462,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190716,
+        "num": 190716,
+        "word": "河南一600年古村几乎人人都拍剧",
+        "onboard_time": 1768348699,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186247,
+        "num": 186247,
+        "word": "你的头一直在慢慢3D打印头发",
+        "onboard_time": 1768353440,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 490149,
+        "num": 185868,
+        "word": "朱一龙 水果报吃",
+        "onboard_time": 1768355961,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419160,
+        "num": 184504,
+        "word": "拍半天认错肖战了",
+        "onboard_time": 1768355660,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174894,
+        "num": 174894,
+        "word": "有人出价13万求购会装死的小羊",
+        "onboard_time": 1768346597,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216167,
+        "num": 168809,
+        "word": "代旭真敲过世纪钟",
+        "onboard_time": 1768355603,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148737,
+        "num": 148737,
+        "word": "鸭鸭羽绒服回应衣服双标双码",
+        "onboard_time": 1768347318,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135498,
+        "num": 135498,
+        "word": "贺娇龙曾谈47岁感悟",
+        "onboard_time": 1768357161,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134581,
+        "num": 134581,
+        "word": "小城大事酷云跌破2了",
+        "onboard_time": 1768347798,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125566,
+        "num": 125566,
+        "word": "老婆错失年终奖老公婆婆默契补上",
+        "onboard_time": 1768317681,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115019,
+        "num": 115019,
+        "word": "西安华清池贵妃裸体出浴雕像引争议",
+        "onboard_time": 1768304721,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26677,
+        "num": 114867,
+        "word": "落马官员近千平米别墅内景",
+        "onboard_time": 1768357702,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 221593,
+        "num": 114094,
+        "word": "第一次见恋综骂这么狠的",
+        "onboard_time": 1768310962,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207533,
+        "num": 112914,
+        "word": "月入一万以下最好的理财方式",
+        "onboard_time": 1768347379,
+        "rank": 21,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 196101,
+        "num": 112303,
+        "word": "韩国开始出现迪拜巧克力麻薯糖葫芦了",
+        "onboard_time": 1768354700,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 162586,
+        "num": 111282,
+        "word": "何晴儿子头像仍为全黑",
+        "onboard_time": 1768315343,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159487,
+        "num": 110128,
+        "word": "张维伊带小酒窝录制新春节目",
+        "onboard_time": 1768354159,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158857,
+        "num": 109609,
+        "word": "知道为啥都喜欢高鼻梁了吧",
+        "onboard_time": 1768347379,
+        "rank": 25,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 157087,
+        "num": 108848,
+        "word": "间谍美色诱惑策反军工企业人员",
+        "onboard_time": 1768354100,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134999,
+        "num": 108008,
+        "word": "鸭鸭羽绒服涉多起买卖合同纠纷",
+        "onboard_time": 1768355301,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107549,
+        "num": 107549,
+        "word": "福宝的肚肚真是一口一口吃出来的",
+        "onboard_time": 1768352840,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105758,
+        "num": 105758,
+        "word": "00后新警一根针保住126万",
+        "onboard_time": 1768316002,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98354,
+        "num": 98354,
+        "word": "美国批准向中国出口英伟达H200芯片",
+        "onboard_time": 1768352660,
+        "rank": 30,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 97066,
+        "num": 97066,
+        "word": "梅毒是什么毒",
+        "onboard_time": 1768347739,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96947,
+        "num": 96947,
+        "word": "减肥药价格最低降至81元一针",
+        "onboard_time": 1768352120,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93665,
+        "num": 93665,
+        "word": "陈伟霆很帅但衣服穿不明白",
+        "onboard_time": 1768358241,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92591,
+        "num": 92591,
+        "word": "13岁男孩泡澡20分钟脑出血",
+        "onboard_time": 1768316602,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91501,
+        "num": 91501,
+        "word": "贺娇龙曾坠马换马再拍家乡",
+        "onboard_time": 1768357881,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89147,
+        "num": 89147,
+        "word": "中国驻韩国使馆严正发声",
+        "onboard_time": 1768354459,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 88567,
+        "num": 88567,
+        "word": "59岁产妇57岁开始调理身体",
+        "onboard_time": 1768347798,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43006,
+        "num": 85960,
+        "word": "女子遭丈夫掐脖致残后床头放斧头",
+        "onboard_time": 1768358241,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34179,
+        "num": 85623,
+        "word": "死了么APP用户数翻800倍",
+        "onboard_time": 1768357582,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85352,
+        "num": 85352,
+        "word": "网友缅怀贺娇龙",
+        "onboard_time": 1768357281,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84290,
+        "num": 84290,
+        "word": "贺娇龙此前曾坠马致胸腔积液",
+        "onboard_time": 1768358181,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82500,
+        "num": 82500,
+        "word": "钟楚曦生图最严厉的母亲",
+        "onboard_time": 1768347077,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 399572,
+        "num": 82198,
+        "word": "贵妃出浴雕像被指不雅不理就是最好回击",
+        "onboard_time": 1768353739,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81118,
+        "num": 81118,
+        "word": "许何悼念母亲何晴许亚军留言",
+        "onboard_time": 1768357641,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79391,
+        "num": 79391,
+        "word": "余华人和人交往尽量少说话",
+        "onboard_time": 1768347379,
+        "rank": 45,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 76823,
+        "num": 76823,
+        "word": "轧戏",
+        "onboard_time": 1768304423,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76104,
+        "num": 76104,
+        "word": "身体出现这10个信号原来是肾脏在求救",
+        "onboard_time": 1768349961,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 75843,
+        "num": 75843,
+        "word": "狗主人已接受高校提供的经济补偿",
+        "onboard_time": 1768323078,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74928,
+        "num": 74928,
+        "word": "日本雪车队因协会漏看规定无缘冬奥会",
+        "onboard_time": 1768357521,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记的反腐警句#"
+    }
+  }
+}
