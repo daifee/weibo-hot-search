@@ -1,0 +1,410 @@
+{
+  "runTime": 1768387920656,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1305340,
+        "num": 1305340,
+        "word": "彭十六",
+        "onboard_time": 1768380440,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 991121,
+        "num": 991121,
+        "word": "携程涉嫌垄断",
+        "onboard_time": 1768378102,
+        "rank": 1,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 45935,
+        "num": 693735,
+        "word": "中国汽车产销量再创历史新高",
+        "onboard_time": 1768378102,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 380384,
+        "num": 380384,
+        "word": "国考",
+        "onboard_time": 1768385362,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 296279,
+        "num": 296279,
+        "word": "男子拍摄近视眼女友站岗爆火",
+        "onboard_time": 1768381762,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296137,
+        "num": 296137,
+        "word": "曾经很火但消失了的茶饮",
+        "onboard_time": 1768375100,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 284211,
+        "num": 284211,
+        "word": "携程回应被查",
+        "onboard_time": 1768382601,
+        "rank": 6,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 277333,
+        "num": 277333,
+        "word": "盛世天下",
+        "onboard_time": 1768385600,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 270514,
+        "num": 270514,
+        "word": "携程 杀熟",
+        "onboard_time": 1768380501,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 267975,
+        "num": 267975,
+        "word": "40一盒和400一盒草莓的区别",
+        "onboard_time": 1768377380,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 912516,
+        "num": 267569,
+        "word": "黄霄雲要举报声生不息节目组",
+        "onboard_time": 1768385181,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 520107,
+        "num": 267556,
+        "word": "马云前助理陈伟被曝去世",
+        "onboard_time": 1768383621,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266231,
+        "num": 266231,
+        "word": "彭十六偷税案",
+        "onboard_time": 1768378881,
+        "rank": 12,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 233881,
+        "num": 233881,
+        "word": "银价彻底杀疯了",
+        "onboard_time": 1768378161,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 163334,
+        "num": 233717,
+        "word": "建议关闭微信的支付后摇一摇功能",
+        "onboard_time": 1768380081,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 151689,
+        "num": 222361,
+        "word": "主人称装死小羊再高价也不卖",
+        "onboard_time": 1768380862,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147098,
+        "num": 219440,
+        "word": "69岁断臂奶奶替亡子还债",
+        "onboard_time": 1768385242,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127721,
+        "num": 213845,
+        "word": "彭十六已被禁言",
+        "onboard_time": 1768380620,
+        "rank": 17,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 41513,
+        "num": 208687,
+        "word": "18层楼加盖1层全体业主怒了",
+        "onboard_time": 1768387400,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22196,
+        "num": 202638,
+        "word": "民航总医院回应短信提醒带709支笔",
+        "onboard_time": 1768387641,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 579447,
+        "num": 196311,
+        "word": "彭十六 盛世天下",
+        "onboard_time": 1768384400,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 545836,
+        "num": 186476,
+        "word": "微博之夜 集体婚礼",
+        "onboard_time": 1768382601,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 479030,
+        "num": 184653,
+        "word": "90后医生强奸2幼女父亲曾为其辩护",
+        "onboard_time": 1768386681,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 486906,
+        "num": 176777,
+        "word": "周杰伦澳网一轮游",
+        "onboard_time": 1768382961,
+        "rank": 23,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 174353,
+        "num": 174353,
+        "word": "网友评林志玲面相变了",
+        "onboard_time": 1768381521,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171487,
+        "num": 171487,
+        "word": "成人间的暧昧信息",
+        "onboard_time": 1768384101,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123579,
+        "num": 153105,
+        "word": "何运晨没有下桌的义务",
+        "onboard_time": 1768386861,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152088,
+        "num": 152088,
+        "word": "37岁坚持化妆200天的变化",
+        "onboard_time": 1768380921,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 236035,
+        "num": 151210,
+        "word": "周杰伦澳网不敌约维奇",
+        "onboard_time": 1768386080,
+        "rank": 28,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 149711,
+        "num": 149711,
+        "word": "徐冬冬尹子维到底买了多少黑色衣服",
+        "onboard_time": 1768386739,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148202,
+        "num": 148202,
+        "word": "金饰克价涨到1438元",
+        "onboard_time": 1768384762,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127612,
+        "num": 127612,
+        "word": "上迪偶遇宋祖儿",
+        "onboard_time": 1768387161,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125781,
+        "num": 125781,
+        "word": "金晨直播",
+        "onboard_time": 1768385841,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124740,
+        "num": 124740,
+        "word": "极品饭灵根真的出现了",
+        "onboard_time": 1768381103,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 119783,
+        "num": 119783,
+        "word": "2026国考上岸",
+        "onboard_time": 1768379480,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 107569,
+        "num": 107569,
+        "word": "陈星旭直播",
+        "onboard_time": 1768386501,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43549,
+        "num": 106887,
+        "word": "虞书欣18秒原声台词",
+        "onboard_time": 1768387400,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99074,
+        "num": 104772,
+        "word": "日本天后死后被卖裸照引网友愤怒",
+        "onboard_time": 1768387400,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 41662,
+        "num": 104614,
+        "word": "多国抢购枭龙战斗机",
+        "onboard_time": 1768386861,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 16454,
+        "num": 102302,
+        "word": "男孩烫伤致死案亲属申请撤销通报",
+        "onboard_time": 1768387641,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101766,
+        "num": 101766,
+        "word": "张维伊你的窝姐",
+        "onboard_time": 1768387761,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101549,
+        "num": 101549,
+        "word": "DYG对战狼队",
+        "onboard_time": 1768386802,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100006,
+        "num": 100006,
+        "word": "WBG对战iG",
+        "onboard_time": 1768382422,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98933,
+        "num": 98933,
+        "word": "iPhone18Pro新爆料",
+        "onboard_time": 1768366281,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 96424,
+        "num": 96424,
+        "word": "有些水果没成为主流水果的原因",
+        "onboard_time": 1768387459,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 94176,
+        "num": 94176,
+        "word": "人最大的教养是能接受父母的平凡",
+        "onboard_time": 1768385480,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93888,
+        "num": 93888,
+        "word": "以后点菜我就这么点",
+        "onboard_time": 1768387282,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92433,
+        "num": 92433,
+        "word": "MLB回应抽奖中羽绒服结果收到挂件",
+        "onboard_time": 1768383202,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30992,
+        "num": 88951,
+        "word": "南京开始补助大专毕业生",
+        "onboard_time": 1768386441,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88112,
+        "num": 88112,
+        "word": "携程跌超9%",
+        "onboard_time": 1768379781,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记推进全面从严治党最新部署#"
+    }
+  }
+}
