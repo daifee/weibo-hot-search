@@ -1,6 +1,6 @@
 {
   "startTime": 1768322530118,
-  "endTime": 1768391046865,
+  "endTime": 1768395693138,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -19,12 +19,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 4128569,
+      "num": 4128569,
+      "word": "国考成绩",
+      "onboard_time": 1768394242,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1962844,
       "num": 1962844,
       "word": "携程涉嫌垄断",
       "onboard_time": 1768378102,
       "rank": 0,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 1664569,
+      "num": 947625,
+      "word": "国考",
+      "onboard_time": 1768288881,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 1607103,
@@ -51,6 +67,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1075672,
+      "num": 253743,
+      "word": "母亲躲藏致女儿心源性休克身亡",
+      "onboard_time": 1768392561,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 917005,
       "num": 917005,
       "word": "曾经很火但消失了的茶饮",
@@ -75,8 +99,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 867183,
+      "num": 867183,
+      "word": "DYG战胜狼队",
+      "onboard_time": 1768393942,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 857288,
-      "num": 184653,
+      "num": 198797,
       "word": "90后医生强奸2幼女父亲曾为其辩护",
       "onboard_time": 1768386681,
       "rank": 32,
@@ -100,7 +132,7 @@
     },
     {
       "raw_hot": 755214,
-      "num": 823749,
+      "num": 1201429,
       "word": "银价彻底杀疯了",
       "onboard_time": 1768378161,
       "rank": 25,
@@ -204,7 +236,7 @@
     },
     {
       "raw_hot": 579447,
-      "num": 196311,
+      "num": 219078,
       "word": "彭十六 盛世天下",
       "onboard_time": 1768384400,
       "rank": 23,
@@ -299,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 470266,
+      "num": 249004,
+      "word": "金晨 没有烂饼都是好饼",
+      "onboard_time": 1768394361,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 464279,
       "num": 464279,
       "word": "国产积木已经进化到这种水平了",
@@ -324,7 +364,7 @@
     },
     {
       "raw_hot": 460124,
-      "num": 150555,
+      "num": 245422,
       "word": "唐嫣扛住了死亡芭比粉",
       "onboard_time": 1768388841,
       "rank": 24,
@@ -337,6 +377,14 @@
       "onboard_time": 1768374560,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 456321,
+      "num": 456321,
+      "word": "桃黑黑烟花秀",
+      "onboard_time": 1768394361,
+      "rank": 5,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 456020,
@@ -377,14 +425,6 @@
       "onboard_time": 1768360940,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 442644,
-      "num": 442644,
-      "word": "国考",
-      "onboard_time": 1768288881,
-      "rank": 44,
-      "category": "教育"
     },
     {
       "raw_hot": 441252,
@@ -451,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 417308,
+      "num": 417308,
+      "word": "彭十六个人账户累计收款905万",
+      "onboard_time": 1768389441,
+      "rank": 12,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 412510,
       "num": 340856,
       "word": "iPhone18Pro灵动岛或变小",
@@ -513,14 +561,6 @@
       "onboard_time": 1768292421,
       "rank": 21,
       "category": "网红"
-    },
-    {
-      "raw_hot": 364694,
-      "num": 364694,
-      "word": "彭十六个人账户累计收款905万",
-      "onboard_time": 1768389441,
-      "rank": 12,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 358948,
@@ -675,6 +715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 280397,
+      "num": 280397,
+      "word": "公考雷达",
+      "onboard_time": 1768392921,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 277158,
       "num": 277158,
       "word": "杨瀚森受伤",
@@ -715,6 +763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 264361,
+      "num": 264361,
+      "word": "彭十六偷税216.32万元",
+      "onboard_time": 1768380440,
+      "rank": 9,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 262747,
       "num": 150023,
       "word": "龚俊因左眼下新长了颗痣而开心",
@@ -747,12 +803,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 256669,
+      "num": 204883,
+      "word": "金晨回应接烂饼",
+      "onboard_time": 1768393882,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255751,
       "num": 124808,
       "word": "韩国开始出现迪拜巧克力麻薯糖葫芦了",
       "onboard_time": 1768354700,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 253574,
+      "num": 219506,
+      "word": "贺峻霖悉尼",
+      "onboard_time": 1768394841,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 250319,
@@ -811,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228169,
+      "num": 228169,
+      "word": "再也不用纠结扶不扶了",
+      "onboard_time": 1768392261,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226390,
       "num": 226390,
       "word": "DYG对战狼队",
@@ -841,6 +921,22 @@
       "onboard_time": 1768321338,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 222326,
+      "num": 197775,
+      "word": "嗑了13集你俩终于亲了",
+      "onboard_time": 1768393581,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 219382,
+      "num": 195283,
+      "word": "贺峻霖 好的摄影师不挑景",
+      "onboard_time": 1768394420,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 216386,
@@ -915,12 +1011,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 205119,
+      "num": 205119,
+      "word": "河南一教师与学生发生不正当关系",
+      "onboard_time": 1768395320,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203907,
       "num": 203907,
       "word": "章泽天播客",
       "onboard_time": 1768361602,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 203446,
+      "num": 203446,
+      "word": "DYG春季赛首战首胜",
+      "onboard_time": 1768395441,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 201797,
@@ -1059,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177861,
+      "num": 177861,
+      "word": "杨紫新剧人设太顶了",
+      "onboard_time": 1768393760,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177305,
       "num": 154739,
       "word": "金饰克价涨到1438元",
@@ -1187,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160242,
+      "num": 160242,
+      "word": "刘亦菲北电时期旧照",
+      "onboard_time": 1768392561,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159668,
       "num": 159668,
       "word": "国漫白切黑医生姐姐你好香",
@@ -1225,6 +1353,22 @@
       "onboard_time": 1768304481,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153604,
+      "num": 153604,
+      "word": "12306回应一等座禁止无座乘客逗留",
+      "onboard_time": 1768392321,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153527,
+      "num": 153527,
+      "word": "WBG战胜iG",
+      "onboard_time": 1768393342,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 152911,
@@ -1387,6 +1531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139703,
+      "num": 139703,
+      "word": "陈星旭说不要怕任何人去攻击你",
+      "onboard_time": 1768394841,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139419,
       "num": 139419,
       "word": "狗主人已接受高校提供的经济补偿",
@@ -1425,6 +1577,14 @@
       "onboard_time": 1768382481,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 137514,
+      "num": 137514,
+      "word": "湖南计划招录公务员10198名",
+      "onboard_time": 1768394602,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137188,
@@ -1579,12 +1739,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122073,
+      "num": 122073,
+      "word": "清融西施FMVP换装上新",
+      "onboard_time": 1768391120,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121953,
       "num": 121953,
       "word": "FENDI上海快闪活动",
       "onboard_time": 1768377081,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 121496,
+      "num": 121496,
+      "word": "认错肖战的大哥大姐像演小品",
+      "onboard_time": 1768394181,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 121324,
+      "num": 121324,
+      "word": "小城大事多年闺蜜反目",
+      "onboard_time": 1768395502,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 120551,
@@ -1627,6 +1811,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117542,
+      "num": 117542,
+      "word": "在超市放15天与在我家放2天",
+      "onboard_time": 1768395381,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 116849,
+      "num": 116849,
+      "word": "第一次见猫妈妈教小猫走路",
+      "onboard_time": 1768395259,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116283,
       "num": 116283,
       "word": "内娱的大恶女主已经发展成这样了",
@@ -1659,6 +1859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114641,
+      "num": 114641,
+      "word": "央行将开展9000亿买断式逆回购",
+      "onboard_time": 1768393342,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 114605,
       "num": 130408,
       "word": "女子连续4天在餐馆门口趴地不起",
@@ -1673,6 +1881,30 @@
       "onboard_time": 1768379421,
       "rank": 31,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 113372,
+      "num": 113372,
+      "word": "民航总医院招聘短信提醒带709支笔",
+      "onboard_time": 1768395320,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113150,
+      "num": 115616,
+      "word": "退休产检报销为沉默的少数撑了伞",
+      "onboard_time": 1768393460,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112515,
+      "num": 112515,
+      "word": "伊朗开展外交活动争取支持",
+      "onboard_time": 1768395082,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 112390,
@@ -1737,6 +1969,14 @@
       "onboard_time": 1768385962,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109759,
+      "num": 109759,
+      "word": "卢昱晓眼镜轻轻一戴就出神图",
+      "onboard_time": 1768395621,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 109727,
@@ -2753,6 +2993,14 @@
       "onboard_time": 1768360940,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 52419,
+      "num": 121396,
+      "word": "医保局回应退休人员产检可报销",
+      "onboard_time": 1768395621,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52007,

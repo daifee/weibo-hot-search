@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768391046865,
+  "endTime": 1768395693138,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -57,6 +57,14 @@
       "onboard_time": 1768114701,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 4128569,
+      "num": 4128569,
+      "word": "国考成绩",
+      "onboard_time": 1768394242,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 3680249,
@@ -273,6 +281,14 @@
       "onboard_time": 1768131560,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1664569,
+      "num": 1128012,
+      "word": "国考",
+      "onboard_time": 1768288881,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 1631134,
@@ -648,6 +664,14 @@
       "word": "个人存取款超5万元不再登记",
       "onboard_time": 1767267680,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1075672,
+      "num": 253743,
+      "word": "母亲躲藏致女儿心源性休克身亡",
+      "onboard_time": 1768392561,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -1099,6 +1123,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 867183,
+      "num": 867183,
+      "word": "DYG战胜狼队",
+      "onboard_time": 1768393942,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 866623,
       "num": 606539,
       "word": "餐馆内死亡13岁男孩父母智力残疾",
@@ -1116,7 +1148,7 @@
     },
     {
       "raw_hot": 857288,
-      "num": 184653,
+      "num": 198797,
       "word": "90后医生强奸2幼女父亲曾为其辩护",
       "onboard_time": 1768386681,
       "rank": 32,
@@ -1331,14 +1363,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 800080,
-      "num": 1128012,
-      "word": "国考",
-      "onboard_time": 1768288881,
-      "rank": 23,
-      "category": "教育"
-    },
-    {
       "raw_hot": 794730,
       "num": 213004,
       "word": "车祸肇事者家庭条件相当好",
@@ -1508,7 +1532,7 @@
     },
     {
       "raw_hot": 755214,
-      "num": 823749,
+      "num": 1201429,
       "word": "银价彻底杀疯了",
       "onboard_time": 1768378161,
       "rank": 25,
@@ -2377,30 +2401,6 @@
       "onboard_time": 1767424705,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 601670,
-      "num": 161215,
-      "word": "死了么APP仅剩2个功能",
-      "onboard_time": 1768291581,
-      "rank": 10,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 601392,
-      "num": 940509,
-      "word": "携程",
-      "onboard_time": 1768378521,
-      "rank": 1,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 600605,
-      "num": 600605,
-      "word": "赵丽颖台词",
-      "onboard_time": 1768131441,
-      "rank": 46,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
