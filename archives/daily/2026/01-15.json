@@ -1,6 +1,6 @@
 {
   "startTime": 1768408888455,
-  "endTime": 1768429922460,
+  "endTime": 1768430922166,
   "band_list": [
     {
       "raw_hot": 2401677,
@@ -51,6 +51,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 332161,
+      "num": 543145,
+      "word": "贺娇龙所有直播打赏均用于公益事业",
+      "onboard_time": 1768412595,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 329072,
       "num": 329072,
       "word": "花海晒聊天记录",
@@ -73,14 +81,6 @@
       "onboard_time": 1768394242,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 253261,
-      "num": 436372,
-      "word": "贺娇龙所有直播打赏均用于公益事业",
-      "onboard_time": 1768412595,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 244339,
@@ -147,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147431,
+      "num": 69270,
+      "word": "贺娇龙5天前曾发视频聊汗血马",
+      "onboard_time": 1768412416,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136359,
       "num": 136359,
       "word": "一袭红衣策马扬鞭的贺娇龙走了",
@@ -171,20 +179,20 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 107357,
+      "num": 100601,
+      "word": "90后医生强奸2幼女父亲曾为其辩护",
+      "onboard_time": 1768386681,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107227,
       "num": 107227,
       "word": "彭十六个人账户累计收款905万",
       "onboard_time": 1768389441,
       "rank": 17,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 106507,
-      "num": 100601,
-      "word": "90后医生强奸2幼女父亲曾为其辩护",
-      "onboard_time": 1768386681,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104905,
@@ -195,20 +203,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 103471,
-      "num": 57721,
-      "word": "贺娇龙5天前曾发视频聊汗血马",
-      "onboard_time": 1768412416,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100666,
       "num": 100666,
       "word": "龚俊因左眼下新长了颗痣而开心",
       "onboard_time": 1768388541,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87828,
+      "num": 87828,
+      "word": "把钱藏海外的贪官栽了",
+      "onboard_time": 1768409539,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 86610,
@@ -275,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 66215,
+      "num": 66215,
+      "word": "杨紫新剧人设太顶了",
+      "onboard_time": 1768393760,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 64426,
       "num": 64426,
       "word": "国考 没有进面的风险",
@@ -289,14 +305,6 @@
       "onboard_time": 1768398082,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 64099,
-      "num": 64099,
-      "word": "把钱藏海外的贪官栽了",
-      "onboard_time": 1768409539,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 62740,
@@ -339,14 +347,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 56802,
-      "num": 56802,
-      "word": "杨紫新剧人设太顶了",
-      "onboard_time": 1768393760,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 56338,
       "num": 56338,
       "word": "鸡蛋配不上番茄了吗",
@@ -369,6 +369,14 @@
       "onboard_time": 1768394361,
       "rank": 39,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 55284,
+      "num": 55284,
+      "word": "常州一警务室里开警茶店",
+      "onboard_time": 1768409598,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55186,
@@ -443,14 +451,6 @@
       "category": "互联网,财经"
     },
     {
-      "raw_hot": 48601,
-      "num": 51125,
-      "word": "常州一警务室里开警茶店",
-      "onboard_time": 1768409598,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 48071,
       "num": 53905,
       "word": "申论",
@@ -467,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42462,
+      "num": 42462,
+      "word": "12306回应一等座禁止无座乘客逗留",
+      "onboard_time": 1768392321,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37529,
       "num": 37529,
       "word": "银价继续上涨创新高",
@@ -475,16 +483,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 33637,
-      "num": 33637,
-      "word": "12306回应一等座禁止无座乘客逗留",
-      "onboard_time": 1768392321,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30336,
-      "num": 30336,
+      "num": 36518,
       "word": "小城良方",
       "onboard_time": 1768427594,
       "rank": 23,
@@ -499,24 +499,24 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 21781,
-      "num": 24570,
+      "raw_hot": 23052,
+      "num": 36428,
       "word": "剑来",
       "onboard_time": 1768390821,
       "rank": 38,
       "category": "动漫"
     },
     {
-      "raw_hot": 21278,
-      "num": 24570,
+      "raw_hot": 22800,
+      "num": 36387,
       "word": "檀健次DEADREFLEX预热",
       "onboard_time": 1768410078,
       "rank": 45,
       "category": "音乐"
     },
     {
-      "raw_hot": 20716,
-      "num": 24567,
+      "raw_hot": 21369,
+      "num": 36275,
       "word": "秋雪漫过的冬天",
       "onboard_time": 1768407259,
       "rank": 40,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 18523,
-      "num": 24560,
+      "num": 35985,
       "word": "小城大事",
       "onboard_time": 1768390281,
       "rank": 49,
@@ -539,12 +539,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 15559,
-      "num": 24564,
+      "raw_hot": 16130,
+      "num": 36097,
       "word": "为丁程鑫守护星愿",
       "onboard_time": 1768410557,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16119,
+      "num": 36053,
+      "word": "U23亚洲杯",
+      "onboard_time": 1768394242,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 15445,
@@ -563,15 +571,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 14072,
-      "num": 24562,
-      "word": "U23亚洲杯",
-      "onboard_time": 1768394242,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 10728,
+      "raw_hot": 11898,
       "num": 361030,
       "word": "一图速览2025年进出口情况",
       "onboard_time": 1768397062,

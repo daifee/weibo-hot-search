@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768429922460,
+  "endTime": 1768430922166,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -2491,6 +2491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 332161,
+      "num": 543145,
+      "word": "贺娇龙所有直播打赏均用于公益事业",
+      "onboard_time": 1768412595,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 332034,
       "num": 332034,
       "word": "杨洋不让江山",
@@ -3416,14 +3424,6 @@
       "word": "台甜品店因用青提二字被骂滚出台湾",
       "onboard_time": 1768282041,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 253261,
-      "num": 436372,
-      "word": "贺娇龙所有直播打赏均用于公益事业",
-      "onboard_time": 1768412595,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -6353,6 +6353,14 @@
       "onboard_time": 1768213700,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147431,
+      "num": 69270,
+      "word": "贺娇龙5天前曾发视频聊汗血马",
+      "onboard_time": 1768412416,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147402,
@@ -9491,14 +9499,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 103471,
-      "num": 57721,
-      "word": "贺娇龙5天前曾发视频聊汗血马",
-      "onboard_time": 1768412416,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103442,
       "num": 103442,
       "word": "侯明昊浪漫疯子",
@@ -11081,6 +11081,14 @@
       "onboard_time": 1768281261,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 87828,
+      "num": 87828,
+      "word": "把钱藏海外的贪官栽了",
+      "onboard_time": 1768409539,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 87808,
@@ -12731,14 +12739,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 64099,
-      "num": 64099,
-      "word": "把钱藏海外的贪官栽了",
-      "onboard_time": 1768409539,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 64082,
       "num": 141970,
       "word": "贵州省博老馆丢失被盗29件套文物",
@@ -13107,6 +13107,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 55284,
+      "num": 55284,
+      "word": "常州一警务室里开警茶店",
+      "onboard_time": 1768409598,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55125,
       "num": 116524,
       "word": "小学生在学校50元淘到茅台系杜撰",
@@ -13321,14 +13329,6 @@
       "onboard_time": 1768317083,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 48601,
-      "num": 51125,
-      "word": "常州一警务室里开警茶店",
-      "onboard_time": 1768409598,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48575,
@@ -14076,7 +14076,7 @@
     },
     {
       "raw_hot": 30336,
-      "num": 30336,
+      "num": 36518,
       "word": "小城良方",
       "onboard_time": 1768427594,
       "rank": 23,
@@ -14507,6 +14507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22800,
+      "num": 36387,
+      "word": "檀健次DEADREFLEX预热",
+      "onboard_time": 1768410078,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 22501,
       "num": 194767,
       "word": "借宿杀人案凶手精神鉴定改限定刑责",
@@ -14563,12 +14571,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 21278,
-      "num": 24570,
-      "word": "檀健次DEADREFLEX预热",
-      "onboard_time": 1768410078,
-      "rank": 45,
-      "category": "音乐"
+      "raw_hot": 21369,
+      "num": 36275,
+      "word": "秋雪漫过的冬天",
+      "onboard_time": 1768407259,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 20951,
@@ -14601,14 +14609,6 @@
       "onboard_time": 1768385660,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20716,
-      "num": 24567,
-      "word": "秋雪漫过的冬天",
-      "onboard_time": 1768407259,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 20677,
@@ -14819,6 +14819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 16130,
+      "num": 36097,
+      "word": "为丁程鑫守护星愿",
+      "onboard_time": 1768410557,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15825,
       "num": 26079,
       "word": "马韬压哨晋级",
@@ -14833,14 +14841,6 @@
       "onboard_time": 1768124481,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 15559,
-      "num": 24564,
-      "word": "为丁程鑫守护星愿",
-      "onboard_time": 1768410557,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 15537,
@@ -14931,6 +14931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 11898,
+      "num": 361030,
+      "word": "一图速览2025年进出口情况",
+      "onboard_time": 1768397062,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 11804,
       "num": 31241,
       "word": "告别童家堡 愿此去繁花",
@@ -14969,14 +14977,6 @@
       "onboard_time": 1768211480,
       "rank": 39,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 10728,
-      "num": 361030,
-      "word": "一图速览2025年进出口情况",
-      "onboard_time": 1768397062,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 9496,
