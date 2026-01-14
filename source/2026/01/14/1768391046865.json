@@ -1,0 +1,410 @@
+{
+  "runTime": 1768391046865,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1049458,
+        "num": 1167913,
+        "word": "彭十六",
+        "onboard_time": 1768380440,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 755214,
+        "num": 823749,
+        "word": "银价彻底杀疯了",
+        "onboard_time": 1768378161,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 43287,
+        "num": 691675,
+        "word": "中国汽车产销量再创历史新高",
+        "onboard_time": 1768378102,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 656882,
+        "num": 656882,
+        "word": "携程涉嫌垄断",
+        "onboard_time": 1768378102,
+        "rank": 3,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 380475,
+        "num": 380475,
+        "word": "盛世天下",
+        "onboard_time": 1768385600,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 364694,
+        "num": 364694,
+        "word": "彭十六个人账户累计收款905万",
+        "onboard_time": 1768389441,
+        "rank": 5,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 310288,
+        "num": 310288,
+        "word": "国考",
+        "onboard_time": 1768385362,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 303773,
+        "num": 303773,
+        "word": "北京下雪",
+        "onboard_time": 1768388001,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302303,
+        "num": 302303,
+        "word": "曾经很火但消失了的茶饮",
+        "onboard_time": 1768375100,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 234719,
+        "num": 234719,
+        "word": "彭十六偷税案",
+        "onboard_time": 1768378881,
+        "rank": 9,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 411405,
+        "num": 232540,
+        "word": "卢昱晓切片外网破百万赞",
+        "onboard_time": 1768389021,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322357,
+        "num": 229686,
+        "word": "马云前助理陈伟被曝去世",
+        "onboard_time": 1768383621,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304952,
+        "num": 229627,
+        "word": "你那儿几点 王安宇周也",
+        "onboard_time": 1768389320,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226390,
+        "num": 226390,
+        "word": "DYG对战狼队",
+        "onboard_time": 1768386802,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 224041,
+        "num": 224041,
+        "word": "40一盒和400一盒草莓的区别",
+        "onboard_time": 1768377380,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 179146,
+        "num": 179146,
+        "word": "丁禹兮春晚彩排",
+        "onboard_time": 1768389801,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154589,
+        "num": 154589,
+        "word": "小城大事",
+        "onboard_time": 1768390281,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152739,
+        "num": 152739,
+        "word": "民航总医院回应短信提醒带709支笔",
+        "onboard_time": 1768387641,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150632,
+        "num": 150632,
+        "word": "剑来",
+        "onboard_time": 1768390821,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 141558,
+        "num": 141558,
+        "word": "日本天后死后被卖裸照引网友愤怒",
+        "onboard_time": 1768387400,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 793392,
+        "num": 141557,
+        "word": "90后医生强奸2幼女父亲曾为其辩护",
+        "onboard_time": 1768386681,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 460124,
+        "num": 141552,
+        "word": "唐嫣扛住了死亡芭比粉",
+        "onboard_time": 1768388841,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408508,
+        "num": 141547,
+        "word": "彭十六 盛世天下",
+        "onboard_time": 1768384400,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 177305,
+        "num": 141543,
+        "word": "金饰克价涨到1438元",
+        "onboard_time": 1768384762,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140457,
+        "num": 141542,
+        "word": "男子拍摄近视眼女友站岗爆火",
+        "onboard_time": 1768381762,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328673,
+        "num": 141536,
+        "word": "微博之夜 集体婚礼",
+        "onboard_time": 1768382601,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 87475,
+        "num": 141533,
+        "word": "王自如说荣耀Air补齐iPhoneAir短板",
+        "onboard_time": 1768390821,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 271293,
+        "num": 141527,
+        "word": "周杰伦澳网一轮游",
+        "onboard_time": 1768382961,
+        "rank": 27,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 209165,
+        "num": 141524,
+        "word": "龚俊因左眼下新长了颗痣而开心",
+        "onboard_time": 1768388541,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152306,
+        "num": 141521,
+        "word": "神印我勒个国漫真死神女主",
+        "onboard_time": 1768389982,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 193656,
+        "num": 141517,
+        "word": "陈都灵请把旗袍焊在身上",
+        "onboard_time": 1768390402,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142011,
+        "num": 141511,
+        "word": "成人间的暧昧信息",
+        "onboard_time": 1768384101,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141511,
+        "num": 141510,
+        "word": "张维伊你的窝姐",
+        "onboard_time": 1768387761,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138493,
+        "num": 138493,
+        "word": "轧戏",
+        "onboard_time": 1768390941,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133179,
+        "num": 133179,
+        "word": "女子熟睡中被丈夫3次掐脖致残",
+        "onboard_time": 1768389141,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132422,
+        "num": 132422,
+        "word": "69岁断臂奶奶替亡子还债",
+        "onboard_time": 1768385242,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129211,
+        "num": 129211,
+        "word": "2026国考上岸",
+        "onboard_time": 1768379480,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 129160,
+        "num": 129160,
+        "word": "彭十六已被禁言",
+        "onboard_time": 1768380620,
+        "rank": 37,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 126727,
+        "num": 126727,
+        "word": "网友评林志玲面相变了",
+        "onboard_time": 1768381521,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118335,
+        "num": 118335,
+        "word": "周杰伦没碰到球",
+        "onboard_time": 1768389500,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117673,
+        "num": 117673,
+        "word": "37岁坚持化妆200天的变化",
+        "onboard_time": 1768380921,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 110142,
+        "num": 110142,
+        "word": "人生真的没什么好规划的",
+        "onboard_time": 1768385962,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109663,
+        "num": 109663,
+        "word": "何浩楠直播",
+        "onboard_time": 1768390761,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105489,
+        "num": 105489,
+        "word": "上迪偶遇宋祖儿",
+        "onboard_time": 1768387161,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102127,
+        "num": 102127,
+        "word": "王楚钦世乒赛夺冠入选体坛年度事件",
+        "onboard_time": 1768389200,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90555,
+        "num": 90555,
+        "word": "不吸烟的医学教授确诊肺癌晚期",
+        "onboard_time": 1768390702,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 89299,
+        "num": 89299,
+        "word": "金晨直播",
+        "onboard_time": 1768385841,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88918,
+        "num": 88918,
+        "word": "华为手机2025年重返中国市场第一",
+        "onboard_time": 1768389260,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 88530,
+        "num": 88530,
+        "word": "马龙时尚表现力纯享版",
+        "onboard_time": 1768389861,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88178,
+        "num": 88178,
+        "word": "罗云熙9集演完90集内容",
+        "onboard_time": 1768389382,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记推进全面从严治党最新部署#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/14 19:30:38
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/14 19:44:06
 </p>
 </blockquote>
 <p>
@@ -1143,6 +1143,12 @@ iPhone18Pro新爆料（热度：826962）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E4%BB%B7%E5%BD%BB%E5%BA%95%E6%9D%80%E7%96%AF%E4%BA%86%23" target="weibo">
+银价彻底杀疯了（热度：755214）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%85%BB%E7%88%B6%E6%B4%BB%E5%9F%8B%E4%BA%86%E7%94%9F%E6%AF%8D%23" target="weibo">
 原来是养父活埋了生母（热度：752697）
 </a>
@@ -1805,12 +1811,6 @@ CSGO（热度：630992）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8F%B0%E8%AF%8D%23" target="weibo">
 赵丽颖台词（热度：600605）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%9F%90%E4%BA%BA%E6%8A%BD%E5%A5%96%23" target="weibo">
-杨某人抽奖（热度：599176）
 </a>
 </li>
 

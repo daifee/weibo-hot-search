@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768390238112,
+  "endTime": 1768391046865,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1507,6 +1507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 755214,
+      "num": 823749,
+      "word": "银价彻底杀疯了",
+      "onboard_time": 1768378161,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 752697,
       "num": 241059,
       "word": "原来是养父活埋了生母",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768131441,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 599176,
-      "num": 904079,
-      "word": "杨某人抽奖",
-      "onboard_time": 1767360623,
-      "rank": 31,
-      "category": "电竞"
     }
   ],
   "hotgov_list": [

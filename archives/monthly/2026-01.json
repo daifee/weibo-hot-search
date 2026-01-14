@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768390238112,
+  "endTime": 1768391046865,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1505,6 +1505,14 @@
       "onboard_time": 1767505463,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 755214,
+      "num": 823749,
+      "word": "银价彻底杀疯了",
+      "onboard_time": 1768378161,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 752697,
@@ -4299,6 +4307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 460124,
+      "num": 150555,
+      "word": "唐嫣扛住了死亡芭比粉",
+      "onboard_time": 1768388841,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 459417,
       "num": 217312,
       "word": "霍启仁妻子公开婚礼现场照",
@@ -4745,14 +4761,6 @@
       "onboard_time": 1768102758,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 436850,
-      "num": 436850,
-      "word": "银价彻底杀疯了",
-      "onboard_time": 1768378161,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 436590,
@@ -5209,6 +5217,14 @@
       "onboard_time": 1767573563,
       "rank": 4,
       "category": "美食"
+    },
+    {
+      "raw_hot": 411405,
+      "num": 251203,
+      "word": "卢昱晓切片外网破百万赞",
+      "onboard_time": 1768389021,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 411025,
@@ -5739,14 +5755,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 380562,
-      "num": 150555,
-      "word": "唐嫣扛住了死亡芭比粉",
-      "onboard_time": 1768388841,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 380118,
       "num": 809184,
       "word": "特朗普称马杜罗夫妇在美军舰上",
@@ -6113,6 +6121,14 @@
       "onboard_time": 1768220900,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 364694,
+      "num": 364694,
+      "word": "彭十六个人账户累计收款905万",
+      "onboard_time": 1768389441,
+      "rank": 12,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 364566,
@@ -7803,6 +7819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304952,
+      "num": 229627,
+      "word": "你那儿几点 王安宇周也",
+      "onboard_time": 1768389320,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 304944,
       "num": 186694,
       "word": "赵樱子曝某女星爱半夜喝酒",
@@ -7840,6 +7864,14 @@
       "word": "西安多个政务大厅搬进商场",
       "onboard_time": 1767355701,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 303773,
+      "num": 303773,
+      "word": "北京下雪",
+      "onboard_time": 1768388001,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -8859,14 +8891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 272865,
-      "num": 272865,
-      "word": "北京下雪",
-      "onboard_time": 1768388001,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 272856,
       "num": 272856,
       "word": "于正称玉茗茶骨不爆是长剧没有观众",
@@ -9835,14 +9859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 251203,
-      "num": 251203,
-      "word": "卢昱晓切片外网破百万赞",
-      "onboard_time": 1768389021,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 250919,
       "num": 250919,
       "word": "十日终焉是今年最重视的男频剧",
@@ -10587,14 +10603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 231192,
-      "num": 231192,
-      "word": "彭十六个人账户累计收款905万",
-      "onboard_time": 1768389441,
-      "rank": 12,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 231132,
       "num": 182961,
       "word": "原来吃糖竟对人体的伤害如此之大",
@@ -10833,6 +10841,14 @@
       "onboard_time": 1768037721,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 226390,
+      "num": 226390,
+      "word": "DYG对战狼队",
+      "onboard_time": 1768386802,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 226369,
@@ -13043,6 +13059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193656,
+      "num": 141517,
+      "word": "陈都灵请把旗袍焊在身上",
+      "onboard_time": 1768390402,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193548,
       "num": 253207,
       "word": "女子称在全季酒店浴巾里发现避孕套",
@@ -14499,6 +14523,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 179146,
+      "num": 179146,
+      "word": "丁禹兮春晚彩排",
+      "onboard_time": 1768389801,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179142,
       "num": 204627,
       "word": "上海去年婚姻登记17万对",
@@ -14689,6 +14721,14 @@
       "onboard_time": 1767857780,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177305,
+      "num": 154739,
+      "word": "金饰克价涨到1438元",
+      "onboard_time": 1768384762,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 177218,
@@ -15289,14 +15329,6 @@
       "onboard_time": 1768226902,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 170578,
-      "num": 154739,
-      "word": "金饰克价涨到1438元",
-      "onboard_time": 1768384762,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 170561,
@@ -17467,6 +17499,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 152739,
+      "num": 202638,
+      "word": "民航总医院回应短信提醒带709支笔",
+      "onboard_time": 1768387641,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152699,
       "num": 152699,
       "word": "第一次见地铁户型的家",
@@ -17507,14 +17547,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 152463,
-      "num": 152463,
-      "word": "你那儿几点 王安宇周也",
-      "onboard_time": 1768389320,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152325,
       "num": 192378,
       "word": "委内瑞拉首都加拉加斯传出枪声",
@@ -17537,6 +17569,14 @@
       "onboard_time": 1767364641,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 152306,
+      "num": 150128,
+      "word": "神印我勒个国漫真死神女主",
+      "onboard_time": 1768389982,
+      "rank": 26,
+      "category": "动漫"
     },
     {
       "raw_hot": 152188,
@@ -17753,14 +17793,6 @@
       "onboard_time": 1767838519,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150128,
-      "num": 150128,
-      "word": "神印我勒个国漫真死神女主",
-      "onboard_time": 1768389982,
-      "rank": 26,
-      "category": "动漫"
     },
     {
       "raw_hot": 150106,
@@ -20195,14 +20227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135302,
-      "num": 202638,
-      "word": "民航总医院回应短信提醒带709支笔",
-      "onboard_time": 1768387641,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135297,
       "num": 135297,
       "word": "奔跑吧14",
@@ -20577,6 +20601,14 @@
       "onboard_time": 1767364222,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133179,
+      "num": 133179,
+      "word": "女子熟睡中被丈夫3次掐脖致残",
+      "onboard_time": 1768389141,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133112,
@@ -23883,14 +23915,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 116748,
-      "num": 151697,
-      "word": "丁禹兮春晚彩排",
-      "onboard_time": 1768389801,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 116733,
       "num": 230805,
       "word": "原亚洲最大宜家门店即将关闭",
@@ -25483,6 +25507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110142,
+      "num": 110142,
+      "word": "人生真的没什么好规划的",
+      "onboard_time": 1768385962,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110135,
       "num": 110135,
       "word": "仙逆122",
@@ -25601,6 +25633,14 @@
       "onboard_time": 1767864320,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 109663,
+      "num": 109663,
+      "word": "何浩楠直播",
+      "onboard_time": 1768390761,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 109661,
@@ -26289,14 +26329,6 @@
       "onboard_time": 1767782423,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 106666,
-      "num": 106666,
-      "word": "人生真的没什么好规划的",
-      "onboard_time": 1768385962,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 106663,
@@ -27795,6 +27827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102127,
+      "num": 102127,
+      "word": "王楚钦世乒赛夺冠入选体坛年度事件",
+      "onboard_time": 1768389200,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102090,
       "num": 98168,
       "word": "此人活商极高",
@@ -27921,14 +27961,6 @@
       "onboard_time": 1767962960,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 101549,
-      "num": 101549,
-      "word": "DYG对战狼队",
-      "onboard_time": 1768386802,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 101518,
@@ -28753,14 +28785,6 @@
       "onboard_time": 1767261859,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 99005,
-      "num": 99005,
-      "word": "王楚钦世乒赛夺冠入选体坛年度事件",
-      "onboard_time": 1768389200,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 99002,
@@ -31611,6 +31635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90555,
+      "num": 90555,
+      "word": "不吸烟的医学教授确诊肺癌晚期",
+      "onboard_time": 1768390702,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 90533,
       "num": 142750,
       "word": "林诗栋痛苦捂住肩膀",
@@ -32633,6 +32665,14 @@
       "onboard_time": 1767577700,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87475,
+      "num": 141533,
+      "word": "王自如说荣耀Air补齐iPhoneAir短板",
+      "onboard_time": 1768390821,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 87449,
@@ -36345,14 +36385,6 @@
       "onboard_time": 1768269919,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 74052,
-      "num": 96682,
-      "word": "女子熟睡中被丈夫3次掐脖致残",
-      "onboard_time": 1768389141,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74049,
