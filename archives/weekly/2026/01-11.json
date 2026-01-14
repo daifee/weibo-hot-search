@@ -1,7 +1,15 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768347640596,
+  "endTime": 1768356872035,
   "band_list": [
+    {
+      "raw_hot": 7853492,
+      "num": 7853492,
+      "word": "贺娇龙坠马去世",
+      "onboard_time": 1768355000,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 5632996,
       "num": 5632996,
@@ -257,6 +265,14 @@
       "onboard_time": 1768041321,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 910443,
+      "num": 174135,
+      "word": "王广删博",
+      "onboard_time": 1768353739,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 903109,
@@ -635,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 611022,
+      "num": 1632243,
+      "word": "卫健委回应产检正常出生却诊出畸形",
+      "onboard_time": 1768352181,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 608941,
       "num": 315421,
       "word": "西安华清池贵妃裸体出浴雕像引争议",
@@ -689,6 +713,14 @@
       "onboard_time": 1768259957,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 590944,
+      "num": 590944,
+      "word": "整套马钞价格已被炒到2000元",
+      "onboard_time": 1768349780,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 587201,
@@ -2147,6 +2179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 291737,
+      "num": 291737,
+      "word": "河南一600年古村几乎人人都拍剧",
+      "onboard_time": 1768348699,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 291166,
       "num": 133639,
       "word": "阎鹤祥升级当爸",
@@ -2467,6 +2507,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 255751,
+      "num": 122407,
+      "word": "韩国开始出现迪拜巧克力麻薯糖葫芦了",
+      "onboard_time": 1768354700,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 255438,
       "num": 258704,
       "word": "奔跑吧节目组还没联系邵子恒吗",
@@ -2537,6 +2585,14 @@
       "onboard_time": 1768119200,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 250319,
+      "num": 122283,
+      "word": "月入一万以下最好的理财方式",
+      "onboard_time": 1768347379,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 249566,
@@ -2707,6 +2763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235095,
+      "num": 235095,
+      "word": "去了瑞士才懂钱包有多瘪",
+      "onboard_time": 1768353620,
+      "rank": 5,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 234240,
       "num": 234240,
       "word": "山东威海下了倾盆大瓢雪",
@@ -2808,6 +2872,14 @@
       "word": "47岁女子上班期间冲泡奶茶被辞退",
       "onboard_time": 1768221801,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225574,
+      "num": 121107,
+      "word": "贵妃出浴雕像被指不雅不理就是最好回击",
+      "onboard_time": 1768353739,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -2955,6 +3027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 216975,
+      "num": 216975,
+      "word": "李在明提中国高市早苗没提",
+      "onboard_time": 1768356321,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 216857,
       "num": 216857,
       "word": "63岁痴呆老人掏光钱找去世40年妈妈",
@@ -3089,6 +3169,14 @@
       "onboard_time": 1768298361,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 207824,
+      "num": 172862,
+      "word": "拍半天认错肖战了",
+      "onboard_time": 1768355660,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 207188,
@@ -3667,6 +3755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183623,
+      "num": 183623,
+      "word": "小城大事酷云跌破2了",
+      "onboard_time": 1768347798,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182212,
       "num": 224058,
       "word": "苹果官宣iPhone将搭载最强AI",
@@ -3681,6 +3777,14 @@
       "onboard_time": 1768128740,
       "rank": 4,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 181407,
+      "num": 120384,
+      "word": "张维伊带小酒窝录制新春节目",
+      "onboard_time": 1768354159,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 181121,
@@ -3809,6 +3913,14 @@
       "onboard_time": 1768120341,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176187,
+      "num": 176187,
+      "word": "你的头一直在慢慢3D打印头发",
+      "onboard_time": 1768353440,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 175798,
@@ -4027,6 +4139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167615,
+      "num": 167615,
+      "word": "朱一龙 水果报吃",
+      "onboard_time": 1768355961,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167382,
       "num": 167382,
       "word": "张艺兴 鸵鸟蛋的后续",
@@ -4049,6 +4169,14 @@
       "onboard_time": 1768190361,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167101,
+      "num": 119725,
+      "word": "知道为啥都喜欢高鼻梁了吧",
+      "onboard_time": 1768347379,
+      "rank": 31,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 166994,
@@ -4256,6 +4384,14 @@
       "word": "医生受贿3.5万元开具近2万支药品",
       "onboard_time": 1768123581,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159819,
+      "num": 118930,
+      "word": "间谍美色诱惑策反军工企业人员",
+      "onboard_time": 1768354100,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -4699,6 +4835,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 147848,
+      "num": 147848,
+      "word": "代旭真敲过世纪钟",
+      "onboard_time": 1768355603,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147694,
       "num": 128918,
       "word": "整栋楼都醒了只有妹妹没醒",
@@ -4835,6 +4979,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 143964,
+      "num": 117527,
+      "word": "余华人和人交往尽量少说话",
+      "onboard_time": 1768347379,
+      "rank": 37,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 143902,
       "num": 114871,
       "word": "秦志戬简历",
@@ -4865,6 +5017,14 @@
       "onboard_time": 1768294522,
       "rank": 49,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 143117,
+      "num": 143117,
+      "word": "鸭鸭羽绒服回应衣服双标双码",
+      "onboard_time": 1768347318,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142704,
@@ -5379,6 +5539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129862,
+      "num": 117285,
+      "word": "美国批准向中国出口英伟达H200芯片",
+      "onboard_time": 1768352660,
+      "rank": 30,
+      "category": "国际时政,互联网"
+    },
+    {
       "raw_hot": 129729,
       "num": 123677,
       "word": "李泽言珍藏心意",
@@ -5513,6 +5681,14 @@
       "onboard_time": 1768208061,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127425,
+      "num": 127425,
+      "word": "59岁产妇57岁开始调理身体",
+      "onboard_time": 1768347798,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127093,
@@ -5657,6 +5833,14 @@
       "onboard_time": 1768138462,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124503,
+      "num": 124503,
+      "word": "寿司郎 黄牛号",
+      "onboard_time": 1768355059,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124414,
@@ -5985,6 +6169,14 @@
       "onboard_time": 1768311803,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118671,
+      "num": 118671,
+      "word": "贺娇龙曾因策马雪原带火当地旅游",
+      "onboard_time": 1768356080,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118642,
@@ -6723,6 +6915,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 108321,
+      "num": 108321,
+      "word": "梅毒是什么毒",
+      "onboard_time": 1768347739,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 108135,
       "num": 108135,
       "word": "荣昌卤鹅哥带卤鹅支持呆呆杀猪宴",
@@ -6769,14 +6969,6 @@
       "onboard_time": 1768297703,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107490,
-      "num": 67811,
-      "word": "知道为啥都喜欢高鼻梁了吧",
-      "onboard_time": 1768347379,
-      "rank": 31,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 107407,
@@ -7097,6 +7289,14 @@
       "onboard_time": 1768182919,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 103707,
+      "num": 103707,
+      "word": "福宝的肚肚真是一口一口吃出来的",
+      "onboard_time": 1768352840,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103669,
@@ -7443,6 +7643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99941,
+      "num": 99941,
+      "word": "你的渡口",
+      "onboard_time": 1768350921,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 99859,
       "num": 99859,
       "word": "李一桐曾舜晞Hi6录制路透",
@@ -7489,6 +7697,14 @@
       "onboard_time": 1768259597,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99457,
+      "num": 99457,
+      "word": "减肥药价格最低降至81元一针",
+      "onboard_time": 1768352120,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99192,
@@ -7640,14 +7856,6 @@
       "word": "15岁少年打人被拘称忘记过了1月1日",
       "onboard_time": 1768188740,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97100,
-      "num": 128693,
-      "word": "鸭鸭羽绒服回应衣服双标双码",
-      "onboard_time": 1768347318,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -7803,6 +8011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 95475,
+      "num": 95475,
+      "word": "身体出现这10个信号原来是肾脏在求救",
+      "onboard_time": 1768349961,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 95366,
       "num": 108063,
       "word": "合川文旅否认呆呆杀年猪是联合炒作",
@@ -7865,6 +8081,14 @@
       "onboard_time": 1768225581,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94338,
+      "num": 94338,
+      "word": "钟楚曦生图最严厉的母亲",
+      "onboard_time": 1768347077,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 94196,
@@ -8259,6 +8483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88757,
+      "num": 88757,
+      "word": "呆呆爸爸感谢卤鹅哥支援",
+      "onboard_time": 1768353019,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88680,
       "num": 88680,
       "word": "主人不在家 我下地嘎油嘎油",
@@ -8441,6 +8673,14 @@
       "onboard_time": 1768282341,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86348,
+      "num": 86348,
+      "word": "中国驻韩国使馆严正发声",
+      "onboard_time": 1768354459,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 86338,
@@ -8723,6 +8963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81936,
+      "num": 81936,
+      "word": "鸭鸭羽绒服涉多起买卖合同纠纷",
+      "onboard_time": 1768355301,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81909,
       "num": 77484,
       "word": "村民都没吃上呆呆杀猪饭",
@@ -8955,12 +9203,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 79673,
+      "num": 79673,
+      "word": "王鹤棣宋茜王嘉尔豪门Party",
+      "onboard_time": 1768352361,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79615,
       "num": 114472,
       "word": "鹅鸭杀手游在线人数超Steam峰值",
       "onboard_time": 1768221080,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 79495,
+      "num": 79495,
+      "word": "村支书回应600年古村落成短剧拍摄基地",
+      "onboard_time": 1768356382,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79471,
@@ -9147,12 +9411,12 @@
       "category": "民生新闻,体育"
     },
     {
-      "raw_hot": 76584,
-      "num": 76584,
-      "word": "月入一万以下最好的理财方式",
-      "onboard_time": 1768347379,
-      "rank": 23,
-      "category": "财经"
+      "raw_hot": 76712,
+      "num": 76712,
+      "word": "张家齐回应直播带货",
+      "onboard_time": 1768353319,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 76432,
@@ -9280,6 +9544,14 @@
       "word": "国家德比",
       "onboard_time": 1768173437,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 74020,
+      "num": 74020,
+      "word": "浓眉恐赛季报销",
+      "onboard_time": 1768356262,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -9425,6 +9697,14 @@
       "onboard_time": 1768136062,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 70599,
+      "num": 73663,
+      "word": "贪官家族式腐败细节曝光",
+      "onboard_time": 1768356321,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 70407,
@@ -10035,14 +10315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56379,
-      "num": 56379,
-      "word": "余华人和人交往尽量少说话",
-      "onboard_time": 1768347379,
-      "rank": 37,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 56061,
       "num": 129493,
       "word": "18岁男生抢劫2600元获刑11年",
@@ -10281,14 +10553,6 @@
       "onboard_time": 1768062680,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46819,
-      "num": 46819,
-      "word": "钟楚曦生图最严厉的母亲",
-      "onboard_time": 1768347077,
-      "rank": 41,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 46206,
@@ -10579,6 +10843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 37153,
+      "num": 1320319,
+      "word": "全国铁路新增243列客车",
+      "onboard_time": 1768313184,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37107,
       "num": 188784,
       "word": "国家文物局就优化文物管理发声",
@@ -10633,14 +10905,6 @@
       "onboard_time": 1768066577,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 35432,
-      "num": 527486,
-      "word": "全国铁路新增243列客车",
-      "onboard_time": 1768313184,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35371,
@@ -11417,6 +11681,14 @@
       "onboard_time": 1768315464,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18507,
+      "num": 94423,
+      "word": "委方称美袭击是彻头彻尾的暴行",
+      "onboard_time": 1768356382,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 18295,

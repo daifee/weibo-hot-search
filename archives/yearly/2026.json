@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768347640596,
+  "endTime": 1768356872035,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -23,6 +23,14 @@
       "num": 9354554,
       "word": "景德镇车祸肇事司机一审死缓",
       "onboard_time": 1767923059,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7853492,
+      "num": 7853492,
+      "word": "贺娇龙坠马去世",
+      "onboard_time": 1768355000,
       "rank": 0,
       "category": "民生新闻"
     },
@@ -921,6 +929,14 @@
       "onboard_time": 1767837319,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 910443,
+      "num": 174135,
+      "word": "王广删博",
+      "onboard_time": 1768353739,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 906835,
@@ -2131,6 +2147,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 611022,
+      "num": 1632243,
+      "word": "卫健委回应产检正常出生却诊出畸形",
+      "onboard_time": 1768352181,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 610374,
       "num": 604727,
       "word": "鹅鸭杀崩了",
@@ -2315,6 +2339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 590944,
+      "num": 590944,
+      "word": "整套马钞价格已被炒到2000元",
+      "onboard_time": 1768349780,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 588214,
       "num": 196819,
       "word": "杨紫素颜live照",
@@ -2369,38 +2401,6 @@
       "onboard_time": 1768290201,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 580868,
-      "num": 242894,
-      "word": "郭宇欣dior活动",
-      "onboard_time": 1768034301,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 580217,
-      "num": 1399643,
-      "word": "江苏卫视大爆",
-      "onboard_time": 1767193528,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 580191,
-      "num": 781327,
-      "word": "轧戏剧组道歉",
-      "onboard_time": 1768128140,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 579903,
-      "num": 323875,
-      "word": "美媒曝大批美军机突然飞往欧洲",
-      "onboard_time": 1767680901,
-      "rank": 17,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
