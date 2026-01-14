@@ -1,6 +1,6 @@
 {
   "startTime": 1768408888455,
-  "endTime": 1768416210918,
+  "endTime": 1768417111968,
   "band_list": [
     {
       "raw_hot": 2401677,
@@ -513,6 +513,14 @@
       "onboard_time": 1768390281,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16970,
+      "num": 17837,
+      "word": "U23男足战平泰国队",
+      "onboard_time": 1768416314,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 15445,
