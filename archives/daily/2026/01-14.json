@@ -1,6 +1,6 @@
 {
   "startTime": 1768322530118,
-  "endTime": 1768365291214,
+  "endTime": 1768368807437,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -33,6 +33,14 @@
       "onboard_time": 1768353739,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 713520,
+      "num": 202603,
+      "word": "A股",
+      "onboard_time": 1768317503,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 641527,
@@ -75,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 568587,
+      "num": 419661,
+      "word": "这几天可以先不要做美甲了",
+      "onboard_time": 1768364301,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 561656,
       "num": 249244,
       "word": "朱一龙 水果报吃",
@@ -105,6 +121,22 @@
       "onboard_time": 1768363222,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 515405,
+      "num": 382101,
+      "word": "iPhone18Pro新爆料",
+      "onboard_time": 1768366281,
+      "rank": 6,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 505322,
+      "num": 505322,
+      "word": "单依纯拒绝歌手2024的原因",
+      "onboard_time": 1768364122,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 497278,
@@ -139,12 +171,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 436609,
+      "num": 779048,
+      "word": "孩子产检正常出生却畸形母亲发声",
+      "onboard_time": 1768365202,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 433651,
       "num": 424869,
       "word": "创造营卡位选手自曝长期无收入",
       "onboard_time": 1768361661,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 428542,
+      "num": 428542,
+      "word": "一餐厅几乎只服务贪官",
+      "onboard_time": 1768364061,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 424570,
@@ -179,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 407131,
+      "num": 257976,
+      "word": "以为中奖羽绒服 没想到是挂件",
+      "onboard_time": 1768367002,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 399572,
       "num": 121107,
       "word": "贵妃出浴雕像被指不雅不理就是最好回击",
@@ -203,28 +259,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 379936,
-      "num": 312169,
-      "word": "这几天可以先不要做美甲了",
-      "onboard_time": 1768364301,
-      "rank": 6,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 367370,
       "num": 131541,
       "word": "迅猛龙 小澈",
       "onboard_time": 1768292421,
       "rank": 21,
       "category": "网红"
-    },
-    {
-      "raw_hot": 365462,
-      "num": 236158,
-      "word": "单依纯拒绝歌手2024的原因",
-      "onboard_time": 1768364122,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 358948,
@@ -235,12 +275,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 347764,
+      "num": 255858,
+      "word": "韦德关注王橹杰",
+      "onboard_time": 1768365022,
+      "rank": 44,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 340722,
       "num": 215440,
       "word": "陈伟霆很帅但衣服穿不明白",
       "onboard_time": 1768358241,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 323560,
+      "num": 323560,
+      "word": "iPhone18Pro灵动岛或变小",
+      "onboard_time": 1768366341,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 301894,
+      "num": 301894,
+      "word": "优衣库女装男装对比",
+      "onboard_time": 1768362621,
+      "rank": 27,
+      "category": "时尚"
     },
     {
       "raw_hot": 300332,
@@ -283,20 +347,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 264299,
-      "num": 264299,
-      "word": "优衣库女装男装对比",
-      "onboard_time": 1768362621,
-      "rank": 27,
-      "category": "时尚"
-    },
-    {
-      "raw_hot": 264064,
-      "num": 264064,
-      "word": "一餐厅几乎只服务贪官",
-      "onboard_time": 1768364061,
-      "rank": 38,
-      "category": "国内时政"
+      "raw_hot": 261997,
+      "num": 261997,
+      "word": "与辉同行83元3只皖西麻黄鸡引质疑",
+      "onboard_time": 1768363821,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 261051,
@@ -321,6 +377,14 @@
       "onboard_time": 1768347379,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 248521,
+      "num": 248521,
+      "word": "官方将澄清说明贺娇龙坠马事件",
+      "onboard_time": 1768363880,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231426,
@@ -379,6 +443,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 205890,
+      "num": 205890,
+      "word": "泰国起重机砸中火车致22死",
+      "onboard_time": 1768366822,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 205399,
       "num": 205399,
       "word": "原神开门",
@@ -395,12 +467,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 201192,
-      "num": 201192,
-      "word": "与辉同行83元3只皖西麻黄鸡引质疑",
-      "onboard_time": 1768363821,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 202550,
+      "num": 202550,
+      "word": "跳水",
+      "onboard_time": 1768368200,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 198744,
+      "num": 198744,
+      "word": "44岁阿娇与43岁阿Sa同框",
+      "onboard_time": 1768367722,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 194476,
@@ -451,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181576,
+      "num": 181576,
+      "word": "林允告黑了",
+      "onboard_time": 1768367421,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181407,
       "num": 120384,
       "word": "张维伊带小酒窝录制新春节目",
@@ -475,12 +563,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170559,
-      "num": 192459,
-      "word": "官方将澄清说明贺娇龙坠马事件",
-      "onboard_time": 1768363880,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 172656,
+      "num": 172656,
+      "word": "卢昱晓 对美女从小就没抵抗力",
+      "onboard_time": 1768364901,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 169854,
@@ -497,6 +585,14 @@
       "onboard_time": 1768347379,
       "rank": 31,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 165669,
+      "num": 202628,
+      "word": "茶颜悦色称放久变半杯是工艺特色",
+      "onboard_time": 1768367722,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163244,
@@ -619,14 +715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130523,
-      "num": 130523,
-      "word": "孩子产检正常出生却畸形母亲发声",
-      "onboard_time": 1768365202,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129862,
       "num": 117285,
       "word": "美国批准向中国出口英伟达H200芯片",
@@ -665,6 +753,22 @@
       "onboard_time": 1768355059,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124113,
+      "num": 124113,
+      "word": "女子遭丈夫家暴致残孩子称无法接受",
+      "onboard_time": 1768366523,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118882,
+      "num": 118882,
+      "word": "王楚钦首位出场",
+      "onboard_time": 1768365381,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 115936,
@@ -707,12 +811,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 110373,
-      "num": 110373,
-      "word": "韦德关注王橹杰",
-      "onboard_time": 1768365022,
-      "rank": 44,
-      "category": "艺人,体育"
+      "raw_hot": 110292,
+      "num": 110292,
+      "word": "警犬明明看到有人摸我了",
+      "onboard_time": 1768366341,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 109727,
@@ -721,6 +825,14 @@
       "onboard_time": 1768363341,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108386,
+      "num": 108386,
+      "word": "芒果捧新人的资源",
+      "onboard_time": 1768366102,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 108321,
@@ -737,14 +849,6 @@
       "onboard_time": 1768352840,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107437,
-      "num": 115936,
-      "word": "卢昱晓 对美女从小就没抵抗力",
-      "onboard_time": 1768364901,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 106060,
@@ -819,6 +923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99326,
+      "num": 99326,
+      "word": "A股全市场超4700只个股上涨",
+      "onboard_time": 1768368262,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 97972,
       "num": 114867,
       "word": "落马官员近千平米别墅内景",
@@ -833,6 +945,14 @@
       "onboard_time": 1768359020,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 96267,
+      "num": 96267,
+      "word": "我这一生都在减肥",
+      "onboard_time": 1768365862,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 96109,
@@ -875,12 +995,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93703,
+      "num": 93703,
+      "word": "王一珩团队回应",
+      "onboard_time": 1768368501,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93528,
       "num": 333757,
       "word": "小城大事收视率",
       "onboard_time": 1768309162,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93228,
+      "num": 93228,
+      "word": "csgo官方关注穆祉丞",
+      "onboard_time": 1768365502,
+      "rank": 43,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 92869,
@@ -907,8 +1043,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 91608,
-      "num": 91608,
+      "raw_hot": 91746,
+      "num": 91746,
       "word": "王者峡谷第一赘婿",
       "onboard_time": 1768365262,
       "rank": 49,
@@ -920,6 +1056,14 @@
       "word": "贺娇龙曾坠马换马再拍家乡",
       "onboard_time": 1768357881,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91056,
+      "num": 91056,
+      "word": "23岁抗癌女孩自己签字6次手术",
+      "onboard_time": 1768368440,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -937,6 +1081,22 @@
       "onboard_time": 1768361602,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 89611,
+      "num": 89611,
+      "word": "女子因害怕路边车要求车主开走",
+      "onboard_time": 1768367602,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89309,
+      "num": 89309,
+      "word": "怪不得手机玩起来这么亲切",
+      "onboard_time": 1768368321,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 89147,
@@ -979,6 +1139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88130,
+      "num": 88130,
+      "word": "开拓者vs勇士",
+      "onboard_time": 1768367962,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87965,
       "num": 131739,
       "word": "马币",
@@ -1001,6 +1169,14 @@
       "onboard_time": 1768357281,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84460,
+      "num": 84460,
+      "word": "黄牛这把你真给我整不会了",
+      "onboard_time": 1768366822,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 84290,
@@ -1041,6 +1217,14 @@
       "onboard_time": 1768357641,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80193,
+      "num": 99955,
+      "word": "今年最有爆相的古偶",
+      "onboard_time": 1768368440,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 79673,
@@ -1307,14 +1491,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 44654,
-      "num": 66881,
-      "word": "A股",
-      "onboard_time": 1768317503,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 37153,
       "num": 1320319,
       "word": "全国铁路新增243列客车",
@@ -1377,6 +1553,14 @@
       "onboard_time": 1768323797,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 20120,
+      "num": 99333,
+      "word": "景区称裸体雕像系特定历史风尚",
+      "onboard_time": 1768367841,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19508,
