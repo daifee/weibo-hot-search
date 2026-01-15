@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768498809631,
+  "endTime": 1768499898226,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -7539,6 +7539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149795,
+      "num": 286623,
+      "word": "玉茗茶骨",
+      "onboard_time": 1768136001,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149714,
       "num": 149714,
       "word": "沈梦辰 我内心装满了张凌赫",
@@ -7649,14 +7657,6 @@
       "onboard_time": 1768452022,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 148528,
-      "num": 275630,
-      "word": "玉茗茶骨",
-      "onboard_time": 1768136001,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 148112,
@@ -9153,6 +9153,14 @@
       "onboard_time": 1768208061,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127469,
+      "num": 115006,
+      "word": "派出所回应大学生偷外卖拘留5日",
+      "onboard_time": 1768494138,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127425,
@@ -12763,14 +12771,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 95289,
-      "num": 115006,
-      "word": "派出所回应大学生偷外卖拘留5日",
-      "onboard_time": 1768494138,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95197,
       "num": 95197,
       "word": "樊振东多特蒙德有趣互动",
@@ -13113,6 +13113,14 @@
       "onboard_time": 1768196720,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92373,
+      "num": 61785,
+      "word": "王橹杰来翻一翻古早相册",
+      "onboard_time": 1768496956,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 92343,
@@ -15411,14 +15419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 71303,
-      "num": 61785,
-      "word": "王橹杰来翻一翻古早相册",
-      "onboard_time": 1768496956,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 70920,
       "num": 124477,
       "word": "香港人组团买房涌入大湾区",
@@ -17483,6 +17483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29077,
+      "num": 43773,
+      "word": "代旭的耳机戴出了耳钉的感觉",
+      "onboard_time": 1768499236,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28906,
       "num": 201450,
       "word": "战斗精灵iQOOZ11Turbo来了",
@@ -17625,6 +17633,14 @@
       "onboard_time": 1768301062,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26935,
+      "num": 43707,
+      "word": "刘宇宁沉浸式畅游澳门vlog",
+      "onboard_time": 1768498815,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 26863,
@@ -18435,6 +18451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9971,
+      "num": 220101,
+      "word": "中国外贸成就很不平凡",
+      "onboard_time": 1768483222,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9496,
       "num": 641431,
       "word": "规范互联网应用程序个人信息收集使用",
@@ -18464,14 +18488,6 @@
       "word": "白发男列车上对女孩吐口水掐脖子",
       "onboard_time": 1768485262,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8462,
-      "num": 220101,
-      "word": "中国外贸成就很不平凡",
-      "onboard_time": 1768483222,
-      "rank": 2,
       "category": "民生新闻"
     },
     {

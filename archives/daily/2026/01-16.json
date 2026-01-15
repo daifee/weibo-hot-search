@@ -1,6 +1,6 @@
 {
   "startTime": 1768495443021,
-  "endTime": 1768498809631,
+  "endTime": 1768499898226,
   "band_list": [
     {
       "raw_hot": 848134,
@@ -99,8 +99,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148528,
-      "num": 275630,
+      "raw_hot": 149795,
+      "num": 286623,
       "word": "玉茗茶骨",
       "onboard_time": 1768492760,
       "rank": 17,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127469,
+      "num": 115006,
+      "word": "派出所回应大学生偷外卖拘留5日",
+      "onboard_time": 1768494138,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121034,
       "num": 121034,
       "word": "轧戏王光明出轨",
@@ -171,12 +179,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95289,
-      "num": 115006,
-      "word": "派出所回应大学生偷外卖拘留5日",
-      "onboard_time": 1768494138,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 92373,
+      "num": 61785,
+      "word": "王橹杰来翻一翻古早相册",
+      "onboard_time": 1768496956,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 89824,
@@ -227,14 +235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71303,
-      "num": 61785,
-      "word": "王橹杰来翻一翻古早相册",
-      "onboard_time": 1768496956,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 68159,
       "num": 115619,
       "word": "杨幂赵丽颖活动生图",
@@ -267,7 +267,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 58176,
+      "raw_hot": 58712,
       "num": 115296,
       "word": "私生活这么干净为什么作息这么乱",
       "onboard_time": 1768480581,
@@ -451,6 +451,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29077,
+      "num": 43773,
+      "word": "代旭的耳机戴出了耳钉的感觉",
+      "onboard_time": 1768499236,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 26935,
+      "num": 43707,
+      "word": "刘宇宁沉浸式畅游澳门vlog",
+      "onboard_time": 1768498815,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 26160,
+      "num": 43645,
+      "word": "金价",
+      "onboard_time": 1768481960,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 24876,
       "num": 61675,
       "word": "最容易透支心脏的10个习惯",
@@ -467,7 +491,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 8462,
+      "raw_hot": 9971,
       "num": 220101,
       "word": "中国外贸成就很不平凡",
       "onboard_time": 1768483222,
