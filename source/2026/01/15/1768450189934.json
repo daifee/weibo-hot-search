@@ -1,0 +1,410 @@
+{
+  "runTime": 1768450189934,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1101328,
+        "num": 1176212,
+        "word": "贺娇龙遗体已回到昭苏",
+        "onboard_time": 1768447701,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 994320,
+        "num": 994320,
+        "word": "聂卫平逝世",
+        "onboard_time": 1768435160,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60415,
+        "num": 698897,
+        "word": "换购住房继续享受退税优惠",
+        "onboard_time": 1768448300,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 627538,
+        "num": 627538,
+        "word": "贺娇龙相册全是凌晨工作照片",
+        "onboard_time": 1768437443,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403257,
+        "num": 403257,
+        "word": "国考进面名单",
+        "onboard_time": 1768444401,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 360007,
+        "num": 360007,
+        "word": "爸爸担心女儿考上清北探望机票太贵",
+        "onboard_time": 1768440260,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331358,
+        "num": 331358,
+        "word": "马年春晚",
+        "onboard_time": 1768402162,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296670,
+        "num": 296670,
+        "word": "24岁女子脸长期肿胀确诊尿毒症",
+        "onboard_time": 1768442539,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283274,
+        "num": 283274,
+        "word": "感觉家里的不动产动了一下",
+        "onboard_time": 1768448780,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 279021,
+        "num": 279021,
+        "word": "A股要慢牛不要疯牛",
+        "onboard_time": 1768440799,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1073557,
+        "num": 264134,
+        "word": "于正秀腹肌被判定AI",
+        "onboard_time": 1768448240,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369661,
+        "num": 258681,
+        "word": "你那儿几点 王安宇",
+        "onboard_time": 1768443741,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235400,
+        "num": 235400,
+        "word": "柯洁",
+        "onboard_time": 1768438882,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277399,
+        "num": 234623,
+        "word": "杨幂穿Prada的黑长直女神",
+        "onboard_time": 1768447040,
+        "rank": 13,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 48032,
+        "num": 230385,
+        "word": "AI点的第一杯奶茶",
+        "onboard_time": 1768449620,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 230018,
+        "num": 230018,
+        "word": "王楚钦营业",
+        "onboard_time": 1768448661,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209769,
+        "num": 209769,
+        "word": "棋手战鹰缅怀聂卫平",
+        "onboard_time": 1768449260,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199969,
+        "num": 199969,
+        "word": "曝杨晓培将参加浪姐",
+        "onboard_time": 1768443741,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43223,
+        "num": 194262,
+        "word": "蓝盈莹开N6红运当头",
+        "onboard_time": 1768448361,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194200,
+        "num": 194200,
+        "word": "美国人开始认同中式生活",
+        "onboard_time": 1768449020,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1420398,
+        "num": 194181,
+        "word": "女子被判向出轨丈夫道歉15天",
+        "onboard_time": 1768446318,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 481942,
+        "num": 193684,
+        "word": "韦德评论王橹杰",
+        "onboard_time": 1768435581,
+        "rank": 21,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 186964,
+        "num": 193498,
+        "word": "国漫第一猛男认证",
+        "onboard_time": 1768449260,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 196815,
+        "num": 193151,
+        "word": "玉茗茶骨大结局",
+        "onboard_time": 1768449679,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192973,
+        "num": 192973,
+        "word": "检票员笑了半天才让你去滑雪",
+        "onboard_time": 1768438462,
+        "rank": 24,
+        "category": "幽默,运动健身"
+      },
+      {
+        "raw_hot": 191355,
+        "num": 191355,
+        "word": "谁把沈腾QQ空间盗了",
+        "onboard_time": 1768443020,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188972,
+        "num": 188972,
+        "word": "23岁女孩患骨癌截肢后父母失联",
+        "onboard_time": 1768446440,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173739,
+        "num": 173739,
+        "word": "御赐小仵作2开播",
+        "onboard_time": 1768447040,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157166,
+        "num": 157166,
+        "word": "王曼昱V中文版二月刊封面",
+        "onboard_time": 1768449380,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142688,
+        "num": 150338,
+        "word": "2026国考分数线公布",
+        "onboard_time": 1768443320,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 120844,
+        "num": 144336,
+        "word": "金吸管专吸马年好运气",
+        "onboard_time": 1768450041,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194008,
+        "num": 144257,
+        "word": "罗小黑新谷",
+        "onboard_time": 1768449441,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 143888,
+        "num": 143888,
+        "word": "柯洁悼念聂卫平",
+        "onboard_time": 1768441100,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143086,
+        "num": 143086,
+        "word": "过年你的快乐来源",
+        "onboard_time": 1768449922,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142181,
+        "num": 142181,
+        "word": "贺娇龙称没有尽到妻子的责任义务",
+        "onboard_time": 1768444339,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140424,
+        "num": 140424,
+        "word": "代旭角色查重率为0",
+        "onboard_time": 1768448240,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139145,
+        "num": 139145,
+        "word": "伊朗宣布暂时关闭领空",
+        "onboard_time": 1768439362,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13184,
+        "num": 138650,
+        "word": "人民日报钟声三问日本",
+        "onboard_time": 1768450100,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138440,
+        "num": 138440,
+        "word": "医生提醒肾脏疾病注意这些征兆",
+        "onboard_time": 1768448720,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113936,
+        "num": 135978,
+        "word": "美国若开战伊朗100%报复",
+        "onboard_time": 1768449321,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126144,
+        "num": 134841,
+        "word": "国漫群像首登一线女刊",
+        "onboard_time": 1768448720,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 134395,
+        "num": 134395,
+        "word": "每个省的回家路",
+        "onboard_time": 1768450100,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133523,
+        "num": 133523,
+        "word": "小洛熙父母维权案下周开庭",
+        "onboard_time": 1768447640,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133111,
+        "num": 133111,
+        "word": "携程或面临最高65亿元罚款",
+        "onboard_time": 1768443621,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131004,
+        "num": 131004,
+        "word": "手工天才勇闯ACG",
+        "onboard_time": 1768450160,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 129960,
+        "num": 129960,
+        "word": "贺娇龙从服务员到全国网红干部",
+        "onboard_time": 1768449501,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127816,
+        "num": 127816,
+        "word": "2026江苏卫视春晚官宣",
+        "onboard_time": 1768449200,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117048,
+        "num": 117048,
+        "word": "美国已开始出售委内瑞拉石油",
+        "onboard_time": 1768449260,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128188,
+        "num": 117026,
+        "word": "贺娇龙去世为何引发全网悼念",
+        "onboard_time": 1768442961,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116849,
+        "num": 116849,
+        "word": "68升油箱加了74升油",
+        "onboard_time": 1768445000,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调建设良好家风的重要性#"
+    }
+  }
+}
