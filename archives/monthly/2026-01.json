@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768473242447,
+  "endTime": 1768474277563,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -899,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 991913,
+      "num": 253182,
+      "word": "罗永浩 西贝",
+      "onboard_time": 1768469360,
+      "rank": 18,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 987620,
       "num": 362495,
       "word": "黄金",
@@ -977,14 +985,6 @@
       "onboard_time": 1767533063,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 958841,
-      "num": 253182,
-      "word": "罗永浩 西贝",
-      "onboard_time": 1768469360,
-      "rank": 18,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 958444,
@@ -2809,6 +2809,14 @@
       "onboard_time": 1768290201,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 582243,
+      "num": 145804,
+      "word": "周杰伦澳网国籍标示中国",
+      "onboard_time": 1768472241,
+      "rank": 21,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 581843,
@@ -5841,14 +5849,6 @@
       "onboard_time": 1767855621,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 404850,
-      "num": 133884,
-      "word": "周杰伦澳网国籍标示中国",
-      "onboard_time": 1768472241,
-      "rank": 21,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 404537,
@@ -10387,6 +10387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 255904,
+      "num": 255904,
+      "word": "御赐小仵作2",
+      "onboard_time": 1768281861,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255751,
       "num": 124808,
       "word": "韩国开始出现迪拜巧克力麻薯糖葫芦了",
@@ -11659,6 +11667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 226152,
+      "num": 167646,
+      "word": "打工人如何通过首饰快速摆脱路人感",
+      "onboard_time": 1768473499,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 226112,
       "num": 226112,
       "word": "奶奶想要孙子遗弃残疾孙女近20年",
@@ -11809,6 +11825,14 @@
       "onboard_time": 1768299321,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223271,
+      "num": 223271,
+      "word": "西贝闭店102家网友喊话罗永浩",
+      "onboard_time": 1768472241,
+      "rank": 17,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 223089,
@@ -17059,6 +17083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166096,
+      "num": 166096,
+      "word": "越完美的婚姻越容不下走神",
+      "onboard_time": 1768473319,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166030,
       "num": 106925,
       "word": "特朗普称美将深度介入委石油产业",
@@ -17552,6 +17584,14 @@
       "word": "骄阳似我预告",
       "onboard_time": 1767274882,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162021,
+      "num": 150598,
+      "word": "刘诗诗粉色旗袍路透",
+      "onboard_time": 1768471460,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -18857,14 +18897,6 @@
       "onboard_time": 1768303221,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 152381,
-      "num": 152381,
-      "word": "御赐小仵作2",
-      "onboard_time": 1768281861,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 152325,
@@ -21371,14 +21403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136999,
-      "num": 136999,
-      "word": "西贝闭店102家网友喊话罗永浩",
-      "onboard_time": 1768472241,
-      "rank": 17,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 136943,
       "num": 134428,
       "word": "女子先嫁2人未离婚又跟9人结离婚",
@@ -21659,14 +21683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 135769,
-      "num": 135769,
-      "word": "刘诗诗粉色旗袍路透",
-      "onboard_time": 1768471460,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 135767,
       "num": 648495,
       "word": "海南离岛免税7天卖了12个亿",
@@ -21937,6 +21953,14 @@
       "onboard_time": 1767526762,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134779,
+      "num": 134779,
+      "word": "虞书欣云初令路透",
+      "onboard_time": 1768473141,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 134761,
@@ -22785,6 +22809,14 @@
       "onboard_time": 1768184120,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 130242,
+      "num": 130242,
+      "word": "巩俐后悔当年没演好秋香这个角色",
+      "onboard_time": 1768470321,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 130190,
@@ -31059,6 +31091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99236,
+      "num": 99236,
+      "word": "我们的少年时代2芒果S级项目",
+      "onboard_time": 1768473739,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99192,
       "num": 99192,
       "word": "李莎旻子被华晨宇的不重逢击中了",
@@ -32035,6 +32075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 96464,
+      "num": 149304,
+      "word": "小猫穿上了高领毛衣",
+      "onboard_time": 1768473080,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96456,
       "num": 96456,
       "word": "这8个习惯很容易带走气血",
@@ -32129,6 +32177,14 @@
       "onboard_time": 1768191681,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96229,
+      "num": 148910,
+      "word": "流落柬埔寨街头的女网红已回国",
+      "onboard_time": 1768471640,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96220,
@@ -32228,15 +32284,7 @@
     },
     {
       "raw_hot": 96066,
-      "num": 104784,
-      "word": "巩俐后悔当年没演好秋香这个角色",
-      "onboard_time": 1768470321,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 96066,
-      "num": 96066,
+      "num": 111949,
       "word": "被清华大学食堂的物价震惊到了",
       "onboard_time": 1768472000,
       "rank": 32,
@@ -33139,6 +33187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 93555,
+      "num": 93555,
+      "word": "何与 一步一个苏点",
+      "onboard_time": 1768473560,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93539,
       "num": 93539,
       "word": "曝Doinb直播要换平台",
@@ -33203,14 +33259,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 93398,
-      "num": 93398,
-      "word": "流落柬埔寨街头的女网红已回国",
-      "onboard_time": 1768471640,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93382,
       "num": 93382,
       "word": "iPhone锁屏被玩明白了",
@@ -33225,14 +33273,6 @@
       "onboard_time": 1767508162,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 93352,
-      "num": 93352,
-      "word": "虞书欣云初令路透",
-      "onboard_time": 1768473141,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 93283,
@@ -33345,6 +33385,14 @@
       "onboard_time": 1767863420,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 92926,
+      "num": 143211,
+      "word": "聂卫平遗体送别仪式1月18日举行",
+      "onboard_time": 1768473800,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 92912,
@@ -34155,6 +34203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 90613,
+      "num": 134928,
+      "word": "空气炸锅杀回年轻人的厨房",
+      "onboard_time": 1768472841,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90610,
       "num": 90610,
       "word": "韩国承认机场安全缺陷致179人遇难",
@@ -34785,14 +34841,6 @@
       "onboard_time": 1767239181,
       "rank": 36,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 88688,
-      "num": 88688,
-      "word": "小猫穿上了高领毛衣",
-      "onboard_time": 1768473080,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 88680,
@@ -36243,6 +36291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84963,
+      "num": 84963,
+      "word": "陈伟霆的2018年vs2026年",
+      "onboard_time": 1768473979,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84942,
       "num": 84942,
       "word": "御赐小仵作2三法司探案局",
@@ -37539,6 +37595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80396,
+      "num": 91267,
+      "word": "iPhone的截屏还能这样用",
+      "onboard_time": 1768470801,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 80391,
       "num": 1027035,
       "word": "发票留着能抽奖",
@@ -37577,6 +37641,14 @@
       "onboard_time": 1768098920,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 80185,
+      "num": 83893,
+      "word": "Breathe说对Bin敏感",
+      "onboard_time": 1768473319,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 80148,
@@ -38641,14 +38713,6 @@
       "onboard_time": 1768197680,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 76294,
-      "num": 108903,
-      "word": "空气炸锅杀回年轻人的厨房",
-      "onboard_time": 1768472841,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76187,
@@ -40364,7 +40428,7 @@
     },
     {
       "raw_hot": 67936,
-      "num": 135438,
+      "num": 147506,
       "word": "八个娃娃里有八个魔丸",
       "onboard_time": 1768471399,
       "rank": 19,
@@ -46467,6 +46531,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 30593,
+      "num": 97785,
+      "word": "贾国龙质问为什么要懂公关",
+      "onboard_time": 1768474041,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30455,
       "num": 847406,
       "word": "美国袭击未对委石油设施造成损害",
@@ -48217,6 +48289,14 @@
       "onboard_time": 1768397062,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 19945,
+      "num": 99971,
+      "word": "官方辟谣贺娇龙坠马原视频",
+      "onboard_time": 1768474161,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19873,
