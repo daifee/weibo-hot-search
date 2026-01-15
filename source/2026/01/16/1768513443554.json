@@ -1,0 +1,410 @@
+{
+  "runTime": 1768513443554,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 57078,
+        "num": 193316,
+        "word": "将门毒后",
+        "onboard_time": 1768477940,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42905,
+        "num": 142976,
+        "word": "湖北一男子挖出青铜古剑上交博物馆",
+        "onboard_time": 1768492938,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7912,
+        "num": 108903,
+        "word": "中国外贸成就很不平凡",
+        "onboard_time": 1768483222,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180757,
+        "num": 94254,
+        "word": "花海",
+        "onboard_time": 1768503015,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 40184,
+        "num": 81507,
+        "word": "玉茗茶骨",
+        "onboard_time": 1768492760,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71775,
+        "num": 71775,
+        "word": "7岁嫁人15岁生子短剧引众怒",
+        "onboard_time": 1768489043,
+        "rank": 5,
+        "category": "民生新闻,剧集"
+      },
+      {
+        "raw_hot": 35427,
+        "num": 70494,
+        "word": "上海网红餐厅服务员辱骂诅咒顾客",
+        "onboard_time": 1768491860,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26693,
+        "num": 69407,
+        "word": "轧戏 图书馆30秒",
+        "onboard_time": 1768481900,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24528,
+        "num": 66762,
+        "word": "商家回应自家衣服没剪吊牌在漠河",
+        "onboard_time": 1768482020,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20257,
+        "num": 64780,
+        "word": "101岁奶奶每天熬夜追剧到凌晨2点",
+        "onboard_time": 1768482140,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64596,
+        "num": 64596,
+        "word": "江西杀猪宴跟风呆呆翻车",
+        "onboard_time": 1768494619,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52601,
+        "num": 52601,
+        "word": "杜海涛回应交通银行口误事件",
+        "onboard_time": 1768506973,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45310,
+        "num": 45310,
+        "word": "私生活这么干净为什么作息这么乱",
+        "onboard_time": 1768480581,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27541,
+        "num": 27541,
+        "word": "女网红在飞机上突然焦虑症发作",
+        "onboard_time": 1768485141,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26490,
+        "num": 26490,
+        "word": "派出所回应大学生偷外卖拘留5日",
+        "onboard_time": 1768494138,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26193,
+        "num": 26193,
+        "word": "肖战2026秋冬大秀",
+        "onboard_time": 1768487482,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 24826,
+        "num": 24826,
+        "word": "花海房管",
+        "onboard_time": 1768480820,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 23680,
+        "num": 23680,
+        "word": "贾国龙朋友圈称尽力了",
+        "onboard_time": 1768481541,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22748,
+        "num": 22748,
+        "word": "天地剑心",
+        "onboard_time": 1768482920,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20580,
+        "num": 20580,
+        "word": "鬼鬼吐槽和艺人做朋友很累",
+        "onboard_time": 1768479920,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87001,
+        "num": 20379,
+        "word": "金价彻底杀疯了",
+        "onboard_time": 1768477642,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 76388,
+        "num": 19980,
+        "word": "香港屯门",
+        "onboard_time": 1768490722,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25284,
+        "num": 19637,
+        "word": "西安偶遇孙坚袁姗姗",
+        "onboard_time": 1768507273,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24725,
+        "num": 19340,
+        "word": "金价",
+        "onboard_time": 1768481960,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 19185,
+        "num": 19185,
+        "word": "黄晓明提前一个月背词那场戏播了",
+        "onboard_time": 1768494439,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18927,
+        "num": 18927,
+        "word": "代旭的耳机戴出了耳钉的感觉",
+        "onboard_time": 1768499236,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18592,
+        "num": 18592,
+        "word": "一白发男列车上掐脖年轻女孩",
+        "onboard_time": 1768492400,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16375,
+        "num": 16375,
+        "word": "公安部A级通缉犯在狱中被揪出",
+        "onboard_time": 1768474639,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16191,
+        "num": 16191,
+        "word": "最容易透支心脏的10个习惯",
+        "onboard_time": 1768483281,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 12672,
+        "num": 15881,
+        "word": "落子无悔是一种顶级智慧",
+        "onboard_time": 1768498576,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20751,
+        "num": 15856,
+        "word": "轧戏",
+        "onboard_time": 1768477339,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16389,
+        "num": 15827,
+        "word": "王橹杰来翻一翻古早相册",
+        "onboard_time": 1768496956,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15789,
+        "num": 15789,
+        "word": "周也和姐姐 大明星和设计师",
+        "onboard_time": 1768481720,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14717,
+        "num": 15786,
+        "word": "轧戏王光明出轨",
+        "onboard_time": 1768479860,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13811,
+        "num": 15783,
+        "word": "轻生女子母亲称男方是远亲知根知底",
+        "onboard_time": 1768509553,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13656,
+        "num": 15781,
+        "word": "国家电网计划投资4万亿元",
+        "onboard_time": 1768480820,
+        "rank": 35,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 13644,
+        "num": 15779,
+        "word": "香港一商场警察开枪制服持刀嫌犯",
+        "onboard_time": 1768491201,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13533,
+        "num": 15775,
+        "word": "我们的少年时代2",
+        "onboard_time": 1768466842,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13531,
+        "num": 15773,
+        "word": "客运段回应老人掐女孩脖子吐口水",
+        "onboard_time": 1768498576,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13201,
+        "num": 15768,
+        "word": "于正说芒果从不参考外部数据",
+        "onboard_time": 1768490602,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12905,
+        "num": 15765,
+        "word": "夏迎春下房管",
+        "onboard_time": 1768480880,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 12883,
+        "num": 15763,
+        "word": "杨幂赵丽颖活动生图",
+        "onboard_time": 1768481720,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12694,
+        "num": 15758,
+        "word": "车厘子测量卡 缩水",
+        "onboard_time": 1768482561,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12050,
+        "num": 15758,
+        "word": "蔡徐坤采访路人",
+        "onboard_time": 1768481240,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 11954,
+        "num": 15755,
+        "word": "smtm12",
+        "onboard_time": 1768491260,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11502,
+        "num": 15748,
+        "word": "iG对战AL",
+        "onboard_time": 1768501574,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 11192,
+        "num": 15748,
+        "word": "张慧雯曹骏紧急声明",
+        "onboard_time": 1768462461,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11107,
+        "num": 15742,
+        "word": "丁程鑫室外被冻成孙子了",
+        "onboard_time": 1768487122,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10620,
+        "num": 15739,
+        "word": "逆战未来",
+        "onboard_time": 1768486701,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 10576,
+        "num": 15736,
+        "word": "京城大师赛",
+        "onboard_time": 1768487122,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的治权之喻#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1768495443021,
-  "endTime": 1768512617420,
+  "endTime": 1768513443554,
   "band_list": [
     {
       "raw_hot": 848134,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 445463,
-      "num": 77441,
+      "num": 94254,
       "word": "花海",
       "onboard_time": 1768503015,
       "rank": 3,
@@ -323,6 +323,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 52601,
+      "num": 52601,
+      "word": "杜海涛回应交通银行口误事件",
+      "onboard_time": 1768506973,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52236,
       "num": 114899,
       "word": "天地剑心",
@@ -377,14 +385,6 @@
       "onboard_time": 1768474639,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45653,
-      "num": 23448,
-      "word": "杜海涛回应交通银行口误事件",
-      "onboard_time": 1768506973,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 43783,
@@ -499,8 +499,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 24897,
-      "num": 17444,
+      "raw_hot": 25284,
+      "num": 19637,
       "word": "西安偶遇孙坚袁姗姗",
       "onboard_time": 1768507273,
       "rank": 30,
@@ -531,8 +531,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 13039,
-      "num": 15642,
+      "raw_hot": 13811,
+      "num": 15783,
       "word": "轻生女子母亲称男方是远亲知根知底",
       "onboard_time": 1768509553,
       "rank": 48,
