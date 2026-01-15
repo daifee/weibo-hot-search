@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768482943532,
+  "endTime": 1768484989135,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -435,6 +435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1363635,
+      "num": 1363635,
+      "word": "将门毒后",
+      "onboard_time": 1768477940,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1352396,
       "num": 308366,
       "word": "迅猛龙 小澈",
@@ -465,14 +473,6 @@
       "onboard_time": 1767870680,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1308005,
-      "num": 1308005,
-      "word": "将门毒后",
-      "onboard_time": 1768477940,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 1294388,
@@ -553,6 +553,14 @@
       "onboard_time": 1767497601,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1195280,
+      "num": 1002614,
+      "word": "金价",
+      "onboard_time": 1767257540,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 1195104,
@@ -1092,7 +1100,7 @@
     },
     {
       "raw_hot": 920382,
-      "num": 228391,
+      "num": 249001,
       "word": "轧戏王光明出轨",
       "onboard_time": 1768479860,
       "rank": 5,
@@ -1505,14 +1513,6 @@
       "onboard_time": 1768118061,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 810034,
-      "num": 1002614,
-      "word": "金价",
-      "onboard_time": 1767257540,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 808268,
@@ -2027,6 +2027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 693753,
+      "num": 227967,
+      "word": "花海房管",
+      "onboard_time": 1768480820,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 689093,
       "num": 581765,
       "word": "顾漫五部曲吴倩出演了三部",
@@ -2297,14 +2305,6 @@
       "onboard_time": 1767670462,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 643027,
-      "num": 227967,
-      "word": "花海房管",
-      "onboard_time": 1768480820,
-      "rank": 10,
-      "category": "电竞"
     },
     {
       "raw_hot": 640705,
