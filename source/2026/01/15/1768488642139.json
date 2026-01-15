@@ -1,0 +1,410 @@
+{
+  "runTime": 1768488642139,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1058577,
+        "num": 1169372,
+        "word": "将门毒后",
+        "onboard_time": 1768477940,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 485213,
+        "num": 838342,
+        "word": "101岁奶奶每天熬夜追剧到凌晨2点",
+        "onboard_time": 1768482140,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61871,
+        "num": 693723,
+        "word": "地表超强材料已实现量产",
+        "onboard_time": 1768484060,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393285,
+        "num": 393285,
+        "word": "轧戏 图书馆30秒",
+        "onboard_time": 1768481900,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1584286,
+        "num": 369848,
+        "word": "金价彻底杀疯了",
+        "onboard_time": 1768477642,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 636412,
+        "num": 334532,
+        "word": "轧戏王光明出轨",
+        "onboard_time": 1768479860,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288482,
+        "num": 288482,
+        "word": "国家电网计划投资4万亿元",
+        "onboard_time": 1768480820,
+        "rank": 6,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 248432,
+        "num": 248432,
+        "word": "车厘子测量卡 缩水",
+        "onboard_time": 1768482561,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193980,
+        "num": 193980,
+        "word": "商家回应自家衣服没剪吊牌在漠河",
+        "onboard_time": 1768482020,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190116,
+        "num": 190116,
+        "word": "公安部A级通缉犯在狱中被揪出",
+        "onboard_time": 1768474639,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 612534,
+        "num": 189720,
+        "word": "花海房管",
+        "onboard_time": 1768480820,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 608209,
+        "num": 189528,
+        "word": "女网红在飞机上突然焦虑症发作",
+        "onboard_time": 1768485141,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 449637,
+        "num": 188877,
+        "word": "鬼鬼吐槽和艺人做朋友很累",
+        "onboard_time": 1768479920,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296601,
+        "num": 188375,
+        "word": "我们的少年时代2",
+        "onboard_time": 1768466842,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187826,
+        "num": 187826,
+        "word": "贾国龙朋友圈称尽力了",
+        "onboard_time": 1768481541,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265833,
+        "num": 182257,
+        "word": "骄阳似我15年后续上了",
+        "onboard_time": 1768479139,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192989,
+        "num": 181333,
+        "word": "陈坤董洁牵手梦回金粉世家",
+        "onboard_time": 1768479201,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164090,
+        "num": 164090,
+        "word": "BLG战胜WBG",
+        "onboard_time": 1768487842,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 241837,
+        "num": 163979,
+        "word": "宋威龙赵今麦合唱",
+        "onboard_time": 1768483460,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162897,
+        "num": 162897,
+        "word": "夏迎春下房管",
+        "onboard_time": 1768480880,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1275069,
+        "num": 162640,
+        "word": "金价",
+        "onboard_time": 1768481960,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 191508,
+        "num": 161188,
+        "word": "轧戏",
+        "onboard_time": 1768477339,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189505,
+        "num": 160118,
+        "word": "将门毒后制作班底",
+        "onboard_time": 1768486462,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133250,
+        "num": 159322,
+        "word": "特朗普直播打瞌睡被小女孩发现",
+        "onboard_time": 1768487602,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182657,
+        "num": 159099,
+        "word": "李昊报销粉丝见面会门票",
+        "onboard_time": 1768487901,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 8385,
+        "num": 158136,
+        "word": "携程上的五钻级酒店并不是五星级",
+        "onboard_time": 1768488381,
+        "rank": 25,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 128412,
+        "num": 157130,
+        "word": "私生活这么干净为什么作息这么乱",
+        "onboard_time": 1768480581,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156404,
+        "num": 156404,
+        "word": "天地剑心",
+        "onboard_time": 1768482920,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147329,
+        "num": 147329,
+        "word": "肖战2026秋冬大秀",
+        "onboard_time": 1768487482,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 106829,
+        "num": 145786,
+        "word": "最容易透支心脏的10个习惯",
+        "onboard_time": 1768483281,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145379,
+        "num": 145379,
+        "word": "丁程鑫室外被冻成孙子了",
+        "onboard_time": 1768487122,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146856,
+        "num": 141146,
+        "word": "杨幂赵丽颖活动生图",
+        "onboard_time": 1768481720,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126446,
+        "num": 126446,
+        "word": "逆战未来",
+        "onboard_time": 1768486701,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136729,
+        "num": 121553,
+        "word": "周杰伦澳网国籍标示中国",
+        "onboard_time": 1768472241,
+        "rank": 33,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 128791,
+        "num": 117762,
+        "word": "周也和姐姐 大明星和设计师",
+        "onboard_time": 1768481720,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107954,
+        "num": 107954,
+        "word": "无言的马超",
+        "onboard_time": 1768487661,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103360,
+        "num": 107643,
+        "word": "日本棋院哀悼聂卫平",
+        "onboard_time": 1768487962,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31196,
+        "num": 106685,
+        "word": "王子奇把苏晓彤一字夹摘了",
+        "onboard_time": 1768488141,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65404,
+        "num": 105774,
+        "word": "李幼斌 没有人能拒绝垃圾食品",
+        "onboard_time": 1768487482,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30299,
+        "num": 104930,
+        "word": "女子疑被逼婚后轻生母亲回应",
+        "onboard_time": 1768488440,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104912,
+        "num": 104912,
+        "word": "京城大师赛",
+        "onboard_time": 1768487122,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123520,
+        "num": 104867,
+        "word": "张慧雯曹骏紧急声明",
+        "onboard_time": 1768462461,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113953,
+        "num": 104831,
+        "word": "张子枫我都有点心疼你了",
+        "onboard_time": 1768484961,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104626,
+        "num": 104626,
+        "word": "很多人都没有你早上喝的那杯水重要",
+        "onboard_time": 1768484661,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111611,
+        "num": 102176,
+        "word": "将门毒后书粉",
+        "onboard_time": 1768486522,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99335,
+        "num": 99335,
+        "word": "剑来第六集OST",
+        "onboard_time": 1768487780,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 96247,
+        "num": 96247,
+        "word": "将门毒后造型易小雅",
+        "onboard_time": 1768475060,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93384,
+        "num": 93384,
+        "word": "蔡徐坤采访路人",
+        "onboard_time": 1768481240,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 90352,
+        "num": 90352,
+        "word": "空气炸锅杀回年轻人的厨房",
+        "onboard_time": 1768472841,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87731,
+        "num": 87731,
+        "word": "38岁女子呕吐一夜后突发脑梗瘫痪",
+        "onboard_time": 1768458979,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的治权之喻#"
+    }
+  }
+}
