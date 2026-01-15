@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/16 06:47:24
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/16 07:29:50
 </p>
 </blockquote>
 <p>
@@ -5799,6 +5799,12 @@ WB对战RW（热度：355689）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E5%AE%9E%E6%88%98%E6%BC%94%E7%BB%83%E6%96%A9%E9%A6%96%E8%A1%8C%E5%8A%A8%E7%94%BB%E9%9D%A2%23" target="weibo">
+解放军实战演练斩首行动画面（热度：331766）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A5%B3%E5%AD%A9%E8%A2%AB%E9%80%BC%E5%A9%9A%E5%87%BA%E9%80%83%E4%B8%8A%E6%B5%B7%23" target="weibo">
 韩国女孩被逼婚出逃上海（热度：331038）
 </a>
@@ -6005,12 +6011,6 @@ iPhone的计算器居然这么强大（热度：323418）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2324%E5%B2%81%E5%A5%B3%E5%AD%90%E8%84%B8%E9%95%BF%E6%9C%9F%E8%82%BF%E8%83%80%E7%A1%AE%E8%AF%8A%E5%B0%BF%E6%AF%92%E7%97%87%23" target="weibo">
 24岁女子脸长期肿胀确诊尿毒症（热度：323092）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%9B%9E%E5%BA%94%E6%B1%89%E5%A0%A1%E5%8F%98%E5%B0%8F%E4%BA%86%23" target="weibo">
-麦当劳回应汉堡变小了（热度：322839）
 </a>
 </li>
 
