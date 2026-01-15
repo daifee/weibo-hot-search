@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/15 00:41:28 ~ 2026/01/15 23:34:42
+本榜单时间：2026/01/15 00:41:28 ~ 2026/01/15 23:54:14
 </p>
 </blockquote>
 <p>
@@ -118,7 +118,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%237%E5%B2%81%E5%AB%81%E4%BA%BA15%E5%B2%81%E7%94%9F%E5%AD%90%E7%9F%AD%E5%89%A7%E5%BC%95%E4%BC%97%E6%80%92%23" target="weibo">
-7岁嫁人15岁生子短剧引众怒（热度：837426）
+7岁嫁人15岁生子短剧引众怒（热度：918316）
 </a>
 </li>
 
@@ -255,6 +255,12 @@ QQ回应沈腾空间被盗（热度：827066）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E5%86%B7%E5%86%BB2%E5%B9%B4%E7%9A%84%E8%A5%BF%E8%93%9D%E8%8A%B1%E7%B3%BB%E8%AF%AF%E8%A7%A3%23" target="weibo">
+西贝冷冻2年的西蓝花系误解（热度：534511）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%8F%E8%BF%8E%E6%98%A5%E4%B8%8B%E6%88%BF%E7%AE%A1%23" target="weibo">
 夏迎春下房管（热度：522400）
 </a>
@@ -369,12 +375,6 @@ QQ回应沈腾空间被盗（热度：827066）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E5%86%B7%E5%86%BB2%E5%B9%B4%E7%9A%84%E8%A5%BF%E8%93%9D%E8%8A%B1%E7%B3%BB%E8%AF%AF%E8%A7%A3%23" target="weibo">
-西贝冷冻2年的西蓝花系误解（热度：390680）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E5%85%8D%E7%AD%BE%E5%8E%BB%E5%9C%9F%E8%80%B3%E5%85%B6%E7%9A%84%E5%B7%B2%E7%BB%8F%E7%A0%B4%E4%BA%A7%E4%BA%86%23" target="weibo">
 第一批免签去土耳其的已经破产了（热度：387042）
 </a>
@@ -461,6 +461,12 @@ QQ回应沈腾空间被盗（热度：827066）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%E5%BF%83%E6%9C%89%E6%9E%97%E6%9B%A6callback%23" target="weibo">
 骄阳似我心有林曦callback（热度：334721）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%B1%AF%E9%97%A8%23" target="weibo">
+香港屯门（热度：329916）
 </a>
 </li>
 
@@ -777,6 +783,18 @@ AI查贪官准确率相当高（热度：199260）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%86%E6%88%98%E6%9C%AA%E6%9D%A5%23" target="weibo">
+逆战未来（热度：197164）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23smtm12%23" target="weibo">
+smtm12（热度：196613）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E5%8D%81%E5%85%AD%E5%81%B7%E7%A8%8E%E6%A1%88%23" target="weibo">
 彭十六偷税案（热度：196309）
 </a>
@@ -791,12 +809,6 @@ AI查贪官准确率相当高（热度：199260）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E5%B0%8F%E9%BB%91%E6%96%B0%E8%B0%B7%23" target="weibo">
 罗小黑新谷（热度：194008）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%B1%AF%E9%97%A8%23" target="weibo">
-香港屯门（热度：193734）
 </a>
 </li>
 
@@ -1121,12 +1133,6 @@ TF四代主演是哪四个（热度：153779）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%A4%A9%E7%9A%84%E8%84%B8vs%E6%99%9A%E4%B8%8A%E7%9A%84%E8%84%B8%23" target="weibo">
 白天的脸vs晚上的脸（热度：149967）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%80%86%E6%88%98%E6%9C%AA%E6%9D%A5%23" target="weibo">
-逆战未来（热度：149707）
 </a>
 </li>
 
@@ -1553,6 +1559,12 @@ A股半日缩量3472亿（热度：130885）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E8%B4%A2%E5%AE%85%E5%A5%B3%23" target="weibo">
 发财宅女（热度：115714）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E4%B8%80%E5%95%86%E5%9C%BA%E8%AD%A6%E5%AF%9F%E5%BC%80%E6%9E%AA%E5%88%B6%E6%9C%8D%E6%8C%81%E5%88%80%E5%AB%8C%E7%8A%AF%23" target="weibo">
+香港一商场警察开枪制服持刀嫌犯（热度：115672）
 </a>
 </li>
 
@@ -2013,6 +2025,12 @@ TTG战胜Hero（热度：100878）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B9%BC%E6%96%8C%20%E6%B2%A1%E6%9C%89%E4%BA%BA%E8%83%BD%E6%8B%92%E7%BB%9D%E5%9E%83%E5%9C%BE%E9%A3%9F%E5%93%81%23" target="weibo">
+李幼斌 没有人能拒绝垃圾食品（热度：94944）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E7%9A%84%E4%BA%BA%E5%B7%B2%E7%BB%8F%E8%A3%85%E9%A5%B0%E8%B5%B7%E6%9D%A5%E4%BA%86%23" target="weibo">
 第一批回家过年的人已经装饰起来了（热度：94597）
 </a>
@@ -2081,12 +2099,6 @@ GALA五杀（热度：94361）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E6%9C%89%E4%BA%BA%E5%9C%A84100%E7%82%B9%E6%97%B6%E4%BB%8D%E6%9C%AA%E8%B5%9A%E9%92%B1%23" target="weibo">
 专家回应有人在4100点时仍未赚钱（热度：92289）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B9%BC%E6%96%8C%20%E6%B2%A1%E6%9C%89%E4%BA%BA%E8%83%BD%E6%8B%92%E7%BB%9D%E5%9E%83%E5%9C%BE%E9%A3%9F%E5%93%81%23" target="weibo">
-李幼斌 没有人能拒绝垃圾食品（热度：92236）
 </a>
 </li>
 
@@ -2379,8 +2391,8 @@ Breathe说对Bin敏感（热度：80185）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E4%B8%80%E5%95%86%E5%9C%BA%E8%AD%A6%E5%AF%9F%E5%BC%80%E6%9E%AA%E5%88%B6%E6%9C%8D%E6%8C%81%E5%88%80%E5%AB%8C%E7%8A%AF%23" target="weibo">
-香港一商场警察开枪制服持刀嫌犯（热度：79609）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E8%AF%B4%E8%8A%92%E6%9E%9C%E4%BB%8E%E4%B8%8D%E5%8F%82%E8%80%83%E5%A4%96%E9%83%A8%E6%95%B0%E6%8D%AE%23" target="weibo">
+于正说芒果从不参考外部数据（热度：80097）
 </a>
 </li>
 
@@ -2463,12 +2475,6 @@ AI点的第一杯奶茶（热度：74378）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E8%AF%B4%E8%8A%92%E6%9E%9C%E4%BB%8E%E4%B8%8D%E5%8F%82%E8%80%83%E5%A4%96%E9%83%A8%E6%95%B0%E6%8D%AE%23" target="weibo">
-于正说芒果从不参考外部数据（热度：72512）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%8D%95%E6%89%8B%E5%8F%8D%E6%89%A3%23" target="weibo">
 杨瀚森单手反扣（热度：72246）
 </a>
@@ -2523,6 +2529,12 @@ WB对战AG（热度：71414）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B8%AD%E8%B4%A7%E5%BA%97%E8%80%81%E6%9D%BF%E5%92%8C%E5%9F%8E%E7%AE%A1%E4%BA%89%E8%AE%BA%E5%90%8E%E8%84%91%E5%87%BA%E8%A1%80%E6%AD%BB%E4%BA%A1%23" target="weibo">
+鸭货店老板和城管争论后脑出血死亡（热度：65773）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E9%81%87%E9%9A%BE%E8%80%85%E6%95%B0%E9%87%8F%E5%A2%9E%E8%87%B3168%E4%BA%BA%23" target="weibo">
 香港大埔火灾遇难者数量增至168人（热度：65183）
 </a>
@@ -2559,12 +2571,6 @@ WB对战AG（热度：71414）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B8%AD%E8%B4%A7%E5%BA%97%E8%80%81%E6%9D%BF%E5%92%8C%E5%9F%8E%E7%AE%A1%E4%BA%89%E8%AE%BA%E5%90%8E%E8%84%91%E5%87%BA%E8%A1%80%E6%AD%BB%E4%BA%A1%23" target="weibo">
-鸭货店老板和城管争论后脑出血死亡（热度：61146）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%9C%A3%E8%BF%AA%E5%A5%BD%E6%88%90%E7%86%9F%23" target="weibo">
 王圣迪好成熟（热度：61109）
 </a>
@@ -2595,8 +2601,20 @@ WB对战AG（热度：71414）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%AF%E8%80%99%E8%80%99%E6%9F%91%E8%BF%98%E6%98%AF%E7%B2%91%E7%B2%91%E6%9F%91%23" target="weibo">
+是耙耙柑还是粑粑柑（热度：59501）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iQOOZ11Turbo%E6%89%8B%E6%84%9F%E7%BB%9D%E4%BA%86%23" target="weibo">
 iQOOZ11Turbo手感绝了（热度：59243）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%99%BD%E5%8F%91%E7%94%B7%E5%88%97%E8%BD%A6%E4%B8%8A%E6%8E%90%E8%84%96%E5%B9%B4%E8%BD%BB%E5%A5%B3%E5%AD%A9%23" target="weibo">
+一白发男列车上掐脖年轻女孩（热度：58819）
 </a>
 </li>
 
@@ -2687,6 +2705,12 @@ iQOOZ11Turbo手感绝了（热度：59243）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%A4%E9%94%99%E8%82%96%E6%88%98%E7%9A%84%E5%A4%A7%E5%93%A5%E5%A4%A7%E5%A7%90%E5%83%8F%E6%BC%94%E5%B0%8F%E5%93%81%23" target="weibo">
 认错肖战的大哥大姐像演小品（热度：50658）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%BD%91%E7%BA%A2%E9%A4%90%E5%8E%85%E6%9C%8D%E5%8A%A1%E5%91%98%E8%BE%B1%E9%AA%82%E8%AF%85%E5%92%92%E9%A1%BE%E5%AE%A2%23" target="weibo">
+上海网红餐厅服务员辱骂诅咒顾客（热度：49681）
 </a>
 </li>
 
