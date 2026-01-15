@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768469847661,
+  "endTime": 1768470658445,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 945783,
-      "num": 219587,
+      "num": 239052,
       "word": "38岁女子呕吐一夜后突发脑梗瘫痪",
       "onboard_time": 1768458979,
       "rank": 11,
@@ -900,7 +900,7 @@
     },
     {
       "raw_hot": 640529,
-      "num": 219899,
+      "num": 249336,
       "word": "女孩撕心裂肺追妈妈晕倒身亡",
       "onboard_time": 1768464620,
       "rank": 12,
@@ -971,6 +971,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 626994,
+      "num": 829206,
+      "word": "我们的少年时代2",
+      "onboard_time": 1768466842,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 619036,
       "num": 368472,
       "word": "娇兰你好事做尽",
@@ -1025,14 +1033,6 @@
       "onboard_time": 1768461320,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 603679,
-      "num": 829206,
-      "word": "我们的少年时代2",
-      "onboard_time": 1768466842,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 603170,
@@ -1104,6 +1104,14 @@
       "word": "整套马钞价格已被炒到2000元",
       "onboard_time": 1768349780,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 588379,
+      "num": 588379,
+      "word": "西贝",
+      "onboard_time": 1768464861,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -1252,7 +1260,7 @@
     },
     {
       "raw_hot": 560450,
-      "num": 220163,
+      "num": 227370,
       "word": "张慧雯曹骏紧急声明",
       "onboard_time": 1768462461,
       "rank": 25,
@@ -1568,14 +1576,6 @@
       "word": "得知三孩又是儿子爸爸笑容当场凝固",
       "onboard_time": 1768198220,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 495505,
-      "num": 212836,
-      "word": "西贝",
-      "onboard_time": 1768464861,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -2409,6 +2409,14 @@
       "onboard_time": 1768440321,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 383213,
+      "num": 383213,
+      "word": "贾国龙说拼了整整125天",
+      "onboard_time": 1768466422,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 381451,
@@ -3355,6 +3363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 289174,
+      "num": 289174,
+      "word": "公积金贷款利率接近历史低点",
+      "onboard_time": 1768467079,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 288908,
       "num": 288908,
       "word": "美国向英国发出严厉威胁",
@@ -3731,14 +3747,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 261299,
-      "num": 261299,
-      "word": "贾国龙说拼了整整125天",
-      "onboard_time": 1768466422,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 261051,
       "num": 186377,
       "word": "何晴儿子头像仍为全黑",
@@ -3865,6 +3873,14 @@
       "onboard_time": 1768282041,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 253182,
+      "num": 253182,
+      "word": "罗永浩 西贝",
+      "onboard_time": 1768469360,
+      "rank": 18,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 252703,
@@ -4513,14 +4529,6 @@
       "onboard_time": 1768117640,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 216855,
-      "num": 216855,
-      "word": "公积金贷款利率接近历史低点",
-      "onboard_time": 1768467079,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 216485,
@@ -5419,6 +5427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186511,
+      "num": 186511,
+      "word": "ELLE2月刊封面",
+      "onboard_time": 1768468400,
+      "rank": 25,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 186247,
       "num": 186247,
       "word": "你的头一直在慢慢3D打印头发",
@@ -6251,14 +6267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165465,
-      "num": 165465,
-      "word": "罗永浩 西贝",
-      "onboard_time": 1768469360,
-      "rank": 18,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 164793,
       "num": 134163,
       "word": "向涵之这个红绳你今年别摘了",
@@ -6915,6 +6923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 151576,
+      "num": 151576,
+      "word": "何美延梁淞自己带娃1周没空吵架了",
+      "onboard_time": 1768469840,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151551,
       "num": 67957,
       "word": "中方反对韩国国会议员同台方交往",
@@ -7113,14 +7129,6 @@
       "onboard_time": 1768379000,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149126,
-      "num": 149126,
-      "word": "ELLE2月刊封面",
-      "onboard_time": 1768468400,
-      "rank": 25,
-      "category": "时尚"
     },
     {
       "raw_hot": 149011,
@@ -9867,6 +9875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112827,
+      "num": 138231,
+      "word": "上海地铁有偿代坐2人被训诫",
+      "onboard_time": 1768468940,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112656,
       "num": 118381,
       "word": "张凌赫田曦薇逐玉3月播出",
@@ -10425,6 +10441,14 @@
       "onboard_time": 1768131259,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107843,
+      "num": 107843,
+      "word": "死了么APP下架",
+      "onboard_time": 1768470501,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 107803,
@@ -11491,11 +11515,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98770,
+      "num": 98770,
+      "word": "孙颖莎新鲜合照",
+      "onboard_time": 1768469421,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98658,
       "num": 131672,
       "word": "专家建议报考研究型大学",
       "onboard_time": 1768466360,
       "rank": 43,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 98632,
+      "num": 98632,
+      "word": "考公一定要有强大的信念感",
+      "onboard_time": 1768467260,
+      "rank": 48,
       "category": "教育"
     },
     {
@@ -11859,14 +11899,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 95531,
-      "num": 95531,
-      "word": "孙颖莎新鲜合照",
-      "onboard_time": 1768469421,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95496,
       "num": 95496,
       "word": "刘宇宁演唱会把腰带扭掉了",
@@ -12169,14 +12201,6 @@
       "onboard_time": 1768379962,
       "rank": 39,
       "category": "剧集,作品衍生"
-    },
-    {
-      "raw_hot": 92700,
-      "num": 92700,
-      "word": "上海地铁有偿代坐2人被训诫",
-      "onboard_time": 1768468940,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92683,
@@ -13139,6 +13163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 84942,
+      "num": 84942,
+      "word": "御赐小仵作2三法司探案局",
+      "onboard_time": 1768470620,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 84924,
       "num": 84924,
       "word": "拥有恐怖表达力的秘籍",
@@ -13265,14 +13297,6 @@
       "onboard_time": 1768303642,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 83118,
-      "num": 83118,
-      "word": "考公一定要有强大的信念感",
-      "onboard_time": 1768467260,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 82980,
@@ -15587,6 +15611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 41477,
+      "num": 164772,
+      "word": "贺娇龙用直播为家乡带货超6亿",
+      "onboard_time": 1768469241,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41470,
       "num": 123949,
       "word": "6秒见证金靖的神图诞生",
@@ -15761,6 +15793,14 @@
       "onboard_time": 1768152136,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 38048,
+      "num": 105964,
+      "word": "井柏然刘雯回上海",
+      "onboard_time": 1768470080,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 38008,
@@ -16057,14 +16097,6 @@
       "onboard_time": 1768064419,
       "rank": 47,
       "category": "军事"
-    },
-    {
-      "raw_hot": 32332,
-      "num": 164772,
-      "word": "贺娇龙用直播为家乡带货超6亿",
-      "onboard_time": 1768469241,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32216,
@@ -16475,6 +16507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25158,
+      "num": 143244,
+      "word": "律师向法官提供AI编造的案例",
+      "onboard_time": 1768470440,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25124,
       "num": 62383,
       "word": "刘宇宁这完全是going",
@@ -16563,8 +16603,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 23609,
+      "num": 103526,
+      "word": "美国所谓支持是要把台湾榨干",
+      "onboard_time": 1768470440,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 23407,
-      "num": 651941,
+      "num": 659344,
       "word": "9图看2025年健康中国答卷",
       "onboard_time": 1768466181,
       "rank": 2,
@@ -16849,6 +16897,14 @@
       "onboard_time": 1768315464,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18544,
+      "num": 104784,
+      "word": "巩俐后悔当年没演好秋香这个角色",
+      "onboard_time": 1768470321,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 18507,

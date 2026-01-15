@@ -1,6 +1,6 @@
 {
   "startTime": 1768408888455,
-  "endTime": 1768469847661,
+  "endTime": 1768470658445,
   "band_list": [
     {
       "raw_hot": 2603317,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 945783,
-      "num": 219587,
+      "num": 239052,
       "word": "38岁女子呕吐一夜后突发脑梗瘫痪",
       "onboard_time": 1768458979,
       "rank": 11,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 640529,
-      "num": 219899,
+      "num": 249336,
       "word": "女孩撕心裂肺追妈妈晕倒身亡",
       "onboard_time": 1768464620,
       "rank": 12,
@@ -171,6 +171,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 626994,
+      "num": 829206,
+      "word": "我们的少年时代2",
+      "onboard_time": 1768466842,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 619146,
       "num": 900334,
       "word": "美国将暂停对75个国家的所有签证",
@@ -187,16 +195,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 603679,
-      "num": 829206,
-      "word": "我们的少年时代2",
-      "onboard_time": 1768466842,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 588379,
+      "num": 588379,
+      "word": "西贝",
+      "onboard_time": 1768464861,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 560450,
-      "num": 220163,
+      "num": 227370,
       "word": "张慧雯曹骏紧急声明",
       "onboard_time": 1768462461,
       "rank": 25,
@@ -249,14 +257,6 @@
       "onboard_time": 1768459161,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 495505,
-      "num": 212836,
-      "word": "西贝",
-      "onboard_time": 1768464861,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 493562,
@@ -371,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 383213,
+      "num": 383213,
+      "word": "贾国龙说拼了整整125天",
+      "onboard_time": 1768466422,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 379567,
       "num": 319887,
       "word": "春节请1休10",
@@ -467,6 +475,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 289174,
+      "num": 289174,
+      "word": "公积金贷款利率接近历史低点",
+      "onboard_time": 1768467079,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 288908,
       "num": 288908,
       "word": "美国向英国发出严厉威胁",
@@ -499,14 +515,6 @@
       "category": "民生新闻,体育"
     },
     {
-      "raw_hot": 261299,
-      "num": 261299,
-      "word": "贾国龙说拼了整整125天",
-      "onboard_time": 1768466422,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 260556,
       "num": 260556,
       "word": "家属透露聂卫平病逝细节",
@@ -521,6 +529,14 @@
       "onboard_time": 1768462220,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253182,
+      "num": 253182,
+      "word": "罗永浩 西贝",
+      "onboard_time": 1768469360,
+      "rank": 18,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 252703,
@@ -617,14 +633,6 @@
       "onboard_time": 1768442300,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 216855,
-      "num": 216855,
-      "word": "公积金贷款利率接近历史低点",
-      "onboard_time": 1768467079,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 214519,
@@ -763,6 +771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186511,
+      "num": 186511,
+      "word": "ELLE2月刊封面",
+      "onboard_time": 1768468400,
+      "rank": 25,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 185164,
       "num": 142868,
       "word": "蒋欣说减脂期不建议看张子枫新剧",
@@ -865,14 +881,6 @@
       "onboard_time": 1768450400,
       "rank": 31,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 165465,
-      "num": 165465,
-      "word": "罗永浩 西贝",
-      "onboard_time": 1768469360,
-      "rank": 18,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 163525,
@@ -987,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151576,
+      "num": 151576,
+      "word": "何美延梁淞自己带娃1周没空吵架了",
+      "onboard_time": 1768469840,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150358,
       "num": 150358,
       "word": "陈都灵回应获奖感言出圈",
@@ -1009,14 +1025,6 @@
       "onboard_time": 1768452141,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 149126,
-      "num": 149126,
-      "word": "ELLE2月刊封面",
-      "onboard_time": 1768468400,
-      "rank": 25,
-      "category": "时尚"
     },
     {
       "raw_hot": 148657,
@@ -1475,6 +1483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112827,
+      "num": 138231,
+      "word": "上海地铁有偿代坐2人被训诫",
+      "onboard_time": 1768468940,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112610,
       "num": 111543,
       "word": "聂卫平女儿说明明已经恢复那么好了",
@@ -1577,6 +1593,14 @@
       "onboard_time": 1768456041,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107843,
+      "num": 107843,
+      "word": "死了么APP下架",
+      "onboard_time": 1768470501,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 107308,
@@ -1739,11 +1763,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98770,
+      "num": 98770,
+      "word": "孙颖莎新鲜合照",
+      "onboard_time": 1768469421,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98658,
       "num": 131672,
       "word": "专家建议报考研究型大学",
       "onboard_time": 1768466360,
       "rank": 43,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 98632,
+      "num": 98632,
+      "word": "考公一定要有强大的信念感",
+      "onboard_time": 1768467260,
+      "rank": 48,
       "category": "教育"
     },
     {
@@ -1793,14 +1833,6 @@
       "onboard_time": 1768461020,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 95531,
-      "num": 95531,
-      "word": "孙颖莎新鲜合照",
-      "onboard_time": 1768469421,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 95309,
@@ -1864,14 +1896,6 @@
       "word": "贺娇龙被质疑想当网红时突然哽塞",
       "onboard_time": 1768457300,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92700,
-      "num": 92700,
-      "word": "上海地铁有偿代坐2人被训诫",
-      "onboard_time": 1768468940,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -2019,12 +2043,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 83118,
-      "num": 83118,
-      "word": "考公一定要有强大的信念感",
-      "onboard_time": 1768467260,
+      "raw_hot": 84942,
+      "num": 84942,
+      "word": "御赐小仵作2三法司探案局",
+      "onboard_time": 1768470620,
       "rank": 48,
-      "category": "教育"
+      "category": "剧集"
     },
     {
       "raw_hot": 82858,
@@ -2515,6 +2539,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 41477,
+      "num": 164772,
+      "word": "贺娇龙用直播为家乡带货超6亿",
+      "onboard_time": 1768469241,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41082,
       "num": 65565,
       "word": "JackeyLove队危速归",
@@ -2545,6 +2577,14 @@
       "onboard_time": 1768427594,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38048,
+      "num": 105964,
+      "word": "井柏然刘雯回上海",
+      "onboard_time": 1768470080,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 37198,
@@ -2595,14 +2635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 32332,
-      "num": 164772,
-      "word": "贺娇龙用直播为家乡带货超6亿",
-      "onboard_time": 1768469241,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32193,
       "num": 65389,
       "word": "WB战胜AG",
@@ -2651,8 +2683,24 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 25158,
+      "num": 143244,
+      "word": "律师向法官提供AI编造的案例",
+      "onboard_time": 1768470440,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23609,
+      "num": 103526,
+      "word": "美国所谓支持是要把台湾榨干",
+      "onboard_time": 1768470440,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 23407,
-      "num": 651941,
+      "num": 659344,
       "word": "9图看2025年健康中国答卷",
       "onboard_time": 1768466181,
       "rank": 2,
@@ -2689,6 +2737,14 @@
       "onboard_time": 1768397062,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18544,
+      "num": 104784,
+      "word": "巩俐后悔当年没演好秋香这个角色",
+      "onboard_time": 1768470321,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 18523,
