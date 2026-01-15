@@ -1,6 +1,6 @@
 {
   "startTime": 1768408888455,
-  "endTime": 1768453207318,
+  "endTime": 1768455272213,
   "band_list": [
     {
       "raw_hot": 2603317,
@@ -91,7 +91,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 673547,
+      "raw_hot": 722570,
+      "num": 205226,
+      "word": "QQ回应沈腾空间被盗",
+      "onboard_time": 1768451721,
+      "rank": 15,
+      "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 721893,
       "num": 597110,
       "word": "代旭我被刘亦菲握了手就不洗了",
       "onboard_time": 1768450279,
@@ -307,14 +315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 258687,
-      "num": 205226,
-      "word": "QQ回应沈腾空间被盗",
-      "onboard_time": 1768451721,
-      "rank": 15,
-      "category": "艺人,互联网"
-    },
-    {
       "raw_hot": 252078,
       "num": 100601,
       "word": "90后医生强奸2幼女父亲曾为其辩护",
@@ -336,6 +336,14 @@
       "word": "当街抢小孩女子已被警方带走",
       "onboard_time": 1768405041,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 241717,
+      "num": 397306,
+      "word": "贺娇龙从服务员到全国网红干部",
+      "onboard_time": 1768449501,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -467,6 +475,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 191382,
+      "num": 146569,
+      "word": "香港文体旅局局长发文感谢周深",
+      "onboard_time": 1768454360,
+      "rank": 20,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 191060,
       "num": 191060,
       "word": "徐冬冬香港受访曝婚礼细节",
@@ -523,20 +539,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173867,
+      "num": 197711,
+      "word": "沙特又宣布发现黄金资源",
+      "onboard_time": 1768452622,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 172806,
       "num": 157960,
       "word": "特朗普称台湾问题由中方决定",
       "onboard_time": 1768439002,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 171731,
-      "num": 171731,
-      "word": "贺娇龙从服务员到全国网红干部",
-      "onboard_time": 1768449501,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171580,
@@ -601,6 +617,14 @@
       "onboard_time": 1768444339,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159641,
+      "num": 140918,
+      "word": "赵丽颖黄晓明这段是现挂",
+      "onboard_time": 1768454119,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 159436,
@@ -803,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123428,
+      "num": 155724,
+      "word": "贪官千万元别墅没装修完就被抓",
+      "onboard_time": 1768453461,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 121615,
       "num": 121615,
       "word": "谁请动了彭于晏刘青云再演剧",
@@ -827,6 +859,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120476,
+      "num": 140971,
+      "word": "陈都灵回应获奖感言出圈",
+      "onboard_time": 1768452442,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 120258,
+      "num": 116403,
+      "word": "蒲熠星最强大脑倒计时视频",
+      "onboard_time": 1768454600,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118995,
       "num": 118995,
       "word": "李玉刚缅怀贺娇龙",
@@ -841,6 +889,14 @@
       "onboard_time": 1768451000,
       "rank": 48,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 117768,
+      "num": 152451,
+      "word": "迅雷起诉前CEO贪腐",
+      "onboard_time": 1768454242,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 117048,
@@ -859,6 +915,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 115664,
+      "num": 115664,
+      "word": "伊朗重新开放领空",
+      "onboard_time": 1768453640,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 114289,
       "num": 114289,
       "word": "聂卫平曾谈中国围棋的含义",
@@ -875,12 +939,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 113082,
-      "num": 140971,
-      "word": "陈都灵回应获奖感言出圈",
-      "onboard_time": 1768452442,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 112929,
+      "num": 112929,
+      "word": "林允替张凌赫挡刀路透",
+      "onboard_time": 1768453401,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 112610,
@@ -1003,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101762,
+      "num": 108660,
+      "word": "公司年会抽到了最没用的东西",
+      "onboard_time": 1768454540,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100666,
       "num": 100666,
       "word": "龚俊因左眼下新长了颗痣而开心",
@@ -1025,6 +1097,14 @@
       "onboard_time": 1768438701,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99757,
+      "num": 142848,
+      "word": "御赐小仵作2",
+      "onboard_time": 1768453820,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 99577,
@@ -1067,6 +1147,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94170,
+      "num": 106010,
+      "word": "女子7万买金镯一捏就变形",
+      "onboard_time": 1768454779,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92242,
+      "num": 92242,
+      "word": "轧戏电梯3.0",
+      "onboard_time": 1768455201,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90128,
       "num": 90128,
       "word": "阿尔瓦塞特3比2皇马",
@@ -1089,6 +1185,14 @@
       "onboard_time": 1768440082,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88711,
+      "num": 88711,
+      "word": "林高远回应或将与樊振东会师决赛",
+      "onboard_time": 1768454660,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 87706,
@@ -1291,6 +1395,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 57229,
+      "num": 148350,
+      "word": "原神决战博士",
+      "onboard_time": 1768453461,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 56338,
       "num": 56338,
       "word": "鸡蛋配不上番茄了吗",
@@ -1451,6 +1563,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 42165,
+      "num": 151629,
+      "word": "千问AI打电话订餐厅",
+      "onboard_time": 1768453281,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 41082,
       "num": 65565,
       "word": "JackeyLove队危速归",
@@ -1499,6 +1619,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 33273,
+      "num": 199899,
+      "word": "李娜邀你共赴新一年澳网之约",
+      "onboard_time": 1768451660,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32193,
       "num": 65389,
       "word": "WB战胜AG",
@@ -1515,28 +1643,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 30255,
-      "num": 199899,
-      "word": "李娜邀你共赴新一年澳网之约",
-      "onboard_time": 1768451660,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 25683,
-      "num": 197711,
-      "word": "沙特又宣布发现黄金资源",
-      "onboard_time": 1768452622,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 25606,
       "num": 304589,
       "word": "美对特定半导体等加征25%关税",
       "onboard_time": 1768442360,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 25433,
+      "num": 105258,
+      "word": "一场控诉隐形加班官司的胜利",
+      "onboard_time": 1768455080,
+      "rank": 39,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 23836,
