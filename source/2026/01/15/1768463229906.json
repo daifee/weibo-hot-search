@@ -1,0 +1,410 @@
+{
+  "runTime": 1768463229906,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 608150,
+        "num": 1097304,
+        "word": "西贝将关闭102家门店",
+        "onboard_time": 1768461320,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 514268,
+        "num": 813316,
+        "word": "官方通报产检正常娃出生却先天畸形",
+        "onboard_time": 1768460660,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 10184,
+        "num": 624524,
+        "word": "2025中国好物全球广受欢迎",
+        "onboard_time": 1768447941,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465780,
+        "num": 465780,
+        "word": "我们的少年时代2主演TF四代",
+        "onboard_time": 1768461320,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 387170,
+        "num": 387170,
+        "word": "降息",
+        "onboard_time": 1768462581,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 451807,
+        "num": 369182,
+        "word": "肖战辛苦一年倒欠半部",
+        "onboard_time": 1768459041,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291455,
+        "num": 291455,
+        "word": "女子7万买金镯一捏就变形",
+        "onboard_time": 1768454779,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224101,
+        "num": 224101,
+        "word": "沙特又宣布发现黄金资源",
+        "onboard_time": 1768452622,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 217915,
+        "num": 217915,
+        "word": "美国向英国发出严厉威胁",
+        "onboard_time": 1768456700,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193259,
+        "num": 193259,
+        "word": "感觉家里的不动产动了一下",
+        "onboard_time": 1768448780,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 895255,
+        "num": 190047,
+        "word": "38岁女子呕吐一夜后突发脑梗瘫痪",
+        "onboard_time": 1768458979,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 689072,
+        "num": 186055,
+        "word": "张凌赫官宣宝格丽",
+        "onboard_time": 1768461561,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 649020,
+        "num": 184051,
+        "word": "李施嬅车崇健分手",
+        "onboard_time": 1768458921,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180972,
+        "num": 180972,
+        "word": "贺娇龙遗体已回到昭苏",
+        "onboard_time": 1768447701,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511192,
+        "num": 177782,
+        "word": "张小斐 不用强调那么多次不送我",
+        "onboard_time": 1768459161,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296959,
+        "num": 168426,
+        "word": "QQ回应沈腾空间被盗",
+        "onboard_time": 1768451721,
+        "rank": 15,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 151646,
+        "num": 151646,
+        "word": "日本男子嫌年终奖发得少把老板杀了",
+        "onboard_time": 1768462941,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 237099,
+        "num": 149670,
+        "word": "张杰一件羽绒服穿了快10年",
+        "onboard_time": 1768462220,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234618,
+        "num": 149573,
+        "word": "李施嬅钢琴弹唱车崇健爆哭",
+        "onboard_time": 1768459459,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144208,
+        "num": 144208,
+        "word": "美国人开始认同中式生活",
+        "onboard_time": 1768449020,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 311870,
+        "num": 143424,
+        "word": "女子被判向出轨丈夫道歉15天",
+        "onboard_time": 1768446318,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196497,
+        "num": 143012,
+        "word": "肖指导儿子进军娱乐圈了",
+        "onboard_time": 1768457300,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171698,
+        "num": 142868,
+        "word": "蒋欣说减脂期不建议看张子枫新剧",
+        "onboard_time": 1768461140,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142433,
+        "num": 142433,
+        "word": "聂卫平逝世",
+        "onboard_time": 1768435160,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164401,
+        "num": 141863,
+        "word": "歌手鞠婧祎熹妃回宫了",
+        "onboard_time": 1768462762,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161954,
+        "num": 140245,
+        "word": "张慧雯曹骏紧急声明",
+        "onboard_time": 1768462461,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133134,
+        "num": 133134,
+        "word": "当年轻人掌握了采买权",
+        "onboard_time": 1768462521,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147563,
+        "num": 132660,
+        "word": "何美延说已报名了奇葩说",
+        "onboard_time": 1768461679,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144962,
+        "num": 130938,
+        "word": "北京环球影城偶遇龚俊",
+        "onboard_time": 1768456879,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124719,
+        "num": 124719,
+        "word": "白天的脸vs晚上的脸",
+        "onboard_time": 1768458200,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136241,
+        "num": 123906,
+        "word": "汪苏泷 我又不是周兴哲",
+        "onboard_time": 1768462340,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126729,
+        "num": 123869,
+        "word": "沈腾你本可以体面老去的",
+        "onboard_time": 1768461620,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114367,
+        "num": 114367,
+        "word": "拔智齿会瘦的真正原因",
+        "onboard_time": 1768459700,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113953,
+        "num": 113953,
+        "word": "广东省考成绩",
+        "onboard_time": 1768458020,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 113725,
+        "num": 113725,
+        "word": "小猫上厕所还要人扶着",
+        "onboard_time": 1768462401,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111773,
+        "num": 111773,
+        "word": "短剧已经卷到3秒一集了",
+        "onboard_time": 1768451721,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111728,
+        "num": 111728,
+        "word": "余承恩穿衣baby脱衣daddy",
+        "onboard_time": 1768460360,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111422,
+        "num": 111422,
+        "word": "巨火但你很反感的梗",
+        "onboard_time": 1768461679,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28097,
+        "num": 105864,
+        "word": "肖战没见过的得闲谨制开机照",
+        "onboard_time": 1768462879,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101405,
+        "num": 101405,
+        "word": "23岁女孩疑因被逼婚喝农药轻生",
+        "onboard_time": 1768460239,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103284,
+        "num": 100490,
+        "word": "小城大事口碑",
+        "onboard_time": 1768460660,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96943,
+        "num": 96943,
+        "word": "得闲谨制",
+        "onboard_time": 1768463059,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95309,
+        "num": 95309,
+        "word": "国新办新闻发布会",
+        "onboard_time": 1768462941,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96377,
+        "num": 94424,
+        "word": "微博之夜",
+        "onboard_time": 1768451300,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92136,
+        "num": 92136,
+        "word": "一草莓园黑草莓售价百元1斤",
+        "onboard_time": 1768461980,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90864,
+        "num": 90864,
+        "word": "猫 别害怕我妈妈人很好的",
+        "onboard_time": 1768463121,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31539,
+        "num": 90850,
+        "word": "换购住房继续享受退税优惠",
+        "onboard_time": 1768448300,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90849,
+        "num": 90849,
+        "word": "李在明支持率超61%",
+        "onboard_time": 1768461020,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88935,
+        "num": 88935,
+        "word": "赵丽颖政农商三部曲",
+        "onboard_time": 1768460961,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 78522,
+        "num": 88716,
+        "word": "沪指守住4100点",
+        "onboard_time": 1768462401,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调建设良好家风的重要性#"
+    }
+  }
+}
