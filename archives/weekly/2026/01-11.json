@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768503751864,
+  "endTime": 1768505523575,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -2035,6 +2035,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 445463,
+      "num": 77441,
+      "word": "花海",
+      "onboard_time": 1768503015,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 445340,
       "num": 445340,
       "word": "家属回应母亲躲藏致女儿心源性休克身亡",
@@ -2561,14 +2569,6 @@
       "onboard_time": 1768136122,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 379675,
-      "num": 62466,
-      "word": "花海",
-      "onboard_time": 1768503015,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 379567,
