@@ -1,6 +1,6 @@
 {
   "startTime": 1768495443021,
-  "endTime": 1768509310776,
+  "endTime": 1768510132328,
   "band_list": [
     {
       "raw_hot": 848134,
@@ -499,6 +499,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 23448,
+      "num": 23448,
+      "word": "杜海涛回应交通银行口误事件",
+      "onboard_time": 1768506973,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23184,
       "num": 61291,
       "word": "客运段回应老人掐女孩脖子吐口水",
@@ -507,11 +515,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19983,
-      "num": 19983,
-      "word": "杜海涛回应交通银行口误事件",
-      "onboard_time": 1768506973,
-      "rank": 24,
+      "raw_hot": 20530,
+      "num": 17185,
+      "word": "西安偶遇孙坚袁姗姗",
+      "onboard_time": 1768507273,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -523,20 +531,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 16825,
-      "num": 16825,
-      "word": "西安偶遇孙坚袁姗姗",
-      "onboard_time": 1768507273,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 12088,
       "num": 15457,
       "word": "黄晓明哭戏感染力",
       "onboard_time": 1768508054,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 10885,
+      "num": 15512,
+      "word": "轻生女子母亲称男方是远亲知根知底",
+      "onboard_time": 1768509553,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9971,
