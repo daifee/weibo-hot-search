@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768502821677,
+  "endTime": 1768503751864,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -2561,6 +2561,14 @@
       "onboard_time": 1768136122,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 379675,
+      "num": 62466,
+      "word": "花海",
+      "onboard_time": 1768503015,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 379567,
@@ -16835,6 +16843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 40831,
+      "num": 43773,
+      "word": "代旭的耳机戴出了耳钉的感觉",
+      "onboard_time": 1768499236,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40524,
       "num": 73182,
       "word": "美国一男子枪杀6人",
@@ -17265,14 +17281,6 @@
       "onboard_time": 1768451660,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 33195,
-      "num": 43773,
-      "word": "代旭的耳机戴出了耳钉的感觉",
-      "onboard_time": 1768499236,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 33174,
