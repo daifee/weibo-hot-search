@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/11 00:34:00 ~ 2026/01/15 23:54:14
+本榜单时间：2026/01/11 00:34:00 ~ 2026/01/16 00:44:03
 </p>
 </blockquote>
 <p>
@@ -1371,6 +1371,12 @@ iPhone4需求激增近1000%（热度：506886）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%B1%AF%E9%97%A8%23" target="weibo">
+香港屯门（热度：473793）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%90%E5%8A%A8%E5%91%98%E7%8E%8B%E6%9F%90%E4%B8%BE%E6%8A%A5%E8%8C%83%E6%9F%90%E6%9F%90%E6%83%85%E5%86%B5%E5%9F%BA%E6%9C%AC%E5%B1%9E%E5%AE%9E%23" target="weibo">
 运动员王某举报范某某情况基本属实（热度：473457）
 </a>
@@ -2309,12 +2315,6 @@ AI登顶LOL韩服（热度：378599）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E4%B8%AD%E5%B7%B4%E5%BB%BA%E4%BA%A4%E4%B8%83%E5%8D%81%E4%BA%94%E8%BD%BD%E5%90%88%E7%85%A7%23" target="weibo">
 张艺兴中巴建交七十五载合照（热度：330689）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%B1%AF%E9%97%A8%23" target="weibo">
-香港屯门（热度：329916）
 </a>
 </li>
 
@@ -3593,6 +3593,12 @@ A股终结17连阳（热度：221773）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E%E4%B9%A6%E7%B2%89%23" target="weibo">
 将门毒后书粉（热度：217601）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8C%97%E4%B8%80%E7%94%B7%E5%AD%90%E6%8C%96%E5%87%BA%E9%9D%92%E9%93%9C%E5%8F%A4%E5%89%91%E4%B8%8A%E4%BA%A4%E5%8D%9A%E7%89%A9%E9%A6%86%23" target="weibo">
+湖北一男子挖出青铜古剑上交博物馆（热度：217422）
 </a>
 </li>
 
@@ -6099,6 +6105,12 @@ A股为何这么猛（热度：142020）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E6%9D%80%E7%8C%AA%E5%AE%B4%E8%B7%9F%E9%A3%8E%E5%91%86%E5%91%86%E7%BF%BB%E8%BD%A6%23" target="weibo">
+江西杀猪宴跟风呆呆翻车（热度：140726）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E5%B0%8F%E8%95%99%E6%9B%BE%E4%BB%A5%E4%B8%A4%E7%A5%A8%E4%B9%8B%E5%B7%AE%E8%BE%93%E7%BB%99%E7%AB%A0%E5%AD%90%E6%80%A1%23" target="weibo">
 章小蕙曾以两票之差输给章子怡（热度：140622）
 </a>
@@ -7011,6 +7023,12 @@ U23男足战胜澳大利亚（热度：126423）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%89%E8%8C%97%E8%8C%B6%E9%AA%A8%23" target="weibo">
+玉茗茶骨（热度：124517）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%BF%E5%8F%B8%E9%83%8E%20%E9%BB%84%E7%89%9B%E5%8F%B7%23" target="weibo">
 寿司郎 黄牛号（热度：124503）
 </a>
@@ -7595,6 +7613,12 @@ AI沙皇也是平A为主（热度：117458）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E8%B5%B7%E5%BA%8A%E4%BA%86%E5%B0%8F%E6%BE%882%E6%AC%A1%E5%90%A6%E8%AE%A4%23" target="weibo">
 网红起床了小澈2次否认（热度：115878）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E6%8F%90%E5%89%8D%E4%B8%80%E4%B8%AA%E6%9C%88%E8%83%8C%E8%AF%8D%E9%82%A3%E5%9C%BA%E6%88%8F%E6%92%AD%E4%BA%86%23" target="weibo">
+黄晓明提前一个月背词那场戏播了（热度：115857）
 </a>
 </li>
 
@@ -8513,12 +8537,6 @@ WTT发布中国乒协竞聘结果（热度：108942）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%8E%E6%B8%A9%E7%83%AB%E4%BC%A4%E5%90%8E%E4%B8%8D%E8%A6%81%E5%86%B0%E6%95%B7%23" target="weibo">
 低温烫伤后不要冰敷（热度：106207）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%89%E8%8C%97%E8%8C%B6%E9%AA%A8%23" target="weibo">
-玉茗茶骨（热度：106098）
 </a>
 </li>
 
@@ -12135,6 +12153,12 @@ sakee asen（热度：58695）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%BD%91%E7%BA%A2%E9%A4%90%E5%8E%85%E6%9C%8D%E5%8A%A1%E5%91%98%E8%BE%B1%E9%AA%82%E8%AF%85%E5%92%92%E9%A1%BE%E5%AE%A2%23" target="weibo">
+上海网红餐厅服务员辱骂诅咒顾客（热度：56287）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2318%E5%B2%81%E7%94%B7%E7%94%9F%E6%8A%A2%E5%8A%AB2600%E5%85%83%E8%8E%B7%E5%88%9111%E5%B9%B4%23" target="weibo">
 18岁男生抢劫2600元获刑11年（热度：56061）
 </a>
@@ -12197,6 +12221,12 @@ sakee asen（热度：58695）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%A9%E9%AB%98%E6%95%88%E5%8A%9E%E6%88%90%E4%B8%80%E4%BB%B6%E4%BA%8B%E6%88%90%E4%B8%BA%E5%AF%BB%E5%B8%B8%E4%BA%8B%23" target="weibo">
 让高效办成一件事成为寻常事（热度：53626）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B4%BE%E5%87%BA%E6%89%80%E5%9B%9E%E5%BA%94%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%81%B7%E5%A4%96%E5%8D%96%E6%8B%98%E7%95%995%E6%97%A5%23" target="weibo">
+派出所回应大学生偷外卖拘留5日（热度：52932）
 </a>
 </li>
 
@@ -12317,12 +12347,6 @@ sakee asen（热度：58695）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B9%B8%E5%90%8C2%E6%AF%944%E6%9C%B1%E9%9B%A8%E7%8E%B2%23" target="weibo">
 陈幸同2比4朱雨玲（热度：49742）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%BD%91%E7%BA%A2%E9%A4%90%E5%8E%85%E6%9C%8D%E5%8A%A1%E5%91%98%E8%BE%B1%E9%AA%82%E8%AF%85%E5%92%92%E9%A1%BE%E5%AE%A2%23" target="weibo">
-上海网红餐厅服务员辱骂诅咒顾客（热度：49681）
 </a>
 </li>
 
@@ -12887,6 +12911,12 @@ Breathe说RNG退出可惜了（热度：36758）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E9%97%B4%E6%88%90%E7%83%9F%E8%8A%B1%E7%88%86%E7%AB%B9%E9%BB%91%E5%B8%82%23" target="weibo">
 直播间成烟花爆竹黑市（热度：33595）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E9%98%B2%E9%95%BF%E8%87%AA%E6%9B%9D%E4%B9%8C%E5%86%9B%E5%B7%B2%E6%9C%89%E7%BA%A620%E4%B8%87%E9%80%83%E5%85%B5%23" target="weibo">
+乌防长自曝乌军已有约20万逃兵（热度：33455）
 </a>
 </li>
 

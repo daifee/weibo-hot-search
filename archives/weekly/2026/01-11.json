@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768492454496,
+  "endTime": 1768495443021,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -1811,6 +1811,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 473793,
+      "num": 193734,
+      "word": "香港屯门",
+      "onboard_time": 1768490722,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 473457,
       "num": 916030,
       "word": "运动员王某举报范某某情况基本属实",
@@ -3065,14 +3073,6 @@
       "onboard_time": 1768305682,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 329916,
-      "num": 193734,
-      "word": "香港屯门",
-      "onboard_time": 1768490722,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 329697,
@@ -4777,6 +4777,14 @@
       "onboard_time": 1768486522,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217422,
+      "num": 560765,
+      "word": "湖北一男子挖出青铜古剑上交博物馆",
+      "onboard_time": 1768492938,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217405,
@@ -8115,6 +8123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140726,
+      "num": 140726,
+      "word": "江西杀猪宴跟风呆呆翻车",
+      "onboard_time": 1768494619,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140622,
       "num": 140622,
       "word": "章小蕙曾以两票之差输给章子怡",
@@ -9331,6 +9347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124517,
+      "num": 124517,
+      "word": "玉茗茶骨",
+      "onboard_time": 1768136001,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124503,
       "num": 124503,
       "word": "寿司郎 黄牛号",
@@ -10113,6 +10137,14 @@
       "onboard_time": 1768136362,
       "rank": 42,
       "category": "网红"
+    },
+    {
+      "raw_hot": 115857,
+      "num": 115857,
+      "word": "黄晓明提前一个月背词那场戏播了",
+      "onboard_time": 1768494439,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 115846,
@@ -11337,14 +11369,6 @@
       "onboard_time": 1768195820,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 106098,
-      "num": 106098,
-      "word": "玉茗茶骨",
-      "onboard_time": 1768136001,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 105915,
@@ -15252,7 +15276,7 @@
     },
     {
       "raw_hot": 72966,
-      "num": 72966,
+      "num": 114669,
       "word": "这个阵容怎么凑齐的",
       "onboard_time": 1768489461,
       "rank": 48,
@@ -16163,6 +16187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56287,
+      "num": 145552,
+      "word": "上海网红餐厅服务员辱骂诅咒顾客",
+      "onboard_time": 1768491860,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56061,
       "num": 129493,
       "word": "18岁男生抢劫2600元获刑11年",
@@ -16249,6 +16281,14 @@
       "onboard_time": 1768360940,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 52932,
+      "num": 115006,
+      "word": "派出所回应大学生偷外卖拘留5日",
+      "onboard_time": 1768494138,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52722,
@@ -16409,14 +16449,6 @@
       "onboard_time": 1768157474,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 49681,
-      "num": 145552,
-      "word": "上海网红餐厅服务员辱骂诅咒顾客",
-      "onboard_time": 1768491860,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 49482,
@@ -17169,6 +17201,14 @@
       "onboard_time": 1768136001,
       "rank": 32,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 33455,
+      "num": 115447,
+      "word": "乌防长自曝乌军已有约20万逃兵",
+      "onboard_time": 1768489582,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33437,
