@@ -1,0 +1,410 @@
+{
+  "runTime": 1768491282130,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 590047,
+        "num": 1094407,
+        "word": "将门毒后",
+        "onboard_time": 1768477940,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327006,
+        "num": 791731,
+        "word": "101岁奶奶每天熬夜追剧到凌晨2点",
+        "onboard_time": 1768482140,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54053,
+        "num": 634644,
+        "word": "地表超强材料已实现量产",
+        "onboard_time": 1768484060,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390680,
+        "num": 390680,
+        "word": "西贝冷冻2年的西蓝花系误解",
+        "onboard_time": 1768488861,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317398,
+        "num": 317398,
+        "word": "轧戏 图书馆30秒",
+        "onboard_time": 1768481900,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 837426,
+        "num": 316881,
+        "word": "7岁嫁人15岁生子短剧引众怒",
+        "onboard_time": 1768489043,
+        "rank": 5,
+        "category": "民生新闻,剧集"
+      },
+      {
+        "raw_hot": 425118,
+        "num": 312642,
+        "word": "轧戏王光明出轨",
+        "onboard_time": 1768479860,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177714,
+        "num": 309846,
+        "word": "国家电网计划投资4万亿元",
+        "onboard_time": 1768480820,
+        "rank": 7,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 145487,
+        "num": 307792,
+        "word": "车厘子测量卡 缩水",
+        "onboard_time": 1768482561,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107400,
+        "num": 306346,
+        "word": "逆战未来",
+        "onboard_time": 1768486701,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2047463,
+        "num": 302605,
+        "word": "花海房管",
+        "onboard_time": 1768480820,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 798459,
+        "num": 300386,
+        "word": "女网红在飞机上突然焦虑症发作",
+        "onboard_time": 1768485141,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 299644,
+        "num": 299644,
+        "word": "鬼鬼吐槽和艺人做朋友很累",
+        "onboard_time": 1768479920,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274274,
+        "num": 274274,
+        "word": "夏迎春下房管",
+        "onboard_time": 1768480880,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 260445,
+        "num": 260445,
+        "word": "我们的少年时代2",
+        "onboard_time": 1768466842,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255475,
+        "num": 255475,
+        "word": "贾国龙朋友圈称尽力了",
+        "onboard_time": 1768481541,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204108,
+        "num": 204108,
+        "word": "陈奕恒雀斑妆",
+        "onboard_time": 1768490662,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203779,
+        "num": 203779,
+        "word": "骄阳似我15年后续上了",
+        "onboard_time": 1768479139,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113370,
+        "num": 202502,
+        "word": "商家回应自家衣服没剪吊牌在漠河",
+        "onboard_time": 1768482020,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153082,
+        "num": 200420,
+        "word": "轧戏",
+        "onboard_time": 1768477339,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99355,
+        "num": 197893,
+        "word": "中国冬奥会史上首枚金牌",
+        "onboard_time": 1768488861,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1163428,
+        "num": 197125,
+        "word": "金价彻底杀疯了",
+        "onboard_time": 1768477642,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 268498,
+        "num": 195405,
+        "word": "金价",
+        "onboard_time": 1768481960,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 193734,
+        "num": 193734,
+        "word": "香港屯门",
+        "onboard_time": 1768490722,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165172,
+        "num": 165172,
+        "word": "特朗普直播打瞌睡被小女孩发现",
+        "onboard_time": 1768487602,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140204,
+        "num": 140204,
+        "word": "宋威龙赵今麦合唱",
+        "onboard_time": 1768483460,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134900,
+        "num": 134900,
+        "word": "将门毒后制作班底",
+        "onboard_time": 1768486462,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100482,
+        "num": 100482,
+        "word": "剑来第六集OST",
+        "onboard_time": 1768487780,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 121203,
+        "num": 100395,
+        "word": "王子奇把苏晓彤一字夹摘了",
+        "onboard_time": 1768488141,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81864,
+        "num": 100065,
+        "word": "让一个家越来越好的15条建议",
+        "onboard_time": 1768490961,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114753,
+        "num": 99705,
+        "word": "杨幂赵丽颖活动生图",
+        "onboard_time": 1768481720,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91544,
+        "num": 99102,
+        "word": "私生活这么干净为什么作息这么乱",
+        "onboard_time": 1768480581,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103111,
+        "num": 98915,
+        "word": "周杰伦澳网国籍标示中国",
+        "onboard_time": 1768472241,
+        "rank": 32,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 98746,
+        "num": 98746,
+        "word": "肖战2026秋冬大秀",
+        "onboard_time": 1768487482,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 82249,
+        "num": 97982,
+        "word": "公安部A级通缉犯在狱中被揪出",
+        "onboard_time": 1768474639,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97879,
+        "num": 97879,
+        "word": "周也和姐姐 大明星和设计师",
+        "onboard_time": 1768481720,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93524,
+        "num": 93524,
+        "word": "天地剑心",
+        "onboard_time": 1768482920,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79609,
+        "num": 92578,
+        "word": "香港一商场警察开枪制服持刀嫌犯",
+        "onboard_time": 1768491201,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92236,
+        "num": 92236,
+        "word": "李幼斌 没有人能拒绝垃圾食品",
+        "onboard_time": 1768487482,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61146,
+        "num": 91457,
+        "word": "鸭货店老板和城管争论后脑出血死亡",
+        "onboard_time": 1768490541,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91173,
+        "num": 91173,
+        "word": "李昊报销粉丝见面会门票",
+        "onboard_time": 1768487901,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 76986,
+        "num": 89887,
+        "word": "广东男篮40分惨败上海男篮",
+        "onboard_time": 1768489822,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89773,
+        "num": 89773,
+        "word": "丁程鑫室外被冻成孙子了",
+        "onboard_time": 1768487122,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88021,
+        "num": 88021,
+        "word": "陈坤董洁牵手梦回金粉世家",
+        "onboard_time": 1768479201,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74779,
+        "num": 82552,
+        "word": "无言的马超",
+        "onboard_time": 1768487661,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81449,
+        "num": 81449,
+        "word": "王子奇智性恋天菜",
+        "onboard_time": 1768490121,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79106,
+        "num": 79106,
+        "word": "张慧雯曹骏紧急声明",
+        "onboard_time": 1768462461,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73903,
+        "num": 73903,
+        "word": "樊振东萌混过关笑就完事",
+        "onboard_time": 1768489942,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72966,
+        "num": 72966,
+        "word": "这个阵容怎么凑齐的",
+        "onboard_time": 1768489461,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72512,
+        "num": 72512,
+        "word": "于正说芒果从不参考外部数据",
+        "onboard_time": 1768490602,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的治权之喻#"
+    }
+  }
+}

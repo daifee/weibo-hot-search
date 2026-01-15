@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768488642139,
+  "endTime": 1768491282130,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -209,6 +209,14 @@
       "onboard_time": 1767686601,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 2047463,
+      "num": 302605,
+      "word": "花海房管",
+      "onboard_time": 1768480820,
+      "rank": 10,
+      "category": "电竞"
     },
     {
       "raw_hot": 2040173,
@@ -1363,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 837426,
+      "num": 316881,
+      "word": "7岁嫁人15岁生子短剧引众怒",
+      "onboard_time": 1768489043,
+      "rank": 5,
+      "category": "民生新闻,剧集"
+    },
+    {
       "raw_hot": 835368,
       "num": 204106,
       "word": "颜安直播",
@@ -1537,6 +1553,14 @@
       "onboard_time": 1768108641,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 798459,
+      "num": 300386,
+      "word": "女网红在飞机上突然焦虑症发作",
+      "onboard_time": 1768485141,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 794730,
@@ -2033,14 +2057,6 @@
       "onboard_time": 1767700522,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 693753,
-      "num": 227967,
-      "word": "花海房管",
-      "onboard_time": 1768480820,
-      "rank": 10,
-      "category": "电竞"
     },
     {
       "raw_hot": 689093,
@@ -2595,14 +2611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 608209,
-      "num": 189528,
-      "word": "女网红在飞机上突然焦虑症发作",
-      "onboard_time": 1768485141,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 608150,
       "num": 1097304,
       "word": "西贝将关闭102家门店",
@@ -2740,7 +2748,7 @@
     },
     {
       "raw_hot": 593753,
-      "num": 227932,
+      "num": 299644,
       "word": "鬼鬼吐槽和艺人做朋友很累",
       "onboard_time": 1768479920,
       "rank": 21,
@@ -3652,7 +3660,7 @@
     },
     {
       "raw_hot": 522400,
-      "num": 227822,
+      "num": 274274,
       "word": "夏迎春下房管",
       "onboard_time": 1768480880,
       "rank": 11,
@@ -6176,6 +6184,14 @@
       "word": "我不是药神原型陆勇重返印度",
       "onboard_time": 1768048101,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 390680,
+      "num": 390680,
+      "word": "西贝冷冻2年的西蓝花系误解",
+      "onboard_time": 1768488861,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -10563,6 +10579,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 255475,
+      "num": 255475,
+      "word": "贾国龙朋友圈称尽力了",
+      "onboard_time": 1768481541,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 255438,
       "num": 258704,
       "word": "奔跑吧节目组还没联系邵子恒吗",
@@ -12883,14 +12907,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 209509,
-      "num": 187826,
-      "word": "贾国龙朋友圈称尽力了",
-      "onboard_time": 1768481541,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 209358,
       "num": 209358,
       "word": "王鹤棣DPARTY演唱会",
@@ -13353,6 +13369,14 @@
       "onboard_time": 1768398200,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 204108,
+      "num": 204108,
+      "word": "陈奕恒雀斑妆",
+      "onboard_time": 1768490662,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 204105,
@@ -14273,6 +14297,14 @@
       "onboard_time": 1767521243,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193734,
+      "num": 193734,
+      "word": "香港屯门",
+      "onboard_time": 1768490722,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193708,
@@ -17531,6 +17563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165172,
+      "num": 165172,
+      "word": "特朗普直播打瞌睡被小女孩发现",
+      "onboard_time": 1768487602,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 165029,
       "num": 165029,
       "word": "Mac跑步",
@@ -19588,7 +19628,7 @@
     },
     {
       "raw_hot": 149707,
-      "num": 149707,
+      "num": 306346,
       "word": "逆战未来",
       "onboard_time": 1768307062,
       "rank": 47,
@@ -22699,14 +22739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133250,
-      "num": 159322,
-      "word": "特朗普直播打瞌睡被小女孩发现",
-      "onboard_time": 1768487602,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 133227,
       "num": 1096392,
       "word": "周冠宇 凯迪拉克",
@@ -25321,6 +25353,14 @@
       "onboard_time": 1767530002,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 121203,
+      "num": 106685,
+      "word": "王子奇把苏晓彤一字夹摘了",
+      "onboard_time": 1768488141,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 121194,
@@ -31227,6 +31267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100482,
+      "num": 100482,
+      "word": "剑来第六集OST",
+      "onboard_time": 1768487780,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 100479,
       "num": 100479,
       "word": "毕业证正在天上失望地看着你",
@@ -31595,12 +31643,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 99335,
-      "num": 99335,
-      "word": "剑来第六集OST",
-      "onboard_time": 1768487780,
-      "rank": 45,
-      "category": "动漫"
+      "raw_hot": 99355,
+      "num": 197893,
+      "word": "中国冬奥会史上首枚金牌",
+      "onboard_time": 1768488861,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 99330,
@@ -34257,6 +34305,14 @@
       "onboard_time": 1768032560,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 92236,
+      "num": 106730,
+      "word": "李幼斌 没有人能拒绝垃圾食品",
+      "onboard_time": 1768487482,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 92234,
@@ -37827,6 +37883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81864,
+      "num": 100065,
+      "word": "让一个家越来越好的15条建议",
+      "onboard_time": 1768490961,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 81851,
       "num": 81851,
       "word": "笑影退役",
@@ -37945,6 +38009,14 @@
       "onboard_time": 1768282760,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 81449,
+      "num": 81449,
+      "word": "王子奇智性恋天菜",
+      "onboard_time": 1768490121,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 81427,
@@ -38545,6 +38617,14 @@
       "onboard_time": 1768221080,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 79609,
+      "num": 92578,
+      "word": "香港一商场警察开枪制服持刀嫌犯",
+      "onboard_time": 1768491201,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79557,
@@ -39249,6 +39329,14 @@
       "onboard_time": 1767717318,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76986,
+      "num": 89887,
+      "word": "广东男篮40分惨败上海男篮",
+      "onboard_time": 1768489822,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 76969,
@@ -40027,6 +40115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73903,
+      "num": 73903,
+      "word": "樊振东萌混过关笑就完事",
+      "onboard_time": 1768489942,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73876,
       "num": 73876,
       "word": "居然有人能把我的感受完美描述出来",
@@ -40179,6 +40275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72966,
+      "num": 72966,
+      "word": "这个阵容怎么凑齐的",
+      "onboard_time": 1768489461,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72950,
       "num": 115483,
       "word": "一个执行力非常恐怖的人",
@@ -40265,6 +40369,14 @@
       "onboard_time": 1767784763,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 72512,
+      "num": 72512,
+      "word": "于正说芒果从不参考外部数据",
+      "onboard_time": 1768490602,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 72498,
@@ -41595,14 +41707,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 65404,
-      "num": 106730,
-      "word": "李幼斌 没有人能拒绝垃圾食品",
-      "onboard_time": 1768487482,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 65376,
       "num": 1092000,
       "word": "二十米好像走了一辈子",
@@ -42489,6 +42593,14 @@
       "onboard_time": 1768099340,
       "rank": 46,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 61146,
+      "num": 91457,
+      "word": "鸭货店老板和城管争论后脑出血死亡",
+      "onboard_time": 1768490541,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61120,
@@ -47185,14 +47297,6 @@
       "onboard_time": 1767351140,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 31196,
-      "num": 106685,
-      "word": "王子奇把苏晓彤一字夹摘了",
-      "onboard_time": 1768488141,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 31154,

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768488642139,
+  "endTime": 1768491282130,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -209,6 +209,14 @@
       "onboard_time": 1767686601,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 2047463,
+      "num": 302605,
+      "word": "花海房管",
+      "onboard_time": 1768480820,
+      "rank": 10,
+      "category": "电竞"
     },
     {
       "raw_hot": 2040173,
@@ -1363,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 837426,
+      "num": 316881,
+      "word": "7岁嫁人15岁生子短剧引众怒",
+      "onboard_time": 1768489043,
+      "rank": 5,
+      "category": "民生新闻,剧集"
+    },
+    {
       "raw_hot": 835368,
       "num": 204106,
       "word": "颜安直播",
@@ -1537,6 +1553,14 @@
       "onboard_time": 1768108641,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 798459,
+      "num": 300386,
+      "word": "女网红在飞机上突然焦虑症发作",
+      "onboard_time": 1768485141,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 794730,
@@ -2035,14 +2059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 693753,
-      "num": 227967,
-      "word": "花海房管",
-      "onboard_time": 1768480820,
-      "rank": 10,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 689093,
       "num": 581765,
       "word": "顾漫五部曲吴倩出演了三部",
@@ -2384,22 +2400,6 @@
       "word": "吴倩张雨剑女儿有多可爱",
       "onboard_time": 1767792444,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 634048,
-      "num": 219004,
-      "word": "推特崩了",
-      "onboard_time": 1768318283,
-      "rank": 37,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 633524,
-      "num": 355471,
-      "word": "王祖贤眼睛怎么了",
-      "onboard_time": 1767524483,
-      "rank": 12,
       "category": "艺人"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "startTime": 1768408888455,
-  "endTime": 1768488642139,
+  "endTime": 1768491282130,
   "band_list": [
     {
       "raw_hot": 2603317,
@@ -9,6 +9,14 @@
       "onboard_time": 1768409658,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2047463,
+      "num": 302605,
+      "word": "花海房管",
+      "onboard_time": 1768480820,
+      "rank": 10,
+      "category": "电竞"
     },
     {
       "raw_hot": 2032182,
@@ -131,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 837426,
+      "num": 316881,
+      "word": "7岁嫁人15岁生子短剧引众怒",
+      "onboard_time": 1768489043,
+      "rank": 5,
+      "category": "民生新闻,剧集"
+    },
+    {
       "raw_hot": 827066,
       "num": 205226,
       "word": "QQ回应沈腾空间被盗",
@@ -153,6 +169,14 @@
       "onboard_time": 1768449020,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 798459,
+      "num": 300386,
+      "word": "女网红在飞机上突然焦虑症发作",
+      "onboard_time": 1768485141,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 743670,
@@ -195,14 +219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 693753,
-      "num": 227967,
-      "word": "花海房管",
-      "onboard_time": 1768480820,
-      "rank": 10,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 671528,
       "num": 193684,
       "word": "韦德评论王橹杰",
@@ -243,14 +259,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 608209,
-      "num": 189528,
-      "word": "女网红在飞机上突然焦虑症发作",
-      "onboard_time": 1768485141,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 608150,
       "num": 1097304,
       "word": "西贝将关闭102家门店",
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 593753,
-      "num": 227932,
+      "num": 299644,
       "word": "鬼鬼吐槽和艺人做朋友很累",
       "onboard_time": 1768479920,
       "rank": 21,
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 522400,
-      "num": 227822,
+      "num": 274274,
       "word": "夏迎春下房管",
       "onboard_time": 1768480880,
       "rank": 11,
@@ -465,6 +473,14 @@
       "onboard_time": 1768438161,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 390680,
+      "num": 390680,
+      "word": "西贝冷冻2年的西蓝花系误解",
+      "onboard_time": 1768488861,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 387042,
@@ -731,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255475,
+      "num": 255475,
+      "word": "贾国龙朋友圈称尽力了",
+      "onboard_time": 1768481541,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252703,
       "num": 189934,
       "word": "李施嬅钢琴弹唱车崇健爆哭",
@@ -899,14 +923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209509,
-      "num": 187826,
-      "word": "贾国龙朋友圈称尽力了",
-      "onboard_time": 1768481541,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 208837,
       "num": 208837,
       "word": "流落柬埔寨街头的女网红已回国",
@@ -945,6 +961,14 @@
       "onboard_time": 1768480581,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 204108,
+      "num": 204108,
+      "word": "陈奕恒雀斑妆",
+      "onboard_time": 1768490662,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 203989,
@@ -1019,6 +1043,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 193734,
+      "num": 193734,
+      "word": "香港屯门",
+      "onboard_time": 1768490722,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193482,
       "num": 151321,
       "word": "杨幂赵丽颖活动生图",
@@ -1044,7 +1076,7 @@
     },
     {
       "raw_hot": 191508,
-      "num": 161188,
+      "num": 200420,
       "word": "轧戏",
       "onboard_time": 1768390941,
       "rank": 47,
@@ -1241,6 +1273,14 @@
       "onboard_time": 1768450400,
       "rank": 31,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 165172,
+      "num": 165172,
+      "word": "特朗普直播打瞌睡被小女孩发现",
+      "onboard_time": 1768487602,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 164090,
@@ -1444,7 +1484,7 @@
     },
     {
       "raw_hot": 149707,
-      "num": 149707,
+      "num": 306346,
       "word": "逆战未来",
       "onboard_time": 1768486701,
       "rank": 23,
@@ -1763,14 +1803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133250,
-      "num": 159322,
-      "word": "特朗普直播打瞌睡被小女孩发现",
-      "onboard_time": 1768487602,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 133134,
       "num": 133134,
       "word": "当年轻人掌握了采买权",
@@ -1913,6 +1945,14 @@
       "onboard_time": 1768450701,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121203,
+      "num": 106685,
+      "word": "王子奇把苏晓彤一字夹摘了",
+      "onboard_time": 1768488141,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 120844,
@@ -2403,6 +2443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100482,
+      "num": 100482,
+      "word": "剑来第六集OST",
+      "onboard_time": 1768487780,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 100399,
       "num": 100399,
       "word": "印度赛梁王组合越打越顺",
@@ -2443,12 +2491,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 99335,
-      "num": 99335,
-      "word": "剑来第六集OST",
-      "onboard_time": 1768487780,
-      "rank": 45,
-      "category": "动漫"
+      "raw_hot": 99355,
+      "num": 197893,
+      "word": "中国冬奥会史上首枚金牌",
+      "onboard_time": 1768488861,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 98838,
@@ -2713,6 +2761,14 @@
       "onboard_time": 1768476320,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 92236,
+      "num": 106730,
+      "word": "李幼斌 没有人能拒绝垃圾食品",
+      "onboard_time": 1768487482,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 92136,
@@ -3003,6 +3059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81864,
+      "num": 100065,
+      "word": "让一个家越来越好的15条建议",
+      "onboard_time": 1768490961,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 81851,
       "num": 81851,
       "word": "笑影退役",
@@ -3041,6 +3105,14 @@
       "onboard_time": 1768473201,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 81449,
+      "num": 81449,
+      "word": "王子奇智性恋天菜",
+      "onboard_time": 1768490121,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 81294,
@@ -3083,6 +3155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 79609,
+      "num": 92578,
+      "word": "香港一商场警察开枪制服持刀嫌犯",
+      "onboard_time": 1768491201,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79455,
       "num": 100463,
       "word": "如何靠首饰拯救穿搭",
@@ -3123,6 +3203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76986,
+      "num": 89887,
+      "word": "广东男篮40分惨败上海男篮",
+      "onboard_time": 1768489822,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76734,
       "num": 79485,
       "word": "商业航天AI应用股大跌",
@@ -3147,6 +3235,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 73903,
+      "num": 73903,
+      "word": "樊振东萌混过关笑就完事",
+      "onboard_time": 1768489942,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72966,
+      "num": 72966,
+      "word": "这个阵容怎么凑齐的",
+      "onboard_time": 1768489461,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72931,
       "num": 72931,
       "word": "小猫也会因为早恋被训斥",
@@ -3161,6 +3265,14 @@
       "onboard_time": 1768458200,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 72512,
+      "num": 72512,
+      "word": "于正说芒果从不参考外部数据",
+      "onboard_time": 1768490602,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 72246,
@@ -3235,14 +3347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 65404,
-      "num": 106730,
-      "word": "李幼斌 没有人能拒绝垃圾食品",
-      "onboard_time": 1768487482,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 65183,
       "num": 186418,
       "word": "香港大埔火灾遇难者数量增至168人",
@@ -3289,6 +3393,14 @@
       "onboard_time": 1768448361,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61146,
+      "num": 91457,
+      "word": "鸭货店老板和城管争论后脑出血死亡",
+      "onboard_time": 1768490541,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61109,
@@ -3657,14 +3769,6 @@
       "onboard_time": 1768464260,
       "rank": 17,
       "category": "民生新闻,汽车"
-    },
-    {
-      "raw_hot": 31196,
-      "num": 106685,
-      "word": "王子奇把苏晓彤一字夹摘了",
-      "onboard_time": 1768488141,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 30593,
