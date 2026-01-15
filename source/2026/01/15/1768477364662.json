@@ -1,0 +1,410 @@
+{
+  "runTime": 1768477364662,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 381914,
+        "num": 1061106,
+        "word": "官方通报产检正常娃出生却先天畸形",
+        "onboard_time": 1768460660,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 245214,
+        "num": 762462,
+        "word": "降息",
+        "onboard_time": 1768462581,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 19300,
+        "num": 615008,
+        "word": "9图看2025年健康中国答卷",
+        "onboard_time": 1768466181,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208837,
+        "num": 208837,
+        "word": "流落柬埔寨街头的女网红已回国",
+        "onboard_time": 1768471640,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191926,
+        "num": 208243,
+        "word": "公积金贷款利率接近历史低点",
+        "onboard_time": 1768467079,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 290993,
+        "num": 207291,
+        "word": "被清华大学食堂的物价震惊到了",
+        "onboard_time": 1768472000,
+        "rank": 5,
+        "category": "美食,休闲"
+      },
+      {
+        "raw_hot": 186097,
+        "num": 207168,
+        "word": "空气炸锅杀回年轻人的厨房",
+        "onboard_time": 1768472841,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164907,
+        "num": 206443,
+        "word": "第一批免签去土耳其的已经破产了",
+        "onboard_time": 1768463601,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156760,
+        "num": 205095,
+        "word": "Tian说Bin有点怕Letme",
+        "onboard_time": 1768475300,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154794,
+        "num": 204665,
+        "word": "AL战胜iG",
+        "onboard_time": 1768475780,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 355282,
+        "num": 204043,
+        "word": "原来赵又廷摔倒是高圆圆追的",
+        "onboard_time": 1768475839,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296047,
+        "num": 203150,
+        "word": "38岁女子呕吐一夜后突发脑梗瘫痪",
+        "onboard_time": 1768458979,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261715,
+        "num": 202000,
+        "word": "御赐小仵作2",
+        "onboard_time": 1768471820,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28906,
+        "num": 201450,
+        "word": "战斗精灵iQOOZ11Turbo来了",
+        "onboard_time": 1768475000,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 244803,
+        "num": 200665,
+        "word": "张慧雯曹骏紧急声明",
+        "onboard_time": 1768462461,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222878,
+        "num": 199388,
+        "word": "胡锡进称西贝事件是一个悲剧",
+        "onboard_time": 1768475721,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199365,
+        "num": 199365,
+        "word": "御赐小仵作2明显有钱了",
+        "onboard_time": 1768475960,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192073,
+        "num": 192073,
+        "word": "越完美的婚姻越容不下走神",
+        "onboard_time": 1768473319,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59243,
+        "num": 188134,
+        "word": "iQOOZ11Turbo手感绝了",
+        "onboard_time": 1768476859,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 65183,
+        "num": 186418,
+        "word": "香港大埔火灾遇难者数量增至168人",
+        "onboard_time": 1768476560,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 535240,
+        "num": 178487,
+        "word": "周杰伦澳网国籍标示中国",
+        "onboard_time": 1768472241,
+        "rank": 20,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 354418,
+        "num": 176927,
+        "word": "杨幂你知道的我从小就跟着你",
+        "onboard_time": 1768474279,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137651,
+        "num": 170059,
+        "word": "35岁以后的降维打击",
+        "onboard_time": 1768474521,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169040,
+        "num": 169040,
+        "word": "我们的少年时代2",
+        "onboard_time": 1768466842,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242254,
+        "num": 165556,
+        "word": "张凌赫官宣宝格丽",
+        "onboard_time": 1768461561,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105712,
+        "num": 161556,
+        "word": "日本男子嫌年终奖发得少把老板杀了",
+        "onboard_time": 1768462941,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 160963,
+        "num": 160963,
+        "word": "将门毒后造型易小雅",
+        "onboard_time": 1768475060,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143080,
+        "num": 143080,
+        "word": "娜扎认证自己不张嘴清冷一张嘴软萌",
+        "onboard_time": 1768476620,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100878,
+        "num": 136193,
+        "word": "TTG战胜Hero",
+        "onboard_time": 1768476980,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129478,
+        "num": 129478,
+        "word": "李施嬅车崇健分手",
+        "onboard_time": 1768458921,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152656,
+        "num": 128998,
+        "word": "公安部A级通缉犯在狱中被揪出",
+        "onboard_time": 1768474639,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99796,
+        "num": 128630,
+        "word": "比格自助环卫工49.99元福利价引争议",
+        "onboard_time": 1768475360,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128368,
+        "num": 128368,
+        "word": "儿子像嗯哼老公像王俊凯",
+        "onboard_time": 1768463541,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124030,
+        "num": 124030,
+        "word": "苏醒沈梦辰两个亚军凑一块了",
+        "onboard_time": 1768476200,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121621,
+        "num": 121621,
+        "word": "刘诗诗粉色旗袍路透",
+        "onboard_time": 1768471460,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120616,
+        "num": 120616,
+        "word": "在上海花160万买了一楼老破小",
+        "onboard_time": 1768475960,
+        "rank": 35,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 118959,
+        "num": 118959,
+        "word": "张若昀唐嫣活动同框",
+        "onboard_time": 1768475480,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112540,
+        "num": 112540,
+        "word": "虞书欣云初令路透",
+        "onboard_time": 1768473141,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105054,
+        "num": 105054,
+        "word": "高市早苗扒车窗送别李在明",
+        "onboard_time": 1768476980,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109684,
+        "num": 104962,
+        "word": "赵樱子被女演员找麻烦",
+        "onboard_time": 1768475600,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 6660,
+        "num": 102623,
+        "word": "南天门计划部分武器已问世",
+        "onboard_time": 1768477339,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101653,
+        "num": 101653,
+        "word": "我们的少年时代2芒果S级项目",
+        "onboard_time": 1768473739,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97540,
+        "num": 97540,
+        "word": "重庆晚霞是懂浪漫的",
+        "onboard_time": 1768476800,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 94027,
+        "num": 94027,
+        "word": "轧戏",
+        "onboard_time": 1768477339,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92442,
+        "num": 92442,
+        "word": "歌手鞠婧祎熹妃回宫了",
+        "onboard_time": 1768462762,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92289,
+        "num": 92289,
+        "word": "专家回应有人在4100点时仍未赚钱",
+        "onboard_time": 1768476320,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 91818,
+        "num": 91818,
+        "word": "iPhone滑动手势竟然这么实用",
+        "onboard_time": 1768475540,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 90532,
+        "num": 90532,
+        "word": "敦促陈志犯罪集团在逃嫌犯投案自首",
+        "onboard_time": 1768477040,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89349,
+        "num": 89349,
+        "word": "曹骏廖慧佳新剧病娇世子和阴湿宠妾",
+        "onboard_time": 1768477223,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82490,
+        "num": 82490,
+        "word": "林孝埈时隔8年再战冬奥会",
+        "onboard_time": 1768476679,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈治权#"
+    }
+  }
+}

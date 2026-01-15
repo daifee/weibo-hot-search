@@ -1,6 +1,6 @@
 {
   "startTime": 1768408888455,
-  "endTime": 1768476530995,
+  "endTime": 1768477364662,
   "band_list": [
     {
       "raw_hot": 2603317,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 582243,
-      "num": 145804,
+      "num": 178487,
       "word": "周杰伦澳网国籍标示中国",
       "onboard_time": 1768472241,
       "rank": 21,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 514268,
-      "num": 1054831,
+      "num": 1061106,
       "word": "官方通报产检正常娃出生却先天畸形",
       "onboard_time": 1768460660,
       "rank": 0,
@@ -435,6 +435,22 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 355282,
+      "num": 204043,
+      "word": "原来赵又廷摔倒是高圆圆追的",
+      "onboard_time": 1768475839,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 354418,
+      "num": 176927,
+      "word": "杨幂你知道的我从小就跟着你",
+      "onboard_time": 1768474279,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 354324,
       "num": 354324,
       "word": "何美延梁淞自己带娃1周没空吵架了",
@@ -515,6 +531,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 290993,
+      "num": 207291,
+      "word": "被清华大学食堂的物价震惊到了",
+      "onboard_time": 1768472000,
+      "rank": 32,
+      "category": "美食,休闲"
+    },
+    {
       "raw_hot": 288908,
       "num": 288908,
       "word": "美国向英国发出严厉威胁",
@@ -547,6 +571,14 @@
       "category": "民生新闻,体育"
     },
     {
+      "raw_hot": 261715,
+      "num": 255904,
+      "word": "御赐小仵作2",
+      "onboard_time": 1768453820,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260556,
       "num": 260556,
       "word": "家属透露聂卫平病逝细节",
@@ -561,14 +593,6 @@
       "onboard_time": 1768462220,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 255904,
-      "num": 255904,
-      "word": "御赐小仵作2",
-      "onboard_time": 1768453820,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 252703,
@@ -651,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222878,
+      "num": 199388,
+      "word": "胡锡进称西贝事件是一个悲剧",
+      "onboard_time": 1768475721,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221207,
       "num": 221207,
       "word": "逛早市偶遇刘昊然董子健",
@@ -707,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208837,
+      "num": 208837,
+      "word": "流落柬埔寨街头的女网红已回国",
+      "onboard_time": 1768471640,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204355,
       "num": 204355,
       "word": "黄景瑜转发宣传王子奇新剧",
@@ -747,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199365,
+      "num": 199365,
+      "word": "御赐小仵作2明显有钱了",
+      "onboard_time": 1768475960,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199260,
       "num": 239125,
       "word": "AI查贪官准确率相当高",
@@ -785,6 +833,14 @@
       "onboard_time": 1768454360,
       "rank": 20,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 192073,
+      "num": 192073,
+      "word": "越完美的婚姻越容不下走神",
+      "onboard_time": 1768473319,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 191060,
@@ -833,6 +889,14 @@
       "onboard_time": 1768468400,
       "rank": 25,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 186097,
+      "num": 207168,
+      "word": "空气炸锅杀回年轻人的厨房",
+      "onboard_time": 1768472841,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185164,
@@ -931,14 +995,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 166096,
-      "num": 166096,
-      "word": "越完美的婚姻越容不下走神",
-      "onboard_time": 1768473319,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 165869,
       "num": 165869,
       "word": "韦德已删除和王橹杰互动内容",
@@ -977,6 +1033,14 @@
       "onboard_time": 1768444339,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160963,
+      "num": 160963,
+      "word": "将门毒后造型易小雅",
+      "onboard_time": 1768475060,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 159734,
@@ -1035,12 +1099,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156760,
+      "num": 205095,
+      "word": "Tian说Bin有点怕Letme",
+      "onboard_time": 1768475300,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 155524,
       "num": 155524,
       "word": "AppleWatch充电器成美甲神器",
       "onboard_time": 1768437742,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 154794,
+      "num": 204665,
+      "word": "AL战胜iG",
+      "onboard_time": 1768475780,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 153992,
@@ -1065,6 +1145,14 @@
       "onboard_time": 1768468340,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152656,
+      "num": 128998,
+      "word": "公安部A级通缉犯在狱中被揪出",
+      "onboard_time": 1768474639,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150358,
@@ -1155,6 +1243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143080,
+      "num": 143080,
+      "word": "娜扎认证自己不张嘴清冷一张嘴软萌",
+      "onboard_time": 1768476620,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142790,
       "num": 142790,
       "word": "特朗普将率史上最大美代表团参会",
@@ -1201,6 +1297,14 @@
       "onboard_time": 1768447880,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137651,
+      "num": 170059,
+      "word": "35岁以后的降维打击",
+      "onboard_time": 1768474521,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 136359,
@@ -1387,6 +1491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124030,
+      "num": 124030,
+      "word": "苏醒沈梦辰两个亚军凑一块了",
+      "onboard_time": 1768476200,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123428,
       "num": 155724,
       "word": "贪官千万元别墅没装修完就被抓",
@@ -1427,6 +1539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120616,
+      "num": 120616,
+      "word": "在上海花160万买了一楼老破小",
+      "onboard_time": 1768475960,
+      "rank": 35,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 120258,
       "num": 116403,
       "word": "蒲熠星最强大脑倒计时视频",
@@ -1449,6 +1569,14 @@
       "onboard_time": 1768442120,
       "rank": 34,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 118959,
+      "num": 118959,
+      "word": "张若昀唐嫣活动同框",
+      "onboard_time": 1768475480,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 118300,
@@ -1667,6 +1795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109684,
+      "num": 104962,
+      "word": "赵樱子被女演员找麻烦",
+      "onboard_time": 1768475600,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108670,
       "num": 108670,
       "word": "赵丽颖ELLE2月刊预告",
@@ -1755,6 +1891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105054,
+      "num": 105054,
+      "word": "高市早苗扒车窗送别李在明",
+      "onboard_time": 1768476980,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 104905,
       "num": 104905,
       "word": "马嘉祺读粉丝来信哭了",
@@ -1795,6 +1939,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101653,
+      "num": 101653,
+      "word": "我们的少年时代2芒果S级项目",
+      "onboard_time": 1768473739,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100878,
+      "num": 136193,
+      "word": "TTG战胜Hero",
+      "onboard_time": 1768476980,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 100666,
       "num": 100666,
       "word": "龚俊因左眼下新长了颗痣而开心",
@@ -1819,6 +1979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99796,
+      "num": 128630,
+      "word": "比格自助环卫工49.99元福利价引争议",
+      "onboard_time": 1768475360,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99577,
       "num": 99577,
       "word": "杨紫新剧人设太顶了",
@@ -1833,14 +2001,6 @@
       "onboard_time": 1768410317,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99236,
-      "num": 99236,
-      "word": "我们的少年时代2芒果S级项目",
-      "onboard_time": 1768473739,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 98789,
@@ -1907,6 +2067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 97540,
+      "num": 97540,
+      "word": "重庆晚霞是懂浪漫的",
+      "onboard_time": 1768476800,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 97168,
       "num": 115404,
       "word": "被四岁女儿的言论震惊到了",
@@ -1931,28 +2099,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 96229,
-      "num": 148910,
-      "word": "流落柬埔寨街头的女网红已回国",
-      "onboard_time": 1768471640,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96110,
       "num": 96110,
       "word": "李在明支持率超61%",
       "onboard_time": 1768461020,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 96066,
-      "num": 111949,
-      "word": "被清华大学食堂的物价震惊到了",
-      "onboard_time": 1768472000,
-      "rank": 32,
-      "category": "美食,休闲"
     },
     {
       "raw_hot": 95309,
@@ -2027,6 +2179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94027,
+      "num": 94027,
+      "word": "轧戏",
+      "onboard_time": 1768390941,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93555,
       "num": 93555,
       "word": "何与 一步一个苏点",
@@ -2059,12 +2219,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92289,
+      "num": 92289,
+      "word": "专家回应有人在4100点时仍未赚钱",
+      "onboard_time": 1768476320,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 92136,
       "num": 92136,
       "word": "一草莓园黑草莓售价百元1斤",
       "onboard_time": 1768461980,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91818,
+      "num": 91818,
+      "word": "iPhone滑动手势竟然这么实用",
+      "onboard_time": 1768475540,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 90864,
@@ -2075,11 +2251,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 90613,
-      "num": 134928,
-      "word": "空气炸锅杀回年轻人的厨房",
-      "onboard_time": 1768472841,
-      "rank": 29,
+      "raw_hot": 90532,
+      "num": 90532,
+      "word": "敦促陈志犯罪集团在逃嫌犯投案自首",
+      "onboard_time": 1768477040,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -2089,6 +2265,14 @@
       "onboard_time": 1768432698,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89349,
+      "num": 89349,
+      "word": "曹骏廖慧佳新剧病娇世子和阴湿宠妾",
+      "onboard_time": 1768477223,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 89314,
@@ -2233,6 +2417,14 @@
       "onboard_time": 1768458020,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 82490,
+      "num": 82490,
+      "word": "林孝埈时隔8年再战冬奥会",
+      "onboard_time": 1768476679,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 82281,
@@ -2451,6 +2643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65183,
+      "num": 186418,
+      "word": "香港大埔火灾遇难者数量增至168人",
+      "onboard_time": 1768476560,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64426,
       "num": 64426,
       "word": "国考 没有进面的风险",
@@ -2529,6 +2729,14 @@
       "onboard_time": 1768403782,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 59243,
+      "num": 188134,
+      "word": "iQOOZ11Turbo手感绝了",
+      "onboard_time": 1768476859,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 58730,
@@ -2649,14 +2857,6 @@
       "onboard_time": 1768394181,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 49529,
-      "num": 53909,
-      "word": "轧戏",
-      "onboard_time": 1768390941,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 49094,
@@ -2875,6 +3075,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 28906,
+      "num": 201450,
+      "word": "战斗精灵iQOOZ11Turbo来了",
+      "onboard_time": 1768475000,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 28097,
       "num": 105864,
       "word": "肖战没见过的得闲谨制开机照",
@@ -3049,6 +3257,14 @@
       "onboard_time": 1768452921,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6660,
+      "num": 102623,
+      "word": "南天门计划部分武器已问世",
+      "onboard_time": 1768477339,
+      "rank": 40,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
