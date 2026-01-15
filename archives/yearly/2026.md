@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/15 14:44:24
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/15 14:59:07
 </p>
 </blockquote>
 <p>
@@ -869,6 +869,12 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%9A%E5%85%AC%E4%B8%BB%23" target="weibo">
 尚公主（热度：898363）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2338%E5%B2%81%E5%A5%B3%E5%AD%90%E5%91%95%E5%90%90%E4%B8%80%E5%A4%9C%E5%90%8E%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97%E7%98%AB%E7%97%AA%23" target="weibo">
+38岁女子呕吐一夜后突发脑梗瘫痪（热度：889899）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ CSGO（热度：630992）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%E7%83%AD%E5%BA%A6%23" target="weibo">
 骄阳似我热度（热度：623347）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%98%B2%E7%AC%91%E5%90%8C%E4%BA%8B%E7%9A%84%E5%A5%96%E7%89%8C%E7%A0%B4%E7%BB%93%E6%9E%9C%E5%8F%91%E7%8E%B0%E6%98%AF%E7%BA%AF%E9%87%91%E7%9A%84%23" target="weibo">
-嘲笑同事的奖牌破结果发现是纯金的（热度：622883）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1768408888455,
-  "endTime": 1768459464764,
+  "endTime": 1768460347005,
   "band_list": [
     {
       "raw_hot": 2603317,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 889899,
+      "num": 189034,
+      "word": "38岁女子呕吐一夜后突发脑梗瘫痪",
+      "onboard_time": 1768458979,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 827066,
       "num": 205226,
       "word": "QQ回应沈腾空间被盗",
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 635802,
-      "num": 433523,
+      "num": 476782,
       "word": "女子7万买金镯一捏就变形",
       "onboard_time": 1768454779,
       "rank": 38,
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 371097,
-      "num": 756503,
+      "num": 757335,
       "word": "短剧已经卷到3秒一集了",
       "onboard_time": 1768451721,
       "rank": 22,
@@ -315,12 +323,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 288908,
+      "num": 288908,
+      "word": "美国向英国发出严厉威胁",
+      "onboard_time": 1768456700,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 279021,
       "num": 279021,
       "word": "A股要慢牛不要疯牛",
       "onboard_time": 1768440799,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 277043,
+      "num": 174208,
+      "word": "张小斐 不用强调那么多次不送我",
+      "onboard_time": 1768459161,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 273645,
@@ -347,27 +371,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 255052,
-      "num": 220783,
-      "word": "美国向英国发出严厉威胁",
-      "onboard_time": 1768456700,
-      "rank": 6,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 252078,
       "num": 100601,
       "word": "90后医生强奸2幼女父亲曾为其辩护",
       "onboard_time": 1768386681,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 251602,
-      "num": 189034,
-      "word": "38岁女子呕吐一夜后突发脑梗瘫痪",
-      "onboard_time": 1768458979,
-      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -401,6 +409,14 @@
       "onboard_time": 1768404082,
       "rank": 12,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 230584,
+      "num": 337129,
+      "word": "肖战辛苦一年倒欠半部",
+      "onboard_time": 1768459041,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 230018,
@@ -561,6 +577,14 @@
       "onboard_time": 1768458379,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 189934,
+      "num": 189934,
+      "word": "李施嬅钢琴弹唱车崇健爆哭",
+      "onboard_time": 1768459459,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 189372,
@@ -1147,14 +1171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106612,
-      "num": 106612,
-      "word": "肖战辛苦一年倒欠半部",
-      "onboard_time": 1768459041,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 105876,
       "num": 105876,
       "word": "携程日赚超2亿元",
@@ -1219,6 +1235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101051,
+      "num": 101051,
+      "word": "白天的脸vs晚上的脸",
+      "onboard_time": 1768458200,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100666,
       "num": 100666,
       "word": "龚俊因左眼下新长了颗痣而开心",
@@ -1275,14 +1299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95604,
-      "num": 95604,
-      "word": "张小斐 不用强调那么多次不送我",
-      "onboard_time": 1768459161,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 94961,
       "num": 94961,
       "word": "常州一警务室里开警茶店",
@@ -1313,14 +1329,6 @@
       "onboard_time": 1768457300,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93060,
-      "num": 93060,
-      "word": "白天的脸vs晚上的脸",
-      "onboard_time": 1768458200,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 90128,
@@ -1387,6 +1395,38 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 85499,
+      "num": 85499,
+      "word": "沈梦辰 会做饭的男人都是在发光",
+      "onboard_time": 1768459400,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 85495,
+      "num": 89652,
+      "word": "拔智齿会瘦的真正原因",
+      "onboard_time": 1768459700,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 85129,
+      "num": 85129,
+      "word": "龚俊 阿宝死忠粉",
+      "onboard_time": 1768460060,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 83025,
+      "num": 88061,
+      "word": "23岁女孩疑因被逼婚喝农药轻生",
+      "onboard_time": 1768460239,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82657,
       "num": 76475,
       "word": "刘昊然评论区下饺子了",
@@ -1401,6 +1441,14 @@
       "onboard_time": 1768448122,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 81696,
+      "num": 85292,
+      "word": "你没有比今天更年轻的时候了",
+      "onboard_time": 1768459822,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 81683,
@@ -1420,7 +1468,7 @@
     },
     {
       "raw_hot": 81294,
-      "num": 75812,
+      "num": 80723,
       "word": "国公府世子vs世子夫人",
       "onboard_time": 1768456700,
       "rank": 45,
@@ -1433,6 +1481,14 @@
       "onboard_time": 1768405280,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 78781,
+      "num": 78781,
+      "word": "单休的人一听就碎了",
+      "onboard_time": 1768457599,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 74378,
@@ -1489,22 +1545,6 @@
       "onboard_time": 1768397181,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 71018,
-      "num": 71018,
-      "word": "沈梦辰 会做饭的男人都是在发光",
-      "onboard_time": 1768459400,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 70842,
-      "num": 70842,
-      "word": "单休的人一听就碎了",
-      "onboard_time": 1768457599,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 69419,
@@ -1753,6 +1793,14 @@
       "onboard_time": 1768401382,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46481,
+      "num": 84027,
+      "word": "梁淞回应最受观众讨厌男嘉宾",
+      "onboard_time": 1768459940,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 46135,

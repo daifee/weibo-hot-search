@@ -1,0 +1,410 @@
+{
+  "runTime": 1768460347005,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 381392,
+        "num": 1061022,
+        "word": "沙特又宣布发现黄金资源",
+        "onboard_time": 1768452622,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 350810,
+        "num": 757335,
+        "word": "短剧已经卷到3秒一集了",
+        "onboard_time": 1768451721,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32377,
+        "num": 615707,
+        "word": "换购住房继续享受退税优惠",
+        "onboard_time": 1768448300,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 476782,
+        "num": 476782,
+        "word": "女子7万买金镯一捏就变形",
+        "onboard_time": 1768454779,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230584,
+        "num": 337129,
+        "word": "肖战辛苦一年倒欠半部",
+        "onboard_time": 1768459041,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288908,
+        "num": 288908,
+        "word": "美国向英国发出严厉威胁",
+        "onboard_time": 1768456700,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 241230,
+        "num": 241230,
+        "word": "贺娇龙遗体已回到昭苏",
+        "onboard_time": 1768447701,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210736,
+        "num": 210736,
+        "word": "感觉家里的不动产动了一下",
+        "onboard_time": 1768448780,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205355,
+        "num": 205355,
+        "word": "聂卫平逝世",
+        "onboard_time": 1768435160,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189934,
+        "num": 189934,
+        "word": "李施嬅钢琴弹唱车崇健爆哭",
+        "onboard_time": 1768459459,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 889899,
+        "num": 186372,
+        "word": "38岁女子呕吐一夜后突发脑梗瘫痪",
+        "onboard_time": 1768458979,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 460886,
+        "num": 182556,
+        "word": "QQ回应沈腾空间被盗",
+        "onboard_time": 1768451721,
+        "rank": 11,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 364233,
+        "num": 181139,
+        "word": "肖指导儿子进军娱乐圈了",
+        "onboard_time": 1768457300,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177144,
+        "num": 177144,
+        "word": "广东省考成绩",
+        "onboard_time": 1768458020,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1019182,
+        "num": 175030,
+        "word": "李施嬅车崇健分手",
+        "onboard_time": 1768458921,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277043,
+        "num": 174208,
+        "word": "张小斐 不用强调那么多次不送我",
+        "onboard_time": 1768459161,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163748,
+        "num": 163748,
+        "word": "美国人开始认同中式生活",
+        "onboard_time": 1768449020,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 190657,
+        "num": 160698,
+        "word": "北京环球影城偶遇龚俊",
+        "onboard_time": 1768456879,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149239,
+        "num": 149239,
+        "word": "贺娇龙相册全是凌晨工作照片",
+        "onboard_time": 1768437443,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145740,
+        "num": 145740,
+        "word": "伊朗约2000枚导弹可覆盖美以基地",
+        "onboard_time": 1768452981,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 335532,
+        "num": 143662,
+        "word": "女子被判向出轨丈夫道歉15天",
+        "onboard_time": 1768446318,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153872,
+        "num": 138589,
+        "word": "金晨辟谣痔疮膏能去除黑眼圈",
+        "onboard_time": 1768450880,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119913,
+        "num": 119913,
+        "word": "陈都灵回应获奖感言出圈",
+        "onboard_time": 1768452442,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118977,
+        "num": 118977,
+        "word": "韦德评论王橹杰",
+        "onboard_time": 1768435581,
+        "rank": 23,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 107084,
+        "num": 107084,
+        "word": "孙闻退出国家队",
+        "onboard_time": 1768459161,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101993,
+        "num": 101993,
+        "word": "24岁女子回应减肥50斤后确诊尿毒症",
+        "onboard_time": 1768453582,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101051,
+        "num": 101051,
+        "word": "白天的脸vs晚上的脸",
+        "onboard_time": 1768458200,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99665,
+        "num": 99665,
+        "word": "贺娇龙从服务员到全国网红干部",
+        "onboard_time": 1768449501,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99318,
+        "num": 99318,
+        "word": "聂卫平曾后悔为国足开了珍藏好酒",
+        "onboard_time": 1768456041,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94947,
+        "num": 94947,
+        "word": "得闲谨制票房破4亿",
+        "onboard_time": 1768458379,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91281,
+        "num": 91281,
+        "word": "香港文体旅局局长发文感谢周深",
+        "onboard_time": 1768454360,
+        "rank": 30,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 85495,
+        "num": 89652,
+        "word": "拔智齿会瘦的真正原因",
+        "onboard_time": 1768459700,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88841,
+        "num": 88841,
+        "word": "轧戏电梯3.0",
+        "onboard_time": 1768455201,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88408,
+        "num": 88408,
+        "word": "谁把沈腾QQ空间盗了",
+        "onboard_time": 1768443020,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83025,
+        "num": 88061,
+        "word": "23岁女孩疑因被逼婚喝农药轻生",
+        "onboard_time": 1768460239,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87996,
+        "num": 87996,
+        "word": "你那儿几点 王安宇",
+        "onboard_time": 1768443741,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85499,
+        "num": 85499,
+        "word": "沈梦辰 会做饭的男人都是在发光",
+        "onboard_time": 1768459400,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81696,
+        "num": 85292,
+        "word": "你没有比今天更年轻的时候了",
+        "onboard_time": 1768459822,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85129,
+        "num": 85129,
+        "word": "龚俊 阿宝死忠粉",
+        "onboard_time": 1768460060,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46481,
+        "num": 84027,
+        "word": "梁淞回应最受观众讨厌男嘉宾",
+        "onboard_time": 1768459940,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81431,
+        "num": 83366,
+        "word": "韦德已删除和王橹杰互动内容",
+        "onboard_time": 1768450400,
+        "rank": 40,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 83260,
+        "num": 83260,
+        "word": "周雨说约任嘉伦打球至少约了5年",
+        "onboard_time": 1768457001,
+        "rank": 41,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 82142,
+        "num": 82142,
+        "word": "微博之夜",
+        "onboard_time": 1768451300,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79285,
+        "num": 80968,
+        "word": "爸爸担心女儿考上清北探望机票太贵",
+        "onboard_time": 1768440260,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80723,
+        "num": 80723,
+        "word": "国公府世子vs世子夫人",
+        "onboard_time": 1768456700,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80373,
+        "num": 80373,
+        "word": "贺娇龙被质疑想当网红时突然哽塞",
+        "onboard_time": 1768457300,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80107,
+        "num": 80107,
+        "word": "玉茗茶骨大结局",
+        "onboard_time": 1768449679,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78781,
+        "num": 78781,
+        "word": "单休的人一听就碎了",
+        "onboard_time": 1768457599,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76149,
+        "num": 76149,
+        "word": "贺峻霖发张图压压惊",
+        "onboard_time": 1768455680,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74466,
+        "num": 74466,
+        "word": "杨幂穿Prada的黑长直女神",
+        "onboard_time": 1768447040,
+        "rank": 49,
+        "category": "作品衍生,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调建设良好家风的重要性#"
+    }
+  }
+}
