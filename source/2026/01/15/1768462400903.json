@@ -1,0 +1,410 @@
+{
+  "runTime": 1768462400903,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 342695,
+        "num": 1054831,
+        "word": "官方通报产检正常娃出生却先天畸形",
+        "onboard_time": 1768460660,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 292014,
+        "num": 760719,
+        "word": "沙特又宣布发现黄金资源",
+        "onboard_time": 1768452622,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29479,
+        "num": 601253,
+        "word": "换购住房继续享受退税优惠",
+        "onboard_time": 1768448300,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 449792,
+        "num": 449792,
+        "word": "肖战辛苦一年倒欠半部",
+        "onboard_time": 1768459041,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316437,
+        "num": 316437,
+        "word": "女子7万买金镯一捏就变形",
+        "onboard_time": 1768454779,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288441,
+        "num": 288441,
+        "word": "美国向英国发出严厉威胁",
+        "onboard_time": 1768456700,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 270821,
+        "num": 270821,
+        "word": "我们的少年时代2主演TF四代",
+        "onboard_time": 1768461320,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261502,
+        "num": 261502,
+        "word": "西贝将关闭102家门店",
+        "onboard_time": 1768461320,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211953,
+        "num": 211953,
+        "word": "感觉家里的不动产动了一下",
+        "onboard_time": 1768448780,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170546,
+        "num": 170546,
+        "word": "聂卫平逝世",
+        "onboard_time": 1768435160,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 945783,
+        "num": 169202,
+        "word": "38岁女子呕吐一夜后突发脑梗瘫痪",
+        "onboard_time": 1768458979,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 761397,
+        "num": 165311,
+        "word": "李施嬅车崇健分手",
+        "onboard_time": 1768458921,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192987,
+        "num": 160464,
+        "word": "短剧已经卷到3秒一集了",
+        "onboard_time": 1768451721,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195961,
+        "num": 158678,
+        "word": "贺娇龙遗体已回到昭苏",
+        "onboard_time": 1768447701,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 508502,
+        "num": 153779,
+        "word": "张小斐 不用强调那么多次不送我",
+        "onboard_time": 1768459161,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330259,
+        "num": 149774,
+        "word": "QQ回应沈腾空间被盗",
+        "onboard_time": 1768451721,
+        "rank": 15,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 148723,
+        "num": 148723,
+        "word": "美国人开始认同中式生活",
+        "onboard_time": 1768449020,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 252703,
+        "num": 141193,
+        "word": "李施嬅钢琴弹唱车崇健爆哭",
+        "onboard_time": 1768459459,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243926,
+        "num": 139639,
+        "word": "肖指导儿子进军娱乐圈了",
+        "onboard_time": 1768457300,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129471,
+        "num": 129471,
+        "word": "广东省考成绩",
+        "onboard_time": 1768458020,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 361382,
+        "num": 129327,
+        "word": "张凌赫官宣宝格丽",
+        "onboard_time": 1768461561,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312680,
+        "num": 129200,
+        "word": "女子被判向出轨丈夫道歉15天",
+        "onboard_time": 1768446318,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222899,
+        "num": 129105,
+        "word": "北京环球影城偶遇龚俊",
+        "onboard_time": 1768456879,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185164,
+        "num": 128939,
+        "word": "蒋欣说减脂期不建议看张子枫新剧",
+        "onboard_time": 1768461140,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149967,
+        "num": 128889,
+        "word": "白天的脸vs晚上的脸",
+        "onboard_time": 1768458200,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128743,
+        "num": 128743,
+        "word": "何美延说已报名了奇葩说",
+        "onboard_time": 1768461679,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125528,
+        "num": 125528,
+        "word": "张杰一件羽绒服穿了快10年",
+        "onboard_time": 1768462220,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120064,
+        "num": 120064,
+        "word": "拔智齿会瘦的真正原因",
+        "onboard_time": 1768459700,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117216,
+        "num": 117216,
+        "word": "余承恩穿衣baby脱衣daddy",
+        "onboard_time": 1768460360,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115301,
+        "num": 115301,
+        "word": "赵丽颖政农商三部曲",
+        "onboard_time": 1768460961,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115123,
+        "num": 115123,
+        "word": "23岁女孩疑因被逼婚喝农药轻生",
+        "onboard_time": 1768460239,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111764,
+        "num": 111764,
+        "word": "小城大事口碑",
+        "onboard_time": 1768460660,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109055,
+        "num": 109055,
+        "word": "沈腾你本可以体面老去的",
+        "onboard_time": 1768461620,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108456,
+        "num": 108456,
+        "word": "巨火但你很反感的梗",
+        "onboard_time": 1768461679,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99898,
+        "num": 99898,
+        "word": "伊朗约2000枚导弹可覆盖美以基地",
+        "onboard_time": 1768452981,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96872,
+        "num": 96872,
+        "word": "这就是高能量的人吧",
+        "onboard_time": 1768462042,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96110,
+        "num": 96110,
+        "word": "李在明支持率超61%",
+        "onboard_time": 1768461020,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94115,
+        "num": 94115,
+        "word": "聂卫平曾后悔为国足开了珍藏好酒",
+        "onboard_time": 1768456041,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72751,
+        "num": 93863,
+        "word": "汪苏泷 我又不是周兴哲",
+        "onboard_time": 1768462340,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93645,
+        "num": 93645,
+        "word": "贺娇龙相册全是凌晨工作照片",
+        "onboard_time": 1768437443,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93120,
+        "num": 93120,
+        "word": "孙闻退出国家队",
+        "onboard_time": 1768459161,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90276,
+        "num": 90276,
+        "word": "贺娇龙从服务员到全国网红干部",
+        "onboard_time": 1768449501,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90198,
+        "num": 90198,
+        "word": "微博之夜",
+        "onboard_time": 1768451300,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 88159,
+        "num": 88159,
+        "word": "一草莓园黑草莓售价百元1斤",
+        "onboard_time": 1768461980,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88155,
+        "num": 88155,
+        "word": "查国考成绩 按F12",
+        "onboard_time": 1768461501,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 82858,
+        "num": 82858,
+        "word": "建议大家上车就立马锁门",
+        "onboard_time": 1768460480,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82590,
+        "num": 82590,
+        "word": "韦德评论王橹杰",
+        "onboard_time": 1768435581,
+        "rank": 46,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 81204,
+        "num": 81204,
+        "word": "高位股近150股跌超9%",
+        "onboard_time": 1768461080,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 79407,
+        "num": 79407,
+        "word": "贾国龙回应网传西贝多地将闭店",
+        "onboard_time": 1768461860,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75286,
+        "num": 79361,
+        "word": "WTT祝陈梦自在绽放",
+        "onboard_time": 1768461561,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调建设良好家风的重要性#"
+    }
+  }
+}

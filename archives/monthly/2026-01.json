@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768460347005,
+  "endTime": 1768462400903,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1019,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 945783,
+      "num": 189034,
+      "word": "38岁女子呕吐一夜后突发脑梗瘫痪",
+      "onboard_time": 1768458979,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 940105,
       "num": 1095757,
       "word": "女子以为嫁给武警其实嫁给了杀人犯",
@@ -1145,14 +1153,6 @@
       "onboard_time": 1767238040,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 889899,
-      "num": 189034,
-      "word": "38岁女子呕吐一夜后突发脑梗瘫痪",
-      "onboard_time": 1768458979,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 888305,
@@ -3763,6 +3763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 508502,
+      "num": 174208,
+      "word": "张小斐 不用强调那么多次不送我",
+      "onboard_time": 1768459161,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 508400,
       "num": 508400,
       "word": "抢马钞",
@@ -4832,6 +4840,14 @@
       "word": "封腾依旧是顾漫宇宙最有钱的男主",
       "onboard_time": 1767767060,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 449792,
+      "num": 449792,
+      "word": "肖战辛苦一年倒欠半部",
+      "onboard_time": 1768459041,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -6611,6 +6627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 361382,
+      "num": 129327,
+      "word": "张凌赫官宣宝格丽",
+      "onboard_time": 1768461561,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 361212,
       "num": 828261,
       "word": "小米17官宣降价",
@@ -7121,6 +7145,14 @@
       "onboard_time": 1768367722,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 342695,
+      "num": 1054831,
+      "word": "官方通报产检正常娃出生却先天畸形",
+      "onboard_time": 1768460660,
+      "rank": 0,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 342127,
@@ -9219,14 +9251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 277043,
-      "num": 174208,
-      "word": "张小斐 不用强调那么多次不送我",
-      "onboard_time": 1768459161,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 277032,
       "num": 252336,
       "word": "生长痛真的很痛",
@@ -9513,6 +9537,14 @@
       "onboard_time": 1767591622,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 270821,
+      "num": 270821,
+      "word": "我们的少年时代2主演TF四代",
+      "onboard_time": 1768461320,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 270792,
@@ -9955,6 +9987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 261502,
+      "num": 261502,
+      "word": "西贝将关闭102家门店",
+      "onboard_time": 1768461320,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 261107,
       "num": 1029862,
       "word": "骄阳似我 梅园定情",
@@ -10345,6 +10385,14 @@
       "onboard_time": 1767494541,
       "rank": 32,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 252703,
+      "num": 189934,
+      "word": "李施嬅钢琴弹唱车崇健爆哭",
+      "onboard_time": 1768459459,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 252643,
@@ -11251,14 +11299,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 230584,
-      "num": 337129,
-      "word": "肖战辛苦一年倒欠半部",
-      "onboard_time": 1768459041,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 230571,
       "num": 305609,
       "word": "李在明启程赴华",
@@ -11643,6 +11683,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 222899,
+      "num": 185717,
+      "word": "北京环球影城偶遇龚俊",
+      "onboard_time": 1768456879,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222702,
       "num": 222702,
       "word": "易烊千玺起诉眼镜公司侵权",
@@ -11809,14 +11857,6 @@
       "onboard_time": 1768105281,
       "rank": 32,
       "category": "网红"
-    },
-    {
-      "raw_hot": 220749,
-      "num": 185717,
-      "word": "北京环球影城偶遇龚俊",
-      "onboard_time": 1768456879,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 220600,
@@ -14251,14 +14291,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 189934,
-      "num": 189934,
-      "word": "李施嬅钢琴弹唱车崇健爆哭",
-      "onboard_time": 1768459459,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 189868,
       "num": 154365,
       "word": "老人不慎从15楼坠落至7楼 卡在半空",
@@ -14785,6 +14817,14 @@
       "onboard_time": 1768051643,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185164,
+      "num": 128939,
+      "word": "蒋欣说减脂期不建议看张子枫新剧",
+      "onboard_time": 1768461140,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 185086,
@@ -18891,6 +18931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149967,
+      "num": 128889,
+      "word": "白天的脸vs晚上的脸",
+      "onboard_time": 1768458200,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 149958,
       "num": 486388,
       "word": "原来Safari才是iPhone隐藏的资源大户",
@@ -22683,6 +22731,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 128743,
+      "num": 128743,
+      "word": "何美延说已报名了奇葩说",
+      "onboard_time": 1768461679,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128718,
       "num": 189395,
       "word": "朱莉被曝计划移居柬埔寨和欧洲",
@@ -23457,6 +23513,14 @@
       "onboard_time": 1767266060,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 125528,
+      "num": 125528,
+      "word": "张杰一件羽绒服穿了快10年",
+      "onboard_time": 1768462220,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 125417,
@@ -24747,6 +24811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120064,
+      "num": 120064,
+      "word": "拔智齿会瘦的真正原因",
+      "onboard_time": 1768459700,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119958,
       "num": 155605,
       "word": "谢娜回应看着自己长大",
@@ -25331,6 +25403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117216,
+      "num": 117216,
+      "word": "余承恩穿衣baby脱衣daddy",
+      "onboard_time": 1768460360,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117197,
       "num": 117197,
       "word": "Tian看Zoom介入比赛",
@@ -25827,6 +25907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 115301,
+      "num": 115301,
+      "word": "赵丽颖政农商三部曲",
+      "onboard_time": 1768460961,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 115288,
       "num": 115288,
       "word": "新娘结婚也不忘记工作",
@@ -25873,6 +25961,14 @@
       "onboard_time": 1768040121,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115123,
+      "num": 115123,
+      "word": "23岁女孩疑因被逼婚喝农药轻生",
+      "onboard_time": 1768460239,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115105,
@@ -26835,6 +26931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111764,
+      "num": 111764,
+      "word": "小城大事口碑",
+      "onboard_time": 1768460660,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111724,
       "num": 122030,
       "word": "小马闻到去世母马尾毛悄悄流眼泪",
@@ -27403,6 +27507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 109055,
+      "num": 109055,
+      "word": "沈腾你本可以体面老去的",
+      "onboard_time": 1768461620,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109036,
       "num": 175152,
       "word": "Faker有信心战胜AI",
@@ -27585,6 +27697,14 @@
       "onboard_time": 1768199059,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108456,
+      "num": 108456,
+      "word": "巨火但你很反感的梗",
+      "onboard_time": 1768461679,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 108435,
@@ -29867,14 +29987,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 101051,
-      "num": 101051,
-      "word": "白天的脸vs晚上的脸",
-      "onboard_time": 1768458200,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 101048,
       "num": 115004,
       "word": "柚子每天坐过山车出门",
@@ -31355,6 +31467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 96872,
+      "num": 96872,
+      "word": "这就是高能量的人吧",
+      "onboard_time": 1768462042,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96755,
       "num": 96755,
       "word": "原来明朝人真的把鞋子念成孩子",
@@ -31609,6 +31729,14 @@
       "onboard_time": 1767703521,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96110,
+      "num": 96110,
+      "word": "李在明支持率超61%",
+      "onboard_time": 1768461020,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 96109,
@@ -34323,6 +34451,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 88159,
+      "num": 88159,
+      "word": "一草莓园黑草莓售价百元1斤",
+      "onboard_time": 1768461980,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88155,
+      "num": 88155,
+      "word": "查国考成绩 按F12",
+      "onboard_time": 1768461501,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 88130,
       "num": 88130,
       "word": "开拓者vs勇士",
@@ -35347,14 +35491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 85495,
-      "num": 89652,
-      "word": "拔智齿会瘦的真正原因",
-      "onboard_time": 1768459700,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 85366,
       "num": 154333,
       "word": "13克金饰在三亚买立省3500元",
@@ -35979,14 +36115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 83025,
-      "num": 88061,
-      "word": "23岁女孩疑因被逼婚喝农药轻生",
-      "onboard_time": 1768460239,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83019,
       "num": 137103,
       "word": "退役军犬在新家撒欢",
@@ -36033,6 +36161,14 @@
       "onboard_time": 1767596482,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 82858,
+      "num": 82858,
+      "word": "建议大家上车就立马锁门",
+      "onboard_time": 1768460480,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 82827,
@@ -36529,6 +36665,14 @@
       "onboard_time": 1768096220,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81204,
+      "num": 81204,
+      "word": "高位股近150股跌超9%",
+      "onboard_time": 1768461080,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 81181,
@@ -37065,6 +37209,14 @@
       "onboard_time": 1768027701,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 79407,
+      "num": 79407,
+      "word": "贾国龙回应网传西贝多地将闭店",
+      "onboard_time": 1768461860,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79359,
@@ -38107,6 +38259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 75286,
+      "num": 79361,
+      "word": "WTT祝陈梦自在绽放",
+      "onboard_time": 1768461561,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75252,
       "num": 91543,
       "word": "刘宇宁六块腹肌隐藏款",
@@ -38649,6 +38809,14 @@
       "onboard_time": 1767184947,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 72751,
+      "num": 93863,
+      "word": "汪苏泷 我又不是周兴哲",
+      "onboard_time": 1768462340,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 72737,
