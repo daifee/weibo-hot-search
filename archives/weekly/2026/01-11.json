@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768519790639,
+  "endTime": 1768520587631,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -1459,6 +1459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 533457,
+      "num": 172241,
+      "word": "女子药流后腹部隆起才发现胎儿未排",
+      "onboard_time": 1768520119,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 524924,
       "num": 206555,
       "word": "杨迪吐槽papi恶意录制",
@@ -2217,6 +2225,14 @@
       "onboard_time": 1768356080,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 424225,
+      "num": 923501,
+      "word": "解放军实战演练斩首行动画面",
+      "onboard_time": 1768518977,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 423705,
@@ -3065,14 +3081,6 @@
       "onboard_time": 1768314204,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 331766,
-      "num": 811433,
-      "word": "解放军实战演练斩首行动画面",
-      "onboard_time": 1768518977,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 331038,
@@ -4523,20 +4531,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229375,
+      "num": 209537,
+      "word": "私生活这么干净为什么作息这么乱",
+      "onboard_time": 1768480581,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 229108,
       "num": 229108,
       "word": "流浪地球3 王智进组",
       "onboard_time": 1768124060,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 228821,
-      "num": 209537,
-      "word": "私生活这么干净为什么作息这么乱",
-      "onboard_time": 1768480581,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 228748,
@@ -5123,6 +5131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204620,
+      "num": 91264,
+      "word": "杜海涛回应交通银行口误事件",
+      "onboard_time": 1768506973,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204355,
       "num": 204355,
       "word": "黄景瑜转发宣传王子奇新剧",
@@ -5649,14 +5665,6 @@
       "onboard_time": 1768226662,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 190749,
-      "num": 71635,
-      "word": "杜海涛回应交通银行口误事件",
-      "onboard_time": 1768506973,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 190746,
@@ -6291,6 +6299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174939,
+      "num": 174939,
+      "word": "家属回应流落柬埔寨女网红回国现状",
+      "onboard_time": 1768515617,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174822,
       "num": 174822,
       "word": "宋威龙 雷霆泳姿",
@@ -6337,6 +6353,14 @@
       "onboard_time": 1768308803,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173955,
+      "num": 173955,
+      "word": "结石姐谈当年在歌手夺冠",
+      "onboard_time": 1768519157,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 173835,
@@ -7297,14 +7321,6 @@
       "onboard_time": 1768304423,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154198,
-      "num": 154198,
-      "word": "家属回应流落柬埔寨女网红回国现状",
-      "onboard_time": 1768515617,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154065,
@@ -9059,6 +9075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128841,
+      "num": 76813,
+      "word": "脑梗早期预兆或是3个部位发麻",
+      "onboard_time": 1768518858,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 128715,
       "num": 128715,
       "word": "萝卜纸巾猫为什么火了",
@@ -9929,14 +9953,6 @@
       "onboard_time": 1768274000,
       "rank": 41,
       "category": "教育"
-    },
-    {
-      "raw_hot": 118359,
-      "num": 67288,
-      "word": "脑梗早期预兆或是3个部位发麻",
-      "onboard_time": 1768518858,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 118327,
@@ -11057,6 +11073,14 @@
       "onboard_time": 1768269739,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 108864,
+      "num": 75189,
+      "word": "93岁奶奶为尿毒症晚期孙女出镜跳舞",
+      "onboard_time": 1768518977,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108721,
@@ -12667,6 +12691,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 96402,
+      "num": 96402,
+      "word": "新一代小米SU7九款颜色公布",
+      "onboard_time": 1768518858,
+      "rank": 9,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 96377,
       "num": 96377,
       "word": "苏翊鸣世界杯亚军",
@@ -12929,14 +12961,6 @@
       "onboard_time": 1768443920,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94482,
-      "num": 53850,
-      "word": "结石姐谈当年在歌手夺冠",
-      "onboard_time": 1768519157,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 94451,
@@ -14563,6 +14587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81402,
+      "num": 81402,
+      "word": "金价上涨银行保管箱一箱难求",
+      "onboard_time": 1768519157,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 81370,
       "num": 81370,
       "word": "冬天是最适合减肥的季节",
@@ -14689,6 +14721,14 @@
       "onboard_time": 1768184300,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 80446,
+      "num": 145828,
+      "word": "一白发男列车上掐脖年轻女孩",
+      "onboard_time": 1768492400,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80408,
@@ -15020,7 +15060,7 @@
     },
     {
       "raw_hot": 77721,
-      "num": 66732,
+      "num": 71912,
       "word": "西安偶遇孙坚袁姗姗",
       "onboard_time": 1768507273,
       "rank": 30,
@@ -15243,6 +15283,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 74387,
+      "num": 74387,
+      "word": "骄阳似我第10集28分35秒",
+      "onboard_time": 1768519218,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 74378,
       "num": 230385,
       "word": "AI点的第一杯奶茶",
@@ -15459,14 +15507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71842,
-      "num": 71842,
-      "word": "新一代小米SU7九款颜色公布",
-      "onboard_time": 1768518858,
-      "rank": 9,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 71699,
       "num": 71699,
       "word": "内娱需要这样养眼的古装扮相",
@@ -15481,14 +15521,6 @@
       "onboard_time": 1768452921,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 71468,
-      "num": 145828,
-      "word": "一白发男列车上掐脖年轻女孩",
-      "onboard_time": 1768492400,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 71424,
@@ -15571,12 +15603,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 69913,
-      "num": 66660,
-      "word": "93岁奶奶为尿毒症晚期孙女出镜跳舞",
-      "onboard_time": 1768518977,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 69850,
+      "num": 69850,
+      "word": "代旭的耳机戴出了耳钉的感觉",
+      "onboard_time": 1768499236,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 69788,
@@ -15617,14 +15649,6 @@
       "onboard_time": 1768395621,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68839,
-      "num": 68839,
-      "word": "代旭的耳机戴出了耳钉的感觉",
-      "onboard_time": 1768499236,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 68698,
@@ -15963,6 +15987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 63036,
+      "num": 63036,
+      "word": "王者碎片商店绝版皮肤",
+      "onboard_time": 1768520298,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 62939,
       "num": 171919,
       "word": "刘宇宁 你们文明点啊",
@@ -16259,6 +16291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57807,
+      "num": 57807,
+      "word": "女教师群聊八卦被拘起诉公安被驳回",
+      "onboard_time": 1768520298,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57757,
       "num": 134440,
       "word": "委代总统宣誓将解救马杜罗",
@@ -16323,14 +16363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56040,
-      "num": 56040,
-      "word": "骄阳似我第10集28分35秒",
-      "onboard_time": 1768519218,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 55846,
       "num": 102465,
       "word": "中方回应美对古巴发出新威胁",
@@ -16379,6 +16411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54066,
+      "num": 54066,
+      "word": "林诗栋梁靖崑2比3张禹珍赵大成",
+      "onboard_time": 1768520421,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54037,
       "num": 151658,
       "word": "收到了去世十年姐姐的微信",
@@ -16401,14 +16441,6 @@
       "onboard_time": 1768322059,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 53740,
-      "num": 53740,
-      "word": "金价上涨银行保管箱一箱难求",
-      "onboard_time": 1768519157,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 53626,
@@ -16457,6 +16489,14 @@
       "onboard_time": 1768047502,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51684,
+      "num": 50806,
+      "word": "陶玉玲曾患5种癌症",
+      "onboard_time": 1768515014,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 51584,
@@ -16523,14 +16563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 50806,
-      "num": 50806,
-      "word": "陶玉玲曾患5种癌症",
-      "onboard_time": 1768515014,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 50359,
       "num": 120936,
       "word": "单亲妈妈为寻子只身闯电诈园区",
@@ -16577,6 +16609,14 @@
       "onboard_time": 1768377021,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 49848,
+      "num": 69854,
+      "word": "马克龙称会有更多士兵前往格陵兰岛",
+      "onboard_time": 1768519698,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 49742,
@@ -16811,14 +16851,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 42627,
-      "num": 45508,
-      "word": "马克龙称会有更多士兵前往格陵兰岛",
-      "onboard_time": 1768519698,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 42599,
       "num": 125495,
       "word": "张凌赫 怪会招蜂引蝶的",
@@ -17035,6 +17067,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 39620,
+      "num": 39620,
+      "word": "澳网2026",
+      "onboard_time": 1768519877,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39542,
       "num": 785146,
       "word": "2025有3000场大型营业性演出",
@@ -17065,6 +17105,14 @@
       "onboard_time": 1768087697,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 39141,
+      "num": 39141,
+      "word": "库明加申请交易",
+      "onboard_time": 1768520058,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 39025,
@@ -17121,6 +17169,14 @@
       "onboard_time": 1768098499,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37944,
+      "num": 37944,
+      "word": "短剧选用11岁女童演替嫁新娘",
+      "onboard_time": 1768520359,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 37900,
@@ -18347,6 +18403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17218,
+      "num": 509660,
+      "word": "中国外贸成就很不平凡",
+      "onboard_time": 1768483222,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17134,
       "num": 33394,
       "word": "刘宇宁沙丘战士",
@@ -18425,14 +18489,6 @@
       "onboard_time": 1768159994,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 15792,
-      "num": 458744,
-      "word": "中国外贸成就很不平凡",
-      "onboard_time": 1768483222,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15772,
