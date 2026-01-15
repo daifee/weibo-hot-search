@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768456235051,
+  "endTime": 1768459464764,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -417,6 +417,14 @@
       "onboard_time": 1768446318,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1377099,
+      "num": 189437,
+      "word": "李施嬅车崇健分手",
+      "onboard_time": 1768458921,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1374474,
@@ -2267,6 +2275,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 635802,
+      "num": 433523,
+      "word": "女子7万买金镯一捏就变形",
+      "onboard_time": 1768454779,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 634706,
       "num": 243785,
       "word": "凶手听到量刑建议死立执才道歉",
@@ -4035,6 +4051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 493562,
+      "num": 1078969,
+      "word": "沙特又宣布发现黄金资源",
+      "onboard_time": 1768452622,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 492122,
       "num": 303220,
       "word": "柯洁",
@@ -4305,6 +4329,14 @@
       "onboard_time": 1767500966,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 475048,
+      "num": 187076,
+      "word": "肖指导儿子进军娱乐圈了",
+      "onboard_time": 1768457300,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 475018,
@@ -6339,6 +6371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 371097,
+      "num": 756503,
+      "word": "短剧已经卷到3秒一集了",
+      "onboard_time": 1768451721,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 370681,
       "num": 1093672,
       "word": "何不同舟渡",
@@ -6592,14 +6632,6 @@
       "word": "烟花",
       "onboard_time": 1767182001,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 360111,
-      "num": 360111,
-      "word": "女子7万买金镯一捏就变形",
-      "onboard_time": 1768454779,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -6875,14 +6907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 351381,
-      "num": 351381,
-      "word": "沙特又宣布发现黄金资源",
-      "onboard_time": 1768452622,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 351369,
       "num": 846237,
       "word": "中方驳回日方交涉",
@@ -6913,14 +6937,6 @@
       "onboard_time": 1767931642,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 350500,
-      "num": 188311,
-      "word": "短剧已经卷到3秒一集了",
-      "onboard_time": 1768451721,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 349206,
@@ -10195,6 +10211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255052,
+      "num": 220783,
+      "word": "美国向英国发出严厉威胁",
+      "onboard_time": 1768456700,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 254851,
       "num": 254851,
       "word": "李莎旻子 口条",
@@ -10353,6 +10377,14 @@
       "onboard_time": 1767432804,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 251602,
+      "num": 189034,
+      "word": "38岁女子呕吐一夜后突发脑梗瘫痪",
+      "onboard_time": 1768458979,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251564,
@@ -11763,6 +11795,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 220749,
+      "num": 185717,
+      "word": "北京环球影城偶遇龚俊",
+      "onboard_time": 1768456879,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220600,
       "num": 181418,
       "word": "特斯拉推出7年超低息购车",
@@ -12865,6 +12905,14 @@
       "onboard_time": 1767255260,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 203989,
+      "num": 203989,
+      "word": "广东省考成绩",
+      "onboard_time": 1768458020,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 203907,
@@ -14177,6 +14225,14 @@
       "onboard_time": 1768206079,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 190067,
+      "num": 190067,
+      "word": "得闲谨制票房破4亿",
+      "onboard_time": 1768458379,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 189868,
@@ -17539,6 +17595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 159734,
+      "num": 159734,
+      "word": "伊朗约2000枚导弹可覆盖美以基地",
+      "onboard_time": 1768452981,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 159715,
       "num": 154712,
       "word": "羽绒服一下就洗干净了",
@@ -18745,6 +18809,14 @@
       "onboard_time": 1768223181,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150358,
+      "num": 150358,
+      "word": "陈都灵回应获奖感言出圈",
+      "onboard_time": 1768452442,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 150356,
@@ -22211,6 +22283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130885,
+      "num": 130885,
+      "word": "A股半日缩量3472亿",
+      "onboard_time": 1768458319,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 130776,
       "num": 130776,
       "word": "我要再玩100年英雄联盟",
@@ -23657,14 +23737,6 @@
       "onboard_time": 1768192824,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 123749,
-      "num": 140971,
-      "word": "陈都灵回应获奖感言出圈",
-      "onboard_time": 1768452442,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 123734,
@@ -26755,6 +26827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111645,
+      "num": 111645,
+      "word": "孙闻退出国家队",
+      "onboard_time": 1768459161,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111544,
       "num": 111544,
       "word": "王者S42碎片商店上线必秒皮肤",
@@ -27955,6 +28035,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 106612,
+      "num": 106612,
+      "word": "肖战辛苦一年倒欠半部",
+      "onboard_time": 1768459041,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106582,
       "num": 235969,
       "word": "委内瑞拉代总统誓言营救马杜罗夫妇",
@@ -28297,6 +28385,14 @@
       "onboard_time": 1767266961,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105770,
+      "num": 105770,
+      "word": "24岁女子回应减肥50斤后确诊尿毒症",
+      "onboard_time": 1768453582,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105733,
@@ -31707,6 +31803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95604,
+      "num": 95604,
+      "word": "张小斐 不用强调那么多次不送我",
+      "onboard_time": 1768459161,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95561,
       "num": 95561,
       "word": "住进了30岁高龄的祖传自建房",
@@ -32011,6 +32115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94588,
+      "num": 94588,
+      "word": "周雨说约任嘉伦打球至少约了5年",
+      "onboard_time": 1768457001,
+      "rank": 34,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 94557,
       "num": 130086,
       "word": "又一个国产AI爆款在海外大火",
@@ -32201,6 +32313,14 @@
       "onboard_time": 1767776062,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 94040,
+      "num": 94040,
+      "word": "贺娇龙被质疑想当网红时突然哽塞",
+      "onboard_time": 1768457300,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94024,
@@ -32521,6 +32641,14 @@
       "onboard_time": 1767423626,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 93060,
+      "num": 93060,
+      "word": "白天的脸vs晚上的脸",
+      "onboard_time": 1768458200,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 93021,
@@ -32929,14 +33057,6 @@
       "onboard_time": 1768365262,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 91741,
-      "num": 91741,
-      "word": "24岁女子回应减肥50斤后确诊尿毒症",
-      "onboard_time": 1768453582,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91698,
@@ -33649,14 +33769,6 @@
       "onboard_time": 1768023740,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 89725,
-      "num": 140734,
-      "word": "伊朗约2000枚导弹可覆盖美以基地",
-      "onboard_time": 1768452981,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 89720,
@@ -35947,6 +36059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82657,
+      "num": 76475,
+      "word": "刘昊然评论区下饺子了",
+      "onboard_time": 1768458020,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 82637,
       "num": 97916,
       "word": "彭小苒白天官宣晚上亮相",
@@ -36320,6 +36440,14 @@
       "word": "赵今麦新剧会说敢说",
       "onboard_time": 1767924199,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 81294,
+      "num": 75812,
+      "word": "国公府世子vs世子夫人",
+      "onboard_time": 1768456700,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -38467,6 +38595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 72737,
+      "num": 72737,
+      "word": "阿尔及利亚遥感三号卫星A星发射成功",
+      "onboard_time": 1768458200,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 72716,
       "num": 72716,
       "word": "毕业15年小伙救了同班同学的孩子",
@@ -38545,6 +38681,14 @@
       "onboard_time": 1768114162,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72246,
+      "num": 72246,
+      "word": "杨瀚森单手反扣",
+      "onboard_time": 1768459100,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 72233,
@@ -38747,12 +38891,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 71018,
+      "num": 71018,
+      "word": "沈梦辰 会做饭的男人都是在发光",
+      "onboard_time": 1768459400,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 70920,
       "num": 124477,
       "word": "香港人组团买房涌入大湾区",
       "onboard_time": 1768228761,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70842,
+      "num": 70842,
+      "word": "单休的人一听就碎了",
+      "onboard_time": 1768457599,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 70802,

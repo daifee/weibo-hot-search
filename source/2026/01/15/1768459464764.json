@@ -1,0 +1,410 @@
+{
+  "runTime": 1768459464764,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 493562,
+        "num": 1078969,
+        "word": "沙特又宣布发现黄金资源",
+        "onboard_time": 1768452622,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 371097,
+        "num": 756503,
+        "word": "短剧已经卷到3秒一集了",
+        "onboard_time": 1768451721,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34668,
+        "num": 618564,
+        "word": "换购住房继续享受退税优惠",
+        "onboard_time": 1768448300,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 635802,
+        "num": 433523,
+        "word": "女子7万买金镯一捏就变形",
+        "onboard_time": 1768454779,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225491,
+        "num": 225491,
+        "word": "聂卫平逝世",
+        "onboard_time": 1768435160,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260073,
+        "num": 221639,
+        "word": "贺娇龙遗体已回到昭苏",
+        "onboard_time": 1768447701,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255052,
+        "num": 220783,
+        "word": "美国向英国发出严厉威胁",
+        "onboard_time": 1768456700,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 213533,
+        "num": 213533,
+        "word": "感觉家里的不动产动了一下",
+        "onboard_time": 1768448780,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203989,
+        "num": 203989,
+        "word": "广东省考成绩",
+        "onboard_time": 1768458020,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 190067,
+        "num": 190067,
+        "word": "得闲谨制票房破4亿",
+        "onboard_time": 1768458379,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1377099,
+        "num": 189437,
+        "word": "李施嬅车崇健分手",
+        "onboard_time": 1768458921,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251602,
+        "num": 189034,
+        "word": "38岁女子呕吐一夜后突发脑梗瘫痪",
+        "onboard_time": 1768458979,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 548485,
+        "num": 188251,
+        "word": "QQ回应沈腾空间被盗",
+        "onboard_time": 1768451721,
+        "rank": 12,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 475048,
+        "num": 187076,
+        "word": "肖指导儿子进军娱乐圈了",
+        "onboard_time": 1768457300,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192791,
+        "num": 186209,
+        "word": "美国人开始认同中式生活",
+        "onboard_time": 1768449020,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 220749,
+        "num": 185717,
+        "word": "北京环球影城偶遇龚俊",
+        "onboard_time": 1768456879,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185123,
+        "num": 185123,
+        "word": "贺娇龙相册全是凌晨工作照片",
+        "onboard_time": 1768437443,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159734,
+        "num": 159734,
+        "word": "伊朗约2000枚导弹可覆盖美以基地",
+        "onboard_time": 1768452981,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150358,
+        "num": 150358,
+        "word": "陈都灵回应获奖感言出圈",
+        "onboard_time": 1768452442,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141953,
+        "num": 141953,
+        "word": "金晨辟谣痔疮膏能去除黑眼圈",
+        "onboard_time": 1768450880,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375836,
+        "num": 139744,
+        "word": "女子被判向出轨丈夫道歉15天",
+        "onboard_time": 1768446318,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142517,
+        "num": 139175,
+        "word": "韦德评论王橹杰",
+        "onboard_time": 1768435581,
+        "rank": 21,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 130885,
+        "num": 130885,
+        "word": "A股半日缩量3472亿",
+        "onboard_time": 1768458319,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128150,
+        "num": 128150,
+        "word": "轧戏电梯3.0",
+        "onboard_time": 1768455201,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113677,
+        "num": 113677,
+        "word": "贺娇龙从服务员到全国网红干部",
+        "onboard_time": 1768449501,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111645,
+        "num": 111645,
+        "word": "孙闻退出国家队",
+        "onboard_time": 1768459161,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107420,
+        "num": 107420,
+        "word": "聂卫平曾后悔为国足开了珍藏好酒",
+        "onboard_time": 1768456041,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106683,
+        "num": 106683,
+        "word": "香港文体旅局局长发文感谢周深",
+        "onboard_time": 1768454360,
+        "rank": 27,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 106612,
+        "num": 106612,
+        "word": "肖战辛苦一年倒欠半部",
+        "onboard_time": 1768459041,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105770,
+        "num": 105770,
+        "word": "24岁女子回应减肥50斤后确诊尿毒症",
+        "onboard_time": 1768453582,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100147,
+        "num": 100147,
+        "word": "你那儿几点 王安宇",
+        "onboard_time": 1768443741,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96233,
+        "num": 96233,
+        "word": "韦德已删除和王橹杰互动内容",
+        "onboard_time": 1768450400,
+        "rank": 31,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 96044,
+        "num": 96044,
+        "word": "爸爸担心女儿考上清北探望机票太贵",
+        "onboard_time": 1768440260,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95604,
+        "num": 95604,
+        "word": "张小斐 不用强调那么多次不送我",
+        "onboard_time": 1768459161,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94588,
+        "num": 94588,
+        "word": "周雨说约任嘉伦打球至少约了5年",
+        "onboard_time": 1768457001,
+        "rank": 34,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 94040,
+        "num": 94040,
+        "word": "贺娇龙被质疑想当网红时突然哽塞",
+        "onboard_time": 1768457300,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93060,
+        "num": 93060,
+        "word": "白天的脸vs晚上的脸",
+        "onboard_time": 1768458200,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90096,
+        "num": 90096,
+        "word": "贺峻霖发张图压压惊",
+        "onboard_time": 1768455680,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87816,
+        "num": 87816,
+        "word": "谁把沈腾QQ空间盗了",
+        "onboard_time": 1768443020,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86471,
+        "num": 86471,
+        "word": "柯洁",
+        "onboard_time": 1768438882,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86308,
+        "num": 86308,
+        "word": "微博之夜",
+        "onboard_time": 1768451300,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 84860,
+        "num": 84860,
+        "word": "玉茗茶骨大结局",
+        "onboard_time": 1768449679,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81876,
+        "num": 81876,
+        "word": "再见爱人5收官",
+        "onboard_time": 1768455799,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79132,
+        "num": 79132,
+        "word": "棋手战鹰缅怀聂卫平",
+        "onboard_time": 1768449260,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82657,
+        "num": 76475,
+        "word": "刘昊然评论区下饺子了",
+        "onboard_time": 1768458020,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81294,
+        "num": 75812,
+        "word": "国公府世子vs世子夫人",
+        "onboard_time": 1768456700,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72737,
+        "num": 72737,
+        "word": "阿尔及利亚遥感三号卫星A星发射成功",
+        "onboard_time": 1768458200,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 72246,
+        "num": 72246,
+        "word": "杨瀚森单手反扣",
+        "onboard_time": 1768459100,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71018,
+        "num": 71018,
+        "word": "沈梦辰 会做饭的男人都是在发光",
+        "onboard_time": 1768459400,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70842,
+        "num": 70842,
+        "word": "单休的人一听就碎了",
+        "onboard_time": 1768457599,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调建设良好家风的重要性#"
+    }
+  }
+}

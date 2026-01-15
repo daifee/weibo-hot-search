@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768456235051,
+  "endTime": 1768459464764,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -193,6 +193,14 @@
       "onboard_time": 1768446318,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1377099,
+      "num": 189437,
+      "word": "李施嬅车崇健分手",
+      "onboard_time": 1768458921,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1352396,
@@ -867,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 635802,
+      "num": 433523,
+      "word": "女子7万买金镯一捏就变形",
+      "onboard_time": 1768454779,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 634048,
       "num": 219004,
       "word": "推特崩了",
@@ -1467,6 +1483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 493562,
+      "num": 1078969,
+      "word": "沙特又宣布发现黄金资源",
+      "onboard_time": 1768452622,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 492122,
       "num": 303220,
       "word": "柯洁",
@@ -1553,6 +1577,14 @@
       "onboard_time": 1768271239,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 475048,
+      "num": 187076,
+      "word": "肖指导儿子进军娱乐圈了",
+      "onboard_time": 1768457300,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 473839,
@@ -2347,6 +2379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 371097,
+      "num": 756503,
+      "word": "短剧已经卷到3秒一集了",
+      "onboard_time": 1768451721,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 370269,
       "num": 199980,
       "word": "汪苏泷代言MLB",
@@ -2417,14 +2457,6 @@
       "onboard_time": 1768272261,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 360111,
-      "num": 360111,
-      "word": "女子7万买金镯一捏就变形",
-      "onboard_time": 1768454779,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 360025,
@@ -2529,22 +2561,6 @@
       "onboard_time": 1768184659,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 351381,
-      "num": 351381,
-      "word": "沙特又宣布发现黄金资源",
-      "onboard_time": 1768452622,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 350500,
-      "num": 188311,
-      "word": "短剧已经卷到3秒一集了",
-      "onboard_time": 1768451721,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 348442,
@@ -3651,6 +3667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255052,
+      "num": 220783,
+      "word": "美国向英国发出严厉威胁",
+      "onboard_time": 1768456700,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 254832,
       "num": 134238,
       "word": "被体制内大佬的工作留痕震撼到了",
@@ -3689,6 +3713,14 @@
       "onboard_time": 1768276641,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251602,
+      "num": 189034,
+      "word": "38岁女子呕吐一夜后突发脑梗瘫痪",
+      "onboard_time": 1768458979,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250919,
@@ -4219,6 +4251,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 220749,
+      "num": 185717,
+      "word": "北京环球影城偶遇龚俊",
+      "onboard_time": 1768456879,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220285,
       "num": 220285,
       "word": "美人余有易梦玲",
@@ -4592,6 +4632,14 @@
       "word": "上岸",
       "onboard_time": 1768398200,
       "rank": 26,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 203989,
+      "num": 203989,
+      "word": "广东省考成绩",
+      "onboard_time": 1768458020,
+      "rank": 8,
       "category": "教育"
     },
     {
@@ -5081,6 +5129,14 @@
       "onboard_time": 1768206079,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 190067,
+      "num": 190067,
+      "word": "得闲谨制票房破4亿",
+      "onboard_time": 1768458379,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 189687,
@@ -6187,6 +6243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159734,
+      "num": 159734,
+      "word": "伊朗约2000枚导弹可覆盖美以基地",
+      "onboard_time": 1768452981,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 159668,
       "num": 159668,
       "word": "国漫白切黑医生姐姐你好香",
@@ -6697,6 +6761,14 @@
       "onboard_time": 1768223181,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150358,
+      "num": 150358,
+      "word": "陈都灵回应获奖感言出圈",
+      "onboard_time": 1768452442,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 149974,
@@ -7899,6 +7971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130885,
+      "num": 130885,
+      "word": "A股半日缩量3472亿",
+      "onboard_time": 1768458319,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 130775,
       "num": 130775,
       "word": "吴佳怡不是命硬的不演",
@@ -8353,14 +8433,6 @@
       "onboard_time": 1768192824,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 123749,
-      "num": 140971,
-      "word": "陈都灵回应获奖感言出圈",
-      "onboard_time": 1768452442,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 123734,
@@ -9499,6 +9571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111645,
+      "num": 111645,
+      "word": "孙闻退出国家队",
+      "onboard_time": 1768459161,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111220,
       "num": 111220,
       "word": "聂卫平说棋圣称号让自己不安几十年",
@@ -10035,6 +10115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106612,
+      "num": 106612,
+      "word": "肖战辛苦一年倒欠半部",
+      "onboard_time": 1768459041,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106567,
       "num": 106567,
       "word": "左奇函函左奇奇函左",
@@ -10145,6 +10233,14 @@
       "onboard_time": 1768438100,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 105770,
+      "num": 105770,
+      "word": "24岁女子回应减肥50斤后确诊尿毒症",
+      "onboard_time": 1768453582,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105673,
@@ -11251,6 +11347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95604,
+      "num": 95604,
+      "word": "张小斐 不用强调那么多次不送我",
+      "onboard_time": 1768459161,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95561,
       "num": 95561,
       "word": "住进了30岁高龄的祖传自建房",
@@ -11363,6 +11467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94588,
+      "num": 94588,
+      "word": "周雨说约任嘉伦打球至少约了5年",
+      "onboard_time": 1768457001,
+      "rank": 34,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 94528,
       "num": 94528,
       "word": "贺娇龙曾因坠马后头晕取消拍摄",
@@ -11409,6 +11521,14 @@
       "onboard_time": 1768105879,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 94040,
+      "num": 94040,
+      "word": "贺娇龙被质疑想当网红时突然哽塞",
+      "onboard_time": 1768457300,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93921,
@@ -11481,6 +11601,14 @@
       "onboard_time": 1768089199,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93060,
+      "num": 93060,
+      "word": "白天的脸vs晚上的脸",
+      "onboard_time": 1768458200,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 92980,
@@ -11609,14 +11737,6 @@
       "onboard_time": 1768365262,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 91741,
-      "num": 91741,
-      "word": "24岁女子回应减肥50斤后确诊尿毒症",
-      "onboard_time": 1768453582,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91658,
@@ -11873,14 +11993,6 @@
       "onboard_time": 1768221262,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 89725,
-      "num": 140734,
-      "word": "伊朗约2000枚导弹可覆盖美以基地",
-      "onboard_time": 1768452981,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 89720,
@@ -12555,6 +12667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82657,
+      "num": 76475,
+      "word": "刘昊然评论区下饺子了",
+      "onboard_time": 1768458020,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 82607,
       "num": 82607,
       "word": "A股超百只个股涨停",
@@ -12697,6 +12817,14 @@
       "onboard_time": 1768314922,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81294,
+      "num": 75812,
+      "word": "国公府世子vs世子夫人",
+      "onboard_time": 1768456700,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 81217,
@@ -13363,6 +13491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72737,
+      "num": 72737,
+      "word": "阿尔及利亚遥感三号卫星A星发射成功",
+      "onboard_time": 1768458200,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 72716,
       "num": 72716,
       "word": "毕业15年小伙救了同班同学的孩子",
@@ -13393,6 +13529,14 @@
       "onboard_time": 1768114162,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72246,
+      "num": 72246,
+      "word": "杨瀚森单手反扣",
+      "onboard_time": 1768459100,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 72162,
@@ -13443,12 +13587,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71018,
+      "num": 71018,
+      "word": "沈梦辰 会做饭的男人都是在发光",
+      "onboard_time": 1768459400,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 70920,
       "num": 124477,
       "word": "香港人组团买房涌入大湾区",
       "onboard_time": 1768228761,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70842,
+      "num": 70842,
+      "word": "单休的人一听就碎了",
+      "onboard_time": 1768457599,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 70680,
