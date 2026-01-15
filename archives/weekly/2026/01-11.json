@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768485495900,
+  "endTime": 1768487615701,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -163,6 +163,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1554683,
+      "num": 1085060,
+      "word": "金价彻底杀疯了",
+      "onboard_time": 1768477642,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1522691,
       "num": 373486,
       "word": "宋威龙赵今麦完全是婚礼现场",
@@ -185,6 +193,14 @@
       "onboard_time": 1768208120,
       "rank": 40,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 1487438,
+      "num": 228300,
+      "word": "金价",
+      "onboard_time": 1768179620,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 1472597,
@@ -249,14 +265,6 @@
       "onboard_time": 1768437443,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1244535,
-      "num": 228300,
-      "word": "金价",
-      "onboard_time": 1768179620,
-      "rank": 10,
-      "category": "财经"
     },
     {
       "raw_hot": 1195104,
@@ -452,7 +460,7 @@
     },
     {
       "raw_hot": 920382,
-      "num": 249001,
+      "num": 408513,
       "word": "轧戏王光明出轨",
       "onboard_time": 1768479860,
       "rank": 5,
@@ -688,14 +696,6 @@
       "word": "银价彻底杀疯了",
       "onboard_time": 1768378161,
       "rank": 25,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 748074,
-      "num": 913114,
-      "word": "金价彻底杀疯了",
-      "onboard_time": 1768477642,
-      "rank": 20,
       "category": "财经"
     },
     {
@@ -1667,6 +1667,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 492706,
+      "num": 492706,
+      "word": "轧戏 图书馆30秒",
+      "onboard_time": 1768481900,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 492122,
       "num": 303220,
       "word": "柯洁",
@@ -1915,14 +1923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 453737,
-      "num": 453737,
-      "word": "轧戏 图书馆30秒",
-      "onboard_time": 1768481900,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 452793,
       "num": 452793,
       "word": "国考进面名单",
@@ -2128,6 +2128,14 @@
       "word": "呆呆1分钟视频报价2400元",
       "onboard_time": 1768218621,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 430500,
+      "num": 430500,
+      "word": "101岁奶奶每天熬夜追剧到凌晨2点",
+      "onboard_time": 1768482140,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -2891,6 +2899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 342488,
+      "num": 342488,
+      "word": "国家电网计划投资4万亿元",
+      "onboard_time": 1768480820,
+      "rank": 23,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 342324,
       "num": 219359,
       "word": "日本男子嫌年终奖发得少把老板杀了",
@@ -3153,6 +3169,14 @@
       "onboard_time": 1768116500,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 318836,
+      "num": 318836,
+      "word": "车厘子测量卡 缩水",
+      "onboard_time": 1768482561,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 318450,
@@ -3979,14 +4003,6 @@
       "category": "体育,时尚"
     },
     {
-      "raw_hot": 256089,
-      "num": 256089,
-      "word": "车厘子测量卡 缩水",
-      "onboard_time": 1768482561,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 255751,
       "num": 124808,
       "word": "韩国开始出现迪拜巧克力麻薯糖葫芦了",
@@ -4041,14 +4057,6 @@
       "onboard_time": 1768282041,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 252904,
-      "num": 252904,
-      "word": "国家电网计划投资4万亿元",
-      "onboard_time": 1768480820,
-      "rank": 23,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 252703,
@@ -4369,6 +4377,14 @@
       "onboard_time": 1768380620,
       "rank": 21,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 233358,
+      "num": 182155,
+      "word": "宋威龙赵今麦合唱",
+      "onboard_time": 1768483460,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 232839,
@@ -4715,6 +4731,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217631,
+      "num": 188623,
+      "word": "女网红在飞机上突然焦虑症发作",
+      "onboard_time": 1768485141,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 217601,
+      "num": 152703,
+      "word": "将门毒后书粉",
+      "onboard_time": 1768486522,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217405,
       "num": 217405,
       "word": "伊朗外长说已控制全国局势",
@@ -4915,20 +4947,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209509,
+      "num": 176714,
+      "word": "贾国龙朋友圈称尽力了",
+      "onboard_time": 1768481541,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208837,
       "num": 208837,
       "word": "流落柬埔寨街头的女网红已回国",
       "onboard_time": 1768471640,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 208234,
-      "num": 144238,
-      "word": "宋威龙赵今麦合唱",
-      "onboard_time": 1768483460,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 207991,
@@ -5017,6 +5049,14 @@
       "onboard_time": 1768138942,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204628,
+      "num": 226657,
+      "word": "商家回应自家衣服没剪吊牌在漠河",
+      "onboard_time": 1768482020,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 204355,
@@ -5371,6 +5411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193482,
+      "num": 151321,
+      "word": "杨幂赵丽颖活动生图",
+      "onboard_time": 1768481720,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193215,
       "num": 238772,
       "word": "白银暴涨暴跌比黄金更刺激",
@@ -5691,6 +5739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186554,
+      "num": 149194,
+      "word": "将门毒后制作班底",
+      "onboard_time": 1768486462,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186511,
       "num": 186511,
       "word": "ELLE2月刊封面",
@@ -5971,6 +6027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 179540,
+      "num": 141621,
+      "word": "周也和姐姐 大明星和设计师",
+      "onboard_time": 1768481720,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179344,
       "num": 231558,
       "word": "LV三里屯新店开幕",
@@ -6081,14 +6145,6 @@
       "onboard_time": 1768366403,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176158,
-      "num": 149506,
-      "word": "杨幂赵丽颖活动生图",
-      "onboard_time": 1768481720,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 175798,
@@ -6675,14 +6731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 161586,
-      "num": 141621,
-      "word": "周也和姐姐 大明星和设计师",
-      "onboard_time": 1768481720,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 161517,
       "num": 161517,
       "word": "十日终焉男主肖战没变过",
@@ -6769,6 +6817,14 @@
       "onboard_time": 1768123581,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159780,
+      "num": 141459,
+      "word": "天地剑心",
+      "onboard_time": 1768482920,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 159734,
@@ -7307,14 +7363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150833,
-      "num": 150833,
-      "word": "101岁奶奶每天熬夜追剧到凌晨2点",
-      "onboard_time": 1768482140,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150832,
       "num": 150832,
       "word": "张凌赫田曦薇录制你好星期六",
@@ -7417,6 +7465,14 @@
       "onboard_time": 1768386739,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149707,
+      "num": 149707,
+      "word": "逆战未来",
+      "onboard_time": 1768307062,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 149687,
@@ -7579,14 +7635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 146959,
-      "num": 226657,
-      "word": "商家回应自家衣服没剪吊牌在漠河",
-      "onboard_time": 1768482020,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146892,
       "num": 146892,
       "word": "福宝用手赶小鸟太可爱了",
@@ -7745,14 +7793,6 @@
       "onboard_time": 1768312223,
       "rank": 42,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 144777,
-      "num": 141459,
-      "word": "天地剑心",
-      "onboard_time": 1768482920,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 144647,
@@ -8043,6 +8083,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 139966,
+      "num": 139966,
+      "word": "京城大师赛",
+      "onboard_time": 1768487122,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 139913,
       "num": 150523,
       "word": "樊振东德甲欧冠未来赛程",
@@ -8169,6 +8217,14 @@
       "onboard_time": 1768401562,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137863,
+      "num": 137863,
+      "word": "丁程鑫室外被冻成孙子了",
+      "onboard_time": 1768487122,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 137777,
@@ -8363,6 +8419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135456,
+      "num": 135456,
+      "word": "CBA",
+      "onboard_time": 1768486580,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135368,
       "num": 135368,
       "word": "侯明昊又双叒叕被夜抛了",
@@ -8465,6 +8529,14 @@
       "onboard_time": 1768452622,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 134569,
+      "num": 134569,
+      "word": "最容易透支心脏的10个习惯",
+      "onboard_time": 1768483281,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 134560,
@@ -8953,6 +9025,14 @@
       "onboard_time": 1768449200,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127805,
+      "num": 127805,
+      "word": "张子枫我都有点心疼你了",
+      "onboard_time": 1768484961,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 127803,
@@ -10355,14 +10435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 112644,
-      "num": 143792,
-      "word": "贾国龙朋友圈称尽力了",
-      "onboard_time": 1768481541,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112610,
       "num": 111543,
       "word": "聂卫平女儿说明明已经恢复那么好了",
@@ -10683,14 +10755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109941,
-      "num": 109941,
-      "word": "女网红在飞机上突然焦虑症发作",
-      "onboard_time": 1768485141,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 109920,
       "num": 109920,
       "word": "王鹤润喝嗨了开始发疯",
@@ -10753,14 +10817,6 @@
       "onboard_time": 1768378699,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 109508,
-      "num": 109508,
-      "word": "张子枫我都有点心疼你了",
-      "onboard_time": 1768484961,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 109434,
@@ -10913,6 +10969,14 @@
       "onboard_time": 1768302981,
       "rank": 19,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 108335,
+      "num": 108335,
+      "word": "很多人都没有你早上喝的那杯水重要",
+      "onboard_time": 1768484661,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 108321,
@@ -11091,14 +11155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106633,
-      "num": 106633,
-      "word": "最容易透支心脏的10个习惯",
-      "onboard_time": 1768483281,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 106567,
       "num": 106567,
       "word": "左奇函函左奇奇函左",
@@ -11259,14 +11315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 105407,
-      "num": 105407,
-      "word": "逆战未来",
-      "onboard_time": 1768307062,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 105405,
       "num": 101498,
       "word": "心有林曦合唱我的心已经等你好多年",
@@ -11321,14 +11369,6 @@
       "onboard_time": 1768342334,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 104610,
-      "num": 104610,
-      "word": "很多人都没有你早上喝的那杯水重要",
-      "onboard_time": 1768484661,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 104601,
@@ -11401,6 +11441,14 @@
       "onboard_time": 1768447160,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104202,
+      "num": 96761,
+      "word": "肖战2026秋冬大秀",
+      "onboard_time": 1768487482,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 104011,
@@ -11883,6 +11931,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 100399,
+      "num": 100399,
+      "word": "印度赛梁王组合越打越顺",
+      "onboard_time": 1768487302,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100385,
       "num": 97002,
       "word": "十日终焉正在置景",
@@ -12187,6 +12243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97938,
+      "num": 97938,
+      "word": "王子奇新剧三观比五官还正",
+      "onboard_time": 1768486041,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97854,
       "num": 97545,
       "word": "周杰伦尴尬时候就这样疯狂签名",
@@ -12281,6 +12345,14 @@
       "onboard_time": 1768476800,
       "rank": 42,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 97300,
+      "num": 97300,
+      "word": "体面分手有个弊端是容易造成误会",
+      "onboard_time": 1768487182,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 97168,
@@ -12553,6 +12625,14 @@
       "onboard_time": 1768462941,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 95197,
+      "num": 95197,
+      "word": "樊振东多特蒙德有趣互动",
+      "onboard_time": 1768486402,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 95068,
@@ -13137,6 +13217,14 @@
       "onboard_time": 1768229182,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 90596,
+      "num": 90596,
+      "word": "Viper与Elk交手记录",
+      "onboard_time": 1768487000,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 90575,
@@ -15339,6 +15427,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 66482,
+      "num": 719817,
+      "word": "地表超强材料已实现量产",
+      "onboard_time": 1768484060,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66443,
       "num": 97244,
       "word": "确诊为仓鼠型人格",
@@ -15825,14 +15921,6 @@
       "onboard_time": 1768115841,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 57744,
-      "num": 719817,
-      "word": "地表超强材料已实现量产",
-      "onboard_time": 1768484060,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57493,
@@ -17665,6 +17753,14 @@
       "onboard_time": 1768217241,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20419,
+      "num": 106730,
+      "word": "李幼斌 没有人能拒绝垃圾食品",
+      "onboard_time": 1768487482,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 20120,
