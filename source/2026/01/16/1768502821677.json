@@ -1,0 +1,410 @@
+{
+  "runTime": 1768502821677,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 172736,
+        "num": 172736,
+        "word": "将门毒后",
+        "onboard_time": 1768477940,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67706,
+        "num": 93237,
+        "word": "湖北一男子挖出青铜古剑上交博物馆",
+        "onboard_time": 1768492938,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9005,
+        "num": 74806,
+        "word": "中国外贸成就很不平凡",
+        "onboard_time": 1768483222,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101210,
+        "num": 69221,
+        "word": "玉茗茶骨",
+        "onboard_time": 1768492760,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42295,
+        "num": 56892,
+        "word": "101岁奶奶每天熬夜追剧到凌晨2点",
+        "onboard_time": 1768482140,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110622,
+        "num": 54429,
+        "word": "7岁嫁人15岁生子短剧引众怒",
+        "onboard_time": 1768489043,
+        "rank": 5,
+        "category": "民生新闻,剧集"
+      },
+      {
+        "raw_hot": 49367,
+        "num": 49367,
+        "word": "上海网红餐厅服务员辱骂诅咒顾客",
+        "onboard_time": 1768491860,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48852,
+        "num": 48852,
+        "word": "轧戏 图书馆30秒",
+        "onboard_time": 1768481900,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43878,
+        "num": 43878,
+        "word": "我们的少年时代2",
+        "onboard_time": 1768466842,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28485,
+        "num": 43813,
+        "word": "逆战未来",
+        "onboard_time": 1768486701,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198169,
+        "num": 43443,
+        "word": "花海房管",
+        "onboard_time": 1768480820,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98701,
+        "num": 42834,
+        "word": "江西杀猪宴跟风呆呆翻车",
+        "onboard_time": 1768494619,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76607,
+        "num": 42635,
+        "word": "夏迎春下房管",
+        "onboard_time": 1768480880,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 69560,
+        "num": 42015,
+        "word": "私生活这么干净为什么作息这么乱",
+        "onboard_time": 1768480581,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 50120,
+        "num": 41725,
+        "word": "派出所回应大学生偷外卖拘留5日",
+        "onboard_time": 1768494138,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45500,
+        "num": 41197,
+        "word": "贾国龙朋友圈称尽力了",
+        "onboard_time": 1768481541,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41080,
+        "num": 41080,
+        "word": "鬼鬼吐槽和艺人做朋友很累",
+        "onboard_time": 1768479920,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33195,
+        "num": 33195,
+        "word": "代旭的耳机戴出了耳钉的感觉",
+        "onboard_time": 1768499236,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26734,
+        "num": 26734,
+        "word": "iG对战AL",
+        "onboard_time": 1768501574,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 26605,
+        "num": 26605,
+        "word": "轧戏",
+        "onboard_time": 1768477339,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125876,
+        "num": 26599,
+        "word": "金价彻底杀疯了",
+        "onboard_time": 1768477642,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 104228,
+        "num": 26525,
+        "word": "香港屯门",
+        "onboard_time": 1768490722,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69709,
+        "num": 26518,
+        "word": "王橹杰来翻一翻古早相册",
+        "onboard_time": 1768496956,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34053,
+        "num": 26480,
+        "word": "金价",
+        "onboard_time": 1768481960,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 26445,
+        "num": 26445,
+        "word": "蔡徐坤采访路人",
+        "onboard_time": 1768481240,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 25333,
+        "num": 25333,
+        "word": "女网红在飞机上突然焦虑症发作",
+        "onboard_time": 1768485141,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20871,
+        "num": 25317,
+        "word": "落子无悔是一种顶级智慧",
+        "onboard_time": 1768498576,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20588,
+        "num": 25288,
+        "word": "商家回应自家衣服没剪吊牌在漠河",
+        "onboard_time": 1768482020,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19833,
+        "num": 25260,
+        "word": "国家电网计划投资4万亿元",
+        "onboard_time": 1768480820,
+        "rank": 28,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 17421,
+        "num": 25225,
+        "word": "最容易透支心脏的10个习惯",
+        "onboard_time": 1768483281,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25194,
+        "num": 25194,
+        "word": "smtm12",
+        "onboard_time": 1768491260,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24622,
+        "num": 24622,
+        "word": "天地剑心",
+        "onboard_time": 1768482920,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22113,
+        "num": 24622,
+        "word": "骄阳似我15年后续上了",
+        "onboard_time": 1768479139,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21740,
+        "num": 24620,
+        "word": "轧戏王光明出轨",
+        "onboard_time": 1768479860,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21319,
+        "num": 24619,
+        "word": "周也和姐姐 大明星和设计师",
+        "onboard_time": 1768481720,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20886,
+        "num": 24617,
+        "word": "肖战2026秋冬大秀",
+        "onboard_time": 1768487482,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 20623,
+        "num": 24617,
+        "word": "杨幂赵丽颖活动生图",
+        "onboard_time": 1768481720,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20426,
+        "num": 24616,
+        "word": "京城大师赛",
+        "onboard_time": 1768487122,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19581,
+        "num": 24614,
+        "word": "客运段回应老人掐女孩脖子吐口水",
+        "onboard_time": 1768498576,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19181,
+        "num": 24612,
+        "word": "公安部A级通缉犯在狱中被揪出",
+        "onboard_time": 1768474639,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18907,
+        "num": 24611,
+        "word": "冯建宇新歌chemical",
+        "onboard_time": 1768500915,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18763,
+        "num": 24610,
+        "word": "丁程鑫现身李雪琴新电影首映",
+        "onboard_time": 1768496297,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18483,
+        "num": 24609,
+        "word": "BLG战胜WBG",
+        "onboard_time": 1768487842,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17902,
+        "num": 24607,
+        "word": "一白发男列车上掐脖年轻女孩",
+        "onboard_time": 1768492400,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17558,
+        "num": 24606,
+        "word": "于正说芒果从不参考外部数据",
+        "onboard_time": 1768490602,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17544,
+        "num": 24605,
+        "word": "黄晓明提前一个月背词那场戏播了",
+        "onboard_time": 1768494439,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17751,
+        "num": 24605,
+        "word": "丁程鑫室外被冻成孙子了",
+        "onboard_time": 1768487122,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16650,
+        "num": 24603,
+        "word": "香港一商场警察开枪制服持刀嫌犯",
+        "onboard_time": 1768491201,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16295,
+        "num": 24602,
+        "word": "车厘子测量卡 缩水",
+        "onboard_time": 1768482561,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16259,
+        "num": 24600,
+        "word": "张慧雯曹骏紧急声明",
+        "onboard_time": 1768462461,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的治权之喻#"
+    }
+  }
+}

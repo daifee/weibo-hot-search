@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768499898226,
+  "endTime": 1768502821677,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -47099,6 +47099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33195,
+      "num": 43773,
+      "word": "代旭的耳机戴出了耳钉的感觉",
+      "onboard_time": 1768499236,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33192,
       "num": 50822,
       "word": "新音官摄舞台",
@@ -47755,14 +47763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 29077,
-      "num": 43773,
-      "word": "代旭的耳机戴出了耳钉的感觉",
-      "onboard_time": 1768499236,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 28906,
       "num": 201450,
       "word": "战斗精灵iQOOZ11Turbo来了",
@@ -48153,6 +48153,14 @@
       "onboard_time": 1767503062,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26734,
+      "num": 26734,
+      "word": "iG对战AL",
+      "onboard_time": 1768501574,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 26687,
@@ -49409,6 +49417,14 @@
       "onboard_time": 1767947962,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18907,
+      "num": 24611,
+      "word": "冯建宇新歌chemical",
+      "onboard_time": 1768500915,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 18863,

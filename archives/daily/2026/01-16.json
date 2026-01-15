@@ -1,6 +1,6 @@
 {
   "startTime": 1768495443021,
-  "endTime": 1768499898226,
+  "endTime": 1768502821677,
   "band_list": [
     {
       "raw_hot": 848134,
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69560,
+      "num": 115296,
+      "word": "私生活这么干净为什么作息这么乱",
+      "onboard_time": 1768480581,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 68159,
       "num": 115619,
       "word": "杨幂赵丽颖活动生图",
@@ -265,14 +273,6 @@
       "onboard_time": 1768482020,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 58712,
-      "num": 115296,
-      "word": "私生活这么干净为什么作息这么乱",
-      "onboard_time": 1768480581,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 56287,
@@ -419,12 +419,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 34053,
+      "num": 43645,
+      "word": "金价",
+      "onboard_time": 1768481960,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 33455,
       "num": 115447,
       "word": "乌防长自曝乌军已有约20万逃兵",
       "onboard_time": 1768489582,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 33195,
+      "num": 43773,
+      "word": "代旭的耳机戴出了耳钉的感觉",
+      "onboard_time": 1768499236,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 31113,
@@ -451,14 +467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29077,
-      "num": 43773,
-      "word": "代旭的耳机戴出了耳钉的感觉",
-      "onboard_time": 1768499236,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 26935,
       "num": 43707,
       "word": "刘宇宁沉浸式畅游澳门vlog",
@@ -467,12 +475,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 26160,
-      "num": 43645,
-      "word": "金价",
-      "onboard_time": 1768481960,
-      "rank": 38,
-      "category": "财经"
+      "raw_hot": 26734,
+      "num": 26734,
+      "word": "iG对战AL",
+      "onboard_time": 1768501574,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 24876,
@@ -489,6 +497,14 @@
       "onboard_time": 1768498576,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18907,
+      "num": 24611,
+      "word": "冯建宇新歌chemical",
+      "onboard_time": 1768500915,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 9971,

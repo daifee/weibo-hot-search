@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/11 00:34:00 ~ 2026/01/16 01:58:18
+本榜单时间：2026/01/11 00:34:00 ~ 2026/01/16 02:47:01
 </p>
 </blockquote>
 <p>
@@ -12963,6 +12963,12 @@ Breathe说RNG退出可惜了（热度：36758）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E6%97%AD%E7%9A%84%E8%80%B3%E6%9C%BA%E6%88%B4%E5%87%BA%E4%BA%86%E8%80%B3%E9%92%89%E7%9A%84%E6%84%9F%E8%A7%89%23" target="weibo">
+代旭的耳机戴出了耳钉的感觉（热度：33195）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E7%A7%AF%E7%94%B5%E8%A2%AB%E8%B4%A8%E7%96%91%E5%8F%98%E7%BE%8E%E7%A7%AF%E7%94%B5%23" target="weibo">
 台积电被质疑变美积电（热度：33174）
 </a>
@@ -13125,12 +13131,6 @@ WB战胜AG（热度：32193）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E6%97%AD%E7%9A%84%E8%80%B3%E6%9C%BA%E6%88%B4%E5%87%BA%E4%BA%86%E8%80%B3%E9%92%89%E7%9A%84%E6%84%9F%E8%A7%89%23" target="weibo">
-代旭的耳机戴出了耳钉的感觉（热度：29077）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%98%E6%96%97%E7%B2%BE%E7%81%B5iQOOZ11Turbo%E6%9D%A5%E4%BA%86%23" target="weibo">
 战斗精灵iQOOZ11Turbo来了（热度：28906）
 </a>
@@ -13253,6 +13253,12 @@ TF四代宇宙闪烁请注意侧拍（热度：26863）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%9D%A1%E7%BA%B9%E9%A3%8E%E8%A1%A3%23" target="weibo">
 王鹤棣条纹风衣（热度：26861）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23iG%E5%AF%B9%E6%88%98AL%23" target="weibo">
+iG对战AL（热度：26734）
 </a>
 </li>
 
@@ -13619,6 +13625,12 @@ TF四代宇宙闪烁请注意侧拍（热度：26863）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B0%86%E4%B8%8E%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%BC%9A%E8%B0%88%23" target="weibo">
 外交部回应李在明将与高市早苗会谈（热度：19289）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%BB%BA%E5%AE%87%E6%96%B0%E6%AD%8Cchemical%23" target="weibo">
+冯建宇新歌chemical（热度：18907）
 </a>
 </li>
 
