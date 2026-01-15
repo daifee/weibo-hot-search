@@ -1,0 +1,410 @@
+{
+  "runTime": 1768467307912,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 775498,
+        "num": 1124079,
+        "word": "降息",
+        "onboard_time": 1768462581,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 457919,
+        "num": 828877,
+        "word": "菲律宾免签",
+        "onboard_time": 1768463841,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23319,
+        "num": 635459,
+        "word": "9图看2025年健康中国答卷",
+        "onboard_time": 1768466181,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387042,
+        "num": 387042,
+        "word": "第一批免签去土耳其的已经破产了",
+        "onboard_time": 1768463601,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339843,
+        "num": 339843,
+        "word": "短剧已经卷到3秒一集了",
+        "onboard_time": 1768451721,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319887,
+        "num": 319887,
+        "word": "春节请1休10",
+        "onboard_time": 1768465161,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 316898,
+        "num": 316898,
+        "word": "西贝将关闭102家门店",
+        "onboard_time": 1768461320,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275480,
+        "num": 275480,
+        "word": "特朗普邀请记者喝放了5天的牛奶",
+        "onboard_time": 1768465520,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 223323,
+        "num": 223323,
+        "word": "官方通报产检正常娃出生却先天畸形",
+        "onboard_time": 1768460660,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 219617,
+        "num": 219617,
+        "word": "肖战辛苦一年倒欠半部",
+        "onboard_time": 1768459041,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 640529,
+        "num": 219336,
+        "word": "女孩撕心裂肺追妈妈晕倒身亡",
+        "onboard_time": 1768464620,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 623183,
+        "num": 217316,
+        "word": "张凌赫官宣宝格丽",
+        "onboard_time": 1768461561,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551461,
+        "num": 215572,
+        "word": "张慧雯曹骏紧急声明",
+        "onboard_time": 1768462461,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379770,
+        "num": 213508,
+        "word": "38岁女子呕吐一夜后突发脑梗瘫痪",
+        "onboard_time": 1768458979,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 481624,
+        "num": 212134,
+        "word": "儿子像嗯哼老公像王俊凯",
+        "onboard_time": 1768463541,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350688,
+        "num": 210530,
+        "word": "李施嬅车崇健分手",
+        "onboard_time": 1768458921,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320463,
+        "num": 208326,
+        "word": "日本男子嫌年终奖发得少把老板杀了",
+        "onboard_time": 1768462941,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 273493,
+        "num": 208006,
+        "word": "歌手鞠婧祎熹妃回宫了",
+        "onboard_time": 1768462762,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55641,
+        "num": 206341,
+        "word": "李冰冰回家",
+        "onboard_time": 1768464260,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32187,
+        "num": 203839,
+        "word": "魏建军来瑞安找活",
+        "onboard_time": 1768464260,
+        "rank": 19,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 231853,
+        "num": 202695,
+        "word": "张杰一件羽绒服穿了快10年",
+        "onboard_time": 1768462220,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201492,
+        "num": 201492,
+        "word": "我们的少年时代2主演TF四代",
+        "onboard_time": 1768461320,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173430,
+        "num": 173430,
+        "word": "女子被判向出轨丈夫道歉15天",
+        "onboard_time": 1768446318,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174862,
+        "num": 172792,
+        "word": "御赐小仵作",
+        "onboard_time": 1768464501,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170562,
+        "num": 170562,
+        "word": "我们的少年时代2",
+        "onboard_time": 1768466842,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167582,
+        "num": 167582,
+        "word": "女子7万买金镯一捏就变形",
+        "onboard_time": 1768454779,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153869,
+        "num": 153869,
+        "word": "赵丽颖沁园年会",
+        "onboard_time": 1768465821,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152446,
+        "num": 152446,
+        "word": "考公考编的区别",
+        "onboard_time": 1768463361,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 152401,
+        "num": 152401,
+        "word": "章若楠心疼张子枫新剧人设",
+        "onboard_time": 1768465040,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148471,
+        "num": 148471,
+        "word": "西贝",
+        "onboard_time": 1768464861,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169560,
+        "num": 145848,
+        "word": "公积金贷款利率接近历史低点",
+        "onboard_time": 1768467079,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142977,
+        "num": 142977,
+        "word": "贾国龙说拼了整整125天",
+        "onboard_time": 1768466422,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136350,
+        "num": 136350,
+        "word": "得闲谨制",
+        "onboard_time": 1768463059,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133641,
+        "num": 133641,
+        "word": "何美延回应再见爱人5收官",
+        "onboard_time": 1768466899,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98658,
+        "num": 131672,
+        "word": "专家建议报考研究型大学",
+        "onboard_time": 1768466360,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130379,
+        "num": 130379,
+        "word": "玉茗茶骨耳鬓厮磨给我看红温了",
+        "onboard_time": 1768466122,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117918,
+        "num": 117918,
+        "word": "周杰伦 你以为我不想",
+        "onboard_time": 1768464741,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95156,
+        "num": 115404,
+        "word": "被四岁女儿的言论震惊到了",
+        "onboard_time": 1768465281,
+        "rank": 37,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 61109,
+        "num": 115044,
+        "word": "王圣迪好成熟",
+        "onboard_time": 1768467200,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55788,
+        "num": 114948,
+        "word": "女高管辞职在海岛养鱼",
+        "onboard_time": 1768466240,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114924,
+        "num": 114924,
+        "word": "张小斐 不用强调那么多次不送我",
+        "onboard_time": 1768459161,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113739,
+        "num": 113739,
+        "word": "QQ回应沈腾空间被盗",
+        "onboard_time": 1768451721,
+        "rank": 41,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 87035,
+        "num": 87035,
+        "word": "贾国龙还能救西贝吗",
+        "onboard_time": 1768466603,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101742,
+        "num": 86650,
+        "word": "梁淞再见爱人5收官发文",
+        "onboard_time": 1768466001,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97854,
+        "num": 86472,
+        "word": "周杰伦尴尬时候就这样疯狂签名",
+        "onboard_time": 1768465940,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85913,
+        "num": 85913,
+        "word": "老虎 当喜欢干的事情变成了上班",
+        "onboard_time": 1768466842,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92343,
+        "num": 85886,
+        "word": "林宥嘉李佳薇好强大的伴郎团",
+        "onboard_time": 1768466961,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85693,
+        "num": 85693,
+        "word": "何美延说已报名了奇葩说",
+        "onboard_time": 1768461679,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83118,
+        "num": 83118,
+        "word": "考公一定要有强大的信念感",
+        "onboard_time": 1768467260,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 35359,
+        "num": 82977,
+        "word": "低温天懒人穿搭公式",
+        "onboard_time": 1768465940,
+        "rank": 49,
+        "category": "时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈治权#"
+    }
+  }
+}

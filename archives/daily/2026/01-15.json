@@ -1,6 +1,6 @@
 {
   "startTime": 1768408888455,
-  "endTime": 1768466446497,
+  "endTime": 1768467307912,
   "band_list": [
     {
       "raw_hot": 2603317,
@@ -147,6 +147,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 640529,
+      "num": 219899,
+      "word": "女孩撕心裂肺追妈妈晕倒身亡",
+      "onboard_time": 1768464620,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 635802,
       "num": 476782,
       "word": "女子7万买金镯一捏就变形",
@@ -201,14 +209,6 @@
       "onboard_time": 1768402162,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 525159,
-      "num": 219899,
-      "word": "女孩撕心裂肺追妈妈晕倒身亡",
-      "onboard_time": 1768464620,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 517879,
@@ -283,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 457919,
+      "num": 828877,
+      "word": "菲律宾免签",
+      "onboard_time": 1768463841,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 452793,
       "num": 452793,
       "word": "国考进面名单",
@@ -297,14 +305,6 @@
       "onboard_time": 1768459041,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 441017,
-      "num": 816469,
-      "word": "菲律宾免签",
-      "onboard_time": 1768463841,
-      "rank": 1,
-      "category": "国际时政"
     },
     {
       "raw_hot": 429004,
@@ -339,6 +339,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 387042,
+      "num": 387042,
+      "word": "第一批免签去土耳其的已经破产了",
+      "onboard_time": 1768463601,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 384843,
       "num": 285698,
       "word": "金晨说还没有接到春晚邀请",
@@ -371,14 +379,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 331330,
-      "num": 331330,
-      "word": "第一批免签去土耳其的已经破产了",
-      "onboard_time": 1768463601,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 329072,
       "num": 329072,
       "word": "花海晒聊天记录",
@@ -409,6 +409,14 @@
       "onboard_time": 1768407079,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 319887,
+      "num": 319887,
+      "word": "春节请1休10",
+      "onboard_time": 1768465161,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 296723,
@@ -449,6 +457,14 @@
       "onboard_time": 1768440799,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 275480,
+      "num": 275480,
+      "word": "特朗普邀请记者喝放了5天的牛奶",
+      "onboard_time": 1768465520,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 273645,
@@ -553,14 +569,6 @@
       "onboard_time": 1768441100,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220361,
-      "num": 220361,
-      "word": "春节请1休10",
-      "onboard_time": 1768465161,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 219087,
@@ -747,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174862,
+      "num": 172792,
+      "word": "御赐小仵作",
+      "onboard_time": 1768464501,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174638,
       "num": 174638,
       "word": "代旭角色查重率为0",
@@ -779,12 +795,28 @@
       "category": "互联网,体育"
     },
     {
+      "raw_hot": 170562,
+      "num": 170562,
+      "word": "我们的少年时代2",
+      "onboard_time": 1768466842,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169969,
       "num": 169969,
       "word": "考公考编的区别",
       "onboard_time": 1768463361,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 169560,
+      "num": 145848,
+      "word": "公积金贷款利率接近历史低点",
+      "onboard_time": 1768467079,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 169494,
@@ -899,14 +931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156187,
-      "num": 156187,
-      "word": "御赐小仵作",
-      "onboard_time": 1768464501,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 155524,
       "num": 155524,
       "word": "AppleWatch充电器成美甲神器",
@@ -921,6 +945,14 @@
       "onboard_time": 1768465040,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153869,
+      "num": 153869,
+      "word": "赵丽颖沁园年会",
+      "onboard_time": 1768465821,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 150358,
@@ -953,6 +985,14 @@
       "onboard_time": 1768452022,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148471,
+      "num": 148471,
+      "word": "西贝",
+      "onboard_time": 1768464861,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148112,
@@ -995,6 +1035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142977,
+      "num": 142977,
+      "word": "贾国龙说拼了整整125天",
+      "onboard_time": 1768466422,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142790,
       "num": 142790,
       "word": "特朗普将率史上最大美代表团参会",
@@ -1025,14 +1073,6 @@
       "onboard_time": 1768455680,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 139707,
-      "num": 218858,
-      "word": "特朗普邀请记者喝放了5天的牛奶",
-      "onboard_time": 1768465520,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 138440,
@@ -1083,14 +1123,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 135130,
-      "num": 135130,
-      "word": "西贝",
-      "onboard_time": 1768464861,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135047,
       "num": 135047,
       "word": "任嘉伦周雨切磋乒乓球",
@@ -1121,6 +1153,14 @@
       "onboard_time": 1768450100,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133641,
+      "num": 133641,
+      "word": "何美延回应再见爱人5收官",
+      "onboard_time": 1768466899,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 133134,
@@ -1163,12 +1203,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 130550,
-      "num": 130550,
-      "word": "赵丽颖沁园年会",
-      "onboard_time": 1768465821,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 130379,
+      "num": 130379,
+      "word": "玉茗茶骨耳鬓厮磨给我看红温了",
+      "onboard_time": 1768466122,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 127816,
@@ -1188,7 +1228,7 @@
     },
     {
       "raw_hot": 124904,
-      "num": 97597,
+      "num": 117918,
       "word": "周杰伦 你以为我不想",
       "onboard_time": 1768464741,
       "rank": 36,
@@ -1337,14 +1377,6 @@
       "onboard_time": 1768449321,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 113907,
-      "num": 97247,
-      "word": "玉茗茶骨耳鬓厮磨给我看红温了",
-      "onboard_time": 1768466122,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 113725,
@@ -1539,6 +1571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101742,
+      "num": 97420,
+      "word": "梁淞再见爱人5收官发文",
+      "onboard_time": 1768466001,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100666,
       "num": 100666,
       "word": "龚俊因左眼下新长了颗痣而开心",
@@ -1595,6 +1635,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98658,
+      "num": 131672,
+      "word": "专家建议报考研究型大学",
+      "onboard_time": 1768466360,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 97854,
+      "num": 97545,
+      "word": "周杰伦尴尬时候就这样疯狂签名",
+      "onboard_time": 1768465940,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97796,
       "num": 97170,
       "word": "李施嬅长文回应",
@@ -1612,7 +1668,7 @@
     },
     {
       "raw_hot": 97168,
-      "num": 97168,
+      "num": 115404,
       "word": "被四岁女儿的言论震惊到了",
       "onboard_time": 1768465281,
       "rank": 42,
@@ -1625,14 +1681,6 @@
       "onboard_time": 1768462042,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 96526,
-      "num": 96526,
-      "word": "专家建议报考研究型大学",
-      "onboard_time": 1768466360,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 96110,
@@ -1707,6 +1755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 92343,
+      "num": 85886,
+      "word": "林宥嘉李佳薇好强大的伴郎团",
+      "onboard_time": 1768466961,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92136,
       "num": 92136,
       "word": "一草莓园黑草莓售价百元1斤",
@@ -1721,14 +1777,6 @@
       "onboard_time": 1768463121,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 90362,
-      "num": 90362,
-      "word": "贾国龙说拼了整整125天",
-      "onboard_time": 1768466422,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90128,
@@ -1787,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87035,
+      "num": 87035,
+      "word": "贾国龙还能救西贝吗",
+      "onboard_time": 1768466603,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86837,
       "num": 86837,
       "word": "聂卫平女儿发文悼念",
@@ -1803,6 +1859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 85913,
+      "num": 85913,
+      "word": "老虎 当喜欢干的事情变成了上班",
+      "onboard_time": 1768466842,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85499,
       "num": 85499,
       "word": "沈梦辰 会做饭的男人都是在发光",
@@ -1817,6 +1881,14 @@
       "onboard_time": 1768460060,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83118,
+      "num": 83118,
+      "word": "考公一定要有强大的信念感",
+      "onboard_time": 1768467260,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 82858,
@@ -1931,14 +2003,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 73571,
-      "num": 97420,
-      "word": "梁淞再见爱人5收官发文",
-      "onboard_time": 1768466001,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 72931,
       "num": 72931,
       "word": "小猫也会因为早恋被训斥",
@@ -1961,14 +2025,6 @@
       "onboard_time": 1768459100,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71918,
-      "num": 97545,
-      "word": "周杰伦尴尬时候就这样疯狂签名",
-      "onboard_time": 1768465940,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 71567,
@@ -2059,6 +2115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61109,
+      "num": 115044,
+      "word": "王圣迪好成熟",
+      "onboard_time": 1768467200,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60548,
       "num": 60548,
       "word": "我的朋友安德烈",
@@ -2145,6 +2209,14 @@
       "onboard_time": 1768394361,
       "rank": 39,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 55788,
+      "num": 114948,
+      "word": "女高管辞职在海岛养鱼",
+      "onboard_time": 1768466240,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55186,
@@ -2331,6 +2403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35359,
+      "num": 90270,
+      "word": "低温天懒人穿搭公式",
+      "onboard_time": 1768465940,
+      "rank": 49,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 35223,
       "num": 130911,
       "word": "6类家电4类数码享国补",
@@ -2371,12 +2451,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 31093,
-      "num": 97330,
-      "word": "女高管辞职在海岛养鱼",
-      "onboard_time": 1768466240,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 32187,
+      "num": 219122,
+      "word": "魏建军来瑞安找活",
+      "onboard_time": 1768464260,
+      "rank": 17,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 30270,
@@ -2385,14 +2465,6 @@
       "onboard_time": 1768411997,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 29263,
-      "num": 90270,
-      "word": "低温天懒人穿搭公式",
-      "onboard_time": 1768465940,
-      "rank": 49,
-      "category": "时尚"
     },
     {
       "raw_hot": 28097,
@@ -2419,12 +2491,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 25176,
-      "num": 219122,
-      "word": "魏建军来瑞安找活",
-      "onboard_time": 1768464260,
-      "rank": 17,
-      "category": "民生新闻,汽车"
+      "raw_hot": 23319,
+      "num": 651941,
+      "word": "9图看2025年健康中国答卷",
+      "onboard_time": 1768466181,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22800,
@@ -2536,14 +2608,6 @@
       "word": "主管回应员工疑辞职不批跳楼身亡",
       "onboard_time": 1768452921,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8589,
-      "num": 651941,
-      "word": "9图看2025年健康中国答卷",
-      "onboard_time": 1768466181,
-      "rank": 2,
       "category": "民生新闻"
     }
   ],
