@@ -1,6 +1,6 @@
 {
   "startTime": 1768495443021,
-  "endTime": 1768505523575,
+  "endTime": 1768506370834,
   "band_list": [
     {
       "raw_hot": 848134,
@@ -219,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80104,
+      "num": 115296,
+      "word": "私生活这么干净为什么作息这么乱",
+      "onboard_time": 1768480581,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 79960,
       "num": 115784,
       "word": "香港一商场警察开枪制服持刀嫌犯",
@@ -241,14 +249,6 @@
       "onboard_time": 1768495757,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 69560,
-      "num": 115296,
-      "word": "私生活这么干净为什么作息这么乱",
-      "onboard_time": 1768480581,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 68159,
