@@ -1,6 +1,6 @@
 {
   "startTime": 1768408888455,
-  "endTime": 1768444434980,
+  "endTime": 1768449379813,
   "band_list": [
     {
       "raw_hot": 2603317,
@@ -27,8 +27,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1177117,
+      "num": 185196,
+      "word": "女子被判向出轨丈夫道歉15天",
+      "onboard_time": 1768446318,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1102189,
-      "num": 1102189,
+      "num": 1162180,
       "word": "聂卫平逝世",
       "onboard_time": 1768435160,
       "rank": 1,
@@ -40,6 +48,22 @@
       "word": "贺娇龙所有直播打赏均用于公益事业",
       "onboard_time": 1768412595,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 885253,
+      "num": 245230,
+      "word": "于正秀腹肌被判定AI",
+      "onboard_time": 1768448240,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 754675,
+      "num": 399609,
+      "word": "贺娇龙遗体已回到昭苏",
+      "onboard_time": 1768447701,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -107,12 +131,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 452793,
+      "num": 452793,
+      "word": "国考进面名单",
+      "onboard_time": 1768444401,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 429004,
       "num": 429004,
       "word": "检票员笑了半天才让你去滑雪",
       "onboard_time": 1768438462,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 425343,
+      "num": 221856,
+      "word": "你那儿几点 王安宇",
+      "onboard_time": 1768443741,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 421411,
@@ -155,6 +195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 323092,
+      "num": 323092,
+      "word": "24岁女子脸长期肿胀确诊尿毒症",
+      "onboard_time": 1768442539,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 322427,
       "num": 322427,
       "word": "镖人",
@@ -171,12 +219,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 293787,
-      "num": 293787,
-      "word": "24岁女子脸长期肿胀确诊尿毒症",
-      "onboard_time": 1768442539,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 295059,
+      "num": 220752,
+      "word": "杨幂穿Prada的黑长直女神",
+      "onboard_time": 1768447040,
+      "rank": 13,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 291423,
@@ -185,6 +233,14 @@
       "onboard_time": 1768394242,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 274722,
+      "num": 274722,
+      "word": "A股要慢牛不要疯牛",
+      "onboard_time": 1768440799,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 273645,
@@ -203,14 +259,6 @@
       "category": "民生新闻,体育"
     },
     {
-      "raw_hot": 263617,
-      "num": 263617,
-      "word": "A股要慢牛不要疯牛",
-      "onboard_time": 1768440799,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 260556,
       "num": 260556,
       "word": "家属透露聂卫平病逝细节",
@@ -225,6 +273,14 @@
       "onboard_time": 1768386681,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 249622,
+      "num": 249622,
+      "word": "曝杨晓培将参加浪姐",
+      "onboard_time": 1768443741,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 244339,
@@ -275,6 +331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 203460,
+      "num": 203460,
+      "word": "国漫第一猛男认证",
+      "onboard_time": 1768449260,
+      "rank": 15,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 203094,
       "num": 184624,
       "word": "谁把沈腾QQ空间盗了",
@@ -299,6 +363,22 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 194681,
+      "num": 157134,
+      "word": "感觉家里的不动产动了一下",
+      "onboard_time": 1768448780,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 194290,
+      "num": 194290,
+      "word": "国漫群像首登一线女刊",
+      "onboard_time": 1768448720,
+      "rank": 16,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 191060,
       "num": 191060,
       "word": "徐冬冬香港受访曝婚礼细节",
@@ -307,8 +387,24 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 185002,
-      "num": 185002,
+      "raw_hot": 189372,
+      "num": 189372,
+      "word": "御赐小仵作2开播",
+      "onboard_time": 1768447040,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 188432,
+      "num": 188432,
+      "word": "王楚钦营业",
+      "onboard_time": 1768448661,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 185086,
+      "num": 185086,
       "word": "贺娇龙去世为何引发全网悼念",
       "onboard_time": 1768442961,
       "rank": 24,
@@ -323,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180850,
+      "num": 180850,
+      "word": "23岁女孩患骨癌截肢后父母失联",
+      "onboard_time": 1768446440,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179172,
       "num": 179172,
       "word": "12306回应一等座禁止无座乘客逗留",
@@ -331,12 +435,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176329,
-      "num": 176329,
-      "word": "你那儿几点 王安宇",
-      "onboard_time": 1768443741,
+      "raw_hot": 174638,
+      "num": 174638,
+      "word": "代旭角色查重率为0",
+      "onboard_time": 1768448240,
       "rank": 26,
-      "category": "艺人"
+      "category": "剧集"
     },
     {
       "raw_hot": 172806,
@@ -355,12 +459,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 170934,
-      "num": 170934,
-      "word": "曝杨晓培将参加浪姐",
-      "onboard_time": 1768443741,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 170847,
+      "num": 170847,
+      "word": "雷军悼念聂卫平",
+      "onboard_time": 1768445541,
+      "rank": 27,
+      "category": "互联网,体育"
     },
     {
       "raw_hot": 168295,
@@ -387,6 +491,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 161202,
+      "num": 161202,
+      "word": "贺娇龙称没有尽到妻子的责任义务",
+      "onboard_time": 1768444339,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159436,
       "num": 159436,
       "word": "成都网红发起刨猪宴临时取消引争议",
@@ -401,6 +513,22 @@
       "onboard_time": 1768405460,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157900,
+      "num": 157900,
+      "word": "华为系高端轿跑打出组合拳",
+      "onboard_time": 1768445300,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 156192,
+      "num": 156192,
+      "word": "棋手战鹰缅怀聂卫平",
+      "onboard_time": 1768449260,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 155524,
@@ -435,12 +563,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 140863,
+      "num": 140863,
+      "word": "小洛熙父母维权案下周开庭",
+      "onboard_time": 1768447640,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138432,
+      "num": 138432,
+      "word": "谁家好人43秒被掰开嘴喂了三次药",
+      "onboard_time": 1768447880,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136359,
       "num": 136359,
       "word": "一袭红衣策马扬鞭的贺娇龙走了",
       "onboard_time": 1768412536,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135679,
+      "num": 135679,
+      "word": "携程或面临最高65亿元罚款",
+      "onboard_time": 1768443621,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 135315,
@@ -451,12 +603,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 127074,
+      "num": 127074,
+      "word": "美国人开始认同中式生活",
+      "onboard_time": 1768449020,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 124646,
       "num": 124646,
       "word": "聂远女儿也是TF家族粉丝",
       "onboard_time": 1768441461,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121615,
+      "num": 121615,
+      "word": "谁请动了彭于晏刘青云再演剧",
+      "onboard_time": 1768447520,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 118995,
@@ -473,6 +641,14 @@
       "onboard_time": 1768442300,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113921,
+      "num": 113921,
+      "word": "医生提醒肾脏疾病注意这些征兆",
+      "onboard_time": 1768448720,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112610,
@@ -515,12 +691,28 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 110610,
+      "num": 110610,
+      "word": "68升油箱加了74升油",
+      "onboard_time": 1768445000,
+      "rank": 43,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 110607,
       "num": 110607,
       "word": "虞书欣云初这滴泪",
       "onboard_time": 1768441939,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108524,
+      "num": 108524,
+      "word": "当朋友里只剩一个人没对象",
+      "onboard_time": 1768449079,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 107308,
@@ -537,6 +729,14 @@
       "onboard_time": 1768389441,
       "rank": 17,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 106650,
+      "num": 106650,
+      "word": "永远怀念棋圣聂卫平",
+      "onboard_time": 1768449321,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 105876,
@@ -571,12 +771,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 102910,
-      "num": 102910,
-      "word": "携程或面临最高65亿元罚款",
-      "onboard_time": 1768443621,
-      "rank": 45,
-      "category": "互联网"
+      "raw_hot": 104297,
+      "num": 104297,
+      "word": "黄晓明自曝脚6根骨头骨裂",
+      "onboard_time": 1768447160,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 100666,
@@ -643,14 +843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 92368,
-      "num": 92368,
-      "word": "国考进面名单",
-      "onboard_time": 1768444401,
-      "rank": 49,
-      "category": "教育"
-    },
-    {
       "raw_hot": 90128,
       "num": 90128,
       "word": "阿尔瓦塞特3比2皇马",
@@ -699,6 +891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 82281,
+      "num": 108778,
+      "word": "马来西亚网友集体喊我们没石油",
+      "onboard_time": 1768448122,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 81683,
       "num": 81683,
       "word": "贺峻霖悉尼",
@@ -721,6 +921,14 @@
       "onboard_time": 1768405280,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80034,
+      "num": 122009,
+      "word": "美国若开战伊朗100%报复",
+      "onboard_time": 1768449321,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 72931,
@@ -793,6 +1001,14 @@
       "onboard_time": 1768385362,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 61585,
+      "num": 185232,
+      "word": "蓝盈莹开N6红运当头",
+      "onboard_time": 1768448361,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 60548,
@@ -960,6 +1176,14 @@
       "word": "向日葵被查",
       "onboard_time": 1768401382,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46777,
+      "num": 689122,
+      "word": "换购住房继续享受退税优惠",
+      "onboard_time": 1768448300,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1142,6 +1366,9 @@
   "hotgov_list": [
     {
       "word": "#二十届中央纪委五次全会公报#"
+    },
+    {
+      "word": "#总书记强调建设良好家风的重要性#"
     }
   ]
 }
