@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768477364662,
+  "endTime": 1768482013952,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -569,6 +569,14 @@
       "onboard_time": 1767193410,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1176872,
+      "num": 1188299,
+      "word": "将门毒后",
+      "onboard_time": 1768477940,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1174284,
@@ -1507,6 +1515,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 803928,
+      "num": 226729,
+      "word": "轧戏王光明出轨",
+      "onboard_time": 1768479860,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 794730,
       "num": 213004,
       "word": "车祸肇事者家庭条件相当好",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1768362861,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 630707,
-      "num": 1100913,
-      "word": "网购4J车厘子变成空文件",
-      "onboard_time": 1768033520,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 628638,
-      "num": 239772,
-      "word": "王玉雯自己P的图",
-      "onboard_time": 1768137202,
-      "rank": 14,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

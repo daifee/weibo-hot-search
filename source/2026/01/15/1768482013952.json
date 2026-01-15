@@ -1,0 +1,410 @@
+{
+  "runTime": 1768482013952,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1176872,
+        "num": 1188299,
+        "word": "将门毒后",
+        "onboard_time": 1768477940,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313064,
+        "num": 885237,
+        "word": "空气炸锅杀回年轻人的厨房",
+        "onboard_time": 1768472841,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13170,
+        "num": 692352,
+        "word": "6图看2025我国进出口亮点纷呈",
+        "onboard_time": 1768465462,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334721,
+        "num": 334721,
+        "word": "骄阳似我心有林曦callback",
+        "onboard_time": 1768478060,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227367,
+        "num": 227367,
+        "word": "被清华大学食堂的物价震惊到了",
+        "onboard_time": 1768472000,
+        "rank": 4,
+        "category": "美食,休闲"
+      },
+      {
+        "raw_hot": 803928,
+        "num": 226729,
+        "word": "轧戏王光明出轨",
+        "onboard_time": 1768479860,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 530516,
+        "num": 225362,
+        "word": "学生疑上午匿名投诉学校下午被找到",
+        "onboard_time": 1768478961,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321221,
+        "num": 224391,
+        "word": "金价",
+        "onboard_time": 1768481960,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 170028,
+        "num": 223766,
+        "word": "公积金贷款利率接近历史低点",
+        "onboard_time": 1768467079,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 137159,
+        "num": 222886,
+        "word": "樊振东说现在打比赛都是美好回忆",
+        "onboard_time": 1768477759,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 529793,
+        "num": 222070,
+        "word": "花海房管",
+        "onboard_time": 1768480820,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 522400,
+        "num": 220333,
+        "word": "夏迎春下房管",
+        "onboard_time": 1768480880,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130157,
+        "num": 219490,
+        "word": "降息",
+        "onboard_time": 1768462581,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128838,
+        "num": 219026,
+        "word": "公安部A级通缉犯在狱中被揪出",
+        "onboard_time": 1768474639,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313733,
+        "num": 217618,
+        "word": "骄阳似我15年后续上了",
+        "onboard_time": 1768479139,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265419,
+        "num": 216815,
+        "word": "周杰伦澳网国籍标示中国",
+        "onboard_time": 1768472241,
+        "rank": 15,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 208328,
+        "num": 215765,
+        "word": "38岁女子呕吐一夜后突发脑梗瘫痪",
+        "onboard_time": 1768458979,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264842,
+        "num": 214028,
+        "word": "原来赵又廷摔倒是高圆圆追的",
+        "onboard_time": 1768475839,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213833,
+        "num": 213833,
+        "word": "我们的少年时代2",
+        "onboard_time": 1768466842,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165112,
+        "num": 209537,
+        "word": "私生活这么干净为什么作息这么乱",
+        "onboard_time": 1768480581,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 409615,
+        "num": 209439,
+        "word": "金价彻底杀疯了",
+        "onboard_time": 1768477642,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 208697,
+        "num": 208697,
+        "word": "鬼鬼吐槽和艺人做朋友很累",
+        "onboard_time": 1768479920,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207989,
+        "num": 207989,
+        "word": "蔡徐坤采访路人",
+        "onboard_time": 1768481240,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206158,
+        "num": 206158,
+        "word": "国家电网计划投资4万亿元",
+        "onboard_time": 1768480820,
+        "rank": 23,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 188082,
+        "num": 188082,
+        "word": "陈坤董洁牵手梦回金粉世家",
+        "onboard_time": 1768479201,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161615,
+        "num": 161615,
+        "word": "骄阳似我",
+        "onboard_time": 1768477759,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141103,
+        "num": 152029,
+        "word": "在上海花160万买了一楼老破小",
+        "onboard_time": 1768475960,
+        "rank": 26,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 150832,
+        "num": 150832,
+        "word": "张凌赫田曦薇录制你好星期六",
+        "onboard_time": 1768480639,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150295,
+        "num": 150295,
+        "word": "张慧雯曹骏紧急声明",
+        "onboard_time": 1768462461,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112644,
+        "num": 143792,
+        "word": "贾国龙朋友圈称尽力了",
+        "onboard_time": 1768481541,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143084,
+        "num": 143084,
+        "word": "0个人走出骄阳似我",
+        "onboard_time": 1768480940,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141422,
+        "num": 141422,
+        "word": "轧戏",
+        "onboard_time": 1768477339,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103804,
+        "num": 140561,
+        "word": "35岁以后的降维打击",
+        "onboard_time": 1768474521,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139738,
+        "num": 139738,
+        "word": "将门毒后造型易小雅",
+        "onboard_time": 1768475060,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135392,
+        "num": 135392,
+        "word": "御赐小仵作2",
+        "onboard_time": 1768471820,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102788,
+        "num": 124523,
+        "word": "蜜蜂打架主人赔了2100元加3桶蜜",
+        "onboard_time": 1768478540,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118586,
+        "num": 118586,
+        "word": "赵丽颖新剧用纸条实况转播",
+        "onboard_time": 1768481900,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117344,
+        "num": 117344,
+        "word": "冯建宇第一部短剧开机",
+        "onboard_time": 1768481060,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91506,
+        "num": 112273,
+        "word": "她一天做了我一个月的工作",
+        "onboard_time": 1768479920,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109718,
+        "num": 109718,
+        "word": "御赐小仵作2明显有钱了",
+        "onboard_time": 1768475960,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100973,
+        "num": 100973,
+        "word": "周也和姐姐 大明星和设计师",
+        "onboard_time": 1768481720,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85972,
+        "num": 100591,
+        "word": "史上最幸运的冬奥会冠军",
+        "onboard_time": 1768481660,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79455,
+        "num": 100463,
+        "word": "如何靠首饰拯救穿搭",
+        "onboard_time": 1768480281,
+        "rank": 42,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 102632,
+        "num": 100457,
+        "word": "杨幂赵丽颖活动生图",
+        "onboard_time": 1768481720,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100434,
+        "num": 100434,
+        "word": "杨幂你知道的我从小就跟着你",
+        "onboard_time": 1768474279,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84834,
+        "num": 99832,
+        "word": "为何小鸟会撞玻璃",
+        "onboard_time": 1768480880,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 99678,
+        "num": 99678,
+        "word": "张凌赫官宣宝格丽",
+        "onboard_time": 1768461561,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93513,
+        "num": 93513,
+        "word": "轧戏 图书馆30秒",
+        "onboard_time": 1768481900,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84013,
+        "num": 84013,
+        "word": "TheShy队危速归",
+        "onboard_time": 1768480160,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81851,
+        "num": 81851,
+        "word": "笑影退役",
+        "onboard_time": 1768479680,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈治权#"
+    }
+  }
+}

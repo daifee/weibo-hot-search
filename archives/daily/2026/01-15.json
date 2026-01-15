@@ -1,6 +1,6 @@
 {
   "startTime": 1768408888455,
-  "endTime": 1768477364662,
+  "endTime": 1768482013952,
   "band_list": [
     {
       "raw_hot": 2603317,
@@ -41,6 +41,14 @@
       "onboard_time": 1768437443,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1176872,
+      "num": 1188299,
+      "word": "将门毒后",
+      "onboard_time": 1768477940,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1102189,
@@ -121,6 +129,14 @@
       "onboard_time": 1768449020,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 803928,
+      "num": 226729,
+      "word": "轧戏王光明出轨",
+      "onboard_time": 1768479860,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 743670,
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 582243,
-      "num": 178487,
+      "num": 216815,
       "word": "周杰伦澳网国籍标示中国",
       "onboard_time": 1768472241,
       "rank": 21,
@@ -249,6 +265,30 @@
       "onboard_time": 1768402162,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 530516,
+      "num": 225362,
+      "word": "学生疑上午匿名投诉学校下午被找到",
+      "onboard_time": 1768478961,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 529793,
+      "num": 222070,
+      "word": "花海房管",
+      "onboard_time": 1768480820,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 522400,
+      "num": 220333,
+      "word": "夏迎春下房管",
+      "onboard_time": 1768480880,
+      "rank": 11,
+      "category": "电竞"
     },
     {
       "raw_hot": 517879,
@@ -371,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 409615,
+      "num": 209439,
+      "word": "金价彻底杀疯了",
+      "onboard_time": 1768477642,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 403372,
       "num": 185164,
       "word": "俄男子把1岁儿子3次浸入冰水",
@@ -436,7 +484,7 @@
     },
     {
       "raw_hot": 355282,
-      "num": 204043,
+      "num": 214028,
       "word": "原来赵又廷摔倒是高圆圆追的",
       "onboard_time": 1768475839,
       "rank": 10,
@@ -475,6 +523,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 334721,
+      "num": 334721,
+      "word": "骄阳似我心有林曦callback",
+      "onboard_time": 1768478060,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 329072,
       "num": 329072,
       "word": "花海晒聊天记录",
@@ -507,6 +563,30 @@
       "category": "电影"
     },
     {
+      "raw_hot": 321221,
+      "num": 224391,
+      "word": "金价",
+      "onboard_time": 1768481960,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 313733,
+      "num": 217618,
+      "word": "骄阳似我15年后续上了",
+      "onboard_time": 1768479139,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 313064,
+      "num": 885237,
+      "word": "空气炸锅杀回年轻人的厨房",
+      "onboard_time": 1768472841,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 296723,
       "num": 296723,
       "word": "扛剧爆剧花",
@@ -532,7 +612,7 @@
     },
     {
       "raw_hot": 290993,
-      "num": 207291,
+      "num": 227367,
       "word": "被清华大学食堂的物价震惊到了",
       "onboard_time": 1768472000,
       "rank": 32,
@@ -747,6 +827,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208697,
+      "num": 208697,
+      "word": "鬼鬼吐槽和艺人做朋友很累",
+      "onboard_time": 1768479920,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 207989,
+      "num": 207989,
+      "word": "蔡徐坤采访路人",
+      "onboard_time": 1768481240,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 206158,
+      "num": 206158,
+      "word": "国家电网计划投资4万亿元",
+      "onboard_time": 1768480820,
+      "rank": 23,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 204355,
       "num": 204355,
       "word": "黄景瑜转发宣传王子奇新剧",
@@ -883,20 +987,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188082,
+      "num": 188082,
+      "word": "陈坤董洁牵手梦回金粉世家",
+      "onboard_time": 1768479201,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186511,
       "num": 186511,
       "word": "ELLE2月刊封面",
       "onboard_time": 1768468400,
       "rank": 25,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 186097,
-      "num": 207168,
-      "word": "空气炸锅杀回年轻人的厨房",
-      "onboard_time": 1768472841,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 185164,
@@ -1003,6 +1107,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 165112,
+      "num": 209537,
+      "word": "私生活这么干净为什么作息这么乱",
+      "onboard_time": 1768480581,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163525,
       "num": 163525,
       "word": "银价彻底暴涨原因",
@@ -1024,6 +1136,14 @@
       "word": "刘诗诗粉色旗袍路透",
       "onboard_time": 1768471460,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 161615,
+      "num": 161615,
+      "word": "骄阳似我",
+      "onboard_time": 1768477759,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -1148,11 +1268,19 @@
     },
     {
       "raw_hot": 152656,
-      "num": 128998,
+      "num": 219026,
       "word": "公安部A级通缉犯在狱中被揪出",
       "onboard_time": 1768474639,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150832,
+      "num": 150832,
+      "word": "张凌赫田曦薇录制你好星期六",
+      "onboard_time": 1768480639,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 150358,
@@ -1243,6 +1371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143084,
+      "num": 143084,
+      "word": "0个人走出骄阳似我",
+      "onboard_time": 1768480940,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143080,
       "num": 143080,
       "word": "娜扎认证自己不张嘴清冷一张嘴软萌",
@@ -1257,6 +1393,22 @@
       "onboard_time": 1768438462,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 141422,
+      "num": 141422,
+      "word": "轧戏",
+      "onboard_time": 1768390941,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141103,
+      "num": 152029,
+      "word": "在上海花160万买了一楼老破小",
+      "onboard_time": 1768475960,
+      "rank": 35,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 141040,
@@ -1305,6 +1457,14 @@
       "onboard_time": 1768474521,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137159,
+      "num": 222886,
+      "word": "樊振东说现在打比赛都是美好回忆",
+      "onboard_time": 1768477759,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 136359,
@@ -1539,14 +1699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120616,
-      "num": 120616,
-      "word": "在上海花160万买了一楼老破小",
-      "onboard_time": 1768475960,
-      "rank": 35,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 120258,
       "num": 116403,
       "word": "蒲熠星最强大脑倒计时视频",
@@ -1579,6 +1731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118586,
+      "num": 118586,
+      "word": "赵丽颖新剧用纸条实况转播",
+      "onboard_time": 1768481900,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118300,
       "num": 118300,
       "word": "古装剧终于不拍恋爱脑了",
@@ -1593,6 +1753,14 @@
       "onboard_time": 1768454242,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 117344,
+      "num": 117344,
+      "word": "冯建宇第一部短剧开机",
+      "onboard_time": 1768481060,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 117216,
@@ -1696,6 +1864,14 @@
       "word": "上海地铁有偿代坐2人被训诫",
       "onboard_time": 1768468940,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112644,
+      "num": 143792,
+      "word": "贾国龙朋友圈称尽力了",
+      "onboard_time": 1768481541,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1931,6 +2107,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102788,
+      "num": 124523,
+      "word": "蜜蜂打架主人赔了2100元加3桶蜜",
+      "onboard_time": 1768478540,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102632,
+      "num": 100457,
+      "word": "杨幂赵丽颖活动生图",
+      "onboard_time": 1768481720,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101762,
       "num": 108660,
       "word": "公司年会抽到了最没用的东西",
@@ -1945,6 +2137,14 @@
       "onboard_time": 1768473739,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100973,
+      "num": 100973,
+      "word": "周也和姐姐 大明星和设计师",
+      "onboard_time": 1768481720,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 100878,
@@ -2179,20 +2379,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94027,
-      "num": 94027,
-      "word": "轧戏",
-      "onboard_time": 1768390941,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 93555,
       "num": 93555,
       "word": "何与 一步一个苏点",
       "onboard_time": 1768473560,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93513,
+      "num": 93513,
+      "word": "轧戏 图书馆30秒",
+      "onboard_time": 1768481900,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 92926,
@@ -2241,6 +2441,14 @@
       "onboard_time": 1768475540,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 91506,
+      "num": 112273,
+      "word": "她一天做了我一个月的工作",
+      "onboard_time": 1768479920,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 90864,
@@ -2363,6 +2571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 85972,
+      "num": 100591,
+      "word": "史上最幸运的冬奥会冠军",
+      "onboard_time": 1768481660,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85913,
       "num": 85913,
       "word": "老虎 当喜欢干的事情变成了上班",
@@ -2403,6 +2619,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84834,
+      "num": 99832,
+      "word": "为何小鸟会撞玻璃",
+      "onboard_time": 1768480880,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 84013,
+      "num": 84013,
+      "word": "TheShy队危速归",
+      "onboard_time": 1768480160,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 82858,
       "num": 82858,
       "word": "建议大家上车就立马锁门",
@@ -2441,6 +2673,14 @@
       "onboard_time": 1768472719,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81851,
+      "num": 81851,
+      "word": "笑影退役",
+      "onboard_time": 1768479680,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 81696,
@@ -2513,6 +2753,14 @@
       "onboard_time": 1768473319,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 79455,
+      "num": 100463,
+      "word": "如何靠首饰拯救穿搭",
+      "onboard_time": 1768480281,
+      "rank": 42,
+      "category": "时尚"
     },
     {
       "raw_hot": 79407,
@@ -3233,6 +3481,14 @@
       "onboard_time": 1768450100,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 13170,
+      "num": 692352,
+      "word": "6图看2025我国进出口亮点纷呈",
+      "onboard_time": 1768465462,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12268,
