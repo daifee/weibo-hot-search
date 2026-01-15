@@ -1,0 +1,410 @@
+{
+  "runTime": 1768442959439,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1247096,
+        "num": 1247096,
+        "word": "贺娇龙相册全是凌晨工作照片",
+        "onboard_time": 1768437443,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1102189,
+        "num": 1102189,
+        "word": "聂卫平逝世",
+        "onboard_time": 1768435160,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19384,
+        "num": 671569,
+        "word": "一图速览2025年进出口情况",
+        "onboard_time": 1768397062,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 726590,
+        "num": 618266,
+        "word": "爸爸担心女儿考上清北探望机票太贵",
+        "onboard_time": 1768440260,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 546668,
+        "num": 546668,
+        "word": "马年春晚",
+        "onboard_time": 1768402162,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478749,
+        "num": 478749,
+        "word": "女子暴增58斤以为吃胖查出尿毒症",
+        "onboard_time": 1768439840,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421411,
+        "num": 421411,
+        "word": "柯洁悼念聂卫平",
+        "onboard_time": 1768441100,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 415480,
+        "num": 415480,
+        "word": "检票员笑了半天才让你去滑雪",
+        "onboard_time": 1768438462,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 333910,
+        "num": 333910,
+        "word": "携程涉嫌垄断",
+        "onboard_time": 1768378102,
+        "rank": 8,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 25606,
+        "num": 304589,
+        "word": "美对特定半导体等加征25%关税",
+        "onboard_time": 1768442360,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 492122,
+        "num": 303220,
+        "word": "柯洁",
+        "onboard_time": 1768438882,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296723,
+        "num": 296723,
+        "word": "扛剧爆剧花",
+        "onboard_time": 1768438822,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 285698,
+        "num": 285698,
+        "word": "金晨说还没有接到春晚邀请",
+        "onboard_time": 1768440321,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265139,
+        "num": 265139,
+        "word": "霍启刚发文祝贺父亲",
+        "onboard_time": 1768434440,
+        "rank": 13,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 265792,
+        "num": 264452,
+        "word": "谢娜大晚上不能我一个人笑",
+        "onboard_time": 1768432638,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260556,
+        "num": 260556,
+        "word": "家属透露聂卫平病逝细节",
+        "onboard_time": 1768440260,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214519,
+        "num": 214519,
+        "word": "伊朗宣布暂时关闭领空",
+        "onboard_time": 1768439362,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181699,
+        "num": 181699,
+        "word": "聂卫平战日本特意穿了国乒球衣",
+        "onboard_time": 1768442300,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171580,
+        "num": 171580,
+        "word": "山东省考成绩",
+        "onboard_time": 1768436180,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 23912,
+        "num": 169078,
+        "word": "国际空间站宇航员紧急返航",
+        "onboard_time": 1768442360,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 671528,
+        "num": 168526,
+        "word": "韦德评论王橹杰",
+        "onboard_time": 1768435581,
+        "rank": 20,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 403372,
+        "num": 164010,
+        "word": "俄男子把1岁儿子3次浸入冰水",
+        "onboard_time": 1768438161,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 219087,
+        "num": 162499,
+        "word": "女子撞见闺蜜和前男友后难接受跳楼",
+        "onboard_time": 1768434019,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172806,
+        "num": 157960,
+        "word": "特朗普称台湾问题由中方决定",
+        "onboard_time": 1768439002,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157918,
+        "num": 157918,
+        "word": "A股要慢牛不要疯牛",
+        "onboard_time": 1768440799,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155524,
+        "num": 155524,
+        "word": "AppleWatch充电器成美甲神器",
+        "onboard_time": 1768437742,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 148112,
+        "num": 151686,
+        "word": "格林",
+        "onboard_time": 1768436841,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151283,
+        "num": 151283,
+        "word": "12306回应一等座禁止无座乘客逗留",
+        "onboard_time": 1768392321,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145929,
+        "num": 145929,
+        "word": "聂卫平家属发布讣告",
+        "onboard_time": 1768437801,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145564,
+        "num": 145564,
+        "word": "逛早市偶遇刘昊然董子健",
+        "onboard_time": 1768441100,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142790,
+        "num": 142790,
+        "word": "特朗普将率史上最大美代表团参会",
+        "onboard_time": 1768438462,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141102,
+        "num": 141102,
+        "word": "杨幂 见面会",
+        "onboard_time": 1768404802,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124646,
+        "num": 124646,
+        "word": "聂远女儿也是TF家族粉丝",
+        "onboard_time": 1768441461,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119398,
+        "num": 119398,
+        "word": "国考成绩",
+        "onboard_time": 1768394242,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 118995,
+        "num": 118995,
+        "word": "李玉刚缅怀贺娇龙",
+        "onboard_time": 1768442120,
+        "rank": 34,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 114289,
+        "num": 114289,
+        "word": "聂卫平曾谈中国围棋的含义",
+        "onboard_time": 1768442300,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112373,
+        "num": 112373,
+        "word": "原来这样的家庭真的存在",
+        "onboard_time": 1768438041,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110607,
+        "num": 110607,
+        "word": "虞书欣云初这滴泪",
+        "onboard_time": 1768441939,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108187,
+        "num": 108187,
+        "word": "镖人",
+        "onboard_time": 1768407079,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 54386,
+        "num": 106684,
+        "word": "伊朗骚乱事件主要幕后人员落网",
+        "onboard_time": 1768442420,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105876,
+        "num": 105876,
+        "word": "携程日赚超2亿元",
+        "onboard_time": 1768438100,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 105225,
+        "num": 105225,
+        "word": "24岁女子脸长期肿胀确诊尿毒症",
+        "onboard_time": 1768442539,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100634,
+        "num": 100634,
+        "word": "聂云菲",
+        "onboard_time": 1768441280,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100553,
+        "num": 100553,
+        "word": "AI查贪官准确率相当高",
+        "onboard_time": 1768409238,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99904,
+        "num": 99904,
+        "word": "白敬亭蚊子舞",
+        "onboard_time": 1768438701,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98789,
+        "num": 98789,
+        "word": "封关后的海南卖爆了",
+        "onboard_time": 1768434019,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89314,
+        "num": 89314,
+        "word": "张奕然实力",
+        "onboard_time": 1768442600,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88833,
+        "num": 88833,
+        "word": "女子遭前男友发隐私照失业维权4年",
+        "onboard_time": 1768440082,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87706,
+        "num": 87706,
+        "word": "白银突然转跌",
+        "onboard_time": 1768441761,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 86837,
+        "num": 86837,
+        "word": "聂卫平女儿发文悼念",
+        "onboard_time": 1768437022,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届中央纪委五次全会公报#"
+    }
+  }
+}
