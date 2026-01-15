@@ -1,6 +1,6 @@
 {
   "startTime": 1768495443021,
-  "endTime": 1768495443021,
+  "endTime": 1768496629838,
   "band_list": [
     {
       "raw_hot": 848134,
@@ -43,7 +43,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 217422,
+      "raw_hot": 334049,
+      "num": 140726,
+      "word": "江西杀猪宴跟风呆呆翻车",
+      "onboard_time": 1768494619,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228748,
       "num": 560765,
       "word": "湖北一男子挖出青铜古剑上交博物馆",
       "onboard_time": 1768492938,
@@ -91,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146050,
+      "num": 124517,
+      "word": "玉茗茶骨",
+      "onboard_time": 1768492760,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143540,
       "num": 143540,
       "word": "特朗普直播打瞌睡被小女孩发现",
@@ -107,14 +123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140726,
-      "num": 140726,
-      "word": "江西杀猪宴跟风呆呆翻车",
-      "onboard_time": 1768494619,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130828,
       "num": 130828,
       "word": "我们的少年时代2",
@@ -129,14 +137,6 @@
       "onboard_time": 1768479920,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 124517,
-      "num": 124517,
-      "word": "玉茗茶骨",
-      "onboard_time": 1768492760,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 121034,
@@ -179,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86558,
+      "num": 86558,
+      "word": "丁程鑫现身李雪琴新电影首映",
+      "onboard_time": 1768496297,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 86551,
       "num": 115686,
       "word": "轧戏",
@@ -187,12 +195,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79960,
+      "num": 115784,
+      "word": "香港一商场警察开枪制服持刀嫌犯",
+      "onboard_time": 1768491201,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79291,
       "num": 116597,
       "word": "国家电网计划投资4万亿元",
       "onboard_time": 1768480820,
       "rank": 19,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 77809,
+      "num": 77809,
+      "word": "代旭演霸总追女生的套路学到了",
+      "onboard_time": 1768495757,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 68159,
@@ -211,14 +235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 65245,
-      "num": 115784,
-      "word": "香港一商场警察开枪制服持刀嫌犯",
-      "onboard_time": 1768491201,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 61482,
       "num": 115375,
       "word": "于正说芒果从不参考外部数据",
@@ -235,12 +251,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 58122,
+      "raw_hot": 58176,
       "num": 115296,
       "word": "私生活这么干净为什么作息这么乱",
       "onboard_time": 1768480581,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 56768,
+      "num": 115006,
+      "word": "派出所回应大学生偷外卖拘留5日",
+      "onboard_time": 1768494138,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56287,
@@ -272,14 +296,6 @@
       "word": "车厘子测量卡 缩水",
       "onboard_time": 1768482561,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52932,
-      "num": 115006,
-      "word": "派出所回应大学生偷外卖拘留5日",
-      "onboard_time": 1768494138,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -355,6 +371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 42710,
+      "num": 74976,
+      "word": "蔡徐坤采访路人",
+      "onboard_time": 1768481240,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 42472,
       "num": 114398,
       "word": "BLG战胜WBG",
@@ -393,6 +417,14 @@
       "onboard_time": 1768489582,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 31113,
+      "num": 74744,
+      "word": "剑来第六集OST",
+      "onboard_time": 1768487780,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 30307,
