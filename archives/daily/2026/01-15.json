@@ -1,6 +1,6 @@
 {
   "startTime": 1768408888455,
-  "endTime": 1768455272213,
+  "endTime": 1768456235051,
   "band_list": [
     {
       "raw_hot": 2603317,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 827066,
+      "num": 205226,
+      "word": "QQ回应沈腾空间被盗",
+      "onboard_time": 1768451721,
+      "rank": 15,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 812506,
       "num": 211443,
       "word": "美国人开始认同中式生活",
@@ -89,14 +97,6 @@
       "onboard_time": 1768440260,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 722570,
-      "num": 205226,
-      "word": "QQ回应沈腾空间被盗",
-      "onboard_time": 1768451721,
-      "rank": 15,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 721893,
@@ -219,12 +219,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360111,
+      "num": 360111,
+      "word": "女子7万买金镯一捏就变形",
+      "onboard_time": 1768454779,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 357818,
       "num": 558183,
       "word": "携程涉嫌垄断",
       "onboard_time": 1768378102,
       "rank": 1,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 351381,
+      "num": 351381,
+      "word": "沙特又宣布发现黄金资源",
+      "onboard_time": 1768452622,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 350500,
@@ -475,7 +491,7 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 191382,
+      "raw_hot": 192798,
       "num": 146569,
       "word": "香港文体旅局局长发文感谢周深",
       "onboard_time": 1768454360,
@@ -537,14 +553,6 @@
       "onboard_time": 1768448240,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173867,
-      "num": 197711,
-      "word": "沙特又宣布发现黄金资源",
-      "onboard_time": 1768452622,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 172806,
@@ -739,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140353,
+      "num": 129717,
+      "word": "贺峻霖发张图压压惊",
+      "onboard_time": 1768455680,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138440,
       "num": 138440,
       "word": "医生提醒肾脏疾病注意这些征兆",
@@ -795,12 +811,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 134535,
+      "num": 134535,
+      "word": "轧戏电梯3.0",
+      "onboard_time": 1768455201,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134395,
       "num": 134395,
       "word": "每个省的回家路",
       "onboard_time": 1768450100,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132293,
+      "num": 132293,
+      "word": "放假回家和长辈的共同话题有了",
+      "onboard_time": 1768455980,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 131004,
@@ -824,6 +856,14 @@
       "word": "聂远女儿也是TF家族粉丝",
       "onboard_time": 1768441461,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 123749,
+      "num": 140971,
+      "word": "陈都灵回应获奖感言出圈",
+      "onboard_time": 1768452442,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -857,14 +897,6 @@
       "onboard_time": 1768450041,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120476,
-      "num": 140971,
-      "word": "陈都灵回应获奖感言出圈",
-      "onboard_time": 1768452442,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 120258,
@@ -1003,6 +1035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 108047,
+      "num": 108047,
+      "word": "聂卫平曾后悔为国足开了珍藏好酒",
+      "onboard_time": 1768456041,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107308,
       "num": 185006,
       "word": "马年的彩头挺有说法",
@@ -1064,6 +1104,14 @@
       "word": "黄晓明自曝脚6根骨头骨裂",
       "onboard_time": 1768447160,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 103579,
+      "num": 103579,
+      "word": "再见爱人5收官",
+      "onboard_time": 1768455799,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -1147,20 +1195,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94170,
-      "num": 106010,
-      "word": "女子7万买金镯一捏就变形",
-      "onboard_time": 1768454779,
-      "rank": 38,
+      "raw_hot": 91741,
+      "num": 91741,
+      "word": "24岁女子回应减肥50斤后确诊尿毒症",
+      "onboard_time": 1768453582,
+      "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92242,
-      "num": 92242,
-      "word": "轧戏电梯3.0",
-      "onboard_time": 1768455201,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 90128,
@@ -1169,6 +1209,14 @@
       "onboard_time": 1768432698,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89725,
+      "num": 140734,
+      "word": "伊朗约2000枚导弹可覆盖美以基地",
+      "onboard_time": 1768452981,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 89314,
@@ -1201,6 +1249,14 @@
       "onboard_time": 1768441761,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 87331,
+      "num": 87331,
+      "word": "柯洁7岁在聂卫平道场学习",
+      "onboard_time": 1768455619,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 86837,
@@ -1393,6 +1449,14 @@
       "onboard_time": 1768396642,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 57493,
+      "num": 92772,
+      "word": "电子榨菜之王今晚续上了",
+      "onboard_time": 1768455440,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 57229,
@@ -1643,15 +1707,7 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 25606,
-      "num": 304589,
-      "word": "美对特定半导体等加征25%关税",
-      "onboard_time": 1768442360,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 25433,
+      "raw_hot": 25971,
       "num": 105258,
       "word": "一场控诉隐形加班官司的胜利",
       "onboard_time": 1768455080,
@@ -1659,11 +1715,11 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 23836,
-      "num": 140734,
-      "word": "伊朗约2000枚导弹可覆盖美以基地",
-      "onboard_time": 1768452981,
-      "rank": 38,
+      "raw_hot": 25606,
+      "num": 304589,
+      "word": "美对特定半导体等加征25%关税",
+      "onboard_time": 1768442360,
+      "rank": 9,
       "category": "国际时政"
     },
     {

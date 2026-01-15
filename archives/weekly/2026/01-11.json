@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768455272213,
+  "endTime": 1768456235051,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -515,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 827066,
+      "num": 205226,
+      "word": "QQ回应沈腾空间被盗",
+      "onboard_time": 1768451721,
+      "rank": 15,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 826962,
       "num": 382101,
       "word": "iPhone18Pro新爆料",
@@ -673,14 +681,6 @@
       "onboard_time": 1768380501,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 722570,
-      "num": 205226,
-      "word": "QQ回应沈腾空间被盗",
-      "onboard_time": 1768451721,
-      "rank": 15,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 721893,
@@ -2419,6 +2419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 360111,
+      "num": 360111,
+      "word": "女子7万买金镯一捏就变形",
+      "onboard_time": 1768454779,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 360025,
       "num": 1057604,
       "word": "央视播出养老金贪污案细节",
@@ -2521,6 +2529,14 @@
       "onboard_time": 1768184659,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 351381,
+      "num": 351381,
+      "word": "沙特又宣布发现黄金资源",
+      "onboard_time": 1768452622,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 350500,
@@ -4907,6 +4923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192798,
+      "num": 146569,
+      "word": "香港文体旅局局长发文感谢周深",
+      "onboard_time": 1768454360,
+      "rank": 20,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 192219,
       "num": 192219,
       "word": "金球奖",
@@ -4977,14 +5001,6 @@
       "onboard_time": 1768136961,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 191382,
-      "num": 146569,
-      "word": "香港文体旅局局长发文感谢周深",
-      "onboard_time": 1768454360,
-      "rank": 20,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 191263,
@@ -5633,14 +5649,6 @@
       "onboard_time": 1768308803,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173867,
-      "num": 197711,
-      "word": "沙特又宣布发现黄金资源",
-      "onboard_time": 1768452622,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 173835,
@@ -7243,6 +7251,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 140353,
+      "num": 129717,
+      "word": "贺峻霖发张图压压惊",
+      "onboard_time": 1768455680,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140186,
       "num": 140186,
       "word": "男子怂恿多人卖淫私吞嫖资获刑",
@@ -7659,6 +7675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134535,
+      "num": 134535,
+      "word": "轧戏电梯3.0",
+      "onboard_time": 1768455201,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134435,
       "num": 134435,
       "word": "周杰伦以球员身份参加澳网",
@@ -7793,6 +7817,14 @@
       "onboard_time": 1768273819,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132293,
+      "num": 132293,
+      "word": "放假回家和长辈的共同话题有了",
+      "onboard_time": 1768455980,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 132191,
@@ -8323,6 +8355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 123749,
+      "num": 140971,
+      "word": "陈都灵回应获奖感言出圈",
+      "onboard_time": 1768452442,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123734,
       "num": 123734,
       "word": "张艺兴参与制作中巴建交75周年主题曲",
@@ -8609,14 +8649,6 @@
       "onboard_time": 1768289060,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120476,
-      "num": 140971,
-      "word": "陈都灵回应获奖感言出圈",
-      "onboard_time": 1768452442,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 120376,
@@ -9851,6 +9883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108047,
+      "num": 108047,
+      "word": "聂卫平曾后悔为国足开了珍藏好酒",
+      "onboard_time": 1768456041,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107941,
       "num": 124288,
       "word": "苍兰诀云初令是一个地方开机",
@@ -10329,6 +10369,14 @@
       "onboard_time": 1768185258,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103579,
+      "num": 103579,
+      "word": "再见爱人5收官",
+      "onboard_time": 1768455799,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 103555,
@@ -11355,14 +11403,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 94170,
-      "num": 106010,
-      "word": "女子7万买金镯一捏就变形",
-      "onboard_time": 1768454779,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94141,
       "num": 94141,
       "word": "张艺兴改编的大花轿上线",
@@ -11515,14 +11555,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 92242,
-      "num": 92242,
-      "word": "轧戏电梯3.0",
-      "onboard_time": 1768455201,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 92234,
       "num": 92234,
       "word": "红楼梦二姐吞金",
@@ -11577,6 +11609,14 @@
       "onboard_time": 1768365262,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 91741,
+      "num": 91741,
+      "word": "24岁女子回应减肥50斤后确诊尿毒症",
+      "onboard_time": 1768453582,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91658,
@@ -11833,6 +11873,14 @@
       "onboard_time": 1768221262,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89725,
+      "num": 140734,
+      "word": "伊朗约2000枚导弹可覆盖美以基地",
+      "onboard_time": 1768452981,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 89720,
@@ -12105,6 +12153,14 @@
       "onboard_time": 1768390821,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 87331,
+      "num": 87331,
+      "word": "柯洁7岁在聂卫平道场学习",
+      "onboard_time": 1768455619,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 87285,
@@ -14067,6 +14123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 57493,
+      "num": 92772,
+      "word": "电子榨菜之王今晚续上了",
+      "onboard_time": 1768455440,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 57439,
       "num": 90266,
       "word": "摇篮曲公告",
@@ -15459,6 +15523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 25971,
+      "num": 105258,
+      "word": "一场控诉隐形加班官司的胜利",
+      "onboard_time": 1768455080,
+      "rank": 39,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 25768,
       "num": 55132,
       "word": "黄轩杀青旁白",
@@ -15481,14 +15553,6 @@
       "onboard_time": 1768283241,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 25433,
-      "num": 105258,
-      "word": "一场控诉隐形加班官司的胜利",
-      "onboard_time": 1768455080,
-      "rank": 39,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 25192,
@@ -15584,14 +15648,6 @@
       "word": "泰国边境多处加油站遭袭",
       "onboard_time": 1768129822,
       "rank": 39,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 23836,
-      "num": 140734,
-      "word": "伊朗约2000枚导弹可覆盖美以基地",
-      "onboard_time": 1768452981,
-      "rank": 38,
       "category": "国际时政"
     },
     {

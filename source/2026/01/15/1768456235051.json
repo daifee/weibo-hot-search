@@ -1,0 +1,410 @@
+{
+  "runTime": 1768456235051,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 398758,
+        "num": 1063801,
+        "word": "聂卫平逝世",
+        "onboard_time": 1768435160,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 363734,
+        "num": 768122,
+        "word": "贺娇龙相册全是凌晨工作照片",
+        "onboard_time": 1768437443,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42949,
+        "num": 618236,
+        "word": "换购住房继续享受退税优惠",
+        "onboard_time": 1768448300,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360111,
+        "num": 360111,
+        "word": "女子7万买金镯一捏就变形",
+        "onboard_time": 1768454779,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351381,
+        "num": 351381,
+        "word": "沙特又宣布发现黄金资源",
+        "onboard_time": 1768452622,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 491566,
+        "num": 340573,
+        "word": "贺娇龙遗体已回到昭苏",
+        "onboard_time": 1768447701,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307114,
+        "num": 307114,
+        "word": "感觉家里的不动产动了一下",
+        "onboard_time": 1768448780,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181288,
+        "num": 181288,
+        "word": "爸爸担心女儿考上清北探望机票太贵",
+        "onboard_time": 1768440260,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198407,
+        "num": 163699,
+        "word": "贺娇龙从服务员到全国网红干部",
+        "onboard_time": 1768449501,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134535,
+        "num": 134535,
+        "word": "轧戏电梯3.0",
+        "onboard_time": 1768455201,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 827066,
+        "num": 134175,
+        "word": "QQ回应沈腾空间被盗",
+        "onboard_time": 1768451721,
+        "rank": 10,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 422150,
+        "num": 133726,
+        "word": "美国人开始认同中式生活",
+        "onboard_time": 1768449020,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 338236,
+        "num": 133499,
+        "word": "金晨辟谣痔疮膏能去除黑眼圈",
+        "onboard_time": 1768450880,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192798,
+        "num": 133173,
+        "word": "香港文体旅局局长发文感谢周深",
+        "onboard_time": 1768454360,
+        "rank": 13,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 38345,
+        "num": 132451,
+        "word": "千问AI打电话订餐厅",
+        "onboard_time": 1768453281,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 132293,
+        "num": 132293,
+        "word": "放假回家和长辈的共同话题有了",
+        "onboard_time": 1768455980,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140353,
+        "num": 129717,
+        "word": "贺峻霖发张图压压惊",
+        "onboard_time": 1768455680,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122724,
+        "num": 122724,
+        "word": "贪官千万元别墅没装修完就被抓",
+        "onboard_time": 1768453461,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129595,
+        "num": 122718,
+        "word": "玉茗茶骨大结局",
+        "onboard_time": 1768449679,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53193,
+        "num": 122688,
+        "word": "原神决战博士",
+        "onboard_time": 1768453461,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 563793,
+        "num": 122667,
+        "word": "女子被判向出轨丈夫道歉15天",
+        "onboard_time": 1768446318,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266640,
+        "num": 122645,
+        "word": "韦德评论王橹杰",
+        "onboard_time": 1768435581,
+        "rank": 21,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 244418,
+        "num": 122630,
+        "word": "短剧已经卷到3秒一集了",
+        "onboard_time": 1768451721,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128378,
+        "num": 122617,
+        "word": "你那儿几点 王安宇",
+        "onboard_time": 1768443741,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122600,
+        "num": 122600,
+        "word": "柯洁",
+        "onboard_time": 1768438882,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123749,
+        "num": 120441,
+        "word": "陈都灵回应获奖感言出圈",
+        "onboard_time": 1768452442,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108650,
+        "num": 108650,
+        "word": "林允替张凌赫挡刀路透",
+        "onboard_time": 1768453401,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108047,
+        "num": 108047,
+        "word": "聂卫平曾后悔为国足开了珍藏好酒",
+        "onboard_time": 1768456041,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108507,
+        "num": 107584,
+        "word": "微博之夜",
+        "onboard_time": 1768451300,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106466,
+        "num": 106466,
+        "word": "韦德已删除和王橹杰互动内容",
+        "onboard_time": 1768450400,
+        "rank": 29,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 106193,
+        "num": 106193,
+        "word": "十年了杨洋怎么还长这样",
+        "onboard_time": 1768452741,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103579,
+        "num": 103579,
+        "word": "再见爱人5收官",
+        "onboard_time": 1768455799,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94769,
+        "num": 102975,
+        "word": "24岁女子脸长期肿胀确诊尿毒症",
+        "onboard_time": 1768442539,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102909,
+        "num": 102909,
+        "word": "赵丽颖黄晓明这段是现挂",
+        "onboard_time": 1768454119,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102714,
+        "num": 102714,
+        "word": "黄景瑜转发宣传王子奇新剧",
+        "onboard_time": 1768452381,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94224,
+        "num": 94224,
+        "word": "棋手战鹰缅怀聂卫平",
+        "onboard_time": 1768449260,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93984,
+        "num": 93984,
+        "word": "微博已还于正清白",
+        "onboard_time": 1768452022,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57493,
+        "num": 92772,
+        "word": "电子榨菜之王今晚续上了",
+        "onboard_time": 1768455440,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92636,
+        "num": 92636,
+        "word": "王楚钦营业",
+        "onboard_time": 1768448661,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25971,
+        "num": 91845,
+        "word": "一场控诉隐形加班官司的胜利",
+        "onboard_time": 1768455080,
+        "rank": 39,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 91741,
+        "num": 91741,
+        "word": "24岁女子回应减肥50斤后确诊尿毒症",
+        "onboard_time": 1768453582,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90314,
+        "num": 90314,
+        "word": "伊朗重新开放领空",
+        "onboard_time": 1768453640,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89725,
+        "num": 89725,
+        "word": "伊朗约2000枚导弹可覆盖美以基地",
+        "onboard_time": 1768452981,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89167,
+        "num": 89167,
+        "word": "公司年会抽到了最没用的东西",
+        "onboard_time": 1768454540,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88595,
+        "num": 88595,
+        "word": "杨瀚森G联赛得分新高",
+        "onboard_time": 1768452981,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88224,
+        "num": 88224,
+        "word": "领导一眼就能看出你是不是在摸鱼",
+        "onboard_time": 1768450701,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82171,
+        "num": 87954,
+        "word": "蒲熠星最强大脑倒计时视频",
+        "onboard_time": 1768454600,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87832,
+        "num": 87832,
+        "word": "金价银价再创历史新高",
+        "onboard_time": 1768452622,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 87331,
+        "num": 87331,
+        "word": "柯洁7岁在聂卫平道场学习",
+        "onboard_time": 1768455619,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85950,
+        "num": 85950,
+        "word": "赵又廷25岁时的颜值",
+        "onboard_time": 1768452261,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调建设良好家风的重要性#"
+    }
+  }
+}
