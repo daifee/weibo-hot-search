@@ -1,0 +1,410 @@
+{
+  "runTime": 1768453207318,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 828209,
+        "num": 1132513,
+        "word": "贺娇龙遗体已回到昭苏",
+        "onboard_time": 1768447701,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 632618,
+        "num": 829566,
+        "word": "聂卫平逝世",
+        "onboard_time": 1768435160,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55740,
+        "num": 629095,
+        "word": "换购住房继续享受退税优惠",
+        "onboard_time": 1768448300,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 673547,
+        "num": 597110,
+        "word": "代旭我被刘亦菲握了手就不洗了",
+        "onboard_time": 1768450279,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 401074,
+        "num": 572024,
+        "word": "贺娇龙相册全是凌晨工作照片",
+        "onboard_time": 1768437443,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 552781,
+        "num": 552781,
+        "word": "感觉家里的不动产动了一下",
+        "onboard_time": 1768448780,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 305159,
+        "num": 305159,
+        "word": "爸爸担心女儿考上清北探望机票太贵",
+        "onboard_time": 1768440260,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222595,
+        "num": 222595,
+        "word": "马年春晚",
+        "onboard_time": 1768402162,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213614,
+        "num": 213614,
+        "word": "玉茗茶骨大结局",
+        "onboard_time": 1768449679,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40353,
+        "num": 212307,
+        "word": "贪官手机等查出数千万元虚拟币",
+        "onboard_time": 1768452261,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 812506,
+        "num": 211443,
+        "word": "美国人开始认同中式生活",
+        "onboard_time": 1768449020,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 811276,
+        "num": 210451,
+        "word": "于正秀腹肌被判定AI",
+        "onboard_time": 1768448240,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479395,
+        "num": 209420,
+        "word": "金晨辟谣痔疮膏能去除黑眼圈",
+        "onboard_time": 1768450880,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221681,
+        "num": 208043,
+        "word": "王楚钦营业",
+        "onboard_time": 1768448661,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74378,
+        "num": 206105,
+        "word": "AI点的第一杯奶茶",
+        "onboard_time": 1768449620,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 258687,
+        "num": 205226,
+        "word": "QQ回应沈腾空间被盗",
+        "onboard_time": 1768451721,
+        "rank": 15,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 204355,
+        "num": 204355,
+        "word": "黄景瑜转发宣传王子奇新剧",
+        "onboard_time": 1768452381,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29075,
+        "num": 203596,
+        "word": "金吸管专吸马年好运气",
+        "onboard_time": 1768450041,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30255,
+        "num": 199899,
+        "word": "李娜邀你共赴新一年澳网之约",
+        "onboard_time": 1768451660,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25683,
+        "num": 197711,
+        "word": "沙特又宣布发现黄金资源",
+        "onboard_time": 1768452622,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 972389,
+        "num": 194077,
+        "word": "女子被判向出轨丈夫道歉15天",
+        "onboard_time": 1768446318,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448219,
+        "num": 191278,
+        "word": "韦德评论王橹杰",
+        "onboard_time": 1768435581,
+        "rank": 21,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 350500,
+        "num": 188311,
+        "word": "短剧已经卷到3秒一集了",
+        "onboard_time": 1768451721,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218858,
+        "num": 183298,
+        "word": "赵又廷25岁时的颜值",
+        "onboard_time": 1768452261,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44488,
+        "num": 181560,
+        "word": "两大汽车央企董事长年薪不到百万",
+        "onboard_time": 1768453040,
+        "rank": 24,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 179526,
+        "num": 179526,
+        "word": "国考进面名单",
+        "onboard_time": 1768444401,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175206,
+        "num": 175206,
+        "word": "24岁女子脸长期肿胀确诊尿毒症",
+        "onboard_time": 1768442539,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171731,
+        "num": 171731,
+        "word": "贺娇龙从服务员到全国网红干部",
+        "onboard_time": 1768449501,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168089,
+        "num": 168089,
+        "word": "柯洁",
+        "onboard_time": 1768438882,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166897,
+        "num": 166897,
+        "word": "A股要慢牛不要疯牛",
+        "onboard_time": 1768440799,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 166396,
+        "num": 166396,
+        "word": "微博之夜",
+        "onboard_time": 1768451300,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165869,
+        "num": 165869,
+        "word": "韦德已删除和王橹杰互动内容",
+        "onboard_time": 1768450400,
+        "rank": 31,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 158397,
+        "num": 158397,
+        "word": "棋手战鹰缅怀聂卫平",
+        "onboard_time": 1768449260,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149617,
+        "num": 149617,
+        "word": "你告诉我这是光头强",
+        "onboard_time": 1768452141,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148657,
+        "num": 148657,
+        "word": "微博已还于正清白",
+        "onboard_time": 1768452022,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141040,
+        "num": 141040,
+        "word": "杨瀚森G联赛得分新高",
+        "onboard_time": 1768452981,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113082,
+        "num": 140971,
+        "word": "陈都灵回应获奖感言出圈",
+        "onboard_time": 1768452442,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71567,
+        "num": 140845,
+        "word": "为什么有个人懂我是件悲伤的事",
+        "onboard_time": 1768452921,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23836,
+        "num": 140734,
+        "word": "伊朗约2000枚导弹可覆盖美以基地",
+        "onboard_time": 1768452981,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 9449,
+        "num": 140591,
+        "word": "主管回应员工疑辞职不批跳楼身亡",
+        "onboard_time": 1768452921,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146554,
+        "num": 140444,
+        "word": "十年了杨洋怎么还长这样",
+        "onboard_time": 1768452741,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140354,
+        "num": 140354,
+        "word": "你那儿几点 王安宇",
+        "onboard_time": 1768443741,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134761,
+        "num": 136949,
+        "word": "金价银价再创历史新高",
+        "onboard_time": 1768452622,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135214,
+        "num": 135214,
+        "word": "杨幂穿Prada的黑长直女神",
+        "onboard_time": 1768447040,
+        "rank": 43,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 135047,
+        "num": 135047,
+        "word": "任嘉伦周雨切磋乒乓球",
+        "onboard_time": 1768452202,
+        "rank": 44,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 125111,
+        "num": 125111,
+        "word": "小洛熙父母维权案下周开庭",
+        "onboard_time": 1768447640,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122409,
+        "num": 122409,
+        "word": "谁把沈腾QQ空间盗了",
+        "onboard_time": 1768443020,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121436,
+        "num": 121436,
+        "word": "领导一眼就能看出你是不是在摸鱼",
+        "onboard_time": 1768450701,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118300,
+        "num": 118300,
+        "word": "古装剧终于不拍恋爱脑了",
+        "onboard_time": 1768451000,
+        "rank": 48,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 117367,
+        "num": 117367,
+        "word": "镖人",
+        "onboard_time": 1768407079,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调建设良好家风的重要性#"
+    }
+  }
+}

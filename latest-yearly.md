@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/15 12:09:49
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/15 13:00:07
 </p>
 </blockquote>
 <p>
@@ -1071,6 +1071,12 @@ iPhone18Pro新爆料（热度：826962）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%BC%80%E5%A7%8B%E8%AE%A4%E5%90%8C%E4%B8%AD%E5%BC%8F%E7%94%9F%E6%B4%BB%23" target="weibo">
+美国人开始认同中式生活（热度：812506）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%23" target="weibo">
 日本梅毒（热度：811408）
 </a>
@@ -1545,6 +1551,12 @@ A股（热度：713520）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E6%97%AD%E6%88%91%E8%A2%AB%E5%88%98%E4%BA%A6%E8%8F%B2%E6%8F%A1%E4%BA%86%E6%89%8B%E5%B0%B1%E4%B8%8D%E6%B4%97%E4%BA%86%23" target="weibo">
+代旭我被刘亦菲握了手就不洗了（热度：673547）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A6%E5%BE%B7%E8%AF%84%E8%AE%BA%E7%8E%8B%E6%A9%B9%E6%9D%B0%23" target="weibo">
 韦德评论王橹杰（热度：671528）
 </a>
@@ -1799,18 +1811,6 @@ CSGO（热度：630992）
 <li>
 <a href="https://s.weibo.com/weibo?q=%231%E7%9B%92%E5%86%85%E5%AD%98%E6%9D%A1%E5%A0%AA%E6%AF%94%E4%B8%8A%E6%B5%B71%E5%A5%97%E6%88%BF%23" target="weibo">
 1盒内存条堪比上海1套房（热度：615112）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%23" target="weibo">
-种地吧（热度：614251）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%20%E9%9B%86%E4%BD%93%E5%A9%9A%E7%A4%BC%23" target="weibo">
-微博之夜 集体婚礼（热度：614124）
 </a>
 </li>
 

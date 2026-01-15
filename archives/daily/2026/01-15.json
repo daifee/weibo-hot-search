@@ -1,6 +1,6 @@
 {
   "startTime": 1768408888455,
-  "endTime": 1768450189934,
+  "endTime": 1768453207318,
   "band_list": [
     {
       "raw_hot": 2603317,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 812506,
+      "num": 211443,
+      "word": "美国人开始认同中式生活",
+      "onboard_time": 1768449020,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 742060,
       "num": 160783,
       "word": "杨幂 见面会",
@@ -81,6 +89,14 @@
       "onboard_time": 1768440260,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 673547,
+      "num": 597110,
+      "word": "代旭我被刘亦菲握了手就不洗了",
+      "onboard_time": 1768450279,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 671528,
@@ -107,6 +123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 552781,
+      "num": 552781,
+      "word": "感觉家里的不动产动了一下",
+      "onboard_time": 1768448780,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 546668,
       "num": 672778,
       "word": "马年春晚",
@@ -121,6 +145,14 @@
       "onboard_time": 1768438882,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 479395,
+      "num": 209420,
+      "word": "金晨辟谣痔疮膏能去除黑眼圈",
+      "onboard_time": 1768450880,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 478749,
@@ -187,6 +219,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 350500,
+      "num": 188311,
+      "word": "短剧已经卷到3秒一集了",
+      "onboard_time": 1768451721,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 329072,
       "num": 329072,
       "word": "花海晒聊天记录",
@@ -235,14 +275,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 283274,
-      "num": 283274,
-      "word": "感觉家里的不动产动了一下",
-      "onboard_time": 1768448780,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 279021,
       "num": 279021,
       "word": "A股要慢牛不要疯牛",
@@ -273,6 +305,14 @@
       "onboard_time": 1768440260,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 258687,
+      "num": 205226,
+      "word": "QQ回应沈腾空间被盗",
+      "onboard_time": 1768451721,
+      "rank": 15,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 252078,
@@ -331,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218858,
+      "num": 183298,
+      "word": "赵又廷25岁时的颜值",
+      "onboard_time": 1768452261,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218061,
       "num": 218061,
       "word": "聂卫平战日本特意穿了国乒球衣",
@@ -347,12 +395,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 213614,
+      "num": 213614,
+      "word": "玉茗茶骨大结局",
+      "onboard_time": 1768449679,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209769,
       "num": 209769,
       "word": "棋手战鹰缅怀聂卫平",
       "onboard_time": 1768449260,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204355,
+      "num": 204355,
+      "word": "黄景瑜转发宣传王子奇新剧",
+      "onboard_time": 1768452381,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 203460,
@@ -379,14 +443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 196815,
-      "num": 193151,
-      "word": "玉茗茶骨大结局",
-      "onboard_time": 1768449679,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196309,
       "num": 196309,
       "word": "彭十六偷税案",
@@ -401,14 +457,6 @@
       "onboard_time": 1768448720,
       "rank": 16,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 194200,
-      "num": 194200,
-      "word": "美国人开始认同中式生活",
-      "onboard_time": 1768449020,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 194008,
@@ -483,6 +531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 171731,
+      "num": 171731,
+      "word": "贺娇龙从服务员到全国网红干部",
+      "onboard_time": 1768449501,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171580,
       "num": 171580,
       "word": "山东省考成绩",
@@ -505,6 +561,22 @@
       "onboard_time": 1768397661,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 166396,
+      "num": 166396,
+      "word": "微博之夜",
+      "onboard_time": 1768451300,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 165869,
+      "num": 165869,
+      "word": "韦德已删除和王橹杰互动内容",
+      "onboard_time": 1768450400,
+      "rank": 31,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 163525,
@@ -571,12 +643,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 149617,
+      "num": 149617,
+      "word": "你告诉我这是光头强",
+      "onboard_time": 1768452141,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 148657,
+      "num": 148657,
+      "word": "微博已还于正清白",
+      "onboard_time": 1768452022,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148112,
       "num": 151686,
       "word": "格林",
       "onboard_time": 1768436841,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 146554,
+      "num": 140444,
+      "word": "十年了杨洋怎么还长这样",
+      "onboard_time": 1768452741,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 145929,
@@ -601,6 +697,14 @@
       "onboard_time": 1768438462,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 141040,
+      "num": 141040,
+      "word": "杨瀚森G联赛得分新高",
+      "onboard_time": 1768452981,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 140863,
@@ -651,6 +755,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 135047,
+      "num": 135047,
+      "word": "任嘉伦周雨切磋乒乓球",
+      "onboard_time": 1768452202,
+      "rank": 44,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 134761,
+      "num": 136949,
+      "word": "金价银价再创历史新高",
+      "onboard_time": 1768452622,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 134395,
       "num": 134395,
       "word": "每个省的回家路",
@@ -665,14 +785,6 @@
       "onboard_time": 1768450160,
       "rank": 44,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 129960,
-      "num": 129960,
-      "word": "贺娇龙从服务员到全国网红干部",
-      "onboard_time": 1768449501,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127816,
@@ -699,8 +811,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121436,
+      "num": 121436,
+      "word": "领导一眼就能看出你是不是在摸鱼",
+      "onboard_time": 1768450701,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120844,
-      "num": 144336,
+      "num": 203596,
       "word": "金吸管专吸马年好运气",
       "onboard_time": 1768450041,
       "rank": 30,
@@ -713,6 +833,14 @@
       "onboard_time": 1768442120,
       "rank": 34,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 118300,
+      "num": 118300,
+      "word": "古装剧终于不拍恋爱脑了",
+      "onboard_time": 1768451000,
+      "rank": 48,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 117048,
@@ -745,6 +873,14 @@
       "onboard_time": 1768449321,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113082,
+      "num": 140971,
+      "word": "陈都灵回应获奖感言出圈",
+      "onboard_time": 1768452442,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 112610,
@@ -1011,12 +1147,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74378,
+      "num": 230385,
+      "word": "AI点的第一杯奶茶",
+      "onboard_time": 1768449620,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 72931,
       "num": 72931,
       "word": "小猫也会因为早恋被训斥",
       "onboard_time": 1768404740,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 71567,
+      "num": 140845,
+      "word": "为什么有个人懂我是件悲伤的事",
+      "onboard_time": 1768452921,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 71529,
@@ -1259,14 +1411,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 48032,
-      "num": 230385,
-      "word": "AI点的第一杯奶茶",
-      "onboard_time": 1768449620,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 47597,
       "num": 53899,
       "word": "向日葵被查",
@@ -1291,6 +1435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44488,
+      "num": 181560,
+      "word": "两大汽车央企董事长年薪不到百万",
+      "onboard_time": 1768453040,
+      "rank": 24,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 44031,
       "num": 65524,
       "word": "银价继续上涨创新高",
@@ -1305,6 +1457,14 @@
       "onboard_time": 1768433720,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 40353,
+      "num": 212307,
+      "word": "贪官手机等查出数千万元虚拟币",
+      "onboard_time": 1768452261,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 38480,
@@ -1355,11 +1515,35 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 30255,
+      "num": 199899,
+      "word": "李娜邀你共赴新一年澳网之约",
+      "onboard_time": 1768451660,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 25683,
+      "num": 197711,
+      "word": "沙特又宣布发现黄金资源",
+      "onboard_time": 1768452622,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 25606,
       "num": 304589,
       "word": "美对特定半导体等加征25%关税",
       "onboard_time": 1768442360,
       "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 23836,
+      "num": 140734,
+      "word": "伊朗约2000枚导弹可覆盖美以基地",
+      "onboard_time": 1768452981,
+      "rank": 38,
       "category": "国际时政"
     },
     {
@@ -1457,6 +1641,14 @@
       "onboard_time": 1768444099,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 9449,
+      "num": 140591,
+      "word": "主管回应员工疑辞职不批跳楼身亡",
+      "onboard_time": 1768452921,
+      "rank": 39,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
