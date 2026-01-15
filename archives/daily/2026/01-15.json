@@ -1,6 +1,6 @@
 {
   "startTime": 1768408888455,
-  "endTime": 1768467307912,
+  "endTime": 1768469847661,
   "band_list": [
     {
       "raw_hot": 2603317,
@@ -187,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 603679,
+      "num": 829206,
+      "word": "我们的少年时代2",
+      "onboard_time": 1768466842,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 560450,
       "num": 220163,
       "word": "张慧雯曹骏紧急声明",
@@ -241,6 +249,14 @@
       "onboard_time": 1768459161,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 495505,
+      "num": 212836,
+      "word": "西贝",
+      "onboard_time": 1768464861,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 493562,
@@ -355,12 +371,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 379567,
+      "num": 319887,
+      "word": "春节请1休10",
+      "onboard_time": 1768465161,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 371097,
       "num": 757335,
       "word": "短剧已经卷到3秒一集了",
       "onboard_time": 1768451721,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 359816,
+      "num": 316763,
+      "word": "特朗普邀请记者喝放了5天的牛奶",
+      "onboard_time": 1768465520,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 357818,
@@ -411,14 +443,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 319887,
-      "num": 319887,
-      "word": "春节请1休10",
-      "onboard_time": 1768465161,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 296723,
       "num": 296723,
       "word": "扛剧爆剧花",
@@ -459,14 +483,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 275480,
-      "num": 275480,
-      "word": "特朗普邀请记者喝放了5天的牛奶",
-      "onboard_time": 1768465520,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 273645,
       "num": 264452,
       "word": "谢娜大晚上不能我一个人笑",
@@ -481,6 +497,14 @@
       "onboard_time": 1768434440,
       "rank": 13,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 261299,
+      "num": 261299,
+      "word": "贾国龙说拼了整整125天",
+      "onboard_time": 1768466422,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 260556,
@@ -595,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216855,
+      "num": 216855,
+      "word": "公积金贷款利率接近历史低点",
+      "onboard_time": 1768467079,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 214519,
       "num": 214519,
       "word": "伊朗宣布暂时关闭领空",
@@ -641,6 +673,14 @@
       "onboard_time": 1768449260,
       "rank": 15,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 203168,
+      "num": 203168,
+      "word": "御赐小仵作",
+      "onboard_time": 1768464501,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 203094,
@@ -755,14 +795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 174862,
-      "num": 172792,
-      "word": "御赐小仵作",
-      "onboard_time": 1768464501,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 174638,
       "num": 174638,
       "word": "代旭角色查重率为0",
@@ -795,28 +827,12 @@
       "category": "互联网,体育"
     },
     {
-      "raw_hot": 170562,
-      "num": 170562,
-      "word": "我们的少年时代2",
-      "onboard_time": 1768466842,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 169969,
       "num": 169969,
       "word": "考公考编的区别",
       "onboard_time": 1768463361,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 169560,
-      "num": 145848,
-      "word": "公积金贷款利率接近历史低点",
-      "onboard_time": 1768467079,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 169494,
@@ -849,6 +865,14 @@
       "onboard_time": 1768450400,
       "rank": 31,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 165465,
+      "num": 165465,
+      "word": "罗永浩 西贝",
+      "onboard_time": 1768469360,
+      "rank": 18,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 163525,
@@ -955,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153779,
+      "num": 153779,
+      "word": "TF四代主演是哪四个",
+      "onboard_time": 1768468340,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150358,
       "num": 150358,
       "word": "陈都灵回应获奖感言出圈",
@@ -979,20 +1011,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 149126,
+      "num": 149126,
+      "word": "ELLE2月刊封面",
+      "onboard_time": 1768468400,
+      "rank": 25,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 148657,
       "num": 148657,
       "word": "微博已还于正清白",
       "onboard_time": 1768452022,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 148471,
-      "num": 148471,
-      "word": "西贝",
-      "onboard_time": 1768464861,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148112,
@@ -1011,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146758,
+      "num": 146758,
+      "word": "杨幂刘宇宁或演江山大同",
+      "onboard_time": 1768468281,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146554,
       "num": 140444,
       "word": "十年了杨洋怎么还长这样",
@@ -1027,20 +1067,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144347,
+      "num": 144347,
+      "word": "王安宇金晨出发看秋雪",
+      "onboard_time": 1768468041,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143086,
       "num": 143086,
       "word": "过年你的快乐来源",
       "onboard_time": 1768449922,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 142977,
-      "num": 142977,
-      "word": "贾国龙说拼了整整125天",
-      "onboard_time": 1768466422,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142790,
@@ -1105,6 +1145,14 @@
       "onboard_time": 1768462340,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136114,
+      "num": 162505,
+      "word": "宝格丽官宣张凌赫",
+      "onboard_time": 1768467801,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 135679,
@@ -1187,6 +1235,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 131367,
+      "num": 131367,
+      "word": "谁收到卢昱晓送的花了",
+      "onboard_time": 1768468461,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131004,
       "num": 131004,
       "word": "手工天才勇闯ACG",
@@ -1227,8 +1283,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 124904,
-      "num": 117918,
+      "raw_hot": 125718,
+      "num": 125718,
       "word": "周杰伦 你以为我不想",
       "onboard_time": 1768464741,
       "rank": 36,
@@ -1249,6 +1305,14 @@
       "onboard_time": 1768453461,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 121919,
+      "num": 147013,
+      "word": "马龙到达米兰",
+      "onboard_time": 1768469001,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 121615,
@@ -1339,6 +1403,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 116099,
+      "num": 108979,
+      "word": "让周杰伦也尝尝开票秒没的滋味",
+      "onboard_time": 1768468581,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 115714,
+      "num": 136880,
+      "word": "发财宅女",
+      "onboard_time": 1768467860,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115664,
       "num": 115664,
       "word": "伊朗重新开放领空",
@@ -1419,12 +1499,28 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 112138,
+      "num": 111199,
+      "word": "梁淞再见爱人5收官发文",
+      "onboard_time": 1768466001,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111764,
       "num": 111764,
       "word": "小城大事口碑",
       "onboard_time": 1768460660,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111693,
+      "num": 111693,
+      "word": "假如我成为过年主理人",
+      "onboard_time": 1768469601,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 111645,
@@ -1499,6 +1595,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 107044,
+      "num": 107044,
+      "word": "第一次见被豆包霸凌的",
+      "onboard_time": 1768467980,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106650,
       "num": 106650,
       "word": "永远怀念棋圣聂卫平",
@@ -1555,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103942,
+      "num": 103942,
+      "word": "央行称降准降息还有一定空间",
+      "onboard_time": 1768468821,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 103579,
       "num": 103579,
       "word": "再见爱人5收官",
@@ -1569,14 +1681,6 @@
       "onboard_time": 1768454540,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 101742,
-      "num": 97420,
-      "word": "梁淞再见爱人5收官发文",
-      "onboard_time": 1768466001,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 100666,
@@ -1691,6 +1795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 95531,
+      "num": 95531,
+      "word": "孙颖莎新鲜合照",
+      "onboard_time": 1768469421,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95309,
       "num": 95309,
       "word": "国新办新闻发布会",
@@ -1705,6 +1817,14 @@
       "onboard_time": 1768409598,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94597,
+      "num": 94597,
+      "word": "第一批回家过年的人已经装饰起来了",
+      "onboard_time": 1768468281,
+      "rank": 46,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 94588,
@@ -1744,6 +1864,14 @@
       "word": "贺娇龙被质疑想当网红时突然哽塞",
       "onboard_time": 1768457300,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92700,
+      "num": 92700,
+      "word": "上海地铁有偿代坐2人被训诫",
+      "onboard_time": 1768468940,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -1801,6 +1929,14 @@
       "onboard_time": 1768440082,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88713,
+      "num": 88713,
+      "word": "年轻人期待的过年方式",
+      "onboard_time": 1768469601,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 88711,
@@ -1985,6 +2121,14 @@
       "onboard_time": 1768462401,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 77708,
+      "num": 77708,
+      "word": "高校期末考泄题学生回校重考",
+      "onboard_time": 1768468041,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75286,
@@ -2387,6 +2531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 39694,
+      "num": 109272,
+      "word": "疑中国女子柬埔寨赌场酒店坠亡",
+      "onboard_time": 1768469241,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 38480,
       "num": 65501,
       "word": "小城良方",
@@ -2443,6 +2595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32332,
+      "num": 164772,
+      "word": "贺娇龙用直播为家乡带货超6亿",
+      "onboard_time": 1768469241,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32193,
       "num": 65389,
       "word": "WB战胜AG",
@@ -2491,7 +2651,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 23319,
+      "raw_hot": 23407,
       "num": 651941,
       "word": "9图看2025年健康中国答卷",
       "onboard_time": 1768466181,

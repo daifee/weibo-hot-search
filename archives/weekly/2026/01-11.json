@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768467307912,
+  "endTime": 1768469847661,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -1027,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 603679,
+      "num": 829206,
+      "word": "我们的少年时代2",
+      "onboard_time": 1768466842,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 603170,
       "num": 603170,
       "word": "40一盒和400一盒草莓的区别",
@@ -1560,6 +1568,14 @@
       "word": "得知三孩又是儿子爸爸笑容当场凝固",
       "onboard_time": 1768198220,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 495505,
+      "num": 212836,
+      "word": "西贝",
+      "onboard_time": 1768464861,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -2411,6 +2427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 379567,
+      "num": 319887,
+      "word": "春节请1休10",
+      "onboard_time": 1768465161,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 378599,
       "num": 806861,
       "word": "AI登顶LOL韩服",
@@ -2569,6 +2593,14 @@
       "onboard_time": 1768188441,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 359816,
+      "num": 316763,
+      "word": "特朗普邀请记者喝放了5天的牛奶",
+      "onboard_time": 1768465520,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 359682,
@@ -2961,14 +2993,6 @@
       "onboard_time": 1768106061,
       "rank": 4,
       "category": "美食"
-    },
-    {
-      "raw_hot": 319887,
-      "num": 319887,
-      "word": "春节请1休10",
-      "onboard_time": 1768465161,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 319699,
@@ -3515,14 +3539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 275480,
-      "num": 275480,
-      "word": "特朗普邀请记者喝放了5天的牛奶",
-      "onboard_time": 1768465520,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 273990,
       "num": 178552,
       "word": "玉茗茶骨圆房吻",
@@ -3713,6 +3729,14 @@
       "onboard_time": 1768230321,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 261299,
+      "num": 261299,
+      "word": "贾国龙说拼了整整125天",
+      "onboard_time": 1768466422,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 261051,
@@ -4489,6 +4513,14 @@
       "onboard_time": 1768117640,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216855,
+      "num": 216855,
+      "word": "公积金贷款利率接近历史低点",
+      "onboard_time": 1768467079,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 216485,
@@ -5971,14 +6003,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 170562,
-      "num": 170562,
-      "word": "我们的少年时代2",
-      "onboard_time": 1768466842,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 170455,
       "num": 114191,
       "word": "卢昱晓玩游戏摔倒",
@@ -6049,14 +6073,6 @@
       "onboard_time": 1768401622,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169560,
-      "num": 145848,
-      "word": "公积金贷款利率接近历史低点",
-      "onboard_time": 1768467079,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 169494,
@@ -6233,6 +6249,14 @@
       "onboard_time": 1768398323,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165465,
+      "num": 165465,
+      "word": "罗永浩 西贝",
+      "onboard_time": 1768469360,
+      "rank": 18,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 164793,
@@ -6795,6 +6819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153779,
+      "num": 153779,
+      "word": "TF四代主演是哪四个",
+      "onboard_time": 1768468340,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153686,
       "num": 153686,
       "word": "周翊然余承恩同框",
@@ -7083,6 +7115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149126,
+      "num": 149126,
+      "word": "ELLE2月刊封面",
+      "onboard_time": 1768468400,
+      "rank": 25,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 149011,
       "num": 149011,
       "word": "原来羽绒服可以这么洗",
@@ -7121,14 +7161,6 @@
       "onboard_time": 1768452022,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 148471,
-      "num": 148471,
-      "word": "西贝",
-      "onboard_time": 1768464861,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148112,
@@ -7201,6 +7233,14 @@
       "onboard_time": 1768259719,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146758,
+      "num": 146758,
+      "word": "杨幂刘宇宁或演江山大同",
+      "onboard_time": 1768468281,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 146693,
@@ -7355,6 +7395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144347,
+      "num": 144347,
+      "word": "王安宇金晨出发看秋雪",
+      "onboard_time": 1768468041,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144290,
       "num": 162878,
       "word": "贪官曾在机场威胁乘客",
@@ -7409,14 +7457,6 @@
       "onboard_time": 1768449922,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 142977,
-      "num": 142977,
-      "word": "贾国龙说拼了整整125天",
-      "onboard_time": 1768466422,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142810,
@@ -7801,6 +7841,14 @@
       "onboard_time": 1768462340,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136114,
+      "num": 162505,
+      "word": "宝格丽官宣张凌赫",
+      "onboard_time": 1768467801,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 136099,
@@ -8193,6 +8241,14 @@
       "onboard_time": 1768465221,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 131367,
+      "num": 131367,
+      "word": "谁收到卢昱晓送的花了",
+      "onboard_time": 1768468461,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 131362,
@@ -8635,6 +8691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125718,
+      "num": 125718,
+      "word": "周杰伦 你以为我不想",
+      "onboard_time": 1768464741,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125559,
       "num": 125559,
       "word": "王楚钦首位出场",
@@ -8657,14 +8721,6 @@
       "onboard_time": 1768138462,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124904,
-      "num": 117918,
-      "word": "周杰伦 你以为我不想",
-      "onboard_time": 1768464741,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 124646,
@@ -8897,6 +8953,14 @@
       "onboard_time": 1768377081,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 121919,
+      "num": 147013,
+      "word": "马龙到达米兰",
+      "onboard_time": 1768469001,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 121879,
@@ -9387,6 +9451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116099,
+      "num": 108979,
+      "word": "让周杰伦也尝尝开票秒没的滋味",
+      "onboard_time": 1768468581,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116054,
       "num": 124490,
       "word": "你好星期六",
@@ -9465,6 +9537,14 @@
       "onboard_time": 1768113081,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 115714,
+      "num": 136880,
+      "word": "发财宅女",
+      "onboard_time": 1768467860,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 115664,
@@ -9851,6 +9931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112138,
+      "num": 111199,
+      "word": "梁淞再见爱人5收官发文",
+      "onboard_time": 1768466001,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112086,
       "num": 112086,
       "word": "呆呆建了7个刨猪汤群都满了",
@@ -9905,6 +9993,14 @@
       "onboard_time": 1768298662,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111693,
+      "num": 111693,
+      "word": "假如我成为过年主理人",
+      "onboard_time": 1768469601,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 111645,
@@ -10419,6 +10515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107044,
+      "num": 107044,
+      "word": "第一次见被豆包霸凌的",
+      "onboard_time": 1768467980,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106867,
       "num": 146968,
       "word": "尹锡悦案庭审",
@@ -10763,6 +10867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103942,
+      "num": 103942,
+      "word": "央行称降准降息还有一定空间",
+      "onboard_time": 1768468821,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 103754,
       "num": 103754,
       "word": "小猫也会因为早恋被训斥",
@@ -11009,14 +11121,6 @@
       "onboard_time": 1768454540,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 101742,
-      "num": 97420,
-      "word": "梁淞再见爱人5收官发文",
-      "onboard_time": 1768466001,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 101717,
@@ -11755,6 +11859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 95531,
+      "num": 95531,
+      "word": "孙颖莎新鲜合照",
+      "onboard_time": 1768469421,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95496,
       "num": 95496,
       "word": "刘宇宁演唱会把腰带扭掉了",
@@ -11865,6 +11977,14 @@
       "onboard_time": 1768225581,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94597,
+      "num": 94597,
+      "word": "第一批回家过年的人已经装饰起来了",
+      "onboard_time": 1768468281,
+      "rank": 46,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 94588,
@@ -12049,6 +12169,14 @@
       "onboard_time": 1768379962,
       "rank": 39,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 92700,
+      "num": 92700,
+      "word": "上海地铁有偿代坐2人被训诫",
+      "onboard_time": 1768468940,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92683,
@@ -12553,6 +12681,14 @@
       "onboard_time": 1768353019,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88713,
+      "num": 88713,
+      "word": "年轻人期待的过年方式",
+      "onboard_time": 1768469601,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 88711,
@@ -13720,6 +13856,14 @@
       "word": "还有5周就除夕了",
       "onboard_time": 1768174878,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77708,
+      "num": 77708,
+      "word": "高校期末考泄题学生回校重考",
+      "onboard_time": 1768468041,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -15547,6 +15691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39694,
+      "num": 109272,
+      "word": "疑中国女子柬埔寨赌场酒店坠亡",
+      "onboard_time": 1768469241,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 39542,
       "num": 785146,
       "word": "2025有3000场大型营业性演出",
@@ -15905,6 +16057,14 @@
       "onboard_time": 1768064419,
       "rank": 47,
       "category": "军事"
+    },
+    {
+      "raw_hot": 32332,
+      "num": 164772,
+      "word": "贺娇龙用直播为家乡带货超6亿",
+      "onboard_time": 1768469241,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32216,
@@ -16403,6 +16563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 23407,
+      "num": 651941,
+      "word": "9图看2025年健康中国答卷",
+      "onboard_time": 1768466181,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23354,
       "num": 122909,
       "word": "水上大国重器又要上新了",
@@ -16417,14 +16585,6 @@
       "onboard_time": 1768115661,
       "rank": 38,
       "category": "剧集,作品衍生"
-    },
-    {
-      "raw_hot": 23319,
-      "num": 651941,
-      "word": "9图看2025年健康中国答卷",
-      "onboard_time": 1768466181,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23251,
