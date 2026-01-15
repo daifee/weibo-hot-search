@@ -1,0 +1,410 @@
+{
+  "runTime": 1768473242447,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 743670,
+        "num": 1118987,
+        "word": "我们的少年时代2",
+        "onboard_time": 1768466842,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 520886,
+        "num": 786017,
+        "word": "降息",
+        "onboard_time": 1768462581,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 20147,
+        "num": 652635,
+        "word": "9图看2025年健康中国答卷",
+        "onboard_time": 1768466181,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354324,
+        "num": 354324,
+        "word": "何美延梁淞自己带娃1周没空吵架了",
+        "onboard_time": 1768469840,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347533,
+        "num": 347533,
+        "word": "公积金贷款利率接近历史低点",
+        "onboard_time": 1768467079,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 321612,
+        "num": 321612,
+        "word": "官方通报产检正常娃出生却先天畸形",
+        "onboard_time": 1768460660,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 195494,
+        "num": 195494,
+        "word": "第一批免签去土耳其的已经破产了",
+        "onboard_time": 1768463601,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292195,
+        "num": 189447,
+        "word": "西贝",
+        "onboard_time": 1768464861,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181304,
+        "num": 181304,
+        "word": "ELLE2月刊封面",
+        "onboard_time": 1768468400,
+        "rank": 8,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 152381,
+        "num": 152381,
+        "word": "御赐小仵作2",
+        "onboard_time": 1768471820,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 958841,
+        "num": 152023,
+        "word": "罗永浩 西贝",
+        "onboard_time": 1768469360,
+        "rank": 10,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 302546,
+        "num": 149758,
+        "word": "38岁女子呕吐一夜后突发脑梗瘫痪",
+        "onboard_time": 1768458979,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287295,
+        "num": 147443,
+        "word": "张慧雯曹骏紧急声明",
+        "onboard_time": 1768462461,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210759,
+        "num": 145841,
+        "word": "李施嬅车崇健分手",
+        "onboard_time": 1768458921,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176940,
+        "num": 142285,
+        "word": "贾国龙说拼了整整125天",
+        "onboard_time": 1768466422,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154194,
+        "num": 139949,
+        "word": "日本男子嫌年终奖发得少把老板杀了",
+        "onboard_time": 1768462941,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139600,
+        "num": 139600,
+        "word": "短剧已经卷到3秒一集了",
+        "onboard_time": 1768451721,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136999,
+        "num": 136999,
+        "word": "西贝闭店102家网友喊话罗永浩",
+        "onboard_time": 1768472241,
+        "rank": 17,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 135769,
+        "num": 135769,
+        "word": "刘诗诗粉色旗袍路透",
+        "onboard_time": 1768471460,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67936,
+        "num": 135438,
+        "word": "八个娃娃里有八个魔丸",
+        "onboard_time": 1768471399,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158427,
+        "num": 134928,
+        "word": "春节请1休10",
+        "onboard_time": 1768465161,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 404850,
+        "num": 133884,
+        "word": "周杰伦澳网国籍标示中国",
+        "onboard_time": 1768472241,
+        "rank": 21,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 279479,
+        "num": 133324,
+        "word": "张凌赫官宣宝格丽",
+        "onboard_time": 1768461561,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132702,
+        "num": 132702,
+        "word": "御赐小仵作",
+        "onboard_time": 1768464501,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111222,
+        "num": 111222,
+        "word": "这就是我提前回家过年的原因",
+        "onboard_time": 1768471521,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252761,
+        "num": 111175,
+        "word": "儿子像嗯哼老公像王俊凯",
+        "onboard_time": 1768463541,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190468,
+        "num": 110451,
+        "word": "歌手鞠婧祎熹妃回宫了",
+        "onboard_time": 1768462762,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98176,
+        "num": 109871,
+        "word": "雷军转发小米汽车排第一榜单",
+        "onboard_time": 1768472000,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 189774,
+        "num": 109469,
+        "word": "刘宇宁自导自演的成品",
+        "onboard_time": 1768472421,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76294,
+        "num": 108903,
+        "word": "空气炸锅杀回年轻人的厨房",
+        "onboard_time": 1768472841,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108670,
+        "num": 108670,
+        "word": "赵丽颖ELLE2月刊预告",
+        "onboard_time": 1768472360,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 100034,
+        "num": 100034,
+        "word": "TF四代主演是哪四个",
+        "onboard_time": 1768468340,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96066,
+        "num": 96066,
+        "word": "被清华大学食堂的物价震惊到了",
+        "onboard_time": 1768472000,
+        "rank": 32,
+        "category": "美食,休闲"
+      },
+      {
+        "raw_hot": 96066,
+        "num": 95505,
+        "word": "巩俐后悔当年没演好秋香这个角色",
+        "onboard_time": 1768470321,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94361,
+        "num": 94361,
+        "word": "GALA五杀",
+        "onboard_time": 1768472901,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93439,
+        "num": 93439,
+        "word": "王安宇金晨出发看秋雪",
+        "onboard_time": 1768468041,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93398,
+        "num": 93398,
+        "word": "流落柬埔寨街头的女网红已回国",
+        "onboard_time": 1768471640,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93352,
+        "num": 93352,
+        "word": "虞书欣云初令路透",
+        "onboard_time": 1768473141,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91377,
+        "num": 91377,
+        "word": "宝格丽官宣张凌赫",
+        "onboard_time": 1768467801,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 18554,
+        "num": 91341,
+        "word": "非遗传承人罗大友多重身份被打假",
+        "onboard_time": 1768472841,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367607,
+        "num": 91301,
+        "word": "女孩撕心裂肺追妈妈晕倒身亡",
+        "onboard_time": 1768464620,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 947535,
+        "num": 91242,
+        "word": "死了么APP下架",
+        "onboard_time": 1768470501,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 89980,
+        "num": 91206,
+        "word": "考公一定要有强大的信念感",
+        "onboard_time": 1768467260,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 91169,
+        "num": 91169,
+        "word": "张杰一件羽绒服穿了快10年",
+        "onboard_time": 1768462220,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90873,
+        "num": 90873,
+        "word": "杨幂刘宇宁或演江山大同",
+        "onboard_time": 1768468281,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88688,
+        "num": 88688,
+        "word": "小猫穿上了高领毛衣",
+        "onboard_time": 1768473080,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87347,
+        "num": 87347,
+        "word": "对不起我以为是炸鸡腿",
+        "onboard_time": 1768472601,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81982,
+        "num": 81982,
+        "word": "以为是顺毛人夫结果是出轨渣男",
+        "onboard_time": 1768472719,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81624,
+        "num": 81624,
+        "word": "像是打开了一本叫刻薄的书",
+        "onboard_time": 1768473201,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80972,
+        "num": 80972,
+        "word": "上海地铁有偿代坐2人被训诫",
+        "onboard_time": 1768468940,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈治权#"
+    }
+  }
+}
