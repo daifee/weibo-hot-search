@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768513443554,
+  "endTime": 1768516254222,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -2036,7 +2036,7 @@
     },
     {
       "raw_hot": 445463,
-      "num": 94254,
+      "num": 275097,
       "word": "花海",
       "onboard_time": 1768503015,
       "rank": 3,
@@ -15459,6 +15459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70244,
+      "num": 52601,
+      "word": "杜海涛回应交通银行口误事件",
+      "onboard_time": 1768506973,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70194,
       "num": 70194,
       "word": "爸爸用面子换来三个汉堡",
@@ -16336,14 +16344,6 @@
       "word": "侯明昊回应被叫男妖妃",
       "onboard_time": 1768056621,
       "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 52601,
-      "num": 52601,
-      "word": "杜海涛回应交通银行口误事件",
-      "onboard_time": 1768506973,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -17451,12 +17451,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 30025,
+      "num": 30025,
+      "word": "众星悼念陶玉玲",
+      "onboard_time": 1768513273,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29956,
       "num": 33831,
       "word": "刘宇宁提前3个月准备惊喜揭晓",
       "onboard_time": 1768086675,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 29904,
+      "num": 29904,
+      "word": "西安偶遇孙坚袁姗姗",
+      "onboard_time": 1768507273,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 29860,
@@ -17763,14 +17779,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 25284,
-      "num": 19637,
-      "word": "西安偶遇孙坚袁姗姗",
-      "onboard_time": 1768507273,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 25192,
       "num": 93579,
       "word": "金晨给欧阳娜娜捂肩",
@@ -17969,6 +17977,14 @@
       "onboard_time": 1768137982,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21971,
+      "num": 24691,
+      "word": "小林光一悼念聂卫平",
+      "onboard_time": 1768515374,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 21948,
@@ -18211,6 +18227,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 18502,
+      "num": 24663,
+      "word": "轻生女子母亲称男方是远亲知根知底",
+      "onboard_time": 1768509553,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18438,
+      "num": 24658,
+      "word": "家属回应流落柬埔寨女网红回国现状",
+      "onboard_time": 1768515617,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18295,
       "num": 59232,
       "word": "高超callback老麦克",
@@ -18241,6 +18273,14 @@
       "onboard_time": 1768207820,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17759,
+      "num": 24648,
+      "word": "陶玉玲曾患5种癌症",
+      "onboard_time": 1768515014,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 17134,
@@ -18387,14 +18427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13811,
-      "num": 15783,
-      "word": "轻生女子母亲称男方是远亲知根知底",
-      "onboard_time": 1768509553,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 13624,
       "num": 227489,
       "word": "他还是个孩子不再是挡箭牌",
@@ -18508,7 +18540,7 @@
     },
     {
       "raw_hot": 9971,
-      "num": 220101,
+      "num": 278682,
       "word": "中国外贸成就很不平凡",
       "onboard_time": 1768483222,
       "rank": 2,
