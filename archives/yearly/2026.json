@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768482013952,
+  "endTime": 1768482943532,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -467,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1308005,
+      "num": 1308005,
+      "word": "将门毒后",
+      "onboard_time": 1768477940,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1294388,
       "num": 667003,
       "word": "霸王茶姬 手打",
@@ -569,14 +577,6 @@
       "onboard_time": 1767193410,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1176872,
-      "num": 1188299,
-      "word": "将门毒后",
-      "onboard_time": 1768477940,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 1174284,
@@ -1091,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 920382,
+      "num": 228391,
+      "word": "轧戏王光明出轨",
+      "onboard_time": 1768479860,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 918237,
       "num": 254865,
       "word": "胃癌几乎都是这样喂出来的",
@@ -1499,6 +1507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 810034,
+      "num": 1002614,
+      "word": "金价",
+      "onboard_time": 1767257540,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 808268,
       "num": 365307,
       "word": "史上最受欢迎的恋综女嘉宾",
@@ -1513,14 +1529,6 @@
       "onboard_time": 1768108641,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 803928,
-      "num": 226729,
-      "word": "轧戏王光明出轨",
-      "onboard_time": 1768479860,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 794730,
@@ -1561,14 +1569,6 @@
       "onboard_time": 1767927261,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 789786,
-      "num": 1002614,
-      "word": "金价",
-      "onboard_time": 1767257540,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 789176,
@@ -2299,6 +2299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 643027,
+      "num": 227967,
+      "word": "花海房管",
+      "onboard_time": 1768480820,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 640705,
       "num": 640705,
       "word": "马杜罗出庭",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767681802,
       "rank": 5,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 630992,
-      "num": 630992,
-      "word": "CSGO",
-      "onboard_time": 1768362861,
-      "rank": 3,
-      "category": "电竞"
     }
   ],
   "hotgov_list": [
