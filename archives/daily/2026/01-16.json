@@ -1,6 +1,6 @@
 {
   "startTime": 1768495443021,
-  "endTime": 1768552806279,
+  "endTime": 1768553646268,
   "band_list": [
     {
       "raw_hot": 4325889,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 565921,
+      "num": 1090547,
+      "word": "坐高铁可以不用自己扛行李了",
+      "onboard_time": 1768541721,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 557204,
       "num": 557204,
       "word": "杀猪宴翻车博主已到派出所谈话",
@@ -144,14 +152,6 @@
       "word": "女子向出轨丈夫道歉视频走红",
       "onboard_time": 1768540941,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 537690,
-      "num": 1086030,
-      "word": "坐高铁可以不用自己扛行李了",
-      "onboard_time": 1768541721,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -185,6 +185,14 @@
       "onboard_time": 1768489043,
       "rank": 5,
       "category": "民生新闻,剧集"
+    },
+    {
+      "raw_hot": 478542,
+      "num": 807385,
+      "word": "银价也杀疯了",
+      "onboard_time": 1768544420,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 474994,
@@ -225,14 +233,6 @@
       "onboard_time": 1768527557,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 450415,
-      "num": 807385,
-      "word": "银价也杀疯了",
-      "onboard_time": 1768544420,
-      "rank": 18,
-      "category": "财经"
     },
     {
       "raw_hot": 447130,
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 401649,
+      "num": 161739,
+      "word": "赛琳娜老公被网友p掉爆炸头",
+      "onboard_time": 1768547959,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 395069,
       "num": 787397,
       "word": "大学生偷外卖被拘通报公示外卖架边",
@@ -307,12 +315,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 355288,
-      "num": 161739,
-      "word": "赛琳娜老公被网友p掉爆炸头",
-      "onboard_time": 1768547959,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 361872,
+      "num": 361872,
+      "word": "薛之谦四巡",
+      "onboard_time": 1768551799,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 354818,
@@ -355,14 +363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 324712,
-      "num": 324712,
-      "word": "薛之谦四巡",
-      "onboard_time": 1768551799,
-      "rank": 3,
-      "category": "演出"
-    },
-    {
       "raw_hot": 319442,
       "num": 319442,
       "word": "花海公开聊天记录",
@@ -377,6 +377,14 @@
       "onboard_time": 1768533921,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 301427,
+      "num": 153303,
+      "word": "赵樱子称这辈子最感谢关晓彤",
+      "onboard_time": 1768549940,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 286282,
@@ -528,14 +536,6 @@
       "word": "杨洋将福气与贵气刻进骨子里",
       "onboard_time": 1768536201,
       "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 205683,
-      "num": 153303,
-      "word": "赵樱子称这辈子最感谢关晓彤",
-      "onboard_time": 1768549940,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -715,6 +715,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167020,
+      "num": 167020,
+      "word": "贺娇龙悼念仪式结束遗体将送往伊宁",
+      "onboard_time": 1768549401,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166745,
+      "num": 147262,
+      "word": "宋威龙十六岁生图含金量",
+      "onboard_time": 1768550601,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164380,
       "num": 164380,
       "word": "有史以来最神经的恋综出现了",
@@ -729,6 +745,14 @@
       "onboard_time": 1768538661,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 160898,
+      "num": 137251,
+      "word": "领导为什么不喜欢下属准点下班",
+      "onboard_time": 1768552161,
+      "rank": 31,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 159916,
@@ -747,11 +771,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 157382,
-      "num": 157382,
-      "word": "贺娇龙悼念仪式结束遗体将送往伊宁",
-      "onboard_time": 1768549401,
-      "rank": 28,
+      "raw_hot": 156945,
+      "num": 136193,
+      "word": "喝农药自杀新娘与新郎相差15岁",
+      "onboard_time": 1768552701,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -859,14 +883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147262,
-      "num": 147262,
-      "word": "宋威龙十六岁生图含金量",
-      "onboard_time": 1768550601,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 146906,
       "num": 146906,
       "word": "国考",
@@ -931,6 +947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137857,
+      "num": 152700,
+      "word": "罗永浩称没见过企业因为被黑就倒闭",
+      "onboard_time": 1768551860,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 137822,
       "num": 137822,
       "word": "一起打开马龙的生活副本",
@@ -977,6 +1001,14 @@
       "onboard_time": 1768538601,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132832,
+      "num": 132832,
+      "word": "汪苏泷辽宁春晚阵仗也太夸张了",
+      "onboard_time": 1768552520,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 130828,
@@ -1137,14 +1169,6 @@
       "onboard_time": 1768536501,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 118770,
-      "num": 100039,
-      "word": "领导为什么不喜欢下属准点下班",
-      "onboard_time": 1768552161,
-      "rank": 31,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 118013,
@@ -1315,6 +1339,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 107614,
+      "num": 107614,
+      "word": "浙江省考出成绩",
+      "onboard_time": 1768551381,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 106502,
       "num": 106502,
       "word": "被逼婚轻生女子认为男方领证后失信",
@@ -1419,14 +1451,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 101059,
-      "num": 101059,
-      "word": "浙江省考出成绩",
-      "onboard_time": 1768551381,
-      "rank": 28,
-      "category": "教育"
-    },
-    {
       "raw_hot": 100756,
       "num": 100756,
       "word": "云南民宿协会回应携程涉嫌垄断",
@@ -1465,6 +1489,14 @@
       "onboard_time": 1768479139,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97540,
+      "num": 97540,
+      "word": "赛里木湖冰推遇落日好壮观",
+      "onboard_time": 1768552640,
+      "rank": 41,
+      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 97286,
@@ -1529,14 +1561,6 @@
       "onboard_time": 1768526239,
       "rank": 35,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 94425,
-      "num": 94425,
-      "word": "汪苏泷辽宁春晚阵仗也太夸张了",
-      "onboard_time": 1768552520,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 94078,
@@ -1651,6 +1675,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89024,
+      "num": 89024,
+      "word": "王格格王皓祯方夏扫楼差点亲上",
+      "onboard_time": 1768553360,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 88713,
+      "num": 88713,
+      "word": "刘昊然 眉骨先闯进镜头",
+      "onboard_time": 1768550299,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88434,
       "num": 88434,
       "word": "马龙成龙一起打乒乓球了",
@@ -1673,6 +1713,14 @@
       "onboard_time": 1768548200,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 87373,
+      "num": 87373,
+      "word": "真的建议大家去做有成长性的工作",
+      "onboard_time": 1768550119,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 87306,
@@ -1795,6 +1843,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 83925,
+      "num": 83925,
+      "word": "罗永浩回应西贝冷冻西兰花问题",
+      "onboard_time": 1768552760,
+      "rank": 48,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 83621,
       "num": 83621,
       "word": "黄蜂战胜湖人",
@@ -1851,14 +1907,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 80629,
-      "num": 80629,
-      "word": "赛里木湖冰推遇落日好壮观",
-      "onboard_time": 1768552640,
-      "rank": 41,
-      "category": "旅游,民生新闻"
-    },
-    {
       "raw_hot": 80446,
       "num": 114784,
       "word": "一白发男列车上掐脖年轻女孩",
@@ -1889,6 +1937,14 @@
       "onboard_time": 1768491201,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79518,
+      "num": 79518,
+      "word": "父亲在代谢状态上完全影响后代",
+      "onboard_time": 1768553601,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 79496,
@@ -1923,12 +1979,12 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 79100,
-      "num": 79100,
-      "word": "真的建议大家去做有成长性的工作",
-      "onboard_time": 1768550119,
-      "rank": 43,
-      "category": "幽默"
+      "raw_hot": 78615,
+      "num": 78615,
+      "word": "鹅鸭杀怪谈",
+      "onboard_time": 1768553001,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 77848,
@@ -1979,6 +2035,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75827,
+      "num": 75827,
+      "word": "于敏工资条",
+      "onboard_time": 1768553241,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74791,
+      "num": 74791,
+      "word": "这剧怎么刚播完就有戒断反应了",
+      "onboard_time": 1768553480,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 74532,
       "num": 74532,
       "word": "李幼斌 谁还不是个俊后生",
@@ -2011,28 +2083,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73421,
-      "num": 73421,
-      "word": "刘昊然 眉骨先闯进镜头",
-      "onboard_time": 1768550299,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 73318,
-      "num": 73318,
-      "word": "罗永浩回应西贝冷冻西兰花问题",
-      "onboard_time": 1768552760,
-      "rank": 48,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 71656,
       "num": 71656,
       "word": "被小朋友们稚嫩的手撑了一次腰",
       "onboard_time": 1768527319,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 71634,
+      "num": 71634,
+      "word": "村里的垃圾箱总能刷新新的小狗",
+      "onboard_time": 1768553300,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 70839,
@@ -2091,14 +2155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66758,
-      "num": 82450,
-      "word": "喝农药自杀新娘与新郎相差15岁",
-      "onboard_time": 1768552701,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65703,
       "num": 115512,
       "word": "王子奇把苏晓彤一字夹摘了",
@@ -2137,14 +2193,6 @@
       "onboard_time": 1768481960,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 61864,
-      "num": 152700,
-      "word": "罗永浩称没见过企业因为被黑就倒闭",
-      "onboard_time": 1768551860,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 61482,
@@ -2467,20 +2515,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 25391,
+      "num": 622325,
+      "word": "6图看国家水网惠及百姓日常生活",
+      "onboard_time": 1768548801,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23950,
       "num": 268158,
       "word": "尹锡悦今日迎宣判",
       "onboard_time": 1768540701,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 23600,
-      "num": 622325,
-      "word": "6图看国家水网惠及百姓日常生活",
-      "onboard_time": 1768548801,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 23458,

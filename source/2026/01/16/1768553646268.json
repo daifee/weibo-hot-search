@@ -1,0 +1,410 @@
+{
+  "runTime": 1768553646268,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 565921,
+        "num": 1090547,
+        "word": "坐高铁可以不用自己扛行李了",
+        "onboard_time": 1768541721,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 478542,
+        "num": 782473,
+        "word": "银价也杀疯了",
+        "onboard_time": 1768544420,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25391,
+        "num": 606647,
+        "word": "6图看国家水网惠及百姓日常生活",
+        "onboard_time": 1768548801,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 361872,
+        "num": 361872,
+        "word": "薛之谦四巡",
+        "onboard_time": 1768551799,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 230837,
+        "num": 230837,
+        "word": "胖东来599元羽绒服充绒量213克",
+        "onboard_time": 1768539022,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219357,
+        "num": 219357,
+        "word": "生理性叹息",
+        "onboard_time": 1768545680,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212629,
+        "num": 212629,
+        "word": "尹锡悦被判5年",
+        "onboard_time": 1768543941,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 167020,
+        "num": 167020,
+        "word": "贺娇龙悼念仪式结束遗体将送往伊宁",
+        "onboard_time": 1768549401,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164132,
+        "num": 164132,
+        "word": "杨紫举春联宣传生命树祯娘传",
+        "onboard_time": 1768550601,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140495,
+        "num": 140495,
+        "word": "严肃查处过度炒作乃至操纵市场",
+        "onboard_time": 1768552221,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1076563,
+        "num": 140485,
+        "word": "李湘全平台账号被禁止关注",
+        "onboard_time": 1768532959,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 907137,
+        "num": 140404,
+        "word": "赵今麦闺蜜是开端导演女儿",
+        "onboard_time": 1768548261,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331198,
+        "num": 140361,
+        "word": "印尼一婚礼因新郎外貌爆火",
+        "onboard_time": 1768544900,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 313171,
+        "num": 140334,
+        "word": "第五人格 擦边",
+        "onboard_time": 1768540400,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 301427,
+        "num": 140234,
+        "word": "赵樱子称这辈子最感谢关晓彤",
+        "onboard_time": 1768549940,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272369,
+        "num": 140218,
+        "word": "女子向出轨丈夫道歉可能构成新侵权",
+        "onboard_time": 1768544241,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171914,
+        "num": 140175,
+        "word": "炎亚纶发文再谈与鬼鬼关系",
+        "onboard_time": 1768544480,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166745,
+        "num": 140118,
+        "word": "宋威龙十六岁生图含金量",
+        "onboard_time": 1768550601,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140077,
+        "num": 140077,
+        "word": "听不懂客气话的朋友belike",
+        "onboard_time": 1768552281,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137857,
+        "num": 137857,
+        "word": "罗永浩称没见过企业因为被黑就倒闭",
+        "onboard_time": 1768551860,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 401649,
+        "num": 137702,
+        "word": "赛琳娜老公被网友p掉爆炸头",
+        "onboard_time": 1768547959,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160898,
+        "num": 137251,
+        "word": "领导为什么不喜欢下属准点下班",
+        "onboard_time": 1768552161,
+        "rank": 21,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 156945,
+        "num": 136193,
+        "word": "喝农药自杀新娘与新郎相差15岁",
+        "onboard_time": 1768552701,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132832,
+        "num": 132832,
+        "word": "汪苏泷辽宁春晚阵仗也太夸张了",
+        "onboard_time": 1768552520,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117675,
+        "num": 117675,
+        "word": "金饰克价跌至1431元",
+        "onboard_time": 1768551500,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107614,
+        "num": 107614,
+        "word": "浙江省考出成绩",
+        "onboard_time": 1768551381,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 105022,
+        "num": 105022,
+        "word": "黄晓明说肖战很早就懂得要突破",
+        "onboard_time": 1768544960,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100437,
+        "num": 100437,
+        "word": "王俊凯鞠婧祎丁禹兮QQ音乐销量",
+        "onboard_time": 1768549641,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97540,
+        "num": 97540,
+        "word": "赛里木湖冰推遇落日好壮观",
+        "onboard_time": 1768552640,
+        "rank": 28,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 95821,
+        "num": 95821,
+        "word": "曝Doinb左梓轩成队友",
+        "onboard_time": 1768548981,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 482160,
+        "num": 93622,
+        "word": "泰国公主疑与泰总理儿子相恋",
+        "onboard_time": 1768550181,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 91114,
+        "num": 91114,
+        "word": "牛娜老公涉嫌出轨家暴查清了吗",
+        "onboard_time": 1768549040,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90992,
+        "num": 90992,
+        "word": "研究生剪辑上千部卖淫偷拍视频获刑",
+        "onboard_time": 1768547721,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89024,
+        "num": 89024,
+        "word": "王格格王皓祯方夏扫楼差点亲上",
+        "onboard_time": 1768553360,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88713,
+        "num": 88713,
+        "word": "刘昊然 眉骨先闯进镜头",
+        "onboard_time": 1768550299,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87373,
+        "num": 87373,
+        "word": "真的建议大家去做有成长性的工作",
+        "onboard_time": 1768550119,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86302,
+        "num": 86302,
+        "word": "韩国一公交车撞向大楼致13人受伤",
+        "onboard_time": 1768551260,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 84076,
+        "num": 84076,
+        "word": "章若楠 自拍界来了个天才",
+        "onboard_time": 1768545080,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83925,
+        "num": 83925,
+        "word": "罗永浩回应西贝冷冻西兰花问题",
+        "onboard_time": 1768552760,
+        "rank": 38,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 783305,
+        "num": 83823,
+        "word": "罗永浩回应西贝闭店",
+        "onboard_time": 1768548080,
+        "rank": 39,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 81692,
+        "num": 81692,
+        "word": "散户为何在牛市里仍亏钱",
+        "onboard_time": 1768551740,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 81212,
+        "num": 81212,
+        "word": "平台客服回应李湘被禁止关注",
+        "onboard_time": 1768537942,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80728,
+        "num": 80728,
+        "word": "曹骏央视路透看到21年前的宝莲灯",
+        "onboard_time": 1768550480,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79518,
+        "num": 79518,
+        "word": "父亲在代谢状态上完全影响后代",
+        "onboard_time": 1768553601,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78615,
+        "num": 78615,
+        "word": "鹅鸭杀怪谈",
+        "onboard_time": 1768553001,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 75827,
+        "num": 75827,
+        "word": "于敏工资条",
+        "onboard_time": 1768553241,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75364,
+        "num": 75364,
+        "word": "振东之路是樊振东送给乡亲们的礼物",
+        "onboard_time": 1768551920,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74791,
+        "num": 74791,
+        "word": "这剧怎么刚播完就有戒断反应了",
+        "onboard_time": 1768553480,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72511,
+        "num": 72511,
+        "word": "DYG对战RW",
+        "onboard_time": 1768546401,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 71634,
+        "num": 71634,
+        "word": "村里的垃圾箱总能刷新新的小狗",
+        "onboard_time": 1768553300,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平接受18位驻华大使递交国书#"
+    }
+  }
+}
