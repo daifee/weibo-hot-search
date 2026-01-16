@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768575019242,
+  "endTime": 1768577571362,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -635,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1194155,
+      "num": 477858,
+      "word": "王玉雯掉马",
+      "onboard_time": 1768575441,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1190595,
       "num": 1752341,
       "word": "MRC对战Gr",
@@ -1145,6 +1153,14 @@
       "onboard_time": 1768458979,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 940218,
+      "num": 651882,
+      "word": "日本被打到七寸了",
+      "onboard_time": 1768570521,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 940105,
@@ -2384,22 +2400,6 @@
       "word": "英语老师回应12岁小学生自杀",
       "onboard_time": 1768188260,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 660464,
-      "num": 631890,
-      "word": "喜糖已经进化成这样了吗",
-      "onboard_time": 1768036340,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 656764,
-      "num": 381792,
-      "word": "41岁女子健身断奶茶一年换了张脸",
-      "onboard_time": 1767843800,
-      "rank": 12,
       "category": "民生新闻"
     }
   ],
