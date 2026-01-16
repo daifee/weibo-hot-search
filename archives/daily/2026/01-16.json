@@ -1,6 +1,6 @@
 {
   "startTime": 1768495443021,
-  "endTime": 1768569247145,
+  "endTime": 1768571100670,
   "band_list": [
     {
       "raw_hot": 9503714,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 4325889,
-      "num": 485472,
+      "num": 509129,
       "word": "李湘全平台账号被禁止关注",
       "onboard_time": 1768532959,
       "rank": 10,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1559147,
-      "num": 511113,
+      "num": 599118,
       "word": "女孩晕倒离世前妈妈疑已哄了一小时",
       "onboard_time": 1768560984,
       "rank": 10,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 598414,
+      "num": 598414,
+      "word": "杜华回复王一博",
+      "onboard_time": 1768562722,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 590289,
       "num": 1045091,
       "word": "将门毒后",
@@ -225,6 +233,14 @@
       "onboard_time": 1768559724,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 536722,
+      "num": 1085875,
+      "word": "轧戏",
+      "onboard_time": 1768477339,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 533457,
@@ -299,14 +315,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 461649,
-      "num": 461649,
-      "word": "杜华回复王一博",
-      "onboard_time": 1768562722,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 452335,
       "num": 208589,
       "word": "炎亚纶发文再谈与鬼鬼关系",
@@ -331,19 +339,19 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 442806,
+      "num": 442806,
+      "word": "女子向出轨丈夫道歉15天企业发声",
+      "onboard_time": 1768562182,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 440736,
       "num": 823621,
       "word": "有人在宜家5折捡漏原价2800元的床",
       "onboard_time": 1768532840,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 440617,
-      "num": 353608,
-      "word": "女子向出轨丈夫道歉15天企业发声",
-      "onboard_time": 1768562182,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -435,14 +443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 375313,
-      "num": 807635,
-      "word": "轧戏",
-      "onboard_time": 1768477339,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 369509,
       "num": 298791,
       "word": "617分考生放弃985选职业院校",
@@ -491,8 +491,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 333499,
+      "num": 333499,
+      "word": "陈小群",
+      "onboard_time": 1768568000,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 328623,
-      "num": 554776,
+      "num": 618160,
       "word": "泡泡玛特星星人",
       "onboard_time": 1768560023,
       "rank": 9,
@@ -547,11 +555,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 317111,
+      "num": 317111,
+      "word": "桃黑黑收到了有史以来最离谱的电动车",
+      "onboard_time": 1768569861,
+      "rank": 15,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 311543,
       "num": 558077,
       "word": "洪秀柱说早晚要统一不如赶快统一",
       "onboard_time": 1768533921,
       "rank": 4,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 309070,
+      "num": 202947,
+      "word": "日本被打到七寸了",
+      "onboard_time": 1768570521,
+      "rank": 20,
       "category": "国内时政"
     },
     {
@@ -604,7 +628,7 @@
     },
     {
       "raw_hot": 294784,
-      "num": 353285,
+      "num": 611833,
       "word": "韩国火灾已投入85辆消防车",
       "onboard_time": 1768555822,
       "rank": 13,
@@ -636,7 +660,7 @@
     },
     {
       "raw_hot": 271225,
-      "num": 588005,
+      "num": 609754,
       "word": "世界之外",
       "onboard_time": 1768565721,
       "rank": 3,
@@ -739,6 +763,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 239947,
+      "num": 626925,
+      "word": "薛之谦连开9场",
+      "onboard_time": 1768566321,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 238395,
       "num": 271177,
       "word": "王一博乐华家族新春单曲part",
@@ -803,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218126,
+      "num": 624818,
+      "word": "恋与深空直播",
+      "onboard_time": 1768570641,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 217119,
       "num": 217119,
       "word": "花海 夏迎春",
@@ -811,28 +851,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 215699,
-      "num": 215699,
-      "word": "陈小群",
-      "onboard_time": 1768568000,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 214865,
       "num": 214865,
       "word": "高叶走这两步让我梦回狂飙了",
       "onboard_time": 1768534761,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 214137,
-      "num": 603562,
-      "word": "薛之谦连开9场",
-      "onboard_time": 1768566321,
-      "rank": 4,
-      "category": "演出"
     },
     {
       "raw_hot": 213801,
@@ -880,6 +904,14 @@
       "word": "杜海涛回应交通银行口误事件",
       "onboard_time": 1768506973,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 204349,
+      "num": 204349,
+      "word": "杨紫和朋友小聚赏灯吃糖葫芦",
+      "onboard_time": 1768571003,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -948,7 +980,7 @@
     },
     {
       "raw_hot": 192495,
-      "num": 522315,
+      "num": 615565,
       "word": "蔡徐坤印尼节目",
       "onboard_time": 1768567401,
       "rank": 6,
@@ -1187,6 +1219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157222,
+      "num": 157222,
+      "word": "欧阳娣娣 小孩姐的脸蛋大姐大的社交",
+      "onboard_time": 1768568901,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156550,
       "num": 156550,
       "word": "逆战未来",
@@ -1241,6 +1281,14 @@
       "onboard_time": 1768482140,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153052,
+      "num": 604292,
+      "word": "新一届国乒教练员竞聘结果公示结束",
+      "onboard_time": 1768568182,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 153037,
@@ -1563,6 +1611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 126477,
+      "num": 628701,
+      "word": "器官也能3D打印了",
+      "onboard_time": 1768568302,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 125518,
       "num": 125518,
       "word": "比男主先爱上女主的是女二",
@@ -1657,6 +1713,14 @@
       "onboard_time": 1768537942,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 119514,
+      "num": 119514,
+      "word": "当李隆基遇上李隆基",
+      "onboard_time": 1768569741,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 119508,
@@ -1859,6 +1923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108407,
+      "num": 108407,
+      "word": "加拿大将进口4.9万辆中国电车",
+      "onboard_time": 1768570581,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 108368,
       "num": 108368,
       "word": "小狗打狂犬疫苗打完真成狂犬了",
@@ -1963,14 +2035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 103497,
-      "num": 103497,
-      "word": "欧阳娣娣 小孩姐的脸蛋大姐大的社交",
-      "onboard_time": 1768568901,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 103492,
       "num": 103492,
       "word": "曹骏央视路透看到21年前的宝莲灯",
@@ -1985,6 +2049,14 @@
       "onboard_time": 1768481541,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103373,
+      "num": 103373,
+      "word": "楚楚别说了王爷人要碎了",
+      "onboard_time": 1768570641,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 103214,
@@ -2019,14 +2091,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102287,
-      "num": 353206,
-      "word": "新一届国乒教练员竞聘结果公示结束",
-      "onboard_time": 1768568182,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 102056,
       "num": 207458,
       "word": "王俊凯鞠婧祎丁禹兮QQ音乐销量",
@@ -2049,6 +2113,14 @@
       "onboard_time": 1768526659,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 101026,
+      "num": 101026,
+      "word": "斩杀线理论炸碎美国滤镜",
+      "onboard_time": 1768569021,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100756,
@@ -2137,6 +2209,14 @@
       "onboard_time": 1768536021,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 97155,
+      "num": 97155,
+      "word": "我和黄子弘凡都没走出来",
+      "onboard_time": 1768570222,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 97010,
@@ -2395,6 +2475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89365,
+      "num": 97236,
+      "word": "辽宁男篮vs新疆男篮",
+      "onboard_time": 1768570882,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89024,
       "num": 207774,
       "word": "王格格王皓祯方夏扫楼差点亲上",
@@ -2595,6 +2683,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 84758,
+      "num": 96756,
+      "word": "王力宏演唱会好多老己啊",
+      "onboard_time": 1768571062,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 84216,
       "num": 84216,
       "word": "拒去雪山仍被带七旬老人旅游猝逝",
@@ -2705,6 +2801,14 @@
       "onboard_time": 1768492400,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80252,
+      "num": 96500,
+      "word": "普京同伊朗总统通电话",
+      "onboard_time": 1768569381,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 80207,
@@ -2825,6 +2929,14 @@
       "onboard_time": 1768553241,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77083,
+      "num": 95761,
+      "word": "樊振东莫雷加德首次共同出战",
+      "onboard_time": 1768571003,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 76988,
@@ -3091,20 +3203,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55453,
+      "num": 205058,
+      "word": "终末地公测前瞻",
+      "onboard_time": 1768570521,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 54529,
       "num": 115124,
       "word": "李幼斌 没有人能拒绝垃圾食品",
       "onboard_time": 1768487482,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 54482,
-      "num": 609998,
-      "word": "器官也能3D打印了",
-      "onboard_time": 1768568302,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 54136,
