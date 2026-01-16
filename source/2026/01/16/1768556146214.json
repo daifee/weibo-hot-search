@@ -1,0 +1,410 @@
+{
+  "runTime": 1768556146214,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1462202,
+        "num": 1462202,
+        "word": "贾国龙今晚10点全面回应",
+        "onboard_time": 1768556121,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 533645,
+        "num": 892291,
+        "word": "坐高铁可以不用自己扛行李了",
+        "onboard_time": 1768541721,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24097,
+        "num": 708563,
+        "word": "6图看国家水网惠及百姓日常生活",
+        "onboard_time": 1768548801,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 318127,
+        "num": 318127,
+        "word": "薛之谦四巡",
+        "onboard_time": 1768551799,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 220165,
+        "num": 309940,
+        "word": "尹锡悦被判5年",
+        "onboard_time": 1768543941,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 305522,
+        "num": 305522,
+        "word": "时尚之夜阵容官宣",
+        "onboard_time": 1768553780,
+        "rank": 5,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 200091,
+        "num": 305496,
+        "word": "镖人",
+        "onboard_time": 1768555881,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194810,
+        "num": 305286,
+        "word": "生理性叹息",
+        "onboard_time": 1768545680,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179358,
+        "num": 305175,
+        "word": "邓佳鑫简历没提来自时代峰峻",
+        "onboard_time": 1768554920,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127983,
+        "num": 305121,
+        "word": "胖东来599元羽绒服充绒量213克",
+        "onboard_time": 1768539022,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 672567,
+        "num": 304929,
+        "word": "赵今麦闺蜜是开端导演女儿",
+        "onboard_time": 1768548261,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267250,
+        "num": 304754,
+        "word": "印尼一婚礼因新郎外貌爆火",
+        "onboard_time": 1768544900,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 361725,
+        "num": 304746,
+        "word": "银价也杀疯了",
+        "onboard_time": 1768544420,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124981,
+        "num": 304501,
+        "word": "韩国火灾已投入85辆消防车",
+        "onboard_time": 1768555822,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 228301,
+        "num": 304442,
+        "word": "第五人格 擦边",
+        "onboard_time": 1768540400,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178016,
+        "num": 304252,
+        "word": "一条小团团时隔两年更新视频",
+        "onboard_time": 1768554621,
+        "rank": 15,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 158087,
+        "num": 304242,
+        "word": "电影镖人官博",
+        "onboard_time": 1768555402,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136367,
+        "num": 304000,
+        "word": "岳云鹏实名羡慕邓佳鑫脸小",
+        "onboard_time": 1768555280,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105355,
+        "num": 303920,
+        "word": "RW春季赛开门红",
+        "onboard_time": 1768555160,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130008,
+        "num": 303744,
+        "word": "杨紫举春联宣传生命树祯娘传",
+        "onboard_time": 1768550601,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 896839,
+        "num": 303723,
+        "word": "李湘全平台账号被禁止关注",
+        "onboard_time": 1768532959,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 559830,
+        "num": 303601,
+        "word": "喝农药自杀新娘与新郎相差15岁",
+        "onboard_time": 1768552701,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126566,
+        "num": 303461,
+        "word": "花坛白骨案凶手每年去韩国整容",
+        "onboard_time": 1768554020,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 799722,
+        "num": 303220,
+        "word": "张慧雯娜扎聊天记录",
+        "onboard_time": 1768554200,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303219,
+        "num": 303219,
+        "word": "窦骁何超莲一起参加活动",
+        "onboard_time": 1768553660,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162117,
+        "num": 301875,
+        "word": "领导为什么不喜欢下属准点下班",
+        "onboard_time": 1768552161,
+        "rank": 25,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 247819,
+        "num": 301792,
+        "word": "女子向出轨丈夫道歉可能构成新侵权",
+        "onboard_time": 1768544241,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301761,
+        "num": 301761,
+        "word": "宋威龙十六岁生图含金量",
+        "onboard_time": 1768550601,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253184,
+        "num": 253184,
+        "word": "赵樱子称这辈子最感谢关晓彤",
+        "onboard_time": 1768549940,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119493,
+        "num": 225721,
+        "word": "中国和加拿大领导人会晤联合声明",
+        "onboard_time": 1768555160,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 321707,
+        "num": 224319,
+        "word": "泰国公主疑与泰总理儿子相恋",
+        "onboard_time": 1768550181,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 219195,
+        "num": 219195,
+        "word": "杨紫宋祖儿活动怼脸生图",
+        "onboard_time": 1768555280,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209268,
+        "num": 209268,
+        "word": "赛琳娜老公被网友p掉爆炸头",
+        "onboard_time": 1768547959,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104354,
+        "num": 209164,
+        "word": "贺娇龙悼念仪式结束遗体将送往伊宁",
+        "onboard_time": 1768549401,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189837,
+        "num": 209109,
+        "word": "陈哲远顶级建模",
+        "onboard_time": 1768555461,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146532,
+        "num": 208963,
+        "word": "月入一万花一万的真实生活",
+        "onboard_time": 1768556061,
+        "rank": 35,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 123096,
+        "num": 208837,
+        "word": "昆凌安慰周杰伦勇气胜过一切",
+        "onboard_time": 1768554260,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102744,
+        "num": 208753,
+        "word": "金饰克价跌至1431元",
+        "onboard_time": 1768551500,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 97689,
+        "num": 208589,
+        "word": "炎亚纶发文再谈与鬼鬼关系",
+        "onboard_time": 1768544480,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97328,
+        "num": 208529,
+        "word": "丁程鑫想要丁程鑫得到",
+        "onboard_time": 1768554920,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93118,
+        "num": 208448,
+        "word": "千万不要为上班做太多准备工作",
+        "onboard_time": 1768555822,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92071,
+        "num": 208313,
+        "word": "孙俪往那一站就是美",
+        "onboard_time": 1768554621,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89569,
+        "num": 208163,
+        "word": "何炅问汪苏泷为什么有空蛐蛐朋友",
+        "onboard_time": 1768554680,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79412,
+        "num": 208101,
+        "word": "赛里木湖冰推遇落日好壮观",
+        "onboard_time": 1768552640,
+        "rank": 43,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 85395,
+        "num": 207940,
+        "word": "代旭进行曲 卢昱晓跟我好",
+        "onboard_time": 1768555040,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77145,
+        "num": 207840,
+        "word": "于敏工资条",
+        "onboard_time": 1768553241,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82411,
+        "num": 207774,
+        "word": "王格格王皓祯方夏扫楼差点亲上",
+        "onboard_time": 1768553360,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74821,
+        "num": 207622,
+        "word": "如何区分客套话和真话",
+        "onboard_time": 1768554260,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70556,
+        "num": 207458,
+        "word": "王俊凯鞠婧祎丁禹兮QQ音乐销量",
+        "onboard_time": 1768549641,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 70399,
+        "num": 207399,
+        "word": "见识到了j人老了的样子",
+        "onboard_time": 1768554260,
+        "rank": 49,
+        "category": "幽默,休闲"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见加拿大总理#"
+    }
+  }
+}

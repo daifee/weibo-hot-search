@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768553646268,
+  "endTime": 1768556146214,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -439,6 +439,14 @@
       "num": 1469509,
       "word": "霸王茶姬已调查手打视频",
       "onboard_time": 1767670641,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1462202,
+      "num": 1462202,
+      "word": "贾国龙今晚10点全面回应",
+      "onboard_time": 1768556121,
       "rank": 0,
       "category": "民生新闻"
     },
@@ -1132,7 +1140,7 @@
     },
     {
       "raw_hot": 930929,
-      "num": 181195,
+      "num": 304929,
       "word": "赵今麦闺蜜是开端导演女儿",
       "onboard_time": 1768548261,
       "rank": 31,
@@ -1593,6 +1601,14 @@
       "onboard_time": 1768108641,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 799722,
+      "num": 303220,
+      "word": "张慧雯娜扎聊天记录",
+      "onboard_time": 1768554200,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 798459,
@@ -2092,7 +2108,7 @@
     },
     {
       "raw_hot": 699682,
-      "num": 263727,
+      "num": 304442,
       "word": "第五人格 擦边",
       "onboard_time": 1768540400,
       "rank": 11,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1768046720,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 649549,
-      "num": 400714,
-      "word": "相当于刘星判给了夏东海",
-      "onboard_time": 1767514043,
-      "rank": 10,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 647517,
-      "num": 328423,
-      "word": "张雪峰发博纪念做梦都不敢梦的一天",
-      "onboard_time": 1767934461,
-      "rank": 32,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
