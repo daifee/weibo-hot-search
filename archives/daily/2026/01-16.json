@@ -1,6 +1,6 @@
 {
   "startTime": 1768495443021,
-  "endTime": 1768556146214,
+  "endTime": 1768556978893,
   "band_list": [
     {
       "raw_hot": 4325889,
@@ -11,12 +11,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1462202,
-      "num": 1462202,
+      "raw_hot": 3375893,
+      "num": 3375893,
       "word": "贾国龙今晚10点全面回应",
       "onboard_time": 1768556121,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2123115,
+      "num": 635787,
+      "word": "贾国龙让罗永浩道歉赔偿",
+      "onboard_time": 1768556180,
+      "rank": 3,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 1219910,
@@ -59,7 +67,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 799722,
+      "raw_hot": 832992,
       "num": 303220,
       "word": "张慧雯娜扎聊天记录",
       "onboard_time": 1768554200,
@@ -139,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 582834,
+      "num": 303601,
+      "word": "喝农药自杀新娘与新郎相差15岁",
+      "onboard_time": 1768552701,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 573227,
       "num": 309586,
       "word": "徐明浩驾龄7年回国考科一挂了",
@@ -152,14 +168,6 @@
       "word": "坐高铁可以不用自己扛行李了",
       "onboard_time": 1768541721,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 559830,
-      "num": 303601,
-      "word": "喝农药自杀新娘与新郎相差15岁",
-      "onboard_time": 1768552701,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -387,6 +395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 320594,
+      "num": 320594,
+      "word": "镖人",
+      "onboard_time": 1768555881,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 319442,
       "num": 319442,
       "word": "花海公开聊天记录",
@@ -443,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284194,
+      "num": 304242,
+      "word": "电影镖人官博",
+      "onboard_time": 1768555402,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 282410,
       "num": 192244,
       "word": "鬼鬼回应排挤炎亚纶",
@@ -451,12 +475,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273769,
+      "num": 304252,
+      "word": "一条小团团时隔两年更新视频",
+      "onboard_time": 1768554621,
+      "rank": 15,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 268328,
       "num": 268328,
       "word": "只要西贝在还跟华与华合作",
       "onboard_time": 1768526839,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 261187,
+      "num": 305175,
+      "word": "邓佳鑫简历没提来自时代峰峻",
+      "onboard_time": 1768554920,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 259424,
@@ -521,6 +561,22 @@
       "onboard_time": 1768540822,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 236236,
+      "num": 208963,
+      "word": "月入一万花一万的真实生活",
+      "onboard_time": 1768556061,
+      "rank": 35,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 230308,
+      "num": 304501,
+      "word": "韩国火灾已投入85辆消防车",
+      "onboard_time": 1768555822,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 229514,
@@ -625,14 +681,6 @@
       "onboard_time": 1768538721,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 200091,
-      "num": 305496,
-      "word": "镖人",
-      "onboard_time": 1768555881,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 199980,
@@ -747,14 +795,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 179358,
-      "num": 305175,
-      "word": "邓佳鑫简历没提来自时代峰峻",
-      "onboard_time": 1768554920,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 179111,
       "num": 179111,
       "word": "陈星旭我少女时代的男主角",
@@ -769,14 +809,6 @@
       "onboard_time": 1768539622,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 178016,
-      "num": 304252,
-      "word": "一条小团团时隔两年更新视频",
-      "onboard_time": 1768554621,
-      "rank": 15,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 174939,
@@ -841,14 +873,6 @@
       "onboard_time": 1768480880,
       "rank": 11,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 158087,
-      "num": 304242,
-      "word": "电影镖人官博",
-      "onboard_time": 1768555402,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 157817,
@@ -969,14 +993,6 @@
       "onboard_time": 1768534761,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 146532,
-      "num": 208963,
-      "word": "月入一万花一万的真实生活",
-      "onboard_time": 1768556061,
-      "rank": 35,
-      "category": "休闲"
     },
     {
       "raw_hot": 146260,
@@ -1195,14 +1211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 124981,
-      "num": 304501,
-      "word": "韩国火灾已投入85辆消防车",
-      "onboard_time": 1768555822,
-      "rank": 13,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 123783,
       "num": 123783,
       "word": "过年带相机回家最有意义的时刻",
@@ -1273,6 +1281,14 @@
       "onboard_time": 1768537942,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 119724,
+      "num": 177739,
+      "word": "前博物院长别墅挖出文物仓库",
+      "onboard_time": 1768556781,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119508,
@@ -1779,6 +1795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92615,
+      "num": 207940,
+      "word": "代旭进行曲 卢昱晓跟我好",
+      "onboard_time": 1768555040,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92520,
       "num": 92520,
       "word": "恋与深空",
@@ -1801,6 +1825,14 @@
       "onboard_time": 1768540100,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 92274,
+      "num": 175709,
+      "word": "辅警保住100多万哭出了声",
+      "onboard_time": 1768556541,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 92071,
@@ -2003,14 +2035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85395,
-      "num": 207940,
-      "word": "代旭进行曲 卢昱晓跟我好",
-      "onboard_time": 1768555040,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 84899,
       "num": 84899,
       "word": "李国庆评迅雷案贪腐就是明抢",
@@ -2091,6 +2115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80331,
+      "num": 173617,
+      "word": "买房千万不要买临街的",
+      "onboard_time": 1768556720,
+      "rank": 42,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 80207,
       "num": 80207,
       "word": "武艺在声生不息不闯祸改唱歌了",
@@ -2163,6 +2195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 78479,
+      "num": 173500,
+      "word": "檀健次 何不同舟渡",
+      "onboard_time": 1768556781,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77848,
       "num": 77848,
       "word": "贺娇龙母校发文悼念",
@@ -2217,6 +2257,14 @@
       "onboard_time": 1768546041,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74838,
+      "num": 173319,
+      "word": "云合",
+      "onboard_time": 1768556360,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 74821,
@@ -2345,6 +2393,22 @@
       "onboard_time": 1768513273,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66038,
+      "num": 172820,
+      "word": "白银50天涨逾80%",
+      "onboard_time": 1768556541,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 65864,
+      "num": 172701,
+      "word": "刘宇宁演唱会七站变装",
+      "onboard_time": 1768556901,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 65703,
@@ -2635,6 +2699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36731,
+      "num": 174167,
+      "word": "佛山一高中74名学生感染诺如",
+      "onboard_time": 1768556842,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33455,
       "num": 115447,
       "word": "乌防长自曝乌军已有约20万逃兵",
@@ -2708,7 +2780,7 @@
     },
     {
       "raw_hot": 25391,
-      "num": 708563,
+      "num": 891291,
       "word": "6图看国家水网惠及百姓日常生活",
       "onboard_time": 1768548801,
       "rank": 2,
@@ -2801,6 +2873,14 @@
       "onboard_time": 1768528579,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 13741,
+      "num": 174023,
+      "word": "被盗至日本皇宫的石头该还了",
+      "onboard_time": 1768556240,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12088,

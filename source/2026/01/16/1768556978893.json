@@ -1,0 +1,410 @@
+{
+  "runTime": 1768556978893,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3375893,
+        "num": 3375893,
+        "word": "贾国龙今晚10点全面回应",
+        "onboard_time": 1768556121,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458152,
+        "num": 1080926,
+        "word": "坐高铁可以不用自己扛行李了",
+        "onboard_time": 1768541721,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22904,
+        "num": 891291,
+        "word": "6图看国家水网惠及百姓日常生活",
+        "onboard_time": 1768548801,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2123115,
+        "num": 635787,
+        "word": "贾国龙让罗永浩道歉赔偿",
+        "onboard_time": 1768556180,
+        "rank": 3,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 320594,
+        "num": 320594,
+        "word": "镖人",
+        "onboard_time": 1768555881,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 290275,
+        "num": 290275,
+        "word": "薛之谦四巡",
+        "onboard_time": 1768551799,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 263777,
+        "num": 263777,
+        "word": "时尚之夜阵容官宣",
+        "onboard_time": 1768553780,
+        "rank": 6,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 284194,
+        "num": 263673,
+        "word": "电影镖人官博",
+        "onboard_time": 1768555402,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 230308,
+        "num": 230308,
+        "word": "韩国火灾已投入85辆消防车",
+        "onboard_time": 1768555822,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 210439,
+        "num": 210439,
+        "word": "尹锡悦被判5年",
+        "onboard_time": 1768543941,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 550634,
+        "num": 205771,
+        "word": "赵今麦闺蜜是开端导演女儿",
+        "onboard_time": 1768548261,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273769,
+        "num": 198226,
+        "word": "一条小团团时隔两年更新视频",
+        "onboard_time": 1768554621,
+        "rank": 11,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 261187,
+        "num": 191466,
+        "word": "邓佳鑫简历没提来自时代峰峻",
+        "onboard_time": 1768554920,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247946,
+        "num": 189346,
+        "word": "印尼一婚礼因新郎外貌爆火",
+        "onboard_time": 1768544900,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 212504,
+        "num": 179218,
+        "word": "第五人格 擦边",
+        "onboard_time": 1768540400,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177775,
+        "num": 177775,
+        "word": "生理性叹息",
+        "onboard_time": 1768545680,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119724,
+        "num": 177739,
+        "word": "前博物院长别墅挖出文物仓库",
+        "onboard_time": 1768556781,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116317,
+        "num": 177575,
+        "word": "胖东来599元羽绒服充绒量213克",
+        "onboard_time": 1768539022,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115735,
+        "num": 177341,
+        "word": "花坛白骨案凶手每年去韩国整容",
+        "onboard_time": 1768554020,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109842,
+        "num": 177209,
+        "word": "中国和加拿大领导人会晤联合声明",
+        "onboard_time": 1768555160,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 832992,
+        "num": 177128,
+        "word": "张慧雯娜扎聊天记录",
+        "onboard_time": 1768554200,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 781700,
+        "num": 176834,
+        "word": "李湘全平台账号被禁止关注",
+        "onboard_time": 1768532959,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 582834,
+        "num": 176778,
+        "word": "喝农药自杀新娘与新郎相差15岁",
+        "onboard_time": 1768552701,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300551,
+        "num": 176619,
+        "word": "银价也杀疯了",
+        "onboard_time": 1768544420,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 266551,
+        "num": 176453,
+        "word": "窦骁何超莲一起参加活动",
+        "onboard_time": 1768553660,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108553,
+        "num": 176236,
+        "word": "杨紫举春联宣传生命树祯娘传",
+        "onboard_time": 1768550601,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147958,
+        "num": 176116,
+        "word": "领导为什么不喜欢下属准点下班",
+        "onboard_time": 1768552161,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 233023,
+        "num": 176027,
+        "word": "宋威龙十六岁生图含金量",
+        "onboard_time": 1768550601,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156626,
+        "num": 175736,
+        "word": "赵樱子称这辈子最感谢关晓彤",
+        "onboard_time": 1768549940,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92274,
+        "num": 175709,
+        "word": "辅警保住100多万哭出了声",
+        "onboard_time": 1768556541,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 236236,
+        "num": 175477,
+        "word": "月入一万花一万的真实生活",
+        "onboard_time": 1768556061,
+        "rank": 30,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 200800,
+        "num": 175398,
+        "word": "泰国公主疑与泰总理儿子相恋",
+        "onboard_time": 1768550181,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 188604,
+        "num": 175256,
+        "word": "杨紫宋祖儿活动怼脸生图",
+        "onboard_time": 1768555280,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137944,
+        "num": 174984,
+        "word": "赛琳娜老公被网友p掉爆炸头",
+        "onboard_time": 1768547959,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84902,
+        "num": 174949,
+        "word": "金饰克价跌至1431元",
+        "onboard_time": 1768551500,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136950,
+        "num": 174646,
+        "word": "陈哲远顶级建模",
+        "onboard_time": 1768555461,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103279,
+        "num": 174551,
+        "word": "昆凌安慰周杰伦勇气胜过一切",
+        "onboard_time": 1768554260,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81644,
+        "num": 174445,
+        "word": "贺娇龙悼念仪式结束遗体将送往伊宁",
+        "onboard_time": 1768549401,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36731,
+        "num": 174167,
+        "word": "佛山一高中74名学生感染诺如",
+        "onboard_time": 1768556842,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13741,
+        "num": 174023,
+        "word": "被盗至日本皇宫的石头该还了",
+        "onboard_time": 1768556240,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92615,
+        "num": 173906,
+        "word": "代旭进行曲 卢昱晓跟我好",
+        "onboard_time": 1768555040,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82232,
+        "num": 173811,
+        "word": "炎亚纶发文再谈与鬼鬼关系",
+        "onboard_time": 1768544480,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80331,
+        "num": 173617,
+        "word": "买房千万不要买临街的",
+        "onboard_time": 1768556720,
+        "rank": 42,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 78479,
+        "num": 173500,
+        "word": "檀健次 何不同舟渡",
+        "onboard_time": 1768556781,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74838,
+        "num": 173319,
+        "word": "云合",
+        "onboard_time": 1768556360,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73768,
+        "num": 173140,
+        "word": "赛里木湖冰推遇落日好壮观",
+        "onboard_time": 1768552640,
+        "rank": 45,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 70798,
+        "num": 172933,
+        "word": "孙俪往那一站就是美",
+        "onboard_time": 1768554621,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66038,
+        "num": 172820,
+        "word": "白银50天涨逾80%",
+        "onboard_time": 1768556541,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 65864,
+        "num": 172701,
+        "word": "刘宇宁演唱会七站变装",
+        "onboard_time": 1768556901,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 65624,
+        "num": 172457,
+        "word": "王俊凯鞠婧祎丁禹兮QQ音乐销量",
+        "onboard_time": 1768549641,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见加拿大总理#"
+    }
+  }
+}
