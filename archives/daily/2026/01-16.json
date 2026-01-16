@@ -1,10 +1,10 @@
 {
   "startTime": 1768495443021,
-  "endTime": 1768536439314,
+  "endTime": 1768536995944,
   "band_list": [
     {
       "raw_hot": 4325889,
-      "num": 196448,
+      "num": 239146,
       "word": "李湘全平台账号被禁止关注",
       "onboard_time": 1768532959,
       "rank": 10,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 573227,
-      "num": 196431,
+      "num": 231973,
       "word": "徐明浩驾龄7年回国考科一挂了",
       "onboard_time": 1768533862,
       "rank": 11,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 466788,
+      "num": 301530,
+      "word": "删了吧有个打工的破防了",
+      "onboard_time": 1768534341,
+      "rank": 5,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 450759,
       "num": 686740,
       "word": "马查多把诺贝尔和平奖颁给特朗普",
@@ -123,6 +131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 440736,
+      "num": 807468,
+      "word": "有人在宜家5折捡漏原价2800元的床",
+      "onboard_time": 1768532840,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 424225,
       "num": 923501,
       "word": "解放军实战演练斩首行动画面",
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 411381,
-      "num": 196360,
+      "num": 220367,
       "word": "赵丽颖ELLE封面",
       "onboard_time": 1768534761,
       "rank": 13,
@@ -147,28 +163,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 393464,
-      "num": 393464,
-      "word": "有人在宜家5折捡漏原价2800元的床",
-      "onboard_time": 1768532840,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 382802,
       "num": 207494,
       "word": "曝孟子义为将门毒后减重至88斤",
       "onboard_time": 1768521679,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 356473,
-      "num": 301530,
-      "word": "删了吧有个打工的破防了",
-      "onboard_time": 1768534341,
-      "rank": 5,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 334049,
@@ -195,7 +195,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 270671,
+      "raw_hot": 300103,
       "num": 154559,
       "word": "携程被多次约谈仍不改",
       "onboard_time": 1768535241,
@@ -203,8 +203,8 @@
       "category": "互联网,民生新闻"
     },
     {
-      "raw_hot": 269855,
-      "num": 196396,
+      "raw_hot": 291345,
+      "num": 225966,
       "word": "第一次见双胞胎不是一个物种",
       "onboard_time": 1768534582,
       "rank": 12,
@@ -291,6 +291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 214865,
+      "num": 214865,
+      "word": "高叶走这两步让我梦回狂飙了",
+      "onboard_time": 1768534761,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204620,
       "num": 91264,
       "word": "杜海涛回应交通银行口误事件",
@@ -307,12 +315,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196515,
-      "num": 196515,
-      "word": "高叶走这两步让我梦回狂飙了",
-      "onboard_time": 1768534761,
-      "rank": 8,
-      "category": "综艺"
+      "raw_hot": 200494,
+      "num": 200494,
+      "word": "宋威龙抱赵今麦 主打一个忘本",
+      "onboard_time": 1768535841,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 191346,
@@ -339,20 +347,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 183473,
+      "num": 255408,
+      "word": "山姆1小时达变隔日达还加运费",
+      "onboard_time": 1768531159,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183087,
       "num": 151137,
       "word": "王影璐顶级骨相",
       "onboard_time": 1768534401,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 180674,
-      "num": 196513,
-      "word": "山姆1小时达变隔日达还加运费",
-      "onboard_time": 1768531159,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 179826,
@@ -385,6 +393,14 @@
       "onboard_time": 1768519157,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166592,
+      "num": 143582,
+      "word": "杀猪宴翻车博主已到派出所谈话",
+      "onboard_time": 1768536562,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159916,
@@ -483,12 +499,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129863,
+      "num": 250149,
+      "word": "小米新手表手环曝光",
+      "onboard_time": 1768536382,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 129698,
       "num": 129698,
       "word": "鬼鬼吐槽和艺人做朋友很累",
       "onboard_time": 1768479920,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129657,
+      "num": 129657,
+      "word": "贺娇龙公开悼念仪式在昭苏举行",
+      "onboard_time": 1768536081,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129196,
@@ -563,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118845,
+      "num": 118845,
+      "word": "陈妍希 你们是在哄宝宝",
+      "onboard_time": 1768536501,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115857,
       "num": 115857,
       "word": "黄晓明提前一个月背词那场戏播了",
@@ -635,11 +675,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107044,
-      "num": 107044,
-      "word": "贺娇龙公开悼念仪式在昭苏举行",
-      "onboard_time": 1768536081,
-      "rank": 41,
+      "raw_hot": 106502,
+      "num": 106502,
+      "word": "被逼婚轻生女子认为男方领证后失信",
+      "onboard_time": 1768531579,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -683,12 +723,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 99731,
-      "num": 99731,
-      "word": "被逼婚轻生女子认为男方领证后失信",
-      "onboard_time": 1768531579,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 99651,
+      "num": 99651,
+      "word": "江浙沪创一代8小时凑出570万",
+      "onboard_time": 1768536742,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 99545,
@@ -715,12 +755,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96760,
+      "num": 96760,
+      "word": "果然人上了年纪就自动解锁一些动作",
+      "onboard_time": 1768536021,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96402,
       "num": 96402,
       "word": "新一代小米SU7九款颜色公布",
       "onboard_time": 1768518858,
       "rank": 9,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 95309,
+      "num": 109519,
+      "word": "王星越高叶嫂嫂开门我是我哥",
+      "onboard_time": 1768535841,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 94977,
@@ -731,12 +787,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 94857,
-      "num": 94857,
-      "word": "果然人上了年纪就自动解锁一些动作",
-      "onboard_time": 1768536021,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 93855,
+      "num": 93855,
+      "word": "刘亦菲 模糊的画质清晰的美貌",
+      "onboard_time": 1768536921,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 93781,
@@ -771,27 +827,19 @@
       "category": "美食"
     },
     {
-      "raw_hot": 91012,
-      "num": 91012,
-      "word": "小米新手表手环曝光",
-      "onboard_time": 1768536382,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 90383,
-      "num": 109519,
-      "word": "王星越高叶嫂嫂开门我是我哥",
-      "onboard_time": 1768535841,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 89824,
       "num": 140823,
       "word": "中国冬奥会史上首枚金牌",
       "onboard_time": 1768488861,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 89718,
+      "num": 89718,
+      "word": "克莱历史三分榜第4",
+      "onboard_time": 1768536921,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -859,11 +907,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84352,
-      "num": 157240,
-      "word": "宋威龙抱赵今麦 主打一个忘本",
-      "onboard_time": 1768535841,
-      "rank": 19,
+      "raw_hot": 83918,
+      "num": 139021,
+      "word": "杨洋将福气与贵气刻进骨子里",
+      "onboard_time": 1768536201,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -897,6 +945,14 @@
       "onboard_time": 1768492400,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80438,
+      "num": 89381,
+      "word": "减肥大忌TOP1",
+      "onboard_time": 1768536681,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 79960,
@@ -1049,14 +1105,6 @@
       "onboard_time": 1768481960,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 61825,
-      "num": 125466,
-      "word": "杨洋将福气与贵气刻进骨子里",
-      "onboard_time": 1768536201,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 61482,
@@ -1275,8 +1323,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 35268,
-      "num": 617452,
+      "raw_hot": 37453,
+      "num": 638574,
       "word": "再有一个月就过年啦",
       "onboard_time": 1768532480,
       "rank": 2,
@@ -1355,6 +1403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20467,
+      "num": 103438,
+      "word": "日菲再签防务协定被指针对中国",
+      "onboard_time": 1768536681,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19395,
       "num": 73892,
       "word": "俄回应特朗普对伊朗贸易伙伴加税",
@@ -1395,8 +1451,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 10808,
-      "num": 107460,
+      "raw_hot": 11306,
+      "num": 146095,
       "word": "美正向中东增派包括航母在内的兵力",
       "onboard_time": 1768536382,
       "rank": 40,
