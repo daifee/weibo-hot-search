@@ -1,6 +1,6 @@
 {
   "startTime": 1768581578200,
-  "endTime": 1768599817297,
+  "endTime": 1768602607381,
   "band_list": [
     {
       "raw_hot": 735813,
@@ -507,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 13586,
+      "num": 41668,
+      "word": "韩国火灾已投入85辆消防车",
+      "onboard_time": 1768555822,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 13134,
       "num": 257270,
       "word": "2025这些中国好物全球圈粉",
@@ -523,12 +531,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 11958,
-      "num": 41668,
-      "word": "韩国火灾已投入85辆消防车",
-      "onboard_time": 1768555822,
-      "rank": 49,
-      "category": "海外新闻"
+      "raw_hot": 11531,
+      "num": 236656,
+      "word": "让绿色发展点亮幸福生活",
+      "onboard_time": 1768568421,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 9523,
@@ -537,14 +545,6 @@
       "onboard_time": 1768559302,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 9261,
-      "num": 115590,
-      "word": "让绿色发展点亮幸福生活",
-      "onboard_time": 1768568421,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
