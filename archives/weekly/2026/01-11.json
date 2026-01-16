@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768559621868,
+  "endTime": 1768560619525,
   "band_list": [
     {
       "raw_hot": 9503714,
@@ -225,6 +225,14 @@
       "onboard_time": 1768208120,
       "rank": 40,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 1495371,
+      "num": 231954,
+      "word": "罗永浩回应贾国龙喊话",
+      "onboard_time": 1768559724,
+      "rank": 11,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 1487438,
@@ -2411,6 +2419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 430512,
+      "num": 430512,
+      "word": "刘翔回应移民美国",
+      "onboard_time": 1768559182,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 429317,
       "num": 277853,
       "word": "有3个睡眠习惯的人更易患癌",
@@ -3828,7 +3844,7 @@
     },
     {
       "raw_hot": 301225,
-      "num": 139137,
+      "num": 225100,
       "word": "王一博工作室蓝V没了",
       "onboard_time": 1768557743,
       "rank": 23,
@@ -4499,6 +4515,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 255854,
+      "num": 228669,
+      "word": "617分考生放弃985选职业院校",
+      "onboard_time": 1768557440,
+      "rank": 19,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 255751,
       "num": 124808,
       "word": "韩国开始出现迪拜巧克力麻薯糖葫芦了",
@@ -4628,7 +4652,7 @@
     },
     {
       "raw_hot": 250191,
-      "num": 208963,
+      "num": 224750,
       "word": "月入一万花一万的真实生活",
       "onboard_time": 1768556061,
       "rank": 35,
@@ -4889,6 +4913,14 @@
       "onboard_time": 1768540822,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 238133,
+      "num": 238133,
+      "word": "TF家族新音官摄",
+      "onboard_time": 1768559062,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 237717,
@@ -5561,6 +5593,14 @@
       "onboard_time": 1768128322,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 211330,
+      "num": 211330,
+      "word": "时代少年团物料",
+      "onboard_time": 1768560142,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 211114,
@@ -6315,6 +6355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190412,
+      "num": 226276,
+      "word": "年轻人的滑雪出片秘籍一套又一套",
+      "onboard_time": 1768560023,
+      "rank": 22,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 190368,
       "num": 190368,
       "word": "U23国足vs澳大利亚",
@@ -6699,6 +6747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 182384,
+      "num": 233583,
+      "word": "辅警保住100多万哭出了声",
+      "onboard_time": 1768556541,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 182212,
       "num": 224058,
       "word": "苹果官宣iPhone将搭载最强AI",
@@ -6849,6 +6905,14 @@
       "onboard_time": 1768392321,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179171,
+      "num": 179171,
+      "word": "买房千万不要买临街的",
+      "onboard_time": 1768556720,
+      "rank": 42,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 179146,
@@ -7345,14 +7409,6 @@
       "onboard_time": 1768148299,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167165,
-      "num": 173617,
-      "word": "买房千万不要买临街的",
-      "onboard_time": 1768556720,
-      "rank": 42,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 167115,
@@ -8179,14 +8235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153473,
-      "num": 128909,
-      "word": "刘翔回应移民美国",
-      "onboard_time": 1768559182,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 153210,
       "num": 153210,
       "word": "国乒包揽榜单的实力有多强",
@@ -8209,6 +8257,14 @@
       "onboard_time": 1768552281,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152977,
+      "num": 152977,
+      "word": "侯鸿亮采访",
+      "onboard_time": 1768558402,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 152911,
@@ -8465,6 +8521,14 @@
       "onboard_time": 1768295361,
       "rank": 34,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 149511,
+      "num": 149511,
+      "word": "马克龙右眼血管破裂",
+      "onboard_time": 1768560082,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 149482,
@@ -8875,6 +8939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 143231,
+      "num": 143231,
+      "word": "警犬 通报就通报呗",
+      "onboard_time": 1768560382,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143129,
       "num": 143129,
       "word": "贵州辣椒",
@@ -9275,14 +9347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 137912,
-      "num": 137912,
-      "word": "侯鸿亮采访",
-      "onboard_time": 1768558402,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 137857,
       "num": 152700,
       "word": "罗永浩称没见过企业因为被黑就倒闭",
@@ -9337,14 +9401,6 @@
       "onboard_time": 1768387161,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137172,
-      "num": 140449,
-      "word": "617分考生放弃985选职业院校",
-      "onboard_time": 1768557440,
-      "rank": 19,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 137135,
@@ -10387,14 +10443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126080,
-      "num": 126080,
-      "word": "TF家族新音官摄",
-      "onboard_time": 1768559062,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 125968,
       "num": 120920,
       "word": "谁把檀健次丁程鑫放一块儿了",
@@ -11027,14 +11075,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 118851,
-      "num": 222865,
-      "word": "辅警保住100多万哭出了声",
-      "onboard_time": 1768556541,
-      "rank": 29,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 118845,
       "num": 118845,
       "word": "陈妍希 你们是在哄宝宝",
@@ -11065,6 +11105,14 @@
       "onboard_time": 1768311803,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118682,
+      "num": 232644,
+      "word": "泡泡玛特星星人",
+      "onboard_time": 1768560023,
+      "rank": 9,
+      "category": "休闲"
     },
     {
       "raw_hot": 118642,
@@ -14283,6 +14331,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 95879,
+      "num": 95879,
+      "word": "养成系爱豆是产品吗",
+      "onboard_time": 1768560142,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95841,
       "num": 95841,
       "word": "侯明昊有这张脸这张嘴拿什么输",
@@ -14851,6 +14907,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 92198,
+      "num": 92198,
+      "word": "男子撞死婆孙后病亡受害者发声",
+      "onboard_time": 1768558283,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92160,
       "num": 184221,
       "word": "贪官建周末愉快群捞钱",
@@ -14929,6 +14993,14 @@
       "onboard_time": 1768402521,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91650,
+      "num": 91650,
+      "word": "专家称A股全面牛市还未启动",
+      "onboard_time": 1768560142,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 91615,
@@ -15427,6 +15499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88419,
+      "num": 88419,
+      "word": "吐槽老板的猫好丑被听到了",
+      "onboard_time": 1768560562,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 88358,
       "num": 88358,
       "word": "王玉雯维护化妆师",
@@ -15713,6 +15793,14 @@
       "onboard_time": 1768529958,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86741,
+      "num": 86741,
+      "word": "奶多牛少猫",
+      "onboard_time": 1768560562,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 86691,
@@ -17859,6 +17947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 66371,
+      "num": 109703,
+      "word": "6岁女童发烧17天脑子险被吃掉",
+      "onboard_time": 1768560562,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66308,
       "num": 195844,
       "word": "差评率100%的自助",
@@ -18289,6 +18385,14 @@
       "onboard_time": 1768191621,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59770,
+      "num": 104747,
+      "word": "文俊辉你要的大师课来了",
+      "onboard_time": 1768559662,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 59705,
@@ -18977,6 +19081,14 @@
       "onboard_time": 1768115182,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 42388,
+      "num": 100726,
+      "word": "胖东来599元羽绒服进价457.9元",
+      "onboard_time": 1768559724,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42171,
@@ -20635,6 +20747,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17518,
+      "num": 227519,
+      "word": "老人看到过世7年老伴照片嚎啕大哭",
+      "onboard_time": 1768559961,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17244,
+      "num": 95309,
+      "word": "仿制药比原研药贵",
+      "onboard_time": 1768559302,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17134,
       "num": 33394,
       "word": "刘宇宁沙丘战士",
@@ -20768,14 +20896,6 @@
       "word": "这些非遗一出过年DNA动了",
       "onboard_time": 1768297761,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14245,
-      "num": 95309,
-      "word": "仿制药比原研药贵",
-      "onboard_time": 1768559302,
-      "rank": 39,
       "category": "民生新闻"
     },
     {

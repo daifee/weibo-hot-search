@@ -1,6 +1,6 @@
 {
   "startTime": 1768495443021,
-  "endTime": 1768559621868,
+  "endTime": 1768560619525,
   "band_list": [
     {
       "raw_hot": 9503714,
@@ -24,6 +24,14 @@
       "word": "贾国龙让罗永浩道歉赔偿",
       "onboard_time": 1768556180,
       "rank": 3,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 1495371,
+      "num": 231954,
+      "word": "罗永浩回应贾国龙喊话",
+      "onboard_time": 1768559724,
+      "rank": 11,
       "category": "民生新闻,互联网"
     },
     {
@@ -291,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 430512,
+      "num": 430512,
+      "word": "刘翔回应移民美国",
+      "onboard_time": 1768559182,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 427709,
       "num": 787572,
       "word": "携程被多次约谈仍不改",
@@ -468,7 +484,7 @@
     },
     {
       "raw_hot": 301225,
-      "num": 139137,
+      "num": 225100,
       "word": "王一博工作室蓝V没了",
       "onboard_time": 1768557743,
       "rank": 23,
@@ -523,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255854,
+      "num": 228669,
+      "word": "617分考生放弃985选职业院校",
+      "onboard_time": 1768557440,
+      "rank": 19,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 254552,
       "num": 204732,
       "word": "女老板除夕前7天被藏尸商场花坛",
@@ -540,7 +564,7 @@
     },
     {
       "raw_hot": 250191,
-      "num": 208963,
+      "num": 224750,
       "word": "月入一万花一万的真实生活",
       "onboard_time": 1768556061,
       "rank": 35,
@@ -585,6 +609,14 @@
       "onboard_time": 1768540822,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 238133,
+      "num": 238133,
+      "word": "TF家族新音官摄",
+      "onboard_time": 1768559062,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 236569,
@@ -659,6 +691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 211330,
+      "num": 211330,
+      "word": "时代少年团物料",
+      "onboard_time": 1768560142,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209922,
       "num": 209922,
       "word": "虞书欣名誉权纠纷案将二审",
@@ -723,6 +763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 194146,
+      "num": 228071,
+      "word": "轧戏",
+      "onboard_time": 1768477339,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192786,
       "num": 446106,
       "word": "俄男子从5楼纵身跳进雪堆未受伤",
@@ -737,6 +785,14 @@
       "onboard_time": 1768535241,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190412,
+      "num": 226276,
+      "word": "年轻人的滑雪出片秘籍一套又一套",
+      "onboard_time": 1768560023,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 189837,
@@ -803,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182384,
+      "num": 233583,
+      "word": "辅警保住100多万哭出了声",
+      "onboard_time": 1768556541,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 180306,
       "num": 180306,
       "word": "宋祖儿豹纹大衣复古明伶造型",
@@ -817,6 +881,14 @@
       "onboard_time": 1768531159,
       "rank": 17,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 179171,
+      "num": 179171,
+      "word": "买房千万不要买临街的",
+      "onboard_time": 1768556720,
+      "rank": 42,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 179111,
@@ -857,14 +929,6 @@
       "onboard_time": 1768519157,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167165,
-      "num": 173617,
-      "word": "买房千万不要买临街的",
-      "onboard_time": 1768556720,
-      "rank": 42,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 167020,
@@ -963,14 +1027,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 153473,
-      "num": 128909,
-      "word": "刘翔回应移民美国",
-      "onboard_time": 1768559182,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 153273,
       "num": 153273,
       "word": "101岁奶奶每天熬夜追剧到凌晨2点",
@@ -985,6 +1041,14 @@
       "onboard_time": 1768552281,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152977,
+      "num": 152977,
+      "word": "侯鸿亮采访",
+      "onboard_time": 1768558402,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 151300,
@@ -1009,6 +1073,14 @@
       "onboard_time": 1768527020,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149511,
+      "num": 149511,
+      "word": "马克龙右眼血管破裂",
+      "onboard_time": 1768560082,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 147420,
@@ -1059,6 +1131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 143231,
+      "num": 143231,
+      "word": "警犬 通报就通报呗",
+      "onboard_time": 1768560382,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142388,
       "num": 208753,
       "word": "金饰克价跌至1431元",
@@ -1107,14 +1187,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 137912,
-      "num": 137912,
-      "word": "侯鸿亮采访",
-      "onboard_time": 1768558402,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 137857,
       "num": 152700,
       "word": "罗永浩称没见过企业因为被黑就倒闭",
@@ -1129,14 +1201,6 @@
       "onboard_time": 1768549221,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137172,
-      "num": 140449,
-      "word": "617分考生放弃985选职业院校",
-      "onboard_time": 1768557440,
-      "rank": 19,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 137135,
@@ -1275,14 +1339,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 126080,
-      "num": 126080,
-      "word": "TF家族新音官摄",
-      "onboard_time": 1768559062,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 125518,
       "num": 125518,
       "word": "比男主先爱上女主的是女二",
@@ -1379,20 +1435,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 118851,
-      "num": 222865,
-      "word": "辅警保住100多万哭出了声",
-      "onboard_time": 1768556541,
-      "rank": 29,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 118845,
       "num": 118845,
       "word": "陈妍希 你们是在哄宝宝",
       "onboard_time": 1768536501,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118682,
+      "num": 232644,
+      "word": "泡泡玛特星星人",
+      "onboard_time": 1768560023,
+      "rank": 9,
+      "category": "休闲"
     },
     {
       "raw_hot": 118013,
@@ -1819,6 +1875,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 95879,
+      "num": 95879,
+      "word": "养成系爱豆是产品吗",
+      "onboard_time": 1768560142,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95309,
       "num": 109519,
       "word": "王星越高叶嫂嫂开门我是我哥",
@@ -1947,12 +2011,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 92198,
+      "num": 92198,
+      "word": "男子撞死婆孙后病亡受害者发声",
+      "onboard_time": 1768558283,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92071,
       "num": 208313,
       "word": "孙俪往那一站就是美",
       "onboard_time": 1768554621,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91650,
+      "num": 91650,
+      "word": "专家称A股全面牛市还未启动",
+      "onboard_time": 1768560142,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 91261,
@@ -2011,6 +2091,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 88419,
+      "num": 88419,
+      "word": "吐槽老板的猫好丑被听到了",
+      "onboard_time": 1768560562,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 88098,
       "num": 88098,
       "word": "刘耀文 回忆会惩罚每个念旧的人",
@@ -2059,6 +2147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86741,
+      "num": 86741,
+      "word": "奶多牛少猫",
+      "onboard_time": 1768560562,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86683,
       "num": 86683,
       "word": "长期独居的后遗症",
@@ -2073,14 +2169,6 @@
       "onboard_time": 1768496297,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 86551,
-      "num": 115686,
-      "word": "轧戏",
-      "onboard_time": 1768477339,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 86457,
@@ -2523,6 +2611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66371,
+      "num": 109703,
+      "word": "6岁女童发烧17天脑子险被吃掉",
+      "onboard_time": 1768560562,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66038,
       "num": 172820,
       "word": "白银50天涨逾80%",
@@ -2585,6 +2681,14 @@
       "onboard_time": 1768490602,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 59770,
+      "num": 104747,
+      "word": "文俊辉你要的大师课来了",
+      "onboard_time": 1768559662,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 55490,
@@ -2745,6 +2849,14 @@
       "onboard_time": 1768487842,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 42388,
+      "num": 100726,
+      "word": "胖东来599元羽绒服进价457.9元",
+      "onboard_time": 1768559724,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42366,
@@ -3003,7 +3115,15 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 14245,
+      "raw_hot": 17518,
+      "num": 227519,
+      "word": "老人看到过世7年老伴照片嚎啕大哭",
+      "onboard_time": 1768559961,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17244,
       "num": 95309,
       "word": "仿制药比原研药贵",
       "onboard_time": 1768559302,

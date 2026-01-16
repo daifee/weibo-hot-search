@@ -1,0 +1,410 @@
+{
+  "runTime": 1768560619525,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8420431,
+        "num": 8420431,
+        "word": "贾国龙今晚10点全面回应",
+        "onboard_time": 1768556121,
+        "rank": 0,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 354903,
+        "num": 1720418,
+        "word": "坐高铁可以不用自己扛行李了",
+        "onboard_time": 1768541721,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22532,
+        "num": 1329577,
+        "word": "6图看国家水网惠及百姓日常生活",
+        "onboard_time": 1768548801,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 430512,
+        "num": 430512,
+        "word": "刘翔回应移民美国",
+        "onboard_time": 1768559182,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295499,
+        "num": 295499,
+        "word": "电影镖人官博",
+        "onboard_time": 1768555402,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 257723,
+        "num": 257723,
+        "word": "韩国火灾已投入85辆消防车",
+        "onboard_time": 1768555822,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 238133,
+        "num": 238133,
+        "word": "TF家族新音官摄",
+        "onboard_time": 1768559062,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 235537,
+        "num": 235537,
+        "word": "檀健次 何不同舟渡",
+        "onboard_time": 1768556781,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182384,
+        "num": 233583,
+        "word": "辅警保住100多万哭出了声",
+        "onboard_time": 1768556541,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 118682,
+        "num": 232644,
+        "word": "泡泡玛特星星人",
+        "onboard_time": 1768560023,
+        "rank": 9,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 232059,
+        "num": 232059,
+        "word": "王玉雯看张新成新剧被气到",
+        "onboard_time": 1768557863,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1495371,
+        "num": 231954,
+        "word": "罗永浩回应贾国龙喊话",
+        "onboard_time": 1768559724,
+        "rank": 11,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 290771,
+        "num": 231015,
+        "word": "一条小团团时隔两年更新视频",
+        "onboard_time": 1768554621,
+        "rank": 12,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 113718,
+        "num": 230837,
+        "word": "时尚之夜阵容官宣",
+        "onboard_time": 1768553780,
+        "rank": 13,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 115931,
+        "num": 230449,
+        "word": "尹锡悦被判5年",
+        "onboard_time": 1768543941,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1484496,
+        "num": 229726,
+        "word": "贾国龙让罗永浩道歉赔偿",
+        "onboard_time": 1768556180,
+        "rank": 15,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 263153,
+        "num": 229195,
+        "word": "印尼一婚礼因新郎外貌爆火",
+        "onboard_time": 1768544900,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 255854,
+        "num": 228669,
+        "word": "617分考生放弃985选职业院校",
+        "onboard_time": 1768557440,
+        "rank": 17,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 194146,
+        "num": 228071,
+        "word": "轧戏",
+        "onboard_time": 1768560441,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17518,
+        "num": 227519,
+        "word": "老人看到过世7年老伴照片嚎啕大哭",
+        "onboard_time": 1768559961,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 662118,
+        "num": 226883,
+        "word": "张慧雯娜扎聊天记录",
+        "onboard_time": 1768554200,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554231,
+        "num": 226386,
+        "word": "李湘全平台账号被禁止关注",
+        "onboard_time": 1768532959,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190412,
+        "num": 226276,
+        "word": "年轻人的滑雪出片秘籍一套又一套",
+        "onboard_time": 1768560023,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 165089,
+        "num": 225529,
+        "word": "薛之谦四巡",
+        "onboard_time": 1768551799,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 274191,
+        "num": 225100,
+        "word": "王一博工作室蓝V没了",
+        "onboard_time": 1768557743,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224750,
+        "num": 224750,
+        "word": "月入一万花一万的真实生活",
+        "onboard_time": 1768556061,
+        "rank": 25,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 211330,
+        "num": 211330,
+        "word": "时代少年团物料",
+        "onboard_time": 1768560142,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179171,
+        "num": 179171,
+        "word": "买房千万不要买临街的",
+        "onboard_time": 1768556720,
+        "rank": 27,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 153295,
+        "num": 153295,
+        "word": "镖人",
+        "onboard_time": 1768555881,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152977,
+        "num": 152977,
+        "word": "侯鸿亮采访",
+        "onboard_time": 1768558402,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149511,
+        "num": 149511,
+        "word": "马克龙右眼血管破裂",
+        "onboard_time": 1768560082,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143231,
+        "num": 143231,
+        "word": "警犬 通报就通报呗",
+        "onboard_time": 1768560382,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143206,
+        "num": 143206,
+        "word": "第五人格 擦边",
+        "onboard_time": 1768540400,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135314,
+        "num": 135314,
+        "word": "杨紫宋祖儿活动怼脸生图",
+        "onboard_time": 1768555280,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134125,
+        "num": 134125,
+        "word": "喝农药自杀新娘与新郎相差15岁",
+        "onboard_time": 1768552701,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124436,
+        "num": 124436,
+        "word": "邓佳鑫简历没提来自时代峰峻",
+        "onboard_time": 1768554920,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121878,
+        "num": 121878,
+        "word": "花坛白骨案凶手每年去韩国整容",
+        "onboard_time": 1768554020,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66371,
+        "num": 109703,
+        "word": "6岁女童发烧17天脑子险被吃掉",
+        "onboard_time": 1768560562,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59770,
+        "num": 104747,
+        "word": "文俊辉你要的大师课来了",
+        "onboard_time": 1768559662,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 42388,
+        "num": 100726,
+        "word": "胖东来599元羽绒服进价457.9元",
+        "onboard_time": 1768559724,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100452,
+        "num": 100452,
+        "word": "普通人化妆最有效的一步",
+        "onboard_time": 1768556959,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 95879,
+        "num": 95879,
+        "word": "养成系爱豆是产品吗",
+        "onboard_time": 1768560142,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92198,
+        "num": 92198,
+        "word": "男子撞死婆孙后病亡受害者发声",
+        "onboard_time": 1768558283,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91650,
+        "num": 91650,
+        "word": "专家称A股全面牛市还未启动",
+        "onboard_time": 1768560142,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 88419,
+        "num": 88419,
+        "word": "吐槽老板的猫好丑被听到了",
+        "onboard_time": 1768560562,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86741,
+        "num": 86741,
+        "word": "奶多牛少猫",
+        "onboard_time": 1768560562,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116386,
+        "num": 86740,
+        "word": "前博物院长别墅挖出文物仓库",
+        "onboard_time": 1768556781,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86721,
+        "num": 86721,
+        "word": "窦骁何超莲一起参加活动",
+        "onboard_time": 1768553660,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17244,
+        "num": 84880,
+        "word": "仿制药比原研药贵",
+        "onboard_time": 1768559302,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83576,
+        "num": 83576,
+        "word": "银价也杀疯了",
+        "onboard_time": 1768544420,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见加拿大总理#"
+    }
+  }
+}

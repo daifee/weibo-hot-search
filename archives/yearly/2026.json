@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768559621868,
+  "endTime": 1768560619525,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -425,6 +425,14 @@
       "onboard_time": 1767694461,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1495371,
+      "num": 231954,
+      "word": "罗永浩回应贾国龙喊话",
+      "onboard_time": 1768559724,
+      "rank": 11,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 1487438,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767583880,
       "rank": 22,
       "category": "网红"
-    },
-    {
-      "raw_hot": 650184,
-      "num": 305948,
-      "word": "平台客服回应李湘被禁止关注",
-      "onboard_time": 1768537942,
-      "rank": 15,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
