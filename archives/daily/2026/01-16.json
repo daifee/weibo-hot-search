@@ -1,6 +1,6 @@
 {
   "startTime": 1768495443021,
-  "endTime": 1768562887491,
+  "endTime": 1768563742652,
   "band_list": [
     {
       "raw_hot": 9503714,
@@ -27,20 +27,20 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 1559147,
+      "num": 301161,
+      "word": "女孩晕倒离世前妈妈疑已哄了一小时",
+      "onboard_time": 1768560984,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1495371,
       "num": 231954,
       "word": "罗永浩回应贾国龙喊话",
       "onboard_time": 1768559724,
       "rank": 11,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 1307323,
-      "num": 247223,
-      "word": "女孩晕倒离世前妈妈疑已哄了一小时",
-      "onboard_time": 1768560984,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1219910,
@@ -57,6 +57,14 @@
       "onboard_time": 1768548080,
       "rank": 14,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 1062124,
+      "num": 1169939,
+      "word": "刘翔回应移民美国",
+      "onboard_time": 1768559182,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 969461,
@@ -97,14 +105,6 @@
       "onboard_time": 1768543941,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 786990,
-      "num": 1125918,
-      "word": "刘翔回应移民美国",
-      "onboard_time": 1768559182,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 730611,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 369509,
-      "num": 241686,
+      "num": 298791,
       "word": "617分考生放弃985选职业院校",
       "onboard_time": 1768557440,
       "rank": 19,
@@ -411,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353394,
+      "num": 299087,
+      "word": "女子向出轨丈夫道歉15天企业发声",
+      "onboard_time": 1768562182,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 335061,
       "num": 307720,
       "word": "宋威龙抱赵今麦 主打一个忘本",
@@ -425,6 +433,14 @@
       "onboard_time": 1768494619,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 328623,
+      "num": 328623,
+      "word": "泡泡玛特星星人",
+      "onboard_time": 1768560023,
+      "rank": 9,
+      "category": "休闲"
     },
     {
       "raw_hot": 327972,
@@ -451,6 +467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 322940,
+      "num": 155379,
+      "word": "杨紫孙俪宋祖儿同框合影",
+      "onboard_time": 1768562001,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320594,
       "num": 320594,
       "word": "镖人",
@@ -475,20 +499,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 306985,
-      "num": 306985,
-      "word": "泡泡玛特星星人",
-      "onboard_time": 1768560023,
-      "rank": 9,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 305522,
       "num": 305522,
       "word": "时尚之夜阵容官宣",
       "onboard_time": 1768553780,
       "rank": 5,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 304947,
+      "num": 304947,
+      "word": "第五人格",
+      "onboard_time": 1768561643,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 303219,
@@ -531,14 +555,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 292720,
-      "num": 292720,
-      "word": "第五人格",
-      "onboard_time": 1768561643,
-      "rank": 6,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 286282,
       "num": 180449,
       "word": "程潇赵嘉敏 发小闺蜜勇闯娱乐圈",
@@ -555,12 +571,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 278800,
-      "num": 155379,
-      "word": "杨紫孙俪宋祖儿同框合影",
-      "onboard_time": 1768562001,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 274693,
+      "num": 274693,
+      "word": "6岁女童发烧17天脑子险被吃掉",
+      "onboard_time": 1768560562,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 268328,
@@ -577,6 +593,14 @@
       "onboard_time": 1768558402,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264945,
+      "num": 469550,
+      "word": "辅警保住100多万哭出了声",
+      "onboard_time": 1768556541,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 261187,
@@ -683,12 +707,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 232616,
-      "num": 232616,
-      "word": "6岁女童发烧17天脑子险被吃掉",
-      "onboard_time": 1768560562,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 233792,
+      "num": 233792,
+      "word": "轧戏",
+      "onboard_time": 1768477339,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 229514,
@@ -739,20 +763,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214450,
+      "num": 390218,
+      "word": "胖东来599元羽绒服进价457.9元",
+      "onboard_time": 1768559724,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213801,
       "num": 170285,
       "word": "马思纯这个广告片哪个神人想的",
       "onboard_time": 1768541422,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 212361,
-      "num": 391219,
-      "word": "辅警保住100多万哭出了声",
-      "onboard_time": 1768556541,
-      "rank": 29,
-      "category": "正能量"
     },
     {
       "raw_hot": 209922,
@@ -787,12 +811,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203841,
-      "num": 228071,
-      "word": "轧戏",
-      "onboard_time": 1768477339,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 204263,
+      "num": 134630,
+      "word": "杜华回复王一博",
+      "onboard_time": 1768562722,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 202209,
@@ -1107,14 +1131,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 151023,
-      "num": 151023,
-      "word": "女子向出轨丈夫道歉15天企业发声",
-      "onboard_time": 1768562182,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149843,
       "num": 199284,
       "word": "何炅谈黄雅莉变化",
@@ -1129,6 +1145,14 @@
       "onboard_time": 1768527020,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149620,
+      "num": 302837,
+      "word": "孙颖莎王楚钦最想尝试的冬奥会项目",
+      "onboard_time": 1768560920,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 149511,
@@ -1403,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124300,
+      "num": 124300,
+      "word": "X平台不再允许Grok生成性暴露图像",
+      "onboard_time": 1768563562,
+      "rank": 33,
+      "category": "海外新闻,互联网"
+    },
+    {
       "raw_hot": 123783,
       "num": 123783,
       "word": "过年带相机回家最有意义的时刻",
@@ -1515,14 +1547,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 117739,
-      "num": 284371,
-      "word": "孙颖莎王楚钦最想尝试的冬奥会项目",
-      "onboard_time": 1768560920,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 117288,
       "num": 117288,
       "word": "鹅鸭杀情侣和平条约",
@@ -1617,6 +1641,14 @@
       "onboard_time": 1768533982,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 112746,
+      "num": 112746,
+      "word": "牢A直播",
+      "onboard_time": 1768563680,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112385,
@@ -1744,6 +1776,14 @@
       "word": "张新成你别演了我害怕",
       "onboard_time": 1768539262,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 106086,
+      "num": 106086,
+      "word": "表白前一刻知道crush有老公",
+      "onboard_time": 1768563141,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -1971,14 +2011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 95549,
-      "num": 95549,
-      "word": "杜华回复王一博",
-      "onboard_time": 1768562722,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 95309,
       "num": 109519,
       "word": "王星越高叶嫂嫂开门我是我哥",
@@ -2043,14 +2075,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 93234,
-      "num": 268583,
-      "word": "胖东来599元羽绒服进价457.9元",
-      "onboard_time": 1768559724,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93195,
       "num": 93195,
       "word": "恋与深空取消男主等身雕像展出",
@@ -2081,6 +2105,14 @@
       "onboard_time": 1768540822,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92766,
+      "num": 92766,
+      "word": "50斤的小狗背40斤的锅",
+      "onboard_time": 1768563323,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 92750,
@@ -2193,6 +2225,14 @@
       "onboard_time": 1768550299,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88702,
+      "num": 88702,
+      "word": "西贝公关副总裁宋宣离职",
+      "onboard_time": 1768563201,
+      "rank": 45,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 88434,
@@ -2355,6 +2395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85264,
+      "num": 93486,
+      "word": "HLE对战T1",
+      "onboard_time": 1768560683,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 84899,
       "num": 84899,
       "word": "李国庆评迅雷案贪腐就是明抢",
@@ -2387,14 +2435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82751,
-      "num": 93486,
-      "word": "HLE对战T1",
-      "onboard_time": 1768560683,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 82708,
       "num": 82708,
       "word": "将门毒后编剧团队被扒缺乏古装经验",
@@ -2403,12 +2443,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82370,
+      "num": 82370,
+      "word": "牢A细软都不要了",
+      "onboard_time": 1768562361,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82248,
       "num": 82248,
       "word": "中国唱将",
       "onboard_time": 1768559302,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 82045,
+      "num": 82045,
+      "word": "第五人格调整争议角色",
+      "onboard_time": 1768563622,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 81791,
@@ -2480,6 +2536,14 @@
       "word": "香港一商场警察开枪制服持刀嫌犯",
       "onboard_time": 1768491201,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79937,
+      "num": 107637,
+      "word": "二人因乞讨相恋五年共同收入32万元",
+      "onboard_time": 1768563380,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2803,6 +2867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60637,
+      "num": 157199,
+      "word": "日本失控将给日本人民造成毁灭性灾难",
+      "onboard_time": 1768562481,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 59770,
       "num": 104747,
       "word": "文俊辉你要的大师课来了",
@@ -2907,14 +2979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48187,
-      "num": 157199,
-      "word": "日本失控将给日本人民造成毁灭性灾难",
-      "onboard_time": 1768562481,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 47600,
       "num": 114669,
       "word": "这个阵容怎么凑齐的",
@@ -2953,6 +3017,14 @@
       "onboard_time": 1768474639,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46154,
+      "num": 107982,
+      "word": "巴厘岛吃饭孩子弄倒40万印尼盾餐桌",
+      "onboard_time": 1768563261,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 43783,
@@ -3028,7 +3100,7 @@
     },
     {
       "raw_hot": 39197,
-      "num": 621969,
+      "num": 667108,
       "word": "中国天眼又立功了",
       "onboard_time": 1768544061,
       "rank": 2,
@@ -3099,6 +3171,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 30594,
+      "num": 107186,
+      "word": "医生强奸2幼女被判8年家属坚称无罪",
+      "onboard_time": 1768562540,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30561,
       "num": 61472,
       "word": "落子无悔是一种顶级智慧",
@@ -3119,14 +3199,6 @@
       "num": 93034,
       "word": "行业协会有89名副会长引质疑",
       "onboard_time": 1768541422,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29940,
-      "num": 103383,
-      "word": "医生强奸2幼女被判8年家属坚称无罪",
-      "onboard_time": 1768562540,
       "rank": 39,
       "category": "民生新闻"
     },
@@ -3256,6 +3328,14 @@
       "word": "仿制药比原研药贵",
       "onboard_time": 1768559302,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15280,
+      "num": 135446,
+      "word": "大爷治好牙后称要检验用钳子秒掰断",
+      "onboard_time": 1768563201,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
