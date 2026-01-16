@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768536995944,
+  "endTime": 1768539536837,
   "band_list": [
     {
       "raw_hot": 7853492,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 4325889,
-      "num": 239146,
+      "num": 310279,
       "word": "李湘全平台账号被禁止关注",
       "onboard_time": 1768532959,
       "rank": 10,
@@ -923,6 +923,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 667978,
+      "num": 1106876,
+      "word": "携程",
+      "onboard_time": 1768378521,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 667960,
       "num": 225651,
       "word": "黄金又急跌",
@@ -1009,14 +1017,6 @@
       "onboard_time": 1768464620,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 638105,
-      "num": 1102096,
-      "word": "携程",
-      "onboard_time": 1768378521,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 635802,
@@ -1300,7 +1300,7 @@
     },
     {
       "raw_hot": 573227,
-      "num": 231973,
+      "num": 309586,
       "word": "徐明浩驾龄7年回国考科一挂了",
       "onboard_time": 1768533862,
       "rank": 11,
@@ -1409,6 +1409,14 @@
       "onboard_time": 1768397181,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 557204,
+      "num": 557204,
+      "word": "杀猪宴翻车博主已到派出所谈话",
+      "onboard_time": 1768536562,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 556922,
@@ -2164,7 +2172,7 @@
     },
     {
       "raw_hot": 440736,
-      "num": 807468,
+      "num": 823621,
       "word": "有人在宜家5折捡漏原价2800元的床",
       "onboard_time": 1768532840,
       "rank": 3,
@@ -2420,7 +2428,7 @@
     },
     {
       "raw_hot": 411381,
-      "num": 220367,
+      "num": 305684,
       "word": "赵丽颖ELLE封面",
       "onboard_time": 1768534761,
       "rank": 13,
@@ -3139,6 +3147,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 335061,
+      "num": 307720,
+      "word": "宋威龙抱赵今麦 主打一个忘本",
+      "onboard_time": 1768535841,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334721,
       "num": 334721,
       "word": "骄阳似我心有林曦callback",
@@ -3177,6 +3193,14 @@
       "onboard_time": 1768314204,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 331781,
+      "num": 305948,
+      "word": "平台客服回应李湘被禁止关注",
+      "onboard_time": 1768537942,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 331038,
@@ -3227,12 +3251,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 327972,
+      "num": 327972,
+      "word": "第一次见双胞胎不是一个物种",
+      "onboard_time": 1768534582,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 326429,
       "num": 148970,
       "word": "登陆少年直播",
       "onboard_time": 1768130121,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326199,
+      "num": 308493,
+      "word": "减肥大忌TOP1",
+      "onboard_time": 1768536681,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 325972,
@@ -3476,7 +3516,7 @@
     },
     {
       "raw_hot": 311543,
-      "num": 311543,
+      "num": 558077,
       "word": "洪秀柱说早晚要统一不如赶快统一",
       "onboard_time": 1768533921,
       "rank": 4,
@@ -3497,6 +3537,14 @@
       "onboard_time": 1768274781,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 308118,
+      "num": 204839,
+      "word": "携程被多次约谈仍不改",
+      "onboard_time": 1768535241,
+      "rank": 21,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 307647,
@@ -3577,14 +3625,6 @@
       "onboard_time": 1768360700,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 300103,
-      "num": 154559,
-      "word": "携程被多次约谈仍不改",
-      "onboard_time": 1768535241,
-      "rank": 21,
-      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 297811,
@@ -3673,14 +3713,6 @@
       "onboard_time": 1768348699,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 291345,
-      "num": 225966,
-      "word": "第一次见双胞胎不是一个物种",
-      "onboard_time": 1768534582,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 291166,
@@ -4715,6 +4747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229514,
+      "num": 560630,
+      "word": "无限暖暖",
+      "onboard_time": 1768537762,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 229375,
       "num": 209537,
       "word": "私生活这么干净为什么作息这么乱",
@@ -5219,12 +5259,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209922,
+      "num": 209922,
+      "word": "虞书欣名誉权纠纷案将二审",
+      "onboard_time": 1768538423,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209769,
       "num": 209769,
       "word": "棋手战鹰缅怀聂卫平",
       "onboard_time": 1768449260,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209399,
+      "num": 209399,
+      "word": "杨洋将福气与贵气刻进骨子里",
+      "onboard_time": 1768536201,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 208837,
@@ -5451,20 +5507,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201362,
+      "num": 311981,
+      "word": "星穹铁道4.0新角色首曝",
+      "onboard_time": 1768538721,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200980,
       "num": 200980,
       "word": "麻六记的酸辣粉为何卖不动了",
       "onboard_time": 1768105341,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 200494,
-      "num": 200494,
-      "word": "宋威龙抱赵今麦 主打一个忘本",
-      "onboard_time": 1768535841,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 200139,
@@ -5601,6 +5657,14 @@
       "onboard_time": 1768285760,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195733,
+      "num": 195733,
+      "word": "云旗郝熠然红秀双人封面",
+      "onboard_time": 1768539503,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 195565,
@@ -6459,6 +6523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178417,
+      "num": 178417,
+      "word": "鬼鬼回应排挤炎亚纶",
+      "onboard_time": 1768538180,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178149,
       "num": 178149,
       "word": "九万已经可以首付买房了",
@@ -6923,14 +6995,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 166592,
-      "num": 143582,
-      "word": "杀猪宴翻车博主已到派出所谈话",
-      "onboard_time": 1768536562,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166248,
       "num": 166248,
       "word": "十位新面孔进入国乒教练组",
@@ -7041,6 +7105,14 @@
       "onboard_time": 1768443680,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 163475,
+      "num": 163475,
+      "word": "GQ开年王嘉尔回归封面",
+      "onboard_time": 1768538661,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 163093,
@@ -7491,6 +7563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156469,
+      "num": 311057,
+      "word": "贺娇龙公开悼念仪式在昭苏举行",
+      "onboard_time": 1768536081,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156447,
       "num": 156447,
       "word": "穆祉丞和CSGO互关",
@@ -7771,12 +7851,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151300,
+      "num": 151300,
+      "word": "不油不腻不老不登",
+      "onboard_time": 1768538900,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 151140,
       "num": 157683,
       "word": "内娱首个素颜音综舞台出现了",
       "onboard_time": 1768144161,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150935,
+      "num": 168746,
+      "word": "俄男子从5楼纵身跳进雪堆未受伤",
+      "onboard_time": 1768534702,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 150901,
@@ -8057,6 +8153,14 @@
       "onboard_time": 1768292181,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147333,
+      "num": 139329,
+      "word": "谁说张凌赫同时演杨过小龙女的",
+      "onboard_time": 1768538841,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 147329,
@@ -8571,6 +8675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139485,
+      "num": 139485,
+      "word": "胖东来599元羽绒服充绒量213克",
+      "onboard_time": 1768539022,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139419,
       "num": 139419,
       "word": "狗主人已接受高校提供的经济补偿",
@@ -8585,6 +8697,14 @@
       "onboard_time": 1768210521,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 138989,
+      "num": 138989,
+      "word": "西贝公关副总裁离职",
+      "onboard_time": 1768533440,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138908,
@@ -8697,6 +8817,14 @@
       "onboard_time": 1768387161,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137135,
+      "num": 137135,
+      "word": "背了一页单词就出国了",
+      "onboard_time": 1768538601,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 137090,
@@ -8992,6 +9120,14 @@
       "word": "轧戏电梯3.0",
       "onboard_time": 1768455201,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 134532,
+      "num": 134532,
+      "word": "你身上有他的烧烤味是我鼻子犯的罪",
+      "onboard_time": 1768538601,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -9355,28 +9491,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 129657,
-      "num": 129657,
-      "word": "贺娇龙公开悼念仪式在昭苏举行",
-      "onboard_time": 1768536081,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129305,
       "num": 121299,
       "word": "王鹤棣减肥白天鸡蛋晚上鸡的全家",
       "onboard_time": 1768277420,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129196,
-      "num": 129196,
-      "word": "西贝公关副总裁离职",
-      "onboard_time": 1768533440,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129178,
@@ -9931,6 +10051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 122406,
+      "num": 122406,
+      "word": "不内耗的人脑子里是这么想的",
+      "onboard_time": 1768532900,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122340,
       "num": 147336,
       "word": "尹锡悦案结案庭审",
@@ -10081,6 +10209,14 @@
       "onboard_time": 1768278920,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120934,
+      "num": 120934,
+      "word": "腹腔妊娠胎儿存活率仅为1%",
+      "onboard_time": 1768537942,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 120865,
@@ -10337,6 +10473,14 @@
       "onboard_time": 1768199961,
       "rank": 28,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 118013,
+      "num": 118013,
+      "word": "万能的大熊挑动消费群体对立被点名",
+      "onboard_time": 1768538962,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 117960,
@@ -10643,14 +10787,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 115624,
-      "num": 115624,
-      "word": "不内耗的人脑子里是这么想的",
-      "onboard_time": 1768532900,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 115301,
       "num": 115301,
       "word": "赵丽颖政农商三部曲",
@@ -10763,6 +10899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 114460,
+      "num": 114460,
+      "word": "檀健次新剧配角阵容",
+      "onboard_time": 1768539441,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114371,
       "num": 114371,
       "word": "脾胃不好多吃金银饭",
@@ -10865,6 +11009,14 @@
       "onboard_time": 1768140321,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113738,
+      "num": 113738,
+      "word": "坚持早睡一年的身体变化",
+      "onboard_time": 1768539321,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 113725,
@@ -11595,6 +11747,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 108295,
+      "num": 108295,
+      "word": "小城大事这段封神",
+      "onboard_time": 1768538242,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108135,
       "num": 108135,
       "word": "荣昌卤鹅哥带卤鹅支持呆呆杀猪宴",
@@ -11835,6 +11995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106409,
+      "num": 106409,
+      "word": "刘亦菲 模糊的画质清晰的美貌",
+      "onboard_time": 1768536921,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106293,
       "num": 106293,
       "word": "孙颖莎玩自己的手办",
@@ -11857,6 +12025,14 @@
       "onboard_time": 1768533500,
       "rank": 42,
       "category": "数码,民生新闻"
+    },
+    {
+      "raw_hot": 106262,
+      "num": 103858,
+      "word": "张新成你别演了我害怕",
+      "onboard_time": 1768539262,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 106233,
@@ -12507,6 +12683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 100756,
+      "num": 100756,
+      "word": "云南民宿协会回应携程涉嫌垄断",
+      "onboard_time": 1768539262,
+      "rank": 48,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 100740,
       "num": 157905,
       "word": "河南五名大学教师被处罚",
@@ -13067,6 +13251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97010,
+      "num": 97010,
+      "word": "鹅鸭杀好人穿搭",
+      "onboard_time": 1768539503,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 96929,
       "num": 223170,
       "word": "男子杀害22岁前女友一审被判死刑",
@@ -13545,14 +13737,6 @@
       "onboard_time": 1768387282,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 93855,
-      "num": 93855,
-      "word": "刘亦菲 模糊的画质清晰的美貌",
-      "onboard_time": 1768536921,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 93781,
@@ -14707,6 +14891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85846,
+      "num": 209614,
+      "word": "西贝公关副总裁回应离职",
+      "onboard_time": 1768538782,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85803,
       "num": 95423,
       "word": "被奥运拒之门外后的加时赛",
@@ -14881,14 +15073,6 @@
       "onboard_time": 1768480160,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 83918,
-      "num": 139021,
-      "word": "杨洋将福气与贵气刻进骨子里",
-      "onboard_time": 1768536201,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 83891,
@@ -15337,14 +15521,6 @@
       "onboard_time": 1768492400,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 80438,
-      "num": 89381,
-      "word": "减肥大忌TOP1",
-      "onboard_time": 1768536681,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 80408,

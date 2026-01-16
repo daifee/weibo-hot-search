@@ -1,10 +1,10 @@
 {
   "startTime": 1768495443021,
-  "endTime": 1768536995944,
+  "endTime": 1768539536837,
   "band_list": [
     {
       "raw_hot": 4325889,
-      "num": 239146,
+      "num": 310279,
       "word": "李湘全平台账号被禁止关注",
       "onboard_time": 1768532959,
       "rank": 10,
@@ -35,20 +35,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 667978,
+      "num": 1106876,
+      "word": "携程",
+      "onboard_time": 1768529719,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 652660,
       "num": 454936,
       "word": "被逼婚喝农药女子已清醒",
       "onboard_time": 1768527919,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 638105,
-      "num": 1102096,
-      "word": "携程",
-      "onboard_time": 1768529719,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 600727,
@@ -68,11 +68,19 @@
     },
     {
       "raw_hot": 573227,
-      "num": 231973,
+      "num": 309586,
       "word": "徐明浩驾龄7年回国考科一挂了",
       "onboard_time": 1768533862,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 557204,
+      "num": 557204,
+      "word": "杀猪宴翻车博主已到派出所谈话",
+      "onboard_time": 1768536562,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 533457,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 440736,
-      "num": 807468,
+      "num": 823621,
       "word": "有人在宜家5折捡漏原价2800元的床",
       "onboard_time": 1768532840,
       "rank": 3,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 411381,
-      "num": 220367,
+      "num": 305684,
       "word": "赵丽颖ELLE封面",
       "onboard_time": 1768534761,
       "rank": 13,
@@ -171,12 +179,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 335061,
+      "num": 307720,
+      "word": "宋威龙抱赵今麦 主打一个忘本",
+      "onboard_time": 1768535841,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334049,
       "num": 140726,
       "word": "江西杀猪宴跟风呆呆翻车",
       "onboard_time": 1768494619,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 331781,
+      "num": 305948,
+      "word": "平台客服回应李湘被禁止关注",
+      "onboard_time": 1768537942,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 327972,
+      "num": 327972,
+      "word": "第一次见双胞胎不是一个物种",
+      "onboard_time": 1768534582,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 326199,
+      "num": 308493,
+      "word": "减肥大忌TOP1",
+      "onboard_time": 1768536681,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 319442,
@@ -188,27 +228,19 @@
     },
     {
       "raw_hot": 311543,
-      "num": 311543,
+      "num": 558077,
       "word": "洪秀柱说早晚要统一不如赶快统一",
       "onboard_time": 1768533921,
       "rank": 4,
       "category": "国内时政"
     },
     {
-      "raw_hot": 300103,
-      "num": 154559,
+      "raw_hot": 308118,
+      "num": 204839,
       "word": "携程被多次约谈仍不改",
       "onboard_time": 1768535241,
       "rank": 21,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 291345,
-      "num": 225966,
-      "word": "第一次见双胞胎不是一个物种",
-      "onboard_time": 1768534582,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 268328,
@@ -267,6 +299,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 229514,
+      "num": 560630,
+      "word": "无限暖暖",
+      "onboard_time": 1768537762,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 229375,
       "num": 115296,
       "word": "私生活这么干净为什么作息这么乱",
@@ -299,6 +339,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209922,
+      "num": 209922,
+      "word": "虞书欣名誉权纠纷案将二审",
+      "onboard_time": 1768538423,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 209399,
+      "num": 209399,
+      "word": "杨洋将福气与贵气刻进骨子里",
+      "onboard_time": 1768536201,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204620,
       "num": 91264,
       "word": "杜海涛回应交通银行口误事件",
@@ -315,12 +371,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200494,
-      "num": 200494,
-      "word": "宋威龙抱赵今麦 主打一个忘本",
-      "onboard_time": 1768535841,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 201362,
+      "num": 311981,
+      "word": "星穹铁道4.0新角色首曝",
+      "onboard_time": 1768538721,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 195733,
+      "num": 195733,
+      "word": "云旗郝熠然红秀双人封面",
+      "onboard_time": 1768539503,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 191346,
@@ -371,6 +435,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 178417,
+      "num": 178417,
+      "word": "鬼鬼回应排挤炎亚纶",
+      "onboard_time": 1768538180,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174939,
       "num": 174939,
       "word": "家属回应流落柬埔寨女网红回国现状",
@@ -395,12 +467,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166592,
-      "num": 143582,
-      "word": "杀猪宴翻车博主已到派出所谈话",
-      "onboard_time": 1768536562,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 163475,
+      "num": 163475,
+      "word": "GQ开年王嘉尔回归封面",
+      "onboard_time": 1768538661,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 159916,
@@ -427,6 +499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156469,
+      "num": 311057,
+      "word": "贺娇龙公开悼念仪式在昭苏举行",
+      "onboard_time": 1768536081,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155483,
       "num": 140739,
       "word": "女网红在飞机上突然焦虑症发作",
@@ -451,12 +531,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151300,
+      "num": 151300,
+      "word": "不油不腻不老不登",
+      "onboard_time": 1768538900,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 150935,
+      "num": 168746,
+      "word": "俄男子从5楼纵身跳进雪堆未受伤",
+      "onboard_time": 1768534702,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 149676,
       "num": 149676,
       "word": "向华强自曝助手冒名诈骗他人10亿",
       "onboard_time": 1768527020,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147333,
+      "num": 139329,
+      "word": "谁说张凌赫同时演杨过小龙女的",
+      "onboard_time": 1768538841,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 146906,
@@ -483,12 +587,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139485,
+      "num": 139485,
+      "word": "胖东来599元羽绒服充绒量213克",
+      "onboard_time": 1768539022,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138989,
+      "num": 138989,
+      "word": "西贝公关副总裁离职",
+      "onboard_time": 1768533440,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137135,
+      "num": 137135,
+      "word": "背了一页单词就出国了",
+      "onboard_time": 1768538601,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135471,
       "num": 135471,
       "word": "清融 花海",
       "onboard_time": 1768526061,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 134532,
+      "num": 134532,
+      "word": "你身上有他的烧烤味是我鼻子犯的罪",
+      "onboard_time": 1768538601,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 130828,
@@ -513,22 +649,6 @@
       "onboard_time": 1768479920,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129657,
-      "num": 129657,
-      "word": "贺娇龙公开悼念仪式在昭苏举行",
-      "onboard_time": 1768536081,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129196,
-      "num": 129196,
-      "word": "西贝公关副总裁离职",
-      "onboard_time": 1768533440,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129081,
@@ -571,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122406,
+      "num": 122406,
+      "word": "不内耗的人脑子里是这么想的",
+      "onboard_time": 1768532900,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121034,
       "num": 121034,
       "word": "轧戏王光明出轨",
@@ -585,6 +713,14 @@
       "onboard_time": 1768527919,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120934,
+      "num": 120934,
+      "word": "腹腔妊娠胎儿存活率仅为1%",
+      "onboard_time": 1768537942,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 119508,
@@ -603,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118013,
+      "num": 118013,
+      "word": "万能的大熊挑动消费群体对立被点名",
+      "onboard_time": 1768538962,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 115857,
       "num": 115857,
       "word": "黄晓明提前一个月背词那场戏播了",
@@ -611,12 +755,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115624,
-      "num": 115624,
-      "word": "不内耗的人脑子里是这么想的",
-      "onboard_time": 1768532900,
-      "rank": 34,
-      "category": "情感"
+      "raw_hot": 114460,
+      "num": 114460,
+      "word": "檀健次新剧配角阵容",
+      "onboard_time": 1768539441,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 114033,
@@ -625,6 +769,14 @@
       "onboard_time": 1768522220,
       "rank": 27,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 113738,
+      "num": 113738,
+      "word": "坚持早睡一年的身体变化",
+      "onboard_time": 1768539321,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 113428,
@@ -675,6 +827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108295,
+      "num": 108295,
+      "word": "小城大事这段封神",
+      "onboard_time": 1768538242,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106502,
       "num": 106502,
       "word": "被逼婚轻生女子认为男方领证后失信",
@@ -683,12 +843,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106409,
+      "num": 106409,
+      "word": "刘亦菲 模糊的画质清晰的美貌",
+      "onboard_time": 1768536921,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106265,
       "num": 106265,
       "word": "内存条价格杀疯了",
       "onboard_time": 1768533500,
       "rank": 42,
       "category": "数码,民生新闻"
+    },
+    {
+      "raw_hot": 106262,
+      "num": 103858,
+      "word": "张新成你别演了我害怕",
+      "onboard_time": 1768539262,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 105708,
@@ -723,6 +899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 100756,
+      "num": 100756,
+      "word": "云南民宿协会回应携程涉嫌垄断",
+      "onboard_time": 1768539262,
+      "rank": 48,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 99651,
       "num": 99651,
       "word": "江浙沪创一代8小时凑出570万",
@@ -755,6 +939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97010,
+      "num": 97010,
+      "word": "鹅鸭杀好人穿搭",
+      "onboard_time": 1768539503,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 96760,
       "num": 96760,
       "word": "果然人上了年纪就自动解锁一些动作",
@@ -785,14 +977,6 @@
       "onboard_time": 1768526239,
       "rank": 35,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 93855,
-      "num": 93855,
-      "word": "刘亦菲 模糊的画质清晰的美貌",
-      "onboard_time": 1768536921,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 93781,
@@ -899,20 +1083,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85846,
+      "num": 209614,
+      "word": "西贝公关副总裁回应离职",
+      "onboard_time": 1768538782,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85397,
       "num": 85397,
       "word": "平台回应女童舞蹈服宣传图像孕肚",
       "onboard_time": 1768527199,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 83918,
-      "num": 139021,
-      "word": "杨洋将福气与贵气刻进骨子里",
-      "onboard_time": 1768536201,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 82708,
@@ -945,14 +1129,6 @@
       "onboard_time": 1768492400,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 80438,
-      "num": 89381,
-      "word": "减肥大忌TOP1",
-      "onboard_time": 1768536681,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 79960,
