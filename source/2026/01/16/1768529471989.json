@@ -1,0 +1,410 @@
+{
+  "runTime": 1768529471989,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 279781,
+        "num": 1044765,
+        "word": "将门毒后",
+        "onboard_time": 1768477940,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233961,
+        "num": 765882,
+        "word": "解放军实战演练斩首行动画面",
+        "onboard_time": 1768518977,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19224,
+        "num": 762243,
+        "word": "中国外贸成就很不平凡",
+        "onboard_time": 1768483222,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 474994,
+        "num": 734274,
+        "word": "女教师群聊八卦被拘起诉公安被驳回",
+        "onboard_time": 1768520298,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253457,
+        "num": 716949,
+        "word": "玉茗茶骨",
+        "onboard_time": 1768492760,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 514780,
+        "num": 697191,
+        "word": "女子药流后腹部隆起才发现胎儿未排",
+        "onboard_time": 1768520119,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 425377,
+        "num": 686740,
+        "word": "马查多把诺贝尔和平奖颁给特朗普",
+        "onboard_time": 1768527557,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95447,
+        "num": 669942,
+        "word": "美甲已经进化成这样了吗",
+        "onboard_time": 1768526479,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 113428,
+        "num": 649829,
+        "word": "人民日报批自媒体摆拍造假",
+        "onboard_time": 1768528458,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43628,
+        "num": 635214,
+        "word": "中方呼吁美国放下武力执念",
+        "onboard_time": 1768528700,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1219910,
+        "num": 616344,
+        "word": "吴佩慈婆婆在美被捕",
+        "onboard_time": 1768524919,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 600727,
+        "num": 600727,
+        "word": "张凌赫给粉丝p图",
+        "onboard_time": 1768524200,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454936,
+        "num": 454936,
+        "word": "被逼婚喝农药女子已清醒",
+        "onboard_time": 1768527919,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 447130,
+        "num": 447130,
+        "word": "花海",
+        "onboard_time": 1768503015,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 319442,
+        "num": 319442,
+        "word": "花海公开聊天记录",
+        "onboard_time": 1768521621,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 300182,
+        "num": 300182,
+        "word": "7岁嫁人15岁生子短剧引众怒",
+        "onboard_time": 1768489043,
+        "rank": 15,
+        "category": "民生新闻,剧集"
+      },
+      {
+        "raw_hot": 268328,
+        "num": 268328,
+        "word": "只要西贝在还跟华与华合作",
+        "onboard_time": 1768526839,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241582,
+        "num": 241582,
+        "word": "当你用父母的方式对待父母",
+        "onboard_time": 1768526659,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 241011,
+        "num": 241011,
+        "word": "何猷君发博支持花海",
+        "onboard_time": 1768523661,
+        "rank": 18,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 217119,
+        "num": 217119,
+        "word": "花海 夏迎春",
+        "onboard_time": 1768523240,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 575535,
+        "num": 208955,
+        "word": "金价彻底杀疯了",
+        "onboard_time": 1768477642,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 382802,
+        "num": 207494,
+        "word": "曝孟子义为将门毒后减重至88斤",
+        "onboard_time": 1768521679,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254552,
+        "num": 204732,
+        "word": "女老板除夕前7天被藏尸商场花坛",
+        "onboard_time": 1768522940,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184796,
+        "num": 184796,
+        "word": "金价上涨银行保管箱一箱难求",
+        "onboard_time": 1768519157,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154516,
+        "num": 154516,
+        "word": "花海 SDG",
+        "onboard_time": 1768524740,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138716,
+        "num": 138716,
+        "word": "向华强自曝助手冒名诈骗他人10亿",
+        "onboard_time": 1768527020,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138228,
+        "num": 138228,
+        "word": "张艺凡肘击丁程鑫",
+        "onboard_time": 1768529178,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114033,
+        "num": 114033,
+        "word": "女子为献熊猫血28年不熬夜",
+        "onboard_time": 1768522220,
+        "rank": 27,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 120976,
+        "num": 114029,
+        "word": "刘佳玺 我们的少年时代2",
+        "onboard_time": 1768527919,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113199,
+        "num": 113199,
+        "word": "短剧选用11岁女童演替嫁新娘",
+        "onboard_time": 1768520359,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108982,
+        "num": 108982,
+        "word": "欧洲多国派兵支援格陵兰岛",
+        "onboard_time": 1768527500,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108735,
+        "num": 108735,
+        "word": "结石姐谈当年在歌手夺冠",
+        "onboard_time": 1768519157,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106972,
+        "num": 106972,
+        "word": "清融 花海",
+        "onboard_time": 1768526061,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105708,
+        "num": 105708,
+        "word": "金店回应情侣因观望多花3万买金饰",
+        "onboard_time": 1768526299,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102408,
+        "num": 102408,
+        "word": "大学生偷外卖被拘通报公示外卖架边",
+        "onboard_time": 1768528879,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91843,
+        "num": 91843,
+        "word": "跑5公里走5公里哪个更健康",
+        "onboard_time": 1768526239,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 91261,
+        "num": 91261,
+        "word": "草莓多少钱一斤才合适",
+        "onboard_time": 1768523840,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 89938,
+        "num": 89938,
+        "word": "恋与深空",
+        "onboard_time": 1768525279,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89214,
+        "num": 89214,
+        "word": "首批法国士兵已抵达格陵兰岛",
+        "onboard_time": 1768526659,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14236,
+        "num": 88079,
+        "word": "泰国2起起重机倒塌事故致34人死亡",
+        "onboard_time": 1768528579,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 86147,
+        "num": 87536,
+        "word": "上海大雾",
+        "onboard_time": 1768521319,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87128,
+        "num": 87128,
+        "word": "脑梗早期预兆或是3个部位发麻",
+        "onboard_time": 1768518858,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86457,
+        "num": 86457,
+        "word": "何不同舟渡",
+        "onboard_time": 1768524981,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86383,
+        "num": 86383,
+        "word": "家人回应101岁老人熬夜追剧到凌晨2点",
+        "onboard_time": 1768525279,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86307,
+        "num": 86307,
+        "word": "黄金白银走低",
+        "onboard_time": 1768527799,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 85397,
+        "num": 85397,
+        "word": "平台回应女童舞蹈服宣传图像孕肚",
+        "onboard_time": 1768527199,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81404,
+        "num": 81404,
+        "word": "秒回消息正在毁掉职场人",
+        "onboard_time": 1768529420,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79367,
+        "num": 79367,
+        "word": "一头400斤的猪存放一整年",
+        "onboard_time": 1768526779,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77888,
+        "num": 77888,
+        "word": "私生活这么干净为什么作息这么乱",
+        "onboard_time": 1768480581,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77574,
+        "num": 77574,
+        "word": "香奈儿一专柜被曝使用过期产品做护理",
+        "onboard_time": 1768527979,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的治权之喻#"
+    }
+  }
+}
