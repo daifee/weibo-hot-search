@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768581578200,
+  "endTime": 1768582493932,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -3187,6 +3187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 573276,
+      "num": 530395,
+      "word": "推特",
+      "onboard_time": 1768580059,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 573227,
       "num": 309586,
       "word": "徐明浩驾龄7年回国考科一挂了",
@@ -3777,14 +3785,6 @@
       "onboard_time": 1767440366,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 530395,
-      "num": 530395,
-      "word": "推特",
-      "onboard_time": 1768580059,
-      "rank": 11,
-      "category": "互联网"
     },
     {
       "raw_hot": 529697,
@@ -31435,6 +31435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105764,
+      "num": 746439,
+      "word": "退休老人回应3年演200多部短剧",
+      "onboard_time": 1768577001,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105733,
       "num": 105733,
       "word": "叶祖新 再也不自作多情了",
@@ -35233,14 +35241,6 @@
       "onboard_time": 1767517102,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 95778,
-      "num": 746439,
-      "word": "退休老人回应3年演200多部短剧",
-      "onboard_time": 1768577001,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95756,
@@ -46203,6 +46203,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 57870,
+      "num": 112003,
+      "word": "王力宏唱shallow其实很deep",
+      "onboard_time": 1768581079,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 57757,
       "num": 134440,
       "word": "委代总统宣誓将解救马杜罗",
@@ -46843,14 +46851,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 53308,
-      "num": 109587,
-      "word": "王力宏唱shallow其实很deep",
-      "onboard_time": 1768581079,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 53294,
       "num": 188877,
       "word": "救孙伤人服刑8月获国赔17万元",
@@ -47147,6 +47147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 51485,
+      "num": 111946,
+      "word": "电影爆水管",
+      "onboard_time": 1768578624,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 51446,
       "num": 330506,
       "word": "王励勤改革剑指奥运新周期",
@@ -47249,14 +47257,6 @@
       "onboard_time": 1767324320,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 50727,
-      "num": 109322,
-      "word": "电影爆水管",
-      "onboard_time": 1768578624,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 50678,
@@ -51043,6 +51043,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 28573,
+      "num": 112433,
+      "word": "山区公交为接一个女生上学单设一站",
+      "onboard_time": 1768581260,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28542,
       "num": 151106,
       "word": "多地低空经济开年起飞",
@@ -51569,14 +51577,6 @@
       "onboard_time": 1768442360,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 25574,
-      "num": 109166,
-      "word": "山区公交为接一个女生上学单设一站",
-      "onboard_time": 1768581260,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25563,

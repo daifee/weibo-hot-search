@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/11 00:34:00 ~ 2026/01/17 00:39:38
+本榜单时间：2026/01/11 00:34:00 ~ 2026/01/17 00:54:53
 </p>
 </blockquote>
 <p>
@@ -1095,6 +1095,12 @@ CSGO（热度：630992）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8E%A8%E7%89%B9%23" target="weibo">
+推特（热度：573276）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%98%8E%E6%B5%A9%E9%A9%BE%E9%BE%847%E5%B9%B4%E5%9B%9E%E5%9B%BD%E8%80%83%E7%A7%91%E4%B8%80%E6%8C%82%E4%BA%86%23" target="weibo">
 徐明浩驾龄7年回国考科一挂了（热度：573227）
 </a>
@@ -1277,12 +1283,6 @@ CSGO（热度：630992）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8D%AF%E6%B5%81%E5%90%8E%E8%85%B9%E9%83%A8%E9%9A%86%E8%B5%B7%E6%89%8D%E5%8F%91%E7%8E%B0%E8%83%8E%E5%84%BF%E6%9C%AA%E6%8E%92%23" target="weibo">
 女子药流后腹部隆起才发现胎儿未排（热度：533457）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8E%A8%E7%89%B9%23" target="weibo">
-推特（热度：530395）
 </a>
 </li>
 
@@ -10017,6 +10017,12 @@ iOS26升级率被严重低估（热度：105915）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%80%E4%BC%91%E8%80%81%E4%BA%BA%E5%9B%9E%E5%BA%943%E5%B9%B4%E6%BC%94200%E5%A4%9A%E9%83%A8%E7%9F%AD%E5%89%A7%23" target="weibo">
+退休老人回应3年演200多部短剧（热度：105764）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%BA%97%E5%9B%9E%E5%BA%94%E6%83%85%E4%BE%A3%E5%9B%A0%E8%A7%82%E6%9C%9B%E5%A4%9A%E8%8A%B13%E4%B8%87%E4%B9%B0%E9%87%91%E9%A5%B0%23" target="weibo">
 金店回应情侣因观望多花3万买金饰（热度：105708）
 </a>
@@ -11165,12 +11171,6 @@ iPhone里最容易忽略的效率神器（热度：96582）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E6%9C%89%E8%BF%99%E5%BC%A0%E8%84%B8%E8%BF%99%E5%BC%A0%E5%98%B4%E6%8B%BF%E4%BB%80%E4%B9%88%E8%BE%93%23" target="weibo">
 侯明昊有这张脸这张嘴拿什么输（热度：95841）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%80%80%E4%BC%91%E8%80%81%E4%BA%BA%E5%9B%9E%E5%BA%943%E5%B9%B4%E6%BC%94200%E5%A4%9A%E9%83%A8%E7%9F%AD%E5%89%A7%23" target="weibo">
-退休老人回应3年演200多部短剧（热度：95778）
 </a>
 </li>
 
@@ -14439,6 +14439,12 @@ sakee asen（热度：58695）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%94%B1shallow%E5%85%B6%E5%AE%9E%E5%BE%88deep%23" target="weibo">
+王力宏唱shallow其实很deep（热度：57870）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%94%E4%BB%A3%E6%80%BB%E7%BB%9F%E5%AE%A3%E8%AA%93%E5%B0%86%E8%A7%A3%E6%95%91%E9%A9%AC%E6%9D%9C%E7%BD%97%23" target="weibo">
 委代总统宣誓将解救马杜罗（热度：57757）
 </a>
@@ -14559,12 +14565,6 @@ WE对战RNGM（热度：55490）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%94%B1shallow%E5%85%B6%E5%AE%9E%E5%BE%88deep%23" target="weibo">
-王力宏唱shallow其实很deep（热度：53308）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%90%AF%E8%B1%AA3%E6%AF%942%E6%A2%81%E9%9D%96%E5%B4%91%23" target="weibo">
 周启豪3比2梁靖崑（热度：52918）
 </a>
@@ -14625,6 +14625,12 @@ WE对战RNGM（热度：55490）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E7%88%86%E6%B0%B4%E7%AE%A1%23" target="weibo">
+电影爆水管（热度：51485）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%B1%E5%8B%A4%E6%94%B9%E9%9D%A9%E5%89%91%E6%8C%87%E5%A5%A5%E8%BF%90%E6%96%B0%E5%91%A8%E6%9C%9F%23" target="weibo">
 王励勤改革剑指奥运新周期（热度：51446）
 </a>
@@ -14663,12 +14669,6 @@ WE对战RNGM（热度：55490）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E6%94%BF%E5%B8%82%E5%9C%BA%E7%88%86%E5%8D%95%E4%BA%86%23" target="weibo">
 家政市场爆单了（热度：51042）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E7%88%86%E6%B0%B4%E7%AE%A1%23" target="weibo">
-电影爆水管（热度：50727）
 </a>
 </li>
 
@@ -15609,6 +15609,12 @@ WB战胜AG（热度：32193）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%8C%BA%E5%85%AC%E4%BA%A4%E4%B8%BA%E6%8E%A5%E4%B8%80%E4%B8%AA%E5%A5%B3%E7%94%9F%E4%B8%8A%E5%AD%A6%E5%8D%95%E8%AE%BE%E4%B8%80%E7%AB%99%23" target="weibo">
+山区公交为接一个女生上学单设一站（热度：28573）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E%E5%BC%80%E5%B9%B4%E8%B5%B7%E9%A3%9E%23" target="weibo">
 多地低空经济开年起飞（热度：28542）
 </a>
@@ -15767,12 +15773,6 @@ iG对战AL（热度：26734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AF%B9%E7%89%B9%E5%AE%9A%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%AD%89%E5%8A%A0%E5%BE%8125%25%E5%85%B3%E7%A8%8E%23" target="weibo">
 美对特定半导体等加征25%关税（热度：25606）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%8C%BA%E5%85%AC%E4%BA%A4%E4%B8%BA%E6%8E%A5%E4%B8%80%E4%B8%AA%E5%A5%B3%E7%94%9F%E4%B8%8A%E5%AD%A6%E5%8D%95%E8%AE%BE%E4%B8%80%E7%AB%99%23" target="weibo">
-山区公交为接一个女生上学单设一站（热度：25574）
 </a>
 </li>
 
