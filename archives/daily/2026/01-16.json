@@ -1,6 +1,6 @@
 {
   "startTime": 1768495443021,
-  "endTime": 1768529471989,
+  "endTime": 1768530915880,
   "band_list": [
     {
       "raw_hot": 1219910,
@@ -27,6 +27,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 652660,
+      "num": 454936,
+      "word": "被逼婚喝农药女子已清醒",
+      "onboard_time": 1768527919,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 600727,
       "num": 600727,
       "word": "张凌赫给粉丝p图",
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 590289,
-      "num": 1044765,
+      "num": 1045091,
       "word": "将门毒后",
       "onboard_time": 1768477940,
       "rank": 0,
@@ -75,12 +83,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 454936,
-      "num": 454936,
-      "word": "被逼婚喝农药女子已清醒",
-      "onboard_time": 1768527919,
-      "rank": 12,
-      "category": "民生新闻"
+      "raw_hot": 450759,
+      "num": 686740,
+      "word": "马查多把诺贝尔和平奖颁给特朗普",
+      "onboard_time": 1768527557,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 447130,
@@ -89,14 +97,6 @@
       "onboard_time": 1768503015,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 425377,
-      "num": 686740,
-      "word": "马查多把诺贝尔和平奖颁给特朗普",
-      "onboard_time": 1768527557,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 424225,
@@ -131,12 +131,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 278617,
+      "num": 759202,
+      "word": "携程",
+      "onboard_time": 1768529719,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 268328,
       "num": 268328,
       "word": "只要西贝在还跟华与华合作",
       "onboard_time": 1768526839,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259424,
+      "num": 181694,
+      "word": "张艺凡肘击丁程鑫",
+      "onboard_time": 1768529178,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 254552,
@@ -153,6 +169,14 @@
       "onboard_time": 1768492760,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 249657,
+      "num": 669942,
+      "word": "美甲已经进化成这样了吗",
+      "onboard_time": 1768526479,
+      "rank": 7,
+      "category": "美妆"
     },
     {
       "raw_hot": 241582,
@@ -235,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169121,
+      "num": 169121,
+      "word": "左航换手机",
+      "onboard_time": 1768529899,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159916,
       "num": 140789,
       "word": "夏迎春下房管",
@@ -275,6 +307,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149676,
+      "num": 149676,
+      "word": "向华强自曝助手冒名诈骗他人10亿",
+      "onboard_time": 1768527020,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148454,
+      "num": 148454,
+      "word": "大学生偷外卖被拘通报公示外卖架边",
+      "onboard_time": 1768528879,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143540,
       "num": 143540,
       "word": "特朗普直播打瞌睡被小女孩发现",
@@ -291,20 +339,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138716,
-      "num": 138716,
-      "word": "向华强自曝助手冒名诈骗他人10亿",
-      "onboard_time": 1768527020,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 138228,
-      "num": 138228,
-      "word": "张艺凡肘击丁程鑫",
-      "onboard_time": 1768529178,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 135471,
+      "num": 135471,
+      "word": "清融 花海",
+      "onboard_time": 1768526061,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 130828,
@@ -411,14 +451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106972,
-      "num": 106972,
-      "word": "清融 花海",
-      "onboard_time": 1768526061,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 105708,
       "num": 105708,
       "word": "金店回应情侣因观望多花3万买金饰",
@@ -435,12 +467,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102408,
-      "num": 102408,
-      "word": "大学生偷外卖被拘通报公示外卖架边",
-      "onboard_time": 1768528879,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 101827,
+      "num": 101827,
+      "word": "首批法国士兵已抵达格陵兰岛",
+      "onboard_time": 1768526659,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 98104,
@@ -459,12 +491,36 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 95447,
-      "num": 669942,
-      "word": "美甲已经进化成这样了吗",
-      "onboard_time": 1768526479,
-      "rank": 7,
-      "category": "美妆"
+      "raw_hot": 94977,
+      "num": 94977,
+      "word": "跑5公里走5公里哪个更健康",
+      "onboard_time": 1768526239,
+      "rank": 35,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 93781,
+      "num": 93781,
+      "word": "16G内存条的价格涨幅超过3倍",
+      "onboard_time": 1768530622,
+      "rank": 31,
+      "category": "数码,财经"
+    },
+    {
+      "raw_hot": 92769,
+      "num": 92769,
+      "word": "凌晨2点睡不一定是熬夜",
+      "onboard_time": 1768530678,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 92520,
+      "num": 92520,
+      "word": "恋与深空",
+      "onboard_time": 1768525279,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 92373,
@@ -475,28 +531,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 91843,
-      "num": 91843,
-      "word": "跑5公里走5公里哪个更健康",
-      "onboard_time": 1768526239,
-      "rank": 35,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 91261,
       "num": 91261,
       "word": "草莓多少钱一斤才合适",
       "onboard_time": 1768523840,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 89938,
-      "num": 89938,
-      "word": "恋与深空",
-      "onboard_time": 1768525279,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 89824,
@@ -507,12 +547,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89214,
-      "num": 89214,
-      "word": "首批法国士兵已抵达格陵兰岛",
-      "onboard_time": 1768526659,
-      "rank": 38,
-      "category": "国际时政"
+      "raw_hot": 86827,
+      "num": 86827,
+      "word": "华杉曾流泪劝阻贾国龙",
+      "onboard_time": 1768529958,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86558,
@@ -571,6 +611,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82708,
+      "num": 82708,
+      "word": "将门毒后编剧团队被扒缺乏古装经验",
+      "onboard_time": 1768529719,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 81409,
+      "num": 81409,
+      "word": "白银涨幅是黄金的2.5倍",
+      "onboard_time": 1768529899,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 81404,
       "num": 81404,
       "word": "秒回消息正在毁掉职场人",
@@ -595,8 +651,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79367,
-      "num": 79367,
+      "raw_hot": 79429,
+      "num": 79429,
       "word": "一头400斤的猪存放一整年",
       "onboard_time": 1768526779,
       "rank": 47,
@@ -651,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71656,
+      "num": 71656,
+      "word": "被小朋友们稚嫩的手撑了一次腰",
+      "onboard_time": 1768527319,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 70839,
       "num": 70839,
       "word": "骄阳似我",
@@ -659,12 +723,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70786,
+      "num": 70786,
+      "word": "香港一男子带刀劫持人质被击毙",
+      "onboard_time": 1768530199,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69850,
       "num": 69850,
       "word": "代旭的耳机戴出了耳钉的感觉",
       "onboard_time": 1768499236,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69361,
+      "num": 635214,
+      "word": "中方呼吁美国放下武力执念",
+      "onboard_time": 1768528700,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 68159,
@@ -843,14 +923,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 43628,
-      "num": 635214,
-      "word": "中方呼吁美国放下武力执念",
-      "onboard_time": 1768528700,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 42710,
       "num": 74976,
       "word": "蔡徐坤采访路人",
@@ -899,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39549,
+      "num": 100249,
+      "word": "特朗普回应被赠诺奖奖章",
+      "onboard_time": 1768529657,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 39141,
       "num": 39141,
       "word": "库明加申请交易",
@@ -913,6 +993,14 @@
       "onboard_time": 1768515374,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38006,
+      "num": 79455,
+      "word": "丹麦说美国仍欲接管格陵兰岛",
+      "onboard_time": 1768529839,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33455,
@@ -977,6 +1065,14 @@
       "onboard_time": 1768509553,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19395,
+      "num": 73892,
+      "word": "俄回应特朗普对伊朗贸易伙伴加税",
+      "onboard_time": 1768530859,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 19224,
