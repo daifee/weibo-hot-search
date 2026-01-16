@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/11 00:34:00 ~ 2026/01/17 02:43:37
+本榜单时间：2026/01/11 00:34:00 ~ 2026/01/17 02:56:46
 </p>
 </blockquote>
 <p>
@@ -16199,6 +16199,12 @@ iG对战AL（热度：26734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%BB%BA%E5%AE%87%E6%96%B0%E6%AD%8Cchemical%23" target="weibo">
 冯建宇新歌chemical（热度：18907）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%E5%8D%8E%E6%B5%81%E5%AD%A3%23" target="weibo">
+声生不息华流季（热度：18896）
 </a>
 </li>
 

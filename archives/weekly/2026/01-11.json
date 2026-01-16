@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768589017482,
+  "endTime": 1768589806587,
   "band_list": [
     {
       "raw_hot": 9503714,
@@ -21585,6 +21585,14 @@
       "onboard_time": 1768500915,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 18896,
+      "num": 41739,
+      "word": "声生不息华流季",
+      "onboard_time": 1768589534,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 18754,
