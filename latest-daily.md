@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/17 00:39:38 ~ 2026/01/17 01:48:39
+本榜单时间：2026/01/17 00:39:38 ~ 2026/01/17 02:43:37
 </p>
 </blockquote>
 <p>
@@ -375,8 +375,20 @@ WTT多哈球星挑战赛（热度：28668）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+薛之谦演唱会（热度：19343）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E6%AD%8C%23" target="weibo">
+有歌（热度：15640）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232025%E8%BF%99%E4%BA%9B%E4%B8%AD%E5%9B%BD%E5%A5%BD%E7%89%A9%E5%85%A8%E7%90%83%E5%9C%88%E7%B2%89%23" target="weibo">
-2025这些中国好物全球圈粉（热度：12989）
+2025这些中国好物全球圈粉（热度：13134）
 </a>
 </li>
 
