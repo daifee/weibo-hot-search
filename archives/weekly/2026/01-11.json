@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768577571362,
+  "endTime": 1768578466185,
   "band_list": [
     {
       "raw_hot": 9503714,
@@ -483,6 +483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1010218,
+      "num": 651882,
+      "word": "日本被打到七寸了",
+      "onboard_time": 1768570521,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 991913,
       "num": 253182,
       "word": "罗永浩 西贝",
@@ -529,14 +537,6 @@
       "onboard_time": 1768458979,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 940218,
-      "num": 651882,
-      "word": "日本被打到七寸了",
-      "onboard_time": 1768570521,
-      "rank": 20,
-      "category": "国内时政"
     },
     {
       "raw_hot": 930929,
@@ -1955,6 +1955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 489758,
+      "num": 377887,
+      "word": "黄慧颐晒结婚证",
+      "onboard_time": 1768575025,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 488051,
       "num": 238737,
       "word": "初老症状",
@@ -2281,14 +2289,6 @@
       "onboard_time": 1768202601,
       "rank": 17,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 451511,
-      "num": 377887,
-      "word": "黄慧颐晒结婚证",
-      "onboard_time": 1768575025,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 450759,
@@ -2819,6 +2819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 397445,
+      "num": 447482,
+      "word": "追母亲去世女孩舅舅发声",
+      "onboard_time": 1768573282,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 395369,
       "num": 175887,
       "word": "王俊凯鞋底是红袜子",
@@ -3056,14 +3064,6 @@
       "word": "与辉同行83元3只皖西麻黄鸡引质疑",
       "onboard_time": 1768363821,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 372012,
-      "num": 447482,
-      "word": "追母亲去世女孩舅舅发声",
-      "onboard_time": 1768573282,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -4995,6 +4995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244319,
+      "num": 814225,
+      "word": "加拿大将进口4.9万辆中国电车",
+      "onboard_time": 1768570581,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 243636,
       "num": 243636,
       "word": "黄海城会是孙颖莎主管教练吗",
@@ -5257,14 +5265,6 @@
       "onboard_time": 1768362861,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231129,
-      "num": 814225,
-      "word": "加拿大将进口4.9万辆中国电车",
-      "onboard_time": 1768570581,
-      "rank": 34,
-      "category": "汽车"
     },
     {
       "raw_hot": 230824,
@@ -6820,7 +6820,7 @@
     },
     {
       "raw_hot": 186607,
-      "num": 491927,
+      "num": 528788,
       "word": "单依纯珠玉后继有人了",
       "onboard_time": 1768572083,
       "rank": 24,
@@ -15971,6 +15971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89080,
+      "num": 459016,
+      "word": "冰岛怒了",
+      "onboard_time": 1768577063,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 89024,
       "num": 207774,
       "word": "王格格王皓祯方夏扫楼差点亲上",
@@ -17057,6 +17065,14 @@
       "onboard_time": 1768270520,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81919,
+      "num": 336102,
+      "word": "景瓷线下美成洋娃娃了",
+      "onboard_time": 1768577962,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 81909,
@@ -18483,6 +18499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69156,
+      "num": 373181,
+      "word": "退休老人回应3年演200多部短剧",
+      "onboard_time": 1768577001,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68881,
       "num": 229806,
       "word": "医保局回应退休人员产检可报销",
@@ -19123,14 +19147,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 59495,
-      "num": 402671,
-      "word": "冰岛怒了",
-      "onboard_time": 1768577063,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 59333,
       "num": 286402,
       "word": "金粒门致歉",
@@ -19241,6 +19257,14 @@
       "onboard_time": 1768378102,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 56645,
+      "num": 393501,
+      "word": "日本网帖煽动对高考考生性骚扰",
+      "onboard_time": 1768577122,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 56614,
@@ -19371,6 +19395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52892,
+      "num": 325602,
+      "word": "打扮得韩里韩气的小狗",
+      "onboard_time": 1768576041,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 52722,
       "num": 133579,
       "word": "骄阳心有林曦参加娇兰晚宴",
@@ -19385,14 +19417,6 @@
       "onboard_time": 1768056621,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 52426,
-      "num": 373181,
-      "word": "退休老人回应3年演200多部短剧",
-      "onboard_time": 1768577001,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52287,
@@ -19441,6 +19465,14 @@
       "onboard_time": 1768097540,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 51446,
+      "num": 330506,
+      "word": "王励勤改革剑指奥运新周期",
+      "onboard_time": 1768575262,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 51383,
@@ -19553,6 +19585,14 @@
       "onboard_time": 1768157474,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49564,
+      "num": 324070,
+      "word": "这声音我是真会睡着",
+      "onboard_time": 1768577721,
+      "rank": 46,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 49482,
@@ -19769,6 +19809,14 @@
       "onboard_time": 1768109361,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43587,
+      "num": 320802,
+      "word": "黄友政陈熠1比3黄镇廷杜凯琹",
+      "onboard_time": 1768578322,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 43549,
@@ -21569,14 +21617,6 @@
       "onboard_time": 1768299741,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16699,
-      "num": 393501,
-      "word": "日本网帖煽动对高考考生性骚扰",
-      "onboard_time": 1768577122,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 16489,

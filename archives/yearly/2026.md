@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/16 23:32:51
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/16 23:47:46
 </p>
 </blockquote>
 <p>
@@ -741,6 +741,12 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%89%93%E5%88%B0%E4%B8%83%E5%AF%B8%E4%BA%86%23" target="weibo">
+日本被打到七寸了（热度：1010218）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%BA%9C%E6%8D%9E%E9%9D%A2%20%E5%8F%AA%E6%9C%89%E9%9D%A2%E7%8E%B0%E7%85%AE%23" target="weibo">
 和府捞面 只有面现煮（热度：1009054）
 </a>
@@ -875,12 +881,6 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2338%E5%B2%81%E5%A5%B3%E5%AD%90%E5%91%95%E5%90%90%E4%B8%80%E5%A4%9C%E5%90%8E%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97%E7%98%AB%E7%97%AA%23" target="weibo">
 38岁女子呕吐一夜后突发脑梗瘫痪（热度：945783）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%89%93%E5%88%B0%E4%B8%83%E5%AF%B8%E4%BA%86%23" target="weibo">
-日本被打到七寸了（热度：940218）
 </a>
 </li>
 

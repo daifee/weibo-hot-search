@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768577571362,
+  "endTime": 1768578466185,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -971,6 +971,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1010218,
+      "num": 651882,
+      "word": "日本被打到七寸了",
+      "onboard_time": 1768570521,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1009054,
       "num": 1161448,
       "word": "和府捞面 只有面现煮",
@@ -1153,14 +1161,6 @@
       "onboard_time": 1768458979,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 940218,
-      "num": 651882,
-      "word": "日本被打到七寸了",
-      "onboard_time": 1768570521,
-      "rank": 20,
-      "category": "国内时政"
     },
     {
       "raw_hot": 940105,
