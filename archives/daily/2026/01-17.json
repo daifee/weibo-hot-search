@@ -1,6 +1,6 @@
 {
   "startTime": 1768581578200,
-  "endTime": 1768592296531,
+  "endTime": 1768595441709,
   "band_list": [
     {
       "raw_hot": 735813,
@@ -529,6 +529,22 @@
       "onboard_time": 1768555822,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 9510,
+      "num": 31730,
+      "word": "中国唱将",
+      "onboard_time": 1768559302,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 8373,
+      "num": 35164,
+      "word": "让绿色发展点亮幸福生活",
+      "onboard_time": 1768568421,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
