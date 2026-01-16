@@ -1,6 +1,6 @@
 {
   "startTime": 1768495443021,
-  "endTime": 1768541619751,
+  "endTime": 1768542581716,
   "band_list": [
     {
       "raw_hot": 4325889,
@@ -35,6 +35,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 699682,
+      "num": 263727,
+      "word": "第五人格 擦边",
+      "onboard_time": 1768540400,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 667978,
       "num": 1106876,
       "word": "携程",
@@ -51,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 650184,
+      "num": 305948,
+      "word": "平台客服回应李湘被禁止关注",
+      "onboard_time": 1768537942,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 600727,
       "num": 600727,
       "word": "张凌赫给粉丝p图",
@@ -65,14 +81,6 @@
       "onboard_time": 1768477940,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 583880,
-      "num": 305948,
-      "word": "平台客服回应李湘被禁止关注",
-      "onboard_time": 1768537942,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 573227,
@@ -96,6 +104,14 @@
       "word": "女子药流后腹部隆起才发现胎儿未排",
       "onboard_time": 1768520119,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 486755,
+      "num": 796433,
+      "word": "胖东来599元羽绒服充绒量213克",
+      "onboard_time": 1768539022,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -155,20 +171,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 427709,
+      "num": 787572,
+      "word": "携程被多次约谈仍不改",
+      "onboard_time": 1768535241,
+      "rank": 21,
+      "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 426100,
+      "num": 175452,
+      "word": "女子向出轨丈夫道歉视频走红",
+      "onboard_time": 1768540941,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 424225,
       "num": 923501,
       "word": "解放军实战演练斩首行动画面",
       "onboard_time": 1768518977,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 416500,
-      "num": 787572,
-      "word": "携程被多次约谈仍不改",
-      "onboard_time": 1768535241,
-      "rank": 21,
-      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 411381,
@@ -235,14 +259,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 312526,
-      "num": 263727,
-      "word": "第五人格 擦边",
-      "onboard_time": 1768540400,
-      "rank": 11,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 311543,
       "num": 558077,
       "word": "洪秀柱说早晚要统一不如赶快统一",
@@ -251,12 +267,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 291818,
-      "num": 291818,
-      "word": "胖东来599元羽绒服充绒量213克",
-      "onboard_time": 1768539022,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 282410,
+      "num": 178417,
+      "word": "鬼鬼回应排挤炎亚纶",
+      "onboard_time": 1768538180,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 268328,
@@ -315,6 +331,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 238395,
+      "num": 271177,
+      "word": "王一博乐华家族新春单曲part",
+      "onboard_time": 1768540822,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 229514,
       "num": 560630,
       "word": "无限暖暖",
@@ -339,14 +363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 219322,
-      "num": 178417,
-      "word": "鬼鬼回应排挤炎亚纶",
-      "onboard_time": 1768538180,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 217119,
       "num": 217119,
       "word": "花海 夏迎春",
@@ -363,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213801,
+      "num": 170285,
+      "word": "马思纯这个广告片哪个神人想的",
+      "onboard_time": 1768541422,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 209922,
       "num": 209922,
       "word": "虞书欣名誉权纠纷案将二审",
@@ -377,6 +401,14 @@
       "onboard_time": 1768536201,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205174,
+      "num": 169377,
+      "word": "鹅鸭杀一起发财鸭",
+      "onboard_time": 1768542022,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 204620,
@@ -403,28 +435,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 198570,
-      "num": 170285,
-      "word": "马思纯这个广告片哪个神人想的",
-      "onboard_time": 1768541422,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 195733,
       "num": 195733,
       "word": "云旗郝熠然红秀双人封面",
       "onboard_time": 1768539503,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 193337,
-      "num": 271177,
-      "word": "王一博乐华家族新春单曲part",
-      "onboard_time": 1768540822,
-      "rank": 8,
-      "category": "音乐"
     },
     {
       "raw_hot": 191346,
@@ -435,20 +451,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188775,
+      "num": 238427,
+      "word": "寂静岭护士超模回来了",
+      "onboard_time": 1768540223,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185600,
       "num": 185600,
       "word": "轧戏 图书馆30秒",
       "onboard_time": 1768481900,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 185496,
-      "num": 238427,
-      "word": "寂静岭护士超模回来了",
-      "onboard_time": 1768540223,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 184796,
@@ -481,6 +497,14 @@
       "onboard_time": 1768531159,
       "rank": 17,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 179111,
+      "num": 179111,
+      "word": "陈星旭我少女时代的男主角",
+      "onboard_time": 1768542260,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 178673,
@@ -521,6 +545,14 @@
       "onboard_time": 1768519157,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166394,
+      "num": 166394,
+      "word": "坐高铁可以不用自己扛行李了",
+      "onboard_time": 1768541721,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164380,
@@ -705,14 +737,6 @@
       "onboard_time": 1768479920,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129215,
-      "num": 129215,
-      "word": "女子向出轨丈夫道歉视频走红",
-      "onboard_time": 1768540941,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129081,
@@ -947,6 +971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105424,
+      "num": 103463,
+      "word": "辛芷蕾 解约第一件事是剪短发",
+      "onboard_time": 1768542440,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 103442,
       "num": 124851,
       "word": "贾国龙朋友圈称尽力了",
@@ -1003,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97286,
+      "num": 97286,
+      "word": "贾国龙回应西贝公关副总裁离职",
+      "onboard_time": 1768542260,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97284,
       "num": 97284,
       "word": "驾驶技术已经进化到这种程度了吗",
@@ -1049,6 +1089,14 @@
       "onboard_time": 1768526239,
       "rank": 35,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 93928,
+      "num": 93928,
+      "word": "苹果以旧换新抵扣价再更新",
+      "onboard_time": 1768542260,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 93781,
@@ -1123,6 +1171,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87306,
+      "num": 87306,
+      "word": "Tian说LPL没有危机感",
+      "onboard_time": 1768541422,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 86843,
+      "num": 86843,
+      "word": "小猫急得要说话了",
+      "onboard_time": 1768542141,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86827,
       "num": 86827,
       "word": "华杉曾流泪劝阻贾国龙",
@@ -1187,14 +1251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85832,
-      "num": 85832,
-      "word": "Tian说LPL没有危机感",
-      "onboard_time": 1768541422,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 85397,
       "num": 85397,
       "word": "平台回应女童舞蹈服宣传图像孕肚",
@@ -1209,6 +1265,14 @@
       "onboard_time": 1768529719,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81791,
+      "num": 81791,
+      "word": "王嘉尔港风贵公子",
+      "onboard_time": 1768542322,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 81409,
@@ -1249,6 +1313,14 @@
       "onboard_time": 1768491201,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79496,
+      "num": 79496,
+      "word": "一批汽车行业违法违规账号被处置",
+      "onboard_time": 1768541721,
+      "rank": 47,
+      "category": "汽车,民生新闻"
     },
     {
       "raw_hot": 79429,
@@ -1297,6 +1369,14 @@
       "onboard_time": 1768519218,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 74300,
+      "num": 74300,
+      "word": "咪的身材很曼妙",
+      "onboard_time": 1768539801,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 74152,
@@ -1441,6 +1521,14 @@
       "onboard_time": 1768483281,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 53826,
+      "num": 168759,
+      "word": "新娘喝农药自杀母亲回应逼婚质疑",
+      "onboard_time": 1768541542,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53606,
@@ -1612,7 +1700,7 @@
     },
     {
       "raw_hot": 37453,
-      "num": 638574,
+      "num": 645598,
       "word": "再有一个月就过年啦",
       "onboard_time": 1768532480,
       "rank": 2,
@@ -1625,14 +1713,6 @@
       "onboard_time": 1768489582,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 31408,
-      "num": 91438,
-      "word": "新娘喝农药自杀母亲回应逼婚质疑",
-      "onboard_time": 1768541542,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31113,
@@ -1656,6 +1736,14 @@
       "word": "地表超强材料已实现量产",
       "onboard_time": 1768484060,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30099,
+      "num": 93034,
+      "word": "行业协会有89名副会长引质疑",
+      "onboard_time": 1768541422,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1745,14 +1833,6 @@
       "onboard_time": 1768528579,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 13191,
-      "num": 93034,
-      "word": "行业协会有89名副会长引质疑",
-      "onboard_time": 1768541422,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12088,
