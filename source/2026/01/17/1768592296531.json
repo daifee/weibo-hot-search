@@ -1,0 +1,410 @@
+{
+  "runTime": 1768592296531,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 90392,
+        "num": 90392,
+        "word": "日本网帖煽动对高考考生性骚扰",
+        "onboard_time": 1768577122,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 69576,
+        "num": 69576,
+        "word": "轧戏",
+        "onboard_time": 1768560441,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9087,
+        "num": 43310,
+        "word": "2025这些中国好物全球圈粉",
+        "onboard_time": 1768568661,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 36244,
+        "num": 36244,
+        "word": "陈星旭说戏里骑马一天3000",
+        "onboard_time": 1768584017,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32865,
+        "num": 32865,
+        "word": "胖东来599元羽绒服进价457.9元",
+        "onboard_time": 1768559724,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30682,
+        "num": 32864,
+        "word": "恋与深空直播",
+        "onboard_time": 1768570641,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30161,
+        "num": 32860,
+        "word": "第五人格",
+        "onboard_time": 1768561643,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 29343,
+        "num": 32856,
+        "word": "蔡徐坤印尼节目",
+        "onboard_time": 1768567401,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21216,
+        "num": 32852,
+        "word": "退休老人回应3年演200多部短剧",
+        "onboard_time": 1768577001,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20655,
+        "num": 32848,
+        "word": "泡泡玛特星星人",
+        "onboard_time": 1768560023,
+        "rank": 9,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 98315,
+        "num": 32845,
+        "word": "王玉雯掉马",
+        "onboard_time": 1768575441,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87009,
+        "num": 32844,
+        "word": "推特",
+        "onboard_time": 1768580059,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 52875,
+        "num": 32838,
+        "word": "李湘全平台账号被禁止关注",
+        "onboard_time": 1768532959,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35940,
+        "num": 32836,
+        "word": "巴厘岛吃饭孩子弄倒40万印尼盾餐桌",
+        "onboard_time": 1768563261,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29188,
+        "num": 32830,
+        "word": "花3.9万在鹤岗买房生活的感受",
+        "onboard_time": 1768564583,
+        "rank": 14,
+        "category": "休闲,情感"
+      },
+      {
+        "raw_hot": 28812,
+        "num": 32829,
+        "word": "桃黑黑收到了有史以来最离谱的电动车",
+        "onboard_time": 1768569861,
+        "rank": 15,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 26389,
+        "num": 32826,
+        "word": "陈伟霆米兰走秀",
+        "onboard_time": 1768584376,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23377,
+        "num": 32821,
+        "word": "男子在长沙街头突然昏倒后去世",
+        "onboard_time": 1768575625,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22240,
+        "num": 32817,
+        "word": "杜华回复王一博",
+        "onboard_time": 1768562722,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13397,
+        "num": 32814,
+        "word": "WTT多哈球星挑战赛",
+        "onboard_time": 1768583417,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87464,
+        "num": 32810,
+        "word": "黄慧颐晒结婚证",
+        "onboard_time": 1768575025,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33437,
+        "num": 32806,
+        "word": "陪弟弟割双眼皮结果自己先割上了",
+        "onboard_time": 1768573224,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25885,
+        "num": 32805,
+        "word": "女子为生儿子拿命拼二胎再产一女",
+        "onboard_time": 1768572023,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24413,
+        "num": 32801,
+        "word": "短剧演员上脑综打败清华北大学霸",
+        "onboard_time": 1768575804,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21395,
+        "num": 32799,
+        "word": "陈小群",
+        "onboard_time": 1768568000,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 19794,
+        "num": 32795,
+        "word": "二人因乞讨相恋五年共同收入32万元",
+        "onboard_time": 1768563380,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18700,
+        "num": 32791,
+        "word": "声生不息华流季",
+        "onboard_time": 1768589534,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18335,
+        "num": 32786,
+        "word": "人是经不起反复失望的",
+        "onboard_time": 1768571601,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17370,
+        "num": 32785,
+        "word": "小城大事",
+        "onboard_time": 1768564822,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12782,
+        "num": 32780,
+        "word": "山区公交为接一个女生上学单设一站",
+        "onboard_time": 1768581260,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17307,
+        "num": 32777,
+        "word": "女子吐槽14万的钻石项链200卖不出",
+        "onboard_time": 1768566981,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17148,
+        "num": 32773,
+        "word": "世界之外",
+        "onboard_time": 1768565721,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16241,
+        "num": 32771,
+        "word": "6岁女童发烧17天脑子险被吃掉",
+        "onboard_time": 1768560562,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16189,
+        "num": 32766,
+        "word": "赵今麦从小就会穿",
+        "onboard_time": 1768575922,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15602,
+        "num": 32761,
+        "word": "加拿大将进口4.9万辆中国电车",
+        "onboard_time": 1768570581,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 14958,
+        "num": 32760,
+        "word": "镖人",
+        "onboard_time": 1768555881,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14895,
+        "num": 32757,
+        "word": "剥茧",
+        "onboard_time": 1768583537,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14877,
+        "num": 32753,
+        "word": "日本失控将给日本人民造成毁灭性灾难",
+        "onboard_time": 1768562481,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14556,
+        "num": 32749,
+        "word": "亲手把女儿和她的好朋友拆散了",
+        "onboard_time": 1768580359,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 11958,
+        "num": 32744,
+        "word": "韩国火灾已投入85辆消防车",
+        "onboard_time": 1768555822,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 14496,
+        "num": 32740,
+        "word": "有歌",
+        "onboard_time": 1768567824,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12933,
+        "num": 32736,
+        "word": "饿了去上班下班积食了的工作",
+        "onboard_time": 1768584077,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12685,
+        "num": 32736,
+        "word": "LGDNBW对战狼队",
+        "onboard_time": 1768583717,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 12597,
+        "num": 32730,
+        "word": "单依纯珠玉后继有人了",
+        "onboard_time": 1768572083,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12065,
+        "num": 32727,
+        "word": "TF家族新年音乐会",
+        "onboard_time": 1768571482,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 11946,
+        "num": 32725,
+        "word": "王一博工作室蓝V没了",
+        "onboard_time": 1768557743,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11682,
+        "num": 32721,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1768571361,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 11679,
+        "num": 32716,
+        "word": "器官也能3D打印了",
+        "onboard_time": 1768568302,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 10925,
+        "num": 32714,
+        "word": "杨紫孙俪宋祖儿同框合影",
+        "onboard_time": 1768562001,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10428,
+        "num": 32709,
+        "word": "林昀儒退赛",
+        "onboard_time": 1768576104,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见加拿大总理卡尼#"
+    }
+  }
+}
