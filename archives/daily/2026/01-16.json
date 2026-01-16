@@ -1,6 +1,6 @@
 {
   "startTime": 1768495443021,
-  "endTime": 1768549584269,
+  "endTime": 1768552806279,
   "band_list": [
     {
       "raw_hot": 4325889,
@@ -33,6 +33,14 @@
       "onboard_time": 1768542440,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 930929,
+      "num": 181195,
+      "word": "赵今麦闺蜜是开端导演女儿",
+      "onboard_time": 1768548261,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 848134,
@@ -155,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 502391,
+      "num": 100101,
+      "word": "泰国公主疑与泰总理儿子相恋",
+      "onboard_time": 1768550181,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 486755,
       "num": 809886,
       "word": "胖东来599元羽绒服充绒量213克",
@@ -169,14 +185,6 @@
       "onboard_time": 1768489043,
       "rank": 5,
       "category": "民生新闻,剧集"
-    },
-    {
-      "raw_hot": 480470,
-      "num": 181195,
-      "word": "赵今麦闺蜜是开端导演女儿",
-      "onboard_time": 1768548261,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 474994,
@@ -217,6 +225,14 @@
       "onboard_time": 1768527557,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 450415,
+      "num": 807385,
+      "word": "银价也杀疯了",
+      "onboard_time": 1768544420,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 447130,
@@ -283,20 +299,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 390952,
-      "num": 390952,
-      "word": "银价也杀疯了",
-      "onboard_time": 1768544420,
-      "rank": 18,
-      "category": "财经"
-    },
-    {
       "raw_hot": 382802,
       "num": 207494,
       "word": "曝孟子义为将门毒后减重至88斤",
       "onboard_time": 1768521679,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 355288,
+      "num": 161739,
+      "word": "赛琳娜老公被网友p掉爆炸头",
+      "onboard_time": 1768547959,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 354818,
@@ -337,6 +353,14 @@
       "onboard_time": 1768536681,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 324712,
+      "num": 324712,
+      "word": "薛之谦四巡",
+      "onboard_time": 1768551799,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 319442,
@@ -411,6 +435,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 242585,
+      "num": 242585,
+      "word": "生理性叹息",
+      "onboard_time": 1768545680,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 241582,
       "num": 241582,
       "word": "当你用父母的方式对待父母",
@@ -467,14 +499,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 215284,
-      "num": 161739,
-      "word": "赛琳娜老公被网友p掉爆炸头",
-      "onboard_time": 1768547959,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 214865,
       "num": 214865,
       "word": "高叶走这两步让我梦回狂飙了",
@@ -504,6 +528,14 @@
       "word": "杨洋将福气与贵气刻进骨子里",
       "onboard_time": 1768536201,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 205683,
+      "num": 153303,
+      "word": "赵樱子称这辈子最感谢关晓彤",
+      "onboard_time": 1768549940,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -579,11 +611,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 186837,
+      "num": 186837,
+      "word": "严肃查处过度炒作乃至操纵市场",
+      "onboard_time": 1768552221,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 185600,
       "num": 185600,
       "word": "轧戏 图书馆30秒",
       "onboard_time": 1768481900,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 185026,
+      "num": 185026,
+      "word": "杨紫举春联宣传生命树祯娘传",
+      "onboard_time": 1768550601,
+      "rank": 8,
       "category": "剧集"
     },
     {
@@ -699,6 +747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157382,
+      "num": 157382,
+      "word": "贺娇龙悼念仪式结束遗体将送往伊宁",
+      "onboard_time": 1768549401,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156550,
       "num": 156550,
       "word": "逆战未来",
@@ -755,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153037,
+      "num": 153037,
+      "word": "听不懂客气话的朋友belike",
+      "onboard_time": 1768552281,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151300,
       "num": 151300,
       "word": "不油不腻不老不登",
@@ -795,6 +859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147262,
+      "num": 147262,
+      "word": "宋威龙十六岁生图含金量",
+      "onboard_time": 1768550601,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146906,
       "num": 146906,
       "word": "国考",
@@ -811,20 +883,20 @@
       "category": "汽车,网红"
     },
     {
-      "raw_hot": 143733,
-      "num": 197024,
-      "word": "生理性叹息",
-      "onboard_time": 1768545680,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 143540,
       "num": 143540,
       "word": "特朗普直播打瞌睡被小女孩发现",
       "onboard_time": 1768487602,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 142388,
+      "num": 142388,
+      "word": "金饰克价跌至1431元",
+      "onboard_time": 1768551500,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 141803,
@@ -1067,6 +1139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118770,
+      "num": 100039,
+      "word": "领导为什么不喜欢下属准点下班",
+      "onboard_time": 1768552161,
+      "rank": 31,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 118013,
       "num": 118013,
       "word": "万能的大熊挑动消费群体对立被点名",
@@ -1283,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103492,
+      "num": 103492,
+      "word": "曹骏央视路透看到21年前的宝莲灯",
+      "onboard_time": 1768550480,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103442,
       "num": 124851,
       "word": "贾国龙朋友圈称尽力了",
@@ -1307,6 +1395,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102597,
+      "num": 165531,
+      "word": "牛娜老公涉嫌出轨家暴查清了吗",
+      "onboard_time": 1768549040,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102056,
+      "num": 102056,
+      "word": "王俊凯鞠婧祎丁禹兮QQ音乐销量",
+      "onboard_time": 1768549641,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 101827,
       "num": 101827,
       "word": "首批法国士兵已抵达格陵兰岛",
@@ -1315,12 +1419,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 101059,
+      "num": 101059,
+      "word": "浙江省考出成绩",
+      "onboard_time": 1768551381,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 100756,
       "num": 100756,
       "word": "云南民宿协会回应携程涉嫌垄断",
       "onboard_time": 1768539262,
       "rank": 48,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 100640,
+      "num": 100640,
+      "word": "韩国一公交车撞向大楼致13人受伤",
+      "onboard_time": 1768551260,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 99651,
@@ -1411,6 +1531,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 94425,
+      "num": 94425,
+      "word": "汪苏泷辽宁春晚阵仗也太夸张了",
+      "onboard_time": 1768552520,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94078,
       "num": 100700,
       "word": "周杰伦 亮个相吧小宝贝",
@@ -1441,6 +1569,14 @@
       "onboard_time": 1768547421,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93561,
+      "num": 93561,
+      "word": "散户为何在牛市里仍亏钱",
+      "onboard_time": 1768551740,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 93195,
@@ -1651,6 +1787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84899,
+      "num": 84899,
+      "word": "李国庆评迅雷案贪腐就是明抢",
+      "onboard_time": 1768551740,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 83621,
       "num": 83621,
       "word": "黄蜂战胜湖人",
@@ -1707,6 +1851,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 80629,
+      "num": 80629,
+      "word": "赛里木湖冰推遇落日好壮观",
+      "onboard_time": 1768552640,
+      "rank": 41,
+      "category": "旅游,民生新闻"
+    },
+    {
       "raw_hot": 80446,
       "num": 114784,
       "word": "一白发男列车上掐脖年轻女孩",
@@ -1755,12 +1907,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 79357,
+      "num": 79357,
+      "word": "神20航天员回忆改签回地球",
+      "onboard_time": 1768552221,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 79291,
       "num": 116597,
       "word": "国家电网计划投资4万亿元",
       "onboard_time": 1768480820,
       "rank": 19,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 79100,
+      "num": 79100,
+      "word": "真的建议大家去做有成长性的工作",
+      "onboard_time": 1768550119,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 77848,
@@ -1795,12 +1963,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76988,
+      "num": 76988,
+      "word": "振东之路是樊振东送给乡亲们的礼物",
+      "onboard_time": 1768551920,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76971,
       "num": 97551,
       "word": "李煜东 小小的老子有了偶像包袱",
       "onboard_time": 1768546041,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74532,
+      "num": 74532,
+      "word": "李幼斌 谁还不是个俊后生",
+      "onboard_time": 1768551022,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 74387,
@@ -1825,6 +2009,22 @@
       "onboard_time": 1768491860,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73421,
+      "num": 73421,
+      "word": "刘昊然 眉骨先闯进镜头",
+      "onboard_time": 1768550299,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 73318,
+      "num": 73318,
+      "word": "罗永浩回应西贝冷冻西兰花问题",
+      "onboard_time": 1768552760,
+      "rank": 48,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 71656,
@@ -1891,6 +2091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66758,
+      "num": 82450,
+      "word": "喝农药自杀新娘与新郎相差15岁",
+      "onboard_time": 1768552701,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65703,
       "num": 115512,
       "word": "王子奇把苏晓彤一字夹摘了",
@@ -1931,20 +2139,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 61864,
+      "num": 152700,
+      "word": "罗永浩称没见过企业因为被黑就倒闭",
+      "onboard_time": 1768551860,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 61482,
       "num": 115375,
       "word": "于正说芒果从不参考外部数据",
       "onboard_time": 1768490602,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 56984,
-      "num": 117387,
-      "word": "贺娇龙悼念仪式结束遗体将送往伊宁",
-      "onboard_time": 1768549401,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55474,
@@ -2025,14 +2233,6 @@
       "onboard_time": 1768483460,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 48344,
-      "num": 165531,
-      "word": "牛娜老公涉嫌出轨家暴查清了吗",
-      "onboard_time": 1768549040,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48343,
@@ -2276,7 +2476,7 @@
     },
     {
       "raw_hot": 23600,
-      "num": 602194,
+      "num": 622325,
       "word": "6图看国家水网惠及百姓日常生活",
       "onboard_time": 1768548801,
       "rank": 2,
