@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768539536837,
+  "endTime": 1768541619751,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -2881,6 +2881,14 @@
       "onboard_time": 1767434666,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 583880,
+      "num": 305948,
+      "word": "平台客服回应李湘被禁止关注",
+      "onboard_time": 1768537942,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 583612,
@@ -5835,6 +5843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 416500,
+      "num": 787572,
+      "word": "携程被多次约谈仍不改",
+      "onboard_time": 1768535241,
+      "rank": 21,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 416307,
       "num": 1727011,
       "word": "委总统下令立即武装斗争",
@@ -7843,14 +7859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 331781,
-      "num": 305948,
-      "word": "平台客服回应李湘被禁止关注",
-      "onboard_time": 1768537942,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 331038,
       "num": 331038,
       "word": "韩国女孩被逼婚出逃上海",
@@ -8595,6 +8603,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 312526,
+      "num": 263727,
+      "word": "第五人格 擦边",
+      "onboard_time": 1768540400,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 312147,
       "num": 734200,
       "word": "合肥下雪",
@@ -8713,14 +8729,6 @@
       "onboard_time": 1767198386,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 308118,
-      "num": 204839,
-      "word": "携程被多次约谈仍不改",
-      "onboard_time": 1768535241,
-      "rank": 21,
-      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 308011,
@@ -9265,6 +9273,14 @@
       "onboard_time": 1767689960,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291818,
+      "num": 291818,
+      "word": "胖东来599元羽绒服充绒量213克",
+      "onboard_time": 1768539022,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 291737,
@@ -12603,6 +12619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219322,
+      "num": 178417,
+      "word": "鬼鬼回应排挤炎亚纶",
+      "onboard_time": 1768538180,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219101,
       "num": 443755,
       "word": "外交部回应马杜罗不认罪",
@@ -14115,6 +14139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198570,
+      "num": 170285,
+      "word": "马思纯这个广告片哪个神人想的",
+      "onboard_time": 1768541422,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 198412,
       "num": 157396,
       "word": "731部队曾用中国女性做梅毒实验",
@@ -14689,6 +14721,14 @@
       "onboard_time": 1767662600,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193337,
+      "num": 271177,
+      "word": "王一博乐华家族新春单曲part",
+      "onboard_time": 1768540822,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 193286,
@@ -15619,6 +15659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185496,
+      "num": 238427,
+      "word": "寂静岭护士超模回来了",
+      "onboard_time": 1768540223,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185463,
       "num": 185463,
       "word": "轧戏 男二",
@@ -16371,6 +16419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178673,
+      "num": 178673,
+      "word": "玩鹅鸭杀让AI辨忠奸",
+      "onboard_time": 1768539622,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 178633,
       "num": 155214,
       "word": "59岁高龄产妇顺利产下4斤4两男婴",
@@ -16409,14 +16465,6 @@
       "onboard_time": 1767428124,
       "rank": 16,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 178417,
-      "num": 178417,
-      "word": "鬼鬼回应排挤炎亚纶",
-      "onboard_time": 1768538180,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 178349,
@@ -16801,6 +16849,14 @@
       "onboard_time": 1767268161,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174783,
+      "num": 174783,
+      "word": "俄男子从5楼纵身跳进雪堆未受伤",
+      "onboard_time": 1768534702,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 174752,
@@ -18041,6 +18097,14 @@
       "onboard_time": 1767487342,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 164380,
+      "num": 164380,
+      "word": "有史以来最神经的恋综出现了",
+      "onboard_time": 1768540223,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 164352,
@@ -19875,14 +19939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150935,
-      "num": 168746,
-      "word": "俄男子从5楼纵身跳进雪堆未受伤",
-      "onboard_time": 1768534702,
-      "rank": 25,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 150901,
       "num": 150901,
       "word": "美雪扮演者因出演小魔仙被校园暴力",
@@ -20681,6 +20737,14 @@
       "onboard_time": 1767509362,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146260,
+      "num": 146260,
+      "word": "万能的大熊",
+      "onboard_time": 1768541301,
+      "rank": 25,
+      "category": "汽车,网红"
     },
     {
       "raw_hot": 146228,
@@ -21905,14 +21969,6 @@
       "onboard_time": 1768404261,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139485,
-      "num": 139485,
-      "word": "胖东来599元羽绒服充绒量213克",
-      "onboard_time": 1768539022,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 139450,
@@ -23947,6 +24003,14 @@
       "category": "幽默,互联网"
     },
     {
+      "raw_hot": 129215,
+      "num": 129215,
+      "word": "女子向出轨丈夫道歉视频走红",
+      "onboard_time": 1768540941,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129203,
       "num": 783989,
       "word": "联合国秘书长对委局势升级深感震惊",
@@ -24881,6 +24945,14 @@
       "onboard_time": 1767266060,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 125518,
+      "num": 125518,
+      "word": "比男主先爱上女主的是女二",
+      "onboard_time": 1768539622,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 125417,
@@ -34771,6 +34843,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 93195,
+      "num": 93195,
+      "word": "恋与深空取消男主等身雕像展出",
+      "onboard_time": 1768540822,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 93138,
       "num": 632346,
       "word": "白露FMVP",
@@ -34921,6 +35001,14 @@
       "onboard_time": 1767974361,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92783,
+      "num": 92783,
+      "word": "王楚钦觉得自己内心有责任感",
+      "onboard_time": 1768540822,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 92773,
@@ -37587,6 +37675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85832,
+      "num": 85832,
+      "word": "Tian说LPL没有危机感",
+      "onboard_time": 1768541422,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 85803,
       "num": 95423,
       "word": "被奥运拒之门外后的加时赛",
@@ -39041,6 +39137,14 @@
       "onboard_time": 1767568879,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81158,
+      "num": 81158,
+      "word": "雷军说别人可以我一说就惨了",
+      "onboard_time": 1768541242,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 81138,
@@ -48355,6 +48459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31408,
+      "num": 91438,
+      "word": "新娘喝农药自杀母亲回应逼婚质疑",
+      "onboard_time": 1768541542,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31392,
       "num": 179030,
       "word": "华为门店否认请半裸男模跳舞",
@@ -49553,6 +49665,14 @@
       "onboard_time": 1768287201,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 23950,
+      "num": 268158,
+      "word": "尹锡悦今日迎宣判",
+      "onboard_time": 1768540701,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23943,
@@ -50953,6 +51073,14 @@
       "onboard_time": 1767702081,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13191,
+      "num": 93034,
+      "word": "行业协会有89名副会长引质疑",
+      "onboard_time": 1768541422,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13184,

@@ -1,6 +1,6 @@
 {
   "startTime": 1768495443021,
-  "endTime": 1768539536837,
+  "endTime": 1768541619751,
   "band_list": [
     {
       "raw_hot": 4325889,
@@ -65,6 +65,14 @@
       "onboard_time": 1768477940,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 583880,
+      "num": 305948,
+      "word": "平台客服回应李湘被禁止关注",
+      "onboard_time": 1768537942,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 573227,
@@ -155,6 +163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 416500,
+      "num": 787572,
+      "word": "携程被多次约谈仍不改",
+      "onboard_time": 1768535241,
+      "rank": 21,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 411381,
       "num": 305684,
       "word": "赵丽颖ELLE封面",
@@ -195,14 +211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 331781,
-      "num": 305948,
-      "word": "平台客服回应李湘被禁止关注",
-      "onboard_time": 1768537942,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 327972,
       "num": 327972,
       "word": "第一次见双胞胎不是一个物种",
@@ -227,6 +235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 312526,
+      "num": 263727,
+      "word": "第五人格 擦边",
+      "onboard_time": 1768540400,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 311543,
       "num": 558077,
       "word": "洪秀柱说早晚要统一不如赶快统一",
@@ -235,12 +251,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 308118,
-      "num": 204839,
-      "word": "携程被多次约谈仍不改",
-      "onboard_time": 1768535241,
-      "rank": 21,
-      "category": "互联网,民生新闻"
+      "raw_hot": 291818,
+      "num": 291818,
+      "word": "胖东来599元羽绒服充绒量213克",
+      "onboard_time": 1768539022,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 268328,
@@ -323,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219322,
+      "num": 178417,
+      "word": "鬼鬼回应排挤炎亚纶",
+      "onboard_time": 1768538180,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217119,
       "num": 217119,
       "word": "花海 夏迎春",
@@ -379,12 +403,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198570,
+      "num": 170285,
+      "word": "马思纯这个广告片哪个神人想的",
+      "onboard_time": 1768541422,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 195733,
       "num": 195733,
       "word": "云旗郝熠然红秀双人封面",
       "onboard_time": 1768539503,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193337,
+      "num": 271177,
+      "word": "王一博乐华家族新春单曲part",
+      "onboard_time": 1768540822,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 191346,
@@ -401,6 +441,14 @@
       "onboard_time": 1768481900,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185496,
+      "num": 238427,
+      "word": "寂静岭护士超模回来了",
+      "onboard_time": 1768540223,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 184796,
@@ -435,12 +483,12 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 178417,
-      "num": 178417,
-      "word": "鬼鬼回应排挤炎亚纶",
-      "onboard_time": 1768538180,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 178673,
+      "num": 178673,
+      "word": "玩鹅鸭杀让AI辨忠奸",
+      "onboard_time": 1768539622,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 174939,
@@ -449,6 +497,14 @@
       "onboard_time": 1768515617,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174783,
+      "num": 174783,
+      "word": "俄男子从5楼纵身跳进雪堆未受伤",
+      "onboard_time": 1768534702,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 174255,
@@ -464,6 +520,14 @@
       "word": "结石姐谈当年在歌手夺冠",
       "onboard_time": 1768519157,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164380,
+      "num": 164380,
+      "word": "有史以来最神经的恋综出现了",
+      "onboard_time": 1768540223,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -539,14 +603,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 150935,
-      "num": 168746,
-      "word": "俄男子从5楼纵身跳进雪堆未受伤",
-      "onboard_time": 1768534702,
-      "rank": 25,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 149676,
       "num": 149676,
       "word": "向华强自曝助手冒名诈骗他人10亿",
@@ -571,6 +627,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 146260,
+      "num": 146260,
+      "word": "万能的大熊",
+      "onboard_time": 1768541301,
+      "rank": 25,
+      "category": "汽车,网红"
+    },
+    {
       "raw_hot": 143540,
       "num": 143540,
       "word": "特朗普直播打瞌睡被小女孩发现",
@@ -585,14 +649,6 @@
       "onboard_time": 1768491260,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139485,
-      "num": 139485,
-      "word": "胖东来599元羽绒服充绒量213克",
-      "onboard_time": 1768539022,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 138989,
@@ -651,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129215,
+      "num": 129215,
+      "word": "女子向出轨丈夫道歉视频走红",
+      "onboard_time": 1768540941,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129081,
       "num": 129081,
       "word": "吴彤对TF家族的开发还不到50%",
@@ -673,6 +737,14 @@
       "onboard_time": 1768494138,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125518,
+      "num": 125518,
+      "word": "比男主先爱上女主的是女二",
+      "onboard_time": 1768539622,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 123783,
@@ -987,6 +1059,22 @@
       "category": "数码,财经"
     },
     {
+      "raw_hot": 93195,
+      "num": 93195,
+      "word": "恋与深空取消男主等身雕像展出",
+      "onboard_time": 1768540822,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 92783,
+      "num": 92783,
+      "word": "王楚钦觉得自己内心有责任感",
+      "onboard_time": 1768540822,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92520,
       "num": 92520,
       "word": "恋与深空",
@@ -1001,6 +1089,14 @@
       "onboard_time": 1768496956,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92363,
+      "num": 93037,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1768540100,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 91261,
@@ -1091,6 +1187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85832,
+      "num": 85832,
+      "word": "Tian说LPL没有危机感",
+      "onboard_time": 1768541422,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 85397,
       "num": 85397,
       "word": "平台回应女童舞蹈服宣传图像孕肚",
@@ -1121,6 +1225,14 @@
       "onboard_time": 1768529420,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 81158,
+      "num": 81158,
+      "word": "雷军说别人可以我一说就惨了",
+      "onboard_time": 1768541242,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 80446,
@@ -1515,6 +1627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 31408,
+      "num": 91438,
+      "word": "新娘喝农药自杀母亲回应逼婚质疑",
+      "onboard_time": 1768541542,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31113,
       "num": 74744,
       "word": "剑来第六集OST",
@@ -1553,6 +1673,14 @@
       "onboard_time": 1768501574,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 23950,
+      "num": 268158,
+      "word": "尹锡悦今日迎宣判",
+      "onboard_time": 1768540701,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23458,
@@ -1617,6 +1745,14 @@
       "onboard_time": 1768528579,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 13191,
+      "num": 93034,
+      "word": "行业协会有89名副会长引质疑",
+      "onboard_time": 1768541422,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12088,
