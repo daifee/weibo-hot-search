@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768530915880,
+  "endTime": 1768536439314,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -57,6 +57,14 @@
       "onboard_time": 1768114701,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 4325889,
+      "num": 196448,
+      "word": "李湘全平台账号被禁止关注",
+      "onboard_time": 1768532959,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 4128569,
@@ -2387,20 +2395,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 635884,
-      "num": 371366,
-      "word": "洗头发油得慢的小方法",
-      "onboard_time": 1767853582,
-      "rank": 8,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 635802,
-      "num": 476782,
-      "word": "女子7万买金镯一捏就变形",
-      "onboard_time": 1768454779,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 638105,
+      "num": 1102096,
+      "word": "携程",
+      "onboard_time": 1768378521,
+      "rank": 1,
+      "category": "互联网"
     }
   ],
   "hotgov_list": [

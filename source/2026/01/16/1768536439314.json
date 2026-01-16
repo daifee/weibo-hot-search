@@ -1,0 +1,410 @@
+{
+  "runTime": 1768536439314,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 638105,
+        "num": 1102096,
+        "word": "携程",
+        "onboard_time": 1768529719,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 395069,
+        "num": 787397,
+        "word": "大学生偷外卖被拘通报公示外卖架边",
+        "onboard_time": 1768528879,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35268,
+        "num": 617452,
+        "word": "再有一个月就过年啦",
+        "onboard_time": 1768532480,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393464,
+        "num": 393464,
+        "word": "有人在宜家5折捡漏原价2800元的床",
+        "onboard_time": 1768532840,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311543,
+        "num": 311543,
+        "word": "洪秀柱说早晚要统一不如赶快统一",
+        "onboard_time": 1768533921,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 356473,
+        "num": 301530,
+        "word": "删了吧有个打工的破防了",
+        "onboard_time": 1768534341,
+        "rank": 5,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 346977,
+        "num": 283068,
+        "word": "女子药流后腹部隆起才发现胎儿未排",
+        "onboard_time": 1768520119,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262986,
+        "num": 262986,
+        "word": "女教师群聊八卦被拘起诉公安被驳回",
+        "onboard_time": 1768520298,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196515,
+        "num": 196515,
+        "word": "高叶走这两步让我梦回狂飙了",
+        "onboard_time": 1768534761,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180674,
+        "num": 196513,
+        "word": "山姆1小时达变隔日达还加运费",
+        "onboard_time": 1768531159,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4325889,
+        "num": 196448,
+        "word": "李湘全平台账号被禁止关注",
+        "onboard_time": 1768532959,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 573227,
+        "num": 196431,
+        "word": "徐明浩驾龄7年回国考科一挂了",
+        "onboard_time": 1768533862,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269855,
+        "num": 196396,
+        "word": "第一次见双胞胎不是一个物种",
+        "onboard_time": 1768534582,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 411381,
+        "num": 196360,
+        "word": "赵丽颖ELLE封面",
+        "onboard_time": 1768534761,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202209,
+        "num": 196319,
+        "word": "左航换手机",
+        "onboard_time": 1768529899,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196294,
+        "num": 196294,
+        "word": "被逼婚喝农药女子已清醒",
+        "onboard_time": 1768527919,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191346,
+        "num": 191346,
+        "word": "王俊凯QQ音乐装扮",
+        "onboard_time": 1768535241,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179826,
+        "num": 179826,
+        "word": "这类儿童面霜千万别给宝宝用",
+        "onboard_time": 1768531159,
+        "rank": 17,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 157817,
+        "num": 157817,
+        "word": "原来各地的驾照难度是不一样的",
+        "onboard_time": 1768535600,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84352,
+        "num": 157240,
+        "word": "宋威龙抱赵今麦 主打一个忘本",
+        "onboard_time": 1768535841,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 513968,
+        "num": 154874,
+        "word": "吴佩慈婆婆在美被捕",
+        "onboard_time": 1768524919,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270671,
+        "num": 154559,
+        "word": "携程被多次约谈仍不改",
+        "onboard_time": 1768535241,
+        "rank": 21,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 242523,
+        "num": 151660,
+        "word": "金价彻底杀疯了",
+        "onboard_time": 1768477642,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 183087,
+        "num": 151137,
+        "word": "王影璐顶级骨相",
+        "onboard_time": 1768534401,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23458,
+        "num": 148798,
+        "word": "众多好友赴昭苏送别贺娇龙",
+        "onboard_time": 1768535181,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174255,
+        "num": 148000,
+        "word": "凌晨2点睡不一定是熬夜",
+        "onboard_time": 1768530678,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146906,
+        "num": 146906,
+        "word": "国考",
+        "onboard_time": 1768534761,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 129196,
+        "num": 129196,
+        "word": "西贝公关副总裁离职",
+        "onboard_time": 1768533440,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129081,
+        "num": 129081,
+        "word": "吴彤对TF家族的开发还不到50%",
+        "onboard_time": 1768536262,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61825,
+        "num": 125466,
+        "word": "杨洋将福气与贵气刻进骨子里",
+        "onboard_time": 1768536201,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123783,
+        "num": 123783,
+        "word": "过年带相机回家最有意义的时刻",
+        "onboard_time": 1768535001,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46791,
+        "num": 123310,
+        "word": "高市错误言论影响日本多个产业",
+        "onboard_time": 1768534940,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123041,
+        "num": 123041,
+        "word": "周震南是不是忘切小号了",
+        "onboard_time": 1768534101,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122611,
+        "num": 122611,
+        "word": "7岁嫁人15岁生子短剧引众怒",
+        "onboard_time": 1768489043,
+        "rank": 33,
+        "category": "民生新闻,剧集"
+      },
+      {
+        "raw_hot": 115624,
+        "num": 115624,
+        "word": "不内耗的人脑子里是这么想的",
+        "onboard_time": 1768532900,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113194,
+        "num": 113194,
+        "word": "德国派兵了整整13人",
+        "onboard_time": 1768533982,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112568,
+        "num": 112568,
+        "word": "清融 花海",
+        "onboard_time": 1768526061,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111061,
+        "num": 111061,
+        "word": "美甲已经进化成这样了吗",
+        "onboard_time": 1768526479,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 90383,
+        "num": 109519,
+        "word": "王星越高叶嫂嫂开门我是我哥",
+        "onboard_time": 1768535841,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108941,
+        "num": 108941,
+        "word": "成龙马龙同框合影",
+        "onboard_time": 1768532480,
+        "rank": 39,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 10808,
+        "num": 107460,
+        "word": "美正向中东增派包括航母在内的兵力",
+        "onboard_time": 1768536382,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107044,
+        "num": 107044,
+        "word": "贺娇龙公开悼念仪式在昭苏举行",
+        "onboard_time": 1768536081,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106265,
+        "num": 106265,
+        "word": "内存条价格杀疯了",
+        "onboard_time": 1768533500,
+        "rank": 42,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 103214,
+        "num": 103214,
+        "word": "适合方圆脸的上镜妆容",
+        "onboard_time": 1768535900,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 99731,
+        "num": 99731,
+        "word": "被逼婚轻生女子认为男方领证后失信",
+        "onboard_time": 1768531579,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99545,
+        "num": 99545,
+        "word": "这就是LPL",
+        "onboard_time": 1768530979,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97284,
+        "num": 97284,
+        "word": "驾驶技术已经进化到这种程度了吗",
+        "onboard_time": 1768536021,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94857,
+        "num": 94857,
+        "word": "果然人上了年纪就自动解锁一些动作",
+        "onboard_time": 1768536021,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91309,
+        "num": 91309,
+        "word": "女子为献熊猫血28年不熬夜",
+        "onboard_time": 1768522220,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 91012,
+        "num": 91012,
+        "word": "小米新手表手环曝光",
+        "onboard_time": 1768536382,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#着力铲除腐败滋生的土壤和条件#"
+    }
+  }
+}

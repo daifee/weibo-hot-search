@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/16 10:35:15
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/16 12:07:19
 </p>
 </blockquote>
 <p>
@@ -53,6 +53,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%BE%88%E5%8F%91%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A%23" target="weibo">
 小澈发检测报告（热度：5632996）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B9%98%E5%85%A8%E5%B9%B3%E5%8F%B0%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%85%B3%E6%B3%A8%23" target="weibo">
+李湘全平台账号被禁止关注（热度：4325889）
 </a>
 </li>
 
@@ -1803,14 +1809,8 @@ AI照片竟然拿了摄影比赛第一名（热度：667067）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B4%97%E5%A4%B4%E5%8F%91%E6%B2%B9%E5%BE%97%E6%85%A2%E7%9A%84%E5%B0%8F%E6%96%B9%E6%B3%95%23" target="weibo">
-洗头发油得慢的小方法（热度：635884）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%907%E4%B8%87%E4%B9%B0%E9%87%91%E9%95%AF%E4%B8%80%E6%8D%8F%E5%B0%B1%E5%8F%98%E5%BD%A2%23" target="weibo">
-女子7万买金镯一捏就变形（热度：635802）
+<a href="https://s.weibo.com/weibo?q=%23%E6%90%BA%E7%A8%8B%23" target="weibo">
+携程（热度：638105）
 </a>
 </li>
 
