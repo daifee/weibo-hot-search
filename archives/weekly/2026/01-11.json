@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768582493932,
+  "endTime": 1768584683546,
   "band_list": [
     {
       "raw_hot": 9503714,
@@ -14539,6 +14539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97648,
+      "num": 97648,
+      "word": "陈伟霆米兰走秀",
+      "onboard_time": 1768584376,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 97622,
       "num": 97622,
       "word": "26岁去南极后发现人生没有终点",
@@ -14873,6 +14881,14 @@
       "onboard_time": 1768560142,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95874,
+      "num": 98198,
+      "word": "陈星旭说戏里骑马一天3000",
+      "onboard_time": 1768584017,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 95841,
@@ -19459,6 +19475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51703,
+      "num": 112433,
+      "word": "山区公交为接一个女生上学单设一站",
+      "onboard_time": 1768581260,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51684,
       "num": 50806,
       "word": "陶玉玲曾患5种癌症",
@@ -20531,6 +20555,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 32431,
+      "num": 68252,
+      "word": "LGDNBW对战狼队",
+      "onboard_time": 1768583717,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 32216,
       "num": 51121,
       "word": "司宫令",
@@ -20617,6 +20649,14 @@
       "onboard_time": 1768087996,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31068,
+      "num": 68210,
+      "word": "剥茧",
+      "onboard_time": 1768583537,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 30992,
@@ -20787,20 +20827,20 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 28668,
+      "num": 68442,
+      "word": "WTT多哈球星挑战赛",
+      "onboard_time": 1768583417,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28620,
       "num": 62400,
       "word": "老君山狗狗主动为徒步下山游客引路",
       "onboard_time": 1768163354,
       "rank": 47,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 28573,
-      "num": 112433,
-      "word": "山区公交为接一个女生上学单设一站",
-      "onboard_time": 1768581260,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28542,
@@ -20859,6 +20899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27791,
+      "num": 68153,
+      "word": "毛不易现身央视路透",
+      "onboard_time": 1768580719,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27563,
       "num": 169305,
       "word": "特朗普称对美联储主席被查一无所知",
@@ -20905,6 +20953,14 @@
       "onboard_time": 1768301062,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26994,
+      "num": 68144,
+      "word": "饿了去上班下班积食了的工作",
+      "onboard_time": 1768584077,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 26935,
@@ -21604,7 +21660,7 @@
     },
     {
       "raw_hot": 17170,
-      "num": 173315,
+      "num": 257270,
       "word": "2025这些中国好物全球圈粉",
       "onboard_time": 1768568661,
       "rank": 30,

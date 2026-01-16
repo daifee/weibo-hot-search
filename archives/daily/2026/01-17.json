@@ -1,6 +1,6 @@
 {
   "startTime": 1768581578200,
-  "endTime": 1768582493932,
+  "endTime": 1768584683546,
   "band_list": [
     {
       "raw_hot": 735813,
@@ -75,6 +75,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 167940,
+      "num": 755854,
+      "word": "轧戏",
+      "onboard_time": 1768560441,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145328,
       "num": 112034,
       "word": "短剧演员上脑综打败清华北大学霸",
@@ -123,14 +131,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 112661,
-      "num": 755854,
-      "word": "轧戏",
-      "onboard_time": 1768560441,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 110109,
       "num": 112915,
       "word": "杜华回复王一博",
@@ -153,6 +153,22 @@
       "onboard_time": 1768572083,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97648,
+      "num": 97648,
+      "word": "陈伟霆米兰走秀",
+      "onboard_time": 1768584376,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 95874,
+      "num": 98198,
+      "word": "陈星旭说戏里骑马一天3000",
+      "onboard_time": 1768584017,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 87686,
@@ -203,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61671,
+      "num": 111920,
+      "word": "亲手把女儿和她的好朋友拆散了",
+      "onboard_time": 1768580359,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 60598,
       "num": 111964,
       "word": "二人因乞讨相恋五年共同收入32万元",
@@ -217,14 +241,6 @@
       "onboard_time": 1768568302,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 58209,
-      "num": 111920,
-      "word": "亲手把女儿和她的好朋友拆散了",
-      "onboard_time": 1768580359,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 57870,
@@ -259,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51703,
+      "num": 112433,
+      "word": "山区公交为接一个女生上学单设一站",
+      "onboard_time": 1768581260,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51485,
       "num": 111946,
       "word": "电影爆水管",
@@ -289,6 +313,14 @@
       "onboard_time": 1768562001,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 46670,
+      "num": 111825,
+      "word": "巴厘岛吃饭孩子弄倒40万印尼盾餐桌",
+      "onboard_time": 1768563261,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 46521,
@@ -339,20 +371,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 42028,
-      "num": 111825,
-      "word": "巴厘岛吃饭孩子弄倒40万印尼盾餐桌",
-      "onboard_time": 1768563261,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 37892,
       "num": 111749,
       "word": "日本失控将给日本人民造成毁灭性灾难",
       "onboard_time": 1768562481,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 32431,
+      "num": 68252,
+      "word": "LGDNBW对战狼队",
+      "onboard_time": 1768583717,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 31068,
+      "num": 68210,
+      "word": "剥茧",
+      "onboard_time": 1768583537,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 30214,
@@ -379,12 +419,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 28573,
-      "num": 112433,
-      "word": "山区公交为接一个女生上学单设一站",
-      "onboard_time": 1768581260,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 28668,
+      "num": 68442,
+      "word": "WTT多哈球星挑战赛",
+      "onboard_time": 1768583417,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 27791,
+      "num": 68153,
+      "word": "毛不易现身央视路透",
+      "onboard_time": 1768580719,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 27322,
@@ -403,6 +451,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26994,
+      "num": 68144,
+      "word": "饿了去上班下班积食了的工作",
+      "onboard_time": 1768584077,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 24617,
+      "num": 68098,
+      "word": "小城大事",
+      "onboard_time": 1768564822,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24254,
       "num": 111788,
       "word": "梁靖崑止步男单32强",
@@ -417,6 +481,14 @@
       "onboard_time": 1768568182,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12989,
+      "num": 257270,
+      "word": "2025这些中国好物全球圈粉",
+      "onboard_time": 1768568661,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
