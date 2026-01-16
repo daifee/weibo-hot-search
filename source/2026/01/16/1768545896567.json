@@ -1,0 +1,410 @@
+{
+  "runTime": 1768545896567,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 797298,
+        "num": 1127567,
+        "word": "尹锡悦被判5年",
+        "onboard_time": 1768543941,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 445685,
+        "num": 809886,
+        "word": "胖东来599元羽绒服充绒量213克",
+        "onboard_time": 1768539022,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28356,
+        "num": 637204,
+        "word": "再有一个月就过年啦",
+        "onboard_time": 1768532480,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414487,
+        "num": 414487,
+        "word": "印尼一婚礼因新郎外貌爆火",
+        "onboard_time": 1768544900,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 310861,
+        "num": 310861,
+        "word": "携程被多次约谈仍不改",
+        "onboard_time": 1768535241,
+        "rank": 4,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 301715,
+        "num": 301715,
+        "word": "携程",
+        "onboard_time": 1768529719,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 226311,
+        "num": 226311,
+        "word": "女子药流后腹部隆起才发现胎儿未排",
+        "onboard_time": 1768520119,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201338,
+        "num": 201338,
+        "word": "第一次见双胞胎不是一个物种",
+        "onboard_time": 1768534582,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163755,
+        "num": 200520,
+        "word": "俄男子从5楼纵身跳进雪堆未受伤",
+        "onboard_time": 1768534702,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 160705,
+        "num": 199733,
+        "word": "王一博乐华家族新春单曲part",
+        "onboard_time": 1768540822,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1671422,
+        "num": 198901,
+        "word": "李湘全平台账号被禁止关注",
+        "onboard_time": 1768532959,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 617422,
+        "num": 197486,
+        "word": "第五人格 擦边",
+        "onboard_time": 1768540400,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 969461,
+        "num": 196865,
+        "word": "辛芷蕾 解约第一件事是剪短发",
+        "onboard_time": 1768542440,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 540688,
+        "num": 195855,
+        "word": "女子向出轨丈夫道歉视频走红",
+        "onboard_time": 1768540941,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412202,
+        "num": 194390,
+        "word": "杨紫红裙好明媚",
+        "onboard_time": 1768543579,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322306,
+        "num": 194143,
+        "word": "女子向出轨丈夫道歉可能构成新侵权",
+        "onboard_time": 1768544241,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282933,
+        "num": 193008,
+        "word": "平台客服回应李湘被禁止关注",
+        "onboard_time": 1768537942,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192244,
+        "num": 192244,
+        "word": "鬼鬼回应排挤炎亚纶",
+        "onboard_time": 1768538180,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155799,
+        "num": 155799,
+        "word": "银价也杀疯了",
+        "onboard_time": 1768544420,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 66643,
+        "num": 154684,
+        "word": "中方向泰民众提供2000万元援助",
+        "onboard_time": 1768545259,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 244573,
+        "num": 151702,
+        "word": "坐高铁可以不用自己扛行李了",
+        "onboard_time": 1768541721,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175492,
+        "num": 147954,
+        "word": "徐明浩驾龄7年回国考科一挂了",
+        "onboard_time": 1768533862,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170618,
+        "num": 144773,
+        "word": "黄晓明说肖战很早就懂得要突破",
+        "onboard_time": 1768544960,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144148,
+        "num": 144148,
+        "word": "减肥大忌TOP1",
+        "onboard_time": 1768536681,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163489,
+        "num": 142775,
+        "word": "炎亚纶发文再谈与鬼鬼关系",
+        "onboard_time": 1768544480,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138658,
+        "num": 138658,
+        "word": "吴佩慈婆婆在美被捕",
+        "onboard_time": 1768524919,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123971,
+        "num": 123971,
+        "word": "有人在宜家5折捡漏原价2800元的床",
+        "onboard_time": 1768532840,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132417,
+        "num": 123627,
+        "word": "陈都灵给李羲承进行曲原作道歉",
+        "onboard_time": 1768544960,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125427,
+        "num": 121037,
+        "word": "马思纯这个广告片哪个神人想的",
+        "onboard_time": 1768541422,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117112,
+        "num": 117112,
+        "word": "韩国首尔江南区火灾",
+        "onboard_time": 1768544660,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136512,
+        "num": 117051,
+        "word": "第五人格回应被指擦边",
+        "onboard_time": 1768545801,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121159,
+        "num": 116989,
+        "word": "章若楠 自拍界来了个天才",
+        "onboard_time": 1768545080,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116917,
+        "num": 116917,
+        "word": "马龙把饺子当乒乓球打",
+        "onboard_time": 1768544480,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110895,
+        "num": 110895,
+        "word": "新娘喝农药自杀母亲回应逼婚质疑",
+        "onboard_time": 1768541542,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107643,
+        "num": 107643,
+        "word": "A股半导体产业链大爆发",
+        "onboard_time": 1768544842,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 106222,
+        "num": 106222,
+        "word": "赵丽颖ELLE封面",
+        "onboard_time": 1768534761,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103868,
+        "num": 103868,
+        "word": "寂静岭护士超模回来了",
+        "onboard_time": 1768540223,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29649,
+        "num": 103124,
+        "word": "江西杀猪宴哄抢画面",
+        "onboard_time": 1768544842,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61865,
+        "num": 100700,
+        "word": "周杰伦 亮个相吧小宝贝",
+        "onboard_time": 1768545621,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19449,
+        "num": 100298,
+        "word": "多地瓜子二手车代驾司机垫款遭拖欠",
+        "onboard_time": 1768545022,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104553,
+        "num": 98439,
+        "word": "赵丽颖把长假比喻成进厂大维修",
+        "onboard_time": 1768542920,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96798,
+        "num": 96798,
+        "word": "A股行情",
+        "onboard_time": 1768545501,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 93771,
+        "num": 93771,
+        "word": "玉茗茶骨欠我一场大婚",
+        "onboard_time": 1768545560,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88098,
+        "num": 88098,
+        "word": "刘耀文 回忆会惩罚每个念旧的人",
+        "onboard_time": 1768545080,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85163,
+        "num": 85163,
+        "word": "生理性叹息",
+        "onboard_time": 1768545680,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88035,
+        "num": 85017,
+        "word": "程潇赵嘉敏 发小闺蜜勇闯娱乐圈",
+        "onboard_time": 1768545441,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84371,
+        "num": 84371,
+        "word": "虞书欣名誉权纠纷案将二审",
+        "onboard_time": 1768538423,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81084,
+        "num": 81084,
+        "word": "坚持早睡一年的身体变化",
+        "onboard_time": 1768539321,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 80188,
+        "num": 80188,
+        "word": "王耀庆带猪这段完播率200%",
+        "onboard_time": 1768543461,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77848,
+        "num": 77848,
+        "word": "贺娇龙母校发文悼念",
+        "onboard_time": 1768544842,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#着力铲除腐败滋生的土壤和条件#"
+    }
+  }
+}

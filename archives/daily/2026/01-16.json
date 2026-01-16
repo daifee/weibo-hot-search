@@ -1,6 +1,6 @@
 {
   "startTime": 1768495443021,
-  "endTime": 1768542581716,
+  "endTime": 1768545896567,
   "band_list": [
     {
       "raw_hot": 4325889,
@@ -19,12 +19,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 969461,
+      "num": 196865,
+      "word": "辛芷蕾 解约第一件事是剪短发",
+      "onboard_time": 1768542440,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 848134,
       "num": 140811,
       "word": "花海房管",
       "onboard_time": 1768480820,
       "rank": 10,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 797298,
+      "num": 1127567,
+      "word": "尹锡悦被判5年",
+      "onboard_time": 1768543941,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 719935,
@@ -99,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 540688,
+      "num": 195855,
+      "word": "女子向出轨丈夫道歉视频走红",
+      "onboard_time": 1768540941,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 533457,
       "num": 697191,
       "word": "女子药流后腹部隆起才发现胎儿未排",
@@ -108,7 +132,7 @@
     },
     {
       "raw_hot": 486755,
-      "num": 796433,
+      "num": 809886,
       "word": "胖东来599元羽绒服充绒量213克",
       "onboard_time": 1768539022,
       "rank": 28,
@@ -179,20 +203,28 @@
       "category": "互联网,民生新闻"
     },
     {
-      "raw_hot": 426100,
-      "num": 175452,
-      "word": "女子向出轨丈夫道歉视频走红",
-      "onboard_time": 1768540941,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 424225,
       "num": 923501,
       "word": "解放军实战演练斩首行动画面",
       "onboard_time": 1768518977,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 414487,
+      "num": 414487,
+      "word": "印尼一婚礼因新郎外貌爆火",
+      "onboard_time": 1768544900,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 412202,
+      "num": 194390,
+      "word": "杨紫红裙好明媚",
+      "onboard_time": 1768543579,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 411381,
@@ -251,6 +283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 322306,
+      "num": 194143,
+      "word": "女子向出轨丈夫道歉可能构成新侵权",
+      "onboard_time": 1768544241,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 319442,
       "num": 319442,
       "word": "花海公开聊天记录",
@@ -268,7 +308,7 @@
     },
     {
       "raw_hot": 282410,
-      "num": 178417,
+      "num": 192244,
       "word": "鬼鬼回应排挤炎亚纶",
       "onboard_time": 1768538180,
       "rank": 24,
@@ -313,6 +353,14 @@
       "onboard_time": 1768526479,
       "rank": 7,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 244573,
+      "num": 166394,
+      "word": "坐高铁可以不用自己扛行李了",
+      "onboard_time": 1768541721,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 241582,
@@ -524,7 +572,7 @@
     },
     {
       "raw_hot": 174783,
-      "num": 174783,
+      "num": 200520,
       "word": "俄男子从5楼纵身跳进雪堆未受伤",
       "onboard_time": 1768534702,
       "rank": 25,
@@ -547,12 +595,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166394,
-      "num": 166394,
-      "word": "坐高铁可以不用自己扛行李了",
-      "onboard_time": 1768541721,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 170618,
+      "num": 144773,
+      "word": "黄晓明说肖战很早就懂得要突破",
+      "onboard_time": 1768544960,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 164380,
@@ -561,6 +609,14 @@
       "onboard_time": 1768540223,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163489,
+      "num": 142775,
+      "word": "炎亚纶发文再谈与鬼鬼关系",
+      "onboard_time": 1768544480,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 163475,
@@ -601,6 +657,14 @@
       "onboard_time": 1768536081,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155799,
+      "num": 155799,
+      "word": "银价也杀疯了",
+      "onboard_time": 1768544420,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 155483,
@@ -699,6 +763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136512,
+      "num": 117051,
+      "word": "第五人格回应被指擦边",
+      "onboard_time": 1768545801,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 135471,
       "num": 135471,
       "word": "清融 花海",
@@ -713,6 +785,14 @@
       "onboard_time": 1768538601,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132417,
+      "num": 123627,
+      "word": "陈都灵给李羲承进行曲原作道歉",
+      "onboard_time": 1768544960,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 130828,
@@ -795,6 +875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121159,
+      "num": 116989,
+      "word": "章若楠 自拍界来了个天才",
+      "onboard_time": 1768545080,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121034,
       "num": 121034,
       "word": "轧戏王光明出轨",
@@ -841,6 +929,22 @@
       "onboard_time": 1768538962,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 117112,
+      "num": 117112,
+      "word": "韩国首尔江南区火灾",
+      "onboard_time": 1768544660,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 116917,
+      "num": 116917,
+      "word": "马龙把饺子当乒乓球打",
+      "onboard_time": 1768544480,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 115857,
@@ -899,6 +1003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110895,
+      "num": 168759,
+      "word": "新娘喝农药自杀母亲回应逼婚质疑",
+      "onboard_time": 1768541542,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108982,
       "num": 108982,
       "word": "欧洲多国派兵支援格陵兰岛",
@@ -929,6 +1041,14 @@
       "onboard_time": 1768538242,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107643,
+      "num": 107643,
+      "word": "A股半导体产业链大爆发",
+      "onboard_time": 1768544842,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 106502,
@@ -971,12 +1091,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105424,
-      "num": 103463,
-      "word": "辛芷蕾 解约第一件事是剪短发",
-      "onboard_time": 1768542440,
-      "rank": 33,
-      "category": "作品衍生"
+      "raw_hot": 104553,
+      "num": 98439,
+      "word": "赵丽颖把长假比喻成进厂大维修",
+      "onboard_time": 1768542920,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 103442,
@@ -1059,6 +1179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 96798,
+      "num": 96798,
+      "word": "A股行情",
+      "onboard_time": 1768545501,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 96760,
       "num": 96760,
       "word": "果然人上了年纪就自动解锁一些动作",
@@ -1105,6 +1233,14 @@
       "onboard_time": 1768530622,
       "rank": 31,
       "category": "数码,财经"
+    },
+    {
+      "raw_hot": 93771,
+      "num": 93771,
+      "word": "玉茗茶骨欠我一场大婚",
+      "onboard_time": 1768545560,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 93195,
@@ -1169,6 +1305,22 @@
       "onboard_time": 1768536921,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88098,
+      "num": 88098,
+      "word": "刘耀文 回忆会惩罚每个念旧的人",
+      "onboard_time": 1768545080,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 88035,
+      "num": 85017,
+      "word": "程潇赵嘉敏 发小闺蜜勇闯娱乐圈",
+      "onboard_time": 1768545441,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 87306,
@@ -1259,6 +1411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85163,
+      "num": 85163,
+      "word": "生理性叹息",
+      "onboard_time": 1768545680,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82708,
       "num": 82708,
       "word": "将门毒后编剧团队被扒缺乏古装经验",
@@ -1307,6 +1467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80188,
+      "num": 80188,
+      "word": "王耀庆带猪这段完播率200%",
+      "onboard_time": 1768543461,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79960,
       "num": 115784,
       "word": "香港一商场警察开枪制服持刀嫌犯",
@@ -1337,6 +1505,14 @@
       "onboard_time": 1768480820,
       "rank": 19,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 77848,
+      "num": 77848,
+      "word": "贺娇龙母校发文悼念",
+      "onboard_time": 1768544842,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77809,
@@ -1443,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66643,
+      "num": 154684,
+      "word": "中方向泰民众提供2000万元援助",
+      "onboard_time": 1768545259,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 65703,
       "num": 115512,
       "word": "王子奇把苏晓彤一字夹摘了",
@@ -1473,6 +1657,14 @@
       "onboard_time": 1768481960,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 61865,
+      "num": 100700,
+      "word": "周杰伦 亮个相吧小宝贝",
+      "onboard_time": 1768545621,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 61482,
@@ -1521,14 +1713,6 @@
       "onboard_time": 1768483281,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 53826,
-      "num": 168759,
-      "word": "新娘喝农药自杀母亲回应逼婚质疑",
-      "onboard_time": 1768541542,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53606,
@@ -1747,6 +1931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29649,
+      "num": 103124,
+      "word": "江西杀猪宴哄抢画面",
+      "onboard_time": 1768544842,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26935,
       "num": 43707,
       "word": "刘宇宁沉浸式畅游澳门vlog",
@@ -1801,6 +1993,14 @@
       "onboard_time": 1768536681,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19449,
+      "num": 100298,
+      "word": "多地瓜子二手车代驾司机垫款遭拖欠",
+      "onboard_time": 1768545022,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19395,

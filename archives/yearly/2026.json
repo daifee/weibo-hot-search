@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768542581716,
+  "endTime": 1768545896567,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1027,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 969461,
+      "num": 196865,
+      "word": "辛芷蕾 解约第一件事是剪短发",
+      "onboard_time": 1768542440,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 968745,
       "num": 703761,
       "word": "老人不知儿子离婚误将20万元赠儿媳",
@@ -1577,6 +1585,14 @@
       "onboard_time": 1768485141,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 797298,
+      "num": 1127567,
+      "word": "尹锡悦被判5年",
+      "onboard_time": 1768543941,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 794730,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767618021,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 640701,
-      "num": 238847,
-      "word": "景德镇被撞宝宝遗容4小时才修复",
-      "onboard_time": 1767882442,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 640529,
-      "num": 249336,
-      "word": "女孩撕心裂肺追妈妈晕倒身亡",
-      "onboard_time": 1768464620,
-      "rank": 12,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
