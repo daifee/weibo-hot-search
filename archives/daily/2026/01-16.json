@@ -1,6 +1,6 @@
 {
   "startTime": 1768495443021,
-  "endTime": 1768563742652,
+  "endTime": 1768568376409,
   "band_list": [
     {
       "raw_hot": 9503714,
@@ -89,6 +89,14 @@
       "onboard_time": 1768480820,
       "rank": 10,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 842481,
+      "num": 269572,
+      "word": "贾国龙让罗永浩千万别忍",
+      "onboard_time": 1768564642,
+      "rank": 11,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 832992,
@@ -211,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 536897,
+      "num": 1085903,
+      "word": "胖东来599元羽绒服进价457.9元",
+      "onboard_time": 1768559724,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 533457,
       "num": 697191,
       "word": "女子药流后腹部隆起才发现胎儿未排",
@@ -307,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 440617,
+      "num": 299087,
+      "word": "女子向出轨丈夫道歉15天企业发声",
+      "onboard_time": 1768562182,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 437066,
       "num": 301792,
       "word": "女子向出轨丈夫道歉可能构成新侵权",
@@ -337,6 +361,14 @@
       "onboard_time": 1768518977,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 413640,
+      "num": 268587,
+      "word": "杜华回复王一博",
+      "onboard_time": 1768562722,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 412202,
@@ -371,6 +403,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 394023,
+      "num": 268430,
+      "word": "西贝公关副总裁宋宣离职",
+      "onboard_time": 1768563201,
+      "rank": 45,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 390984,
+      "num": 268217,
+      "word": "牢A直播",
+      "onboard_time": 1768563680,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 384356,
       "num": 304252,
       "word": "一条小团团时隔两年更新视频",
@@ -384,6 +432,14 @@
       "word": "曝孟子义为将门毒后减重至88斤",
       "onboard_time": 1768521679,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 375313,
+      "num": 807635,
+      "word": "轧戏",
+      "onboard_time": 1768477339,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -409,14 +465,6 @@
       "onboard_time": 1768544960,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 353394,
-      "num": 299087,
-      "word": "女子向出轨丈夫道歉15天企业发声",
-      "onboard_time": 1768562182,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 335061,
@@ -468,7 +516,7 @@
     },
     {
       "raw_hot": 322940,
-      "num": 155379,
+      "num": 267632,
       "word": "杨紫孙俪宋祖儿同框合影",
       "onboard_time": 1768562001,
       "rank": 23,
@@ -547,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295283,
+      "num": 267831,
+      "word": "晕倒去世女孩母亲在崩溃边缘",
+      "onboard_time": 1768564224,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 294784,
       "num": 338315,
       "word": "韩国火灾已投入85辆消防车",
@@ -577,6 +633,14 @@
       "onboard_time": 1768560562,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271225,
+      "num": 271225,
+      "word": "世界之外",
+      "onboard_time": 1768565721,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 268328,
@@ -707,14 +771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 233792,
-      "num": 233792,
-      "word": "轧戏",
-      "onboard_time": 1768477339,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 229514,
       "num": 560630,
       "word": "无限暖暖",
@@ -763,12 +819,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 214450,
-      "num": 390218,
-      "word": "胖东来599元羽绒服进价457.9元",
-      "onboard_time": 1768559724,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 214137,
+      "num": 271176,
+      "word": "薛之谦连开9场",
+      "onboard_time": 1768566321,
+      "rank": 4,
+      "category": "演出"
     },
     {
       "raw_hot": 213801,
@@ -811,14 +867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 204263,
-      "num": 134630,
-      "word": "杜华回复王一博",
-      "onboard_time": 1768562722,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 202209,
       "num": 196319,
       "word": "左航换手机",
@@ -843,6 +891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198219,
+      "num": 198219,
+      "word": "巴厘岛吃饭孩子弄倒40万印尼盾餐桌",
+      "onboard_time": 1768563261,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 195733,
       "num": 195733,
       "word": "云旗郝熠然红秀双人封面",
@@ -851,12 +907,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 194024,
+      "num": 194024,
+      "word": "宋轶驼色大衣",
+      "onboard_time": 1768567100,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192786,
       "num": 446106,
       "word": "俄男子从5楼纵身跳进雪堆未受伤",
       "onboard_time": 1768534702,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 192495,
+      "num": 270653,
+      "word": "蔡徐坤印尼节目",
+      "onboard_time": 1768567401,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 191346,
@@ -1003,12 +1075,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167868,
+      "num": 167868,
+      "word": "有歌",
+      "onboard_time": 1768567824,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167020,
       "num": 209164,
       "word": "贺娇龙悼念仪式结束遗体将送往伊宁",
       "onboard_time": 1768549401,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166110,
+      "num": 166110,
+      "word": "穆祉丞王橹杰来自天堂的魔鬼官摄",
+      "onboard_time": 1768565241,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 164380,
@@ -1051,6 +1139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 158510,
+      "num": 166656,
+      "word": "二人因乞讨相恋五年共同收入32万元",
+      "onboard_time": 1768563380,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157817,
       "num": 157817,
       "word": "原来各地的驾照难度是不一样的",
@@ -1073,6 +1169,14 @@
       "onboard_time": 1768536081,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156104,
+      "num": 156104,
+      "word": "陈小群",
+      "onboard_time": 1768568000,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 155752,
@@ -1187,6 +1291,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 146472,
+      "num": 146472,
+      "word": "宋祖儿薄荷绿抹胸裙",
+      "onboard_time": 1768567340,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 146260,
       "num": 146260,
       "word": "万能的大熊",
@@ -1283,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137197,
+      "num": 137197,
+      "word": "辛弃疾的故事后劲太大了",
+      "onboard_time": 1768567701,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137135,
       "num": 137135,
       "word": "背了一页单词就出国了",
@@ -1337,6 +1457,14 @@
       "onboard_time": 1768552520,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132736,
+      "num": 132736,
+      "word": "花3.9万在鹤岗买房生活的感受",
+      "onboard_time": 1768564583,
+      "rank": 36,
+      "category": "休闲,情感"
     },
     {
       "raw_hot": 130828,
@@ -1433,6 +1561,14 @@
       "onboard_time": 1768563562,
       "rank": 33,
       "category": "海外新闻,互联网"
+    },
+    {
+      "raw_hot": 124055,
+      "num": 124055,
+      "word": "女子吐槽14万的钻石项链200卖不出",
+      "onboard_time": 1768566981,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123783,
@@ -1643,12 +1779,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 112746,
-      "num": 112746,
-      "word": "牢A直播",
-      "onboard_time": 1768563680,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 112789,
+      "num": 112789,
+      "word": "美军F35A战斗机在日本近海消失",
+      "onboard_time": 1768567761,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 112385,
@@ -1835,6 +1971,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 102965,
+      "num": 102965,
+      "word": "HLE对战T1",
+      "onboard_time": 1768560683,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 102794,
       "num": 102794,
       "word": "你好星期六",
@@ -1849,6 +1993,14 @@
       "onboard_time": 1768549040,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102287,
+      "num": 134696,
+      "word": "新一届国乒教练员竞聘结果公示结束",
+      "onboard_time": 1768568182,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 102056,
@@ -1897,6 +2049,14 @@
       "onboard_time": 1768561583,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100271,
+      "num": 100271,
+      "word": "T1战胜HLE",
+      "onboard_time": 1768568122,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 99651,
@@ -2187,6 +2347,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 90369,
+      "num": 90369,
+      "word": "表面按电梯实则背后抱",
+      "onboard_time": 1768568000,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89824,
       "num": 140823,
       "word": "中国冬奥会史上首枚金牌",
@@ -2227,14 +2395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 88702,
-      "num": 88702,
-      "word": "西贝公关副总裁宋宣离职",
-      "onboard_time": 1768563201,
-      "rank": 45,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 88434,
       "num": 88434,
       "word": "马龙成龙一起打乒乓球了",
@@ -2249,6 +2409,14 @@
       "onboard_time": 1768560562,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 88221,
+      "num": 88221,
+      "word": "Gumayusi面对T1超神",
+      "onboard_time": 1768566501,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 88098,
@@ -2363,6 +2531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86133,
+      "num": 133161,
+      "word": "证监会严肃查处过度炒作",
+      "onboard_time": 1768567040,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85923,
       "num": 85923,
       "word": "韩国AI大赛引争议",
@@ -2395,20 +2571,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85264,
-      "num": 93486,
-      "word": "HLE对战T1",
-      "onboard_time": 1768560683,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 84899,
       "num": 84899,
       "word": "李国庆评迅雷案贪腐就是明抢",
       "onboard_time": 1768551740,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 84216,
+      "num": 84216,
+      "word": "拒去雪山仍被带七旬老人旅游猝逝",
+      "onboard_time": 1768564224,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83925,
@@ -2536,14 +2712,6 @@
       "word": "香港一商场警察开枪制服持刀嫌犯",
       "onboard_time": 1768491201,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79937,
-      "num": 107637,
-      "word": "二人因乞讨相恋五年共同收入32万元",
-      "onboard_time": 1768563380,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2939,6 +3107,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 52918,
+      "num": 82687,
+      "word": "周启豪3比2梁靖崑",
+      "onboard_time": 1768566802,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52893,
       "num": 52893,
       "word": "原神超话签到",
@@ -2955,6 +3131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51486,
+      "num": 82132,
+      "word": "提醒纳税人对近三年境外所得开展自查",
+      "onboard_time": 1768566381,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49848,
       "num": 69854,
       "word": "马克龙称会有更多士兵前往格陵兰岛",
@@ -2969,6 +3153,14 @@
       "onboard_time": 1768483460,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 48576,
+      "num": 667108,
+      "word": "中国天眼又立功了",
+      "onboard_time": 1768544061,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 48343,
@@ -3017,14 +3209,6 @@
       "onboard_time": 1768474639,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46154,
-      "num": 107982,
-      "word": "巴厘岛吃饭孩子弄倒40万印尼盾餐桌",
-      "onboard_time": 1768563261,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 43783,
@@ -3096,14 +3280,6 @@
       "word": "央行8项政策支持实体经济",
       "onboard_time": 1768531700,
       "rank": 40,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 39197,
-      "num": 667108,
-      "word": "中国天眼又立功了",
-      "onboard_time": 1768544061,
-      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -3267,6 +3443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22140,
+      "num": 269147,
+      "word": "长城归元是汽车界的活字印刷术",
+      "onboard_time": 1768565241,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 21057,
       "num": 24888,
       "word": "轻生女子母亲称男方是远亲知根知底",
@@ -3377,6 +3561,14 @@
       "onboard_time": 1768548320,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 7301,
+      "num": 609998,
+      "word": "器官也能3D打印了",
+      "onboard_time": 1768568302,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
@@ -3391,6 +3583,9 @@
     },
     {
       "word": "#习近平会见加拿大总理#"
+    },
+    {
+      "word": "#习近平会见加拿大总理卡尼#"
     }
   ]
 }
