@@ -1,0 +1,410 @@
+{
+  "runTime": 1768562887491,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 786990,
+        "num": 1125918,
+        "word": "刘翔回应移民美国",
+        "onboard_time": 1768559182,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297062,
+        "num": 790668,
+        "word": "坐高铁可以不用自己扛行李了",
+        "onboard_time": 1768541721,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18355,
+        "num": 623501,
+        "word": "6图看国家水网惠及百姓日常生活",
+        "onboard_time": 1768548801,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 212361,
+        "num": 391219,
+        "word": "辅警保住100多万哭出了声",
+        "onboard_time": 1768556541,
+        "rank": 3,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 193511,
+        "num": 338315,
+        "word": "韩国火灾已投入85辆消防车",
+        "onboard_time": 1768555822,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 306985,
+        "num": 306985,
+        "word": "泡泡玛特星星人",
+        "onboard_time": 1768560023,
+        "rank": 5,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 292720,
+        "num": 292720,
+        "word": "第五人格",
+        "onboard_time": 1768561643,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117739,
+        "num": 284371,
+        "word": "孙颖莎王楚钦最想尝试的冬奥会项目",
+        "onboard_time": 1768560920,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100479,
+        "num": 270432,
+        "word": "尹锡悦被判5年",
+        "onboard_time": 1768543941,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93234,
+        "num": 268583,
+        "word": "胖东来599元羽绒服进价457.9元",
+        "onboard_time": 1768559724,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1307323,
+        "num": 247223,
+        "word": "女孩晕倒离世前妈妈疑已哄了一小时",
+        "onboard_time": 1768560984,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369509,
+        "num": 241686,
+        "word": "617分考生放弃985选职业院校",
+        "onboard_time": 1768557440,
+        "rank": 11,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 232616,
+        "num": 232616,
+        "word": "6岁女童发烧17天脑子险被吃掉",
+        "onboard_time": 1768560562,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207451,
+        "num": 207451,
+        "word": "印尼一婚礼因新郎外貌爆火",
+        "onboard_time": 1768544900,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 203841,
+        "num": 203841,
+        "word": "轧戏",
+        "onboard_time": 1768560441,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178488,
+        "num": 178488,
+        "word": "电影镖人官博",
+        "onboard_time": 1768555402,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177283,
+        "num": 177283,
+        "word": "一条小团团时隔两年更新视频",
+        "onboard_time": 1768554621,
+        "rank": 16,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 173925,
+        "num": 173925,
+        "word": "檀健次 何不同舟渡",
+        "onboard_time": 1768556781,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157217,
+        "num": 157217,
+        "word": "TF家族新音官摄",
+        "onboard_time": 1768559062,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 48187,
+        "num": 157199,
+        "word": "日本失控将给日本人民造成毁灭性灾难",
+        "onboard_time": 1768562481,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 579130,
+        "num": 156418,
+        "word": "李湘全平台账号被禁止关注",
+        "onboard_time": 1768532959,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1077928,
+        "num": 155988,
+        "word": "罗永浩回应贾国龙喊话",
+        "onboard_time": 1768559724,
+        "rank": 21,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 427819,
+        "num": 155784,
+        "word": "时代少年团物料",
+        "onboard_time": 1768560142,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278800,
+        "num": 155379,
+        "word": "杨紫孙俪宋祖儿同框合影",
+        "onboard_time": 1768562001,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190163,
+        "num": 154724,
+        "word": "月入一万花一万的真实生活",
+        "onboard_time": 1768556061,
+        "rank": 24,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 264994,
+        "num": 154378,
+        "word": "侯鸿亮采访",
+        "onboard_time": 1768558402,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225743,
+        "num": 153818,
+        "word": "王一博工作室蓝V没了",
+        "onboard_time": 1768557743,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162117,
+        "num": 153413,
+        "word": "男子驾车撞死婆孙十余日后也因病身亡",
+        "onboard_time": 1768561342,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153226,
+        "num": 153226,
+        "word": "第五人格 擦边",
+        "onboard_time": 1768540400,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151023,
+        "num": 151023,
+        "word": "女子向出轨丈夫道歉15天企业发声",
+        "onboard_time": 1768562182,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148151,
+        "num": 148151,
+        "word": "马克龙右眼血管破裂",
+        "onboard_time": 1768560082,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92837,
+        "num": 146543,
+        "word": "专家称A股全面牛市还未启动",
+        "onboard_time": 1768560142,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 146191,
+        "num": 146191,
+        "word": "张慧雯娜扎聊天记录",
+        "onboard_time": 1768554200,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141441,
+        "num": 141441,
+        "word": "买房千万不要买临街的",
+        "onboard_time": 1768556720,
+        "rank": 33,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 138819,
+        "num": 138819,
+        "word": "王玉雯看张新成新剧被气到",
+        "onboard_time": 1768557863,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127326,
+        "num": 127326,
+        "word": "薛之谦四巡",
+        "onboard_time": 1768551799,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112385,
+        "num": 112385,
+        "word": "普通人化妆最有效的一步",
+        "onboard_time": 1768556959,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 118147,
+        "num": 111789,
+        "word": "时代少年团七人更是顶呱呱vlog",
+        "onboard_time": 1768561702,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110208,
+        "num": 110208,
+        "word": "黄子弘凡翻牌",
+        "onboard_time": 1768561761,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29940,
+        "num": 103383,
+        "word": "医生强奸2幼女被判8年家属坚称无罪",
+        "onboard_time": 1768562540,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100306,
+        "num": 100306,
+        "word": "轧戏直播",
+        "onboard_time": 1768561583,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99500,
+        "num": 99500,
+        "word": "镖人",
+        "onboard_time": 1768555881,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99231,
+        "num": 99231,
+        "word": "滑雪场出片的天才方法",
+        "onboard_time": 1768562602,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 95549,
+        "num": 95549,
+        "word": "杜华回复王一博",
+        "onboard_time": 1768562722,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82751,
+        "num": 93486,
+        "word": "HLE对战T1",
+        "onboard_time": 1768560683,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92485,
+        "num": 92485,
+        "word": "喝农药自杀新娘与新郎相差15岁",
+        "onboard_time": 1768552701,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92169,
+        "num": 92169,
+        "word": "两只猫打了一辈子架都没见过面",
+        "onboard_time": 1768562062,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90115,
+        "num": 90115,
+        "word": "警犬 通报就通报呗",
+        "onboard_time": 1768560382,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85481,
+        "num": 85481,
+        "word": "对王者没概念有多可怕",
+        "onboard_time": 1768562602,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84809,
+        "num": 84809,
+        "word": "男子撞死婆孙后病亡受害者发声",
+        "onboard_time": 1768558283,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平接受18位驻华大使递交国书#"
+    }
+  }
+}

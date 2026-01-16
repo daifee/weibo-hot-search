@@ -1,6 +1,6 @@
 {
   "startTime": 1768495443021,
-  "endTime": 1768560619525,
+  "endTime": 1768562887491,
   "band_list": [
     {
       "raw_hot": 9503714,
@@ -33,6 +33,14 @@
       "onboard_time": 1768559724,
       "rank": 11,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 1307323,
+      "num": 247223,
+      "word": "女孩晕倒离世前妈妈疑已哄了一小时",
+      "onboard_time": 1768560984,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1219910,
@@ -89,6 +97,14 @@
       "onboard_time": 1768543941,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 786990,
+      "num": 1125918,
+      "word": "刘翔回应移民美国",
+      "onboard_time": 1768559182,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 730611,
@@ -299,12 +315,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 430512,
-      "num": 430512,
-      "word": "刘翔回应移民美国",
-      "onboard_time": 1768559182,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 427819,
+      "num": 211330,
+      "word": "时代少年团物料",
+      "onboard_time": 1768560142,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 427709,
@@ -369,6 +385,14 @@
       "onboard_time": 1768521679,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 369509,
+      "num": 241686,
+      "word": "617分考生放弃985选职业院校",
+      "onboard_time": 1768557440,
+      "rank": 19,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 361872,
@@ -451,6 +475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 306985,
+      "num": 306985,
+      "word": "泡泡玛特星星人",
+      "onboard_time": 1768560023,
+      "rank": 9,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 305522,
       "num": 305522,
       "word": "时尚之夜阵容官宣",
@@ -492,11 +524,19 @@
     },
     {
       "raw_hot": 294784,
-      "num": 304501,
+      "num": 338315,
       "word": "韩国火灾已投入85辆消防车",
       "onboard_time": 1768555822,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 292720,
+      "num": 292720,
+      "word": "第五人格",
+      "onboard_time": 1768561643,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 286282,
@@ -515,12 +555,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278800,
+      "num": 155379,
+      "word": "杨紫孙俪宋祖儿同框合影",
+      "onboard_time": 1768562001,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268328,
       "num": 268328,
       "word": "只要西贝在还跟华与华合作",
       "onboard_time": 1768526839,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 264994,
+      "num": 154378,
+      "word": "侯鸿亮采访",
+      "onboard_time": 1768558402,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 261187,
@@ -537,14 +593,6 @@
       "onboard_time": 1768529178,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 255854,
-      "num": 228669,
-      "word": "617分考生放弃985选职业院校",
-      "onboard_time": 1768557440,
-      "rank": 19,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 254552,
@@ -635,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232616,
+      "num": 232616,
+      "word": "6岁女童发烧17天脑子险被吃掉",
+      "onboard_time": 1768560562,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 229514,
       "num": 560630,
       "word": "无限暖暖",
@@ -691,12 +747,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 211330,
-      "num": 211330,
-      "word": "时代少年团物料",
-      "onboard_time": 1768560142,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 212361,
+      "num": 391219,
+      "word": "辅警保住100多万哭出了声",
+      "onboard_time": 1768556541,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 209922,
@@ -731,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203841,
+      "num": 228071,
+      "word": "轧戏",
+      "onboard_time": 1768477339,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202209,
       "num": 196319,
       "word": "左航换手机",
@@ -761,14 +825,6 @@
       "onboard_time": 1768539503,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 194146,
-      "num": 228071,
-      "word": "轧戏",
-      "onboard_time": 1768477339,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 192786,
@@ -857,14 +913,6 @@
       "onboard_time": 1768534401,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 182384,
-      "num": 233583,
-      "word": "辅警保住100多万哭出了声",
-      "onboard_time": 1768556541,
-      "rank": 29,
-      "category": "正能量"
     },
     {
       "raw_hot": 180306,
@@ -963,6 +1011,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 162117,
+      "num": 153413,
+      "word": "男子驾车撞死婆孙十余日后也因病身亡",
+      "onboard_time": 1768561342,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159916,
       "num": 140789,
       "word": "夏迎春下房管",
@@ -1043,20 +1099,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 152977,
-      "num": 152977,
-      "word": "侯鸿亮采访",
-      "onboard_time": 1768558402,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 151300,
       "num": 151300,
       "word": "不油不腻不老不登",
       "onboard_time": 1768538900,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 151023,
+      "num": 151023,
+      "word": "女子向出轨丈夫道歉15天企业发声",
+      "onboard_time": 1768562182,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149843,
@@ -1443,12 +1499,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118682,
-      "num": 232644,
-      "word": "泡泡玛特星星人",
-      "onboard_time": 1768560023,
-      "rank": 9,
-      "category": "休闲"
+      "raw_hot": 118147,
+      "num": 111789,
+      "word": "时代少年团七人更是顶呱呱vlog",
+      "onboard_time": 1768561702,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 118013,
@@ -1457,6 +1513,14 @@
       "onboard_time": 1768538962,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 117739,
+      "num": 284371,
+      "word": "孙颖莎王楚钦最想尝试的冬奥会项目",
+      "onboard_time": 1768560920,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 117288,
@@ -1555,8 +1619,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 112247,
-      "num": 112247,
+      "raw_hot": 112385,
+      "num": 112385,
       "word": "普通人化妆最有效的一步",
       "onboard_time": 1768556959,
       "rank": 34,
@@ -1577,6 +1641,14 @@
       "onboard_time": 1768546401,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 110208,
+      "num": 110208,
+      "word": "黄子弘凡翻牌",
+      "onboard_time": 1768561761,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 108982,
@@ -1779,6 +1851,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 100306,
+      "num": 100306,
+      "word": "轧戏直播",
+      "onboard_time": 1768561583,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99651,
       "num": 99651,
       "word": "江浙沪创一代8小时凑出570万",
@@ -1793,6 +1873,14 @@
       "onboard_time": 1768530979,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99231,
+      "num": 99231,
+      "word": "滑雪场出片的天才方法",
+      "onboard_time": 1768562602,
+      "rank": 42,
+      "category": "运动健身"
     },
     {
       "raw_hot": 98104,
@@ -1883,6 +1971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95549,
+      "num": 95549,
+      "word": "杜华回复王一博",
+      "onboard_time": 1768562722,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95309,
       "num": 109519,
       "word": "王星越高叶嫂嫂开门我是我哥",
@@ -1947,6 +2043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 93234,
+      "num": 268583,
+      "word": "胖东来599元羽绒服进价457.9元",
+      "onboard_time": 1768559724,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93195,
       "num": 93195,
       "word": "恋与深空取消男主等身雕像展出",
@@ -1961,6 +2065,14 @@
       "onboard_time": 1768555822,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 92837,
+      "num": 146543,
+      "word": "专家称A股全面牛市还未启动",
+      "onboard_time": 1768560142,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 92783,
@@ -2019,20 +2131,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92169,
+      "num": 92169,
+      "word": "两只猫打了一辈子架都没见过面",
+      "onboard_time": 1768562062,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92071,
       "num": 208313,
       "word": "孙俪往那一站就是美",
       "onboard_time": 1768554621,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 91650,
-      "num": 91650,
-      "word": "专家称A股全面牛市还未启动",
-      "onboard_time": 1768560142,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 91261,
@@ -2227,6 +2339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85481,
+      "num": 85481,
+      "word": "对王者没概念有多可怕",
+      "onboard_time": 1768562602,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 85397,
       "num": 85397,
       "word": "平台回应女童舞蹈服宣传图像孕肚",
@@ -2265,6 +2385,14 @@
       "onboard_time": 1768546100,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82751,
+      "num": 93486,
+      "word": "HLE对战T1",
+      "onboard_time": 1768560683,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 82708,
@@ -2611,14 +2739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66371,
-      "num": 109703,
-      "word": "6岁女童发烧17天脑子险被吃掉",
-      "onboard_time": 1768560562,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66038,
       "num": 172820,
       "word": "白银50天涨逾80%",
@@ -2787,6 +2907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48187,
+      "num": 157199,
+      "word": "日本失控将给日本人民造成毁灭性灾难",
+      "onboard_time": 1768562481,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 47600,
       "num": 114669,
       "word": "这个阵容怎么凑齐的",
@@ -2849,14 +2977,6 @@
       "onboard_time": 1768487842,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 42388,
-      "num": 100726,
-      "word": "胖东来599元羽绒服进价457.9元",
-      "onboard_time": 1768559724,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42366,
@@ -2999,6 +3119,14 @@
       "num": 93034,
       "word": "行业协会有89名副会长引质疑",
       "onboard_time": 1768541422,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29940,
+      "num": 103383,
+      "word": "医生强奸2幼女被判8年家属坚称无罪",
+      "onboard_time": 1768562540,
       "rank": 39,
       "category": "民生新闻"
     },
