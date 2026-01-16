@@ -1,6 +1,6 @@
 {
   "startTime": 1768581578200,
-  "endTime": 1768584683546,
+  "endTime": 1768585719952,
   "band_list": [
     {
       "raw_hot": 735813,
@@ -131,6 +131,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 111067,
+      "num": 190093,
+      "word": "陈星旭说戏里骑马一天3000",
+      "onboard_time": 1768584017,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 110699,
+      "num": 110699,
+      "word": "陈伟霆米兰走秀",
+      "onboard_time": 1768584376,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 110109,
       "num": 112915,
       "word": "杜华回复王一博",
@@ -153,22 +169,6 @@
       "onboard_time": 1768572083,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 97648,
-      "num": 97648,
-      "word": "陈伟霆米兰走秀",
-      "onboard_time": 1768584376,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 95874,
-      "num": 98198,
-      "word": "陈星旭说戏里骑马一天3000",
-      "onboard_time": 1768584017,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 87686,
@@ -427,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28285,
+      "num": 68144,
+      "word": "饿了去上班下班积食了的工作",
+      "onboard_time": 1768584077,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 27791,
       "num": 68153,
       "word": "毛不易现身央视路透",
@@ -449,14 +457,6 @@
       "onboard_time": 1768560920,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 26994,
-      "num": 68144,
-      "word": "饿了去上班下班积食了的工作",
-      "onboard_time": 1768584077,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 24617,
