@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768571100670,
+  "endTime": 1768571806212,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -4979,6 +4979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 465203,
+      "num": 442806,
+      "word": "女子向出轨丈夫道歉15天企业发声",
+      "onboard_time": 1768562182,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 464279,
       "num": 464279,
       "word": "国产积木已经进化到这种水平了",
@@ -5497,14 +5505,6 @@
       "onboard_time": 1768360940,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 442806,
-      "num": 442806,
-      "word": "女子向出轨丈夫道歉15天企业发声",
-      "onboard_time": 1768562182,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 442685,
@@ -6427,6 +6427,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 397331,
+      "num": 202947,
+      "word": "日本被打到七寸了",
+      "onboard_time": 1768570521,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 396541,
       "num": 396541,
       "word": "二婚妻子收15万彩礼后称要丁克",
@@ -6545,6 +6553,14 @@
       "onboard_time": 1767361522,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 391531,
+      "num": 333499,
+      "word": "陈小群",
+      "onboard_time": 1768568000,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 391488,
@@ -7699,6 +7715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 348102,
+      "num": 317111,
+      "word": "桃黑黑收到了有史以来最离谱的电动车",
+      "onboard_time": 1768569861,
+      "rank": 15,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 348089,
       "num": 240680,
       "word": "建议所有外卖包装都按这个强度来",
@@ -8065,14 +8089,6 @@
       "onboard_time": 1767272301,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 333499,
-      "num": 333499,
-      "word": "陈小群",
-      "onboard_time": 1768568000,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 333149,
@@ -8555,6 +8571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 320597,
+      "num": 624818,
+      "word": "恋与深空直播",
+      "onboard_time": 1768570641,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 320424,
       "num": 320424,
       "word": "委内瑞拉首都主干道空了",
@@ -8721,14 +8745,6 @@
       "onboard_time": 1767751762,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 317111,
-      "num": 317111,
-      "word": "桃黑黑收到了有史以来最离谱的电动车",
-      "onboard_time": 1768569861,
-      "rank": 15,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 316987,
@@ -9009,14 +9025,6 @@
       "onboard_time": 1767966801,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 309070,
-      "num": 202947,
-      "word": "日本被打到七寸了",
-      "onboard_time": 1768570521,
-      "rank": 20,
-      "category": "国内时政"
     },
     {
       "raw_hot": 308977,
@@ -13155,14 +13163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218126,
-      "num": 624818,
-      "word": "恋与深空直播",
-      "onboard_time": 1768570641,
-      "rank": 4,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 218061,
       "num": 218061,
       "word": "聂卫平战日本特意穿了国乒球衣",
@@ -13697,6 +13697,14 @@
       "onboard_time": 1767684801,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 209662,
+      "num": 604292,
+      "word": "新一届国乒教练员竞聘结果公示结束",
+      "onboard_time": 1768568182,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 209399,
@@ -19275,6 +19283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 160446,
+      "num": 157396,
+      "word": "陈丽君阿育娅",
+      "onboard_time": 1768571482,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 160445,
       "num": 1028423,
       "word": "影视飓风年度相机",
@@ -20288,14 +20304,6 @@
       "word": "周冠宇加盟凯迪拉克F1车队",
       "onboard_time": 1767608840,
       "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 153052,
-      "num": 604292,
-      "word": "新一届国乒教练员竞聘结果公示结束",
-      "onboard_time": 1768568182,
-      "rank": 34,
       "category": "体育"
     },
     {
@@ -21657,6 +21665,14 @@
       "onboard_time": 1768397842,
       "rank": 35,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 145194,
+      "num": 145194,
+      "word": "人是经不起反复失望的",
+      "onboard_time": 1768571601,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 145166,
@@ -25091,6 +25107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128110,
+      "num": 128110,
+      "word": "楚楚别说了王爷人要碎了",
+      "onboard_time": 1768570641,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128100,
       "num": 128100,
       "word": "玉茗茶骨女鬼缠书生原来这么好嗑",
@@ -25596,7 +25620,7 @@
     },
     {
       "raw_hot": 126477,
-      "num": 628701,
+      "num": 665504,
       "word": "器官也能3D打印了",
       "onboard_time": 1768568302,
       "rank": 2,
@@ -25785,6 +25809,14 @@
       "onboard_time": 1767266060,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 125522,
+      "num": 125522,
+      "word": "王力宏演唱会好多老己啊",
+      "onboard_time": 1768571062,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 125518,
@@ -27537,6 +27569,14 @@
       "onboard_time": 1768191803,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 118370,
+      "num": 118370,
+      "word": "加拿大将进口4.9万辆中国电车",
+      "onboard_time": 1768570581,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 118367,
@@ -30371,14 +30411,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 108407,
-      "num": 108407,
-      "word": "加拿大将进口4.9万辆中国电车",
-      "onboard_time": 1768570581,
-      "rank": 34,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 108386,
       "num": 108386,
       "word": "芒果捧新人的资源",
@@ -32097,14 +32129,6 @@
       "onboard_time": 1767948861,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103373,
-      "num": 103373,
-      "word": "楚楚别说了王爷人要碎了",
-      "onboard_time": 1768570641,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 103364,
@@ -35195,6 +35219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 95475,
+      "num": 125819,
+      "word": "辽宁男篮vs新疆男篮",
+      "onboard_time": 1768570882,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95474,
       "num": 139485,
       "word": "7岁女童镜片配反10个月后才发现",
@@ -37555,14 +37587,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 89365,
-      "num": 97236,
-      "word": "辽宁男篮vs新疆男篮",
-      "onboard_time": 1768570882,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 89349,
       "num": 89349,
       "word": "曹骏廖慧佳新剧病娇世子和阴湿宠妾",
@@ -38353,6 +38377,14 @@
       "onboard_time": 1768548200,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 87382,
+      "num": 91934,
+      "word": "北京男篮vs山西男篮",
+      "onboard_time": 1768571482,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 87373,
@@ -39491,14 +39523,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 84758,
-      "num": 96756,
-      "word": "王力宏演唱会好多老己啊",
-      "onboard_time": 1768571062,
-      "rank": 43,
-      "category": "演出"
-    },
-    {
       "raw_hot": 84756,
       "num": 179959,
       "word": "看车崇健吃薯片这段好心酸",
@@ -40025,6 +40049,14 @@
       "onboard_time": 1767250400,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82768,
+      "num": 82768,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1768571361,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 82767,
@@ -41905,6 +41937,14 @@
       "onboard_time": 1767941841,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77244,
+      "num": 77244,
+      "word": "TF家族新年音乐会",
+      "onboard_time": 1768571482,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 77160,
@@ -45251,6 +45291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62060,
+      "num": 205058,
+      "word": "终末地公测前瞻",
+      "onboard_time": 1768570521,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 62054,
       "num": 82760,
       "word": "王橹杰张函瑞小猫转圈",
@@ -46353,14 +46401,6 @@
       "onboard_time": 1768557923,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 55453,
-      "num": 205058,
-      "word": "终末地公测前瞻",
-      "onboard_time": 1768570521,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 55446,
