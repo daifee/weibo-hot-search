@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768603601642,
+  "endTime": 1768606140573,
   "band_list": [
     {
       "raw_hot": 9503714,
@@ -2308,7 +2308,7 @@
     },
     {
       "raw_hot": 450416,
-      "num": 780469,
+      "num": 796126,
       "word": "日本网帖煽动对高考考生性骚扰",
       "onboard_time": 1768577122,
       "rank": 19,
@@ -10467,6 +10467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129988,
+      "num": 129988,
+      "word": "央视盛赞蔡依林演唱会舞台",
+      "onboard_time": 1768604896,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 129863,
       "num": 250149,
       "word": "小米新手表手环曝光",
@@ -10923,6 +10931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125351,
+      "num": 68292,
+      "word": "4种无效早睡越睡越累",
+      "onboard_time": 1768604836,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 125303,
       "num": 128801,
       "word": "违规穿越鳌太线5人因分歧拆成3股",
@@ -11121,6 +11137,14 @@
       "onboard_time": 1768284321,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 122754,
+      "num": 42666,
+      "word": "晴儿不愧是甄嬛带大的",
+      "onboard_time": 1768604896,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 122541,
@@ -11681,6 +11705,14 @@
       "onboard_time": 1768481060,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117316,
+      "num": 52920,
+      "word": "向出轨丈夫道歉女子带货销售额过万",
+      "onboard_time": 1768604657,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117288,
@@ -16643,6 +16675,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 85569,
+      "num": 67791,
+      "word": "肖战感谢1124.1万名观众",
+      "onboard_time": 1768604836,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85499,
       "num": 85499,
       "word": "沈梦辰 会做饭的男人都是在发光",
@@ -17539,6 +17579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 79710,
+      "num": 67656,
+      "word": "窦骁何超莲说春节计划是去旅游",
+      "onboard_time": 1768604776,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79673,
       "num": 79673,
       "word": "王鹤棣宋茜王嘉尔豪门Party",
@@ -17817,6 +17865,14 @@
       "onboard_time": 1768113140,
       "rank": 44,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 77489,
+      "num": 52287,
+      "word": "你弄个这么大的吊牌我怎么穿上飞机",
+      "onboard_time": 1768605616,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 77244,
@@ -18731,6 +18787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 65837,
+      "num": 65837,
+      "word": "42岁男演员被欠薪送后外卖最新进展",
+      "onboard_time": 1768605616,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65803,
       "num": 76683,
       "word": "冰淇淋吐司",
@@ -19009,6 +19073,14 @@
       "onboard_time": 1768190781,
       "rank": 19,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 61640,
+      "num": 69489,
+      "word": "专家称装死小羊可以人工繁殖更多只",
+      "onboard_time": 1768605317,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61585,
@@ -19739,6 +19811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46850,
+      "num": 46850,
+      "word": "邓为悼念去世粉丝",
+      "onboard_time": 1768604776,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46791,
       "num": 123310,
       "word": "高市错误言论影响日本多个产业",
@@ -19793,6 +19873,14 @@
       "onboard_time": 1768433720,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44769,
+      "num": 42639,
+      "word": "王楚钦聚餐合照",
+      "onboard_time": 1768604896,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 44677,
@@ -19921,6 +20009,14 @@
       "onboard_time": 1768115182,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 42326,
+      "num": 42754,
+      "word": "银价狂飙",
+      "onboard_time": 1768605678,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 42171,
@@ -20217,6 +20313,14 @@
       "onboard_time": 1768152136,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 38146,
+      "num": 38146,
+      "word": "别忽视霉菌对身体的危害",
+      "onboard_time": 1768605796,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 38048,
@@ -20587,6 +20691,14 @@
       "category": "民生新闻,汽车"
     },
     {
+      "raw_hot": 32108,
+      "num": 69060,
+      "word": "WTT多哈球星挑战赛",
+      "onboard_time": 1768583417,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31998,
       "num": 46354,
       "word": "反腐大片第二集播出",
@@ -20825,14 +20937,6 @@
       "onboard_time": 1768124360,
       "rank": 25,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 28668,
-      "num": 69060,
-      "word": "WTT多哈球星挑战赛",
-      "onboard_time": 1768583417,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 28620,
@@ -21171,6 +21275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 24296,
+      "num": 26084,
+      "word": "上合组织关于伊朗局势的声明",
+      "onboard_time": 1768605616,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 24167,
       "num": 89210,
       "word": "有供应商称冬季校服都会贴膜",
@@ -21273,6 +21385,14 @@
       "onboard_time": 1768136001,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 23135,
+      "num": 26080,
+      "word": "第一批重返寂静岭的人已经在尖叫了",
+      "onboard_time": 1768606097,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 22998,
@@ -21827,6 +21947,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 14181,
+      "num": 469581,
+      "word": "让绿色发展点亮幸福生活",
+      "onboard_time": 1768568421,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14057,
       "num": 94297,
       "word": "揭秘产检正常出生畸形涉事医院",
@@ -21867,12 +21995,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 13079,
-      "num": 293742,
-      "word": "让绿色发展点亮幸福生活",
-      "onboard_time": 1768568421,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 12639,
+      "num": 31925,
+      "word": "短剧演员于清斌讨薪4个月仍未到账",
+      "onboard_time": 1768605796,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 12478,

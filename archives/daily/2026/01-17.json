@@ -1,6 +1,6 @@
 {
   "startTime": 1768581578200,
-  "endTime": 1768603601642,
+  "endTime": 1768606140573,
   "band_list": [
     {
       "raw_hot": 735813,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 450416,
-      "num": 780469,
+      "num": 796126,
       "word": "日本网帖煽动对高考考生性骚扰",
       "onboard_time": 1768577122,
       "rank": 0,
@@ -83,6 +83,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147011,
+      "num": 112027,
+      "word": "女子为生儿子拿命拼二胎再产一女",
+      "onboard_time": 1768572023,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145328,
       "num": 112034,
       "word": "短剧演员上脑综打败清华北大学霸",
@@ -107,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129988,
+      "num": 129988,
+      "word": "央视盛赞蔡依林演唱会舞台",
+      "onboard_time": 1768604896,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 125386,
       "num": 764742,
       "word": "胖东来599元羽绒服进价457.9元",
@@ -115,12 +131,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125351,
+      "num": 68292,
+      "word": "4种无效早睡越睡越累",
+      "onboard_time": 1768604836,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 122754,
+      "num": 42666,
+      "word": "晴儿不愧是甄嬛带大的",
+      "onboard_time": 1768604896,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121442,
       "num": 121442,
       "word": "花3.9万在鹤岗买房生活的感受",
       "onboard_time": 1768564583,
       "rank": 17,
       "category": "休闲,情感"
+    },
+    {
+      "raw_hot": 117316,
+      "num": 52920,
+      "word": "向出轨丈夫道歉女子带货销售额过万",
+      "onboard_time": 1768604657,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114429,
@@ -179,12 +219,12 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 87176,
-      "num": 112027,
-      "word": "女子为生儿子拿命拼二胎再产一女",
-      "onboard_time": 1768572023,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 85569,
+      "num": 67791,
+      "word": "肖战感谢1124.1万名观众",
+      "onboard_time": 1768604836,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 82435,
@@ -193,6 +233,22 @@
       "onboard_time": 1768569861,
       "rank": 25,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 79710,
+      "num": 67656,
+      "word": "窦骁何超莲说春节计划是去旅游",
+      "onboard_time": 1768604776,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 77489,
+      "num": 52287,
+      "word": "你弄个这么大的吊牌我怎么穿上飞机",
+      "onboard_time": 1768605616,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 72589,
@@ -211,6 +267,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 67390,
+      "num": 111964,
+      "word": "二人因乞讨相恋五年共同收入32万元",
+      "onboard_time": 1768563380,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65837,
+      "num": 65837,
+      "word": "42岁男演员被欠薪送后外卖最新进展",
+      "onboard_time": 1768605616,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62160,
       "num": 736513,
       "word": "最强大脑首期就是大乱战",
@@ -227,11 +299,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 60598,
-      "num": 111964,
-      "word": "二人因乞讨相恋五年共同收入32万元",
-      "onboard_time": 1768563380,
-      "rank": 26,
+      "raw_hot": 61640,
+      "num": 69489,
+      "word": "专家称装死小羊可以人工繁殖更多只",
+      "onboard_time": 1768605317,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -249,6 +321,14 @@
       "onboard_time": 1768581079,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 56838,
+      "num": 111749,
+      "word": "日本失控将给日本人民造成毁灭性灾难",
+      "onboard_time": 1768562481,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 56696,
@@ -281,6 +361,14 @@
       "onboard_time": 1768566981,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51957,
+      "num": 51957,
+      "word": "KPL",
+      "onboard_time": 1768605435,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 51703,
@@ -323,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46850,
+      "num": 46850,
+      "word": "邓为悼念去世粉丝",
+      "onboard_time": 1768604776,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46521,
       "num": 111712,
       "word": "董璇在最强大脑找到现实版蒋峤西",
@@ -337,6 +433,14 @@
       "onboard_time": 1768555881,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 44769,
+      "num": 42639,
+      "word": "王楚钦聚餐合照",
+      "onboard_time": 1768604896,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 43945,
@@ -371,12 +475,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 42396,
-      "num": 111749,
-      "word": "日本失控将给日本人民造成毁灭性灾难",
-      "onboard_time": 1768562481,
-      "rank": 44,
-      "category": "国际时政"
+      "raw_hot": 42326,
+      "num": 42754,
+      "word": "银价狂飙",
+      "onboard_time": 1768605678,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 38146,
+      "num": 38146,
+      "word": "别忽视霉菌对身体的危害",
+      "onboard_time": 1768605796,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 32431,
@@ -385,6 +497,14 @@
       "onboard_time": 1768583717,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 32108,
+      "num": 69060,
+      "word": "WTT多哈球星挑战赛",
+      "onboard_time": 1768583417,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 31068,
@@ -417,14 +537,6 @@
       "onboard_time": 1768560142,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 28668,
-      "num": 69060,
-      "word": "WTT多哈球星挑战赛",
-      "onboard_time": 1768583417,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 28285,
@@ -467,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24296,
+      "num": 26084,
+      "word": "上合组织关于伊朗局势的声明",
+      "onboard_time": 1768605616,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 24254,
       "num": 111788,
       "word": "梁靖崑止步男单32强",
@@ -481,6 +601,14 @@
       "onboard_time": 1768568182,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23135,
+      "num": 26080,
+      "word": "第一批重返寂静岭的人已经在尖叫了",
+      "onboard_time": 1768606097,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 19343,
@@ -507,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 14181,
+      "num": 469581,
+      "word": "让绿色发展点亮幸福生活",
+      "onboard_time": 1768568421,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13718,
       "num": 41668,
       "word": "韩国火灾已投入85辆消防车",
@@ -523,12 +659,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 13079,
-      "num": 293742,
-      "word": "让绿色发展点亮幸福生活",
-      "onboard_time": 1768568421,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 12639,
+      "num": 31925,
+      "word": "短剧演员于清斌讨薪4个月仍未到账",
+      "onboard_time": 1768605796,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 12413,
