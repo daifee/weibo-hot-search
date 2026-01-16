@@ -1,6 +1,6 @@
 {
   "startTime": 1768495443021,
-  "endTime": 1768546723493,
+  "endTime": 1768548759149,
   "band_list": [
     {
       "raw_hot": 4325889,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 483615,
+      "num": 1077378,
+      "word": "坐高铁可以不用自己扛行李了",
+      "onboard_time": 1768541721,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 482500,
       "num": 300182,
       "word": "7岁嫁人15岁生子短剧引众怒",
@@ -203,6 +211,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 433512,
+      "num": 190310,
+      "word": "炎亚纶发文再谈与鬼鬼关系",
+      "onboard_time": 1768544480,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 429013,
+      "num": 194143,
+      "word": "女子向出轨丈夫道歉可能构成新侵权",
+      "onboard_time": 1768544241,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 427709,
       "num": 787572,
       "word": "携程被多次约谈仍不改",
@@ -227,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 411632,
+      "num": 183847,
+      "word": "罗永浩回应西贝闭店",
+      "onboard_time": 1768548080,
+      "rank": 14,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 411381,
       "num": 305684,
       "word": "赵丽颖ELLE封面",
@@ -243,12 +275,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 392687,
-      "num": 194143,
-      "word": "女子向出轨丈夫道歉可能构成新侵权",
-      "onboard_time": 1768544241,
-      "rank": 15,
-      "category": "民生新闻"
+      "raw_hot": 390952,
+      "num": 390952,
+      "word": "银价也杀疯了",
+      "onboard_time": 1768544420,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 382802,
@@ -257,6 +289,14 @@
       "onboard_time": 1768521679,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 354818,
+      "num": 180680,
+      "word": "黄晓明说肖战很早就懂得要突破",
+      "onboard_time": 1768544960,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 335061,
@@ -307,6 +347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 286282,
+      "num": 180449,
+      "word": "程潇赵嘉敏 发小闺蜜勇闯娱乐圈",
+      "onboard_time": 1768545441,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282410,
       "num": 192244,
       "word": "鬼鬼回应排挤炎亚纶",
@@ -355,14 +403,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 244573,
-      "num": 180519,
-      "word": "坐高铁可以不用自己扛行李了",
-      "onboard_time": 1768541721,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 241582,
       "num": 241582,
       "word": "当你用父母的方式对待父母",
@@ -385,14 +425,6 @@
       "onboard_time": 1768540822,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 233992,
-      "num": 180962,
-      "word": "炎亚纶发文再谈与鬼鬼关系",
-      "onboard_time": 1768544480,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 229514,
@@ -475,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203000,
-      "num": 180680,
-      "word": "黄晓明说肖战很早就懂得要突破",
-      "onboard_time": 1768544960,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 202209,
       "num": 196319,
       "word": "左航换手机",
@@ -520,14 +544,6 @@
       "word": "王俊凯QQ音乐装扮",
       "onboard_time": 1768535241,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 191154,
-      "num": 180449,
-      "word": "程潇赵嘉敏 发小闺蜜勇闯娱乐圈",
-      "onboard_time": 1768545441,
-      "rank": 45,
       "category": "艺人"
     },
     {
@@ -569,14 +585,6 @@
       "onboard_time": 1768534401,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181534,
-      "num": 181534,
-      "word": "银价也杀疯了",
-      "onboard_time": 1768544420,
-      "rank": 18,
-      "category": "财经"
     },
     {
       "raw_hot": 180306,
@@ -651,6 +659,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 160180,
+      "num": 160180,
+      "word": "赛琳娜老公被网友p掉爆炸头",
+      "onboard_time": 1768547959,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159916,
       "num": 140789,
       "word": "夏迎春下房管",
@@ -700,7 +716,7 @@
     },
     {
       "raw_hot": 154607,
-      "num": 123939,
+      "num": 124611,
       "word": "陈都灵给李羲承进行曲原作道歉",
       "onboard_time": 1768544960,
       "rank": 27,
@@ -771,6 +787,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 141803,
+      "num": 141803,
+      "word": "胡兵和赌王女儿们同框",
+      "onboard_time": 1768547060,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140852,
       "num": 140852,
       "word": "smtm12",
@@ -785,6 +809,14 @@
       "onboard_time": 1768533440,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138682,
+      "num": 138682,
+      "word": "杨玏穿得baby开口daddy",
+      "onboard_time": 1768546821,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 137135,
@@ -867,6 +899,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 128428,
+      "num": 171698,
+      "word": "研究生剪辑上千部卖淫偷拍视频获刑",
+      "onboard_time": 1768547721,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127469,
       "num": 115006,
       "word": "派出所回应大学生偷外卖拘留5日",
@@ -883,12 +923,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 127219,
+      "num": 199768,
+      "word": "KPL春季赛",
+      "onboard_time": 1768548440,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125518,
       "num": 125518,
       "word": "比男主先爱上女主的是女二",
       "onboard_time": 1768539622,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124001,
+      "num": 154741,
+      "word": "生理性叹息",
+      "onboard_time": 1768545680,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 123783,
@@ -913,6 +969,14 @@
       "onboard_time": 1768532900,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121361,
+      "num": 121361,
+      "word": "李兰迪指导老师敖瑞鹏",
+      "onboard_time": 1768547480,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 121034,
@@ -955,12 +1019,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119248,
+      "num": 196935,
+      "word": "何炅谈黄雅莉变化",
+      "onboard_time": 1768547181,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118845,
       "num": 118845,
       "word": "陈妍希 你们是在哄宝宝",
       "onboard_time": 1768536501,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118650,
+      "num": 118650,
+      "word": "赵今麦闺蜜是开端导演女儿",
+      "onboard_time": 1768548261,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 118013,
@@ -1027,6 +1107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 113724,
+      "num": 139217,
+      "word": "女子已第5天向出轨丈夫道歉",
+      "onboard_time": 1768548140,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113428,
       "num": 649829,
       "word": "人民日报批自媒体摆拍造假",
@@ -1091,12 +1179,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108368,
+      "num": 108368,
+      "word": "小狗打狂犬疫苗打完真成狂犬了",
+      "onboard_time": 1768546879,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108295,
       "num": 108295,
       "word": "小城大事这段封神",
       "onboard_time": 1768538242,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107770,
+      "num": 156423,
+      "word": "宋威龙王耀庆没有相爱只有相杀",
+      "onboard_time": 1768547240,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 107643,
@@ -1235,6 +1339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 96784,
+      "num": 96784,
+      "word": "桃黑黑 喝多了但爷们要脸",
+      "onboard_time": 1768545321,
+      "rank": 41,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 96760,
       "num": 96760,
       "word": "果然人上了年纪就自动解锁一些动作",
@@ -1291,6 +1403,14 @@
       "category": "数码,财经"
     },
     {
+      "raw_hot": 93732,
+      "num": 93732,
+      "word": "刘宇宁加盟中国唱将",
+      "onboard_time": 1768547421,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93195,
       "num": 93195,
       "word": "恋与深空取消男主等身雕像展出",
@@ -1305,6 +1425,14 @@
       "onboard_time": 1768540822,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92750,
+      "num": 92750,
+      "word": "丁程鑫hi6再跳我是李飞",
+      "onboard_time": 1768546940,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 92520,
@@ -1331,28 +1459,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 91855,
-      "num": 91811,
-      "word": "生理性叹息",
-      "onboard_time": 1768545680,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 91822,
-      "num": 91822,
-      "word": "桃黑黑 喝多了但爷们要脸",
-      "onboard_time": 1768545321,
-      "rank": 41,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 91261,
       "num": 91261,
       "word": "草莓多少钱一斤才合适",
       "onboard_time": 1768523840,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 91048,
+      "num": 91048,
+      "word": "第一次见疯感这么强的短剧",
+      "onboard_time": 1768548440,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 89824,
@@ -1385,6 +1505,14 @@
       "onboard_time": 1768545080,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87405,
+      "num": 87405,
+      "word": "其实这3类主食真的巨减肥",
+      "onboard_time": 1768548200,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 87306,
@@ -1505,6 +1633,14 @@
       "onboard_time": 1768542322,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 81462,
+      "num": 81462,
+      "word": "你好星期六",
+      "onboard_time": 1768548681,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 81409,
@@ -1931,6 +2067,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39231,
+      "num": 96356,
+      "word": "央行8项政策支持实体经济",
+      "onboard_time": 1768531700,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 39197,
+      "num": 621969,
+      "word": "中国天眼又立功了",
+      "onboard_time": 1768544061,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 39141,
       "num": 39141,
       "word": "库明加申请交易",
@@ -1969,6 +2121,14 @@
       "onboard_time": 1768489582,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 31369,
+      "num": 97300,
+      "word": "花15800元训狗啥都没学会",
+      "onboard_time": 1768547840,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31113,
@@ -2051,6 +2211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22224,
+      "num": 96527,
+      "word": "有西贝闭店员工称关闭是因租金到期",
+      "onboard_time": 1768547540,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21057,
       "num": 24888,
       "word": "轻生女子母亲称男方是远亲知根知底",
@@ -2121,6 +2289,14 @@
       "onboard_time": 1768536382,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 11045,
+      "num": 121456,
+      "word": "一组数据看央行助力民营经济",
+      "onboard_time": 1768548320,
+      "rank": 28,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
@@ -2129,6 +2305,9 @@
     },
     {
       "word": "#着力铲除腐败滋生的土壤和条件#"
+    },
+    {
+      "word": "#习近平接受18位驻华大使递交国书#"
     }
   ]
 }
