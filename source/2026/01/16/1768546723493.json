@@ -1,0 +1,410 @@
+{
+  "runTime": 1768546723493,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 788411,
+        "num": 1126145,
+        "word": "尹锡悦被判5年",
+        "onboard_time": 1768543941,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 381354,
+        "num": 789452,
+        "word": "胖东来599元羽绒服充绒量213克",
+        "onboard_time": 1768539022,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24856,
+        "num": 634038,
+        "word": "再有一个月就过年啦",
+        "onboard_time": 1768532480,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 730611,
+        "num": 588146,
+        "word": "印尼一婚礼因新郎外貌爆火",
+        "onboard_time": 1768544900,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 192786,
+        "num": 446106,
+        "word": "俄男子从5楼纵身跳进雪堆未受伤",
+        "onboard_time": 1768534702,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 232037,
+        "num": 344295,
+        "word": "女子药流后腹部隆起才发现胎儿未排",
+        "onboard_time": 1768520119,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331112,
+        "num": 331112,
+        "word": "携程被多次约谈仍不改",
+        "onboard_time": 1768535241,
+        "rank": 6,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 276201,
+        "num": 276201,
+        "word": "携程",
+        "onboard_time": 1768529719,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 195808,
+        "num": 195808,
+        "word": "第一次见双胞胎不是一个物种",
+        "onboard_time": 1768534582,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181534,
+        "num": 181534,
+        "word": "银价也杀疯了",
+        "onboard_time": 1768544420,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1603598,
+        "num": 181498,
+        "word": "李湘全平台账号被禁止关注",
+        "onboard_time": 1768532959,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 925650,
+        "num": 181353,
+        "word": "辛芷蕾 解约第一件事是剪短发",
+        "onboard_time": 1768542440,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 488698,
+        "num": 181317,
+        "word": "第五人格 擦边",
+        "onboard_time": 1768540400,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 432172,
+        "num": 181165,
+        "word": "女子向出轨丈夫道歉视频走红",
+        "onboard_time": 1768540941,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392687,
+        "num": 181063,
+        "word": "女子向出轨丈夫道歉可能构成新侵权",
+        "onboard_time": 1768544241,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365547,
+        "num": 181052,
+        "word": "杨紫红裙好明媚",
+        "onboard_time": 1768543579,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233992,
+        "num": 180962,
+        "word": "炎亚纶发文再谈与鬼鬼关系",
+        "onboard_time": 1768544480,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127239,
+        "num": 180838,
+        "word": "中方向泰民众提供2000万元援助",
+        "onboard_time": 1768545259,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 225351,
+        "num": 180719,
+        "word": "平台客服回应李湘被禁止关注",
+        "onboard_time": 1768537942,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203000,
+        "num": 180680,
+        "word": "黄晓明说肖战很早就懂得要突破",
+        "onboard_time": 1768544960,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229269,
+        "num": 180519,
+        "word": "坐高铁可以不用自己扛行李了",
+        "onboard_time": 1768541721,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191154,
+        "num": 180449,
+        "word": "程潇赵嘉敏 发小闺蜜勇闯娱乐圈",
+        "onboard_time": 1768545441,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121026,
+        "num": 180341,
+        "word": "A股行情",
+        "onboard_time": 1768545501,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 180306,
+        "num": 180306,
+        "word": "宋祖儿豹纹大衣复古明伶造型",
+        "onboard_time": 1768546640,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155752,
+        "num": 155752,
+        "word": "章若楠 自拍界来了个天才",
+        "onboard_time": 1768545080,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124370,
+        "num": 124370,
+        "word": "减肥大忌TOP1",
+        "onboard_time": 1768536681,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154607,
+        "num": 123939,
+        "word": "陈都灵给李羲承进行曲原作道歉",
+        "onboard_time": 1768544960,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149714,
+        "num": 123765,
+        "word": "鬼鬼回应排挤炎亚纶",
+        "onboard_time": 1768538180,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123401,
+        "num": 123401,
+        "word": "第五人格回应被指擦边",
+        "onboard_time": 1768545801,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135342,
+        "num": 119156,
+        "word": "玉茗茶骨欠我一场大婚",
+        "onboard_time": 1768545560,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127359,
+        "num": 118939,
+        "word": "王一博乐华家族新春单曲part",
+        "onboard_time": 1768540822,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 110249,
+        "num": 110249,
+        "word": "DYG对战RW",
+        "onboard_time": 1768546401,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125081,
+        "num": 107400,
+        "word": "吴佩慈婆婆在美被捕",
+        "onboard_time": 1768524919,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146515,
+        "num": 107032,
+        "word": "徐明浩驾龄7年回国考科一挂了",
+        "onboard_time": 1768533862,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102892,
+        "num": 102892,
+        "word": "韩国首尔江南区火灾",
+        "onboard_time": 1768544660,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115416,
+        "num": 102836,
+        "word": "马龙成龙互赠礼物",
+        "onboard_time": 1768546640,
+        "rank": 35,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 101986,
+        "num": 101986,
+        "word": "有人在宜家5折捡漏原价2800元的床",
+        "onboard_time": 1768532840,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76971,
+        "num": 97551,
+        "word": "李煜东 小小的老子有了偶像包袱",
+        "onboard_time": 1768546041,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94078,
+        "num": 94078,
+        "word": "周杰伦 亮个相吧小宝贝",
+        "onboard_time": 1768545621,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48343,
+        "num": 92093,
+        "word": "专家呼吁生娃保送大学",
+        "onboard_time": 1768546338,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101493,
+        "num": 92085,
+        "word": "马思纯这个广告片哪个神人想的",
+        "onboard_time": 1768541422,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91822,
+        "num": 91822,
+        "word": "桃黑黑 喝多了但爷们要脸",
+        "onboard_time": 1768545321,
+        "rank": 41,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 91855,
+        "num": 91811,
+        "word": "生理性叹息",
+        "onboard_time": 1768545680,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91582,
+        "num": 91582,
+        "word": "赵丽颖ELLE封面",
+        "onboard_time": 1768534761,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90974,
+        "num": 90974,
+        "word": "A股半导体产业链大爆发",
+        "onboard_time": 1768544842,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 88434,
+        "num": 88434,
+        "word": "马龙成龙一起打乒乓球了",
+        "onboard_time": 1768543821,
+        "rank": 45,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 85945,
+        "num": 85945,
+        "word": "新娘喝农药自杀母亲回应逼婚质疑",
+        "onboard_time": 1768541542,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85923,
+        "num": 85923,
+        "word": "韩国AI大赛引争议",
+        "onboard_time": 1768546520,
+        "rank": 47,
+        "category": "互联网,海外新闻"
+      },
+      {
+        "raw_hot": 89141,
+        "num": 84823,
+        "word": "赵丽颖把长假比喻成进厂大维修",
+        "onboard_time": 1768542920,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83621,
+        "num": 83621,
+        "word": "黄蜂战胜湖人",
+        "onboard_time": 1768546100,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#着力铲除腐败滋生的土壤和条件#"
+    }
+  }
+}

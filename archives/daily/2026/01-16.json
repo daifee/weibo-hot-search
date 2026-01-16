@@ -1,6 +1,6 @@
 {
   "startTime": 1768495443021,
-  "endTime": 1768545896567,
+  "endTime": 1768546723493,
   "band_list": [
     {
       "raw_hot": 4325889,
@@ -41,6 +41,14 @@
       "onboard_time": 1768543941,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 730611,
+      "num": 588146,
+      "word": "印尼一婚礼因新郎外貌爆火",
+      "onboard_time": 1768544900,
+      "rank": 3,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 719935,
@@ -211,14 +219,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 414487,
-      "num": 414487,
-      "word": "印尼一婚礼因新郎外貌爆火",
-      "onboard_time": 1768544900,
-      "rank": 3,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 412202,
       "num": 194390,
       "word": "杨紫红裙好明媚",
@@ -240,6 +240,14 @@
       "word": "大学生偷外卖被拘通报公示外卖架边",
       "onboard_time": 1768528879,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 392687,
+      "num": 194143,
+      "word": "女子向出轨丈夫道歉可能构成新侵权",
+      "onboard_time": 1768544241,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -281,14 +289,6 @@
       "onboard_time": 1768536681,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 322306,
-      "num": 194143,
-      "word": "女子向出轨丈夫道歉可能构成新侵权",
-      "onboard_time": 1768544241,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 319442,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 244573,
-      "num": 166394,
+      "num": 180519,
       "word": "坐高铁可以不用自己扛行李了",
       "onboard_time": 1768541721,
       "rank": 24,
@@ -385,6 +385,14 @@
       "onboard_time": 1768540822,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 233992,
+      "num": 180962,
+      "word": "炎亚纶发文再谈与鬼鬼关系",
+      "onboard_time": 1768544480,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 229514,
@@ -467,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203000,
+      "num": 180680,
+      "word": "黄晓明说肖战很早就懂得要突破",
+      "onboard_time": 1768544960,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202209,
       "num": 196319,
       "word": "左航换手机",
@@ -491,11 +507,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 192786,
+      "num": 446106,
+      "word": "俄男子从5楼纵身跳进雪堆未受伤",
+      "onboard_time": 1768534702,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 191346,
       "num": 191346,
       "word": "王俊凯QQ音乐装扮",
       "onboard_time": 1768535241,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 191154,
+      "num": 180449,
+      "word": "程潇赵嘉敏 发小闺蜜勇闯娱乐圈",
+      "onboard_time": 1768545441,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -539,6 +571,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181534,
+      "num": 181534,
+      "word": "银价也杀疯了",
+      "onboard_time": 1768544420,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 180306,
+      "num": 180306,
+      "word": "宋祖儿豹纹大衣复古明伶造型",
+      "onboard_time": 1768546640,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 179826,
       "num": 179826,
       "word": "这类儿童面霜千万别给宝宝用",
@@ -571,14 +619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 174783,
-      "num": 200520,
-      "word": "俄男子从5楼纵身跳进雪堆未受伤",
-      "onboard_time": 1768534702,
-      "rank": 25,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 174255,
       "num": 148000,
       "word": "凌晨2点睡不一定是熬夜",
@@ -595,28 +635,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170618,
-      "num": 144773,
-      "word": "黄晓明说肖战很早就懂得要突破",
-      "onboard_time": 1768544960,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 164380,
       "num": 164380,
       "word": "有史以来最神经的恋综出现了",
       "onboard_time": 1768540223,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163489,
-      "num": 142775,
-      "word": "炎亚纶发文再谈与鬼鬼关系",
-      "onboard_time": 1768544480,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 163475,
@@ -659,12 +683,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 155799,
-      "num": 155799,
-      "word": "银价也杀疯了",
-      "onboard_time": 1768544420,
-      "rank": 18,
-      "category": "财经"
+      "raw_hot": 155752,
+      "num": 155752,
+      "word": "章若楠 自拍界来了个天才",
+      "onboard_time": 1768545080,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 155483,
@@ -673,6 +697,14 @@
       "onboard_time": 1768485141,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154607,
+      "num": 123939,
+      "word": "陈都灵给李羲承进行曲原作道歉",
+      "onboard_time": 1768544960,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 154516,
@@ -764,7 +796,7 @@
     },
     {
       "raw_hot": 136512,
-      "num": 117051,
+      "num": 123401,
       "word": "第五人格回应被指擦边",
       "onboard_time": 1768545801,
       "rank": 30,
@@ -779,20 +811,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135342,
+      "num": 119156,
+      "word": "玉茗茶骨欠我一场大婚",
+      "onboard_time": 1768545560,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134532,
       "num": 134532,
       "word": "你身上有他的烧烤味是我鼻子犯的罪",
       "onboard_time": 1768538601,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132417,
-      "num": 123627,
-      "word": "陈都灵给李羲承进行曲原作道歉",
-      "onboard_time": 1768544960,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 130828,
@@ -843,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127239,
+      "num": 180838,
+      "word": "中方向泰民众提供2000万元援助",
+      "onboard_time": 1768545259,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 125518,
       "num": 125518,
       "word": "比男主先爱上女主的是女二",
@@ -875,20 +915,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 121159,
-      "num": 116989,
-      "word": "章若楠 自拍界来了个天才",
-      "onboard_time": 1768545080,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 121034,
       "num": 121034,
       "word": "轧戏王光明出轨",
       "onboard_time": 1768479860,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121026,
+      "num": 180341,
+      "word": "A股行情",
+      "onboard_time": 1768545501,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 120976,
@@ -955,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115416,
+      "num": 102836,
+      "word": "马龙成龙互赠礼物",
+      "onboard_time": 1768546640,
+      "rank": 35,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 114460,
       "num": 114460,
       "word": "檀健次新剧配角阵容",
@@ -1009,6 +1057,14 @@
       "onboard_time": 1768541542,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110249,
+      "num": 110249,
+      "word": "DYG对战RW",
+      "onboard_time": 1768546401,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 108982,
@@ -1179,14 +1235,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 96798,
-      "num": 96798,
-      "word": "A股行情",
-      "onboard_time": 1768545501,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
       "raw_hot": 96760,
       "num": 96760,
       "word": "果然人上了年纪就自动解锁一些动作",
@@ -1219,6 +1267,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 94078,
+      "num": 100700,
+      "word": "周杰伦 亮个相吧小宝贝",
+      "onboard_time": 1768545621,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93928,
       "num": 93928,
       "word": "苹果以旧换新抵扣价再更新",
@@ -1233,14 +1289,6 @@
       "onboard_time": 1768530622,
       "rank": 31,
       "category": "数码,财经"
-    },
-    {
-      "raw_hot": 93771,
-      "num": 93771,
-      "word": "玉茗茶骨欠我一场大婚",
-      "onboard_time": 1768545560,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 93195,
@@ -1283,6 +1331,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 91855,
+      "num": 91811,
+      "word": "生理性叹息",
+      "onboard_time": 1768545680,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 91822,
+      "num": 91822,
+      "word": "桃黑黑 喝多了但爷们要脸",
+      "onboard_time": 1768545321,
+      "rank": 41,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 91261,
       "num": 91261,
       "word": "草莓多少钱一斤才合适",
@@ -1307,19 +1371,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88434,
+      "num": 88434,
+      "word": "马龙成龙一起打乒乓球了",
+      "onboard_time": 1768543821,
+      "rank": 45,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 88098,
       "num": 88098,
       "word": "刘耀文 回忆会惩罚每个念旧的人",
       "onboard_time": 1768545080,
       "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 88035,
-      "num": 85017,
-      "word": "程潇赵嘉敏 发小闺蜜勇闯娱乐圈",
-      "onboard_time": 1768545441,
-      "rank": 45,
       "category": "艺人"
     },
     {
@@ -1395,6 +1459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85923,
+      "num": 85923,
+      "word": "韩国AI大赛引争议",
+      "onboard_time": 1768546520,
+      "rank": 47,
+      "category": "互联网,海外新闻"
+    },
+    {
       "raw_hot": 85846,
       "num": 209614,
       "word": "西贝公关副总裁回应离职",
@@ -1411,12 +1483,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85163,
-      "num": 85163,
-      "word": "生理性叹息",
-      "onboard_time": 1768545680,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 83621,
+      "num": 83621,
+      "word": "黄蜂战胜湖人",
+      "onboard_time": 1768546100,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 82708,
@@ -1539,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76971,
+      "num": 97551,
+      "word": "李煜东 小小的老子有了偶像包袱",
+      "onboard_time": 1768546041,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74387,
       "num": 74387,
       "word": "骄阳似我第10集28分35秒",
@@ -1619,14 +1699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66643,
-      "num": 154684,
-      "word": "中方向泰民众提供2000万元援助",
-      "onboard_time": 1768545259,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 65703,
       "num": 115512,
       "word": "王子奇把苏晓彤一字夹摘了",
@@ -1657,14 +1729,6 @@
       "onboard_time": 1768481960,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 61865,
-      "num": 100700,
-      "word": "周杰伦 亮个相吧小宝贝",
-      "onboard_time": 1768545621,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 61482,
@@ -1753,6 +1817,14 @@
       "onboard_time": 1768483460,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 48343,
+      "num": 92093,
+      "word": "专家呼吁生娃保送大学",
+      "onboard_time": 1768546338,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47600,
