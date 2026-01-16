@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768556978893,
+  "endTime": 1768559621868,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -17,6 +17,14 @@
       "onboard_time": 1767432625,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 9503714,
+      "num": 9503714,
+      "word": "贾国龙今晚10点全面回应",
+      "onboard_time": 1768556121,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8104554,
@@ -113,14 +121,6 @@
       "onboard_time": 1768049061,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 3375893,
-      "num": 3375893,
-      "word": "贾国龙今晚10点全面回应",
-      "onboard_time": 1768556121,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 3020265,
@@ -3220,7 +3220,7 @@
     },
     {
       "raw_hot": 565921,
-      "num": 1090547,
+      "num": 1882996,
       "word": "坐高铁可以不用自己扛行李了",
       "onboard_time": 1768541721,
       "rank": 24,
@@ -6635,6 +6635,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 384356,
+      "num": 304252,
+      "word": "一条小团团时隔两年更新视频",
+      "onboard_time": 1768554621,
+      "rank": 15,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 383647,
       "num": 383647,
       "word": "鹅鸭杀回应崩了",
@@ -8171,6 +8179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 327383,
+      "num": 327383,
+      "word": "电影镖人官博",
+      "onboard_time": 1768555402,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 327097,
       "num": 269337,
       "word": "6国发表联合声明强烈谴责美国",
@@ -9131,6 +9147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 301225,
+      "num": 139137,
+      "word": "王一博工作室蓝V没了",
+      "onboard_time": 1768557743,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301153,
       "num": 781732,
       "word": "十日终焉开机时间",
@@ -9377,6 +9401,14 @@
       "onboard_time": 1768447040,
       "rank": 13,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 294784,
+      "num": 304501,
+      "word": "韩国火灾已投入85辆消防车",
+      "onboard_time": 1768555822,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 294757,
@@ -9689,14 +9721,6 @@
       "onboard_time": 1767703101,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 284194,
-      "num": 304242,
-      "word": "电影镖人官博",
-      "onboard_time": 1768555402,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 284192,
@@ -10145,14 +10169,6 @@
       "onboard_time": 1768282582,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 273769,
-      "num": 304252,
-      "word": "一条小团团时隔两年更新视频",
-      "onboard_time": 1768554621,
-      "rank": 15,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 273705,
@@ -11283,6 +11299,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 250191,
+      "num": 208963,
+      "word": "月入一万花一万的真实生活",
+      "onboard_time": 1768556061,
+      "rank": 35,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 249988,
       "num": 1782078,
       "word": "威廉王子夫妇年薪3090万美元",
@@ -11859,20 +11883,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236569,
+      "num": 236569,
+      "word": "檀健次 何不同舟渡",
+      "onboard_time": 1768556781,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236260,
       "num": 249643,
       "word": "俄乌冲突",
       "onboard_time": 1767931221,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 236236,
-      "num": 208963,
-      "word": "月入一万花一万的真实生活",
-      "onboard_time": 1768556061,
-      "rank": 35,
-      "category": "休闲"
     },
     {
       "raw_hot": 236035,
@@ -11929,6 +11953,14 @@
       "onboard_time": 1768202420,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235146,
+      "num": 235146,
+      "word": "王玉雯看张新成新剧被气到",
+      "onboard_time": 1768557863,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 235123,
@@ -12185,14 +12217,6 @@
       "onboard_time": 1767495682,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 230308,
-      "num": 304501,
-      "word": "韩国火灾已投入85辆消防车",
-      "onboard_time": 1768555822,
-      "rank": 13,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 230204,
@@ -18019,6 +18043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167165,
+      "num": 173617,
+      "word": "买房千万不要买临街的",
+      "onboard_time": 1768556720,
+      "rank": 42,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 167120,
       "num": 167120,
       "word": "乱讲PPT大赛",
@@ -19939,6 +19971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153473,
+      "num": 128909,
+      "word": "刘翔回应移民美国",
+      "onboard_time": 1768559182,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153278,
       "num": 175248,
       "word": "庄序结局",
@@ -21235,6 +21275,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 145603,
+      "num": 303461,
+      "word": "花坛白骨案凶手每年去韩国整容",
+      "onboard_time": 1768554020,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145560,
       "num": 145560,
       "word": "白鹿你好星期六repo",
@@ -22067,6 +22115,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 140657,
+      "num": 177739,
+      "word": "前博物院长别墅挖出文物仓库",
+      "onboard_time": 1768556781,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140642,
       "num": 200880,
       "word": "马琳抬头望天",
@@ -22627,6 +22683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137912,
+      "num": 137912,
+      "word": "侯鸿亮采访",
+      "onboard_time": 1768558402,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137872,
       "num": 498153,
       "word": "林葳NCAA绝平三分",
@@ -22729,6 +22793,14 @@
       "onboard_time": 1768387161,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137172,
+      "num": 140449,
+      "word": "617分考生放弃985选职业院校",
+      "onboard_time": 1768557440,
+      "rank": 19,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 137159,
@@ -24483,6 +24555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 129121,
+      "num": 138002,
+      "word": "林高远暗夜骑士",
+      "onboard_time": 1768559002,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129120,
       "num": 207111,
       "word": "爸爸低头玩手机孩子冲上马路被撞",
@@ -25171,14 +25251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126566,
-      "num": 303461,
-      "word": "花坛白骨案凶手每年去韩国整容",
-      "onboard_time": 1768554020,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126553,
       "num": 122562,
       "word": "酷云",
@@ -25305,6 +25377,14 @@
       "onboard_time": 1767676881,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126080,
+      "num": 126080,
+      "word": "TF家族新音官摄",
+      "onboard_time": 1768559062,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 125968,
@@ -26827,14 +26907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119724,
-      "num": 177739,
-      "word": "前博物院长别墅挖出文物仓库",
-      "onboard_time": 1768556781,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119713,
       "num": 101936,
       "word": "成何体统动画定档时间线重叠",
@@ -27049,6 +27121,14 @@
       "onboard_time": 1767531384,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118851,
+      "num": 222865,
+      "word": "辅警保住100多万哭出了声",
+      "onboard_time": 1768556541,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 118845,
@@ -27369,6 +27449,14 @@
       "onboard_time": 1768038620,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117288,
+      "num": 117288,
+      "word": "鹅鸭杀情侣和平条约",
+      "onboard_time": 1768558582,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 117277,
@@ -28961,6 +29049,14 @@
       "onboard_time": 1767831261,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 112247,
+      "num": 112247,
+      "word": "普通人化妆最有效的一步",
+      "onboard_time": 1768556959,
+      "rank": 34,
+      "category": "美妆"
     },
     {
       "raw_hot": 112245,
@@ -32155,6 +32251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101924,
+      "num": 101924,
+      "word": "贾国龙宋宣朋友圈诉衷肠",
+      "onboard_time": 1768558402,
+      "rank": 35,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 101908,
       "num": 101908,
       "word": "火星哥明天将回归",
@@ -34067,6 +34171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96888,
+      "num": 83635,
+      "word": "贾国龙说罗永浩重大污蔑诽谤",
+      "onboard_time": 1768558582,
+      "rank": 45,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 96874,
       "num": 96874,
       "word": "1月锦鲤附体的星座",
@@ -35467,6 +35579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 93418,
+      "num": 93418,
+      "word": "昏迷14年植物人妈妈苏醒",
+      "onboard_time": 1768558882,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 93382,
       "num": 93382,
       "word": "iPhone锁屏被玩明白了",
@@ -35905,14 +36025,6 @@
       "onboard_time": 1768206860,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 92274,
-      "num": 175709,
-      "word": "辅警保住100多万哭出了声",
-      "onboard_time": 1768556541,
-      "rank": 29,
-      "category": "正能量"
     },
     {
       "raw_hot": 92250,
@@ -39123,6 +39235,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 83822,
+      "num": 83822,
+      "word": "铜价也涨疯了",
+      "onboard_time": 1768558940,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 83818,
       "num": 83818,
       "word": "马斯克拟建2nm芯片工厂",
@@ -39593,6 +39713,14 @@
       "onboard_time": 1767415526,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82248,
+      "num": 86634,
+      "word": "中国唱将",
+      "onboard_time": 1767963441,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 82241,
@@ -40259,14 +40387,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 80331,
-      "num": 173617,
-      "word": "买房千万不要买临街的",
-      "onboard_time": 1768556720,
-      "rank": 42,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 80258,
       "num": 117482,
       "word": "苏翊鸣回应获世界杯亚军",
@@ -40457,6 +40577,14 @@
       "onboard_time": 1767793464,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 79861,
+      "num": 79861,
+      "word": "原来眼泪拌饭情绪这么明显",
+      "onboard_time": 1768558462,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 79809,
@@ -40723,14 +40851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79041,
-      "num": 86634,
-      "word": "中国唱将",
-      "onboard_time": 1767963441,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 78979,
       "num": 833147,
       "word": "为给老婆拍照跑了个越野跑",
@@ -40865,14 +40985,6 @@
       "onboard_time": 1768462401,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 78479,
-      "num": 173500,
-      "word": "檀健次 何不同舟渡",
-      "onboard_time": 1768556781,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 78435,
@@ -42481,6 +42593,14 @@
       "onboard_time": 1768174458,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 72091,
+      "num": 96663,
+      "word": "港风就是宋祖儿的舒适区",
+      "onboard_time": 1768558462,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 72055,
@@ -45641,6 +45761,14 @@
       "onboard_time": 1767870799,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55490,
+      "num": 94368,
+      "word": "WE对战RNGM",
+      "onboard_time": 1768557923,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 55446,
@@ -50556,7 +50684,7 @@
     },
     {
       "raw_hot": 25391,
-      "num": 891291,
+      "num": 1495504,
       "word": "6图看国家水网惠及百姓日常生活",
       "onboard_time": 1768548801,
       "rank": 2,
@@ -52104,6 +52232,14 @@
       "word": "男子以为边境搬猪肉险被卖缅甸",
       "onboard_time": 1767516084,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14245,
+      "num": 95309,
+      "word": "仿制药比原研药贵",
+      "onboard_time": 1768559302,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

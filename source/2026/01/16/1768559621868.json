@@ -1,0 +1,410 @@
+{
+  "runTime": 1768559621868,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9503714,
+        "num": 9503714,
+        "word": "贾国龙今晚10点全面回应",
+        "onboard_time": 1768556121,
+        "rank": 0,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 375151,
+        "num": 1882996,
+        "word": "坐高铁可以不用自己扛行李了",
+        "onboard_time": 1768541721,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24141,
+        "num": 1495504,
+        "word": "6图看国家水网惠及百姓日常生活",
+        "onboard_time": 1768548801,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 327383,
+        "num": 327383,
+        "word": "电影镖人官博",
+        "onboard_time": 1768555402,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 294784,
+        "num": 294784,
+        "word": "韩国火灾已投入85辆消防车",
+        "onboard_time": 1768555822,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 236569,
+        "num": 236569,
+        "word": "檀健次 何不同舟渡",
+        "onboard_time": 1768556781,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235146,
+        "num": 235146,
+        "word": "王玉雯看张新成新剧被气到",
+        "onboard_time": 1768557863,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169540,
+        "num": 232490,
+        "word": "时尚之夜阵容官宣",
+        "onboard_time": 1768553780,
+        "rank": 7,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 140178,
+        "num": 224340,
+        "word": "尹锡悦被判5年",
+        "onboard_time": 1768543941,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118851,
+        "num": 222865,
+        "word": "辅警保住100多万哭出了声",
+        "onboard_time": 1768556541,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1958627,
+        "num": 216069,
+        "word": "贾国龙让罗永浩道歉赔偿",
+        "onboard_time": 1768556180,
+        "rank": 10,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 384356,
+        "num": 208242,
+        "word": "一条小团团时隔两年更新视频",
+        "onboard_time": 1768554621,
+        "rank": 11,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 269897,
+        "num": 202491,
+        "word": "印尼一婚礼因新郎外貌爆火",
+        "onboard_time": 1768544900,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 198864,
+        "num": 198864,
+        "word": "镖人",
+        "onboard_time": 1768555881,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187098,
+        "num": 187098,
+        "word": "薛之谦四巡",
+        "onboard_time": 1768551799,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160052,
+        "num": 160052,
+        "word": "第五人格 擦边",
+        "onboard_time": 1768540400,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152826,
+        "num": 152826,
+        "word": "邓佳鑫简历没提来自时代峰峻",
+        "onboard_time": 1768554920,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145603,
+        "num": 145603,
+        "word": "花坛白骨案凶手每年去韩国整容",
+        "onboard_time": 1768554020,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140657,
+        "num": 140657,
+        "word": "前博物院长别墅挖出文物仓库",
+        "onboard_time": 1768556781,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137172,
+        "num": 140449,
+        "word": "617分考生放弃985选职业院校",
+        "onboard_time": 1768557440,
+        "rank": 19,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 743507,
+        "num": 140280,
+        "word": "张慧雯娜扎聊天记录",
+        "onboard_time": 1768554200,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 588245,
+        "num": 139726,
+        "word": "李湘全平台账号被禁止关注",
+        "onboard_time": 1768532959,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250191,
+        "num": 139375,
+        "word": "月入一万花一万的真实生活",
+        "onboard_time": 1768556061,
+        "rank": 22,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 301225,
+        "num": 139137,
+        "word": "王一博工作室蓝V没了",
+        "onboard_time": 1768557743,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223229,
+        "num": 138799,
+        "word": "喝农药自杀新娘与新郎相差15岁",
+        "onboard_time": 1768552701,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167165,
+        "num": 138458,
+        "word": "买房千万不要买临街的",
+        "onboard_time": 1768556720,
+        "rank": 25,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 129121,
+        "num": 138002,
+        "word": "林高远暗夜骑士",
+        "onboard_time": 1768559002,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137912,
+        "num": 137912,
+        "word": "侯鸿亮采访",
+        "onboard_time": 1768558402,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133464,
+        "num": 133464,
+        "word": "杨紫宋祖儿活动怼脸生图",
+        "onboard_time": 1768555280,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73185,
+        "num": 129095,
+        "word": "中国和加拿大领导人会晤联合声明",
+        "onboard_time": 1768555160,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153473,
+        "num": 128909,
+        "word": "刘翔回应移民美国",
+        "onboard_time": 1768559182,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126080,
+        "num": 126080,
+        "word": "TF家族新音官摄",
+        "onboard_time": 1768559062,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124003,
+        "num": 124003,
+        "word": "窦骁何超莲一起参加活动",
+        "onboard_time": 1768553660,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117288,
+        "num": 117288,
+        "word": "鹅鸭杀情侣和平条约",
+        "onboard_time": 1768558582,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112247,
+        "num": 112247,
+        "word": "普通人化妆最有效的一步",
+        "onboard_time": 1768556959,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 101924,
+        "num": 101924,
+        "word": "贾国龙宋宣朋友圈诉衷肠",
+        "onboard_time": 1768558402,
+        "rank": 35,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 97903,
+        "num": 97903,
+        "word": "银价也杀疯了",
+        "onboard_time": 1768544420,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 82657,
+        "num": 96793,
+        "word": "生理性叹息",
+        "onboard_time": 1768545680,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72091,
+        "num": 96663,
+        "word": "港风就是宋祖儿的舒适区",
+        "onboard_time": 1768558462,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14245,
+        "num": 95309,
+        "word": "仿制药比原研药贵",
+        "onboard_time": 1768559302,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55490,
+        "num": 94368,
+        "word": "WE对战RNGM",
+        "onboard_time": 1768557923,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93418,
+        "num": 93418,
+        "word": "昏迷14年植物人妈妈苏醒",
+        "onboard_time": 1768558882,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87584,
+        "num": 87584,
+        "word": "陈哲远顶级建模",
+        "onboard_time": 1768555461,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 84915,
+        "num": 84915,
+        "word": "宋威龙十六岁生图含金量",
+        "onboard_time": 1768550601,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83822,
+        "num": 83822,
+        "word": "铜价也涨疯了",
+        "onboard_time": 1768558940,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 96888,
+        "num": 83635,
+        "word": "贾国龙说罗永浩重大污蔑诽谤",
+        "onboard_time": 1768558582,
+        "rank": 45,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 82248,
+        "num": 82248,
+        "word": "中国唱将",
+        "onboard_time": 1768559302,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80531,
+        "num": 80531,
+        "word": "代旭进行曲 卢昱晓跟我好",
+        "onboard_time": 1768555040,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79861,
+        "num": 79861,
+        "word": "原来眼泪拌饭情绪这么明显",
+        "onboard_time": 1768558462,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79529,
+        "num": 79529,
+        "word": "领导为什么不喜欢下属准点下班",
+        "onboard_time": 1768552161,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平接受18位驻华大使递交国书#"
+    }
+  }
+}

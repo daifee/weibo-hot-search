@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768556978893,
+  "endTime": 1768559621868,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -17,6 +17,14 @@
       "onboard_time": 1767432625,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 9503714,
+      "num": 9503714,
+      "word": "贾国龙今晚10点全面回应",
+      "onboard_time": 1768556121,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8104554,
@@ -113,14 +121,6 @@
       "onboard_time": 1768049061,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 3375893,
-      "num": 3375893,
-      "word": "贾国龙今晚10点全面回应",
-      "onboard_time": 1768556121,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 3020265,
