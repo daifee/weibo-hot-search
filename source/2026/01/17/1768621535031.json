@@ -1,0 +1,410 @@
+{
+  "runTime": 1768621535031,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 702296,
+        "num": 1112367,
+        "word": "公积金改革大动作要来了",
+        "onboard_time": 1768613360,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 546076,
+        "num": 793104,
+        "word": "2026央视春晚首次联排",
+        "onboard_time": 1768618100,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50315,
+        "num": 648544,
+        "word": "务工人员春运可预约购票",
+        "onboard_time": 1768617860,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365874,
+        "num": 365874,
+        "word": "装死小羊身价30万主人仍不卖",
+        "onboard_time": 1768616360,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235927,
+        "num": 235927,
+        "word": "ALin哭着说对不起",
+        "onboard_time": 1768619958,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225031,
+        "num": 225031,
+        "word": "狼王格林现状",
+        "onboard_time": 1768610240,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172920,
+        "num": 172920,
+        "word": "宁夏装死小羊身价飙升至30万元",
+        "onboard_time": 1768614679,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230363,
+        "num": 172743,
+        "word": "女子买二手卡宴被隐瞒伤亡事故4年",
+        "onboard_time": 1768617200,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133445,
+        "num": 169848,
+        "word": "你用过哪些回忆杀软件",
+        "onboard_time": 1768620199,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120077,
+        "num": 166712,
+        "word": "稀土不是一种土",
+        "onboard_time": 1768615579,
+        "rank": 9,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 505482,
+        "num": 164096,
+        "word": "出轨丈夫被妻子道歉其单位回应",
+        "onboard_time": 1768618339,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272050,
+        "num": 161908,
+        "word": "王玉雯回复张新成发给你妈妈了",
+        "onboard_time": 1768615999,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200852,
+        "num": 157907,
+        "word": "白鹿春晚联排",
+        "onboard_time": 1768617439,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157689,
+        "num": 157689,
+        "word": "为什么戴了智能手表反而睡不好",
+        "onboard_time": 1768611861,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196978,
+        "num": 147475,
+        "word": "鹿哈曾自曝带货7个月赚3500万",
+        "onboard_time": 1768614379,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 190437,
+        "num": 139356,
+        "word": "宋威龙春晚带妆联排",
+        "onboard_time": 1768620380,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129325,
+        "num": 129325,
+        "word": "美国还欠2.6亿美元会费",
+        "onboard_time": 1768618100,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 206779,
+        "num": 125090,
+        "word": "王玉雯掉马",
+        "onboard_time": 1768575441,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117530,
+        "num": 117530,
+        "word": "嫣然天使儿童医院十年旧床仍在使用",
+        "onboard_time": 1768620080,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100095,
+        "num": 117476,
+        "word": "全职主妇屡遭丈夫责骂吞30片安眠药",
+        "onboard_time": 1768620199,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131713,
+        "num": 114455,
+        "word": "魏大勋新路透是你吗孟宴臣",
+        "onboard_time": 1768620022,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255729,
+        "num": 113515,
+        "word": "金价波动",
+        "onboard_time": 1768616299,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 165282,
+        "num": 111607,
+        "word": "刘宇宁马年央视春晚首次联排",
+        "onboard_time": 1768620980,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121004,
+        "num": 110788,
+        "word": "何炅 夜深了歌手们都有一些变化",
+        "onboard_time": 1768618519,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109142,
+        "num": 109142,
+        "word": "陪弟弟割双眼皮结果自己先割上了",
+        "onboard_time": 1768573224,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104816,
+        "num": 104816,
+        "word": "你是周翊然那他是谁",
+        "onboard_time": 1768619360,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96688,
+        "num": 96688,
+        "word": "实践三十二号卫星发射失利",
+        "onboard_time": 1768618280,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 93897,
+        "num": 93897,
+        "word": "男演员被欠薪后送外卖",
+        "onboard_time": 1768612880,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89805,
+        "num": 89805,
+        "word": "单依纯被艾特最多的一次",
+        "onboard_time": 1768621460,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89459,
+        "num": 89459,
+        "word": "马斯克称AI或能几分钟生成GTA6",
+        "onboard_time": 1768620620,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 92473,
+        "num": 89395,
+        "word": "iPhone面容ID不止能开锁屏",
+        "onboard_time": 1768620679,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88921,
+        "num": 88921,
+        "word": "全网最听劝妈妈走红",
+        "onboard_time": 1768613719,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88241,
+        "num": 88241,
+        "word": "42岁演员回应无戏可拍送外卖糊口",
+        "onboard_time": 1768618640,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88009,
+        "num": 88009,
+        "word": "择天记3D版定档",
+        "onboard_time": 1768619419,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 87055,
+        "num": 87055,
+        "word": "晴儿不愧是甄嬛带大的",
+        "onboard_time": 1768604896,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84367,
+        "num": 84367,
+        "word": "北京下雪",
+        "onboard_time": 1768610780,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83040,
+        "num": 83040,
+        "word": "十八岁的天空是黄慧颐推荐的保剑锋",
+        "onboard_time": 1768615220,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82197,
+        "num": 82197,
+        "word": "你弄个这么大的吊牌我怎么穿上飞机",
+        "onboard_time": 1768605616,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78119,
+        "num": 78119,
+        "word": "微博之夜",
+        "onboard_time": 1768611141,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 76720,
+        "num": 76720,
+        "word": "得闲谨制",
+        "onboard_time": 1768611200,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74940,
+        "num": 74940,
+        "word": "幼童在冬季确诊热射病被送ICU抢救",
+        "onboard_time": 1768614921,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74402,
+        "num": 74402,
+        "word": "汪苏泷 后悔来了",
+        "onboard_time": 1768617020,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72270,
+        "num": 72270,
+        "word": "国乒女单多哈下半区失守",
+        "onboard_time": 1768617801,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72011,
+        "num": 72011,
+        "word": "大爷被热水袋烫伤自行治疗致截肢",
+        "onboard_time": 1768620199,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71806,
+        "num": 71806,
+        "word": "小猫刚被救下来就被请家长",
+        "onboard_time": 1768620139,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71413,
+        "num": 71413,
+        "word": "快船vs猛龙",
+        "onboard_time": 1768620620,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70701,
+        "num": 70701,
+        "word": "加方不再对中国电车加征100%附加税",
+        "onboard_time": 1768621399,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 67582,
+        "num": 67582,
+        "word": "宣璐悬疑复仇女主上线",
+        "onboard_time": 1768621038,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67483,
+        "num": 67483,
+        "word": "4种无效早睡越睡越累",
+        "onboard_time": 1768604836,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 67301,
+        "num": 67301,
+        "word": "陈丽君李云霄晋升一级演员",
+        "onboard_time": 1768618640,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席向世界推介来自中国的机遇清单#"
+    }
+  }
+}

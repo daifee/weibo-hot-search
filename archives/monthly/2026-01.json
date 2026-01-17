@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768616854531,
+  "endTime": 1768621535031,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -3571,6 +3571,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 546076,
+      "num": 793104,
+      "word": "2026央视春晚首次联排",
+      "onboard_time": 1768618100,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 545432,
       "num": 324521,
       "word": "苏醒谈孩子因为自己的身份攀比",
@@ -4321,6 +4329,14 @@
       "onboard_time": 1768198041,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 505482,
+      "num": 164096,
+      "word": "出轨丈夫被妻子道歉其单位回应",
+      "onboard_time": 1768618339,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 505369,
@@ -7225,6 +7241,14 @@
       "onboard_time": 1767781583,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 365874,
+      "num": 365874,
+      "word": "装死小羊身价30万主人仍不卖",
+      "onboard_time": 1768616360,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 365715,
@@ -10507,6 +10531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272050,
+      "num": 161908,
+      "word": "王玉雯回复张新成发给你妈妈了",
+      "onboard_time": 1768615999,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271919,
       "num": 181931,
       "word": "金晨LV活动状态",
@@ -11241,14 +11273,6 @@
       "onboard_time": 1767859580,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 257972,
-      "num": 151162,
-      "word": "王玉雯回复张新成发给你妈妈了",
-      "onboard_time": 1768615999,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 257953,
@@ -12235,6 +12259,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 235927,
+      "num": 235927,
+      "word": "ALin哭着说对不起",
+      "onboard_time": 1768619958,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235792,
       "num": 2320284,
       "word": "20块和2000块相机差距",
@@ -12545,6 +12577,14 @@
       "onboard_time": 1767703101,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230363,
+      "num": 172743,
+      "word": "女子买二手卡宴被隐瞒伤亡事故4年",
+      "onboard_time": 1768617200,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 230328,
@@ -14611,6 +14651,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 200852,
+      "num": 157907,
+      "word": "白鹿春晚联排",
+      "onboard_time": 1768617439,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200636,
       "num": 1030868,
       "word": "王鹤棣 都别找我借钱",
@@ -14985,6 +15033,14 @@
       "onboard_time": 1767601761,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196978,
+      "num": 147475,
+      "word": "鹿哈曾自曝带货7个月赚3500万",
+      "onboard_time": 1768614379,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 196950,
@@ -15792,6 +15848,14 @@
       "word": "有白鹿在是不会让徐志胜落泪的",
       "onboard_time": 1768130062,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 190437,
+      "num": 139356,
+      "word": "宋威龙春晚带妆联排",
+      "onboard_time": 1768620380,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -18801,6 +18865,14 @@
       "onboard_time": 1767665480,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165282,
+      "num": 111607,
+      "word": "刘宇宁马年央视春晚首次联排",
+      "onboard_time": 1768620980,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 165234,
@@ -24339,6 +24411,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 133445,
+      "num": 169848,
+      "word": "你用过哪些回忆杀软件",
+      "onboard_time": 1768620199,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133287,
       "num": 173319,
       "word": "云合",
@@ -24577,6 +24657,14 @@
       "onboard_time": 1768043361,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131713,
+      "num": 114455,
+      "word": "魏大勋新路透是你吗孟宴臣",
+      "onboard_time": 1768620022,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 131579,
@@ -25041,6 +25129,14 @@
       "onboard_time": 1767251121,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129325,
+      "num": 129325,
+      "word": "美国还欠2.6亿美元会费",
+      "onboard_time": 1768618100,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 129305,
@@ -27203,6 +27299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121004,
+      "num": 110788,
+      "word": "何炅 夜深了歌手们都有一些变化",
+      "onboard_time": 1768618519,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120976,
       "num": 114029,
       "word": "刘佳玺 我们的少年时代2",
@@ -28065,6 +28169,14 @@
       "onboard_time": 1768003337,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 117530,
+      "num": 117530,
+      "word": "嫣然天使儿童医院十年旧床仍在使用",
+      "onboard_time": 1768620080,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117478,
@@ -29513,14 +29625,6 @@
       "onboard_time": 1767331759,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112875,
-      "num": 112875,
-      "word": "鹿哈曾自曝带货7个月赚3500万",
-      "onboard_time": 1768614379,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 112828,
@@ -31915,6 +32019,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 104816,
+      "num": 104816,
+      "word": "你是周翊然那他是谁",
+      "onboard_time": 1768619360,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104723,
       "num": 104723,
       "word": "101大楼飞行街景被转发超4万次",
@@ -33643,6 +33755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100095,
+      "num": 117476,
+      "word": "全职主妇屡遭丈夫责骂吞30片安眠药",
+      "onboard_time": 1768620199,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100064,
       "num": 135082,
       "word": "新年第一刀是三条蛇给的",
@@ -35009,6 +35129,14 @@
       "onboard_time": 1768203320,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96688,
+      "num": 96688,
+      "word": "实践三十二号卫星发射失利",
+      "onboard_time": 1768618280,
+      "rank": 26,
+      "category": "科学科普"
     },
     {
       "raw_hot": 96642,
@@ -36763,6 +36891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 92473,
+      "num": 89395,
+      "word": "iPhone面容ID不止能开锁屏",
+      "onboard_time": 1768620679,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 92458,
       "num": 197904,
       "word": "许家印被执行4700万",
@@ -37763,6 +37899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 89805,
+      "num": 89805,
+      "word": "单依纯被艾特最多的一次",
+      "onboard_time": 1768621460,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89802,
       "num": 89802,
       "word": "荣华令开播",
@@ -37945,6 +38089,14 @@
       "onboard_time": 1767753142,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 89459,
+      "num": 89459,
+      "word": "马斯克称AI或能几分钟生成GTA6",
+      "onboard_time": 1768620620,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 89372,
@@ -38403,6 +38555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88241,
+      "num": 88241,
+      "word": "42岁演员回应无戏可拍送外卖糊口",
+      "onboard_time": 1768618640,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88221,
       "num": 88221,
       "word": "Gumayusi面对T1超神",
@@ -38521,6 +38681,14 @@
       "onboard_time": 1767537684,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 88009,
+      "num": 88009,
+      "word": "择天记3D版定档",
+      "onboard_time": 1768619419,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 88003,
@@ -43163,6 +43331,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 74402,
+      "num": 74402,
+      "word": "汪苏泷 后悔来了",
+      "onboard_time": 1768617020,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 74387,
       "num": 156563,
       "word": "郑钦文的旅行新搭子",
@@ -43643,14 +43819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 72370,
-      "num": 72370,
-      "word": "装死小羊身价30万主人仍不卖",
-      "onboard_time": 1768616360,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72351,
       "num": 380126,
       "word": "跨年夜人群被两块大屏幕时差整懵圈",
@@ -43665,6 +43833,14 @@
       "onboard_time": 1768114162,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72270,
+      "num": 72270,
+      "word": "国乒女单多哈下半区失守",
+      "onboard_time": 1768617801,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 72246,
@@ -43713,6 +43889,14 @@
       "onboard_time": 1767630679,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 72011,
+      "num": 72011,
+      "word": "大爷被热水袋烫伤自行治疗致截肢",
+      "onboard_time": 1768620199,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71972,
@@ -43785,6 +43969,14 @@
       "onboard_time": 1768003037,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 71806,
+      "num": 71806,
+      "word": "小猫刚被救下来就被请家长",
+      "onboard_time": 1768620139,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 71801,
@@ -43875,6 +44067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71413,
+      "num": 71413,
+      "word": "快船vs猛龙",
+      "onboard_time": 1768620620,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71325,
       "num": 133784,
       "word": "八达岭邀请背诗女孩再游长城",
@@ -43953,6 +44153,14 @@
       "onboard_time": 1768615100,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70701,
+      "num": 70701,
+      "word": "加方不再对中国电车加征100%附加税",
+      "onboard_time": 1768621399,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 70680,
@@ -44667,6 +44875,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 67582,
+      "num": 67582,
+      "word": "宣璐悬疑复仇女主上线",
+      "onboard_time": 1768621038,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 67575,
       "num": 67575,
       "word": "终于不再执着于把话说开了",
@@ -44697,6 +44913,14 @@
       "onboard_time": 1768212621,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67301,
+      "num": 67301,
+      "word": "陈丽君李云霄晋升一级演员",
+      "onboard_time": 1768618640,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 67286,
@@ -47801,6 +48025,14 @@
       "onboard_time": 1768147400,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50315,
+      "num": 648544,
+      "word": "务工人员春运可预约购票",
+      "onboard_time": 1768617860,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50295,
@@ -54403,6 +54635,9 @@
     },
     {
       "word": "#习近平会见加拿大总理卡尼#"
+    },
+    {
+      "word": "#习主席向世界推介来自中国的机遇清单#"
     }
   ]
 }

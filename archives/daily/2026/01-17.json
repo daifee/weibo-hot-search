@@ -1,6 +1,6 @@
 {
   "startTime": 1768581578200,
-  "endTime": 1768616854531,
+  "endTime": 1768621535031,
   "band_list": [
     {
       "raw_hot": 994109,
@@ -27,6 +27,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 546076,
+      "num": 793104,
+      "word": "2026央视春晚首次联排",
+      "onboard_time": 1768618100,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 505482,
+      "num": 164096,
+      "word": "出轨丈夫被妻子道歉其单位回应",
+      "onboard_time": 1768618339,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 450416,
       "num": 900171,
       "word": "日本网帖煽动对高考考生性骚扰",
@@ -49,6 +65,14 @@
       "onboard_time": 1768610240,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 365874,
+      "num": 365874,
+      "word": "装死小羊身价30万主人仍不卖",
+      "onboard_time": 1768616360,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 362732,
@@ -75,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272050,
+      "num": 161908,
+      "word": "王玉雯回复张新成发给你妈妈了",
+      "onboard_time": 1768615999,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265395,
       "num": 265395,
       "word": "专家回应装死小羊为什么会装死",
@@ -83,20 +115,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 257972,
-      "num": 151162,
-      "word": "王玉雯回复张新成发给你妈妈了",
-      "onboard_time": 1768615999,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 256246,
       "num": 256246,
       "word": "李湘全平台账号被禁止关注",
       "onboard_time": 1768532959,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255729,
+      "num": 113515,
+      "word": "金价波动",
+      "onboard_time": 1768616299,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 253767,
@@ -115,12 +147,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 235927,
+      "num": 235927,
+      "word": "ALin哭着说对不起",
+      "onboard_time": 1768619958,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232748,
       "num": 163665,
       "word": "为什么戴了智能手表反而睡不好",
       "onboard_time": 1768611861,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 230363,
+      "num": 172743,
+      "word": "女子买二手卡宴被隐瞒伤亡事故4年",
+      "onboard_time": 1768617200,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 212250,
@@ -147,12 +195,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200852,
+      "num": 157907,
+      "word": "白鹿春晚联排",
+      "onboard_time": 1768617439,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 196978,
+      "num": 147475,
+      "word": "鹿哈曾自曝带货7个月赚3500万",
+      "onboard_time": 1768614379,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 196916,
       "num": 196916,
       "word": "央视盛赞蔡依林演唱会舞台",
       "onboard_time": 1768604896,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 190437,
+      "num": 139356,
+      "word": "宋威龙春晚带妆联排",
+      "onboard_time": 1768620380,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 190140,
@@ -211,6 +283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165282,
+      "num": 111607,
+      "word": "刘宇宁马年央视春晚首次联排",
+      "onboard_time": 1768620980,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157358,
       "num": 157358,
       "word": "教师的心理健康需引起高度重视",
@@ -259,6 +339,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133445,
+      "num": 169848,
+      "word": "你用过哪些回忆杀软件",
+      "onboard_time": 1768620199,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 131713,
+      "num": 114455,
+      "word": "魏大勋新路透是你吗孟宴臣",
+      "onboard_time": 1768620022,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 129325,
+      "num": 129325,
+      "word": "美国还欠2.6亿美元会费",
+      "onboard_time": 1768618100,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 128040,
       "num": 128040,
       "word": "幼童在冬季确诊热射病被送ICU抢救",
@@ -299,6 +403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 121004,
+      "num": 110788,
+      "word": "何炅 夜深了歌手们都有一些变化",
+      "onboard_time": 1768618519,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120626,
       "num": 156371,
       "word": "金饰克价跌至1429元",
@@ -315,20 +427,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 117530,
+      "num": 117530,
+      "word": "嫣然天使儿童医院十年旧床仍在使用",
+      "onboard_time": 1768620080,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114429,
       "num": 114429,
       "word": "陈小群",
       "onboard_time": 1768568000,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 112875,
-      "num": 112875,
-      "word": "鹿哈曾自曝带货7个月赚3500万",
-      "onboard_time": 1768614379,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 111067,
@@ -371,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104816,
+      "num": 104816,
+      "word": "你是周翊然那他是谁",
+      "onboard_time": 1768619360,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100248,
       "num": 754840,
       "word": "单依纯珠玉后继有人了",
@@ -379,12 +499,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100095,
+      "num": 117476,
+      "word": "全职主妇屡遭丈夫责骂吞30片安眠药",
+      "onboard_time": 1768620199,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98983,
       "num": 72947,
       "word": "窦骁何超莲说春节计划是去旅游",
       "onboard_time": 1768604776,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96688,
+      "num": 96688,
+      "word": "实践三十二号卫星发射失利",
+      "onboard_time": 1768618280,
+      "rank": 26,
+      "category": "科学科普"
     },
     {
       "raw_hot": 96401,
@@ -403,6 +539,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92473,
+      "num": 89395,
+      "word": "iPhone面容ID不止能开锁屏",
+      "onboard_time": 1768620679,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 89805,
+      "num": 89805,
+      "word": "单依纯被艾特最多的一次",
+      "onboard_time": 1768621460,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 89459,
+      "num": 89459,
+      "word": "马斯克称AI或能几分钟生成GTA6",
+      "onboard_time": 1768620620,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 88911,
       "num": 93847,
       "word": "丹麦邀请美国参加格陵兰岛联合军演",
@@ -417,6 +577,22 @@
       "onboard_time": 1768606397,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 88241,
+      "num": 88241,
+      "word": "42岁演员回应无戏可拍送外卖糊口",
+      "onboard_time": 1768618640,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 88009,
+      "num": 88009,
+      "word": "择天记3D版定档",
+      "onboard_time": 1768619419,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 87686,
@@ -475,20 +651,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 82075,
-      "num": 82075,
-      "word": "金价波动",
-      "onboard_time": 1768616299,
-      "rank": 32,
-      "category": "财经"
-    },
-    {
       "raw_hot": 80510,
       "num": 80510,
       "word": "很多家长都在对小孩进行镜头霸凌",
       "onboard_time": 1768608018,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 76720,
+      "num": 76720,
+      "word": "得闲谨制",
+      "onboard_time": 1768611200,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 75611,
@@ -507,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74402,
+      "num": 74402,
+      "word": "汪苏泷 后悔来了",
+      "onboard_time": 1768617020,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 72589,
       "num": 112011,
       "word": "王一博工作室蓝V没了",
@@ -515,12 +699,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72370,
-      "num": 72370,
-      "word": "装死小羊身价30万主人仍不卖",
-      "onboard_time": 1768616360,
-      "rank": 37,
+      "raw_hot": 72270,
+      "num": 72270,
+      "word": "国乒女单多哈下半区失守",
+      "onboard_time": 1768617801,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72011,
+      "num": 72011,
+      "word": "大爷被热水袋烫伤自行治疗致截肢",
+      "onboard_time": 1768620199,
+      "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71806,
+      "num": 71806,
+      "word": "小猫刚被救下来就被请家长",
+      "onboard_time": 1768620139,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 71413,
+      "num": 71413,
+      "word": "快船vs猛龙",
+      "onboard_time": 1768620620,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 70733,
@@ -529,6 +737,14 @@
       "onboard_time": 1768615100,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70701,
+      "num": 70701,
+      "word": "加方不再对中国电车加征100%附加税",
+      "onboard_time": 1768621399,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 69200,
@@ -563,12 +779,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 67582,
+      "num": 67582,
+      "word": "宣璐悬疑复仇女主上线",
+      "onboard_time": 1768621038,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 67390,
       "num": 111964,
       "word": "二人因乞讨相恋五年共同收入32万元",
       "onboard_time": 1768563380,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67301,
+      "num": 67301,
+      "word": "陈丽君李云霄晋升一级演员",
+      "onboard_time": 1768618640,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 67068,
@@ -801,6 +1033,14 @@
       "onboard_time": 1768566321,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 50315,
+      "num": 648544,
+      "word": "务工人员春运可预约购票",
+      "onboard_time": 1768617860,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49188,
@@ -1086,6 +1326,9 @@
   "hotgov_list": [
     {
       "word": "#习近平会见加拿大总理卡尼#"
+    },
+    {
+      "word": "#习主席向世界推介来自中国的机遇清单#"
     }
   ]
 }
