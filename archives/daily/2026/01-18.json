@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768668415327,
+  "endTime": 1768670703870,
   "band_list": [
     {
       "raw_hot": 1184745,
@@ -139,11 +139,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 131513,
+      "num": 107639,
+      "word": "在韩国处理尸体很难的原因",
+      "onboard_time": 1768649181,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 128900,
       "num": 128900,
       "word": "家中凌晨进贼女子全程装睡",
       "onboard_time": 1768645941,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124734,
+      "num": 121154,
+      "word": "结婚20年丈夫连个碗都没洗过",
+      "onboard_time": 1768665501,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -153,14 +169,6 @@
       "onboard_time": 1768649841,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121154,
-      "num": 121154,
-      "word": "结婚20年丈夫连个碗都没洗过",
-      "onboard_time": 1768665501,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 118455,
@@ -187,12 +195,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107639,
-      "num": 107639,
-      "word": "在韩国处理尸体很难的原因",
-      "onboard_time": 1768649181,
-      "rank": 19,
-      "category": "海外新闻"
+      "raw_hot": 101701,
+      "num": 101701,
+      "word": "米兰男装周",
+      "onboard_time": 1768665261,
+      "rank": 37,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 100543,
@@ -241,6 +249,14 @@
       "onboard_time": 1768648881,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78411,
+      "num": 78411,
+      "word": "檀健次再多一秒就要落泪了",
+      "onboard_time": 1768668440,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 73670,
@@ -307,12 +323,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 61284,
-      "num": 91335,
-      "word": "米兰男装周",
-      "onboard_time": 1768665261,
-      "rank": 37,
-      "category": "时尚,作品衍生"
+      "raw_hot": 62181,
+      "num": 72167,
+      "word": "肖稚宇胡羞在一起了",
+      "onboard_time": 1768667659,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 59327,
@@ -387,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49191,
+      "num": 71964,
+      "word": "肖战为新剧主动减重18斤",
+      "onboard_time": 1768668919,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 48952,
       "num": 91212,
       "word": "第1次见下雪的统一动作",
@@ -425,6 +449,22 @@
       "onboard_time": 1768668378,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35319,
+      "num": 71665,
+      "word": "李宇春把观众堆成雪人",
+      "onboard_time": 1768670297,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 32604,
+      "num": 71456,
+      "word": "小城大事",
+      "onboard_time": 1768650741,
+      "rank": 46,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
