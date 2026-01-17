@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768627764778,
+  "endTime": 1768628693630,
   "band_list": [
     {
       "raw_hot": 9503714,
@@ -1099,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 664971,
+      "num": 664971,
+      "word": "狼队487断开连接",
+      "onboard_time": 1768625119,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 664884,
       "num": 196497,
       "word": "王橹杰哭了",
@@ -1649,14 +1657,6 @@
       "onboard_time": 1768359681,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 546792,
-      "num": 546792,
-      "word": "狼队487断开连接",
-      "onboard_time": 1768625119,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 546668,
@@ -2459,6 +2459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 440050,
+      "num": 440050,
+      "word": "她一次性换了我一辈子的衣服",
+      "onboard_time": 1768628359,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 439558,
       "num": 814235,
       "word": "一起来看流星雨",
@@ -2900,7 +2908,7 @@
     },
     {
       "raw_hot": 397252,
-      "num": 322267,
+      "num": 481227,
       "word": "苏有朋 我在上升期没有情感经历",
       "onboard_time": 1768623261,
       "rank": 10,
@@ -3313,6 +3321,14 @@
       "onboard_time": 1768395860,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 356795,
+      "num": 321721,
+      "word": "老一辈迎来了最严厉的老师",
+      "onboard_time": 1768624640,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 356671,
@@ -3817,14 +3833,6 @@
       "onboard_time": 1768110559,
       "rank": 3,
       "category": "美食"
-    },
-    {
-      "raw_hot": 321721,
-      "num": 321721,
-      "word": "老一辈迎来了最严厉的老师",
-      "onboard_time": 1768624640,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 321209,
@@ -5539,8 +5547,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 227254,
-      "num": 226168,
+      "raw_hot": 228174,
+      "num": 228174,
       "word": "现身春晚联排的明星",
       "onboard_time": 1768623622,
       "rank": 15,
@@ -7835,6 +7843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171658,
+      "num": 171658,
+      "word": "周扬青推荐十个勤天去种青稞米",
+      "onboard_time": 1768627880,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171580,
       "num": 171580,
       "word": "山东省考成绩",
@@ -7985,6 +8001,14 @@
       "onboard_time": 1768048101,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168662,
+      "num": 97694,
+      "word": "王鹤棣直播",
+      "onboard_time": 1768628659,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 168105,
@@ -8371,6 +8395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161492,
+      "num": 161492,
+      "word": "王鹤棣和爸爸 典型中式父子关系",
+      "onboard_time": 1768628119,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161413,
       "num": 161413,
       "word": "中国科学家发现基因封条",
@@ -8465,6 +8497,14 @@
       "onboard_time": 1768452981,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 159731,
+      "num": 159731,
+      "word": "杨幂被工作人员提醒少吃点",
+      "onboard_time": 1768628060,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 159668,
@@ -8592,6 +8632,14 @@
       "word": "老鹰vs湖人",
       "onboard_time": 1768364542,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 158273,
+      "num": 96625,
+      "word": "又被王楚钦幽默到了",
+      "onboard_time": 1768628359,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -9761,6 +9809,14 @@
       "onboard_time": 1768120520,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 142428,
+      "num": 197285,
+      "word": "特朗普自曝暂缓打伊朗原因",
+      "onboard_time": 1768627280,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 142388,
@@ -11355,6 +11411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125035,
+      "num": 125035,
+      "word": "杨瀚森14分17板2助2帽",
+      "onboard_time": 1768627760,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124974,
       "num": 124974,
       "word": "杨博文第一次演戏的片段",
@@ -12123,6 +12187,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 117746,
+      "num": 117746,
+      "word": "音综现场选手和导师吵起来了",
+      "onboard_time": 1768627459,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117619,
       "num": 117619,
       "word": "金粒门被曝厨房脏臭生产日期造假",
@@ -12873,6 +12945,14 @@
       "onboard_time": 1768295541,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112528,
+      "num": 112528,
+      "word": "狼队 体面",
+      "onboard_time": 1768626200,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 112390,
@@ -14121,14 +14201,6 @@
       "onboard_time": 1768182919,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 103698,
-      "num": 103698,
-      "word": "狼队 体面",
-      "onboard_time": 1768626200,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 103669,
@@ -17147,6 +17219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 86676,
+      "num": 86676,
+      "word": "财神没了但多了俩门神",
+      "onboard_time": 1768628239,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86581,
       "num": 99984,
       "word": "台游客发现大陆与民进党宣传不同",
@@ -18763,14 +18843,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 75808,
-      "num": 75808,
-      "word": "音综现场选手和导师吵起来了",
-      "onboard_time": 1768627459,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 75619,
       "num": 111058,
       "word": "高敏感的人能察觉到微妙的恶意",
@@ -19603,6 +19675,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 67149,
+      "num": 67149,
+      "word": "周深做歌手做导师都很权威",
+      "onboard_time": 1768628481,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67068,
       "num": 67068,
       "word": "国乒女双多哈连负日本无缘决赛",
@@ -19651,6 +19731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66482,
+      "num": 66482,
+      "word": "这不得把作业写爆了",
+      "onboard_time": 1768628423,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 66443,
       "num": 97244,
       "word": "确诊为仓鼠型人格",
@@ -19673,6 +19761,14 @@
       "onboard_time": 1768556541,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 66010,
+      "num": 66010,
+      "word": "跟着Tim学出片",
+      "onboard_time": 1768628600,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 65872,
@@ -20395,14 +20491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55537,
-      "num": 133932,
-      "word": "特朗普自曝暂缓打伊朗原因",
-      "onboard_time": 1768627280,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 55490,
       "num": 94368,
       "word": "WE对战RNGM",
@@ -20505,6 +20593,14 @@
       "onboard_time": 1768360940,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 53469,
+      "num": 161709,
+      "word": "一茶餐厅非吸烟区茶位费9元吸烟区4元",
+      "onboard_time": 1768627880,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52918,
@@ -20676,7 +20772,7 @@
     },
     {
       "raw_hot": 50315,
-      "num": 652592,
+      "num": 666714,
       "word": "务工人员春运可预约购票",
       "onboard_time": 1768617860,
       "rank": 2,
@@ -21305,6 +21401,14 @@
       "onboard_time": 1768087577,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 38431,
+      "num": 85204,
+      "word": "胖东来599元羽绒服网上卖799元",
+      "onboard_time": 1768627821,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38379,

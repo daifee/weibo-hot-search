@@ -1,6 +1,6 @@
 {
   "startTime": 1768581578200,
-  "endTime": 1768627764778,
+  "endTime": 1768628693630,
   "band_list": [
     {
       "raw_hot": 994109,
@@ -19,20 +19,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 664971,
+      "num": 664971,
+      "word": "狼队487断开连接",
+      "onboard_time": 1768625119,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 573276,
       "num": 530395,
       "word": "推特",
       "onboard_time": 1768580059,
       "rank": 11,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 546792,
-      "num": 546792,
-      "word": "狼队487断开连接",
-      "onboard_time": 1768625119,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 546076,
@@ -57,6 +57,14 @@
       "onboard_time": 1768577122,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 440050,
+      "num": 440050,
+      "word": "她一次性换了我一辈子的衣服",
+      "onboard_time": 1768628359,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 422252,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 397252,
-      "num": 322267,
+      "num": 481227,
       "word": "苏有朋 我在上升期没有情感经历",
       "onboard_time": 1768623261,
       "rank": 10,
@@ -123,20 +131,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 356795,
+      "num": 321721,
+      "word": "老一辈迎来了最严厉的老师",
+      "onboard_time": 1768624640,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 322673,
       "num": 215342,
       "word": "女子吞药后被救丈夫称你就不容易死",
       "onboard_time": 1768623261,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 321721,
-      "num": 321721,
-      "word": "老一辈迎来了最严厉的老师",
-      "onboard_time": 1768624640,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 288860,
@@ -251,8 +259,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 227254,
-      "num": 226168,
+      "raw_hot": 228174,
+      "num": 228174,
       "word": "现身春晚联排的明星",
       "onboard_time": 1768623622,
       "rank": 15,
@@ -403,6 +411,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171658,
+      "num": 171658,
+      "word": "周扬青推荐十个勤天去种青稞米",
+      "onboard_time": 1768627880,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 168662,
+      "num": 97694,
+      "word": "王鹤棣直播",
+      "onboard_time": 1768628659,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167940,
       "num": 755854,
       "word": "轧戏",
@@ -433,6 +457,30 @@
       "onboard_time": 1768620980,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161492,
+      "num": 161492,
+      "word": "王鹤棣和爸爸 典型中式父子关系",
+      "onboard_time": 1768628119,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 159731,
+      "num": 159731,
+      "word": "杨幂被工作人员提醒少吃点",
+      "onboard_time": 1768628060,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 158273,
+      "num": 96625,
+      "word": "又被王楚钦幽默到了",
+      "onboard_time": 1768628359,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 157358,
@@ -507,6 +555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142428,
+      "num": 197285,
+      "word": "特朗普自曝暂缓打伊朗原因",
+      "onboard_time": 1768627280,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 134920,
       "num": 134920,
       "word": "赵今麦从小就会穿",
@@ -579,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125035,
+      "num": 125035,
+      "word": "杨瀚森14分17板2助2帽",
+      "onboard_time": 1768627760,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123549,
       "num": 140015,
       "word": "特朗普称明尼苏达州已完全失控",
@@ -643,6 +707,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 117746,
+      "num": 117746,
+      "word": "音综现场选手和导师吵起来了",
+      "onboard_time": 1768627459,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117026,
       "num": 117026,
       "word": "祯娘传",
@@ -665,6 +737,14 @@
       "onboard_time": 1768568000,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 112528,
+      "num": 112528,
+      "word": "狼队 体面",
+      "onboard_time": 1768626200,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 111067,
@@ -745,14 +825,6 @@
       "onboard_time": 1768622539,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 103698,
-      "num": 103698,
-      "word": "狼队 体面",
-      "onboard_time": 1768626200,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 101977,
@@ -955,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86676,
+      "num": 86676,
+      "word": "财神没了但多了俩门神",
+      "onboard_time": 1768628239,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86474,
       "num": 86474,
       "word": "努力考公的原因",
@@ -1065,14 +1145,6 @@
       "onboard_time": 1768611200,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 75808,
-      "num": 75808,
-      "word": "音综现场选手和导师吵起来了",
-      "onboard_time": 1768627459,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 75611,
@@ -1243,12 +1315,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 67149,
+      "num": 67149,
+      "word": "周深做歌手做导师都很权威",
+      "onboard_time": 1768628481,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67068,
       "num": 67068,
       "word": "国乒女双多哈连负日本无缘决赛",
       "onboard_time": 1768613239,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66482,
+      "num": 66482,
+      "word": "这不得把作业写爆了",
+      "onboard_time": 1768628423,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 66010,
+      "num": 66010,
+      "word": "跟着Tim学出片",
+      "onboard_time": 1768628600,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 64223,
@@ -1403,14 +1499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55537,
-      "num": 133932,
-      "word": "特朗普自曝暂缓打伊朗原因",
-      "onboard_time": 1768627280,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 55378,
       "num": 55378,
       "word": "一颗青提为何让台湾某些人破防",
@@ -1449,6 +1537,14 @@
       "onboard_time": 1768607659,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53469,
+      "num": 161709,
+      "word": "一茶餐厅非吸烟区茶位费9元吸烟区4元",
+      "onboard_time": 1768627880,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51957,
@@ -1492,7 +1588,7 @@
     },
     {
       "raw_hot": 50315,
-      "num": 652592,
+      "num": 666714,
       "word": "务工人员春运可预约购票",
       "onboard_time": 1768617860,
       "rank": 2,
@@ -1561,6 +1657,14 @@
       "onboard_time": 1768576763,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 38431,
+      "num": 85204,
+      "word": "胖东来599元羽绒服网上卖799元",
+      "onboard_time": 1768627821,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35255,

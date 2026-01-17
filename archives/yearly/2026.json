@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768627764778,
+  "endTime": 1768628693630,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -2379,6 +2379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 664971,
+      "num": 664971,
+      "word": "狼队487断开连接",
+      "onboard_time": 1768625119,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 663664,
       "num": 193107,
       "word": "刘一诺说和檀健次谈恋爱没给她什么戏",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767837920,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 663329,
-      "num": 234698,
-      "word": "毒皇后扮演者被迪士尼乐园辞退",
-      "onboard_time": 1767602961,
-      "rank": 30,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

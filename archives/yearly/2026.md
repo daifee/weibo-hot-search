@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/17 13:29:24
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/17 13:44:53
 </p>
 </blockquote>
 <p>
@@ -1797,6 +1797,12 @@ AI照片竟然拿了摄影比赛第一名（热度：667067）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%BC%E9%98%9F487%E6%96%AD%E5%BC%80%E8%BF%9E%E6%8E%A5%23" target="weibo">
+狼队487断开连接（热度：664971）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%B8%80%E8%AF%BA%E8%AF%B4%E5%92%8C%E6%AA%80%E5%81%A5%E6%AC%A1%E8%B0%88%E6%81%8B%E7%88%B1%E6%B2%A1%E7%BB%99%E5%A5%B9%E4%BB%80%E4%B9%88%E6%88%8F%23" target="weibo">
 刘一诺说和檀健次谈恋爱没给她什么戏（热度：663664）
 </a>
@@ -1805,12 +1811,6 @@ AI照片竟然拿了摄影比赛第一名（热度：667067）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%95%A3%E5%B8%83%E6%9C%AA%E5%A9%9A%E5%A6%BB%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E5%90%8E%E5%9D%A0%E4%BA%A1%23" target="weibo">
 男子散布未婚妻不雅视频后坠亡（热度：663511）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%92%E7%9A%87%E5%90%8E%E6%89%AE%E6%BC%94%E8%80%85%E8%A2%AB%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B9%90%E5%9B%AD%E8%BE%9E%E9%80%80%23" target="weibo">
-毒皇后扮演者被迪士尼乐园辞退（热度：663329）
 </a>
 </li>
 

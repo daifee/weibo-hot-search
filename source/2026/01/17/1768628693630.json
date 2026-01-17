@@ -1,0 +1,410 @@
+{
+  "runTime": 1768628693630,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 497607,
+        "num": 1079617,
+        "word": "公积金改革大动作要来了",
+        "onboard_time": 1768613360,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342559,
+        "num": 756889,
+        "word": "2026央视春晚首次联排",
+        "onboard_time": 1768618100,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41155,
+        "num": 666714,
+        "word": "务工人员春运可预约购票",
+        "onboard_time": 1768617860,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 664971,
+        "num": 664971,
+        "word": "狼队487断开连接",
+        "onboard_time": 1768625119,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 231501,
+        "num": 481227,
+        "word": "苏有朋 我在上升期没有情感经历",
+        "onboard_time": 1768623261,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440050,
+        "num": 440050,
+        "word": "她一次性换了我一辈子的衣服",
+        "onboard_time": 1768628359,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228174,
+        "num": 228174,
+        "word": "现身春晚联排的明星",
+        "onboard_time": 1768623622,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201569,
+        "num": 201569,
+        "word": "装死小羊身价30万主人仍不卖",
+        "onboard_time": 1768616360,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162382,
+        "num": 200026,
+        "word": "大陆词语成台独网军霸凌借口",
+        "onboard_time": 1768621822,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 142428,
+        "num": 197285,
+        "word": "特朗普自曝暂缓打伊朗原因",
+        "onboard_time": 1768627280,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 356795,
+        "num": 194068,
+        "word": "老一辈迎来了最严厉的老师",
+        "onboard_time": 1768624640,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 351340,
+        "num": 191093,
+        "word": "女子吞药轻生苏醒后被丈夫戳脑门",
+        "onboard_time": 1768623920,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207674,
+        "num": 187521,
+        "word": "荣耀之战",
+        "onboard_time": 1768623740,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141234,
+        "num": 183473,
+        "word": "学校通报上午匿名投诉下午就被找",
+        "onboard_time": 1768625480,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 182607,
+        "num": 182607,
+        "word": "黄晓明自曝没打过小海绵",
+        "onboard_time": 1768624220,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174643,
+        "num": 174643,
+        "word": "iPhone面容ID不止能开锁屏",
+        "onboard_time": 1768620679,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171658,
+        "num": 171658,
+        "word": "周扬青推荐十个勤天去种青稞米",
+        "onboard_time": 1768627880,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167918,
+        "num": 167918,
+        "word": "微博与SM达成深度战略合作",
+        "onboard_time": 1768625240,
+        "rank": 17,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 139137,
+        "num": 163715,
+        "word": "女子吞药后被救丈夫称你就不容易死",
+        "onboard_time": 1768623261,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53469,
+        "num": 161709,
+        "word": "一茶餐厅非吸烟区茶位费9元吸烟区4元",
+        "onboard_time": 1768627880,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161492,
+        "num": 161492,
+        "word": "王鹤棣和爸爸 典型中式父子关系",
+        "onboard_time": 1768628119,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159731,
+        "num": 159731,
+        "word": "杨幂被工作人员提醒少吃点",
+        "onboard_time": 1768628060,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133859,
+        "num": 143683,
+        "word": "嫣然天使儿童医院十年旧床仍在使用",
+        "onboard_time": 1768620080,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142025,
+        "num": 142025,
+        "word": "宋威龙春晚带妆联排",
+        "onboard_time": 1768620380,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135016,
+        "num": 135016,
+        "word": "李亚鹏已筹金额超千万元",
+        "onboard_time": 1768621578,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125035,
+        "num": 125035,
+        "word": "杨瀚森14分17板2助2帽",
+        "onboard_time": 1768627760,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117746,
+        "num": 117746,
+        "word": "音综现场选手和导师吵起来了",
+        "onboard_time": 1768627459,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112528,
+        "num": 112528,
+        "word": "狼队 体面",
+        "onboard_time": 1768626200,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112174,
+        "num": 112174,
+        "word": "黄子韬哭着说对不起家人",
+        "onboard_time": 1768624939,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99391,
+        "num": 99391,
+        "word": "特朗普称明尼苏达州已完全失控",
+        "onboard_time": 1768624159,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168662,
+        "num": 97694,
+        "word": "王鹤棣直播",
+        "onboard_time": 1768628659,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158273,
+        "num": 96625,
+        "word": "又被王楚钦幽默到了",
+        "onboard_time": 1768628359,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109471,
+        "num": 94661,
+        "word": "刘耀文自曝偷零花钱充值游戏",
+        "onboard_time": 1768625420,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92680,
+        "num": 92680,
+        "word": "白鹿春晚联排",
+        "onboard_time": 1768617439,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89024,
+        "num": 89024,
+        "word": "我国攻克半导体材料世界难题",
+        "onboard_time": 1768626800,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 91129,
+        "num": 88866,
+        "word": "成毅朱瞻基两套龙袍",
+        "onboard_time": 1768624820,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88601,
+        "num": 88601,
+        "word": "77年黄晓明叫97年沈月姐",
+        "onboard_time": 1768625600,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87991,
+        "num": 87991,
+        "word": "央视揭女性兼职骗局",
+        "onboard_time": 1768623859,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86676,
+        "num": 86676,
+        "word": "财神没了但多了俩门神",
+        "onboard_time": 1768628239,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38431,
+        "num": 85204,
+        "word": "胖东来599元羽绒服网上卖799元",
+        "onboard_time": 1768627821,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84541,
+        "num": 84541,
+        "word": "Faker重提BLG",
+        "onboard_time": 1768626800,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83256,
+        "num": 83256,
+        "word": "檀健次直播",
+        "onboard_time": 1768625059,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81482,
+        "num": 81482,
+        "word": "故宫今日雪况",
+        "onboard_time": 1768625240,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 81280,
+        "num": 81280,
+        "word": "NBA",
+        "onboard_time": 1768622480,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77794,
+        "num": 77794,
+        "word": "请假的意思不是居家办公",
+        "onboard_time": 1768625359,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76946,
+        "num": 76946,
+        "word": "05后真的不会用电脑了吗",
+        "onboard_time": 1768626800,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 75672,
+        "num": 75672,
+        "word": "荣耀之战抢票",
+        "onboard_time": 1768622899,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 67149,
+        "num": 67149,
+        "word": "周深做歌手做导师都很权威",
+        "onboard_time": 1768628481,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66482,
+        "num": 66482,
+        "word": "这不得把作业写爆了",
+        "onboard_time": 1768628423,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66010,
+        "num": 66010,
+        "word": "跟着Tim学出片",
+        "onboard_time": 1768628600,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席向世界推介来自中国的机遇清单#"
+    }
+  }
+}
