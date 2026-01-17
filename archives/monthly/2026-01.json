@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768655277182,
+  "endTime": 1768656940635,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -145,6 +145,14 @@
       "onboard_time": 1767177980,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2901090,
+      "num": 168037,
+      "word": "棣欣引力",
+      "onboard_time": 1768654162,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 2704539,
@@ -915,14 +923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1057257,
-      "num": 168037,
-      "word": "棣欣引力",
-      "onboard_time": 1768654162,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1049300,
       "num": 1774910,
       "word": "当年的老己在QQ给老自留了笔巨款",
@@ -1329,6 +1329,14 @@
       "onboard_time": 1767685761,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 906534,
+      "num": 1145045,
+      "word": "男子从喉咙痛到进ICU只用1小时",
+      "onboard_time": 1768654460,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 903109,
@@ -2921,6 +2929,14 @@
       "onboard_time": 1767939802,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 603050,
+      "num": 825540,
+      "word": "我是证人",
+      "onboard_time": 1768652782,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 601729,
@@ -6107,14 +6123,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 423195,
-      "num": 755814,
-      "word": "男子从喉咙痛到进ICU只用1小时",
-      "onboard_time": 1768654460,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 423183,
       "num": 273941,
       "word": "宋威龙赵今麦王子公主",
@@ -6945,6 +6953,14 @@
       "onboard_time": 1767700820,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 385711,
+      "num": 301996,
+      "word": "毕业11年存350万的5个消费习惯",
+      "onboard_time": 1768650683,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 385475,
@@ -9403,6 +9419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 308121,
+      "num": 174031,
+      "word": "王俊凯 退步啦刘昊然",
+      "onboard_time": 1768652602,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 308011,
       "num": 894122,
       "word": "格陵兰岛不想成美国的一部分",
@@ -9433,14 +9457,6 @@
       "onboard_time": 1767449605,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 307373,
-      "num": 301996,
-      "word": "毕业11年存350万的5个消费习惯",
-      "onboard_time": 1768650683,
-      "rank": 8,
-      "category": "情感"
     },
     {
       "raw_hot": 306586,
@@ -10099,6 +10115,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 290306,
+      "num": 290306,
+      "word": "U23国足vs乌兹别克斯坦",
+      "onboard_time": 1768650021,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 290136,
       "num": 290136,
       "word": "子阳道歉",
@@ -10705,6 +10729,14 @@
       "onboard_time": 1768181059,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 276097,
+      "num": 171481,
+      "word": "宋威龙下雪了",
+      "onboard_time": 1768655181,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 275969,
@@ -11859,6 +11891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 253848,
+      "num": 193543,
+      "word": "穆祉丞提到了双人舞台",
+      "onboard_time": 1768653863,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253580,
       "num": 253580,
       "word": "英雄联盟证书续了100年",
@@ -12187,14 +12227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 247271,
-      "num": 193543,
-      "word": "穆祉丞提到了双人舞台",
-      "onboard_time": 1768653863,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 247140,
       "num": 200773,
       "word": "王橹杰脸红",
@@ -12377,6 +12409,14 @@
       "onboard_time": 1768202721,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242656,
+      "num": 165721,
+      "word": "王鹤棣大屏角色没有东方青苍",
+      "onboard_time": 1768656142,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 242585,
@@ -13601,14 +13641,6 @@
       "onboard_time": 1768441100,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 221086,
-      "num": 155300,
-      "word": "王俊凯 退步啦刘昊然",
-      "onboard_time": 1768652602,
-      "rank": 20,
-      "category": "电影"
     },
     {
       "raw_hot": 220854,
@@ -16107,14 +16139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193045,
-      "num": 193045,
-      "word": "U23国足vs乌兹别克斯坦",
-      "onboard_time": 1768650021,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 192938,
       "num": 1035824,
       "word": "吃120天蚕豆后鱼变脆了",
@@ -17675,6 +17699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181358,
+      "num": 181358,
+      "word": "U23亚洲杯",
+      "onboard_time": 1767885321,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181213,
       "num": 181213,
       "word": "李雪琴贴脸开大林更新",
@@ -18657,14 +18689,6 @@
       "onboard_time": 1767761123,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172367,
-      "num": 172367,
-      "word": "我是证人",
-      "onboard_time": 1768652782,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 172358,
@@ -19825,14 +19849,6 @@
       "onboard_time": 1767781883,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 163545,
-      "num": 153585,
-      "word": "宋威龙下雪了",
-      "onboard_time": 1768655181,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 163525,
@@ -22067,14 +22083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148786,
-      "num": 148786,
-      "word": "U23亚洲杯",
-      "onboard_time": 1767885321,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 148741,
       "num": 134984,
       "word": "白鹿晒与粉丝合影live",
@@ -23683,6 +23691,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 140429,
+      "num": 114264,
+      "word": "贺娇龙母亲说让她静静地离开吧",
+      "onboard_time": 1768655481,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140417,
       "num": 134138,
       "word": "29岁女子呕吐水肿一查患上尿毒症",
@@ -24577,6 +24593,14 @@
       "onboard_time": 1767677960,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136151,
+      "num": 136151,
+      "word": "韩昊霖哭戏",
+      "onboard_time": 1768655662,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 136114,
@@ -29147,6 +29171,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 117856,
+      "num": 117856,
+      "word": "强奸幼女被判8年医生父亲是检察官",
+      "onboard_time": 1768655361,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117824,
       "num": 117824,
       "word": "不让江山",
@@ -29281,6 +29313,14 @@
       "onboard_time": 1767842720,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117473,
+      "num": 117473,
+      "word": "曼联vs曼城",
+      "onboard_time": 1768655601,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 117458,
@@ -33243,6 +33283,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 104925,
+      "num": 104925,
+      "word": "中国芯片迎来最大IPO",
+      "onboard_time": 1768656442,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 104816,
       "num": 104816,
       "word": "你是周翊然那他是谁",
@@ -35051,6 +35099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100087,
+      "num": 116192,
+      "word": "星期五练习生",
+      "onboard_time": 1767290176,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100064,
       "num": 135082,
       "word": "新年第一刀是三条蛇给的",
@@ -35795,6 +35851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98152,
+      "num": 98152,
+      "word": "下周冷冷冷广东冷冷冷",
+      "onboard_time": 1768654401,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98149,
       "num": 98149,
       "word": "林依轮在赵今麦面前演聂曦光",
@@ -36121,6 +36185,14 @@
       "onboard_time": 1767945800,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 97582,
+      "num": 97582,
+      "word": "北京雪天猫猫打架",
+      "onboard_time": 1768654401,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 97572,
@@ -37643,6 +37715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94076,
+      "num": 94076,
+      "word": "肖战的笑有治愈人心的力量",
+      "onboard_time": 1768656201,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94066,
       "num": 94066,
       "word": "李煜东牙套勾住嘴了",
@@ -38411,6 +38491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92323,
+      "num": 686107,
+      "word": "14亿多人用电自由是怎么做到的",
+      "onboard_time": 1768655361,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92289,
       "num": 92289,
       "word": "专家回应有人在4100点时仍未赚钱",
@@ -39041,14 +39129,6 @@
       "onboard_time": 1768621641,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 90747,
-      "num": 90894,
-      "word": "下周冷冷冷广东冷冷冷",
-      "onboard_time": 1768654401,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90719,
@@ -40299,6 +40379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87779,
+      "num": 91860,
+      "word": "张本智和今天没有场外指导",
+      "onboard_time": 1768653622,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87768,
       "num": 586898,
       "word": "爱具体的人过具体的生活",
@@ -41033,6 +41121,14 @@
       "onboard_time": 1768405280,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86413,
+      "num": 164547,
+      "word": "11万显卡中途拦截不成顺丰只肯赔运费",
+      "onboard_time": 1768656321,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86411,
@@ -43611,14 +43707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79899,
-      "num": 91860,
-      "word": "张本智和今天没有场外指导",
-      "onboard_time": 1768653622,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 79892,
       "num": 83699,
       "word": "22岁姑娘在高原为国找矿",
@@ -44811,6 +44899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76066,
+      "num": 76066,
+      "word": "中国人用10万亿度电有多牛",
+      "onboard_time": 1768655961,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76056,
       "num": 1002780,
       "word": "奥迪销量重回燃油豪华车第一名",
@@ -45193,6 +45289,14 @@
       "onboard_time": 1767712043,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 74764,
+      "num": 74764,
+      "word": "第1次见下雪的统一动作",
+      "onboard_time": 1768655001,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74750,
@@ -46128,14 +46232,6 @@
       "word": "国一国二打架纠纷",
       "onboard_time": 1768627099,
       "rank": 40,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 70687,
-      "num": 78183,
-      "word": "北京雪天猫猫打架",
-      "onboard_time": 1768654401,
-      "rank": 49,
       "category": "幽默"
     },
     {
@@ -49843,6 +49939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52529,
+      "num": 94662,
+      "word": "男子醋意大发模仿霸总甩西装肩膀脱臼",
+      "onboard_time": 1768655720,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52429,
       "num": 103599,
       "word": "男子骑摩托被抢杀害十指几乎全断",
@@ -51009,6 +51113,14 @@
       "onboard_time": 1768433720,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44908,
+      "num": 162012,
+      "word": "2026年中国将迎50万亿定存到期",
+      "onboard_time": 1768655841,
+      "rank": 19,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 44850,
@@ -53577,14 +53689,6 @@
       "onboard_time": 1768605616,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 30666,
-      "num": 116192,
-      "word": "星期五练习生",
-      "onboard_time": 1767290176,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 30616,

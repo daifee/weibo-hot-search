@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768655277182,
+  "endTime": 1768656940635,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -145,6 +145,14 @@
       "onboard_time": 1767177980,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2901090,
+      "num": 168037,
+      "word": "棣欣引力",
+      "onboard_time": 1768654162,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 2704539,
@@ -915,14 +923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1057257,
-      "num": 168037,
-      "word": "棣欣引力",
-      "onboard_time": 1768654162,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1049300,
       "num": 1774910,
       "word": "当年的老己在QQ给老自留了笔巨款",
@@ -1329,6 +1329,14 @@
       "onboard_time": 1767685761,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 906534,
+      "num": 1145045,
+      "word": "男子从喉咙痛到进ICU只用1小时",
+      "onboard_time": 1768654460,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 903109,
@@ -2392,14 +2400,6 @@
       "word": "3小孩坐跳楼机工作人员忘放安全杠",
       "onboard_time": 1767797484,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 668083,
-      "num": 582382,
-      "word": "景德镇肇事司机家属冲撞公诉席被摁住",
-      "onboard_time": 1767931161,
-      "rank": 30,
       "category": "民生新闻"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "startTime": 1768581578200,
-  "endTime": 1768655277182,
+  "endTime": 1768656940635,
   "band_list": [
     {
       "raw_hot": 7482738,
@@ -9,6 +9,14 @@
       "onboard_time": 1768629321,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 2901090,
+      "num": 168037,
+      "word": "棣欣引力",
+      "onboard_time": 1768654162,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 2064980,
@@ -43,19 +51,19 @@
       "category": "运动健身,网红"
     },
     {
-      "raw_hot": 1057257,
-      "num": 168037,
-      "word": "棣欣引力",
-      "onboard_time": 1768654162,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 994109,
       "num": 1714392,
       "word": "公积金改革大动作要来了",
       "onboard_time": 1768613360,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 906534,
+      "num": 1145045,
+      "word": "男子从喉咙痛到进ICU只用1小时",
+      "onboard_time": 1768654460,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -97,6 +105,14 @@
       "onboard_time": 1768642101,
       "rank": 34,
       "category": "网红"
+    },
+    {
+      "raw_hot": 603050,
+      "num": 825540,
+      "word": "我是证人",
+      "onboard_time": 1768652782,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 582316,
@@ -195,14 +211,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 423195,
-      "num": 755814,
-      "word": "男子从喉咙痛到进ICU只用1小时",
-      "onboard_time": 1768654460,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 422252,
       "num": 224866,
       "word": "李亚鹏已筹金额超千万元",
@@ -265,6 +273,14 @@
       "onboard_time": 1768616360,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 385711,
+      "num": 301996,
+      "word": "毕业11年存350万的5个消费习惯",
+      "onboard_time": 1768650683,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 375692,
@@ -339,12 +355,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 307373,
-      "num": 301996,
-      "word": "毕业11年存350万的5个消费习惯",
-      "onboard_time": 1768650683,
-      "rank": 8,
-      "category": "情感"
+      "raw_hot": 308121,
+      "num": 174031,
+      "word": "王俊凯 退步啦刘昊然",
+      "onboard_time": 1768652602,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 306586,
@@ -393,6 +409,14 @@
       "onboard_time": 1768644800,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 290306,
+      "num": 290306,
+      "word": "U23国足vs乌兹别克斯坦",
+      "onboard_time": 1768650021,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 288932,
@@ -449,6 +473,14 @@
       "onboard_time": 1768646961,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 276097,
+      "num": 171481,
+      "word": "宋威龙下雪了",
+      "onboard_time": 1768655181,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 272490,
@@ -523,6 +555,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 253848,
+      "num": 193543,
+      "word": "穆祉丞提到了双人舞台",
+      "onboard_time": 1768653863,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253767,
       "num": 253767,
       "word": "北京下雪",
@@ -547,14 +587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 247271,
-      "num": 193543,
-      "word": "穆祉丞提到了双人舞台",
-      "onboard_time": 1768653863,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 246748,
       "num": 242919,
       "word": "7岁男孩误用燃料吃药后爸爸心碎了",
@@ -569,6 +601,14 @@
       "onboard_time": 1768644920,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 242656,
+      "num": 165721,
+      "word": "王鹤棣大屏角色没有东方青苍",
+      "onboard_time": 1768656142,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 242419,
@@ -641,14 +681,6 @@
       "onboard_time": 1768630941,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 221086,
-      "num": 155300,
-      "word": "王俊凯 退步啦刘昊然",
-      "onboard_time": 1768652602,
-      "rank": 20,
-      "category": "电影"
     },
     {
       "raw_hot": 214291,
@@ -811,14 +843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193045,
-      "num": 193045,
-      "word": "U23国足vs乌兹别克斯坦",
-      "onboard_time": 1768650021,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 192715,
       "num": 182923,
       "word": "微博与SM达成深度战略合作",
@@ -923,6 +947,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 181358,
+      "num": 181358,
+      "word": "U23亚洲杯",
+      "onboard_time": 1768655542,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181043,
       "num": 181043,
       "word": "短剧演员上脑综打败清华北大学霸",
@@ -961,14 +993,6 @@
       "onboard_time": 1768620080,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 172367,
-      "num": 172367,
-      "word": "我是证人",
-      "onboard_time": 1768652782,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 171658,
@@ -1017,14 +1041,6 @@
       "onboard_time": 1768633342,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163545,
-      "num": 153585,
-      "word": "宋威龙下雪了",
-      "onboard_time": 1768655181,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 161492,
@@ -1219,6 +1235,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 140429,
+      "num": 114264,
+      "word": "贺娇龙母亲说让她静静地离开吧",
+      "onboard_time": 1768655481,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140159,
       "num": 125349,
       "word": "外卖已经进化成这样了吗",
@@ -1241,6 +1265,14 @@
       "onboard_time": 1768641380,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 136151,
+      "num": 136151,
+      "word": "韩昊霖哭戏",
+      "onboard_time": 1768655662,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 135338,
@@ -1539,6 +1571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 117856,
+      "num": 117856,
+      "word": "强奸幼女被判8年医生父亲是检察官",
+      "onboard_time": 1768655361,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117747,
       "num": 136893,
       "word": "10款儿童面霜被曝违规添加",
@@ -1561,6 +1601,14 @@
       "onboard_time": 1768652782,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117473,
+      "num": 117473,
+      "word": "曼联vs曼城",
+      "onboard_time": 1768655601,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 117026,
@@ -1755,6 +1803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104925,
+      "num": 104925,
+      "word": "中国芯片迎来最大IPO",
+      "onboard_time": 1768656442,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 104816,
       "num": 104816,
       "word": "你是周翊然那他是谁",
@@ -1843,6 +1899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100087,
+      "num": 100087,
+      "word": "星期五练习生",
+      "onboard_time": 1768656683,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99730,
       "num": 99730,
       "word": "央视春晚联排雪天神图",
@@ -1891,6 +1955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 98152,
+      "num": 98152,
+      "word": "下周冷冷冷广东冷冷冷",
+      "onboard_time": 1768654401,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98083,
       "num": 98083,
       "word": "网红被前男友PUA导致容貌焦虑",
@@ -1921,6 +1993,14 @@
       "onboard_time": 1768621999,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 97582,
+      "num": 97582,
+      "word": "北京雪天猫猫打架",
+      "onboard_time": 1768654401,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 97528,
@@ -2019,6 +2099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94076,
+      "num": 94076,
+      "word": "肖战的笑有治愈人心的力量",
+      "onboard_time": 1768656201,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93444,
       "num": 93444,
       "word": "王鹤棣画的白鹿是白色马路",
@@ -2041,6 +2129,14 @@
       "onboard_time": 1768630880,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92323,
+      "num": 686107,
+      "word": "14亿多人用电自由是怎么做到的",
+      "onboard_time": 1768655361,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91830,
@@ -2107,14 +2203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 90747,
-      "num": 90894,
-      "word": "下周冷冷冷广东冷冷冷",
-      "onboard_time": 1768654401,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90719,
       "num": 106922,
       "word": "哪有什么新年固定仪式",
@@ -2137,6 +2225,14 @@
       "onboard_time": 1768618640,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90317,
+      "num": 90317,
+      "word": "小城大事",
+      "onboard_time": 1768564822,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 90004,
@@ -2227,6 +2323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87779,
+      "num": 91860,
+      "word": "张本智和今天没有场外指导",
+      "onboard_time": 1768653622,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87686,
       "num": 744011,
       "word": "泡泡玛特星星人",
@@ -2305,6 +2409,14 @@
       "onboard_time": 1768608139,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 86413,
+      "num": 164547,
+      "word": "11万显卡中途拦截不成顺丰只肯赔运费",
+      "onboard_time": 1768656321,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86172,
@@ -2563,14 +2675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79899,
-      "num": 91860,
-      "word": "张本智和今天没有场外指导",
-      "onboard_time": 1768653622,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 79850,
       "num": 123850,
       "word": "美对韩企下最后通牒",
@@ -2659,6 +2763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76066,
+      "num": 76066,
+      "word": "中国人用10万亿度电有多牛",
+      "onboard_time": 1768655961,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75790,
       "num": 88815,
       "word": "马斯克与瑞安航空CEO对骂",
@@ -2681,6 +2793,14 @@
       "onboard_time": 1768605616,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74764,
+      "num": 74764,
+      "word": "第1次见下雪的统一动作",
+      "onboard_time": 1768655001,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74402,
@@ -2776,14 +2896,6 @@
       "word": "国一国二打架纠纷",
       "onboard_time": 1768627099,
       "rank": 40,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 70687,
-      "num": 78183,
-      "word": "北京雪天猫猫打架",
-      "onboard_time": 1768654401,
-      "rank": 49,
       "category": "幽默"
     },
     {
@@ -3187,6 +3299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52529,
+      "num": 94662,
+      "word": "男子醋意大发模仿霸总甩西装肩膀脱臼",
+      "onboard_time": 1768655720,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51957,
       "num": 51957,
       "word": "KPL",
@@ -3273,6 +3393,14 @@
       "onboard_time": 1768555881,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 44908,
+      "num": 162012,
+      "word": "2026年中国将迎50万亿定存到期",
+      "onboard_time": 1768655841,
+      "rank": 19,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 43945,
@@ -3489,14 +3617,6 @@
       "onboard_time": 1768639520,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 24617,
-      "num": 68907,
-      "word": "小城大事",
-      "onboard_time": 1768564822,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 24254,
