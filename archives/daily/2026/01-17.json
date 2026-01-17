@@ -1,10 +1,18 @@
 {
   "startTime": 1768581578200,
-  "endTime": 1768628693630,
+  "endTime": 1768632057028,
   "band_list": [
     {
+      "raw_hot": 5093235,
+      "num": 5093235,
+      "word": "487秒删",
+      "onboard_time": 1768629321,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 994109,
-      "num": 1159057,
+      "num": 1202195,
       "word": "公积金改革大动作要来了",
       "onboard_time": 1768613360,
       "rank": 0,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 546076,
-      "num": 821476,
+      "num": 860331,
       "word": "2026央视春晚首次联排",
       "onboard_time": 1768618100,
       "rank": 1,
@@ -59,8 +67,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 440050,
-      "num": 440050,
+      "raw_hot": 445910,
+      "num": 445910,
       "word": "她一次性换了我一辈子的衣服",
       "onboard_time": 1768628359,
       "rank": 5,
@@ -139,12 +147,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 324469,
+      "num": 200879,
+      "word": "只有实习生点了大杯奶茶",
+      "onboard_time": 1768629139,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 322673,
       "num": 215342,
       "word": "女子吞药后被救丈夫称你就不容易死",
       "onboard_time": 1768623261,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 293190,
+      "num": 199022,
+      "word": "杨幂被工作人员提醒少吃点",
+      "onboard_time": 1768628060,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 288860,
@@ -211,6 +235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 257107,
+      "num": 489152,
+      "word": "郎朗看到吉娜照片放心了",
+      "onboard_time": 1768631000,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256246,
       "num": 256246,
       "word": "李湘全平台账号被禁止关注",
@@ -267,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221224,
+      "num": 195646,
+      "word": "经济学家坚决反对夫妻店",
+      "onboard_time": 1768630941,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212250,
       "num": 212250,
       "word": "全网最听劝妈妈走红",
@@ -283,6 +323,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 209591,
+      "num": 209591,
+      "word": "特朗普自曝暂缓打伊朗原因",
+      "onboard_time": 1768627280,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 207132,
       "num": 192450,
       "word": "黄晓明自曝没打过小海绵",
@@ -297,6 +345,14 @@
       "onboard_time": 1768612880,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201782,
+      "num": 201782,
+      "word": "487 老子才是老大",
+      "onboard_time": 1768631241,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 200852,
@@ -321,6 +377,14 @@
       "onboard_time": 1768604896,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194498,
+      "num": 194498,
+      "word": "王鹤棣直播",
+      "onboard_time": 1768628659,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 192715,
@@ -419,14 +483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168662,
-      "num": 97694,
-      "word": "王鹤棣直播",
-      "onboard_time": 1768628659,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 167940,
       "num": 755854,
       "word": "轧戏",
@@ -465,14 +521,6 @@
       "onboard_time": 1768628119,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159731,
-      "num": 159731,
-      "word": "杨幂被工作人员提醒少吃点",
-      "onboard_time": 1768628060,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 158273,
@@ -555,12 +603,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 142428,
-      "num": 197285,
-      "word": "特朗普自曝暂缓打伊朗原因",
-      "onboard_time": 1768627280,
-      "rank": 18,
-      "category": "国际时政"
+      "raw_hot": 142550,
+      "num": 142550,
+      "word": "487退役",
+      "onboard_time": 1768628960,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 136962,
+      "num": 136961,
+      "word": "狼队 体面",
+      "onboard_time": 1768626200,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 134920,
@@ -569,6 +625,14 @@
       "onboard_time": 1768575922,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134203,
+      "num": 134203,
+      "word": "韦雪回应前夫与kk合体",
+      "onboard_time": 1768630580,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 133445,
@@ -601,6 +665,14 @@
       "onboard_time": 1768618100,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 128312,
+      "num": 128312,
+      "word": "一找工作全是研究生",
+      "onboard_time": 1768629199,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 128040,
@@ -636,7 +708,7 @@
     },
     {
       "raw_hot": 125035,
-      "num": 125035,
+      "num": 137131,
       "word": "杨瀚森14分17板2助2帽",
       "onboard_time": 1768627760,
       "rank": 25,
@@ -739,12 +811,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 112528,
-      "num": 112528,
-      "word": "狼队 体面",
-      "onboard_time": 1768626200,
-      "rank": 28,
-      "category": "电竞"
+      "raw_hot": 113932,
+      "num": 113932,
+      "word": "张婧仪能不能上旅综",
+      "onboard_time": 1768631541,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 111067,
@@ -761,6 +833,14 @@
       "onboard_time": 1768584376,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 110593,
+      "num": 95898,
+      "word": "您的副驾驶正在殴打司机",
+      "onboard_time": 1768630160,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 110234,
@@ -811,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105705,
+      "num": 129109,
+      "word": "网红戏精小羊装死实则因遗传缺陷",
+      "onboard_time": 1768630281,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104816,
       "num": 104816,
       "word": "你是周翊然那他是谁",
@@ -841,6 +929,14 @@
       "onboard_time": 1768626800,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 101201,
+      "num": 101201,
+      "word": "长征三号乙发射失利视频",
+      "onboard_time": 1768632021,
+      "rank": 27,
+      "category": "科学科普"
     },
     {
       "raw_hot": 101037,
@@ -923,11 +1019,35 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 95803,
+      "num": 95803,
+      "word": "第五瓜格",
+      "onboard_time": 1768632021,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 95002,
       "num": 95002,
       "word": "邓为悼念去世粉丝",
       "onboard_time": 1768604776,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 92917,
+      "num": 92917,
+      "word": "伊朗全境已恢复互联网服务",
+      "onboard_time": 1768630880,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 92736,
+      "num": 92736,
+      "word": "王橹杰 雷霆甩头",
+      "onboard_time": 1768630880,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -977,6 +1097,14 @@
       "onboard_time": 1768620620,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 89020,
+      "num": 95916,
+      "word": "学生匿名投诉被找系离职老师编造",
+      "onboard_time": 1768631721,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 88911,
@@ -1035,12 +1163,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86615,
+      "num": 86615,
+      "word": "追觅CEO回应百万亿美金目标争议",
+      "onboard_time": 1768631961,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 86474,
       "num": 86474,
       "word": "努力考公的原因",
       "onboard_time": 1768608139,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 86460,
+      "num": 86460,
+      "word": "柬埔寨又一华裔电诈头目落网",
+      "onboard_time": 1768630101,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 85569,
@@ -1065,6 +1209,14 @@
       "onboard_time": 1768609399,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 84885,
+      "num": 84885,
+      "word": "肖战新剧宣传单",
+      "onboard_time": 1768629440,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 83551,
@@ -1105,6 +1257,22 @@
       "onboard_time": 1768605678,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 81766,
+      "num": 81766,
+      "word": "侯明昊空降",
+      "onboard_time": 1768631120,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 81228,
+      "num": 81228,
+      "word": "追觅CEO回应被指膨胀",
+      "onboard_time": 1768631961,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 80686,
@@ -1353,6 +1521,14 @@
       "onboard_time": 1768622359,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 63719,
+      "num": 86404,
+      "word": "老婆出轨老公主动销毁证据",
+      "onboard_time": 1768631901,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 63388,
@@ -1659,6 +1835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40973,
+      "num": 136962,
+      "word": "丁程鑫跳我是李飞的表情",
+      "onboard_time": 1768631241,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 38431,
       "num": 85204,
       "word": "胖东来599元羽绒服网上卖799元",
@@ -1889,6 +2073,14 @@
       "onboard_time": 1768571482,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 10984,
+      "num": 680435,
+      "word": "多个新高见证中国经济硬实力",
+      "onboard_time": 1768617439,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9523,

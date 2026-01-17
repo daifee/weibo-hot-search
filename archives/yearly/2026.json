@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768628693630,
+  "endTime": 1768632057028,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -65,6 +65,14 @@
       "onboard_time": 1768114701,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 5093235,
+      "num": 5093235,
+      "word": "487秒删",
+      "onboard_time": 1768629321,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 4325889,
@@ -1012,7 +1020,7 @@
     },
     {
       "raw_hot": 994109,
-      "num": 1159057,
+      "num": 1202195,
       "word": "公积金改革大动作要来了",
       "onboard_time": 1768613360,
       "rank": 0,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768137622,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 663511,
-      "num": 308360,
-      "word": "男子散布未婚妻不雅视频后坠亡",
-      "onboard_time": 1767837920,
-      "rank": 13,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

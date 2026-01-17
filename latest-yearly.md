@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/17 13:44:53
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/17 14:40:57
 </p>
 </blockquote>
 <p>
@@ -59,6 +59,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%BE%88%E5%8F%91%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A%23" target="weibo">
 小澈发检测报告（热度：5632996）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23487%E7%A7%92%E5%88%A0%23" target="weibo">
+487秒删（热度：5093235）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ AI照片竟然拿了摄影比赛第一名（热度：667067）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%B8%80%E8%AF%BA%E8%AF%B4%E5%92%8C%E6%AA%80%E5%81%A5%E6%AC%A1%E8%B0%88%E6%81%8B%E7%88%B1%E6%B2%A1%E7%BB%99%E5%A5%B9%E4%BB%80%E4%B9%88%E6%88%8F%23" target="weibo">
 刘一诺说和檀健次谈恋爱没给她什么戏（热度：663664）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%95%A3%E5%B8%83%E6%9C%AA%E5%A9%9A%E5%A6%BB%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E5%90%8E%E5%9D%A0%E4%BA%A1%23" target="weibo">
-男子散布未婚妻不雅视频后坠亡（热度：663511）
 </a>
 </li>
 
