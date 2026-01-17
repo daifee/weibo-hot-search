@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768657645864,
+  "endTime": 1768660032278,
   "band_list": [
     {
       "raw_hot": 9503714,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 2901090,
-      "num": 187610,
+      "num": 211053,
       "word": "棣欣引力",
       "onboard_time": 1768654162,
       "rank": 24,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 2064980,
-      "num": 529551,
+      "num": 595793,
       "word": "王鹤棣演唱会",
       "onboard_time": 1768652240,
       "rank": 3,
@@ -259,6 +259,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 1510424,
+      "num": 323335,
+      "word": "王鹤棣大屏角色没有东方青苍",
+      "onboard_time": 1768656142,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1495371,
       "num": 231954,
       "word": "罗永浩回应贾国龙喊话",
@@ -281,6 +289,14 @@
       "onboard_time": 1768380440,
       "rank": 6,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 1464712,
+      "num": 1464712,
+      "word": "U23国足vs乌兹别克斯坦",
+      "onboard_time": 1768650021,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 1420398,
@@ -379,12 +395,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1181709,
+      "num": 1181709,
+      "word": "春晚",
+      "onboard_time": 1768651641,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1170739,
       "num": 309199,
       "word": "章泽天完全不给孩子看社媒",
       "onboard_time": 1768295241,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1146516,
+      "num": 1146516,
+      "word": "U23男足晋级四强",
+      "onboard_time": 1768659743,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1130396,
@@ -468,7 +500,7 @@
     },
     {
       "raw_hot": 1063554,
-      "num": 244058,
+      "num": 315403,
       "word": "帕梅拉胖了6公斤",
       "onboard_time": 1768648160,
       "rank": 11,
@@ -539,20 +571,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1011838,
+      "num": 336197,
+      "word": "曝丈夫出轨女子已连续道歉6天",
+      "onboard_time": 1768656982,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1010218,
       "num": 651882,
       "word": "日本被打到七寸了",
       "onboard_time": 1768570521,
       "rank": 20,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1000802,
-      "num": 200699,
-      "word": "王鹤棣大屏角色没有东方青苍",
-      "onboard_time": 1768656142,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 994109,
@@ -1113,6 +1145,14 @@
       "onboard_time": 1768058062,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 683673,
+      "num": 683673,
+      "word": "李昊全场8次扑救",
+      "onboard_time": 1768657163,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 680805,
@@ -3340,7 +3380,7 @@
     },
     {
       "raw_hot": 371840,
-      "num": 196753,
+      "num": 287238,
       "word": "王俊凯 退步啦刘昊然",
       "onboard_time": 1768652602,
       "rank": 20,
@@ -3425,6 +3465,14 @@
       "onboard_time": 1768286422,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 364287,
+      "num": 364287,
+      "word": "U23国足0比0乌兹别克斯坦进加时赛",
+      "onboard_time": 1768658662,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 362876,
@@ -3620,7 +3668,7 @@
     },
     {
       "raw_hot": 352330,
-      "num": 193019,
+      "num": 285461,
       "word": "宋威龙下雪了",
       "onboard_time": 1768655181,
       "rank": 23,
@@ -3641,6 +3689,14 @@
       "onboard_time": 1768184659,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 348563,
+      "num": 348563,
+      "word": "家中凌晨进贼女子全程装睡",
+      "onboard_time": 1768645941,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 348545,
@@ -4299,14 +4355,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 305886,
-      "num": 305886,
-      "word": "家中凌晨进贼女子全程装睡",
-      "onboard_time": 1768645941,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 305566,
       "num": 211146,
       "word": "汪涵杨乐乐11岁儿子正脸",
@@ -4561,14 +4609,6 @@
       "onboard_time": 1768472000,
       "rank": 32,
       "category": "美食,休闲"
-    },
-    {
-      "raw_hot": 290306,
-      "num": 290306,
-      "word": "U23国足vs乌兹别克斯坦",
-      "onboard_time": 1768650021,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 290136,
@@ -4913,14 +4953,6 @@
       "onboard_time": 1768045161,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 272490,
-      "num": 272490,
-      "word": "春晚",
-      "onboard_time": 1768651641,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 272479,
@@ -5320,6 +5352,14 @@
       "word": "女老板除夕前7天被藏尸商场花坛",
       "onboard_time": 1768522940,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254334,
+      "num": 254334,
+      "word": "贺娇龙母亲说让她静静地离开吧",
+      "onboard_time": 1768655481,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -5955,6 +5995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226858,
+      "num": 226858,
+      "word": "曼联vs曼城",
+      "onboard_time": 1768655601,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226484,
       "num": 320956,
       "word": "国考成绩什么时候出",
@@ -6483,6 +6531,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 211140,
+      "num": 211140,
+      "word": "U23国足 点球大战",
+      "onboard_time": 1768659743,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211114,
       "num": 333757,
       "word": "小城大事收视率",
@@ -6636,7 +6692,7 @@
     },
     {
       "raw_hot": 206211,
-      "num": 184784,
+      "num": 193584,
       "word": "鞠婧祎发夏天九宫格",
       "onboard_time": 1768654521,
       "rank": 16,
@@ -7129,6 +7185,14 @@
       "onboard_time": 1768293982,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194307,
+      "num": 194307,
+      "word": "强奸幼女被判8年医生父亲是检察官",
+      "onboard_time": 1768655361,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194290,
@@ -8217,6 +8281,14 @@
       "onboard_time": 1768366403,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176027,
+      "num": 176027,
+      "word": "向华强说娱乐圈明星美女他看不上眼",
+      "onboard_time": 1768658602,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 175798,
@@ -9555,6 +9627,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 154112,
+      "num": 164547,
+      "word": "11万显卡中途拦截不成顺丰只肯赔运费",
+      "onboard_time": 1768656321,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154065,
       "num": 154065,
       "word": "A股此轮大牛市十年一遇",
@@ -9963,14 +10043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149085,
-      "num": 149085,
-      "word": "强奸幼女被判8年医生父亲是检察官",
-      "onboard_time": 1768655361,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149011,
       "num": 149011,
       "word": "原来羽绒服可以这么洗",
@@ -10137,14 +10209,6 @@
       "onboard_time": 1768567340,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 146469,
-      "num": 115196,
-      "word": "李昊全场8次扑救",
-      "onboard_time": 1768657163,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 146425,
@@ -10619,14 +10683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 140788,
-      "num": 202813,
-      "word": "贺娇龙母亲说让她静静地离开吧",
-      "onboard_time": 1768655481,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140786,
       "num": 130857,
       "word": "何晴儿子长文缅怀母亲",
@@ -10729,14 +10785,6 @@
       "onboard_time": 1768362920,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139901,
-      "num": 187814,
-      "word": "曝丈夫出轨女子已连续道歉6天",
-      "onboard_time": 1768656982,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 139818,
@@ -11411,20 +11459,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133577,
-      "num": 164547,
-      "word": "11万显卡中途拦截不成顺丰只肯赔运费",
-      "onboard_time": 1768656321,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133445,
       "num": 169848,
       "word": "你用过哪些回忆杀软件",
       "onboard_time": 1768620199,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133323,
+      "num": 154319,
+      "word": "第1次见下雪的统一动作",
+      "onboard_time": 1768655001,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133287,
@@ -12587,6 +12635,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 121868,
+      "num": 121868,
+      "word": "北京雪天猫猫打架",
+      "onboard_time": 1768654401,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121662,
       "num": 55538,
       "word": "向出轨丈夫道歉女子带货销售额过万",
@@ -13121,14 +13177,6 @@
       "onboard_time": 1768318220,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117473,
-      "num": 117473,
-      "word": "曼联vs曼城",
-      "onboard_time": 1768655601,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 117458,
@@ -14699,14 +14747,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 107373,
-      "num": 107373,
-      "word": "北京雪天猫猫打架",
-      "onboard_time": 1768654401,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 107337,
       "num": 107337,
       "word": "白鹿十八宫格",
@@ -15195,6 +15235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104024,
+      "num": 1153080,
+      "word": "14亿多人用电自由是怎么做到的",
+      "onboard_time": 1768655361,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104011,
       "num": 134083,
       "word": "金价银价大幅波动原因",
@@ -15475,6 +15523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102308,
+      "num": 102308,
+      "word": "TF家族高雅人士局花絮照",
+      "onboard_time": 1768659383,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102282,
       "num": 126978,
       "word": "大爷5岁走失回家已72岁",
@@ -15689,6 +15745,14 @@
       "onboard_time": 1768101261,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101003,
+      "num": 101003,
+      "word": "中国人用10万亿度电有多牛",
+      "onboard_time": 1768655961,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100993,
@@ -16459,6 +16523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 96968,
+      "num": 111631,
+      "word": "U23国足点球赢了",
+      "onboard_time": 1768659923,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96929,
       "num": 223170,
       "word": "男子杀害22岁前女友一审被判死刑",
@@ -16497,14 +16569,6 @@
       "onboard_time": 1768536021,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 96738,
-      "num": 96738,
-      "word": "中国人用10万亿度电有多牛",
-      "onboard_time": 1768655961,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96720,
@@ -17267,14 +17331,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 92835,
-      "num": 92835,
-      "word": "第1次见下雪的统一动作",
-      "onboard_time": 1768655001,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 92818,
       "num": 104278,
       "word": "玉茗茶骨曹骏要出场了",
@@ -17393,14 +17449,6 @@
       "onboard_time": 1768466961,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 92323,
-      "num": 686107,
-      "word": "14亿多人用电自由是怎么做到的",
-      "onboard_time": 1768655361,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92289,
@@ -17624,6 +17672,14 @@
       "word": "李一桐咱俩太暧昧了吧",
       "onboard_time": 1768310183,
       "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 91409,
+      "num": 88025,
+      "word": "白鹿拍的雪",
+      "onboard_time": 1768659923,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -18105,6 +18161,14 @@
       "onboard_time": 1768440082,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88812,
+      "num": 88812,
+      "word": "李昊上演极限扑救",
+      "onboard_time": 1768659743,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 88757,
@@ -19233,6 +19297,14 @@
       "onboard_time": 1768625240,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 82914,
+      "num": 82914,
+      "word": "AG剧透",
+      "onboard_time": 1768659804,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 82858,
@@ -23227,6 +23299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 37519,
+      "num": 101410,
+      "word": "网友收到零下482度降温预警短信",
+      "onboard_time": 1768659804,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37453,
       "num": 645598,
       "word": "再有一个月就过年啦",
@@ -25145,6 +25225,14 @@
       "onboard_time": 1768197140,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 8962,
+      "num": 158933,
+      "word": "多校撤销艺术专业",
+      "onboard_time": 1768659863,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 8855,

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768657645864,
+  "endTime": 1768660032278,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 2901090,
-      "num": 187610,
+      "num": 211053,
       "word": "棣欣引力",
       "onboard_time": 1768654162,
       "rank": 24,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 2064980,
-      "num": 529551,
+      "num": 595793,
       "word": "王鹤棣演唱会",
       "onboard_time": 1768652240,
       "rank": 3,
@@ -451,6 +451,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 1510424,
+      "num": 323335,
+      "word": "王鹤棣大屏角色没有东方青苍",
+      "onboard_time": 1768656142,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1497333,
       "num": 459065,
       "word": "骄阳似我大结局",
@@ -497,6 +505,14 @@
       "onboard_time": 1767670641,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1464712,
+      "num": 1464712,
+      "word": "U23国足vs乌兹别克斯坦",
+      "onboard_time": 1768650021,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 1430098,
@@ -699,6 +715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1181709,
+      "num": 1181709,
+      "word": "春晚",
+      "onboard_time": 1768651641,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1174284,
       "num": 420138,
       "word": "结婚证就得考啊",
@@ -737,6 +761,14 @@
       "onboard_time": 1768054462,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1146516,
+      "num": 1146516,
+      "word": "U23男足晋级四强",
+      "onboard_time": 1768659743,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1134971,
@@ -908,7 +940,7 @@
     },
     {
       "raw_hot": 1063554,
-      "num": 244058,
+      "num": 315403,
       "word": "帕梅拉胖了6公斤",
       "onboard_time": 1768648160,
       "rank": 11,
@@ -1027,6 +1059,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1011838,
+      "num": 336197,
+      "word": "曝丈夫出轨女子已连续道歉6天",
+      "onboard_time": 1768656982,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1010218,
       "num": 651882,
       "word": "日本被打到七寸了",
@@ -1057,14 +1097,6 @@
       "onboard_time": 1768046421,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1000802,
-      "num": 200699,
-      "word": "王鹤棣大屏角色没有东方青苍",
-      "onboard_time": 1768656142,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 999982,
@@ -2331,6 +2363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 683673,
+      "num": 683673,
+      "word": "李昊全场8次扑救",
+      "onboard_time": 1768657163,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 680805,
       "num": 251406,
       "word": "单依纯 香奈儿",
@@ -2361,46 +2401,6 @@
       "onboard_time": 1767493341,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 674768,
-      "num": 848400,
-      "word": "王曼昱3比4韩莹",
-      "onboard_time": 1768047502,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 674228,
-      "num": 170939,
-      "word": "李金铭否认怀孕",
-      "onboard_time": 1767768801,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 674221,
-      "num": 501355,
-      "word": "网传再见爱人邓莎夫妇没下车",
-      "onboard_time": 1767943880,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 673702,
-      "num": 1105661,
-      "word": "92年姨父成12岁女孩第二个爸爸",
-      "onboard_time": 1767445105,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 673583,
-      "num": 176737,
-      "word": "演员夫妻回应撞死人后拉黑遗属",
-      "onboard_time": 1768123040,
-      "rank": 32,
-      "category": "艺人,民生新闻"
     }
   ],
   "hotgov_list": [
