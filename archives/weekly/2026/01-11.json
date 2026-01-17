@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768634844846,
+  "endTime": 1768635628916,
   "band_list": [
     {
       "raw_hot": 9503714,
@@ -297,6 +297,14 @@
       "onboard_time": 1768226783,
       "rank": 3,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1320767,
+      "num": 275111,
+      "word": "出轨被妻子道歉男子已停职",
+      "onboard_time": 1768633462,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1271113,
@@ -1027,20 +1035,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 693703,
+      "num": 172266,
+      "word": "李佳琦回应胖了",
+      "onboard_time": 1768633102,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 686666,
       "num": 196656,
       "word": "王橹杰维权",
       "onboard_time": 1768058062,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 684987,
-      "num": 203819,
-      "word": "出轨被妻子道歉男子已停职",
-      "onboard_time": 1768633462,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 680805,
@@ -1073,14 +1081,6 @@
       "onboard_time": 1768435581,
       "rank": 20,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 670797,
-      "num": 172266,
-      "word": "李佳琦回应胖了",
-      "onboard_time": 1768633102,
-      "rank": 20,
-      "category": "网红"
     },
     {
       "raw_hot": 667978,
@@ -1428,7 +1428,7 @@
     },
     {
       "raw_hot": 582316,
-      "num": 443686,
+      "num": 490213,
       "word": "只有实习生点了大杯奶茶",
       "onboard_time": 1768629139,
       "rank": 10,
@@ -2467,6 +2467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 444441,
+      "num": 260450,
+      "word": "487 老子才是老大",
+      "onboard_time": 1768631241,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 442994,
       "num": 264132,
       "word": "赵丽颖 纪梵希",
@@ -3172,7 +3180,7 @@
     },
     {
       "raw_hot": 375692,
-      "num": 208123,
+      "num": 324604,
       "word": "王鹤棣沈月吵架",
       "onboard_time": 1768634002,
       "rank": 6,
@@ -4091,14 +4099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 309140,
-      "num": 203070,
-      "word": "487 老子才是老大",
-      "onboard_time": 1768631241,
-      "rank": 9,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 307647,
       "num": 170272,
       "word": "金鸡白玉兰得主居然演短剧了",
@@ -4979,6 +4979,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 257061,
+      "num": 257061,
+      "word": "王橹杰真人长这样",
+      "onboard_time": 1768633581,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256266,
       "num": 471743,
       "word": "王楚钦LV品牌大使",
@@ -5795,6 +5803,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 221354,
+      "num": 767686,
+      "word": "耿村煤矿高飞被停职调查",
+      "onboard_time": 1768633882,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221224,
       "num": 195646,
       "word": "经济学家坚决反对夫妻店",
@@ -6123,6 +6139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211464,
+      "num": 165336,
+      "word": "爸妈体检报告这行字很多人没看懂",
+      "onboard_time": 1768634122,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 211114,
       "num": 333757,
       "word": "小城大事收视率",
@@ -6161,14 +6185,6 @@
       "onboard_time": 1768568182,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209643,
-      "num": 209643,
-      "word": "耿村煤矿高飞被停职调查",
-      "onboard_time": 1768633882,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 209591,
@@ -6419,6 +6435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202754,
+      "num": 202754,
+      "word": "沈月 我不想要黄子韬",
+      "onboard_time": 1768632621,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202648,
       "num": 202648,
       "word": "U23国足0比0泰国U23",
@@ -6513,14 +6537,6 @@
       "onboard_time": 1768310122,
       "rank": 18,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 199657,
-      "num": 199657,
-      "word": "沈月 我不想要黄子韬",
-      "onboard_time": 1768632621,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 199371,
@@ -6987,6 +7003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191011,
+      "num": 317888,
+      "word": "487表达能力",
+      "onboard_time": 1768632861,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190923,
       "num": 179861,
       "word": "谁家综艺7个嘉宾哭了4个",
@@ -7169,14 +7193,6 @@
       "onboard_time": 1768190721,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 188229,
-      "num": 188229,
-      "word": "王橹杰真人长这样",
-      "onboard_time": 1768633581,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 188130,
@@ -7803,6 +7819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174984,
+      "num": 309791,
+      "word": "四川百万网红给村里捐了70盏灯",
+      "onboard_time": 1768633520,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174939,
       "num": 174939,
       "word": "家属回应流落柬埔寨女网红回国现状",
@@ -8249,6 +8273,14 @@
       "onboard_time": 1768300102,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 166157,
+      "num": 166157,
+      "word": "萧亚轩和林俊杰的舞台",
+      "onboard_time": 1768634241,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 166110,
@@ -10011,14 +10043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141325,
-      "num": 206215,
-      "word": "487表达能力",
-      "onboard_time": 1768632861,
-      "rank": 8,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 141189,
       "num": 141189,
       "word": "女子遭丈夫家暴致残孩子称无法接受",
@@ -10209,14 +10233,6 @@
       "onboard_time": 1768394841,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 139637,
-      "num": 165336,
-      "word": "爸妈体检报告这行字很多人没看懂",
-      "onboard_time": 1768634122,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 139585,
@@ -10601,6 +10617,14 @@
       "onboard_time": 1768545560,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135338,
+      "num": 130740,
+      "word": "丁程鑫亮相我的朋友安德烈首映",
+      "onboard_time": 1768634600,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 135315,
@@ -11123,6 +11147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129866,
+      "num": 129866,
+      "word": "汪苏泷要吃订十年才能订上的餐厅",
+      "onboard_time": 1768635319,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129863,
       "num": 250149,
       "word": "小米新手表手环曝光",
@@ -11281,6 +11313,14 @@
       "onboard_time": 1768213761,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128175,
+      "num": 123235,
+      "word": "年轻人打扫卫生是有技巧的",
+      "onboard_time": 1768635442,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 128159,
@@ -11875,6 +11915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 122321,
+      "num": 122321,
+      "word": "和小狗无障碍沟通是种什么体验",
+      "onboard_time": 1768634781,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122290,
       "num": 122290,
       "word": "小城大事剧情平",
@@ -11961,6 +12009,14 @@
       "onboard_time": 1768447520,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121461,
+      "num": 121461,
+      "word": "drg对战estar",
+      "onboard_time": 1768634781,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 121436,
@@ -12291,6 +12347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118796,
+      "num": 118796,
+      "word": "王俊凯去看了董子健刘昊然新片",
+      "onboard_time": 1768635199,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 118785,
       "num": 155570,
       "word": "死了么APP回应收费8元",
@@ -12401,6 +12465,14 @@
       "onboard_time": 1768454242,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 117747,
+      "num": 136893,
+      "word": "10款儿童面霜被曝违规添加",
+      "onboard_time": 1768634181,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117746,
@@ -13819,6 +13891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108181,
+      "num": 108181,
+      "word": "煤矿通报女子向出轨丈夫道歉",
+      "onboard_time": 1768634960,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108135,
       "num": 108135,
       "word": "荣昌卤鹅哥带卤鹅支持呆呆杀猪宴",
@@ -14259,14 +14339,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 105305,
-      "num": 105305,
-      "word": "萧亚轩和林俊杰的舞台",
-      "onboard_time": 1768634241,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 105137,
       "num": 105137,
       "word": "活了么APP免费下载",
@@ -14305,14 +14377,6 @@
       "onboard_time": 1768136722,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104902,
-      "num": 104902,
-      "word": "丁程鑫亮相我的朋友安德烈首映",
-      "onboard_time": 1768634600,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 104816,
@@ -14409,6 +14473,14 @@
       "onboard_time": 1768225643,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104299,
+      "num": 104299,
+      "word": "涉事企业通报女子向出轨丈夫道歉",
+      "onboard_time": 1768635199,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104297,
@@ -14771,6 +14843,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 101853,
+      "num": 101853,
+      "word": "原来腹横肌才是女生瘦腰的舒适区",
+      "onboard_time": 1768633462,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 101827,
       "num": 101827,
       "word": "首批法国士兵已抵达格陵兰岛",
@@ -14841,14 +14921,6 @@
       "onboard_time": 1768626800,
       "rank": 31,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 101263,
-      "num": 139733,
-      "word": "四川百万网红给村里捐了70盏灯",
-      "onboard_time": 1768633520,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101218,
@@ -15177,6 +15249,14 @@
       "onboard_time": 1768259597,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99571,
+      "num": 122423,
+      "word": "嫣然天使儿童医院患儿家属发声",
+      "onboard_time": 1768634661,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99545,
@@ -15625,14 +15705,6 @@
       "onboard_time": 1768202660,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 97074,
-      "num": 136893,
-      "word": "10款儿童面霜被曝违规添加",
-      "onboard_time": 1768634181,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97010,
@@ -16283,14 +16355,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 93379,
-      "num": 113681,
-      "word": "drg对战estar",
-      "onboard_time": 1768634781,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 93228,
       "num": 93228,
       "word": "csgo官方关注穆祉丞",
@@ -16361,14 +16425,6 @@
       "onboard_time": 1768190962,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 92879,
-      "num": 105634,
-      "word": "和小狗无障碍沟通是种什么体验",
-      "onboard_time": 1768634781,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 92837,
@@ -16641,6 +16697,14 @@
       "onboard_time": 1768287320,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91568,
+      "num": 91568,
+      "word": "真有人被老天爷追着喂饭吃",
+      "onboard_time": 1768635319,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 91536,
@@ -18481,14 +18545,6 @@
       "onboard_time": 1768529420,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 81391,
-      "num": 88620,
-      "word": "嫣然天使儿童医院患儿家属发声",
-      "onboard_time": 1768634661,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81370,
@@ -23056,6 +23112,14 @@
       "word": "2026年多地养老金调整",
       "onboard_time": 1768078333,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21531,
+      "num": 129221,
+      "word": "免签后老外扎堆来华看病",
+      "onboard_time": 1768635442,
+      "rank": 27,
       "category": "民生新闻"
     },
     {

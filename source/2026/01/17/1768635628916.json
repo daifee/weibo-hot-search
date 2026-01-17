@@ -1,0 +1,410 @@
+{
+  "runTime": 1768635628916,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 354364,
+        "num": 1056698,
+        "word": "公积金改革大动作要来了",
+        "onboard_time": 1768613360,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221354,
+        "num": 767686,
+        "word": "耿村煤矿高飞被停职调查",
+        "onboard_time": 1768633882,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18500,
+        "num": 602645,
+        "word": "多个新高见证中国经济硬实力",
+        "onboard_time": 1768617439,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450461,
+        "num": 532818,
+        "word": "郎朗看到吉娜照片放心了",
+        "onboard_time": 1768631000,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195450,
+        "num": 493473,
+        "word": "2026央视春晚首次联排",
+        "onboard_time": 1768618100,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490213,
+        "num": 490213,
+        "word": "只有实习生点了大杯奶茶",
+        "onboard_time": 1768629139,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 324604,
+        "num": 324604,
+        "word": "王鹤棣沈月吵架",
+        "onboard_time": 1768634002,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191011,
+        "num": 317888,
+        "word": "487表达能力",
+        "onboard_time": 1768632861,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174984,
+        "num": 309791,
+        "word": "四川百万网红给村里捐了70盏灯",
+        "onboard_time": 1768633520,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138911,
+        "num": 294727,
+        "word": "装死小羊身价30万主人仍不卖",
+        "onboard_time": 1768616360,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2684697,
+        "num": 290387,
+        "word": "487秒删",
+        "onboard_time": 1768629321,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1320767,
+        "num": 275111,
+        "word": "出轨被妻子道歉男子已停职",
+        "onboard_time": 1768633462,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444441,
+        "num": 260450,
+        "word": "487 老子才是老大",
+        "onboard_time": 1768631241,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 257061,
+        "num": 257061,
+        "word": "王橹杰真人长这样",
+        "onboard_time": 1768633581,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202754,
+        "num": 202754,
+        "word": "沈月 我不想要黄子韬",
+        "onboard_time": 1768632621,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201063,
+        "num": 201063,
+        "word": "她一次性换了我一辈子的衣服",
+        "onboard_time": 1768628359,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197846,
+        "num": 197846,
+        "word": "女子吞药轻生苏醒后被丈夫戳脑门",
+        "onboard_time": 1768623920,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172966,
+        "num": 172966,
+        "word": "狼队487断开连接",
+        "onboard_time": 1768625119,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166157,
+        "num": 166157,
+        "word": "萧亚轩和林俊杰的舞台",
+        "onboard_time": 1768634241,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152597,
+        "num": 152597,
+        "word": "杨幂被工作人员提醒少吃点",
+        "onboard_time": 1768628060,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211464,
+        "num": 143798,
+        "word": "爸妈体检报告这行字很多人没看懂",
+        "onboard_time": 1768634122,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 693703,
+        "num": 138107,
+        "word": "李佳琦回应胖了",
+        "onboard_time": 1768633102,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 158161,
+        "num": 136777,
+        "word": "已经到了分手双方都能理解的年纪",
+        "onboard_time": 1768633342,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130989,
+        "num": 130989,
+        "word": "狼队 体面",
+        "onboard_time": 1768626200,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135338,
+        "num": 130740,
+        "word": "丁程鑫亮相我的朋友安德烈首映",
+        "onboard_time": 1768634600,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129866,
+        "num": 129866,
+        "word": "汪苏泷要吃订十年才能订上的餐厅",
+        "onboard_time": 1768635319,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117747,
+        "num": 129388,
+        "word": "10款儿童面霜被曝违规添加",
+        "onboard_time": 1768634181,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21531,
+        "num": 129221,
+        "word": "免签后老外扎堆来华看病",
+        "onboard_time": 1768635442,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59432,
+        "num": 129130,
+        "word": "大陆词语成台独网军霸凌借口",
+        "onboard_time": 1768621822,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129110,
+        "num": 129110,
+        "word": "被曝出轨男子已停职调查",
+        "onboard_time": 1768634362,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132776,
+        "num": 127239,
+        "word": "建议这种面包价格全国统一",
+        "onboard_time": 1768634002,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123333,
+        "num": 123333,
+        "word": "第五瓜格",
+        "onboard_time": 1768632021,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128175,
+        "num": 123235,
+        "word": "年轻人打扫卫生是有技巧的",
+        "onboard_time": 1768635442,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99571,
+        "num": 122423,
+        "word": "嫣然天使儿童医院患儿家属发声",
+        "onboard_time": 1768634661,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122321,
+        "num": 122321,
+        "word": "和小狗无障碍沟通是种什么体验",
+        "onboard_time": 1768634781,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121461,
+        "num": 121461,
+        "word": "drg对战estar",
+        "onboard_time": 1768634781,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118796,
+        "num": 118796,
+        "word": "王俊凯去看了董子健刘昊然新片",
+        "onboard_time": 1768635199,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117208,
+        "num": 117208,
+        "word": "一找工作全是研究生",
+        "onboard_time": 1768629199,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112000,
+        "num": 112000,
+        "word": "长征三号乙发射失利视频",
+        "onboard_time": 1768632021,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 109467,
+        "num": 109467,
+        "word": "周扬青自曝曾因头大自卑",
+        "onboard_time": 1768633520,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108477,
+        "num": 108477,
+        "word": "王鹤棣直播",
+        "onboard_time": 1768628659,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108181,
+        "num": 108181,
+        "word": "煤矿通报女子向出轨丈夫道歉",
+        "onboard_time": 1768634960,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104299,
+        "num": 104299,
+        "word": "涉事企业通报女子向出轨丈夫道歉",
+        "onboard_time": 1768635199,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102084,
+        "num": 102084,
+        "word": "张婧仪能不能上旅综",
+        "onboard_time": 1768631541,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101853,
+        "num": 101853,
+        "word": "原来腹横肌才是女生瘦腰的舒适区",
+        "onboard_time": 1768633462,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 95369,
+        "num": 95369,
+        "word": "韦雪回应前夫与kk合体",
+        "onboard_time": 1768630580,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 94368,
+        "num": 94368,
+        "word": "轧戏的男主们都曾从我们的世界路过",
+        "onboard_time": 1768633401,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92695,
+        "num": 92695,
+        "word": "杨瀚森14分17板2助2帽",
+        "onboard_time": 1768627760,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92477,
+        "num": 92477,
+        "word": "荣耀之战",
+        "onboard_time": 1768623740,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91568,
+        "num": 91568,
+        "word": "真有人被老天爷追着喂饭吃",
+        "onboard_time": 1768635319,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席向世界推介来自中国的机遇清单#"
+    }
+  }
+}
