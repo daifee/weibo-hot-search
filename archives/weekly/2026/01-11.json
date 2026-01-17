@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768660032278,
+  "endTime": 1768661054815,
   "band_list": [
     {
       "raw_hot": 9503714,
@@ -67,8 +67,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3580894,
+      "num": 4661789,
+      "word": "U23男足晋级四强",
+      "onboard_time": 1768659743,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2901090,
-      "num": 211053,
+      "num": 223028,
       "word": "棣欣引力",
       "onboard_time": 1768654162,
       "rank": 24,
@@ -411,14 +419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1146516,
-      "num": 1146516,
-      "word": "U23男足晋级四强",
-      "onboard_time": 1768659743,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1130396,
       "num": 193894,
       "word": "卫健局将调查疑小澈住院记录曝光",
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 1063554,
-      "num": 315403,
+      "num": 346607,
       "word": "帕梅拉胖了6公斤",
       "onboard_time": 1768648160,
       "rank": 11,
@@ -572,7 +572,7 @@
     },
     {
       "raw_hot": 1011838,
-      "num": 336197,
+      "num": 346742,
       "word": "曝丈夫出轨女子已连续道歉6天",
       "onboard_time": 1768656982,
       "rank": 18,
@@ -955,6 +955,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 748084,
+      "num": 748084,
+      "word": "李昊全场8次扑救",
+      "onboard_time": 1768657163,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 743670,
       "num": 1118987,
       "word": "我们的少年时代2",
@@ -1145,14 +1153,6 @@
       "onboard_time": 1768058062,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 683673,
-      "num": 683673,
-      "word": "李昊全场8次扑救",
-      "onboard_time": 1768657163,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 680805,
@@ -3403,6 +3403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 370763,
+      "num": 346720,
+      "word": "李昊说赢球最爽",
+      "onboard_time": 1768660701,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 370269,
       "num": 199980,
       "word": "汪苏泷代言MLB",
@@ -4835,6 +4843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 276853,
+      "num": 276853,
+      "word": "曼联vs曼城",
+      "onboard_time": 1768655601,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 276562,
       "num": 276562,
       "word": "迪丽热巴这段自我介绍完播率100%",
@@ -5995,14 +6011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 226858,
-      "num": 226858,
-      "word": "曼联vs曼城",
-      "onboard_time": 1768655601,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 226484,
       "num": 320956,
       "word": "国考成绩什么时候出",
@@ -6169,6 +6177,14 @@
       "onboard_time": 1768289000,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 221672,
+      "num": 221672,
+      "word": "U23国足 点球大战",
+      "onboard_time": 1768659743,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 221354,
@@ -6529,14 +6545,6 @@
       "onboard_time": 1768634122,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 211140,
-      "num": 211140,
-      "word": "U23国足 点球大战",
-      "onboard_time": 1768659743,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 211114,
@@ -7289,6 +7297,14 @@
       "onboard_time": 1768285460,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193220,
+      "num": 193220,
+      "word": "向华强说娱乐圈明星美女他看不上眼",
+      "onboard_time": 1768658602,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 193215,
@@ -8283,14 +8299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176027,
-      "num": 176027,
-      "word": "向华强说娱乐圈明星美女他看不上眼",
-      "onboard_time": 1768658602,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 175798,
       "num": 161201,
       "word": "剑来陈都灵路透",
@@ -8497,6 +8505,14 @@
       "onboard_time": 1768107800,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171847,
+      "num": 171847,
+      "word": "曼市德比",
+      "onboard_time": 1768661001,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 171658,
@@ -9707,6 +9723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153147,
+      "num": 153147,
+      "word": "U23男足又创造历史",
+      "onboard_time": 1768660403,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153129,
       "num": 147277,
       "word": "徐明浩裤子上挂了个鲨鱼",
@@ -10211,6 +10235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 146443,
+      "num": 146443,
+      "word": "白鹿拍的雪",
+      "onboard_time": 1768659923,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146425,
       "num": 146425,
       "word": "多方回应59岁产子能否领育儿补贴",
@@ -10385,6 +10417,14 @@
       "onboard_time": 1768312223,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 144823,
+      "num": 144823,
+      "word": "英超联赛",
+      "onboard_time": 1768660462,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 144647,
@@ -11593,6 +11633,14 @@
       "onboard_time": 1768620022,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131616,
+      "num": 131616,
+      "word": "廖三宁绝杀广东男篮",
+      "onboard_time": 1768660462,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 131542,
@@ -14971,6 +15019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105998,
+      "num": 105998,
+      "word": "广东男篮vs北控男篮",
+      "onboard_time": 1768660283,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105915,
       "num": 105915,
       "word": "iOS26升级率被严重低估",
@@ -15683,6 +15739,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 101336,
+      "num": 101336,
+      "word": "如果轧戏边拍边播",
+      "onboard_time": 1768660103,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101300,
       "num": 101300,
       "word": "我国攻克半导体材料世界难题",
@@ -15993,6 +16057,14 @@
       "onboard_time": 1768475360,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99746,
+      "num": 99746,
+      "word": "U23国足首次进入亚洲杯4强",
+      "onboard_time": 1768660403,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 99741,
@@ -16499,6 +16571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97152,
+      "num": 97152,
+      "word": "卸妆油洗头",
+      "onboard_time": 1768660882,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 97092,
       "num": 97092,
       "word": "央视曝大学内推骗局",
@@ -16524,7 +16604,7 @@
     },
     {
       "raw_hot": 96968,
-      "num": 111631,
+      "num": 346791,
       "word": "U23国足点球赢了",
       "onboard_time": 1768659923,
       "rank": 36,
@@ -16889,6 +16969,22 @@
       "onboard_time": 1768535841,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95294,
+      "num": 95064,
+      "word": "本轮寒潮与08年冰灾范围相似",
+      "onboard_time": 1768660584,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95263,
+      "num": 95263,
+      "word": "李宇春腰带是跟哪吒借的吧",
+      "onboard_time": 1768659624,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 95197,
@@ -17672,14 +17768,6 @@
       "word": "李一桐咱俩太暧昧了吧",
       "onboard_time": 1768310183,
       "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 91409,
-      "num": 88025,
-      "word": "白鹿拍的雪",
-      "onboard_time": 1768659923,
-      "rank": 46,
       "category": "艺人"
     },
     {
@@ -19945,6 +20033,14 @@
       "onboard_time": 1768223661,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 80146,
+      "num": 101410,
+      "word": "网友收到零下482度降温预警短信",
+      "onboard_time": 1768659804,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80105,
@@ -22451,6 +22547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52606,
+      "num": 223967,
+      "word": "多校撤销艺术专业",
+      "onboard_time": 1768659863,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 52529,
       "num": 94662,
       "word": "男子醋意大发模仿霸总甩西装肩膀脱臼",
@@ -23299,14 +23403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 37519,
-      "num": 101410,
-      "word": "网友收到零下482度降温预警短信",
-      "onboard_time": 1768659804,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 37453,
       "num": 645598,
       "word": "再有一个月就过年啦",
@@ -23657,6 +23753,14 @@
       "onboard_time": 1768260980,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32196,
+      "num": 101459,
+      "word": "杨幂鹿晗我是证人登顶",
+      "onboard_time": 1768660882,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 32193,
@@ -25225,14 +25329,6 @@
       "onboard_time": 1768197140,
       "rank": 44,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 8962,
-      "num": 158933,
-      "word": "多校撤销艺术专业",
-      "onboard_time": 1768659863,
-      "rank": 27,
-      "category": "教育"
     },
     {
       "raw_hot": 8855,
