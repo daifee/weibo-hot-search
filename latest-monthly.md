@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/17 23:28:50
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/17 23:42:16
 </p>
 </blockquote>
 <p>
@@ -3213,6 +3213,12 @@ TVB颁奖典礼（热度：518643）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B8%E5%A6%86%E6%B2%B9%E6%B4%97%E5%A4%B4%23" target="weibo">
+卸妆油洗头（热度：514642）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%BA%A7%E6%A3%80%E6%AD%A3%E5%B8%B8%E5%A8%83%E5%87%BA%E7%94%9F%E5%8D%B4%E5%85%88%E5%A4%A9%E7%95%B8%E5%BD%A2%23" target="weibo">
 官方通报产检正常娃出生却先天畸形（热度：514268）
 </a>
@@ -3693,6 +3699,12 @@ iPhone4需求激增近1000%（热度：506886）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%99%E6%88%91%E9%A6%99%E8%BF%B7%E7%B3%8A%E4%BA%86%23" target="weibo">
+王鹤棣演唱会给我香迷糊了（热度：482386）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B0%8F%E7%BE%A4%23" target="weibo">
 陈小群（热度：482017）
 </a>
@@ -3731,12 +3743,6 @@ iPhone4需求激增近1000%（热度：506886）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E8%BE%9F%E8%B0%A3%E7%97%94%E7%96%AE%E8%86%8F%E8%83%BD%E5%8E%BB%E9%99%A4%E9%BB%91%E7%9C%BC%E5%9C%88%23" target="weibo">
 金晨辟谣痔疮膏能去除黑眼圈（热度：479395）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%99%E6%88%91%E9%A6%99%E8%BF%B7%E7%B3%8A%E4%BA%86%23" target="weibo">
-王鹤棣演唱会给我香迷糊了（热度：478972）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ WB对战RW（热度：355689）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E9%82%A2%E8%8F%B2%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%85%B0%E8%A5%BF%E9%9B%85%20%E6%98%AF%E5%A7%90%E5%A6%B9%E6%98%AF%E7%9F%A5%E5%B7%B1%23" target="weibo">
 杨幂邢菲赵丽颖兰西雅 是姐妹是知己（热度：352920）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8B%BF5%E5%85%8B%E9%87%91%E5%AD%90%E5%81%9A%E9%A6%96%E9%A5%B0%E7%86%94%E5%90%8E%E4%B8%8D%E8%B6%B31%E5%85%8B%23" target="weibo">
-女子拿5克金子做首饰熔后不足1克（热度：352645）
 </a>
 </li>
 
