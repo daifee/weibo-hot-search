@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768649934533,
+  "endTime": 1768654475241,
   "band_list": [
     {
       "raw_hot": 9503714,
@@ -129,6 +129,14 @@
       "onboard_time": 1768480820,
       "rank": 10,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 2042173,
+      "num": 529551,
+      "word": "王鹤棣演唱会",
+      "onboard_time": 1768652240,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 2032182,
@@ -1697,6 +1705,14 @@
       "onboard_time": 1768368200,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 553135,
+      "num": 243538,
+      "word": "榜一大哥王楚钦",
+      "onboard_time": 1768648881,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 552781,
@@ -3571,6 +3587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348545,
+      "num": 1054941,
+      "word": "乡村蛋糕店4寸卖10元走红",
+      "onboard_time": 1768645880,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 348442,
       "num": 442570,
       "word": "女子网购一箱粑粑柑开出百种丑法",
@@ -3641,14 +3665,6 @@
       "onboard_time": 1768371320,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 343384,
-      "num": 1054941,
-      "word": "乡村蛋糕店4寸卖10元走红",
-      "onboard_time": 1768645880,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 342748,
@@ -4267,11 +4283,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304639,
+      "num": 242837,
+      "word": "王鹤棣演唱会彩排造型",
+      "onboard_time": 1768648042,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 303773,
       "num": 303773,
       "word": "北京下雪",
       "onboard_time": 1768388001,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 303501,
+      "num": 303501,
+      "word": "家中凌晨进贼女子全程装睡",
+      "onboard_time": 1768645941,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -4947,14 +4979,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 266799,
-      "num": 243538,
-      "word": "榜一大哥王楚钦",
-      "onboard_time": 1768648881,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 266425,
       "num": 155506,
       "word": "章泽天刘嘉玲大赞澳社媒禁令",
@@ -5227,6 +5251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254143,
+      "num": 254143,
+      "word": "春晚",
+      "onboard_time": 1768651641,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253457,
       "num": 716949,
       "word": "玉茗茶骨",
@@ -5473,14 +5505,6 @@
       "onboard_time": 1768212261,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 242837,
-      "num": 242837,
-      "word": "王鹤棣演唱会彩排造型",
-      "onboard_time": 1768648042,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 242665,
@@ -6049,6 +6073,14 @@
       "onboard_time": 1768441100,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221086,
+      "num": 124083,
+      "word": "王俊凯 退步啦刘昊然",
+      "onboard_time": 1768652602,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 220800,
@@ -6627,6 +6659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 204179,
+      "num": 244433,
+      "word": "东部战区发表谈话",
+      "onboard_time": 1768649424,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 204172,
       "num": 204172,
       "word": "上岸",
@@ -6832,6 +6872,14 @@
       "word": "张真源突袭直播",
       "onboard_time": 1768206920,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 198410,
+      "num": 125663,
+      "word": "穆祉丞提到了双人舞台",
+      "onboard_time": 1768653863,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -7307,6 +7355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190933,
+      "num": 123916,
+      "word": "李嘉琦李雪琴你俩咋这么瘦了",
+      "onboard_time": 1768650082,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190923,
       "num": 179861,
       "word": "谁家综艺7个嘉宾哭了4个",
@@ -7449,6 +7505,14 @@
       "onboard_time": 1768622899,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189072,
+      "num": 189072,
+      "word": "U23国足vs乌兹别克斯坦",
+      "onboard_time": 1768650021,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 189067,
@@ -7825,6 +7889,14 @@
       "onboard_time": 1768412416,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181418,
+      "num": 123510,
+      "word": "蛇缠腰取一片新鲜的仙人掌",
+      "onboard_time": 1768649424,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 181407,
@@ -9483,6 +9555,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 153109,
+      "num": 123060,
+      "word": "棣欣引力",
+      "onboard_time": 1768654162,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153037,
       "num": 153037,
       "word": "听不懂客气话的朋友belike",
@@ -10499,6 +10579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140545,
+      "num": 140545,
+      "word": "毕业11年存350万的5个消费习惯",
+      "onboard_time": 1768650683,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140463,
       "num": 171807,
       "word": "格陵兰岛上正发生恐慌性抢购",
@@ -10617,14 +10705,6 @@
       "onboard_time": 1768210521,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 139000,
-      "num": 244870,
-      "word": "家中凌晨进贼女子全程装睡",
-      "onboard_time": 1768645941,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 138989,
@@ -12083,6 +12163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124436,
+      "num": 215894,
+      "word": "iPhone最费电的3个设置",
+      "onboard_time": 1768647501,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124414,
       "num": 80169,
       "word": "复旦大学博士生威海追暴雪",
@@ -12152,14 +12240,6 @@
       "word": "过年带相机回家最有意义的时刻",
       "onboard_time": 1768535001,
       "rank": 30,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 123769,
-      "num": 215894,
-      "word": "iPhone最费电的3个设置",
-      "onboard_time": 1768647501,
-      "rank": 26,
       "category": "情感"
     },
     {
@@ -12921,6 +13001,14 @@
       "onboard_time": 1768286240,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117606,
+      "num": 117606,
+      "word": "穆祉丞碎碎念库存vlog",
+      "onboard_time": 1768652782,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 117600,
@@ -13881,6 +13969,14 @@
       "onboard_time": 1768405341,
       "rank": 28,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 110896,
+      "num": 110896,
+      "word": "汪东城没有我cos不了的小说",
+      "onboard_time": 1768653622,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 110895,
@@ -15315,6 +15411,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 101905,
+      "num": 101905,
+      "word": "我是证人",
+      "onboard_time": 1768652782,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 101853,
       "num": 101853,
       "word": "原来腹横肌才是女生瘦腰的舒适区",
@@ -15624,6 +15728,14 @@
       "word": "向太 7天闪婚和7年长跑没有区别",
       "onboard_time": 1768192523,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100285,
+      "num": 100285,
+      "word": "刘耀文夸杨博文是时代峰峻之光",
+      "onboard_time": 1768651341,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -16484,7 +16596,7 @@
     },
     {
       "raw_hot": 95656,
-      "num": 95656,
+      "num": 113044,
       "word": "BLG对战AL",
       "onboard_time": 1768642820,
       "rank": 36,
@@ -16609,6 +16721,14 @@
       "onboard_time": 1768409598,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94961,
+      "num": 94961,
+      "word": "肖战一番电影总票房突破15亿",
+      "onboard_time": 1768650381,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 94944,
@@ -16761,6 +16881,14 @@
       "onboard_time": 1768105879,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 94119,
+      "num": 119035,
+      "word": "女子开江A牌照车上路被罚",
+      "onboard_time": 1768651221,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94078,
@@ -17372,7 +17500,7 @@
     },
     {
       "raw_hot": 91020,
-      "num": 86104,
+      "num": 90883,
       "word": "程潇9年颜值变化",
       "onboard_time": 1768647682,
       "rank": 40,
@@ -18067,6 +18195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87431,
+      "num": 87431,
+      "word": "唐宫奇案海外定档",
+      "onboard_time": 1768651521,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87405,
       "num": 87405,
       "word": "其实这3类主食真的巨减肥",
@@ -18161,6 +18297,14 @@
       "onboard_time": 1768298421,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87132,
+      "num": 87132,
+      "word": "快乐老友记直播",
+      "onboard_time": 1768653800,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 87126,
@@ -19387,6 +19531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80709,
+      "num": 100500,
+      "word": "烤蛋奶",
+      "onboard_time": 1768653262,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 80686,
       "num": 80686,
       "word": "肖战小城良方买烤红薯路透",
@@ -19595,6 +19747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79899,
+      "num": 91860,
+      "word": "张本智和今天没有场外指导",
+      "onboard_time": 1768653622,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79892,
       "num": 83699,
       "word": "22岁姑娘在高原为国找矿",
@@ -19777,6 +19937,14 @@
       "onboard_time": 1768644021,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78960,
+      "num": 78960,
+      "word": "章若楠已拿到护照",
+      "onboard_time": 1768651581,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 78951,
@@ -20099,6 +20267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76065,
+      "num": 90894,
+      "word": "下周冷冷冷广东冷冷冷",
+      "onboard_time": 1768654401,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75986,
       "num": 115107,
       "word": "为什么精神疾病正在年轻化",
@@ -20345,6 +20521,14 @@
       "onboard_time": 1768356262,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73978,
+      "num": 88726,
+      "word": "BLG战胜AL",
+      "onboard_time": 1768652001,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 73903,
@@ -20891,6 +21075,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 68121,
+      "num": 81970,
+      "word": "之前我简直在乱用塑料袋",
+      "onboard_time": 1768653982,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 67996,
       "num": 67996,
       "word": "众星悼念陶玉玲",
@@ -20985,6 +21177,14 @@
       "onboard_time": 1768619661,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 67238,
+      "num": 78684,
+      "word": "汪顺从抽象到男神只需一秒",
+      "onboard_time": 1768653021,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 67200,
@@ -21275,14 +21475,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 63589,
-      "num": 244433,
-      "word": "东部战区发表谈话",
-      "onboard_time": 1768649424,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 63521,
       "num": 63521,
       "word": "官方通报亚运冠军遭索要奖金事件",
@@ -21361,6 +21553,14 @@
       "onboard_time": 1768301662,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 62879,
+      "num": 78183,
+      "word": "北京雪天猫猫打架",
+      "onboard_time": 1768654401,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 62878,
@@ -22929,6 +23129,14 @@
       "onboard_time": 1768465940,
       "rank": 49,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 35294,
+      "num": 124249,
+      "word": "20岁迈巴赫车主车上贴满寻亲启事",
+      "onboard_time": 1768653740,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35273,
