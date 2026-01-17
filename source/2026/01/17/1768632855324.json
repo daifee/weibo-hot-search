@@ -1,0 +1,410 @@
+{
+  "runTime": 1768632855324,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 352518,
+        "num": 1714392,
+        "word": "公积金改革大动作要来了",
+        "onboard_time": 1768613360,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225705,
+        "num": 1238573,
+        "word": "2026央视春晚首次联排",
+        "onboard_time": 1768618100,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16017,
+        "num": 1017613,
+        "word": "多个新高见证中国经济硬实力",
+        "onboard_time": 1768617439,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7482738,
+        "num": 7482738,
+        "word": "487秒删",
+        "onboard_time": 1768629321,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 494983,
+        "num": 494983,
+        "word": "郎朗看到吉娜照片放心了",
+        "onboard_time": 1768631000,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443686,
+        "num": 443686,
+        "word": "只有实习生点了大杯奶茶",
+        "onboard_time": 1768629139,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 253999,
+        "num": 253999,
+        "word": "狼队487断开连接",
+        "onboard_time": 1768625119,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192856,
+        "num": 192856,
+        "word": "荣耀之战",
+        "onboard_time": 1768623740,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185788,
+        "num": 185788,
+        "word": "第五瓜格",
+        "onboard_time": 1768632021,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 173685,
+        "num": 173685,
+        "word": "特朗普自曝暂缓打伊朗原因",
+        "onboard_time": 1768627280,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 356460,
+        "num": 171651,
+        "word": "她一次性换了我一辈子的衣服",
+        "onboard_time": 1768628359,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245907,
+        "num": 167363,
+        "word": "杨幂被工作人员提醒少吃点",
+        "onboard_time": 1768628060,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236227,
+        "num": 164259,
+        "word": "女子吞药轻生苏醒后被丈夫戳脑门",
+        "onboard_time": 1768623920,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189782,
+        "num": 160266,
+        "word": "经济学家坚决反对夫妻店",
+        "onboard_time": 1768630941,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183310,
+        "num": 156897,
+        "word": "王鹤棣直播",
+        "onboard_time": 1768628659,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156894,
+        "num": 156894,
+        "word": "狼队 体面",
+        "onboard_time": 1768626200,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143178,
+        "num": 143178,
+        "word": "装死小羊身价30万主人仍不卖",
+        "onboard_time": 1768616360,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134610,
+        "num": 142919,
+        "word": "杨瀚森14分17板2助2帽",
+        "onboard_time": 1768627760,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160566,
+        "num": 142310,
+        "word": "沈梦辰去超市就是为了试吃",
+        "onboard_time": 1768632621,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14143,
+        "num": 142142,
+        "word": "牧民称200多只羊因狼群夜袭死亡",
+        "onboard_time": 1768632321,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154109,
+        "num": 141499,
+        "word": "487 老子才是老大",
+        "onboard_time": 1768631241,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141339,
+        "num": 141339,
+        "word": "张婧仪能不能上旅综",
+        "onboard_time": 1768631541,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139818,
+        "num": 139818,
+        "word": "一找工作全是研究生",
+        "onboard_time": 1768629199,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128628,
+        "num": 128628,
+        "word": "韦雪回应前夫与kk合体",
+        "onboard_time": 1768630580,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 126933,
+        "num": 126933,
+        "word": "长征三号乙发射失利视频",
+        "onboard_time": 1768632021,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 111847,
+        "num": 111847,
+        "word": "沈月 我不想要黄子韬",
+        "onboard_time": 1768632621,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102859,
+        "num": 102859,
+        "word": "伊朗全境已恢复互联网服务",
+        "onboard_time": 1768630880,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99827,
+        "num": 99827,
+        "word": "网红戏精小羊装死实则因遗传缺陷",
+        "onboard_time": 1768630281,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99006,
+        "num": 99006,
+        "word": "静音车厢列车将增至超8000列",
+        "onboard_time": 1768632560,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85648,
+        "num": 98802,
+        "word": "大陆词语成台独网军霸凌借口",
+        "onboard_time": 1768621822,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114133,
+        "num": 98319,
+        "word": "您的副驾驶正在殴打司机",
+        "onboard_time": 1768630160,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106339,
+        "num": 97723,
+        "word": "藏了12年的糖被妹妹发现了",
+        "onboard_time": 1768632321,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101443,
+        "num": 97015,
+        "word": "周扬青推荐十个勤天去种青稞米",
+        "onboard_time": 1768627880,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99973,
+        "num": 96567,
+        "word": "487退役",
+        "onboard_time": 1768628960,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96052,
+        "num": 96052,
+        "word": "丁程鑫跳我是李飞的表情",
+        "onboard_time": 1768631241,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94372,
+        "num": 94372,
+        "word": "宋威龙春晚带妆联排",
+        "onboard_time": 1768620380,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65828,
+        "num": 92459,
+        "word": "老婆出轨老公主动销毁证据",
+        "onboard_time": 1768631901,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91514,
+        "num": 91514,
+        "word": "柬埔寨又一华裔电诈头目落网",
+        "onboard_time": 1768630101,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90691,
+        "num": 90691,
+        "word": "下雪把北京房山变成了油画",
+        "onboard_time": 1768632261,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 16755,
+        "num": 87887,
+        "word": "重庆一公司因只涨薪20元致歉",
+        "onboard_time": 1768632201,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86612,
+        "num": 86612,
+        "word": "王橹杰 雷霆甩头",
+        "onboard_time": 1768630880,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85568,
+        "num": 85568,
+        "word": "追觅CEO回应百万亿美金目标争议",
+        "onboard_time": 1768631961,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 84746,
+        "num": 84746,
+        "word": "相亲和自谈最大的区别",
+        "onboard_time": 1768630039,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84389,
+        "num": 84389,
+        "word": "学校通报上午匿名投诉下午就被找",
+        "onboard_time": 1768625480,
+        "rank": 43,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 83854,
+        "num": 83854,
+        "word": "肖战新剧宣传单",
+        "onboard_time": 1768629440,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81114,
+        "num": 81114,
+        "word": "学生匿名投诉被找系离职老师编造",
+        "onboard_time": 1768631721,
+        "rank": 45,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 79149,
+        "num": 79149,
+        "word": "荣耀之战抢票",
+        "onboard_time": 1768622899,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 77919,
+        "num": 77919,
+        "word": "存储市场进入超级牛市",
+        "onboard_time": 1768632741,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 77691,
+        "num": 77691,
+        "word": "白鹿春晚联排",
+        "onboard_time": 1768617439,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110539,
+        "num": 77529,
+        "word": "王鹤棣说可以帮黄晓明代打小海绵",
+        "onboard_time": 1768632621,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席向世界推介来自中国的机遇清单#"
+    }
+  }
+}

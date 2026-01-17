@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/17 14:40:57
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/17 14:54:15
 </p>
 </blockquote>
 <p>
@@ -45,6 +45,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23487%E7%A7%92%E5%88%A0%23" target="weibo">
+487秒删（热度：7482738）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A2%9C%E5%AE%89%E9%95%BF%E6%96%87%E5%9B%9E%E5%BA%94%23" target="weibo">
 颜安长文回应（热度：6840252）
 </a>
@@ -59,12 +65,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%BE%88%E5%8F%91%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A%23" target="weibo">
 小澈发检测报告（热度：5632996）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23487%E7%A7%92%E5%88%A0%23" target="weibo">
-487秒删（热度：5093235）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768632057028,
+  "endTime": 1768632855324,
   "band_list": [
     {
       "raw_hot": 9503714,
@@ -19,6 +19,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 7482738,
+      "num": 7482738,
+      "word": "487秒删",
+      "onboard_time": 1768629321,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 6042964,
       "num": 6042964,
       "word": "官方回应贺娇龙被传去世",
@@ -33,14 +41,6 @@
       "onboard_time": 1768114701,
       "rank": 20,
       "category": "网红"
-    },
-    {
-      "raw_hot": 5093235,
-      "num": 5093235,
-      "word": "487秒删",
-      "onboard_time": 1768629321,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 4325889,
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 994109,
-      "num": 1202195,
+      "num": 1714392,
       "word": "公积金改革大动作要来了",
       "onboard_time": 1768613360,
       "rank": 0,
@@ -1676,7 +1676,7 @@
     },
     {
       "raw_hot": 546076,
-      "num": 860331,
+      "num": 1238573,
       "word": "2026央视春晚首次联排",
       "onboard_time": 1768618100,
       "rank": 1,
@@ -1977,6 +1977,14 @@
       "onboard_time": 1768198220,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 494983,
+      "num": 494983,
+      "word": "郎朗看到吉娜照片放心了",
+      "onboard_time": 1768631000,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 493562,
@@ -2433,6 +2441,14 @@
       "onboard_time": 1768381762,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 443686,
+      "num": 443686,
+      "word": "只有实习生点了大杯奶茶",
+      "onboard_time": 1768629139,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 442994,
@@ -3779,14 +3795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 324469,
-      "num": 200879,
-      "word": "只有实习生点了大杯奶茶",
-      "onboard_time": 1768629139,
-      "rank": 10,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 323732,
       "num": 247999,
       "word": "马币",
@@ -4937,14 +4945,6 @@
       "onboard_time": 1768380921,
       "rank": 25,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 257107,
-      "num": 489152,
-      "word": "郎朗看到吉娜照片放心了",
-      "onboard_time": 1768631000,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 256266,
@@ -7227,6 +7227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185788,
+      "num": 185788,
+      "word": "第五瓜格",
+      "onboard_time": 1768632021,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 185660,
       "num": 185660,
       "word": "u23国足亚洲杯小组出线",
@@ -8507,6 +8515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160566,
+      "num": 142310,
+      "word": "沈梦辰去超市就是为了试吃",
+      "onboard_time": 1768632621,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160504,
       "num": 160504,
       "word": "肖战齐夏真的要来了",
@@ -8809,6 +8825,14 @@
       "onboard_time": 1768187240,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156894,
+      "num": 156894,
+      "word": "狼队 体面",
+      "onboard_time": 1768626200,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 156760,
@@ -9915,6 +9939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141339,
+      "num": 141339,
+      "word": "张婧仪能不能上旅综",
+      "onboard_time": 1768631541,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141189,
       "num": 141189,
       "word": "女子遭丈夫家暴致残孩子称无法接受",
@@ -10073,6 +10105,14 @@
       "onboard_time": 1768362920,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139818,
+      "num": 139818,
+      "word": "一找工作全是研究生",
+      "onboard_time": 1768629199,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 139768,
@@ -10289,14 +10329,6 @@
       "onboard_time": 1768203020,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136962,
-      "num": 136961,
-      "word": "狼队 体面",
-      "onboard_time": 1768626200,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 136943,
@@ -10585,6 +10617,14 @@
       "onboard_time": 1768452622,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 134610,
+      "num": 142919,
+      "word": "杨瀚森14分17板2助2帽",
+      "onboard_time": 1768627760,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 134569,
@@ -11131,14 +11171,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 128312,
-      "num": 128312,
-      "word": "一找工作全是研究生",
-      "onboard_time": 1768629199,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 128274,
       "num": 128274,
       "word": "许我耀眼导演新作",
@@ -11297,6 +11329,14 @@
       "onboard_time": 1768215441,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 126933,
+      "num": 126933,
+      "word": "长征三号乙发射失利视频",
+      "onboard_time": 1768632021,
+      "rank": 27,
+      "category": "科学科普"
     },
     {
       "raw_hot": 126922,
@@ -11479,14 +11519,6 @@
       "num": 125233,
       "word": "杨瀚森G联赛比赛直播",
       "onboard_time": 1768621879,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 125035,
-      "num": 137131,
-      "word": "杨瀚森14分17板2助2帽",
-      "onboard_time": 1768627760,
       "rank": 25,
       "category": "体育"
     },
@@ -12747,6 +12779,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 114133,
+      "num": 98319,
+      "word": "您的副驾驶正在殴打司机",
+      "onboard_time": 1768630160,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114115,
       "num": 114115,
       "word": "小城大事云合6.3%",
@@ -12801,14 +12841,6 @@
       "onboard_time": 1768449321,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 113932,
-      "num": 113932,
-      "word": "张婧仪能不能上旅综",
-      "onboard_time": 1768631541,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 113857,
@@ -13099,6 +13131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111847,
+      "num": 111847,
+      "word": "沈月 我不想要黄子韬",
+      "onboard_time": 1768632621,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111819,
       "num": 111819,
       "word": "P人简直是最佳旅游搭子",
@@ -13267,12 +13307,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110593,
-      "num": 95898,
-      "word": "您的副驾驶正在殴打司机",
-      "onboard_time": 1768630160,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 110539,
+      "num": 77529,
+      "word": "王鹤棣说可以帮黄晓明代打小海绵",
+      "onboard_time": 1768632621,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 110524,
@@ -13939,6 +13979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106339,
+      "num": 97723,
+      "word": "藏了12年的糖被妹妹发现了",
+      "onboard_time": 1768632321,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106293,
       "num": 106293,
       "word": "孙颖莎玩自己的手办",
@@ -14475,6 +14523,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 102859,
+      "num": 102859,
+      "word": "伊朗全境已恢复互联网服务",
+      "onboard_time": 1768630880,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 102788,
       "num": 124523,
       "word": "蜜蜂打架主人赔了2100元加3桶蜜",
@@ -14665,14 +14721,6 @@
       "onboard_time": 1768216282,
       "rank": 43,
       "category": "数码"
-    },
-    {
-      "raw_hot": 101201,
-      "num": 101201,
-      "word": "长征三号乙发射失利视频",
-      "onboard_time": 1768632021,
-      "rank": 27,
-      "category": "科学科普"
     },
     {
       "raw_hot": 101073,
@@ -15073,6 +15121,14 @@
       "onboard_time": 1768173858,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99006,
+      "num": 99006,
+      "word": "静音车厢列车将增至超8000列",
+      "onboard_time": 1768632560,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99002,
@@ -15651,6 +15707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96052,
+      "num": 136962,
+      "word": "丁程鑫跳我是李飞的表情",
+      "onboard_time": 1768631241,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96022,
       "num": 96022,
       "word": "第一次看求婚后的对话记录",
@@ -15681,14 +15745,6 @@
       "onboard_time": 1768202780,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 95803,
-      "num": 95803,
-      "word": "第五瓜格",
-      "onboard_time": 1768632021,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 95727,
@@ -16139,14 +16195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 92917,
-      "num": 92917,
-      "word": "伊朗全境已恢复互联网服务",
-      "onboard_time": 1768630880,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 92886,
       "num": 92886,
       "word": "工作日才是用来休息的",
@@ -16427,6 +16475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91514,
+      "num": 91514,
+      "word": "柬埔寨又一华裔电诈头目落网",
+      "onboard_time": 1768630101,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 91509,
       "num": 91509,
       "word": "在小区刷鞋洗锅一天收入750元",
@@ -16561,6 +16617,14 @@
       "onboard_time": 1768625240,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90691,
+      "num": 90691,
+      "word": "下雪把北京房山变成了油画",
+      "onboard_time": 1768632261,
+      "rank": 38,
+      "category": "旅游"
     },
     {
       "raw_hot": 90677,
@@ -17403,14 +17467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 86460,
-      "num": 86460,
-      "word": "柬埔寨又一华裔电诈头目落网",
-      "onboard_time": 1768630101,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 86457,
       "num": 86457,
       "word": "何不同舟渡",
@@ -17745,6 +17801,14 @@
       "onboard_time": 1768285460,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84746,
+      "num": 84746,
+      "word": "相亲和自谈最大的区别",
+      "onboard_time": 1768630039,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 84501,
@@ -18793,6 +18857,14 @@
       "onboard_time": 1768113323,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 77919,
+      "num": 77919,
+      "word": "存储市场进入超级牛市",
+      "onboard_time": 1768632741,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 77910,
@@ -19955,6 +20027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 65828,
+      "num": 92459,
+      "word": "老婆出轨老公主动销毁证据",
+      "onboard_time": 1768631901,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 65803,
       "num": 76683,
       "word": "冰淇淋吐司",
@@ -20088,14 +20168,6 @@
       "word": "李秋萍爸妈",
       "onboard_time": 1768060642,
       "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 63719,
-      "num": 86404,
-      "word": "老婆出轨老公主动销毁证据",
-      "onboard_time": 1768631901,
-      "rank": 39,
       "category": "剧集"
     },
     {
@@ -21401,14 +21473,6 @@
       "onboard_time": 1768157235,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 40973,
-      "num": 136962,
-      "word": "丁程鑫跳我是李飞的表情",
-      "onboard_time": 1768631241,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 40890,
@@ -23171,6 +23235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16755,
+      "num": 87887,
+      "word": "重庆一公司因只涨薪20元致歉",
+      "onboard_time": 1768632201,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16489,
       "num": 60890,
       "word": "张真源新歌",
@@ -23201,6 +23273,14 @@
       "onboard_time": 1768410557,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16017,
+      "num": 1017613,
+      "word": "多个新高见证中国经济硬实力",
+      "onboard_time": 1768617439,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15825,
@@ -23289,6 +23369,14 @@
       "onboard_time": 1768568421,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14143,
+      "num": 142142,
+      "word": "牧民称200多只羊因狼群夜袭死亡",
+      "onboard_time": 1768632321,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14057,
@@ -23425,14 +23513,6 @@
       "onboard_time": 1768548320,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10984,
-      "num": 680435,
-      "word": "多个新高见证中国经济硬实力",
-      "onboard_time": 1768617439,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10184,
