@@ -1,0 +1,410 @@
+{
+  "runTime": 1768646728315,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 447546,
+        "num": 1071607,
+        "word": "短剧演员忘摘道具车牌被查处",
+        "onboard_time": 1768638259,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306586,
+        "num": 761124,
+        "word": "盲目施救致伤亡扩大4人窒息死亡",
+        "onboard_time": 1768641620,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21887,
+        "num": 633561,
+        "word": "我国外贸转向协同发力新格局",
+        "onboard_time": 1768639160,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262444,
+        "num": 262444,
+        "word": "贺娇龙已安葬于昭苏公墓",
+        "onboard_time": 1768640481,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247898,
+        "num": 247898,
+        "word": "两京十五日",
+        "onboard_time": 1768644441,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239227,
+        "num": 239227,
+        "word": "只有实习生点了大杯奶茶",
+        "onboard_time": 1768629139,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206986,
+        "num": 206986,
+        "word": "张艺兴reaction大花轿",
+        "onboard_time": 1768646061,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183949,
+        "num": 183949,
+        "word": "李沁现身春晚首次联排",
+        "onboard_time": 1768641801,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182618,
+        "num": 182618,
+        "word": "交警给出27张全责交通事故图",
+        "onboard_time": 1768639701,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111044,
+        "num": 168125,
+        "word": "蒯曼0比3佐藤瞳",
+        "onboard_time": 1768640960,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 954271,
+        "num": 168125,
+        "word": "487秒删",
+        "onboard_time": 1768629321,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165906,
+        "num": 165906,
+        "word": "快乐老友记",
+        "onboard_time": 1768645340,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157625,
+        "num": 157625,
+        "word": "王俊凯丁程鑫电影首映礼同框",
+        "onboard_time": 1768646181,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153484,
+        "num": 153484,
+        "word": "46岁未婚独居女性离世后",
+        "onboard_time": 1768637541,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147667,
+        "num": 147667,
+        "word": "公司因只涨薪20元致歉员工发声",
+        "onboard_time": 1768644920,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144459,
+        "num": 144459,
+        "word": "檀健次的权谋你就放心吧",
+        "onboard_time": 1768645640,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136954,
+        "num": 136954,
+        "word": "为什么严莉莉总是这个表情",
+        "onboard_time": 1768644800,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128029,
+        "num": 128029,
+        "word": "公积金改革大动作要来了",
+        "onboard_time": 1768613360,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121396,
+        "num": 128007,
+        "word": "新疆31岁舞蹈老师万小艳去世",
+        "onboard_time": 1768636399,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120484,
+        "num": 127386,
+        "word": "吃酸奶一定要备筋膜枪",
+        "onboard_time": 1768636459,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1142371,
+        "num": 127263,
+        "word": "陈雪凝结婚了",
+        "onboard_time": 1768645041,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 608228,
+        "num": 126789,
+        "word": "跑男史上最强女嘉宾",
+        "onboard_time": 1768639160,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35620,
+        "num": 126687,
+        "word": "女儿遭前男友杀害患癌母亲吞药轻生",
+        "onboard_time": 1768646421,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 597519,
+        "num": 126109,
+        "word": "张踩铃 张拿铁父子决裂",
+        "onboard_time": 1768642101,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 239158,
+        "num": 125750,
+        "word": "徐帆给杨紫介绍女儿",
+        "onboard_time": 1768643061,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112081,
+        "num": 125569,
+        "word": "丁程鑫中传映后感言",
+        "onboard_time": 1768645340,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125349,
+        "num": 125349,
+        "word": "外卖已经进化成这样了吗",
+        "onboard_time": 1768643001,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161348,
+        "num": 124806,
+        "word": "王橹杰真人长这样",
+        "onboard_time": 1768633581,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38858,
+        "num": 124182,
+        "word": "入锅是蘑菇出锅变成鲍鱼",
+        "onboard_time": 1768640481,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 34203,
+        "num": 123850,
+        "word": "美对韩企下最后通牒",
+        "onboard_time": 1768640420,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134647,
+        "num": 123040,
+        "word": "吕严 少年的脸红胜过一切言语",
+        "onboard_time": 1768644501,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122954,
+        "num": 122954,
+        "word": "刘宇宁 哎呦喂别怼着我",
+        "onboard_time": 1768645460,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117574,
+        "num": 117574,
+        "word": "每天一个鸡蛋吃进多少营养",
+        "onboard_time": 1768641380,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117106,
+        "num": 117106,
+        "word": "ELLE开年刊内页明星站位",
+        "onboard_time": 1768644920,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 116467,
+        "num": 116467,
+        "word": "乡村蛋糕店4寸卖10元走红",
+        "onboard_time": 1768645880,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101851,
+        "num": 101851,
+        "word": "家中凌晨进贼女子全程装睡",
+        "onboard_time": 1768645941,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97826,
+        "num": 97826,
+        "word": "梁俨苧退出国家队",
+        "onboard_time": 1768641740,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95693,
+        "num": 95693,
+        "word": "还以为考公考研上岸了呢",
+        "onboard_time": 1768643061,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28605,
+        "num": 94459,
+        "word": "董子健听刘昊然发言哭了",
+        "onboard_time": 1768646421,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35039,
+        "num": 94132,
+        "word": "3人怀疑局长有不正当关系跟踪偷拍",
+        "onboard_time": 1768645700,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94020,
+        "num": 94020,
+        "word": "BLG对战AL",
+        "onboard_time": 1768642820,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91742,
+        "num": 91742,
+        "word": "整个村都知道女儿孝顺了",
+        "onboard_time": 1768642519,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91335,
+        "num": 91335,
+        "word": "明道上海的家是租的",
+        "onboard_time": 1768642341,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90624,
+        "num": 90624,
+        "word": "骗小猫洗澡把它骗成陀螺了",
+        "onboard_time": 1768646481,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89801,
+        "num": 89801,
+        "word": "相恋十年情侣因一张报纸吵架",
+        "onboard_time": 1768646361,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84206,
+        "num": 84206,
+        "word": "西红柿涨价背后原因",
+        "onboard_time": 1768645220,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82904,
+        "num": 82904,
+        "word": "免签后老外扎堆来华看病",
+        "onboard_time": 1768635442,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80510,
+        "num": 80510,
+        "word": "丁禹兮春晚联排穿红毛衣背小马包",
+        "onboard_time": 1768646600,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80105,
+        "num": 80105,
+        "word": "东北的流放宁古塔旅游项目",
+        "onboard_time": 1768643301,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 79528,
+        "num": 79528,
+        "word": "孙颖莎送小朋友特别礼物",
+        "onboard_time": 1768644861,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席向世界推介来自中国的机遇清单#"
+    }
+  }
+}
