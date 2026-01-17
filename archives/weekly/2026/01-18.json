@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768689874653,
+  "endTime": 1768692459934,
   "band_list": [
     {
       "raw_hot": 1184745,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 389409,
-      "num": 713618,
+      "num": 769773,
       "word": "涨20元月薪公司已连续37年涨薪",
       "onboard_time": 1768663042,
       "rank": 1,
@@ -137,6 +137,22 @@
       "onboard_time": 1768648160,
       "rank": 14,
       "category": "网红,运动健身"
+    },
+    {
+      "raw_hot": 136827,
+      "num": 91405,
+      "word": "向华强说娱乐圈明星美女他看不上眼",
+      "onboard_time": 1768658602,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 133426,
+      "num": 133426,
+      "word": "特朗普因格陵兰岛向欧洲8国加税",
+      "onboard_time": 1768691418,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 133388,
@@ -235,19 +251,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85992,
+      "num": 574392,
+      "word": "北京为何这次雪花这么大",
+      "onboard_time": 1768691895,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85651,
+      "num": 38002,
+      "word": "后世子孙至今都用着状元奶奶的姓",
+      "onboard_time": 1768692316,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 85365,
       "num": 91435,
       "word": "鞠婧祎发夏天九宫格",
       "onboard_time": 1768654521,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 80847,
-      "num": 91405,
-      "word": "向华强说娱乐圈明星美女他看不上眼",
-      "onboard_time": 1768658602,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -328,6 +352,22 @@
       "word": "小S不参加陈汉典lulu婚礼",
       "onboard_time": 1768666581,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 62305,
+      "num": 37695,
+      "word": "周杰伦47岁了",
+      "onboard_time": 1768692255,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 60337,
+      "num": 51847,
+      "word": "王俊凯依旧手搓蛋糕",
+      "onboard_time": 1768691655,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -419,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49567,
+      "num": 49567,
+      "word": "我的朋友安德烈",
+      "onboard_time": 1768691655,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 48952,
       "num": 91212,
       "word": "第1次见下雪的统一动作",
@@ -459,12 +507,44 @@
       "category": "电影"
     },
     {
+      "raw_hot": 44167,
+      "num": 37468,
+      "word": "老人在公共场合脚穿袜子蹭孩子脸",
+      "onboard_time": 1768691956,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43448,
       "num": 91074,
       "word": "U23国足成本届唯一0丢球球队",
       "onboard_time": 1768668378,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42256,
+      "num": 42256,
+      "word": "你好星期六",
+      "onboard_time": 1768691895,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 41325,
+      "num": 41325,
+      "word": "男子飞机上睡30分钟信用卡现金都没了",
+      "onboard_time": 1768692436,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40998,
+      "num": 40998,
+      "word": "轻中式穿搭出圈了",
+      "onboard_time": 1768692316,
+      "rank": 23,
+      "category": "时尚"
     },
     {
       "raw_hot": 36980,
@@ -475,12 +555,52 @@
       "category": "电影"
     },
     {
+      "raw_hot": 36431,
+      "num": 36431,
+      "word": "白鹿李昀锐田曦薇宋威龙 春晚合唱",
+      "onboard_time": 1768691655,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 33681,
+      "num": 33085,
+      "word": "刘宇宁马年春晚带妆联排",
+      "onboard_time": 1768692316,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32776,
       "num": 71456,
       "word": "小城大事",
       "onboard_time": 1768650741,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32658,
+      "num": 33325,
+      "word": "李嘉琦李雪琴你俩咋这么瘦了",
+      "onboard_time": 1768650082,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 30137,
+      "num": 33023,
+      "word": "朱志鑫分享一下耳机里的歌",
+      "onboard_time": 1768691895,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 28831,
+      "num": 33185,
+      "word": "恋与深空",
+      "onboard_time": 1768692255,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 28110,
@@ -515,7 +635,7 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 17434,
+      "raw_hot": 19118,
       "num": 44606,
       "word": "WTT多哈球星挑战赛",
       "onboard_time": 1768663220,
@@ -545,6 +665,14 @@
       "onboard_time": 1768671736,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15109,
+      "num": 450947,
+      "word": "冰雪热力中的中国经济新脉动",
+      "onboard_time": 1768655001,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14908,
@@ -577,14 +705,6 @@
       "onboard_time": 1768655001,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 11330,
-      "num": 281787,
-      "word": "冰雪热力中的中国经济新脉动",
-      "onboard_time": 1768655001,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
