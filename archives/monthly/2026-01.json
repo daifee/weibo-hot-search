@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768670703870,
+  "endTime": 1768671713883,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -41227,6 +41227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86978,
+      "num": 86978,
+      "word": "檀健次再多一秒就要落泪了",
+      "onboard_time": 1768668440,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86973,
       "num": 205165,
       "word": "苏新皓在环球影城跳女团舞",
@@ -44585,14 +44593,6 @@
       "onboard_time": 1767230121,
       "rank": 25,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 78411,
-      "num": 78411,
-      "word": "檀健次再多一秒就要落泪了",
-      "onboard_time": 1768668440,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 78320,
@@ -48627,6 +48627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 62674,
+      "num": 72167,
+      "word": "肖稚宇胡羞在一起了",
+      "onboard_time": 1768667659,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 62660,
       "num": 126257,
       "word": "一位普通北京市民的2025年消费记录",
@@ -48721,14 +48729,6 @@
       "onboard_time": 1767249921,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 62181,
-      "num": 72167,
-      "word": "肖稚宇胡羞在一起了",
-      "onboard_time": 1768667659,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 62160,
@@ -49979,6 +49979,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 55378,
+      "num": 71964,
+      "word": "肖战为新剧主动减重18斤",
+      "onboard_time": 1768668919,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55373,
       "num": 55373,
       "word": "23岁破世界纪录91岁还在游泳",
@@ -50201,6 +50209,14 @@
       "onboard_time": 1767374838,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 53501,
+      "num": 71665,
+      "word": "李宇春把观众堆成雪人",
+      "onboard_time": 1768670297,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 53469,
@@ -50873,14 +50889,6 @@
       "onboard_time": 1767322400,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49191,
-      "num": 71964,
-      "word": "肖战为新剧主动减重18斤",
-      "onboard_time": 1768668919,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 49170,
@@ -53027,6 +53035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36980,
+      "num": 67467,
+      "word": "王俊凯说看安德烈很感动",
+      "onboard_time": 1768670717,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 36966,
       "num": 118997,
       "word": "中国游客减少赴日韩国享受反射收益",
@@ -53313,14 +53329,6 @@
       "onboard_time": 1768001598,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35319,
-      "num": 71665,
-      "word": "李宇春把观众堆成雪人",
-      "onboard_time": 1768670297,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 35255,
@@ -54657,6 +54665,14 @@
       "onboard_time": 1768237636,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28110,
+      "num": 67456,
+      "word": "吴克群被戴佩妮锁喉",
+      "onboard_time": 1768670177,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 28097,
