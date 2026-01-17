@@ -1,0 +1,411 @@
+{
+  "startTime": 1768667567906,
+  "endTime": 1768667567906,
+  "band_list": [
+    {
+      "raw_hot": 1053762,
+      "num": 106191,
+      "word": "棣欣引力",
+      "onboard_time": 1768654162,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 466145,
+      "num": 104964,
+      "word": "汪海林曝保剑锋未接女友电话被捅伤",
+      "onboard_time": 1768662143,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 447762,
+      "num": 447762,
+      "word": "男孩凌晨5点起床写作业突然晕倒",
+      "onboard_time": 1768664660,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 437829,
+      "num": 821163,
+      "word": "春晚",
+      "onboard_time": 1768651641,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 428501,
+      "num": 158045,
+      "word": "曝丈夫出轨女子已连续道歉6天",
+      "onboard_time": 1768656982,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 389409,
+      "num": 577588,
+      "word": "涨20元月薪公司已连续37年涨薪",
+      "onboard_time": 1768663042,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 377077,
+      "num": 377077,
+      "word": "王鹤棣演唱会给我香迷糊了",
+      "onboard_time": 1768661842,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 364411,
+      "num": 155900,
+      "word": "王鹤棣演唱会",
+      "onboard_time": 1768652240,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 307277,
+      "num": 307277,
+      "word": "卸妆油洗头",
+      "onboard_time": 1768660882,
+      "rank": 5,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 294341,
+      "num": 294341,
+      "word": "U23国足首进亚洲杯4强",
+      "onboard_time": 1768659743,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 248157,
+      "num": 248157,
+      "word": "杨幂鹿晗我是证人登顶",
+      "onboard_time": 1768660882,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 192393,
+      "num": 192393,
+      "word": "董路的含金量还在上升",
+      "onboard_time": 1768662441,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 188410,
+      "num": 151363,
+      "word": "李昊全场8次扑救",
+      "onboard_time": 1768657163,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 179348,
+      "num": 144601,
+      "word": "道歉变处刑道德正义不等于合法判断",
+      "onboard_time": 1768661901,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161661,
+      "num": 161661,
+      "word": "男子从喉咙痛到进ICU只用1小时",
+      "onboard_time": 1768654460,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142738,
+      "num": 142738,
+      "word": "帕梅拉胖了6公斤",
+      "onboard_time": 1768648160,
+      "rank": 14,
+      "category": "网红,运动健身"
+    },
+    {
+      "raw_hot": 133388,
+      "num": 133388,
+      "word": "487秒删",
+      "onboard_time": 1768629321,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 128900,
+      "num": 128900,
+      "word": "家中凌晨进贼女子全程装睡",
+      "onboard_time": 1768645941,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121012,
+      "num": 121012,
+      "word": "轧戏",
+      "onboard_time": 1768649841,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 118455,
+      "num": 102780,
+      "word": "体检报告里这些字眼或是癌症信号",
+      "onboard_time": 1768664540,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 117863,
+      "num": 117863,
+      "word": "受害人轻信买坦克准备打仗被骗42万",
+      "onboard_time": 1768663342,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110695,
+      "num": 99655,
+      "word": "李昊真牛",
+      "onboard_time": 1768664301,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 107639,
+      "num": 107639,
+      "word": "在韩国处理尸体很难的原因",
+      "onboard_time": 1768649181,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 98601,
+      "num": 98601,
+      "word": "宋威龙下雪了",
+      "onboard_time": 1768655181,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 95146,
+      "num": 79991,
+      "word": "男子家中容留2女卖淫被判刑",
+      "onboard_time": 1768665441,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95084,
+      "num": 95084,
+      "word": "蛇缠腰取一片新鲜的仙人掌",
+      "onboard_time": 1768649424,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 90608,
+      "num": 90608,
+      "word": "结婚20年丈夫连个碗都没洗过",
+      "onboard_time": 1768665501,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85365,
+      "num": 85365,
+      "word": "鞠婧祎发夏天九宫格",
+      "onboard_time": 1768654521,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 80847,
+      "num": 80847,
+      "word": "向华强说娱乐圈明星美女他看不上眼",
+      "onboard_time": 1768658602,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 80108,
+      "num": 80108,
+      "word": "榜一大哥王楚钦",
+      "onboard_time": 1768648881,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 71695,
+      "num": 79976,
+      "word": "本轮寒潮与08年冰灾范围相似",
+      "onboard_time": 1768660584,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70784,
+      "num": 79752,
+      "word": "强奸幼女被判8年医生父亲是检察官",
+      "onboard_time": 1768655361,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67939,
+      "num": 79653,
+      "word": "这谁分得清在巴黎还是上海啊",
+      "onboard_time": 1768664601,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 66280,
+      "num": 79507,
+      "word": "U23男足半决赛vs越南队",
+      "onboard_time": 1768665141,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 66171,
+      "num": 79443,
+      "word": "白鹿拍的雪",
+      "onboard_time": 1768659923,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 62641,
+      "num": 79291,
+      "word": "我是证人",
+      "onboard_time": 1768652782,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 60468,
+      "num": 79029,
+      "word": "小S不参加陈汉典lulu婚礼",
+      "onboard_time": 1768666581,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 59327,
+      "num": 78880,
+      "word": "宋威龙这完全报备视频",
+      "onboard_time": 1768664241,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 57409,
+      "num": 79182,
+      "word": "米兰男装周",
+      "onboard_time": 1768665261,
+      "rank": 37,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 57230,
+      "num": 78834,
+      "word": "下雪天长城人人人人人人",
+      "onboard_time": 1768661062,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54737,
+      "num": 78611,
+      "word": "7岁男孩误用燃料吃药后爸爸心碎了",
+      "onboard_time": 1768645220,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54162,
+      "num": 78575,
+      "word": "阿维塔回应南宁15车连撞事故",
+      "onboard_time": 1768663163,
+      "rank": 42,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 54161,
+      "num": 78387,
+      "word": "马龙的礼物藏着职业荣耀",
+      "onboard_time": 1768665320,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 52668,
+      "num": 78213,
+      "word": "李宇春演唱会发糖",
+      "onboard_time": 1768667301,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 51639,
+      "num": 78166,
+      "word": "许嵩空降超话",
+      "onboard_time": 1768661362,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 51601,
+      "num": 77942,
+      "word": "快乐老友记",
+      "onboard_time": 1768645340,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 50605,
+      "num": 456757,
+      "word": "14亿多人用电自由是怎么做到的",
+      "onboard_time": 1768655361,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49645,
+      "num": 78003,
+      "word": "贺娇龙母亲说让她静静地离开吧",
+      "onboard_time": 1768655481,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48332,
+      "num": 77714,
+      "word": "如果轧戏边拍边播",
+      "onboard_time": 1768660103,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 47004,
+      "num": 77687,
+      "word": "第1次见下雪的统一动作",
+      "onboard_time": 1768655001,
+      "rank": 49,
+      "category": "民生新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#总书记文章为建设现代化人民城市划重点#"
+    }
+  ]
+}
