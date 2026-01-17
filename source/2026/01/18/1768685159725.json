@@ -1,0 +1,410 @@
+{
+  "runTime": 1768685159725,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 42895,
+        "num": 132297,
+        "word": "涨20元月薪公司已连续37年涨薪",
+        "onboard_time": 1768663042,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38794,
+        "num": 94742,
+        "word": "轧戏",
+        "onboard_time": 1768649841,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8124,
+        "num": 74712,
+        "word": "冰雪热力中的中国经济新脉动",
+        "onboard_time": 1768655001,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103557,
+        "num": 69627,
+        "word": "男孩凌晨5点起床写作业突然晕倒",
+        "onboard_time": 1768664660,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39921,
+        "num": 39921,
+        "word": "米兰男装周",
+        "onboard_time": 1768665261,
+        "rank": 4,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 36217,
+        "num": 36217,
+        "word": "王鹤棣演唱会",
+        "onboard_time": 1768652240,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27543,
+        "num": 27543,
+        "word": "U23国足首进亚洲杯4强",
+        "onboard_time": 1768659743,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23256,
+        "num": 23256,
+        "word": "卸妆油洗头",
+        "onboard_time": 1768660882,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 22584,
+        "num": 22584,
+        "word": "家中凌晨进贼女子全程装睡",
+        "onboard_time": 1768645941,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22111,
+        "num": 22111,
+        "word": "男子从喉咙痛到进ICU只用1小时",
+        "onboard_time": 1768654460,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48819,
+        "num": 22047,
+        "word": "曝丈夫出轨女子已连续道歉6天",
+        "onboard_time": 1768656982,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33307,
+        "num": 21885,
+        "word": "道歉变处刑道德正义不等于合法判断",
+        "onboard_time": 1768661901,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26595,
+        "num": 21644,
+        "word": "在韩国处理尸体很难的原因",
+        "onboard_time": 1768649181,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 26015,
+        "num": 21430,
+        "word": "487秒删",
+        "onboard_time": 1768629321,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24228,
+        "num": 21199,
+        "word": "结婚20年丈夫连个碗都没洗过",
+        "onboard_time": 1768665501,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21074,
+        "num": 21074,
+        "word": "帕梅拉胖了6公斤",
+        "onboard_time": 1768648160,
+        "rank": 15,
+        "category": "网红,运动健身"
+      },
+      {
+        "raw_hot": 20707,
+        "num": 20707,
+        "word": "春晚",
+        "onboard_time": 1768651641,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18529,
+        "num": 20592,
+        "word": "王鹤棣演唱会给我香迷糊了",
+        "onboard_time": 1768661842,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17722,
+        "num": 20503,
+        "word": "杨幂鹿晗我是证人登顶",
+        "onboard_time": 1768660882,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16791,
+        "num": 20399,
+        "word": "鞠婧祎发夏天九宫格",
+        "onboard_time": 1768654521,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88367,
+        "num": 20308,
+        "word": "棣欣引力",
+        "onboard_time": 1768654162,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71720,
+        "num": 20159,
+        "word": "汪海林曝保剑锋未接女友电话被捅伤",
+        "onboard_time": 1768662143,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27976,
+        "num": 20008,
+        "word": "男子家中容留2女卖淫被判刑",
+        "onboard_time": 1768665441,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19974,
+        "num": 19974,
+        "word": "本轮寒潮与08年冰灾范围相似",
+        "onboard_time": 1768660584,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19569,
+        "num": 19569,
+        "word": "强奸幼女被判8年医生父亲是检察官",
+        "onboard_time": 1768655361,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18310,
+        "num": 19568,
+        "word": "向华强说娱乐圈明星美女他看不上眼",
+        "onboard_time": 1768658602,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18268,
+        "num": 19563,
+        "word": "蛇缠腰取一片新鲜的仙人掌",
+        "onboard_time": 1768649424,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16251,
+        "num": 19556,
+        "word": "体检报告里这些字眼或是癌症信号",
+        "onboard_time": 1768664540,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 14826,
+        "num": 19546,
+        "word": "李宇春演唱会发糖",
+        "onboard_time": 1768667301,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14654,
+        "num": 19545,
+        "word": "小S不参加陈汉典lulu婚礼",
+        "onboard_time": 1768666581,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14803,
+        "num": 19538,
+        "word": "小城大事",
+        "onboard_time": 1768650741,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14196,
+        "num": 19531,
+        "word": "我是证人",
+        "onboard_time": 1768652782,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14047,
+        "num": 19527,
+        "word": "榜一大哥王楚钦",
+        "onboard_time": 1768648881,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13991,
+        "num": 19520,
+        "word": "檀健次再多一秒就要落泪了",
+        "onboard_time": 1768668440,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13807,
+        "num": 19515,
+        "word": "U23亚洲杯",
+        "onboard_time": 1768655542,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13171,
+        "num": 19512,
+        "word": "李昊全场8次扑救",
+        "onboard_time": 1768657163,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13041,
+        "num": 19501,
+        "word": "时光大赏",
+        "onboard_time": 1768670057,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12427,
+        "num": 19496,
+        "word": "肖战为新剧主动减重18斤",
+        "onboard_time": 1768668919,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11959,
+        "num": 19492,
+        "word": "第1次见下雪的统一动作",
+        "onboard_time": 1768655001,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11944,
+        "num": 19485,
+        "word": "董路的含金量还在上升",
+        "onboard_time": 1768662441,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11867,
+        "num": 19477,
+        "word": "白鹿拍的雪",
+        "onboard_time": 1768659923,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11740,
+        "num": 19477,
+        "word": "星品",
+        "onboard_time": 1768674617,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 11650,
+        "num": 19466,
+        "word": "WTT多哈球星挑战赛",
+        "onboard_time": 1768663220,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11641,
+        "num": 19461,
+        "word": "下雪了林屿森",
+        "onboard_time": 1768673175,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11332,
+        "num": 19457,
+        "word": "U23男足半决赛vs越南队",
+        "onboard_time": 1768665141,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10957,
+        "num": 19454,
+        "word": "李宇春南京演唱会",
+        "onboard_time": 1768655001,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 10517,
+        "num": 19443,
+        "word": "肖稚宇胡羞在一起了",
+        "onboard_time": 1768667659,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10132,
+        "num": 19440,
+        "word": "李昊真牛",
+        "onboard_time": 1768664301,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9714,
+        "num": 19431,
+        "word": "u23国足vs乌兹别克斯坦u23首发",
+        "onboard_time": 1768671736,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9511,
+        "num": 19427,
+        "word": "A股上市公司密集公告业绩预增",
+        "onboard_time": 1768674316,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记文章为建设现代化人民城市划重点#"
+    }
+  }
+}

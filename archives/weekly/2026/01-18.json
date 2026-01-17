@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768682637461,
+  "endTime": 1768685159725,
   "band_list": [
     {
       "raw_hot": 1184745,
@@ -569,6 +569,14 @@
       "onboard_time": 1768655001,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10957,
+      "num": 19454,
+      "word": "李宇春南京演唱会",
+      "onboard_time": 1768655001,
+      "rank": 45,
+      "category": "演出"
     }
   ],
   "hotgov_list": [

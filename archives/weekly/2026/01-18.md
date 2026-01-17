@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/18 00:32:47 ~ 2026/01/18 04:43:57
+本榜单时间：2026/01/18 00:32:47 ~ 2026/01/18 05:25:59
 </p>
 </blockquote>
 <p>
@@ -437,6 +437,12 @@ U23亚洲杯（热度：14908）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%B0%E9%9B%AA%E7%83%AD%E5%8A%9B%E4%B8%AD%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E8%84%89%E5%8A%A8%23" target="weibo">
 冰雪热力中的中国经济新脉动（热度：11330）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E5%8D%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+李宇春南京演唱会（热度：10957）
 </a>
 </li>
 
