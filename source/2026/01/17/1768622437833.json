@@ -1,0 +1,410 @@
+{
+  "runTime": 1768622437833,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 675054,
+        "num": 1108008,
+        "word": "公积金改革大动作要来了",
+        "onboard_time": 1768613360,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 532975,
+        "num": 821476,
+        "word": "2026央视春晚首次联排",
+        "onboard_time": 1768618100,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50072,
+        "num": 618719,
+        "word": "务工人员春运可预约购票",
+        "onboard_time": 1768617860,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 400438,
+        "num": 400438,
+        "word": "ALin哭着说对不起",
+        "onboard_time": 1768619958,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392842,
+        "num": 392842,
+        "word": "装死小羊身价30万主人仍不卖",
+        "onboard_time": 1768616360,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226573,
+        "num": 226573,
+        "word": "狼王格林现状",
+        "onboard_time": 1768610240,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139755,
+        "num": 226344,
+        "word": "嫣然天使儿童医院十年旧床仍在使用",
+        "onboard_time": 1768620080,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131514,
+        "num": 225875,
+        "word": "宁夏装死小羊身价飙升至30万元",
+        "onboard_time": 1768614679,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118916,
+        "num": 225581,
+        "word": "美国还欠2.6亿美元会费",
+        "onboard_time": 1768618100,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100224,
+        "num": 225106,
+        "word": "稀土不是一种土",
+        "onboard_time": 1768615579,
+        "rank": 9,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 422252,
+        "num": 224866,
+        "word": "李亚鹏已筹金额超千万元",
+        "onboard_time": 1768621578,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230461,
+        "num": 224649,
+        "word": "女子买二手卡宴被隐瞒伤亡事故4年",
+        "onboard_time": 1768617200,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224315,
+        "num": 224315,
+        "word": "王玉雯回复张新成发给你妈妈了",
+        "onboard_time": 1768615999,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222326,
+        "num": 222326,
+        "word": "宋威龙春晚带妆联排",
+        "onboard_time": 1768620380,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182043,
+        "num": 182043,
+        "word": "全职主妇屡遭丈夫责骂吞30片安眠药",
+        "onboard_time": 1768620199,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159176,
+        "num": 159176,
+        "word": "白鹿春晚联排",
+        "onboard_time": 1768617439,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146485,
+        "num": 146485,
+        "word": "鹿哈曾自曝带货7个月赚3500万",
+        "onboard_time": 1768614379,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 131749,
+        "num": 131749,
+        "word": "为什么戴了智能手表反而睡不好",
+        "onboard_time": 1768611861,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 97679,
+        "num": 130979,
+        "word": "世卫提醒美国别忘还清欠费",
+        "onboard_time": 1768621999,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97416,
+        "num": 130713,
+        "word": "大陆词语成台独网军霸凌借口",
+        "onboard_time": 1768621822,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 227649,
+        "num": 129228,
+        "word": "金价波动",
+        "onboard_time": 1768616299,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 190070,
+        "num": 128854,
+        "word": "王玉雯掉马",
+        "onboard_time": 1768575441,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144980,
+        "num": 127256,
+        "word": "马年春晚",
+        "onboard_time": 1768621519,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93753,
+        "num": 126312,
+        "word": "iPhone面容ID不止能开锁屏",
+        "onboard_time": 1768620679,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88537,
+        "num": 125305,
+        "word": "实践三十二号卫星发射失利",
+        "onboard_time": 1768618280,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 125233,
+        "num": 125233,
+        "word": "杨瀚森G联赛比赛直播",
+        "onboard_time": 1768621879,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110234,
+        "num": 110234,
+        "word": "单依纯被艾特最多的一次",
+        "onboard_time": 1768621460,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108204,
+        "num": 108204,
+        "word": "刘宇宁马年央视春晚首次联排",
+        "onboard_time": 1768620980,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104077,
+        "num": 107814,
+        "word": "陪弟弟割双眼皮结果自己先割上了",
+        "onboard_time": 1768573224,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107529,
+        "num": 107529,
+        "word": "魏大勋新路透是你吗孟宴臣",
+        "onboard_time": 1768620022,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104479,
+        "num": 104479,
+        "word": "你是周翊然那他是谁",
+        "onboard_time": 1768619360,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86807,
+        "num": 96012,
+        "word": "择天记3D版定档",
+        "onboard_time": 1768619419,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 90770,
+        "num": 90770,
+        "word": "辛芷蕾说网友评价几乎每条都看",
+        "onboard_time": 1768621641,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90584,
+        "num": 90584,
+        "word": "42岁演员回应无戏可拍送外卖糊口",
+        "onboard_time": 1768618640,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82146,
+        "num": 82146,
+        "word": "马斯克称AI或能几分钟生成GTA6",
+        "onboard_time": 1768620620,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 87495,
+        "num": 81833,
+        "word": "何炅 夜深了歌手们都有一些变化",
+        "onboard_time": 1768618519,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80686,
+        "num": 80686,
+        "word": "肖战小城良方买烤红薯路透",
+        "onboard_time": 1768621939,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80271,
+        "num": 80271,
+        "word": "你弄个这么大的吊牌我怎么穿上飞机",
+        "onboard_time": 1768605616,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79639,
+        "num": 79639,
+        "word": "加方不再对中国电车加征100%附加税",
+        "onboard_time": 1768621399,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78558,
+        "num": 78558,
+        "word": "大爷被热水袋烫伤自行治疗致截肢",
+        "onboard_time": 1768620199,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77064,
+        "num": 77064,
+        "word": "男演员被欠薪后送外卖",
+        "onboard_time": 1768612880,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75764,
+        "num": 75764,
+        "word": "小猫刚被救下来就被请家长",
+        "onboard_time": 1768620139,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72864,
+        "num": 72864,
+        "word": "微博之夜",
+        "onboard_time": 1768611141,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 72517,
+        "num": 72517,
+        "word": "沈月演技 绽放的生命力",
+        "onboard_time": 1768622180,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70970,
+        "num": 70970,
+        "word": "北京下雪",
+        "onboard_time": 1768610780,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70906,
+        "num": 70906,
+        "word": "晴儿不愧是甄嬛带大的",
+        "onboard_time": 1768604896,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70728,
+        "num": 70728,
+        "word": "祯娘传",
+        "onboard_time": 1768622359,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67299,
+        "num": 67299,
+        "word": "大额存单利率开年下降",
+        "onboard_time": 1768619661,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 69849,
+        "num": 67270,
+        "word": "汪苏泷 后悔来了",
+        "onboard_time": 1768617020,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64223,
+        "num": 64223,
+        "word": "周杰伦真爱粉开始各显神通",
+        "onboard_time": 1768622359,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席向世界推介来自中国的机遇清单#"
+    }
+  }
+}
