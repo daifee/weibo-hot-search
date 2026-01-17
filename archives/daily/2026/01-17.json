@@ -1,6 +1,6 @@
 {
   "startTime": 1768581578200,
-  "endTime": 1768642937715,
+  "endTime": 1768645762600,
   "band_list": [
     {
       "raw_hot": 7482738,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 729455,
+      "num": 1110388,
+      "word": "跑男史上最强女嘉宾",
+      "onboard_time": 1768639160,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 693703,
       "num": 172266,
       "word": "李佳琦回应胖了",
@@ -43,20 +51,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 689927,
-      "num": 1110388,
-      "word": "跑男史上最强女嘉宾",
-      "onboard_time": 1768639160,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 664971,
       "num": 664971,
       "word": "狼队487断开连接",
       "onboard_time": 1768625119,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 638792,
+      "num": 116615,
+      "word": "张踩铃 张拿铁父子决裂",
+      "onboard_time": 1768642101,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 582316,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 438834,
-      "num": 818396,
+      "num": 1069190,
       "word": "短剧演员忘摘道具车牌被查处",
       "onboard_time": 1768638259,
       "rank": 30,
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 354737,
-      "num": 354737,
+      "num": 790521,
       "word": "贺娇龙已安葬于昭苏公墓",
       "onboard_time": 1768640481,
       "rank": 4,
@@ -249,6 +257,14 @@
       "onboard_time": 1768638081,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 324999,
+      "num": 115927,
+      "word": "陈雪凝结婚了",
+      "onboard_time": 1768645041,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 322673,
@@ -267,11 +283,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 305915,
+      "num": 305915,
+      "word": "盲目施救致伤亡扩大4人窒息死亡",
+      "onboard_time": 1768641620,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 293190,
       "num": 199022,
       "word": "杨幂被工作人员提醒少吃点",
       "onboard_time": 1768628060,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 288932,
+      "num": 114921,
+      "word": "徐帆给杨紫介绍女儿",
+      "onboard_time": 1768643061,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -379,14 +411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 244007,
-      "num": 107109,
-      "word": "张踩铃 张拿铁父子决裂",
-      "onboard_time": 1768642101,
-      "rank": 34,
-      "category": "网红"
-    },
-    {
       "raw_hot": 240702,
       "num": 165419,
       "word": "微博之夜",
@@ -401,6 +425,14 @@
       "onboard_time": 1768636459,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 236683,
+      "num": 236683,
+      "word": "两京十五日",
+      "onboard_time": 1768644441,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 232748,
@@ -499,12 +531,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202642,
+      "num": 202642,
+      "word": "李沁现身春晚首次联排",
+      "onboard_time": 1768641801,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200852,
       "num": 159176,
       "word": "白鹿春晚联排",
       "onboard_time": 1768617439,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197253,
+      "num": 197253,
+      "word": "交警给出27张全责交通事故图",
+      "onboard_time": 1768639701,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196978,
@@ -529,6 +577,14 @@
       "onboard_time": 1768628659,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193450,
+      "num": 193450,
+      "word": "快乐老友记",
+      "onboard_time": 1768645340,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 192715,
@@ -803,14 +859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149509,
-      "num": 149509,
-      "word": "李沁现身春晚首次联排",
-      "onboard_time": 1768641801,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 147011,
       "num": 112027,
       "word": "女子为生儿子拿命拼二胎再产一女",
@@ -825,6 +873,14 @@
       "onboard_time": 1768604836,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 145493,
+      "num": 113383,
+      "word": "吕严 少年的脸红胜过一切言语",
+      "onboard_time": 1768644501,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 145341,
@@ -860,7 +916,7 @@
     },
     {
       "raw_hot": 141486,
-      "num": 111307,
+      "num": 113028,
       "word": "入锅是蘑菇出锅变成鲍鱼",
       "onboard_time": 1768640481,
       "rank": 20,
@@ -883,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140159,
+      "num": 115440,
+      "word": "外卖已经进化成这样了吗",
+      "onboard_time": 1768643001,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139818,
       "num": 139818,
       "word": "一找工作全是研究生",
@@ -892,7 +956,7 @@
     },
     {
       "raw_hot": 137114,
-      "num": 106122,
+      "num": 113722,
       "word": "每天一个鸡蛋吃进多少营养",
       "onboard_time": 1768641380,
       "rank": 25,
@@ -1019,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127459,
+      "num": 112582,
+      "word": "ELLE开年刊内页明星站位",
+      "onboard_time": 1768644920,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 126933,
       "num": 138289,
       "word": "长征三号乙发射失利视频",
@@ -1049,14 +1121,6 @@
       "onboard_time": 1768624159,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 123187,
-      "num": 123187,
-      "word": "盲目施救致伤亡扩大4人窒息死亡",
-      "onboard_time": 1768641620,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122972,
@@ -1116,7 +1180,7 @@
     },
     {
       "raw_hot": 121117,
-      "num": 88660,
+      "num": 95403,
       "word": "整个村都知道女儿孝顺了",
       "onboard_time": 1768642519,
       "rank": 31,
@@ -1160,6 +1224,14 @@
       "word": "王俊凯去看了董子健刘昊然新片",
       "onboard_time": 1768635199,
       "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 118339,
+      "num": 118339,
+      "word": "丁程鑫中传映后感言",
+      "onboard_time": 1768645340,
+      "rank": 16,
       "category": "电影"
     },
     {
@@ -1227,12 +1299,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113458,
-      "num": 113458,
-      "word": "交警给出27张全责交通事故图",
-      "onboard_time": 1768639701,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 112282,
+      "num": 112282,
+      "word": "王鹤棣 黄子韬又想老婆了",
+      "onboard_time": 1768644680,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 111067,
@@ -1307,6 +1379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108021,
+      "num": 105817,
+      "word": "明道上海的家是租的",
+      "onboard_time": 1768642341,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106339,
       "num": 97723,
       "word": "藏了12年的糖被妹妹发现了",
@@ -1320,14 +1400,6 @@
       "word": "李一桐 往那一站美成这样了",
       "onboard_time": 1768624999,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 105817,
-      "num": 105817,
-      "word": "明道上海的家是租的",
-      "onboard_time": 1768642341,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -1385,6 +1457,14 @@
       "onboard_time": 1768630880,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 102311,
+      "num": 95647,
+      "word": "为什么严莉莉总是这个表情",
+      "onboard_time": 1768644800,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 101977,
@@ -1499,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97724,
+      "num": 97724,
+      "word": "梁俨苧退出国家队",
+      "onboard_time": 1768641740,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97679,
       "num": 130979,
       "word": "世卫提醒美国别忘还清欠费",
@@ -1531,12 +1619,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 96061,
+      "num": 95415,
+      "word": "檀健次的权谋你就放心吧",
+      "onboard_time": 1768645640,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96052,
       "num": 136962,
       "word": "丁程鑫跳我是李飞的表情",
       "onboard_time": 1768631241,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95656,
+      "num": 95656,
+      "word": "BLG对战AL",
+      "onboard_time": 1768642820,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 95059,
@@ -1577,6 +1681,14 @@
       "onboard_time": 1768630880,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91830,
+      "num": 91830,
+      "word": "EB嗜血综合症",
+      "onboard_time": 1768643061,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91819,
@@ -1691,6 +1803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 88289,
+      "num": 88289,
+      "word": "刘宇宁 哎呦喂别怼着我",
+      "onboard_time": 1768645460,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88009,
       "num": 96012,
       "word": "择天记3D版定档",
@@ -1720,6 +1840,14 @@
       "word": "毕雯珺首参加央视春晚联排",
       "onboard_time": 1768624580,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 87224,
+      "num": 87224,
+      "word": "王铮亮快乐老友记路透",
+      "onboard_time": 1768644680,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -1753,6 +1881,14 @@
       "onboard_time": 1768608139,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 86292,
+      "num": 86292,
+      "word": "还以为考公考研上岸了呢",
+      "onboard_time": 1768643061,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 86172,
@@ -1817,6 +1953,14 @@
       "onboard_time": 1768630039,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 84493,
+      "num": 117927,
+      "word": "孙颖莎送小朋友特别礼物",
+      "onboard_time": 1768644861,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 84143,
@@ -1931,8 +2075,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 79920,
+      "num": 95506,
+      "word": "7岁男孩误用燃料吃药后爸爸心碎了",
+      "onboard_time": 1768645220,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79850,
-      "num": 91001,
+      "num": 112648,
       "word": "美对韩企下最后通牒",
       "onboard_time": 1768640420,
       "rank": 29,
@@ -1953,6 +2105,14 @@
       "onboard_time": 1768633222,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79026,
+      "num": 79026,
+      "word": "女子借4万给同行惨遭花坛藏尸",
+      "onboard_time": 1768644021,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78558,
@@ -1977,6 +2137,14 @@
       "onboard_time": 1768611200,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 76578,
+      "num": 76578,
+      "word": "这届年轻人领上真鸡蛋了",
+      "onboard_time": 1768645640,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 76257,
@@ -2371,6 +2539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 56886,
+      "num": 117324,
+      "word": "公司因只涨薪20元致歉员工发声",
+      "onboard_time": 1768644920,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56696,
       "num": 111980,
       "word": "6岁女童发烧17天脑子险被吃掉",
@@ -2475,6 +2651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51512,
+      "num": 95595,
+      "word": "5岁脑瘫男童做康复腿被掰骨折",
+      "onboard_time": 1768645280,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51485,
       "num": 111946,
       "word": "电影爆水管",
@@ -2569,6 +2753,14 @@
       "onboard_time": 1768576763,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 42221,
+      "num": 117112,
+      "word": "西红柿涨价背后原因",
+      "onboard_time": 1768645220,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38431,
@@ -2755,14 +2947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24138,
-      "num": 84540,
-      "word": "BLG对战AL",
-      "onboard_time": 1768642820,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 21373,
       "num": 87512,
       "word": "撞亡祖孙肇事司机判赔200余万",
@@ -2873,6 +3057,14 @@
       "onboard_time": 1768571482,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 12291,
+      "num": 95476,
+      "word": "3人怀疑局长有不正当关系跟踪偷拍",
+      "onboard_time": 1768645700,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9523,

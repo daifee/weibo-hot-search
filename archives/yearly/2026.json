@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768642937715,
+  "endTime": 1768645762600,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -2019,6 +2019,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 729455,
+      "num": 1110388,
+      "word": "跑男史上最强女嘉宾",
+      "onboard_time": 1768639160,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 728925,
       "num": 866031,
       "word": "钟薛高创始人宣布终审胜诉",
@@ -2225,14 +2233,6 @@
       "onboard_time": 1768633102,
       "rank": 20,
       "category": "网红"
-    },
-    {
-      "raw_hot": 689927,
-      "num": 1110388,
-      "word": "跑男史上最强女嘉宾",
-      "onboard_time": 1768639160,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 689093,
