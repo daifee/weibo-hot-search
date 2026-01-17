@@ -1,6 +1,6 @@
 {
   "startTime": 1768581578200,
-  "endTime": 1768624862875,
+  "endTime": 1768625583790,
   "band_list": [
     {
       "raw_hot": 994109,
@@ -25,6 +25,14 @@
       "onboard_time": 1768580059,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 546792,
+      "num": 546792,
+      "word": "狼队487断开连接",
+      "onboard_time": 1768625119,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 546076,
@@ -107,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 322673,
+      "num": 215342,
+      "word": "女子吞药后被救丈夫称你就不容易死",
+      "onboard_time": 1768623261,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 288860,
       "num": 221129,
       "word": "iPhone面容ID不止能开锁屏",
@@ -147,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270528,
+      "num": 270528,
+      "word": "大陆词语成台独网军霸凌借口",
+      "onboard_time": 1768621822,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 265395,
       "num": 265395,
       "word": "专家回应装死小羊为什么会装死",
@@ -161,14 +185,6 @@
       "onboard_time": 1768623740,
       "rank": 5,
       "category": "演出"
-    },
-    {
-      "raw_hot": 258172,
-      "num": 215342,
-      "word": "女子吞药后被救丈夫称你就不容易死",
-      "onboard_time": 1768623261,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 256246,
@@ -211,20 +227,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 231943,
-      "num": 231943,
-      "word": "大陆词语成台独网军霸凌借口",
-      "onboard_time": 1768621822,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 230461,
       "num": 224649,
       "word": "女子买二手卡宴被隐瞒伤亡事故4年",
       "onboard_time": 1768617200,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227254,
+      "num": 193051,
+      "word": "现身春晚联排的明星",
+      "onboard_time": 1768623622,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 212250,
@@ -243,12 +259,36 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 207132,
+      "num": 163420,
+      "word": "黄晓明自曝没打过小海绵",
+      "onboard_time": 1768624220,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206460,
       "num": 159970,
       "word": "男演员被欠薪后送外卖",
       "onboard_time": 1768612880,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201297,
+      "num": 224869,
+      "word": "老一辈迎来了最严厉的老师",
+      "onboard_time": 1768624640,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 200988,
+      "num": 154176,
+      "word": "女子吞药轻生苏醒后被丈夫戳脑门",
+      "onboard_time": 1768623920,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200852,
@@ -275,12 +315,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 193051,
-      "num": 193051,
-      "word": "现身春晚联排的明星",
-      "onboard_time": 1768623622,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 192715,
+      "num": 158732,
+      "word": "微博与SM达成深度战略合作",
+      "onboard_time": 1768625240,
+      "rank": 17,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 191201,
@@ -347,7 +387,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171675,
+      "raw_hot": 175293,
+      "num": 191736,
+      "word": "女子向出轨丈夫道歉当地工作组介入",
+      "onboard_time": 1768622778,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174092,
       "num": 231839,
       "word": "嫣然天使儿童医院十年旧床仍在使用",
       "onboard_time": 1768620080,
@@ -387,14 +435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 161106,
-      "num": 191736,
-      "word": "女子向出轨丈夫道歉当地工作组介入",
-      "onboard_time": 1768622778,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157358,
       "num": 157358,
       "word": "教师的心理健康需引起高度重视",
@@ -408,14 +448,6 @@
       "word": "专家称装死小羊可以人工繁殖更多只",
       "onboard_time": 1768605317,
       "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 154176,
-      "num": 154176,
-      "word": "女子吞药轻生苏醒后被丈夫戳脑门",
-      "onboard_time": 1768623920,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -443,6 +475,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 145341,
+      "num": 145341,
+      "word": "成毅朱瞻基两套龙袍",
+      "onboard_time": 1768624820,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144980,
       "num": 127256,
       "word": "马年春晚",
@@ -457,14 +497,6 @@
       "onboard_time": 1768570641,
       "rank": 3,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 142837,
-      "num": 224869,
-      "word": "老一辈迎来了最严厉的老师",
-      "onboard_time": 1768624640,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 134920,
@@ -507,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127726,
+      "num": 150686,
+      "word": "央视揭女性兼职骗局",
+      "onboard_time": 1768623859,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125386,
       "num": 764742,
       "word": "胖东来599元羽绒服进价457.9元",
@@ -521,6 +561,14 @@
       "onboard_time": 1768621879,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123549,
+      "num": 140015,
+      "word": "特朗普称明尼苏达州已完全失控",
+      "onboard_time": 1768624159,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 122972,
@@ -579,12 +627,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 116468,
-      "num": 116468,
-      "word": "黄晓明自曝没打过小海绵",
-      "onboard_time": 1768624220,
+      "raw_hot": 118804,
+      "num": 118804,
+      "word": "黄子韬哭着说对不起家人",
+      "onboard_time": 1768624939,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117026,
+      "num": 117026,
+      "word": "祯娘传",
+      "onboard_time": 1768622359,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 114429,
@@ -635,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106293,
+      "num": 106293,
+      "word": "李一桐 往那一站美成这样了",
+      "onboard_time": 1768624999,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105764,
       "num": 746439,
       "word": "退休老人回应3年演200多部短剧",
@@ -659,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103050,
-      "num": 116419,
-      "word": "特朗普称明尼苏达州已完全失控",
-      "onboard_time": 1768624159,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 100248,
       "num": 754840,
       "word": "单依纯珠玉后继有人了",
@@ -675,12 +731,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99730,
+      "num": 99730,
+      "word": "央视春晚联排雪天神图",
+      "onboard_time": 1768623679,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 99706,
+      "num": 99706,
+      "word": "檀健次直播",
+      "onboard_time": 1768625059,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98983,
       "num": 72947,
       "word": "窦骁何超莲说春节计划是去旅游",
       "onboard_time": 1768604776,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98083,
+      "num": 98083,
+      "word": "网红被前男友PUA导致容貌焦虑",
+      "onboard_time": 1768624759,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 97906,
@@ -723,28 +803,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 93203,
-      "num": 93203,
-      "word": "央视揭女性兼职骗局",
-      "onboard_time": 1768623859,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 91066,
-      "num": 91066,
-      "word": "央视春晚联排雪天神图",
-      "onboard_time": 1768623679,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 90770,
       "num": 90770,
       "word": "辛芷蕾说网友评价几乎每条都看",
       "onboard_time": 1768621641,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90719,
+      "num": 106922,
+      "word": "哪有什么新年固定仪式",
+      "onboard_time": 1768625240,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 90584,
@@ -795,14 +867,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 88152,
-      "num": 88152,
-      "word": "祯娘传",
-      "onboard_time": 1768622359,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 88009,
       "num": 96012,
       "word": "择天记3D版定档",
@@ -811,12 +875,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 87988,
+      "num": 87988,
+      "word": "刘耀文自曝偷零花钱充值游戏",
+      "onboard_time": 1768625420,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87686,
       "num": 744011,
       "word": "泡泡玛特星星人",
       "onboard_time": 1768560023,
       "rank": 8,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 87437,
+      "num": 87437,
+      "word": "毕雯珺首参加央视春晚联排",
+      "onboard_time": 1768624580,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 86474,
@@ -852,7 +932,7 @@
     },
     {
       "raw_hot": 83551,
-      "num": 83551,
+      "num": 98204,
       "word": "春运",
       "onboard_time": 1768624580,
       "rank": 38,
@@ -865,6 +945,14 @@
       "onboard_time": 1768569861,
       "rank": 25,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 82359,
+      "num": 98772,
+      "word": "请假的意思不是居家办公",
+      "onboard_time": 1768625359,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 82167,
@@ -899,14 +987,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 79064,
-      "num": 79064,
-      "word": "成毅朱瞻基两套龙袍",
-      "onboard_time": 1768624820,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 78558,
       "num": 78558,
       "word": "大爷被热水袋烫伤自行治疗致截肢",
@@ -921,14 +1001,6 @@
       "onboard_time": 1768611200,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 76305,
-      "num": 76305,
-      "word": "网红被前男友PUA导致容貌焦虑",
-      "onboard_time": 1768624759,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 75611,
@@ -953,6 +1025,14 @@
       "onboard_time": 1768617020,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 73574,
+      "num": 87438,
+      "word": "故宫今日雪况",
+      "onboard_time": 1768625240,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 72589,
@@ -1017,6 +1097,14 @@
       "onboard_time": 1768606097,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 68889,
+      "num": 86731,
+      "word": "好想像豆包这么刻薄地活一次",
+      "onboard_time": 1768625059,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 68443,
@@ -1593,6 +1681,14 @@
       "onboard_time": 1768571482,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 10151,
+      "num": 117131,
+      "word": "学校通报上午匿名投诉下午就被找",
+      "onboard_time": 1768625480,
+      "rank": 30,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 9523,
