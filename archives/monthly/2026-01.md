@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/17 12:53:03
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/17 13:29:24
 </p>
 </blockquote>
 <p>
@@ -4917,6 +4917,12 @@ ALin哭着说对不起（热度：400438）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%9E%E8%8D%AF%E8%BD%BB%E7%94%9F%E8%8B%8F%E9%86%92%E5%90%8E%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%88%B3%E8%84%91%E9%97%A8%23" target="weibo">
+女子吞药轻生苏醒后被丈夫戳脑门（热度：397335）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%9C%89%E6%9C%8B%20%E6%88%91%E5%9C%A8%E4%B8%8A%E5%8D%87%E6%9C%9F%E6%B2%A1%E6%9C%89%E6%83%85%E6%84%9F%E7%BB%8F%E5%8E%86%23" target="weibo">
 苏有朋 我在上升期没有情感经历（热度：397252）
 </a>
@@ -6005,12 +6011,6 @@ WB对战RW（热度：355689）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E7%94%B5%E7%BD%91%E8%AE%A1%E5%88%92%E6%8A%95%E8%B5%844%E4%B8%87%E4%BA%BF%E5%85%83%23" target="weibo">
 国家电网计划投资4万亿元（热度：342488）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E5%AB%8C%E5%B9%B4%E7%BB%88%E5%A5%96%E5%8F%91%E5%BE%97%E5%B0%91%E6%8A%8A%E8%80%81%E6%9D%BF%E6%9D%80%E4%BA%86%23" target="weibo">
-日本男子嫌年终奖发得少把老板杀了（热度：342324）
 </a>
 </li>
 

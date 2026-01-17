@@ -1,6 +1,6 @@
 {
   "startTime": 1768581578200,
-  "endTime": 1768625583790,
+  "endTime": 1768627764778,
   "band_list": [
     {
       "raw_hot": 994109,
@@ -83,8 +83,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 397335,
+      "num": 210853,
+      "word": "女子吞药轻生苏醒后被丈夫戳脑门",
+      "onboard_time": 1768623920,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 397252,
-      "num": 222177,
+      "num": 322267,
       "word": "苏有朋 我在上升期没有情感经历",
       "onboard_time": 1768623261,
       "rank": 10,
@@ -121,6 +129,14 @@
       "onboard_time": 1768623261,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 321721,
+      "num": 321721,
+      "word": "老一辈迎来了最严厉的老师",
+      "onboard_time": 1768624640,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 288860,
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 227254,
-      "num": 193051,
+      "num": 226168,
       "word": "现身春晚联排的明星",
       "onboard_time": 1768623622,
       "rank": 15,
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 207132,
-      "num": 163420,
+      "num": 192450,
       "word": "黄晓明自曝没打过小海绵",
       "onboard_time": 1768624220,
       "rank": 28,
@@ -273,22 +289,6 @@
       "onboard_time": 1768612880,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201297,
-      "num": 224869,
-      "word": "老一辈迎来了最严厉的老师",
-      "onboard_time": 1768624640,
-      "rank": 9,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 200988,
-      "num": 154176,
-      "word": "女子吞药轻生苏醒后被丈夫戳脑门",
-      "onboard_time": 1768623920,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 200852,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 192715,
-      "num": 158732,
+      "num": 182923,
       "word": "微博与SM达成深度战略合作",
       "onboard_time": 1768625240,
       "rank": 17,
@@ -451,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154451,
+      "num": 211038,
+      "word": "学校通报上午匿名投诉下午就被找",
+      "onboard_time": 1768625480,
+      "rank": 30,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 150082,
       "num": 150082,
       "word": "音综被劝退歌手靠窝囊废逆袭",
@@ -520,6 +528,14 @@
       "word": "魏大勋新路透是你吗孟宴臣",
       "onboard_time": 1768620022,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 130505,
+      "num": 130505,
+      "word": "黄子韬哭着说对不起家人",
+      "onboard_time": 1768624939,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -627,20 +643,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 118804,
-      "num": 118804,
-      "word": "黄子韬哭着说对不起家人",
-      "onboard_time": 1768624939,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 117026,
       "num": 117026,
       "word": "祯娘传",
       "onboard_time": 1768622359,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115661,
+      "num": 113342,
+      "word": "刘耀文自曝偷零花钱充值游戏",
+      "onboard_time": 1768625420,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 114429,
@@ -683,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109112,
+      "num": 109112,
+      "word": "77年黄晓明叫97年沈月姐",
+      "onboard_time": 1768625600,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108775,
       "num": 73908,
       "word": "42岁男演员被欠薪送后外卖最新进展",
@@ -721,6 +745,38 @@
       "onboard_time": 1768622539,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103698,
+      "num": 103698,
+      "word": "狼队 体面",
+      "onboard_time": 1768626200,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 101977,
+      "num": 101977,
+      "word": "Faker重提BLG",
+      "onboard_time": 1768626800,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 101300,
+      "num": 101300,
+      "word": "我国攻克半导体材料世界难题",
+      "onboard_time": 1768626800,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 101037,
+      "num": 101037,
+      "word": "05后真的不会用电脑了吗",
+      "onboard_time": 1768626800,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 100248,
@@ -875,14 +931,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 87988,
-      "num": 87988,
-      "word": "刘耀文自曝偷零花钱充值游戏",
-      "onboard_time": 1768625420,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 87686,
       "num": 744011,
       "word": "泡泡玛特星星人",
@@ -897,6 +945,14 @@
       "onboard_time": 1768624580,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86993,
+      "num": 86993,
+      "word": "陈星旭老钱味",
+      "onboard_time": 1768626439,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 86474,
@@ -937,6 +993,14 @@
       "onboard_time": 1768624580,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82941,
+      "num": 87438,
+      "word": "故宫今日雪况",
+      "onboard_time": 1768625240,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 82435,
@@ -1003,6 +1067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 75808,
+      "num": 75808,
+      "word": "音综现场选手和导师吵起来了",
+      "onboard_time": 1768627459,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 75611,
       "num": 75611,
       "word": "房贷利率已下调你享受到了吗",
@@ -1025,14 +1097,6 @@
       "onboard_time": 1768617020,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 73574,
-      "num": 87438,
-      "word": "故宫今日雪况",
-      "onboard_time": 1768625240,
-      "rank": 46,
-      "category": "旅游"
     },
     {
       "raw_hot": 72589,
@@ -1073,6 +1137,22 @@
       "onboard_time": 1768615100,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70700,
+      "num": 70700,
+      "word": "国一国二打架纠纷",
+      "onboard_time": 1768627099,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 70235,
+      "num": 70235,
+      "word": "宇宙闪烁请注意好笑到喷饭",
+      "onboard_time": 1768627220,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 69200,
@@ -1121,6 +1201,14 @@
       "onboard_time": 1768623320,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67725,
+      "num": 69686,
+      "word": "追觅CEO俞浩回应遭员工怒怼",
+      "onboard_time": 1768626140,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 67582,
@@ -1315,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55537,
+      "num": 133932,
+      "word": "特朗普自曝暂缓打伊朗原因",
+      "onboard_time": 1768627280,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 55378,
       "num": 55378,
       "word": "一颗青提为何让台湾某些人破防",
@@ -1409,6 +1505,14 @@
       "onboard_time": 1768562001,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47658,
+      "num": 130734,
+      "word": "民政局副局长黑手伸向老年人",
+      "onboard_time": 1768626679,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46521,
@@ -1681,14 +1785,6 @@
       "onboard_time": 1768571482,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 10151,
-      "num": 117131,
-      "word": "学校通报上午匿名投诉下午就被找",
-      "onboard_time": 1768625480,
-      "rank": 30,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 9523,

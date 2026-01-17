@@ -1,0 +1,410 @@
+{
+  "runTime": 1768627764778,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 505042,
+        "num": 1080806,
+        "word": "公积金改革大动作要来了",
+        "onboard_time": 1768613360,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363240,
+        "num": 808444,
+        "word": "2026央视春晚首次联排",
+        "onboard_time": 1768618100,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41176,
+        "num": 607069,
+        "word": "务工人员春运可预约购票",
+        "onboard_time": 1768617860,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328316,
+        "num": 328316,
+        "word": "狼队487断开连接",
+        "onboard_time": 1768625119,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 231331,
+        "num": 322267,
+        "word": "苏有朋 我在上升期没有情感经历",
+        "onboard_time": 1768623261,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321721,
+        "num": 321721,
+        "word": "老一辈迎来了最严厉的老师",
+        "onboard_time": 1768624640,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226168,
+        "num": 226168,
+        "word": "现身春晚联排的明星",
+        "onboard_time": 1768623622,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219628,
+        "num": 219628,
+        "word": "装死小羊身价30万主人仍不卖",
+        "onboard_time": 1768616360,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219584,
+        "num": 219584,
+        "word": "大陆词语成台独网军霸凌借口",
+        "onboard_time": 1768621822,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154451,
+        "num": 211038,
+        "word": "学校通报上午匿名投诉下午就被找",
+        "onboard_time": 1768625480,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 397335,
+        "num": 210853,
+        "word": "女子吞药轻生苏醒后被丈夫戳脑门",
+        "onboard_time": 1768623920,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225910,
+        "num": 210600,
+        "word": "女子吞药后被救丈夫称你就不容易死",
+        "onboard_time": 1768623261,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210245,
+        "num": 210245,
+        "word": "荣耀之战",
+        "onboard_time": 1768623740,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192450,
+        "num": 192450,
+        "word": "黄晓明自曝没打过小海绵",
+        "onboard_time": 1768624220,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183802,
+        "num": 183802,
+        "word": "iPhone面容ID不止能开锁屏",
+        "onboard_time": 1768620679,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186146,
+        "num": 183685,
+        "word": "李亚鹏已筹金额超千万元",
+        "onboard_time": 1768621578,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182923,
+        "num": 182923,
+        "word": "微博与SM达成深度战略合作",
+        "onboard_time": 1768625240,
+        "rank": 16,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 142879,
+        "num": 142879,
+        "word": "嫣然天使儿童医院十年旧床仍在使用",
+        "onboard_time": 1768620080,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55537,
+        "num": 133932,
+        "word": "特朗普自曝暂缓打伊朗原因",
+        "onboard_time": 1768627280,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47658,
+        "num": 130734,
+        "word": "民政局副局长黑手伸向老年人",
+        "onboard_time": 1768626679,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163683,
+        "num": 130637,
+        "word": "宋威龙春晚带妆联排",
+        "onboard_time": 1768620380,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130505,
+        "num": 130505,
+        "word": "黄子韬哭着说对不起家人",
+        "onboard_time": 1768624939,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113527,
+        "num": 113527,
+        "word": "央视揭女性兼职骗局",
+        "onboard_time": 1768623859,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115661,
+        "num": 113342,
+        "word": "刘耀文自曝偷零花钱充值游戏",
+        "onboard_time": 1768625420,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112525,
+        "num": 112525,
+        "word": "NBA",
+        "onboard_time": 1768622480,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112493,
+        "num": 112493,
+        "word": "特朗普称明尼苏达州已完全失控",
+        "onboard_time": 1768624159,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109112,
+        "num": 109112,
+        "word": "77年黄晓明叫97年沈月姐",
+        "onboard_time": 1768625600,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105172,
+        "num": 105172,
+        "word": "成毅朱瞻基两套龙袍",
+        "onboard_time": 1768624820,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103698,
+        "num": 103698,
+        "word": "狼队 体面",
+        "onboard_time": 1768626200,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104694,
+        "num": 103656,
+        "word": "白鹿春晚联排",
+        "onboard_time": 1768617439,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101977,
+        "num": 101977,
+        "word": "Faker重提BLG",
+        "onboard_time": 1768626800,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101300,
+        "num": 101300,
+        "word": "我国攻克半导体材料世界难题",
+        "onboard_time": 1768626800,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 101037,
+        "num": 101037,
+        "word": "05后真的不会用电脑了吗",
+        "onboard_time": 1768626800,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89659,
+        "num": 89659,
+        "word": "檀健次直播",
+        "onboard_time": 1768625059,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86993,
+        "num": 86993,
+        "word": "陈星旭老钱味",
+        "onboard_time": 1768626439,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82941,
+        "num": 82941,
+        "word": "故宫今日雪况",
+        "onboard_time": 1768625240,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 81975,
+        "num": 81975,
+        "word": "央视春晚联排雪天神图",
+        "onboard_time": 1768623679,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77213,
+        "num": 77213,
+        "word": "宁夏装死小羊身价飙升至30万元",
+        "onboard_time": 1768614679,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75808,
+        "num": 75808,
+        "word": "音综现场选手和导师吵起来了",
+        "onboard_time": 1768627459,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73324,
+        "num": 73324,
+        "word": "祯娘传",
+        "onboard_time": 1768622359,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70700,
+        "num": 70700,
+        "word": "国一国二打架纠纷",
+        "onboard_time": 1768627099,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72124,
+        "num": 70628,
+        "word": "荣耀之战抢票",
+        "onboard_time": 1768622899,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 70235,
+        "num": 70235,
+        "word": "宇宙闪烁请注意好笑到喷饭",
+        "onboard_time": 1768627220,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67725,
+        "num": 69686,
+        "word": "追觅CEO俞浩回应遭员工怒怼",
+        "onboard_time": 1768626140,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 69551,
+        "num": 69551,
+        "word": "御赐小仵作2",
+        "onboard_time": 1768623740,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68075,
+        "num": 68075,
+        "word": "田曦薇央视春晚联排",
+        "onboard_time": 1768623622,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66299,
+        "num": 66299,
+        "word": "请假的意思不是居家办公",
+        "onboard_time": 1768625359,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67857,
+        "num": 66285,
+        "word": "ALin哭着说对不起",
+        "onboard_time": 1768619958,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66260,
+        "num": 66260,
+        "word": "金价波动",
+        "onboard_time": 1768616299,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 66604,
+        "num": 66038,
+        "word": "狼王格林现状",
+        "onboard_time": 1768610240,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席向世界推介来自中国的机遇清单#"
+    }
+  }
+}
