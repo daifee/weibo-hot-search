@@ -1,6 +1,6 @@
 {
   "startTime": 1768581578200,
-  "endTime": 1768635628916,
+  "endTime": 1768638956352,
   "band_list": [
     {
       "raw_hot": 7482738,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 394970,
+      "num": 257061,
+      "word": "王橹杰真人长这样",
+      "onboard_time": 1768633581,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 392842,
       "num": 392842,
       "word": "装死小羊身价30万主人仍不卖",
@@ -179,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 365297,
+      "num": 1058447,
+      "word": "新疆31岁舞蹈老师万小艳去世",
+      "onboard_time": 1768636399,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 362732,
       "num": 362732,
       "word": "宁夏装死小羊身价飙升至30万元",
@@ -200,6 +216,14 @@
       "word": "女子吞药后被救丈夫称你就不容易死",
       "onboard_time": 1768623261,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 306125,
+      "num": 762326,
+      "word": "四川百万网红给村里捐了70盏灯",
+      "onboard_time": 1768633520,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -275,14 +299,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 257061,
-      "num": 257061,
-      "word": "王橹杰真人长这样",
-      "onboard_time": 1768633581,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 256246,
       "num": 256246,
       "word": "李湘全平台账号被禁止关注",
@@ -337,6 +353,14 @@
       "onboard_time": 1768623622,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224830,
+      "num": 224830,
+      "word": "免签后老外扎堆来华看病",
+      "onboard_time": 1768635442,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221354,
@@ -467,6 +491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 191011,
+      "num": 191011,
+      "word": "萧亚轩和林俊杰的舞台",
+      "onboard_time": 1768634241,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 190140,
       "num": 190140,
       "word": "男子在长沙街头突然昏倒后去世",
@@ -539,14 +571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 174984,
-      "num": 309791,
-      "word": "四川百万网红给村里捐了70盏灯",
-      "onboard_time": 1768633520,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174092,
       "num": 231839,
       "word": "嫣然天使儿童医院十年旧床仍在使用",
@@ -585,14 +609,6 @@
       "onboard_time": 1768605616,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 166157,
-      "num": 166157,
-      "word": "萧亚轩和林俊杰的舞台",
-      "onboard_time": 1768634241,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 165282,
@@ -675,6 +691,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 151106,
+      "num": 82130,
+      "word": "出轨丈夫被党纪处分",
+      "onboard_time": 1768636041,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150082,
       "num": 150082,
       "word": "音综被劝退歌手靠窝囊废逆袭",
@@ -731,12 +755,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142419,
+      "num": 142419,
+      "word": "46岁未婚独居女性离世后",
+      "onboard_time": 1768637541,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142275,
+      "num": 99084,
+      "word": "短剧演员忘摘道具车牌被查处",
+      "onboard_time": 1768638259,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141339,
       "num": 141339,
       "word": "张婧仪能不能上旅综",
       "onboard_time": 1768631541,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140855,
+      "num": 140855,
+      "word": "前六集是克制后八集是放肆",
+      "onboard_time": 1768636100,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 139818,
@@ -835,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129784,
+      "num": 129784,
+      "word": "吃酸奶一定要备筋膜枪",
+      "onboard_time": 1768636459,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129325,
       "num": 225581,
       "word": "美国还欠2.6亿美元会费",
@@ -905,6 +961,14 @@
       "onboard_time": 1768623740,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122357,
+      "num": 122357,
+      "word": "林俊杰 我们别回头",
+      "onboard_time": 1768638620,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 122321,
@@ -979,12 +1043,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 118870,
+      "num": 118870,
+      "word": "向出轨丈夫道歉女子称直播被封",
+      "onboard_time": 1768638081,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118796,
       "num": 118796,
       "word": "王俊凯去看了董子健刘昊然新片",
       "onboard_time": 1768635199,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 117916,
+      "num": 117916,
+      "word": "Chovy排到Xiaohu破防",
+      "onboard_time": 1768637541,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 117747,
@@ -1009,6 +1089,14 @@
       "onboard_time": 1768622359,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116075,
+      "num": 116075,
+      "word": "何炅又在努力劝架了",
+      "onboard_time": 1768635799,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 115661,
@@ -1195,6 +1283,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 101268,
+      "num": 101268,
+      "word": "五旬孙子带102岁爷爷喝AD钙奶",
+      "onboard_time": 1768636640,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101037,
       "num": 101037,
       "word": "05后真的不会用电脑了吗",
@@ -1283,6 +1379,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 97528,
+      "num": 97528,
+      "word": "鹅鸭杀叠叠高太上头了",
+      "onboard_time": 1768635920,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 96688,
       "num": 125305,
       "word": "实践三十二号卫星发射失利",
@@ -1315,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93444,
+      "num": 93444,
+      "word": "王鹤棣画的白鹿是白色马路",
+      "onboard_time": 1768638920,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92736,
       "num": 92736,
       "word": "王橹杰 雷霆甩头",
@@ -1345,6 +1457,14 @@
       "onboard_time": 1768630101,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 91479,
+      "num": 91479,
+      "word": "田曦薇春晚首次联排",
+      "onboard_time": 1768637720,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 90770,
@@ -1401,6 +1521,14 @@
       "onboard_time": 1768620620,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 89272,
+      "num": 125162,
+      "word": "向出轨丈夫道歉女子将提离婚诉讼",
+      "onboard_time": 1768637841,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89020,
@@ -1483,6 +1611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 86172,
+      "num": 86172,
+      "word": "找到了剥橙子手不黄的方法",
+      "onboard_time": 1768637781,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85569,
       "num": 69603,
       "word": "肖战感谢1124.1万名观众",
@@ -1563,6 +1699,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 81962,
+      "num": 81962,
+      "word": "公积金到底会如何改",
+      "onboard_time": 1768638499,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81783,
+      "num": 81783,
+      "word": "鹅鸭杀终究是我错付了",
+      "onboard_time": 1768638920,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 81766,
       "num": 81766,
       "word": "侯明昊空降",
@@ -1633,6 +1785,14 @@
       "onboard_time": 1768611200,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 75790,
+      "num": 81668,
+      "word": "马斯克与瑞安航空CEO对骂",
+      "onboard_time": 1768638440,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 75611,
@@ -2315,11 +2475,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 21531,
-      "num": 129221,
-      "word": "免签后老外扎堆来华看病",
-      "onboard_time": 1768635442,
-      "rank": 27,
+      "raw_hot": 21373,
+      "num": 87512,
+      "word": "撞亡祖孙肇事司机判赔200余万",
+      "onboard_time": 1768638021,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -2379,6 +2539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 14386,
+      "num": 122907,
+      "word": "下周一可买春运首日火车票",
+      "onboard_time": 1768638561,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14181,
       "num": 528936,
       "word": "让绿色发展点亮幸福生活",
@@ -2425,6 +2593,14 @@
       "onboard_time": 1768559302,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 8855,
+      "num": 615708,
+      "word": "6组数字透视消费升级绿色答卷",
+      "onboard_time": 1768638801,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

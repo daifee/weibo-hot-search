@@ -1,0 +1,410 @@
+{
+  "runTime": 1768638956352,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 365297,
+        "num": 1058447,
+        "word": "新疆31岁舞蹈老师万小艳去世",
+        "onboard_time": 1768636399,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306125,
+        "num": 762326,
+        "word": "四川百万网红给村里捐了70盏灯",
+        "onboard_time": 1768633520,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8855,
+        "num": 615708,
+        "word": "6组数字透视消费升级绿色答卷",
+        "onboard_time": 1768638801,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284301,
+        "num": 284301,
+        "word": "公积金改革大动作要来了",
+        "onboard_time": 1768613360,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224830,
+        "num": 224830,
+        "word": "免签后老外扎堆来华看病",
+        "onboard_time": 1768635442,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302648,
+        "num": 222160,
+        "word": "只有实习生点了大杯奶茶",
+        "onboard_time": 1768629139,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207953,
+        "num": 207953,
+        "word": "王鹤棣沈月吵架",
+        "onboard_time": 1768634002,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191011,
+        "num": 191011,
+        "word": "萧亚轩和林俊杰的舞台",
+        "onboard_time": 1768634241,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167825,
+        "num": 167825,
+        "word": "487表达能力",
+        "onboard_time": 1768632861,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172727,
+        "num": 166851,
+        "word": "耿村煤矿高飞被停职调查",
+        "onboard_time": 1768633882,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1966412,
+        "num": 159068,
+        "word": "487秒删",
+        "onboard_time": 1768629321,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 394970,
+        "num": 156540,
+        "word": "王橹杰真人长这样",
+        "onboard_time": 1768633581,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185505,
+        "num": 148790,
+        "word": "487 老子才是老大",
+        "onboard_time": 1768631241,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 355925,
+        "num": 147135,
+        "word": "出轨被妻子道歉男子已停职",
+        "onboard_time": 1768633462,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142871,
+        "num": 142871,
+        "word": "女子吞药轻生苏醒后被丈夫戳脑门",
+        "onboard_time": 1768623920,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142419,
+        "num": 142419,
+        "word": "46岁未婚独居女性离世后",
+        "onboard_time": 1768637541,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140855,
+        "num": 140855,
+        "word": "前六集是克制后八集是放肆",
+        "onboard_time": 1768636100,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129784,
+        "num": 129784,
+        "word": "吃酸奶一定要备筋膜枪",
+        "onboard_time": 1768636459,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126002,
+        "num": 126002,
+        "word": "郎朗看到吉娜照片放心了",
+        "onboard_time": 1768631000,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89272,
+        "num": 125162,
+        "word": "向出轨丈夫道歉女子将提离婚诉讼",
+        "onboard_time": 1768637841,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477537,
+        "num": 125044,
+        "word": "李佳琦回应胖了",
+        "onboard_time": 1768633102,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 164985,
+        "num": 123977,
+        "word": "爸妈体检报告这行字很多人没看懂",
+        "onboard_time": 1768634122,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 14386,
+        "num": 122907,
+        "word": "下周一可买春运首日火车票",
+        "onboard_time": 1768638561,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122357,
+        "num": 122357,
+        "word": "林俊杰 我们别回头",
+        "onboard_time": 1768638620,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118891,
+        "num": 118891,
+        "word": "沈月 我不想要黄子韬",
+        "onboard_time": 1768632621,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118870,
+        "num": 118870,
+        "word": "向出轨丈夫道歉女子称直播被封",
+        "onboard_time": 1768638081,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117916,
+        "num": 117916,
+        "word": "Chovy排到Xiaohu破防",
+        "onboard_time": 1768637541,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116075,
+        "num": 116075,
+        "word": "何炅又在努力劝架了",
+        "onboard_time": 1768635799,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101268,
+        "num": 101268,
+        "word": "五旬孙子带102岁爷爷喝AD钙奶",
+        "onboard_time": 1768636640,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93912,
+        "num": 99087,
+        "word": "10款儿童面霜被曝违规添加",
+        "onboard_time": 1768634181,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142275,
+        "num": 99084,
+        "word": "短剧演员忘摘道具车牌被查处",
+        "onboard_time": 1768638259,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104579,
+        "num": 99068,
+        "word": "狼队487断开连接",
+        "onboard_time": 1768625119,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98827,
+        "num": 98827,
+        "word": "汪苏泷要吃订十年才能订上的餐厅",
+        "onboard_time": 1768635319,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97528,
+        "num": 97528,
+        "word": "鹅鸭杀叠叠高太上头了",
+        "onboard_time": 1768635920,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95060,
+        "num": 95060,
+        "word": "建议这种面包价格全国统一",
+        "onboard_time": 1768634002,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93602,
+        "num": 93602,
+        "word": "2026央视春晚首次联排",
+        "onboard_time": 1768618100,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93444,
+        "num": 93444,
+        "word": "王鹤棣画的白鹿是白色马路",
+        "onboard_time": 1768638920,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93220,
+        "num": 93220,
+        "word": "原来腹横肌才是女生瘦腰的舒适区",
+        "onboard_time": 1768633462,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 91479,
+        "num": 91479,
+        "word": "田曦薇春晚首次联排",
+        "onboard_time": 1768637720,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21373,
+        "num": 87512,
+        "word": "撞亡祖孙肇事司机判赔200余万",
+        "onboard_time": 1768638021,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86172,
+        "num": 86172,
+        "word": "找到了剥橙子手不黄的方法",
+        "onboard_time": 1768637781,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84709,
+        "num": 84709,
+        "word": "装死小羊身价30万主人仍不卖",
+        "onboard_time": 1768616360,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16150,
+        "num": 84319,
+        "word": "多个新高见证中国经济硬实力",
+        "onboard_time": 1768617439,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84304,
+        "num": 84304,
+        "word": "王俊凯去看了董子健刘昊然新片",
+        "onboard_time": 1768635199,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 83459,
+        "num": 83459,
+        "word": "嫣然天使儿童医院患儿家属发声",
+        "onboard_time": 1768634661,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82261,
+        "num": 82261,
+        "word": "张婧仪能不能上旅综",
+        "onboard_time": 1768631541,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151106,
+        "num": 82130,
+        "word": "出轨丈夫被党纪处分",
+        "onboard_time": 1768636041,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81962,
+        "num": 81962,
+        "word": "公积金到底会如何改",
+        "onboard_time": 1768638499,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81783,
+        "num": 81783,
+        "word": "鹅鸭杀终究是我错付了",
+        "onboard_time": 1768638920,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 75790,
+        "num": 81668,
+        "word": "马斯克与瑞安航空CEO对骂",
+        "onboard_time": 1768638440,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席向世界推介来自中国的机遇清单#"
+    }
+  }
+}
