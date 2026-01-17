@@ -1,6 +1,6 @@
 {
   "startTime": 1768581578200,
-  "endTime": 1768661054815,
+  "endTime": 1768663730864,
   "band_list": [
     {
       "raw_hot": 7482738,
@@ -105,6 +105,14 @@
       "onboard_time": 1768613360,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 890521,
+      "num": 1142483,
+      "word": "U23国足首进亚洲杯4强",
+      "onboard_time": 1768659743,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 748084,
@@ -217,6 +225,14 @@
       "onboard_time": 1768636399,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 478972,
+      "num": 478972,
+      "word": "王鹤棣演唱会给我香迷糊了",
+      "onboard_time": 1768661842,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 477389,
@@ -433,6 +449,14 @@
       "onboard_time": 1768623261,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 314698,
+      "num": 314698,
+      "word": "卸妆油洗头",
+      "onboard_time": 1768660882,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 308908,
@@ -665,6 +689,14 @@
       "onboard_time": 1768644920,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244998,
+      "num": 173095,
+      "word": "杨幂鹿晗我是证人登顶",
+      "onboard_time": 1768660882,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 242419,
@@ -947,6 +979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191252,
+      "num": 119995,
+      "word": "汪海林曝保剑锋未接女友电话被捅伤",
+      "onboard_time": 1768662143,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191201,
       "num": 191201,
       "word": "田曦薇央视春晚联排",
@@ -1075,6 +1115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174648,
+      "num": 174648,
+      "word": "董路的含金量还在上升",
+      "onboard_time": 1768662441,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174092,
       "num": 231839,
       "word": "嫣然天使儿童医院十年旧床仍在使用",
@@ -1097,6 +1145,14 @@
       "onboard_time": 1768627880,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171572,
+      "num": 119234,
+      "word": "阿维塔回应南宁15车连撞事故",
+      "onboard_time": 1768663163,
+      "rank": 22,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 167844,
@@ -1771,6 +1827,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 114965,
+      "num": 114965,
+      "word": "许嵩空降超话",
+      "onboard_time": 1768661362,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114429,
       "num": 114429,
       "word": "陈小群",
@@ -1843,6 +1907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110241,
+      "num": 110241,
+      "word": "涨20元月薪公司已连续37年涨薪",
+      "onboard_time": 1768663042,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110234,
       "num": 110234,
       "word": "单依纯被艾特最多的一次",
@@ -1899,6 +1971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106373,
+      "num": 106373,
+      "word": "受害人轻信买坦克准备打仗被骗42万",
+      "onboard_time": 1768663342,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106339,
       "num": 97723,
       "word": "藏了12年的糖被妹妹发现了",
@@ -1945,6 +2025,14 @@
       "onboard_time": 1768641740,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105336,
+      "num": 105336,
+      "word": "下雪天长城人人人人人人",
+      "onboard_time": 1768661062,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104925,
@@ -2027,6 +2115,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 101372,
+      "num": 101372,
+      "word": "WTT多哈球星挑战赛",
+      "onboard_time": 1768583417,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101336,
       "num": 101336,
       "word": "如果轧戏边拍边播",
@@ -2081,6 +2177,14 @@
       "onboard_time": 1768572083,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100056,
+      "num": 100056,
+      "word": "道歉变处刑道德正义不等于合法判断",
+      "onboard_time": 1768661901,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99746,
@@ -2187,14 +2291,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 97152,
-      "num": 97152,
-      "word": "卸妆油洗头",
-      "onboard_time": 1768660882,
-      "rank": 46,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 96968,
       "num": 346791,
       "word": "U23国足点球赢了",
@@ -2297,6 +2393,14 @@
       "onboard_time": 1768650381,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 94895,
+      "num": 94895,
+      "word": "丁程鑫情绪还是太稳定了",
+      "onboard_time": 1768662683,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 94119,
@@ -2483,6 +2587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 88861,
+      "num": 94869,
+      "word": "电影观众的嘴替出现了",
+      "onboard_time": 1768663521,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 88812,
       "num": 88812,
       "word": "李昊上演极限扑救",
@@ -2641,6 +2753,14 @@
       "onboard_time": 1768640239,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85732,
+      "num": 94809,
+      "word": "3个动作空腹燃脂摆脱大肚子",
+      "onboard_time": 1768663342,
+      "rank": 40,
+      "category": "运动健身"
     },
     {
       "raw_hot": 85629,
@@ -2955,6 +3075,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 77386,
+      "num": 94721,
+      "word": "A股要的不是疯牛而是长牛",
+      "onboard_time": 1768661121,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 76720,
       "num": 76720,
       "word": "得闲谨制",
@@ -3019,6 +3147,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 73030,
+      "num": 94641,
+      "word": "曼联2比0曼城",
+      "onboard_time": 1768661842,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72653,
+      "num": 94593,
+      "word": "檀健次时光大赏年度银幕突破演员",
+      "onboard_time": 1768662023,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 72591,
       "num": 72591,
       "word": "宋亚轩新音vlog",
@@ -3056,6 +3200,14 @@
       "word": "国乒女单多哈下半区失守",
       "onboard_time": 1768617801,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72268,
+      "num": 94572,
+      "word": "樊振东收到的跨界礼物",
+      "onboard_time": 1768662861,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -3691,22 +3843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32196,
-      "num": 101459,
-      "word": "杨幂鹿晗我是证人登顶",
-      "onboard_time": 1768660882,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 32108,
-      "num": 69060,
-      "word": "WTT多哈球星挑战赛",
-      "onboard_time": 1768583417,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 31068,
       "num": 68998,
       "word": "剥茧",
@@ -3961,6 +4097,14 @@
       "onboard_time": 1768568661,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12717,
+      "num": 94826,
+      "word": "横滨市长就职场霸凌道歉",
+      "onboard_time": 1768663461,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 12413,

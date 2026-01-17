@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768661054815,
+  "endTime": 1768663730864,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1419,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 890521,
+      "num": 1142483,
+      "word": "U23国足首进亚洲杯4强",
+      "onboard_time": 1768659743,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 888305,
       "num": 277939,
       "word": "陈楚河承认恋情",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767927621,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 678667,
-      "num": 678667,
-      "word": "奔跑吧下一季要换人了",
-      "onboard_time": 1767493341,
-      "rank": 22,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

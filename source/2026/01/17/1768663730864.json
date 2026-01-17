@@ -1,0 +1,410 @@
+{
+  "runTime": 1768663730864,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 890521,
+        "num": 1142483,
+        "word": "U23国足首进亚洲杯4强",
+        "onboard_time": 1768659743,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 829386,
+        "num": 829386,
+        "word": "春晚",
+        "onboard_time": 1768651641,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84947,
+        "num": 669901,
+        "word": "14亿多人用电自由是怎么做到的",
+        "onboard_time": 1768655361,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 478972,
+        "num": 478972,
+        "word": "王鹤棣演唱会给我香迷糊了",
+        "onboard_time": 1768661842,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 364771,
+        "num": 364771,
+        "word": "男子从喉咙痛到进ICU只用1小时",
+        "onboard_time": 1768654460,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 433984,
+        "num": 347506,
+        "word": "李昊全场8次扑救",
+        "onboard_time": 1768657163,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314698,
+        "num": 314698,
+        "word": "卸妆油洗头",
+        "onboard_time": 1768660882,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 231525,
+        "num": 231525,
+        "word": "家中凌晨进贼女子全程装睡",
+        "onboard_time": 1768645941,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454681,
+        "num": 205077,
+        "word": "王鹤棣演唱会",
+        "onboard_time": 1768652240,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174648,
+        "num": 174648,
+        "word": "董路的含金量还在上升",
+        "onboard_time": 1768662441,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 803525,
+        "num": 174279,
+        "word": "曝丈夫出轨女子已连续道歉6天",
+        "onboard_time": 1768656982,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268460,
+        "num": 174138,
+        "word": "帕梅拉胖了6公斤",
+        "onboard_time": 1768648160,
+        "rank": 11,
+        "category": "网红,运动健身"
+      },
+      {
+        "raw_hot": 254920,
+        "num": 173503,
+        "word": "487秒删",
+        "onboard_time": 1768629321,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 244998,
+        "num": 173095,
+        "word": "杨幂鹿晗我是证人登顶",
+        "onboard_time": 1768660882,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172943,
+        "num": 172943,
+        "word": "我是证人",
+        "onboard_time": 1768652782,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 231098,
+        "num": 172824,
+        "word": "李昊说赢球最爽",
+        "onboard_time": 1768660701,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165538,
+        "num": 165538,
+        "word": "轧戏",
+        "onboard_time": 1768649841,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149115,
+        "num": 149115,
+        "word": "宋威龙下雪了",
+        "onboard_time": 1768655181,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123842,
+        "num": 123842,
+        "word": "贺娇龙母亲说让她静静地离开吧",
+        "onboard_time": 1768655481,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122385,
+        "num": 122385,
+        "word": "曼联vs曼城",
+        "onboard_time": 1768655601,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 881723,
+        "num": 121526,
+        "word": "棣欣引力",
+        "onboard_time": 1768654162,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191252,
+        "num": 119995,
+        "word": "汪海林曝保剑锋未接女友电话被捅伤",
+        "onboard_time": 1768662143,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171572,
+        "num": 119234,
+        "word": "阿维塔回应南宁15车连撞事故",
+        "onboard_time": 1768663163,
+        "rank": 22,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 182441,
+        "num": 117758,
+        "word": "向华强说娱乐圈明星美女他看不上眼",
+        "onboard_time": 1768658602,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127487,
+        "num": 116786,
+        "word": "白鹿拍的雪",
+        "onboard_time": 1768659923,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126652,
+        "num": 115666,
+        "word": "强奸幼女被判8年医生父亲是检察官",
+        "onboard_time": 1768655361,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114965,
+        "num": 114965,
+        "word": "许嵩空降超话",
+        "onboard_time": 1768661362,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112943,
+        "num": 112943,
+        "word": "7岁男孩误用燃料吃药后爸爸心碎了",
+        "onboard_time": 1768645220,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110241,
+        "num": 110241,
+        "word": "涨20元月薪公司已连续37年涨薪",
+        "onboard_time": 1768663042,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106373,
+        "num": 106373,
+        "word": "受害人轻信买坦克准备打仗被骗42万",
+        "onboard_time": 1768663342,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105784,
+        "num": 105784,
+        "word": "鞠婧祎发夏天九宫格",
+        "onboard_time": 1768654521,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105336,
+        "num": 105336,
+        "word": "下雪天长城人人人人人人",
+        "onboard_time": 1768661062,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101372,
+        "num": 101372,
+        "word": "WTT多哈球星挑战赛",
+        "onboard_time": 1768663220,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100056,
+        "num": 100056,
+        "word": "道歉变处刑道德正义不等于合法判断",
+        "onboard_time": 1768661901,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97347,
+        "num": 97347,
+        "word": "如果轧戏边拍边播",
+        "onboard_time": 1768660103,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97016,
+        "num": 97016,
+        "word": "榜一大哥王楚钦",
+        "onboard_time": 1768648881,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94895,
+        "num": 94895,
+        "word": "丁程鑫情绪还是太稳定了",
+        "onboard_time": 1768662683,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90907,
+        "num": 94875,
+        "word": "本轮寒潮与08年冰灾范围相似",
+        "onboard_time": 1768660584,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88861,
+        "num": 94869,
+        "word": "电影观众的嘴替出现了",
+        "onboard_time": 1768663521,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12717,
+        "num": 94826,
+        "word": "横滨市长就职场霸凌道歉",
+        "onboard_time": 1768663461,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 85732,
+        "num": 94809,
+        "word": "3个动作空腹燃脂摆脱大肚子",
+        "onboard_time": 1768663342,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 83486,
+        "num": 94763,
+        "word": "AG对战EDGM",
+        "onboard_time": 1768654642,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78443,
+        "num": 94747,
+        "word": "U23国足vs乌兹别克斯坦",
+        "onboard_time": 1768650021,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77386,
+        "num": 94721,
+        "word": "A股要的不是疯牛而是长牛",
+        "onboard_time": 1768661121,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 74134,
+        "num": 94694,
+        "word": "第1次见下雪的统一动作",
+        "onboard_time": 1768655001,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73740,
+        "num": 94667,
+        "word": "廖三宁绝杀广东男篮",
+        "onboard_time": 1768660462,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73030,
+        "num": 94641,
+        "word": "曼联2比0曼城",
+        "onboard_time": 1768661842,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72892,
+        "num": 94614,
+        "word": "毕业11年存350万的5个消费习惯",
+        "onboard_time": 1768650683,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 72653,
+        "num": 94593,
+        "word": "檀健次时光大赏年度银幕突破演员",
+        "onboard_time": 1768662023,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72268,
+        "num": 94572,
+        "word": "樊振东收到的跨界礼物",
+        "onboard_time": 1768662861,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记文章为建设现代化人民城市划重点#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768661054815,
+  "endTime": 1768663730864,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1417,6 +1417,14 @@
       "onboard_time": 1767238040,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 890521,
+      "num": 1142483,
+      "word": "U23国足首进亚洲杯4强",
+      "onboard_time": 1768659743,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 888305,
@@ -4953,6 +4961,14 @@
       "onboard_time": 1768450880,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 478972,
+      "num": 478972,
+      "word": "王鹤棣演唱会给我香迷糊了",
+      "onboard_time": 1768661842,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 478749,
@@ -9315,6 +9331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 314698,
+      "num": 314698,
+      "word": "卸妆油洗头",
+      "onboard_time": 1768660882,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 314665,
       "num": 314665,
       "word": "巴厘岛拟要求外国游客晒存款",
@@ -12393,6 +12417,14 @@
       "onboard_time": 1767435925,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244998,
+      "num": 173095,
+      "word": "杨幂鹿晗我是证人登顶",
+      "onboard_time": 1768660882,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 244637,
@@ -16443,6 +16475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191252,
+      "num": 119995,
+      "word": "汪海林曝保剑锋未接女友电话被捅伤",
+      "onboard_time": 1768662143,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191225,
       "num": 182612,
       "word": "向涵之十八宫格营业",
@@ -18523,6 +18563,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 174648,
+      "num": 174648,
+      "word": "董路的含金量还在上升",
+      "onboard_time": 1768662441,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174638,
       "num": 174638,
       "word": "代旭角色查重率为0",
@@ -18873,6 +18921,14 @@
       "onboard_time": 1768436180,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 171572,
+      "num": 119234,
+      "word": "阿维塔回应南宁15车连撞事故",
+      "onboard_time": 1768663163,
+      "rank": 22,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 171544,
@@ -30243,6 +30299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114965,
+      "num": 114965,
+      "word": "许嵩空降超话",
+      "onboard_time": 1768661362,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114964,
       "num": 114964,
       "word": "果然对王嘉尔的人脉一无所知",
@@ -31643,6 +31707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110241,
+      "num": 110241,
+      "word": "涨20元月薪公司已连续37年涨薪",
+      "onboard_time": 1768663042,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110239,
       "num": 194738,
       "word": "黄奕风格大变",
@@ -32835,6 +32907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106373,
+      "num": 106373,
+      "word": "受害人轻信买坦克准备打仗被骗42万",
+      "onboard_time": 1768663342,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106340,
       "num": 106340,
       "word": "每天下班先睡一觉正常吗",
@@ -33273,6 +33353,14 @@
       "onboard_time": 1768641740,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105336,
+      "num": 105336,
+      "word": "下雪天长城人人人人人人",
+      "onboard_time": 1768661062,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105309,
@@ -34739,6 +34827,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 101372,
+      "num": 101372,
+      "word": "WTT多哈球星挑战赛",
+      "onboard_time": 1768583417,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101336,
       "num": 101336,
       "word": "如果轧戏边拍边播",
@@ -35289,6 +35385,14 @@
       "onboard_time": 1767342139,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 100056,
+      "num": 100056,
+      "word": "道歉变处刑道德正义不等于合法判断",
+      "onboard_time": 1768661901,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100051,
@@ -36563,14 +36667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 97152,
-      "num": 97152,
-      "word": "卸妆油洗头",
-      "onboard_time": 1768660882,
-      "rank": 46,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 97140,
       "num": 1002432,
       "word": "元旦",
@@ -37553,6 +37649,14 @@
       "onboard_time": 1767933982,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 94895,
+      "num": 94895,
+      "word": "丁程鑫情绪还是太稳定了",
+      "onboard_time": 1768662683,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 94858,
@@ -40075,6 +40179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 88861,
+      "num": 94869,
+      "word": "电影观众的嘴替出现了",
+      "onboard_time": 1768663521,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 88848,
       "num": 95182,
       "word": "性子急缩短寿命",
@@ -41665,6 +41777,14 @@
       "onboard_time": 1767738375,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 85732,
+      "num": 94809,
+      "word": "3个动作空腹燃脂摆脱大肚子",
+      "onboard_time": 1768663342,
+      "rank": 40,
+      "category": "运动健身"
     },
     {
       "raw_hot": 85707,
@@ -44731,6 +44851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77386,
+      "num": 94721,
+      "word": "A股要的不是疯牛而是长牛",
+      "onboard_time": 1768661121,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 77334,
       "num": 224462,
       "word": "不要小瞧大学烤冷面群主",
@@ -45931,6 +46059,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 73030,
+      "num": 94641,
+      "word": "曼联2比0曼城",
+      "onboard_time": 1768661842,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72987,
       "num": 88265,
       "word": "花几千在江浙沪滑雪的中产被坑哭了",
@@ -46019,6 +46155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72653,
+      "num": 94593,
+      "word": "檀健次时光大赏年度银幕突破演员",
+      "onboard_time": 1768662023,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 72619,
       "num": 112737,
       "word": "湛江寸金动物园 地狱动物园",
@@ -46104,6 +46248,14 @@
       "word": "国乒女单多哈下半区失守",
       "onboard_time": 1768617801,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72268,
+      "num": 94572,
+      "word": "樊振东收到的跨界礼物",
+      "onboard_time": 1768662861,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -53627,14 +53779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32196,
-      "num": 101459,
-      "word": "杨幂鹿晗我是证人登顶",
-      "onboard_time": 1768660882,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 32193,
       "num": 65389,
       "word": "WB战胜AG",
@@ -53665,14 +53809,6 @@
       "onboard_time": 1767964941,
       "rank": 49,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 32108,
-      "num": 69060,
-      "word": "WTT多哈球星挑战赛",
-      "onboard_time": 1768583417,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 31998,
@@ -56665,6 +56801,14 @@
       "onboard_time": 1767518962,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12717,
+      "num": 94826,
+      "word": "横滨市长就职场霸凌道歉",
+      "onboard_time": 1768663461,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 12714,

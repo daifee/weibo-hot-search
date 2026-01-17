@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/17 22:44:14
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/17 23:28:50
 </p>
 </blockquote>
 <p>
@@ -1077,6 +1077,12 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23U23%E5%9B%BD%E8%B6%B3%E9%A6%96%E8%BF%9B%E4%BA%9A%E6%B4%B2%E6%9D%AF4%E5%BC%BA%23" target="weibo">
+U23国足首进亚洲杯4强（热度：890521）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E6%B2%B3%E6%89%BF%E8%AE%A4%E6%81%8B%E6%83%85%23" target="weibo">
 陈楚河承认恋情（热度：888305）
 </a>
@@ -1805,12 +1811,6 @@ A股（热度：713520）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%93%AD%E8%AF%89%E5%B8%A62%E5%B2%81%E5%84%BF%E5%AD%90%E5%8E%BB%E5%A5%B3%E6%B5%B4%E5%AE%A4%E9%81%AD%E6%8B%92%23" target="weibo">
 女子哭诉带2岁儿子去女浴室遭拒（热度：679440）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E4%B8%8B%E4%B8%80%E5%AD%A3%E8%A6%81%E6%8D%A2%E4%BA%BA%E4%BA%86%23" target="weibo">
-奔跑吧下一季要换人了（热度：678667）
 </a>
 </li>
 
