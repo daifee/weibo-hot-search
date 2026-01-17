@@ -1,0 +1,410 @@
+{
+  "runTime": 1768616854531,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 994109,
+        "num": 1159057,
+        "word": "公积金改革大动作要来了",
+        "onboard_time": 1768613360,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369004,
+        "num": 844260,
+        "word": "狼王格林现状",
+        "onboard_time": 1768610240,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21648,
+        "num": 684172,
+        "word": "网警助您守护养娃钱",
+        "onboard_time": 1768613601,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362732,
+        "num": 362732,
+        "word": "宁夏装死小羊身价飙升至30万元",
+        "onboard_time": 1768614679,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225126,
+        "num": 225126,
+        "word": "晴儿不愧是甄嬛带大的",
+        "onboard_time": 1768604896,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212250,
+        "num": 212250,
+        "word": "全网最听劝妈妈走红",
+        "onboard_time": 1768613719,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210906,
+        "num": 210906,
+        "word": "稀土不是一种土",
+        "onboard_time": 1768615579,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 206185,
+        "num": 206185,
+        "word": "北京下雪",
+        "onboard_time": 1768610780,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178013,
+        "num": 178013,
+        "word": "专家回应装死小羊为什么会装死",
+        "onboard_time": 1768610480,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26390,
+        "num": 177745,
+        "word": "北京又飘雪了",
+        "onboard_time": 1768616179,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358410,
+        "num": 169891,
+        "word": "王玉雯掉马",
+        "onboard_time": 1768575441,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235956,
+        "num": 165419,
+        "word": "微博之夜",
+        "onboard_time": 1768611141,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202935,
+        "num": 163665,
+        "word": "为什么戴了智能手表反而睡不好",
+        "onboard_time": 1768611861,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 206460,
+        "num": 159970,
+        "word": "男演员被欠薪后送外卖",
+        "onboard_time": 1768612880,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156557,
+        "num": 156557,
+        "word": "专家称装死小羊可以人工繁殖更多只",
+        "onboard_time": 1768605317,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257972,
+        "num": 151162,
+        "word": "王玉雯回复张新成发给你妈妈了",
+        "onboard_time": 1768615999,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145657,
+        "num": 145657,
+        "word": "窦骁何超莲牵手聊天",
+        "onboard_time": 1768608859,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138359,
+        "num": 138359,
+        "word": "教师的心理健康需引起高度重视",
+        "onboard_time": 1768611500,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139026,
+        "num": 136554,
+        "word": "短剧演员上脑综打败清华北大学霸",
+        "onboard_time": 1768575804,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128040,
+        "num": 128040,
+        "word": "幼童在冬季确诊热射病被送ICU抢救",
+        "onboard_time": 1768614921,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162123,
+        "num": 127280,
+        "word": "陪弟弟割双眼皮结果自己先割上了",
+        "onboard_time": 1768573224,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142426,
+        "num": 126661,
+        "word": "你弄个这么大的吊牌我怎么穿上飞机",
+        "onboard_time": 1768605616,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125656,
+        "num": 125656,
+        "word": "4种无效早睡越睡越累",
+        "onboard_time": 1768604836,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121389,
+        "num": 121389,
+        "word": "时代峰峻最快百万播放舞台",
+        "onboard_time": 1768616600,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120626,
+        "num": 120626,
+        "word": "金饰克价跌至1429元",
+        "onboard_time": 1768614201,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120527,
+        "num": 120527,
+        "word": "金银比已跌至50",
+        "onboard_time": 1768613719,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112875,
+        "num": 112875,
+        "word": "鹿哈曾自曝带货7个月赚3500万",
+        "onboard_time": 1768614379,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 104341,
+        "num": 104341,
+        "word": "央视盛赞蔡依林演唱会舞台",
+        "onboard_time": 1768604896,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85331,
+        "num": 100129,
+        "word": "前亚洲最大宜家门店闭店清仓",
+        "onboard_time": 1768615280,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96401,
+        "num": 96401,
+        "word": "十八岁的天空是黄慧颐推荐的保剑锋",
+        "onboard_time": 1768615220,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 85913,
+        "num": 93847,
+        "word": "丹麦邀请美国参加格陵兰岛联合军演",
+        "onboard_time": 1768614023,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91872,
+        "num": 91872,
+        "word": "邓为悼念去世粉丝",
+        "onboard_time": 1768604776,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82075,
+        "num": 82075,
+        "word": "金价波动",
+        "onboard_time": 1768616299,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 81529,
+        "num": 81529,
+        "word": "日本网帖煽动对高考考生性骚扰",
+        "onboard_time": 1768577122,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 78123,
+        "num": 78123,
+        "word": "银价狂飙",
+        "onboard_time": 1768605678,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 75611,
+        "num": 75611,
+        "word": "房贷利率已下调你享受到了吗",
+        "onboard_time": 1768615700,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74750,
+        "num": 74750,
+        "word": "熬过这周就好了",
+        "onboard_time": 1768606397,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 72370,
+        "num": 72370,
+        "word": "装死小羊身价30万主人仍不卖",
+        "onboard_time": 1768616360,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71350,
+        "num": 71350,
+        "word": "努力考公的原因",
+        "onboard_time": 1768608139,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70733,
+        "num": 70733,
+        "word": "景区回应飞刀表演失误",
+        "onboard_time": 1768615100,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69494,
+        "num": 69494,
+        "word": "女子为生儿子拿命拼二胎再产一女",
+        "onboard_time": 1768572023,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68901,
+        "num": 68901,
+        "word": "第一批重返寂静岭的人已经在尖叫了",
+        "onboard_time": 1768606097,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 67068,
+        "num": 67068,
+        "word": "国乒女双多哈连负日本无缘决赛",
+        "onboard_time": 1768613239,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67060,
+        "num": 67060,
+        "word": "肖战救援服造型路透",
+        "onboard_time": 1768611919,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66405,
+        "num": 66405,
+        "word": "很多家长都在对小孩进行镜头霸凌",
+        "onboard_time": 1768608018,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64068,
+        "num": 64068,
+        "word": "儿媳生完孩子婆婆送出60克金镯",
+        "onboard_time": 1768606337,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63388,
+        "num": 63388,
+        "word": "黄金白银再度全线下跌",
+        "onboard_time": 1768616720,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 62825,
+        "num": 62825,
+        "word": "格林 红腰带",
+        "onboard_time": 1768616120,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60114,
+        "num": 60114,
+        "word": "贺娇龙生前视频敬自己的五杯酒",
+        "onboard_time": 1768616480,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56688,
+        "num": 59631,
+        "word": "这个发型对建模要求有多高",
+        "onboard_time": 1768614859,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见加拿大总理卡尼#"
+    }
+  }
+}
