@@ -1,6 +1,6 @@
 {
   "startTime": 1768581578200,
-  "endTime": 1768654475241,
+  "endTime": 1768655277182,
   "band_list": [
     {
       "raw_hot": 7482738,
@@ -11,7 +11,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 2042173,
+      "raw_hot": 2064980,
       "num": 529551,
       "word": "王鹤棣演唱会",
       "onboard_time": 1768652240,
@@ -41,6 +41,14 @@
       "onboard_time": 1768648160,
       "rank": 11,
       "category": "运动健身,网红"
+    },
+    {
+      "raw_hot": 1057257,
+      "num": 168037,
+      "word": "棣欣引力",
+      "onboard_time": 1768654162,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 994109,
@@ -147,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 477389,
+      "num": 1076382,
+      "word": "轧戏",
+      "onboard_time": 1768560441,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 450416,
       "num": 900171,
       "word": "日本网帖煽动对高考考生性骚扰",
@@ -179,12 +195,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 434536,
-      "num": 1069525,
-      "word": "轧戏",
-      "onboard_time": 1768560441,
-      "rank": 5,
-      "category": "剧集"
+      "raw_hot": 423195,
+      "num": 755814,
+      "word": "男子从喉咙痛到进ICU只用1小时",
+      "onboard_time": 1768654460,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 422252,
@@ -323,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 307373,
+      "num": 301996,
+      "word": "毕业11年存350万的5个消费习惯",
+      "onboard_time": 1768650683,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 306586,
       "num": 761124,
       "word": "盲目施救致伤亡扩大4人窒息死亡",
@@ -427,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272490,
+      "num": 272490,
+      "word": "春晚",
+      "onboard_time": 1768651641,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272050,
       "num": 224315,
       "word": "王玉雯回复张新成发给你妈妈了",
@@ -491,14 +523,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 254143,
-      "num": 254143,
-      "word": "春晚",
-      "onboard_time": 1768651641,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 253767,
       "num": 253767,
       "word": "北京下雪",
@@ -521,6 +545,14 @@
       "onboard_time": 1768644441,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 247271,
+      "num": 193543,
+      "word": "穆祉丞提到了双人舞台",
+      "onboard_time": 1768653863,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 246748,
@@ -612,7 +644,7 @@
     },
     {
       "raw_hot": 221086,
-      "num": 124083,
+      "num": 155300,
       "word": "王俊凯 退步啦刘昊然",
       "onboard_time": 1768652602,
       "rank": 20,
@@ -691,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206211,
+      "num": 184784,
+      "word": "鞠婧祎发夏天九宫格",
+      "onboard_time": 1768654521,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204179,
       "num": 244433,
       "word": "东部战区发表谈话",
@@ -723,14 +763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198410,
-      "num": 125663,
-      "word": "穆祉丞提到了双人舞台",
-      "onboard_time": 1768653863,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 197253,
       "num": 197253,
       "word": "交警给出27张全责交通事故图",
@@ -755,6 +787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 196421,
+      "num": 196421,
+      "word": "AG对战EDGM",
+      "onboard_time": 1768654642,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194498,
       "num": 194498,
       "word": "王鹤棣直播",
@@ -769,6 +809,14 @@
       "onboard_time": 1768645340,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193045,
+      "num": 193045,
+      "word": "U23国足vs乌兹别克斯坦",
+      "onboard_time": 1768650021,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 192715,
@@ -820,7 +868,7 @@
     },
     {
       "raw_hot": 190933,
-      "num": 123916,
+      "num": 142219,
       "word": "李嘉琦李雪琴你俩咋这么瘦了",
       "onboard_time": 1768650082,
       "rank": 21,
@@ -841,14 +889,6 @@
       "onboard_time": 1768622899,
       "rank": 20,
       "category": "演出"
-    },
-    {
-      "raw_hot": 189072,
-      "num": 189072,
-      "word": "U23国足vs乌兹别克斯坦",
-      "onboard_time": 1768650021,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 185964,
@@ -876,7 +916,7 @@
     },
     {
       "raw_hot": 181418,
-      "num": 123510,
+      "num": 160873,
       "word": "蛇缠腰取一片新鲜的仙人掌",
       "onboard_time": 1768649424,
       "rank": 22,
@@ -921,6 +961,14 @@
       "onboard_time": 1768620080,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172367,
+      "num": 172367,
+      "word": "我是证人",
+      "onboard_time": 1768652782,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 171658,
@@ -969,6 +1017,14 @@
       "onboard_time": 1768633342,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163545,
+      "num": 153585,
+      "word": "宋威龙下雪了",
+      "onboard_time": 1768655181,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 161492,
@@ -1041,14 +1097,6 @@
       "onboard_time": 1768625480,
       "rank": 30,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 153109,
-      "num": 123060,
-      "word": "棣欣引力",
-      "onboard_time": 1768654162,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 151106,
@@ -1169,14 +1217,6 @@
       "onboard_time": 1768649181,
       "rank": 31,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 140545,
-      "num": 140545,
-      "word": "毕业11年存350万的5个消费习惯",
-      "onboard_time": 1768650683,
-      "rank": 8,
-      "category": "情感"
     },
     {
       "raw_hot": 140159,
@@ -1755,14 +1795,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 101905,
-      "num": 101905,
-      "word": "我是证人",
-      "onboard_time": 1768652782,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 101853,
       "num": 101853,
       "word": "原来腹横肌才是女生瘦腰的舒适区",
@@ -1939,6 +1971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95629,
+      "num": 92445,
+      "word": "李宇春南京演唱会",
+      "onboard_time": 1768655001,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 95509,
       "num": 88139,
       "word": "迪丽热巴开年刊表现如何",
@@ -2065,6 +2105,14 @@
       "onboard_time": 1768621641,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90747,
+      "num": 90894,
+      "word": "下周冷冷冷广东冷冷冷",
+      "onboard_time": 1768654401,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90719,
@@ -2321,6 +2369,14 @@
       "onboard_time": 1768629440,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84847,
+      "num": 84847,
+      "word": "2026第一笔财是吃泡面得到的",
+      "onboard_time": 1768655061,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84746,
@@ -2603,14 +2659,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 76065,
-      "num": 90894,
-      "word": "下周冷冷冷广东冷冷冷",
-      "onboard_time": 1768654401,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 75790,
       "num": 88815,
       "word": "马斯克与瑞安航空CEO对骂",
@@ -2649,6 +2697,14 @@
       "onboard_time": 1768652001,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 72591,
+      "num": 72591,
+      "word": "宋亚轩新音vlog",
+      "onboard_time": 1768655242,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 72589,
@@ -2723,6 +2779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 70687,
+      "num": 78183,
+      "word": "北京雪天猫猫打架",
+      "onboard_time": 1768654401,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 70235,
       "num": 70235,
       "word": "宇宙闪烁请注意好笑到喷饭",
@@ -2745,6 +2809,14 @@
       "onboard_time": 1768611919,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 69028,
+      "num": 69028,
+      "word": "小月亮挂了八个小时",
+      "onboard_time": 1768654341,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68904,
@@ -2923,14 +2995,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 62879,
-      "num": 78183,
-      "word": "北京雪天猫猫打架",
-      "onboard_time": 1768654401,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 62825,
       "num": 62825,
       "word": "格林 红腰带",
@@ -3016,6 +3080,14 @@
       "word": "盗贼溜进卧室行窃老人假装熟睡避险",
       "onboard_time": 1768612820,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58077,
+      "num": 124249,
+      "word": "20岁迈巴赫车主车上贴满寻亲启事",
+      "onboard_time": 1768653740,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -3240,14 +3312,6 @@
       "word": "胖东来599元羽绒服网上卖799元",
       "onboard_time": 1768627821,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35294,
-      "num": 124249,
-      "word": "20岁迈巴赫车主车上贴满寻亲启事",
-      "onboard_time": 1768653740,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -3515,6 +3579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 14835,
+      "num": 101439,
+      "word": "十五五既要扩大出口也要适度扩大进口",
+      "onboard_time": 1768654581,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14386,
       "num": 122907,
       "word": "下周一可买春运首日火车票",
@@ -3563,6 +3635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 10855,
+      "num": 627390,
+      "word": "冰雪热力中的中国经济新脉动",
+      "onboard_time": 1768655001,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9523,
       "num": 31730,
       "word": "中国唱将",
@@ -3588,6 +3668,9 @@
     },
     {
       "word": "#习主席讲述盲人摸象故事#"
+    },
+    {
+      "word": "#总书记文章为建设现代化人民城市划重点#"
     }
   ]
 }

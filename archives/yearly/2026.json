@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768654475241,
+  "endTime": 1768655277182,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -235,6 +235,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 2064980,
+      "num": 529551,
+      "word": "王鹤棣演唱会",
+      "onboard_time": 1768652240,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 2050529,
       "num": 915099,
       "word": "日本年轻人聚众晒梅毒",
@@ -249,14 +257,6 @@
       "onboard_time": 1768480820,
       "rank": 10,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 2042173,
-      "num": 529551,
-      "word": "王鹤棣演唱会",
-      "onboard_time": 1768652240,
-      "rank": 3,
-      "category": "演出"
     },
     {
       "raw_hot": 2040173,
@@ -913,6 +913,14 @@
       "onboard_time": 1768559182,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1057257,
+      "num": 168037,
+      "word": "棣欣引力",
+      "onboard_time": 1768654162,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 1049300,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767931161,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 667978,
-      "num": 1106876,
-      "word": "携程",
-      "onboard_time": 1768378521,
-      "rank": 1,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [
