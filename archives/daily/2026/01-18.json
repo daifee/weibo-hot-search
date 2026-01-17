@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768675110073,
+  "endTime": 1768675916427,
   "band_list": [
     {
       "raw_hot": 1184745,
@@ -475,7 +475,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 29451,
+      "raw_hot": 30137,
       "num": 46454,
       "word": "下雪了林屿森",
       "onboard_time": 1768673175,
@@ -515,7 +515,23 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 10798,
+      "raw_hot": 17434,
+      "num": 44606,
+      "word": "WTT多哈球星挑战赛",
+      "onboard_time": 1768663220,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 16412,
+      "num": 44498,
+      "word": "时光大赏",
+      "onboard_time": 1768670057,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 11330,
       "num": 94348,
       "word": "冰雪热力中的中国经济新脉动",
       "onboard_time": 1768655001,
