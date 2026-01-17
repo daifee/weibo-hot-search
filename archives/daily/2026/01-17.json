@@ -1,6 +1,6 @@
 {
   "startTime": 1768581578200,
-  "endTime": 1768632855324,
+  "endTime": 1768634844846,
   "band_list": [
     {
       "raw_hot": 7482738,
@@ -27,6 +27,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 684987,
+      "num": 203819,
+      "word": "出轨被妻子道歉男子已停职",
+      "onboard_time": 1768633462,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 670797,
+      "num": 172266,
+      "word": "李佳琦回应胖了",
+      "onboard_time": 1768633102,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 664971,
       "num": 664971,
       "word": "狼队487断开连接",
@@ -35,12 +51,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 582316,
+      "num": 443686,
+      "word": "只有实习生点了大杯奶茶",
+      "onboard_time": 1768629139,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 573276,
       "num": 530395,
       "word": "推特",
       "onboard_time": 1768580059,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 555090,
+      "num": 555090,
+      "word": "郎朗看到吉娜照片放心了",
+      "onboard_time": 1768631000,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 546076,
@@ -59,14 +91,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 494983,
-      "num": 494983,
-      "word": "郎朗看到吉娜照片放心了",
-      "onboard_time": 1768631000,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 450416,
       "num": 900171,
       "word": "日本网帖煽动对高考考生性骚扰",
@@ -81,14 +105,6 @@
       "onboard_time": 1768628359,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 443686,
-      "num": 443686,
-      "word": "只有实习生点了大杯奶茶",
-      "onboard_time": 1768629139,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 422252,
@@ -139,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 375692,
+      "num": 208123,
+      "word": "王鹤棣沈月吵架",
+      "onboard_time": 1768634002,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 369004,
       "num": 845437,
       "word": "狼王格林现状",
@@ -169,6 +193,14 @@
       "onboard_time": 1768623261,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 309140,
+      "num": 203070,
+      "word": "487 老子才是老大",
+      "onboard_time": 1768631241,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 293190,
@@ -323,6 +355,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 209643,
+      "num": 209643,
+      "word": "耿村煤矿高飞被停职调查",
+      "onboard_time": 1768633882,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209591,
       "num": 209591,
       "word": "特朗普自曝暂缓打伊朗原因",
@@ -347,19 +387,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201782,
-      "num": 201782,
-      "word": "487 老子才是老大",
-      "onboard_time": 1768631241,
-      "rank": 9,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 200852,
       "num": 159176,
       "word": "白鹿春晚联排",
       "onboard_time": 1768617439,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 199657,
+      "num": 199657,
+      "word": "沈月 我不想要黄子韬",
+      "onboard_time": 1768632621,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -417,6 +457,14 @@
       "onboard_time": 1768622899,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188229,
+      "num": 188229,
+      "word": "王橹杰真人长这样",
+      "onboard_time": 1768633581,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 185964,
@@ -523,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164571,
+      "num": 164571,
+      "word": "已经到了分手双方都能理解的年纪",
+      "onboard_time": 1768633342,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161492,
       "num": 161492,
       "word": "王鹤棣和爸爸 典型中式父子关系",
@@ -555,8 +611,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157264,
+      "num": 133733,
+      "word": "被曝出轨男子已停职调查",
+      "onboard_time": 1768634362,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156894,
-      "num": 156894,
+      "num": 205945,
       "word": "狼队 体面",
       "onboard_time": 1768626200,
       "rank": 28,
@@ -643,12 +707,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141325,
+      "num": 206215,
+      "word": "487表达能力",
+      "onboard_time": 1768632861,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 139818,
       "num": 139818,
       "word": "一找工作全是研究生",
       "onboard_time": 1768629199,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 139637,
+      "num": 165336,
+      "word": "爸妈体检报告这行字很多人没看懂",
+      "onboard_time": 1768634122,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 134920,
@@ -675,6 +755,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 133694,
+      "num": 133694,
+      "word": "建议这种面包价格全国统一",
+      "onboard_time": 1768634002,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133445,
       "num": 169848,
       "word": "你用过哪些回忆杀软件",
@@ -691,12 +779,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131375,
+      "num": 131375,
+      "word": "读懂辛弃疾才懂什么是顶级意难平",
+      "onboard_time": 1768633822,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130505,
       "num": 130505,
       "word": "黄子韬哭着说对不起家人",
       "onboard_time": 1768624939,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130130,
+      "num": 130130,
+      "word": "周扬青自曝曾因头大自卑",
+      "onboard_time": 1768633520,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 129325,
@@ -724,7 +828,7 @@
     },
     {
       "raw_hot": 126933,
-      "num": 126933,
+      "num": 138289,
       "word": "长征三号乙发射失利视频",
       "onboard_time": 1768632021,
       "rank": 27,
@@ -795,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120971,
+      "num": 120971,
+      "word": "轧戏的男主们都曾从我们的世界路过",
+      "onboard_time": 1768633401,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120626,
       "num": 156371,
       "word": "金饰克价跌至1429元",
@@ -844,18 +956,18 @@
     },
     {
       "raw_hot": 114133,
-      "num": 98319,
+      "num": 125222,
       "word": "您的副驾驶正在殴打司机",
       "onboard_time": 1768630160,
       "rank": 30,
       "category": "幽默"
     },
     {
-      "raw_hot": 111847,
-      "num": 111847,
-      "word": "沈月 我不想要黄子韬",
-      "onboard_time": 1768632621,
-      "rank": 25,
+      "raw_hot": 113503,
+      "num": 113503,
+      "word": "李微漪 格林",
+      "onboard_time": 1768633462,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -947,6 +1059,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105305,
+      "num": 105305,
+      "word": "萧亚轩和林俊杰的舞台",
+      "onboard_time": 1768634241,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 104902,
+      "num": 104902,
+      "word": "丁程鑫亮相我的朋友安德烈首映",
+      "onboard_time": 1768634600,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 104816,
       "num": 104816,
       "word": "你是周翊然那他是谁",
@@ -985,6 +1113,14 @@
       "onboard_time": 1768626800,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 101263,
+      "num": 139733,
+      "word": "四川百万网红给村里捐了70盏灯",
+      "onboard_time": 1768633520,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101037,
@@ -1035,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98184,
+      "num": 116998,
+      "word": "在一个四岁小孩身上看到了优秀",
+      "onboard_time": 1768633942,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98083,
       "num": 98083,
       "word": "网红被前男友PUA导致容貌焦虑",
@@ -1057,6 +1201,14 @@
       "onboard_time": 1768621999,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 97074,
+      "num": 136893,
+      "word": "10款儿童面霜被曝违规添加",
+      "onboard_time": 1768634181,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96688,
@@ -1091,12 +1243,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93379,
+      "num": 113681,
+      "word": "drg对战estar",
+      "onboard_time": 1768634781,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 92879,
+      "num": 105634,
+      "word": "和小狗无障碍沟通是种什么体验",
+      "onboard_time": 1768634781,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92736,
       "num": 92736,
       "word": "王橹杰 雷霆甩头",
       "onboard_time": 1768630880,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91819,
+      "num": 88861,
+      "word": "第一次见男主嘴上眼里全是破绽",
+      "onboard_time": 1768633700,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 91514,
@@ -1331,6 +1507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81391,
+      "num": 88620,
+      "word": "嫣然天使儿童医院患儿家属发声",
+      "onboard_time": 1768634661,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81228,
       "num": 81228,
       "word": "追觅CEO回应被指膨胀",
@@ -1361,6 +1545,14 @@
       "onboard_time": 1768621399,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 79258,
+      "num": 88437,
+      "word": "男单前20集体缺席WTT印度站",
+      "onboard_time": 1768633222,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 78558,
@@ -2067,6 +2259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19916,
+      "num": 1017613,
+      "word": "多个新高见证中国经济硬实力",
+      "onboard_time": 1768617439,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19343,
       "num": 69003,
       "word": "薛之谦演唱会",
@@ -2104,14 +2304,6 @@
       "word": "重庆一公司因只涨薪20元致歉",
       "onboard_time": 1768632201,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16017,
-      "num": 1017613,
-      "word": "多个新高见证中国经济硬实力",
-      "onboard_time": 1768617439,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
