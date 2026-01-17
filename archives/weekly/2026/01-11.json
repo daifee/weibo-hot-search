@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768656940635,
+  "endTime": 1768657645864,
   "band_list": [
     {
       "raw_hot": 9503714,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 2901090,
-      "num": 168037,
+      "num": 187610,
       "word": "棣欣引力",
       "onboard_time": 1768654162,
       "rank": 24,
@@ -531,12 +531,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1021880,
+      "num": 1163500,
+      "word": "男子从喉咙痛到进ICU只用1小时",
+      "onboard_time": 1768654460,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1010218,
       "num": 651882,
       "word": "日本被打到七寸了",
       "onboard_time": 1768570521,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1000802,
+      "num": 200699,
+      "word": "王鹤棣大屏角色没有东方青苍",
+      "onboard_time": 1768656142,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 994109,
@@ -657,14 +673,6 @@
       "onboard_time": 1768353739,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 906534,
-      "num": 1145045,
-      "word": "男子从喉咙痛到进ICU只用1小时",
-      "onboard_time": 1768654460,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 903109,
@@ -1059,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 702652,
+      "num": 848125,
+      "word": "我是证人",
+      "onboard_time": 1768652782,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 700693,
       "num": 1112110,
       "word": "美国即将正式退出世卫组织",
@@ -1361,14 +1377,6 @@
       "onboard_time": 1768377380,
       "rank": 4,
       "category": "美食"
-    },
-    {
-      "raw_hot": 603050,
-      "num": 825540,
-      "word": "我是证人",
-      "onboard_time": 1768652782,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 601670,
@@ -3331,6 +3339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 371840,
+      "num": 196753,
+      "word": "王俊凯 退步啦刘昊然",
+      "onboard_time": 1768652602,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 371586,
       "num": 371586,
       "word": "肖战担任国乒副总教练",
@@ -3600,6 +3616,14 @@
       "word": "张凌赫用了粉丝选的头像",
       "onboard_time": 1768176740,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 352330,
+      "num": 193019,
+      "word": "宋威龙下雪了",
+      "onboard_time": 1768655181,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -4243,14 +4267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 308121,
-      "num": 174031,
-      "word": "王俊凯 退步啦刘昊然",
-      "onboard_time": 1768652602,
-      "rank": 20,
-      "category": "电影"
-    },
-    {
       "raw_hot": 307647,
       "num": 170272,
       "word": "金鸡白玉兰得主居然演短剧了",
@@ -4281,6 +4297,14 @@
       "onboard_time": 1768292662,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 305886,
+      "num": 305886,
+      "word": "家中凌晨进贼女子全程装睡",
+      "onboard_time": 1768645941,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 305566,
@@ -4336,14 +4360,6 @@
       "word": "北京下雪",
       "onboard_time": 1768388001,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 303501,
-      "num": 303501,
-      "word": "家中凌晨进贼女子全程装睡",
-      "onboard_time": 1768645941,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -4819,14 +4835,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 276097,
-      "num": 171481,
-      "word": "宋威龙下雪了",
-      "onboard_time": 1768655181,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 275969,
       "num": 275969,
       "word": "WB对战AG",
@@ -5115,6 +5123,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 264188,
+      "num": 193543,
+      "word": "穆祉丞提到了双人舞台",
+      "onboard_time": 1768653863,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262865,
       "num": 262865,
       "word": "死了么APP拟出售10%股份",
@@ -5313,14 +5329,6 @@
       "onboard_time": 1768204460,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 253848,
-      "num": 193543,
-      "word": "穆祉丞提到了双人舞台",
-      "onboard_time": 1768653863,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 253457,
@@ -5577,14 +5585,6 @@
       "onboard_time": 1768202721,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 242656,
-      "num": 165721,
-      "word": "王鹤棣大屏角色没有东方青苍",
-      "onboard_time": 1768656142,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 242585,
@@ -7641,6 +7641,14 @@
       "onboard_time": 1768305561,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187475,
+      "num": 187475,
+      "word": "星期五练习生",
+      "onboard_time": 1768656683,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 187375,
@@ -9955,6 +9963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149085,
+      "num": 149085,
+      "word": "强奸幼女被判8年医生父亲是检察官",
+      "onboard_time": 1768655361,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149011,
       "num": 149011,
       "word": "原来羽绒服可以这么洗",
@@ -10121,6 +10137,14 @@
       "onboard_time": 1768567340,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 146469,
+      "num": 115196,
+      "word": "李昊全场8次扑救",
+      "onboard_time": 1768657163,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 146425,
@@ -10595,6 +10619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140788,
+      "num": 202813,
+      "word": "贺娇龙母亲说让她静静地离开吧",
+      "onboard_time": 1768655481,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140786,
       "num": 130857,
       "word": "何晴儿子长文缅怀母亲",
@@ -10641,14 +10673,6 @@
       "onboard_time": 1768146981,
       "rank": 8,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 140429,
-      "num": 114264,
-      "word": "贺娇龙母亲说让她静静地离开吧",
-      "onboard_time": 1768655481,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140353,
@@ -10705,6 +10729,14 @@
       "onboard_time": 1768362920,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139901,
+      "num": 187814,
+      "word": "曝丈夫出轨女子已连续道歉6天",
+      "onboard_time": 1768656982,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139818,
@@ -11377,6 +11409,14 @@
       "onboard_time": 1768466899,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133577,
+      "num": 164547,
+      "word": "11万显卡中途拦截不成顺丰只肯赔运费",
+      "onboard_time": 1768656321,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133445,
@@ -13027,14 +13067,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 117856,
-      "num": 117856,
-      "word": "强奸幼女被判8年医生父亲是检察官",
-      "onboard_time": 1768655361,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 117824,
       "num": 117824,
       "word": "不让江山",
@@ -13449,6 +13481,14 @@
       "onboard_time": 1768202721,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 115167,
+      "num": 162012,
+      "word": "2026年中国将迎50万亿定存到期",
+      "onboard_time": 1768655841,
+      "rank": 19,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 115132,
@@ -14659,6 +14699,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 107373,
+      "num": 107373,
+      "word": "北京雪天猫猫打架",
+      "onboard_time": 1768654401,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107337,
       "num": 107337,
       "word": "白鹿十八宫格",
@@ -15177,6 +15225,14 @@
       "onboard_time": 1768468821,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 103841,
+      "num": 103841,
+      "word": "下周冷冷冷广东冷冷冷",
+      "onboard_time": 1768654401,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103754,
@@ -15819,14 +15875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 100087,
-      "num": 100087,
-      "word": "星期五练习生",
-      "onboard_time": 1768656683,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 99941,
       "num": 99941,
       "word": "你的渡口",
@@ -16155,14 +16203,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 98152,
-      "num": 98152,
-      "word": "下周冷冷冷广东冷冷冷",
-      "onboard_time": 1768654401,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98131,
       "num": 98131,
       "word": "上班意思一下就得了",
@@ -16315,14 +16355,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 97582,
-      "num": 97582,
-      "word": "北京雪天猫猫打架",
-      "onboard_time": 1768654401,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 97546,
       "num": 97546,
       "word": "15岁少年打人被拘称忘记过了1月1日",
@@ -16465,6 +16497,14 @@
       "onboard_time": 1768536021,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96738,
+      "num": 96738,
+      "word": "中国人用10万亿度电有多牛",
+      "onboard_time": 1768655961,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96720,
@@ -17225,6 +17265,14 @@
       "onboard_time": 1768560142,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 92835,
+      "num": 92835,
+      "word": "第1次见下雪的统一动作",
+      "onboard_time": 1768655001,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92818,
@@ -18617,14 +18665,6 @@
       "onboard_time": 1768524981,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 86413,
-      "num": 164547,
-      "word": "11万显卡中途拦截不成顺丰只肯赔运费",
-      "onboard_time": 1768656321,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86411,
@@ -20411,14 +20451,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 76066,
-      "num": 76066,
-      "word": "中国人用10万亿度电有多牛",
-      "onboard_time": 1768655961,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 75986,
       "num": 115107,
       "word": "为什么精神疾病正在年轻化",
@@ -20561,14 +20593,6 @@
       "onboard_time": 1768553480,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 74764,
-      "num": 74764,
-      "word": "第1次见下雪的统一动作",
-      "onboard_time": 1768655001,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74532,
@@ -22603,6 +22627,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 48429,
+      "num": 187623,
+      "word": "公益组织称帮扶女孩至出嫁引争议",
+      "onboard_time": 1768657041,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48343,
       "num": 92093,
       "word": "专家呼吁生娃保送大学",
@@ -22729,14 +22761,6 @@
       "onboard_time": 1768433720,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44908,
-      "num": 162012,
-      "word": "2026年中国将迎50万亿定存到期",
-      "onboard_time": 1768655841,
-      "rank": 19,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 44677,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1768657645864,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1021880,
+        "num": 1163500,
+        "word": "男子从喉咙痛到进ICU只用1小时",
+        "onboard_time": 1768654460,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 702652,
+        "num": 848125,
+        "word": "我是证人",
+        "onboard_time": 1768652782,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91431,
+        "num": 667081,
+        "word": "14亿多人用电自由是怎么做到的",
+        "onboard_time": 1768655361,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1903531,
+        "num": 493700,
+        "word": "王鹤棣演唱会",
+        "onboard_time": 1768652240,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 305886,
+        "num": 305886,
+        "word": "家中凌晨进贼女子全程装睡",
+        "onboard_time": 1768645941,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324267,
+        "num": 301946,
+        "word": "毕业11年存350万的5个消费习惯",
+        "onboard_time": 1768650683,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242202,
+        "num": 242202,
+        "word": "U23国足vs乌兹别克斯坦",
+        "onboard_time": 1768650021,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241280,
+        "num": 241280,
+        "word": "春晚",
+        "onboard_time": 1768651641,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203344,
+        "num": 203344,
+        "word": "乡村蛋糕店4寸卖10元走红",
+        "onboard_time": 1768645880,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140788,
+        "num": 202813,
+        "word": "贺娇龙母亲说让她静静地离开吧",
+        "onboard_time": 1768655481,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1000802,
+        "num": 200699,
+        "word": "王鹤棣大屏角色没有东方青苍",
+        "onboard_time": 1768656142,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 523371,
+        "num": 198652,
+        "word": "487秒删",
+        "onboard_time": 1768629321,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 521872,
+        "num": 198515,
+        "word": "帕梅拉胖了6公斤",
+        "onboard_time": 1768648160,
+        "rank": 12,
+        "category": "网红,运动健身"
+      },
+      {
+        "raw_hot": 371840,
+        "num": 196753,
+        "word": "王俊凯 退步啦刘昊然",
+        "onboard_time": 1768652602,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 308393,
+        "num": 195263,
+        "word": "榜一大哥王楚钦",
+        "onboard_time": 1768648881,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352330,
+        "num": 193019,
+        "word": "宋威龙下雪了",
+        "onboard_time": 1768655181,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264188,
+        "num": 190689,
+        "word": "穆祉丞提到了双人舞台",
+        "onboard_time": 1768653863,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190640,
+        "num": 190640,
+        "word": "7岁男孩误用燃料吃药后爸爸心碎了",
+        "onboard_time": 1768645220,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139901,
+        "num": 187814,
+        "word": "曝丈夫出轨女子已连续道歉6天",
+        "onboard_time": 1768656982,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48429,
+        "num": 187623,
+        "word": "公益组织称帮扶女孩至出嫁引争议",
+        "onboard_time": 1768657041,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1812892,
+        "num": 187610,
+        "word": "棣欣引力",
+        "onboard_time": 1768654162,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187475,
+        "num": 187475,
+        "word": "星期五练习生",
+        "onboard_time": 1768656683,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149085,
+        "num": 149085,
+        "word": "强奸幼女被判8年医生父亲是检察官",
+        "onboard_time": 1768655361,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184638,
+        "num": 141931,
+        "word": "鞠婧祎发夏天九宫格",
+        "onboard_time": 1768654521,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133577,
+        "num": 133577,
+        "word": "11万显卡中途拦截不成顺丰只肯赔运费",
+        "onboard_time": 1768656321,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124167,
+        "num": 124167,
+        "word": "东部战区发表谈话",
+        "onboard_time": 1768649424,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121185,
+        "num": 121185,
+        "word": "蛇缠腰取一片新鲜的仙人掌",
+        "onboard_time": 1768649424,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117179,
+        "num": 117179,
+        "word": "AG对战EDGM",
+        "onboard_time": 1768654642,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115513,
+        "num": 115513,
+        "word": "容城真的下雪了",
+        "onboard_time": 1768647921,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89625,
+        "num": 115205,
+        "word": "U23亚洲杯",
+        "onboard_time": 1768655542,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146469,
+        "num": 115196,
+        "word": "李昊全场8次扑救",
+        "onboard_time": 1768657163,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143020,
+        "num": 115192,
+        "word": "轧戏",
+        "onboard_time": 1768649841,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115167,
+        "num": 115167,
+        "word": "2026年中国将迎50万亿定存到期",
+        "onboard_time": 1768655841,
+        "rank": 32,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 113185,
+        "num": 113185,
+        "word": "跑男史上最强女嘉宾",
+        "onboard_time": 1768639160,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107373,
+        "num": 107373,
+        "word": "北京雪天猫猫打架",
+        "onboard_time": 1768654401,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104221,
+        "num": 104221,
+        "word": "李嘉琦李雪琴你俩咋这么瘦了",
+        "onboard_time": 1768650082,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103841,
+        "num": 103841,
+        "word": "下周冷冷冷广东冷冷冷",
+        "onboard_time": 1768654401,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101609,
+        "num": 101609,
+        "word": "iPhone最费电的3个设置",
+        "onboard_time": 1768647501,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96738,
+        "num": 96738,
+        "word": "中国人用10万亿度电有多牛",
+        "onboard_time": 1768655961,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95344,
+        "num": 95344,
+        "word": "中国芯片迎来最大IPO",
+        "onboard_time": 1768656442,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 92835,
+        "num": 92835,
+        "word": "第1次见下雪的统一动作",
+        "onboard_time": 1768655001,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91510,
+        "num": 91510,
+        "word": "韩昊霖哭戏",
+        "onboard_time": 1768655662,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91335,
+        "num": 91335,
+        "word": "快乐老友记",
+        "onboard_time": 1768645340,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90518,
+        "num": 90518,
+        "word": "两京十五日",
+        "onboard_time": 1768644441,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81526,
+        "num": 89938,
+        "word": "张本智和今天没有场外指导",
+        "onboard_time": 1768653622,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89736,
+        "num": 89736,
+        "word": "刘耀文夸杨博文是时代峰峻之光",
+        "onboard_time": 1768651341,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89037,
+        "num": 89037,
+        "word": "偶遇敖瑞鹏医院输液",
+        "onboard_time": 1768647081,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78652,
+        "num": 83926,
+        "word": "曼联vs曼城",
+        "onboard_time": 1768655601,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83148,
+        "num": 83148,
+        "word": "肖战的笑有治愈人心的力量",
+        "onboard_time": 1768656201,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80172,
+        "num": 80172,
+        "word": "程潇9年颜值变化",
+        "onboard_time": 1768647682,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记文章为建设现代化人民城市划重点#"
+    }
+  }
+}
