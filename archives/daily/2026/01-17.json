@@ -1,6 +1,6 @@
 {
   "startTime": 1768581578200,
-  "endTime": 1768639730722,
+  "endTime": 1768642143232,
   "band_list": [
     {
       "raw_hot": 7482738,
@@ -49,6 +49,14 @@
       "onboard_time": 1768625119,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 589043,
+      "num": 1094246,
+      "word": "跑男史上最强女嘉宾",
+      "onboard_time": 1768639160,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 582316,
@@ -147,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 398264,
+      "num": 168060,
+      "word": "向出轨丈夫道歉女子将提离婚诉讼",
+      "onboard_time": 1768637841,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 397335,
       "num": 210853,
       "word": "女子吞药轻生苏醒后被丈夫戳脑门",
@@ -211,6 +227,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 354028,
+      "num": 354028,
+      "word": "短剧演员忘摘道具车牌被查处",
+      "onboard_time": 1768638259,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 341744,
+      "num": 167966,
+      "word": "向出轨丈夫道歉女子称直播被封",
+      "onboard_time": 1768638081,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 337949,
+      "num": 337949,
+      "word": "贺娇龙已安葬于昭苏公墓",
+      "onboard_time": 1768640481,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 322673,
       "num": 215342,
       "word": "女子吞药后被救丈夫称你就不容易死",
@@ -267,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 278088,
+      "num": 167509,
+      "word": "46岁未婚独居女性离世后",
+      "onboard_time": 1768637541,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 272050,
       "num": 224315,
       "word": "王玉雯回复张新成发给你妈妈了",
@@ -281,14 +329,6 @@
       "onboard_time": 1768621822,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 267288,
-      "num": 145464,
-      "word": "向出轨丈夫道歉女子将提离婚诉讼",
-      "onboard_time": 1768637841,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 265577,
@@ -347,20 +387,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 237128,
+      "num": 165189,
+      "word": "吃酸奶一定要备筋膜枪",
+      "onboard_time": 1768636459,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232748,
       "num": 190041,
       "word": "为什么戴了智能手表反而睡不好",
       "onboard_time": 1768611861,
       "rank": 12,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 231108,
-      "num": 231108,
-      "word": "短剧演员忘摘道具车牌被查处",
-      "onboard_time": 1768638259,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 230461,
@@ -393,14 +433,6 @@
       "onboard_time": 1768630941,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 216949,
-      "num": 143958,
-      "word": "向出轨丈夫道歉女子称直播被封",
-      "onboard_time": 1768638081,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 212250,
@@ -459,14 +491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202711,
-      "num": 142419,
-      "word": "46岁未婚独居女性离世后",
-      "onboard_time": 1768637541,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 200852,
       "num": 159176,
       "word": "白鹿春晚联排",
@@ -505,6 +529,22 @@
       "onboard_time": 1768625240,
       "rank": 17,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 192482,
+      "num": 192482,
+      "word": "卢昱晓说自己跟胡羞很像",
+      "onboard_time": 1768641080,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 191256,
+      "num": 191256,
+      "word": "蒯曼0比3佐藤瞳",
+      "onboard_time": 1768640960,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 191201,
@@ -627,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167844,
+      "num": 167844,
+      "word": "王俊凯中传映后感言",
+      "onboard_time": 1768640900,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 166627,
       "num": 228284,
       "word": "NBA",
@@ -715,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154907,
+      "num": 154907,
+      "word": "Chovy排到Xiaohu破防",
+      "onboard_time": 1768637541,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 154451,
       "num": 211038,
       "word": "学校通报上午匿名投诉下午就被找",
@@ -785,6 +841,14 @@
       "onboard_time": 1768628960,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 141486,
+      "num": 111307,
+      "word": "入锅是蘑菇出锅变成鲍鱼",
+      "onboard_time": 1768640481,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 141434,
@@ -899,14 +963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129784,
-      "num": 129784,
-      "word": "吃酸奶一定要备筋膜枪",
-      "onboard_time": 1768636459,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 129325,
       "num": 225581,
       "word": "美国还欠2.6亿美元会费",
@@ -937,22 +993,6 @@
       "onboard_time": 1768623859,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127124,
-      "num": 127124,
-      "word": "Chovy排到Xiaohu破防",
-      "onboard_time": 1768637541,
-      "rank": 26,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 127008,
-      "num": 88776,
-      "word": "跑男史上最强女嘉宾",
-      "onboard_time": 1768639160,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 126933,
@@ -1347,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99064,
+      "num": 99064,
+      "word": "每天一个鸡蛋吃进多少营养",
+      "onboard_time": 1768641380,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 99006,
       "num": 99006,
       "word": "静音车厢列车将增至超8000列",
@@ -1403,6 +1451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 96938,
+      "num": 96938,
+      "word": "李沁现身春晚首次联排",
+      "onboard_time": 1768641801,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96688,
       "num": 125305,
       "word": "实践三十二号卫星发射失利",
@@ -1424,6 +1480,14 @@
       "word": "丁程鑫跳我是李飞的表情",
       "onboard_time": 1768631241,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 95059,
+      "num": 95059,
+      "word": "杨幂李兰迪彭昱畅本人来了都得愣两秒",
+      "onboard_time": 1768640721,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -1449,6 +1513,14 @@
       "onboard_time": 1768639160,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92947,
+      "num": 92947,
+      "word": "交警给出27张全责交通事故图",
+      "onboard_time": 1768639701,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92736,
@@ -1579,6 +1651,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 87869,
+      "num": 87869,
+      "word": "许凯全白look",
+      "onboard_time": 1768641441,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87686,
       "num": 744011,
       "word": "泡泡玛特星星人",
@@ -1635,6 +1715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 85984,
+      "num": 85984,
+      "word": "马柏全 给你们拍了张拍立得",
+      "onboard_time": 1768640661,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85569,
       "num": 69603,
       "word": "肖战感谢1124.1万名观众",
@@ -1667,6 +1755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84803,
+      "num": 84803,
+      "word": "张踩铃 张拿铁父子决裂",
+      "onboard_time": 1768642101,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 84746,
       "num": 84746,
       "word": "相亲和自谈最大的区别",
@@ -1697,6 +1793,14 @@
       "onboard_time": 1768625240,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 82519,
+      "num": 82519,
+      "word": "陈伟霆回应还没进组",
+      "onboard_time": 1768640661,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 82435,
@@ -1739,6 +1843,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81567,
+      "num": 81567,
+      "word": "张钧甯春晚路透美成这样了",
+      "onboard_time": 1768641740,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 81259,
+      "num": 81259,
+      "word": "印度小哥称中国生活质量世界第一",
+      "onboard_time": 1768640661,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 81228,
       "num": 81228,
       "word": "追觅CEO回应被指膨胀",
@@ -1763,6 +1883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 79850,
+      "num": 91001,
+      "word": "美对韩企下最后通牒",
+      "onboard_time": 1768640420,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 79639,
       "num": 79639,
       "word": "加方不再对中国电车加征100%附加税",
@@ -1779,6 +1907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78666,
+      "num": 78666,
+      "word": "周深一件衣服穿了十几年",
+      "onboard_time": 1768640239,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78558,
       "num": 78558,
       "word": "大爷被热水袋烫伤自行治疗致截肢",
@@ -1793,6 +1929,14 @@
       "onboard_time": 1768632741,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 77909,
+      "num": 77909,
+      "word": "花小龙直播抱错老婆",
+      "onboard_time": 1768641500,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 76720,
@@ -1825,6 +1969,14 @@
       "onboard_time": 1768605616,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75151,
+      "num": 71372,
+      "word": "成毅两京十五日路透",
+      "onboard_time": 1768642040,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 74402,
@@ -1867,6 +2019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71534,
+      "num": 71534,
+      "word": "中国男子在皇乐园区病倒被遗弃身亡",
+      "onboard_time": 1768640420,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71413,
       "num": 71413,
       "word": "快船vs猛龙",
@@ -1899,12 +2059,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 69743,
-      "num": 69743,
-      "word": "交警给出27张全责交通事故图",
-      "onboard_time": 1768639701,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 69912,
+      "num": 69912,
+      "word": "米兰冬奥中国军团有新夺金点",
+      "onboard_time": 1768641200,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 69200,
@@ -2009,6 +2169,14 @@
       "onboard_time": 1768613239,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67024,
+      "num": 69794,
+      "word": "罚罪2",
+      "onboard_time": 1768640300,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 66482,
@@ -2363,6 +2531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37702,
+      "num": 111406,
+      "word": "盲目施救致伤亡扩大4人窒息死亡",
+      "onboard_time": 1768641620,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35255,
       "num": 35255,
       "word": "美公司发导弹宣传片拿辽宁舰当靶子",
@@ -2409,6 +2585,14 @@
       "onboard_time": 1768605616,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 30582,
+      "num": 79655,
+      "word": "34岁男子称借57岁女友37万被拉黑",
+      "onboard_time": 1768641801,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30214,
@@ -2480,6 +2664,14 @@
       "word": "北京又飘雪了",
       "onboard_time": 1768616179,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26379,
+      "num": 645124,
+      "word": "我国外贸转向协同发力新格局",
+      "onboard_time": 1768639160,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -2585,14 +2777,6 @@
       "onboard_time": 1768567824,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 14926,
-      "num": 645124,
-      "word": "我国外贸转向协同发力新格局",
-      "onboard_time": 1768639160,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14386,

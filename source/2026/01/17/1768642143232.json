@@ -1,0 +1,410 @@
+{
+  "runTime": 1768642143232,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 589043,
+        "num": 1094246,
+        "word": "跑男史上最强女嘉宾",
+        "onboard_time": 1768639160,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383052,
+        "num": 773010,
+        "word": "新疆31岁舞蹈老师万小艳去世",
+        "onboard_time": 1768636399,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26379,
+        "num": 644031,
+        "word": "我国外贸转向协同发力新格局",
+        "onboard_time": 1768639160,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354028,
+        "num": 354028,
+        "word": "短剧演员忘摘道具车牌被查处",
+        "onboard_time": 1768638259,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337949,
+        "num": 337949,
+        "word": "贺娇龙已安葬于昭苏公墓",
+        "onboard_time": 1768640481,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256071,
+        "num": 256071,
+        "word": "只有实习生点了大杯奶茶",
+        "onboard_time": 1768629139,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205460,
+        "num": 205460,
+        "word": "免签后老外扎堆来华看病",
+        "onboard_time": 1768635442,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192482,
+        "num": 192482,
+        "word": "卢昱晓说自己跟胡羞很像",
+        "onboard_time": 1768641080,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191256,
+        "num": 191256,
+        "word": "蒯曼0比3佐藤瞳",
+        "onboard_time": 1768640960,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168137,
+        "num": 168137,
+        "word": "公积金改革大动作要来了",
+        "onboard_time": 1768613360,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1456942,
+        "num": 168071,
+        "word": "487秒删",
+        "onboard_time": 1768629321,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 398264,
+        "num": 168060,
+        "word": "向出轨丈夫道歉女子将提离婚诉讼",
+        "onboard_time": 1768637841,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341744,
+        "num": 167966,
+        "word": "向出轨丈夫道歉女子称直播被封",
+        "onboard_time": 1768638081,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167844,
+        "num": 167844,
+        "word": "王俊凯中传映后感言",
+        "onboard_time": 1768640900,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 278088,
+        "num": 167509,
+        "word": "46岁未婚独居女性离世后",
+        "onboard_time": 1768637541,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262932,
+        "num": 165599,
+        "word": "王橹杰真人长这样",
+        "onboard_time": 1768633581,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237128,
+        "num": 165189,
+        "word": "吃酸奶一定要备筋膜枪",
+        "onboard_time": 1768636459,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154907,
+        "num": 154907,
+        "word": "Chovy排到Xiaohu破防",
+        "onboard_time": 1768637541,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112458,
+        "num": 112458,
+        "word": "王鹤棣沈月吵架",
+        "onboard_time": 1768634002,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37702,
+        "num": 111406,
+        "word": "盲目施救致伤亡扩大4人窒息死亡",
+        "onboard_time": 1768641620,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141486,
+        "num": 111307,
+        "word": "入锅是蘑菇出锅变成鲍鱼",
+        "onboard_time": 1768640481,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 115243,
+        "num": 111192,
+        "word": "爸妈体检报告这行字很多人没看懂",
+        "onboard_time": 1768634122,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110885,
+        "num": 110885,
+        "word": "前六集是克制后八集是放肆",
+        "onboard_time": 1768636100,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109274,
+        "num": 109274,
+        "word": "四川百万网红给村里捐了70盏灯",
+        "onboard_time": 1768633520,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106875,
+        "num": 106875,
+        "word": "林俊杰 我们别回头",
+        "onboard_time": 1768638620,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 99064,
+        "num": 99064,
+        "word": "每天一个鸡蛋吃进多少营养",
+        "onboard_time": 1768641380,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96938,
+        "num": 96938,
+        "word": "李沁现身春晚首次联排",
+        "onboard_time": 1768641801,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95059,
+        "num": 95059,
+        "word": "杨幂李兰迪彭昱畅本人来了都得愣两秒",
+        "onboard_time": 1768640721,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92947,
+        "num": 92947,
+        "word": "交警给出27张全责交通事故图",
+        "onboard_time": 1768639701,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79850,
+        "num": 91001,
+        "word": "美对韩企下最后通牒",
+        "onboard_time": 1768640420,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90578,
+        "num": 90578,
+        "word": "女子吞药轻生苏醒后被丈夫戳脑门",
+        "onboard_time": 1768623920,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87869,
+        "num": 87869,
+        "word": "许凯全白look",
+        "onboard_time": 1768641441,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85984,
+        "num": 85984,
+        "word": "马柏全 给你们拍了张拍立得",
+        "onboard_time": 1768640661,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85328,
+        "num": 85328,
+        "word": "找到了剥橙子手不黄的方法",
+        "onboard_time": 1768637781,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84803,
+        "num": 84803,
+        "word": "张踩铃 张拿铁父子决裂",
+        "onboard_time": 1768642101,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 82519,
+        "num": 82519,
+        "word": "陈伟霆回应还没进组",
+        "onboard_time": 1768640661,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81974,
+        "num": 81974,
+        "word": "原来腹横肌才是女生瘦腰的舒适区",
+        "onboard_time": 1768633462,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 81567,
+        "num": 81567,
+        "word": "张钧甯春晚路透美成这样了",
+        "onboard_time": 1768641740,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81259,
+        "num": 81259,
+        "word": "印度小哥称中国生活质量世界第一",
+        "onboard_time": 1768640661,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 30582,
+        "num": 79655,
+        "word": "34岁男子称借57岁女友37万被拉黑",
+        "onboard_time": 1768641801,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78666,
+        "num": 78666,
+        "word": "周深一件衣服穿了十几年",
+        "onboard_time": 1768640239,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77909,
+        "num": 77909,
+        "word": "花小龙直播抱错老婆",
+        "onboard_time": 1768641500,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 325717,
+        "num": 75440,
+        "word": "李佳琦回应胖了",
+        "onboard_time": 1768633102,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 71534,
+        "num": 71534,
+        "word": "中国男子在皇乐园区病倒被遗弃身亡",
+        "onboard_time": 1768640420,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75151,
+        "num": 71372,
+        "word": "成毅两京十五日路透",
+        "onboard_time": 1768642040,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71121,
+        "num": 71121,
+        "word": "建议这种面包价格全国统一",
+        "onboard_time": 1768634002,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70368,
+        "num": 70368,
+        "word": "荣耀之战",
+        "onboard_time": 1768623740,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 69912,
+        "num": 69912,
+        "word": "米兰冬奥中国军团有新夺金点",
+        "onboard_time": 1768641200,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67024,
+        "num": 69794,
+        "word": "罚罪2",
+        "onboard_time": 1768640300,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69788,
+        "num": 69788,
+        "word": "王鹤棣画的白鹿是白色马路",
+        "onboard_time": 1768638920,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席向世界推介来自中国的机遇清单#"
+    }
+  }
+}
