@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/17 19:24:33
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/17 19:38:54
 </p>
 </blockquote>
 <p>
@@ -677,6 +677,12 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E9%95%95%E5%9C%A8%E5%8C%97%E4%BA%AC%E4%B9%B0%E4%BA%86100%E4%B8%AAlabubu%23" target="weibo">
 李在镕在北京买了100个labubu（热度：1070936）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%95%E6%A2%85%E6%8B%89%E8%83%96%E4%BA%866%E5%85%AC%E6%96%A4%23" target="weibo">
+帕梅拉胖了6公斤（热度：1063554）
 </a>
 </li>
 
@@ -2759,12 +2765,6 @@ Sakee Asen（热度：556725）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%99%E5%88%A9%E4%BA%9A%23" target="weibo">
 叙利亚（热度：544794）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B8%95%E6%A2%85%E6%8B%89%E8%83%96%E4%BA%866%E5%85%AC%E6%96%A4%23" target="weibo">
-帕梅拉胖了6公斤（热度：544434）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1768649934533,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 343384,
+        "num": 1054941,
+        "word": "乡村蛋糕店4寸卖10元走红",
+        "onboard_time": 1768645880,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308908,
+        "num": 781640,
+        "word": "容城真的下雪了",
+        "onboard_time": 1768647921,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21522,
+        "num": 618875,
+        "word": "我国外贸转向协同发力新格局",
+        "onboard_time": 1768639160,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245746,
+        "num": 245746,
+        "word": "公司因只涨薪20元致歉员工发声",
+        "onboard_time": 1768644920,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182300,
+        "num": 245723,
+        "word": "薛飞3比2张本智和",
+        "onboard_time": 1768647740,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178421,
+        "num": 245408,
+        "word": "林诗栋1比3奥恰洛夫",
+        "onboard_time": 1768646961,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154565,
+        "num": 245039,
+        "word": "只有实习生点了大杯奶茶",
+        "onboard_time": 1768629139,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139000,
+        "num": 244870,
+        "word": "家中凌晨进贼女子全程装睡",
+        "onboard_time": 1768645941,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117708,
+        "num": 244544,
+        "word": "贺娇龙已安葬于昭苏公墓",
+        "onboard_time": 1768640481,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63589,
+        "num": 244433,
+        "word": "东部战区发表谈话",
+        "onboard_time": 1768649424,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1063554,
+        "num": 244058,
+        "word": "帕梅拉胖了6公斤",
+        "onboard_time": 1768648160,
+        "rank": 10,
+        "category": "运动健身,网红"
+      },
+      {
+        "raw_hot": 796204,
+        "num": 243832,
+        "word": "487秒删",
+        "onboard_time": 1768629321,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 291396,
+        "num": 243574,
+        "word": "为什么严莉莉总是这个表情",
+        "onboard_time": 1768644800,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266799,
+        "num": 243538,
+        "word": "榜一大哥王楚钦",
+        "onboard_time": 1768648881,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223773,
+        "num": 243190,
+        "word": "盲目施救致伤亡扩大4人窒息死亡",
+        "onboard_time": 1768641620,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246748,
+        "num": 242919,
+        "word": "7岁男孩误用燃料吃药后爸爸心碎了",
+        "onboard_time": 1768645220,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242837,
+        "num": 242837,
+        "word": "王鹤棣演唱会彩排造型",
+        "onboard_time": 1768648042,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 242419,
+        "num": 242419,
+        "word": "向出轨丈夫道歉不能变成公开处刑",
+        "onboard_time": 1768648942,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235721,
+        "num": 235721,
+        "word": "女儿遭前男友杀害患癌母亲吞药轻生",
+        "onboard_time": 1768646421,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220746,
+        "num": 220746,
+        "word": "王俊凯丁程鑫电影首映礼同框",
+        "onboard_time": 1768646181,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1169321,
+        "num": 220306,
+        "word": "陈雪凝结婚了",
+        "onboard_time": 1768645041,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 121271,
+        "num": 219510,
+        "word": "马龙从容街拍",
+        "onboard_time": 1768648761,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358066,
+        "num": 218274,
+        "word": "短剧演员忘摘道具车牌被查处",
+        "onboard_time": 1768638259,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439274,
+        "num": 217137,
+        "word": "跑男史上最强女嘉宾",
+        "onboard_time": 1768639160,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399059,
+        "num": 216620,
+        "word": "张踩铃 张拿铁父子决裂",
+        "onboard_time": 1768642101,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115427,
+        "num": 215894,
+        "word": "iPhone最费电的3个设置",
+        "onboard_time": 1768647501,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267521,
+        "num": 215121,
+        "word": "偶遇敖瑞鹏医院输液",
+        "onboard_time": 1768647081,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214291,
+        "num": 214291,
+        "word": "林更新感谢成毅包场",
+        "onboard_time": 1768648280,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96700,
+        "num": 198651,
+        "word": "孙颖莎为冬奥会加油手势舞",
+        "onboard_time": 1768646721,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191574,
+        "num": 191574,
+        "word": "轧戏",
+        "onboard_time": 1768649841,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190365,
+        "num": 190365,
+        "word": "快乐老友记",
+        "onboard_time": 1768645340,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141212,
+        "num": 141212,
+        "word": "在韩国处理尸体很难的原因",
+        "onboard_time": 1768649181,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 178500,
+        "num": 139896,
+        "word": "两京十五日",
+        "onboard_time": 1768644441,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132146,
+        "num": 132146,
+        "word": "吕严 少年的脸红胜过一切言语",
+        "onboard_time": 1768644501,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88633,
+        "num": 131383,
+        "word": "解放军对美舰过航全程跟监警戒",
+        "onboard_time": 1768649900,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 45065,
+        "num": 131224,
+        "word": "10款儿童面霜被曝违规添加",
+        "onboard_time": 1768634181,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131182,
+        "num": 131182,
+        "word": "徐帆给杨紫介绍女儿",
+        "onboard_time": 1768643061,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125027,
+        "num": 125027,
+        "word": "刘宇宁 哎呦喂别怼着我",
+        "onboard_time": 1768645460,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88285,
+        "num": 88285,
+        "word": "20岁迈巴赫车主车身贴满寻亲启示",
+        "onboard_time": 1768646779,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95509,
+        "num": 88139,
+        "word": "迪丽热巴开年刊表现如何",
+        "onboard_time": 1768649302,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 91020,
+        "num": 86104,
+        "word": "程潇9年颜值变化",
+        "onboard_time": 1768647682,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83207,
+        "num": 83207,
+        "word": "北京四区发布暴雪蓝色预警",
+        "onboard_time": 1768648461,
+        "rank": 41,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 82627,
+        "num": 82627,
+        "word": "林诗栋止步16强",
+        "onboard_time": 1768648700,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81949,
+        "num": 81949,
+        "word": "46岁未婚独居女性离世后",
+        "onboard_time": 1768637541,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81444,
+        "num": 81444,
+        "word": "北京下雪带你秒回梦中的那片海",
+        "onboard_time": 1768649721,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81162,
+        "num": 81162,
+        "word": "外卖已经进化成这样了吗",
+        "onboard_time": 1768643001,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80641,
+        "num": 80641,
+        "word": "李沁现身春晚首次联排",
+        "onboard_time": 1768641801,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79921,
+        "num": 79921,
+        "word": "香港床底藏尸案最新进展",
+        "onboard_time": 1768647622,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79641,
+        "num": 79641,
+        "word": "张艺兴reaction大花轿",
+        "onboard_time": 1768646061,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 79246,
+        "num": 79246,
+        "word": "李云霄马年央视春晚联排",
+        "onboard_time": 1768649662,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席讲述盲人摸象故事#"
+    }
+  }
+}

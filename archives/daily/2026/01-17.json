@@ -1,6 +1,6 @@
 {
   "startTime": 1768581578200,
-  "endTime": 1768649073140,
+  "endTime": 1768649934533,
   "band_list": [
     {
       "raw_hot": 7482738,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 1295224,
-      "num": 143666,
+      "num": 220306,
       "word": "陈雪凝结婚了",
       "onboard_time": 1768645041,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1063554,
+      "num": 244058,
+      "word": "帕梅拉胖了6公斤",
+      "onboard_time": 1768648160,
+      "rank": 11,
+      "category": "运动健身,网红"
     },
     {
       "raw_hot": 994109,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 638792,
-      "num": 126227,
+      "num": 216620,
       "word": "张踩铃 张拿铁父子决裂",
       "onboard_time": 1768642101,
       "rank": 34,
@@ -105,14 +113,6 @@
       "onboard_time": 1768618100,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 544434,
-      "num": 176373,
-      "word": "帕梅拉胖了6公斤",
-      "onboard_time": 1768648160,
-      "rank": 11,
-      "category": "运动健身,网红"
     },
     {
       "raw_hot": 505482,
@@ -267,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 343384,
+      "num": 1054941,
+      "word": "乡村蛋糕店4寸卖10元走红",
+      "onboard_time": 1768645880,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 341744,
       "num": 167966,
       "word": "向出轨丈夫道歉女子称直播被封",
@@ -280,6 +288,14 @@
       "word": "女子吞药后被救丈夫称你就不容易死",
       "onboard_time": 1768623261,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 308908,
+      "num": 781640,
+      "word": "容城真的下雪了",
+      "onboard_time": 1768647921,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -299,14 +315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 297962,
-      "num": 758455,
-      "word": "乡村蛋糕店4寸卖10元走红",
-      "onboard_time": 1768645880,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 293190,
       "num": 199022,
       "word": "杨幂被工作人员提醒少吃点",
@@ -315,8 +323,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291396,
+      "num": 243574,
+      "word": "为什么严莉莉总是这个表情",
+      "onboard_time": 1768644800,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288932,
-      "num": 125750,
+      "num": 131182,
       "word": "徐帆给杨紫介绍女儿",
       "onboard_time": 1768643061,
       "rank": 23,
@@ -387,12 +403,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 269959,
-      "num": 175042,
-      "word": "为什么严莉莉总是这个表情",
-      "onboard_time": 1768644800,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 267521,
+      "num": 215121,
+      "word": "偶遇敖瑞鹏医院输液",
+      "onboard_time": 1768647081,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 266799,
+      "num": 243538,
+      "word": "榜一大哥王楚钦",
+      "onboard_time": 1768648881,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 265577,
@@ -444,7 +468,7 @@
     },
     {
       "raw_hot": 249426,
-      "num": 172708,
+      "num": 220746,
       "word": "王俊凯丁程鑫电影首映礼同框",
       "onboard_time": 1768646181,
       "rank": 12,
@@ -457,6 +481,38 @@
       "onboard_time": 1768644441,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246748,
+      "num": 242919,
+      "word": "7岁男孩误用燃料吃药后爸爸心碎了",
+      "onboard_time": 1768645220,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245746,
+      "num": 245746,
+      "word": "公司因只涨薪20元致歉员工发声",
+      "onboard_time": 1768644920,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 242837,
+      "num": 242837,
+      "word": "王鹤棣演唱会彩排造型",
+      "onboard_time": 1768648042,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 242419,
+      "num": 242419,
+      "word": "向出轨丈夫道歉不能变成公开处刑",
+      "onboard_time": 1768648942,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240702,
@@ -475,12 +531,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 232964,
-      "num": 125870,
-      "word": "偶遇敖瑞鹏医院输液",
-      "onboard_time": 1768647081,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 235721,
+      "num": 235721,
+      "word": "女儿遭前男友杀害患癌母亲吞药轻生",
+      "onboard_time": 1768646421,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 232748,
@@ -496,14 +552,6 @@
       "word": "女子买二手卡宴被隐瞒伤亡事故4年",
       "onboard_time": 1768617200,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 229512,
-      "num": 172210,
-      "word": "女儿遭前男友杀害患癌母亲吞药轻生",
-      "onboard_time": 1768646421,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -531,8 +579,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214291,
+      "num": 214291,
+      "word": "林更新感谢成毅包场",
+      "onboard_time": 1768648280,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 212734,
-      "num": 212734,
+      "num": 245723,
       "word": "薛飞3比2张本智和",
       "onboard_time": 1768647740,
       "rank": 5,
@@ -561,14 +617,6 @@
       "onboard_time": 1768615579,
       "rank": 6,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 210072,
-      "num": 210072,
-      "word": "容城真的下雪了",
-      "onboard_time": 1768647921,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 209591,
@@ -683,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191574,
+      "num": 755854,
+      "word": "轧戏",
+      "onboard_time": 1768560441,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191256,
       "num": 191256,
       "word": "蒯曼0比3佐藤瞳",
@@ -763,14 +819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180218,
-      "num": 180218,
-      "word": "公司因只涨薪20元致歉员工发声",
-      "onboard_time": 1768644920,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 177288,
       "num": 776040,
       "word": "加拿大将进口4.9万辆中国电车",
@@ -809,14 +857,6 @@
       "onboard_time": 1768627880,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167940,
-      "num": 755854,
-      "word": "轧戏",
-      "onboard_time": 1768560441,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 167844,
@@ -859,14 +899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 163225,
-      "num": 163225,
-      "word": "7岁男孩误用燃料吃药后爸爸心碎了",
-      "onboard_time": 1768645220,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161492,
       "num": 161492,
       "word": "王鹤棣和爸爸 典型中式父子关系",
@@ -881,14 +913,6 @@
       "onboard_time": 1768632621,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 160014,
-      "num": 160014,
-      "word": "王鹤棣演唱会彩排造型",
-      "onboard_time": 1768648042,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 158273,
@@ -964,7 +988,7 @@
     },
     {
       "raw_hot": 149131,
-      "num": 123040,
+      "num": 132146,
       "word": "吕严 少年的脸红胜过一切言语",
       "onboard_time": 1768644501,
       "rank": 27,
@@ -1003,14 +1027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144546,
-      "num": 144546,
-      "word": "林更新感谢成毅包场",
-      "onboard_time": 1768648280,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 144459,
       "num": 144459,
       "word": "檀健次的权谋你就放心吧",
@@ -1020,7 +1036,7 @@
     },
     {
       "raw_hot": 143746,
-      "num": 143746,
+      "num": 198651,
       "word": "孙颖莎为冬奥会加油手势舞",
       "onboard_time": 1768646721,
       "rank": 20,
@@ -1067,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141212,
+      "num": 141212,
+      "word": "在韩国处理尸体很难的原因",
+      "onboard_time": 1768649181,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 140159,
       "num": 125349,
       "word": "外卖已经进化成这样了吗",
@@ -1081,6 +1105,14 @@
       "onboard_time": 1768629199,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 139000,
+      "num": 244870,
+      "word": "家中凌晨进贼女子全程装睡",
+      "onboard_time": 1768645941,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137114,
@@ -1219,14 +1251,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 127157,
-      "num": 127157,
-      "word": "家中凌晨进贼女子全程装睡",
-      "onboard_time": 1768645941,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126933,
       "num": 138289,
       "word": "长征三号乙发射失利视频",
@@ -1251,8 +1275,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125027,
+      "num": 125027,
+      "word": "刘宇宁 哎呦喂别怼着我",
+      "onboard_time": 1768645460,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123769,
-      "num": 123769,
+      "num": 215894,
       "word": "iPhone最费电的3个设置",
       "onboard_time": 1768647501,
       "rank": 26,
@@ -1273,14 +1305,6 @@
       "onboard_time": 1768623740,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122954,
-      "num": 122954,
-      "word": "刘宇宁 哎呦喂别怼着我",
-      "onboard_time": 1768645460,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 122357,
@@ -1329,6 +1353,14 @@
       "onboard_time": 1768616600,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 121271,
+      "num": 219510,
+      "word": "马龙从容街拍",
+      "onboard_time": 1768648761,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 121117,
@@ -1385,14 +1417,6 @@
       "onboard_time": 1768645340,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 118175,
-      "num": 118175,
-      "word": "马龙从容街拍",
-      "onboard_time": 1768648761,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 117747,
@@ -1553,14 +1577,6 @@
       "onboard_time": 1768642341,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107808,
-      "num": 107808,
-      "word": "向出轨丈夫道歉不能变成公开处刑",
-      "onboard_time": 1768648942,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106339,
@@ -1811,6 +1827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95509,
+      "num": 88139,
+      "word": "迪丽热巴开年刊表现如何",
+      "onboard_time": 1768649302,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 95059,
       "num": 95059,
       "word": "杨幂李兰迪彭昱畅本人来了都得愣两秒",
@@ -1825,14 +1849,6 @@
       "onboard_time": 1768604776,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 95002,
-      "num": 95002,
-      "word": "榜一大哥王楚钦",
-      "onboard_time": 1768648881,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 93444,
@@ -1897,6 +1913,14 @@
       "onboard_time": 1768637720,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91020,
+      "num": 86104,
+      "word": "程潇9年颜值变化",
+      "onboard_time": 1768647682,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 90841,
@@ -1985,6 +2009,14 @@
       "onboard_time": 1768614023,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 88633,
+      "num": 131383,
+      "word": "解放军对美舰过航全程跟监警戒",
+      "onboard_time": 1768649900,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 88628,
@@ -2259,6 +2291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81444,
+      "num": 81444,
+      "word": "北京下雪带你秒回梦中的那片海",
+      "onboard_time": 1768649721,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81259,
       "num": 86567,
       "word": "印度小哥称中国生活质量世界第一",
@@ -2307,6 +2347,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 79921,
+      "num": 79921,
+      "word": "香港床底藏尸案最新进展",
+      "onboard_time": 1768647622,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79850,
       "num": 123850,
       "word": "美对韩企下最后通牒",
@@ -2329,6 +2377,14 @@
       "onboard_time": 1768633222,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79246,
+      "num": 79246,
+      "word": "李云霄马年央视春晚联排",
+      "onboard_time": 1768649662,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 79026,
@@ -2657,6 +2713,14 @@
       "onboard_time": 1768622359,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 63589,
+      "num": 244433,
+      "word": "东部战区发表谈话",
+      "onboard_time": 1768649424,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 63388,

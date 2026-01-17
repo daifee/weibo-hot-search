@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/17 19:24:33
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/17 19:38:54
 </p>
 </blockquote>
 <p>
@@ -677,6 +677,12 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E9%95%95%E5%9C%A8%E5%8C%97%E4%BA%AC%E4%B9%B0%E4%BA%86100%E4%B8%AAlabubu%23" target="weibo">
 李在镕在北京买了100个labubu（热度：1070936）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%95%E6%A2%85%E6%8B%89%E8%83%96%E4%BA%866%E5%85%AC%E6%96%A4%23" target="weibo">
+帕梅拉胖了6公斤（热度：1063554）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ A股（热度：713520）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E5%8F%88%E6%80%A5%E8%B7%8C%23" target="weibo">
 黄金又急跌（热度：667960）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23AI%E7%85%A7%E7%89%87%E7%AB%9F%E7%84%B6%E6%8B%BF%E4%BA%86%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E7%AC%AC%E4%B8%80%E5%90%8D%23" target="weibo">
-AI照片竟然拿了摄影比赛第一名（热度：667067）
 </a>
 </li>
 
