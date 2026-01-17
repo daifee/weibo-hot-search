@@ -1,6 +1,6 @@
 {
   "startTime": 1768062840322,
-  "endTime": 1768622437833,
+  "endTime": 1768624862875,
   "band_list": [
     {
       "raw_hot": 9503714,
@@ -2883,6 +2883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 397252,
+      "num": 222177,
+      "word": "苏有朋 我在上升期没有情感经历",
+      "onboard_time": 1768623261,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 395369,
       "num": 175887,
       "word": "王俊凯鞋底是红袜子",
@@ -4283,6 +4291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 288860,
+      "num": 221129,
+      "word": "iPhone面容ID不止能开锁屏",
+      "onboard_time": 1768620679,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 288570,
       "num": 235436,
       "word": "梅毒成为一种日式斩杀线",
@@ -4337,6 +4353,14 @@
       "onboard_time": 1768107020,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 281598,
+      "num": 281598,
+      "word": "宋威龙春晚带妆联排",
+      "onboard_time": 1768620380,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 281289,
@@ -4691,6 +4715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264968,
+      "num": 262267,
+      "word": "荣耀之战",
+      "onboard_time": 1768380801,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 264945,
       "num": 572736,
       "word": "辅警保住100多万哭出了声",
@@ -4793,6 +4825,14 @@
       "onboard_time": 1768138102,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258172,
+      "num": 215342,
+      "word": "女子吞药后被救丈夫称你就不容易死",
+      "onboard_time": 1768623261,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 257953,
@@ -5364,7 +5404,7 @@
     },
     {
       "raw_hot": 232748,
-      "num": 163665,
+      "num": 190041,
       "word": "为什么戴了智能手表反而睡不好",
       "onboard_time": 1768611861,
       "rank": 12,
@@ -5377,6 +5417,14 @@
       "onboard_time": 1768122380,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 231943,
+      "num": 231943,
+      "word": "大陆词语成台独网军霸凌借口",
+      "onboard_time": 1768621822,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 231686,
@@ -5593,14 +5641,6 @@
       "onboard_time": 1768393581,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 222326,
-      "num": 222326,
-      "word": "宋威龙春晚带妆联排",
-      "onboard_time": 1768620380,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 222249,
@@ -6643,6 +6683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193051,
+      "num": 193051,
+      "word": "现身春晚联排的明星",
+      "onboard_time": 1768623622,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192802,
       "num": 140411,
       "word": "国产剧拍出了女性之间的凝视",
@@ -6769,6 +6817,14 @@
       "onboard_time": 1768291641,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 191201,
+      "num": 191201,
+      "word": "田曦薇央视春晚联排",
+      "onboard_time": 1768623622,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 191060,
@@ -6913,6 +6969,14 @@
       "onboard_time": 1768481900,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189251,
+      "num": 189251,
+      "word": "荣耀之战抢票",
+      "onboard_time": 1768622899,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 189067,
@@ -7715,6 +7779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171675,
+      "num": 231839,
+      "word": "嫣然天使儿童医院十年旧床仍在使用",
+      "onboard_time": 1768620080,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171580,
       "num": 171580,
       "word": "山东省考成绩",
@@ -7961,6 +8033,14 @@
       "onboard_time": 1768307421,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 166627,
+      "num": 228284,
+      "word": "NBA",
+      "onboard_time": 1768622480,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 166348,
@@ -8256,6 +8336,14 @@
       "word": "贺娇龙称没有尽到妻子的责任义务",
       "onboard_time": 1768444339,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161106,
+      "num": 191736,
+      "word": "女子向出轨丈夫道歉当地工作组介入",
+      "onboard_time": 1768622778,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -8755,6 +8843,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 154176,
+      "num": 154176,
+      "word": "女子吞药轻生苏醒后被丈夫戳脑门",
+      "onboard_time": 1768623920,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154065,
       "num": 154065,
       "word": "A股此轮大牛市十年一遇",
@@ -8907,14 +9003,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 151403,
-      "num": 151403,
-      "word": "荣耀之战",
-      "onboard_time": 1768380801,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 151342,
       "num": 151342,
       "word": "表演艺术家陶玉玲去世",
@@ -9009,6 +9097,14 @@
       "onboard_time": 1768452442,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150082,
+      "num": 150082,
+      "word": "音综被劝退歌手靠窝囊废逆袭",
+      "onboard_time": 1768624039,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 149974,
@@ -9595,6 +9691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142837,
+      "num": 224869,
+      "word": "老一辈迎来了最严厉的老师",
+      "onboard_time": 1768624640,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142810,
       "num": 152941,
       "word": "美军机沿伊朗边界飞行",
@@ -9833,14 +9937,6 @@
       "onboard_time": 1768211420,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 139755,
-      "num": 226344,
-      "word": "嫣然天使儿童医院十年旧床仍在使用",
-      "onboard_time": 1768620080,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 139747,
@@ -12083,6 +12179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 116468,
+      "num": 116468,
+      "word": "黄晓明自曝没打过小海绵",
+      "onboard_time": 1768624220,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116437,
       "num": 116437,
       "word": "研究发现小腿肌肉多死亡率降一半",
@@ -13795,6 +13899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104805,
+      "num": 104805,
+      "word": "李昀锐首次现身春晚联排",
+      "onboard_time": 1768622539,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104689,
       "num": 104689,
       "word": "今天丽江机场被07快男承包了",
@@ -14081,6 +14193,14 @@
       "onboard_time": 1768286540,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 103050,
+      "num": 116419,
+      "word": "特朗普称明尼苏达州已完全失控",
+      "onboard_time": 1768624159,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 102965,
@@ -14947,14 +15067,6 @@
       "category": "旅游,民生新闻"
     },
     {
-      "raw_hot": 97416,
-      "num": 130713,
-      "word": "大陆词语成台独网军霸凌借口",
-      "onboard_time": 1768621822,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 97328,
       "num": 208529,
       "word": "丁程鑫想要丁程鑫得到",
@@ -15587,14 +15699,6 @@
       "category": "数码,财经"
     },
     {
-      "raw_hot": 93753,
-      "num": 126312,
-      "word": "iPhone面容ID不止能开锁屏",
-      "onboard_time": 1768620679,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 93733,
       "num": 93733,
       "word": "陆江来身世",
@@ -15673,6 +15777,14 @@
       "onboard_time": 1768365502,
       "rank": 43,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 93203,
+      "num": 93203,
+      "word": "央视揭女性兼职骗局",
+      "onboard_time": 1768623859,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93195,
@@ -16067,6 +16179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91066,
+      "num": 91066,
+      "word": "央视春晚联排雪天神图",
+      "onboard_time": 1768623679,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91056,
       "num": 91056,
       "word": "23岁抗癌女孩自己签字6次手术",
@@ -16283,6 +16403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90004,
+      "num": 191219,
+      "word": "WBG晋级总决赛",
+      "onboard_time": 1768624401,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 89872,
       "num": 94321,
       "word": "原神哥伦比娅",
@@ -16321,6 +16449,14 @@
       "onboard_time": 1768403782,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 89695,
+      "num": 89695,
+      "word": "小猫刚被救下来就被请家长",
+      "onboard_time": 1768620139,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 89580,
@@ -17355,6 +17491,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 83551,
+      "num": 83551,
+      "word": "春运",
+      "onboard_time": 1768624580,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83483,
       "num": 83483,
       "word": "潮宏基回应涨价",
@@ -18155,6 +18299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 79064,
+      "num": 79064,
+      "word": "成毅朱瞻基两套龙袍",
+      "onboard_time": 1768624820,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78951,
       "num": 82043,
       "word": "美国记者拍的中美对比视频",
@@ -18451,6 +18603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 76305,
+      "num": 76305,
+      "word": "网红被前男友PUA导致容貌焦虑",
+      "onboard_time": 1768624759,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 75986,
       "num": 115107,
       "word": "为什么精神疾病正在年轻化",
@@ -18465,14 +18625,6 @@
       "onboard_time": 1768118421,
       "rank": 46,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 75764,
-      "num": 75764,
-      "word": "小猫刚被救下来就被请家长",
-      "onboard_time": 1768620139,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 75619,
@@ -19193,6 +19345,14 @@
       "onboard_time": 1768513273,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67971,
+      "num": 67971,
+      "word": "何沐妮阿尔本订婚",
+      "onboard_time": 1768623320,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 67936,
@@ -20332,7 +20492,7 @@
     },
     {
       "raw_hot": 50315,
-      "num": 648544,
+      "num": 652592,
       "word": "务工人员春运可预约购票",
       "onboard_time": 1768617860,
       "rank": 2,
@@ -22456,6 +22616,14 @@
       "word": "青年回村让家乡变得很酷",
       "onboard_time": 1768207820,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17905,
+      "num": 80359,
+      "word": "男子抢女儿抚养权逼前妻生二胎",
+      "onboard_time": 1768624100,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

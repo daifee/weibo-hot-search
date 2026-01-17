@@ -1,6 +1,6 @@
 {
   "startTime": 1768581578200,
-  "endTime": 1768622437833,
+  "endTime": 1768624862875,
   "band_list": [
     {
       "raw_hot": 994109,
@@ -75,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 397252,
+      "num": 222177,
+      "word": "苏有朋 我在上升期没有情感经历",
+      "onboard_time": 1768623261,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 392842,
       "num": 392842,
       "word": "装死小羊身价30万主人仍不卖",
@@ -99,12 +107,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 288860,
+      "num": 221129,
+      "word": "iPhone面容ID不止能开锁屏",
+      "onboard_time": 1768620679,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 286976,
       "num": 286976,
       "word": "冰岛怒了",
       "onboard_time": 1768577063,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 281598,
+      "num": 281598,
+      "word": "宋威龙春晚带妆联排",
+      "onboard_time": 1768620380,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 279745,
@@ -128,6 +152,22 @@
       "word": "专家回应装死小羊为什么会装死",
       "onboard_time": 1768610480,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 264968,
+      "num": 262267,
+      "word": "荣耀之战",
+      "onboard_time": 1768623740,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 258172,
+      "num": 215342,
+      "word": "女子吞药后被救丈夫称你就不容易死",
+      "onboard_time": 1768623261,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -164,11 +204,19 @@
     },
     {
       "raw_hot": 232748,
-      "num": 163665,
+      "num": 190041,
       "word": "为什么戴了智能手表反而睡不好",
       "onboard_time": 1768611861,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 231943,
+      "num": 231943,
+      "word": "大陆词语成台独网军霸凌借口",
+      "onboard_time": 1768621822,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 230461,
@@ -177,14 +225,6 @@
       "onboard_time": 1768617200,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 222326,
-      "num": 222326,
-      "word": "宋威龙春晚带妆联排",
-      "onboard_time": 1768620380,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 212250,
@@ -235,12 +275,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193051,
+      "num": 193051,
+      "word": "现身春晚联排的明星",
+      "onboard_time": 1768623622,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191201,
+      "num": 191201,
+      "word": "田曦薇央视春晚联排",
+      "onboard_time": 1768623622,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190140,
       "num": 190140,
       "word": "男子在长沙街头突然昏倒后去世",
       "onboard_time": 1768575625,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189251,
+      "num": 189251,
+      "word": "荣耀之战抢票",
+      "onboard_time": 1768622899,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 185964,
@@ -283,12 +347,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171675,
+      "num": 231839,
+      "word": "嫣然天使儿童医院十年旧床仍在使用",
+      "onboard_time": 1768620080,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167940,
       "num": 755854,
       "word": "轧戏",
       "onboard_time": 1768560441,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166627,
+      "num": 228284,
+      "word": "NBA",
+      "onboard_time": 1768622480,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 166348,
@@ -307,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161106,
+      "num": 191736,
+      "word": "女子向出轨丈夫道歉当地工作组介入",
+      "onboard_time": 1768622778,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157358,
       "num": 157358,
       "word": "教师的心理健康需引起高度重视",
@@ -321,6 +409,22 @@
       "onboard_time": 1768605317,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154176,
+      "num": 154176,
+      "word": "女子吞药轻生苏醒后被丈夫戳脑门",
+      "onboard_time": 1768623920,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150082,
+      "num": 150082,
+      "word": "音综被劝退歌手靠窝囊废逆袭",
+      "onboard_time": 1768624039,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 147011,
@@ -355,12 +459,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 139755,
-      "num": 226344,
-      "word": "嫣然天使儿童医院十年旧床仍在使用",
-      "onboard_time": 1768620080,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 142837,
+      "num": 224869,
+      "word": "老一辈迎来了最严厉的老师",
+      "onboard_time": 1768624640,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 134920,
@@ -419,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122972,
+      "num": 122972,
+      "word": "御赐小仵作2",
+      "onboard_time": 1768623740,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121662,
       "num": 55538,
       "word": "向出轨丈夫道歉女子带货销售额过万",
@@ -465,6 +577,14 @@
       "onboard_time": 1768613719,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 116468,
+      "num": 116468,
+      "word": "黄晓明自曝没打过小海绵",
+      "onboard_time": 1768624220,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 114429,
@@ -531,6 +651,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104805,
+      "num": 104805,
+      "word": "李昀锐首次现身春晚联排",
+      "onboard_time": 1768622539,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 103050,
+      "num": 116419,
+      "word": "特朗普称明尼苏达州已完全失控",
+      "onboard_time": 1768624159,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 100248,
       "num": 754840,
       "word": "单依纯珠玉后继有人了",
@@ -547,20 +683,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97906,
+      "num": 92840,
+      "word": "玉茗茶骨",
+      "onboard_time": 1768622719,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97679,
       "num": 130979,
       "word": "世卫提醒美国别忘还清欠费",
       "onboard_time": 1768621999,
       "rank": 18,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 97416,
-      "num": 130713,
-      "word": "大陆词语成台独网军霸凌借口",
-      "onboard_time": 1768621822,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 96688,
@@ -587,12 +723,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 93753,
-      "num": 126312,
-      "word": "iPhone面容ID不止能开锁屏",
-      "onboard_time": 1768620679,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 93203,
+      "num": 93203,
+      "word": "央视揭女性兼职骗局",
+      "onboard_time": 1768623859,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91066,
+      "num": 91066,
+      "word": "央视春晚联排雪天神图",
+      "onboard_time": 1768623679,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 90770,
@@ -609,6 +753,22 @@
       "onboard_time": 1768618640,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90004,
+      "num": 191219,
+      "word": "WBG晋级总决赛",
+      "onboard_time": 1768624401,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 89695,
+      "num": 89695,
+      "word": "小猫刚被救下来就被请家长",
+      "onboard_time": 1768620139,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 89459,
@@ -633,6 +793,14 @@
       "onboard_time": 1768606397,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 88152,
+      "num": 88152,
+      "word": "祯娘传",
+      "onboard_time": 1768622359,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 88009,
@@ -683,6 +851,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 83551,
+      "num": 83551,
+      "word": "春运",
+      "onboard_time": 1768624580,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82435,
       "num": 112519,
       "word": "桃黑黑收到了有史以来最离谱的电动车",
@@ -723,6 +899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 79064,
+      "num": 79064,
+      "word": "成毅朱瞻基两套龙袍",
+      "onboard_time": 1768624820,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78558,
       "num": 78558,
       "word": "大爷被热水袋烫伤自行治疗致截肢",
@@ -739,12 +923,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 75764,
-      "num": 75764,
-      "word": "小猫刚被救下来就被请家长",
-      "onboard_time": 1768620139,
+      "raw_hot": 76305,
+      "num": 76305,
+      "word": "网红被前男友PUA导致容貌焦虑",
+      "onboard_time": 1768624759,
       "rank": 44,
-      "category": "幽默"
+      "category": "综艺"
     },
     {
       "raw_hot": 75611,
@@ -811,14 +995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 70728,
-      "num": 70728,
-      "word": "祯娘传",
-      "onboard_time": 1768622359,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 69200,
       "num": 69200,
       "word": "肖战救援服造型路透",
@@ -849,6 +1025,14 @@
       "onboard_time": 1768561643,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 67971,
+      "num": 67971,
+      "word": "何沐妮阿尔本订婚",
+      "onboard_time": 1768623320,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 67582,
@@ -1124,7 +1308,7 @@
     },
     {
       "raw_hot": 50315,
-      "num": 648544,
+      "num": 652592,
       "word": "务工人员春运可预约购票",
       "onboard_time": 1768617860,
       "rank": 2,
@@ -1361,6 +1545,14 @@
       "onboard_time": 1768605796,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17905,
+      "num": 80359,
+      "word": "男子抢女儿抚养权逼前妻生二胎",
+      "onboard_time": 1768624100,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15718,
