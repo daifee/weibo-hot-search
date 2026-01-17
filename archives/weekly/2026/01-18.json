@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768688888865,
+  "endTime": 1768689874653,
   "band_list": [
     {
       "raw_hot": 1184745,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 187976,
-      "num": 272679,
+      "num": 337789,
       "word": "轧戏",
       "onboard_time": 1768649841,
       "rank": 17,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 16781,
-      "num": 24024,
+      "num": 26284,
       "word": "两京十五日",
       "onboard_time": 1768644441,
       "rank": 32,
@@ -556,31 +556,31 @@
     },
     {
       "raw_hot": 12974,
-      "num": 23942,
+      "num": 26260,
       "word": "英超联赛",
       "onboard_time": 1768660462,
       "rank": 37,
       "category": "体育"
     },
     {
-      "raw_hot": 11969,
-      "num": 23950,
-      "word": "李宇春南京演唱会",
-      "onboard_time": 1768655001,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 11876,
-      "num": 23933,
+      "raw_hot": 12387,
+      "num": 26251,
       "word": "CBA",
       "onboard_time": 1768661001,
       "rank": 47,
       "category": "体育"
     },
     {
+      "raw_hot": 12187,
+      "num": 26246,
+      "word": "李宇春南京演唱会",
+      "onboard_time": 1768655001,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 11330,
-      "num": 215158,
+      "num": 281787,
       "word": "冰雪热力中的中国经济新脉动",
       "onboard_time": 1768655001,
       "rank": 2,
