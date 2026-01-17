@@ -1,6 +1,6 @@
 {
   "startTime": 1768581578200,
-  "endTime": 1768642143232,
+  "endTime": 1768642937715,
   "band_list": [
     {
       "raw_hot": 7482738,
@@ -43,20 +43,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 689927,
+      "num": 1110388,
+      "word": "跑男史上最强女嘉宾",
+      "onboard_time": 1768639160,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 664971,
       "num": 664971,
       "word": "狼队487断开连接",
       "onboard_time": 1768625119,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 589043,
-      "num": 1094246,
-      "word": "跑男史上最强女嘉宾",
-      "onboard_time": 1768639160,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 582316,
@@ -129,6 +129,14 @@
       "onboard_time": 1768631241,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 438834,
+      "num": 818396,
+      "word": "短剧演员忘摘道具车牌被查处",
+      "onboard_time": 1768638259,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 422252,
@@ -227,11 +235,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 354028,
-      "num": 354028,
-      "word": "短剧演员忘摘道具车牌被查处",
-      "onboard_time": 1768638259,
-      "rank": 30,
+      "raw_hot": 354737,
+      "num": 354737,
+      "word": "贺娇龙已安葬于昭苏公墓",
+      "onboard_time": 1768640481,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -240,14 +248,6 @@
       "word": "向出轨丈夫道歉女子称直播被封",
       "onboard_time": 1768638081,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 337949,
-      "num": 337949,
-      "word": "贺娇龙已安葬于昭苏公墓",
-      "onboard_time": 1768640481,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -377,6 +377,14 @@
       "onboard_time": 1768610780,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244007,
+      "num": 107109,
+      "word": "张踩铃 张拿铁父子决裂",
+      "onboard_time": 1768642101,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 240702,
@@ -795,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149509,
+      "num": 149509,
+      "word": "李沁现身春晚首次联排",
+      "onboard_time": 1768641801,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147011,
       "num": 112027,
       "word": "女子为生儿子拿命拼二胎再产一女",
@@ -873,6 +889,14 @@
       "onboard_time": 1768629199,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137114,
+      "num": 106122,
+      "word": "每天一个鸡蛋吃进多少营养",
+      "onboard_time": 1768641380,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 135338,
@@ -1027,6 +1051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 123187,
+      "num": 123187,
+      "word": "盲目施救致伤亡扩大4人窒息死亡",
+      "onboard_time": 1768641620,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122972,
       "num": 122972,
       "word": "御赐小仵作2",
@@ -1081,6 +1113,14 @@
       "onboard_time": 1768616600,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 121117,
+      "num": 88660,
+      "word": "整个村都知道女儿孝顺了",
+      "onboard_time": 1768642519,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 121004,
@@ -1187,11 +1227,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113458,
+      "num": 113458,
+      "word": "交警给出27张全责交通事故图",
+      "onboard_time": 1768639701,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111067,
       "num": 190093,
       "word": "陈星旭说戏里骑马一天3000",
       "onboard_time": 1768584017,
       "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 110745,
+      "num": 110745,
+      "word": "成毅两京十五日路透",
+      "onboard_time": 1768642040,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -1267,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105817,
+      "num": 105817,
+      "word": "明道上海的家是租的",
+      "onboard_time": 1768642341,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105764,
       "num": 746439,
       "word": "退休老人回应3年演200多部短剧",
@@ -1281,6 +1345,14 @@
       "onboard_time": 1768630281,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105354,
+      "num": 105354,
+      "word": "张钧甯春晚路透美成这样了",
+      "onboard_time": 1768641740,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 104816,
@@ -1387,14 +1459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 99064,
-      "num": 99064,
-      "word": "每天一个鸡蛋吃进多少营养",
-      "onboard_time": 1768641380,
-      "rank": 25,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 99006,
       "num": 99006,
       "word": "静音车厢列车将增至超8000列",
@@ -1451,14 +1515,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 96938,
-      "num": 96938,
-      "word": "李沁现身春晚首次联排",
-      "onboard_time": 1768641801,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 96688,
       "num": 125305,
       "word": "实践三十二号卫星发射失利",
@@ -1513,14 +1569,6 @@
       "onboard_time": 1768639160,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 92947,
-      "num": 92947,
-      "word": "交警给出27张全责交通事故图",
-      "onboard_time": 1768639701,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92736,
@@ -1723,6 +1771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85927,
+      "num": 85927,
+      "word": "周深一件衣服穿了十几年",
+      "onboard_time": 1768640239,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85569,
       "num": 69603,
       "word": "肖战感谢1124.1万名观众",
@@ -1755,14 +1811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 84803,
-      "num": 84803,
-      "word": "张踩铃 张拿铁父子决裂",
-      "onboard_time": 1768642101,
-      "rank": 34,
-      "category": "网红"
-    },
-    {
       "raw_hot": 84746,
       "num": 84746,
       "word": "相亲和自谈最大的区别",
@@ -1777,6 +1825,14 @@
       "onboard_time": 1768638499,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84027,
+      "num": 84027,
+      "word": "花小龙直播抱错老婆",
+      "onboard_time": 1768641500,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 83551,
@@ -1843,16 +1899,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 81567,
-      "num": 81567,
-      "word": "张钧甯春晚路透美成这样了",
-      "onboard_time": 1768641740,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 81259,
-      "num": 81259,
+      "num": 86567,
       "word": "印度小哥称中国生活质量世界第一",
       "onboard_time": 1768640661,
       "rank": 38,
@@ -1907,14 +1955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 78666,
-      "num": 78666,
-      "word": "周深一件衣服穿了十几年",
-      "onboard_time": 1768640239,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 78558,
       "num": 78558,
       "word": "大爷被热水袋烫伤自行治疗致截肢",
@@ -1931,20 +1971,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 77909,
-      "num": 77909,
-      "word": "花小龙直播抱错老婆",
-      "onboard_time": 1768641500,
-      "rank": 41,
-      "category": "网红"
-    },
-    {
       "raw_hot": 76720,
       "num": 76720,
       "word": "得闲谨制",
       "onboard_time": 1768611200,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 76257,
+      "num": 76257,
+      "word": "有的猫有力气有的猫有手段",
+      "onboard_time": 1768642222,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 75790,
@@ -1969,14 +2009,6 @@
       "onboard_time": 1768605616,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 75151,
-      "num": 71372,
-      "word": "成毅两京十五日路透",
-      "onboard_time": 1768642040,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 74402,
@@ -2033,6 +2065,14 @@
       "onboard_time": 1768620620,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70782,
+      "num": 70782,
+      "word": "娜姐重生回应出轨丈夫被停职调查",
+      "onboard_time": 1768641020,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70733,
@@ -2113,6 +2153,14 @@
       "onboard_time": 1768623320,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67920,
+      "num": 67920,
+      "word": "女生逛街的减速带",
+      "onboard_time": 1768642820,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 67725,
@@ -2531,14 +2579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37702,
-      "num": 111406,
-      "word": "盲目施救致伤亡扩大4人窒息死亡",
-      "onboard_time": 1768641620,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35255,
       "num": 35255,
       "word": "美公司发导弹宣传片拿辽宁舰当靶子",
@@ -2563,6 +2603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 32360,
+      "num": 79655,
+      "word": "34岁男子称借57岁女友37万被拉黑",
+      "onboard_time": 1768641801,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32108,
       "num": 69060,
       "word": "WTT多哈球星挑战赛",
@@ -2585,14 +2633,6 @@
       "onboard_time": 1768605616,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 30582,
-      "num": 79655,
-      "word": "34岁男子称借57岁女友37万被拉黑",
-      "onboard_time": 1768641801,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30214,
@@ -2668,7 +2708,7 @@
     },
     {
       "raw_hot": 26379,
-      "num": 645124,
+      "num": 663890,
       "word": "我国外贸转向协同发力新格局",
       "onboard_time": 1768639160,
       "rank": 2,
@@ -2713,6 +2753,14 @@
       "onboard_time": 1768568182,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24138,
+      "num": 84540,
+      "word": "BLG对战AL",
+      "onboard_time": 1768642820,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 21373,
@@ -2849,6 +2897,9 @@
     },
     {
       "word": "#习主席向世界推介来自中国的机遇清单#"
+    },
+    {
+      "word": "#习主席讲述盲人摸象故事#"
     }
   ]
 }
