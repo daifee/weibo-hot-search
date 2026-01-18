@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/18 07:41:43
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/18 10:25:11
 </p>
 </blockquote>
 <p>
@@ -1167,6 +1167,12 @@ DYG战胜狼队（热度：867183）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E6%B2%A1%E5%8F%82%E5%8A%A0%E6%98%A5%E6%99%9A%E8%81%94%E6%8E%92%23" target="weibo">
+王安宇没参加春晚联排（热度：852117）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%98%95%E4%B8%83%E5%85%AB%E5%B9%B4%E4%B8%8D%E7%9C%8B%E6%9C%8B%E5%8F%8B%E5%9C%88%23" target="weibo">
 吴昕七八年不看朋友圈（热度：848525）
 </a>
@@ -1253,6 +1259,12 @@ QQ回应沈腾空间被盗（热度：827066）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%96%B0%E7%88%86%E6%96%99%23" target="weibo">
 iPhone18Pro新爆料（热度：826962）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E6%B0%B4%E6%9E%9C%E5%8F%91%E7%8E%B0%E5%BC%82%E5%B8%B8%E6%8F%90%E9%86%92%E5%BA%97%E5%91%98%E5%90%8E%E4%B8%8D%E6%94%BE%E5%BF%83%23" target="weibo">
+买水果发现异常提醒店员后不放心（热度：826044）
 </a>
 </li>
 
@@ -1799,18 +1811,6 @@ A股（热度：713520）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%20%E9%A6%99%E5%A5%88%E5%84%BF%23" target="weibo">
 单依纯 香奈儿（热度：680805）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%9A%82%E5%81%9C%E5%AF%B975%E4%B8%AA%E5%9B%BD%E5%AE%B6%E7%9A%84%E6%89%80%E6%9C%89%E7%AD%BE%E8%AF%81%23" target="weibo">
-美国将暂停对75个国家的所有签证（热度：680062）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%93%AD%E8%AF%89%E5%B8%A62%E5%B2%81%E5%84%BF%E5%AD%90%E5%8E%BB%E5%A5%B3%E6%B5%B4%E5%AE%A4%E9%81%AD%E6%8B%92%23" target="weibo">
-女子哭诉带2岁儿子去女浴室遭拒（热度：679440）
 </a>
 </li>
 
