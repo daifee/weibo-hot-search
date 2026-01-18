@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768769060739,
+  "endTime": 1768771589530,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -60353,6 +60353,14 @@
       "onboard_time": 1767583461,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12548,
+      "num": 16620,
+      "word": "赵今麦骄阳似我庆功宴造型",
+      "onboard_time": 1768770194,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 12478,
