@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768750905156,
+  "endTime": 1768754034427,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -2577,6 +2577,14 @@
       "onboard_time": 1767493341,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 677740,
+      "num": 449211,
+      "word": "短剧演员回应为何不给婴儿打伞",
+      "onboard_time": 1768748062,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 676016,
@@ -10041,14 +10049,6 @@
       "onboard_time": 1767966801,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 309096,
-      "num": 449211,
-      "word": "短剧演员回应为何不给婴儿打伞",
-      "onboard_time": 1768748062,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 308977,
@@ -17851,6 +17851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189295,
+      "num": 274719,
+      "word": "为什么袜子洗完总是会变硬",
+      "onboard_time": 1768721720,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 189271,
       "num": 189271,
       "word": "刘宇宁今年不一定进组",
@@ -21001,6 +21009,14 @@
       "onboard_time": 1768487602,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 165166,
+      "num": 380659,
+      "word": "莱顿大学排名浙大超过哈佛",
+      "onboard_time": 1768747883,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 165055,
@@ -29211,14 +29227,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 124350,
-      "num": 124350,
-      "word": "为什么袜子洗完总是会变硬",
-      "onboard_time": 1768721720,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 124319,
       "num": 124319,
       "word": "横店群演12天挣了1721元",
@@ -30105,6 +30113,14 @@
       "onboard_time": 1768450701,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121425,
+      "num": 121425,
+      "word": "贾玲马龙许光汉同框",
+      "onboard_time": 1768751182,
+      "rank": 16,
+      "category": "作品衍生,体育"
     },
     {
       "raw_hot": 121418,
@@ -39363,14 +39379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96120,
-      "num": 380659,
-      "word": "莱顿大学排名浙大超过哈佛",
-      "onboard_time": 1768747883,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 96110,
       "num": 96110,
       "word": "李在明支持率超61%",
@@ -46267,6 +46275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81028,
+      "num": 121389,
+      "word": "朱雨玲4比2佐藤瞳",
+      "onboard_time": 1768751600,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81014,
       "num": 81014,
       "word": "冬季穿衣法则 每层都能见人",
@@ -47011,6 +47027,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 79175,
+      "num": 108912,
+      "word": "他用一世骂名护她一生周全",
+      "onboard_time": 1768751000,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 79174,
       "num": 79174,
       "word": "我讨厌打开APP我的歌就被暂停了",
@@ -47089,6 +47113,14 @@
       "onboard_time": 1768714279,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79019,
+      "num": 119521,
+      "word": "马龙清爽又亮眼",
+      "onboard_time": 1768751901,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 78979,
@@ -52739,6 +52771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 56415,
+      "num": 108887,
+      "word": "郑州做好暴雪应对准备暂无停课计划",
+      "onboard_time": 1768751480,
+      "rank": 39,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 56413,
       "num": 204756,
       "word": "2025KPL冬季转会期",
@@ -53569,6 +53609,14 @@
       "onboard_time": 1768578624,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 51482,
+      "num": 108876,
+      "word": "茶颜悦色回应在北上深开店传闻",
+      "onboard_time": 1768753700,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 51446,
@@ -54833,6 +54881,14 @@
       "onboard_time": 1767953539,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43729,
+      "num": 108847,
+      "word": "小城大事热度破27000",
+      "onboard_time": 1768752380,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 43722,

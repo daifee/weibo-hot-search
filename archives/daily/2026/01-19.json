@@ -1,0 +1,411 @@
+{
+  "startTime": 1768754034427,
+  "endTime": 1768754034427,
+  "band_list": [
+    {
+      "raw_hot": 795420,
+      "num": 268226,
+      "word": "董子健回复孙怡",
+      "onboard_time": 1768732703,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 677740,
+      "num": 117728,
+      "word": "短剧演员回应为何不给婴儿打伞",
+      "onboard_time": 1768748062,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 336932,
+      "num": 797815,
+      "word": "轧戏",
+      "onboard_time": 1768736663,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 287772,
+      "num": 287772,
+      "word": "上海外滩女子占道直播跳舞引公愤",
+      "onboard_time": 1768748422,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 278504,
+      "num": 278504,
+      "word": "梁小龙去世",
+      "onboard_time": 1768723519,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 275131,
+      "num": 275131,
+      "word": "慕容云海一张口我的青春回来了",
+      "onboard_time": 1768746564,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 266847,
+      "num": 266847,
+      "word": "吴磊工作室严正声明",
+      "onboard_time": 1768741342,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 199081,
+      "num": 588416,
+      "word": "美国童星疑闯红灯被拖行致死",
+      "onboard_time": 1768743504,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 193164,
+      "num": 117126,
+      "word": "短剧淋雨婴儿家长能接受才来",
+      "onboard_time": 1768746683,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192663,
+      "num": 116615,
+      "word": "曝杨紫每天都在很痛苦地减肥",
+      "onboard_time": 1768734922,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 189295,
+      "num": 274719,
+      "word": "为什么袜子洗完总是会变硬",
+      "onboard_time": 1768750941,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169009,
+      "num": 272087,
+      "word": "6人就餐仅花19元老板要求带走垃圾",
+      "onboard_time": 1768740081,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165166,
+      "num": 271710,
+      "word": "莱顿大学排名浙大超过哈佛",
+      "onboard_time": 1768747883,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 159943,
+      "num": 115649,
+      "word": "糖尿病前期发出的身体信号",
+      "onboard_time": 1768745783,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 157249,
+      "num": 123324,
+      "word": "oner败诉",
+      "onboard_time": 1768738701,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 153481,
+      "num": 122785,
+      "word": "微博之夜",
+      "onboard_time": 1768743863,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 149623,
+      "num": 269201,
+      "word": "香港70平米月租35000的家",
+      "onboard_time": 1768748122,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125056,
+      "num": 125056,
+      "word": "改善骨盆前倾 卧英雄式",
+      "onboard_time": 1768732282,
+      "rank": 12,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 121425,
+      "num": 121425,
+      "word": "贾玲马龙许光汉同框",
+      "onboard_time": 1768751182,
+      "rank": 16,
+      "category": "作品衍生,体育"
+    },
+    {
+      "raw_hot": 114825,
+      "num": 114825,
+      "word": "陈冠希一家洛杉矶参加婚礼",
+      "onboard_time": 1768741943,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 112510,
+      "num": 112510,
+      "word": "龙麦",
+      "onboard_time": 1768730662,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 108931,
+      "num": 108931,
+      "word": "婴儿淋雨哭到撕心裂肺谁能忍",
+      "onboard_time": 1768741763,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105615,
+      "num": 121612,
+      "word": "26岁女子两月暴瘦30斤成糖尿病前期",
+      "onboard_time": 1768740024,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104805,
+      "num": 108930,
+      "word": "肖战姜妍新剧拥抱路透",
+      "onboard_time": 1768739482,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 104702,
+      "num": 108925,
+      "word": "禁止衣冠不整入内规定已存在多年",
+      "onboard_time": 1768742483,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90772,
+      "num": 108923,
+      "word": "欢瑞世纪大跌",
+      "onboard_time": 1768735822,
+      "rank": 29,
+      "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 83469,
+      "num": 108919,
+      "word": "二十多岁其实真的很年轻",
+      "onboard_time": 1768746683,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 82765,
+      "num": 108917,
+      "word": "罗永浩于谦拒领终身成就奖",
+      "onboard_time": 1768737801,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 81028,
+      "num": 121389,
+      "word": "朱雨玲4比2佐藤瞳",
+      "onboard_time": 1768751600,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 80028,
+      "num": 120139,
+      "word": "俄罗斯一地暴雪堆出公寓楼高雪坡",
+      "onboard_time": 1768741221,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 79175,
+      "num": 108912,
+      "word": "他用一世骂名护她一生周全",
+      "onboard_time": 1768751000,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 79019,
+      "num": 119521,
+      "word": "马龙清爽又亮眼",
+      "onboard_time": 1768751901,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 76126,
+      "num": 108906,
+      "word": "贾玲马龙看秀同框",
+      "onboard_time": 1768748422,
+      "rank": 34,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 64531,
+      "num": 108898,
+      "word": "陈星旭 晚安某只装睡的兔子",
+      "onboard_time": 1768750162,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 61089,
+      "num": 108906,
+      "word": "上海龙华寺三只猫在殿内吵架",
+      "onboard_time": 1768743082,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 59318,
+      "num": 108893,
+      "word": "成毅手握多部待播剧",
+      "onboard_time": 1768743323,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 58871,
+      "num": 108897,
+      "word": "警方通报2人造谣2雄性大熊猫交配",
+      "onboard_time": 1768750881,
+      "rank": 36,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 57215,
+      "num": 108888,
+      "word": "陈冠希撞脸毛利小五郎",
+      "onboard_time": 1768746144,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 56415,
+      "num": 108887,
+      "word": "郑州做好暴雪应对准备暂无停课计划",
+      "onboard_time": 1768751480,
+      "rank": 39,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 55192,
+      "num": 108881,
+      "word": "芒果真是捡到宝了",
+      "onboard_time": 1768745844,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 51482,
+      "num": 108876,
+      "word": "茶颜悦色回应在北上深开店传闻",
+      "onboard_time": 1768753700,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 49264,
+      "num": 108873,
+      "word": "全国多地发布紧急停课通知",
+      "onboard_time": 1768731382,
+      "rank": 42,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 47770,
+      "num": 108870,
+      "word": "杨博文疯狂想象自己在游泳池之上",
+      "onboard_time": 1768750281,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 46750,
+      "num": 108868,
+      "word": "黄子韬刘耀文一起去滑雪了",
+      "onboard_time": 1768738942,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 45747,
+      "num": 108859,
+      "word": "今夕赫夕",
+      "onboard_time": 1768731563,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 45688,
+      "num": 108856,
+      "word": "轧戏男主人设",
+      "onboard_time": 1768743683,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 44113,
+      "num": 108863,
+      "word": "樊振东全英文交流无障碍",
+      "onboard_time": 1768747523,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 43729,
+      "num": 108847,
+      "word": "小城大事热度破27000",
+      "onboard_time": 1768752380,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 42312,
+      "num": 108851,
+      "word": "AL对战JDG",
+      "onboard_time": 1768739662,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 39548,
+      "num": 441794,
+      "word": "这个全球单一国家首次说明什么",
+      "onboard_time": 1768740803,
+      "rank": 2,
+      "category": "国内时政"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#这则寓言习近平多次讲起#"
+    }
+  ]
+}

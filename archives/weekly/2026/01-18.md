@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/18 00:32:47 ~ 2026/01/18 23:41:45
+本榜单时间：2026/01/18 00:32:47 ~ 2026/01/19 00:33:54
 </p>
 </blockquote>
 <p>
@@ -143,6 +143,12 @@ oner败诉（热度：838604）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%B4%E6%A6%86%E7%82%B8%E9%B8%A1%E8%85%BF%20%E6%88%91%E7%9A%84%E5%A6%BB%E5%AD%90%23" target="weibo">
 临榆炸鸡腿 我的妻子（热度：685209）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BD%95%E4%B8%8D%E7%BB%99%E5%A9%B4%E5%84%BF%E6%89%93%E4%BC%9E%23" target="weibo">
+短剧演员回应为何不给婴儿打伞（热度：677740）
 </a>
 </li>
 
@@ -473,12 +479,6 @@ B站崩了（热度：480074）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%98%9F%E9%A9%B0%E6%82%BC%E5%BF%B5%E6%A2%81%E5%B0%8F%E9%BE%99%23" target="weibo">
 周星驰悼念梁小龙（热度：312696）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BD%95%E4%B8%8D%E7%BB%99%E5%A9%B4%E5%84%BF%E6%89%93%E4%BC%9E%23" target="weibo">
-短剧演员回应为何不给婴儿打伞（热度：309096）
 </a>
 </li>
 
@@ -861,6 +861,12 @@ JDG对战KSG（热度：190567）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A2%9C%E5%AD%90%E6%B4%97%E5%AE%8C%E6%80%BB%E6%98%AF%E4%BC%9A%E5%8F%98%E7%A1%AC%23" target="weibo">
+为什么袜子洗完总是会变硬（热度：189295）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%A7%E6%88%8F%E7%94%B7%E4%B8%BB%E4%BA%BA%E8%AE%BE%23" target="weibo">
 轧戏男主人设（热度：188613）
 </a>
@@ -995,6 +1001,12 @@ AL对战JDG（热度：167087）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%E5%BA%86%E5%8A%9F%E5%AE%B4%E5%86%85%E5%9C%BA%23" target="weibo">
 骄阳似我庆功宴内场（热度：166267）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8E%B1%E9%A1%BF%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D%E6%B5%99%E5%A4%A7%E8%B6%85%E8%BF%87%E5%93%88%E4%BD%9B%23" target="weibo">
+莱顿大学排名浙大超过哈佛（热度：165166）
 </a>
 </li>
 
@@ -1353,12 +1365,6 @@ NS战胜HLE（热度：142867）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A2%9C%E5%AD%90%E6%B4%97%E5%AE%8C%E6%80%BB%E6%98%AF%E4%BC%9A%E5%8F%98%E7%A1%AC%23" target="weibo">
-为什么袜子洗完总是会变硬（热度：124350）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AD%90%E5%81%A5%E6%8B%8D%E5%87%BA%E4%BA%86%E5%88%98%E6%98%8A%E7%84%B6%E7%9A%84%E7%A0%B4%E7%A2%8E%E6%84%9F%23" target="weibo">
 董子健拍出了刘昊然的破碎感（热度：124081）
 </a>
@@ -1385,6 +1391,12 @@ NS战胜HLE（热度：142867）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%87%BA%E8%BD%A8%E4%B8%88%E5%A4%AB%E9%81%93%E6%AD%89%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%87%AA%E5%B7%B1%E5%A4%9A%E6%AC%A1%E4%BD%8F%E9%99%A2%23" target="weibo">
 向出轨丈夫道歉女子称自己多次住院（热度：121627）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E9%A9%AC%E9%BE%99%E8%AE%B8%E5%85%89%E6%B1%89%E5%90%8C%E6%A1%86%23" target="weibo">
+贾玲马龙许光汉同框（热度：121425）
 </a>
 </li>
 
@@ -1857,12 +1869,6 @@ JackeyLove队危何时归（热度：97627）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8E%B1%E9%A1%BF%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D%E6%B5%99%E5%A4%A7%E8%B6%85%E8%BF%87%E5%93%88%E4%BD%9B%23" target="weibo">
-莱顿大学排名浙大超过哈佛（热度：96120）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%80%E9%92%B1%E5%93%A5%E7%A7%92%E5%8F%98%E8%B5%94%E9%92%B1%E5%93%A5%23" target="weibo">
 退钱哥秒变赔钱哥（热度：95686）
 </a>
@@ -2211,6 +2217,12 @@ Tabe不满意野辅的发挥（热度：82635）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E9%9B%A8%E7%8E%B24%E6%AF%942%E4%BD%90%E8%97%A4%E7%9E%B3%23" target="weibo">
+朱雨玲4比2佐藤瞳（热度：81028）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%AD%E6%96%87%E8%80%81%E5%B8%88%E6%95%99%E4%BD%93%E8%82%B2%E4%B8%80%E4%B8%8B5%E4%B8%AA%E9%87%91%E7%89%8C%23" target="weibo">
 语文老师教体育一下5个金牌（热度：80743）
 </a>
@@ -2247,8 +2259,20 @@ Viper说回LPL没什么怕的（热度：80686）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E7%94%A8%E4%B8%80%E4%B8%96%E9%AA%82%E5%90%8D%E6%8A%A4%E5%A5%B9%E4%B8%80%E7%94%9F%E5%91%A8%E5%85%A8%23" target="weibo">
+他用一世骂名护她一生周全（热度：79175）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%B0%B1%E8%BF%99%E6%A0%B7%E7%9C%8B%E9%82%A3%E8%8B%B1%E7%83%AD%E9%97%B9%23" target="weibo">
 华晨宇就这样看那英热闹（热度：79019）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E6%B8%85%E7%88%BD%E5%8F%88%E4%BA%AE%E7%9C%BC%23" target="weibo">
+马龙清爽又亮眼（热度：79019）
 </a>
 </li>
 
@@ -2571,6 +2595,12 @@ U23国足主帅呼吁重视比赛安排（热度：62479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%81%9A%E5%A5%BD%E6%9A%B4%E9%9B%AA%E5%BA%94%E5%AF%B9%E5%87%86%E5%A4%87%E6%9A%82%E6%97%A0%E5%81%9C%E8%AF%BE%E8%AE%A1%E5%88%92%23" target="weibo">
+郑州做好暴雪应对准备暂无停课计划（热度：56415）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%B8%BA%E6%96%B0%E5%89%A7%E4%B8%BB%E5%8A%A8%E5%87%8F%E9%87%8D18%E6%96%A4%23" target="weibo">
 肖战为新剧主动减重18斤（热度：55378）
 </a>
@@ -2637,6 +2667,12 @@ U23国足主帅呼吁重视比赛安排（热度：62479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E5%9B%9E%E5%BA%94%E5%9C%A8%E5%8C%97%E4%B8%8A%E6%B7%B1%E5%BC%80%E5%BA%97%E4%BC%A0%E9%97%BB%23" target="weibo">
+茶颜悦色回应在北上深开店传闻（热度：51482）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2314%E4%BA%BF%E5%A4%9A%E4%BA%BA%E7%94%A8%E7%94%B5%E8%87%AA%E7%94%B1%E6%98%AF%E6%80%8E%E4%B9%88%E5%81%9A%E5%88%B0%E7%9A%84%23" target="weibo">
 14亿多人用电自由是怎么做到的（热度：50605）
 </a>
@@ -2681,6 +2717,12 @@ U23国足主帅呼吁重视比赛安排（热度：62479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E9%A9%AC%E8%85%BE%E4%BD%A0%E5%88%AB%E8%B5%B0%23" target="weibo">
 电影马腾你别走（热度：45796）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%9F%8E%E5%A4%A7%E4%BA%8B%E7%83%AD%E5%BA%A6%E7%A0%B427000%23" target="weibo">
+小城大事热度破27000（热度：43729）
 </a>
 </li>
 

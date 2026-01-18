@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768750905156,
+  "endTime": 1768754034427,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -177,6 +177,14 @@
       "onboard_time": 1768720581,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 677740,
+      "num": 449211,
+      "word": "短剧演员回应为何不给婴儿打伞",
+      "onboard_time": 1768748062,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 676016,
@@ -617,14 +625,6 @@
       "onboard_time": 1768734261,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 309096,
-      "num": 449211,
-      "word": "短剧演员回应为何不给婴儿打伞",
-      "onboard_time": 1768748062,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 307277,
@@ -1131,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189295,
+      "num": 274719,
+      "word": "为什么袜子洗完总是会变硬",
+      "onboard_time": 1768721720,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 188613,
       "num": 188613,
       "word": "轧戏男主人设",
@@ -1313,6 +1321,14 @@
       "onboard_time": 1768724421,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165166,
+      "num": 380659,
+      "word": "莱顿大学排名浙大超过哈佛",
+      "onboard_time": 1768747883,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 165055,
@@ -1787,14 +1803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124350,
-      "num": 124350,
-      "word": "为什么袜子洗完总是会变硬",
-      "onboard_time": 1768721720,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 124081,
       "num": 124081,
       "word": "董子健拍出了刘昊然的破碎感",
@@ -1833,6 +1841,14 @@
       "onboard_time": 1768708999,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121425,
+      "num": 121425,
+      "word": "贾玲马龙许光汉同框",
+      "onboard_time": 1768751182,
+      "rank": 16,
+      "category": "作品衍生,体育"
     },
     {
       "raw_hot": 120935,
@@ -2459,14 +2475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96120,
-      "num": 380659,
-      "word": "莱顿大学排名浙大超过哈佛",
-      "onboard_time": 1768747883,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 95686,
       "num": 95686,
       "word": "退钱哥秒变赔钱哥",
@@ -2931,6 +2939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81028,
+      "num": 121389,
+      "word": "朱雨玲4比2佐藤瞳",
+      "onboard_time": 1768751600,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80743,
       "num": 332155,
       "word": "语文老师教体育一下5个金牌",
@@ -2979,12 +2995,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79175,
+      "num": 108912,
+      "word": "他用一世骂名护她一生周全",
+      "onboard_time": 1768751000,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 79019,
       "num": 79019,
       "word": "华晨宇就这样看那英热闹",
       "onboard_time": 1768714279,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79019,
+      "num": 119521,
+      "word": "马龙清爽又亮眼",
+      "onboard_time": 1768751901,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 78720,
@@ -3411,6 +3443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56415,
+      "num": 108887,
+      "word": "郑州做好暴雪应对准备暂无停课计划",
+      "onboard_time": 1768751480,
+      "rank": 39,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 55378,
       "num": 71964,
       "word": "肖战为新剧主动减重18斤",
@@ -3499,6 +3539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51482,
+      "num": 108876,
+      "word": "茶颜悦色回应在北上深开店传闻",
+      "onboard_time": 1768753700,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 50605,
       "num": 456757,
       "word": "14亿多人用电自由是怎么做到的",
@@ -3561,6 +3609,14 @@
       "onboard_time": 1768667600,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 43729,
+      "num": 108847,
+      "word": "小城大事热度破27000",
+      "onboard_time": 1768752380,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 43448,
