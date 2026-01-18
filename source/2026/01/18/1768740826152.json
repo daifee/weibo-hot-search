@@ -1,0 +1,410 @@
+{
+  "runTime": 1768740826152,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 464124,
+        "num": 1074259,
+        "word": "欢瑞世纪大跌",
+        "onboard_time": 1768735822,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 262538,
+        "num": 772923,
+        "word": "内蒙古包头一厂区发生爆炸",
+        "onboard_time": 1768724962,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22281,
+        "num": 603412,
+        "word": "神21乘组太空Vlog上新",
+        "onboard_time": 1768740202,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 752340,
+        "num": 513024,
+        "word": "梁小龙去世",
+        "onboard_time": 1768723519,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392880,
+        "num": 392880,
+        "word": "肖战姜妍新剧拥抱路透",
+        "onboard_time": 1768739482,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323620,
+        "num": 323620,
+        "word": "6元4寸蛋糕店因订单太多暂停营业",
+        "onboard_time": 1768727120,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260599,
+        "num": 260599,
+        "word": "轧戏",
+        "onboard_time": 1768736663,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258794,
+        "num": 258794,
+        "word": "国乒包揽多哈站男单冠亚军",
+        "onboard_time": 1768736421,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195137,
+        "num": 256682,
+        "word": "来华免签变成来华就医",
+        "onboard_time": 1768731621,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187634,
+        "num": 247608,
+        "word": "6人就餐仅花19元老板要求带走垃圾",
+        "onboard_time": 1768740081,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1765303,
+        "num": 244052,
+        "word": "董子健回复孙怡",
+        "onboard_time": 1768732703,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 912248,
+        "num": 239278,
+        "word": "曝杨紫每天都在很痛苦地减肥",
+        "onboard_time": 1768734922,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235356,
+        "num": 235356,
+        "word": "改善骨盆前倾 卧英雄式",
+        "onboard_time": 1768732282,
+        "rank": 12,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 838604,
+        "num": 203414,
+        "word": "oner败诉",
+        "onboard_time": 1768738701,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 574856,
+        "num": 193787,
+        "word": "罗永浩于谦拒领终身成就奖",
+        "onboard_time": 1768737801,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156103,
+        "num": 156103,
+        "word": "刘文祥麻辣拌 点单配方",
+        "onboard_time": 1768726581,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 552419,
+        "num": 153165,
+        "word": "章昊开通微博",
+        "onboard_time": 1768739062,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146510,
+        "num": 146510,
+        "word": "梁王组合印度赛夺冠",
+        "onboard_time": 1768737743,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122122,
+        "num": 146082,
+        "word": "26岁女子两月暴瘦30斤成糖尿病前期",
+        "onboard_time": 1768740024,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62376,
+        "num": 143207,
+        "word": "小龙虾中的爱马仕每公斤400元",
+        "onboard_time": 1768740024,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348664,
+        "num": 141747,
+        "word": "龙麦",
+        "onboard_time": 1768730662,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267065,
+        "num": 141044,
+        "word": "今夕赫夕",
+        "onboard_time": 1768731563,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177835,
+        "num": 137642,
+        "word": "手链扔火炉女子灰烬中找回48颗金珠",
+        "onboard_time": 1768735882,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110256,
+        "num": 137124,
+        "word": "包钢板材厂爆炸致2死5失联66送医",
+        "onboard_time": 1768736602,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 235988,
+        "num": 133866,
+        "word": "男女主沙发吻完办公桌吻",
+        "onboard_time": 1768738642,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195640,
+        "num": 133093,
+        "word": "彭小苒 我救了你一命",
+        "onboard_time": 1768740141,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132018,
+        "num": 132018,
+        "word": "全国多地发布紧急停课通知",
+        "onboard_time": 1768731382,
+        "rank": 26,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 194302,
+        "num": 131960,
+        "word": "周星驰悼念梁小龙",
+        "onboard_time": 1768734261,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157897,
+        "num": 131898,
+        "word": "赵今麦庆功宴出图了",
+        "onboard_time": 1768732462,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131601,
+        "num": 131601,
+        "word": "仙逆",
+        "onboard_time": 1768732883,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 153366,
+        "num": 131464,
+        "word": "御赐小仵作2狐尼克景",
+        "onboard_time": 1768738462,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136916,
+        "num": 131382,
+        "word": "黄子韬刘耀文一起去滑雪了",
+        "onboard_time": 1768738942,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119049,
+        "num": 131338,
+        "word": "被米兰随性悠游的马龙帅到了",
+        "onboard_time": 1768740262,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131295,
+        "num": 131295,
+        "word": "梁小龙离世前一天还与友人聚会",
+        "onboard_time": 1768733482,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125763,
+        "num": 125763,
+        "word": "赵今麦第一章大佬回国",
+        "onboard_time": 1768736962,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117408,
+        "num": 117408,
+        "word": "河南多地因极端暴雪停课",
+        "onboard_time": 1768737384,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116638,
+        "num": 116638,
+        "word": "王楚钦2025年度话题人物第三",
+        "onboard_time": 1768739002,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114503,
+        "num": 114503,
+        "word": "骄阳似我庆功宴",
+        "onboard_time": 1768712779,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112173,
+        "num": 112173,
+        "word": "包头包钢一厂区爆炸事发监控画面",
+        "onboard_time": 1768737743,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110632,
+        "num": 110632,
+        "word": "林大小姐到底要撒娇多少次",
+        "onboard_time": 1768738042,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108668,
+        "num": 108668,
+        "word": "干香菇鲜香菇哪个更好吃",
+        "onboard_time": 1768739362,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 103686,
+        "num": 103686,
+        "word": "声鸣远扬",
+        "onboard_time": 1768739903,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101710,
+        "num": 101710,
+        "word": "成毅和欢瑞合同到期",
+        "onboard_time": 1768720880,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98914,
+        "num": 100537,
+        "word": "T1对战DRX",
+        "onboard_time": 1768740141,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99924,
+        "num": 99924,
+        "word": "王一博挺不上镜的",
+        "onboard_time": 1768725741,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99884,
+        "num": 99884,
+        "word": "沈月银河精灵",
+        "onboard_time": 1768735162,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98811,
+        "num": 98811,
+        "word": "AL对战JDG",
+        "onboard_time": 1768739662,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98447,
+        "num": 98447,
+        "word": "何与跑山预告",
+        "onboard_time": 1768740503,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94673,
+        "num": 94673,
+        "word": "农贸市场回应禁止衣冠不整入内",
+        "onboard_time": 1768738942,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93593,
+        "num": 93593,
+        "word": "JackeyLove队危何时归",
+        "onboard_time": 1768740682,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#这则寓言习近平多次讲起#"
+    }
+  }
+}

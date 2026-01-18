@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768736308318,
+  "endTime": 1768740826152,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -369,6 +369,14 @@
       "onboard_time": 1767426205,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1765303,
+      "num": 246254,
+      "word": "董子健回复孙怡",
+      "onboard_time": 1768732703,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1754609,
@@ -1011,14 +1019,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 1040123,
-      "num": 246254,
-      "word": "董子健回复孙怡",
-      "onboard_time": 1768732703,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1039734,
       "num": 427640,
       "word": "河南一教师与学生发生不正当关系",
@@ -1403,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 912248,
+      "num": 239278,
+      "word": "曝杨紫每天都在很痛苦地减肥",
+      "onboard_time": 1768734922,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 910443,
       "num": 174135,
       "word": "王广删博",
@@ -1472,14 +1480,6 @@
       "word": "陈楚河承认恋情",
       "onboard_time": 1768273340,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 884768,
-      "num": 199184,
-      "word": "曝杨紫每天都在很痛苦地减肥",
-      "onboard_time": 1768734922,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -1649,6 +1649,14 @@
       "onboard_time": 1767663142,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 838604,
+      "num": 203414,
+      "word": "oner败诉",
+      "onboard_time": 1768738701,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 835368,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767619281,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 702652,
-      "num": 848125,
-      "word": "我是证人",
-      "onboard_time": 1768652782,
-      "rank": 33,
-      "category": "电影"
     }
   ],
   "hotgov_list": [

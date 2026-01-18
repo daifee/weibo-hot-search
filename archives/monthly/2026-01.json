@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768736308318,
+  "endTime": 1768740826152,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -369,6 +369,14 @@
       "onboard_time": 1767426205,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1765303,
+      "num": 246254,
+      "word": "董子健回复孙怡",
+      "onboard_time": 1768732703,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1754609,
@@ -1011,14 +1019,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 1040123,
-      "num": 246254,
-      "word": "董子健回复孙怡",
-      "onboard_time": 1768732703,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1039734,
       "num": 427640,
       "word": "河南一教师与学生发生不正当关系",
@@ -1403,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 912248,
+      "num": 239278,
+      "word": "曝杨紫每天都在很痛苦地减肥",
+      "onboard_time": 1768734922,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 910443,
       "num": 174135,
       "word": "王广删博",
@@ -1472,14 +1480,6 @@
       "word": "陈楚河承认恋情",
       "onboard_time": 1768273340,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 884768,
-      "num": 199184,
-      "word": "曝杨紫每天都在很痛苦地减肥",
-      "onboard_time": 1768734922,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -1649,6 +1649,14 @@
       "onboard_time": 1767663142,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 838604,
+      "num": 203414,
+      "word": "oner败诉",
+      "onboard_time": 1768738701,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 835368,
@@ -3563,6 +3571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 574856,
+      "num": 193787,
+      "word": "罗永浩于谦拒领终身成就奖",
+      "onboard_time": 1768737801,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 574191,
       "num": 574191,
       "word": "武大靖官宣退役",
@@ -3913,6 +3929,14 @@
       "onboard_time": 1768094480,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 552419,
+      "num": 153165,
+      "word": "章昊开通微博",
+      "onboard_time": 1768739062,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 552265,
@@ -5529,6 +5553,14 @@
       "onboard_time": 1768373180,
       "rank": 24,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 464124,
+      "num": 1074259,
+      "word": "欢瑞世纪大跌",
+      "onboard_time": 1768735822,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 463917,
@@ -7177,6 +7209,14 @@
       "onboard_time": 1768212441,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 392880,
+      "num": 392880,
+      "word": "肖战姜妍新剧拥抱路透",
+      "onboard_time": 1768739482,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 392842,
@@ -12283,6 +12323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 258794,
+      "num": 258794,
+      "word": "国乒包揽多哈站男单冠亚军",
+      "onboard_time": 1768736421,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 258336,
       "num": 410600,
       "word": "17岁少年虚假退货薅羊毛骗了400万",
@@ -13401,6 +13449,14 @@
       "onboard_time": 1768386080,
       "rank": 26,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 235988,
+      "num": 133866,
+      "word": "男女主沙发吻完办公桌吻",
+      "onboard_time": 1768738642,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 235792,
@@ -14753,14 +14809,6 @@
       "onboard_time": 1767603322,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215605,
-      "num": 174882,
-      "word": "欢瑞世纪大跌",
-      "onboard_time": 1768735822,
-      "rank": 21,
-      "category": "财经"
     },
     {
       "raw_hot": 215582,
@@ -16659,6 +16707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195640,
+      "num": 133093,
+      "word": "彭小苒 我救了你一命",
+      "onboard_time": 1768740141,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195623,
       "num": 317715,
       "word": "雀巢中国已按要求实施奶粉召回",
@@ -17817,6 +17873,14 @@
       "onboard_time": 1768732523,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187634,
+      "num": 247608,
+      "word": "6人就餐仅花19元老板要求带走垃圾",
+      "onboard_time": 1768740081,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187542,
@@ -19113,6 +19177,14 @@
       "onboard_time": 1768393760,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177835,
+      "num": 159848,
+      "word": "手链扔火炉女子灰烬中找回48颗金珠",
+      "onboard_time": 1768735882,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177793,
@@ -22539,6 +22611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153366,
+      "num": 131464,
+      "word": "御赐小仵作2狐尼克景",
+      "onboard_time": 1768738462,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153278,
       "num": 175248,
       "word": "庄序结局",
@@ -23761,6 +23841,14 @@
       "onboard_time": 1768452741,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146510,
+      "num": 146510,
+      "word": "梁王组合印度赛夺冠",
+      "onboard_time": 1768737743,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 146472,
@@ -25729,6 +25817,14 @@
       "onboard_time": 1768015580,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136916,
+      "num": 131382,
+      "word": "黄子韬刘耀文一起去滑雪了",
+      "onboard_time": 1768738942,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 136837,
@@ -28531,6 +28627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125763,
+      "num": 125763,
+      "word": "赵今麦第一章大佬回国",
+      "onboard_time": 1768736962,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125718,
       "num": 125718,
       "word": "周杰伦 你以为我不想",
@@ -29291,14 +29395,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 122711,
-      "num": 159848,
-      "word": "手链扔火炉女子灰烬中找回48颗金珠",
-      "onboard_time": 1768735882,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122667,
       "num": 135603,
       "word": "丁程鑫化妆技术战绩可查",
@@ -29496,6 +29592,14 @@
       "word": "女子3天闪婚收20万彩礼拒同居",
       "onboard_time": 1768020680,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122122,
+      "num": 146082,
+      "word": "26岁女子两月暴瘦30斤成糖尿病前期",
+      "onboard_time": 1768740024,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -30395,6 +30499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119049,
+      "num": 131338,
+      "word": "被米兰随性悠游的马龙帅到了",
+      "onboard_time": 1768740262,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119022,
       "num": 119022,
       "word": "中国递烟大爷在外网好火",
@@ -30851,6 +30963,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117408,
+      "num": 117408,
+      "word": "河南多地因极端暴雪停课",
+      "onboard_time": 1768737384,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117362,
       "num": 148132,
       "word": "新生儿被剪断手指助产士已停职",
@@ -31121,6 +31241,14 @@
       "onboard_time": 1767681802,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 116638,
+      "num": 116638,
+      "word": "王楚钦2025年度话题人物第三",
+      "onboard_time": 1768739002,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 116606,
@@ -32627,6 +32755,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 112173,
+      "num": 112173,
+      "word": "包头包钢一厂区爆炸事发监控画面",
+      "onboard_time": 1768737743,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112138,
       "num": 111199,
       "word": "梁淞再见爱人5收官发文",
@@ -32963,6 +33099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 110632,
+      "num": 110632,
+      "word": "林大小姐到底要撒娇多少次",
+      "onboard_time": 1768738042,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110620,
       "num": 115879,
       "word": "内娱现偶带着格局杀回来了",
@@ -33105,6 +33249,14 @@
       "onboard_time": 1768174458,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110256,
+      "num": 137124,
+      "word": "包钢板材厂爆炸致2死5失联66送医",
+      "onboard_time": 1768736602,
+      "rank": 23,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 110249,
@@ -33593,6 +33745,14 @@
       "onboard_time": 1768472360,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 108668,
+      "num": 108668,
+      "word": "干香菇鲜香菇哪个更好吃",
+      "onboard_time": 1768739362,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 108607,
@@ -35449,6 +35609,14 @@
       "onboard_time": 1768660584,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103686,
+      "num": 103686,
+      "word": "声鸣远扬",
+      "onboard_time": 1767530663,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 103677,
@@ -37459,6 +37627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98914,
+      "num": 100537,
+      "word": "T1对战DRX",
+      "onboard_time": 1768740141,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 98909,
       "num": 1395472,
       "word": "浙江卫视 好明显的开麦",
@@ -37537,6 +37713,14 @@
       "onboard_time": 1768260739,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98811,
+      "num": 98811,
+      "word": "AL对战JDG",
+      "onboard_time": 1768739662,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 98789,
@@ -37641,6 +37825,14 @@
       "onboard_time": 1767337819,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 98447,
+      "num": 98447,
+      "word": "何与跑山预告",
+      "onboard_time": 1768740503,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 98416,
@@ -39451,6 +39643,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 94673,
+      "num": 94673,
+      "word": "农贸市场回应禁止衣冠不整入内",
+      "onboard_time": 1768738942,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94669,
       "num": 94669,
       "word": "买东西 隐形家务",
@@ -39961,6 +40161,14 @@
       "onboard_time": 1768706000,
       "rank": 40,
       "category": "互联网,体育"
+    },
+    {
+      "raw_hot": 93593,
+      "num": 93593,
+      "word": "JackeyLove队危何时归",
+      "onboard_time": 1768740682,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 93587,
@@ -41905,14 +42113,6 @@
       "onboard_time": 1767683840,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 89289,
-      "num": 89289,
-      "word": "声鸣远扬",
-      "onboard_time": 1767530663,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 89235,
@@ -50971,6 +51171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62376,
+      "num": 143207,
+      "word": "小龙虾中的爱马仕每公斤400元",
+      "onboard_time": 1768740024,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62373,
       "num": 616463,
       "word": "致敬110致敬人民警察",
@@ -58139,6 +58347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 22281,
+      "num": 603412,
+      "word": "神21乘组太空Vlog上新",
+      "onboard_time": 1768740202,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 22224,
       "num": 96527,
       "word": "有西贝闭店员工称关闭是因租金到期",
@@ -59991,6 +60207,9 @@
     },
     {
       "word": "#城市归根结底是人民的城市#"
+    },
+    {
+      "word": "#这则寓言习近平多次讲起#"
     }
   ]
 }
