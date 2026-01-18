@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768718472046,
+  "endTime": 1768719276479,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -4267,6 +4267,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 519970,
+      "num": 519970,
+      "word": "临榆炸鸡腿",
+      "onboard_time": 1768718239,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 519731,
       "num": 251632,
       "word": "七七第一部戏",
@@ -6289,6 +6297,14 @@
       "onboard_time": 1767846561,
       "rank": 5,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 426139,
+      "num": 426139,
+      "word": "短剧淋雨婴儿片酬仅800元",
+      "onboard_time": 1768717940,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 425343,
@@ -10788,7 +10804,7 @@
     },
     {
       "raw_hot": 280621,
-      "num": 114473,
+      "num": 143095,
       "word": "孟子义第一个综艺",
       "onboard_time": 1768715659,
       "rank": 20,
@@ -11155,14 +11171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 274682,
-      "num": 274682,
-      "word": "短剧淋雨婴儿片酬仅800元",
-      "onboard_time": 1768717940,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 274651,
       "num": 272900,
       "word": "特朗普因格陵兰岛向欧洲8国加税",
@@ -11241,6 +11249,14 @@
       "onboard_time": 1767343699,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 272530,
+      "num": 227066,
+      "word": "王鹤棣听到倒闭的反应",
+      "onboard_time": 1768714822,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 272479,
@@ -11385,14 +11401,6 @@
       "onboard_time": 1767944240,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 269803,
-      "num": 227066,
-      "word": "王鹤棣听到倒闭的反应",
-      "onboard_time": 1768714822,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 269384,
@@ -15723,6 +15731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200785,
+      "num": 126670,
+      "word": "早安是把付辛博骗来的吗",
+      "onboard_time": 1768718119,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200636,
       "num": 1030868,
       "word": "王鹤棣 都别找我借钱",
@@ -16977,6 +16993,14 @@
       "onboard_time": 1767254419,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190883,
+      "num": 125010,
+      "word": "牛骏峰 以为是跨界结果是老本行",
+      "onboard_time": 1768718840,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 190777,
@@ -22908,7 +22932,7 @@
     },
     {
       "raw_hot": 148104,
-      "num": 113870,
+      "num": 124613,
       "word": "7岁女童3个月猛蹿4cm确诊性早熟",
       "onboard_time": 1768717038,
       "rank": 24,
@@ -26609,6 +26633,14 @@
       "onboard_time": 1768192101,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130749,
+      "num": 130749,
+      "word": "苹果关东煮",
+      "onboard_time": 1768716319,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 130668,
@@ -31155,20 +31187,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 114365,
+      "num": 114365,
+      "word": "牛仔裤是体重最诚实的秤",
+      "onboard_time": 1768718840,
+      "rank": 27,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 114359,
       "num": 139320,
       "word": "苏翊鸣米兰冬奥会目标",
       "onboard_time": 1768036700,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114324,
-      "num": 114324,
-      "word": "苹果关东煮",
-      "onboard_time": 1768716319,
-      "rank": 23,
-      "category": "美食"
     },
     {
       "raw_hot": 114313,
@@ -32393,14 +32425,6 @@
       "onboard_time": 1768174458,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110258,
-      "num": 105993,
-      "word": "早安是把付辛博骗来的吗",
-      "onboard_time": 1768718119,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 110249,
@@ -36379,6 +36403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99570,
+      "num": 99570,
+      "word": "苹果是减肥控糖友好型水果",
+      "onboard_time": 1768713259,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 99545,
       "num": 99545,
       "word": "这就是LPL",
@@ -40043,6 +40075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91337,
+      "num": 91337,
+      "word": "适合中长发的简单发型",
+      "onboard_time": 1768717999,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 91309,
       "num": 224882,
       "word": "AI大模型上市第一股",
@@ -40857,14 +40897,6 @@
       "onboard_time": 1768554680,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 89566,
-      "num": 89566,
-      "word": "苹果是减肥控糖友好型水果",
-      "onboard_time": 1768713259,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 89563,
@@ -42211,14 +42243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 86651,
-      "num": 86651,
-      "word": "临榆炸鸡腿",
-      "onboard_time": 1768718239,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 86638,
       "num": 520292,
       "word": "瑞士爆炸遇难者朋友称现场像恐怖片",
@@ -43411,14 +43435,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 83959,
-      "num": 83959,
-      "word": "适合中长发的简单发型",
-      "onboard_time": 1768717999,
-      "rank": 35,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 83954,
       "num": 116677,
       "word": "村里专门给柚子铺了60多条铁轨",
@@ -44067,6 +44083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82247,
+      "num": 82247,
+      "word": "银行员工称买哭哭马摆在工位",
+      "onboard_time": 1768714940,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82241,
       "num": 82241,
       "word": "美报告罕见承认中国电子战有优势",
@@ -44659,14 +44683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80869,
-      "num": 80869,
-      "word": "银行员工称买哭哭马摆在工位",
-      "onboard_time": 1768714940,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80863,
       "num": 80863,
       "word": "美国宣称扣押奥利娜油轮",
@@ -45217,6 +45233,14 @@
       "onboard_time": 1768541721,
       "rank": 47,
       "category": "汽车,民生新闻"
+    },
+    {
+      "raw_hot": 79496,
+      "num": 79496,
+      "word": "小猫把路睡塌了",
+      "onboard_time": 1768716199,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 79495,
@@ -46347,6 +46371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76056,
+      "num": 76056,
+      "word": "卢昱晓说陈星旭本人不太装",
+      "onboard_time": 1768717759,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75986,
       "num": 115107,
       "word": "为什么精神疾病正在年轻化",
@@ -46611,14 +46643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75122,
-      "num": 75122,
-      "word": "卢昱晓说陈星旭本人不太装",
-      "onboard_time": 1768717759,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 75115,
       "num": 192066,
       "word": "王者cp喜结连理",
@@ -46744,6 +46768,14 @@
       "word": "让1天变3天的邪修方法",
       "onboard_time": 1767613223,
       "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 74732,
+      "num": 74732,
+      "word": "颁奖礼已经进化成这样了吗",
+      "onboard_time": 1768718899,
+      "rank": 39,
       "category": "幽默"
     },
     {
@@ -47043,6 +47075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73813,
+      "num": 73813,
+      "word": "谷爱凌我自己翻译自己",
+      "onboard_time": 1768717700,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73812,
       "num": 73812,
       "word": "这是用芝麻馅当洗手液了",
@@ -47121,14 +47161,6 @@
       "onboard_time": 1767326900,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73625,
-      "num": 73625,
-      "word": "小猫把路睡塌了",
-      "onboard_time": 1768716199,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 73609,
@@ -47659,6 +47691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 70978,
+      "num": 70978,
+      "word": "爆水管",
+      "onboard_time": 1768718780,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 70920,
       "num": 124477,
       "word": "香港人组团买房涌入大湾区",
@@ -47939,6 +47979,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 70193,
+      "num": 70193,
+      "word": "iPhone被忽略的电话功能",
+      "onboard_time": 1768719020,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 70183,
       "num": 218920,
       "word": "李冰冰回家",
@@ -48033,14 +48081,6 @@
       "onboard_time": 1768189941,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69689,
-      "num": 69689,
-      "word": "谷爱凌我自己翻译自己",
-      "onboard_time": 1768717700,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 69681,
@@ -48553,6 +48593,14 @@
       "onboard_time": 1768626140,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 67602,
+      "num": 67602,
+      "word": "为什么说不要长期待在地下车库",
+      "onboard_time": 1768718840,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 67582,
