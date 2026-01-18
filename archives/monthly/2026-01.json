@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768721267076,
+  "endTime": 1768722059106,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -219,6 +219,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 2304718,
+      "num": 617901,
+      "word": "临榆炸鸡腿",
+      "onboard_time": 1768718239,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 2285482,
       "num": 2285482,
       "word": "马年纪念币预约",
@@ -249,14 +257,6 @@
       "onboard_time": 1768556180,
       "rank": 3,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 2098042,
-      "num": 617901,
-      "word": "临榆炸鸡腿",
-      "onboard_time": 1768718239,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 2064980,
@@ -1947,6 +1947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 772814,
+      "num": 1123650,
+      "word": "短剧淋雨婴儿片酬仅800元",
+      "onboard_time": 1768717940,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 772222,
       "num": 182707,
       "word": "何存真退网",
@@ -2385,14 +2393,6 @@
       "onboard_time": 1768278022,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 695599,
-      "num": 1111295,
-      "word": "短剧淋雨婴儿片酬仅800元",
-      "onboard_time": 1768717940,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 695485,
@@ -5347,6 +5347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 467200,
+      "num": 200004,
+      "word": "成毅和欢瑞合同到期",
+      "onboard_time": 1768720880,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 467140,
       "num": 124156,
       "word": "王安宇",
@@ -6849,6 +6857,14 @@
       "onboard_time": 1767876381,
       "rank": 33,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 400705,
+      "num": 400705,
+      "word": "2025百大UP主名单",
+      "onboard_time": 1768720940,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 400686,
@@ -9467,6 +9483,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 315670,
+      "num": 315670,
+      "word": "苹果关东煮",
+      "onboard_time": 1768716319,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 315624,
       "num": 784724,
       "word": "小城大事生万物首日收视率对比",
@@ -10099,14 +10123,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 300535,
-      "num": 300535,
-      "word": "苹果关东煮",
-      "onboard_time": 1768716319,
-      "rank": 23,
-      "category": "美食"
-    },
-    {
       "raw_hot": 300332,
       "num": 300332,
       "word": "公积金制度会怎么改",
@@ -10417,6 +10433,14 @@
       "onboard_time": 1767689960,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291740,
+      "num": 195078,
+      "word": "包头震感",
+      "onboard_time": 1768721060,
+      "rank": 30,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 291737,
@@ -11553,14 +11577,6 @@
       "onboard_time": 1767595161,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 267006,
-      "num": 110505,
-      "word": "包头震感",
-      "onboard_time": 1768721060,
-      "rank": 30,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 266985,
@@ -14891,14 +14907,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 209711,
-      "num": 176529,
-      "word": "成毅和欢瑞合同到期",
-      "onboard_time": 1768720880,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 209662,
       "num": 629412,
       "word": "新一届国乒教练员竞聘结果公示结束",
@@ -15673,6 +15681,14 @@
       "onboard_time": 1767583281,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201807,
+      "num": 201807,
+      "word": "临榆炸鸡腿 我的妻子",
+      "onboard_time": 1768720581,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 201797,
@@ -17475,6 +17491,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 187355,
+      "num": 187355,
+      "word": "刘宇宁出镜了但出镜了",
+      "onboard_time": 1768720999,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187267,
       "num": 153536,
       "word": "穆祉丞更新",
@@ -17969,14 +17993,6 @@
       "onboard_time": 1768692255,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 183969,
-      "num": 183969,
-      "word": "2025百大UP主名单",
-      "onboard_time": 1768720940,
-      "rank": 8,
-      "category": "互联网"
     },
     {
       "raw_hot": 183906,
@@ -24459,6 +24475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140524,
+      "num": 140524,
+      "word": "婴儿淋雨拍短剧",
+      "onboard_time": 1768720819,
+      "rank": 21,
+      "category": "民生新闻,剧集"
+    },
+    {
       "raw_hot": 140496,
       "num": 963921,
       "word": "美国节目谈斩杀线",
@@ -24801,14 +24825,6 @@
       "onboard_time": 1767414988,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139218,
-      "num": 139218,
-      "word": "婴儿淋雨拍短剧",
-      "onboard_time": 1768720819,
-      "rank": 21,
-      "category": "民生新闻,剧集"
     },
     {
       "raw_hot": 139213,
@@ -25257,14 +25273,6 @@
       "onboard_time": 1767693441,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 136679,
-      "num": 136679,
-      "word": "刘宇宁出镜了但出镜了",
-      "onboard_time": 1768720999,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 136654,
@@ -26827,6 +26835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130071,
+      "num": 175102,
+      "word": "孩子洗澡时浴霸突然起火冒烟",
+      "onboard_time": 1768719560,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130004,
       "num": 130004,
       "word": "侯明昊 首辅权臣有了脸",
@@ -26929,14 +26945,6 @@
       "onboard_time": 1767605840,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 129588,
-      "num": 175102,
-      "word": "孩子洗澡时浴霸突然起火冒烟",
-      "onboard_time": 1768719560,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129547,
@@ -30747,14 +30755,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 115843,
-      "num": 109180,
-      "word": "临榆炸鸡腿 我的妻子",
-      "onboard_time": 1768720581,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 115797,
       "num": 115797,
       "word": "张子枫演技",
@@ -31377,6 +31377,14 @@
       "onboard_time": 1768307661,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114070,
+      "num": 110379,
+      "word": "为什么袜子洗完总是会变硬",
+      "onboard_time": 1768721720,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 114045,
@@ -34409,6 +34417,14 @@
       "onboard_time": 1767782903,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104723,
+      "num": 104723,
+      "word": "为什么说不要长期待在地下车库",
+      "onboard_time": 1768718840,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 104689,
@@ -37721,14 +37737,6 @@
       "onboard_time": 1768659923,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96963,
-      "num": 96963,
-      "word": "为什么说不要长期待在地下车库",
-      "onboard_time": 1768718840,
-      "rank": 47,
-      "category": "科学科普"
     },
     {
       "raw_hot": 96929,
@@ -42203,6 +42211,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 87056,
+      "num": 87056,
+      "word": "小猫把路睡塌了",
+      "onboard_time": 1768716199,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87035,
       "num": 87035,
       "word": "贾国龙还能救西贝吗",
@@ -42881,14 +42897,6 @@
       "onboard_time": 1768663342,
       "rank": 40,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 85714,
-      "num": 85714,
-      "word": "小猫把路睡塌了",
-      "onboard_time": 1768716199,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 85707,
@@ -46931,6 +46939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 74690,
+      "num": 74690,
+      "word": "用空气炸锅烘佛手柑香薰",
+      "onboard_time": 1768721841,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 74686,
       "num": 224872,
       "word": "2026年有33天假期",
@@ -48011,6 +48027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 70447,
+      "num": 102316,
+      "word": "北京下雪萌兰变身糖霜小熊",
+      "onboard_time": 1768721900,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70422,
       "num": 179924,
       "word": "周瑜峡谷第一赘婿",
@@ -48176,6 +48200,14 @@
       "word": "米兰冬奥中国军团有新夺金点",
       "onboard_time": 1768641200,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 69886,
+      "num": 74541,
+      "word": "樊振东莫雷加德合影",
+      "onboard_time": 1768719319,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -51299,6 +51331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 55611,
+      "num": 98984,
+      "word": "虞书欣云初令琉璃清冷",
+      "onboard_time": 1768721360,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55545,
       "num": 94300,
       "word": "90年代的刘亦菲",
@@ -51569,6 +51609,14 @@
       "onboard_time": 1768360940,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 53594,
+      "num": 172699,
+      "word": "飞机票什么时候误购可以免费退票",
+      "onboard_time": 1768720759,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53542,
@@ -52555,6 +52603,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 47699,
+      "num": 98993,
+      "word": "张凌赫初中就有梦女粉和黑粉了",
+      "onboard_time": 1768721960,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47658,
       "num": 130734,
       "word": "民政局副局长黑手伸向老年人",
@@ -52873,6 +52929,14 @@
       "onboard_time": 1767323300,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 45877,
+      "num": 653672,
+      "word": "周某摆拍女儿50元换名酒被行政处罚",
+      "onboard_time": 1768721720,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45873,
@@ -56672,14 +56736,6 @@
       "word": "律师向法官提供AI编造的案例",
       "onboard_time": 1768470440,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25129,
-      "num": 172699,
-      "word": "飞机票什么时候误购可以免费退票",
-      "onboard_time": 1768720759,
-      "rank": 18,
       "category": "民生新闻"
     },
     {

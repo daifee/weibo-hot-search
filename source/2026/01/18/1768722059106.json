@@ -1,0 +1,410 @@
+{
+  "runTime": 1768722059106,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 772814,
+        "num": 1123650,
+        "word": "短剧淋雨婴儿片酬仅800元",
+        "onboard_time": 1768717940,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 438294,
+        "num": 799273,
+        "word": "12306购票页面出现雪字",
+        "onboard_time": 1768712420,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45877,
+        "num": 653672,
+        "word": "周某摆拍女儿50元换名酒被行政处罚",
+        "onboard_time": 1768721720,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2304718,
+        "num": 589437,
+        "word": "临榆炸鸡腿",
+        "onboard_time": 1768718239,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 472935,
+        "num": 472935,
+        "word": "骄阳似我庆功宴",
+        "onboard_time": 1768712779,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 400705,
+        "num": 400705,
+        "word": "2025百大UP主名单",
+        "onboard_time": 1768720940,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 360269,
+        "num": 360269,
+        "word": "为什么酒店床上要放四个枕头",
+        "onboard_time": 1768708880,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 315670,
+        "num": 315670,
+        "word": "苹果关东煮",
+        "onboard_time": 1768716319,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 247863,
+        "num": 247863,
+        "word": "短剧演员吐槽剧组让孩子一直淋雨",
+        "onboard_time": 1768713080,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201807,
+        "num": 201807,
+        "word": "临榆炸鸡腿 我的妻子",
+        "onboard_time": 1768720581,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 467200,
+        "num": 200004,
+        "word": "成毅和欢瑞合同到期",
+        "onboard_time": 1768720880,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315493,
+        "num": 197605,
+        "word": "王一博紧张到忘记喊落冰",
+        "onboard_time": 1768716319,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291740,
+        "num": 195078,
+        "word": "包头震感",
+        "onboard_time": 1768721060,
+        "rank": 12,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 245285,
+        "num": 192554,
+        "word": "外国母亲看人体展览发现儿子遗体",
+        "onboard_time": 1768715120,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 192471,
+        "num": 192471,
+        "word": "嫣然医院 唇腭裂治疗",
+        "onboard_time": 1768708700,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187416,
+        "num": 187416,
+        "word": "骄阳似我庆功宴是婚礼的场地",
+        "onboard_time": 1768713980,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187355,
+        "num": 187355,
+        "word": "刘宇宁出镜了但出镜了",
+        "onboard_time": 1768720999,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130071,
+        "num": 173089,
+        "word": "孩子洗澡时浴霸突然起火冒烟",
+        "onboard_time": 1768719560,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160183,
+        "num": 160183,
+        "word": "赵樱子称孟子义上综艺要感谢她",
+        "onboard_time": 1768711161,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112484,
+        "num": 159353,
+        "word": "北京鹅毛大雪",
+        "onboard_time": 1768699639,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158707,
+        "num": 158707,
+        "word": "陈星旭王玉雯吻戏",
+        "onboard_time": 1768709840,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156453,
+        "num": 156453,
+        "word": "骄阳似我",
+        "onboard_time": 1768714822,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140524,
+        "num": 140524,
+        "word": "婴儿淋雨拍短剧",
+        "onboard_time": 1768720819,
+        "rank": 22,
+        "category": "民生新闻,剧集"
+      },
+      {
+        "raw_hot": 136129,
+        "num": 136129,
+        "word": "王鹤棣听到倒闭的反应",
+        "onboard_time": 1768714822,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108384,
+        "num": 131542,
+        "word": "买水果发现异常提醒店员后不放心",
+        "onboard_time": 1768701199,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41563,
+        "num": 130081,
+        "word": "圣坛组合2026年第二冠",
+        "onboard_time": 1768720819,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129067,
+        "num": 129067,
+        "word": "孟子义第一个综艺",
+        "onboard_time": 1768715659,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122007,
+        "num": 122007,
+        "word": "JDG对战KSG",
+        "onboard_time": 1768720399,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112362,
+        "num": 112362,
+        "word": "太平年",
+        "onboard_time": 1768706059,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53594,
+        "num": 110399,
+        "word": "飞机票什么时候误购可以免费退票",
+        "onboard_time": 1768720759,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114070,
+        "num": 110379,
+        "word": "为什么袜子洗完总是会变硬",
+        "onboard_time": 1768721720,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 109319,
+        "num": 109319,
+        "word": "李亚鹏直播带货一晚卖出超千万",
+        "onboard_time": 1768710680,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104723,
+        "num": 104723,
+        "word": "为什么说不要长期待在地下车库",
+        "onboard_time": 1768718840,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 102773,
+        "num": 102773,
+        "word": "7岁女童3个月猛蹿4cm确诊性早熟",
+        "onboard_time": 1768717038,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70447,
+        "num": 102316,
+        "word": "北京下雪萌兰变身糖霜小熊",
+        "onboard_time": 1768721900,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101954,
+        "num": 101954,
+        "word": "成毅长安二十四计优酷招商年冠",
+        "onboard_time": 1768720640,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26854,
+        "num": 100392,
+        "word": "10万亿度电背后是中国澎湃的能量",
+        "onboard_time": 1768705399,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99320,
+        "num": 99320,
+        "word": "河南的暴雪还下吗",
+        "onboard_time": 1768709840,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47699,
+        "num": 98993,
+        "word": "张凌赫初中就有梦女粉和黑粉了",
+        "onboard_time": 1768721960,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55611,
+        "num": 98984,
+        "word": "虞书欣云初令琉璃清冷",
+        "onboard_time": 1768721360,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98979,
+        "num": 98979,
+        "word": "适合中长发的简单发型",
+        "onboard_time": 1768717999,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 89528,
+        "num": 89528,
+        "word": "牛仔裤是体重最诚实的秤",
+        "onboard_time": 1768718840,
+        "rank": 41,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 87056,
+        "num": 87056,
+        "word": "小猫把路睡塌了",
+        "onboard_time": 1768716199,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84141,
+        "num": 84141,
+        "word": "不知道 咪的身材很曼妙",
+        "onboard_time": 1768720219,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81383,
+        "num": 81383,
+        "word": "牛骏峰 以为是跨界结果是老本行",
+        "onboard_time": 1768718840,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81215,
+        "num": 81215,
+        "word": "欧美学历贬值特别快的原因是什么",
+        "onboard_time": 1768719560,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 77003,
+        "num": 77003,
+        "word": "王安宇杂志",
+        "onboard_time": 1768713439,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 75408,
+        "num": 75408,
+        "word": "香港床底藏尸案凶手连宠物也没放过",
+        "onboard_time": 1768707678,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74690,
+        "num": 74690,
+        "word": "用空气炸锅烘佛手柑香薰",
+        "onboard_time": 1768721841,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69886,
+        "num": 74541,
+        "word": "樊振东莫雷加德合影",
+        "onboard_time": 1768719319,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#城市归根结底是人民的城市#"
+    }
+  }
+}

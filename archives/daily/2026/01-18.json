@@ -1,9 +1,9 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768721267076,
+  "endTime": 1768722059106,
   "band_list": [
     {
-      "raw_hot": 2098042,
+      "raw_hot": 2304718,
       "num": 617901,
       "word": "临榆炸鸡腿",
       "onboard_time": 1768718239,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 772814,
+      "num": 1123650,
+      "word": "短剧淋雨婴儿片酬仅800元",
+      "onboard_time": 1768717940,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 772222,
       "num": 182707,
       "word": "何存真退网",
@@ -73,14 +81,6 @@
       "onboard_time": 1768699639,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 695599,
-      "num": 1111295,
-      "word": "短剧淋雨婴儿片酬仅800元",
-      "onboard_time": 1768717940,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 654030,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 467200,
+      "num": 200004,
+      "word": "成毅和欢瑞合同到期",
+      "onboard_time": 1768720880,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 466145,
       "num": 139500,
       "word": "汪海林曝保剑锋未接女友电话被捅伤",
@@ -193,6 +201,14 @@
       "onboard_time": 1768694658,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 400705,
+      "num": 400705,
+      "word": "2025百大UP主名单",
+      "onboard_time": 1768720940,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 389409,
@@ -259,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 315670,
+      "num": 315670,
+      "word": "苹果关东煮",
+      "onboard_time": 1768716319,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 307277,
       "num": 307277,
       "word": "卸妆油洗头",
@@ -275,14 +299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 300535,
-      "num": 300535,
-      "word": "苹果关东煮",
-      "onboard_time": 1768716319,
-      "rank": 23,
-      "category": "美食"
-    },
-    {
       "raw_hot": 294861,
       "num": 294861,
       "word": "白鹿李昀锐田曦薇宋威龙 春晚合唱",
@@ -297,6 +313,14 @@
       "onboard_time": 1768659743,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 291740,
+      "num": 195078,
+      "word": "包头震感",
+      "onboard_time": 1768721060,
+      "rank": 30,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 280621,
@@ -329,14 +353,6 @@
       "onboard_time": 1768714822,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 267006,
-      "num": 110505,
-      "word": "包头震感",
-      "onboard_time": 1768721060,
-      "rank": 30,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 259373,
@@ -443,14 +459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209711,
-      "num": 176529,
-      "word": "成毅和欢瑞合同到期",
-      "onboard_time": 1768720880,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205873,
       "num": 134916,
       "word": "粉丝找祝绪丹要红包",
@@ -473,6 +481,14 @@
       "onboard_time": 1768702339,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201807,
+      "num": 201807,
+      "word": "临榆炸鸡腿 我的妻子",
+      "onboard_time": 1768720581,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 200785,
@@ -547,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187355,
+      "num": 187355,
+      "word": "刘宇宁出镜了但出镜了",
+      "onboard_time": 1768720999,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185506,
       "num": 170455,
       "word": "陈星旭演技",
@@ -569,14 +593,6 @@
       "onboard_time": 1768692255,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 183969,
-      "num": 183969,
-      "word": "2025百大UP主名单",
-      "onboard_time": 1768720940,
-      "rank": 8,
-      "category": "互联网"
     },
     {
       "raw_hot": 183484,
@@ -659,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156453,
+      "num": 156453,
+      "word": "骄阳似我",
+      "onboard_time": 1768714822,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152060,
       "num": 146884,
       "word": "财务看演唱会通病",
@@ -723,28 +747,20 @@
       "category": "网红,运动健身"
     },
     {
-      "raw_hot": 140343,
-      "num": 113591,
-      "word": "徐怀钰现身张韶涵厦门演唱会",
-      "onboard_time": 1768717099,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 139218,
-      "num": 139218,
+      "raw_hot": 140524,
+      "num": 140524,
       "word": "婴儿淋雨拍短剧",
       "onboard_time": 1768720819,
       "rank": 21,
       "category": "民生新闻,剧集"
     },
     {
-      "raw_hot": 136679,
-      "num": 136679,
-      "word": "刘宇宁出镜了但出镜了",
-      "onboard_time": 1768720999,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 140343,
+      "num": 113591,
+      "word": "徐怀钰现身张韶涵厦门演唱会",
+      "onboard_time": 1768717099,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 134951,
@@ -787,7 +803,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 129588,
+      "raw_hot": 130071,
       "num": 175102,
       "word": "孩子洗澡时浴霸突然起火冒烟",
       "onboard_time": 1768719560,
@@ -931,14 +947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115843,
-      "num": 109180,
-      "word": "临榆炸鸡腿 我的妻子",
-      "onboard_time": 1768720581,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 115714,
       "num": 115714,
       "word": "已婚育女性想追求自由真的很昂贵",
@@ -953,6 +961,14 @@
       "onboard_time": 1768718840,
       "rank": 27,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 114070,
+      "num": 110379,
+      "word": "为什么袜子洗完总是会变硬",
+      "onboard_time": 1768721720,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 110695,
@@ -1033,6 +1049,14 @@
       "onboard_time": 1768706181,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104723,
+      "num": 104723,
+      "word": "为什么说不要长期待在地下车库",
+      "onboard_time": 1768718840,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 102351,
@@ -1131,14 +1155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96963,
-      "num": 96963,
-      "word": "为什么说不要长期待在地下车库",
-      "onboard_time": 1768718840,
-      "rank": 47,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 95686,
       "num": 95686,
       "word": "退钱哥秒变赔钱哥",
@@ -1177,14 +1193,6 @@
       "onboard_time": 1768714460,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 94732,
-      "num": 94732,
-      "word": "骄阳似我",
-      "onboard_time": 1768714822,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 93905,
@@ -1267,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87056,
+      "num": 87056,
+      "word": "小猫把路睡塌了",
+      "onboard_time": 1768716199,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86978,
       "num": 86978,
       "word": "檀健次再多一秒就要落泪了",
@@ -1305,14 +1321,6 @@
       "onboard_time": 1768702399,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85714,
-      "num": 85714,
-      "word": "小猫把路睡塌了",
-      "onboard_time": 1768716199,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 85651,
@@ -1523,6 +1531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74690,
+      "num": 74690,
+      "word": "用空气炸锅烘佛手柑香薰",
+      "onboard_time": 1768721841,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 73813,
       "num": 73813,
       "word": "谷爱凌我自己翻译自己",
@@ -1579,12 +1595,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70447,
+      "num": 102316,
+      "word": "北京下雪萌兰变身糖霜小熊",
+      "onboard_time": 1768721900,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70193,
       "num": 70193,
       "word": "iPhone被忽略的电话功能",
       "onboard_time": 1768719020,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 69886,
+      "num": 74541,
+      "word": "樊振东莫雷加德合影",
+      "onboard_time": 1768719319,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 68973,
@@ -1755,6 +1787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55611,
+      "num": 98984,
+      "word": "虞书欣云初令琉璃清冷",
+      "onboard_time": 1768721360,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55378,
       "num": 71964,
       "word": "肖战为新剧主动减重18斤",
@@ -1793,6 +1833,14 @@
       "onboard_time": 1768665320,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53594,
+      "num": 172699,
+      "word": "飞机票什么时候误购可以免费退票",
+      "onboard_time": 1768720759,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53501,
@@ -1881,6 +1929,22 @@
       "onboard_time": 1768647081,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47699,
+      "num": 98993,
+      "word": "张凌赫初中就有梦女粉和黑粉了",
+      "onboard_time": 1768721960,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 45877,
+      "num": 653672,
+      "word": "周某摆拍女儿50元换名酒被行政处罚",
+      "onboard_time": 1768721720,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45796,
@@ -2000,14 +2064,6 @@
       "word": "90后男子回应做祭品纸扎走红",
       "onboard_time": 1768702399,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25129,
-      "num": 172699,
-      "word": "飞机票什么时候误购可以免费退票",
-      "onboard_time": 1768720759,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
