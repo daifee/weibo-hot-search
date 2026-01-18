@@ -1,6 +1,6 @@
 {
   "startTime": 1768754034427,
-  "endTime": 1768761471118,
+  "endTime": 1768762234724,
   "band_list": [
     {
       "raw_hot": 795420,
@@ -459,7 +459,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 37932,
+      "raw_hot": 38312,
       "num": 57810,
       "word": "全班录视频呼唤昏迷的8岁同学",
       "onboard_time": 1768759995,
@@ -489,6 +489,14 @@
       "onboard_time": 1768757236,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21414,
+      "num": 34467,
+      "word": "小城良方",
+      "onboard_time": 1768750700,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 19565,
