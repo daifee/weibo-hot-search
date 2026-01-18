@@ -1,0 +1,410 @@
+{
+  "runTime": 1768765081143,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 65629,
+        "num": 65629,
+        "word": "轧戏",
+        "onboard_time": 1768736663,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37402,
+        "num": 37402,
+        "word": "美国童星疑闯红灯被拖行致死",
+        "onboard_time": 1768743504,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 9872,
+        "num": 37362,
+        "word": "这个冬天赴一场冰雪之约",
+        "onboard_time": 1768739903,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 37338,
+        "num": 37338,
+        "word": "上海外滩女子占道直播跳舞引公愤",
+        "onboard_time": 1768748422,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36680,
+        "num": 36680,
+        "word": "梁小龙去世",
+        "onboard_time": 1768723519,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52571,
+        "num": 36402,
+        "word": "为什么袜子洗完总是会变硬",
+        "onboard_time": 1768750941,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34385,
+        "num": 34385,
+        "word": "6人就餐仅花19元老板要求带走垃圾",
+        "onboard_time": 1768740081,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27828,
+        "num": 27828,
+        "word": "全班录视频呼唤昏迷的8岁同学",
+        "onboard_time": 1768759995,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 25738,
+        "num": 25738,
+        "word": "慕容云海一张口我的青春回来了",
+        "onboard_time": 1768746564,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25097,
+        "num": 25097,
+        "word": "26岁女子两月暴瘦30斤成糖尿病前期",
+        "onboard_time": 1768740024,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86457,
+        "num": 25091,
+        "word": "董子健回复孙怡",
+        "onboard_time": 1768732703,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69230,
+        "num": 25061,
+        "word": "吴磊工作室严正声明",
+        "onboard_time": 1768741342,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38617,
+        "num": 25045,
+        "word": "微博之夜",
+        "onboard_time": 1768743863,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31416,
+        "num": 25025,
+        "word": "oner败诉",
+        "onboard_time": 1768738701,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27141,
+        "num": 25013,
+        "word": "龙麦",
+        "onboard_time": 1768730662,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22255,
+        "num": 24986,
+        "word": "俄罗斯一地暴雪堆出公寓楼高雪坡",
+        "onboard_time": 1768741221,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21695,
+        "num": 24957,
+        "word": "莱顿大学排名浙大超过哈佛",
+        "onboard_time": 1768747883,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 19736,
+        "num": 24938,
+        "word": "香港70平米月租35000的家",
+        "onboard_time": 1768748122,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17553,
+        "num": 24920,
+        "word": "周启豪4比2温瑞博",
+        "onboard_time": 1768755317,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16804,
+        "num": 24897,
+        "word": "虎牙伍六七说487被甩活该",
+        "onboard_time": 1768747104,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 80635,
+        "num": 24885,
+        "word": "短剧演员回应为何不给婴儿打伞",
+        "onboard_time": 1768748062,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30068,
+        "num": 24860,
+        "word": "糖尿病前期发出的身体信号",
+        "onboard_time": 1768745783,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 26102,
+        "num": 24852,
+        "word": "禁止衣冠不整入内规定已存在多年",
+        "onboard_time": 1768742483,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22675,
+        "num": 24828,
+        "word": "婴儿淋雨哭到撕心裂肺谁能忍",
+        "onboard_time": 1768741763,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22259,
+        "num": 24816,
+        "word": "茶颜悦色回应在北上深开店传闻",
+        "onboard_time": 1768753700,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 20628,
+        "num": 24783,
+        "word": "短剧淋雨婴儿家长能接受才来",
+        "onboard_time": 1768746683,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19882,
+        "num": 24762,
+        "word": "他用一世骂名护她一生周全",
+        "onboard_time": 1768751000,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19853,
+        "num": 24749,
+        "word": "贾玲马龙许光汉同框",
+        "onboard_time": 1768751182,
+        "rank": 27,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 19810,
+        "num": 24737,
+        "word": "曝杨紫每天都在很痛苦地减肥",
+        "onboard_time": 1768734922,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19732,
+        "num": 24709,
+        "word": "罗永浩于谦拒领终身成就奖",
+        "onboard_time": 1768737801,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18306,
+        "num": 24682,
+        "word": "巴菲特子女需10年捐光巨额遗产",
+        "onboard_time": 1768754058,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 17821,
+        "num": 24665,
+        "word": "成毅手握多部待播剧",
+        "onboard_time": 1768743323,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16311,
+        "num": 24638,
+        "word": "国家级歌手称UP主让华语乐坛氛围更好",
+        "onboard_time": 1768754598,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16266,
+        "num": 24633,
+        "word": "陈冠希一家洛杉矶参加婚礼",
+        "onboard_time": 1768741943,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16245,
+        "num": 24610,
+        "word": "让你念念不忘的国产剧角色",
+        "onboard_time": 1768755917,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16197,
+        "num": 24585,
+        "word": "二十多岁其实真的很年轻",
+        "onboard_time": 1768746683,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16164,
+        "num": 24565,
+        "word": "轧戏男主人设",
+        "onboard_time": 1768743683,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15660,
+        "num": 24546,
+        "word": "光伏设备公司密集预告2025年业绩",
+        "onboard_time": 1768755377,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 15199,
+        "num": 24521,
+        "word": "小城良方",
+        "onboard_time": 1768750700,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15123,
+        "num": 24497,
+        "word": "声鸣远扬",
+        "onboard_time": 1768739903,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14930,
+        "num": 24481,
+        "word": "陈冠希撞脸毛利小五郎",
+        "onboard_time": 1768746144,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14248,
+        "num": 24476,
+        "word": "郑州做好暴雪应对准备暂无停课计划",
+        "onboard_time": 1768751480,
+        "rank": 41,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 14109,
+        "num": 24450,
+        "word": "肖战姜妍新剧拥抱路透",
+        "onboard_time": 1768739482,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13908,
+        "num": 24418,
+        "word": "杨博文疯狂想象自己在游泳池之上",
+        "onboard_time": 1768750281,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13658,
+        "num": 24408,
+        "word": "马龙清爽又亮眼",
+        "onboard_time": 1768751901,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13285,
+        "num": 24383,
+        "word": "喻言缪斯女王超级演唱会",
+        "onboard_time": 1768755558,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13066,
+        "num": 24376,
+        "word": "小城大事",
+        "onboard_time": 1768736902,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12923,
+        "num": 24350,
+        "word": "内蒙古包头一厂区发生爆炸",
+        "onboard_time": 1768724962,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12786,
+        "num": 24320,
+        "word": "朱雨玲4比2佐藤瞳",
+        "onboard_time": 1768751600,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12660,
+        "num": 24306,
+        "word": "欢瑞世纪大跌",
+        "onboard_time": 1768735822,
+        "rank": 49,
+        "category": "艺人,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#这则寓言习近平多次讲起#"
+    }
+  }
+}

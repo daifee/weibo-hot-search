@@ -1,6 +1,6 @@
 {
   "startTime": 1768754034427,
-  "endTime": 1768764186569,
+  "endTime": 1768765081143,
   "band_list": [
     {
       "raw_hot": 795420,
@@ -532,11 +532,19 @@
     },
     {
       "raw_hot": 15967,
-      "num": 22243,
+      "num": 24497,
       "word": "声鸣远扬",
       "onboard_time": 1768739903,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 12923,
+      "num": 24350,
+      "word": "内蒙古包头一厂区发生爆炸",
+      "onboard_time": 1768724962,
+      "rank": 47,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
