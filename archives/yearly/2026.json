@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768722059106,
+  "endTime": 1768725364929,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2670618,
+      "num": 234046,
+      "word": "梁小龙去世",
+      "onboard_time": 1768723519,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2608150,
       "num": 223781,
       "word": "孙怡道歉",
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 2304718,
-      "num": 617901,
+      "num": 711710,
       "word": "临榆炸鸡腿",
       "onboard_time": 1768718239,
       "rank": 33,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768278022,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 695485,
-      "num": 1109542,
-      "word": "上海下雪",
-      "onboard_time": 1767700522,
-      "rank": 0,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
