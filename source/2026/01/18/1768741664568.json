@@ -1,0 +1,410 @@
+{
+  "runTime": 1768741664568,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 894791,
+        "num": 1143166,
+        "word": "欢瑞世纪大跌",
+        "onboard_time": 1768735822,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 290301,
+        "num": 841691,
+        "word": "内蒙古包头一厂区发生爆炸",
+        "onboard_time": 1768724962,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46816,
+        "num": 639985,
+        "word": "这个全球单一国家首次说明什么",
+        "onboard_time": 1768740803,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 719491,
+        "num": 637341,
+        "word": "梁小龙去世",
+        "onboard_time": 1768723519,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393214,
+        "num": 393214,
+        "word": "肖战姜妍新剧拥抱路透",
+        "onboard_time": 1768739482,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 628304,
+        "num": 377998,
+        "word": "6人就餐仅花19元老板要求带走垃圾",
+        "onboard_time": 1768740081,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273250,
+        "num": 273250,
+        "word": "26岁女子两月暴瘦30斤成糖尿病前期",
+        "onboard_time": 1768740024,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264046,
+        "num": 264046,
+        "word": "国乒包揽多哈站男单冠亚军",
+        "onboard_time": 1768736421,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253015,
+        "num": 253015,
+        "word": "6元4寸蛋糕店因订单太多暂停营业",
+        "onboard_time": 1768727120,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234886,
+        "num": 234886,
+        "word": "轧戏",
+        "onboard_time": 1768736663,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1617132,
+        "num": 218299,
+        "word": "董子健回复孙怡",
+        "onboard_time": 1768732703,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200387,
+        "num": 200387,
+        "word": "改善骨盆前倾 卧英雄式",
+        "onboard_time": 1768732282,
+        "rank": 11,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 825622,
+        "num": 186796,
+        "word": "oner败诉",
+        "onboard_time": 1768738701,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 775714,
+        "num": 182474,
+        "word": "曝杨紫每天都在很痛苦地减肥",
+        "onboard_time": 1768734922,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164321,
+        "num": 164321,
+        "word": "刘文祥麻辣拌 点单配方",
+        "onboard_time": 1768726581,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 515428,
+        "num": 164307,
+        "word": "罗永浩于谦拒领终身成就奖",
+        "onboard_time": 1768737801,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 488344,
+        "num": 164269,
+        "word": "章昊开通微博",
+        "onboard_time": 1768739062,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164159,
+        "num": 164159,
+        "word": "来华免签变成来华就医",
+        "onboard_time": 1768731621,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158819,
+        "num": 158819,
+        "word": "马龙多彩自成风度",
+        "onboard_time": 1768741101,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119367,
+        "num": 153463,
+        "word": "包头包钢一厂区爆炸事发监控画面",
+        "onboard_time": 1768737743,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432391,
+        "num": 152582,
+        "word": "吴磊工作室严正声明",
+        "onboard_time": 1768741342,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296245,
+        "num": 152426,
+        "word": "龙麦",
+        "onboard_time": 1768730662,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151343,
+        "num": 151343,
+        "word": "手链扔火炉女子灰烬中找回48颗金珠",
+        "onboard_time": 1768735882,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211548,
+        "num": 151227,
+        "word": "彭小苒 我救了你一命",
+        "onboard_time": 1768740141,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207381,
+        "num": 149913,
+        "word": "今夕赫夕",
+        "onboard_time": 1768731563,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129158,
+        "num": 149330,
+        "word": "全国多地发布紧急停课通知",
+        "onboard_time": 1768731382,
+        "rank": 25,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 183556,
+        "num": 148282,
+        "word": "男女主沙发吻完办公桌吻",
+        "onboard_time": 1768738642,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147324,
+        "num": 147324,
+        "word": "周星驰悼念梁小龙",
+        "onboard_time": 1768734261,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115826,
+        "num": 135077,
+        "word": "Doinb去打PUBG比赛了",
+        "onboard_time": 1768741402,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134754,
+        "num": 134754,
+        "word": "何与跑山预告",
+        "onboard_time": 1768740503,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132768,
+        "num": 132768,
+        "word": "黄子韬刘耀文一起去滑雪了",
+        "onboard_time": 1768738942,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113361,
+        "num": 129480,
+        "word": "爱囤东西的人天塌了",
+        "onboard_time": 1768741524,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128847,
+        "num": 128847,
+        "word": "赵今麦庆功宴出图了",
+        "onboard_time": 1768732462,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125234,
+        "num": 125234,
+        "word": "梁小龙离世前一天还与友人聚会",
+        "onboard_time": 1768733482,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112055,
+        "num": 125024,
+        "word": "仙逆",
+        "onboard_time": 1768732883,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 124875,
+        "num": 124875,
+        "word": "御赐小仵作2狐尼克景",
+        "onboard_time": 1768738462,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39516,
+        "num": 119428,
+        "word": "下雪的长城挤满要强的中国游客",
+        "onboard_time": 1768741643,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116680,
+        "num": 116680,
+        "word": "赵今麦第一章大佬回国",
+        "onboard_time": 1768736962,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105931,
+        "num": 110966,
+        "word": "深圳一地铁口被电鸡堵得走不动",
+        "onboard_time": 1768741342,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76414,
+        "num": 109267,
+        "word": "俄罗斯一地暴雪堆出公寓楼高雪坡",
+        "onboard_time": 1768741221,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108727,
+        "num": 108727,
+        "word": "骄阳似我庆功宴",
+        "onboard_time": 1768712779,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106052,
+        "num": 106052,
+        "word": "周震南神人出神图",
+        "onboard_time": 1768741643,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103274,
+        "num": 103274,
+        "word": "梁王组合印度赛夺冠",
+        "onboard_time": 1768737743,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105116,
+        "num": 102364,
+        "word": "林大小姐到底要撒娇多少次",
+        "onboard_time": 1768738042,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104753,
+        "num": 101736,
+        "word": "王一博挺不上镜的",
+        "onboard_time": 1768725741,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98443,
+        "num": 98443,
+        "word": "国乒多哈球挑赛1冠2亚",
+        "onboard_time": 1768741101,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100257,
+        "num": 98078,
+        "word": "成毅和欢瑞合同到期",
+        "onboard_time": 1768720880,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97627,
+        "num": 97627,
+        "word": "JackeyLove队危何时归",
+        "onboard_time": 1768740682,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94860,
+        "num": 94860,
+        "word": "王楚钦2025年度话题人物第三",
+        "onboard_time": 1768739002,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92493,
+        "num": 92493,
+        "word": "包钢板材厂爆炸致2死5失联66送医",
+        "onboard_time": 1768736602,
+        "rank": 49,
+        "category": "突发/灾害"
+      }
+    ],
+    "hotgov": {
+      "word": "#这则寓言习近平多次讲起#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768740826152,
+  "endTime": 1768741664568,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -57,6 +57,14 @@
       "onboard_time": 1768734922,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 894791,
+      "num": 1143166,
+      "word": "欢瑞世纪大跌",
+      "onboard_time": 1768735822,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 852117,
@@ -179,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 628304,
+      "num": 377998,
+      "word": "6人就餐仅花19元老板要求带走垃圾",
+      "onboard_time": 1768740081,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 627763,
       "num": 627763,
       "word": "刘文祥麻辣拌 点单配方",
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 552419,
-      "num": 153165,
+      "num": 164269,
       "word": "章昊开通微博",
       "onboard_time": 1768739062,
       "rank": 16,
@@ -315,14 +331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 464124,
-      "num": 1074259,
-      "word": "欢瑞世纪大跌",
-      "onboard_time": 1768735822,
-      "rank": 21,
-      "category": "财经"
-    },
-    {
       "raw_hot": 447822,
       "num": 167904,
       "word": "香港床底藏尸案凶手连宠物也没放过",
@@ -345,6 +353,14 @@
       "onboard_time": 1768651641,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 432391,
+      "num": 152582,
+      "word": "吴磊工作室严正声明",
+      "onboard_time": 1768741342,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 428501,
@@ -379,8 +395,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 392880,
-      "num": 392880,
+      "raw_hot": 393214,
+      "num": 393214,
       "word": "肖战姜妍新剧拥抱路透",
       "onboard_time": 1768739482,
       "rank": 4,
@@ -595,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273250,
+      "num": 273250,
+      "word": "26岁女子两月暴瘦30斤成糖尿病前期",
+      "onboard_time": 1768740024,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 272530,
       "num": 227066,
       "word": "王鹤棣听到倒闭的反应",
@@ -609,6 +633,14 @@
       "onboard_time": 1768721960,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264046,
+      "num": 264046,
+      "word": "国乒包揽多哈站男单冠亚军",
+      "onboard_time": 1768736421,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 260599,
@@ -633,14 +665,6 @@
       "onboard_time": 1768713980,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 258794,
-      "num": 258794,
-      "word": "国乒包揽多哈站男单冠亚军",
-      "onboard_time": 1768736421,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 255349,
@@ -716,7 +740,7 @@
     },
     {
       "raw_hot": 235988,
-      "num": 133866,
+      "num": 148282,
       "word": "男女主沙发吻完办公桌吻",
       "onboard_time": 1768738642,
       "rank": 24,
@@ -819,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211548,
+      "num": 151227,
+      "word": "彭小苒 我救了你一命",
+      "onboard_time": 1768740141,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210927,
       "num": 169184,
       "word": "温瑞博3比2雨果",
@@ -896,14 +928,6 @@
       "word": "梁小龙离世前一天还与友人聚会",
       "onboard_time": 1768733482,
       "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 195640,
-      "num": 133093,
-      "word": "彭小苒 我救了你一命",
-      "onboard_time": 1768740141,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -1001,14 +1025,6 @@
       "onboard_time": 1768732523,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 187634,
-      "num": 247608,
-      "word": "6人就餐仅花19元老板要求带走垃圾",
-      "onboard_time": 1768740081,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 187355,
@@ -1177,6 +1193,14 @@
       "onboard_time": 1768654460,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158819,
+      "num": 158819,
+      "word": "马龙多彩自成风度",
+      "onboard_time": 1768741101,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 156705,
@@ -1356,7 +1380,7 @@
     },
     {
       "raw_hot": 136916,
-      "num": 131382,
+      "num": 132768,
       "word": "黄子韬刘耀文一起去滑雪了",
       "onboard_time": 1768738942,
       "rank": 31,
@@ -1369,6 +1393,14 @@
       "onboard_time": 1768697059,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134754,
+      "num": 134754,
+      "word": "何与跑山预告",
+      "onboard_time": 1768740503,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 133388,
@@ -1539,14 +1571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122122,
-      "num": 146082,
-      "word": "26岁女子两月暴瘦30斤成糖尿病前期",
-      "onboard_time": 1768740024,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121627,
       "num": 121627,
       "word": "向出轨丈夫道歉女子称自己多次住院",
@@ -1569,6 +1593,14 @@
       "onboard_time": 1768726462,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119367,
+      "num": 153463,
+      "word": "包头包钢一厂区爆炸事发监控画面",
+      "onboard_time": 1768737743,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119049,
@@ -1667,6 +1699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115826,
+      "num": 135077,
+      "word": "Doinb去打PUBG比赛了",
+      "onboard_time": 1768741402,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115714,
       "num": 115714,
       "word": "已婚育女性想追求自由真的很昂贵",
@@ -1691,19 +1731,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 113361,
+      "num": 129480,
+      "word": "爱囤东西的人天塌了",
+      "onboard_time": 1768741524,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 112974,
       "num": 112974,
       "word": "包头一厂区爆炸伤亡情况调查中",
       "onboard_time": 1768727600,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112173,
-      "num": 112173,
-      "word": "包头包钢一厂区爆炸事发监控画面",
-      "onboard_time": 1768737743,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1833,6 +1873,22 @@
       "onboard_time": 1768709300,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106052,
+      "num": 106052,
+      "word": "周震南神人出神图",
+      "onboard_time": 1768741643,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 105931,
+      "num": 110966,
+      "word": "深圳一地铁口被电鸡堵得走不动",
+      "onboard_time": 1768741342,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105343,
@@ -2003,12 +2059,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 98447,
-      "num": 98447,
-      "word": "何与跑山预告",
-      "onboard_time": 1768740503,
-      "rank": 47,
-      "category": "艺人"
+      "raw_hot": 98443,
+      "num": 98443,
+      "word": "国乒多哈球挑赛1冠2亚",
+      "onboard_time": 1768741101,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 98384,
@@ -2041,6 +2097,14 @@
       "onboard_time": 1768717520,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97627,
+      "num": 97627,
+      "word": "JackeyLove队危何时归",
+      "onboard_time": 1768740682,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 97545,
@@ -2169,14 +2233,6 @@
       "onboard_time": 1768706000,
       "rank": 40,
       "category": "互联网,体育"
-    },
-    {
-      "raw_hot": 93593,
-      "num": 93593,
-      "word": "JackeyLove队危何时归",
-      "onboard_time": 1768740682,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 93227,
@@ -2585,6 +2641,14 @@
       "onboard_time": 1768711820,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76414,
+      "num": 109267,
+      "word": "俄罗斯一地暴雪堆出公寓楼高雪坡",
+      "onboard_time": 1768741221,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 76104,
@@ -3043,6 +3107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46816,
+      "num": 639985,
+      "word": "这个全球单一国家首次说明什么",
+      "onboard_time": 1768740803,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 45796,
       "num": 91103,
       "word": "电影马腾你别走",
@@ -3097,6 +3169,14 @@
       "onboard_time": 1768692976,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 39516,
+      "num": 119428,
+      "word": "下雪的长城挤满要强的中国游客",
+      "onboard_time": 1768741643,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38788,
