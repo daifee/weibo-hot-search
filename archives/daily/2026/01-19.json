@@ -1,6 +1,6 @@
 {
   "startTime": 1768754034427,
-  "endTime": 1768771589530,
+  "endTime": 1768772430905,
   "band_list": [
     {
       "raw_hot": 795420,
@@ -539,7 +539,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 12938,
+      "raw_hot": 14181,
+      "num": 17235,
+      "word": "赵今麦骄阳似我庆功宴造型",
+      "onboard_time": 1768770194,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 14128,
       "num": 24350,
       "word": "内蒙古包头一厂区发生爆炸",
       "onboard_time": 1768724962,
@@ -547,16 +555,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12548,
-      "num": 16620,
-      "word": "赵今麦骄阳似我庆功宴造型",
-      "onboard_time": 1768770194,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 9381,
-      "num": 78230,
+      "raw_hot": 9774,
+      "num": 100788,
       "word": "神21乘组太空Vlog上新",
       "onboard_time": 1768740202,
       "rank": 2,
