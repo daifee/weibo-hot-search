@@ -1,0 +1,410 @@
+{
+  "runTime": 1768714294933,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 679881,
+        "num": 1108780,
+        "word": "骄阳似我庆功宴",
+        "onboard_time": 1768712779,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 601311,
+        "num": 808963,
+        "word": "为什么酒店床上要放四个枕头",
+        "onboard_time": 1768708880,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 35217,
+        "num": 615974,
+        "word": "10万亿度电背后是中国澎湃的能量",
+        "onboard_time": 1768705399,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 509687,
+        "num": 509687,
+        "word": "12306购票页面出现雪字",
+        "onboard_time": 1768712420,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326626,
+        "num": 382287,
+        "word": "买水果发现异常提醒店员后不放心",
+        "onboard_time": 1768701199,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344524,
+        "num": 344524,
+        "word": "东北室内全是东北人",
+        "onboard_time": 1768709360,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285395,
+        "num": 285395,
+        "word": "北京鹅毛大雪",
+        "onboard_time": 1768699639,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250617,
+        "num": 250617,
+        "word": "短剧演员吐槽剧组让孩子一直淋雨",
+        "onboard_time": 1768713080,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218952,
+        "num": 218952,
+        "word": "河南的暴雪还下吗",
+        "onboard_time": 1768709840,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163454,
+        "num": 163454,
+        "word": "原来谭晶和许嵩早就约好唱素颜",
+        "onboard_time": 1768713320,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 709319,
+        "num": 162484,
+        "word": "嫣然医院 唇腭裂治疗",
+        "onboard_time": 1768708700,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 641833,
+        "num": 161971,
+        "word": "赵樱子称孟子义上综艺要感谢她",
+        "onboard_time": 1768711161,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466103,
+        "num": 161844,
+        "word": "陈星旭王玉雯吻戏",
+        "onboard_time": 1768709840,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161415,
+        "num": 161415,
+        "word": "王安宇没参加春晚联排",
+        "onboard_time": 1768699519,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384692,
+        "num": 159637,
+        "word": "二楼直排粪水扬言弄死报警的一楼",
+        "onboard_time": 1768708940,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234643,
+        "num": 154448,
+        "word": "胡萝卜纸巾最难的一集出现了",
+        "onboard_time": 1768713141,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225626,
+        "num": 152099,
+        "word": "当胡萝卜纸巾升级为人类级难度",
+        "onboard_time": 1768713141,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224793,
+        "num": 146553,
+        "word": "在巴厘岛确诊脏水病",
+        "onboard_time": 1768706899,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211554,
+        "num": 145438,
+        "word": "王一博晒攀冰照",
+        "onboard_time": 1768709360,
+        "rank": 18,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 204353,
+        "num": 141289,
+        "word": "辛芷蕾 我太有眼光了",
+        "onboard_time": 1768712299,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299896,
+        "num": 138476,
+        "word": "香港床底藏尸案凶手连宠物也没放过",
+        "onboard_time": 1768707678,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197354,
+        "num": 133608,
+        "word": "王安宇杂志",
+        "onboard_time": 1768713439,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 166609,
+        "num": 127870,
+        "word": "坐公交偶遇杨旭文",
+        "onboard_time": 1768713320,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127108,
+        "num": 127108,
+        "word": "财务看演唱会通病",
+        "onboard_time": 1768709898,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152611,
+        "num": 126676,
+        "word": "喜人 春晚",
+        "onboard_time": 1768701140,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116011,
+        "num": 116011,
+        "word": "李亚鹏直播带货一晚卖出超千万",
+        "onboard_time": 1768710680,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115714,
+        "num": 115714,
+        "word": "已婚育女性想追求自由真的很昂贵",
+        "onboard_time": 1768712299,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114402,
+        "num": 114402,
+        "word": "4寸蛋糕价格普遍在50元以上",
+        "onboard_time": 1768703540,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109207,
+        "num": 109207,
+        "word": "男子摆拍污名化成都男性被刑拘",
+        "onboard_time": 1768706301,
+        "rank": 28,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 102351,
+        "num": 102351,
+        "word": "苏新皓你想馋死我们吗",
+        "onboard_time": 1768712841,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104526,
+        "num": 102314,
+        "word": "三只松鼠宣布调价",
+        "onboard_time": 1768713259,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 101678,
+        "num": 101678,
+        "word": "鞠婧祎犯困都有人仿妆模仿了",
+        "onboard_time": 1768694658,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90496,
+        "num": 90496,
+        "word": "骄阳似我庆功宴是婚礼的场地",
+        "onboard_time": 1768713980,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89204,
+        "num": 90347,
+        "word": "女子1年胖20斤牛仔裤全穿不上",
+        "onboard_time": 1768713141,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90321,
+        "num": 90321,
+        "word": "2026春运火车票购票日历",
+        "onboard_time": 1768714099,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89838,
+        "num": 89838,
+        "word": "白鹿李昀锐田曦薇宋威龙 春晚合唱",
+        "onboard_time": 1768691655,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89758,
+        "num": 89758,
+        "word": "王俊凯依旧手搓蛋糕",
+        "onboard_time": 1768691655,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8543,
+        "num": 86660,
+        "word": "坏了真让彭于晏演出精髓了",
+        "onboard_time": 1768713918,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85186,
+        "num": 85186,
+        "word": "内存涨爆了",
+        "onboard_time": 1768711100,
+        "rank": 38,
+        "category": "财经,数码"
+      },
+      {
+        "raw_hot": 41044,
+        "num": 82881,
+        "word": "欧洲各国不得不抱团抗美",
+        "onboard_time": 1768713141,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81410,
+        "num": 81410,
+        "word": "名侦探学院",
+        "onboard_time": 1768713980,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80743,
+        "num": 80743,
+        "word": "语文老师教体育一下5个金牌",
+        "onboard_time": 1768711820,
+        "rank": 41,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 90835,
+        "num": 80642,
+        "word": "向出轨丈夫道歉女子称自己多次住院",
+        "onboard_time": 1768708999,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98165,
+        "num": 80632,
+        "word": "小洛熙医疗纠纷案明日开庭",
+        "onboard_time": 1768710501,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80515,
+        "num": 80515,
+        "word": "恋综两男争一女 大型雄竞现场",
+        "onboard_time": 1768714040,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79068,
+        "num": 79068,
+        "word": "澳网",
+        "onboard_time": 1768708460,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76186,
+        "num": 76186,
+        "word": "大叔卖6元四寸蛋糕日收入几百元",
+        "onboard_time": 1768697599,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74803,
+        "num": 74803,
+        "word": "冬季冻伤皮肤发白发麻",
+        "onboard_time": 1768713678,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 72652,
+        "num": 72652,
+        "word": "乒坛泰斗谈奥运会参赛资格",
+        "onboard_time": 1768705820,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71939,
+        "num": 71939,
+        "word": "苹果是减肥控糖友好型水果",
+        "onboard_time": 1768713259,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#城市归根结底是人民的城市#"
+    }
+  }
+}
