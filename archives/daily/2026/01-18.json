@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768741664568,
+  "endTime": 1768743325916,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -39,6 +39,14 @@
       "num": 135612,
       "word": "棣欣引力",
       "onboard_time": 1768654162,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 971314,
+      "num": 203839,
+      "word": "吴磊工作室严正声明",
+      "onboard_time": 1768741342,
       "rank": 20,
       "category": "艺人"
     },
@@ -131,6 +139,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 755964,
+      "num": 409635,
+      "word": "6人就餐仅花19元老板要求带走垃圾",
+      "onboard_time": 1768740081,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 742067,
       "num": 1118730,
       "word": "北京鹅毛大雪",
@@ -185,14 +201,6 @@
       "onboard_time": 1768711161,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 628304,
-      "num": 377998,
-      "word": "6人就餐仅花19元老板要求带走垃圾",
-      "onboard_time": 1768740081,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 627763,
@@ -355,20 +363,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 432391,
-      "num": 152582,
-      "word": "吴磊工作室严正声明",
-      "onboard_time": 1768741342,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 428501,
       "num": 158045,
       "word": "曝丈夫出轨女子已连续道歉6天",
       "onboard_time": 1768656982,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 415508,
+      "num": 415508,
+      "word": "肖战姜妍新剧拥抱路透",
+      "onboard_time": 1768739482,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 412245,
@@ -395,12 +403,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 393214,
-      "num": 393214,
-      "word": "肖战姜妍新剧拥抱路透",
-      "onboard_time": 1768739482,
-      "rank": 4,
-      "category": "剧集"
+      "raw_hot": 398223,
+      "num": 398223,
+      "word": "26岁女子两月暴瘦30斤成糖尿病前期",
+      "onboard_time": 1768740024,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 389409,
@@ -547,6 +555,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 295987,
+      "num": 822730,
+      "word": "俄罗斯一地暴雪堆出公寓楼高雪坡",
+      "onboard_time": 1768741221,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 294861,
       "num": 294861,
       "word": "白鹿李昀锐田曦薇宋威龙 春晚合唱",
@@ -609,14 +625,6 @@
       "onboard_time": 1768729762,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 273250,
-      "num": 273250,
-      "word": "26岁女子两月暴瘦30斤成糖尿病前期",
-      "onboard_time": 1768740024,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 272530,
@@ -883,12 +891,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203006,
+      "num": 145181,
+      "word": "林依轮 这个评论好像死了",
+      "onboard_time": 1768742123,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202736,
       "num": 176858,
       "word": "法院应避免公开处刑闹剧重演",
       "onboard_time": 1768702339,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202112,
+      "num": 145071,
+      "word": "陈冠希一家洛杉矶参加婚礼",
+      "onboard_time": 1768741943,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 200785,
@@ -1155,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165607,
+      "num": 146615,
+      "word": "禁止衣冠不整入内规定已存在多年",
+      "onboard_time": 1768742483,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165055,
       "num": 165055,
       "word": "蒋奇明演技",
@@ -1249,6 +1281,14 @@
       "onboard_time": 1768724660,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 151273,
+      "num": 151273,
+      "word": "婴儿淋雨哭到撕心裂肺谁能忍",
+      "onboard_time": 1768741763,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151148,
@@ -1515,6 +1555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125463,
+      "num": 121606,
+      "word": "秦岚现身马年春晚彩排",
+      "onboard_time": 1768742723,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125034,
       "num": 314917,
       "word": "周启豪3比2奥恰洛夫",
@@ -1571,6 +1619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122415,
+      "num": 122415,
+      "word": "黑色马蹄莲卖爆了",
+      "onboard_time": 1768742602,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121627,
       "num": 121627,
       "word": "向出轨丈夫道歉女子称自己多次住院",
@@ -1609,6 +1665,14 @@
       "onboard_time": 1768740262,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118769,
+      "num": 118769,
+      "word": "深圳一地铁口被电鸡堵得走不动",
+      "onboard_time": 1768741342,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118533,
@@ -1747,6 +1811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112898,
+      "num": 112898,
+      "word": "上海龙华寺三只猫在殿内吵架",
+      "onboard_time": 1768743082,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111566,
       "num": 111566,
       "word": "国际奥委会回应禁止美国参加冬奥会",
@@ -1801,6 +1873,14 @@
       "onboard_time": 1768709778,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109452,
+      "num": 109452,
+      "word": "华晨宇 我才是快乐男声",
+      "onboard_time": 1768742961,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 108668,
@@ -1881,14 +1961,6 @@
       "onboard_time": 1768741643,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 105931,
-      "num": 110966,
-      "word": "深圳一地铁口被电鸡堵得走不动",
-      "onboard_time": 1768741342,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105343,
@@ -2051,6 +2123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98587,
+      "num": 98587,
+      "word": "周杰伦回应白卓璇",
+      "onboard_time": 1768743202,
+      "rank": 42,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 98547,
       "num": 184744,
       "word": "折叠屏到了东北就是碎碎冰",
@@ -2113,6 +2193,14 @@
       "onboard_time": 1768702759,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97358,
+      "num": 97358,
+      "word": "宋威龙赵今麦合唱主题曲",
+      "onboard_time": 1768742844,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 97118,
@@ -2259,6 +2347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92615,
+      "num": 99802,
+      "word": "国乒男单2026年首冠",
+      "onboard_time": 1768742782,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92322,
       "num": 92322,
       "word": "河南省考",
@@ -2291,12 +2387,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 90524,
+      "num": 97373,
+      "word": "6人就餐自带食物还回怼老板没格局",
+      "onboard_time": 1768742904,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89839,
       "num": 89839,
       "word": "白鹿比八",
       "onboard_time": 1768720399,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89716,
+      "num": 95950,
+      "word": "赛丽亚成新年灯会顶流",
+      "onboard_time": 1768743202,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 89001,
@@ -2353,6 +2465,14 @@
       "onboard_time": 1768695259,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 86829,
+      "num": 97009,
+      "word": "樊振东莫雷加德缘分从小谱写",
+      "onboard_time": 1768741943,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 86645,
@@ -2641,14 +2761,6 @@
       "onboard_time": 1768711820,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 76414,
-      "num": 109267,
-      "word": "俄罗斯一地暴雪堆出公寓楼高雪坡",
-      "onboard_time": 1768741221,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 76104,
@@ -2955,6 +3067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58929,
+      "num": 652967,
+      "word": "这个全球单一国家首次说明什么",
+      "onboard_time": 1768740803,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 57230,
       "num": 91132,
       "word": "下雪天长城人人人人人人",
@@ -3105,14 +3225,6 @@
       "onboard_time": 1768647081,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 46816,
-      "num": 639985,
-      "word": "这个全球单一国家首次说明什么",
-      "onboard_time": 1768740803,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 45796,
