@@ -1,7 +1,15 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768729392769,
+  "endTime": 1768732235519,
   "band_list": [
+    {
+      "raw_hot": 9430476,
+      "num": 9430476,
+      "word": "孙怡 我的朋友董子健",
+      "onboard_time": 1768729460,
+      "rank": 3,
+      "category": "电影"
+    },
     {
       "raw_hot": 2670618,
       "num": 739520,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 954519,
-      "num": 1152723,
+      "num": 2194297,
       "word": "内蒙古包头一厂区发生爆炸",
       "onboard_time": 1768724962,
       "rank": 15,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 821462,
-      "num": 1131434,
+      "num": 1555818,
       "word": "骄阳似我庆功宴",
       "onboard_time": 1768712779,
       "rank": 0,
@@ -104,6 +112,14 @@
       "word": "临榆炸鸡腿 我的妻子",
       "onboard_time": 1768720581,
       "rank": 31,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 676016,
+      "num": 437274,
+      "word": "临榆炸鸡腿 十天吃了八十个腿",
+      "onboard_time": 1768727001,
+      "rank": 9,
       "category": "美食"
     },
     {
@@ -259,20 +275,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 437274,
-      "num": 437274,
-      "word": "临榆炸鸡腿 十天吃了八十个腿",
-      "onboard_time": 1768727001,
-      "rank": 9,
-      "category": "美食"
-    },
-    {
       "raw_hot": 428501,
       "num": 158045,
       "word": "曝丈夫出轨女子已连续道歉6天",
       "onboard_time": 1768656982,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 422650,
+      "num": 343767,
+      "word": "龙麦",
+      "onboard_time": 1768730662,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 412245,
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 410377,
-      "num": 237517,
+      "num": 330060,
       "word": "包头震感",
       "onboard_time": 1768721060,
       "rank": 30,
@@ -331,8 +347,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 367419,
+      "num": 288124,
+      "word": "宋威龙 点我呢我衬衫透的",
+      "onboard_time": 1768729221,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 366144,
-      "num": 203266,
+      "num": 287115,
       "word": "王一博挺不上镜的",
       "onboard_time": 1768725741,
       "rank": 34,
@@ -353,6 +377,14 @@
       "onboard_time": 1768714822,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 353350,
+      "num": 353350,
+      "word": "年轻人开始拒绝升职了",
+      "onboard_time": 1768729881,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 346415,
@@ -449,6 +481,14 @@
       "onboard_time": 1768691418,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 273615,
+      "num": 336582,
+      "word": "沈羽洁不二之臣路透简直校花级别",
+      "onboard_time": 1768729762,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 272530,
@@ -571,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219715,
+      "num": 120385,
+      "word": "骄阳似我庆功宴合照",
+      "onboard_time": 1768731382,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219684,
       "num": 179281,
       "word": "曝鞠婧祎四千年美女系丝芭营销",
@@ -627,14 +675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 201647,
-      "num": 149914,
-      "word": "宋威龙 点我呢我衬衫透的",
-      "onboard_time": 1768729221,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 200785,
       "num": 126670,
       "word": "早安是把付辛博骗来的吗",
@@ -665,6 +705,14 @@
       "onboard_time": 1768702159,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 194512,
+      "num": 311007,
+      "word": "孙怡宣传董子健新电影",
+      "onboard_time": 1768731382,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 193620,
@@ -771,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180518,
+      "num": 180518,
+      "word": "今夕赫夕",
+      "onboard_time": 1768731563,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179348,
       "num": 144601,
       "word": "道歉变处刑道德正义不等于合法判断",
@@ -785,6 +841,22 @@
       "onboard_time": 1768702159,
       "rank": 9,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 176320,
+      "num": 232249,
+      "word": "曝丈夫出轨女子已道歉7天",
+      "onboard_time": 1768730302,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172635,
+      "num": 172635,
+      "word": "香港四小龙还剩下2人",
+      "onboard_time": 1768731863,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 169791,
@@ -843,6 +915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 162700,
+      "num": 162700,
+      "word": "贾玲晒米兰时装秀照片",
+      "onboard_time": 1768728624,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161661,
       "num": 161661,
       "word": "男子从喉咙痛到进ICU只用1小时",
@@ -857,6 +937,14 @@
       "onboard_time": 1768722440,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153382,
+      "num": 153382,
+      "word": "沈月入选b站百大up主",
+      "onboard_time": 1768729342,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 152060,
@@ -947,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142867,
+      "num": 161846,
+      "word": "NS战胜HLE",
+      "onboard_time": 1768731382,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142738,
       "num": 142738,
       "word": "帕梅拉胖了6公斤",
@@ -1035,14 +1131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128065,
-      "num": 128065,
-      "word": "贾玲晒米兰时装秀照片",
-      "onboard_time": 1768728624,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 126841,
       "num": 126841,
       "word": "名侦探学院",
@@ -1080,6 +1168,14 @@
       "word": "澳网",
       "onboard_time": 1768708460,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 125034,
+      "num": 314917,
+      "word": "周启豪3比2奥恰洛夫",
+      "onboard_time": 1768730241,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -1153,6 +1249,14 @@
       "onboard_time": 1768726462,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 118533,
+      "num": 118533,
+      "word": "周深一开口把他们全震住了",
+      "onboard_time": 1768731202,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 118480,
@@ -1235,6 +1339,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 113166,
+      "num": 113166,
+      "word": "全国多地发布紧急停课通知",
+      "onboard_time": 1768731382,
+      "rank": 34,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 112974,
       "num": 112974,
       "word": "包头一厂区爆炸伤亡情况调查中",
@@ -1289,6 +1401,22 @@
       "onboard_time": 1768717999,
       "rank": 35,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 107477,
+      "num": 99860,
+      "word": "敖瑞鹏肠胃炎",
+      "onboard_time": 1768731023,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 106903,
+      "num": 106903,
+      "word": "阿维塔事故车主亲自澄清",
+      "onboard_time": 1768731743,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106810,
@@ -1379,6 +1507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103377,
+      "num": 99268,
+      "word": "橹穆双人舞台官摄破五百二十万",
+      "onboard_time": 1768729823,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 102609,
       "num": 725221,
       "word": "周某摆拍女儿50元换名酒被行政处罚",
@@ -1409,6 +1545,14 @@
       "onboard_time": 1768724240,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 100649,
+      "num": 100649,
+      "word": "包头一工厂爆炸已送至医院40余人",
+      "onboard_time": 1768731743,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100543,
@@ -1627,14 +1771,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 89973,
-      "num": 89973,
-      "word": "沈月入选b站百大up主",
-      "onboard_time": 1768729342,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 89839,
       "num": 89839,
       "word": "白鹿比八",
@@ -1745,6 +1881,14 @@
       "onboard_time": 1768720101,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85136,
+      "num": 85136,
+      "word": "纸杯蛋糕",
+      "onboard_time": 1768730241,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 84715,
@@ -2316,7 +2460,7 @@
     },
     {
       "raw_hot": 50098,
-      "num": 741701,
+      "num": 1216464,
       "word": "2026春运火车票明天开售",
       "onboard_time": 1768711820,
       "rank": 9,
@@ -2379,12 +2523,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 44718,
+      "num": 303896,
+      "word": "取4万元遭盘问报警男子起诉银行",
+      "onboard_time": 1768731563,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43448,
       "num": 91074,
       "word": "U23国足成本届唯一0丢球球队",
       "onboard_time": 1768668378,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42885,
+      "num": 300613,
+      "word": "女子上班先送娃被撞人社局称非工伤",
+      "onboard_time": 1768731202,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42839,
@@ -2451,6 +2611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 36007,
+      "num": 294585,
+      "word": "老外在社交媒体上晒喝热水",
+      "onboard_time": 1768731621,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 35216,
       "num": 35216,
       "word": "这3种面包是隐藏的热量炸弹",
@@ -2473,6 +2641,14 @@
       "onboard_time": 1768650741,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32142,
+      "num": 101383,
+      "word": "外卖员虐猫事件已结案无处罚",
+      "onboard_time": 1768731503,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30137,

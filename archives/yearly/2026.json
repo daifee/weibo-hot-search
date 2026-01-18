@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768729392769,
+  "endTime": 1768732235519,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -25,6 +25,14 @@
       "onboard_time": 1768556121,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9430476,
+      "num": 9430476,
+      "word": "孙怡 我的朋友董子健",
+      "onboard_time": 1768729460,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 8104554,
@@ -1244,7 +1252,7 @@
     },
     {
       "raw_hot": 954519,
-      "num": 1152723,
+      "num": 2194297,
       "word": "内蒙古包头一厂区发生爆炸",
       "onboard_time": 1768724962,
       "rank": 15,
@@ -1708,7 +1716,7 @@
     },
     {
       "raw_hot": 821462,
-      "num": 1131434,
+      "num": 1555818,
       "word": "骄阳似我庆功宴",
       "onboard_time": 1768712779,
       "rank": 0,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768540400,
       "rank": 11,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 698379,
-      "num": 829699,
-      "word": "中国人花六十多万买下北海道三套房",
-      "onboard_time": 1767885380,
-      "rank": 1,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1768732235519,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 676527,
+        "num": 2194297,
+        "word": "内蒙古包头一厂区发生爆炸",
+        "onboard_time": 1768724962,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419929,
+        "num": 1555818,
+        "word": "骄阳似我庆功宴",
+        "onboard_time": 1768712779,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47833,
+        "num": 1216464,
+        "word": "2026春运火车票明天开售",
+        "onboard_time": 1768711820,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 9430476,
+        "num": 9430476,
+        "word": "孙怡 我的朋友董子健",
+        "onboard_time": 1768729460,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 396718,
+        "num": 396718,
+        "word": "6元4寸蛋糕店因订单太多暂停营业",
+        "onboard_time": 1768727120,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1265396,
+        "num": 376271,
+        "word": "梁小龙去世",
+        "onboard_time": 1768723519,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353350,
+        "num": 353350,
+        "word": "年轻人开始拒绝升职了",
+        "onboard_time": 1768729881,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 676016,
+        "num": 352815,
+        "word": "临榆炸鸡腿 十天吃了八十个腿",
+        "onboard_time": 1768727001,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 349514,
+        "num": 349514,
+        "word": "刘文祥麻辣拌 点单配方",
+        "onboard_time": 1768726581,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135296,
+        "num": 348140,
+        "word": "12306购票页面出现雪字",
+        "onboard_time": 1768712420,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422650,
+        "num": 343767,
+        "word": "龙麦",
+        "onboard_time": 1768730662,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273615,
+        "num": 336582,
+        "word": "沈羽洁不二之臣路透简直校花级别",
+        "onboard_time": 1768729762,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136950,
+        "num": 330060,
+        "word": "包头震感",
+        "onboard_time": 1768721060,
+        "rank": 12,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 268576,
+        "num": 323517,
+        "word": "短剧淋雨婴儿片酬仅800元",
+        "onboard_time": 1768717940,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198881,
+        "num": 321113,
+        "word": "骄阳似我直播",
+        "onboard_time": 1768727301,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125034,
+        "num": 314917,
+        "word": "周启豪3比2奥恰洛夫",
+        "onboard_time": 1768730241,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194512,
+        "num": 311007,
+        "word": "孙怡宣传董子健新电影",
+        "onboard_time": 1768731382,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44718,
+        "num": 303896,
+        "word": "取4万元遭盘问报警男子起诉银行",
+        "onboard_time": 1768731563,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42885,
+        "num": 300613,
+        "word": "女子上班先送娃被撞人社局称非工伤",
+        "onboard_time": 1768731202,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36007,
+        "num": 294585,
+        "word": "老外在社交媒体上晒喝热水",
+        "onboard_time": 1768731621,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 367419,
+        "num": 288124,
+        "word": "宋威龙 点我呢我衬衫透的",
+        "onboard_time": 1768729221,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287115,
+        "num": 287115,
+        "word": "王一博挺不上镜的",
+        "onboard_time": 1768725741,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176320,
+        "num": 232249,
+        "word": "曝丈夫出轨女子已道歉7天",
+        "onboard_time": 1768730302,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194793,
+        "num": 194793,
+        "word": "成毅和欢瑞合同到期",
+        "onboard_time": 1768720880,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180518,
+        "num": 180518,
+        "word": "今夕赫夕",
+        "onboard_time": 1768731563,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115503,
+        "num": 174578,
+        "word": "临榆炸鸡腿",
+        "onboard_time": 1768718239,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 172635,
+        "num": 172635,
+        "word": "香港四小龙还剩下2人",
+        "onboard_time": 1768731863,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162700,
+        "num": 162700,
+        "word": "贾玲晒米兰时装秀照片",
+        "onboard_time": 1768728624,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142867,
+        "num": 161846,
+        "word": "NS战胜HLE",
+        "onboard_time": 1768731382,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160994,
+        "num": 160994,
+        "word": "宋威龙庆功宴造型",
+        "onboard_time": 1768725141,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153382,
+        "num": 153382,
+        "word": "沈月入选b站百大up主",
+        "onboard_time": 1768729342,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120583,
+        "num": 120583,
+        "word": "HLE对战NS",
+        "onboard_time": 1768726882,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 219715,
+        "num": 120385,
+        "word": "骄阳似我庆功宴合照",
+        "onboard_time": 1768731382,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118533,
+        "num": 118533,
+        "word": "周深一开口把他们全震住了",
+        "onboard_time": 1768731202,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113166,
+        "num": 113166,
+        "word": "全国多地发布紧急停课通知",
+        "onboard_time": 1768731382,
+        "rank": 34,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 118455,
+        "num": 113058,
+        "word": "徐帆女儿回应没有牵妈妈的手",
+        "onboard_time": 1768727843,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106903,
+        "num": 106903,
+        "word": "阿维塔事故车主亲自澄清",
+        "onboard_time": 1768731743,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103079,
+        "num": 103079,
+        "word": "婴儿淋雨拍短剧",
+        "onboard_time": 1768720819,
+        "rank": 37,
+        "category": "民生新闻,剧集"
+      },
+      {
+        "raw_hot": 32142,
+        "num": 101383,
+        "word": "外卖员虐猫事件已结案无处罚",
+        "onboard_time": 1768731503,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100649,
+        "num": 100649,
+        "word": "包头一工厂爆炸已送至医院40余人",
+        "onboard_time": 1768731743,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113020,
+        "num": 100647,
+        "word": "云旗 在海边发现一只螃蟹",
+        "onboard_time": 1768722440,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109012,
+        "num": 100643,
+        "word": "曝鞠婧祎四千年美女系丝芭营销",
+        "onboard_time": 1768724421,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100636,
+        "num": 100636,
+        "word": "原来iPhone相册这么实用",
+        "onboard_time": 1768728501,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107477,
+        "num": 99860,
+        "word": "敖瑞鹏肠胃炎",
+        "onboard_time": 1768731023,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103377,
+        "num": 99268,
+        "word": "橹穆双人舞台官摄破五百二十万",
+        "onboard_time": 1768729823,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96298,
+        "num": 96298,
+        "word": "包钢厂区爆炸事故已救出5人",
+        "onboard_time": 1768726221,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 100599,
+        "num": 95992,
+        "word": "王鹤棣对沈月说不吃可以给我",
+        "onboard_time": 1768725502,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98942,
+        "num": 95824,
+        "word": "短剧演员吐槽剧组让孩子一直淋雨",
+        "onboard_time": 1768713080,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95495,
+        "num": 95495,
+        "word": "B站崩了",
+        "onboard_time": 1768722200,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 85136,
+        "num": 85136,
+        "word": "纸杯蛋糕",
+        "onboard_time": 1768730241,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记文章为建设现代化人民城市划重点#"
+    }
+  }
+}
