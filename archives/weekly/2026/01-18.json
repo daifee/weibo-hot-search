@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768776286859,
+  "endTime": 1768778857305,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 406201,
-      "num": 779415,
+      "num": 780230,
       "word": "美国童星疑闯红灯被拖行致死",
       "onboard_time": 1768743504,
       "rank": 39,
@@ -651,6 +651,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 298896,
+      "num": 81818,
+      "word": "赵今麦整个北京最严厉的妈咪",
+      "onboard_time": 1768778178,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294861,
       "num": 294861,
       "word": "白鹿李昀锐田曦薇宋威龙 春晚合唱",
@@ -705,6 +713,14 @@
       "onboard_time": 1768691418,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 274164,
+      "num": 274164,
+      "word": "德国军事人员突然秘密撤离格陵兰岛",
+      "onboard_time": 1768777997,
+      "rank": 5,
+      "category": "军事"
     },
     {
       "raw_hot": 273674,
@@ -2899,6 +2915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82666,
+      "num": 82666,
+      "word": "非洲杯",
+      "onboard_time": 1768777877,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82635,
       "num": 82635,
       "word": "Tabe不满意野辅的发挥",
@@ -3051,6 +3075,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78014,
+      "num": 78014,
+      "word": "银川地震",
+      "onboard_time": 1768777758,
+      "rank": 15,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 77759,
+      "num": 77759,
+      "word": "两京十五日",
+      "onboard_time": 1768644441,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77608,
       "num": 106926,
       "word": "伊拉克全面接管阿萨德空军基地",
@@ -3161,6 +3201,14 @@
       "onboard_time": 1768667301,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 71826,
+      "num": 71826,
+      "word": "乒乓球欧冠联赛",
+      "onboard_time": 1768777817,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 71695,
@@ -3291,6 +3339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67493,
+      "num": 67493,
+      "word": "赵今麦眼眶都是湿润的",
+      "onboard_time": 1768778178,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 67486,
       "num": 215924,
       "word": "郑州做好暴雪应对准备暂无停课计划",
@@ -3353,6 +3409,14 @@
       "onboard_time": 1768702280,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 64164,
+      "num": 57669,
+      "word": "姜妍肖战一个在闹一个在笑",
+      "onboard_time": 1768774635,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 63405,
@@ -3465,6 +3529,22 @@
       "onboard_time": 1768664241,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 57856,
+      "num": 57856,
+      "word": "光伏行业为何大面积亏损",
+      "onboard_time": 1768778418,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 57308,
+      "num": 57308,
+      "word": "樊振东16比14高茨",
+      "onboard_time": 1768778779,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 57230,
@@ -3619,6 +3699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48564,
+      "num": 79225,
+      "word": "光伏设备公司密集预告2025年业绩",
+      "onboard_time": 1768755377,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 48332,
       "num": 77714,
       "word": "如果轧戏边拍边播",
@@ -3651,12 +3739,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 45816,
+      "num": 45816,
+      "word": "欧洲被特朗普打脸了",
+      "onboard_time": 1768778598,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 45796,
       "num": 91103,
       "word": "电影马腾你别走",
       "onboard_time": 1768667600,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 44735,
+      "num": 44735,
+      "word": "糖尿病前期的3个标准",
+      "onboard_time": 1768778779,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 43729,
@@ -3691,12 +3795,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42327,
+      "num": 42327,
+      "word": "萨尔布吕肯3比0亨尼邦",
+      "onboard_time": 1768778598,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42256,
       "num": 42256,
       "word": "你好星期六",
       "onboard_time": 1768691895,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 42247,
+      "num": 42247,
+      "word": "公共空间不是个人流量舞台",
+      "onboard_time": 1768778718,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41044,
@@ -3729,14 +3849,6 @@
       "onboard_time": 1768746862,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39018,
-      "num": 79225,
-      "word": "光伏设备公司密集预告2025年业绩",
-      "onboard_time": 1768755377,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 38788,
@@ -3795,6 +3907,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 34502,
+      "num": 39442,
+      "word": "Tabe终结JDG面对AL三连败",
+      "onboard_time": 1768778418,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 33886,
       "num": 78950,
       "word": "喻言缪斯女王超级演唱会",
@@ -3849,14 +3969,6 @@
       "onboard_time": 1768757236,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 28460,
-      "num": 28907,
-      "word": "姜妍肖战一个在闹一个在笑",
-      "onboard_time": 1768774635,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 28110,
@@ -3953,14 +4065,6 @@
       "onboard_time": 1768739903,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 16781,
-      "num": 26284,
-      "word": "两京十五日",
-      "onboard_time": 1768644441,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 16412,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1768778857305,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 227028,
+        "num": 780230,
+        "word": "美国童星疑闯红灯被拖行致死",
+        "onboard_time": 1768743504,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130009,
+        "num": 559545,
+        "word": "轧戏",
+        "onboard_time": 1768736663,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16571,
+        "num": 440348,
+        "word": "神21乘组太空Vlog上新",
+        "onboard_time": 1768740202,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 281720,
+        "num": 281720,
+        "word": "上海外滩女子占道直播跳舞引公愤",
+        "onboard_time": 1768748422,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126163,
+        "num": 277102,
+        "word": "26岁女子两月暴瘦30斤成糖尿病前期",
+        "onboard_time": 1768740024,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274164,
+        "num": 274164,
+        "word": "德国军事人员突然秘密撤离格陵兰岛",
+        "onboard_time": 1768777997,
+        "rank": 5,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 196951,
+        "num": 196951,
+        "word": "为什么袜子洗完总是会变硬",
+        "onboard_time": 1768750941,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140513,
+        "num": 140513,
+        "word": "6人就餐仅花19元老板要求带走垃圾",
+        "onboard_time": 1768740081,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106436,
+        "num": 106436,
+        "word": "梁小龙去世",
+        "onboard_time": 1768723519,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82666,
+        "num": 82666,
+        "word": "非洲杯",
+        "onboard_time": 1768777877,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298896,
+        "num": 81818,
+        "word": "赵今麦整个北京最严厉的妈咪",
+        "onboard_time": 1768778178,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229325,
+        "num": 80884,
+        "word": "董子健回复孙怡",
+        "onboard_time": 1768732703,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97074,
+        "num": 80650,
+        "word": "俄罗斯一地暴雪堆出公寓楼高雪坡",
+        "onboard_time": 1768741221,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 199452,
+        "num": 79031,
+        "word": "罗永浩于谦拒领终身成就奖",
+        "onboard_time": 1768737801,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89536,
+        "num": 78073,
+        "word": "慕容云海一张口我的青春回来了",
+        "onboard_time": 1768746564,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78014,
+        "num": 78014,
+        "word": "银川地震",
+        "onboard_time": 1768777758,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 82413,
+        "num": 77960,
+        "word": "吴磊工作室严正声明",
+        "onboard_time": 1768741342,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77759,
+        "num": 77759,
+        "word": "两京十五日",
+        "onboard_time": 1768777877,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71826,
+        "num": 71826,
+        "word": "乒乓球欧冠联赛",
+        "onboard_time": 1768777817,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59009,
+        "num": 71536,
+        "word": "莱顿大学排名浙大超过哈佛",
+        "onboard_time": 1768747883,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 405319,
+        "num": 71323,
+        "word": "短剧演员回应为何不给婴儿打伞",
+        "onboard_time": 1768748062,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75021,
+        "num": 70926,
+        "word": "贾玲马龙许光汉同框",
+        "onboard_time": 1768751182,
+        "rank": 21,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 146149,
+        "num": 70724,
+        "word": "禁止衣冠不整入内规定已存在多年",
+        "onboard_time": 1768742483,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118258,
+        "num": 70504,
+        "word": "曝杨紫每天都在很痛苦地减肥",
+        "onboard_time": 1768734922,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105249,
+        "num": 70264,
+        "word": "糖尿病前期发出的身体信号",
+        "onboard_time": 1768745783,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 76189,
+        "num": 69753,
+        "word": "微博之夜",
+        "onboard_time": 1768743863,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 69671,
+        "num": 69671,
+        "word": "婴儿淋雨哭到撕心裂肺谁能忍",
+        "onboard_time": 1768741763,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69456,
+        "num": 69456,
+        "word": "短剧淋雨婴儿家长能接受才来",
+        "onboard_time": 1768746683,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67493,
+        "num": 67493,
+        "word": "赵今麦眼眶都是湿润的",
+        "onboard_time": 1768778178,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67441,
+        "num": 67441,
+        "word": "他用一世骂名护她一生周全",
+        "onboard_time": 1768751000,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57856,
+        "num": 57856,
+        "word": "光伏行业为何大面积亏损",
+        "onboard_time": 1768778418,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 64164,
+        "num": 57669,
+        "word": "姜妍肖战一个在闹一个在笑",
+        "onboard_time": 1768774635,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57308,
+        "num": 57308,
+        "word": "樊振东16比14高茨",
+        "onboard_time": 1768778779,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49922,
+        "num": 49922,
+        "word": "周启豪4比2温瑞博",
+        "onboard_time": 1768755317,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48564,
+        "num": 48564,
+        "word": "光伏设备公司密集预告2025年业绩",
+        "onboard_time": 1768755377,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 47853,
+        "num": 47853,
+        "word": "成毅手握多部待播剧",
+        "onboard_time": 1768743323,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47171,
+        "num": 47171,
+        "word": "郑州做好暴雪应对准备暂无停课计划",
+        "onboard_time": 1768751480,
+        "rank": 36,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 45816,
+        "num": 45816,
+        "word": "欧洲被特朗普打脸了",
+        "onboard_time": 1768778598,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 45562,
+        "num": 45562,
+        "word": "香港70平米月租35000的家",
+        "onboard_time": 1768748122,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44735,
+        "num": 44735,
+        "word": "糖尿病前期的3个标准",
+        "onboard_time": 1768778779,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 44311,
+        "num": 44311,
+        "word": "oner败诉",
+        "onboard_time": 1768738701,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42431,
+        "num": 42431,
+        "word": "陈冠希一家洛杉矶参加婚礼",
+        "onboard_time": 1768741943,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42327,
+        "num": 42327,
+        "word": "萨尔布吕肯3比0亨尼邦",
+        "onboard_time": 1768778598,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42247,
+        "num": 42247,
+        "word": "公共空间不是个人流量舞台",
+        "onboard_time": 1768778718,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42000,
+        "num": 42000,
+        "word": "茶颜悦色回应在北上深开店传闻",
+        "onboard_time": 1768753700,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 39454,
+        "num": 39454,
+        "word": "巴菲特子女需10年捐光巨额遗产",
+        "onboard_time": 1768754058,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 36790,
+        "num": 39449,
+        "word": "肖战姜妍新剧拥抱路透",
+        "onboard_time": 1768739482,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36463,
+        "num": 39448,
+        "word": "欢瑞世纪大跌",
+        "onboard_time": 1768735822,
+        "rank": 47,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 34502,
+        "num": 39442,
+        "word": "Tabe终结JDG面对AL三连败",
+        "onboard_time": 1768778418,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 35941,
+        "num": 39438,
+        "word": "陈冠希撞脸毛利小五郎",
+        "onboard_time": 1768746144,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#这则寓言习近平多次讲起#"
+    }
+  }
+}

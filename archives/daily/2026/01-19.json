@@ -1,6 +1,6 @@
 {
   "startTime": 1768754034427,
-  "endTime": 1768776286859,
+  "endTime": 1768778857305,
   "band_list": [
     {
       "raw_hot": 795420,
@@ -24,6 +24,14 @@
       "word": "轧戏",
       "onboard_time": 1768736663,
       "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 298896,
+      "num": 81818,
+      "word": "赵今麦整个北京最严厉的妈咪",
+      "onboard_time": 1768778178,
+      "rank": 10,
       "category": "剧集"
     },
     {
@@ -59,6 +67,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274164,
+      "num": 274164,
+      "word": "德国军事人员突然秘密撤离格陵兰岛",
+      "onboard_time": 1768777997,
+      "rank": 5,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 227028,
+      "num": 780230,
+      "word": "美国童星疑闯红灯被拖行致死",
+      "onboard_time": 1768743504,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 209494,
       "num": 311881,
       "word": "为什么袜子洗完总是会变硬",
@@ -67,12 +91,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 199081,
-      "num": 588416,
-      "word": "美国童星疑闯红灯被拖行致死",
-      "onboard_time": 1768743504,
-      "rank": 1,
-      "category": "海外新闻"
+      "raw_hot": 199452,
+      "num": 216412,
+      "word": "罗永浩于谦拒领终身成就奖",
+      "onboard_time": 1768737801,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 193164,
@@ -139,12 +163,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146149,
+      "num": 216705,
+      "word": "禁止衣冠不整入内规定已存在多年",
+      "onboard_time": 1768742483,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145508,
       "num": 218405,
       "word": "贾玲马龙许光汉同框",
       "onboard_time": 1768751182,
       "rank": 16,
       "category": "作品衍生,体育"
+    },
+    {
+      "raw_hot": 126163,
+      "num": 277102,
+      "word": "26岁女子两月暴瘦30斤成糖尿病前期",
+      "onboard_time": 1768740024,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125056,
@@ -179,14 +219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105615,
-      "num": 237332,
-      "word": "26岁女子两月暴瘦30斤成糖尿病前期",
-      "onboard_time": 1768740024,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104805,
       "num": 216837,
       "word": "肖战姜妍新剧拥抱路透",
@@ -195,12 +227,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104702,
-      "num": 216705,
-      "word": "禁止衣冠不整入内规定已存在多年",
-      "onboard_time": 1768742483,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 97074,
+      "num": 217892,
+      "word": "俄罗斯一地暴雪堆出公寓楼高雪坡",
+      "onboard_time": 1768741221,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 90772,
@@ -235,12 +267,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 82765,
-      "num": 216412,
-      "word": "罗永浩于谦拒领终身成就奖",
-      "onboard_time": 1768737801,
-      "rank": 31,
-      "category": "作品衍生"
+      "raw_hot": 82666,
+      "num": 82666,
+      "word": "非洲杯",
+      "onboard_time": 1768777877,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 81028,
@@ -249,14 +281,6 @@
       "onboard_time": 1768751600,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80028,
-      "num": 217892,
-      "word": "俄罗斯一地暴雪堆出公寓楼高雪坡",
-      "onboard_time": 1768741221,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 79196,
@@ -275,12 +299,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78014,
+      "num": 78014,
+      "word": "银川地震",
+      "onboard_time": 1768777758,
+      "rank": 15,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 77759,
+      "num": 77759,
+      "word": "两京十五日",
+      "onboard_time": 1768777877,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76126,
       "num": 215253,
       "word": "贾玲马龙看秀同框",
       "onboard_time": 1768748422,
       "rank": 34,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 71826,
+      "num": 71826,
+      "word": "乒乓球欧冠联赛",
+      "onboard_time": 1768777817,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 67493,
+      "num": 67493,
+      "word": "赵今麦眼眶都是湿润的",
+      "onboard_time": 1768778178,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 67486,
@@ -296,6 +352,14 @@
       "word": "陈星旭 晚安某只装睡的兔子",
       "onboard_time": 1768750162,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 64164,
+      "num": 57669,
+      "word": "姜妍肖战一个在闹一个在笑",
+      "onboard_time": 1768774635,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -329,6 +393,22 @@
       "onboard_time": 1768750881,
       "rank": 36,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 57856,
+      "num": 57856,
+      "word": "光伏行业为何大面积亏损",
+      "onboard_time": 1768778418,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 57308,
+      "num": 57308,
+      "word": "樊振东16比14高茨",
+      "onboard_time": 1768778779,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 57215,
@@ -379,6 +459,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 48564,
+      "num": 79225,
+      "word": "光伏设备公司密集预告2025年业绩",
+      "onboard_time": 1768755377,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 47770,
       "num": 214091,
       "word": "杨博文疯狂想象自己在游泳池之上",
@@ -411,12 +499,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45816,
+      "num": 45816,
+      "word": "欧洲被特朗普打脸了",
+      "onboard_time": 1768778598,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 45747,
       "num": 108859,
       "word": "今夕赫夕",
       "onboard_time": 1768731563,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 44735,
+      "num": 44735,
+      "word": "糖尿病前期的3个标准",
+      "onboard_time": 1768778779,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 44113,
@@ -435,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42327,
+      "num": 42327,
+      "word": "萨尔布吕肯3比0亨尼邦",
+      "onboard_time": 1768778598,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42312,
       "num": 214672,
       "word": "AL对战JDG",
@@ -443,20 +555,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 42247,
+      "num": 42247,
+      "word": "公共空间不是个人流量舞台",
+      "onboard_time": 1768778718,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39548,
       "num": 441794,
       "word": "这个全球单一国家首次说明什么",
       "onboard_time": 1768740803,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 39018,
-      "num": 79225,
-      "word": "光伏设备公司密集预告2025年业绩",
-      "onboard_time": 1768755377,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 38312,
@@ -473,6 +585,14 @@
       "onboard_time": 1768755917,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 34502,
+      "num": 39442,
+      "word": "Tabe终结JDG面对AL三连败",
+      "onboard_time": 1768778418,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 33886,
@@ -497,14 +617,6 @@
       "onboard_time": 1768757236,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 28460,
-      "num": 28907,
-      "word": "姜妍肖战一个在闹一个在笑",
-      "onboard_time": 1768774635,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 21414,
@@ -547,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 16571,
+      "num": 440348,
+      "word": "神21乘组太空Vlog上新",
+      "onboard_time": 1768740202,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 16220,
       "num": 28869,
       "word": "内蒙古包头一厂区发生爆炸",
@@ -561,14 +681,6 @@
       "onboard_time": 1768739903,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 12294,
-      "num": 273246,
-      "word": "神21乘组太空Vlog上新",
-      "onboard_time": 1768740202,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
