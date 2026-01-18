@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768728576857,
+  "endTime": 1768729392769,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 2670618,
-      "num": 669043,
+      "num": 739520,
       "word": "梁小龙去世",
       "onboard_time": 1768723519,
       "rank": 10,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 2304718,
-      "num": 711710,
+      "num": 734303,
       "word": "临榆炸鸡腿",
       "onboard_time": 1768718239,
       "rank": 33,
@@ -2467,6 +2467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 685209,
+      "num": 673756,
+      "word": "临榆炸鸡腿 我的妻子",
+      "onboard_time": 1768720581,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 680805,
       "num": 251406,
       "word": "单依纯 香奈儿",
@@ -2521,14 +2529,6 @@
       "onboard_time": 1767943880,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 673756,
-      "num": 673756,
-      "word": "临榆炸鸡腿 我的妻子",
-      "onboard_time": 1768720581,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 673702,
@@ -2891,6 +2891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 627763,
+      "num": 627763,
+      "word": "刘文祥麻辣拌 点单配方",
+      "onboard_time": 1768726581,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 627673,
       "num": 627673,
       "word": "老外被中国细糠折服的一天",
@@ -3080,6 +3088,14 @@
       "word": "两外国人在重庆用筷子烫火锅",
       "onboard_time": 1767402928,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 607681,
+      "num": 735220,
+      "word": "6元4寸蛋糕店因订单太多暂停营业",
+      "onboard_time": 1768727120,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -3409,14 +3425,6 @@
       "onboard_time": 1767680901,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 579821,
-      "num": 579821,
-      "word": "刘文祥麻辣拌 点单配方",
-      "onboard_time": 1768726581,
-      "rank": 5,
-      "category": "美食"
     },
     {
       "raw_hot": 579447,
@@ -6123,6 +6131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 437274,
+      "num": 437274,
+      "word": "临榆炸鸡腿 十天吃了八十个腿",
+      "onboard_time": 1768727001,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 437121,
       "num": 206665,
       "word": "岳云鹏回应今年不上春晚",
@@ -7835,6 +7851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 366144,
+      "num": 203266,
+      "word": "王一博挺不上镜的",
+      "onboard_time": 1768725741,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 365715,
       "num": 1095962,
       "word": "原来中年发福不是因为代谢变差",
@@ -8697,14 +8721,6 @@
       "onboard_time": 1768479139,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 339012,
-      "num": 203266,
-      "word": "王一博挺不上镜的",
-      "onboard_time": 1768725741,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 338349,
@@ -10209,14 +10225,6 @@
       "onboard_time": 1767449486,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 300570,
-      "num": 300570,
-      "word": "临榆炸鸡腿 十天吃了八十个腿",
-      "onboard_time": 1768727001,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 300332,
@@ -14724,7 +14732,7 @@
     },
     {
       "raw_hot": 214166,
-      "num": 125638,
+      "num": 138448,
       "word": "赵今麦cp热度",
       "onboard_time": 1768725442,
       "rank": 28,
@@ -15817,6 +15825,14 @@
       "onboard_time": 1768369221,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201647,
+      "num": 149914,
+      "word": "宋威龙 点我呢我衬衫透的",
+      "onboard_time": 1768729221,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 201624,
@@ -17753,14 +17769,6 @@
       "onboard_time": 1767591622,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186575,
-      "num": 186575,
-      "word": "6元4寸蛋糕店因订单太多暂停营业",
-      "onboard_time": 1768727120,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 186517,
@@ -19811,6 +19819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169791,
+      "num": 169791,
+      "word": "HLE对战NS",
+      "onboard_time": 1768726882,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 169730,
       "num": 169730,
       "word": "银行回应凌晨多次点外卖账户被风控",
@@ -20033,6 +20049,14 @@
       "onboard_time": 1768640900,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 167839,
+      "num": 178817,
+      "word": "王鹤棣对沈月说不吃可以给我",
+      "onboard_time": 1768725502,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 167764,
@@ -20777,14 +20801,6 @@
       "onboard_time": 1768109601,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163089,
-      "num": 178817,
-      "word": "王鹤棣对沈月说不吃可以给我",
-      "onboard_time": 1768725502,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 162997,
@@ -22993,6 +23009,14 @@
       "onboard_time": 1767956122,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148915,
+      "num": 148915,
+      "word": "徐帆女儿回应没有牵妈妈的手",
+      "onboard_time": 1768727843,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 148850,
@@ -26363,14 +26387,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 133338,
-      "num": 122496,
-      "word": "徐帆女儿回应没有牵妈妈的手",
-      "onboard_time": 1768727843,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 133323,
       "num": 154319,
       "word": "第1次见下雪的统一动作",
@@ -27515,6 +27531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128065,
+      "num": 128065,
+      "word": "贾玲晒米兰时装秀照片",
+      "onboard_time": 1768728624,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128040,
       "num": 128040,
       "word": "幼童在冬季确诊热射病被送ICU抢救",
@@ -28595,6 +28619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 124081,
+      "num": 124081,
+      "word": "董子健拍出了刘昊然的破碎感",
+      "onboard_time": 1768728921,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 124055,
       "num": 373948,
       "word": "女子吐槽14万的钻石项链200卖不出",
@@ -28953,6 +28985,14 @@
       "onboard_time": 1767522443,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122783,
+      "num": 132358,
+      "word": "原来iPhone相册这么实用",
+      "onboard_time": 1768728501,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 122722,
@@ -30651,6 +30691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116962,
+      "num": 150591,
+      "word": "包钢厂区爆炸事故已救出5人",
+      "onboard_time": 1768726221,
+      "rank": 40,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 116944,
       "num": 152094,
       "word": "赵丽颖小城大事定档海报",
@@ -30929,14 +30977,6 @@
       "onboard_time": 1767413906,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115953,
-      "num": 115953,
-      "word": "原来iPhone相册这么实用",
-      "onboard_time": 1768728501,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 115942,
@@ -31625,14 +31665,6 @@
       "onboard_time": 1767222556,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114039,
-      "num": 114039,
-      "word": "HLE对战NS",
-      "onboard_time": 1768726882,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 114033,
@@ -33827,6 +33859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106798,
+      "num": 143770,
+      "word": "包头发生爆炸厂区属包钢",
+      "onboard_time": 1768728440,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106786,
       "num": 1095424,
       "word": "樊振东认为巴黎奥运会美好又特别",
@@ -34337,14 +34377,6 @@
       "onboard_time": 1767863841,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 105724,
-      "num": 105724,
-      "word": "包头发生爆炸厂区属包钢",
-      "onboard_time": 1768728440,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105723,
@@ -36035,14 +36067,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 101427,
-      "num": 113050,
-      "word": "包钢厂区爆炸事故已救出5人",
-      "onboard_time": 1768726221,
-      "rank": 40,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 101381,
       "num": 123856,
       "word": "李在明访华经济代表团有三星LG",
@@ -36601,6 +36625,14 @@
       "onboard_time": 1768025901,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100227,
+      "num": 100227,
+      "word": "我的生活完全被洗头发控制了",
+      "onboard_time": 1768728741,
+      "rank": 37,
+      "category": "美妆"
     },
     {
       "raw_hot": 100220,
@@ -37979,6 +38011,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 97118,
+      "num": 97118,
+      "word": "东北送外卖穿多厚",
+      "onboard_time": 1768728801,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97092,
       "num": 97092,
       "word": "央视曝大学内推骗局",
@@ -38803,6 +38843,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 95329,
+      "num": 95329,
+      "word": "李亚鹏解释为什么不能立刻搬走",
+      "onboard_time": 1768729221,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95309,
       "num": 95309,
       "word": "国新办新闻发布会",
@@ -39289,6 +39337,14 @@
       "onboard_time": 1767695240,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 94230,
+      "num": 167429,
+      "word": "官方通报行业协会有89名副会长",
+      "onboard_time": 1768728322,
+      "rank": 24,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 94196,
@@ -41139,6 +41195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89973,
+      "num": 89973,
+      "word": "沈月入选b站百大up主",
+      "onboard_time": 1768729342,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89961,
       "num": 89961,
       "word": "老一辈的化妆品太权威了",
@@ -42947,6 +43011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86225,
+      "num": 86225,
+      "word": "王者荣耀马年活动",
+      "onboard_time": 1768729342,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 86219,
       "num": 86219,
       "word": "国防部回应日方鼓吹拥核",
@@ -43673,6 +43745,14 @@
       "onboard_time": 1768630039,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 84715,
+      "num": 84715,
+      "word": "韦雪前夫说韦雪前男友单纯",
+      "onboard_time": 1768729161,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 84675,
@@ -46457,14 +46537,6 @@
       "onboard_time": 1767870020,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77503,
-      "num": 166368,
-      "word": "官方通报行业协会有89名副会长",
-      "onboard_time": 1768728322,
-      "rank": 24,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 77446,
@@ -52572,7 +52644,7 @@
     },
     {
       "raw_hot": 50098,
-      "num": 663245,
+      "num": 741701,
       "word": "2026春运火车票明天开售",
       "onboard_time": 1768711820,
       "rank": 9,
