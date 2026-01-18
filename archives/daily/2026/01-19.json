@@ -1,6 +1,6 @@
 {
   "startTime": 1768754034427,
-  "endTime": 1768762234724,
+  "endTime": 1768764186569,
   "band_list": [
     {
       "raw_hot": 795420,
@@ -499,7 +499,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19565,
+      "raw_hot": 21004,
       "num": 41829,
       "word": "虎牙伍六七说487被甩活该",
       "onboard_time": 1768747104,
@@ -529,6 +529,14 @@
       "onboard_time": 1768737743,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15967,
+      "num": 22243,
+      "word": "声鸣远扬",
+      "onboard_time": 1768739903,
+      "rank": 39,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [

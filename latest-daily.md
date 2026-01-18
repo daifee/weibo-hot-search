@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/19 00:33:54 ~ 2026/01/19 02:50:34
+本榜单时间：2026/01/19 00:33:54 ~ 2026/01/19 03:23:06
 </p>
 </blockquote>
 <p>
@@ -388,7 +388,7 @@ AL对战JDG（热度：42312）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%8E%E7%89%99%E4%BC%8D%E5%85%AD%E4%B8%83%E8%AF%B4487%E8%A2%AB%E7%94%A9%E6%B4%BB%E8%AF%A5%23" target="weibo">
-虎牙伍六七说487被甩活该（热度：19565）
+虎牙伍六七说487被甩活该（热度：21004）
 </a>
 </li>
 
@@ -407,6 +407,12 @@ AL对战JDG（热度：42312）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E7%8E%8B%E7%BB%84%E5%90%88%E5%8D%B0%E5%BA%A6%E8%B5%9B%E5%A4%BA%E5%86%A0%23" target="weibo">
 梁王组合印度赛夺冠（热度：16863）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A3%B0%E9%B8%A3%E8%BF%9C%E6%89%AC%23" target="weibo">
+声鸣远扬（热度：15967）
 </a>
 </li>
 
