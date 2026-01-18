@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768733129314,
+  "endTime": 1768735412537,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1040123,
+      "num": 246254,
+      "word": "董子健回复孙怡",
+      "onboard_time": 1768732703,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 954519,
       "num": 2194297,
       "word": "内蒙古包头一厂区发生爆炸",
@@ -49,14 +57,6 @@
       "onboard_time": 1768699519,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 832125,
-      "num": 246254,
-      "word": "董子健回复孙怡",
-      "onboard_time": 1768732703,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 826044,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 692920,
+      "num": 257306,
+      "word": "今夕赫夕",
+      "onboard_time": 1768731563,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 685209,
       "num": 673756,
       "word": "临榆炸鸡腿 我的妻子",
@@ -171,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 625846,
+      "num": 1598582,
+      "word": "年轻人开始拒绝升职了",
+      "onboard_time": 1768729881,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 621333,
       "num": 70483,
       "word": "iPhone18Pro渲染视频曝光",
@@ -203,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 599391,
+      "num": 343767,
+      "word": "龙麦",
+      "onboard_time": 1768730662,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 576808,
       "num": 295292,
       "word": "宋威龙庆功宴造型",
@@ -224,22 +248,6 @@
       "word": "骄阳似我直播",
       "onboard_time": 1768727301,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 517360,
-      "num": 1598582,
-      "word": "年轻人开始拒绝升职了",
-      "onboard_time": 1768729881,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 503232,
-      "num": 343767,
-      "word": "龙麦",
-      "onboard_time": 1768730662,
-      "rank": 10,
       "category": "剧集"
     },
     {
@@ -323,6 +331,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 403241,
+      "num": 199184,
+      "word": "曝杨紫每天都在很痛苦地减肥",
+      "onboard_time": 1768734922,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 400705,
       "num": 400705,
       "word": "2025百大UP主名单",
@@ -363,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 369835,
+      "num": 251282,
+      "word": "赵今麦庆功宴出图了",
+      "onboard_time": 1768732462,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 367419,
       "num": 288124,
       "word": "宋威龙 点我呢我衬衫透的",
@@ -392,14 +416,6 @@
       "word": "骄阳似我",
       "onboard_time": 1768714822,
       "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 358681,
-      "num": 257306,
-      "word": "今夕赫夕",
-      "onboard_time": 1768731563,
-      "rank": 24,
       "category": "剧集"
     },
     {
@@ -443,14 +459,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 308229,
-      "num": 251282,
-      "word": "赵今麦庆功宴出图了",
-      "onboard_time": 1768732462,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 307277,
       "num": 307277,
       "word": "卸妆油洗头",
@@ -481,6 +489,30 @@
       "onboard_time": 1768659743,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 292943,
+      "num": 292943,
+      "word": "包头一工厂爆炸已送至医院40余人",
+      "onboard_time": 1768731743,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291866,
+      "num": 243589,
+      "word": "香港四小龙还剩下2人",
+      "onboard_time": 1768731863,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 284946,
+      "num": 247620,
+      "word": "改善骨盆前倾 卧英雄式",
+      "onboard_time": 1768732282,
+      "rank": 19,
+      "category": "运动健身"
     },
     {
       "raw_hot": 280621,
@@ -539,20 +571,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 255814,
+      "num": 198092,
+      "word": "周星驰悼念梁小龙",
+      "onboard_time": 1768734261,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253629,
       "num": 209927,
       "word": "男子摆拍污名化成都男性被刑拘",
       "onboard_time": 1768706301,
       "rank": 12,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 251618,
-      "num": 243589,
-      "word": "香港四小龙还剩下2人",
-      "onboard_time": 1768731863,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 248157,
@@ -577,6 +609,14 @@
       "onboard_time": 1768706059,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243575,
+      "num": 254557,
+      "word": "外卖员虐猫事件已结案无处罚",
+      "onboard_time": 1768731503,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 242143,
@@ -609,6 +649,14 @@
       "onboard_time": 1768713141,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 232073,
+      "num": 248526,
+      "word": "来华免签变成来华就医",
+      "onboard_time": 1768731621,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 226935,
@@ -683,6 +731,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212898,
+      "num": 266072,
+      "word": "仙逆",
+      "onboard_time": 1768732883,
+      "rank": 9,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 207824,
+      "num": 244967,
+      "word": "全国多地发布紧急停课通知",
+      "onboard_time": 1768731382,
+      "rank": 34,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 205873,
       "num": 134916,
       "word": "粉丝找祝绪丹要红包",
@@ -704,14 +768,6 @@
       "word": "法院应避免公开处刑闹剧重演",
       "onboard_time": 1768702339,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 202308,
-      "num": 267542,
-      "word": "包头一工厂爆炸已送至医院40余人",
-      "onboard_time": 1768731743,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -747,12 +803,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196606,
-      "num": 244967,
-      "word": "全国多地发布紧急停课通知",
-      "onboard_time": 1768731382,
-      "rank": 34,
-      "category": "突发/灾害"
+      "raw_hot": 196311,
+      "num": 196311,
+      "word": "梁小龙离世前一天还与友人聚会",
+      "onboard_time": 1768733482,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 195207,
@@ -851,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185744,
+      "num": 185744,
+      "word": "沈月银河精灵",
+      "onboard_time": 1768735162,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185506,
       "num": 170455,
       "word": "陈星旭演技",
@@ -865,6 +929,14 @@
       "onboard_time": 1768705820,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184409,
+      "num": 184409,
+      "word": "曝刘耀文私下反差很大",
+      "onboard_time": 1768732462,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 183994,
@@ -889,14 +961,6 @@
       "onboard_time": 1768703540,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 180173,
-      "num": 180173,
-      "word": "曝刘耀文私下反差很大",
-      "onboard_time": 1768732462,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 179348,
@@ -1003,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156538,
+      "num": 303896,
+      "word": "取4万元遭盘问报警男子起诉银行",
+      "onboard_time": 1768731563,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153637,
       "num": 153637,
       "word": "宋威龙像AI一样弹射出去了",
@@ -1043,6 +1115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149440,
+      "num": 200462,
+      "word": "纸杯蛋糕",
+      "onboard_time": 1768730241,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 148915,
       "num": 148915,
       "word": "徐帆女儿回应没有牵妈妈的手",
@@ -1073,14 +1153,6 @@
       "onboard_time": 1768723942,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 146855,
-      "num": 266072,
-      "word": "仙逆",
-      "onboard_time": 1768732883,
-      "rank": 9,
-      "category": "动漫"
     },
     {
       "raw_hot": 146575,
@@ -1131,6 +1203,14 @@
       "category": "网红,运动健身"
     },
     {
+      "raw_hot": 142398,
+      "num": 196548,
+      "word": "别再叫她们公主请叫她们总裁",
+      "onboard_time": 1768733843,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140343,
       "num": 113591,
       "word": "徐怀钰现身张韶涵厦门演唱会",
@@ -1139,12 +1219,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 136637,
-      "num": 254557,
-      "word": "外卖员虐猫事件已结案无处罚",
-      "onboard_time": 1768731503,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 139053,
+      "num": 139053,
+      "word": "陈星旭128秒无台词这段",
+      "onboard_time": 1768734201,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 134951,
@@ -1371,14 +1451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117769,
-      "num": 248526,
-      "word": "来华免签变成来华就医",
-      "onboard_time": 1768731621,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 117600,
       "num": 117600,
       "word": "我的朋友安德烈",
@@ -1449,14 +1521,6 @@
       "onboard_time": 1768727600,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112399,
-      "num": 247620,
-      "word": "改善骨盆前倾 卧英雄式",
-      "onboard_time": 1768732282,
-      "rank": 19,
-      "category": "运动健身"
     },
     {
       "raw_hot": 111566,
@@ -1611,12 +1675,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103272,
-      "num": 190212,
-      "word": "纸杯蛋糕",
-      "onboard_time": 1768730241,
-      "rank": 49,
-      "category": "美食"
+      "raw_hot": 103381,
+      "num": 193128,
+      "word": "TES对战BLG",
+      "onboard_time": 1768731262,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 102609,
@@ -1633,14 +1697,6 @@
       "onboard_time": 1768712841,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 102045,
-      "num": 303896,
-      "word": "取4万元遭盘问报警男子起诉银行",
-      "onboard_time": 1768731563,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101701,
@@ -1697,6 +1753,14 @@
       "onboard_time": 1768655181,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98547,
+      "num": 184744,
+      "word": "折叠屏到了东北就是碎碎冰",
+      "onboard_time": 1768734022,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 98384,
@@ -1859,6 +1923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92910,
+      "num": 169704,
+      "word": "中国乒协用专业守护体育精神",
+      "onboard_time": 1768733184,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92322,
       "num": 92322,
       "word": "河南省考",
@@ -1915,6 +1987,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87627,
+      "num": 143704,
+      "word": "LGDNBW对战RW",
+      "onboard_time": 1768734742,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 87207,
+      "num": 134159,
+      "word": "表哥这个称呼念起来特别有嚼劲",
+      "onboard_time": 1768735162,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87056,
       "num": 87056,
       "word": "小猫把路睡塌了",
@@ -1953,6 +2041,14 @@
       "onboard_time": 1768720279,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 86295,
+      "num": 123304,
+      "word": "夫妻结婚两年多丈夫被前妻起诉",
+      "onboard_time": 1768735342,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86225,
@@ -2017,6 +2113,14 @@
       "onboard_time": 1768720101,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84780,
+      "num": 122868,
+      "word": "NS零封HLE",
+      "onboard_time": 1768735102,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 84715,

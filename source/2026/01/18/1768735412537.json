@@ -1,0 +1,410 @@
+{
+  "runTime": 1768735412537,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 625846,
+        "num": 1100135,
+        "word": "年轻人开始拒绝升职了",
+        "onboard_time": 1768729881,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 453354,
+        "num": 775731,
+        "word": "内蒙古包头一厂区发生爆炸",
+        "onboard_time": 1768724962,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45788,
+        "num": 647262,
+        "word": "2026春运火车票明天开售",
+        "onboard_time": 1768711820,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 602520,
+        "num": 602520,
+        "word": "梁小龙去世",
+        "onboard_time": 1768723519,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292943,
+        "num": 292943,
+        "word": "包头一工厂爆炸已送至医院40余人",
+        "onboard_time": 1768731743,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243575,
+        "num": 243575,
+        "word": "外卖员虐猫事件已结案无处罚",
+        "onboard_time": 1768731503,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233859,
+        "num": 233859,
+        "word": "6元4寸蛋糕店因订单太多暂停营业",
+        "onboard_time": 1768727120,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232073,
+        "num": 232073,
+        "word": "来华免签变成来华就医",
+        "onboard_time": 1768731621,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223421,
+        "num": 223421,
+        "word": "刘文祥麻辣拌 点单配方",
+        "onboard_time": 1768726581,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 212898,
+        "num": 212898,
+        "word": "仙逆",
+        "onboard_time": 1768732883,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 692920,
+        "num": 211965,
+        "word": "今夕赫夕",
+        "onboard_time": 1768731563,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 599391,
+        "num": 210551,
+        "word": "龙麦",
+        "onboard_time": 1768730662,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284946,
+        "num": 210060,
+        "word": "改善骨盆前倾 卧英雄式",
+        "onboard_time": 1768732282,
+        "rank": 12,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 369835,
+        "num": 208496,
+        "word": "赵今麦庆功宴出图了",
+        "onboard_time": 1768732462,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 5191030,
+        "num": 5191030,
+        "word": "孙怡 我的朋友董子健",
+        "onboard_time": 1768729460,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156538,
+        "num": 205474,
+        "word": "取4万元遭盘问报警男子起诉银行",
+        "onboard_time": 1768731563,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280130,
+        "num": 203453,
+        "word": "骄阳似我庆功宴",
+        "onboard_time": 1768712779,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213600,
+        "num": 202061,
+        "word": "短剧淋雨婴儿片酬仅800元",
+        "onboard_time": 1768717940,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149440,
+        "num": 200462,
+        "word": "纸杯蛋糕",
+        "onboard_time": 1768730241,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 200391,
+        "num": 200391,
+        "word": "骄阳似我庆功宴合照",
+        "onboard_time": 1768731382,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1040123,
+        "num": 199969,
+        "word": "董子健回复孙怡",
+        "onboard_time": 1768732703,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207824,
+        "num": 199901,
+        "word": "全国多地发布紧急停课通知",
+        "onboard_time": 1768731382,
+        "rank": 21,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 403241,
+        "num": 199184,
+        "word": "曝杨紫每天都在很痛苦地减肥",
+        "onboard_time": 1768734922,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291866,
+        "num": 198998,
+        "word": "香港四小龙还剩下2人",
+        "onboard_time": 1768731863,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129142,
+        "num": 198473,
+        "word": "婴儿淋雨拍短剧",
+        "onboard_time": 1768720819,
+        "rank": 24,
+        "category": "民生新闻,剧集"
+      },
+      {
+        "raw_hot": 255814,
+        "num": 198092,
+        "word": "周星驰悼念梁小龙",
+        "onboard_time": 1768734261,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246350,
+        "num": 197470,
+        "word": "宋威龙 点我呢我衬衫透的",
+        "onboard_time": 1768729221,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155306,
+        "num": 197193,
+        "word": "曝丈夫出轨女子已道歉7天",
+        "onboard_time": 1768730302,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142398,
+        "num": 196548,
+        "word": "别再叫她们公主请叫她们总裁",
+        "onboard_time": 1768733843,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196311,
+        "num": 196311,
+        "word": "梁小龙离世前一天还与友人聚会",
+        "onboard_time": 1768733482,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103381,
+        "num": 193128,
+        "word": "TES对战BLG",
+        "onboard_time": 1768731262,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192850,
+        "num": 192850,
+        "word": "成毅和欢瑞合同到期",
+        "onboard_time": 1768720880,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185744,
+        "num": 185744,
+        "word": "沈月银河精灵",
+        "onboard_time": 1768735162,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98547,
+        "num": 184744,
+        "word": "折叠屏到了东北就是碎碎冰",
+        "onboard_time": 1768734022,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 184409,
+        "num": 184409,
+        "word": "曝刘耀文私下反差很大",
+        "onboard_time": 1768732462,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180817,
+        "num": 180817,
+        "word": "王一博挺不上镜的",
+        "onboard_time": 1768725741,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92910,
+        "num": 169704,
+        "word": "中国乒协用专业守护体育精神",
+        "onboard_time": 1768733184,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159819,
+        "num": 159819,
+        "word": "周星驰三次邀请梁小龙演火云邪神",
+        "onboard_time": 1768732523,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91351,
+        "num": 147862,
+        "word": "12306购票页面出现雪字",
+        "onboard_time": 1768712420,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87627,
+        "num": 143704,
+        "word": "LGDNBW对战RW",
+        "onboard_time": 1768734742,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143276,
+        "num": 143276,
+        "word": "宋威龙像AI一样弹射出去了",
+        "onboard_time": 1768732582,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139053,
+        "num": 139053,
+        "word": "陈星旭128秒无台词这段",
+        "onboard_time": 1768734201,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87207,
+        "num": 134159,
+        "word": "表哥这个称呼念起来特别有嚼劲",
+        "onboard_time": 1768735162,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131562,
+        "num": 131562,
+        "word": "你是周也那她是谁",
+        "onboard_time": 1768732223,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129173,
+        "num": 129173,
+        "word": "沈月入选b站百大up主",
+        "onboard_time": 1768729342,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86295,
+        "num": 123304,
+        "word": "夫妻结婚两年多丈夫被前妻起诉",
+        "onboard_time": 1768735342,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123303,
+        "num": 123303,
+        "word": "骄阳似我直播",
+        "onboard_time": 1768727301,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84780,
+        "num": 122868,
+        "word": "NS零封HLE",
+        "onboard_time": 1768735102,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83865,
+        "num": 122100,
+        "word": "包头震感",
+        "onboard_time": 1768721060,
+        "rank": 48,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 81208,
+        "num": 121436,
+        "word": "原来iPhone相册这么实用",
+        "onboard_time": 1768728501,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记文章为建设现代化人民城市划重点#"
+    }
+  }
+}
