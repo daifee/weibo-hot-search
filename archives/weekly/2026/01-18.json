@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768775309330,
+  "endTime": 1768776286859,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -3827,6 +3827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30351,
+      "num": 30351,
+      "word": "赵今麦骄阳似我庆功宴造型",
+      "onboard_time": 1768770194,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 30137,
       "num": 33023,
       "word": "朱志鑫分享一下耳机里的歌",
@@ -3843,11 +3851,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 28517,
-      "num": 28517,
-      "word": "赵今麦骄阳似我庆功宴造型",
-      "onboard_time": 1768770194,
-      "rank": 40,
+      "raw_hot": 28460,
+      "num": 28907,
+      "word": "姜妍肖战一个在闹一个在笑",
+      "onboard_time": 1768774635,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -3985,14 +3993,6 @@
       "onboard_time": 1768655542,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 14803,
-      "num": 28499,
-      "word": "姜妍肖战一个在闹一个在笑",
-      "onboard_time": 1768774635,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 12974,
