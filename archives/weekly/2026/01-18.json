@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768743325916,
+  "endTime": 1768744072142,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1765303,
-      "num": 246254,
+      "num": 279880,
       "word": "董子健回复孙怡",
       "onboard_time": 1768732703,
       "rank": 20,
@@ -43,8 +43,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 971314,
-      "num": 203839,
+      "raw_hot": 1059339,
+      "num": 271362,
       "word": "吴磊工作室严正声明",
       "onboard_time": 1768741342,
       "rank": 20,
@@ -67,8 +67,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 894791,
-      "num": 1143166,
+      "raw_hot": 904329,
+      "num": 1144692,
       "word": "欢瑞世纪大跌",
       "onboard_time": 1768735822,
       "rank": 21,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 838604,
-      "num": 203414,
+      "num": 227642,
       "word": "oner败诉",
       "onboard_time": 1768738701,
       "rank": 13,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 807590,
+      "num": 409635,
+      "word": "6人就餐仅花19元老板要求带走垃圾",
+      "onboard_time": 1768740081,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 772814,
       "num": 1147902,
       "word": "短剧淋雨婴儿片酬仅800元",
@@ -137,14 +145,6 @@
       "onboard_time": 1768704859,
       "rank": 8,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 755964,
-      "num": 409635,
-      "word": "6人就餐仅花19元老板要求带走垃圾",
-      "onboard_time": 1768740081,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 742067,
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 449364,
+      "num": 825105,
+      "word": "俄罗斯一地暴雪堆出公寓楼高雪坡",
+      "onboard_time": 1768741221,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 447822,
       "num": 167904,
       "word": "香港床底藏尸案凶手连宠物也没放过",
@@ -499,6 +507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 333290,
+      "num": 337789,
+      "word": "轧戏",
+      "onboard_time": 1768649841,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 325112,
       "num": 81979,
       "word": "又一款罕见病药将退出中国市场",
@@ -548,19 +564,11 @@
     },
     {
       "raw_hot": 305766,
-      "num": 247620,
+      "num": 261495,
       "word": "改善骨盆前倾 卧英雄式",
       "onboard_time": 1768732282,
       "rank": 19,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 295987,
-      "num": 822730,
-      "word": "俄罗斯一地暴雪堆出公寓楼高雪坡",
-      "onboard_time": 1768741221,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 294861,
@@ -651,14 +659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 260599,
-      "num": 337789,
-      "word": "轧戏",
-      "onboard_time": 1768649841,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 260447,
       "num": 260447,
       "word": "来华免签变成来华就医",
@@ -681,6 +681,14 @@
       "onboard_time": 1768731503,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 255242,
+      "num": 156132,
+      "word": "华晨宇 我才是快乐男声",
+      "onboard_time": 1768742961,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 253629,
@@ -811,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221213,
+      "num": 148138,
+      "word": "成毅手握多部待播剧",
+      "onboard_time": 1768743323,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221036,
       "num": 173301,
       "word": "王俊凯依旧手搓蛋糕",
@@ -833,6 +849,14 @@
       "onboard_time": 1768704500,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 214800,
+      "num": 310060,
+      "word": "婴儿淋雨哭到撕心裂肺谁能忍",
+      "onboard_time": 1768741763,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214166,
@@ -1139,6 +1163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174086,
+      "num": 174086,
+      "word": "上海龙华寺三只猫在殿内吵架",
+      "onboard_time": 1768743082,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170600,
       "num": 303896,
       "word": "取4万元遭盘问报警男子起诉银行",
@@ -1180,7 +1212,7 @@
     },
     {
       "raw_hot": 165607,
-      "num": 146615,
+      "num": 153870,
       "word": "禁止衣冠不整入内规定已存在多年",
       "onboard_time": 1768742483,
       "rank": 22,
@@ -1225,6 +1257,14 @@
       "onboard_time": 1768654460,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160758,
+      "num": 132655,
+      "word": "微博之夜",
+      "onboard_time": 1768743863,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 158819,
@@ -1281,14 +1321,6 @@
       "onboard_time": 1768724660,
       "rank": 31,
       "category": "网红"
-    },
-    {
-      "raw_hot": 151273,
-      "num": 151273,
-      "word": "婴儿淋雨哭到撕心裂肺谁能忍",
-      "onboard_time": 1768741763,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151148,
@@ -1363,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145158,
+      "num": 128846,
+      "word": "周杰伦回应白卓璇",
+      "onboard_time": 1768743202,
+      "rank": 42,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 143930,
       "num": 124784,
       "word": "陈奕恒单人cha太帅了",
@@ -1401,6 +1441,14 @@
       "onboard_time": 1768733843,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140816,
+      "num": 140816,
+      "word": "赛丽亚成新年灯会顶流",
+      "onboard_time": 1768743202,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 140343,
@@ -1449,6 +1497,14 @@
       "onboard_time": 1768629321,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 132783,
+      "num": 132783,
+      "word": "黑色马蹄莲卖爆了",
+      "onboard_time": 1768742602,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132312,
@@ -1619,14 +1675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122415,
-      "num": 122415,
-      "word": "黑色马蹄莲卖爆了",
-      "onboard_time": 1768742602,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121627,
       "num": 121627,
       "word": "向出轨丈夫道歉女子称自己多次住院",
@@ -1643,11 +1691,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120822,
+      "num": 115577,
+      "word": "轧戏男主人设",
+      "onboard_time": 1768743683,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120306,
       "num": 120306,
       "word": "无双状态",
       "onboard_time": 1768726462,
       "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 119545,
+      "num": 119545,
+      "word": "WB对战TES",
+      "onboard_time": 1768743983,
+      "rank": 34,
       "category": "电竞"
     },
     {
@@ -1787,6 +1851,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 114013,
+      "num": 157666,
+      "word": "5名外卖员将手指砸骨折骗保32万",
+      "onboard_time": 1768743504,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113981,
       "num": 113981,
       "word": "橹穆双人舞台官摄破五百二十万",
@@ -1811,20 +1883,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112898,
-      "num": 112898,
-      "word": "上海龙华寺三只猫在殿内吵架",
-      "onboard_time": 1768743082,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 111566,
       "num": 111566,
       "word": "国际奥委会回应禁止美国参加冬奥会",
       "onboard_time": 1768725082,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111215,
+      "num": 111215,
+      "word": "宋威龙赵今麦合唱主题曲",
+      "onboard_time": 1768742844,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 110695,
@@ -1873,14 +1945,6 @@
       "onboard_time": 1768709778,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 109452,
-      "num": 109452,
-      "word": "华晨宇 我才是快乐男声",
-      "onboard_time": 1768742961,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 108668,
@@ -2059,6 +2123,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 100754,
+      "num": 100754,
+      "word": "6人就餐自带食物还回怼老板没格局",
+      "onboard_time": 1768742904,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100543,
       "num": 91380,
       "word": "男子家中容留2女卖淫被判刑",
@@ -2123,14 +2195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 98587,
-      "num": 98587,
-      "word": "周杰伦回应白卓璇",
-      "onboard_time": 1768743202,
-      "rank": 42,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 98547,
       "num": 184744,
       "word": "折叠屏到了东北就是碎碎冰",
@@ -2193,14 +2257,6 @@
       "onboard_time": 1768702759,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 97358,
-      "num": 97358,
-      "word": "宋威龙赵今麦合唱主题曲",
-      "onboard_time": 1768742844,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 97118,
@@ -2387,28 +2443,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 90524,
-      "num": 97373,
-      "word": "6人就餐自带食物还回怼老板没格局",
-      "onboard_time": 1768742904,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89839,
       "num": 89839,
       "word": "白鹿比八",
       "onboard_time": 1768720399,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 89716,
-      "num": 95950,
-      "word": "赛丽亚成新年灯会顶流",
-      "onboard_time": 1768743202,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 89001,
@@ -2537,6 +2577,14 @@
       "onboard_time": 1768732823,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85482,
+      "num": 116169,
+      "word": "美国童星疑闯红灯被拖行致死",
+      "onboard_time": 1768743504,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 85365,
@@ -2811,6 +2859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74628,
+      "num": 658954,
+      "word": "这个全球单一国家首次说明什么",
+      "onboard_time": 1768740803,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 73813,
       "num": 73813,
       "word": "谷爱凌我自己翻译自己",
@@ -3065,14 +3121,6 @@
       "onboard_time": 1768664241,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 58929,
-      "num": 652967,
-      "word": "这个全球单一国家首次说明什么",
-      "onboard_time": 1768740803,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 57230,

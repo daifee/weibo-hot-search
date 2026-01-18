@@ -1,0 +1,410 @@
+{
+  "runTime": 1768744072142,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 904329,
+        "num": 1144692,
+        "word": "欢瑞世纪大跌",
+        "onboard_time": 1768735822,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 449364,
+        "num": 825105,
+        "word": "俄罗斯一地暴雪堆出公寓楼高雪坡",
+        "onboard_time": 1768741221,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 74628,
+        "num": 658954,
+        "word": "这个全球单一国家首次说明什么",
+        "onboard_time": 1768740803,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 750312,
+        "num": 618679,
+        "word": "梁小龙去世",
+        "onboard_time": 1768723519,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391097,
+        "num": 391097,
+        "word": "26岁女子两月暴瘦30斤成糖尿病前期",
+        "onboard_time": 1768740024,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 807590,
+        "num": 390529,
+        "word": "6人就餐仅花19元老板要求带走垃圾",
+        "onboard_time": 1768740081,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372699,
+        "num": 372699,
+        "word": "肖战姜妍新剧拥抱路透",
+        "onboard_time": 1768739482,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333290,
+        "num": 333290,
+        "word": "轧戏",
+        "onboard_time": 1768736663,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232339,
+        "num": 319370,
+        "word": "6元4寸蛋糕店因订单太多暂停营业",
+        "onboard_time": 1768727120,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214800,
+        "num": 310060,
+        "word": "婴儿淋雨哭到撕心裂肺谁能忍",
+        "onboard_time": 1768741763,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1483647,
+        "num": 279880,
+        "word": "董子健回复孙怡",
+        "onboard_time": 1768732703,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1059339,
+        "num": 271362,
+        "word": "吴磊工作室严正声明",
+        "onboard_time": 1768741342,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261495,
+        "num": 261495,
+        "word": "改善骨盆前倾 卧英雄式",
+        "onboard_time": 1768732282,
+        "rank": 12,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 686241,
+        "num": 227642,
+        "word": "oner败诉",
+        "onboard_time": 1768738701,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 569216,
+        "num": 210312,
+        "word": "曝杨紫每天都在很痛苦地减肥",
+        "onboard_time": 1768734922,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189886,
+        "num": 189886,
+        "word": "国乒包揽多哈站男单冠亚军",
+        "onboard_time": 1768736421,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 404218,
+        "num": 185434,
+        "word": "罗永浩于谦拒领终身成就奖",
+        "onboard_time": 1768737801,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174086,
+        "num": 174086,
+        "word": "上海龙华寺三只猫在殿内吵架",
+        "onboard_time": 1768743082,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165584,
+        "num": 165584,
+        "word": "刘文祥麻辣拌 点单配方",
+        "onboard_time": 1768726581,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 114013,
+        "num": 157666,
+        "word": "5名外卖员将手指砸骨折骗保32万",
+        "onboard_time": 1768743504,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370699,
+        "num": 156162,
+        "word": "章昊开通微博",
+        "onboard_time": 1768739062,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255242,
+        "num": 156132,
+        "word": "华晨宇 我才是快乐男声",
+        "onboard_time": 1768742961,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153870,
+        "num": 153870,
+        "word": "禁止衣冠不整入内规定已存在多年",
+        "onboard_time": 1768742483,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221213,
+        "num": 148138,
+        "word": "成毅手握多部待播剧",
+        "onboard_time": 1768743323,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211422,
+        "num": 147331,
+        "word": "龙麦",
+        "onboard_time": 1768730662,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140816,
+        "num": 140816,
+        "word": "赛丽亚成新年灯会顶流",
+        "onboard_time": 1768743202,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200236,
+        "num": 140193,
+        "word": "陈冠希一家洛杉矶参加婚礼",
+        "onboard_time": 1768741943,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175748,
+        "num": 139702,
+        "word": "林依轮 这个评论好像死了",
+        "onboard_time": 1768742123,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132783,
+        "num": 132783,
+        "word": "黑色马蹄莲卖爆了",
+        "onboard_time": 1768742602,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160758,
+        "num": 132655,
+        "word": "微博之夜",
+        "onboard_time": 1768743863,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146870,
+        "num": 132651,
+        "word": "今夕赫夕",
+        "onboard_time": 1768731563,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132492,
+        "num": 132492,
+        "word": "全国多地发布紧急停课通知",
+        "onboard_time": 1768731382,
+        "rank": 31,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 145158,
+        "num": 128846,
+        "word": "周杰伦回应白卓璇",
+        "onboard_time": 1768743202,
+        "rank": 32,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 132745,
+        "num": 125528,
+        "word": "男女主沙发吻完办公桌吻",
+        "onboard_time": 1768738642,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119545,
+        "num": 119545,
+        "word": "WB对战TES",
+        "onboard_time": 1768743983,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118473,
+        "num": 118473,
+        "word": "来华免签变成来华就医",
+        "onboard_time": 1768731621,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108227,
+        "num": 117973,
+        "word": "手链扔火炉女子灰烬中找回48颗金珠",
+        "onboard_time": 1768735882,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102961,
+        "num": 117353,
+        "word": "深圳一地铁口被电鸡堵得走不动",
+        "onboard_time": 1768741342,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121253,
+        "num": 116821,
+        "word": "王一博挺不上镜的",
+        "onboard_time": 1768725741,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85482,
+        "num": 116169,
+        "word": "美国童星疑闯红灯被拖行致死",
+        "onboard_time": 1768743504,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 120822,
+        "num": 115577,
+        "word": "轧戏男主人设",
+        "onboard_time": 1768743683,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115038,
+        "num": 115038,
+        "word": "黄子韬刘耀文一起去滑雪了",
+        "onboard_time": 1768738942,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94969,
+        "num": 112248,
+        "word": "内蒙古包头一厂区发生爆炸",
+        "onboard_time": 1768724962,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111215,
+        "num": 111215,
+        "word": "宋威龙赵今麦合唱主题曲",
+        "onboard_time": 1768742844,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104138,
+        "num": 104138,
+        "word": "秦岚现身马年春晚彩排",
+        "onboard_time": 1768742723,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100754,
+        "num": 100754,
+        "word": "6人就餐自带食物还回怼老板没格局",
+        "onboard_time": 1768742904,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107703,
+        "num": 100744,
+        "word": "彭小苒 我救了你一命",
+        "onboard_time": 1768740141,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100723,
+        "num": 100723,
+        "word": "周星驰悼念梁小龙",
+        "onboard_time": 1768734261,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93206,
+        "num": 99828,
+        "word": "仙逆",
+        "onboard_time": 1768732883,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 88967,
+        "num": 98693,
+        "word": "包头包钢一厂区爆炸事发监控画面",
+        "onboard_time": 1768737743,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这则寓言习近平多次讲起#"
+    }
+  }
+}
