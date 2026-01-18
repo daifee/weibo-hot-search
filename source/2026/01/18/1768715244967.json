@@ -1,0 +1,410 @@
+{
+  "runTime": 1768715244967,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 821462,
+        "num": 1131434,
+        "word": "骄阳似我庆功宴",
+        "onboard_time": 1768712779,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 738713,
+        "num": 811011,
+        "word": "12306购票页面出现雪字",
+        "onboard_time": 1768712420,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35792,
+        "num": 666583,
+        "word": "10万亿度电背后是中国澎湃的能量",
+        "onboard_time": 1768705399,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 530477,
+        "num": 530477,
+        "word": "为什么酒店床上要放四个枕头",
+        "onboard_time": 1768708880,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 481035,
+        "num": 481035,
+        "word": "短剧演员吐槽剧组让孩子一直淋雨",
+        "onboard_time": 1768713080,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303771,
+        "num": 303771,
+        "word": "东北室内全是东北人",
+        "onboard_time": 1768709360,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285313,
+        "num": 285313,
+        "word": "买水果发现异常提醒店员后不放心",
+        "onboard_time": 1768701199,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236606,
+        "num": 236606,
+        "word": "北京鹅毛大雪",
+        "onboard_time": 1768699639,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225842,
+        "num": 225842,
+        "word": "河南的暴雪还下吗",
+        "onboard_time": 1768709840,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198265,
+        "num": 198265,
+        "word": "骄阳似我庆功宴是婚礼的场地",
+        "onboard_time": 1768713980,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 616270,
+        "num": 197298,
+        "word": "嫣然医院 唇腭裂治疗",
+        "onboard_time": 1768708700,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 603499,
+        "num": 196477,
+        "word": "赵樱子称孟子义上综艺要感谢她",
+        "onboard_time": 1768711161,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400928,
+        "num": 195297,
+        "word": "陈星旭王玉雯吻戏",
+        "onboard_time": 1768709840,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338060,
+        "num": 192670,
+        "word": "二楼直排粪水扬言弄死报警的一楼",
+        "onboard_time": 1768708940,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212777,
+        "num": 191962,
+        "word": "在巴厘岛确诊脏水病",
+        "onboard_time": 1768706899,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204014,
+        "num": 189673,
+        "word": "王安宇杂志",
+        "onboard_time": 1768713439,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 189376,
+        "num": 189376,
+        "word": "当胡萝卜纸巾升级为人类级难度",
+        "onboard_time": 1768713141,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185575,
+        "num": 185575,
+        "word": "胡萝卜纸巾最难的一集出现了",
+        "onboard_time": 1768713141,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181599,
+        "num": 181599,
+        "word": "辛芷蕾 我太有眼光了",
+        "onboard_time": 1768712299,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169558,
+        "num": 169558,
+        "word": "王一博晒攀冰照",
+        "onboard_time": 1768709360,
+        "rank": 19,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 249387,
+        "num": 167904,
+        "word": "香港床底藏尸案凶手连宠物也没放过",
+        "onboard_time": 1768707678,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165055,
+        "num": 165055,
+        "word": "蒋奇明演技",
+        "onboard_time": 1768714339,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164068,
+        "num": 164068,
+        "word": "王鹤棣听到倒闭的反应",
+        "onboard_time": 1768714822,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133194,
+        "num": 146884,
+        "word": "财务看演唱会通病",
+        "onboard_time": 1768709898,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143625,
+        "num": 143625,
+        "word": "恋综两男争一女 大型雄竞现场",
+        "onboard_time": 1768714040,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139692,
+        "num": 139692,
+        "word": "原来谭晶和许嵩早就约好唱素颜",
+        "onboard_time": 1768713320,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120935,
+        "num": 133970,
+        "word": "女子1年胖20斤牛仔裤全穿不上",
+        "onboard_time": 1768713141,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129096,
+        "num": 129096,
+        "word": "李亚鹏直播带货一晚卖出超千万",
+        "onboard_time": 1768710680,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126841,
+        "num": 126841,
+        "word": "名侦探学院",
+        "onboard_time": 1768713980,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117179,
+        "num": 117179,
+        "word": "三只松鼠宣布调价",
+        "onboard_time": 1768713259,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 251194,
+        "num": 116426,
+        "word": "外国母亲看人体展览发现儿子遗体",
+        "onboard_time": 1768715120,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122804,
+        "num": 115167,
+        "word": "喜人 春晚",
+        "onboard_time": 1768701140,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113292,
+        "num": 113292,
+        "word": "王安宇没参加春晚联排",
+        "onboard_time": 1768699519,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109712,
+        "num": 109712,
+        "word": "内存涨爆了",
+        "onboard_time": 1768711100,
+        "rank": 33,
+        "category": "财经,数码"
+      },
+      {
+        "raw_hot": 108373,
+        "num": 108373,
+        "word": "坐公交偶遇杨旭文",
+        "onboard_time": 1768713320,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100960,
+        "num": 100960,
+        "word": "已婚育女性想追求自由真的很昂贵",
+        "onboard_time": 1768712299,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98870,
+        "num": 98870,
+        "word": "2026春运火车票购票日历",
+        "onboard_time": 1768714099,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94903,
+        "num": 94903,
+        "word": "2026第一部神经喜剧",
+        "onboard_time": 1768714460,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94732,
+        "num": 94732,
+        "word": "骄阳似我",
+        "onboard_time": 1768714822,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92023,
+        "num": 92023,
+        "word": "安大爷看了春晚彩排嘴好严",
+        "onboard_time": 1768715120,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91450,
+        "num": 91450,
+        "word": "鞠婧祎犯困都有人仿妆模仿了",
+        "onboard_time": 1768694658,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90272,
+        "num": 90272,
+        "word": "4寸蛋糕价格普遍在50元以上",
+        "onboard_time": 1768703540,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82079,
+        "num": 82079,
+        "word": "男子摆拍污名化成都男性被刑拘",
+        "onboard_time": 1768706301,
+        "rank": 42,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 80326,
+        "num": 80326,
+        "word": "王俊凯依旧手搓蛋糕",
+        "onboard_time": 1768691655,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79019,
+        "num": 79019,
+        "word": "华晨宇就这样看那英热闹",
+        "onboard_time": 1768714279,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67707,
+        "num": 75082,
+        "word": "银行员工称买哭哭马摆在工位",
+        "onboard_time": 1768714940,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74531,
+        "num": 74531,
+        "word": "白鹿李昀锐田曦薇宋威龙 春晚合唱",
+        "onboard_time": 1768691655,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71977,
+        "num": 71977,
+        "word": "太平年",
+        "onboard_time": 1768706059,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65865,
+        "num": 65865,
+        "word": "大叔卖6元四寸蛋糕日收入几百元",
+        "onboard_time": 1768697599,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67846,
+        "num": 65456,
+        "word": "鞠婧祎真是好权威的一张脸",
+        "onboard_time": 1768714760,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#城市归根结底是人民的城市#"
+    }
+  }
+}

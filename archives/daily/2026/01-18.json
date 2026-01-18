@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768714294933,
+  "endTime": 1768715244967,
   "band_list": [
     {
       "raw_hot": 1184745,
@@ -27,6 +27,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 821462,
+      "num": 1131434,
+      "word": "骄阳似我庆功宴",
+      "onboard_time": 1768712779,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 813179,
       "num": 317184,
       "word": "嫣然医院 唇腭裂治疗",
@@ -51,12 +59,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 679881,
-      "num": 1108780,
-      "word": "骄阳似我庆功宴",
-      "onboard_time": 1768712779,
-      "rank": 0,
-      "category": "剧集"
+      "raw_hot": 738713,
+      "num": 811011,
+      "word": "12306购票页面出现雪字",
+      "onboard_time": 1768712420,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 654030,
@@ -107,20 +115,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 509687,
-      "num": 509687,
-      "word": "12306购票页面出现雪字",
-      "onboard_time": 1768712420,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 481103,
       "num": 1076976,
       "word": "大叔卖6元四寸蛋糕日收入几百元",
       "onboard_time": 1768697599,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 481035,
+      "num": 481035,
+      "word": "短剧演员吐槽剧组让孩子一直淋雨",
+      "onboard_time": 1768713080,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 466145,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 447822,
-      "num": 148594,
+      "num": 167904,
       "word": "香港床底藏尸案凶手连宠物也没放过",
       "onboard_time": 1768707678,
       "rank": 20,
@@ -275,12 +283,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 250617,
-      "num": 250617,
-      "word": "短剧演员吐槽剧组让孩子一直淋雨",
-      "onboard_time": 1768713080,
-      "rank": 7,
-      "category": "剧集"
+      "raw_hot": 251194,
+      "num": 116426,
+      "word": "外国母亲看人体展览发现儿子遗体",
+      "onboard_time": 1768715120,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 248157,
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 234643,
-      "num": 154448,
+      "num": 185575,
       "word": "胡萝卜纸巾最难的一集出现了",
       "onboard_time": 1768713141,
       "rank": 15,
@@ -323,8 +331,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225842,
+      "num": 294180,
+      "word": "河南的暴雪还下吗",
+      "onboard_time": 1768709840,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225626,
-      "num": 152099,
+      "num": 189376,
       "word": "当胡萝卜纸巾升级为人类级难度",
       "onboard_time": 1768713141,
       "rank": 16,
@@ -337,14 +353,6 @@
       "onboard_time": 1768691655,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 218952,
-      "num": 294180,
-      "word": "河南的暴雪还下吗",
-      "onboard_time": 1768709840,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 215975,
@@ -372,11 +380,19 @@
     },
     {
       "raw_hot": 204353,
-      "num": 141289,
+      "num": 181599,
       "word": "辛芷蕾 我太有眼光了",
       "onboard_time": 1768712299,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204014,
+      "num": 189673,
+      "word": "王安宇杂志",
+      "onboard_time": 1768713439,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 202736,
@@ -387,20 +403,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198265,
+      "num": 198265,
+      "word": "骄阳似我庆功宴是婚礼的场地",
+      "onboard_time": 1768713980,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197961,
       "num": 151068,
       "word": "肖战粉丝的粘性",
       "onboard_time": 1768703299,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 197354,
-      "num": 133608,
-      "word": "王安宇杂志",
-      "onboard_time": 1768713439,
-      "rank": 21,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 195207,
@@ -515,6 +531,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165055,
+      "num": 165055,
+      "word": "蒋奇明演技",
+      "onboard_time": 1768714339,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 164068,
+      "num": 164068,
+      "word": "王鹤棣听到倒闭的反应",
+      "onboard_time": 1768714822,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 163454,
       "num": 163454,
       "word": "原来谭晶和许嵩早就约好唱素颜",
@@ -532,7 +564,7 @@
     },
     {
       "raw_hot": 152060,
-      "num": 127108,
+      "num": 146884,
       "word": "财务看演唱会通病",
       "onboard_time": 1768709898,
       "rank": 30,
@@ -569,6 +601,14 @@
       "onboard_time": 1768702580,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143625,
+      "num": 143625,
+      "word": "恋综两男争一女 大型雄竞现场",
+      "onboard_time": 1768714040,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 142738,
@@ -611,12 +651,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 129096,
+      "num": 129096,
+      "word": "李亚鹏直播带货一晚卖出超千万",
+      "onboard_time": 1768710680,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128900,
       "num": 128900,
       "word": "家中凌晨进贼女子全程装睡",
       "onboard_time": 1768645941,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126841,
+      "num": 126841,
+      "word": "名侦探学院",
+      "onboard_time": 1768713980,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 126695,
@@ -651,14 +707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125738,
-      "num": 125738,
-      "word": "李亚鹏直播带货一晚卖出超千万",
-      "onboard_time": 1768710680,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 124734,
       "num": 121154,
       "word": "结婚20年丈夫连个碗都没洗过",
@@ -680,6 +728,14 @@
       "word": "向出轨丈夫道歉女子称自己多次住院",
       "onboard_time": 1768708999,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120935,
+      "num": 133970,
+      "word": "女子1年胖20斤牛仔裤全穿不上",
+      "onboard_time": 1768713141,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -715,6 +771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 117179,
+      "num": 117179,
+      "word": "三只松鼠宣布调价",
+      "onboard_time": 1768713259,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 116318,
       "num": 116318,
       "word": "小城大事为什么看的人少",
@@ -737,6 +801,14 @@
       "onboard_time": 1768664301,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109712,
+      "num": 109712,
+      "word": "内存涨爆了",
+      "onboard_time": 1768711100,
+      "rank": 38,
+      "category": "财经,数码"
     },
     {
       "raw_hot": 109535,
@@ -787,14 +859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 104526,
-      "num": 102314,
-      "word": "三只松鼠宣布调价",
-      "onboard_time": 1768713259,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
       "raw_hot": 102351,
       "num": 102351,
       "word": "苏新皓你想馋死我们吗",
@@ -816,6 +880,14 @@
       "word": "男子家中容留2女卖淫被判刑",
       "onboard_time": 1768665441,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98870,
+      "num": 98870,
+      "word": "2026春运火车票购票日历",
+      "onboard_time": 1768714099,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -891,6 +963,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 94903,
+      "num": 94903,
+      "word": "2026第一部神经喜剧",
+      "onboard_time": 1768714460,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 94732,
+      "num": 94732,
+      "word": "骄阳似我",
+      "onboard_time": 1768714822,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93905,
       "num": 93905,
       "word": "60岁以上买卧铺优先分配下铺",
@@ -915,36 +1003,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 92023,
+      "num": 92023,
+      "word": "安大爷看了春晚彩排嘴好严",
+      "onboard_time": 1768715120,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90683,
       "num": 90683,
       "word": "开店月赚47元",
       "onboard_time": 1768711940,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 90496,
-      "num": 90496,
-      "word": "骄阳似我庆功宴是婚礼的场地",
-      "onboard_time": 1768713980,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 90321,
-      "num": 90321,
-      "word": "2026春运火车票购票日历",
-      "onboard_time": 1768714099,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 89204,
-      "num": 90347,
-      "word": "女子1年胖20斤牛仔裤全穿不上",
-      "onboard_time": 1768713141,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89001,
@@ -1003,14 +1075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 85186,
-      "num": 85186,
-      "word": "内存涨爆了",
-      "onboard_time": 1768711100,
-      "rank": 38,
-      "category": "财经,数码"
-    },
-    {
       "raw_hot": 84178,
       "num": 84178,
       "word": "见过人吸猫第一次见猫吸人",
@@ -1059,28 +1123,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81410,
-      "num": 81410,
-      "word": "名侦探学院",
-      "onboard_time": 1768713980,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 80743,
       "num": 332155,
       "word": "语文老师教体育一下5个金牌",
       "onboard_time": 1768711820,
       "rank": 8,
       "category": "民生新闻,体育"
-    },
-    {
-      "raw_hot": 80515,
-      "num": 80515,
-      "word": "恋综两男争一女 大型雄竞现场",
-      "onboard_time": 1768714040,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 80284,
@@ -1105,6 +1153,14 @@
       "onboard_time": 1768711879,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79019,
+      "num": 79019,
+      "word": "华晨宇就这样看那英热闹",
+      "onboard_time": 1768714279,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 78720,
@@ -1217,6 +1273,22 @@
       "onboard_time": 1768664601,
       "rank": 33,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 67846,
+      "num": 65456,
+      "word": "鞠婧祎真是好权威的一张脸",
+      "onboard_time": 1768714760,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 67707,
+      "num": 75082,
+      "word": "银行员工称买哭哭马摆在工位",
+      "onboard_time": 1768714940,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67483,
@@ -1524,7 +1596,7 @@
     },
     {
       "raw_hot": 38788,
-      "num": 624985,
+      "num": 666583,
       "word": "10万亿度电背后是中国澎湃的能量",
       "onboard_time": 1768705399,
       "rank": 2,
