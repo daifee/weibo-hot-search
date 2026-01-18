@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768715244967,
+  "endTime": 1768718472046,
   "band_list": [
     {
       "raw_hot": 1184745,
@@ -35,6 +35,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 820529,
+      "num": 1131284,
+      "word": "12306购票页面出现雪字",
+      "onboard_time": 1768712420,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 813179,
       "num": 317184,
       "word": "嫣然医院 唇腭裂治疗",
@@ -59,20 +67,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 738713,
-      "num": 811011,
-      "word": "12306购票页面出现雪字",
-      "onboard_time": 1768712420,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 654030,
       "num": 447762,
       "word": "男孩凌晨5点起床写作业突然晕倒",
       "onboard_time": 1768664660,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 647931,
+      "num": 605528,
+      "word": "短剧演员吐槽剧组让孩子一直淋雨",
+      "onboard_time": 1768713080,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 641833,
@@ -123,14 +131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 481035,
-      "num": 481035,
-      "word": "短剧演员吐槽剧组让孩子一直淋雨",
-      "onboard_time": 1768713080,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 466145,
       "num": 139500,
       "word": "汪海林曝保剑锋未接女友电话被捅伤",
@@ -145,6 +145,14 @@
       "onboard_time": 1768707678,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 444834,
+      "num": 227047,
+      "word": "外国母亲看人体展览发现儿子遗体",
+      "onboard_time": 1768715120,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 437829,
@@ -193,6 +201,14 @@
       "onboard_time": 1768661842,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 376443,
+      "num": 227030,
+      "word": "王一博紧张到忘记喊落冰",
+      "onboard_time": 1768716319,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 364411,
@@ -259,12 +275,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 280621,
+      "num": 114473,
+      "word": "孟子义第一个综艺",
+      "onboard_time": 1768715659,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276136,
       "num": 177641,
       "word": "王鹤棣给每个嘉宾都留了时间唱个人曲",
       "onboard_time": 1768699279,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 274682,
+      "num": 274682,
+      "word": "短剧淋雨婴儿片酬仅800元",
+      "onboard_time": 1768717940,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 274651,
@@ -275,20 +307,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 269803,
+      "num": 227066,
+      "word": "王鹤棣听到倒闭的反应",
+      "onboard_time": 1768714822,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 259373,
+      "num": 226943,
+      "word": "骄阳似我庆功宴是婚礼的场地",
+      "onboard_time": 1768713980,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253629,
       "num": 209927,
       "word": "男子摆拍污名化成都男性被刑拘",
       "onboard_time": 1768706301,
       "rank": 12,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 251194,
-      "num": 116426,
-      "word": "外国母亲看人体展览发现儿子遗体",
-      "onboard_time": 1768715120,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 248157,
@@ -316,11 +356,19 @@
     },
     {
       "raw_hot": 234643,
-      "num": 185575,
+      "num": 227114,
       "word": "胡萝卜纸巾最难的一集出现了",
       "onboard_time": 1768713141,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 226935,
+      "num": 226935,
+      "word": "王安宇杂志",
+      "onboard_time": 1768713439,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 225933,
@@ -387,28 +435,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 204014,
-      "num": 189673,
-      "word": "王安宇杂志",
-      "onboard_time": 1768713439,
-      "rank": 21,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 202736,
       "num": 176858,
       "word": "法院应避免公开处刑闹剧重演",
       "onboard_time": 1768702339,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198265,
-      "num": 198265,
-      "word": "骄阳似我庆功宴是婚礼的场地",
-      "onboard_time": 1768713980,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 197961,
@@ -539,12 +571,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 164068,
-      "num": 164068,
-      "word": "王鹤棣听到倒闭的反应",
-      "onboard_time": 1768714822,
-      "rank": 22,
-      "category": "演出"
+      "raw_hot": 163857,
+      "num": 163857,
+      "word": "王楚钦喊你回家洗手吃饭",
+      "onboard_time": 1768717879,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 163454,
@@ -576,6 +608,14 @@
       "word": "男子打顺风车为20多元过路费进急诊",
       "onboard_time": 1768702700,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148104,
+      "num": 113870,
+      "word": "7岁女童3个月猛蹿4cm确诊性早熟",
+      "onboard_time": 1768717038,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -617,6 +657,14 @@
       "onboard_time": 1768648160,
       "rank": 14,
       "category": "网红,运动健身"
+    },
+    {
+      "raw_hot": 140343,
+      "num": 113591,
+      "word": "徐怀钰现身张韶涵厦门演唱会",
+      "onboard_time": 1768717099,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 134951,
@@ -795,12 +843,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 114324,
+      "num": 114324,
+      "word": "苹果关东煮",
+      "onboard_time": 1768716319,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 110695,
       "num": 99655,
       "word": "李昊真牛",
       "onboard_time": 1768664301,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110258,
+      "num": 105993,
+      "word": "早安是把付辛博骗来的吗",
+      "onboard_time": 1768718119,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 109712,
@@ -915,6 +979,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 97784,
+      "num": 97784,
+      "word": "米卡重生之我在中国当王爷",
+      "onboard_time": 1768717520,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97545,
       "num": 97545,
       "word": "李微漪和格林",
@@ -1019,6 +1091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 89566,
+      "num": 89566,
+      "word": "苹果是减肥控糖友好型水果",
+      "onboard_time": 1768713259,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 89001,
       "num": 89001,
       "word": "乒坛泰斗谈樊振东陈梦退出世排",
@@ -1049,6 +1129,22 @@
       "onboard_time": 1768695259,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 86651,
+      "num": 86651,
+      "word": "临榆炸鸡腿",
+      "onboard_time": 1768718239,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 85766,
+      "num": 85766,
+      "word": "开拓者战胜湖人",
+      "onboard_time": 1768716498,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 85762,
@@ -1083,6 +1179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 83959,
+      "num": 83959,
+      "word": "适合中长发的简单发型",
+      "onboard_time": 1768717999,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 83916,
       "num": 83916,
       "word": "蔡明实名冲浪0人相信",
@@ -1097,6 +1201,14 @@
       "onboard_time": 1768701379,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 83317,
+      "num": 83317,
+      "word": "周杰伦请的奶茶",
+      "onboard_time": 1768715479,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 82400,
@@ -1121,6 +1233,14 @@
       "onboard_time": 1768710021,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80869,
+      "num": 80869,
+      "word": "银行员工称买哭哭马摆在工位",
+      "onboard_time": 1768714940,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80743,
@@ -1211,6 +1331,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 75928,
+      "num": 75928,
+      "word": "飞行家",
+      "onboard_time": 1768717280,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 75122,
+      "num": 75122,
+      "word": "卢昱晓说陈星旭本人不太装",
+      "onboard_time": 1768717759,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74803,
       "num": 74803,
       "word": "冬季冻伤皮肤发白发麻",
@@ -1227,12 +1363,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 71939,
-      "num": 71939,
-      "word": "苹果是减肥控糖友好型水果",
-      "onboard_time": 1768713259,
-      "rank": 49,
-      "category": "美食"
+      "raw_hot": 73625,
+      "num": 73625,
+      "word": "小猫把路睡塌了",
+      "onboard_time": 1768716199,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 71695,
@@ -1243,11 +1379,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71372,
+      "num": 71372,
+      "word": "郭富城回应方媛喜欢拍视频分享",
+      "onboard_time": 1768715419,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 70602,
+      "num": 70602,
+      "word": "邓佳鑫 真不客气你又不愿意了",
+      "onboard_time": 1768716440,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70558,
       "num": 70558,
       "word": "门神李昊",
       "onboard_time": 1768696578,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 69689,
+      "num": 69689,
+      "word": "谷爱凌我自己翻译自己",
+      "onboard_time": 1768717700,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -1281,14 +1441,6 @@
       "onboard_time": 1768714760,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 67707,
-      "num": 75082,
-      "word": "银行员工称买哭哭马摆在工位",
-      "onboard_time": 1768714940,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 67483,
