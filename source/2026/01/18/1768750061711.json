@@ -1,0 +1,410 @@
+{
+  "runTime": 1768750061711,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 520336,
+        "num": 1083253,
+        "word": "轧戏",
+        "onboard_time": 1768736663,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 406201,
+        "num": 759485,
+        "word": "美国童星疑闯红灯被拖行致死",
+        "onboard_time": 1768743504,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 58232,
+        "num": 631272,
+        "word": "这个全球单一国家首次说明什么",
+        "onboard_time": 1768740803,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 496553,
+        "num": 496553,
+        "word": "慕容云海一张口我的青春回来了",
+        "onboard_time": 1768746564,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230349,
+        "num": 485180,
+        "word": "上海外滩女子占道直播跳舞引公愤",
+        "onboard_time": 1768748422,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475268,
+        "num": 475268,
+        "word": "梁小龙去世",
+        "onboard_time": 1768723519,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247337,
+        "num": 466765,
+        "word": "6人就餐仅花19元老板要求带走垃圾",
+        "onboard_time": 1768740081,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224182,
+        "num": 457486,
+        "word": "26岁女子两月暴瘦30斤成糖尿病前期",
+        "onboard_time": 1768740024,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207800,
+        "num": 449211,
+        "word": "短剧演员回应为何不给婴儿打伞",
+        "onboard_time": 1768748062,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91568,
+        "num": 439710,
+        "word": "AL对战JDG",
+        "onboard_time": 1768739662,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1247768,
+        "num": 423317,
+        "word": "董子健回复孙怡",
+        "onboard_time": 1768732703,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419960,
+        "num": 419960,
+        "word": "吴磊工作室严正声明",
+        "onboard_time": 1768741342,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243217,
+        "num": 243217,
+        "word": "改善骨盆前倾 卧英雄式",
+        "onboard_time": 1768732282,
+        "rank": 12,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 352458,
+        "num": 242903,
+        "word": "微博之夜",
+        "onboard_time": 1768743863,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 258168,
+        "num": 242701,
+        "word": "oner败诉",
+        "onboard_time": 1768738701,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179627,
+        "num": 242517,
+        "word": "俄罗斯一地暴雪堆出公寓楼高雪坡",
+        "onboard_time": 1768741221,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 242471,
+        "num": 242471,
+        "word": "陈冠希一家洛杉矶参加婚礼",
+        "onboard_time": 1768741943,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162111,
+        "num": 241057,
+        "word": "上海龙华寺三只猫在殿内吵架",
+        "onboard_time": 1768743082,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96369,
+        "num": 238013,
+        "word": "香港70平米月租35000的家",
+        "onboard_time": 1768748122,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86456,
+        "num": 236227,
+        "word": "虎牙伍六七说487被甩活该",
+        "onboard_time": 1768747104,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 556326,
+        "num": 233956,
+        "word": "曝杨紫每天都在很痛苦地减肥",
+        "onboard_time": 1768734922,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461208,
+        "num": 231871,
+        "word": "短剧淋雨婴儿家长能接受才来",
+        "onboard_time": 1768746683,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332396,
+        "num": 228998,
+        "word": "糖尿病前期发出的身体信号",
+        "onboard_time": 1768745783,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86067,
+        "num": 224469,
+        "word": "男患者腰痛病历现否认怀孕字样",
+        "onboard_time": 1768746744,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224410,
+        "num": 224410,
+        "word": "罗永浩于谦拒领终身成就奖",
+        "onboard_time": 1768737801,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 284121,
+        "num": 220607,
+        "word": "欢瑞世纪大跌",
+        "onboard_time": 1768735822,
+        "rank": 25,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 254215,
+        "num": 208127,
+        "word": "婴儿淋雨哭到撕心裂肺谁能忍",
+        "onboard_time": 1768741763,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180289,
+        "num": 180289,
+        "word": "龙麦",
+        "onboard_time": 1768730662,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165216,
+        "num": 165216,
+        "word": "禁止衣冠不整入内规定已存在多年",
+        "onboard_time": 1768742483,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163421,
+        "num": 163421,
+        "word": "肖战姜妍新剧拥抱路透",
+        "onboard_time": 1768739482,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140481,
+        "num": 140481,
+        "word": "二十多岁其实真的很年轻",
+        "onboard_time": 1768746683,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128088,
+        "num": 128088,
+        "word": "贾玲马龙看秀同框",
+        "onboard_time": 1768748422,
+        "rank": 31,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 122789,
+        "num": 122789,
+        "word": "轧戏男主人设",
+        "onboard_time": 1768743683,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94046,
+        "num": 114704,
+        "word": "包头包钢厂区爆炸目击者发声",
+        "onboard_time": 1768748182,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114507,
+        "num": 114507,
+        "word": "林依轮 宴会时刻站哥必须发力",
+        "onboard_time": 1768748543,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110735,
+        "num": 110735,
+        "word": "芒果真是捡到宝了",
+        "onboard_time": 1768745844,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93082,
+        "num": 110731,
+        "word": "莱顿大学排名浙大超过哈佛",
+        "onboard_time": 1768747883,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110727,
+        "num": 110727,
+        "word": "那英选人还是太权威了",
+        "onboard_time": 1768749682,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100367,
+        "num": 100367,
+        "word": "成毅手握多部待播剧",
+        "onboard_time": 1768743323,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90091,
+        "num": 93812,
+        "word": "全国多地发布紧急停课通知",
+        "onboard_time": 1768731382,
+        "rank": 39,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 90225,
+        "num": 90225,
+        "word": "陈冠希撞脸毛利小五郎",
+        "onboard_time": 1768746144,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90193,
+        "num": 90193,
+        "word": "轧戏 软广",
+        "onboard_time": 1768745363,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82870,
+        "num": 82870,
+        "word": "潦草小马走红",
+        "onboard_time": 1768745424,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80686,
+        "num": 80686,
+        "word": "Viper说回LPL没什么怕的",
+        "onboard_time": 1768749323,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79257,
+        "num": 79257,
+        "word": "梁小龙离世前一天还与友人聚会",
+        "onboard_time": 1768733482,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77737,
+        "num": 77737,
+        "word": "今夕赫夕",
+        "onboard_time": 1768731563,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73040,
+        "num": 73040,
+        "word": "樊振东全英文交流无障碍",
+        "onboard_time": 1768747523,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71721,
+        "num": 71721,
+        "word": "钟汉良早上6点米兰晨跑",
+        "onboard_time": 1768746023,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70966,
+        "num": 70966,
+        "word": "黑色马蹄莲卖爆了",
+        "onboard_time": 1768742602,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62962,
+        "num": 70402,
+        "word": "梁王组合复刻23年领奖姿势",
+        "onboard_time": 1768748842,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#这则寓言习近平多次讲起#"
+    }
+  }
+}
