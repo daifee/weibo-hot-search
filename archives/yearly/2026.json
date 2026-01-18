@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768710597525,
+  "endTime": 1768712369136,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1747,6 +1747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 813179,
+      "num": 317184,
+      "word": "嫣然医院 唇腭裂治疗",
+      "onboard_time": 1768708700,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 812506,
       "num": 211443,
       "word": "美国人开始认同中式生活",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768040540,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 686666,
-      "num": 205272,
-      "word": "王橹杰维权",
-      "onboard_time": 1768058062,
-      "rank": 28,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1768712369136,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 432301,
+        "num": 1069168,
+        "word": "北京鹅毛大雪",
+        "onboard_time": 1768699639,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316588,
+        "num": 800155,
+        "word": "为什么酒店床上要放四个枕头",
+        "onboard_time": 1768708880,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 38788,
+        "num": 623062,
+        "word": "10万亿度电背后是中国澎湃的能量",
+        "onboard_time": 1768705399,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 411333,
+        "num": 411333,
+        "word": "买水果发现异常提醒店员后不放心",
+        "onboard_time": 1768701199,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261124,
+        "num": 370987,
+        "word": "王安宇没参加春晚联排",
+        "onboard_time": 1768699519,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346415,
+        "num": 346415,
+        "word": "在巴厘岛确诊脏水病",
+        "onboard_time": 1768706899,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228110,
+        "num": 345631,
+        "word": "喜人 春晚",
+        "onboard_time": 1768701140,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143255,
+        "num": 336210,
+        "word": "准女婿见岳父变脸如翻书",
+        "onboard_time": 1768707678,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33566,
+        "num": 332155,
+        "word": "语文老师教体育一下5个金牌",
+        "onboard_time": 1768711820,
+        "rank": 8,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 50098,
+        "num": 321706,
+        "word": "2026春运火车票明天开售",
+        "onboard_time": 1768711820,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 813179,
+        "num": 317184,
+        "word": "嫣然医院 唇腭裂治疗",
+        "onboard_time": 1768708700,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 626093,
+        "num": 312781,
+        "word": "陈星旭王玉雯吻戏",
+        "onboard_time": 1768709840,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 453178,
+        "num": 301526,
+        "word": "赵樱子称孟子义上综艺要感谢她",
+        "onboard_time": 1768711161,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132847,
+        "num": 294180,
+        "word": "河南的暴雪还下吗",
+        "onboard_time": 1768709840,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293485,
+        "num": 293485,
+        "word": "二楼直排粪水扬言弄死报警的一楼",
+        "onboard_time": 1768708940,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286257,
+        "num": 286257,
+        "word": "东北室内全是东北人",
+        "onboard_time": 1768709360,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 240888,
+        "num": 240888,
+        "word": "王一博晒攀冰照",
+        "onboard_time": 1768709360,
+        "rank": 16,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 209927,
+        "num": 209927,
+        "word": "男子摆拍污名化成都男性被刑拘",
+        "onboard_time": 1768706301,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 29283,
+        "num": 182157,
+        "word": "奇瑞超35款车型将搭载全新AI产品",
+        "onboard_time": 1768708999,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 168735,
+        "num": 168735,
+        "word": "鞠婧祎犯困都有人仿妆模仿了",
+        "onboard_time": 1768694658,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139549,
+        "num": 139549,
+        "word": "乒坛泰斗谈奥运会参赛资格",
+        "onboard_time": 1768705820,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 378546,
+        "num": 137894,
+        "word": "香港床底藏尸案凶手连宠物也没放过",
+        "onboard_time": 1768707678,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133903,
+        "num": 133903,
+        "word": "白鹿李昀锐田曦薇宋威龙 春晚合唱",
+        "onboard_time": 1768691655,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125738,
+        "num": 125738,
+        "word": "李亚鹏直播带货一晚卖出超千万",
+        "onboard_time": 1768710680,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121627,
+        "num": 121627,
+        "word": "向出轨丈夫道歉女子称自己多次住院",
+        "onboard_time": 1768708999,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115455,
+        "num": 115455,
+        "word": "大叔卖6元四寸蛋糕日收入几百元",
+        "onboard_time": 1768697599,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113788,
+        "num": 113788,
+        "word": "4寸蛋糕价格普遍在50元以上",
+        "onboard_time": 1768703540,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105890,
+        "num": 105890,
+        "word": "王俊凯依旧手搓蛋糕",
+        "onboard_time": 1768691655,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102577,
+        "num": 102577,
+        "word": "沈月撞档沈月",
+        "onboard_time": 1768708278,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98124,
+        "num": 98124,
+        "word": "小洛熙医疗纠纷案明日开庭",
+        "onboard_time": 1768710501,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119254,
+        "num": 98034,
+        "word": "财务看演唱会通病",
+        "onboard_time": 1768709898,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99404,
+        "num": 97673,
+        "word": "太平年",
+        "onboard_time": 1768706059,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96986,
+        "num": 96986,
+        "word": "陈星旭试图捂死玩偶",
+        "onboard_time": 1768712000,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90683,
+        "num": 90683,
+        "word": "开店月赚47元",
+        "onboard_time": 1768711940,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91427,
+        "num": 90202,
+        "word": "黄子韬刘耀文俩人吃饭跟打架一样",
+        "onboard_time": 1768710319,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87898,
+        "num": 87898,
+        "word": "千万要小心引导型恋人",
+        "onboard_time": 1768709778,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86957,
+        "num": 86957,
+        "word": "王鹤棣给每个嘉宾都留了时间唱个人曲",
+        "onboard_time": 1768699279,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84693,
+        "num": 84693,
+        "word": "粉丝找祝绪丹要红包",
+        "onboard_time": 1768709480,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80284,
+        "num": 80284,
+        "word": "喉咙痛可以吃雪糕缓解吗",
+        "onboard_time": 1768709960,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 83464,
+        "num": 80221,
+        "word": "小城大事为什么看的人少",
+        "onboard_time": 1768705640,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79592,
+        "num": 79592,
+        "word": "蒋敦豪演我过年上桌状态",
+        "onboard_time": 1768711879,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78720,
+        "num": 78720,
+        "word": "我们这里吃面包不用拉小提琴",
+        "onboard_time": 1768712299,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77096,
+        "num": 77096,
+        "word": "爱德华兹55分生涯新高",
+        "onboard_time": 1768711820,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76917,
+        "num": 76917,
+        "word": "辛芷蕾 我太有眼光了",
+        "onboard_time": 1768712299,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76771,
+        "num": 76771,
+        "word": "澳网",
+        "onboard_time": 1768708460,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74839,
+        "num": 74839,
+        "word": "已婚育女性想追求自由真的很昂贵",
+        "onboard_time": 1768712299,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74624,
+        "num": 74624,
+        "word": "年上的魅力来自于禁欲的克制",
+        "onboard_time": 1768710139,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73753,
+        "num": 73753,
+        "word": "伊拉克全面接管阿萨德空军基地",
+        "onboard_time": 1768710381,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72008,
+        "num": 72008,
+        "word": "员工拒绝参加年会表演被领导开除",
+        "onboard_time": 1768708940,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71358,
+        "num": 71358,
+        "word": "退钱哥秒变赔钱哥",
+        "onboard_time": 1768710439,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#城市归根结底是人民的城市#"
+    }
+  }
+}

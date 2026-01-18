@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/18 00:32:47 ~ 2026/01/18 12:29:57
+本榜单时间：2026/01/18 00:32:47 ~ 2026/01/18 12:59:29
 </p>
 </blockquote>
 <p>
@@ -33,6 +33,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AB%A3%E7%84%B6%E5%8C%BB%E9%99%A2%20%E5%94%87%E8%85%AD%E8%A3%82%E6%B2%BB%E7%96%97%23" target="weibo">
+嫣然医院 唇腭裂治疗（热度：813179）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%AD%98%E7%9C%9F%E9%80%80%E7%BD%91%23" target="weibo">
 何存真退网（热度：772222）
 </a>
@@ -51,14 +57,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%B8%B2%E6%9F%93%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23" target="weibo">
-iPhone18Pro渲染视频曝光（热度：621333）
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%98%9F%E6%97%AD%E7%8E%8B%E7%8E%89%E9%9B%AF%E5%90%BB%E6%88%8F%23" target="weibo">
+陈星旭王玉雯吻戏（热度：626093）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AB%A3%E7%84%B6%E5%8C%BB%E9%99%A2%20%E5%94%87%E8%85%AD%E8%A3%82%E6%B2%BB%E7%96%97%23" target="weibo">
-嫣然医院 唇腭裂治疗（热度：579740）
+<a href="https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%B8%B2%E6%9F%93%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23" target="weibo">
+iPhone18Pro渲染视频曝光（热度：621333）
 </a>
 </li>
 
@@ -77,6 +83,12 @@ iPhone18Pro渲染视频曝光（热度：621333）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E6%B5%B7%E6%9E%97%E6%9B%9D%E4%BF%9D%E5%89%91%E9%94%8B%E6%9C%AA%E6%8E%A5%E5%A5%B3%E5%8F%8B%E7%94%B5%E8%AF%9D%E8%A2%AB%E6%8D%85%E4%BC%A4%23" target="weibo">
 汪海林曝保剑锋未接女友电话被捅伤（热度：466145）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%A8%B1%E5%AD%90%E7%A7%B0%E5%AD%9F%E5%AD%90%E4%B9%89%E4%B8%8A%E7%BB%BC%E8%89%BA%E8%A6%81%E6%84%9F%E8%B0%A2%E5%A5%B9%23" target="weibo">
+赵樱子称孟子义上综艺要感谢她（热度：453178）
 </a>
 </li>
 
@@ -123,14 +135,20 @@ iPhone18Pro渲染视频曝光（热度：621333）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%B7%B4%E5%8E%98%E5%B2%9B%E7%A1%AE%E8%AF%8A%E8%84%8F%E6%B0%B4%E7%97%85%23" target="weibo">
+在巴厘岛确诊脏水病（热度：346415）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%88%E4%B8%80%E6%AC%BE%E7%BD%95%E8%A7%81%E7%97%85%E8%8D%AF%E5%B0%86%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%23" target="weibo">
 又一款罕见病药将退出中国市场（热度：325112）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%B7%B4%E5%8E%98%E5%B2%9B%E7%A1%AE%E8%AF%8A%E8%84%8F%E6%B0%B4%E7%97%85%23" target="weibo">
-在巴厘岛确诊脏水病（热度：318029）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%85%92%E5%BA%97%E5%BA%8A%E4%B8%8A%E8%A6%81%E6%94%BE%E5%9B%9B%E4%B8%AA%E6%9E%95%E5%A4%B4%23" target="weibo">
+为什么酒店床上要放四个枕头（热度：316588）
 </a>
 </li>
 
@@ -155,6 +173,18 @@ iPhone18Pro渲染视频曝光（热度：621333）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23U23%E5%9B%BD%E8%B6%B3%E9%A6%96%E8%BF%9B%E4%BA%9A%E6%B4%B2%E6%9D%AF4%E5%BC%BA%23" target="weibo">
 U23国足首进亚洲杯4强（热度：294341）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%A5%BC%E7%9B%B4%E6%8E%92%E7%B2%AA%E6%B0%B4%E6%89%AC%E8%A8%80%E5%BC%84%E6%AD%BB%E6%8A%A5%E8%AD%A6%E7%9A%84%E4%B8%80%E6%A5%BC%23" target="weibo">
+二楼直排粪水扬言弄死报警的一楼（热度：293485）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E5%AE%A4%E5%86%85%E5%85%A8%E6%98%AF%E4%B8%9C%E5%8C%97%E4%BA%BA%23" target="weibo">
+东北室内全是东北人（热度：286257）
 </a>
 </li>
 
@@ -190,7 +220,7 @@ U23国足首进亚洲杯4强（热度：294341）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%99%92%E6%94%80%E5%86%B0%E7%85%A7%23" target="weibo">
-王一博晒攀冰照（热度：228310）
+王一博晒攀冰照（热度：240888）
 </a>
 </li>
 
@@ -215,12 +245,6 @@ U23国足首进亚洲杯4强（热度：294341）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88%E6%92%9E%E6%A1%A3%E6%B2%88%E6%9C%88%23" target="weibo">
 沈月撞档沈月（热度：212979）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%98%9F%E6%97%AD%E7%8E%8B%E7%8E%89%E9%9B%AF%E5%90%BB%E6%88%8F%23" target="weibo">
-陈星旭王玉雯吻戏（热度：209253）
 </a>
 </li>
 
@@ -321,18 +345,6 @@ U23国足首进亚洲杯4强（热度：294341）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%85%92%E5%BA%97%E5%BA%8A%E4%B8%8A%E8%A6%81%E6%94%BE%E5%9B%9B%E4%B8%AA%E6%9E%95%E5%A4%B4%23" target="weibo">
-为什么酒店床上要放四个枕头（热度：171659）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%A5%BC%E7%9B%B4%E6%8E%92%E7%B2%AA%E6%B0%B4%E6%89%AC%E8%A8%80%E5%BC%84%E6%AD%BB%E6%8A%A5%E8%AD%A6%E7%9A%84%E4%B8%80%E6%A5%BC%23" target="weibo">
-二楼直排粪水扬言弄死报警的一楼（热度：162069）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BB%8E%E5%96%89%E5%92%99%E7%97%9B%E5%88%B0%E8%BF%9BICU%E5%8F%AA%E7%94%A81%E5%B0%8F%E6%97%B6%23" target="weibo">
 男子从喉咙痛到进ICU只用1小时（热度：161661）
 </a>
@@ -405,12 +417,6 @@ U23国足首进亚洲杯4强（热度：294341）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E5%AE%A4%E5%86%85%E5%85%A8%E6%98%AF%E4%B8%9C%E5%8C%97%E4%BA%BA%23" target="weibo">
-东北室内全是东北人（热度：129177）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E4%B8%AD%E5%87%8C%E6%99%A8%E8%BF%9B%E8%B4%BC%E5%A5%B3%E5%AD%90%E5%85%A8%E7%A8%8B%E8%A3%85%E7%9D%A1%23" target="weibo">
 家中凌晨进贼女子全程装睡（热度：128900）
 </a>
@@ -441,6 +447,12 @@ U23国足首进亚洲杯4强（热度：294341）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BA%9A%E9%B9%8F%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E4%B8%80%E6%99%9A%E5%8D%96%E5%87%BA%E8%B6%85%E5%8D%83%E4%B8%87%23" target="weibo">
+李亚鹏直播带货一晚卖出超千万（热度：125738）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%93%E5%A9%9A20%E5%B9%B4%E4%B8%88%E5%A4%AB%E8%BF%9E%E4%B8%AA%E7%A2%97%E9%83%BD%E6%B2%A1%E6%B4%97%E8%BF%87%23" target="weibo">
 结婚20年丈夫连个碗都没洗过（热度：124734）
 </a>
@@ -449,6 +461,12 @@ U23国足首进亚洲杯4强（热度：294341）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E8%A2%AB%E5%B0%8F%E7%82%AD%E7%81%AB%E9%80%97%E7%AC%91%E4%BA%86%23" target="weibo">
 檀健次被小炭火逗笑了（热度：123193）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%87%BA%E8%BD%A8%E4%B8%88%E5%A4%AB%E9%81%93%E6%AD%89%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%87%AA%E5%B7%B1%E5%A4%9A%E6%AC%A1%E4%BD%8F%E9%99%A2%23" target="weibo">
+向出轨丈夫道歉女子称自己多次住院（热度：121627）
 </a>
 </li>
 
@@ -537,14 +555,14 @@ U23国足首进亚洲杯4强（热度：294341）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%87%BA%E8%BD%A8%E4%B8%88%E5%A4%AB%E9%81%93%E6%AD%89%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%87%AA%E5%B7%B1%E5%A4%9A%E6%AC%A1%E4%BD%8F%E9%99%A2%23" target="weibo">
-向出轨丈夫道歉女子称自己多次住院（热度：100438）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A8%81%E9%BE%99%E4%B8%8B%E9%9B%AA%E4%BA%86%23" target="weibo">
+宋威龙下雪了（热度：98601）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A8%81%E9%BE%99%E4%B8%8B%E9%9B%AA%E4%BA%86%23" target="weibo">
-宋威龙下雪了（热度：98601）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B4%9B%E7%86%99%E5%8C%BB%E7%96%97%E7%BA%A0%E7%BA%B7%E6%A1%88%E6%98%8E%E6%97%A5%E5%BC%80%E5%BA%AD%23" target="weibo">
+小洛熙医疗纠纷案明日开庭（热度：98124）
 </a>
 </li>
 
@@ -557,6 +575,12 @@ U23国足首进亚洲杯4强（热度：294341）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%BE%AE%E6%BC%AA%E5%92%8C%E6%A0%BC%E6%9E%97%23" target="weibo">
 李微漪和格林（热度：97545）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%98%9F%E6%97%AD%E8%AF%95%E5%9B%BE%E6%8D%82%E6%AD%BB%E7%8E%A9%E5%81%B6%23" target="weibo">
+陈星旭试图捂死玩偶（热度：96986）
 </a>
 </li>
 
@@ -603,8 +627,8 @@ U23国足首进亚洲杯4强（热度：294341）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B4%9B%E7%86%99%E5%8C%BB%E7%96%97%E7%BA%A0%E7%BA%B7%E6%A1%88%E6%98%8E%E6%97%A5%E5%BC%80%E5%BA%AD%23" target="weibo">
-小洛熙医疗纠纷案明日开庭（热度：91324）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%BA%97%E6%9C%88%E8%B5%9A47%E5%85%83%23" target="weibo">
+开店月赚47元（热度：90683）
 </a>
 </li>
 
@@ -687,8 +711,26 @@ U23国足首进亚洲杯4强（热度：294341）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%96%89%E5%92%99%E7%97%9B%E5%8F%AF%E4%BB%A5%E5%90%83%E9%9B%AA%E7%B3%95%E7%BC%93%E8%A7%A3%E5%90%97%23" target="weibo">
+喉咙痛可以吃雪糕缓解吗（热度：80284）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E7%8E%8B%E6%A5%9A%E9%92%A6%23" target="weibo">
 榜一大哥王楚钦（热度：80108）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%92%8B%E6%95%A6%E8%B1%AA%E6%BC%94%E6%88%91%E8%BF%87%E5%B9%B4%E4%B8%8A%E6%A1%8C%E7%8A%B6%E6%80%81%23" target="weibo">
+蒋敦豪演我过年上桌状态（热度：79592）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E8%BF%99%E9%87%8C%E5%90%83%E9%9D%A2%E5%8C%85%E4%B8%8D%E7%94%A8%E6%8B%89%E5%B0%8F%E6%8F%90%E7%90%B4%23" target="weibo">
+我们这里吃面包不用拉小提琴（热度：78720）
 </a>
 </li>
 
@@ -711,8 +753,26 @@ U23国足首进亚洲杯4强（热度：294341）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%BE%B7%E5%8D%8E%E5%85%B955%E5%88%86%E7%94%9F%E6%B6%AF%E6%96%B0%E9%AB%98%23" target="weibo">
+爱德华兹55分生涯新高（热度：77096）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%20%E6%88%91%E5%A4%AA%E6%9C%89%E7%9C%BC%E5%85%89%E4%BA%86%23" target="weibo">
+辛芷蕾 我太有眼光了（热度：76917）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%87%E7%91%9E%E8%B6%8535%E6%AC%BE%E8%BD%A6%E5%9E%8B%E5%B0%86%E6%90%AD%E8%BD%BD%E5%85%A8%E6%96%B0AI%E4%BA%A7%E5%93%81%23" target="weibo">
 奇瑞超35款车型将搭载全新AI产品（热度：76104）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B2%E5%A9%9A%E8%82%B2%E5%A5%B3%E6%80%A7%E6%83%B3%E8%BF%BD%E6%B1%82%E8%87%AA%E7%94%B1%E7%9C%9F%E7%9A%84%E5%BE%88%E6%98%82%E8%B4%B5%23" target="weibo">
+已婚育女性想追求自由真的很昂贵（热度：74839）
 </a>
 </li>
 
@@ -909,6 +969,12 @@ U23国足主帅呼吁重视比赛安排（热度：62479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232026%E6%98%A5%E8%BF%90%E7%81%AB%E8%BD%A6%E7%A5%A8%E6%98%8E%E5%A4%A9%E5%BC%80%E5%94%AE%23" target="weibo">
+2026春运火车票明天开售（热度：50098）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%A8%87%E9%BE%99%E6%AF%8D%E4%BA%B2%E8%AF%B4%E8%AE%A9%E5%A5%B9%E9%9D%99%E9%9D%99%E5%9C%B0%E7%A6%BB%E5%BC%80%E5%90%A7%23" target="weibo">
 贺娇龙母亲说让她静静地离开吧（热度：49645）
 </a>
@@ -970,7 +1036,7 @@ U23国足成本届唯一0丢球球队（热度：43448）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%2310%E4%B8%87%E4%BA%BF%E5%BA%A6%E7%94%B5%E8%83%8C%E5%90%8E%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%BE%8E%E6%B9%83%E7%9A%84%E8%83%BD%E9%87%8F%23" target="weibo">
-10万亿度电背后是中国澎湃的能量（热度：38492）
+10万亿度电背后是中国澎湃的能量（热度：38788）
 </a>
 </li>
 
@@ -995,6 +1061,12 @@ Rookie燃成鸡架（热度：36070）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%993%E7%A7%8D%E9%9D%A2%E5%8C%85%E6%98%AF%E9%9A%90%E8%97%8F%E7%9A%84%E7%83%AD%E9%87%8F%E7%82%B8%E5%BC%B9%23" target="weibo">
 这3种面包是隐藏的热量炸弹（热度：35216）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AF%AD%E6%96%87%E8%80%81%E5%B8%88%E6%95%99%E4%BD%93%E8%82%B2%E4%B8%80%E4%B8%8B5%E4%B8%AA%E9%87%91%E7%89%8C%23" target="weibo">
+语文老师教体育一下5个金牌（热度：33566）
 </a>
 </li>
 

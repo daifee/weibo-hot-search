@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768710597525,
+  "endTime": 1768712369136,
   "band_list": [
     {
       "raw_hot": 1184745,
@@ -24,6 +24,14 @@
       "word": "买水果发现异常提醒店员后不放心",
       "onboard_time": 1768701199,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 813179,
+      "num": 317184,
+      "word": "嫣然医院 唇腭裂治疗",
+      "onboard_time": 1768708700,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -51,20 +59,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 626093,
+      "num": 312781,
+      "word": "陈星旭王玉雯吻戏",
+      "onboard_time": 1768709840,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 621333,
       "num": 70483,
       "word": "iPhone18Pro渲染视频曝光",
       "onboard_time": 1768694538,
       "rank": 40,
       "category": "数码"
-    },
-    {
-      "raw_hot": 579740,
-      "num": 143607,
-      "word": "嫣然医院 唇腭裂治疗",
-      "onboard_time": 1768708700,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 532307,
@@ -88,6 +96,14 @@
       "word": "汪海林曝保剑锋未接女友电话被捅伤",
       "onboard_time": 1768662143,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 453178,
+      "num": 301526,
+      "word": "赵樱子称孟子义上综艺要感谢她",
+      "onboard_time": 1768711161,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -147,6 +163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 346415,
+      "num": 346415,
+      "word": "在巴厘岛确诊脏水病",
+      "onboard_time": 1768706899,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 325112,
       "num": 81979,
       "word": "又一款罕见病药将退出中国市场",
@@ -155,12 +179,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 318029,
-      "num": 318029,
-      "word": "在巴厘岛确诊脏水病",
-      "onboard_time": 1768706899,
-      "rank": 5,
-      "category": "情感"
+      "raw_hot": 316588,
+      "num": 800155,
+      "word": "为什么酒店床上要放四个枕头",
+      "onboard_time": 1768708880,
+      "rank": 35,
+      "category": "科学科普"
     },
     {
       "raw_hot": 307277,
@@ -195,6 +219,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 293485,
+      "num": 293485,
+      "word": "二楼直排粪水扬言弄死报警的一楼",
+      "onboard_time": 1768708940,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 286257,
+      "num": 286257,
+      "word": "东北室内全是东北人",
+      "onboard_time": 1768709360,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 276136,
       "num": 177641,
       "word": "王鹤棣给每个嘉宾都留了时间唱个人曲",
@@ -212,7 +252,7 @@
     },
     {
       "raw_hot": 253629,
-      "num": 163886,
+      "num": 209927,
       "word": "男子摆拍污名化成都男性被刑拘",
       "onboard_time": 1768706301,
       "rank": 12,
@@ -235,8 +275,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 228310,
-      "num": 152228,
+      "raw_hot": 240888,
+      "num": 240888,
       "word": "王一博晒攀冰照",
       "onboard_time": 1768709360,
       "rank": 16,
@@ -244,7 +284,7 @@
     },
     {
       "raw_hot": 225933,
-      "num": 222042,
+      "num": 336210,
       "word": "准女婿见岳父变脸如翻书",
       "onboard_time": 1768707678,
       "rank": 11,
@@ -273,14 +313,6 @@
       "onboard_time": 1768708278,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209253,
-      "num": 136402,
-      "word": "陈星旭王玉雯吻戏",
-      "onboard_time": 1768709840,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 205873,
@@ -411,22 +443,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 171659,
-      "num": 171659,
-      "word": "为什么酒店床上要放四个枕头",
-      "onboard_time": 1768708880,
-      "rank": 35,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 162069,
-      "num": 137391,
-      "word": "二楼直排粪水扬言弄死报警的一楼",
-      "onboard_time": 1768708940,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161661,
       "num": 161661,
       "word": "男子从喉咙痛到进ICU只用1小时",
@@ -476,7 +492,7 @@
     },
     {
       "raw_hot": 144662,
-      "num": 119941,
+      "num": 294180,
       "word": "河南的暴雪还下吗",
       "onboard_time": 1768709840,
       "rank": 31,
@@ -523,14 +539,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 129177,
-      "num": 129177,
-      "word": "东北室内全是东北人",
-      "onboard_time": 1768709360,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 128900,
       "num": 128900,
       "word": "家中凌晨进贼女子全程装睡",
@@ -571,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125738,
+      "num": 125738,
+      "word": "李亚鹏直播带货一晚卖出超千万",
+      "onboard_time": 1768710680,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124734,
       "num": 121154,
       "word": "结婚20年丈夫连个碗都没洗过",
@@ -585,6 +601,14 @@
       "onboard_time": 1768703720,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121627,
+      "num": 121627,
+      "word": "向出轨丈夫道歉女子称自己多次住院",
+      "onboard_time": 1768708999,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118480,
@@ -699,20 +723,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 100438,
-      "num": 104534,
-      "word": "向出轨丈夫道歉女子称自己多次住院",
-      "onboard_time": 1768708999,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98601,
       "num": 98601,
       "word": "宋威龙下雪了",
       "onboard_time": 1768655181,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98124,
+      "num": 98124,
+      "word": "小洛熙医疗纠纷案明日开庭",
+      "onboard_time": 1768710501,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97965,
@@ -729,6 +753,14 @@
       "onboard_time": 1768702759,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96986,
+      "num": 96986,
+      "word": "陈星旭试图捂死玩偶",
+      "onboard_time": 1768712000,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 95686,
@@ -787,12 +819,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 91324,
-      "num": 91324,
-      "word": "小洛熙医疗纠纷案明日开庭",
-      "onboard_time": 1768710501,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 90683,
+      "num": 90683,
+      "word": "开店月赚47元",
+      "onboard_time": 1768711940,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 89001,
@@ -899,12 +931,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80284,
+      "num": 80284,
+      "word": "喉咙痛可以吃雪糕缓解吗",
+      "onboard_time": 1768709960,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 80108,
       "num": 91220,
       "word": "榜一大哥王楚钦",
       "onboard_time": 1768648881,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79592,
+      "num": 79592,
+      "word": "蒋敦豪演我过年上桌状态",
+      "onboard_time": 1768711879,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 78720,
+      "num": 78720,
+      "word": "我们这里吃面包不用拉小提琴",
+      "onboard_time": 1768712299,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 77608,
@@ -931,12 +987,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77096,
+      "num": 77096,
+      "word": "爱德华兹55分生涯新高",
+      "onboard_time": 1768711820,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 76917,
+      "num": 76917,
+      "word": "辛芷蕾 我太有眼光了",
+      "onboard_time": 1768712299,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76104,
-      "num": 149340,
+      "num": 182157,
       "word": "奇瑞超35款车型将搭载全新AI产品",
       "onboard_time": 1768708999,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 74839,
+      "num": 74839,
+      "word": "已婚育女性想追求自由真的很昂贵",
+      "onboard_time": 1768712299,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 73670,
@@ -1195,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50098,
+      "num": 321706,
+      "word": "2026春运火车票明天开售",
+      "onboard_time": 1768711820,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49645,
       "num": 78003,
       "word": "贺娇龙母亲说让她静静地离开吧",
@@ -1275,7 +1363,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 38492,
+      "raw_hot": 38788,
       "num": 624985,
       "word": "10万亿度电背后是中国澎湃的能量",
       "onboard_time": 1768705399,
@@ -1313,6 +1401,14 @@
       "onboard_time": 1768692976,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 33566,
+      "num": 332155,
+      "word": "语文老师教体育一下5个金牌",
+      "onboard_time": 1768711820,
+      "rank": 8,
+      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 32776,
