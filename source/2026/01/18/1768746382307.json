@@ -1,0 +1,410 @@
+{
+  "runTime": 1768746382307,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1005854,
+        "num": 1160936,
+        "word": "5名外卖员将手指砸骨折骗保32万",
+        "onboard_time": 1768743504,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 505401,
+        "num": 813260,
+        "word": "俄罗斯一地暴雪堆出公寓楼高雪坡",
+        "onboard_time": 1768741221,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 73850,
+        "num": 687467,
+        "word": "这个全球单一国家首次说明什么",
+        "onboard_time": 1768740803,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 648656,
+        "num": 648656,
+        "word": "梁小龙去世",
+        "onboard_time": 1768723519,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386800,
+        "num": 386800,
+        "word": "轧戏",
+        "onboard_time": 1768736663,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 466850,
+        "num": 379372,
+        "word": "6人就餐仅花19元老板要求带走垃圾",
+        "onboard_time": 1768740081,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366395,
+        "num": 366395,
+        "word": "26岁女子两月暴瘦30斤成糖尿病前期",
+        "onboard_time": 1768740024,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319913,
+        "num": 319913,
+        "word": "婴儿淋雨哭到撕心裂肺谁能忍",
+        "onboard_time": 1768741763,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303641,
+        "num": 303641,
+        "word": "美国童星疑闯红灯被拖行致死",
+        "onboard_time": 1768743504,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 162440,
+        "num": 272559,
+        "word": "AL对战JDG",
+        "onboard_time": 1768739662,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1453437,
+        "num": 271275,
+        "word": "董子健回复孙怡",
+        "onboard_time": 1768732703,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 613822,
+        "num": 261910,
+        "word": "吴磊工作室严正声明",
+        "onboard_time": 1768741342,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251822,
+        "num": 251822,
+        "word": "改善骨盆前倾 卧英雄式",
+        "onboard_time": 1768732282,
+        "rank": 12,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 486066,
+        "num": 238408,
+        "word": "曝杨紫每天都在很痛苦地减肥",
+        "onboard_time": 1768734922,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448563,
+        "num": 230383,
+        "word": "oner败诉",
+        "onboard_time": 1768738701,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219965,
+        "num": 219965,
+        "word": "上海龙华寺三只猫在殿内吵架",
+        "onboard_time": 1768743082,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27974,
+        "num": 217736,
+        "word": "朱珠被飞鹤的鲜活打动了",
+        "onboard_time": 1768744584,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61587,
+        "num": 215547,
+        "word": "潦草小马走红",
+        "onboard_time": 1768745424,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67599,
+        "num": 213743,
+        "word": "男子32天AA制旅行擅自离队判赔2600",
+        "onboard_time": 1768745363,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23404,
+        "num": 210263,
+        "word": "四川一村免费年猪宴每天400桌",
+        "onboard_time": 1768745603,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 851375,
+        "num": 206089,
+        "word": "欢瑞世纪大跌",
+        "onboard_time": 1768735822,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 440555,
+        "num": 204789,
+        "word": "微博之夜",
+        "onboard_time": 1768743863,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 357227,
+        "num": 200765,
+        "word": "陈冠希一家洛杉矶参加婚礼",
+        "onboard_time": 1768741943,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344435,
+        "num": 198802,
+        "word": "糖尿病前期发出的身体信号",
+        "onboard_time": 1768745783,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 310532,
+        "num": 196106,
+        "word": "罗永浩于谦拒领终身成就奖",
+        "onboard_time": 1768737801,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 273674,
+        "num": 192889,
+        "word": "禁止衣冠不整入内规定已存在多年",
+        "onboard_time": 1768742483,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272649,
+        "num": 190344,
+        "word": "肖战姜妍新剧拥抱路透",
+        "onboard_time": 1768739482,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188613,
+        "num": 188613,
+        "word": "轧戏男主人设",
+        "onboard_time": 1768743683,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160542,
+        "num": 175985,
+        "word": "6元4寸蛋糕店因订单太多暂停营业",
+        "onboard_time": 1768727120,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168495,
+        "num": 168495,
+        "word": "华晨宇 我才是快乐男声",
+        "onboard_time": 1768742961,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167785,
+        "num": 167785,
+        "word": "龙麦",
+        "onboard_time": 1768730662,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132475,
+        "num": 132475,
+        "word": "全国多地发布紧急停课通知",
+        "onboard_time": 1768731382,
+        "rank": 31,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 162342,
+        "num": 132044,
+        "word": "成毅手握多部待播剧",
+        "onboard_time": 1768743323,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130994,
+        "num": 130994,
+        "word": "黑色马蹄莲卖爆了",
+        "onboard_time": 1768742602,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119835,
+        "num": 119835,
+        "word": "芒果真是捡到宝了",
+        "onboard_time": 1768745844,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119301,
+        "num": 119301,
+        "word": "国乒包揽多哈站男单冠亚军",
+        "onboard_time": 1768736421,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115736,
+        "num": 115736,
+        "word": "刘文祥麻辣拌 点单配方",
+        "onboard_time": 1768726581,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 115306,
+        "num": 115306,
+        "word": "今夕赫夕",
+        "onboard_time": 1768731563,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114848,
+        "num": 114848,
+        "word": "陈冠希撞脸毛利小五郎",
+        "onboard_time": 1768746144,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18890,
+        "num": 113725,
+        "word": "误食燃料7岁男孩情况好转恢复意识",
+        "onboard_time": 1768745663,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113407,
+        "num": 113407,
+        "word": "轧戏 软广",
+        "onboard_time": 1768745363,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108845,
+        "num": 108845,
+        "word": "林依轮 这个评论好像死了",
+        "onboard_time": 1768742123,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100987,
+        "num": 100987,
+        "word": "深圳一地铁口被电鸡堵得走不动",
+        "onboard_time": 1768741342,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71559,
+        "num": 100475,
+        "word": "懒人三筒才是年度最有用发明",
+        "onboard_time": 1768744283,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 100150,
+        "num": 100150,
+        "word": "手链扔火炉女子灰烬中找回48颗金珠",
+        "onboard_time": 1768735882,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106034,
+        "num": 98148,
+        "word": "周杰伦回应白卓璇",
+        "onboard_time": 1768743202,
+        "rank": 45,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 103752,
+        "num": 98029,
+        "word": "宋威龙赵今麦合唱主题曲",
+        "onboard_time": 1768742844,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95761,
+        "num": 95761,
+        "word": "婴儿淋暴雨拍短剧家长为何沉默",
+        "onboard_time": 1768745124,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96484,
+        "num": 95041,
+        "word": "钟汉良早上6点米兰晨跑",
+        "onboard_time": 1768746023,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92702,
+        "num": 92702,
+        "word": "维持长久关系不是靠很强烈的爱",
+        "onboard_time": 1768743383,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#这则寓言习近平多次讲起#"
+    }
+  }
+}

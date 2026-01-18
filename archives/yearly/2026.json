@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768744072142,
+  "endTime": 1768746382307,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1123,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1005854,
+      "num": 1160936,
+      "word": "5名外卖员将手指砸骨折骗保32万",
+      "onboard_time": 1768743504,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1003635,
       "num": 304816,
       "word": "陈冠希怎么老成这样了",
@@ -1668,7 +1676,7 @@
     },
     {
       "raw_hot": 838604,
-      "num": 227642,
+      "num": 230383,
       "word": "oner败诉",
       "onboard_time": 1768738701,
       "rank": 13,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767577939,
       "rank": 16,
       "category": "财经"
-    },
-    {
-      "raw_hot": 711362,
-      "num": 220340,
-      "word": "张凌赫官宣宝格丽",
-      "onboard_time": 1768461561,
-      "rank": 20,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
