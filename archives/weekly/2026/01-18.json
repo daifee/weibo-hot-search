@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768726149374,
+  "endTime": 1768728576857,
   "band_list": [
     {
       "raw_hot": 2670618,
@@ -25,6 +25,14 @@
       "onboard_time": 1768654162,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 954519,
+      "num": 1152723,
+      "word": "内蒙古包头一厂区发生爆炸",
+      "onboard_time": 1768724962,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 852117,
@@ -139,14 +147,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 602228,
-      "num": 854056,
-      "word": "内蒙古包头一厂区发生爆炸",
-      "onboard_time": 1768724962,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 601311,
       "num": 808963,
       "word": "为什么酒店床上要放四个枕头",
@@ -163,12 +163,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 579821,
+      "num": 579821,
+      "word": "刘文祥麻辣拌 点单配方",
+      "onboard_time": 1768726581,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 576808,
+      "num": 295292,
+      "word": "宋威龙庆功宴造型",
+      "onboard_time": 1768725141,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 532307,
       "num": 147395,
       "word": "周杰伦发文庆祝结婚11周年",
       "onboard_time": 1768699639,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 517385,
+      "num": 517385,
+      "word": "骄阳似我直播",
+      "onboard_time": 1768727301,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 481103,
@@ -275,14 +299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 379792,
-      "num": 236710,
-      "word": "宋威龙庆功宴造型",
-      "onboard_time": 1768725141,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 377077,
       "num": 377077,
       "word": "王鹤棣演唱会给我香迷糊了",
@@ -307,6 +323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 363333,
+      "num": 223192,
+      "word": "骄阳似我",
+      "onboard_time": 1768714822,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 346415,
       "num": 346415,
       "word": "在巴厘岛确诊脏水病",
@@ -323,20 +347,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 339012,
+      "num": 203266,
+      "word": "王一博挺不上镜的",
+      "onboard_time": 1768725741,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 325112,
       "num": 81979,
       "word": "又一款罕见病药将退出中国市场",
       "onboard_time": 1768697540,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 321645,
-      "num": 223192,
-      "word": "骄阳似我",
-      "onboard_time": 1768714822,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 319254,
@@ -369,6 +393,14 @@
       "onboard_time": 1768701140,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 300570,
+      "num": 300570,
+      "word": "临榆炸鸡腿 十天吃了八十个腿",
+      "onboard_time": 1768727001,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 294861,
@@ -532,7 +564,7 @@
     },
     {
       "raw_hot": 219684,
-      "num": 133935,
+      "num": 179281,
       "word": "曝鞠婧祎四千年美女系丝芭营销",
       "onboard_time": 1768724421,
       "rank": 21,
@@ -548,7 +580,7 @@
     },
     {
       "raw_hot": 214166,
-      "num": 125493,
+      "num": 125638,
       "word": "赵今麦cp热度",
       "onboard_time": 1768725442,
       "rank": 28,
@@ -593,6 +625,14 @@
       "onboard_time": 1768718119,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199593,
+      "num": 167173,
+      "word": "骄阳似我小太阳答谢局",
+      "onboard_time": 1768727600,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 197961,
@@ -673,6 +713,14 @@
       "onboard_time": 1768720999,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186575,
+      "num": 186575,
+      "word": "6元4寸蛋糕店因订单太多暂停营业",
+      "onboard_time": 1768727120,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185506,
@@ -771,6 +819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 163089,
+      "num": 178817,
+      "word": "王鹤棣对沈月说不吃可以给我",
+      "onboard_time": 1768725502,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161661,
       "num": 161661,
       "word": "男子从喉咙痛到进ICU只用1小时",
@@ -780,7 +836,7 @@
     },
     {
       "raw_hot": 156705,
-      "num": 156705,
+      "num": 167365,
       "word": "家人买鳄龟食用被男子阻止养了10年",
       "onboard_time": 1768722440,
       "rank": 22,
@@ -851,11 +907,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145702,
-      "num": 117298,
-      "word": "王一博挺不上镜的",
-      "onboard_time": 1768725741,
-      "rank": 34,
+      "raw_hot": 143930,
+      "num": 124784,
+      "word": "陈奕恒单人cha太帅了",
+      "onboard_time": 1768727600,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -897,6 +953,14 @@
       "onboard_time": 1768629321,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133338,
+      "num": 122496,
+      "word": "徐帆女儿回应没有牵妈妈的手",
+      "onboard_time": 1768727843,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 132312,
@@ -1019,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122660,
+      "num": 171928,
+      "word": "北京11.2万人次上街扫雪铲冰",
+      "onboard_time": 1768725921,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121627,
       "num": 121627,
       "word": "向出轨丈夫道歉女子称自己多次住院",
@@ -1033,6 +1105,14 @@
       "onboard_time": 1768713141,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120306,
+      "num": 120306,
+      "word": "无双状态",
+      "onboard_time": 1768726462,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 118480,
@@ -1091,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115953,
+      "num": 115953,
+      "word": "原来iPhone相册这么实用",
+      "onboard_time": 1768728501,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115714,
       "num": 115714,
       "word": "已婚育女性想追求自由真的很昂贵",
@@ -1105,6 +1193,22 @@
       "onboard_time": 1768718840,
       "rank": 27,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 114039,
+      "num": 114039,
+      "word": "HLE对战NS",
+      "onboard_time": 1768726882,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 112974,
+      "num": 112974,
+      "word": "包头一厂区爆炸伤亡情况调查中",
+      "onboard_time": 1768727600,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111566,
@@ -1187,12 +1291,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105724,
+      "num": 105724,
+      "word": "包头发生爆炸厂区属包钢",
+      "onboard_time": 1768728440,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105343,
       "num": 105343,
       "word": "周深马年央视春晚首次联排",
       "onboard_time": 1768702941,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104878,
+      "num": 104878,
+      "word": "当老外碰上神秘的东方力量",
+      "onboard_time": 1768727061,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 104771,
@@ -1209,6 +1329,14 @@
       "onboard_time": 1768718840,
       "rank": 47,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 103596,
+      "num": 103596,
+      "word": "真正健康的人格具有双面性",
+      "onboard_time": 1768727780,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 103510,
@@ -1249,6 +1377,14 @@
       "onboard_time": 1768724240,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 101427,
+      "num": 113050,
+      "word": "包钢厂区爆炸事故已救出5人",
+      "onboard_time": 1768726221,
+      "rank": 40,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 100543,
@@ -1449,14 +1585,6 @@
       "onboard_time": 1768707799,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88673,
-      "num": 178817,
-      "word": "王鹤棣对沈月说不吃可以给我",
-      "onboard_time": 1768725502,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 88436,
@@ -1705,6 +1833,14 @@
       "onboard_time": 1768710381,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 77503,
+      "num": 166368,
+      "word": "官方通报行业协会有89名副会长",
+      "onboard_time": 1768728322,
+      "rank": 24,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 77446,
@@ -2075,6 +2211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 52530,
+      "num": 113173,
+      "word": "网购4J车厘子2J都不到",
+      "onboard_time": 1768727843,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51639,
       "num": 91109,
       "word": "许嵩空降超话",
@@ -2100,7 +2244,7 @@
     },
     {
       "raw_hot": 50098,
-      "num": 321706,
+      "num": 663245,
       "word": "2026春运火车票明天开售",
       "onboard_time": 1768711820,
       "rank": 9,
@@ -2243,6 +2387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 33849,
+      "num": 117802,
+      "word": "海南自贸港封关满月",
+      "onboard_time": 1768727843,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 32776,
       "num": 71456,
       "word": "小城大事",
@@ -2347,6 +2499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 15214,
+      "num": 204268,
+      "word": "我国将新增超15万个普惠托位",
+      "onboard_time": 1768728201,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14908,
       "num": 30415,
       "word": "U23亚洲杯",
@@ -2377,14 +2537,6 @@
       "onboard_time": 1768655001,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 9042,
-      "num": 171928,
-      "word": "北京11.2万人次上街扫雪铲冰",
-      "onboard_time": 1768725921,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8543,

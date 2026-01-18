@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/18 16:49:09
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/18 17:29:36
 </p>
 </blockquote>
 <p>
@@ -945,6 +945,12 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E5%8C%85%E5%A4%B4%E4%B8%80%E5%8E%82%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23" target="weibo">
+内蒙古包头一厂区发生爆炸（热度：954519）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%BB%E4%BA%86%E4%B9%88APP%E4%B8%8B%E6%9E%B6%23" target="weibo">
 死了么APP下架（热度：947535）
 </a>
@@ -1805,12 +1811,6 @@ A股（热度：713520）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%8A%B1%E5%85%AD%E5%8D%81%E5%A4%9A%E4%B8%87%E4%B9%B0%E4%B8%8B%E5%8C%97%E6%B5%B7%E9%81%93%E4%B8%89%E5%A5%97%E6%88%BF%23" target="weibo">
 中国人花六十多万买下北海道三套房（热度：698379）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%20%E6%B7%A1%E5%AD%A3%E6%97%BA%E5%AD%A3%E9%83%BD%E4%B8%8D%E4%B8%8A%E7%8F%AD%23" target="weibo">
-刘亦菲 淡季旺季都不上班（热度：697999）
 </a>
 </li>
 
