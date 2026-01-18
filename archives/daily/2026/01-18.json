@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768704232803,
+  "endTime": 1768709489120,
   "band_list": [
     {
       "raw_hot": 1184745,
@@ -51,8 +51,16 @@
       "category": "数码"
     },
     {
+      "raw_hot": 616180,
+      "num": 182707,
+      "word": "何存真退网",
+      "onboard_time": 1768704859,
+      "rank": 8,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 532307,
-      "num": 140783,
+      "num": 147395,
       "word": "周杰伦发文庆祝结婚11周年",
       "onboard_time": 1768699639,
       "rank": 20,
@@ -73,6 +81,14 @@
       "onboard_time": 1768662143,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 447822,
+      "num": 148594,
+      "word": "香港床底藏尸案凶手连宠物也没放过",
+      "onboard_time": 1768707678,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 437829,
@@ -139,6 +155,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 306165,
+      "num": 795210,
+      "word": "喜人 春晚",
+      "onboard_time": 1768701140,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294861,
       "num": 294861,
       "word": "白鹿李昀锐田曦薇宋威龙 春晚合唱",
@@ -179,11 +203,27 @@
       "category": "电影"
     },
     {
-      "raw_hot": 229375,
-      "num": 182992,
-      "word": "喜人 春晚",
-      "onboard_time": 1768701140,
-      "rank": 16,
+      "raw_hot": 247181,
+      "num": 247181,
+      "word": "在巴厘岛确诊脏水病",
+      "onboard_time": 1768706899,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 244243,
+      "num": 244243,
+      "word": "太平年",
+      "onboard_time": 1768706059,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 225933,
+      "num": 167306,
+      "word": "准女婿见岳父变脸如翻书",
+      "onboard_time": 1768707678,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -193,6 +233,38 @@
       "onboard_time": 1768691655,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217119,
+      "num": 163886,
+      "word": "男子摆拍污名化成都男性被刑拘",
+      "onboard_time": 1768706301,
+      "rank": 12,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 215975,
+      "num": 152013,
+      "word": "特朗普开价10亿卖委员会永久席位",
+      "onboard_time": 1768704500,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 212979,
+      "num": 160157,
+      "word": "沈月撞档沈月",
+      "onboard_time": 1768708278,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 202736,
+      "num": 176858,
+      "word": "法院应避免公开处刑闹剧重演",
+      "onboard_time": 1768702339,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197961,
@@ -259,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184875,
+      "num": 184875,
+      "word": "乒坛泰斗谈奥运会参赛资格",
+      "onboard_time": 1768705820,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183994,
       "num": 98814,
       "word": "周杰伦47岁了",
@@ -272,6 +352,14 @@
       "word": "12306旅客误购限时免费退票",
       "onboard_time": 1768698259,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182544,
+      "num": 147678,
+      "word": "4寸蛋糕价格普遍在50元以上",
+      "onboard_time": 1768703540,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -291,19 +379,19 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 163785,
+      "num": 152228,
+      "word": "王一博晒攀冰照",
+      "onboard_time": 1768709360,
+      "rank": 16,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 161661,
       "num": 161661,
       "word": "男子从喉咙痛到进ICU只用1小时",
       "onboard_time": 1768654460,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161133,
-      "num": 123612,
-      "word": "4寸蛋糕价格普遍在50元以上",
-      "onboard_time": 1768703540,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -329,6 +417,14 @@
       "onboard_time": 1768703480,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146238,
+      "num": 146238,
+      "word": "韩国围棋界代表曹薰铉送别聂卫平",
+      "onboard_time": 1768702580,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 142738,
@@ -379,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126061,
+      "num": 126061,
+      "word": "樊振东莫雷加德对练",
+      "onboard_time": 1768706059,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126026,
       "num": 105431,
       "word": "肯尼亚在美国施压下涉华表态",
@@ -387,19 +491,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125864,
+      "num": 125864,
+      "word": "澳网",
+      "onboard_time": 1768708460,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124734,
       "num": 121154,
       "word": "结婚20年丈夫连个碗都没洗过",
       "onboard_time": 1768665501,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124105,
-      "num": 124105,
-      "word": "法院应避免公开处刑闹剧重演",
-      "onboard_time": 1768702339,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -435,6 +539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116318,
+      "num": 116318,
+      "word": "小城大事为什么看的人少",
+      "onboard_time": 1768705640,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110695,
       "num": 99655,
       "word": "李昊真牛",
@@ -459,20 +571,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 105449,
-      "num": 105449,
-      "word": "韩国围棋界代表曹薰铉送别聂卫平",
-      "onboard_time": 1768702580,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 105343,
       "num": 105343,
       "word": "周深马年央视春晚首次联排",
       "onboard_time": 1768702941,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104771,
+      "num": 104771,
+      "word": "新生自爆童年暗恋过谢娜",
+      "onboard_time": 1768706181,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 104368,
+      "num": 104368,
+      "word": "你说烂人真心那我就要品一品了",
+      "onboard_time": 1768709300,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 101701,
@@ -488,6 +608,30 @@
       "word": "男子家中容留2女卖淫被判刑",
       "onboard_time": 1768665441,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100438,
+      "num": 104534,
+      "word": "向出轨丈夫道歉女子称自己多次住院",
+      "onboard_time": 1768708999,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100187,
+      "num": 100187,
+      "word": "为什么酒店床上要放四个枕头",
+      "onboard_time": 1768708880,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 99345,
+      "num": 99345,
+      "word": "嫣然医院 唇腭裂治疗",
+      "onboard_time": 1768708700,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -515,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95443,
+      "num": 95443,
+      "word": "杭州师范大学名单造假调查结果公布",
+      "onboard_time": 1768708339,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95084,
       "num": 95084,
       "word": "蛇缠腰取一片新鲜的仙人掌",
@@ -529,6 +681,30 @@
       "onboard_time": 1768703480,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93603,
+      "num": 93603,
+      "word": "雷军送花圈悼念聂卫平",
+      "onboard_time": 1768706000,
+      "rank": 40,
+      "category": "互联网,体育"
+    },
+    {
+      "raw_hot": 92322,
+      "num": 92322,
+      "word": "河南省考",
+      "onboard_time": 1768705579,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 89001,
+      "num": 89001,
+      "word": "乒坛泰斗谈樊振东陈梦退出世排",
+      "onboard_time": 1768707799,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 88436,
@@ -579,6 +755,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84178,
+      "num": 84178,
+      "word": "见过人吸猫第一次见猫吸人",
+      "onboard_time": 1768707199,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 83916,
+      "num": 83916,
+      "word": "蔡明实名冲浪0人相信",
+      "onboard_time": 1768708639,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83868,
       "num": 83868,
       "word": "久坐3小时心脏泵血就减少",
@@ -611,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79911,
+      "num": 79911,
+      "word": "东北室内全是东北人",
+      "onboard_time": 1768709360,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 77446,
       "num": 77446,
       "word": "央视披露解放军实战演练斩首行动",
@@ -625,6 +825,14 @@
       "onboard_time": 1768655361,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76104,
+      "num": 149340,
+      "word": "奇瑞超35款车型将搭载全新AI产品",
+      "onboard_time": 1768708999,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 73670,
@@ -803,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56951,
+      "num": 97051,
+      "word": "二楼直排粪水扬言弄死报警的一楼",
+      "onboard_time": 1768708940,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55378,
       "num": 71964,
       "word": "肖战为新剧主动减重18斤",
@@ -899,6 +1115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48397,
+      "num": 94023,
+      "word": "员工拒绝参加年会表演被领导开除",
+      "onboard_time": 1768708940,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48332,
       "num": 77714,
       "word": "如果轧戏边拍边播",
@@ -985,6 +1209,14 @@
       "onboard_time": 1768692976,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 33494,
+      "num": 624985,
+      "word": "10万亿度电背后是中国澎湃的能量",
+      "onboard_time": 1768705399,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 32776,
@@ -1118,6 +1350,9 @@
   "hotgov_list": [
     {
       "word": "#总书记文章为建设现代化人民城市划重点#"
+    },
+    {
+      "word": "#城市归根结底是人民的城市#"
     }
   ]
 }
