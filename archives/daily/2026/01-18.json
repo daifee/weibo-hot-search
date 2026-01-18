@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768709489120,
+  "endTime": 1768710597525,
   "band_list": [
     {
       "raw_hot": 1184745,
@@ -27,6 +27,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 772222,
+      "num": 182707,
+      "word": "何存真退网",
+      "onboard_time": 1768704859,
+      "rank": 8,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 742067,
       "num": 1118730,
       "word": "北京鹅毛大雪",
@@ -51,12 +59,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 616180,
-      "num": 182707,
-      "word": "何存真退网",
-      "onboard_time": 1768704859,
-      "rank": 8,
-      "category": "动漫"
+      "raw_hot": 579740,
+      "num": 143607,
+      "word": "嫣然医院 唇腭裂治疗",
+      "onboard_time": 1768708700,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 532307,
@@ -147,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 318029,
+      "num": 318029,
+      "word": "在巴厘岛确诊脏水病",
+      "onboard_time": 1768706899,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 307277,
       "num": 307277,
       "word": "卸妆油洗头",
@@ -195,20 +211,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 253629,
+      "num": 163886,
+      "word": "男子摆拍污名化成都男性被刑拘",
+      "onboard_time": 1768706301,
+      "rank": 12,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 248157,
       "num": 248157,
       "word": "杨幂鹿晗我是证人登顶",
       "onboard_time": 1768660882,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 247181,
-      "num": 247181,
-      "word": "在巴厘岛确诊脏水病",
-      "onboard_time": 1768706899,
-      "rank": 5,
-      "category": "情感"
     },
     {
       "raw_hot": 244243,
@@ -219,8 +235,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228310,
+      "num": 152228,
+      "word": "王一博晒攀冰照",
+      "onboard_time": 1768709360,
+      "rank": 16,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 225933,
-      "num": 167306,
+      "num": 222042,
       "word": "准女婿见岳父变脸如翻书",
       "onboard_time": 1768707678,
       "rank": 11,
@@ -233,14 +257,6 @@
       "onboard_time": 1768691655,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 217119,
-      "num": 163886,
-      "word": "男子摆拍污名化成都男性被刑拘",
-      "onboard_time": 1768706301,
-      "rank": 12,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 215975,
@@ -256,6 +272,22 @@
       "word": "沈月撞档沈月",
       "onboard_time": 1768708278,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 209253,
+      "num": 136402,
+      "word": "陈星旭王玉雯吻戏",
+      "onboard_time": 1768709840,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205873,
+      "num": 134916,
+      "word": "粉丝找祝绪丹要红包",
+      "onboard_time": 1768709480,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -379,12 +411,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 163785,
-      "num": 152228,
-      "word": "王一博晒攀冰照",
-      "onboard_time": 1768709360,
-      "rank": 16,
-      "category": "艺人,作品衍生"
+      "raw_hot": 171659,
+      "num": 171659,
+      "word": "为什么酒店床上要放四个枕头",
+      "onboard_time": 1768708880,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 162069,
+      "num": 137391,
+      "word": "二楼直排粪水扬言弄死报警的一楼",
+      "onboard_time": 1768708940,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161661,
@@ -393,6 +433,14 @@
       "onboard_time": 1768654460,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152060,
+      "num": 122126,
+      "word": "财务看演唱会通病",
+      "onboard_time": 1768709898,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 151148,
@@ -425,6 +473,14 @@
       "onboard_time": 1768702580,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144662,
+      "num": 119941,
+      "word": "河南的暴雪还下吗",
+      "onboard_time": 1768709840,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142738,
@@ -467,12 +523,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 129177,
+      "num": 129177,
+      "word": "东北室内全是东北人",
+      "onboard_time": 1768709360,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128900,
       "num": 128900,
       "word": "家中凌晨进贼女子全程装睡",
       "onboard_time": 1768645941,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126695,
+      "num": 119069,
+      "word": "年上的魅力来自于禁欲的克制",
+      "onboard_time": 1768710139,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 126061,
@@ -515,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118480,
+      "num": 118480,
+      "word": "黄子韬刘耀文俩人吃饭跟打架一样",
+      "onboard_time": 1768710319,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118455,
       "num": 102780,
       "word": "体检报告里这些字眼或是癌症信号",
@@ -555,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109535,
+      "num": 109535,
+      "word": "千万要小心引导型恋人",
+      "onboard_time": 1768709778,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106810,
       "num": 106810,
       "word": "女生有点小肚子更健康",
@@ -571,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106081,
+      "num": 106081,
+      "word": "你说烂人真心那我就要品一品了",
+      "onboard_time": 1768709300,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105343,
       "num": 105343,
       "word": "周深马年央视春晚首次联排",
@@ -585,14 +681,6 @@
       "onboard_time": 1768706181,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 104368,
-      "num": 104368,
-      "word": "你说烂人真心那我就要品一品了",
-      "onboard_time": 1768709300,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 101701,
@@ -616,22 +704,6 @@
       "word": "向出轨丈夫道歉女子称自己多次住院",
       "onboard_time": 1768708999,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100187,
-      "num": 100187,
-      "word": "为什么酒店床上要放四个枕头",
-      "onboard_time": 1768708880,
-      "rank": 35,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 99345,
-      "num": 99345,
-      "word": "嫣然医院 唇腭裂治疗",
-      "onboard_time": 1768708700,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -659,11 +731,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95686,
+      "num": 95686,
+      "word": "退钱哥秒变赔钱哥",
+      "onboard_time": 1768710439,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95443,
       "num": 95443,
       "word": "杭州师范大学名单造假调查结果公布",
       "onboard_time": 1768708339,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95157,
+      "num": 122620,
+      "word": "员工拒绝参加年会表演被领导开除",
+      "onboard_time": 1768708940,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -697,6 +785,14 @@
       "onboard_time": 1768705579,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 91324,
+      "num": 91324,
+      "word": "小洛熙医疗纠纷案明日开庭",
+      "onboard_time": 1768710501,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89001,
@@ -795,6 +891,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 81787,
+      "num": 81787,
+      "word": "棋迷冒雪排长队送别聂卫平",
+      "onboard_time": 1768710021,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80108,
       "num": 91220,
       "word": "榜一大哥王楚钦",
@@ -803,12 +907,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79911,
-      "num": 79911,
-      "word": "东北室内全是东北人",
-      "onboard_time": 1768709360,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 77608,
+      "num": 106926,
+      "word": "伊拉克全面接管阿萨德空军基地",
+      "onboard_time": 1768710381,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 77446,
@@ -915,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65985,
+      "num": 106117,
+      "word": "皖西麻黄鸡成本150元与辉同行卖28元",
+      "onboard_time": 1768709721,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65603,
       "num": 65603,
       "word": "男子飞机上睡30分钟信用卡现金都没了",
@@ -1008,14 +1120,6 @@
       "word": "下雪天长城人人人人人人",
       "onboard_time": 1768661062,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 56951,
-      "num": 97051,
-      "word": "二楼直排粪水扬言弄死报警的一楼",
-      "onboard_time": 1768708940,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1115,14 +1219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48397,
-      "num": 94023,
-      "word": "员工拒绝参加年会表演被领导开除",
-      "onboard_time": 1768708940,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 48332,
       "num": 77714,
       "word": "如果轧戏边拍边播",
@@ -1179,6 +1275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 38492,
+      "num": 624985,
+      "word": "10万亿度电背后是中国澎湃的能量",
+      "onboard_time": 1768705399,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38045,
       "num": 38045,
       "word": "李嘉琦李雪琴你俩咋这么瘦了",
@@ -1209,14 +1313,6 @@
       "onboard_time": 1768692976,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 33494,
-      "num": 624985,
-      "word": "10万亿度电背后是中国澎湃的能量",
-      "onboard_time": 1768705399,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 32776,
