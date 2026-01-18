@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768732235519,
+  "endTime": 1768733129314,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2670618,
-      "num": 739520,
+      "num": 916268,
       "word": "梁小龙去世",
       "onboard_time": 1768723519,
       "rank": 10,
@@ -49,6 +49,14 @@
       "onboard_time": 1768699519,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 832125,
+      "num": 246254,
+      "word": "董子健回复孙怡",
+      "onboard_time": 1768732703,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 826044,
@@ -219,6 +227,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 517360,
+      "num": 1598582,
+      "word": "年轻人开始拒绝升职了",
+      "onboard_time": 1768729881,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 503232,
+      "num": 343767,
+      "word": "龙麦",
+      "onboard_time": 1768730662,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 481103,
       "num": 1076976,
       "word": "大叔卖6元四寸蛋糕日收入几百元",
@@ -281,14 +305,6 @@
       "onboard_time": 1768656982,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 422650,
-      "num": 343767,
-      "word": "龙麦",
-      "onboard_time": 1768730662,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 412245,
@@ -379,12 +395,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 353350,
-      "num": 353350,
-      "word": "年轻人开始拒绝升职了",
-      "onboard_time": 1768729881,
-      "rank": 6,
-      "category": "民生新闻"
+      "raw_hot": 358681,
+      "num": 257306,
+      "word": "今夕赫夕",
+      "onboard_time": 1768731563,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 346415,
@@ -425,6 +441,14 @@
       "onboard_time": 1768716319,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 308229,
+      "num": 251282,
+      "word": "赵今麦庆功宴出图了",
+      "onboard_time": 1768732462,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 307277,
@@ -523,6 +547,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 251618,
+      "num": 243589,
+      "word": "香港四小龙还剩下2人",
+      "onboard_time": 1768731863,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248157,
       "num": 248157,
       "word": "杨幂鹿晗我是证人登顶",
@@ -544,6 +576,14 @@
       "word": "太平年",
       "onboard_time": 1768706059,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 242143,
+      "num": 242143,
+      "word": "骄阳似我庆功宴合照",
+      "onboard_time": 1768731382,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -611,14 +651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219715,
-      "num": 120385,
-      "word": "骄阳似我庆功宴合照",
-      "onboard_time": 1768731382,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 219684,
       "num": 179281,
       "word": "曝鞠婧祎四千年美女系丝芭营销",
@@ -675,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202308,
+      "num": 267542,
+      "word": "包头一工厂爆炸已送至医院40余人",
+      "onboard_time": 1768731743,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200785,
       "num": 126670,
       "word": "早安是把付辛博骗来的吗",
@@ -699,6 +739,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196937,
+      "num": 196937,
+      "word": "你是周也那她是谁",
+      "onboard_time": 1768732223,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 196606,
+      "num": 244967,
+      "word": "全国多地发布紧急停课通知",
+      "onboard_time": 1768731382,
+      "rank": 34,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 195207,
       "num": 137510,
       "word": "周末在家煮碗苹果水",
@@ -721,6 +777,14 @@
       "onboard_time": 1768698979,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192870,
+      "num": 192870,
+      "word": "成龙缅怀梁小龙",
+      "onboard_time": 1768732343,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 192393,
@@ -771,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187685,
+      "num": 187685,
+      "word": "周星驰三次邀请梁小龙演火云邪神",
+      "onboard_time": 1768732523,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187355,
       "num": 187355,
       "word": "刘宇宁出镜了但出镜了",
@@ -819,12 +891,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 180518,
-      "num": 180518,
-      "word": "今夕赫夕",
-      "onboard_time": 1768731563,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 180173,
+      "num": 180173,
+      "word": "曝刘耀文私下反差很大",
+      "onboard_time": 1768732462,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 179348,
@@ -844,19 +916,11 @@
     },
     {
       "raw_hot": 176320,
-      "num": 232249,
+      "num": 242666,
       "word": "曝丈夫出轨女子已道歉7天",
       "onboard_time": 1768730302,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 172635,
-      "num": 172635,
-      "word": "香港四小龙还剩下2人",
-      "onboard_time": 1768731863,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 169791,
@@ -939,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153637,
+      "num": 153637,
+      "word": "宋威龙像AI一样弹射出去了",
+      "onboard_time": 1768732582,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 153382,
       "num": 153382,
       "word": "沈月入选b站百大up主",
@@ -1003,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146855,
+      "num": 266072,
+      "word": "仙逆",
+      "onboard_time": 1768732883,
+      "rank": 9,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 146575,
       "num": 123301,
       "word": "澳洲留学是真实版疯狂动物城",
@@ -1057,6 +1137,14 @@
       "onboard_time": 1768717099,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 136637,
+      "num": 254557,
+      "word": "外卖员虐猫事件已结案无处罚",
+      "onboard_time": 1768731503,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134951,
@@ -1283,6 +1371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117769,
+      "num": 248526,
+      "word": "来华免签变成来华就医",
+      "onboard_time": 1768731621,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117600,
       "num": 117600,
       "word": "我的朋友安德烈",
@@ -1339,12 +1435,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 113166,
-      "num": 113166,
-      "word": "全国多地发布紧急停课通知",
-      "onboard_time": 1768731382,
-      "rank": 34,
-      "category": "突发/灾害"
+      "raw_hot": 113981,
+      "num": 113981,
+      "word": "橹穆双人舞台官摄破五百二十万",
+      "onboard_time": 1768729823,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 112974,
@@ -1353,6 +1449,14 @@
       "onboard_time": 1768727600,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112399,
+      "num": 247620,
+      "word": "改善骨盆前倾 卧英雄式",
+      "onboard_time": 1768732282,
+      "rank": 19,
+      "category": "运动健身"
     },
     {
       "raw_hot": 111566,
@@ -1412,7 +1516,7 @@
     },
     {
       "raw_hot": 106903,
-      "num": 106903,
+      "num": 157195,
       "word": "阿维塔事故车主亲自澄清",
       "onboard_time": 1768731743,
       "rank": 36,
@@ -1507,12 +1611,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103377,
-      "num": 99268,
-      "word": "橹穆双人舞台官摄破五百二十万",
-      "onboard_time": 1768729823,
-      "rank": 44,
-      "category": "演出"
+      "raw_hot": 103272,
+      "num": 190212,
+      "word": "纸杯蛋糕",
+      "onboard_time": 1768730241,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 102609,
@@ -1531,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102045,
+      "num": 303896,
+      "word": "取4万元遭盘问报警男子起诉银行",
+      "onboard_time": 1768731563,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101701,
       "num": 101701,
       "word": "米兰男装周",
@@ -1545,14 +1657,6 @@
       "onboard_time": 1768724240,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 100649,
-      "num": 100649,
-      "word": "包头一工厂爆炸已送至医院40余人",
-      "onboard_time": 1768731743,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100543,
@@ -1699,6 +1803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 94391,
+      "num": 144903,
+      "word": "贵州茅台未授权申购飞天茅台",
+      "onboard_time": 1768732644,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 94230,
       "num": 167429,
       "word": "官方通报行业协会有89名副会长",
@@ -1729,6 +1841,14 @@
       "onboard_time": 1768706000,
       "rank": 40,
       "category": "互联网,体育"
+    },
+    {
+      "raw_hot": 93227,
+      "num": 118933,
+      "word": "Daeny加入BLG是因为Viper",
+      "onboard_time": 1768732762,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 93004,
@@ -1843,6 +1963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 86096,
+      "num": 294585,
+      "word": "老外在社交媒体上晒喝热水",
+      "onboard_time": 1768731621,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 85766,
       "num": 85766,
       "word": "开拓者战胜湖人",
@@ -1867,6 +1995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 85493,
+      "num": 100764,
+      "word": "重庆刨猪汤活动多人摔倒被叫停",
+      "onboard_time": 1768732823,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85365,
       "num": 91435,
       "word": "鞠婧祎发夏天九宫格",
@@ -1883,20 +2019,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85136,
-      "num": 85136,
-      "word": "纸杯蛋糕",
-      "onboard_time": 1768730241,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 84715,
       "num": 84715,
       "word": "韦雪前夫说韦雪前男友单纯",
       "onboard_time": 1768729161,
       "rank": 49,
       "category": "网红"
+    },
+    {
+      "raw_hot": 84337,
+      "num": 99869,
+      "word": "一个人最不成熟的行为",
+      "onboard_time": 1768730181,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 84178,
@@ -2379,6 +2515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55079,
+      "num": 1282476,
+      "word": "2026春运火车票明天开售",
+      "onboard_time": 1768711820,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54737,
       "num": 91141,
       "word": "7岁男孩误用燃料吃药后爸爸心碎了",
@@ -2459,14 +2603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 50098,
-      "num": 1216464,
-      "word": "2026春运火车票明天开售",
-      "onboard_time": 1768711820,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49645,
       "num": 78003,
       "word": "贺娇龙母亲说让她静静地离开吧",
@@ -2521,14 +2657,6 @@
       "onboard_time": 1768667600,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 44718,
-      "num": 303896,
-      "word": "取4万元遭盘问报警男子起诉银行",
-      "onboard_time": 1768731563,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 43448,
@@ -2611,14 +2739,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 36007,
-      "num": 294585,
-      "word": "老外在社交媒体上晒喝热水",
-      "onboard_time": 1768731621,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 35216,
       "num": 35216,
       "word": "这3种面包是隐藏的热量炸弹",
@@ -2641,14 +2761,6 @@
       "onboard_time": 1768650741,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 32142,
-      "num": 101383,
-      "word": "外卖员虐猫事件已结案无处罚",
-      "onboard_time": 1768731503,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30137,

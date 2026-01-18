@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768732235519,
+  "endTime": 1768733129314,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 2670618,
-      "num": 739520,
+      "num": 916268,
       "word": "梁小龙去世",
       "onboard_time": 1768723519,
       "rank": 10,
@@ -1648,6 +1648,14 @@
       "word": "张慧雯娜扎聊天记录",
       "onboard_time": 1768554200,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 832125,
+      "num": 246254,
+      "word": "董子健回复孙怡",
+      "onboard_time": 1768732703,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -4419,6 +4427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 517360,
+      "num": 1598582,
+      "word": "年轻人开始拒绝升职了",
+      "onboard_time": 1768729881,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 517269,
       "num": 165247,
       "word": "偶遇吴倩张雨剑带女儿回国",
@@ -4787,6 +4803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 503232,
+      "num": 363039,
+      "word": "龙麦",
+      "onboard_time": 1768220662,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 502391,
       "num": 224319,
       "word": "泰国公主疑与泰总理儿子相恋",
@@ -5105,14 +5129,6 @@
       "onboard_time": 1767816194,
       "rank": 3,
       "category": "军事"
-    },
-    {
-      "raw_hot": 482805,
-      "num": 363039,
-      "word": "龙麦",
-      "onboard_time": 1768220662,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 482457,
@@ -8099,6 +8115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 358681,
+      "num": 257306,
+      "word": "今夕赫夕",
+      "onboard_time": 1768731563,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 358616,
       "num": 358616,
       "word": "张本智和vs林昀儒",
@@ -8289,14 +8313,6 @@
       "onboard_time": 1768469840,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 353350,
-      "num": 353350,
-      "word": "年轻人开始拒绝升职了",
-      "onboard_time": 1768729881,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 353270,
@@ -9897,6 +9913,14 @@
       "onboard_time": 1767198386,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 308229,
+      "num": 251282,
+      "word": "赵今麦庆功宴出图了",
+      "onboard_time": 1768732462,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 308011,
@@ -12555,6 +12579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 251618,
+      "num": 243589,
+      "word": "香港四小龙还剩下2人",
+      "onboard_time": 1768731863,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251564,
       "num": 233099,
       "word": "赵丽颖从未否认自己是马里奥",
@@ -13024,6 +13056,14 @@
       "word": "林依轮对赵今麦说戏里戏外舅爱你",
       "onboard_time": 1768275080,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 242143,
+      "num": 242143,
+      "word": "骄阳似我庆功宴合照",
+      "onboard_time": 1768731382,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -14369,14 +14409,6 @@
       "onboard_time": 1768178301,
       "rank": 14,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 219715,
-      "num": 120385,
-      "word": "骄阳似我庆功宴合照",
-      "onboard_time": 1768731382,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 219684,
@@ -15819,6 +15851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202308,
+      "num": 267542,
+      "word": "包头一工厂爆炸已送至医院40余人",
+      "onboard_time": 1768731743,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202209,
       "num": 196319,
       "word": "左航换手机",
@@ -16363,6 +16403,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 196937,
+      "num": 196937,
+      "word": "你是周也那她是谁",
+      "onboard_time": 1768732223,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196916,
       "num": 196916,
       "word": "张若昀脸上的巴掌印可见五指",
@@ -16425,6 +16473,14 @@
       "onboard_time": 1768491260,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196606,
+      "num": 244967,
+      "word": "全国多地发布紧急停课通知",
+      "onboard_time": 1768731382,
+      "rank": 34,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 196582,
@@ -16913,6 +16969,14 @@
       "onboard_time": 1767421587,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192870,
+      "num": 192870,
+      "word": "成龙缅怀梁小龙",
+      "onboard_time": 1768732343,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 192832,
@@ -17641,6 +17705,14 @@
       "onboard_time": 1768305561,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187685,
+      "num": 187685,
+      "word": "周星驰三次邀请梁小龙演火云邪神",
+      "onboard_time": 1768732523,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 187542,
@@ -18627,14 +18699,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 180518,
-      "num": 180518,
-      "word": "今夕赫夕",
-      "onboard_time": 1768731563,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 180487,
       "num": 225801,
       "word": "全网伙食最差狗子",
@@ -18681,6 +18745,14 @@
       "onboard_time": 1767485541,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 180173,
+      "num": 180173,
+      "word": "曝刘耀文私下反差很大",
+      "onboard_time": 1768732462,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 180144,
@@ -19124,7 +19196,7 @@
     },
     {
       "raw_hot": 176320,
-      "num": 232249,
+      "num": 242666,
       "word": "曝丈夫出轨女子已道歉7天",
       "onboard_time": 1768730302,
       "rank": 22,
@@ -19545,14 +19617,6 @@
       "onboard_time": 1768574603,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 172635,
-      "num": 172635,
-      "word": "香港四小龙还剩下2人",
-      "onboard_time": 1768731863,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 172634,
@@ -22337,6 +22401,14 @@
       "onboard_time": 1768399882,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153637,
+      "num": 153637,
+      "word": "宋威龙像AI一样弹射出去了",
+      "onboard_time": 1768732582,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 153527,
@@ -25569,6 +25641,14 @@
       "onboard_time": 1767568098,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136637,
+      "num": 254557,
+      "word": "外卖员虐猫事件已结案无处罚",
+      "onboard_time": 1768731503,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136632,
@@ -30507,6 +30587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117769,
+      "num": 248526,
+      "word": "来华免签变成来华就医",
+      "onboard_time": 1768731621,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117768,
       "num": 152451,
       "word": "迅雷起诉前CEO贪腐",
@@ -31779,6 +31867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113981,
+      "num": 113981,
+      "word": "橹穆双人舞台官摄破五百二十万",
+      "onboard_time": 1768729823,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 113936,
       "num": 135978,
       "word": "美国若开战伊朗100%报复",
@@ -32091,14 +32187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113166,
-      "num": 113166,
-      "word": "全国多地发布紧急停课通知",
-      "onboard_time": 1768731382,
-      "rank": 34,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 113155,
       "num": 113155,
       "word": "蒲熠星连续两年加盟最强大脑",
@@ -32337,6 +32425,14 @@
       "onboard_time": 1767451887,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112399,
+      "num": 247620,
+      "word": "改善骨盆前倾 卧英雄式",
+      "onboard_time": 1768732282,
+      "rank": 19,
+      "category": "运动健身"
     },
     {
       "raw_hot": 112390,
@@ -33932,7 +34028,7 @@
     },
     {
       "raw_hot": 106903,
-      "num": 106903,
+      "num": 157195,
       "word": "阿维塔事故车主亲自澄清",
       "onboard_time": 1768731743,
       "rank": 36,
@@ -35435,14 +35531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103377,
-      "num": 99268,
-      "word": "橹穆双人舞台官摄破五百二十万",
-      "onboard_time": 1768729823,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 103364,
       "num": 103364,
       "word": "气血好的人有这6个特点",
@@ -35489,6 +35577,14 @@
       "onboard_time": 1767854960,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103272,
+      "num": 190212,
+      "word": "纸杯蛋糕",
+      "onboard_time": 1768730241,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 103268,
@@ -35961,6 +36057,14 @@
       "onboard_time": 1767941600,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102045,
+      "num": 303896,
+      "word": "取4万元遭盘问报警男子起诉银行",
+      "onboard_time": 1768731563,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102024,
@@ -36537,14 +36641,6 @@
       "onboard_time": 1768286781,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 100649,
-      "num": 100649,
-      "word": "包头一工厂爆炸已送至医院40余人",
-      "onboard_time": 1768731743,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100640,
@@ -39395,6 +39491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94391,
+      "num": 144903,
+      "word": "贵州茅台未授权申购飞天茅台",
+      "onboard_time": 1768732644,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 94363,
       "num": 94363,
       "word": "姐狗见多了姐猫还是第一次见",
@@ -39913,6 +40017,14 @@
       "onboard_time": 1768365502,
       "rank": 43,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 93227,
+      "num": 118933,
+      "word": "Daeny加入BLG是因为Viper",
+      "onboard_time": 1768732762,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 93195,
@@ -43235,6 +43347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86096,
+      "num": 294585,
+      "word": "老外在社交媒体上晒喝热水",
+      "onboard_time": 1768731621,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 86086,
       "num": 86086,
       "word": "王欣瑜回应首进硬地决赛",
@@ -43563,6 +43683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85493,
+      "num": 100764,
+      "word": "重庆刨猪汤活动多人摔倒被叫停",
+      "onboard_time": 1768732823,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85481,
       "num": 85481,
       "word": "对王者没概念有多可怕",
@@ -43737,14 +43865,6 @@
       "onboard_time": 1767451586,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 85136,
-      "num": 85136,
-      "word": "纸杯蛋糕",
-      "onboard_time": 1768730241,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 85129,
@@ -44017,6 +44137,14 @@
       "onboard_time": 1767579021,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84337,
+      "num": 99869,
+      "word": "一个人最不成熟的行为",
+      "onboard_time": 1768730181,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 84290,
@@ -51979,6 +52107,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 55079,
+      "num": 1282476,
+      "word": "2026春运火车票明天开售",
+      "onboard_time": 1768711820,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55025,
       "num": 539235,
       "word": "灰熊vs湖人",
@@ -52777,14 +52913,6 @@
       "onboard_time": 1767374898,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 50098,
-      "num": 1216464,
-      "word": "2026春运火车票明天开售",
-      "onboard_time": 1768711820,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50073,
@@ -53657,14 +53785,6 @@
       "onboard_time": 1767238341,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 44718,
-      "num": 303896,
-      "word": "取4万元遭盘问报警男子起诉银行",
-      "onboard_time": 1768731563,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44682,
@@ -55251,14 +55371,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 36007,
-      "num": 294585,
-      "word": "老外在社交媒体上晒喝热水",
-      "onboard_time": 1768731621,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 35924,
       "num": 588030,
       "word": "不踩雷的猫眼版孔雀开屏美甲",
@@ -56057,14 +56169,6 @@
       "onboard_time": 1768464260,
       "rank": 17,
       "category": "民生新闻,汽车"
-    },
-    {
-      "raw_hot": 32142,
-      "num": 101383,
-      "word": "外卖员虐猫事件已结案无处罚",
-      "onboard_time": 1768731503,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32116,

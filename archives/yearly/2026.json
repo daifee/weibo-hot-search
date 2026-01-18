@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768732235519,
+  "endTime": 1768733129314,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 2670618,
-      "num": 739520,
+      "num": 916268,
       "word": "梁小龙去世",
       "onboard_time": 1768723519,
       "rank": 10,
@@ -1651,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 832125,
+      "num": 246254,
+      "word": "董子健回复孙怡",
+      "onboard_time": 1768732703,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 831841,
       "num": 204497,
       "word": "小澈还在方圆家住半个月",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768369641,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 699682,
-      "num": 304442,
-      "word": "第五人格 擦边",
-      "onboard_time": 1768540400,
-      "rank": 11,
-      "category": "游戏"
     }
   ],
   "hotgov_list": [
