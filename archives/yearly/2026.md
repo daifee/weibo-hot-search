@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/18 22:26:22
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/18 22:43:20
 </p>
 </blockquote>
 <p>
@@ -765,6 +765,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%235%E5%90%8D%E5%A4%96%E5%8D%96%E5%91%98%E5%B0%86%E6%89%8B%E6%8C%87%E7%A0%B8%E9%AA%A8%E6%8A%98%E9%AA%97%E4%BF%9D32%E4%B8%87%23" target="weibo">
+5名外卖员将手指砸骨折骗保32万（热度：1044512）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23LV%E6%B4%BB%E5%8A%A8%23" target="weibo">
 LV活动（热度：1044426）
 </a>
@@ -851,12 +857,6 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%BA%9C%E6%8D%9E%E9%9D%A2%20%E5%8F%AA%E6%9C%89%E9%9D%A2%E7%8E%B0%E7%85%AE%23" target="weibo">
 和府捞面 只有面现煮（热度：1009054）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%235%E5%90%8D%E5%A4%96%E5%8D%96%E5%91%98%E5%B0%86%E6%89%8B%E6%8C%87%E7%A0%B8%E9%AA%A8%E6%8A%98%E9%AA%97%E4%BF%9D32%E4%B8%87%23" target="weibo">
-5名外卖员将手指砸骨折骗保32万（热度：1005854）
 </a>
 </li>
 
