@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768719276479,
+  "endTime": 1768721267076,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -249,6 +249,14 @@
       "onboard_time": 1768556180,
       "rank": 3,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 2098042,
+      "num": 617901,
+      "word": "临榆炸鸡腿",
+      "onboard_time": 1768718239,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 2064980,
@@ -2379,6 +2387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 695599,
+      "num": 1111295,
+      "word": "短剧淋雨婴儿片酬仅800元",
+      "onboard_time": 1768717940,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 695485,
       "num": 1109542,
       "word": "上海下雪",
@@ -4265,14 +4281,6 @@
       "onboard_time": 1768129401,
       "rank": 1,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 519970,
-      "num": 519970,
-      "word": "临榆炸鸡腿",
-      "onboard_time": 1768718239,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 519731,
@@ -6297,14 +6305,6 @@
       "onboard_time": 1767846561,
       "rank": 5,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 426139,
-      "num": 426139,
-      "word": "短剧淋雨婴儿片酬仅800元",
-      "onboard_time": 1768717940,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 425343,
@@ -10099,6 +10099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 300535,
+      "num": 300535,
+      "word": "苹果关东煮",
+      "onboard_time": 1768716319,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 300332,
       "num": 300332,
       "word": "公积金制度会怎么改",
@@ -10804,7 +10812,7 @@
     },
     {
       "raw_hot": 280621,
-      "num": 143095,
+      "num": 164231,
       "word": "孟子义第一个综艺",
       "onboard_time": 1768715659,
       "rank": 20,
@@ -11545,6 +11553,14 @@
       "onboard_time": 1767595161,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 267006,
+      "num": 110505,
+      "word": "包头震感",
+      "onboard_time": 1768721060,
+      "rank": 30,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 266985,
@@ -14875,6 +14891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 209711,
+      "num": 176529,
+      "word": "成毅和欢瑞合同到期",
+      "onboard_time": 1768720880,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209662,
       "num": 629412,
       "word": "新一届国乒教练员竞聘结果公示结束",
@@ -17947,6 +17971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183969,
+      "num": 183969,
+      "word": "2025百大UP主名单",
+      "onboard_time": 1768720940,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 183906,
       "num": 126134,
       "word": "时代峰峻下架王橹杰音效争议视频",
@@ -18625,6 +18657,14 @@
       "onboard_time": 1768397360,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178480,
+      "num": 178480,
+      "word": "JDG对战KSG",
+      "onboard_time": 1768720399,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 178442,
@@ -24763,6 +24803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139218,
+      "num": 139218,
+      "word": "婴儿淋雨拍短剧",
+      "onboard_time": 1768720819,
+      "rank": 21,
+      "category": "民生新闻,剧集"
+    },
+    {
       "raw_hot": 139213,
       "num": 139213,
       "word": "湖南卫视连发10条侯明昊",
@@ -25209,6 +25257,14 @@
       "onboard_time": 1767693441,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136679,
+      "num": 136679,
+      "word": "刘宇宁出镜了但出镜了",
+      "onboard_time": 1768720999,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 136654,
@@ -26379,6 +26435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131828,
+      "num": 128546,
+      "word": "成毅长安二十四计优酷招商年冠",
+      "onboard_time": 1768720640,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131713,
       "num": 114455,
       "word": "魏大勋新路透是你吗孟宴臣",
@@ -26635,14 +26699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130749,
-      "num": 130749,
-      "word": "苹果关东煮",
-      "onboard_time": 1768716319,
-      "rank": 23,
-      "category": "美食"
-    },
-    {
       "raw_hot": 130668,
       "num": 319009,
       "word": "玉茗茶骨全员恶女长镜头",
@@ -26873,6 +26929,14 @@
       "onboard_time": 1767605840,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129588,
+      "num": 175102,
+      "word": "孩子洗澡时浴霸突然起火冒烟",
+      "onboard_time": 1768719560,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129547,
@@ -30683,6 +30747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 115843,
+      "num": 109180,
+      "word": "临榆炸鸡腿 我的妻子",
+      "onboard_time": 1768720581,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 115797,
       "num": 115797,
       "word": "张子枫演技",
@@ -33235,6 +33307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107688,
+      "num": 107688,
+      "word": "适合中长发的简单发型",
+      "onboard_time": 1768717999,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 107673,
       "num": 107673,
       "word": "黄景瑜央妈严选的含金量",
@@ -33633,6 +33713,14 @@
       "onboard_time": 1768173378,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106435,
+      "num": 106435,
+      "word": "沈星回旧相机",
+      "onboard_time": 1768719798,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 106425,
@@ -36851,6 +36939,14 @@
       "category": "剧集,综艺"
     },
     {
+      "raw_hot": 98384,
+      "num": 98384,
+      "word": "欧美学历贬值特别快的原因是什么",
+      "onboard_time": 1768719560,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 98343,
       "num": 98343,
       "word": "曝助理被艺人妈妈骂半小时",
@@ -37625,6 +37721,14 @@
       "onboard_time": 1768659923,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96963,
+      "num": 96963,
+      "word": "为什么说不要长期待在地下车库",
+      "onboard_time": 1768718840,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 96929,
@@ -39003,6 +39107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93869,
+      "num": 93869,
+      "word": "不知道 咪的身材很曼妙",
+      "onboard_time": 1768720219,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93863,
       "num": 90670,
       "word": "十年前的宋威龙",
@@ -40075,14 +40187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 91337,
-      "num": 91337,
-      "word": "适合中长发的简单发型",
-      "onboard_time": 1768717999,
-      "rank": 35,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 91309,
       "num": 224882,
       "word": "AI大模型上市第一股",
@@ -40345,6 +40449,14 @@
       "onboard_time": 1768621641,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90760,
+      "num": 90760,
+      "word": "焦虑的原因就两条",
+      "onboard_time": 1768721060,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 90719,
@@ -40721,6 +40833,14 @@
       "onboard_time": 1767313399,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 89839,
+      "num": 89839,
+      "word": "白鹿比八",
+      "onboard_time": 1768720399,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 89820,
@@ -42323,6 +42443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86551,
+      "num": 86551,
+      "word": "杨丞琳唱雨爱完全就是宝茱姐",
+      "onboard_time": 1768720279,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 86550,
       "num": 188965,
       "word": "中方正研究收紧对日稀土出口许可审查",
@@ -42755,6 +42883,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 85714,
+      "num": 85714,
+      "word": "小猫把路睡塌了",
+      "onboard_time": 1768716199,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85707,
       "num": 85707,
       "word": "KPL选手大会",
@@ -42945,6 +43081,14 @@
       "onboard_time": 1767350660,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85332,
+      "num": 85332,
+      "word": "马年第一马含金量有多高",
+      "onboard_time": 1768720101,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 85331,
@@ -44875,6 +45019,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 80331,
+      "num": 80331,
+      "word": "卢昱晓说陈星旭本人不太装",
+      "onboard_time": 1768717759,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80284,
       "num": 80284,
       "word": "喉咙痛可以吃雪糕缓解吗",
@@ -45233,14 +45385,6 @@
       "onboard_time": 1768541721,
       "rank": 47,
       "category": "汽车,民生新闻"
-    },
-    {
-      "raw_hot": 79496,
-      "num": 79496,
-      "word": "小猫把路睡塌了",
-      "onboard_time": 1768716199,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 79495,
@@ -46368,14 +46512,6 @@
       "word": "赵樱子回应男明星都喜欢网红",
       "onboard_time": 1767762923,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 76056,
-      "num": 76056,
-      "word": "卢昱晓说陈星旭本人不太装",
-      "onboard_time": 1768717759,
-      "rank": 43,
       "category": "艺人"
     },
     {
@@ -48593,14 +48729,6 @@
       "onboard_time": 1768626140,
       "rank": 43,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 67602,
-      "num": 67602,
-      "word": "为什么说不要长期待在地下车库",
-      "onboard_time": 1768718840,
-      "rank": 47,
-      "category": "科学科普"
     },
     {
       "raw_hot": 67582,
@@ -53195,6 +53323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42839,
+      "num": 173081,
+      "word": "圣坛组合2026年第二冠",
+      "onboard_time": 1768720819,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42783,
       "num": 157427,
       "word": "女生独行千里登长城热泪盈眶诵诗",
@@ -56536,6 +56672,14 @@
       "word": "律师向法官提供AI编造的案例",
       "onboard_time": 1768470440,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25129,
+      "num": 172699,
+      "word": "飞机票什么时候误购可以免费退票",
+      "onboard_time": 1768720759,
+      "rank": 18,
       "category": "民生新闻"
     },
     {

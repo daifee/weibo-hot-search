@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/18 14:54:36
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/18 15:27:47
 </p>
 </blockquote>
 <p>
@@ -197,6 +197,12 @@ Asen回应Sakee（热度：2704539）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E5%9B%BD%E9%BE%99%E8%AE%A9%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%81%93%E6%AD%89%E8%B5%94%E5%81%BF%23" target="weibo">
 贾国龙让罗永浩道歉赔偿（热度：2123115）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%B4%E6%A6%86%E7%82%B8%E9%B8%A1%E8%85%BF%23" target="weibo">
+临榆炸鸡腿（热度：2098042）
 </a>
 </li>
 
@@ -1797,20 +1803,14 @@ A股（热度：713520）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E6%B7%8B%E9%9B%A8%E5%A9%B4%E5%84%BF%E7%89%87%E9%85%AC%E4%BB%85800%E5%85%83%23" target="weibo">
+短剧淋雨婴儿片酬仅800元（热度：695599）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%8B%E9%9B%AA%23" target="weibo">
 上海下雪（热度：695485）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%9B%9E%E5%BA%94%E8%83%96%E4%BA%86%23" target="weibo">
-李佳琦回应胖了（热度：693703）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E6%BC%AB%E4%BA%94%E9%83%A8%E6%9B%B2%E5%90%B4%E5%80%A9%E5%87%BA%E6%BC%94%E4%BA%86%E4%B8%89%E9%83%A8%23" target="weibo">
-顾漫五部曲吴倩出演了三部（热度：689093）
 </a>
 </li>
 

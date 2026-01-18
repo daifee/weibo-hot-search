@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768719276479,
+  "endTime": 1768721267076,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -249,6 +249,14 @@
       "onboard_time": 1768556180,
       "rank": 3,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 2098042,
+      "num": 617901,
+      "word": "临榆炸鸡腿",
+      "onboard_time": 1768718239,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 2064980,
@@ -2379,28 +2387,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 695599,
+      "num": 1111295,
+      "word": "短剧淋雨婴儿片酬仅800元",
+      "onboard_time": 1768717940,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 695485,
       "num": 1109542,
       "word": "上海下雪",
       "onboard_time": 1767700522,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 693703,
-      "num": 172266,
-      "word": "李佳琦回应胖了",
-      "onboard_time": 1768633102,
-      "rank": 20,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 689093,
-      "num": 581765,
-      "word": "顾漫五部曲吴倩出演了三部",
-      "onboard_time": 1767959960,
-      "rank": 5,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
