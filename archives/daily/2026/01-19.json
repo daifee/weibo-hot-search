@@ -1,6 +1,6 @@
 {
   "startTime": 1768754034427,
-  "endTime": 1768772430905,
+  "endTime": 1768775309330,
   "band_list": [
     {
       "raw_hot": 795420,
@@ -491,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28517,
+      "num": 28517,
+      "word": "赵今麦骄阳似我庆功宴造型",
+      "onboard_time": 1768770194,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 21414,
       "num": 34467,
       "word": "小城良方",
@@ -532,31 +540,31 @@
     },
     {
       "raw_hot": 15967,
-      "num": 24497,
+      "num": 28494,
       "word": "声鸣远扬",
       "onboard_time": 1768739903,
       "rank": 39,
       "category": "综艺"
     },
     {
-      "raw_hot": 14181,
-      "num": 17235,
-      "word": "赵今麦骄阳似我庆功宴造型",
-      "onboard_time": 1768770194,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 14128,
-      "num": 24350,
+      "raw_hot": 15932,
+      "num": 28499,
       "word": "内蒙古包头一厂区发生爆炸",
       "onboard_time": 1768724962,
       "rank": 47,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 9774,
-      "num": 100788,
+      "raw_hot": 14803,
+      "num": 28499,
+      "word": "姜妍肖战一个在闹一个在笑",
+      "onboard_time": 1768774635,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 11214,
+      "num": 233426,
       "word": "神21乘组太空Vlog上新",
       "onboard_time": 1768740202,
       "rank": 2,
