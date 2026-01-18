@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/18 19:23:32
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/18 19:38:28
 </p>
 </blockquote>
 <p>
@@ -1119,6 +1119,12 @@ U23国足首进亚洲杯4强（热度：890521）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%9D%A8%E7%B4%AB%E6%AF%8F%E5%A4%A9%E9%83%BD%E5%9C%A8%E5%BE%88%E7%97%9B%E8%8B%A6%E5%9C%B0%E5%87%8F%E8%82%A5%23" target="weibo">
+曝杨紫每天都在很痛苦地减肥（热度：884768）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E5%88%86%E5%88%AB%E5%8F%96%E5%90%8D%E7%81%BF%E5%92%8C%E7%83%82%23" target="weibo">
 双胞胎姐妹分别取名灿和烂（热度：882691）
 </a>
@@ -1805,12 +1811,6 @@ A股（热度：713520）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%98%AF%E8%AF%81%E4%BA%BA%23" target="weibo">
 我是证人（热度：702652）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8D%B3%E5%B0%86%E6%AD%A3%E5%BC%8F%E9%80%80%E5%87%BA%E4%B8%96%E5%8D%AB%E7%BB%84%E7%BB%87%23" target="weibo">
-美国即将正式退出世卫组织（热度：700693）
 </a>
 </li>
 

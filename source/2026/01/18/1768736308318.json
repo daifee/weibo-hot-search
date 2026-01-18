@@ -1,0 +1,410 @@
+{
+  "runTime": 1768736308318,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 569846,
+        "num": 1091175,
+        "word": "年轻人开始拒绝升职了",
+        "onboard_time": 1768729881,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430405,
+        "num": 764716,
+        "word": "内蒙古包头一厂区发生爆炸",
+        "onboard_time": 1768724962,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37949,
+        "num": 632022,
+        "word": "2026春运火车票明天开售",
+        "onboard_time": 1768711820,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 532878,
+        "num": 532878,
+        "word": "梁小龙去世",
+        "onboard_time": 1768723519,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266920,
+        "num": 266920,
+        "word": "包头一工厂爆炸已送至医院40余人",
+        "onboard_time": 1768731743,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260447,
+        "num": 260447,
+        "word": "来华免签变成来华就医",
+        "onboard_time": 1768731621,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255349,
+        "num": 255349,
+        "word": "外卖员虐猫事件已结案无处罚",
+        "onboard_time": 1768731503,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228910,
+        "num": 228910,
+        "word": "刘文祥麻辣拌 点单配方",
+        "onboard_time": 1768726581,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 233958,
+        "num": 227217,
+        "word": "仙逆",
+        "onboard_time": 1768732883,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 177089,
+        "num": 220005,
+        "word": "6元4寸蛋糕店因订单太多暂停营业",
+        "onboard_time": 1768727120,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 648723,
+        "num": 208952,
+        "word": "今夕赫夕",
+        "onboard_time": 1768731563,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 519536,
+        "num": 203591,
+        "word": "龙麦",
+        "onboard_time": 1768730662,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305766,
+        "num": 198274,
+        "word": "改善骨盆前倾 卧英雄式",
+        "onboard_time": 1768732282,
+        "rank": 12,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 296356,
+        "num": 194161,
+        "word": "赵今麦庆功宴出图了",
+        "onboard_time": 1768732462,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188335,
+        "num": 188335,
+        "word": "王安宇邵子恒 内娱综艺大将军",
+        "onboard_time": 1768735462,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170600,
+        "num": 187329,
+        "word": "取4万元遭盘问报警男子起诉银行",
+        "onboard_time": 1768731563,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197900,
+        "num": 187255,
+        "word": "骄阳似我庆功宴",
+        "onboard_time": 1768712779,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187002,
+        "num": 187002,
+        "word": "短剧淋雨婴儿片酬仅800元",
+        "onboard_time": 1768717940,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117858,
+        "num": 177771,
+        "word": "纸杯蛋糕",
+        "onboard_time": 1768730241,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 176939,
+        "num": 176939,
+        "word": "骄阳似我庆功宴合照",
+        "onboard_time": 1768731382,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 884768,
+        "num": 176199,
+        "word": "曝杨紫每天都在很痛苦地减肥",
+        "onboard_time": 1768734922,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215605,
+        "num": 174882,
+        "word": "欢瑞世纪大跌",
+        "onboard_time": 1768735822,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 858174,
+        "num": 172587,
+        "word": "董子健回复孙怡",
+        "onboard_time": 1768732703,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312696,
+        "num": 170954,
+        "word": "周星驰悼念梁小龙",
+        "onboard_time": 1768734261,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210927,
+        "num": 169184,
+        "word": "温瑞博3比2雨果",
+        "onboard_time": 1768735462,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279916,
+        "num": 167385,
+        "word": "香港四小龙还剩下2人",
+        "onboard_time": 1768731863,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3628931,
+        "num": 166467,
+        "word": "孙怡 我的朋友董子健",
+        "onboard_time": 1768729460,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196473,
+        "num": 165221,
+        "word": "全国多地发布紧急停课通知",
+        "onboard_time": 1768731382,
+        "rank": 27,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 236574,
+        "num": 162086,
+        "word": "沈月银河精灵",
+        "onboard_time": 1768735162,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224922,
+        "num": 160309,
+        "word": "曝成毅和欢瑞解约后片酬翻了一倍",
+        "onboard_time": 1768735462,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122711,
+        "num": 159848,
+        "word": "手链扔火炉女子灰烬中找回48颗金珠",
+        "onboard_time": 1768735882,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193974,
+        "num": 157967,
+        "word": "私聊表白被全程直播吃瓜",
+        "onboard_time": 1768735403,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187815,
+        "num": 155918,
+        "word": "宋威龙 点我呢我衬衫透的",
+        "onboard_time": 1768729221,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113606,
+        "num": 154703,
+        "word": "婴儿淋雨拍短剧",
+        "onboard_time": 1768720819,
+        "rank": 33,
+        "category": "民生新闻,剧集"
+      },
+      {
+        "raw_hot": 182086,
+        "num": 153365,
+        "word": "周星驰三次邀请梁小龙演火云邪神",
+        "onboard_time": 1768732523,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151928,
+        "num": 151928,
+        "word": "王一博挺不上镜的",
+        "onboard_time": 1768725741,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100188,
+        "num": 151173,
+        "word": "夫妻结婚两年多丈夫被前妻起诉",
+        "onboard_time": 1768735342,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177985,
+        "num": 147357,
+        "word": "梁小龙离世前一天还与友人聚会",
+        "onboard_time": 1768733482,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94381,
+        "num": 144386,
+        "word": "孙颖莎18岁时击败佐藤瞳名场面",
+        "onboard_time": 1768735882,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87312,
+        "num": 140772,
+        "word": "折叠屏到了东北就是碎碎冰",
+        "onboard_time": 1768734022,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 139737,
+        "num": 139737,
+        "word": "成毅和欢瑞合同到期",
+        "onboard_time": 1768720880,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137305,
+        "num": 137305,
+        "word": "宋威龙像AI一样弹射出去了",
+        "onboard_time": 1768732582,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 84771,
+        "num": 132063,
+        "word": "TES对战BLG",
+        "onboard_time": 1768731262,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129949,
+        "num": 129949,
+        "word": "曝刘耀文私下反差很大",
+        "onboard_time": 1768732462,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110279,
+        "num": 129103,
+        "word": "你是周也那她是谁",
+        "onboard_time": 1768732223,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75785,
+        "num": 128616,
+        "word": "包头震感",
+        "onboard_time": 1768721060,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 94178,
+        "num": 127408,
+        "word": "沈月入选b站百大up主",
+        "onboard_time": 1768729342,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75590,
+        "num": 126525,
+        "word": "周启豪满电",
+        "onboard_time": 1768736001,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71982,
+        "num": 125561,
+        "word": "NS零封HLE",
+        "onboard_time": 1768735102,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 71074,
+        "num": 124946,
+        "word": "高食欲女子活在一个戒糖的世界",
+        "onboard_time": 1768735403,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记文章为建设现代化人民城市划重点#"
+    }
+  }
+}
