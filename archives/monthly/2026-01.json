@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768757150027,
+  "endTime": 1768758183433,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -45099,6 +45099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83910,
+      "num": 215600,
+      "word": "茶颜悦色回应在北上深开店传闻",
+      "onboard_time": 1768753700,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 83903,
       "num": 248684,
       "word": "香港人第一次搓澡的体验",
@@ -46817,14 +46825,6 @@
       "onboard_time": 1768289780,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 79738,
-      "num": 215600,
-      "word": "茶颜悦色回应在北上深开店传闻",
-      "onboard_time": 1768753700,
-      "rank": 41,
-      "category": "财经"
     },
     {
       "raw_hot": 79727,
@@ -53555,6 +53555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51881,
+      "num": 79369,
+      "word": "赖导第一次拿到百大",
+      "onboard_time": 1768754899,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 51863,
       "num": 518726,
       "word": "多地将托育所开至产业园区",
@@ -54873,14 +54881,6 @@
       "onboard_time": 1768411997,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 43918,
-      "num": 79369,
-      "word": "赖导第一次拿到百大",
-      "onboard_time": 1768754899,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 43869,
@@ -57561,6 +57561,14 @@
       "onboard_time": 1767685041,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29890,
+      "num": 67811,
+      "word": "鹅毛大雪中的丁禹兮",
+      "onboard_time": 1768757236,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 29860,

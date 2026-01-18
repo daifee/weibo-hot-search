@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/18 00:32:47 ~ 2026/01/19 01:25:50
+本榜单时间：2026/01/18 00:32:47 ~ 2026/01/19 01:43:03
 </p>
 </blockquote>
 <p>
@@ -2169,6 +2169,12 @@ NS零封HLE（热度：84780）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E5%9B%9E%E5%BA%94%E5%9C%A8%E5%8C%97%E4%B8%8A%E6%B7%B1%E5%BC%80%E5%BA%97%E4%BC%A0%E9%97%BB%23" target="weibo">
+茶颜悦色回应在北上深开店传闻（热度：83910）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%85%E5%9D%903%E5%B0%8F%E6%97%B6%E5%BF%83%E8%84%8F%E6%B3%B5%E8%A1%80%E5%B0%B1%E5%87%8F%E5%B0%91%23" target="weibo">
 久坐3小时心脏泵血就减少（热度：83868）
 </a>
@@ -2255,12 +2261,6 @@ Viper说回LPL没什么怕的（热度：80686）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E7%8E%8B%E6%A5%9A%E9%92%A6%23" target="weibo">
 榜一大哥王楚钦（热度：80108）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E5%9B%9E%E5%BA%94%E5%9C%A8%E5%8C%97%E4%B8%8A%E6%B7%B1%E5%BC%80%E5%BA%97%E4%BC%A0%E9%97%BB%23" target="weibo">
-茶颜悦色回应在北上深开店传闻（热度：79738）
 </a>
 </li>
 
@@ -2679,6 +2679,12 @@ U23国足主帅呼吁重视比赛安排（热度：62479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%96%E5%AF%BC%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%8B%BF%E5%88%B0%E7%99%BE%E5%A4%A7%23" target="weibo">
+赖导第一次拿到百大（热度：51881）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%B5%A9%E7%A9%BA%E9%99%8D%E8%B6%85%E8%AF%9D%23" target="weibo">
 许嵩空降超话（热度：51639）
 </a>
@@ -2747,12 +2753,6 @@ U23国足主帅呼吁重视比赛安排（热度：62479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E9%A9%AC%E8%85%BE%E4%BD%A0%E5%88%AB%E8%B5%B0%23" target="weibo">
 电影马腾你别走（热度：45796）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%96%E5%AF%BC%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%8B%BF%E5%88%B0%E7%99%BE%E5%A4%A7%23" target="weibo">
-赖导第一次拿到百大（热度：43918）
 </a>
 </li>
 
@@ -2879,6 +2879,12 @@ Rookie燃成鸡架（热度：36070）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%BF%97%E9%91%AB%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%8B%E8%80%B3%E6%9C%BA%E9%87%8C%E7%9A%84%E6%AD%8C%23" target="weibo">
 朱志鑫分享一下耳机里的歌（热度：30137）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%85%E6%AF%9B%E5%A4%A7%E9%9B%AA%E4%B8%AD%E7%9A%84%E4%B8%81%E7%A6%B9%E5%85%AE%23" target="weibo">
+鹅毛大雪中的丁禹兮（热度：29890）
 </a>
 </li>
 
