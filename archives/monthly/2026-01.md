@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/18 16:36:04
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/18 16:49:09
 </p>
 </blockquote>
 <p>
@@ -2355,6 +2355,12 @@ iPhone18Pro渲染视频曝光（热度：621333）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E5%8C%85%E5%A4%B4%E4%B8%80%E5%8E%82%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23" target="weibo">
+内蒙古包头一厂区发生爆炸（热度：602228）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%80%8E%E4%B9%88%E4%BA%86%23" target="weibo">
 委内瑞拉怎么了（热度：601729）
 </a>
@@ -3845,6 +3851,12 @@ iPhone4需求激增近1000%（热度：506886）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2327%E5%B2%81%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83%E7%B2%BE%E5%AD%90%E7%95%B8%E5%BD%A2%E7%8E%87%E8%B6%8590%25%23" target="weibo">
 27岁健身教练精子畸形率超90%（热度：480295）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23B%E7%AB%99%E5%B4%A9%E4%BA%86%23" target="weibo">
+B站崩了（热度：480074）
 </a>
 </li>
 
@@ -5451,12 +5463,6 @@ loveissoap说童锦程配不上她（热度：394705）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23B%E7%AB%99%E5%B4%A9%E4%BA%86%23" target="weibo">
-B站崩了（热度：385748）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A11%E5%B9%B4%E5%AD%98350%E4%B8%87%E7%9A%845%E4%B8%AA%E6%B6%88%E8%B4%B9%E4%B9%A0%E6%83%AF%23" target="weibo">
 毕业11年存350万的5个消费习惯（热度：385711）
 </a>
@@ -5573,6 +5579,12 @@ B站崩了（热度：385748）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%20%E4%B8%89%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%A9%9A%E7%A4%BC%E6%9C%89%E7%82%B9%E6%8B%A5%E6%8C%A4%23" target="weibo">
 陈哲远 三个人的婚礼有点拥挤（热度：379813）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A8%81%E9%BE%99%E5%BA%86%E5%8A%9F%E5%AE%B4%E9%80%A0%E5%9E%8B%23" target="weibo">
+宋威龙庆功宴造型（热度：379792）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ FMVP皮肤（热度：362967）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%92%AD%E5%87%BA%E5%85%BB%E8%80%81%E9%87%91%E8%B4%AA%E6%B1%A1%E6%A1%88%E7%BB%86%E8%8A%82%23" target="weibo">
 央视播出养老金贪污案细节（热度：360025）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%82%80%E8%AF%B7%E8%AE%B0%E8%80%85%E5%96%9D%E6%94%BE%E4%BA%865%E5%A4%A9%E7%9A%84%E7%89%9B%E5%A5%B6%23" target="weibo">
-特朗普邀请记者喝放了5天的牛奶（热度：359816）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%9C%B0%E9%93%81%E5%AE%9E%E7%8E%B01%E4%BA%BA1%E5%BA%A7%23" target="weibo">
-成都地铁实现1人1座（热度：359682）
 </a>
 </li>
 

@@ -1,10 +1,10 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768725364929,
+  "endTime": 1768726149374,
   "band_list": [
     {
       "raw_hot": 2670618,
-      "num": 234046,
+      "num": 669043,
       "word": "梁小龙去世",
       "onboard_time": 1768723519,
       "rank": 10,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 772814,
-      "num": 1123650,
+      "num": 1147902,
       "word": "短剧淋雨婴儿片酬仅800元",
       "onboard_time": 1768717940,
       "rank": 5,
@@ -139,6 +139,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 602228,
+      "num": 854056,
+      "word": "内蒙古包头一厂区发生爆炸",
+      "onboard_time": 1768724962,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 601311,
       "num": 808963,
       "word": "为什么酒店床上要放四个枕头",
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 600252,
-      "num": 230847,
+      "num": 243779,
       "word": "曝释小龙酒驾",
       "onboard_time": 1768724060,
       "rank": 11,
@@ -171,8 +179,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 480074,
+      "num": 780794,
+      "word": "B站崩了",
+      "onboard_time": 1768722200,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 467200,
-      "num": 226656,
+      "num": 241817,
       "word": "成毅和欢瑞合同到期",
       "onboard_time": 1768720880,
       "rank": 12,
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 410377,
-      "num": 229631,
+      "num": 237517,
       "word": "包头震感",
       "onboard_time": 1768721060,
       "rank": 30,
@@ -251,20 +267,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 385748,
-      "num": 780794,
-      "word": "B站崩了",
-      "onboard_time": 1768722200,
-      "rank": 1,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 384692,
       "num": 293485,
       "word": "二楼直排粪水扬言弄死报警的一楼",
       "onboard_time": 1768708940,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 379792,
+      "num": 236710,
+      "word": "宋威龙庆功宴造型",
+      "onboard_time": 1768725141,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 377077,
@@ -315,7 +331,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 320784,
+      "raw_hot": 321645,
       "num": 223192,
       "word": "骄阳似我",
       "onboard_time": 1768714822,
@@ -404,7 +420,7 @@
     },
     {
       "raw_hot": 268968,
-      "num": 134940,
+      "num": 158067,
       "word": "张凌赫初中就有梦女粉和黑粉了",
       "onboard_time": 1768721960,
       "rank": 38,
@@ -433,6 +449,14 @@
       "onboard_time": 1768660882,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 245034,
+      "num": 245034,
+      "word": "湖南5岁男童啃手致重度感染侵骨",
+      "onboard_time": 1768723580,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 244243,
@@ -499,14 +523,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 223046,
-      "num": 223046,
-      "word": "内蒙古包头一厂区发生爆炸",
-      "onboard_time": 1768724962,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 221036,
       "num": 173301,
       "word": "王俊凯依旧手搓蛋糕",
@@ -531,6 +547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 214166,
+      "num": 125493,
+      "word": "赵今麦cp热度",
+      "onboard_time": 1768725442,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212979,
       "num": 160157,
       "word": "沈月撞档沈月",
@@ -545,14 +569,6 @@
       "onboard_time": 1768709480,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204989,
-      "num": 204989,
-      "word": "湖南5岁男童啃手致重度感染侵骨",
-      "onboard_time": 1768723580,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 204353,
@@ -617,6 +633,14 @@
       "onboard_time": 1768718840,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190567,
+      "num": 190567,
+      "word": "JDG对战KSG",
+      "onboard_time": 1768720399,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 189741,
@@ -699,14 +723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 178480,
-      "num": 178480,
-      "word": "JDG对战KSG",
-      "onboard_time": 1768720399,
-      "rank": 9,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 176437,
       "num": 178661,
       "word": "短剧之后漫剧火了",
@@ -723,12 +739,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166102,
-      "num": 126427,
-      "word": "宋威龙庆功宴造型",
-      "onboard_time": 1768725141,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 166267,
+      "num": 124007,
+      "word": "骄阳似我庆功宴内场",
+      "onboard_time": 1768724421,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 165055,
@@ -763,12 +779,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152245,
-      "num": 119713,
-      "word": "骄阳似我庆功宴内场",
-      "onboard_time": 1768724421,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 156705,
+      "num": 156705,
+      "word": "家人买鳄龟食用被男子阻止养了10年",
+      "onboard_time": 1768722440,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152060,
@@ -777,6 +793,14 @@
       "onboard_time": 1768709898,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151478,
+      "num": 123851,
+      "word": "迪迪不畏一个月瘦了20多斤",
+      "onboard_time": 1768724660,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 151148,
@@ -827,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145702,
+      "num": 117298,
+      "word": "王一博挺不上镜的",
+      "onboard_time": 1768725741,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143625,
       "num": 143625,
       "word": "恋综两男争一女 大型雄竞现场",
@@ -849,14 +881,6 @@
       "onboard_time": 1768717099,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 137609,
-      "num": 131637,
-      "word": "家人买鳄龟食用被男子阻止养了10年",
-      "onboard_time": 1768722440,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134951,
@@ -897,14 +921,6 @@
       "onboard_time": 1768649181,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 130656,
-      "num": 118436,
-      "word": "迪迪不畏一个月瘦了20多斤",
-      "onboard_time": 1768724660,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 130071,
@@ -987,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124350,
+      "num": 124350,
+      "word": "为什么袜子洗完总是会变硬",
+      "onboard_time": 1768721720,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 123193,
       "num": 123193,
       "word": "檀健次被小炭火逗笑了",
@@ -1059,14 +1083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116503,
-      "num": 116503,
-      "word": "为什么袜子洗完总是会变硬",
-      "onboard_time": 1768721720,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 116318,
       "num": 116318,
       "word": "小城大事为什么看的人少",
@@ -1091,12 +1107,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 111566,
+      "num": 111566,
+      "word": "国际奥委会回应禁止美国参加冬奥会",
+      "onboard_time": 1768725082,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110695,
       "num": 99655,
       "word": "李昊真牛",
       "onboard_time": 1768664301,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110312,
+      "num": 110312,
+      "word": "我的朋友安德烈后劲太大了",
+      "onboard_time": 1768724781,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 109712,
@@ -1113,14 +1145,6 @@
       "onboard_time": 1768709778,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 107829,
-      "num": 107829,
-      "word": "国际奥委会回应禁止美国参加冬奥会",
-      "onboard_time": 1768725082,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 107688,
@@ -1187,6 +1211,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 103510,
+      "num": 103510,
+      "word": "男子摆拍女儿50元淘到名酒被行政处罚",
+      "onboard_time": 1768722379,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102609,
+      "num": 725221,
+      "word": "周某摆拍女儿50元换名酒被行政处罚",
+      "onboard_time": 1768721720,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102351,
       "num": 102351,
       "word": "苏新皓你想馋死我们吗",
@@ -1201,6 +1241,14 @@
       "onboard_time": 1768665261,
       "rank": 37,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 101480,
+      "num": 101480,
+      "word": "一天中4个时刻不适合洗头",
+      "onboard_time": 1768724240,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 100543,
@@ -1257,14 +1305,6 @@
       "onboard_time": 1768694596,
       "rank": 28,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 97884,
-      "num": 725221,
-      "word": "周某摆拍女儿50元换名酒被行政处罚",
-      "onboard_time": 1768721720,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97784,
@@ -1355,12 +1395,12 @@
       "category": "互联网,体育"
     },
     {
-      "raw_hot": 93358,
-      "num": 93358,
-      "word": "一天中4个时刻不适合洗头",
-      "onboard_time": 1768724240,
-      "rank": 42,
-      "category": "健康医疗"
+      "raw_hot": 93004,
+      "num": 93004,
+      "word": "洗澡前vs洗澡后",
+      "onboard_time": 1768726101,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 92322,
@@ -1411,19 +1451,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88673,
+      "num": 178817,
+      "word": "王鹤棣对沈月说不吃可以给我",
+      "onboard_time": 1768725502,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88436,
       "num": 88436,
       "word": "程序员因上班睡觉吃外卖被开除",
       "onboard_time": 1768703839,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88053,
-      "num": 88053,
-      "word": "男子摆拍女儿50元淘到名酒被行政处罚",
-      "onboard_time": 1768722379,
-      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -1449,6 +1489,14 @@
       "onboard_time": 1768695259,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 86645,
+      "num": 86645,
+      "word": "包头厂区爆炸消防仍在现场持续救援",
+      "onboard_time": 1768726042,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86551,
@@ -1537,6 +1585,14 @@
       "onboard_time": 1768715479,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82635,
+      "num": 82635,
+      "word": "Tabe不满意野辅的发挥",
+      "onboard_time": 1768724181,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 82400,
@@ -1675,14 +1731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 76981,
-      "num": 76981,
-      "word": "Tabe不满意野辅的发挥",
-      "onboard_time": 1768724181,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 76104,
       "num": 182157,
       "word": "奇瑞超35款车型将搭载全新AI产品",
@@ -1729,14 +1777,6 @@
       "onboard_time": 1768717700,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 73787,
-      "num": 97316,
-      "word": "我的朋友安德烈后劲太大了",
-      "onboard_time": 1768724781,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 73670,
@@ -2243,6 +2283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 22693,
+      "num": 184243,
+      "word": "央视曝光养生馆高价清淤术",
+      "onboard_time": 1768725861,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 22536,
       "num": 809227,
       "word": "冰雪热力中的中国经济新脉动",
@@ -2329,6 +2377,14 @@
       "onboard_time": 1768655001,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 9042,
+      "num": 171928,
+      "word": "北京11.2万人次上街扫雪铲冰",
+      "onboard_time": 1768725921,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8543,
