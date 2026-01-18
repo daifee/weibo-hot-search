@@ -1,0 +1,410 @@
+{
+  "runTime": 1768704232803,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 742067,
+        "num": 1118730,
+        "word": "北京鹅毛大雪",
+        "onboard_time": 1768699639,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362326,
+        "num": 813823,
+        "word": "大叔卖6元四寸蛋糕日收入几百元",
+        "onboard_time": 1768697599,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18558,
+        "num": 809227,
+        "word": "冰雪热力中的中国经济新脉动",
+        "onboard_time": 1768655001,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 804874,
+        "num": 804874,
+        "word": "买水果发现异常提醒店员后不放心",
+        "onboard_time": 1768701199,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 762915,
+        "num": 762915,
+        "word": "王安宇没参加春晚联排",
+        "onboard_time": 1768699519,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291582,
+        "num": 291582,
+        "word": "白鹿李昀锐田曦薇宋威龙 春晚合唱",
+        "onboard_time": 1768691655,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183484,
+        "num": 183484,
+        "word": "12306旅客误购限时免费退票",
+        "onboard_time": 1768698259,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229375,
+        "num": 182992,
+        "word": "喜人 春晚",
+        "onboard_time": 1768701140,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176437,
+        "num": 176437,
+        "word": "短剧之后漫剧火了",
+        "onboard_time": 1768702159,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 274651,
+        "num": 174684,
+        "word": "特朗普因格陵兰岛向欧洲8国加税",
+        "onboard_time": 1768691418,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 354373,
+        "num": 166493,
+        "word": "鞠婧祎犯困都有人仿妆模仿了",
+        "onboard_time": 1768694658,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276136,
+        "num": 160863,
+        "word": "王鹤棣给每个嘉宾都留了时间唱个人曲",
+        "onboard_time": 1768699279,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151148,
+        "num": 151148,
+        "word": "男子打顺风车为20多元过路费进急诊",
+        "onboard_time": 1768702700,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197961,
+        "num": 151068,
+        "word": "肖战粉丝的粘性",
+        "onboard_time": 1768703299,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188784,
+        "num": 150222,
+        "word": "王俊凯依旧手搓蛋糕",
+        "onboard_time": 1768691655,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140704,
+        "num": 140704,
+        "word": "涨20元月薪公司已连续37年涨薪",
+        "onboard_time": 1768663042,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169036,
+        "num": 136170,
+        "word": "陈星旭演技",
+        "onboard_time": 1768696518,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129949,
+        "num": 129949,
+        "word": "男孩凌晨5点起床写作业突然晕倒",
+        "onboard_time": 1768664660,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124105,
+        "num": 124105,
+        "word": "法院应避免公开处刑闹剧重演",
+        "onboard_time": 1768702339,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159762,
+        "num": 124040,
+        "word": "河南省考缴费 进不去",
+        "onboard_time": 1768698979,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 532307,
+        "num": 123947,
+        "word": "周杰伦发文庆祝结婚11周年",
+        "onboard_time": 1768699639,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163172,
+        "num": 123729,
+        "word": "汪海林曝保剑锋未接女友电话被捅伤",
+        "onboard_time": 1768662143,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161133,
+        "num": 123612,
+        "word": "4寸蛋糕价格普遍在50元以上",
+        "onboard_time": 1768703540,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157130,
+        "num": 123535,
+        "word": "棣欣引力",
+        "onboard_time": 1768654162,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149513,
+        "num": 123445,
+        "word": "周末在家煮碗苹果水",
+        "onboard_time": 1768702159,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146575,
+        "num": 123301,
+        "word": "澳洲留学是真实版疯狂动物城",
+        "onboard_time": 1768703480,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123193,
+        "num": 123193,
+        "word": "檀健次被小炭火逗笑了",
+        "onboard_time": 1768703720,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113029,
+        "num": 113029,
+        "word": "北京为何这次雪花这么大",
+        "onboard_time": 1768691895,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106545,
+        "num": 106545,
+        "word": "春晚节目",
+        "onboard_time": 1768692255,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105449,
+        "num": 105449,
+        "word": "韩国围棋界代表曹薰铉送别聂卫平",
+        "onboard_time": 1768702580,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120659,
+        "num": 105431,
+        "word": "肯尼亚在美国施压下涉华表态",
+        "onboard_time": 1768701259,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105343,
+        "num": 105343,
+        "word": "周深马年央视春晚首次联排",
+        "onboard_time": 1768702941,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100082,
+        "num": 100082,
+        "word": "雪中送别聂卫平",
+        "onboard_time": 1768697059,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98814,
+        "num": 98814,
+        "word": "周杰伦47岁了",
+        "onboard_time": 1768692255,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97545,
+        "num": 97545,
+        "word": "李微漪和格林",
+        "onboard_time": 1768702759,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95838,
+        "num": 95838,
+        "word": "全网最听劝妈妈1分钟视频报价3万",
+        "onboard_time": 1768700660,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93905,
+        "num": 93905,
+        "word": "60岁以上买卧铺优先分配下铺",
+        "onboard_time": 1768703480,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92045,
+        "num": 92045,
+        "word": "女生有点小肚子更健康",
+        "onboard_time": 1768698680,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88436,
+        "num": 88436,
+        "word": "程序员因上班睡觉吃外卖被开除",
+        "onboard_time": 1768703839,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85762,
+        "num": 85762,
+        "word": "8岁男孩车祸昏迷同学录视频唤醒",
+        "onboard_time": 1768702399,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83868,
+        "num": 83868,
+        "word": "久坐3小时心脏泵血就减少",
+        "onboard_time": 1768701379,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 77446,
+        "num": 77446,
+        "word": "央视披露解放军实战演练斩首行动",
+        "onboard_time": 1768703179,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 76562,
+        "num": 76562,
+        "word": "企业无偿为嫣然儿童医院提供场地",
+        "onboard_time": 1768694596,
+        "rank": 42,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 74039,
+        "num": 74039,
+        "word": "人生最顶级享受是什么样的",
+        "onboard_time": 1768695259,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 71200,
+        "num": 71200,
+        "word": "做到5件事冬天瘦得更快",
+        "onboard_time": 1768693156,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 70558,
+        "num": 70558,
+        "word": "门神李昊",
+        "onboard_time": 1768696578,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70216,
+        "num": 70216,
+        "word": "我的朋友安德烈",
+        "onboard_time": 1768691655,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 67483,
+        "num": 67483,
+        "word": "将电影幕布划烂了",
+        "onboard_time": 1768701799,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66672,
+        "num": 66672,
+        "word": "黄蜂vs勇士",
+        "onboard_time": 1768704079,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63405,
+        "num": 63405,
+        "word": "王者最有年味的皮肤",
+        "onboard_time": 1768703480,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记文章为建设现代化人民城市划重点#"
+    }
+  }
+}
