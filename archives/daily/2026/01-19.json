@@ -1,6 +1,6 @@
 {
   "startTime": 1768754034427,
-  "endTime": 1768778857305,
+  "endTime": 1768779702849,
   "band_list": [
     {
       "raw_hot": 795420,
@@ -19,6 +19,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 430701,
+      "num": 119492,
+      "word": "赵今麦整个北京最严厉的妈咪",
+      "onboard_time": 1768778178,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 336932,
       "num": 797815,
       "word": "轧戏",
@@ -27,15 +35,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 298896,
-      "num": 81818,
-      "word": "赵今麦整个北京最严厉的妈咪",
-      "onboard_time": 1768778178,
-      "rank": 10,
-      "category": "剧集"
+      "raw_hot": 333177,
+      "num": 274164,
+      "word": "德国军事人员突然秘密撤离格陵兰岛",
+      "onboard_time": 1768777997,
+      "rank": 5,
+      "category": "军事"
     },
     {
-      "raw_hot": 287772,
+      "raw_hot": 308847,
       "num": 314675,
       "word": "上海外滩女子占道直播跳舞引公愤",
       "onboard_time": 1768748422,
@@ -67,23 +75,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 274164,
-      "num": 274164,
-      "word": "德国军事人员突然秘密撤离格陵兰岛",
-      "onboard_time": 1768777997,
-      "rank": 5,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 227028,
-      "num": 780230,
+      "raw_hot": 264383,
+      "num": 890235,
       "word": "美国童星疑闯红灯被拖行致死",
       "onboard_time": 1768743504,
       "rank": 1,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 209494,
+      "raw_hot": 236531,
       "num": 311881,
       "word": "为什么袜子洗完总是会变硬",
       "onboard_time": 1768750941,
@@ -91,7 +91,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 199452,
+      "raw_hot": 211028,
       "num": 216412,
       "word": "罗永浩于谦拒领终身成就奖",
       "onboard_time": 1768737801,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176561,
+      "num": 634024,
+      "word": "樊振东3比2高茨",
+      "onboard_time": 1768779379,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169009,
       "num": 303254,
       "word": "6人就餐仅花19元老板要求带走垃圾",
@@ -129,6 +137,14 @@
       "onboard_time": 1768747883,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 164982,
+      "num": 216705,
+      "word": "禁止衣冠不整入内规定已存在多年",
+      "onboard_time": 1768742483,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159943,
@@ -163,14 +179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146149,
-      "num": 216705,
-      "word": "禁止衣冠不整入内规定已存在多年",
-      "onboard_time": 1768742483,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145508,
       "num": 218405,
       "word": "贾玲马龙许光汉同框",
@@ -179,11 +187,27 @@
       "category": "作品衍生,体育"
     },
     {
-      "raw_hot": 126163,
+      "raw_hot": 127793,
+      "num": 68789,
+      "word": "孙怡董子健相爱过的证据",
+      "onboard_time": 1768779139,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 126451,
       "num": 277102,
       "word": "26岁女子两月暴瘦30斤成糖尿病前期",
       "onboard_time": 1768740024,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126142,
+      "num": 68597,
+      "word": "嫣然医院周边居民发声",
+      "onboard_time": 1768779320,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -193,6 +217,22 @@
       "onboard_time": 1768732282,
       "rank": 12,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 120066,
+      "num": 217892,
+      "word": "俄罗斯一地暴雪堆出公寓楼高雪坡",
+      "onboard_time": 1768741221,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 118224,
+      "num": 118224,
+      "word": "非洲杯",
+      "onboard_time": 1768777877,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 114825,
@@ -227,14 +267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97074,
-      "num": 217892,
-      "word": "俄罗斯一地暴雪堆出公寓楼高雪坡",
-      "onboard_time": 1768741221,
-      "rank": 18,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 90772,
       "num": 216058,
       "word": "欢瑞世纪大跌",
@@ -243,12 +275,44 @@
       "category": "艺人,财经"
     },
     {
+      "raw_hot": 89351,
+      "num": 107691,
+      "word": "光伏行业为何大面积亏损",
+      "onboard_time": 1768778418,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 89348,
+      "num": 216140,
+      "word": "他用一世骂名护她一生周全",
+      "onboard_time": 1768751000,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89093,
       "num": 80574,
       "word": "国家级歌手称UP主让华语乐坛氛围更好",
       "onboard_time": 1768754598,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85428,
+      "num": 68307,
+      "word": "樊振东16比14高茨",
+      "onboard_time": 1768778779,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 85132,
+      "num": 85132,
+      "word": "银川地震",
+      "onboard_time": 1768777758,
+      "rank": 15,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 83910,
@@ -267,14 +331,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 82666,
-      "num": 82666,
-      "word": "非洲杯",
-      "onboard_time": 1768777877,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 81028,
       "num": 217841,
       "word": "朱雨玲4比2佐藤瞳",
@@ -283,11 +339,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79196,
-      "num": 216140,
-      "word": "他用一世骂名护她一生周全",
-      "onboard_time": 1768751000,
-      "rank": 32,
+      "raw_hot": 79348,
+      "num": 79348,
+      "word": "赵今麦眼眶都是湿润的",
+      "onboard_time": 1768778178,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -297,14 +353,6 @@
       "onboard_time": 1768751901,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78014,
-      "num": 78014,
-      "word": "银川地震",
-      "onboard_time": 1768777758,
-      "rank": 15,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 77759,
@@ -323,6 +371,22 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 74008,
+      "num": 74008,
+      "word": "欧洲被特朗普打脸了",
+      "onboard_time": 1768778598,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 72735,
+      "num": 72735,
+      "word": "贾玲G社生图",
+      "onboard_time": 1768779379,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 71826,
       "num": 71826,
       "word": "乒乓球欧冠联赛",
@@ -331,20 +395,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 67493,
-      "num": 67493,
-      "word": "赵今麦眼眶都是湿润的",
-      "onboard_time": 1768778178,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 67486,
       "num": 215924,
       "word": "郑州做好暴雪应对准备暂无停课计划",
       "onboard_time": 1768751480,
       "rank": 39,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 65512,
+      "num": 65512,
+      "word": "男女主沙发吻完办公桌吻",
+      "onboard_time": 1768738642,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 64804,
+      "num": 64804,
+      "word": "女子向出轨丈夫道歉新进展",
+      "onboard_time": 1768779439,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64531,
@@ -356,11 +428,43 @@
     },
     {
       "raw_hot": 64164,
-      "num": 57669,
+      "num": 62563,
       "word": "姜妍肖战一个在闹一个在笑",
       "onboard_time": 1768774635,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 64042,
+      "num": 64042,
+      "word": "西班牙高铁脱轨事故已致至少21死",
+      "onboard_time": 1768779559,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 62834,
+      "num": 62834,
+      "word": "樊振东vs西蒙高茨",
+      "onboard_time": 1768778899,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 62427,
+      "num": 62427,
+      "word": "迪丽热巴已进组九重天",
+      "onboard_time": 1768779499,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 62067,
+      "num": 62067,
+      "word": "萨尔布吕肯3比0亨尼邦",
+      "onboard_time": 1768778598,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 61089,
@@ -395,22 +499,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 57856,
-      "num": 57856,
-      "word": "光伏行业为何大面积亏损",
-      "onboard_time": 1768778418,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 57308,
-      "num": 57308,
-      "word": "樊振东16比14高茨",
-      "onboard_time": 1768778779,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 57215,
       "num": 215184,
       "word": "陈冠希撞脸毛利小五郎",
@@ -435,6 +523,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54571,
+      "num": 54571,
+      "word": "周启豪男单冠军",
+      "onboard_time": 1768778899,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 53616,
+      "num": 53616,
+      "word": "外国人涌入中国看病是好事吗",
+      "onboard_time": 1768778958,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51881,
       "num": 79369,
       "word": "赖导第一次拿到百大",
@@ -449,6 +553,14 @@
       "onboard_time": 1768753700,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 49411,
+      "num": 49411,
+      "word": "公共空间不是个人流量舞台",
+      "onboard_time": 1768778718,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49264,
@@ -499,14 +611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 45816,
-      "num": 45816,
-      "word": "欧洲被特朗普打脸了",
-      "onboard_time": 1768778598,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 45747,
       "num": 108859,
       "word": "今夕赫夕",
@@ -539,28 +643,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 42327,
-      "num": 42327,
-      "word": "萨尔布吕肯3比0亨尼邦",
-      "onboard_time": 1768778598,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 42312,
       "num": 214672,
       "word": "AL对战JDG",
       "onboard_time": 1768739662,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 42247,
-      "num": 42247,
-      "word": "公共空间不是个人流量舞台",
-      "onboard_time": 1768778718,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39548,
@@ -635,6 +723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 19028,
+      "num": 518476,
+      "word": "神21乘组太空Vlog上新",
+      "onboard_time": 1768740202,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18189,
       "num": 41828,
       "word": "小城大事",
@@ -657,14 +753,6 @@
       "onboard_time": 1768737743,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 16571,
-      "num": 440348,
-      "word": "神21乘组太空Vlog上新",
-      "onboard_time": 1768740202,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 16220,

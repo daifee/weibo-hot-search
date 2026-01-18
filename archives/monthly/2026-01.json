@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768778857305,
+  "endTime": 1768779702849,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -6435,6 +6435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 430701,
+      "num": 119492,
+      "word": "赵今麦整个北京最严厉的妈咪",
+      "onboard_time": 1768778178,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 430634,
       "num": 158738,
       "word": "白鹿宋威龙早期旧照",
@@ -6964,7 +6972,7 @@
     },
     {
       "raw_hot": 406201,
-      "num": 780230,
+      "num": 890235,
       "word": "美国童星疑闯红灯被拖行致死",
       "onboard_time": 1768743504,
       "rank": 39,
@@ -9067,6 +9075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 333177,
+      "num": 274164,
+      "word": "德国军事人员突然秘密撤离格陵兰岛",
+      "onboard_time": 1768777997,
+      "rank": 5,
+      "category": "军事"
+    },
+    {
       "raw_hot": 333149,
       "num": 333149,
       "word": "骄阳似我的庆功宴",
@@ -10483,14 +10499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 298896,
-      "num": 81818,
-      "word": "赵今麦整个北京最严厉的妈咪",
-      "onboard_time": 1768778178,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 298697,
       "num": 298697,
       "word": "高市手持安倍画像被批令人作呕",
@@ -11545,14 +11553,6 @@
       "onboard_time": 1768691418,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 274164,
-      "num": 274164,
-      "word": "德国军事人员突然秘密撤离格陵兰岛",
-      "onboard_time": 1768777997,
-      "rank": 5,
-      "category": "军事"
     },
     {
       "raw_hot": 273990,
@@ -13571,6 +13571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236531,
+      "num": 311881,
+      "word": "为什么袜子洗完总是会变硬",
+      "onboard_time": 1768721720,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 236260,
       "num": 249643,
       "word": "俄乌冲突",
@@ -15425,14 +15433,6 @@
       "onboard_time": 1768627280,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 209494,
-      "num": 311881,
-      "word": "为什么袜子洗完总是会变硬",
-      "onboard_time": 1768721720,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 209399,
@@ -19497,6 +19497,14 @@
       "onboard_time": 1767768441,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 176561,
+      "num": 634024,
+      "word": "樊振东3比2高茨",
+      "onboard_time": 1768779379,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 176551,
@@ -28331,6 +28339,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 127793,
+      "num": 68789,
+      "word": "孙怡董子健相爱过的证据",
+      "onboard_time": 1768779139,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127790,
       "num": 127790,
       "word": "娜扎安慰余茵不要被别人影响心态",
@@ -28849,6 +28865,14 @@
       "onboard_time": 1768281980,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 126142,
+      "num": 68597,
+      "word": "嫣然医院周边居民发声",
+      "onboard_time": 1768779320,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126090,
@@ -31081,6 +31105,14 @@
       "onboard_time": 1767490162,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118224,
+      "num": 118224,
+      "word": "非洲杯",
+      "onboard_time": 1768777877,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 118147,
@@ -42483,11 +42515,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 89351,
+      "num": 107691,
+      "word": "光伏行业为何大面积亏损",
+      "onboard_time": 1768778418,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 89349,
       "num": 89349,
       "word": "曹骏廖慧佳新剧病娇世子和阴湿宠妾",
       "onboard_time": 1768477223,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 89348,
+      "num": 216140,
+      "word": "他用一世骂名护她一生周全",
+      "onboard_time": 1768751000,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -44507,6 +44555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 85428,
+      "num": 68307,
+      "word": "樊振东16比14高茨",
+      "onboard_time": 1768778779,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85397,
       "num": 85397,
       "word": "平台回应女童舞蹈服宣传图像孕肚",
@@ -44673,6 +44729,14 @@
       "onboard_time": 1767451586,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 85132,
+      "num": 85132,
+      "word": "银川地震",
+      "onboard_time": 1768777758,
+      "rank": 15,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 85129,
@@ -45521,14 +45585,6 @@
       "onboard_time": 1767611001,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82666,
-      "num": 82666,
-      "word": "非洲杯",
-      "onboard_time": 1768777877,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 82657,
@@ -47011,6 +47067,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 79348,
+      "num": 79348,
+      "word": "赵今麦眼眶都是湿润的",
+      "onboard_time": 1768778178,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 79328,
       "num": 243435,
       "word": "港媒称樊振东效应引爆德国杯",
@@ -47057,14 +47121,6 @@
       "onboard_time": 1767855260,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79196,
-      "num": 216140,
-      "word": "他用一世骂名护她一生周全",
-      "onboard_time": 1768751000,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 79193,
@@ -47465,14 +47521,6 @@
       "onboard_time": 1767789744,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 78014,
-      "num": 78014,
-      "word": "银川地震",
-      "onboard_time": 1768777758,
-      "rank": 15,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 78007,
@@ -48787,6 +48835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74008,
+      "num": 74008,
+      "word": "欧洲被特朗普打脸了",
+      "onboard_time": 1768778598,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 73978,
       "num": 88726,
       "word": "BLG战胜AL",
@@ -49057,6 +49113,14 @@
       "onboard_time": 1768458200,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 72735,
+      "num": 72735,
+      "word": "贾玲G社生图",
+      "onboard_time": 1768779379,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 72716,
@@ -50435,14 +50499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67493,
-      "num": 67493,
-      "word": "赵今麦眼眶都是湿润的",
-      "onboard_time": 1768778178,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 67486,
       "num": 215924,
       "word": "郑州做好暴雪应对准备暂无停课计划",
@@ -51171,6 +51227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64804,
+      "num": 64804,
+      "word": "女子向出轨丈夫道歉新进展",
+      "onboard_time": 1768779439,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64707,
       "num": 116739,
       "word": "王楚钦今日状态正好",
@@ -51316,7 +51380,7 @@
     },
     {
       "raw_hot": 64164,
-      "num": 57669,
+      "num": 62563,
       "word": "姜妍肖战一个在闹一个在笑",
       "onboard_time": 1768774635,
       "rank": 44,
@@ -51361,6 +51425,14 @@
       "onboard_time": 1767978737,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 64042,
+      "num": 64042,
+      "word": "西班牙高铁脱轨事故已致至少21死",
+      "onboard_time": 1768779559,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 63986,
@@ -51651,6 +51723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 62834,
+      "num": 62834,
+      "word": "樊振东vs西蒙高茨",
+      "onboard_time": 1768778899,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62825,
       "num": 62825,
       "word": "格林 红腰带",
@@ -51755,6 +51835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62427,
+      "num": 62427,
+      "word": "迪丽热巴已进组九重天",
+      "onboard_time": 1768779499,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 62407,
       "num": 91363,
       "word": "小S不参加陈汉典lulu婚礼",
@@ -51808,6 +51896,14 @@
       "word": "林诗栋回复韩昊霖",
       "onboard_time": 1767309856,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 62067,
+      "num": 62067,
+      "word": "萨尔布吕肯3比0亨尼邦",
+      "onboard_time": 1768778598,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -52611,14 +52707,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 57856,
-      "num": 57856,
-      "word": "光伏行业为何大面积亏损",
-      "onboard_time": 1768778418,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
       "raw_hot": 57757,
       "num": 134440,
       "word": "委代总统宣誓将解救马杜罗",
@@ -52705,14 +52793,6 @@
       "onboard_time": 1768041681,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 57308,
-      "num": 57308,
-      "word": "樊振东16比14高茨",
-      "onboard_time": 1768778779,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 57283,
@@ -53203,6 +53283,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 54571,
+      "num": 54571,
+      "word": "周启豪男单冠军",
+      "onboard_time": 1768778899,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54502,
       "num": 107717,
       "word": "每天什么时间测体重最准",
@@ -53337,6 +53425,14 @@
       "onboard_time": 1768360940,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 53616,
+      "num": 53616,
+      "word": "外国人涌入中国看病是好事吗",
+      "onboard_time": 1768778958,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53594,
@@ -54035,6 +54131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 49411,
+      "num": 49411,
+      "word": "公共空间不是个人流量舞台",
+      "onboard_time": 1768778718,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49349,
       "num": 107491,
       "word": "警方正核查女婴在月子中心离世",
@@ -54691,14 +54795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45816,
-      "num": 45816,
-      "word": "欧洲被特朗普打脸了",
-      "onboard_time": 1768778598,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 45796,
       "num": 91103,
       "word": "电影马腾你别走",
@@ -55243,27 +55339,11 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 42327,
-      "num": 42327,
-      "word": "萨尔布吕肯3比0亨尼邦",
-      "onboard_time": 1768778598,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 42293,
       "num": 111320,
       "word": "你好呀2026年",
       "onboard_time": 1767223819,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42247,
-      "num": 42247,
-      "word": "公共空间不是个人流量舞台",
-      "onboard_time": 1768778718,
-      "rank": 43,
       "category": "民生新闻"
     },
     {
