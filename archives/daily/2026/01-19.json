@@ -1,6 +1,6 @@
 {
   "startTime": 1768754034427,
-  "endTime": 1768789365921,
+  "endTime": 1768790457875,
   "band_list": [
     {
       "raw_hot": 821842,
@@ -27,8 +27,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 723462,
+      "num": 841317,
+      "word": "2025年GDP增长5%",
+      "onboard_time": 1768789279,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 685878,
-      "num": 135578,
+      "num": 146647,
       "word": "金价",
       "onboard_time": 1768784841,
       "rank": 21,
@@ -43,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 640857,
+      "num": 640857,
+      "word": "B站百大UP主",
+      "onboard_time": 1768788680,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 589918,
       "num": 163310,
       "word": "罗永浩奖杯断成两半",
@@ -52,23 +68,31 @@
     },
     {
       "raw_hot": 515519,
-      "num": 135206,
+      "num": 145670,
       "word": "宋威龙在庆功宴上哭了",
       "onboard_time": 1768784419,
       "rank": 22,
       "category": "剧集"
     },
     {
-      "raw_hot": 437152,
-      "num": 841317,
-      "word": "2025年GDP增长5%",
-      "onboard_time": 1768789279,
-      "rank": 1,
-      "category": "国内时政"
+      "raw_hot": 501594,
+      "num": 146371,
+      "word": "迪丽热巴超短发造型路透",
+      "onboard_time": 1768788200,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 456745,
+      "num": 456745,
+      "word": "镖人预告片公布",
+      "onboard_time": 1768789579,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 430701,
-      "num": 152869,
+      "num": 190402,
       "word": "赵今麦整个北京最严厉的妈咪",
       "onboard_time": 1768778178,
       "rank": 10,
@@ -76,23 +100,15 @@
     },
     {
       "raw_hot": 394967,
-      "num": 135149,
+      "num": 136457,
       "word": "孙怡董子健相爱过的证据",
       "onboard_time": 1768779139,
       "rank": 30,
       "category": "艺人"
     },
     {
-      "raw_hot": 385502,
-      "num": 134423,
-      "word": "迪丽热巴超短发造型路透",
-      "onboard_time": 1768788200,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 345945,
-      "num": 200212,
+      "num": 321578,
       "word": "吃海鲜吃到痛风的猴子",
       "onboard_time": 1768784001,
       "rank": 5,
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 332783,
-      "num": 134251,
+      "num": 144178,
       "word": "梁小龙本想隐瞒死讯",
       "onboard_time": 1768785681,
       "rank": 26,
@@ -124,7 +140,7 @@
     },
     {
       "raw_hot": 325945,
-      "num": 134741,
+      "num": 142346,
       "word": "黄金",
       "onboard_time": 1768784541,
       "rank": 24,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 314531,
-      "num": 157921,
+      "num": 186237,
       "word": "嫣然医院周边居民发声",
       "onboard_time": 1768779320,
       "rank": 31,
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 299818,
-      "num": 199451,
+      "num": 251210,
       "word": "金价波动",
       "onboard_time": 1768786040,
       "rank": 6,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 266259,
-      "num": 151587,
+      "num": 181716,
       "word": "李国庆称给嫣然儿童医院捐100万",
       "onboard_time": 1768785500,
       "rank": 13,
@@ -203,24 +219,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 225749,
-      "num": 145138,
+      "raw_hot": 228900,
+      "num": 182843,
       "word": "天府红打人",
       "onboard_time": 1768784419,
       "rank": 14,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 217278,
-      "num": 217278,
-      "word": "B站百大UP主",
-      "onboard_time": 1768788680,
-      "rank": 3,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 213839,
-      "num": 133098,
+      "num": 142459,
       "word": "张碧晨 庆功宴",
       "onboard_time": 1768782141,
       "rank": 30,
@@ -243,11 +251,27 @@
       "category": "财经"
     },
     {
+      "raw_hot": 195439,
+      "num": 195439,
+      "word": "A股",
+      "onboard_time": 1768789579,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 194355,
-      "num": 132369,
+      "num": 142219,
       "word": "小范闲韩昊霖长这么大了",
       "onboard_time": 1768787480,
       "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 193447,
+      "num": 193447,
+      "word": "电影镖人定档春节",
+      "onboard_time": 1768789341,
+      "rank": 35,
       "category": "电影"
     },
     {
@@ -268,11 +292,19 @@
     },
     {
       "raw_hot": 182078,
-      "num": 141834,
+      "num": 166588,
       "word": "我的做法是很爱你但不在乎你",
       "onboard_time": 1768780459,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179215,
+      "num": 179215,
+      "word": "中国GDP跨越140万亿元关口",
+      "onboard_time": 1768790422,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 176561,
@@ -332,11 +364,19 @@
     },
     {
       "raw_hot": 155341,
-      "num": 132262,
+      "num": 142081,
       "word": "贾玲G社生图",
       "onboard_time": 1768779379,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 154037,
+      "num": 154037,
+      "word": "2025国民经济运行情况",
+      "onboard_time": 1768790422,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 153481,
@@ -363,6 +403,22 @@
       "category": "作品衍生,体育"
     },
     {
+      "raw_hot": 144903,
+      "num": 144903,
+      "word": "2025年GDP超140万亿元",
+      "onboard_time": 1768789758,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 141707,
+      "num": 141707,
+      "word": "嫣然儿童医院回应企业无偿提供场地",
+      "onboard_time": 1768789279,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136576,
       "num": 136576,
       "word": "34岁女星患子宫肌腺瘤切除子宫",
@@ -371,12 +427,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 131766,
-      "num": 131766,
-      "word": "电影镖人定档春节",
-      "onboard_time": 1768789341,
-      "rank": 35,
-      "category": "电影"
+      "raw_hot": 132632,
+      "num": 132632,
+      "word": "西安一烤鱼店开业有人排队11小时",
+      "onboard_time": 1768789821,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127721,
+      "num": 127721,
+      "word": "2025年中国经济成绩单",
+      "onboard_time": 1768789579,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 126451,
@@ -435,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110124,
+      "num": 110124,
+      "word": "金银大涨后铜条悄悄火了",
+      "onboard_time": 1768789579,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 108931,
       "num": 217146,
       "word": "婴儿淋雨哭到撕心裂肺谁能忍",
@@ -467,12 +539,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104312,
+      "num": 131339,
+      "word": "神20飞船返回东风着陆场",
+      "onboard_time": 1768789279,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 102253,
+      "num": 131708,
+      "word": "赵今麦张碧晨同框",
+      "onboard_time": 1768788980,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 93624,
+      "num": 132876,
+      "word": "警方通报鄱阳湖野生动物被投毒",
+      "onboard_time": 1768786940,
+      "rank": 31,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 93222,
       "num": 133589,
       "word": "女子宠物猫被外卖员偷走遭开水浇",
       "onboard_time": 1768782621,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93030,
+      "num": 93030,
+      "word": "A股行情",
+      "onboard_time": 1768790300,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 90772,
@@ -523,6 +627,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 84831,
+      "num": 84831,
+      "word": "江湖是英文无法翻译的词",
+      "onboard_time": 1768790119,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 83910,
       "num": 215600,
       "word": "茶颜悦色回应在北上深开店传闻",
@@ -537,22 +649,6 @@
       "onboard_time": 1768746683,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 82534,
-      "num": 132876,
-      "word": "警方通报鄱阳湖野生动物被投毒",
-      "onboard_time": 1768786940,
-      "rank": 31,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 81556,
-      "num": 131708,
-      "word": "赵今麦张碧晨同框",
-      "onboard_time": 1768788980,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 81028,
@@ -595,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76756,
+      "num": 131469,
+      "word": "姜妍肖战一个在闹一个在笑",
+      "onboard_time": 1768774635,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76339,
       "num": 131626,
       "word": "今天有暴雪黄色预警",
@@ -619,20 +723,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 73217,
-      "num": 131518,
-      "word": "嫣然儿童医院回应企业无偿提供场地",
-      "onboard_time": 1768789279,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73117,
-      "num": 131469,
-      "word": "姜妍肖战一个在闹一个在笑",
-      "onboard_time": 1768774635,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 72772,
+      "num": 131325,
+      "word": "樊振东打球把程靖淇震撼到语无伦次",
+      "onboard_time": 1768786880,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 71826,
@@ -640,22 +736,6 @@
       "word": "乒乓球欧冠联赛",
       "onboard_time": 1768777817,
       "rank": 18,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 71379,
-      "num": 131339,
-      "word": "神20飞船返回东风着陆场",
-      "onboard_time": 1768789279,
-      "rank": 40,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 67869,
-      "num": 131325,
-      "word": "樊振东打球把程靖淇震撼到语无伦次",
-      "onboard_time": 1768786880,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -980,7 +1060,7 @@
     },
     {
       "raw_hot": 30939,
-      "num": 658588,
+      "num": 670242,
       "word": "神21乘组太空Vlog上新",
       "onboard_time": 1768740202,
       "rank": 2,
@@ -1057,6 +1137,14 @@
       "onboard_time": 1768739903,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 15488,
+      "num": 95324,
+      "word": "卫星图揭露日本驱逐舰航母化改造",
+      "onboard_time": 1768789939,
+      "rank": 39,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [

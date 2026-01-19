@@ -1,0 +1,410 @@
+{
+  "runTime": 1768790457875,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 795189,
+        "num": 1127230,
+        "word": "镖人",
+        "onboard_time": 1768783280,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 723462,
+        "num": 796600,
+        "word": "2025年GDP增长5%",
+        "onboard_time": 1768789279,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19989,
+        "num": 670242,
+        "word": "神21乘组太空Vlog上新",
+        "onboard_time": 1768740202,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 640857,
+        "num": 640857,
+        "word": "B站百大UP主",
+        "onboard_time": 1768788680,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 456745,
+        "num": 456745,
+        "word": "镖人预告片公布",
+        "onboard_time": 1768789579,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 321578,
+        "num": 321578,
+        "word": "吃海鲜吃到痛风的猴子",
+        "onboard_time": 1768784001,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251210,
+        "num": 251210,
+        "word": "金价波动",
+        "onboard_time": 1768786040,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 195439,
+        "num": 195439,
+        "word": "A股",
+        "onboard_time": 1768789579,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 193447,
+        "num": 193447,
+        "word": "电影镖人定档春节",
+        "onboard_time": 1768789341,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192337,
+        "num": 192337,
+        "word": "GDP",
+        "onboard_time": 1768789279,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 298463,
+        "num": 190402,
+        "word": "赵今麦整个北京最严厉的妈咪",
+        "onboard_time": 1768778178,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296290,
+        "num": 186237,
+        "word": "嫣然医院周边居民发声",
+        "onboard_time": 1768779320,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228900,
+        "num": 182843,
+        "word": "天府红打人",
+        "onboard_time": 1768784419,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216403,
+        "num": 181716,
+        "word": "李国庆称给嫣然儿童医院捐100万",
+        "onboard_time": 1768785500,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179215,
+        "num": 179215,
+        "word": "中国GDP跨越140万亿元关口",
+        "onboard_time": 1768790422,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 169812,
+        "num": 169812,
+        "word": "上海外滩女子占道直播跳舞引公愤",
+        "onboard_time": 1768748422,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166588,
+        "num": 166588,
+        "word": "我的做法是很爱你但不在乎你",
+        "onboard_time": 1768780459,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161807,
+        "num": 161807,
+        "word": "董子健回复孙怡",
+        "onboard_time": 1768732703,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154037,
+        "num": 154037,
+        "word": "2025国民经济运行情况",
+        "onboard_time": 1768790422,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 148246,
+        "num": 148246,
+        "word": "为什么袜子洗完总是会变硬",
+        "onboard_time": 1768750941,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 583884,
+        "num": 146647,
+        "word": "金价",
+        "onboard_time": 1768784841,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 501594,
+        "num": 146371,
+        "word": "迪丽热巴超短发造型路透",
+        "onboard_time": 1768788200,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 494754,
+        "num": 145670,
+        "word": "宋威龙在庆功宴上哭了",
+        "onboard_time": 1768784419,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144903,
+        "num": 144903,
+        "word": "2025年GDP超140万亿元",
+        "onboard_time": 1768789758,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 303323,
+        "num": 144178,
+        "word": "梁小龙本想隐瞒死讯",
+        "onboard_time": 1768785681,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142768,
+        "num": 142768,
+        "word": "对内蒙古爆炸事故严肃追责",
+        "onboard_time": 1768786040,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170150,
+        "num": 142459,
+        "word": "张碧晨 庆功宴",
+        "onboard_time": 1768782141,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157308,
+        "num": 142346,
+        "word": "黄金",
+        "onboard_time": 1768784541,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154977,
+        "num": 142219,
+        "word": "小范闲韩昊霖长这么大了",
+        "onboard_time": 1768787480,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142081,
+        "num": 142081,
+        "word": "贾玲G社生图",
+        "onboard_time": 1768779379,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141707,
+        "num": 141707,
+        "word": "嫣然儿童医院回应企业无偿提供场地",
+        "onboard_time": 1768789279,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136457,
+        "num": 136457,
+        "word": "孙怡董子健相爱过的证据",
+        "onboard_time": 1768779139,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132632,
+        "num": 132632,
+        "word": "西安一烤鱼店开业有人排队11小时",
+        "onboard_time": 1768789821,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128253,
+        "num": 128253,
+        "word": "糖尿病前期发出的身体信号",
+        "onboard_time": 1768745783,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127721,
+        "num": 127721,
+        "word": "2025年中国经济成绩单",
+        "onboard_time": 1768789579,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112105,
+        "num": 112105,
+        "word": "34岁女星患子宫肌腺瘤切除子宫",
+        "onboard_time": 1768780819,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110124,
+        "num": 110124,
+        "word": "金银大涨后铜条悄悄火了",
+        "onboard_time": 1768789579,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 104312,
+        "num": 104312,
+        "word": "神20飞船返回东风着陆场",
+        "onboard_time": 1768789279,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102253,
+        "num": 102253,
+        "word": "赵今麦张碧晨同框",
+        "onboard_time": 1768788980,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15488,
+        "num": 95324,
+        "word": "卫星图揭露日本驱逐舰航母化改造",
+        "onboard_time": 1768789939,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94150,
+        "num": 94150,
+        "word": "九重天",
+        "onboard_time": 1768779860,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93624,
+        "num": 93624,
+        "word": "警方通报鄱阳湖野生动物被投毒",
+        "onboard_time": 1768786940,
+        "rank": 41,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 93030,
+        "num": 93030,
+        "word": "A股行情",
+        "onboard_time": 1768790300,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 89160,
+        "num": 89160,
+        "word": "神20飞船返回舱外观总体正常",
+        "onboard_time": 1768788259,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 87558,
+        "num": 87558,
+        "word": "禁止衣冠不整入内规定已存在多年",
+        "onboard_time": 1768742483,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86025,
+        "num": 86025,
+        "word": "迪丽热巴已进组九重天",
+        "onboard_time": 1768779499,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84831,
+        "num": 84831,
+        "word": "江湖是英文无法翻译的词",
+        "onboard_time": 1768790119,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82398,
+        "num": 82398,
+        "word": "女子宠物猫被外卖员偷走遭开水浇",
+        "onboard_time": 1768782621,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76756,
+        "num": 76756,
+        "word": "姜妍肖战一个在闹一个在笑",
+        "onboard_time": 1768774635,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72772,
+        "num": 72772,
+        "word": "樊振东打球把程靖淇震撼到语无伦次",
+        "onboard_time": 1768786880,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#这则寓言习近平多次讲起#"
+    }
+  }
+}
