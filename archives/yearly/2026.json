@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768831284236,
+  "endTime": 1768833416584,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 1755553,
-      "num": 252686,
+      "num": 432738,
       "word": "周杰伦昆凌 生理性喜欢",
       "onboard_time": 1768827081,
       "rank": 14,
@@ -884,7 +884,7 @@
     },
     {
       "raw_hot": 1118693,
-      "num": 251436,
+      "num": 404318,
       "word": "关晓彤第一次在红毯戴帽子",
       "onboard_time": 1768824201,
       "rank": 10,
@@ -1401,6 +1401,14 @@
       "onboard_time": 1768058062,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 934753,
+      "num": 420010,
+      "word": "杨紫换头像",
+      "onboard_time": 1768830563,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 932499,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767839961,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 727164,
-      "num": 859419,
-      "word": "疑似马杜罗被美抓获照曝光",
-      "onboard_time": 1767440726,
-      "rank": 12,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [

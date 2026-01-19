@@ -1,0 +1,410 @@
+{
+  "runTime": 1768833416584,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 418765,
+        "num": 1067002,
+        "word": "轧戏",
+        "onboard_time": 1768823061,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 417979,
+        "num": 790907,
+        "word": "人民日报评美国斩杀线",
+        "onboard_time": 1768816102,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 5969,
+        "num": 607239,
+        "word": "中国GDP跨越140万亿元关口",
+        "onboard_time": 1768790422,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 536786,
+        "num": 536786,
+        "word": "蔡徐坤印尼节目",
+        "onboard_time": 1768831943,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178689,
+        "num": 531402,
+        "word": "下雪",
+        "onboard_time": 1768824741,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270444,
+        "num": 514568,
+        "word": "陈光标喊话李亚鹏提供银行卡号",
+        "onboard_time": 1768824921,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176860,
+        "num": 500071,
+        "word": "神20舷窗裂纹维修细节披露",
+        "onboard_time": 1768830141,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164708,
+        "num": 492628,
+        "word": "火锅店用鱼缸养鲨鱼供人观赏",
+        "onboard_time": 1768817121,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148877,
+        "num": 474338,
+        "word": "嫣然儿医医护人员发声",
+        "onboard_time": 1768831641,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146336,
+        "num": 453649,
+        "word": "MTJJ回应",
+        "onboard_time": 1768833082,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 70522,
+        "num": 439792,
+        "word": "第一次见在手机上跳踢踏舞",
+        "onboard_time": 1768831523,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1162774,
+        "num": 432738,
+        "word": "周杰伦昆凌 生理性喜欢",
+        "onboard_time": 1768827081,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 934753,
+        "num": 420010,
+        "word": "杨紫换头像",
+        "onboard_time": 1768830563,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 411492,
+        "num": 411492,
+        "word": "成都警方通报16岁男子殴打5人",
+        "onboard_time": 1768830323,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 590016,
+        "num": 404318,
+        "word": "关晓彤第一次在红毯戴帽子",
+        "onboard_time": 1768824201,
+        "rank": 14,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 378969,
+        "num": 378969,
+        "word": "很爱吃但巨发胖的东西",
+        "onboard_time": 1768822582,
+        "rank": 15,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 366673,
+        "num": 366673,
+        "word": "官方通报学生用板凳砸同学后脑",
+        "onboard_time": 1768830262,
+        "rank": 16,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 294118,
+        "num": 294118,
+        "word": "李亚鹏前妻力挺嫣然医院",
+        "onboard_time": 1768821561,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244273,
+        "num": 244273,
+        "word": "21年前被何炅当街冷脸了",
+        "onboard_time": 1768828283,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64020,
+        "num": 239120,
+        "word": "用手机在珠海拍到了雪景大片",
+        "onboard_time": 1768831641,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 43228,
+        "num": 235218,
+        "word": "包钢板材厂爆炸致6死4失联",
+        "onboard_time": 1768833143,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288007,
+        "num": 235097,
+        "word": "包文婧回应女儿撞脸吴映洁",
+        "onboard_time": 1768829843,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234447,
+        "num": 234447,
+        "word": "糖霜苹果",
+        "onboard_time": 1768811902,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193962,
+        "num": 193962,
+        "word": "网传歌手2026首发已确定",
+        "onboard_time": 1768828342,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186033,
+        "num": 186033,
+        "word": "虞书欣拿小卡和粉丝换手机壳",
+        "onboard_time": 1768826481,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147008,
+        "num": 147008,
+        "word": "一个股民下班后接孩子的感受",
+        "onboard_time": 1768829002,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140847,
+        "num": 140847,
+        "word": "一哥否认杜克20万分手费",
+        "onboard_time": 1768828762,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 84185,
+        "num": 140093,
+        "word": "王楚钦的思归与坚守",
+        "onboard_time": 1768833203,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139906,
+        "num": 139906,
+        "word": "6岁男童在医院补牙时钻针脱落",
+        "onboard_time": 1768832782,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117911,
+        "num": 135595,
+        "word": "春节放假35天的公司利润一半给员工",
+        "onboard_time": 1768828461,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135173,
+        "num": 135173,
+        "word": "女子生吞鱼胆中毒全身发黄",
+        "onboard_time": 1768831523,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134836,
+        "num": 134836,
+        "word": "何与状态",
+        "onboard_time": 1768825941,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127195,
+        "num": 127195,
+        "word": "范丞丞 出庭的时候带上你的破平板",
+        "onboard_time": 1768817121,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116911,
+        "num": 126835,
+        "word": "财经大V金永荣被罚没8300万",
+        "onboard_time": 1768832604,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 126715,
+        "num": 126715,
+        "word": "平台辟谣白珊珊被盗号",
+        "onboard_time": 1768815021,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123943,
+        "num": 123943,
+        "word": "虞书欣blossom幕后记录",
+        "onboard_time": 1768829243,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110275,
+        "num": 110275,
+        "word": "云南地震",
+        "onboard_time": 1768822882,
+        "rank": 36,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 108423,
+        "num": 108423,
+        "word": "樊振东憋笑失败",
+        "onboard_time": 1768828402,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106697,
+        "num": 106697,
+        "word": "潮宏基吊坠一夜涨了1.9万",
+        "onboard_time": 1768814301,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 10571,
+        "num": 106587,
+        "word": "8岁男孩车祸昏迷被同学唤醒现状",
+        "onboard_time": 1768833263,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106509,
+        "num": 106509,
+        "word": "轧戏要开虐了",
+        "onboard_time": 1768830983,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100059,
+        "num": 100059,
+        "word": "江苏卫视春晚",
+        "onboard_time": 1768832904,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97999,
+        "num": 97999,
+        "word": "老板说员工的最后1个月应留给家人",
+        "onboard_time": 1768831463,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97922,
+        "num": 97922,
+        "word": "美国主播力挺牢A",
+        "onboard_time": 1768822101,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 96304,
+        "num": 96304,
+        "word": "多个国货品牌向嫣然儿童医院捐款",
+        "onboard_time": 1768832904,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95703,
+        "num": 95703,
+        "word": "等武汉下雪",
+        "onboard_time": 1768829782,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94000,
+        "num": 94000,
+        "word": "张凌赫张婧仪 兰蔻",
+        "onboard_time": 1768822942,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53446,
+        "num": 91147,
+        "word": "变成中国人挑战海外爆火",
+        "onboard_time": 1768831943,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90563,
+        "num": 90563,
+        "word": "iPhone18Pro宣传片曝光",
+        "onboard_time": 1768812261,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 83452,
+        "num": 83452,
+        "word": "赵今麦工作室编辑文案",
+        "onboard_time": 1768824982,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平曾多次提起这个寓言#"
+    }
+  }
+}
