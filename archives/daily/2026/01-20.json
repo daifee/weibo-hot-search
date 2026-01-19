@@ -1,6 +1,6 @@
 {
   "startTime": 1768840768064,
-  "endTime": 1768861806202,
+  "endTime": 1768862781877,
   "band_list": [
     {
       "raw_hot": 642136,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 352287,
-      "num": 446991,
+      "raw_hot": 372163,
+      "num": 532202,
       "word": "日本迎半世纪来首次零熊猫",
       "onboard_time": 1768839199,
       "rank": 7,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126630,
+      "num": 397701,
+      "word": "下雪",
+      "onboard_time": 1768824741,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123446,
       "num": 131232,
       "word": "糖霜苹果",
@@ -147,7 +155,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109031,
+      "raw_hot": 115770,
       "num": 129708,
       "word": "21年前被何炅当街冷脸了",
       "onboard_time": 1768828283,
@@ -179,15 +187,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 87075,
-      "num": 299610,
-      "word": "下雪",
-      "onboard_time": 1768824741,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85222,
+      "raw_hot": 87118,
       "num": 130972,
       "word": "包文婧回应女儿撞脸吴映洁",
       "onboard_time": 1768829843,
@@ -299,20 +299,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58478,
+      "num": 130574,
+      "word": "成都警方通报16岁男子殴打5人",
+      "onboard_time": 1768830323,
+      "rank": 36,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 58097,
       "num": 130493,
       "word": "向涵之小龙女",
       "onboard_time": 1768833442,
       "rank": 35,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 56830,
-      "num": 130574,
-      "word": "成都警方通报16岁男子殴打5人",
-      "onboard_time": 1768830323,
-      "rank": 36,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 56279,
@@ -379,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45799,
+      "num": 45799,
+      "word": "陈光标称可在两日转账资助嫣然医院",
+      "onboard_time": 1768847295,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44589,
       "num": 129910,
       "word": "谁来医院打针都不会冷静",
@@ -419,14 +427,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 33168,
-      "num": 40357,
-      "word": "陈光标称可在两日转账资助嫣然医院",
-      "onboard_time": 1768847295,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32443,
       "num": 40466,
       "word": "杭州全城等雪",
@@ -441,6 +441,14 @@
       "onboard_time": 1768823061,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27173,
+      "num": 30037,
+      "word": "江苏多市发布停课通知",
+      "onboard_time": 1768862054,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26285,
@@ -459,20 +467,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 18189,
+      "num": 40170,
+      "word": "你好星期六",
+      "onboard_time": 1768836801,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 18119,
+      "num": 29985,
+      "word": "拿板凳打人学生已被劝退",
+      "onboard_time": 1768854314,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17872,
       "num": 55981,
       "word": "用手机在珠海拍到了雪景大片",
       "onboard_time": 1768831641,
       "rank": 48,
       "category": "数码"
-    },
-    {
-      "raw_hot": 17229,
-      "num": 20450,
-      "word": "拿板凳打人学生已被劝退",
-      "onboard_time": 1768854314,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17117,
@@ -483,14 +499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 16536,
-      "num": 40170,
-      "word": "你好星期六",
-      "onboard_time": 1768836801,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 16530,
       "num": 40227,
       "word": "荣耀发布会",
@@ -499,28 +507,28 @@
       "category": "数码"
     },
     {
-      "raw_hot": 15873,
-      "num": 25194,
-      "word": "时尚32周年时尚之夜",
-      "onboard_time": 1768820783,
-      "rank": 45,
-      "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 15842,
-      "num": 20448,
+      "raw_hot": 16404,
+      "num": 29980,
       "word": "我的朋友安德烈",
       "onboard_time": 1768823122,
       "rank": 45,
       "category": "电影"
     },
     {
-      "raw_hot": 15432,
-      "num": 20449,
+      "raw_hot": 16264,
+      "num": 29975,
       "word": "江苏卫视春晚",
       "onboard_time": 1768832904,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 15897,
+      "num": 29968,
+      "word": "时尚32周年时尚之夜",
+      "onboard_time": 1768820783,
+      "rank": 45,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 13366,
@@ -531,8 +539,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 12334,
-      "num": 242949,
+      "raw_hot": 12878,
+      "num": 303353,
       "word": "卫星互联网低轨19组卫星发射成功",
       "onboard_time": 1768816702,
       "rank": 2,
