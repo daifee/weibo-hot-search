@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768855579549,
+  "endTime": 1768858158857,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -7515,6 +7515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14147,
+      "num": 18328,
+      "word": "拿板凳打人学生已被劝退",
+      "onboard_time": 1768854314,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12974,
       "num": 26260,
       "word": "英超联赛",
@@ -7545,14 +7553,6 @@
       "onboard_time": 1768655001,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 11511,
-      "num": 18328,
-      "word": "拿板凳打人学生已被劝退",
-      "onboard_time": 1768854314,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9904,

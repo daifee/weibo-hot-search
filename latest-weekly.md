@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/18 00:32:47 ~ 2026/01/20 04:46:19
+本榜单时间：2026/01/18 00:32:47 ~ 2026/01/20 05:29:18
 </p>
 </blockquote>
 <p>
@@ -5649,6 +5649,12 @@ U23亚洲杯（热度：14908）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%BF%E6%9D%BF%E5%87%B3%E6%89%93%E4%BA%BA%E5%AD%A6%E7%94%9F%E5%B7%B2%E8%A2%AB%E5%8A%9D%E9%80%80%23" target="weibo">
+拿板凳打人学生已被劝退（热度：14147）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%B6%85%E8%81%94%E8%B5%9B%23" target="weibo">
 英超联赛（热度：12974）
 </a>
@@ -5669,12 +5675,6 @@ CBA（热度：12387）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E5%8D%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 李宇春南京演唱会（热度：12187）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%BF%E6%9D%BF%E5%87%B3%E6%89%93%E4%BA%BA%E5%AD%A6%E7%94%9F%E5%B7%B2%E8%A2%AB%E5%8A%9D%E9%80%80%23" target="weibo">
-拿板凳打人学生已被劝退（热度：11511）
 </a>
 </li>
 

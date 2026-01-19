@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/20 00:39:28 ~ 2026/01/20 04:46:19
+本榜单时间：2026/01/20 00:39:28 ~ 2026/01/20 05:29:18
 </p>
 </blockquote>
 <p>
@@ -183,6 +183,12 @@ MTJJ回应（热度：79367）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2321%E5%B9%B4%E5%89%8D%E8%A2%AB%E4%BD%95%E7%82%85%E5%BD%93%E8%A1%97%E5%86%B7%E8%84%B8%E4%BA%86%23" target="weibo">
+21年前被何炅当街冷脸了（热度：69430）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AB%A3%E7%84%B6%E5%84%BF%E5%8C%BB%E5%8C%BB%E6%8A%A4%E4%BA%BA%E5%91%98%E5%8F%91%E5%A3%B0%23" target="weibo">
 嫣然儿医医护人员发声（热度：67163）
 </a>
@@ -315,12 +321,6 @@ MTJJ回应（热度：79367）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2321%E5%B9%B4%E5%89%8D%E8%A2%AB%E4%BD%95%E7%82%85%E5%BD%93%E8%A1%97%E5%86%B7%E8%84%B8%E4%BA%86%23" target="weibo">
-21年前被何炅当街冷脸了（热度：39816）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E9%87%91%E9%93%B6%E5%8F%88%E6%B6%A8%E4%BA%86%23" target="weibo">
 一觉醒来金银又涨了（热度：39134）
 </a>
@@ -399,6 +399,12 @@ MTJJ回应（热度：79367）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%BF%E6%9D%BF%E5%87%B3%E6%89%93%E4%BA%BA%E5%AD%A6%E7%94%9F%E5%B7%B2%E8%A2%AB%E5%8A%9D%E9%80%80%23" target="weibo">
+拿板凳打人学生已被劝退（热度：14147）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%83%85%E6%80%8E%E4%B9%88%E7%BF%BB%E8%AF%91%23" target="weibo">
 爱情怎么翻译（热度：13366）
 </a>
@@ -407,12 +413,6 @@ MTJJ回应（热度：79367）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9E%812026%E5%B9%B4%E7%9C%8B%E5%88%B0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%97%A5%E5%87%BA%23" target="weibo">
 张极2026年看到的第一个日出（热度：12265）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%BF%E6%9D%BF%E5%87%B3%E6%89%93%E4%BA%BA%E5%AD%A6%E7%94%9F%E5%B7%B2%E8%A2%AB%E5%8A%9D%E9%80%80%23" target="weibo">
-拿板凳打人学生已被劝退（热度：11511）
 </a>
 </li>
 
