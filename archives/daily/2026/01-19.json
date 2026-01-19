@@ -1,6 +1,6 @@
 {
   "startTime": 1768754034427,
-  "endTime": 1768833416584,
+  "endTime": 1768834506514,
   "band_list": [
     {
       "raw_hot": 1973872,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1755553,
-      "num": 432738,
+      "num": 595615,
       "word": "周杰伦昆凌 生理性喜欢",
       "onboard_time": 1768827081,
       "rank": 14,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1118693,
-      "num": 404318,
+      "num": 582009,
       "word": "关晓彤第一次在红毯戴帽子",
       "onboard_time": 1768824201,
       "rank": 10,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 934753,
-      "num": 420010,
+      "num": 590523,
       "word": "杨紫换头像",
       "onboard_time": 1768830563,
       "rank": 14,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 536786,
-      "num": 536786,
+      "num": 640371,
       "word": "蔡徐坤印尼节目",
       "onboard_time": 1768831943,
       "rank": 3,
@@ -323,6 +323,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 463088,
+      "num": 1074094,
+      "word": "轧戏",
+      "onboard_time": 1768736663,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 458063,
       "num": 209483,
       "word": "睡觉出现5种症状说明血糖高了",
@@ -379,16 +387,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 418765,
-      "num": 1067002,
-      "word": "轧戏",
-      "onboard_time": 1768736663,
-      "rank": 0,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 417276,
-      "num": 235097,
+      "num": 299180,
       "word": "包文婧回应女儿撞脸吴映洁",
       "onboard_time": 1768829843,
       "rank": 21,
@@ -419,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 399326,
+      "num": 399326,
+      "word": "官方通报学生用板凳砸同学后脑",
+      "onboard_time": 1768830262,
+      "rank": 17,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 394967,
       "num": 136457,
       "word": "孙怡董子健相爱过的证据",
@@ -441,14 +449,6 @@
       "onboard_time": 1768809621,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 366673,
-      "num": 366673,
-      "word": "官方通报学生用板凳砸同学后脑",
-      "onboard_time": 1768830262,
-      "rank": 17,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 366348,
@@ -939,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201282,
+      "num": 201282,
+      "word": "杨紫第一次换角色头像",
+      "onboard_time": 1768833561,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200922,
       "num": 200922,
       "word": "A股迎重要调整",
@@ -961,6 +969,14 @@
       "onboard_time": 1768821982,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197978,
+      "num": 636609,
+      "word": "神20舷窗裂纹维修细节披露",
+      "onboard_time": 1768830141,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 197126,
@@ -1011,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192287,
+      "num": 192287,
+      "word": "6岁男童在医院补牙时钻针脱落",
+      "onboard_time": 1768832782,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187147,
       "num": 187147,
       "word": "镖人友情演出惠英红",
@@ -1044,7 +1068,7 @@
     },
     {
       "raw_hot": 179215,
-      "num": 607239,
+      "num": 643032,
       "word": "中国GDP跨越140万亿元关口",
       "onboard_time": 1768790422,
       "rank": 14,
@@ -1059,12 +1083,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 176860,
-      "num": 500071,
-      "word": "神20舷窗裂纹维修细节披露",
-      "onboard_time": 1768830141,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 177385,
+      "num": 177385,
+      "word": "向涵之小龙女",
+      "onboard_time": 1768833442,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 176852,
@@ -1129,6 +1153,14 @@
       "onboard_time": 1768824201,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 169400,
+      "num": 627241,
+      "word": "嫣然儿医医护人员发声",
+      "onboard_time": 1768831641,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169009,
@@ -1259,6 +1291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 152241,
+      "num": 618107,
+      "word": "MTJJ回应",
+      "onboard_time": 1768833082,
+      "rank": 9,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 151186,
       "num": 151186,
       "word": "包钢",
@@ -1307,28 +1347,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 148877,
-      "num": 474338,
-      "word": "嫣然儿医医护人员发声",
-      "onboard_time": 1768831641,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148272,
       "num": 148272,
       "word": "苹果重新夺回中国手机市场第一",
       "onboard_time": 1768823181,
       "rank": 29,
       "category": "数码"
-    },
-    {
-      "raw_hot": 146336,
-      "num": 453649,
-      "word": "MTJJ回应",
-      "onboard_time": 1768833082,
-      "rank": 9,
-      "category": "动漫"
     },
     {
       "raw_hot": 145616,
@@ -1369,6 +1393,14 @@
       "onboard_time": 1768792580,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142917,
+      "num": 606592,
+      "word": "财经大V金永荣被罚没8300万",
+      "onboard_time": 1768832604,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 142884,
@@ -1417,14 +1449,6 @@
       "onboard_time": 1768797083,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139906,
-      "num": 139906,
-      "word": "6岁男童在医院补牙时钻针脱落",
-      "onboard_time": 1768832782,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 139637,
@@ -1592,6 +1616,14 @@
       "word": "济南下暴雨梨花针了",
       "onboard_time": 1768813580,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129509,
+      "num": 129509,
+      "word": "多个国货品牌向嫣然儿童医院捐款",
+      "onboard_time": 1768832904,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -1819,14 +1851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116911,
-      "num": 126835,
-      "word": "财经大V金永荣被罚没8300万",
-      "onboard_time": 1768832604,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 116523,
       "num": 636843,
       "word": "中央气象台三预警齐发",
@@ -1939,6 +1963,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 109696,
+      "num": 109696,
+      "word": "颐和园200多人连夜清理冰场",
+      "onboard_time": 1768834042,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109128,
       "num": 109128,
       "word": "明日方舟",
@@ -1969,6 +2001,14 @@
       "onboard_time": 1768824741,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108754,
+      "num": 108754,
+      "word": "猫的树太会拍了",
+      "onboard_time": 1768833921,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 108571,
@@ -2243,12 +2283,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96304,
-      "num": 96304,
-      "word": "多个国货品牌向嫣然儿童医院捐款",
-      "onboard_time": 1768832904,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 96274,
+      "num": 190753,
+      "word": "王楚钦的思归与坚守",
+      "onboard_time": 1768833203,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 95898,
@@ -2369,6 +2409,14 @@
       "onboard_time": 1768795460,
       "rank": 37,
       "category": "网红"
+    },
+    {
+      "raw_hot": 92140,
+      "num": 92140,
+      "word": "你是邵子恒那他是谁",
+      "onboard_time": 1768833745,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 92112,
@@ -2595,6 +2643,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 87208,
+      "num": 87208,
+      "word": "叶某斌偷渡至柬埔寨从事电诈被刑拘",
+      "onboard_time": 1768834222,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87200,
       "num": 181348,
       "word": "员工超长时间如厕被公司开除",
@@ -2625,6 +2681,22 @@
       "onboard_time": 1768807343,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 86544,
+      "num": 86544,
+      "word": "孩子为什么会得唇腭裂",
+      "onboard_time": 1768834462,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 86205,
+      "num": 86205,
+      "word": "侯明昊在湖南卫视hi6玩嗨了",
+      "onboard_time": 1768834402,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 86074,
@@ -2683,20 +2755,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 84628,
+      "num": 235218,
+      "word": "包钢板材厂爆炸致6死4失联",
+      "onboard_time": 1768833143,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84207,
       "num": 84207,
       "word": "钟情于热水的人天塌了",
       "onboard_time": 1768819041,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 84185,
-      "num": 140093,
-      "word": "王楚钦的思归与坚守",
-      "onboard_time": 1768833203,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 84043,
@@ -3028,7 +3100,7 @@
     },
     {
       "raw_hot": 70522,
-      "num": 439792,
+      "num": 585482,
       "word": "第一次见在手机上跳踢踏舞",
       "onboard_time": 1768831523,
       "rank": 10,
@@ -3148,7 +3220,7 @@
     },
     {
       "raw_hot": 64020,
-      "num": 239120,
+      "num": 303942,
       "word": "用手机在珠海拍到了雪景大片",
       "onboard_time": 1768831641,
       "rank": 19,
@@ -3467,14 +3539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 43228,
-      "num": 235218,
-      "word": "包钢板材厂爆炸致6死4失联",
-      "onboard_time": 1768833143,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43200,
       "num": 182550,
       "word": "一代人有一代人的新年礼",
@@ -3625,6 +3689,14 @@
       "onboard_time": 1768816702,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27418,
+      "num": 301391,
+      "word": "美国近7成流浪汉曾是中产",
+      "onboard_time": 1768833803,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 26589,
@@ -3779,20 +3851,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 15934,
+      "num": 106587,
+      "word": "8岁男孩车祸昏迷被同学唤醒现状",
+      "onboard_time": 1768833263,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15488,
       "num": 95324,
       "word": "卫星图揭露日本驱逐舰航母化改造",
       "onboard_time": 1768789939,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 10571,
-      "num": 106587,
-      "word": "8岁男孩车祸昏迷被同学唤醒现状",
-      "onboard_time": 1768833263,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9378,

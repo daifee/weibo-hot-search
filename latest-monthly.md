@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/19 22:36:56
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/19 22:55:06
 </p>
 </blockquote>
 <p>
@@ -5673,6 +5673,12 @@ ALin哭着说对不起（热度：400438）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E7%94%A8%E6%9D%BF%E5%87%B3%E7%A0%B8%E5%90%8C%E5%AD%A6%E5%90%8E%E8%84%91%23" target="weibo">
+官方通报学生用板凳砸同学后脑（热度：399326）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%87%BA%E8%BD%A8%E4%B8%88%E5%A4%AB%E9%81%93%E6%AD%89%E5%A5%B3%E5%AD%90%E5%B0%86%E6%8F%90%E7%A6%BB%E5%A9%9A%E8%AF%89%E8%AE%BC%23" target="weibo">
 向出轨丈夫道歉女子将提离婚诉讼（热度：398264）
 </a>
@@ -6005,12 +6011,6 @@ loveissoap说童锦程配不上她（热度：394705）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E6%97%AD%20%E6%88%91%E6%98%AF%E9%85%8D%E8%A7%92%E6%80%8E%E6%95%A2%E5%90%83%E9%86%8B%23" target="weibo">
 代旭 我是配角怎敢吃醋（热度：381451）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E7%88%B6%E6%AF%8D%E8%81%8C%E4%B8%9A%E5%90%83%E5%88%B0%E7%9A%84%E7%BA%A2%E5%88%A9%23" target="weibo">
-因为父母职业吃到的红利（热度：381335）
 </a>
 </li>
 
