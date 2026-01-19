@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768851649245,
+  "endTime": 1768854817877,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -63971,12 +63971,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10124,
+      "num": 17754,
+      "word": "拿板凳打人学生已被劝退",
+      "onboard_time": 1768854314,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9932,
       "num": 122363,
       "word": "骄阳似我教我谈恋爱",
       "onboard_time": 1767763461,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 9904,
+      "num": 17753,
+      "word": "云南巧家县5.1级地震",
+      "onboard_time": 1768823541,
+      "rank": 49,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 9588,

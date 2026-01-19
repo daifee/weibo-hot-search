@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/18 00:32:47 ~ 2026/01/20 03:40:49
+本榜单时间：2026/01/18 00:32:47 ~ 2026/01/20 04:33:37
 </p>
 </blockquote>
 <p>
@@ -5669,6 +5669,18 @@ CBA（热度：12387）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E5%8D%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 李宇春南京演唱会（热度：12187）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%BF%E6%9D%BF%E5%87%B3%E6%89%93%E4%BA%BA%E5%AD%A6%E7%94%9F%E5%B7%B2%E8%A2%AB%E5%8A%9D%E9%80%80%23" target="weibo">
+拿板凳打人学生已被劝退（热度：10124）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E5%B7%A7%E5%AE%B6%E5%8E%BF5.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
+云南巧家县5.1级地震（热度：9904）
 </a>
 </li>
 

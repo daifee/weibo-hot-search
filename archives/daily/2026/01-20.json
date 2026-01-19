@@ -1,6 +1,6 @@
 {
   "startTime": 1768840768064,
-  "endTime": 1768851649245,
+  "endTime": 1768854817877,
   "band_list": [
     {
       "raw_hot": 642136,
@@ -483,6 +483,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 15842,
+      "num": 18821,
+      "word": "我的朋友安德烈",
+      "onboard_time": 1768823122,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 15822,
       "num": 40170,
       "word": "你好星期六",
@@ -515,20 +523,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 12542,
-      "num": 18821,
-      "word": "我的朋友安德烈",
-      "onboard_time": 1768823122,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 12265,
       "num": 18820,
       "word": "张极2026年看到的第一个日出",
       "onboard_time": 1768835182,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10124,
+      "num": 17754,
+      "word": "拿板凳打人学生已被劝退",
+      "onboard_time": 1768854314,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9904,
+      "num": 17753,
+      "word": "云南巧家县5.1级地震",
+      "onboard_time": 1768823541,
+      "rank": 49,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 7912,
