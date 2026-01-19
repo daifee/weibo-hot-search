@@ -1,6 +1,6 @@
 {
   "startTime": 1768754034427,
-  "endTime": 1768802118399,
+  "endTime": 1768805458807,
   "band_list": [
     {
       "raw_hot": 1973872,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 640857,
-      "num": 768912,
+      "num": 778260,
       "word": "B站百大UP主",
       "onboard_time": 1768788680,
       "rank": 3,
@@ -99,12 +99,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 620587,
+      "num": 166595,
+      "word": "沈逸 牢A",
+      "onboard_time": 1768802842,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 589918,
       "num": 163310,
       "word": "罗永浩奖杯断成两半",
       "onboard_time": 1768786279,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 580006,
+      "num": 198296,
+      "word": "牢A",
+      "onboard_time": 1768798763,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 561269,
@@ -179,14 +195,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 443259,
-      "num": 198296,
-      "word": "牢A",
-      "onboard_time": 1768798763,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 430701,
       "num": 190402,
       "word": "赵今麦整个北京最严厉的妈咪",
@@ -219,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356848,
+      "num": 167759,
+      "word": "劣迹艺人打信息差到县域商演捞金",
+      "onboard_time": 1768800922,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345945,
       "num": 321578,
       "word": "吃海鲜吃到痛风的猴子",
@@ -248,14 +264,6 @@
       "word": "梁小龙本想隐瞒死讯",
       "onboard_time": 1768785681,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 330280,
-      "num": 167759,
-      "word": "劣迹艺人打信息差到县域商演捞金",
-      "onboard_time": 1768800922,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -297,6 +305,14 @@
       "onboard_time": 1768792700,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 287201,
+      "num": 287201,
+      "word": "美国男子收集雨水被判处30天监禁",
+      "onboard_time": 1768800502,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 284417,
@@ -387,12 +403,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227216,
+      "num": 162352,
+      "word": "8岁哥哥带4个月大弟弟坐地铁",
+      "onboard_time": 1768801824,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218504,
       "num": 218504,
       "word": "骂人也违法了最高可判三年",
       "onboard_time": 1768798825,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217043,
+      "num": 106822,
+      "word": "跑男的尽头是春晚正式编",
+      "onboard_time": 1768803861,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 215741,
@@ -491,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188309,
+      "num": 106817,
+      "word": "奚梦瑶晒当妈后的幸福变化",
+      "onboard_time": 1768804881,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187147,
       "num": 187147,
       "word": "镖人友情演出惠英红",
@@ -523,6 +563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180219,
+      "num": 180219,
+      "word": "苏醒告别快乐老友记",
+      "onboard_time": 1768802543,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179215,
       "num": 179215,
       "word": "中国GDP跨越140万亿元关口",
@@ -545,6 +593,14 @@
       "onboard_time": 1768779379,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172738,
+      "num": 172738,
+      "word": "我最喜欢的全场景布局出现了",
+      "onboard_time": 1768805361,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 169989,
@@ -595,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160866,
+      "num": 160866,
+      "word": "只有有洁癖的人才懂维嘉的含金量",
+      "onboard_time": 1768801282,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159943,
       "num": 217312,
       "word": "糖尿病前期发出的身体信号",
@@ -633,22 +697,6 @@
       "onboard_time": 1768743863,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 150506,
-      "num": 146410,
-      "word": "只有有洁癖的人才懂维嘉的含金量",
-      "onboard_time": 1768801282,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 150091,
-      "num": 159142,
-      "word": "美国男子收集雨水被判处30天监禁",
-      "onboard_time": 1768800502,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 149891,
@@ -803,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130561,
+      "num": 100717,
+      "word": "镖人领衔主演孙艺洲",
+      "onboard_time": 1768802122,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 130399,
       "num": 130399,
       "word": "让韩雪穿古装的是天才",
@@ -817,6 +873,14 @@
       "onboard_time": 1768791740,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 127762,
+      "num": 127762,
+      "word": "玉茗茶骨",
+      "onboard_time": 1768804102,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 127721,
@@ -963,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110534,
+      "num": 97727,
+      "word": "吃了30年猪肉第一次认识猪肉",
+      "onboard_time": 1768804102,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110142,
       "num": 110142,
       "word": "黄晓明生理性演技",
@@ -993,6 +1065,22 @@
       "onboard_time": 1768788259,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 106937,
+      "num": 106780,
+      "word": "我1米9让我来",
+      "onboard_time": 1768804040,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 106855,
+      "num": 106855,
+      "word": "董思成镖人造型",
+      "onboard_time": 1768802543,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 106329,
@@ -1059,14 +1147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100615,
-      "num": 100615,
-      "word": "8岁哥哥带4个月大弟弟坐地铁",
-      "onboard_time": 1768801824,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93624,
       "num": 132876,
       "word": "警方通报鄱阳湖野生动物被投毒",
@@ -1099,6 +1179,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 91936,
+      "num": 91936,
+      "word": "牢A回应",
+      "onboard_time": 1768803681,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91805,
       "num": 117638,
       "word": "金饰价格涨到1451元",
@@ -1115,12 +1203,28 @@
       "category": "艺人,财经"
     },
     {
+      "raw_hot": 90737,
+      "num": 106406,
+      "word": "霍启刚化身迷弟给郭晶晶拍视频",
+      "onboard_time": 1768805122,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90101,
       "num": 90101,
       "word": "被维嘉培训成了一名出色的保洁",
       "onboard_time": 1768798704,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89393,
+      "num": 102425,
+      "word": "美国同事直接把甜食放桌子上",
+      "onboard_time": 1768803561,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 89351,
@@ -1163,6 +1267,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87635,
+      "num": 87635,
+      "word": "深圳的烧烤已经进化成这样了吗",
+      "onboard_time": 1768803322,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 87200,
+      "num": 181348,
+      "word": "员工超长时间如厕被公司开除",
+      "onboard_time": 1768800261,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85828,
       "num": 177516,
       "word": "海南免税金镯省1.3万",
@@ -1203,12 +1323,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 83587,
+      "num": 83587,
+      "word": "成都一男子殴打5人被立案调查",
+      "onboard_time": 1768805300,
+      "rank": 42,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 83469,
       "num": 216271,
       "word": "二十多岁其实真的很年轻",
       "onboard_time": 1768746683,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 81669,
+      "num": 81669,
+      "word": "神20成功着陆",
+      "onboard_time": 1768804461,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 81549,
+      "num": 81549,
+      "word": "学校已经发展成这样了吗",
+      "onboard_time": 1768805423,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 81028,
@@ -1259,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76478,
+      "num": 76478,
+      "word": "陈丽君骑马射箭太帅了",
+      "onboard_time": 1768805423,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 76342,
       "num": 153928,
       "word": "小米新SU7刷新24小时耐力挑战纪录",
@@ -1283,12 +1435,28 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 75942,
+      "num": 75942,
+      "word": "疯狂动物城2",
+      "onboard_time": 1768803322,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 74008,
       "num": 74008,
       "word": "欧洲被特朗普打脸了",
       "onboard_time": 1768778598,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 73357,
+      "num": 83776,
+      "word": "杨紫GLASS2026开年刊封面预告",
+      "onboard_time": 1768804040,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 72772,
@@ -1321,6 +1489,14 @@
       "onboard_time": 1768799062,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 65576,
+      "num": 81485,
+      "word": "国务院安委会对包钢事故查处挂牌督办",
+      "onboard_time": 1768803921,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65512,
@@ -1651,14 +1827,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 36550,
-      "num": 181348,
-      "word": "员工超长时间如厕被公司开除",
-      "onboard_time": 1768800261,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36289,
       "num": 179925,
       "word": "小伙为克服自卑在地铁上演讲",
@@ -1737,6 +1905,14 @@
       "onboard_time": 1768757236,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 29107,
+      "num": 83842,
+      "word": "美国想拉60国建新群只来了1人",
+      "onboard_time": 1768804461,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 26560,

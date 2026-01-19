@@ -1,0 +1,410 @@
+{
+  "runTime": 1768805458807,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 331147,
+        "num": 1052983,
+        "word": "生命树",
+        "onboard_time": 1768796122,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263616,
+        "num": 778260,
+        "word": "B站百大UP主",
+        "onboard_time": 1768788680,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 82200,
+        "num": 604963,
+        "word": "中央气象台三预警齐发",
+        "onboard_time": 1768797623,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410442,
+        "num": 410442,
+        "word": "男子右脑出血被医生错开左脑",
+        "onboard_time": 1768797201,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287201,
+        "num": 287201,
+        "word": "美国男子收集雨水被判处30天监禁",
+        "onboard_time": 1768800502,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 180219,
+        "num": 180219,
+        "word": "苏醒告别快乐老友记",
+        "onboard_time": 1768802543,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172738,
+        "num": 172738,
+        "word": "我最喜欢的全场景布局出现了",
+        "onboard_time": 1768805361,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171728,
+        "num": 171728,
+        "word": "安徽下霰了",
+        "onboard_time": 1768792580,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148162,
+        "num": 170797,
+        "word": "骂人也违法了最高可判三年",
+        "onboard_time": 1768798825,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131169,
+        "num": 167528,
+        "word": "3部电影定档2026春节档",
+        "onboard_time": 1768793840,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 620587,
+        "num": 166595,
+        "word": "沈逸 牢A",
+        "onboard_time": 1768802842,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401263,
+        "num": 164314,
+        "word": "胡歌有女儿后彭于晏终于急了",
+        "onboard_time": 1768797862,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 227216,
+        "num": 162352,
+        "word": "8岁哥哥带4个月大弟弟坐地铁",
+        "onboard_time": 1768801824,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160866,
+        "num": 160866,
+        "word": "只有有洁癖的人才懂维嘉的含金量",
+        "onboard_time": 1768801282,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580006,
+        "num": 156291,
+        "word": "牢A",
+        "onboard_time": 1768798763,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139019,
+        "num": 139019,
+        "word": "原来小学成绩差的学生是这样的",
+        "onboard_time": 1768794441,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129480,
+        "num": 129480,
+        "word": "64岁没老公不带孙子的真实生活",
+        "onboard_time": 1768795822,
+        "rank": 16,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 127762,
+        "num": 127762,
+        "word": "玉茗茶骨",
+        "onboard_time": 1768804102,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115089,
+        "num": 115089,
+        "word": "终于有人吐槽现在的婚礼流程了",
+        "onboard_time": 1768795282,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106855,
+        "num": 106855,
+        "word": "董思成镖人造型",
+        "onboard_time": 1768802543,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 356848,
+        "num": 106847,
+        "word": "劣迹艺人打信息差到县域商演捞金",
+        "onboard_time": 1768800922,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191204,
+        "num": 106841,
+        "word": "睡觉出现5种症状说明血糖高了",
+        "onboard_time": 1768792460,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 217043,
+        "num": 106822,
+        "word": "跑男的尽头是春晚正式编",
+        "onboard_time": 1768803861,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188309,
+        "num": 106817,
+        "word": "奚梦瑶晒当妈后的幸福变化",
+        "onboard_time": 1768804881,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152955,
+        "num": 106804,
+        "word": "人一定要有个小号",
+        "onboard_time": 1768798402,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125316,
+        "num": 106795,
+        "word": "钟楚曦 我喜欢马丁",
+        "onboard_time": 1768799002,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106937,
+        "num": 106780,
+        "word": "我1米9让我来",
+        "onboard_time": 1768804040,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106775,
+        "num": 106775,
+        "word": "老人玩手机孩子脱手坠地仍不撒手",
+        "onboard_time": 1768798402,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90737,
+        "num": 106406,
+        "word": "霍启刚化身迷弟给郭晶晶拍视频",
+        "onboard_time": 1768805122,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89393,
+        "num": 102425,
+        "word": "美国同事直接把甜食放桌子上",
+        "onboard_time": 1768803561,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130561,
+        "num": 100717,
+        "word": "镖人领衔主演孙艺洲",
+        "onboard_time": 1768802122,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119646,
+        "num": 98848,
+        "word": "镖人",
+        "onboard_time": 1768783280,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110534,
+        "num": 97727,
+        "word": "吃了30年猪肉第一次认识猪肉",
+        "onboard_time": 1768804102,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95647,
+        "num": 95647,
+        "word": "成毅已成立独资工作室",
+        "onboard_time": 1768801522,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93525,
+        "num": 93525,
+        "word": "孙怡董子健相爱过的证据",
+        "onboard_time": 1768779139,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91936,
+        "num": 91936,
+        "word": "牢A回应",
+        "onboard_time": 1768803681,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87635,
+        "num": 87635,
+        "word": "深圳的烧烤已经进化成这样了吗",
+        "onboard_time": 1768803322,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 87200,
+        "num": 87200,
+        "word": "员工超长时间如厕被公司开除",
+        "onboard_time": 1768800261,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84414,
+        "num": 84414,
+        "word": "镖人预告片公布",
+        "onboard_time": 1768789579,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29107,
+        "num": 83842,
+        "word": "美国想拉60国建新群只来了1人",
+        "onboard_time": 1768804461,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 73357,
+        "num": 83776,
+        "word": "杨紫GLASS2026开年刊封面预告",
+        "onboard_time": 1768804040,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 83737,
+        "num": 83737,
+        "word": "电影镖人定档春节",
+        "onboard_time": 1768789341,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 83587,
+        "num": 83587,
+        "word": "成都一男子殴打5人被立案调查",
+        "onboard_time": 1768805300,
+        "rank": 42,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 81669,
+        "num": 81669,
+        "word": "神20成功着陆",
+        "onboard_time": 1768804461,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 81549,
+        "num": 81549,
+        "word": "学校已经发展成这样了吗",
+        "onboard_time": 1768805423,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65576,
+        "num": 81485,
+        "word": "国务院安委会对包钢事故查处挂牌督办",
+        "onboard_time": 1768803921,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81437,
+        "num": 81437,
+        "word": "梁小龙本想隐瞒死讯",
+        "onboard_time": 1768785681,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80346,
+        "num": 80346,
+        "word": "美国掀起争当中国人热潮",
+        "onboard_time": 1768800562,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76478,
+        "num": 76478,
+        "word": "陈丽君骑马射箭太帅了",
+        "onboard_time": 1768805423,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 75942,
+        "num": 75942,
+        "word": "疯狂动物城2",
+        "onboard_time": 1768803322,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#这则寓言习近平多次讲起#"
+    }
+  }
+}

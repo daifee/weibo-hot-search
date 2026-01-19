@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768802118399,
+  "endTime": 1768805458807,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -2908,7 +2908,7 @@
     },
     {
       "raw_hot": 640857,
-      "num": 768912,
+      "num": 778260,
       "word": "B站百大UP主",
       "onboard_time": 1768788680,
       "rank": 3,
@@ -3145,6 +3145,14 @@
       "onboard_time": 1768694538,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 620587,
+      "num": 166595,
+      "word": "沈逸 牢A",
+      "onboard_time": 1768802842,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 619036,
@@ -3601,6 +3609,14 @@
       "onboard_time": 1768128140,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 580006,
+      "num": 198296,
+      "word": "牢A",
+      "onboard_time": 1768798763,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 579903,
@@ -6331,14 +6347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 443259,
-      "num": 198296,
-      "word": "牢A",
-      "onboard_time": 1768798763,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 442994,
       "num": 264132,
       "word": "赵丽颖 纪梵希",
@@ -8523,6 +8531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 356848,
+      "num": 167759,
+      "word": "劣迹艺人打信息差到县域商演捞金",
+      "onboard_time": 1768800922,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356795,
       "num": 321721,
       "word": "老一辈迎来了最严厉的老师",
@@ -9369,14 +9385,6 @@
       "onboard_time": 1767863480,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 330280,
-      "num": 167759,
-      "word": "劣迹艺人打信息差到县域商演捞金",
-      "onboard_time": 1768800922,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 330209,
@@ -11169,6 +11177,14 @@
       "onboard_time": 1767857959,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 287201,
+      "num": 287201,
+      "word": "美国男子收集雨水被判处30天监禁",
+      "onboard_time": 1768800502,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 286976,
@@ -14363,6 +14379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 227216,
+      "num": 162352,
+      "word": "8岁哥哥带4个月大弟弟坐地铁",
+      "onboard_time": 1768801824,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227001,
       "num": 203236,
       "word": "代旭 开始考古了意味着什么",
@@ -15145,6 +15169,14 @@
       "onboard_time": 1767794065,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 217043,
+      "num": 106822,
+      "word": "跑男的尽头是春晚正式编",
+      "onboard_time": 1768803861,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 216960,
@@ -18315,6 +18347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188309,
+      "num": 106817,
+      "word": "奚梦瑶晒当妈后的幸福变化",
+      "onboard_time": 1768804881,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188215,
       "num": 188215,
       "word": "流落柬埔寨街头女子已出院准备回国",
@@ -19435,6 +19475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 180219,
+      "num": 180219,
+      "word": "苏醒告别快乐老友记",
+      "onboard_time": 1768802543,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180190,
       "num": 154171,
       "word": "委内瑞拉首都现状",
@@ -20321,6 +20369,14 @@
       "onboard_time": 1767584963,
       "rank": 32,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 172738,
+      "num": 172738,
+      "word": "我最喜欢的全场景布局出现了",
+      "onboard_time": 1768805361,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 172656,
@@ -22059,6 +22115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 160866,
+      "num": 160866,
+      "word": "只有有洁癖的人才懂维嘉的含金量",
+      "onboard_time": 1768801282,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160823,
       "num": 743534,
       "word": "内娱女歌手大型吃醋名场面",
@@ -23723,14 +23787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150506,
-      "num": 146410,
-      "word": "只有有洁癖的人才懂维嘉的含金量",
-      "onboard_time": 1768801282,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 150358,
       "num": 150358,
       "word": "陈都灵回应获奖感言出圈",
@@ -23761,14 +23817,6 @@
       "onboard_time": 1767344180,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 150091,
-      "num": 159142,
-      "word": "美国男子收集雨水被判处30天监禁",
-      "onboard_time": 1768800502,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 150082,
@@ -28185,6 +28233,14 @@
       "onboard_time": 1767421285,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 130561,
+      "num": 100717,
+      "word": "镖人领衔主演孙艺洲",
+      "onboard_time": 1768802122,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 130505,
@@ -34219,6 +34275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110534,
+      "num": 97727,
+      "word": "吃了30年猪肉第一次认识猪肉",
+      "onboard_time": 1768804102,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110524,
       "num": 110524,
       "word": "WBG对战iG",
@@ -35371,6 +35435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 106937,
+      "num": 106780,
+      "word": "我1米9让我来",
+      "onboard_time": 1768804040,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106924,
       "num": 1095555,
       "word": "外网也在使用中式英语",
@@ -35409,6 +35481,14 @@
       "onboard_time": 1768310543,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 106855,
+      "num": 106855,
+      "word": "董思成镖人造型",
+      "onboard_time": 1768802543,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 106810,
@@ -38097,14 +38177,6 @@
       "onboard_time": 1768441280,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100615,
-      "num": 100615,
-      "word": "8岁哥哥带4个月大弟弟坐地铁",
-      "onboard_time": 1768801824,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100611,
@@ -42179,6 +42251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 91936,
+      "num": 91936,
+      "word": "牢A回应",
+      "onboard_time": 1768803681,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91922,
       "num": 91922,
       "word": "2025年新开两融账户154.21万户",
@@ -42673,6 +42753,14 @@
       "onboard_time": 1768721060,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90737,
+      "num": 106406,
+      "word": "霍启刚化身迷弟给郭晶晶拍视频",
+      "onboard_time": 1768805122,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 90719,
@@ -43289,6 +43377,14 @@
       "onboard_time": 1768620620,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 89393,
+      "num": 102425,
+      "word": "美国同事直接把甜食放桌子上",
+      "onboard_time": 1768803561,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 89372,
@@ -44091,6 +44187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 87635,
+      "num": 87635,
+      "word": "深圳的烧烤已经进化成这样了吗",
+      "onboard_time": 1768803322,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 87627,
       "num": 143704,
       "word": "LGDNBW对战RW",
@@ -44377,6 +44481,14 @@
       "onboard_time": 1768735162,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 87200,
+      "num": 181348,
+      "word": "员工超长时间如厕被公司开除",
+      "onboard_time": 1768800261,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87198,
@@ -46131,6 +46243,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 83587,
+      "num": 83587,
+      "word": "成都一男子殴打5人被立案调查",
+      "onboard_time": 1768805300,
+      "rank": 42,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 83554,
       "num": 83554,
       "word": "海航 Bug票",
@@ -46875,6 +46995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 81669,
+      "num": 81669,
+      "word": "神20成功着陆",
+      "onboard_time": 1768804461,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 81624,
       "num": 81624,
       "word": "像是打开了一本叫刻薄的书",
@@ -46912,6 +47040,14 @@
       "word": "遇到农村猫大意了",
       "onboard_time": 1768041560,
       "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 81549,
+      "num": 81549,
+      "word": "学校已经发展成这样了吗",
+      "onboard_time": 1768805423,
+      "rank": 44,
       "category": "幽默"
     },
     {
@@ -48859,6 +48995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76478,
+      "num": 76478,
+      "word": "陈丽君骑马射箭太帅了",
+      "onboard_time": 1768805423,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 76460,
       "num": 86633,
       "word": "留几手称童锦程被算计了",
@@ -49009,6 +49153,14 @@
       "onboard_time": 1768364301,
       "rank": 39,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 75942,
+      "num": 75942,
+      "word": "疯狂动物城2",
+      "onboard_time": 1768803322,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 75940,
@@ -49865,6 +50017,14 @@
       "onboard_time": 1768185559,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73357,
+      "num": 83776,
+      "word": "杨紫GLASS2026开年刊封面预告",
+      "onboard_time": 1768804040,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 73316,
@@ -51880,6 +52040,14 @@
       "word": "男子飞机上睡30分钟信用卡现金都没了",
       "onboard_time": 1768692436,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65576,
+      "num": 81485,
+      "word": "国务院安委会对包钢事故查处挂牌督办",
+      "onboard_time": 1768803921,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -57411,14 +57579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36550,
-      "num": 181348,
-      "word": "员工超长时间如厕被公司开除",
-      "onboard_time": 1768800261,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36485,
       "num": 169397,
       "word": "当地通报越野赛车手驾车失控致14伤",
@@ -58929,6 +59089,14 @@
       "onboard_time": 1768206621,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 29107,
+      "num": 83842,
+      "word": "美国想拉60国建新群只来了1人",
+      "onboard_time": 1768804461,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 28906,
