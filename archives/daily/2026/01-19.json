@@ -1,6 +1,6 @@
 {
   "startTime": 1768754034427,
-  "endTime": 1768806304866,
+  "endTime": 1768808234418,
   "band_list": [
     {
       "raw_hot": 1973872,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 645040,
-      "num": 166595,
+      "num": 205417,
       "word": "沈逸 牢A",
       "onboard_time": 1768802842,
       "rank": 10,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 580006,
-      "num": 198296,
+      "num": 204834,
       "word": "牢A",
       "onboard_time": 1768798763,
       "rank": 11,
@@ -147,6 +147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 519376,
+      "num": 205343,
+      "word": "邓超瘦成男大了",
+      "onboard_time": 1768806380,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 515519,
       "num": 206707,
       "word": "宋威龙在庆功宴上哭了",
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 474668,
-      "num": 194865,
+      "num": 205008,
       "word": "胡歌有女儿后彭于晏终于急了",
       "onboard_time": 1768797862,
       "rank": 12,
@@ -219,6 +227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 404281,
+      "num": 205162,
+      "word": "某地一男孩用凳子猛砸同学后脑勺",
+      "onboard_time": 1768806261,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 394967,
       "num": 136457,
       "word": "孙怡董子健相爱过的证据",
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 356848,
-      "num": 167759,
+      "num": 204157,
       "word": "劣迹艺人打信息差到县域商演捞金",
       "onboard_time": 1768800922,
       "rank": 23,
@@ -371,6 +387,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 261785,
+      "num": 204690,
+      "word": "孙海洋向嫣然天使儿童医院捐款",
+      "onboard_time": 1768807162,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 253203,
       "num": 172272,
       "word": "人一定要有个小号",
@@ -380,7 +404,7 @@
     },
     {
       "raw_hot": 252180,
-      "num": 122825,
+      "num": 204262,
       "word": "奚梦瑶晒当妈后的幸福变化",
       "onboard_time": 1768804881,
       "rank": 23,
@@ -396,11 +420,19 @@
     },
     {
       "raw_hot": 233769,
-      "num": 162352,
+      "num": 204542,
       "word": "8岁哥哥带4个月大弟弟坐地铁",
       "onboard_time": 1768801824,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231305,
+      "num": 231305,
+      "word": "学校已经发展成这样了吗",
+      "onboard_time": 1768805423,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 230844,
@@ -428,7 +460,7 @@
     },
     {
       "raw_hot": 217043,
-      "num": 118732,
+      "num": 128772,
       "word": "跑男的尽头是春晚正式编",
       "onboard_time": 1768803861,
       "rank": 22,
@@ -473,6 +505,14 @@
       "onboard_time": 1768737801,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207659,
+      "num": 231307,
+      "word": "苏醒告别快乐老友记",
+      "onboard_time": 1768802543,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 205937,
@@ -539,14 +579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188245,
-      "num": 188245,
-      "word": "苏醒告别快乐老友记",
-      "onboard_time": 1768802543,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 187147,
       "num": 187147,
       "word": "镖人友情演出惠英红",
@@ -601,14 +633,6 @@
       "onboard_time": 1768779379,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 173386,
-      "num": 136768,
-      "word": "某地一男孩用凳子猛砸同学后脑勺",
-      "onboard_time": 1768806261,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 169989,
@@ -673,6 +697,14 @@
       "onboard_time": 1768745783,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 159634,
+      "num": 159634,
+      "word": "痞幼回应恋爱脑",
+      "onboard_time": 1768806621,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 157249,
@@ -803,6 +835,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 138709,
+      "num": 138709,
+      "word": "吴京的刀马一个拔刀姿势对味了",
+      "onboard_time": 1768806981,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 136576,
       "num": 136576,
       "word": "34岁女星患子宫肌腺瘤切除子宫",
@@ -860,7 +900,7 @@
     },
     {
       "raw_hot": 130561,
-      "num": 107714,
+      "num": 117164,
       "word": "镖人领衔主演孙艺洲",
       "onboard_time": 1768802122,
       "rank": 30,
@@ -881,14 +921,6 @@
       "onboard_time": 1768791740,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 128441,
-      "num": 128441,
-      "word": "学校已经发展成这样了吗",
-      "onboard_time": 1768805423,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 127762,
@@ -963,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122077,
+      "num": 205657,
+      "word": "徐良官宣巡演",
+      "onboard_time": 1768807942,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 121463,
       "num": 121463,
       "word": "商竣程迎澳网开门红",
@@ -976,6 +1016,22 @@
       "word": "俄罗斯一地暴雪堆出公寓楼高雪坡",
       "onboard_time": 1768741221,
       "rank": 18,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 119809,
+      "num": 119809,
+      "word": "牢A回应",
+      "onboard_time": 1768803681,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119350,
+      "num": 205564,
+      "word": "西班牙高铁事故死亡人数升至39人",
+      "onboard_time": 1768806380,
+      "rank": 9,
       "category": "海外新闻"
     },
     {
@@ -1012,11 +1068,35 @@
     },
     {
       "raw_hot": 116523,
-      "num": 607604,
+      "num": 619961,
       "word": "中央气象台三预警齐发",
       "onboard_time": 1768797623,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116007,
+      "num": 116007,
+      "word": "马年春晚",
+      "onboard_time": 1768807702,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 115992,
+      "num": 204979,
+      "word": "杨紫生命树敬礼转场",
+      "onboard_time": 1768807521,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 115681,
+      "num": 134355,
+      "word": "尚界Z7亮点前瞻",
+      "onboard_time": 1768806561,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 114825,
@@ -1044,7 +1124,7 @@
     },
     {
       "raw_hot": 110534,
-      "num": 98989,
+      "num": 114885,
       "word": "吃了30年猪肉第一次认识猪肉",
       "onboard_time": 1768804102,
       "rank": 32,
@@ -1089,14 +1169,6 @@
       "onboard_time": 1768788259,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 107698,
-      "num": 107698,
-      "word": "牢A回应",
-      "onboard_time": 1768803681,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106937,
@@ -1171,6 +1243,38 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98751,
+      "num": 97660,
+      "word": "新年美甲",
+      "onboard_time": 1768807821,
+      "rank": 42,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 97783,
+      "num": 97783,
+      "word": "嫣然天使基金受益女孩发视频",
+      "onboard_time": 1768806802,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97200,
+      "num": 97200,
+      "word": "多方回应学生用板凳攻击同学后脑",
+      "onboard_time": 1768808001,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95800,
+      "num": 95800,
+      "word": "我的朋友安德烈 BE美学",
+      "onboard_time": 1768806502,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 94730,
       "num": 94730,
       "word": "建议所有感觉没年味的人去侗寨过年",
@@ -1227,6 +1331,30 @@
       "category": "财经"
     },
     {
+      "raw_hot": 91353,
+      "num": 107720,
+      "word": "成都一男子殴打5人被立案调查",
+      "onboard_time": 1768805300,
+      "rank": 42,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 91030,
+      "num": 91030,
+      "word": "突然的喜欢",
+      "onboard_time": 1768806261,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 90832,
+      "num": 90832,
+      "word": "嘴和胃对了一晚上的账",
+      "onboard_time": 1768806682,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 90772,
       "num": 216058,
       "word": "欢瑞世纪大跌",
@@ -1249,14 +1377,6 @@
       "onboard_time": 1768805423,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 90329,
-      "num": 107720,
-      "word": "成都一男子殴打5人被立案调查",
-      "onboard_time": 1768805300,
-      "rank": 42,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 90173,
@@ -1355,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85278,
+      "num": 123052,
+      "word": "因涨薪20致歉企业曾每月涨薪200元",
+      "onboard_time": 1768805781,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85132,
       "num": 85132,
       "word": "银川地震",
@@ -1425,14 +1553,6 @@
       "onboard_time": 1768751901,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78597,
-      "num": 78597,
-      "word": "突然的喜欢",
-      "onboard_time": 1768806261,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 78186,
@@ -1515,6 +1635,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 73018,
+      "num": 101911,
+      "word": "陈建斌在机场拉着蒋勤勤跑",
+      "onboard_time": 1768807461,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72772,
       "num": 131325,
       "word": "樊振东打球把程靖淇震撼到语无伦次",
@@ -1529,6 +1657,22 @@
       "onboard_time": 1768777817,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69973,
+      "num": 99479,
+      "word": "74岁肥猫跑完了10公里马拉松",
+      "onboard_time": 1768807643,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 68206,
+      "num": 204480,
+      "word": "张杰新春场是麻将局",
+      "onboard_time": 1768807343,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 67486,
@@ -1641,6 +1785,14 @@
       "onboard_time": 1768778899,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62571,
+      "num": 133397,
+      "word": "错开左脑男子家属索赔300万遭拒",
+      "onboard_time": 1768806981,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62067,
@@ -1875,20 +2027,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 38976,
-      "num": 123052,
-      "word": "因涨薪20致歉企业曾每月涨薪200元",
-      "onboard_time": 1768805781,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38312,
       "num": 57810,
       "word": "全班录视频呼唤昏迷的8岁同学",
       "onboard_time": 1768759995,
       "rank": 8,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 37024,
+      "num": 98204,
+      "word": "深圳封存20年垃圾山开挖",
+      "onboard_time": 1768808180,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36289,
@@ -1977,6 +2129,14 @@
       "onboard_time": 1768804461,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 28828,
+      "num": 204294,
+      "word": "儿童医院挂满玩偶的保安走红后现状",
+      "onboard_time": 1768807582,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26560,

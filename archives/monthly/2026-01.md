@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/19 15:05:04
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/19 15:37:14
 </p>
 </blockquote>
 <p>
@@ -3453,6 +3453,12 @@ ICE枪杀（热度：522348）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E7%98%A6%E6%88%90%E7%94%B7%E5%A4%A7%E4%BA%86%23" target="weibo">
+邓超瘦成男大了（热度：519376）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%8E%B0%E5%81%B6%E5%A9%9A%E7%BA%B1%E7%85%A7%23" target="weibo">
 内娱现偶婚纱照（热度：519373）
 </a>
@@ -5433,6 +5439,12 @@ iPhone18Pro灵动岛或变小（热度：412510）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9F%90%E5%9C%B0%E4%B8%80%E7%94%B7%E5%AD%A9%E7%94%A8%E5%87%B3%E5%AD%90%E7%8C%9B%E7%A0%B8%E5%90%8C%E5%AD%A6%E5%90%8E%E8%84%91%E5%8B%BA%23" target="weibo">
+某地一男孩用凳子猛砸同学后脑勺（热度：404281）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%A0%E5%90%9B%E5%8E%BB%E4%BA%86%E6%AD%A6%E5%A4%A7%E9%9D%96%E9%80%80%E5%BD%B9%E4%BB%AA%E5%BC%8F%23" target="weibo">
 王传君去了武大靖退役仪式（热度：403587）
 </a>
@@ -5999,18 +6011,6 @@ AI登顶LOL韩服（热度：378599）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%83%E6%97%A6%E5%AE%9D%E5%AE%9D1%E6%9C%881%E6%97%A50%E7%82%B9%E5%87%BA%E7%94%9F%23" target="weibo">
 元旦宝宝1月1日0点出生（热度：373337）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E5%87%BA%E5%8F%91%E6%A8%AA%E5%BA%97%E8%BF%9B%E7%BB%84%E4%BD%95%E4%B8%8D%E5%90%8C%E8%88%9F%E6%B8%A1%23" target="weibo">
-檀健次出发横店进组何不同舟渡（热度：373053）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A8%81%E9%BE%99%E5%BC%A0%E5%87%8C%E8%B5%AB%20%E4%BB%8A%E9%BA%A6%E9%83%8E%23" target="weibo">
-宋威龙张凌赫 今麦郎（热度：372877）
 </a>
 </li>
 

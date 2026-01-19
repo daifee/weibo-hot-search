@@ -1,0 +1,410 @@
+{
+  "runTime": 1768808234418,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 243157,
+        "num": 1038905,
+        "word": "生命树",
+        "onboard_time": 1768796122,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221952,
+        "num": 731469,
+        "word": "B站百大UP主",
+        "onboard_time": 1768788680,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 77633,
+        "num": 619961,
+        "word": "中央气象台三预警齐发",
+        "onboard_time": 1768797623,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232911,
+        "num": 232911,
+        "word": "男子右脑出血被医生错开左脑",
+        "onboard_time": 1768797201,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207659,
+        "num": 231307,
+        "word": "苏醒告别快乐老友记",
+        "onboard_time": 1768802543,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231305,
+        "num": 231305,
+        "word": "学校已经发展成这样了吗",
+        "onboard_time": 1768805423,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205856,
+        "num": 205856,
+        "word": "美国男子收集雨水被判处30天监禁",
+        "onboard_time": 1768800502,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 158018,
+        "num": 205834,
+        "word": "安徽下霰了",
+        "onboard_time": 1768792580,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122077,
+        "num": 205657,
+        "word": "徐良官宣巡演",
+        "onboard_time": 1768807942,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119350,
+        "num": 205564,
+        "word": "西班牙高铁事故死亡人数升至39人",
+        "onboard_time": 1768806380,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 638843,
+        "num": 205417,
+        "word": "沈逸 牢A",
+        "onboard_time": 1768802842,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 519376,
+        "num": 205343,
+        "word": "邓超瘦成男大了",
+        "onboard_time": 1768806380,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404281,
+        "num": 205162,
+        "word": "某地一男孩用凳子猛砸同学后脑勺",
+        "onboard_time": 1768806261,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312251,
+        "num": 205008,
+        "word": "胡歌有女儿后彭于晏终于急了",
+        "onboard_time": 1768797862,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115992,
+        "num": 204979,
+        "word": "杨紫生命树敬礼转场",
+        "onboard_time": 1768807521,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311824,
+        "num": 204834,
+        "word": "牢A",
+        "onboard_time": 1768798763,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261785,
+        "num": 204690,
+        "word": "孙海洋向嫣然天使儿童医院捐款",
+        "onboard_time": 1768807162,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150131,
+        "num": 204542,
+        "word": "8岁哥哥带4个月大弟弟坐地铁",
+        "onboard_time": 1768801824,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68206,
+        "num": 204480,
+        "word": "张杰新春场是麻将局",
+        "onboard_time": 1768807343,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28828,
+        "num": 204294,
+        "word": "儿童医院挂满玩偶的保安走红后现状",
+        "onboard_time": 1768807582,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248152,
+        "num": 204262,
+        "word": "奚梦瑶晒当妈后的幸福变化",
+        "onboard_time": 1768804881,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204157,
+        "num": 204157,
+        "word": "劣迹艺人打信息差到县域商演捞金",
+        "onboard_time": 1768800922,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181655,
+        "num": 181655,
+        "word": "睡觉出现5种症状说明血糖高了",
+        "onboard_time": 1768792460,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159634,
+        "num": 159634,
+        "word": "痞幼回应恋爱脑",
+        "onboard_time": 1768806621,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138709,
+        "num": 138709,
+        "word": "吴京的刀马一个拔刀姿势对味了",
+        "onboard_time": 1768806981,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115681,
+        "num": 134355,
+        "word": "尚界Z7亮点前瞻",
+        "onboard_time": 1768806561,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 62571,
+        "num": 133397,
+        "word": "错开左脑男子家属索赔300万遭拒",
+        "onboard_time": 1768806981,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133341,
+        "num": 133341,
+        "word": "只有有洁癖的人才懂维嘉的含金量",
+        "onboard_time": 1768801282,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129579,
+        "num": 129579,
+        "word": "人一定要有个小号",
+        "onboard_time": 1768798402,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112935,
+        "num": 128805,
+        "word": "骂人也违法了最高可判三年",
+        "onboard_time": 1768798825,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128772,
+        "num": 128772,
+        "word": "跑男的尽头是春晚正式编",
+        "onboard_time": 1768803861,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119809,
+        "num": 119809,
+        "word": "牢A回应",
+        "onboard_time": 1768803681,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117164,
+        "num": 117164,
+        "word": "镖人领衔主演孙艺洲",
+        "onboard_time": 1768802122,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116007,
+        "num": 116007,
+        "word": "马年春晚",
+        "onboard_time": 1768807702,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100468,
+        "num": 114885,
+        "word": "吃了30年猪肉第一次认识猪肉",
+        "onboard_time": 1768804102,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113971,
+        "num": 113971,
+        "word": "镖人",
+        "onboard_time": 1768783280,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103665,
+        "num": 103665,
+        "word": "3部电影定档2026春节档",
+        "onboard_time": 1768793840,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91353,
+        "num": 102998,
+        "word": "成都一男子殴打5人被立案调查",
+        "onboard_time": 1768805300,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 73018,
+        "num": 101911,
+        "word": "陈建斌在机场拉着蒋勤勤跑",
+        "onboard_time": 1768807461,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69973,
+        "num": 99479,
+        "word": "74岁肥猫跑完了10公里马拉松",
+        "onboard_time": 1768807643,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37024,
+        "num": 98204,
+        "word": "深圳封存20年垃圾山开挖",
+        "onboard_time": 1768808180,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97783,
+        "num": 97783,
+        "word": "嫣然天使基金受益女孩发视频",
+        "onboard_time": 1768806802,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98751,
+        "num": 97660,
+        "word": "新年美甲",
+        "onboard_time": 1768807821,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 97200,
+        "num": 97200,
+        "word": "多方回应学生用板凳攻击同学后脑",
+        "onboard_time": 1768808001,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95800,
+        "num": 95800,
+        "word": "我的朋友安德烈 BE美学",
+        "onboard_time": 1768806502,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91912,
+        "num": 91912,
+        "word": "原来小学成绩差的学生是这样的",
+        "onboard_time": 1768794441,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91030,
+        "num": 91030,
+        "word": "突然的喜欢",
+        "onboard_time": 1768806261,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90832,
+        "num": 90832,
+        "word": "嘴和胃对了一晚上的账",
+        "onboard_time": 1768806682,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87888,
+        "num": 87888,
+        "word": "我1米9让我来",
+        "onboard_time": 1768804040,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85278,
+        "num": 85278,
+        "word": "因涨薪20致歉企业曾每月涨薪200元",
+        "onboard_time": 1768805781,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这则寓言习近平多次讲起#"
+    }
+  }
+}
