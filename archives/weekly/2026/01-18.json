@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768809019506,
+  "endTime": 1768812225665,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -41,6 +41,14 @@
       "onboard_time": 1768732703,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1330143,
+      "num": 100129,
+      "word": "伊朗拟永久退网",
+      "onboard_time": 1768808961,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1184745,
@@ -155,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 803581,
+      "num": 205343,
+      "word": "邓超瘦成男大了",
+      "onboard_time": 1768806380,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 794156,
       "num": 1127065,
       "word": "安徽下霰了",
@@ -257,14 +273,6 @@
       "onboard_time": 1768727001,
       "rank": 9,
       "category": "美食"
-    },
-    {
-      "raw_hot": 661903,
-      "num": 205343,
-      "word": "邓超瘦成男大了",
-      "onboard_time": 1768806380,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 654030,
@@ -731,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 383202,
+      "num": 184018,
+      "word": "窦骁何超莲向徐帆敬酒",
+      "onboard_time": 1768809621,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 377077,
       "num": 377077,
       "word": "王鹤棣演唱会给我香迷糊了",
@@ -793,6 +809,14 @@
       "onboard_time": 1768741943,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 357113,
+      "num": 357113,
+      "word": "糖霜苹果",
+      "onboard_time": 1768811902,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 356848,
@@ -872,6 +896,14 @@
       "word": "又一款罕见病药将退出中国市场",
       "onboard_time": 1768697540,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 324426,
+      "num": 755579,
+      "word": "深圳封存20年垃圾山开挖",
+      "onboard_time": 1768808180,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -971,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 291960,
+      "num": 179970,
+      "word": "嫣然天使基金预算已筹满",
+      "onboard_time": 1768810581,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 291866,
       "num": 243589,
       "word": "香港四小龙还剩下2人",
@@ -1049,6 +1089,14 @@
       "onboard_time": 1768714822,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 272303,
+      "num": 272303,
+      "word": "新年美甲",
+      "onboard_time": 1768807821,
+      "rank": 42,
+      "category": "美妆"
     },
     {
       "raw_hot": 268968,
@@ -1227,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232001,
+      "num": 155502,
+      "word": "母牛去世出生3天小牛墙边独自流泪",
+      "onboard_time": 1768810103,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231305,
       "num": 231305,
       "word": "学校已经发展成这样了吗",
@@ -1289,6 +1345,14 @@
       "onboard_time": 1768735462,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222309,
+      "num": 387983,
+      "word": "沈逸回应糖霜苹果",
+      "onboard_time": 1768809200,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221213,
@@ -1611,6 +1675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190737,
+      "num": 190737,
+      "word": "体面人的体面一生",
+      "onboard_time": 1768809680,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190567,
       "num": 190567,
       "word": "JDG对战KSG",
@@ -1803,12 +1875,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174052,
+      "num": 174052,
+      "word": "姜思达回应张艺兴晚晚采访被嘲",
+      "onboard_time": 1768810822,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172172,
       "num": 172172,
       "word": "那英选人还是太权威了",
       "onboard_time": 1768749682,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172127,
+      "num": 190712,
+      "word": "2026春节档",
+      "onboard_time": 1768811121,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 170600,
@@ -1888,6 +1976,14 @@
       "word": "老人玩手机孩子脱手坠地仍不撒手",
       "onboard_time": 1768798402,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165237,
+      "num": 165237,
+      "word": "19岁男孩肚疼3天查出白血病",
+      "onboard_time": 1768811902,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -2355,14 +2451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136413,
-      "num": 136413,
-      "word": "新年美甲",
-      "onboard_time": 1768807821,
-      "rank": 42,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 136382,
       "num": 136382,
       "word": "刘耀文鲜衣怒马少年郎具像化了",
@@ -2393,6 +2481,14 @@
       "onboard_time": 1768740503,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134099,
+      "num": 186851,
+      "word": "6人消费19元顾客道歉称赔1元",
+      "onboard_time": 1768809381,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133388,
@@ -2529,6 +2625,14 @@
       "onboard_time": 1768645941,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128817,
+      "num": 165177,
+      "word": "Gucci家族里的豪门姐弟",
+      "onboard_time": 1768811902,
+      "rank": 18,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 128761,
@@ -2900,7 +3004,7 @@
     },
     {
       "raw_hot": 116523,
-      "num": 619961,
+      "num": 636843,
       "word": "中央气象台三预警齐发",
       "onboard_time": 1768797623,
       "rank": 2,
@@ -2948,7 +3052,7 @@
     },
     {
       "raw_hot": 115681,
-      "num": 134355,
+      "num": 147398,
       "word": "尚界Z7亮点前瞻",
       "onboard_time": 1768806561,
       "rank": 25,
@@ -3571,6 +3675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95582,
+      "num": 95582,
+      "word": "成年人的周末",
+      "onboard_time": 1768809860,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95443,
       "num": 95443,
       "word": "杭州师范大学名单造假调查结果公布",
@@ -4147,6 +4259,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 84915,
+      "num": 84915,
+      "word": "杨紫胡歌原声台词爆发力",
+      "onboard_time": 1768811421,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 84831,
       "num": 84831,
       "word": "江湖是英文无法翻译的词",
@@ -4177,14 +4297,6 @@
       "onboard_time": 1768730181,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 84241,
-      "num": 135607,
-      "word": "深圳封存20年垃圾山开挖",
-      "onboard_time": 1768808180,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84178,
@@ -4233,6 +4345,14 @@
       "onboard_time": 1768808842,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 83355,
+      "num": 81691,
+      "word": "申浩男新剧阴湿男味太对了",
+      "onboard_time": 1768811241,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 83317,
@@ -4307,14 +4427,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 81430,
-      "num": 100129,
-      "word": "伊朗拟永久退网",
-      "onboard_time": 1768808961,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 81028,
       "num": 217841,
       "word": "朱雨玲4比2佐藤瞳",
@@ -4371,12 +4483,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79760,
+      "num": 79332,
+      "word": "何老师不小心口误华晨宇的反应",
+      "onboard_time": 1768812082,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79592,
       "num": 79592,
       "word": "蒋敦豪演我过年上桌状态",
       "onboard_time": 1768711879,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79511,
+      "num": 79511,
+      "word": "玉龙雪山冷暖撞色有多美",
+      "onboard_time": 1768811722,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 79348,
@@ -4609,6 +4737,14 @@
       "onboard_time": 1768786880,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72690,
+      "num": 72690,
+      "word": "Faker在沙特种500年后能看到的树",
+      "onboard_time": 1768810280,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 71826,
@@ -5555,6 +5691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26589,
+      "num": 81449,
+      "word": "女孩独自开门陌生男子执意闯入",
+      "onboard_time": 1768811421,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26560,
       "num": 144660,
       "word": "央视揭露菜商使用含毒农药",
@@ -5577,6 +5721,14 @@
       "onboard_time": 1768745603,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23327,
+      "num": 160895,
+      "word": "曝特朗普邀印度加入加沙和平委员会",
+      "onboard_time": 1768811780,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23087,
