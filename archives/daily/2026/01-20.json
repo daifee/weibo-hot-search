@@ -1,6 +1,6 @@
 {
   "startTime": 1768840768064,
-  "endTime": 1768854817877,
+  "endTime": 1768855579549,
   "band_list": [
     {
       "raw_hot": 642136,
@@ -403,20 +403,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 39816,
+      "num": 129708,
+      "word": "21年前被何炅当街冷脸了",
+      "onboard_time": 1768828283,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39134,
       "num": 129616,
       "word": "一觉醒来金银又涨了",
       "onboard_time": 1768838359,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 38476,
-      "num": 129708,
-      "word": "21年前被何炅当街冷脸了",
-      "onboard_time": 1768828283,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 32443,
@@ -531,8 +531,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 10124,
-      "num": 17754,
+      "raw_hot": 11511,
+      "num": 18328,
       "word": "拿板凳打人学生已被劝退",
       "onboard_time": 1768854314,
       "rank": 48,
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 9904,
-      "num": 17753,
+      "num": 18323,
       "word": "云南巧家县5.1级地震",
       "onboard_time": 1768823541,
       "rank": 49,

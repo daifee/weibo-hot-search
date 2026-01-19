@@ -1,0 +1,410 @@
+{
+  "runTime": 1768855579549,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 102259,
+        "num": 102259,
+        "word": "日本迎半世纪来首次零熊猫",
+        "onboard_time": 1768839199,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 28459,
+        "num": 36548,
+        "word": "人民日报评美国斩杀线",
+        "onboard_time": 1768816102,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 7272,
+        "num": 29370,
+        "word": "卫星互联网低轨19组卫星发射成功",
+        "onboard_time": 1768816702,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49814,
+        "num": 29028,
+        "word": "老赖李亚鹏为何触动了网友",
+        "onboard_time": 1768838599,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28001,
+        "num": 28001,
+        "word": "下雪",
+        "onboard_time": 1768824741,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28738,
+        "num": 27698,
+        "word": "蔡徐坤印尼节目",
+        "onboard_time": 1768831943,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22324,
+        "num": 22324,
+        "word": "美国近7成流浪汉曾是中产",
+        "onboard_time": 1768833803,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21454,
+        "num": 21454,
+        "word": "陈光标称可在两日转账资助嫣然医院",
+        "onboard_time": 1768847295,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20639,
+        "num": 20639,
+        "word": "云南地震",
+        "onboard_time": 1768822882,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 19667,
+        "num": 19667,
+        "word": "俄罗斯一地居民挖通积雪才能回家",
+        "onboard_time": 1768837999,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 46124,
+        "num": 19643,
+        "word": "周杰伦昆凌 生理性喜欢",
+        "onboard_time": 1768827081,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39816,
+        "num": 19516,
+        "word": "21年前被何炅当街冷脸了",
+        "onboard_time": 1768828283,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26143,
+        "num": 19436,
+        "word": "杨紫换头像",
+        "onboard_time": 1768830563,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25874,
+        "num": 19378,
+        "word": "关晓彤第一次在红毯戴帽子",
+        "onboard_time": 1768824201,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 24572,
+        "num": 19255,
+        "word": "李亚鹏",
+        "onboard_time": 1768816881,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22309,
+        "num": 19238,
+        "word": "遗憾怎么写最刀",
+        "onboard_time": 1768835182,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22210,
+        "num": 19088,
+        "word": "官方通报学生用板凳砸同学后脑",
+        "onboard_time": 1768830262,
+        "rank": 16,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 21645,
+        "num": 19064,
+        "word": "欢瑞世纪工作人员回应成毅不再续约",
+        "onboard_time": 1768840997,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21207,
+        "num": 18979,
+        "word": "很爱吃但巨发胖的东西",
+        "onboard_time": 1768822582,
+        "rank": 18,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 18911,
+        "num": 18911,
+        "word": "轧戏云包场加码没有陈星旭",
+        "onboard_time": 1768840277,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27089,
+        "num": 18740,
+        "word": "包文婧回应女儿撞脸吴映洁",
+        "onboard_time": 1768829843,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20688,
+        "num": 18623,
+        "word": "糖霜苹果",
+        "onboard_time": 1768811902,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18475,
+        "num": 18475,
+        "word": "杭州全城等雪",
+        "onboard_time": 1768846875,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18351,
+        "num": 18351,
+        "word": "轧戏",
+        "onboard_time": 1768823061,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16619,
+        "num": 18350,
+        "word": "成都警方通报16岁男子殴打5人",
+        "onboard_time": 1768830323,
+        "rank": 24,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 15994,
+        "num": 18350,
+        "word": "大寒到了",
+        "onboard_time": 1768841299,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15307,
+        "num": 18348,
+        "word": "美国主播力挺牢A",
+        "onboard_time": 1768822101,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 15239,
+        "num": 18347,
+        "word": "虞书欣blossom幕后记录",
+        "onboard_time": 1768829243,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15221,
+        "num": 18346,
+        "word": "时尚32周年时尚之夜",
+        "onboard_time": 1768820783,
+        "rank": 28,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 14908,
+        "num": 18344,
+        "word": "我的朋友安德烈",
+        "onboard_time": 1768823122,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16277,
+        "num": 18343,
+        "word": "西班牙将举行3天官方哀悼",
+        "onboard_time": 1768842076,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 14750,
+        "num": 18343,
+        "word": "等武汉下雪",
+        "onboard_time": 1768829782,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14188,
+        "num": 18342,
+        "word": "杨紫第一次换角色头像",
+        "onboard_time": 1768833561,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14186,
+        "num": 18341,
+        "word": "叶某斌偷渡至柬埔寨从事电诈被刑拘",
+        "onboard_time": 1768834222,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14170,
+        "num": 18340,
+        "word": "一哥否认杜克20万分手费",
+        "onboard_time": 1768828762,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 13975,
+        "num": 18338,
+        "word": "羽生结弦亲吻冰面的最后一吻",
+        "onboard_time": 1768835062,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13589,
+        "num": 18337,
+        "word": "网传歌手2026首发已确定",
+        "onboard_time": 1768828342,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13311,
+        "num": 18336,
+        "word": "左奇函高富帅变装",
+        "onboard_time": 1768836679,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13207,
+        "num": 18336,
+        "word": "江苏卫视春晚",
+        "onboard_time": 1768832904,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13191,
+        "num": 18335,
+        "word": "爱情怎么翻译",
+        "onboard_time": 1768816581,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12678,
+        "num": 18334,
+        "word": "警方通报母亲赴柬埔寨救子",
+        "onboard_time": 1768835182,
+        "rank": 40,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 12098,
+        "num": 18332,
+        "word": "一个人真正变强的7个迹象",
+        "onboard_time": 1768838180,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 11596,
+        "num": 18332,
+        "word": "邓莎说如果没有孩子婚姻会更短",
+        "onboard_time": 1768836500,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11541,
+        "num": 18329,
+        "word": "刘宇宁录春晚被逗红温了",
+        "onboard_time": 1768836561,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11511,
+        "num": 18328,
+        "word": "拿板凳打人学生已被劝退",
+        "onboard_time": 1768854314,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11156,
+        "num": 18328,
+        "word": "MTJJ回应",
+        "onboard_time": 1768833082,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 10779,
+        "num": 18326,
+        "word": "清融直播",
+        "onboard_time": 1768837342,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10584,
+        "num": 18326,
+        "word": "向涵之小龙女",
+        "onboard_time": 1768833442,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 10323,
+        "num": 18324,
+        "word": "猫的树太会拍了",
+        "onboard_time": 1768833921,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9659,
+        "num": 18323,
+        "word": "云南巧家县5.1级地震",
+        "onboard_time": 1768823541,
+        "rank": 49,
+        "category": "突发/灾害"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平曾多次提起这个寓言#"
+    }
+  }
+}
