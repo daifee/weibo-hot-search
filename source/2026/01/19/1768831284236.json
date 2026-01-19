@@ -1,0 +1,410 @@
+{
+  "runTime": 1768831284236,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 415980,
+        "num": 1066556,
+        "word": "人民日报评美国斩杀线",
+        "onboard_time": 1768816102,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 326796,
+        "num": 779499,
+        "word": "轧戏",
+        "onboard_time": 1768823061,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9378,
+        "num": 636239,
+        "word": "神20带回一套战功赫赫的飞天战袍",
+        "onboard_time": 1768799781,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 292954,
+        "num": 292954,
+        "word": "陈光标喊话李亚鹏提供银行卡号",
+        "onboard_time": 1768824921,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259984,
+        "num": 259984,
+        "word": "下雪",
+        "onboard_time": 1768824741,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173477,
+        "num": 258749,
+        "word": "火锅店用鱼缸养鲨鱼供人观赏",
+        "onboard_time": 1768817121,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131809,
+        "num": 258429,
+        "word": "春节放假35天的公司利润一半给员工",
+        "onboard_time": 1768828461,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127874,
+        "num": 255915,
+        "word": "云南地震",
+        "onboard_time": 1768822882,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 110131,
+        "num": 254886,
+        "word": "德约科维奇澳网第100胜",
+        "onboard_time": 1768830323,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123255,
+        "num": 253178,
+        "word": "神20舷窗裂纹维修细节披露",
+        "onboard_time": 1768830141,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1755553,
+        "num": 252686,
+        "word": "周杰伦昆凌 生理性喜欢",
+        "onboard_time": 1768827081,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 733375,
+        "num": 251436,
+        "word": "关晓彤第一次在红毯戴帽子",
+        "onboard_time": 1768824201,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 340465,
+        "num": 248999,
+        "word": "很爱吃但巨发胖的东西",
+        "onboard_time": 1768822582,
+        "rank": 12,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 374060,
+        "num": 247690,
+        "word": "李亚鹏前妻力挺嫣然医院",
+        "onboard_time": 1768821561,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292270,
+        "num": 246559,
+        "word": "杨紫换头像",
+        "onboard_time": 1768830563,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246241,
+        "num": 246241,
+        "word": "成都警方通报16岁男子殴打5人",
+        "onboard_time": 1768830323,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 264365,
+        "num": 240659,
+        "word": "21年前被何炅当街冷脸了",
+        "onboard_time": 1768828283,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206330,
+        "num": 206330,
+        "word": "官方通报学生用板凳砸同学后脑",
+        "onboard_time": 1768830262,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 187638,
+        "num": 187638,
+        "word": "范丞丞 出庭的时候带上你的破平板",
+        "onboard_time": 1768817121,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161920,
+        "num": 161920,
+        "word": "何与状态",
+        "onboard_time": 1768825941,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235260,
+        "num": 161368,
+        "word": "糖霜苹果",
+        "onboard_time": 1768811902,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417276,
+        "num": 160543,
+        "word": "包文婧回应女儿撞脸吴映洁",
+        "onboard_time": 1768829843,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357587,
+        "num": 156176,
+        "word": "网传歌手2026首发已确定",
+        "onboard_time": 1768828342,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148567,
+        "num": 148567,
+        "word": "一个股民下班后接孩子的感受",
+        "onboard_time": 1768829002,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275565,
+        "num": 146827,
+        "word": "虞书欣拿小卡和粉丝换手机壳",
+        "onboard_time": 1768826481,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154899,
+        "num": 146674,
+        "word": "平台辟谣白珊珊被盗号",
+        "onboard_time": 1768815021,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143972,
+        "num": 143972,
+        "word": "潮宏基吊坠一夜涨了1.9万",
+        "onboard_time": 1768814301,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 137678,
+        "num": 137678,
+        "word": "一哥否认杜克20万分手费",
+        "onboard_time": 1768828762,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 133751,
+        "num": 133751,
+        "word": "张凌赫张婧仪 兰蔻",
+        "onboard_time": 1768822942,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94513,
+        "num": 133285,
+        "word": "樊振东憋笑失败",
+        "onboard_time": 1768828402,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133278,
+        "num": 133278,
+        "word": "虞书欣blossom幕后记录",
+        "onboard_time": 1768829243,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122160,
+        "num": 122160,
+        "word": "赵今麦工作室编辑文案",
+        "onboard_time": 1768824982,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119887,
+        "num": 119887,
+        "word": "卫龙向嫣然医院捐款50万",
+        "onboard_time": 1768829902,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118347,
+        "num": 118347,
+        "word": "陈伟霆在拍许我耀眼续集吗",
+        "onboard_time": 1768828042,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116092,
+        "num": 116092,
+        "word": "A股迎重要调整",
+        "onboard_time": 1768822043,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107763,
+        "num": 107763,
+        "word": "iPhone18Pro宣传片曝光",
+        "onboard_time": 1768812261,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 106435,
+        "num": 106435,
+        "word": "看小城大事要被气死了",
+        "onboard_time": 1768829661,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100048,
+        "num": 100048,
+        "word": "放心大胆的断联吧",
+        "onboard_time": 1768827382,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99191,
+        "num": 99191,
+        "word": "美国主播力挺牢A",
+        "onboard_time": 1768822101,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25405,
+        "num": 98419,
+        "word": "格陵兰八国联军已缺德",
+        "onboard_time": 1768830503,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97978,
+        "num": 97978,
+        "word": "美国斩杀线惨状",
+        "onboard_time": 1768824201,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 96965,
+        "num": 96965,
+        "word": "苹果重新夺回中国手机市场第一",
+        "onboard_time": 1768823181,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 95133,
+        "num": 95133,
+        "word": "高超daddy高越baby",
+        "onboard_time": 1768831161,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28684,
+        "num": 94159,
+        "word": "卫星互联网低轨19组卫星发射成功",
+        "onboard_time": 1768816702,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 93356,
+        "num": 93356,
+        "word": "Flandre彻夜未眠",
+        "onboard_time": 1768830381,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 85081,
+        "num": 85081,
+        "word": "轧戏要开虐了",
+        "onboard_time": 1768830983,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83456,
+        "num": 83456,
+        "word": "孔雪儿满分女人",
+        "onboard_time": 1768828522,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77511,
+        "num": 83454,
+        "word": "最后两只旅日大熊猫27日离开日本",
+        "onboard_time": 1768829302,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 81308,
+        "num": 83452,
+        "word": "周震南这次做美甲没被坑",
+        "onboard_time": 1768829964,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72249,
+        "num": 83445,
+        "word": "四川男篮vs广东男篮",
+        "onboard_time": 1768830622,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平曾多次提起这个寓言#"
+    }
+  }
+}

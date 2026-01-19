@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768829268700,
+  "endTime": 1768831284236,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -43,8 +43,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1520834,
-      "num": 201131,
+      "raw_hot": 1755553,
+      "num": 252686,
       "word": "周杰伦昆凌 生理性喜欢",
       "onboard_time": 1768827081,
       "rank": 14,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1118693,
-      "num": 202864,
+      "num": 251436,
       "word": "关晓彤第一次在红毯戴帽子",
       "onboard_time": 1768824201,
       "rank": 10,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 642802,
-      "num": 202420,
+      "num": 247690,
       "word": "李亚鹏前妻力挺嫣然医院",
       "onboard_time": 1768821561,
       "rank": 29,
@@ -652,7 +652,7 @@
     },
     {
       "raw_hot": 470581,
-      "num": 202062,
+      "num": 248999,
       "word": "很爱吃但巨发胖的东西",
       "onboard_time": 1768822582,
       "rank": 25,
@@ -777,6 +777,14 @@
       "onboard_time": 1768814301,
       "rank": 5,
       "category": "财经"
+    },
+    {
+      "raw_hot": 417276,
+      "num": 160543,
+      "word": "包文婧回应女儿撞脸吴映洁",
+      "onboard_time": 1768829843,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 415508,
@@ -945,6 +953,14 @@
       "onboard_time": 1768714822,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 357587,
+      "num": 187520,
+      "word": "网传歌手2026首发已确定",
+      "onboard_time": 1768828342,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 357227,
@@ -1171,6 +1187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 292270,
+      "num": 246559,
+      "word": "杨紫换头像",
+      "onboard_time": 1768830563,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 291960,
       "num": 213142,
       "word": "嫣然天使基金预算已筹满",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1768699279,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 275565,
+      "num": 173532,
+      "word": "虞书欣拿小卡和粉丝换手机壳",
+      "onboard_time": 1768826481,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 274651,
@@ -1267,14 +1299,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 270042,
-      "num": 173532,
-      "word": "虞书欣拿小卡和粉丝换手机壳",
-      "onboard_time": 1768826481,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 268968,
       "num": 158067,
       "word": "张凌赫初中就有梦女粉和黑粉了",
@@ -1289,6 +1313,14 @@
       "onboard_time": 1768785500,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 264365,
+      "num": 240659,
+      "word": "21年前被何炅当街冷脸了",
+      "onboard_time": 1768828283,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 264046,
@@ -1385,6 +1417,14 @@
       "onboard_time": 1768660882,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 246241,
+      "num": 246241,
+      "word": "成都警方通报16岁男子殴打5人",
+      "onboard_time": 1768830323,
+      "rank": 15,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 245034,
@@ -1771,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206330,
+      "num": 206330,
+      "word": "官方通报学生用板凳砸同学后脑",
+      "onboard_time": 1768830262,
+      "rank": 17,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 205937,
       "num": 205937,
       "word": "镖人官宣阵容",
@@ -2025,14 +2073,6 @@
       "onboard_time": 1768732523,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 187520,
-      "num": 187520,
-      "word": "网传歌手2026首发已确定",
-      "onboard_time": 1768828342,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 187355,
@@ -2532,7 +2572,7 @@
     },
     {
       "raw_hot": 150495,
-      "num": 134782,
+      "num": 148567,
       "word": "一个股民下班后接孩子的感受",
       "onboard_time": 1768829002,
       "rank": 30,
@@ -2568,14 +2608,6 @@
       "word": "徐帆女儿回应没有牵妈妈的手",
       "onboard_time": 1768727843,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 148276,
-      "num": 139963,
-      "word": "21年前被何炅当街冷脸了",
-      "onboard_time": 1768828283,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -2851,6 +2883,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 137678,
+      "num": 137678,
+      "word": "一哥否认杜克20万分手费",
+      "onboard_time": 1768828762,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 136916,
       "num": 214229,
       "word": "黄子韬刘耀文一起去滑雪了",
@@ -2969,6 +3009,14 @@
       "onboard_time": 1768720640,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131809,
+      "num": 258429,
+      "word": "春节放假35天的公司利润一半给员工",
+      "onboard_time": 1768828461,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131513,
@@ -3267,6 +3315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123255,
+      "num": 253178,
+      "word": "神20舷窗裂纹维修细节披露",
+      "onboard_time": 1768830141,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 123193,
       "num": 123193,
       "word": "檀健次被小炭火逗笑了",
@@ -3337,6 +3393,14 @@
       "onboard_time": 1768726462,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119887,
+      "num": 119887,
+      "word": "卫龙向嫣然医院捐款50万",
+      "onboard_time": 1768829902,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119545,
@@ -3723,6 +3787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110131,
+      "num": 254886,
+      "word": "德约科维奇澳网第100胜",
+      "onboard_time": 1768830323,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110124,
       "num": 110124,
       "word": "金银大涨后铜条悄悄火了",
@@ -3875,6 +3947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 106435,
+      "num": 106435,
+      "word": "看小城大事要被气死了",
+      "onboard_time": 1768829661,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106329,
       "num": 94393,
       "word": "成毅欢瑞合约争议三大焦点",
@@ -3945,14 +4025,6 @@
       "onboard_time": 1768727061,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 104859,
-      "num": 104859,
-      "word": "一哥否认杜克20万分手费",
-      "onboard_time": 1768828762,
-      "rank": 35,
-      "category": "网红"
     },
     {
       "raw_hot": 104777,
@@ -4048,14 +4120,6 @@
       "word": "男子摆拍女儿50元淘到名酒被行政处罚",
       "onboard_time": 1768722379,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103388,
-      "num": 181167,
-      "word": "春节放假35天的公司利润一半给员工",
-      "onboard_time": 1768828461,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -4185,6 +4249,14 @@
       "onboard_time": 1768735342,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100048,
+      "num": 100048,
+      "word": "放心大胆的断联吧",
+      "onboard_time": 1768827382,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 99951,
@@ -4403,6 +4475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95133,
+      "num": 95133,
+      "word": "高超daddy高越baby",
+      "onboard_time": 1768831161,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95084,
       "num": 95084,
       "word": "蛇缠腰取一片新鲜的仙人掌",
@@ -4449,6 +4529,14 @@
       "onboard_time": 1768805901,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94513,
+      "num": 133285,
+      "word": "樊振东憋笑失败",
+      "onboard_time": 1768828402,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 94391,
@@ -4521,6 +4609,14 @@
       "onboard_time": 1768706000,
       "rank": 40,
       "category": "互联网,体育"
+    },
+    {
+      "raw_hot": 93356,
+      "num": 93356,
+      "word": "Flandre彻夜未眠",
+      "onboard_time": 1768830381,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 93227,
@@ -5083,6 +5179,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 85081,
+      "num": 85081,
+      "word": "轧戏要开虐了",
+      "onboard_time": 1768830983,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 84831,
       "num": 84831,
       "word": "江湖是英文无法翻译的词",
@@ -5169,14 +5273,6 @@
       "onboard_time": 1768701379,
       "rank": 46,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 83582,
-      "num": 98805,
-      "word": "放心大胆的断联吧",
-      "onboard_time": 1768827382,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 83414,
@@ -5289,6 +5385,14 @@
       "onboard_time": 1768819280,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 81308,
+      "num": 83452,
+      "word": "周震南这次做美甲没被坑",
+      "onboard_time": 1768829964,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 81028,
@@ -5465,6 +5569,14 @@
       "onboard_time": 1768710381,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 77511,
+      "num": 83454,
+      "word": "最后两只旅日大熊猫27日离开日本",
+      "onboard_time": 1768829302,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 77446,
@@ -5651,14 +5763,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 73417,
-      "num": 98619,
-      "word": "樊振东憋笑失败",
-      "onboard_time": 1768828402,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 73357,
       "num": 83776,
       "word": "杨紫GLASS2026开年刊封面预告",
@@ -5689,6 +5793,14 @@
       "onboard_time": 1768810280,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 72249,
+      "num": 83445,
+      "word": "四川男篮vs广东男篮",
+      "onboard_time": 1768830622,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 71826,
@@ -6723,6 +6835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 28684,
+      "num": 94159,
+      "word": "卫星互联网低轨19组卫星发射成功",
+      "onboard_time": 1768816702,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28110,
       "num": 67456,
       "word": "吴克群被戴佩妮锁喉",
@@ -6753,6 +6873,14 @@
       "onboard_time": 1768801222,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25405,
+      "num": 98419,
+      "word": "格陵兰八国联军已缺德",
+      "onboard_time": 1768830503,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 24338,
@@ -6971,6 +7099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 9378,
+      "num": 636239,
+      "word": "神20带回一套战功赫赫的飞天战袍",
+      "onboard_time": 1768799781,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 8813,
       "num": 97864,
       "word": "缆车停电困住104名游客每人赔7千",
@@ -6999,6 +7135,9 @@
     },
     {
       "word": "#做好冰雪文章总书记念兹在兹#"
+    },
+    {
+      "word": "#习近平曾多次提起这个寓言#"
     }
   ]
 }
