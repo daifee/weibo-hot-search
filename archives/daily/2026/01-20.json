@@ -1,6 +1,6 @@
 {
   "startTime": 1768840768064,
-  "endTime": 1768848182207,
+  "endTime": 1768848985725,
   "band_list": [
     {
       "raw_hot": 642136,
@@ -427,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27215,
+      "num": 40466,
+      "word": "杭州全城等雪",
+      "onboard_time": 1768846875,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26285,
       "num": 65518,
       "word": "赵今麦工作室编辑文案",
@@ -443,15 +451,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 20886,
-      "num": 40466,
-      "word": "杭州全城等雪",
-      "onboard_time": 1768846875,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18842,
+      "raw_hot": 20320,
       "num": 40357,
       "word": "陈光标称可在两日转账资助嫣然医院",
       "onboard_time": 1768847295,
@@ -483,12 +483,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 15725,
+      "raw_hot": 15822,
       "num": 40170,
       "word": "你好星期六",
       "onboard_time": 1768836801,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 15271,
+      "num": 25194,
+      "word": "时尚32周年时尚之夜",
+      "onboard_time": 1768820783,
+      "rank": 45,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 7912,
