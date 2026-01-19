@@ -1,0 +1,410 @@
+{
+  "runTime": 1768813079384,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 469271,
+        "num": 1075083,
+        "word": "生命树",
+        "onboard_time": 1768796122,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336050,
+        "num": 767269,
+        "word": "深圳封存20年垃圾山开挖",
+        "onboard_time": 1768808180,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30269,
+        "num": 620501,
+        "word": "2025年GDP增长5%",
+        "onboard_time": 1768789279,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 253407,
+        "num": 266449,
+        "word": "沈逸回应糖霜苹果",
+        "onboard_time": 1768809200,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213806,
+        "num": 257446,
+        "word": "2026春节档",
+        "onboard_time": 1768811121,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 254069,
+        "num": 254069,
+        "word": "新年美甲",
+        "onboard_time": 1768807821,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 232308,
+        "num": 232308,
+        "word": "体面人的体面一生",
+        "onboard_time": 1768809680,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20941,
+        "num": 231634,
+        "word": "2025年中国经济成绩单",
+        "onboard_time": 1768789579,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 187062,
+        "num": 228905,
+        "word": "男子右脑出血被医生错开左脑",
+        "onboard_time": 1768797201,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126004,
+        "num": 227904,
+        "word": "何老师不小心口误华晨宇的反应",
+        "onboard_time": 1768812082,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 766938,
+        "num": 226434,
+        "word": "糖霜苹果",
+        "onboard_time": 1768811902,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 722181,
+        "num": 223592,
+        "word": "邓超瘦成男大了",
+        "onboard_time": 1768806380,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330982,
+        "num": 223260,
+        "word": "窦骁何超莲向徐帆敬酒",
+        "onboard_time": 1768809621,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114519,
+        "num": 220814,
+        "word": "徐良官宣巡演",
+        "onboard_time": 1768807942,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125697,
+        "num": 218902,
+        "word": "6人消费19元顾客道歉称赔1元",
+        "onboard_time": 1768809381,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350721,
+        "num": 217192,
+        "word": "沈逸 牢A",
+        "onboard_time": 1768802842,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255777,
+        "num": 214980,
+        "word": "姜思达回应张艺兴晚晚采访被嘲",
+        "onboard_time": 1768810822,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251332,
+        "num": 213142,
+        "word": "嫣然天使基金预算已筹满",
+        "onboard_time": 1768810581,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242108,
+        "num": 211802,
+        "word": "19岁男孩肚疼3天查出白血病",
+        "onboard_time": 1768811902,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211350,
+        "num": 211350,
+        "word": "Gucci家族里的豪门姐弟",
+        "onboard_time": 1768811902,
+        "rank": 19,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 235748,
+        "num": 210182,
+        "word": "孙海洋向嫣然天使儿童医院捐款",
+        "onboard_time": 1768807162,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207023,
+        "num": 207023,
+        "word": "劣迹艺人打信息差到县域商演捞金",
+        "onboard_time": 1768800922,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204910,
+        "num": 204910,
+        "word": "母牛去世出生3天小牛墙边独自流泪",
+        "onboard_time": 1768810103,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203496,
+        "num": 203496,
+        "word": "某地一男孩用凳子猛砸同学后脑勺",
+        "onboard_time": 1768806261,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151186,
+        "num": 151186,
+        "word": "包钢",
+        "onboard_time": 1768812502,
+        "rank": 24,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 135294,
+        "num": 135294,
+        "word": "睡觉出现5种症状说明血糖高了",
+        "onboard_time": 1768792460,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132412,
+        "num": 132412,
+        "word": "iPhone18Pro宣传片曝光",
+        "onboard_time": 1768812261,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 119176,
+        "num": 119176,
+        "word": "袁悦vs斯瓦泰克",
+        "onboard_time": 1768812261,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117937,
+        "num": 117937,
+        "word": "牢A回应",
+        "onboard_time": 1768803681,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21813,
+        "num": 114066,
+        "word": "曝特朗普邀印度加入加沙和平委员会",
+        "onboard_time": 1768811780,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112357,
+        "num": 112357,
+        "word": "镖人",
+        "onboard_time": 1768783280,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106144,
+        "num": 106144,
+        "word": "学校已经发展成这样了吗",
+        "onboard_time": 1768805423,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20302,
+        "num": 100495,
+        "word": "尹锡悦就首案被判5年上诉",
+        "onboard_time": 1768812981,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99669,
+        "num": 99669,
+        "word": "苏醒告别快乐老友记",
+        "onboard_time": 1768802543,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97092,
+        "num": 97092,
+        "word": "人一定要有个小号",
+        "onboard_time": 1768798402,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44455,
+        "num": 91414,
+        "word": "万千气象看龙江",
+        "onboard_time": 1768812502,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89617,
+        "num": 89617,
+        "word": "美国男子收集雨水被判处30天监禁",
+        "onboard_time": 1768800502,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88866,
+        "num": 88866,
+        "word": "成年人的周末",
+        "onboard_time": 1768809860,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21157,
+        "num": 88666,
+        "word": "肖战新剧小城良方新路透",
+        "onboard_time": 1768812861,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19498,
+        "num": 88664,
+        "word": "台湾一老夫妇家中身亡其子嫌疑重大",
+        "onboard_time": 1768812620,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88663,
+        "num": 88663,
+        "word": "北京下雪",
+        "onboard_time": 1768812681,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88037,
+        "num": 88037,
+        "word": "杨紫胡歌原声台词爆发力",
+        "onboard_time": 1768811421,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86816,
+        "num": 86816,
+        "word": "云初令",
+        "onboard_time": 1768812261,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84053,
+        "num": 84053,
+        "word": "多方回应学生用板凳攻击同学后脑",
+        "onboard_time": 1768808001,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82753,
+        "num": 82753,
+        "word": "牢A",
+        "onboard_time": 1768798763,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81734,
+        "num": 81734,
+        "word": "布云朝克特澳网止步首轮",
+        "onboard_time": 1768812920,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70449,
+        "num": 80156,
+        "word": "胡歌有女儿后彭于晏终于急了",
+        "onboard_time": 1768797862,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 79169,
+        "num": 79169,
+        "word": "西班牙高铁事故死亡人数升至39人",
+        "onboard_time": 1768806380,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 80191,
+        "num": 77887,
+        "word": "站在必死的结局接受盛大的告白",
+        "onboard_time": 1768812801,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76479,
+        "num": 76479,
+        "word": "虞书欣饭撒",
+        "onboard_time": 1768808422,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#做好冰雪文章总书记念兹在兹#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1768754034427,
-  "endTime": 1768812225665,
+  "endTime": 1768813079384,
   "band_list": [
     {
       "raw_hot": 1973872,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 803581,
-      "num": 205343,
+      "num": 223592,
       "word": "邓超瘦成男大了",
       "onboard_time": 1768806380,
       "rank": 11,
@@ -48,6 +48,14 @@
       "word": "安徽下霰了",
       "onboard_time": 1768792580,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 766938,
+      "num": 357113,
+      "word": "糖霜苹果",
+      "onboard_time": 1768811902,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 645040,
-      "num": 205417,
+      "num": 217192,
       "word": "沈逸 牢A",
       "onboard_time": 1768802842,
       "rank": 10,
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 428014,
-      "num": 204690,
+      "num": 210182,
       "word": "孙海洋向嫣然天使儿童医院捐款",
       "onboard_time": 1768807162,
       "rank": 16,
@@ -260,23 +268,15 @@
     },
     {
       "raw_hot": 383202,
-      "num": 184018,
+      "num": 223260,
       "word": "窦骁何超莲向徐帆敬酒",
       "onboard_time": 1768809621,
       "rank": 11,
       "category": "艺人"
     },
     {
-      "raw_hot": 357113,
-      "num": 357113,
-      "word": "糖霜苹果",
-      "onboard_time": 1768811902,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 356848,
-      "num": 204157,
+      "num": 207023,
       "word": "劣迹艺人打信息差到县域商演捞金",
       "onboard_time": 1768800922,
       "rank": 23,
@@ -297,6 +297,14 @@
       "onboard_time": 1768736663,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 336050,
+      "num": 767269,
+      "word": "深圳封存20年垃圾山开挖",
+      "onboard_time": 1768808180,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 333177,
@@ -321,14 +329,6 @@
       "onboard_time": 1768784541,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 324426,
-      "num": 755579,
-      "word": "深圳封存20年垃圾山开挖",
-      "onboard_time": 1768808180,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 318297,
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 291960,
-      "num": 179970,
+      "num": 213142,
       "word": "嫣然天使基金预算已筹满",
       "onboard_time": 1768810581,
       "rank": 13,
@@ -443,6 +443,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 255777,
+      "num": 214980,
+      "word": "姜思达回应张艺兴晚晚采访被嘲",
+      "onboard_time": 1768810822,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 253407,
+      "num": 387983,
+      "word": "沈逸回应糖霜苹果",
+      "onboard_time": 1768809200,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 253203,
       "num": 172272,
       "word": "人一定要有个小号",
@@ -457,6 +473,14 @@
       "onboard_time": 1768804881,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242108,
+      "num": 211802,
+      "word": "19岁男孩肚疼3天查出白血病",
+      "onboard_time": 1768811902,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236531,
@@ -475,8 +499,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232308,
+      "num": 232308,
+      "word": "体面人的体面一生",
+      "onboard_time": 1768809680,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232001,
-      "num": 155502,
+      "num": 204910,
       "word": "母牛去世出生3天小牛墙边独自流泪",
       "onboard_time": 1768810103,
       "rank": 20,
@@ -504,14 +536,6 @@
       "word": "天府红打人",
       "onboard_time": 1768784419,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 222309,
-      "num": 387983,
-      "word": "沈逸回应糖霜苹果",
-      "onboard_time": 1768809200,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -555,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213806,
+      "num": 257446,
+      "word": "2026春节档",
+      "onboard_time": 1768811121,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 212891,
       "num": 212891,
       "word": "64岁没老公不带孙子的真实生活",
@@ -564,11 +596,19 @@
     },
     {
       "raw_hot": 212107,
-      "num": 212107,
+      "num": 220814,
       "word": "徐良官宣巡演",
       "onboard_time": 1768807942,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 211350,
+      "num": 211350,
+      "word": "Gucci家族里的豪门姐弟",
+      "onboard_time": 1768811902,
+      "rank": 18,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 211028,
@@ -651,14 +691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190737,
-      "num": 190737,
-      "word": "体面人的体面一生",
-      "onboard_time": 1768809680,
-      "rank": 7,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 187147,
       "num": 187147,
       "word": "镖人友情演出惠英红",
@@ -715,22 +747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174052,
-      "num": 174052,
-      "word": "姜思达回应张艺兴晚晚采访被嘲",
-      "onboard_time": 1768810822,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 172127,
-      "num": 190712,
-      "word": "2026春节档",
-      "onboard_time": 1768811121,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 169989,
       "num": 169989,
       "word": "张杰未live巡回演唱会",
@@ -760,14 +776,6 @@
       "word": "老人玩手机孩子脱手坠地仍不撒手",
       "onboard_time": 1768798402,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 165237,
-      "num": 165237,
-      "word": "19岁男孩肚疼3天查出白血病",
-      "onboard_time": 1768811902,
-      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -849,6 +857,14 @@
       "onboard_time": 1768743863,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 151186,
+      "num": 151186,
+      "word": "包钢",
+      "onboard_time": 1768812502,
+      "rank": 24,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 149891,
@@ -996,7 +1012,7 @@
     },
     {
       "raw_hot": 134099,
-      "num": 186851,
+      "num": 218902,
       "word": "6人消费19元顾客道歉称赔1元",
       "onboard_time": 1768809381,
       "rank": 9,
@@ -1009,6 +1025,14 @@
       "onboard_time": 1768789821,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132412,
+      "num": 132412,
+      "word": "iPhone18Pro宣传片曝光",
+      "onboard_time": 1768812261,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 132351,
@@ -1059,14 +1083,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 128817,
-      "num": 165177,
-      "word": "Gucci家族里的豪门姐弟",
-      "onboard_time": 1768811902,
-      "rank": 18,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 127762,
       "num": 127762,
       "word": "玉茗茶骨",
@@ -1076,7 +1092,7 @@
     },
     {
       "raw_hot": 127721,
-      "num": 127721,
+      "num": 231634,
       "word": "2025年中国经济成绩单",
       "onboard_time": 1768789579,
       "rank": 34,
@@ -1105,6 +1121,14 @@
       "onboard_time": 1768794682,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 126004,
+      "num": 227904,
+      "word": "何老师不小心口误华晨宇的反应",
+      "onboard_time": 1768812082,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 125590,
@@ -1169,6 +1193,14 @@
       "onboard_time": 1768741221,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 119176,
+      "num": 119176,
+      "word": "袁悦vs斯瓦泰克",
+      "onboard_time": 1768812261,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 118918,
@@ -1579,11 +1611,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88663,
+      "num": 88663,
+      "word": "北京下雪",
+      "onboard_time": 1768812681,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88605,
       "num": 87752,
       "word": "终于有剧拍了最燃的那30年",
       "onboard_time": 1768802002,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 88037,
+      "num": 88037,
+      "word": "杨紫胡歌原声台词爆发力",
+      "onboard_time": 1768811421,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -1617,6 +1665,14 @@
       "onboard_time": 1768808900,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 86816,
+      "num": 86816,
+      "word": "云初令",
+      "onboard_time": 1768812261,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 86637,
@@ -1667,14 +1723,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 84915,
-      "num": 84915,
-      "word": "杨紫胡歌原声台词爆发力",
-      "onboard_time": 1768811421,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 84831,
       "num": 84831,
       "word": "江湖是英文无法翻译的词",
@@ -1715,6 +1763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81734,
+      "num": 81734,
+      "word": "布云朝克特澳网止步首轮",
+      "onboard_time": 1768812920,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81669,
       "num": 81669,
       "word": "神20成功着陆",
@@ -1739,11 +1795,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79760,
-      "num": 79332,
-      "word": "何老师不小心口误华晨宇的反应",
-      "onboard_time": 1768812082,
-      "rank": 43,
+      "raw_hot": 80191,
+      "num": 77887,
+      "word": "站在必死的结局接受盛大的告白",
+      "onboard_time": 1768812801,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -2187,6 +2243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 44455,
+      "num": 91414,
+      "word": "万千气象看龙江",
+      "onboard_time": 1768812502,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44113,
       "num": 108863,
       "word": "樊振东全英文交流无障碍",
@@ -2387,12 +2451,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21157,
+      "num": 88666,
+      "word": "肖战新剧小城良方新路透",
+      "onboard_time": 1768812861,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 21004,
       "num": 41829,
       "word": "虎牙伍六七说487被甩活该",
       "onboard_time": 1768747104,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 20302,
+      "num": 100495,
+      "word": "尹锡悦就首案被判5年上诉",
+      "onboard_time": 1768812981,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 19498,
+      "num": 88664,
+      "word": "台湾一老夫妇家中身亡其子嫌疑重大",
+      "onboard_time": 1768812620,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18189,
@@ -2462,6 +2550,9 @@
   "hotgov_list": [
     {
       "word": "#这则寓言习近平多次讲起#"
+    },
+    {
+      "word": "#做好冰雪文章总书记念兹在兹#"
     }
   ]
 }
