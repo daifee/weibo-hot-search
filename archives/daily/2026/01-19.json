@@ -1,6 +1,6 @@
 {
   "startTime": 1768754034427,
-  "endTime": 1768797475634,
+  "endTime": 1768801129274,
   "band_list": [
     {
       "raw_hot": 1973872,
@@ -59,6 +59,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 700148,
+      "num": 483274,
+      "word": "多地紧急叫停刨猪宴",
+      "onboard_time": 1768795822,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 685878,
       "num": 146647,
       "word": "金价",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 640857,
-      "num": 640857,
+      "num": 768912,
       "word": "B站百大UP主",
       "onboard_time": 1768788680,
       "rank": 3,
@@ -97,6 +105,14 @@
       "onboard_time": 1768786279,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 553227,
+      "num": 1088516,
+      "word": "生命树",
+      "onboard_time": 1768796122,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 527205,
@@ -123,14 +139,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 483274,
-      "num": 483274,
-      "word": "多地紧急叫停刨猪宴",
-      "onboard_time": 1768795822,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 476675,
       "num": 239768,
       "word": "比伯点赞和赛琳娜cp粉留言",
@@ -155,6 +163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 443259,
+      "num": 198296,
+      "word": "牢A",
+      "onboard_time": 1768798763,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 430701,
       "num": 190402,
       "word": "赵今麦整个北京最严厉的妈咪",
@@ -171,14 +187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 415428,
-      "num": 415428,
-      "word": "生命树",
-      "onboard_time": 1768796122,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 414325,
       "num": 245474,
       "word": "终于有人吐槽现在的婚礼流程了",
@@ -193,6 +201,14 @@
       "onboard_time": 1768779139,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362764,
+      "num": 194865,
+      "word": "胡歌有女儿后彭于晏终于急了",
+      "onboard_time": 1768797862,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 345945,
@@ -267,6 +283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 288482,
+      "num": 288482,
+      "word": "男子右脑出血被医生错开左脑",
+      "onboard_time": 1768797201,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284417,
       "num": 284417,
       "word": "吴磊工作室严正声明",
@@ -331,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232737,
+      "num": 172272,
+      "word": "人一定要有个小号",
+      "onboard_time": 1768798402,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 230844,
       "num": 230844,
       "word": "电影镖人定档春节",
@@ -345,6 +377,30 @@
       "onboard_time": 1768784419,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218504,
+      "num": 218504,
+      "word": "骂人也违法了最高可判三年",
+      "onboard_time": 1768798825,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215741,
+      "num": 169208,
+      "word": "钟楚曦 我喜欢马丁",
+      "onboard_time": 1768799002,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 214843,
+      "num": 167759,
+      "word": "劣迹艺人打信息差到县域商演捞金",
+      "onboard_time": 1768800922,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 213839,
@@ -507,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165500,
+      "num": 165500,
+      "word": "老人玩手机孩子脱手坠地仍不撒手",
+      "onboard_time": 1768798402,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165166,
       "num": 297261,
       "word": "莱顿大学排名浙大超过哈佛",
@@ -563,6 +627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 149936,
+      "num": 149936,
+      "word": "美国男子收集雨水被判处30天监禁",
+      "onboard_time": 1768800502,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 149891,
       "num": 118236,
       "word": "春节档",
@@ -577,6 +649,14 @@
       "onboard_time": 1768748122,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149129,
+      "num": 149129,
+      "word": "沈月吃了900多岁的盐",
+      "onboard_time": 1768797442,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 145616,
@@ -643,12 +723,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139185,
+      "num": 139185,
+      "word": "杨紫任申云摄影",
+      "onboard_time": 1768799781,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 136576,
       "num": 136576,
       "word": "34岁女星患子宫肌腺瘤切除子宫",
       "onboard_time": 1768780819,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136382,
+      "num": 136382,
+      "word": "刘耀文鲜衣怒马少年郎具像化了",
+      "onboard_time": 1768800562,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 136014,
+      "num": 211270,
+      "word": "女商人服刑7年后获无罪提国家赔偿",
+      "onboard_time": 1768796722,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132632,
@@ -667,20 +771,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 131901,
+      "num": 142432,
+      "word": "深圳水贝市场开始炒999.9铜条",
+      "onboard_time": 1768797862,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 130399,
+      "num": 130399,
+      "word": "让韩雪穿古装的是天才",
+      "onboard_time": 1768798224,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130336,
       "num": 117540,
       "word": "于适镖人灰白长发",
       "onboard_time": 1768791740,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 128630,
-      "num": 128630,
-      "word": "沈月吃了900多岁的盐",
-      "onboard_time": 1768797442,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 127721,
@@ -715,12 +827,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 125492,
-      "num": 125492,
-      "word": "男子右脑出血被医生错开左脑",
-      "onboard_time": 1768797201,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 125590,
+      "num": 137404,
+      "word": "Scout说LCK教练比LPL教练更好",
+      "onboard_time": 1768800562,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 125056,
@@ -731,6 +843,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 123968,
+      "num": 123968,
+      "word": "美国掀起争当中国人热潮",
+      "onboard_time": 1768800562,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123301,
       "num": 186285,
       "word": "日本最后2只大熊猫下周一回中国",
@@ -739,20 +859,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121463,
+      "num": 121463,
+      "word": "商竣程迎澳网开门红",
+      "onboard_time": 1768800502,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120066,
       "num": 217892,
       "word": "俄罗斯一地暴雪堆出公寓楼高雪坡",
       "onboard_time": 1768741221,
       "rank": 18,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 119436,
-      "num": 211270,
-      "word": "女商人服刑7年后获无罪提国家赔偿",
-      "onboard_time": 1768796722,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 118918,
@@ -787,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116523,
+      "num": 605165,
+      "word": "中央气象台三预警齐发",
+      "onboard_time": 1768797623,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114825,
       "num": 216476,
       "word": "陈冠希一家洛杉矶参加婚礼",
@@ -801,6 +929,14 @@
       "onboard_time": 1768730662,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110142,
+      "num": 110142,
+      "word": "黄晓明生理性演技",
+      "onboard_time": 1768799601,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 110124,
@@ -819,12 +955,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108799,
+      "num": 108799,
+      "word": "陈星旭一只手环抱王玉雯花絮",
+      "onboard_time": 1768800862,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107944,
       "num": 136237,
       "word": "神20飞船返回舱外观总体正常",
       "onboard_time": 1768788259,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 106329,
+      "num": 94393,
+      "word": "成毅欢瑞合约争议三大焦点",
+      "onboard_time": 1768800202,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 105566,
@@ -843,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104777,
+      "num": 94026,
+      "word": "我是王一博的兵不是王一博分博",
+      "onboard_time": 1768797982,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104312,
       "num": 131339,
       "word": "神20飞船返回东风着陆场",
@@ -857,6 +1017,14 @@
       "onboard_time": 1768788980,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101482,
+      "num": 128262,
+      "word": "孩子求抱抱遭冷漠父亲推搡",
+      "onboard_time": 1768800261,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93624,
@@ -881,6 +1049,14 @@
       "onboard_time": 1768790300,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 92432,
+      "num": 92432,
+      "word": "原来这就是修为尽散的感觉",
+      "onboard_time": 1768801103,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 92253,
@@ -1083,6 +1259,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 67164,
+      "num": 186980,
+      "word": "想坐上王安宇的副驾",
+      "onboard_time": 1768799062,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65512,
       "num": 65512,
       "word": "男女主沙发吻完办公桌吻",
@@ -1145,6 +1329,14 @@
       "onboard_time": 1768785861,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 63696,
+      "num": 156983,
+      "word": "美阻挠向中国运送机组训练设备",
+      "onboard_time": 1768799843,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 63312,
@@ -1363,6 +1555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43200,
+      "num": 182550,
+      "word": "一代人有一代人的新年礼",
+      "onboard_time": 1768799002,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 42312,
       "num": 214672,
       "word": "AL对战JDG",
@@ -1393,6 +1593,14 @@
       "onboard_time": 1768759995,
       "rank": 8,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 36550,
+      "num": 181348,
+      "word": "员工超长时间如厕被公司开除",
+      "onboard_time": 1768800261,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36289,
@@ -1449,6 +1657,14 @@
       "onboard_time": 1768740202,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 30920,
+      "num": 178900,
+      "word": "今冬以来最强雨雪冰冻来袭",
+      "onboard_time": 1768800023,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30351,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1768801129274,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 553227,
+        "num": 1088516,
+        "word": "生命树",
+        "onboard_time": 1768796122,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319476,
+        "num": 768912,
+        "word": "B站百大UP主",
+        "onboard_time": 1768788680,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 116523,
+        "num": 605165,
+        "word": "中央气象台三预警齐发",
+        "onboard_time": 1768797623,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288482,
+        "num": 288482,
+        "word": "男子右脑出血被医生错开左脑",
+        "onboard_time": 1768797201,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257870,
+        "num": 257870,
+        "word": "3部电影定档2026春节档",
+        "onboard_time": 1768793840,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 321498,
+        "num": 239862,
+        "word": "原来小学成绩差的学生是这样的",
+        "onboard_time": 1768794441,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218504,
+        "num": 218504,
+        "word": "骂人也违法了最高可判三年",
+        "onboard_time": 1768798825,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210045,
+        "num": 210045,
+        "word": "安徽下霰了",
+        "onboard_time": 1768792580,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169931,
+        "num": 207431,
+        "word": "镖人预告片公布",
+        "onboard_time": 1768789579,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136014,
+        "num": 204487,
+        "word": "女商人服刑7年后获无罪提国家赔偿",
+        "onboard_time": 1768796722,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 700148,
+        "num": 201377,
+        "word": "多地紧急叫停刨猪宴",
+        "onboard_time": 1768795822,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443259,
+        "num": 198296,
+        "word": "牢A",
+        "onboard_time": 1768798763,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362764,
+        "num": 194865,
+        "word": "胡歌有女儿后彭于晏终于急了",
+        "onboard_time": 1768797862,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 274844,
+        "num": 192342,
+        "word": "终于有人吐槽现在的婚礼流程了",
+        "onboard_time": 1768795282,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242085,
+        "num": 189632,
+        "word": "镖人",
+        "onboard_time": 1768783280,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187767,
+        "num": 187767,
+        "word": "梁小龙本想隐瞒死讯",
+        "onboard_time": 1768785681,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67164,
+        "num": 186980,
+        "word": "想坐上王安宇的副驾",
+        "onboard_time": 1768799062,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43200,
+        "num": 182550,
+        "word": "一代人有一代人的新年礼",
+        "onboard_time": 1768799002,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36550,
+        "num": 181348,
+        "word": "员工超长时间如厕被公司开除",
+        "onboard_time": 1768800261,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30920,
+        "num": 178900,
+        "word": "今冬以来最强雨雪冰冻来袭",
+        "onboard_time": 1768800023,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264648,
+        "num": 175916,
+        "word": "睡觉出现5种症状说明血糖高了",
+        "onboard_time": 1768792460,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 232737,
+        "num": 172272,
+        "word": "人一定要有个小号",
+        "onboard_time": 1768798402,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215741,
+        "num": 169208,
+        "word": "钟楚曦 我喜欢马丁",
+        "onboard_time": 1768799002,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214843,
+        "num": 167759,
+        "word": "劣迹艺人打信息差到县域商演捞金",
+        "onboard_time": 1768800922,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165500,
+        "num": 165500,
+        "word": "老人玩手机孩子脱手坠地仍不撒手",
+        "onboard_time": 1768798402,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176981,
+        "num": 164652,
+        "word": "锤娜丽莎刚订婚就再就业了",
+        "onboard_time": 1768794921,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159536,
+        "num": 159536,
+        "word": "64岁没老公不带孙子的真实生活",
+        "onboard_time": 1768795822,
+        "rank": 26,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 63696,
+        "num": 156983,
+        "word": "美阻挠向中国运送机组训练设备",
+        "onboard_time": 1768799843,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154929,
+        "num": 154929,
+        "word": "迪丽热巴超短发造型路透",
+        "onboard_time": 1768788200,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150773,
+        "num": 150773,
+        "word": "电影镖人定档春节",
+        "onboard_time": 1768789341,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149936,
+        "num": 149936,
+        "word": "美国男子收集雨水被判处30天监禁",
+        "onboard_time": 1768800502,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 149129,
+        "num": 149129,
+        "word": "沈月吃了900多岁的盐",
+        "onboard_time": 1768797442,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142861,
+        "num": 142861,
+        "word": "镖人友情演出惠英红",
+        "onboard_time": 1768793541,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131901,
+        "num": 142432,
+        "word": "深圳水贝市场开始炒999.9铜条",
+        "onboard_time": 1768797862,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142309,
+        "num": 142309,
+        "word": "吴京说镖人或是最后的武林盛宴",
+        "onboard_time": 1768797323,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139185,
+        "num": 139185,
+        "word": "杨紫任申云摄影",
+        "onboard_time": 1768799781,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 125590,
+        "num": 137404,
+        "word": "Scout说LCK教练比LPL教练更好",
+        "onboard_time": 1768800562,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136382,
+        "num": 136382,
+        "word": "刘耀文鲜衣怒马少年郎具像化了",
+        "onboard_time": 1768800562,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130399,
+        "num": 130399,
+        "word": "让韩雪穿古装的是天才",
+        "onboard_time": 1768798224,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101482,
+        "num": 128262,
+        "word": "孩子求抱抱遭冷漠父亲推搡",
+        "onboard_time": 1768800261,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127355,
+        "num": 127355,
+        "word": "比伯点赞和赛琳娜cp粉留言",
+        "onboard_time": 1768792040,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123968,
+        "num": 123968,
+        "word": "美国掀起争当中国人热潮",
+        "onboard_time": 1768800562,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121463,
+        "num": 121463,
+        "word": "商竣程迎澳网开门红",
+        "onboard_time": 1768800502,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119031,
+        "num": 119031,
+        "word": "金价波动",
+        "onboard_time": 1768786040,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110142,
+        "num": 110142,
+        "word": "黄晓明生理性演技",
+        "onboard_time": 1768799601,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108799,
+        "num": 108799,
+        "word": "陈星旭一只手环抱王玉雯花絮",
+        "onboard_time": 1768800862,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94989,
+        "num": 94989,
+        "word": "2025年GDP增长5%",
+        "onboard_time": 1768789279,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106329,
+        "num": 94393,
+        "word": "成毅欢瑞合约争议三大焦点",
+        "onboard_time": 1768800202,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104777,
+        "num": 94026,
+        "word": "我是王一博的兵不是王一博分博",
+        "onboard_time": 1768797982,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92432,
+        "num": 92432,
+        "word": "原来这就是修为尽散的感觉",
+        "onboard_time": 1768801103,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#这则寓言习近平多次讲起#"
+    }
+  }
+}

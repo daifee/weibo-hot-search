@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768797475634,
+  "endTime": 1768801129274,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -2499,6 +2499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 700148,
+      "num": 483274,
+      "word": "多地紧急叫停刨猪宴",
+      "onboard_time": 1768795822,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 699682,
       "num": 304442,
       "word": "第五人格 擦边",
@@ -2900,7 +2908,7 @@
     },
     {
       "raw_hot": 640857,
-      "num": 640857,
+      "num": 768912,
       "word": "B站百大UP主",
       "onboard_time": 1768788680,
       "rank": 3,
@@ -4017,6 +4025,14 @@
       "onboard_time": 1767840020,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 553227,
+      "num": 1088516,
+      "word": "生命树",
+      "onboard_time": 1767235820,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 553135,
@@ -5331,14 +5347,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 483274,
-      "num": 483274,
-      "word": "多地紧急叫停刨猪宴",
-      "onboard_time": 1768795822,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 482457,
       "num": 818352,
       "word": "美媒称马杜罗夫妇熟睡中被拖出卧室",
@@ -6307,6 +6315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 443259,
+      "num": 198296,
+      "word": "牢A",
+      "onboard_time": 1768798763,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 442994,
       "num": 264132,
       "word": "赵丽颖 纪梵希",
@@ -6928,14 +6944,6 @@
       "word": "肖战姜妍新剧拥抱路透",
       "onboard_time": 1768739482,
       "rank": 4,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 415428,
-      "num": 415428,
-      "word": "生命树",
-      "onboard_time": 1767235820,
-      "rank": 30,
       "category": "剧集"
     },
     {
@@ -8281,6 +8289,14 @@
       "onboard_time": 1768269861,
       "rank": 25,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 362764,
+      "num": 194865,
+      "word": "胡歌有女儿后彭于晏终于急了",
+      "onboard_time": 1768797862,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 362732,
@@ -11097,6 +11113,14 @@
       "onboard_time": 1768117581,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 288482,
+      "num": 288482,
+      "word": "男子右脑出血被医生错开左脑",
+      "onboard_time": 1768797201,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 288384,
@@ -13995,6 +14019,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 232737,
+      "num": 172272,
+      "word": "人一定要有个小号",
+      "onboard_time": 1768798402,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 232456,
       "num": 1005637,
       "word": "吃凉拌菜也减不了肥的原因",
@@ -15027,6 +15059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218504,
+      "num": 218504,
+      "word": "骂人也违法了最高可判三年",
+      "onboard_time": 1768798825,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218061,
       "num": 218061,
       "word": "聂卫平战日本特意穿了国乒球衣",
@@ -15195,6 +15235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215741,
+      "num": 169208,
+      "word": "钟楚曦 我喜欢马丁",
+      "onboard_time": 1768799002,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215582,
       "num": 737597,
       "word": "骄阳似我刷新腾讯纪录",
@@ -15233,6 +15281,14 @@
       "onboard_time": 1768534761,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214843,
+      "num": 167759,
+      "word": "劣迹艺人打信息差到县域商演捞金",
+      "onboard_time": 1768800922,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 214838,
@@ -21291,6 +21347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165500,
+      "num": 165500,
+      "word": "老人玩手机孩子脱手坠地仍不撒手",
+      "onboard_time": 1768798402,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165483,
       "num": 165483,
       "word": "U23男足创造历史",
@@ -23731,6 +23795,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 149936,
+      "num": 149936,
+      "word": "美国男子收集雨水被判处30天监禁",
+      "onboard_time": 1768800502,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 149891,
       "num": 118236,
       "word": "春节档",
@@ -23921,6 +23993,14 @@
       "onboard_time": 1768644501,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149129,
+      "num": 149129,
+      "word": "沈月吃了900多岁的盐",
+      "onboard_time": 1768797442,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 149011,
@@ -26091,6 +26171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139185,
+      "num": 139185,
+      "word": "杨紫任申云摄影",
+      "onboard_time": 1768799781,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 139183,
       "num": 112542,
       "word": "华晨宇大喊给我看爽了",
@@ -26643,6 +26731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136382,
+      "num": 136382,
+      "word": "刘耀文鲜衣怒马少年郎具像化了",
+      "onboard_time": 1768800562,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 136367,
       "num": 304000,
       "word": "岳云鹏实名羡慕邓佳鑫脸小",
@@ -26753,6 +26849,14 @@
       "onboard_time": 1767338900,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136014,
+      "num": 211270,
+      "word": "女商人服刑7年后获无罪提国家赔偿",
+      "onboard_time": 1768796722,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135995,
@@ -27739,6 +27843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 131901,
+      "num": 142432,
+      "word": "深圳水贝市场开始炒999.9铜条",
+      "onboard_time": 1768797862,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 131891,
       "num": 167758,
       "word": "从晋江文里抠出来的现偶男女主",
@@ -28081,6 +28193,14 @@
       "onboard_time": 1767584241,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 130399,
+      "num": 130399,
+      "word": "让韩雪穿古装的是天才",
+      "onboard_time": 1768798224,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 130381,
@@ -28545,14 +28665,6 @@
       "onboard_time": 1767771500,
       "rank": 40,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 128630,
-      "num": 128630,
-      "word": "沈月吃了900多岁的盐",
-      "onboard_time": 1768797442,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 128572,
@@ -29427,6 +29539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125590,
+      "num": 137404,
+      "word": "Scout说LCK教练比LPL教练更好",
+      "onboard_time": 1768800562,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125583,
       "num": 125583,
       "word": "黑泽杀回短剧赛道",
@@ -29473,14 +29593,6 @@
       "onboard_time": 1768539622,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125492,
-      "num": 125492,
-      "word": "男子右脑出血被医生错开左脑",
-      "onboard_time": 1768797201,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125463,
@@ -29833,6 +29945,14 @@
       "onboard_time": 1767951260,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 123968,
+      "num": 123968,
+      "word": "美国掀起争当中国人热潮",
+      "onboard_time": 1768800562,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 123938,
@@ -30611,6 +30731,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 121463,
+      "num": 121463,
+      "word": "商竣程迎澳网开门红",
+      "onboard_time": 1768800502,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121461,
       "num": 121461,
       "word": "drg对战estar",
@@ -31257,14 +31385,6 @@
       "onboard_time": 1768284800,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119436,
-      "num": 211270,
-      "word": "女商人服刑7年后获无罪提国家赔偿",
-      "onboard_time": 1768796722,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119418,
@@ -32121,6 +32241,14 @@
       "onboard_time": 1767223758,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 116523,
+      "num": 605165,
+      "word": "中央气象台三预警齐发",
+      "onboard_time": 1768797623,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116464,
@@ -34235,6 +34363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110142,
+      "num": 110142,
+      "word": "黄晓明生理性演技",
+      "onboard_time": 1768799601,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110135,
       "num": 110135,
       "word": "仙逆122",
@@ -34601,6 +34737,14 @@
       "onboard_time": 1767569539,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108799,
+      "num": 108799,
+      "word": "陈星旭一只手环抱王玉雯花絮",
+      "onboard_time": 1768800862,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 108785,
@@ -35483,6 +35627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 106329,
+      "num": 94393,
+      "word": "成毅欢瑞合约争议三大焦点",
+      "onboard_time": 1768800202,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106318,
       "num": 170394,
       "word": "车主被殴打后开车撞碾致1死1伤",
@@ -36129,6 +36281,14 @@
       "onboard_time": 1768622539,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104777,
+      "num": 94026,
+      "word": "我是王一博的兵不是王一博分博",
+      "onboard_time": 1768797982,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 104771,
@@ -37489,6 +37649,14 @@
       "onboard_time": 1767615021,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101482,
+      "num": 128262,
+      "word": "孩子求抱抱遭冷漠父亲推搡",
+      "onboard_time": 1768800261,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101480,
@@ -41737,6 +41905,14 @@
       "onboard_time": 1767243740,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92432,
+      "num": 92432,
+      "word": "原来这就是修为尽散的感觉",
+      "onboard_time": 1768801103,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 92430,
@@ -51203,6 +51379,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 67164,
+      "num": 186980,
+      "word": "想坐上王安宇的副驾",
+      "onboard_time": 1768799062,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67149,
       "num": 67149,
       "word": "周深做歌手做导师都很权威",
@@ -52145,6 +52329,14 @@
       "onboard_time": 1767450386,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 63696,
+      "num": 156983,
+      "word": "美阻挠向中国运送机组训练设备",
+      "onboard_time": 1768799843,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 63687,
@@ -55859,6 +56051,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 43200,
+      "num": 182550,
+      "word": "一代人有一代人的新年礼",
+      "onboard_time": 1768799002,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 43152,
       "num": 155105,
       "word": "特朗普称实时观看抓捕马杜罗行动",
@@ -57155,6 +57355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36550,
+      "num": 181348,
+      "word": "员工超长时间如厕被公司开除",
+      "onboard_time": 1768800261,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36485,
       "num": 169397,
       "word": "当地通报越野赛车手驾车失控致14伤",
@@ -58289,6 +58497,14 @@
       "onboard_time": 1768740202,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 30920,
+      "num": 178900,
+      "word": "今冬以来最强雨雪冰冻来袭",
+      "onboard_time": 1768800023,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30866,
