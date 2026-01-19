@@ -1,0 +1,410 @@
+{
+  "runTime": 1768809019506,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 435104,
+        "num": 1069616,
+        "word": "生命树",
+        "onboard_time": 1768796122,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223216,
+        "num": 792802,
+        "word": "B站百大UP主",
+        "onboard_time": 1768788680,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 75380,
+        "num": 599315,
+        "word": "中央气象台三预警齐发",
+        "onboard_time": 1768797623,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239174,
+        "num": 239174,
+        "word": "男子右脑出血被医生错开左脑",
+        "onboard_time": 1768797201,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212107,
+        "num": 212107,
+        "word": "徐良官宣巡演",
+        "onboard_time": 1768807942,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200522,
+        "num": 200522,
+        "word": "学校已经发展成这样了吗",
+        "onboard_time": 1768805423,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186026,
+        "num": 186026,
+        "word": "美国男子收集雨水被判处30天监禁",
+        "onboard_time": 1768800502,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 180757,
+        "num": 180757,
+        "word": "苏醒告别快乐老友记",
+        "onboard_time": 1768802543,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171040,
+        "num": 171040,
+        "word": "安徽下霰了",
+        "onboard_time": 1768792580,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138285,
+        "num": 170643,
+        "word": "西班牙高铁事故死亡人数升至39人",
+        "onboard_time": 1768806380,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 661903,
+        "num": 168786,
+        "word": "邓超瘦成男大了",
+        "onboard_time": 1768806380,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 586686,
+        "num": 167400,
+        "word": "沈逸 牢A",
+        "onboard_time": 1768802842,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428014,
+        "num": 166281,
+        "word": "孙海洋向嫣然天使儿童医院捐款",
+        "onboard_time": 1768807162,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407708,
+        "num": 164579,
+        "word": "某地一男孩用凳子猛砸同学后脑勺",
+        "onboard_time": 1768806261,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276817,
+        "num": 163073,
+        "word": "胡歌有女儿后彭于晏终于急了",
+        "onboard_time": 1768797862,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 314083,
+        "num": 161884,
+        "word": "牢A",
+        "onboard_time": 1768798763,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161577,
+        "num": 161577,
+        "word": "多方回应学生用板凳攻击同学后脑",
+        "onboard_time": 1768808001,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141202,
+        "num": 141202,
+        "word": "嫣然天使基金受益女孩发视频",
+        "onboard_time": 1768806802,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136413,
+        "num": 136413,
+        "word": "新年美甲",
+        "onboard_time": 1768807821,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 84241,
+        "num": 135607,
+        "word": "深圳封存20年垃圾山开挖",
+        "onboard_time": 1768808180,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246339,
+        "num": 134715,
+        "word": "劣迹艺人打信息差到县域商演捞金",
+        "onboard_time": 1768800922,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204564,
+        "num": 133563,
+        "word": "奚梦瑶晒当妈后的幸福变化",
+        "onboard_time": 1768804881,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194938,
+        "num": 133106,
+        "word": "睡觉出现5种症状说明血糖高了",
+        "onboard_time": 1768792460,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124727,
+        "num": 131883,
+        "word": "时团路透扑面而来的青春感",
+        "onboard_time": 1768808661,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100525,
+        "num": 131182,
+        "word": "尚界Z7亮点前瞻",
+        "onboard_time": 1768806561,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 150080,
+        "num": 129737,
+        "word": "痞幼回应恋爱脑",
+        "onboard_time": 1768806621,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148470,
+        "num": 128096,
+        "word": "人一定要有个小号",
+        "onboard_time": 1768798402,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128070,
+        "num": 128070,
+        "word": "8岁哥哥带4个月大弟弟坐地铁",
+        "onboard_time": 1768801824,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125414,
+        "num": 125414,
+        "word": "牢A回应",
+        "onboard_time": 1768803681,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117265,
+        "num": 117265,
+        "word": "错开左脑男子家属索赔300万遭拒",
+        "onboard_time": 1768806981,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113430,
+        "num": 113430,
+        "word": "蔡依林抢票",
+        "onboard_time": 1768808719,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111093,
+        "num": 111093,
+        "word": "镖人",
+        "onboard_time": 1768783280,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92301,
+        "num": 107056,
+        "word": "成都一男子殴打5人被立案调查",
+        "onboard_time": 1768805300,
+        "rank": 32,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 103947,
+        "num": 103947,
+        "word": "虞书欣饭撒",
+        "onboard_time": 1768808422,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103870,
+        "num": 103870,
+        "word": "只有有洁癖的人才懂维嘉的含金量",
+        "onboard_time": 1768801282,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91936,
+        "num": 103553,
+        "word": "A股超3500股上涨",
+        "onboard_time": 1768808240,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103442,
+        "num": 103442,
+        "word": "镖人领衔主演孙艺洲",
+        "onboard_time": 1768802122,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97042,
+        "num": 103373,
+        "word": "杨紫生命树敬礼转场",
+        "onboard_time": 1768807521,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23087,
+        "num": 103292,
+        "word": "娜扎抛媚眼给瞎子看",
+        "onboard_time": 1768808781,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88108,
+        "num": 103219,
+        "word": "吃了30年猪肉第一次认识猪肉",
+        "onboard_time": 1768804102,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62342,
+        "num": 103189,
+        "word": "儿童医院挂满玩偶的保安走红后现状",
+        "onboard_time": 1768807582,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103121,
+        "num": 103121,
+        "word": "跑男的尽头是春晚正式编",
+        "onboard_time": 1768803861,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 81430,
+        "num": 100129,
+        "word": "伊朗拟永久退网",
+        "onboard_time": 1768808961,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21338,
+        "num": 100061,
+        "word": "北京或160个小时气温在零下",
+        "onboard_time": 1768808961,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100026,
+        "num": 100026,
+        "word": "马年春晚",
+        "onboard_time": 1768807702,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96078,
+        "num": 96078,
+        "word": "3部电影定档2026春节档",
+        "onboard_time": 1768793840,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 83414,
+        "num": 87616,
+        "word": "王者第一个全皮英雄",
+        "onboard_time": 1768808842,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87087,
+        "num": 87087,
+        "word": "外交部回应美方对欧洲八国加征关税",
+        "onboard_time": 1768808900,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86637,
+        "num": 86637,
+        "word": "张杰新春场是麻将局",
+        "onboard_time": 1768807343,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85864,
+        "num": 85864,
+        "word": "陈建斌在机场拉着蒋勤勤跑",
+        "onboard_time": 1768807461,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#这则寓言习近平多次讲起#"
+    }
+  }
+}

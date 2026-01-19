@@ -1,6 +1,6 @@
 {
   "startTime": 1768754034427,
-  "endTime": 1768808234418,
+  "endTime": 1768809019506,
   "band_list": [
     {
       "raw_hot": 1973872,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 661903,
+      "num": 205343,
+      "word": "邓超瘦成男大了",
+      "onboard_time": 1768806380,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 645040,
       "num": 205417,
       "word": "沈逸 牢A",
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 640857,
-      "num": 778260,
+      "num": 792802,
       "word": "B站百大UP主",
       "onboard_time": 1768788680,
       "rank": 3,
@@ -145,14 +153,6 @@
       "onboard_time": 1768786040,
       "rank": 6,
       "category": "财经"
-    },
-    {
-      "raw_hot": 519376,
-      "num": 205343,
-      "word": "邓超瘦成男大了",
-      "onboard_time": 1768806380,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 515519,
@@ -211,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 428014,
+      "num": 204690,
+      "word": "孙海洋向嫣然天使儿童医院捐款",
+      "onboard_time": 1768807162,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 425965,
       "num": 210290,
       "word": "锤娜丽莎刚订婚就再就业了",
@@ -227,7 +235,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 404281,
+      "raw_hot": 407708,
       "num": 205162,
       "word": "某地一男孩用凳子猛砸同学后脑勺",
       "onboard_time": 1768806261,
@@ -387,14 +395,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 261785,
-      "num": 204690,
-      "word": "孙海洋向嫣然天使儿童医院捐款",
-      "onboard_time": 1768807162,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 253203,
       "num": 172272,
       "word": "人一定要有个小号",
@@ -497,6 +497,14 @@
       "onboard_time": 1768795822,
       "rank": 36,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 212107,
+      "num": 212107,
+      "word": "徐良官宣巡演",
+      "onboard_time": 1768807942,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 211028,
@@ -683,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161577,
+      "num": 161577,
+      "word": "多方回应学生用板凳攻击同学后脑",
+      "onboard_time": 1768808001,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160866,
       "num": 160866,
       "word": "只有有洁癖的人才懂维嘉的含金量",
@@ -803,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141202,
+      "num": 141202,
+      "word": "嫣然天使基金受益女孩发视频",
+      "onboard_time": 1768806802,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140647,
       "num": 140647,
       "word": "博主嘴哥为嫣然医院捐款10万",
@@ -843,12 +867,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138285,
+      "num": 205564,
+      "word": "西班牙高铁事故死亡人数升至39人",
+      "onboard_time": 1768806380,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 136576,
       "num": 136576,
       "word": "34岁女星患子宫肌腺瘤切除子宫",
       "onboard_time": 1768780819,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136413,
+      "num": 136413,
+      "word": "新年美甲",
+      "onboard_time": 1768807821,
+      "rank": 42,
+      "category": "美妆"
     },
     {
       "raw_hot": 136382,
@@ -971,12 +1011,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125414,
+      "num": 125414,
+      "word": "牢A回应",
+      "onboard_time": 1768803681,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125056,
       "num": 218131,
       "word": "改善骨盆前倾 卧英雄式",
       "onboard_time": 1768732282,
       "rank": 12,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 124727,
+      "num": 131883,
+      "word": "时团路透扑面而来的青春感",
+      "onboard_time": 1768808661,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 123968,
@@ -995,14 +1051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122077,
-      "num": 205657,
-      "word": "徐良官宣巡演",
-      "onboard_time": 1768807942,
-      "rank": 8,
-      "category": "演出"
-    },
-    {
       "raw_hot": 121463,
       "num": 121463,
       "word": "商竣程迎澳网开门红",
@@ -1016,22 +1064,6 @@
       "word": "俄罗斯一地暴雪堆出公寓楼高雪坡",
       "onboard_time": 1768741221,
       "rank": 18,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 119809,
-      "num": 119809,
-      "word": "牢A回应",
-      "onboard_time": 1768803681,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119350,
-      "num": 205564,
-      "word": "西班牙高铁事故死亡人数升至39人",
-      "onboard_time": 1768806380,
-      "rank": 9,
       "category": "海外新闻"
     },
     {
@@ -1065,6 +1097,14 @@
       "onboard_time": 1768777877,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117265,
+      "num": 133397,
+      "word": "错开左脑男子家属索赔300万遭拒",
+      "onboard_time": 1768806981,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116523,
@@ -1105,6 +1145,14 @@
       "onboard_time": 1768741943,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113430,
+      "num": 113430,
+      "word": "蔡依林抢票",
+      "onboard_time": 1768808719,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 112510,
@@ -1227,6 +1275,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 103947,
+      "num": 103947,
+      "word": "虞书欣饭撒",
+      "onboard_time": 1768808422,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103656,
       "num": 103656,
       "word": "湖人战胜猛龙",
@@ -1241,30 +1297,6 @@
       "onboard_time": 1768788980,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 98751,
-      "num": 97660,
-      "word": "新年美甲",
-      "onboard_time": 1768807821,
-      "rank": 42,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 97783,
-      "num": 97783,
-      "word": "嫣然天使基金受益女孩发视频",
-      "onboard_time": 1768806802,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97200,
-      "num": 97200,
-      "word": "多方回应学生用板凳攻击同学后脑",
-      "onboard_time": 1768808001,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95800,
@@ -1315,6 +1347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 92301,
+      "num": 107720,
+      "word": "成都一男子殴打5人被立案调查",
+      "onboard_time": 1768805300,
+      "rank": 42,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 92253,
       "num": 118271,
       "word": "易易紫曝男明星很少动真心",
@@ -1323,20 +1363,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 91936,
+      "num": 103553,
+      "word": "A股超3500股上涨",
+      "onboard_time": 1768808240,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 91805,
       "num": 117638,
       "word": "金饰价格涨到1451元",
       "onboard_time": 1768794620,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 91353,
-      "num": 107720,
-      "word": "成都一男子殴打5人被立案调查",
-      "onboard_time": 1768805300,
-      "rank": 42,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 91030,
@@ -1459,6 +1499,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87087,
+      "num": 87087,
+      "word": "外交部回应美方对欧洲八国加征关税",
+      "onboard_time": 1768808900,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 86637,
+      "num": 204480,
+      "word": "张杰新春场是麻将局",
+      "onboard_time": 1768807343,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 85864,
+      "num": 101911,
+      "word": "陈建斌在机场拉着蒋勤勤跑",
+      "onboard_time": 1768807461,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85828,
       "num": 177516,
       "word": "海南免税金镯省1.3万",
@@ -1499,6 +1563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 84241,
+      "num": 135607,
+      "word": "深圳封存20年垃圾山开挖",
+      "onboard_time": 1768808180,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83910,
       "num": 215600,
       "word": "茶颜悦色回应在北上深开店传闻",
@@ -1515,12 +1587,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 83414,
+      "num": 87616,
+      "word": "王者第一个全皮英雄",
+      "onboard_time": 1768808842,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 81669,
       "num": 81669,
       "word": "神20成功着陆",
       "onboard_time": 1768804461,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 81430,
+      "num": 100129,
+      "word": "伊朗拟永久退网",
+      "onboard_time": 1768808961,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 81028,
@@ -1635,14 +1723,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 73018,
-      "num": 101911,
-      "word": "陈建斌在机场拉着蒋勤勤跑",
-      "onboard_time": 1768807461,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 72772,
       "num": 131325,
       "word": "樊振东打球把程靖淇震撼到语无伦次",
@@ -1665,14 +1745,6 @@
       "onboard_time": 1768807643,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 68206,
-      "num": 204480,
-      "word": "张杰新春场是麻将局",
-      "onboard_time": 1768807343,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 67486,
@@ -1787,11 +1859,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62571,
-      "num": 133397,
-      "word": "错开左脑男子家属索赔300万遭拒",
-      "onboard_time": 1768806981,
-      "rank": 26,
+      "raw_hot": 62342,
+      "num": 204294,
+      "word": "儿童医院挂满玩偶的保安走红后现状",
+      "onboard_time": 1768807582,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2035,14 +2107,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 37024,
-      "num": 98204,
-      "word": "深圳封存20年垃圾山开挖",
-      "onboard_time": 1768808180,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36289,
       "num": 179925,
       "word": "小伙为克服自卑在地铁上演讲",
@@ -2131,20 +2195,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 28828,
-      "num": 204294,
-      "word": "儿童医院挂满玩偶的保安走红后现状",
-      "onboard_time": 1768807582,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26560,
       "num": 144660,
       "word": "央视揭露菜商使用含毒农药",
       "onboard_time": 1768801222,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23087,
+      "num": 103292,
+      "word": "娜扎抛媚眼给瞎子看",
+      "onboard_time": 1768808781,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 22861,
@@ -2161,6 +2225,14 @@
       "onboard_time": 1768750700,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21338,
+      "num": 100061,
+      "word": "北京或160个小时气温在零下",
+      "onboard_time": 1768808961,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21004,
