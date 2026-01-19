@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/20 00:39:28 ~ 2026/01/20 05:29:18
+本榜单时间：2026/01/20 00:39:28 ~ 2026/01/20 05:42:30
 </p>
 </blockquote>
 <p>
@@ -177,14 +177,14 @@ MTJJ回应（热度：79367）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E6%AD%8C%E6%89%8B2026%E9%A6%96%E5%8F%91%E5%B7%B2%E7%A1%AE%E5%AE%9A%23" target="weibo">
-网传歌手2026首发已确定（热度：70767）
+<a href="https://s.weibo.com/weibo?q=%2321%E5%B9%B4%E5%89%8D%E8%A2%AB%E4%BD%95%E7%82%85%E5%BD%93%E8%A1%97%E5%86%B7%E8%84%B8%E4%BA%86%23" target="weibo">
+21年前被何炅当街冷脸了（热度：71677）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2321%E5%B9%B4%E5%89%8D%E8%A2%AB%E4%BD%95%E7%82%85%E5%BD%93%E8%A1%97%E5%86%B7%E8%84%B8%E4%BA%86%23" target="weibo">
-21年前被何炅当街冷脸了（热度：69430）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E6%AD%8C%E6%89%8B2026%E9%A6%96%E5%8F%91%E5%B7%B2%E7%A1%AE%E5%AE%9A%23" target="weibo">
+网传歌手2026首发已确定（热度：70767）
 </a>
 </li>
 
@@ -375,6 +375,12 @@ MTJJ回应（热度：79367）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%BF%E6%9D%BF%E5%87%B3%E6%89%93%E4%BA%BA%E5%AD%A6%E7%94%9F%E5%B7%B2%E8%A2%AB%E5%8A%9D%E9%80%80%23" target="weibo">
+拿板凳打人学生已被劝退（热度：16439）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%AE%89%E5%BE%B7%E7%83%88%23" target="weibo">
 我的朋友安德烈（热度：15842）
 </a>
@@ -399,12 +405,6 @@ MTJJ回应（热度：79367）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%BF%E6%9D%BF%E5%87%B3%E6%89%93%E4%BA%BA%E5%AD%A6%E7%94%9F%E5%B7%B2%E8%A2%AB%E5%8A%9D%E9%80%80%23" target="weibo">
-拿板凳打人学生已被劝退（热度：14147）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%83%85%E6%80%8E%E4%B9%88%E7%BF%BB%E8%AF%91%23" target="weibo">
 爱情怎么翻译（热度：13366）
 </a>
@@ -424,7 +424,7 @@ MTJJ回应（热度：79367）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E4%BD%8E%E8%BD%A819%E7%BB%84%E5%8D%AB%E6%98%9F%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F%23" target="weibo">
-卫星互联网低轨19组卫星发射成功（热度：7912）
+卫星互联网低轨19组卫星发射成功（热度：8628）
 </a>
 </li>
 

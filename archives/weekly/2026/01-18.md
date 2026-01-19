@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/18 00:32:47 ~ 2026/01/20 05:29:18
+本榜单时间：2026/01/18 00:32:47 ~ 2026/01/20 05:42:30
 </p>
 </blockquote>
 <p>
@@ -5601,6 +5601,12 @@ WTT多哈球星挑战赛（热度：19118）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%BF%E6%9D%BF%E5%87%B3%E6%89%93%E4%BA%BA%E5%AD%A6%E7%94%9F%E5%B7%B2%E8%A2%AB%E5%8A%9D%E9%80%80%23" target="weibo">
+拿板凳打人学生已被劝退（热度：16439）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%85%89%E5%A4%A7%E8%B5%8F%23" target="weibo">
 时光大赏（热度：16412）
 </a>
@@ -5645,12 +5651,6 @@ U23亚洲杯（热度：14908）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E8%80%85%E7%A7%B0%E6%9F%AC%E5%9F%94%E5%AF%A8%E9%83%A8%E5%88%86%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%E6%89%93%E5%BC%80%E5%A4%A7%E9%97%A8%23" target="weibo">
 知情者称柬埔寨部分电诈园区打开大门（热度：14438）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%BF%E6%9D%BF%E5%87%B3%E6%89%93%E4%BA%BA%E5%AD%A6%E7%94%9F%E5%B7%B2%E8%A2%AB%E5%8A%9D%E9%80%80%23" target="weibo">
-拿板凳打人学生已被劝退（热度：14147）
 </a>
 </li>
 
