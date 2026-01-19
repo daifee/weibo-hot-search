@@ -1,6 +1,6 @@
 {
   "startTime": 1768754034427,
-  "endTime": 1768834506514,
+  "endTime": 1768836916772,
   "band_list": [
     {
       "raw_hot": 1973872,
@@ -137,6 +137,14 @@
       "onboard_time": 1768789279,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 704679,
+      "num": 1112748,
+      "word": "警方通报中山一货车碰撞多车",
+      "onboard_time": 1768836021,
+      "rank": 0,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 700148,
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 487805,
-      "num": 124303,
+      "num": 203843,
       "word": "李亚鹏",
       "onboard_time": 1768816881,
       "rank": 22,
@@ -353,6 +361,14 @@
       "onboard_time": 1768813761,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 445638,
+      "num": 105632,
+      "word": "牢A提醒美加留学生",
+      "onboard_time": 1768834942,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 430701,
@@ -683,6 +699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 257124,
+      "num": 257124,
+      "word": "猫的树太会拍了",
+      "onboard_time": 1768833921,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255777,
       "num": 214980,
       "word": "姜思达回应张艺兴晚晚采访被嘲",
@@ -843,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215145,
+      "num": 627241,
+      "word": "嫣然儿医医护人员发声",
+      "onboard_time": 1768831641,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213839,
       "num": 142459,
       "word": "张碧晨 庆功宴",
@@ -931,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202722,
+      "num": 176014,
+      "word": "左奇函高富帅变装",
+      "onboard_time": 1768836679,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202535,
       "num": 142149,
       "word": "虞书欣blossom幕后记录",
@@ -939,12 +979,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202281,
+      "num": 214824,
+      "word": "羽生结弦亲吻冰面的最后一吻",
+      "onboard_time": 1768835062,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201282,
       "num": 201282,
       "word": "杨紫第一次换角色头像",
       "onboard_time": 1768833561,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201191,
+      "num": 618107,
+      "word": "MTJJ回应",
+      "onboard_time": 1768833082,
+      "rank": 9,
+      "category": "动漫"
     },
     {
       "raw_hot": 200922,
@@ -1155,14 +1211,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 169400,
-      "num": 627241,
-      "word": "嫣然儿医医护人员发声",
-      "onboard_time": 1768831641,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 169009,
       "num": 303254,
       "word": "6人就餐仅花19元老板要求带走垃圾",
@@ -1291,14 +1339,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 152241,
-      "num": 618107,
-      "word": "MTJJ回应",
-      "onboard_time": 1768833082,
-      "rank": 9,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 151186,
       "num": 151186,
       "word": "包钢",
@@ -1353,6 +1393,14 @@
       "onboard_time": 1768823181,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 147794,
+      "num": 301391,
+      "word": "美国近7成流浪汉曾是中产",
+      "onboard_time": 1768833803,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 145616,
@@ -1611,6 +1659,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 129960,
+      "num": 129960,
+      "word": "美国主播力挺牢A",
+      "onboard_time": 1768822101,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 129762,
+      "num": 129762,
+      "word": "贺峻霖力证不是AI",
+      "onboard_time": 1768835901,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129599,
       "num": 144886,
       "word": "济南下暴雨梨花针了",
@@ -1625,14 +1689,6 @@
       "onboard_time": 1768832904,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128175,
-      "num": 128175,
-      "word": "美国主播力挺牢A",
-      "onboard_time": 1768822101,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 128012,
@@ -1907,6 +1963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112180,
+      "num": 112180,
+      "word": "遗憾怎么写最刀",
+      "onboard_time": 1768835182,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111862,
       "num": 128262,
       "word": "孩子求抱抱遭冷漠父亲推搡",
@@ -1937,6 +2001,14 @@
       "onboard_time": 1768816341,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110308,
+      "num": 105318,
+      "word": "牢A提醒留学生办证不要勾捐献",
+      "onboard_time": 1768836021,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 110142,
@@ -2001,14 +2073,6 @@
       "onboard_time": 1768824741,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108754,
-      "num": 108754,
-      "word": "猫的树太会拍了",
-      "onboard_time": 1768833921,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 108571,
@@ -2363,6 +2427,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93815,
+      "num": 93815,
+      "word": "叶某斌偷渡至柬埔寨从事电诈被刑拘",
+      "onboard_time": 1768834222,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93720,
+      "num": 93720,
+      "word": "刘宇宁录春晚被逗红温了",
+      "onboard_time": 1768836561,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93624,
       "num": 132876,
       "word": "警方通报鄱阳湖野生动物被投毒",
@@ -2635,20 +2715,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87716,
+      "num": 92926,
+      "word": "裴轸醉酒",
+      "onboard_time": 1768836442,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87635,
       "num": 87635,
       "word": "深圳的烧烤已经进化成这样了吗",
       "onboard_time": 1768803322,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 87208,
-      "num": 87208,
-      "word": "叶某斌偷渡至柬埔寨从事电诈被刑拘",
-      "onboard_time": 1768834222,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87200,
@@ -2665,6 +2745,14 @@
       "onboard_time": 1768808900,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 87016,
+      "num": 92921,
+      "word": "李登科曝进豪门都有考察期",
+      "onboard_time": 1768834762,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 86816,
@@ -2931,6 +3019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78197,
+      "num": 92914,
+      "word": "你好星期六",
+      "onboard_time": 1768836801,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 78186,
       "num": 86665,
       "word": "金饰克价突破1459元",
@@ -3035,6 +3131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74734,
+      "num": 92907,
+      "word": "邓莎说如果没有孩子婚姻会更短",
+      "onboard_time": 1768836500,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74008,
       "num": 74008,
       "word": "欧洲被特朗普打脸了",
@@ -3065,6 +3169,14 @@
       "onboard_time": 1768786880,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72695,
+      "num": 92912,
+      "word": "警方通报母亲赴柬埔寨救子",
+      "onboard_time": 1768835182,
+      "rank": 48,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 72690,
@@ -3691,14 +3803,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 27418,
-      "num": 301391,
-      "word": "美国近7成流浪汉曾是中产",
-      "onboard_time": 1768833803,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 26589,
       "num": 81449,
       "word": "女孩独自开门陌生男子执意闯入",
@@ -3865,6 +3969,14 @@
       "onboard_time": 1768789939,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14438,
+      "num": 92932,
+      "word": "知情者称柬埔寨部分电诈园区打开大门",
+      "onboard_time": 1768836381,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9378,

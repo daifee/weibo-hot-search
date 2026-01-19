@@ -1,0 +1,410 @@
+{
+  "runTime": 1768836916772,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 704679,
+        "num": 1112748,
+        "word": "警方通报中山一货车碰撞多车",
+        "onboard_time": 1768836021,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 290669,
+        "num": 797035,
+        "word": "人民日报评美国斩杀线",
+        "onboard_time": 1768816102,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 5007,
+        "num": 617684,
+        "word": "中国GDP跨越140万亿元关口",
+        "onboard_time": 1768790422,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 326793,
+        "num": 326793,
+        "word": "蔡徐坤印尼节目",
+        "onboard_time": 1768831943,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257124,
+        "num": 257124,
+        "word": "猫的树太会拍了",
+        "onboard_time": 1768833921,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215145,
+        "num": 215145,
+        "word": "嫣然儿医医护人员发声",
+        "onboard_time": 1768831641,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202281,
+        "num": 214824,
+        "word": "羽生结弦亲吻冰面的最后一吻",
+        "onboard_time": 1768835062,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201191,
+        "num": 214222,
+        "word": "MTJJ回应",
+        "onboard_time": 1768833082,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 147794,
+        "num": 213290,
+        "word": "美国近7成流浪汉曾是中产",
+        "onboard_time": 1768833803,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 113340,
+        "num": 212059,
+        "word": "财经大V金永荣被罚没8300万",
+        "onboard_time": 1768832604,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 805757,
+        "num": 211556,
+        "word": "周杰伦昆凌 生理性喜欢",
+        "onboard_time": 1768827081,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58065,
+        "num": 210508,
+        "word": "第一次见在手机上跳踢踏舞",
+        "onboard_time": 1768831523,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 673125,
+        "num": 209363,
+        "word": "杨紫换头像",
+        "onboard_time": 1768830563,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 410052,
+        "num": 208869,
+        "word": "关晓彤第一次在红毯戴帽子",
+        "onboard_time": 1768824201,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 294231,
+        "num": 207668,
+        "word": "官方通报学生用板凳砸同学后脑",
+        "onboard_time": 1768830262,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 112546,
+        "num": 206688,
+        "word": "神20舷窗裂纹维修细节披露",
+        "onboard_time": 1768830141,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 256738,
+        "num": 205741,
+        "word": "轧戏",
+        "onboard_time": 1768823061,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247440,
+        "num": 205023,
+        "word": "很爱吃但巨发胖的东西",
+        "onboard_time": 1768822582,
+        "rank": 17,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 245308,
+        "num": 204494,
+        "word": "成都警方通报16岁男子殴打5人",
+        "onboard_time": 1768830323,
+        "rank": 18,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 203843,
+        "num": 203843,
+        "word": "李亚鹏",
+        "onboard_time": 1768816881,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283481,
+        "num": 194515,
+        "word": "包文婧回应女儿撞脸吴映洁",
+        "onboard_time": 1768829843,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180453,
+        "num": 180453,
+        "word": "糖霜苹果",
+        "onboard_time": 1768811902,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202722,
+        "num": 176014,
+        "word": "左奇函高富帅变装",
+        "onboard_time": 1768836679,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167390,
+        "num": 167390,
+        "word": "6岁男童在医院补牙时钻针脱落",
+        "onboard_time": 1768832782,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146644,
+        "num": 146644,
+        "word": "李亚鹏前妻力挺嫣然医院",
+        "onboard_time": 1768821561,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138971,
+        "num": 138971,
+        "word": "向涵之小龙女",
+        "onboard_time": 1768833442,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 129960,
+        "num": 129960,
+        "word": "美国主播力挺牢A",
+        "onboard_time": 1768822101,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129762,
+        "num": 129762,
+        "word": "贺峻霖力证不是AI",
+        "onboard_time": 1768835901,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112180,
+        "num": 112180,
+        "word": "遗憾怎么写最刀",
+        "onboard_time": 1768835182,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107583,
+        "num": 107583,
+        "word": "杨紫第一次换角色头像",
+        "onboard_time": 1768833561,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445638,
+        "num": 105632,
+        "word": "牢A提醒美加留学生",
+        "onboard_time": 1768834942,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 110308,
+        "num": 105318,
+        "word": "牢A提醒留学生办证不要勾捐献",
+        "onboard_time": 1768836021,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 102612,
+        "num": 102612,
+        "word": "虞书欣blossom幕后记录",
+        "onboard_time": 1768829243,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99098,
+        "num": 99098,
+        "word": "火锅店用鱼缸养鲨鱼供人观赏",
+        "onboard_time": 1768817121,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95315,
+        "num": 95315,
+        "word": "网传歌手2026首发已确定",
+        "onboard_time": 1768828342,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93815,
+        "num": 93815,
+        "word": "叶某斌偷渡至柬埔寨从事电诈被刑拘",
+        "onboard_time": 1768834222,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93720,
+        "num": 93720,
+        "word": "刘宇宁录春晚被逗红温了",
+        "onboard_time": 1768836561,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92936,
+        "num": 92936,
+        "word": "21年前被何炅当街冷脸了",
+        "onboard_time": 1768828283,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77031,
+        "num": 92935,
+        "word": "多个国货品牌向嫣然儿童医院捐款",
+        "onboard_time": 1768832904,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14438,
+        "num": 92932,
+        "word": "知情者称柬埔寨部分电诈园区打开大门",
+        "onboard_time": 1768836381,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87785,
+        "num": 92928,
+        "word": "一哥否认杜克20万分手费",
+        "onboard_time": 1768828762,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 87716,
+        "num": 92926,
+        "word": "裴轸醉酒",
+        "onboard_time": 1768836442,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76702,
+        "num": 92925,
+        "word": "一个股民下班后接孩子的感受",
+        "onboard_time": 1768829002,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87016,
+        "num": 92921,
+        "word": "李登科曝进豪门都有考察期",
+        "onboard_time": 1768834762,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82601,
+        "num": 92921,
+        "word": "虞书欣拿小卡和粉丝换手机壳",
+        "onboard_time": 1768826481,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74193,
+        "num": 92916,
+        "word": "云南地震",
+        "onboard_time": 1768822882,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 81577,
+        "num": 92914,
+        "word": "平台辟谣白珊珊被盗号",
+        "onboard_time": 1768815021,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78197,
+        "num": 92914,
+        "word": "你好星期六",
+        "onboard_time": 1768836801,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72695,
+        "num": 92912,
+        "word": "警方通报母亲赴柬埔寨救子",
+        "onboard_time": 1768835182,
+        "rank": 48,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 74734,
+        "num": 92907,
+        "word": "邓莎说如果没有孩子婚姻会更短",
+        "onboard_time": 1768836500,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平曾多次提起这个寓言#"
+    }
+  }
+}

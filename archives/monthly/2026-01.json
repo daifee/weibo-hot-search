@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768834506514,
+  "endTime": 1768836916772,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -2553,6 +2553,14 @@
       "onboard_time": 1767448767,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 704679,
+      "num": 1112748,
+      "word": "警方通报中山一货车碰撞多车",
+      "onboard_time": 1768836021,
+      "rank": 0,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 704277,
@@ -5372,7 +5380,7 @@
     },
     {
       "raw_hot": 487805,
-      "num": 124303,
+      "num": 203843,
       "word": "李亚鹏",
       "onboard_time": 1768816881,
       "rank": 22,
@@ -6440,6 +6448,14 @@
       "word": "KK园区彻底清零",
       "onboard_time": 1768112901,
       "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 445638,
+      "num": 105632,
+      "word": "牢A提醒美加留学生",
+      "onboard_time": 1768834942,
+      "rank": 30,
       "category": "海外新闻"
     },
     {
@@ -13091,6 +13107,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 257124,
+      "num": 257124,
+      "word": "猫的树太会拍了",
+      "onboard_time": 1768833921,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256749,
       "num": 1096200,
       "word": "玉茗茶骨",
@@ -15715,6 +15739,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 215145,
+      "num": 627241,
+      "word": "嫣然儿医医护人员发声",
+      "onboard_time": 1768831641,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214873,
       "num": 1027483,
       "word": "骄阳似我年度计划复盘会",
@@ -16923,6 +16955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202722,
+      "num": 176014,
+      "word": "左奇函高富帅变装",
+      "onboard_time": 1768836679,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202648,
       "num": 202648,
       "word": "U23国足0比0泰国U23",
@@ -16977,6 +17017,14 @@
       "onboard_time": 1768289780,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202281,
+      "num": 214824,
+      "word": "羽生结弦亲吻冰面的最后一吻",
+      "onboard_time": 1768835062,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 202209,
@@ -17065,6 +17113,14 @@
       "onboard_time": 1768833561,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201191,
+      "num": 618107,
+      "word": "MTJJ回应",
+      "onboard_time": 1768833082,
+      "rank": 9,
+      "category": "动漫"
     },
     {
       "raw_hot": 201170,
@@ -21339,14 +21395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169400,
-      "num": 627241,
-      "word": "嫣然儿医医护人员发声",
-      "onboard_time": 1768831641,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 169377,
       "num": 169377,
       "word": "孙颖莎王楚钦出战新加坡大满贯",
@@ -24107,14 +24155,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 152241,
-      "num": 618107,
-      "word": "MTJJ回应",
-      "onboard_time": 1768833082,
-      "rank": 9,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 152188,
       "num": 152188,
       "word": "小城大事观众反馈",
@@ -24920,6 +24960,14 @@
       "word": "日本天后死后被卖裸照引网友愤怒",
       "onboard_time": 1768387400,
       "rank": 37,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 147794,
+      "num": 301391,
+      "word": "美国近7成流浪汉曾是中产",
+      "onboard_time": 1768833803,
+      "rank": 19,
       "category": "海外新闻"
     },
     {
@@ -29107,6 +29155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129960,
+      "num": 129960,
+      "word": "美国主播力挺牢A",
+      "onboard_time": 1768822101,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 129958,
       "num": 129958,
       "word": "迪丽热巴红秀周年刊预告",
@@ -29161,6 +29217,14 @@
       "onboard_time": 1767677541,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129762,
+      "num": 129762,
+      "word": "贺峻霖力证不是AI",
+      "onboard_time": 1768835901,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 129729,
@@ -29569,14 +29633,6 @@
       "onboard_time": 1768635442,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 128175,
-      "num": 128175,
-      "word": "美国主播力挺牢A",
-      "onboard_time": 1768822101,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 128159,
@@ -34723,6 +34779,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 112180,
+      "num": 112180,
+      "word": "遗憾怎么写最刀",
+      "onboard_time": 1768835182,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 112138,
       "num": 111199,
       "word": "梁淞再见爱人5收官发文",
@@ -35233,6 +35297,14 @@
       "onboard_time": 1768724781,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 110308,
+      "num": 105318,
+      "word": "牢A提醒留学生办证不要勾捐献",
+      "onboard_time": 1768836021,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 110292,
@@ -35769,14 +35841,6 @@
       "onboard_time": 1767692541,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108754,
-      "num": 108754,
-      "word": "猫的树太会拍了",
-      "onboard_time": 1768833921,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 108746,
@@ -42531,6 +42595,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 93815,
+      "num": 93815,
+      "word": "叶某斌偷渡至柬埔寨从事电诈被刑拘",
+      "onboard_time": 1768834222,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93803,
       "num": 93803,
       "word": "洗碗机比手洗省水省电",
@@ -42577,6 +42649,14 @@
       "onboard_time": 1767363261,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 93720,
+      "num": 93720,
+      "word": "刘宇宁录春晚被逗红温了",
+      "onboard_time": 1768836561,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 93665,
@@ -45451,6 +45531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87716,
+      "num": 92926,
+      "word": "裴轸醉酒",
+      "onboard_time": 1768836442,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87706,
       "num": 87706,
       "word": "白银突然转跌",
@@ -45795,14 +45883,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 87208,
-      "num": 87208,
-      "word": "叶某斌偷渡至柬埔寨从事电诈被刑拘",
-      "onboard_time": 1768834222,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87207,
       "num": 134159,
       "word": "表哥这个称呼念起来特别有嚼劲",
@@ -45937,6 +46017,14 @@
       "onboard_time": 1768466603,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87016,
+      "num": 92921,
+      "word": "李登科曝进豪门都有考察期",
+      "onboard_time": 1768834762,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 87008,
@@ -51091,6 +51179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74734,
+      "num": 92907,
+      "word": "邓莎说如果没有孩子婚姻会更短",
+      "onboard_time": 1768836500,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74732,
       "num": 74732,
       "word": "颁奖礼已经进化成这样了吗",
@@ -51681,6 +51777,14 @@
       "onboard_time": 1768098920,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72695,
+      "num": 92912,
+      "word": "警方通报母亲赴柬埔寨救子",
+      "onboard_time": 1768835182,
+      "rank": 48,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 72690,
@@ -61099,14 +61203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27418,
-      "num": 301391,
-      "word": "美国近7成流浪汉曾是中产",
-      "onboard_time": 1768833803,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 27372,
       "num": 705015,
       "word": "2026开年图景",
@@ -63361,6 +63457,14 @@
       "onboard_time": 1767174080,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 14438,
+      "num": 92932,
+      "word": "知情者称柬埔寨部分电诈园区打开大门",
+      "onboard_time": 1768836381,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14386,
