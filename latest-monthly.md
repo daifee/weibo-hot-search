@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/19 13:38:49
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/19 13:55:18
 </p>
 </blockquote>
 <p>
@@ -2913,6 +2913,12 @@ iPhone18Pro渲染视频曝光（热度：621333）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%B3%E8%84%91%E5%87%BA%E8%A1%80%E8%A2%AB%E5%8C%BB%E7%94%9F%E9%94%99%E5%BC%80%E5%B7%A6%E8%84%91%23" target="weibo">
+男子右脑出血被医生错开左脑（热度：561269）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%85%A7%E9%9B%AF%E6%9B%B9%E9%AA%8F%E7%B4%A7%E6%80%A5%E5%A3%B0%E6%98%8E%23" target="weibo">
 张慧雯曹骏紧急声明（热度：560450）
 </a>
@@ -4169,6 +4175,12 @@ B站崩了（热度：480074）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E7%BE%A4%E8%81%8A%E5%85%AB%E5%8D%A6%E8%A2%AB%E6%8B%98%E8%B5%B7%E8%AF%89%E5%85%AC%E5%AE%89%E8%A2%AB%E9%A9%B3%E5%9B%9E%23" target="weibo">
 女教师群聊八卦被拘起诉公安被驳回（热度：474994）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E6%9C%89%E5%A5%B3%E5%84%BF%E5%90%8E%E5%BD%AD%E4%BA%8E%E6%99%8F%E7%BB%88%E4%BA%8E%E6%80%A5%E4%BA%86%23" target="weibo">
+胡歌有女儿后彭于晏终于急了（热度：474668）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ AI登顶LOL韩服（热度：378599）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TF%E8%8D%A3%E8%80%80%E4%B9%8B%E6%88%98%23" target="weibo">
 TF荣耀之战（热度：372589）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%80%E5%B7%A2%E5%A5%B6%E7%B2%89%23" target="weibo">
-雀巢奶粉（热度：372346）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8E%E8%BE%89%E5%90%8C%E8%A1%8C83%E5%85%833%E5%8F%AA%E7%9A%96%E8%A5%BF%E9%BA%BB%E9%BB%84%E9%B8%A1%E5%BC%95%E8%B4%A8%E7%96%91%23" target="weibo">
-与辉同行83元3只皖西麻黄鸡引质疑（热度：372297）
 </a>
 </li>
 
