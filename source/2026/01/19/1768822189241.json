@@ -1,0 +1,410 @@
+{
+  "runTime": 1768822189241,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 525404,
+        "num": 1084064,
+        "word": "人民日报评美国斩杀线",
+        "onboard_time": 1768816102,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 385990,
+        "num": 788501,
+        "word": "火锅店用鱼缸养鲨鱼供人观赏",
+        "onboard_time": 1768817121,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21758,
+        "num": 648359,
+        "word": "万千气象看龙江",
+        "onboard_time": 1768812502,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187157,
+        "num": 445712,
+        "word": "合肥下米雪了",
+        "onboard_time": 1768819280,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172304,
+        "num": 321493,
+        "word": "小红书明确反对制造对立",
+        "onboard_time": 1768819041,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 308111,
+        "num": 308111,
+        "word": "潮宏基吊坠一夜涨了1.9万",
+        "onboard_time": 1768814301,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 222180,
+        "num": 222180,
+        "word": "颐和园感觉有一亿人",
+        "onboard_time": 1768814481,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 210163,
+        "num": 210163,
+        "word": "时尚之夜红毯",
+        "onboard_time": 1768815142,
+        "rank": 7,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 167355,
+        "num": 198176,
+        "word": "终末地",
+        "onboard_time": 1768817781,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151339,
+        "num": 196103,
+        "word": "深圳封存20年垃圾山开挖",
+        "onboard_time": 1768808180,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284298,
+        "num": 195932,
+        "word": "iPhone18Pro宣传片曝光",
+        "onboard_time": 1768812261,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 195523,
+        "num": 195523,
+        "word": "生命树",
+        "onboard_time": 1768796122,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178461,
+        "num": 178461,
+        "word": "沈梦辰 美商",
+        "onboard_time": 1768821082,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149128,
+        "num": 149128,
+        "word": "孙海洋向嫣然天使儿童医院捐款",
+        "onboard_time": 1768807162,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151250,
+        "num": 147407,
+        "word": "Crown张艺兴cut",
+        "onboard_time": 1768819701,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144822,
+        "num": 144822,
+        "word": "多人往滇池抛洒放生矿泉水",
+        "onboard_time": 1768818801,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140842,
+        "num": 140842,
+        "word": "御赐小仵作2",
+        "onboard_time": 1768818382,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132707,
+        "num": 132707,
+        "word": "生命树头像",
+        "onboard_time": 1768820121,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129085,
+        "num": 129085,
+        "word": "嫣然天使基金预算已筹满",
+        "onboard_time": 1768810581,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58033,
+        "num": 127808,
+        "word": "包头市中心医院曾多次被罚",
+        "onboard_time": 1768821020,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1053457,
+        "num": 124301,
+        "word": "范丞丞 出庭的时候带上你的破平板",
+        "onboard_time": 1768817121,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 649519,
+        "num": 122136,
+        "word": "平台辟谣白珊珊被盗号",
+        "onboard_time": 1768815021,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 631091,
+        "num": 121833,
+        "word": "糖霜苹果",
+        "onboard_time": 1768811902,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 440814,
+        "num": 117094,
+        "word": "李亚鹏",
+        "onboard_time": 1768816881,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199366,
+        "num": 116071,
+        "word": "双高胎直播",
+        "onboard_time": 1768821982,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114680,
+        "num": 114680,
+        "word": "A股迎重要调整",
+        "onboard_time": 1768822043,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158969,
+        "num": 114566,
+        "word": "孙一宁的脸当明星也绰绰有余",
+        "onboard_time": 1768816161,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 146963,
+        "num": 114151,
+        "word": "这是朱正廷吗",
+        "onboard_time": 1768813761,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109128,
+        "num": 109128,
+        "word": "明日方舟",
+        "onboard_time": 1768821801,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 272963,
+        "num": 108761,
+        "word": "李亚鹏前妻力挺嫣然医院",
+        "onboard_time": 1768821561,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142884,
+        "num": 107061,
+        "word": "于正瘦下来更像何晟铭了",
+        "onboard_time": 1768818741,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105265,
+        "num": 105839,
+        "word": "牢A谈在美第一个朋友死于斩杀线",
+        "onboard_time": 1768819761,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134637,
+        "num": 104332,
+        "word": "白珊珊违规账号已被关闭并上报公安",
+        "onboard_time": 1768817540,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121111,
+        "num": 102961,
+        "word": "穆祉丞偷偷做个梦播放量破百万",
+        "onboard_time": 1768821321,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102516,
+        "num": 102516,
+        "word": "Gucci家族里的豪门姐弟",
+        "onboard_time": 1768811902,
+        "rank": 34,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 105476,
+        "num": 101910,
+        "word": "沈梦辰一套又一套眼前一亮又一亮",
+        "onboard_time": 1768817841,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101183,
+        "num": 101183,
+        "word": "济南下暴雨梨花针了",
+        "onboard_time": 1768813580,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98306,
+        "num": 98306,
+        "word": "差点问徐明浩要联系方式了",
+        "onboard_time": 1768820719,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96994,
+        "num": 96994,
+        "word": "劣迹艺人打信息差到县域商演捞金",
+        "onboard_time": 1768800922,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40949,
+        "num": 94477,
+        "word": "声鸣远扬总冠军内定歌手2026首发",
+        "onboard_time": 1768821141,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79951,
+        "num": 93086,
+        "word": "内娱女打星赛道上新了",
+        "onboard_time": 1768822162,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93051,
+        "num": 93051,
+        "word": "JackeyLove说TES就在今天",
+        "onboard_time": 1768821801,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94233,
+        "num": 92547,
+        "word": "关晓彤 谁踩了我一脚",
+        "onboard_time": 1768816341,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90600,
+        "num": 90600,
+        "word": "直观感受到了科技改变生活",
+        "onboard_time": 1768820901,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89598,
+        "num": 89598,
+        "word": "金银大涨后下一个会是铜吗",
+        "onboard_time": 1768819402,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 529512,
+        "num": 88408,
+        "word": "呆呆家门口泥土被炒至200元一斤",
+        "onboard_time": 1768819701,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87085,
+        "num": 87085,
+        "word": "19岁男孩肚疼3天查出白血病",
+        "onboard_time": 1768811902,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85195,
+        "num": 85195,
+        "word": "美国主播力挺牢A",
+        "onboard_time": 1768822101,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 83129,
+        "num": 83129,
+        "word": "女子预订3间房结果变3张床",
+        "onboard_time": 1768820601,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80348,
+        "num": 80348,
+        "word": "iPhone18Pro配置",
+        "onboard_time": 1768821622,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#做好冰雪文章总书记念兹在兹#"
+    }
+  }
+}

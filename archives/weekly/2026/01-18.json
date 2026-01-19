@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768820143439,
+  "endTime": 1768822189241,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -80,6 +80,14 @@
       "word": "吴磊工作室严正声明",
       "onboard_time": 1768741342,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1053457,
+      "num": 124796,
+      "word": "范丞丞 出庭的时候带上你的破平板",
+      "onboard_time": 1768817121,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -249,14 +257,6 @@
       "onboard_time": 1768789279,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 708152,
-      "num": 124796,
-      "word": "范丞丞 出庭的时候带上你的破平板",
-      "onboard_time": 1768817121,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 700148,
@@ -499,12 +499,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 529512,
+      "num": 121435,
+      "word": "呆呆家门口泥土被炒至200元一斤",
+      "onboard_time": 1768819701,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 527205,
       "num": 251210,
       "word": "金价波动",
       "onboard_time": 1768786040,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 525404,
+      "num": 1084064,
+      "word": "人民日报评美国斩杀线",
+      "onboard_time": 1768816102,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 517385,
@@ -708,7 +724,7 @@
     },
     {
       "raw_hot": 422204,
-      "num": 240302,
+      "num": 308111,
       "word": "潮宏基吊坠一夜涨了1.9万",
       "onboard_time": 1768814301,
       "rank": 5,
@@ -763,14 +779,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 402646,
-      "num": 802346,
-      "word": "人民日报评美国斩杀线",
-      "onboard_time": 1768816102,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 400705,
       "num": 400705,
       "word": "2025百大UP主名单",
@@ -800,6 +808,14 @@
       "word": "涨20元月薪公司已连续37年涨薪",
       "onboard_time": 1768663042,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 385990,
+      "num": 788501,
+      "word": "火锅店用鱼缸养鲨鱼供人观赏",
+      "onboard_time": 1768817121,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -1075,14 +1091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 292951,
-      "num": 292951,
-      "word": "火锅店用鱼缸养鲨鱼供人观赏",
-      "onboard_time": 1768817121,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 292943,
       "num": 292943,
       "word": "包头一工厂爆炸已送至医院40余人",
@@ -1169,6 +1177,14 @@
       "onboard_time": 1768792700,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 272963,
+      "num": 108761,
+      "word": "李亚鹏前妻力挺嫣然医院",
+      "onboard_time": 1768821561,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 272530,
@@ -1635,6 +1651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210163,
+      "num": 221845,
+      "word": "时尚之夜红毯",
+      "onboard_time": 1768815142,
+      "rank": 7,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 207824,
       "num": 244967,
       "word": "全国多地发布紧急停课通知",
@@ -1665,14 +1689,6 @@
       "onboard_time": 1768709480,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205684,
-      "num": 221845,
-      "word": "时尚之夜红毯",
-      "onboard_time": 1768815142,
-      "rank": 7,
-      "category": "综艺,时尚"
     },
     {
       "raw_hot": 204353,
@@ -1721,6 +1737,14 @@
       "onboard_time": 1768727600,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199366,
+      "num": 116071,
+      "word": "双高胎直播",
+      "onboard_time": 1768821982,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 197961,
@@ -1891,6 +1915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187157,
+      "num": 445712,
+      "word": "合肥下米雪了",
+      "onboard_time": 1768819280,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187147,
       "num": 187147,
       "word": "镖人友情演出惠英红",
@@ -1987,6 +2019,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 178461,
+      "num": 178461,
+      "word": "沈梦辰 美商",
+      "onboard_time": 1768821082,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177835,
       "num": 159848,
       "word": "手链扔火炉女子灰烬中找回48颗金珠",
@@ -2044,7 +2084,7 @@
     },
     {
       "raw_hot": 172544,
-      "num": 172544,
+      "num": 321493,
       "word": "小红书明确反对制造对立",
       "onboard_time": 1768819041,
       "rank": 17,
@@ -2315,6 +2355,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 151250,
+      "num": 147407,
+      "word": "Crown张艺兴cut",
+      "onboard_time": 1768819701,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 151186,
       "num": 151186,
       "word": "包钢",
@@ -2459,6 +2507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144822,
+      "num": 144822,
+      "word": "多人往滇池抛洒放生矿泉水",
+      "onboard_time": 1768818801,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143930,
       "num": 124784,
       "word": "陈奕恒单人cha太帅了",
@@ -2489,6 +2545,14 @@
       "onboard_time": 1768746683,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 142884,
+      "num": 121582,
+      "word": "于正瘦下来更像何晟铭了",
+      "onboard_time": 1768818741,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 142867,
@@ -2675,6 +2739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134637,
+      "num": 104332,
+      "word": "白珊珊违规账号已被关闭并上报公安",
+      "onboard_time": 1768817540,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134099,
       "num": 218902,
       "word": "6人消费19元顾客道歉称赔1元",
@@ -2793,14 +2865,6 @@
       "onboard_time": 1768813580,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129567,
-      "num": 121582,
-      "word": "于正瘦下来更像何晟铭了",
-      "onboard_time": 1768818741,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 129118,
@@ -2955,14 +3019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124903,
-      "num": 94098,
-      "word": "白珊珊违规账号已被关闭并上报公安",
-      "onboard_time": 1768817540,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 124775,
       "num": 124775,
       "word": "袁悦澳网止步首轮",
@@ -3035,14 +3091,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121680,
-      "num": 121680,
-      "word": "合肥下米雪了",
-      "onboard_time": 1768819280,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121627,
       "num": 121627,
       "word": "向出轨丈夫道歉女子称自己多次住院",
@@ -3059,12 +3107,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121435,
-      "num": 121435,
-      "word": "呆呆家门口泥土被炒至200元一斤",
-      "onboard_time": 1768819701,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 121111,
+      "num": 102961,
+      "word": "穆祉丞偷偷做个梦播放量破百万",
+      "onboard_time": 1768821321,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 120935,
@@ -3323,6 +3371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 114680,
+      "num": 114680,
+      "word": "A股迎重要调整",
+      "onboard_time": 1768822043,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 114507,
       "num": 140596,
       "word": "林依轮 宴会时刻站哥必须发力",
@@ -3499,6 +3555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 109128,
+      "num": 109128,
+      "word": "明日方舟",
+      "onboard_time": 1768821801,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108969,
       "num": 108969,
       "word": "董思成镖人造型",
@@ -3643,6 +3707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105265,
+      "num": 105839,
+      "word": "牢A谈在美第一个朋友死于斩杀线",
+      "onboard_time": 1768819761,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104878,
       "num": 104878,
       "word": "当老外碰上神秘的东方力量",
@@ -3705,14 +3777,6 @@
       "onboard_time": 1768808422,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 103692,
-      "num": 103692,
-      "word": "Crown张艺兴cut",
-      "onboard_time": 1768819701,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 103686,
@@ -3921,6 +3985,14 @@
       "onboard_time": 1768719560,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 98306,
+      "num": 98306,
+      "word": "差点问徐明浩要联系方式了",
+      "onboard_time": 1768820719,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 98165,
@@ -4179,6 +4251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93051,
+      "num": 93051,
+      "word": "JackeyLove说TES就在今天",
+      "onboard_time": 1768821801,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 93030,
       "num": 93030,
       "word": "A股行情",
@@ -4323,6 +4403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 90600,
+      "num": 90600,
+      "word": "直观感受到了科技改变生活",
+      "onboard_time": 1768820901,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90593,
       "num": 90593,
       "word": "注意用脑卫生",
@@ -4361,6 +4449,14 @@
       "onboard_time": 1768720399,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89598,
+      "num": 89598,
+      "word": "金银大涨后下一个会是铜吗",
+      "onboard_time": 1768819402,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 89393,
@@ -4675,6 +4771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85195,
+      "num": 85195,
+      "word": "美国主播力挺牢A",
+      "onboard_time": 1768822101,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 85132,
       "num": 85132,
       "word": "银川地震",
@@ -4795,6 +4899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83129,
+      "num": 83129,
+      "word": "女子预订3间房结果变3张床",
+      "onboard_time": 1768820601,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82635,
       "num": 82635,
       "word": "Tabe不满意野辅的发挥",
@@ -4891,6 +5003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 80348,
+      "num": 80348,
+      "word": "iPhone18Pro配置",
+      "onboard_time": 1768821622,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 80331,
       "num": 80331,
       "word": "卢昱晓说陈星旭本人不太装",
@@ -4929,6 +5049,14 @@
       "onboard_time": 1768648881,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79951,
+      "num": 93086,
+      "word": "内娱女打星赛道上新了",
+      "onboard_time": 1768822162,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 79592,
@@ -5179,14 +5307,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 73430,
-      "num": 104015,
-      "word": "多人往滇池抛洒放生矿泉水",
-      "onboard_time": 1768818801,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73357,
       "num": 83776,
       "word": "杨紫GLASS2026开年刊封面预告",
@@ -5368,14 +5488,6 @@
       "word": "将电影幕布划烂了",
       "onboard_time": 1768701799,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67266,
-      "num": 100924,
-      "word": "牢A谈在美第一个朋友死于斩杀线",
-      "onboard_time": 1768819761,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -5688,6 +5800,14 @@
       "word": "人民日报记者探访煤改气后取暖贵",
       "onboard_time": 1768794979,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58033,
+      "num": 127808,
+      "word": "包头市中心医院曾多次被罚",
+      "onboard_time": 1768821020,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -6009,6 +6129,14 @@
       "onboard_time": 1768713141,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 40949,
+      "num": 94477,
+      "word": "声鸣远扬总冠军内定歌手2026首发",
+      "onboard_time": 1768821141,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 40442,
