@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768813079384,
+  "endTime": 1768815806804,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1130397,
+      "num": 357113,
+      "word": "糖霜苹果",
+      "onboard_time": 1768811902,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1059339,
       "num": 419960,
       "word": "吴磊工作室严正声明",
@@ -97,6 +105,14 @@
       "onboard_time": 1768735822,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 902598,
+      "num": 152292,
+      "word": "平台辟谣白珊珊被盗号",
+      "onboard_time": 1768815021,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 852117,
@@ -193,14 +209,6 @@
       "onboard_time": 1768704859,
       "rank": 8,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 766938,
-      "num": 357113,
-      "word": "糖霜苹果",
-      "onboard_time": 1768811902,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 744617,
@@ -523,6 +531,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 484430,
+      "num": 156663,
+      "word": "iPhone18Pro宣传片曝光",
+      "onboard_time": 1768812261,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 481103,
       "num": 1076976,
       "word": "大叔卖6元四寸蛋糕日收入几百元",
@@ -603,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 446303,
+      "num": 151715,
+      "word": "这是朱正廷吗",
+      "onboard_time": 1768813761,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 444834,
       "num": 227047,
       "word": "外国母亲看人体展览发现儿子遗体",
@@ -657,6 +681,14 @@
       "onboard_time": 1768794921,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 422204,
+      "num": 206260,
+      "word": "潮宏基吊坠一夜涨了1.9万",
+      "onboard_time": 1768814301,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 415508,
@@ -860,7 +892,7 @@
     },
     {
       "raw_hot": 336050,
-      "num": 767269,
+      "num": 810772,
       "word": "深圳封存20年垃圾山开挖",
       "onboard_time": 1768808180,
       "rank": 40,
@@ -1097,6 +1129,14 @@
       "onboard_time": 1768807821,
       "rank": 42,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 271147,
+      "num": 271147,
+      "word": "何老师不小心口误华晨宇的反应",
+      "onboard_time": 1768812082,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 268968,
@@ -1523,6 +1563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209482,
+      "num": 209482,
+      "word": "高市早苗将于1月23日解散众议院",
+      "onboard_time": 1768814661,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 207824,
       "num": 244967,
       "word": "全国多地发布紧急停课通知",
@@ -1569,6 +1617,14 @@
       "onboard_time": 1768742123,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202898,
+      "num": 202898,
+      "word": "颐和园感觉有一亿人",
+      "onboard_time": 1768814481,
+      "rank": 6,
+      "category": "旅游"
     },
     {
       "raw_hot": 202736,
@@ -1633,6 +1689,14 @@
       "onboard_time": 1768733482,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195957,
+      "num": 195957,
+      "word": "时尚之夜红毯",
+      "onboard_time": 1768815142,
+      "rank": 7,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 195439,
@@ -2291,6 +2355,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 144891,
+      "num": 144891,
+      "word": "家中被邻居误入烧纸业主要求换房",
+      "onboard_time": 1768813221,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143930,
       "num": 124784,
       "word": "陈奕恒单人cha太帅了",
@@ -2531,14 +2603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132412,
-      "num": 132412,
-      "word": "iPhone18Pro宣传片曝光",
-      "onboard_time": 1768812261,
-      "rank": 26,
-      "category": "数码"
-    },
-    {
       "raw_hot": 132351,
       "num": 123421,
       "word": "惊蛰无声",
@@ -2723,14 +2787,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 126004,
-      "num": 227904,
-      "word": "何老师不小心口误华晨宇的反应",
-      "onboard_time": 1768812082,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 125864,
       "num": 125864,
       "word": "澳网",
@@ -2875,6 +2931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120285,
+      "num": 144886,
+      "word": "济南下暴雨梨花针了",
+      "onboard_time": 1768813580,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119545,
       "num": 119545,
       "word": "WB对战TES",
@@ -2892,7 +2956,7 @@
     },
     {
       "raw_hot": 119176,
-      "num": 119176,
+      "num": 143819,
       "word": "袁悦vs斯瓦泰克",
       "onboard_time": 1768812261,
       "rank": 27,
@@ -3275,6 +3339,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 108571,
+      "num": 108571,
+      "word": "马未都谈李亚鹏嫣然天使儿童医院",
+      "onboard_time": 1768814841,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107944,
       "num": 136237,
       "word": "神20飞船返回舱外观总体正常",
@@ -3427,6 +3499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104417,
+      "num": 104417,
+      "word": "大张伟 真的不能再工作了",
+      "onboard_time": 1768814782,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104312,
       "num": 131339,
       "word": "神20飞船返回东风着陆场",
@@ -3515,6 +3595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101996,
+      "num": 99013,
+      "word": "文俊辉满30减15",
+      "onboard_time": 1768815321,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 101701,
       "num": 101701,
       "word": "米兰男装周",
@@ -3545,6 +3633,14 @@
       "onboard_time": 1768665441,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100403,
+      "num": 100403,
+      "word": "美国警察大战美国ICE",
+      "onboard_time": 1768813942,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 100227,
@@ -3803,6 +3899,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 93908,
+      "num": 93908,
+      "word": "6岁女孩独自在家给陌生男子开门",
+      "onboard_time": 1768813341,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93905,
       "num": 93905,
       "word": "60岁以上买卧铺优先分配下铺",
@@ -3923,6 +4027,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 92112,
+      "num": 92112,
+      "word": "本周做什么都顺的星座TOP4",
+      "onboard_time": 1768813281,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 92023,
       "num": 92023,
       "word": "安大爷看了春晚彩排嘴好严",
@@ -3984,6 +4096,14 @@
       "word": "开店月赚47元",
       "onboard_time": 1768711940,
       "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 90593,
+      "num": 90593,
+      "word": "注意用脑卫生",
+      "onboard_time": 1768813100,
+      "rank": 48,
       "category": "情感"
     },
     {
@@ -4571,6 +4691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79068,
+      "num": 145081,
+      "word": "马龙贾玲Prada秀场同框",
+      "onboard_time": 1768813520,
+      "rank": 26,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 79019,
       "num": 79019,
       "word": "华晨宇就这样看那英热闹",
@@ -4873,6 +5001,14 @@
       "onboard_time": 1768696578,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70531,
+      "num": 154078,
+      "word": "郑州积雪最深可达13厘米",
+      "onboard_time": 1768814542,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70447,
@@ -5203,6 +5339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 60483,
+      "num": 90628,
+      "word": "美一客机降落时发生弹跳",
+      "onboard_time": 1768813341,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 60377,
       "num": 215385,
       "word": "警方通报2人造谣2雄性大熊猫交配",
@@ -5241,6 +5385,14 @@
       "onboard_time": 1768794979,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57289,
+      "num": 104738,
+      "word": "你是刘耀文那他是谁",
+      "onboard_time": 1768814960,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 57230,
@@ -5379,6 +5531,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51097,
+      "num": 153228,
+      "word": "患儿在嫣然医院2次手术仅花生活费",
+      "onboard_time": 1768814960,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50761,
+      "num": 106251,
+      "word": "韩国19名残疾女性遭机构院长性侵",
+      "onboard_time": 1768815142,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 50605,
       "num": 456757,
       "word": "14亿多人用电自由是怎么做到的",
@@ -5476,7 +5644,7 @@
     },
     {
       "raw_hot": 44455,
-      "num": 91414,
+      "num": 598769,
       "word": "万千气象看龙江",
       "onboard_time": 1768812502,
       "rank": 35,
@@ -5921,6 +6089,14 @@
       "onboard_time": 1768671736,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15492,
+      "num": 152783,
+      "word": "老板回应要顾客带走垃圾被怼格局小",
+      "onboard_time": 1768815380,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15488,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1768815806804,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 517361,
+        "num": 1082777,
+        "word": "生命树",
+        "onboard_time": 1768796122,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289695,
+        "num": 810772,
+        "word": "深圳封存20年垃圾山开挖",
+        "onboard_time": 1768808180,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21572,
+        "num": 598769,
+        "word": "万千气象看龙江",
+        "onboard_time": 1768812502,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271147,
+        "num": 271147,
+        "word": "何老师不小心口误华晨宇的反应",
+        "onboard_time": 1768812082,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209482,
+        "num": 209482,
+        "word": "高市早苗将于1月23日解散众议院",
+        "onboard_time": 1768814661,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 422204,
+        "num": 206260,
+        "word": "潮宏基吊坠一夜涨了1.9万",
+        "onboard_time": 1768814301,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 202898,
+        "num": 202898,
+        "word": "颐和园感觉有一亿人",
+        "onboard_time": 1768814481,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 195957,
+        "num": 195957,
+        "word": "时尚之夜红毯",
+        "onboard_time": 1768815142,
+        "rank": 7,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 157073,
+        "num": 157073,
+        "word": "体面人的体面一生",
+        "onboard_time": 1768809680,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139941,
+        "num": 156916,
+        "word": "新年美甲",
+        "onboard_time": 1768807821,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 484430,
+        "num": 156663,
+        "word": "iPhone18Pro宣传片曝光",
+        "onboard_time": 1768812261,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 272313,
+        "num": 156023,
+        "word": "沈逸 牢A",
+        "onboard_time": 1768802842,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202848,
+        "num": 155883,
+        "word": "19岁男孩肚疼3天查出白血病",
+        "onboard_time": 1768811902,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175924,
+        "num": 155465,
+        "word": "嫣然天使基金预算已筹满",
+        "onboard_time": 1768810581,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35147,
+        "num": 154793,
+        "word": "微博抓马",
+        "onboard_time": 1768794741,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 80449,
+        "num": 154503,
+        "word": "6人消费19元顾客道歉称赔1元",
+        "onboard_time": 1768809381,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70531,
+        "num": 154078,
+        "word": "郑州积雪最深可达13厘米",
+        "onboard_time": 1768814542,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144187,
+        "num": 153619,
+        "word": "Gucci家族里的豪门姐弟",
+        "onboard_time": 1768811902,
+        "rank": 17,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 51097,
+        "num": 153228,
+        "word": "患儿在嫣然医院2次手术仅花生活费",
+        "onboard_time": 1768814960,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15492,
+        "num": 152783,
+        "word": "老板回应要顾客带走垃圾被怼格局小",
+        "onboard_time": 1768815380,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1130397,
+        "num": 152426,
+        "word": "糖霜苹果",
+        "onboard_time": 1768811902,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 902598,
+        "num": 152292,
+        "word": "平台辟谣白珊珊被盗号",
+        "onboard_time": 1768815021,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446303,
+        "num": 151715,
+        "word": "这是朱正廷吗",
+        "onboard_time": 1768813761,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151590,
+        "num": 151590,
+        "word": "母牛去世出生3天小牛墙边独自流泪",
+        "onboard_time": 1768810103,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225477,
+        "num": 149845,
+        "word": "牢A",
+        "onboard_time": 1768798763,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208379,
+        "num": 149485,
+        "word": "姜思达回应张艺兴晚晚采访被嘲",
+        "onboard_time": 1768810822,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79068,
+        "num": 145081,
+        "word": "马龙贾玲Prada秀场同框",
+        "onboard_time": 1768813520,
+        "rank": 26,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 144891,
+        "num": 144891,
+        "word": "家中被邻居误入烧纸业主要求换房",
+        "onboard_time": 1768813221,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120285,
+        "num": 144886,
+        "word": "济南下暴雨梨花针了",
+        "onboard_time": 1768813580,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65289,
+        "num": 143819,
+        "word": "袁悦vs斯瓦泰克",
+        "onboard_time": 1768812261,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174567,
+        "num": 142803,
+        "word": "2026春节档",
+        "onboard_time": 1768811121,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 217349,
+        "num": 142270,
+        "word": "沈逸回应糖霜苹果",
+        "onboard_time": 1768809200,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192194,
+        "num": 141599,
+        "word": "劣迹艺人打信息差到县域商演捞金",
+        "onboard_time": 1768800922,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141024,
+        "num": 141024,
+        "word": "包钢",
+        "onboard_time": 1768812502,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 122457,
+        "num": 122457,
+        "word": "孙海洋向嫣然天使儿童医院捐款",
+        "onboard_time": 1768807162,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118399,
+        "num": 118399,
+        "word": "男子右脑出血被医生错开左脑",
+        "onboard_time": 1768797201,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112510,
+        "num": 112510,
+        "word": "某地一男孩用凳子猛砸同学后脑勺",
+        "onboard_time": 1768806261,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108571,
+        "num": 108571,
+        "word": "马未都谈李亚鹏嫣然天使儿童医院",
+        "onboard_time": 1768814841,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50761,
+        "num": 106251,
+        "word": "韩国19名残疾女性遭机构院长性侵",
+        "onboard_time": 1768815142,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 57289,
+        "num": 104738,
+        "word": "你是刘耀文那他是谁",
+        "onboard_time": 1768814960,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104417,
+        "num": 104417,
+        "word": "大张伟 真的不能再工作了",
+        "onboard_time": 1768814782,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100403,
+        "num": 100403,
+        "word": "美国警察大战美国ICE",
+        "onboard_time": 1768813942,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 101996,
+        "num": 99013,
+        "word": "文俊辉满30减15",
+        "onboard_time": 1768815321,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93908,
+        "num": 93908,
+        "word": "6岁女孩独自在家给陌生男子开门",
+        "onboard_time": 1768813341,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92112,
+        "num": 92112,
+        "word": "本周做什么都顺的星座TOP4",
+        "onboard_time": 1768813281,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90724,
+        "num": 90724,
+        "word": "苏醒告别快乐老友记",
+        "onboard_time": 1768802543,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97889,
+        "num": 90678,
+        "word": "牢A回应",
+        "onboard_time": 1768803681,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60483,
+        "num": 90628,
+        "word": "美一客机降落时发生弹跳",
+        "onboard_time": 1768813341,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 90593,
+        "num": 90593,
+        "word": "注意用脑卫生",
+        "onboard_time": 1768813100,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85350,
+        "num": 85350,
+        "word": "杨紫胡歌原声台词爆发力",
+        "onboard_time": 1768811421,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#做好冰雪文章总书记念兹在兹#"
+    }
+  }
+}
