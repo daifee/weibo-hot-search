@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/19 19:44:54
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/19 21:04:59
 </p>
 </blockquote>
 <p>
@@ -665,6 +665,12 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8D%E8%AE%A4%E7%BD%AA%23" target="weibo">
 马杜罗不认罪（热度：1123252）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E7%BA%A2%E6%AF%AF%E6%88%B4%E5%B8%BD%E5%AD%90%23" target="weibo">
+关晓彤第一次在红毯戴帽子（热度：1118693）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ iPhone4回收价涨了60倍（热度：736598）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%B0%86%E4%BA%8E1%E6%9C%8823%E6%97%A5%E8%A7%A3%E6%95%A3%E4%BC%97%E8%AE%AE%E9%99%A2%23" target="weibo">
 高市早苗将于1月23日解散众议院（热度：726695）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E6%8B%85%E5%BF%83%E5%A5%B3%E5%84%BF%E8%80%83%E4%B8%8A%E6%B8%85%E5%8C%97%E6%8E%A2%E6%9C%9B%E6%9C%BA%E7%A5%A8%E5%A4%AA%E8%B4%B5%23" target="weibo">
-爸爸担心女儿考上清北探望机票太贵（热度：726590）
 </a>
 </li>
 
