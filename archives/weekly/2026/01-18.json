@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768865348221,
+  "endTime": 1768866191349,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -595,6 +595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 517642,
+      "num": 938447,
+      "word": "上海下雪",
+      "onboard_time": 1768864638,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 517385,
       "num": 517385,
       "word": "骄阳似我直播",
@@ -835,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 414553,
+      "num": 98409,
+      "word": "苹果将改为一年两次发布新品",
+      "onboard_time": 1768864877,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 414325,
       "num": 245474,
       "word": "终于有人吐槽现在的婚礼流程了",
@@ -889,6 +905,14 @@
       "onboard_time": 1768720940,
       "rank": 8,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 399377,
+      "num": 97774,
+      "word": "吴磊方称没有义务和必要逐一自证",
+      "onboard_time": 1768864937,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 399326,
@@ -1163,14 +1187,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 317953,
-      "num": 83535,
-      "word": "吴磊方称没有义务和必要逐一自证",
-      "onboard_time": 1768864937,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 315670,
       "num": 315670,
       "word": "苹果关东煮",
@@ -1241,6 +1257,14 @@
       "onboard_time": 1768792700,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 295522,
+      "num": 295522,
+      "word": "大寒",
+      "onboard_time": 1768864577,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 294861,
@@ -1491,14 +1515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 252338,
-      "num": 252338,
-      "word": "大寒",
-      "onboard_time": 1768864577,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 252180,
       "num": 204262,
       "word": "奚梦瑶晒当妈后的幸福变化",
@@ -1513,14 +1529,6 @@
       "onboard_time": 1768660882,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 247887,
-      "num": 247887,
-      "word": "上海下雪",
-      "onboard_time": 1768864638,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 245034,
@@ -2657,14 +2665,6 @@
       "onboard_time": 1768779379,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 154656,
-      "num": 81548,
-      "word": "苹果将改为一年两次发布新品",
-      "onboard_time": 1768864877,
-      "rank": 12,
-      "category": "数码"
     },
     {
       "raw_hot": 154037,
@@ -4531,6 +4531,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 99231,
+      "num": 130899,
+      "word": "俄罗斯一地居民挖通积雪才能回家",
+      "onboard_time": 1768837999,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 98914,
       "num": 100537,
       "word": "T1对战DRX",
@@ -4689,14 +4697,6 @@
       "onboard_time": 1768833203,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96002,
-      "num": 130899,
-      "word": "俄罗斯一地居民挖通积雪才能回家",
-      "onboard_time": 1768837999,
-      "rank": 33,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 95898,
@@ -4897,6 +4897,14 @@
       "onboard_time": 1768706000,
       "rank": 40,
       "category": "互联网,体育"
+    },
+    {
+      "raw_hot": 93394,
+      "num": 77689,
+      "word": "靠上班普通人只能在35岁之前过成中产",
+      "onboard_time": 1768866138,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 93356,
@@ -5249,6 +5257,14 @@
       "onboard_time": 1768801700,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87769,
+      "num": 87769,
+      "word": "裴轸黑化",
+      "onboard_time": 1768864698,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 87716,
@@ -6619,6 +6635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 60816,
+      "num": 60816,
+      "word": "江苏多市发布停课通知",
+      "onboard_time": 1768862054,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60495,
       "num": 45799,
       "word": "陈光标称可在两日转账资助嫣然医院",
@@ -6633,14 +6657,6 @@
       "onboard_time": 1768813341,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 60383,
-      "num": 60383,
-      "word": "江苏多市发布停课通知",
-      "onboard_time": 1768862054,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60377,
@@ -6689,14 +6705,6 @@
       "onboard_time": 1768821020,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 57559,
-      "num": 57559,
-      "word": "裴轸黑化",
-      "onboard_time": 1768864698,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 57289,
@@ -7228,7 +7236,7 @@
     },
     {
       "raw_hot": 32443,
-      "num": 45357,
+      "num": 50805,
       "word": "杭州全城等雪",
       "onboard_time": 1768846875,
       "rank": 31,
@@ -7241,6 +7249,14 @@
       "onboard_time": 1768796482,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 31049,
+      "num": 50808,
+      "word": "林诗栋王皓开心打桌球",
+      "onboard_time": 1768865118,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 30939,
@@ -7292,7 +7308,7 @@
     },
     {
       "raw_hot": 28684,
-      "num": 499095,
+      "num": 525097,
       "word": "卫星互联网低轨19组卫星发射成功",
       "onboard_time": 1768816702,
       "rank": 43,
@@ -7307,8 +7323,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 26891,
-      "num": 45325,
+      "raw_hot": 27014,
+      "num": 50796,
       "word": "拿板凳打人学生已被劝退",
       "onboard_time": 1768854314,
       "rank": 48,
@@ -7369,14 +7385,6 @@
       "onboard_time": 1768822702,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23519,
-      "num": 45315,
-      "word": "林诗栋王皓开心打桌球",
-      "onboard_time": 1768865118,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 23404,

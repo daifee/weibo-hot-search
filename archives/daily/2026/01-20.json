@@ -1,6 +1,6 @@
 {
   "startTime": 1768840768064,
-  "endTime": 1768865348221,
+  "endTime": 1768866191349,
   "band_list": [
     {
       "raw_hot": 642136,
@@ -19,6 +19,30 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 517642,
+      "num": 938447,
+      "word": "上海下雪",
+      "onboard_time": 1768864638,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 414553,
+      "num": 98409,
+      "word": "苹果将改为一年两次发布新品",
+      "onboard_time": 1768864877,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 399377,
+      "num": 97774,
+      "word": "吴磊方称没有义务和必要逐一自证",
+      "onboard_time": 1768864937,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 395368,
       "num": 395368,
       "word": "周杰伦昆凌 生理性喜欢",
@@ -33,14 +57,6 @@
       "onboard_time": 1768838599,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 317953,
-      "num": 83535,
-      "word": "吴磊方称没有义务和必要逐一自证",
-      "onboard_time": 1768864937,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 308219,
@@ -59,28 +75,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 271260,
-      "num": 271260,
-      "word": "杨紫换头像",
-      "onboard_time": 1768830563,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 252338,
-      "num": 252338,
+      "raw_hot": 295522,
+      "num": 295522,
       "word": "大寒",
       "onboard_time": 1768864577,
       "rank": 3,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 247887,
-      "num": 247887,
-      "word": "上海下雪",
-      "onboard_time": 1768864638,
-      "rank": 4,
-      "category": "民生新闻"
+      "raw_hot": 271260,
+      "num": 271260,
+      "word": "杨紫换头像",
+      "onboard_time": 1768830563,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 247179,
@@ -131,6 +139,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 180822,
+      "num": 130972,
+      "word": "包文婧回应女儿撞脸吴映洁",
+      "onboard_time": 1768829843,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179944,
       "num": 129708,
       "word": "21年前被何炅当街冷脸了",
@@ -145,22 +161,6 @@
       "onboard_time": 1768835182,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 162257,
-      "num": 130972,
-      "word": "包文婧回应女儿撞脸吴映洁",
-      "onboard_time": 1768829843,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 154656,
-      "num": 81548,
-      "word": "苹果将改为一年两次发布新品",
-      "onboard_time": 1768864877,
-      "rank": 12,
-      "category": "数码"
     },
     {
       "raw_hot": 152125,
@@ -203,6 +203,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113836,
+      "num": 130098,
+      "word": "杨紫第一次换角色头像",
+      "onboard_time": 1768833561,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 110034,
+      "num": 401943,
+      "word": "美国近7成流浪汉曾是中产",
+      "onboard_time": 1768833803,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 106348,
       "num": 143479,
       "word": "官方通报学生用板凳砸同学后脑",
@@ -211,23 +227,7 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 99874,
-      "num": 401943,
-      "word": "美国近7成流浪汉曾是中产",
-      "onboard_time": 1768833803,
-      "rank": 8,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 96237,
-      "num": 130098,
-      "word": "杨紫第一次换角色头像",
-      "onboard_time": 1768833561,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 96002,
+      "raw_hot": 99231,
       "num": 130899,
       "word": "俄罗斯一地居民挖通积雪才能回家",
       "onboard_time": 1768837999,
@@ -235,12 +235,28 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 91101,
+      "raw_hot": 96716,
+      "num": 91913,
+      "word": "李亚鹏前妻力挺嫣然医院",
+      "onboard_time": 1768821561,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 95741,
       "num": 130574,
       "word": "成都警方通报16岁男子殴打5人",
       "onboard_time": 1768830323,
       "rank": 36,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 93394,
+      "num": 77689,
+      "word": "靠上班普通人只能在35岁之前过成中产",
+      "onboard_time": 1768866138,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 90548,
@@ -251,12 +267,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 90075,
-      "num": 76731,
-      "word": "李亚鹏前妻力挺嫣然医院",
-      "onboard_time": 1768821561,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 87769,
+      "num": 87769,
+      "word": "裴轸黑化",
+      "onboard_time": 1768864698,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 84758,
@@ -347,19 +363,19 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 60816,
+      "num": 60816,
+      "word": "江苏多市发布停课通知",
+      "onboard_time": 1768862054,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60495,
       "num": 45799,
       "word": "陈光标称可在两日转账资助嫣然医院",
       "onboard_time": 1768847295,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 60383,
-      "num": 60383,
-      "word": "江苏多市发布停课通知",
-      "onboard_time": 1768862054,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -371,20 +387,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58304,
+      "num": 99220,
+      "word": "澳网",
+      "onboard_time": 1768865297,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58097,
       "num": 130493,
       "word": "向涵之小龙女",
       "onboard_time": 1768833442,
       "rank": 35,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 57559,
-      "num": 57559,
-      "word": "裴轸黑化",
-      "onboard_time": 1768864698,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 52156,
@@ -409,6 +425,14 @@
       "onboard_time": 1768838180,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 50843,
+      "num": 129766,
+      "word": "刘宇宁录春晚被逗红温了",
+      "onboard_time": 1768836561,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 50357,
@@ -451,14 +475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45423,
-      "num": 129766,
-      "word": "刘宇宁录春晚被逗红温了",
-      "onboard_time": 1768836561,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 44589,
       "num": 129910,
       "word": "谁来医院打针都不会冷静",
@@ -467,7 +483,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 42537,
+      "raw_hot": 44184,
       "num": 129816,
       "word": "叶某斌偷渡至柬埔寨从事电诈被刑拘",
       "onboard_time": 1768834222,
@@ -483,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 41059,
+      "num": 50825,
+      "word": "声鸣远扬",
+      "onboard_time": 1768865419,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39134,
       "num": 129616,
       "word": "一觉醒来金银又涨了",
@@ -492,11 +516,19 @@
     },
     {
       "raw_hot": 32443,
-      "num": 45357,
+      "num": 50805,
       "word": "杭州全城等雪",
       "onboard_time": 1768846875,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31049,
+      "num": 50808,
+      "word": "林诗栋王皓开心打桌球",
+      "onboard_time": 1768865118,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 27701,
@@ -507,16 +539,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 27169,
-      "num": 45336,
-      "word": "澳网",
-      "onboard_time": 1768865297,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 26891,
-      "num": 45325,
+      "raw_hot": 27014,
+      "num": 50796,
       "word": "拿板凳打人学生已被劝退",
       "onboard_time": 1768854314,
       "rank": 48,
@@ -539,28 +563,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23551,
-      "num": 499095,
-      "word": "卫星互联网低轨19组卫星发射成功",
-      "onboard_time": 1768816702,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 23519,
-      "num": 45315,
-      "word": "林诗栋王皓开心打桌球",
-      "onboard_time": 1768865118,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 22353,
-      "num": 45305,
+      "raw_hot": 25111,
+      "num": 50786,
       "word": "江苏卫视春晚",
       "onboard_time": 1768832904,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23642,
+      "num": 525097,
+      "word": "卫星互联网低轨19组卫星发射成功",
+      "onboard_time": 1768816702,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18189,
