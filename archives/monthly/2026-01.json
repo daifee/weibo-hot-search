@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768848985725,
+  "endTime": 1768850769213,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -60331,6 +60331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 32443,
+      "num": 40466,
+      "word": "杭州全城等雪",
+      "onboard_time": 1768846875,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32431,
       "num": 68897,
       "word": "LGDNBW对战狼队",
@@ -61339,14 +61347,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 27215,
-      "num": 40466,
-      "word": "杭州全城等雪",
-      "onboard_time": 1768846875,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27159,
       "num": 88971,
       "word": "司机称帮老板贷款3750万公司破产",
@@ -61993,6 +61993,14 @@
       "onboard_time": 1767963921,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 23783,
+      "num": 40357,
+      "word": "陈光标称可在两日转账资助嫣然医院",
+      "onboard_time": 1768847295,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23754,
@@ -62769,14 +62777,6 @@
       "onboard_time": 1767501144,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 20320,
-      "num": 40357,
-      "word": "陈光标称可在两日转账资助嫣然医院",
-      "onboard_time": 1768847295,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20302,
