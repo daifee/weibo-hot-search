@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768815806804,
+  "endTime": 1768816718613,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -40,6 +40,14 @@
       "word": "董子健回复孙怡",
       "onboard_time": 1768732703,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1344326,
+      "num": 152292,
+      "word": "平台辟谣白珊珊被盗号",
+      "onboard_time": 1768815021,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -105,14 +113,6 @@
       "onboard_time": 1768735822,
       "rank": 21,
       "category": "财经"
-    },
-    {
-      "raw_hot": 902598,
-      "num": 152292,
-      "word": "平台辟谣白珊珊被盗号",
-      "onboard_time": 1768815021,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 852117,
@@ -459,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 540756,
+      "num": 196890,
+      "word": "iPhone18Pro宣传片曝光",
+      "onboard_time": 1768812261,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 533630,
       "num": 1083253,
       "word": "轧戏",
@@ -481,6 +489,14 @@
       "onboard_time": 1768786040,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 523141,
+      "num": 774515,
+      "word": "高市早苗将于1月23日解散众议院",
+      "onboard_time": 1768814661,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 517385,
@@ -529,14 +545,6 @@
       "onboard_time": 1768745783,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 484430,
-      "num": 156663,
-      "word": "iPhone18Pro宣传片曝光",
-      "onboard_time": 1768812261,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 481103,
@@ -684,7 +692,7 @@
     },
     {
       "raw_hot": 422204,
-      "num": 206260,
+      "num": 240302,
       "word": "潮宏基吊坠一夜涨了1.9万",
       "onboard_time": 1768814301,
       "rank": 5,
@@ -923,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 332083,
+      "num": 237476,
+      "word": "颐和园感觉有一亿人",
+      "onboard_time": 1768814481,
+      "rank": 6,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 325945,
       "num": 142346,
       "word": "黄金",
@@ -937,6 +953,14 @@
       "onboard_time": 1768697540,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 323744,
+      "num": 323744,
+      "word": "何老师不小心口误华晨宇的反应",
+      "onboard_time": 1768812082,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 319254,
@@ -1129,14 +1153,6 @@
       "onboard_time": 1768807821,
       "rank": 42,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 271147,
-      "num": 271147,
-      "word": "何老师不小心口误华晨宇的反应",
-      "onboard_time": 1768812082,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 268968,
@@ -1563,14 +1579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209482,
-      "num": 209482,
-      "word": "高市早苗将于1月23日解散众议院",
-      "onboard_time": 1768814661,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 207824,
       "num": 244967,
       "word": "全国多地发布紧急停课通知",
@@ -1617,14 +1625,6 @@
       "onboard_time": 1768742123,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202898,
-      "num": 202898,
-      "word": "颐和园感觉有一亿人",
-      "onboard_time": 1768814481,
-      "rank": 6,
-      "category": "旅游"
     },
     {
       "raw_hot": 202736,
@@ -1692,7 +1692,7 @@
     },
     {
       "raw_hot": 195957,
-      "num": 195957,
+      "num": 221845,
       "word": "时尚之夜红毯",
       "onboard_time": 1768815142,
       "rank": 7,
@@ -1971,6 +1971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174223,
+      "num": 174223,
+      "word": "钟意面具照有点帅",
+      "onboard_time": 1768816040,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 172172,
       "num": 172172,
       "word": "那英选人还是太权威了",
@@ -2243,6 +2251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150054,
+      "num": 131287,
+      "word": "孙一宁的脸当明星也绰绰有余",
+      "onboard_time": 1768816161,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 149891,
       "num": 118236,
       "word": "春节档",
@@ -2457,6 +2473,14 @@
       "onboard_time": 1768796840,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140614,
+      "num": 127125,
+      "word": "宋威龙赵今麦给韩昊霖电影打call",
+      "onboard_time": 1768815861,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 140343,
@@ -2680,6 +2704,14 @@
       "word": "孩子洗澡时浴霸突然起火冒烟",
       "onboard_time": 1768719560,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129599,
+      "num": 144886,
+      "word": "济南下暴雨梨花针了",
+      "onboard_time": 1768813580,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -2931,14 +2963,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 120285,
-      "num": 144886,
-      "word": "济南下暴雨梨花针了",
-      "onboard_time": 1768813580,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119545,
       "num": 119545,
       "word": "WB对战TES",
@@ -3163,6 +3187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 114860,
+      "num": 114860,
+      "word": "人民日报评美国斩杀线",
+      "onboard_time": 1768816102,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 114507,
       "num": 140596,
       "word": "林依轮 宴会时刻站哥必须发力",
@@ -3249,6 +3281,14 @@
       "onboard_time": 1768664301,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110664,
+      "num": 110664,
+      "word": "爱情怎么翻译",
+      "onboard_time": 1768816581,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 110632,
@@ -3596,7 +3636,7 @@
     },
     {
       "raw_hot": 101996,
-      "num": 99013,
+      "num": 100367,
       "word": "文俊辉满30减15",
       "onboard_time": 1768815321,
       "rank": 42,
@@ -3617,6 +3657,14 @@
       "onboard_time": 1768724240,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 101064,
+      "num": 153228,
+      "word": "患儿在嫣然医院2次手术仅花生活费",
+      "onboard_time": 1768814960,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100754,
@@ -4057,6 +4105,14 @@
       "onboard_time": 1768794620,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 91238,
+      "num": 154078,
+      "word": "郑州积雪最深可达13厘米",
+      "onboard_time": 1768814542,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91030,
@@ -4539,6 +4595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 82575,
+      "num": 115147,
+      "word": "关晓彤 谁踩了我一脚",
+      "onboard_time": 1768816341,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82400,
       "num": 82400,
       "word": "美国施压韩国",
@@ -5003,14 +5067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 70531,
-      "num": 154078,
-      "word": "郑州积雪最深可达13厘米",
-      "onboard_time": 1768814542,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 70447,
       "num": 102316,
       "word": "北京下雪萌兰变身糖霜小熊",
@@ -5153,6 +5209,22 @@
       "onboard_time": 1768803921,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65576,
+      "num": 125621,
+      "word": "A股三大板块爆发",
+      "onboard_time": 1768813401,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 65529,
+      "num": 86373,
+      "word": "韩媒曝19名残障女性遭性侵细节",
+      "onboard_time": 1768816642,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 65478,
@@ -5531,14 +5603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 51097,
-      "num": 153228,
-      "word": "患儿在嫣然医院2次手术仅花生活费",
-      "onboard_time": 1768814960,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 50761,
       "num": 106251,
       "word": "韩国19名残疾女性遭机构院长性侵",
@@ -5644,7 +5708,7 @@
     },
     {
       "raw_hot": 44455,
-      "num": 598769,
+      "num": 634592,
       "word": "万千气象看龙江",
       "onboard_time": 1768812502,
       "rank": 35,
@@ -5745,6 +5809,14 @@
       "onboard_time": 1768705399,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38663,
+      "num": 152783,
+      "word": "老板回应要顾客带走垃圾被怼格局小",
+      "onboard_time": 1768815380,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38312,
@@ -6089,14 +6161,6 @@
       "onboard_time": 1768671736,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15492,
-      "num": 152783,
-      "word": "老板回应要顾客带走垃圾被怼格局小",
-      "onboard_time": 1768815380,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15488,
