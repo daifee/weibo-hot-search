@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768822189241,
+  "endTime": 1768823094585,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -59,6 +59,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1220945,
+      "num": 1220945,
+      "word": "云南地震",
+      "onboard_time": 1768822882,
+      "rank": 0,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1184745,
       "num": 135612,
       "word": "棣欣引力",
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1053457,
-      "num": 124796,
+      "num": 125546,
       "word": "范丞丞 出庭的时候带上你的破平板",
       "onboard_time": 1768817121,
       "rank": 26,
@@ -329,6 +337,14 @@
       "onboard_time": 1768802842,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 642802,
+      "num": 124267,
+      "word": "李亚鹏前妻力挺嫣然医院",
+      "onboard_time": 1768821561,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 641833,
@@ -907,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356867,
+      "num": 178461,
+      "word": "沈梦辰 美商",
+      "onboard_time": 1768821082,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356848,
       "num": 207023,
       "word": "劣迹艺人打信息差到县域商演捞金",
@@ -1179,14 +1203,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 272963,
-      "num": 108761,
-      "word": "李亚鹏前妻力挺嫣然医院",
-      "onboard_time": 1768821561,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 272530,
       "num": 227066,
       "word": "王鹤棣听到倒闭的反应",
@@ -1403,6 +1419,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 233796,
+      "num": 233796,
+      "word": "多人往滇池抛洒放生矿泉水",
+      "onboard_time": 1768818801,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 233769,
       "num": 204542,
       "word": "8岁哥哥带4个月大弟弟坐地铁",
@@ -1603,6 +1627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 213362,
+      "num": 445712,
+      "word": "合肥下米雪了",
+      "onboard_time": 1768819280,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212979,
       "num": 160157,
       "word": "沈月撞档沈月",
@@ -1740,7 +1772,7 @@
     },
     {
       "raw_hot": 199366,
-      "num": 116071,
+      "num": 122046,
       "word": "双高胎直播",
       "onboard_time": 1768821982,
       "rank": 24,
@@ -1915,14 +1947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187157,
-      "num": 445712,
-      "word": "合肥下米雪了",
-      "onboard_time": 1768819280,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 187147,
       "num": 187147,
       "word": "镖人友情演出惠英红",
@@ -2019,12 +2043,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 178461,
-      "num": 178461,
-      "word": "沈梦辰 美商",
-      "onboard_time": 1768821082,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 178179,
+      "num": 321493,
+      "word": "小红书明确反对制造对立",
+      "onboard_time": 1768819041,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 177835,
@@ -2083,14 +2107,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 172544,
-      "num": 321493,
-      "word": "小红书明确反对制造对立",
-      "onboard_time": 1768819041,
-      "rank": 17,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 172172,
       "num": 172172,
       "word": "那英选人还是太权威了",
@@ -2105,6 +2121,14 @@
       "onboard_time": 1768731563,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170231,
+      "num": 170231,
+      "word": "Crown张艺兴cut",
+      "onboard_time": 1768819701,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 169989,
@@ -2267,6 +2291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156856,
+      "num": 156856,
+      "word": "JackeyLove说TES就在今天",
+      "onboard_time": 1768821801,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 156788,
       "num": 141678,
       "word": "包头包钢厂区爆炸目击者发声",
@@ -2347,20 +2379,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151538,
+      "num": 151538,
+      "word": "A股迎重要调整",
+      "onboard_time": 1768822043,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 151478,
       "num": 123851,
       "word": "迪迪不畏一个月瘦了20多斤",
       "onboard_time": 1768724660,
       "rank": 31,
       "category": "网红"
-    },
-    {
-      "raw_hot": 151250,
-      "num": 147407,
-      "word": "Crown张艺兴cut",
-      "onboard_time": 1768819701,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 151186,
@@ -2504,14 +2536,6 @@
       "word": "家中被邻居误入烧纸业主要求换房",
       "onboard_time": 1768813221,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 144822,
-      "num": 144822,
-      "word": "多人往滇池抛洒放生矿泉水",
-      "onboard_time": 1768818801,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -2740,7 +2764,7 @@
     },
     {
       "raw_hot": 134637,
-      "num": 104332,
+      "num": 116745,
       "word": "白珊珊违规账号已被关闭并上报公安",
       "onboard_time": 1768817540,
       "rank": 34,
@@ -2817,6 +2841,14 @@
       "onboard_time": 1768649181,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 130850,
+      "num": 130850,
+      "word": "内娱女打星赛道上新了",
+      "onboard_time": 1768822162,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 130812,
@@ -3073,6 +3105,14 @@
       "onboard_time": 1768703720,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123192,
+      "num": 122170,
+      "word": "很爱吃但巨发胖的东西",
+      "onboard_time": 1768822582,
+      "rank": 25,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 122783,
@@ -3371,14 +3411,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 114680,
-      "num": 114680,
-      "word": "A股迎重要调整",
-      "onboard_time": 1768822043,
-      "rank": 25,
-      "category": "财经"
-    },
-    {
       "raw_hot": 114507,
       "num": 140596,
       "word": "林依轮 宴会时刻站哥必须发力",
@@ -3643,6 +3675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106793,
+      "num": 106793,
+      "word": "小城大事",
+      "onboard_time": 1768650741,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106639,
       "num": 106639,
       "word": "吴磊工作室1天3次辟谣",
@@ -3705,6 +3745,14 @@
       "onboard_time": 1768702941,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105307,
+      "num": 105307,
+      "word": "TES对战WBG",
+      "onboard_time": 1768817061,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 105265,
@@ -3859,6 +3907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 101949,
+      "num": 101949,
+      "word": "滇池管理局回应多人放生矿泉水",
+      "onboard_time": 1768823061,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101701,
       "num": 101701,
       "word": "米兰男装周",
@@ -3896,6 +3952,14 @@
       "word": "男子家中容留2女卖淫被判刑",
       "onboard_time": 1768665441,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100523,
+      "num": 100523,
+      "word": "女子预订3间房结果变3张床",
+      "onboard_time": 1768820601,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -4027,6 +4091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 97590,
+      "num": 97590,
+      "word": "时尚之夜",
+      "onboard_time": 1768823061,
+      "rank": 42,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 97545,
       "num": 97545,
       "word": "李微漪和格林",
@@ -4129,6 +4201,14 @@
       "onboard_time": 1768649424,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 94938,
+      "num": 94938,
+      "word": "美国主播力挺牢A",
+      "onboard_time": 1768822101,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 94903,
@@ -4251,14 +4331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 93051,
-      "num": 93051,
-      "word": "JackeyLove说TES就在今天",
-      "onboard_time": 1768821801,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 93030,
       "num": 93030,
       "word": "A股行情",
@@ -4281,6 +4353,14 @@
       "onboard_time": 1768733184,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92875,
+      "num": 92875,
+      "word": "张凌赫张婧仪 兰蔻",
+      "onboard_time": 1768822942,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 92702,
@@ -4683,14 +4763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85888,
-      "num": 85888,
-      "word": "TES对战WBG",
-      "onboard_time": 1768817061,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 85864,
       "num": 101911,
       "word": "陈建斌在机场拉着蒋勤勤跑",
@@ -4769,14 +4841,6 @@
       "onboard_time": 1768805781,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85195,
-      "num": 85195,
-      "word": "美国主播力挺牢A",
-      "onboard_time": 1768822101,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 85132,
@@ -4899,14 +4963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 83129,
-      "num": 83129,
-      "word": "女子预订3间房结果变3张床",
-      "onboard_time": 1768820601,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82635,
       "num": 82635,
       "word": "Tabe不满意野辅的发挥",
@@ -4977,6 +5033,14 @@
       "onboard_time": 1768804461,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 81658,
+      "num": 81658,
+      "word": "单身不是最爽的",
+      "onboard_time": 1768819280,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 81028,
@@ -5051,14 +5115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79951,
-      "num": 93086,
-      "word": "内娱女打星赛道上新了",
-      "onboard_time": 1768822162,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 79592,
       "num": 79592,
       "word": "蒋敦豪演我过年上桌状态",
@@ -5073,6 +5129,14 @@
       "onboard_time": 1768811722,
       "rank": 42,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 79376,
+      "num": 79376,
+      "word": "1岁宝宝高烧家长贴暖宝宝捂进ICU",
+      "onboard_time": 1768822461,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79348,
@@ -6059,6 +6123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 45654,
+      "num": 122132,
+      "word": "包钢板材厂爆炸事故已致4死6失联",
+      "onboard_time": 1768822942,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44735,
       "num": 44735,
       "word": "糖尿病前期的3个标准",
@@ -6068,7 +6140,7 @@
     },
     {
       "raw_hot": 44455,
-      "num": 654724,
+      "num": 691852,
       "word": "万千气象看龙江",
       "onboard_time": 1768812502,
       "rank": 35,
@@ -6275,14 +6347,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 32776,
-      "num": 71456,
-      "word": "小城大事",
-      "onboard_time": 1768650741,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 32497,
       "num": 261409,
       "word": "朱珠被飞鹤的鲜活打动了",
@@ -6385,6 +6449,14 @@
       "onboard_time": 1768674617,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 23789,
+      "num": 126640,
+      "word": "火锅店回应饲养企鹅鲨鱼",
+      "onboard_time": 1768822702,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23404,

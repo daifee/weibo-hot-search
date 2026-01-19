@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768822189241,
+  "endTime": 1768823094585,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -715,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1220945,
+      "num": 1220945,
+      "word": "云南地震",
+      "onboard_time": 1768822882,
+      "rank": 0,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1219910,
       "num": 616344,
       "word": "吴佩慈婆婆在美被捕",
@@ -1028,7 +1036,7 @@
     },
     {
       "raw_hot": 1053457,
-      "num": 124796,
+      "num": 125546,
       "word": "范丞丞 出庭的时候带上你的破平板",
       "onboard_time": 1768817121,
       "rank": 26,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768440260,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 725868,
-      "num": 694581,
-      "word": "携程 杀熟",
-      "onboard_time": 1768380501,
-      "rank": 23,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [
