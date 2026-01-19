@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/19 17:58:38
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/19 18:38:21
 </p>
 </blockquote>
 <p>
@@ -1791,6 +1791,12 @@ iPhone4回收价涨了60倍（热度：736598）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%B0%86%E4%BA%8E1%E6%9C%8823%E6%97%A5%E8%A7%A3%E6%95%A3%E4%BC%97%E8%AE%AE%E9%99%A2%23" target="weibo">
+高市早苗将于1月23日解散众议院（热度：726695）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E6%8B%85%E5%BF%83%E5%A5%B3%E5%84%BF%E8%80%83%E4%B8%8A%E6%B8%85%E5%8C%97%E6%8E%A2%E6%9C%9B%E6%9C%BA%E7%A5%A8%E5%A4%AA%E8%B4%B5%23" target="weibo">
 爸爸担心女儿考上清北探望机票太贵（热度：726590）
 </a>
@@ -1805,12 +1811,6 @@ iPhone4回收价涨了60倍（热度：736598）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A8%E4%B8%805%E5%B2%81%E7%94%B7%E7%AB%A5%E5%B0%8F%E5%8C%BA%E5%86%85%E9%81%87%E5%AE%B3%23" target="weibo">
 厦门一5岁男童小区内遇害（热度：725384）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%233%E9%83%A8%E7%94%B5%E5%BD%B1%E5%AE%9A%E6%A1%A32026%E6%98%A5%E8%8A%82%E6%A1%A3%23" target="weibo">
-3部电影定档2026春节档（热度：725297）
 </a>
 </li>
 

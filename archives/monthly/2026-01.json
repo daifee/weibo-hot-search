@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768816718613,
+  "endTime": 1768819101713,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -2371,6 +2371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 726695,
+      "num": 774515,
+      "word": "高市早苗将于1月23日解散众议院",
+      "onboard_time": 1768814661,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 726590,
       "num": 697944,
       "word": "爸爸担心女儿考上清北探望机票太贵",
@@ -4563,14 +4571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 523141,
-      "num": 774515,
-      "word": "高市早苗将于1月23日解散众议院",
-      "onboard_time": 1768814661,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 522400,
       "num": 274274,
       "word": "夏迎春下房管",
@@ -5289,6 +5289,14 @@
       "onboard_time": 1768123279,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 487805,
+      "num": 102703,
+      "word": "李亚鹏",
+      "onboard_time": 1768816881,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 487139,
@@ -8067,6 +8075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 373419,
+      "num": 98700,
+      "word": "范丞丞 出庭的时候带上你的破平板",
+      "onboard_time": 1768817121,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 373337,
       "num": 1017374,
       "word": "元旦宝宝1月1日0点出生",
@@ -8297,6 +8313,14 @@
       "onboard_time": 1768048161,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 366348,
+      "num": 323744,
+      "word": "何老师不小心口误华晨宇的反应",
+      "onboard_time": 1768812082,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 366166,
@@ -9729,14 +9753,6 @@
       "onboard_time": 1767841820,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 323744,
-      "num": 323744,
-      "word": "何老师不小心口误华晨宇的反应",
-      "onboard_time": 1768812082,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 323732,
@@ -12899,6 +12915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257362,
+      "num": 257362,
+      "word": "终末地",
+      "onboard_time": 1768817781,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 257143,
       "num": 171817,
       "word": "37岁坚持化妆200天的变化",
@@ -13273,6 +13297,14 @@
       "onboard_time": 1768347379,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 250224,
+      "num": 802346,
+      "word": "人民日报评美国斩杀线",
+      "onboard_time": 1768816102,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 250191,
@@ -14763,6 +14795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 224951,
+      "num": 131287,
+      "word": "孙一宁的脸当明星也绰绰有余",
+      "onboard_time": 1768816161,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 224922,
       "num": 160309,
       "word": "曝成毅和欢瑞解约后片酬翻了一倍",
@@ -15057,6 +15097,14 @@
       "onboard_time": 1768441100,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221184,
+      "num": 221184,
+      "word": "宋威龙赵今麦给韩昊霖电影打call",
+      "onboard_time": 1768815861,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 221036,
@@ -16889,6 +16937,14 @@
       "onboard_time": 1767356241,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200486,
+      "num": 200486,
+      "word": "火锅店用鱼缸养鲨鱼供人观赏",
+      "onboard_time": 1768817121,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200394,
@@ -20241,6 +20297,14 @@
       "onboard_time": 1768290439,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 175712,
+      "num": 175712,
+      "word": "沈梦辰一套又一套眼前一亮又一亮",
+      "onboard_time": 1768817841,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 175645,
@@ -24067,14 +24131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150054,
-      "num": 131287,
-      "word": "孙一宁的脸当明星也绰绰有余",
-      "onboard_time": 1768816161,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
       "raw_hot": 149987,
       "num": 1003751,
       "word": "这是国产剧能有的尺度吗",
@@ -26129,14 +26185,6 @@
       "onboard_time": 1767684919,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140614,
-      "num": 127125,
-      "word": "宋威龙赵今麦给韩昊霖电影打call",
-      "onboard_time": 1768815861,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 140496,
@@ -30123,6 +30171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124903,
+      "num": 94098,
+      "word": "白珊珊违规账号已被关闭并上报公安",
+      "onboard_time": 1768817540,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124833,
       "num": 213592,
       "word": "在地铁遇见老钱风了",
@@ -31467,6 +31523,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 120609,
+      "num": 92763,
+      "word": "白鹿cha娃娃脸手势舞",
+      "onboard_time": 1768818023,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120594,
       "num": 170782,
       "word": "侯明昊娜扎直播",
@@ -32427,6 +32491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117200,
+      "num": 117200,
+      "word": "小红书明确反对制造对立",
+      "onboard_time": 1768819041,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 117197,
       "num": 117197,
       "word": "Tian看Zoom介入比赛",
@@ -33265,14 +33337,6 @@
       "onboard_time": 1767863420,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 114860,
-      "num": 114860,
-      "word": "人民日报评美国斩杀线",
-      "onboard_time": 1768816102,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 114858,
@@ -34713,6 +34777,14 @@
       "onboard_time": 1767612800,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 110324,
+      "num": 115147,
+      "word": "关晓彤 谁踩了我一脚",
+      "onboard_time": 1768816341,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 110319,
@@ -38251,6 +38323,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 101303,
+      "num": 86809,
+      "word": "吴磊工作室1天3次辟谣",
+      "onboard_time": 1768817899,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101301,
       "num": 101301,
       "word": "男子唇周黑斑肠道查出200多颗息肉",
@@ -38857,6 +38937,14 @@
       "onboard_time": 1767689061,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99951,
+      "num": 99951,
+      "word": "失去爱子后爸爸继续尬舞救别的孩子",
+      "onboard_time": 1768817540,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99941,
@@ -43915,6 +44003,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 89393,
+      "num": 89393,
+      "word": "小红书上线社区公约2.0",
+      "onboard_time": 1768818801,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 89372,
       "num": 102735,
       "word": "鼻病毒全人群易感",
@@ -45803,6 +45899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85888,
+      "num": 85888,
+      "word": "TES对战WBG",
+      "onboard_time": 1768817061,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 85881,
       "num": 253665,
       "word": "468元一个龙虾尾",
@@ -46555,6 +46659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84207,
+      "num": 84207,
+      "word": "钟情于热水的人天塌了",
+      "onboard_time": 1768819041,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 84206,
       "num": 117112,
       "word": "西红柿涨价背后原因",
@@ -47147,12 +47259,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 82575,
-      "num": 115147,
-      "word": "关晓彤 谁踩了我一脚",
-      "onboard_time": 1768816341,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 82580,
+      "num": 82580,
+      "word": "Crown",
+      "onboard_time": 1768818860,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 82541,
@@ -50659,6 +50771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73068,
+      "num": 87441,
+      "word": "于正瘦下来更像何晟铭了",
+      "onboard_time": 1768818741,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73061,
       "num": 1029184,
       "word": "鬼灭之刃时透无一郎",
@@ -53635,6 +53755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 62025,
+      "num": 194884,
+      "word": "包钢爆炸事故现场找到2名失联人员",
+      "onboard_time": 1768817962,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61977,
       "num": 61977,
       "word": "从零开始的异世界生活",
@@ -55603,6 +55731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51337,
+      "num": 87539,
+      "word": "成毅名下关联3家企业",
+      "onboard_time": 1768818561,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51259,
       "num": 56209,
       "word": "47天大的宝宝开口跟爸爸对话",
@@ -56748,7 +56884,7 @@
     },
     {
       "raw_hot": 44455,
-      "num": 634592,
+      "num": 640874,
       "word": "万千气象看龙江",
       "onboard_time": 1768812502,
       "rank": 35,
@@ -59795,6 +59931,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 28929,
+      "num": 100848,
+      "word": "多人往滇池抛洒放生矿泉水",
+      "onboard_time": 1768818801,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28906,
       "num": 201450,
       "word": "战斗精灵iQOOZ11Turbo来了",
@@ -60177,6 +60321,14 @@
       "onboard_time": 1768498815,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26903,
+      "num": 96365,
+      "word": "让美国再次伟大等于让丹麦再次变小",
+      "onboard_time": 1768818981,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 26863,

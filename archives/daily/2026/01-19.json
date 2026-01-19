@@ -1,6 +1,6 @@
 {
   "startTime": 1768754034427,
-  "endTime": 1768816718613,
+  "endTime": 1768819101713,
   "band_list": [
     {
       "raw_hot": 1973872,
@@ -73,6 +73,14 @@
       "onboard_time": 1768786880,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 726695,
+      "num": 774515,
+      "word": "高市早苗将于1月23日解散众议院",
+      "onboard_time": 1768814661,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 725297,
@@ -187,14 +195,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 523141,
-      "num": 774515,
-      "word": "高市早苗将于1月23日解散众议院",
-      "onboard_time": 1768814661,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 515519,
       "num": 206707,
       "word": "宋威龙在庆功宴上哭了",
@@ -209,6 +209,14 @@
       "onboard_time": 1768788200,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 487805,
+      "num": 102703,
+      "word": "李亚鹏",
+      "onboard_time": 1768816881,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 476675,
@@ -315,6 +323,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 373419,
+      "num": 98700,
+      "word": "范丞丞 出庭的时候带上你的破平板",
+      "onboard_time": 1768817121,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 366348,
+      "num": 323744,
+      "word": "何老师不小心口误华晨宇的反应",
+      "onboard_time": 1768812082,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356848,
       "num": 207023,
       "word": "劣迹艺人打信息差到县域商演捞金",
@@ -377,14 +401,6 @@
       "onboard_time": 1768784541,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 323744,
-      "num": 323744,
-      "word": "何老师不小心口误华晨宇的反应",
-      "onboard_time": 1768812082,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 318297,
@@ -499,6 +515,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 257362,
+      "num": 257362,
+      "word": "终末地",
+      "onboard_time": 1768817781,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 255777,
       "num": 214980,
       "word": "姜思达回应张艺兴晚晚采访被嘲",
@@ -529,6 +553,14 @@
       "onboard_time": 1768804881,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250224,
+      "num": 802346,
+      "word": "人民日报评美国斩杀线",
+      "onboard_time": 1768816102,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 242108,
@@ -593,6 +625,22 @@
       "onboard_time": 1768784419,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224951,
+      "num": 131287,
+      "word": "孙一宁的脸当明星也绰绰有余",
+      "onboard_time": 1768816161,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 221184,
+      "num": 221184,
+      "word": "宋威龙赵今麦给韩昊霖电影打call",
+      "onboard_time": 1768815861,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 218504,
@@ -697,6 +745,14 @@
       "onboard_time": 1768789279,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 200486,
+      "num": 200486,
+      "word": "火锅店用鱼缸养鲨鱼供人观赏",
+      "onboard_time": 1768817121,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197126,
@@ -809,6 +865,14 @@
       "onboard_time": 1768779379,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175712,
+      "num": 175712,
+      "word": "沈梦辰一套又一套眼前一亮又一亮",
+      "onboard_time": 1768817841,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 174223,
@@ -939,14 +1003,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 150054,
-      "num": 131287,
-      "word": "孙一宁的脸当明星也绰绰有余",
-      "onboard_time": 1768816161,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
       "raw_hot": 149891,
       "num": 118236,
       "word": "春节档",
@@ -1033,14 +1089,6 @@
       "onboard_time": 1768796840,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140614,
-      "num": 127125,
-      "word": "宋威龙赵今麦给韩昊霖电影打call",
-      "onboard_time": 1768815861,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 140060,
@@ -1243,6 +1291,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 124903,
+      "num": 94098,
+      "word": "白珊珊违规账号已被关闭并上报公安",
+      "onboard_time": 1768817540,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124727,
       "num": 131883,
       "word": "时团路透扑面而来的青春感",
@@ -1259,6 +1315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123617,
+      "num": 123617,
+      "word": "御赐小仵作2",
+      "onboard_time": 1768818382,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123301,
       "num": 186285,
       "word": "日本最后2只大熊猫下周一回中国",
@@ -1273,6 +1337,14 @@
       "onboard_time": 1768800502,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120609,
+      "num": 92763,
+      "word": "白鹿cha娃娃脸手势舞",
+      "onboard_time": 1768818023,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 120066,
@@ -1331,6 +1403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117200,
+      "num": 117200,
+      "word": "小红书明确反对制造对立",
+      "onboard_time": 1768819041,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 116523,
       "num": 636843,
       "word": "中央气象台三预警齐发",
@@ -1361,14 +1441,6 @@
       "onboard_time": 1768806561,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 114860,
-      "num": 114860,
-      "word": "人民日报评美国斩杀线",
-      "onboard_time": 1768816102,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 114825,
@@ -1417,6 +1489,14 @@
       "onboard_time": 1768804102,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110324,
+      "num": 115147,
+      "word": "关晓彤 谁踩了我一脚",
+      "onboard_time": 1768816341,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 110142,
@@ -1563,6 +1643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 101303,
+      "num": 86809,
+      "word": "吴磊工作室1天3次辟谣",
+      "onboard_time": 1768817899,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101064,
       "num": 153228,
       "word": "患儿在嫣然医院2次手术仅花生活费",
@@ -1577,6 +1665,14 @@
       "onboard_time": 1768813942,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 99951,
+      "num": 99951,
+      "word": "失去爱子后爸爸继续尬舞救别的孩子",
+      "onboard_time": 1768817540,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95800,
@@ -1763,6 +1859,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 89393,
+      "num": 89393,
+      "word": "小红书上线社区公约2.0",
+      "onboard_time": 1768818801,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 89351,
       "num": 107691,
       "word": "光伏行业为何大面积亏损",
@@ -1859,6 +1963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85888,
+      "num": 85888,
+      "word": "TES对战WBG",
+      "onboard_time": 1768817061,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 85864,
       "num": 101911,
       "word": "陈建斌在机场拉着蒋勤勤跑",
@@ -1907,6 +2019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 84207,
+      "num": 84207,
+      "word": "钟情于热水的人天塌了",
+      "onboard_time": 1768819041,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83910,
       "num": 215600,
       "word": "茶颜悦色回应在北上深开店传闻",
@@ -1939,12 +2059,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 82575,
-      "num": 115147,
-      "word": "关晓彤 谁踩了我一脚",
-      "onboard_time": 1768816341,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 82580,
+      "num": 82580,
+      "word": "Crown",
+      "onboard_time": 1768818860,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 81734,
@@ -2097,6 +2217,14 @@
       "onboard_time": 1768804040,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 73068,
+      "num": 87441,
+      "word": "于正瘦下来更像何晟铭了",
+      "onboard_time": 1768818741,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 72772,
@@ -2275,6 +2403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62025,
+      "num": 194884,
+      "word": "包钢爆炸事故现场找到2名失联人员",
+      "onboard_time": 1768817962,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61089,
       "num": 214375,
       "word": "上海龙华寺三只猫在殿内吵架",
@@ -2395,6 +2531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51337,
+      "num": 87539,
+      "word": "成毅名下关联3家企业",
+      "onboard_time": 1768818561,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 50761,
       "num": 106251,
       "word": "韩国19名残疾女性遭机构院长性侵",
@@ -2476,7 +2620,7 @@
     },
     {
       "raw_hot": 44455,
-      "num": 634592,
+      "num": 640874,
       "word": "万千气象看龙江",
       "onboard_time": 1768812502,
       "rank": 35,
@@ -2632,6 +2776,22 @@
       "word": "美国想拉60国建新群只来了1人",
       "onboard_time": 1768804461,
       "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 28929,
+      "num": 100848,
+      "word": "多人往滇池抛洒放生矿泉水",
+      "onboard_time": 1768818801,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26903,
+      "num": 96365,
+      "word": "让美国再次伟大等于让丹麦再次变小",
+      "onboard_time": 1768818981,
+      "rank": 30,
       "category": "国际时政"
     },
     {

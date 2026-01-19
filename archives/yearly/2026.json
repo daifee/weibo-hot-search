@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768816718613,
+  "endTime": 1768819101713,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -2371,6 +2371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 726695,
+      "num": 774515,
+      "word": "高市早苗将于1月23日解散众议院",
+      "onboard_time": 1768814661,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 726590,
       "num": 697944,
       "word": "爸爸担心女儿考上清北探望机票太贵",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767685459,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 725297,
-      "num": 1116047,
-      "word": "3部电影定档2026春节档",
-      "onboard_time": 1768793840,
-      "rank": 1,
-      "category": "电影"
     }
   ],
   "hotgov_list": [

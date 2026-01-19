@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/19 17:58:38
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/19 18:38:21
 </p>
 </blockquote>
 <p>
@@ -1791,6 +1791,12 @@ iPhone4回收价涨了60倍（热度：736598）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%B0%86%E4%BA%8E1%E6%9C%8823%E6%97%A5%E8%A7%A3%E6%95%A3%E4%BC%97%E8%AE%AE%E9%99%A2%23" target="weibo">
+高市早苗将于1月23日解散众议院（热度：726695）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E6%8B%85%E5%BF%83%E5%A5%B3%E5%84%BF%E8%80%83%E4%B8%8A%E6%B8%85%E5%8C%97%E6%8E%A2%E6%9C%9B%E6%9C%BA%E7%A5%A8%E5%A4%AA%E8%B4%B5%23" target="weibo">
 爸爸担心女儿考上清北探望机票太贵（热度：726590）
 </a>
@@ -3435,12 +3441,6 @@ iPhone18Pro宣传片曝光（热度：540756）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%B0%86%E4%BA%8E1%E6%9C%8823%E6%97%A5%E8%A7%A3%E6%95%A3%E4%BC%97%E8%AE%AE%E9%99%A2%23" target="weibo">
-高市早苗将于1月23日解散众议院（热度：523141）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%8F%E8%BF%8E%E6%98%A5%E4%B8%8B%E6%88%BF%E7%AE%A1%23" target="weibo">
 夏迎春下房管（热度：522400）
 </a>
@@ -3977,6 +3977,12 @@ iPhone4需求激增近1000%（热度：506886）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%9D%E8%80%81%E7%97%87%E7%8A%B6%23" target="weibo">
 初老症状（热度：488051）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BA%9A%E9%B9%8F%23" target="weibo">
+李亚鹏（热度：487805）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ AI登顶LOL韩服（热度：378599）
 <li>
 <a href="https://s.weibo.com/weibo?q=%233%E4%B8%87%E8%AF%B71400%E4%B8%87%E7%BD%91%E7%BA%A2%E5%B8%A6%E8%B4%A7%E4%BB%85%E6%88%90%E4%BA%A44%E5%8D%95%23" target="weibo">
 3万请1400万网红带货仅成交4单（热度：376299）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%B2%88%E6%9C%88%E5%90%B5%E6%9E%B6%23" target="weibo">
-王鹤棣沈月吵架（热度：375692）
 </a>
 </li>
 

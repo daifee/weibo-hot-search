@@ -1,0 +1,410 @@
+{
+  "runTime": 1768819101713,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 549300,
+        "num": 1087888,
+        "word": "生命树",
+        "onboard_time": 1768796122,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250224,
+        "num": 802346,
+        "word": "人民日报评美国斩杀线",
+        "onboard_time": 1768816102,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24128,
+        "num": 640874,
+        "word": "万千气象看龙江",
+        "onboard_time": 1768812502,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257362,
+        "num": 257362,
+        "word": "终末地",
+        "onboard_time": 1768817781,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221184,
+        "num": 221184,
+        "word": "宋威龙赵今麦给韩昊霖电影打call",
+        "onboard_time": 1768815861,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 367793,
+        "num": 220858,
+        "word": "潮宏基吊坠一夜涨了1.9万",
+        "onboard_time": 1768814301,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 296990,
+        "num": 220694,
+        "word": "颐和园感觉有一亿人",
+        "onboard_time": 1768814481,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 220384,
+        "num": 220384,
+        "word": "深圳封存20年垃圾山开挖",
+        "onboard_time": 1768808180,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200486,
+        "num": 200486,
+        "word": "火锅店用鱼缸养鲨鱼供人观赏",
+        "onboard_time": 1768817121,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62025,
+        "num": 194884,
+        "word": "包钢爆炸事故现场找到2名失联人员",
+        "onboard_time": 1768817962,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 469898,
+        "num": 194279,
+        "word": "iPhone18Pro宣传片曝光",
+        "onboard_time": 1768812261,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 193192,
+        "num": 193192,
+        "word": "时尚之夜红毯",
+        "onboard_time": 1768815142,
+        "rank": 11,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 175712,
+        "num": 175712,
+        "word": "沈梦辰一套又一套眼前一亮又一亮",
+        "onboard_time": 1768817841,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143387,
+        "num": 143387,
+        "word": "19岁男孩肚疼3天查出白血病",
+        "onboard_time": 1768811902,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124694,
+        "num": 124694,
+        "word": "嫣然天使基金预算已筹满",
+        "onboard_time": 1768810581,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123617,
+        "num": 123617,
+        "word": "御赐小仵作2",
+        "onboard_time": 1768818382,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120441,
+        "num": 120441,
+        "word": "Gucci家族里的豪门姐弟",
+        "onboard_time": 1768811902,
+        "rank": 16,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 117200,
+        "num": 117200,
+        "word": "小红书明确反对制造对立",
+        "onboard_time": 1768819041,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 109218,
+        "num": 109218,
+        "word": "孙海洋向嫣然天使儿童医院捐款",
+        "onboard_time": 1768807162,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109065,
+        "num": 109065,
+        "word": "男子右脑出血被医生错开左脑",
+        "onboard_time": 1768797201,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1115695,
+        "num": 107550,
+        "word": "糖霜苹果",
+        "onboard_time": 1768811902,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 978150,
+        "num": 106091,
+        "word": "平台辟谣白珊珊被盗号",
+        "onboard_time": 1768815021,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487805,
+        "num": 102703,
+        "word": "李亚鹏",
+        "onboard_time": 1768816881,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28929,
+        "num": 100848,
+        "word": "多人往滇池抛洒放生矿泉水",
+        "onboard_time": 1768818801,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99951,
+        "num": 99951,
+        "word": "失去爱子后爸爸继续尬舞救别的孩子",
+        "onboard_time": 1768817540,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378743,
+        "num": 99532,
+        "word": "这是朱正廷吗",
+        "onboard_time": 1768813761,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373419,
+        "num": 98700,
+        "word": "范丞丞 出庭的时候带上你的破平板",
+        "onboard_time": 1768817121,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116338,
+        "num": 98147,
+        "word": "济南下暴雨梨花针了",
+        "onboard_time": 1768813580,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366348,
+        "num": 97476,
+        "word": "何老师不小心口误华晨宇的反应",
+        "onboard_time": 1768812082,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 726695,
+        "num": 97089,
+        "word": "高市早苗将于1月23日解散众议院",
+        "onboard_time": 1768814661,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26903,
+        "num": 96365,
+        "word": "让美国再次伟大等于让丹麦再次变小",
+        "onboard_time": 1768818981,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 224951,
+        "num": 95880,
+        "word": "孙一宁的脸当明星也绰绰有余",
+        "onboard_time": 1768816161,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 132412,
+        "num": 95021,
+        "word": "劣迹艺人打信息差到县域商演捞金",
+        "onboard_time": 1768800922,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94738,
+        "num": 94738,
+        "word": "某地一男孩用凳子猛砸同学后脑勺",
+        "onboard_time": 1768806261,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124903,
+        "num": 94098,
+        "word": "白珊珊违规账号已被关闭并上报公安",
+        "onboard_time": 1768817540,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120609,
+        "num": 92763,
+        "word": "白鹿cha娃娃脸手势舞",
+        "onboard_time": 1768818023,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90402,
+        "num": 90402,
+        "word": "新年美甲",
+        "onboard_time": 1768807821,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 89393,
+        "num": 89393,
+        "word": "小红书上线社区公约2.0",
+        "onboard_time": 1768818801,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 51337,
+        "num": 87539,
+        "word": "成毅名下关联3家企业",
+        "onboard_time": 1768818561,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73068,
+        "num": 87441,
+        "word": "于正瘦下来更像何晟铭了",
+        "onboard_time": 1768818741,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87385,
+        "num": 87385,
+        "word": "母牛去世出生3天小牛墙边独自流泪",
+        "onboard_time": 1768810103,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110324,
+        "num": 87207,
+        "word": "关晓彤 谁踩了我一脚",
+        "onboard_time": 1768816341,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101303,
+        "num": 86809,
+        "word": "吴磊工作室1天3次辟谣",
+        "onboard_time": 1768817899,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85888,
+        "num": 85888,
+        "word": "TES对战WBG",
+        "onboard_time": 1768817061,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96398,
+        "num": 85468,
+        "word": "马未都谈李亚鹏嫣然天使儿童医院",
+        "onboard_time": 1768814841,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84207,
+        "num": 84207,
+        "word": "钟情于热水的人天塌了",
+        "onboard_time": 1768819041,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182956,
+        "num": 84205,
+        "word": "沈逸回应糖霜苹果",
+        "onboard_time": 1768809200,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83966,
+        "num": 83966,
+        "word": "郑州积雪最深可达13厘米",
+        "onboard_time": 1768814542,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82580,
+        "num": 82580,
+        "word": "Crown",
+        "onboard_time": 1768818860,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 77563,
+        "num": 77563,
+        "word": "体面人的体面一生",
+        "onboard_time": 1768809680,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#做好冰雪文章总书记念兹在兹#"
+    }
+  }
+}
