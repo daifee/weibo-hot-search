@@ -1,0 +1,410 @@
+{
+  "runTime": 1768797475634,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 725297,
+        "num": 1116047,
+        "word": "3部电影定档2026春节档",
+        "onboard_time": 1768793840,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 714179,
+        "num": 828819,
+        "word": "安徽下霰了",
+        "onboard_time": 1768792580,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22861,
+        "num": 661310,
+        "word": "今天可买春运第1天火车票",
+        "onboard_time": 1768783220,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483274,
+        "num": 483274,
+        "word": "多地紧急叫停刨猪宴",
+        "onboard_time": 1768795822,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448761,
+        "num": 448761,
+        "word": "B站百大UP主",
+        "onboard_time": 1768788680,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 630413,
+        "num": 447345,
+        "word": "原来小学成绩差的学生是这样的",
+        "onboard_time": 1768794441,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 415428,
+        "num": 415428,
+        "word": "生命树",
+        "onboard_time": 1768796122,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262249,
+        "num": 262249,
+        "word": "微博抓马",
+        "onboard_time": 1768794741,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 257408,
+        "num": 257408,
+        "word": "镖人预告片公布",
+        "onboard_time": 1768789579,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206301,
+        "num": 254896,
+        "word": "2025年GDP增长5%",
+        "onboard_time": 1768789279,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1818054,
+        "num": 251867,
+        "word": "被妻子道歉出轨丈夫现状曝光",
+        "onboard_time": 1768795042,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414325,
+        "num": 245474,
+        "word": "终于有人吐槽现在的婚礼流程了",
+        "onboard_time": 1768795282,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 373223,
+        "num": 243389,
+        "word": "镖人",
+        "onboard_time": 1768783280,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 394108,
+        "num": 234359,
+        "word": "比伯点赞和赛琳娜cp粉留言",
+        "onboard_time": 1768792040,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234117,
+        "num": 234117,
+        "word": "去年全国人均可支配收入43377元",
+        "onboard_time": 1768790839,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 304108,
+        "num": 232652,
+        "word": "梁小龙本想隐瞒死讯",
+        "onboard_time": 1768785681,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215963,
+        "num": 215963,
+        "word": "吴京谢霆锋领衔主演镖人",
+        "onboard_time": 1768792700,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212891,
+        "num": 212891,
+        "word": "64岁没老公不带孙子的真实生活",
+        "onboard_time": 1768795822,
+        "rank": 17,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 5054,
+        "num": 212325,
+        "word": "神21乘组太空Vlog上新",
+        "onboard_time": 1768740202,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119436,
+        "num": 211270,
+        "word": "女商人服刑7年后获无罪提国家赔偿",
+        "onboard_time": 1768796722,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 425965,
+        "num": 210290,
+        "word": "锤娜丽莎刚订婚就再就业了",
+        "onboard_time": 1768794921,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400827,
+        "num": 209483,
+        "word": "睡觉出现5种症状说明血糖高了",
+        "onboard_time": 1768792460,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 208843,
+        "num": 208843,
+        "word": "电影镖人定档春节",
+        "onboard_time": 1768789341,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 347631,
+        "num": 208131,
+        "word": "金价波动",
+        "onboard_time": 1768786040,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 276184,
+        "num": 207785,
+        "word": "迪丽热巴超短发造型路透",
+        "onboard_time": 1768788200,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222258,
+        "num": 206707,
+        "word": "宋威龙在庆功宴上哭了",
+        "onboard_time": 1768784419,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183033,
+        "num": 206032,
+        "word": "嫣然医院周边居民发声",
+        "onboard_time": 1768779320,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205937,
+        "num": 205937,
+        "word": "镖人官宣阵容",
+        "onboard_time": 1768795282,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139315,
+        "num": 200404,
+        "word": "台湾新北市发生双尸案",
+        "onboard_time": 1768796122,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129702,
+        "num": 198244,
+        "word": "政府背书的惠民保为啥卖不动了",
+        "onboard_time": 1768792580,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197126,
+        "num": 197126,
+        "word": "吴京说镖人或是最后的武林盛宴",
+        "onboard_time": 1768797323,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191762,
+        "num": 191762,
+        "word": "彭小苒镂空连体衣辣成啥了",
+        "onboard_time": 1768792700,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17201,
+        "num": 188240,
+        "word": "卢浮宫失窃案最新监控画面曝光",
+        "onboard_time": 1768797323,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 187147,
+        "num": 187147,
+        "word": "镖人友情演出惠英红",
+        "onboard_time": 1768793541,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123301,
+        "num": 186285,
+        "word": "日本最后2只大熊猫下周一回中国",
+        "onboard_time": 1768796122,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186171,
+        "num": 186171,
+        "word": "原来镖人女武一也是女舞一",
+        "onboard_time": 1768796962,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32259,
+        "num": 185527,
+        "word": "卢昱晓晒D事务所大家庭",
+        "onboard_time": 1768796482,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40442,
+        "num": 182304,
+        "word": "小城大事高光全在男主身上",
+        "onboard_time": 1768796662,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36289,
+        "num": 179925,
+        "word": "小伙为克服自卑在地铁上演讲",
+        "onboard_time": 1768796783,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85828,
+        "num": 177516,
+        "word": "海南免税金镯省1.3万",
+        "onboard_time": 1768797323,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 176852,
+        "num": 176852,
+        "word": "那英 这个高音只有你花老师能唱",
+        "onboard_time": 1768796783,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169989,
+        "num": 169989,
+        "word": "张杰未live巡回演唱会",
+        "onboard_time": 1768796421,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164232,
+        "num": 164232,
+        "word": "吃海鲜吃到痛风的猴子",
+        "onboard_time": 1768784001,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152686,
+        "num": 152686,
+        "word": "陈丽君李云霄合作镖人",
+        "onboard_time": 1768791139,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140647,
+        "num": 140647,
+        "word": "博主嘴哥为嫣然医院捐款10万",
+        "onboard_time": 1768796840,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140060,
+        "num": 140060,
+        "word": "他得到的爱很少所以格外珍惜",
+        "onboard_time": 1768797083,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128630,
+        "num": 128630,
+        "word": "沈月吃了900多岁的盐",
+        "onboard_time": 1768797442,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126817,
+        "num": 126817,
+        "word": "同事要离职的10个破绽",
+        "onboard_time": 1768796061,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125492,
+        "num": 125492,
+        "word": "男子右脑出血被医生错开左脑",
+        "onboard_time": 1768797201,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123421,
+        "num": 123421,
+        "word": "惊蛰无声",
+        "onboard_time": 1768791259,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#这则寓言习近平多次讲起#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768796287388,
+  "endTime": 1768797475634,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 1973872,
-      "num": 240512,
+      "num": 251867,
       "word": "被妻子道歉出轨丈夫现状曝光",
       "onboard_time": 1768795042,
       "rank": 10,
@@ -2363,6 +2363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 725297,
+      "num": 1116047,
+      "word": "3部电影定档2026春节档",
+      "onboard_time": 1768793840,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 724264,
       "num": 683928,
       "word": "西贝服务员工资条",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768133960,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 717720,
-      "num": 545076,
-      "word": "死了么APP发文回应",
-      "onboard_time": 1768115301,
-      "rank": 3,
-      "category": "民生新闻,互联网"
     }
   ],
   "hotgov_list": [
