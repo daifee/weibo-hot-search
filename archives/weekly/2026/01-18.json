@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768862781877,
+  "endTime": 1768865348221,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -507,6 +507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 568844,
+      "num": 842126,
+      "word": "日本迎半世纪来首次零熊猫",
+      "onboard_time": 1768839199,
+      "rank": 7,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 561269,
       "num": 561269,
       "word": "男子右脑出血被医生错开左脑",
@@ -955,14 +963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 372163,
-      "num": 532202,
-      "word": "日本迎半世纪来首次零熊猫",
-      "onboard_time": 1768839199,
-      "rank": 7,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 369835,
       "num": 251282,
       "word": "赵今麦庆功宴出图了",
@@ -1161,6 +1161,14 @@
       "onboard_time": 1768790839,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 317953,
+      "num": 83535,
+      "word": "吴磊方称没有义务和必要逐一自证",
+      "onboard_time": 1768864937,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 315670,
@@ -1483,6 +1491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 252338,
+      "num": 252338,
+      "word": "大寒",
+      "onboard_time": 1768864577,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252180,
       "num": 204262,
       "word": "奚梦瑶晒当妈后的幸福变化",
@@ -1497,6 +1513,14 @@
       "onboard_time": 1768660882,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 247887,
+      "num": 247887,
+      "word": "上海下雪",
+      "onboard_time": 1768864638,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 245034,
@@ -2633,6 +2657,14 @@
       "onboard_time": 1768779379,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 154656,
+      "num": 81548,
+      "word": "苹果将改为一年两次发布新品",
+      "onboard_time": 1768864877,
+      "rank": 12,
+      "category": "数码"
     },
     {
       "raw_hot": 154037,
@@ -4659,6 +4691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96002,
+      "num": 130899,
+      "word": "俄罗斯一地居民挖通积雪才能回家",
+      "onboard_time": 1768837999,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 95898,
       "num": 95898,
       "word": "第一次见会跳绳的小猫",
@@ -6563,14 +6603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 61412,
-      "num": 130899,
-      "word": "俄罗斯一地居民挖通积雪才能回家",
-      "onboard_time": 1768837999,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 60957,
       "num": 291531,
       "word": "周启豪4比2温瑞博",
@@ -6587,12 +6619,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 60495,
+      "num": 45799,
+      "word": "陈光标称可在两日转账资助嫣然医院",
+      "onboard_time": 1768847295,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60483,
       "num": 90628,
       "word": "美一客机降落时发生弹跳",
       "onboard_time": 1768813341,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 60383,
+      "num": 60383,
+      "word": "江苏多市发布停课通知",
+      "onboard_time": 1768862054,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60377,
@@ -6641,6 +6689,14 @@
       "onboard_time": 1768821020,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57559,
+      "num": 57559,
+      "word": "裴轸黑化",
+      "onboard_time": 1768864698,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 57289,
@@ -6768,6 +6824,14 @@
       "word": "网购4J车厘子2J都不到",
       "onboard_time": 1768727843,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52007,
+      "num": 52007,
+      "word": "大寒是二十四节气最后一个节气",
+      "onboard_time": 1768864516,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -6920,14 +6984,6 @@
       "word": "大寒到了",
       "onboard_time": 1768841299,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45799,
-      "num": 45799,
-      "word": "陈光标称可在两日转账资助嫣然医院",
-      "onboard_time": 1768847295,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -7172,7 +7228,7 @@
     },
     {
       "raw_hot": 32443,
-      "num": 40466,
+      "num": 45357,
       "word": "杭州全城等雪",
       "onboard_time": 1768846875,
       "rank": 31,
@@ -7236,7 +7292,7 @@
     },
     {
       "raw_hot": 28684,
-      "num": 303353,
+      "num": 499095,
       "word": "卫星互联网低轨19组卫星发射成功",
       "onboard_time": 1768816702,
       "rank": 43,
@@ -7251,11 +7307,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 27173,
-      "num": 30037,
-      "word": "江苏多市发布停课通知",
-      "onboard_time": 1768862054,
-      "rank": 23,
+      "raw_hot": 26891,
+      "num": 45325,
+      "word": "拿板凳打人学生已被劝退",
+      "onboard_time": 1768854314,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -7313,6 +7369,14 @@
       "onboard_time": 1768822702,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23519,
+      "num": 45315,
+      "word": "林诗栋王皓开心打桌球",
+      "onboard_time": 1768865118,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 23404,
@@ -7432,14 +7496,6 @@
       "word": "误食燃料7岁男孩情况好转恢复意识",
       "onboard_time": 1768745663,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18119,
-      "num": 29985,
-      "word": "拿板凳打人学生已被劝退",
-      "onboard_time": 1768854314,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
