@@ -1,0 +1,410 @@
+{
+  "runTime": 1768789365921,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 821842,
+        "num": 1131494,
+        "word": "镖人",
+        "onboard_time": 1768783280,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 437152,
+        "num": 841317,
+        "word": "2025年GDP增长5%",
+        "onboard_time": 1768789279,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30939,
+        "num": 658588,
+        "word": "神21乘组太空Vlog上新",
+        "onboard_time": 1768740202,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 217278,
+        "num": 217278,
+        "word": "B站百大UP主",
+        "onboard_time": 1768788680,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 200669,
+        "num": 200669,
+        "word": "GDP",
+        "onboard_time": 1768789279,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 345945,
+        "num": 200212,
+        "word": "吃海鲜吃到痛风的猴子",
+        "onboard_time": 1768784001,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 299818,
+        "num": 199451,
+        "word": "金价波动",
+        "onboard_time": 1768786040,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 195618,
+        "num": 195618,
+        "word": "为什么袜子洗完总是会变硬",
+        "onboard_time": 1768750941,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182419,
+        "num": 182419,
+        "word": "上海外滩女子占道直播跳舞引公愤",
+        "onboard_time": 1768748422,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166685,
+        "num": 166685,
+        "word": "对内蒙古爆炸事故严肃追责",
+        "onboard_time": 1768786040,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 589918,
+        "num": 163310,
+        "word": "罗永浩奖杯断成两半",
+        "onboard_time": 1768786279,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 314531,
+        "num": 157921,
+        "word": "嫣然医院周边居民发声",
+        "onboard_time": 1768779320,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293339,
+        "num": 152869,
+        "word": "赵今麦整个北京最严厉的妈咪",
+        "onboard_time": 1768778178,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266259,
+        "num": 151587,
+        "word": "李国庆称给嫣然儿童医院捐100万",
+        "onboard_time": 1768785500,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225749,
+        "num": 145138,
+        "word": "天府红打人",
+        "onboard_time": 1768784419,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182078,
+        "num": 141834,
+        "word": "我的做法是很爱你但不在乎你",
+        "onboard_time": 1768780459,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138651,
+        "num": 138651,
+        "word": "董子健回复孙怡",
+        "onboard_time": 1768732703,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136576,
+        "num": 136576,
+        "word": "34岁女星患子宫肌腺瘤切除子宫",
+        "onboard_time": 1768780819,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118452,
+        "num": 136310,
+        "word": "迪丽热巴已进组九重天",
+        "onboard_time": 1768779499,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107944,
+        "num": 136237,
+        "word": "神20飞船返回舱外观总体正常",
+        "onboard_time": 1768788259,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 744617,
+        "num": 135930,
+        "word": "小洛熙案今日开庭",
+        "onboard_time": 1768786880,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 685878,
+        "num": 135578,
+        "word": "金价",
+        "onboard_time": 1768784841,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 515519,
+        "num": 135206,
+        "word": "宋威龙在庆功宴上哭了",
+        "onboard_time": 1768784419,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394967,
+        "num": 135149,
+        "word": "孙怡董子健相爱过的证据",
+        "onboard_time": 1768779139,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325945,
+        "num": 134741,
+        "word": "黄金",
+        "onboard_time": 1768784541,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 385502,
+        "num": 134423,
+        "word": "迪丽热巴超短发造型路透",
+        "onboard_time": 1768788200,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 332783,
+        "num": 134251,
+        "word": "梁小龙本想隐瞒死讯",
+        "onboard_time": 1768785681,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118940,
+        "num": 133754,
+        "word": "糖尿病前期发出的身体信号",
+        "onboard_time": 1768745783,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 93222,
+        "num": 133589,
+        "word": "女子宠物猫被外卖员偷走遭开水浇",
+        "onboard_time": 1768782621,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105566,
+        "num": 133310,
+        "word": "九重天",
+        "onboard_time": 1768779860,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213839,
+        "num": 133098,
+        "word": "张碧晨 庆功宴",
+        "onboard_time": 1768782141,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82534,
+        "num": 132876,
+        "word": "警方通报鄱阳湖野生动物被投毒",
+        "onboard_time": 1768786940,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 194355,
+        "num": 132369,
+        "word": "小范闲韩昊霖长这么大了",
+        "onboard_time": 1768787480,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155341,
+        "num": 132262,
+        "word": "贾玲G社生图",
+        "onboard_time": 1768779379,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 80225,
+        "num": 131890,
+        "word": "内蒙古就爆炸事故成立调查组",
+        "onboard_time": 1768781361,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131766,
+        "num": 131766,
+        "word": "电影镖人定档春节",
+        "onboard_time": 1768789341,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81556,
+        "num": 131708,
+        "word": "赵今麦张碧晨同框",
+        "onboard_time": 1768788980,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76339,
+        "num": 131626,
+        "word": "今天有暴雪黄色预警",
+        "onboard_time": 1768787958,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73217,
+        "num": 131518,
+        "word": "嫣然儿童医院回应企业无偿提供场地",
+        "onboard_time": 1768789279,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73117,
+        "num": 131469,
+        "word": "姜妍肖战一个在闹一个在笑",
+        "onboard_time": 1768774635,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71379,
+        "num": 131339,
+        "word": "神20飞船返回东风着陆场",
+        "onboard_time": 1768789279,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 67869,
+        "num": 131325,
+        "word": "樊振东打球把程靖淇震撼到语无伦次",
+        "onboard_time": 1768786880,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67745,
+        "num": 131191,
+        "word": "美国童星疑闯红灯被拖行致死",
+        "onboard_time": 1768743504,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 65478,
+        "num": 131133,
+        "word": "小伙教人缝宠物服装月入5万",
+        "onboard_time": 1768788500,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64855,
+        "num": 131011,
+        "word": "包钢股份公告",
+        "onboard_time": 1768786999,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63854,
+        "num": 130987,
+        "word": "猫猫会不会觉得蛋挞皮是个碗",
+        "onboard_time": 1768785861,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63312,
+        "num": 130845,
+        "word": "上班让我感到最可怕的地方",
+        "onboard_time": 1768779920,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 62973,
+        "num": 130814,
+        "word": "6人就餐仅花19元老板要求带走垃圾",
+        "onboard_time": 1768740081,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61790,
+        "num": 130725,
+        "word": "禁止衣冠不整入内规定已存在多年",
+        "onboard_time": 1768742483,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59236,
+        "num": 130608,
+        "word": "男子回应7岁女孩独自照顾住院父亲",
+        "onboard_time": 1768788619,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这则寓言习近平多次讲起#"
+    }
+  }
+}

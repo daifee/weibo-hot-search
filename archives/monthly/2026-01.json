@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768779702849,
+  "endTime": 1768789365921,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1763,6 +1763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 821842,
+      "num": 1131494,
+      "word": "镖人",
+      "onboard_time": 1768407079,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 821462,
       "num": 1555818,
       "word": "骄阳似我庆功宴",
@@ -2145,6 +2153,14 @@
       "onboard_time": 1767270862,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 744617,
+      "num": 135930,
+      "word": "小洛熙案今日开庭",
+      "onboard_time": 1768786880,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 743670,
@@ -3403,6 +3419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 589918,
+      "num": 163310,
+      "word": "罗永浩奖杯断成两半",
+      "onboard_time": 1768786279,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 588379,
       "num": 588379,
       "word": "西贝",
@@ -4561,6 +4585,14 @@
       "onboard_time": 1767784464,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 515519,
+      "num": 135206,
+      "word": "宋威龙在庆功宴上哭了",
+      "onboard_time": 1768784419,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 515317,
@@ -6275,6 +6307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 437152,
+      "num": 841317,
+      "word": "2025年GDP增长5%",
+      "onboard_time": 1768789279,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 437121,
       "num": 206665,
       "word": "岳云鹏回应今年不上春晚",
@@ -6436,7 +6476,7 @@
     },
     {
       "raw_hot": 430701,
-      "num": 119492,
+      "num": 152869,
       "word": "赵今麦整个北京最严厉的妈咪",
       "onboard_time": 1768778178,
       "rank": 10,
@@ -7267,6 +7307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 394967,
+      "num": 135149,
+      "word": "孙怡董子健相爱过的证据",
+      "onboard_time": 1768779139,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 394705,
       "num": 224535,
       "word": "loveissoap说童锦程配不上她",
@@ -7481,6 +7529,14 @@
       "onboard_time": 1768650683,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 385502,
+      "num": 134423,
+      "word": "迪丽热巴超短发造型路透",
+      "onboard_time": 1768788200,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 385475,
@@ -8755,6 +8811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 345945,
+      "num": 200212,
+      "word": "吃海鲜吃到痛风的猴子",
+      "onboard_time": 1768784001,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 345895,
       "num": 196308,
       "word": "导演否认于正张慧雯有吻戏",
@@ -9105,6 +9169,14 @@
       "onboard_time": 1767841640,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332783,
+      "num": 134251,
+      "word": "梁小龙本想隐瞒死讯",
+      "onboard_time": 1768785681,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 332544,
@@ -9523,14 +9595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 322427,
-      "num": 372437,
-      "word": "镖人",
-      "onboard_time": 1768407079,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 322411,
       "num": 322411,
       "word": "美国蜜雪冰城含糖量",
@@ -9905,6 +9969,14 @@
       "onboard_time": 1768033341,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 314531,
+      "num": 157921,
+      "word": "嫣然医院周边居民发声",
+      "onboard_time": 1768779320,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 314407,
@@ -12009,6 +12081,14 @@
       "onboard_time": 1768292662,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 266259,
+      "num": 151587,
+      "word": "李国庆称给嫣然儿童医院捐100万",
+      "onboard_time": 1768785500,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 265920,
@@ -14243,6 +14323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 225749,
+      "num": 145138,
+      "word": "天府红打人",
+      "onboard_time": 1768784419,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225626,
       "num": 189376,
       "word": "当胡萝卜纸巾升级为人类级难度",
@@ -14859,6 +14947,14 @@
       "category": "国际时政,动漫"
     },
     {
+      "raw_hot": 217278,
+      "num": 217278,
+      "word": "B站百大UP主",
+      "onboard_time": 1768788680,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 217119,
       "num": 217119,
       "word": "花海 夏迎春",
@@ -15097,6 +15193,14 @@
       "onboard_time": 1768725442,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213839,
+      "num": 133098,
+      "word": "张碧晨 庆功宴",
+      "onboard_time": 1768782141,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 213801,
@@ -16299,6 +16403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200669,
+      "num": 200669,
+      "word": "GDP",
+      "onboard_time": 1768789279,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 200636,
       "num": 1030868,
       "word": "王鹤棣 都别找我借钱",
@@ -17041,6 +17153,14 @@
       "onboard_time": 1768293982,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194355,
+      "num": 132369,
+      "word": "小范闲韩昊霖长这么大了",
+      "onboard_time": 1768787480,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 194348,
@@ -18881,6 +19001,14 @@
       "onboard_time": 1768389500,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182078,
+      "num": 141834,
+      "word": "我的做法是很爱你但不在乎你",
+      "onboard_time": 1768780459,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 182043,
@@ -20736,6 +20864,14 @@
       "word": "男子杀前女友哥哥还发血泊照威胁",
       "onboard_time": 1767915799,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166685,
+      "num": 166685,
+      "word": "对内蒙古爆炸事故严肃追责",
+      "onboard_time": 1768786040,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -22609,6 +22745,14 @@
       "onboard_time": 1767593722,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 155341,
+      "num": 132262,
+      "word": "贾玲G社生图",
+      "onboard_time": 1768779379,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 155018,
@@ -26163,6 +26307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136576,
+      "num": 136576,
+      "word": "34岁女星患子宫肌腺瘤切除子宫",
+      "onboard_time": 1768780819,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136512,
       "num": 123401,
       "word": "第五人格回应被指擦边",
@@ -27339,6 +27491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131766,
+      "num": 131766,
+      "word": "电影镖人定档春节",
+      "onboard_time": 1768789341,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 131713,
       "num": 114455,
       "word": "魏大勋新路透是你吗孟宴臣",
@@ -28339,14 +28499,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 127793,
-      "num": 68789,
-      "word": "孙怡董子健相爱过的证据",
-      "onboard_time": 1768779139,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127790,
       "num": 127790,
       "word": "娜扎安慰余茵不要被别人影响心态",
@@ -28865,14 +29017,6 @@
       "onboard_time": 1768281980,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 126142,
-      "num": 68597,
-      "word": "嫣然医院周边居民发声",
-      "onboard_time": 1768779320,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126090,
@@ -31041,6 +31185,14 @@
       "onboard_time": 1768664540,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 118452,
+      "num": 136310,
+      "word": "迪丽热巴已进组九重天",
+      "onboard_time": 1768779499,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 118367,
@@ -34411,6 +34563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 107944,
+      "num": 136237,
+      "word": "神20飞船返回舱外观总体正常",
+      "onboard_time": 1768788259,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 107941,
       "num": 124288,
       "word": "苍兰诀云初令是一个地方开机",
@@ -35345,6 +35505,14 @@
       "onboard_time": 1768442360,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105566,
+      "num": 133310,
+      "word": "九重天",
+      "onboard_time": 1768779860,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 105563,
@@ -40811,6 +40979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 93222,
+      "num": 133589,
+      "word": "女子宠物猫被外卖员偷走遭开水浇",
+      "onboard_time": 1768782621,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93195,
       "num": 93195,
       "word": "恋与深空取消男主等身雕像展出",
@@ -45643,6 +45819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82534,
+      "num": 132876,
+      "word": "警方通报鄱阳湖野生动物被投毒",
+      "onboard_time": 1768786940,
+      "rank": 31,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 82519,
       "num": 82519,
       "word": "陈伟霆回应还没进组",
@@ -46097,6 +46281,14 @@
       "onboard_time": 1768041560,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 81556,
+      "num": 131708,
+      "word": "赵今麦张碧晨同框",
+      "onboard_time": 1768788980,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 81523,
@@ -46681,6 +46873,14 @@
       "onboard_time": 1768098920,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 80225,
+      "num": 131890,
+      "word": "内蒙古就爆炸事故成立调查组",
+      "onboard_time": 1768781361,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80207,
@@ -48075,6 +48275,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 76339,
+      "num": 131626,
+      "word": "今天有暴雪黄色预警",
+      "onboard_time": 1768787958,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76337,
       "num": 1027758,
       "word": "当狗狗发现主人早上晚起了半小时",
@@ -49035,6 +49243,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73217,
+      "num": 131518,
+      "word": "嫣然儿童医院回应企业无偿提供场地",
+      "onboard_time": 1768789279,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73117,
+      "num": 131469,
+      "word": "姜妍肖战一个在闹一个在笑",
+      "onboard_time": 1768774635,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 73061,
       "num": 1029184,
       "word": "鬼灭之刃时透无一郎",
@@ -49113,14 +49337,6 @@
       "onboard_time": 1768458200,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 72735,
-      "num": 72735,
-      "word": "贾玲G社生图",
-      "onboard_time": 1768779379,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 72716,
@@ -49497,6 +49713,14 @@
       "onboard_time": 1768620620,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71379,
+      "num": 131339,
+      "word": "神20飞船返回东风着陆场",
+      "onboard_time": 1768789279,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 71372,
@@ -50427,6 +50651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67869,
+      "num": 131325,
+      "word": "樊振东打球把程靖淇震撼到语无伦次",
+      "onboard_time": 1768786880,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67846,
       "num": 65456,
       "word": "鞠婧祎真是好权威的一张脸",
@@ -51035,6 +51267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65478,
+      "num": 131133,
+      "word": "小伙教人缝宠物服装月入5万",
+      "onboard_time": 1768788500,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65462,
       "num": 73221,
       "word": "HHG",
@@ -51201,6 +51441,14 @@
       "onboard_time": 1767343880,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 64855,
+      "num": 131011,
+      "word": "包钢股份公告",
+      "onboard_time": 1768786999,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64846,
@@ -51379,14 +51627,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 64164,
-      "num": 62563,
-      "word": "姜妍肖战一个在闹一个在笑",
-      "onboard_time": 1768774635,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 64151,
       "num": 64151,
       "word": "中国稀土断供或致日本GDP下降",
@@ -51481,6 +51721,14 @@
       "onboard_time": 1767336078,
       "rank": 44,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 63854,
+      "num": 130987,
+      "word": "猫猫会不会觉得蛋挞皮是个碗",
+      "onboard_time": 1768785861,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 63785,
@@ -51601,6 +51849,14 @@
       "onboard_time": 1767410187,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 63312,
+      "num": 130845,
+      "word": "上班让我感到最可怕的地方",
+      "onboard_time": 1768779920,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 63272,
@@ -51833,14 +52089,6 @@
       "onboard_time": 1767784464,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62427,
-      "num": 62427,
-      "word": "迪丽热巴已进组九重天",
-      "onboard_time": 1768779499,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 62407,
@@ -52465,6 +52713,14 @@
       "onboard_time": 1768476859,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 59236,
+      "num": 130608,
+      "word": "男子回应7岁女孩独自照顾住院父亲",
+      "onboard_time": 1768788619,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59197,
@@ -57595,6 +57851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30939,
+      "num": 658588,
+      "word": "神21乘组太空Vlog上新",
+      "onboard_time": 1768740202,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30866,
       "num": 101332,
       "word": "张钧甯从金桔到菠萝包",
@@ -59217,14 +59481,6 @@
       "onboard_time": 1767373158,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 22281,
-      "num": 603412,
-      "word": "神21乘组太空Vlog上新",
-      "onboard_time": 1768740202,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 22224,
