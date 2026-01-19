@@ -1,6 +1,6 @@
 {
   "startTime": 1768754034427,
-  "endTime": 1768805458807,
+  "endTime": 1768806304866,
   "band_list": [
     {
       "raw_hot": 1973872,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 645040,
+      "num": 166595,
+      "word": "沈逸 牢A",
+      "onboard_time": 1768802842,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 640857,
       "num": 778260,
       "word": "B站百大UP主",
@@ -97,14 +105,6 @@
       "onboard_time": 1768794441,
       "rank": 9,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 620587,
-      "num": 166595,
-      "word": "沈逸 牢A",
-      "onboard_time": 1768802842,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 589918,
@@ -307,8 +307,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 287201,
-      "num": 287201,
+      "raw_hot": 287584,
+      "num": 287584,
       "word": "美国男子收集雨水被判处30天监禁",
       "onboard_time": 1768800502,
       "rank": 30,
@@ -379,11 +379,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 252180,
+      "num": 122825,
+      "word": "奚梦瑶晒当妈后的幸福变化",
+      "onboard_time": 1768804881,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236531,
       "num": 311881,
       "word": "为什么袜子洗完总是会变硬",
       "onboard_time": 1768750941,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233769,
+      "num": 162352,
+      "word": "8岁哥哥带4个月大弟弟坐地铁",
+      "onboard_time": 1768801824,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -403,14 +419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 227216,
-      "num": 162352,
-      "word": "8岁哥哥带4个月大弟弟坐地铁",
-      "onboard_time": 1768801824,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 218504,
       "num": 218504,
       "word": "骂人也违法了最高可判三年",
@@ -420,11 +428,19 @@
     },
     {
       "raw_hot": 217043,
-      "num": 106822,
+      "num": 118732,
       "word": "跑男的尽头是春晚正式编",
       "onboard_time": 1768803861,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 216833,
+      "num": 216833,
+      "word": "我最喜欢的全场景布局出现了",
+      "onboard_time": 1768805361,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 215741,
@@ -523,12 +539,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188309,
-      "num": 106817,
-      "word": "奚梦瑶晒当妈后的幸福变化",
-      "onboard_time": 1768804881,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 188245,
+      "num": 188245,
+      "word": "苏醒告别快乐老友记",
+      "onboard_time": 1768802543,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 187147,
@@ -563,14 +579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 180219,
-      "num": 180219,
-      "word": "苏醒告别快乐老友记",
-      "onboard_time": 1768802543,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 179215,
       "num": 179215,
       "word": "中国GDP跨越140万亿元关口",
@@ -595,12 +603,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172738,
-      "num": 172738,
-      "word": "我最喜欢的全场景布局出现了",
-      "onboard_time": 1768805361,
-      "rank": 6,
-      "category": "情感"
+      "raw_hot": 173386,
+      "num": 136768,
+      "word": "某地一男孩用凳子猛砸同学后脑勺",
+      "onboard_time": 1768806261,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169989,
@@ -852,7 +860,7 @@
     },
     {
       "raw_hot": 130561,
-      "num": 100717,
+      "num": 107714,
       "word": "镖人领衔主演孙艺洲",
       "onboard_time": 1768802122,
       "rank": 30,
@@ -873,6 +881,14 @@
       "onboard_time": 1768791740,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128441,
+      "num": 128441,
+      "word": "学校已经发展成这样了吗",
+      "onboard_time": 1768805423,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 127762,
@@ -1028,7 +1044,7 @@
     },
     {
       "raw_hot": 110534,
-      "num": 97727,
+      "num": 98989,
       "word": "吃了30年猪肉第一次认识猪肉",
       "onboard_time": 1768804102,
       "rank": 32,
@@ -1051,6 +1067,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 108969,
+      "num": 108969,
+      "word": "董思成镖人造型",
+      "onboard_time": 1768802543,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 108931,
       "num": 217146,
       "word": "婴儿淋雨哭到撕心裂肺谁能忍",
@@ -1067,20 +1091,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 107698,
+      "num": 107698,
+      "word": "牢A回应",
+      "onboard_time": 1768803681,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106937,
-      "num": 106780,
+      "num": 107743,
       "word": "我1米9让我来",
       "onboard_time": 1768804040,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 106855,
-      "num": 106855,
-      "word": "董思成镖人造型",
-      "onboard_time": 1768802543,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 106329,
@@ -1147,6 +1171,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94730,
+      "num": 94730,
+      "word": "建议所有感觉没年味的人去侗寨过年",
+      "onboard_time": 1768806201,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 94583,
+      "num": 94583,
+      "word": "赵尧珂御赐小仵作婚后变萌",
+      "onboard_time": 1768805901,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93624,
       "num": 132876,
       "word": "警方通报鄱阳湖野生动物被投毒",
@@ -1179,14 +1219,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 91936,
-      "num": 91936,
-      "word": "牢A回应",
-      "onboard_time": 1768803681,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91805,
       "num": 117638,
       "word": "金饰价格涨到1451元",
@@ -1209,6 +1241,30 @@
       "onboard_time": 1768805122,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90447,
+      "num": 86822,
+      "word": "陈丽君骑马射箭太帅了",
+      "onboard_time": 1768805423,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 90329,
+      "num": 107720,
+      "word": "成都一男子殴打5人被立案调查",
+      "onboard_time": 1768805300,
+      "rank": 42,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 90173,
+      "num": 86892,
+      "word": "迪丽热巴黑粉被限高",
+      "onboard_time": 1768805662,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 90101,
@@ -1323,14 +1379,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 83587,
-      "num": 83587,
-      "word": "成都一男子殴打5人被立案调查",
-      "onboard_time": 1768805300,
-      "rank": 42,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 83469,
       "num": 216271,
       "word": "二十多岁其实真的很年轻",
@@ -1345,14 +1393,6 @@
       "onboard_time": 1768804461,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 81549,
-      "num": 81549,
-      "word": "学校已经发展成这样了吗",
-      "onboard_time": 1768805423,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 81028,
@@ -1387,6 +1427,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78597,
+      "num": 78597,
+      "word": "突然的喜欢",
+      "onboard_time": 1768806261,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 78186,
+      "num": 86665,
+      "word": "金饰克价突破1459元",
+      "onboard_time": 1768805122,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 77759,
       "num": 77759,
       "word": "两京十五日",
@@ -1401,14 +1457,6 @@
       "onboard_time": 1768774635,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 76478,
-      "num": 76478,
-      "word": "陈丽君骑马射箭太帅了",
-      "onboard_time": 1768805423,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 76342,
@@ -1441,6 +1489,14 @@
       "onboard_time": 1768803322,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 75566,
+      "num": 75566,
+      "word": "水贝金饰价涨到1200元",
+      "onboard_time": 1768805721,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 74008,
@@ -1817,6 +1873,14 @@
       "onboard_time": 1768740803,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38976,
+      "num": 123052,
+      "word": "因涨薪20致歉企业曾每月涨薪200元",
+      "onboard_time": 1768805781,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38312,

@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768805458807,
+  "endTime": 1768806304866,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -275,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 645040,
+      "num": 166595,
+      "word": "沈逸 牢A",
+      "onboard_time": 1768802842,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 641833,
       "num": 301526,
       "word": "赵樱子称孟子义上综艺要感谢她",
@@ -329,14 +337,6 @@
       "onboard_time": 1768694538,
       "rank": 40,
       "category": "数码"
-    },
-    {
-      "raw_hot": 620587,
-      "num": 166595,
-      "word": "沈逸 牢A",
-      "onboard_time": 1768802842,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 607681,
@@ -955,8 +955,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 287201,
-      "num": 287201,
+      "raw_hot": 287584,
+      "num": 287584,
       "word": "美国男子收集雨水被判处30天监禁",
       "onboard_time": 1768800502,
       "rank": 30,
@@ -1099,6 +1099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 252180,
+      "num": 122825,
+      "word": "奚梦瑶晒当妈后的幸福变化",
+      "onboard_time": 1768804881,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248157,
       "num": 248157,
       "word": "杨幂鹿晗我是证人登顶",
@@ -1187,6 +1195,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 233769,
+      "num": 162352,
+      "word": "8岁哥哥带4个月大弟弟坐地铁",
+      "onboard_time": 1768801824,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230844,
       "num": 230844,
       "word": "电影镖人定档春节",
@@ -1200,14 +1216,6 @@
       "word": "天府红打人",
       "onboard_time": 1768784419,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 227216,
-      "num": 162352,
-      "word": "8岁哥哥带4个月大弟弟坐地铁",
-      "onboard_time": 1768801824,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1292,11 +1300,19 @@
     },
     {
       "raw_hot": 217043,
-      "num": 106822,
+      "num": 118732,
       "word": "跑男的尽头是春晚正式编",
       "onboard_time": 1768803861,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 216833,
+      "num": 216833,
+      "word": "我最喜欢的全场景布局出现了",
+      "onboard_time": 1768805361,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 215975,
@@ -1587,12 +1603,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188309,
-      "num": 106817,
-      "word": "奚梦瑶晒当妈后的幸福变化",
-      "onboard_time": 1768804881,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 188245,
+      "num": 188245,
+      "word": "苏醒告别快乐老友记",
+      "onboard_time": 1768802543,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 187685,
@@ -1691,14 +1707,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 180219,
-      "num": 180219,
-      "word": "苏醒告别快乐老友记",
-      "onboard_time": 1768802543,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 179348,
       "num": 144601,
       "word": "道歉变处刑道德正义不等于合法判断",
@@ -1755,12 +1763,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 172738,
-      "num": 172738,
-      "word": "我最喜欢的全场景布局出现了",
-      "onboard_time": 1768805361,
-      "rank": 6,
-      "category": "情感"
+      "raw_hot": 173386,
+      "num": 136768,
+      "word": "某地一男孩用凳子猛砸同学后脑勺",
+      "onboard_time": 1768806261,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172172,
@@ -2380,7 +2388,7 @@
     },
     {
       "raw_hot": 130561,
-      "num": 100717,
+      "num": 107714,
       "word": "镖人领衔主演孙艺洲",
       "onboard_time": 1768802122,
       "rank": 30,
@@ -2449,6 +2457,14 @@
       "onboard_time": 1768748422,
       "rank": 31,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 128441,
+      "num": 128441,
+      "word": "学校已经发展成这样了吗",
+      "onboard_time": 1768805423,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 127762,
@@ -2916,7 +2932,7 @@
     },
     {
       "raw_hot": 110534,
-      "num": 97727,
+      "num": 98989,
       "word": "吃了30年猪肉第一次认识猪肉",
       "onboard_time": 1768804102,
       "rank": 32,
@@ -2979,6 +2995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108969,
+      "num": 108969,
+      "word": "董思成镖人造型",
+      "onboard_time": 1768802543,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 108668,
       "num": 108668,
       "word": "干香菇鲜香菇哪个更好吃",
@@ -2993,6 +3017,14 @@
       "onboard_time": 1768788259,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 107698,
+      "num": 107698,
+      "word": "牢A回应",
+      "onboard_time": 1768803681,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107688,
@@ -3012,7 +3044,7 @@
     },
     {
       "raw_hot": 106937,
-      "num": 106780,
+      "num": 107743,
       "word": "我1米9让我来",
       "onboard_time": 1768804040,
       "rank": 26,
@@ -3025,14 +3057,6 @@
       "onboard_time": 1768731743,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106855,
-      "num": 106855,
-      "word": "董思成镖人造型",
-      "onboard_time": 1768802543,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 106810,
@@ -3451,12 +3475,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 94730,
+      "num": 94730,
+      "word": "建议所有感觉没年味的人去侗寨过年",
+      "onboard_time": 1768806201,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 94673,
       "num": 94673,
       "word": "农贸市场回应禁止衣冠不整入内",
       "onboard_time": 1768738942,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94583,
+      "num": 94583,
+      "word": "赵尧珂御赐小仵作婚后变萌",
+      "onboard_time": 1768805901,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 94391,
@@ -3603,14 +3643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 91936,
-      "num": 91936,
-      "word": "牢A回应",
-      "onboard_time": 1768803681,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91805,
       "num": 117638,
       "word": "金饰价格涨到1451元",
@@ -3641,6 +3673,30 @@
       "onboard_time": 1768711940,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90447,
+      "num": 86822,
+      "word": "陈丽君骑马射箭太帅了",
+      "onboard_time": 1768805423,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 90329,
+      "num": 107720,
+      "word": "成都一男子殴打5人被立案调查",
+      "onboard_time": 1768805300,
+      "rank": 42,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 90173,
+      "num": 86892,
+      "word": "迪丽热巴黑粉被限高",
+      "onboard_time": 1768805662,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 90101,
@@ -3971,14 +4027,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 83587,
-      "num": 83587,
-      "word": "成都一男子殴打5人被立案调查",
-      "onboard_time": 1768805300,
-      "rank": 42,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 83317,
       "num": 83317,
       "word": "周杰伦请的奶茶",
@@ -4049,14 +4097,6 @@
       "onboard_time": 1768804461,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 81549,
-      "num": 81549,
-      "word": "学校已经发展成这样了吗",
-      "onboard_time": 1768805423,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 81028,
@@ -4155,12 +4195,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 78597,
+      "num": 78597,
+      "word": "突然的喜欢",
+      "onboard_time": 1768806261,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78310,
       "num": 140753,
       "word": "樊振东全英文交流无障碍",
       "onboard_time": 1768747523,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78186,
+      "num": 86665,
+      "word": "金饰克价突破1459元",
+      "onboard_time": 1768805122,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 77759,
@@ -4211,14 +4267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 76478,
-      "num": 76478,
-      "word": "陈丽君骑马射箭太帅了",
-      "onboard_time": 1768805423,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 76342,
       "num": 153928,
       "word": "小米新SU7刷新24小时耐力挑战纪录",
@@ -4265,6 +4313,14 @@
       "onboard_time": 1768736001,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75566,
+      "num": 75566,
+      "word": "水贝金饰价涨到1200元",
+      "onboard_time": 1768805721,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 74803,
@@ -5088,6 +5144,14 @@
       "word": "鸡排哥巡炸带动商场客流增200%",
       "onboard_time": 1768746862,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38976,
+      "num": 123052,
+      "word": "因涨薪20致歉企业曾每月涨薪200元",
+      "onboard_time": 1768805781,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
