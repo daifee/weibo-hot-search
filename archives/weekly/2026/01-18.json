@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768843854780,
+  "endTime": 1768844911781,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -6875,6 +6875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 48203,
+      "num": 65723,
+      "word": "西班牙将举行3天官方哀悼",
+      "onboard_time": 1768842076,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 48108,
       "num": 46454,
       "word": "下雪了林屿森",
@@ -7009,14 +7017,6 @@
       "onboard_time": 1768796662,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 40244,
-      "num": 65723,
-      "word": "西班牙将举行3天官方哀悼",
-      "onboard_time": 1768842076,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 39853,
@@ -7267,7 +7267,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 24808,
+      "raw_hot": 25119,
       "num": 65475,
       "word": "王源嚼嚼者",
       "onboard_time": 1768843395,
