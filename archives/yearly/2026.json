@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768836916772,
+  "endTime": 1768837801722,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -801,6 +801,14 @@
       "onboard_time": 1768651641,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1178032,
+      "num": 1188485,
+      "word": "警方通报中山一货车碰撞多车",
+      "onboard_time": 1768836021,
+      "rank": 0,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1174284,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767745040,
       "rank": 0,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 728241,
-      "num": 244639,
-      "word": "浪姐2026 张曼玉",
-      "onboard_time": 1767839961,
-      "rank": 10,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

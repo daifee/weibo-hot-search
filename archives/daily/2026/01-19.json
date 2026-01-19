@@ -1,6 +1,6 @@
 {
   "startTime": 1768754034427,
-  "endTime": 1768836916772,
+  "endTime": 1768837801722,
   "band_list": [
     {
       "raw_hot": 1973872,
@@ -41,6 +41,14 @@
       "onboard_time": 1768822882,
       "rank": 0,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1178032,
+      "num": 1188485,
+      "word": "警方通报中山一货车碰撞多车",
+      "onboard_time": 1768836021,
+      "rank": 0,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1130397,
@@ -137,14 +145,6 @@
       "onboard_time": 1768789279,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 704679,
-      "num": 1112748,
-      "word": "警方通报中山一货车碰撞多车",
-      "onboard_time": 1768836021,
-      "rank": 0,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 700148,
@@ -595,6 +595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 293449,
+      "num": 105318,
+      "word": "牢A提醒留学生办证不要勾捐献",
+      "onboard_time": 1768836021,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 291960,
       "num": 213142,
       "word": "嫣然天使基金预算已筹满",
@@ -964,7 +972,7 @@
     },
     {
       "raw_hot": 202722,
-      "num": 176014,
+      "num": 195713,
       "word": "左奇函高富帅变装",
       "onboard_time": 1768836679,
       "rank": 22,
@@ -980,7 +988,7 @@
     },
     {
       "raw_hot": 202281,
-      "num": 214824,
+      "num": 253544,
       "word": "羽生结弦亲吻冰面的最后一吻",
       "onboard_time": 1768835062,
       "rank": 6,
@@ -1124,7 +1132,7 @@
     },
     {
       "raw_hot": 179215,
-      "num": 643032,
+      "num": 696028,
       "word": "中国GDP跨越140万亿元关口",
       "onboard_time": 1768790422,
       "rank": 14,
@@ -1176,6 +1184,14 @@
       "word": "钟意面具照有点帅",
       "onboard_time": 1768816040,
       "rank": 12,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 171886,
+      "num": 251640,
+      "word": "清融直播",
+      "onboard_time": 1768837342,
+      "rank": 6,
       "category": "电竞"
     },
     {
@@ -1257,6 +1273,14 @@
       "onboard_time": 1768742483,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162956,
+      "num": 301391,
+      "word": "美国近7成流浪汉曾是中产",
+      "onboard_time": 1768833803,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 161577,
@@ -1393,14 +1417,6 @@
       "onboard_time": 1768823181,
       "rank": 29,
       "category": "数码"
-    },
-    {
-      "raw_hot": 147794,
-      "num": 301391,
-      "word": "美国近7成流浪汉曾是中产",
-      "onboard_time": 1768833803,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 145616,
@@ -1587,6 +1603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133753,
+      "num": 133753,
+      "word": "遗憾怎么写最刀",
+      "onboard_time": 1768835182,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132632,
       "num": 132632,
       "word": "西安一烤鱼店开业有人排队11小时",
@@ -1643,6 +1667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 130434,
+      "num": 130434,
+      "word": "美国主播力挺牢A",
+      "onboard_time": 1768822101,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 130399,
       "num": 130399,
       "word": "让韩雪穿古装的是天才",
@@ -1657,14 +1689,6 @@
       "onboard_time": 1768791740,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 129960,
-      "num": 129960,
-      "word": "美国主播力挺牢A",
-      "onboard_time": 1768822101,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 129762,
@@ -1827,6 +1851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120835,
+      "num": 120835,
+      "word": "刘宇宁录春晚被逗红温了",
+      "onboard_time": 1768836561,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120609,
       "num": 92763,
       "word": "白鹿cha娃娃脸手势舞",
@@ -1963,14 +1995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112180,
-      "num": 112180,
-      "word": "遗憾怎么写最刀",
-      "onboard_time": 1768835182,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 111862,
       "num": 128262,
       "word": "孩子求抱抱遭冷漠父亲推搡",
@@ -2001,14 +2025,6 @@
       "onboard_time": 1768816341,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110308,
-      "num": 105318,
-      "word": "牢A提醒留学生办证不要勾捐献",
-      "onboard_time": 1768836021,
-      "rank": 31,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 110142,
@@ -2428,19 +2444,11 @@
     },
     {
       "raw_hot": 93815,
-      "num": 93815,
+      "num": 107023,
       "word": "叶某斌偷渡至柬埔寨从事电诈被刑拘",
       "onboard_time": 1768834222,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93720,
-      "num": 93720,
-      "word": "刘宇宁录春晚被逗红温了",
-      "onboard_time": 1768836561,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 93624,
@@ -2931,6 +2939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 81540,
+      "num": 92914,
+      "word": "你好星期六",
+      "onboard_time": 1768836801,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 81308,
       "num": 83452,
       "word": "周震南这次做美甲没被坑",
@@ -3019,14 +3035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 78197,
-      "num": 92914,
-      "word": "你好星期六",
-      "onboard_time": 1768836801,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 78186,
       "num": 86665,
       "word": "金饰克价突破1459元",
@@ -3049,6 +3057,14 @@
       "onboard_time": 1768829302,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 77005,
+      "num": 92907,
+      "word": "邓莎说如果没有孩子婚姻会更短",
+      "onboard_time": 1768836500,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 76861,
@@ -3129,14 +3145,6 @@
       "onboard_time": 1768827681,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 74734,
-      "num": 92907,
-      "word": "邓莎说如果没有孩子婚姻会更短",
-      "onboard_time": 1768836500,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 74008,
@@ -3315,6 +3323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64135,
+      "num": 86155,
+      "word": "鸿蒙智行辟谣尊界S800起火事件",
+      "onboard_time": 1768837700,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 64086,
       "num": 118271,
       "word": "姜妍在比划啥逗得肖战笑齁甜",
@@ -3337,6 +3353,14 @@
       "onboard_time": 1768831641,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 63920,
+      "num": 86156,
+      "word": "谁来医院打针都不会冷静",
+      "onboard_time": 1768837580,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 63854,
