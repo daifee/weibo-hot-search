@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768827899414,
+  "endTime": 1768829268700,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -481,6 +481,14 @@
       "onboard_time": 1768221381,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1520834,
+      "num": 201131,
+      "word": "周杰伦昆凌 生理性喜欢",
+      "onboard_time": 1768827081,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 1513071,
@@ -2392,14 +2400,6 @@
       "word": "疑似马杜罗被美抓获照曝光",
       "onboard_time": 1767440726,
       "rank": 12,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 726695,
-      "num": 774515,
-      "word": "高市早苗将于1月23日解散众议院",
-      "onboard_time": 1768814661,
-      "rank": 4,
       "category": "国际时政"
     }
   ],

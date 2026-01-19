@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768827899414,
+  "endTime": 1768829268700,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -481,6 +481,14 @@
       "onboard_time": 1768221381,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1520834,
+      "num": 201131,
+      "word": "周杰伦昆凌 生理性喜欢",
+      "onboard_time": 1768827081,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 1513071,
@@ -8539,14 +8547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 361215,
-      "num": 201131,
-      "word": "周杰伦昆凌 生理性喜欢",
-      "onboard_time": 1768827081,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 361212,
       "num": 828261,
       "word": "小米17官宣降价",
@@ -9699,6 +9699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 327946,
+      "num": 765184,
+      "word": "下雪",
+      "onboard_time": 1768824741,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 327596,
       "num": 327596,
       "word": "广东通报12岁男孩被烫伤致死",
@@ -10753,14 +10761,6 @@
       "onboard_time": 1768553660,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 303064,
-      "num": 303064,
-      "word": "下雪",
-      "onboard_time": 1768824741,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 302942,
@@ -16891,6 +16891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202535,
+      "num": 142149,
+      "word": "虞书欣blossom幕后记录",
+      "onboard_time": 1768829243,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202404,
       "num": 173934,
       "word": "短剧一姐李沐宸搭档新人张卓尔",
@@ -18840,6 +18848,14 @@
       "word": "王铮亮参加快男被评委劝退",
       "onboard_time": 1767341721,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 187520,
+      "num": 187520,
+      "word": "网传歌手2026首发已确定",
+      "onboard_time": 1768828342,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -23891,6 +23907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152869,
+      "num": 152869,
+      "word": "陈伟霆在拍许我耀眼续集吗",
+      "onboard_time": 1768828042,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 152843,
       "num": 1022868,
       "word": "海军052D型导弹驱逐舰又上新",
@@ -24273,6 +24297,14 @@
       "onboard_time": 1768223181,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150495,
+      "num": 134782,
+      "word": "一个股民下班后接孩子的感受",
+      "onboard_time": 1768829002,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 150358,
@@ -24697,6 +24729,14 @@
       "onboard_time": 1767252081,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148276,
+      "num": 139963,
+      "word": "21年前被何炅当街冷脸了",
+      "onboard_time": 1768828283,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 148272,
@@ -30329,6 +30369,14 @@
       "onboard_time": 1768621879,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125184,
+      "num": 125184,
+      "word": "孔雪儿满分女人",
+      "onboard_time": 1768828522,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 125099,
@@ -37123,6 +37171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104859,
+      "num": 104859,
+      "word": "一哥否认杜克20万分手费",
+      "onboard_time": 1768828762,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 104816,
       "num": 104816,
       "word": "你是周翊然那他是谁",
@@ -37808,6 +37864,14 @@
       "word": "今年三九就东北认真了",
       "onboard_time": 1767948861,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103388,
+      "num": 181167,
+      "word": "春节放假35天的公司利润一半给员工",
+      "onboard_time": 1768828461,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -41788,7 +41852,7 @@
     },
     {
       "raw_hot": 94697,
-      "num": 94697,
+      "num": 98784,
       "word": "关晓彤allblack拽成啥了",
       "onboard_time": 1768824320,
       "rank": 36,
@@ -43795,6 +43859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 90625,
+      "num": 98846,
+      "word": "欲宇还羞同居",
+      "onboard_time": 1768828582,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90610,
       "num": 90610,
       "word": "韩国承认机场安全缺陷致179人遇难",
@@ -44649,6 +44721,14 @@
       "onboard_time": 1768454660,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88709,
+      "num": 179520,
+      "word": "华为2025年中国智能手机市占第一",
+      "onboard_time": 1768827622,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 88702,
@@ -46755,14 +46835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 84961,
-      "num": 84961,
-      "word": "华为2025年中国智能手机市占第一",
-      "onboard_time": 1768827622,
-      "rank": 42,
-      "category": "数码"
-    },
-    {
       "raw_hot": 84942,
       "num": 84942,
       "word": "御赐小仵作2三法司探案局",
@@ -47323,6 +47395,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 83582,
+      "num": 98805,
+      "word": "放心大胆的断联吧",
+      "onboard_time": 1768827382,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 83554,
       "num": 83554,
       "word": "海航 Bug票",
@@ -47472,6 +47552,14 @@
       "word": "所有小猫钻被窝的统一流程",
       "onboard_time": 1768271359,
       "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 82976,
+      "num": 98719,
+      "word": "特朗普来了也得拍这套",
+      "onboard_time": 1768827562,
+      "rank": 43,
       "category": "幽默"
     },
     {
@@ -47697,14 +47785,6 @@
       "onboard_time": 1768573583,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 82501,
-      "num": 82501,
-      "word": "特朗普来了也得拍这套",
-      "onboard_time": 1768827562,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 82499,
@@ -50203,6 +50283,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 76378,
+      "num": 98672,
+      "word": "曝iPhone18Pro将首发5G卫星通信",
+      "onboard_time": 1768829181,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 76353,
       "num": 255863,
       "word": "前世界上最胖的人病逝",
@@ -50555,6 +50643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75272,
+      "num": 171781,
+      "word": "女生面试收到感谢信和66元红包",
+      "onboard_time": 1768827681,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75252,
       "num": 91543,
       "word": "刘宇宁六块腹肌隐藏款",
@@ -50601,6 +50697,14 @@
       "onboard_time": 1768058362,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 75013,
+      "num": 171191,
+      "word": "嫣然天使儿童医院往年工作报告曝光",
+      "onboard_time": 1768827681,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74998,
@@ -51185,6 +51289,14 @@
       "onboard_time": 1768185559,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73417,
+      "num": 98619,
+      "word": "樊振东憋笑失败",
+      "onboard_time": 1768828402,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 73357,
@@ -55523,6 +55635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 55219,
+      "num": 99015,
+      "word": "中核集团原总经理顾军被查",
+      "onboard_time": 1768828461,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 55125,
       "num": 116524,
       "word": "小学生在学校50元淘到茅台系杜撰",
@@ -57667,14 +57787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 42566,
-      "num": 171781,
-      "word": "女生面试收到感谢信和66元红包",
-      "onboard_time": 1768827681,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42543,
       "num": 439901,
       "word": "印度饮用水污染致1400人患病10死",
@@ -59376,14 +59488,6 @@
       "word": "死了么APP用户数翻800倍",
       "onboard_time": 1768357582,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34160,
-      "num": 171191,
-      "word": "嫣然天使儿童医院往年工作报告曝光",
-      "onboard_time": 1768827681,
-      "rank": 25,
       "category": "民生新闻"
     },
     {

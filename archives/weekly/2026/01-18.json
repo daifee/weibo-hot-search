@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768827899414,
+  "endTime": 1768829268700,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -40,6 +40,14 @@
       "word": "董子健回复孙怡",
       "onboard_time": 1768732703,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1520834,
+      "num": 201131,
+      "word": "周杰伦昆凌 生理性喜欢",
+      "onboard_time": 1768827081,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -939,14 +947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 361215,
-      "num": 201131,
-      "word": "周杰伦昆凌 生理性喜欢",
-      "onboard_time": 1768827081,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 357227,
       "num": 264316,
       "word": "陈冠希一家洛杉矶参加婚礼",
@@ -1043,6 +1043,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 327946,
+      "num": 765184,
+      "word": "下雪",
+      "onboard_time": 1768824741,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 325945,
       "num": 142346,
       "word": "黄金",
@@ -1129,14 +1137,6 @@
       "onboard_time": 1768732282,
       "rank": 19,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 303064,
-      "num": 303064,
-      "word": "下雪",
-      "onboard_time": 1768824741,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 297527,
@@ -1819,6 +1819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202535,
+      "num": 142149,
+      "word": "虞书欣blossom幕后记录",
+      "onboard_time": 1768829243,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200922,
       "num": 200922,
       "word": "A股迎重要调整",
@@ -2017,6 +2025,14 @@
       "onboard_time": 1768732523,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187520,
+      "num": 187520,
+      "word": "网传歌手2026首发已确定",
+      "onboard_time": 1768828342,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 187355,
@@ -2459,6 +2475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152869,
+      "num": 152869,
+      "word": "陈伟霆在拍许我耀眼续集吗",
+      "onboard_time": 1768828042,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 152060,
       "num": 146884,
       "word": "财务看演唱会通病",
@@ -2507,6 +2531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150495,
+      "num": 134782,
+      "word": "一个股民下班后接孩子的感受",
+      "onboard_time": 1768829002,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149891,
       "num": 118236,
       "word": "春节档",
@@ -2536,6 +2568,14 @@
       "word": "徐帆女儿回应没有牵妈妈的手",
       "onboard_time": 1768727843,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148276,
+      "num": 139963,
+      "word": "21年前被何炅当街冷脸了",
+      "onboard_time": 1768828283,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -3161,6 +3201,14 @@
       "onboard_time": 1768826902,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125184,
+      "num": 125184,
+      "word": "孔雪儿满分女人",
+      "onboard_time": 1768828522,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 125034,
@@ -3899,6 +3947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104859,
+      "num": 104859,
+      "word": "一哥否认杜克20万分手费",
+      "onboard_time": 1768828762,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 104777,
       "num": 94026,
       "word": "我是王一博的兵不是王一博分博",
@@ -3992,6 +4048,14 @@
       "word": "男子摆拍女儿50元淘到名酒被行政处罚",
       "onboard_time": 1768722379,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103388,
+      "num": 181167,
+      "word": "春节放假35天的公司利润一半给员工",
+      "onboard_time": 1768828461,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -4364,7 +4428,7 @@
     },
     {
       "raw_hot": 94697,
-      "num": 94697,
+      "num": 98784,
       "word": "关晓彤allblack拽成啥了",
       "onboard_time": 1768824320,
       "rank": 36,
@@ -4619,6 +4683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 90625,
+      "num": 98846,
+      "word": "欲宇还羞同居",
+      "onboard_time": 1768828582,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90600,
       "num": 90600,
       "word": "直观感受到了科技改变生活",
@@ -4729,6 +4801,14 @@
       "onboard_time": 1768819101,
       "rank": 19,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 88709,
+      "num": 179520,
+      "word": "华为2025年中国智能手机市占第一",
+      "onboard_time": 1768827622,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 88663,
@@ -5003,14 +5083,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 84961,
-      "num": 84961,
-      "word": "华为2025年中国智能手机市占第一",
-      "onboard_time": 1768827622,
-      "rank": 42,
-      "category": "数码"
-    },
-    {
       "raw_hot": 84831,
       "num": 84831,
       "word": "江湖是英文无法翻译的词",
@@ -5099,6 +5171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 83582,
+      "num": 98805,
+      "word": "放心大胆的断联吧",
+      "onboard_time": 1768827382,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 83414,
       "num": 87616,
       "word": "王者第一个全皮英雄",
@@ -5123,20 +5203,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82976,
+      "num": 98719,
+      "word": "特朗普来了也得拍这套",
+      "onboard_time": 1768827562,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82635,
       "num": 82635,
       "word": "Tabe不满意野辅的发挥",
       "onboard_time": 1768724181,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 82501,
-      "num": 82501,
-      "word": "特朗普来了也得拍这套",
-      "onboard_time": 1768827562,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 82400,
@@ -5427,6 +5507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76378,
+      "num": 98672,
+      "word": "曝iPhone18Pro将首发5G卫星通信",
+      "onboard_time": 1768829181,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 76342,
       "num": 153928,
       "word": "小米新SU7刷新24小时耐力挑战纪录",
@@ -5481,6 +5569,22 @@
       "onboard_time": 1768805721,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 75272,
+      "num": 171781,
+      "word": "女生面试收到感谢信和66元红包",
+      "onboard_time": 1768827681,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75013,
+      "num": 171191,
+      "word": "嫣然天使儿童医院往年工作报告曝光",
+      "onboard_time": 1768827681,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74803,
@@ -5545,6 +5649,14 @@
       "onboard_time": 1768667301,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 73417,
+      "num": 98619,
+      "word": "樊振东憋笑失败",
+      "onboard_time": 1768828402,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 73357,
@@ -6099,6 +6211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55219,
+      "num": 99015,
+      "word": "中核集团原总经理顾军被查",
+      "onboard_time": 1768828461,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 55079,
       "num": 1282476,
       "word": "2026春运火车票明天开售",
@@ -6379,14 +6499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42566,
-      "num": 171781,
-      "word": "女生面试收到感谢信和66元红包",
-      "onboard_time": 1768827681,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42256,
       "num": 42256,
       "word": "你好星期六",
@@ -6529,14 +6641,6 @@
       "onboard_time": 1768778418,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 34160,
-      "num": 171191,
-      "word": "嫣然天使儿童医院往年工作报告曝光",
-      "onboard_time": 1768827681,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33886,

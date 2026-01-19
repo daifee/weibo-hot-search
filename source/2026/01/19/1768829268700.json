@@ -1,0 +1,410 @@
+{
+  "runTime": 1768829268700,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 368693,
+        "num": 1058990,
+        "word": "人民日报评美国斩杀线",
+        "onboard_time": 1768816102,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 327946,
+        "num": 765184,
+        "word": "下雪",
+        "onboard_time": 1768824741,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11225,
+        "num": 630939,
+        "word": "2025年中国经济成绩单",
+        "onboard_time": 1768789579,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 391990,
+        "num": 391990,
+        "word": "陈光标喊话李亚鹏提供银行卡号",
+        "onboard_time": 1768824921,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214729,
+        "num": 214729,
+        "word": "云南地震",
+        "onboard_time": 1768822882,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 213870,
+        "num": 213870,
+        "word": "轧戏",
+        "onboard_time": 1768823061,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187520,
+        "num": 187520,
+        "word": "网传歌手2026首发已确定",
+        "onboard_time": 1768828342,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182315,
+        "num": 182315,
+        "word": "火锅店用鱼缸养鲨鱼供人观赏",
+        "onboard_time": 1768817121,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103388,
+        "num": 181167,
+        "word": "春节放假35天的公司利润一半给员工",
+        "onboard_time": 1768828461,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88709,
+        "num": 179520,
+        "word": "华为2025年中国智能手机市占第一",
+        "onboard_time": 1768827622,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1520834,
+        "num": 176762,
+        "word": "周杰伦昆凌 生理性喜欢",
+        "onboard_time": 1768827081,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1117229,
+        "num": 172643,
+        "word": "关晓彤第一次在红毯戴帽子",
+        "onboard_time": 1768824201,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 439583,
+        "num": 172077,
+        "word": "很爱吃但巨发胖的东西",
+        "onboard_time": 1768822582,
+        "rank": 12,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 453960,
+        "num": 167621,
+        "word": "李亚鹏前妻力挺嫣然医院",
+        "onboard_time": 1768821561,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254002,
+        "num": 166480,
+        "word": "范丞丞 出庭的时候带上你的破平板",
+        "onboard_time": 1768817121,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164814,
+        "num": 164814,
+        "word": "多人往滇池抛洒放生矿泉水",
+        "onboard_time": 1768818801,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230027,
+        "num": 164790,
+        "word": "张凌赫张婧仪 兰蔻",
+        "onboard_time": 1768822942,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201539,
+        "num": 164636,
+        "word": "平台辟谣白珊珊被盗号",
+        "onboard_time": 1768815021,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146269,
+        "num": 164419,
+        "word": "A股迎重要调整",
+        "onboard_time": 1768822043,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 84238,
+        "num": 164262,
+        "word": "Air手机界来了个真Pro",
+        "onboard_time": 1768826181,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 262734,
+        "num": 164079,
+        "word": "糖霜苹果",
+        "onboard_time": 1768811902,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261357,
+        "num": 163911,
+        "word": "虞书欣拿小卡和粉丝换手机壳",
+        "onboard_time": 1768826481,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225229,
+        "num": 163777,
+        "word": "潮宏基吊坠一夜涨了1.9万",
+        "onboard_time": 1768814301,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 163724,
+        "num": 163724,
+        "word": "赵今麦工作室编辑文案",
+        "onboard_time": 1768824982,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152869,
+        "num": 152869,
+        "word": "陈伟霆在拍许我耀眼续集吗",
+        "onboard_time": 1768828042,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145569,
+        "num": 145569,
+        "word": "苹果重新夺回中国手机市场第一",
+        "onboard_time": 1768823181,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 202535,
+        "num": 142149,
+        "word": "虞书欣blossom幕后记录",
+        "onboard_time": 1768829243,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148276,
+        "num": 139963,
+        "word": "21年前被何炅当街冷脸了",
+        "onboard_time": 1768828283,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134813,
+        "num": 134813,
+        "word": "iPhone18Pro宣传片曝光",
+        "onboard_time": 1768812261,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 142904,
+        "num": 134796,
+        "word": "何与状态",
+        "onboard_time": 1768825941,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150495,
+        "num": 134782,
+        "word": "一个股民下班后接孩子的感受",
+        "onboard_time": 1768829002,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134633,
+        "num": 134633,
+        "word": "美国斩杀线惨状",
+        "onboard_time": 1768824201,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 125184,
+        "num": 125184,
+        "word": "孔雪儿满分女人",
+        "onboard_time": 1768828522,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113823,
+        "num": 113823,
+        "word": "沈梦辰 美商",
+        "onboard_time": 1768821082,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 75272,
+        "num": 105551,
+        "word": "女生面试收到感谢信和66元红包",
+        "onboard_time": 1768827681,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104859,
+        "num": 104859,
+        "word": "一哥否认杜克20万分手费",
+        "onboard_time": 1768828762,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 104099,
+        "num": 104099,
+        "word": "开年第一部高甜韩剧",
+        "onboard_time": 1768823541,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103158,
+        "num": 103158,
+        "word": "美国主播力挺牢A",
+        "onboard_time": 1768822101,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 75013,
+        "num": 100371,
+        "word": "嫣然天使儿童医院往年工作报告曝光",
+        "onboard_time": 1768827681,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55219,
+        "num": 99015,
+        "word": "中核集团原总经理顾军被查",
+        "onboard_time": 1768828461,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98857,
+        "num": 98857,
+        "word": "原来郝建就是沈腾啊",
+        "onboard_time": 1768824741,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90625,
+        "num": 98846,
+        "word": "欲宇还羞同居",
+        "onboard_time": 1768828582,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83582,
+        "num": 98805,
+        "word": "放心大胆的断联吧",
+        "onboard_time": 1768827382,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84378,
+        "num": 98784,
+        "word": "关晓彤allblack拽成啥了",
+        "onboard_time": 1768824320,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83410,
+        "num": 98738,
+        "word": "JackeyLove说TES就在今天",
+        "onboard_time": 1768821801,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82976,
+        "num": 98719,
+        "word": "特朗普来了也得拍这套",
+        "onboard_time": 1768827562,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80781,
+        "num": 98693,
+        "word": "王源不爱吃辣白菜",
+        "onboard_time": 1768826301,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76378,
+        "num": 98672,
+        "word": "曝iPhone18Pro将首发5G卫星通信",
+        "onboard_time": 1768829181,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 73417,
+        "num": 98619,
+        "word": "樊振东憋笑失败",
+        "onboard_time": 1768828402,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72101,
+        "num": 98603,
+        "word": "小城大事",
+        "onboard_time": 1768823061,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#做好冰雪文章总书记念兹在兹#"
+    }
+  }
+}

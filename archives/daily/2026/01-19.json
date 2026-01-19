@@ -1,6 +1,6 @@
 {
   "startTime": 1768754034427,
-  "endTime": 1768827899414,
+  "endTime": 1768829268700,
   "band_list": [
     {
       "raw_hot": 1973872,
@@ -9,6 +9,14 @@
       "onboard_time": 1768795042,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1520834,
+      "num": 201131,
+      "word": "周杰伦昆凌 生理性喜欢",
+      "onboard_time": 1768827081,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 1344326,
@@ -403,14 +411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 361215,
-      "num": 201131,
-      "word": "周杰伦昆凌 生理性喜欢",
-      "onboard_time": 1768827081,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 356867,
       "num": 178461,
       "word": "沈梦辰 美商",
@@ -475,6 +475,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 327946,
+      "num": 765184,
+      "word": "下雪",
+      "onboard_time": 1768824741,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 325945,
       "num": 142346,
       "word": "黄金",
@@ -513,14 +521,6 @@
       "onboard_time": 1768822942,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 303064,
-      "num": 303064,
-      "word": "下雪",
-      "onboard_time": 1768824741,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 297527,
@@ -875,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202535,
+      "num": 142149,
+      "word": "虞书欣blossom幕后记录",
+      "onboard_time": 1768829243,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200922,
       "num": 200922,
       "word": "A股迎重要调整",
@@ -945,6 +953,14 @@
       "onboard_time": 1768734922,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187520,
+      "num": 187520,
+      "word": "网传歌手2026首发已确定",
+      "onboard_time": 1768828342,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 187147,
@@ -1179,6 +1195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 152869,
+      "num": 152869,
+      "word": "陈伟霆在拍许我耀眼续集吗",
+      "onboard_time": 1768828042,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 151186,
       "num": 151186,
       "word": "包钢",
@@ -1193,6 +1217,14 @@
       "onboard_time": 1768818382,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150495,
+      "num": 134782,
+      "word": "一个股民下班后接孩子的感受",
+      "onboard_time": 1768829002,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 149891,
@@ -1217,6 +1249,14 @@
       "onboard_time": 1768797442,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148276,
+      "num": 139963,
+      "word": "21年前被何炅当街冷脸了",
+      "onboard_time": 1768828283,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 148272,
@@ -1537,6 +1577,14 @@
       "onboard_time": 1768826902,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125184,
+      "num": 125184,
+      "word": "孔雪儿满分女人",
+      "onboard_time": 1768828522,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 125056,
@@ -1883,6 +1931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104859,
+      "num": 104859,
+      "word": "一哥否认杜克20万分手费",
+      "onboard_time": 1768828762,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 104805,
       "num": 216837,
       "word": "肖战姜妍新剧拥抱路透",
@@ -1945,6 +2001,14 @@
       "onboard_time": 1768801163,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103388,
+      "num": 181167,
+      "word": "春节放假35天的公司利润一半给员工",
+      "onboard_time": 1768828461,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102253,
@@ -2060,7 +2124,7 @@
     },
     {
       "raw_hot": 94697,
-      "num": 94697,
+      "num": 98784,
       "word": "关晓彤allblack拽成啥了",
       "onboard_time": 1768824320,
       "rank": 36,
@@ -2187,6 +2251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90625,
+      "num": 98846,
+      "word": "欲宇还羞同居",
+      "onboard_time": 1768828582,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90600,
       "num": 90600,
       "word": "直观感受到了科技改变生活",
@@ -2281,6 +2353,14 @@
       "onboard_time": 1768819101,
       "rank": 19,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 88709,
+      "num": 179520,
+      "word": "华为2025年中国智能手机市占第一",
+      "onboard_time": 1768827622,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 88663,
@@ -2411,14 +2491,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 84961,
-      "num": 84961,
-      "word": "华为2025年中国智能手机市占第一",
-      "onboard_time": 1768827622,
-      "rank": 42,
-      "category": "数码"
-    },
-    {
       "raw_hot": 84831,
       "num": 84831,
       "word": "江湖是英文无法翻译的词",
@@ -2451,6 +2523,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 83582,
+      "num": 98805,
+      "word": "放心大胆的断联吧",
+      "onboard_time": 1768827382,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 83469,
       "num": 216271,
       "word": "二十多岁其实真的很年轻",
@@ -2475,8 +2555,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 82501,
-      "num": 82501,
+      "raw_hot": 82976,
+      "num": 98719,
       "word": "特朗普来了也得拍这套",
       "onboard_time": 1768827562,
       "rank": 43,
@@ -2619,6 +2699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76378,
+      "num": 98672,
+      "word": "曝iPhone18Pro将首发5G卫星通信",
+      "onboard_time": 1768829181,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 76342,
       "num": 153928,
       "word": "小米新SU7刷新24小时耐力挑战纪录",
@@ -2659,12 +2747,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 75272,
+      "num": 171781,
+      "word": "女生面试收到感谢信和66元红包",
+      "onboard_time": 1768827681,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75013,
+      "num": 171191,
+      "word": "嫣然天使儿童医院往年工作报告曝光",
+      "onboard_time": 1768827681,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74008,
       "num": 74008,
       "word": "欧洲被特朗普打脸了",
       "onboard_time": 1768778598,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 73417,
+      "num": 98619,
+      "word": "樊振东憋笑失败",
+      "onboard_time": 1768828402,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 73357,
@@ -2963,6 +3075,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 55219,
+      "num": 99015,
+      "word": "中核集团原总经理顾军被查",
+      "onboard_time": 1768828461,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 55192,
       "num": 108881,
       "word": "芒果真是捡到宝了",
@@ -3131,14 +3251,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 42566,
-      "num": 171781,
-      "word": "女生面试收到感谢信和66元红包",
-      "onboard_time": 1768827681,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42312,
       "num": 214672,
       "word": "AL对战JDG",
@@ -3217,14 +3329,6 @@
       "onboard_time": 1768778418,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 34160,
-      "num": 171191,
-      "word": "嫣然天使儿童医院往年工作报告曝光",
-      "onboard_time": 1768827681,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33886,
