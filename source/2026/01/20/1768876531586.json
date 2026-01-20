@@ -1,0 +1,410 @@
+{
+  "runTime": 1768876531586,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 657765,
+        "num": 1105242,
+        "word": "上海下雪",
+        "onboard_time": 1768864638,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351349,
+        "num": 792028,
+        "word": "杭州下雪",
+        "onboard_time": 1768869560,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20309,
+        "num": 689754,
+        "word": "卫星互联网低轨19组卫星发射成功",
+        "onboard_time": 1768816702,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 675739,
+        "num": 675739,
+        "word": "华伦天奴去世",
+        "onboard_time": 1768867459,
+        "rank": 3,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 387612,
+        "num": 387612,
+        "word": "用芥末泡虾虾线都快吐出来了",
+        "onboard_time": 1768868959,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 583655,
+        "num": 380588,
+        "word": "原来真的有AB货啊",
+        "onboard_time": 1768867459,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 313157,
+        "num": 313157,
+        "word": "儿子回应怒吼癌症妈妈碰瓷爆火",
+        "onboard_time": 1768875799,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275924,
+        "num": 275924,
+        "word": "白鹿睡前听到了唐宫所有的OST",
+        "onboard_time": 1768875140,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206862,
+        "num": 206862,
+        "word": "老赖李亚鹏为何触动了网友",
+        "onboard_time": 1768838599,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170919,
+        "num": 170919,
+        "word": "大寒",
+        "onboard_time": 1768864577,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 893693,
+        "num": 170866,
+        "word": "贝克汉姆遭大儿子控诉",
+        "onboard_time": 1768868059,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 445217,
+        "num": 170246,
+        "word": "王菲十年向嫣然天使捐款三千多万",
+        "onboard_time": 1768869560,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303025,
+        "num": 169971,
+        "word": "苹果将改为一年两次发布新品",
+        "onboard_time": 1768864877,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 297092,
+        "num": 169465,
+        "word": "卢昱晓想认识赵今麦",
+        "onboard_time": 1768866979,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289117,
+        "num": 169403,
+        "word": "贝克汉姆父子闹掰",
+        "onboard_time": 1768870282,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249363,
+        "num": 168810,
+        "word": "曝iPhone18Pro外观",
+        "onboard_time": 1768869260,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 243968,
+        "num": 168411,
+        "word": "李亚鹏带货茶具暂停30天销售",
+        "onboard_time": 1768871660,
+        "rank": 16,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 196001,
+        "num": 168196,
+        "word": "代旭演技",
+        "onboard_time": 1768871001,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44209,
+        "num": 167636,
+        "word": "回家路上接个彩头",
+        "onboard_time": 1768875500,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64858,
+        "num": 167581,
+        "word": "你是北京不是北极",
+        "onboard_time": 1768875319,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 517302,
+        "num": 167157,
+        "word": "日本可能又要换首相了",
+        "onboard_time": 1768874299,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189795,
+        "num": 166593,
+        "word": "微博之夜",
+        "onboard_time": 1768875439,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173865,
+        "num": 166488,
+        "word": "吴磊方称没有义务和必要逐一自证",
+        "onboard_time": 1768864937,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166164,
+        "num": 166164,
+        "word": "带1000去嫣然医院出院还剩990",
+        "onboard_time": 1768876159,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163808,
+        "num": 163808,
+        "word": "杨紫第一次换角色头像",
+        "onboard_time": 1768833561,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145495,
+        "num": 145495,
+        "word": "相声表演艺术家杨振华去世",
+        "onboard_time": 1768870041,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130919,
+        "num": 130919,
+        "word": "iPhoneAir2新爆料",
+        "onboard_time": 1768875319,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 121727,
+        "num": 121727,
+        "word": "南京下雪",
+        "onboard_time": 1768867158,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120044,
+        "num": 120044,
+        "word": "中国留学生买错票躲过西班牙高铁事故",
+        "onboard_time": 1768866798,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103738,
+        "num": 103738,
+        "word": "男孩打出溜滑25米7喜提粘豆包",
+        "onboard_time": 1768872260,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271879,
+        "num": 102736,
+        "word": "相亲角38岁未婚女绝望咆哮",
+        "onboard_time": 1768876459,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100459,
+        "num": 100459,
+        "word": "江宁婆婆科普糖霜苹果",
+        "onboard_time": 1768869260,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98304,
+        "num": 98304,
+        "word": "iPhone18系列售价曝光",
+        "onboard_time": 1768867519,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 97553,
+        "num": 97553,
+        "word": "日本自卫队员性侵男同僚",
+        "onboard_time": 1768868301,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 95470,
+        "num": 95470,
+        "word": "下雪",
+        "onboard_time": 1768824741,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93870,
+        "num": 93870,
+        "word": "普京严寒中跳入冰窟进行洗礼",
+        "onboard_time": 1768869202,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89274,
+        "num": 89274,
+        "word": "靠上班普通人只能在35岁之前过成中产",
+        "onboard_time": 1768866138,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89098,
+        "num": 89098,
+        "word": "易点天下跌停",
+        "onboard_time": 1768876340,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 87258,
+        "num": 87258,
+        "word": "LPR",
+        "onboard_time": 1768873040,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 20121,
+        "num": 85619,
+        "word": "台北36岁儿子37刀杀害双亲落网",
+        "onboard_time": 1768875500,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84281,
+        "num": 84281,
+        "word": "金正恩解除一名内阁副总理职务",
+        "onboard_time": 1768871121,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83676,
+        "num": 83676,
+        "word": "武汉下雪",
+        "onboard_time": 1768868901,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82264,
+        "num": 82264,
+        "word": "詹姆斯连续21年入选全明星首发纪录终结",
+        "onboard_time": 1768872678,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79299,
+        "num": 79299,
+        "word": "泡泡玛特涨5.2%",
+        "onboard_time": 1768875679,
+        "rank": 43,
+        "category": "财经,休闲"
+      },
+      {
+        "raw_hot": 78158,
+        "num": 78158,
+        "word": "肖战现在不跳舞要干嘛",
+        "onboard_time": 1768866798,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 78137,
+        "num": 78137,
+        "word": "南方人过大寒离不开保暖三件套",
+        "onboard_time": 1768876459,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75916,
+        "num": 75916,
+        "word": "R星工作室发生爆炸",
+        "onboard_time": 1768867519,
+        "rank": 46,
+        "category": "海外新闻,游戏"
+      },
+      {
+        "raw_hot": 75671,
+        "num": 75671,
+        "word": "5年期和1年期LPR利率维持不变",
+        "onboard_time": 1768876459,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 75581,
+        "num": 75581,
+        "word": "孙颖莎入选国家一队9周年",
+        "onboard_time": 1768873578,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74827,
+        "num": 74827,
+        "word": "轧戏胡羞爸爸出车祸",
+        "onboard_time": 1768872439,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平曾多次提起这个寓言#"
+    }
+  }
+}

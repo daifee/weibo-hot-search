@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768875067924,
+  "endTime": 1768876531586,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 939517,
-      "num": 619106,
+      "num": 675739,
       "word": "华伦天奴去世",
       "onboard_time": 1768867459,
       "rank": 3,
@@ -171,8 +171,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 852878,
-      "num": 132940,
+      "raw_hot": 893693,
+      "num": 170866,
       "word": "贝克汉姆遭大儿子控诉",
       "onboard_time": 1768868059,
       "rank": 10,
@@ -507,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 583655,
+      "num": 524991,
+      "word": "原来真的有AB货啊",
+      "onboard_time": 1768867459,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 580006,
       "num": 204834,
       "word": "牢A",
@@ -571,16 +579,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 536231,
-      "num": 524991,
-      "word": "原来真的有AB货啊",
-      "onboard_time": 1768867459,
-      "rank": 5,
-      "category": "情感"
-    },
-    {
       "raw_hot": 533821,
-      "num": 132821,
+      "num": 170246,
       "word": "王菲十年向嫣然天使捐款三千多万",
       "onboard_time": 1768869560,
       "rank": 11,
@@ -649,6 +649,14 @@
       "onboard_time": 1768727301,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 517302,
+      "num": 167157,
+      "word": "日本可能又要换首相了",
+      "onboard_time": 1768874299,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 515519,
@@ -884,7 +892,7 @@
     },
     {
       "raw_hot": 414553,
-      "num": 132012,
+      "num": 169971,
       "word": "苹果将改为一年两次发布新品",
       "onboard_time": 1768864877,
       "rank": 12,
@@ -948,7 +956,7 @@
     },
     {
       "raw_hot": 399377,
-      "num": 131312,
+      "num": 166488,
       "word": "吴磊方称没有义务和必要逐一自证",
       "onboard_time": 1768864937,
       "rank": 10,
@@ -1036,7 +1044,7 @@
     },
     {
       "raw_hot": 376416,
-      "num": 132639,
+      "num": 168810,
       "word": "曝iPhone18Pro外观",
       "onboard_time": 1768869260,
       "rank": 12,
@@ -1171,14 +1179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 342009,
-      "num": 131247,
-      "word": "日本可能又要换首相了",
-      "onboard_time": 1768874299,
-      "rank": 20,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 336050,
       "num": 810772,
       "word": "深圳封存20年垃圾山开挖",
@@ -1220,7 +1220,7 @@
     },
     {
       "raw_hot": 328885,
-      "num": 132398,
+      "num": 169465,
       "word": "卢昱晓想认识赵今麦",
       "onboard_time": 1768866979,
       "rank": 13,
@@ -1280,6 +1280,14 @@
       "word": "嫣然医院周边居民发声",
       "onboard_time": 1768779320,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 313157,
+      "num": 313157,
+      "word": "儿子回应怒吼癌症妈妈碰瓷爆火",
+      "onboard_time": 1768875799,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -1395,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 289117,
+      "num": 169403,
+      "word": "贝克汉姆父子闹掰",
+      "onboard_time": 1768870282,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 287584,
       "num": 287584,
       "word": "美国男子收集雨水被判处30天监禁",
@@ -1404,7 +1420,7 @@
     },
     {
       "raw_hot": 284236,
-      "num": 131968,
+      "num": 168411,
       "word": "李亚鹏带货茶具暂停30天销售",
       "onboard_time": 1768871660,
       "rank": 16,
@@ -1433,6 +1449,14 @@
       "onboard_time": 1768699279,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 275924,
+      "num": 275924,
+      "word": "白鹿睡前听到了唐宫所有的OST",
+      "onboard_time": 1768875140,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 275565,
@@ -1489,6 +1513,14 @@
       "onboard_time": 1768807821,
       "rank": 42,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 271879,
+      "num": 102736,
+      "word": "相亲角38岁未婚女绝望咆哮",
+      "onboard_time": 1768876459,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 268968,
@@ -1649,14 +1681,6 @@
       "onboard_time": 1768811902,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 241955,
-      "num": 131651,
-      "word": "贝克汉姆父子闹掰",
-      "onboard_time": 1768870282,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 241359,
@@ -2004,7 +2028,7 @@
     },
     {
       "raw_hot": 208367,
-      "num": 131471,
+      "num": 145495,
       "word": "相声表演艺术家杨振华去世",
       "onboard_time": 1768870041,
       "rank": 18,
@@ -2193,6 +2217,14 @@
       "onboard_time": 1768733482,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196001,
+      "num": 168196,
+      "word": "代旭演技",
+      "onboard_time": 1768871001,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 195439,
@@ -2633,6 +2665,14 @@
       "onboard_time": 1768820121,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166164,
+      "num": 166164,
+      "word": "带1000去嫣然医院出院还剩990",
+      "onboard_time": 1768876159,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165500,
@@ -3379,6 +3419,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 130919,
+      "num": 130919,
+      "word": "iPhoneAir2新爆料",
+      "onboard_time": 1768875319,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 130850,
       "num": 130850,
       "word": "内娱女打星赛道上新了",
@@ -3409,14 +3457,6 @@
       "onboard_time": 1768822101,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 130406,
-      "num": 130406,
-      "word": "代旭演技",
-      "onboard_time": 1768871001,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 130399,
@@ -5419,6 +5459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89098,
+      "num": 89098,
+      "word": "易点天下跌停",
+      "onboard_time": 1768876340,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 89093,
       "num": 80574,
       "word": "国家级歌手称UP主让华语乐坛氛围更好",
@@ -6123,6 +6171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79299,
+      "num": 79299,
+      "word": "泡泡玛特涨5.2%",
+      "onboard_time": 1768875679,
+      "rank": 43,
+      "category": "财经,休闲"
+    },
+    {
       "raw_hot": 79068,
       "num": 145081,
       "word": "马龙贾玲Prada秀场同框",
@@ -6177,6 +6233,14 @@
       "onboard_time": 1768805122,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 78137,
+      "num": 78137,
+      "word": "南方人过大寒离不开保暖三件套",
+      "onboard_time": 1768876459,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 77759,
@@ -6297,6 +6361,14 @@
       "onboard_time": 1768717280,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 75671,
+      "num": 75671,
+      "word": "5年期和1年期LPR利率维持不变",
+      "onboard_time": 1768876459,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 75590,
@@ -6721,6 +6793,14 @@
       "onboard_time": 1768702280,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 64858,
+      "num": 167581,
+      "word": "你是北京不是北极",
+      "onboard_time": 1768875319,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64855,
@@ -7315,6 +7395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44209,
+      "num": 167636,
+      "word": "回家路上接个彩头",
+      "onboard_time": 1768875500,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43729,
       "num": 108847,
       "word": "小城大事热度破27000",
@@ -7596,7 +7684,7 @@
     },
     {
       "raw_hot": 28684,
-      "num": 667788,
+      "num": 689754,
       "word": "卫星互联网低轨19组卫星发射成功",
       "onboard_time": 1768816702,
       "rank": 43,
@@ -7753,6 +7841,14 @@
       "onboard_time": 1768812981,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 20121,
+      "num": 85619,
+      "word": "台北36岁儿子37刀杀害双亲落网",
+      "onboard_time": 1768875500,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20066,

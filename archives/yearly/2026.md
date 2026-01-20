@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/20 10:11:07
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/20 10:35:31
 </p>
 </blockquote>
 <p>
@@ -1197,6 +1197,12 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E9%81%AD%E5%A4%A7%E5%84%BF%E5%AD%90%E6%8E%A7%E8%AF%89%23" target="weibo">
+贝克汉姆遭大儿子控诉（热度：893693）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23U23%E5%9B%BD%E8%B6%B3%E9%A6%96%E8%BF%9B%E4%BA%9A%E6%B4%B2%E6%9D%AF4%E5%BC%BA%23" target="weibo">
 U23国足首进亚洲杯4强（热度：890521）
 </a>
@@ -1283,12 +1289,6 @@ DYG战胜狼队（热度：867183）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E5%8F%B0%E8%AF%8D%23" target="weibo">
 卢昱晓台词（热度：853653）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E9%81%AD%E5%A4%A7%E5%84%BF%E5%AD%90%E6%8E%A7%E8%AF%89%23" target="weibo">
-贝克汉姆遭大儿子控诉（热度：852878）
 </a>
 </li>
 
