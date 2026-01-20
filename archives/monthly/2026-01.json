@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768942519565,
+  "endTime": 1768944615027,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -63619,6 +63619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31851,
+      "num": 31851,
+      "word": "U23国足决赛将对阵日本",
+      "onboard_time": 1768933095,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31820,
       "num": 119707,
       "word": "工地被指强制工人在食堂用餐",
@@ -63665,14 +63673,6 @@
       "onboard_time": 1768127421,
       "rank": 39,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 31657,
-      "num": 31657,
-      "word": "U23国足决赛将对阵日本",
-      "onboard_time": 1768933095,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 31598,
