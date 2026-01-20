@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768914315204,
+  "endTime": 1768915693277,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -459,12 +459,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 672875,
+      "num": 621159,
+      "word": "李亚鹏谈4000万欠款的真实原因",
+      "onboard_time": 1768912281,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 672209,
       "num": 1107553,
       "word": "中国乒协确认国家队教练员名单",
       "onboard_time": 1768901841,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 667048,
+      "num": 1106727,
+      "word": "轧戏大结局",
+      "onboard_time": 1768909941,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 659782,
@@ -488,14 +504,6 @@
       "word": "短剧演员吐槽剧组让孩子一直淋雨",
       "onboard_time": 1768713080,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 647129,
-      "num": 1103540,
-      "word": "轧戏大结局",
-      "onboard_time": 1768909941,
-      "rank": 0,
       "category": "剧集"
     },
     {
@@ -571,20 +579,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 622762,
+      "num": 235010,
+      "word": "肯德基下乡",
+      "onboard_time": 1768913421,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 621333,
       "num": 70483,
       "word": "iPhone18Pro渲染视频曝光",
       "onboard_time": 1768694538,
       "rank": 40,
       "category": "数码"
-    },
-    {
-      "raw_hot": 621159,
-      "num": 621159,
-      "word": "李亚鹏谈4000万欠款的真实原因",
-      "onboard_time": 1768912281,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 607681,
@@ -628,7 +636,7 @@
     },
     {
       "raw_hot": 589132,
-      "num": 161535,
+      "num": 163830,
       "word": "关晓彤造型师去哪儿进修了",
       "onboard_time": 1768900461,
       "rank": 21,
@@ -948,7 +956,7 @@
     },
     {
       "raw_hot": 459240,
-      "num": 132085,
+      "num": 154370,
       "word": "VOGUE发了王橹杰穆祉丞",
       "onboard_time": 1768906702,
       "rank": 20,
@@ -1049,6 +1057,14 @@
       "onboard_time": 1768651641,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 434776,
+      "num": 166610,
+      "word": "向涵之瘦下来好像钟楚曦",
+      "onboard_time": 1768912521,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 430701,
@@ -1715,14 +1731,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 301268,
-      "num": 145371,
-      "word": "向涵之瘦下来好像钟楚曦",
-      "onboard_time": 1768912521,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 297527,
       "num": 191762,
       "word": "彭小苒镂空连体衣辣成啥了",
@@ -2155,6 +2163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242767,
+      "num": 242767,
+      "word": "解放军演练斩首行动台独慌了",
+      "onboard_time": 1768912700,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 242143,
       "num": 242143,
       "word": "骄阳似我庆功宴合照",
@@ -2185,6 +2201,14 @@
       "onboard_time": 1768709360,
       "rank": 16,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 239464,
+      "num": 165822,
+      "word": "肖战他瞅了我一眼",
+      "onboard_time": 1768913601,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 236574,
@@ -2332,19 +2356,11 @@
     },
     {
       "raw_hot": 226829,
-      "num": 150745,
+      "num": 165346,
       "word": "女子遭强奸被杀2次望判凶手死刑",
       "onboard_time": 1768907481,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 225998,
-      "num": 140058,
-      "word": "肖战他瞅了我一眼",
-      "onboard_time": 1768913601,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 225933,
@@ -2708,7 +2724,7 @@
     },
     {
       "raw_hot": 203229,
-      "num": 130077,
+      "num": 154232,
       "word": "张维伊的演技被低估了",
       "onboard_time": 1768911981,
       "rank": 21,
@@ -2873,6 +2889,14 @@
       "onboard_time": 1768733482,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196264,
+      "num": 164998,
+      "word": "慕胥辞招商",
+      "onboard_time": 1768913181,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 196001,
@@ -3147,14 +3171,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 181374,
-      "num": 106686,
-      "word": "肯德基下乡",
-      "onboard_time": 1768913421,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 179348,
       "num": 144601,
       "word": "道歉变处刑道德正义不等于合法判断",
@@ -3169,14 +3185,6 @@
       "onboard_time": 1768790422,
       "rank": 14,
       "category": "财经"
-    },
-    {
-      "raw_hot": 178485,
-      "num": 137944,
-      "word": "慕胥辞招商",
-      "onboard_time": 1768913181,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 178179,
@@ -3272,6 +3280,14 @@
       "word": "钟意面具照有点帅",
       "onboard_time": 1768816040,
       "rank": 12,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 174114,
+      "num": 174114,
+      "word": "BLG战胜IG",
+      "onboard_time": 1768914260,
+      "rank": 46,
       "category": "电竞"
     },
     {
@@ -3371,6 +3387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 168250,
+      "num": 168250,
+      "word": "小城大事收视第一",
+      "onboard_time": 1768913120,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167839,
       "num": 178817,
       "word": "王鹤棣对沈月说不吃可以给我",
@@ -3449,14 +3473,6 @@
       "onboard_time": 1768820121,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165520,
-      "num": 165520,
-      "word": "解放军演练斩首行动台独慌了",
-      "onboard_time": 1768912700,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 165500,
@@ -4011,6 +4027,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 145090,
+      "num": 145090,
+      "word": "成龙第一次参加时装周的样子",
+      "onboard_time": 1768914741,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 144903,
       "num": 144903,
       "word": "2025年GDP超140万亿元",
@@ -4305,14 +4329,6 @@
       "onboard_time": 1768908081,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137678,
-      "num": 137678,
-      "word": "小城大事收视第一",
-      "onboard_time": 1768913120,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 136916,
@@ -4972,7 +4988,7 @@
     },
     {
       "raw_hot": 121099,
-      "num": 105859,
+      "num": 112802,
       "word": "爸爸让女儿宣传公司",
       "onboard_time": 1768911021,
       "rank": 33,
@@ -5155,6 +5171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118197,
+      "num": 118197,
+      "word": "轧戏直播",
+      "onboard_time": 1768914562,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117863,
       "num": 117863,
       "word": "受害人轻信买坦克准备打仗被骗42万",
@@ -5315,6 +5339,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 115280,
+      "num": 155324,
+      "word": "巴奴向嫣然医院捐赠100万",
+      "onboard_time": 1768913901,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115211,
       "num": 115210,
       "word": "文旅局回应大地之子雕塑成公厕",
@@ -5457,6 +5489,14 @@
       "onboard_time": 1768903401,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112582,
+      "num": 112582,
+      "word": "女生回应张凌赫曾是补习老师",
+      "onboard_time": 1768910541,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 111862,
@@ -5897,14 +5937,6 @@
       "onboard_time": 1768894400,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105678,
-      "num": 105678,
-      "word": "女生回应张凌赫曾是补习老师",
-      "onboard_time": 1768910541,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 105574,
@@ -7883,6 +7915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82335,
+      "num": 82335,
+      "word": "南京一车主雪天把车开上墙",
+      "onboard_time": 1768914381,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82247,
       "num": 82247,
       "word": "银行员工称买哭哭马摆在工位",
@@ -8083,6 +8123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79394,
+      "num": 79394,
+      "word": "12岁女孩被3人性侵陷入抑郁",
+      "onboard_time": 1768915282,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79376,
       "num": 79376,
       "word": "1岁宝宝高烧家长贴暖宝宝捂进ICU",
@@ -8137,6 +8185,14 @@
       "onboard_time": 1768913421,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 78903,
+      "num": 78903,
+      "word": "罗云熙海外影响力",
+      "onboard_time": 1768914741,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 78720,
@@ -8291,6 +8347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76223,
+      "num": 76223,
+      "word": "黄金白银再暴涨原因",
+      "onboard_time": 1768914860,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 76124,
       "num": 96781,
       "word": "突然觉得餐饮没那么好做了",
@@ -8321,14 +8385,6 @@
       "onboard_time": 1768717280,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 75814,
-      "num": 75814,
-      "word": "BLG战胜IG",
-      "onboard_time": 1768914260,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 75671,
@@ -8547,6 +8603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71544,
+      "num": 71544,
+      "word": "TOP 战狼男团",
+      "onboard_time": 1768911560,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71372,
       "num": 71372,
       "word": "郭富城回应方媛喜欢拍视频分享",
@@ -8624,6 +8688,14 @@
       "word": "北京下雪萌兰变身糖霜小熊",
       "onboard_time": 1768721900,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70291,
+      "num": 70291,
+      "word": "停用手机号被他人启用登上了自己微信",
+      "onboard_time": 1768915461,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -8860,7 +8932,7 @@
     },
     {
       "raw_hot": 64762,
-      "num": 133376,
+      "num": 154467,
       "word": "Turbo5Max五年电池保",
       "onboard_time": 1768912521,
       "rank": 19,
@@ -9731,6 +9803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32679,
+      "num": 661521,
+      "word": "还有不到30天过年",
+      "onboard_time": 1768913781,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32497,
       "num": 261409,
       "word": "朱珠被飞鹤的鲜活打动了",
@@ -9801,6 +9881,14 @@
       "onboard_time": 1768757236,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 29598,
+      "num": 79686,
+      "word": "站姐给陈哲远拍出神图了",
+      "onboard_time": 1768915222,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 29107,
@@ -10083,14 +10171,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 19826,
-      "num": 626378,
-      "word": "还有不到30天过年",
-      "onboard_time": 1768913781,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 19800,
       "num": 99898,
       "word": "李若彤逛大学夜市收到求职简历",
@@ -10259,8 +10339,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13175,
-      "num": 74608,
+      "raw_hot": 13512,
+      "num": 80658,
       "word": "90后老板对品质有多执着",
       "onboard_time": 1768911742,
       "rank": 49,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1768915693277,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 667048,
+        "num": 1106727,
+        "word": "轧戏大结局",
+        "onboard_time": 1768909941,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329355,
+        "num": 784554,
+        "word": "中国乒协确认国家队教练员名单",
+        "onboard_time": 1768901841,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32679,
+        "num": 661521,
+        "word": "还有不到30天过年",
+        "onboard_time": 1768913781,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 672875,
+        "num": 492627,
+        "word": "李亚鹏谈4000万欠款的真实原因",
+        "onboard_time": 1768912281,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242767,
+        "num": 242767,
+        "word": "解放军演练斩首行动台独慌了",
+        "onboard_time": 1768912700,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 622762,
+        "num": 235010,
+        "word": "肯德基下乡",
+        "onboard_time": 1768913421,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274150,
+        "num": 209384,
+        "word": "腾讯力挺陈星旭",
+        "onboard_time": 1768910603,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174114,
+        "num": 174114,
+        "word": "BLG战胜IG",
+        "onboard_time": 1768914260,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168250,
+        "num": 168250,
+        "word": "小城大事收视第一",
+        "onboard_time": 1768913120,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163670,
+        "num": 167704,
+        "word": "人类对牛奶的开发不足1%",
+        "onboard_time": 1768903700,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 500327,
+        "num": 167210,
+        "word": "女子洗澡忘关水阀将小区变溜冰场",
+        "onboard_time": 1768892842,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 434776,
+        "num": 166610,
+        "word": "向涵之瘦下来好像钟楚曦",
+        "onboard_time": 1768912521,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239464,
+        "num": 165822,
+        "word": "肖战他瞅了我一眼",
+        "onboard_time": 1768913601,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208275,
+        "num": 165346,
+        "word": "女子遭强奸被杀2次望判凶手死刑",
+        "onboard_time": 1768907481,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196264,
+        "num": 164998,
+        "word": "慕胥辞招商",
+        "onboard_time": 1768913181,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174145,
+        "num": 164039,
+        "word": "你以为的双胞胎vs实际上的双胞胎",
+        "onboard_time": 1768906761,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163830,
+        "num": 163830,
+        "word": "关晓彤造型师去哪儿进修了",
+        "onboard_time": 1768900461,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158352,
+        "num": 158352,
+        "word": "代旭演技",
+        "onboard_time": 1768914562,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115280,
+        "num": 155324,
+        "word": "巴奴向嫣然医院捐赠100万",
+        "onboard_time": 1768913901,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48871,
+        "num": 154467,
+        "word": "Turbo5Max五年电池保",
+        "onboard_time": 1768912521,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 179777,
+        "num": 154370,
+        "word": "VOGUE发了王橹杰穆祉丞",
+        "onboard_time": 1768906702,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 154232,
+        "num": 154232,
+        "word": "张维伊的演技被低估了",
+        "onboard_time": 1768911981,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134000,
+        "num": 147106,
+        "word": "iG对战BLG",
+        "onboard_time": 1768912221,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145090,
+        "num": 145090,
+        "word": "成龙第一次参加时装周的样子",
+        "onboard_time": 1768914741,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 137032,
+        "num": 137032,
+        "word": "以为会长胖但巨减肥的习惯",
+        "onboard_time": 1768900040,
+        "rank": 24,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 125493,
+        "num": 125493,
+        "word": "王昭君灯塔水母主题皮肤",
+        "onboard_time": 1768908861,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118197,
+        "num": 118197,
+        "word": "轧戏直播",
+        "onboard_time": 1768914562,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112854,
+        "num": 112854,
+        "word": "父亲去世留30万贷款女儿被判不用还",
+        "onboard_time": 1768902201,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117652,
+        "num": 112802,
+        "word": "爸爸让女儿宣传公司",
+        "onboard_time": 1768911021,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87565,
+        "num": 112676,
+        "word": "孙颖莎邱贻可一起上训",
+        "onboard_time": 1768910301,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112582,
+        "num": 112582,
+        "word": "女生回应张凌赫曾是补习老师",
+        "onboard_time": 1768910541,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108803,
+        "num": 108803,
+        "word": "陈哲远妈生颜霸",
+        "onboard_time": 1768912823,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102614,
+        "num": 102614,
+        "word": "你觉得不好看其实超健康的特点",
+        "onboard_time": 1768912640,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98648,
+        "num": 98648,
+        "word": "轧戏",
+        "onboard_time": 1768908921,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91649,
+        "num": 91649,
+        "word": "关晓彤是手太大还是脸太小",
+        "onboard_time": 1768909041,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90313,
+        "num": 90313,
+        "word": "贝克汉姆长子称婚礼是最屈辱的时刻",
+        "onboard_time": 1768893980,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84337,
+        "num": 84337,
+        "word": "何聪睿戏扑甩锅女主",
+        "onboard_time": 1768888460,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82335,
+        "num": 82335,
+        "word": "南京一车主雪天把车开上墙",
+        "onboard_time": 1768914381,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13512,
+        "num": 80658,
+        "word": "90后老板对品质有多执着",
+        "onboard_time": 1768911742,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29598,
+        "num": 79686,
+        "word": "站姐给陈哲远拍出神图了",
+        "onboard_time": 1768915222,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79394,
+        "num": 79394,
+        "word": "12岁女孩被3人性侵陷入抑郁",
+        "onboard_time": 1768915282,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78903,
+        "num": 78903,
+        "word": "罗云熙海外影响力",
+        "onboard_time": 1768914741,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76223,
+        "num": 76223,
+        "word": "黄金白银再暴涨原因",
+        "onboard_time": 1768914860,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 72591,
+        "num": 72591,
+        "word": "时团不是时团的时候路人缘最好",
+        "onboard_time": 1768908081,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71544,
+        "num": 71544,
+        "word": "TOP 战狼男团",
+        "onboard_time": 1768911560,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70291,
+        "num": 70291,
+        "word": "停用手机号被他人启用登上了自己微信",
+        "onboard_time": 1768915461,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70748,
+        "num": 70093,
+        "word": "何宣林她可是离光青葵",
+        "onboard_time": 1768910722,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68243,
+        "num": 68243,
+        "word": "人民币现金收付新规2月1日起施行",
+        "onboard_time": 1768895542,
+        "rank": 47,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 66606,
+        "num": 66606,
+        "word": "这才是我该看的男女主和好速度",
+        "onboard_time": 1768913901,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66067,
+        "num": 66067,
+        "word": "刘诗诗活动路透",
+        "onboard_time": 1768907601,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#十五五开局之年第一课#"
+    }
+  }
+}
