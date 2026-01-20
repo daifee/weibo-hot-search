@@ -1,6 +1,6 @@
 {
   "startTime": 1768840768064,
-  "endTime": 1768888412068,
+  "endTime": 1768891688741,
   "band_list": [
     {
       "raw_hot": 2679279,
@@ -91,6 +91,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 631787,
+      "num": 182317,
+      "word": "何聪睿戏扑甩锅女主",
+      "onboard_time": 1768888460,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 583655,
       "num": 524991,
       "word": "原来真的有AB货啊",
@@ -145,6 +153,14 @@
       "onboard_time": 1768886360,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 499940,
+      "num": 244864,
+      "word": "这个月工资就是今年攒了多少钱",
+      "onboard_time": 1768884142,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 489018,
@@ -227,6 +243,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 382146,
+      "num": 182776,
+      "word": "赵樱子崩溃大哭",
+      "onboard_time": 1768887200,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 376416,
       "num": 168810,
       "word": "曝iPhone18Pro外观",
@@ -289,6 +313,14 @@
       "onboard_time": 1768866979,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 325141,
+      "num": 178188,
+      "word": "牢A说不是有国籍就是中国人",
+      "onboard_time": 1768886841,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 308219,
@@ -363,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 250941,
+      "num": 250941,
+      "word": "沈月 邵子恒是外国人吗",
+      "onboard_time": 1768889059,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247179,
       "num": 128224,
       "word": "牢A提醒美加留学生",
@@ -377,6 +417,22 @@
       "onboard_time": 1768877478,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 244993,
+      "num": 184704,
+      "word": "呆呆说自己确实闯了个大祸",
+      "onboard_time": 1768886841,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232287,
+      "num": 206050,
+      "word": "王楚钦休息林诗栋连打三站",
+      "onboard_time": 1768888159,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 231993,
@@ -395,14 +451,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 228991,
-      "num": 171499,
-      "word": "牢A说不是有国籍就是中国人",
-      "onboard_time": 1768886841,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 227021,
       "num": 227021,
       "word": "A股又突然跳水",
@@ -417,14 +465,6 @@
       "onboard_time": 1768833921,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 220804,
-      "num": 182776,
-      "word": "赵樱子崩溃大哭",
-      "onboard_time": 1768887200,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 220201,
@@ -459,14 +499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206050,
-      "num": 206050,
-      "word": "王楚钦休息林诗栋连打三站",
-      "onboard_time": 1768888159,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205756,
       "num": 155863,
       "word": "轧戏云包场加码没有陈星旭",
@@ -481,6 +513,14 @@
       "onboard_time": 1768879762,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205202,
+      "num": 185354,
+      "word": "胡兵 央视门口最好认的明星",
+      "onboard_time": 1768891101,
+      "rank": 11,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 203348,
@@ -555,20 +595,20 @@
       "category": "互联网,作品衍生"
     },
     {
+      "raw_hot": 189487,
+      "num": 175660,
+      "word": "恋综最爽女主",
+      "onboard_time": 1768889660,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185575,
       "num": 158865,
       "word": "关晓彤第一次在红毯戴帽子",
       "onboard_time": 1768824201,
       "rank": 13,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 184076,
-      "num": 171174,
-      "word": "呆呆说自己确实闯了个大祸",
-      "onboard_time": 1768886841,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 180822,
@@ -595,6 +635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 175546,
+      "num": 175546,
+      "word": "宋轶的裙子上有99朵玫瑰花",
+      "onboard_time": 1768889180,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172962,
       "num": 172962,
       "word": "小贝长子曝母亲安插前女友破坏婚姻",
@@ -604,7 +652,7 @@
     },
     {
       "raw_hot": 168889,
-      "num": 168889,
+      "num": 186972,
       "word": "呼啸山庄定档",
       "onboard_time": 1768888159,
       "rank": 25,
@@ -635,14 +683,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 165175,
-      "num": 196214,
-      "word": "这个月工资就是今年攒了多少钱",
-      "onboard_time": 1768884142,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 163808,
       "num": 163808,
       "word": "杨紫第一次换角色头像",
@@ -665,6 +705,14 @@
       "onboard_time": 1768882522,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 161396,
+      "num": 161396,
+      "word": "陈星旭王玉雯突然的喜欢定档",
+      "onboard_time": 1768891580,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 160229,
@@ -827,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139745,
+      "num": 164724,
+      "word": "上海积雪有多罕见",
+      "onboard_time": 1768887500,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138625,
       "num": 138625,
       "word": "卢昱晓代旭请二搭",
@@ -923,20 +979,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122414,
+      "num": 122414,
+      "word": "宋祖儿 平常都是恶心穿搭",
+      "onboard_time": 1768891280,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 121946,
+      "num": 91978,
+      "word": "陈乔恩躺地上给武大靖拍照",
+      "onboard_time": 1768890439,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120246,
       "num": 120246,
       "word": "A股近2700只个股下跌",
       "onboard_time": 1768883482,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 119673,
-      "num": 119673,
-      "word": "上海积雪有多罕见",
-      "onboard_time": 1768887500,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117786,
@@ -1187,6 +1251,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 95199,
+      "num": 95199,
+      "word": "嫣然天使基金将陆续暂停筹款项目",
+      "onboard_time": 1768891340,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93394,
       "num": 93394,
       "word": "长沙真下雪了",
@@ -1243,12 +1315,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 88397,
+      "num": 88397,
+      "word": "经常视奸自己的朋友圈",
+      "onboard_time": 1768890141,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 87834,
+      "num": 87333,
+      "word": "特朗普因诺贝尔奖破防威胁挪威",
+      "onboard_time": 1768889421,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 87769,
       "num": 87769,
       "word": "裴轸黑化",
       "onboard_time": 1768864698,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87615,
+      "num": 87615,
+      "word": "成毅穿西西域的衣服采访",
+      "onboard_time": 1768890260,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 87219,
@@ -1305,6 +1401,14 @@
       "onboard_time": 1768822101,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 79602,
+      "num": 86861,
+      "word": "A股调整三大原因",
+      "onboard_time": 1768888520,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 79367,
@@ -1377,6 +1481,14 @@
       "onboard_time": 1768874239,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71058,
+      "num": 87168,
+      "word": "王亚飞给马丽化的妆",
+      "onboard_time": 1768890381,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 70830,
@@ -1507,6 +1619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 51208,
+      "num": 92000,
+      "word": "张凌赫 我担是我的补习老师",
+      "onboard_time": 1768891580,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 50970,
       "num": 139511,
       "word": "23岁新娘喝农药自杀进展",
@@ -1521,6 +1641,14 @@
       "onboard_time": 1768836561,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 50550,
+      "num": 179289,
+      "word": "女子转账近25万做医美几近失明",
+      "onboard_time": 1768891221,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50357,
@@ -1648,6 +1776,14 @@
       "word": "母亲给儿子房产女儿断亲遭起诉",
       "onboard_time": 1768882161,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28496,
+      "num": 131971,
+      "word": "有猪企卖542万头猪至少亏7亿",
+      "onboard_time": 1768891640,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -1809,6 +1945,14 @@
       "onboard_time": 1768835182,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11858,
+      "num": 89558,
+      "word": "嫣然天使基金回应何时开放捐赠",
+      "onboard_time": 1768891640,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9904,

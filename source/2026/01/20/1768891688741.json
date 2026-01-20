@@ -1,0 +1,410 @@
+{
+  "runTime": 1768891688741,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 469475,
+        "num": 1075116,
+        "word": "儿子回应怒吼癌症妈妈碰瓷爆火",
+        "onboard_time": 1768875799,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243662,
+        "num": 781679,
+        "word": "医生给1岁娃开小众药被AI提醒慎用",
+        "onboard_time": 1768884022,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21896,
+        "num": 606423,
+        "word": "用大寒节气打开冬日中国之美",
+        "onboard_time": 1768878861,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297996,
+        "num": 297996,
+        "word": "华伦天奴去世",
+        "onboard_time": 1768867459,
+        "rank": 3,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 250941,
+        "num": 250941,
+        "word": "沈月 邵子恒是外国人吗",
+        "onboard_time": 1768889059,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 499940,
+        "num": 244864,
+        "word": "这个月工资就是今年攒了多少钱",
+        "onboard_time": 1768884142,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233481,
+        "num": 233481,
+        "word": "冰湖重生",
+        "onboard_time": 1768876939,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226371,
+        "num": 226371,
+        "word": "李亚鹏公司前员工发声",
+        "onboard_time": 1768882641,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187304,
+        "num": 187304,
+        "word": "带1000去嫣然医院出院还剩990",
+        "onboard_time": 1768876159,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121671,
+        "num": 186972,
+        "word": "呼啸山庄定档",
+        "onboard_time": 1768888159,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1119095,
+        "num": 186531,
+        "word": "阿爆",
+        "onboard_time": 1768878139,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 205202,
+        "num": 185354,
+        "word": "胡兵 央视门口最好认的明星",
+        "onboard_time": 1768891101,
+        "rank": 11,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 244993,
+        "num": 184704,
+        "word": "呆呆说自己确实闯了个大祸",
+        "onboard_time": 1768886841,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118445,
+        "num": 184194,
+        "word": "包钢板材厂爆炸已确认9人死亡",
+        "onboard_time": 1768886122,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 672828,
+        "num": 183307,
+        "word": "阿爆回应",
+        "onboard_time": 1768884982,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 631787,
+        "num": 182317,
+        "word": "何聪睿戏扑甩锅女主",
+        "onboard_time": 1768888460,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244526,
+        "num": 181471,
+        "word": "第一批回老家的已被物价惊呆了",
+        "onboard_time": 1768880541,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 414262,
+        "num": 181322,
+        "word": "李亚鹏说嫣儿像王菲不像自己",
+        "onboard_time": 1768886360,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188972,
+        "num": 180190,
+        "word": "iPhone18Pro外观放弃药丸屏",
+        "onboard_time": 1768880302,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 50550,
+        "num": 179289,
+        "word": "女子转账近25万做医美几近失明",
+        "onboard_time": 1768891221,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382146,
+        "num": 178599,
+        "word": "赵樱子崩溃大哭",
+        "onboard_time": 1768887200,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325141,
+        "num": 178188,
+        "word": "牢A说不是有国籍就是中国人",
+        "onboard_time": 1768886841,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274119,
+        "num": 177421,
+        "word": "杨振华去世",
+        "onboard_time": 1768880001,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271929,
+        "num": 176424,
+        "word": "女网红在飞机上尖叫可能面临禁飞",
+        "onboard_time": 1768884321,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189487,
+        "num": 175660,
+        "word": "恋综最爽女主",
+        "onboard_time": 1768889660,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175546,
+        "num": 175546,
+        "word": "宋轶的裙子上有99朵玫瑰花",
+        "onboard_time": 1768889180,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158602,
+        "num": 170930,
+        "word": "小芒APP道歉",
+        "onboard_time": 1768887141,
+        "rank": 26,
+        "category": "互联网,作品衍生"
+      },
+      {
+        "raw_hot": 169899,
+        "num": 169899,
+        "word": "没有给有钱人提供情绪价值的义务",
+        "onboard_time": 1768884083,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 139745,
+        "num": 164724,
+        "word": "上海积雪有多罕见",
+        "onboard_time": 1768887500,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161396,
+        "num": 161396,
+        "word": "陈星旭王玉雯突然的喜欢定档",
+        "onboard_time": 1768891580,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300602,
+        "num": 161355,
+        "word": "阿爆私密账号",
+        "onboard_time": 1768879882,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 131064,
+        "num": 160569,
+        "word": "美媒印证了牢A的捐献器官说法",
+        "onboard_time": 1768883840,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 160193,
+        "num": 160193,
+        "word": "何聪睿 要赖也是先赖她们",
+        "onboard_time": 1768887620,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148653,
+        "num": 148653,
+        "word": "梁小龙死因公开",
+        "onboard_time": 1768882884,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28496,
+        "num": 131971,
+        "word": "有猪企卖542万头猪至少亏7亿",
+        "onboard_time": 1768891640,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122414,
+        "num": 122414,
+        "word": "宋祖儿 平常都是恶心穿搭",
+        "onboard_time": 1768891280,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108828,
+        "num": 108828,
+        "word": "00后女子天生只有10颗牙",
+        "onboard_time": 1768886241,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95199,
+        "num": 95199,
+        "word": "嫣然天使基金将陆续暂停筹款项目",
+        "onboard_time": 1768891340,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51208,
+        "num": 92000,
+        "word": "张凌赫 我担是我的补习老师",
+        "onboard_time": 1768891580,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121946,
+        "num": 91978,
+        "word": "陈乔恩躺地上给武大靖拍照",
+        "onboard_time": 1768890439,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91806,
+        "num": 91806,
+        "word": "存不到一个亿都对不起这个蛋",
+        "onboard_time": 1768885522,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232287,
+        "num": 91388,
+        "word": "王楚钦休息林诗栋连打三站",
+        "onboard_time": 1768888159,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11858,
+        "num": 89558,
+        "word": "嫣然天使基金回应何时开放捐赠",
+        "onboard_time": 1768891640,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89187,
+        "num": 89187,
+        "word": "牢A长得和头像一模一样啊",
+        "onboard_time": 1768885102,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88397,
+        "num": 88397,
+        "word": "经常视奸自己的朋友圈",
+        "onboard_time": 1768890141,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87615,
+        "num": 87615,
+        "word": "成毅穿西西域的衣服采访",
+        "onboard_time": 1768890260,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87834,
+        "num": 87333,
+        "word": "特朗普因诺贝尔奖破防威胁挪威",
+        "onboard_time": 1768889421,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71058,
+        "num": 87168,
+        "word": "王亚飞给马丽化的妆",
+        "onboard_time": 1768890381,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79602,
+        "num": 86861,
+        "word": "A股调整三大原因",
+        "onboard_time": 1768888520,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 65806,
+        "num": 86438,
+        "word": "巴特勒膝盖受伤痛苦倒地",
+        "onboard_time": 1768885522,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}
