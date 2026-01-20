@@ -1,6 +1,6 @@
 {
   "startTime": 1768840768064,
-  "endTime": 1768883524401,
+  "endTime": 1768885500577,
   "band_list": [
     {
       "raw_hot": 2679279,
@@ -123,11 +123,35 @@
       "category": "美食"
     },
     {
+      "raw_hot": 528091,
+      "num": 528091,
+      "word": "李亚鹏公司前员工发声",
+      "onboard_time": 1768882641,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 489018,
+      "num": 221165,
+      "word": "梁小龙死因公开",
+      "onboard_time": 1768882884,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 445818,
       "num": 848300,
       "word": "带1000去嫣然医院出院还剩990",
       "onboard_time": 1768876159,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 424992,
+      "num": 791180,
+      "word": "医生给1岁娃开小众药被AI提醒慎用",
+      "onboard_time": 1768884022,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -163,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 382353,
+      "num": 197149,
+      "word": "阿爆解除私密账号状态",
+      "onboard_time": 1768882941,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 376416,
       "num": 168810,
       "word": "曝iPhone18Pro外观",
@@ -177,6 +209,22 @@
       "onboard_time": 1768880302,
       "rank": 15,
       "category": "数码"
+    },
+    {
+      "raw_hot": 353441,
+      "num": 153953,
+      "word": "女网红在飞机上尖叫可能面临禁飞",
+      "onboard_time": 1768884321,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 346299,
+      "num": 196924,
+      "word": "没有给有钱人提供情绪价值的义务",
+      "onboard_time": 1768884083,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 343392,
@@ -201,6 +249,14 @@
       "onboard_time": 1768879401,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 342191,
+      "num": 342191,
+      "word": "冰湖重生",
+      "onboard_time": 1768876939,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 328885,
@@ -259,14 +315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278703,
-      "num": 278703,
-      "word": "冰湖重生",
-      "onboard_time": 1768876939,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 275924,
       "num": 275924,
       "word": "白鹿睡前听到了唐宫所有的OST",
@@ -323,14 +371,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 221165,
-      "num": 221165,
-      "word": "梁小龙死因公开",
-      "onboard_time": 1768882884,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 220916,
       "num": 559005,
       "word": "猫的树太会拍了",
@@ -339,12 +379,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218978,
-      "num": 218978,
-      "word": "李亚鹏公司前员工发声",
-      "onboard_time": 1768882641,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 216432,
+      "num": 194038,
+      "word": "美媒印证了牢A的捐献器官说法",
+      "onboard_time": 1768883840,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 214486,
@@ -353,6 +393,14 @@
       "onboard_time": 1768831943,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210603,
+      "num": 169353,
+      "word": "牢A长得和头像一模一样啊",
+      "onboard_time": 1768885102,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208367,
@@ -385,6 +433,14 @@
       "onboard_time": 1768882403,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203255,
+      "num": 203255,
+      "word": "第一批回老家的已被物价惊呆了",
+      "onboard_time": 1768880541,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 201431,
@@ -435,14 +491,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 187017,
-      "num": 187017,
-      "word": "阿爆解除私密账号状态",
-      "onboard_time": 1768882941,
-      "rank": 25,
-      "category": "网红"
-    },
-    {
       "raw_hot": 185575,
       "num": 158865,
       "word": "关晓彤第一次在红毯戴帽子",
@@ -475,6 +523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 174917,
+      "num": 174917,
+      "word": "阿爆回应",
+      "onboard_time": 1768884982,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 172962,
       "num": 172962,
       "word": "小贝长子曝母亲安插前女友破坏婚姻",
@@ -504,6 +560,14 @@
       "word": "杨紫第一次换角色头像",
       "onboard_time": 1768833561,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 162933,
+      "num": 162933,
+      "word": "李亚鹏前妻说特别为他开心",
+      "onboard_time": 1768883303,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -539,20 +603,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155386,
-      "num": 155386,
-      "word": "李亚鹏前妻说特别为他开心",
-      "onboard_time": 1768883303,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 157325,
+      "num": 157325,
+      "word": "重返未来1999",
+      "onboard_time": 1768884563,
+      "rank": 27,
+      "category": "游戏"
     },
     {
-      "raw_hot": 153244,
-      "num": 153244,
-      "word": "第一批回老家的已被物价惊呆了",
-      "onboard_time": 1768880541,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 156570,
+      "num": 156570,
+      "word": "早期王一博 内娱魔丸",
+      "onboard_time": 1768883482,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 152980,
@@ -587,6 +651,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 149431,
+      "num": 149431,
+      "word": "不发生活类朋友圈是一种自保",
+      "onboard_time": 1768884502,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147946,
       "num": 147946,
       "word": "白鹿严选的含金量还在上升",
@@ -601,6 +673,14 @@
       "onboard_time": 1768816102,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 142088,
+      "num": 131285,
+      "word": "陈乔恩在澳门改行干上灯光师了",
+      "onboard_time": 1768884861,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 140907,
@@ -641,6 +721,14 @@
       "onboard_time": 1768868901,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132725,
+      "num": 196214,
+      "word": "这个月工资就是今年攒了多少钱",
+      "onboard_time": 1768884142,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 130919,
@@ -747,12 +835,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 112947,
+      "num": 112947,
+      "word": "魏大勋最长的腿走最短的路",
+      "onboard_time": 1768883904,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112757,
       "num": 112757,
       "word": "官方通报菜商违规使用含毒农药",
       "onboard_time": 1768880421,
       "rank": 44,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 111786,
+      "num": 139524,
+      "word": "10月大婴儿误食鞭炮口腔炸伤",
+      "onboard_time": 1768883362,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110682,
@@ -811,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104949,
+      "num": 104949,
+      "word": "20寸的猫",
+      "onboard_time": 1768885160,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103718,
       "num": 103718,
       "word": "R星工作室发生爆炸",
@@ -835,12 +947,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 98757,
+      "num": 235149,
+      "word": "马丽真的代言了天猫年货节",
+      "onboard_time": 1768881623,
+      "rank": 14,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 98068,
       "num": 98068,
       "word": "官方回应4个月女婴泡药浴后离世",
       "onboard_time": 1768873700,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97606,
+      "num": 163628,
+      "word": "郑钦文找到了命中注定的代言",
+      "onboard_time": 1768885282,
+      "rank": 25,
+      "category": "体育,互联网"
     },
     {
       "raw_hot": 96716,
@@ -947,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80842,
+      "num": 121715,
+      "word": "汪苏泷HBN",
+      "onboard_time": 1768885401,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80110,
       "num": 80110,
       "word": "高一女生带手机被停课1个月后续",
@@ -979,14 +1115,6 @@
       "category": "财经,休闲"
     },
     {
-      "raw_hot": 78373,
-      "num": 139524,
-      "word": "10月大婴儿误食鞭炮口腔炸伤",
-      "onboard_time": 1768883362,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78137,
       "num": 78137,
       "word": "南方人过大寒离不开保暖三件套",
@@ -1001,14 +1129,6 @@
       "onboard_time": 1768823061,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 75818,
-      "num": 235149,
-      "word": "马丽真的代言了天猫年货节",
-      "onboard_time": 1768881623,
-      "rank": 14,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 75671,
@@ -1033,6 +1153,14 @@
       "onboard_time": 1768882403,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 75166,
+      "num": 119468,
+      "word": "虞书欣妈咪变学姐",
+      "onboard_time": 1768884681,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 72987,
@@ -1065,14 +1193,6 @@
       "onboard_time": 1768867821,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 68447,
-      "num": 140800,
-      "word": "早期王一博 内娱魔丸",
-      "onboard_time": 1768883482,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 67163,
@@ -1395,6 +1515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19066,
+      "num": 118960,
+      "word": "女子赶早班高铁到嫣然医院捐3000元",
+      "onboard_time": 1768884741,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18189,
       "num": 40170,
       "word": "你好星期六",
@@ -1433,6 +1561,14 @@
       "onboard_time": 1768823122,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 16137,
+      "num": 195229,
+      "word": "1元10元给想碰瓷患癌妈妈筹药费",
+      "onboard_time": 1768885223,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15897,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1768885500577,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 715692,
+        "num": 1114510,
+        "word": "儿子回应怒吼癌症妈妈碰瓷爆火",
+        "onboard_time": 1768875799,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424992,
+        "num": 791180,
+        "word": "医生给1岁娃开小众药被AI提醒慎用",
+        "onboard_time": 1768884022,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23460,
+        "num": 629853,
+        "word": "用大寒节气打开冬日中国之美",
+        "onboard_time": 1768878861,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 528091,
+        "num": 528091,
+        "word": "李亚鹏公司前员工发声",
+        "onboard_time": 1768882641,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 490287,
+        "num": 490287,
+        "word": "华伦天奴去世",
+        "onboard_time": 1768867459,
+        "rank": 4,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 370878,
+        "num": 370878,
+        "word": "带1000去嫣然医院出院还剩990",
+        "onboard_time": 1768876159,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342191,
+        "num": 342191,
+        "word": "冰湖重生",
+        "onboard_time": 1768876939,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305417,
+        "num": 305417,
+        "word": "林孝埈首次以中国国籍参加冬奥会",
+        "onboard_time": 1768879401,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215835,
+        "num": 215835,
+        "word": "光遇",
+        "onboard_time": 1768882341,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203255,
+        "num": 203255,
+        "word": "第一批回老家的已被物价惊呆了",
+        "onboard_time": 1768880541,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1884784,
+        "num": 203209,
+        "word": "阿爆",
+        "onboard_time": 1768878139,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 806741,
+        "num": 201726,
+        "word": "杨振华去世",
+        "onboard_time": 1768880001,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356137,
+        "num": 200814,
+        "word": "iPhone18Pro外观放弃药丸屏",
+        "onboard_time": 1768880302,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 489018,
+        "num": 200027,
+        "word": "梁小龙死因公开",
+        "onboard_time": 1768882884,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444204,
+        "num": 199367,
+        "word": "阿爆私密账号",
+        "onboard_time": 1768879882,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 235635,
+        "num": 198865,
+        "word": "贝克汉姆遭大儿子控诉",
+        "onboard_time": 1768868059,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382353,
+        "num": 197149,
+        "word": "阿爆解除私密账号状态",
+        "onboard_time": 1768882941,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 346299,
+        "num": 196924,
+        "word": "没有给有钱人提供情绪价值的义务",
+        "onboard_time": 1768884083,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 132725,
+        "num": 196214,
+        "word": "这个月工资就是今年攒了多少钱",
+        "onboard_time": 1768884142,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16137,
+        "num": 195229,
+        "word": "1元10元给想碰瓷患癌妈妈筹药费",
+        "onboard_time": 1768885223,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216432,
+        "num": 194038,
+        "word": "美媒印证了牢A的捐献器官说法",
+        "onboard_time": 1768883840,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 205494,
+        "num": 193570,
+        "word": "A股又突然跳水",
+        "onboard_time": 1768881922,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 192778,
+        "num": 192778,
+        "word": "霸总直了半辈子的腰上综艺弯了五次",
+        "onboard_time": 1768878980,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174917,
+        "num": 174917,
+        "word": "阿爆回应",
+        "onboard_time": 1768884982,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 210603,
+        "num": 169353,
+        "word": "牢A长得和头像一模一样啊",
+        "onboard_time": 1768885102,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97606,
+        "num": 163628,
+        "word": "郑钦文找到了命中注定的代言",
+        "onboard_time": 1768885282,
+        "rank": 25,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 162933,
+        "num": 162933,
+        "word": "李亚鹏前妻说特别为他开心",
+        "onboard_time": 1768883303,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157325,
+        "num": 157325,
+        "word": "重返未来1999",
+        "onboard_time": 1768884563,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128629,
+        "num": 156713,
+        "word": "高市早苗放话",
+        "onboard_time": 1768881682,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156570,
+        "num": 156570,
+        "word": "早期王一博 内娱魔丸",
+        "onboard_time": 1768883482,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353441,
+        "num": 153953,
+        "word": "女网红在飞机上尖叫可能面临禁飞",
+        "onboard_time": 1768884321,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149431,
+        "num": 149431,
+        "word": "不发生活类朋友圈是一种自保",
+        "onboard_time": 1768884502,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143842,
+        "num": 143842,
+        "word": "陈星旭王玉雯新剧吻疯丧胆",
+        "onboard_time": 1768879762,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131459,
+        "num": 131459,
+        "word": "上海下雪",
+        "onboard_time": 1768864638,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142088,
+        "num": 131285,
+        "word": "陈乔恩在澳门改行干上灯光师了",
+        "onboard_time": 1768884861,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80842,
+        "num": 121715,
+        "word": "汪苏泷HBN",
+        "onboard_time": 1768885401,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119944,
+        "num": 119944,
+        "word": "断桥看雪",
+        "onboard_time": 1768879822,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 128713,
+        "num": 119840,
+        "word": "唐宫奇案",
+        "onboard_time": 1768882403,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75166,
+        "num": 119468,
+        "word": "虞书欣妈咪变学姐",
+        "onboard_time": 1768884681,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19066,
+        "num": 118960,
+        "word": "女子赶早班高铁到嫣然医院捐3000元",
+        "onboard_time": 1768884741,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98757,
+        "num": 118447,
+        "word": "马丽真的代言了天猫年货节",
+        "onboard_time": 1768881623,
+        "rank": 40,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 120494,
+        "num": 117815,
+        "word": "卢昱晓代旭请二搭",
+        "onboard_time": 1768883242,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117734,
+        "num": 117734,
+        "word": "华伦天奴把家中城堡打造成中式宫殿",
+        "onboard_time": 1768882221,
+        "rank": 42,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 114171,
+        "num": 114171,
+        "word": "小贝长子曝母亲安插前女友破坏婚姻",
+        "onboard_time": 1768876519,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112947,
+        "num": 112947,
+        "word": "魏大勋最长的腿走最短的路",
+        "onboard_time": 1768883904,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111786,
+        "num": 111786,
+        "word": "10月大婴儿误食鞭炮口腔炸伤",
+        "onboard_time": 1768883362,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109794,
+        "num": 109794,
+        "word": "卢昱晓想认识赵今麦",
+        "onboard_time": 1768866979,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109717,
+        "num": 109717,
+        "word": "美宝莲官宣时代少年团",
+        "onboard_time": 1768881861,
+        "rank": 47,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 106024,
+        "num": 106024,
+        "word": "东北仙女教母下凡了",
+        "onboard_time": 1768877478,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104949,
+        "num": 104949,
+        "word": "20寸的猫",
+        "onboard_time": 1768885160,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平曾多次提起这个寓言#"
+    }
+  }
+}
