@@ -1,6 +1,6 @@
 {
   "startTime": 1768840768064,
-  "endTime": 1768923571173,
+  "endTime": 1768924539087,
   "band_list": [
     {
       "raw_hot": 2679279,
@@ -163,6 +163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 647596,
+      "num": 214466,
+      "word": "卢昱晓回应跪下和粉丝合照",
+      "onboard_time": 1768920922,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 642136,
       "num": 414147,
       "word": "警方通报中山一货车碰撞多车",
@@ -184,6 +192,14 @@
       "word": "知情人称贝克汉姆夫妇深受打击",
       "onboard_time": 1768916001,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 627538,
+      "num": 1100406,
+      "word": "U23国足vs越南",
+      "onboard_time": 1768922002,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -280,14 +296,6 @@
       "word": "梁小龙死因公开",
       "onboard_time": 1768882884,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 486944,
-      "num": 192552,
-      "word": "卢昱晓回应跪下和粉丝合照",
-      "onboard_time": 1768920922,
-      "rank": 41,
       "category": "艺人"
     },
     {
@@ -563,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 333739,
+      "num": 212879,
+      "word": "宋威龙张婧仪野狗骨头repo",
+      "onboard_time": 1768922600,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 328885,
       "num": 216496,
       "word": "卢昱晓想认识赵今麦",
@@ -577,14 +593,6 @@
       "onboard_time": 1768891340,
       "rank": 33,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 325716,
-      "num": 325716,
-      "word": "U23国足vs越南",
-      "onboard_time": 1768922002,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 325141,
@@ -627,20 +635,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 305205,
+      "num": 219067,
+      "word": "金价",
+      "onboard_time": 1768922180,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 300797,
       "num": 593314,
       "word": "下雪",
       "onboard_time": 1768824741,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 299909,
-      "num": 191934,
-      "word": "宋威龙张婧仪野狗骨头repo",
-      "onboard_time": 1768922600,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 295522,
@@ -915,6 +923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220112,
+      "num": 220112,
+      "word": "今天将是杭州最干净的一天",
+      "onboard_time": 1768920683,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218808,
       "num": 218808,
       "word": "特朗普称因未获诺奖不再考虑和平",
@@ -1083,14 +1099,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 195456,
-      "num": 195456,
-      "word": "金价",
-      "onboard_time": 1768922180,
-      "rank": 5,
-      "category": "财经"
-    },
-    {
       "raw_hot": 191636,
       "num": 110984,
       "word": "张奕然眼睛肿了一直在wink",
@@ -1132,7 +1140,7 @@
     },
     {
       "raw_hot": 184816,
-      "num": 195307,
+      "num": 215353,
       "word": "U23亚洲杯",
       "onboard_time": 1768919483,
       "rank": 24,
@@ -1427,14 +1435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151245,
-      "num": 194480,
-      "word": "今天将是杭州最干净的一天",
-      "onboard_time": 1768920683,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150548,
       "num": 150548,
       "word": "存不到一个亿都对不起这个蛋",
@@ -1705,6 +1705,14 @@
       "onboard_time": 1768881023,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 125145,
+      "num": 216203,
+      "word": "贝克汉姆父子决裂始末",
+      "onboard_time": 1768922002,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 125072,
@@ -2267,6 +2275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101046,
+      "num": 162095,
+      "word": "轧戏大结局亲了七次",
+      "onboard_time": 1768921280,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100555,
       "num": 95352,
       "word": "黄子华郑秀文这段拉扯感",
@@ -2401,14 +2417,6 @@
       "onboard_time": 1768920683,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 95852,
-      "num": 162095,
-      "word": "轧戏大结局亲了七次",
-      "onboard_time": 1768921280,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 95741,
@@ -2851,6 +2859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82489,
+      "num": 112772,
+      "word": "吉利银河V900全球上市26.98万起",
+      "onboard_time": 1768923560,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 82335,
       "num": 82335,
       "word": "南京一车主雪天把车开上墙",
@@ -3155,14 +3171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68822,
-      "num": 161479,
-      "word": "贝克汉姆父子决裂始末",
-      "onboard_time": 1768922002,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 68569,
       "num": 161202,
       "word": "快乐老友记你是真听劝",
@@ -3291,6 +3299,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 58941,
+      "num": 111757,
+      "word": "卢昱晓哭戏",
+      "onboard_time": 1768923800,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 58304,
       "num": 99220,
       "word": "澳网",
@@ -3315,6 +3331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56111,
+      "num": 111689,
+      "word": "骄阳似我心有林曦相拥",
+      "onboard_time": 1768923800,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 52448,
       "num": 99425,
       "word": "周杰伦在人群里一眼认出老粉",
@@ -3337,6 +3361,14 @@
       "onboard_time": 1768864516,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51705,
+      "num": 111565,
+      "word": "A股行情",
+      "onboard_time": 1768924461,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 51259,
@@ -3571,6 +3603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27445,
+      "num": 111734,
+      "word": "大量外国网友自称精神中国人",
+      "onboard_time": 1768924461,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27014,
       "num": 50796,
       "word": "拿板凳打人学生已被劝退",
@@ -3640,6 +3680,14 @@
       "word": "昭苏回应网友要求为贺娇龙立雕塑",
       "onboard_time": 1768901719,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21344,
+      "num": 111936,
+      "word": "女子疑因发现姑姑偷玉米被害案将宣判",
+      "onboard_time": 1768924339,
+      "rank": 32,
       "category": "民生新闻"
     },
     {

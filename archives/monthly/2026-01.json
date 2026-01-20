@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768923571173,
+  "endTime": 1768924539087,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -3107,6 +3107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 647596,
+      "num": 214466,
+      "word": "卢昱晓回应跪下和粉丝合照",
+      "onboard_time": 1768920922,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 647517,
       "num": 328423,
       "word": "张雪峰发博纪念做梦都不敢梦的一天",
@@ -3329,6 +3337,14 @@
       "onboard_time": 1768102640,
       "rank": 3,
       "category": "美食"
+    },
+    {
+      "raw_hot": 627538,
+      "num": 1100406,
+      "word": "U23国足vs越南",
+      "onboard_time": 1768922002,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 627325,
@@ -5648,14 +5664,6 @@
       "word": "向太回应前男友心梗去世",
       "onboard_time": 1767751040,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 486944,
-      "num": 192552,
-      "word": "卢昱晓回应跪下和粉丝合照",
-      "onboard_time": 1768920922,
-      "rank": 41,
       "category": "艺人"
     },
     {
@@ -10051,6 +10059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 333739,
+      "num": 212879,
+      "word": "宋威龙张婧仪野狗骨头repo",
+      "onboard_time": 1768922600,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 333610,
       "num": 993169,
       "word": "长河落日开播",
@@ -10376,14 +10392,6 @@
       "word": "国乒洛奥教练班子揭晓",
       "onboard_time": 1768207881,
       "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 325716,
-      "num": 325716,
-      "word": "U23国足vs越南",
-      "onboard_time": 1768922002,
-      "rank": 3,
       "category": "体育"
     },
     {
@@ -11568,14 +11576,6 @@
       "word": "聂曦光穿的是宋威龙的衣服",
       "onboard_time": 1767536062,
       "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 299909,
-      "num": 191934,
-      "word": "宋威龙张婧仪野狗骨头repo",
-      "onboard_time": 1768922600,
-      "rank": 12,
       "category": "剧集"
     },
     {
@@ -16195,6 +16195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220112,
+      "num": 220112,
+      "word": "今天将是杭州最干净的一天",
+      "onboard_time": 1768920683,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220103,
       "num": 220103,
       "word": "张翰已被冻结165万股权",
@@ -20404,7 +20412,7 @@
     },
     {
       "raw_hot": 184816,
-      "num": 195307,
+      "num": 215353,
       "word": "U23亚洲杯",
       "onboard_time": 1767885321,
       "rank": 41,
@@ -25561,14 +25569,6 @@
       "onboard_time": 1768538900,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 151245,
-      "num": 194480,
-      "word": "今天将是杭州最干净的一天",
-      "onboard_time": 1768920683,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151228,
@@ -32049,6 +32049,14 @@
       "onboard_time": 1768828522,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125145,
+      "num": 216203,
+      "word": "贝克汉姆父子决裂始末",
+      "onboard_time": 1768922002,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 125099,
@@ -41027,6 +41035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101046,
+      "num": 162095,
+      "word": "轧戏大结局亲了七次",
+      "onboard_time": 1768921280,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101038,
       "num": 101038,
       "word": "比浏览记录更劲爆的是计算器记录",
@@ -43705,14 +43721,6 @@
       "onboard_time": 1767603322,
       "rank": 47,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 95852,
-      "num": 162095,
-      "word": "轧戏大结局亲了七次",
-      "onboard_time": 1768921280,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 95841,
@@ -50699,6 +50707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82489,
+      "num": 112772,
+      "word": "吉利银河V900全球上市26.98万起",
+      "onboard_time": 1768923560,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 82429,
       "num": 739154,
       "word": "中国车企在欧洲卖爆了",
@@ -55683,14 +55699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68822,
-      "num": 161479,
-      "word": "贝克汉姆父子决裂始末",
-      "onboard_time": 1768922002,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 68756,
       "num": 925080,
       "word": "天宫与神州同框的中国式浪漫",
@@ -58227,6 +58235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 58941,
+      "num": 111757,
+      "word": "卢昱晓哭戏",
+      "onboard_time": 1768923800,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 58932,
       "num": 62573,
       "word": "檀健次连续5天营业",
@@ -58761,6 +58777,14 @@
       "onboard_time": 1767953420,
       "rank": 19,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 56111,
+      "num": 111689,
+      "word": "骄阳似我心有林曦相拥",
+      "onboard_time": 1768923800,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 56061,
@@ -64307,6 +64331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27445,
+      "num": 111734,
+      "word": "大量外国网友自称精神中国人",
+      "onboard_time": 1768924461,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27372,
       "num": 705015,
       "word": "2026开年图景",
@@ -65585,6 +65617,14 @@
       "onboard_time": 1768407259,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21344,
+      "num": 111936,
+      "word": "女子疑因发现姑姑偷玉米被害案将宣判",
+      "onboard_time": 1768924339,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21338,
