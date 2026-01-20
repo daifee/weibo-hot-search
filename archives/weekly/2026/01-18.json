@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768935162826,
+  "endTime": 1768938211846,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -9307,6 +9307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66769,
+      "num": 117484,
+      "word": "特朗普公开马克龙给他的私信",
+      "onboard_time": 1768930578,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 66672,
       "num": 66672,
       "word": "黄蜂vs勇士",
@@ -9465,14 +9473,6 @@
       "onboard_time": 1768785861,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 63849,
-      "num": 117484,
-      "word": "特朗普公开马克龙给他的私信",
-      "onboard_time": 1768930578,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 63803,
@@ -9729,6 +9729,14 @@
       "onboard_time": 1768754058,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 57191,
+      "num": 59103,
+      "word": "U23国足计划有变准备争冠",
+      "onboard_time": 1768932975,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 57053,
@@ -10179,14 +10187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42842,
-      "num": 42842,
-      "word": "U23国足计划有变准备争冠",
-      "onboard_time": 1768932975,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 42839,
       "num": 173081,
       "word": "圣坛组合2026年第二冠",
@@ -10467,6 +10467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30258,
+      "num": 30258,
+      "word": "U23国足决赛将对阵日本",
+      "onboard_time": 1768933095,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30137,
       "num": 33023,
       "word": "朱志鑫分享一下耳机里的歌",
@@ -10563,20 +10571,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 27035,
-      "num": 27035,
-      "word": "U23国足决赛将对阵日本",
-      "onboard_time": 1768933095,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 27014,
       "num": 50796,
       "word": "拿板凳打人学生已被劝退",
       "onboard_time": 1768854314,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26865,
+      "num": 26865,
+      "word": "中国足球队回应U23进决赛",
+      "onboard_time": 1768935194,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 26633,
