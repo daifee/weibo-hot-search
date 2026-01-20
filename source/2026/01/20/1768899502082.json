@@ -1,0 +1,410 @@
+{
+  "runTime": 1768899502082,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 711619,
+        "num": 1113859,
+        "word": "女子洗澡忘关水阀将小区变溜冰场",
+        "onboard_time": 1768892842,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455729,
+        "num": 828113,
+        "word": "中方收到美方加入和平委员会邀请",
+        "onboard_time": 1768897041,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50498,
+        "num": 631753,
+        "word": "中国载人航天首次应急行动",
+        "onboard_time": 1768898721,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 468890,
+        "num": 468890,
+        "word": "香港发生离奇夺命车祸",
+        "onboard_time": 1768893440,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248182,
+        "num": 248182,
+        "word": "4寸10元蛋糕店老板谈定价",
+        "onboard_time": 1768896081,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1854620,
+        "num": 240901,
+        "word": "与女友同房4天后死亡男子家属索赔",
+        "onboard_time": 1768895424,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260686,
+        "num": 236291,
+        "word": "这个月工资就是今年攒了多少钱",
+        "onboard_time": 1768884142,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230052,
+        "num": 230052,
+        "word": "华伦天奴去世",
+        "onboard_time": 1768867459,
+        "rank": 7,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 191131,
+        "num": 191131,
+        "word": "国家发改委推动优化节假日安排",
+        "onboard_time": 1768892541,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 175289,
+        "num": 175289,
+        "word": "穆祉丞王橹杰双人舞台播放量破千万",
+        "onboard_time": 1768899382,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 757470,
+        "num": 169655,
+        "word": "阿爆",
+        "onboard_time": 1768878139,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 339490,
+        "num": 168077,
+        "word": "贝克汉姆长子称婚礼是最屈辱的时刻",
+        "onboard_time": 1768893980,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234429,
+        "num": 167743,
+        "word": "怪不得长辈喜欢大方的孩子",
+        "onboard_time": 1768891340,
+        "rank": 12,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 162069,
+        "num": 162069,
+        "word": "杨振华去世",
+        "onboard_time": 1768880001,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221571,
+        "num": 156636,
+        "word": "阿爆回应",
+        "onboard_time": 1768884982,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 145909,
+        "num": 145909,
+        "word": "和平委员会",
+        "onboard_time": 1768897941,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158713,
+        "num": 145814,
+        "word": "张凌赫 我担是我的补习老师",
+        "onboard_time": 1768891580,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143949,
+        "num": 143949,
+        "word": "中方要求阿富汗惩治凶手",
+        "onboard_time": 1768898120,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 218660,
+        "num": 138441,
+        "word": "阿爆建了个大别墅",
+        "onboard_time": 1768891882,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 131047,
+        "num": 131047,
+        "word": "陈星旭王玉雯突然的喜欢定档",
+        "onboard_time": 1768891580,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276109,
+        "num": 129968,
+        "word": "哈佛女孩斥牢A说谎",
+        "onboard_time": 1768894941,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 402807,
+        "num": 128618,
+        "word": "20岁李嫣现状",
+        "onboard_time": 1768893980,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296507,
+        "num": 127176,
+        "word": "何聪睿戏扑甩锅女主",
+        "onboard_time": 1768888460,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256494,
+        "num": 125821,
+        "word": "人民币现金收付新规2月1日起施行",
+        "onboard_time": 1768895542,
+        "rank": 23,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 267251,
+        "num": 123593,
+        "word": "宋祖儿 平常都是恶心穿搭",
+        "onboard_time": 1768891280,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159004,
+        "num": 123291,
+        "word": "12岁女孩被虐致死案继母被执行死刑",
+        "onboard_time": 1768899382,
+        "rank": 25,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 121843,
+        "num": 121843,
+        "word": "巴特勒膝盖受伤痛苦倒地",
+        "onboard_time": 1768885522,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135840,
+        "num": 119782,
+        "word": "巨爱吃的周黑鸭得女",
+        "onboard_time": 1768895424,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 117722,
+        "num": 117722,
+        "word": "广东汕头通报恶狗撕咬女生",
+        "onboard_time": 1768895001,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114024,
+        "num": 114024,
+        "word": "薛之谦认真的雪当年有多火",
+        "onboard_time": 1768898721,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182737,
+        "num": 113294,
+        "word": "巴特勒前十字韧带撕裂",
+        "onboard_time": 1768899320,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111309,
+        "num": 111309,
+        "word": "牢A说不是有国籍就是中国人",
+        "onboard_time": 1768886841,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104763,
+        "num": 104763,
+        "word": "过年三件套",
+        "onboard_time": 1768898781,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97426,
+        "num": 104272,
+        "word": "儿子回应怒吼癌症妈妈碰瓷爆火",
+        "onboard_time": 1768875799,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104182,
+        "num": 104182,
+        "word": "李亚鹏说嫣儿像王菲不像自己",
+        "onboard_time": 1768886360,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101580,
+        "num": 101580,
+        "word": "小城大事不够看",
+        "onboard_time": 1768898542,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95918,
+        "num": 95918,
+        "word": "特朗普发登上格陵兰岛图",
+        "onboard_time": 1768898660,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100555,
+        "num": 95352,
+        "word": "黄子华郑秀文这段拉扯感",
+        "onboard_time": 1768898902,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81409,
+        "num": 94948,
+        "word": "怎么一下雪到处都是波司登",
+        "onboard_time": 1768896381,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 9592,
+        "num": 93717,
+        "word": "香港强制举报虐待儿童条例生效",
+        "onboard_time": 1768899081,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98114,
+        "num": 92954,
+        "word": "曝张译和敖子逸男流量玩剧本杀",
+        "onboard_time": 1768895901,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92616,
+        "num": 92616,
+        "word": "原小米高管王腾新公司获数千万元融资",
+        "onboard_time": 1768898362,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 92423,
+        "num": 92423,
+        "word": "TheShy恢复直播",
+        "onboard_time": 1768899320,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91727,
+        "num": 91727,
+        "word": "李亚鹏曾称没有王菲办不起嫣然医院",
+        "onboard_time": 1768895303,
+        "rank": 43,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 91142,
+        "num": 91142,
+        "word": "16岁的韩昊霖",
+        "onboard_time": 1768897761,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88517,
+        "num": 88517,
+        "word": "苏州一企业与嫣然医院达成合作意向",
+        "onboard_time": 1768893739,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88133,
+        "num": 88133,
+        "word": "黄子韬被刚起床的刘耀文帅到了",
+        "onboard_time": 1768898961,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87741,
+        "num": 87741,
+        "word": "唐宫奇案",
+        "onboard_time": 1768882403,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84327,
+        "num": 84327,
+        "word": "中方回应特朗普成立和平委员会",
+        "onboard_time": 1768898362,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85151,
+        "num": 84242,
+        "word": "车澈回应瘦了68斤",
+        "onboard_time": 1768893500,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#大寒节令送大爱#"
+    }
+  }
+}

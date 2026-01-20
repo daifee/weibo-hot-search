@@ -1,6 +1,6 @@
 {
   "startTime": 1768840768064,
-  "endTime": 1768898601131,
+  "endTime": 1768899502082,
   "band_list": [
     {
       "raw_hot": 2679279,
@@ -203,6 +203,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 455729,
+      "num": 828113,
+      "word": "中方收到美方加入和平委员会邀请",
+      "onboard_time": 1768897041,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 450914,
       "num": 178266,
       "word": "女网红在飞机上尖叫可能面临禁飞",
@@ -387,14 +395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 319661,
-      "num": 795658,
-      "word": "中方收到美方加入和平委员会邀请",
-      "onboard_time": 1768897041,
-      "rank": 1,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 308219,
       "num": 757717,
       "word": "羽生结弦亲吻冰面的最后一吻",
@@ -451,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 276109,
+      "num": 129968,
+      "word": "哈佛女孩斥牢A说谎",
+      "onboard_time": 1768894941,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 276056,
       "num": 276056,
       "word": "国家发改委推动优化节假日安排",
@@ -465,14 +473,6 @@
       "onboard_time": 1768875140,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 275538,
-      "num": 119474,
-      "word": "哈佛女孩斥牢A说谎",
-      "onboard_time": 1768894941,
-      "rank": 41,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 271879,
@@ -499,12 +499,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 256494,
+      "num": 125821,
+      "word": "人民币现金收付新规2月1日起施行",
+      "onboard_time": 1768895542,
+      "rank": 25,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 250941,
       "num": 250941,
       "word": "沈月 邵子恒是外国人吗",
       "onboard_time": 1768889059,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248182,
+      "num": 248182,
+      "word": "4寸10元蛋糕店老板谈定价",
+      "onboard_time": 1768896081,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247179,
@@ -521,14 +537,6 @@
       "onboard_time": 1768877478,
       "rank": 8,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 240637,
-      "num": 240637,
-      "word": "4寸10元蛋糕店老板谈定价",
-      "onboard_time": 1768896081,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 232287,
@@ -553,14 +561,6 @@
       "onboard_time": 1768875439,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 227658,
-      "num": 118879,
-      "word": "人民币现金收付新规2月1日起施行",
-      "onboard_time": 1768895542,
-      "rank": 25,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 227021,
@@ -731,6 +731,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 182737,
+      "num": 113294,
+      "word": "巴特勒前十字韧带撕裂",
+      "onboard_time": 1768899320,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180822,
       "num": 130972,
       "word": "包文婧回应女儿撞脸吴映洁",
@@ -761,6 +769,14 @@
       "onboard_time": 1768889180,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175289,
+      "num": 175289,
+      "word": "穆祉丞王橹杰双人舞台播放量破千万",
+      "onboard_time": 1768899382,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 172962,
@@ -857,6 +873,14 @@
       "onboard_time": 1768866798,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 159004,
+      "num": 123291,
+      "word": "12岁女孩被虐致死案继母被执行死刑",
+      "onboard_time": 1768899382,
+      "rank": 25,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 158443,
@@ -964,7 +988,7 @@
     },
     {
       "raw_hot": 148205,
-      "num": 118381,
+      "num": 119782,
       "word": "巨爱吃的周黑鸭得女",
       "onboard_time": 1768895424,
       "rank": 27,
@@ -987,12 +1011,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145852,
-      "num": 145852,
+      "raw_hot": 145909,
+      "num": 145909,
       "word": "和平委员会",
       "onboard_time": 1768897941,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 143949,
+      "num": 213123,
+      "word": "中方要求阿富汗惩治凶手",
+      "onboard_time": 1768898120,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 142468,
@@ -1251,6 +1283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114024,
+      "num": 114024,
+      "word": "薛之谦认真的雪当年有多火",
+      "onboard_time": 1768898721,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 113456,
       "num": 113456,
       "word": "年轻人有自己的财神爷",
@@ -1411,6 +1451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104763,
+      "num": 104763,
+      "word": "过年三件套",
+      "onboard_time": 1768898781,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103985,
       "num": 103985,
       "word": "幼师才知道这个孩子的含金量",
@@ -1443,12 +1491,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101580,
+      "num": 101580,
+      "word": "小城大事不够看",
+      "onboard_time": 1768898542,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101476,
       "num": 99234,
       "word": "曝张译和敖子逸男流量玩剧本杀",
       "onboard_time": 1768895901,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100555,
+      "num": 95352,
+      "word": "黄子华郑秀文这段拉扯感",
+      "onboard_time": 1768898902,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 100201,
@@ -1539,6 +1603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95918,
+      "num": 95918,
+      "word": "特朗普发登上格陵兰岛图",
+      "onboard_time": 1768898660,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 95741,
       "num": 130574,
       "word": "成都警方通报16岁男子殴打5人",
@@ -1579,12 +1651,28 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 92616,
+      "num": 92616,
+      "word": "原小米高管王腾新公司获数千万元融资",
+      "onboard_time": 1768898362,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 92564,
       "num": 92564,
       "word": "金正恩解除一名内阁副总理职务",
       "onboard_time": 1768871121,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 92423,
+      "num": 92423,
+      "word": "TheShy恢复直播",
+      "onboard_time": 1768899320,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 92383,
@@ -1619,6 +1707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91142,
+      "num": 91142,
+      "word": "16岁的韩昊霖",
+      "onboard_time": 1768897761,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 90548,
       "num": 138786,
       "word": "贺峻霖力证不是AI",
@@ -1635,12 +1731,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 88474,
-      "num": 88474,
-      "word": "原小米高管王腾新公司获数千万元融资",
-      "onboard_time": 1768898362,
-      "rank": 38,
-      "category": "互联网"
+      "raw_hot": 88133,
+      "num": 88133,
+      "word": "黄子韬被刚起床的刘耀文帅到了",
+      "onboard_time": 1768898961,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 87769,
@@ -1691,6 +1787,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 84327,
+      "num": 84327,
+      "word": "中方回应特朗普成立和平委员会",
+      "onboard_time": 1768898362,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 82867,
       "num": 94422,
       "word": "A股行情换挡后市如何布局",
@@ -1713,30 +1817,6 @@
       "onboard_time": 1768873578,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 82216,
-      "num": 81634,
-      "word": "小城大事不够看",
-      "onboard_time": 1768898542,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 82035,
-      "num": 80094,
-      "word": "16岁的韩昊霖",
-      "onboard_time": 1768897761,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 81800,
-      "num": 81800,
-      "word": "中方回应特朗普成立和平委员会",
-      "onboard_time": 1768898362,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 81033,
@@ -1841,14 +1921,6 @@
       "onboard_time": 1768884681,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 73138,
-      "num": 213123,
-      "word": "中方要求阿富汗惩治凶手",
-      "onboard_time": 1768898120,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 72987,
@@ -2033,6 +2105,14 @@
       "onboard_time": 1768836561,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 50498,
+      "num": 631753,
+      "word": "中国载人航天首次应急行动",
+      "onboard_time": 1768898721,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 50357,
@@ -2393,6 +2473,14 @@
       "onboard_time": 1768823541,
       "rank": 49,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 9592,
+      "num": 93717,
+      "word": "香港强制举报虐待儿童条例生效",
+      "onboard_time": 1768899081,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 6035,
