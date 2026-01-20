@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768906504211,
+  "endTime": 1768908673591,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -459,6 +459,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 672209,
+      "num": 1107553,
+      "word": "中国乒协确认国家队教练员名单",
+      "onboard_time": 1768901841,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 659782,
       "num": 268738,
       "word": "这个月工资就是今年攒了多少钱",
@@ -657,14 +665,6 @@
       "onboard_time": 1768839199,
       "rank": 7,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 567712,
-      "num": 1090834,
-      "word": "中国乒协确认国家队教练员名单",
-      "onboard_time": 1768901841,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 561269,
@@ -931,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 459240,
+      "num": 112360,
+      "word": "VOGUE发了王橹杰穆祉丞",
+      "onboard_time": 1768906702,
+      "rank": 20,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 459141,
       "num": 196924,
       "word": "没有给有钱人提供情绪价值的义务",
@@ -1169,6 +1177,14 @@
       "onboard_time": 1768901841,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 402017,
+      "num": 271149,
+      "word": "你以为的双胞胎vs实际上的双胞胎",
+      "onboard_time": 1768906761,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 400705,
@@ -1659,6 +1675,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 298800,
+      "num": 298800,
+      "word": "长生FMVP皮肤即将上线",
+      "onboard_time": 1768906581,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 297527,
       "num": 191762,
       "word": "彭小苒镂空连体衣辣成啥了",
@@ -2035,6 +2059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249374,
+      "num": 283731,
+      "word": "父亲去世留30万贷款女儿被判不用还",
+      "onboard_time": 1768902201,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 248182,
       "num": 248182,
       "word": "4寸10元蛋糕店老板谈定价",
@@ -2072,6 +2104,14 @@
       "word": "太平年",
       "onboard_time": 1768706059,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 243041,
+      "num": 168790,
+      "word": "就凭一张结婚证就对我呼来喝去",
+      "onboard_time": 1768906941,
+      "rank": 11,
       "category": "剧集"
     },
     {
@@ -2113,14 +2153,6 @@
       "onboard_time": 1768735162,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 236548,
-      "num": 283731,
-      "word": "父亲去世留30万贷款女儿被判不用还",
-      "onboard_time": 1768902201,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 236531,
@@ -2859,6 +2891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191636,
+      "num": 110984,
+      "word": "张奕然眼睛肿了一直在wink",
+      "onboard_time": 1768907661,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190883,
       "num": 125010,
       "word": "牛骏峰 以为是跨界结果是老本行",
@@ -3411,6 +3451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160993,
+      "num": 110727,
+      "word": "刘诗诗活动路透",
+      "onboard_time": 1768907601,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160866,
       "num": 160866,
       "word": "只有有洁癖的人才懂维嘉的含金量",
@@ -3659,6 +3707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150745,
+      "num": 150745,
+      "word": "女子遭强奸被杀2次望判凶手死刑",
+      "onboard_time": 1768907481,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150548,
       "num": 150548,
       "word": "存不到一个亿都对不起这个蛋",
@@ -3889,6 +3945,14 @@
       "onboard_time": 1768714040,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143384,
+      "num": 177301,
+      "word": "嫣然医院再回应捐款用途",
+      "onboard_time": 1768904240,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142936,
@@ -4467,6 +4531,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 126947,
+      "num": 99651,
+      "word": "时团不是时团的时候路人缘最好",
+      "onboard_time": 1768908081,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126841,
       "num": 126841,
       "word": "名侦探学院",
@@ -4747,14 +4819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 121073,
-      "num": 160432,
-      "word": "嫣然医院再回应捐款用途",
-      "onboard_time": 1768904240,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120935,
       "num": 133970,
       "word": "女子1年胖20斤牛仔裤全穿不上",
@@ -4913,6 +4977,14 @@
       "onboard_time": 1768777877,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117911,
+      "num": 117911,
+      "word": "选秀鼻祖李宇春来给内娱上课了",
+      "onboard_time": 1768904659,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 117863,
@@ -5075,14 +5147,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 115352,
-      "num": 115352,
-      "word": "选秀鼻祖李宇春来给内娱上课了",
-      "onboard_time": 1768904659,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 115211,
       "num": 115210,
       "word": "文旅局回应大地之子雕塑成公厕",
@@ -5209,6 +5273,14 @@
       "onboard_time": 1768880421,
       "rank": 44,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 112740,
+      "num": 112740,
+      "word": "遭强奸追杀妻子丈夫发声",
+      "onboard_time": 1768903401,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111862,
@@ -5873,6 +5945,14 @@
       "onboard_time": 1768745124,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102630,
+      "num": 102630,
+      "word": "AL战胜WBG",
+      "onboard_time": 1768908201,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 102609,
@@ -6723,6 +6803,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 91766,
+      "num": 91766,
+      "word": "王励勤回应洛奥教练名单",
+      "onboard_time": 1768908260,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91740,
       "num": 91740,
       "word": "LPR",
@@ -7003,6 +7091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88289,
+      "num": 88289,
+      "word": "小英哭诉被上拉如和小三欺负",
+      "onboard_time": 1768908623,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88133,
       "num": 88133,
       "word": "黄子韬被刚起床的刘耀文帅到了",
@@ -7041,6 +7137,14 @@
       "onboard_time": 1768836442,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87672,
+      "num": 87672,
+      "word": "快乐老友有风季",
+      "onboard_time": 1768908440,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 87635,
@@ -7137,6 +7241,14 @@
       "onboard_time": 1768695259,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 86853,
+      "num": 90189,
+      "word": "年缩力拉满的年货",
+      "onboard_time": 1768907541,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 86829,
@@ -7353,6 +7465,14 @@
       "onboard_time": 1768729161,
       "rank": 49,
       "category": "网红"
+    },
+    {
+      "raw_hot": 84637,
+      "num": 84637,
+      "word": "杨紫下个戏再演好就好了",
+      "onboard_time": 1768908024,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 84628,
@@ -9059,6 +9179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44915,
+      "num": 112498,
+      "word": "天女在漫天大雪中散花网友直呼心疼",
+      "onboard_time": 1768907780,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44735,
       "num": 44735,
       "word": "糖尿病前期的3个标准",
@@ -9144,6 +9272,14 @@
       "word": "小城大事高光全在男主身上",
       "onboard_time": 1768796662,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 39987,
+      "num": 92143,
+      "word": "赵今麦骄阳似我庆功宴视频",
+      "onboard_time": 1768908260,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -9249,6 +9385,14 @@
       "onboard_time": 1768693097,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 35918,
+      "num": 92815,
+      "word": "周杰伦在人群里一眼认出老粉",
+      "onboard_time": 1768908201,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 35243,
