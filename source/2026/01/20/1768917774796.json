@@ -1,0 +1,410 @@
+{
+  "runTime": 1768917774796,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 610500,
+        "num": 1097680,
+        "word": "轧戏大结局",
+        "onboard_time": 1768909941,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342984,
+        "num": 818569,
+        "word": "中国乒协确认国家队教练员名单",
+        "onboard_time": 1768901841,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37638,
+        "num": 768169,
+        "word": "还有不到30天过年",
+        "onboard_time": 1768913781,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332781,
+        "num": 749273,
+        "word": "代旭演技",
+        "onboard_time": 1768914562,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320212,
+        "num": 737836,
+        "word": "知情人称贝克汉姆夫妇深受打击",
+        "onboard_time": 1768916001,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 735780,
+        "num": 735780,
+        "word": "肯德基下乡",
+        "onboard_time": 1768913421,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 283293,
+        "num": 283293,
+        "word": "解放军演练斩首行动台独慌了",
+        "onboard_time": 1768912700,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 211427,
+        "num": 211427,
+        "word": "慕胥辞招商",
+        "onboard_time": 1768913181,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147128,
+        "num": 208299,
+        "word": "人类对牛奶的开发不足1%",
+        "onboard_time": 1768903700,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 140446,
+        "num": 207004,
+        "word": "BLG战胜IG",
+        "onboard_time": 1768914260,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 645926,
+        "num": 204194,
+        "word": "李亚鹏谈4000万欠款的真实原因",
+        "onboard_time": 1768912281,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 491253,
+        "num": 200013,
+        "word": "向涵之瘦下来好像钟楚曦",
+        "onboard_time": 1768912521,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369768,
+        "num": 196097,
+        "word": "女子洗澡忘关水阀将小区变溜冰场",
+        "onboard_time": 1768892842,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361539,
+        "num": 193464,
+        "word": "成龙第一次参加时装周的样子",
+        "onboard_time": 1768914741,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 217837,
+        "num": 189756,
+        "word": "肖战他瞅了我一眼",
+        "onboard_time": 1768913601,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188463,
+        "num": 188463,
+        "word": "女子遭强奸被杀2次望判凶手死刑",
+        "onboard_time": 1768907481,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214907,
+        "num": 188082,
+        "word": "何宣林回应",
+        "onboard_time": 1768916602,
+        "rank": 16,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 118866,
+        "num": 182725,
+        "word": "巴奴向嫣然医院捐赠100万",
+        "onboard_time": 1768913901,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51372,
+        "num": 177120,
+        "word": "Turbo5Max五年电池保",
+        "onboard_time": 1768912521,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 46713,
+        "num": 175927,
+        "word": "蹲蹲Jonathan迪奥冬季男装首秀",
+        "onboard_time": 1768916059,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 211994,
+        "num": 171159,
+        "word": "腾讯力挺陈星旭",
+        "onboard_time": 1768910603,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168764,
+        "num": 168764,
+        "word": "关晓彤造型师去哪儿进修了",
+        "onboard_time": 1768900461,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139248,
+        "num": 139248,
+        "word": "10月大男婴被母亲扎数百针",
+        "onboard_time": 1768916059,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154898,
+        "num": 137791,
+        "word": "小城大事收视第一",
+        "onboard_time": 1768913120,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131306,
+        "num": 131306,
+        "word": "VOGUE发了王橹杰穆祉丞",
+        "onboard_time": 1768906702,
+        "rank": 24,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 113965,
+        "num": 113965,
+        "word": "以为会长胖但巨减肥的习惯",
+        "onboard_time": 1768900040,
+        "rank": 25,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 121503,
+        "num": 113894,
+        "word": "张维伊的演技被低估了",
+        "onboard_time": 1768911981,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107646,
+        "num": 107646,
+        "word": "你觉得不好看其实超健康的特点",
+        "onboard_time": 1768912640,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98610,
+        "num": 98610,
+        "word": "初中生网购侵华日军信件初步鉴定为真",
+        "onboard_time": 1768916962,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94883,
+        "num": 97121,
+        "word": "停用手机号被他人启用登上了自己微信",
+        "onboard_time": 1768915461,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97016,
+        "num": 97016,
+        "word": "轧戏直播",
+        "onboard_time": 1768914562,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96524,
+        "num": 96524,
+        "word": "你以为的双胞胎vs实际上的双胞胎",
+        "onboard_time": 1768906761,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95335,
+        "num": 95335,
+        "word": "轧戏编剧",
+        "onboard_time": 1768917502,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91770,
+        "num": 91770,
+        "word": "王子奇权臣骨观音相",
+        "onboard_time": 1768917081,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91068,
+        "num": 91068,
+        "word": "嫣然医院将暂时谢绝到访参观",
+        "onboard_time": 1768917502,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89660,
+        "num": 89660,
+        "word": "王昭君灯塔水母主题皮肤",
+        "onboard_time": 1768908861,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90247,
+        "num": 88999,
+        "word": "女生回应张凌赫曾是补习老师",
+        "onboard_time": 1768910541,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88183,
+        "num": 88183,
+        "word": "U23日本1比0韩国U23",
+        "onboard_time": 1768917681,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85818,
+        "num": 85818,
+        "word": "12岁女孩被3人性侵陷入抑郁",
+        "onboard_time": 1768915282,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19542,
+        "num": 83786,
+        "word": "男子在未开发区域骑马被水冲走溺亡",
+        "onboard_time": 1768917380,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83239,
+        "num": 83239,
+        "word": "男子去菜地偷亿点儿葱主人怒报警",
+        "onboard_time": 1768916122,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81500,
+        "num": 81500,
+        "word": "U23亚洲杯日本vs韩国",
+        "onboard_time": 1768913240,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80850,
+        "num": 80850,
+        "word": "误食鞭炮婴儿食管里还有钉子",
+        "onboard_time": 1768915820,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80276,
+        "num": 80276,
+        "word": "陈哲远妈生颜霸",
+        "onboard_time": 1768912823,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78568,
+        "num": 78568,
+        "word": "爸爸让女儿宣传公司",
+        "onboard_time": 1768911021,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78111,
+        "num": 78111,
+        "word": "南京一车主雪天把车开上墙",
+        "onboard_time": 1768914381,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76468,
+        "num": 76468,
+        "word": "多家银行卫星近期集中上天",
+        "onboard_time": 1768917502,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72952,
+        "num": 76351,
+        "word": "裴轸爱到最后身后空无一物",
+        "onboard_time": 1768916423,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76307,
+        "num": 76307,
+        "word": "代旭红秀采访",
+        "onboard_time": 1768917261,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 74614,
+        "num": 74614,
+        "word": "红色在过年这块没有对手",
+        "onboard_time": 1768917622,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#十五五开局之年第一课#"
+    }
+  }
+}

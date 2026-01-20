@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/20 21:28:13
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/20 22:02:54
 </p>
 </blockquote>
 <p>
@@ -1845,6 +1845,12 @@ iPhone4回收价涨了60倍（热度：736598）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%E4%B8%8B%E4%B9%A1%23" target="weibo">
+肯德基下乡（热度：735780）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%95%99%E9%95%BF%E5%8F%91%E4%BA%86%23" target="weibo">
 全红婵留长发了（热度：734582）
 </a>
@@ -2543,12 +2549,6 @@ CSGO（热度：630992）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%98%B2%E7%AC%91%E5%90%8C%E4%BA%8B%E7%9A%84%E5%A5%96%E7%89%8C%E7%A0%B4%E7%BB%93%E6%9E%9C%E5%8F%91%E7%8E%B0%E6%98%AF%E7%BA%AF%E9%87%91%E7%9A%84%23" target="weibo">
 嘲笑同事的奖牌破结果发现是纯金的（热度：622883）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%E4%B8%8B%E4%B9%A1%23" target="weibo">
-肯德基下乡（热度：622762）
 </a>
 </li>
 
@@ -4179,6 +4179,12 @@ iPhone4需求激增近1000%（热度：506886）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E6%B6%B5%E4%B9%8B%E7%98%A6%E4%B8%8B%E6%9D%A5%E5%A5%BD%E5%83%8F%E9%92%9F%E6%A5%9A%E6%9B%A6%23" target="weibo">
+向涵之瘦下来好像钟楚曦（热度：491253）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%9D%E6%B8%A9%E6%9D%AF%E9%87%8C%E5%B8%A6%E6%96%B9%E4%BE%BF%E9%9D%A2%E4%B8%80%E5%B9%B4%E4%B9%B0%E6%88%BF%E4%BA%86%23" target="weibo">
 保温杯里带方便面一年买房了（热度：490924）
 </a>
@@ -5243,12 +5249,6 @@ sakee文言文（热度：438215）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AD%90%E5%81%A5%E6%99%92%E5%9B%9B%E5%B9%B4%E5%89%8D%E5%81%B6%E9%81%87%E5%88%98%E6%98%8A%E7%84%B6%E5%90%88%E5%BD%B1%23" target="weibo">
 董子健晒四年前偶遇刘昊然合影（热度：434822）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E6%B6%B5%E4%B9%8B%E7%98%A6%E4%B8%8B%E6%9D%A5%E5%A5%BD%E5%83%8F%E9%92%9F%E6%A5%9A%E6%9B%A6%23" target="weibo">
-向涵之瘦下来好像钟楚曦（热度：434776）
 </a>
 </li>
 

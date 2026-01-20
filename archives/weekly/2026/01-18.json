@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768915693277,
+  "endTime": 1768917774796,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -379,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 735780,
+      "num": 735780,
+      "word": "肯德基下乡",
+      "onboard_time": 1768913421,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 726695,
       "num": 774515,
       "word": "高市早苗将于1月23日解散众议院",
@@ -579,14 +587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 622762,
-      "num": 235010,
-      "word": "肯德基下乡",
-      "onboard_time": 1768913421,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 621333,
       "num": 70483,
       "word": "iPhone18Pro渲染视频曝光",
@@ -636,7 +636,7 @@
     },
     {
       "raw_hot": 589132,
-      "num": 163830,
+      "num": 168764,
       "word": "关晓彤造型师去哪儿进修了",
       "onboard_time": 1768900461,
       "rank": 21,
@@ -851,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 491253,
+      "num": 200013,
+      "word": "向涵之瘦下来好像钟楚曦",
+      "onboard_time": 1768912521,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 489018,
       "num": 221165,
       "word": "梁小龙死因公开",
@@ -1057,14 +1065,6 @@
       "onboard_time": 1768651641,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 434776,
-      "num": 166610,
-      "word": "向涵之瘦下来好像钟楚曦",
-      "onboard_time": 1768912521,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 430701,
@@ -1435,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 361539,
+      "num": 193464,
+      "word": "成龙第一次参加时装周的样子",
+      "onboard_time": 1768914741,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 357587,
       "num": 193962,
       "word": "网传歌手2026首发已确定",
@@ -1579,6 +1587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 332781,
+      "num": 749273,
+      "word": "代旭演技",
+      "onboard_time": 1768871001,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 332083,
       "num": 237476,
       "word": "颐和园感觉有一亿人",
@@ -1633,6 +1649,14 @@
       "onboard_time": 1768697540,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 320212,
+      "num": 737836,
+      "word": "知情人称贝克汉姆夫妇深受打击",
+      "onboard_time": 1768916001,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 319254,
@@ -1841,6 +1865,14 @@
       "onboard_time": 1768794741,
       "rank": 6,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 283293,
+      "num": 283293,
+      "word": "解放军演练斩首行动台独慌了",
+      "onboard_time": 1768912700,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 281502,
@@ -2163,14 +2195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 242767,
-      "num": 242767,
-      "word": "解放军演练斩首行动台独慌了",
-      "onboard_time": 1768912700,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 242143,
       "num": 242143,
       "word": "骄阳似我庆功宴合照",
@@ -2204,7 +2228,7 @@
     },
     {
       "raw_hot": 239464,
-      "num": 165822,
+      "num": 189756,
       "word": "肖战他瞅了我一眼",
       "onboard_time": 1768913601,
       "rank": 13,
@@ -2356,7 +2380,7 @@
     },
     {
       "raw_hot": 226829,
-      "num": 165346,
+      "num": 188463,
       "word": "女子遭强奸被杀2次望判凶手死刑",
       "onboard_time": 1768907481,
       "rank": 13,
@@ -2523,6 +2547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214907,
+      "num": 188082,
+      "word": "何宣林回应",
+      "onboard_time": 1768916602,
+      "rank": 16,
+      "category": "艺人,剧集"
+    },
+    {
       "raw_hot": 214222,
       "num": 126737,
       "word": "李亚鹏曾称没有王菲办不起嫣然医院",
@@ -2601,6 +2633,14 @@
       "onboard_time": 1768740141,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211427,
+      "num": 211427,
+      "word": "慕胥辞招商",
+      "onboard_time": 1768913181,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 211350,
@@ -2889,22 +2929,6 @@
       "onboard_time": 1768733482,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196264,
-      "num": 164998,
-      "word": "慕胥辞招商",
-      "onboard_time": 1768913181,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 196001,
-      "num": 168196,
-      "word": "代旭演技",
-      "onboard_time": 1768871001,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 195463,
@@ -3284,7 +3308,7 @@
     },
     {
       "raw_hot": 174114,
-      "num": 174114,
+      "num": 207004,
       "word": "BLG战胜IG",
       "onboard_time": 1768914260,
       "rank": 46,
@@ -4027,14 +4051,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 145090,
-      "num": 145090,
-      "word": "成龙第一次参加时装周的样子",
-      "onboard_time": 1768914741,
-      "rank": 23,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 144903,
       "num": 144903,
       "word": "2025年GDP超140万亿元",
@@ -4272,6 +4288,14 @@
       "word": "台湾新北市发生双尸案",
       "onboard_time": 1768796122,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139248,
+      "num": 139248,
+      "word": "10月大男婴被母亲扎数百针",
+      "onboard_time": 1768916059,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -5099,6 +5123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118866,
+      "num": 182725,
+      "word": "巴奴向嫣然医院捐赠100万",
+      "onboard_time": 1768913901,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118769,
       "num": 118769,
       "word": "深圳一地铁口被电鸡堵得走不动",
@@ -5337,14 +5369,6 @@
       "onboard_time": 1768887800,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 115280,
-      "num": 155324,
-      "word": "巴奴向嫣然医院捐赠100万",
-      "onboard_time": 1768913901,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115211,
@@ -5763,6 +5787,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 107646,
+      "num": 107646,
+      "word": "你觉得不好看其实超健康的特点",
+      "onboard_time": 1768912640,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107596,
       "num": 129970,
       "word": "勇士 巴特勒",
@@ -5841,14 +5873,6 @@
       "onboard_time": 1768894281,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106693,
-      "num": 106693,
-      "word": "你觉得不好看其实超健康的特点",
-      "onboard_time": 1768912640,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 106639,
@@ -6427,6 +6451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98610,
+      "num": 98610,
+      "word": "初中生网购侵华日军信件初步鉴定为真",
+      "onboard_time": 1768916962,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98601,
       "num": 98601,
       "word": "宋威龙下雪了",
@@ -6667,6 +6699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95335,
+      "num": 95335,
+      "word": "轧戏编剧",
+      "onboard_time": 1768917502,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95329,
       "num": 95329,
       "word": "李亚鹏解释为什么不能立刻搬走",
@@ -6721,6 +6761,14 @@
       "onboard_time": 1768714460,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 94883,
+      "num": 97121,
+      "word": "停用手机号被他人启用登上了自己微信",
+      "onboard_time": 1768915461,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94830,
@@ -7043,6 +7091,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 91770,
+      "num": 91770,
+      "word": "王子奇权臣骨观音相",
+      "onboard_time": 1768917081,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91766,
       "num": 91766,
       "word": "王励勤回应洛奥教练名单",
@@ -7105,6 +7161,14 @@
       "onboard_time": 1768902562,
       "rank": 36,
       "category": "海外新闻,互联网"
+    },
+    {
+      "raw_hot": 91068,
+      "num": 91068,
+      "word": "嫣然医院将暂时谢绝到访参观",
+      "onboard_time": 1768917502,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91030,
@@ -7337,6 +7401,14 @@
       "onboard_time": 1768703839,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88183,
+      "num": 88183,
+      "word": "U23日本1比0韩国U23",
+      "onboard_time": 1768917681,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 88133,
@@ -7611,6 +7683,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 85818,
+      "num": 85818,
+      "word": "12岁女孩被3人性侵陷入抑郁",
+      "onboard_time": 1768915282,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85766,
       "num": 85766,
       "word": "开拓者战胜湖人",
@@ -7859,6 +7939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83239,
+      "num": 83239,
+      "word": "男子去菜地偷亿点儿葱主人怒报警",
+      "onboard_time": 1768916122,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82976,
       "num": 98719,
       "word": "特朗普来了也得拍这套",
@@ -8011,6 +8099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80850,
+      "num": 80850,
+      "word": "误食鞭炮婴儿食管里还有钉子",
+      "onboard_time": 1768915820,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80811,
       "num": 80811,
       "word": "恨海情天的鼻祖她来了",
@@ -8121,14 +8217,6 @@
       "onboard_time": 1768893980,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 79394,
-      "num": 79394,
-      "word": "12岁女孩被3人性侵陷入抑郁",
-      "onboard_time": 1768915282,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79376,
@@ -8323,6 +8411,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 76468,
+      "num": 76468,
+      "word": "多家银行卫星近期集中上天",
+      "onboard_time": 1768917502,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76378,
       "num": 98672,
       "word": "曝iPhone18Pro将首发5G卫星通信",
@@ -8345,6 +8441,14 @@
       "onboard_time": 1768787958,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76307,
+      "num": 76307,
+      "word": "代旭红秀采访",
+      "onboard_time": 1768917261,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 76223,
@@ -8483,6 +8587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 74614,
+      "num": 74614,
+      "word": "红色在过年这块没有对手",
+      "onboard_time": 1768917622,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 74051,
       "num": 215782,
       "word": "陈星旭 晚安某只装睡的兔子",
@@ -8537,6 +8649,14 @@
       "onboard_time": 1768874239,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72952,
+      "num": 76351,
+      "word": "裴轸爱到最后身后空无一物",
+      "onboard_time": 1768916423,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 72772,
@@ -8688,14 +8808,6 @@
       "word": "北京下雪萌兰变身糖霜小熊",
       "onboard_time": 1768721900,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 70291,
-      "num": 70291,
-      "word": "停用手机号被他人启用登上了自己微信",
-      "onboard_time": 1768915461,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -8932,7 +9044,7 @@
     },
     {
       "raw_hot": 64762,
-      "num": 154467,
+      "num": 177120,
       "word": "Turbo5Max五年电池保",
       "onboard_time": 1768912521,
       "rank": 19,
@@ -9531,6 +9643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46713,
+      "num": 175927,
+      "word": "蹲蹲Jonathan迪奥冬季男装首秀",
+      "onboard_time": 1768916059,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 45796,
       "num": 91103,
       "word": "电影马腾你别走",
@@ -9715,6 +9835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37638,
+      "num": 768169,
+      "word": "还有不到30天过年",
+      "onboard_time": 1768913781,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36980,
       "num": 67467,
       "word": "王俊凯说看安德烈很感动",
@@ -9800,14 +9928,6 @@
       "word": "嫣然医院护理师发声",
       "onboard_time": 1768882161,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32679,
-      "num": 661521,
-      "word": "还有不到30天过年",
-      "onboard_time": 1768913781,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -10177,6 +10297,14 @@
       "onboard_time": 1768909460,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19542,
+      "num": 83786,
+      "word": "男子在未开发区域骑马被水冲走溺亡",
+      "onboard_time": 1768917380,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19498,

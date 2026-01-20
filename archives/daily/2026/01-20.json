@@ -1,6 +1,6 @@
 {
   "startTime": 1768840768064,
-  "endTime": 1768915693277,
+  "endTime": 1768917774796,
   "band_list": [
     {
       "raw_hot": 2679279,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 735780,
+      "num": 735780,
+      "word": "肯德基下乡",
+      "onboard_time": 1768913421,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 683201,
       "num": 184276,
       "word": "何聪睿戏扑甩锅女主",
@@ -163,16 +171,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 622762,
-      "num": 235010,
-      "word": "肯德基下乡",
-      "onboard_time": 1768913421,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 589132,
-      "num": 163830,
+      "num": 168764,
       "word": "关晓彤造型师去哪儿进修了",
       "onboard_time": 1768900461,
       "rank": 21,
@@ -232,6 +232,14 @@
       "word": "李亚鹏说嫣儿像王菲不像自己",
       "onboard_time": 1768886360,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 491253,
+      "num": 200013,
+      "word": "向涵之瘦下来好像钟楚曦",
+      "onboard_time": 1768912521,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -297,14 +305,6 @@
       "onboard_time": 1768876159,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 434776,
-      "num": 166610,
-      "word": "向涵之瘦下来好像钟楚曦",
-      "onboard_time": 1768912521,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 429628,
@@ -459,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 361539,
+      "num": 193464,
+      "word": "成龙第一次参加时装周的样子",
+      "onboard_time": 1768914741,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 353862,
       "num": 212890,
       "word": "贝克汉姆长子称婚礼是最屈辱的时刻",
@@ -507,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 332781,
+      "num": 749273,
+      "word": "代旭演技",
+      "onboard_time": 1768871001,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 328885,
       "num": 216496,
       "word": "卢昱晓想认识赵今麦",
@@ -529,6 +545,14 @@
       "onboard_time": 1768886841,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 320212,
+      "num": 737836,
+      "word": "知情人称贝克汉姆夫妇深受打击",
+      "onboard_time": 1768916001,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 313957,
@@ -601,6 +625,14 @@
       "onboard_time": 1768871660,
       "rank": 16,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 283293,
+      "num": 283293,
+      "word": "解放军演练斩首行动台独慌了",
+      "onboard_time": 1768912700,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 281502,
@@ -723,16 +755,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 242767,
-      "num": 242767,
-      "word": "解放军演练斩首行动台独慌了",
-      "onboard_time": 1768912700,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 239464,
-      "num": 165822,
+      "num": 189756,
       "word": "肖战他瞅了我一眼",
       "onboard_time": 1768913601,
       "rank": 13,
@@ -780,7 +804,7 @@
     },
     {
       "raw_hot": 226829,
-      "num": 165346,
+      "num": 188463,
       "word": "女子遭强奸被杀2次望判凶手死刑",
       "onboard_time": 1768907481,
       "rank": 13,
@@ -835,6 +859,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 214907,
+      "num": 188082,
+      "word": "何宣林回应",
+      "onboard_time": 1768916602,
+      "rank": 16,
+      "category": "艺人,剧集"
+    },
+    {
       "raw_hot": 214486,
       "num": 411860,
       "word": "蔡徐坤印尼节目",
@@ -857,6 +889,14 @@
       "onboard_time": 1768908623,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211427,
+      "num": 211427,
+      "word": "慕胥辞招商",
+      "onboard_time": 1768913181,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 208367,
@@ -955,22 +995,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 196264,
-      "num": 164998,
-      "word": "慕胥辞招商",
-      "onboard_time": 1768913181,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 196001,
-      "num": 168196,
-      "word": "代旭演技",
-      "onboard_time": 1768871001,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195463,
       "num": 172677,
       "word": "阿爆哭诉自己孤独",
@@ -1060,7 +1084,7 @@
     },
     {
       "raw_hot": 174114,
-      "num": 174114,
+      "num": 207004,
       "word": "BLG战胜IG",
       "onboard_time": 1768914260,
       "rank": 46,
@@ -1363,14 +1387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145090,
-      "num": 145090,
-      "word": "成龙第一次参加时装周的样子",
-      "onboard_time": 1768914741,
-      "rank": 23,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 144562,
       "num": 140326,
       "word": "杨洋的面部折叠度令人惊叹",
@@ -1449,6 +1465,14 @@
       "onboard_time": 1768904601,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 139248,
+      "num": 139248,
+      "word": "10月大男婴被母亲扎数百针",
+      "onboard_time": 1768916059,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138625,
@@ -1667,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118866,
+      "num": 182725,
+      "word": "巴奴向嫣然医院捐赠100万",
+      "onboard_time": 1768913901,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118309,
       "num": 179289,
       "word": "女子转账近25万做医美几近失明",
@@ -1721,14 +1753,6 @@
       "onboard_time": 1768887800,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 115280,
-      "num": 155324,
-      "word": "巴奴向嫣然医院捐赠100万",
-      "onboard_time": 1768913901,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115211,
@@ -1891,6 +1915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107646,
+      "num": 107646,
+      "word": "你觉得不好看其实超健康的特点",
+      "onboard_time": 1768912640,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107596,
       "num": 129970,
       "word": "勇士 巴特勒",
@@ -1921,14 +1953,6 @@
       "onboard_time": 1768894281,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106693,
-      "num": 106693,
-      "word": "你觉得不好看其实超健康的特点",
-      "onboard_time": 1768912640,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 106585,
@@ -2139,6 +2163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98610,
+      "num": 98610,
+      "word": "初中生网购侵华日军信件初步鉴定为真",
+      "onboard_time": 1768916962,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98510,
       "num": 98510,
       "word": "嫣然天使基金回应项目预算已筹满",
@@ -2203,6 +2235,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 95335,
+      "num": 95335,
+      "word": "轧戏编剧",
+      "onboard_time": 1768917502,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95249,
       "num": 651841,
       "word": "中国载人航天首次应急行动",
@@ -2216,6 +2256,14 @@
       "word": "嫣然天使基金将陆续暂停筹款项目",
       "onboard_time": 1768891340,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94883,
+      "num": 97121,
+      "word": "停用手机号被他人启用登上了自己微信",
+      "onboard_time": 1768915461,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -2299,6 +2347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91770,
+      "num": 91770,
+      "word": "王子奇权臣骨观音相",
+      "onboard_time": 1768917081,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91766,
       "num": 91766,
       "word": "王励勤回应洛奥教练名单",
@@ -2355,6 +2411,14 @@
       "category": "海外新闻,互联网"
     },
     {
+      "raw_hot": 91068,
+      "num": 91068,
+      "word": "嫣然医院将暂时谢绝到访参观",
+      "onboard_time": 1768917502,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90878,
       "num": 90878,
       "word": "一种很新的解说方式",
@@ -2393,6 +2457,14 @@
       "onboard_time": 1768902081,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 88183,
+      "num": 88183,
+      "word": "U23日本1比0韩国U23",
+      "onboard_time": 1768917681,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 88133,
@@ -2467,6 +2539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85818,
+      "num": 85818,
+      "word": "12岁女孩被3人性侵陷入抑郁",
+      "onboard_time": 1768915282,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85647,
       "num": 85647,
       "word": "恋与深空空运中国coser去日本",
@@ -2531,6 +2611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 83239,
+      "num": 83239,
+      "word": "男子去菜地偷亿点儿葱主人怒报警",
+      "onboard_time": 1768916122,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82867,
       "num": 94422,
       "word": "A股行情换挡后市如何布局",
@@ -2571,6 +2659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80850,
+      "num": 80850,
+      "word": "误食鞭炮婴儿食管里还有钉子",
+      "onboard_time": 1768915820,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80811,
       "num": 80811,
       "word": "恨海情天的鼻祖她来了",
@@ -2609,14 +2705,6 @@
       "onboard_time": 1768893980,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 79394,
-      "num": 79394,
-      "word": "12岁女孩被3人性侵陷入抑郁",
-      "onboard_time": 1768915282,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79367,
@@ -2675,6 +2763,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 76468,
+      "num": 76468,
+      "word": "多家银行卫星近期集中上天",
+      "onboard_time": 1768917502,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76307,
+      "num": 76307,
+      "word": "代旭红秀采访",
+      "onboard_time": 1768917261,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 76223,
       "num": 76223,
       "word": "黄金白银再暴涨原因",
@@ -2731,12 +2835,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74614,
+      "num": 74614,
+      "word": "红色在过年这块没有对手",
+      "onboard_time": 1768917622,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72987,
       "num": 72987,
       "word": "愿大寒安康",
       "onboard_time": 1768874239,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72952,
+      "num": 76351,
+      "word": "裴轸爱到最后身后空无一物",
+      "onboard_time": 1768916423,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 71544,
@@ -2777,14 +2897,6 @@
       "onboard_time": 1768828342,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 70291,
-      "num": 70291,
-      "word": "停用手机号被他人启用登上了自己微信",
-      "onboard_time": 1768915461,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70077,
@@ -2852,7 +2964,7 @@
     },
     {
       "raw_hot": 64762,
-      "num": 154467,
+      "num": 177120,
       "word": "Turbo5Max五年电池保",
       "onboard_time": 1768912521,
       "rank": 19,
@@ -3035,6 +3147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46713,
+      "num": 175927,
+      "word": "蹲蹲Jonathan迪奥冬季男装首秀",
+      "onboard_time": 1768916059,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 44915,
       "num": 112498,
       "word": "天女在漫天大雪中散花网友直呼心疼",
@@ -3099,6 +3219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37638,
+      "num": 768169,
+      "word": "还有不到30天过年",
+      "onboard_time": 1768913781,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34480,
       "num": 127711,
       "word": "侯明昊你要当清冷佛子吗",
@@ -3112,14 +3240,6 @@
       "word": "嫣然医院护理师发声",
       "onboard_time": 1768882161,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32679,
-      "num": 661521,
-      "word": "还有不到30天过年",
-      "onboard_time": 1768913781,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -3297,6 +3417,14 @@
       "onboard_time": 1768909460,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19542,
+      "num": 83786,
+      "word": "男子在未开发区域骑马被水冲走溺亡",
+      "onboard_time": 1768917380,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19141,
