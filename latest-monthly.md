@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/20 18:38:07
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/20 18:55:04
 </p>
 </blockquote>
 <p>
@@ -1163,6 +1163,12 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%BA%E7%A5%A8%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4%23" target="weibo">
 机票价格大跳水（热度：915244）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%BC%E5%A4%9A%E5%A4%9A%20%E8%81%8A%E5%A4%A9%E5%85%B3%E9%97%AD%23" target="weibo">
+拼多多 聊天关闭（热度：912684）
 </a>
 </li>
 
@@ -4419,6 +4425,12 @@ B站崩了（热度：480074）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%B2%E5%BC%9F%E5%BC%9F%E5%BC%BA%E5%A5%B8%E8%BF%BD%E6%9D%80%E5%A6%BB%E5%AD%90%E4%B8%88%E5%A4%AB%E5%8F%91%E5%A3%B0%23" target="weibo">
+亲弟弟强奸追杀妻子丈夫发声（热度：476452）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E7%AD%B1%E6%A2%85%E6%8C%BA%E5%AD%95%E8%82%9A%E6%8C%91%E7%A4%BC%E6%9C%8D%23" target="weibo">
 马筱梅挺孕肚挑礼服（热度：476228）
 </a>
@@ -5973,12 +5985,6 @@ ALin哭着说对不起（热度：400438）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%BC%E5%A4%9A%E5%A4%9A%20%E8%81%8A%E5%A4%A9%E5%85%B3%E9%97%AD%23" target="weibo">
-拼多多 聊天关闭（热度：395356）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%81%B7%E5%A4%96%E5%8D%96%E8%A2%AB%E6%8B%98%E9%80%9A%E6%8A%A5%E5%85%AC%E7%A4%BA%E5%A4%96%E5%8D%96%E6%9E%B6%E8%BE%B9%23" target="weibo">
 大学生偷外卖被拘通报公示外卖架边（热度：395069）
 </a>
@@ -6005,12 +6011,6 @@ loveissoap说童锦程配不上她（热度：394705）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E6%97%8F%E9%95%BF%E8%B5%90%E8%B5%9E%23" target="weibo">
 王俊凯 族长赐赞（热度：393843）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%237800%E5%85%83%E5%A7%8B%E7%A5%96%E9%B8%9F%E9%99%90%E5%AE%9A%E6%AC%BE%E4%BA%8C%E6%89%8B%E9%81%87%E5%86%B7%23" target="weibo">
-7800元始祖鸟限定款二手遇冷（热度：393141）
 </a>
 </li>
 

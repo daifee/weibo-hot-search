@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/20 18:38:07
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/20 18:55:04
 </p>
 </blockquote>
 <p>
@@ -1167,6 +1167,12 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%BC%E5%A4%9A%E5%A4%9A%20%E8%81%8A%E5%A4%A9%E5%85%B3%E9%97%AD%23" target="weibo">
+拼多多 聊天关闭（热度：912684）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%9C%84%E9%9B%B2%E8%A6%81%E4%B8%BE%E6%8A%A5%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%E8%8A%82%E7%9B%AE%E7%BB%84%23" target="weibo">
 黄霄雲要举报声生不息节目组（热度：912516）
 </a>
@@ -1805,12 +1811,6 @@ iPhone18Pro新爆料（热度：826962）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%A7%E5%90%8E55%E5%A4%A9%E9%81%AD%E4%B8%88%E5%A4%AB%E5%AE%B6%E6%9A%B4%E5%A5%B3%E5%AD%90%E5%8F%91%E5%A3%B0%23" target="weibo">
 产后55天遭丈夫家暴女子发声（热度：741527）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%89%AF%E6%80%BB%E7%BB%9F%E4%B8%87%E6%96%AF%E4%BD%8F%E6%89%80%E9%81%AD%E8%A2%AD%E5%87%BB%23" target="weibo">
-美国副总统万斯住所遭袭击（热度：741250）
 </a>
 </li>
 

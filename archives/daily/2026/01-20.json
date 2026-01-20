@@ -1,6 +1,6 @@
 {
   "startTime": 1768840768064,
-  "endTime": 1768905487257,
+  "endTime": 1768906504211,
   "band_list": [
     {
       "raw_hot": 2679279,
@@ -49,6 +49,14 @@
       "onboard_time": 1768884982,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 912684,
+      "num": 177006,
+      "word": "拼多多 聊天关闭",
+      "onboard_time": 1768903461,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 893693,
@@ -219,6 +227,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 476452,
+      "num": 174744,
+      "word": "亲弟弟强奸追杀妻子丈夫发声",
+      "onboard_time": 1768903401,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 459141,
       "num": 196924,
       "word": "没有给有钱人提供情绪价值的义务",
@@ -323,14 +339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 395356,
-      "num": 177006,
-      "word": "拼多多 聊天关闭",
-      "onboard_time": 1768903461,
-      "rank": 10,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 392755,
       "num": 832789,
       "word": "杭州下雪",
@@ -401,14 +409,6 @@
       "onboard_time": 1768899622,
       "rank": 24,
       "category": "网红"
-    },
-    {
-      "raw_hot": 347437,
-      "num": 174744,
-      "word": "亲弟弟强奸追杀妻子丈夫发声",
-      "onboard_time": 1768903401,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 343392,
@@ -489,6 +489,14 @@
       "onboard_time": 1768864577,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291218,
+      "num": 291218,
+      "word": "王者荣耀",
+      "onboard_time": 1768905320,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 289117,
@@ -851,7 +859,7 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 184171,
+      "raw_hot": 184821,
       "num": 157422,
       "word": "秦志戬称随后明确每位教练员分工",
       "onboard_time": 1768905381,
@@ -905,6 +913,14 @@
       "onboard_time": 1768876519,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172610,
+      "num": 156994,
+      "word": "汤唯认领了2026的第一个妈咪",
+      "onboard_time": 1768904000,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 171121,
@@ -1003,6 +1019,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 159606,
+      "num": 110314,
+      "word": "彭小苒 美商",
+      "onboard_time": 1768905680,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158443,
       "num": 158443,
       "word": "李煜东小学就长得像男大了",
@@ -1025,14 +1049,6 @@
       "onboard_time": 1768884563,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 156994,
-      "num": 156994,
-      "word": "汤唯认领了2026的第一个妈咪",
-      "onboard_time": 1768904000,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 156913,
@@ -1147,12 +1163,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144374,
-      "num": 163812,
-      "word": "王者荣耀",
-      "onboard_time": 1768905320,
-      "rank": 17,
-      "category": "游戏"
+      "raw_hot": 144562,
+      "num": 140326,
+      "word": "杨洋的面部折叠度令人惊叹",
+      "onboard_time": 1768904060,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 143949,
@@ -1201,14 +1217,6 @@
       "onboard_time": 1768867158,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140326,
-      "num": 140326,
-      "word": "杨洋的面部折叠度令人惊叹",
-      "onboard_time": 1768904060,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 140055,
@@ -1315,6 +1323,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 125072,
+      "num": 115306,
+      "word": "许金花被执行死刑前见了近亲属",
+      "onboard_time": 1768902618,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124636,
       "num": 124636,
       "word": "经常视奸自己的朋友圈",
@@ -1369,6 +1385,14 @@
       "onboard_time": 1768890439,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121073,
+      "num": 160432,
+      "word": "嫣然医院再回应捐款用途",
+      "onboard_time": 1768904240,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120246,
@@ -1427,12 +1451,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 115306,
-      "num": 115306,
-      "word": "许金花被执行死刑前见了近亲属",
-      "onboard_time": 1768902618,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 115352,
+      "num": 115352,
+      "word": "选秀鼻祖李宇春来给内娱上课了",
+      "onboard_time": 1768904659,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 115211,
@@ -1545,14 +1569,6 @@
       "onboard_time": 1768833803,
       "rank": 8,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 109012,
-      "num": 109012,
-      "word": "选秀鼻祖李宇春来给内娱上课了",
-      "onboard_time": 1768904659,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 108853,
@@ -1683,6 +1699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104540,
+      "num": 104540,
+      "word": "AL对战WBG",
+      "onboard_time": 1768902921,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 103985,
       "num": 103985,
       "word": "幼师才知道这个孩子的含金量",
@@ -1732,7 +1756,7 @@
     },
     {
       "raw_hot": 101319,
-      "num": 101319,
+      "num": 108345,
       "word": "于子洋担任女一队教练",
       "onboard_time": 1768904240,
       "rank": 38,
@@ -1963,6 +1987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91174,
+      "num": 96862,
+      "word": "杨紫提名白玉兰那天下雪了",
+      "onboard_time": 1768901960,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91142,
       "num": 91142,
       "word": "16岁的韩昊霖",
@@ -2035,6 +2067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87538,
+      "num": 96808,
+      "word": "八个平台给选秀冠军的资源",
+      "onboard_time": 1768906220,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87219,
       "num": 87219,
       "word": "意大利时尚界三杰均已离世",
@@ -2068,7 +2108,7 @@
     },
     {
       "raw_hot": 84579,
-      "num": 84579,
+      "num": 96718,
       "word": "地球正发生地磁暴",
       "onboard_time": 1768902618,
       "rank": 41,
@@ -2089,6 +2129,14 @@
       "onboard_time": 1768898362,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 84012,
+      "num": 96845,
+      "word": "WBG状态",
+      "onboard_time": 1768906220,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 82867,
@@ -2113,14 +2161,6 @@
       "onboard_time": 1768873578,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81960,
-      "num": 89099,
-      "word": "杨紫提名白玉兰那天下雪了",
-      "onboard_time": 1768901960,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 81033,
@@ -2203,6 +2243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76124,
+      "num": 96781,
+      "word": "突然觉得餐饮没那么好做了",
+      "onboard_time": 1768906402,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 75671,
       "num": 75671,
       "word": "5年期和1年期LPR利率维持不变",
@@ -2257,14 +2305,6 @@
       "onboard_time": 1768836500,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 70792,
-      "num": 70792,
-      "word": "AL对战WBG",
-      "onboard_time": 1768902921,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 70767,
@@ -2408,14 +2448,6 @@
       "word": "成为中国人咋就在海外火了",
       "onboard_time": 1768883242,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 56973,
-      "num": 160432,
-      "word": "嫣然医院再回应捐款用途",
-      "onboard_time": 1768904240,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -2643,6 +2675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26893,
+      "num": 114143,
+      "word": "赵少康因大罢免亮票被判拘役55天",
+      "onboard_time": 1768905801,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26285,
       "num": 65518,
       "word": "赵今麦工作室编辑文案",
@@ -2675,6 +2715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24094,
+      "num": 96976,
+      "word": "乱世下的四岁孩童不再期待五岁",
+      "onboard_time": 1768905981,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 23642,
       "num": 689754,
       "word": "卫星互联网低轨19组卫星发射成功",
@@ -2697,6 +2745,14 @@
       "onboard_time": 1768901719,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20920,
+      "num": 96904,
+      "word": "2026首场极光来了",
+      "onboard_time": 1768906460,
+      "rank": 41,
+      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 20254,
