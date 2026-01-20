@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768928465051,
+  "endTime": 1768930696512,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -25,6 +25,14 @@
       "onboard_time": 1768723519,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2487537,
+      "num": 2487537,
+      "word": "U23国足vs越南",
+      "onboard_time": 1768922002,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 2304718,
@@ -65,14 +73,6 @@
       "onboard_time": 1768827081,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1534854,
-      "num": 1534854,
-      "word": "U23国足vs越南",
-      "onboard_time": 1768922002,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1344326,
@@ -177,6 +177,14 @@
       "onboard_time": 1768724962,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 940028,
+      "num": 940028,
+      "word": "U23国足2比0越南",
+      "onboard_time": 1768927998,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 939517,
@@ -1012,7 +1020,7 @@
     },
     {
       "raw_hot": 463343,
-      "num": 173298,
+      "num": 288630,
       "word": "儿子怒斥癌症妈妈碰瓷为何让人共情",
       "onboard_time": 1768925958,
       "rank": 5,
@@ -1507,6 +1515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 361789,
+      "num": 361789,
+      "word": "U23国足进球",
+      "onboard_time": 1768928298,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 357587,
       "num": 193962,
       "word": "网传歌手2026首发已确定",
@@ -1915,12 +1931,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 288970,
+      "num": 288970,
+      "word": "2026亚足联U23亚洲杯",
+      "onboard_time": 1768919781,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 287584,
       "num": 287584,
       "word": "美国男子收集雨水被判处30天监禁",
       "onboard_time": 1768800502,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 284761,
+      "num": 284761,
+      "word": "U23亚洲杯",
+      "onboard_time": 1768655542,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 284236,
@@ -2241,14 +2273,6 @@
       "onboard_time": 1768660882,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 248052,
-      "num": 248052,
-      "word": "U23亚洲杯",
-      "onboard_time": 1768655542,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 245080,
@@ -2827,6 +2851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205297,
+      "num": 205297,
+      "word": "u23",
+      "onboard_time": 1768908740,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205202,
       "num": 185354,
       "word": "胡兵 央视门口最好认的明星",
@@ -2969,6 +3001,14 @@
       "onboard_time": 1768880903,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200091,
+      "num": 145854,
+      "word": "曝短剧演员片酬",
+      "onboard_time": 1768926558,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 199593,
@@ -3547,6 +3587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 168851,
+      "num": 145625,
+      "word": "u23国足冲击亚洲杯决赛",
+      "onboard_time": 1768927278,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168250,
       "num": 168250,
       "word": "小城大事收视第一",
@@ -3809,14 +3857,6 @@
       "onboard_time": 1768883061,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158390,
-      "num": 145625,
-      "word": "u23国足冲击亚洲杯决赛",
-      "onboard_time": 1768927278,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 157516,
@@ -4577,14 +4617,6 @@
       "onboard_time": 1768920321,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133512,
-      "num": 133512,
-      "word": "u23",
-      "onboard_time": 1768908740,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 133388,
@@ -6579,14 +6611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 99845,
-      "num": 145854,
-      "word": "曝短剧演员片酬",
-      "onboard_time": 1768926558,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 99570,
       "num": 99570,
       "word": "苹果是减肥控糖友好型水果",
@@ -7268,7 +7292,7 @@
     },
     {
       "raw_hot": 92156,
-      "num": 104086,
+      "num": 118104,
       "word": "得闲谨制",
       "onboard_time": 1768927939,
       "rank": 8,
@@ -9251,14 +9275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 66786,
-      "num": 99757,
-      "word": "U23国足2比0越南",
-      "onboard_time": 1768927998,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 66672,
       "num": 66672,
       "word": "黄蜂vs勇士",
@@ -9464,6 +9480,14 @@
       "word": "樊振东vs西蒙高茨",
       "onboard_time": 1768778899,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 62762,
+      "num": 118166,
+      "word": "U23国足若进决赛将战日本",
+      "onboard_time": 1768929556,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -9793,14 +9817,6 @@
       "onboard_time": 1768831943,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52969,
-      "num": 99523,
-      "word": "2026亚足联U23亚洲杯",
-      "onboard_time": 1768919781,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 52530,
@@ -10171,14 +10187,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 39791,
-      "num": 99143,
-      "word": "U23国足进球",
-      "onboard_time": 1768928298,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 39734,
       "num": 145455,
       "word": "美黄金股大涨",
@@ -10249,6 +10257,14 @@
       "onboard_time": 1768891640,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37763,
+      "num": 117822,
+      "word": "U23国足3比0越南U23",
+      "onboard_time": 1768930637,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 37638,
@@ -10443,6 +10459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28942,
+      "num": 117484,
+      "word": "特朗普公开马克龙给他的私信",
+      "onboard_time": 1768930578,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 28684,
       "num": 689754,
       "word": "卫星互联网低轨19组卫星发射成功",
@@ -10481,6 +10505,14 @@
       "onboard_time": 1768878861,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27871,
+      "num": 117444,
+      "word": "BLG恭喜Viper",
+      "onboard_time": 1768930399,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 27014,

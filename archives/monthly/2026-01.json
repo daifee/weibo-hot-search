@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768928465051,
+  "endTime": 1768930696512,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -225,6 +225,14 @@
       "onboard_time": 1768303462,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2487537,
+      "num": 2487537,
+      "word": "U23国足vs越南",
+      "onboard_time": 1768922002,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 2422672,
@@ -489,14 +497,6 @@
       "onboard_time": 1767459021,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1534854,
-      "num": 1534854,
-      "word": "U23国足vs越南",
-      "onboard_time": 1768922002,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1527024,
@@ -1441,6 +1441,14 @@
       "onboard_time": 1767358040,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 940028,
+      "num": 940028,
+      "word": "U23国足2比0越南",
+      "onboard_time": 1768927998,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 939767,
@@ -6236,7 +6244,7 @@
     },
     {
       "raw_hot": 463343,
-      "num": 173298,
+      "num": 288630,
       "word": "儿子怒斥癌症妈妈碰瓷为何让人共情",
       "onboard_time": 1768925958,
       "rank": 5,
@@ -9081,6 +9089,14 @@
       "onboard_time": 1768551799,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 361789,
+      "num": 361789,
+      "word": "U23国足进球",
+      "onboard_time": 1768928298,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 361416,
@@ -12051,6 +12067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 288970,
+      "num": 288970,
+      "word": "2026亚足联U23亚洲杯",
+      "onboard_time": 1768139003,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 288932,
       "num": 131182,
       "word": "徐帆给杨紫介绍女儿",
@@ -12201,6 +12225,14 @@
       "onboard_time": 1767494121,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 284761,
+      "num": 284761,
+      "word": "U23亚洲杯",
+      "onboard_time": 1767885321,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 284583,
@@ -14401,14 +14433,6 @@
       "onboard_time": 1768192101,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 248052,
-      "num": 248052,
-      "word": "U23亚洲杯",
-      "onboard_time": 1767885321,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 247898,
@@ -17627,6 +17651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 205297,
+      "num": 205297,
+      "word": "u23",
+      "onboard_time": 1768908740,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205282,
       "num": 205282,
       "word": "李昊屡献神扑",
@@ -18201,6 +18233,14 @@
       "onboard_time": 1768312343,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200091,
+      "num": 145854,
+      "word": "曝短剧演员片酬",
+      "onboard_time": 1768926558,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 200023,
@@ -22595,6 +22635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168851,
+      "num": 145625,
+      "word": "u23国足冲击亚洲杯决赛",
+      "onboard_time": 1768927278,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168829,
       "num": 126843,
       "word": "归鸾女二是黄羿",
@@ -24369,14 +24417,6 @@
       "onboard_time": 1768299921,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 158390,
-      "num": 145625,
-      "word": "u23国足冲击亚洲杯决赛",
-      "onboard_time": 1768927278,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 158310,
@@ -29051,14 +29091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136072,
-      "num": 136072,
-      "word": "2026亚足联U23亚洲杯",
-      "onboard_time": 1768139003,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 136041,
       "num": 136041,
       "word": "王曼昱新造型现身",
@@ -29833,14 +29865,6 @@
       "onboard_time": 1767234201,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133512,
-      "num": 133512,
-      "word": "u23",
-      "onboard_time": 1768908740,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 133455,
@@ -41665,14 +41689,6 @@
       "onboard_time": 1768288760,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 99845,
-      "num": 145854,
-      "word": "曝短剧演员片酬",
-      "onboard_time": 1768926558,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 99841,
@@ -56315,14 +56331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 66786,
-      "num": 99757,
-      "word": "U23国足2比0越南",
-      "onboard_time": 1768927998,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 66769,
       "num": 124512,
       "word": "和府捞面门店拒回复汤是否现熬",
@@ -57465,6 +57473,14 @@
       "onboard_time": 1768616120,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 62762,
+      "num": 118166,
+      "word": "U23国足若进决赛将战日本",
+      "onboard_time": 1768929556,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 62715,
@@ -61875,14 +61891,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 39791,
-      "num": 99143,
-      "word": "U23国足进球",
-      "onboard_time": 1768928298,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 39775,
       "num": 81473,
       "word": "商场客服回应洗手台酷似小便池",
@@ -62385,6 +62393,14 @@
       "onboard_time": 1767668960,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 37763,
+      "num": 117822,
+      "word": "U23国足3比0越南U23",
+      "onboard_time": 1768930637,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 37638,
@@ -64139,6 +64155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28942,
+      "num": 117484,
+      "word": "特朗普公开马克龙给他的私信",
+      "onboard_time": 1768930578,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 28906,
       "num": 201450,
       "word": "战斗精灵iQOOZ11Turbo来了",
@@ -64369,6 +64393,14 @@
       "onboard_time": 1768214842,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27871,
+      "num": 117444,
+      "word": "BLG恭喜Viper",
+      "onboard_time": 1768930399,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 27840,

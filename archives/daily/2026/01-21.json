@@ -1,13 +1,21 @@
 {
   "startTime": 1768927470754,
-  "endTime": 1768928465051,
+  "endTime": 1768930696512,
   "band_list": [
     {
-      "raw_hot": 1534854,
-      "num": 1534854,
+      "raw_hot": 2487537,
+      "num": 2487537,
       "word": "U23国足vs越南",
       "onboard_time": 1768922002,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 940028,
+      "num": 940028,
+      "word": "U23国足2比0越南",
+      "onboard_time": 1768927998,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 463343,
-      "num": 173298,
+      "num": 288630,
       "word": "儿子怒斥癌症妈妈碰瓷为何让人共情",
       "onboard_time": 1768925958,
       "rank": 5,
@@ -41,6 +49,14 @@
       "onboard_time": 1768919900,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 361789,
+      "num": 361789,
+      "word": "U23国足进球",
+      "onboard_time": 1768928298,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 358688,
@@ -59,12 +75,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 288970,
+      "num": 288970,
+      "word": "2026亚足联U23亚洲杯",
+      "onboard_time": 1768919781,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 287329,
       "num": 146139,
       "word": "宋威龙张婧仪野狗骨头repo",
       "onboard_time": 1768922600,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 284761,
+      "num": 284761,
+      "word": "U23亚洲杯",
+      "onboard_time": 1768919483,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 248442,
@@ -75,12 +107,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 248052,
-      "num": 248052,
-      "word": "U23亚洲杯",
-      "onboard_time": 1768919483,
+      "raw_hot": 205297,
+      "num": 205297,
+      "word": "u23",
+      "onboard_time": 1768930637,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200091,
+      "num": 145854,
+      "word": "曝短剧演员片酬",
+      "onboard_time": 1768926558,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 184808,
@@ -99,19 +139,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168851,
+      "num": 145625,
+      "word": "u23国足冲击亚洲杯决赛",
+      "onboard_time": 1768927278,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164698,
       "num": 146099,
       "word": "知情人称贝克汉姆夫妇深受打击",
       "onboard_time": 1768916001,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 158390,
-      "num": 145625,
-      "word": "u23国足冲击亚洲杯决赛",
-      "onboard_time": 1768927278,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -147,14 +187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 99845,
-      "num": 145854,
-      "word": "曝短剧演员片酬",
-      "onboard_time": 1768926558,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 94924,
       "num": 145948,
       "word": "黄金涨飞了",
@@ -172,7 +204,7 @@
     },
     {
       "raw_hot": 92156,
-      "num": 104086,
+      "num": 118104,
       "word": "得闲谨制",
       "onboard_time": 1768927939,
       "rank": 8,
@@ -211,14 +243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66786,
-      "num": 99757,
-      "word": "U23国足2比0越南",
-      "onboard_time": 1768927998,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 63803,
       "num": 145783,
       "word": "美财长就斩杀线甩锅拜登",
@@ -233,6 +257,14 @@
       "onboard_time": 1768920321,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62762,
+      "num": 118166,
+      "word": "U23国足若进决赛将战日本",
+      "onboard_time": 1768929556,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 59623,
@@ -281,14 +313,6 @@
       "onboard_time": 1768923800,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 52969,
-      "num": 99523,
-      "word": "2026亚足联U23亚洲杯",
-      "onboard_time": 1768919781,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 52457,
@@ -387,14 +411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39791,
-      "num": 99143,
-      "word": "U23国足进球",
-      "onboard_time": 1768928298,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 39779,
       "num": 145512,
       "word": "小狗不知道自己睡在废品站旁边",
@@ -427,12 +443,44 @@
       "category": "艺人,剧集"
     },
     {
+      "raw_hot": 37763,
+      "num": 117822,
+      "word": "U23国足3比0越南U23",
+      "onboard_time": 1768930637,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36493,
-      "num": 99130,
+      "num": 117405,
       "word": "轧戏",
       "onboard_time": 1768908921,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 28942,
+      "num": 117484,
+      "word": "特朗普公开马克龙给他的私信",
+      "onboard_time": 1768930578,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 27871,
+      "num": 117444,
+      "word": "BLG恭喜Viper",
+      "onboard_time": 1768930399,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 26302,
+      "num": 117375,
+      "word": "王钰栋拜合拉木替补",
+      "onboard_time": 1768922480,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 22885,
