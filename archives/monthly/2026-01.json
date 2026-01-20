@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768927470754,
+  "endTime": 1768928465051,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -491,6 +491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1534854,
+      "num": 1534854,
+      "word": "U23国足vs越南",
+      "onboard_time": 1768922002,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1527024,
       "num": 328175,
       "word": "王鹤棣演唱会嘉宾",
@@ -737,14 +745,6 @@
       "onboard_time": 1767617841,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1233944,
-      "num": 1233944,
-      "word": "U23国足vs越南",
-      "onboard_time": 1768922002,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1220945,
@@ -6235,6 +6235,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 463343,
+      "num": 173298,
+      "word": "儿子怒斥癌症妈妈碰瓷为何让人共情",
+      "onboard_time": 1768925958,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 463311,
       "num": 816054,
       "word": "贪官称最后已离不开行贿商人",
@@ -8843,14 +8851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 369453,
-      "num": 167726,
-      "word": "儿子怒斥癌症妈妈碰瓷为何让人共情",
-      "onboard_time": 1768925958,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 369378,
       "num": 311091,
       "word": "日本女市长与下属开房辞职后再当选",
@@ -10401,6 +10401,14 @@
       "onboard_time": 1767832999,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326019,
+      "num": 649078,
+      "word": "大量外国网友自称精神中国人",
+      "onboard_time": 1768924461,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 325972,
@@ -12403,14 +12411,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 280278,
-      "num": 649078,
-      "word": "大量外国网友自称精神中国人",
-      "onboard_time": 1768924461,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 280110,
       "num": 215503,
       "word": "檀健次不语只是一味打歌",
@@ -14401,6 +14401,14 @@
       "onboard_time": 1768192101,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 248052,
+      "num": 248052,
+      "word": "U23亚洲杯",
+      "onboard_time": 1767885321,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 247898,
@@ -20435,14 +20443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184816,
-      "num": 215353,
-      "word": "U23亚洲杯",
-      "onboard_time": 1767885321,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 184808,
       "num": 162228,
       "word": "贝克汉姆被儿子长文控诉后首现身",
@@ -24369,6 +24369,14 @@
       "onboard_time": 1768299921,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 158390,
+      "num": 145625,
+      "word": "u23国足冲击亚洲杯决赛",
+      "onboard_time": 1768927278,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 158310,
@@ -41659,6 +41667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99845,
+      "num": 145854,
+      "word": "曝短剧演员片酬",
+      "onboard_time": 1768926558,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99841,
       "num": 175646,
       "word": "苹果养生吃法不只煮水",
@@ -55635,6 +55651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69028,
+      "num": 145895,
+      "word": "鞠婧祎掌管侧颜的神",
+      "onboard_time": 1768924220,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69023,
       "num": 119663,
       "word": "女子贴甲片时502胶水喷进眼睛",
@@ -56011,14 +56035,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 67767,
-      "num": 145895,
-      "word": "鞠婧祎掌管侧颜的神",
-      "onboard_time": 1768924220,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 67736,
       "num": 160717,
       "word": "BLG冲击全球先锋赛",
@@ -56297,6 +56313,14 @@
       "onboard_time": 1767655878,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66786,
+      "num": 99757,
+      "word": "U23国足2比0越南",
+      "onboard_time": 1768927998,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 66769,
@@ -57289,14 +57313,6 @@
       "onboard_time": 1768616720,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 63343,
-      "num": 145854,
-      "word": "曝短剧演员片酬",
-      "onboard_time": 1768926558,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 63312,
@@ -60331,6 +60347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47806,
+      "num": 145998,
+      "word": "老人血透深度昏迷心脏骤停医生未到场",
+      "onboard_time": 1768927098,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47772,
       "num": 734105,
       "word": "十五五开局之年怎么干",
@@ -60384,14 +60408,6 @@
       "word": "杨瀚森连续4场出战",
       "onboard_time": 1767419667,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 47626,
-      "num": 145625,
-      "word": "u23国足冲击亚洲杯决赛",
-      "onboard_time": 1768927278,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -61651,6 +61667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40691,
+      "num": 145611,
+      "word": "3人性侵12岁女孩家属控告民警渎职",
+      "onboard_time": 1768926858,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40622,
       "num": 40622,
       "word": "车崇健等到李施嬅下车后暴饮暴食",
@@ -61849,6 +61873,14 @@
       "onboard_time": 1767354140,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 39791,
+      "num": 99143,
+      "word": "U23国足进球",
+      "onboard_time": 1768928298,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 39775,
@@ -63049,14 +63081,6 @@
       "onboard_time": 1768433900,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 34109,
-      "num": 145611,
-      "word": "3人性侵12岁女孩家属控告民警渎职",
-      "onboard_time": 1768926858,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34090,
@@ -66689,14 +66713,6 @@
       "onboard_time": 1768159994,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 15793,
-      "num": 145998,
-      "word": "老人血透深度昏迷心脏骤停医生未到场",
-      "onboard_time": 1768927098,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15772,

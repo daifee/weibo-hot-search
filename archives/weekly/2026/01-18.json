@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768927470754,
+  "endTime": 1768928465051,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1534854,
+      "num": 1534854,
+      "word": "U23国足vs越南",
+      "onboard_time": 1768922002,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1344326,
       "num": 194273,
       "word": "平台辟谣白珊珊被盗号",
@@ -81,14 +89,6 @@
       "onboard_time": 1768808961,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1233944,
-      "num": 1233944,
-      "word": "U23国足vs越南",
-      "onboard_time": 1768922002,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1220945,
@@ -1011,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 463343,
+      "num": 173298,
+      "word": "儿子怒斥癌症妈妈碰瓷为何让人共情",
+      "onboard_time": 1768925958,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 462278,
       "num": 231871,
       "word": "短剧淋雨婴儿家长能接受才来",
@@ -1443,14 +1451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 369453,
-      "num": 167726,
-      "word": "儿子怒斥癌症妈妈碰瓷为何让人共情",
-      "onboard_time": 1768925958,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 367937,
       "num": 170528,
       "word": "阿爆建了个大别墅",
@@ -1697,6 +1697,14 @@
       "onboard_time": 1768891340,
       "rank": 33,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 326019,
+      "num": 649078,
+      "word": "大量外国网友自称精神中国人",
+      "onboard_time": 1768924461,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 325141,
@@ -1960,14 +1968,6 @@
       "word": "呆呆说自己确实闯了个大祸",
       "onboard_time": 1768886841,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 280278,
-      "num": 649078,
-      "word": "大量外国网友自称精神中国人",
-      "onboard_time": 1768924461,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -2241,6 +2241,14 @@
       "onboard_time": 1768660882,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 248052,
+      "num": 248052,
+      "word": "U23亚洲杯",
+      "onboard_time": 1768655542,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 245080,
@@ -3259,14 +3267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184816,
-      "num": 215353,
-      "word": "U23亚洲杯",
-      "onboard_time": 1768655542,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 184808,
       "num": 162228,
       "word": "贝克汉姆被儿子长文控诉后首现身",
@@ -3809,6 +3809,14 @@
       "onboard_time": 1768883061,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158390,
+      "num": 145625,
+      "word": "u23国足冲击亚洲杯决赛",
+      "onboard_time": 1768927278,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 157516,
@@ -6571,6 +6579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99845,
+      "num": 145854,
+      "word": "曝短剧演员片酬",
+      "onboard_time": 1768926558,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99570,
       "num": 99570,
       "word": "苹果是减肥控糖友好型水果",
@@ -7249,6 +7265,14 @@
       "onboard_time": 1768886541,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92156,
+      "num": 104086,
+      "word": "得闲谨制",
+      "onboard_time": 1768927939,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 92140,
@@ -9107,6 +9131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 69028,
+      "num": 145895,
+      "word": "鞠婧祎掌管侧颜的神",
+      "onboard_time": 1768924220,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68973,
       "num": 68973,
       "word": "深夜不睡刷手机是在透支褪黑素",
@@ -9171,14 +9203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 67767,
-      "num": 145895,
-      "word": "鞠婧祎掌管侧颜的神",
-      "onboard_time": 1768924220,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 67736,
       "num": 160717,
       "word": "BLG冲击全球先锋赛",
@@ -9225,6 +9249,14 @@
       "onboard_time": 1768918702,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66786,
+      "num": 99757,
+      "word": "U23国足2比0越南",
+      "onboard_time": 1768927998,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 66672,
@@ -9409,14 +9441,6 @@
       "onboard_time": 1768703480,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 63343,
-      "num": 145854,
-      "word": "曝短剧演员片酬",
-      "onboard_time": 1768926558,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 63312,
@@ -9771,6 +9795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52969,
+      "num": 99523,
+      "word": "2026亚足联U23亚洲杯",
+      "onboard_time": 1768919781,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52530,
       "num": 113173,
       "word": "网购4J车厘子2J都不到",
@@ -9947,20 +9979,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47806,
+      "num": 145998,
+      "word": "老人血透深度昏迷心脏骤停医生未到场",
+      "onboard_time": 1768927098,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47733,
       "num": 91165,
       "word": "偶遇敖瑞鹏医院输液",
       "onboard_time": 1768647081,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 47626,
-      "num": 145625,
-      "word": "u23国足冲击亚洲杯决赛",
-      "onboard_time": 1768927278,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 47518,
@@ -10115,6 +10147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40691,
+      "num": 145611,
+      "word": "3人性侵12岁女孩家属控告民警渎职",
+      "onboard_time": 1768926858,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40442,
       "num": 182304,
       "word": "小城大事高光全在男主身上",
@@ -10129,6 +10169,14 @@
       "onboard_time": 1768692976,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 39791,
+      "num": 99143,
+      "word": "U23国足进球",
+      "onboard_time": 1768928298,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 39734,
@@ -10273,14 +10321,6 @@
       "onboard_time": 1768892301,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 34109,
-      "num": 145611,
-      "word": "3人性侵12岁女孩家属控告民警渎职",
-      "onboard_time": 1768926858,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33886,
@@ -10809,14 +10849,6 @@
       "onboard_time": 1768820783,
       "rank": 45,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 15793,
-      "num": 145998,
-      "word": "老人血透深度昏迷心脏骤停医生未到场",
-      "onboard_time": 1768927098,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15599,

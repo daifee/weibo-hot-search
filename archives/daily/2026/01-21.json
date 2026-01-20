@@ -1,10 +1,10 @@
 {
   "startTime": 1768927470754,
-  "endTime": 1768927470754,
+  "endTime": 1768928465051,
   "band_list": [
     {
-      "raw_hot": 1233944,
-      "num": 1233944,
+      "raw_hot": 1534854,
+      "num": 1534854,
       "word": "U23国足vs越南",
       "onboard_time": 1768922002,
       "rank": 0,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 463343,
+      "num": 173298,
+      "word": "儿子怒斥癌症妈妈碰瓷为何让人共情",
+      "onboard_time": 1768925958,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 461513,
       "num": 145983,
       "word": "黄金",
@@ -35,20 +43,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 369453,
-      "num": 167726,
-      "word": "儿子怒斥癌症妈妈碰瓷为何让人共情",
-      "onboard_time": 1768925958,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 339670,
+      "raw_hot": 358688,
       "num": 145963,
       "word": "金价",
       "onboard_time": 1768922180,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 326019,
+      "num": 649078,
+      "word": "大量外国网友自称精神中国人",
+      "onboard_time": 1768924461,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 287329,
@@ -59,20 +67,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 280278,
-      "num": 649078,
-      "word": "大量外国网友自称精神中国人",
-      "onboard_time": 1768924461,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 248442,
       "num": 248442,
       "word": "轧戏大结局",
       "onboard_time": 1768909941,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 248052,
+      "num": 248052,
+      "word": "U23亚洲杯",
+      "onboard_time": 1768919483,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 184808,
@@ -99,20 +107,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158390,
+      "num": 145625,
+      "word": "u23国足冲击亚洲杯决赛",
+      "onboard_time": 1768927278,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151137,
       "num": 151137,
       "word": "今天将是杭州最干净的一天",
       "onboard_time": 1768920683,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 146231,
-      "num": 146231,
-      "word": "U23亚洲杯",
-      "onboard_time": 1768919483,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 106724,
@@ -139,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99845,
+      "num": 145854,
+      "word": "曝短剧演员片酬",
+      "onboard_time": 1768926558,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94924,
       "num": 145948,
       "word": "黄金涨飞了",
@@ -153,6 +169,14 @@
       "onboard_time": 1768914562,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92156,
+      "num": 104086,
+      "word": "得闲谨制",
+      "onboard_time": 1768927939,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 81369,
@@ -179,12 +203,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 67767,
+      "raw_hot": 69028,
       "num": 145895,
       "word": "鞠婧祎掌管侧颜的神",
       "onboard_time": 1768924220,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66786,
+      "num": 99757,
+      "word": "U23国足2比0越南",
+      "onboard_time": 1768927998,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 63803,
@@ -201,14 +233,6 @@
       "onboard_time": 1768920321,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 63343,
-      "num": 145854,
-      "word": "曝短剧演员片酬",
-      "onboard_time": 1768926558,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 59623,
@@ -259,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52969,
+      "num": 99523,
+      "word": "2026亚足联U23亚洲杯",
+      "onboard_time": 1768919781,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52457,
       "num": 145741,
       "word": "偷玉米引发的血案受害人女儿求重判",
@@ -283,12 +315,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47626,
-      "num": 145625,
-      "word": "u23国足冲击亚洲杯决赛",
-      "onboard_time": 1768927278,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 47806,
+      "num": 145998,
+      "word": "老人血透深度昏迷心脏骤停医生未到场",
+      "onboard_time": 1768927098,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47518,
@@ -347,6 +379,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40691,
+      "num": 145611,
+      "word": "3人性侵12岁女孩家属控告民警渎职",
+      "onboard_time": 1768926858,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39791,
+      "num": 99143,
+      "word": "U23国足进球",
+      "onboard_time": 1768928298,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39779,
       "num": 145512,
       "word": "小狗不知道自己睡在废品站旁边",
@@ -379,12 +427,12 @@
       "category": "艺人,剧集"
     },
     {
-      "raw_hot": 34109,
-      "num": 145611,
-      "word": "3人性侵12岁女孩家属控告民警渎职",
-      "onboard_time": 1768926858,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 36493,
+      "num": 99130,
+      "word": "轧戏",
+      "onboard_time": 1768908921,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 22885,
@@ -392,14 +440,6 @@
       "word": "还有不到30天过年",
       "onboard_time": 1768913781,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15793,
-      "num": 145998,
-      "word": "老人血透深度昏迷心脏骤停医生未到场",
-      "onboard_time": 1768927098,
-      "rank": 19,
       "category": "民生新闻"
     }
   ],
