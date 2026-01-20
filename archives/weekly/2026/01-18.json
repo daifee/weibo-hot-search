@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768892551960,
+  "endTime": 1768894585950,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -235,6 +235,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 840263,
+      "num": 1134442,
+      "word": "女子洗澡忘关水阀将小区变溜冰场",
+      "onboard_time": 1768892842,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 838604,
       "num": 272785,
       "word": "oner败诉",
@@ -404,7 +412,7 @@
     },
     {
       "raw_hot": 683201,
-      "num": 182317,
+      "num": 184276,
       "word": "何聪睿戏扑甩锅女主",
       "onboard_time": 1768888460,
       "rank": 15,
@@ -425,6 +433,14 @@
       "onboard_time": 1768727001,
       "rank": 9,
       "category": "美食"
+    },
+    {
+      "raw_hot": 659782,
+      "num": 254065,
+      "word": "这个月工资就是今年攒了多少钱",
+      "onboard_time": 1768884142,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 654030,
@@ -753,14 +769,6 @@
       "onboard_time": 1768741221,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 502429,
-      "num": 244864,
-      "word": "这个月工资就是今年攒了多少钱",
-      "onboard_time": 1768884142,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 501594,
@@ -1115,6 +1123,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 394848,
+      "num": 394848,
+      "word": "香港发生离奇夺命车祸",
+      "onboard_time": 1768893440,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 393776,
+      "num": 160012,
+      "word": "宋祖儿 平常都是恶心穿搭",
+      "onboard_time": 1768891280,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 392755,
       "num": 832789,
       "word": "杭州下雪",
@@ -1209,6 +1233,14 @@
       "onboard_time": 1768732462,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 367937,
+      "num": 170528,
+      "word": "阿爆建了个大别墅",
+      "onboard_time": 1768891882,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 367419,
@@ -1409,6 +1441,14 @@
       "onboard_time": 1768824741,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 327812,
+      "num": 178807,
+      "word": "怪不得长辈喜欢大方的孩子",
+      "onboard_time": 1768891340,
+      "rank": 33,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 325945,
@@ -2043,14 +2083,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 226399,
-      "num": 152715,
-      "word": "宋祖儿 平常都是恶心穿搭",
-      "onboard_time": 1768891280,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 225933,
       "num": 336210,
       "word": "准女婿见岳父变脸如翻书",
@@ -2081,6 +2113,14 @@
       "onboard_time": 1768735462,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223478,
+      "num": 223478,
+      "word": "国家发改委推动优化节假日安排",
+      "onboard_time": 1768892541,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 222375,
@@ -2923,6 +2963,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 171121,
+      "num": 159132,
+      "word": "张凌赫 我担是我的补习老师",
+      "onboard_time": 1768891580,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170794,
       "num": 108584,
       "word": "牢A说一定要感激高考",
@@ -3091,6 +3139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163844,
+      "num": 145747,
+      "word": "吴佳怡终于被看见了",
+      "onboard_time": 1768893261,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163454,
       "num": 163454,
       "word": "原来谭晶和许嵩早就约好唱素颜",
@@ -3193,6 +3249,14 @@
       "onboard_time": 1768883061,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158354,
+      "num": 117513,
+      "word": "贝克汉姆长子称婚礼是最屈辱的时刻",
+      "onboard_time": 1768893980,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 157325,
@@ -3385,14 +3449,6 @@
       "onboard_time": 1768829002,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 150441,
-      "num": 150441,
-      "word": "怪不得长辈喜欢大方的孩子",
-      "onboard_time": 1768891340,
-      "rank": 33,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 150169,
@@ -3707,6 +3763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140107,
+      "num": 140107,
+      "word": "20岁李嫣现状",
+      "onboard_time": 1768893980,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140060,
       "num": 140060,
       "word": "他得到的爱很少所以格外珍惜",
@@ -3785,6 +3849,14 @@
       "onboard_time": 1768806380,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 137362,
+      "num": 116724,
+      "word": "00生刘轩丞已争气争气再争气",
+      "onboard_time": 1768893980,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 136916,
@@ -4017,14 +4089,6 @@
       "onboard_time": 1768719560,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129968,
-      "num": 127707,
-      "word": "张凌赫 我担是我的补习老师",
-      "onboard_time": 1768891580,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 129925,
@@ -4299,14 +4363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 123715,
-      "num": 123715,
-      "word": "阿爆建了个大别墅",
-      "onboard_time": 1768891882,
-      "rank": 43,
-      "category": "网红"
-    },
-    {
       "raw_hot": 123685,
       "num": 153003,
       "word": "新东方聘请陈行甲为总顾问",
@@ -4531,6 +4587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 118309,
+      "num": 179289,
+      "word": "女子转账近25万做医美几近失明",
+      "onboard_time": 1768891221,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118224,
       "num": 118224,
       "word": "非洲杯",
@@ -4609,6 +4673,14 @@
       "onboard_time": 1768739002,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116527,
+      "num": 112469,
+      "word": "车澈回应瘦了68斤",
+      "onboard_time": 1768893500,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 116523,
@@ -4867,6 +4939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110577,
+      "num": 110577,
+      "word": "3岁女童被留车内后爬窗失踪",
+      "onboard_time": 1768893079,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110534,
       "num": 114885,
       "word": "吃了30年猪肉第一次认识猪肉",
@@ -4993,14 +5073,6 @@
       "onboard_time": 1768824741,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108715,
-      "num": 179289,
-      "word": "女子转账近25万做医美几近失明",
-      "onboard_time": 1768891221,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108668,
@@ -5179,6 +5251,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105927,
+      "num": 147412,
+      "word": "一代人有一代人的收藏癖",
+      "onboard_time": 1768894400,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105574,
+      "num": 105574,
+      "word": "蔡徐坤PD纯元的杀伤力",
+      "onboard_time": 1768892961,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105566,
       "num": 133310,
       "word": "九重天",
@@ -5353,6 +5441,14 @@
       "onboard_time": 1768722379,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103509,
+      "num": 103509,
+      "word": "经常视奸自己的朋友圈",
+      "onboard_time": 1768890141,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 103481,
@@ -5571,6 +5667,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 98629,
+      "num": 98629,
+      "word": "星宇在WB上海基地",
+      "onboard_time": 1768894281,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 98601,
       "num": 98601,
       "word": "宋威龙下雪了",
@@ -5585,6 +5689,14 @@
       "onboard_time": 1768734022,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 98510,
+      "num": 98510,
+      "word": "嫣然天使基金回应项目预算已筹满",
+      "onboard_time": 1768892541,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98443,
@@ -6347,14 +6459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88397,
-      "num": 88397,
-      "word": "经常视奸自己的朋友圈",
-      "onboard_time": 1768890141,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 88037,
       "num": 88037,
       "word": "杨紫胡歌原声台词爆发力",
@@ -7003,6 +7107,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 79490,
+      "num": 96011,
+      "word": "吴易昺3比1纳尔迪",
+      "onboard_time": 1768893980,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79376,
       "num": 79376,
       "word": "1岁宝宝高烧家长贴暖宝宝捂进ICU",
@@ -7049,6 +7161,14 @@
       "onboard_time": 1768751901,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78859,
+      "num": 108387,
+      "word": "摩托车疑撞鸟骑手被抛飞身亡",
+      "onboard_time": 1768894281,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78720,
@@ -7537,6 +7657,14 @@
       "onboard_time": 1768700421,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 68857,
+      "num": 94581,
+      "word": "吴易昺vs纳尔迪",
+      "onboard_time": 1768893801,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 67939,
@@ -8227,6 +8355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 46964,
+      "num": 160417,
+      "word": "苏州一企业与嫣然医院达成合作意向",
+      "onboard_time": 1768893739,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46929,
       "num": 214633,
       "word": "华晨宇说马韬有种",
@@ -8665,6 +8801,14 @@
       "onboard_time": 1768801222,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25615,
+      "num": 631052,
+      "word": "中国2025年成绩单含金量满满",
+      "onboard_time": 1768878500,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 25405,

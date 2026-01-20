@@ -1,6 +1,6 @@
 {
   "startTime": 1768840768064,
-  "endTime": 1768892551960,
+  "endTime": 1768894585950,
   "band_list": [
     {
       "raw_hot": 2679279,
@@ -67,6 +67,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 840263,
+      "num": 1134442,
+      "word": "女子洗澡忘关水阀将小区变溜冰场",
+      "onboard_time": 1768892842,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 757848,
       "num": 1121255,
       "word": "上海下雪",
@@ -76,11 +84,19 @@
     },
     {
       "raw_hot": 683201,
-      "num": 182317,
+      "num": 184276,
       "word": "何聪睿戏扑甩锅女主",
       "onboard_time": 1768888460,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 659782,
+      "num": 254065,
+      "word": "这个月工资就是今年攒了多少钱",
+      "onboard_time": 1768884142,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 642136,
@@ -155,14 +171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 502429,
-      "num": 244864,
-      "word": "这个月工资就是今年攒了多少钱",
-      "onboard_time": 1768884142,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 489018,
       "num": 221165,
       "word": "梁小龙死因公开",
@@ -227,6 +235,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 394848,
+      "num": 394848,
+      "word": "香港发生离奇夺命车祸",
+      "onboard_time": 1768893440,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 393776,
+      "num": 160012,
+      "word": "宋祖儿 平常都是恶心穿搭",
+      "onboard_time": 1768891280,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 392755,
       "num": 832789,
       "word": "杭州下雪",
@@ -265,6 +289,14 @@
       "onboard_time": 1768880302,
       "rank": 15,
       "category": "数码"
+    },
+    {
+      "raw_hot": 367937,
+      "num": 170528,
+      "word": "阿爆建了个大别墅",
+      "onboard_time": 1768891882,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 366083,
@@ -313,6 +345,14 @@
       "onboard_time": 1768866979,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 327812,
+      "num": 178807,
+      "word": "怪不得长辈喜欢大方的孩子",
+      "onboard_time": 1768891340,
+      "rank": 33,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 325141,
@@ -459,12 +499,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 226399,
-      "num": 152715,
-      "word": "宋祖儿 平常都是恶心穿搭",
-      "onboard_time": 1768891280,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 223478,
+      "num": 223478,
+      "word": "国家发改委推动优化节假日安排",
+      "onboard_time": 1768892541,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 220916,
@@ -667,6 +707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171121,
+      "num": 159132,
+      "word": "张凌赫 我担是我的补习老师",
+      "onboard_time": 1768891580,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168889,
       "num": 186972,
       "word": "呼啸山庄定档",
@@ -697,6 +745,14 @@
       "onboard_time": 1768835182,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163844,
+      "num": 145747,
+      "word": "吴佳怡终于被看见了",
+      "onboard_time": 1768893261,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 163808,
@@ -745,6 +801,14 @@
       "onboard_time": 1768883061,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158354,
+      "num": 117513,
+      "word": "贝克汉姆长子称婚礼是最屈辱的时刻",
+      "onboard_time": 1768893980,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 157325,
@@ -809,14 +873,6 @@
       "onboard_time": 1768885522,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 150441,
-      "num": 150441,
-      "word": "怪不得长辈喜欢大方的孩子",
-      "onboard_time": 1768891340,
-      "rank": 33,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 150430,
@@ -891,6 +947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140107,
+      "num": 140107,
+      "word": "20岁李嫣现状",
+      "onboard_time": 1768893980,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139745,
       "num": 164724,
       "word": "上海积雪有多罕见",
@@ -905,6 +969,14 @@
       "onboard_time": 1768883242,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137362,
+      "num": 116724,
+      "word": "00生刘轩丞已争气争气再争气",
+      "onboard_time": 1768893980,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 133291,
@@ -939,14 +1011,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 129968,
-      "num": 127707,
-      "word": "张凌赫 我担是我的补习老师",
-      "onboard_time": 1768891580,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129925,
       "num": 129925,
       "word": "巴特勒膝盖受伤痛苦倒地",
@@ -977,14 +1041,6 @@
       "onboard_time": 1768881023,
       "rank": 34,
       "category": "数码"
-    },
-    {
-      "raw_hot": 123715,
-      "num": 123715,
-      "word": "阿爆建了个大别墅",
-      "onboard_time": 1768891882,
-      "rank": 43,
-      "category": "网红"
     },
     {
       "raw_hot": 123685,
@@ -1027,12 +1083,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 118309,
+      "num": 179289,
+      "word": "女子转账近25万做医美几近失明",
+      "onboard_time": 1768891221,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117786,
       "num": 117786,
       "word": "郑州一医院1天接诊98名骨折患者",
       "onboard_time": 1768881502,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116527,
+      "num": 112469,
+      "word": "车澈回应瘦了68斤",
+      "onboard_time": 1768893500,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 115773,
@@ -1123,6 +1195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110577,
+      "num": 110577,
+      "word": "3岁女童被留车内后爬窗失踪",
+      "onboard_time": 1768893079,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110473,
       "num": 110473,
       "word": "吴青峰发文追星裘德",
@@ -1145,14 +1225,6 @@
       "onboard_time": 1768885401,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108715,
-      "num": 179289,
-      "word": "女子转账近25万做医美几近失明",
-      "onboard_time": 1768891221,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107206,
@@ -1187,6 +1259,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 105927,
+      "num": 147412,
+      "word": "一代人有一代人的收藏癖",
+      "onboard_time": 1768894400,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105574,
+      "num": 105574,
+      "word": "蔡徐坤PD纯元的杀伤力",
+      "onboard_time": 1768892961,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105350,
       "num": 105350,
       "word": "豆包预测尚界Z7或成SU7最强对手",
@@ -1217,6 +1305,14 @@
       "onboard_time": 1768867519,
       "rank": 34,
       "category": "海外新闻,游戏"
+    },
+    {
+      "raw_hot": 103509,
+      "num": 103509,
+      "word": "经常视奸自己的朋友圈",
+      "onboard_time": 1768890141,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 103481,
@@ -1257,6 +1353,22 @@
       "onboard_time": 1768881623,
       "rank": 14,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 98629,
+      "num": 98629,
+      "word": "星宇在WB上海基地",
+      "onboard_time": 1768894281,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 98510,
+      "num": 98510,
+      "word": "嫣然天使基金回应项目预算已筹满",
+      "onboard_time": 1768892541,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98068,
@@ -1379,14 +1491,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 88397,
-      "num": 88397,
-      "word": "经常视奸自己的朋友圈",
-      "onboard_time": 1768890141,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 87769,
       "num": 87769,
       "word": "裴轸黑化",
@@ -1467,6 +1571,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 79490,
+      "num": 96011,
+      "word": "吴易昺3比1纳尔迪",
+      "onboard_time": 1768893980,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79367,
       "num": 396213,
       "word": "MTJJ回应",
@@ -1481,6 +1593,14 @@
       "onboard_time": 1768875679,
       "rank": 43,
       "category": "财经,休闲"
+    },
+    {
+      "raw_hot": 78859,
+      "num": 108387,
+      "word": "摩托车疑撞鸟骑手被抛飞身亡",
+      "onboard_time": 1768894281,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78137,
@@ -1569,6 +1689,14 @@
       "onboard_time": 1768867821,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 68857,
+      "num": 94581,
+      "word": "吴易昺vs纳尔迪",
+      "onboard_time": 1768893801,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 67163,
@@ -1723,6 +1851,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 46964,
+      "num": 160417,
+      "word": "苏州一企业与嫣然医院达成合作意向",
+      "onboard_time": 1768893739,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46881,
       "num": 130370,
       "word": "大寒到了",
@@ -1873,6 +2009,14 @@
       "onboard_time": 1768824982,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25615,
+      "num": 631052,
+      "word": "中国2025年成绩单含金量满满",
+      "onboard_time": 1768878500,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 25119,
