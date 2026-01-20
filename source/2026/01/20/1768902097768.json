@@ -1,0 +1,410 @@
+{
+  "runTime": 1768902097768,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 605867,
+        "num": 1096938,
+        "word": "女子洗澡忘关水阀将小区变溜冰场",
+        "onboard_time": 1768892842,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380872,
+        "num": 801175,
+        "word": "巴特勒前十字韧带撕裂",
+        "onboard_time": 1768899320,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93653,
+        "num": 608541,
+        "word": "中国载人航天首次应急行动",
+        "onboard_time": 1768898721,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 378133,
+        "num": 378133,
+        "word": "中方收到美方加入和平委员会邀请",
+        "onboard_time": 1768897041,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 288398,
+        "num": 288398,
+        "word": "香港发生离奇夺命车祸",
+        "onboard_time": 1768893440,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251264,
+        "num": 251264,
+        "word": "特朗普发登上格陵兰岛图",
+        "onboard_time": 1768898660,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 221271,
+        "num": 221271,
+        "word": "这个月工资就是今年攒了多少钱",
+        "onboard_time": 1768884142,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211418,
+        "num": 211418,
+        "word": "4寸10元蛋糕店老板谈定价",
+        "onboard_time": 1768896081,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205618,
+        "num": 205618,
+        "word": "特朗普称因未获诺奖不再考虑和平",
+        "onboard_time": 1768899741,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203253,
+        "num": 203253,
+        "word": "穆祉丞王橹杰双人舞台播放量破千万",
+        "onboard_time": 1768899382,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 229101,
+        "num": 201882,
+        "word": "贝克汉姆长子称婚礼是最屈辱的时刻",
+        "onboard_time": 1768893980,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204581,
+        "num": 193323,
+        "word": "怪不得长辈喜欢大方的孩子",
+        "onboard_time": 1768891340,
+        "rank": 11,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 181083,
+        "num": 181083,
+        "word": "骄阳似我",
+        "onboard_time": 1768900401,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180026,
+        "num": 180026,
+        "word": "中国乒协确认国家队教练员名单",
+        "onboard_time": 1768901841,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160540,
+        "num": 160540,
+        "word": "和平委员会",
+        "onboard_time": 1768897941,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156509,
+        "num": 156509,
+        "word": "华伦天奴去世",
+        "onboard_time": 1768867459,
+        "rank": 15,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 140055,
+        "num": 140055,
+        "word": "巴特勒赛季报销",
+        "onboard_time": 1768899741,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130624,
+        "num": 130624,
+        "word": "中方要求阿富汗惩治凶手",
+        "onboard_time": 1768898120,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107596,
+        "num": 129970,
+        "word": "勇士 巴特勒",
+        "onboard_time": 1768900581,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13460,
+        "num": 129281,
+        "word": "昭苏回应网友要求为贺娇龙立雕塑",
+        "onboard_time": 1768901719,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 478267,
+        "num": 128766,
+        "word": "12岁女孩被虐致死案继母被执行死刑",
+        "onboard_time": 1768899382,
+        "rank": 20,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 412323,
+        "num": 128001,
+        "word": "关晓彤造型师去哪儿进修了",
+        "onboard_time": 1768900461,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99154,
+        "num": 127790,
+        "word": "陈星旭王玉雯突然的喜欢定档",
+        "onboard_time": 1768891580,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366678,
+        "num": 126565,
+        "word": "哈佛女孩斥牢A说谎",
+        "onboard_time": 1768894941,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 350308,
+        "num": 126463,
+        "word": "小英自曝被打",
+        "onboard_time": 1768899622,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 306805,
+        "num": 125557,
+        "word": "20岁李嫣现状",
+        "onboard_time": 1768893980,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157394,
+        "num": 124682,
+        "word": "人民币现金收付新规2月1日起施行",
+        "onboard_time": 1768895542,
+        "rank": 26,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 86255,
+        "num": 124062,
+        "word": "国家发改委推动优化节假日安排",
+        "onboard_time": 1768892541,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 227988,
+        "num": 123253,
+        "word": "何聪睿戏扑甩锅女主",
+        "onboard_time": 1768888460,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196534,
+        "num": 122781,
+        "word": "施洛华道歉",
+        "onboard_time": 1768901841,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131138,
+        "num": 122265,
+        "word": "以为会长胖但巨减肥的习惯",
+        "onboard_time": 1768900040,
+        "rank": 30,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 179262,
+        "num": 121343,
+        "word": "阿爆回应",
+        "onboard_time": 1768884982,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 155558,
+        "num": 120483,
+        "word": "张凌赫 我担是我的补习老师",
+        "onboard_time": 1768891580,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108796,
+        "num": 120131,
+        "word": "怎么一下雪到处都是波司登",
+        "onboard_time": 1768896381,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 119643,
+        "num": 119643,
+        "word": "宋祖儿 平常都是恶心穿搭",
+        "onboard_time": 1768891280,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116788,
+        "num": 116788,
+        "word": "成毅从脏脏包切换成贵气太子",
+        "onboard_time": 1768901060,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107816,
+        "num": 107816,
+        "word": "第一次对一个植物很失望",
+        "onboard_time": 1768901240,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98079,
+        "num": 98079,
+        "word": "杨振华去世",
+        "onboard_time": 1768880001,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25507,
+        "num": 86620,
+        "word": "杨紫提名白玉兰那天下雪了",
+        "onboard_time": 1768901960,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69328,
+        "num": 79249,
+        "word": "谁是喵娲娲",
+        "onboard_time": 1768899920,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 77645,
+        "num": 77645,
+        "word": "牢A说不是有国籍就是中国人",
+        "onboard_time": 1768886841,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95532,
+        "num": 76382,
+        "word": "李亚鹏曾称没有王菲办不起嫣然医院",
+        "onboard_time": 1768895303,
+        "rank": 41,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 74698,
+        "num": 74698,
+        "word": "博主曝有人为买网红盒饭冒充工人",
+        "onboard_time": 1768900822,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73085,
+        "num": 73085,
+        "word": "广东汕头通报恶狗撕咬女生",
+        "onboard_time": 1768895001,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72793,
+        "num": 72793,
+        "word": "巨爱吃的周黑鸭得女",
+        "onboard_time": 1768895424,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 69432,
+        "num": 69432,
+        "word": "原小米高管王腾新公司获数千万元融资",
+        "onboard_time": 1768898362,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 69115,
+        "num": 69115,
+        "word": "儿子回应怒吼癌症妈妈碰瓷爆火",
+        "onboard_time": 1768875799,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68138,
+        "num": 68138,
+        "word": "黄金白银疯涨原因",
+        "onboard_time": 1768899920,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 67609,
+        "num": 67609,
+        "word": "恨海情天的鼻祖她来了",
+        "onboard_time": 1768901960,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65663,
+        "num": 65663,
+        "word": "唐宫奇案",
+        "onboard_time": 1768882403,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#大寒节令送大爱#"
+    }
+  }
+}
