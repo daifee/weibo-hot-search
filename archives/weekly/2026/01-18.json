@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768951880678,
+  "endTime": 1768952708351,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -339,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 808125,
+      "num": 82877,
+      "word": "贝克汉姆儿媳快哭了",
+      "onboard_time": 1768951098,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 807590,
       "num": 466765,
       "word": "6人就餐仅花19元老板要求带走垃圾",
@@ -489,14 +497,6 @@
       "onboard_time": 1768888460,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 680589,
-      "num": 78357,
-      "word": "贝克汉姆儿媳快哭了",
-      "onboard_time": 1768951098,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 677740,
@@ -2411,6 +2411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 234721,
+      "num": 141623,
+      "word": "大姐希望大冰支持自己孩子",
+      "onboard_time": 1768950917,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 234643,
       "num": 227114,
       "word": "胡萝卜纸巾最难的一集出现了",
@@ -2420,11 +2428,19 @@
     },
     {
       "raw_hot": 234569,
-      "num": 117484,
+      "num": 134966,
       "word": "特朗普公开马克龙给他的私信",
       "onboard_time": 1768930578,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 234008,
+      "num": 80472,
+      "word": "女生怀孕后体重暴涨45斤",
+      "onboard_time": 1768950738,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 233958,
@@ -2851,6 +2867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206904,
+      "num": 206904,
+      "word": "黑草莓售价高达300元一斤",
+      "onboard_time": 1768950617,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206129,
       "num": 203877,
       "word": "轧戏编剧",
@@ -2905,6 +2929,14 @@
       "onboard_time": 1768712299,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203989,
+      "num": 749646,
+      "word": "欧盟决定永久冻结俄罗斯资产",
+      "onboard_time": 1768950677,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 203348,
@@ -3129,6 +3161,14 @@
       "onboard_time": 1768702159,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 194936,
+      "num": 194936,
+      "word": "古装剧古味消失的原因",
+      "onboard_time": 1768945333,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 194512,
@@ -3403,14 +3443,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 178151,
-      "num": 178151,
-      "word": "古装剧古味消失的原因",
-      "onboard_time": 1768945333,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 177835,
       "num": 159848,
       "word": "手链扔火炉女子灰烬中找回48颗金珠",
@@ -3561,6 +3593,14 @@
       "onboard_time": 1768891580,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170875,
+      "num": 170875,
+      "word": "LV大秀",
+      "onboard_time": 1768951578,
+      "rank": 8,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 170794,
@@ -3851,14 +3891,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 160036,
-      "num": 77097,
-      "word": "女生怀孕后体重暴涨45斤",
-      "onboard_time": 1768950738,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 159665,
       "num": 131011,
       "word": "中国留学生买错票躲过西班牙高铁事故",
@@ -4035,6 +4067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 152149,
+      "num": 152149,
+      "word": "野狗骨头",
+      "onboard_time": 1768951278,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152060,
       "num": 146884,
       "word": "财务看演唱会通病",
@@ -4137,14 +4177,6 @@
       "onboard_time": 1768794800,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 149786,
-      "num": 149786,
-      "word": "黑草莓售价高达300元一斤",
-      "onboard_time": 1768950617,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149440,
@@ -4625,14 +4657,6 @@
       "onboard_time": 1768909041,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135416,
-      "num": 135416,
-      "word": "欧盟决定永久冻结俄罗斯资产",
-      "onboard_time": 1768950677,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 135173,
@@ -5171,14 +5195,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 123569,
-      "num": 85951,
-      "word": "大姐希望大冰支持自己孩子",
-      "onboard_time": 1768950917,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 123418,
       "num": 123418,
       "word": "肖战现在不跳舞要干嘛",
@@ -5401,6 +5417,14 @@
       "onboard_time": 1768794501,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118905,
+      "num": 118905,
+      "word": "U23国足决赛将对阵日本",
+      "onboard_time": 1768933095,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 118866,
@@ -5683,6 +5707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114716,
+      "num": 114716,
+      "word": "野狗骨头感觉大事很妙",
+      "onboard_time": 1768950738,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114512,
       "num": 114512,
       "word": "日本自卫队员性侵男同僚",
@@ -5835,14 +5867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 111208,
-      "num": 111208,
-      "word": "U23国足决赛将对阵日本",
-      "onboard_time": 1768933095,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 110695,
       "num": 99655,
       "word": "李昊真牛",
@@ -5961,6 +5985,14 @@
       "onboard_time": 1768789579,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 110112,
+      "num": 110112,
+      "word": "国色芳华重映收视第一",
+      "onboard_time": 1768950857,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 109908,
@@ -7147,14 +7179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94357,
-      "num": 94357,
-      "word": "LV大秀",
-      "onboard_time": 1768951578,
-      "rank": 8,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 94230,
       "num": 167429,
       "word": "官方通报行业协会有89名副会长",
@@ -7849,14 +7873,6 @@
       "onboard_time": 1768906220,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 87425,
-      "num": 87425,
-      "word": "国色芳华重映收视第一",
-      "onboard_time": 1768950857,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 87219,
@@ -8667,14 +8683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 78727,
-      "num": 78727,
-      "word": "野狗骨头感觉大事很妙",
-      "onboard_time": 1768950738,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 78720,
       "num": 78720,
       "word": "我们这里吃面包不用拉小提琴",
@@ -8825,6 +8833,14 @@
       "onboard_time": 1768917502,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76433,
+      "num": 76433,
+      "word": "越南红牌",
+      "onboard_time": 1768951457,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 76378,
@@ -9115,14 +9131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 72295,
-      "num": 72295,
-      "word": "野狗骨头",
-      "onboard_time": 1768951278,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 72249,
       "num": 83445,
       "word": "四川男篮vs广东男篮",
@@ -9248,6 +9256,14 @@
       "word": "北京下雪萌兰变身糖霜小熊",
       "onboard_time": 1768721900,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70438,
+      "num": 66320,
+      "word": "平台回应卖家去世超半年仍能开店",
+      "onboard_time": 1768933154,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -9451,20 +9467,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66176,
+      "num": 66176,
+      "word": "减肥必须要记住的4个时间点",
+      "onboard_time": 1768951818,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 66171,
       "num": 91318,
       "word": "白鹿拍的雪",
       "onboard_time": 1768659923,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 66170,
-      "num": 66170,
-      "word": "平台回应卖家去世超半年仍能开店",
-      "onboard_time": 1768933154,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 65985,
@@ -9553,6 +9569,14 @@
       "onboard_time": 1768951219,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 64354,
+      "num": 64354,
+      "word": "王钰栋破门",
+      "onboard_time": 1768951877,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 64335,
@@ -9827,6 +9851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58254,
+      "num": 58254,
+      "word": "欧美股市猛跌",
+      "onboard_time": 1768951818,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 58188,
       "num": 153074,
       "word": "人民日报记者探访煤改气后取暖贵",
@@ -9867,14 +9899,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 57062,
-      "num": 57062,
-      "word": "越南红牌",
-      "onboard_time": 1768951457,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 57053,
       "num": 218983,
       "word": "成为中国人咋就在海外火了",
@@ -9891,12 +9915,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 55974,
-      "num": 55974,
-      "word": "减肥必须要记住的4个时间点",
-      "onboard_time": 1768951818,
-      "rank": 37,
-      "category": "运动健身"
+      "raw_hot": 55680,
+      "num": 55680,
+      "word": "马克龙炮轰美国",
+      "onboard_time": 1768952419,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 55378,
@@ -9921,14 +9945,6 @@
       "onboard_time": 1768711820,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54824,
-      "num": 54824,
-      "word": "欧美股市猛跌",
-      "onboard_time": 1768951818,
-      "rank": 38,
-      "category": "财经"
     },
     {
       "raw_hot": 54737,
@@ -10299,6 +10315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43786,
+      "num": 43786,
+      "word": "马年纪念钞二手市场加价200%",
+      "onboard_time": 1768952058,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 43729,
       "num": 108847,
       "word": "小城大事热度破27000",
@@ -10577,6 +10601,14 @@
       "onboard_time": 1768796482,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 31232,
+      "num": 151907,
+      "word": "U23国足主帅回应晋级决赛",
+      "onboard_time": 1768952179,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 31049,

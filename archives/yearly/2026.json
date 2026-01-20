@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768951880678,
+  "endTime": 1768952708351,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -2091,6 +2091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 808125,
+      "num": 82877,
+      "word": "贝克汉姆儿媳快哭了",
+      "onboard_time": 1768951098,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 807590,
       "num": 466765,
       "word": "6人就餐仅花19元老板要求带走垃圾",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768786880,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 743670,
-      "num": 1118987,
-      "word": "我们的少年时代2",
-      "onboard_time": 1768466842,
-      "rank": 24,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [

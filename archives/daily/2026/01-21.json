@@ -1,6 +1,6 @@
 {
   "startTime": 1768927470754,
-  "endTime": 1768951880678,
+  "endTime": 1768952708351,
   "band_list": [
     {
       "raw_hot": 2487537,
@@ -27,8 +27,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 680589,
-      "num": 78357,
+      "raw_hot": 808125,
+      "num": 82877,
       "word": "贝克汉姆儿媳快哭了",
       "onboard_time": 1768951098,
       "rank": 20,
@@ -139,12 +139,52 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234721,
+      "num": 141623,
+      "word": "大姐希望大冰支持自己孩子",
+      "onboard_time": 1768950917,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 234569,
-      "num": 117484,
+      "num": 134966,
       "word": "特朗普公开马克龙给他的私信",
       "onboard_time": 1768930578,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 234008,
+      "num": 80472,
+      "word": "女生怀孕后体重暴涨45斤",
+      "onboard_time": 1768950738,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206904,
+      "num": 206904,
+      "word": "黑草莓售价高达300元一斤",
+      "onboard_time": 1768950617,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203989,
+      "num": 749646,
+      "word": "欧盟决定永久冻结俄罗斯资产",
+      "onboard_time": 1768950677,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 194936,
+      "num": 194936,
+      "word": "古装剧古味消失的原因",
+      "onboard_time": 1768945333,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 184808,
@@ -163,12 +203,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178151,
-      "num": 178151,
-      "word": "古装剧古味消失的原因",
-      "onboard_time": 1768945333,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 170875,
+      "num": 170875,
+      "word": "LV大秀",
+      "onboard_time": 1768951578,
+      "rank": 8,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 168851,
@@ -195,12 +235,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160036,
-      "num": 77097,
-      "word": "女生怀孕后体重暴涨45斤",
-      "onboard_time": 1768950738,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 152149,
+      "num": 152149,
+      "word": "野狗骨头",
+      "onboard_time": 1768951278,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 151137,
@@ -211,30 +251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 149786,
-      "num": 149786,
-      "word": "黑草莓售价高达300元一斤",
-      "onboard_time": 1768950617,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 135416,
-      "num": 135416,
-      "word": "欧盟决定永久冻结俄罗斯资产",
-      "onboard_time": 1768950677,
-      "rank": 6,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 123569,
-      "num": 85951,
-      "word": "大姐希望大冰支持自己孩子",
-      "onboard_time": 1768950917,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 119332,
       "num": 119332,
       "word": "U23国足若进决赛将战日本",
@@ -243,12 +259,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111208,
-      "num": 111208,
+      "raw_hot": 118905,
+      "num": 118905,
       "word": "U23国足决赛将对阵日本",
       "onboard_time": 1768933095,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114716,
+      "num": 114716,
+      "word": "野狗骨头感觉大事很妙",
+      "onboard_time": 1768950738,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 110112,
+      "num": 110112,
+      "word": "国色芳华重映收视第一",
+      "onboard_time": 1768950857,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 106724,
@@ -291,14 +323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 94357,
-      "num": 94357,
-      "word": "LV大秀",
-      "onboard_time": 1768951578,
-      "rank": 8,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 94033,
       "num": 118104,
       "word": "得闲谨制",
@@ -315,14 +339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 87425,
-      "num": 87425,
-      "word": "国色芳华重映收视第一",
-      "onboard_time": 1768950857,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 81369,
       "num": 146047,
       "word": "女子遭强奸被杀2次望判凶手死刑",
@@ -331,20 +347,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78727,
-      "num": 78727,
-      "word": "野狗骨头感觉大事很妙",
-      "onboard_time": 1768950738,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 76523,
       "num": 145885,
       "word": "10月大男婴被母亲扎数百针",
       "onboard_time": 1768916059,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76433,
+      "num": 76433,
+      "word": "越南红牌",
+      "onboard_time": 1768951457,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 75723,
@@ -371,12 +387,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 72295,
-      "num": 72295,
-      "word": "野狗骨头",
-      "onboard_time": 1768951278,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 72111,
+      "num": 145488,
+      "word": "肖战他瞅了我一眼",
+      "onboard_time": 1768913601,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 70666,
@@ -385,6 +401,14 @@
       "onboard_time": 1768912521,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70438,
+      "num": 66320,
+      "word": "平台回应卖家去世超半年仍能开店",
+      "onboard_time": 1768933154,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69028,
@@ -403,14 +427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68010,
-      "num": 145488,
-      "word": "肖战他瞅了我一眼",
-      "onboard_time": 1768913601,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 67003,
       "num": 145829,
       "word": "A股行情",
@@ -419,12 +435,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 66170,
-      "num": 66170,
-      "word": "平台回应卖家去世超半年仍能开店",
-      "onboard_time": 1768933154,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 66176,
+      "num": 66176,
+      "word": "减肥必须要记住的4个时间点",
+      "onboard_time": 1768951818,
+      "rank": 37,
+      "category": "运动健身"
     },
     {
       "raw_hot": 64725,
@@ -433,6 +449,22 @@
       "onboard_time": 1768951219,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 64651,
+      "num": 145847,
+      "word": "成龙第一次参加时装周的样子",
+      "onboard_time": 1768914741,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 64354,
+      "num": 64354,
+      "word": "王钰栋破门",
+      "onboard_time": 1768951877,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 63803,
@@ -451,20 +483,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 59623,
-      "num": 145847,
-      "word": "成龙第一次参加时装周的样子",
-      "onboard_time": 1768914741,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 57062,
-      "num": 57062,
-      "word": "越南红牌",
-      "onboard_time": 1768951457,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 58254,
+      "num": 58254,
+      "word": "欧美股市猛跌",
+      "onboard_time": 1768951818,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 56828,
@@ -483,20 +507,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 55974,
-      "num": 55974,
-      "word": "减肥必须要记住的4个时间点",
-      "onboard_time": 1768951818,
-      "rank": 37,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 54824,
-      "num": 54824,
-      "word": "欧美股市猛跌",
-      "onboard_time": 1768951818,
-      "rank": 38,
-      "category": "财经"
+      "raw_hot": 55680,
+      "num": 55680,
+      "word": "马克龙炮轰美国",
+      "onboard_time": 1768952419,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 54511,
@@ -587,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43786,
+      "num": 43786,
+      "word": "马年纪念钞二手市场加价200%",
+      "onboard_time": 1768952058,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 42659,
       "num": 42659,
       "word": "欧冠联赛",
@@ -659,12 +683,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29918,
-      "num": 522479,
+      "raw_hot": 32765,
+      "num": 595511,
       "word": "还有不到30天过年",
       "onboard_time": 1768913781,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31232,
+      "num": 151907,
+      "word": "U23国足主帅回应晋级决赛",
+      "onboard_time": 1768952179,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 28272,
