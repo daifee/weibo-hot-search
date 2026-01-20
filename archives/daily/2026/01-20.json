@@ -1,6 +1,6 @@
 {
   "startTime": 1768840768064,
-  "endTime": 1768902097768,
+  "endTime": 1768902956828,
   "band_list": [
     {
       "raw_hot": 2679279,
@@ -131,6 +131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 589132,
+      "num": 128001,
+      "word": "关晓彤造型师去哪儿进修了",
+      "onboard_time": 1768900461,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 583655,
       "num": 524991,
       "word": "原来真的有AB货啊",
@@ -259,12 +267,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 412323,
-      "num": 128001,
-      "word": "关晓彤造型师去哪儿进修了",
-      "onboard_time": 1768900461,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 403690,
+      "num": 129968,
+      "word": "哈佛女孩斥牢A说谎",
+      "onboard_time": 1768894941,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 399705,
@@ -281,6 +289,14 @@
       "onboard_time": 1768864937,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 395732,
+      "num": 804107,
+      "word": "巴特勒前十字韧带撕裂",
+      "onboard_time": 1768899320,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 395368,
@@ -315,14 +331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 380872,
-      "num": 801175,
-      "word": "巴特勒前十字韧带撕裂",
-      "onboard_time": 1768899320,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 376416,
       "num": 168810,
       "word": "曝iPhone18Pro外观",
@@ -347,14 +355,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 366678,
-      "num": 129968,
-      "word": "哈佛女孩斥牢A说谎",
-      "onboard_time": 1768894941,
-      "rank": 41,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 366083,
       "num": 366083,
       "word": "第一批回老家的已被物价惊呆了",
@@ -363,8 +363,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 356698,
+      "num": 123442,
+      "word": "施洛华道歉",
+      "onboard_time": 1768901841,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353862,
-      "num": 205627,
+      "num": 212890,
       "word": "贝克汉姆长子称婚礼是最屈辱的时刻",
       "onboard_time": 1768893980,
       "rank": 30,
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 327812,
-      "num": 199995,
+      "num": 270810,
       "word": "怪不得长辈喜欢大方的孩子",
       "onboard_time": 1768891340,
       "rank": 33,
@@ -457,6 +465,14 @@
       "onboard_time": 1768864577,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 293695,
+      "num": 293695,
+      "word": "中国乒协确认国家队教练员名单",
+      "onboard_time": 1768901841,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 289117,
@@ -531,20 +547,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260932,
+      "num": 260932,
+      "word": "特朗普发登上格陵兰岛图",
+      "onboard_time": 1768898660,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 256494,
       "num": 125821,
       "word": "人民币现金收付新规2月1日起施行",
       "onboard_time": 1768895542,
       "rank": 25,
       "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 251264,
-      "num": 251264,
-      "word": "特朗普发登上格陵兰岛图",
-      "onboard_time": 1768898660,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 250941,
@@ -619,12 +635,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220677,
+      "num": 220677,
+      "word": "骄阳似我",
+      "onboard_time": 1768900401,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220201,
       "num": 169353,
       "word": "牢A长得和头像一模一样啊",
       "onboard_time": 1768885102,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218808,
+      "num": 218808,
+      "word": "特朗普称因未获诺奖不再考虑和平",
+      "onboard_time": 1768899741,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 217876,
@@ -673,14 +705,6 @@
       "onboard_time": 1768879762,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 205618,
-      "num": 205618,
-      "word": "特朗普称因未获诺奖不再考虑和平",
-      "onboard_time": 1768899741,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 205202,
@@ -747,12 +771,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 196534,
-      "num": 122781,
-      "word": "施洛华道歉",
-      "onboard_time": 1768901841,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 197913,
+      "num": 197913,
+      "word": "小米超苹果成中国手机激活量第二",
+      "onboard_time": 1768902618,
+      "rank": 12,
+      "category": "数码"
     },
     {
       "raw_hot": 196001,
@@ -795,28 +819,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 181083,
-      "num": 181083,
-      "word": "骄阳似我",
-      "onboard_time": 1768900401,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 180822,
       "num": 130972,
       "word": "包文婧回应女儿撞脸吴映洁",
       "onboard_time": 1768829843,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 180026,
-      "num": 180026,
-      "word": "中国乒协确认国家队教练员名单",
-      "onboard_time": 1768901841,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 179944,
@@ -1139,12 +1147,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138785,
+      "num": 123413,
+      "word": "以为会长胖但巨减肥的习惯",
+      "onboard_time": 1768900040,
+      "rank": 30,
+      "category": "健康医疗,运动健身"
+    },
+    {
       "raw_hot": 138625,
       "num": 138625,
       "word": "卢昱晓代旭请二搭",
       "onboard_time": 1768883242,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135315,
+      "num": 123408,
+      "word": "父亲去世留30万贷款女儿被判不用还",
+      "onboard_time": 1768902201,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133291,
@@ -1169,14 +1193,6 @@
       "onboard_time": 1768868901,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 131138,
-      "num": 122265,
-      "word": "以为会长胖但巨减肥的习惯",
-      "onboard_time": 1768900040,
-      "rank": 30,
-      "category": "健康医疗,运动健身"
     },
     {
       "raw_hot": 130919,
@@ -1265,6 +1281,14 @@
       "onboard_time": 1768866798,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 122089,
+      "num": 122089,
+      "word": "怎么一下雪到处都是波司登",
+      "onboard_time": 1768896381,
+      "rank": 36,
+      "category": "时尚"
     },
     {
       "raw_hot": 121946,
@@ -1449,14 +1473,6 @@
       "onboard_time": 1768885401,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108796,
-      "num": 120131,
-      "word": "怎么一下雪到处都是波司登",
-      "onboard_time": 1768896381,
-      "rank": 36,
-      "category": "时尚"
     },
     {
       "raw_hot": 107816,
@@ -1683,6 +1699,14 @@
       "category": "体育,互联网"
     },
     {
+      "raw_hot": 96982,
+      "num": 96982,
+      "word": "徐冬冬come on啥呀come on",
+      "onboard_time": 1768902140,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96761,
       "num": 96761,
       "word": "商业航天板块杀跌",
@@ -1707,6 +1731,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 95249,
+      "num": 651003,
+      "word": "中国载人航天首次应急行动",
+      "onboard_time": 1768898721,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 95199,
       "num": 153692,
       "word": "嫣然天使基金将陆续暂停筹款项目",
@@ -1721,14 +1753,6 @@
       "onboard_time": 1768895303,
       "rank": 47,
       "category": "民生新闻,汽车"
-    },
-    {
-      "raw_hot": 93653,
-      "num": 631753,
-      "word": "中国载人航天首次应急行动",
-      "onboard_time": 1768898721,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 93394,
@@ -1803,12 +1827,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91319,
+      "num": 91319,
+      "word": "博主曝有人为买网红盒饭冒充工人",
+      "onboard_time": 1768900822,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91142,
       "num": 91142,
       "word": "16岁的韩昊霖",
       "onboard_time": 1768897761,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 91070,
+      "num": 91070,
+      "word": "X平台正式开源推荐算法",
+      "onboard_time": 1768902562,
+      "rank": 36,
+      "category": "海外新闻,互联网"
+    },
+    {
+      "raw_hot": 90878,
+      "num": 90878,
+      "word": "一种很新的解说方式",
+      "onboard_time": 1768902860,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 90548,
@@ -1825,6 +1873,14 @@
       "onboard_time": 1768876340,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 88496,
+      "num": 88496,
+      "word": "特斯拉中国上架199元TeslaBot摆件",
+      "onboard_time": 1768902081,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 88133,
@@ -1875,6 +1931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 84579,
+      "num": 84579,
+      "word": "地球正发生地磁暴",
+      "onboard_time": 1768902618,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84418,
       "num": 84418,
       "word": "张杰歌迷会为四川一村庄出资修路",
@@ -1921,6 +1985,22 @@
       "onboard_time": 1768872439,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 80811,
+      "num": 80811,
+      "word": "恨海情天的鼻祖她来了",
+      "onboard_time": 1768901960,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 80587,
+      "num": 80587,
+      "word": "许金花被执行死刑前见了近亲属",
+      "onboard_time": 1768902618,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80110,
@@ -2019,14 +2099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 74698,
-      "num": 74698,
-      "word": "博主曝有人为买网红盒饭冒充工人",
-      "onboard_time": 1768900822,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72987,
       "num": 72987,
       "word": "愿大寒安康",
@@ -2049,6 +2121,14 @@
       "onboard_time": 1768836500,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70792,
+      "num": 70792,
+      "word": "AL对战WBG",
+      "onboard_time": 1768902921,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 70767,
@@ -2076,7 +2156,7 @@
     },
     {
       "raw_hot": 69328,
-      "num": 79249,
+      "num": 88638,
       "word": "谁是喵娲娲",
       "onboard_time": 1768899920,
       "rank": 39,
@@ -2097,14 +2177,6 @@
       "onboard_time": 1768899920,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 67609,
-      "num": 67609,
-      "word": "恨海情天的鼻祖她来了",
-      "onboard_time": 1768901960,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 67163,
@@ -2257,6 +2329,14 @@
       "onboard_time": 1768815021,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 48217,
+      "num": 89099,
+      "word": "杨紫提名白玉兰那天下雪了",
+      "onboard_time": 1768901960,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 48203,
@@ -2427,14 +2507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25507,
-      "num": 86620,
-      "word": "杨紫提名白玉兰那天下雪了",
-      "onboard_time": 1768901960,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 25119,
       "num": 65475,
       "word": "王源嚼嚼者",
@@ -2472,6 +2544,14 @@
       "word": "牧民称近两月已有6匹马被狼群咬死",
       "onboard_time": 1768875019,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21693,
+      "num": 129281,
+      "word": "昭苏回应网友要求为贺娇龙立雕塑",
+      "onboard_time": 1768901719,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2577,14 +2657,6 @@
       "onboard_time": 1768820783,
       "rank": 45,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 13460,
-      "num": 129281,
-      "word": "昭苏回应网友要求为贺娇龙立雕塑",
-      "onboard_time": 1768901719,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13366,

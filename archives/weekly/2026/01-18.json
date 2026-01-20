@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768902097768,
+  "endTime": 1768902956828,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -595,6 +595,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 589132,
+      "num": 128001,
+      "word": "关晓彤造型师去哪儿进修了",
+      "onboard_time": 1768900461,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 584412,
       "num": 1093506,
       "word": "生命树",
@@ -1083,14 +1091,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 412323,
-      "num": 128001,
-      "word": "关晓彤造型师去哪儿进修了",
-      "onboard_time": 1768900461,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 412245,
       "num": 178014,
       "word": "鞠婧祎犯困都有人仿妆模仿了",
@@ -1128,6 +1128,14 @@
       "word": "美国童星疑闯红灯被拖行致死",
       "onboard_time": 1768743504,
       "rank": 39,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 403690,
+      "num": 129968,
+      "word": "哈佛女孩斥牢A说谎",
+      "onboard_time": 1768894941,
+      "rank": 41,
       "category": "海外新闻"
     },
     {
@@ -1169,6 +1177,14 @@
       "onboard_time": 1768740024,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 395732,
+      "num": 804107,
+      "word": "巴特勒前十字韧带撕裂",
+      "onboard_time": 1768899320,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 394967,
@@ -1235,14 +1251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 380872,
-      "num": 801175,
-      "word": "巴特勒前十字韧带撕裂",
-      "onboard_time": 1768899320,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 377077,
       "num": 377077,
       "word": "王鹤棣演唱会给我香迷糊了",
@@ -1297,14 +1305,6 @@
       "onboard_time": 1768729221,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 366678,
-      "num": 129968,
-      "word": "哈佛女孩斥牢A说谎",
-      "onboard_time": 1768894941,
-      "rank": 41,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 366348,
@@ -1379,8 +1379,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356698,
+      "num": 123442,
+      "word": "施洛华道歉",
+      "onboard_time": 1768901841,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353862,
-      "num": 205627,
+      "num": 212890,
       "word": "贝克汉姆长子称婚礼是最屈辱的时刻",
       "onboard_time": 1768893980,
       "rank": 30,
@@ -1516,7 +1524,7 @@
     },
     {
       "raw_hot": 327812,
-      "num": 199995,
+      "num": 270810,
       "word": "怪不得长辈喜欢大方的孩子",
       "onboard_time": 1768891340,
       "rank": 33,
@@ -1656,6 +1664,14 @@
       "word": "U23国足首进亚洲杯4强",
       "onboard_time": 1768659743,
       "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 293695,
+      "num": 293695,
+      "word": "中国乒协确认国家队教练员名单",
+      "onboard_time": 1768901841,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -1875,6 +1891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 260932,
+      "num": 260932,
+      "word": "特朗普发登上格陵兰岛图",
+      "onboard_time": 1768898660,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 260447,
       "num": 260447,
       "word": "来华免签变成来华就医",
@@ -1969,14 +1993,6 @@
       "onboard_time": 1768804881,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 251264,
-      "num": 251264,
-      "word": "特朗普发登上格陵兰岛图",
-      "onboard_time": 1768898660,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 250941,
@@ -2283,6 +2299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218808,
+      "num": 218808,
+      "word": "特朗普称因未获诺奖不再考虑和平",
+      "onboard_time": 1768899741,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 218504,
       "num": 218504,
       "word": "骂人也违法了最高可判三年",
@@ -2491,14 +2515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205618,
-      "num": 205618,
-      "word": "特朗普称因未获诺奖不再考虑和平",
-      "onboard_time": 1768899741,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 205202,
       "num": 185354,
       "word": "胡兵 央视门口最好认的明星",
@@ -2675,6 +2691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197913,
+      "num": 197913,
+      "word": "小米超苹果成中国手机激活量第二",
+      "onboard_time": 1768902618,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 197126,
       "num": 197126,
       "word": "吴京说镖人或是最后的武林盛宴",
@@ -2687,14 +2711,6 @@
       "num": 196937,
       "word": "你是周也那她是谁",
       "onboard_time": 1768732223,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 196534,
-      "num": 122781,
-      "word": "施洛华道歉",
-      "onboard_time": 1768901841,
       "rank": 29,
       "category": "艺人"
     },
@@ -2961,14 +2977,6 @@
       "onboard_time": 1768780459,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 180026,
-      "num": 180026,
-      "word": "中国乒协确认国家队教练员名单",
-      "onboard_time": 1768901841,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 179348,
@@ -3995,6 +4003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138785,
+      "num": 123413,
+      "word": "以为会长胖但巨减肥的习惯",
+      "onboard_time": 1768900040,
+      "rank": 30,
+      "category": "健康医疗,运动健身"
+    },
+    {
       "raw_hot": 138709,
       "num": 138709,
       "word": "吴京的刀马一个拔刀姿势对味了",
@@ -4048,6 +4064,14 @@
       "word": "女商人服刑7年后获无罪提国家赔偿",
       "onboard_time": 1768796722,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135315,
+      "num": 123408,
+      "word": "父亲去世留30万贷款女儿被判不用还",
+      "onboard_time": 1768902201,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -4185,14 +4209,6 @@
       "onboard_time": 1768649181,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 131138,
-      "num": 122265,
-      "word": "以为会长胖但巨减肥的习惯",
-      "onboard_time": 1768900040,
-      "rank": 30,
-      "category": "健康医疗,运动健身"
     },
     {
       "raw_hot": 130919,
@@ -4601,6 +4617,14 @@
       "onboard_time": 1768725921,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122089,
+      "num": 122089,
+      "word": "怎么一下雪到处都是波司登",
+      "onboard_time": 1768896381,
+      "rank": 36,
+      "category": "时尚"
     },
     {
       "raw_hot": 121946,
@@ -5281,14 +5305,6 @@
       "onboard_time": 1768885401,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108796,
-      "num": 120131,
-      "word": "怎么一下雪到处都是波司登",
-      "onboard_time": 1768896381,
-      "rank": 36,
-      "category": "时尚"
     },
     {
       "raw_hot": 108786,
@@ -6115,6 +6131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96982,
+      "num": 96982,
+      "word": "徐冬冬come on啥呀come on",
+      "onboard_time": 1768902140,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96761,
       "num": 96761,
       "word": "商业航天板块杀跌",
@@ -6193,6 +6217,14 @@
       "onboard_time": 1768729221,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95249,
+      "num": 651003,
+      "word": "中国载人航天首次应急行动",
+      "onboard_time": 1768898721,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 95199,
@@ -6337,14 +6369,6 @@
       "onboard_time": 1768834222,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93653,
-      "num": 631753,
-      "word": "中国载人航天首次应急行动",
-      "onboard_time": 1768898721,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 93624,
@@ -6563,6 +6587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91319,
+      "num": 91319,
+      "word": "博主曝有人为买网红盒饭冒充工人",
+      "onboard_time": 1768900822,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91238,
       "num": 154078,
       "word": "郑州积雪最深可达13厘米",
@@ -6579,12 +6611,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 91070,
+      "num": 91070,
+      "word": "X平台正式开源推荐算法",
+      "onboard_time": 1768902562,
+      "rank": 36,
+      "category": "海外新闻,互联网"
+    },
+    {
       "raw_hot": 91030,
       "num": 91030,
       "word": "突然的喜欢",
       "onboard_time": 1768806261,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90878,
+      "num": 90878,
+      "word": "一种很新的解说方式",
+      "onboard_time": 1768902860,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 90832,
@@ -6777,6 +6825,14 @@
       "onboard_time": 1768802002,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88496,
+      "num": 88496,
+      "word": "特斯拉中国上架199元TeslaBot摆件",
+      "onboard_time": 1768902081,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 88436,
@@ -7131,6 +7187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84579,
+      "num": 84579,
+      "word": "地球正发生地磁暴",
+      "onboard_time": 1768902618,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84418,
       "num": 84418,
       "word": "张杰歌迷会为四川一村庄出资修路",
@@ -7379,6 +7443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80811,
+      "num": 80811,
+      "word": "恨海情天的鼻祖她来了",
+      "onboard_time": 1768901960,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80743,
       "num": 332155,
       "word": "语文老师教体育一下5个金牌",
@@ -7393,6 +7465,14 @@
       "onboard_time": 1768749323,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 80587,
+      "num": 80587,
+      "word": "许金花被执行死刑前见了近亲属",
+      "onboard_time": 1768902618,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80348,
@@ -7763,14 +7843,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 74698,
-      "num": 74698,
-      "word": "博主曝有人为买网红盒饭冒充工人",
-      "onboard_time": 1768900822,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74690,
       "num": 74690,
       "word": "用空气炸锅烘佛手柑香薰",
@@ -7947,6 +8019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 70792,
+      "num": 70792,
+      "word": "AL对战WBG",
+      "onboard_time": 1768902921,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 70602,
       "num": 70602,
       "word": "邓佳鑫 真不客气你又不愿意了",
@@ -8020,7 +8100,7 @@
     },
     {
       "raw_hot": 69328,
-      "num": 79249,
+      "num": 88638,
       "word": "谁是喵娲娲",
       "onboard_time": 1768899920,
       "rank": 39,
@@ -8073,14 +8153,6 @@
       "onboard_time": 1768714760,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 67609,
-      "num": 67609,
-      "word": "恨海情天的鼻祖她来了",
-      "onboard_time": 1768901960,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 67599,
@@ -8731,6 +8803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 48217,
+      "num": 89099,
+      "word": "杨紫提名白玉兰那天下雪了",
+      "onboard_time": 1768901960,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 48203,
       "num": 65723,
       "word": "西班牙将举行3天官方哀悼",
@@ -9211,14 +9291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25507,
-      "num": 86620,
-      "word": "杨紫提名白玉兰那天下雪了",
-      "onboard_time": 1768901960,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 25405,
       "num": 98419,
       "word": "格陵兰八国联军已缺德",
@@ -9312,6 +9384,14 @@
       "word": "冰雪热力中的中国经济新脉动",
       "onboard_time": 1768655001,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21693,
+      "num": 129281,
+      "word": "昭苏回应网友要求为贺娇龙立雕塑",
+      "onboard_time": 1768901719,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -9528,14 +9608,6 @@
       "word": "知情者称柬埔寨部分电诈园区打开大门",
       "onboard_time": 1768836381,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13460,
-      "num": 129281,
-      "word": "昭苏回应网友要求为贺娇龙立雕塑",
-      "onboard_time": 1768901719,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
