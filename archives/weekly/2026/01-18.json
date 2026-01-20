@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768938211846,
+  "endTime": 1768940331482,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -10323,6 +10323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 36348,
+      "num": 36348,
+      "word": "中国足球队回应U23进决赛",
+      "onboard_time": 1768935194,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36289,
       "num": 179925,
       "word": "小伙为克服自卑在地铁上演讲",
@@ -10435,6 +10443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 31657,
+      "num": 31657,
+      "word": "U23国足决赛将对阵日本",
+      "onboard_time": 1768933095,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31049,
       "num": 50808,
       "word": "林诗栋王皓开心打桌球",
@@ -10465,14 +10481,6 @@
       "onboard_time": 1768770194,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 30258,
-      "num": 30258,
-      "word": "U23国足决赛将对阵日本",
-      "onboard_time": 1768933095,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 30137,
@@ -10577,14 +10585,6 @@
       "onboard_time": 1768854314,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26865,
-      "num": 26865,
-      "word": "中国足球队回应U23进决赛",
-      "onboard_time": 1768935194,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 26633,

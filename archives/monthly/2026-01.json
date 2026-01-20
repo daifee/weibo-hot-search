@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768938211846,
+  "endTime": 1768940331482,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -62643,6 +62643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 36348,
+      "num": 36348,
+      "word": "中国足球队回应U23进决赛",
+      "onboard_time": 1768935194,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36309,
       "num": 116105,
       "word": "童家堡",
@@ -63659,6 +63667,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 31657,
+      "num": 31657,
+      "word": "U23国足决赛将对阵日本",
+      "onboard_time": 1768933095,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31598,
       "num": 187272,
       "word": "蔡磊称拯救渐冻症患者不用回报",
@@ -63929,14 +63945,6 @@
       "onboard_time": 1768411997,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 30258,
-      "num": 30258,
-      "word": "U23国足决赛将对阵日本",
-      "onboard_time": 1768933095,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 30137,
@@ -64641,14 +64649,6 @@
       "onboard_time": 1768498815,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 26865,
-      "num": 26865,
-      "word": "中国足球队回应U23进决赛",
-      "onboard_time": 1768935194,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 26863,
