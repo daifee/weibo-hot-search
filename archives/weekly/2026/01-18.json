@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768919993989,
+  "endTime": 1768921068905,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -259,6 +259,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 843376,
+      "num": 593000,
+      "word": "黄金",
+      "onboard_time": 1768784541,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 838604,
       "num": 272785,
       "word": "oner败诉",
@@ -329,6 +337,14 @@
       "onboard_time": 1768792580,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 793786,
+      "num": 1127005,
+      "word": "轧戏大结局",
+      "onboard_time": 1768909941,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 772814,
@@ -417,14 +433,6 @@
       "onboard_time": 1768795822,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 699870,
-      "num": 1111979,
-      "word": "轧戏大结局",
-      "onboard_time": 1768909941,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 692920,
@@ -603,6 +611,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 610739,
+      "num": 798383,
+      "word": "初中生网购侵华日军信件初步鉴定为真",
+      "onboard_time": 1768916962,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 607681,
       "num": 735220,
       "word": "6元4寸蛋糕店因订单太多暂停营业",
@@ -689,6 +705,14 @@
       "onboard_time": 1768737801,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 573874,
+      "num": 367033,
+      "word": "李亚鹏公布直播收入",
+      "onboard_time": 1768918042,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 568844,
@@ -1411,14 +1435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 367033,
-      "num": 367033,
-      "word": "李亚鹏公布直播收入",
-      "onboard_time": 1768918042,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 366348,
       "num": 323744,
       "word": "何老师不小心口误华晨宇的反应",
@@ -1643,14 +1659,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 325945,
-      "num": 593000,
-      "word": "黄金",
-      "onboard_time": 1768784541,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 325141,
       "num": 178188,
       "word": "牢A说不是有国籍就是中国人",
@@ -1721,14 +1729,6 @@
       "onboard_time": 1768734261,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 310481,
-      "num": 612472,
-      "word": "初中生网购侵华日军信件初步鉴定为真",
-      "onboard_time": 1768916962,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 308219,
@@ -2387,6 +2387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228231,
+      "num": 199815,
+      "word": "10月大男婴被母亲扎数百针",
+      "onboard_time": 1768916059,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227021,
       "num": 227021,
       "word": "A股又突然跳水",
@@ -2707,6 +2715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206129,
+      "num": 203877,
+      "word": "轧戏编剧",
+      "onboard_time": 1768917502,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205937,
       "num": 205937,
       "word": "镖人官宣阵容",
@@ -2753,14 +2769,6 @@
       "onboard_time": 1768712299,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203877,
-      "num": 203877,
-      "word": "轧戏编剧",
-      "onboard_time": 1768917502,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 203348,
@@ -2889,14 +2897,6 @@
       "onboard_time": 1768880903,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199815,
-      "num": 199815,
-      "word": "10月大男婴被母亲扎数百针",
-      "onboard_time": 1768916059,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199593,
@@ -3363,6 +3363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173107,
+      "num": 594530,
+      "word": "轧戏官配",
+      "onboard_time": 1768918760,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172962,
       "num": 172962,
       "word": "小贝长子曝母亲安插前女友破坏婚姻",
@@ -3795,6 +3803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 154164,
+      "num": 584924,
+      "word": "慕胥辞",
+      "onboard_time": 1768918102,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154037,
       "num": 154037,
       "word": "2025国民经济运行情况",
@@ -3969,14 +3985,6 @@
       "onboard_time": 1768884502,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 149327,
-      "num": 594530,
-      "word": "轧戏官配",
-      "onboard_time": 1768918760,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 149129,
@@ -4475,20 +4483,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134219,
-      "num": 584924,
-      "word": "慕胥辞",
-      "onboard_time": 1768918102,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134099,
       "num": 218902,
       "word": "6人消费19元顾客道歉称赔1元",
       "onboard_time": 1768809381,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133862,
+      "num": 133862,
+      "word": "裴轸 意难平",
+      "onboard_time": 1768920321,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 133512,
@@ -5043,6 +5051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121771,
+      "num": 109103,
+      "word": "U23国足vs越南首发",
+      "onboard_time": 1768920440,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121627,
       "num": 121627,
       "word": "向出轨丈夫道歉女子称自己多次住院",
@@ -5121,6 +5137,14 @@
       "onboard_time": 1768883482,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 119937,
+      "num": 164223,
+      "word": "12岁女孩被3人性侵陷入抑郁",
+      "onboard_time": 1768915282,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119887,
@@ -6035,6 +6059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105488,
+      "num": 105488,
+      "word": "黄金涨飞了",
+      "onboard_time": 1768919961,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 105350,
       "num": 105350,
       "word": "豆包预测尚界Z7或成SU7最强对手",
@@ -6089,14 +6121,6 @@
       "onboard_time": 1768885160,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 104898,
-      "num": 164223,
-      "word": "12岁女孩被3人性侵陷入抑郁",
-      "onboard_time": 1768915282,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104878,
@@ -6715,6 +6739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96392,
+      "num": 126278,
+      "word": "TheShy谈iG",
+      "onboard_time": 1768920683,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 96274,
       "num": 190753,
       "word": "王楚钦的思归与坚守",
@@ -7001,6 +7033,14 @@
       "onboard_time": 1768726101,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92917,
+      "num": 92917,
+      "word": "菲公务机非法闯入中国黄岩岛领空",
+      "onboard_time": 1768920560,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 92910,
@@ -7347,6 +7387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89784,
+      "num": 89784,
+      "word": "小狗不知道自己睡在废品站旁边",
+      "onboard_time": 1768919541,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 89598,
       "num": 89598,
       "word": "金银大涨后下一个会是铜吗",
@@ -7449,6 +7497,14 @@
       "onboard_time": 1768802002,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88532,
+      "num": 88532,
+      "word": "今天将是杭州最干净的一天",
+      "onboard_time": 1768920683,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88496,
@@ -7651,14 +7707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86827,
-      "num": 84806,
-      "word": "黄金涨飞了",
-      "onboard_time": 1768919961,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 86816,
       "num": 86816,
       "word": "云初令",
@@ -7761,6 +7809,14 @@
       "onboard_time": 1768797323,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 85794,
+      "num": 85794,
+      "word": "陈星旭说王一博表情包很有意思",
+      "onboard_time": 1768920382,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 85766,
@@ -8051,6 +8107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82694,
+      "num": 82694,
+      "word": "永辉预计2025年净亏损21.4亿",
+      "onboard_time": 1768918402,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 82635,
       "num": 82635,
       "word": "Tabe不满意野辅的发挥",
@@ -8080,6 +8144,14 @@
       "word": "邢菲黑长直冷御感",
       "onboard_time": 1768724301,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 82353,
+      "num": 82353,
+      "word": "卢昱晓回应跪下和粉丝合照",
+      "onboard_time": 1768920922,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -8419,14 +8491,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 77519,
-      "num": 80604,
-      "word": "永辉预计2025年净亏损21.4亿",
-      "onboard_time": 1768918402,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
       "raw_hot": 77511,
       "num": 83454,
       "word": "最后两只旅日大熊猫27日离开日本",
@@ -8443,6 +8507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 77279,
+      "num": 77279,
+      "word": "樊振东莫雷加德让小弗忙到飞起",
+      "onboard_time": 1768920143,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77104,
       "num": 91420,
       "word": "强奸幼女被判8年医生父亲是检察官",
@@ -8456,6 +8528,14 @@
       "word": "爱德华兹55分生涯新高",
       "onboard_time": 1768711820,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 77063,
+      "num": 76885,
+      "word": "U23亚洲杯日本晋级决赛",
+      "onboard_time": 1768920802,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -8697,14 +8777,6 @@
       "onboard_time": 1768717700,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 73801,
-      "num": 78520,
-      "word": "小狗不知道自己睡在废品站旁边",
-      "onboard_time": 1768919541,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 73670,
@@ -9628,7 +9700,7 @@
     },
     {
       "raw_hot": 50430,
-      "num": 114702,
+      "num": 140334,
       "word": "解放军警告驱离菲律宾公务机",
       "onboard_time": 1768919841,
       "rank": 30,

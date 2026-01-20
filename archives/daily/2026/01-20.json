@@ -1,6 +1,6 @@
 {
   "startTime": 1768840768064,
-  "endTime": 1768919993989,
+  "endTime": 1768921068905,
   "band_list": [
     {
       "raw_hot": 2679279,
@@ -91,6 +91,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 843376,
+      "num": 593000,
+      "word": "黄金",
+      "onboard_time": 1768919900,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 793786,
+      "num": 1127005,
+      "word": "轧戏大结局",
+      "onboard_time": 1768909941,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 762911,
       "num": 646826,
       "word": "香港发生离奇夺命车祸",
@@ -113,14 +129,6 @@
       "onboard_time": 1768913421,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 699870,
-      "num": 1111979,
-      "word": "轧戏大结局",
-      "onboard_time": 1768909941,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 683201,
@@ -179,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 610739,
+      "num": 798383,
+      "word": "初中生网购侵华日军信件初步鉴定为真",
+      "onboard_time": 1768916962,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 589132,
       "num": 168764,
       "word": "关晓彤造型师去哪儿进修了",
@@ -193,6 +209,14 @@
       "onboard_time": 1768867459,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 573874,
+      "num": 367033,
+      "word": "李亚鹏公布直播收入",
+      "onboard_time": 1768918042,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 568844,
@@ -467,14 +491,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 367033,
-      "num": 367033,
-      "word": "李亚鹏公布直播收入",
-      "onboard_time": 1768918042,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 366083,
       "num": 366083,
       "word": "第一批回老家的已被物价惊呆了",
@@ -577,14 +593,6 @@
       "onboard_time": 1768910603,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 310481,
-      "num": 612472,
-      "word": "初中生网购侵华日军信件初步鉴定为真",
-      "onboard_time": 1768916962,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 308219,
@@ -819,6 +827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 228231,
+      "num": 199815,
+      "word": "10月大男婴被母亲扎数百针",
+      "onboard_time": 1768916059,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227021,
       "num": 227021,
       "word": "A股又突然跳水",
@@ -923,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206129,
+      "num": 203877,
+      "word": "轧戏编剧",
+      "onboard_time": 1768917502,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205756,
       "num": 155863,
       "word": "轧戏云包场加码没有陈星旭",
@@ -945,14 +969,6 @@
       "onboard_time": 1768891101,
       "rank": 11,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 203877,
-      "num": 203877,
-      "word": "轧戏编剧",
-      "onboard_time": 1768917502,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 203348,
@@ -1001,14 +1017,6 @@
       "onboard_time": 1768880903,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199815,
-      "num": 199815,
-      "word": "10月大男婴被母亲扎数百针",
-      "onboard_time": 1768916059,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199306,
@@ -1137,6 +1145,14 @@
       "onboard_time": 1768914260,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 173107,
+      "num": 594530,
+      "word": "轧戏官配",
+      "onboard_time": 1768918760,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 172962,
@@ -1323,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154164,
+      "num": 584924,
+      "word": "慕胥辞",
+      "onboard_time": 1768918102,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152980,
       "num": 152980,
       "word": "Faker被冻的下播",
@@ -1401,14 +1425,6 @@
       "onboard_time": 1768884502,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 149327,
-      "num": 594530,
-      "word": "轧戏官配",
-      "onboard_time": 1768918760,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 148205,
@@ -1547,19 +1563,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135213,
-      "num": 593000,
-      "word": "黄金",
-      "onboard_time": 1768919900,
-      "rank": 8,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 134219,
-      "num": 584924,
-      "word": "慕胥辞",
-      "onboard_time": 1768918102,
-      "rank": 9,
+      "raw_hot": 133862,
+      "num": 133862,
+      "word": "裴轸 意难平",
+      "onboard_time": 1768920321,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -1723,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121771,
+      "num": 109103,
+      "word": "U23国足vs越南首发",
+      "onboard_time": 1768920440,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121099,
       "num": 112802,
       "word": "爸爸让女儿宣传公司",
@@ -1745,6 +1761,14 @@
       "onboard_time": 1768883482,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 119937,
+      "num": 164223,
+      "word": "12岁女孩被3人性侵陷入抑郁",
+      "onboard_time": 1768915282,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118963,
@@ -2067,6 +2091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105488,
+      "num": 105488,
+      "word": "黄金涨飞了",
+      "onboard_time": 1768919961,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 105350,
       "num": 105350,
       "word": "豆包预测尚界Z7或成SU7最强对手",
@@ -2089,14 +2121,6 @@
       "onboard_time": 1768885160,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 104898,
-      "num": 164223,
-      "word": "12岁女孩被3人性侵陷入抑郁",
-      "onboard_time": 1768915282,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104809,
@@ -2307,6 +2331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96392,
+      "num": 126278,
+      "word": "TheShy谈iG",
+      "onboard_time": 1768920683,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 95741,
       "num": 130574,
       "word": "成都警方通报16岁男子殴打5人",
@@ -2353,6 +2385,14 @@
       "onboard_time": 1768867339,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92917,
+      "num": 92917,
+      "word": "菲公务机非法闯入中国黄岩岛领空",
+      "onboard_time": 1768920560,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 92761,
@@ -2515,12 +2555,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89784,
+      "num": 89784,
+      "word": "小狗不知道自己睡在废品站旁边",
+      "onboard_time": 1768919541,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 89098,
       "num": 89098,
       "word": "易点天下跌停",
       "onboard_time": 1768876340,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 88532,
+      "num": 88532,
+      "word": "今天将是杭州最干净的一天",
+      "onboard_time": 1768920683,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88496,
@@ -2611,20 +2667,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 86827,
-      "num": 84806,
-      "word": "黄金涨飞了",
-      "onboard_time": 1768919961,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 86360,
       "num": 86360,
       "word": "这才是我该看的男女主和好速度",
       "onboard_time": 1768913901,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85794,
+      "num": 85794,
+      "word": "陈星旭说王一博表情包很有意思",
+      "onboard_time": 1768920382,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 85647,
@@ -2723,12 +2779,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82694,
+      "num": 82694,
+      "word": "永辉预计2025年净亏损21.4亿",
+      "onboard_time": 1768918402,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 82606,
       "num": 82606,
       "word": "孙颖莎入选国家一队9周年",
       "onboard_time": 1768873578,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82353,
+      "num": 82353,
+      "word": "卢昱晓回应跪下和粉丝合照",
+      "onboard_time": 1768920922,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 82335,
@@ -2835,12 +2907,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 77519,
-      "num": 80604,
-      "word": "永辉预计2025年净亏损21.4亿",
-      "onboard_time": 1768918402,
-      "rank": 42,
-      "category": "财经"
+      "raw_hot": 77279,
+      "num": 77279,
+      "word": "樊振东莫雷加德让小弗忙到飞起",
+      "onboard_time": 1768920143,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 77063,
+      "num": 76885,
+      "word": "U23亚洲杯日本晋级决赛",
+      "onboard_time": 1768920802,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 76512,
@@ -2928,14 +3008,6 @@
       "word": "红色在过年这块没有对手",
       "onboard_time": 1768917622,
       "rank": 49,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 73801,
-      "num": 78520,
-      "word": "小狗不知道自己睡在废品站旁边",
-      "onboard_time": 1768919541,
-      "rank": 46,
       "category": "幽默"
     },
     {
@@ -3196,7 +3268,7 @@
     },
     {
       "raw_hot": 50430,
-      "num": 114702,
+      "num": 140334,
       "word": "解放军警告驱离菲律宾公务机",
       "onboard_time": 1768919841,
       "rank": 30,
