@@ -1,6 +1,6 @@
 {
   "startTime": 1768840768064,
-  "endTime": 1768921068905,
+  "endTime": 1768923571173,
   "band_list": [
     {
       "raw_hot": 2679279,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 610739,
-      "num": 798383,
+      "num": 814264,
       "word": "初中生网购侵华日军信件初步鉴定为真",
       "onboard_time": 1768916962,
       "rank": 28,
@@ -283,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 486944,
+      "num": 192552,
+      "word": "卢昱晓回应跪下和粉丝合照",
+      "onboard_time": 1768920922,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 478267,
       "num": 160073,
       "word": "12岁女孩被虐致死案继母被执行死刑",
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 459240,
-      "num": 154370,
+      "num": 161354,
       "word": "VOGUE发了王橹杰穆祉丞",
       "onboard_time": 1768906702,
       "rank": 20,
@@ -571,6 +579,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 325716,
+      "num": 325716,
+      "word": "U23国足vs越南",
+      "onboard_time": 1768922002,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 325141,
       "num": 178188,
       "word": "牢A说不是有国籍就是中国人",
@@ -617,6 +633,14 @@
       "onboard_time": 1768824741,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 299909,
+      "num": 191934,
+      "word": "宋威龙张婧仪野狗骨头repo",
+      "onboard_time": 1768922600,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 295522,
@@ -793,6 +817,14 @@
       "onboard_time": 1768913601,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237344,
+      "num": 584924,
+      "word": "慕胥辞",
+      "onboard_time": 1768918102,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 235524,
@@ -1035,12 +1067,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 196039,
+      "num": 163334,
+      "word": "黄金涨飞了",
+      "onboard_time": 1768919961,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 195463,
       "num": 172677,
       "word": "阿爆哭诉自己孤独",
       "onboard_time": 1768881382,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 195456,
+      "num": 195456,
+      "word": "金价",
+      "onboard_time": 1768922180,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 191636,
@@ -1084,7 +1132,7 @@
     },
     {
       "raw_hot": 184816,
-      "num": 184816,
+      "num": 195307,
       "word": "U23亚洲杯",
       "onboard_time": 1768919483,
       "rank": 24,
@@ -1131,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175498,
+      "num": 594530,
+      "word": "轧戏官配",
+      "onboard_time": 1768918760,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175399,
       "num": 157565,
       "word": "鞠婧祎海边落日九宫格",
@@ -1145,14 +1201,6 @@
       "onboard_time": 1768914260,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 173107,
-      "num": 594530,
-      "word": "轧戏官配",
-      "onboard_time": 1768918760,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 172962,
@@ -1339,14 +1387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154164,
-      "num": 584924,
-      "word": "慕胥辞",
-      "onboard_time": 1768918102,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152980,
       "num": 152980,
       "word": "Faker被冻的下播",
@@ -1385,6 +1425,14 @@
       "onboard_time": 1768887081,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151245,
+      "num": 194480,
+      "word": "今天将是杭州最干净的一天",
+      "onboard_time": 1768920683,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150548,
@@ -1548,7 +1596,7 @@
     },
     {
       "raw_hot": 137765,
-      "num": 101266,
+      "num": 159743,
       "word": "时团不是时团的时候路人缘最好",
       "onboard_time": 1768908081,
       "rank": 33,
@@ -1564,7 +1612,7 @@
     },
     {
       "raw_hot": 133862,
-      "num": 133862,
+      "num": 162042,
       "word": "裴轸 意难平",
       "onboard_time": 1768920321,
       "rank": 17,
@@ -1713,6 +1761,14 @@
       "onboard_time": 1768909221,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123149,
+      "num": 162228,
+      "word": "贝克汉姆被儿子长文控诉后首现身",
+      "onboard_time": 1768921641,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 122089,
@@ -2091,20 +2147,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 105488,
-      "num": 105488,
-      "word": "黄金涨飞了",
-      "onboard_time": 1768919961,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 105350,
       "num": 105350,
       "word": "豆包预测尚界Z7或成SU7最强对手",
       "onboard_time": 1768881861,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 105088,
+      "num": 162703,
+      "word": "2025爱奇艺国际版热播华语剧集TOP10",
+      "onboard_time": 1768923140,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 105031,
@@ -2227,6 +2283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99309,
+      "num": 162547,
+      "word": "小狗不知道自己睡在废品站旁边",
+      "onboard_time": 1768919541,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99231,
       "num": 130899,
       "word": "俄罗斯一地居民挖通积雪才能回家",
@@ -2284,7 +2348,7 @@
     },
     {
       "raw_hot": 97971,
-      "num": 97971,
+      "num": 160376,
       "word": "停用手机号被他人启用登上了自己微信",
       "onboard_time": 1768915461,
       "rank": 45,
@@ -2308,7 +2372,7 @@
     },
     {
       "raw_hot": 96820,
-      "num": 96820,
+      "num": 161549,
       "word": "演员杨紫的含金量还在上升",
       "onboard_time": 1768917741,
       "rank": 34,
@@ -2332,11 +2396,19 @@
     },
     {
       "raw_hot": 96392,
-      "num": 126278,
+      "num": 160504,
       "word": "TheShy谈iG",
       "onboard_time": 1768920683,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 95852,
+      "num": 162095,
+      "word": "轧戏大结局亲了七次",
+      "onboard_time": 1768921280,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 95741,
@@ -2555,28 +2627,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 89784,
-      "num": 89784,
-      "word": "小狗不知道自己睡在废品站旁边",
-      "onboard_time": 1768919541,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 89098,
       "num": 89098,
       "word": "易点天下跌停",
       "onboard_time": 1768876340,
       "rank": 37,
       "category": "财经"
-    },
-    {
-      "raw_hot": 88532,
-      "num": 88532,
-      "word": "今天将是杭州最干净的一天",
-      "onboard_time": 1768920683,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88496,
@@ -2676,7 +2732,7 @@
     },
     {
       "raw_hot": 85794,
-      "num": 85794,
+      "num": 161700,
       "word": "陈星旭说王一博表情包很有意思",
       "onboard_time": 1768920382,
       "rank": 37,
@@ -2795,14 +2851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82353,
-      "num": 82353,
-      "word": "卢昱晓回应跪下和粉丝合照",
-      "onboard_time": 1768920922,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 82335,
       "num": 82335,
       "word": "南京一车主雪天把车开上墙",
@@ -2908,7 +2956,7 @@
     },
     {
       "raw_hot": 77279,
-      "num": 77279,
+      "num": 160235,
       "word": "樊振东莫雷加德让小弗忙到飞起",
       "onboard_time": 1768920143,
       "rank": 44,
@@ -3107,6 +3155,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68822,
+      "num": 161479,
+      "word": "贝克汉姆父子决裂始末",
+      "onboard_time": 1768922002,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68569,
+      "num": 161202,
+      "word": "快乐老友记你是真听劝",
+      "onboard_time": 1768921280,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68138,
       "num": 68138,
       "word": "黄金白银疯涨原因",
@@ -3115,11 +3179,35 @@
       "category": "财经"
     },
     {
+      "raw_hot": 67825,
+      "num": 161063,
+      "word": "王钰栋拜合拉木替补",
+      "onboard_time": 1768922480,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 67736,
+      "num": 160717,
+      "word": "BLG冲击全球先锋赛",
+      "onboard_time": 1768921641,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 67163,
       "num": 130018,
       "word": "嫣然儿医医护人员发声",
       "onboard_time": 1768831641,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67038,
+      "num": 160644,
+      "word": "两女生被狗追咬其中一人被咬断跟腱",
+      "onboard_time": 1768918702,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -3193,6 +3281,14 @@
       "onboard_time": 1768908260,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 59191,
+      "num": 159974,
+      "word": "金价波动",
+      "onboard_time": 1768921402,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 58304,

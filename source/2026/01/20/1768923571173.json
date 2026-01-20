@@ -1,0 +1,410 @@
+{
+  "runTime": 1768923571173,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 600871,
+        "num": 1096139,
+        "word": "轧戏大结局",
+        "onboard_time": 1768909941,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 531914,
+        "num": 814264,
+        "word": "初中生网购侵华日军信件初步鉴定为真",
+        "onboard_time": 1768916962,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28014,
+        "num": 612183,
+        "word": "还有不到30天过年",
+        "onboard_time": 1768913781,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325716,
+        "num": 325716,
+        "word": "U23国足vs越南",
+        "onboard_time": 1768922002,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237344,
+        "num": 237344,
+        "word": "慕胥辞",
+        "onboard_time": 1768918102,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195456,
+        "num": 195456,
+        "word": "金价",
+        "onboard_time": 1768922180,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 159949,
+        "num": 195307,
+        "word": "U23亚洲杯",
+        "onboard_time": 1768919483,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151245,
+        "num": 194480,
+        "word": "今天将是杭州最干净的一天",
+        "onboard_time": 1768920683,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143365,
+        "num": 194104,
+        "word": "中国乒协确认国家队教练员名单",
+        "onboard_time": 1768901841,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108312,
+        "num": 193380,
+        "word": "解放军演练斩首行动台独慌了",
+        "onboard_time": 1768912700,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 548011,
+        "num": 193201,
+        "word": "知情人称贝克汉姆夫妇深受打击",
+        "onboard_time": 1768916001,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 486944,
+        "num": 192552,
+        "word": "卢昱晓回应跪下和粉丝合照",
+        "onboard_time": 1768920922,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299909,
+        "num": 191934,
+        "word": "宋威龙张婧仪野狗骨头repo",
+        "onboard_time": 1768922600,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259720,
+        "num": 191608,
+        "word": "女子洗澡忘关水阀将小区变溜冰场",
+        "onboard_time": 1768892842,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191155,
+        "num": 191155,
+        "word": "向涵之瘦下来好像钟楚曦",
+        "onboard_time": 1768912521,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164333,
+        "num": 164333,
+        "word": "成龙第一次参加时装周的样子",
+        "onboard_time": 1768914741,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 124218,
+        "num": 164256,
+        "word": "女子遭强奸被杀2次望判凶手死刑",
+        "onboard_time": 1768907481,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146830,
+        "num": 164069,
+        "word": "何宣林回应",
+        "onboard_time": 1768916602,
+        "rank": 17,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 110757,
+        "num": 163943,
+        "word": "轧戏编剧",
+        "onboard_time": 1768917502,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79973,
+        "num": 163852,
+        "word": "人类对牛奶的开发不足1%",
+        "onboard_time": 1768903700,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 740135,
+        "num": 163694,
+        "word": "黄金",
+        "onboard_time": 1768919900,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 270764,
+        "num": 163595,
+        "word": "代旭演技",
+        "onboard_time": 1768914562,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200355,
+        "num": 163373,
+        "word": "10月大男婴被母亲扎数百针",
+        "onboard_time": 1768916059,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196039,
+        "num": 163334,
+        "word": "黄金涨飞了",
+        "onboard_time": 1768919961,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 175498,
+        "num": 163164,
+        "word": "轧戏官配",
+        "onboard_time": 1768918760,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117750,
+        "num": 162958,
+        "word": "这双拖鞋救过Henry的命吗",
+        "onboard_time": 1768918822,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104452,
+        "num": 162876,
+        "word": "12岁女孩被3人性侵陷入抑郁",
+        "onboard_time": 1768915282,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105088,
+        "num": 162703,
+        "word": "2025爱奇艺国际版热播华语剧集TOP10",
+        "onboard_time": 1768923140,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99309,
+        "num": 162547,
+        "word": "小狗不知道自己睡在废品站旁边",
+        "onboard_time": 1768919541,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87571,
+        "num": 162446,
+        "word": "腾讯力挺陈星旭",
+        "onboard_time": 1768910603,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123149,
+        "num": 162228,
+        "word": "贝克汉姆被儿子长文控诉后首现身",
+        "onboard_time": 1768921641,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95852,
+        "num": 162095,
+        "word": "轧戏大结局亲了七次",
+        "onboard_time": 1768921280,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85434,
+        "num": 162042,
+        "word": "裴轸 意难平",
+        "onboard_time": 1768920321,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75373,
+        "num": 161886,
+        "word": "极光",
+        "onboard_time": 1768917860,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75976,
+        "num": 161700,
+        "word": "陈星旭说王一博表情包很有意思",
+        "onboard_time": 1768920382,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74582,
+        "num": 161549,
+        "word": "演员杨紫的含金量还在上升",
+        "onboard_time": 1768917741,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68822,
+        "num": 161479,
+        "word": "贝克汉姆父子决裂始末",
+        "onboard_time": 1768922002,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71114,
+        "num": 161354,
+        "word": "VOGUE发了王橹杰穆祉丞",
+        "onboard_time": 1768906702,
+        "rank": 37,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 68569,
+        "num": 161202,
+        "word": "快乐老友记你是真听劝",
+        "onboard_time": 1768921280,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67825,
+        "num": 161063,
+        "word": "王钰栋拜合拉木替补",
+        "onboard_time": 1768922480,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68543,
+        "num": 160870,
+        "word": "肖战他瞅了我一眼",
+        "onboard_time": 1768913601,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67736,
+        "num": 160717,
+        "word": "BLG冲击全球先锋赛",
+        "onboard_time": 1768921641,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 67038,
+        "num": 160644,
+        "word": "两女生被狗追咬其中一人被咬断跟腱",
+        "onboard_time": 1768918702,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63807,
+        "num": 160504,
+        "word": "TheShy谈iG",
+        "onboard_time": 1768920683,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62599,
+        "num": 160376,
+        "word": "停用手机号被他人启用登上了自己微信",
+        "onboard_time": 1768915461,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60386,
+        "num": 160235,
+        "word": "樊振东莫雷加德让小弗忙到飞起",
+        "onboard_time": 1768920143,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59191,
+        "num": 159974,
+        "word": "金价波动",
+        "onboard_time": 1768921402,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 54262,
+        "num": 159892,
+        "word": "关晓彤造型师去哪儿进修了",
+        "onboard_time": 1768900461,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49316,
+        "num": 159743,
+        "word": "时团不是时团的时候路人缘最好",
+        "onboard_time": 1768908081,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45621,
+        "num": 159568,
+        "word": "BLG战胜IG",
+        "onboard_time": 1768914260,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#十五五开局之年第一课#"
+    }
+  }
+}
