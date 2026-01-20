@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768944615027,
+  "endTime": 1768945463784,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -62971,6 +62971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34888,
+      "num": 34888,
+      "word": "U23国足决赛将对阵日本",
+      "onboard_time": 1768933095,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34864,
       "num": 94862,
       "word": "娜扎侯明昊 人鬼情未了",
@@ -63617,14 +63625,6 @@
       "onboard_time": 1768237757,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 31851,
-      "num": 31851,
-      "word": "U23国足决赛将对阵日本",
-      "onboard_time": 1768933095,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 31820,
@@ -67225,6 +67225,14 @@
       "onboard_time": 1768304362,
       "rank": 39,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 12135,
+      "num": 18839,
+      "word": "古装剧古味消失的原因",
+      "onboard_time": 1768945333,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 12088,

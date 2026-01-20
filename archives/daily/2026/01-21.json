@@ -1,6 +1,6 @@
 {
   "startTime": 1768927470754,
-  "endTime": 1768944615027,
+  "endTime": 1768945463784,
   "band_list": [
     {
       "raw_hot": 2487537,
@@ -515,19 +515,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34888,
+      "num": 34888,
+      "word": "U23国足决赛将对阵日本",
+      "onboard_time": 1768933095,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33617,
       "num": 33617,
       "word": "一人一句为U23国足加油",
       "onboard_time": 1768933035,
       "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 31851,
-      "num": 31851,
-      "word": "U23国足决赛将对阵日本",
-      "onboard_time": 1768933095,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -595,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 16419,
+      "num": 18953,
+      "word": "两京十五日",
+      "onboard_time": 1768910842,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 16227,
       "num": 17955,
       "word": "小城大事",
@@ -603,11 +611,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15557,
-      "num": 17954,
-      "word": "两京十五日",
-      "onboard_time": 1768910842,
-      "rank": 48,
+      "raw_hot": 12135,
+      "num": 18839,
+      "word": "古装剧古味消失的原因",
+      "onboard_time": 1768945333,
+      "rank": 49,
       "category": "剧集"
     }
   ],

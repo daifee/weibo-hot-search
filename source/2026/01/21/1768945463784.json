@@ -1,0 +1,410 @@
+{
+  "runTime": 1768945463784,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 219955,
+        "num": 219955,
+        "word": "U23国足3比0越南U23",
+        "onboard_time": 1768930637,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53900,
+        "num": 161620,
+        "word": "大量外国网友自称精神中国人",
+        "onboard_time": 1768924461,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12972,
+        "num": 124732,
+        "word": "还有不到30天过年",
+        "onboard_time": 1768913781,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34888,
+        "num": 34888,
+        "word": "U23国足决赛将对阵日本",
+        "onboard_time": 1768933095,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33426,
+        "num": 33426,
+        "word": "u23",
+        "onboard_time": 1768930637,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102443,
+        "num": 33265,
+        "word": "儿子怒斥癌症妈妈碰瓷为何让人共情",
+        "onboard_time": 1768925958,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32409,
+        "num": 32409,
+        "word": "得闲谨制",
+        "onboard_time": 1768927939,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30911,
+        "num": 30911,
+        "word": "U23国足计划有变准备争冠",
+        "onboard_time": 1768932975,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27370,
+        "num": 27370,
+        "word": "美财长就斩杀线甩锅拜登",
+        "onboard_time": 1768924579,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26832,
+        "num": 26832,
+        "word": "U23国足首次进入亚洲杯决赛",
+        "onboard_time": 1768930876,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66227,
+        "num": 26758,
+        "word": "曝短剧演员片酬",
+        "onboard_time": 1768926558,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65021,
+        "num": 25734,
+        "word": "特朗普公开马克龙给他的私信",
+        "onboard_time": 1768930578,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61904,
+        "num": 25442,
+        "word": "美国政府首次回应斩杀线困境",
+        "onboard_time": 1768924579,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42622,
+        "num": 24660,
+        "word": "卢昱晓回应跪下和粉丝合照",
+        "onboard_time": 1768920922,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33216,
+        "num": 24159,
+        "word": "贝克汉姆被儿子长文控诉后首现身",
+        "onboard_time": 1768921641,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29190,
+        "num": 23190,
+        "word": "知情人称贝克汉姆夫妇深受打击",
+        "onboard_time": 1768916001,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23169,
+        "num": 23169,
+        "word": "鞠婧祎掌管侧颜的神",
+        "onboard_time": 1768924220,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22932,
+        "num": 22932,
+        "word": "女子遭强奸被杀2次望判凶手死刑",
+        "onboard_time": 1768907481,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22896,
+        "num": 22896,
+        "word": "u23国足零失球进决赛",
+        "onboard_time": 1768932975,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22341,
+        "num": 22341,
+        "word": "成龙第一次参加时装周的样子",
+        "onboard_time": 1768914741,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 38987,
+        "num": 22338,
+        "word": "3人性侵12岁女孩家属控告民警渎职",
+        "onboard_time": 1768926858,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32977,
+        "num": 22321,
+        "word": "黄金",
+        "onboard_time": 1768919900,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 29704,
+        "num": 22273,
+        "word": "金价",
+        "onboard_time": 1768922180,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 22184,
+        "num": 22184,
+        "word": "肖战他瞅了我一眼",
+        "onboard_time": 1768913601,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21108,
+        "num": 21108,
+        "word": "U23国足进球",
+        "onboard_time": 1768928298,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20990,
+        "num": 20990,
+        "word": "偷玉米引发的血案受害人女儿求重判",
+        "onboard_time": 1768925659,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20088,
+        "num": 20088,
+        "word": "中国足球队回应U23进决赛",
+        "onboard_time": 1768935194,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19526,
+        "num": 19526,
+        "word": "U23国足vs越南",
+        "onboard_time": 1768922002,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19245,
+        "num": 19245,
+        "word": "极光",
+        "onboard_time": 1768917860,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19027,
+        "num": 19027,
+        "word": "初中生网购侵华日军信件初步鉴定为真",
+        "onboard_time": 1768916962,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23882,
+        "num": 19023,
+        "word": "平台回应卖家去世超半年仍能开店",
+        "onboard_time": 1768933154,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17660,
+        "num": 19018,
+        "word": "黄金涨飞了",
+        "onboard_time": 1768919961,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 17487,
+        "num": 18999,
+        "word": "女子洗澡忘关水阀将小区变溜冰场",
+        "onboard_time": 1768892842,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17230,
+        "num": 18994,
+        "word": "宋威龙张婧仪野狗骨头repo",
+        "onboard_time": 1768922600,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16842,
+        "num": 18989,
+        "word": "轧戏大结局",
+        "onboard_time": 1768909941,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16788,
+        "num": 18978,
+        "word": "10月大男婴被母亲扎数百针",
+        "onboard_time": 1768916059,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16584,
+        "num": 18968,
+        "word": "向涵之瘦下来好像钟楚曦",
+        "onboard_time": 1768912521,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16419,
+        "num": 18953,
+        "word": "两京十五日",
+        "onboard_time": 1768910842,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16210,
+        "num": 18942,
+        "word": "王昭君灯塔水母主题皮肤",
+        "onboard_time": 1768908861,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15566,
+        "num": 18941,
+        "word": "A股行情",
+        "onboard_time": 1768924461,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 15020,
+        "num": 18929,
+        "word": "老人血透深度昏迷心脏骤停医生未到场",
+        "onboard_time": 1768927098,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14297,
+        "num": 18915,
+        "word": "U23亚洲杯",
+        "onboard_time": 1768919483,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14077,
+        "num": 18912,
+        "word": "一人一句为U23国足加油",
+        "onboard_time": 1768933035,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13765,
+        "num": 18903,
+        "word": "解放军演练斩首行动台独慌了",
+        "onboard_time": 1768912700,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13368,
+        "num": 18886,
+        "word": "u23国足冲击亚洲杯决赛",
+        "onboard_time": 1768927278,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12911,
+        "num": 18885,
+        "word": "特朗普发登上格陵兰岛图片",
+        "onboard_time": 1768931356,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 12694,
+        "num": 18868,
+        "word": "慕胥辞",
+        "onboard_time": 1768918102,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12489,
+        "num": 18860,
+        "word": "2026亚足联U23亚洲杯",
+        "onboard_time": 1768919781,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12482,
+        "num": 18850,
+        "word": "NBA常规赛",
+        "onboard_time": 1768928298,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12135,
+        "num": 18839,
+        "word": "古装剧古味消失的原因",
+        "onboard_time": 1768945333,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#十五五开局之年第一课#"
+    }
+  }
+}
