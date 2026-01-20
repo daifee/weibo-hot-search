@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768930696512,
+  "endTime": 1768931694534,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -497,6 +497,14 @@
       "onboard_time": 1767459021,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1532686,
+      "num": 1532686,
+      "word": "U23国足3比0越南U23",
+      "onboard_time": 1768930637,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 1527024,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768466842,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 742676,
-      "num": 361311,
-      "word": "女儿眼中已婚已孕已离的妈妈",
-      "onboard_time": 1767758002,
-      "rank": 5,
-      "category": "情感"
     }
   ],
   "hotgov_list": [

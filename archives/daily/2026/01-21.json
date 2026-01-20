@@ -1,6 +1,6 @@
 {
   "startTime": 1768927470754,
-  "endTime": 1768930696512,
+  "endTime": 1768931694534,
   "band_list": [
     {
       "raw_hot": 2487537,
@@ -8,6 +8,14 @@
       "word": "U23国足vs越南",
       "onboard_time": 1768922002,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1532686,
+      "num": 1532686,
+      "word": "U23国足3比0越南U23",
+      "onboard_time": 1768930637,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 614446,
-      "num": 146186,
+      "num": 164870,
       "word": "美国政府首次回应斩杀线困境",
       "onboard_time": 1768924579,
       "rank": 10,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 497238,
-      "num": 146163,
+      "num": 164561,
       "word": "卢昱晓回应跪下和粉丝合照",
       "onboard_time": 1768920922,
       "rank": 11,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 463343,
-      "num": 288630,
+      "num": 290148,
       "word": "儿子怒斥癌症妈妈碰瓷为何让人共情",
       "onboard_time": 1768925958,
       "rank": 5,
@@ -49,6 +57,14 @@
       "onboard_time": 1768919900,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 441695,
+      "num": 441695,
+      "word": "u23",
+      "onboard_time": 1768930637,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 361789,
@@ -75,8 +91,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 288970,
-      "num": 288970,
+      "raw_hot": 303219,
+      "num": 303219,
       "word": "2026亚足联U23亚洲杯",
       "onboard_time": 1768919781,
       "rank": 27,
@@ -107,16 +123,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205297,
-      "num": 205297,
-      "word": "u23",
-      "onboard_time": 1768930637,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 200091,
-      "num": 145854,
+      "num": 161056,
       "word": "曝短剧演员片酬",
       "onboard_time": 1768926558,
       "rank": 26,
@@ -147,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164946,
+      "num": 164946,
+      "word": "U23国足首次进入亚洲杯决赛",
+      "onboard_time": 1768930876,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164698,
       "num": 146099,
       "word": "知情人称贝克汉姆夫妇深受打击",
@@ -161,6 +177,14 @@
       "onboard_time": 1768920683,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119332,
+      "num": 119332,
+      "word": "U23国足若进决赛将战日本",
+      "onboard_time": 1768929556,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 106724,
@@ -259,14 +283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 62762,
-      "num": 118166,
-      "word": "U23国足若进决赛将战日本",
-      "onboard_time": 1768929556,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 59623,
       "num": 145847,
       "word": "成龙第一次参加时装周的样子",
@@ -315,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53592,
+      "num": 145611,
+      "word": "3人性侵12岁女孩家属控告民警渎职",
+      "onboard_time": 1768926858,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52457,
       "num": 145741,
       "word": "偷玉米引发的血案受害人女儿求重判",
@@ -353,6 +377,14 @@
       "onboard_time": 1768925059,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 46351,
+      "num": 117484,
+      "word": "特朗普公开马克龙给他的私信",
+      "onboard_time": 1768930578,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 46191,
@@ -403,14 +435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 40691,
-      "num": 145611,
-      "word": "3人性侵12岁女孩家属控告民警渎职",
-      "onboard_time": 1768926858,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39779,
       "num": 145512,
       "word": "小狗不知道自己睡在废品站旁边",
@@ -443,11 +467,11 @@
       "category": "艺人,剧集"
     },
     {
-      "raw_hot": 37763,
-      "num": 117822,
-      "word": "U23国足3比0越南U23",
-      "onboard_time": 1768930637,
-      "rank": 30,
+      "raw_hot": 36878,
+      "num": 117375,
+      "word": "王钰栋拜合拉木替补",
+      "onboard_time": 1768922480,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -459,14 +483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 28942,
-      "num": 117484,
-      "word": "特朗普公开马克龙给他的私信",
-      "onboard_time": 1768930578,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 27871,
       "num": 117444,
       "word": "BLG恭喜Viper",
@@ -475,10 +491,26 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 26302,
-      "num": 117375,
-      "word": "王钰栋拜合拉木替补",
-      "onboard_time": 1768922480,
+      "raw_hot": 24937,
+      "num": 62660,
+      "word": "极光",
+      "onboard_time": 1768917860,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24497,
+      "num": 62621,
+      "word": "特朗普发登上格陵兰岛图片",
+      "onboard_time": 1768931356,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 23123,
+      "num": 62611,
+      "word": "NBA常规赛",
+      "onboard_time": 1768928298,
       "rank": 46,
       "category": "体育"
     },
