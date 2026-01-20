@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768876531586,
+  "endTime": 1768882333874,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -9,6 +9,14 @@
       "onboard_time": 1768729460,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 2679279,
+      "num": 242475,
+      "word": "阿爆",
+      "onboard_time": 1768878139,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 2670618,
@@ -73,6 +81,14 @@
       "onboard_time": 1768822882,
       "rank": 0,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1203665,
+      "num": 241394,
+      "word": "杨振华去世",
+      "onboard_time": 1768880001,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1184745,
@@ -172,11 +188,27 @@
     },
     {
       "raw_hot": 893693,
-      "num": 170866,
+      "num": 230941,
       "word": "贝克汉姆遭大儿子控诉",
       "onboard_time": 1768868059,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 893293,
+      "num": 1142926,
+      "word": "儿子回应怒吼癌症妈妈碰瓷爆火",
+      "onboard_time": 1768875799,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 861518,
+      "num": 239405,
+      "word": "日本可能又要换首相了",
+      "onboard_time": 1768874299,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 852117,
@@ -185,6 +217,14 @@
       "onboard_time": 1768699519,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 850511,
+      "num": 236165,
+      "word": "阿爆私密账号",
+      "onboard_time": 1768879882,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 838604,
@@ -651,14 +691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 517302,
-      "num": 167157,
-      "word": "日本可能又要换首相了",
-      "onboard_time": 1768874299,
-      "rank": 20,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 515519,
       "num": 206707,
       "word": "宋威龙在庆功宴上哭了",
@@ -747,6 +779,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 468510,
+      "num": 468510,
+      "word": "李昀锐黄杨钿甜冰湖重生大寒营业",
+      "onboard_time": 1768879941,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 467200,
       "num": 241817,
       "word": "成毅和欢瑞合同到期",
@@ -801,6 +841,14 @@
       "onboard_time": 1768813761,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 445818,
+      "num": 817266,
+      "word": "带1000去嫣然医院出院还剩990",
+      "onboard_time": 1768876159,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 445638,
@@ -892,7 +940,7 @@
     },
     {
       "raw_hot": 414553,
-      "num": 169971,
+      "num": 221918,
       "word": "苹果将改为一年两次发布新品",
       "onboard_time": 1768864877,
       "rank": 12,
@@ -1179,6 +1227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 342226,
+      "num": 342226,
+      "word": "林孝埈首次以中国国籍参加冬奥会",
+      "onboard_time": 1768879401,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 336050,
       "num": 810772,
       "word": "深圳封存20年垃圾山开挖",
@@ -1220,7 +1276,7 @@
     },
     {
       "raw_hot": 328885,
-      "num": 169465,
+      "num": 216496,
       "word": "卢昱晓想认识赵今麦",
       "onboard_time": 1768866979,
       "rank": 13,
@@ -1280,14 +1336,6 @@
       "word": "嫣然医院周边居民发声",
       "onboard_time": 1768779320,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 313157,
-      "num": 313157,
-      "word": "儿子回应怒吼癌症妈妈碰瓷爆火",
-      "onboard_time": 1768875799,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -1435,6 +1483,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 281502,
+      "num": 281502,
+      "word": "霸总直了半辈子的腰上综艺弯了五次",
+      "onboard_time": 1768878980,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 281204,
+      "num": 232747,
+      "word": "iPhone18Pro外观放弃药丸屏",
+      "onboard_time": 1768880302,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 280621,
       "num": 164231,
       "word": "孟子义第一个综艺",
@@ -1465,6 +1529,14 @@
       "onboard_time": 1768826481,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274890,
+      "num": 274890,
+      "word": "冰湖重生",
+      "onboard_time": 1768876939,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 274651,
@@ -1649,6 +1721,14 @@
       "onboard_time": 1768660882,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 245080,
+      "num": 245080,
+      "word": "东北仙女教母下凡了",
+      "onboard_time": 1768877478,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 245034,
@@ -2075,6 +2155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205656,
+      "num": 205656,
+      "word": "陈星旭王玉雯新剧吻疯丧胆",
+      "onboard_time": 1768879762,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204353,
       "num": 181599,
       "word": "辛芷蕾 我太有眼光了",
@@ -2123,6 +2211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201431,
+      "num": 173821,
+      "word": "美宝莲官宣时代少年团",
+      "onboard_time": 1768881861,
+      "rank": 23,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 201282,
       "num": 201282,
       "word": "杨紫第一次换角色头像",
@@ -2161,6 +2257,14 @@
       "onboard_time": 1768789279,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 200513,
+      "num": 173794,
+      "word": "明月录拍出了女官和太监做夫妻",
+      "onboard_time": 1768880903,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 199593,
@@ -2225,6 +2329,14 @@
       "onboard_time": 1768871001,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195463,
+      "num": 172677,
+      "word": "阿爆哭诉自己孤独",
+      "onboard_time": 1768881382,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 195439,
@@ -2539,6 +2651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 172962,
+      "num": 172962,
+      "word": "小贝长子曝母亲安插前女友破坏婚姻",
+      "onboard_time": 1768876519,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172172,
       "num": 172172,
       "word": "那英选人还是太权威了",
@@ -2553,6 +2673,14 @@
       "onboard_time": 1768837342,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 171440,
+      "num": 171440,
+      "word": "A股又突然跳水",
+      "onboard_time": 1768881922,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 170794,
@@ -2667,14 +2795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166164,
-      "num": 166164,
-      "word": "带1000去嫣然医院出院还剩990",
-      "onboard_time": 1768876159,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 165500,
       "num": 165500,
       "word": "老人玩手机孩子脱手坠地仍不撒手",
@@ -2753,6 +2873,14 @@
       "onboard_time": 1768801282,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160229,
+      "num": 160229,
+      "word": "断桥看雪",
+      "onboard_time": 1768879822,
+      "rank": 28,
+      "category": "旅游"
     },
     {
       "raw_hot": 159665,
@@ -2851,6 +2979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152980,
+      "num": 152980,
+      "word": "Faker被冻的下播",
+      "onboard_time": 1768881023,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152869,
       "num": 152869,
       "word": "陈伟霆在拍许我耀眼续集吗",
@@ -2897,6 +3033,14 @@
       "onboard_time": 1768702700,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151105,
+      "num": 151105,
+      "word": "第一批回老家的已被物价惊呆了",
+      "onboard_time": 1768880541,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 150786,
@@ -2969,6 +3113,14 @@
       "onboard_time": 1768717038,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147946,
+      "num": 147946,
+      "word": "白鹿严选的含金量还在上升",
+      "onboard_time": 1768881441,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 147371,
@@ -3619,6 +3771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125978,
+      "num": 125978,
+      "word": "iPhone伤电池的4个充电习惯",
+      "onboard_time": 1768881023,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 125864,
       "num": 125864,
       "word": "澳网",
@@ -3721,6 +3881,14 @@
       "onboard_time": 1768800562,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123685,
+      "num": 153003,
+      "word": "新东方聘请陈行甲为总顾问",
+      "onboard_time": 1768881861,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 123418,
@@ -4003,6 +4171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116425,
+      "num": 116425,
+      "word": "米兰冬奥会",
+      "onboard_time": 1768882282,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116318,
       "num": 116318,
       "word": "小城大事为什么看的人少",
@@ -4049,6 +4225,14 @@
       "onboard_time": 1768806561,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 115211,
+      "num": 115210,
+      "word": "文旅局回应大地之子雕塑成公厕",
+      "onboard_time": 1768882043,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115111,
@@ -4099,6 +4283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 113456,
+      "num": 113456,
+      "word": "年轻人有自己的财神爷",
+      "onboard_time": 1768878679,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 113430,
       "num": 113430,
       "word": "蔡依林抢票",
@@ -4131,6 +4323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112757,
+      "num": 112757,
+      "word": "官方通报菜商违规使用含毒农药",
+      "onboard_time": 1768880421,
+      "rank": 44,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 111862,
       "num": 128262,
       "word": "孩子求抱抱遭冷漠父亲推搡",
@@ -4161,6 +4361,14 @@
       "onboard_time": 1768664301,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110682,
+      "num": 167581,
+      "word": "你是北京不是北极",
+      "onboard_time": 1768875319,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110664,
@@ -4289,6 +4497,14 @@
       "onboard_time": 1768802543,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 108934,
+      "num": 108934,
+      "word": "浙江人均存款超17万元",
+      "onboard_time": 1768880481,
+      "rank": 47,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 108786,
@@ -4443,6 +4659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106264,
+      "num": 105102,
+      "word": "华伦天奴把家中城堡打造成中式宫殿",
+      "onboard_time": 1768882221,
+      "rank": 49,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 106081,
       "num": 106081,
       "word": "你说烂人真心那我就要品一品了",
@@ -4465,6 +4689,14 @@
       "onboard_time": 1768779860,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105350,
+      "num": 105350,
+      "word": "豆包预测尚界Z7或成SU7最强对手",
+      "onboard_time": 1768881861,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 105343,
@@ -6363,6 +6595,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 75818,
+      "num": 235149,
+      "word": "马丽真的代言了天猫年货节",
+      "onboard_time": 1768881623,
+      "rank": 14,
+      "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 75747,
+      "num": 217206,
+      "word": "高市早苗放话",
+      "onboard_time": 1768881682,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 75671,
       "num": 75671,
       "word": "5年期和1年期LPR利率维持不变",
@@ -6521,6 +6769,14 @@
       "onboard_time": 1768830622,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72133,
+      "num": 115211,
+      "word": "郑州一医院1天接诊98名骨折患者",
+      "onboard_time": 1768881502,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71826,
@@ -6793,14 +7049,6 @@
       "onboard_time": 1768702280,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 64858,
-      "num": 167581,
-      "word": "你是北京不是北极",
-      "onboard_time": 1768875319,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 64855,
@@ -7603,6 +7851,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 33589,
+      "num": 115283,
+      "word": "嫣然医院护理师发声",
+      "onboard_time": 1768882161,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32497,
       "num": 261409,
       "word": "朱珠被飞鹤的鲜活打动了",
@@ -7651,6 +7907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30826,
+      "num": 113800,
+      "word": "男子随身带手铐强奸5未成年获刑",
+      "onboard_time": 1768882282,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30351,
       "num": 30351,
       "word": "赵今麦骄阳似我庆功宴造型",
@@ -7681,6 +7945,14 @@
       "onboard_time": 1768804461,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 29054,
+      "num": 115227,
+      "word": "母亲给儿子房产女儿断亲遭起诉",
+      "onboard_time": 1768882161,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28684,
@@ -7728,6 +8000,14 @@
       "word": "央视揭露菜商使用含毒农药",
       "onboard_time": 1768801222,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26284,
+      "num": 647526,
+      "word": "用大寒节气打开冬日中国之美",
+      "onboard_time": 1768878861,
+      "rank": 2,
       "category": "民生新闻"
     },
     {

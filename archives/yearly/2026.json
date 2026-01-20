@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768876531586,
+  "endTime": 1768882333874,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -185,6 +185,14 @@
       "onboard_time": 1768188080,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2679279,
+      "num": 242475,
+      "word": "阿爆",
+      "onboard_time": 1768878139,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 2670618,
@@ -753,6 +761,14 @@
       "onboard_time": 1767420926,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1203665,
+      "num": 241394,
+      "word": "杨振华去世",
+      "onboard_time": 1768880001,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1200620,
@@ -1580,11 +1596,19 @@
     },
     {
       "raw_hot": 893693,
-      "num": 170866,
+      "num": 230941,
       "word": "贝克汉姆遭大儿子控诉",
       "onboard_time": 1768868059,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 893293,
+      "num": 1142926,
+      "word": "儿子回应怒吼癌症妈妈碰瓷爆火",
+      "onboard_time": 1768875799,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 890521,
@@ -1667,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 861518,
+      "num": 239405,
+      "word": "日本可能又要换首相了",
+      "onboard_time": 1768874299,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 860920,
       "num": 1137747,
       "word": "党员烧香算违纪吗官方释疑",
@@ -1713,6 +1745,14 @@
       "onboard_time": 1768699519,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 850511,
+      "num": 236165,
+      "word": "阿爆私密账号",
+      "onboard_time": 1768879882,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 848525,
@@ -2361,46 +2401,6 @@
       "onboard_time": 1768207640,
       "rank": 9,
       "category": "数码"
-    },
-    {
-      "raw_hot": 734582,
-      "num": 381374,
-      "word": "全红婵留长发了",
-      "onboard_time": 1768184358,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 734115,
-      "num": 1117458,
-      "word": "韩国四大财团掌门人在京集体亮相",
-      "onboard_time": 1767606682,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 732768,
-      "num": 283229,
-      "word": "在妻子孕期出轨博士后未给女子道歉",
-      "onboard_time": 1768002978,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 731212,
-      "num": 495836,
-      "word": "男子假期嫖娼被拘隐瞒7年被辞退",
-      "onboard_time": 1767535584,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 730611,
-      "num": 588146,
-      "word": "印尼一婚礼因新郎外貌爆火",
-      "onboard_time": 1768544900,
-      "rank": 3,
-      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
