@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768866191349,
+  "endTime": 1768875067924,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 939517,
+      "num": 619106,
+      "word": "华伦天奴去世",
+      "onboard_time": 1768867459,
+      "rank": 3,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 934753,
       "num": 590523,
       "word": "杨紫换头像",
@@ -161,6 +169,14 @@
       "onboard_time": 1768735822,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 852878,
+      "num": 132940,
+      "word": "贝克汉姆遭大儿子控诉",
+      "onboard_time": 1768868059,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 852117,
@@ -257,6 +273,14 @@
       "onboard_time": 1768704859,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 757848,
+      "num": 1121255,
+      "word": "上海下雪",
+      "onboard_time": 1768864638,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 744617,
@@ -547,6 +571,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 536231,
+      "num": 524991,
+      "word": "原来真的有AB货啊",
+      "onboard_time": 1768867459,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 533821,
+      "num": 132821,
+      "word": "王菲十年向嫣然天使捐款三千多万",
+      "onboard_time": 1768869560,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 533630,
       "num": 1083253,
       "word": "轧戏",
@@ -571,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 531210,
+      "num": 531210,
+      "word": "用芥末泡虾虾线都快吐出来了",
+      "onboard_time": 1768868959,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 529512,
       "num": 121435,
       "word": "呆呆家门口泥土被炒至200元一斤",
@@ -593,14 +641,6 @@
       "onboard_time": 1768816102,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 517642,
-      "num": 938447,
-      "word": "上海下雪",
-      "onboard_time": 1768864638,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 517385,
@@ -844,7 +884,7 @@
     },
     {
       "raw_hot": 414553,
-      "num": 98409,
+      "num": 132012,
       "word": "苹果将改为一年两次发布新品",
       "onboard_time": 1768864877,
       "rank": 12,
@@ -908,7 +948,7 @@
     },
     {
       "raw_hot": 399377,
-      "num": 97774,
+      "num": 131312,
       "word": "吴磊方称没有义务和必要逐一自证",
       "onboard_time": 1768864937,
       "rank": 10,
@@ -937,6 +977,14 @@
       "onboard_time": 1768779139,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 392755,
+      "num": 832789,
+      "word": "杭州下雪",
+      "onboard_time": 1768869560,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 389409,
@@ -985,6 +1033,14 @@
       "onboard_time": 1768716319,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 376416,
+      "num": 132639,
+      "word": "曝iPhone18Pro外观",
+      "onboard_time": 1768869260,
+      "rank": 12,
+      "category": "数码"
     },
     {
       "raw_hot": 369835,
@@ -1099,12 +1155,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 343392,
+      "num": 132293,
+      "word": "4个多月女婴在母婴店泡药浴后离世",
+      "onboard_time": 1768869380,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 342956,
       "num": 424604,
       "word": "老赖李亚鹏为何触动了网友",
       "onboard_time": 1768838599,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 342009,
+      "num": 131247,
+      "word": "日本可能又要换首相了",
+      "onboard_time": 1768874299,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 336050,
@@ -1145,6 +1217,14 @@
       "onboard_time": 1768814481,
       "rank": 6,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 328885,
+      "num": 132398,
+      "word": "卢昱晓想认识赵今麦",
+      "onboard_time": 1768866979,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 327946,
@@ -1321,6 +1401,14 @@
       "onboard_time": 1768800502,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 284236,
+      "num": 131968,
+      "word": "李亚鹏带货茶具暂停30天销售",
+      "onboard_time": 1768871660,
+      "rank": 16,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 283728,
@@ -1561,6 +1649,14 @@
       "onboard_time": 1768811902,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 241955,
+      "num": 131651,
+      "word": "贝克汉姆父子闹掰",
+      "onboard_time": 1768870282,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 241359,
@@ -1905,6 +2001,14 @@
       "onboard_time": 1768815142,
       "rank": 7,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 208367,
+      "num": 131471,
+      "word": "相声表演艺术家杨振华去世",
+      "onboard_time": 1768870041,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 207824,
@@ -2611,6 +2715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159665,
+      "num": 131011,
+      "word": "中国留学生买错票躲过西班牙高铁事故",
+      "onboard_time": 1768866798,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 159634,
       "num": 159634,
       "word": "痞幼回应恋爱脑",
@@ -2761,6 +2873,14 @@
       "onboard_time": 1768829002,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 150169,
+      "num": 130882,
+      "word": "iPhone18系列售价曝光",
+      "onboard_time": 1768867519,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 149891,
@@ -2979,6 +3099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140907,
+      "num": 140907,
+      "word": "南京下雪",
+      "onboard_time": 1768867158,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140892,
       "num": 214091,
       "word": "杨博文疯狂想象自己在游泳池之上",
@@ -3171,6 +3299,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133151,
+      "num": 130572,
+      "word": "普京严寒中跳入冰窟进行洗礼",
+      "onboard_time": 1768869202,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 133070,
+      "num": 133070,
+      "word": "武汉下雪",
+      "onboard_time": 1768868901,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132783,
       "num": 132783,
       "word": "黑色马蹄莲卖爆了",
@@ -3265,6 +3409,14 @@
       "onboard_time": 1768822101,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 130406,
+      "num": 130406,
+      "word": "代旭演技",
+      "onboard_time": 1768871001,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 130399,
@@ -3529,6 +3681,14 @@
       "onboard_time": 1768800562,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123418,
+      "num": 123418,
+      "word": "肖战现在不跳舞要干嘛",
+      "onboard_time": 1768866798,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 123301,
@@ -3859,6 +4019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 114512,
+      "num": 114512,
+      "word": "日本自卫队员性侵男同僚",
+      "onboard_time": 1768868301,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 114507,
       "num": 140596,
       "word": "林依轮 宴会时刻站哥必须发力",
@@ -3873,6 +4041,14 @@
       "onboard_time": 1768718840,
       "rank": 27,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 114100,
+      "num": 114100,
+      "word": "江宁婆婆科普糖霜苹果",
+      "onboard_time": 1768869260,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113981,
@@ -3953,6 +4129,14 @@
       "onboard_time": 1768816581,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110638,
+      "num": 110638,
+      "word": "靠上班普通人只能在35岁之前过成中产",
+      "onboard_time": 1768866138,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 110632,
@@ -4203,6 +4387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106361,
+      "num": 106361,
+      "word": "詹姆斯连续21年入选全明星首发纪录终结",
+      "onboard_time": 1768872678,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106329,
       "num": 94393,
       "word": "成毅欢瑞合约争议三大焦点",
@@ -4265,6 +4457,14 @@
       "onboard_time": 1768826301,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105031,
+      "num": 105031,
+      "word": "男孩打出溜滑25米7喜提粘豆包",
+      "onboard_time": 1768872260,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104878,
@@ -4339,6 +4539,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 103718,
+      "num": 103718,
+      "word": "R星工作室发生爆炸",
+      "onboard_time": 1768867519,
+      "rank": 34,
+      "category": "海外新闻,游戏"
+    },
+    {
       "raw_hot": 103686,
       "num": 103686,
       "word": "声鸣远扬",
@@ -4368,6 +4576,14 @@
       "word": "男子摆拍女儿50元淘到名酒被行政处罚",
       "onboard_time": 1768722379,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103481,
+      "num": 103481,
+      "word": "高一女生带手机被停课1个月",
+      "onboard_time": 1768867459,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -4600,6 +4816,14 @@
       "word": "小洛熙医疗纠纷案明日开庭",
       "onboard_time": 1768710501,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98068,
+      "num": 98068,
+      "word": "官方回应4个月女婴泡药浴后离世",
+      "onboard_time": 1768873700,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -4900,11 +5124,11 @@
     },
     {
       "raw_hot": 93394,
-      "num": 77689,
-      "word": "靠上班普通人只能在35岁之前过成中产",
-      "onboard_time": 1768866138,
-      "rank": 22,
-      "category": "情感"
+      "num": 93394,
+      "word": "长沙真下雪了",
+      "onboard_time": 1768867339,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93356,
@@ -4971,6 +5195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92564,
+      "num": 92564,
+      "word": "金正恩解除一名内阁副总理职务",
+      "onboard_time": 1768871121,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 92322,
       "num": 92322,
       "word": "河南省考",
@@ -5032,6 +5264,14 @@
       "word": "金饰价格涨到1451元",
       "onboard_time": 1768794620,
       "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 91740,
+      "num": 91740,
+      "word": "LPR",
+      "onboard_time": 1768873040,
+      "rank": 40,
       "category": "财经"
     },
     {
@@ -5289,6 +5529,14 @@
       "onboard_time": 1768734742,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 87219,
+      "num": 87219,
+      "word": "意大利时尚界三杰均已离世",
+      "onboard_time": 1768872920,
+      "rank": 42,
+      "category": "时尚"
     },
     {
       "raw_hot": 87207,
@@ -5659,6 +5907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 82606,
+      "num": 82606,
+      "word": "孙颖莎入选国家一队9周年",
+      "onboard_time": 1768873578,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82400,
       "num": 82400,
       "word": "美国施压韩国",
@@ -5747,6 +6003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81033,
+      "num": 81033,
+      "word": "轧戏胡羞爸爸出车祸",
+      "onboard_time": 1768872439,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 81028,
       "num": 217841,
       "word": "朱雨玲4比2佐藤瞳",
@@ -5809,6 +6073,14 @@
       "onboard_time": 1768812801,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80110,
+      "num": 80110,
+      "word": "高一女生带手机被停课1个月后续",
+      "onboard_time": 1768873459,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80108,
@@ -6139,6 +6411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72987,
+      "num": 72987,
+      "word": "愿大寒安康",
+      "onboard_time": 1768874239,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72772,
       "num": 131325,
       "word": "樊振东打球把程靖淇震撼到语无伦次",
@@ -6289,6 +6569,14 @@
       "onboard_time": 1768719319,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69351,
+      "num": 69351,
+      "word": "当老板说你的工作换谁都能做",
+      "onboard_time": 1768867821,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 68973,
@@ -7308,7 +7596,7 @@
     },
     {
       "raw_hot": 28684,
-      "num": 525097,
+      "num": 667788,
       "word": "卫星互联网低轨19组卫星发射成功",
       "onboard_time": 1768816702,
       "rank": 43,
@@ -7384,6 +7672,14 @@
       "word": "火锅店回应饲养企鹅鲨鱼",
       "onboard_time": 1768822702,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23580,
+      "num": 91984,
+      "word": "牧民称近两月已有6匹马被狼群咬死",
+      "onboard_time": 1768875019,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

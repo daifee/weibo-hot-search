@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768866191349,
+  "endTime": 1768875067924,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1411,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 939517,
+      "num": 619106,
+      "word": "华伦天奴去世",
+      "onboard_time": 1768867459,
+      "rank": 3,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 934753,
       "num": 590523,
       "word": "杨紫换头像",
@@ -1689,6 +1697,14 @@
       "onboard_time": 1767971901,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 852878,
+      "num": 132940,
+      "word": "贝克汉姆遭大儿子控诉",
+      "onboard_time": 1768868059,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 852117,
@@ -2187,6 +2203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 757848,
+      "num": 1121255,
+      "word": "上海下雪",
+      "onboard_time": 1767700522,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 756977,
       "num": 1121116,
       "word": "义乌产的哭哭马火了",
@@ -2617,14 +2641,6 @@
       "onboard_time": 1768278022,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 695485,
-      "num": 1109542,
-      "word": "上海下雪",
-      "onboard_time": 1767700522,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 693703,
@@ -4411,6 +4427,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 536231,
+      "num": 524991,
+      "word": "原来真的有AB货啊",
+      "onboard_time": 1768867459,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 535677,
       "num": 827955,
       "word": "胖东来回应羽绒服进价303售价393",
@@ -4467,6 +4491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 533821,
+      "num": 132821,
+      "word": "王菲十年向嫣然天使捐款三千多万",
+      "onboard_time": 1768869560,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 533457,
       "num": 697191,
       "word": "女子药流后腹部隆起才发现胎儿未排",
@@ -4521,6 +4553,14 @@
       "onboard_time": 1767440366,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 531210,
+      "num": 531210,
+      "word": "用芥末泡虾虾线都快吐出来了",
+      "onboard_time": 1768868959,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 529697,
@@ -7180,7 +7220,7 @@
     },
     {
       "raw_hot": 414553,
-      "num": 98409,
+      "num": 132012,
       "word": "苹果将改为一年两次发布新品",
       "onboard_time": 1768864877,
       "rank": 12,
@@ -7572,7 +7612,7 @@
     },
     {
       "raw_hot": 399377,
-      "num": 97774,
+      "num": 131312,
       "word": "吴磊方称没有义务和必要逐一自证",
       "onboard_time": 1768864937,
       "rank": 10,
@@ -7753,6 +7793,14 @@
       "onboard_time": 1767365550,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 392755,
+      "num": 832789,
+      "word": "杭州下雪",
+      "onboard_time": 1768869560,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 392598,
@@ -8153,6 +8201,14 @@
       "onboard_time": 1768716319,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 376416,
+      "num": 132639,
+      "word": "曝iPhone18Pro外观",
+      "onboard_time": 1768869260,
+      "rank": 12,
+      "category": "数码"
     },
     {
       "raw_hot": 376299,
@@ -9291,6 +9347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 343392,
+      "num": 132293,
+      "word": "4个多月女婴在母婴店泡药浴后离世",
+      "onboard_time": 1768869380,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 343243,
       "num": 159780,
       "word": "刘美含说的是谁",
@@ -9337,6 +9401,14 @@
       "onboard_time": 1768121061,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 342009,
+      "num": 131247,
+      "word": "日本可能又要换首相了",
+      "onboard_time": 1768874299,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 341874,
@@ -9737,6 +9809,14 @@
       "onboard_time": 1768026082,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 328885,
+      "num": 132398,
+      "word": "卢昱晓想认识赵今麦",
+      "onboard_time": 1768866979,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 328675,
@@ -11625,6 +11705,14 @@
       "onboard_time": 1767703101,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284236,
+      "num": 131968,
+      "word": "李亚鹏带货茶具暂停30天销售",
+      "onboard_time": 1768871660,
+      "rank": 16,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 284192,
@@ -13985,6 +14073,14 @@
       "onboard_time": 1768811902,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 241955,
+      "num": 131651,
+      "word": "贝克汉姆父子闹掰",
+      "onboard_time": 1768870282,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 241837,
@@ -16377,6 +16473,14 @@
       "onboard_time": 1767432925,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208367,
+      "num": 131471,
+      "word": "相声表演艺术家杨振华去世",
+      "onboard_time": 1768870041,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 208247,
@@ -22995,6 +23099,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 159665,
+      "num": 131011,
+      "word": "中国留学生买错票躲过西班牙高铁事故",
+      "onboard_time": 1768866798,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 159641,
       "num": 140918,
       "word": "赵丽颖黄晓明这段是现挂",
@@ -24537,6 +24649,14 @@
       "onboard_time": 1767838519,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150169,
+      "num": 130882,
+      "word": "iPhone18系列售价曝光",
+      "onboard_time": 1768867519,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 150106,
@@ -28523,6 +28643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133151,
+      "num": 130572,
+      "word": "普京严寒中跳入冰窟进行洗礼",
+      "onboard_time": 1768869202,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 133134,
       "num": 133134,
       "word": "当年轻人掌握了采买权",
@@ -28537,6 +28665,14 @@
       "onboard_time": 1767258799,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 133070,
+      "num": 133070,
+      "word": "武汉下雪",
+      "onboard_time": 1768868901,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133046,
@@ -29129,6 +29265,14 @@
       "onboard_time": 1767584241,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 130406,
+      "num": 130406,
+      "word": "代旭演技",
+      "onboard_time": 1768871001,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 130399,
@@ -31121,6 +31265,14 @@
       "onboard_time": 1768453461,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 123418,
+      "num": 123418,
+      "word": "肖战现在不跳舞要干嘛",
+      "onboard_time": 1768866798,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 123414,
@@ -33987,6 +34139,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 114512,
+      "num": 114512,
+      "word": "日本自卫队员性侵男同僚",
+      "onboard_time": 1768868301,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 114507,
       "num": 140596,
       "word": "林依轮 宴会时刻站哥必须发力",
@@ -34137,6 +34297,14 @@
       "onboard_time": 1768212200,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114100,
+      "num": 114100,
+      "word": "江宁婆婆科普糖霜苹果",
+      "onboard_time": 1768869260,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114089,
@@ -35225,6 +35393,14 @@
       "onboard_time": 1768816581,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110638,
+      "num": 110638,
+      "word": "靠上班普通人只能在35岁之前过成中产",
+      "onboard_time": 1768866138,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 110632,
@@ -36803,6 +36979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106361,
+      "num": 106361,
+      "word": "詹姆斯连续21年入选全明星首发纪录终结",
+      "onboard_time": 1768872678,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106340,
       "num": 106340,
       "word": "每天下班先睡一觉正常吗",
@@ -37435,6 +37619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 105031,
+      "num": 105031,
+      "word": "男孩打出溜滑25米7喜提粘豆包",
+      "onboard_time": 1768872260,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105001,
       "num": 198265,
       "word": "高德向100万小商家免费开放飞行街景",
@@ -37963,6 +38155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103718,
+      "num": 103718,
+      "word": "R星工作室发生爆炸",
+      "onboard_time": 1768867519,
+      "rank": 34,
+      "category": "海外新闻,游戏"
+    },
+    {
       "raw_hot": 103686,
       "num": 103686,
       "word": "声鸣远扬",
@@ -38137,6 +38337,14 @@
       "onboard_time": 1768011739,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103481,
+      "num": 103481,
+      "word": "高一女生带手机被停课1个月",
+      "onboard_time": 1768867459,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103461,
@@ -40465,6 +40673,14 @@
       "onboard_time": 1767522263,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98068,
+      "num": 98068,
+      "word": "官方回应4个月女婴泡药浴后离世",
+      "onboard_time": 1768873700,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98060,
@@ -42900,11 +43116,11 @@
     },
     {
       "raw_hot": 93394,
-      "num": 77689,
-      "word": "靠上班普通人只能在35岁之前过成中产",
-      "onboard_time": 1768866138,
-      "rank": 22,
-      "category": "情感"
+      "num": 93394,
+      "word": "长沙真下雪了",
+      "onboard_time": 1768867339,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93382,
@@ -43323,6 +43539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92564,
+      "num": 92564,
+      "word": "金正恩解除一名内阁副总理职务",
+      "onboard_time": 1768871121,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 92520,
       "num": 92520,
       "word": "AppleWatch房颤历史获国家批准",
@@ -43697,6 +43921,14 @@
       "onboard_time": 1768365262,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 91740,
+      "num": 91740,
+      "word": "LPR",
+      "onboard_time": 1768873040,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 91698,
@@ -45963,6 +46195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87219,
+      "num": 87219,
+      "word": "意大利时尚界三杰均已离世",
+      "onboard_time": 1768872920,
+      "rank": 42,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 87217,
       "num": 119123,
       "word": "男子经济舱被取消买公务舱补差被拒",
@@ -48155,6 +48395,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 82606,
+      "num": 82606,
+      "word": "孙颖莎入选国家一队9周年",
+      "onboard_time": 1768873578,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82598,
       "num": 502218,
       "word": "委内瑞拉国防部长现身",
@@ -48923,6 +49171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81033,
+      "num": 81033,
+      "word": "轧戏胡羞爸爸出车祸",
+      "onboard_time": 1768872439,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 81030,
       "num": 81030,
       "word": "河南趴地菠菜火了",
@@ -49312,6 +49568,14 @@
       "word": "网友收到零下482度降温预警短信",
       "onboard_time": 1768659804,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80110,
+      "num": 80110,
+      "word": "高一女生带手机被停课1个月后续",
+      "onboard_time": 1768873459,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -51795,6 +52059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72987,
+      "num": 72987,
+      "word": "愿大寒安康",
+      "onboard_time": 1768874239,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72966,
       "num": 114669,
       "word": "这个阵容怎么凑齐的",
@@ -52817,6 +53089,14 @@
       "onboard_time": 1768174397,
       "rank": 29,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 69351,
+      "num": 69351,
+      "word": "当老板说你的工作换谁都能做",
+      "onboard_time": 1768867821,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 69316,
@@ -61132,7 +61412,7 @@
     },
     {
       "raw_hot": 28684,
-      "num": 525097,
+      "num": 667788,
       "word": "卫星互联网低轨19组卫星发射成功",
       "onboard_time": 1768816702,
       "rank": 43,
@@ -62113,6 +62393,14 @@
       "onboard_time": 1768470440,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 23580,
+      "num": 91984,
+      "word": "牧民称近两月已有6匹马被狼群咬死",
+      "onboard_time": 1768875019,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23561,
