@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768924539087,
+  "endTime": 1768927470754,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -737,6 +737,14 @@
       "onboard_time": 1767617841,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1233944,
+      "num": 1233944,
+      "word": "U23国足vs越南",
+      "onboard_time": 1768922002,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1220945,
@@ -3339,14 +3347,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 627538,
-      "num": 1100406,
-      "word": "U23国足vs越南",
-      "onboard_time": 1768922002,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 627325,
       "num": 941943,
       "word": "特朗普表态让万千台湾民众看清现实",
@@ -3441,6 +3441,14 @@
       "onboard_time": 1767702321,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 614446,
+      "num": 146186,
+      "word": "美国政府首次回应斩杀线困境",
+      "onboard_time": 1768924579,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 614251,
@@ -8835,6 +8843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 369453,
+      "num": 167726,
+      "word": "儿子怒斥癌症妈妈碰瓷为何让人共情",
+      "onboard_time": 1768925958,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 369378,
       "num": 311091,
       "word": "日本女市长与下属开房辞职后再当选",
@@ -12385,6 +12401,14 @@
       "onboard_time": 1768392921,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 280278,
+      "num": 649078,
+      "word": "大量外国网友自称精神中国人",
+      "onboard_time": 1768924461,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 280110,
@@ -20416,6 +20440,14 @@
       "word": "U23亚洲杯",
       "onboard_time": 1767885321,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 184808,
+      "num": 162228,
+      "word": "贝克汉姆被儿子长文控诉后首现身",
+      "onboard_time": 1768921641,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -32657,14 +32689,6 @@
       "onboard_time": 1767704482,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123149,
-      "num": 162228,
-      "word": "贝克汉姆被儿子长文控诉后首现身",
-      "onboard_time": 1768921641,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 123116,
@@ -55987,6 +56011,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 67767,
+      "num": 145895,
+      "word": "鞠婧祎掌管侧颜的神",
+      "onboard_time": 1768924220,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67736,
       "num": 160717,
       "word": "BLG冲击全球先锋赛",
@@ -57131,6 +57163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 63803,
+      "num": 145783,
+      "word": "美财长就斩杀线甩锅拜登",
+      "onboard_time": 1768924579,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 63785,
       "num": 195588,
       "word": "李秋萍爸妈",
@@ -57249,6 +57289,14 @@
       "onboard_time": 1768616720,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 63343,
+      "num": 145854,
+      "word": "曝短剧演员片酬",
+      "onboard_time": 1768926558,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 63312,
@@ -58236,7 +58284,7 @@
     },
     {
       "raw_hot": 58941,
-      "num": 111757,
+      "num": 145695,
       "word": "卢昱晓哭戏",
       "onboard_time": 1768923800,
       "rank": 40,
@@ -58780,7 +58828,7 @@
     },
     {
       "raw_hot": 56111,
-      "num": 111689,
+      "num": 145477,
       "word": "骄阳似我心有林曦相拥",
       "onboard_time": 1768923800,
       "rank": 43,
@@ -59057,6 +59105,14 @@
       "onboard_time": 1768778899,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54511,
+      "num": 145715,
+      "word": "猫叔的权威坚持到了轧戏大结局",
+      "onboard_time": 1768925360,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 54502,
@@ -59448,6 +59504,14 @@
       "word": "男子醋意大发模仿霸总甩西装肩膀脱臼",
       "onboard_time": 1768655720,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52457,
+      "num": 145741,
+      "word": "偷玉米引发的血案受害人女儿求重判",
+      "onboard_time": 1768925659,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -60243,6 +60307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47977,
+      "num": 145648,
+      "word": "50件冬天可以做的热乎小事",
+      "onboard_time": 1768926198,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47918,
       "num": 92921,
       "word": "42岁唐嫣状态",
@@ -60315,6 +60387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47626,
+      "num": 145625,
+      "word": "u23国足冲击亚洲杯决赛",
+      "onboard_time": 1768927278,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47573,
       "num": 224900,
       "word": "鸿蒙智行2025全年交付589107台",
@@ -60329,6 +60409,14 @@
       "onboard_time": 1768062680,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47518,
+      "num": 145582,
+      "word": "对景区小吃有了新认识",
+      "onboard_time": 1768925059,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 47439,
@@ -61787,6 +61875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 39734,
+      "num": 145455,
+      "word": "美黄金股大涨",
+      "onboard_time": 1768927278,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 39731,
       "num": 588130,
       "word": "老奶购物法",
@@ -62953,6 +63049,14 @@
       "onboard_time": 1768433900,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34109,
+      "num": 145611,
+      "word": "3人性侵12岁女孩家属控告民警渎职",
+      "onboard_time": 1768926858,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34090,
@@ -64329,14 +64433,6 @@
       "onboard_time": 1767802522,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27445,
-      "num": 111734,
-      "word": "大量外国网友自称精神中国人",
-      "onboard_time": 1768924461,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27372,
@@ -66593,6 +66689,14 @@
       "onboard_time": 1768159994,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 15793,
+      "num": 145998,
+      "word": "老人血透深度昏迷心脏骤停医生未到场",
+      "onboard_time": 1768927098,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15772,

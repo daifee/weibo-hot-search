@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/20 23:55:39
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/21 00:44:30
 </p>
 </blockquote>
 <p>
@@ -563,6 +563,12 @@ U23国足vs乌兹别克斯坦（热度：1464712）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8F%91%E7%8E%B0%E8%B6%85%E5%B8%82%E6%BC%8F%E6%B4%9E%E8%96%85%E4%BA%8620%E5%A4%9A%E4%B8%87%23" target="weibo">
 女子发现超市漏洞薅了20多万（热度：1236208）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23U23%E5%9B%BD%E8%B6%B3vs%E8%B6%8A%E5%8D%97%23" target="weibo">
+U23国足vs越南（热度：1233944）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ iPhone18Pro新爆料（热度：826962）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E9%B9%85%E6%AF%9B%E5%A4%A7%E9%9B%AA%23" target="weibo">
 北京鹅毛大雪（热度：742067）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%20%E8%A7%81%E9%9D%A2%E4%BC%9A%23" target="weibo">
-杨幂 见面会（热度：742060）
 </a>
 </li>
 
