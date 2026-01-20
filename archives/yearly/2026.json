@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768895374497,
+  "endTime": 1768898601131,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -369,6 +369,14 @@
       "onboard_time": 1767748102,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1874899,
+      "num": 268492,
+      "word": "与女友同房4天后死亡男子家属索赔",
+      "onboard_time": 1768895424,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1854135,
@@ -2392,14 +2400,6 @@
       "word": "美国副总统万斯住所遭袭击",
       "onboard_time": 1767620302,
       "rank": 4,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 741247,
-      "num": 1118599,
-      "word": "英法联合空袭叙利亚",
-      "onboard_time": 1767580880,
-      "rank": 38,
       "category": "国际时政"
     }
   ],
