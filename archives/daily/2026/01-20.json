@@ -1,6 +1,6 @@
 {
   "startTime": 1768840768064,
-  "endTime": 1768909538947,
+  "endTime": 1768914315204,
   "band_list": [
     {
       "raw_hot": 2679279,
@@ -131,6 +131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 647129,
+      "num": 1103540,
+      "word": "轧戏大结局",
+      "onboard_time": 1768909941,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 642136,
       "num": 414147,
       "word": "警方通报中山一货车碰撞多车",
@@ -145,6 +153,14 @@
       "onboard_time": 1768882341,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 621159,
+      "num": 621159,
+      "word": "李亚鹏谈4000万欠款的真实原因",
+      "onboard_time": 1768912281,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 589132,
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 459240,
-      "num": 112360,
+      "num": 132085,
       "word": "VOGUE发了王橹杰穆祉丞",
       "onboard_time": 1768906702,
       "rank": 20,
@@ -371,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 389185,
+      "num": 106404,
+      "word": "何聪睿道歉",
+      "onboard_time": 1768909402,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 382353,
       "num": 197149,
       "word": "阿爆解除私密账号状态",
@@ -491,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 313957,
+      "num": 313957,
+      "word": "腾讯力挺陈星旭",
+      "onboard_time": 1768910603,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 308219,
       "num": 757717,
       "word": "羽生结弦亲吻冰面的最后一吻",
@@ -505,6 +537,14 @@
       "onboard_time": 1768906581,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 301268,
+      "num": 145371,
+      "word": "向涵之瘦下来好像钟楚曦",
+      "onboard_time": 1768912521,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 300797,
@@ -588,7 +628,7 @@
     },
     {
       "raw_hot": 275695,
-      "num": 275695,
+      "num": 405502,
       "word": "人类对牛奶的开发不足1%",
       "onboard_time": 1768903700,
       "rank": 5,
@@ -715,12 +755,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 222475,
+      "raw_hot": 226829,
       "num": 150745,
       "word": "女子遭强奸被杀2次望判凶手死刑",
       "onboard_time": 1768907481,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225998,
+      "num": 140058,
+      "word": "肖战他瞅了我一眼",
+      "onboard_time": 1768913601,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 221060,
@@ -851,6 +899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 203229,
+      "num": 130077,
+      "word": "张维伊的演技被低估了",
+      "onboard_time": 1768911981,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201431,
       "num": 173821,
       "word": "美宝莲官宣时代少年团",
@@ -939,6 +995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181374,
+      "num": 106686,
+      "word": "肯德基下乡",
+      "onboard_time": 1768913421,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180822,
       "num": 130972,
       "word": "包文婧回应女儿撞脸吴映洁",
@@ -953,6 +1017,14 @@
       "onboard_time": 1768828283,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178485,
+      "num": 137944,
+      "word": "慕胥辞招商",
+      "onboard_time": 1768913181,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 176872,
@@ -1033,6 +1105,14 @@
       "onboard_time": 1768835182,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 165520,
+      "num": 165520,
+      "word": "解放军演练斩首行动台独慌了",
+      "onboard_time": 1768912700,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 163844,
@@ -1163,6 +1243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 152978,
+      "num": 152978,
+      "word": "iG对战BLG",
+      "onboard_time": 1768912221,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152125,
       "num": 152125,
       "word": "李亚鹏",
@@ -1241,6 +1329,14 @@
       "onboard_time": 1768881441,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146821,
+      "num": 133975,
+      "word": "陈哲远妈生颜霸",
+      "onboard_time": 1768912823,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 146481,
@@ -1347,8 +1443,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137678,
+      "num": 137678,
+      "word": "小城大事收视第一",
+      "onboard_time": 1768913120,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135680,
-      "num": 100893,
+      "num": 123672,
       "word": "关晓彤是手太大还是脸太小",
       "onboard_time": 1768909041,
       "rank": 33,
@@ -1425,6 +1529,14 @@
       "onboard_time": 1768882221,
       "rank": 49,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 126446,
+      "num": 126446,
+      "word": "孙颖莎邱贻可一起上训",
+      "onboard_time": 1768910301,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 125978,
@@ -1507,12 +1619,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 121005,
-      "num": 100172,
-      "word": "何聪睿道歉",
-      "onboard_time": 1768909402,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 121099,
+      "num": 105859,
+      "word": "爸爸让女儿宣传公司",
+      "onboard_time": 1768911021,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 120325,
+      "num": 120325,
+      "word": "何宣林她可是离光青葵",
+      "onboard_time": 1768910722,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 120246,
@@ -1584,6 +1704,14 @@
       "word": "文旅局回应大地之子雕塑成公厕",
       "onboard_time": 1768882043,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115160,
+      "num": 128364,
+      "word": "榜样10",
+      "onboard_time": 1768912700,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -1755,6 +1883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106693,
+      "num": 106693,
+      "word": "你觉得不好看其实超健康的特点",
+      "onboard_time": 1768912640,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106585,
       "num": 99490,
       "word": "小城大事",
@@ -1793,6 +1929,14 @@
       "onboard_time": 1768894400,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105678,
+      "num": 105678,
+      "word": "女生回应张凌赫曾是补习老师",
+      "onboard_time": 1768910541,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 105574,
@@ -2227,6 +2371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87996,
+      "num": 87996,
+      "word": "U23亚洲杯日本vs韩国",
+      "onboard_time": 1768913240,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87769,
       "num": 87769,
       "word": "裴轸黑化",
@@ -2273,6 +2425,14 @@
       "onboard_time": 1768907541,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86360,
+      "num": 86360,
+      "word": "这才是我该看的男女主和好速度",
+      "onboard_time": 1768913901,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 85647,
@@ -2427,6 +2587,14 @@
       "category": "财经,休闲"
     },
     {
+      "raw_hot": 78929,
+      "num": 78929,
+      "word": "头一次见这么正宗的猫步",
+      "onboard_time": 1768913421,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 78137,
       "num": 78137,
       "word": "南方人过大寒离不开保暖三件套",
@@ -2435,12 +2603,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 77988,
+      "num": 77988,
+      "word": "一种让人很舒服的朋友关系",
+      "onboard_time": 1768911021,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 76512,
+      "num": 76512,
+      "word": "银价波动",
+      "onboard_time": 1768913841,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 76124,
       "num": 96781,
       "word": "突然觉得餐饮没那么好做了",
       "onboard_time": 1768906402,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 75814,
+      "num": 75814,
+      "word": "BLG战胜IG",
+      "onboard_time": 1768914260,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 75671,
@@ -2457,6 +2649,14 @@
       "onboard_time": 1768837342,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 75417,
+      "num": 75417,
+      "word": "刘宇宁听到粉丝告白反应",
+      "onboard_time": 1768914082,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 75328,
@@ -2577,6 +2777,14 @@
       "onboard_time": 1768828762,
       "rank": 29,
       "category": "网红"
+    },
+    {
+      "raw_hot": 64762,
+      "num": 133376,
+      "word": "Turbo5Max五年电池保",
+      "onboard_time": 1768912521,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 64449,
@@ -2987,12 +3195,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20052,
+      "num": 106060,
+      "word": "喵娲娲",
+      "onboard_time": 1768910842,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 19826,
+      "num": 626378,
+      "word": "还有不到30天过年",
+      "onboard_time": 1768913781,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19800,
       "num": 99898,
       "word": "李若彤逛大学夜市收到求职简历",
       "onboard_time": 1768909460,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19141,
+      "num": 78680,
+      "word": "创新中国活力澎湃",
+      "onboard_time": 1768913421,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19066,
@@ -3083,6 +3315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 13175,
+      "num": 74608,
+      "word": "90后老板对品质有多执着",
+      "onboard_time": 1768911742,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12265,
       "num": 20448,
       "word": "张极2026年看到的第一个日出",
@@ -3103,6 +3343,14 @@
       "num": 93717,
       "word": "香港强制举报虐待儿童条例生效",
       "onboard_time": 1768899081,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7967,
+      "num": 84470,
+      "word": "多品牌儿童洞洞鞋化学物质超标",
+      "onboard_time": 1768914201,
       "rank": 39,
       "category": "民生新闻"
     },
@@ -3132,6 +3380,9 @@
     },
     {
       "word": "#大寒节令送大爱#"
+    },
+    {
+      "word": "#十五五开局之年第一课#"
     }
   ]
 }

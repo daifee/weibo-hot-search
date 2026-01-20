@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768909538947,
+  "endTime": 1768914315204,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -3091,6 +3091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 647129,
+      "num": 1103540,
+      "word": "轧戏大结局",
+      "onboard_time": 1768909941,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 645040,
       "num": 217192,
       "word": "沈逸 牢A",
@@ -3377,6 +3385,14 @@
       "onboard_time": 1768694538,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 621159,
+      "num": 621159,
+      "word": "李亚鹏谈4000万欠款的真实原因",
+      "onboard_time": 1768912281,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 619036,
@@ -6252,7 +6268,7 @@
     },
     {
       "raw_hot": 459240,
-      "num": 112360,
+      "num": 132085,
       "word": "VOGUE发了王橹杰穆祉丞",
       "onboard_time": 1768906702,
       "rank": 20,
@@ -8137,6 +8153,14 @@
       "onboard_time": 1768663042,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 389185,
+      "num": 106404,
+      "word": "何聪睿道歉",
+      "onboard_time": 1768909402,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 388573,
@@ -10883,6 +10907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 313957,
+      "num": 313957,
+      "word": "腾讯力挺陈星旭",
+      "onboard_time": 1768910603,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 313921,
       "num": 313921,
       "word": "网传刘耀文出演十日终焉",
@@ -11376,6 +11408,14 @@
       "word": "赵樱子称这辈子最感谢关晓彤",
       "onboard_time": 1768549940,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 301268,
+      "num": 145371,
+      "word": "向涵之瘦下来好像钟楚曦",
+      "onboard_time": 1768912521,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -12572,7 +12612,7 @@
     },
     {
       "raw_hot": 275695,
-      "num": 275695,
+      "num": 405502,
       "word": "人类对牛奶的开发不足1%",
       "onboard_time": 1768903700,
       "rank": 5,
@@ -15459,6 +15499,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 226829,
+      "num": 150745,
+      "word": "女子遭强奸被杀2次望判凶手死刑",
+      "onboard_time": 1768907481,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226652,
       "num": 186336,
       "word": "林屿森聂曦光完全动情了发狠了",
@@ -15561,6 +15609,14 @@
       "onboard_time": 1768379781,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 225998,
+      "num": 140058,
+      "word": "肖战他瞅了我一眼",
+      "onboard_time": 1768913601,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 225933,
@@ -15761,14 +15817,6 @@
       "onboard_time": 1768141643,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 222475,
-      "num": 150745,
-      "word": "女子遭强奸被杀2次望判凶手死刑",
-      "onboard_time": 1768907481,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 222414,
@@ -17649,6 +17697,14 @@
       "onboard_time": 1768899382,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203229,
+      "num": 130077,
+      "word": "张维伊的演技被低估了",
+      "onboard_time": 1768911981,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 203094,
@@ -20723,6 +20779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181374,
+      "num": 106686,
+      "word": "肯德基下乡",
+      "onboard_time": 1768913421,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 181358,
       "num": 181358,
       "word": "U23亚洲杯",
@@ -21049,6 +21113,14 @@
       "onboard_time": 1768397360,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178485,
+      "num": 137944,
+      "word": "慕胥辞招商",
+      "onboard_time": 1768913181,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 178442,
@@ -22905,6 +22977,14 @@
       "onboard_time": 1767691702,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165520,
+      "num": 165520,
+      "word": "解放军演练斩首行动台独慌了",
+      "onboard_time": 1768912700,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 165519,
@@ -25035,6 +25115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152978,
+      "num": 152978,
+      "word": "iG对战BLG",
+      "onboard_time": 1768912221,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152911,
       "num": 219440,
       "word": "69岁断臂奶奶替亡子还债",
@@ -26273,6 +26361,14 @@
       "onboard_time": 1768259719,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146821,
+      "num": 133975,
+      "word": "陈哲远妈生颜霸",
+      "onboard_time": 1768912823,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 146758,
@@ -28411,6 +28507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137678,
+      "num": 137678,
+      "word": "小城大事收视第一",
+      "onboard_time": 1768913120,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137651,
       "num": 170059,
       "word": "35岁以后的降维打击",
@@ -28900,7 +29004,7 @@
     },
     {
       "raw_hot": 135680,
-      "num": 100893,
+      "num": 123672,
       "word": "关晓彤是手太大还是脸太小",
       "onboard_time": 1768909041,
       "rank": 33,
@@ -31483,6 +31587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 126446,
+      "num": 126446,
+      "word": "孙颖莎邱贻可一起上训",
+      "onboard_time": 1768910301,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126423,
       "num": 186748,
       "word": "U23男足战胜澳大利亚",
@@ -33123,6 +33235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121099,
+      "num": 105859,
+      "word": "爸爸让女儿宣传公司",
+      "onboard_time": 1768911021,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121031,
       "num": 465084,
       "word": "蔡磊透露已进入疾病终末期",
@@ -33137,14 +33257,6 @@
       "onboard_time": 1767847521,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 121005,
-      "num": 100172,
-      "word": "何聪睿道歉",
-      "onboard_time": 1768909402,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 121004,
@@ -33425,6 +33537,14 @@
       "onboard_time": 1768277723,
       "rank": 42,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 120325,
+      "num": 120325,
+      "word": "何宣林她可是离光青葵",
+      "onboard_time": 1768910722,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 120306,
@@ -35105,6 +35225,14 @@
       "onboard_time": 1768655841,
       "rank": 19,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 115160,
+      "num": 128364,
+      "word": "榜样10",
+      "onboard_time": 1768912700,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115149,
@@ -38083,6 +38211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106693,
+      "num": 106693,
+      "word": "你觉得不好看其实超健康的特点",
+      "onboard_time": 1768912640,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106679,
       "num": 106679,
       "word": "迅猛龙回应参加恋综",
@@ -38673,6 +38809,14 @@
       "onboard_time": 1767936682,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 105678,
+      "num": 105678,
+      "word": "女生回应张凌赫曾是补习老师",
+      "onboard_time": 1768910541,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 105673,
@@ -47427,6 +47571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 87996,
+      "num": 87996,
+      "word": "U23亚洲杯日本vs韩国",
+      "onboard_time": 1768913240,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87924,
       "num": 402367,
       "word": "日本精致的窘迫",
@@ -48409,6 +48561,14 @@
       "onboard_time": 1768548921,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86360,
+      "num": 86360,
+      "word": "这才是我该看的男女主和好速度",
+      "onboard_time": 1768913901,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 86350,
@@ -51947,6 +52107,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 78929,
+      "num": 78929,
+      "word": "头一次见这么正宗的猫步",
+      "onboard_time": 1768913421,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 78901,
       "num": 78901,
       "word": "肖央 他们说一秒都不用剪",
@@ -52241,6 +52409,14 @@
       "onboard_time": 1768113323,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 77988,
+      "num": 77988,
+      "word": "一种让人很舒服的朋友关系",
+      "onboard_time": 1768911021,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 77947,
@@ -52763,6 +52939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76512,
+      "num": 76512,
+      "word": "银价波动",
+      "onboard_time": 1768913841,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 76460,
       "num": 86633,
       "word": "留几手称童锦程被算计了",
@@ -52963,6 +53147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75814,
+      "num": 75814,
+      "word": "BLG战胜IG",
+      "onboard_time": 1768914260,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 75790,
       "num": 88815,
       "word": "马斯克与瑞安航空CEO对骂",
@@ -53097,6 +53289,14 @@
       "onboard_time": 1767675622,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75417,
+      "num": 75417,
+      "word": "刘宇宁听到粉丝告白反应",
+      "onboard_time": 1768914082,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 75378,
@@ -56233,6 +56433,14 @@
       "onboard_time": 1768779439,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64762,
+      "num": 133376,
+      "word": "Turbo5Max五年电池保",
+      "onboard_time": 1768912521,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 64707,
@@ -65267,6 +65475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20052,
+      "num": 106060,
+      "word": "喵娲娲",
+      "onboard_time": 1768910842,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 20035,
       "num": 603644,
       "word": "2026乘势而上阔步前行",
@@ -65313,6 +65529,14 @@
       "onboard_time": 1768207940,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 19826,
+      "num": 626378,
+      "word": "还有不到30天过年",
+      "onboard_time": 1768913781,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19800,
@@ -65441,6 +65665,14 @@
       "onboard_time": 1768673597,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 19141,
+      "num": 78680,
+      "word": "创新中国活力澎湃",
+      "onboard_time": 1768913421,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19066,
@@ -66187,6 +66419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 13175,
+      "num": 74608,
+      "word": "90后老板对品质有多执着",
+      "onboard_time": 1768911742,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13097,
       "num": 24876,
       "word": "美石油高管对投资委内瑞拉表态谨慎",
@@ -66603,6 +66843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 7967,
+      "num": 84470,
+      "word": "多品牌儿童洞洞鞋化学物质超标",
+      "onboard_time": 1768914201,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 7329,
       "num": 253690,
       "word": "拼搏进取的中国青年好样的",
@@ -66838,6 +67086,9 @@
     },
     {
       "word": "#大寒节令送大爱#"
+    },
+    {
+      "word": "#十五五开局之年第一课#"
     }
   ]
 }

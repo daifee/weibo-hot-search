@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768909538947,
+  "endTime": 1768914315204,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -491,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 647129,
+      "num": 1103540,
+      "word": "轧戏大结局",
+      "onboard_time": 1768909941,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 645040,
       "num": 217192,
       "word": "沈逸 牢A",
@@ -569,6 +577,14 @@
       "onboard_time": 1768694538,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 621159,
+      "num": 621159,
+      "word": "李亚鹏谈4000万欠款的真实原因",
+      "onboard_time": 1768912281,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 607681,
@@ -932,7 +948,7 @@
     },
     {
       "raw_hot": 459240,
-      "num": 112360,
+      "num": 132085,
       "word": "VOGUE发了王橹杰穆祉丞",
       "onboard_time": 1768906702,
       "rank": 20,
@@ -1257,6 +1273,14 @@
       "onboard_time": 1768663042,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 389185,
+      "num": 106404,
+      "word": "何聪睿道歉",
+      "onboard_time": 1768909402,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 385990,
@@ -1627,6 +1651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 313957,
+      "num": 313957,
+      "word": "腾讯力挺陈星旭",
+      "onboard_time": 1768910603,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 312696,
       "num": 198092,
       "word": "周星驰悼念梁小龙",
@@ -1681,6 +1713,14 @@
       "onboard_time": 1768732282,
       "rank": 19,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 301268,
+      "num": 145371,
+      "word": "向涵之瘦下来好像钟楚曦",
+      "onboard_time": 1768912521,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 297527,
@@ -1844,7 +1884,7 @@
     },
     {
       "raw_hot": 275695,
-      "num": 275695,
+      "num": 405502,
       "word": "人类对牛奶的开发不足1%",
       "onboard_time": 1768903700,
       "rank": 5,
@@ -2291,6 +2331,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 226829,
+      "num": 150745,
+      "word": "女子遭强奸被杀2次望判凶手死刑",
+      "onboard_time": 1768907481,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225998,
+      "num": 140058,
+      "word": "肖战他瞅了我一眼",
+      "onboard_time": 1768913601,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225933,
       "num": 336210,
       "word": "准女婿见岳父变脸如翻书",
@@ -2321,14 +2377,6 @@
       "onboard_time": 1768735462,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 222475,
-      "num": 150745,
-      "word": "女子遭强奸被杀2次望判凶手死刑",
-      "onboard_time": 1768907481,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 222375,
@@ -2657,6 +2705,14 @@
       "onboard_time": 1768899382,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203229,
+      "num": 130077,
+      "word": "张维伊的演技被低估了",
+      "onboard_time": 1768911981,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 203006,
@@ -3091,6 +3147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 181374,
+      "num": 106686,
+      "word": "肯德基下乡",
+      "onboard_time": 1768913421,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 179348,
       "num": 144601,
       "word": "道歉变处刑道德正义不等于合法判断",
@@ -3105,6 +3169,14 @@
       "onboard_time": 1768790422,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 178485,
+      "num": 137944,
+      "word": "慕胥辞招商",
+      "onboard_time": 1768913181,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 178179,
@@ -3377,6 +3449,14 @@
       "onboard_time": 1768820121,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165520,
+      "num": 165520,
+      "word": "解放军演练斩首行动台独慌了",
+      "onboard_time": 1768912700,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 165500,
@@ -3667,6 +3747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 152978,
+      "num": 152978,
+      "word": "iG对战BLG",
+      "onboard_time": 1768912221,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152869,
       "num": 152869,
       "word": "陈伟霆在拍许我耀眼续集吗",
@@ -3856,6 +3944,14 @@
       "word": "火云邪神",
       "onboard_time": 1768723942,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 146821,
+      "num": 133975,
+      "word": "陈哲远妈生颜霸",
+      "onboard_time": 1768912823,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -4211,6 +4307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137678,
+      "num": 137678,
+      "word": "小城大事收视第一",
+      "onboard_time": 1768913120,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136916,
       "num": 214229,
       "word": "黄子韬刘耀文一起去滑雪了",
@@ -4244,7 +4348,7 @@
     },
     {
       "raw_hot": 135680,
-      "num": 100893,
+      "num": 123672,
       "word": "关晓彤是手太大还是脸太小",
       "onboard_time": 1768909041,
       "rank": 33,
@@ -4603,6 +4707,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 126446,
+      "num": 126446,
+      "word": "孙颖莎邱贻可一起上训",
+      "onboard_time": 1768910301,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126194,
       "num": 117839,
       "word": "刘耀文少年将军裴行俨",
@@ -4859,12 +4971,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 121005,
-      "num": 100172,
-      "word": "何聪睿道歉",
-      "onboard_time": 1768909402,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 121099,
+      "num": 105859,
+      "word": "爸爸让女儿宣传公司",
+      "onboard_time": 1768911021,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 120935,
@@ -4889,6 +5001,14 @@
       "onboard_time": 1768818023,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120325,
+      "num": 120325,
+      "word": "何宣林她可是离光青葵",
+      "onboard_time": 1768910722,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 120306,
@@ -5200,6 +5320,14 @@
       "word": "文旅局回应大地之子雕塑成公厕",
       "onboard_time": 1768882043,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115160,
+      "num": 128364,
+      "word": "榜样10",
+      "onboard_time": 1768912700,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -5675,6 +5803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106693,
+      "num": 106693,
+      "word": "你觉得不好看其实超健康的特点",
+      "onboard_time": 1768912640,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106639,
       "num": 106639,
       "word": "吴磊工作室1天3次辟谣",
@@ -5761,6 +5897,14 @@
       "onboard_time": 1768894400,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105678,
+      "num": 105678,
+      "word": "女生回应张凌赫曾是补习老师",
+      "onboard_time": 1768910541,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 105574,
@@ -7179,6 +7323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87996,
+      "num": 87996,
+      "word": "U23亚洲杯日本vs韩国",
+      "onboard_time": 1768913240,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87818,
       "num": 87818,
       "word": "樊振东再现坚定眼神一眼万年",
@@ -7361,6 +7513,14 @@
       "onboard_time": 1768834462,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 86360,
+      "num": 86360,
+      "word": "这才是我该看的男女主和好速度",
+      "onboard_time": 1768913901,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 86225,
@@ -7971,6 +8131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78929,
+      "num": 78929,
+      "word": "头一次见这么正宗的猫步",
+      "onboard_time": 1768913421,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 78720,
       "num": 78720,
       "word": "我们这里吃面包不用拉小提琴",
@@ -8009,6 +8177,14 @@
       "onboard_time": 1768876459,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 77988,
+      "num": 77988,
+      "word": "一种让人很舒服的朋友关系",
+      "onboard_time": 1768911021,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 77759,
@@ -8083,6 +8259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76512,
+      "num": 76512,
+      "word": "银价波动",
+      "onboard_time": 1768913841,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 76378,
       "num": 98672,
       "word": "曝iPhone18Pro将首发5G卫星通信",
@@ -8139,6 +8323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 75814,
+      "num": 75814,
+      "word": "BLG战胜IG",
+      "onboard_time": 1768914260,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 75671,
       "num": 75671,
       "word": "5年期和1年期LPR利率维持不变",
@@ -8161,6 +8353,14 @@
       "onboard_time": 1768805721,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 75417,
+      "num": 75417,
+      "word": "刘宇宁听到粉丝告白反应",
+      "onboard_time": 1768914082,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 75328,
@@ -8657,6 +8857,14 @@
       "onboard_time": 1768779439,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64762,
+      "num": 133376,
+      "word": "Turbo5Max五年电池保",
+      "onboard_time": 1768912521,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 64335,
@@ -9859,12 +10067,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20052,
+      "num": 106060,
+      "word": "喵娲娲",
+      "onboard_time": 1768910842,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 19943,
       "num": 46383,
       "word": "A股上市公司密集公告业绩预增",
       "onboard_time": 1768674316,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 19826,
+      "num": 626378,
+      "word": "还有不到30天过年",
+      "onboard_time": 1768913781,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19800,
@@ -9889,6 +10113,14 @@
       "onboard_time": 1768673597,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 19141,
+      "num": 78680,
+      "word": "创新中国活力澎湃",
+      "onboard_time": 1768913421,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19118,
@@ -10027,6 +10259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13175,
+      "num": 74608,
+      "word": "90后老板对品质有多执着",
+      "onboard_time": 1768911742,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12974,
       "num": 26260,
       "word": "英超联赛",
@@ -10099,6 +10339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 7967,
+      "num": 84470,
+      "word": "多品牌儿童洞洞鞋化学物质超标",
+      "onboard_time": 1768914201,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 6035,
       "num": 667990,
       "word": "我国经济总量连续跨越新关口",
@@ -10128,6 +10376,9 @@
     },
     {
       "word": "#大寒节令送大爱#"
+    },
+    {
+      "word": "#十五五开局之年第一课#"
     }
   ]
 }
