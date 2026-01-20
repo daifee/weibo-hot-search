@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768882333874,
+  "endTime": 1768883524401,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -459,6 +459,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 637846,
+      "num": 637846,
+      "word": "光遇",
+      "onboard_time": 1768882341,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 630413,
       "num": 447345,
       "word": "原来小学成绩差的学生是这样的",
@@ -601,6 +609,14 @@
       "onboard_time": 1768739062,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 546140,
+      "num": 468510,
+      "word": "李昀锐黄杨钿甜冰湖重生大寒营业",
+      "onboard_time": 1768879941,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 540756,
@@ -779,14 +795,6 @@
       "category": "幽默,美食"
     },
     {
-      "raw_hot": 468510,
-      "num": 468510,
-      "word": "李昀锐黄杨钿甜冰湖重生大寒营业",
-      "onboard_time": 1768879941,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 467200,
       "num": 241817,
       "word": "成毅和欢瑞合同到期",
@@ -844,7 +852,7 @@
     },
     {
       "raw_hot": 445818,
-      "num": 817266,
+      "num": 848300,
       "word": "带1000去嫣然医院出院还剩990",
       "onboard_time": 1768876159,
       "rank": 23,
@@ -1096,6 +1104,14 @@
       "word": "曝iPhone18Pro外观",
       "onboard_time": 1768869260,
       "rank": 12,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 371724,
+      "num": 232747,
+      "word": "iPhone18Pro外观放弃药丸屏",
+      "onboard_time": 1768880302,
+      "rank": 15,
       "category": "数码"
     },
     {
@@ -1491,20 +1507,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 281204,
-      "num": 232747,
-      "word": "iPhone18Pro外观放弃药丸屏",
-      "onboard_time": 1768880302,
-      "rank": 15,
-      "category": "数码"
-    },
-    {
       "raw_hot": 280621,
       "num": 164231,
       "word": "孟子义第一个综艺",
       "onboard_time": 1768715659,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 278703,
+      "num": 278703,
+      "word": "冰湖重生",
+      "onboard_time": 1768876939,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 276136,
@@ -1529,14 +1545,6 @@
       "onboard_time": 1768826481,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 274890,
-      "num": 274890,
-      "word": "冰湖重生",
-      "onboard_time": 1768876939,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 274651,
@@ -1883,6 +1891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227021,
+      "num": 227021,
+      "word": "A股又突然跳水",
+      "onboard_time": 1768881922,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 226935,
       "num": 226935,
       "word": "王安宇杂志",
@@ -1947,6 +1963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 221165,
+      "num": 221165,
+      "word": "梁小龙死因公开",
+      "onboard_time": 1768882884,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221036,
       "num": 173301,
       "word": "王俊凯依旧手搓蛋糕",
@@ -1969,6 +1993,14 @@
       "onboard_time": 1768724421,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218978,
+      "num": 218978,
+      "word": "李亚鹏公司前员工发声",
+      "onboard_time": 1768882641,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218504,
@@ -2171,6 +2203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203348,
+      "num": 203348,
+      "word": "唐宫奇案",
+      "onboard_time": 1768882403,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203006,
       "num": 145181,
       "word": "林依轮 这个评论好像死了",
@@ -2281,6 +2321,14 @@
       "onboard_time": 1768821982,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199306,
+      "num": 199306,
+      "word": "谷爱凌最喜欢的礼物是蜜三刀",
+      "onboard_time": 1768882461,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 197978,
@@ -2499,6 +2547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187017,
+      "num": 187017,
+      "word": "阿爆解除私密账号状态",
+      "onboard_time": 1768882941,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 186171,
       "num": 186171,
       "word": "原来镖人女武一也是女舞一",
@@ -2603,6 +2659,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 176872,
+      "num": 217206,
+      "word": "高市早苗放话",
+      "onboard_time": 1768881682,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 176852,
       "num": 176852,
       "word": "那英 这个高音只有你花老师能唱",
@@ -2675,14 +2739,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 171440,
-      "num": 171440,
-      "word": "A股又突然跳水",
-      "onboard_time": 1768881922,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 170794,
       "num": 108584,
       "word": "牢A说一定要感激高考",
@@ -2737,6 +2793,14 @@
       "onboard_time": 1768725502,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167625,
+      "num": 167625,
+      "word": "米兰冬奥会",
+      "onboard_time": 1768882282,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 167087,
@@ -2851,6 +2915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162136,
+      "num": 162136,
+      "word": "光遇复刻",
+      "onboard_time": 1768882522,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 161661,
       "num": 161661,
       "word": "男子从喉咙痛到进ICU只用1小时",
@@ -2907,6 +2979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158443,
+      "num": 158443,
+      "word": "李煜东小学就长得像男大了",
+      "onboard_time": 1768883061,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156856,
       "num": 203280,
       "word": "JackeyLove说TES就在今天",
@@ -2937,6 +3017,14 @@
       "onboard_time": 1768745424,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155386,
+      "num": 155386,
+      "word": "李亚鹏前妻说特别为他开心",
+      "onboard_time": 1768883303,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 155341,
@@ -2977,6 +3065,14 @@
       "onboard_time": 1768738462,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153244,
+      "num": 153244,
+      "word": "第一批回老家的已被物价惊呆了",
+      "onboard_time": 1768880541,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 152980,
@@ -3033,14 +3129,6 @@
       "onboard_time": 1768702700,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151105,
-      "num": 151105,
-      "word": "第一批回老家的已被物价惊呆了",
-      "onboard_time": 1768880541,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 150786,
@@ -3395,6 +3483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138625,
+      "num": 138625,
+      "word": "卢昱晓代旭请二搭",
+      "onboard_time": 1768883242,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138285,
       "num": 205564,
       "word": "西班牙高铁事故死亡人数升至39人",
@@ -3699,6 +3795,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 128717,
+      "num": 128717,
+      "word": "浙江人均存款超17万元",
+      "onboard_time": 1768880481,
+      "rank": 47,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 128012,
       "num": 128012,
       "word": "开年第一部高甜韩剧",
@@ -3745,6 +3849,14 @@
       "onboard_time": 1768710139,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126676,
+      "num": 126676,
+      "word": "华伦天奴把家中城堡打造成中式宫殿",
+      "onboard_time": 1768882221,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 126194,
@@ -3987,6 +4099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120246,
+      "num": 120246,
+      "word": "A股近2700只个股下跌",
+      "onboard_time": 1768883482,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 119887,
       "num": 119887,
       "word": "卫龙向嫣然医院捐款50万",
@@ -4107,6 +4227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117786,
+      "num": 117786,
+      "word": "郑州一医院1天接诊98名骨折患者",
+      "onboard_time": 1768881502,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117600,
       "num": 117600,
       "word": "我的朋友安德烈",
@@ -4169,14 +4297,6 @@
       "onboard_time": 1768797623,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116425,
-      "num": 116425,
-      "word": "米兰冬奥会",
-      "onboard_time": 1768882282,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 116318,
@@ -4499,14 +4619,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 108934,
-      "num": 108934,
-      "word": "浙江人均存款超17万元",
-      "onboard_time": 1768880481,
-      "rank": 47,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 108786,
       "num": 108786,
       "word": "原来郝建就是沈腾啊",
@@ -4657,14 +4769,6 @@
       "onboard_time": 1768800202,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 106264,
-      "num": 105102,
-      "word": "华伦天奴把家中城堡打造成中式宫殿",
-      "onboard_time": 1768882221,
-      "rank": 49,
-      "category": "时尚"
     },
     {
       "raw_hot": 106081,
@@ -6011,6 +6115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85441,
+      "num": 138629,
+      "word": "男子随身带手铐强奸5未成年获刑",
+      "onboard_time": 1768882282,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85428,
       "num": 68307,
       "word": "樊振东16比14高茨",
@@ -6443,6 +6555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 78373,
+      "num": 139524,
+      "word": "10月大婴儿误食鞭炮口腔炸伤",
+      "onboard_time": 1768883362,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78311,
       "num": 78311,
       "word": "能治黄子韬的除了徐艺洋还有刘耀文",
@@ -6603,14 +6723,6 @@
       "category": "艺人,互联网"
     },
     {
-      "raw_hot": 75747,
-      "num": 217206,
-      "word": "高市早苗放话",
-      "onboard_time": 1768881682,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 75671,
       "num": 75671,
       "word": "5年期和1年期LPR利率维持不变",
@@ -6633,6 +6745,14 @@
       "onboard_time": 1768805721,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 75328,
+      "num": 219302,
+      "word": "独生子女到了给父母养老的时刻",
+      "onboard_time": 1768882403,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 75272,
@@ -6769,14 +6889,6 @@
       "onboard_time": 1768830622,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72133,
-      "num": 115211,
-      "word": "郑州一医院1天接诊98名骨折患者",
-      "onboard_time": 1768881502,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 71826,
@@ -6920,6 +7032,14 @@
       "word": "丁程鑫跳Maria",
       "onboard_time": 1768700421,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 68447,
+      "num": 140800,
+      "word": "早期王一博 内娱魔丸",
+      "onboard_time": 1768883482,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -7347,6 +7467,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 57053,
+      "num": 218983,
+      "word": "成为中国人咋就在海外火了",
+      "onboard_time": 1768883242,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55378,
       "num": 71964,
       "word": "肖战为新剧主动减重18斤",
@@ -7497,6 +7625,14 @@
       "onboard_time": 1768838180,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 50970,
+      "num": 139511,
+      "word": "23岁新娘喝农药自杀进展",
+      "onboard_time": 1768882822,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50761,
@@ -7907,14 +8043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30826,
-      "num": 113800,
-      "word": "男子随身带手铐强奸5未成年获刑",
-      "onboard_time": 1768882282,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30351,
       "num": 30351,
       "word": "赵今麦骄阳似我庆功宴造型",
@@ -7971,6 +8099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 27959,
+      "num": 659241,
+      "word": "用大寒节气打开冬日中国之美",
+      "onboard_time": 1768878861,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27014,
       "num": 50796,
       "word": "拿板凳打人学生已被劝退",
@@ -8000,14 +8136,6 @@
       "word": "央视揭露菜商使用含毒农药",
       "onboard_time": 1768801222,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26284,
-      "num": 647526,
-      "word": "用大寒节气打开冬日中国之美",
-      "onboard_time": 1768878861,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -8120,6 +8248,14 @@
       "word": "尹锡悦就首案被判5年上诉",
       "onboard_time": 1768812981,
       "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 20254,
+      "num": 219001,
+      "word": "特朗普重返白宫1周年",
+      "onboard_time": 1768882884,
+      "rank": 19,
       "category": "国际时政"
     },
     {
