@@ -1,0 +1,410 @@
+{
+  "runTime": 1768887420495,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 546483,
+        "num": 1087437,
+        "word": "儿子回应怒吼癌症妈妈碰瓷爆火",
+        "onboard_time": 1768875799,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370621,
+        "num": 766150,
+        "word": "医生给1岁娃开小众药被AI提醒慎用",
+        "onboard_time": 1768884022,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21814,
+        "num": 627415,
+        "word": "用大寒节气打开冬日中国之美",
+        "onboard_time": 1768878861,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412183,
+        "num": 412183,
+        "word": "李亚鹏公司前员工发声",
+        "onboard_time": 1768882641,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401108,
+        "num": 401108,
+        "word": "华伦天奴去世",
+        "onboard_time": 1768867459,
+        "rank": 4,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 366083,
+        "num": 366083,
+        "word": "第一批回老家的已被物价惊呆了",
+        "onboard_time": 1768880541,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 340066,
+        "num": 340066,
+        "word": "冰湖重生",
+        "onboard_time": 1768876939,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253020,
+        "num": 253020,
+        "word": "带1000去嫣然医院出院还剩990",
+        "onboard_time": 1768876159,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223997,
+        "num": 223997,
+        "word": "林孝埈首次以中国国籍参加冬奥会",
+        "onboard_time": 1768879401,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206381,
+        "num": 206381,
+        "word": "包钢板材厂爆炸已确认9人死亡",
+        "onboard_time": 1768886122,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1553546,
+        "num": 204402,
+        "word": "阿爆",
+        "onboard_time": 1768878139,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 936828,
+        "num": 200058,
+        "word": "阿爆回应",
+        "onboard_time": 1768884982,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 245332,
+        "num": 190031,
+        "word": "iPhone18Pro外观放弃药丸屏",
+        "onboard_time": 1768880302,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 565970,
+        "num": 183221,
+        "word": "杨振华去世",
+        "onboard_time": 1768880001,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51159,
+        "num": 178690,
+        "word": "郑钦文找到了命中注定的代言",
+        "onboard_time": 1768885282,
+        "rank": 14,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 459141,
+        "num": 172444,
+        "word": "没有给有钱人提供情绪价值的义务",
+        "onboard_time": 1768884083,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 428721,
+        "num": 169100,
+        "word": "梁小龙死因公开",
+        "onboard_time": 1768882884,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165257,
+        "num": 165257,
+        "word": "贝克汉姆遭大儿子控诉",
+        "onboard_time": 1768868059,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48723,
+        "num": 165216,
+        "word": "呆呆说自己确实闯了个大祸",
+        "onboard_time": 1768886841,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46862,
+        "num": 165134,
+        "word": "11岁女孩捐200元零花钱给嫣然医院",
+        "onboard_time": 1768886421,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450914,
+        "num": 165094,
+        "word": "女网红在飞机上尖叫可能面临禁飞",
+        "onboard_time": 1768884321,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349145,
+        "num": 164942,
+        "word": "李亚鹏说嫣儿像王菲不像自己",
+        "onboard_time": 1768886360,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220201,
+        "num": 164903,
+        "word": "牢A长得和头像一模一样啊",
+        "onboard_time": 1768885102,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164850,
+        "num": 164850,
+        "word": "阿爆解除私密账号状态",
+        "onboard_time": 1768882941,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 160430,
+        "num": 160430,
+        "word": "这个月工资就是今年攒了多少钱",
+        "onboard_time": 1768884142,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151578,
+        "num": 151578,
+        "word": "早期王一博 内娱魔丸",
+        "onboard_time": 1768883482,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217876,
+        "num": 151421,
+        "word": "美媒印证了牢A的捐献器官说法",
+        "onboard_time": 1768883840,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108853,
+        "num": 150766,
+        "word": "汪苏泷HBN",
+        "onboard_time": 1768885401,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150548,
+        "num": 150548,
+        "word": "存不到一个亿都对不起这个蛋",
+        "onboard_time": 1768885522,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150029,
+        "num": 150029,
+        "word": "00后女子天生只有10颗牙",
+        "onboard_time": 1768886241,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137570,
+        "num": 137570,
+        "word": "突然的喜欢才是陈星旭的主场",
+        "onboard_time": 1768887261,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131826,
+        "num": 131826,
+        "word": "阿爆私密账号",
+        "onboard_time": 1768879882,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 129925,
+        "num": 129925,
+        "word": "巴特勒膝盖受伤痛苦倒地",
+        "onboard_time": 1768885522,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129312,
+        "num": 129312,
+        "word": "不发生活类朋友圈是一种自保",
+        "onboard_time": 1768884502,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127024,
+        "num": 127024,
+        "word": "牢A说不是有国籍就是中国人",
+        "onboard_time": 1768886841,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125674,
+        "num": 125674,
+        "word": "小芒APP道歉",
+        "onboard_time": 1768887141,
+        "rank": 35,
+        "category": "互联网,作品衍生"
+      },
+      {
+        "raw_hot": 117792,
+        "num": 117792,
+        "word": "A股又突然跳水",
+        "onboard_time": 1768881922,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111734,
+        "num": 111734,
+        "word": "小贝长子曝母亲安插前女友破坏婚姻",
+        "onboard_time": 1768876519,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111422,
+        "num": 111422,
+        "word": "赵樱子崩溃大哭",
+        "onboard_time": 1768887200,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110473,
+        "num": 110473,
+        "word": "吴青峰发文追星裘德",
+        "onboard_time": 1768886001,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96761,
+        "num": 96761,
+        "word": "商业航天板块杀跌",
+        "onboard_time": 1768886781,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107206,
+        "num": 96109,
+        "word": "关晓彤补妆好可爱",
+        "onboard_time": 1768885761,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98677,
+        "num": 96053,
+        "word": "陈星旭王玉雯新剧吻疯丧胆",
+        "onboard_time": 1768879762,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94923,
+        "num": 94923,
+        "word": "光遇",
+        "onboard_time": 1768882341,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94168,
+        "num": 94168,
+        "word": "唐宫奇案",
+        "onboard_time": 1768882403,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92589,
+        "num": 92589,
+        "word": "林志玲依旧曼妙",
+        "onboard_time": 1768887081,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89304,
+        "num": 89304,
+        "word": "上海下雪",
+        "onboard_time": 1768864638,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92235,
+        "num": 88928,
+        "word": "辛云来现在是什么角色都敢演",
+        "onboard_time": 1768886541,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90851,
+        "num": 88480,
+        "word": "霸总直了半辈子的腰上综艺弯了五次",
+        "onboard_time": 1768878980,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86579,
+        "num": 86579,
+        "word": "发现睡前出去冻会就能早睡",
+        "onboard_time": 1768887381,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}

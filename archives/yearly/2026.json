@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768885500577,
+  "endTime": 1768887420495,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1435,6 +1435,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 936828,
+      "num": 200058,
+      "word": "阿爆回应",
+      "onboard_time": 1768884982,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 934753,
       "num": 590523,
       "word": "杨紫换头像",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768118601,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 736598,
-      "num": 292215,
-      "word": "iPhone4回收价涨了60倍",
-      "onboard_time": 1768207640,
-      "rank": 9,
-      "category": "数码"
     }
   ],
   "hotgov_list": [

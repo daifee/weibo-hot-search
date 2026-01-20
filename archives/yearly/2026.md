@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/20 13:05:00
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/20 13:37:00
 </p>
 </blockquote>
 <p>
@@ -1089,6 +1089,12 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%88%86%E5%9B%9E%E5%BA%94%23" target="weibo">
+阿爆回应（热度：936828）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%8D%A2%E5%A4%B4%E5%83%8F%23" target="weibo">
 杨紫换头像（热度：934753）
 </a>
@@ -1805,12 +1811,6 @@ iPhone18Pro新爆料（热度：826962）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A5%95%E7%84%B6%E4%BD%8F%E5%BB%89%E7%A7%9F%E6%88%BF%23" target="weibo">
 张奕然住廉租房（热度：738148）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone4%E5%9B%9E%E6%94%B6%E4%BB%B7%E6%B6%A8%E4%BA%8660%E5%80%8D%23" target="weibo">
-iPhone4回收价涨了60倍（热度：736598）
 </a>
 </li>
 
