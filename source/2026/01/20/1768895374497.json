@@ -1,0 +1,410 @@
+{
+  "runTime": 1768895374497,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1100171,
+        "num": 1176027,
+        "word": "女子洗澡忘关水阀将小区变溜冰场",
+        "onboard_time": 1768892842,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288928,
+        "num": 867819,
+        "word": "儿子回应怒吼癌症妈妈碰瓷爆火",
+        "onboard_time": 1768875799,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28394,
+        "num": 676873,
+        "word": "中国2025年成绩单含金量满满",
+        "onboard_time": 1768878500,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 762911,
+        "num": 646826,
+        "word": "香港发生离奇夺命车祸",
+        "onboard_time": 1768893440,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270074,
+        "num": 270074,
+        "word": "华伦天奴去世",
+        "onboard_time": 1768867459,
+        "rank": 4,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 613285,
+        "num": 268738,
+        "word": "这个月工资就是今年攒了多少钱",
+        "onboard_time": 1768884142,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265968,
+        "num": 265968,
+        "word": "陈星旭王玉雯突然的喜欢定档",
+        "onboard_time": 1768891580,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237131,
+        "num": 237131,
+        "word": "国家发改委推动优化节假日安排",
+        "onboard_time": 1768892541,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 174402,
+        "num": 174402,
+        "word": "冰湖重生",
+        "onboard_time": 1768876939,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146481,
+        "num": 146481,
+        "word": "苏州一企业与嫣然医院达成合作意向",
+        "onboard_time": 1768893739,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 878591,
+        "num": 146421,
+        "word": "阿爆",
+        "onboard_time": 1768878139,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 395214,
+        "num": 146401,
+        "word": "阿爆回应",
+        "onboard_time": 1768884982,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 315070,
+        "num": 146360,
+        "word": "怪不得长辈喜欢大方的孩子",
+        "onboard_time": 1768891340,
+        "rank": 12,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 363475,
+        "num": 146297,
+        "word": "阿爆建了个大别墅",
+        "onboard_time": 1768891882,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 302344,
+        "num": 146222,
+        "word": "贝克汉姆长子称婚礼是最屈辱的时刻",
+        "onboard_time": 1768893980,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251519,
+        "num": 146165,
+        "word": "杨振华去世",
+        "onboard_time": 1768880001,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238022,
+        "num": 146101,
+        "word": "李亚鹏说嫣儿像王菲不像自己",
+        "onboard_time": 1768886360,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146061,
+        "num": 146061,
+        "word": "第一批回老家的已被物价惊呆了",
+        "onboard_time": 1768880541,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101722,
+        "num": 145297,
+        "word": "一代人有一代人的收藏癖",
+        "onboard_time": 1768894400,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20227,
+        "num": 141578,
+        "word": "高以忱被开除党籍",
+        "onboard_time": 1768894941,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 456868,
+        "num": 139704,
+        "word": "何聪睿戏扑甩锅女主",
+        "onboard_time": 1768888460,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399705,
+        "num": 135211,
+        "word": "宋祖儿 平常都是恶心穿搭",
+        "onboard_time": 1768891280,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202985,
+        "num": 133340,
+        "word": "牢A说不是有国籍就是中国人",
+        "onboard_time": 1768886841,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261510,
+        "num": 130223,
+        "word": "20岁李嫣现状",
+        "onboard_time": 1768893980,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128579,
+        "num": 128579,
+        "word": "医生给1岁娃开小众药被AI提醒慎用",
+        "onboard_time": 1768884022,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214222,
+        "num": 126737,
+        "word": "李亚鹏曾称没有王菲办不起嫣然医院",
+        "onboard_time": 1768895303,
+        "rank": 25,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 165212,
+        "num": 125949,
+        "word": "张凌赫 我担是我的补习老师",
+        "onboard_time": 1768891580,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124636,
+        "num": 124636,
+        "word": "经常视奸自己的朋友圈",
+        "onboard_time": 1768890141,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146118,
+        "num": 124508,
+        "word": "赵樱子崩溃大哭",
+        "onboard_time": 1768887200,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141697,
+        "num": 124459,
+        "word": "00生刘轩丞已争气争气再争气",
+        "onboard_time": 1768893980,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121001,
+        "num": 121001,
+        "word": "呆呆说自己确实闯了个大祸",
+        "onboard_time": 1768886841,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128898,
+        "num": 119706,
+        "word": "黄景瑜战绩可查",
+        "onboard_time": 1768894581,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106847,
+        "num": 106847,
+        "word": "广东汕头通报恶狗撕咬女生",
+        "onboard_time": 1768895001,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106712,
+        "num": 106712,
+        "word": "摩托车疑撞鸟骑手被抛飞身亡",
+        "onboard_time": 1768894281,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106030,
+        "num": 106030,
+        "word": "吴佳怡终于被看见了",
+        "onboard_time": 1768893261,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40846,
+        "num": 105250,
+        "word": "包钢板材厂爆炸已确认9人死亡",
+        "onboard_time": 1768886122,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105124,
+        "num": 105124,
+        "word": "带1000去嫣然医院出院还剩990",
+        "onboard_time": 1768876159,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103985,
+        "num": 103985,
+        "word": "幼师才知道这个孩子的含金量",
+        "onboard_time": 1768895180,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103212,
+        "num": 103212,
+        "word": "车澈回应瘦了68斤",
+        "onboard_time": 1768893500,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101084,
+        "num": 101084,
+        "word": "3岁女童被留车内后爬窗失踪",
+        "onboard_time": 1768893079,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100718,
+        "num": 100718,
+        "word": "梁小龙死因公开",
+        "onboard_time": 1768882884,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97887,
+        "num": 97887,
+        "word": "哈佛女孩斥牢A说谎",
+        "onboard_time": 1768894941,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 96948,
+        "num": 96948,
+        "word": "女子转账近25万做医美几近失明",
+        "onboard_time": 1768891221,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70077,
+        "num": 95469,
+        "word": "陆虎幼儿园园长即视感",
+        "onboard_time": 1768895303,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94859,
+        "num": 94859,
+        "word": "星宇在WB上海基地",
+        "onboard_time": 1768894281,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94118,
+        "num": 94839,
+        "word": "沈月 邵子恒是外国人吗",
+        "onboard_time": 1768889059,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89872,
+        "num": 94830,
+        "word": "胡兵 央视门口最好认的明星",
+        "onboard_time": 1768891101,
+        "rank": 46,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 94830,
+        "num": 94829,
+        "word": "小米汽车在海南河南先后出现火情",
+        "onboard_time": 1768895303,
+        "rank": 47,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 82867,
+        "num": 94422,
+        "word": "A股行情换挡后市如何布局",
+        "onboard_time": 1768891823,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 61500,
+        "num": 94403,
+        "word": "信用卡分期还款也能享受财政贴息",
+        "onboard_time": 1768895121,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}
