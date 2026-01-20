@@ -1,6 +1,6 @@
 {
   "startTime": 1768840768064,
-  "endTime": 1768917774796,
+  "endTime": 1768919993989,
   "band_list": [
     {
       "raw_hot": 2679279,
@@ -115,6 +115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 699870,
+      "num": 1111979,
+      "word": "轧戏大结局",
+      "onboard_time": 1768909941,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 683201,
       "num": 184276,
       "word": "何聪睿戏扑甩锅女主",
@@ -139,14 +147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 667048,
-      "num": 1106727,
-      "word": "轧戏大结局",
-      "onboard_time": 1768909941,
-      "rank": 0,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 659782,
       "num": 268738,
       "word": "这个月工资就是今年攒了多少钱",
@@ -169,6 +169,14 @@
       "onboard_time": 1768882341,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 629572,
+      "num": 737836,
+      "word": "知情人称贝克汉姆夫妇深受打击",
+      "onboard_time": 1768916001,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 589132,
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 491253,
-      "num": 200013,
+      "num": 388184,
       "word": "向涵之瘦下来好像钟楚曦",
       "onboard_time": 1768912521,
       "rank": 11,
@@ -289,6 +297,14 @@
       "onboard_time": 1768897041,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 455459,
+      "num": 455459,
+      "word": "成龙第一次参加时装周的样子",
+      "onboard_time": 1768914741,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 450914,
@@ -451,6 +467,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 367033,
+      "num": 367033,
+      "word": "李亚鹏公布直播收入",
+      "onboard_time": 1768918042,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 366083,
       "num": 366083,
       "word": "第一批回老家的已被物价惊呆了",
@@ -459,12 +483,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 361539,
-      "num": 193464,
-      "word": "成龙第一次参加时装周的样子",
-      "onboard_time": 1768914741,
-      "rank": 23,
-      "category": "作品衍生,时尚"
+      "raw_hot": 357421,
+      "num": 749273,
+      "word": "代旭演技",
+      "onboard_time": 1768871001,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 353862,
@@ -515,14 +539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 332781,
-      "num": 749273,
-      "word": "代旭演技",
-      "onboard_time": 1768871001,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 328885,
       "num": 216496,
       "word": "卢昱晓想认识赵今麦",
@@ -547,12 +563,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 320212,
-      "num": 737836,
-      "word": "知情人称贝克汉姆夫妇深受打击",
-      "onboard_time": 1768916001,
-      "rank": 4,
-      "category": "体育"
+      "raw_hot": 320499,
+      "num": 320499,
+      "word": "何宣林回应",
+      "onboard_time": 1768916602,
+      "rank": 16,
+      "category": "艺人,剧集"
     },
     {
       "raw_hot": 313957,
@@ -561,6 +577,14 @@
       "onboard_time": 1768910603,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 310481,
+      "num": 612472,
+      "word": "初中生网购侵华日军信件初步鉴定为真",
+      "onboard_time": 1768916962,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 308219,
@@ -628,7 +652,7 @@
     },
     {
       "raw_hot": 283293,
-      "num": 283293,
+      "num": 607935,
       "word": "解放军演练斩首行动台独慌了",
       "onboard_time": 1768912700,
       "rank": 7,
@@ -668,7 +692,7 @@
     },
     {
       "raw_hot": 275695,
-      "num": 405502,
+      "num": 603275,
       "word": "人类对牛奶的开发不足1%",
       "onboard_time": 1768903700,
       "rank": 5,
@@ -804,7 +828,7 @@
     },
     {
       "raw_hot": 226829,
-      "num": 188463,
+      "num": 245166,
       "word": "女子遭强奸被杀2次望判凶手死刑",
       "onboard_time": 1768907481,
       "rank": 13,
@@ -859,14 +883,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 214907,
-      "num": 188082,
-      "word": "何宣林回应",
-      "onboard_time": 1768916602,
-      "rank": 16,
-      "category": "艺人,剧集"
-    },
-    {
       "raw_hot": 214486,
       "num": 411860,
       "word": "蔡徐坤印尼节目",
@@ -892,7 +908,7 @@
     },
     {
       "raw_hot": 211427,
-      "num": 211427,
+      "num": 546363,
       "word": "慕胥辞招商",
       "onboard_time": 1768913181,
       "rank": 14,
@@ -929,6 +945,14 @@
       "onboard_time": 1768891101,
       "rank": 11,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 203877,
+      "num": 203877,
+      "word": "轧戏编剧",
+      "onboard_time": 1768917502,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 203348,
@@ -977,6 +1001,14 @@
       "onboard_time": 1768880903,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199815,
+      "num": 199815,
+      "word": "10月大男婴被母亲扎数百针",
+      "onboard_time": 1768916059,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199306,
@@ -1043,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184816,
+      "num": 184816,
+      "word": "U23亚洲杯",
+      "onboard_time": 1768919483,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180822,
       "num": 130972,
       "word": "包文婧回应女儿撞脸吴映洁",
@@ -1057,6 +1097,14 @@
       "onboard_time": 1768828283,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177481,
+      "num": 177481,
+      "word": "这双拖鞋救过Henry的命吗",
+      "onboard_time": 1768918822,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 176872,
@@ -1355,6 +1403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149327,
+      "num": 594530,
+      "word": "轧戏官配",
+      "onboard_time": 1768918760,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148205,
       "num": 119782,
       "word": "巨爱吃的周黑鸭得女",
@@ -1467,14 +1523,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 139248,
-      "num": 139248,
-      "word": "10月大男婴被母亲扎数百针",
-      "onboard_time": 1768916059,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 138625,
       "num": 138625,
       "word": "卢昱晓代旭请二搭",
@@ -1497,6 +1545,22 @@
       "onboard_time": 1768909041,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135213,
+      "num": 593000,
+      "word": "黄金",
+      "onboard_time": 1768919900,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 134219,
+      "num": 584924,
+      "word": "慕胥辞",
+      "onboard_time": 1768918102,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 133512,
@@ -2027,6 +2091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104898,
+      "num": 164223,
+      "word": "12岁女孩被3人性侵陷入抑郁",
+      "onboard_time": 1768915282,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104809,
       "num": 104809,
       "word": "黎深和雪一起来了",
@@ -2163,14 +2235,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 98610,
-      "num": 98610,
-      "word": "初中生网购侵华日军信件初步鉴定为真",
-      "onboard_time": 1768916962,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98510,
       "num": 98510,
       "word": "嫣然天使基金回应项目预算已筹满",
@@ -2195,6 +2259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97971,
+      "num": 97971,
+      "word": "停用手机号被他人启用登上了自己微信",
+      "onboard_time": 1768915461,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97606,
       "num": 196426,
       "word": "郑钦文找到了命中注定的代言",
@@ -2209,6 +2281,14 @@
       "onboard_time": 1768902140,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96820,
+      "num": 96820,
+      "word": "演员杨紫的含金量还在上升",
+      "onboard_time": 1768917741,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 96761,
@@ -2235,12 +2315,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 95335,
-      "num": 95335,
-      "word": "轧戏编剧",
-      "onboard_time": 1768917502,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 95682,
+      "num": 373502,
+      "word": "极光",
+      "onboard_time": 1768917860,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95249,
@@ -2256,14 +2336,6 @@
       "word": "嫣然天使基金将陆续暂停筹款项目",
       "onboard_time": 1768891340,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94883,
-      "num": 97121,
-      "word": "停用手机号被他人启用登上了自己微信",
-      "onboard_time": 1768915461,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -2459,6 +2531,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 88186,
+      "num": 88186,
+      "word": "成毅每一场戏都拼尽全力",
+      "onboard_time": 1768919183,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88183,
       "num": 88183,
       "word": "U23日本1比0韩国U23",
@@ -2531,20 +2611,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86827,
+      "num": 84806,
+      "word": "黄金涨飞了",
+      "onboard_time": 1768919961,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 86360,
       "num": 86360,
       "word": "这才是我该看的男女主和好速度",
       "onboard_time": 1768913901,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 85818,
-      "num": 85818,
-      "word": "12岁女孩被3人性侵陷入抑郁",
-      "onboard_time": 1768915282,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 85647,
@@ -2603,6 +2683,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 84262,
+      "num": 84262,
+      "word": "误食鞭炮婴儿食管里还有钉子",
+      "onboard_time": 1768915820,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84012,
       "num": 96845,
       "word": "WBG状态",
@@ -2657,14 +2745,6 @@
       "onboard_time": 1768872439,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 80850,
-      "num": 80850,
-      "word": "误食鞭炮婴儿食管里还有钉子",
-      "onboard_time": 1768915820,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80811,
@@ -2755,6 +2835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 77519,
+      "num": 80604,
+      "word": "永辉预计2025年净亏损21.4亿",
+      "onboard_time": 1768918402,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 76512,
       "num": 76512,
       "word": "银价波动",
@@ -2840,6 +2928,14 @@
       "word": "红色在过年这块没有对手",
       "onboard_time": 1768917622,
       "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 73801,
+      "num": 78520,
+      "word": "小狗不知道自己睡在废品站旁边",
+      "onboard_time": 1768919541,
+      "rank": 46,
       "category": "幽默"
     },
     {
@@ -3099,6 +3195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50430,
+      "num": 114702,
+      "word": "解放军警告驱离菲律宾公务机",
+      "onboard_time": 1768919841,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 50357,
       "num": 130135,
       "word": "虞书欣拿小卡和粉丝换手机壳",
@@ -3148,7 +3252,7 @@
     },
     {
       "raw_hot": 46713,
-      "num": 175927,
+      "num": 322961,
       "word": "蹲蹲Jonathan迪奥冬季男装首秀",
       "onboard_time": 1768916059,
       "rank": 19,
