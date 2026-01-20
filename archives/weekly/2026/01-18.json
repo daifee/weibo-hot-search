@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768931694534,
+  "endTime": 1768935162826,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -8995,6 +8995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 72611,
+      "num": 158409,
+      "word": "u23国足零失球进决赛",
+      "onboard_time": 1768932975,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72249,
       "num": 83445,
       "word": "四川男篮vs广东男篮",
@@ -9457,6 +9465,14 @@
       "onboard_time": 1768785861,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 63849,
+      "num": 117484,
+      "word": "特朗普公开马克龙给他的私信",
+      "onboard_time": 1768930578,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 63803,
@@ -10083,14 +10099,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 46351,
-      "num": 117484,
-      "word": "特朗普公开马克龙给他的私信",
-      "onboard_time": 1768930578,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 45796,
       "num": 91103,
       "word": "电影马腾你别走",
@@ -10171,12 +10179,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42842,
+      "num": 42842,
+      "word": "U23国足计划有变准备争冠",
+      "onboard_time": 1768932975,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42839,
       "num": 173081,
       "word": "圣坛组合2026年第二冠",
       "onboard_time": 1768720819,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42655,
+      "num": 24414,
+      "word": "平台回应卖家去世超半年仍能开店",
+      "onboard_time": 1768933154,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41044,
@@ -10371,6 +10395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 33617,
+      "num": 33617,
+      "word": "一人一句为U23国足加油",
+      "onboard_time": 1768933035,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33589,
       "num": 115283,
       "word": "嫣然医院护理师发声",
@@ -10499,6 +10531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28272,
+      "num": 28272,
+      "word": "U23男足又创造历史",
+      "onboard_time": 1768932975,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28110,
       "num": 67456,
       "word": "吴克群被戴佩妮锁喉",
@@ -10521,6 +10561,14 @@
       "onboard_time": 1768930399,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 27035,
+      "num": 27035,
+      "word": "U23国足决赛将对阵日本",
+      "onboard_time": 1768933095,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 27014,
@@ -10673,6 +10721,14 @@
       "onboard_time": 1768655001,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22318,
+      "num": 22318,
+      "word": "2026待播剧清单",
+      "onboard_time": 1768931836,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 21693,
@@ -10841,6 +10897,14 @@
       "onboard_time": 1768745663,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17733,
+      "num": 20008,
+      "word": "黄明昊挑战自己做妆发",
+      "onboard_time": 1768933815,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 17665,
