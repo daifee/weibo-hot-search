@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/18 00:32:47 ~ 2026/01/21 13:36:46
+本榜单时间：2026/01/18 00:32:47 ~ 2026/01/21 13:53:30
 </p>
 </blockquote>
 <p>
@@ -1522,7 +1522,7 @@ U23国足进球（热度：361789）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23HR%E8%AE%BD%E5%88%BA%E6%B1%82%E8%81%8C%E8%80%85%E6%9C%AC%E7%A7%91%E5%AD%A6%E5%8E%86%E4%B8%8D%E9%85%8D%E5%8F%8C%E4%BC%91%23" target="weibo">
-HR讽刺求职者本科学历不配双休（热度：309738）
+HR讽刺求职者本科学历不配双休（热度：310172）
 </a>
 </li>
 
@@ -1541,6 +1541,12 @@ HR讽刺求职者本科学历不配双休（热度：309738）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B8%E5%A6%86%E6%B2%B9%E6%B4%97%E5%A4%B4%23" target="weibo">
 卸妆油洗头（热度：307277）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9B%92%E9%A9%AC%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E8%99%BE%E7%85%AE%E7%86%9F%E5%90%8E%E6%B8%97%E5%87%BA%E8%93%9D%E8%89%B2%E6%B6%B2%E4%BD%93%23" target="weibo">
+盒马客服回应虾煮熟后渗出蓝色液体（热度：306302）
 </a>
 </li>
 
@@ -1667,6 +1673,12 @@ U23亚洲杯（热度：284761）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BA%9A%E9%B9%8F%E5%B8%A6%E8%B4%A7%E8%8C%B6%E5%85%B7%E6%9A%82%E5%81%9C30%E5%A4%A9%E9%94%80%E5%94%AE%23" target="weibo">
 李亚鹏带货茶具暂停30天销售（热度：284236）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E7%8F%AD%E7%AC%AC%E4%B8%80%E5%A4%A9%E8%A2%AB%E5%B7%A5%E4%BD%8D%E9%9C%87%E6%83%8A%E4%BA%86%23" target="weibo">
+上班第一天被工位震惊了（热度：283940）
 </a>
 </li>
 
@@ -2889,6 +2901,12 @@ LV大秀放了王嘉尔新歌（热度：178848）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BA%9A%E9%B9%8F%E6%9B%BE%E6%A3%80%E6%9F%A5%E5%87%BA%E6%9C%89%E6%B7%8B%E5%B7%B4%E7%99%8C%23" target="weibo">
+李亚鹏曾检查出有淋巴癌（热度：176011）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E4%B8%80%E5%A5%97%E5%8F%88%E4%B8%80%E5%A5%97%E7%9C%BC%E5%89%8D%E4%B8%80%E4%BA%AE%E5%8F%88%E4%B8%80%E4%BA%AE%23" target="weibo">
 沈梦辰一套又一套眼前一亮又一亮（热度：175712）
 </a>
@@ -2993,12 +3011,6 @@ Crown张艺兴cut（热度：170231）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23HLE%E5%AF%B9%E6%88%98NS%23" target="weibo">
 HLE对战NS（热度：169791）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E7%8F%AD%E7%AC%AC%E4%B8%80%E5%A4%A9%E8%A2%AB%E5%B7%A5%E4%BD%8D%E9%9C%87%E6%83%8A%E4%BA%86%23" target="weibo">
-上班第一天被工位震惊了（热度：169769）
 </a>
 </li>
 
@@ -3147,6 +3159,12 @@ U23国足首次进入亚洲杯决赛（热度：164946）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23KPL%23" target="weibo">
+KPL（热度：163120）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%BF%917%E6%88%90%E6%B5%81%E6%B5%AA%E6%B1%89%E6%9B%BE%E6%98%AF%E4%B8%AD%E4%BA%A7%23" target="weibo">
 美国近7成流浪汉曾是中产（热度：162956）
 </a>
@@ -3251,6 +3269,12 @@ U23国足首次进入亚洲杯决赛（热度：164946）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E8%BF%94%E6%9C%AA%E6%9D%A51999%23" target="weibo">
 重返未来1999（热度：157325）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%8A%E5%BD%BB%E4%B9%9F%E5%93%A5%E5%93%A5%E8%87%AA%E6%9D%80%E5%90%8E%E8%90%8C%E7%94%9F%E6%8A%A5%E5%A4%8D%E5%BF%B5%E5%A4%B4%23" target="weibo">
+山上彻也哥哥自杀后萌生报复念头（热度：157023）
 </a>
 </li>
 
@@ -3801,12 +3825,6 @@ Crown（热度：139637）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BA%9A%E9%B9%8F%E6%9B%BE%E6%A3%80%E6%9F%A5%E5%87%BA%E6%9C%89%E6%B7%8B%E5%B7%B4%E7%99%8C%23" target="weibo">
-李亚鹏曾检查出有淋巴癌（热度：136926）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%88%98%E8%80%80%E6%96%87%E4%B8%80%E8%B5%B7%E5%8E%BB%E6%BB%91%E9%9B%AA%E4%BA%86%23" target="weibo">
 黄子韬刘耀文一起去滑雪了（热度：136916）
 </a>
@@ -3941,6 +3959,12 @@ Crown（热度：139637）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%9F%A9%E5%9B%BD%E5%A4%84%E7%90%86%E5%B0%B8%E4%BD%93%E5%BE%88%E9%9A%BE%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
 在韩国处理尸体很难的原因（热度：131513）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%AA%E6%9D%80%E5%AE%89%E5%80%8D%E8%87%AA%E5%88%B6%E6%9E%AA%E6%94%AF%E8%A2%AB%E5%AE%9A%E6%80%A7%E4%B8%BA%E6%89%8B%E6%9E%AA%23" target="weibo">
+枪杀安倍自制枪支被定性为手枪（热度：131421）
 </a>
 </li>
 
@@ -4335,6 +4359,12 @@ U23国足vs越南首发（热度：121771）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E6%97%AD%20%E7%8C%AB%E7%9A%84%E6%A0%91%E4%BD%A0%E6%8A%8A%E6%88%91%E6%8B%8D%E5%BE%97%E5%A5%BD%E7%BE%8E%E5%95%8A%23" target="weibo">
+代旭 猫的树你把我拍得好美啊（热度：120909）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%BD%95%E6%98%A5%E6%99%9A%E8%A2%AB%E9%80%97%E7%BA%A2%E6%B8%A9%E4%BA%86%23" target="weibo">
 刘宇宁录春晚被逗红温了（热度：120835）
 </a>
@@ -4653,6 +4683,12 @@ Doinb去打PUBG比赛了（热度：115826）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%B9%B4%E7%BA%A2%E5%8C%85%E6%8E%8F%E7%A9%BA%E4%BA%86%E7%88%B6%E4%BA%B2%E4%B8%80%E5%B9%B4%E7%9A%84%E6%94%B6%E5%85%A5%23" target="weibo">
+过年红包掏空了父亲一年的收入（热度：114962）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%85%B0%E5%81%B6%E9%81%87%E9%A9%AC%E9%BE%99%23" target="weibo">
 米兰偶遇马龙（热度：114928）
 </a>
@@ -4679,6 +4715,12 @@ Doinb去打PUBG比赛了（热度：115826）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%9B%E4%BB%94%E8%A3%A4%E6%98%AF%E4%BD%93%E9%87%8D%E6%9C%80%E8%AF%9A%E5%AE%9E%E7%9A%84%E7%A7%A4%23" target="weibo">
 牛仔裤是体重最诚实的秤（热度：114365）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%A5%BD%E6%98%8E%E5%AA%9A%E4%B8%80%E5%BC%A0%E8%84%B8%23" target="weibo">
+王楚然好明媚一张脸（热度：114311）
 </a>
 </li>
 
@@ -4841,6 +4883,12 @@ Doinb去打PUBG比赛了（热度：115826）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E9%9D%92%E5%B3%B0%E5%8F%91%E6%96%87%E8%BF%BD%E6%98%9F%E8%A3%98%E5%BE%B7%23" target="weibo">
 吴青峰发文追星裘德（热度：110473）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E4%BC%91%E5%8F%AF%E4%BB%A5%E6%98%AF%E4%B8%80%E5%91%A8%E7%9A%84%E4%BB%BB%E6%84%8F%E4%B8%A4%E5%A4%A9%23" target="weibo">
+双休可以是一周的任意两天（热度：110423）
 </a>
 </li>
 
@@ -5093,12 +5141,6 @@ Doinb去打PUBG比赛了（热度：115826）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BA%9A%E9%B9%8F%E8%87%AA%E8%B4%B9%E4%BA%86%E5%AB%A3%E7%84%B6%E5%A4%A9%E4%BD%BF%E5%8C%BB%E9%99%A2%E5%8D%81%E5%B9%B4%E7%AE%A1%E7%90%86%E8%B4%B9%23" target="weibo">
 李亚鹏自费了嫣然天使医院十年管理费（热度：106305）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9B%92%E9%A9%AC%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E8%99%BE%E7%85%AE%E7%86%9F%E5%90%8E%E6%B8%97%E5%87%BA%E8%93%9D%E8%89%B2%E6%B6%B2%E4%BD%93%23" target="weibo">
-盒马客服回应虾煮熟后渗出蓝色液体（热度：106262）
 </a>
 </li>
 
@@ -5387,6 +5429,12 @@ AL战胜WBG（热度：102630）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%85%B0%E7%94%B7%E8%A3%85%E5%91%A8%23" target="weibo">
 米兰男装周（热度：101701）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E5%9C%A8%E7%9F%BF%E7%9F%B3%E8%A1%A8%E9%9D%A2%E9%9D%99%E9%9D%99%E7%94%9F%E9%95%BF%23" target="weibo">
+黄金在矿石表面静静生长（热度：101687）
 </a>
 </li>
 
@@ -6357,6 +6405,12 @@ X平台正式开源推荐算法（热度：91070）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8C%9B%E9%BE%99vs%E5%8B%87%E5%A3%AB%23" target="weibo">
+猛龙vs勇士（热度：88830）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA2025%E5%B9%B4%E4%B8%AD%E5%9B%BD%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%B8%82%E5%8D%A0%E7%AC%AC%E4%B8%80%23" target="weibo">
 华为2025年中国智能手机市占第一（热度：88709）
 </a>
@@ -6813,8 +6867,20 @@ WBG状态（热度：84012）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2355%E5%85%8B%E9%87%91%E9%95%AF%E5%BC%80%E5%B9%B4%E5%B7%B2%E6%B6%A87700%E5%85%83%23" target="weibo">
+55克金镯开年已涨7700元（热度：83876）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%85%E5%9D%903%E5%B0%8F%E6%97%B6%E5%BF%83%E8%84%8F%E6%B3%B5%E8%A1%80%E5%B0%B1%E5%87%8F%E5%B0%91%23" target="weibo">
 久坐3小时心脏泵血就减少（热度：83868）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%92%E9%B8%BE%23" target="weibo">
+归鸾（热度：83602）
 </a>
 </li>
 
@@ -7265,12 +7331,6 @@ DFYG出征M7纪录片（热度：76861）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B6%8A%E5%8D%97%E7%BA%A2%E7%89%8C%23" target="weibo">
 越南红牌（热度：76433）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%B9%B4%E7%BA%A2%E5%8C%85%E6%8E%8F%E7%A9%BA%E4%BA%86%E7%88%B6%E4%BA%B2%E4%B8%80%E5%B9%B4%E7%9A%84%E6%94%B6%E5%85%A5%23" target="weibo">
-过年红包掏空了父亲一年的收入（热度：76393）
 </a>
 </li>
 
@@ -8339,12 +8399,6 @@ U23国足主帅呼吁重视比赛安排（热度：62479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E6%95%96%E7%91%9E%E9%B9%8F%E5%8C%BB%E9%99%A2%E8%BE%93%E6%B6%B2%23" target="weibo">
 偶遇敖瑞鹏医院输液（热度：47733）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%AA%E6%9D%80%E5%AE%89%E5%80%8D%E8%87%AA%E5%88%B6%E6%9E%AA%E6%94%AF%E8%A2%AB%E5%AE%9A%E6%80%A7%E4%B8%BA%E6%89%8B%E6%9E%AA%23" target="weibo">
-枪杀安倍自制枪支被定性为手枪（热度：47587）
 </a>
 </li>
 

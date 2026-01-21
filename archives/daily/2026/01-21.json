@@ -1,6 +1,6 @@
 {
   "startTime": 1768927470754,
-  "endTime": 1768973806021,
+  "endTime": 1768974810792,
   "band_list": [
     {
       "raw_hot": 2487537,
@@ -299,10 +299,18 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 309738,
-      "num": 309738,
+      "raw_hot": 310172,
+      "num": 310172,
       "word": "HR讽刺求职者本科学历不配双休",
       "onboard_time": 1768970121,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 306302,
+      "num": 306302,
+      "word": "盒马客服回应虾煮熟后渗出蓝色液体",
+      "onboard_time": 1768973361,
       "rank": 19,
       "category": "民生新闻"
     },
@@ -353,6 +361,14 @@
       "onboard_time": 1768919483,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 283940,
+      "num": 283940,
+      "word": "上班第一天被工位震惊了",
+      "onboard_time": 1768972461,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 282855,
@@ -539,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176011,
+      "num": 151366,
+      "word": "李亚鹏曾检查出有淋巴癌",
+      "onboard_time": 1768973120,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174041,
       "num": 174041,
       "word": "野人先生创始人回应定价过高争议",
@@ -553,14 +577,6 @@
       "onboard_time": 1768951578,
       "rank": 8,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 169769,
-      "num": 123863,
-      "word": "上班第一天被工位震惊了",
-      "onboard_time": 1768972461,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 168851,
@@ -609,6 +625,22 @@
       "onboard_time": 1768970121,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 163120,
+      "num": 163120,
+      "word": "KPL",
+      "onboard_time": 1768974500,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 157023,
+      "num": 157023,
+      "word": "山上彻也哥哥自杀后萌生报复念头",
+      "onboard_time": 1768973962,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 156176,
@@ -691,12 +723,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136926,
-      "num": 136926,
-      "word": "李亚鹏曾检查出有淋巴癌",
-      "onboard_time": 1768973120,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 131421,
+      "num": 201802,
+      "word": "枪杀安倍自制枪支被定性为手枪",
+      "onboard_time": 1768972880,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 122906,
@@ -713,6 +745,14 @@
       "onboard_time": 1768955780,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120909,
+      "num": 120909,
+      "word": "代旭 猫的树你把我拍得好美啊",
+      "onboard_time": 1768974561,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 120019,
@@ -771,12 +811,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 114962,
+      "num": 148725,
+      "word": "过年红包掏空了父亲一年的收入",
+      "onboard_time": 1768973600,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114716,
       "num": 114716,
       "word": "野狗骨头感觉大事很妙",
       "onboard_time": 1768950738,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114311,
+      "num": 114311,
+      "word": "王楚然好明媚一张脸",
+      "onboard_time": 1768974080,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 111274,
@@ -793,6 +849,14 @@
       "onboard_time": 1768962738,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110423,
+      "num": 110423,
+      "word": "双休可以是一周的任意两天",
+      "onboard_time": 1768974740,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 110112,
@@ -832,14 +896,6 @@
       "word": "女子洗澡忘关水阀将小区变溜冰场",
       "onboard_time": 1768892842,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106262,
-      "num": 191959,
-      "word": "盒马客服回应虾煮熟后渗出蓝色液体",
-      "onboard_time": 1768973361,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -905,6 +961,14 @@
       "onboard_time": 1768960159,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101687,
+      "num": 101687,
+      "word": "黄金在矿石表面静静生长",
+      "onboard_time": 1768973962,
+      "rank": 38,
+      "category": "科学科普"
     },
     {
       "raw_hot": 101551,
@@ -1083,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88830,
+      "num": 88830,
+      "word": "猛龙vs勇士",
+      "onboard_time": 1768974140,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87059,
       "num": 87059,
       "word": "山上彻也母亲盲目信教捐款1亿日元",
@@ -1121,6 +1193,22 @@
       "onboard_time": 1768961119,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83876,
+      "num": 83876,
+      "word": "55克金镯开年已涨7700元",
+      "onboard_time": 1768974681,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 83602,
+      "num": 83602,
+      "word": "归鸾",
+      "onboard_time": 1768974379,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 81866,
@@ -1209,14 +1297,6 @@
       "onboard_time": 1768951457,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 76393,
-      "num": 123925,
-      "word": "过年红包掏空了父亲一年的收入",
-      "onboard_time": 1768973600,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75999,
@@ -1465,14 +1545,6 @@
       "onboard_time": 1768927098,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47587,
-      "num": 201802,
-      "word": "枪杀安倍自制枪支被定性为手枪",
-      "onboard_time": 1768972880,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 47518,
