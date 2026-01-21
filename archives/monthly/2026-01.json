@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769011093906,
+  "endTime": 1769015008764,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -7817,6 +7817,14 @@
       "onboard_time": 1768355660,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 419156,
+      "num": 98047,
+      "word": "戚薇女儿Lucky转眼长成大姑娘啦",
+      "onboard_time": 1769008641,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 418258,
@@ -15641,6 +15649,14 @@
       "onboard_time": 1768523661,
       "rank": 18,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 240957,
+      "num": 428245,
+      "word": "美航母战斗群已穿过马六甲海峡",
+      "onboard_time": 1769009361,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 240888,
@@ -27531,14 +27547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148473,
-      "num": 148473,
-      "word": "美航母战斗群已穿过马六甲海峡",
-      "onboard_time": 1769009361,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 148450,
       "num": 148450,
       "word": "左航苏新皓去环球影城了",
@@ -30953,6 +30961,14 @@
       "onboard_time": 1767526762,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134800,
+      "num": 134800,
+      "word": "携程接机 信息泄露",
+      "onboard_time": 1769012419,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134779,
@@ -59739,6 +59755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65139,
+      "num": 93531,
+      "word": "鲁班七号班班快跑新皮肤",
+      "onboard_time": 1769012539,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 65114,
       "num": 1651873,
       "word": "委内瑞拉国防部遭轰炸",
@@ -61097,6 +61121,14 @@
       "onboard_time": 1768746803,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 59992,
+      "num": 92858,
+      "word": "你是刘宪华那他是谁",
+      "onboard_time": 1769011638,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 59981,
@@ -63267,6 +63299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48423,
+      "num": 92829,
+      "word": "最适合追星女的辩题来了",
+      "onboard_time": 1769012598,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 48422,
       "num": 315050,
       "word": "希望台湾同胞自觉与台独划清界限",
@@ -65171,6 +65211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 39217,
+      "num": 134435,
+      "word": "中方回应特朗普称联合国或被取代",
+      "onboard_time": 1769009181,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 39204,
       "num": 113544,
       "word": "鸡排哥巡炸带动商场客流增200%",
@@ -65233,6 +65281,14 @@
       "onboard_time": 1768287201,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39019,
+      "num": 92648,
+      "word": "侯明昊告别玉茗茶骨长文",
+      "onboard_time": 1769012000,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 39015,
@@ -65545,14 +65601,6 @@
       "onboard_time": 1767668960,
       "rank": 17,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 37705,
-      "num": 134435,
-      "word": "中方回应特朗普称联合国或被取代",
-      "onboard_time": 1769009181,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 37638,
@@ -66747,6 +66795,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31876,
+      "num": 92338,
+      "word": "14岁少年遭虐待离世生父投案自首",
+      "onboard_time": 1769011579,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31820,
       "num": 119707,
       "word": "工地被指强制工人在食堂用餐",
@@ -66817,6 +66873,14 @@
       "onboard_time": 1768993281,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 31474,
+      "num": 92207,
+      "word": "美财长首次回应斩杀线困境",
+      "onboard_time": 1769014877,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 31462,
@@ -67049,6 +67113,22 @@
       "onboard_time": 1767672621,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30381,
+      "num": 92114,
+      "word": "喵娲娲赛博许愿神兽",
+      "onboard_time": 1769014817,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 30368,
+      "num": 92092,
+      "word": "苏晓彤嘴上说羞耻双手已起跳",
+      "onboard_time": 1769012179,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 30351,
@@ -68201,6 +68281,14 @@
       "onboard_time": 1767779003,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 25256,
+      "num": 92051,
+      "word": "花棉袄配色极光出现了",
+      "onboard_time": 1769011460,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25192,
