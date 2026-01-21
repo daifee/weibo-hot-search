@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768969904541,
+  "endTime": 1768971845283,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -131,6 +131,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1136675,
+      "num": 229549,
+      "word": "生父帮继母买1600片泻药持续喂女儿",
+      "onboard_time": 1768968800,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1130397,
       "num": 357113,
       "word": "糖霜苹果",
@@ -209,6 +217,14 @@
       "onboard_time": 1768966401,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 986311,
+      "num": 1157809,
+      "word": "男子献血2.2万毫升景区不免票被告",
+      "onboard_time": 1768968680,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 954519,
@@ -419,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 791316,
+      "num": 324714,
+      "word": "iPhone18",
+      "onboard_time": 1768966518,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 782430,
       "num": 324514,
       "word": "上班是法务下班是偷车厘子惯犯",
@@ -507,6 +531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 707002,
+      "num": 867224,
+      "word": "枪击安倍凶手被判无期",
+      "onboard_time": 1768970662,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 700148,
       "num": 483274,
       "word": "多地紧急叫停刨猪宴",
@@ -521,14 +553,6 @@
       "onboard_time": 1768731563,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 690108,
-      "num": 324714,
-      "word": "iPhone18",
-      "onboard_time": 1768966518,
-      "rank": 11,
-      "category": "数码"
     },
     {
       "raw_hot": 685878,
@@ -696,6 +720,14 @@
       "word": "刘文祥麻辣拌 点单配方",
       "onboard_time": 1768726581,
       "rank": 5,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 626224,
+      "num": 626224,
+      "word": "很火但实际很难吃的水果",
+      "onboard_time": 1768968321,
+      "rank": 8,
       "category": "美食"
     },
     {
@@ -1291,14 +1323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 425046,
-      "num": 425046,
-      "word": "很火但实际很难吃的水果",
-      "onboard_time": 1768968321,
-      "rank": 8,
-      "category": "美食"
-    },
-    {
       "raw_hot": 424992,
       "num": 795771,
       "word": "医生给1岁娃开小众药被AI提醒慎用",
@@ -1428,7 +1452,7 @@
     },
     {
       "raw_hot": 399946,
-      "num": 206545,
+      "num": 221201,
       "word": "金饰价涨到1495元",
       "onboard_time": 1768959739,
       "rank": 19,
@@ -1571,6 +1595,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 374660,
+      "num": 300384,
+      "word": "曝黄荷娜为减刑供出艺人名字",
+      "onboard_time": 1768968921,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 371724,
       "num": 232747,
       "word": "iPhone18Pro外观放弃药丸屏",
@@ -1707,14 +1739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 353205,
-      "num": 805302,
-      "word": "男子献血2.2万毫升景区不免票被告",
-      "onboard_time": 1768968680,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 350526,
       "num": 223921,
       "word": "这才是真的俩魔丸生了个灵珠",
@@ -1803,11 +1827,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 337500,
-      "num": 184128,
-      "word": "生父帮继母买1600片泻药持续喂女儿",
-      "onboard_time": 1768968800,
-      "rank": 22,
+      "raw_hot": 337864,
+      "num": 337864,
+      "word": "女儿要10元零花钱却让妈妈负债百万",
+      "onboard_time": 1768968740,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -1859,6 +1883,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 329830,
+      "num": 329830,
+      "word": "愤怒的小鸟CEO感谢中国玩家",
+      "onboard_time": 1768970301,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 328885,
       "num": 216496,
       "word": "卢昱晓想认识赵今麦",
@@ -1881,14 +1913,6 @@
       "onboard_time": 1768891340,
       "rank": 33,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 327396,
-      "num": 327396,
-      "word": "女儿要10元零花钱却让妈妈负债百万",
-      "onboard_time": 1768968740,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 326019,
@@ -2043,11 +2067,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 300384,
-      "num": 300384,
-      "word": "曝黄荷娜为减刑供出艺人名字",
-      "onboard_time": 1768968921,
-      "rank": 17,
+      "raw_hot": 298108,
+      "num": 229884,
+      "word": "这居然是李煜东",
+      "onboard_time": 1768969221,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -2057,6 +2081,14 @@
       "onboard_time": 1768792700,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 295600,
+      "num": 295600,
+      "word": "无限暖暖",
+      "onboard_time": 1768970480,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 295522,
@@ -2305,6 +2337,14 @@
       "onboard_time": 1768876459,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 269079,
+      "num": 269079,
+      "word": "黄景瑜的竞品是沈月",
+      "onboard_time": 1768969881,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 268968,
@@ -3675,14 +3715,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 179500,
-      "num": 179500,
-      "word": "这居然是李煜东",
-      "onboard_time": 1768969221,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 179348,
       "num": 144601,
       "word": "道歉变处刑道德正义不等于合法判断",
@@ -4043,6 +4075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165785,
+      "num": 165785,
+      "word": "黄子韬没等徐艺洋",
+      "onboard_time": 1768971440,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165500,
       "num": 165500,
       "word": "老人玩手机孩子脱手坠地仍不撒手",
@@ -4097,6 +4137,14 @@
       "onboard_time": 1768713320,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 163243,
+      "num": 230032,
+      "word": "黎深窃窃私吻",
+      "onboard_time": 1768970121,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 162956,
@@ -4449,6 +4497,14 @@
       "onboard_time": 1768818382,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150624,
+      "num": 229771,
+      "word": "HR讽刺求职者本科学历不配双休",
+      "onboard_time": 1768970121,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150548,
@@ -4857,6 +4913,14 @@
       "onboard_time": 1768717099,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 140335,
+      "num": 140335,
+      "word": "曝明星摄影师讨薪",
+      "onboard_time": 1768970841,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 140060,
@@ -5569,6 +5633,14 @@
       "onboard_time": 1768703720,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122906,
+      "num": 115821,
+      "word": "陈星旭王玉雯从发小到演情侣",
+      "onboard_time": 1768970181,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 122783,
@@ -6395,6 +6467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109734,
+      "num": 109734,
+      "word": "张慧雯编辑记录",
+      "onboard_time": 1768969101,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 109712,
       "num": 109712,
       "word": "内存涨爆了",
@@ -6529,14 +6609,6 @@
       "onboard_time": 1768731023,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107390,
-      "num": 107390,
-      "word": "黄景瑜的竞品是沈月",
-      "onboard_time": 1768969881,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 107206,
@@ -6689,6 +6761,14 @@
       "onboard_time": 1768894400,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105582,
+      "num": 119060,
+      "word": "斩杀线获得许多美国网民的认同",
+      "onboard_time": 1768970720,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 105574,
@@ -6931,6 +7011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103458,
+      "num": 103458,
+      "word": "好一个支付爸饿了妈",
+      "onboard_time": 1768970361,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103381,
       "num": 193128,
       "word": "TES对战BLG",
@@ -7171,14 +7259,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 100016,
-      "num": 100016,
-      "word": "张慧雯编辑记录",
-      "onboard_time": 1768969101,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 99951,
       "num": 99951,
       "word": "失去爱子后爸爸继续尬舞救别的孩子",
@@ -7217,6 +7297,14 @@
       "onboard_time": 1768740141,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98898,
+      "num": 98898,
+      "word": "野狗骨头集数",
+      "onboard_time": 1768971500,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 98870,
@@ -8033,6 +8121,14 @@
       "onboard_time": 1768897761,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 91087,
+      "num": 91087,
+      "word": "iPhone18系列被曝迎来十大升级",
+      "onboard_time": 1768971800,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 91070,
@@ -11051,6 +11147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 42543,
+      "num": 161345,
+      "word": "都是鸡有的卖17有的卖70元",
+      "onboard_time": 1768971682,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41044,
       "num": 82881,
       "word": "欧洲各国不得不抱团抗美",
@@ -11096,6 +11200,22 @@
       "word": "下雪的长城挤满要强的中国游客",
       "onboard_time": 1768741643,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39298,
+      "num": 116559,
+      "word": "永辉超市去年预亏21.4亿",
+      "onboard_time": 1768971620,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39212,
+      "num": 229503,
+      "word": "小偷销赃27克金饰遇上鬼秤被吞11克",
+      "onboard_time": 1768971620,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -11355,6 +11475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29196,
+      "num": 118112,
+      "word": "女主播诱骗榜一大哥超千万被判刑",
+      "onboard_time": 1768971561,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29107,
       "num": 83842,
       "word": "美国想拉60国建新群只来了1人",
@@ -11460,7 +11588,7 @@
     },
     {
       "raw_hot": 25905,
-      "num": 624059,
+      "num": 640479,
       "word": "五个新概括2025年经济工作成绩单",
       "onboard_time": 1768965859,
       "rank": 2,
@@ -11505,6 +11633,14 @@
       "onboard_time": 1768674617,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 24222,
+      "num": 229662,
+      "word": "无人机除雪生意火爆飞手称活干不完",
+      "onboard_time": 1768971561,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24203,

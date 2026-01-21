@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768969904541,
+  "endTime": 1768971845283,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -891,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1136675,
+      "num": 229549,
+      "word": "生父帮继母买1600片泻药持续喂女儿",
+      "onboard_time": 1768968800,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1134971,
       "num": 1405838,
       "word": "不染 难唱",
@@ -1337,6 +1345,14 @@
       "onboard_time": 1767668421,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 986311,
+      "num": 1157809,
+      "word": "男子献血2.2万毫升景区不免票被告",
+      "onboard_time": 1768968680,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 985682,
@@ -2219,6 +2235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 791316,
+      "num": 324714,
+      "word": "iPhone18",
+      "onboard_time": 1768966518,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 790955,
       "num": 1126552,
       "word": "外交部回应美对委军事打击",
@@ -2377,30 +2401,6 @@
       "onboard_time": 1767700522,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 756977,
-      "num": 1121116,
-      "word": "义乌产的哭哭马火了",
-      "onboard_time": 1768001777,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 755347,
-      "num": 1120855,
-      "word": "韩国总统李在明抵达北京",
-      "onboard_time": 1767505463,
-      "rank": 20,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 755214,
-      "num": 1201429,
-      "word": "银价彻底杀疯了",
-      "onboard_time": 1768378161,
-      "rank": 25,
-      "category": "财经"
     }
   ],
   "hotgov_list": [

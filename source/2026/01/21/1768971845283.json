@@ -1,0 +1,410 @@
+{
+  "runTime": 1768971845283,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 986311,
+        "num": 1157809,
+        "word": "男子献血2.2万毫升景区不免票被告",
+        "onboard_time": 1768968680,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 707002,
+        "num": 867224,
+        "word": "枪击安倍凶手被判无期",
+        "onboard_time": 1768970662,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23258,
+        "num": 640479,
+        "word": "五个新概括2025年经济工作成绩单",
+        "onboard_time": 1768965859,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 626224,
+        "num": 626224,
+        "word": "很火但实际很难吃的水果",
+        "onboard_time": 1768968321,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 362184,
+        "num": 362184,
+        "word": "中国男足等了整整22年",
+        "onboard_time": 1768957880,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350530,
+        "num": 350530,
+        "word": "美国博主直呼中国才是理想中的家",
+        "onboard_time": 1768967359,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 337864,
+        "num": 337864,
+        "word": "女儿要10元零花钱却让妈妈负债百万",
+        "onboard_time": 1768968740,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329830,
+        "num": 329830,
+        "word": "愤怒的小鸟CEO感谢中国玩家",
+        "onboard_time": 1768970301,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 295600,
+        "num": 295600,
+        "word": "无限暖暖",
+        "onboard_time": 1768970480,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 269079,
+        "num": 269079,
+        "word": "黄景瑜的竞品是沈月",
+        "onboard_time": 1768969881,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 791316,
+        "num": 265638,
+        "word": "iPhone18",
+        "onboard_time": 1768966518,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 556064,
+        "num": 254657,
+        "word": "张凌赫林允喂药吻",
+        "onboard_time": 1768967780,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 478829,
+        "num": 249418,
+        "word": "偶遇霍建华他还给我买单了",
+        "onboard_time": 1768963699,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230234,
+        "num": 230234,
+        "word": "上班是法务下班是偷车厘子惯犯",
+        "onboard_time": 1768954821,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374660,
+        "num": 230154,
+        "word": "曝黄荷娜为减刑供出艺人名字",
+        "onboard_time": 1768968921,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351037,
+        "num": 230140,
+        "word": "卢昱晓回应跪下和粉丝合照",
+        "onboard_time": 1768920922,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163243,
+        "num": 230032,
+        "word": "黎深窃窃私吻",
+        "onboard_time": 1768970121,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 298108,
+        "num": 229884,
+        "word": "这居然是李煜东",
+        "onboard_time": 1768969221,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260872,
+        "num": 229805,
+        "word": "云旗郝熠然红秀",
+        "onboard_time": 1768959919,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150624,
+        "num": 229771,
+        "word": "HR讽刺求职者本科学历不配双休",
+        "onboard_time": 1768970121,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24222,
+        "num": 229662,
+        "word": "无人机除雪生意火爆飞手称活干不完",
+        "onboard_time": 1768971561,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1136675,
+        "num": 229549,
+        "word": "生父帮继母买1600片泻药持续喂女儿",
+        "onboard_time": 1768968800,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39212,
+        "num": 229503,
+        "word": "小偷销赃27克金饰遇上鬼秤被吞11克",
+        "onboard_time": 1768971620,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229442,
+        "num": 229442,
+        "word": "太平年定档",
+        "onboard_time": 1768962319,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221201,
+        "num": 221201,
+        "word": "金饰价涨到1495元",
+        "onboard_time": 1768959739,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 194523,
+        "num": 194523,
+        "word": "野狗骨头",
+        "onboard_time": 1768951278,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165785,
+        "num": 165785,
+        "word": "黄子韬没等徐艺洋",
+        "onboard_time": 1768971440,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42543,
+        "num": 161345,
+        "word": "都是鸡有的卖17有的卖70元",
+        "onboard_time": 1768971682,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158519,
+        "num": 158519,
+        "word": "老人不舍开空调儿子将遥控器带走",
+        "onboard_time": 1768956320,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142987,
+        "num": 142987,
+        "word": "10年前买的钻戒已贬值99%",
+        "onboard_time": 1768969160,
+        "rank": 29,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 141662,
+        "num": 141662,
+        "word": "马龙在飞机上第一次看到极光",
+        "onboard_time": 1768959018,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142385,
+        "num": 141155,
+        "word": "雪地冻8小时女子险成冰雕",
+        "onboard_time": 1768968379,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140335,
+        "num": 140335,
+        "word": "曝明星摄影师讨薪",
+        "onboard_time": 1768970841,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126350,
+        "num": 126350,
+        "word": "U23国足3比0越南U23",
+        "onboard_time": 1768930637,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124751,
+        "num": 124751,
+        "word": "苏醒教小孩 根本想不到的层面",
+        "onboard_time": 1768965019,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124175,
+        "num": 124175,
+        "word": "野狗骨头把雌竞改成了惺惺相惜",
+        "onboard_time": 1768963039,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119356,
+        "num": 119356,
+        "word": "黄金可以长出来",
+        "onboard_time": 1768965019,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 105582,
+        "num": 119060,
+        "word": "斩杀线获得许多美国网民的认同",
+        "onboard_time": 1768970720,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29196,
+        "num": 118112,
+        "word": "女主播诱骗榜一大哥超千万被判刑",
+        "onboard_time": 1768971561,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39298,
+        "num": 116559,
+        "word": "永辉超市去年预亏21.4亿",
+        "onboard_time": 1768971620,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122906,
+        "num": 115821,
+        "word": "陈星旭王玉雯从发小到演情侣",
+        "onboard_time": 1768970181,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114807,
+        "num": 114807,
+        "word": "牢A",
+        "onboard_time": 1768955000,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113826,
+        "num": 113826,
+        "word": "女生怀孕后体重暴涨45斤",
+        "onboard_time": 1768950738,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109734,
+        "num": 109734,
+        "word": "张慧雯编辑记录",
+        "onboard_time": 1768969101,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107427,
+        "num": 107427,
+        "word": "4种看似健康的粗粮其实是血糖杀手",
+        "onboard_time": 1768968379,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103458,
+        "num": 103458,
+        "word": "好一个支付爸饿了妈",
+        "onboard_time": 1768970361,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101614,
+        "num": 101614,
+        "word": "黄金",
+        "onboard_time": 1768919900,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 101429,
+        "num": 101429,
+        "word": "贝克汉姆回应大儿子控诉",
+        "onboard_time": 1768958479,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98898,
+        "num": 98898,
+        "word": "野狗骨头集数",
+        "onboard_time": 1768971500,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91087,
+        "num": 91087,
+        "word": "iPhone18系列被曝迎来十大升级",
+        "onboard_time": 1768971800,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#开年第一课总书记强调这三个关键词#"
+    }
+  }
+}
