@@ -1,6 +1,6 @@
 {
   "startTime": 1768927470754,
-  "endTime": 1768963038991,
+  "endTime": 1768968698803,
   "band_list": [
     {
       "raw_hot": 2487537,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 1038253,
-      "num": 140133,
+      "num": 198538,
       "word": "牢A",
       "onboard_time": 1768955000,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1007672,
+      "num": 329475,
+      "word": "谢娜 从来都没有过QQ号",
+      "onboard_time": 1768966401,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 940028,
@@ -41,6 +49,22 @@
       "onboard_time": 1768927998,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 928546,
+      "num": 236044,
+      "word": "偶遇霍建华他还给我买单了",
+      "onboard_time": 1768963699,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 919368,
+      "num": 919368,
+      "word": "日本又要选首相了",
+      "onboard_time": 1768963939,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 808125,
@@ -52,7 +76,7 @@
     },
     {
       "raw_hot": 782430,
-      "num": 177056,
+      "num": 235142,
       "word": "上班是法务下班是偷车厘子惯犯",
       "onboard_time": 1768954821,
       "rank": 10,
@@ -60,11 +84,19 @@
     },
     {
       "raw_hot": 667965,
-      "num": 175310,
+      "num": 204665,
       "word": "马龙在飞机上第一次看到极光",
       "onboard_time": 1768959018,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 635437,
+      "num": 235784,
+      "word": "iPhone18",
+      "onboard_time": 1768966518,
+      "rank": 11,
+      "category": "数码"
     },
     {
       "raw_hot": 631040,
@@ -92,7 +124,7 @@
     },
     {
       "raw_hot": 497238,
-      "num": 168328,
+      "num": 234502,
       "word": "卢昱晓回应跪下和粉丝合照",
       "onboard_time": 1768920922,
       "rank": 11,
@@ -123,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 399946,
+      "num": 206545,
+      "word": "金饰价涨到1495元",
+      "onboard_time": 1768959739,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 361789,
       "num": 361789,
       "word": "U23国足进球",
@@ -139,12 +179,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 358461,
+      "num": 273122,
+      "word": "特朗普和马克龙吵翻",
+      "onboard_time": 1768963219,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 350526,
       "num": 223921,
       "word": "这才是真的俩魔丸生了个灵珠",
       "onboard_time": 1768958240,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 339279,
+      "num": 339279,
+      "word": "野狗骨头把雌竞改成了惺惺相惜",
+      "onboard_time": 1768963039,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 326019,
@@ -155,12 +211,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 322221,
+      "num": 269059,
+      "word": "太平年定档",
+      "onboard_time": 1768962319,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 303219,
       "num": 303219,
       "word": "2026亚足联U23亚洲杯",
       "onboard_time": 1768919781,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 301625,
+      "num": 301625,
+      "word": "愤怒的小鸟重返中国",
+      "onboard_time": 1768966401,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 287329,
@@ -180,11 +252,19 @@
     },
     {
       "raw_hot": 282855,
-      "num": 136895,
+      "num": 192055,
       "word": "老人不舍开空调儿子将遥控器带走",
       "onboard_time": 1768956320,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 265107,
+      "num": 233731,
+      "word": "鹅鸭杀捡钱",
+      "onboard_time": 1768965739,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 248442,
@@ -201,6 +281,14 @@
       "onboard_time": 1768926558,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237247,
+      "num": 237247,
+      "word": "很火但实际很难吃的水果",
+      "onboard_time": 1768968321,
+      "rank": 8,
+      "category": "美食"
     },
     {
       "raw_hot": 234721,
@@ -220,19 +308,19 @@
     },
     {
       "raw_hot": 234008,
-      "num": 135649,
+      "num": 142643,
       "word": "女生怀孕后体重暴涨45斤",
       "onboard_time": 1768950738,
       "rank": 22,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 233922,
-      "num": 206545,
-      "word": "金饰价涨到1495元",
-      "onboard_time": 1768959739,
-      "rank": 19,
-      "category": "财经"
+      "raw_hot": 232736,
+      "num": 232736,
+      "word": "张凌赫林允喂药吻",
+      "onboard_time": 1768967780,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 226727,
@@ -249,14 +337,6 @@
       "onboard_time": 1768954219,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 207802,
-      "num": 207802,
-      "word": "太平年定档",
-      "onboard_time": 1768962319,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 207513,
@@ -283,12 +363,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 203223,
+      "num": 237163,
+      "word": "美国博主直呼中国才是理想中的家",
+      "onboard_time": 1768967359,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 200930,
+      "num": 200930,
+      "word": "张子枫穿走了周遇安的裤子",
+      "onboard_time": 1768967661,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194936,
       "num": 194936,
       "word": "古装剧古味消失的原因",
       "onboard_time": 1768945333,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191658,
+      "num": 191658,
+      "word": "苏醒教小孩 根本想不到的层面",
+      "onboard_time": 1768965019,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 187981,
@@ -331,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174041,
+      "num": 174041,
+      "word": "野人先生创始人回应定价过高争议",
+      "onboard_time": 1768965260,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170875,
       "num": 170875,
       "word": "LV大秀",
@@ -371,12 +483,52 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156176,
+      "num": 156176,
+      "word": "专家称蛇窝蹦床应是人为结构",
+      "onboard_time": 1768966337,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154658,
+      "num": 154658,
+      "word": "快乐老友记3",
+      "onboard_time": 1768967961,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151137,
       "num": 151137,
       "word": "今天将是杭州最干净的一天",
       "onboard_time": 1768920683,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146289,
+      "num": 146289,
+      "word": "邪修洗衣机出片方法",
+      "onboard_time": 1768966039,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 145123,
+      "num": 145123,
+      "word": "黄金可以长出来",
+      "onboard_time": 1768965019,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 143722,
+      "num": 143722,
+      "word": "云旗郝熠然红秀",
+      "onboard_time": 1768959919,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 142969,
@@ -443,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111274,
+      "num": 111274,
+      "word": "重返狼群导演透露李微漪近况",
+      "onboard_time": 1768967780,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 111104,
       "num": 111104,
       "word": "白卓璇不敌萨巴伦卡",
@@ -483,6 +643,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103559,
+      "num": 103559,
+      "word": "曝iPhone18Pro灵动岛居中并缩小",
+      "onboard_time": 1768962500,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 102813,
+      "num": 102813,
+      "word": "生命树",
+      "onboard_time": 1768952778,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 102472,
+      "num": 102472,
+      "word": "4种看似健康的粗粮其实是血糖杀手",
+      "onboard_time": 1768968379,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 102250,
       "num": 102250,
       "word": "白卓璇vs萨巴伦卡",
@@ -499,12 +683,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 98395,
-      "num": 98395,
-      "word": "曝iPhone18Pro灵动岛居中并缩小",
-      "onboard_time": 1768962500,
-      "rank": 31,
-      "category": "数码"
+      "raw_hot": 98290,
+      "num": 98290,
+      "word": "金饰价一夜暴涨41元",
+      "onboard_time": 1768965679,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 95486,
+      "num": 95486,
+      "word": "雪地冻8小时女子险成冰雕",
+      "onboard_time": 1768968379,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94860,
@@ -515,12 +707,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94740,
+      "num": 94740,
+      "word": "重返狼群",
+      "onboard_time": 1768957580,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94033,
       "num": 118104,
       "word": "得闲谨制",
       "onboard_time": 1768927939,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 92994,
+      "num": 92994,
+      "word": "余宇涵是对1有什么执着吗",
+      "onboard_time": 1768967240,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 91542,
+      "num": 91542,
+      "word": "贝克汉姆大儿子护妻名场面",
+      "onboard_time": 1768966039,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 91521,
@@ -537,6 +753,14 @@
       "onboard_time": 1768953679,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90038,
+      "num": 90038,
+      "word": "2026金饰克价已经涨了150元",
+      "onboard_time": 1768966100,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 89921,
@@ -571,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85650,
+      "num": 85650,
+      "word": "金价银价又飙升",
+      "onboard_time": 1768968620,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 85282,
       "num": 161505,
       "word": "国足队员说再赢一场就回家",
@@ -585,14 +817,6 @@
       "onboard_time": 1768962920,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81464,
-      "num": 81464,
-      "word": "生命树",
-      "onboard_time": 1768952778,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 81369,
@@ -649,14 +873,6 @@
       "onboard_time": 1768962260,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 78237,
-      "num": 78237,
-      "word": "云旗郝熠然红秀",
-      "onboard_time": 1768959919,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 76523,
@@ -857,6 +1073,14 @@
       "onboard_time": 1768921280,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 55728,
+      "num": 200490,
+      "word": "食堂承包商举报校领导问题属实",
+      "onboard_time": 1768967481,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 55680,
@@ -1083,6 +1307,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 25905,
+      "num": 615843,
+      "word": "五个新概括2025年经济工作成绩单",
+      "onboard_time": 1768965859,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25699,
       "num": 141465,
       "word": "印尼惊天跨国贩婴案细节曝光",
@@ -1158,6 +1390,9 @@
   "hotgov_list": [
     {
       "word": "#十五五开局之年第一课#"
+    },
+    {
+      "word": "#开年第一课总书记强调这三个关键词#"
     }
   ]
 }
