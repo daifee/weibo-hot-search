@@ -1,0 +1,410 @@
+{
+  "runTime": 1769000664247,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 484991,
+        "num": 1077598,
+        "word": "留学生揭穿9层楼积雪骗局",
+        "onboard_time": 1768983201,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 325886,
+        "num": 782109,
+        "word": "去有风的地方或将拍第二季",
+        "onboard_time": 1768995261,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47460,
+        "num": 612554,
+        "word": "中国铁路再创世界纪录",
+        "onboard_time": 1768983560,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 355289,
+        "num": 355289,
+        "word": "程序员猝死抢救时曾被拉工作群",
+        "onboard_time": 1768998022,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272504,
+        "num": 272504,
+        "word": "年代剧终于有正常婆婆了",
+        "onboard_time": 1768992920,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257104,
+        "num": 257104,
+        "word": "剑来",
+        "onboard_time": 1768995981,
+        "rank": 5,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 246085,
+        "num": 246085,
+        "word": "威海海边冻住了",
+        "onboard_time": 1768996220,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229805,
+        "num": 229805,
+        "word": "素人和荤人的区别",
+        "onboard_time": 1768992561,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200588,
+        "num": 200588,
+        "word": "黑草莓",
+        "onboard_time": 1768988000,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164546,
+        "num": 164546,
+        "word": "中方回应是否租借新的大熊猫给日本",
+        "onboard_time": 1768995740,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 982044,
+        "num": 163846,
+        "word": "赖冠霖回应退圈",
+        "onboard_time": 1768997240,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403830,
+        "num": 160504,
+        "word": "特朗普刚喊完中俄威胁转头就否了",
+        "onboard_time": 1768996281,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 402792,
+        "num": 153216,
+        "word": "王嘉尔 我是徐明浩",
+        "onboard_time": 1768997841,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268950,
+        "num": 148508,
+        "word": "拼多多受到处罚",
+        "onboard_time": 1768983021,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 148425,
+        "num": 148425,
+        "word": "皮肤碎片换鲁班七号新皮肤",
+        "onboard_time": 1768992141,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146741,
+        "num": 146741,
+        "word": "车厘子降价后黑草莓成水果新贵",
+        "onboard_time": 1768976480,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135823,
+        "num": 135823,
+        "word": "范丞丞 平板一滴泪受害者",
+        "onboard_time": 1768996040,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332410,
+        "num": 129451,
+        "word": "王嘉尔王鹤棣徐明浩到底谁是谁",
+        "onboard_time": 1768997841,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120411,
+        "num": 120411,
+        "word": "包钢厂区爆炸已致10死84伤",
+        "onboard_time": 1768993761,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123722,
+        "num": 120400,
+        "word": "王玉雯陈星旭拍这段得笑成啥样",
+        "onboard_time": 1768996220,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 643838,
+        "num": 120361,
+        "word": "美国现在连尸体脂肪都不放过",
+        "onboard_time": 1768984341,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 348963,
+        "num": 120347,
+        "word": "王俊凯 还好我先出道了",
+        "onboard_time": 1768995802,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16740,
+        "num": 120299,
+        "word": "景区为50元门票拖到庭审让献血者心凉",
+        "onboard_time": 1769000422,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156887,
+        "num": 120290,
+        "word": "14岁少年遭生父继母长期虐待离世",
+        "onboard_time": 1768987460,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120268,
+        "num": 120268,
+        "word": "我八年前聊过天的网友是卢昱晓",
+        "onboard_time": 1768998741,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115682,
+        "num": 115682,
+        "word": "10元一斤草莓和300元一斤草莓区别",
+        "onboard_time": 1768976421,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23363,
+        "num": 112112,
+        "word": "辽宁一地花498万上榜百强县被通报",
+        "onboard_time": 1769000422,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111379,
+        "num": 111379,
+        "word": "女子怀双胞胎人流后发现第3个孩子",
+        "onboard_time": 1768979361,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107657,
+        "num": 107657,
+        "word": "敖瑞鹏难受到捂肚子皱眉",
+        "onboard_time": 1768996100,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106576,
+        "num": 106576,
+        "word": "告白",
+        "onboard_time": 1768979960,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112335,
+        "num": 106227,
+        "word": "张艺谋一生都在寻找的演员",
+        "onboard_time": 1768997421,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104825,
+        "num": 104825,
+        "word": "蔡徐坤 快来了",
+        "onboard_time": 1768991901,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104220,
+        "num": 104220,
+        "word": "赵丽颖哽咽戏",
+        "onboard_time": 1768997781,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102482,
+        "num": 102482,
+        "word": "下可了 可是雪",
+        "onboard_time": 1768982600,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101894,
+        "num": 101894,
+        "word": "李秋萍杜涛分手",
+        "onboard_time": 1768999462,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98000,
+        "num": 98000,
+        "word": "洗衣机洗羽绒服要慎重",
+        "onboard_time": 1768996281,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 95230,
+        "num": 95230,
+        "word": "刘宇宁直播",
+        "onboard_time": 1768998620,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92348,
+        "num": 92348,
+        "word": "TF荣耀之战主题",
+        "onboard_time": 1768998439,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91357,
+        "num": 91357,
+        "word": "男子15年为妻女购金现估价超170万",
+        "onboard_time": 1769000362,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87529,
+        "num": 87529,
+        "word": "爱奇艺实行收入分账模式",
+        "onboard_time": 1768997541,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 87157,
+        "num": 87157,
+        "word": "谁家女主给crush递卫生巾",
+        "onboard_time": 1768999221,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86155,
+        "num": 86155,
+        "word": "建议不要有外卖羞耻症",
+        "onboard_time": 1768986020,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83541,
+        "num": 83541,
+        "word": "职工医保和居民医保的区别",
+        "onboard_time": 1768991481,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 82326,
+        "num": 82326,
+        "word": "32岁程序员周末晕倒后猝死",
+        "onboard_time": 1769000181,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81516,
+        "num": 81516,
+        "word": "霍建华回应被偶遇还买单",
+        "onboard_time": 1768998503,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79748,
+        "num": 79748,
+        "word": "深圳地铁车厢两女生掏出活蛇玩耍",
+        "onboard_time": 1769000062,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79028,
+        "num": 79028,
+        "word": "小城良方",
+        "onboard_time": 1768999700,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78579,
+        "num": 78579,
+        "word": "杜涛面相都变了",
+        "onboard_time": 1769000600,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68755,
+        "num": 76678,
+        "word": "为什么建议大家春节期间去旅游",
+        "onboard_time": 1768982360,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 75866,
+        "num": 75866,
+        "word": "五哈6录制嘉宾",
+        "onboard_time": 1768981941,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化一定能实现#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/21 19:46:40
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/21 21:04:24
 </p>
 </blockquote>
 <p>
@@ -1061,6 +1061,12 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%AF%B9%E6%97%A5%E6%9C%AC%E4%B8%80%E5%89%91%E5%B0%81%E5%96%89%23" target="weibo">
 中国对日本一剑封喉（热度：982453）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%96%E5%86%A0%E9%9C%96%E5%9B%9E%E5%BA%94%E9%80%80%E5%9C%88%23" target="weibo">
+赖冠霖回应退圈（热度：982044）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone18Pro灵动岛或变小（热度：412510）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96ELLE%E5%B0%81%E9%9D%A2%23" target="weibo">
 赵丽颖ELLE封面（热度：411381）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E4%B8%87%E5%85%83%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%B9%85%E4%B8%89%E4%BA%9A%E4%BB%856900%E5%85%83%23" target="weibo">
-上万元加拿大鹅三亚仅6900元（热度：411025）
 </a>
 </li>
 
