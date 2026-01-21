@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769006389325,
+  "endTime": 1769007483756,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1420,7 +1420,7 @@
     },
     {
       "raw_hot": 982044,
-      "num": 218132,
+      "num": 224204,
       "word": "赖冠霖回应退圈",
       "onboard_time": 1768997240,
       "rank": 10,
@@ -2083,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 822023,
+      "num": 253629,
+      "word": "昀牵孟绕",
+      "onboard_time": 1767528444,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 821842,
       "num": 1131494,
       "word": "镖人",
@@ -2296,14 +2304,6 @@
       "word": "轧戏大结局",
       "onboard_time": 1768909941,
       "rank": 0,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 793739,
-      "num": 253629,
-      "word": "昀牵孟绕",
-      "onboard_time": 1767528444,
-      "rank": 27,
       "category": "剧集"
     },
     {
