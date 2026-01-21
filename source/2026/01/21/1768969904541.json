@@ -1,0 +1,410 @@
+{
+  "runTime": 1768969904541,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 508700,
+        "num": 1081392,
+        "word": "中国男足等了整整22年",
+        "onboard_time": 1768957880,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353205,
+        "num": 805302,
+        "word": "男子献血2.2万毫升景区不免票被告",
+        "onboard_time": 1768968680,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24557,
+        "num": 624059,
+        "word": "五个新概括2025年经济工作成绩单",
+        "onboard_time": 1768965859,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 425046,
+        "num": 425046,
+        "word": "很火但实际很难吃的水果",
+        "onboard_time": 1768968321,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 415390,
+        "num": 415390,
+        "word": "美国博主直呼中国才是理想中的家",
+        "onboard_time": 1768967359,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1052287,
+        "num": 389394,
+        "word": "日本又要选首相了",
+        "onboard_time": 1768963939,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 327396,
+        "num": 327396,
+        "word": "女儿要10元零花钱却让妈妈负债百万",
+        "onboard_time": 1768968740,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324980,
+        "num": 324980,
+        "word": "太平年定档",
+        "onboard_time": 1768962319,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255988,
+        "num": 324977,
+        "word": "野狗骨头把雌竞改成了惺惺相惜",
+        "onboard_time": 1768963039,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179243,
+        "num": 324900,
+        "word": "U23国足3比0越南U23",
+        "onboard_time": 1768930637,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 939338,
+        "num": 324825,
+        "word": "谢娜 从来都没有过QQ号",
+        "onboard_time": 1768966401,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 706892,
+        "num": 324790,
+        "word": "偶遇霍建华他还给我买单了",
+        "onboard_time": 1768963699,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 690108,
+        "num": 324714,
+        "word": "iPhone18",
+        "onboard_time": 1768966518,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 592718,
+        "num": 324622,
+        "word": "张凌赫林允喂药吻",
+        "onboard_time": 1768967780,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 427069,
+        "num": 324562,
+        "word": "卢昱晓回应跪下和粉丝合照",
+        "onboard_time": 1768920922,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354776,
+        "num": 324514,
+        "word": "上班是法务下班是偷车厘子惯犯",
+        "onboard_time": 1768954821,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324488,
+        "num": 324488,
+        "word": "特朗普和马克龙吵翻",
+        "onboard_time": 1768963219,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 300384,
+        "num": 300384,
+        "word": "曝黄荷娜为减刑供出艺人名字",
+        "onboard_time": 1768968921,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262868,
+        "num": 262868,
+        "word": "云旗郝熠然红秀",
+        "onboard_time": 1768959919,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188439,
+        "num": 188439,
+        "word": "马龙在飞机上第一次看到极光",
+        "onboard_time": 1768959018,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430415,
+        "num": 188253,
+        "word": "牢A",
+        "onboard_time": 1768955000,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338511,
+        "num": 185045,
+        "word": "金饰价涨到1495元",
+        "onboard_time": 1768959739,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 337500,
+        "num": 184128,
+        "word": "生父帮继母买1600片泻药持续喂女儿",
+        "onboard_time": 1768968800,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299195,
+        "num": 182750,
+        "word": "野狗骨头",
+        "onboard_time": 1768951278,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230701,
+        "num": 180726,
+        "word": "老人不舍开空调儿子将遥控器带走",
+        "onboard_time": 1768956320,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179500,
+        "num": 179500,
+        "word": "这居然是李煜东",
+        "onboard_time": 1768969221,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159373,
+        "num": 159373,
+        "word": "苏醒教小孩 根本想不到的层面",
+        "onboard_time": 1768965019,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154498,
+        "num": 154498,
+        "word": "鹅鸭杀捡钱",
+        "onboard_time": 1768965739,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152660,
+        "num": 152660,
+        "word": "黄金可以长出来",
+        "onboard_time": 1768965019,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 152043,
+        "num": 152043,
+        "word": "10年前买的钻戒已贬值99%",
+        "onboard_time": 1768969160,
+        "rank": 29,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 148012,
+        "num": 148012,
+        "word": "雪地冻8小时女子险成冰雕",
+        "onboard_time": 1768968379,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143309,
+        "num": 143309,
+        "word": "野人先生创始人回应定价过高争议",
+        "onboard_time": 1768965260,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141636,
+        "num": 141636,
+        "word": "女生怀孕后体重暴涨45斤",
+        "onboard_time": 1768950738,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123029,
+        "num": 123029,
+        "word": "专家称蛇窝蹦床应是人为结构",
+        "onboard_time": 1768966337,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117457,
+        "num": 117457,
+        "word": "张子枫穿走了周遇安的裤子",
+        "onboard_time": 1768967661,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117364,
+        "num": 117364,
+        "word": "4种看似健康的粗粮其实是血糖杀手",
+        "onboard_time": 1768968379,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19638,
+        "num": 117106,
+        "word": "北京增加对新市民保障性住房供给",
+        "onboard_time": 1768969881,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117068,
+        "num": 117068,
+        "word": "食堂承包商举报校领导问题属实",
+        "onboard_time": 1768967481,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 108373,
+        "num": 116312,
+        "word": "不知道 刘昊然留白太顶了",
+        "onboard_time": 1768968740,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38583,
+        "num": 116240,
+        "word": "继母被执行死刑女孩生母放弃赔偿",
+        "onboard_time": 1768969519,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116187,
+        "num": 116187,
+        "word": "快乐老友记3",
+        "onboard_time": 1768967961,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115523,
+        "num": 115523,
+        "word": "贝克汉姆回应大儿子控诉",
+        "onboard_time": 1768958479,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109203,
+        "num": 109203,
+        "word": "愤怒的小鸟重返中国",
+        "onboard_time": 1768966401,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107390,
+        "num": 107390,
+        "word": "黄景瑜的竞品是沈月",
+        "onboard_time": 1768969881,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100129,
+        "num": 100129,
+        "word": "电影镖人四代武侠人的江湖",
+        "onboard_time": 1768968921,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97697,
+        "num": 100060,
+        "word": "特朗普不会参加七国集团峰会",
+        "onboard_time": 1768969221,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100016,
+        "num": 100016,
+        "word": "张慧雯编辑记录",
+        "onboard_time": 1768969101,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99298,
+        "num": 99298,
+        "word": "重返狼群导演透露李微漪近况",
+        "onboard_time": 1768967780,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97154,
+        "num": 97154,
+        "word": "央视解说U23国足爆金句",
+        "onboard_time": 1768969519,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103148,
+        "num": 96998,
+        "word": "黄景瑜人夫感",
+        "onboard_time": 1768969041,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#开年第一课总书记强调这三个关键词#"
+    }
+  }
+}

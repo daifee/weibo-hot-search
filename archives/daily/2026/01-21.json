@@ -1,6 +1,6 @@
 {
   "startTime": 1768927470754,
-  "endTime": 1768968698803,
+  "endTime": 1768969904541,
   "band_list": [
     {
       "raw_hot": 2487537,
@@ -25,6 +25,14 @@
       "onboard_time": 1768951278,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1052287,
+      "num": 919368,
+      "word": "日本又要选首相了",
+      "onboard_time": 1768963939,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1038253,
@@ -52,19 +60,11 @@
     },
     {
       "raw_hot": 928546,
-      "num": 236044,
+      "num": 324790,
       "word": "偶遇霍建华他还给我买单了",
       "onboard_time": 1768963699,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 919368,
-      "num": 919368,
-      "word": "日本又要选首相了",
-      "onboard_time": 1768963939,
-      "rank": 1,
-      "category": "国际时政"
     },
     {
       "raw_hot": 808125,
@@ -76,11 +76,19 @@
     },
     {
       "raw_hot": 782430,
-      "num": 235142,
+      "num": 324514,
       "word": "上班是法务下班是偷车厘子惯犯",
       "onboard_time": 1768954821,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 690108,
+      "num": 324714,
+      "word": "iPhone18",
+      "onboard_time": 1768966518,
+      "rank": 11,
+      "category": "数码"
     },
     {
       "raw_hot": 667965,
@@ -89,14 +97,6 @@
       "onboard_time": 1768959018,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 635437,
-      "num": 235784,
-      "word": "iPhone18",
-      "onboard_time": 1768966518,
-      "rank": 11,
-      "category": "数码"
     },
     {
       "raw_hot": 631040,
@@ -115,6 +115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 592718,
+      "num": 324622,
+      "word": "张凌赫林允喂药吻",
+      "onboard_time": 1768967780,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 531610,
       "num": 172118,
       "word": "贝克汉姆回应大儿子控诉",
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 497238,
-      "num": 234502,
+      "num": 324562,
       "word": "卢昱晓回应跪下和粉丝合照",
       "onboard_time": 1768920922,
       "rank": 11,
@@ -155,6 +163,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 425046,
+      "num": 425046,
+      "word": "很火但实际很难吃的水果",
+      "onboard_time": 1768968321,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 415390,
+      "num": 415390,
+      "word": "美国博主直呼中国才是理想中的家",
+      "onboard_time": 1768967359,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 399946,
       "num": 206545,
       "word": "金饰价涨到1495元",
@@ -180,11 +204,19 @@
     },
     {
       "raw_hot": 358461,
-      "num": 273122,
+      "num": 324488,
       "word": "特朗普和马克龙吵翻",
       "onboard_time": 1768963219,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 353205,
+      "num": 805302,
+      "word": "男子献血2.2万毫升景区不免票被告",
+      "onboard_time": 1768968680,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 350526,
@@ -203,6 +235,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 337500,
+      "num": 184128,
+      "word": "生父帮继母买1600片泻药持续喂女儿",
+      "onboard_time": 1768968800,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 327396,
+      "num": 327396,
+      "word": "女儿要10元零花钱却让妈妈负债百万",
+      "onboard_time": 1768968740,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 326019,
       "num": 674946,
       "word": "大量外国网友自称精神中国人",
@@ -211,8 +259,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 322221,
-      "num": 269059,
+      "raw_hot": 324980,
+      "num": 324980,
       "word": "太平年定档",
       "onboard_time": 1768962319,
       "rank": 4,
@@ -233,6 +281,14 @@
       "onboard_time": 1768966401,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 300384,
+      "num": 300384,
+      "word": "曝黄荷娜为减刑供出艺人名字",
+      "onboard_time": 1768968921,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 287329,
@@ -267,6 +323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 262868,
+      "num": 262868,
+      "word": "云旗郝熠然红秀",
+      "onboard_time": 1768959919,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248442,
       "num": 248442,
       "word": "轧戏大结局",
@@ -281,14 +345,6 @@
       "onboard_time": 1768926558,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 237247,
-      "num": 237247,
-      "word": "很火但实际很难吃的水果",
-      "onboard_time": 1768968321,
-      "rank": 8,
-      "category": "美食"
     },
     {
       "raw_hot": 234721,
@@ -313,14 +369,6 @@
       "onboard_time": 1768950738,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 232736,
-      "num": 232736,
-      "word": "张凌赫林允喂药吻",
-      "onboard_time": 1768967780,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 226727,
@@ -361,14 +409,6 @@
       "onboard_time": 1768950677,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 203223,
-      "num": 237163,
-      "word": "美国博主直呼中国才是理想中的家",
-      "onboard_time": 1768967359,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 200930,
@@ -417,6 +457,14 @@
       "onboard_time": 1768960519,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 179500,
+      "num": 179500,
+      "word": "这居然是李煜东",
+      "onboard_time": 1768969221,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 178848,
@@ -499,11 +547,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152660,
+      "num": 152660,
+      "word": "黄金可以长出来",
+      "onboard_time": 1768965019,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 152043,
+      "num": 152043,
+      "word": "10年前买的钻戒已贬值99%",
+      "onboard_time": 1768969160,
+      "rank": 29,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 151137,
       "num": 151137,
       "word": "今天将是杭州最干净的一天",
       "onboard_time": 1768920683,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148012,
+      "num": 148012,
+      "word": "雪地冻8小时女子险成冰雕",
+      "onboard_time": 1768968379,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -513,22 +585,6 @@
       "onboard_time": 1768966039,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 145123,
-      "num": 145123,
-      "word": "黄金可以长出来",
-      "onboard_time": 1768965019,
-      "rank": 29,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 143722,
-      "num": 143722,
-      "word": "云旗郝熠然红秀",
-      "onboard_time": 1768959919,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 142969,
@@ -579,6 +635,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117364,
+      "num": 117364,
+      "word": "4种看似健康的粗粮其实是血糖杀手",
+      "onboard_time": 1768968379,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 117068,
+      "num": 200490,
+      "word": "食堂承包商举报校领导问题属实",
+      "onboard_time": 1768967481,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 116529,
       "num": 145948,
       "word": "黄金涨飞了",
@@ -619,6 +691,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108373,
+      "num": 116312,
+      "word": "不知道 刘昊然留白太顶了",
+      "onboard_time": 1768968740,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 107390,
+      "num": 107390,
+      "word": "黄景瑜的竞品是沈月",
+      "onboard_time": 1768969881,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106724,
       "num": 146084,
       "word": "贝克汉姆父子决裂始末",
@@ -651,20 +739,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 103148,
+      "num": 96998,
+      "word": "黄景瑜人夫感",
+      "onboard_time": 1768969041,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102813,
       "num": 102813,
       "word": "生命树",
       "onboard_time": 1768952778,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102472,
-      "num": 102472,
-      "word": "4种看似健康的粗粮其实是血糖杀手",
-      "onboard_time": 1768968379,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 102250,
@@ -683,6 +771,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 100129,
+      "num": 100129,
+      "word": "电影镖人四代武侠人的江湖",
+      "onboard_time": 1768968921,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 100016,
+      "num": 100016,
+      "word": "张慧雯编辑记录",
+      "onboard_time": 1768969101,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 98290,
       "num": 98290,
       "word": "金饰价一夜暴涨41元",
@@ -691,12 +795,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 95486,
-      "num": 95486,
-      "word": "雪地冻8小时女子险成冰雕",
-      "onboard_time": 1768968379,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 97697,
+      "num": 100060,
+      "word": "特朗普不会参加七国集团峰会",
+      "onboard_time": 1768969221,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 97154,
+      "num": 97154,
+      "word": "央视解说U23国足爆金句",
+      "onboard_time": 1768969519,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 94860,
@@ -1075,14 +1187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 55728,
-      "num": 200490,
-      "word": "食堂承包商举报校领导问题属实",
-      "onboard_time": 1768967481,
-      "rank": 19,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 55680,
       "num": 55680,
       "word": "马克龙炮轰美国",
@@ -1243,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38583,
+      "num": 116240,
+      "word": "继母被执行死刑女孩生母放弃赔偿",
+      "onboard_time": 1768969519,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38382,
       "num": 145408,
       "word": "何宣林回应",
@@ -1308,7 +1420,7 @@
     },
     {
       "raw_hot": 25905,
-      "num": 615843,
+      "num": 624059,
       "word": "五个新概括2025年经济工作成绩单",
       "onboard_time": 1768965859,
       "rank": 2,
@@ -1361,6 +1473,14 @@
       "onboard_time": 1768910842,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19638,
+      "num": 117106,
+      "word": "北京增加对新市民保障性住房供给",
+      "onboard_time": 1768969881,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17733,

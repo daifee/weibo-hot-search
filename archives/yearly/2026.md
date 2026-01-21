@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/21 12:11:38
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/21 12:31:44
 </p>
 </blockquote>
 <p>
@@ -855,6 +855,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%88%E8%A6%81%E9%80%89%E9%A6%96%E7%9B%B8%E4%BA%86%23" target="weibo">
+日本又要选首相了（热度：1052287）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%B9%B4%E7%9A%84%E8%80%81%E5%B7%B1%E5%9C%A8QQ%E7%BB%99%E8%80%81%E8%87%AA%E7%95%99%E4%BA%86%E7%AC%94%E5%B7%A8%E6%AC%BE%23" target="weibo">
 当年的老己在QQ给老自留了笔巨款（热度：1049300）
 </a>
@@ -1181,12 +1187,6 @@ U23国足2比0越南（热度：940028）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%A7%E6%88%8F%E7%8E%8B%E5%85%89%E6%98%8E%E5%87%BA%E8%BD%A8%23" target="weibo">
 轧戏王光明出轨（热度：920382）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%88%E8%A6%81%E9%80%89%E9%A6%96%E7%9B%B8%E4%BA%86%23" target="weibo">
-日本又要选首相了（热度：919368）
 </a>
 </li>
 
