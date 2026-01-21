@@ -1,0 +1,410 @@
+{
+  "runTime": 1768981869823,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 514104,
+        "num": 1082256,
+        "word": "10元一斤草莓和300元一斤草莓区别",
+        "onboard_time": 1768976421,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337063,
+        "num": 779200,
+        "word": "男子献血2.2万毫升景区不免票被告",
+        "onboard_time": 1768968680,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22152,
+        "num": 686641,
+        "word": "五个新概括2025年经济工作成绩单",
+        "onboard_time": 1768965859,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 648219,
+        "num": 648219,
+        "word": "车厘子降价后黑草莓成水果新贵",
+        "onboard_time": 1768976480,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 401087,
+        "num": 541867,
+        "word": "涉密单位搬迁打印机被拉到废品站",
+        "onboard_time": 1768980260,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 502773,
+        "num": 502773,
+        "word": "双休可以是一周的任意两天",
+        "onboard_time": 1768974740,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 364629,
+        "num": 364629,
+        "word": "王昭君新皮肤长夜焕生",
+        "onboard_time": 1768977500,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 350620,
+        "num": 350620,
+        "word": "鹿晗出发录五哈",
+        "onboard_time": 1768975939,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287432,
+        "num": 287432,
+        "word": "张远今年不上春晚都因为王栎鑫",
+        "onboard_time": 1768976901,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212539,
+        "num": 212539,
+        "word": "国足",
+        "onboard_time": 1768975342,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 681848,
+        "num": 211813,
+        "word": "蒋欣 你妈妈也在评论区",
+        "onboard_time": 1768977260,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 550614,
+        "num": 211049,
+        "word": "孙悦录春晚脸被冻伤",
+        "onboard_time": 1768980199,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308908,
+        "num": 210223,
+        "word": "iPhone18",
+        "onboard_time": 1768966518,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 377829,
+        "num": 209710,
+        "word": "ELLE网站致歉",
+        "onboard_time": 1768978160,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 300843,
+        "num": 209060,
+        "word": "小伙安装1500斤玻璃时被压身亡",
+        "onboard_time": 1768978820,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271737,
+        "num": 207691,
+        "word": "下雪 卖霉豆腐",
+        "onboard_time": 1768976540,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235742,
+        "num": 206581,
+        "word": "代旭 猫的树你把我拍得好美啊",
+        "onboard_time": 1768974561,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223867,
+        "num": 206273,
+        "word": "五哈6",
+        "onboard_time": 1768978460,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21545,
+        "num": 205220,
+        "word": "LV26秋冬未来绅士大秀",
+        "onboard_time": 1768980681,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 57500,
+        "num": 204393,
+        "word": "华裔女孩回应掀起老外模仿热",
+        "onboard_time": 1768980800,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 705626,
+        "num": 203791,
+        "word": "白鹿吃烤肉经纪人在旁边急死了",
+        "onboard_time": 1768974860,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 610564,
+        "num": 202902,
+        "word": "女子怀双胞胎人流后发现第3个孩子",
+        "onboard_time": 1768979361,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328060,
+        "num": 201697,
+        "word": "黄子韬没等徐艺洋",
+        "onboard_time": 1768971440,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201400,
+        "num": 201400,
+        "word": "告白",
+        "onboard_time": 1768979960,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140286,
+        "num": 186197,
+        "word": "女子回应怀孕暴涨45斤被迫辞职",
+        "onboard_time": 1768974919,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182069,
+        "num": 182069,
+        "word": "王源老自喜提老己专辑",
+        "onboard_time": 1768981161,
+        "rank": 25,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 154809,
+        "num": 154809,
+        "word": "花少导游穆穆和张晚意聚餐了",
+        "onboard_time": 1768981521,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133633,
+        "num": 145176,
+        "word": "马克龙说中国在欧洲是受欢迎的",
+        "onboard_time": 1768981221,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141753,
+        "num": 141753,
+        "word": "鹿晗小鸡啄米式打招呼",
+        "onboard_time": 1768978279,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129432,
+        "num": 141595,
+        "word": "盒马客服回应虾煮熟后渗出蓝色液体",
+        "onboard_time": 1768973361,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141553,
+        "num": 141553,
+        "word": "穆祉丞力挺国足",
+        "onboard_time": 1768979240,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200383,
+        "num": 138139,
+        "word": "刺杀安倍的子弹60年前已上膛",
+        "onboard_time": 1768979479,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134705,
+        "num": 134705,
+        "word": "最难调整的脸型",
+        "onboard_time": 1768979060,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 133535,
+        "num": 133535,
+        "word": "王菲李亚鹏窦靖童李嫣同框旧照",
+        "onboard_time": 1768979300,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81906,
+        "num": 125580,
+        "word": "央视曝光霸总爱上我骗局",
+        "onboard_time": 1768978340,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124175,
+        "num": 124175,
+        "word": "小度致歉新音色",
+        "onboard_time": 1768981102,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 116958,
+        "num": 116958,
+        "word": "戴比尔斯超20亿美元钻戒没卖出",
+        "onboard_time": 1768981521,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 44747,
+        "num": 115941,
+        "word": "没有边界感逗孩子就是欺负孩子",
+        "onboard_time": 1768981102,
+        "rank": 37,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 95418,
+        "num": 115521,
+        "word": "迪丽热巴回应标签",
+        "onboard_time": 1768980800,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18126,
+        "num": 115421,
+        "word": "福建438人违反限消令乘机被拘留",
+        "onboard_time": 1768981282,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115357,
+        "num": 115357,
+        "word": "惊蛰无声",
+        "onboard_time": 1768978099,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113021,
+        "num": 113021,
+        "word": "真正爱你的人是不会心疼运费的",
+        "onboard_time": 1768980980,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111902,
+        "num": 111902,
+        "word": "很火但实际很难吃的水果",
+        "onboard_time": 1768968321,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 110975,
+        "num": 110975,
+        "word": "国乒2025获6个世界冠军",
+        "onboard_time": 1768980021,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108855,
+        "num": 108855,
+        "word": "ELLE称官网被黑",
+        "onboard_time": 1768981760,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107608,
+        "num": 107608,
+        "word": "明日方舟终末地",
+        "onboard_time": 1768980800,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102964,
+        "num": 102964,
+        "word": "章昊 爽文也不爽啊",
+        "onboard_time": 1768979599,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101927,
+        "num": 101927,
+        "word": "美国女子称美仅有一个州食人违法",
+        "onboard_time": 1768981461,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 99595,
+        "num": 99595,
+        "word": "王星越告白进组",
+        "onboard_time": 1768978760,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98714,
+        "num": 98714,
+        "word": "王楚然顶着满头蝴蝶结",
+        "onboard_time": 1768977680,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#开年第一课总书记强调这三个关键词#"
+    }
+  }
+}

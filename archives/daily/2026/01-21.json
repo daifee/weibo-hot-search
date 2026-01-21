@@ -1,6 +1,6 @@
 {
   "startTime": 1768927470754,
-  "endTime": 1768981051932,
+  "endTime": 1768981869823,
   "band_list": [
     {
       "raw_hot": 2487537,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 676926,
-      "num": 298804,
+      "num": 350620,
       "word": "鹿晗出发录五哈",
       "onboard_time": 1768975939,
       "rank": 11,
@@ -195,7 +195,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 598880,
+      "raw_hot": 610564,
       "num": 209210,
       "word": "女子怀双胞胎人流后发现第3个孩子",
       "onboard_time": 1768979361,
@@ -225,6 +225,14 @@
       "onboard_time": 1768974740,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 550614,
+      "num": 211049,
+      "word": "孙悦录春晚脸被冻伤",
+      "onboard_time": 1768980199,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 549397,
@@ -299,6 +307,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 401087,
+      "num": 541867,
+      "word": "涉密单位搬迁打印机被拉到废品站",
+      "onboard_time": 1768980260,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 399946,
       "num": 221201,
       "word": "金饰价涨到1495元",
@@ -331,20 +347,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 377829,
+      "num": 209710,
+      "word": "ELLE网站致歉",
+      "onboard_time": 1768978160,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 374660,
       "num": 300384,
       "word": "曝黄荷娜为减刑供出艺人名字",
       "onboard_time": 1768968921,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 362711,
-      "num": 208430,
-      "word": "ELLE网站致歉",
-      "onboard_time": 1768978160,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 361789,
@@ -419,14 +435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 306936,
-      "num": 208268,
-      "word": "孙悦录春晚脸被冻伤",
-      "onboard_time": 1768980199,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 303219,
       "num": 303219,
       "word": "2026亚足联U23亚洲杯",
@@ -443,6 +451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 300843,
+      "num": 209060,
+      "word": "小伙安装1500斤玻璃时被压身亡",
+      "onboard_time": 1768978820,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 298108,
       "num": 229884,
       "word": "这居然是李煜东",
@@ -457,6 +473,14 @@
       "onboard_time": 1768970480,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 287432,
+      "num": 287432,
+      "word": "张远今年不上春晚都因为王栎鑫",
+      "onboard_time": 1768976901,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 287329,
@@ -489,14 +513,6 @@
       "onboard_time": 1768956320,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 282119,
-      "num": 282119,
-      "word": "张远今年不上春晚都因为王栎鑫",
-      "onboard_time": 1768976901,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 278751,
@@ -571,14 +587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 230277,
-      "num": 208246,
-      "word": "小伙安装1500斤玻璃时被压身亡",
-      "onboard_time": 1768978820,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 226727,
       "num": 226727,
       "word": "拳打拜合拉木球员道歉",
@@ -595,20 +603,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 223867,
+      "num": 208517,
+      "word": "五哈6",
+      "onboard_time": 1768978460,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210370,
       "num": 210370,
       "word": "国乒2025获6个世界冠军",
       "onboard_time": 1768980021,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208517,
-      "num": 208517,
-      "word": "五哈6",
-      "onboard_time": 1768978460,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 207513,
@@ -635,12 +643,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 201400,
+      "num": 201400,
+      "word": "告白",
+      "onboard_time": 1768979960,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200930,
       "num": 200930,
       "word": "张子枫穿走了周遇安的裤子",
       "onboard_time": 1768967661,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200383,
+      "num": 138139,
+      "word": "刺杀安倍的子弹60年前已上膛",
+      "onboard_time": 1768979479,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 199947,
@@ -664,14 +688,6 @@
       "word": "古装剧古味消失的原因",
       "onboard_time": 1768945333,
       "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 193807,
-      "num": 193807,
-      "word": "告白",
-      "onboard_time": 1768979960,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -705,6 +721,14 @@
       "onboard_time": 1768921641,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182069,
+      "num": 182069,
+      "word": "王源老自喜提老己专辑",
+      "onboard_time": 1768981161,
+      "rank": 25,
+      "category": "音乐,艺人"
     },
     {
       "raw_hot": 181434,
@@ -859,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154809,
+      "num": 154809,
+      "word": "花少导游穆穆和张晚意聚餐了",
+      "onboard_time": 1768981521,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154658,
       "num": 154658,
       "word": "快乐老友记3",
@@ -979,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133633,
+      "num": 145176,
+      "word": "马克龙说中国在欧洲是受欢迎的",
+      "onboard_time": 1768981221,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 131421,
       "num": 201802,
       "word": "枪杀安倍自制枪支被定性为手枪",
@@ -1017,6 +1057,14 @@
       "onboard_time": 1768973240,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 124175,
+      "num": 124175,
+      "word": "小度致歉新音色",
+      "onboard_time": 1768981102,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 122906,
@@ -1091,6 +1139,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 116958,
+      "num": 116958,
+      "word": "戴比尔斯超20亿美元钻戒没卖出",
+      "onboard_time": 1768981521,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 116529,
       "num": 145948,
       "word": "黄金涨飞了",
@@ -1139,6 +1195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113021,
+      "num": 113021,
+      "word": "真正爱你的人是不会心疼运费的",
+      "onboard_time": 1768980980,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111274,
       "num": 111274,
       "word": "重返狼群导演透露李微漪近况",
@@ -1176,6 +1240,14 @@
       "word": "张慧雯编辑记录",
       "onboard_time": 1768969101,
       "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 108855,
+      "num": 108855,
+      "word": "ELLE称官网被黑",
+      "onboard_time": 1768981760,
+      "rank": 44,
       "category": "作品衍生"
     },
     {
@@ -1267,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101927,
+      "num": 101927,
+      "word": "美国女子称美仅有一个州食人违法",
+      "onboard_time": 1768981461,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 101687,
       "num": 101687,
       "word": "黄金在矿石表面静静生长",
@@ -1355,20 +1435,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 96899,
-      "num": 96899,
-      "word": "刺杀安倍的子弹60年前已上膛",
-      "onboard_time": 1768979479,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 96585,
       "num": 96585,
       "word": "男婴颈椎藏针全身被扎数百针孔",
       "onboard_time": 1768980199,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95418,
+      "num": 131041,
+      "word": "迪丽热巴回应标签",
+      "onboard_time": 1768980800,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 95124,
@@ -1457,14 +1537,6 @@
       "onboard_time": 1768977140,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 91815,
-      "num": 91815,
-      "word": "真正爱你的人是不会心疼运费的",
-      "onboard_time": 1768980980,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 91542,
@@ -1665,14 +1737,6 @@
       "onboard_time": 1768972820,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 79692,
-      "num": 208395,
-      "word": "涉密单位搬迁打印机被拉到废品站",
-      "onboard_time": 1768980260,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79636,
@@ -1907,12 +1971,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 58135,
-      "num": 131041,
-      "word": "迪丽热巴回应标签",
+      "raw_hot": 57500,
+      "num": 208290,
+      "word": "华裔女孩回应掀起老外模仿热",
       "onboard_time": 1768980800,
-      "rank": 37,
-      "category": "艺人"
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 56828,
@@ -2041,6 +2105,14 @@
       "onboard_time": 1768918822,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 44747,
+      "num": 115941,
+      "word": "没有边界感逗孩子就是欺负孩子",
+      "onboard_time": 1768981102,
+      "rank": 37,
+      "category": "民生新闻,幽默"
     },
     {
       "raw_hot": 43786,
@@ -2315,6 +2387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18126,
+      "num": 115421,
+      "word": "福建438人违反限消令乘机被拘留",
+      "onboard_time": 1768981282,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17733,
       "num": 20008,
       "word": "黄明昊挑战自己做妆发",
@@ -2337,14 +2417,6 @@
       "onboard_time": 1768909101,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 15540,
-      "num": 208290,
-      "word": "华裔女孩回应掀起老外模仿热",
-      "onboard_time": 1768980800,
-      "rank": 23,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 13570,
