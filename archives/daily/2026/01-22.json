@@ -1,6 +1,6 @@
 {
   "startTime": 1769015008764,
-  "endTime": 1769034874462,
+  "endTime": 1769035976517,
   "band_list": [
     {
       "raw_hot": 419156,
@@ -27,8 +27,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 240957,
-      "num": 434670,
+      "raw_hot": 260301,
+      "num": 555259,
       "word": "美航母战斗群已穿过马六甲海峡",
       "onboard_time": 1769009361,
       "rank": 1,
@@ -80,6 +80,14 @@
       "word": "程序员猝死抢救时曾被拉工作群",
       "onboard_time": 1768998022,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113059,
+      "num": 113059,
+      "word": "交警回应女子作不雅手势被后车撞击",
+      "onboard_time": 1769004202,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -145,14 +153,6 @@
       "onboard_time": 1769004623,
       "rank": 7,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 85103,
-      "num": 99320,
-      "word": "交警回应女子作不雅手势被后车撞击",
-      "onboard_time": 1769004202,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79191,
@@ -251,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44681,
+      "num": 92500,
+      "word": "9岁男童托管期间坠入排污井身亡",
+      "onboard_time": 1769002582,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43921,
       "num": 92721,
       "word": "去有风的地方或将拍第二季",
@@ -275,7 +283,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 39217,
+      "raw_hot": 39283,
       "num": 92908,
       "word": "中方回应特朗普称联合国或被取代",
       "onboard_time": 1769009181,
@@ -296,6 +304,22 @@
       "word": "14岁少年遭生父继母长期虐待离世",
       "onboard_time": 1768987460,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38291,
+      "num": 92207,
+      "word": "美财长首次回应斩杀线困境",
+      "onboard_time": 1769014877,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 38276,
+      "num": 92338,
+      "word": "14岁少年遭虐待离世生父投案自首",
+      "onboard_time": 1769011579,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -323,22 +347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 36350,
-      "num": 92207,
-      "word": "美财长首次回应斩杀线困境",
-      "onboard_time": 1769014877,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 35380,
-      "num": 92338,
-      "word": "14岁少年遭虐待离世生父投案自首",
-      "onboard_time": 1769011579,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35276,
       "num": 65057,
       "word": "多方回应福建一首饰店被抢劫",
@@ -347,12 +355,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35233,
-      "num": 92500,
-      "word": "9岁男童托管期间坠入排污井身亡",
-      "onboard_time": 1769002582,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 35219,
+      "num": 64981,
+      "word": "我八年前聊过天的网友是卢昱晓",
+      "onboard_time": 1768998741,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 34605,
@@ -403,14 +411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 28291,
-      "num": 64981,
-      "word": "我八年前聊过天的网友是卢昱晓",
-      "onboard_time": 1768998741,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 28178,
       "num": 64985,
       "word": "于适梁朝伟刘嘉玲同框",
@@ -425,6 +425,14 @@
       "onboard_time": 1769004623,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 25333,
+      "num": 38134,
+      "word": "檀健次王嘉尔PROOF手势舞",
+      "onboard_time": 1769020155,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 25256,
@@ -467,14 +475,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 22077,
-      "num": 32901,
-      "word": "檀健次王嘉尔PROOF手势舞",
-      "onboard_time": 1769020155,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 21469,
       "num": 39607,
       "word": "梁朝伟刘嘉玲于适同框",
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 19727,
-      "num": 32837,
+      "num": 37976,
       "word": "霉霉入选创作名人堂",
       "onboard_time": 1769020094,
       "rank": 24,
@@ -505,6 +505,22 @@
       "onboard_time": 1768988782,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 16712,
+      "num": 37928,
+      "word": "现货黄金短线下挫40美元",
+      "onboard_time": 1769007264,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 15865,
+      "num": 37875,
+      "word": "告白",
+      "onboard_time": 1768979960,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 15558,
@@ -531,14 +547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 11604,
-      "num": 32768,
-      "word": "现货黄金短线下挫40美元",
-      "onboard_time": 1769007264,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 11415,
       "num": 17692,
       "word": "徐冬冬创建粉丝群要送结婚饮料",
@@ -547,8 +555,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 10080,
-      "num": 240969,
+      "raw_hot": 10239,
+      "num": 317455,
       "word": "数读工业和信息化发展新成效",
       "onboard_time": 1769001682,
       "rank": 2,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/18 00:32:47 ~ 2026/01/22 06:34:34
+本榜单时间：2026/01/18 00:32:47 ~ 2026/01/22 06:52:56
 </p>
 </blockquote>
 <p>
@@ -2241,6 +2241,12 @@ U23亚洲杯（热度：284761）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%88%AA%E6%AF%8D%E6%88%98%E6%96%97%E7%BE%A4%E5%B7%B2%E7%A9%BF%E8%BF%87%E9%A9%AC%E5%85%AD%E7%94%B2%E6%B5%B7%E5%B3%A1%23" target="weibo">
+美航母战斗群已穿过马六甲海峡（热度：260301）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9A%AE%E8%82%A4%E7%A2%8E%E7%89%87%E6%8D%A2%E9%B2%81%E7%8F%AD%E4%B8%83%E5%8F%B7%E6%96%B0%E7%9A%AE%E8%82%A4%23" target="weibo">
 皮肤碎片换鲁班七号新皮肤（热度：259807）
 </a>
@@ -2393,12 +2399,6 @@ U23亚洲杯（热度：284761）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E6%97%97%20%E5%9C%A8%E6%B5%B7%E8%BE%B9%E5%8F%91%E7%8E%B0%E4%B8%80%E5%8F%AA%E8%9E%83%E8%9F%B9%23" target="weibo">
 云旗 在海边发现一只螃蟹（热度：241359）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%88%AA%E6%AF%8D%E6%88%98%E6%96%97%E7%BE%A4%E5%B7%B2%E7%A9%BF%E8%BF%87%E9%A9%AC%E5%85%AD%E7%94%B2%E6%B5%B7%E5%B3%A1%23" target="weibo">
-美航母战斗群已穿过马六甲海峡（热度：240957）
 </a>
 </li>
 
@@ -10102,7 +10102,7 @@ U23国足成本届唯一0丢球球队（热度：43448）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%81%94%E5%90%88%E5%9B%BD%E6%88%96%E8%A2%AB%E5%8F%96%E4%BB%A3%23" target="weibo">
-中方回应特朗普称联合国或被取代（热度：39217）
+中方回应特朗普称联合国或被取代（热度：39283）
 </a>
 </li>
 
@@ -10145,6 +10145,18 @@ U23国足成本届唯一0丢球球队（热度：43448）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%8F%AD%E5%BD%95%E8%A7%86%E9%A2%91%E5%91%BC%E5%94%A4%E6%98%8F%E8%BF%B7%E7%9A%848%E5%B2%81%E5%90%8C%E5%AD%A6%23" target="weibo">
 全班录视频呼唤昏迷的8岁同学（热度：38312）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%B4%A2%E9%95%BF%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E6%96%A9%E6%9D%80%E7%BA%BF%E5%9B%B0%E5%A2%83%23" target="weibo">
+美财长首次回应斩杀线困境（热度：38291）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%B0%91%E5%B9%B4%E9%81%AD%E8%99%90%E5%BE%85%E7%A6%BB%E4%B8%96%E7%94%9F%E7%88%B6%E6%8A%95%E6%A1%88%E8%87%AA%E9%A6%96%23" target="weibo">
+14岁少年遭虐待离世生父投案自首（热度：38276）
 </a>
 </li>
 
@@ -10197,12 +10209,6 @@ U23国足成本届唯一0丢球球队（热度：43448）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%B4%A2%E9%95%BF%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E6%96%A9%E6%9D%80%E7%BA%BF%E5%9B%B0%E5%A2%83%23" target="weibo">
-美财长首次回应斩杀线困境（热度：36350）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E4%B8%BA%E5%85%8B%E6%9C%8D%E8%87%AA%E5%8D%91%E5%9C%A8%E5%9C%B0%E9%93%81%E4%B8%8A%E6%BC%94%E8%AE%B2%23" target="weibo">
 小伙为克服自卑在地铁上演讲（热度：36289）
 </a>
@@ -10223,12 +10229,6 @@ Rookie燃成鸡架（热度：36070）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2310%E6%9C%88%E5%A4%A7%E7%94%B7%E5%A9%B4%E8%A2%AB%E6%AF%8D%E4%BA%B2%E6%89%8E%E9%92%88%E8%A7%86%E9%A2%91%E5%B7%B2%E5%88%A0%E9%99%A4%23" target="weibo">
 10月大男婴被母亲扎针视频已删除（热度：35428）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%B0%91%E5%B9%B4%E9%81%AD%E8%99%90%E5%BE%85%E7%A6%BB%E4%B8%96%E7%94%9F%E7%88%B6%E6%8A%95%E6%A1%88%E8%87%AA%E9%A6%96%23" target="weibo">
-14岁少年遭虐待离世生父投案自首（热度：35380）
 </a>
 </li>
 
@@ -10527,6 +10527,12 @@ LV26秋冬未来绅士大秀（热度：26660）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%8E%8B%E5%98%89%E5%B0%94PROOF%E6%89%8B%E5%8A%BF%E8%88%9E%23" target="weibo">
+檀健次王嘉尔PROOF手势舞（热度：25333）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%A3%89%E8%A2%84%E9%85%8D%E8%89%B2%E6%9E%81%E5%85%89%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
 花棉袄配色极光出现了（热度：25256）
 </a>
@@ -10631,12 +10637,6 @@ NBA常规赛（热度：23123）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232026%E5%BE%85%E6%92%AD%E5%89%A7%E6%B8%85%E5%8D%95%23" target="weibo">
 2026待播剧清单（热度：22318）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%8E%8B%E5%98%89%E5%B0%94PROOF%E6%89%8B%E5%8A%BF%E8%88%9E%23" target="weibo">
-檀健次王嘉尔PROOF手势舞（热度：22077）
 </a>
 </li>
 
