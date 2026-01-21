@@ -1,0 +1,410 @@
+{
+  "runTime": 1769004177006,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1953758,
+        "num": 1953758,
+        "word": "杜涛面相都变了",
+        "onboard_time": 1769000600,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300468,
+        "num": 939334,
+        "word": "留学生揭穿9层楼积雪骗局",
+        "onboard_time": 1768983201,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 43435,
+        "num": 722401,
+        "word": "2026春运2月2日开始",
+        "onboard_time": 1769002041,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 363404,
+        "num": 363404,
+        "word": "男子15年为妻女购金现估价超170万",
+        "onboard_time": 1769000362,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 900494,
+        "num": 330555,
+        "word": "程序员猝死抢救时曾被拉工作群",
+        "onboard_time": 1768998022,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275397,
+        "num": 275397,
+        "word": "深圳地铁车厢两女生掏出活蛇玩耍",
+        "onboard_time": 1769000062,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273198,
+        "num": 273198,
+        "word": "32岁程序员周末晕倒后猝死",
+        "onboard_time": 1769000181,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235797,
+        "num": 235797,
+        "word": "去有风的地方或将拍第二季",
+        "onboard_time": 1768995261,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170638,
+        "num": 231515,
+        "word": "年代剧终于有正常婆婆了",
+        "onboard_time": 1768992920,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146413,
+        "num": 225837,
+        "word": "黑草莓",
+        "onboard_time": 1768988000,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 703483,
+        "num": 218132,
+        "word": "赖冠霖回应退圈",
+        "onboard_time": 1768997240,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425648,
+        "num": 212796,
+        "word": "王鹤棣 我是王嘉尔",
+        "onboard_time": 1769000902,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261689,
+        "num": 209998,
+        "word": "拼多多受到处罚",
+        "onboard_time": 1768983021,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 341585,
+        "num": 202368,
+        "word": "邓超 我能签鹿晗的签名照吗",
+        "onboard_time": 1769000540,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199989,
+        "num": 199989,
+        "word": "我八年前聊过天的网友是卢昱晓",
+        "onboard_time": 1768998741,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143578,
+        "num": 192369,
+        "word": "剑来",
+        "onboard_time": 1768995981,
+        "rank": 15,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 188195,
+        "num": 188195,
+        "word": "喵娲娲 夹微博之夜门票",
+        "onboard_time": 1769003481,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157962,
+        "num": 157962,
+        "word": "威海海边冻住了",
+        "onboard_time": 1768996220,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129554,
+        "num": 156589,
+        "word": "洗衣机洗羽绒服要慎重",
+        "onboard_time": 1768996281,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 122564,
+        "num": 153526,
+        "word": "素人和荤人的区别",
+        "onboard_time": 1768992561,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 555228,
+        "num": 152701,
+        "word": "美国现在连尸体脂肪都不放过",
+        "onboard_time": 1768984341,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 248336,
+        "num": 150285,
+        "word": "王伊瑶不愧是赵丽颖的嫡长闺",
+        "onboard_time": 1769002881,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240467,
+        "num": 146974,
+        "word": "王俊凯 还好我先出道了",
+        "onboard_time": 1768995802,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145439,
+        "num": 145439,
+        "word": "14岁少年遭生父继母长期虐待离世",
+        "onboard_time": 1768987460,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217882,
+        "num": 144317,
+        "word": "昀牵孟绕",
+        "onboard_time": 1769003600,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167826,
+        "num": 144236,
+        "word": "王嘉尔 我是徐明浩",
+        "onboard_time": 1768997841,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142946,
+        "num": 142946,
+        "word": "这4个部位胖一点反而更健康",
+        "onboard_time": 1769001862,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142505,
+        "num": 142505,
+        "word": "赖冠霖 演戏不是我可以做好的事",
+        "onboard_time": 1769002762,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119095,
+        "num": 119095,
+        "word": "爱吃鸭头的人天塌了",
+        "onboard_time": 1769000002,
+        "rank": 28,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 110816,
+        "num": 117724,
+        "word": "U23国足上新闻联播了",
+        "onboard_time": 1769001981,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116543,
+        "num": 116543,
+        "word": "王楚钦连续4年没回家过年了",
+        "onboard_time": 1769000841,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115587,
+        "num": 115587,
+        "word": "滕泽文发文告白荣善宝",
+        "onboard_time": 1769003002,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105504,
+        "num": 105504,
+        "word": "告白",
+        "onboard_time": 1768979960,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104586,
+        "num": 104586,
+        "word": "9岁男童托管期间坠入排污井身亡",
+        "onboard_time": 1769002582,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102168,
+        "num": 102168,
+        "word": "范丞丞 平板一滴泪受害者",
+        "onboard_time": 1768996040,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99486,
+        "num": 99486,
+        "word": "12万放塑料袋挂车把全部遗失",
+        "onboard_time": 1769002942,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96225,
+        "num": 96225,
+        "word": "车厘子降价后黑草莓成水果新贵",
+        "onboard_time": 1768976480,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 94952,
+        "num": 94952,
+        "word": "一个综艺集齐了四大浙卫IP",
+        "onboard_time": 1769001742,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93702,
+        "num": 93702,
+        "word": "10元一斤草莓和300元一斤草莓区别",
+        "onboard_time": 1768976421,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46760,
+        "num": 92771,
+        "word": "女子238页PPT起底婚介黑灰产",
+        "onboard_time": 1769004023,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92481,
+        "num": 92481,
+        "word": "敖瑞鹏难受到捂肚子皱眉",
+        "onboard_time": 1768996100,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85938,
+        "num": 85938,
+        "word": "职工医保和居民医保的区别",
+        "onboard_time": 1768991481,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 82736,
+        "num": 82736,
+        "word": "中方回应是否租借新的大熊猫给日本",
+        "onboard_time": 1768995740,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 81950,
+        "num": 81950,
+        "word": "文淇又在地铁站出神图了",
+        "onboard_time": 1769002104,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79376,
+        "num": 79376,
+        "word": "赵丽颖哽咽戏",
+        "onboard_time": 1768997781,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79323,
+        "num": 79323,
+        "word": "永远不要害怕任何关系破裂",
+        "onboard_time": 1769004023,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76738,
+        "num": 76738,
+        "word": "李秋萍杜涛分手",
+        "onboard_time": 1768999462,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76272,
+        "num": 76272,
+        "word": "吉林男篮vs广东男篮",
+        "onboard_time": 1769003242,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75192,
+        "num": 75192,
+        "word": "告白官博辟谣",
+        "onboard_time": 1769003425,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74588,
+        "num": 74588,
+        "word": "TF荣耀之战主题",
+        "onboard_time": 1768998439,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#新年第一课习近平这样强调#"
+    }
+  }
+}

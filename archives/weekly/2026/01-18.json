@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769002055046,
+  "endTime": 1769004177006,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -49,6 +49,14 @@
       "onboard_time": 1768795042,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1953758,
+      "num": 1953758,
+      "word": "杜涛面相都变了",
+      "onboard_time": 1769000600,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 1874899,
@@ -163,14 +171,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 1111377,
-      "num": 1177820,
-      "word": "杜涛面相都变了",
-      "onboard_time": 1769000600,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1106742,
       "num": 178772,
       "word": "美国现在连尸体脂肪都不放过",
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 982044,
-      "num": 182089,
+      "num": 218132,
       "word": "赖冠霖回应退圈",
       "onboard_time": 1768997240,
       "rank": 10,
@@ -1364,7 +1364,7 @@
     },
     {
       "raw_hot": 461396,
-      "num": 181021,
+      "num": 212796,
       "word": "王鹤棣 我是王嘉尔",
       "onboard_time": 1769000902,
       "rank": 11,
@@ -1963,6 +1963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 363404,
+      "num": 363404,
+      "word": "男子15年为妻女购金现估价超170万",
+      "onboard_time": 1769000362,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 363333,
       "num": 279486,
       "word": "骄阳似我",
@@ -2129,6 +2137,14 @@
       "onboard_time": 1768876939,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 341585,
+      "num": 202368,
+      "word": "邓超 我能签鹿晗的签名照吗",
+      "onboard_time": 1769000540,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 339279,
@@ -2699,6 +2715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275397,
+      "num": 275397,
+      "word": "深圳地铁车厢两女生掏出活蛇玩耍",
+      "onboard_time": 1769000062,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 274651,
       "num": 272900,
       "word": "特朗普因格陵兰岛向欧洲8国加税",
@@ -2729,6 +2753,14 @@
       "onboard_time": 1768792700,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 273198,
+      "num": 273198,
+      "word": "32岁程序员周末晕倒后猝死",
+      "onboard_time": 1769000181,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 272530,
@@ -2977,6 +3009,14 @@
       "onboard_time": 1768982600,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 248336,
+      "num": 150285,
+      "word": "王伊瑶不愧是赵丽颖的嫡长闺",
+      "onboard_time": 1769002881,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 248182,
@@ -3419,6 +3459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 217882,
+      "num": 144317,
+      "word": "昀牵孟绕",
+      "onboard_time": 1769003600,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217876,
       "num": 194038,
       "word": "美媒印证了牢A的捐献器官说法",
@@ -3843,6 +3891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 199989,
+      "num": 199989,
+      "word": "我八年前聊过天的网友是卢昱晓",
+      "onboard_time": 1768998741,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199947,
       "num": 187246,
       "word": "王楚然顶着满头蝴蝶结",
@@ -4131,6 +4187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188195,
+      "num": 188195,
+      "word": "喵娲娲 夹微博之夜门票",
+      "onboard_time": 1769003481,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 187981,
       "num": 162701,
       "word": "周柯宇直播五排",
@@ -4185,14 +4249,6 @@
       "onboard_time": 1768796962,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 185597,
-      "num": 185597,
-      "word": "男子15年为妻女购金现估价超170万",
-      "onboard_time": 1769000362,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 185506,
@@ -4448,14 +4504,6 @@
       "word": "鞠婧祎海边落日九宫格",
       "onboard_time": 1768904180,
       "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 175009,
-      "num": 175009,
-      "word": "邓超 我能签鹿晗的签名照吗",
-      "onboard_time": 1769000540,
-      "rank": 14,
       "category": "艺人"
     },
     {
@@ -4825,14 +4873,6 @@
       "onboard_time": 1768974500,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 163053,
-      "num": 163053,
-      "word": "32岁程序员周末晕倒后猝死",
-      "onboard_time": 1769000181,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 162956,
@@ -5459,14 +5499,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 145065,
-      "num": 145065,
-      "word": "深圳地铁车厢两女生掏出活蛇玩耍",
-      "onboard_time": 1769000062,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 144903,
       "num": 144903,
       "word": "2025年GDP超140万亿元",
@@ -5555,6 +5587,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 142946,
+      "num": 142946,
+      "word": "这4个部位胖一点反而更健康",
+      "onboard_time": 1769001862,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 142936,
       "num": 216271,
       "word": "二十多岁其实真的很年轻",
@@ -5593,6 +5633,14 @@
       "onboard_time": 1768648160,
       "rank": 14,
       "category": "网红,运动健身"
+    },
+    {
+      "raw_hot": 142505,
+      "num": 142505,
+      "word": "赖冠霖 演戏不是我可以做好的事",
+      "onboard_time": 1769002762,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 142398,
@@ -6115,14 +6163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129782,
-      "num": 129782,
-      "word": "我八年前聊过天的网友是卢昱晓",
-      "onboard_time": 1768998741,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129762,
       "num": 138786,
       "word": "贺峻霖力证不是AI",
@@ -6137,6 +6177,14 @@
       "onboard_time": 1768813580,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129554,
+      "num": 156589,
+      "word": "洗衣机洗羽绒服要慎重",
+      "onboard_time": 1768996281,
+      "rank": 35,
+      "category": "科学科普"
     },
     {
       "raw_hot": 129509,
@@ -6763,6 +6811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119095,
+      "num": 119095,
+      "word": "爱吃鸭头的人天塌了",
+      "onboard_time": 1769000002,
+      "rank": 28,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 119049,
       "num": 131338,
       "word": "被米兰随性悠游的马龙帅到了",
@@ -7003,6 +7059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116543,
+      "num": 159408,
+      "word": "王楚钦连续4年没回家过年了",
+      "onboard_time": 1769000841,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116527,
       "num": 112469,
       "word": "车澈回应瘦了68斤",
@@ -7073,6 +7137,14 @@
       "onboard_time": 1768980800,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 115587,
+      "num": 115587,
+      "word": "滕泽文发文告白荣善宝",
+      "onboard_time": 1769003002,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 115357,
@@ -7379,19 +7451,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 111158,
-      "num": 111158,
-      "word": "洗衣机洗羽绒服要慎重",
-      "onboard_time": 1768996281,
-      "rank": 35,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 111104,
       "num": 111104,
       "word": "白卓璇不敌萨巴伦卡",
       "onboard_time": 1768962738,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110816,
+      "num": 117724,
+      "word": "U23国足上新闻联播了",
+      "onboard_time": 1769001981,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -7689,14 +7761,6 @@
       "onboard_time": 1768912640,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 107623,
-      "num": 159408,
-      "word": "王楚钦连续4年没回家过年了",
-      "onboard_time": 1769000841,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 107596,
@@ -8025,6 +8089,14 @@
       "onboard_time": 1768718840,
       "rank": 47,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 104586,
+      "num": 104586,
+      "word": "9岁男童托管期间坠入排污井身亡",
+      "onboard_time": 1769002582,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104540,
@@ -8507,6 +8579,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 99486,
+      "num": 99486,
+      "word": "12万放塑料袋挂车把全部遗失",
+      "onboard_time": 1769002942,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99335,
       "num": 99335,
       "word": "学科带头人称老师要把AI当成对手",
@@ -8697,14 +8777,6 @@
       "onboard_time": 1768717520,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 97776,
-      "num": 97776,
-      "word": "这4个部位胖一点反而更健康",
-      "onboard_time": 1769001862,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 97697,
@@ -10659,6 +10731,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 81950,
+      "num": 81950,
+      "word": "文淇又在地铁站出神图了",
+      "onboard_time": 1769002104,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 81902,
       "num": 81902,
       "word": "这是军人执行任务时遇到蛇的反应",
@@ -10921,6 +11001,14 @@
       "onboard_time": 1768778178,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79323,
+      "num": 79323,
+      "word": "永远不要害怕任何关系破裂",
+      "onboard_time": 1769004023,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 79299,
@@ -11211,6 +11299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 76272,
+      "num": 76272,
+      "word": "吉林男篮vs广东男篮",
+      "onboard_time": 1769003242,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76223,
       "num": 76223,
       "word": "黄金白银再暴涨原因",
@@ -11323,6 +11419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75192,
+      "num": 75192,
+      "word": "告白官博辟谣",
+      "onboard_time": 1769003425,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 75166,
       "num": 119468,
       "word": "虞书欣妈咪变学姐",
@@ -11344,14 +11448,6 @@
       "word": "贝克汉姆儿子",
       "onboard_time": 1768955420,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 74971,
-      "num": 74971,
-      "word": "U23国足上新闻联播了",
-      "onboard_time": 1769001981,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -12723,6 +12819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46760,
+      "num": 92771,
+      "word": "女子238页PPT起底婚介黑灰产",
+      "onboard_time": 1769004023,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46713,
       "num": 322961,
       "word": "蹲蹲Jonathan迪奥冬季男装首秀",
@@ -12817,6 +12921,14 @@
       "onboard_time": 1768668378,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43435,
+      "num": 722401,
+      "word": "2026春运2月2日开始",
+      "onboard_time": 1769002041,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 43200,
