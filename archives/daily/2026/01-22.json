@@ -1,6 +1,6 @@
 {
   "startTime": 1769015008764,
-  "endTime": 1769031393824,
+  "endTime": 1769032334702,
   "band_list": [
     {
       "raw_hot": 419156,
@@ -539,20 +539,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9405,
+      "num": 133865,
+      "word": "数读工业和信息化发展新成效",
+      "onboard_time": 1769001682,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 9140,
       "num": 17687,
       "word": "现货黄金短线下挫40美元",
       "onboard_time": 1769007264,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 8506,
-      "num": 100980,
-      "word": "数读工业和信息化发展新成效",
-      "onboard_time": 1769001682,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [

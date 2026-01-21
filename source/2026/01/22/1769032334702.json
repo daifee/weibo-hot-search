@@ -1,0 +1,410 @@
+{
+  "runTime": 1769032334702,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 82875,
+        "num": 227166,
+        "word": "美航母战斗群已穿过马六甲海峡",
+        "onboard_time": 1769009361,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 64646,
+        "num": 169468,
+        "word": "杜涛面相都变了",
+        "onboard_time": 1769000600,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9405,
+        "num": 133865,
+        "word": "数读工业和信息化发展新成效",
+        "onboard_time": 1769001682,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33540,
+        "num": 33540,
+        "word": "携程接机 信息泄露",
+        "onboard_time": 1769012419,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32078,
+        "num": 32078,
+        "word": "交警回应女子作不雅手势被后车撞击",
+        "onboard_time": 1769004202,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27854,
+        "num": 27854,
+        "word": "黑白颠周媛付费课收入已超2400万",
+        "onboard_time": 1769008401,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27687,
+        "num": 27687,
+        "word": "爱吃鸭头的人天塌了",
+        "onboard_time": 1769000002,
+        "rank": 6,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 26697,
+        "num": 26697,
+        "word": "微博之夜门票",
+        "onboard_time": 1769006901,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25976,
+        "num": 25976,
+        "word": "联合国警告水破产时代已来临",
+        "onboard_time": 1769004623,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22150,
+        "num": 25770,
+        "word": "美财长首次回应斩杀线困境",
+        "onboard_time": 1769014877,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62733,
+        "num": 25765,
+        "word": "戚薇女儿Lucky转眼长成大姑娘啦",
+        "onboard_time": 1769008641,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27386,
+        "num": 25762,
+        "word": "我八年前聊过天的网友是卢昱晓",
+        "onboard_time": 1768998741,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25749,
+        "num": 25749,
+        "word": "肖战恐雪症人设",
+        "onboard_time": 1769015357,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22627,
+        "num": 22627,
+        "word": "王楚然 演恶女我这张脸还用演吗",
+        "onboard_time": 1769006782,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21408,
+        "num": 21408,
+        "word": "14岁少年遭虐待离世生父投案自首",
+        "onboard_time": 1769011579,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21161,
+        "num": 21161,
+        "word": "徐冬冬 谁送礼就请谁回家",
+        "onboard_time": 1769007500,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18426,
+        "num": 18426,
+        "word": "少年遭虐待离世继母有重大嫌疑",
+        "onboard_time": 1769011941,
+        "rank": 16,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 17411,
+        "num": 17411,
+        "word": "800元一个的粉菠萝半月卖近100件",
+        "onboard_time": 1769008582,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17246,
+        "num": 17246,
+        "word": "王伊瑶不愧是赵丽颖的嫡长闺",
+        "onboard_time": 1769002881,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16544,
+        "num": 16544,
+        "word": "拼多多受到处罚",
+        "onboard_time": 1768983021,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 45474,
+        "num": 16532,
+        "word": "美国现在连尸体脂肪都不放过",
+        "onboard_time": 1768984341,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25626,
+        "num": 16497,
+        "word": "程序员猝死抢救时曾被拉工作群",
+        "onboard_time": 1768998022,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20380,
+        "num": 16471,
+        "word": "昀牵孟绕",
+        "onboard_time": 1769003600,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16443,
+        "num": 16443,
+        "word": "9岁男童托管期间坠入排污井身亡",
+        "onboard_time": 1769002582,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15489,
+        "num": 15489,
+        "word": "霉霉入选创作名人堂",
+        "onboard_time": 1769020094,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15477,
+        "num": 15477,
+        "word": "王俊凯 还好我先出道了",
+        "onboard_time": 1768995802,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15018,
+        "num": 15018,
+        "word": "你是刘宪华那他是谁",
+        "onboard_time": 1769011638,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14885,
+        "num": 14885,
+        "word": "历年央八收视率排名",
+        "onboard_time": 1769004503,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14667,
+        "num": 14667,
+        "word": "中方回应特朗普称联合国或被取代",
+        "onboard_time": 1769009181,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14001,
+        "num": 14001,
+        "word": "男子15年为妻女购金现估价超170万",
+        "onboard_time": 1769000362,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19274,
+        "num": 13998,
+        "word": "多方回应福建一首饰店被抢劫",
+        "onboard_time": 1769015536,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13993,
+        "num": 13993,
+        "word": "陈都灵好有冲击力的美貌",
+        "onboard_time": 1769010980,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13945,
+        "num": 13945,
+        "word": "檀健次王嘉尔PROOF手势舞",
+        "onboard_time": 1769020155,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13915,
+        "num": 13915,
+        "word": "14岁少年遭生父继母长期虐待离世",
+        "onboard_time": 1768987460,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13797,
+        "num": 13797,
+        "word": "鲁班七号班班快跑新皮肤",
+        "onboard_time": 1769012539,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 12611,
+        "num": 13704,
+        "word": "32岁程序员周末晕倒后猝死",
+        "onboard_time": 1769000181,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13693,
+        "num": 13693,
+        "word": "惠英红陈都灵胡一天合照",
+        "onboard_time": 1769009780,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12548,
+        "num": 13693,
+        "word": "邓超 我能签鹿晗的签名照吗",
+        "onboard_time": 1769000540,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12409,
+        "num": 13692,
+        "word": "小城大事",
+        "onboard_time": 1768995981,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12205,
+        "num": 13692,
+        "word": "女子牵绳遛狗遭殴打警方已介入",
+        "onboard_time": 1769009061,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12125,
+        "num": 13692,
+        "word": "迪奥大秀",
+        "onboard_time": 1769006481,
+        "rank": 40,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 11808,
+        "num": 13692,
+        "word": "刘宪华和暮光之城男主同框",
+        "onboard_time": 1769006663,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11681,
+        "num": 13692,
+        "word": "还以为陈浚铭吃的是狗粮",
+        "onboard_time": 1769010861,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11480,
+        "num": 13692,
+        "word": "小城良方",
+        "onboard_time": 1768999700,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11437,
+        "num": 13691,
+        "word": "花棉袄配色极光出现了",
+        "onboard_time": 1769011460,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11297,
+        "num": 13691,
+        "word": "于适梁朝伟刘嘉玲同框",
+        "onboard_time": 1769015477,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11264,
+        "num": 13691,
+        "word": "新设41家口岸进境免税店",
+        "onboard_time": 1769001382,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11181,
+        "num": 13690,
+        "word": "王源实体专辑在星穹下狂奔",
+        "onboard_time": 1769016136,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 10879,
+        "num": 13690,
+        "word": "侯明昊告别玉茗茶骨长文",
+        "onboard_time": 1769012000,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10765,
+        "num": 13690,
+        "word": "最适合追星女的辩题来了",
+        "onboard_time": 1769012598,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#新年第一课习近平这样强调#"
+    }
+  }
+}
