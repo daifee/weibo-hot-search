@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/22 06:52:56
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/22 07:34:22
 </p>
 </blockquote>
 <p>
@@ -5445,6 +5445,12 @@ KK园区彻底清零（热度：445670）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%88%AA%E6%AF%8D%E6%88%98%E6%96%97%E7%BE%A4%E5%B7%B2%E7%A9%BF%E8%BF%87%E9%A9%AC%E5%85%AD%E7%94%B2%E6%B5%B7%E5%B3%A1%23" target="weibo">
+美航母战斗群已穿过马六甲海峡（热度：441985）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23u23%23" target="weibo">
 u23（热度：441695）
 </a>
@@ -6005,12 +6011,6 @@ iPhone没有一个按键是多余的（热度：420534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%81%B5%E5%8A%A8%E5%B2%9B%E6%88%96%E5%8F%98%E5%B0%8F%23" target="weibo">
 iPhone18Pro灵动岛或变小（热度：412510）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E7%8A%AF%E5%9B%B0%E9%83%BD%E6%9C%89%E4%BA%BA%E4%BB%BF%E5%A6%86%E6%A8%A1%E4%BB%BF%E4%BA%86%23" target="weibo">
-鞠婧祎犯困都有人仿妆模仿了（热度：412245）
 </a>
 </li>
 

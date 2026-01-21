@@ -1,0 +1,410 @@
+{
+  "runTime": 1769038462360,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 441985,
+        "num": 858373,
+        "word": "美航母战斗群已穿过马六甲海峡",
+        "onboard_time": 1769009361,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 285876,
+        "num": 631931,
+        "word": "杜涛面相都变了",
+        "onboard_time": 1769000600,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14248,
+        "num": 509158,
+        "word": "数读工业和信息化发展新成效",
+        "onboard_time": 1769001682,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 246861,
+        "num": 246861,
+        "word": "美国正式退出世卫组织",
+        "onboard_time": 1769037497,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 221908,
+        "num": 221908,
+        "word": "交警回应女子作不雅手势被后车撞击",
+        "onboard_time": 1769004202,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143668,
+        "num": 143668,
+        "word": "大额存单利率降至0字头区间",
+        "onboard_time": 1769037197,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135687,
+        "num": 135687,
+        "word": "男子献血2.2万毫升不免票景区道歉",
+        "onboard_time": 1769037136,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134945,
+        "num": 134945,
+        "word": "黑白颠周媛付费课收入已超2400万",
+        "onboard_time": 1769008401,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116658,
+        "num": 116658,
+        "word": "微博之夜门票",
+        "onboard_time": 1769006901,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113541,
+        "num": 113541,
+        "word": "联合国警告水破产时代已来临",
+        "onboard_time": 1769004623,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 294601,
+        "num": 111999,
+        "word": "戚薇女儿Lucky转眼长成大姑娘啦",
+        "onboard_time": 1769008641,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151918,
+        "num": 110506,
+        "word": "14岁女孩追星一个月消费6万余元",
+        "onboard_time": 1769037377,
+        "rank": 11,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 100880,
+        "num": 100880,
+        "word": "第一次见买家秀和卖家秀反着来的",
+        "onboard_time": 1769037257,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86495,
+        "num": 86495,
+        "word": "肖战恐雪症人设",
+        "onboard_time": 1769015357,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84164,
+        "num": 84164,
+        "word": "徐冬冬 谁送礼就请谁回家",
+        "onboard_time": 1769007500,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83334,
+        "num": 83334,
+        "word": "爱吃鸭头的人天塌了",
+        "onboard_time": 1769000002,
+        "rank": 15,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 81105,
+        "num": 81105,
+        "word": "中方回应特朗普称联合国或被取代",
+        "onboard_time": 1769009181,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 78468,
+        "num": 78468,
+        "word": "携程接机 信息泄露",
+        "onboard_time": 1769012419,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74281,
+        "num": 74281,
+        "word": "周翊然 大背头现偶男主",
+        "onboard_time": 1769037257,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 71797,
+        "num": 71797,
+        "word": "梁朝伟看着刘嘉玲和刘宪华social",
+        "onboard_time": 1769038157,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177856,
+        "num": 71302,
+        "word": "美国现在连尸体脂肪都不放过",
+        "onboard_time": 1768984341,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 134026,
+        "num": 71189,
+        "word": "程序员猝死抢救时曾被拉工作群",
+        "onboard_time": 1768998022,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70506,
+        "num": 70506,
+        "word": "9岁男童托管期间坠入排污井身亡",
+        "onboard_time": 1769002582,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67685,
+        "num": 67685,
+        "word": "王楚然 演恶女我这张脸还用演吗",
+        "onboard_time": 1769006782,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60077,
+        "num": 60077,
+        "word": "昀牵孟绕",
+        "onboard_time": 1769003600,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58039,
+        "num": 58039,
+        "word": "男子15年为妻女购金现估价超170万",
+        "onboard_time": 1769000362,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59382,
+        "num": 57716,
+        "word": "王伊瑶不愧是赵丽颖的嫡长闺",
+        "onboard_time": 1769002881,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52671,
+        "num": 52671,
+        "word": "一部韩国综艺竟成中国硬核宣传片",
+        "onboard_time": 1769037617,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55035,
+        "num": 52341,
+        "word": "历年央八收视率排名",
+        "onboard_time": 1769004503,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51643,
+        "num": 51643,
+        "word": "英雄联盟",
+        "onboard_time": 1769037978,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110988,
+        "num": 51408,
+        "word": "今年最烂大街的穿搭",
+        "onboard_time": 1769038097,
+        "rank": 30,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 60980,
+        "num": 50782,
+        "word": "特朗普收回对欧洲8国关税威胁",
+        "onboard_time": 1769037978,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49961,
+        "num": 50386,
+        "word": "王俊凯 还好我先出道了",
+        "onboard_time": 1768995802,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50096,
+        "num": 50096,
+        "word": "赖冠霖 演戏不是我可以做好的事",
+        "onboard_time": 1769002762,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44105,
+        "num": 44105,
+        "word": "14岁少年遭生父继母长期虐待离世",
+        "onboard_time": 1768987460,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49874,
+        "num": 43564,
+        "word": "刘宪华和暮光之城男主同框",
+        "onboard_time": 1769006663,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43000,
+        "num": 43000,
+        "word": "电影得闲谨制",
+        "onboard_time": 1769037197,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 43073,
+        "num": 42709,
+        "word": "黄友政3比0梁靖崑",
+        "onboard_time": 1769037317,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49511,
+        "num": 42506,
+        "word": "滕泽文发文告白荣善宝",
+        "onboard_time": 1769003002,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42086,
+        "num": 42086,
+        "word": "U23国足主帅安东尼奥禁止球员点外卖",
+        "onboard_time": 1769037556,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40404,
+        "num": 40404,
+        "word": "美财长首次回应斩杀线困境",
+        "onboard_time": 1769014877,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39895,
+        "num": 39895,
+        "word": "多方回应福建一首饰店被抢劫",
+        "onboard_time": 1769015536,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38484,
+        "num": 38484,
+        "word": "32岁程序员周末晕倒后猝死",
+        "onboard_time": 1769000181,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36351,
+        "num": 36351,
+        "word": "U23国足vs日本U23",
+        "onboard_time": 1769037197,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36230,
+        "num": 36230,
+        "word": "张泽禹唱两三句",
+        "onboard_time": 1769037317,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35859,
+        "num": 35859,
+        "word": "14岁少年遭虐待离世生父投案自首",
+        "onboard_time": 1769011579,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35657,
+        "num": 35657,
+        "word": "鬼灭之刃无限城篇又上映了",
+        "onboard_time": 1769037737,
+        "rank": 46,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 34961,
+        "num": 34961,
+        "word": "邓超 我能签鹿晗的签名照吗",
+        "onboard_time": 1769000540,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34448,
+        "num": 34448,
+        "word": "800元一个的粉菠萝半月卖近100件",
+        "onboard_time": 1769008582,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32135,
+        "num": 32135,
+        "word": "拼多多受到处罚",
+        "onboard_time": 1768983021,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#新年第一课习近平这样强调#"
+    }
+  }
+}
