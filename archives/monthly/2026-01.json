@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768988484262,
+  "endTime": 1768989352240,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1563,6 +1563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 931849,
+      "num": 1149095,
+      "word": "告白",
+      "onboard_time": 1768979960,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 930929,
       "num": 304929,
       "word": "赵今麦闺蜜是开端导演女儿",
@@ -1872,14 +1880,6 @@
       "word": "卢昱晓台词",
       "onboard_time": 1767971901,
       "rank": 15,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 853234,
-      "num": 853234,
-      "word": "告白",
-      "onboard_time": 1768979960,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -8883,6 +8883,14 @@
       "category": "互联网,游戏"
     },
     {
+      "raw_hot": 378553,
+      "num": 276416,
+      "word": "建议不要有外卖羞耻症",
+      "onboard_time": 1768986020,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 378488,
       "num": 979284,
       "word": "住房公积金会变得越来越香吗",
@@ -10508,7 +10516,7 @@
     },
     {
       "raw_hot": 333408,
-      "num": 210249,
+      "num": 211441,
       "word": "小伙安装1500斤玻璃时被压身亡",
       "onboard_time": 1768978820,
       "rank": 39,
@@ -12068,7 +12076,7 @@
     },
     {
       "raw_hot": 299469,
-      "num": 244260,
+      "num": 265667,
       "word": "火锅最后一个吃什么菜收尾",
       "onboard_time": 1768981880,
       "rank": 27,
@@ -12145,6 +12153,14 @@
       "onboard_time": 1768127241,
       "rank": 15,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 297454,
+      "num": 297454,
+      "word": "王者四美FMVP皮肤四缺一",
+      "onboard_time": 1768986440,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 297035,
@@ -13987,28 +14003,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 263956,
-      "num": 179023,
-      "word": "建议不要有外卖羞耻症",
-      "onboard_time": 1768986020,
-      "rank": 10,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 263748,
       "num": 151816,
       "word": "黄金再度直线猛拉",
       "onboard_time": 1767575840,
       "rank": 20,
       "category": "财经"
-    },
-    {
-      "raw_hot": 263743,
-      "num": 263743,
-      "word": "王者四美FMVP皮肤四缺一",
-      "onboard_time": 1768986440,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 263613,
@@ -14073,6 +14073,14 @@
       "onboard_time": 1768103300,
       "rank": 6,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 262847,
+      "num": 262847,
+      "word": "苹果糖",
+      "onboard_time": 1768987403,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 262747,
@@ -18073,6 +18081,14 @@
       "onboard_time": 1767612380,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206549,
+      "num": 206549,
+      "word": "换乘恋爱",
+      "onboard_time": 1768988782,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 206543,
@@ -23019,6 +23035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171097,
+      "num": 179223,
+      "word": "黑草莓",
+      "onboard_time": 1768988000,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 170875,
       "num": 170875,
       "word": "LV大秀",
@@ -23897,6 +23921,14 @@
       "onboard_time": 1767587362,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165872,
+      "num": 840726,
+      "word": "留学生揭穿9层楼积雪骗局",
+      "onboard_time": 1768983201,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 165869,
@@ -25633,6 +25665,14 @@
       "onboard_time": 1768034540,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156356,
+      "num": 175679,
+      "word": "越南球员痛失106万巨奖埋头跪地",
+      "onboard_time": 1768984582,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 156354,
@@ -29619,14 +29659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137817,
-      "num": 179223,
-      "word": "黑草莓",
-      "onboard_time": 1768988000,
-      "rank": 9,
-      "category": "美食"
-    },
-    {
       "raw_hot": 137777,
       "num": 129170,
       "word": "黄晓明这段演爽了观众看爽了",
@@ -30731,6 +30763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133962,
+      "num": 170499,
+      "word": "魏大勋男模爆改男大",
+      "onboard_time": 1768988242,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133950,
       "num": 133950,
       "word": "这居然是王子奇写的",
@@ -31803,14 +31843,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 129283,
-      "num": 177691,
-      "word": "留学生揭穿9层楼积雪骗局",
-      "onboard_time": 1768983201,
-      "rank": 41,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 129259,
       "num": 129259,
       "word": "千万不要让豆包帮忙搭配衣服",
@@ -32249,14 +32281,6 @@
       "onboard_time": 1768192403,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127907,
-      "num": 175679,
-      "word": "越南球员痛失106万巨奖埋头跪地",
-      "onboard_time": 1768984582,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 127897,
@@ -34185,6 +34209,14 @@
       "onboard_time": 1768262059,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 121870,
+      "num": 170076,
+      "word": "王昭君FMVP皮肤抢先预定",
+      "onboard_time": 1768988481,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 121868,
@@ -37059,6 +37091,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 114024,
+      "num": 176388,
+      "word": "95年前后的人意识不到变老了",
+      "onboard_time": 1768987221,
+      "rank": 16,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 113998,
       "num": 104151,
       "word": "这就是金鸡华表百花大满贯的含金量",
@@ -37089,14 +37129,6 @@
       "onboard_time": 1767320719,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 113888,
-      "num": 176388,
-      "word": "95年前后的人意识不到变老了",
-      "onboard_time": 1768987221,
-      "rank": 16,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 113878,
@@ -41579,6 +41611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103128,
+      "num": 117300,
+      "word": "北京成为第二个5万亿城市",
+      "onboard_time": 1768988782,
+      "rank": 37,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 103103,
       "num": 133878,
       "word": "死了么APP呼吁关注独居群体",
@@ -41827,14 +41867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102477,
-      "num": 175754,
-      "word": "苹果糖",
-      "onboard_time": 1768987403,
-      "rank": 17,
-      "category": "美食"
-    },
-    {
       "raw_hot": 102471,
       "num": 102471,
       "word": "Suk说差一分其实差很多",
@@ -42049,6 +42081,14 @@
       "onboard_time": 1767853820,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102015,
+      "num": 170427,
+      "word": "金价大涨3.71%",
+      "onboard_time": 1768987342,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 102009,
@@ -43019,6 +43059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100001,
+      "num": 100001,
+      "word": "内娱短剧把成年人的爱情拍明白了",
+      "onboard_time": 1768985721,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99960,
       "num": 99960,
       "word": "原来短剧作者也看不上自己写的",
@@ -43089,14 +43137,6 @@
       "onboard_time": 1768057162,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99808,
-      "num": 99808,
-      "word": "内娱短剧把成年人的爱情拍明白了",
-      "onboard_time": 1768985721,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 99807,
@@ -45067,14 +45107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96114,
-      "num": 170427,
-      "word": "金价大涨3.71%",
-      "onboard_time": 1768987342,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 96110,
       "num": 96110,
       "word": "李在明支持率超61%",
@@ -46595,6 +46627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93314,
+      "num": 93314,
+      "word": "中国人用四个字平息一切矛盾",
+      "onboard_time": 1768986141,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93283,
       "num": 93283,
       "word": "武大靖退役泪洒节目现场",
@@ -47217,6 +47257,14 @@
       "onboard_time": 1768032560,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 92246,
+      "num": 99133,
+      "word": "晚上六点下班已经很晚了",
+      "onboard_time": 1768988302,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 92235,
@@ -48835,14 +48883,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89250,
-      "num": 99133,
-      "word": "晚上六点下班已经很晚了",
-      "onboard_time": 1768988302,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 89235,
       "num": 89235,
       "word": "王曼昱晋级多哈冠军赛16强",
@@ -50227,6 +50267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 86954,
+      "num": 86954,
+      "word": "iPhoneFold模型曝光",
+      "onboard_time": 1768989020,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 86949,
       "num": 241734,
       "word": "六公主说周深蒸蚌",
@@ -50313,14 +50361,6 @@
       "onboard_time": 1767568398,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 86715,
-      "num": 86715,
-      "word": "中国人用四个字平息一切矛盾",
-      "onboard_time": 1768986141,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 86691,
@@ -51209,14 +51249,6 @@
       "onboard_time": 1767715701,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 85356,
-      "num": 122131,
-      "word": "魏大勋男模爆改男大",
-      "onboard_time": 1768988242,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 85352,
@@ -52385,6 +52417,14 @@
       "onboard_time": 1768918402,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 82687,
+      "num": 82687,
+      "word": "美国游客打飞的来中国生娃",
+      "onboard_time": 1768986020,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 82657,
@@ -56899,6 +56939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71409,
+      "num": 172940,
+      "word": "以色列罕见与特朗普公开叫板",
+      "onboard_time": 1768987221,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 71372,
       "num": 71372,
       "word": "郭富城回应方媛喜欢拍视频分享",
@@ -61107,6 +61155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54526,
+      "num": 111023,
+      "word": "温太医初雪跳惊鸿舞",
+      "onboard_time": 1768988900,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 54511,
       "num": 145715,
       "word": "猫叔的权威坚持到了轧戏大结局",
@@ -61145,14 +61201,6 @@
       "onboard_time": 1767692901,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 54313,
-      "num": 172940,
-      "word": "以色列罕见与特朗普公开叫板",
-      "onboard_time": 1768987221,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 54309,
@@ -66963,6 +67011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25732,
+      "num": 174927,
+      "word": "男子强奸大嫂再杀人案未当庭宣判",
+      "onboard_time": 1768988000,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25705,
       "num": 155793,
       "word": "美国突袭后委内瑞拉卫星对比图",
@@ -69009,14 +69065,6 @@
       "onboard_time": 1767383715,
       "rank": 46,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 15350,
-      "num": 174927,
-      "word": "男子强奸大嫂再杀人案未当庭宣判",
-      "onboard_time": 1768988000,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15312,

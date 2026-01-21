@@ -1,6 +1,6 @@
 {
   "startTime": 1768927470754,
-  "endTime": 1768988484262,
+  "endTime": 1768989352240,
   "band_list": [
     {
       "raw_hot": 2487537,
@@ -91,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 931849,
+      "num": 1149095,
+      "word": "告白",
+      "onboard_time": 1768979960,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 928546,
       "num": 324790,
       "word": "偶遇霍建华他还给我买单了",
@@ -105,14 +113,6 @@
       "onboard_time": 1768974860,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 853234,
-      "num": 853234,
-      "word": "告白",
-      "onboard_time": 1768979960,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 835931,
@@ -403,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 378553,
+      "num": 276416,
+      "word": "建议不要有外卖羞耻症",
+      "onboard_time": 1768986020,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 377829,
       "num": 209710,
       "word": "ELLE网站致歉",
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 333408,
-      "num": 210249,
+      "num": 211441,
       "word": "小伙安装1500斤玻璃时被压身亡",
       "onboard_time": 1768978820,
       "rank": 39,
@@ -524,7 +532,7 @@
     },
     {
       "raw_hot": 299469,
-      "num": 244260,
+      "num": 265667,
       "word": "火锅最后一个吃什么菜收尾",
       "onboard_time": 1768981880,
       "rank": 27,
@@ -537,6 +545,14 @@
       "onboard_time": 1768969221,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297454,
+      "num": 297454,
+      "word": "王者四美FMVP皮肤四缺一",
+      "onboard_time": 1768986440,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 295600,
@@ -619,28 +635,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 263956,
-      "num": 179023,
-      "word": "建议不要有外卖羞耻症",
-      "onboard_time": 1768986020,
-      "rank": 10,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 263743,
-      "num": 263743,
-      "word": "王者四美FMVP皮肤四缺一",
-      "onboard_time": 1768986440,
-      "rank": 4,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 262868,
       "num": 262868,
       "word": "云旗郝熠然红秀",
       "onboard_time": 1768959919,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 262847,
+      "num": 262847,
+      "word": "苹果糖",
+      "onboard_time": 1768987403,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 248442,
@@ -729,6 +737,14 @@
       "onboard_time": 1768950617,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206549,
+      "num": 206549,
+      "word": "换乘恋爱",
+      "onboard_time": 1768988782,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 203989,
@@ -899,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171097,
+      "num": 179223,
+      "word": "黑草莓",
+      "onboard_time": 1768988000,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 170875,
       "num": 170875,
       "word": "LV大秀",
@@ -947,6 +971,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 165872,
+      "num": 840726,
+      "word": "留学生揭穿9层楼积雪骗局",
+      "onboard_time": 1768983201,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 164946,
       "num": 164946,
       "word": "U23国足首次进入亚洲杯决赛",
@@ -977,6 +1009,14 @@
       "onboard_time": 1768974500,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 156356,
+      "num": 175679,
+      "word": "越南球员痛失106万巨奖埋头跪地",
+      "onboard_time": 1768984582,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 156176,
@@ -1131,12 +1171,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 137817,
-      "num": 179223,
-      "word": "黑草莓",
-      "onboard_time": 1768988000,
-      "rank": 9,
-      "category": "美食"
+      "raw_hot": 133962,
+      "num": 170499,
+      "word": "魏大勋男模爆改男大",
+      "onboard_time": 1768988242,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 133633,
@@ -1163,28 +1203,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 129283,
-      "num": 177691,
-      "word": "留学生揭穿9层楼积雪骗局",
-      "onboard_time": 1768983201,
-      "rank": 41,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 129035,
       "num": 176677,
       "word": "下可了 可是雪",
       "onboard_time": 1768982600,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 127907,
-      "num": 175679,
-      "word": "越南球员痛失106万巨奖埋头跪地",
-      "onboard_time": 1768984582,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 127522,
@@ -1249,6 +1273,14 @@
       "onboard_time": 1768955780,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121870,
+      "num": 170076,
+      "word": "王昭君FMVP皮肤抢先预定",
+      "onboard_time": 1768988481,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 121425,
@@ -1371,7 +1403,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113888,
+      "raw_hot": 114024,
       "num": 176388,
       "word": "95年前后的人意识不到变老了",
       "onboard_time": 1768987221,
@@ -1563,6 +1595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103128,
+      "num": 117300,
+      "word": "北京成为第二个5万亿城市",
+      "onboard_time": 1768988782,
+      "rank": 37,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 102813,
       "num": 102813,
       "word": "生命树",
@@ -1571,20 +1611,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102477,
-      "num": 175754,
-      "word": "苹果糖",
-      "onboard_time": 1768987403,
-      "rank": 17,
-      "category": "美食"
-    },
-    {
       "raw_hot": 102250,
       "num": 102250,
       "word": "白卓璇vs萨巴伦卡",
       "onboard_time": 1768960159,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102015,
+      "num": 170427,
+      "word": "金价大涨3.71%",
+      "onboard_time": 1768987342,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 101927,
@@ -1635,8 +1675,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 99808,
-      "num": 99808,
+      "raw_hot": 100001,
+      "num": 100001,
       "word": "内娱短剧把成年人的爱情拍明白了",
       "onboard_time": 1768985721,
       "rank": 45,
@@ -1707,14 +1747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96114,
-      "num": 170427,
-      "word": "金价大涨3.71%",
-      "onboard_time": 1768987342,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 95418,
       "num": 131041,
       "word": "迪丽热巴回应标签",
@@ -1779,6 +1811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 93314,
+      "num": 93314,
+      "word": "中国人用四个字平息一切矛盾",
+      "onboard_time": 1768986141,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92994,
       "num": 92994,
       "word": "余宇涵是对1有什么执着吗",
@@ -1801,6 +1841,14 @@
       "onboard_time": 1768972041,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92246,
+      "num": 99133,
+      "word": "晚上六点下班已经很晚了",
+      "onboard_time": 1768988302,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 92197,
@@ -1875,14 +1923,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89250,
-      "num": 99133,
-      "word": "晚上六点下班已经很晚了",
-      "onboard_time": 1768988302,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 88967,
       "num": 86537,
       "word": "看剧名以为是甜剧结果是悬疑剧",
@@ -1947,12 +1987,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 86715,
-      "num": 86715,
-      "word": "中国人用四个字平息一切矛盾",
-      "onboard_time": 1768986141,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 86954,
+      "num": 86954,
+      "word": "iPhoneFold模型曝光",
+      "onboard_time": 1768989020,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 86687,
@@ -1995,14 +2035,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 85356,
-      "num": 122131,
-      "word": "魏大勋男模爆改男大",
-      "onboard_time": 1768988242,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 85282,
       "num": 161505,
       "word": "国足队员说再赢一场就回家",
@@ -2033,6 +2065,14 @@
       "onboard_time": 1768974379,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82687,
+      "num": 82687,
+      "word": "美国游客打飞的来中国生娃",
+      "onboard_time": 1768986020,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 81866,
@@ -2219,6 +2259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71409,
+      "num": 172940,
+      "word": "以色列罕见与特朗普公开叫板",
+      "onboard_time": 1768987221,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 70666,
       "num": 146013,
       "word": "向涵之瘦下来好像钟楚曦",
@@ -2355,6 +2403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 54526,
+      "num": 111023,
+      "word": "温太医初雪跳惊鸿舞",
+      "onboard_time": 1768988900,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 54511,
       "num": 145715,
       "word": "猫叔的权威坚持到了轧戏大结局",
@@ -2369,14 +2425,6 @@
       "onboard_time": 1768923800,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 54313,
-      "num": 172940,
-      "word": "以色列罕见与特朗普公开叫板",
-      "onboard_time": 1768987221,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 52457,
@@ -2699,6 +2747,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 25732,
+      "num": 174927,
+      "word": "男子强奸大嫂再杀人案未当庭宣判",
+      "onboard_time": 1768988000,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25699,
       "num": 141465,
       "word": "印尼惊天跨国贩婴案细节曝光",
@@ -2817,14 +2873,6 @@
       "onboard_time": 1768909101,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 15350,
-      "num": 174927,
-      "word": "男子强奸大嫂再杀人案未当庭宣判",
-      "onboard_time": 1768988000,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13570,

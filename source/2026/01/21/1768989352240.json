@@ -1,0 +1,410 @@
+{
+  "runTime": 1768989352240,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 931849,
+        "num": 1149095,
+        "word": "告白",
+        "onboard_time": 1768979960,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165872,
+        "num": 840726,
+        "word": "留学生揭穿9层楼积雪骗局",
+        "onboard_time": 1768983201,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 28057,
+        "num": 665916,
+        "word": "万千气象看龙江",
+        "onboard_time": 1768983260,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 297454,
+        "num": 297454,
+        "word": "王者四美FMVP皮肤四缺一",
+        "onboard_time": 1768986440,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 282727,
+        "num": 282727,
+        "word": "五哈6录制嘉宾",
+        "onboard_time": 1768981941,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378553,
+        "num": 276416,
+        "word": "建议不要有外卖羞耻症",
+        "onboard_time": 1768986020,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 780562,
+        "num": 273607,
+        "word": "拼多多受到处罚",
+        "onboard_time": 1768983021,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 265667,
+        "num": 265667,
+        "word": "火锅最后一个吃什么菜收尾",
+        "onboard_time": 1768981880,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 262847,
+        "num": 262847,
+        "word": "苹果糖",
+        "onboard_time": 1768987403,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 214403,
+        "num": 214403,
+        "word": "车厘子降价后黑草莓成水果新贵",
+        "onboard_time": 1768976480,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 342447,
+        "num": 212937,
+        "word": "为什么建议大家春节期间去旅游",
+        "onboard_time": 1768982360,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214577,
+        "num": 211441,
+        "word": "小伙安装1500斤玻璃时被压身亡",
+        "onboard_time": 1768978820,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206549,
+        "num": 206549,
+        "word": "换乘恋爱",
+        "onboard_time": 1768988782,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171097,
+        "num": 171097,
+        "word": "黑草莓",
+        "onboard_time": 1768988000,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 159321,
+        "num": 171048,
+        "word": "10元一斤草莓和300元一斤草莓区别",
+        "onboard_time": 1768976421,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156356,
+        "num": 170807,
+        "word": "越南球员痛失106万巨奖埋头跪地",
+        "onboard_time": 1768984582,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133962,
+        "num": 170499,
+        "word": "魏大勋男模爆改男大",
+        "onboard_time": 1768988242,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128935,
+        "num": 170166,
+        "word": "五哈6",
+        "onboard_time": 1768978460,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121870,
+        "num": 170076,
+        "word": "王昭君FMVP皮肤抢先预定",
+        "onboard_time": 1768988481,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115996,
+        "num": 169696,
+        "word": "男子献血2.2万毫升景区不免票被告",
+        "onboard_time": 1768968680,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 543791,
+        "num": 169596,
+        "word": "美国现在连尸体脂肪都不放过",
+        "onboard_time": 1768984341,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 383296,
+        "num": 169296,
+        "word": "王大陆和女友不认罪",
+        "onboard_time": 1768985841,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287598,
+        "num": 169034,
+        "word": "留几手阴阳阿爆",
+        "onboard_time": 1768985600,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 189930,
+        "num": 168793,
+        "word": "女子怀双胞胎人流后发现第3个孩子",
+        "onboard_time": 1768979361,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266510,
+        "num": 168676,
+        "word": "徐冬冬因家人病重婚礼延期",
+        "onboard_time": 1768985721,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168513,
+        "num": 168513,
+        "word": "李亚鹏公布体检结果",
+        "onboard_time": 1768982002,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126660,
+        "num": 167180,
+        "word": "牢A",
+        "onboard_time": 1768955000,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102015,
+        "num": 157900,
+        "word": "金价大涨3.71%",
+        "onboard_time": 1768987342,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 98688,
+        "num": 153763,
+        "word": "涉密单位搬迁打印机被拉到废品站",
+        "onboard_time": 1768980260,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71409,
+        "num": 146379,
+        "word": "以色列罕见与特朗普公开叫板",
+        "onboard_time": 1768987221,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145707,
+        "num": 145707,
+        "word": "花少导游穆穆和张晚意聚餐了",
+        "onboard_time": 1768981521,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25732,
+        "num": 143100,
+        "word": "男子强奸大嫂再杀人案未当庭宣判",
+        "onboard_time": 1768988000,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142352,
+        "num": 142352,
+        "word": "白鹿吃烤肉经纪人在旁边急死了",
+        "onboard_time": 1768974860,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133186,
+        "num": 133186,
+        "word": "蒋欣 你妈妈也在评论区",
+        "onboard_time": 1768977260,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114024,
+        "num": 129497,
+        "word": "95年前后的人意识不到变老了",
+        "onboard_time": 1768987221,
+        "rank": 34,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 126993,
+        "num": 126993,
+        "word": "迪丽热巴拼好剧 其实我有四个男朋友",
+        "onboard_time": 1768986801,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124709,
+        "num": 124709,
+        "word": "孙悦录春晚脸被冻伤",
+        "onboard_time": 1768980199,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103128,
+        "num": 117300,
+        "word": "北京成为第二个5万亿城市",
+        "onboard_time": 1768988782,
+        "rank": 37,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 54526,
+        "num": 111023,
+        "word": "温太医初雪跳惊鸿舞",
+        "onboard_time": 1768988900,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110544,
+        "num": 110544,
+        "word": "黄子韬没等徐艺洋",
+        "onboard_time": 1768971440,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109088,
+        "num": 109088,
+        "word": "下可了 可是雪",
+        "onboard_time": 1768982600,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100001,
+        "num": 100001,
+        "word": "内娱短剧把成年人的爱情拍明白了",
+        "onboard_time": 1768985721,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93314,
+        "num": 93314,
+        "word": "中国人用四个字平息一切矛盾",
+        "onboard_time": 1768986141,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92246,
+        "num": 92246,
+        "word": "晚上六点下班已经很晚了",
+        "onboard_time": 1768988302,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91559,
+        "num": 91559,
+        "word": "ELLE网站致歉",
+        "onboard_time": 1768978160,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 86954,
+        "num": 86954,
+        "word": "iPhoneFold模型曝光",
+        "onboard_time": 1768989020,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 86066,
+        "num": 86066,
+        "word": "原来被子的咬合力这么惊人",
+        "onboard_time": 1768985481,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84171,
+        "num": 84171,
+        "word": "马克龙说中国在欧洲是受欢迎的",
+        "onboard_time": 1768981221,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 83215,
+        "num": 83215,
+        "word": "欢迎日本民众来中国看大熊猫",
+        "onboard_time": 1768986381,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82687,
+        "num": 82687,
+        "word": "美国游客打飞的来中国生娃",
+        "onboard_time": 1768986020,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化一定能实现#"
+    }
+  }
+}
