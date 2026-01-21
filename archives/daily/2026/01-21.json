@@ -1,6 +1,6 @@
 {
   "startTime": 1768927470754,
-  "endTime": 1768991945929,
+  "endTime": 1768992971075,
   "band_list": [
     {
       "raw_hot": 2487537,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1041494,
-      "num": 170467,
+      "num": 176696,
       "word": "男子强奸嫂嫂又杀见义勇为者案未宣判",
       "onboard_time": 1768989920,
       "rank": 10,
@@ -299,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 497400,
+      "num": 175452,
+      "word": "网红教与异性交往课3天收费4980元",
+      "onboard_time": 1768990341,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 497238,
       "num": 324562,
       "word": "卢昱晓回应跪下和粉丝合照",
@@ -443,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 362376,
+      "num": 840726,
+      "word": "留学生揭穿9层楼积雪骗局",
+      "onboard_time": 1768983201,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 361789,
       "num": 361789,
       "word": "U23国足进球",
@@ -483,14 +499,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 341765,
-      "num": 840726,
-      "word": "留学生揭穿9层楼积雪骗局",
-      "onboard_time": 1768983201,
-      "rank": 41,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 339279,
       "num": 339279,
       "word": "野狗骨头把雌竞改成了惺惺相惜",
@@ -515,14 +523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 327912,
-      "num": 162500,
-      "word": "网红教与异性交往课3天收费4980元",
-      "onboard_time": 1768990341,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 326019,
       "num": 674946,
       "word": "大量外国网友自称精神中国人",
@@ -539,20 +539,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 317119,
+      "num": 312568,
+      "word": "黑草莓",
+      "onboard_time": 1768988000,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 313579,
       "num": 313579,
       "word": "中方回应是否加入所谓和平委员会",
       "onboard_time": 1768989860,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 312568,
-      "num": 312568,
-      "word": "黑草莓",
-      "onboard_time": 1768988000,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 310172,
@@ -683,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268783,
+      "num": 156708,
+      "word": "14岁少年遭生父继母长期虐待离世",
+      "onboard_time": 1768987460,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 265107,
       "num": 233731,
       "word": "鹅鸭杀捡钱",
@@ -763,14 +771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211082,
-      "num": 142141,
-      "word": "14岁少年遭生父继母长期虐待离世",
-      "onboard_time": 1768987460,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 210370,
       "num": 210370,
       "word": "国乒2025获6个世界冠军",
@@ -803,6 +803,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 202125,
+      "num": 155693,
+      "word": "蔡徐坤 快来了",
+      "onboard_time": 1768991901,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200930,
       "num": 200930,
       "word": "张子枫穿走了周遇安的裤子",
@@ -825,6 +833,14 @@
       "onboard_time": 1768977680,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198251,
+      "num": 176677,
+      "word": "下可了 可是雪",
+      "onboard_time": 1768982600,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 197226,
@@ -873,6 +889,14 @@
       "onboard_time": 1768956022,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186388,
+      "num": 186388,
+      "word": "WE对战RW",
+      "onboard_time": 1768992261,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 184808,
@@ -984,6 +1008,14 @@
       "word": "穆祉丞力挺国足",
       "onboard_time": 1768979240,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 169601,
+      "num": 153324,
+      "word": "刘宇宁发水果",
+      "onboard_time": 1768991601,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -1115,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148003,
+      "num": 148003,
+      "word": "肖战小城良方演恐雪症",
+      "onboard_time": 1768992081,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146945,
       "num": 146945,
       "word": "QQ回应谢娜假QQ号",
@@ -1139,12 +1179,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 145927,
-      "num": 176677,
-      "word": "下可了 可是雪",
-      "onboard_time": 1768982600,
-      "rank": 34,
-      "category": "幽默"
+      "raw_hot": 145491,
+      "num": 145491,
+      "word": "杨紫新剧真发粪涂墙了",
+      "onboard_time": 1768991421,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 145355,
@@ -1227,6 +1267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 133620,
+      "num": 133620,
+      "word": "人类对坚果的开发不足1%",
+      "onboard_time": 1768991601,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 131421,
       "num": 201802,
       "word": "枪杀安倍自制枪支被定性为手枪",
@@ -1235,12 +1283,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 131185,
-      "num": 131185,
-      "word": "刘宇宁发水果",
-      "onboard_time": 1768991601,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 130199,
+      "num": 161251,
+      "word": "山东淄博一中学生篮球赛后爆发冲突",
+      "onboard_time": 1768991421,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129874,
@@ -1249,6 +1297,14 @@
       "onboard_time": 1768976239,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 129812,
+      "num": 129812,
+      "word": "马年春晚",
+      "onboard_time": 1768992261,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 129354,
@@ -1345,14 +1401,6 @@
       "onboard_time": 1768984161,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 120246,
-      "num": 120246,
-      "word": "蔡徐坤 快来了",
-      "onboard_time": 1768991901,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 120019,
@@ -1483,14 +1531,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 113340,
-      "num": 113340,
-      "word": "杨紫新剧真发粪涂墙了",
-      "onboard_time": 1768991421,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 113296,
       "num": 113296,
       "word": "自由的小猫不叫流浪猫",
@@ -1505,6 +1545,14 @@
       "onboard_time": 1768980980,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112179,
+      "num": 112179,
+      "word": "宝宝的年夜饭",
+      "onboard_time": 1768992681,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 111971,
@@ -1544,6 +1592,14 @@
       "word": "国色芳华重映收视第一",
       "onboard_time": 1768950857,
       "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 109998,
+      "num": 109998,
+      "word": "代旭 裴轸失业后去挖土了",
+      "onboard_time": 1768991301,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -1595,14 +1651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106530,
-      "num": 106530,
-      "word": "代旭 裴轸失业后去挖土了",
-      "onboard_time": 1768991301,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 106524,
       "num": 146069,
       "word": "女子洗澡忘关水阀将小区变溜冰场",
@@ -1651,6 +1699,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 103756,
+      "num": 103756,
+      "word": "素人和荤人的区别",
+      "onboard_time": 1768992561,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103559,
       "num": 103559,
       "word": "曝iPhone18Pro灵动岛居中并缩小",
@@ -1676,7 +1732,7 @@
     },
     {
       "raw_hot": 103128,
-      "num": 119072,
+      "num": 145668,
       "word": "北京成为第二个5万亿城市",
       "onboard_time": 1768988782,
       "rank": 37,
@@ -1697,6 +1753,14 @@
       "onboard_time": 1768960159,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102031,
+      "num": 102031,
+      "word": "皮肤碎片换鲁班七号新皮肤",
+      "onboard_time": 1768992141,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 102015,
@@ -1827,27 +1891,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 96894,
-      "num": 107488,
-      "word": "人类对坚果的开发不足1%",
-      "onboard_time": 1768991601,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
       "raw_hot": 96585,
       "num": 96585,
       "word": "男婴颈椎藏针全身被扎数百针孔",
       "onboard_time": 1768980199,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 95734,
-      "num": 131936,
-      "word": "山东淄博一中学生篮球赛后爆发冲突",
-      "onboard_time": 1768991421,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -1939,6 +1987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92722,
+      "num": 92722,
+      "word": "年代剧终于有正常婆婆了",
+      "onboard_time": 1768992920,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92613,
       "num": 92613,
       "word": "红舞鞋晒捐款记录",
@@ -1953,6 +2009,14 @@
       "onboard_time": 1768977140,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91727,
+      "num": 91727,
+      "word": "双高胎新专场投票",
+      "onboard_time": 1768992081,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 91542,
@@ -2763,6 +2827,14 @@
       "category": "艺人,剧集"
     },
     {
+      "raw_hot": 37929,
+      "num": 119102,
+      "word": "遭强奸女子回应被索赔百万",
+      "onboard_time": 1768992141,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36878,
       "num": 117375,
       "word": "王钰栋拜合拉木替补",
@@ -3017,6 +3089,14 @@
       "onboard_time": 1768978099,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 10045,
+      "num": 170475,
+      "word": "喵娲娲打工人嘴替",
+      "onboard_time": 1768992202,
+      "rank": 14,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
