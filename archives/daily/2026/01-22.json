@@ -1,6 +1,6 @@
 {
   "startTime": 1769015008764,
-  "endTime": 1769017054592,
+  "endTime": 1769018647632,
   "band_list": [
     {
       "raw_hot": 419156,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92209,
+      "num": 92829,
+      "word": "最适合追星女的辩题来了",
+      "onboard_time": 1769012598,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91536,
       "num": 99662,
       "word": "联合国警告水破产时代已来临",
@@ -235,14 +243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48423,
-      "num": 92829,
-      "word": "最适合追星女的辩题来了",
-      "onboard_time": 1769012598,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 47576,
       "num": 92785,
       "word": "代旭在拍秦谜",
@@ -315,6 +315,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36350,
+      "num": 92207,
+      "word": "美财长首次回应斩杀线困境",
+      "onboard_time": 1769014877,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 35276,
+      "num": 65057,
+      "word": "多方回应福建一首饰店被抢劫",
+      "onboard_time": 1769015536,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35233,
       "num": 92500,
       "word": "9岁男童托管期间坠入排污井身亡",
@@ -355,28 +371,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32404,
-      "num": 65057,
-      "word": "多方回应福建一首饰店被抢劫",
-      "onboard_time": 1769015536,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 31576,
       "num": 92279,
       "word": "iG对战TES",
       "onboard_time": 1769001682,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 31474,
-      "num": 92207,
-      "word": "美财长首次回应斩杀线困境",
-      "onboard_time": 1769014877,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 30778,
@@ -403,15 +403,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 27750,
-      "num": 92452,
-      "word": "国投白银LOF1月22日停牌至收市",
-      "onboard_time": 1769004623,
-      "rank": 39,
-      "category": "财经"
+      "raw_hot": 28291,
+      "num": 64981,
+      "word": "我八年前聊过天的网友是卢昱晓",
+      "onboard_time": 1768998741,
+      "rank": 43,
+      "category": "艺人"
     },
     {
-      "raw_hot": 26536,
+      "raw_hot": 28178,
       "num": 64985,
       "word": "于适梁朝伟刘嘉玲同框",
       "onboard_time": 1769015477,
@@ -419,12 +419,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 26423,
-      "num": 64981,
-      "word": "我八年前聊过天的网友是卢昱晓",
-      "onboard_time": 1768998741,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 27750,
+      "num": 92452,
+      "word": "国投白银LOF1月22日停牌至收市",
+      "onboard_time": 1769004623,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 25256,
@@ -459,7 +459,31 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 13157,
+      "raw_hot": 21469,
+      "num": 39607,
+      "word": "梁朝伟刘嘉玲于适同框",
+      "onboard_time": 1769014997,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 20977,
+      "num": 39601,
+      "word": "肖战小城良方男主设定",
+      "onboard_time": 1769017817,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 19003,
+      "num": 39597,
+      "word": "少年遭虐待离世继母有重大嫌疑",
+      "onboard_time": 1769011941,
+      "rank": 47,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 14958,
       "num": 216419,
       "word": "新设41家口岸进境免税店",
       "onboard_time": 1769001382,
