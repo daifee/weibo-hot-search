@@ -1,6 +1,6 @@
 {
   "startTime": 1769015008764,
-  "endTime": 1769024083625,
+  "endTime": 1769025019970,
   "band_list": [
     {
       "raw_hot": 419156,
@@ -515,11 +515,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14726,
-      "num": 21596,
+      "raw_hot": 14806,
+      "num": 21975,
       "word": "小城大事",
       "onboard_time": 1768995981,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 12784,
+      "num": 21962,
+      "word": "小城良方",
+      "onboard_time": 1768999700,
+      "rank": 42,
       "category": "剧集"
     }
   ],
