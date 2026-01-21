@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769018647632,
+  "endTime": 1769022433270,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -14283,6 +14283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19727,
+      "num": 25891,
+      "word": "霉霉入选创作名人堂",
+      "onboard_time": 1769020094,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19638,
       "num": 117106,
       "word": "北京增加对新市民保障性住房供给",
@@ -14377,6 +14385,14 @@
       "onboard_time": 1768981282,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18006,
+      "num": 25890,
+      "word": "檀健次王嘉尔PROOF手势舞",
+      "onboard_time": 1769020155,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 17733,

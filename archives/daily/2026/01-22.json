@@ -1,6 +1,6 @@
 {
   "startTime": 1769015008764,
-  "endTime": 1769018647632,
+  "endTime": 1769022433270,
   "band_list": [
     {
       "raw_hot": 419156,
@@ -475,12 +475,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19727,
+      "num": 25891,
+      "word": "霉霉入选创作名人堂",
+      "onboard_time": 1769020094,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19003,
       "num": 39597,
       "word": "少年遭虐待离世继母有重大嫌疑",
       "onboard_time": 1769011941,
       "rank": 47,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 18487,
+      "num": 25890,
+      "word": "换乘恋爱",
+      "onboard_time": 1768988782,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 18006,
+      "num": 25890,
+      "word": "檀健次王嘉尔PROOF手势舞",
+      "onboard_time": 1769020155,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 14958,
