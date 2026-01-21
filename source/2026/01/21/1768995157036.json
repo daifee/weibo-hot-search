@@ -1,0 +1,410 @@
+{
+  "runTime": 1768995157036,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 549404,
+        "num": 1087904,
+        "word": "留学生揭穿9层楼积雪骗局",
+        "onboard_time": 1768983201,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 274838,
+        "num": 792080,
+        "word": "中方回应是否加入所谓和平委员会",
+        "onboard_time": 1768989860,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14017,
+        "num": 616390,
+        "word": "中国铁路再创世界纪录",
+        "onboard_time": 1768983560,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 281418,
+        "num": 281418,
+        "word": "山东淄博一中学生篮球赛后爆发冲突",
+        "onboard_time": 1768991421,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256643,
+        "num": 256643,
+        "word": "皮肤碎片换鲁班七号新皮肤",
+        "onboard_time": 1768992141,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 248734,
+        "num": 248734,
+        "word": "建议不要有外卖羞耻症",
+        "onboard_time": 1768986020,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232765,
+        "num": 232765,
+        "word": "黑草莓",
+        "onboard_time": 1768988000,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 185144,
+        "num": 185144,
+        "word": "WE战胜RW",
+        "onboard_time": 1768994240,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177888,
+        "num": 177888,
+        "word": "宝宝的年夜饭",
+        "onboard_time": 1768992681,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 170687,
+        "num": 170687,
+        "word": "车厘子降价后黑草莓成水果新贵",
+        "onboard_time": 1768976480,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 556512,
+        "num": 167072,
+        "word": "男子强奸嫂嫂又杀见义勇为者案未宣判",
+        "onboard_time": 1768989920,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 545431,
+        "num": 164073,
+        "word": "网红教与异性交往课3天收费4980元",
+        "onboard_time": 1768990341,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 507003,
+        "num": 158343,
+        "word": "年代剧终于有正常婆婆了",
+        "onboard_time": 1768992920,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326618,
+        "num": 153030,
+        "word": "拼多多受到处罚",
+        "onboard_time": 1768983021,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 228537,
+        "num": 146231,
+        "word": "下可了 可是雪",
+        "onboard_time": 1768982600,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142753,
+        "num": 142753,
+        "word": "为什么建议大家春节期间去旅游",
+        "onboard_time": 1768982360,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141778,
+        "num": 141778,
+        "word": "苹果糖",
+        "onboard_time": 1768987403,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 124273,
+        "num": 124273,
+        "word": "10元一斤草莓和300元一斤草莓区别",
+        "onboard_time": 1768976421,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307982,
+        "num": 124184,
+        "word": "告白",
+        "onboard_time": 1768979960,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102272,
+        "num": 124102,
+        "word": "包钢厂区爆炸已致10死84伤",
+        "onboard_time": 1768993761,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23375,
+        "num": 124014,
+        "word": "万千气象看龙江",
+        "onboard_time": 1768983260,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 557983,
+        "num": 123910,
+        "word": "美国现在连尸体脂肪都不放过",
+        "onboard_time": 1768984341,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 271052,
+        "num": 123870,
+        "word": "蔡徐坤 快来了",
+        "onboard_time": 1768991901,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196136,
+        "num": 123767,
+        "word": "换乘恋爱",
+        "onboard_time": 1768988782,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252724,
+        "num": 123653,
+        "word": "14岁少年遭生父继母长期虐待离世",
+        "onboard_time": 1768987460,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199121,
+        "num": 123580,
+        "word": "成毅凭3部剧获9项提名",
+        "onboard_time": 1768993940,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152628,
+        "num": 123426,
+        "word": "女子怀双胞胎人流后发现第3个孩子",
+        "onboard_time": 1768979361,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150130,
+        "num": 123396,
+        "word": "五哈6录制嘉宾",
+        "onboard_time": 1768981941,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123307,
+        "num": 123307,
+        "word": "王者四美FMVP皮肤四缺一",
+        "onboard_time": 1768986440,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84844,
+        "num": 118541,
+        "word": "越南球员痛失106万巨奖埋头跪地",
+        "onboard_time": 1768984582,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117163,
+        "num": 117163,
+        "word": "杨紫新剧真发粪涂墙了",
+        "onboard_time": 1768991421,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114814,
+        "num": 114814,
+        "word": "毒皇后的苹果传给了王子奇",
+        "onboard_time": 1768993821,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112902,
+        "num": 112902,
+        "word": "职工医保和居民医保的区别",
+        "onboard_time": 1768991481,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 113385,
+        "num": 112656,
+        "word": "白鹿吃烤肉经纪人在旁边急死了",
+        "onboard_time": 1768974860,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112083,
+        "num": 112083,
+        "word": "刘宇宁发水果",
+        "onboard_time": 1768991601,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106743,
+        "num": 106743,
+        "word": "素人和荤人的区别",
+        "onboard_time": 1768992561,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110504,
+        "num": 105887,
+        "word": "马年春晚",
+        "onboard_time": 1768992261,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104500,
+        "num": 104500,
+        "word": "肖战小城良方演恐雪症",
+        "onboard_time": 1768992081,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77111,
+        "num": 92745,
+        "word": "为什么东北人不挑战鳌太线",
+        "onboard_time": 1768990942,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31585,
+        "num": 92175,
+        "word": "喵娲娲摸鱼金句表情包",
+        "onboard_time": 1768993281,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91693,
+        "num": 91693,
+        "word": "ELLE网站致歉",
+        "onboard_time": 1768978160,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89888,
+        "num": 89888,
+        "word": "小伙安装1500斤玻璃时被压身亡",
+        "onboard_time": 1768978820,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86666,
+        "num": 86666,
+        "word": "自贡灯会",
+        "onboard_time": 1768991541,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 85752,
+        "num": 85752,
+        "word": "经常旅游的人才懂这些建议的含金量",
+        "onboard_time": 1768990461,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 85549,
+        "num": 85549,
+        "word": "坐高铁犯困 二氧化碳浓度高",
+        "onboard_time": 1768993641,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80205,
+        "num": 80205,
+        "word": "王大陆和女友不认罪",
+        "onboard_time": 1768985841,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76533,
+        "num": 76533,
+        "word": "油腻的血脉自然觉醒了",
+        "onboard_time": 1768995081,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70950,
+        "num": 74604,
+        "word": "北京成为第二个5万亿城市",
+        "onboard_time": 1768988782,
+        "rank": 47,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 74037,
+        "num": 74037,
+        "word": "火锅最后一个吃什么菜收尾",
+        "onboard_time": 1768981880,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 45074,
+        "num": 73731,
+        "word": "金价大涨3.71%",
+        "onboard_time": 1768987342,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化一定能实现#"
+    }
+  }
+}

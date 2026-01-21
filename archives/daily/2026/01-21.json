@@ -1,6 +1,6 @@
 {
   "startTime": 1768927470754,
-  "endTime": 1768992971075,
+  "endTime": 1768995157036,
   "band_list": [
     {
       "raw_hot": 2487537,
@@ -275,12 +275,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 549404,
+      "num": 1087904,
+      "word": "留学生揭穿9层楼积雪骗局",
+      "onboard_time": 1768983201,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 549397,
       "num": 549397,
       "word": "山上彻也哥哥自杀后萌生报复念头",
       "onboard_time": 1768973962,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 545431,
+      "num": 175452,
+      "word": "网红教与异性交往课3天收费4980元",
+      "onboard_time": 1768990341,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 531610,
@@ -299,12 +315,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 497400,
-      "num": 175452,
-      "word": "网红教与异性交往课3天收费4980元",
-      "onboard_time": 1768990341,
-      "rank": 12,
-      "category": "民生新闻"
+      "raw_hot": 507003,
+      "num": 158343,
+      "word": "年代剧终于有正常婆婆了",
+      "onboard_time": 1768992920,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 497238,
@@ -451,14 +467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 362376,
-      "num": 840726,
-      "word": "留学生揭穿9层楼积雪骗局",
-      "onboard_time": 1768983201,
-      "rank": 41,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 361789,
       "num": 361789,
       "word": "U23国足进球",
@@ -548,7 +556,7 @@
     },
     {
       "raw_hot": 313579,
-      "num": 313579,
+      "num": 792080,
       "word": "中方回应是否加入所谓和平委员会",
       "onboard_time": 1768989860,
       "rank": 4,
@@ -651,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 281418,
+      "num": 281418,
+      "word": "山东淄博一中学生篮球赛后爆发冲突",
+      "onboard_time": 1768991421,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 280965,
       "num": 262847,
       "word": "苹果糖",
@@ -672,6 +688,14 @@
       "word": "花少导游穆穆和张晚意聚餐了",
       "onboard_time": 1768981521,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 271052,
+      "num": 155693,
+      "word": "蔡徐坤 快来了",
+      "onboard_time": 1768991901,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -705,6 +729,14 @@
       "onboard_time": 1768959919,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256643,
+      "num": 256643,
+      "word": "皮肤碎片换鲁班七号新皮肤",
+      "onboard_time": 1768992141,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 248442,
@@ -745,6 +777,14 @@
       "onboard_time": 1768950738,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228537,
+      "num": 176677,
+      "word": "下可了 可是雪",
+      "onboard_time": 1768982600,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 226727,
@@ -803,14 +843,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 202125,
-      "num": 155693,
-      "word": "蔡徐坤 快来了",
-      "onboard_time": 1768991901,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 200930,
       "num": 200930,
       "word": "张子枫穿走了周遇安的裤子",
@@ -835,12 +867,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198251,
-      "num": 176677,
-      "word": "下可了 可是雪",
-      "onboard_time": 1768982600,
-      "rank": 34,
-      "category": "幽默"
+      "raw_hot": 199121,
+      "num": 123580,
+      "word": "成毅凭3部剧获9项提名",
+      "onboard_time": 1768993940,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 197226,
@@ -899,6 +931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185144,
+      "num": 185144,
+      "word": "WE战胜RW",
+      "onboard_time": 1768994240,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184808,
       "num": 146125,
       "word": "贝克汉姆被儿子长文控诉后首现身",
@@ -945,6 +985,14 @@
       "onboard_time": 1768918102,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177888,
+      "num": 177888,
+      "word": "宝宝的年夜饭",
+      "onboard_time": 1768992681,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 176354,
@@ -1283,14 +1331,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 130199,
-      "num": 161251,
-      "word": "山东淄博一中学生篮球赛后爆发冲突",
-      "onboard_time": 1768991421,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129874,
       "num": 129874,
       "word": "ELLE 影视创作须回归本源",
@@ -1491,6 +1531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114814,
+      "num": 114814,
+      "word": "毒皇后的苹果传给了王子奇",
+      "onboard_time": 1768993821,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114716,
       "num": 114716,
       "word": "野狗骨头感觉大事很妙",
@@ -1545,14 +1593,6 @@
       "onboard_time": 1768980980,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 112179,
-      "num": 112179,
-      "word": "宝宝的年夜饭",
-      "onboard_time": 1768992681,
-      "rank": 41,
-      "category": "美食"
     },
     {
       "raw_hot": 111971,
@@ -1643,6 +1683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106743,
+      "num": 106743,
+      "word": "素人和荤人的区别",
+      "onboard_time": 1768992561,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106724,
       "num": 146084,
       "word": "贝克汉姆父子决裂始末",
@@ -1699,14 +1747,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 103756,
-      "num": 103756,
-      "word": "素人和荤人的区别",
-      "onboard_time": 1768992561,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 103559,
       "num": 103559,
       "word": "曝iPhone18Pro灵动岛居中并缩小",
@@ -1747,20 +1787,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102272,
+      "num": 124102,
+      "word": "包钢厂区爆炸已致10死84伤",
+      "onboard_time": 1768993761,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102250,
       "num": 102250,
       "word": "白卓璇vs萨巴伦卡",
       "onboard_time": 1768960159,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102031,
-      "num": 102031,
-      "word": "皮肤碎片换鲁班七号新皮肤",
-      "onboard_time": 1768992141,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 102015,
@@ -1987,14 +2027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 92722,
-      "num": 92722,
-      "word": "年代剧终于有正常婆婆了",
-      "onboard_time": 1768992920,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 92613,
       "num": 92613,
       "word": "红舞鞋晒捐款记录",
@@ -2203,12 +2235,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85752,
+      "num": 85752,
+      "word": "经常旅游的人才懂这些建议的含金量",
+      "onboard_time": 1768990461,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 85650,
       "num": 85650,
       "word": "金价银价又飙升",
       "onboard_time": 1768968620,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 85549,
+      "num": 85549,
+      "word": "坐高铁犯困 二氧化碳浓度高",
+      "onboard_time": 1768993641,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 85467,
@@ -2337,6 +2385,22 @@
       "onboard_time": 1768962260,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 77111,
+      "num": 92745,
+      "word": "为什么东北人不挑战鳌太线",
+      "onboard_time": 1768990942,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76533,
+      "num": 76533,
+      "word": "油腻的血脉自然觉醒了",
+      "onboard_time": 1768995081,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 76523,
@@ -2889,6 +2953,14 @@
       "onboard_time": 1768983260,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31585,
+      "num": 92175,
+      "word": "喵娲娲摸鱼金句表情包",
+      "onboard_time": 1768993281,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 31232,
