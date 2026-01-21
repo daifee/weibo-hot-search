@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768989352240,
+  "endTime": 1768991945929,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -216,6 +216,14 @@
       "word": "5名外卖员将手指砸骨折骗保32万",
       "onboard_time": 1768743504,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1041494,
+      "num": 170467,
+      "word": "男子强奸嫂嫂又杀见义勇为者案未宣判",
+      "onboard_time": 1768989920,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -1115,6 +1123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 519748,
+      "num": 519748,
+      "word": "换乘恋爱",
+      "onboard_time": 1768988782,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 517385,
       "num": 517385,
       "word": "骄阳似我直播",
@@ -1603,6 +1619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 400716,
+      "num": 313178,
+      "word": "建议不要有外卖羞耻症",
+      "onboard_time": 1768986020,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 400705,
       "num": 400705,
       "word": "2025百大UP主名单",
@@ -1760,14 +1784,6 @@
       "word": "下雪 卖霉豆腐",
       "onboard_time": 1768976540,
       "rank": 14,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 378553,
-      "num": 276416,
-      "word": "建议不要有外卖羞耻症",
-      "onboard_time": 1768986020,
-      "rank": 10,
       "category": "幽默"
     },
     {
@@ -2035,6 +2051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 341765,
+      "num": 840726,
+      "word": "留学生揭穿9层楼积雪骗局",
+      "onboard_time": 1768983201,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 339279,
       "num": 339279,
       "word": "野狗骨头把雌竞改成了惺惺相惜",
@@ -2120,6 +2144,14 @@
       "word": "下雪",
       "onboard_time": 1768824741,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 327912,
+      "num": 162500,
+      "word": "网红教与异性交往课3天收费4980元",
+      "onboard_time": 1768990341,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -2211,12 +2243,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 313579,
+      "num": 313579,
+      "word": "中方回应是否加入所谓和平委员会",
+      "onboard_time": 1768989860,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 312696,
       "num": 198092,
       "word": "周星驰悼念梁小龙",
       "onboard_time": 1768734261,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 312568,
+      "num": 312568,
+      "word": "黑草莓",
+      "onboard_time": 1768988000,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 310172,
@@ -2483,6 +2531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 280965,
+      "num": 262847,
+      "word": "苹果糖",
+      "onboard_time": 1768987403,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 280621,
       "num": 164231,
       "word": "孟子义第一个综艺",
@@ -2673,14 +2729,6 @@
       "onboard_time": 1768959919,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 262847,
-      "num": 262847,
-      "word": "苹果糖",
-      "onboard_time": 1768987403,
-      "rank": 17,
-      "category": "美食"
     },
     {
       "raw_hot": 260932,
@@ -3371,6 +3419,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 211082,
+      "num": 142141,
+      "word": "14岁少年遭生父继母长期虐待离世",
+      "onboard_time": 1768987460,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210927,
       "num": 169184,
       "word": "温瑞博3比2雨果",
@@ -3433,14 +3489,6 @@
       "onboard_time": 1768950617,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 206549,
-      "num": 206549,
-      "word": "换乘恋爱",
-      "onboard_time": 1768988782,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 206129,
@@ -4299,14 +4347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171097,
-      "num": 179223,
-      "word": "黑草莓",
-      "onboard_time": 1768988000,
-      "rank": 9,
-      "category": "美食"
-    },
-    {
       "raw_hot": 170875,
       "num": 170875,
       "word": "LV大秀",
@@ -4497,14 +4537,6 @@
       "onboard_time": 1768820121,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165872,
-      "num": 840726,
-      "word": "留学生揭穿9层楼积雪骗局",
-      "onboard_time": 1768983201,
-      "rank": 41,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 165500,
@@ -5147,6 +5179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 145927,
+      "num": 176677,
+      "word": "下可了 可是雪",
+      "onboard_time": 1768982600,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145616,
       "num": 118215,
       "word": "经纪人透露梁小龙去世细节",
@@ -5731,6 +5771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 131185,
+      "num": 131185,
+      "word": "刘宇宁发水果",
+      "onboard_time": 1768991601,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130919,
       "num": 130919,
       "word": "iPhoneAir2新爆料",
@@ -5835,6 +5883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129354,
+      "num": 129354,
+      "word": "职工医保和居民医保的区别",
+      "onboard_time": 1768991481,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 129118,
       "num": 215184,
       "word": "陈冠希撞脸毛利小五郎",
@@ -5849,14 +5905,6 @@
       "onboard_time": 1768710680,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129035,
-      "num": 176677,
-      "word": "下可了 可是雪",
-      "onboard_time": 1768982600,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 128999,
@@ -6235,6 +6283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122743,
+      "num": 122743,
+      "word": "陈楚生 王栎鑫我也要抱抱",
+      "onboard_time": 1768991122,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122660,
       "num": 171928,
       "word": "北京11.2万人次上街扫雪铲冰",
@@ -6369,6 +6425,14 @@
       "onboard_time": 1768883482,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 120246,
+      "num": 120246,
+      "word": "蔡徐坤 快来了",
+      "onboard_time": 1768991901,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 120019,
@@ -6915,6 +6979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 113340,
+      "num": 113340,
+      "word": "杨紫新剧真发粪涂墙了",
+      "onboard_time": 1768991421,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113296,
       "num": 113296,
       "word": "自由的小猫不叫流浪猫",
@@ -7419,6 +7491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106530,
+      "num": 106530,
+      "word": "代旭 裴轸失业后去挖土了",
+      "onboard_time": 1768991301,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106509,
       "num": 106509,
       "word": "轧戏要开虐了",
@@ -7788,7 +7868,7 @@
     },
     {
       "raw_hot": 103128,
-      "num": 117300,
+      "num": 119072,
       "word": "北京成为第二个5万亿城市",
       "onboard_time": 1768988782,
       "rank": 37,
@@ -7993,6 +8073,14 @@
       "onboard_time": 1768820601,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100436,
+      "num": 100436,
+      "word": "晚上六点下班已经很晚了",
+      "onboard_time": 1768988302,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 100403,
@@ -8371,6 +8459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96894,
+      "num": 107488,
+      "word": "人类对坚果的开发不足1%",
+      "onboard_time": 1768991601,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 96820,
       "num": 161549,
       "word": "演员杨紫的含金量还在上升",
@@ -8433,6 +8529,14 @@
       "onboard_time": 1768806502,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 95734,
+      "num": 131936,
+      "word": "山东淄博一中学生篮球赛后爆发冲突",
+      "onboard_time": 1768991421,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95703,
@@ -8897,14 +9001,6 @@
       "onboard_time": 1768795460,
       "rank": 37,
       "category": "网红"
-    },
-    {
-      "raw_hot": 92246,
-      "num": 99133,
-      "word": "晚上六点下班已经很晚了",
-      "onboard_time": 1768988302,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 92235,
@@ -9467,6 +9563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87497,
+      "num": 87497,
+      "word": "自贡灯会",
+      "onboard_time": 1768991541,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 87337,
       "num": 124494,
       "word": "欢迎日本民众来中国看大熊猫",
@@ -9537,6 +9641,14 @@
       "onboard_time": 1768716199,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 87032,
+      "num": 87032,
+      "word": "肖战藏海传长尾效应",
+      "onboard_time": 1768990101,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 87016,
@@ -9705,6 +9817,14 @@
       "onboard_time": 1768746744,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86054,
+      "num": 86054,
+      "word": "许嵩 唱完你的唱你的",
+      "onboard_time": 1768989440,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 85864,
@@ -10905,6 +11025,14 @@
       "onboard_time": 1768916423,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 72926,
+      "num": 117475,
+      "word": "美国留学生称斩杀线太贴切",
+      "onboard_time": 1768991061,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 72772,
@@ -12155,6 +12283,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 46127,
+      "num": 115530,
+      "word": "王玉雯 古早爽文女主",
+      "onboard_time": 1768991301,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 45796,
       "num": 91103,
       "word": "电影马腾你别走",
@@ -12609,14 +12745,6 @@
       "onboard_time": 1768691895,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 30066,
-      "num": 121478,
-      "word": "14岁少年遭生父继母长期虐待离世",
-      "onboard_time": 1768987460,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29890,
@@ -13233,6 +13361,14 @@
       "onboard_time": 1768728201,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14723,
+      "num": 114167,
+      "word": "警方回应针扎男婴母亲精神状况",
+      "onboard_time": 1768990942,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14438,

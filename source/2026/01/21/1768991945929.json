@@ -1,0 +1,410 @@
+{
+  "runTime": 1768991945929,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 752864,
+        "num": 1120458,
+        "word": "告白",
+        "onboard_time": 1768979960,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341765,
+        "num": 824698,
+        "word": "留学生揭穿9层楼积雪骗局",
+        "onboard_time": 1768983201,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21978,
+        "num": 629525,
+        "word": "万千气象看龙江",
+        "onboard_time": 1768983260,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 519748,
+        "num": 519748,
+        "word": "换乘恋爱",
+        "onboard_time": 1768988782,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313579,
+        "num": 313579,
+        "word": "中方回应是否加入所谓和平委员会",
+        "onboard_time": 1768989860,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 400716,
+        "num": 313178,
+        "word": "建议不要有外卖羞耻症",
+        "onboard_time": 1768986020,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 312568,
+        "num": 312568,
+        "word": "黑草莓",
+        "onboard_time": 1768988000,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 245890,
+        "num": 245890,
+        "word": "王者四美FMVP皮肤四缺一",
+        "onboard_time": 1768986440,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207471,
+        "num": 207471,
+        "word": "五哈6录制嘉宾",
+        "onboard_time": 1768981941,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172439,
+        "num": 172439,
+        "word": "车厘子降价后黑草莓成水果新贵",
+        "onboard_time": 1768976480,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1041494,
+        "num": 170467,
+        "word": "男子强奸嫂嫂又杀见义勇为者案未宣判",
+        "onboard_time": 1768989920,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417665,
+        "num": 166674,
+        "word": "拼多多受到处罚",
+        "onboard_time": 1768983021,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 327912,
+        "num": 162500,
+        "word": "网红教与异性交往课3天收费4980元",
+        "onboard_time": 1768990341,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280965,
+        "num": 158449,
+        "word": "苹果糖",
+        "onboard_time": 1768987403,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 226844,
+        "num": 157354,
+        "word": "为什么建议大家春节期间去旅游",
+        "onboard_time": 1768982360,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154368,
+        "num": 154368,
+        "word": "越南球员痛失106万巨奖埋头跪地",
+        "onboard_time": 1768984582,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152434,
+        "num": 152434,
+        "word": "火锅最后一个吃什么菜收尾",
+        "onboard_time": 1768981880,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145927,
+        "num": 145927,
+        "word": "下可了 可是雪",
+        "onboard_time": 1768982600,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144244,
+        "num": 144244,
+        "word": "小伙安装1500斤玻璃时被压身亡",
+        "onboard_time": 1768978820,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136585,
+        "num": 143946,
+        "word": "10元一斤草莓和300元一斤草莓区别",
+        "onboard_time": 1768976421,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407144,
+        "num": 143373,
+        "word": "美国现在连尸体脂肪都不放过",
+        "onboard_time": 1768984341,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 211161,
+        "num": 142826,
+        "word": "王大陆和女友不认罪",
+        "onboard_time": 1768985841,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211082,
+        "num": 142141,
+        "word": "14岁少年遭生父继母长期虐待离世",
+        "onboard_time": 1768987460,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170033,
+        "num": 141214,
+        "word": "留几手阴阳阿爆",
+        "onboard_time": 1768985600,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 154164,
+        "num": 141195,
+        "word": "女子怀双胞胎人流后发现第3个孩子",
+        "onboard_time": 1768979361,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140598,
+        "num": 140598,
+        "word": "李亚鹏公布体检结果",
+        "onboard_time": 1768982002,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135102,
+        "num": 135102,
+        "word": "白鹿吃烤肉经纪人在旁边急死了",
+        "onboard_time": 1768974860,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95734,
+        "num": 131936,
+        "word": "山东淄博一中学生篮球赛后爆发冲突",
+        "onboard_time": 1768991421,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91202,
+        "num": 131235,
+        "word": "男子献血2.2万毫升景区不免票被告",
+        "onboard_time": 1768968680,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50362,
+        "num": 131187,
+        "word": "以色列罕见与特朗普公开叫板",
+        "onboard_time": 1768987221,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131185,
+        "num": 131185,
+        "word": "刘宇宁发水果",
+        "onboard_time": 1768991601,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129354,
+        "num": 129354,
+        "word": "职工医保和居民医保的区别",
+        "onboard_time": 1768991481,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 122743,
+        "num": 122743,
+        "word": "陈楚生 王栎鑫我也要抱抱",
+        "onboard_time": 1768991122,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121881,
+        "num": 121881,
+        "word": "徐冬冬因家人病重婚礼延期",
+        "onboard_time": 1768985721,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107190,
+        "num": 120706,
+        "word": "牢A",
+        "onboard_time": 1768955000,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120246,
+        "num": 120246,
+        "word": "蔡徐坤 快来了",
+        "onboard_time": 1768991901,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84989,
+        "num": 119072,
+        "word": "北京成为第二个5万亿城市",
+        "onboard_time": 1768988782,
+        "rank": 36,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 72926,
+        "num": 117475,
+        "word": "美国留学生称斩杀线太贴切",
+        "onboard_time": 1768991061,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 46127,
+        "num": 115530,
+        "word": "王玉雯 古早爽文女主",
+        "onboard_time": 1768991301,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14723,
+        "num": 114167,
+        "word": "警方回应针扎男婴母亲精神状况",
+        "onboard_time": 1768990942,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113340,
+        "num": 113340,
+        "word": "杨紫新剧真发粪涂墙了",
+        "onboard_time": 1768991421,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96894,
+        "num": 107488,
+        "word": "人类对坚果的开发不足1%",
+        "onboard_time": 1768991601,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 106530,
+        "num": 106530,
+        "word": "代旭 裴轸失业后去挖土了",
+        "onboard_time": 1768991301,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106114,
+        "num": 106114,
+        "word": "迪丽热巴拼好剧 其实我有四个男朋友",
+        "onboard_time": 1768986801,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100436,
+        "num": 100436,
+        "word": "晚上六点下班已经很晚了",
+        "onboard_time": 1768988302,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93989,
+        "num": 93989,
+        "word": "魏大勋男模爆改男大",
+        "onboard_time": 1768988242,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87497,
+        "num": 87497,
+        "word": "自贡灯会",
+        "onboard_time": 1768991541,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 87255,
+        "num": 87255,
+        "word": "孙悦录春晚脸被冻伤",
+        "onboard_time": 1768980199,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87032,
+        "num": 87032,
+        "word": "肖战藏海传长尾效应",
+        "onboard_time": 1768990101,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86054,
+        "num": 86054,
+        "word": "许嵩 唱完你的唱你的",
+        "onboard_time": 1768989440,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化一定能实现#"
+    }
+  }
+}

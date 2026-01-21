@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768989352240,
+  "endTime": 1768991945929,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1185,6 +1185,14 @@
       "onboard_time": 1768297821,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1041494,
+      "num": 170467,
+      "word": "男子强奸嫂嫂又杀见义勇为者案未宣判",
+      "onboard_time": 1768989920,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1040302,
@@ -5227,6 +5235,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 519748,
+      "num": 519748,
+      "word": "换乘恋爱",
+      "onboard_time": 1768988782,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 519731,
       "num": 251632,
       "word": "七七第一部戏",
@@ -8211,6 +8227,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 400716,
+      "num": 313178,
+      "word": "建议不要有外卖羞耻症",
+      "onboard_time": 1768986020,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 400705,
       "num": 400705,
       "word": "2025百大UP主名单",
@@ -8881,14 +8905,6 @@
       "onboard_time": 1768116201,
       "rank": 34,
       "category": "互联网,游戏"
-    },
-    {
-      "raw_hot": 378553,
-      "num": 276416,
-      "word": "建议不要有外卖羞耻症",
-      "onboard_time": 1768986020,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 378488,
@@ -10267,6 +10283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 341765,
+      "num": 840726,
+      "word": "留学生揭穿9层楼积雪骗局",
+      "onboard_time": 1768983201,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 341744,
       "num": 167966,
       "word": "向出轨丈夫道歉女子称直播被封",
@@ -10760,6 +10784,14 @@
       "word": "下雪",
       "onboard_time": 1768824741,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 327912,
+      "num": 162500,
+      "word": "网红教与异性交往课3天收费4980元",
+      "onboard_time": 1768990341,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -11475,6 +11507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 313579,
+      "num": 313579,
+      "word": "中方回应是否加入所谓和平委员会",
+      "onboard_time": 1768989860,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 313364,
       "num": 253044,
       "word": "腾讯回应元宝AI辱骂用户",
@@ -11505,6 +11545,14 @@
       "onboard_time": 1767846141,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 312568,
+      "num": 312568,
+      "word": "黑草莓",
+      "onboard_time": 1768988000,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 312147,
@@ -12891,6 +12939,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 280965,
+      "num": 262847,
+      "word": "苹果糖",
+      "onboard_time": 1768987403,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 280753,
       "num": 381956,
       "word": "周深一个跨年唱了98首歌",
@@ -14073,14 +14129,6 @@
       "onboard_time": 1768103300,
       "rank": 6,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 262847,
-      "num": 262847,
-      "word": "苹果糖",
-      "onboard_time": 1768987403,
-      "rank": 17,
-      "category": "美食"
     },
     {
       "raw_hot": 262747,
@@ -17667,6 +17715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211082,
+      "num": 142141,
+      "word": "14岁少年遭生父继母长期虐待离世",
+      "onboard_time": 1768987460,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210927,
       "num": 169184,
       "word": "温瑞博3比2雨果",
@@ -18081,14 +18137,6 @@
       "onboard_time": 1767612380,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206549,
-      "num": 206549,
-      "word": "换乘恋爱",
-      "onboard_time": 1768988782,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 206543,
@@ -23035,14 +23083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171097,
-      "num": 179223,
-      "word": "黑草莓",
-      "onboard_time": 1768988000,
-      "rank": 9,
-      "category": "美食"
-    },
-    {
       "raw_hot": 170875,
       "num": 170875,
       "word": "LV大秀",
@@ -23921,14 +23961,6 @@
       "onboard_time": 1767587362,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 165872,
-      "num": 840726,
-      "word": "留学生揭穿9层楼积雪骗局",
-      "onboard_time": 1768983201,
-      "rank": 41,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 165869,
@@ -27755,6 +27787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145927,
+      "num": 176677,
+      "word": "下可了 可是雪",
+      "onboard_time": 1768982600,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145808,
       "num": 145808,
       "word": "大背头BB机宋茜是我的天菜姬",
@@ -31323,6 +31363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131185,
+      "num": 131185,
+      "word": "刘宇宁发水果",
+      "onboard_time": 1768991601,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131156,
       "num": 131156,
       "word": "恋与深空",
@@ -31811,6 +31859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129354,
+      "num": 129354,
+      "word": "职工医保和居民医保的区别",
+      "onboard_time": 1768991481,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 129325,
       "num": 225581,
       "word": "美国还欠2.6亿美元会费",
@@ -31969,14 +32025,6 @@
       "onboard_time": 1767929480,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129035,
-      "num": 176677,
-      "word": "下可了 可是雪",
-      "onboard_time": 1768982600,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 128999,
@@ -33915,6 +33963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122743,
+      "num": 122743,
+      "word": "陈楚生 王栎鑫我也要抱抱",
+      "onboard_time": 1768991122,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122722,
       "num": 487892,
       "word": "花海KPL管培生上线",
@@ -34881,6 +34937,14 @@
       "onboard_time": 1768883482,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 120246,
+      "num": 120246,
+      "word": "蔡徐坤 快来了",
+      "onboard_time": 1768991901,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 120188,
@@ -37379,6 +37443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113340,
+      "num": 113340,
+      "word": "杨紫新剧真发粪涂墙了",
+      "onboard_time": 1768991421,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113303,
       "num": 113303,
       "word": "和张凌赫高马尾萧厉初见面",
@@ -39851,6 +39923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106530,
+      "num": 106530,
+      "word": "代旭 裴轸失业后去挖土了",
+      "onboard_time": 1768991301,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106523,
       "num": 106523,
       "word": "李一桐拍美人余穿了高定",
@@ -41612,7 +41692,7 @@
     },
     {
       "raw_hot": 103128,
-      "num": 117300,
+      "num": 119072,
       "word": "北京成为第二个5万亿城市",
       "onboard_time": 1768988782,
       "rank": 37,
@@ -42905,6 +42985,14 @@
       "onboard_time": 1767872302,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 100436,
+      "num": 100436,
+      "word": "晚上六点下班已经很晚了",
+      "onboard_time": 1768988302,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 100403,
@@ -44723,6 +44811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96894,
+      "num": 107488,
+      "word": "人类对坚果的开发不足1%",
+      "onboard_time": 1768991601,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 96888,
       "num": 83635,
       "word": "贾国龙说罗永浩重大污蔑诽谤",
@@ -45321,6 +45417,14 @@
       "onboard_time": 1767253401,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95734,
+      "num": 131936,
+      "word": "山东淄博一中学生篮球赛后爆发冲突",
+      "onboard_time": 1768991421,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95727,
@@ -47257,14 +47361,6 @@
       "onboard_time": 1768032560,
       "rank": 35,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 92246,
-      "num": 99133,
-      "word": "晚上六点下班已经很晚了",
-      "onboard_time": 1768988302,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 92235,
@@ -49835,6 +49931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87497,
+      "num": 87497,
+      "word": "自贡灯会",
+      "onboard_time": 1768991541,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 87475,
       "num": 141533,
       "word": "王自如说荣耀Air补齐iPhoneAir短板",
@@ -50201,6 +50305,14 @@
       "onboard_time": 1768466603,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87032,
+      "num": 87032,
+      "word": "肖战藏海传长尾效应",
+      "onboard_time": 1768990101,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 87016,
@@ -50841,6 +50953,14 @@
       "onboard_time": 1767312678,
       "rank": 6,
       "category": "数码"
+    },
+    {
+      "raw_hot": 86054,
+      "num": 86054,
+      "word": "许嵩 唱完你的唱你的",
+      "onboard_time": 1768989440,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 86041,
@@ -56441,6 +56561,14 @@
       "onboard_time": 1767711383,
       "rank": 47,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 72926,
+      "num": 117475,
+      "word": "美国留学生称斩杀线太贴切",
+      "onboard_time": 1768991061,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 72925,
@@ -62755,6 +62883,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 46127,
+      "num": 115530,
+      "word": "王玉雯 古早爽文女主",
+      "onboard_time": 1768991301,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 46105,
       "num": 85049,
       "word": "医保个人账户跨省共济提速",
@@ -66035,14 +66171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30066,
-      "num": 121478,
-      "word": "14岁少年遭生父继母长期虐待离世",
-      "onboard_time": 1768987460,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29956,
       "num": 33831,
       "word": "刘宇宁提前3个月准备惊喜揭晓",
@@ -69135,6 +69263,14 @@
       "num": 727838,
       "word": "9岁女孩给外公连发2年想你",
       "onboard_time": 1767425305,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14723,
+      "num": 114167,
+      "word": "警方回应针扎男婴母亲精神状况",
+      "onboard_time": 1768990942,
       "rank": 39,
       "category": "民生新闻"
     },
