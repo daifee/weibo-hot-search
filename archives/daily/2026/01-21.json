@@ -1,6 +1,6 @@
 {
   "startTime": 1768927470754,
-  "endTime": 1768971845283,
+  "endTime": 1768973806021,
   "band_list": [
     {
       "raw_hot": 2487537,
@@ -59,8 +59,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 986311,
-      "num": 1157809,
+      "raw_hot": 999129,
+      "num": 1159860,
       "word": "男子献血2.2万毫升景区不免票被告",
       "onboard_time": 1768968680,
       "rank": 1,
@@ -80,6 +80,14 @@
       "word": "偶遇霍建华他还给我买单了",
       "onboard_time": 1768963699,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 835931,
+      "num": 190382,
+      "word": "黄子韬没等徐艺洋",
+      "onboard_time": 1768971440,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -211,6 +219,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 388814,
+      "num": 388814,
+      "word": "愤怒的小鸟CEO感谢中国玩家",
+      "onboard_time": 1768970301,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 374660,
       "num": 300384,
       "word": "曝黄荷娜为减刑供出艺人名字",
@@ -267,14 +283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 329830,
-      "num": 329830,
-      "word": "愤怒的小鸟CEO感谢中国玩家",
-      "onboard_time": 1768970301,
-      "rank": 7,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 326019,
       "num": 674946,
       "word": "大量外国网友自称精神中国人",
@@ -289,6 +297,14 @@
       "onboard_time": 1768962319,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 309738,
+      "num": 309738,
+      "word": "HR讽刺求职者本科学历不配双休",
+      "onboard_time": 1768970121,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 303219,
@@ -475,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189298,
+      "num": 189298,
+      "word": "娜扎长文告别玉茗茶骨",
+      "onboard_time": 1768973361,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187981,
       "num": 162701,
       "word": "周柯宇直播五排",
@@ -531,6 +555,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 169769,
+      "num": 123863,
+      "word": "上班第一天被工位震惊了",
+      "onboard_time": 1768972461,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168851,
       "num": 145625,
       "word": "u23国足冲击亚洲杯决赛",
@@ -539,20 +571,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168227,
+      "num": 194718,
+      "word": "雪地冻8小时女子险成冰雕",
+      "onboard_time": 1768968379,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168003,
       "num": 168003,
       "word": "什么是捂热病",
       "onboard_time": 1768961899,
       "rank": 15,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 165785,
-      "num": 165785,
-      "word": "黄子韬没等徐艺洋",
-      "onboard_time": 1768971440,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 164946,
@@ -619,28 +651,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150624,
-      "num": 229771,
-      "word": "HR讽刺求职者本科学历不配双休",
-      "onboard_time": 1768970121,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 148012,
-      "num": 148012,
-      "word": "雪地冻8小时女子险成冰雕",
-      "onboard_time": 1768968379,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146289,
       "num": 146289,
       "word": "邪修洗衣机出片方法",
       "onboard_time": 1768966039,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146223,
+      "num": 146223,
+      "word": "无限暖暖身份签抽了么",
+      "onboard_time": 1768973423,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 142969,
@@ -667,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136926,
+      "num": 136926,
+      "word": "李亚鹏曾检查出有淋巴癌",
+      "onboard_time": 1768973120,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122906,
       "num": 115821,
       "word": "陈星旭王玉雯从发小到演情侣",
@@ -681,6 +713,14 @@
       "onboard_time": 1768955780,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120019,
+      "num": 229503,
+      "word": "小偷销赃27克金饰遇上鬼秤被吞11克",
+      "onboard_time": 1768971620,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119332,
@@ -795,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106262,
+      "num": 191959,
+      "word": "盒马客服回应虾煮熟后渗出蓝色液体",
+      "onboard_time": 1768973361,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105582,
       "num": 119060,
       "word": "斩杀线获得许多美国网民的认同",
@@ -835,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102961,
+      "num": 102961,
+      "word": "金店店员对金价飙涨已麻木",
+      "onboard_time": 1768973240,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 102813,
       "num": 102813,
       "word": "生命树",
@@ -859,12 +915,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 100696,
+      "num": 100696,
+      "word": "商家回应黑草莓爆火",
+      "onboard_time": 1768973423,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100129,
       "num": 100129,
       "word": "电影镖人四代武侠人的江湖",
       "onboard_time": 1768968921,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 99335,
+      "num": 99335,
+      "word": "学科带头人称老师要把AI当成对手",
+      "onboard_time": 1768973001,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 98898,
@@ -899,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95124,
+      "num": 95124,
+      "word": "小猫的爪子居然可以拧螺丝",
+      "onboard_time": 1768972223,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94860,
       "num": 145920,
       "word": "代旭演技",
@@ -929,6 +1009,14 @@
       "onboard_time": 1768967240,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92613,
+      "num": 92613,
+      "word": "红舞鞋晒捐款记录",
+      "onboard_time": 1768972041,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91542,
@@ -995,12 +1083,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87059,
+      "num": 87059,
+      "word": "山上彻也母亲盲目信教捐款1亿日元",
+      "onboard_time": 1768973361,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 86687,
       "num": 86687,
       "word": "野狗骨头剧本",
       "onboard_time": 1768955901,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86303,
+      "num": 86303,
+      "word": "总不能为了脸连钱都不要了吧",
+      "onboard_time": 1768973721,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 85650,
@@ -1051,6 +1155,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 79760,
+      "num": 79760,
+      "word": "鸡蛋糍粑",
+      "onboard_time": 1768972820,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 79636,
       "num": 79636,
       "word": "DeepSeek新模型曝光",
@@ -1097,6 +1209,14 @@
       "onboard_time": 1768951457,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76393,
+      "num": 123925,
+      "word": "过年红包掏空了父亲一年的收入",
+      "onboard_time": 1768973600,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75999,
@@ -1347,6 +1467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47587,
+      "num": 201802,
+      "word": "枪杀安倍自制枪支被定性为手枪",
+      "onboard_time": 1768972880,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 47518,
       "num": 145582,
       "word": "对景区小吃有了新认识",
@@ -1459,14 +1587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39212,
-      "num": 229503,
-      "word": "小偷销赃27克金饰遇上鬼秤被吞11克",
-      "onboard_time": 1768971620,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38583,
       "num": 116240,
       "word": "继母被执行死刑女孩生母放弃赔偿",
@@ -1489,6 +1609,14 @@
       "onboard_time": 1768922480,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36647,
+      "num": 99826,
+      "word": "精神分裂者举报信牵出18年命案真相",
+      "onboard_time": 1768973001,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36493,
@@ -1548,7 +1676,7 @@
     },
     {
       "raw_hot": 25905,
-      "num": 640479,
+      "num": 671300,
       "word": "五个新概括2025年经济工作成绩单",
       "onboard_time": 1768965859,
       "rank": 2,

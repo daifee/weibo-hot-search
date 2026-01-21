@@ -1,0 +1,410 @@
+{
+  "runTime": 1768973806021,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 999129,
+        "num": 1159860,
+        "word": "男子献血2.2万毫升景区不免票被告",
+        "onboard_time": 1768968680,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 633120,
+        "num": 825784,
+        "word": "枪击安倍凶手被判无期",
+        "onboard_time": 1768970662,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24013,
+        "num": 671300,
+        "word": "五个新概括2025年经济工作成绩单",
+        "onboard_time": 1768965859,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 510888,
+        "num": 510888,
+        "word": "很火但实际很难吃的水果",
+        "onboard_time": 1768968321,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 388814,
+        "num": 388814,
+        "word": "愤怒的小鸟CEO感谢中国玩家",
+        "onboard_time": 1768970301,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 309738,
+        "num": 309738,
+        "word": "HR讽刺求职者本科学历不配双休",
+        "onboard_time": 1768970121,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274485,
+        "num": 274485,
+        "word": "女儿要10元零花钱却让妈妈负债百万",
+        "onboard_time": 1768968740,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216476,
+        "num": 216476,
+        "word": "中国男足等了整整22年",
+        "onboard_time": 1768957880,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202781,
+        "num": 202781,
+        "word": "美国博主直呼中国才是理想中的家",
+        "onboard_time": 1768967359,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 47587,
+        "num": 201802,
+        "word": "枪杀安倍自制枪支被定性为手枪",
+        "onboard_time": 1768972880,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 723256,
+        "num": 201118,
+        "word": "iPhone18",
+        "onboard_time": 1768966518,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 431492,
+        "num": 199477,
+        "word": "张凌赫林允喂药吻",
+        "onboard_time": 1768967780,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360807,
+        "num": 198509,
+        "word": "偶遇霍建华他还给我买单了",
+        "onboard_time": 1768963699,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170117,
+        "num": 197675,
+        "word": "上班是法务下班是偷车厘子惯犯",
+        "onboard_time": 1768954821,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277027,
+        "num": 196132,
+        "word": "卢昱晓回应跪下和粉丝合照",
+        "onboard_time": 1768920922,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276871,
+        "num": 195070,
+        "word": "曝黄荷娜为减刑供出艺人名字",
+        "onboard_time": 1768968921,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168227,
+        "num": 194718,
+        "word": "雪地冻8小时女子险成冰雕",
+        "onboard_time": 1768968379,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243250,
+        "num": 193807,
+        "word": "这居然是李煜东",
+        "onboard_time": 1768969221,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192746,
+        "num": 192746,
+        "word": "云旗郝熠然红秀",
+        "onboard_time": 1768959919,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106262,
+        "num": 191959,
+        "word": "盒马客服回应虾煮熟后渗出蓝色液体",
+        "onboard_time": 1768973361,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1115991,
+        "num": 191740,
+        "word": "生父帮继母买1600片泻药持续喂女儿",
+        "onboard_time": 1768968800,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 835931,
+        "num": 190382,
+        "word": "黄子韬没等徐艺洋",
+        "onboard_time": 1768971440,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234031,
+        "num": 190060,
+        "word": "牢A",
+        "onboard_time": 1768955000,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189298,
+        "num": 189298,
+        "word": "娜扎长文告别玉茗茶骨",
+        "onboard_time": 1768973361,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175274,
+        "num": 175274,
+        "word": "黄景瑜的竞品是沈月",
+        "onboard_time": 1768969881,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146223,
+        "num": 146223,
+        "word": "无限暖暖身份签抽了么",
+        "onboard_time": 1768973423,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136926,
+        "num": 136926,
+        "word": "李亚鹏曾检查出有淋巴癌",
+        "onboard_time": 1768973120,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126561,
+        "num": 126561,
+        "word": "太平年定档",
+        "onboard_time": 1768962319,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126221,
+        "num": 126221,
+        "word": "黄金",
+        "onboard_time": 1768919900,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 76393,
+        "num": 123925,
+        "word": "过年红包掏空了父亲一年的收入",
+        "onboard_time": 1768973600,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169769,
+        "num": 123863,
+        "word": "上班第一天被工位震惊了",
+        "onboard_time": 1768972461,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123471,
+        "num": 123471,
+        "word": "老人不舍开空调儿子将遥控器带走",
+        "onboard_time": 1768956320,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120019,
+        "num": 120019,
+        "word": "小偷销赃27克金饰遇上鬼秤被吞11克",
+        "onboard_time": 1768971620,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119079,
+        "num": 119079,
+        "word": "野狗骨头",
+        "onboard_time": 1768951278,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107716,
+        "num": 107716,
+        "word": "无限暖暖",
+        "onboard_time": 1768970480,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103751,
+        "num": 103751,
+        "word": "10年前买的钻戒已贬值99%",
+        "onboard_time": 1768969160,
+        "rank": 35,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 103249,
+        "num": 103249,
+        "word": "金饰价涨到1495元",
+        "onboard_time": 1768959739,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102961,
+        "num": 102961,
+        "word": "金店店员对金价飙涨已麻木",
+        "onboard_time": 1768973240,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100696,
+        "num": 100696,
+        "word": "商家回应黑草莓爆火",
+        "onboard_time": 1768973423,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36647,
+        "num": 99826,
+        "word": "精神分裂者举报信牵出18年命案真相",
+        "onboard_time": 1768973001,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99335,
+        "num": 99335,
+        "word": "学科带头人称老师要把AI当成对手",
+        "onboard_time": 1768973001,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 97067,
+        "num": 97067,
+        "word": "曝明星摄影师讨薪",
+        "onboard_time": 1768970841,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95124,
+        "num": 95124,
+        "word": "小猫的爪子居然可以拧螺丝",
+        "onboard_time": 1768972223,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92613,
+        "num": 92613,
+        "word": "红舞鞋晒捐款记录",
+        "onboard_time": 1768972041,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91510,
+        "num": 91510,
+        "word": "4种看似健康的粗粮其实是血糖杀手",
+        "onboard_time": 1768968379,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 87593,
+        "num": 87593,
+        "word": "黄金可以长出来",
+        "onboard_time": 1768965019,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 87059,
+        "num": 87059,
+        "word": "山上彻也母亲盲目信教捐款1亿日元",
+        "onboard_time": 1768973361,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 86303,
+        "num": 86303,
+        "word": "总不能为了脸连钱都不要了吧",
+        "onboard_time": 1768973721,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84989,
+        "num": 84989,
+        "word": "马龙在飞机上第一次看到极光",
+        "onboard_time": 1768959018,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79760,
+        "num": 79760,
+        "word": "鸡蛋糍粑",
+        "onboard_time": 1768972820,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#开年第一课总书记强调这三个关键词#"
+    }
+  }
+}
