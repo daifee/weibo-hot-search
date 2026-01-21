@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768978113392,
+  "endTime": 1768978996511,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 817783,
-      "num": 221103,
+      "num": 311342,
       "word": "白鹿吃烤肉经纪人在旁边急死了",
       "onboard_time": 1768974860,
       "rank": 10,
@@ -604,7 +604,7 @@
     },
     {
       "raw_hot": 676926,
-      "num": 218760,
+      "num": 298804,
       "word": "鹿晗出发录五哈",
       "onboard_time": 1768975939,
       "rank": 11,
@@ -908,7 +908,7 @@
     },
     {
       "raw_hot": 560007,
-      "num": 211458,
+      "num": 262215,
       "word": "女子回应怀孕暴涨45斤被迫辞职",
       "onboard_time": 1768974919,
       "rank": 13,
@@ -1019,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 527490,
+      "num": 283242,
+      "word": "蒋欣 你妈妈也在评论区",
+      "onboard_time": 1768977260,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 527205,
       "num": 251210,
       "word": "金价波动",
@@ -1105,6 +1113,14 @@
       "onboard_time": 1768882884,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 487844,
+      "num": 1078055,
+      "word": "10元一斤草莓和300元一斤草莓区别",
+      "onboard_time": 1768976421,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 487805,
@@ -1555,6 +1571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 397454,
+      "num": 397454,
+      "word": "车厘子降价后黑草莓成水果新贵",
+      "onboard_time": 1768976480,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
       "raw_hot": 395732,
       "num": 804107,
       "word": "巴特勒前十字韧带撕裂",
@@ -1609,6 +1633,14 @@
       "onboard_time": 1768817121,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 384893,
+      "num": 384893,
+      "word": "王昭君新皮肤长夜焕生",
+      "onboard_time": 1768977500,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 384692,
@@ -1697,14 +1729,6 @@
       "onboard_time": 1768891882,
       "rank": 43,
       "category": "网红"
-    },
-    {
-      "raw_hot": 367439,
-      "num": 367439,
-      "word": "10元一斤草莓和300元一斤草莓区别",
-      "onboard_time": 1768976421,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 367419,
@@ -1809,6 +1833,14 @@
       "onboard_time": 1768800922,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 355031,
+      "num": 257512,
+      "word": "下雪 卖霉豆腐",
+      "onboard_time": 1768976540,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 353862,
@@ -2491,14 +2523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 261227,
-      "num": 261227,
-      "word": "车厘子降价后黑草莓成水果新贵",
-      "onboard_time": 1768976480,
-      "rank": 8,
-      "category": "美食"
-    },
-    {
       "raw_hot": 260932,
       "num": 260932,
       "word": "特朗普发登上格陵兰岛图",
@@ -2611,6 +2635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249408,
+      "num": 249408,
+      "word": "张远今年不上春晚都因为王栎鑫",
+      "onboard_time": 1768976901,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249374,
       "num": 283731,
       "word": "父亲去世留30万贷款女儿被判不用还",
@@ -2705,14 +2737,6 @@
       "onboard_time": 1768913601,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 238367,
-      "num": 207758,
-      "word": "下雪 卖霉豆腐",
-      "onboard_time": 1768976540,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 237344,
@@ -2851,14 +2875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 231588,
-      "num": 197769,
-      "word": "蒋欣 你妈妈也在评论区",
-      "onboard_time": 1768977260,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 231305,
       "num": 231305,
       "word": "学校已经发展成这样了吗",
@@ -2961,14 +2977,6 @@
       "onboard_time": 1768954219,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 224059,
-      "num": 224059,
-      "word": "王昭君新皮肤长夜焕生",
-      "onboard_time": 1768977500,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 222375,
@@ -3259,6 +3267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206250,
+      "num": 206250,
+      "word": "ELLE网站致歉",
+      "onboard_time": 1768978160,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 206129,
       "num": 203877,
       "word": "轧戏编剧",
@@ -3457,6 +3473,14 @@
       "onboard_time": 1768880903,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199947,
+      "num": 187246,
+      "word": "王楚然顶着满头蝴蝶结",
+      "onboard_time": 1768977680,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 199593,
@@ -3795,6 +3819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184821,
+      "num": 184821,
+      "word": "国足",
+      "onboard_time": 1768975342,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184808,
       "num": 162228,
       "word": "贝克汉姆被儿子长文控诉后首现身",
@@ -3841,6 +3873,14 @@
       "onboard_time": 1768780459,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 181434,
+      "num": 181434,
+      "word": "云旗郝熠然采访",
+      "onboard_time": 1768978940,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 180385,
@@ -3937,6 +3977,14 @@
       "onboard_time": 1768702159,
       "rank": 9,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 176354,
+      "num": 176354,
+      "word": "以为是礼物没想到是童年危机",
+      "onboard_time": 1768978221,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 176320,
@@ -4075,14 +4123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170425,
-      "num": 170425,
-      "word": "张远今年不上春晚都因为王栎鑫",
-      "onboard_time": 1768976901,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 170231,
       "num": 170231,
       "word": "Crown张艺兴cut",
@@ -4097,6 +4137,14 @@
       "onboard_time": 1768796421,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 169851,
+      "num": 169851,
+      "word": "惊蛰无声",
+      "onboard_time": 1768791259,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 169791,
@@ -4233,6 +4281,14 @@
       "onboard_time": 1768820121,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165840,
+      "num": 165840,
+      "word": "王昭君FMVP新皮肤",
+      "onboard_time": 1768978880,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 165500,
@@ -4521,6 +4577,14 @@
       "onboard_time": 1768967961,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154169,
+      "num": 154169,
+      "word": "鹿晗小鸡啄米式打招呼",
+      "onboard_time": 1768978279,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 154037,
@@ -5331,14 +5395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132351,
-      "num": 123421,
-      "word": "惊蛰无声",
-      "onboard_time": 1768791259,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 132312,
       "num": 132312,
       "word": "全网最听劝妈妈1分钟视频报价3万",
@@ -5571,6 +5627,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 127476,
+      "num": 127476,
+      "word": "与长生昭君王共赴荣耀",
+      "onboard_time": 1768978279,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 126841,
       "num": 126841,
       "word": "名侦探学院",
@@ -5684,7 +5748,7 @@
     },
     {
       "raw_hot": 125433,
-      "num": 131979,
+      "num": 154261,
       "word": "金店店员对金价飙涨已麻木",
       "onboard_time": 1768973240,
       "rank": 37,
@@ -5737,6 +5801,14 @@
       "onboard_time": 1768730241,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124796,
+      "num": 124796,
+      "word": "五哈6",
+      "onboard_time": 1768978460,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 124775,
@@ -6227,14 +6299,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 116928,
-      "num": 113274,
-      "word": "王楚然顶着满头蝴蝶结",
-      "onboard_time": 1768977680,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116834,
       "num": 98984,
       "word": "虞书欣云初令琉璃清冷",
@@ -6387,14 +6451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114526,
-      "num": 114526,
-      "word": "国足",
-      "onboard_time": 1768975342,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 114512,
       "num": 114512,
       "word": "日本自卫队员性侵男同僚",
@@ -6481,6 +6537,14 @@
       "onboard_time": 1768741524,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 113296,
+      "num": 113296,
+      "word": "自由的小猫不叫流浪猫",
+      "onboard_time": 1768977860,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 112974,
@@ -6803,6 +6867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 108000,
+      "num": 108000,
+      "word": "为何国产剧再难诞生孟宴臣",
+      "onboard_time": 1768977980,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107944,
       "num": 136237,
       "word": "神20飞船返回舱外观总体正常",
@@ -6937,14 +7009,6 @@
       "onboard_time": 1768830983,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106448,
-      "num": 106448,
-      "word": "自由的小猫不叫流浪猫",
-      "onboard_time": 1768977860,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 106435,
@@ -8059,6 +8123,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 94088,
+      "num": 94088,
+      "word": "猫咖的下沉市场",
+      "onboard_time": 1768975100,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94033,
       "num": 118104,
       "word": "得闲谨制",
@@ -8177,6 +8249,14 @@
       "onboard_time": 1768967240,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92924,
+      "num": 92924,
+      "word": "招聘平台回应求职者不接受双休被怼",
+      "onboard_time": 1768978940,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92917,
@@ -8521,14 +8601,6 @@
       "onboard_time": 1768711940,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 90665,
-      "num": 90665,
-      "word": "猫咖的下沉市场",
-      "onboard_time": 1768975100,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 90625,
@@ -9193,14 +9265,6 @@
       "onboard_time": 1768805781,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85191,
-      "num": 85191,
-      "word": "为何国产剧再难诞生孟宴臣",
-      "onboard_time": 1768977980,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 85132,
@@ -10675,6 +10739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65868,
+      "num": 108296,
+      "word": "小伙安装1500斤玻璃时被压身亡",
+      "onboard_time": 1768978820,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65603,
       "num": 65603,
       "word": "男子飞机上睡30分钟信用卡现金都没了",
@@ -11105,6 +11177,14 @@
       "onboard_time": 1768952419,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 55549,
+      "num": 327001,
+      "word": "央视曝光霸总爱上我骗局",
+      "onboard_time": 1768978340,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55378,
@@ -12043,6 +12123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 25370,
+      "num": 109119,
+      "word": "轧戏全员HE",
+      "onboard_time": 1768978099,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 25119,
       "num": 65475,
       "word": "王源嚼嚼者",
@@ -12201,6 +12289,14 @@
       "onboard_time": 1768812861,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21104,
+      "num": 108840,
+      "word": "贵州子涵回应有人冒充工人蹭盒饭",
+      "onboard_time": 1768978700,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20920,
@@ -12457,6 +12553,14 @@
       "onboard_time": 1768836381,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13570,
+      "num": 109593,
+      "word": "轧戏我选择这里作为大结局",
+      "onboard_time": 1768978099,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 13512,
