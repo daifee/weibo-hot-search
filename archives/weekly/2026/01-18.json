@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768978996511,
+  "endTime": 1768981051932,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 921716,
+      "num": 311342,
+      "word": "白鹿吃烤肉经纪人在旁边急死了",
+      "onboard_time": 1768974860,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 912684,
       "num": 177006,
       "word": "拼多多 聊天关闭",
@@ -356,7 +364,7 @@
     },
     {
       "raw_hot": 835931,
-      "num": 190382,
+      "num": 208322,
       "word": "黄子韬没等徐艺洋",
       "onboard_time": 1768971440,
       "rank": 26,
@@ -393,14 +401,6 @@
       "onboard_time": 1768712420,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 817783,
-      "num": 311342,
-      "word": "白鹿吃烤肉经纪人在旁边急死了",
-      "onboard_time": 1768974860,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 813179,
@@ -499,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 745042,
+      "num": 745042,
+      "word": "车厘子降价后黑草莓成水果新贵",
+      "onboard_time": 1768976480,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
       "raw_hot": 744617,
       "num": 135930,
       "word": "小洛熙案今日开庭",
@@ -561,6 +569,14 @@
       "onboard_time": 1768795822,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 697710,
+      "num": 283242,
+      "word": "蒋欣 你妈妈也在评论区",
+      "onboard_time": 1768977260,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 692920,
@@ -763,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 626070,
+      "num": 1100171,
+      "word": "10元一斤草莓和300元一斤草莓区别",
+      "onboard_time": 1768976421,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 625846,
       "num": 1598582,
       "word": "年轻人开始拒绝升职了",
@@ -825,6 +849,14 @@
       "onboard_time": 1768730662,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 598880,
+      "num": 209210,
+      "word": "女子怀双胞胎人流后发现第3个孩子",
+      "onboard_time": 1768979361,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 592718,
@@ -913,6 +945,14 @@
       "onboard_time": 1768974919,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 554111,
+      "num": 515024,
+      "word": "双休可以是一周的任意两天",
+      "onboard_time": 1768974740,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 552419,
@@ -1019,14 +1059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 527490,
-      "num": 283242,
-      "word": "蒋欣 你妈妈也在评论区",
-      "onboard_time": 1768977260,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 527205,
       "num": 251210,
       "word": "金价波动",
@@ -1057,14 +1089,6 @@
       "onboard_time": 1768784419,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 515024,
-      "num": 515024,
-      "word": "双休可以是一周的任意两天",
-      "onboard_time": 1768974740,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 511360,
@@ -1113,14 +1137,6 @@
       "onboard_time": 1768882884,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 487844,
-      "num": 1078055,
-      "word": "10元一斤草莓和300元一斤草莓区别",
-      "onboard_time": 1768976421,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 487805,
@@ -1571,14 +1587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 397454,
-      "num": 397454,
-      "word": "车厘子降价后黑草莓成水果新贵",
-      "onboard_time": 1768976480,
-      "rank": 8,
-      "category": "美食"
-    },
-    {
       "raw_hot": 395732,
       "num": 804107,
       "word": "巴特勒前十字韧带撕裂",
@@ -1673,6 +1681,14 @@
       "onboard_time": 1768887200,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 380491,
+      "num": 257512,
+      "word": "下雪 卖霉豆腐",
+      "onboard_time": 1768976540,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 377077,
@@ -1779,6 +1795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 362711,
+      "num": 208430,
+      "word": "ELLE网站致歉",
+      "onboard_time": 1768978160,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 361789,
       "num": 361789,
       "word": "U23国足进球",
@@ -1833,14 +1857,6 @@
       "onboard_time": 1768800922,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 355031,
-      "num": 257512,
-      "word": "下雪 卖霉豆腐",
-      "onboard_time": 1768976540,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 353862,
@@ -2139,6 +2155,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 306936,
+      "num": 208268,
+      "word": "孙悦录春晚脸被冻伤",
+      "onboard_time": 1768980199,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306211,
       "num": 306211,
       "word": "长生FMVP皮肤即将上线",
@@ -2339,6 +2363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 282119,
+      "num": 282119,
+      "word": "张远今年不上春晚都因为王栎鑫",
+      "onboard_time": 1768976901,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281502,
       "num": 281502,
       "word": "霸总直了半辈子的腰上综艺弯了五次",
@@ -2361,6 +2393,14 @@
       "onboard_time": 1768886841,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 278751,
+      "num": 278751,
+      "word": "国足",
+      "onboard_time": 1768975342,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 276136,
@@ -2635,14 +2675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 249408,
-      "num": 249408,
-      "word": "张远今年不上春晚都因为王栎鑫",
-      "onboard_time": 1768976901,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 249374,
       "num": 283731,
       "word": "父亲去世留30万贷款女儿被判不用还",
@@ -2889,6 +2921,14 @@
       "onboard_time": 1768789341,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 230277,
+      "num": 208246,
+      "word": "小伙安装1500斤玻璃时被压身亡",
+      "onboard_time": 1768978820,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 228900,
@@ -3219,12 +3259,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210370,
+      "num": 210370,
+      "word": "国乒2025获6个世界冠军",
+      "onboard_time": 1768980021,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210163,
       "num": 221845,
       "word": "时尚之夜红毯",
       "onboard_time": 1768815142,
       "rank": 7,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 208517,
+      "num": 208517,
+      "word": "五哈6",
+      "onboard_time": 1768978460,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 208367,
@@ -3265,14 +3321,6 @@
       "onboard_time": 1768950617,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 206250,
-      "num": 206250,
-      "word": "ELLE网站致歉",
-      "onboard_time": 1768978160,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 206129,
@@ -3619,6 +3667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193807,
+      "num": 193807,
+      "word": "告白",
+      "onboard_time": 1768979960,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193620,
       "num": 193620,
       "word": "河南省考缴费 进不去",
@@ -3819,14 +3875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184821,
-      "num": 184821,
-      "word": "国足",
-      "onboard_time": 1768975342,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 184808,
       "num": 162228,
       "word": "贝克汉姆被儿子长文控诉后首现身",
@@ -4003,6 +4051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 175843,
+      "num": 175843,
+      "word": "王昭君FMVP新皮肤",
+      "onboard_time": 1768978880,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 175712,
       "num": 175712,
       "word": "沈梦辰一套又一套眼前一亮又一亮",
@@ -4155,6 +4211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 169653,
+      "num": 169653,
+      "word": "穆祉丞力挺国足",
+      "onboard_time": 1768979240,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169625,
       "num": 169625,
       "word": "美国斩杀线惨状",
@@ -4281,14 +4345,6 @@
       "onboard_time": 1768820121,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165840,
-      "num": 165840,
-      "word": "王昭君FMVP新皮肤",
-      "onboard_time": 1768978880,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 165500,
@@ -4577,6 +4633,14 @@
       "onboard_time": 1768967961,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154245,
+      "num": 154245,
+      "word": "最难调整的脸型",
+      "onboard_time": 1768979060,
+      "rank": 32,
+      "category": "美妆"
     },
     {
       "raw_hot": 154169,
@@ -4923,6 +4987,14 @@
       "category": "作品衍生,体育"
     },
     {
+      "raw_hot": 145355,
+      "num": 145355,
+      "word": "章昊 爽文也不爽啊",
+      "onboard_time": 1768979599,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145158,
       "num": 128846,
       "word": "周杰伦回应白卓璇",
@@ -4960,6 +5032,14 @@
       "word": "杨洋的面部折叠度令人惊叹",
       "onboard_time": 1768904060,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 144330,
+      "num": 135769,
+      "word": "王菲李亚鹏窦靖童李嫣同框旧照",
+      "onboard_time": 1768979300,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -5803,14 +5883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124796,
-      "num": 124796,
-      "word": "五哈6",
-      "onboard_time": 1768978460,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 124775,
       "num": 124775,
       "word": "袁悦澳网止步首轮",
@@ -6283,6 +6355,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 117139,
+      "num": 327001,
+      "word": "央视曝光霸总爱上我骗局",
+      "onboard_time": 1768978340,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117068,
       "num": 200490,
       "word": "食堂承包商举报校领导问题属实",
@@ -6393,6 +6473,14 @@
       "onboard_time": 1768806561,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 115654,
+      "num": 115654,
+      "word": "明日方舟终末地",
+      "onboard_time": 1768980800,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 115357,
@@ -6617,6 +6705,14 @@
       "onboard_time": 1768967780,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 111247,
+      "num": 111247,
+      "word": "王星越告白进组",
+      "onboard_time": 1768978760,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 111215,
@@ -7835,6 +7931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97410,
+      "num": 97410,
+      "word": "A股芯片产业链爆发",
+      "onboard_time": 1768977560,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 97293,
       "num": 97293,
       "word": "包钢板材厂爆炸暂未报告有人员死亡",
@@ -7883,6 +7987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96899,
+      "num": 96899,
+      "word": "刺杀安倍的子弹60年前已上膛",
+      "onboard_time": 1768979479,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 96820,
       "num": 161549,
       "word": "演员杨紫的含金量还在上升",
@@ -7897,6 +8009,14 @@
       "onboard_time": 1768886781,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 96585,
+      "num": 96585,
+      "word": "男婴颈椎藏针全身被扎数百针孔",
+      "onboard_time": 1768980199,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96484,
@@ -8057,6 +8177,14 @@
       "onboard_time": 1768976720,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94800,
+      "num": 94800,
+      "word": "女子被姑父打死当天是结婚40周年",
+      "onboard_time": 1768980199,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94740,
@@ -8387,14 +8515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 92226,
-      "num": 92226,
-      "word": "A股芯片产业链爆发",
-      "onboard_time": 1768977560,
-      "rank": 36,
-      "category": "财经"
-    },
-    {
       "raw_hot": 92197,
       "num": 92196,
       "word": "任豪认错林青霞",
@@ -8433,6 +8553,14 @@
       "onboard_time": 1768808240,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 91815,
+      "num": 91815,
+      "word": "真正爱你的人是不会心疼运费的",
+      "onboard_time": 1768980980,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 91805,
@@ -9755,6 +9883,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 79692,
+      "num": 208395,
+      "word": "涉密单位搬迁打印机被拉到废品站",
+      "onboard_time": 1768980260,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79636,
       "num": 79636,
       "word": "DeepSeek新模型曝光",
@@ -10707,6 +10843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66941,
+      "num": 92173,
+      "word": "张小泉非一体式剪刀被疑设计问题",
+      "onboard_time": 1768979479,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66672,
       "num": 66672,
       "word": "黄蜂vs勇士",
@@ -10735,14 +10879,6 @@
       "num": 106117,
       "word": "皖西麻黄鸡成本150元与辉同行卖28元",
       "onboard_time": 1768709721,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 65868,
-      "num": 108296,
-      "word": "小伙安装1500斤玻璃时被压身亡",
-      "onboard_time": 1768978820,
       "rank": 39,
       "category": "民生新闻"
     },
@@ -11123,6 +11259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58135,
+      "num": 131041,
+      "word": "迪丽热巴回应标签",
+      "onboard_time": 1768980800,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58033,
       "num": 127808,
       "word": "包头市中心医院曾多次被罚",
@@ -11177,14 +11321,6 @@
       "onboard_time": 1768952419,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 55549,
-      "num": 327001,
-      "word": "央视曝光霸总爱上我骗局",
-      "onboard_time": 1768978340,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55378,
@@ -11528,6 +11664,14 @@
       "word": "11岁女孩捐200元零花钱给嫣然医院",
       "onboard_time": 1768886421,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46858,
+      "num": 128055,
+      "word": "10元4寸蛋糕店日营业额能达千元",
+      "onboard_time": 1768979902,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -11987,6 +12131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29453,
+      "num": 124057,
+      "word": "男子和妻子吵架吵输了怒走30里",
+      "onboard_time": 1768980021,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29196,
       "num": 118112,
       "word": "女主播诱骗榜一大哥超千万被判刑",
@@ -12075,12 +12227,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26660,
+      "num": 208416,
+      "word": "LV26秋冬未来绅士大秀",
+      "onboard_time": 1768980681,
+      "rank": 18,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 26633,
       "num": 72717,
       "word": "90后男子回应做祭品纸扎走红",
       "onboard_time": 1768702399,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26597,
+      "num": 759136,
+      "word": "五个新概括2025年经济工作成绩单",
+      "onboard_time": 1768965859,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26589,
@@ -12097,14 +12265,6 @@
       "onboard_time": 1768801222,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25905,
-      "num": 671300,
-      "word": "五个新概括2025年经济工作成绩单",
-      "onboard_time": 1768965859,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 25699,
@@ -12529,6 +12689,14 @@
       "onboard_time": 1768671736,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15540,
+      "num": 208290,
+      "word": "华裔女孩回应掀起老外模仿热",
+      "onboard_time": 1768980800,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 15488,
