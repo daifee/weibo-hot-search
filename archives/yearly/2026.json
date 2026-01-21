@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769038462360,
+  "endTime": 1769039282345,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1971,6 +1971,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 839576,
+      "num": 1028932,
+      "word": "美国正式退出世卫组织",
+      "onboard_time": 1769037497,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 839474,
       "num": 240160,
       "word": "女医学生遭前男友杀害临终遗言曝光",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768209262,
       "rank": 18,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 777134,
-      "num": 209890,
-      "word": "死了么APP付费人数几天翻200倍",
-      "onboard_time": 1768202360,
-      "rank": 25,
-      "category": "民生新闻,互联网"
     }
   ],
   "hotgov_list": [

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/22 07:34:22
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/22 07:48:02
 </p>
 </blockquote>
 <p>
@@ -1491,6 +1491,12 @@ DYG战胜狼队（热度：867183）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%AD%A3%E5%BC%8F%E9%80%80%E5%87%BA%E4%B8%96%E5%8D%AB%E7%BB%84%E7%BB%87%23" target="weibo">
+美国正式退出世卫组织（热度：839576）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8C%BB%E5%AD%A6%E7%94%9F%E9%81%AD%E5%89%8D%E7%94%B7%E5%8F%8B%E6%9D%80%E5%AE%B3%E4%B8%B4%E7%BB%88%E9%81%97%E8%A8%80%E6%9B%9D%E5%85%89%23" target="weibo">
 女医学生遭前男友杀害临终遗言曝光（热度：839474）
 </a>
@@ -1805,12 +1811,6 @@ iPhone18（热度：791316）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%A9%BA%E9%9A%BE%E5%A4%B1%E4%BA%8B%E5%89%8D75%E7%A7%92%E9%BB%91%E5%8C%A3%E5%AD%90%E5%BD%95%E9%9F%B3%23" target="weibo">
 韩国空难失事前75秒黑匣子录音（热度：777384）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%BB%E4%BA%86%E4%B9%88APP%E4%BB%98%E8%B4%B9%E4%BA%BA%E6%95%B0%E5%87%A0%E5%A4%A9%E7%BF%BB200%E5%80%8D%23" target="weibo">
-死了么APP付费人数几天翻200倍（热度：777134）
 </a>
 </li>
 

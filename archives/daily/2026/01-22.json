@@ -1,7 +1,23 @@
 {
   "startTime": 1769015008764,
-  "endTime": 1769038462360,
+  "endTime": 1769039282345,
   "band_list": [
+    {
+      "raw_hot": 839576,
+      "num": 1028932,
+      "word": "美国正式退出世卫组织",
+      "onboard_time": 1769037497,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 482081,
+      "num": 61730,
+      "word": "今年最烂大街的穿搭",
+      "onboard_time": 1769038097,
+      "rank": 30,
+      "category": "时尚"
+    },
     {
       "raw_hot": 441985,
       "num": 858373,
@@ -12,7 +28,7 @@
     },
     {
       "raw_hot": 419156,
-      "num": 111999,
+      "num": 381439,
       "word": "戚薇女儿Lucky转眼长成大姑娘啦",
       "onboard_time": 1769008641,
       "rank": 10,
@@ -35,20 +51,36 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 246861,
-      "num": 246861,
-      "word": "美国正式退出世卫组织",
-      "onboard_time": 1769037497,
-      "rank": 3,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 221908,
-      "num": 221908,
+      "raw_hot": 232018,
+      "num": 601905,
       "word": "交警回应女子作不雅手势被后车撞击",
       "onboard_time": 1769004202,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210391,
+      "num": 742346,
+      "word": "男子献血2.2万毫升不免票景区道歉",
+      "onboard_time": 1769037136,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203922,
+      "num": 203922,
+      "word": "14岁女孩追星一个月消费6万余元",
+      "onboard_time": 1769037377,
+      "rank": 11,
+      "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 197615,
+      "num": 555078,
+      "word": "特朗普收回对欧洲8国关税威胁",
+      "onboard_time": 1769037978,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 195384,
@@ -67,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168187,
+      "num": 530165,
+      "word": "第一次见买家秀和卖家秀反着来的",
+      "onboard_time": 1769037257,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158751,
       "num": 93309,
       "word": "昀牵孟绕",
@@ -75,28 +115,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151918,
-      "num": 110506,
-      "word": "14岁女孩追星一个月消费6万余元",
-      "onboard_time": 1769037377,
-      "rank": 11,
-      "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 143668,
-      "num": 143668,
+      "raw_hot": 145053,
+      "num": 498318,
       "word": "大额存单利率降至0字头区间",
       "onboard_time": 1769037197,
       "rank": 5,
       "category": "财经"
-    },
-    {
-      "raw_hot": 135687,
-      "num": 135687,
-      "word": "男子献血2.2万毫升不免票景区道歉",
-      "onboard_time": 1769037136,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134945,
@@ -123,12 +147,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122396,
+      "num": 122396,
+      "word": "梁朝伟看着刘嘉玲和刘宪华social",
+      "onboard_time": 1769038157,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121156,
       "num": 86495,
       "word": "肖战恐雪症人设",
       "onboard_time": 1769015357,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119264,
+      "num": 119264,
+      "word": "中方重申日本根本没有资格入常",
+      "onboard_time": 1769038518,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 113541,
@@ -139,28 +179,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 110988,
-      "num": 51408,
-      "word": "今年最烂大街的穿搭",
-      "onboard_time": 1769038097,
-      "rank": 30,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 104864,
       "num": 93183,
       "word": "王俊凯 还好我先出道了",
       "onboard_time": 1768995802,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 100880,
-      "num": 100880,
-      "word": "第一次见买家秀和卖家秀反着来的",
-      "onboard_time": 1769037257,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 99909,
@@ -219,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79103,
+      "num": 79103,
+      "word": "一部韩国综艺竟成中国硬核宣传片",
+      "onboard_time": 1769037617,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75178,
       "num": 93578,
       "word": "拼多多受到处罚",
@@ -235,20 +267,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 71797,
-      "num": 71797,
-      "word": "梁朝伟看着刘嘉玲和刘宪华social",
-      "onboard_time": 1769038157,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 71579,
       "num": 93110,
       "word": "刘宪华和暮光之城男主同框",
       "onboard_time": 1769006663,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70953,
+      "num": 61681,
+      "word": "拼多多若再犯或被责令停业整顿",
+      "onboard_time": 1769038698,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 70506,
@@ -264,6 +296,14 @@
       "word": "历年央八收视率排名",
       "onboard_time": 1769004503,
       "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 67260,
+      "num": 67260,
+      "word": "昀牵孟绕就这么亲上了",
+      "onboard_time": 1769038938,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -283,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63780,
+      "num": 63780,
+      "word": "赖冠霖 演戏不是我可以做好的事",
+      "onboard_time": 1769002762,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62244,
       "num": 93451,
       "word": "女子牵绳遛狗遭殴打警方已介入",
@@ -291,12 +339,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 60980,
-      "num": 50782,
-      "word": "特朗普收回对欧洲8国关税威胁",
+      "raw_hot": 61352,
+      "num": 92400,
+      "word": "王伊瑶不愧是赵丽颖的嫡长闺",
+      "onboard_time": 1769002881,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 61184,
+      "num": 61184,
+      "word": "英雄联盟",
       "onboard_time": 1769037978,
-      "rank": 31,
-      "category": "国际时政"
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 59992,
@@ -305,14 +361,6 @@
       "onboard_time": 1769011638,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 59382,
-      "num": 92400,
-      "word": "王伊瑶不愧是赵丽颖的嫡长闺",
-      "onboard_time": 1769002881,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 58039,
@@ -331,20 +379,20 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 52671,
-      "num": 52671,
-      "word": "一部韩国综艺竟成中国硬核宣传片",
-      "onboard_time": 1769037617,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 56671,
+      "num": 56671,
+      "word": "U23国足主帅安东尼奥禁止球员点外卖",
+      "onboard_time": 1769037556,
+      "rank": 39,
+      "category": "体育"
     },
     {
-      "raw_hot": 51643,
-      "num": 51643,
-      "word": "英雄联盟",
-      "onboard_time": 1769037978,
-      "rank": 29,
-      "category": "游戏"
+      "raw_hot": 54430,
+      "num": 54430,
+      "word": "女留学生诬告英国男警员强奸被判刑",
+      "onboard_time": 1769038758,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 50583,
@@ -355,15 +403,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 50096,
-      "num": 50096,
-      "word": "赖冠霖 演戏不是我可以做好的事",
-      "onboard_time": 1769002762,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 50059,
+      "num": 50059,
+      "word": "网友雪山中偶遇幼时孙悟空",
+      "onboard_time": 1769038698,
+      "rank": 39,
+      "category": "幽默"
     },
     {
-      "raw_hot": 49648,
+      "raw_hot": 49719,
       "num": 92995,
       "word": "32岁程序员周末晕倒后猝死",
       "onboard_time": 1769000181,
@@ -379,12 +427,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 47605,
+      "num": 64981,
+      "word": "我八年前聊过天的网友是卢昱晓",
+      "onboard_time": 1768998741,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47576,
       "num": 92785,
       "word": "代旭在拍秦谜",
       "onboard_time": 1769008401,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 45374,
+      "num": 45374,
+      "word": "很难再找到一部明星黑料的电影了",
+      "onboard_time": 1769038938,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 44105,
@@ -404,7 +468,7 @@
     },
     {
       "raw_hot": 43073,
-      "num": 42709,
+      "num": 45963,
       "word": "黄友政3比0梁靖崑",
       "onboard_time": 1769037317,
       "rank": 37,
@@ -419,20 +483,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 42858,
+      "num": 42858,
+      "word": "鬼灭之刃无限城篇又上映了",
+      "onboard_time": 1769037737,
+      "rank": 46,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 42244,
       "num": 92678,
       "word": "还以为陈浚铭吃的是狗粮",
       "onboard_time": 1769010861,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 42086,
-      "num": 42086,
-      "word": "U23国足主帅安东尼奥禁止球员点外卖",
-      "onboard_time": 1769037556,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 40404,
@@ -467,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37525,
+      "num": 37525,
+      "word": "尘白禁区",
+      "onboard_time": 1769038879,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 37496,
       "num": 65093,
       "word": "王源实体专辑在星穹下狂奔",
@@ -483,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36617,
+      "num": 36617,
+      "word": "银价回落",
+      "onboard_time": 1769038278,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 36351,
       "num": 36351,
       "word": "U23国足vs日本U23",
@@ -496,22 +576,6 @@
       "word": "张泽禹唱两三句",
       "onboard_time": 1769037317,
       "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 35657,
-      "num": 35657,
-      "word": "鬼灭之刃无限城篇又上映了",
-      "onboard_time": 1769037737,
-      "rank": 46,
-      "category": "电影,动漫"
-    },
-    {
-      "raw_hot": 35219,
-      "num": 64981,
-      "word": "我八年前聊过天的网友是卢昱晓",
-      "onboard_time": 1768998741,
-      "rank": 43,
       "category": "艺人"
     },
     {
@@ -643,6 +707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19866,
+      "num": 408244,
+      "word": "全球多地上演梦幻极光",
+      "onboard_time": 1769038698,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19727,
       "num": 37976,
       "word": "霉霉入选创作名人堂",
@@ -691,8 +763,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14248,
-      "num": 509158,
+      "raw_hot": 14860,
+      "num": 610345,
       "word": "数读工业和信息化发展新成效",
       "onboard_time": 1769001682,
       "rank": 2,

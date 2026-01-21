@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/22 07:34:22
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/22 07:48:02
 </p>
 </blockquote>
 <p>
@@ -1487,6 +1487,12 @@ DYG战胜狼队（热度：867183）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E7%A9%BA%E8%A2%AD%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%A6%96%E9%83%BD%23" target="weibo">
 美军空袭委内瑞拉首都（热度：842337）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%AD%A3%E5%BC%8F%E9%80%80%E5%87%BA%E4%B8%96%E5%8D%AB%E7%BB%84%E7%BB%87%23" target="weibo">
+美国正式退出世卫组织（热度：839576）
 </a>
 </li>
 
@@ -4629,6 +4635,12 @@ iPhone4需求激增近1000%（热度：506886）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E6%9C%80%E7%83%82%E5%A4%A7%E8%A1%97%E7%9A%84%E7%A9%BF%E6%90%AD%23" target="weibo">
+今年最烂大街的穿搭（热度：482081）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B0%8F%E7%BE%A4%23" target="weibo">
 陈小群（热度：482017）
 </a>
@@ -5999,18 +6011,6 @@ iPhone没有一个按键是多余的（热度：420534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E5%90%90%E6%A7%BD%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%A9%9A%E7%A4%BC%E6%B5%81%E7%A8%8B%E4%BA%86%23" target="weibo">
 终于有人吐槽现在的婚礼流程了（热度：414325）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A8%81%E9%BE%99%20%E6%98%A5%E6%99%9A%E5%BD%A9%E6%8E%92%23" target="weibo">
-宋威龙 春晚彩排（热度：413446）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%81%B5%E5%8A%A8%E5%B2%9B%E6%88%96%E5%8F%98%E5%B0%8F%23" target="weibo">
-iPhone18Pro灵动岛或变小（热度：412510）
 </a>
 </li>
 
