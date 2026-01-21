@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768984895219,
+  "endTime": 1768985816102,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -161,6 +161,14 @@
       "onboard_time": 1768824201,
       "rank": 10,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 1106742,
+      "num": 178772,
+      "word": "美国现在连尸体脂肪都不放过",
+      "onboard_time": 1768984341,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1100171,
@@ -819,6 +827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 612857,
+      "num": 173854,
+      "word": "徐冬冬因家人病重婚礼延期",
+      "onboard_time": 1768985721,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 610739,
       "num": 814264,
       "word": "初中生网购侵华日军信件初步鉴定为真",
@@ -1089,14 +1105,6 @@
       "onboard_time": 1768816102,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 522677,
-      "num": 131844,
-      "word": "美国现在连尸体脂肪都不放过",
-      "onboard_time": 1768984341,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 517385,
@@ -1433,6 +1441,14 @@
       "onboard_time": 1768807162,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 427682,
+      "num": 310805,
+      "word": "为什么建议大家春节期间去旅游",
+      "onboard_time": 1768982360,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 425965,
@@ -2169,14 +2185,6 @@
       "onboard_time": 1768910603,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 313275,
-      "num": 208214,
-      "word": "为什么建议大家春节期间去旅游",
-      "onboard_time": 1768982360,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 312696,
@@ -3259,6 +3267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213209,
+      "num": 213209,
+      "word": "火锅最后一个吃什么菜收尾",
+      "onboard_time": 1768981880,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 213123,
       "num": 103439,
       "word": "小英哭诉被上拉如和小三欺负",
@@ -3657,6 +3673,14 @@
       "onboard_time": 1768732223,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196441,
+      "num": 189711,
+      "word": "留几手阴阳阿爆",
+      "onboard_time": 1768985600,
+      "rank": 15,
+      "category": "网红"
     },
     {
       "raw_hot": 196311,
@@ -4635,6 +4659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156955,
+      "num": 156955,
+      "word": "李亚鹏公布体检结果",
+      "onboard_time": 1768982002,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156913,
       "num": 156913,
       "word": "第五人格",
@@ -4705,14 +4737,6 @@
       "onboard_time": 1768967961,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 154637,
-      "num": 154637,
-      "word": "李亚鹏公布体检结果",
-      "onboard_time": 1768982002,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 154245,
@@ -4865,14 +4889,6 @@
       "onboard_time": 1768702700,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150961,
-      "num": 150961,
-      "word": "火锅最后一个吃什么菜收尾",
-      "onboard_time": 1768981880,
-      "rank": 27,
-      "category": "美食"
     },
     {
       "raw_hot": 150786,
@@ -5371,6 +5387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 139641,
+      "num": 139641,
+      "word": "拼多多被罚款10万",
+      "onboard_time": 1768984761,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 139637,
       "num": 125315,
       "word": "Crown",
@@ -5755,6 +5779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129035,
+      "num": 123801,
+      "word": "下可了 可是雪",
+      "onboard_time": 1768982600,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128999,
       "num": 116944,
       "word": "百大UP主费加罗大片",
@@ -5801,6 +5833,14 @@
       "onboard_time": 1768823541,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127907,
+      "num": 132019,
+      "word": "越南球员痛失106万巨奖埋头跪地",
+      "onboard_time": 1768984582,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 127762,
@@ -6043,6 +6083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124426,
+      "num": 124426,
+      "word": "留学生揭穿9层楼积雪骗局",
+      "onboard_time": 1768983201,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 124175,
       "num": 124175,
       "word": "小度致歉新音色",
@@ -6200,14 +6248,6 @@
       "word": "爸爸让女儿宣传公司",
       "onboard_time": 1768911021,
       "rank": 33,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 121095,
-      "num": 121095,
-      "word": "下可了 可是雪",
-      "onboard_time": 1768982600,
-      "rank": 34,
       "category": "幽默"
     },
     {
@@ -6755,6 +6795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 113820,
+      "num": 113820,
+      "word": "原来被子的咬合力这么惊人",
+      "onboard_time": 1768985481,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113456,
       "num": 113456,
       "word": "年轻人有自己的财神爷",
@@ -6787,28 +6835,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 113329,
-      "num": 113329,
-      "word": "拼多多被罚款10万",
-      "onboard_time": 1768984761,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 113296,
       "num": 113296,
       "word": "自由的小猫不叫流浪猫",
       "onboard_time": 1768977860,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 113107,
-      "num": 132019,
-      "word": "越南球员痛失106万巨奖埋头跪地",
-      "onboard_time": 1768984582,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 113021,
@@ -6857,6 +6889,14 @@
       "onboard_time": 1768910541,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111971,
+      "num": 111971,
+      "word": "迅猛龙说考研改变了账号生命周期",
+      "onboard_time": 1768982300,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 111862,
@@ -6985,14 +7025,6 @@
       "onboard_time": 1768886001,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110421,
-      "num": 110420,
-      "word": "留学生揭穿9层楼积雪骗局",
-      "onboard_time": 1768983201,
-      "rank": 41,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 110324,
@@ -7129,14 +7161,6 @@
       "onboard_time": 1768885401,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108798,
-      "num": 108798,
-      "word": "迅猛龙说考研改变了账号生命周期",
-      "onboard_time": 1768982300,
-      "rank": 45,
-      "category": "网红"
     },
     {
       "raw_hot": 108786,
@@ -7449,6 +7473,14 @@
       "onboard_time": 1768819761,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105108,
+      "num": 105108,
+      "word": "无限暖暖琳琅奇谭",
+      "onboard_time": 1768985361,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 105088,
@@ -7873,6 +7905,14 @@
       "onboard_time": 1768813942,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 100266,
+      "num": 100266,
+      "word": "我摆摊是为了赚钱不是让你来上货的",
+      "onboard_time": 1768985481,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 100227,
@@ -9059,6 +9099,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 89466,
+      "num": 89466,
+      "word": "内娱短剧把成年人的爱情拍明白了",
+      "onboard_time": 1768985721,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89393,
       "num": 102425,
       "word": "美国同事直接把甜食放桌子上",
@@ -9331,6 +9379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 87069,
+      "num": 87069,
+      "word": "白俄罗斯确认加入和平委员会",
+      "onboard_time": 1768982481,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 87059,
       "num": 87059,
       "word": "山上彻也母亲盲目信教捐款1亿日元",
@@ -9441,6 +9497,14 @@
       "onboard_time": 1768834462,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 86392,
+      "num": 86392,
+      "word": "A股两融降温",
+      "onboard_time": 1768982181,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 86360,
@@ -10467,6 +10531,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 75989,
+      "num": 110421,
+      "word": "福彩规则调整后亿元大奖或消失",
+      "onboard_time": 1768983442,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75942,
       "num": 75942,
       "word": "疯狂动物城2",
@@ -10817,14 +10889,6 @@
       "onboard_time": 1768890381,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 71002,
-      "num": 110421,
-      "word": "福彩规则调整后亿元大奖或消失",
-      "onboard_time": 1768983442,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70978,
@@ -11956,7 +12020,7 @@
     },
     {
       "raw_hot": 44455,
-      "num": 691852,
+      "num": 702787,
       "word": "万千气象看龙江",
       "onboard_time": 1768812502,
       "rank": 35,

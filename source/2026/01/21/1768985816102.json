@@ -1,0 +1,410 @@
+{
+  "runTime": 1768985816102,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1353552,
+        "num": 1353552,
+        "word": "拼多多受到处罚",
+        "onboard_time": 1768983021,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 472223,
+        "num": 910099,
+        "word": "五哈6录制嘉宾",
+        "onboard_time": 1768981941,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32180,
+        "num": 702787,
+        "word": "万千气象看龙江",
+        "onboard_time": 1768983260,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 322240,
+        "num": 322240,
+        "word": "10元一斤草莓和300元一斤草莓区别",
+        "onboard_time": 1768976421,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312536,
+        "num": 312536,
+        "word": "车厘子降价后黑草莓成水果新贵",
+        "onboard_time": 1768976480,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 427682,
+        "num": 310805,
+        "word": "为什么建议大家春节期间去旅游",
+        "onboard_time": 1768982360,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 306700,
+        "num": 306700,
+        "word": "告白",
+        "onboard_time": 1768979960,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304597,
+        "num": 304597,
+        "word": "涉密单位搬迁打印机被拉到废品站",
+        "onboard_time": 1768980260,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213209,
+        "num": 213209,
+        "word": "火锅最后一个吃什么菜收尾",
+        "onboard_time": 1768981880,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 191439,
+        "num": 191439,
+        "word": "王昭君新皮肤长夜焕生",
+        "onboard_time": 1768977500,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 340150,
+        "num": 191267,
+        "word": "双休可以是一周的任意两天",
+        "onboard_time": 1768974740,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 302765,
+        "num": 190853,
+        "word": "孙悦录春晚脸被冻伤",
+        "onboard_time": 1768980199,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280982,
+        "num": 190570,
+        "word": "蒋欣 你妈妈也在评论区",
+        "onboard_time": 1768977260,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276630,
+        "num": 190489,
+        "word": "小伙安装1500斤玻璃时被压身亡",
+        "onboard_time": 1768978820,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243237,
+        "num": 189966,
+        "word": "花少导游穆穆和张晚意聚餐了",
+        "onboard_time": 1768981521,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196441,
+        "num": 189711,
+        "word": "留几手阴阳阿爆",
+        "onboard_time": 1768985600,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 189664,
+        "num": 189664,
+        "word": "男子献血2.2万毫升景区不免票被告",
+        "onboard_time": 1768968680,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184759,
+        "num": 184759,
+        "word": "ELLE网站致歉",
+        "onboard_time": 1768978160,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38390,
+        "num": 182846,
+        "word": "香奈儿CHANCE幸运连连",
+        "onboard_time": 1768982719,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 39405,
+        "num": 179335,
+        "word": "郑钦文粉丝把AI天赋点满了",
+        "onboard_time": 1768982719,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1106742,
+        "num": 178772,
+        "word": "美国现在连尸体脂肪都不放过",
+        "onboard_time": 1768984341,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 612857,
+        "num": 173854,
+        "word": "徐冬冬因家人病重婚礼延期",
+        "onboard_time": 1768985721,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234133,
+        "num": 172037,
+        "word": "女子怀双胞胎人流后发现第3个孩子",
+        "onboard_time": 1768979361,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170806,
+        "num": 170806,
+        "word": "iPhone18",
+        "onboard_time": 1768966518,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 156955,
+        "num": 156955,
+        "word": "李亚鹏公布体检结果",
+        "onboard_time": 1768982002,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156476,
+        "num": 156476,
+        "word": "白鹿吃烤肉经纪人在旁边急死了",
+        "onboard_time": 1768974860,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139641,
+        "num": 139641,
+        "word": "拼多多被罚款10万",
+        "onboard_time": 1768984761,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 154550,
+        "num": 138354,
+        "word": "黄子韬没等徐艺洋",
+        "onboard_time": 1768971440,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127907,
+        "num": 127907,
+        "word": "越南球员痛失106万巨奖埋头跪地",
+        "onboard_time": 1768984582,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124426,
+        "num": 124426,
+        "word": "留学生揭穿9层楼积雪骗局",
+        "onboard_time": 1768983201,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129035,
+        "num": 123801,
+        "word": "下可了 可是雪",
+        "onboard_time": 1768982600,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122974,
+        "num": 122974,
+        "word": "牢A",
+        "onboard_time": 1768955000,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116997,
+        "num": 116997,
+        "word": "马克龙说中国在欧洲是受欢迎的",
+        "onboard_time": 1768981221,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113820,
+        "num": 113820,
+        "word": "原来被子的咬合力这么惊人",
+        "onboard_time": 1768985481,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111971,
+        "num": 111971,
+        "word": "迅猛龙说考研改变了账号生命周期",
+        "onboard_time": 1768982300,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 110091,
+        "num": 110091,
+        "word": "华裔女孩回应掀起老外模仿热",
+        "onboard_time": 1768980800,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109834,
+        "num": 109834,
+        "word": "白宇摇来了毛晓彤和周柯宇",
+        "onboard_time": 1768984040,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105108,
+        "num": 105108,
+        "word": "无限暖暖琳琅奇谭",
+        "onboard_time": 1768985361,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 75989,
+        "num": 103094,
+        "word": "福彩规则调整后亿元大奖或消失",
+        "onboard_time": 1768983442,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102201,
+        "num": 102201,
+        "word": "内娱引导型恋人又上新了",
+        "onboard_time": 1768984161,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101412,
+        "num": 101412,
+        "word": "长生复刻水母合照",
+        "onboard_time": 1768984341,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100266,
+        "num": 100266,
+        "word": "我摆摊是为了赚钱不是让你来上货的",
+        "onboard_time": 1768985481,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99502,
+        "num": 99502,
+        "word": "王菲李亚鹏窦靖童李嫣同框旧照",
+        "onboard_time": 1768979300,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94102,
+        "num": 94102,
+        "word": "张远今年不上春晚都因为王栎鑫",
+        "onboard_time": 1768976901,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93066,
+        "num": 93066,
+        "word": "A股黄金股掀涨停潮",
+        "onboard_time": 1768984281,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 89466,
+        "num": 89466,
+        "word": "内娱短剧把成年人的爱情拍明白了",
+        "onboard_time": 1768985721,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87069,
+        "num": 87069,
+        "word": "白俄罗斯确认加入和平委员会",
+        "onboard_time": 1768982481,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87006,
+        "num": 87006,
+        "word": "终于理解那些很少刷手机的人了",
+        "onboard_time": 1768982002,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86552,
+        "num": 86552,
+        "word": "牢A教子 哈利波特",
+        "onboard_time": 1768983142,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86392,
+        "num": 86392,
+        "word": "A股两融降温",
+        "onboard_time": 1768982181,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化一定能实现#"
+    }
+  }
+}
