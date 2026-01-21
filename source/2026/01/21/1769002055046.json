@@ -1,0 +1,410 @@
+{
+  "runTime": 1769002055046,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1111377,
+        "num": 1177820,
+        "word": "杜涛面相都变了",
+        "onboard_time": 1769000600,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 454031,
+        "num": 832679,
+        "word": "留学生揭穿9层楼积雪骗局",
+        "onboard_time": 1768983201,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 11514,
+        "num": 700609,
+        "word": "数读工业和信息化发展新成效",
+        "onboard_time": 1769001682,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1050585,
+        "num": 547826,
+        "word": "程序员猝死抢救时曾被拉工作群",
+        "onboard_time": 1768998022,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251481,
+        "num": 251481,
+        "word": "去有风的地方或将拍第二季",
+        "onboard_time": 1768995261,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232237,
+        "num": 232237,
+        "word": "威海海边冻住了",
+        "onboard_time": 1768996220,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207218,
+        "num": 207218,
+        "word": "剑来",
+        "onboard_time": 1768995981,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 201060,
+        "num": 201060,
+        "word": "年代剧终于有正常婆婆了",
+        "onboard_time": 1768992920,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185597,
+        "num": 185597,
+        "word": "男子15年为妻女购金现估价超170万",
+        "onboard_time": 1769000362,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167427,
+        "num": 185149,
+        "word": "素人和荤人的区别",
+        "onboard_time": 1768992561,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 892197,
+        "num": 182089,
+        "word": "赖冠霖回应退圈",
+        "onboard_time": 1768997240,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461396,
+        "num": 181021,
+        "word": "王鹤棣 我是王嘉尔",
+        "onboard_time": 1769000902,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237473,
+        "num": 177304,
+        "word": "拼多多受到处罚",
+        "onboard_time": 1768983021,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 166771,
+        "num": 176252,
+        "word": "黑草莓",
+        "onboard_time": 1768988000,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 175009,
+        "num": 175009,
+        "word": "邓超 我能签鹿晗的签名照吗",
+        "onboard_time": 1769000540,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163325,
+        "num": 163325,
+        "word": "Temu土耳其办公室被抄家",
+        "onboard_time": 1769001382,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 275703,
+        "num": 163322,
+        "word": "王嘉尔 我是徐明浩",
+        "onboard_time": 1768997841,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163053,
+        "num": 163053,
+        "word": "32岁程序员周末晕倒后猝死",
+        "onboard_time": 1769000181,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161865,
+        "num": 161865,
+        "word": "范丞丞 平板一滴泪受害者",
+        "onboard_time": 1768996040,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107623,
+        "num": 159408,
+        "word": "王楚钦连续4年没回家过年了",
+        "onboard_time": 1769000841,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 542317,
+        "num": 155851,
+        "word": "美国现在连尸体脂肪都不放过",
+        "onboard_time": 1768984341,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 40328,
+        "num": 154942,
+        "word": "新设41家口岸进境免税店",
+        "onboard_time": 1769001382,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 270112,
+        "num": 150978,
+        "word": "王俊凯 还好我先出道了",
+        "onboard_time": 1768995802,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149214,
+        "num": 149214,
+        "word": "中方回应是否租借新的大熊猫给日本",
+        "onboard_time": 1768995740,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145065,
+        "num": 145065,
+        "word": "深圳地铁车厢两女生掏出活蛇玩耍",
+        "onboard_time": 1769000062,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131759,
+        "num": 131759,
+        "word": "14岁少年遭生父继母长期虐待离世",
+        "onboard_time": 1768987460,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129782,
+        "num": 129782,
+        "word": "我八年前聊过天的网友是卢昱晓",
+        "onboard_time": 1768998741,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116908,
+        "num": 116908,
+        "word": "告白",
+        "onboard_time": 1768979960,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111158,
+        "num": 111158,
+        "word": "洗衣机洗羽绒服要慎重",
+        "onboard_time": 1768996281,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 115224,
+        "num": 110407,
+        "word": "敖瑞鹏难受到捂肚子皱眉",
+        "onboard_time": 1768996100,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105511,
+        "num": 105511,
+        "word": "黄金股持续上涨",
+        "onboard_time": 1769001503,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103470,
+        "num": 103470,
+        "word": "iG对战TES",
+        "onboard_time": 1769001682,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102390,
+        "num": 102390,
+        "word": "皮肤碎片换鲁班七号新皮肤",
+        "onboard_time": 1768992141,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101181,
+        "num": 101181,
+        "word": "车厘子降价后黑草莓成水果新贵",
+        "onboard_time": 1768976480,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 97776,
+        "num": 97776,
+        "word": "这4个部位胖一点反而更健康",
+        "onboard_time": 1769001862,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 97448,
+        "num": 97448,
+        "word": "女子怀双胞胎人流后发现第3个孩子",
+        "onboard_time": 1768979361,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96825,
+        "num": 96825,
+        "word": "一个综艺集齐了四大浙卫IP",
+        "onboard_time": 1769001742,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94907,
+        "num": 94907,
+        "word": "赵丽颖哽咽戏",
+        "onboard_time": 1768997781,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63117,
+        "num": 88886,
+        "word": "张远的远房亲戚都可以来住了",
+        "onboard_time": 1769001503,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31720,
+        "num": 88242,
+        "word": "不知儿子离婚老人把财产遗赠儿媳",
+        "onboard_time": 1769001920,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87830,
+        "num": 87830,
+        "word": "10元一斤草莓和300元一斤草莓区别",
+        "onboard_time": 1768976421,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85133,
+        "num": 85133,
+        "word": "王玉雯陈星旭拍这段得笑成啥样",
+        "onboard_time": 1768996220,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42943,
+        "num": 84408,
+        "word": "景区为50元门票拖到庭审让献血者心凉",
+        "onboard_time": 1769000422,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84400,
+        "num": 84400,
+        "word": "辽宁一地花498万上榜百强县被通报",
+        "onboard_time": 1769000422,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83532,
+        "num": 83532,
+        "word": "职工医保和居民医保的区别",
+        "onboard_time": 1768991481,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 82039,
+        "num": 82039,
+        "word": "TF荣耀之战主题",
+        "onboard_time": 1768998439,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81366,
+        "num": 81366,
+        "word": "蔡徐坤 快来了",
+        "onboard_time": 1768991901,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36748,
+        "num": 80984,
+        "word": "中国铁路再创世界纪录",
+        "onboard_time": 1768983560,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 80794,
+        "num": 80794,
+        "word": "李秋萍杜涛分手",
+        "onboard_time": 1768999462,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74971,
+        "num": 74971,
+        "word": "U23国足上新闻联播了",
+        "onboard_time": 1769001981,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#新年第一课习近平这样强调#"
+    }
+  }
+}

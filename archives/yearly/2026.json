@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769000664247,
+  "endTime": 1769002055046,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -963,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1111377,
+      "num": 1177820,
+      "word": "杜涛面相都变了",
+      "onboard_time": 1769000600,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1108458,
       "num": 184438,
       "word": "罗永浩回应西贝闭店",
@@ -1153,6 +1161,14 @@
       "onboard_time": 1768963939,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1050585,
+      "num": 547826,
+      "word": "程序员猝死抢救时曾被拉工作群",
+      "onboard_time": 1768998022,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1049300,
@@ -1404,7 +1420,7 @@
     },
     {
       "raw_hot": 982044,
-      "num": 163846,
+      "num": 182089,
       "word": "赖冠霖回应退圈",
       "onboard_time": 1768997240,
       "rank": 10,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767338359,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 772814,
-      "num": 1147902,
-      "word": "短剧淋雨婴儿片酬仅800元",
-      "onboard_time": 1768717940,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 772222,
-      "num": 182707,
-      "word": "何存真退网",
-      "onboard_time": 1768704859,
-      "rank": 8,
-      "category": "动漫"
     }
   ],
   "hotgov_list": [
