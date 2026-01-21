@@ -1,0 +1,410 @@
+{
+  "runTime": 1769006389325,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1805217,
+        "num": 1805217,
+        "word": "杜涛面相都变了",
+        "onboard_time": 1769000600,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212676,
+        "num": 946040,
+        "word": "留学生揭穿9层楼积雪骗局",
+        "onboard_time": 1768983201,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 47922,
+        "num": 741059,
+        "word": "2026春运2月2日开始",
+        "onboard_time": 1769002041,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 394851,
+        "num": 394851,
+        "word": "历年央八收视率排名",
+        "onboard_time": 1769004503,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285671,
+        "num": 285671,
+        "word": "男子15年为妻女购金现估价超170万",
+        "onboard_time": 1769000362,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281295,
+        "num": 281295,
+        "word": "爱吃鸭头的人天塌了",
+        "onboard_time": 1769000002,
+        "rank": 5,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 275276,
+        "num": 275276,
+        "word": "32岁程序员周末晕倒后猝死",
+        "onboard_time": 1769000181,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210901,
+        "num": 210901,
+        "word": "去有风的地方或将拍第二季",
+        "onboard_time": 1768995261,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209596,
+        "num": 209596,
+        "word": "黑草莓",
+        "onboard_time": 1768988000,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 200791,
+        "num": 200791,
+        "word": "交警回应女子作不雅手势被后车撞击",
+        "onboard_time": 1769004202,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 793739,
+        "num": 200267,
+        "word": "昀牵孟绕",
+        "onboard_time": 1769003600,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 666393,
+        "num": 199422,
+        "word": "赖冠霖回应退圈",
+        "onboard_time": 1768997240,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312967,
+        "num": 198311,
+        "word": "9岁男童托管期间坠入排污井身亡",
+        "onboard_time": 1769002582,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331602,
+        "num": 197525,
+        "word": "王鹤棣 我是王嘉尔",
+        "onboard_time": 1769000902,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308879,
+        "num": 196542,
+        "word": "邓超 我能签鹿晗的签名照吗",
+        "onboard_time": 1769000540,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227733,
+        "num": 195581,
+        "word": "拼多多受到处罚",
+        "onboard_time": 1768983021,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 195063,
+        "num": 195063,
+        "word": "我八年前聊过天的网友是卢昱晓",
+        "onboard_time": 1768998741,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185070,
+        "num": 185070,
+        "word": "洗衣机洗羽绒服要慎重",
+        "onboard_time": 1768996281,
+        "rank": 17,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 141772,
+        "num": 141772,
+        "word": "联合国警告水破产时代已来临",
+        "onboard_time": 1769004623,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188175,
+        "num": 141735,
+        "word": "丁程鑫晒个人的棉花娃娃",
+        "onboard_time": 1769005822,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 715395,
+        "num": 140240,
+        "word": "程序员猝死抢救时曾被拉工作群",
+        "onboard_time": 1768998022,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62645,
+        "num": 139254,
+        "word": "Dior男装秀星光直拍",
+        "onboard_time": 1769006002,
+        "rank": 21,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 121870,
+        "num": 137979,
+        "word": "威海海边冻住了",
+        "onboard_time": 1768996220,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 530372,
+        "num": 137647,
+        "word": "美国现在连尸体脂肪都不放过",
+        "onboard_time": 1768984341,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 243084,
+        "num": 136637,
+        "word": "王俊凯 还好我先出道了",
+        "onboard_time": 1768995802,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169000,
+        "num": 135170,
+        "word": "王伊瑶不愧是赵丽颖的嫡长闺",
+        "onboard_time": 1769002881,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158780,
+        "num": 134960,
+        "word": "这4个部位胖一点反而更健康",
+        "onboard_time": 1769001862,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134089,
+        "num": 134089,
+        "word": "14岁少年遭生父继母长期虐待离世",
+        "onboard_time": 1768987460,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131820,
+        "num": 131820,
+        "word": "剧方在协调刘亦菲李现档期",
+        "onboard_time": 1769005281,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94410,
+        "num": 131628,
+        "word": "U23国足上新闻联播了",
+        "onboard_time": 1769001981,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131579,
+        "num": 131579,
+        "word": "赖冠霖 演戏不是我可以做好的事",
+        "onboard_time": 1769002762,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120799,
+        "num": 120799,
+        "word": "年代剧终于有正常婆婆了",
+        "onboard_time": 1768992920,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112597,
+        "num": 112597,
+        "word": "晚上最好的运动提升阳气",
+        "onboard_time": 1769004202,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 117047,
+        "num": 112208,
+        "word": "滕泽文发文告白荣善宝",
+        "onboard_time": 1769003002,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111721,
+        "num": 111721,
+        "word": "喵娲娲 夹微博之夜门票",
+        "onboard_time": 1769003481,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96235,
+        "num": 111688,
+        "word": "王楚钦连续4年没回家过年了",
+        "onboard_time": 1769000841,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104357,
+        "num": 111661,
+        "word": "赵丽颖置顶了李秋萍和奶奶",
+        "onboard_time": 1769005882,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97474,
+        "num": 111623,
+        "word": "王嘉尔 我是徐明浩",
+        "onboard_time": 1768997841,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81998,
+        "num": 111571,
+        "word": "12万放塑料袋挂车把全部遗失",
+        "onboard_time": 1769002942,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25757,
+        "num": 111507,
+        "word": "官方通报一婴儿身上有多处针眼",
+        "onboard_time": 1769005942,
+        "rank": 39,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 96018,
+        "num": 111460,
+        "word": "剑来",
+        "onboard_time": 1768995981,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 88357,
+        "num": 111418,
+        "word": "iG对战TES",
+        "onboard_time": 1769001682,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87875,
+        "num": 111356,
+        "word": "敖瑞鹏难受到捂肚子皱眉",
+        "onboard_time": 1768996100,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84113,
+        "num": 111319,
+        "word": "告白",
+        "onboard_time": 1768979960,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82577,
+        "num": 111250,
+        "word": "摩尔线程预计净亏损9.5亿至10.6亿",
+        "onboard_time": 1769004862,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 83721,
+        "num": 111197,
+        "word": "男子见义勇为被杀儿子起诉被救女子",
+        "onboard_time": 1769005402,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83129,
+        "num": 111159,
+        "word": "职工医保和居民医保的区别",
+        "onboard_time": 1768991481,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 79701,
+        "num": 111128,
+        "word": "网友为妻子和马拍摄了一张合影",
+        "onboard_time": 1769005343,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79009,
+        "num": 111085,
+        "word": "美国布鲁克林的人骨博物馆",
+        "onboard_time": 1769004682,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 72986,
+        "num": 111016,
+        "word": "国投白银LOF1月22日停牌至收市",
+        "onboard_time": 1769004623,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#新年第一课习近平这样强调#"
+    }
+  }
+}

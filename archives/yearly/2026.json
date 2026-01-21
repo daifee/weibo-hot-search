@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769004177006,
+  "endTime": 1769006389325,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -2299,6 +2299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 793739,
+      "num": 253629,
+      "word": "昀牵孟绕",
+      "onboard_time": 1767528444,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 793383,
       "num": 244428,
       "word": "娜扎跳舞肩带断了",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768378881,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 776597,
-      "num": 248337,
-      "word": "当我意识到姚晨在发圣地巡礼的时候",
-      "onboard_time": 1767338359,
-      "rank": 20,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
