@@ -1,6 +1,6 @@
 {
   "startTime": 1769015008764,
-  "endTime": 1769028988749,
+  "endTime": 1769031393824,
   "band_list": [
     {
       "raw_hot": 419156,
@@ -475,20 +475,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19774,
+      "num": 39597,
+      "word": "少年遭虐待离世继母有重大嫌疑",
+      "onboard_time": 1769011941,
+      "rank": 47,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 19727,
       "num": 25891,
       "word": "霉霉入选创作名人堂",
       "onboard_time": 1769020094,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 19003,
-      "num": 39597,
-      "word": "少年遭虐待离世继母有重大嫌疑",
-      "onboard_time": 1769011941,
-      "rank": 47,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 18487,
@@ -545,6 +545,14 @@
       "onboard_time": 1769007264,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 8506,
+      "num": 100980,
+      "word": "数读工业和信息化发展新成效",
+      "onboard_time": 1769001682,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [

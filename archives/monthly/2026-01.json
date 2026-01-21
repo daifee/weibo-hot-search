@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769028988749,
+  "endTime": 1769031393824,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -69595,6 +69595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19774,
+      "num": 39597,
+      "word": "少年遭虐待离世继母有重大嫌疑",
+      "onboard_time": 1769011941,
+      "rank": 47,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 19751,
       "num": 51182,
       "word": "檀健次Get唱歌去处",
@@ -69777,14 +69785,6 @@
       "onboard_time": 1768897881,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19003,
-      "num": 39597,
-      "word": "少年遭虐待离世继母有重大嫌疑",
-      "onboard_time": 1769011941,
-      "rank": 47,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 18943,
