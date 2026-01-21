@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/18 00:32:47 ~ 2026/01/22 05:52:14
+本榜单时间：2026/01/18 00:32:47 ~ 2026/01/22 06:34:34
 </p>
 </blockquote>
 <p>
@@ -10227,6 +10227,12 @@ Rookie燃成鸡架（热度：36070）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%B0%91%E5%B9%B4%E9%81%AD%E8%99%90%E5%BE%85%E7%A6%BB%E4%B8%96%E7%94%9F%E7%88%B6%E6%8A%95%E6%A1%88%E8%87%AA%E9%A6%96%23" target="weibo">
+14岁少年遭虐待离世生父投案自首（热度：35380）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E7%A6%8F%E5%BB%BA%E4%B8%80%E9%A6%96%E9%A5%B0%E5%BA%97%E8%A2%AB%E6%8A%A2%E5%8A%AB%23" target="weibo">
 多方回应福建一首饰店被抢劫（热度：35276）
 </a>
@@ -10283,12 +10289,6 @@ Tabe终结JDG面对AL三连败（热度：34502）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AB%A3%E7%84%B6%E5%8C%BB%E9%99%A2%E6%8A%A4%E7%90%86%E5%B8%88%E5%8F%91%E5%A3%B0%23" target="weibo">
 嫣然医院护理师发声（热度：33589）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%B0%91%E5%B9%B4%E9%81%AD%E8%99%90%E5%BE%85%E7%A6%BB%E4%B8%96%E7%94%9F%E7%88%B6%E6%8A%95%E6%A1%88%E8%87%AA%E9%A6%96%23" target="weibo">
-14岁少年遭虐待离世生父投案自首（热度：32671）
 </a>
 </li>
 
@@ -10605,6 +10605,12 @@ NBA常规赛（热度：23123）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%91%E5%B9%B4%E9%81%AD%E8%99%90%E5%BE%85%E7%A6%BB%E4%B8%96%E7%BB%A7%E6%AF%8D%E6%9C%89%E9%87%8D%E5%A4%A7%E5%AB%8C%E7%96%91%23" target="weibo">
+少年遭虐待离世继母有重大嫌疑（热度：22876）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E5%8F%AF%E4%B9%B0%E6%98%A5%E8%BF%90%E7%AC%AC1%E5%A4%A9%E7%81%AB%E8%BD%A6%E7%A5%A8%23" target="weibo">
 今天可买春运第1天火车票（热度：22861）
 </a>
@@ -10625,6 +10631,12 @@ NBA常规赛（热度：23123）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232026%E5%BE%85%E6%92%AD%E5%89%A7%E6%B8%85%E5%8D%95%23" target="weibo">
 2026待播剧清单（热度：22318）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%8E%8B%E5%98%89%E5%B0%94PROOF%E6%89%8B%E5%8A%BF%E8%88%9E%23" target="weibo">
+檀健次王嘉尔PROOF手势舞（热度：22077）
 </a>
 </li>
 
@@ -10725,12 +10737,6 @@ A股上市公司密集公告业绩预增（热度：19943）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%91%E5%B9%B4%E9%81%AD%E8%99%90%E5%BE%85%E7%A6%BB%E4%B8%96%E7%BB%A7%E6%AF%8D%E6%9C%89%E9%87%8D%E5%A4%A7%E5%AB%8C%E7%96%91%23" target="weibo">
-少年遭虐待离世继母有重大嫌疑（热度：19774）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%89%E9%9C%89%E5%85%A5%E9%80%89%E5%88%9B%E4%BD%9C%E5%90%8D%E4%BA%BA%E5%A0%82%23" target="weibo">
 霉霉入选创作名人堂（热度：19727）
 </a>
@@ -10793,12 +10799,6 @@ WTT多哈球星挑战赛（热度：19118）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%AF%E9%A3%9F%E7%87%83%E6%96%997%E5%B2%81%E7%94%B7%E5%AD%A9%E6%83%85%E5%86%B5%E5%A5%BD%E8%BD%AC%E6%81%A2%E5%A4%8D%E6%84%8F%E8%AF%86%23" target="weibo">
 误食燃料7岁男孩情况好转恢复意识（热度：18890）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%8E%8B%E5%98%89%E5%B0%94PROOF%E6%89%8B%E5%8A%BF%E8%88%9E%23" target="weibo">
-檀健次王嘉尔PROOF手势舞（热度：18378）
 </a>
 </li>
 

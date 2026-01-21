@@ -1,6 +1,6 @@
 {
   "startTime": 1769015008764,
-  "endTime": 1769032334702,
+  "endTime": 1769034874462,
   "band_list": [
     {
       "raw_hot": 419156,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 240957,
-      "num": 428245,
+      "num": 434670,
       "word": "美航母战斗群已穿过马六甲海峡",
       "onboard_time": 1769009361,
       "rank": 1,
@@ -307,6 +307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 37142,
+      "num": 92400,
+      "word": "王伊瑶不愧是赵丽颖的嫡长闺",
+      "onboard_time": 1769002881,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 36843,
       "num": 92568,
       "word": "惠英红陈都灵胡一天合照",
@@ -321,6 +329,14 @@
       "onboard_time": 1769014877,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 35380,
+      "num": 92338,
+      "word": "14岁少年遭虐待离世生父投案自首",
+      "onboard_time": 1769011579,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35276,
@@ -339,14 +355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34713,
-      "num": 92400,
-      "word": "王伊瑶不愧是赵丽颖的嫡长闺",
-      "onboard_time": 1769002881,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 34605,
       "num": 65073,
       "word": "芒果综艺上这张嘴借我年终述职用",
@@ -361,14 +369,6 @@
       "onboard_time": 1769005281,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 32671,
-      "num": 92338,
-      "word": "14岁少年遭虐待离世生父投案自首",
-      "onboard_time": 1769011579,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31576,
@@ -459,6 +459,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 22876,
+      "num": 39597,
+      "word": "少年遭虐待离世继母有重大嫌疑",
+      "onboard_time": 1769011941,
+      "rank": 47,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 22077,
+      "num": 32901,
+      "word": "檀健次王嘉尔PROOF手势舞",
+      "onboard_time": 1769020155,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21469,
       "num": 39607,
       "word": "梁朝伟刘嘉玲于适同框",
@@ -475,16 +491,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19774,
-      "num": 39597,
-      "word": "少年遭虐待离世继母有重大嫌疑",
-      "onboard_time": 1769011941,
-      "rank": 47,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 19727,
-      "num": 25891,
+      "num": 32837,
       "word": "霉霉入选创作名人堂",
       "onboard_time": 1769020094,
       "rank": 24,
@@ -499,12 +507,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18378,
-      "num": 25890,
-      "word": "檀健次王嘉尔PROOF手势舞",
-      "onboard_time": 1769020155,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 15558,
+      "num": 32825,
+      "word": "小城大事",
+      "onboard_time": 1768995981,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 14958,
@@ -515,20 +523,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14806,
-      "num": 21975,
-      "word": "小城大事",
-      "onboard_time": 1768995981,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 12784,
       "num": 21962,
       "word": "小城良方",
       "onboard_time": 1768999700,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 11604,
+      "num": 32768,
+      "word": "现货黄金短线下挫40美元",
+      "onboard_time": 1769007264,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 11415,
@@ -539,20 +547,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 9405,
-      "num": 133865,
+      "raw_hot": 10080,
+      "num": 240969,
       "word": "数读工业和信息化发展新成效",
       "onboard_time": 1769001682,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 9140,
-      "num": 17687,
-      "word": "现货黄金短线下挫40美元",
-      "onboard_time": 1769007264,
-      "rank": 49,
-      "category": "财经"
     }
   ],
   "hotgov_list": [
