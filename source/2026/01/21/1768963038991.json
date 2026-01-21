@@ -1,0 +1,410 @@
+{
+  "runTime": 1768963038991,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 631040,
+        "num": 1100966,
+        "word": "中国男足等了整整22年",
+        "onboard_time": 1768957880,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256516,
+        "num": 774648,
+        "word": "U23国足3比0越南U23",
+        "onboard_time": 1768930637,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23475,
+        "num": 641280,
+        "word": "还有不到30天过年",
+        "onboard_time": 1768913781,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226727,
+        "num": 226727,
+        "word": "拳打拜合拉木球员道歉",
+        "onboard_time": 1768957640,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207802,
+        "num": 207802,
+        "word": "太平年定档",
+        "onboard_time": 1768962319,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 350526,
+        "num": 206806,
+        "word": "这才是真的俩魔丸生了个灵珠",
+        "onboard_time": 1768958240,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233922,
+        "num": 206545,
+        "word": "金饰价涨到1495元",
+        "onboard_time": 1768959739,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 204876,
+        "num": 204876,
+        "word": "导演回应狼王格林是否安好",
+        "onboard_time": 1768954219,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180220,
+        "num": 180220,
+        "word": "欧盟决定永久冻结俄罗斯资产",
+        "onboard_time": 1768950677,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42641,
+        "num": 179934,
+        "word": "丹麦拟向格陵兰岛派1000名士兵",
+        "onboard_time": 1768962618,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 745086,
+        "num": 177056,
+        "word": "上班是法务下班是偷车厘子惯犯",
+        "onboard_time": 1768954821,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 614184,
+        "num": 175310,
+        "word": "马龙在飞机上第一次看到极光",
+        "onboard_time": 1768959018,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 487591,
+        "num": 172118,
+        "word": "贝克汉姆回应大儿子控诉",
+        "onboard_time": 1768958479,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140935,
+        "num": 171505,
+        "word": "李秋萍主动求婚被拒绝",
+        "onboard_time": 1768959500,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 461552,
+        "num": 168328,
+        "word": "卢昱晓回应跪下和粉丝合照",
+        "onboard_time": 1768920922,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168003,
+        "num": 168003,
+        "word": "什么是捂热病",
+        "onboard_time": 1768961899,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163813,
+        "num": 163813,
+        "word": "LV大秀放了王嘉尔新歌",
+        "onboard_time": 1768961001,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157584,
+        "num": 157584,
+        "word": "儿子怒斥癌症妈妈碰瓷为何让人共情",
+        "onboard_time": 1768925958,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142969,
+        "num": 142969,
+        "word": "50万亿存款到期后会流入股市吗",
+        "onboard_time": 1768962679,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25699,
+        "num": 141465,
+        "word": "印尼惊天跨国贩婴案细节曝光",
+        "onboard_time": 1768962618,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1041344,
+        "num": 141378,
+        "word": "野狗骨头",
+        "onboard_time": 1768951278,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141209,
+        "num": 141209,
+        "word": "LV大秀",
+        "onboard_time": 1768951578,
+        "rank": 21,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 943372,
+        "num": 140133,
+        "word": "牢A",
+        "onboard_time": 1768955000,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370522,
+        "num": 138703,
+        "word": "贝克汉姆儿媳快哭了",
+        "onboard_time": 1768951098,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233120,
+        "num": 136895,
+        "word": "老人不舍开空调儿子将遥控器带走",
+        "onboard_time": 1768956320,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214142,
+        "num": 135649,
+        "word": "女生怀孕后体重暴涨45斤",
+        "onboard_time": 1768950738,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135139,
+        "num": 135139,
+        "word": "安倍遇刺案今天宣判",
+        "onboard_time": 1768955600,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138784,
+        "num": 134608,
+        "word": "金价",
+        "onboard_time": 1768922180,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 123497,
+        "num": 123497,
+        "word": "周柯宇直播五排",
+        "onboard_time": 1768956022,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123440,
+        "num": 123440,
+        "word": "黄金",
+        "onboard_time": 1768919900,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111104,
+        "num": 111104,
+        "word": "白卓璇不敌萨巴伦卡",
+        "onboard_time": 1768962738,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98395,
+        "num": 98395,
+        "word": "曝iPhone18Pro灵动岛居中并缩小",
+        "onboard_time": 1768962500,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 97532,
+        "num": 97532,
+        "word": "裴轸事业没了",
+        "onboard_time": 1768952839,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92263,
+        "num": 92263,
+        "word": "大姐希望大冰支持自己孩子",
+        "onboard_time": 1768950917,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 90093,
+        "num": 90093,
+        "word": "伊朗声援阿富汗和中国",
+        "onboard_time": 1768959439,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89835,
+        "num": 89835,
+        "word": "水贝禁售铜条",
+        "onboard_time": 1768962199,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85687,
+        "num": 85687,
+        "word": "曝短剧演员片酬",
+        "onboard_time": 1768926558,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85282,
+        "num": 85282,
+        "word": "国足队员说再赢一场就回家",
+        "onboard_time": 1768961119,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83346,
+        "num": 83346,
+        "word": "黄金涨飞了",
+        "onboard_time": 1768919961,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 48606,
+        "num": 81916,
+        "word": "国家发改委回应如何破解内卷式竞争",
+        "onboard_time": 1768962859,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 81866,
+        "num": 81866,
+        "word": "白卓璇无缘澳网32强",
+        "onboard_time": 1768962920,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78390,
+        "num": 80522,
+        "word": "人为什么会反复欣赏自己的朋友圈",
+        "onboard_time": 1768962260,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80175,
+        "num": 80175,
+        "word": "苏醒预测U23国足晋级决赛",
+        "onboard_time": 1768960039,
+        "rank": 42,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 79636,
+        "num": 79636,
+        "word": "DeepSeek新模型曝光",
+        "onboard_time": 1768962199,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 79055,
+        "num": 79055,
+        "word": "减肥必须要记住的4个时间点",
+        "onboard_time": 1768951818,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 78999,
+        "num": 78999,
+        "word": "慕胥辞",
+        "onboard_time": 1768918102,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76655,
+        "num": 76655,
+        "word": "云旗郝熠然红秀",
+        "onboard_time": 1768959919,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75999,
+        "num": 75999,
+        "word": "现货黄金突破4760美元",
+        "onboard_time": 1768962500,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 73832,
+        "num": 73832,
+        "word": "郑州大雪航班停飞约8000人滞留",
+        "onboard_time": 1768962738,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73230,
+        "num": 73230,
+        "word": "美国政府首次回应斩杀线困境",
+        "onboard_time": 1768924579,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#十五五开局之年第一课#"
+    }
+  }
+}
