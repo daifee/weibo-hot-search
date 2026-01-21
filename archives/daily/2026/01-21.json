@@ -1,6 +1,6 @@
 {
   "startTime": 1768927470754,
-  "endTime": 1769007483756,
+  "endTime": 1769010087571,
   "band_list": [
     {
       "raw_hot": 2487537,
@@ -227,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 637761,
+      "num": 109811,
+      "word": "戚薇女儿Luvky转眼长成大姑娘啦",
+      "onboard_time": 1769008641,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 631040,
       "num": 1100966,
       "word": "中国男足等了整整22年",
@@ -427,12 +435,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 418258,
+      "num": 898111,
+      "word": "联合国警告水破产时代已来临",
+      "onboard_time": 1769004623,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 415390,
       "num": 415390,
       "word": "美国博主直呼中国才是理想中的家",
       "onboard_time": 1768967359,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 414408,
+      "num": 224004,
+      "word": "王楚然 演恶女我这张脸还用演吗",
+      "onboard_time": 1769006782,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 414367,
@@ -499,14 +523,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 385430,
-      "num": 896292,
-      "word": "联合国警告水破产时代已来临",
-      "onboard_time": 1769004623,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 384893,
       "num": 384893,
       "word": "王昭君新皮肤长夜焕生",
@@ -569,6 +585,14 @@
       "onboard_time": 1768963219,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 355753,
+      "num": 175656,
+      "word": "刘宪华和暮光之城男主同框",
+      "onboard_time": 1769006663,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 350526,
@@ -665,14 +689,6 @@
       "onboard_time": 1768988000,
       "rank": 9,
       "category": "美食"
-    },
-    {
-      "raw_hot": 316493,
-      "num": 224004,
-      "word": "王楚然 演恶女我这张脸还用演吗",
-      "onboard_time": 1769006782,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 313579,
@@ -851,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 272059,
+      "num": 272059,
+      "word": "微博之夜门票",
+      "onboard_time": 1769006901,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 271052,
       "num": 172205,
       "word": "蔡徐坤 快来了",
@@ -971,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233541,
+      "num": 233541,
+      "word": "迪奥大秀",
+      "onboard_time": 1769006481,
+      "rank": 6,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 229805,
       "num": 229805,
       "word": "素人和荤人的区别",
@@ -985,14 +1017,6 @@
       "onboard_time": 1768957640,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 224548,
-      "num": 224548,
-      "word": "迪奥大秀",
-      "onboard_time": 1769006481,
-      "rank": 6,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 224243,
@@ -1051,14 +1075,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 201157,
-      "num": 201157,
-      "word": "微博之夜门票",
-      "onboard_time": 1769006901,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 200930,
       "num": 200930,
       "word": "张子枫穿走了周遇安的裤子",
@@ -1073,14 +1089,6 @@
       "onboard_time": 1768979479,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 200148,
-      "num": 161297,
-      "word": "刘宪华和暮光之城男主同框",
-      "onboard_time": 1769006663,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 199989,
@@ -1235,6 +1243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178447,
+      "num": 178447,
+      "word": "特朗普称上周获取5000万桶原油",
+      "onboard_time": 1769007321,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 178227,
       "num": 178227,
       "word": "慕胥辞",
@@ -1273,6 +1289,22 @@
       "onboard_time": 1768965260,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173102,
+      "num": 173102,
+      "word": "徐冬冬 谁送礼就请谁回家",
+      "onboard_time": 1769007500,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 172745,
+      "num": 172745,
+      "word": "没想到小城大事居然播不过轧戏",
+      "onboard_time": 1769007801,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 172419,
@@ -1395,6 +1427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162501,
+      "num": 105005,
+      "word": "周震南 一天瘦一斤",
+      "onboard_time": 1769009301,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161865,
       "num": 161865,
       "word": "范丞丞 平板一滴泪受害者",
@@ -1480,6 +1520,14 @@
       "word": "今天将是杭州最干净的一天",
       "onboard_time": 1768920683,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149771,
+      "num": 149771,
+      "word": "800元一个的粉菠萝半月卖近100件",
+      "onboard_time": 1769008582,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -1577,14 +1625,6 @@
       "onboard_time": 1769002762,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141728,
-      "num": 141728,
-      "word": "特朗普称上周获取5000万桶原油",
-      "onboard_time": 1769007321,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 140935,
@@ -1987,6 +2027,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 111307,
+      "num": 111307,
+      "word": "黑白颠周媛付费课收入已超2400万",
+      "onboard_time": 1769008401,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111274,
       "num": 111274,
       "word": "重返狼群导演透露李微漪近况",
@@ -2017,6 +2065,14 @@
       "onboard_time": 1769001981,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110436,
+      "num": 102190,
+      "word": "徐明浩 别着急我签完你的签你的",
+      "onboard_time": 1769008941,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 110112,
@@ -2129,6 +2185,14 @@
       "onboard_time": 1769007321,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 104316,
+      "num": 104316,
+      "word": "美航母战斗群已穿过马六甲海峡",
+      "onboard_time": 1769009361,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 104220,
@@ -2355,12 +2419,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97676,
+      "num": 97676,
+      "word": "张极晒爬山照",
+      "onboard_time": 1769008761,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97410,
       "num": 97410,
       "word": "A股芯片产业链爆发",
       "onboard_time": 1768977560,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 97178,
+      "num": 97178,
+      "word": "惠英红陈都灵胡一天合照",
+      "onboard_time": 1769009780,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 97154,
@@ -2643,6 +2723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88122,
+      "num": 88122,
+      "word": "代旭在拍秦谜",
+      "onboard_time": 1769008401,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87529,
       "num": 87529,
       "word": "爱奇艺实行收入分账模式",
@@ -2788,7 +2876,7 @@
     },
     {
       "raw_hot": 84869,
-      "num": 84869,
+      "num": 105983,
       "word": "现货黄金短线下挫40美元",
       "onboard_time": 1769007264,
       "rank": 49,
@@ -2961,6 +3049,14 @@
       "onboard_time": 1769004682,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 78924,
+      "num": 78924,
+      "word": "刘宪华扛住了外媒镜头",
+      "onboard_time": 1769009841,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 78390,
@@ -3315,6 +3411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52837,
+      "num": 159839,
+      "word": "中国移动多地线下营业厅开卖保险",
+      "onboard_time": 1769007201,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52457,
       "num": 145741,
       "word": "偷玉米引发的血案受害人女儿求重判",
@@ -3425,6 +3529,14 @@
       "onboard_time": 1768918822,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 45051,
+      "num": 110751,
+      "word": "女子牵绳遛狗遭殴打警方已介入",
+      "onboard_time": 1769009061,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44747,
@@ -3617,6 +3729,14 @@
       "onboard_time": 1768913781,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32183,
+      "num": 177340,
+      "word": "欧洲议会暂缓批准欧美贸易协议",
+      "onboard_time": 1769009000,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32180,
@@ -3849,14 +3969,6 @@
       "onboard_time": 1768978099,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 12386,
-      "num": 159839,
-      "word": "中国移动多地线下营业厅开卖保险",
-      "onboard_time": 1769007201,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11514,

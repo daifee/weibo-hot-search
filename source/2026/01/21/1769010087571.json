@@ -1,0 +1,410 @@
+{
+  "runTime": 1769010087571,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1326193,
+        "num": 1326193,
+        "word": "杜涛面相都变了",
+        "onboard_time": 1769000600,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 418258,
+        "num": 898111,
+        "word": "联合国警告水破产时代已来临",
+        "onboard_time": 1769004623,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42638,
+        "num": 711006,
+        "word": "2026春运2月2日开始",
+        "onboard_time": 1769002041,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 300932,
+        "num": 300932,
+        "word": "历年央八收视率排名",
+        "onboard_time": 1769004503,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276458,
+        "num": 276458,
+        "word": "交警回应女子作不雅手势被后车撞击",
+        "onboard_time": 1769004202,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272059,
+        "num": 272059,
+        "word": "微博之夜门票",
+        "onboard_time": 1769006901,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 257828,
+        "num": 257828,
+        "word": "爱吃鸭头的人天塌了",
+        "onboard_time": 1769000002,
+        "rank": 6,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 233541,
+        "num": 233541,
+        "word": "迪奥大秀",
+        "onboard_time": 1769006481,
+        "rank": 7,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 178447,
+        "num": 178447,
+        "word": "特朗普称上周获取5000万桶原油",
+        "onboard_time": 1769007321,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32183,
+        "num": 177340,
+        "word": "欧洲议会暂缓批准欧美贸易协议",
+        "onboard_time": 1769009000,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 414408,
+        "num": 176077,
+        "word": "王楚然 演恶女我这张脸还用演吗",
+        "onboard_time": 1769006782,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355753,
+        "num": 175656,
+        "word": "刘宪华和暮光之城男主同框",
+        "onboard_time": 1769006663,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166367,
+        "num": 174189,
+        "word": "拼多多受到处罚",
+        "onboard_time": 1768983021,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 173102,
+        "num": 173102,
+        "word": "徐冬冬 谁送礼就请谁回家",
+        "onboard_time": 1769007500,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172745,
+        "num": 172745,
+        "word": "没想到小城大事居然播不过轧戏",
+        "onboard_time": 1769007801,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149771,
+        "num": 149771,
+        "word": "800元一个的粉菠萝半月卖近100件",
+        "onboard_time": 1769008582,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120520,
+        "num": 120520,
+        "word": "男子15年为妻女购金现估价超170万",
+        "onboard_time": 1769000362,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111307,
+        "num": 111307,
+        "word": "黑白颠周媛付费课收入已超2400万",
+        "onboard_time": 1769008401,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45684,
+        "num": 111172,
+        "word": "Dior男装秀星光直拍",
+        "onboard_time": 1769006002,
+        "rank": 18,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 45051,
+        "num": 110751,
+        "word": "女子牵绳遛狗遭殴打警方已介入",
+        "onboard_time": 1769009061,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 637761,
+        "num": 109811,
+        "word": "戚薇女儿Luvky转眼长成大姑娘啦",
+        "onboard_time": 1769008641,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537469,
+        "num": 109576,
+        "word": "昀牵孟绕",
+        "onboard_time": 1769003600,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 381430,
+        "num": 109196,
+        "word": "美国现在连尸体脂肪都不放过",
+        "onboard_time": 1768984341,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 275435,
+        "num": 108761,
+        "word": "程序员猝死抢救时曾被拉工作群",
+        "onboard_time": 1768998022,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184690,
+        "num": 108211,
+        "word": "32岁程序员周末晕倒后猝死",
+        "onboard_time": 1769000181,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179835,
+        "num": 107642,
+        "word": "王俊凯 还好我先出道了",
+        "onboard_time": 1768995802,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166064,
+        "num": 107274,
+        "word": "王鹤棣 我是王嘉尔",
+        "onboard_time": 1769000902,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141583,
+        "num": 106678,
+        "word": "9岁男童托管期间坠入排污井身亡",
+        "onboard_time": 1769002582,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58208,
+        "num": 105983,
+        "word": "现货黄金短线下挫40美元",
+        "onboard_time": 1769007264,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 57693,
+        "num": 105414,
+        "word": "国投白银LOF1月22日停牌至收市",
+        "onboard_time": 1769004623,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 162501,
+        "num": 105005,
+        "word": "周震南 一天瘦一斤",
+        "onboard_time": 1769009301,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128983,
+        "num": 104376,
+        "word": "王伊瑶不愧是赵丽颖的嫡长闺",
+        "onboard_time": 1769002881,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104316,
+        "num": 104316,
+        "word": "美航母战斗群已穿过马六甲海峡",
+        "onboard_time": 1769009361,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120030,
+        "num": 102301,
+        "word": "邓超 我能签鹿晗的签名照吗",
+        "onboard_time": 1769000540,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110436,
+        "num": 102190,
+        "word": "徐明浩 别着急我签完你的签你的",
+        "onboard_time": 1769008941,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99961,
+        "num": 99961,
+        "word": "黑草莓",
+        "onboard_time": 1768988000,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 97676,
+        "num": 97676,
+        "word": "张极晒爬山照",
+        "onboard_time": 1769008761,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56364,
+        "num": 97340,
+        "word": "留学生揭穿9层楼积雪骗局",
+        "onboard_time": 1768983201,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97284,
+        "num": 97284,
+        "word": "晚上最好的运动提升阳气",
+        "onboard_time": 1769004202,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 97178,
+        "num": 97178,
+        "word": "惠英红陈都灵胡一天合照",
+        "onboard_time": 1769009780,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95615,
+        "num": 95615,
+        "word": "剧方在协调刘亦菲李现档期",
+        "onboard_time": 1769005281,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 385725,
+        "num": 94694,
+        "word": "赖冠霖回应退圈",
+        "onboard_time": 1768997240,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83201,
+        "num": 93661,
+        "word": "iG对战TES",
+        "onboard_time": 1769001682,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93086,
+        "num": 93086,
+        "word": "赵丽颖置顶了李秋萍和奶奶",
+        "onboard_time": 1769005882,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88122,
+        "num": 88122,
+        "word": "代旭在拍秦谜",
+        "onboard_time": 1769008401,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80762,
+        "num": 80762,
+        "word": "官方通报少年遭生父继母虐待离世",
+        "onboard_time": 1769006663,
+        "rank": 45,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 82765,
+        "num": 80322,
+        "word": "去有风的地方或将拍第二季",
+        "onboard_time": 1768995261,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78924,
+        "num": 78924,
+        "word": "刘宪华扛住了外媒镜头",
+        "onboard_time": 1769009841,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77628,
+        "num": 77628,
+        "word": "官方通报一婴儿身上有多处针眼",
+        "onboard_time": 1769005942,
+        "rank": 48,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 52837,
+        "num": 76442,
+        "word": "中国移动多地线下营业厅开卖保险",
+        "onboard_time": 1769007201,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新年第一课习近平这样强调#"
+    }
+  }
+}
