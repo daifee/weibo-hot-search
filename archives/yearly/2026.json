@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768981869823,
+  "endTime": 1768984895219,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -473,6 +473,14 @@
       "onboard_time": 1768477642,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1571390,
+      "num": 1571390,
+      "word": "拼多多受到处罚",
+      "onboard_time": 1768983021,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 1563752,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768893440,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 762482,
-      "num": 830252,
-      "word": "微博之夜",
-      "onboard_time": 1767249260,
-      "rank": 31,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
