@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768974810792,
+  "endTime": 1768978113392,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -395,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 817783,
+      "num": 221103,
+      "word": "白鹿吃烤肉经纪人在旁边急死了",
+      "onboard_time": 1768974860,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 813179,
       "num": 317184,
       "word": "嫣然医院 唇腭裂治疗",
@@ -593,6 +601,14 @@
       "onboard_time": 1768748062,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 676926,
+      "num": 218760,
+      "word": "鹿晗出发录五哈",
+      "onboard_time": 1768975939,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 676016,
@@ -891,12 +907,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 560007,
+      "num": 211458,
+      "word": "女子回应怀孕暴涨45斤被迫辞职",
+      "onboard_time": 1768974919,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 552419,
       "num": 164269,
       "word": "章昊开通微博",
       "onboard_time": 1768739062,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 549397,
+      "num": 549397,
+      "word": "山上彻也哥哥自杀后萌生报复念头",
+      "onboard_time": 1768973962,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 546140,
@@ -1019,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 515024,
+      "num": 515024,
+      "word": "双休可以是一周的任意两天",
+      "onboard_time": 1768974740,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 511360,
       "num": 199429,
       "word": "李亚鹏说嫣儿像王菲不像自己",
@@ -1137,6 +1177,14 @@
       "onboard_time": 1768822582,
       "rank": 25,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 469854,
+      "num": 773209,
+      "word": "盒马客服回应虾煮熟后渗出蓝色液体",
+      "onboard_time": 1768973361,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 467200,
@@ -1337,6 +1385,14 @@
       "onboard_time": 1768884022,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 422490,
+      "num": 520630,
+      "word": "代旭 猫的树你把我拍得好美啊",
+      "onboard_time": 1768974561,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 422204,
@@ -1641,6 +1697,14 @@
       "onboard_time": 1768891882,
       "rank": 43,
       "category": "网红"
+    },
+    {
+      "raw_hot": 367439,
+      "num": 367439,
+      "word": "10元一斤草莓和300元一斤草莓区别",
+      "onboard_time": 1768976421,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 367419,
@@ -2043,14 +2107,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 306302,
-      "num": 306302,
-      "word": "盒马客服回应虾煮熟后渗出蓝色液体",
-      "onboard_time": 1768973361,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 306211,
       "num": 306211,
       "word": "长生FMVP皮肤即将上线",
@@ -2435,6 +2491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261227,
+      "num": 261227,
+      "word": "车厘子降价后黑草莓成水果新贵",
+      "onboard_time": 1768976480,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
       "raw_hot": 260932,
       "num": 260932,
       "word": "特朗普发登上格陵兰岛图",
@@ -2643,6 +2707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238367,
+      "num": 207758,
+      "word": "下雪 卖霉豆腐",
+      "onboard_time": 1768976540,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 237344,
       "num": 584924,
       "word": "慕胥辞",
@@ -2779,6 +2851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 231588,
+      "num": 197769,
+      "word": "蒋欣 你妈妈也在评论区",
+      "onboard_time": 1768977260,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231305,
       "num": 231305,
       "word": "学校已经发展成这样了吗",
@@ -2881,6 +2961,14 @@
       "onboard_time": 1768954219,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 224059,
+      "num": 224059,
+      "word": "王昭君新皮肤长夜焕生",
+      "onboard_time": 1768977500,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 222375,
@@ -3411,6 +3499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197226,
+      "num": 197226,
+      "word": "李亚鹏曾检查出有淋巴癌",
+      "onboard_time": 1768973120,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197126,
       "num": 197126,
       "word": "吴京说镖人或是最后的武林盛宴",
@@ -3851,12 +3947,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176011,
-      "num": 151366,
-      "word": "李亚鹏曾检查出有淋巴癌",
-      "onboard_time": 1768973120,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 176107,
+      "num": 201805,
+      "word": "韩国前总理韩德洙被判23年",
+      "onboard_time": 1768976300,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 175712,
@@ -3977,6 +4073,14 @@
       "onboard_time": 1768731563,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170425,
+      "num": 170425,
+      "word": "张远今年不上春晚都因为王栎鑫",
+      "onboard_time": 1768976901,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 170231,
@@ -4347,14 +4451,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 157023,
-      "num": 157023,
-      "word": "山上彻也哥哥自杀后萌生报复念头",
-      "onboard_time": 1768973962,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 156913,
       "num": 156913,
       "word": "第五人格",
@@ -4683,6 +4779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146945,
+      "num": 146945,
+      "word": "QQ回应谢娜假QQ号",
+      "onboard_time": 1768977020,
+      "rank": 22,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 146821,
       "num": 133975,
       "word": "陈哲远妈生颜霸",
@@ -4777,6 +4881,14 @@
       "onboard_time": 1768813221,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144886,
+      "num": 114210,
+      "word": "原来方圆脸这么好出片",
+      "onboard_time": 1768977020,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 144562,
@@ -5347,6 +5459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129874,
+      "num": 129874,
+      "word": "ELLE 影视创作须回归本源",
+      "onboard_time": 1768976239,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 129762,
       "num": 138786,
       "word": "贺峻霖力证不是AI",
@@ -5467,6 +5587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126728,
+      "num": 126728,
+      "word": "2010快男聚餐",
+      "onboard_time": 1768976061,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126695,
       "num": 119069,
       "word": "年上的魅力来自于禁欲的克制",
@@ -5553,6 +5681,14 @@
       "onboard_time": 1768742723,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125433,
+      "num": 131979,
+      "word": "金店店员对金价飙涨已麻木",
+      "onboard_time": 1768973240,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 125414,
@@ -5793,14 +5929,6 @@
       "onboard_time": 1768713141,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120909,
-      "num": 120909,
-      "word": "代旭 猫的树你把我拍得好美啊",
-      "onboard_time": 1768974561,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 120835,
@@ -6099,6 +6227,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 116928,
+      "num": 113274,
+      "word": "王楚然顶着满头蝴蝶结",
+      "onboard_time": 1768977680,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116834,
       "num": 98984,
       "word": "虞书欣云初令琉璃清冷",
@@ -6249,6 +6385,14 @@
       "onboard_time": 1768950738,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114526,
+      "num": 114526,
+      "word": "国足",
+      "onboard_time": 1768975342,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 114512,
@@ -6497,14 +6641,6 @@
       "onboard_time": 1768886001,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110423,
-      "num": 110423,
-      "word": "双休可以是一周的任意两天",
-      "onboard_time": 1768974740,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 110324,
@@ -6801,6 +6937,14 @@
       "onboard_time": 1768830983,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106448,
+      "num": 106448,
+      "word": "自由的小猫不叫流浪猫",
+      "onboard_time": 1768977860,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 106435,
@@ -7137,14 +7281,6 @@
       "onboard_time": 1768969041,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102961,
-      "num": 102961,
-      "word": "金店店员对金价飙涨已麻木",
-      "onboard_time": 1768973240,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 102766,
@@ -7499,6 +7635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98510,
+      "num": 98510,
+      "word": "周翊然胖15斤又瘦10斤",
+      "onboard_time": 1768975100,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98443,
       "num": 98443,
       "word": "国乒多哈球挑赛1冠2亚",
@@ -7843,6 +7987,14 @@
       "category": "民生新闻,汽车"
     },
     {
+      "raw_hot": 94821,
+      "num": 94821,
+      "word": "代旭晒照告别裴轸",
+      "onboard_time": 1768976720,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94740,
       "num": 94740,
       "word": "重返狼群",
@@ -8155,6 +8307,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92226,
+      "num": 92226,
+      "word": "A股芯片产业链爆发",
+      "onboard_time": 1768977560,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 92197,
+      "num": 92196,
+      "word": "任豪认错林青霞",
+      "onboard_time": 1768977140,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92140,
       "num": 92140,
       "word": "你是邵子恒那他是谁",
@@ -8355,6 +8523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 90665,
+      "num": 90665,
+      "word": "猫咖的下沉市场",
+      "onboard_time": 1768975100,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 90625,
       "num": 98846,
       "word": "欲宇还羞同居",
@@ -8529,6 +8705,14 @@
       "onboard_time": 1768974140,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88763,
+      "num": 88763,
+      "word": "无限暖暖九色万相生",
+      "onboard_time": 1768976300,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 88709,
@@ -8755,6 +8939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 86971,
+      "num": 86971,
+      "word": "QQ提醒警惕明星仿冒类诈骗",
+      "onboard_time": 1768978040,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 86853,
       "num": 90189,
       "word": "年缩力拉满的年货",
@@ -8947,6 +9139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85467,
+      "num": 85467,
+      "word": "55克金镯开年已涨7700元",
+      "onboard_time": 1768974681,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 85441,
       "num": 138629,
       "word": "男子随身带手铐强奸5未成年获刑",
@@ -8995,12 +9195,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85191,
+      "num": 85191,
+      "word": "为何国产剧再难诞生孟宴臣",
+      "onboard_time": 1768977980,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85132,
       "num": 85132,
       "word": "银川地震",
       "onboard_time": 1768777758,
       "rank": 15,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 85035,
+      "num": 85711,
+      "word": "肖战严知度戏里戏外反差太好哭",
+      "onboard_time": 1768976661,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 84831,
@@ -9049,6 +9265,14 @@
       "onboard_time": 1768902618,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84473,
+      "num": 84473,
+      "word": "湖人战胜掘金",
+      "onboard_time": 1768975100,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 84418,
@@ -9136,14 +9360,6 @@
       "word": "茶颜悦色回应在北上深开店传闻",
       "onboard_time": 1768753700,
       "rank": 41,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 83876,
-      "num": 83876,
-      "word": "55克金镯开年已涨7700元",
-      "onboard_time": 1768974681,
-      "rank": 47,
       "category": "财经"
     },
     {
@@ -10329,6 +10545,14 @@
       "onboard_time": 1768921280,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 68213,
+      "num": 92197,
+      "word": "外来媳妇本地郎剧组重聚",
+      "onboard_time": 1768976901,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 68138,
@@ -11521,6 +11745,14 @@
       "onboard_time": 1768693097,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 35428,
+      "num": 91760,
+      "word": "10月大男婴被母亲扎针视频已删除",
+      "onboard_time": 1768977620,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35243,
