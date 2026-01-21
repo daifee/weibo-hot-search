@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1768952708351,
+  "endTime": 1768961665481,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1059,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1072723,
+      "num": 601744,
+      "word": "野狗骨头",
+      "onboard_time": 1767243982,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1072301,
       "num": 463828,
       "word": "特朗普称美将管理委直至安全过渡",
@@ -1160,6 +1168,14 @@
       "word": "河南一教师与学生发生不正当关系",
       "onboard_time": 1768395320,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1038253,
+      "num": 204834,
+      "word": "牢A",
+      "onboard_time": 1768798763,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -2092,7 +2108,7 @@
     },
     {
       "raw_hot": 808125,
-      "num": 82877,
+      "num": 133723,
       "word": "贝克汉姆儿媳快哭了",
       "onboard_time": 1768951098,
       "rank": 20,
@@ -2209,6 +2225,14 @@
       "onboard_time": 1767943340,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 782430,
+      "num": 166436,
+      "word": "上班是法务下班是偷车厘子惯犯",
+      "onboard_time": 1768954821,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 778870,
@@ -2376,30 +2400,6 @@
       "word": "多名半裸男模在商场走秀被质疑擦边",
       "onboard_time": 1767869181,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 745324,
-      "num": 311601,
-      "word": "龙麦 接二搭",
-      "onboard_time": 1767533183,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 744779,
-      "num": 981643,
-      "word": "张杰歌迷会 愿我们莫忘来时路",
-      "onboard_time": 1767270862,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 744617,
-      "num": 135930,
-      "word": "小洛熙案今日开庭",
-      "onboard_time": 1768786880,
-      "rank": 20,
       "category": "民生新闻"
     }
   ],

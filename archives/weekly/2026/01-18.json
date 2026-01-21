@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1768952708351,
+  "endTime": 1768961665481,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -155,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1072723,
+      "num": 601744,
+      "word": "野狗骨头",
+      "onboard_time": 1768951278,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1059339,
       "num": 419960,
       "word": "吴磊工作室严正声明",
@@ -176,6 +184,14 @@
       "word": "5名外卖员将手指砸骨折骗保32万",
       "onboard_time": 1768743504,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1038253,
+      "num": 204834,
+      "word": "牢A",
+      "onboard_time": 1768798763,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -340,7 +356,7 @@
     },
     {
       "raw_hot": 808125,
-      "num": 82877,
+      "num": 133723,
       "word": "贝克汉姆儿媳快哭了",
       "onboard_time": 1768951098,
       "rank": 20,
@@ -377,6 +393,14 @@
       "onboard_time": 1768909941,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 782430,
+      "num": 166436,
+      "word": "上班是法务下班是偷车厘子惯犯",
+      "onboard_time": 1768954821,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 772814,
@@ -528,6 +552,14 @@
       "word": "中国乒协确认国家队教练员名单",
       "onboard_time": 1768901841,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 667965,
+      "num": 164976,
+      "word": "马龙在飞机上第一次看到极光",
+      "onboard_time": 1768959018,
+      "rank": 11,
       "category": "体育"
     },
     {
@@ -731,14 +763,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 580006,
-      "num": 204834,
-      "word": "牢A",
-      "onboard_time": 1768798763,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 576808,
       "num": 295292,
       "word": "宋威龙庆功宴造型",
@@ -843,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 531610,
+      "num": 163971,
+      "word": "贝克汉姆回应大儿子控诉",
+      "onboard_time": 1768958479,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 531210,
       "num": 531210,
       "word": "用芥末泡虾虾线都快吐出来了",
@@ -905,6 +937,14 @@
       "onboard_time": 1768886360,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 505868,
+      "num": 1080938,
+      "word": "中国男足等了整整22年",
+      "onboard_time": 1768957880,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 505401,
@@ -1603,6 +1643,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 350279,
+      "num": 223921,
+      "word": "这才是真的俩魔丸生了个灵珠",
+      "onboard_time": 1768958240,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 346415,
       "num": 346415,
       "word": "在巴厘岛确诊脏水病",
@@ -2001,6 +2049,14 @@
       "onboard_time": 1768912700,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 282855,
+      "num": 129262,
+      "word": "老人不舍开空调儿子将遥控器带走",
+      "onboard_time": 1768956320,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 281502,
@@ -2436,7 +2492,7 @@
     },
     {
       "raw_hot": 234008,
-      "num": 80472,
+      "num": 128183,
       "word": "女生怀孕后体重暴涨45斤",
       "onboard_time": 1768950738,
       "rank": 22,
@@ -2593,6 +2649,14 @@
       "onboard_time": 1768735462,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224243,
+      "num": 224243,
+      "word": "导演回应狼王格林是否安好",
+      "onboard_time": 1768954219,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 222375,
@@ -2865,6 +2929,14 @@
       "onboard_time": 1768802543,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207513,
+      "num": 207513,
+      "word": "安倍遇刺案今天宣判",
+      "onboard_time": 1768955600,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 206904,
@@ -3307,6 +3379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187981,
+      "num": 162701,
+      "word": "周柯宇直播五排",
+      "onboard_time": 1768956022,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187685,
       "num": 187685,
       "word": "周星驰三次邀请梁小龙演火云邪神",
@@ -3387,6 +3467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184028,
+      "num": 184028,
+      "word": "拳打拜合拉木球员道歉",
+      "onboard_time": 1768957640,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183994,
       "num": 98814,
       "word": "周杰伦47岁了",
@@ -3419,6 +3507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180385,
+      "num": 180385,
+      "word": "金价突破4800美元",
+      "onboard_time": 1768960519,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 179348,
       "num": 144601,
       "word": "道歉变处刑道德正义不等于合法判断",
@@ -3433,6 +3529,14 @@
       "onboard_time": 1768790422,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 178848,
+      "num": 161239,
+      "word": "LV大秀放了王嘉尔新歌",
+      "onboard_time": 1768961001,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 178179,
@@ -4067,14 +4171,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 152149,
-      "num": 152149,
-      "word": "野狗骨头",
-      "onboard_time": 1768951278,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152060,
       "num": 146884,
       "word": "财务看演唱会通病",
@@ -4625,6 +4721,14 @@
       "onboard_time": 1768738942,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136791,
+      "num": 136791,
+      "word": "金饰价涨到1495元",
+      "onboard_time": 1768959739,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 136576,
@@ -5259,6 +5363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121883,
+      "num": 121883,
+      "word": "U23越南主帅说中国换阵措手不及",
+      "onboard_time": 1768955780,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121771,
       "num": 109103,
       "word": "U23国足vs越南首发",
@@ -5459,6 +5571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118522,
+      "num": 118522,
+      "word": "裴轸事业没了",
+      "onboard_time": 1768952839,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118480,
       "num": 118480,
       "word": "黄子韬刘耀文俩人吃饭跟打架一样",
@@ -5609,6 +5729,14 @@
       "onboard_time": 1768797623,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116357,
+      "num": 116357,
+      "word": "李秋萍主动求婚被拒绝",
+      "onboard_time": 1768959500,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 116318,
@@ -6571,6 +6699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102250,
+      "num": 102250,
+      "word": "白卓璇vs萨巴伦卡",
+      "onboard_time": 1768960159,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101996,
       "num": 100367,
       "word": "文俊辉满30减15",
@@ -6601,6 +6737,14 @@
       "onboard_time": 1768898542,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101551,
+      "num": 101551,
+      "word": "伊朗声援阿富汗和中国",
+      "onboard_time": 1768959439,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 101480,
@@ -7627,6 +7771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 90448,
+      "num": 90448,
+      "word": "女子零下30度洗车秒变冰糖小汽车",
+      "onboard_time": 1768953679,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90447,
       "num": 86822,
       "word": "陈丽君骑马射箭太帅了",
@@ -7649,6 +7801,14 @@
       "onboard_time": 1768798704,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89921,
+      "num": 89921,
+      "word": "巴黎男装周",
+      "onboard_time": 1768961119,
+      "rank": 37,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 89839,
@@ -7729,6 +7889,14 @@
       "onboard_time": 1768819101,
       "rank": 19,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 88866,
+      "num": 88866,
+      "word": "南北方同步赏雪了",
+      "onboard_time": 1768960519,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88709,
@@ -7968,6 +8136,14 @@
       "word": "云初令",
       "onboard_time": 1768812261,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 86687,
+      "num": 86687,
+      "word": "野狗骨头剧本",
+      "onboard_time": 1768955901,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -8547,6 +8723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80303,
+      "num": 80303,
+      "word": "减肥必须要记住的4个时间点",
+      "onboard_time": 1768951818,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 80284,
       "num": 80284,
       "word": "喉咙痛可以吃雪糕缓解吗",
@@ -8627,6 +8811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79350,
+      "num": 79350,
+      "word": "范丞丞直播",
+      "onboard_time": 1768957401,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79348,
       "num": 79348,
       "word": "赵今麦眼眶都是湿润的",
@@ -8641,6 +8833,14 @@
       "onboard_time": 1768875679,
       "rank": 43,
       "category": "财经,休闲"
+    },
+    {
+      "raw_hot": 79189,
+      "num": 79189,
+      "word": "加拿大模拟美国入侵防线2天溃败",
+      "onboard_time": 1768961419,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 79068,
@@ -8707,6 +8907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78237,
+      "num": 78237,
+      "word": "云旗郝熠然红秀",
+      "onboard_time": 1768959919,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78186,
       "num": 86665,
       "word": "金饰克价突破1459元",
@@ -8737,6 +8945,14 @@
       "onboard_time": 1768644441,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77623,
+      "num": 77623,
+      "word": "苏醒预测U23国足晋级决赛",
+      "onboard_time": 1768960039,
+      "rank": 45,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 77608,
@@ -8987,6 +9203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74983,
+      "num": 74983,
+      "word": "贝克汉姆儿子",
+      "onboard_time": 1768955420,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74803,
       "num": 74803,
       "word": "冬季冻伤皮肤发白发麻",
@@ -9139,6 +9363,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72235,
+      "num": 72235,
+      "word": "放假回家的稳定收入",
+      "onboard_time": 1768958660,
+      "rank": 47,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 71874,
+      "num": 71874,
+      "word": "丹麦称主权领土不容谈判",
+      "onboard_time": 1768961360,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 71826,
       "num": 71826,
       "word": "乒乓球欧冠联赛",
@@ -9152,6 +9392,14 @@
       "word": "本轮寒潮与08年冰灾范围相似",
       "onboard_time": 1768660584,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71672,
+      "num": 71672,
+      "word": "太冷了动物园大猩猩给自己裹被子",
+      "onboard_time": 1768961119,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -9465,14 +9713,6 @@
       "onboard_time": 1768665141,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66176,
-      "num": 66176,
-      "word": "减肥必须要记住的4个时间点",
-      "onboard_time": 1768951818,
-      "rank": 37,
-      "category": "运动健身"
     },
     {
       "raw_hot": 66171,
@@ -10481,6 +10721,14 @@
       "onboard_time": 1768913781,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37230,
+      "num": 161505,
+      "word": "国足队员说再赢一场就回家",
+      "onboard_time": 1768961119,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 36980,
