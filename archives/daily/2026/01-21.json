@@ -1,6 +1,6 @@
 {
   "startTime": 1768927470754,
-  "endTime": 1768985816102,
+  "endTime": 1768988484262,
   "band_list": [
     {
       "raw_hot": 2487537,
@@ -105,6 +105,14 @@
       "onboard_time": 1768974860,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 853234,
+      "num": 853234,
+      "word": "告白",
+      "onboard_time": 1768979960,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 835931,
@@ -363,6 +371,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 394934,
+      "num": 174368,
+      "word": "王大陆和女友不认罪",
+      "onboard_time": 1768985841,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 388814,
       "num": 388814,
       "word": "愤怒的小鸟CEO感谢中国玩家",
@@ -435,6 +451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 349847,
+      "num": 189711,
+      "word": "留几手阴阳阿爆",
+      "onboard_time": 1768985600,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 339279,
       "num": 339279,
       "word": "野狗骨头把雌竞改成了惺惺相惜",
@@ -475,14 +499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 322461,
-      "num": 322461,
-      "word": "告白",
-      "onboard_time": 1768979960,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 310172,
       "num": 310172,
       "word": "HR讽刺求职者本科学历不配双休",
@@ -505,6 +521,14 @@
       "onboard_time": 1768966401,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 299469,
+      "num": 244260,
+      "word": "火锅最后一个吃什么菜收尾",
+      "onboard_time": 1768981880,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 298108,
@@ -595,6 +619,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 263956,
+      "num": 179023,
+      "word": "建议不要有外卖羞耻症",
+      "onboard_time": 1768986020,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 263743,
+      "num": 263743,
+      "word": "王者四美FMVP皮肤四缺一",
+      "onboard_time": 1768986440,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 262868,
       "num": 262868,
       "word": "云旗郝熠然红秀",
@@ -667,14 +707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213209,
-      "num": 213209,
-      "word": "火锅最后一个吃什么菜收尾",
-      "onboard_time": 1768981880,
-      "rank": 27,
-      "category": "美食"
-    },
-    {
       "raw_hot": 210370,
       "num": 210370,
       "word": "国乒2025获6个世界冠军",
@@ -737,14 +769,6 @@
       "onboard_time": 1768973120,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196441,
-      "num": 189711,
-      "word": "留几手阴阳阿爆",
-      "onboard_time": 1768985600,
-      "rank": 15,
-      "category": "网红"
     },
     {
       "raw_hot": 194936,
@@ -867,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172419,
+      "num": 172419,
+      "word": "李亚鹏公布体检结果",
+      "onboard_time": 1768982002,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170875,
       "num": 170875,
       "word": "LV大秀",
@@ -945,14 +977,6 @@
       "onboard_time": 1768974500,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 156955,
-      "num": 156955,
-      "word": "李亚鹏公布体检结果",
-      "onboard_time": 1768982002,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 156176,
@@ -1107,6 +1131,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 137817,
+      "num": 179223,
+      "word": "黑草莓",
+      "onboard_time": 1768988000,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 133633,
       "num": 145176,
       "word": "马克龙说中国在欧洲是受欢迎的",
@@ -1131,8 +1163,16 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 129283,
+      "num": 177691,
+      "word": "留学生揭穿9层楼积雪骗局",
+      "onboard_time": 1768983201,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 129035,
-      "num": 123801,
+      "num": 176677,
       "word": "下可了 可是雪",
       "onboard_time": 1768982600,
       "rank": 34,
@@ -1140,11 +1180,19 @@
     },
     {
       "raw_hot": 127907,
-      "num": 132019,
+      "num": 175679,
       "word": "越南球员痛失106万巨奖埋头跪地",
       "onboard_time": 1768984582,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127522,
+      "num": 127522,
+      "word": "迪丽热巴拼好剧 其实我有四个男朋友",
+      "onboard_time": 1768986801,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 127476,
@@ -1177,14 +1225,6 @@
       "onboard_time": 1768982719,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124426,
-      "num": 124426,
-      "word": "留学生揭穿9层楼积雪骗局",
-      "onboard_time": 1768983201,
-      "rank": 41,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 124175,
@@ -1331,8 +1371,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113888,
+      "num": 176388,
+      "word": "95年前后的人意识不到变老了",
+      "onboard_time": 1768987221,
+      "rank": 16,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 113820,
-      "num": 113820,
+      "num": 147171,
       "word": "原来被子的咬合力这么惊人",
       "onboard_time": 1768985481,
       "rank": 33,
@@ -1523,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102477,
+      "num": 175754,
+      "word": "苹果糖",
+      "onboard_time": 1768987403,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 102250,
       "num": 102250,
       "word": "白卓璇vs萨巴伦卡",
@@ -1577,6 +1633,14 @@
       "onboard_time": 1768968921,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 99808,
+      "num": 99808,
+      "word": "内娱短剧把成年人的爱情拍明白了",
+      "onboard_time": 1768985721,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 99335,
@@ -1641,6 +1705,14 @@
       "onboard_time": 1768980199,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96114,
+      "num": 170427,
+      "word": "金价大涨3.71%",
+      "onboard_time": 1768987342,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 95418,
@@ -1771,6 +1843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90407,
+      "num": 127350,
+      "word": "Ning生病住院瘦了14斤",
+      "onboard_time": 1768987282,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 90038,
       "num": 90038,
       "word": "2026金饰克价已经涨了150元",
@@ -1795,11 +1875,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89466,
-      "num": 89466,
-      "word": "内娱短剧把成年人的爱情拍明白了",
-      "onboard_time": 1768985721,
-      "rank": 45,
+      "raw_hot": 89250,
+      "num": 99133,
+      "word": "晚上六点下班已经很晚了",
+      "onboard_time": 1768988302,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 88967,
+      "num": 86537,
+      "word": "看剧名以为是甜剧结果是悬疑剧",
+      "onboard_time": 1768987702,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -1827,6 +1915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 87337,
+      "num": 124494,
+      "word": "欢迎日本民众来中国看大熊猫",
+      "onboard_time": 1768986381,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 87069,
       "num": 87069,
       "word": "白俄罗斯确认加入和平委员会",
@@ -1849,6 +1945,14 @@
       "onboard_time": 1768978040,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 86715,
+      "num": 86715,
+      "word": "中国人用四个字平息一切矛盾",
+      "onboard_time": 1768986141,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 86687,
@@ -1891,6 +1995,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 85356,
+      "num": 122131,
+      "word": "魏大勋男模爆改男大",
+      "onboard_time": 1768988242,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85282,
       "num": 161505,
       "word": "国足队员说再赢一场就回家",
@@ -1929,6 +2041,14 @@
       "onboard_time": 1768962920,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81805,
+      "num": 81805,
+      "word": "鹅鸭杀鸭子失宠了",
+      "onboard_time": 1768988421,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 81369,
@@ -2251,6 +2371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54313,
+      "num": 172940,
+      "word": "以色列罕见与特朗普公开叫板",
+      "onboard_time": 1768987221,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 52457,
       "num": 145741,
       "word": "偷玉米引发的血案受害人女儿求重判",
@@ -2515,6 +2643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30066,
+      "num": 121478,
+      "word": "14岁少年遭生父继母长期虐待离世",
+      "onboard_time": 1768987460,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29453,
       "num": 124057,
       "word": "男子和妻子吵架吵输了怒走30里",
@@ -2681,6 +2817,14 @@
       "onboard_time": 1768909101,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15350,
+      "num": 174927,
+      "word": "男子强奸大嫂再杀人案未当庭宣判",
+      "onboard_time": 1768988000,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13570,
