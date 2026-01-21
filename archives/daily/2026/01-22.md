@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/22 01:03:28 ~ 2026/01/22 03:07:13
+本榜单时间：2026/01/22 01:03:28 ~ 2026/01/22 03:34:43
 </p>
 </blockquote>
 <p>
@@ -388,13 +388,19 @@ iG对战TES（热度：31576）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%8E%8B%E5%98%89%E5%B0%94PROOF%E6%89%8B%E5%8A%BF%E8%88%9E%23" target="weibo">
-檀健次王嘉尔PROOF手势舞（热度：18006）
+檀健次王嘉尔PROOF手势舞（热度：18378）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%AE%BE41%E5%AE%B6%E5%8F%A3%E5%B2%B8%E8%BF%9B%E5%A2%83%E5%85%8D%E7%A8%8E%E5%BA%97%23" target="weibo">
 新设41家口岸进境免税店（热度：14958）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%9F%8E%E5%A4%A7%E4%BA%8B%23" target="weibo">
+小城大事（热度：14726）
 </a>
 </li>
 

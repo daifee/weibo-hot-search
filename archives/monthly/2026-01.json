@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769022433270,
+  "endTime": 1769024083625,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -69875,6 +69875,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 18378,
+      "num": 25890,
+      "word": "檀健次王嘉尔PROOF手势舞",
+      "onboard_time": 1769020155,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18295,
       "num": 59232,
       "word": "高超callback老麦克",
@@ -69913,14 +69921,6 @@
       "onboard_time": 1768207820,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18006,
-      "num": 25890,
-      "word": "檀健次王嘉尔PROOF手势舞",
-      "onboard_time": 1769020155,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 17905,

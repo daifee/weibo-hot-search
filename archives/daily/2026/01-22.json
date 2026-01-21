@@ -1,6 +1,6 @@
 {
   "startTime": 1769015008764,
-  "endTime": 1769022433270,
+  "endTime": 1769024083625,
   "band_list": [
     {
       "raw_hot": 419156,
@@ -499,7 +499,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18006,
+      "raw_hot": 18378,
       "num": 25890,
       "word": "檀健次王嘉尔PROOF手势舞",
       "onboard_time": 1769020155,
@@ -513,6 +513,14 @@
       "onboard_time": 1769001382,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14726,
+      "num": 21596,
+      "word": "小城大事",
+      "onboard_time": 1768995981,
+      "rank": 38,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
