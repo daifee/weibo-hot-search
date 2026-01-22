@@ -1,0 +1,410 @@
+{
+  "runTime": 1769060232939,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 508419,
+        "num": 1081347,
+        "word": "茅台紧急回应马茅印刷错误",
+        "onboard_time": 1769056580,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370698,
+        "num": 773251,
+        "word": "惊蛰无声定档",
+        "onboard_time": 1769048240,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 76630,
+        "num": 616803,
+        "word": "无人机吹雪吹完橘林吹大棚",
+        "onboard_time": 1769054720,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1173371,
+        "num": 537836,
+        "word": "老坛酸菜已经塌无可塌了",
+        "onboard_time": 1769058561,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 382744,
+        "num": 382744,
+        "word": "张艺谋拍的杨幂刘诗诗",
+        "onboard_time": 1769050219,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 351090,
+        "num": 351090,
+        "word": "今年最烂大街的穿搭",
+        "onboard_time": 1769038097,
+        "rank": 5,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 296076,
+        "num": 296076,
+        "word": "时代峰峻惊蛰无声出品方",
+        "onboard_time": 1769056100,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 217155,
+        "num": 217155,
+        "word": "90后体育生卖饺子年入25亿",
+        "onboard_time": 1769056341,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190825,
+        "num": 190825,
+        "word": "王欣瑜vs奥斯塔彭科",
+        "onboard_time": 1769059581,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160800,
+        "num": 160800,
+        "word": "中国航天1天2次受挫应理性看待",
+        "onboard_time": 1769055140,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1501718,
+        "num": 160700,
+        "word": "车银优个人赚了500亿以上",
+        "onboard_time": 1769057841,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344635,
+        "num": 160288,
+        "word": "女子在丈夫瘫痪期间出轨并怀孕",
+        "onboard_time": 1769050400,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262784,
+        "num": 159917,
+        "word": "黄子弘凡鸟巢演唱会定档",
+        "onboard_time": 1769057841,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 261653,
+        "num": 159356,
+        "word": "惊蛰无声全员素颜",
+        "onboard_time": 1769058622,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180792,
+        "num": 158969,
+        "word": "妈妈患癌去世5个月后爸爸确诊癌症",
+        "onboard_time": 1769055381,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 507872,
+        "num": 158473,
+        "word": "车银优涉嫌逃税",
+        "onboard_time": 1769052500,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218669,
+        "num": 158318,
+        "word": "向佐用王一博同名账号开直播",
+        "onboard_time": 1769057241,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77322,
+        "num": 157992,
+        "word": "多所大学停招艺术专业",
+        "onboard_time": 1769059521,
+        "rank": 17,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 28639,
+        "num": 157449,
+        "word": "安徽大学可乐只卖1块7被写进小说",
+        "onboard_time": 1769059641,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21657,
+        "num": 156968,
+        "word": "女干部被留置时实控20多处房产",
+        "onboard_time": 1769059220,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 803779,
+        "num": 156554,
+        "word": "程序员猝死当天5次访问公司OA系统",
+        "onboard_time": 1769048840,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 640612,
+        "num": 156237,
+        "word": "猝死程序员工位上有三块屏幕",
+        "onboard_time": 1769052740,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 573012,
+        "num": 155937,
+        "word": "猝死程序员妻子晒聊天记录令人心碎",
+        "onboard_time": 1769053521,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347063,
+        "num": 155375,
+        "word": "牢A 沈逸",
+        "onboard_time": 1769055020,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327881,
+        "num": 155020,
+        "word": "田曦薇 恶女",
+        "onboard_time": 1769050579,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304055,
+        "num": 154597,
+        "word": "易烊千玺短发",
+        "onboard_time": 1769050760,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154544,
+        "num": 154544,
+        "word": "女子被丈夫弟弟强奸哭泣称太痛苦了",
+        "onboard_time": 1769050039,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278988,
+        "num": 154494,
+        "word": "半个娱乐圈都来滑雪团建了",
+        "onboard_time": 1769058141,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183815,
+        "num": 154128,
+        "word": "镖人",
+        "onboard_time": 1769055741,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153697,
+        "num": 153697,
+        "word": "继承者们剧情照进现实了",
+        "onboard_time": 1769056401,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159806,
+        "num": 153499,
+        "word": "杨紫妆造最浓的一次",
+        "onboard_time": 1769059761,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150273,
+        "num": 150273,
+        "word": "终于学会漂漂亮亮不随份子钱了",
+        "onboard_time": 1769050160,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142952,
+        "num": 142952,
+        "word": "牢A详解糖霜苹果",
+        "onboard_time": 1769055861,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137609,
+        "num": 137609,
+        "word": "冰咖啡和热咖啡差别居然这么大",
+        "onboard_time": 1769056580,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132021,
+        "num": 132021,
+        "word": "考研失败情侣辞职回村7年后翻盘",
+        "onboard_time": 1769046499,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131158,
+        "num": 131158,
+        "word": "惊蛰无声",
+        "onboard_time": 1769048418,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119890,
+        "num": 119890,
+        "word": "12306购票页面有小暗号",
+        "onboard_time": 1769054841,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81864,
+        "num": 119189,
+        "word": "网友回应接手王鹤棣妈妈的油炸店",
+        "onboard_time": 1769059402,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19406,
+        "num": 119142,
+        "word": "男子为报复将村民3岁孙子杀害",
+        "onboard_time": 1769059823,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69471,
+        "num": 119138,
+        "word": "大连一海面密密麻麻全是冻住的鱼",
+        "onboard_time": 1769059402,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119136,
+        "num": 119136,
+        "word": "洗衣机里像紫菜的东西是什么",
+        "onboard_time": 1769059521,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116097,
+        "num": 116097,
+        "word": "俄罗斯愿拨10亿美元给和平委员会",
+        "onboard_time": 1769050039,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113834,
+        "num": 113834,
+        "word": "双休不应成为奢侈品",
+        "onboard_time": 1769050460,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111426,
+        "num": 111426,
+        "word": "嫁金钗阵容官宣",
+        "onboard_time": 1769045960,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106827,
+        "num": 106827,
+        "word": "澳网",
+        "onboard_time": 1769057721,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104137,
+        "num": 104137,
+        "word": "警方回应海滩上女子尸体遭野狗包围",
+        "onboard_time": 1769059341,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103210,
+        "num": 103210,
+        "word": "猝死程序员抢救前仍不忘带上电脑",
+        "onboard_time": 1769056821,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101503,
+        "num": 101503,
+        "word": "攻略苗疆少主定档",
+        "onboard_time": 1769059581,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95556,
+        "num": 95556,
+        "word": "确认被爱后面相全都变了",
+        "onboard_time": 1769056642,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92134,
+        "num": 92134,
+        "word": "杨紫的荧幕初吻居然是霍建华",
+        "onboard_time": 1769054061,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#共赴冰雪春天#"
+    }
+  }
+}
