@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769100257042,
+  "endTime": 1769101303987,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -3859,6 +3859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255335,
+      "num": 181865,
+      "word": "胖东来保洁员月薪9千永辉没学到",
+      "onboard_time": 1769097680,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 255242,
       "num": 168495,
       "word": "华晨宇 我才是快乐男声",
@@ -6041,14 +6049,6 @@
       "onboard_time": 1769037257,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 168126,
-      "num": 181865,
-      "word": "胖东来保洁员月薪9千永辉没学到",
-      "onboard_time": 1769097680,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168003,
@@ -13731,6 +13731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79901,
+      "num": 168336,
+      "word": "香港偶遇戚薇一家坐摩天轮",
+      "onboard_time": 1769097680,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79760,
       "num": 79760,
       "word": "鸡蛋糍粑",
@@ -13921,14 +13929,6 @@
       "onboard_time": 1768712299,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 78522,
-      "num": 168336,
-      "word": "香港偶遇戚薇一家坐摩天轮",
-      "onboard_time": 1769097680,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 78390,
@@ -15267,6 +15267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62071,
+      "num": 167932,
+      "word": "阿爆掉粉近5万",
+      "onboard_time": 1769099478,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 62067,
       "num": 62067,
       "word": "萨尔布吕肯3比0亨尼邦",
@@ -15881,14 +15889,6 @@
       "onboard_time": 1768655001,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48708,
-      "num": 167932,
-      "word": "阿爆掉粉近5万",
-      "onboard_time": 1769099478,
-      "rank": 36,
-      "category": "网红"
     },
     {
       "raw_hot": 48606,
@@ -16625,6 +16625,14 @@
       "onboard_time": 1768727843,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33635,
+      "num": 79721,
+      "word": "侯明昊来安慰小朋友了",
+      "onboard_time": 1769098759,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 33617,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1769101303987,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 190093,
+        "num": 592914,
+        "word": "清华大学拟退学2名博士",
+        "onboard_time": 1769089161,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138022,
+        "num": 441071,
+        "word": "学胖东来的第二年永辉又亏了21亿",
+        "onboard_time": 1769091623,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 20939,
+        "num": 349319,
+        "word": "这才是文化遗产最好的打开方式",
+        "onboard_time": 1769087960,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389002,
+        "num": 344265,
+        "word": "女子被一次性拔牙12颗后心梗休克",
+        "onboard_time": 1769096961,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220075,
+        "num": 220075,
+        "word": "朱志鑫 五哈",
+        "onboard_time": 1769094021,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121761,
+        "num": 121761,
+        "word": "星星人",
+        "onboard_time": 1769091741,
+        "rank": 5,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 107928,
+        "num": 121705,
+        "word": "奥斯卡提名",
+        "onboard_time": 1769090422,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 78385,
+        "num": 121344,
+        "word": "六大行集体发布公告",
+        "onboard_time": 1769085501,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 64796,
+        "num": 121059,
+        "word": "一超市金车厘子一箱2800元",
+        "onboard_time": 1769083640,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64725,
+        "num": 120869,
+        "word": "终末地",
+        "onboard_time": 1769066901,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 255335,
+        "num": 120321,
+        "word": "胖东来保洁员月薪9千永辉没学到",
+        "onboard_time": 1769097680,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186501,
+        "num": 120079,
+        "word": "韩国国旗 车银优",
+        "onboard_time": 1769066660,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151977,
+        "num": 119817,
+        "word": "李昀锐孟子义 分不清是戏里还是戏外",
+        "onboard_time": 1769092941,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119730,
+        "num": 119730,
+        "word": "网红周媛实名主账号被封",
+        "onboard_time": 1769090001,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 119208,
+        "num": 119208,
+        "word": "重返狼群 拖欠稿费",
+        "onboard_time": 1769087001,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 94667,
+        "num": 94667,
+        "word": "黄景瑜 太空旅游",
+        "onboard_time": 1769088742,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79901,
+        "num": 79901,
+        "word": "香港偶遇戚薇一家坐摩天轮",
+        "onboard_time": 1769097680,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60281,
+        "num": 79897,
+        "word": "小伙致女友怀孕称年龄不适合结婚",
+        "onboard_time": 1769080699,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56894,
+        "num": 79891,
+        "word": "向上生长是王楚钦给孩子的礼物",
+        "onboard_time": 1769095340,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46145,
+        "num": 79888,
+        "word": "地球出现6小时特大地磁暴",
+        "onboard_time": 1769089041,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177163,
+        "num": 79881,
+        "word": "肯德基崩了",
+        "onboard_time": 1769079320,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151126,
+        "num": 79869,
+        "word": "牢A",
+        "onboard_time": 1769085141,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124113,
+        "num": 79866,
+        "word": "养了2年的儿子竟是女儿身",
+        "onboard_time": 1769094679,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102887,
+        "num": 79860,
+        "word": "和张函瑞一起声启荣冕",
+        "onboard_time": 1769097980,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76498,
+        "num": 79851,
+        "word": "王玉雯演技",
+        "onboard_time": 1769089221,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68789,
+        "num": 79844,
+        "word": "猝死程序员日记写努力努力再努力",
+        "onboard_time": 1769087180,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62071,
+        "num": 79839,
+        "word": "阿爆掉粉近5万",
+        "onboard_time": 1769099478,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 53196,
+        "num": 79836,
+        "word": "李行亮谈因网友抵制接不到工作",
+        "onboard_time": 1769089462,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52254,
+        "num": 79829,
+        "word": "陈丽君杂志10分钟804万",
+        "onboard_time": 1769094742,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34246,
+        "num": 79821,
+        "word": "特朗普为啥时隔一天态度变了",
+        "onboard_time": 1769092701,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50028,
+        "num": 79814,
+        "word": "妻子不孕丈夫要求离婚并退全额彩礼",
+        "onboard_time": 1769083579,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48362,
+        "num": 79804,
+        "word": "母亲凭女儿日记疑百万遗产数额短缺",
+        "onboard_time": 1769094021,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47411,
+        "num": 79801,
+        "word": "黄星最受欢迎华语歌手",
+        "onboard_time": 1769094921,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46127,
+        "num": 79791,
+        "word": "朱一龙每次拍硬照都要P黑",
+        "onboard_time": 1769091741,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42434,
+        "num": 79790,
+        "word": "突然的喜欢",
+        "onboard_time": 1769076500,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40308,
+        "num": 79780,
+        "word": "牢A的故事一个一个被证实",
+        "onboard_time": 1769074222,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 40969,
+        "num": 79773,
+        "word": "林一回应陈星旭王玉雯这条是为谁发的",
+        "onboard_time": 1769092461,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39851,
+        "num": 79769,
+        "word": "穆祉丞高会",
+        "onboard_time": 1769087660,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39104,
+        "num": 79759,
+        "word": "一觉醒来连洗衣机都被冰冻上了",
+        "onboard_time": 1769097859,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37794,
+        "num": 79759,
+        "word": "杨幂穿Prada的女王",
+        "onboard_time": 1769073201,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 37287,
+        "num": 79747,
+        "word": "被前夫杀害女子只吃2元钱的饭",
+        "onboard_time": 1769085080,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36706,
+        "num": 79746,
+        "word": "发生猝死的征兆",
+        "onboard_time": 1769072301,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35171,
+        "num": 79734,
+        "word": "TF荣耀之战双人舞台分组",
+        "onboard_time": 1769089161,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34407,
+        "num": 79733,
+        "word": "生命树",
+        "onboard_time": 1769083461,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33635,
+        "num": 79721,
+        "word": "侯明昊来安慰小朋友了",
+        "onboard_time": 1769098759,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32966,
+        "num": 79717,
+        "word": "浙江卫视连发10条穆祉丞",
+        "onboard_time": 1769096239,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32593,
+        "num": 79711,
+        "word": "车银优被韩网友喊话退圈",
+        "onboard_time": 1769076440,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30769,
+        "num": 79702,
+        "word": "iPhoneFold售价曝光",
+        "onboard_time": 1769078480,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 29616,
+        "num": 79696,
+        "word": "高盛上调黄金目标价至5400美元",
+        "onboard_time": 1769097321,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 28246,
+        "num": 79692,
+        "word": "教师撞树枝身亡家属称未收到赔偿",
+        "onboard_time": 1769096541,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委主席习近平签署命令#"
+    }
+  }
+}

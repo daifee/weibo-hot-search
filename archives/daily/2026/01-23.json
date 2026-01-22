@@ -1,6 +1,6 @@
 {
   "startTime": 1769100257042,
-  "endTime": 1769100257042,
+  "endTime": 1769101303987,
   "band_list": [
     {
       "raw_hot": 512156,
@@ -25,6 +25,14 @@
       "onboard_time": 1769066660,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255335,
+      "num": 181865,
+      "word": "胖东来保洁员月薪9千永辉没学到",
+      "onboard_time": 1769097680,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 254183,
@@ -88,14 +96,6 @@
       "word": "养了2年的儿子竟是女儿身",
       "onboard_time": 1769094679,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 168126,
-      "num": 181865,
-      "word": "胖东来保洁员月薪9千永辉没学到",
-      "onboard_time": 1769097680,
-      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -163,7 +163,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78522,
+      "raw_hot": 79901,
       "num": 168336,
       "word": "香港偶遇戚薇一家坐摩天轮",
       "onboard_time": 1769097680,
@@ -235,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62071,
+      "num": 167932,
+      "word": "阿爆掉粉近5万",
+      "onboard_time": 1769099478,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 57721,
       "num": 168117,
       "word": "朱一龙每次拍硬照都要P黑",
@@ -273,14 +281,6 @@
       "onboard_time": 1769085080,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48708,
-      "num": 167932,
-      "word": "阿爆掉粉近5万",
-      "onboard_time": 1769099478,
-      "rank": 36,
-      "category": "网红"
     },
     {
       "raw_hot": 47174,
@@ -385,6 +385,14 @@
       "onboard_time": 1769092701,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 33635,
+      "num": 79721,
+      "word": "侯明昊来安慰小朋友了",
+      "onboard_time": 1769098759,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 32804,
