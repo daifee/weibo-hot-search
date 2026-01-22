@@ -1,7 +1,15 @@
 {
   "startTime": 1769015008764,
-  "endTime": 1769049594152,
+  "endTime": 1769055332832,
   "band_list": [
+    {
+      "raw_hot": 1725086,
+      "num": 212508,
+      "word": "程序员猝死当天5次访问公司OA系统",
+      "onboard_time": 1769048840,
+      "rank": 30,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1588138,
       "num": 1588138,
@@ -9,6 +17,22 @@
       "onboard_time": 1769048240,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1533186,
+      "num": 211928,
+      "word": "车银优涉嫌逃税",
+      "onboard_time": 1769052500,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1235499,
+      "num": 1235499,
+      "word": "牢A来微博了",
+      "onboard_time": 1769051240,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1215104,
@@ -27,12 +51,52 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 847823,
+      "num": 208376,
+      "word": "车银优方回应逃税",
+      "onboard_time": 1769052500,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 839576,
       "num": 1028932,
       "word": "美国正式退出世卫组织",
       "onboard_time": 1769037497,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 812622,
+      "num": 686473,
+      "word": "张艺谋拍的杨幂刘诗诗",
+      "onboard_time": 1769050219,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 707116,
+      "num": 210907,
+      "word": "女子在丈夫瘫痪期间出轨并怀孕",
+      "onboard_time": 1769050400,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 667004,
+      "num": 205148,
+      "word": "易烊千玺短发",
+      "onboard_time": 1769050760,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 656460,
+      "num": 656460,
+      "word": "猝死程序员工位上有三块屏幕",
+      "onboard_time": 1769052740,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 604894,
@@ -57,6 +121,14 @@
       "onboard_time": 1769038097,
       "rank": 30,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 537935,
+      "num": 537935,
+      "word": "田曦薇 恶女",
+      "onboard_time": 1769050579,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 463446,
@@ -107,12 +179,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 385373,
+      "num": 210288,
+      "word": "4部影片定档2026春节档",
+      "onboard_time": 1769051780,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 380349,
       "num": 163585,
       "word": "拼多多若再犯或被责令停业整顿",
       "onboard_time": 1769038698,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 379719,
+      "num": 209858,
+      "word": "俄罗斯愿拨10亿美元给和平委员会",
+      "onboard_time": 1769050039,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 354179,
@@ -131,12 +219,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 315578,
+      "num": 315578,
+      "word": "双休不应成为奢侈品",
+      "onboard_time": 1769050460,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 313798,
       "num": 313798,
       "word": "普京就格陵兰岛表态",
       "onboard_time": 1769044821,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 293251,
+      "num": 203184,
+      "word": "终于学会漂漂亮亮不随份子钱了",
+      "onboard_time": 1769050160,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 279311,
@@ -171,20 +275,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 252960,
+      "num": 209068,
+      "word": "王源实体专辑",
+      "onboard_time": 1769052500,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 235249,
       "num": 192591,
       "word": "国际金银巨震",
       "onboard_time": 1769041581,
       "rank": 13,
       "category": "财经"
-    },
-    {
-      "raw_hot": 234671,
-      "num": 119359,
-      "word": "程序员猝死当天5次访问公司OA系统",
-      "onboard_time": 1769048840,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 232018,
@@ -219,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213675,
+      "num": 199103,
+      "word": "易烊千玺首演警察",
+      "onboard_time": 1769054841,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 210391,
       "num": 742346,
       "word": "男子献血2.2万毫升不免票景区道歉",
@@ -243,6 +355,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 202291,
+      "num": 202291,
+      "word": "猝死程序员妻子晒聊天记录令人心碎",
+      "onboard_time": 1769053521,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197892,
       "num": 197892,
       "word": "重返狼群女画家回应导演独自逃命",
@@ -265,6 +385,14 @@
       "onboard_time": 1768984341,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 194438,
+      "num": 194438,
+      "word": "女子被丈夫弟弟强奸哭泣称太痛苦了",
+      "onboard_time": 1769050039,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192986,
@@ -299,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174779,
+      "num": 174779,
+      "word": "王源实体专销售额",
+      "onboard_time": 1769053941,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 172811,
       "num": 119178,
       "word": "写给樊振东的一首歌",
@@ -329,6 +465,14 @@
       "onboard_time": 1769049019,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160760,
+      "num": 160760,
+      "word": "胖东来回应金饰每克便宜200元",
+      "onboard_time": 1769053521,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158751,
@@ -369,6 +513,14 @@
       "onboard_time": 1769046980,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150866,
+      "num": 150866,
+      "word": "杨紫的荧幕初吻居然是霍建华",
+      "onboard_time": 1769054061,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 150342,
@@ -443,6 +595,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 125334,
+      "num": 125334,
+      "word": "金价波动",
+      "onboard_time": 1769051780,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 125215,
       "num": 125215,
       "word": "已有上万人参加网红周媛线下课",
@@ -457,6 +617,14 @@
       "onboard_time": 1769043681,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 122716,
+      "num": 122716,
+      "word": "19岁少女陈尸澳洲一旅游胜地海滩",
+      "onboard_time": 1769051840,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 122396,
@@ -475,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119708,
+      "num": 119708,
+      "word": "牢A 沈逸",
+      "onboard_time": 1769055020,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113541,
       "num": 113541,
       "word": "联合国警告水破产时代已来临",
@@ -491,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110245,
+      "num": 110245,
+      "word": "这个季节家里全是微脏的衣服",
+      "onboard_time": 1769054899,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105932,
       "num": 105932,
       "word": "腹痛入院才知怀胎十月女子已成功分娩",
@@ -499,12 +683,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105293,
+      "num": 105293,
+      "word": "尚公主",
+      "onboard_time": 1769043621,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104864,
       "num": 93183,
       "word": "王俊凯 还好我先出道了",
       "onboard_time": 1768995802,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103259,
+      "num": 103259,
+      "word": "12306购票页面有小暗号",
+      "onboard_time": 1769054841,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99909,
@@ -539,6 +739,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 97111,
+      "num": 97111,
+      "word": "海岛舒服日志官宣阵容",
+      "onboard_time": 1769054781,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97023,
       "num": 97023,
       "word": "王楚然 演恶女我这张脸还用演吗",
@@ -547,12 +755,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93674,
+      "num": 92163,
+      "word": "周深就这么一眼识别内娱套路",
+      "onboard_time": 1769054301,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 93644,
       "num": 93644,
       "word": "徐冬冬 谁送礼就请谁回家",
       "onboard_time": 1769007500,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92439,
+      "num": 92439,
+      "word": "在朝鲜留学这个赛道太小众了",
+      "onboard_time": 1769055261,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 92245,
@@ -619,12 +843,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 80736,
-      "num": 96590,
-      "word": "尚公主",
-      "onboard_time": 1769043621,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 79618,
+      "num": 207228,
+      "word": "赵丽颖溢出屏幕的生命力",
+      "onboard_time": 1769051900,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 79553,
@@ -697,6 +921,14 @@
       "onboard_time": 1769047699,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 68701,
+      "num": 122849,
+      "word": "今年冬天韩剧又发力了",
+      "onboard_time": 1769054540,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 68275,
@@ -867,6 +1099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44095,
+      "num": 206376,
+      "word": "终末地开门了",
+      "onboard_time": 1769054720,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 43921,
       "num": 92721,
       "word": "去有风的地方或将拍第二季",
@@ -936,6 +1176,14 @@
       "word": "14岁少年遭虐待离世生父投案自首",
       "onboard_time": 1769011579,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37664,
+      "num": 122746,
+      "word": "中国人吃掉了9成智利车厘子",
+      "onboard_time": 1769054660,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1027,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30708,
+      "num": 205829,
+      "word": "婴儿出生不到一周被遗弃福利院门口",
+      "onboard_time": 1769054961,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30381,
       "num": 92114,
       "word": "喵娲娲赛博许愿神兽",
@@ -1041,6 +1297,14 @@
       "onboard_time": 1769012179,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29685,
+      "num": 174814,
+      "word": "情侣看中三金未入手现在5万变7万",
+      "onboard_time": 1769055140,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28301,
@@ -1065,6 +1329,14 @@
       "onboard_time": 1769004623,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 27650,
+      "num": 123484,
+      "word": "赖伟明你小子整这么浪漫",
+      "onboard_time": 1769054841,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 25333,
@@ -1105,6 +1377,14 @@
       "onboard_time": 1769002041,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24255,
+      "num": 174790,
+      "word": "中国航天1天2次受挫应理性看待",
+      "onboard_time": 1769055140,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22876,
@@ -1219,6 +1499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 12383,
+      "num": 715360,
+      "word": "无人机吹雪吹完橘林吹大棚",
+      "onboard_time": 1769054720,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11415,
       "num": 17692,
       "word": "徐冬冬创建粉丝群要送结婚饮料",
@@ -1230,6 +1518,9 @@
   "hotgov_list": [
     {
       "word": "#新年第一课习近平这样强调#"
+    },
+    {
+      "word": "#共赴冰雪春天#"
     }
   ]
 }

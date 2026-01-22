@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769049594152,
+  "endTime": 1769055332832,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -443,6 +443,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1725086,
+      "num": 212508,
+      "word": "程序员猝死当天5次访问公司OA系统",
+      "onboard_time": 1769048840,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1664569,
       "num": 1128012,
       "word": "国考",
@@ -521,6 +529,14 @@
       "onboard_time": 1767459021,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1533186,
+      "num": 211928,
+      "word": "车银优涉嫌逃税",
+      "onboard_time": 1769052500,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1532686,
@@ -776,6 +792,14 @@
       "word": "女子发现超市漏洞薅了20多万",
       "onboard_time": 1767617841,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1235499,
+      "num": 1235499,
+      "word": "牢A来微博了",
+      "onboard_time": 1769051240,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -1963,6 +1987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 847823,
+      "num": 208376,
+      "word": "车银优方回应逃税",
+      "onboard_time": 1769052500,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 847748,
       "num": 1135639,
       "word": "韩国空难黑匣子录音首次公开",
@@ -2219,6 +2251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 812622,
+      "num": 686473,
+      "word": "张艺谋拍的杨幂刘诗诗",
+      "onboard_time": 1769050219,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 812506,
       "num": 211443,
       "word": "美国人开始认同中式生活",
@@ -2361,46 +2401,6 @@
       "onboard_time": 1768966518,
       "rank": 11,
       "category": "数码"
-    },
-    {
-      "raw_hot": 790955,
-      "num": 1126552,
-      "word": "外交部回应美对委军事打击",
-      "onboard_time": 1767451405,
-      "rank": 0,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 790750,
-      "num": 1126520,
-      "word": "波司登2299元羽绒服充绒量86克",
-      "onboard_time": 1767927261,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 789176,
-      "num": 1126268,
-      "word": "外交部回应美强行控制委总统夫妇",
-      "onboard_time": 1767507983,
-      "rank": 1,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 788948,
-      "num": 1126231,
-      "word": "住房公积金制度改革",
-      "onboard_time": 1767943340,
-      "rank": 4,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 782430,
-      "num": 324514,
-      "word": "上班是法务下班是偷车厘子惯犯",
-      "onboard_time": 1768954821,
-      "rank": 10,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
