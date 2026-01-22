@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769067362105,
+  "endTime": 1769068196457,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1129,6 +1129,14 @@
       "onboard_time": 1768392561,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1075127,
+      "num": 214151,
+      "word": "韩国国旗 车银优",
+      "onboard_time": 1769066660,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1073557,
@@ -2289,14 +2297,6 @@
       "onboard_time": 1768449020,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 812450,
-      "num": 214151,
-      "word": "韩国国旗 车银优",
-      "onboard_time": 1769066660,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 811408,

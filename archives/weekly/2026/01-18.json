@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769067362105,
+  "endTime": 1769068196457,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -241,6 +241,14 @@
       "onboard_time": 1768892842,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1075127,
+      "num": 214151,
+      "word": "韩国国旗 车银优",
+      "onboard_time": 1769066660,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1072723,
@@ -569,14 +577,6 @@
       "onboard_time": 1769050219,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 812450,
-      "num": 214151,
-      "word": "韩国国旗 车银优",
-      "onboard_time": 1769066660,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 808125,
@@ -1803,6 +1803,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 419168,
+      "num": 419168,
+      "word": "智利车厘子园大面积被烧恐涨价",
+      "onboard_time": 1769065821,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 419156,
       "num": 381439,
       "word": "戚薇女儿Lucky转眼长成大姑娘啦",
@@ -2819,6 +2827,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 304944,
+      "num": 784232,
+      "word": "尾号88888888马钞被领走",
+      "onboard_time": 1769065040,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 303857,
       "num": 281418,
       "word": "山东淄博一中学生篮球赛后爆发冲突",
@@ -3131,6 +3147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277285,
+      "num": 277285,
+      "word": "终末地",
+      "onboard_time": 1768817781,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 276633,
       "num": 157973,
       "word": "男子见义勇为被捅死后3个儿子辍学",
@@ -3395,14 +3419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 257362,
-      "num": 257362,
-      "word": "终末地",
-      "onboard_time": 1768817781,
-      "rank": 3,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 257124,
       "num": 559005,
       "word": "猫的树太会拍了",
@@ -3617,14 +3633,6 @@
       "onboard_time": 1768913601,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 238456,
-      "num": 784232,
-      "word": "尾号88888888马钞被领走",
-      "onboard_time": 1769065040,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 237344,
@@ -3931,6 +3939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223550,
+      "num": 181260,
+      "word": "向佐说给王一博说过了",
+      "onboard_time": 1769064860,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222375,
       "num": 170452,
       "word": "何与状态",
@@ -4161,14 +4177,6 @@
       "onboard_time": 1768795822,
       "rank": 36,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 212242,
-      "num": 212242,
-      "word": "智利车厘子园大面积被烧恐涨价",
-      "onboard_time": 1769065821,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 212107,
@@ -4795,6 +4803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192132,
+      "num": 142656,
+      "word": "188斤女生怒减70斤爆改成功",
+      "onboard_time": 1769066180,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 191658,
       "num": 191658,
       "word": "苏醒教小孩 根本想不到的层面",
@@ -4977,14 +4993,6 @@
       "onboard_time": 1769066239,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186419,
-      "num": 181260,
-      "word": "向佐说给王一博说过了",
-      "onboard_time": 1769064860,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 186388,
@@ -5681,14 +5689,6 @@
       "onboard_time": 1768995740,
       "rank": 21,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 164182,
-      "num": 128663,
-      "word": "188斤女生怒减70斤爆改成功",
-      "onboard_time": 1769066180,
-      "rank": 30,
-      "category": "运动健身"
     },
     {
       "raw_hot": 163857,
@@ -7419,6 +7419,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 126559,
+      "num": 126559,
+      "word": "给打车人的一点点建议",
+      "onboard_time": 1769067140,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126446,
       "num": 126446,
       "word": "孙颖莎邱贻可一起上训",
@@ -7625,14 +7633,6 @@
       "onboard_time": 1768728921,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 124049,
-      "num": 124049,
-      "word": "给打车人的一点点建议",
-      "onboard_time": 1769067140,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 123968,
@@ -8403,6 +8403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114704,
+      "num": 114704,
+      "word": "主咖官宣定档",
+      "onboard_time": 1769067500,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114690,
       "num": 135064,
       "word": "惠英红陈都灵胡一天合照",
@@ -8433,6 +8441,14 @@
       "onboard_time": 1768748543,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114384,
+      "num": 116382,
+      "word": "献血2.2万毫升景区不免票男子发声",
+      "onboard_time": 1769065941,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114365,
@@ -8699,6 +8715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110681,
+      "num": 118929,
+      "word": "撞倒作不雅手势女子司机回应",
+      "onboard_time": 1769066780,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110664,
       "num": 110664,
       "word": "爱情怎么翻译",
@@ -8945,14 +8969,6 @@
       "onboard_time": 1768968740,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 108043,
-      "num": 108043,
-      "word": "撞倒作不雅手势女子司机回应",
-      "onboard_time": 1769066780,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108000,
@@ -9723,6 +9739,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 101224,
+      "num": 101224,
+      "word": "猝死程序员28岁升部门经理",
+      "onboard_time": 1769065941,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101064,
       "num": 153228,
       "word": "患儿在嫣然医院2次手术仅花生活费",
@@ -10331,6 +10355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96100,
+      "num": 96100,
+      "word": "Viper谈LPL和LCK区别",
+      "onboard_time": 1769067920,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 95898,
       "num": 95898,
       "word": "第一次见会跳绳的小猫",
@@ -10721,14 +10753,6 @@
       "onboard_time": 1768967240,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 92955,
-      "num": 116382,
-      "word": "献血2.2万毫升景区不免票男子发声",
-      "onboard_time": 1769065941,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92924,
@@ -11891,6 +11915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 85617,
+      "num": 181336,
+      "word": "BOSS直聘给虚假高薪关美颜",
+      "onboard_time": 1769065520,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85549,
       "num": 85549,
       "word": "坐高铁犯困 二氧化碳浓度高",
@@ -12297,6 +12329,14 @@
       "onboard_time": 1768714940,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82092,
+      "num": 82092,
+      "word": "金银为何双双跳水",
+      "onboard_time": 1769068160,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 82021,
@@ -13211,14 +13251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 73196,
-      "num": 181336,
-      "word": "BOSS直聘给虚假高薪关美颜",
-      "onboard_time": 1769065520,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72987,
       "num": 72987,
       "word": "愿大寒安康",
@@ -13713,6 +13745,14 @@
       "onboard_time": 1768709721,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65932,
+      "num": 102179,
+      "word": "英国14岁少女被囚禁25年掉光牙齿",
+      "onboard_time": 1769067801,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 65603,
@@ -15520,6 +15560,14 @@
       "word": "央视揭露菜商使用含毒农药",
       "onboard_time": 1768801222,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25820,
+      "num": 102338,
+      "word": "1岁小孩遭幼托员粗暴摔床掩住口鼻",
+      "onboard_time": 1769067801,
+      "rank": 37,
       "category": "民生新闻"
     },
     {

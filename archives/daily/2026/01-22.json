@@ -1,6 +1,6 @@
 {
   "startTime": 1769015008764,
-  "endTime": 1769067362105,
+  "endTime": 1769068196457,
   "band_list": [
     {
       "raw_hot": 1924560,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1075127,
+      "num": 214151,
+      "word": "韩国国旗 车银优",
+      "onboard_time": 1769066660,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1036333,
       "num": 656460,
       "word": "猝死程序员工位上有三块屏幕",
@@ -97,14 +105,6 @@
       "onboard_time": 1769050219,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 812450,
-      "num": 214151,
-      "word": "韩国国旗 车银优",
-      "onboard_time": 1769066660,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 707116,
@@ -227,6 +227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 419168,
+      "num": 419168,
+      "word": "智利车厘子园大面积被烧恐涨价",
+      "onboard_time": 1769065821,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 419156,
       "num": 381439,
       "word": "戚薇女儿Lucky转眼长成大姑娘啦",
@@ -339,6 +347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 304944,
+      "num": 784232,
+      "word": "尾号88888888马钞被领走",
+      "onboard_time": 1769065040,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 296076,
       "num": 296076,
       "word": "时代峰峻惊蛰无声出品方",
@@ -385,6 +401,14 @@
       "onboard_time": 1769058141,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 277285,
+      "num": 277285,
+      "word": "终末地",
+      "onboard_time": 1769066901,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 276633,
@@ -443,14 +467,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 238456,
-      "num": 784232,
-      "word": "尾号88888888马钞被领走",
-      "onboard_time": 1769065040,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 237212,
       "num": 237212,
       "word": "妈妈患癌去世5个月后爸爸确诊癌症",
@@ -499,6 +515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 223550,
+      "num": 181260,
+      "word": "向佐说给王一博说过了",
+      "onboard_time": 1769064860,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219966,
       "num": 219966,
       "word": "于正官宣新剧惹惊鸿",
@@ -529,14 +553,6 @@
       "onboard_time": 1769054841,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 212242,
-      "num": 212242,
-      "word": "智利车厘子园大面积被烧恐涨价",
-      "onboard_time": 1769065821,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 210694,
@@ -659,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192132,
+      "num": 142656,
+      "word": "188斤女生怒减70斤爆改成功",
+      "onboard_time": 1769066180,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 190863,
       "num": 190863,
       "word": "携程接机 信息泄露",
@@ -689,22 +713,6 @@
       "onboard_time": 1769066239,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186419,
-      "num": 181260,
-      "word": "向佐说给王一博说过了",
-      "onboard_time": 1769064860,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 181627,
-      "num": 181627,
-      "word": "终末地",
-      "onboard_time": 1769066901,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 180398,
@@ -793,14 +801,6 @@
       "onboard_time": 1769065520,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 164182,
-      "num": 128663,
-      "word": "188斤女生怒减70斤爆改成功",
-      "onboard_time": 1769066180,
-      "rank": 30,
-      "category": "运动健身"
     },
     {
       "raw_hot": 160800,
@@ -1011,6 +1011,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 126559,
+      "num": 126559,
+      "word": "给打车人的一点点建议",
+      "onboard_time": 1769067140,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125546,
       "num": 192973,
       "word": "男子刚卖500克金条又买了200克",
@@ -1033,14 +1041,6 @@
       "onboard_time": 1769044640,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 124049,
-      "num": 124049,
-      "word": "给打车人的一点点建议",
-      "onboard_time": 1769067140,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 122853,
@@ -1115,6 +1115,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114704,
+      "num": 114704,
+      "word": "主咖官宣定档",
+      "onboard_time": 1769067500,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 114384,
+      "num": 116382,
+      "word": "献血2.2万毫升景区不免票男子发声",
+      "onboard_time": 1769065941,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113541,
       "num": 113541,
       "word": "联合国警告水破产时代已来临",
@@ -1147,8 +1163,8 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 108043,
-      "num": 108043,
+      "raw_hot": 110681,
+      "num": 118929,
       "word": "撞倒作不雅手势女子司机回应",
       "onboard_time": 1769066780,
       "rank": 42,
@@ -1241,6 +1257,14 @@
       "onboard_time": 1769067078,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 101224,
+      "num": 101224,
+      "word": "猝死程序员28岁升部门经理",
+      "onboard_time": 1769065941,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100030,
@@ -1339,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96100,
+      "num": 96100,
+      "word": "Viper谈LPL和LCK区别",
+      "onboard_time": 1769067920,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 95556,
       "num": 95556,
       "word": "确认被爱后面相全都变了",
@@ -1369,14 +1401,6 @@
       "onboard_time": 1769007500,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 92955,
-      "num": 116382,
-      "word": "献血2.2万毫升景区不免票男子发声",
-      "onboard_time": 1769065941,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92690,
@@ -1451,6 +1475,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85617,
+      "num": 181336,
+      "word": "BOSS直聘给虚假高薪关美颜",
+      "onboard_time": 1769065520,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82092,
+      "num": 82092,
+      "word": "金银为何双双跳水",
+      "onboard_time": 1769068160,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 81105,
       "num": 92908,
       "word": "中方回应特朗普称联合国或被取代",
@@ -1523,14 +1563,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 73196,
-      "num": 181336,
-      "word": "BOSS直聘给虚假高薪关美颜",
-      "onboard_time": 1769065520,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 71579,
       "num": 93110,
       "word": "刘宪华和暮光之城男主同框",
@@ -1577,6 +1609,14 @@
       "onboard_time": 1769043920,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 65932,
+      "num": 102179,
+      "word": "英国14岁少女被囚禁25年掉光牙齿",
+      "onboard_time": 1769067801,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 65139,
@@ -2017,6 +2057,14 @@
       "onboard_time": 1769054841,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25820,
+      "num": 102338,
+      "word": "1岁小孩遭幼托员粗暴摔床掩住口鼻",
+      "onboard_time": 1769067801,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25333,
