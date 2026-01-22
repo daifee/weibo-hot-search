@@ -1,7 +1,23 @@
 {
   "startTime": 1769015008764,
-  "endTime": 1769039282345,
+  "endTime": 1769048122443,
   "band_list": [
+    {
+      "raw_hot": 1215104,
+      "num": 313426,
+      "word": "妻子曾多次九十点催程序员丈夫下班",
+      "onboard_time": 1769042662,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 999399,
+      "num": 1159903,
+      "word": "嫁金钗阵容官宣",
+      "onboard_time": 1769045960,
+      "rank": 0,
+      "category": "剧集"
+    },
     {
       "raw_hot": 839576,
       "num": 1028932,
@@ -11,12 +27,36 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 482081,
-      "num": 61730,
+      "raw_hot": 586519,
+      "num": 831598,
+      "word": "永辉超市胖改第二年预亏21亿",
+      "onboard_time": 1769043082,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 565209,
+      "num": 565209,
       "word": "今年最烂大街的穿搭",
       "onboard_time": 1769038097,
       "rank": 30,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 463446,
+      "num": 192885,
+      "word": "昀牵孟绕就这么亲上了",
+      "onboard_time": 1769038938,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 448500,
+      "num": 192776,
+      "word": "猝死32岁程序员曾说要陪大家加班",
+      "onboard_time": 1769046440,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 441985,
@@ -35,12 +75,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380349,
+      "num": 163585,
+      "word": "拼多多若再犯或被责令停业整顿",
+      "onboard_time": 1769038698,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 354179,
       "num": 631931,
       "word": "杜涛面相都变了",
       "onboard_time": 1769000600,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 330482,
+      "num": 192700,
+      "word": "苹果推出新春优惠",
+      "onboard_time": 1769045960,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 313798,
+      "num": 313798,
+      "word": "普京就格陵兰岛表态",
+      "onboard_time": 1769044821,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 276633,
+      "num": 151415,
+      "word": "男子见义勇为被捅死后3个儿子辍学",
+      "onboard_time": 1769042361,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 273817,
@@ -51,12 +123,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 235249,
+      "num": 192591,
+      "word": "国际金银巨震",
+      "onboard_time": 1769041581,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 232018,
       "num": 601905,
       "word": "交警回应女子作不雅手势被后车撞击",
       "onboard_time": 1769004202,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219966,
+      "num": 219966,
+      "word": "于正官宣新剧惹惊鸿",
+      "onboard_time": 1769044160,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 210391,
@@ -75,6 +163,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 197892,
+      "num": 197892,
+      "word": "重返狼群女画家回应导演独自逃命",
+      "onboard_time": 1769044281,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197615,
       "num": 555078,
       "word": "特朗普收回对欧洲8国关税威胁",
@@ -91,12 +187,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 192986,
+      "num": 192986,
+      "word": "中方重申日本根本没有资格入常",
+      "onboard_time": 1769038518,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 192536,
+      "num": 192536,
+      "word": "女子直到剧烈宫缩才知怀胎十月",
+      "onboard_time": 1769039959,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190863,
       "num": 190863,
       "word": "携程接机 信息泄露",
       "onboard_time": 1769012419,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176197,
+      "num": 176197,
+      "word": "嫁金钗",
+      "onboard_time": 1769046079,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 168187,
@@ -107,6 +227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167137,
+      "num": 167137,
+      "word": "考研失败情侣辞职回村7年后翻盘",
+      "onboard_time": 1769046499,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158751,
       "num": 93309,
       "word": "昀牵孟绕",
@@ -115,12 +243,60 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157609,
+      "num": 157609,
+      "word": "明日方舟终末地公测",
+      "onboard_time": 1769047520,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 152476,
+      "num": 152476,
+      "word": "重温樊振东奥运精彩瞬间",
+      "onboard_time": 1769047399,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151314,
+      "num": 149903,
+      "word": "嗑昀牵孟绕分不清戏里戏外了",
+      "onboard_time": 1769046980,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 150342,
+      "num": 150342,
+      "word": "胖东来金饰每克便宜200元",
+      "onboard_time": 1769041100,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148840,
+      "num": 148840,
+      "word": "女子咳嗽4个多月元凶竟是一颗牙齿",
+      "onboard_time": 1769042121,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145053,
       "num": 498318,
       "word": "大额存单利率降至0字头区间",
       "onboard_time": 1769037197,
       "rank": 5,
       "category": "财经"
+    },
+    {
+      "raw_hot": 140765,
+      "num": 140765,
+      "word": "奥委会回顾樊振东十年高光",
+      "onboard_time": 1769046919,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 134945,
@@ -147,6 +323,38 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130190,
+      "num": 130190,
+      "word": "程序员猝死后8小时仍有工作消息",
+      "onboard_time": 1769047040,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127312,
+      "num": 127312,
+      "word": "银价大跳水",
+      "onboard_time": 1769040439,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 125215,
+      "num": 125215,
+      "word": "已有上万人参加网红周媛线下课",
+      "onboard_time": 1769044640,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 122853,
+      "num": 122853,
+      "word": "发明心脏支架的人太伟大",
+      "onboard_time": 1769043681,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 122396,
       "num": 122396,
       "word": "梁朝伟看着刘嘉玲和刘宪华social",
@@ -163,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119264,
-      "num": 119264,
-      "word": "中方重申日本根本没有资格入常",
-      "onboard_time": 1769038518,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 113541,
       "num": 113541,
       "word": "联合国警告水破产时代已来临",
@@ -179,12 +379,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112279,
+      "num": 112279,
+      "word": "冷到抖的寒潮要退场了",
+      "onboard_time": 1769045960,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105932,
+      "num": 105932,
+      "word": "腹痛入院才知怀胎十月女子已成功分娩",
+      "onboard_time": 1769047399,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104864,
       "num": 93183,
       "word": "王俊凯 还好我先出道了",
       "onboard_time": 1768995802,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103351,
+      "num": 103351,
+      "word": "永辉超市已连续5年亏损",
+      "onboard_time": 1769044401,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 99909,
@@ -219,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92245,
+      "num": 92245,
+      "word": "56岁阿姨重新养自己获赞超948万",
+      "onboard_time": 1769041460,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92209,
       "num": 92829,
       "word": "最适合追星女的辩题来了",
@@ -227,12 +459,84 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90566,
+      "num": 90566,
+      "word": "终末地开服",
+      "onboard_time": 1769045299,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 87880,
+      "num": 87880,
+      "word": "杜海涛面相没变",
+      "onboard_time": 1769039421,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 86582,
+      "num": 86582,
+      "word": "攻玉",
+      "onboard_time": 1769041041,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 86220,
+      "num": 86220,
+      "word": "国家林草局原局长张建龙被查",
+      "onboard_time": 1769046741,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 85654,
+      "num": 85654,
+      "word": "范志毅称国足3比0都打少了",
+      "onboard_time": 1769042662,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 84443,
+      "num": 84443,
+      "word": "金饰克价一夜跌3元",
+      "onboard_time": 1769047159,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 84191,
+      "num": 84191,
+      "word": "张艺谋电影惊蛰无声定档春节",
+      "onboard_time": 1769048000,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 81105,
       "num": 92908,
       "word": "中方回应特朗普称联合国或被取代",
       "onboard_time": 1769009181,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 80736,
+      "num": 80736,
+      "word": "尚公主",
+      "onboard_time": 1769043621,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 79553,
+      "num": 79553,
+      "word": "英雄联盟龙马烈焰皮肤",
+      "onboard_time": 1769045839,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 79191,
@@ -275,14 +579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 70953,
-      "num": 61681,
-      "word": "拼多多若再犯或被责令停业整顿",
-      "onboard_time": 1769038698,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 70506,
       "num": 92500,
       "word": "9岁男童托管期间坠入排污井身亡",
@@ -299,12 +595,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 67260,
-      "num": 67260,
-      "word": "昀牵孟绕就这么亲上了",
-      "onboard_time": 1769038938,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 69878,
+      "num": 69878,
+      "word": "英雄联盟踏雪寻梅皮肤",
+      "onboard_time": 1769047699,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 68275,
+      "num": 68275,
+      "word": "卢昱晓叫宋亚轩珍珠小子",
+      "onboard_time": 1769043920,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 65139,
@@ -329,6 +633,14 @@
       "onboard_time": 1769002762,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62639,
+      "num": 62639,
+      "word": "胖东来大部分金饰不要手工费",
+      "onboard_time": 1769047581,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62244,
@@ -699,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 21043,
+      "num": 649672,
+      "word": "数读工业和信息化发展新成效",
+      "onboard_time": 1769001682,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20977,
       "num": 39601,
       "word": "肖战小城良方男主设定",
@@ -759,14 +1079,6 @@
       "num": 216419,
       "word": "新设41家口岸进境免税店",
       "onboard_time": 1769001382,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 14860,
-      "num": 610345,
-      "word": "数读工业和信息化发展新成效",
-      "onboard_time": 1769001682,
       "rank": 2,
       "category": "国内时政"
     },

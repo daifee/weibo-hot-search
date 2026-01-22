@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769039282345,
+  "endTime": 1769048122443,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -121,6 +121,14 @@
       "onboard_time": 1768822882,
       "rank": 0,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1215104,
+      "num": 313426,
+      "word": "妻子曾多次九十点催程序员丈夫下班",
+      "onboard_time": 1769042662,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1203665,
@@ -257,6 +265,14 @@
       "onboard_time": 1768966401,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 999399,
+      "num": 1159903,
+      "word": "嫁金钗阵容官宣",
+      "onboard_time": 1769045960,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 999129,
@@ -971,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 586519,
+      "num": 831598,
+      "word": "永辉超市胖改第二年预亏21亿",
+      "onboard_time": 1769043082,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
       "raw_hot": 584412,
       "num": 1093506,
       "word": "生命树",
@@ -1017,6 +1041,14 @@
       "onboard_time": 1768839199,
       "rank": 7,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 565209,
+      "num": 565209,
+      "word": "今年最烂大街的穿搭",
+      "onboard_time": 1769038097,
+      "rank": 30,
+      "category": "时尚"
     },
     {
       "raw_hot": 561269,
@@ -1291,14 +1323,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 482081,
-      "num": 61730,
-      "word": "今年最烂大街的穿搭",
-      "onboard_time": 1769038097,
-      "rank": 30,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 481103,
       "num": 1076976,
       "word": "大叔卖6元四寸蛋糕日收入几百元",
@@ -1379,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 463446,
+      "num": 192885,
+      "word": "昀牵孟绕就这么亲上了",
+      "onboard_time": 1769038938,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 463343,
       "num": 290148,
       "word": "儿子怒斥癌症妈妈碰瓷为何让人共情",
@@ -1456,6 +1488,14 @@
       "word": "女网红在飞机上尖叫可能面临禁飞",
       "onboard_time": 1768884321,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 448500,
+      "num": 192776,
+      "word": "猝死32岁程序员曾说要陪大家加班",
+      "onboard_time": 1769046440,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -1931,6 +1971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 380349,
+      "num": 163585,
+      "word": "拼多多若再犯或被责令停业整顿",
+      "onboard_time": 1769038698,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 377829,
       "num": 209710,
       "word": "ELLE网站致歉",
@@ -2307,6 +2355,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 330482,
+      "num": 192700,
+      "word": "苹果推出新春优惠",
+      "onboard_time": 1769045960,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 328885,
       "num": 216496,
       "word": "卢昱晓想认识赵今麦",
@@ -2433,6 +2489,14 @@
       "onboard_time": 1768910603,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 313798,
+      "num": 313798,
+      "word": "普京就格陵兰岛表态",
+      "onboard_time": 1769044821,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 313579,
@@ -2785,6 +2849,14 @@
       "onboard_time": 1768981521,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276633,
+      "num": 151415,
+      "word": "男子见义勇为被捅死后3个儿子辍学",
+      "onboard_time": 1769042361,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 276136,
@@ -3267,6 +3339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 235249,
+      "num": 192591,
+      "word": "国际金银巨震",
+      "onboard_time": 1769041581,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 234721,
       "num": 141623,
       "word": "大姐希望大冰支持自己孩子",
@@ -3545,6 +3625,14 @@
       "onboard_time": 1768920683,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219966,
+      "num": 219966,
+      "word": "于正官宣新剧惹惊鸿",
+      "onboard_time": 1769044160,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 219965,
@@ -4091,6 +4179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197892,
+      "num": 197892,
+      "word": "重返狼群女画家回应导演独自逃命",
+      "onboard_time": 1769044281,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197615,
       "num": 555078,
       "word": "特朗普收回对欧洲8国关税威胁",
@@ -4211,12 +4307,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 192986,
+      "num": 192986,
+      "word": "中方重申日本根本没有资格入常",
+      "onboard_time": 1769038518,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 192870,
       "num": 192870,
       "word": "成龙缅怀梁小龙",
       "onboard_time": 1768732343,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192536,
+      "num": 192536,
+      "word": "女子直到剧烈宫缩才知怀胎十月",
+      "onboard_time": 1769039959,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192393,
@@ -4635,6 +4747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176197,
+      "num": 176197,
+      "word": "嫁金钗",
+      "onboard_time": 1769046079,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176107,
       "num": 201805,
       "word": "韩国前总理韩德洙被判23年",
@@ -4921,6 +5041,14 @@
       "onboard_time": 1768882282,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167137,
+      "num": 167137,
+      "word": "考研失败情侣辞职回村7年后翻盘",
+      "onboard_time": 1769046499,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167087,
@@ -5227,6 +5355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157609,
+      "num": 157609,
+      "word": "明日方舟终末地公测",
+      "onboard_time": 1769047520,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157516,
       "num": 157516,
       "word": "以为会长胖但巨减肥的习惯",
@@ -5403,6 +5539,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 152476,
+      "num": 152476,
+      "word": "重温樊振东奥运精彩瞬间",
+      "onboard_time": 1769047399,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152060,
       "num": 146884,
       "word": "财务看演唱会通病",
@@ -5459,6 +5603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151314,
+      "num": 149903,
+      "word": "嗑昀牵孟绕分不清戏里戏外了",
+      "onboard_time": 1769046980,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151186,
       "num": 151186,
       "word": "包钢",
@@ -5497,6 +5649,14 @@
       "onboard_time": 1768829002,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 150342,
+      "num": 150342,
+      "word": "胖东来金饰每克便宜200元",
+      "onboard_time": 1769041100,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150169,
@@ -5569,6 +5729,14 @@
       "onboard_time": 1769005882,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148840,
+      "num": 148840,
+      "word": "女子咳嗽4个多月元凶竟是一颗牙齿",
+      "onboard_time": 1769042121,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148272,
@@ -5961,6 +6129,14 @@
       "onboard_time": 1768743202,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 140765,
+      "num": 140765,
+      "word": "奥委会回顾樊振东十年高光",
+      "onboard_time": 1769046919,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 140647,
@@ -6379,6 +6555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 130190,
+      "num": 130190,
+      "word": "程序员猝死后8小时仍有工作消息",
+      "onboard_time": 1769047040,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130071,
       "num": 175102,
       "word": "孩子洗澡时浴霸突然起火冒烟",
@@ -6539,6 +6723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 127312,
+      "num": 127312,
+      "word": "银价大跳水",
+      "onboard_time": 1769040439,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 126841,
       "num": 126841,
       "word": "名侦探学院",
@@ -6673,6 +6865,14 @@
       "onboard_time": 1768826902,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125215,
+      "num": 125215,
+      "word": "已有上万人参加网红周媛线下课",
+      "onboard_time": 1769044640,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 125184,
@@ -6833,6 +7033,14 @@
       "onboard_time": 1768970181,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122853,
+      "num": 122853,
+      "word": "发明心脏支架的人太伟大",
+      "onboard_time": 1769043681,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 122783,
@@ -7065,14 +7273,6 @@
       "onboard_time": 1768929556,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119264,
-      "num": 119264,
-      "word": "中方重申日本根本没有资格入常",
-      "onboard_time": 1769038518,
-      "rank": 15,
-      "category": "国际时政"
     },
     {
       "raw_hot": 119176,
@@ -7675,6 +7875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112279,
+      "num": 112279,
+      "word": "冷到抖的寒潮要退场了",
+      "onboard_time": 1769045960,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111971,
       "num": 111971,
       "word": "迅猛龙说考研改变了账号生命周期",
@@ -8211,6 +8419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105932,
+      "num": 105932,
+      "word": "腹痛入院才知怀胎十月女子已成功分娩",
+      "onboard_time": 1769047399,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105927,
       "num": 147412,
       "word": "一代人有一代人的收藏癖",
@@ -8537,6 +8753,14 @@
       "onboard_time": 1768731262,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 103351,
+      "num": 103351,
+      "word": "永辉超市已连续5年亏损",
+      "onboard_time": 1769044401,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 103148,
@@ -9755,6 +9979,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 92245,
+      "num": 92245,
+      "word": "56岁阿姨重新养自己获赞超948万",
+      "onboard_time": 1769041460,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92235,
       "num": 88928,
       "word": "辛云来现在是什么角色都敢演",
@@ -10009,6 +10241,14 @@
       "onboard_time": 1768813100,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90566,
+      "num": 90566,
+      "word": "终末地开服",
+      "onboard_time": 1769045299,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 90448,
@@ -10307,6 +10547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87880,
+      "num": 87880,
+      "word": "杜海涛面相没变",
+      "onboard_time": 1769039421,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87818,
       "num": 87818,
       "word": "樊振东再现坚定眼神一眼万年",
@@ -10555,6 +10803,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 86582,
+      "num": 86582,
+      "word": "攻玉",
+      "onboard_time": 1769041041,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86551,
       "num": 86551,
       "word": "杨丞琳唱雨爱完全就是宝茱姐",
@@ -10601,6 +10857,14 @@
       "onboard_time": 1768729342,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 86220,
+      "num": 86220,
+      "word": "国家林草局原局长张建龙被查",
+      "onboard_time": 1769046741,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 86205,
@@ -10681,6 +10945,14 @@
       "onboard_time": 1768702399,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85654,
+      "num": 85654,
+      "word": "范志毅称国足3比0都打少了",
+      "onboard_time": 1769042662,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 85651,
@@ -10859,6 +11131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84443,
+      "num": 84443,
+      "word": "金饰克价一夜跌3元",
+      "onboard_time": 1769047159,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 84418,
       "num": 84418,
       "word": "张杰歌迷会为四川一村庄出资修路",
@@ -10905,6 +11185,14 @@
       "onboard_time": 1768819041,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 84191,
+      "num": 84191,
+      "word": "张艺谋电影惊蛰无声定档春节",
+      "onboard_time": 1769048000,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 84178,
@@ -11251,6 +11539,14 @@
       "category": "民生新闻,体育"
     },
     {
+      "raw_hot": 80736,
+      "num": 80736,
+      "word": "尚公主",
+      "onboard_time": 1769043621,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80686,
       "num": 140435,
       "word": "Viper说回LPL没什么怕的",
@@ -11369,6 +11665,14 @@
       "onboard_time": 1768711879,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79553,
+      "num": 79553,
+      "word": "英雄联盟龙马烈焰皮肤",
+      "onboard_time": 1769045839,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 79511,
@@ -12179,14 +12483,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 70953,
-      "num": 61681,
-      "word": "拼多多若再犯或被责令停业整顿",
-      "onboard_time": 1769038698,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 70886,
       "num": 114143,
       "word": "赵少康因大罢免亮票被判拘役55天",
@@ -12267,6 +12563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69878,
+      "num": 69878,
+      "word": "英雄联盟踏雪寻梅皮肤",
+      "onboard_time": 1769047699,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 69500,
       "num": 69500,
       "word": "TheShy直播",
@@ -12329,6 +12633,14 @@
       "onboard_time": 1768921280,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 68275,
+      "num": 68275,
+      "word": "卢昱晓叫宋亚轩珍珠小子",
+      "onboard_time": 1769043920,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 68213,
@@ -12417,14 +12729,6 @@
       "onboard_time": 1768701799,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67260,
-      "num": 67260,
-      "word": "昀牵孟绕就这么亲上了",
-      "onboard_time": 1769038938,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 67164,
@@ -12705,6 +13009,14 @@
       "onboard_time": 1768652782,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 62639,
+      "num": 62639,
+      "word": "胖东来大部分金饰不要手工费",
+      "onboard_time": 1769047581,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62479,
@@ -14419,6 +14731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21043,
+      "num": 700609,
+      "word": "数读工业和信息化发展新成效",
+      "onboard_time": 1769001682,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20977,
       "num": 39601,
       "word": "肖战小城良方男主设定",
@@ -14713,14 +15033,6 @@
       "onboard_time": 1769007382,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14860,
-      "num": 700609,
-      "word": "数读工业和信息化发展新成效",
-      "onboard_time": 1769001682,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14723,

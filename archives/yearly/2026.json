@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769039282345,
+  "endTime": 1769048122443,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -787,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1215104,
+      "num": 313426,
+      "word": "妻子曾多次九十点催程序员丈夫下班",
+      "onboard_time": 1769042662,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1214241,
       "num": 995964,
       "word": "骄阳似我 奇耻大辱",
@@ -1352,6 +1360,14 @@
       "word": "轧戏",
       "onboard_time": 1767496704,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 999399,
+      "num": 1159903,
+      "word": "嫁金钗阵容官宣",
+      "onboard_time": 1769045960,
+      "rank": 0,
       "category": "剧集"
     },
     {
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767571581,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 778603,
-      "num": 233965,
-      "word": "没认出这是赖冠霖",
-      "onboard_time": 1767595701,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 777384,
-      "num": 1075091,
-      "word": "韩国空难失事前75秒黑匣子录音",
-      "onboard_time": 1768209262,
-      "rank": 18,
-      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
