@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769115060744,
+  "endTime": 1769117518239,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -17843,6 +17843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12336,
+      "num": 12336,
+      "word": "檀健次送春节祝福",
+      "onboard_time": 1769115373,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 12284,
       "num": 97822,
       "word": "年轻人花5000元闻香解压",
@@ -17865,6 +17873,14 @@
       "onboard_time": 1768655001,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 11590,
+      "num": 12056,
+      "word": "陈星旭王玉雯手指吻",
+      "onboard_time": 1769116573,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 11415,

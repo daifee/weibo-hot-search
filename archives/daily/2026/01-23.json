@@ -1,6 +1,6 @@
 {
   "startTime": 1769100257042,
-  "endTime": 1769115060744,
+  "endTime": 1769117518239,
   "band_list": [
     {
       "raw_hot": 512156,
@@ -531,7 +531,7 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 13309,
+      "raw_hot": 14627,
       "num": 26472,
       "word": "北京卫视春晚",
       "onboard_time": 1769085199,
@@ -539,8 +539,24 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 4909,
-      "num": 32279,
+      "raw_hot": 12336,
+      "num": 12336,
+      "word": "檀健次送春节祝福",
+      "onboard_time": 1769115373,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 11590,
+      "num": 12056,
+      "word": "陈星旭王玉雯手指吻",
+      "onboard_time": 1769116573,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 5161,
+      "num": 86023,
       "word": "2025年我国农业现代化水平持续提升",
       "onboard_time": 1769070381,
       "rank": 2,
