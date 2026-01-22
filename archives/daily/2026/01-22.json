@@ -1,6 +1,6 @@
 {
   "startTime": 1769015008764,
-  "endTime": 1769068196457,
+  "endTime": 1769071387919,
   "band_list": [
     {
       "raw_hot": 1924560,
@@ -107,6 +107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 785912,
+      "num": 337025,
+      "word": "恋综男嘉宾偷东西给女嘉宾吃",
+      "onboard_time": 1769068341,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 707116,
       "num": 287254,
       "word": "女子在丈夫瘫痪期间出轨并怀孕",
@@ -155,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 567480,
+      "num": 1090796,
+      "word": "智利车厘子园大面积被烧恐涨价",
+      "onboard_time": 1769065821,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 565209,
       "num": 565209,
       "word": "今年最烂大街的穿搭",
@@ -187,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 535180,
+      "num": 153548,
+      "word": "188斤女生怒减70斤爆改成功",
+      "onboard_time": 1769066180,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 529234,
       "num": 1084677,
       "word": "作不雅手势女子被撞倒为何无人同情",
@@ -201,6 +225,14 @@
       "onboard_time": 1769062880,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 485539,
+      "num": 485539,
+      "word": "撞倒作不雅手势女子司机回应",
+      "onboard_time": 1769066780,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 463446,
@@ -227,12 +259,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 419168,
-      "num": 419168,
-      "word": "智利车厘子园大面积被烧恐涨价",
-      "onboard_time": 1769065821,
-      "rank": 14,
-      "category": "海外新闻"
+      "raw_hot": 423674,
+      "num": 140267,
+      "word": "黄星 戒指",
+      "onboard_time": 1769068400,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 419156,
@@ -315,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 357346,
+      "num": 357346,
+      "word": "卖霉豆腐已经有人实操上了",
+      "onboard_time": 1769067021,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 354179,
       "num": 631931,
       "word": "杜涛面相都变了",
@@ -329,6 +369,14 @@
       "onboard_time": 1769055020,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 334015,
+      "num": 150292,
+      "word": "英国14岁少女被囚禁25年掉光牙齿",
+      "onboard_time": 1769067801,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 330482,
@@ -348,7 +396,7 @@
     },
     {
       "raw_hot": 304944,
-      "num": 784232,
+      "num": 795820,
       "word": "尾号88888888马钞被领走",
       "onboard_time": 1769065040,
       "rank": 37,
@@ -433,6 +481,14 @@
       "onboard_time": 1769006901,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 271250,
+      "num": 149920,
+      "word": "环球影城偶遇陈星旭王玉雯",
+      "onboard_time": 1769069061,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 266706,
@@ -675,12 +731,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 192132,
-      "num": 142656,
-      "word": "188斤女生怒减70斤爆改成功",
-      "onboard_time": 1769066180,
-      "rank": 30,
-      "category": "运动健身"
+      "raw_hot": 191794,
+      "num": 144551,
+      "word": "网友吃饭偶遇杨幂马龙",
+      "onboard_time": 1769070200,
+      "rank": 17,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 190863,
@@ -819,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159591,
+      "num": 134924,
+      "word": "董璇哪个姐姐扛得住这一声宝贝",
+      "onboard_time": 1769069061,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158751,
       "num": 93309,
       "word": "昀牵孟绕",
@@ -841,6 +905,14 @@
       "onboard_time": 1769055381,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156036,
+      "num": 156036,
+      "word": "范丞丞现身马年春晚彩排",
+      "onboard_time": 1769068878,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 154593,
@@ -905,6 +977,14 @@
       "onboard_time": 1769060539,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147125,
+      "num": 130281,
+      "word": "白鹿亲爱的客栈录制路透",
+      "onboard_time": 1769070860,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 145053,
@@ -1043,6 +1123,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 122963,
+      "num": 122963,
+      "word": "邱鼎杰动物园plog",
+      "onboard_time": 1769069479,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122853,
       "num": 122853,
       "word": "发明心脏支架的人太伟大",
@@ -1075,14 +1163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 120993,
-      "num": 120993,
-      "word": "卖霉豆腐已经有人实操上了",
-      "onboard_time": 1769067021,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 119912,
       "num": 212768,
       "word": "安徽大学可乐只卖1块7被写进小说",
@@ -1097,6 +1177,22 @@
       "onboard_time": 1769054660,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118365,
+      "num": 181336,
+      "word": "BOSS直聘给虚假高薪关美颜",
+      "onboard_time": 1769065520,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117665,
+      "num": 117665,
+      "word": "小白熊直播",
+      "onboard_time": 1769069542,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 117388,
@@ -1163,20 +1259,20 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 110681,
-      "num": 118929,
-      "word": "撞倒作不雅手势女子司机回应",
-      "onboard_time": 1769066780,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106827,
       "num": 106827,
       "word": "澳网",
       "onboard_time": 1769057721,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106240,
+      "num": 106240,
+      "word": "新生儿医保照片难到我了",
+      "onboard_time": 1769069542,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 105932,
@@ -1219,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104247,
+      "num": 104247,
+      "word": "猝死程序员28岁升部门经理",
+      "onboard_time": 1769065941,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104197,
       "num": 104197,
       "word": "黄金白银双双跳水",
@@ -1243,6 +1347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102134,
+      "num": 102134,
+      "word": "檀健次卢昱晓拼好剧 爱中带恨的拉扯",
+      "onboard_time": 1769070262,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101503,
       "num": 101503,
       "word": "攻略苗疆少主定档",
@@ -1259,12 +1371,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 101224,
-      "num": 101224,
-      "word": "猝死程序员28岁升部门经理",
-      "onboard_time": 1769065941,
+      "raw_hot": 100339,
+      "num": 100339,
+      "word": "吴易昺无缘澳网第3轮",
+      "onboard_time": 1769070741,
       "rank": 40,
-      "category": "民生新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 100030,
@@ -1451,12 +1563,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86953,
+      "num": 86953,
+      "word": "穆祉丞和妹妹是一锅蒸出来的小馒头",
+      "onboard_time": 1769068701,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86582,
       "num": 86582,
       "word": "攻玉",
       "onboard_time": 1769041041,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86546,
+      "num": 86546,
+      "word": "DRG对战TTG",
+      "onboard_time": 1769070802,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 86220,
@@ -1467,6 +1595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 86023,
+      "num": 86023,
+      "word": "年轻人猝死大多有两个共同点",
+      "onboard_time": 1769070680,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 85654,
       "num": 96632,
       "word": "范志毅称国足3比0都打少了",
@@ -1475,12 +1611,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85617,
-      "num": 181336,
-      "word": "BOSS直聘给虚假高薪关美颜",
-      "onboard_time": 1769065520,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 82777,
+      "num": 82777,
+      "word": "吴易昺2比3斯皮齐里",
+      "onboard_time": 1769071281,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 82092,
@@ -1609,14 +1745,6 @@
       "onboard_time": 1769043920,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 65932,
-      "num": 102179,
-      "word": "英国14岁少女被囚禁25年掉光牙齿",
-      "onboard_time": 1769067801,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 65139,
@@ -1979,6 +2107,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 32145,
+      "num": 141532,
+      "word": "环卫工戴定位器工牌称不动会被罚款",
+      "onboard_time": 1769070501,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31576,
       "num": 92279,
       "word": "iG对战TES",
@@ -2139,6 +2275,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 21908,
+      "num": 100882,
+      "word": "县公安局原副局长举报信访局局长",
+      "onboard_time": 1769070860,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21657,
       "num": 156968,
       "word": "女干部被留置时实控20多处房产",
@@ -2211,6 +2355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18958,
+      "num": 132425,
+      "word": "中国年报好丰景",
+      "onboard_time": 1769070802,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18487,
       "num": 25890,
       "word": "换乘恋爱",
@@ -2247,6 +2399,14 @@
       "num": 216419,
       "word": "新设41家口岸进境免税店",
       "onboard_time": 1769001382,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 13359,
+      "num": 639713,
+      "word": "一分钟读懂中国经济韧性",
+      "onboard_time": 1769071161,
       "rank": 2,
       "category": "国内时政"
     },
@@ -2289,6 +2449,9 @@
     },
     {
       "word": "#共赴冰雪春天#"
+    },
+    {
+      "word": "#自觉为人民出政绩以实干出政绩#"
     }
   ]
 }

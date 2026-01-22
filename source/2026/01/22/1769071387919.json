@@ -1,0 +1,410 @@
+{
+  "runTime": 1769071387919,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 567480,
+        "num": 1090796,
+        "word": "智利车厘子园大面积被烧恐涨价",
+        "onboard_time": 1769065821,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 283695,
+        "num": 795820,
+        "word": "尾号88888888马钞被领走",
+        "onboard_time": 1769065040,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13359,
+        "num": 639713,
+        "word": "一分钟读懂中国经济韧性",
+        "onboard_time": 1769071161,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 485539,
+        "num": 485539,
+        "word": "撞倒作不雅手势女子司机回应",
+        "onboard_time": 1769066780,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357346,
+        "num": 357346,
+        "word": "卖霉豆腐已经有人实操上了",
+        "onboard_time": 1769067021,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 785912,
+        "num": 337025,
+        "word": "恋综男嘉宾偷东西给女嘉宾吃",
+        "onboard_time": 1769068341,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260180,
+        "num": 260180,
+        "word": "今年最烂大街的穿搭",
+        "onboard_time": 1769038097,
+        "rank": 6,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 173522,
+        "num": 173522,
+        "word": "泡泡玛特 电子木鱼",
+        "onboard_time": 1769061620,
+        "rank": 7,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 164331,
+        "num": 164331,
+        "word": "茅台紧急回应马茅印刷错误",
+        "onboard_time": 1769056580,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156036,
+        "num": 156036,
+        "word": "范丞丞现身马年春晚彩排",
+        "onboard_time": 1769068878,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 879016,
+        "num": 154840,
+        "word": "韩国国旗 车银优",
+        "onboard_time": 1769066660,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535180,
+        "num": 153548,
+        "word": "188斤女生怒减70斤爆改成功",
+        "onboard_time": 1769066180,
+        "rank": 11,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 351064,
+        "num": 152827,
+        "word": "棣爸透露棣妈油炸经营情况",
+        "onboard_time": 1769061141,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334015,
+        "num": 150292,
+        "word": "英国14岁少女被囚禁25年掉光牙齿",
+        "onboard_time": 1769067801,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 271250,
+        "num": 149920,
+        "word": "环球影城偶遇陈星旭王玉雯",
+        "onboard_time": 1769069061,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363292,
+        "num": 148377,
+        "word": "车银优个人赚了500亿以上",
+        "onboard_time": 1769057841,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229639,
+        "num": 146784,
+        "word": "宫外孕切子宫离婚却被索要彩礼",
+        "onboard_time": 1769063960,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191794,
+        "num": 144551,
+        "word": "网友吃饭偶遇杨幂马龙",
+        "onboard_time": 1769070200,
+        "rank": 17,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 184972,
+        "num": 143450,
+        "word": "向佐说给王一博说过了",
+        "onboard_time": 1769064860,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32145,
+        "num": 141532,
+        "word": "环卫工戴定位器工牌称不动会被罚款",
+        "onboard_time": 1769070501,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423674,
+        "num": 140267,
+        "word": "黄星 戒指",
+        "onboard_time": 1769068400,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412186,
+        "num": 139592,
+        "word": "程序员猝死当天5次访问公司OA系统",
+        "onboard_time": 1769048840,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227332,
+        "num": 137088,
+        "word": "牢A谈女留学生是怎么被陷害的",
+        "onboard_time": 1769060539,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201082,
+        "num": 136917,
+        "word": "穆祉丞张子墨 同手同脚",
+        "onboard_time": 1769062940,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159591,
+        "num": 134924,
+        "word": "董璇哪个姐姐扛得住这一声宝贝",
+        "onboard_time": 1769069061,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134158,
+        "num": 134158,
+        "word": "猝死发生前一个月身体就有征兆",
+        "onboard_time": 1769061682,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18958,
+        "num": 132425,
+        "word": "中国年报好丰景",
+        "onboard_time": 1769070802,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 147125,
+        "num": 130281,
+        "word": "白鹿亲爱的客栈录制路透",
+        "onboard_time": 1769070860,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118365,
+        "num": 129399,
+        "word": "BOSS直聘给虚假高薪关美颜",
+        "onboard_time": 1769065520,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97404,
+        "num": 127548,
+        "word": "12306购票页面有小暗号",
+        "onboard_time": 1769054841,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125952,
+        "num": 125952,
+        "word": "易烊千玺短发",
+        "onboard_time": 1769050760,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122963,
+        "num": 122963,
+        "word": "邱鼎杰动物园plog",
+        "onboard_time": 1769069479,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120406,
+        "num": 120406,
+        "word": "终末地",
+        "onboard_time": 1769066901,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117665,
+        "num": 117665,
+        "word": "小白熊直播",
+        "onboard_time": 1769069542,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116995,
+        "num": 116995,
+        "word": "猝死程序员妻子晒聊天记录令人心碎",
+        "onboard_time": 1769053521,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108389,
+        "num": 108389,
+        "word": "小城大事 王星",
+        "onboard_time": 1769063419,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106240,
+        "num": 106240,
+        "word": "新生儿医保照片难到我了",
+        "onboard_time": 1769069542,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104247,
+        "num": 104247,
+        "word": "猝死程序员28岁升部门经理",
+        "onboard_time": 1769065941,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102134,
+        "num": 102134,
+        "word": "檀健次卢昱晓拼好剧 爱中带恨的拉扯",
+        "onboard_time": 1769070262,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21908,
+        "num": 100882,
+        "word": "县公安局原副局长举报信访局局长",
+        "onboard_time": 1769070860,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100339,
+        "num": 100339,
+        "word": "吴易昺无缘澳网第3轮",
+        "onboard_time": 1769070741,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95502,
+        "num": 95502,
+        "word": "田曦薇 恶女",
+        "onboard_time": 1769050579,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93266,
+        "num": 93266,
+        "word": "洗衣机里像紫菜的东西是什么",
+        "onboard_time": 1769059521,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92146,
+        "num": 92146,
+        "word": "张艺谋拍的杨幂刘诗诗",
+        "onboard_time": 1769050219,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87280,
+        "num": 87280,
+        "word": "男子刚卖500克金条又买了200克",
+        "onboard_time": 1769063479,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86953,
+        "num": 86953,
+        "word": "穆祉丞和妹妹是一锅蒸出来的小馒头",
+        "onboard_time": 1769068701,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86880,
+        "num": 86880,
+        "word": "猝死程序员工位上有三块屏幕",
+        "onboard_time": 1769052740,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86546,
+        "num": 86546,
+        "word": "DRG对战TTG",
+        "onboard_time": 1769070802,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86023,
+        "num": 86023,
+        "word": "年轻人猝死大多有两个共同点",
+        "onboard_time": 1769070680,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 82777,
+        "num": 82777,
+        "word": "吴易昺2比3斯皮齐里",
+        "onboard_time": 1769071281,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#自觉为人民出政绩以实干出政绩#"
+    }
+  }
+}
