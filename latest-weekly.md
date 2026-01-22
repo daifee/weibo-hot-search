@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/18 00:32:47 ~ 2026/01/23 01:54:33
+本榜单时间：2026/01/18 00:32:47 ~ 2026/01/23 02:44:24
 </p>
 </blockquote>
 <p>
@@ -12345,6 +12345,12 @@ U23国足成本届唯一0丢球球队（热度：43448）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%9722%E5%B2%81%E6%9C%AA%E5%A9%9A%E5%B0%8F%E4%BC%99%E6%9B%BF%E5%85%84%E5%85%BB%E5%AD%90%E4%BA%8B%E4%BB%B6%E8%BF%9B%E5%B1%95%23" target="weibo">
+湖南22岁未婚小伙替兄养子事件进展（热度：38382）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%8F%AD%E5%BD%95%E8%A7%86%E9%A2%91%E5%91%BC%E5%94%A4%E6%98%8F%E8%BF%B7%E7%9A%848%E5%B2%81%E5%90%8C%E5%AD%A6%23" target="weibo">
 全班录视频呼唤昏迷的8岁同学（热度：38312）
 </a>
@@ -13029,12 +13035,6 @@ NBA常规赛（热度：23123）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%9722%E5%B2%81%E6%9C%AA%E5%A9%9A%E5%B0%8F%E4%BC%99%E6%9B%BF%E5%85%84%E5%85%BB%E5%AD%90%E4%BA%8B%E4%BB%B6%E8%BF%9B%E5%B1%95%23" target="weibo">
-湖南22岁未婚小伙替兄养子事件进展（热度：21242）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%96%B0%E5%89%A7%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E6%96%B0%E8%B7%AF%E9%80%8F%23" target="weibo">
 肖战新剧小城良方新路透（热度：21157）
 </a>
@@ -13073,6 +13073,12 @@ NBA常规赛（热度：23123）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E8%B1%86%E5%86%8D%E5%B0%B1%E4%B8%9A%20%E6%9C%89%E4%BA%BA%E5%8D%96%E7%82%B8%E4%B8%B2%E6%9C%89%E4%BA%BA%E5%BD%93%E9%81%93%E5%A3%AB%23" target="weibo">
 爱豆再就业 有人卖炸串有人当道士（热度：20752）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E9%A9%BB%E9%87%8D%E5%BA%86%E6%80%BB%E9%A2%86%E4%BA%8B%E7%A9%BA%E7%BC%BA%23" target="weibo">
+中方回应日本驻重庆总领事空缺（热度：20553）
 </a>
 </li>
 

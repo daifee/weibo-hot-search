@@ -1,6 +1,6 @@
 {
   "startTime": 1769100257042,
-  "endTime": 1769104473387,
+  "endTime": 1769107464411,
   "band_list": [
     {
       "raw_hot": 512156,
@@ -403,6 +403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 38382,
+      "num": 39912,
+      "word": "湖南22岁未婚小伙替兄养子事件进展",
+      "onboard_time": 1769104396,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37920,
       "num": 167473,
       "word": "小龙女让王一博演早HE了",
@@ -467,12 +475,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21242,
-      "num": 39912,
-      "word": "湖南22岁未婚小伙替兄养子事件进展",
-      "onboard_time": 1769104396,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 20553,
+      "num": 32015,
+      "word": "中方回应日本驻重庆总领事空缺",
+      "onboard_time": 1769105056,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 20549,
+      "num": 32020,
+      "word": "声鸣远扬",
+      "onboard_time": 1769105954,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 18187,
+      "num": 31987,
+      "word": "小城大事",
+      "onboard_time": 1769082560,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 15019,
+      "num": 31963,
+      "word": "巴黎男装周",
+      "onboard_time": 1769090122,
+      "rank": 48,
+      "category": "时尚,作品衍生"
     }
   ],
   "hotgov_list": [
