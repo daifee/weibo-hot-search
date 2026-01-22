@@ -1,6 +1,6 @@
 {
   "startTime": 1769015008764,
-  "endTime": 1769074887337,
+  "endTime": 1769075730055,
   "band_list": [
     {
       "raw_hot": 1924560,
@@ -235,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 522471,
+      "num": 259748,
+      "word": "发生猝死的征兆",
+      "onboard_time": 1769072301,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 518356,
       "num": 485539,
       "word": "撞倒作不雅手势女子司机回应",
@@ -355,14 +363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 366393,
-      "num": 208888,
-      "word": "发生猝死的征兆",
-      "onboard_time": 1769072301,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 363073,
       "num": 363073,
       "word": "洗衣机里像紫菜的东西是什么",
@@ -395,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 344248,
+      "num": 162669,
+      "word": "A股",
+      "onboard_time": 1769071702,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 334015,
       "num": 150292,
       "word": "英国14岁少女被囚禁25年掉光牙齿",
@@ -409,14 +417,6 @@
       "onboard_time": 1769045960,
       "rank": 12,
       "category": "数码"
-    },
-    {
-      "raw_hot": 329663,
-      "num": 162669,
-      "word": "A股",
-      "onboard_time": 1769071702,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 314924,
@@ -451,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 298280,
+      "num": 298280,
+      "word": "第五人格",
+      "onboard_time": 1769074881,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 296076,
       "num": 296076,
       "word": "时代峰峻惊蛰无声出品方",
@@ -473,6 +481,14 @@
       "onboard_time": 1769061682,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 288040,
+      "num": 161071,
+      "word": "牢A的故事一个一个被证实",
+      "onboard_time": 1769074222,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 281676,
@@ -524,7 +540,7 @@
     },
     {
       "raw_hot": 274885,
-      "num": 191061,
+      "num": 254244,
       "word": "新生儿医保照片难到我了",
       "onboard_time": 1769069542,
       "rank": 36,
@@ -555,6 +571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 262734,
+      "num": 262734,
+      "word": "重庆有献血车进中学引关注",
+      "onboard_time": 1769072841,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 261653,
       "num": 249806,
       "word": "惊蛰无声全员素颜",
@@ -576,14 +600,6 @@
       "word": "妈妈患癌去世5个月后爸爸确诊癌症",
       "onboard_time": 1769055381,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 235836,
-      "num": 235836,
-      "word": "重庆有献血车进中学引关注",
-      "onboard_time": 1769072841,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -691,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209479,
+      "num": 178796,
+      "word": "春节前瘦10斤突击法",
+      "onboard_time": 1769071821,
+      "rank": 11,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 203922,
       "num": 203922,
       "word": "14岁女孩追星一个月消费6万余元",
@@ -771,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194074,
+      "num": 194074,
+      "word": "何不同舟渡",
+      "onboard_time": 1769074699,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192986,
       "num": 192986,
       "word": "中方重申日本根本没有资格入常",
@@ -811,14 +843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187359,
-      "num": 161071,
-      "word": "牢A的故事一个一个被证实",
-      "onboard_time": 1769074222,
-      "rank": 31,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 186791,
       "num": 186791,
       "word": "杨紫粉丝在剧宣这块一骑绝尘了",
@@ -835,12 +859,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 180092,
-      "num": 165679,
-      "word": "春节前瘦10斤突击法",
-      "onboard_time": 1769071821,
-      "rank": 11,
-      "category": "运动健身"
+      "raw_hot": 179909,
+      "num": 179909,
+      "word": "张函瑞王橹杰如果我们不曾相遇",
+      "onboard_time": 1769075301,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 178443,
+      "num": 107562,
+      "word": "高越 高超又破防了",
+      "onboard_time": 1769074401,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 176197,
@@ -889,6 +921,14 @@
       "onboard_time": 1769049198,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 170420,
+      "num": 147982,
+      "word": "刘宇宁说你拿着成毅拍我",
+      "onboard_time": 1769073081,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 168743,
@@ -1027,6 +1067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 150933,
+      "num": 164705,
+      "word": "白鹿亲爱的客栈录制路透",
+      "onboard_time": 1769070860,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150342,
       "num": 150342,
       "word": "胖东来金饰每克便宜200元",
@@ -1051,22 +1099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147982,
-      "num": 147982,
-      "word": "刘宇宁说你拿着成毅拍我",
-      "onboard_time": 1769073081,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 147125,
-      "num": 164705,
-      "word": "白鹿亲爱的客栈录制路透",
-      "onboard_time": 1769070860,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 145170,
       "num": 145170,
       "word": "陈妍希 比完你的比你的",
@@ -1083,6 +1115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 143834,
+      "num": 165101,
+      "word": "不要穿一身白去滑雪",
+      "onboard_time": 1769071941,
+      "rank": 41,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 140765,
       "num": 140765,
       "word": "奥委会回顾樊振东十年高光",
@@ -1097,6 +1137,14 @@
       "onboard_time": 1769066361,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 139303,
+      "num": 165203,
+      "word": "800元一个粉菠萝是收颜色税吗",
+      "onboard_time": 1769073861,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139007,
@@ -1211,14 +1259,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 123721,
-      "num": 165203,
-      "word": "800元一个粉菠萝是收颜色税吗",
-      "onboard_time": 1769073861,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122963,
       "num": 122963,
       "word": "邱鼎杰动物园plog",
@@ -1307,6 +1347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116474,
+      "num": 116474,
+      "word": "HLE对战BRO",
+      "onboard_time": 1769075662,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115351,
       "num": 115351,
       "word": "周震南 婴儿塑",
@@ -1329,14 +1377,6 @@
       "onboard_time": 1769065941,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113981,
-      "num": 107562,
-      "word": "高越 高超又破防了",
-      "onboard_time": 1769074401,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 113541,
@@ -1377,6 +1417,22 @@
       "onboard_time": 1769070680,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 108706,
+      "num": 101554,
+      "word": "李立群自曝被坑500万",
+      "onboard_time": 1769074281,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 107870,
+      "num": 113357,
+      "word": "虞书欣云初令云初粉黛芙蓉",
+      "onboard_time": 1769075060,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 107027,
@@ -1467,14 +1523,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 103444,
-      "num": 165101,
-      "word": "不要穿一身白去滑雪",
-      "onboard_time": 1769071941,
-      "rank": 41,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 103210,
       "num": 103210,
       "word": "猝死程序员抢救前仍不忘带上电脑",
@@ -1489,14 +1537,6 @@
       "onboard_time": 1769070262,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 101554,
-      "num": 101554,
-      "word": "李立群自曝被坑500万",
-      "onboard_time": 1769074281,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 101503,
@@ -1587,6 +1627,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 98841,
+      "num": 109066,
+      "word": "林诗栋因遮挡被罚2分",
+      "onboard_time": 1769074100,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97888,
       "num": 97888,
       "word": "长生FMVP皮肤首播",
@@ -1675,14 +1723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 93227,
-      "num": 163913,
-      "word": "何不同舟渡",
-      "onboard_time": 1769074699,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 92690,
       "num": 191317,
       "word": "大连一海面密密麻麻全是冻住的鱼",
@@ -1729,14 +1769,6 @@
       "onboard_time": 1769039421,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 87725,
-      "num": 87725,
-      "word": "林诗栋因遮挡被罚2分",
-      "onboard_time": 1769074100,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 86953,
@@ -1939,12 +1971,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68648,
+      "num": 108092,
+      "word": "小龙女让王一博演早HE了",
+      "onboard_time": 1769075600,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68275,
       "num": 68275,
       "word": "卢昱晓叫宋亚轩珍珠小子",
       "onboard_time": 1769043920,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 65284,
+      "num": 100738,
+      "word": "救护车打滑4个校服少年出手了",
+      "onboard_time": 1769075359,
+      "rank": 47,
+      "category": "正能量"
     },
     {
       "raw_hot": 65139,
@@ -2001,6 +2049,14 @@
       "onboard_time": 1769037978,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 61092,
+      "num": 108728,
+      "word": "棣妈想去陪王鹤棣养伤",
+      "onboard_time": 1769075240,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 60933,
@@ -2323,6 +2379,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 31800,
+      "num": 730296,
+      "word": "一分钟读懂中国经济韧性",
+      "onboard_time": 1769071161,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 31576,
       "num": 92279,
       "word": "iG对战TES",
@@ -2369,14 +2433,6 @@
       "onboard_time": 1769012179,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29604,
-      "num": 730296,
-      "word": "一分钟读懂中国经济韧性",
-      "onboard_time": 1769071161,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 28301,
@@ -2585,6 +2641,22 @@
       "onboard_time": 1768988782,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17266,
+      "num": 114121,
+      "word": "程序员猝死工伤认定60天内出结果",
+      "onboard_time": 1769075421,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16808,
+      "num": 120675,
+      "word": "外交部回应美领导人达沃斯涉华言论",
+      "onboard_time": 1769075359,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 16712,

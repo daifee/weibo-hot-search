@@ -1,0 +1,410 @@
+{
+  "runTime": 1769075730055,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 370378,
+        "num": 1059260,
+        "word": "智利车厘子园大面积被烧恐涨价",
+        "onboard_time": 1769065821,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 290835,
+        "num": 765063,
+        "word": "尾号88888888马钞被领走",
+        "onboard_time": 1769065040,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31800,
+        "num": 606196,
+        "word": "一分钟读懂中国经济韧性",
+        "onboard_time": 1769071161,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 298280,
+        "num": 298280,
+        "word": "第五人格",
+        "onboard_time": 1769074881,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 262734,
+        "num": 262734,
+        "word": "重庆有献血车进中学引关注",
+        "onboard_time": 1769072841,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 564314,
+        "num": 260524,
+        "word": "卖霉豆腐已经有人实操上了",
+        "onboard_time": 1769067021,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 522471,
+        "num": 259748,
+        "word": "发生猝死的征兆",
+        "onboard_time": 1769072301,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254244,
+        "num": 254244,
+        "word": "新生儿医保照片难到我了",
+        "onboard_time": 1769069542,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194074,
+        "num": 194074,
+        "word": "何不同舟渡",
+        "onboard_time": 1769074699,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179909,
+        "num": 179909,
+        "word": "张函瑞王橹杰如果我们不曾相遇",
+        "onboard_time": 1769075301,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209479,
+        "num": 178796,
+        "word": "春节前瘦10斤突击法",
+        "onboard_time": 1769071821,
+        "rank": 10,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 168592,
+        "num": 168592,
+        "word": "泡泡玛特 电子木鱼",
+        "onboard_time": 1769061620,
+        "rank": 11,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 150933,
+        "num": 150933,
+        "word": "白鹿亲爱的客栈录制路透",
+        "onboard_time": 1769070860,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148828,
+        "num": 148828,
+        "word": "宫外孕切子宫离婚却被索要彩礼",
+        "onboard_time": 1769063960,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143834,
+        "num": 143834,
+        "word": "不要穿一身白去滑雪",
+        "onboard_time": 1769071941,
+        "rank": 14,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 142349,
+        "num": 142349,
+        "word": "今年最烂大街的穿搭",
+        "onboard_time": 1769038097,
+        "rank": 15,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 139303,
+        "num": 139303,
+        "word": "800元一个粉菠萝是收颜色税吗",
+        "onboard_time": 1769073861,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16808,
+        "num": 120675,
+        "word": "外交部回应美领导人达沃斯涉华言论",
+        "onboard_time": 1769075359,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 354775,
+        "num": 118994,
+        "word": "环卫工戴定位器工牌称不动会被罚款",
+        "onboard_time": 1769070501,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116474,
+        "num": 116474,
+        "word": "HLE对战BRO",
+        "onboard_time": 1769075662,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 574509,
+        "num": 116335,
+        "word": "韩国国旗 车银优",
+        "onboard_time": 1769066660,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409758,
+        "num": 115671,
+        "word": "杨幂穿Prada的女王",
+        "onboard_time": 1769073201,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 357485,
+        "num": 115351,
+        "word": "程序员猝死当天5次访问公司OA系统",
+        "onboard_time": 1769048840,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396052,
+        "num": 114415,
+        "word": "恋综男嘉宾偷东西给女嘉宾吃",
+        "onboard_time": 1769068341,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17266,
+        "num": 114121,
+        "word": "程序员猝死工伤认定60天内出结果",
+        "onboard_time": 1769075421,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107870,
+        "num": 113357,
+        "word": "虞书欣云初令云初粉黛芙蓉",
+        "onboard_time": 1769075060,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96529,
+        "num": 112922,
+        "word": "突然懂为什么是生姜高光了",
+        "onboard_time": 1769072000,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 344248,
+        "num": 112392,
+        "word": "A股",
+        "onboard_time": 1769071702,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 237667,
+        "num": 111863,
+        "word": "网友吃饭偶遇杨幂马龙",
+        "onboard_time": 1769070200,
+        "rank": 28,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 55893,
+        "num": 111028,
+        "word": "看完王鹤棣演唱会后劲还在",
+        "onboard_time": 1769074522,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 288040,
+        "num": 110936,
+        "word": "牢A的故事一个一个被证实",
+        "onboard_time": 1769074222,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 110404,
+        "num": 110404,
+        "word": "终末地",
+        "onboard_time": 1769066901,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 224468,
+        "num": 110304,
+        "word": "车银优个人赚了500亿以上",
+        "onboard_time": 1769057841,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198106,
+        "num": 109977,
+        "word": "环球影城偶遇陈星旭王玉雯",
+        "onboard_time": 1769069061,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159339,
+        "num": 109587,
+        "word": "牢A谈女留学生是怎么被陷害的",
+        "onboard_time": 1769060539,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98841,
+        "num": 109066,
+        "word": "林诗栋因遮挡被罚2分",
+        "onboard_time": 1769074100,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61092,
+        "num": 108728,
+        "word": "棣妈想去陪王鹤棣养伤",
+        "onboard_time": 1769075240,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65125,
+        "num": 108618,
+        "word": "陈妍希 比完你的比你的",
+        "onboard_time": 1769074641,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68648,
+        "num": 108092,
+        "word": "小龙女让王一博演早HE了",
+        "onboard_time": 1769075600,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107991,
+        "num": 107991,
+        "word": "年轻人猝死大多有两个共同点",
+        "onboard_time": 1769070680,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 178443,
+        "num": 106523,
+        "word": "高越 高超又破防了",
+        "onboard_time": 1769074401,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170420,
+        "num": 105922,
+        "word": "刘宇宁说你拿着成毅拍我",
+        "onboard_time": 1769073081,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101693,
+        "num": 101693,
+        "word": "188斤女生怒减70斤爆改成功",
+        "onboard_time": 1769066180,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 143909,
+        "num": 101554,
+        "word": "宋亚轩带鼠标跳娃娃脸",
+        "onboard_time": 1769072240,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108706,
+        "num": 101271,
+        "word": "李立群自曝被坑500万",
+        "onboard_time": 1769074281,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98396,
+        "num": 101077,
+        "word": "猝死发生前一个月身体就有征兆",
+        "onboard_time": 1769061682,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 93703,
+        "num": 100935,
+        "word": "林诗栋极限追分",
+        "onboard_time": 1769074161,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65284,
+        "num": 100738,
+        "word": "救护车打滑4个校服少年出手了",
+        "onboard_time": 1769075359,
+        "rank": 47,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 107061,
+        "num": 100391,
+        "word": "棣爸透露棣妈油炸经营情况",
+        "onboard_time": 1769061141,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100371,
+        "num": 100371,
+        "word": "穆祉丞张子墨 同手同脚",
+        "onboard_time": 1769062940,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#自觉为人民出政绩以实干出政绩#"
+    }
+  }
+}
