@@ -1,6 +1,6 @@
 {
   "startTime": 1769015008764,
-  "endTime": 1769082360375,
+  "endTime": 1769087108385,
   "band_list": [
     {
       "raw_hot": 1924560,
@@ -25,6 +25,14 @@
       "onboard_time": 1769048240,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1584463,
+      "num": 599158,
+      "word": "肯德基崩了",
+      "onboard_time": 1769079320,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1533186,
@@ -83,11 +91,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 851521,
-      "num": 575563,
-      "word": "肯德基崩了",
-      "onboard_time": 1769079320,
-      "rank": 3,
+      "raw_hot": 898283,
+      "num": 165591,
+      "word": "牢A",
+      "onboard_time": 1769085141,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -155,8 +163,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 660618,
+      "num": 182194,
+      "word": "妻子不孕丈夫要求离婚并退全额彩礼",
+      "onboard_time": 1769083579,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 616135,
-      "num": 163678,
+      "num": 181451,
       "word": "杨幂穿Prada的女王",
       "onboard_time": 1769073201,
       "rank": 20,
@@ -272,6 +288,14 @@
       "word": "撞倒作不雅手势女子司机回应",
       "onboard_time": 1769066780,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 505915,
+      "num": 505915,
+      "word": "一超市金车厘子一箱2800元",
+      "onboard_time": 1769083640,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -491,6 +515,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 317309,
+      "num": 1050769,
+      "word": "突然的喜欢",
+      "onboard_time": 1769076500,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 314924,
       "num": 162429,
       "word": "网友吃饭偶遇杨幂马龙",
@@ -699,6 +731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 259552,
+      "num": 738902,
+      "word": "母亲在柬埔寨寻子儿子在园区诈骗",
+      "onboard_time": 1769079441,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 257128,
       "num": 257128,
       "word": "何不同舟渡",
@@ -715,6 +755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 246430,
+      "num": 246430,
+      "word": "生命树",
+      "onboard_time": 1769083461,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237212,
       "num": 237212,
       "word": "妈妈患癌去世5个月后爸爸确诊癌症",
@@ -729,14 +777,6 @@
       "onboard_time": 1769041581,
       "rank": 13,
       "category": "财经"
-    },
-    {
-      "raw_hot": 233899,
-      "num": 233899,
-      "word": "突然的喜欢",
-      "onboard_time": 1769076500,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 232018,
@@ -769,6 +809,14 @@
       "onboard_time": 1769048840,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 225470,
+      "num": 157934,
+      "word": "疑似谢霆锋配料表曝光",
+      "onboard_time": 1769084122,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 223550,
@@ -1091,6 +1139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168344,
+      "num": 168344,
+      "word": "性转版甄嬛传",
+      "onboard_time": 1769082021,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 168187,
       "num": 530165,
       "word": "第一次见买家秀和卖家秀反着来的",
@@ -1275,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148302,
+      "num": 148302,
+      "word": "久坐不动真的会导致猝死",
+      "onboard_time": 1769083579,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 145170,
       "num": 145170,
       "word": "陈妍希 比完你的比你的",
@@ -1355,14 +1419,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 136801,
-      "num": 241843,
-      "word": "母亲在柬埔寨寻子儿子在园区诈骗",
-      "onboard_time": 1769079441,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135335,
       "num": 177139,
       "word": "那英龚俊张雅琪合体梦回花少",
@@ -1435,6 +1491,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 128572,
+      "num": 625642,
+      "word": "对预制菜国家标准等公开征求意见",
+      "onboard_time": 1769086041,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128519,
       "num": 128519,
       "word": "赵樱子演完女一号后就买辆跑车",
@@ -1465,6 +1529,14 @@
       "onboard_time": 1769067140,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125628,
+      "num": 125628,
+      "word": "朱志鑫报备水晶球合格",
+      "onboard_time": 1769085560,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 125546,
@@ -1520,6 +1592,14 @@
       "word": "梁朝伟看着刘嘉玲和刘宪华social",
       "onboard_time": 1769038157,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 121983,
+      "num": 121983,
+      "word": "徐若晗 英语老师的即视感",
+      "onboard_time": 1769086522,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -1681,6 +1761,14 @@
       "onboard_time": 1769074281,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107046,
+      "num": 122220,
+      "word": "杨振宁曾说中学生留美非常危险",
+      "onboard_time": 1769084960,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107027,
@@ -1859,6 +1947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 99715,
+      "num": 183521,
+      "word": "肖战藏海传酷云战报",
+      "onboard_time": 1769086522,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99693,
       "num": 99693,
       "word": "永辉超市回应5年亏损超百亿",
@@ -1939,6 +2035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97080,
+      "num": 97080,
+      "word": "炽热吸引",
+      "onboard_time": 1769086641,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97023,
       "num": 97023,
       "word": "王楚然 演恶女我这张脸还用演吗",
@@ -1961,6 +2065,14 @@
       "onboard_time": 1769067920,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 96035,
+      "num": 96035,
+      "word": "这个演员阵容看得我大事很妙",
+      "onboard_time": 1769086941,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 95556,
@@ -2003,6 +2115,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93493,
+      "num": 123711,
+      "word": "北京卫视春晚",
+      "onboard_time": 1769085199,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 93380,
+      "num": 93380,
+      "word": "林一跟陈星旭讲吊桥效应",
+      "onboard_time": 1769084480,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93348,
       "num": 91817,
       "word": "林一 看看我今天发现了什么好东西",
@@ -2043,6 +2171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91902,
+      "num": 91902,
+      "word": "这居然是我妈幂的生图",
+      "onboard_time": 1769084181,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91219,
       "num": 182790,
       "word": "职场奋斗不应以透支生命为代价",
@@ -2065,6 +2201,14 @@
       "onboard_time": 1769039421,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87078,
+      "num": 155911,
+      "word": "必胜客崩了",
+      "onboard_time": 1769085682,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86953,
@@ -2123,12 +2267,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 85139,
+      "num": 85139,
+      "word": "重返狼群 拖欠稿费",
+      "onboard_time": 1769087001,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 84841,
+      "num": 167083,
+      "word": "LCK杯",
+      "onboard_time": 1769085622,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 84827,
       "num": 107006,
       "word": "孙颖莎思归妈妈的味道",
       "onboard_time": 1769076739,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84764,
+      "num": 96075,
+      "word": "小轩 下场继续加油",
+      "onboard_time": 1769086220,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 83023,
@@ -2163,12 +2331,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 81925,
-      "num": 81925,
-      "word": "性转版甄嬛传",
-      "onboard_time": 1769082021,
-      "rank": 47,
-      "category": "作品衍生"
+      "raw_hot": 81954,
+      "num": 92338,
+      "word": "向鱼赛后发博",
+      "onboard_time": 1769085141,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 81949,
+      "num": 81949,
+      "word": "六大行集体发布公告",
+      "onboard_time": 1769085501,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 81105,
@@ -2555,6 +2731,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 44530,
+      "num": 154496,
+      "word": "预制菜将有国家标准",
+      "onboard_time": 1769082621,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 44490,
+      "num": 167293,
+      "word": "Dior男装秀风格新章",
+      "onboard_time": 1769083461,
+      "rank": 17,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 44105,
       "num": 92612,
       "word": "14岁少年遭生父继母长期虐待离世",
@@ -2577,6 +2769,14 @@
       "onboard_time": 1768995261,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43161,
+      "num": 118695,
+      "word": "福耀科大校长回应大一学生被企业抢光",
+      "onboard_time": 1769086341,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43073,
@@ -2883,6 +3083,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 24524,
+      "num": 119881,
+      "word": "中方回应特朗普达沃斯言论",
+      "onboard_time": 1769086522,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24018,
       "num": 177571,
       "word": "世卫官员回应美国退群",
@@ -3011,6 +3219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 17332,
+      "num": 167058,
+      "word": "800一颗粉菠萝甜度和普通菠萝没区别",
+      "onboard_time": 1769086701,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 17266,
       "num": 114121,
       "word": "程序员猝死工伤认定60天内出结果",
@@ -3083,6 +3299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9819,
+      "num": 118453,
+      "word": "赌徒丈夫曾发网络杀妻照威胁前妻",
+      "onboard_time": 1769086701,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 7266,
       "num": 178180,
       "word": "塔斯汀告塔诗汀胜诉获赔500万",
@@ -3100,6 +3324,9 @@
     },
     {
       "word": "#自觉为人民出政绩以实干出政绩#"
+    },
+    {
+      "word": "#中央军委主席习近平签署命令#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1769087108385,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 317309,
+        "num": 1050769,
+        "word": "突然的喜欢",
+        "onboard_time": 1769076500,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259552,
+        "num": 738902,
+        "word": "母亲在柬埔寨寻子儿子在园区诈骗",
+        "onboard_time": 1769079441,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128572,
+        "num": 625642,
+        "word": "对预制菜国家标准等公开征求意见",
+        "onboard_time": 1769086041,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1584463,
+        "num": 599158,
+        "word": "肯德基崩了",
+        "onboard_time": 1769079320,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 505915,
+        "num": 505915,
+        "word": "一超市金车厘子一箱2800元",
+        "onboard_time": 1769083640,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246430,
+        "num": 246430,
+        "word": "生命树",
+        "onboard_time": 1769083461,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198225,
+        "num": 198225,
+        "word": "卖霉豆腐已经有人实操上了",
+        "onboard_time": 1769067021,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 184765,
+        "num": 184765,
+        "word": "甲亢哥才21岁",
+        "onboard_time": 1769079501,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105433,
+        "num": 184687,
+        "word": "终末地",
+        "onboard_time": 1769066901,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99715,
+        "num": 183521,
+        "word": "肖战藏海传酷云战报",
+        "onboard_time": 1769086522,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 447335,
+        "num": 183027,
+        "word": "韩国国旗 车银优",
+        "onboard_time": 1769066660,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200725,
+        "num": 182266,
+        "word": "卡拉胶 胰岛素抵抗",
+        "onboard_time": 1769078539,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 660618,
+        "num": 182194,
+        "word": "妻子不孕丈夫要求离婚并退全额彩礼",
+        "onboard_time": 1769083579,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275161,
+        "num": 181451,
+        "word": "杨幂穿Prada的女王",
+        "onboard_time": 1769073201,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 180929,
+        "num": 180929,
+        "word": "iPhoneFold售价曝光",
+        "onboard_time": 1769078480,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 270354,
+        "num": 177048,
+        "word": "车银优被韩网友喊话退圈",
+        "onboard_time": 1769076440,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168344,
+        "num": 168344,
+        "word": "性转版甄嬛传",
+        "onboard_time": 1769082021,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 44490,
+        "num": 167293,
+        "word": "Dior男装秀风格新章",
+        "onboard_time": 1769083461,
+        "rank": 17,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 84841,
+        "num": 167083,
+        "word": "LCK杯",
+        "onboard_time": 1769085622,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17332,
+        "num": 167058,
+        "word": "800一颗粉菠萝甜度和普通菠萝没区别",
+        "onboard_time": 1769086701,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 167058,
+        "num": 167057,
+        "word": "MCD舞台塌了",
+        "onboard_time": 1769079021,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 898283,
+        "num": 165591,
+        "word": "牢A",
+        "onboard_time": 1769085141,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347720,
+        "num": 164606,
+        "word": "发生猝死的征兆",
+        "onboard_time": 1769072301,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276460,
+        "num": 163934,
+        "word": "牢A的故事一个一个被证实",
+        "onboard_time": 1769074222,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 92047,
+        "num": 162368,
+        "word": "智利车厘子园大面积被烧恐涨价",
+        "onboard_time": 1769065821,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 229630,
+        "num": 159965,
+        "word": "内娱终于有人拍出这段沉痛的往事了",
+        "onboard_time": 1769076140,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225470,
+        "num": 157934,
+        "word": "疑似谢霆锋配料表曝光",
+        "onboard_time": 1769084122,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206568,
+        "num": 157102,
+        "word": "小伙致女友怀孕称年龄不适合结婚",
+        "onboard_time": 1769080699,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87078,
+        "num": 155911,
+        "word": "必胜客崩了",
+        "onboard_time": 1769085682,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44530,
+        "num": 154496,
+        "word": "预制菜将有国家标准",
+        "onboard_time": 1769082621,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153079,
+        "num": 153079,
+        "word": "小龙女让王一博演早HE了",
+        "onboard_time": 1769075600,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148302,
+        "num": 148302,
+        "word": "久坐不动真的会导致猝死",
+        "onboard_time": 1769083579,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133574,
+        "num": 133574,
+        "word": "不要穿一身白去滑雪",
+        "onboard_time": 1769071941,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 125628,
+        "num": 125628,
+        "word": "朱志鑫报备水晶球合格",
+        "onboard_time": 1769085560,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93493,
+        "num": 123711,
+        "word": "北京卫视春晚",
+        "onboard_time": 1769085199,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107046,
+        "num": 122220,
+        "word": "杨振宁曾说中学生留美非常危险",
+        "onboard_time": 1769084960,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121983,
+        "num": 121983,
+        "word": "徐若晗 英语老师的即视感",
+        "onboard_time": 1769086522,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24524,
+        "num": 119881,
+        "word": "中方回应特朗普达沃斯言论",
+        "onboard_time": 1769086522,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 43161,
+        "num": 118695,
+        "word": "福耀科大校长回应大一学生被企业抢光",
+        "onboard_time": 1769086341,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9819,
+        "num": 118453,
+        "word": "赌徒丈夫曾发网络杀妻照威胁前妻",
+        "onboard_time": 1769086701,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118434,
+        "num": 118434,
+        "word": "宋威龙珍珠造型",
+        "onboard_time": 1769077041,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97080,
+        "num": 97080,
+        "word": "炽热吸引",
+        "onboard_time": 1769086641,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84764,
+        "num": 96075,
+        "word": "小轩 下场继续加油",
+        "onboard_time": 1769086220,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96035,
+        "num": 96035,
+        "word": "这个演员阵容看得我大事很妙",
+        "onboard_time": 1769086941,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93380,
+        "num": 93380,
+        "word": "林一跟陈星旭讲吊桥效应",
+        "onboard_time": 1769084480,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81954,
+        "num": 92338,
+        "word": "向鱼赛后发博",
+        "onboard_time": 1769085141,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91902,
+        "num": 91902,
+        "word": "这居然是我妈幂的生图",
+        "onboard_time": 1769084181,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85139,
+        "num": 85139,
+        "word": "重返狼群 拖欠稿费",
+        "onboard_time": 1769087001,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81949,
+        "num": 81949,
+        "word": "六大行集体发布公告",
+        "onboard_time": 1769085501,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 83189,
+        "num": 81165,
+        "word": "网红周媛主账号被封",
+        "onboard_time": 1769078420,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委主席习近平签署命令#"
+    }
+  }
+}
