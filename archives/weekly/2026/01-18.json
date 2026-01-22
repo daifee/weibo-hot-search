@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769092739508,
+  "endTime": 1769093814157,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -147,8 +147,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1439529,
-      "num": 1439529,
+      "raw_hot": 1461666,
+      "num": 1461666,
       "word": "清华大学拟退学2名博士",
       "onboard_time": 1769089161,
       "rank": 0,
@@ -1147,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 596502,
+      "num": 596502,
+      "word": "奥斯卡提名",
+      "onboard_time": 1769090422,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 592718,
       "num": 324622,
       "word": "张凌赫林允喂药吻",
@@ -1195,6 +1203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 580631,
+      "num": 886447,
+      "word": "女硕士失踪案2人涉嫌强奸被起诉",
+      "onboard_time": 1769091381,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 576808,
       "num": 295292,
       "word": "宋威龙庆功宴造型",
@@ -1225,14 +1241,6 @@
       "onboard_time": 1769053521,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 571460,
-      "num": 571460,
-      "word": "奥斯卡提名",
-      "onboard_time": 1769090422,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 568844,
@@ -1721,14 +1729,6 @@
       "onboard_time": 1768720880,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 466296,
-      "num": 884543,
-      "word": "女硕士失踪案2人涉嫌强奸被起诉",
-      "onboard_time": 1769091381,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 466145,
@@ -3035,6 +3035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 308364,
+      "num": 248622,
+      "word": "星星人",
+      "onboard_time": 1769091741,
+      "rank": 5,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 308219,
       "num": 757717,
       "word": "羽生结弦亲吻冰面的最后一吻",
@@ -3153,6 +3161,14 @@
       "onboard_time": 1768981880,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 298310,
+      "num": 127707,
+      "word": "网红周媛实名主账号被封",
+      "onboard_time": 1769090001,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 298280,
@@ -3873,14 +3889,6 @@
       "onboard_time": 1768902201,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 248622,
-      "num": 248622,
-      "word": "星星人",
-      "onboard_time": 1769091741,
-      "rank": 5,
-      "category": "休闲"
     },
     {
       "raw_hot": 248355,
@@ -5843,14 +5851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170922,
-      "num": 127707,
-      "word": "网红周媛实名主账号被封",
-      "onboard_time": 1769090001,
-      "rank": 36,
-      "category": "网红"
-    },
-    {
       "raw_hot": 170875,
       "num": 170875,
       "word": "LV大秀",
@@ -6899,6 +6899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147809,
+      "num": 157818,
+      "word": "六大行集体发布公告",
+      "onboard_time": 1769085501,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 147371,
       "num": 91405,
       "word": "向华强说娱乐圈明星美女他看不上眼",
@@ -6928,6 +6936,14 @@
       "word": "陈哲远妈生颜霸",
       "onboard_time": 1768912823,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 146623,
+      "num": 119413,
+      "word": "朱志鑫课间休息收到一个快递",
+      "onboard_time": 1769093180,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -8171,6 +8187,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 125201,
+      "num": 125201,
+      "word": "学胖东来的第二年永辉又亏了21亿",
+      "onboard_time": 1769091623,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 125184,
       "num": 125184,
       "word": "孔雪儿满分女人",
@@ -8515,6 +8539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120579,
+      "num": 167540,
+      "word": "被前夫杀害女子只吃2元钱的饭",
+      "onboard_time": 1769085080,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120463,
       "num": 134537,
       "word": "官方通报少年遭生父继母虐待离世",
@@ -8680,14 +8712,6 @@
       "word": "深圳一地铁口被电鸡堵得走不动",
       "onboard_time": 1768741342,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118744,
-      "num": 167540,
-      "word": "被前夫杀害女子只吃2元钱的饭",
-      "onboard_time": 1769085080,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -9193,6 +9217,14 @@
       "onboard_time": 1768729823,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113870,
+      "num": 113870,
+      "word": "李昀锐孟子义 分不清是戏里还是戏外",
+      "onboard_time": 1769092941,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 113820,
@@ -9891,14 +9923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 106134,
-      "num": 157818,
-      "word": "六大行集体发布公告",
-      "onboard_time": 1769085501,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 106081,
       "num": 106081,
       "word": "你说烂人真心那我就要品一品了",
@@ -9961,6 +9985,14 @@
       "onboard_time": 1769001503,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 105460,
+      "num": 98222,
+      "word": "黄景瑜你是真的要上天啊",
+      "onboard_time": 1769092701,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 105350,
@@ -10241,6 +10273,14 @@
       "onboard_time": 1768867519,
       "rank": 34,
       "category": "海外新闻,游戏"
+    },
+    {
+      "raw_hot": 103708,
+      "num": 97265,
+      "word": "林一回应陈星旭王玉雯这条是为谁发的",
+      "onboard_time": 1769092461,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 103686,
@@ -10611,6 +10651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100319,
+      "num": 96341,
+      "word": "朱一龙每次拍硬照都要P黑",
+      "onboard_time": 1769091741,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100266,
       "num": 100266,
       "word": "我摆摊是为了赚钱不是让你来上货的",
@@ -10777,6 +10825,14 @@
       "onboard_time": 1768837999,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 99202,
+      "num": 99202,
+      "word": "必胜客道歉",
+      "onboard_time": 1769090723,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99138,
@@ -11203,6 +11259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 96316,
+      "num": 96316,
+      "word": "突然的喜欢 编剧吃菌子",
+      "onboard_time": 1769089941,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96274,
       "num": 190753,
       "word": "王楚钦的思归与坚守",
@@ -11265,14 +11329,6 @@
       "onboard_time": 1768917860,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 95681,
-      "num": 95681,
-      "word": "突然的喜欢 编剧吃菌子",
-      "onboard_time": 1769089941,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 95582,
@@ -12939,14 +12995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85214,
-      "num": 80744,
-      "word": "黄景瑜你是真的要上天啊",
-      "onboard_time": 1769092701,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 85132,
       "num": 85132,
       "word": "银川地震",
@@ -13067,14 +13115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84356,
-      "num": 84356,
-      "word": "学胖东来的第二年永辉又亏了21亿",
-      "onboard_time": 1769091623,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
       "raw_hot": 84337,
       "num": 99869,
       "word": "一个人最不成熟的行为",
@@ -13187,14 +13227,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 83383,
-      "num": 80207,
-      "word": "林一回应陈星旭王玉雯这条是为谁发的",
-      "onboard_time": 1769092461,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 83355,
       "num": 81691,
       "word": "申浩男新剧阴湿男味太对了",
@@ -13249,6 +13281,14 @@
       "onboard_time": 1769071281,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82713,
+      "num": 94334,
+      "word": "香港发生外籍女佣虐婴案",
+      "onboard_time": 1769093782,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82705,
@@ -13361,6 +13401,14 @@
       "onboard_time": 1769091441,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 82108,
+      "num": 96780,
+      "word": "云南的冬天被染成粉红色",
+      "onboard_time": 1769093121,
+      "rank": 41,
+      "category": "旅游"
     },
     {
       "raw_hot": 82092,
@@ -15043,14 +15091,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 63212,
-      "num": 90928,
-      "word": "朱一龙每次拍硬照都要P黑",
-      "onboard_time": 1769091741,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 63117,
       "num": 88886,
       "word": "张远的远房亲戚都可以来住了",
@@ -15137,6 +15177,14 @@
       "onboard_time": 1768778598,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62064,
+      "num": 687237,
+      "word": "预制菜这几个关键问题需进一步厘清",
+      "onboard_time": 1769088021,
+      "rank": 10,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 61977,
@@ -15289,14 +15337,6 @@
       "onboard_time": 1768788619,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59003,
-      "num": 682361,
-      "word": "预制菜这几个关键问题需进一步厘清",
-      "onboard_time": 1769088021,
-      "rank": 10,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 58941,
@@ -16753,6 +16793,14 @@
       "onboard_time": 1769054841,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27018,
+      "num": 97337,
+      "word": "北京首例宠物中毒刑事公诉案二审立案",
+      "onboard_time": 1769093361,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27014,

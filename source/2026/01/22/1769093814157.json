@@ -1,0 +1,410 @@
+{
+  "runTime": 1769093814157,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1461666,
+        "num": 1461666,
+        "word": "清华大学拟退学2名博士",
+        "onboard_time": 1769089161,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 580631,
+        "num": 886447,
+        "word": "女硕士失踪案2人涉嫌强奸被起诉",
+        "onboard_time": 1769091381,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62064,
+        "num": 687237,
+        "word": "预制菜这几个关键问题需进一步厘清",
+        "onboard_time": 1769088021,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 596502,
+        "num": 596502,
+        "word": "奥斯卡提名",
+        "onboard_time": 1769090422,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 234061,
+        "num": 234061,
+        "word": "生命树",
+        "onboard_time": 1769083461,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308364,
+        "num": 230415,
+        "word": "星星人",
+        "onboard_time": 1769091741,
+        "rank": 5,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 461752,
+        "num": 229785,
+        "word": "王玉雯演技",
+        "onboard_time": 1769089221,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224127,
+        "num": 224127,
+        "word": "一超市金车厘子一箱2800元",
+        "onboard_time": 1769083640,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183059,
+        "num": 183059,
+        "word": "地球出现6小时特大地磁暴",
+        "onboard_time": 1769089041,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147809,
+        "num": 147809,
+        "word": "六大行集体发布公告",
+        "onboard_time": 1769085501,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 826277,
+        "num": 137706,
+        "word": "重返狼群 拖欠稿费",
+        "onboard_time": 1769087001,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 422778,
+        "num": 136683,
+        "word": "韩国国旗 车银优",
+        "onboard_time": 1769066660,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126907,
+        "num": 126907,
+        "word": "iPhoneFold售价曝光",
+        "onboard_time": 1769078480,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 357703,
+        "num": 126431,
+        "word": "黄景瑜 太空旅游",
+        "onboard_time": 1769088742,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319129,
+        "num": 126120,
+        "word": "李行亮谈因网友抵制接不到工作",
+        "onboard_time": 1769089462,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125201,
+        "num": 125201,
+        "word": "学胖东来的第二年永辉又亏了21亿",
+        "onboard_time": 1769091623,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 298310,
+        "num": 123654,
+        "word": "网红周媛实名主账号被封",
+        "onboard_time": 1769090001,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 121106,
+        "num": 121106,
+        "word": "卖霉豆腐已经有人实操上了",
+        "onboard_time": 1769067021,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 120579,
+        "num": 120579,
+        "word": "被前夫杀害女子只吃2元钱的饭",
+        "onboard_time": 1769085080,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111409,
+        "num": 120465,
+        "word": "卡拉胶 胰岛素抵抗",
+        "onboard_time": 1769078539,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 731764,
+        "num": 120339,
+        "word": "肯德基崩了",
+        "onboard_time": 1769079320,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448486,
+        "num": 120152,
+        "word": "牢A",
+        "onboard_time": 1769085141,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372168,
+        "num": 119949,
+        "word": "猝死程序员日记写努力努力再努力",
+        "onboard_time": 1769087180,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326232,
+        "num": 119819,
+        "word": "突然的喜欢",
+        "onboard_time": 1769076500,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289363,
+        "num": 119719,
+        "word": "疑似谢霆锋配料表曝光",
+        "onboard_time": 1769084122,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169179,
+        "num": 119533,
+        "word": "妻子不孕丈夫要求离婚并退全额彩礼",
+        "onboard_time": 1769083579,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146623,
+        "num": 119413,
+        "word": "朱志鑫课间休息收到一个快递",
+        "onboard_time": 1769093180,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140545,
+        "num": 119161,
+        "word": "杨幂穿Prada的女王",
+        "onboard_time": 1769073201,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 130472,
+        "num": 119021,
+        "word": "小伙致女友怀孕称年龄不适合结婚",
+        "onboard_time": 1769080699,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125316,
+        "num": 118886,
+        "word": "牢A的故事一个一个被证实",
+        "onboard_time": 1769074222,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 124607,
+        "num": 118766,
+        "word": "发生猝死的征兆",
+        "onboard_time": 1769072301,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118633,
+        "num": 118633,
+        "word": "穆祉丞高会",
+        "onboard_time": 1769087660,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113870,
+        "num": 113870,
+        "word": "李昀锐孟子义 分不清是戏里还是戏外",
+        "onboard_time": 1769092941,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99202,
+        "num": 99202,
+        "word": "必胜客道歉",
+        "onboard_time": 1769090723,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108864,
+        "num": 99089,
+        "word": "TF荣耀之战双人舞台分组",
+        "onboard_time": 1769089161,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108134,
+        "num": 98674,
+        "word": "车银优被韩网友喊话退圈",
+        "onboard_time": 1769076440,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86064,
+        "num": 98415,
+        "word": "终末地",
+        "onboard_time": 1769066901,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105460,
+        "num": 98222,
+        "word": "黄景瑜你是真的要上天啊",
+        "onboard_time": 1769092701,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79270,
+        "num": 97909,
+        "word": "甲亢哥才21岁",
+        "onboard_time": 1769079501,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 27018,
+        "num": 97337,
+        "word": "北京首例宠物中毒刑事公诉案二审立案",
+        "onboard_time": 1769093361,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103708,
+        "num": 97265,
+        "word": "林一回应陈星旭王玉雯这条是为谁发的",
+        "onboard_time": 1769092461,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82108,
+        "num": 96780,
+        "word": "云南的冬天被染成粉红色",
+        "onboard_time": 1769093121,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 100319,
+        "num": 96341,
+        "word": "朱一龙每次拍硬照都要P黑",
+        "onboard_time": 1769091741,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96316,
+        "num": 96316,
+        "word": "突然的喜欢 编剧吃菌子",
+        "onboard_time": 1769089941,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82713,
+        "num": 94334,
+        "word": "香港发生外籍女佣虐婴案",
+        "onboard_time": 1769093782,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93971,
+        "num": 93971,
+        "word": "黄晓明这段爆发看得我乳腺通畅",
+        "onboard_time": 1769090663,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92622,
+        "num": 92622,
+        "word": "原来在陈星旭胸口聊天的源头在这",
+        "onboard_time": 1769090663,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81849,
+        "num": 87248,
+        "word": "日本农业大臣谈吃草莓最后吃尖尖",
+        "onboard_time": 1769091201,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 83794,
+        "num": 83794,
+        "word": "小龙女让王一博演早HE了",
+        "onboard_time": 1769075600,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82961,
+        "num": 82961,
+        "word": "突然的喜欢 大头特效",
+        "onboard_time": 1769087723,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委主席习近平签署命令#"
+    }
+  }
+}

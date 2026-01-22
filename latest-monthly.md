@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/22 22:38:59
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/22 22:56:54
 </p>
 </blockquote>
 <p>
@@ -514,7 +514,7 @@ U23国足vs乌兹别克斯坦（热度：1464712）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E6%8B%9F%E9%80%80%E5%AD%A62%E5%90%8D%E5%8D%9A%E5%A3%AB%23" target="weibo">
-清华大学拟退学2名博士（热度：1439529）
+清华大学拟退学2名博士（热度：1461666）
 </a>
 </li>
 
@@ -3141,6 +3141,12 @@ iPhone18Pro渲染视频曝光（热度：621333）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E6%96%AF%E5%8D%A1%E6%8F%90%E5%90%8D%23" target="weibo">
+奥斯卡提名（热度：596502）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%A4%B4%E8%90%9D%E8%8E%89%E8%87%AA%E6%9B%9D%E8%B4%9F%E5%80%BA650%E4%B8%87%E6%88%90%E8%80%81%E8%B5%96%23" target="weibo">
 狗头萝莉自曝负债650万成老赖（热度：595132）
 </a>
@@ -3309,6 +3315,12 @@ iPhone18Pro渲染视频曝光（热度：621333）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%A1%95%E5%A3%AB%E5%A4%B1%E8%B8%AA%E6%A1%882%E4%BA%BA%E6%B6%89%E5%AB%8C%E5%BC%BA%E5%A5%B8%E8%A2%AB%E8%B5%B7%E8%AF%89%23" target="weibo">
+女硕士失踪案2人涉嫌强奸被起诉（热度：580631）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E5%A4%A7%E7%88%86%23" target="weibo">
 江苏卫视大爆（热度：580217）
 </a>
@@ -3455,12 +3467,6 @@ iPhone18Pro渲染视频曝光（热度：621333）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%90%83%E8%87%AA%E5%8A%A9%E9%A4%90%E5%B0%8F%E8%9B%8B%E7%B3%95%E7%9A%84%E5%A4%A9%E5%A1%8C%E4%BA%86%23" target="weibo">
 爱吃自助餐小蛋糕的天塌了（热度：572347）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E6%96%AF%E5%8D%A1%E6%8F%90%E5%90%8D%23" target="weibo">
-奥斯卡提名（热度：571460）
 </a>
 </li>
 
@@ -5183,12 +5189,6 @@ iPhone千万别删的自带软件（热度：474519）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%A0%E4%BA%86%E5%90%A7%E6%9C%89%E4%B8%AA%E6%89%93%E5%B7%A5%E7%9A%84%E7%A0%B4%E9%98%B2%E4%BA%86%23" target="weibo">
 删了吧有个打工的破防了（热度：466788）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%A1%95%E5%A3%AB%E5%A4%B1%E8%B8%AA%E6%A1%882%E4%BA%BA%E6%B6%89%E5%AB%8C%E5%BC%BA%E5%A5%B8%E8%A2%AB%E8%B5%B7%E8%AF%89%23" target="weibo">
-女硕士失踪案2人涉嫌强奸被起诉（热度：466296）
 </a>
 </li>
 
