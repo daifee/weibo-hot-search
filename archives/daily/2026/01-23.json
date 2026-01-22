@@ -1,6 +1,6 @@
 {
   "startTime": 1769100257042,
-  "endTime": 1769111165206,
+  "endTime": 1769114273638,
   "band_list": [
     {
       "raw_hot": 512156,
@@ -499,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 18426,
+      "num": 26517,
+      "word": "美国人在线求助",
+      "onboard_time": 1769109495,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 18187,
       "num": 32698,
       "word": "小城大事",
@@ -507,12 +515,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15379,
-      "num": 26517,
-      "word": "美国人在线求助",
-      "onboard_time": 1769109495,
-      "rank": 45,
-      "category": "海外新闻"
+      "raw_hot": 15027,
+      "num": 15027,
+      "word": "王源自拍小卡",
+      "onboard_time": 1769111594,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 15019,
@@ -529,6 +537,14 @@
       "onboard_time": 1769085199,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 4878,
+      "num": 32279,
+      "word": "2025年我国农业现代化水平持续提升",
+      "onboard_time": 1769070381,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

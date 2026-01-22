@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769111165206,
+  "endTime": 1769114273638,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -73075,6 +73075,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 18426,
+      "num": 26517,
+      "word": "美国人在线求助",
+      "onboard_time": 1769109495,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 18295,
       "num": 59232,
       "word": "高超callback老麦克",
@@ -73531,14 +73539,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 15379,
-      "num": 26517,
-      "word": "美国人在线求助",
-      "onboard_time": 1769109495,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 15312,
       "num": 80634,
       "word": "德甲总经理说樊振东是世界上最好的球员",
@@ -73593,6 +73593,14 @@
       "onboard_time": 1767666680,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15027,
+      "num": 15027,
+      "word": "王源自拍小卡",
+      "onboard_time": 1769111594,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 14917,
