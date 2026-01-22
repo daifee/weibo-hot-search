@@ -1,0 +1,410 @@
+{
+  "runTime": 1769078249667,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 456334,
+        "num": 1073013,
+        "word": "重庆有献血车进中学引关注",
+        "onboard_time": 1769072841,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330769,
+        "num": 788923,
+        "word": "内娱终于有人拍出这段沉痛的往事了",
+        "onboard_time": 1769076140,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28552,
+        "num": 611374,
+        "word": "一分钟读懂中国经济韧性",
+        "onboard_time": 1769071161,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 297395,
+        "num": 297395,
+        "word": "智利车厘子园大面积被烧恐涨价",
+        "onboard_time": 1769065821,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 257128,
+        "num": 257128,
+        "word": "何不同舟渡",
+        "onboard_time": 1769074699,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 533693,
+        "num": 253870,
+        "word": "发生猝死的征兆",
+        "onboard_time": 1769072301,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309124,
+        "num": 251053,
+        "word": "卖霉豆腐已经有人实操上了",
+        "onboard_time": 1769067021,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 240255,
+        "num": 240255,
+        "word": "尾号88888888马钞被领走",
+        "onboard_time": 1769065040,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233899,
+        "num": 233899,
+        "word": "突然的喜欢",
+        "onboard_time": 1769076500,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139655,
+        "num": 177452,
+        "word": "今年最烂大街的穿搭",
+        "onboard_time": 1769038097,
+        "rank": 9,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 294943,
+        "num": 173558,
+        "word": "不要穿一身白去滑雪",
+        "onboard_time": 1769071941,
+        "rank": 10,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 160635,
+        "num": 160635,
+        "word": "虞书欣云初令云初粉黛芙蓉",
+        "onboard_time": 1769075060,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154203,
+        "num": 154203,
+        "word": "春节前瘦10斤突击法",
+        "onboard_time": 1769071821,
+        "rank": 12,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 146221,
+        "num": 146221,
+        "word": "白鹿亲爱的客栈录制路透",
+        "onboard_time": 1769070860,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143181,
+        "num": 143181,
+        "word": "宫外孕切子宫离婚却被索要彩礼",
+        "onboard_time": 1769063960,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124515,
+        "num": 124515,
+        "word": "新生儿医保照片难到我了",
+        "onboard_time": 1769069542,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122762,
+        "num": 122762,
+        "word": "dyg对战rngm",
+        "onboard_time": 1769076920,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106794,
+        "num": 106794,
+        "word": "终末地",
+        "onboard_time": 1769066901,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99629,
+        "num": 99629,
+        "word": "谁懂檀健次朝我奔来的含金量",
+        "onboard_time": 1769078180,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72130,
+        "num": 99596,
+        "word": "伊朗近期骚乱超3000人死亡",
+        "onboard_time": 1769077640,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 497581,
+        "num": 99318,
+        "word": "韩国国旗 车银优",
+        "onboard_time": 1769066660,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486344,
+        "num": 99032,
+        "word": "牢A的故事一个一个被证实",
+        "onboard_time": 1769074222,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 336795,
+        "num": 98764,
+        "word": "程序员猝死当天5次访问公司OA系统",
+        "onboard_time": 1769048840,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98589,
+        "num": 98589,
+        "word": "张函瑞王橹杰如果我们不曾相遇",
+        "onboard_time": 1769075301,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 243079,
+        "num": 98587,
+        "word": "小龙女让王一博演早HE了",
+        "onboard_time": 1769075600,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238674,
+        "num": 98583,
+        "word": "A股",
+        "onboard_time": 1769071702,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 454227,
+        "num": 98577,
+        "word": "车银优被韩网友喊话退圈",
+        "onboard_time": 1769076440,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86177,
+        "num": 98571,
+        "word": "林诗栋因遮挡被罚2分",
+        "onboard_time": 1769074100,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84827,
+        "num": 98566,
+        "word": "孙颖莎思归妈妈的味道",
+        "onboard_time": 1769076739,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49707,
+        "num": 98559,
+        "word": "看完王鹤棣演唱会后劲还在",
+        "onboard_time": 1769074522,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 229020,
+        "num": 98556,
+        "word": "恋综男嘉宾偷东西给女嘉宾吃",
+        "onboard_time": 1769068341,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182528,
+        "num": 98548,
+        "word": "8万8性商课取悦了谁收割了谁",
+        "onboard_time": 1769076140,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208900,
+        "num": 98543,
+        "word": "宋威龙珍珠造型",
+        "onboard_time": 1769077041,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196674,
+        "num": 98539,
+        "word": "杨幂马龙徐若晗同框",
+        "onboard_time": 1769077460,
+        "rank": 33,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 112910,
+        "num": 98533,
+        "word": "牢A谈女留学生是怎么被陷害的",
+        "onboard_time": 1769060539,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85651,
+        "num": 98527,
+        "word": "第五人格",
+        "onboard_time": 1769074881,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189463,
+        "num": 98521,
+        "word": "梓渝工作室发库存",
+        "onboard_time": 1769077941,
+        "rank": 36,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 133792,
+        "num": 98512,
+        "word": "饭圈欺凌行为不氪金就不忠诚",
+        "onboard_time": 1769076560,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58070,
+        "num": 98508,
+        "word": "马库斯图片展日本老人否认日本侵华",
+        "onboard_time": 1769077160,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 74997,
+        "num": 98506,
+        "word": "第一次见骚扰别人自己留证据的",
+        "onboard_time": 1769077941,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167203,
+        "num": 98498,
+        "word": "棣妈想去陪王鹤棣养伤",
+        "onboard_time": 1769075240,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98495,
+        "num": 98495,
+        "word": "突然懂为什么是生姜高光了",
+        "onboard_time": 1769072000,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161929,
+        "num": 97984,
+        "word": "CL被移交至韩检方",
+        "onboard_time": 1769075721,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128161,
+        "num": 97801,
+        "word": "刘宇宁说你拿着成毅拍我",
+        "onboard_time": 1769073081,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97212,
+        "num": 97212,
+        "word": "马龙Prada皮衣",
+        "onboard_time": 1769077941,
+        "rank": 44,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 76728,
+        "num": 97158,
+        "word": "800元一个粉菠萝是收颜色税吗",
+        "onboard_time": 1769073861,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127510,
+        "num": 96687,
+        "word": "追觅CEO俞浩怒怼陈飞宇粉丝",
+        "onboard_time": 1769077340,
+        "rank": 46,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 124136,
+        "num": 96492,
+        "word": "高越 高超又破防了",
+        "onboard_time": 1769074401,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84343,
+        "num": 96301,
+        "word": "HLE对战BRO",
+        "onboard_time": 1769075662,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113004,
+        "num": 95734,
+        "word": "宋亚轩带鼠标跳娃娃脸",
+        "onboard_time": 1769072240,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#自觉为人民出政绩以实干出政绩#"
+    }
+  }
+}

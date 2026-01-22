@@ -1,6 +1,6 @@
 {
   "startTime": 1769015008764,
-  "endTime": 1769075730055,
+  "endTime": 1769078249667,
   "band_list": [
     {
       "raw_hot": 1924560,
@@ -227,19 +227,19 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 533693,
+      "num": 259748,
+      "word": "发生猝死的征兆",
+      "onboard_time": 1769072301,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 529234,
       "num": 1084677,
       "word": "作不雅手势女子被撞倒为何无人同情",
       "onboard_time": 1769060841,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 522471,
-      "num": 259748,
-      "word": "发生猝死的征兆",
-      "onboard_time": 1769072301,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 486344,
+      "num": 161071,
+      "word": "牢A的故事一个一个被证实",
+      "onboard_time": 1769074222,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 471543,
       "num": 140267,
       "word": "黄星 戒指",
@@ -273,6 +281,22 @@
       "onboard_time": 1769038938,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 456334,
+      "num": 1073013,
+      "word": "重庆有献血车进中学引关注",
+      "onboard_time": 1769072841,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 454227,
+      "num": 98577,
+      "word": "车银优被韩网友喊话退圈",
+      "onboard_time": 1769076440,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 448500,
@@ -411,6 +435,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 330769,
+      "num": 788923,
+      "word": "内娱终于有人拍出这段沉痛的往事了",
+      "onboard_time": 1769076140,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 330482,
       "num": 208895,
       "word": "苹果推出新春优惠",
@@ -467,6 +499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 294943,
+      "num": 173558,
+      "word": "不要穿一身白去滑雪",
+      "onboard_time": 1769071941,
+      "rank": 41,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 293251,
       "num": 203184,
       "word": "终于学会漂漂亮亮不随份子钱了",
@@ -481,14 +521,6 @@
       "onboard_time": 1769061682,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 288040,
-      "num": 161071,
-      "word": "牢A的故事一个一个被证实",
-      "onboard_time": 1769074222,
-      "rank": 31,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 281676,
@@ -571,14 +603,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 262734,
-      "num": 262734,
-      "word": "重庆有献血车进中学引关注",
-      "onboard_time": 1769072841,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 261653,
       "num": 249806,
       "word": "惊蛰无声全员素颜",
@@ -587,12 +611,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 257128,
+      "num": 257128,
+      "word": "何不同舟渡",
+      "onboard_time": 1769074699,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 252960,
       "num": 209068,
       "word": "王源实体专辑",
       "onboard_time": 1769052500,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 243079,
+      "num": 108092,
+      "word": "小龙女让王一博演早HE了",
+      "onboard_time": 1769075600,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 237212,
@@ -609,6 +649,14 @@
       "onboard_time": 1769041581,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 233899,
+      "num": 233899,
+      "word": "突然的喜欢",
+      "onboard_time": 1769076500,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 232018,
@@ -715,6 +763,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 208900,
+      "num": 98543,
+      "word": "宋威龙珍珠造型",
+      "onboard_time": 1769077041,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 203922,
       "num": 203922,
       "word": "14岁女孩追星一个月消费6万余元",
@@ -779,6 +835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196674,
+      "num": 98539,
+      "word": "杨幂马龙徐若晗同框",
+      "onboard_time": 1769077460,
+      "rank": 33,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 195384,
       "num": 93339,
       "word": "美国现在连尸体脂肪都不放过",
@@ -793,14 +857,6 @@
       "onboard_time": 1769050039,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 194074,
-      "num": 194074,
-      "word": "何不同舟渡",
-      "onboard_time": 1769074699,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 192986,
@@ -843,12 +899,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189463,
+      "num": 98521,
+      "word": "梓渝工作室发库存",
+      "onboard_time": 1769077941,
+      "rank": 36,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 186791,
       "num": 186791,
       "word": "杨紫粉丝在剧宣这块一骑绝尘了",
       "onboard_time": 1769066239,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182528,
+      "num": 98548,
+      "word": "8万8性商课取悦了谁收割了谁",
+      "onboard_time": 1769076140,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180398,
@@ -947,6 +1019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167203,
+      "num": 108728,
+      "word": "棣妈想去陪王鹤棣养伤",
+      "onboard_time": 1769075240,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166514,
       "num": 153827,
       "word": "田曦薇嫁金钗定妆",
@@ -961,6 +1041,14 @@
       "onboard_time": 1769065520,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 161929,
+      "num": 97984,
+      "word": "CL被移交至韩检方",
+      "onboard_time": 1769075721,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 160846,
@@ -985,6 +1073,14 @@
       "onboard_time": 1769053521,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160635,
+      "num": 160635,
+      "word": "虞书欣云初令云初粉黛芙蓉",
+      "onboard_time": 1769075060,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 159591,
@@ -1115,14 +1211,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 143834,
-      "num": 165101,
-      "word": "不要穿一身白去滑雪",
-      "onboard_time": 1769071941,
-      "rank": 41,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 140765,
       "num": 140765,
       "word": "奥委会回顾樊振东十年高光",
@@ -1195,6 +1283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133792,
+      "num": 98512,
+      "word": "饭圈欺凌行为不氪金就不忠诚",
+      "onboard_time": 1769076560,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131543,
       "num": 97119,
       "word": "陈都灵好有冲击力的美貌",
@@ -1217,6 +1313,14 @@
       "onboard_time": 1769044401,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 127510,
+      "num": 96687,
+      "word": "追觅CEO俞浩怒怼陈飞宇粉丝",
+      "onboard_time": 1769077340,
+      "rank": 46,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 127312,
@@ -1273,6 +1377,14 @@
       "onboard_time": 1769043681,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 122762,
+      "num": 122762,
+      "word": "dyg对战rngm",
+      "onboard_time": 1769076920,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 122716,
@@ -1425,14 +1537,6 @@
       "onboard_time": 1769074281,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107870,
-      "num": 113357,
-      "word": "虞书欣云初令云初粉黛芙蓉",
-      "onboard_time": 1769075060,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 107027,
@@ -1603,6 +1707,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 99629,
+      "num": 99629,
+      "word": "谁懂檀健次朝我奔来的含金量",
+      "onboard_time": 1769078180,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99546,
       "num": 176452,
       "word": "程序员猝死涉事公司当被调查",
@@ -1649,6 +1761,14 @@
       "onboard_time": 1769047159,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 97212,
+      "num": 97212,
+      "word": "马龙Prada皮衣",
+      "onboard_time": 1769077941,
+      "rank": 44,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 97111,
@@ -1811,6 +1931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84827,
+      "num": 98566,
+      "word": "孙颖莎思归妈妈的味道",
+      "onboard_time": 1769076739,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83023,
       "num": 98760,
       "word": "金价波动原因",
@@ -1915,6 +2043,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 74997,
+      "num": 98506,
+      "word": "第一次见骚扰别人自己留证据的",
+      "onboard_time": 1769077941,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 74293,
       "num": 107288,
       "word": "1899元错版马茅已被炒到2800元",
@@ -1929,6 +2065,14 @@
       "onboard_time": 1769037257,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 72130,
+      "num": 99596,
+      "word": "伊朗近期骚乱超3000人死亡",
+      "onboard_time": 1769077640,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 71579,
@@ -1969,14 +2113,6 @@
       "onboard_time": 1769054540,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 68648,
-      "num": 108092,
-      "word": "小龙女让王一博演早HE了",
-      "onboard_time": 1769075600,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 68275,
@@ -2051,14 +2187,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 61092,
-      "num": 108728,
-      "word": "棣妈想去陪王鹤棣养伤",
-      "onboard_time": 1769075240,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 60933,
       "num": 176202,
       "word": "北京又又又要下雪了",
@@ -2081,6 +2209,14 @@
       "onboard_time": 1769074522,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 58070,
+      "num": 98508,
+      "word": "马库斯图片展日本老人否认日本侵华",
+      "onboard_time": 1769077160,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 58039,
