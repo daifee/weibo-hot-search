@@ -1,0 +1,410 @@
+{
+  "runTime": 1769092739508,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1439529,
+        "num": 1439529,
+        "word": "清华大学拟退学2名博士",
+        "onboard_time": 1769089161,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 466296,
+        "num": 884543,
+        "word": "女硕士失踪案2人涉嫌强奸被起诉",
+        "onboard_time": 1769091381,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59003,
+        "num": 682361,
+        "word": "预制菜这几个关键问题需进一步厘清",
+        "onboard_time": 1769088021,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 571460,
+        "num": 571460,
+        "word": "奥斯卡提名",
+        "onboard_time": 1769090422,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 342646,
+        "num": 342646,
+        "word": "生命树",
+        "onboard_time": 1769083461,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248622,
+        "num": 248622,
+        "word": "星星人",
+        "onboard_time": 1769091741,
+        "rank": 5,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 513234,
+        "num": 248282,
+        "word": "王玉雯演技",
+        "onboard_time": 1769089221,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246876,
+        "num": 246876,
+        "word": "一超市金车厘子一箱2800元",
+        "onboard_time": 1769083640,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174415,
+        "num": 174415,
+        "word": "地球出现6小时特大地磁暴",
+        "onboard_time": 1769089041,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125256,
+        "num": 155495,
+        "word": "卖霉豆腐已经有人实操上了",
+        "onboard_time": 1769067021,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 892970,
+        "num": 154934,
+        "word": "重返狼群 拖欠稿费",
+        "onboard_time": 1769087001,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 417728,
+        "num": 150631,
+        "word": "韩国国旗 车银优",
+        "onboard_time": 1769066660,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143670,
+        "num": 143670,
+        "word": "iPhoneFold售价曝光",
+        "onboard_time": 1769078480,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 365848,
+        "num": 139691,
+        "word": "李行亮谈因网友抵制接不到工作",
+        "onboard_time": 1769089462,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355562,
+        "num": 136438,
+        "word": "黄景瑜 太空旅游",
+        "onboard_time": 1769088742,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131624,
+        "num": 131624,
+        "word": "卡拉胶 胰岛素抵抗",
+        "onboard_time": 1769078539,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175306,
+        "num": 131270,
+        "word": "杨幂穿Prada的女王",
+        "onboard_time": 1769073201,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 118744,
+        "num": 131205,
+        "word": "被前夫杀害女子只吃2元钱的饭",
+        "onboard_time": 1769085080,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106134,
+        "num": 130597,
+        "word": "六大行集体发布公告",
+        "onboard_time": 1769085501,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 95482,
+        "num": 130111,
+        "word": "甲亢哥才21岁",
+        "onboard_time": 1769079501,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 867367,
+        "num": 129827,
+        "word": "肯德基崩了",
+        "onboard_time": 1769079320,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 528092,
+        "num": 129547,
+        "word": "突然的喜欢",
+        "onboard_time": 1769076500,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 489616,
+        "num": 129283,
+        "word": "牢A",
+        "onboard_time": 1769085141,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360177,
+        "num": 128754,
+        "word": "疑似谢霆锋配料表曝光",
+        "onboard_time": 1769084122,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 357613,
+        "num": 128386,
+        "word": "猝死程序员日记写努力努力再努力",
+        "onboard_time": 1769087180,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234839,
+        "num": 128055,
+        "word": "妻子不孕丈夫要求离婚并退全额彩礼",
+        "onboard_time": 1769083579,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170922,
+        "num": 127707,
+        "word": "网红周媛实名主账号被封",
+        "onboard_time": 1769090001,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 164441,
+        "num": 127384,
+        "word": "穆祉丞高会",
+        "onboard_time": 1769087660,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144162,
+        "num": 127017,
+        "word": "牢A的故事一个一个被证实",
+        "onboard_time": 1769074222,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 134593,
+        "num": 126300,
+        "word": "发生猝死的征兆",
+        "onboard_time": 1769072301,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126268,
+        "num": 126268,
+        "word": "小伙致女友怀孕称年龄不适合结婚",
+        "onboard_time": 1769080699,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126116,
+        "num": 126116,
+        "word": "原来在陈星旭胸口聊天的源头在这",
+        "onboard_time": 1769090663,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122763,
+        "num": 122763,
+        "word": "TF荣耀之战双人舞台分组",
+        "onboard_time": 1769089161,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102334,
+        "num": 115010,
+        "word": "58岁农民工一天200元养大8个娃",
+        "onboard_time": 1769088381,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110947,
+        "num": 110947,
+        "word": "黄晓明这段爆发看得我乳腺通畅",
+        "onboard_time": 1769090663,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105736,
+        "num": 105736,
+        "word": "车银优被韩网友喊话退圈",
+        "onboard_time": 1769076440,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86814,
+        "num": 98797,
+        "word": "日本农业大臣谈吃草莓最后吃尖尖",
+        "onboard_time": 1769091201,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 96087,
+        "num": 96087,
+        "word": "重返狼群 怎么会有人被牛一板砖拍晕",
+        "onboard_time": 1769091802,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 63212,
+        "num": 90928,
+        "word": "朱一龙每次拍硬照都要P黑",
+        "onboard_time": 1769091741,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29864,
+        "num": 90914,
+        "word": "夏威夷果价格便宜近40%",
+        "onboard_time": 1769092222,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90900,
+        "num": 90900,
+        "word": "徐若晗 英语老师的即视感",
+        "onboard_time": 1769086522,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89932,
+        "num": 89932,
+        "word": "突然的喜欢 大头特效",
+        "onboard_time": 1769087723,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84356,
+        "num": 84356,
+        "word": "学胖东来的第二年永辉又亏了21亿",
+        "onboard_time": 1769091623,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 82245,
+        "num": 82245,
+        "word": "你要记住那个给你钱花的人",
+        "onboard_time": 1769091441,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85959,
+        "num": 82140,
+        "word": "突然的喜欢 编剧吃菌子",
+        "onboard_time": 1769089941,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84860,
+        "num": 81997,
+        "word": "小龙女让王一博演早HE了",
+        "onboard_time": 1769075600,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80989,
+        "num": 80989,
+        "word": "久坐不动真的会导致猝死",
+        "onboard_time": 1769083579,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 85214,
+        "num": 80744,
+        "word": "黄景瑜你是真的要上天啊",
+        "onboard_time": 1769092701,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83383,
+        "num": 80207,
+        "word": "林一回应陈星旭王玉雯这条是为谁发的",
+        "onboard_time": 1769092461,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77220,
+        "num": 77220,
+        "word": "特朗普为啥时隔一天态度变了",
+        "onboard_time": 1769092701,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委主席习近平签署命令#"
+    }
+  }
+}

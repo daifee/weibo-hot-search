@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/22 22:02:49
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/22 22:38:59
 </p>
 </blockquote>
 <p>
@@ -509,6 +509,12 @@ U23国足3比0越南U23（热度：1532686）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23U23%E5%9B%BD%E8%B6%B3vs%E4%B9%8C%E5%85%B9%E5%88%AB%E5%85%8B%E6%96%AF%E5%9D%A6%23" target="weibo">
 U23国足vs乌兹别克斯坦（热度：1464712）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E6%8B%9F%E9%80%80%E5%AD%A62%E5%90%8D%E5%8D%9A%E5%A3%AB%23" target="weibo">
+清华大学拟退学2名博士（热度：1439529）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ iPhone18Pro新爆料（热度：826962）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%9C%A8%E9%A3%9E%E6%9C%BA%E4%B8%8A%E7%AA%81%E7%84%B6%E7%84%A6%E8%99%91%E7%97%87%E5%8F%91%E4%BD%9C%23" target="weibo">
 女网红在飞机上突然焦虑症发作（热度：798459）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%B9%E9%94%A1%E6%82%A6%E8%A2%AB%E5%88%A45%E5%B9%B4%23" target="weibo">
-尹锡悦被判5年（热度：797298）
 </a>
 </li>
 

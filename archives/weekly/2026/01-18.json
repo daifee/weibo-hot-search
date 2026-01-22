@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769090569033,
+  "endTime": 1769092739508,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -145,6 +145,14 @@
       "onboard_time": 1769057841,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1439529,
+      "num": 1439529,
+      "word": "清华大学拟退学2名博士",
+      "onboard_time": 1769089161,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1344326,
@@ -1219,6 +1227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 571460,
+      "num": 571460,
+      "word": "奥斯卡提名",
+      "onboard_time": 1769090422,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 568844,
       "num": 842126,
       "word": "日本迎半世纪来首次零熊猫",
@@ -1515,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 513234,
+      "num": 248282,
+      "word": "王玉雯演技",
+      "onboard_time": 1769089221,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 511360,
       "num": 199429,
       "word": "李亚鹏说嫣儿像王菲不像自己",
@@ -1569,14 +1593,6 @@
       "onboard_time": 1768912521,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 489569,
-      "num": 1078331,
-      "word": "清华大学拟退学2名博士",
-      "onboard_time": 1769089161,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 489018,
@@ -1705,6 +1721,14 @@
       "onboard_time": 1768720880,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 466296,
+      "num": 884543,
+      "word": "女硕士失踪案2人涉嫌强奸被起诉",
+      "onboard_time": 1769091381,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 466145,
@@ -2475,6 +2499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 365848,
+      "num": 180235,
+      "word": "李行亮谈因网友抵制接不到工作",
+      "onboard_time": 1769089462,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 364411,
       "num": 335380,
       "word": "王鹤棣演唱会",
@@ -3137,14 +3169,6 @@
       "onboard_time": 1768969221,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 298050,
-      "num": 180235,
-      "word": "李行亮谈因网友抵制接不到工作",
-      "onboard_time": 1769089462,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 297960,
@@ -3849,6 +3873,14 @@
       "onboard_time": 1768902201,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 248622,
+      "num": 248622,
+      "word": "星星人",
+      "onboard_time": 1769091741,
+      "rank": 5,
+      "category": "休闲"
     },
     {
       "raw_hot": 248355,
@@ -5371,14 +5403,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 186160,
-      "num": 186160,
-      "word": "王玉雯演技",
-      "onboard_time": 1769089221,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 185506,
       "num": 170455,
       "word": "陈星旭演技",
@@ -5817,6 +5841,14 @@
       "onboard_time": 1768891580,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170922,
+      "num": 127707,
+      "word": "网红周媛实名主账号被封",
+      "onboard_time": 1769090001,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 170875,
@@ -6473,14 +6505,6 @@
       "onboard_time": 1769068878,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 155853,
-      "num": 155853,
-      "word": "奥斯卡提名",
-      "onboard_time": 1769090422,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 155341,
@@ -8027,20 +8051,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126299,
-      "num": 118059,
-      "word": "网红周媛实名主账号被封",
-      "onboard_time": 1769090001,
-      "rank": 36,
-      "category": "网红"
-    },
-    {
       "raw_hot": 126194,
       "num": 117839,
       "word": "刘耀文少年将军裴行俨",
       "onboard_time": 1768794682,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 126116,
+      "num": 126116,
+      "word": "原来在陈星旭胸口聊天的源头在这",
+      "onboard_time": 1769090663,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 126061,
@@ -8656,6 +8680,14 @@
       "word": "深圳一地铁口被电鸡堵得走不动",
       "onboard_time": 1768741342,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118744,
+      "num": 167540,
+      "word": "被前夫杀害女子只吃2元钱的饭",
+      "onboard_time": 1769085080,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -9363,6 +9395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110947,
+      "num": 110947,
+      "word": "黄晓明这段爆发看得我乳腺通畅",
+      "onboard_time": 1769090663,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110816,
       "num": 131628,
       "word": "U23国足上新闻联播了",
@@ -9707,14 +9747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107227,
-      "num": 167540,
-      "word": "被前夫杀害女子只吃2元钱的饭",
-      "onboard_time": 1769085080,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107206,
       "num": 96109,
       "word": "关晓彤补妆好可爱",
@@ -9857,6 +9889,14 @@
       "onboard_time": 1768904000,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106134,
+      "num": 157818,
+      "word": "六大行集体发布公告",
+      "onboard_time": 1769085501,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 106081,
@@ -11179,6 +11219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 96087,
+      "num": 96087,
+      "word": "重返狼群 怎么会有人被牛一板砖拍晕",
+      "onboard_time": 1769091802,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 95898,
       "num": 95898,
       "word": "第一次见会跳绳的小猫",
@@ -11801,14 +11849,6 @@
       "onboard_time": 1768977140,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 92152,
-      "num": 157818,
-      "word": "六大行集体发布公告",
-      "onboard_time": 1769085501,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 92140,
@@ -12595,6 +12635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86814,
+      "num": 98797,
+      "word": "日本农业大臣谈吃草莓最后吃尖尖",
+      "onboard_time": 1769091201,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 86687,
       "num": 86687,
       "word": "野狗骨头剧本",
@@ -12891,6 +12939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85214,
+      "num": 80744,
+      "word": "黄景瑜你是真的要上天啊",
+      "onboard_time": 1769092701,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85132,
       "num": 85132,
       "word": "银川地震",
@@ -13011,6 +13067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84356,
+      "num": 84356,
+      "word": "学胖东来的第二年永辉又亏了21亿",
+      "onboard_time": 1769091623,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 84337,
       "num": 99869,
       "word": "一个人最不成熟的行为",
@@ -13121,6 +13185,14 @@
       "onboard_time": 1768808842,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 83383,
+      "num": 80207,
+      "word": "林一回应陈星旭王玉雯这条是为谁发的",
+      "onboard_time": 1769092461,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 83355,
@@ -13281,6 +13353,14 @@
       "onboard_time": 1768714940,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82245,
+      "num": 82245,
+      "word": "你要记住那个给你钱花的人",
+      "onboard_time": 1769091441,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 82092,
@@ -13825,6 +13905,14 @@
       "onboard_time": 1768920143,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77220,
+      "num": 77220,
+      "word": "特朗普为啥时隔一天态度变了",
+      "onboard_time": 1769092701,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 77111,
@@ -14955,6 +15043,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 63212,
+      "num": 90928,
+      "word": "朱一龙每次拍硬照都要P黑",
+      "onboard_time": 1769091741,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63117,
       "num": 88886,
       "word": "张远的远房亲戚都可以来住了",
@@ -15193,6 +15289,14 @@
       "onboard_time": 1768788619,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59003,
+      "num": 682361,
+      "word": "预制菜这几个关键问题需进一步厘清",
+      "onboard_time": 1769088021,
+      "rank": 10,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 58941,
@@ -15585,14 +15689,6 @@
       "onboard_time": 1769038698,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 49878,
-      "num": 643923,
-      "word": "预制菜这几个关键问题需进一步厘清",
-      "onboard_time": 1769088021,
-      "rank": 10,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 49645,
@@ -16521,6 +16617,14 @@
       "onboard_time": 1768757236,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 29864,
+      "num": 90914,
+      "word": "夏威夷果价格便宜近40%",
+      "onboard_time": 1769092222,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29598,

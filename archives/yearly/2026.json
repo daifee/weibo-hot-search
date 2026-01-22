@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769090569033,
+  "endTime": 1769092739508,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -665,6 +665,14 @@
       "onboard_time": 1768650021,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1439529,
+      "num": 1439529,
+      "word": "清华大学拟退学2名博士",
+      "onboard_time": 1769089161,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1430098,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768485141,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 797298,
-      "num": 1127567,
-      "word": "尹锡悦被判5年",
-      "onboard_time": 1768543941,
-      "rank": 0,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
