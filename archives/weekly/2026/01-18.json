@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769087108385,
+  "endTime": 1769088509212,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1839108,
+      "num": 599158,
+      "word": "肯德基崩了",
+      "onboard_time": 1769079320,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1765303,
       "num": 423317,
       "word": "董子健回复孙怡",
@@ -105,14 +113,6 @@
       "onboard_time": 1769048240,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1584463,
-      "num": 599158,
-      "word": "肯德基崩了",
-      "onboard_time": 1769079320,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1571390,
@@ -1036,7 +1036,7 @@
     },
     {
       "raw_hot": 616135,
-      "num": 181451,
+      "num": 204448,
       "word": "杨幂穿Prada的女王",
       "onboard_time": 1769073201,
       "rank": 20,
@@ -1091,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 604844,
+      "num": 589571,
+      "word": "一超市金车厘子一箱2800元",
+      "onboard_time": 1769083640,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 601311,
       "num": 808963,
       "word": "为什么酒店床上要放四个枕头",
@@ -1137,6 +1145,14 @@
       "onboard_time": 1768900461,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 588348,
+      "num": 1050769,
+      "word": "突然的喜欢",
+      "onboard_time": 1768806261,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 586519,
@@ -1305,6 +1321,14 @@
       "onboard_time": 1768990341,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 544642,
+      "num": 157934,
+      "word": "疑似谢霆锋配料表曝光",
+      "onboard_time": 1769084122,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 540756,
@@ -1499,14 +1523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 505915,
-      "num": 505915,
-      "word": "一超市金车厘子一箱2800元",
-      "onboard_time": 1769083640,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 505401,
       "num": 825105,
       "word": "俄罗斯一地暴雪堆出公寓楼高雪坡",
@@ -1537,6 +1553,14 @@
       "onboard_time": 1768746564,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 497084,
+      "num": 497084,
+      "word": "重返狼群 拖欠稿费",
+      "onboard_time": 1769087001,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 491253,
@@ -2867,14 +2891,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 317309,
-      "num": 1050769,
-      "word": "突然的喜欢",
-      "onboard_time": 1768806261,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 317119,
       "num": 312568,
       "word": "黑草莓",
@@ -3676,7 +3692,7 @@
     },
     {
       "raw_hot": 259552,
-      "num": 738902,
+      "num": 1035891,
       "word": "母亲在柬埔寨寻子儿子在园区诈骗",
       "onboard_time": 1769079441,
       "rank": 9,
@@ -4193,14 +4209,6 @@
       "onboard_time": 1769048840,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 225470,
-      "num": 157934,
-      "word": "疑似谢霆锋配料表曝光",
-      "onboard_time": 1769084122,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 224922,
@@ -4723,6 +4731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202864,
+      "num": 202864,
+      "word": "穆祉丞高会",
+      "onboard_time": 1769087660,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202771,
       "num": 169936,
       "word": "赵今麦工作室编辑文案",
@@ -4977,6 +4993,14 @@
       "onboard_time": 1768919961,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 195845,
+      "num": 195845,
+      "word": "性转版甄嬛传",
+      "onboard_time": 1769082021,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 195463,
@@ -5859,14 +5883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168344,
-      "num": 168344,
-      "word": "性转版甄嬛传",
-      "onboard_time": 1769082021,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 168250,
       "num": 168250,
       "word": "小城大事收视第一",
@@ -5945,6 +5961,14 @@
       "onboard_time": 1768835182,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167038,
+      "num": 151331,
+      "word": "徐若晗 英语老师的即视感",
+      "onboard_time": 1769086522,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 166938,
@@ -6659,6 +6683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149933,
+      "num": 149933,
+      "word": "宋威龙新加坡活动直拍",
+      "onboard_time": 1769088320,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149891,
       "num": 118236,
       "word": "春节档",
@@ -7291,6 +7323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138969,
+      "num": 138969,
+      "word": "这个演员阵容看得我大事很妙",
+      "onboard_time": 1769086941,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138709,
       "num": 138709,
       "word": "吴京的刀马一个拔刀姿势对味了",
@@ -7321,6 +7361,14 @@
       "onboard_time": 1768908081,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137705,
+      "num": 156176,
+      "word": "猝死程序员日记写努力努力再努力",
+      "onboard_time": 1769087180,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137609,
@@ -7537,6 +7585,14 @@
       "onboard_time": 1768700660,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131992,
+      "num": 131992,
+      "word": "井胧给秦昊送黄瓜咸菜",
+      "onboard_time": 1769087840,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 131901,
@@ -8249,14 +8305,6 @@
       "onboard_time": 1768896381,
       "rank": 36,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 121983,
-      "num": 121983,
-      "word": "徐若晗 英语老师的即视感",
-      "onboard_time": 1769086522,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 121946,
@@ -9596,7 +9644,7 @@
     },
     {
       "raw_hot": 107046,
-      "num": 122220,
+      "num": 134438,
       "word": "杨振宁曾说中学生留美非常危险",
       "onboard_time": 1769084960,
       "rank": 35,
@@ -10803,6 +10851,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 97900,
+      "num": 97900,
+      "word": "重返狼群",
+      "onboard_time": 1768957580,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97888,
       "num": 97888,
       "word": "长生FMVP皮肤首播",
@@ -10955,6 +11011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96867,
+      "num": 79022,
+      "word": "章若楠我想象中冬天出门的样子",
+      "onboard_time": 1769087301,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96825,
       "num": 96825,
       "word": "一个综艺集齐了四大浙卫IP",
@@ -11025,14 +11089,6 @@
       "onboard_time": 1769067920,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 96035,
-      "num": 96035,
-      "word": "这个演员阵容看得我大事很妙",
-      "onboard_time": 1769086941,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 95898,
@@ -11209,14 +11265,6 @@
       "onboard_time": 1768980199,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94740,
-      "num": 94740,
-      "word": "重返狼群",
-      "onboard_time": 1768957580,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 94730,
@@ -11459,6 +11507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92964,
+      "num": 91902,
+      "word": "这居然是我妈幂的生图",
+      "onboard_time": 1769084181,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92924,
       "num": 92924,
       "word": "招聘平台回应求职者不接受双休被怼",
@@ -11681,14 +11737,6 @@
       "onboard_time": 1768808240,
       "rank": 35,
       "category": "财经"
-    },
-    {
-      "raw_hot": 91902,
-      "num": 91902,
-      "word": "这居然是我妈幂的生图",
-      "onboard_time": 1769084181,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 91805,
@@ -12103,6 +12151,14 @@
       "num": 88663,
       "word": "北京下雪",
       "onboard_time": 1768812681,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88648,
+      "num": 116356,
+      "word": "被前夫杀害女子只吃2元钱的饭",
+      "onboard_time": 1769085080,
       "rank": 40,
       "category": "民生新闻"
     },
@@ -12739,14 +12795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85139,
-      "num": 85139,
-      "word": "重返狼群 拖欠稿费",
-      "onboard_time": 1769087001,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 85132,
       "num": 85132,
       "word": "银川地震",
@@ -12865,6 +12913,14 @@
       "onboard_time": 1769000422,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84400,
+      "num": 145847,
+      "word": "六大行集体发布公告",
+      "onboard_time": 1769085501,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 84337,
@@ -13091,6 +13147,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 82444,
+      "num": 82444,
+      "word": "Hero对战KSG",
+      "onboard_time": 1769088320,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 82400,
       "num": 82400,
       "word": "美国施压韩国",
@@ -13161,14 +13225,6 @@
       "onboard_time": 1769002104,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 81949,
-      "num": 81949,
-      "word": "六大行集体发布公告",
-      "onboard_time": 1769085501,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 81902,
@@ -13651,6 +13707,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 77578,
+      "num": 77578,
+      "word": "博主称美国朋友4月失业失联后去世",
+      "onboard_time": 1769087782,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 77511,
       "num": 83454,
       "word": "最后两只旅日大熊猫27日离开日本",
@@ -14128,6 +14192,14 @@
       "word": "樊振东打球把程靖淇震撼到语无伦次",
       "onboard_time": 1768786880,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72710,
+      "num": 121251,
+      "word": "詹俊解说U23决赛",
+      "onboard_time": 1769084661,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -15387,6 +15459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 49878,
+      "num": 206292,
+      "word": "预制菜这几个关键问题需进一步厘清",
+      "onboard_time": 1769088021,
+      "rank": 10,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 49645,
       "num": 78003,
       "word": "贺娇龙母亲说让她静静地离开吧",
@@ -15681,6 +15761,14 @@
       "onboard_time": 1768752380,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43548,
+      "num": 120835,
+      "word": "58岁农民工一天200元养大8个娃",
+      "onboard_time": 1769088381,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43448,
@@ -16883,6 +16971,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 19876,
+      "num": 117542,
+      "word": "揭开直播间孝顺剧本",
+      "onboard_time": 1769087960,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 19866,
       "num": 408244,
       "word": "全球多地上演梦幻极光",
@@ -17075,6 +17171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16607,
+      "num": 155287,
+      "word": "美国进退之间利字摆中间",
+      "onboard_time": 1769087960,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16579,
       "num": 27582,
       "word": "地磁暴会影响人的生物钟吗",
@@ -17227,6 +17331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 10935,
+      "num": 112425,
+      "word": "2025年我国农业现代化水平持续提升",
+      "onboard_time": 1769070381,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10045,
       "num": 170475,
       "word": "喵娲娲打工人嘴替",
@@ -17303,6 +17415,14 @@
       "num": 667990,
       "word": "我国经济总量连续跨越新关口",
       "onboard_time": 1768898423,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2463,
+      "num": 590340,
+      "word": "这才是文化遗产最好的打开方式",
+      "onboard_time": 1769087960,
       "rank": 2,
       "category": "民生新闻"
     }

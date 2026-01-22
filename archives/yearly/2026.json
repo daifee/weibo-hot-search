@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769087108385,
+  "endTime": 1769088509212,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -411,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1839108,
+      "num": 599158,
+      "word": "肯德基崩了",
+      "onboard_time": 1769079320,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1826344,
       "num": 1785801,
       "word": "委内瑞拉",
@@ -497,14 +505,6 @@
       "onboard_time": 1769048240,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1584463,
-      "num": 599158,
-      "word": "肯德基崩了",
-      "onboard_time": 1769079320,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1584286,

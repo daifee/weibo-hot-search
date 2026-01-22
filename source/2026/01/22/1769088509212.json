@@ -1,0 +1,410 @@
+{
+  "runTime": 1769088509212,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 224319,
+        "num": 1035891,
+        "word": "母亲在柬埔寨寻子儿子在园区诈骗",
+        "onboard_time": 1769079441,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189511,
+        "num": 745907,
+        "word": "生命树",
+        "onboard_time": 1769083461,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2463,
+        "num": 590340,
+        "word": "这才是文化遗产最好的打开方式",
+        "onboard_time": 1769087960,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1839108,
+        "num": 589588,
+        "word": "肯德基崩了",
+        "onboard_time": 1769079320,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 604844,
+        "num": 589571,
+        "word": "一超市金车厘子一箱2800元",
+        "onboard_time": 1769083640,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 588348,
+        "num": 588348,
+        "word": "突然的喜欢",
+        "onboard_time": 1769076500,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 497084,
+        "num": 497084,
+        "word": "重返狼群 拖欠稿费",
+        "onboard_time": 1769087001,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209552,
+        "num": 209552,
+        "word": "卖霉豆腐已经有人实操上了",
+        "onboard_time": 1769067021,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154569,
+        "num": 208455,
+        "word": "甲亢哥才21岁",
+        "onboard_time": 1769079501,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103412,
+        "num": 207996,
+        "word": "终末地",
+        "onboard_time": 1769066901,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 49878,
+        "num": 206292,
+        "word": "预制菜这几个关键问题需进一步厘清",
+        "onboard_time": 1769088021,
+        "rank": 10,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 655206,
+        "num": 205846,
+        "word": "韩国国旗 车银优",
+        "onboard_time": 1769066660,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279915,
+        "num": 204448,
+        "word": "杨幂穿Prada的女王",
+        "onboard_time": 1769073201,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 172810,
+        "num": 203769,
+        "word": "iPhoneFold售价曝光",
+        "onboard_time": 1769078480,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 202864,
+        "num": 202864,
+        "word": "穆祉丞高会",
+        "onboard_time": 1769087660,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195845,
+        "num": 195845,
+        "word": "性转版甄嬛传",
+        "onboard_time": 1769082021,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156960,
+        "num": 156960,
+        "word": "卡拉胶 胰岛素抵抗",
+        "onboard_time": 1769078539,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 221309,
+        "num": 156516,
+        "word": "车银优被韩网友喊话退圈",
+        "onboard_time": 1769076440,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137705,
+        "num": 156176,
+        "word": "猝死程序员日记写努力努力再努力",
+        "onboard_time": 1769087180,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16607,
+        "num": 155287,
+        "word": "美国进退之间利字摆中间",
+        "onboard_time": 1769087960,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 918001,
+        "num": 154914,
+        "word": "牢A",
+        "onboard_time": 1769085141,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 611868,
+        "num": 153984,
+        "word": "妻子不孕丈夫要求离婚并退全额彩礼",
+        "onboard_time": 1769083579,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 544642,
+        "num": 153683,
+        "word": "疑似谢霆锋配料表曝光",
+        "onboard_time": 1769084122,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311323,
+        "num": 152745,
+        "word": "发生猝死的征兆",
+        "onboard_time": 1769072301,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232189,
+        "num": 152288,
+        "word": "牢A的故事一个一个被证实",
+        "onboard_time": 1769074222,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 167038,
+        "num": 151331,
+        "word": "徐若晗 英语老师的即视感",
+        "onboard_time": 1769086522,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160743,
+        "num": 151092,
+        "word": "小伙致女友怀孕称年龄不适合结婚",
+        "onboard_time": 1769080699,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129564,
+        "num": 150259,
+        "word": "不要穿一身白去滑雪",
+        "onboard_time": 1769071941,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 149933,
+        "num": 149933,
+        "word": "宋威龙新加坡活动直拍",
+        "onboard_time": 1769088320,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84400,
+        "num": 145847,
+        "word": "六大行集体发布公告",
+        "onboard_time": 1769085501,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144133,
+        "num": 144133,
+        "word": "久坐不动真的会导致猝死",
+        "onboard_time": 1769083579,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142808,
+        "num": 142808,
+        "word": "内娱终于有人拍出这段沉痛的往事了",
+        "onboard_time": 1769076140,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138969,
+        "num": 138969,
+        "word": "这个演员阵容看得我大事很妙",
+        "onboard_time": 1769086941,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99867,
+        "num": 134438,
+        "word": "杨振宁曾说中学生留美非常危险",
+        "onboard_time": 1769084960,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131992,
+        "num": 131992,
+        "word": "井胧给秦昊送黄瓜咸菜",
+        "onboard_time": 1769087840,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125255,
+        "num": 125255,
+        "word": "小龙女让王一博演早HE了",
+        "onboard_time": 1769075600,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75735,
+        "num": 123314,
+        "word": "必胜客崩了",
+        "onboard_time": 1769085682,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72710,
+        "num": 121251,
+        "word": "詹俊解说U23决赛",
+        "onboard_time": 1769084661,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43548,
+        "num": 120835,
+        "word": "58岁农民工一天200元养大8个娃",
+        "onboard_time": 1769088381,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19876,
+        "num": 117542,
+        "word": "揭开直播间孝顺剧本",
+        "onboard_time": 1769087960,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 88648,
+        "num": 116356,
+        "word": "被前夫杀害女子只吃2元钱的饭",
+        "onboard_time": 1769085080,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59909,
+        "num": 113857,
+        "word": "对预制菜国家标准等公开征求意见",
+        "onboard_time": 1769086041,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10935,
+        "num": 112425,
+        "word": "2025年我国农业现代化水平持续提升",
+        "onboard_time": 1769070381,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110905,
+        "num": 110905,
+        "word": "宋威龙珍珠造型",
+        "onboard_time": 1769077041,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97900,
+        "num": 97900,
+        "word": "重返狼群",
+        "onboard_time": 1769088262,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82444,
+        "num": 82444,
+        "word": "Hero对战KSG",
+        "onboard_time": 1769088320,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97349,
+        "num": 80175,
+        "word": "MCD舞台塌了",
+        "onboard_time": 1769079021,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96867,
+        "num": 79022,
+        "word": "章若楠我想象中冬天出门的样子",
+        "onboard_time": 1769087301,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77578,
+        "num": 77578,
+        "word": "博主称美国朋友4月失业失联后去世",
+        "onboard_time": 1769087782,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 92964,
+        "num": 77414,
+        "word": "这居然是我妈幂的生图",
+        "onboard_time": 1769084181,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委主席习近平签署命令#"
+    }
+  }
+}

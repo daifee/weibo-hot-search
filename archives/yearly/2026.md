@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/22 21:05:08
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/22 21:28:29
 </p>
 </blockquote>
 <p>
@@ -321,6 +321,12 @@ U23国足vs越南（热度：2487537）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%B4%A9%E4%BA%86%23" target="weibo">
+肯德基崩了（热度：1839108）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%23" target="weibo">
 委内瑞拉（热度：1826344）
 </a>
@@ -383,12 +389,6 @@ U23国足vs越南（热度：2487537）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%83%8A%E8%9B%B0%E6%97%A0%E5%A3%B0%E5%AE%9A%E6%A1%A3%23" target="weibo">
 惊蛰无声定档（热度：1588138）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%B4%A9%E4%BA%86%23" target="weibo">
-肯德基崩了（热度：1584463）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/22 21:05:08
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/22 21:28:29
 </p>
 </blockquote>
 <p>
@@ -321,6 +321,12 @@ U23国足vs越南（热度：2487537）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%B4%A9%E4%BA%86%23" target="weibo">
+肯德基崩了（热度：1839108）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%23" target="weibo">
 委内瑞拉（热度：1826344）
 </a>
@@ -383,12 +389,6 @@ U23国足vs越南（热度：2487537）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%83%8A%E8%9B%B0%E6%97%A0%E5%A3%B0%E5%AE%9A%E6%A1%A3%23" target="weibo">
 惊蛰无声定档（热度：1588138）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%B4%A9%E4%BA%86%23" target="weibo">
-肯德基崩了（热度：1584463）
 </a>
 </li>
 
@@ -3027,6 +3027,12 @@ iPhone18Pro渲染视频曝光（热度：621333）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B6%85%E5%B8%82%E9%87%91%E8%BD%A6%E5%8E%98%E5%AD%90%E4%B8%80%E7%AE%B12800%E5%85%83%23" target="weibo">
+一超市金车厘子一箱2800元（热度：604844）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94%E9%80%81%E9%BB%84%E9%87%91%E5%B0%8F%E9%A9%AC%E6%8C%82%E4%BB%B6%23" target="weibo">
 海底捞回应送黄金小马挂件（热度：604548）
 </a>
@@ -3191,6 +3197,12 @@ iPhone18Pro渲染视频曝光（热度：621333）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%23" target="weibo">
 西贝（热度：588379）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E7%9A%84%E5%96%9C%E6%AC%A2%23" target="weibo">
+突然的喜欢（热度：588348）
 </a>
 </li>
 
@@ -3791,6 +3803,12 @@ Sakee Asen（热度：556725）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%99%E5%88%A9%E4%BA%9A%23" target="weibo">
 叙利亚（热度：544794）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E8%B0%A2%E9%9C%86%E9%94%8B%E9%85%8D%E6%96%99%E8%A1%A8%E6%9B%9D%E5%85%89%23" target="weibo">
+疑似谢霆锋配料表曝光（热度：544642）
 </a>
 </li>
 
@@ -4485,12 +4503,6 @@ iPhone4需求激增近1000%（热度：506886）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B6%85%E5%B8%82%E9%87%91%E8%BD%A6%E5%8E%98%E5%AD%90%E4%B8%80%E7%AE%B12800%E5%85%83%23" target="weibo">
-一超市金车厘子一箱2800元（热度：505915）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23100%25%E9%A3%9F%E7%94%A8%E7%8E%87%E6%B0%B4%E6%9E%9C%23" target="weibo">
 100%食用率水果（热度：505897）
 </a>
@@ -4613,6 +4625,12 @@ iPhone4需求激增近1000%（热度：506886）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8F%B0%E6%98%A5%E6%99%9A%E5%B0%B1%E5%B7%AE%E7%9B%B4%E6%8E%A5%E8%AF%B4%E8%82%96%E6%88%98%E5%A4%A7%E5%90%8D%E4%BA%86%23" target="weibo">
 北京台春晚就差直接说肖战大名了（热度：497278）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E8%BF%94%E7%8B%BC%E7%BE%A4%20%E6%8B%96%E6%AC%A0%E7%A8%BF%E8%B4%B9%23" target="weibo">
+重返狼群 拖欠稿费（热度：497084）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ sakee文言文（热度：438215）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%94%A4%E5%A8%9C%E4%B8%BD%E8%8E%8E%E5%88%9A%E8%AE%A2%E5%A9%9A%E5%B0%B1%E5%86%8D%E5%B0%B1%E4%B8%9A%E4%BA%86%23" target="weibo">
 锤娜丽莎刚订婚就再就业了（热度：425965）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E9%82%A3%E5%84%BF%E5%87%A0%E7%82%B9%20%E7%8E%8B%E5%AE%89%E5%AE%87%23" target="weibo">
-你那儿几点 王安宇（热度：425343）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%BB%991%E5%B2%81%E5%A8%83%E5%BC%80%E5%B0%8F%E4%BC%97%E8%8D%AF%E8%A2%ABAI%E6%8F%90%E9%86%92%E6%85%8E%E7%94%A8%23" target="weibo">
-医生给1岁娃开小众药被AI提醒慎用（热度：424992）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%A8%87%E9%BE%99%E6%9B%BE%E5%9B%A0%E7%AD%96%E9%A9%AC%E9%9B%AA%E5%8E%9F%E5%B8%A6%E7%81%AB%E5%BD%93%E5%9C%B0%E6%97%85%E6%B8%B8%23" target="weibo">
-贺娇龙曾因策马雪原带火当地旅游（热度：424570）
 </a>
 </li>
 
