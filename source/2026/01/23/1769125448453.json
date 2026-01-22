@@ -1,0 +1,410 @@
+{
+  "runTime": 1769125448453,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 232660,
+        "num": 900576,
+        "word": "清华大学拟退学2名博士",
+        "onboard_time": 1769089161,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210866,
+        "num": 663568,
+        "word": "特朗普索赔50亿",
+        "onboard_time": 1769123957,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 6971,
+        "num": 519609,
+        "word": "2025年我国农业现代化水平持续提升",
+        "onboard_time": 1769070381,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320280,
+        "num": 320280,
+        "word": "女子被一次性拔牙12颗后心梗休克",
+        "onboard_time": 1769096961,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281738,
+        "num": 281738,
+        "word": "八国联合声明将加入和平委员会",
+        "onboard_time": 1769123957,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199344,
+        "num": 199344,
+        "word": "学胖东来的第二年永辉又亏了21亿",
+        "onboard_time": 1769091623,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 215220,
+        "num": 190644,
+        "word": "女子用开水浇他人车玻璃测试会否炸裂",
+        "onboard_time": 1769101277,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125531,
+        "num": 125531,
+        "word": "特朗普为啥时隔一天态度变了",
+        "onboard_time": 1769092701,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122010,
+        "num": 122010,
+        "word": "朱志鑫 五哈",
+        "onboard_time": 1769094021,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66708,
+        "num": 121708,
+        "word": "特朗普索赔50亿美元",
+        "onboard_time": 1769124317,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 622131,
+        "num": 121197,
+        "word": "一栗小莎子疑似患淋巴瘤",
+        "onboard_time": 1769123418,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 451978,
+        "num": 120540,
+        "word": "黄金",
+        "onboard_time": 1769123476,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 304857,
+        "num": 120001,
+        "word": "黄景瑜已经不满足只在内娱当兵了",
+        "onboard_time": 1769123537,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283749,
+        "num": 119708,
+        "word": "女子囚禁女儿致死疑因其长相酷似婆婆",
+        "onboard_time": 1769123718,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153840,
+        "num": 119006,
+        "word": "肖战惊喜现身北京",
+        "onboard_time": 1769123357,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118958,
+        "num": 118958,
+        "word": "胖东来保洁员月薪9千永辉没学到",
+        "onboard_time": 1769097680,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114396,
+        "num": 114396,
+        "word": "李行亮谈因网友抵制接不到工作",
+        "onboard_time": 1769089462,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110728,
+        "num": 110728,
+        "word": "六大行集体发布公告",
+        "onboard_time": 1769085501,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110279,
+        "num": 110279,
+        "word": "李昀锐孟子义 分不清是戏里还是戏外",
+        "onboard_time": 1769092941,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100757,
+        "num": 100757,
+        "word": "普京称格陵兰岛美国真要买也得买得起",
+        "onboard_time": 1769124378,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 364171,
+        "num": 98909,
+        "word": "何穗月子后做了二次手术",
+        "onboard_time": 1769107754,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199951,
+        "num": 98142,
+        "word": "养了2年的儿子竟是女儿身",
+        "onboard_time": 1769094679,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135818,
+        "num": 97362,
+        "word": "牢A直播聊女留学生和陪读妈妈",
+        "onboard_time": 1769123598,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 95757,
+        "num": 95757,
+        "word": "重返狼群 怎么会有人被牛一板砖拍晕",
+        "onboard_time": 1769091802,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135780,
+        "num": 95743,
+        "word": "牢A",
+        "onboard_time": 1769085141,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95218,
+        "num": 95218,
+        "word": "湖南22岁未婚小伙替兄养子事件进展",
+        "onboard_time": 1769104396,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83209,
+        "num": 83209,
+        "word": "陈星旭王玉雯手指吻",
+        "onboard_time": 1769116573,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79000,
+        "num": 79000,
+        "word": "母亲凭女儿日记疑百万遗产数额短缺",
+        "onboard_time": 1769094021,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77713,
+        "num": 77713,
+        "word": "孟子义李昀锐喊卡之后没放开的手",
+        "onboard_time": 1769123537,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77436,
+        "num": 77436,
+        "word": "长安二十四计制片人回复成毅粉丝",
+        "onboard_time": 1769124617,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 75005,
+        "num": 75005,
+        "word": "小伙致女友怀孕称年龄不适合结婚",
+        "onboard_time": 1769080699,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76292,
+        "num": 74311,
+        "word": "五哈",
+        "onboard_time": 1769124738,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73282,
+        "num": 73282,
+        "word": "韩国国旗 车银优",
+        "onboard_time": 1769066660,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71163,
+        "num": 71163,
+        "word": "黄金再度直拉",
+        "onboard_time": 1769123777,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 70828,
+        "num": 70828,
+        "word": "网红周媛实名主账号被封",
+        "onboard_time": 1769090001,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 67126,
+        "num": 67126,
+        "word": "特朗普起诉摩根大通",
+        "onboard_time": 1769124317,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59139,
+        "num": 59139,
+        "word": "宋威龙直播",
+        "onboard_time": 1769124558,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58141,
+        "num": 58141,
+        "word": "中方回应日本驻重庆总领事空缺",
+        "onboard_time": 1769105056,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 56883,
+        "num": 56883,
+        "word": "李微漪最后几年找不到格林了",
+        "onboard_time": 1769123838,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 53811,
+        "num": 53811,
+        "word": "重返狼群 拖欠稿费",
+        "onboard_time": 1769087001,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 53646,
+        "num": 53646,
+        "word": "一觉醒来连洗衣机都被冰冻上了",
+        "onboard_time": 1769097859,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51696,
+        "num": 51696,
+        "word": "一个人开始常发朋友圈意味着什么",
+        "onboard_time": 1769102957,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 51590,
+        "num": 51590,
+        "word": "肯德基崩了",
+        "onboard_time": 1769079320,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51538,
+        "num": 51538,
+        "word": "奥斯卡提名",
+        "onboard_time": 1769090422,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51406,
+        "num": 51406,
+        "word": "赵今麦演技",
+        "onboard_time": 1769125159,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49111,
+        "num": 49111,
+        "word": "妻子不孕丈夫要求离婚并退全额彩礼",
+        "onboard_time": 1769083579,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48641,
+        "num": 48641,
+        "word": "星星人",
+        "onboard_time": 1769091741,
+        "rank": 46,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 46830,
+        "num": 46830,
+        "word": "光遇",
+        "onboard_time": 1769124019,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 45248,
+        "num": 45248,
+        "word": "猝死程序员妻子21点后催回家近70天",
+        "onboard_time": 1769125159,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41366,
+        "num": 44264,
+        "word": "地球出现6小时特大地磁暴",
+        "onboard_time": 1769089041,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委主席习近平签署命令#"
+    }
+  }
+}
