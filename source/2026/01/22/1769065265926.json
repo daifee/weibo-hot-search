@@ -1,0 +1,410 @@
+{
+  "runTime": 1769065265926,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 529234,
+        "num": 1084677,
+        "word": "作不雅手势女子被撞倒为何无人同情",
+        "onboard_time": 1769060841,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295213,
+        "num": 787792,
+        "word": "茅台紧急回应马茅印刷错误",
+        "onboard_time": 1769056580,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52190,
+        "num": 623795,
+        "word": "无人机吹雪吹完橘林吹大棚",
+        "onboard_time": 1769054720,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1745694,
+        "num": 616633,
+        "word": "老坛酸菜已经塌无可塌了",
+        "onboard_time": 1769058561,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 372499,
+        "num": 372499,
+        "word": "穆祉丞张子墨 同手同脚",
+        "onboard_time": 1769062940,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 363073,
+        "num": 363073,
+        "word": "洗衣机里像紫菜的东西是什么",
+        "onboard_time": 1769059521,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262453,
+        "num": 262453,
+        "word": "今年最烂大街的穿搭",
+        "onboard_time": 1769038097,
+        "rank": 6,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 260406,
+        "num": 260406,
+        "word": "小城大事 王星",
+        "onboard_time": 1769063419,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235486,
+        "num": 235486,
+        "word": "泡泡玛特 电子木鱼",
+        "onboard_time": 1769061620,
+        "rank": 8,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 192730,
+        "num": 192730,
+        "word": "12306购票页面有小暗号",
+        "onboard_time": 1769054841,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 700782,
+        "num": 188808,
+        "word": "棣爸透露棣妈油炸经营情况",
+        "onboard_time": 1769061141,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 648823,
+        "num": 186999,
+        "word": "车银优个人赚了500亿以上",
+        "onboard_time": 1769057841,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231745,
+        "num": 185497,
+        "word": "宫外孕切子宫离婚却被索要彩礼",
+        "onboard_time": 1769063960,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183843,
+        "num": 183843,
+        "word": "向佐用王一博同名账号开直播",
+        "onboard_time": 1769057241,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183084,
+        "num": 183084,
+        "word": "传下去时代峰峻乐华娱乐联姻了",
+        "onboard_time": 1769060721,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162015,
+        "num": 162015,
+        "word": "妈妈患癌去世5个月后爸爸确诊癌症",
+        "onboard_time": 1769055381,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 486616,
+        "num": 160611,
+        "word": "车银优 颜值支付失败",
+        "onboard_time": 1769062880,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172282,
+        "num": 159668,
+        "word": "雷佳音用了刘耀文的图",
+        "onboard_time": 1769063180,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105891,
+        "num": 157797,
+        "word": "男子刚卖500克金条又买了200克",
+        "onboard_time": 1769063479,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24018,
+        "num": 156723,
+        "word": "世卫官员回应美国退群",
+        "onboard_time": 1769064259,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 343357,
+        "num": 154927,
+        "word": "猝死程序员妻子晒聊天记录令人心碎",
+        "onboard_time": 1769053521,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316680,
+        "num": 153989,
+        "word": "牢A谈女留学生是怎么被陷害的",
+        "onboard_time": 1769060539,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290731,
+        "num": 152791,
+        "word": "猝死发生前一个月身体就有征兆",
+        "onboard_time": 1769061682,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 241284,
+        "num": 150209,
+        "word": "程序员猝死当天5次访问公司OA系统",
+        "onboard_time": 1769048840,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230706,
+        "num": 148608,
+        "word": "易烊千玺短发",
+        "onboard_time": 1769050760,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174349,
+        "num": 147111,
+        "word": "向佐说给王一博说过了",
+        "onboard_time": 1769064860,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147054,
+        "num": 147054,
+        "word": "牢A 沈逸",
+        "onboard_time": 1769055020,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174871,
+        "num": 145765,
+        "word": "惊蛰无声全员素颜",
+        "onboard_time": 1769058622,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99290,
+        "num": 140195,
+        "word": "NASA辟谣8月地球将失重7秒",
+        "onboard_time": 1769064860,
+        "rank": 28,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 77457,
+        "num": 136057,
+        "word": "大连一海面密密麻麻全是冻住的鱼",
+        "onboard_time": 1769059402,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166621,
+        "num": 131584,
+        "word": "惊蛰无声定档",
+        "onboard_time": 1769048240,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131252,
+        "num": 131252,
+        "word": "虎杖悠仁回归",
+        "onboard_time": 1769061980,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 147388,
+        "num": 130782,
+        "word": "张艺谋拍的杨幂刘诗诗",
+        "onboard_time": 1769050219,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123385,
+        "num": 123385,
+        "word": "女子在丈夫瘫痪期间出轨并怀孕",
+        "onboard_time": 1769050400,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123203,
+        "num": 123203,
+        "word": "猝死程序员工位上有三块屏幕",
+        "onboard_time": 1769052740,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119457,
+        "num": 119457,
+        "word": "荣耀之战",
+        "onboard_time": 1769063000,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117608,
+        "num": 117608,
+        "word": "长生王昭君FMVP皮肤",
+        "onboard_time": 1769062580,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100348,
+        "num": 114887,
+        "word": "尾号88888888马钞被领走",
+        "onboard_time": 1769065040,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23453,
+        "num": 113481,
+        "word": "女子违停竖中指挑衅后被撞",
+        "onboard_time": 1769064800,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20752,
+        "num": 112749,
+        "word": "爱豆再就业 有人卖炸串有人当道士",
+        "onboard_time": 1769065161,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112301,
+        "num": 112301,
+        "word": "TF家族荣耀之战演唱会",
+        "onboard_time": 1769061380,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99546,
+        "num": 110724,
+        "word": "程序员猝死涉事公司当被调查",
+        "onboard_time": 1769063541,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110503,
+        "num": 110503,
+        "word": "徐冬冬回应婚礼饮料是椰树",
+        "onboard_time": 1769060721,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107812,
+        "num": 107812,
+        "word": "那英龚俊张雅琪合体梦回花少",
+        "onboard_time": 1769063600,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94532,
+        "num": 94532,
+        "word": "最不能接受苹果手机的缺点",
+        "onboard_time": 1769058921,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107809,
+        "num": 93719,
+        "word": "田曦薇 恶女",
+        "onboard_time": 1769050579,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99047,
+        "num": 93160,
+        "word": "杨紫妆造最浓的一次",
+        "onboard_time": 1769059761,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 90589,
+        "num": 90589,
+        "word": "耳聋小猫因为很乖被导演选中",
+        "onboard_time": 1769063060,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96903,
+        "num": 90501,
+        "word": "我就这样指导惠英红拍照",
+        "onboard_time": 1769064080,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70060,
+        "num": 90260,
+        "word": "安徽大学可乐只卖1块7被写进小说",
+        "onboard_time": 1769059641,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共赴冰雪春天#"
+    }
+  }
+}

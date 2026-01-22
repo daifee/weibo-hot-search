@@ -1,10 +1,10 @@
 {
   "startTime": 1769015008764,
-  "endTime": 1769064374120,
+  "endTime": 1769065265926,
   "band_list": [
     {
       "raw_hot": 1924560,
-      "num": 537836,
+      "num": 616633,
       "word": "老坛酸菜已经塌无可塌了",
       "onboard_time": 1769058561,
       "rank": 3,
@@ -107,20 +107,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 700782,
+      "num": 198070,
+      "word": "棣爸透露棣妈油炸经营情况",
+      "onboard_time": 1769061141,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 667004,
       "num": 205988,
       "word": "易烊千玺短发",
       "onboard_time": 1769050760,
       "rank": 20,
       "category": "电影"
-    },
-    {
-      "raw_hot": 663785,
-      "num": 198070,
-      "word": "棣爸透露棣妈油炸经营情况",
-      "onboard_time": 1769061141,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 604894,
@@ -171,6 +171,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 529234,
+      "num": 1084677,
+      "word": "作不雅手势女子被撞倒为何无人同情",
+      "onboard_time": 1769060841,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 486616,
+      "num": 195887,
+      "word": "车银优 颜值支付失败",
+      "onboard_time": 1769062880,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 463446,
       "num": 214335,
       "word": "昀牵孟绕就这么亲上了",
@@ -193,14 +209,6 @@
       "onboard_time": 1769009361,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 429853,
-      "num": 1068776,
-      "word": "作不雅手势女子被撞倒为何无人同情",
-      "onboard_time": 1769060841,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 419156,
@@ -227,14 +235,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 389979,
-      "num": 195887,
-      "word": "车银优 颜值支付失败",
-      "onboard_time": 1769062880,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 385373,
       "num": 346482,
       "word": "4部影片定档2026春节档",
@@ -259,6 +259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 372499,
+      "num": 376832,
+      "word": "穆祉丞张子墨 同手同脚",
+      "onboard_time": 1769062940,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 371759,
       "num": 776813,
       "word": "双休不应成为奢侈品",
@@ -267,8 +275,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 363059,
-      "num": 363059,
+      "raw_hot": 363073,
+      "num": 363073,
       "word": "洗衣机里像紫菜的东西是什么",
       "onboard_time": 1769059521,
       "rank": 40,
@@ -315,14 +323,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 306299,
-      "num": 376832,
-      "word": "穆祉丞张子墨 同手同脚",
-      "onboard_time": 1769062940,
-      "rank": 4,
-      "category": "演出"
-    },
-    {
       "raw_hot": 296076,
       "num": 296076,
       "word": "时代峰峻惊蛰无声出品方",
@@ -337,6 +337,14 @@
       "onboard_time": 1769050160,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 290731,
+      "num": 193248,
+      "word": "猝死发生前一个月身体就有征兆",
+      "onboard_time": 1769061682,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 279311,
@@ -395,12 +403,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 253692,
-      "num": 193248,
-      "word": "猝死发生前一个月身体就有征兆",
-      "onboard_time": 1769061682,
-      "rank": 23,
-      "category": "健康医疗"
+      "raw_hot": 260406,
+      "num": 260406,
+      "word": "小城大事 王星",
+      "onboard_time": 1769063419,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 252960,
@@ -419,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235486,
+      "num": 235486,
+      "word": "泡泡玛特 电子木鱼",
+      "onboard_time": 1769061620,
+      "rank": 7,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 235249,
       "num": 192591,
       "word": "国际金银巨震",
@@ -427,19 +443,19 @@
       "category": "财经"
     },
     {
-      "raw_hot": 232622,
-      "num": 232622,
-      "word": "泡泡玛特 电子木鱼",
-      "onboard_time": 1769061620,
-      "rank": 7,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 232018,
       "num": 601905,
       "word": "交警回应女子作不雅手势被后车撞击",
       "onboard_time": 1769004202,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231745,
+      "num": 185497,
+      "word": "宫外孕切子宫离婚却被索要彩礼",
+      "onboard_time": 1769063960,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -513,14 +529,6 @@
       "onboard_time": 1769037136,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 206593,
-      "num": 196817,
-      "word": "小城大事 王星",
-      "onboard_time": 1769063419,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 203922,
@@ -611,6 +619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 192730,
+      "num": 203788,
+      "word": "12306购票页面有小暗号",
+      "onboard_time": 1769054841,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192536,
       "num": 192536,
       "word": "女子直到剧烈宫缩才知怀胎十月",
@@ -673,6 +689,14 @@
       "onboard_time": 1769053941,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 174349,
+      "num": 147111,
+      "word": "向佐说给王一博说过了",
+      "onboard_time": 1769064860,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 173549,
@@ -891,20 +915,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133118,
-      "num": 203788,
-      "word": "12306购票页面有小暗号",
-      "onboard_time": 1769054841,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131543,
       "num": 97119,
       "word": "陈都灵好有冲击力的美貌",
       "onboard_time": 1769010980,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131252,
+      "num": 195531,
+      "word": "虎杖悠仁回归",
+      "onboard_time": 1769061980,
+      "rank": 18,
+      "category": "动漫"
     },
     {
       "raw_hot": 129902,
@@ -1003,6 +1027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112301,
+      "num": 112301,
+      "word": "TF家族荣耀之战演唱会",
+      "onboard_time": 1769061380,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 112279,
       "num": 112279,
       "word": "冷到抖的寒潮要退场了",
@@ -1019,14 +1051,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 108047,
-      "num": 195531,
-      "word": "虎杖悠仁回归",
-      "onboard_time": 1769061980,
-      "rank": 18,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 106827,
       "num": 106827,
       "word": "澳网",
@@ -1040,6 +1064,14 @@
       "word": "腹痛入院才知怀胎十月女子已成功分娩",
       "onboard_time": 1769047399,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105891,
+      "num": 192973,
+      "word": "男子刚卖500克金条又买了200克",
+      "onboard_time": 1769063479,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -1107,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100348,
+      "num": 114887,
+      "word": "尾号88888888马钞被领走",
+      "onboard_time": 1769065040,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99909,
       "num": 99909,
       "word": "爱吃鸭头的人天塌了",
@@ -1131,12 +1171,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 99546,
+      "num": 176452,
+      "word": "程序员猝死涉事公司当被调查",
+      "onboard_time": 1769063541,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99298,
       "num": 93155,
       "word": "王鹤棣 我是王嘉尔",
       "onboard_time": 1769000902,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99290,
+      "num": 140195,
+      "word": "NASA辟谣8月地球将失重7秒",
+      "onboard_time": 1769064860,
+      "rank": 28,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 97888,
@@ -1168,6 +1224,14 @@
       "word": "王楚然 演恶女我这张脸还用演吗",
       "onboard_time": 1769006782,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 96903,
+      "num": 90501,
+      "word": "我就这样指导惠英红拍照",
+      "onboard_time": 1769064080,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -1243,22 +1307,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 89688,
-      "num": 176452,
-      "word": "程序员猝死涉事公司当被调查",
-      "onboard_time": 1769063541,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88516,
-      "num": 192973,
-      "word": "男子刚卖500克金条又买了200克",
-      "onboard_time": 1769063479,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87880,
       "num": 87880,
       "word": "杜海涛面相没变",
@@ -1289,14 +1337,6 @@
       "onboard_time": 1769042662,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 82115,
-      "num": 177058,
-      "word": "宫外孕切子宫离婚却被索要彩礼",
-      "onboard_time": 1769063960,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81105,
@@ -1883,6 +1923,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 24018,
+      "num": 177571,
+      "word": "世卫官员回应美国退群",
+      "onboard_time": 1769064259,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 23453,
+      "num": 113481,
+      "word": "女子违停竖中指挑衅后被撞",
+      "onboard_time": 1769064800,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22876,
       "num": 39597,
       "word": "少年遭虐待离世继母有重大嫌疑",
@@ -1929,6 +1985,14 @@
       "onboard_time": 1769048360,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20752,
+      "num": 112749,
+      "word": "爱豆再就业 有人卖炸串有人当道士",
+      "onboard_time": 1769065161,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 19866,
@@ -1985,14 +2049,6 @@
       "onboard_time": 1768995981,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 15532,
-      "num": 177571,
-      "word": "世卫官员回应美国退群",
-      "onboard_time": 1769064259,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 14958,
