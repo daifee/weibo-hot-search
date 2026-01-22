@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769081479774,
+  "endTime": 1769082360375,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 851521,
-      "num": 500227,
+      "num": 575563,
       "word": "肯德基崩了",
       "onboard_time": 1769079320,
       "rank": 3,
@@ -1369,6 +1369,14 @@
       "onboard_time": 1768699639,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 532222,
+      "num": 532222,
+      "word": "中国女留学生虚假指控强奸获刑6年",
+      "onboard_time": 1769078900,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 531610,
@@ -2971,6 +2979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 306007,
+      "num": 185654,
+      "word": "小伙致女友怀孕称年龄不适合结婚",
+      "onboard_time": 1769080699,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 305766,
       "num": 277262,
       "word": "改善骨盆前倾 卧英雄式",
@@ -2985,6 +3001,14 @@
       "onboard_time": 1769069061,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 305229,
+      "num": 239090,
+      "word": "iPhoneFold售价曝光",
+      "onboard_time": 1769078480,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 304944,
@@ -3113,14 +3137,6 @@
       "onboard_time": 1768691655,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 294553,
-      "num": 294553,
-      "word": "中国女留学生虚假指控强奸获刑6年",
-      "onboard_time": 1769078900,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 294341,
@@ -3451,14 +3467,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 274320,
-      "num": 239090,
-      "word": "iPhoneFold售价曝光",
-      "onboard_time": 1769078480,
-      "rank": 16,
-      "category": "数码"
-    },
-    {
       "raw_hot": 273674,
       "num": 235729,
       "word": "禁止衣冠不整入内规定已存在多年",
@@ -3585,6 +3593,14 @@
       "onboard_time": 1768736421,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 263768,
+      "num": 220347,
+      "word": "卡拉胶 胰岛素抵抗",
+      "onboard_time": 1769078539,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 262868,
@@ -4179,14 +4195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 223805,
-      "num": 185654,
-      "word": "小伙致女友怀孕称年龄不适合结婚",
-      "onboard_time": 1769080699,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 223550,
       "num": 181260,
       "word": "向佐说给王一博说过了",
@@ -4505,14 +4513,6 @@
       "onboard_time": 1768815142,
       "rank": 7,
       "category": "综艺,时尚"
-    },
-    {
-      "raw_hot": 209549,
-      "num": 209549,
-      "word": "卡拉胶 胰岛素抵抗",
-      "onboard_time": 1769078539,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 209479,
@@ -5057,6 +5057,14 @@
       "onboard_time": 1768832782,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191814,
+      "num": 172462,
+      "word": "网红周媛主账号被封",
+      "onboard_time": 1769078420,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 191658,
@@ -5659,14 +5667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 172462,
-      "num": 172462,
-      "word": "网红周媛主账号被封",
-      "onboard_time": 1769078420,
-      "rank": 42,
-      "category": "网红"
-    },
-    {
       "raw_hot": 172419,
       "num": 172419,
       "word": "李亚鹏公布体检结果",
@@ -6177,6 +6177,14 @@
       "onboard_time": 1768879822,
       "rank": 28,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 159771,
+      "num": 230216,
+      "word": "dyg对战rngm",
+      "onboard_time": 1769076920,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 159665,
@@ -7011,6 +7019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142120,
+      "num": 243179,
+      "word": "载有中国游客的旅游大巴在俄发生事故",
+      "onboard_time": 1769079501,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 142088,
       "num": 131285,
       "word": "陈乔恩在澳门改行干上灯光师了",
@@ -7195,14 +7211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139236,
-      "num": 243179,
-      "word": "载有中国游客的旅游大巴在俄发生事故",
-      "onboard_time": 1769079501,
-      "rank": 7,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 139185,
       "num": 139185,
       "word": "杨紫任申云摄影",
@@ -7291,6 +7299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136801,
+      "num": 241843,
+      "word": "母亲在柬埔寨寻子儿子在园区诈骗",
+      "onboard_time": 1769079441,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136576,
       "num": 136576,
       "word": "34岁女星患子宫肌腺瘤切除子宫",
@@ -7329,6 +7345,14 @@
       "onboard_time": 1769063600,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135284,
+      "num": 115766,
+      "word": "吉利控股目标2030年跻身全球前五",
+      "onboard_time": 1769081661,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 135173,
@@ -8131,14 +8155,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 122762,
-      "num": 122762,
-      "word": "dyg对战rngm",
-      "onboard_time": 1769076920,
-      "rank": 16,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 122743,
       "num": 122743,
       "word": "陈楚生 王栎鑫我也要抱抱",
@@ -8281,6 +8297,14 @@
       "onboard_time": 1768836561,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120828,
+      "num": 120828,
+      "word": "提问牢A",
+      "onboard_time": 1769081301,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120609,
@@ -9153,14 +9177,6 @@
       "onboard_time": 1768962738,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111072,
-      "num": 241843,
-      "word": "母亲在柬埔寨寻子儿子在园区诈骗",
-      "onboard_time": 1769079441,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110816,
@@ -10147,6 +10163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102128,
+      "num": 102128,
+      "word": "小米集团宣布自动股份回购计划",
+      "onboard_time": 1769080821,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 102015,
       "num": 170427,
       "word": "金价大涨3.71%",
@@ -10843,14 +10867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96839,
-      "num": 96839,
-      "word": "提问牢A",
-      "onboard_time": 1769081301,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96825,
       "num": 96825,
       "word": "一个综艺集齐了四大浙卫IP",
@@ -11275,6 +11291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 93348,
+      "num": 91817,
+      "word": "林一 看看我今天发现了什么好东西",
+      "onboard_time": 1769081960,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93314,
       "num": 93314,
       "word": "中国人用四个字平息一切矛盾",
@@ -11545,14 +11569,6 @@
       "onboard_time": 1768808240,
       "rank": 35,
       "category": "财经"
-    },
-    {
-      "raw_hot": 91841,
-      "num": 91841,
-      "word": "小米集团宣布自动股份回购计划",
-      "onboard_time": 1769080821,
-      "rank": 45,
-      "category": "互联网"
     },
     {
       "raw_hot": 91805,
@@ -12555,6 +12571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85387,
+      "num": 85387,
+      "word": "爱上惊蛰无声里的千玺无需报备",
+      "onboard_time": 1769082260,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 85365,
       "num": 91435,
       "word": "鞠婧祎发夏天九宫格",
@@ -12976,6 +13000,14 @@
       "word": "文淇又在地铁站出神图了",
       "onboard_time": 1769002104,
       "rank": 43,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 81925,
+      "num": 81925,
+      "word": "性转版甄嬛传",
+      "onboard_time": 1769082021,
+      "rank": 47,
       "category": "作品衍生"
     },
     {
@@ -14131,6 +14163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70284,
+      "num": 85538,
+      "word": "老师才是真拿了无限流剧本的人",
+      "onboard_time": 1769082080,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 70193,
       "num": 70193,
       "word": "iPhone被忽略的电话功能",
@@ -14809,6 +14849,22 @@
       "onboard_time": 1768923800,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 58834,
+      "num": 79927,
+      "word": "肯德基客服也崩了",
+      "onboard_time": 1769081601,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58782,
+      "num": 79851,
+      "word": "喜家德被曝水饺托盘出现霉斑",
+      "onboard_time": 1769082321,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58424,
