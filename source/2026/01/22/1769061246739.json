@@ -1,0 +1,410 @@
+{
+  "runTime": 1769061246739,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 537756,
+        "num": 1086040,
+        "word": "茅台紧急回应马茅印刷错误",
+        "onboard_time": 1769056580,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318166,
+        "num": 811202,
+        "word": "惊蛰无声定档",
+        "onboard_time": 1769048240,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 63274,
+        "num": 601961,
+        "word": "无人机吹雪吹完橘林吹大棚",
+        "onboard_time": 1769054720,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1615892,
+        "num": 489176,
+        "word": "老坛酸菜已经塌无可塌了",
+        "onboard_time": 1769058561,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 339656,
+        "num": 339656,
+        "word": "张艺谋拍的杨幂刘诗诗",
+        "onboard_time": 1769050219,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 302696,
+        "num": 302696,
+        "word": "今年最烂大街的穿搭",
+        "onboard_time": 1769038097,
+        "rank": 5,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 252484,
+        "num": 252484,
+        "word": "时代峰峻惊蛰无声出品方",
+        "onboard_time": 1769056100,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179867,
+        "num": 252264,
+        "word": "90后体育生卖饺子年入25亿",
+        "onboard_time": 1769056341,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148477,
+        "num": 251638,
+        "word": "王欣瑜2比1奥斯塔彭科",
+        "onboard_time": 1769060539,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127132,
+        "num": 251136,
+        "word": "洗衣机里像紫菜的东西是什么",
+        "onboard_time": 1769059521,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1217637,
+        "num": 250410,
+        "word": "车银优个人赚了500亿以上",
+        "onboard_time": 1769057841,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312534,
+        "num": 249830,
+        "word": "女子在丈夫瘫痪期间出轨并怀孕",
+        "onboard_time": 1769050400,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249806,
+        "num": 249806,
+        "word": "惊蛰无声全员素颜",
+        "onboard_time": 1769058622,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 237212,
+        "num": 237212,
+        "word": "妈妈患癌去世5个月后爸爸确诊癌症",
+        "onboard_time": 1769055381,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217587,
+        "num": 217587,
+        "word": "向佐用王一博同名账号开直播",
+        "onboard_time": 1769057241,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126680,
+        "num": 217535,
+        "word": "中国航天1天2次受挫应理性看待",
+        "onboard_time": 1769055140,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408210,
+        "num": 217535,
+        "word": "车银优涉嫌逃税",
+        "onboard_time": 1769052500,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217492,
+        "num": 217492,
+        "word": "黄子弘凡鸟巢演唱会定档",
+        "onboard_time": 1769057841,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119912,
+        "num": 212768,
+        "word": "安徽大学可乐只卖1块7被写进小说",
+        "onboard_time": 1769059641,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117692,
+        "num": 211293,
+        "word": "作不雅手势女子被撞倒为何无人同情",
+        "onboard_time": 1769060841,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210336,
+        "num": 210336,
+        "word": "传下去时代峰峻乐华娱乐联姻了",
+        "onboard_time": 1769060721,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 598763,
+        "num": 209700,
+        "word": "程序员猝死当天5次访问公司OA系统",
+        "onboard_time": 1769048840,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 558877,
+        "num": 209266,
+        "word": "猝死程序员妻子晒聊天记录令人心碎",
+        "onboard_time": 1769053521,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407377,
+        "num": 208724,
+        "word": "猝死程序员工位上有三块屏幕",
+        "onboard_time": 1769052740,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301680,
+        "num": 207666,
+        "word": "牢A 沈逸",
+        "onboard_time": 1769055020,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107443,
+        "num": 207103,
+        "word": "王欣瑜vs奥斯塔彭科",
+        "onboard_time": 1769059581,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276160,
+        "num": 205988,
+        "word": "易烊千玺短发",
+        "onboard_time": 1769050760,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 254240,
+        "num": 205304,
+        "word": "半个娱乐圈都来滑雪团建了",
+        "onboard_time": 1769058141,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156670,
+        "num": 204186,
+        "word": "牢A谈女留学生是怎么被陷害的",
+        "onboard_time": 1769060539,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92640,
+        "num": 203788,
+        "word": "12306购票页面有小暗号",
+        "onboard_time": 1769054841,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236096,
+        "num": 203098,
+        "word": "田曦薇 恶女",
+        "onboard_time": 1769050579,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109796,
+        "num": 201775,
+        "word": "冰咖啡和热咖啡差别居然这么大",
+        "onboard_time": 1769056580,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 231649,
+        "num": 201059,
+        "word": "徐冬冬回应婚礼饮料是椰树",
+        "onboard_time": 1769060721,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200974,
+        "num": 200974,
+        "word": "杨紫妆造最浓的一次",
+        "onboard_time": 1769059761,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190646,
+        "num": 190646,
+        "word": "王欣瑜首进澳网女单32强",
+        "onboard_time": 1769060482,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154606,
+        "num": 154606,
+        "word": "继承者们剧情照进现实了",
+        "onboard_time": 1769056401,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147222,
+        "num": 147222,
+        "word": "女子被丈夫弟弟强奸哭泣称太痛苦了",
+        "onboard_time": 1769050039,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145141,
+        "num": 145141,
+        "word": "镖人",
+        "onboard_time": 1769055741,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135614,
+        "num": 135614,
+        "word": "终于学会漂漂亮亮不随份子钱了",
+        "onboard_time": 1769050160,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118361,
+        "num": 118361,
+        "word": "惊蛰无声",
+        "onboard_time": 1769048418,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112053,
+        "num": 112053,
+        "word": "多所大学停招艺术专业",
+        "onboard_time": 1769059521,
+        "rank": 40,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 117160,
+        "num": 109617,
+        "word": "牢A详解糖霜苹果",
+        "onboard_time": 1769055861,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105318,
+        "num": 105318,
+        "word": "妻子怀孕丈夫却孕吐不停",
+        "onboard_time": 1769056041,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105250,
+        "num": 105250,
+        "word": "网友回应接手王鹤棣妈妈的油炸店",
+        "onboard_time": 1769059402,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104197,
+        "num": 104197,
+        "word": "黄金白银双双跳水",
+        "onboard_time": 1769058322,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103064,
+        "num": 103064,
+        "word": "警方回应海滩上女子尸体遭野狗包围",
+        "onboard_time": 1769059341,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97888,
+        "num": 97888,
+        "word": "长生FMVP皮肤首播",
+        "onboard_time": 1769060241,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95768,
+        "num": 95768,
+        "word": "向佐我现在多烂多臭你知道吗",
+        "onboard_time": 1769061200,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96928,
+        "num": 95127,
+        "word": "棣爸透露棣妈油炸经营情况",
+        "onboard_time": 1769061141,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92690,
+        "num": 92690,
+        "word": "大连一海面密密麻麻全是冻住的鱼",
+        "onboard_time": 1769059402,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共赴冰雪春天#"
+    }
+  }
+}
