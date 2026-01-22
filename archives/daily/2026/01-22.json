@@ -1,7 +1,15 @@
 {
   "startTime": 1769015008764,
-  "endTime": 1769048122443,
+  "endTime": 1769049594152,
   "band_list": [
+    {
+      "raw_hot": 1588138,
+      "num": 1588138,
+      "word": "惊蛰无声定档",
+      "onboard_time": 1769048240,
+      "rank": 0,
+      "category": "电影"
+    },
     {
       "raw_hot": 1215104,
       "num": 313426,
@@ -27,6 +35,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 604894,
+      "num": 922370,
+      "word": "考研失败情侣辞职回村7年后翻盘",
+      "onboard_time": 1769046499,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 586519,
       "num": 831598,
       "word": "永辉超市胖改第二年预亏21亿",
@@ -44,7 +60,7 @@
     },
     {
       "raw_hot": 463446,
-      "num": 192885,
+      "num": 214335,
       "word": "昀牵孟绕就这么亲上了",
       "onboard_time": 1769038938,
       "rank": 24,
@@ -52,7 +68,7 @@
     },
     {
       "raw_hot": 448500,
-      "num": 192776,
+      "num": 210211,
       "word": "猝死32岁程序员曾说要陪大家加班",
       "onboard_time": 1769046440,
       "rank": 11,
@@ -75,6 +91,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 408137,
+      "num": 408137,
+      "word": "程序员猝死后8小时仍有工作消息",
+      "onboard_time": 1769047040,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 400765,
+      "num": 400765,
+      "word": "惊蛰无声",
+      "onboard_time": 1769048418,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 380349,
       "num": 163585,
       "word": "拼多多若再犯或被责令停业整顿",
@@ -92,7 +124,7 @@
     },
     {
       "raw_hot": 330482,
-      "num": 192700,
+      "num": 208895,
       "word": "苹果推出新春优惠",
       "onboard_time": 1769045960,
       "rank": 12,
@@ -107,12 +139,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 279311,
+      "num": 164680,
+      "word": "惊蛰无声打响全民反间谍",
+      "onboard_time": 1769048300,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 276633,
-      "num": 151415,
+      "num": 157973,
       "word": "男子见义勇为被捅死后3个儿子辍学",
       "onboard_time": 1769042361,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 275081,
+      "num": 157896,
+      "word": "肖战 每日鲜语",
+      "onboard_time": 1769048360,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 273817,
@@ -131,12 +179,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 234671,
+      "num": 119359,
+      "word": "程序员猝死当天5次访问公司OA系统",
+      "onboard_time": 1769048840,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232018,
       "num": 601905,
       "word": "交警回应女子作不雅手势被后车撞击",
       "onboard_time": 1769004202,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228152,
+      "num": 204333,
+      "word": "张艺谋电影惊蛰无声定档春节",
+      "onboard_time": 1769048000,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 225556,
+      "num": 203105,
+      "word": "杨幂惊蛰无声镜头",
+      "onboard_time": 1769048840,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 219966,
@@ -161,6 +233,14 @@
       "onboard_time": 1769037377,
       "rank": 11,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 203510,
+      "num": 203510,
+      "word": "2026高考时间公布",
+      "onboard_time": 1769048779,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 197892,
@@ -219,6 +299,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172811,
+      "num": 119178,
+      "word": "写给樊振东的一首歌",
+      "onboard_time": 1769049019,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 172097,
+      "num": 172097,
+      "word": "易烊千玺朱一龙对手戏",
+      "onboard_time": 1769049198,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 168187,
       "num": 530165,
       "word": "第一次见买家秀和卖家秀反着来的",
@@ -227,12 +323,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 167137,
-      "num": 167137,
-      "word": "考研失败情侣辞职回村7年后翻盘",
-      "onboard_time": 1769046499,
-      "rank": 16,
-      "category": "民生新闻"
+      "raw_hot": 166514,
+      "num": 153827,
+      "word": "田曦薇嫁金钗定妆",
+      "onboard_time": 1769049019,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 158751,
@@ -249,6 +345,14 @@
       "onboard_time": 1769047520,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153981,
+      "num": 140233,
+      "word": "刘耀文春节档有2部电影",
+      "onboard_time": 1769048960,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 152476,
@@ -323,12 +427,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 130190,
-      "num": 130190,
-      "word": "程序员猝死后8小时仍有工作消息",
-      "onboard_time": 1769047040,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 129902,
+      "num": 129902,
+      "word": "永辉超市已连续5年亏损",
+      "onboard_time": 1769044401,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 127312,
@@ -403,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 103351,
-      "num": 103351,
-      "word": "永辉超市已连续5年亏损",
-      "onboard_time": 1769044401,
-      "rank": 34,
-      "category": "财经"
-    },
-    {
       "raw_hot": 99909,
       "num": 99909,
       "word": "爱吃鸭头的人天塌了",
@@ -419,12 +515,28 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 99693,
+      "num": 99693,
+      "word": "永辉超市回应5年亏损超百亿",
+      "onboard_time": 1769048240,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 99298,
       "num": 93155,
       "word": "王鹤棣 我是王嘉尔",
       "onboard_time": 1769000902,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97593,
+      "num": 97593,
+      "word": "金饰克价一夜跌3元",
+      "onboard_time": 1769047159,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 97023,
@@ -460,7 +572,7 @@
     },
     {
       "raw_hot": 90566,
-      "num": 90566,
+      "num": 96580,
       "word": "终末地开服",
       "onboard_time": 1769045299,
       "rank": 36,
@@ -484,7 +596,7 @@
     },
     {
       "raw_hot": 86220,
-      "num": 86220,
+      "num": 96537,
       "word": "国家林草局原局长张建龙被查",
       "onboard_time": 1769046741,
       "rank": 39,
@@ -492,27 +604,11 @@
     },
     {
       "raw_hot": 85654,
-      "num": 85654,
+      "num": 96632,
       "word": "范志毅称国足3比0都打少了",
       "onboard_time": 1769042662,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84443,
-      "num": 84443,
-      "word": "金饰克价一夜跌3元",
-      "onboard_time": 1769047159,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 84191,
-      "num": 84191,
-      "word": "张艺谋电影惊蛰无声定档春节",
-      "onboard_time": 1769048000,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 81105,
@@ -524,7 +620,7 @@
     },
     {
       "raw_hot": 80736,
-      "num": 80736,
+      "num": 96590,
       "word": "尚公主",
       "onboard_time": 1769043621,
       "rank": 45,
@@ -891,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35778,
+      "num": 166603,
+      "word": "315元一斤的黑草莓9天100多人购买",
+      "onboard_time": 1769048899,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34605,
       "num": 65073,
       "word": "芒果综艺上这张嘴借我年终述职用",
@@ -937,6 +1041,14 @@
       "onboard_time": 1769012179,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28301,
+      "num": 97600,
+      "word": "美共和党议员切格陵兰岛蛋糕",
+      "onboard_time": 1769049079,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 28178,
@@ -1012,7 +1124,7 @@
     },
     {
       "raw_hot": 21043,
-      "num": 649672,
+      "num": 743147,
       "word": "数读工业和信息化发展新成效",
       "onboard_time": 1769001682,
       "rank": 2,
@@ -1025,6 +1137,14 @@
       "onboard_time": 1769017817,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20870,
+      "num": 97398,
+      "word": "男子为猪栏持矛杀死邻居再追杀其父",
+      "onboard_time": 1769048360,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19866,
@@ -1081,6 +1201,14 @@
       "onboard_time": 1769001382,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12898,
+      "num": 98177,
+      "word": "10元100元300元一斤草莓揭秘",
+      "onboard_time": 1769048840,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12784,
