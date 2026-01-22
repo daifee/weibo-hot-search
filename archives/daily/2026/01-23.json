@@ -1,6 +1,6 @@
 {
   "startTime": 1769100257042,
-  "endTime": 1769121123035,
+  "endTime": 1769122137112,
   "band_list": [
     {
       "raw_hot": 512156,
@@ -83,6 +83,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 183511,
+      "num": 35313,
+      "word": "何穗月子后做了二次手术",
+      "onboard_time": 1769107754,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170819,
       "num": 170819,
       "word": "牢A",
@@ -107,14 +115,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 143114,
-      "num": 33176,
-      "word": "何穗月子后做了二次手术",
-      "onboard_time": 1769107754,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138891,
       "num": 189208,
       "word": "奥斯卡提名",
@@ -131,8 +131,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121576,
-      "num": 121576,
+      "raw_hot": 126080,
+      "num": 126080,
       "word": "女子用开水浇他人车玻璃测试会否炸裂",
       "onboard_time": 1769101277,
       "rank": 5,
@@ -203,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77157,
+      "num": 168187,
+      "word": "特朗普为啥时隔一天态度变了",
+      "onboard_time": 1769092701,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 75256,
       "num": 187498,
       "word": "一超市金车厘子一箱2800元",
@@ -235,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 67859,
+      "num": 67859,
+      "word": "湖南22岁未婚小伙替兄养子事件进展",
+      "onboard_time": 1769104396,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66955,
       "num": 168223,
       "word": "李行亮谈因网友抵制接不到工作",
@@ -259,12 +275,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59389,
-      "num": 168187,
-      "word": "特朗普为啥时隔一天态度变了",
-      "onboard_time": 1769092701,
-      "rank": 29,
-      "category": "国际时政"
+      "raw_hot": 61010,
+      "num": 61010,
+      "word": "陈星旭王玉雯手指吻",
+      "onboard_time": 1769116573,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 59241,
@@ -315,12 +331,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 50018,
-      "num": 50018,
-      "word": "湖南22岁未婚小伙替兄养子事件进展",
-      "onboard_time": 1769104396,
-      "rank": 47,
+      "raw_hot": 50559,
+      "num": 167854,
+      "word": "一觉醒来连洗衣机都被冰冻上了",
+      "onboard_time": 1769097859,
+      "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47995,
+      "num": 62291,
+      "word": "一个人开始常发朋友圈意味着什么",
+      "onboard_time": 1769102957,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 47174,
@@ -331,28 +355,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 46669,
-      "num": 167854,
-      "word": "一觉醒来连洗衣机都被冰冻上了",
-      "onboard_time": 1769097859,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 46410,
       "num": 167819,
       "word": "杨幂穿Prada的女王",
       "onboard_time": 1769073201,
       "rank": 39,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 45879,
-      "num": 62291,
-      "word": "一个人开始常发朋友圈意味着什么",
-      "onboard_time": 1769102957,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 45876,
@@ -435,12 +443,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 37920,
-      "num": 37920,
-      "word": "陈星旭王玉雯手指吻",
-      "onboard_time": 1769116573,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 34629,
+      "num": 32858,
+      "word": "中方回应日本驻重庆总领事空缺",
+      "onboard_time": 1769105056,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 33635,
@@ -475,12 +483,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 23191,
-      "num": 32858,
-      "word": "中方回应日本驻重庆总领事空缺",
-      "onboard_time": 1769105056,
-      "rank": 37,
-      "category": "国内时政"
+      "raw_hot": 25486,
+      "num": 26472,
+      "word": "北京卫视春晚",
+      "onboard_time": 1769085199,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 24924,
+      "num": 24924,
+      "word": "特朗普在达沃斯启动和平委员会",
+      "onboard_time": 1769119513,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 22227,
@@ -489,14 +505,6 @@
       "onboard_time": 1769087960,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21508,
-      "num": 26472,
-      "word": "北京卫视春晚",
-      "onboard_time": 1769085199,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 21355,
@@ -515,7 +523,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19557,
+      "raw_hot": 19797,
       "num": 26517,
       "word": "美国人在线求助",
       "onboard_time": 1769109495,
@@ -523,12 +531,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 18356,
-      "num": 18356,
-      "word": "特朗普在达沃斯启动和平委员会",
-      "onboard_time": 1769119513,
-      "rank": 35,
-      "category": "国际时政"
+      "raw_hot": 19363,
+      "num": 19363,
+      "word": "肖战已连续3年亮相网络视听盛典",
+      "onboard_time": 1769121555,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 18187,
@@ -536,6 +544,14 @@
       "word": "小城大事",
       "onboard_time": 1769082560,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 16572,
+      "num": 19028,
+      "word": "云初令",
+      "onboard_time": 1769101877,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -555,14 +571,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 14615,
-      "num": 15404,
-      "word": "云初令",
-      "onboard_time": 1769101877,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 14534,
       "num": 15403,
       "word": "檀健次送春节祝福",
@@ -571,8 +579,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 5675,
-      "num": 234857,
+      "raw_hot": 6235,
+      "num": 301301,
       "word": "2025年我国农业现代化水平持续提升",
       "onboard_time": 1769070381,
       "rank": 2,
