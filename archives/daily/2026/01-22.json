@@ -1,6 +1,6 @@
 {
   "startTime": 1769015008764,
-  "endTime": 1769078249667,
+  "endTime": 1769079309136,
   "band_list": [
     {
       "raw_hot": 1924560,
@@ -243,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 526505,
+      "num": 188399,
+      "word": "车银优被韩网友喊话退圈",
+      "onboard_time": 1769076440,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 518356,
       "num": 485539,
       "word": "撞倒作不雅手势女子司机回应",
@@ -251,20 +259,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 503274,
+      "num": 187971,
+      "word": "牢A的故事一个一个被证实",
+      "onboard_time": 1769074222,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 486616,
       "num": 195887,
       "word": "车银优 颜值支付失败",
       "onboard_time": 1769062880,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 486344,
-      "num": 161071,
-      "word": "牢A的故事一个一个被证实",
-      "onboard_time": 1769074222,
-      "rank": 31,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 471543,
@@ -291,14 +299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 454227,
-      "num": 98577,
-      "word": "车银优被韩网友喊话退圈",
-      "onboard_time": 1769076440,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 448500,
       "num": 210211,
       "word": "猝死32岁程序员曾说要陪大家加班",
@@ -321,6 +321,14 @@
       "onboard_time": 1769008641,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 411111,
+      "num": 788923,
+      "word": "内娱终于有人拍出这段沉痛的往事了",
+      "onboard_time": 1769076140,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 409324,
@@ -419,12 +427,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 344778,
+      "num": 187255,
+      "word": "宋威龙珍珠造型",
+      "onboard_time": 1769077041,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 344248,
-      "num": 162669,
+      "num": 186508,
       "word": "A股",
       "onboard_time": 1769071702,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 341480,
+      "num": 186811,
+      "word": "小龙女让王一博演早HE了",
+      "onboard_time": 1769075600,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 334015,
@@ -433,14 +457,6 @@
       "onboard_time": 1769067801,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 330769,
-      "num": 788923,
-      "word": "内娱终于有人拍出这段沉痛的往事了",
-      "onboard_time": 1769076140,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 330482,
@@ -483,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 301124,
+      "num": 179726,
+      "word": "杨幂马龙徐若晗同框",
+      "onboard_time": 1769077460,
+      "rank": 33,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 298280,
       "num": 298280,
       "word": "第五人格",
@@ -500,7 +524,7 @@
     },
     {
       "raw_hot": 294943,
-      "num": 173558,
+      "num": 193173,
       "word": "不要穿一身白去滑雪",
       "onboard_time": 1769071941,
       "rank": 41,
@@ -627,14 +651,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 243079,
-      "num": 108092,
-      "word": "小龙女让王一博演早HE了",
-      "onboard_time": 1769075600,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 237212,
       "num": 237212,
       "word": "妈妈患癌去世5个月后爸爸确诊癌症",
@@ -756,19 +772,11 @@
     },
     {
       "raw_hot": 209479,
-      "num": 178796,
+      "num": 190688,
       "word": "春节前瘦10斤突击法",
       "onboard_time": 1769071821,
       "rank": 11,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 208900,
-      "num": 98543,
-      "word": "宋威龙珍珠造型",
-      "onboard_time": 1769077041,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 203922,
@@ -835,14 +843,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 196674,
-      "num": 98539,
-      "word": "杨幂马龙徐若晗同框",
-      "onboard_time": 1769077460,
-      "rank": 33,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 195384,
       "num": 93339,
       "word": "美国现在连尸体脂肪都不放过",
@@ -900,7 +900,7 @@
     },
     {
       "raw_hot": 189463,
-      "num": 98521,
+      "num": 178477,
       "word": "梓渝工作室发库存",
       "onboard_time": 1769077941,
       "rank": 36,
@@ -916,7 +916,7 @@
     },
     {
       "raw_hot": 182528,
-      "num": 98548,
+      "num": 171088,
       "word": "8万8性商课取悦了谁收割了谁",
       "onboard_time": 1769076140,
       "rank": 31,
@@ -940,7 +940,7 @@
     },
     {
       "raw_hot": 178443,
-      "num": 107562,
+      "num": 121842,
       "word": "高越 高超又破防了",
       "onboard_time": 1769074401,
       "rank": 41,
@@ -995,6 +995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 170834,
+      "num": 170834,
+      "word": "CL被移交至韩检方",
+      "onboard_time": 1769075721,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170420,
       "num": 147982,
       "word": "刘宇宁说你拿着成毅拍我",
@@ -1020,7 +1028,7 @@
     },
     {
       "raw_hot": 167203,
-      "num": 108728,
+      "num": 154909,
       "word": "棣妈想去陪王鹤棣养伤",
       "onboard_time": 1769075240,
       "rank": 36,
@@ -1041,14 +1049,6 @@
       "onboard_time": 1769065520,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 161929,
-      "num": 97984,
-      "word": "CL被移交至韩检方",
-      "onboard_time": 1769075721,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 160846,
@@ -1076,7 +1076,7 @@
     },
     {
       "raw_hot": 160635,
-      "num": 160635,
+      "num": 191355,
       "word": "虞书欣云初令云初粉黛芙蓉",
       "onboard_time": 1769075060,
       "rank": 25,
@@ -1164,7 +1164,7 @@
     },
     {
       "raw_hot": 150933,
-      "num": 164705,
+      "num": 188787,
       "word": "白鹿亲爱的客栈录制路透",
       "onboard_time": 1769070860,
       "rank": 27,
@@ -1211,6 +1211,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 142273,
+      "num": 142273,
+      "word": "肖战的暖手宝叫郑大钳",
+      "onboard_time": 1769079260,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140765,
       "num": 140765,
       "word": "奥委会回顾樊振东十年高光",
@@ -1251,12 +1259,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 137327,
+      "num": 137327,
+      "word": "网红周媛主账号被封",
+      "onboard_time": 1769078420,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 137250,
       "num": 199883,
       "word": "这个季节家里全是微脏的衣服",
       "onboard_time": 1769054899,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137184,
+      "num": 192664,
+      "word": "特朗普说普京同意了普京说还没",
+      "onboard_time": 1769076739,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 135335,
@@ -1291,6 +1315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132190,
+      "num": 158382,
+      "word": "卡拉胶 胰岛素抵抗",
+      "onboard_time": 1769078539,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 131543,
       "num": 97119,
       "word": "陈都灵好有冲击力的美貌",
@@ -1313,6 +1345,14 @@
       "onboard_time": 1769044401,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 129001,
+      "num": 191422,
+      "word": "MCD舞台塌了",
+      "onboard_time": 1769079021,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 127510,
@@ -1403,6 +1443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121838,
+      "num": 190309,
+      "word": "iPhoneFold售价曝光",
+      "onboard_time": 1769078480,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 121508,
       "num": 121508,
       "word": "成毅真的是个很温和的人",
@@ -1491,12 +1539,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114242,
+      "num": 189981,
+      "word": "谁懂檀健次朝我奔来的含金量",
+      "onboard_time": 1769078180,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113541,
       "num": 113541,
       "word": "联合国警告水破产时代已来临",
       "onboard_time": 1769004623,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113077,
+      "num": 113077,
+      "word": "吕严护食跟黄晓明急了",
+      "onboard_time": 1769078780,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 112301,
@@ -1593,6 +1657,14 @@
       "onboard_time": 1769072781,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104872,
+      "num": 184094,
+      "word": "伊朗近期骚乱超3000人死亡",
+      "onboard_time": 1769077640,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 104864,
@@ -1707,14 +1779,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 99629,
-      "num": 99629,
-      "word": "谁懂檀健次朝我奔来的含金量",
-      "onboard_time": 1769078180,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 99546,
       "num": 176452,
       "word": "程序员猝死涉事公司当被调查",
@@ -1740,11 +1804,19 @@
     },
     {
       "raw_hot": 98841,
-      "num": 109066,
+      "num": 145090,
       "word": "林诗栋因遮挡被罚2分",
       "onboard_time": 1769074100,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97963,
+      "num": 122286,
+      "word": "马龙Prada皮衣",
+      "onboard_time": 1769077941,
+      "rank": 44,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 97888,
@@ -1761,14 +1833,6 @@
       "onboard_time": 1769047159,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 97212,
-      "num": 97212,
-      "word": "马龙Prada皮衣",
-      "onboard_time": 1769077941,
-      "rank": 44,
-      "category": "体育,时尚"
     },
     {
       "raw_hot": 97111,
@@ -1875,12 +1939,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91219,
+      "num": 182790,
+      "word": "职场奋斗不应以透支生命为代价",
+      "onboard_time": 1769078960,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90566,
       "num": 96580,
       "word": "终末地开服",
       "onboard_time": 1769045299,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 88062,
+      "num": 181377,
+      "word": "中国女留学生虚假指控强奸获刑6年",
+      "onboard_time": 1769078900,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 87880,
@@ -1932,7 +2012,7 @@
     },
     {
       "raw_hot": 84827,
-      "num": 98566,
+      "num": 107006,
       "word": "孙颖莎思归妈妈的味道",
       "onboard_time": 1769076739,
       "rank": 28,
@@ -2044,7 +2124,7 @@
     },
     {
       "raw_hot": 74997,
-      "num": 98506,
+      "num": 107507,
       "word": "第一次见骚扰别人自己留证据的",
       "onboard_time": 1769077941,
       "rank": 39,
@@ -2065,14 +2145,6 @@
       "onboard_time": 1769037257,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 72130,
-      "num": 99596,
-      "word": "伊朗近期骚乱超3000人死亡",
-      "onboard_time": 1769077640,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 71579,
@@ -2385,6 +2457,14 @@
       "onboard_time": 1769037737,
       "rank": 46,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 42435,
+      "num": 143639,
+      "word": "侯明昊周也拼好剧 人鬼情未了",
+      "onboard_time": 1769078602,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 42244,
