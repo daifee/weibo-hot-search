@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769055332832,
+  "endTime": 1769056491655,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -532,7 +532,7 @@
     },
     {
       "raw_hot": 1533186,
-      "num": 211928,
+      "num": 304850,
       "word": "车银优涉嫌逃税",
       "onboard_time": 1769052500,
       "rank": 11,
@@ -1272,6 +1272,14 @@
       "word": "牢A",
       "onboard_time": 1768798763,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1036333,
+      "num": 656460,
+      "word": "猝死程序员工位上有三块屏幕",
+      "onboard_time": 1769052740,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767588562,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 791316,
-      "num": 324714,
-      "word": "iPhone18",
-      "onboard_time": 1768966518,
-      "rank": 11,
-      "category": "数码"
     }
   ],
   "hotgov_list": [

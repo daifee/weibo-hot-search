@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/22 12:15:32
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/22 12:34:51
 </p>
 </blockquote>
 <p>
@@ -969,6 +969,12 @@ LV活动（热度：1044426）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8C%9D%E6%AD%BB%E7%A8%8B%E5%BA%8F%E5%91%98%E5%B7%A5%E4%BD%8D%E4%B8%8A%E6%9C%89%E4%B8%89%E5%9D%97%E5%B1%8F%E5%B9%95%23" target="weibo">
+猝死程序员工位上有三块屏幕（热度：1036333）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%B0%8F%E4%BE%BF%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%99%BB%E6%8A%A5%E9%81%93%E6%AD%89%23" target="weibo">
 海底捞小便当事人登报道歉（热度：1034811）
 </a>
@@ -1805,12 +1811,6 @@ iPhone18Pro新爆料（热度：826962）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E8%B7%B3%E8%88%9E%E8%82%A9%E5%B8%A6%E6%96%AD%E4%BA%86%23" target="weibo">
 娜扎跳舞肩带断了（热度：793383）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone18%23" target="weibo">
-iPhone18（热度：791316）
 </a>
 </li>
 
