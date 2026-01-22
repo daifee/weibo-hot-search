@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769117518239,
+  "endTime": 1769118405225,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -17835,20 +17835,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12532,
+      "num": 12532,
+      "word": "檀健次送春节祝福",
+      "onboard_time": 1769115373,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 12387,
       "num": 26251,
       "word": "CBA",
       "onboard_time": 1768661001,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12336,
-      "num": 12336,
-      "word": "檀健次送春节祝福",
-      "onboard_time": 1769115373,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 12284,
@@ -17875,8 +17875,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 11590,
-      "num": 12056,
+      "raw_hot": 12110,
+      "num": 12417,
       "word": "陈星旭王玉雯手指吻",
       "onboard_time": 1769116573,
       "rank": 46,
@@ -17892,7 +17892,7 @@
     },
     {
       "raw_hot": 10935,
-      "num": 112425,
+      "num": 119814,
       "word": "2025年我国农业现代化水平持续提升",
       "onboard_time": 1769070381,
       "rank": 42,

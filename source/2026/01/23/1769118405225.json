@@ -1,0 +1,410 @@
+{
+  "runTime": 1769118405225,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 43024,
+        "num": 201953,
+        "word": "清华大学拟退学2名博士",
+        "onboard_time": 1769089161,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38743,
+        "num": 149416,
+        "word": "学胖东来的第二年永辉又亏了21亿",
+        "onboard_time": 1769091623,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 5285,
+        "num": 119814,
+        "word": "2025年我国农业现代化水平持续提升",
+        "onboard_time": 1769070381,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75022,
+        "num": 75022,
+        "word": "女子被一次性拔牙12颗后心梗休克",
+        "onboard_time": 1769096961,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46364,
+        "num": 46364,
+        "word": "女子用开水浇他人车玻璃测试会否炸裂",
+        "onboard_time": 1769101277,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39365,
+        "num": 39365,
+        "word": "特朗普为啥时隔一天态度变了",
+        "onboard_time": 1769092701,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28609,
+        "num": 28609,
+        "word": "一个人开始常发朋友圈意味着什么",
+        "onboard_time": 1769102957,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28562,
+        "num": 28562,
+        "word": "六大行集体发布公告",
+        "onboard_time": 1769085501,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 26532,
+        "num": 26532,
+        "word": "朱志鑫 五哈",
+        "onboard_time": 1769094021,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20365,
+        "num": 26517,
+        "word": "湖南22岁未婚小伙替兄养子事件进展",
+        "onboard_time": 1769104396,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30593,
+        "num": 26510,
+        "word": "胖东来保洁员月薪9千永辉没学到",
+        "onboard_time": 1769097680,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26502,
+        "num": 26502,
+        "word": "李行亮谈因网友抵制接不到工作",
+        "onboard_time": 1769089462,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25647,
+        "num": 25647,
+        "word": "李昀锐孟子义 分不清是戏里还是戏外",
+        "onboard_time": 1769092941,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23367,
+        "num": 23367,
+        "word": "小伙致女友怀孕称年龄不适合结婚",
+        "onboard_time": 1769080699,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21358,
+        "num": 21358,
+        "word": "韩国国旗 车银优",
+        "onboard_time": 1769066660,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20238,
+        "num": 20238,
+        "word": "王玉雯演技",
+        "onboard_time": 1769089221,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20162,
+        "num": 20162,
+        "word": "重返狼群 拖欠稿费",
+        "onboard_time": 1769087001,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19886,
+        "num": 19886,
+        "word": "网红周媛实名主账号被封",
+        "onboard_time": 1769090001,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 19621,
+        "num": 19621,
+        "word": "一觉醒来连洗衣机都被冰冻上了",
+        "onboard_time": 1769097859,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19593,
+        "num": 19593,
+        "word": "终末地",
+        "onboard_time": 1769066901,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 68507,
+        "num": 19584,
+        "word": "何穗月子后做了二次手术",
+        "onboard_time": 1769107754,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49948,
+        "num": 19241,
+        "word": "牢A",
+        "onboard_time": 1769085141,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36443,
+        "num": 18908,
+        "word": "养了2年的儿子竟是女儿身",
+        "onboard_time": 1769094679,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23842,
+        "num": 18719,
+        "word": "母亲凭女儿日记疑百万遗产数额短缺",
+        "onboard_time": 1769094021,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18527,
+        "num": 18527,
+        "word": "妻子不孕丈夫要求离婚并退全额彩礼",
+        "onboard_time": 1769083579,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18041,
+        "num": 18041,
+        "word": "肯德基崩了",
+        "onboard_time": 1769079320,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18029,
+        "num": 18029,
+        "word": "重返狼群",
+        "onboard_time": 1769088262,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17374,
+        "num": 17374,
+        "word": "突然的喜欢",
+        "onboard_time": 1769076500,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16037,
+        "num": 16037,
+        "word": "奥斯卡提名",
+        "onboard_time": 1769090422,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16014,
+        "num": 16014,
+        "word": "地球出现6小时特大地磁暴",
+        "onboard_time": 1769089041,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15929,
+        "num": 15929,
+        "word": "香港偶遇戚薇一家坐摩天轮",
+        "onboard_time": 1769097680,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15730,
+        "num": 15730,
+        "word": "北京卫视春晚",
+        "onboard_time": 1769085199,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15557,
+        "num": 15557,
+        "word": "美国人在线求助",
+        "onboard_time": 1769109495,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 15406,
+        "num": 15406,
+        "word": "和张函瑞一起声启荣冕",
+        "onboard_time": 1769097980,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15382,
+        "num": 15382,
+        "word": "阿爆掉粉近5万",
+        "onboard_time": 1769099478,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 15332,
+        "num": 15332,
+        "word": "突然的喜欢 穿书设定",
+        "onboard_time": 1769104396,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14135,
+        "num": 14135,
+        "word": "猝死程序员日记写努力努力再努力",
+        "onboard_time": 1769087180,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13901,
+        "num": 13901,
+        "word": "中方回应日本驻重庆总领事空缺",
+        "onboard_time": 1769105056,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13693,
+        "num": 13693,
+        "word": "星星人",
+        "onboard_time": 1769091741,
+        "rank": 38,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 13684,
+        "num": 13684,
+        "word": "声鸣远扬",
+        "onboard_time": 1769105954,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13246,
+        "num": 13246,
+        "word": "生命树",
+        "onboard_time": 1769083461,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13180,
+        "num": 13180,
+        "word": "陈丽君杂志10分钟804万",
+        "onboard_time": 1769094742,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12653,
+        "num": 12653,
+        "word": "黄景瑜 太空旅游",
+        "onboard_time": 1769088742,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12532,
+        "num": 12532,
+        "word": "檀健次送春节祝福",
+        "onboard_time": 1769115373,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12420,
+        "num": 12420,
+        "word": "一超市金车厘子一箱2800元",
+        "onboard_time": 1769083640,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12298,
+        "num": 12419,
+        "word": "小城大事",
+        "onboard_time": 1769082560,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12114,
+        "num": 12418,
+        "word": "王源自拍小卡",
+        "onboard_time": 1769111594,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12110,
+        "num": 12417,
+        "word": "陈星旭王玉雯手指吻",
+        "onboard_time": 1769116573,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11058,
+        "num": 12417,
+        "word": "发生猝死的征兆",
+        "onboard_time": 1769072301,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11008,
+        "num": 12415,
+        "word": "牢A的故事一个一个被证实",
+        "onboard_time": 1769074222,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委主席习近平签署命令#"
+    }
+  }
+}
