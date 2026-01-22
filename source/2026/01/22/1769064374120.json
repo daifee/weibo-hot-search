@@ -1,0 +1,410 @@
+{
+  "runTime": 1769064374120,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 429853,
+        "num": 1068776,
+        "word": "作不雅手势女子被撞倒为何无人同情",
+        "onboard_time": 1769060841,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354561,
+        "num": 761797,
+        "word": "茅台紧急回应马茅印刷错误",
+        "onboard_time": 1769056580,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52342,
+        "num": 591896,
+        "word": "无人机吹雪吹完橘林吹大棚",
+        "onboard_time": 1769054720,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1924560,
+        "num": 489131,
+        "word": "老坛酸菜已经塌无可塌了",
+        "onboard_time": 1769058561,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 306299,
+        "num": 376832,
+        "word": "穆祉丞张子墨 同手同脚",
+        "onboard_time": 1769062940,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 363059,
+        "num": 363059,
+        "word": "洗衣机里像紫菜的东西是什么",
+        "onboard_time": 1769059521,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262011,
+        "num": 262011,
+        "word": "今年最烂大街的穿搭",
+        "onboard_time": 1769038097,
+        "rank": 6,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 232622,
+        "num": 232622,
+        "word": "泡泡玛特 电子木鱼",
+        "onboard_time": 1769061620,
+        "rank": 7,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 216092,
+        "num": 216092,
+        "word": "惊蛰无声定档",
+        "onboard_time": 1769048240,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210694,
+        "num": 210694,
+        "word": "传下去时代峰峻乐华娱乐联姻了",
+        "onboard_time": 1769060721,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198710,
+        "num": 198710,
+        "word": "妈妈患癌去世5个月后爸爸确诊癌症",
+        "onboard_time": 1769055381,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 739413,
+        "num": 198704,
+        "word": "车银优个人赚了500亿以上",
+        "onboard_time": 1769057841,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 663785,
+        "num": 198070,
+        "word": "棣爸透露棣妈油炸经营情况",
+        "onboard_time": 1769061141,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139007,
+        "num": 197800,
+        "word": "长生王昭君FMVP皮肤",
+        "onboard_time": 1769062580,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 213054,
+        "num": 197402,
+        "word": "向佐用王一博同名账号开直播",
+        "onboard_time": 1769057241,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206593,
+        "num": 196817,
+        "word": "小城大事 王星",
+        "onboard_time": 1769063419,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121726,
+        "num": 196329,
+        "word": "12306购票页面有小暗号",
+        "onboard_time": 1769054841,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389979,
+        "num": 195887,
+        "word": "车银优 颜值支付失败",
+        "onboard_time": 1769062880,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108047,
+        "num": 195531,
+        "word": "虎杖悠仁回归",
+        "onboard_time": 1769061980,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 99895,
+        "num": 194897,
+        "word": "最不能接受苹果手机的缺点",
+        "onboard_time": 1769058921,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 454576,
+        "num": 194482,
+        "word": "猝死程序员妻子晒聊天记录令人心碎",
+        "onboard_time": 1769053521,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358635,
+        "num": 194280,
+        "word": "牢A谈女留学生是怎么被陷害的",
+        "onboard_time": 1769060539,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277132,
+        "num": 193644,
+        "word": "程序员猝死当天5次访问公司OA系统",
+        "onboard_time": 1769048840,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253692,
+        "num": 193248,
+        "word": "猝死发生前一个月身体就有征兆",
+        "onboard_time": 1769061682,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88516,
+        "num": 192973,
+        "word": "男子刚卖500克金条又买了200克",
+        "onboard_time": 1769063479,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81492,
+        "num": 192523,
+        "word": "安徽大学可乐只卖1块7被写进小说",
+        "onboard_time": 1769059641,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221617,
+        "num": 192055,
+        "word": "易烊千玺短发",
+        "onboard_time": 1769050760,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168807,
+        "num": 191553,
+        "word": "牢A 沈逸",
+        "onboard_time": 1769055020,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84036,
+        "num": 191317,
+        "word": "大连一海面密密麻麻全是冻住的鱼",
+        "onboard_time": 1769059402,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154593,
+        "num": 190871,
+        "word": "荣耀之战",
+        "onboard_time": 1769063000,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190638,
+        "num": 190638,
+        "word": "惊蛰无声全员素颜",
+        "onboard_time": 1769058622,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168743,
+        "num": 180583,
+        "word": "向佐我现在多烂多臭你知道吗",
+        "onboard_time": 1769061200,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153469,
+        "num": 180418,
+        "word": "女子在丈夫瘫痪期间出轨并怀孕",
+        "onboard_time": 1769050400,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180398,
+        "num": 180398,
+        "word": "雷佳音用了刘耀文的图",
+        "onboard_time": 1769063180,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15532,
+        "num": 177571,
+        "word": "世卫官员回应美国退群",
+        "onboard_time": 1769064259,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177398,
+        "num": 177398,
+        "word": "张艺谋拍的杨幂刘诗诗",
+        "onboard_time": 1769050219,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136238,
+        "num": 177344,
+        "word": "猝死程序员工位上有三块屏幕",
+        "onboard_time": 1769052740,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77668,
+        "num": 177250,
+        "word": "U23国足多人或入选国足",
+        "onboard_time": 1769063240,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135335,
+        "num": 177139,
+        "word": "那英龚俊张雅琪合体梦回花少",
+        "onboard_time": 1769063600,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82115,
+        "num": 177058,
+        "word": "宫外孕切子宫离婚却被索要彩礼",
+        "onboard_time": 1769063960,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136045,
+        "num": 177013,
+        "word": "半个娱乐圈都来滑雪团建了",
+        "onboard_time": 1769058141,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130539,
+        "num": 176838,
+        "word": "徐冬冬回应婚礼饮料是椰树",
+        "onboard_time": 1769060721,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94071,
+        "num": 176780,
+        "word": "耳聋小猫因为很乖被导演选中",
+        "onboard_time": 1769063060,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118520,
+        "num": 176703,
+        "word": "田曦薇 恶女",
+        "onboard_time": 1769050579,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113097,
+        "num": 176590,
+        "word": "黄子弘凡鸟巢演唱会定档",
+        "onboard_time": 1769057841,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89688,
+        "num": 176452,
+        "word": "程序员猝死涉事公司当被调查",
+        "onboard_time": 1769063541,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104496,
+        "num": 176381,
+        "word": "杨紫妆造最浓的一次",
+        "onboard_time": 1769059761,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104210,
+        "num": 176344,
+        "word": "惊蛰无声",
+        "onboard_time": 1769048418,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 60933,
+        "num": 176202,
+        "word": "北京又又又要下雪了",
+        "onboard_time": 1769063780,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52310,
+        "num": 176136,
+        "word": "澳网2026",
+        "onboard_time": 1769062760,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#共赴冰雪春天#"
+    }
+  }
+}

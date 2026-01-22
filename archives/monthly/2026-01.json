@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769061246739,
+  "endTime": 1769064374120,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -379,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1924560,
+      "num": 537836,
+      "word": "老坛酸菜已经塌无可塌了",
+      "onboard_time": 1769058561,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1906595,
       "num": 434864,
       "word": "委内瑞拉发布讣告",
@@ -473,14 +481,6 @@
       "onboard_time": 1768477940,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1615892,
-      "num": 537836,
-      "word": "老坛酸菜已经塌无可塌了",
-      "onboard_time": 1769058561,
-      "rank": 3,
-      "category": "美食"
     },
     {
       "raw_hot": 1607103,
@@ -3329,6 +3329,14 @@
       "onboard_time": 1768625119,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 663785,
+      "num": 198070,
+      "word": "棣爸透露棣妈油炸经营情况",
+      "onboard_time": 1769061141,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 663664,
@@ -7699,6 +7707,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 429853,
+      "num": 1068776,
+      "word": "作不雅手势女子被撞倒为何无人同情",
+      "onboard_time": 1769060841,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 429628,
       "num": 158648,
       "word": "20岁李嫣现状",
@@ -8891,6 +8907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 389979,
+      "num": 195887,
+      "word": "车银优 颜值支付失败",
+      "onboard_time": 1769062880,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 389420,
       "num": 1062307,
       "word": "河南省考报名延期2天",
@@ -9771,6 +9795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 363059,
+      "num": 363059,
+      "word": "洗衣机里像紫菜的东西是什么",
+      "onboard_time": 1769059521,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 362967,
       "num": 930830,
       "word": "FMVP皮肤",
@@ -9937,6 +9969,14 @@
       "onboard_time": 1767875902,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 358635,
+      "num": 204186,
+      "word": "牢A谈女留学生是怎么被陷害的",
+      "onboard_time": 1769060539,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 358616,
@@ -12185,6 +12225,14 @@
       "onboard_time": 1768662441,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306299,
+      "num": 376832,
+      "word": "穆祉丞张子墨 同手同脚",
+      "onboard_time": 1769062940,
+      "rank": 4,
+      "category": "演出"
     },
     {
       "raw_hot": 306211,
@@ -15211,6 +15259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 253692,
+      "num": 193248,
+      "word": "猝死发生前一个月身体就有征兆",
+      "onboard_time": 1769061682,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 253629,
       "num": 209927,
       "word": "男子摆拍污名化成都男性被刑拘",
@@ -16489,6 +16545,14 @@
       "onboard_time": 1768611861,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 232622,
+      "num": 232622,
+      "word": "泡泡玛特 电子木鱼",
+      "onboard_time": 1769061620,
+      "rank": 7,
+      "category": "休闲"
     },
     {
       "raw_hot": 232456,
@@ -18411,6 +18475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 210694,
+      "num": 210694,
+      "word": "传下去时代峰峻乐华娱乐联姻了",
+      "onboard_time": 1769060721,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210649,
       "num": 242116,
       "word": "辽宁一孕妇两个月内从一胎变四胞胎",
@@ -18441,14 +18513,6 @@
       "onboard_time": 1767698901,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 210336,
-      "num": 210336,
-      "word": "传下去时代峰峻乐华娱乐联姻了",
-      "onboard_time": 1769060721,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 210163,
@@ -18825,6 +18889,14 @@
       "onboard_time": 1767612380,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206593,
+      "num": 196817,
+      "word": "小城大事 王星",
+      "onboard_time": 1769063419,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 206543,
@@ -22675,6 +22747,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 180398,
+      "num": 180398,
+      "word": "雷佳音用了刘耀文的图",
+      "onboard_time": 1769063180,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 180385,
       "num": 180385,
       "word": "金价突破4800美元",
@@ -24393,6 +24473,14 @@
       "onboard_time": 1768023200,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168743,
+      "num": 180583,
+      "word": "向佐我现在多烂多臭你知道吗",
+      "onboard_time": 1769061200,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 168553,
@@ -26648,14 +26736,6 @@
       "word": "刨猪汤",
       "onboard_time": 1768270640,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 156670,
-      "num": 204186,
-      "word": "牢A谈女留学生是怎么被陷害的",
-      "onboard_time": 1769060539,
-      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -30595,6 +30675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139007,
+      "num": 197800,
+      "word": "长生王昭君FMVP皮肤",
+      "onboard_time": 1769062580,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138989,
       "num": 138989,
       "word": "西贝公关副总裁离职",
@@ -31489,6 +31577,14 @@
       "onboard_time": 1767851780,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135335,
+      "num": 177139,
+      "word": "那英龚俊张雅琪合体梦回花少",
+      "onboard_time": 1769063600,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 135334,
@@ -33745,14 +33841,6 @@
       "onboard_time": 1768021161,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 127132,
-      "num": 251136,
-      "word": "洗衣机里像紫菜的东西是什么",
-      "onboard_time": 1769059521,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 127121,
@@ -36968,14 +37056,6 @@
       "word": "多方回应9岁女孩写试卷时昏倒去世",
       "onboard_time": 1767858981,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117692,
-      "num": 211293,
-      "word": "作不雅手势女子被撞倒为何无人同情",
-      "onboard_time": 1769060841,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -40713,6 +40793,14 @@
       "onboard_time": 1768456041,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108047,
+      "num": 195531,
+      "word": "虎杖悠仁回归",
+      "onboard_time": 1769061980,
+      "rank": 18,
+      "category": "动漫"
     },
     {
       "raw_hot": 108021,
@@ -44643,6 +44731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99895,
+      "num": 194897,
+      "word": "最不能接受苹果手机的缺点",
+      "onboard_time": 1769058921,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 99885,
       "num": 115683,
       "word": "小狗害怕打针被吓成了小海豹",
@@ -46331,14 +46427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96928,
-      "num": 95127,
-      "word": "棣爸透露棣妈油炸经营情况",
-      "onboard_time": 1769061141,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 96888,
       "num": 83635,
       "word": "贾国龙说罗永浩重大污蔑诽谤",
@@ -46945,14 +47033,6 @@
       "onboard_time": 1767517102,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 95768,
-      "num": 95768,
-      "word": "向佐我现在多烂多臭你知道吗",
-      "onboard_time": 1769061200,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 95756,
@@ -47891,6 +47971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94071,
+      "num": 176780,
+      "word": "耳聋小猫因为很乖被导演选中",
+      "onboard_time": 1769063060,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94066,
       "num": 94066,
       "word": "李煜东牙套勾住嘴了",
@@ -48660,7 +48748,7 @@
     },
     {
       "raw_hot": 92690,
-      "num": 119138,
+      "num": 191317,
       "word": "大连一海面密密麻麻全是冻住的鱼",
       "onboard_time": 1769059402,
       "rank": 39,
@@ -50387,6 +50475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89688,
+      "num": 176452,
+      "word": "程序员猝死涉事公司当被调查",
+      "onboard_time": 1769063541,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89671,
       "num": 89671,
       "word": "正确的跳槽顺序",
@@ -50961,6 +51057,14 @@
       "onboard_time": 1767865521,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 88516,
+      "num": 192973,
+      "word": "男子刚卖500克金条又买了200克",
+      "onboard_time": 1769063479,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88509,
@@ -54627,6 +54731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82115,
+      "num": 177058,
+      "word": "宫外孕切子宫离婚却被索要彩礼",
+      "onboard_time": 1769063960,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82096,
       "num": 106232,
       "word": "黄晓明在剧组十几天瘦了15斤",
@@ -56729,6 +56841,14 @@
       "onboard_time": 1767879262,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77668,
+      "num": 177250,
+      "word": "U23国足多人或入选国足",
+      "onboard_time": 1769063240,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 77618,
@@ -61987,6 +62107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60933,
+      "num": 176202,
+      "word": "北京又又又要下雪了",
+      "onboard_time": 1769063780,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60905,
       "num": 64142,
       "word": "小米强烈推荐升级至新一代SU7",
@@ -63721,6 +63849,14 @@
       "onboard_time": 1767411629,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 52310,
+      "num": 176136,
+      "word": "澳网2026",
+      "onboard_time": 1768519877,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 52235,
@@ -66265,14 +66401,6 @@
       "onboard_time": 1768469241,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 39620,
-      "num": 39620,
-      "word": "澳网2026",
-      "onboard_time": 1768519877,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 39595,
@@ -71521,6 +71649,14 @@
       "onboard_time": 1768248914,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15532,
+      "num": 177571,
+      "word": "世卫官员回应美国退群",
+      "onboard_time": 1769064259,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 15518,

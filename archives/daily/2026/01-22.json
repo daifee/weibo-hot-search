@@ -1,7 +1,15 @@
 {
   "startTime": 1769015008764,
-  "endTime": 1769061246739,
+  "endTime": 1769064374120,
   "band_list": [
+    {
+      "raw_hot": 1924560,
+      "num": 537836,
+      "word": "老坛酸菜已经塌无可塌了",
+      "onboard_time": 1769058561,
+      "rank": 3,
+      "category": "美食"
+    },
     {
       "raw_hot": 1725086,
       "num": 212508,
@@ -9,14 +17,6 @@
       "onboard_time": 1769048840,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1615892,
-      "num": 537836,
-      "word": "老坛酸菜已经塌无可塌了",
-      "onboard_time": 1769058561,
-      "rank": 3,
-      "category": "美食"
     },
     {
       "raw_hot": 1588138,
@@ -115,6 +115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 663785,
+      "num": 198070,
+      "word": "棣爸透露棣妈油炸经营情况",
+      "onboard_time": 1769061141,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 604894,
       "num": 922370,
       "word": "考研失败情侣辞职回村7年后翻盘",
@@ -187,6 +195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 429853,
+      "num": 1068776,
+      "word": "作不雅手势女子被撞倒为何无人同情",
+      "onboard_time": 1769060841,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 419156,
       "num": 381439,
       "word": "戚薇女儿Lucky转眼长成大姑娘啦",
@@ -209,6 +225,14 @@
       "onboard_time": 1769048418,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 389979,
+      "num": 195887,
+      "word": "车银优 颜值支付失败",
+      "onboard_time": 1769062880,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 385373,
@@ -243,6 +267,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 363059,
+      "num": 363059,
+      "word": "洗衣机里像紫菜的东西是什么",
+      "onboard_time": 1769059521,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 358635,
+      "num": 204186,
+      "word": "牢A谈女留学生是怎么被陷害的",
+      "onboard_time": 1769060539,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 354179,
       "num": 631931,
       "word": "杜涛面相都变了",
@@ -273,6 +313,14 @@
       "onboard_time": 1769044821,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 306299,
+      "num": 376832,
+      "word": "穆祉丞张子墨 同手同脚",
+      "onboard_time": 1769062940,
+      "rank": 4,
+      "category": "演出"
     },
     {
       "raw_hot": 296076,
@@ -347,6 +395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 253692,
+      "num": 193248,
+      "word": "猝死发生前一个月身体就有征兆",
+      "onboard_time": 1769061682,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 252960,
       "num": 209068,
       "word": "王源实体专辑",
@@ -369,6 +425,14 @@
       "onboard_time": 1769041581,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 232622,
+      "num": 232622,
+      "word": "泡泡玛特 电子木鱼",
+      "onboard_time": 1769061620,
+      "rank": 7,
+      "category": "休闲"
     },
     {
       "raw_hot": 232018,
@@ -435,6 +499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 210694,
+      "num": 210694,
+      "word": "传下去时代峰峻乐华娱乐联姻了",
+      "onboard_time": 1769060721,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210391,
       "num": 742346,
       "word": "男子献血2.2万毫升不免票景区道歉",
@@ -443,11 +515,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 210336,
-      "num": 210336,
-      "word": "传下去时代峰峻乐华娱乐联姻了",
-      "onboard_time": 1769060721,
-      "rank": 20,
+      "raw_hot": 206593,
+      "num": 196817,
+      "word": "小城大事 王星",
+      "onboard_time": 1769063419,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -571,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180398,
+      "num": 180398,
+      "word": "雷佳音用了刘耀文的图",
+      "onboard_time": 1769063180,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 176197,
       "num": 176197,
       "word": "嫁金钗",
@@ -617,6 +697,14 @@
       "onboard_time": 1769049198,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 168743,
+      "num": 180583,
+      "word": "向佐我现在多烂多臭你知道吗",
+      "onboard_time": 1769061200,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 168187,
@@ -675,12 +763,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156670,
-      "num": 204186,
-      "word": "牢A谈女留学生是怎么被陷害的",
-      "onboard_time": 1769060539,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 154593,
+      "num": 190871,
+      "word": "荣耀之战",
+      "onboard_time": 1769063000,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 153981,
@@ -755,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139007,
+      "num": 197800,
+      "word": "长生王昭君FMVP皮肤",
+      "onboard_time": 1769062580,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 137609,
       "num": 201775,
       "word": "冰咖啡和热咖啡差别居然这么大",
@@ -769,6 +865,14 @@
       "onboard_time": 1769054899,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135335,
+      "num": 177139,
+      "word": "那英龚俊张雅琪合体梦回花少",
+      "onboard_time": 1769063600,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 134945,
@@ -817,14 +921,6 @@
       "onboard_time": 1769040439,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 127132,
-      "num": 251136,
-      "word": "洗衣机里像紫菜的东西是什么",
-      "onboard_time": 1769059521,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 125334,
@@ -891,14 +987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117692,
-      "num": 211293,
-      "word": "作不雅手势女子被撞倒为何无人同情",
-      "onboard_time": 1769060841,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 117388,
       "num": 185802,
       "word": "情侣看中三金未入手现在5万变7万",
@@ -929,6 +1017,14 @@
       "onboard_time": 1769059521,
       "rank": 17,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 108047,
+      "num": 195531,
+      "word": "虎杖悠仁回归",
+      "onboard_time": 1769061980,
+      "rank": 18,
+      "category": "动漫"
     },
     {
       "raw_hot": 106827,
@@ -1019,6 +1115,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 99895,
+      "num": 194897,
+      "word": "最不能接受苹果手机的缺点",
+      "onboard_time": 1769058921,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 99693,
       "num": 99693,
       "word": "永辉超市回应5年亏损超百亿",
@@ -1067,28 +1171,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96928,
-      "num": 95127,
-      "word": "棣爸透露棣妈油炸经营情况",
-      "onboard_time": 1769061141,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 95768,
-      "num": 95768,
-      "word": "向佐我现在多烂多臭你知道吗",
-      "onboard_time": 1769061200,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 95556,
       "num": 95556,
       "word": "确认被爱后面相全都变了",
       "onboard_time": 1769056642,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 94071,
+      "num": 176780,
+      "word": "耳聋小猫因为很乖被导演选中",
+      "onboard_time": 1769063060,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 93674,
@@ -1108,7 +1204,7 @@
     },
     {
       "raw_hot": 92690,
-      "num": 119138,
+      "num": 191317,
       "word": "大连一海面密密麻麻全是冻住的鱼",
       "onboard_time": 1769059402,
       "rank": 39,
@@ -1147,6 +1243,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 89688,
+      "num": 176452,
+      "word": "程序员猝死涉事公司当被调查",
+      "onboard_time": 1769063541,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88516,
+      "num": 192973,
+      "word": "男子刚卖500克金条又买了200克",
+      "onboard_time": 1769063479,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87880,
       "num": 87880,
       "word": "杜海涛面相没变",
@@ -1177,6 +1289,14 @@
       "onboard_time": 1769042662,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82115,
+      "num": 177058,
+      "word": "宫外孕切子宫离婚却被索要彩礼",
+      "onboard_time": 1769063960,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81105,
@@ -1217,6 +1337,14 @@
       "onboard_time": 1769037617,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77668,
+      "num": 177250,
+      "word": "U23国足多人或入选国足",
+      "onboard_time": 1769063240,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 76630,
@@ -1347,6 +1475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 60933,
+      "num": 176202,
+      "word": "北京又又又要下雪了",
+      "onboard_time": 1769063780,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59992,
       "num": 92858,
       "word": "你是刘宪华那他是谁",
@@ -1385,6 +1521,14 @@
       "onboard_time": 1769038758,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 52310,
+      "num": 176136,
+      "word": "澳网2026",
+      "onboard_time": 1769062760,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 50583,
@@ -1841,6 +1985,14 @@
       "onboard_time": 1768995981,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15532,
+      "num": 177571,
+      "word": "世卫官员回应美国退群",
+      "onboard_time": 1769064259,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14958,
