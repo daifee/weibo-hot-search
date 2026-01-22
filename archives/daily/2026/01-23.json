@@ -1,6 +1,6 @@
 {
   "startTime": 1769100257042,
-  "endTime": 1769101303987,
+  "endTime": 1769103443991,
   "band_list": [
     {
       "raw_hot": 512156,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121576,
+      "num": 121576,
+      "word": "女子用开水浇他人车玻璃测试会否炸裂",
+      "onboard_time": 1769101277,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104026,
       "num": 188585,
       "word": "六大行集体发布公告",
@@ -155,20 +163,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89461,
+      "num": 168336,
+      "word": "香港偶遇戚薇一家坐摩天轮",
+      "onboard_time": 1769097680,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83272,
       "num": 168363,
       "word": "猝死程序员日记写努力努力再努力",
       "onboard_time": 1769087180,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79901,
-      "num": 168336,
-      "word": "香港偶遇戚薇一家坐摩天轮",
-      "onboard_time": 1769097680,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 78232,
@@ -185,6 +193,14 @@
       "onboard_time": 1769083640,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74576,
+      "num": 167932,
+      "word": "阿爆掉粉近5万",
+      "onboard_time": 1769099478,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 71953,
@@ -233,14 +249,6 @@
       "onboard_time": 1769089041,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62071,
-      "num": 167932,
-      "word": "阿爆掉粉近5万",
-      "onboard_time": 1769099478,
-      "rank": 36,
-      "category": "网红"
     },
     {
       "raw_hot": 57721,
@@ -355,6 +363,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 42212,
+      "num": 62200,
+      "word": "代旭20天拍出裴轸",
+      "onboard_time": 1769101936,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 41956,
       "num": 167550,
       "word": "教师撞树枝身亡家属称未收到赔偿",
@@ -387,6 +403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 34663,
+      "num": 62291,
+      "word": "一个人开始常发朋友圈意味着什么",
+      "onboard_time": 1769102957,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 33635,
       "num": 79721,
       "word": "侯明昊来安慰小朋友了",
@@ -395,12 +419,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33487,
+      "num": 62032,
+      "word": "黄子弘凡演唱会",
+      "onboard_time": 1769102775,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 32804,
       "num": 167452,
       "word": "高盛上调黄金目标价至5400美元",
       "onboard_time": 1769097321,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 26054,
+      "num": 61627,
+      "word": "重返狼群",
+      "onboard_time": 1769088262,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 22227,

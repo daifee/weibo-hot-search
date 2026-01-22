@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/18 00:32:47 ~ 2026/01/23 01:01:43
+本榜单时间：2026/01/18 00:32:47 ~ 2026/01/23 01:37:23
 </p>
 </blockquote>
 <p>
@@ -6411,6 +6411,12 @@ U23国足vs越南首发（热度：121771）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%A8%E5%BC%80%E6%B0%B4%E6%B5%87%E4%BB%96%E4%BA%BA%E8%BD%A6%E7%8E%BB%E7%92%83%E6%B5%8B%E8%AF%95%E4%BC%9A%E5%90%A6%E7%82%B8%E8%A3%82%23" target="weibo">
+女子用开水浇他人车玻璃测试会否炸裂（热度：121576）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E7%9C%9F%E7%9A%84%E6%98%AF%E4%B8%AA%E5%BE%88%E6%B8%A9%E5%92%8C%E7%9A%84%E4%BA%BA%23" target="weibo">
 成毅真的是个很温和的人（热度：121508）
 </a>
@@ -9243,6 +9249,12 @@ Ning生病住院瘦了14斤（热度：90407）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%81%B6%E9%81%87%E6%88%9A%E8%96%87%E4%B8%80%E5%AE%B6%E5%9D%90%E6%91%A9%E5%A4%A9%E8%BD%AE%23" target="weibo">
+香港偶遇戚薇一家坐摩天轮（热度：89461）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%90%8C%E4%BA%8B%E7%9B%B4%E6%8E%A5%E6%8A%8A%E7%94%9C%E9%A3%9F%E6%94%BE%E6%A1%8C%E5%AD%90%E4%B8%8A%23" target="weibo">
 美国同事直接把甜食放桌子上（热度：89393）
 </a>
@@ -10311,12 +10323,6 @@ iPhone18Pro配置（热度：80348）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%81%B6%E9%81%87%E6%88%9A%E8%96%87%E4%B8%80%E5%AE%B6%E5%9D%90%E6%91%A9%E5%A4%A9%E8%BD%AE%23" target="weibo">
-香港偶遇戚薇一家坐摩天轮（热度：79901）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E8%9B%8B%E7%B3%8D%E7%B2%91%23" target="weibo">
 鸡蛋糍粑（热度：79760）
 </a>
@@ -10799,6 +10805,12 @@ DFYG出征M7纪录片（热度：76861）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E8%89%B2%E5%9C%A8%E8%BF%87%E5%B9%B4%E8%BF%99%E5%9D%97%E6%B2%A1%E6%9C%89%E5%AF%B9%E6%89%8B%23" target="weibo">
 红色在过年这块没有对手（热度：74614）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%88%86%E6%8E%89%E7%B2%89%E8%BF%915%E4%B8%87%23" target="weibo">
+阿爆掉粉近5万（热度：74576）
 </a>
 </li>
 
@@ -11459,12 +11471,6 @@ U23国足主帅呼吁重视比赛安排（热度：62479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E7%AB%A5%E5%8C%BB%E9%99%A2%E6%8C%82%E6%BB%A1%E7%8E%A9%E5%81%B6%E7%9A%84%E4%BF%9D%E5%AE%89%E8%B5%B0%E7%BA%A2%E5%90%8E%E7%8E%B0%E7%8A%B6%23" target="weibo">
 儿童医院挂满玩偶的保安走红后现状（热度：62342）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%88%86%E6%8E%89%E7%B2%89%E8%BF%915%E4%B8%87%23" target="weibo">
-阿爆掉粉近5万（热度：62071）
 </a>
 </li>
 
@@ -12207,6 +12213,12 @@ U23国足成本届唯一0丢球球队（热度：43448）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E6%97%AD20%E5%A4%A9%E6%8B%8D%E5%87%BA%E8%A3%B4%E8%BD%B8%23" target="weibo">
+代旭20天拍出裴轸（热度：42212）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E6%92%9E%E6%A0%91%E6%9E%9D%E8%BA%AB%E4%BA%A1%E5%AE%B6%E5%B1%9E%E7%A7%B0%E6%9C%AA%E6%94%B6%E5%88%B0%E8%B5%94%E5%81%BF%23" target="weibo">
 教师撞树枝身亡家属称未收到赔偿（热度：41956）
 </a>
@@ -12453,6 +12465,12 @@ Rookie燃成鸡架（热度：36070）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%B8%B8%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%23" target="weibo">
+一个人开始常发朋友圈意味着什么（热度：34663）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%9E%9C%E7%BB%BC%E8%89%BA%E4%B8%8A%E8%BF%99%E5%BC%A0%E5%98%B4%E5%80%9F%E6%88%91%E5%B9%B4%E7%BB%88%E8%BF%B0%E8%81%8C%E7%94%A8%23" target="weibo">
 芒果综艺上这张嘴借我年终述职用（热度：34605）
 </a>
@@ -12497,6 +12515,12 @@ Tabe终结JDG面对AL三连败（热度：34502）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AB%A3%E7%84%B6%E5%8C%BB%E9%99%A2%E6%8A%A4%E7%90%86%E5%B8%88%E5%8F%91%E5%A3%B0%23" target="weibo">
 嫣然医院护理师发声（热度：33589）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+黄子弘凡演唱会（热度：33487）
 </a>
 </li>
 
