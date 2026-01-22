@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769114273638,
+  "endTime": 1769115060744,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -17531,6 +17531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19557,
+      "num": 26517,
+      "word": "美国人在线求助",
+      "onboard_time": 1769109495,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 19542,
       "num": 83786,
       "word": "男子在未开发区域骑马被水冲走溺亡",
@@ -17617,14 +17625,6 @@
       "onboard_time": 1768745663,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18426,
-      "num": 26517,
-      "word": "美国人在线求助",
-      "onboard_time": 1769109495,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 18126,
