@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769079309136,
+  "endTime": 1769081479774,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -2001,6 +2001,14 @@
       "onboard_time": 1768699519,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 851521,
+      "num": 500227,
+      "word": "肯德基崩了",
+      "onboard_time": 1769079320,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 850511,
@@ -5404,7 +5412,7 @@
     },
     {
       "raw_hot": 526505,
-      "num": 188399,
+      "num": 218455,
       "word": "车银优被韩网友喊话退圈",
       "onboard_time": 1769076440,
       "rank": 26,
@@ -6020,7 +6028,7 @@
     },
     {
       "raw_hot": 503274,
-      "num": 187971,
+      "num": 220058,
       "word": "牢A的故事一个一个被证实",
       "onboard_time": 1769074222,
       "rank": 31,
@@ -6785,6 +6793,14 @@
       "onboard_time": 1767588023,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 467752,
+      "num": 788923,
+      "word": "内娱终于有人拍出这段沉痛的往事了",
+      "onboard_time": 1769076140,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 467200,
@@ -8379,14 +8395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 411111,
-      "num": 788923,
-      "word": "内娱终于有人拍出这段沉痛的往事了",
-      "onboard_time": 1769076140,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 411025,
       "num": 921389,
       "word": "上万元加拿大鹅三亚仅6900元",
@@ -9465,6 +9473,14 @@
       "onboard_time": 1768869260,
       "rank": 12,
       "category": "数码"
+    },
+    {
+      "raw_hot": 376407,
+      "num": 240138,
+      "word": "MCD舞台塌了",
+      "onboard_time": 1769079021,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 376299,
@@ -10732,7 +10748,7 @@
     },
     {
       "raw_hot": 344778,
-      "num": 187255,
+      "num": 200463,
       "word": "宋威龙珍珠造型",
       "onboard_time": 1769077041,
       "rank": 32,
@@ -10876,7 +10892,7 @@
     },
     {
       "raw_hot": 341480,
-      "num": 186811,
+      "num": 213187,
       "word": "小龙女让王一博演早HE了",
       "onboard_time": 1769075600,
       "rank": 38,
@@ -12708,7 +12724,7 @@
     },
     {
       "raw_hot": 301124,
-      "num": 179726,
+      "num": 184490,
       "word": "杨幂马龙徐若晗同框",
       "onboard_time": 1769077460,
       "rank": 33,
@@ -12825,6 +12841,14 @@
       "onboard_time": 1768969221,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297960,
+      "num": 286163,
+      "word": "甲亢哥才21岁",
+      "onboard_time": 1769079501,
+      "rank": 5,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 297908,
@@ -13041,6 +13065,14 @@
       "onboard_time": 1767614000,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 294553,
+      "num": 294553,
+      "word": "中国女留学生虚假指控强奸获刑6年",
+      "onboard_time": 1769078900,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 294480,
@@ -13923,6 +13955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277060,
+      "num": 239795,
+      "word": "特朗普说普京同意了普京说还没",
+      "onboard_time": 1769076739,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 277032,
       "num": 252336,
       "word": "生长痛真的很痛",
@@ -14169,6 +14209,14 @@
       "onboard_time": 1768691418,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 274320,
+      "num": 239090,
+      "word": "iPhoneFold售价曝光",
+      "onboard_time": 1769078480,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 273990,
@@ -17443,6 +17491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223805,
+      "num": 185654,
+      "word": "小伙致女友怀孕称年龄不适合结婚",
+      "onboard_time": 1769080699,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 223783,
       "num": 223783,
       "word": "月薪一万的试吃员",
@@ -18793,6 +18849,14 @@
       "onboard_time": 1768627280,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 209549,
+      "num": 209549,
+      "word": "卡拉胶 胰岛素抵抗",
+      "onboard_time": 1769078539,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 209479,
@@ -24161,6 +24225,14 @@
       "onboard_time": 1767761123,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172462,
+      "num": 172462,
+      "word": "网红周媛主账号被封",
+      "onboard_time": 1769078420,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 172419,
@@ -30987,6 +31059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139236,
+      "num": 243179,
+      "word": "载有中国游客的旅游大巴在俄发生事故",
+      "onboard_time": 1769079501,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 139213,
       "num": 139213,
       "word": "湖南卫视连发10条侯明昊",
@@ -31347,14 +31427,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 137327,
-      "num": 137327,
-      "word": "网红周媛主账号被封",
-      "onboard_time": 1769078420,
-      "rank": 42,
-      "category": "网红"
-    },
-    {
       "raw_hot": 137280,
       "num": 137280,
       "word": "王者荣耀红温头像框",
@@ -31401,14 +31473,6 @@
       "onboard_time": 1768387161,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137184,
-      "num": 192664,
-      "word": "特朗普说普京同意了普京说还没",
-      "onboard_time": 1769076739,
-      "rank": 11,
-      "category": "国际时政"
     },
     {
       "raw_hot": 137159,
@@ -32819,14 +32883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132190,
-      "num": 158382,
-      "word": "卡拉胶 胰岛素抵抗",
-      "onboard_time": 1769078539,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 132050,
       "num": 157157,
       "word": "刘宇宁你们再喊我飞走了",
@@ -33209,6 +33265,14 @@
       "onboard_time": 1768044382,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130626,
+      "num": 241189,
+      "word": "京东推出黄金手机壳11299元起售",
+      "onboard_time": 1769079320,
+      "rank": 10,
+      "category": "数码"
     },
     {
       "raw_hot": 130562,
@@ -33699,14 +33763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129001,
-      "num": 191422,
-      "word": "MCD舞台塌了",
-      "onboard_time": 1769079021,
-      "rank": 13,
-      "category": "演出"
-    },
-    {
       "raw_hot": 128999,
       "num": 116944,
       "word": "百大UP主费加罗大片",
@@ -33832,6 +33888,14 @@
       "word": "苏新皓cha了偶像万万岁",
       "onboard_time": 1768203320,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 128519,
+      "num": 128519,
+      "word": "赵樱子演完女一号后就买辆跑车",
+      "onboard_time": 1769080160,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -36057,14 +36121,6 @@
       "onboard_time": 1768048701,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121838,
-      "num": 190309,
-      "word": "iPhoneFold售价曝光",
-      "onboard_time": 1769078480,
-      "rank": 16,
-      "category": "数码"
     },
     {
       "raw_hot": 121828,
@@ -40136,6 +40192,14 @@
       "word": "8人组团徒步2女子体力不支被弃荒山",
       "onboard_time": 1768273340,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111072,
+      "num": 241843,
+      "word": "母亲在柬埔寨寻子儿子在园区诈骗",
+      "onboard_time": 1769079441,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -46035,6 +46099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98586,
+      "num": 95283,
+      "word": "刘昊然 内娱好抱系男主具象化",
+      "onboard_time": 1769081061,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98550,
       "num": 98550,
       "word": "男子回应再婚被双胞胎儿子送上婚车",
@@ -47105,6 +47177,14 @@
       "onboard_time": 1768462042,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96839,
+      "num": 96839,
+      "word": "提问牢A",
+      "onboard_time": 1769081301,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96825,
@@ -49915,6 +49995,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 91841,
+      "num": 91841,
+      "word": "小米集团宣布自动股份回购计划",
+      "onboard_time": 1769080821,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 91835,
       "num": 91835,
       "word": "成都地铁回应1人1座设计",
@@ -52035,14 +52123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 88062,
-      "num": 181377,
-      "word": "中国女留学生虚假指控强奸获刑6年",
-      "onboard_time": 1769078900,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 88052,
       "num": 88052,
       "word": "A股超过百股涨停",
@@ -53353,6 +53433,14 @@
       "onboard_time": 1767747382,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 86163,
+      "num": 223131,
+      "word": "黄子弘凡演唱会开到鸟巢了",
+      "onboard_time": 1769080941,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 86147,
@@ -69713,6 +69801,14 @@
       "onboard_time": 1768017621,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 28481,
+      "num": 238400,
+      "word": "心理委员不用来了我有喵娲娲了",
+      "onboard_time": 1769079681,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 28477,

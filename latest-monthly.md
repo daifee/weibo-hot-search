@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/22 18:55:09
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/22 19:31:19
 </p>
 </blockquote>
 <p>
@@ -1511,6 +1511,12 @@ DYG战胜狼队（热度：867183）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E6%B2%A1%E5%8F%82%E5%8A%A0%E6%98%A5%E6%99%9A%E8%81%94%E6%8E%92%23" target="weibo">
 王安宇没参加春晚联排（热度：852117）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%B4%A9%E4%BA%86%23" target="weibo">
+肯德基崩了（热度：851521）
 </a>
 </li>
 
@@ -5103,6 +5109,12 @@ iPhone千万别删的自带软件（热度：474519）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E6%8B%8D%E5%87%BA%E8%BF%99%E6%AE%B5%E6%B2%89%E7%97%9B%E7%9A%84%E5%BE%80%E4%BA%8B%E4%BA%86%23" target="weibo">
+内娱终于有人拍出这段沉痛的往事了（热度：467752）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%92%8C%E6%AC%A2%E7%91%9E%E5%90%88%E5%90%8C%E5%88%B0%E6%9C%9F%23" target="weibo">
 成毅和欢瑞合同到期（热度：467200）
 </a>
@@ -5999,18 +6011,6 @@ sakee文言文（热度：438215）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%A2%91%E7%B9%81%E5%BE%80%E4%B8%8B%E6%B0%B4%E9%81%93%E5%86%B2%E7%8C%AB%E7%A0%82%E5%88%A4%E8%B5%9410%E4%B8%87%23" target="weibo">
 女子频繁往下水道冲猫砂判赔10万（热度：423306）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%AA%E5%BC%9F%E5%BC%9F%E5%89%B2%E5%8F%8C%E7%9C%BC%E7%9A%AE%E7%BB%93%E6%9E%9C%E8%87%AA%E5%B7%B1%E5%85%88%E5%89%B2%E4%B8%8A%E4%BA%86%23" target="weibo">
-陪弟弟割双眼皮结果自己先割上了（热度：423293）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A8%81%E9%BE%99%E8%B5%B5%E4%BB%8A%E9%BA%A6%E7%8E%8B%E5%AD%90%E5%85%AC%E4%B8%BB%23" target="weibo">
-宋威龙赵今麦王子公主（热度：423183）
 </a>
 </li>
 

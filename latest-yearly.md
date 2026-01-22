@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/22 18:55:09
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/22 19:31:19
 </p>
 </blockquote>
 <p>
@@ -1515,6 +1515,12 @@ DYG战胜狼队（热度：867183）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%B4%A9%E4%BA%86%23" target="weibo">
+肯德基崩了（热度：851521）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%88%86%E7%A7%81%E5%AF%86%E8%B4%A6%E5%8F%B7%23" target="weibo">
 阿爆私密账号（热度：850511）
 </a>
@@ -1805,12 +1811,6 @@ iPhone18Pro新爆料（热度：826962）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E7%A5%B8%E8%82%87%E4%BA%8B%E8%80%85%E5%AE%B6%E5%BA%AD%E6%9D%A1%E4%BB%B6%E7%9B%B8%E5%BD%93%E5%A5%BD%23" target="weibo">
 车祸肇事者家庭条件相当好（热度：794730）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%9F%AC%E5%9F%94%E5%AF%A8%E6%B5%81%E6%B5%AA%E5%A5%B3%E7%BD%91%E7%BA%A2%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23" target="weibo">
-在柬埔寨流浪女网红父亲发声（热度：794210）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1769081479774,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 255944,
+        "num": 1040951,
+        "word": "智利车厘子园大面积被烧恐涨价",
+        "onboard_time": 1769065821,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 193579,
+        "num": 780130,
+        "word": "尾号88888888马钞被领走",
+        "onboard_time": 1769065040,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27191,
+        "num": 586089,
+        "word": "一分钟读懂中国经济韧性",
+        "onboard_time": 1769071161,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 851521,
+        "num": 500227,
+        "word": "肯德基崩了",
+        "onboard_time": 1769079320,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294553,
+        "num": 294553,
+        "word": "中国女留学生虚假指控强奸获刑6年",
+        "onboard_time": 1769078900,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 297960,
+        "num": 286163,
+        "word": "甲亢哥才21岁",
+        "onboard_time": 1769079501,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 243881,
+        "num": 243881,
+        "word": "卖霉豆腐已经有人实操上了",
+        "onboard_time": 1769067021,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139236,
+        "num": 243179,
+        "word": "载有中国游客的旅游大巴在俄发生事故",
+        "onboard_time": 1769079501,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138055,
+        "num": 242874,
+        "word": "终末地",
+        "onboard_time": 1769066901,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111072,
+        "num": 241843,
+        "word": "母亲在柬埔寨寻子儿子在园区诈骗",
+        "onboard_time": 1769079441,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130626,
+        "num": 241189,
+        "word": "京东推出黄金手机壳11299元起售",
+        "onboard_time": 1769079320,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 376407,
+        "num": 240138,
+        "word": "MCD舞台塌了",
+        "onboard_time": 1769079021,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 277060,
+        "num": 239795,
+        "word": "特朗普说普京同意了普京说还没",
+        "onboard_time": 1769076739,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 274320,
+        "num": 239090,
+        "word": "iPhoneFold售价曝光",
+        "onboard_time": 1769078480,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 28481,
+        "num": 238400,
+        "word": "心理委员不用来了我有喵娲娲了",
+        "onboard_time": 1769079681,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 467752,
+        "num": 237685,
+        "word": "内娱终于有人拍出这段沉痛的往事了",
+        "onboard_time": 1769076140,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382105,
+        "num": 236838,
+        "word": "发生猝死的征兆",
+        "onboard_time": 1769072301,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236385,
+        "num": 236385,
+        "word": "重庆有献血车进中学引关注",
+        "onboard_time": 1769072841,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227492,
+        "num": 227492,
+        "word": "突然的喜欢",
+        "onboard_time": 1769076500,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86163,
+        "num": 223131,
+        "word": "黄子弘凡演唱会开到鸟巢了",
+        "onboard_time": 1769080941,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 394110,
+        "num": 220058,
+        "word": "牢A的故事一个一个被证实",
+        "onboard_time": 1769074222,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 525388,
+        "num": 218455,
+        "word": "车银优被韩网友喊话退圈",
+        "onboard_time": 1769076440,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318088,
+        "num": 213187,
+        "word": "小龙女让王一博演早HE了",
+        "onboard_time": 1769075600,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209549,
+        "num": 209549,
+        "word": "卡拉胶 胰岛素抵抗",
+        "onboard_time": 1769078539,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 314550,
+        "num": 204917,
+        "word": "程序员猝死当天5次访问公司OA系统",
+        "onboard_time": 1769048840,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294077,
+        "num": 200463,
+        "word": "宋威龙珍珠造型",
+        "onboard_time": 1769077041,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 316073,
+        "num": 191898,
+        "word": "韩国国旗 车银优",
+        "onboard_time": 1769066660,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223805,
+        "num": 185654,
+        "word": "小伙致女友怀孕称年龄不适合结婚",
+        "onboard_time": 1769080699,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274640,
+        "num": 184490,
+        "word": "杨幂马龙徐若晗同框",
+        "onboard_time": 1769077460,
+        "rank": 28,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 66645,
+        "num": 172799,
+        "word": "伊朗近期骚乱超3000人死亡",
+        "onboard_time": 1769077640,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172462,
+        "num": 172462,
+        "word": "网红周媛主账号被封",
+        "onboard_time": 1769078420,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 154594,
+        "num": 154594,
+        "word": "不要穿一身白去滑雪",
+        "onboard_time": 1769071941,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 149426,
+        "num": 149426,
+        "word": "梓渝工作室发库存",
+        "onboard_time": 1769077941,
+        "rank": 32,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 164625,
+        "num": 146988,
+        "word": "杨幂穿Prada的女王",
+        "onboard_time": 1769073201,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 128167,
+        "num": 142502,
+        "word": "A股",
+        "onboard_time": 1769071702,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140270,
+        "num": 140270,
+        "word": "肖战的暖手宝叫郑大钳",
+        "onboard_time": 1769079260,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128519,
+        "num": 128519,
+        "word": "赵樱子演完女一号后就买辆跑车",
+        "onboard_time": 1769080160,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116921,
+        "num": 116921,
+        "word": "8万8性商课取悦了谁收割了谁",
+        "onboard_time": 1769076140,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107245,
+        "num": 107245,
+        "word": "何不同舟渡",
+        "onboard_time": 1769074699,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58102,
+        "num": 107023,
+        "word": "林诗栋因遮挡被罚2分",
+        "onboard_time": 1769074100,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107010,
+        "num": 107010,
+        "word": "恋综男嘉宾偷东西给女嘉宾吃",
+        "onboard_time": 1769068341,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100940,
+        "num": 100940,
+        "word": "高越 高超又破防了",
+        "onboard_time": 1769074401,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96839,
+        "num": 96839,
+        "word": "提问牢A",
+        "onboard_time": 1769081301,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98586,
+        "num": 95283,
+        "word": "刘昊然 内娱好抱系男主具象化",
+        "onboard_time": 1769081061,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93052,
+        "num": 93052,
+        "word": "棣妈想去陪王鹤棣养伤",
+        "onboard_time": 1769075240,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91841,
+        "num": 91841,
+        "word": "小米集团宣布自动股份回购计划",
+        "onboard_time": 1769080821,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 90220,
+        "num": 90220,
+        "word": "CL被移交至韩检方",
+        "onboard_time": 1769075721,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85511,
+        "num": 85511,
+        "word": "虞书欣云初令云初粉黛芙蓉",
+        "onboard_time": 1769075060,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85418,
+        "num": 85418,
+        "word": "宫外孕切子宫离婚却被索要彩礼",
+        "onboard_time": 1769063960,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47474,
+        "num": 84459,
+        "word": "孙颖莎思归妈妈的味道",
+        "onboard_time": 1769076739,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#自觉为人民出政绩以实干出政绩#"
+    }
+  }
+}
