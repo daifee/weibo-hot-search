@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/22 23:55:31
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/23 00:44:17
 </p>
 </blockquote>
 <p>
@@ -4383,6 +4383,12 @@ TVB颁奖典礼（热度：518643）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E4%B8%80%E6%AC%A1%E6%80%A7%E6%8B%94%E7%89%9912%E9%A2%97%E5%90%8E%E5%BF%83%E6%A2%97%E4%BC%91%E5%85%8B%23" target="weibo">
+女子被一次性拔牙12颗后心梗休克（热度：512156）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E8%BF%87%E5%BE%88%E8%B4%B5%E4%BD%86%E4%B8%8D%E5%90%8E%E6%82%94%E7%9A%84%E4%B8%9C%E8%A5%BF%23" target="weibo">
 买过很贵但不后悔的东西（热度：511745）
 </a>
@@ -6005,12 +6011,6 @@ sakee文言文（热度：438215）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%A4%90%E5%8E%85%E5%87%A0%E4%B9%8E%E5%8F%AA%E6%9C%8D%E5%8A%A1%E8%B4%AA%E5%AE%98%23" target="weibo">
 一餐厅几乎只服务贪官（热度：428542）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E5%AE%98%E5%AE%A3%23" target="weibo">
-电影偷偷藏不住官宣（热度：428471）
 </a>
 </li>
 
