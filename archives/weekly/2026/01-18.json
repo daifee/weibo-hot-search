@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769088509212,
+  "endTime": 1769090569033,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -329,6 +329,14 @@
       "onboard_time": 1769052740,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1008470,
+      "num": 578469,
+      "word": "重返狼群 拖欠稿费",
+      "onboard_time": 1769087001,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 1007672,
@@ -955,6 +963,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 638832,
+      "num": 1050769,
+      "word": "突然的喜欢",
+      "onboard_time": 1768806261,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 637846,
       "num": 637846,
       "word": "光遇",
@@ -1147,14 +1163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 588348,
-      "num": 1050769,
-      "word": "突然的喜欢",
-      "onboard_time": 1768806261,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 586519,
       "num": 831598,
       "word": "永辉超市胖改第二年预亏21亿",
@@ -1243,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 562193,
+      "num": 162906,
+      "word": "疑似谢霆锋配料表曝光",
+      "onboard_time": 1769084122,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 561269,
       "num": 561269,
       "word": "男子右脑出血被医生错开左脑",
@@ -1321,14 +1337,6 @@
       "onboard_time": 1768990341,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 544642,
-      "num": 157934,
-      "word": "疑似谢霆锋配料表曝光",
-      "onboard_time": 1769084122,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 540756,
@@ -1555,20 +1563,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 497084,
-      "num": 497084,
-      "word": "重返狼群 拖欠稿费",
-      "onboard_time": 1769087001,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 491253,
       "num": 388184,
       "word": "向涵之瘦下来好像钟楚曦",
       "onboard_time": 1768912521,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 489569,
+      "num": 1078331,
+      "word": "清华大学拟退学2名博士",
+      "onboard_time": 1769089161,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 489018,
@@ -1793,6 +1801,14 @@
       "onboard_time": 1768914741,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 454812,
+      "num": 182343,
+      "word": "黄景瑜 太空旅游",
+      "onboard_time": 1769088742,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 450914,
@@ -2377,6 +2393,14 @@
       "onboard_time": 1768968921,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 372606,
+      "num": 166007,
+      "word": "猝死程序员日记写努力努力再努力",
+      "onboard_time": 1769087180,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 372499,
@@ -3113,6 +3137,14 @@
       "onboard_time": 1768969221,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 298050,
+      "num": 180235,
+      "word": "李行亮谈因网友抵制接不到工作",
+      "onboard_time": 1769089462,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 297960,
@@ -4251,6 +4283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221635,
+      "num": 221635,
+      "word": "地球出现6小时特大地磁暴",
+      "onboard_time": 1769089041,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221213,
       "num": 214778,
       "word": "成毅手握多部待播剧",
@@ -5331,6 +5371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 186160,
+      "num": 186160,
+      "word": "王玉雯演技",
+      "onboard_time": 1769089221,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185506,
       "num": 170455,
       "word": "陈星旭演技",
@@ -5857,6 +5905,14 @@
       "onboard_time": 1768991601,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169031,
+      "num": 169031,
+      "word": "TF荣耀之战双人舞台分组",
+      "onboard_time": 1769089161,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 168889,
@@ -6417,6 +6473,14 @@
       "onboard_time": 1769068878,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155853,
+      "num": 155853,
+      "word": "奥斯卡提名",
+      "onboard_time": 1769090422,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 155341,
@@ -7363,14 +7427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137705,
-      "num": 156176,
-      "word": "猝死程序员日记写努力努力再努力",
-      "onboard_time": 1769087180,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137609,
       "num": 201775,
       "word": "冰咖啡和热咖啡差别居然这么大",
@@ -7971,6 +8027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126299,
+      "num": 118059,
+      "word": "网红周媛实名主账号被封",
+      "onboard_time": 1769090001,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 126194,
       "num": 117839,
       "word": "刘耀文少年将军裴行俨",
@@ -8561,6 +8625,14 @@
       "onboard_time": 1768933095,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118885,
+      "num": 120835,
+      "word": "58岁农民工一天200元养大8个娃",
+      "onboard_time": 1769088381,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118876,
@@ -9633,6 +9705,14 @@
       "onboard_time": 1768731023,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107227,
+      "num": 167540,
+      "word": "被前夫杀害女子只吃2元钱的饭",
+      "onboard_time": 1769085080,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107206,
@@ -10803,6 +10883,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 98281,
+      "num": 98281,
+      "word": "突然的喜欢 大头特效",
+      "onboard_time": 1769087723,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98165,
       "num": 98124,
       "word": "小洛熙医疗纠纷案明日开庭",
@@ -11129,6 +11217,14 @@
       "onboard_time": 1768917860,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95681,
+      "num": 95681,
+      "word": "突然的喜欢 编剧吃菌子",
+      "onboard_time": 1769089941,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 95582,
@@ -11707,6 +11803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92152,
+      "num": 157818,
+      "word": "六大行集体发布公告",
+      "onboard_time": 1769085501,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 92140,
       "num": 92140,
       "word": "你是邵子恒那他是谁",
@@ -12151,14 +12255,6 @@
       "num": 88663,
       "word": "北京下雪",
       "onboard_time": 1768812681,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88648,
-      "num": 116356,
-      "word": "被前夫杀害女子只吃2元钱的饭",
-      "onboard_time": 1769085080,
       "rank": 40,
       "category": "民生新闻"
     },
@@ -12913,14 +13009,6 @@
       "onboard_time": 1769000422,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84400,
-      "num": 145847,
-      "word": "六大行集体发布公告",
-      "onboard_time": 1769085501,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 84337,
@@ -14499,6 +14587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68721,
+      "num": 115032,
+      "word": "小城大事备案时疑似是大男主",
+      "onboard_time": 1769090422,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 68701,
       "num": 122849,
       "word": "今年冬天韩剧又发力了",
@@ -15011,6 +15107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60732,
+      "num": 117027,
+      "word": "李昊调侃安东尼奥说两句",
+      "onboard_time": 1769090361,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60495,
       "num": 45799,
       "word": "陈光标称可在两日转账资助嫣然医院",
@@ -15027,12 +15131,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 60407,
+      "num": 113193,
+      "word": "决胜巅峰海底餐厅上线",
+      "onboard_time": 1769089280,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 60377,
       "num": 215385,
       "word": "警方通报2人造谣2雄性大熊猫交配",
       "onboard_time": 1768750881,
       "rank": 43,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 60320,
+      "num": 118695,
+      "word": "福耀科大校长回应大一学生被企业抢光",
+      "onboard_time": 1769086341,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60033,
@@ -15137,6 +15257,14 @@
       "onboard_time": 1768821020,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57952,
+      "num": 119881,
+      "word": "中方回应特朗普达沃斯言论",
+      "onboard_time": 1769086522,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 57289,
@@ -15460,7 +15588,7 @@
     },
     {
       "raw_hot": 49878,
-      "num": 206292,
+      "num": 643923,
       "word": "预制菜这几个关键问题需进一步厘清",
       "onboard_time": 1769088021,
       "rank": 10,
@@ -15763,14 +15891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 43548,
-      "num": 120835,
-      "word": "58岁农民工一天200元养大8个娃",
-      "onboard_time": 1769088381,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43448,
       "num": 91074,
       "word": "U23国足成本届唯一0丢球球队",
@@ -15785,14 +15905,6 @@
       "onboard_time": 1768799002,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 43161,
-      "num": 118695,
-      "word": "福耀科大校长回应大一学生被企业抢光",
-      "onboard_time": 1769086341,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 43073,
@@ -16547,6 +16659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26775,
+      "num": 115603,
+      "word": "何不同舟渡完整版主演阵容",
+      "onboard_time": 1769090482,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26660,
       "num": 208416,
       "word": "LV26秋冬未来绅士大秀",
@@ -16649,14 +16769,6 @@
       "onboard_time": 1768843395,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 24524,
-      "num": 119881,
-      "word": "中方回应特朗普达沃斯言论",
-      "onboard_time": 1769086522,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 24497,
