@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769065265926,
+  "endTime": 1769067362105,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -2291,6 +2291,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 812450,
+      "num": 214151,
+      "word": "韩国国旗 车银优",
+      "onboard_time": 1769066660,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 811408,
       "num": 300237,
       "word": "日本梅毒",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767512302,
       "rank": 34,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 794156,
-      "num": 1127065,
-      "word": "安徽下霰了",
-      "onboard_time": 1768792580,
-      "rank": 0,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

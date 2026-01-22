@@ -1,6 +1,6 @@
 {
   "startTime": 1769015008764,
-  "endTime": 1769065265926,
+  "endTime": 1769067362105,
   "band_list": [
     {
       "raw_hot": 1924560,
@@ -99,6 +99,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 812450,
+      "num": 214151,
+      "word": "韩国国旗 车银优",
+      "onboard_time": 1769066660,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 707116,
       "num": 287254,
       "word": "女子在丈夫瘫痪期间出轨并怀孕",
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 700782,
-      "num": 198070,
+      "num": 213760,
       "word": "棣爸透露棣妈油炸经营情况",
       "onboard_time": 1769061141,
       "rank": 48,
@@ -153,6 +161,14 @@
       "onboard_time": 1769038097,
       "rank": 30,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 564003,
+      "num": 212820,
+      "word": "宫外孕切子宫离婚却被索要彩礼",
+      "onboard_time": 1769063960,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 560549,
@@ -347,6 +363,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 281676,
+      "num": 281676,
+      "word": "小城大事 王星",
+      "onboard_time": 1769063419,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 279311,
       "num": 164680,
       "word": "惊蛰无声打响全民反间谍",
@@ -387,6 +411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 266706,
+      "num": 266706,
+      "word": "泡泡玛特 电子木鱼",
+      "onboard_time": 1769061620,
+      "rank": 7,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 262784,
       "num": 217492,
       "word": "黄子弘凡鸟巢演唱会定档",
@@ -403,14 +435,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 260406,
-      "num": 260406,
-      "word": "小城大事 王星",
-      "onboard_time": 1769063419,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 252960,
       "num": 209068,
       "word": "王源实体专辑",
@@ -419,20 +443,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 238456,
+      "num": 784232,
+      "word": "尾号88888888马钞被领走",
+      "onboard_time": 1769065040,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237212,
       "num": 237212,
       "word": "妈妈患癌去世5个月后爸爸确诊癌症",
       "onboard_time": 1769055381,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 235486,
-      "num": 235486,
-      "word": "泡泡玛特 电子木鱼",
-      "onboard_time": 1769061620,
-      "rank": 7,
-      "category": "休闲"
     },
     {
       "raw_hot": 235249,
@@ -448,14 +472,6 @@
       "word": "交警回应女子作不雅手势被后车撞击",
       "onboard_time": 1769004202,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 231745,
-      "num": 185497,
-      "word": "宫外孕切子宫离婚却被索要彩礼",
-      "onboard_time": 1769063960,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -515,12 +531,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 212242,
+      "num": 212242,
+      "word": "智利车厘子园大面积被烧恐涨价",
+      "onboard_time": 1769065821,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 210694,
       "num": 210694,
       "word": "传下去时代峰峻乐华娱乐联姻了",
       "onboard_time": 1769060721,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210402,
+      "num": 267757,
+      "word": "12306购票页面有小暗号",
+      "onboard_time": 1769054841,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210391,
@@ -619,14 +651,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 192730,
-      "num": 203788,
-      "word": "12306购票页面有小暗号",
-      "onboard_time": 1769054841,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 192536,
       "num": 192536,
       "word": "女子直到剧烈宫缩才知怀胎十月",
@@ -659,6 +683,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186791,
+      "num": 186791,
+      "word": "杨紫粉丝在剧宣这块一骑绝尘了",
+      "onboard_time": 1769066239,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 186419,
+      "num": 181260,
+      "word": "向佐说给王一博说过了",
+      "onboard_time": 1769064860,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 181627,
+      "num": 181627,
+      "word": "终末地",
+      "onboard_time": 1769066901,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 180398,
       "num": 180398,
       "word": "雷佳音用了刘耀文的图",
@@ -689,14 +737,6 @@
       "onboard_time": 1769053941,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 174349,
-      "num": 147111,
-      "word": "向佐说给王一博说过了",
-      "onboard_time": 1769064860,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 173549,
@@ -745,6 +785,22 @@
       "onboard_time": 1769049019,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164968,
+      "num": 164968,
+      "word": "棍铲 野心",
+      "onboard_time": 1769065520,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 164182,
+      "num": 128663,
+      "word": "188斤女生怒减70斤爆改成功",
+      "onboard_time": 1769066180,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 160800,
@@ -867,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140521,
+      "num": 140521,
+      "word": "邓紫棋大巨蛋演唱会正式官宣",
+      "onboard_time": 1769066361,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 139007,
       "num": 197800,
       "word": "长生王昭君FMVP皮肤",
@@ -947,6 +1011,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 125546,
+      "num": 192973,
+      "word": "男子刚卖500克金条又买了200克",
+      "onboard_time": 1769063479,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125334,
       "num": 125334,
       "word": "金价波动",
@@ -961,6 +1033,14 @@
       "onboard_time": 1769044640,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 124049,
+      "num": 124049,
+      "word": "给打车人的一点点建议",
+      "onboard_time": 1769067140,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 122853,
@@ -995,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120993,
+      "num": 120993,
+      "word": "卖霉豆腐已经有人实操上了",
+      "onboard_time": 1769067021,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 119912,
       "num": 212768,
       "word": "安徽大学可乐只卖1块7被写进小说",
@@ -1017,6 +1105,14 @@
       "onboard_time": 1769055140,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115351,
+      "num": 115351,
+      "word": "周震南 婴儿塑",
+      "onboard_time": 1769066120,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 113541,
@@ -1051,6 +1147,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 108043,
+      "num": 108043,
+      "word": "撞倒作不雅手势女子司机回应",
+      "onboard_time": 1769066780,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106827,
       "num": 106827,
       "word": "澳网",
@@ -1064,14 +1168,6 @@
       "word": "腹痛入院才知怀胎十月女子已成功分娩",
       "onboard_time": 1769047399,
       "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105891,
-      "num": 192973,
-      "word": "男子刚卖500克金条又买了200克",
-      "onboard_time": 1769063479,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -1139,12 +1235,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100348,
-      "num": 114887,
-      "word": "尾号88888888马钞被领走",
-      "onboard_time": 1769065040,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 101234,
+      "num": 101234,
+      "word": "黄仁勋称后悔卖英伟达股票买车",
+      "onboard_time": 1769067078,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 100030,
+      "num": 100030,
+      "word": "梁靖崑温瑞博被教练怒批纯属胡打",
+      "onboard_time": 1769067320,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 99909,
@@ -1265,6 +1369,14 @@
       "onboard_time": 1769007500,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92955,
+      "num": 116382,
+      "word": "献血2.2万毫升景区不免票男子发声",
+      "onboard_time": 1769065941,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92690,
@@ -1409,6 +1521,14 @@
       "onboard_time": 1769037257,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 73196,
+      "num": 181336,
+      "word": "BOSS直聘给虚假高薪关美颜",
+      "onboard_time": 1769065520,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71579,
@@ -1579,6 +1699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50448,
+      "num": 115481,
+      "word": "女子吃两颗红果参20分钟脸肿险窒息",
+      "onboard_time": 1769066600,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50059,
       "num": 50059,
       "word": "网友雪山中偶遇幼时孙悟空",
@@ -1689,6 +1817,14 @@
       "onboard_time": 1769010861,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 41079,
+      "num": 181570,
+      "word": "终末地的审美绝了",
+      "onboard_time": 1769065461,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 40404,
@@ -1936,6 +2072,14 @@
       "word": "女子违停竖中指挑衅后被撞",
       "onboard_time": 1769064800,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23324,
+      "num": 115356,
+      "word": "医院员工将逝者信息提供殡葬人员",
+      "onboard_time": 1769067140,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
