@@ -1,6 +1,6 @@
 {
   "startTime": 1769100257042,
-  "endTime": 1769165540339,
+  "endTime": 1769167746468,
   "band_list": [
     {
       "raw_hot": 2732817,
@@ -89,6 +89,14 @@
       "onboard_time": 1769162660,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 707519,
+      "num": 806395,
+      "word": "Lululemon新款瑜伽裤太透明被下架",
+      "onboard_time": 1769164461,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 707182,
@@ -187,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 503958,
+      "num": 213942,
+      "word": "李嘉诚 无畏契约封号",
+      "onboard_time": 1769162541,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 502412,
       "num": 308139,
       "word": "方圆力挺阿爆",
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 441551,
-      "num": 227570,
+      "num": 422734,
       "word": "贝克汉姆给大儿子的礼物",
       "onboard_time": 1769163620,
       "rank": 12,
@@ -299,14 +315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 407672,
-      "num": 213942,
-      "word": "李嘉诚 无畏契约封号",
-      "onboard_time": 1769162541,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 397102,
       "num": 333254,
       "word": "影视项目 削女演员片酬",
@@ -347,11 +355,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 374208,
-      "num": 806395,
-      "word": "Lululemon新款瑜伽裤太透明被下架",
-      "onboard_time": 1769164461,
-      "rank": 1,
+      "raw_hot": 369429,
+      "num": 224833,
+      "word": "猝死程序员妻子不想他连死都没有价值",
+      "onboard_time": 1769163560,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -424,6 +432,14 @@
       "word": "声生不息放了肖战唱的整晚的音乐",
       "onboard_time": 1769161940,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 321262,
+      "num": 321262,
+      "word": "痞幼去恋综不敢告诉方圆",
+      "onboard_time": 1769165901,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -500,7 +516,7 @@
     },
     {
       "raw_hot": 283904,
-      "num": 818482,
+      "num": 1041295,
       "word": "U23",
       "onboard_time": 1769162181,
       "rank": 1,
@@ -553,6 +569,14 @@
       "onboard_time": 1769131460,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 266300,
+      "num": 202921,
+      "word": "大学时期的卢昱晓",
+      "onboard_time": 1769164641,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 265926,
@@ -627,6 +651,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 249891,
+      "num": 249891,
+      "word": "以后道歉请按照这个标准来",
+      "onboard_time": 1769165781,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 249685,
       "num": 333279,
       "word": "所有人都说猝死程序员明年能升总监",
@@ -684,7 +716,7 @@
     },
     {
       "raw_hot": 228384,
-      "num": 528284,
+      "num": 747961,
       "word": "中年考公三件套一年狂捞270亿",
       "onboard_time": 1769158580,
       "rank": 12,
@@ -803,14 +835,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 202921,
-      "num": 202921,
-      "word": "大学时期的卢昱晓",
-      "onboard_time": 1769164641,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 200334,
       "num": 587587,
       "word": "TF四代川渝春晚路透",
@@ -833,6 +857,14 @@
       "onboard_time": 1769091623,
       "rank": 1,
       "category": "财经"
+    },
+    {
+      "raw_hot": 199063,
+      "num": 199063,
+      "word": "TF二代吻戏第一人",
+      "onboard_time": 1769167580,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 195656,
@@ -873,6 +905,14 @@
       "onboard_time": 1769091741,
       "rank": 5,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 189232,
+      "num": 562783,
+      "word": "无畏契约",
+      "onboard_time": 1769166981,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 186063,
@@ -947,6 +987,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 172100,
+      "num": 150879,
+      "word": "儿子打视频要钱女友现身父亲秒变脸",
+      "onboard_time": 1769164761,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171574,
       "num": 133763,
       "word": "国乒又一人离队",
@@ -977,6 +1025,14 @@
       "onboard_time": 1769087001,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 163509,
+      "num": 163509,
+      "word": "张杰成都演唱会",
+      "onboard_time": 1769166561,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 162847,
@@ -1059,14 +1115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148283,
-      "num": 224833,
-      "word": "猝死程序员妻子不想他连死都没有价值",
-      "onboard_time": 1769163560,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148201,
       "num": 148201,
       "word": "芒果的人脉",
@@ -1081,14 +1129,6 @@
       "onboard_time": 1769150001,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147317,
-      "num": 147317,
-      "word": "儿子打视频要钱女友现身父亲秒变脸",
-      "onboard_time": 1769164761,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 147306,
@@ -1184,6 +1224,14 @@
       "word": "亲爱的客栈2026",
       "onboard_time": 1769147181,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 134040,
+      "num": 163215,
+      "word": "亲爱的客栈",
+      "onboard_time": 1769165661,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -1323,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119355,
+      "num": 119355,
+      "word": "代旭居然是宋轶张睿陈小纭同班同学",
+      "onboard_time": 1769162419,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118533,
       "num": 118533,
       "word": "第一次过敏得如此性感",
@@ -1377,6 +1433,14 @@
       "onboard_time": 1769157860,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111158,
+      "num": 177011,
+      "word": "猝死程序员赔39万妻子只拿4到6万",
+      "onboard_time": 1769166981,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110994,
@@ -1683,6 +1747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95812,
+      "num": 507964,
+      "word": "丹麦士兵携实弹进驻格陵兰岛",
+      "onboard_time": 1769165781,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 95799,
       "num": 95799,
       "word": "腾讯2025年度反舞弊通报",
@@ -1763,12 +1835,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93716,
+      "num": 93716,
+      "word": "寒假没苦硬吃的三大行为",
+      "onboard_time": 1769167520,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93505,
       "num": 256044,
       "word": "土豆满门忠烈",
       "onboard_time": 1769157982,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 93469,
+      "num": 93469,
+      "word": "儿媳想等金价便宜公婆说再贵也要买",
+      "onboard_time": 1769167400,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93302,
@@ -1851,6 +1939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91086,
+      "num": 487335,
+      "word": "操纵67个账户被罚没超10亿",
+      "onboard_time": 1769165362,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90918,
       "num": 90918,
       "word": "滑雪偶遇蒋敦豪和万妮达",
@@ -1891,6 +1987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89872,
+      "num": 153082,
+      "word": "黄金在白银面前也黯然失色",
+      "onboard_time": 1769167161,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 89821,
       "num": 89821,
       "word": "辛芷蕾的抬剧速度好快",
@@ -1929,14 +2033,6 @@
       "onboard_time": 1769135419,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 87261,
-      "num": 91776,
-      "word": "操纵67个账户被罚没超10亿",
-      "onboard_time": 1769165362,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87206,
@@ -1995,6 +2091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 85304,
+      "num": 452734,
+      "word": "俄一客机备降兰州盘旋多圈平安降落",
+      "onboard_time": 1769167220,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85110,
       "num": 85110,
       "word": "潇潇回应487",
@@ -2049,6 +2153,14 @@
       "onboard_time": 1769116573,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83657,
+      "num": 83657,
+      "word": "当我占有欲高但没见过世面时",
+      "onboard_time": 1769166741,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 83585,
@@ -2171,6 +2283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78488,
+      "num": 78488,
+      "word": "美国的寄养家庭太地狱了",
+      "onboard_time": 1769167641,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 78232,
       "num": 174168,
       "word": "向上生长是王楚钦给孩子的礼物",
@@ -2185,6 +2305,14 @@
       "onboard_time": 1769124617,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 76690,
+      "num": 76690,
+      "word": "李煜东反应力堪比一只成年蜗牛",
+      "onboard_time": 1769167641,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 76686,
@@ -2300,7 +2428,7 @@
     },
     {
       "raw_hot": 67262,
-      "num": 200580,
+      "num": 602467,
       "word": "新国补到底怎么补",
       "onboard_time": 1769150180,
       "rank": 28,
@@ -2377,6 +2505,14 @@
       "onboard_time": 1769127201,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 60211,
+      "num": 215906,
+      "word": "影视飓风说荣耀Air是独一档",
+      "onboard_time": 1769164699,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 59241,
@@ -2499,20 +2635,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54360,
+      "num": 152063,
+      "word": "陈伟霆的老钱风更是alpha级别",
+      "onboard_time": 1769166380,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53736,
       "num": 167943,
       "word": "被前夫杀害女子只吃2元钱的饭",
       "onboard_time": 1769085080,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 53289,
-      "num": 215906,
-      "word": "影视飓风说荣耀Air是独一档",
-      "onboard_time": 1769164699,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 53276,
@@ -2843,6 +2979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20958,
+      "num": 96749,
+      "word": "杀害前妻案凶手青春期时患有狂躁症",
+      "onboard_time": 1769167220,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20916,
       "num": 515738,
       "word": "喵娲娲内娱又火了一个",
@@ -2915,6 +3059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 16356,
+      "num": 153892,
+      "word": "泰一家16人跟团游哈尔滨回国报警",
+      "onboard_time": 1769167520,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 15667,
       "num": 109916,
       "word": "陈星旭给王玉雯的袜子是李乃文的吗",
@@ -2953,6 +3105,14 @@
       "onboard_time": 1769115373,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11835,
+      "num": 95098,
+      "word": "喵娲娲到底夹了多少票",
+      "onboard_time": 1769166083,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 7751,

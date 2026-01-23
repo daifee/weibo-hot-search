@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/23 18:52:20
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/23 19:29:06
 </p>
 </blockquote>
 <p>
@@ -2339,6 +2339,12 @@ A股（热度：713520）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E6%97%A0%E7%BC%98%E5%A4%9A%E5%93%88%E5%86%A0%E5%86%9B%E8%B5%9B%E7%94%B7%E5%8D%95%E5%86%B3%E8%B5%9B%23" target="weibo">
 国乒无缘多哈冠军赛男单决赛（热度：707577）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Lululemon%E6%96%B0%E6%AC%BE%E7%91%9C%E4%BC%BD%E8%A3%A4%E5%A4%AA%E9%80%8F%E6%98%8E%E8%A2%AB%E4%B8%8B%E6%9E%B6%23" target="weibo">
+Lululemon新款瑜伽裤太透明被下架（热度：707519）
 </a>
 </li>
 
@@ -4731,6 +4737,12 @@ iPhone4需求激增近1000%（热度：506886）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%98%89%E8%AF%9A%20%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E5%B0%81%E5%8F%B7%23" target="weibo">
+李嘉诚 无畏契约封号（热度：503958）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%96%BD%E5%AC%85%E8%BD%A6%E5%B4%87%E5%81%A5he%E4%BA%86%23" target="weibo">
 李施嬅车崇健he了（热度：503346）
 </a>
@@ -5999,18 +6011,6 @@ u23（热度：441695）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E6%9D%A5%E7%9C%8B%E6%B5%81%E6%98%9F%E9%9B%A8%23" target="weibo">
 一起来看流星雨（热度：439558）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%95%E5%AE%8C%E7%BB%BC%E8%89%BA%E6%80%BB%E8%A3%81%E7%88%B6%E4%BA%B2%E4%B8%BB%E5%8A%A8%E5%90%91%E5%A5%B3%E5%84%BF%E9%81%93%E6%AD%89%23" target="weibo">
-录完综艺总裁父亲主动向女儿道歉（热度：439304）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23QQ%E9%9F%B3%E4%B9%90%E8%B6%85%E7%BA%A7%E4%BC%9A%E5%91%98%E4%BB%A3%E8%A8%80%E4%BA%BA%23" target="weibo">
-QQ音乐超级会员代言人（热度：439252）
 </a>
 </li>
 
