@@ -1,0 +1,410 @@
+{
+  "runTime": 1769200536293,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 89579,
+        "num": 89579,
+        "word": "U23国足vs日本",
+        "onboard_time": 1769191934,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58826,
+        "num": 58826,
+        "word": "太平年",
+        "onboard_time": 1769170460,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1101,
+        "num": 47868,
+        "word": "冰雪春天",
+        "onboard_time": 1769142382,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82411,
+        "num": 47086,
+        "word": "张杰不再参加任何需要投票的活动",
+        "onboard_time": 1769178741,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 62427,
+        "num": 46736,
+        "word": "海底捞 点炮制度",
+        "onboard_time": 1769172802,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45531,
+        "num": 45531,
+        "word": "LPL",
+        "onboard_time": 1769183541,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31383,
+        "num": 31383,
+        "word": "不建议个人用SIM卡提炼黄金",
+        "onboard_time": 1769178203,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27015,
+        "num": 27015,
+        "word": "骑手随手拍曝光幽灵外卖",
+        "onboard_time": 1769182824,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24663,
+        "num": 24663,
+        "word": "官方通报阿勒泰雪豹伤人",
+        "onboard_time": 1769180422,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 24326,
+        "num": 24326,
+        "word": "法国猫花5个月从西班牙走回老家",
+        "onboard_time": 1769184381,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 71401,
+        "num": 24161,
+        "word": "苹果用户的天塌了",
+        "onboard_time": 1769155100,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 54962,
+        "num": 23999,
+        "word": "制片人姜莹莹被解聘永不录用",
+        "onboard_time": 1769187259,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52005,
+        "num": 23873,
+        "word": "太平年 吃人",
+        "onboard_time": 1769175200,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40354,
+        "num": 23722,
+        "word": "腾讯2025新增永不合作公司名单",
+        "onboard_time": 1769173582,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 35103,
+        "num": 23562,
+        "word": "黄景瑜上太空 王一博天塌了",
+        "onboard_time": 1769174481,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33265,
+        "num": 23384,
+        "word": "26岁工程师家里熟睡中猝死",
+        "onboard_time": 1769175561,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27199,
+        "num": 23143,
+        "word": "猝死程序员公司内部会议记录曝光",
+        "onboard_time": 1769185100,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24970,
+        "num": 23102,
+        "word": "马龙樊振东王楚钦聚餐画面",
+        "onboard_time": 1769176102,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22956,
+        "num": 22956,
+        "word": "季节 誓约",
+        "onboard_time": 1769177422,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22410,
+        "num": 22410,
+        "word": "成人英语网络性感教学引争议",
+        "onboard_time": 1769182224,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27906,
+        "num": 22292,
+        "word": "黄景瑜签约航天公司仅4项发明专利",
+        "onboard_time": 1769179341,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25526,
+        "num": 22110,
+        "word": "女硕士失踪生子孩子父亲不构成强奸罪",
+        "onboard_time": 1769185039,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21431,
+        "num": 21431,
+        "word": "广州一家三口住桥洞靠拾荒为生",
+        "onboard_time": 1769180721,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21333,
+        "num": 21333,
+        "word": "Lululemon新款瑜伽裤太透明被下架",
+        "onboard_time": 1769164461,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19043,
+        "num": 21333,
+        "word": "泰一家16人跟团游哈尔滨回国报警",
+        "onboard_time": 1769167520,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 18407,
+        "num": 21328,
+        "word": "配配",
+        "onboard_time": 1769183060,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18206,
+        "num": 21319,
+        "word": "岳父代理女婿与女儿打离婚官司",
+        "onboard_time": 1769180721,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17419,
+        "num": 21316,
+        "word": "太平年尺度",
+        "onboard_time": 1769174900,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17031,
+        "num": 21310,
+        "word": "人类精子有个神秘的衰老时钟",
+        "onboard_time": 1769172921,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 15839,
+        "num": 21305,
+        "word": "突然的喜欢",
+        "onboard_time": 1769164101,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15606,
+        "num": 21301,
+        "word": "碧血蝉",
+        "onboard_time": 1769179341,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15397,
+        "num": 21300,
+        "word": "太平年好看吗",
+        "onboard_time": 1769189417,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15100,
+        "num": 21295,
+        "word": "与日本决赛在即中领馆发安全提醒",
+        "onboard_time": 1769197153,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15159,
+        "num": 21288,
+        "word": "太平年好混乱的年代",
+        "onboard_time": 1769194335,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15094,
+        "num": 21284,
+        "word": "白银狂飙一骑绝尘",
+        "onboard_time": 1769184680,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 14655,
+        "num": 21278,
+        "word": "新疆被雪豹咬伤游客伤情平稳",
+        "onboard_time": 1769186418,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14546,
+        "num": 21274,
+        "word": "央视转播U23国足与日本比赛",
+        "onboard_time": 1769176642,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14530,
+        "num": 21268,
+        "word": "最强大脑",
+        "onboard_time": 1769172621,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14294,
+        "num": 21265,
+        "word": "金价暴涨胖东来金店挤爆了",
+        "onboard_time": 1769181921,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14057,
+        "num": 21259,
+        "word": "日本国会一开幕就解散众议院",
+        "onboard_time": 1769196435,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13670,
+        "num": 21254,
+        "word": "亲爱的客栈",
+        "onboard_time": 1769165661,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13124,
+        "num": 21250,
+        "word": "黄金高位突发跳水",
+        "onboard_time": 1769172261,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 12822,
+        "num": 21246,
+        "word": "宠肖战还得是北京卫视",
+        "onboard_time": 1769184140,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12011,
+        "num": 21239,
+        "word": "赵今麦miumiu活动出图",
+        "onboard_time": 1769177361,
+        "rank": 43,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 11968,
+        "num": 21237,
+        "word": "太平年 历史剧",
+        "onboard_time": 1769189357,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11592,
+        "num": 21229,
+        "word": "脑综史上最窒息45分钟",
+        "onboard_time": 1769179643,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11108,
+        "num": 21227,
+        "word": "誓约 陪玩",
+        "onboard_time": 1769179402,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10925,
+        "num": 21223,
+        "word": "大侦探在游乐场开演唱会",
+        "onboard_time": 1769189177,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 10780,
+        "num": 21218,
+        "word": "刘宇宁录制北京春晚",
+        "onboard_time": 1769193495,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10631,
+        "num": 21209,
+        "word": "卢昱晓战国袍造型",
+        "onboard_time": 1769169981,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺苏林#"
+    }
+  }
+}
