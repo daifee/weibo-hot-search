@@ -1,6 +1,6 @@
 {
   "startTime": 1769100257042,
-  "endTime": 1769144558693,
+  "endTime": 1769146597228,
   "band_list": [
     {
       "raw_hot": 2732817,
@@ -9,6 +9,14 @@
       "onboard_time": 1769139140,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1397487,
+      "num": 224208,
+      "word": "骆驼向王俊凯致歉",
+      "onboard_time": 1769142982,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1149237,
@@ -27,11 +35,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 891897,
-      "num": 219105,
-      "word": "骆驼向王俊凯致歉",
-      "onboard_time": 1769142982,
-      "rank": 10,
+      "raw_hot": 780766,
+      "num": 221781,
+      "word": "章昊 对不起我是中国人听不懂",
+      "onboard_time": 1769141961,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -40,14 +48,6 @@
       "word": "吃火锅偶遇贾玲张小斐",
       "onboard_time": 1769134879,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 699107,
-      "num": 218398,
-      "word": "章昊 对不起我是中国人听不懂",
-      "onboard_time": 1769141961,
-      "rank": 36,
       "category": "艺人"
     },
     {
@@ -83,8 +83,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 569101,
+      "num": 1091056,
+      "word": "不二之臣",
+      "onboard_time": 1769137939,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 557718,
-      "num": 209305,
+      "num": 218364,
       "word": "黄景瑜要上太空了",
       "onboard_time": 1769142743,
       "rank": 14,
@@ -139,20 +147,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 463035,
-      "num": 1074085,
-      "word": "不二之臣",
-      "onboard_time": 1769137939,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 451978,
       "num": 140483,
       "word": "黄金",
       "onboard_time": 1769123476,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 437298,
+      "num": 185107,
+      "word": "刘烨安娜女儿霓娜近照",
+      "onboard_time": 1769143762,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 387311,
@@ -251,6 +259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 293052,
+      "num": 223112,
+      "word": "八个月瘦了120斤的身体变化",
+      "onboard_time": 1769143521,
+      "rank": 41,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 287583,
       "num": 287583,
       "word": "朱志鑫 五哈",
@@ -347,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235610,
+      "num": 235610,
+      "word": "草莓剥皮",
+      "onboard_time": 1769144781,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 233747,
       "num": 137848,
       "word": "张桂源二番",
@@ -395,12 +419,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219036,
+      "num": 177309,
+      "word": "李行亮麦琳已无商业关联",
+      "onboard_time": 1769142140,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214961,
       "num": 214961,
       "word": "花千骨二番依旧出圈",
       "onboard_time": 1769140281,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 214109,
+      "num": 214109,
+      "word": "猝死程序员公司赔付家属39万",
+      "onboard_time": 1769143342,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210866,
@@ -467,14 +507,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 183794,
-      "num": 183794,
-      "word": "刘烨安娜女儿霓娜近照",
-      "onboard_time": 1769143762,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 182578,
       "num": 182578,
       "word": "泡泡玛特电子木鱼爆火",
@@ -491,12 +523,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177309,
-      "num": 177309,
-      "word": "李行亮麦琳已无商业关联",
-      "onboard_time": 1769142140,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 176001,
+      "num": 142822,
+      "word": "张凌赫张婧仪 现偶",
+      "onboard_time": 1769145261,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 173864,
@@ -539,12 +571,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 161306,
+      "num": 230298,
+      "word": "儿童洗护品牌戴可思被立案调查",
+      "onboard_time": 1769144481,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156335,
       "num": 224761,
       "word": "半个短国都来浙江卫视春晚了",
       "onboard_time": 1769143521,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155179,
+      "num": 228643,
+      "word": "飞驰人生3领衔主演尹正",
+      "onboard_time": 1769145021,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 153840,
@@ -595,16 +643,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142521,
-      "num": 195297,
-      "word": "猝死程序员公司赔付家属39万",
-      "onboard_time": 1769143342,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 142171,
-      "num": 142171,
+      "raw_hot": 142566,
+      "num": 142566,
       "word": "范丞丞长发",
       "onboard_time": 1769142922,
       "rank": 40,
@@ -641,14 +681,6 @@
       "onboard_time": 1769124738,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132468,
-      "num": 132468,
-      "word": "八个月瘦了120斤的身体变化",
-      "onboard_time": 1769143521,
-      "rank": 41,
-      "category": "运动健身"
     },
     {
       "raw_hot": 132239,
@@ -707,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119831,
+      "num": 157896,
+      "word": "男子送养亲生子获4万元不构成犯罪",
+      "onboard_time": 1769145681,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114625,
       "num": 188585,
       "word": "六大行集体发布公告",
@@ -737,6 +777,14 @@
       "onboard_time": 1769133739,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108210,
+      "num": 175878,
+      "word": "金饰克价4天猛涨近百元",
+      "onboard_time": 1769144363,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 108068,
@@ -787,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100834,
+      "num": 100834,
+      "word": "2026计划是离职",
+      "onboard_time": 1769146162,
+      "rank": 38,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 100757,
       "num": 100757,
       "word": "普京称格陵兰岛美国真要买也得买得起",
@@ -801,6 +857,14 @@
       "onboard_time": 1769088742,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97832,
+      "num": 94052,
+      "word": "存够能住两周ICU的钱就够了",
+      "onboard_time": 1769144960,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 96860,
@@ -843,6 +907,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 94192,
+      "num": 94192,
+      "word": "中央厨房制作的菜肴不是预制菜",
+      "onboard_time": 1769145681,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93910,
       "num": 93910,
       "word": "穿越者太空旅游",
@@ -857,6 +929,14 @@
       "onboard_time": 1769138420,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 93290,
+      "num": 93290,
+      "word": "长生FMVP长夜焕生共潮升",
+      "onboard_time": 1769145501,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 92364,
@@ -923,14 +1003,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 86630,
-      "num": 175785,
-      "word": "儿童洗护品牌戴可思被立案调查",
-      "onboard_time": 1769144481,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85481,
       "num": 85481,
       "word": "余幼时即厌学",
@@ -955,6 +1027,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84336,
+      "num": 84336,
+      "word": "这个镜头幸好是成毅",
+      "onboard_time": 1769146461,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 84305,
+      "num": 84305,
+      "word": "泰国 肖战主题列车",
+      "onboard_time": 1769146341,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 84247,
+      "num": 84247,
+      "word": "奥斯卡",
+      "onboard_time": 1769139921,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 84028,
       "num": 184829,
       "word": "穿得很厚还是手脚冰凉",
@@ -971,6 +1067,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83585,
+      "num": 84319,
+      "word": "演唱会 精神奢侈品",
+      "onboard_time": 1769146521,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 83481,
+      "num": 83481,
+      "word": "实习生过年加班七天七千",
+      "onboard_time": 1769145261,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 83305,
       "num": 83305,
       "word": "哈姆奈特",
@@ -985,14 +1097,6 @@
       "onboard_time": 1769087180,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 83230,
-      "num": 175878,
-      "word": "金饰克价4天猛涨近百元",
-      "onboard_time": 1769144363,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 82094,
@@ -1124,7 +1228,7 @@
     },
     {
       "raw_hot": 70709,
-      "num": 600106,
+      "num": 606764,
       "word": "中国铁路又双叒有新突破",
       "onboard_time": 1769142800,
       "rank": 2,
@@ -1259,6 +1363,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57330,
+      "num": 197287,
+      "word": "一件羽绒服温暖了三代人",
+      "onboard_time": 1769142982,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 57264,
+      "num": 78191,
+      "word": "太空光伏概念大爆发",
+      "onboard_time": 1769146461,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 56883,
       "num": 56883,
       "word": "李微漪最后几年找不到格林了",
@@ -1305,14 +1425,6 @@
       "onboard_time": 1769124019,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 51659,
-      "num": 194051,
-      "word": "一件羽绒服温暖了三代人",
-      "onboard_time": 1769142982,
-      "rank": 19,
-      "category": "时尚"
     },
     {
       "raw_hot": 51406,
@@ -1385,6 +1497,14 @@
       "onboard_time": 1769096239,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 43799,
+      "num": 155118,
+      "word": "终末地最伟大的一张脸",
+      "onboard_time": 1769144661,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 43494,

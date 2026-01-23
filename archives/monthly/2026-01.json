@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769144558693,
+  "endTime": 1769146597228,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -697,6 +697,14 @@
       "onboard_time": 1768446318,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1397487,
+      "num": 224208,
+      "word": "骆驼向王俊凯致歉",
+      "onboard_time": 1769142982,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1377099,
@@ -1915,14 +1923,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 891897,
-      "num": 219105,
-      "word": "骆驼向王俊凯致歉",
-      "onboard_time": 1769142982,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 890521,
       "num": 1142483,
       "word": "U23国足首进亚洲杯4强",
@@ -2539,6 +2539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 780766,
+      "num": 221781,
+      "word": "章昊 对不起我是中国人听不懂",
+      "onboard_time": 1769141961,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 778870,
       "num": 408428,
       "word": "冰箱贴一定要经常挪挪位置",
@@ -3129,14 +3137,6 @@
       "onboard_time": 1768540400,
       "rank": 11,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 699107,
-      "num": 218398,
-      "word": "章昊 对不起我是中国人听不懂",
-      "onboard_time": 1769141961,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 698379,
@@ -4723,6 +4723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 569101,
+      "num": 1091056,
+      "word": "不二之臣",
+      "onboard_time": 1769137939,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 568844,
       "num": 842126,
       "word": "日本迎半世纪来首次零熊猫",
@@ -4916,7 +4924,7 @@
     },
     {
       "raw_hot": 557718,
-      "num": 209305,
+      "num": 218364,
       "word": "黄景瑜要上太空了",
       "onboard_time": 1769142743,
       "rank": 14,
@@ -7139,14 +7147,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 463035,
-      "num": 1074085,
-      "word": "不二之臣",
-      "onboard_time": 1769137939,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 462799,
       "num": 856743,
       "word": "委内瑞拉副总统发表讲话",
@@ -7912,6 +7912,14 @@
       "word": "sakee文言文",
       "onboard_time": 1768047682,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 437298,
+      "num": 185107,
+      "word": "刘烨安娜女儿霓娜近照",
+      "onboard_time": 1769143762,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -13539,6 +13547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 293052,
+      "num": 223112,
+      "word": "八个月瘦了120斤的身体变化",
+      "onboard_time": 1769143521,
+      "rank": 41,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 292957,
       "num": 3408349,
       "word": "车厘子价格暴跌近40%",
@@ -17027,6 +17043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235610,
+      "num": 235610,
+      "word": "草莓剥皮",
+      "onboard_time": 1769144781,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 235524,
       "num": 235524,
       "word": "王昭君灯塔水母主题皮肤",
@@ -18491,6 +18515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 219036,
+      "num": 177309,
+      "word": "李行亮麦琳已无商业关联",
+      "onboard_time": 1769142140,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219008,
       "num": 185169,
       "word": "当人在狗咖里摔倒时",
@@ -18913,6 +18945,14 @@
       "onboard_time": 1768725442,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214109,
+      "num": 214109,
+      "word": "猝死程序员公司赔付家属39万",
+      "onboard_time": 1769143342,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 213839,
@@ -23187,14 +23227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183794,
-      "num": 183794,
-      "word": "刘烨安娜女儿霓娜近照",
-      "onboard_time": 1769143762,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 183700,
       "num": 246133,
       "word": "NBA交易",
@@ -24083,14 +24115,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 177309,
-      "num": 177309,
-      "word": "李行亮麦琳已无商业关联",
-      "onboard_time": 1769142140,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 177305,
       "num": 154739,
       "word": "金饰克价涨到1438元",
@@ -24296,6 +24320,14 @@
       "word": "杨紫的荧幕初吻居然是霍建华",
       "onboard_time": 1769054061,
       "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176001,
+      "num": 142822,
+      "word": "张凌赫张婧仪 现偶",
+      "onboard_time": 1769145261,
+      "rank": 30,
       "category": "作品衍生"
     },
     {
@@ -26803,6 +26835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161306,
+      "num": 230298,
+      "word": "儿童洗护品牌戴可思被立案调查",
+      "onboard_time": 1769144481,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161304,
       "num": 289001,
       "word": "无事妈妈给钱有事妈妈顶罪",
@@ -28033,6 +28073,14 @@
       "onboard_time": 1768779379,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 155179,
+      "num": 228643,
+      "word": "飞驰人生3领衔主演尹正",
+      "onboard_time": 1769145021,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 155018,
@@ -30787,6 +30835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142566,
+      "num": 142566,
+      "word": "范丞丞长发",
+      "onboard_time": 1769142922,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 142550,
       "num": 142550,
       "word": "487退役",
@@ -30801,14 +30857,6 @@
       "onboard_time": 1767761902,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 142521,
-      "num": 195297,
-      "word": "猝死程序员公司赔付家属39万",
-      "onboard_time": 1769143342,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142505,
@@ -30897,14 +30945,6 @@
       "onboard_time": 1767598102,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 142171,
-      "num": 142171,
-      "word": "范丞丞长发",
-      "onboard_time": 1769142922,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 142120,
@@ -33601,14 +33641,6 @@
       "onboard_time": 1767198086,
       "rank": 47,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 132468,
-      "num": 132468,
-      "word": "八个月瘦了120斤的身体变化",
-      "onboard_time": 1769143521,
-      "rank": 41,
-      "category": "运动健身"
     },
     {
       "raw_hot": 132456,
@@ -37801,6 +37833,14 @@
       "onboard_time": 1767677300,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 119831,
+      "num": 157896,
+      "word": "男子送养亲生子获4万元不构成犯罪",
+      "onboard_time": 1769145681,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119804,
@@ -42291,6 +42331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108210,
+      "num": 175878,
+      "word": "金饰克价4天猛涨近百元",
+      "onboard_time": 1769144363,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 108181,
       "num": 108181,
       "word": "煤矿通报女子向出轨丈夫道歉",
@@ -45931,6 +45979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100834,
+      "num": 100834,
+      "word": "2026计划是离职",
+      "onboard_time": 1769146162,
+      "rank": 38,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 100815,
       "num": 739550,
       "word": "小迪老师起飞全纪录",
@@ -47569,6 +47625,14 @@
       "onboard_time": 1767705383,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97832,
+      "num": 94052,
+      "word": "存够能住两周ICU的钱就够了",
+      "onboard_time": 1769144960,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 97826,
@@ -49763,6 +49827,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 94192,
+      "num": 94192,
+      "word": "中央厨房制作的菜肴不是预制菜",
+      "onboard_time": 1769145681,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94141,
       "num": 94141,
       "word": "张艺兴改编的大花轿上线",
@@ -50281,6 +50353,14 @@
       "onboard_time": 1768986141,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 93290,
+      "num": 93290,
+      "word": "长生FMVP长夜焕生共潮升",
+      "onboard_time": 1769145501,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 93283,
@@ -54299,14 +54379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 86630,
-      "num": 175785,
-      "word": "儿童洗护品牌戴可思被立案调查",
-      "onboard_time": 1769144481,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86615,
       "num": 86615,
       "word": "追觅CEO回应百万亿美金目标争议",
@@ -55763,12 +55835,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 84336,
+      "num": 84336,
+      "word": "这个镜头幸好是成毅",
+      "onboard_time": 1769146461,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 84327,
       "num": 84327,
       "word": "中方回应特朗普成立和平委员会",
       "onboard_time": 1768898362,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 84305,
+      "num": 84305,
+      "word": "泰国 肖战主题列车",
+      "onboard_time": 1769146341,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 84290,
@@ -55801,6 +55889,14 @@
       "onboard_time": 1767623243,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84247,
+      "num": 84247,
+      "word": "奥斯卡",
+      "onboard_time": 1769139921,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 84216,
@@ -56115,6 +56211,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 83585,
+      "num": 84319,
+      "word": "演唱会 精神奢侈品",
+      "onboard_time": 1769146521,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 83554,
       "num": 83554,
       "word": "海航 Bug票",
@@ -56145,6 +56249,14 @@
       "onboard_time": 1768200200,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 83481,
+      "num": 83481,
+      "word": "实习生过年加班七天七千",
+      "onboard_time": 1769145261,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 83416,
@@ -56249,14 +56361,6 @@
       "onboard_time": 1768916122,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 83230,
-      "num": 175878,
-      "word": "金饰克价4天猛涨近百元",
-      "onboard_time": 1769144363,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 83153,
@@ -61508,7 +61612,7 @@
     },
     {
       "raw_hot": 70709,
-      "num": 600106,
+      "num": 606764,
       "word": "中国铁路又双叒有新突破",
       "onboard_time": 1769142800,
       "rank": 2,
@@ -65315,6 +65419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57330,
+      "num": 197287,
+      "word": "一件羽绒服温暖了三代人",
+      "onboard_time": 1769142982,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 57289,
       "num": 104738,
       "word": "你是刘耀文那他是谁",
@@ -65329,6 +65441,14 @@
       "onboard_time": 1767318738,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57264,
+      "num": 78191,
+      "word": "太空光伏概念大爆发",
+      "onboard_time": 1769146461,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 57229,
@@ -66433,14 +66553,6 @@
       "onboard_time": 1768515014,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 51659,
-      "num": 194051,
-      "word": "一件羽绒服温暖了三代人",
-      "onboard_time": 1769142982,
-      "rank": 19,
-      "category": "时尚"
     },
     {
       "raw_hot": 51607,
@@ -68041,6 +68153,14 @@
       "onboard_time": 1767482598,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 43799,
+      "num": 155118,
+      "word": "终末地最伟大的一张脸",
+      "onboard_time": 1769144661,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 43794,
