@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769147501598,
+  "endTime": 1769150700083,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -513,6 +513,14 @@
       "onboard_time": 1769129361,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 884408,
+      "num": 169074,
+      "word": "车银优宋慧乔被称为逃税情侣",
+      "onboard_time": 1769148142,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 861518,
@@ -2187,6 +2195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 418607,
+      "num": 164482,
+      "word": "小果冻 前女友",
+      "onboard_time": 1769146821,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 418258,
       "num": 898111,
       "word": "联合国警告水破产时代已来临",
@@ -2281,6 +2297,14 @@
       "onboard_time": 1769070501,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 408779,
+      "num": 773391,
+      "word": "赵子豪退出国家队",
+      "onboard_time": 1769149280,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 408137,
@@ -3179,6 +3203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 323464,
+      "num": 323464,
+      "word": "500人群里499个是托",
+      "onboard_time": 1769147061,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 320499,
       "num": 320499,
       "word": "何宣林回应",
@@ -4019,14 +4051,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 264413,
-      "num": 164482,
-      "word": "小果冻 前女友",
-      "onboard_time": 1769146821,
-      "rank": 21,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 264365,
       "num": 244273,
       "word": "21年前被何炅当街冷脸了",
@@ -4833,6 +4857,14 @@
       "onboard_time": 1768899741,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 218787,
+      "num": 218787,
+      "word": "网传好六团空降新人",
+      "onboard_time": 1769146762,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 218669,
@@ -6131,7 +6163,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176575,
+      "raw_hot": 176637,
       "num": 230298,
       "word": "儿童洗护品牌戴可思被立案调查",
       "onboard_time": 1769144481,
@@ -6457,6 +6489,14 @@
       "onboard_time": 1768991601,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169401,
+      "num": 169401,
+      "word": "女子要以身相许抵前男友欠款",
+      "onboard_time": 1769148620,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169031,
@@ -7291,6 +7331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150737,
+      "num": 167182,
+      "word": "苦内娱无历史大剧久矣",
+      "onboard_time": 1769149879,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150548,
       "num": 150548,
       "word": "存不到一个亿都对不起这个蛋",
@@ -7457,6 +7505,14 @@
       "onboard_time": 1768881441,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147644,
+      "num": 147644,
+      "word": "汪苏泷唯一一位有两次安可的歌手",
+      "onboard_time": 1769150001,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 147371,
@@ -8675,6 +8731,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 127012,
+      "num": 162308,
+      "word": "所有人都说猝死程序员明年能升总监",
+      "onboard_time": 1769149580,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126841,
       "num": 126841,
       "word": "名侦探学院",
@@ -9033,6 +9097,14 @@
       "onboard_time": 1769096239,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123020,
+      "num": 123020,
+      "word": "飞驰人生3预告没有王安宇镜头",
+      "onboard_time": 1769149220,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 122963,
@@ -9609,6 +9681,14 @@
       "onboard_time": 1768981521,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 116949,
+      "num": 116949,
+      "word": "刘耀文收到张导的邀请就来了",
+      "onboard_time": 1769150001,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 116834,
@@ -11139,14 +11219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102767,
-      "num": 161722,
-      "word": "网传好六团空降新人",
-      "onboard_time": 1769146762,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 102766,
       "num": 102766,
       "word": "婴儿淋暴雨拍短剧家长为何沉默",
@@ -11353,6 +11425,14 @@
       "onboard_time": 1768921280,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100949,
+      "num": 100949,
+      "word": "300万元一张的太空船票值得吗",
+      "onboard_time": 1769148439,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100836,
@@ -11603,6 +11683,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 99330,
+      "num": 99330,
+      "word": "去年腾讯20余人涉嫌犯罪被移送警方",
+      "onboard_time": 1769149041,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 99309,
       "num": 162547,
       "word": "小狗不知道自己睡在废品站旁边",
@@ -11801,6 +11889,14 @@
       "onboard_time": 1768873700,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98033,
+      "num": 98033,
+      "word": "浪姐6在王珞丹评论区团建",
+      "onboard_time": 1769147599,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 97999,
@@ -12683,6 +12779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 92491,
+      "num": 92491,
+      "word": "九十余人因触犯腾讯高压线被解聘",
+      "onboard_time": 1769150059,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 92473,
       "num": 92473,
       "word": "杨紫拍生命树高反持续了188天",
@@ -12899,6 +13003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91444,
+      "num": 125069,
+      "word": "郑钦文的网友们人均用上了AI助理",
+      "onboard_time": 1769150180,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91319,
       "num": 91319,
       "word": "博主曝有人为买网红盒饭冒充工人",
@@ -12969,6 +13081,14 @@
       "onboard_time": 1768917502,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90918,
+      "num": 90918,
+      "word": "滑雪偶遇蒋敦豪和万妮达",
+      "onboard_time": 1769149580,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 90878,
@@ -13137,6 +13257,14 @@
       "onboard_time": 1768962199,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89821,
+      "num": 89821,
+      "word": "辛芷蕾的抬剧速度好快",
+      "onboard_time": 1769149101,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 89598,
@@ -13723,6 +13851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86345,
+      "num": 86345,
+      "word": "美国正调集重兵前往伊朗",
+      "onboard_time": 1769148201,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 86303,
       "num": 86303,
       "word": "总不能为了脸连钱都不要了吧",
@@ -14145,6 +14281,14 @@
       "onboard_time": 1768707199,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 84142,
+      "num": 84142,
+      "word": "赵子豪乒乓精神永驻心中",
+      "onboard_time": 1769150600,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 84043,
@@ -15987,6 +16131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67262,
+      "num": 128230,
+      "word": "新国补到底怎么补",
+      "onboard_time": 1769150180,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67164,
       "num": 186980,
       "word": "想坐上王安宇的副驾",
@@ -16689,6 +16841,14 @@
       "onboard_time": 1768754058,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 57092,
+      "num": 163802,
+      "word": "喜人暴富神曲爆了",
+      "onboard_time": 1769148322,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 57053,

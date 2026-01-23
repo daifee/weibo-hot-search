@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769147501598,
+  "endTime": 1769150700083,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1939,6 +1939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 884408,
+      "num": 169074,
+      "word": "车银优宋慧乔被称为逃税情侣",
+      "onboard_time": 1769148142,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 882691,
       "num": 1141230,
       "word": "双胞胎姐妹分别取名灿和烂",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768951098,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 807590,
-      "num": 466765,
-      "word": "6人就餐仅花19元老板要求带走垃圾",
-      "onboard_time": 1768740081,
-      "rank": 9,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1769150700083,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 433526,
+        "num": 1069364,
+        "word": "不二之臣",
+        "onboard_time": 1769137939,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 408779,
+        "num": 773391,
+        "word": "赵子豪退出国家队",
+        "onboard_time": 1769149280,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57794,
+        "num": 601212,
+        "word": "中国铁路又双叒有新突破",
+        "onboard_time": 1769142800,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 374112,
+        "num": 374112,
+        "word": "草莓剥皮",
+        "onboard_time": 1769144781,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 325172,
+        "num": 325172,
+        "word": "中国飞船首批20余位游客已预订",
+        "onboard_time": 1769136620,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323464,
+        "num": 323464,
+        "word": "500人群里499个是托",
+        "onboard_time": 1769147061,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218787,
+        "num": 218787,
+        "word": "网传好六团空降新人",
+        "onboard_time": 1769146762,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204791,
+        "num": 204791,
+        "word": "女子为孩子囤黄金投入90万收益200万",
+        "onboard_time": 1769140161,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176637,
+        "num": 176637,
+        "word": "儿童洗护品牌戴可思被立案调查",
+        "onboard_time": 1769144481,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169401,
+        "num": 169401,
+        "word": "女子要以身相许抵前男友欠款",
+        "onboard_time": 1769148620,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 884408,
+        "num": 169074,
+        "word": "车银优宋慧乔被称为逃税情侣",
+        "onboard_time": 1769148142,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 756359,
+        "num": 168736,
+        "word": "骆驼向王俊凯致歉",
+        "onboard_time": 1769142982,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222088,
+        "num": 168573,
+        "word": "八个月瘦了120斤的身体变化",
+        "onboard_time": 1769143521,
+        "rank": 12,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 406279,
+        "num": 168213,
+        "word": "章昊 对不起我是中国人听不懂",
+        "onboard_time": 1769141961,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361854,
+        "num": 167484,
+        "word": "黄景瑜要上太空了",
+        "onboard_time": 1769142743,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150737,
+        "num": 167182,
+        "word": "苦内娱无历史大剧久矣",
+        "onboard_time": 1769149879,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187800,
+        "num": 167037,
+        "word": "猝死程序员公司赔付家属39万",
+        "onboard_time": 1769143342,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166690,
+        "num": 166690,
+        "word": "12306回应高铁车厢二氧化碳浓度超标",
+        "onboard_time": 1769139501,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57092,
+        "num": 163802,
+        "word": "喜人暴富神曲爆了",
+        "onboard_time": 1769148322,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127012,
+        "num": 162308,
+        "word": "所有人都说猝死程序员明年能升总监",
+        "onboard_time": 1769149580,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418607,
+        "num": 158527,
+        "word": "小果冻 前女友",
+        "onboard_time": 1769146821,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 307010,
+        "num": 155256,
+        "word": "刘烨安娜女儿霓娜近照",
+        "onboard_time": 1769143762,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245669,
+        "num": 151122,
+        "word": "李行亮麦琳已无商业关联",
+        "onboard_time": 1769142140,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151100,
+        "num": 151100,
+        "word": "猝死程序员底薪3千干7个人的活",
+        "onboard_time": 1769130201,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217075,
+        "num": 149705,
+        "word": "小城大事腾讯拉新倒数第一",
+        "onboard_time": 1769140039,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124336,
+        "num": 148357,
+        "word": "马年的梗还是太超前了",
+        "onboard_time": 1769137699,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172555,
+        "num": 148062,
+        "word": "张凌赫张婧仪 现偶",
+        "onboard_time": 1769145261,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147644,
+        "num": 147644,
+        "word": "汪苏泷唯一一位有两次安可的歌手",
+        "onboard_time": 1769150001,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67262,
+        "num": 128230,
+        "word": "新国补到底怎么补",
+        "onboard_time": 1769150180,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91444,
+        "num": 125069,
+        "word": "郑钦文的网友们人均用上了AI助理",
+        "onboard_time": 1769150180,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124785,
+        "num": 124785,
+        "word": "流浪在美国的中国女子",
+        "onboard_time": 1769139560,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 123020,
+        "num": 123020,
+        "word": "飞驰人生3预告没有王安宇镜头",
+        "onboard_time": 1769149220,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116949,
+        "num": 116949,
+        "word": "刘耀文收到张导的邀请就来了",
+        "onboard_time": 1769150001,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113620,
+        "num": 113620,
+        "word": "儿子问舅舅不开门妈妈是不是不会死",
+        "onboard_time": 1769125940,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109581,
+        "num": 109581,
+        "word": "金饰克价涨到1545元",
+        "onboard_time": 1769132839,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 106373,
+        "num": 106373,
+        "word": "飞驰人生3领衔主演尹正",
+        "onboard_time": 1769145021,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100986,
+        "num": 100986,
+        "word": "一栗小莎子回应疑似患淋巴瘤",
+        "onboard_time": 1769137398,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 100949,
+        "num": 100949,
+        "word": "300万元一张的太空船票值得吗",
+        "onboard_time": 1769148439,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99330,
+        "num": 99330,
+        "word": "去年腾讯20余人涉嫌犯罪被移送警方",
+        "onboard_time": 1769149041,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 98033,
+        "num": 98033,
+        "word": "浪姐6在王珞丹评论区团建",
+        "onboard_time": 1769147599,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92491,
+        "num": 92491,
+        "word": "九十余人因触犯腾讯高压线被解聘",
+        "onboard_time": 1769150059,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 90918,
+        "num": 90918,
+        "word": "滑雪偶遇蒋敦豪和万妮达",
+        "onboard_time": 1769149580,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89821,
+        "num": 89821,
+        "word": "辛芷蕾的抬剧速度好快",
+        "onboard_time": 1769149101,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88778,
+        "num": 88778,
+        "word": "金饰克价4天猛涨近百元",
+        "onboard_time": 1769144363,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 88112,
+        "num": 88112,
+        "word": "吃火锅偶遇贾玲张小斐",
+        "onboard_time": 1769134879,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88111,
+        "num": 88111,
+        "word": "存够能住两周ICU的钱就够了",
+        "onboard_time": 1769144960,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86488,
+        "num": 86488,
+        "word": "美利坚警察的爆料丝毫不逊色牢A",
+        "onboard_time": 1769146881,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 86345,
+        "num": 86345,
+        "word": "美国正调集重兵前往伊朗",
+        "onboard_time": 1769148201,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84142,
+        "num": 84142,
+        "word": "赵子豪乒乓精神永驻心中",
+        "onboard_time": 1769150600,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83604,
+        "num": 83604,
+        "word": "亲爱的客栈2026",
+        "onboard_time": 1769147181,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为关键少数划定履职标尺#"
+    }
+  }
+}

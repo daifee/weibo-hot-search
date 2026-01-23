@@ -1,6 +1,6 @@
 {
   "startTime": 1769100257042,
-  "endTime": 1769147501598,
+  "endTime": 1769150700083,
   "band_list": [
     {
       "raw_hot": 2732817,
@@ -33,6 +33,14 @@
       "onboard_time": 1769129361,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 884408,
+      "num": 169074,
+      "word": "车银优宋慧乔被称为逃税情侣",
+      "onboard_time": 1769148142,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 780766,
@@ -171,6 +179,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 418607,
+      "num": 164482,
+      "word": "小果冻 前女友",
+      "onboard_time": 1769146821,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 408779,
+      "num": 773391,
+      "word": "赵子豪退出国家队",
+      "onboard_time": 1769149280,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 387311,
       "num": 224512,
       "word": "王玉雯把猥琐劲儿给演出来了",
@@ -233,6 +257,14 @@
       "onboard_time": 1769140039,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 323464,
+      "num": 323464,
+      "word": "500人群里499个是托",
+      "onboard_time": 1769147061,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 318058,
@@ -339,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 264413,
-      "num": 164482,
-      "word": "小果冻 前女友",
-      "onboard_time": 1769146821,
-      "rank": 21,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 260610,
       "num": 767677,
       "word": "大疆pocket4发布时间",
@@ -441,6 +465,14 @@
       "onboard_time": 1769137880,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218787,
+      "num": 218787,
+      "word": "网传好六团空降新人",
+      "onboard_time": 1769146762,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 214961,
@@ -547,7 +579,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176575,
+      "raw_hot": 176637,
       "num": 230298,
       "word": "儿童洗护品牌戴可思被立案调查",
       "onboard_time": 1769144481,
@@ -576,6 +608,14 @@
       "word": "牢A",
       "onboard_time": 1769085141,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169401,
+      "num": 169401,
+      "word": "女子要以身相许抵前男友欠款",
+      "onboard_time": 1769148620,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -625,6 +665,22 @@
       "onboard_time": 1769141480,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 150737,
+      "num": 167182,
+      "word": "苦内娱无历史大剧久矣",
+      "onboard_time": 1769149879,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 147644,
+      "num": 147644,
+      "word": "汪苏泷唯一一位有两次安可的歌手",
+      "onboard_time": 1769150001,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 145698,
@@ -731,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127012,
+      "num": 162308,
+      "word": "所有人都说猝死程序员明年能升总监",
+      "onboard_time": 1769149580,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125531,
       "num": 168187,
       "word": "特朗普为啥时隔一天态度变了",
@@ -755,12 +819,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123020,
+      "num": 123020,
+      "word": "飞驰人生3预告没有王安宇镜头",
+      "onboard_time": 1769149220,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 119831,
       "num": 157896,
       "word": "男子送养亲生子获4万元不构成犯罪",
       "onboard_time": 1769145681,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116949,
+      "num": 116949,
+      "word": "刘耀文收到张导的邀请就来了",
+      "onboard_time": 1769150001,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 114625,
@@ -835,14 +915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102767,
-      "num": 161722,
-      "word": "网传好六团空降新人",
-      "onboard_time": 1769146762,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 101723,
       "num": 116117,
       "word": "这个作者是真上过班",
@@ -857,6 +929,14 @@
       "onboard_time": 1769089221,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100949,
+      "num": 100949,
+      "word": "300万元一张的太空船票值得吗",
+      "onboard_time": 1769148439,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100836,
@@ -891,11 +971,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99330,
+      "num": 99330,
+      "word": "去年腾讯20余人涉嫌犯罪被移送警方",
+      "onboard_time": 1769149041,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 98696,
       "num": 175463,
       "word": "黄景瑜 太空旅游",
       "onboard_time": 1769088742,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 98033,
+      "num": 98033,
+      "word": "浪姐6在王珞丹评论区团建",
+      "onboard_time": 1769147599,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -987,6 +1083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 92491,
+      "num": 92491,
+      "word": "九十余人因触犯腾讯高压线被解聘",
+      "onboard_time": 1769150059,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 92364,
       "num": 92364,
       "word": "突然的喜欢 地球超新鲜",
@@ -1003,12 +1107,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91444,
+      "num": 125069,
+      "word": "郑钦文的网友们人均用上了AI助理",
+      "onboard_time": 1769150180,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91310,
       "num": 91310,
       "word": "快船战胜湖人",
       "onboard_time": 1769147181,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90918,
+      "num": 90918,
+      "word": "滑雪偶遇蒋敦豪和万妮达",
+      "onboard_time": 1769149580,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 90197,
@@ -1025,6 +1145,14 @@
       "onboard_time": 1769080699,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89821,
+      "num": 89821,
+      "word": "辛芷蕾的抬剧速度好快",
+      "onboard_time": 1769149101,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 89503,
@@ -1057,6 +1185,14 @@
       "onboard_time": 1769142441,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 86345,
+      "num": 86345,
+      "word": "美国正调集重兵前往伊朗",
+      "onboard_time": 1769148201,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 85481,
@@ -1097,6 +1233,14 @@
       "onboard_time": 1769139921,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 84142,
+      "num": 84142,
+      "word": "赵子豪乒乓精神永驻心中",
+      "onboard_time": 1769150600,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 84028,
@@ -1299,6 +1443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67262,
+      "num": 128230,
+      "word": "新国补到底怎么补",
+      "onboard_time": 1769150180,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67126,
       "num": 67126,
       "word": "特朗普起诉摩根大通",
@@ -1433,6 +1585,14 @@
       "onboard_time": 1769146461,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 57092,
+      "num": 163802,
+      "word": "喜人暴富神曲爆了",
+      "onboard_time": 1769148322,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 56883,
