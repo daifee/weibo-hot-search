@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769135731276,
+  "endTime": 1769141392128,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -169,6 +169,14 @@
       "onboard_time": 1768654162,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2732817,
+      "num": 153510,
+      "word": "女硕士被村民强奸时被儿子目击",
+      "onboard_time": 1769139140,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2704539,
@@ -1900,7 +1908,7 @@
     },
     {
       "raw_hot": 893250,
-      "num": 150990,
+      "num": 168198,
       "word": "演员表为啥越来越看不懂了",
       "onboard_time": 1769129361,
       "rank": 11,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768108641,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 803737,
-      "num": 135140,
-      "word": "戚薇女儿Luvky转眼长成大姑娘啦",
-      "onboard_time": 1769008641,
-      "rank": 20,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

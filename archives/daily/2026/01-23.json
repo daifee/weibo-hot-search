@@ -1,7 +1,15 @@
 {
   "startTime": 1769100257042,
-  "endTime": 1769135731276,
+  "endTime": 1769141392128,
   "band_list": [
+    {
+      "raw_hot": 2732817,
+      "num": 153510,
+      "word": "女硕士被村民强奸时被儿子目击",
+      "onboard_time": 1769139140,
+      "rank": 20,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1149237,
       "num": 151303,
@@ -12,11 +20,19 @@
     },
     {
       "raw_hot": 893250,
-      "num": 150990,
+      "num": 168198,
       "word": "演员表为啥越来越看不懂了",
       "onboard_time": 1769129361,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 707182,
+      "num": 172333,
+      "word": "吃火锅偶遇贾玲张小斐",
+      "onboard_time": 1769134879,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 622131,
@@ -43,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 539062,
+      "num": 1086249,
+      "word": "中国飞船首批20余位游客已预订",
+      "onboard_time": 1769136620,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 512156,
       "num": 380097,
       "word": "女子被一次性拔牙12颗后心梗休克",
@@ -52,11 +76,19 @@
     },
     {
       "raw_hot": 498331,
-      "num": 142934,
+      "num": 169793,
       "word": "金饰克价涨到1545元",
       "onboard_time": 1769132839,
       "rank": 16,
       "category": "财经"
+    },
+    {
+      "raw_hot": 493239,
+      "num": 170439,
+      "word": "方圆力挺阿爆",
+      "onboard_time": 1769139261,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 478129,
@@ -75,12 +107,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 441717,
+      "num": 775666,
+      "word": "不二之臣",
+      "onboard_time": 1769137939,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 387311,
       "num": 224512,
       "word": "王玉雯把猥琐劲儿给演出来了",
       "onboard_time": 1769128820,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 367320,
+      "num": 286415,
+      "word": "马年的梗还是太超前了",
+      "onboard_time": 1769137699,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 364171,
@@ -91,11 +139,43 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354908,
+      "num": 148474,
+      "word": "宋威龙 没忍住只因听见了爸爸",
+      "onboard_time": 1769137820,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 318058,
+      "num": 318058,
+      "word": "飞驰人生3范丞丞镜头",
+      "onboard_time": 1769136979,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 307443,
+      "num": 307443,
+      "word": "刘少林落选",
+      "onboard_time": 1769138180,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304857,
       "num": 143380,
       "word": "黄景瑜已经不满足只在内娱当兵了",
       "onboard_time": 1769123537,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 303379,
+      "num": 144618,
+      "word": "赵婷是宋丹丹的继女",
+      "onboard_time": 1769139081,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -147,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265045,
+      "num": 265045,
+      "word": "女子为孩子囤黄金投入90万收益200万",
+      "onboard_time": 1769140161,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 260610,
       "num": 767677,
       "word": "大疆pocket4发布时间",
@@ -155,20 +243,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 259723,
-      "num": 107759,
-      "word": "吃火锅偶遇贾玲张小斐",
-      "onboard_time": 1769134879,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 255335,
       "num": 181865,
       "word": "胖东来保洁员月薪9千永辉没学到",
       "onboard_time": 1769097680,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254463,
+      "num": 128320,
+      "word": "流浪在美国的中国女子",
+      "onboard_time": 1769139560,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 254183,
@@ -208,6 +296,30 @@
       "word": "女子用开水浇他人车玻璃测试会否炸裂",
       "onboard_time": 1769101277,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220069,
+      "num": 135000,
+      "word": "韩媒称车银优逃税天才",
+      "onboard_time": 1769137880,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 219967,
+      "num": 219967,
+      "word": "周扬青说现在有人配的上我了",
+      "onboard_time": 1769139441,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 217884,
+      "num": 167027,
+      "word": "同村村民猥亵患病女硕士的女儿",
+      "onboard_time": 1769140161,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -251,12 +363,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 195309,
+      "num": 195309,
+      "word": "米兰冬奥运动员公示",
+      "onboard_time": 1769132300,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190084,
       "num": 190084,
       "word": "星星人",
       "onboard_time": 1769091741,
       "rank": 5,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 184494,
+      "num": 165702,
+      "word": "视源股份回应程序员猝死",
+      "onboard_time": 1769140161,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182578,
@@ -267,12 +395,20 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 178639,
-      "num": 178639,
-      "word": "米兰冬奥运动员公示",
-      "onboard_time": 1769132300,
-      "rank": 8,
-      "category": "体育"
+      "raw_hot": 180319,
+      "num": 131594,
+      "word": "王鹤棣白鹿买菜路透",
+      "onboard_time": 1769139980,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 178139,
+      "num": 156612,
+      "word": "花千骨二番依旧出圈",
+      "onboard_time": 1769140281,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 173864,
@@ -283,6 +419,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 172635,
+      "num": 172635,
+      "word": "一人之下6终于开打了",
+      "onboard_time": 1769139980,
+      "rank": 9,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 170819,
       "num": 170819,
       "word": "牢A",
@@ -291,12 +435,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167707,
+      "num": 128925,
+      "word": "一栗小莎子回应疑似患淋巴瘤",
+      "onboard_time": 1769137398,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 163543,
       "num": 178636,
       "word": "重返狼群 拖欠稿费",
       "onboard_time": 1769087001,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 158116,
+      "num": 158116,
+      "word": "12306回应高铁车厢二氧化碳浓度超标",
+      "onboard_time": 1769139501,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153840,
@@ -313,6 +473,14 @@
       "onboard_time": 1769128159,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145509,
+      "num": 126120,
+      "word": "小城大事腾讯拉新倒数第一",
+      "onboard_time": 1769140039,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 144222,
@@ -363,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132411,
+      "num": 132411,
+      "word": "金价还能涨多少",
+      "onboard_time": 1769139199,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 129611,
       "num": 129611,
       "word": "2026米兰冬奥会",
@@ -395,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124454,
+      "num": 124454,
+      "word": "卢昱晓选本眼光",
+      "onboard_time": 1769138961,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114625,
       "num": 188585,
       "word": "六大行集体发布公告",
@@ -424,6 +608,14 @@
       "word": "官方通报环卫工戴电子工牌无处罚",
       "onboard_time": 1769133739,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105199,
+      "num": 105199,
+      "word": "猝死程序员所在公司发声",
+      "onboard_time": 1769139620,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -467,6 +659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 100690,
+      "num": 100690,
+      "word": "马斯克回应地球上有外星人",
+      "onboard_time": 1769138961,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 98696,
       "num": 175463,
       "word": "黄景瑜 太空旅游",
@@ -483,12 +683,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96004,
+      "num": 96004,
+      "word": "这个作者是真上过班",
+      "onboard_time": 1769138420,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95757,
       "num": 95757,
       "word": "重返狼群 怎么会有人被牛一板砖拍晕",
       "onboard_time": 1769091802,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 94606,
+      "num": 94606,
+      "word": "刘晓庆澄清恋爱数得过来",
+      "onboard_time": 1769138240,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 94571,
@@ -505,6 +721,14 @@
       "onboard_time": 1769133561,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93799,
+      "num": 93799,
+      "word": "以为的养老vs实际的养老",
+      "onboard_time": 1769138420,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 92364,
@@ -539,12 +763,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89503,
+      "num": 89503,
+      "word": "王励勤辞任上海乒协会长",
+      "onboard_time": 1769140761,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89461,
       "num": 168336,
       "word": "香港偶遇戚薇一家坐摩天轮",
       "onboard_time": 1769097680,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88360,
+      "num": 88360,
+      "word": "突然的喜欢女主就这样狮子小开口",
+      "onboard_time": 1769141180,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 88089,
@@ -715,6 +955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 71662,
+      "num": 164603,
+      "word": "林更新眼光绝了",
+      "onboard_time": 1769141000,
+      "rank": 16,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 70282,
       "num": 168257,
       "word": "林一回应陈星旭王玉雯这条是为谁发的",
@@ -729,6 +977,14 @@
       "onboard_time": 1769097859,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68616,
+      "num": 101946,
+      "word": "六位影后的七年之约",
+      "onboard_time": 1769140881,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 67126,
@@ -793,6 +1049,14 @@
       "onboard_time": 1769124558,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58952,
+      "num": 101592,
+      "word": "肖战北京春晚唱岁岁年年",
+      "onboard_time": 1769141361,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 58141,
@@ -1003,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34193,
+      "num": 100786,
+      "word": "家人称猝死程序员很喜欢代码",
+      "onboard_time": 1769140821,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33635,
       "num": 79721,
       "word": "侯明昊来安慰小朋友了",
@@ -1049,6 +1321,14 @@
       "onboard_time": 1769085199,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24146,
+      "num": 101019,
+      "word": "炽热吸引吻戏",
+      "onboard_time": 1769141241,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 22227,
