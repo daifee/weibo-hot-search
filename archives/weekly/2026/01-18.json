@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769193900580,
+  "endTime": 1769194759853,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -18739,6 +18739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56899,
+      "num": 56899,
+      "word": "U23国足vs日本",
+      "onboard_time": 1769191934,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56883,
       "num": 56883,
       "word": "李微漪最后几年找不到格林了",
@@ -19643,14 +19651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 40545,
-      "num": 40545,
-      "word": "U23国足vs日本",
-      "onboard_time": 1769191934,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 40442,
       "num": 182304,
       "word": "小城大事高光全在男主身上",
@@ -20227,6 +20227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30894,
+      "num": 30894,
+      "word": "王王队后台暴打杜海涛",
+      "onboard_time": 1769191156,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 30778,
       "num": 92174,
       "word": "剥茧",
@@ -20305,14 +20313,6 @@
       "onboard_time": 1768915222,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29499,
-      "num": 29499,
-      "word": "王王队后台暴打杜海涛",
-      "onboard_time": 1769191156,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 29453,
@@ -21001,6 +21001,14 @@
       "onboard_time": 1768910842,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 19959,
+      "num": 19959,
+      "word": "太平年好混乱的年代",
+      "onboard_time": 1769194335,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 19943,
