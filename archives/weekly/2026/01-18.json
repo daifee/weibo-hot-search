@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769164482872,
+  "endTime": 1769165540339,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -843,6 +843,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 708767,
+      "num": 1113402,
+      "word": "老鼠干火到美国了",
+      "onboard_time": 1769162660,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 708113,
       "num": 708113,
       "word": "卖霉豆腐已经有人实操上了",
@@ -1217,14 +1225,6 @@
       "onboard_time": 1768727120,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 607335,
-      "num": 1097173,
-      "word": "老鼠干火到美国了",
-      "onboard_time": 1769162660,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 604894,
@@ -1819,6 +1819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 492768,
+      "num": 230296,
+      "word": "俄罗斯客机在中国上空发出求救信号",
+      "onboard_time": 1769163861,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 491253,
       "num": 388184,
       "word": "向涵之瘦下来好像钟楚曦",
@@ -2155,6 +2163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 441551,
+      "num": 227570,
+      "word": "贝克汉姆给大儿子的礼物",
+      "onboard_time": 1769163620,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 441125,
       "num": 441125,
       "word": "影视项目 全男戏",
@@ -2409,6 +2425,14 @@
       "onboard_time": 1768806261,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 407672,
+      "num": 213942,
+      "word": "李嘉诚 无畏契约封号",
+      "onboard_time": 1769162541,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 406201,
@@ -2763,6 +2787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 374208,
+      "num": 806395,
+      "word": "Lululemon新款瑜伽裤太透明被下架",
+      "onboard_time": 1769164461,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 372606,
       "num": 231083,
       "word": "猝死程序员日记写努力努力再努力",
@@ -2945,6 +2977,14 @@
       "onboard_time": 1768871001,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 357398,
+      "num": 238737,
+      "word": "开门杀撞飞外卖员后先看车门",
+      "onboard_time": 1769163260,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 357227,
@@ -3164,7 +3204,7 @@
     },
     {
       "raw_hot": 336005,
-      "num": 200230,
+      "num": 208878,
       "word": "王梓薇回应瘦了50斤",
       "onboard_time": 1769160742,
       "rank": 40,
@@ -3633,14 +3673,6 @@
       "onboard_time": 1768986440,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 297332,
-      "num": 131237,
-      "word": "李嘉诚 无畏契约封号",
-      "onboard_time": 1769162541,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 296076,
@@ -4540,7 +4572,7 @@
     },
     {
       "raw_hot": 243773,
-      "num": 127814,
+      "num": 206028,
       "word": "代旭居然是宋轶张睿陈小芸同班同学",
       "onboard_time": 1769162419,
       "rank": 30,
@@ -4937,14 +4969,6 @@
       "onboard_time": 1769048840,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 224975,
-      "num": 173319,
-      "word": "贝克汉姆给大儿子的礼物",
-      "onboard_time": 1769163620,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 224922,
@@ -5555,6 +5579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202921,
+      "num": 202921,
+      "word": "大学时期的卢昱晓",
+      "onboard_time": 1769164641,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202864,
       "num": 202864,
       "word": "穆祉丞高会",
@@ -5745,14 +5777,6 @@
       "onboard_time": 1768882461,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 199258,
-      "num": 173112,
-      "word": "俄罗斯客机在中国上空发出求救信号",
-      "onboard_time": 1769163861,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 199121,
@@ -5988,7 +6012,7 @@
     },
     {
       "raw_hot": 191713,
-      "num": 191713,
+      "num": 232626,
       "word": "T1战胜KT",
       "onboard_time": 1769162660,
       "rank": 4,
@@ -7107,6 +7131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162847,
+      "num": 211601,
+      "word": "zz9 前女友",
+      "onboard_time": 1769162360,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 162700,
       "num": 162700,
       "word": "贾玲晒米兰时装秀照片",
@@ -7796,7 +7828,7 @@
     },
     {
       "raw_hot": 148486,
-      "num": 146344,
+      "num": 146767,
       "word": "王安宇 人不可手相",
       "onboard_time": 1769161040,
       "rank": 46,
@@ -7817,6 +7849,14 @@
       "onboard_time": 1769083579,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 148283,
+      "num": 224833,
+      "word": "猝死程序员妻子不想他连死都没有价值",
+      "onboard_time": 1769163560,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148272,
@@ -7889,6 +7929,14 @@
       "onboard_time": 1768723942,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147317,
+      "num": 147317,
+      "word": "儿子打视频要钱女友现身父亲秒变脸",
+      "onboard_time": 1769164761,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147306,
@@ -8097,14 +8145,6 @@
       "onboard_time": 1769127500,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 144041,
-      "num": 126753,
-      "word": "zz9 前女友",
-      "onboard_time": 1769162360,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 143952,
@@ -8649,14 +8689,6 @@
       "onboard_time": 1769147181,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134123,
-      "num": 134123,
-      "word": "开门杀撞飞外卖员后先看车门",
-      "onboard_time": 1769163260,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134099,
@@ -9368,6 +9400,14 @@
       "word": "孔雪儿满分女人",
       "onboard_time": 1768828522,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 125157,
+      "num": 125157,
+      "word": "偶遇白敬亭滑雪",
+      "onboard_time": 1769164761,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -10780,7 +10820,7 @@
     },
     {
       "raw_hot": 110420,
-      "num": 110420,
+      "num": 125427,
       "word": "KT远古龙都打不过T1",
       "onboard_time": 1769163799,
       "rank": 44,
@@ -10873,6 +10913,14 @@
       "onboard_time": 1769135660,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 109954,
+      "num": 137080,
+      "word": "长生正式确诊为水母",
+      "onboard_time": 1769162600,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 109908,
@@ -12355,6 +12403,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 98716,
+      "num": 98716,
+      "word": "赵今麦刘浩存活动生图",
+      "onboard_time": 1769164161,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 98707,
       "num": 98707,
       "word": "刘宇陈卓璇化雪冬日宿命感",
@@ -12393,14 +12449,6 @@
       "onboard_time": 1768734022,
       "rank": 33,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 98518,
-      "num": 98518,
-      "word": "赵今麦刘浩存活动生图",
-      "onboard_time": 1769164161,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 98510,
@@ -12641,6 +12689,14 @@
       "onboard_time": 1768817962,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97179,
+      "num": 97179,
+      "word": "白鹿 朝你走来的明媚姐姐",
+      "onboard_time": 1769165423,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 97154,
@@ -13779,6 +13835,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 90788,
+      "num": 93448,
+      "word": "U23国足主帅称明天会让特别的事发生",
+      "onboard_time": 1769164881,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90760,
       "num": 90760,
       "word": "焦虑的原因就两条",
@@ -14273,6 +14337,14 @@
       "onboard_time": 1768986381,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 87261,
+      "num": 91776,
+      "word": "操纵67个账户被罚没超10亿",
+      "onboard_time": 1769165362,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87219,
@@ -15476,7 +15548,7 @@
     },
     {
       "raw_hot": 80696,
-      "num": 128359,
+      "num": 179716,
       "word": "享界量价齐飞突破豪华轿车核心区",
       "onboard_time": 1769162660,
       "rank": 29,
@@ -17123,14 +17195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64185,
-      "num": 135449,
-      "word": "猝死程序员妻子不想他连死都没有价值",
-      "onboard_time": 1769163560,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64135,
       "num": 86155,
       "word": "鸿蒙智行辟谣尊界S800起火事件",
@@ -17707,6 +17771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55362,
+      "num": 121653,
+      "word": "黄景瑜 上天看看上帝笑没笑",
+      "onboard_time": 1769164280,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 55219,
       "num": 99015,
       "word": "中核集团原总经理顾军被查",
@@ -17817,6 +17889,14 @@
       "onboard_time": 1768831943,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53289,
+      "num": 215906,
+      "word": "影视飓风说荣耀Air是独一档",
+      "onboard_time": 1769164699,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 52837,
@@ -18347,14 +18427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43044,
-      "num": 121653,
-      "word": "黄景瑜 上天看看上帝笑没笑",
-      "onboard_time": 1769164280,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 43000,
       "num": 43000,
       "word": "电影得闲谨制",
@@ -18588,7 +18660,7 @@
     },
     {
       "raw_hot": 38846,
-      "num": 642466,
+      "num": 651892,
       "word": "我国地理标志产品直接年产值接近1万亿元",
       "onboard_time": 1769158521,
       "rank": 2,
@@ -18745,6 +18817,14 @@
       "onboard_time": 1768794921,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36255,
+      "num": 126951,
+      "word": "迅猛龙弟弟也是学霸",
+      "onboard_time": 1769165120,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 36230,
@@ -19865,6 +19945,14 @@
       "onboard_time": 1769070802,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18951,
+      "num": 91467,
+      "word": "冬日羽绒服fitcheck",
+      "onboard_time": 1769165241,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 18890,
