@@ -1,0 +1,410 @@
+{
+  "runTime": 1769173331890,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 304137,
+        "num": 1048661,
+        "word": "亲爱的客栈",
+        "onboard_time": 1769165661,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263807,
+        "num": 758957,
+        "word": "国足赢一场就回家",
+        "onboard_time": 1769170581,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56679,
+        "num": 587154,
+        "word": "新国补到底怎么补",
+        "onboard_time": 1769150180,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282847,
+        "num": 282847,
+        "word": "离彭于晏近了付航面相都变了",
+        "onboard_time": 1769169201,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207027,
+        "num": 207027,
+        "word": "尘白禁区",
+        "onboard_time": 1769169320,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194336,
+        "num": 206931,
+        "word": "王鹤棣依偎在白鹿肩上",
+        "onboard_time": 1769171900,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129242,
+        "num": 206794,
+        "word": "操纵67个账户被罚没超10亿",
+        "onboard_time": 1769165362,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123651,
+        "num": 206678,
+        "word": "U23",
+        "onboard_time": 1769162181,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76114,
+        "num": 206582,
+        "word": "书源春季赛三连MVP",
+        "onboard_time": 1769170639,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 70996,
+        "num": 206451,
+        "word": "美国十几个州进入紧急状态",
+        "onboard_time": 1769172261,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 821405,
+        "num": 206358,
+        "word": "苹果用户的天塌了",
+        "onboard_time": 1769155100,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 401706,
+        "num": 206167,
+        "word": "TF二代吻戏第一人",
+        "onboard_time": 1769167580,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70785,
+        "num": 206087,
+        "word": "多地中小学取消非毕业年级期末统考",
+        "onboard_time": 1769151080,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 396657,
+        "num": 205913,
+        "word": "泰一家16人跟团游哈尔滨回国报警",
+        "onboard_time": 1769167520,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 362786,
+        "num": 205858,
+        "word": "卢昱晓战国袍造型",
+        "onboard_time": 1769169981,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229205,
+        "num": 205674,
+        "word": "猝死程序员赔39万妻子只拿4到6万",
+        "onboard_time": 1769166981,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215385,
+        "num": 205587,
+        "word": "格林不在了",
+        "onboard_time": 1769155161,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205527,
+        "num": 205527,
+        "word": "登陆少年直播",
+        "onboard_time": 1769171421,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202093,
+        "num": 202093,
+        "word": "贝克汉姆给大儿子的礼物",
+        "onboard_time": 1769163620,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182606,
+        "num": 182606,
+        "word": "痞幼去恋综不敢告诉方圆",
+        "onboard_time": 1769165901,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 368577,
+        "num": 182405,
+        "word": "Lululemon新款瑜伽裤太透明被下架",
+        "onboard_time": 1769164461,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287842,
+        "num": 182398,
+        "word": "老鼠干火到美国了",
+        "onboard_time": 1769162660,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125901,
+        "num": 182139,
+        "word": "以后道歉请按照这个标准来",
+        "onboard_time": 1769165781,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181990,
+        "num": 181990,
+        "word": "李嘉诚 无畏契约封号",
+        "onboard_time": 1769162541,
+        "rank": 23,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 170452,
+        "num": 170452,
+        "word": "太平年",
+        "onboard_time": 1769170460,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125641,
+        "num": 154037,
+        "word": "儿子打视频要钱女友现身父亲秒变脸",
+        "onboard_time": 1769164761,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124617,
+        "num": 153076,
+        "word": "猝死程序员家属称找的律师都不想接",
+        "onboard_time": 1769160141,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152217,
+        "num": 152217,
+        "word": "分不清张杰是退场还是上场了",
+        "onboard_time": 1769172802,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104121,
+        "num": 140164,
+        "word": "金价暴涨黄金存款被爆买",
+        "onboard_time": 1769169440,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 67456,
+        "num": 135398,
+        "word": "金价疯涨原因",
+        "onboard_time": 1769154800,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134051,
+        "num": 134051,
+        "word": "最强大脑",
+        "onboard_time": 1769172621,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136970,
+        "num": 133684,
+        "word": "这么耗电的东西只敢上班用",
+        "onboard_time": 1769172921,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128765,
+        "num": 128765,
+        "word": "海底捞 点炮制度",
+        "onboard_time": 1769172802,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115641,
+        "num": 115641,
+        "word": "鹿晗昨天是小狗今天是小猫",
+        "onboard_time": 1769171540,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9099,
+        "num": 108289,
+        "word": "刘润说终于有硅谷抄不来的AI了",
+        "onboard_time": 1769173280,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 106763,
+        "num": 106763,
+        "word": "中国抗冻省份排名TOP10",
+        "onboard_time": 1769172022,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106707,
+        "num": 106707,
+        "word": "美国的寄养家庭太地狱了",
+        "onboard_time": 1769167641,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 102956,
+        "num": 102956,
+        "word": "黄金高位突发跳水",
+        "onboard_time": 1769172261,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 104813,
+        "num": 102679,
+        "word": "张杰成都演唱会",
+        "onboard_time": 1769166561,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100291,
+        "num": 100291,
+        "word": "李现这个状态快抓去演现偶",
+        "onboard_time": 1769168061,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89484,
+        "num": 99845,
+        "word": "鸣潮",
+        "onboard_time": 1769172621,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99669,
+        "num": 99669,
+        "word": "苏新皓杨博文舞台纯享版",
+        "onboard_time": 1769172201,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95516,
+        "num": 95516,
+        "word": "车银优宋慧乔被称为逃税情侣",
+        "onboard_time": 1769148142,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79797,
+        "num": 89757,
+        "word": "人类精子有个神秘的衰老时钟",
+        "onboard_time": 1769172921,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 89285,
+        "num": 89285,
+        "word": "白鹿想吃贾冰做的饭",
+        "onboard_time": 1769171540,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88695,
+        "num": 88695,
+        "word": "肖战直拍完全白马王子",
+        "onboard_time": 1769170040,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77759,
+        "num": 83879,
+        "word": "当中国大学生得知美国大学的学费时",
+        "onboard_time": 1769170281,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80484,
+        "num": 80484,
+        "word": "爆水管",
+        "onboard_time": 1769172261,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 64854,
+        "num": 80000,
+        "word": "朱易自由滑115.01分",
+        "onboard_time": 1769173280,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58525,
+        "num": 79907,
+        "word": "不得向未成年人推送的网络信息",
+        "onboard_time": 1769172741,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同卢拉通电话#"
+    }
+  }
+}
