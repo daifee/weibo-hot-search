@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769207215914,
+  "endTime": 1769208332950,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -6979,6 +6979,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 173796,
+      "num": 500463,
+      "word": "U23国足vs日本",
+      "onboard_time": 1769191934,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173549,
       "num": 173549,
       "word": "牢A详解糖霜苹果",
@@ -8793,14 +8801,6 @@
       "onboard_time": 1768887500,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139723,
-      "num": 392425,
-      "word": "U23国足vs日本",
-      "onboard_time": 1769191934,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 139691,
@@ -18611,6 +18611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58578,
+      "num": 78121,
+      "word": "LPL",
+      "onboard_time": 1769183541,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 58525,
       "num": 79907,
       "word": "不得向未成年人推送的网络信息",
@@ -18889,14 +18897,6 @@
       "onboard_time": 1768691956,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54282,
-      "num": 78121,
-      "word": "LPL",
-      "onboard_time": 1769183541,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 54162,
@@ -19617,6 +19617,14 @@
       "onboard_time": 1769096541,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41431,
+      "num": 25385,
+      "word": "医生称淋巴瘤和恶性癌症是等同的",
+      "onboard_time": 1769207534,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 41336,
@@ -20443,6 +20451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27472,
+      "num": 27472,
+      "word": "小伙录节目偶遇15年前的恩人",
+      "onboard_time": 1769206875,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27433,
       "num": 131453,
       "word": "一些幽灵外卖商家厨房肮脏不堪",
@@ -21099,6 +21115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19287,
+      "num": 22616,
+      "word": "与日本决赛在即中领馆发安全提醒",
+      "onboard_time": 1769197153,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 19194,
       "num": 110960,
       "word": "文俊辉镖人打戏",
@@ -21171,16 +21195,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18516,
-      "num": 19021,
-      "word": "小伙录节目偶遇15年前的恩人",
-      "onboard_time": 1769206875,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 18401,
-      "num": 21218,
+      "num": 22547,
       "word": "刘宇宁录制北京春晚",
       "onboard_time": 1769193495,
       "rank": 48,
@@ -21259,14 +21275,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 17161,
-      "num": 22457,
-      "word": "与日本决赛在即中领馆发安全提醒",
-      "onboard_time": 1769197153,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 17117,
       "num": 40265,
       "word": "现实中真的有人一直被宠",
@@ -21340,7 +21348,7 @@
     },
     {
       "raw_hot": 15747,
-      "num": 22515,
+      "num": 22567,
       "word": "日本国会一开幕就解散众议院",
       "onboard_time": 1769196435,
       "rank": 45,
