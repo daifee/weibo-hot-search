@@ -1,6 +1,6 @@
 {
   "startTime": 1769100257042,
-  "endTime": 1769161976423,
+  "endTime": 1769164482872,
   "band_list": [
     {
       "raw_hot": 2732817,
@@ -113,6 +113,14 @@
       "onboard_time": 1769125940,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 607335,
+      "num": 1097173,
+      "word": "老鼠干火到美国了",
+      "onboard_time": 1769162660,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 584632,
@@ -291,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 377938,
+      "num": 377938,
+      "word": "王鹤棣白鹿买了一车东西",
+      "onboard_time": 1769162001,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 376849,
       "num": 1060295,
       "word": "多地中小学取消非毕业年级期末统考",
@@ -347,12 +363,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 336005,
+      "num": 200230,
+      "word": "王梓薇回应瘦了50斤",
+      "onboard_time": 1769160742,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 331574,
       "num": 331574,
       "word": "小城大事腾讯拉新倒数第一",
       "onboard_time": 1769140039,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 323553,
+      "num": 467741,
+      "word": "声生不息放了肖战唱的整晚的音乐",
+      "onboard_time": 1769161940,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 318058,
@@ -384,6 +416,14 @@
       "word": "黄景瑜已经不满足只在内娱当兵了",
       "onboard_time": 1769123537,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 297332,
+      "num": 131237,
+      "word": "李嘉诚 无畏契约封号",
+      "onboard_time": 1769162541,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -427,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283904,
+      "num": 818482,
+      "word": "U23",
+      "onboard_time": 1769162181,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283791,
       "num": 528009,
       "word": "周扬青说现在有人配的上我了",
@@ -457,6 +505,14 @@
       "onboard_time": 1769123957,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 270996,
+      "num": 479474,
+      "word": "邓佳鑫被批不是偶像团体中最火的",
+      "onboard_time": 1769161461,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 269167,
@@ -555,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243773,
+      "num": 127814,
+      "word": "代旭居然是宋轶张睿陈小芸同班同学",
+      "onboard_time": 1769162419,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242327,
       "num": 540830,
       "word": "牢A称没见过美国底层成功逆袭",
@@ -611,6 +675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 224975,
+      "num": 173319,
+      "word": "贝克汉姆给大儿子的礼物",
+      "onboard_time": 1769163620,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 224345,
       "num": 224345,
       "word": "LGDNBW对战WE",
@@ -632,6 +704,14 @@
       "word": "王石首次公开回应婚变传闻",
       "onboard_time": 1769129601,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220828,
+      "num": 487459,
+      "word": "夫妻吵架将俩年幼孩子留酒店后失联",
+      "onboard_time": 1769160801,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -707,14 +787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200230,
-      "num": 200230,
-      "word": "王梓薇回应瘦了50斤",
-      "onboard_time": 1769160742,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199951,
       "num": 168422,
       "word": "养了2年的儿子竟是女儿身",
@@ -729,6 +801,14 @@
       "onboard_time": 1769091623,
       "rank": 1,
       "category": "财经"
+    },
+    {
+      "raw_hot": 199258,
+      "num": 173112,
+      "word": "俄罗斯客机在中国上空发出求救信号",
+      "onboard_time": 1769163861,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 195656,
@@ -753,6 +833,14 @@
       "onboard_time": 1769151380,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191713,
+      "num": 191713,
+      "word": "T1战胜KT",
+      "onboard_time": 1769162660,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 190084,
@@ -931,6 +1019,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148486,
+      "num": 146344,
+      "word": "王安宇 人不可手相",
+      "onboard_time": 1769161040,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148201,
+      "num": 148201,
+      "word": "芒果的人脉",
+      "onboard_time": 1769162660,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147644,
       "num": 147644,
       "word": "汪苏泷唯一一位有两次安可的歌手",
@@ -955,14 +1059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146344,
-      "num": 146344,
-      "word": "王安宇 人不可手相",
-      "onboard_time": 1769161040,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 145698,
       "num": 212317,
       "word": "金价还能涨多少",
@@ -977,6 +1073,14 @@
       "onboard_time": 1769127500,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144041,
+      "num": 126753,
+      "word": "zz9 前女友",
+      "onboard_time": 1769162360,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 143952,
@@ -1043,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134123,
+      "num": 134123,
+      "word": "开门杀撞飞外卖员后先看车门",
+      "onboard_time": 1769163260,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133768,
       "num": 156596,
       "word": "阿里巴巴市值大涨2000亿",
@@ -1064,14 +1176,6 @@
       "word": "猝死程序员所在公司发声",
       "onboard_time": 1769139620,
       "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132049,
-      "num": 487459,
-      "word": "夫妻吵架将俩年幼孩子留酒店后失联",
-      "onboard_time": 1769160801,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -1241,6 +1345,22 @@
       "onboard_time": 1769154201,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110420,
+      "num": 110420,
+      "word": "KT远古龙都打不过T1",
+      "onboard_time": 1769163799,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 110022,
+      "num": 110022,
+      "word": "牢A高强度回复网友提问",
+      "onboard_time": 1769162120,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109968,
@@ -1451,11 +1571,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98518,
+      "num": 98518,
+      "word": "赵今麦刘浩存活动生图",
+      "onboard_time": 1769164161,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 98458,
       "num": 126114,
       "word": "开推团包场白宇太平年",
       "onboard_time": 1769151440,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 98147,
+      "num": 167730,
+      "word": "突然的喜欢",
+      "onboard_time": 1769076500,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -1657,14 +1793,6 @@
       "onboard_time": 1769147181,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91071,
-      "num": 479474,
-      "word": "邓佳鑫被批不是偶像团体中最火的",
-      "onboard_time": 1769161461,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 90918,
@@ -1891,14 +2019,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 82604,
-      "num": 467741,
-      "word": "声生不息放了肖战唱的整晚的音乐",
-      "onboard_time": 1769161940,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 82094,
       "num": 173231,
       "word": "林孝埈圆梦米兰冬奥",
@@ -1913,6 +2033,14 @@
       "onboard_time": 1769158641,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 80696,
+      "num": 128359,
+      "word": "享界量价齐飞突破豪华轿车核心区",
+      "onboard_time": 1769162660,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 80409,
@@ -2155,6 +2283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64185,
+      "num": 135449,
+      "word": "猝死程序员妻子不想他连死都没有价值",
+      "onboard_time": 1769163560,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62179,
       "num": 173202,
       "word": "地球出现6小时特大地磁暴",
@@ -2315,6 +2451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 50065,
+      "num": 173735,
+      "word": "外交部回应英国首相是否将访华",
+      "onboard_time": 1769163260,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 49052,
       "num": 314491,
       "word": "日本众议院正式解散",
@@ -2345,14 +2489,6 @@
       "onboard_time": 1769074222,
       "rank": 40,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 45751,
-      "num": 167730,
-      "word": "突然的喜欢",
-      "onboard_time": 1769076500,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 45248,
@@ -2419,6 +2555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43044,
+      "num": 121653,
+      "word": "黄景瑜 上天看看上帝笑没笑",
+      "onboard_time": 1769164280,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 42716,
       "num": 167646,
       "word": "iPhoneFold售价曝光",
@@ -2467,6 +2611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 38846,
+      "num": 642466,
+      "word": "我国地理标志产品直接年产值接近1万亿元",
+      "onboard_time": 1769158521,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38086,
       "num": 38086,
       "word": "特朗普在达沃斯启动和平委员会",
@@ -2481,14 +2633,6 @@
       "onboard_time": 1769075600,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 35630,
-      "num": 609211,
-      "word": "我国地理标志产品直接年产值接近1万亿元",
-      "onboard_time": 1769158521,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34376,
@@ -2579,6 +2723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22516,
+      "num": 119876,
+      "word": "日本内阁府公务车闯红灯致1死8伤",
+      "onboard_time": 1769163920,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 22468,
       "num": 84407,
       "word": "网友接兼职上门给年糕换水",
@@ -2601,6 +2753,14 @@
       "onboard_time": 1769104396,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20980,
+      "num": 117843,
+      "word": "女子被前夫杀害案未当庭宣判",
+      "onboard_time": 1769163260,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20916,
