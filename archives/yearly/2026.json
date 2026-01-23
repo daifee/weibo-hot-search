@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769176780298,
+  "endTime": 1769178872901,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -939,6 +939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1184276,
+      "num": 759953,
+      "word": "海底捞 点炮制度",
+      "onboard_time": 1769172802,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1183637,
       "num": 1409771,
       "word": "跨年",
@@ -1235,6 +1243,14 @@
       "category": "国际时政,休闲"
     },
     {
+      "raw_hot": 1065838,
+      "num": 466390,
+      "word": "太平年 吃人",
+      "onboard_time": 1769175200,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1063554,
       "num": 346607,
       "word": "帕梅拉胖了6公斤",
@@ -1249,14 +1265,6 @@
       "onboard_time": 1768559182,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1061590,
-      "num": 759953,
-      "word": "海底捞 点炮制度",
-      "onboard_time": 1769172802,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1059339,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767690320,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 810815,
-      "num": 293596,
-      "word": "女生游黄山高坠死亡谁呼出的电话",
-      "onboard_time": 1767602061,
-      "rank": 18,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

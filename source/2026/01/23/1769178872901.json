@@ -1,0 +1,410 @@
+{
+  "runTime": 1769178872901,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 357811,
+        "num": 1057249,
+        "word": "太平年",
+        "onboard_time": 1769170460,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353904,
+        "num": 787725,
+        "word": "央视转播U23国足与日本比赛",
+        "onboard_time": 1769176642,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16100,
+        "num": 582631,
+        "word": "冰雪春天",
+        "onboard_time": 1769142382,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1184276,
+        "num": 548684,
+        "word": "海底捞 点炮制度",
+        "onboard_time": 1769172802,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217081,
+        "num": 217081,
+        "word": "国足赢一场就回家",
+        "onboard_time": 1769170581,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193003,
+        "num": 216536,
+        "word": "就这样和张杰擦肩而过了",
+        "onboard_time": 1769174602,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181170,
+        "num": 216202,
+        "word": "最强大脑",
+        "onboard_time": 1769172621,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179173,
+        "num": 215697,
+        "word": "朱易自由滑115.01分",
+        "onboard_time": 1769173280,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146267,
+        "num": 214889,
+        "word": "RW对战狼队",
+        "onboard_time": 1769178022,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 35837,
+        "num": 214023,
+        "word": "外交部回应中美元首互访传闻",
+        "onboard_time": 1769178022,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1065838,
+        "num": 213685,
+        "word": "太平年 吃人",
+        "onboard_time": 1769175200,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 841664,
+        "num": 212714,
+        "word": "苹果用户的天塌了",
+        "onboard_time": 1769155100,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 690724,
+        "num": 212061,
+        "word": "太平年尺度",
+        "onboard_time": 1769174900,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 665273,
+        "num": 211566,
+        "word": "季节 誓约",
+        "onboard_time": 1769177422,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134162,
+        "num": 210732,
+        "word": "可可托海宝石沟雪豹袭击游客",
+        "onboard_time": 1769176163,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 506534,
+        "num": 210276,
+        "word": "黄景瑜上太空 王一博天塌了",
+        "onboard_time": 1769174481,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485614,
+        "num": 209465,
+        "word": "26岁工程师家里熟睡中猝死",
+        "onboard_time": 1769175561,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 434805,
+        "num": 209092,
+        "word": "马龙樊振东王楚钦聚餐画面",
+        "onboard_time": 1769176102,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 342397,
+        "num": 208252,
+        "word": "腾讯2025新增永不合作公司名单",
+        "onboard_time": 1769173582,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 19104,
+        "num": 207519,
+        "word": "默茨称中国已成世界大国",
+        "onboard_time": 1769178203,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 243115,
+        "num": 207176,
+        "word": "卢昱晓战国袍造型",
+        "onboard_time": 1769169981,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239643,
+        "num": 206341,
+        "word": "Lululemon新款瑜伽裤太透明被下架",
+        "onboard_time": 1769164461,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233250,
+        "num": 206038,
+        "word": "TF二代吻戏第一人",
+        "onboard_time": 1769167580,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205470,
+        "num": 205470,
+        "word": "张晚意独自从北京自驾到厦门",
+        "onboard_time": 1769173582,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163670,
+        "num": 163670,
+        "word": "泰一家16人跟团游哈尔滨回国报警",
+        "onboard_time": 1769167520,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 187305,
+        "num": 153906,
+        "word": "张杰不再参加任何需要投票的活动",
+        "onboard_time": 1769178741,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139246,
+        "num": 139246,
+        "word": "张信哲问邓佳鑫谈过几次恋爱",
+        "onboard_time": 1769174301,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124026,
+        "num": 139034,
+        "word": "韩国最大在野党党首张东赫绝食8天",
+        "onboard_time": 1769178262,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138991,
+        "num": 138991,
+        "word": "赵今麦miumiu活动出图",
+        "onboard_time": 1769177361,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 135583,
+        "num": 135583,
+        "word": "格林不在了",
+        "onboard_time": 1769155161,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121988,
+        "num": 135378,
+        "word": "人类精子有个神秘的衰老时钟",
+        "onboard_time": 1769172921,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135189,
+        "num": 135189,
+        "word": "娄云皓淘汰",
+        "onboard_time": 1769177841,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125723,
+        "num": 125723,
+        "word": "亲爱的客栈",
+        "onboard_time": 1769165661,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119074,
+        "num": 119074,
+        "word": "孙颖莎与邱贻可指导聚餐",
+        "onboard_time": 1769176521,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115502,
+        "num": 115502,
+        "word": "贝克汉姆给大儿子的礼物",
+        "onboard_time": 1769163620,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109877,
+        "num": 109877,
+        "word": "哥哥愤怒张某目睹女硕士被强奸不报警",
+        "onboard_time": 1769175621,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98640,
+        "num": 98640,
+        "word": "猝死程序员赔39万妻子只拿4到6万",
+        "onboard_time": 1769166981,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98066,
+        "num": 98066,
+        "word": "白银有色预计净亏损超4.5亿",
+        "onboard_time": 1769178142,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 95654,
+        "num": 95654,
+        "word": "郑恺过年想送岳父一头牛",
+        "onboard_time": 1769178381,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92139,
+        "num": 95113,
+        "word": "招商银行2025年净利润1501.81亿元",
+        "onboard_time": 1769175922,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 94794,
+        "num": 94794,
+        "word": "文俊辉 尬住了",
+        "onboard_time": 1769177062,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91645,
+        "num": 91645,
+        "word": "王玉雯说敖瑞鹏卢昱晓鞠婧祎很抽象",
+        "onboard_time": 1769178502,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91617,
+        "num": 91617,
+        "word": "老外看不懂中国字但被震撼",
+        "onboard_time": 1769177242,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90495,
+        "num": 90495,
+        "word": "登陆少年直播",
+        "onboard_time": 1769171421,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90251,
+        "num": 90251,
+        "word": "黄金高位突发跳水",
+        "onboard_time": 1769172261,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 90059,
+        "num": 90059,
+        "word": "老鼠干火到美国了",
+        "onboard_time": 1769162660,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89647,
+        "num": 89647,
+        "word": "徐冬冬尹子维早生贵子具象化",
+        "onboard_time": 1769178741,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88679,
+        "num": 88679,
+        "word": "家猫在异国流浪5个月回到家中",
+        "onboard_time": 1769176822,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 87480,
+        "num": 87480,
+        "word": "可可托海 雪豹",
+        "onboard_time": 1769175981,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86080,
+        "num": 86080,
+        "word": "怎么说服侯明昊拍这个的",
+        "onboard_time": 1769178802,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺苏林#"
+    }
+  }
+}
