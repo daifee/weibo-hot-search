@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769173331890,
+  "endTime": 1769174223135,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -6371,6 +6371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 501379,
+      "num": 206497,
+      "word": "海底捞 点炮制度",
+      "onboard_time": 1769172802,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 501262,
       "num": 501262,
       "word": "春晚彩排路透",
@@ -10500,7 +10508,7 @@
     },
     {
       "raw_hot": 362786,
-      "num": 205858,
+      "num": 206265,
       "word": "卢昱晓战国袍造型",
       "onboard_time": 1769169981,
       "rank": 14,
@@ -12569,6 +12577,14 @@
       "onboard_time": 1767763101,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 315922,
+      "num": 1050547,
+      "word": "国足赢一场就回家",
+      "onboard_time": 1769170581,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 315751,
@@ -15659,14 +15675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 263807,
-      "num": 758957,
-      "word": "国足赢一场就回家",
-      "onboard_time": 1769170581,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 263768,
       "num": 286810,
       "word": "卡拉胶 胰岛素抵抗",
@@ -15945,6 +15953,14 @@
       "onboard_time": 1768992141,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 259709,
+      "num": 259709,
+      "word": "王鹤棣依偎在白鹿肩上",
+      "onboard_time": 1769171900,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 259552,
@@ -17980,7 +17996,7 @@
     },
     {
       "raw_hot": 229205,
-      "num": 205674,
+      "num": 206049,
       "word": "猝死程序员赔39万妻子只拿4到6万",
       "onboard_time": 1769166981,
       "rank": 16,
@@ -18993,6 +19009,14 @@
       "onboard_time": 1769146762,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218748,
+      "num": 206088,
+      "word": "腾讯2025新增永不合作公司名单",
+      "onboard_time": 1769173582,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 218738,
@@ -21883,14 +21907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194336,
-      "num": 206931,
-      "word": "王鹤棣依偎在白鹿肩上",
-      "onboard_time": 1769171900,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194307,
       "num": 194307,
       "word": "强奸幼女被判8年医生父亲是检察官",
@@ -22097,6 +22113,14 @@
       "onboard_time": 1768121000,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 193195,
+      "num": 173962,
+      "word": "张晚意独自从北京自驾到厦门",
+      "onboard_time": 1769173582,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 193133,
@@ -27379,6 +27403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161255,
+      "num": 161255,
+      "word": "分不清张杰是退场还是上场了",
+      "onboard_time": 1769172802,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 161202,
       "num": 161202,
       "word": "贺娇龙称没有尽到妻子的责任义务",
@@ -29153,14 +29185,6 @@
       "onboard_time": 1768389982,
       "rank": 26,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 152217,
-      "num": 152217,
-      "word": "分不清张杰是退场还是上场了",
-      "onboard_time": 1769172802,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 152188,
@@ -31243,6 +31267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143359,
+      "num": 161403,
+      "word": "这么耗电的东西只敢上班用",
+      "onboard_time": 1769172921,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143321,
       "num": 235790,
       "word": "王者桑启新皮肤爆料",
@@ -32929,14 +32961,6 @@
       "onboard_time": 1767612741,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136970,
-      "num": 133684,
-      "word": "这么耗电的东西只敢上班用",
-      "onboard_time": 1769172921,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 136943,
@@ -35329,14 +35353,6 @@
       "onboard_time": 1768518858,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 128765,
-      "num": 128765,
-      "word": "海底捞 点炮制度",
-      "onboard_time": 1769172802,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128761,
@@ -43539,6 +43555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107299,
+      "num": 107299,
+      "word": "吴彦祖有女儿后家庭发生很大改变",
+      "onboard_time": 1769173340,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107269,
       "num": 934542,
       "word": "中国驻瑞士使馆回应酒吧爆炸",
@@ -45852,7 +45876,7 @@
     },
     {
       "raw_hot": 102956,
-      "num": 102956,
+      "num": 138258,
       "word": "黄金高位突发跳水",
       "onboard_time": 1769172261,
       "rank": 37,
@@ -47048,6 +47072,14 @@
       "word": "聂云菲",
       "onboard_time": 1768441280,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100616,
+      "num": 206760,
+      "word": "u23国足决赛加油",
+      "onboard_time": 1769173462,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -48283,6 +48315,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 98362,
+      "num": 206681,
+      "word": "朱易自由滑115.01分",
+      "onboard_time": 1769173280,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98343,
       "num": 98343,
       "word": "曝助理被艺人妈妈骂半小时",
@@ -49225,6 +49265,14 @@
       "onboard_time": 1767402868,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97058,
+      "num": 97058,
+      "word": "女生的钱都花在哪",
+      "onboard_time": 1769173879,
+      "rank": 37,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 97021,
@@ -52867,6 +52915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91007,
+      "num": 91007,
+      "word": "肖战直拍完全白马王子",
+      "onboard_time": 1769170040,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 90993,
       "num": 90993,
       "word": "王一博开工图",
@@ -54161,14 +54217,6 @@
       "onboard_time": 1767239181,
       "rank": 36,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 88695,
-      "num": 88695,
-      "word": "肖战直拍完全白马王子",
-      "onboard_time": 1769170040,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 88680,
@@ -55491,6 +55539,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 86812,
+      "num": 86812,
+      "word": "U23亚洲杯决赛举办地正经历沙尘暴",
+      "onboard_time": 1769173941,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86741,
       "num": 86741,
       "word": "奶多牛少猫",
@@ -55753,6 +55809,14 @@
       "onboard_time": 1768371681,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86394,
+      "num": 86394,
+      "word": "陶喆武汉站抢票",
+      "onboard_time": 1769174061,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 86392,
@@ -57451,6 +57515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 83626,
+      "num": 83626,
+      "word": "Faker指挥让Doran守家",
+      "onboard_time": 1769173582,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 83621,
       "num": 83621,
       "word": "黄蜂战胜湖人",
@@ -58793,6 +58865,14 @@
       "onboard_time": 1767417748,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81056,
+      "num": 206451,
+      "word": "美国十几个州进入紧急状态",
+      "onboard_time": 1769172261,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 81033,
@@ -62899,14 +62979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 70996,
-      "num": 206451,
-      "word": "美国十几个州进入紧急状态",
-      "onboard_time": 1769172261,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 70920,
       "num": 124477,
       "word": "香港人组团买房涌入大湾区",
@@ -64881,14 +64953,6 @@
       "onboard_time": 1768786999,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 64854,
-      "num": 80000,
-      "word": "朱易自由滑115.01分",
-      "onboard_time": 1769173280,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 64846,
@@ -75227,6 +75291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20789,
+      "num": 206599,
+      "word": "俄美乌三方谈判开始",
+      "onboard_time": 1769173520,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20761,
       "num": 202560,
       "word": "2026元旦假期国内出游1.42亿人次",
@@ -75297,6 +75369,14 @@
       "onboard_time": 1768217241,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20506,
+      "num": 206305,
+      "word": "刘润说终于有硅谷抄不来的AI了",
+      "onboard_time": 1769173280,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 20467,
@@ -76937,14 +77017,6 @@
       "onboard_time": 1767550695,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 9099,
-      "num": 108289,
-      "word": "刘润说终于有硅谷抄不来的AI了",
-      "onboard_time": 1769173280,
-      "rank": 34,
-      "category": "互联网"
     },
     {
       "raw_hot": 9089,

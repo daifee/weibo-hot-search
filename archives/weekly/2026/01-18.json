@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769173331890,
+  "endTime": 1769174223135,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -1819,6 +1819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 501379,
+      "num": 206497,
+      "word": "海底捞 点炮制度",
+      "onboard_time": 1769172802,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 498331,
       "num": 254154,
       "word": "金饰克价涨到1545元",
@@ -2964,7 +2972,7 @@
     },
     {
       "raw_hot": 362786,
-      "num": 205858,
+      "num": 206265,
       "word": "卢昱晓战国袍造型",
       "onboard_time": 1769169981,
       "rank": 14,
@@ -3449,6 +3457,14 @@
       "onboard_time": 1768988000,
       "rank": 9,
       "category": "美食"
+    },
+    {
+      "raw_hot": 315922,
+      "num": 1050547,
+      "word": "国足赢一场就回家",
+      "onboard_time": 1769170581,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 315670,
@@ -4339,14 +4355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 263807,
-      "num": 758957,
-      "word": "国足赢一场就回家",
-      "onboard_time": 1769170581,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 263768,
       "num": 286810,
       "word": "卡拉胶 胰岛素抵抗",
@@ -4409,6 +4417,14 @@
       "onboard_time": 1768992141,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 259709,
+      "num": 259709,
+      "word": "王鹤棣依偎在白鹿肩上",
+      "onboard_time": 1769171900,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 259552,
@@ -4948,7 +4964,7 @@
     },
     {
       "raw_hot": 229205,
-      "num": 205674,
+      "num": 206049,
       "word": "猝死程序员赔39万妻子只拿4到6万",
       "onboard_time": 1769166981,
       "rank": 16,
@@ -5249,6 +5265,14 @@
       "onboard_time": 1769146762,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218748,
+      "num": 206088,
+      "word": "腾讯2025新增永不合作公司名单",
+      "onboard_time": 1769173582,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 218669,
@@ -6043,14 +6067,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 194336,
-      "num": 206931,
-      "word": "王鹤棣依偎在白鹿肩上",
-      "onboard_time": 1769171900,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 193974,
       "num": 157967,
       "word": "私聊表白被全程直播吃瓜",
@@ -6065,6 +6081,14 @@
       "onboard_time": 1768698979,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193195,
+      "num": 173962,
+      "word": "张晚意独自从北京自驾到厦门",
+      "onboard_time": 1769173582,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 193133,
@@ -7315,6 +7339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161255,
+      "num": 161255,
+      "word": "分不清张杰是退场还是上场了",
+      "onboard_time": 1769172802,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 160993,
       "num": 110727,
       "word": "刘诗诗活动路透",
@@ -7721,14 +7753,6 @@
       "onboard_time": 1769047399,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152217,
-      "num": 152217,
-      "word": "分不清张杰是退场还是上场了",
-      "onboard_time": 1769172802,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 152060,
@@ -8307,6 +8331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143359,
+      "num": 161403,
+      "word": "这么耗电的东西只敢上班用",
+      "onboard_time": 1769172921,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142969,
       "num": 142969,
       "word": "50万亿存款到期后会流入股市吗",
@@ -8681,14 +8713,6 @@
       "onboard_time": 1769054899,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 136970,
-      "num": 133684,
-      "word": "这么耗电的东西只敢上班用",
-      "onboard_time": 1769172921,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 136916,
@@ -9241,14 +9265,6 @@
       "onboard_time": 1768894581,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128765,
-      "num": 128765,
-      "word": "海底捞 点炮制度",
-      "onboard_time": 1769172802,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128761,
@@ -11355,6 +11371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107299,
+      "num": 107299,
+      "word": "吴彦祖有女儿后家庭发生很大改变",
+      "onboard_time": 1769173340,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107206,
       "num": 96109,
       "word": "关晓彤补妆好可爱",
@@ -12036,7 +12060,7 @@
     },
     {
       "raw_hot": 102956,
-      "num": 102956,
+      "num": 138258,
       "word": "黄金高位突发跳水",
       "onboard_time": 1769172261,
       "rank": 37,
@@ -12313,6 +12337,14 @@
       "onboard_time": 1768973423,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100616,
+      "num": 206760,
+      "word": "u23国足决赛加油",
+      "onboard_time": 1769173462,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 100555,
@@ -12731,6 +12763,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 98362,
+      "num": 206681,
+      "word": "朱易自由滑115.01分",
+      "onboard_time": 1769173280,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98306,
       "num": 98306,
       "word": "差点问徐明浩要联系方式了",
@@ -12969,6 +13009,14 @@
       "onboard_time": 1769086641,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97058,
+      "num": 97058,
+      "word": "女生的钱都花在哪",
+      "onboard_time": 1769173879,
+      "rank": 37,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 96986,
@@ -14059,6 +14107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91007,
+      "num": 91007,
+      "word": "肖战直拍完全白马王子",
+      "onboard_time": 1769170040,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 90948,
       "num": 90948,
       "word": "吃到了白鹿沈月送的烤肠",
@@ -14425,14 +14481,6 @@
       "onboard_time": 1768827622,
       "rank": 42,
       "category": "数码"
-    },
-    {
-      "raw_hot": 88695,
-      "num": 88695,
-      "word": "肖战直拍完全白马王子",
-      "onboard_time": 1769170040,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 88663,
@@ -14819,6 +14867,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 86812,
+      "num": 86812,
+      "word": "U23亚洲杯决赛举办地正经历沙尘暴",
+      "onboard_time": 1769173941,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86687,
       "num": 86687,
       "word": "野狗骨头剧本",
@@ -14873,6 +14929,14 @@
       "onboard_time": 1768834462,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 86394,
+      "num": 86394,
+      "word": "陶喆武汉站抢票",
+      "onboard_time": 1769174061,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 86392,
@@ -15443,6 +15507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 83626,
+      "num": 83626,
+      "word": "Faker指挥让Doran守家",
+      "onboard_time": 1769173582,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 83602,
       "num": 83602,
       "word": "归鸾",
@@ -15809,6 +15881,14 @@
       "onboard_time": 1769009181,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 81056,
+      "num": 206451,
+      "word": "美国十几个州进入紧急状态",
+      "onboard_time": 1769172261,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 81033,
@@ -17027,14 +17107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 70996,
-      "num": 206451,
-      "word": "美国十几个州进入紧急状态",
-      "onboard_time": 1769172261,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 70886,
       "num": 114143,
       "word": "赵少康因大罢免亮票被判拘役55天",
@@ -17497,14 +17569,6 @@
       "onboard_time": 1768786999,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 64854,
-      "num": 80000,
-      "word": "朱易自由滑115.01分",
-      "onboard_time": 1769173280,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 64804,
@@ -20155,12 +20219,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20789,
+      "num": 206599,
+      "word": "俄美乌三方谈判开始",
+      "onboard_time": 1769173520,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20752,
       "num": 112749,
       "word": "爱豆再就业 有人卖炸串有人当道士",
       "onboard_time": 1769065161,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20506,
+      "num": 206305,
+      "word": "刘润说终于有硅谷抄不来的AI了",
+      "onboard_time": 1769173280,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 20302,
@@ -20713,14 +20793,6 @@
       "onboard_time": 1768799781,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 9099,
-      "num": 108289,
-      "word": "刘润说终于有硅谷抄不来的AI了",
-      "onboard_time": 1769173280,
-      "rank": 34,
-      "category": "互联网"
     },
     {
       "raw_hot": 8813,

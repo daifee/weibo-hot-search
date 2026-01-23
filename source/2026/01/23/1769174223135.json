@@ -1,0 +1,410 @@
+{
+  "runTime": 1769174223135,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 315922,
+        "num": 1050547,
+        "word": "国足赢一场就回家",
+        "onboard_time": 1769170581,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263140,
+        "num": 752564,
+        "word": "亲爱的客栈",
+        "onboard_time": 1769165661,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55618,
+        "num": 628838,
+        "word": "新国补到底怎么补",
+        "onboard_time": 1769150180,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259709,
+        "num": 259709,
+        "word": "王鹤棣依偎在白鹿肩上",
+        "onboard_time": 1769171900,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206881,
+        "num": 206881,
+        "word": "尘白禁区",
+        "onboard_time": 1769169320,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 230241,
+        "num": 206843,
+        "word": "太平年",
+        "onboard_time": 1769170460,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112488,
+        "num": 206801,
+        "word": "操纵67个账户被罚没超10亿",
+        "onboard_time": 1769165362,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100616,
+        "num": 206760,
+        "word": "u23国足决赛加油",
+        "onboard_time": 1769173462,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98362,
+        "num": 206681,
+        "word": "朱易自由滑115.01分",
+        "onboard_time": 1769173280,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20789,
+        "num": 206599,
+        "word": "俄美乌三方谈判开始",
+        "onboard_time": 1769173520,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 803526,
+        "num": 206546,
+        "word": "苹果用户的天塌了",
+        "onboard_time": 1769155100,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 501379,
+        "num": 206497,
+        "word": "海底捞 点炮制度",
+        "onboard_time": 1769172802,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353486,
+        "num": 206429,
+        "word": "TF二代吻戏第一人",
+        "onboard_time": 1769167580,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95016,
+        "num": 206381,
+        "word": "U23",
+        "onboard_time": 1769162181,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20506,
+        "num": 206305,
+        "word": "刘润说终于有硅谷抄不来的AI了",
+        "onboard_time": 1769173280,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 342102,
+        "num": 206265,
+        "word": "卢昱晓战国袍造型",
+        "onboard_time": 1769169981,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323388,
+        "num": 206211,
+        "word": "泰一家16人跟团游哈尔滨回国报警",
+        "onboard_time": 1769167520,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 221078,
+        "num": 206120,
+        "word": "离彭于晏近了付航面相都变了",
+        "onboard_time": 1769169201,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218748,
+        "num": 206088,
+        "word": "腾讯2025新增永不合作公司名单",
+        "onboard_time": 1769173582,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 211725,
+        "num": 206049,
+        "word": "猝死程序员赔39万妻子只拿4到6万",
+        "onboard_time": 1769166981,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378724,
+        "num": 205952,
+        "word": "Lululemon新款瑜伽裤太透明被下架",
+        "onboard_time": 1769164461,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209967,
+        "num": 205890,
+        "word": "格林不在了",
+        "onboard_time": 1769155161,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205877,
+        "num": 205877,
+        "word": "老鼠干火到美国了",
+        "onboard_time": 1769162660,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175311,
+        "num": 175311,
+        "word": "贝克汉姆给大儿子的礼物",
+        "onboard_time": 1769163620,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193195,
+        "num": 173962,
+        "word": "张晚意独自从北京自驾到厦门",
+        "onboard_time": 1769173582,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165677,
+        "num": 165677,
+        "word": "登陆少年直播",
+        "onboard_time": 1769171421,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143359,
+        "num": 161403,
+        "word": "这么耗电的东西只敢上班用",
+        "onboard_time": 1769172921,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161255,
+        "num": 161255,
+        "word": "分不清张杰是退场还是上场了",
+        "onboard_time": 1769172802,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148305,
+        "num": 148305,
+        "word": "李嘉诚 无畏契约封号",
+        "onboard_time": 1769162541,
+        "rank": 28,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 94887,
+        "num": 138258,
+        "word": "黄金高位突发跳水",
+        "onboard_time": 1769172261,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135976,
+        "num": 135976,
+        "word": "痞幼去恋综不敢告诉方圆",
+        "onboard_time": 1769165901,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119210,
+        "num": 119210,
+        "word": "儿子打视频要钱女友现身父亲秒变脸",
+        "onboard_time": 1769164761,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113738,
+        "num": 113738,
+        "word": "鹿晗昨天是小狗今天是小猫",
+        "onboard_time": 1769171540,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107299,
+        "num": 107299,
+        "word": "吴彦祖有女儿后家庭发生很大改变",
+        "onboard_time": 1769173340,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102509,
+        "num": 102509,
+        "word": "猝死程序员家属称找的律师都不想接",
+        "onboard_time": 1769160141,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99226,
+        "num": 99226,
+        "word": "中国抗冻省份排名TOP10",
+        "onboard_time": 1769172022,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98659,
+        "num": 98659,
+        "word": "最强大脑",
+        "onboard_time": 1769172621,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97058,
+        "num": 97058,
+        "word": "女生的钱都花在哪",
+        "onboard_time": 1769173879,
+        "rank": 37,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 96254,
+        "num": 96254,
+        "word": "以后道歉请按照这个标准来",
+        "onboard_time": 1769165781,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92606,
+        "num": 92606,
+        "word": "金价暴涨黄金存款被爆买",
+        "onboard_time": 1769169440,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 92555,
+        "num": 92555,
+        "word": "美国的寄养家庭太地狱了",
+        "onboard_time": 1769167641,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 91007,
+        "num": 91007,
+        "word": "肖战直拍完全白马王子",
+        "onboard_time": 1769170040,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87542,
+        "num": 87542,
+        "word": "李现这个状态快抓去演现偶",
+        "onboard_time": 1769168061,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86812,
+        "num": 86812,
+        "word": "U23亚洲杯决赛举办地正经历沙尘暴",
+        "onboard_time": 1769173941,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87182,
+        "num": 86628,
+        "word": "张杰成都演唱会",
+        "onboard_time": 1769166561,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86394,
+        "num": 86394,
+        "word": "陶喆武汉站抢票",
+        "onboard_time": 1769174061,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81056,
+        "num": 84547,
+        "word": "美国十几个州进入紧急状态",
+        "onboard_time": 1769172261,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83626,
+        "num": 83626,
+        "word": "Faker指挥让Doran守家",
+        "onboard_time": 1769173582,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81486,
+        "num": 81486,
+        "word": "车银优宋慧乔被称为逃税情侣",
+        "onboard_time": 1769148142,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69285,
+        "num": 80332,
+        "word": "金价疯涨原因",
+        "onboard_time": 1769154800,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同卢拉通电话#"
+    }
+  }
+}
