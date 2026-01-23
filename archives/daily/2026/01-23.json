@@ -1,6 +1,6 @@
 {
   "startTime": 1769100257042,
-  "endTime": 1769134260689,
+  "endTime": 1769135731276,
   "band_list": [
     {
       "raw_hot": 1149237,
@@ -49,6 +49,14 @@
       "onboard_time": 1769096961,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 498331,
+      "num": 142934,
+      "word": "金饰克价涨到1545元",
+      "onboard_time": 1769132839,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 478129,
@@ -123,6 +131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 269167,
+      "num": 178208,
+      "word": "哥哥回应失踪13年女硕士现状",
+      "onboard_time": 1769131460,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 265866,
       "num": 183975,
       "word": "韩国国旗 车银优",
@@ -139,6 +155,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 259723,
+      "num": 107759,
+      "word": "吃火锅偶遇贾玲张小斐",
+      "onboard_time": 1769134879,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255335,
       "num": 181865,
       "word": "胖东来保洁员月薪9千永辉没学到",
@@ -153,14 +177,6 @@
       "onboard_time": 1769089161,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 245634,
-      "num": 142934,
-      "word": "金饰克价涨到1545元",
-      "onboard_time": 1769132839,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 245488,
@@ -347,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129611,
+      "num": 129611,
+      "word": "2026米兰冬奥会",
+      "onboard_time": 1769134759,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129298,
       "num": 168395,
       "word": "和张函瑞一起声启荣冕",
@@ -355,20 +379,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126017,
-      "num": 126017,
-      "word": "哥哥回应失踪13年女硕士现状",
-      "onboard_time": 1769131460,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125531,
       "num": 168187,
       "word": "特朗普为啥时隔一天态度变了",
       "onboard_time": 1769092701,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 125506,
+      "num": 98109,
+      "word": "李行亮自曝因再见爱人被品牌撤单",
+      "onboard_time": 1769132421,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 114625,
@@ -385,6 +409,22 @@
       "onboard_time": 1769089462,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109968,
+      "num": 92218,
+      "word": "现货白银突破99美元",
+      "onboard_time": 1769135660,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 108746,
+      "num": 93844,
+      "word": "官方通报环卫工戴电子工牌无处罚",
+      "onboard_time": 1769133739,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104508,
@@ -411,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100836,
+      "num": 91849,
+      "word": "教师撞树枝身亡获赔76万镇政府回应",
+      "onboard_time": 1769134520,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100757,
       "num": 100757,
       "word": "普京称格陵兰岛美国真要买也得买得起",
@@ -427,12 +475,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96860,
+      "num": 96860,
+      "word": "被害女子曾求前夫小孩还在别杀我",
+      "onboard_time": 1769134699,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95757,
       "num": 95757,
       "word": "重返狼群 怎么会有人被牛一板砖拍晕",
       "onboard_time": 1769091802,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 94571,
+      "num": 94571,
+      "word": "久坐2小时血栓风险就会增加",
+      "onboard_time": 1769132240,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 93910,
@@ -451,12 +515,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 91287,
-      "num": 91287,
-      "word": "李行亮自曝因再见爱人被品牌撤单",
-      "onboard_time": 1769132421,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 92293,
+      "num": 92293,
+      "word": "谷爱凌苏翊鸣徐梦桃将参加米兰冬奥",
+      "onboard_time": 1769134220,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 90197,
@@ -483,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88089,
+      "num": 88089,
+      "word": "飞驰人生3首支预告",
+      "onboard_time": 1769135419,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 85481,
       "num": 85481,
       "word": "余幼时即厌学",
@@ -499,12 +571,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 84482,
+      "num": 84482,
+      "word": "残疾小伙零彩礼娶脑瘫妻子",
+      "onboard_time": 1769135179,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83909,
       "num": 83909,
       "word": "陈星旭王玉雯手指吻",
       "onboard_time": 1769116573,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83305,
+      "num": 83305,
+      "word": "哈姆奈特",
+      "onboard_time": 1769135479,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 83272,
@@ -529,6 +617,14 @@
       "onboard_time": 1769132778,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 79803,
+      "num": 79803,
+      "word": "一栗小莎子说在喝中药",
+      "onboard_time": 1769134339,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 79366,
@@ -579,19 +675,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 74459,
-      "num": 74459,
-      "word": "久坐2小时血栓风险就会增加",
-      "onboard_time": 1769132240,
-      "rank": 43,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 73724,
-      "num": 73724,
-      "word": "官方通报环卫工戴电子工牌无处罚",
-      "onboard_time": 1769133739,
-      "rank": 44,
+      "raw_hot": 74213,
+      "num": 74213,
+      "word": "马年红包卖爆了",
+      "onboard_time": 1769133440,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -601,6 +689,22 @@
       "onboard_time": 1769123777,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 72551,
+      "num": 72551,
+      "word": "安理会四常都没签约和平委员会",
+      "onboard_time": 1769134459,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 72292,
+      "num": 72292,
+      "word": "家长回应儿子被大孩子一脚踹飞",
+      "onboard_time": 1769135540,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71953,
@@ -659,28 +763,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 64066,
-      "num": 64066,
-      "word": "马年红包卖爆了",
-      "onboard_time": 1769133440,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62179,
       "num": 173202,
       "word": "地球出现6小时特大地磁暴",
       "onboard_time": 1769089041,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61809,
-      "num": 61809,
-      "word": "谷爱凌苏翊鸣徐梦桃将参加米兰冬奥",
-      "onboard_time": 1769134220,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 61144,
@@ -883,6 +971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 40409,
+      "num": 91577,
+      "word": "预制菜标准须尽快定下来",
+      "onboard_time": 1769134339,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39516,
       "num": 41606,
       "word": "堪比传说的六元皮肤",
@@ -929,6 +1025,14 @@
       "onboard_time": 1769097321,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 29258,
+      "num": 91664,
+      "word": "俄美乌三方会议今天举行",
+      "onboard_time": 1769135540,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 26054,

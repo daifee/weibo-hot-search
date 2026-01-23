@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769134260689,
+  "endTime": 1769135731276,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -6217,6 +6217,14 @@
       "onboard_time": 1767520101,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 498331,
+      "num": 142934,
+      "word": "金饰克价涨到1545元",
+      "onboard_time": 1769132839,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 498329,
@@ -14763,6 +14771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 269167,
+      "num": 178208,
+      "word": "哥哥回应失踪13年女硕士现状",
+      "onboard_time": 1769131460,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269122,
       "num": 269122,
       "word": "格陵兰岛自治政府发声明",
@@ -15425,6 +15441,14 @@
       "onboard_time": 1768992141,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 259723,
+      "num": 107759,
+      "word": "吃火锅偶遇贾玲张小斐",
+      "onboard_time": 1769134879,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 259552,
@@ -16305,14 +16329,6 @@
       "onboard_time": 1768644920,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 245634,
-      "num": 142934,
-      "word": "金饰克价涨到1545元",
-      "onboard_time": 1769132839,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 245492,
@@ -34043,6 +34059,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 129611,
+      "num": 129611,
+      "word": "2026米兰冬奥会",
+      "onboard_time": 1767664402,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129605,
       "num": 129605,
       "word": "2026年第一部群像剧来了",
@@ -35283,14 +35307,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 126017,
-      "num": 126017,
-      "word": "哥哥回应失踪13年女硕士现状",
-      "onboard_time": 1769131460,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125978,
       "num": 125978,
       "word": "iPhone伤电池的4个充电习惯",
@@ -35449,6 +35465,14 @@
       "onboard_time": 1768539622,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125506,
+      "num": 98109,
+      "word": "李行亮自曝因再见爱人被品牌撤单",
+      "onboard_time": 1769132421,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 125463,
@@ -41275,6 +41299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109968,
+      "num": 92218,
+      "word": "现货白银突破99美元",
+      "onboard_time": 1769135660,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 109954,
       "num": 203154,
       "word": "差评率100%的自助",
@@ -41721,6 +41753,14 @@
       "onboard_time": 1767788003,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 108746,
+      "num": 93844,
+      "word": "官方通报环卫工戴电子工牌无处罚",
+      "onboard_time": 1769133739,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108721,
@@ -45563,6 +45603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 100836,
+      "num": 91849,
+      "word": "教师撞树枝身亡获赔76万镇政府回应",
+      "onboard_time": 1769134520,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100815,
       "num": 739550,
       "word": "小迪老师起飞全纪录",
@@ -47867,6 +47915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96860,
+      "num": 96860,
+      "word": "被害女子曾求前夫小孩还在别杀我",
+      "onboard_time": 1769134699,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96825,
       "num": 96825,
       "word": "一个综艺集齐了四大浙卫IP",
@@ -49153,6 +49209,14 @@
       "onboard_time": 1768805901,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94571,
+      "num": 94571,
+      "word": "久坐2小时血栓风险就会增加",
+      "onboard_time": 1769132240,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 94557,
@@ -50507,6 +50571,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 92293,
+      "num": 92293,
+      "word": "谷爱凌苏翊鸣徐梦桃将参加米兰冬奥",
+      "onboard_time": 1769134220,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92289,
       "num": 92289,
       "word": "专家回应有人在4100点时仍未赚钱",
@@ -51025,14 +51097,6 @@
       "onboard_time": 1767841581,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 91287,
-      "num": 91287,
-      "word": "李行亮自曝因再见爱人被品牌撤单",
-      "onboard_time": 1769132421,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 91285,
@@ -52867,6 +52931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88089,
+      "num": 88089,
+      "word": "飞驰人生3首支预告",
+      "onboard_time": 1769135419,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 88088,
       "num": 174707,
       "word": "白鹿王鹤棣同框cha",
@@ -53456,14 +53528,6 @@
       "word": "杨瀚森被坐到头部",
       "onboard_time": 1768022839,
       "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 87179,
-      "num": 87179,
-      "word": "2026米兰冬奥会",
-      "onboard_time": 1767664402,
-      "rank": 45,
       "category": "体育"
     },
     {
@@ -55243,6 +55307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84482,
+      "num": 84482,
+      "word": "残疾小伙零彩礼娶脑瘫妻子",
+      "onboard_time": 1769135179,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84473,
       "num": 84473,
       "word": "湖人战胜掘金",
@@ -55753,6 +55825,14 @@
       "onboard_time": 1768715479,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83305,
+      "num": 83305,
+      "word": "哈姆奈特",
+      "onboard_time": 1769135479,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 83273,
@@ -57569,6 +57649,14 @@
       "onboard_time": 1767429144,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79803,
+      "num": 79803,
+      "word": "一栗小莎子说在喝中药",
+      "onboard_time": 1769134339,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 79761,
@@ -59827,14 +59915,6 @@
       "category": "幽默,休闲"
     },
     {
-      "raw_hot": 74459,
-      "num": 74459,
-      "word": "久坐2小时血栓风险就会增加",
-      "onboard_time": 1769132240,
-      "rank": 43,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 74402,
       "num": 74402,
       "word": "汪苏泷 后悔来了",
@@ -59961,6 +60041,14 @@
       "onboard_time": 1768043541,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 74213,
+      "num": 74213,
+      "word": "马年红包卖爆了",
+      "onboard_time": 1769133440,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74190,
@@ -60145,14 +60233,6 @@
       "onboard_time": 1767355281,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 73724,
-      "num": 73724,
-      "word": "官方通报环卫工戴电子工牌无处罚",
-      "onboard_time": 1769133739,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 73712,
@@ -60515,6 +60595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 72551,
+      "num": 72551,
+      "word": "安理会四常都没签约和平委员会",
+      "onboard_time": 1769134459,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 72517,
       "num": 72517,
       "word": "沈月演技 绽放的生命力",
@@ -60560,6 +60648,14 @@
       "word": "跨年夜人群被两块大屏幕时差整懵圈",
       "onboard_time": 1767312497,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72292,
+      "num": 72292,
+      "word": "家长回应儿子被大孩子一脚踹飞",
+      "onboard_time": 1769135540,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -63139,14 +63235,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 64066,
-      "num": 64066,
-      "word": "马年红包卖爆了",
-      "onboard_time": 1769133440,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64051,
       "num": 64051,
       "word": "轧戏 剧本杀",
@@ -63769,14 +63857,6 @@
       "onboard_time": 1768607177,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 61809,
-      "num": 61809,
-      "word": "谷爱凌苏翊鸣徐梦桃将参加米兰冬奥",
-      "onboard_time": 1769134220,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 61799,
@@ -68227,6 +68307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40409,
+      "num": 91577,
+      "word": "预制菜标准须尽快定下来",
+      "onboard_time": 1769134339,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40404,
       "num": 92207,
       "word": "美财长首次回应斩杀线困境",
@@ -70873,6 +70961,14 @@
       "onboard_time": 1767847402,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29258,
+      "num": 91664,
+      "word": "俄美乌三方会议今天举行",
+      "onboard_time": 1769135540,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 29238,
