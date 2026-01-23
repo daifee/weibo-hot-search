@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769201331721,
+  "endTime": 1769203830429,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -10788,7 +10788,7 @@
     },
     {
       "raw_hot": 116262,
-      "num": 110117,
+      "num": 151106,
       "word": "U23国足vs日本",
       "onboard_time": 1769191934,
       "rank": 8,
@@ -21435,6 +21435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13763,
+      "num": 18770,
+      "word": "苦抹 睡不着",
+      "onboard_time": 1769200753,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 13570,
       "num": 109593,
       "word": "轧戏我选择这里作为大结局",
@@ -21465,14 +21473,6 @@
       "onboard_time": 1769048840,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12512,
-      "num": 18770,
-      "word": "苦抹 睡不着",
-      "onboard_time": 1769200753,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 12387,
