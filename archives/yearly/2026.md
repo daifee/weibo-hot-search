@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/23 14:45:00
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/23 15:00:05
 </p>
 </blockquote>
 <p>
@@ -1047,6 +1047,12 @@ LV活动（热度：1044426）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E9%93%B6%E4%BC%98%E5%AE%8B%E6%85%A7%E4%B9%94%E8%A2%AB%E7%A7%B0%E4%B8%BA%E9%80%83%E7%A8%8E%E6%83%85%E4%BE%A3%23" target="weibo">
+车银优宋慧乔被称为逃税情侣（热度：1024669）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E4%B8%BE%E6%8A%A5%23" target="weibo">
 蔡依林演唱会被举报（热度：1022078）
 </a>
@@ -1463,12 +1469,6 @@ U23国足首进亚洲杯4强（热度：890521）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E6%B2%B3%E6%89%BF%E8%AE%A4%E6%81%8B%E6%83%85%23" target="weibo">
 陈楚河承认恋情（热度：888305）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E9%93%B6%E4%BC%98%E5%AE%8B%E6%85%A7%E4%B9%94%E8%A2%AB%E7%A7%B0%E4%B8%BA%E9%80%83%E7%A8%8E%E6%83%85%E4%BE%A3%23" target="weibo">
-车银优宋慧乔被称为逃税情侣（热度：884408）
 </a>
 </li>
 

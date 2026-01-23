@@ -1,6 +1,6 @@
 {
   "startTime": 1769100257042,
-  "endTime": 1769150700083,
+  "endTime": 1769151605862,
   "band_list": [
     {
       "raw_hot": 2732817,
@@ -27,20 +27,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1024669,
+      "num": 169074,
+      "word": "车银优宋慧乔被称为逃税情侣",
+      "onboard_time": 1769148142,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 893250,
       "num": 300580,
       "word": "演员表为啥越来越看不懂了",
       "onboard_time": 1769129361,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 884408,
-      "num": 169074,
-      "word": "车银优宋慧乔被称为逃税情侣",
-      "onboard_time": 1769148142,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 780766,
@@ -163,6 +163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 466594,
+      "num": 323464,
+      "word": "500人群里499个是托",
+      "onboard_time": 1769147061,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 451978,
       "num": 140483,
       "word": "黄金",
@@ -179,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 425671,
+      "num": 169401,
+      "word": "女子要以身相许抵前男友欠款",
+      "onboard_time": 1769148620,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 418607,
       "num": 164482,
       "word": "小果冻 前女友",
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 408779,
-      "num": 773391,
+      "num": 781903,
       "word": "赵子豪退出国家队",
       "onboard_time": 1769149280,
       "rank": 1,
@@ -257,14 +273,6 @@
       "onboard_time": 1769140039,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 323464,
-      "num": 323464,
-      "word": "500人群里499个是托",
-      "onboard_time": 1769147061,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 318058,
@@ -611,14 +619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 169401,
-      "num": 169401,
-      "word": "女子要以身相许抵前男友欠款",
-      "onboard_time": 1769148620,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 167707,
       "num": 128925,
       "word": "一栗小莎子回应疑似患淋巴瘤",
@@ -643,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155510,
+      "num": 142517,
+      "word": "身体这3处淋巴肿了一定要警惕",
+      "onboard_time": 1769150721,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 153840,
       "num": 119006,
       "word": "肖战惊喜现身北京",
@@ -657,6 +665,14 @@
       "onboard_time": 1769128159,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153369,
+      "num": 153369,
+      "word": "原神法尔伽",
+      "onboard_time": 1769150961,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 151321,
@@ -675,11 +691,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150245,
+      "num": 162308,
+      "word": "所有人都说猝死程序员明年能升总监",
+      "onboard_time": 1769149580,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147644,
       "num": 147644,
       "word": "汪苏泷唯一一位有两次安可的歌手",
       "onboard_time": 1769150001,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 147638,
+      "num": 142179,
+      "word": "肖战岁岁年年全场大合唱",
+      "onboard_time": 1769150780,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -729,6 +761,14 @@
       "onboard_time": 1769090422,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 138467,
+      "num": 138467,
+      "word": "李微漪发声",
+      "onboard_time": 1769150721,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 135818,
@@ -787,12 +827,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127012,
-      "num": 162308,
-      "word": "所有人都说猝死程序员明年能升总监",
-      "onboard_time": 1769149580,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 126051,
+      "num": 124454,
+      "word": "飞驰人生3预告没有王安宇镜头",
+      "onboard_time": 1769149220,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 125531,
@@ -819,20 +859,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 123020,
-      "num": 123020,
-      "word": "飞驰人生3预告没有王安宇镜头",
-      "onboard_time": 1769149220,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 119831,
       "num": 157896,
       "word": "男子送养亲生子获4万元不构成犯罪",
       "onboard_time": 1769145681,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117139,
+      "num": 117139,
+      "word": "去年腾讯20余人涉嫌犯罪被移送警方",
+      "onboard_time": 1769149041,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 116949,
@@ -897,6 +937,14 @@
       "onboard_time": 1769144960,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105893,
+      "num": 105893,
+      "word": "制片人姜莹莹被移送公安机关",
+      "onboard_time": 1769151440,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 104508,
@@ -971,14 +1019,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 99330,
-      "num": 99330,
-      "word": "去年腾讯20余人涉嫌犯罪被移送警方",
-      "onboard_time": 1769149041,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 98696,
       "num": 175463,
       "word": "黄景瑜 太空旅游",
@@ -1003,6 +1043,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96496,
+      "num": 96496,
+      "word": "1亿现金有多少",
+      "onboard_time": 1769147961,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 95799,
+      "num": 95799,
+      "word": "腾讯2025年度反舞弊通报",
+      "onboard_time": 1769151320,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 95757,
       "num": 95757,
       "word": "重返狼群 怎么会有人被牛一板砖拍晕",
@@ -1025,6 +1081,14 @@
       "onboard_time": 1769146881,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 95129,
+      "num": 95129,
+      "word": "程序员猝死公司立马删除工作号",
+      "onboard_time": 1769151380,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94606,
@@ -1107,8 +1171,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91778,
+      "num": 91778,
+      "word": "王者荣耀麻将三缺一",
+      "onboard_time": 1769151080,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 91444,
-      "num": 125069,
+      "num": 133029,
       "word": "郑钦文的网友们人均用上了AI助理",
       "onboard_time": 1769150180,
       "rank": 29,
@@ -1195,6 +1267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 85499,
+      "num": 85499,
+      "word": "赵子豪乒乓精神永驻心中",
+      "onboard_time": 1769150600,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85481,
       "num": 85481,
       "word": "余幼时即厌学",
@@ -1233,14 +1313,6 @@
       "onboard_time": 1769139921,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 84142,
-      "num": 84142,
-      "word": "赵子豪乒乓精神永驻心中",
-      "onboard_time": 1769150600,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 84028,
@@ -1297,6 +1369,14 @@
       "onboard_time": 1769143162,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80848,
+      "num": 123205,
+      "word": "多地中小学取消非毕业年级期末统考",
+      "onboard_time": 1769151080,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 80409,
@@ -1473,6 +1553,14 @@
       "onboard_time": 1769124317,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 66565,
+      "num": 146668,
+      "word": "深圳婚育宣传文案走红",
+      "onboard_time": 1769151201,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65549,
@@ -1881,6 +1969,14 @@
       "onboard_time": 1769142082,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 24619,
+      "num": 126114,
+      "word": "开推团包场白宇太平年",
+      "onboard_time": 1769151440,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 24146,

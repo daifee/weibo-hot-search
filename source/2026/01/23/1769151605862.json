@@ -1,0 +1,410 @@
+{
+  "runTime": 1769151605862,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 409751,
+        "num": 1065560,
+        "word": "不二之臣",
+        "onboard_time": 1769137939,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365039,
+        "num": 781903,
+        "word": "赵子豪退出国家队",
+        "onboard_time": 1769149280,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61388,
+        "num": 612438,
+        "word": "中国铁路又双叒有新突破",
+        "onboard_time": 1769142800,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 299536,
+        "num": 299536,
+        "word": "草莓剥皮",
+        "onboard_time": 1769144781,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 251923,
+        "num": 251923,
+        "word": "中国飞船首批20余位游客已预订",
+        "onboard_time": 1769136620,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 466594,
+        "num": 228002,
+        "word": "500人群里499个是托",
+        "onboard_time": 1769147061,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181293,
+        "num": 181293,
+        "word": "女子为孩子囤黄金投入90万收益200万",
+        "onboard_time": 1769140161,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177926,
+        "num": 177926,
+        "word": "12306回应高铁车厢二氧化碳浓度超标",
+        "onboard_time": 1769139501,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171036,
+        "num": 171036,
+        "word": "网传好六团空降新人",
+        "onboard_time": 1769146762,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153369,
+        "num": 153369,
+        "word": "原神法尔伽",
+        "onboard_time": 1769150961,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1024669,
+        "num": 153307,
+        "word": "车银优宋慧乔被称为逃税情侣",
+        "onboard_time": 1769148142,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 658110,
+        "num": 152604,
+        "word": "骆驼向王俊凯致歉",
+        "onboard_time": 1769142982,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192210,
+        "num": 151810,
+        "word": "八个月瘦了120斤的身体变化",
+        "onboard_time": 1769143521,
+        "rank": 12,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 425671,
+        "num": 151370,
+        "word": "女子要以身相许抵前男友欠款",
+        "onboard_time": 1769148620,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350487,
+        "num": 151185,
+        "word": "章昊 对不起我是中国人听不懂",
+        "onboard_time": 1769141961,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43603,
+        "num": 150392,
+        "word": "喜人暴富神曲爆了",
+        "onboard_time": 1769148322,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150245,
+        "num": 150245,
+        "word": "所有人都说猝死程序员明年能升总监",
+        "onboard_time": 1769149580,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332496,
+        "num": 149378,
+        "word": "黄景瑜要上太空了",
+        "onboard_time": 1769142743,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208853,
+        "num": 148090,
+        "word": "李行亮麦琳已无商业关联",
+        "onboard_time": 1769142140,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66565,
+        "num": 146668,
+        "word": "深圳婚育宣传文案走红",
+        "onboard_time": 1769151201,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402068,
+        "num": 146426,
+        "word": "小果冻 前女友",
+        "onboard_time": 1769146821,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 251759,
+        "num": 145180,
+        "word": "刘烨安娜女儿霓娜近照",
+        "onboard_time": 1769143762,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204677,
+        "num": 142845,
+        "word": "小城大事腾讯拉新倒数第一",
+        "onboard_time": 1769140039,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142720,
+        "num": 142720,
+        "word": "猝死程序员公司赔付家属39万",
+        "onboard_time": 1769143342,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155510,
+        "num": 142517,
+        "word": "身体这3处淋巴肿了一定要警惕",
+        "onboard_time": 1769150721,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152452,
+        "num": 142357,
+        "word": "张凌赫张婧仪 现偶",
+        "onboard_time": 1769145261,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147638,
+        "num": 142179,
+        "word": "肖战岁岁年年全场大合唱",
+        "onboard_time": 1769150780,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141904,
+        "num": 141904,
+        "word": "儿童洗护品牌戴可思被立案调查",
+        "onboard_time": 1769144481,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138467,
+        "num": 138467,
+        "word": "李微漪发声",
+        "onboard_time": 1769150721,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77053,
+        "num": 133029,
+        "word": "郑钦文的网友们人均用上了AI助理",
+        "onboard_time": 1769150180,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128568,
+        "num": 128568,
+        "word": "汪苏泷唯一一位有两次安可的歌手",
+        "onboard_time": 1769150001,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24619,
+        "num": 126114,
+        "word": "开推团包场白宇太平年",
+        "onboard_time": 1769151440,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125385,
+        "num": 125385,
+        "word": "流浪在美国的中国女子",
+        "onboard_time": 1769139560,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 126051,
+        "num": 124454,
+        "word": "飞驰人生3预告没有王安宇镜头",
+        "onboard_time": 1769149220,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 80848,
+        "num": 123205,
+        "word": "多地中小学取消非毕业年级期末统考",
+        "onboard_time": 1769151080,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 122515,
+        "num": 122515,
+        "word": "猝死程序员底薪3千干7个人的活",
+        "onboard_time": 1769130201,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117139,
+        "num": 117139,
+        "word": "去年腾讯20余人涉嫌犯罪被移送警方",
+        "onboard_time": 1769149041,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 111170,
+        "num": 111170,
+        "word": "马年的梗还是太超前了",
+        "onboard_time": 1769137699,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107206,
+        "num": 107206,
+        "word": "金饰克价涨到1545元",
+        "onboard_time": 1769132839,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 105893,
+        "num": 105893,
+        "word": "制片人姜莹莹被移送公安机关",
+        "onboard_time": 1769151440,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99140,
+        "num": 99140,
+        "word": "一栗小莎子回应疑似患淋巴瘤",
+        "onboard_time": 1769137398,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 96496,
+        "num": 96496,
+        "word": "1亿现金有多少",
+        "onboard_time": 1769147961,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95799,
+        "num": 95799,
+        "word": "腾讯2025年度反舞弊通报",
+        "onboard_time": 1769151320,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 65640,
+        "num": 95374,
+        "word": "新国补到底怎么补",
+        "onboard_time": 1769150180,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95199,
+        "num": 95199,
+        "word": "儿子问舅舅不开门妈妈是不是不会死",
+        "onboard_time": 1769125940,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95129,
+        "num": 95129,
+        "word": "程序员猝死公司立马删除工作号",
+        "onboard_time": 1769151380,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91778,
+        "num": 91778,
+        "word": "王者荣耀麻将三缺一",
+        "onboard_time": 1769151080,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89620,
+        "num": 89620,
+        "word": "苦内娱无历史大剧久矣",
+        "onboard_time": 1769149879,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85499,
+        "num": 85499,
+        "word": "赵子豪乒乓精神永驻心中",
+        "onboard_time": 1769150600,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82126,
+        "num": 82126,
+        "word": "美利坚警察的爆料丝毫不逊色牢A",
+        "onboard_time": 1769146881,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为关键少数划定履职标尺#"
+    }
+  }
+}
