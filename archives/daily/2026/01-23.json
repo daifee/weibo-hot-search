@@ -1,6 +1,6 @@
 {
   "startTime": 1769100257042,
-  "endTime": 1769157611603,
+  "endTime": 1769158496032,
   "band_list": [
     {
       "raw_hot": 2732817,
@@ -11,8 +11,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1829811,
-      "num": 199495,
+      "raw_hot": 2130426,
+      "num": 203444,
       "word": "苹果用户的天塌了",
       "onboard_time": 1769155100,
       "rank": 10,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1024669,
-      "num": 188772,
+      "num": 198416,
       "word": "车银优宋慧乔被称为逃税情侣",
       "onboard_time": 1769148142,
       "rank": 10,
@@ -51,6 +51,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 886385,
+      "num": 202515,
+      "word": "格林不在了",
+      "onboard_time": 1769155161,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 780766,
       "num": 221781,
       "word": "章昊 对不起我是中国人听不懂",
@@ -60,23 +68,15 @@
     },
     {
       "raw_hot": 753608,
-      "num": 197442,
+      "num": 201635,
       "word": "制片人姜莹莹被移送公安机关",
       "onboard_time": 1769151440,
       "rank": 39,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 750427,
-      "num": 195118,
-      "word": "格林不在了",
-      "onboard_time": 1769155161,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 738765,
-      "num": 194093,
+      "num": 199425,
       "word": "骄阳似我 姜莹莹",
       "onboard_time": 1769152222,
       "rank": 13,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 501658,
-      "num": 179524,
+      "num": 196310,
       "word": "赵今麦李庚希短发",
       "onboard_time": 1769152222,
       "rank": 21,
@@ -275,6 +275,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 372647,
+      "num": 1059623,
+      "word": "国乒多名球员退队",
+      "onboard_time": 1769155522,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 367320,
       "num": 324724,
       "word": "马年的梗还是太超前了",
@@ -331,6 +339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 312192,
+      "num": 312192,
+      "word": "林诗栋止步男单8强",
+      "onboard_time": 1769157501,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 307443,
       "num": 307443,
       "word": "刘少林落选",
@@ -347,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 304454,
-      "num": 742346,
-      "word": "国乒多名球员退队",
-      "onboard_time": 1769155522,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 295924,
       "num": 211310,
       "word": "六位影后的七年之约",
@@ -369,6 +377,22 @@
       "onboard_time": 1769143521,
       "rank": 41,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 289457,
+      "num": 192175,
+      "word": "影视项目 削女演员片酬",
+      "onboard_time": 1769157080,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 289183,
+      "num": 789889,
+      "word": "商家回应半年被1人薅了4万4",
+      "onboard_time": 1769154021,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 287583,
@@ -404,7 +428,7 @@
     },
     {
       "raw_hot": 281939,
-      "num": 176958,
+      "num": 191283,
       "word": "吴宣仪 有属于我的花路吗",
       "onboard_time": 1769154622,
       "rank": 21,
@@ -460,7 +484,7 @@
     },
     {
       "raw_hot": 255265,
-      "num": 207442,
+      "num": 231203,
       "word": "摸凹猫 摸凸猫",
       "onboard_time": 1769153481,
       "rank": 43,
@@ -492,7 +516,7 @@
     },
     {
       "raw_hot": 249685,
-      "num": 165102,
+      "num": 190252,
       "word": "所有人都说猝死程序员明年能升总监",
       "onboard_time": 1769149580,
       "rank": 19,
@@ -603,20 +627,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 209241,
-      "num": 209241,
-      "word": "商家回应半年被1人薅了4万4",
-      "onboard_time": 1769154021,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 207022,
       "num": 183590,
       "word": "李昀锐孟子义 分不清是戏里还是戏外",
       "onboard_time": 1769092941,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206304,
+      "num": 206304,
+      "word": "一口气买2斤黄金2天赚10多万",
+      "onboard_time": 1769155100,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203761,
@@ -675,6 +699,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 188475,
+      "num": 188475,
+      "word": "影视项目 全男戏",
+      "onboard_time": 1769157440,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186063,
       "num": 159594,
       "word": "张凌赫张婧仪 现偶",
@@ -721,14 +753,6 @@
       "onboard_time": 1769144481,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 175341,
-      "num": 175341,
-      "word": "影视项目 削女演员片酬",
-      "onboard_time": 1769157080,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 173864,
@@ -963,20 +987,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 133404,
-      "num": 204494,
-      "word": "一口气买2斤黄金2天赚10多万",
-      "onboard_time": 1769155100,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132239,
       "num": 176357,
       "word": "猝死程序员所在公司发声",
       "onboard_time": 1769139620,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129985,
+      "num": 129985,
+      "word": "三十岁给二十岁的建议",
+      "onboard_time": 1769156901,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 129611,
@@ -1033,6 +1057,22 @@
       "onboard_time": 1769132421,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125373,
+      "num": 204685,
+      "word": "林诗栋1比3达科",
+      "onboard_time": 1769157800,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 124637,
+      "num": 178201,
+      "word": "牢A称没见过美国底层成功逆袭",
+      "onboard_time": 1769156420,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 124454,
@@ -1171,12 +1211,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 107861,
-      "num": 107861,
-      "word": "影视项目 全男戏",
-      "onboard_time": 1769157440,
+      "raw_hot": 107942,
+      "num": 107942,
+      "word": "九尾输出",
+      "onboard_time": 1769157860,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 106924,
+      "num": 106924,
+      "word": "随橙想",
+      "onboard_time": 1769157922,
       "rank": 34,
-      "category": "艺人"
+      "category": "幽默"
     },
     {
       "raw_hot": 106589,
@@ -1195,22 +1243,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 105565,
-      "num": 105565,
-      "word": "三十岁给二十岁的建议",
-      "onboard_time": 1769156901,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 105306,
-      "num": 105306,
-      "word": "林诗栋止步男单8强",
-      "onboard_time": 1769157501,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 104508,
       "num": 104508,
       "word": "湖南22岁未婚小伙替兄养子事件进展",
@@ -1219,12 +1251,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104479,
+      "num": 193341,
+      "word": "LGD B组",
+      "onboard_time": 1769155041,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 102878,
       "num": 102878,
       "word": "六年级男生一脚踹飞7岁小男孩",
       "onboard_time": 1769126060,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101754,
+      "num": 90541,
+      "word": "杨幂回应与张艺谋合作",
+      "onboard_time": 1769155220,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 101723,
@@ -1273,14 +1321,6 @@
       "onboard_time": 1769124378,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 99901,
-      "num": 105985,
-      "word": "LGD B组",
-      "onboard_time": 1769155041,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 99753,
@@ -1507,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90654,
+      "num": 90654,
+      "word": "女子网购500单仅退款转卖货品",
+      "onboard_time": 1769157982,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90197,
       "num": 167932,
       "word": "阿爆掉粉近5万",
@@ -1635,14 +1683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84551,
-      "num": 84551,
-      "word": "杨幂回应与张艺谋合作",
-      "onboard_time": 1769155220,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 84482,
       "num": 84482,
       "word": "残疾小伙零彩礼娶脑瘫妻子",
@@ -1739,6 +1779,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 79934,
+      "num": 79934,
+      "word": "土豆满门忠烈",
+      "onboard_time": 1769157982,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 79803,
       "num": 79803,
       "word": "一栗小莎子说在喝中药",
@@ -1795,20 +1843,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74262,
+      "num": 74262,
+      "word": "昭珏三局零死亡",
+      "onboard_time": 1769158162,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 74213,
       "num": 74213,
       "word": "马年红包卖爆了",
       "onboard_time": 1769133440,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73926,
-      "num": 178201,
-      "word": "牢A称没见过美国底层成功逆袭",
-      "onboard_time": 1769156420,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 73067,
@@ -1884,7 +1932,7 @@
     },
     {
       "raw_hot": 67262,
-      "num": 128230,
+      "num": 200580,
       "word": "新国补到底怎么补",
       "onboard_time": 1769150180,
       "rank": 28,
@@ -2163,6 +2211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 43643,
+      "num": 193977,
+      "word": "徐梦桃的滑雪搭子",
+      "onboard_time": 1769155581,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43494,
       "num": 167627,
       "word": "生命树",
@@ -2291,14 +2347,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 32169,
-      "num": 178649,
-      "word": "徐梦桃的滑雪搭子",
-      "onboard_time": 1769155581,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 29258,
       "num": 91664,
       "word": "俄美乌三方会议今天举行",
@@ -2395,6 +2443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 18092,
+      "num": 628081,
+      "word": "工业经济发展这些方面很亮眼",
+      "onboard_time": 1769142682,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 17765,
       "num": 166171,
       "word": "8成消费者称在餐厅吃的是预制菜",
@@ -2451,18 +2507,18 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 11435,
-      "num": 628081,
-      "word": "工业经济发展这些方面很亮眼",
-      "onboard_time": 1769142682,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 7751,
       "num": 650827,
       "word": "2025年我国农业现代化水平持续提升",
       "onboard_time": 1769070381,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6206,
+      "num": 590487,
+      "word": "数读清洁能源发展成绩单",
+      "onboard_time": 1769158401,
       "rank": 2,
       "category": "民生新闻"
     },
