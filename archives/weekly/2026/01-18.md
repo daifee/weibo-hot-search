@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/18 00:32:47 ~ 2026/01/24 02:59:19
+本榜单时间：2026/01/18 00:32:47 ~ 2026/01/24 03:31:00
 </p>
 </blockquote>
 <p>
@@ -8103,6 +8103,12 @@ HLE对战BRO（热度：116474）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23U23%E5%9B%BD%E8%B6%B3vs%E6%97%A5%E6%9C%AC%23" target="weibo">
+U23国足vs日本（热度：116262）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%94%9F%E5%91%BD%E6%A0%91%E6%95%AC%E7%A4%BC%E8%BD%AC%E5%9C%BA%23" target="weibo">
 杨紫生命树敬礼转场（热度：115992）
 </a>
@@ -14067,12 +14073,6 @@ T1落后一万四经济翻盘（热度：57786）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23U23%E5%9B%BD%E8%B6%B3vs%E6%97%A5%E6%9C%AC%23" target="weibo">
-U23国足vs日本（热度：56899）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%BE%AE%E6%BC%AA%E6%9C%80%E5%90%8E%E5%87%A0%E5%B9%B4%E6%89%BE%E4%B8%8D%E5%88%B0%E6%A0%BC%E6%9E%97%E4%BA%86%23" target="weibo">
 李微漪最后几年找不到格林了（热度：56883）
 </a>
@@ -16001,6 +16001,12 @@ WTT多哈球星挑战赛（热度：19118）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%B0%9A32%E5%91%A8%E5%B9%B4%E6%97%B6%E5%B0%9A%E4%B9%8B%E5%A4%9C%23" target="weibo">
 时尚32周年时尚之夜（热度：15897）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9B%BD%E4%BC%9A%E4%B8%80%E5%BC%80%E5%B9%95%E5%B0%B1%E8%A7%A3%E6%95%A3%E4%BC%97%E8%AE%AE%E9%99%A2%23" target="weibo">
+日本国会一开幕就解散众议院（热度：15747）
 </a>
 </li>
 

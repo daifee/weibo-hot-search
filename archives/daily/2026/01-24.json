@@ -1,6 +1,6 @@
 {
   "startTime": 1769186467234,
-  "endTime": 1769194759853,
+  "endTime": 1769196660069,
   "band_list": [
     {
       "raw_hot": 850051,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116262,
+      "num": 56899,
+      "word": "U23国足vs日本",
+      "onboard_time": 1769191934,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113599,
       "num": 150325,
       "word": "脑综史上最窒息45分钟",
@@ -337,14 +345,6 @@
       "onboard_time": 1769178262,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 56899,
-      "num": 56899,
-      "word": "U23国足vs日本",
-      "onboard_time": 1769191934,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 55998,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 19959,
-      "num": 19959,
+      "num": 22389,
       "word": "太平年好混乱的年代",
       "onboard_time": 1769194335,
       "rank": 42,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 19537,
-      "num": 19537,
+      "num": 22384,
       "word": "小城大事",
       "onboard_time": 1769170161,
       "rank": 43,
@@ -537,6 +537,14 @@
       "onboard_time": 1769193495,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 15747,
+      "num": 22354,
+      "word": "日本国会一开幕就解散众议院",
+      "onboard_time": 1769196435,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 2329,
