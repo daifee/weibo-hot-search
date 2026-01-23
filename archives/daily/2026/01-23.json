@@ -1,6 +1,6 @@
 {
   "startTime": 1769100257042,
-  "endTime": 1769141392128,
+  "endTime": 1769142586649,
   "band_list": [
     {
       "raw_hot": 2732817,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1149237,
-      "num": 151303,
+      "num": 219135,
       "word": "猝死程序员底薪3千干7个人的活",
       "onboard_time": 1769130201,
       "rank": 10,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 893250,
-      "num": 168198,
+      "num": 300580,
       "word": "演员表为啥越来越看不懂了",
       "onboard_time": 1769129361,
       "rank": 11,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 707182,
-      "num": 172333,
+      "num": 310241,
       "word": "吃火锅偶遇贾玲张小斐",
       "onboard_time": 1769134879,
       "rank": 14,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 622131,
-      "num": 149084,
+      "num": 199198,
       "word": "一栗小莎子疑似患淋巴瘤",
       "onboard_time": 1769123418,
       "rank": 10,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 611965,
-      "num": 141660,
+      "num": 215198,
       "word": "儿子问舅舅不开门妈妈是不是不会死",
       "onboard_time": 1769125940,
       "rank": 20,
@@ -75,20 +75,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 498331,
-      "num": 169793,
-      "word": "金饰克价涨到1545元",
-      "onboard_time": 1769132839,
-      "rank": 16,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 493239,
-      "num": 170439,
+      "raw_hot": 502412,
+      "num": 308139,
       "word": "方圆力挺阿爆",
       "onboard_time": 1769139261,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 498331,
+      "num": 254154,
+      "word": "金饰克价涨到1545元",
+      "onboard_time": 1769132839,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 478129,
@@ -97,6 +97,14 @@
       "onboard_time": 1769131580,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 464173,
+      "num": 464173,
+      "word": "女子为孩子囤黄金投入90万收益200万",
+      "onboard_time": 1769140161,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 451978,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 441717,
-      "num": 775666,
+      "num": 780139,
       "word": "不二之臣",
       "onboard_time": 1769137939,
       "rank": 1,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 367320,
-      "num": 286415,
+      "num": 324724,
       "word": "马年的梗还是太超前了",
       "onboard_time": 1769137699,
       "rank": 5,
@@ -140,15 +148,23 @@
     },
     {
       "raw_hot": 354908,
-      "num": 148474,
+      "num": 216315,
       "word": "宋威龙 没忍住只因听见了爸爸",
       "onboard_time": 1769137820,
       "rank": 22,
       "category": "艺人"
     },
     {
+      "raw_hot": 348382,
+      "num": 305609,
+      "word": "同村村民猥亵患病女硕士的女儿",
+      "onboard_time": 1769140161,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 318058,
-      "num": 318058,
+      "num": 321808,
       "word": "飞驰人生3范丞丞镜头",
       "onboard_time": 1769136979,
       "rank": 3,
@@ -172,11 +188,19 @@
     },
     {
       "raw_hot": 303379,
-      "num": 144618,
+      "num": 299146,
       "word": "赵婷是宋丹丹的继女",
       "onboard_time": 1769139081,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300501,
+      "num": 217320,
+      "word": "流浪在美国的中国女子",
+      "onboard_time": 1769139560,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 287583,
@@ -193,6 +217,14 @@
       "onboard_time": 1769127201,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 283791,
+      "num": 528009,
+      "word": "周扬青说现在有人配的上我了",
+      "onboard_time": 1769139441,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 283749,
@@ -227,14 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 265045,
-      "num": 265045,
-      "word": "女子为孩子囤黄金投入90万收益200万",
-      "onboard_time": 1769140161,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 260610,
       "num": 767677,
       "word": "大疆pocket4发布时间",
@@ -249,14 +273,6 @@
       "onboard_time": 1769097680,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 254463,
-      "num": 128320,
-      "word": "流浪在美国的中国女子",
-      "onboard_time": 1769139560,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 254183,
@@ -283,6 +299,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229939,
+      "num": 475904,
+      "word": "12306回应高铁车厢二氧化碳浓度超标",
+      "onboard_time": 1769139501,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223101,
+      "num": 223101,
+      "word": "视源股份回应程序员猝死",
+      "onboard_time": 1769140161,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222744,
       "num": 142482,
       "word": "王石首次公开回应婚变传闻",
@@ -300,27 +332,35 @@
     },
     {
       "raw_hot": 220069,
-      "num": 135000,
+      "num": 203670,
       "word": "韩媒称车银优逃税天才",
       "onboard_time": 1769137880,
       "rank": 26,
       "category": "艺人"
     },
     {
-      "raw_hot": 219967,
-      "num": 219967,
-      "word": "周扬青说现在有人配的上我了",
-      "onboard_time": 1769139441,
-      "rank": 7,
-      "category": "综艺"
+      "raw_hot": 214961,
+      "num": 214961,
+      "word": "花千骨二番依旧出圈",
+      "onboard_time": 1769140281,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
-      "raw_hot": 217884,
-      "num": 167027,
-      "word": "同村村民猥亵患病女硕士的女儿",
-      "onboard_time": 1769140161,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 213716,
+      "num": 213716,
+      "word": "小城大事腾讯拉新倒数第一",
+      "onboard_time": 1769140039,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 211310,
+      "num": 211310,
+      "word": "六位影后的七年之约",
+      "onboard_time": 1769140881,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 210866,
@@ -379,14 +419,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 184494,
-      "num": 165702,
-      "word": "视源股份回应程序员猝死",
-      "onboard_time": 1769140161,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182578,
       "num": 182578,
       "word": "泡泡玛特电子木鱼爆火",
@@ -396,19 +428,11 @@
     },
     {
       "raw_hot": 180319,
-      "num": 131594,
+      "num": 172492,
       "word": "王鹤棣白鹿买菜路透",
       "onboard_time": 1769139980,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178139,
-      "num": 156612,
-      "word": "花千骨二番依旧出圈",
-      "onboard_time": 1769140281,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 173864,
@@ -420,7 +444,7 @@
     },
     {
       "raw_hot": 172635,
-      "num": 172635,
+      "num": 320262,
       "word": "一人之下6终于开打了",
       "onboard_time": 1769139980,
       "rank": 9,
@@ -451,14 +475,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 158116,
-      "num": 158116,
-      "word": "12306回应高铁车厢二氧化碳浓度超标",
-      "onboard_time": 1769139501,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153840,
       "num": 119006,
       "word": "肖战惊喜现身北京",
@@ -475,12 +491,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145509,
-      "num": 126120,
-      "word": "小城大事腾讯拉新倒数第一",
-      "onboard_time": 1769140039,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 151321,
+      "num": 151321,
+      "word": "友情出演冯绍峰",
+      "onboard_time": 1769141480,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 149856,
+      "num": 130095,
+      "word": "李行亮麦琳已无商业关联",
+      "onboard_time": 1769142140,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 145698,
+      "num": 212317,
+      "word": "金价还能涨多少",
+      "onboard_time": 1769139199,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 144222,
@@ -507,6 +539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 141682,
+      "num": 220808,
+      "word": "马斯克回应地球上有外星人",
+      "onboard_time": 1769138961,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 138891,
       "num": 189208,
       "word": "奥斯卡提名",
@@ -531,11 +571,27 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132411,
-      "num": 132411,
-      "word": "金价还能涨多少",
+      "raw_hot": 133019,
+      "num": 133019,
+      "word": "章昊 对不起我是中国人听不懂",
+      "onboard_time": 1769141961,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 132239,
+      "num": 176357,
+      "word": "猝死程序员所在公司发声",
+      "onboard_time": 1769139620,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129907,
+      "num": 129907,
+      "word": "金价",
       "onboard_time": 1769139199,
-      "rank": 27,
+      "rank": 42,
       "category": "财经"
     },
     {
@@ -611,12 +667,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105199,
-      "num": 105199,
-      "word": "猝死程序员所在公司发声",
-      "onboard_time": 1769139620,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 108068,
+      "num": 108068,
+      "word": "突然的喜欢女主就这样狮子小开口",
+      "onboard_time": 1769141180,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 104508,
@@ -633,6 +689,14 @@
       "onboard_time": 1769126060,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101723,
+      "num": 116117,
+      "word": "这个作者是真上过班",
+      "onboard_time": 1769138420,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 101204,
@@ -659,14 +723,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 100690,
-      "num": 100690,
-      "word": "马斯克回应地球上有外星人",
-      "onboard_time": 1769138961,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 98696,
       "num": 175463,
       "word": "黄景瑜 太空旅游",
@@ -683,20 +739,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96004,
-      "num": 96004,
-      "word": "这个作者是真上过班",
-      "onboard_time": 1769138420,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 95757,
       "num": 95757,
       "word": "重返狼群 怎么会有人被牛一板砖拍晕",
       "onboard_time": 1769091802,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 95628,
+      "num": 203902,
+      "word": "大连成东北首个GDP破万亿城市",
+      "onboard_time": 1769142140,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94606,
@@ -779,20 +835,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 88360,
-      "num": 88360,
-      "word": "突然的喜欢女主就这样狮子小开口",
-      "onboard_time": 1769141180,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 88089,
       "num": 88089,
       "word": "飞驰人生3首支预告",
       "onboard_time": 1769135419,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 87206,
+      "num": 104384,
+      "word": "久坐抖腿能预防血栓吗",
+      "onboard_time": 1769142441,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 85481,
@@ -956,7 +1012,7 @@
     },
     {
       "raw_hot": 71662,
-      "num": 164603,
+      "num": 221988,
       "word": "林更新眼光绝了",
       "onboard_time": 1769141000,
       "rank": 16,
@@ -979,14 +1035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68616,
-      "num": 101946,
-      "word": "六位影后的七年之约",
-      "onboard_time": 1769140881,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 67126,
       "num": 67126,
       "word": "特朗普起诉摩根大通",
@@ -1001,6 +1049,14 @@
       "onboard_time": 1769124317,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 65549,
+      "num": 132411,
+      "word": "内娱把先婚后恨玩出新花样",
+      "onboard_time": 1769142562,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 65407,
@@ -1052,7 +1108,7 @@
     },
     {
       "raw_hot": 58952,
-      "num": 101592,
+      "num": 124839,
       "word": "肖战北京春晚唱岁岁年年",
       "onboard_time": 1769141361,
       "rank": 37,
@@ -1137,6 +1193,14 @@
       "onboard_time": 1769125159,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 49052,
+      "num": 314491,
+      "word": "日本众议院正式解散",
+      "onboard_time": 1769141841,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 47174,
@@ -1307,6 +1371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 27433,
+      "num": 131453,
+      "word": "一些幽灵外卖商家厨房肮脏不堪",
+      "onboard_time": 1769142021,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26054,
       "num": 61627,
       "word": "重返狼群",
@@ -1321,6 +1393,14 @@
       "onboard_time": 1769085199,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24869,
+      "num": 131943,
+      "word": "美执法人员用儿童当诱饵抓捕大人",
+      "onboard_time": 1769142082,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 24146,
@@ -1417,11 +1497,22 @@
       "onboard_time": 1769070381,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 4097,
+      "num": 641785,
+      "word": "冰雪春天",
+      "onboard_time": 1769142382,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#中央军委主席习近平签署命令#"
+    },
+    {
+      "word": "#总书记为关键少数划定履职标尺#"
     }
   ]
 }

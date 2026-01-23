@@ -1,0 +1,410 @@
+{
+  "runTime": 1769142586649,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 506485,
+        "num": 1081037,
+        "word": "中国飞船首批20余位游客已预订",
+        "onboard_time": 1769136620,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 429828,
+        "num": 780139,
+        "word": "不二之臣",
+        "onboard_time": 1769137939,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 4097,
+        "num": 641785,
+        "word": "冰雪春天",
+        "onboard_time": 1769142382,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283791,
+        "num": 528009,
+        "word": "周扬青说现在有人配的上我了",
+        "onboard_time": 1769139441,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229939,
+        "num": 475904,
+        "word": "12306回应高铁车厢二氧化碳浓度超标",
+        "onboard_time": 1769139501,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464173,
+        "num": 464173,
+        "word": "女子为孩子囤黄金投入90万收益200万",
+        "onboard_time": 1769140161,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324724,
+        "num": 324724,
+        "word": "马年的梗还是太超前了",
+        "onboard_time": 1769137699,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275148,
+        "num": 321808,
+        "word": "飞驰人生3范丞丞镜头",
+        "onboard_time": 1769136979,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156883,
+        "num": 320262,
+        "word": "一人之下6终于开打了",
+        "onboard_time": 1769139980,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 49052,
+        "num": 314491,
+        "word": "日本众议院正式解散",
+        "onboard_time": 1769141841,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 585456,
+        "num": 310241,
+        "word": "吃火锅偶遇贾玲张小斐",
+        "onboard_time": 1769134879,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502412,
+        "num": 308139,
+        "word": "方圆力挺阿爆",
+        "onboard_time": 1769139261,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 348382,
+        "num": 305609,
+        "word": "同村村民猥亵患病女硕士的女儿",
+        "onboard_time": 1769140161,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 459601,
+        "num": 300580,
+        "word": "演员表为啥越来越看不懂了",
+        "onboard_time": 1769129361,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 299146,
+        "num": 299146,
+        "word": "赵婷是宋丹丹的继女",
+        "onboard_time": 1769139081,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254154,
+        "num": 254154,
+        "word": "金饰克价涨到1545元",
+        "onboard_time": 1769132839,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 223101,
+        "num": 223101,
+        "word": "视源股份回应程序员猝死",
+        "onboard_time": 1769140161,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46295,
+        "num": 221988,
+        "word": "林更新眼光绝了",
+        "onboard_time": 1769141000,
+        "rank": 17,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 141682,
+        "num": 220808,
+        "word": "马斯克回应地球上有外星人",
+        "onboard_time": 1769138961,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120952,
+        "num": 220498,
+        "word": "中国飞船预售票一张300万",
+        "onboard_time": 1769129061,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 725375,
+        "num": 219135,
+        "word": "猝死程序员底薪3千干7个人的活",
+        "onboard_time": 1769130201,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300501,
+        "num": 217320,
+        "word": "流浪在美国的中国女子",
+        "onboard_time": 1769139560,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 293892,
+        "num": 216315,
+        "word": "宋威龙 没忍住只因听见了爸爸",
+        "onboard_time": 1769137820,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226133,
+        "num": 215198,
+        "word": "儿子问舅舅不开门妈妈是不是不会死",
+        "onboard_time": 1769125940,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214961,
+        "num": 214961,
+        "word": "花千骨二番依旧出圈",
+        "onboard_time": 1769140281,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213716,
+        "num": 213716,
+        "word": "小城大事腾讯拉新倒数第一",
+        "onboard_time": 1769140039,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145698,
+        "num": 212317,
+        "word": "金价还能涨多少",
+        "onboard_time": 1769139199,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 211310,
+        "num": 211310,
+        "word": "六位影后的七年之约",
+        "onboard_time": 1769140881,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95628,
+        "num": 203902,
+        "word": "大连成东北首个GDP破万亿城市",
+        "onboard_time": 1769142140,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93357,
+        "num": 203721,
+        "word": "女子被一次性拔牙12颗后心梗休克",
+        "onboard_time": 1769096961,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2205,
+        "num": 203695,
+        "word": "2025年我国农业现代化水平持续提升",
+        "onboard_time": 1769070381,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203670,
+        "num": 203670,
+        "word": "韩媒称车银优逃税天才",
+        "onboard_time": 1769137880,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199198,
+        "num": 199198,
+        "word": "一栗小莎子疑似患淋巴瘤",
+        "onboard_time": 1769123418,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 132239,
+        "num": 176357,
+        "word": "猝死程序员所在公司发声",
+        "onboard_time": 1769139620,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172492,
+        "num": 172492,
+        "word": "王鹤棣白鹿买菜路透",
+        "onboard_time": 1769139980,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151321,
+        "num": 151321,
+        "word": "友情出演冯绍峰",
+        "onboard_time": 1769141480,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133019,
+        "num": 133019,
+        "word": "章昊 对不起我是中国人听不懂",
+        "onboard_time": 1769141961,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65549,
+        "num": 132411,
+        "word": "内娱把先婚后恨玩出新花样",
+        "onboard_time": 1769142562,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24869,
+        "num": 131943,
+        "word": "美执法人员用儿童当诱饵抓捕大人",
+        "onboard_time": 1769142082,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 27433,
+        "num": 131453,
+        "word": "一些幽灵外卖商家厨房肮脏不堪",
+        "onboard_time": 1769142021,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86472,
+        "num": 130818,
+        "word": "米兰冬奥运动员公示",
+        "onboard_time": 1769132300,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149856,
+        "num": 130095,
+        "word": "李行亮麦琳已无商业关联",
+        "onboard_time": 1769142140,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129907,
+        "num": 129907,
+        "word": "金价",
+        "onboard_time": 1769139199,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 55749,
+        "num": 124839,
+        "word": "肖战北京春晚唱岁岁年年",
+        "onboard_time": 1769141361,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123978,
+        "num": 123978,
+        "word": "一栗小莎子回应疑似患淋巴瘤",
+        "onboard_time": 1769137398,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 101723,
+        "num": 116117,
+        "word": "这个作者是真上过班",
+        "onboard_time": 1769138420,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113584,
+        "num": 113584,
+        "word": "张桂源二番",
+        "onboard_time": 1769129300,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108068,
+        "num": 108068,
+        "word": "突然的喜欢女主就这样狮子小开口",
+        "onboard_time": 1769141180,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87206,
+        "num": 104384,
+        "word": "久坐抖腿能预防血栓吗",
+        "onboard_time": 1769142441,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 102390,
+        "num": 102390,
+        "word": "卢昱晓选本眼光",
+        "onboard_time": 1769138961,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为关键少数划定履职标尺#"
+    }
+  }
+}
