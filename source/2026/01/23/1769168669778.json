@@ -1,0 +1,410 @@
+{
+  "runTime": 1769168669778,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 210155,
+        "num": 1033624,
+        "word": "U23",
+        "onboard_time": 1769162181,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171614,
+        "num": 725708,
+        "word": "中年考公三件套一年狂捞270亿",
+        "onboard_time": 1769158580,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52325,
+        "num": 720068,
+        "word": "新国补到底怎么补",
+        "onboard_time": 1769150180,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114770,
+        "num": 717302,
+        "word": "俄一客机备降兰州盘旋多圈平安降落",
+        "onboard_time": 1769167220,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109273,
+        "num": 708688,
+        "word": "多地中小学取消非毕业年级期末统考",
+        "onboard_time": 1769151080,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 106811,
+        "num": 703440,
+        "word": "丹麦士兵携实弹进驻格陵兰岛",
+        "onboard_time": 1769165781,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93446,
+        "num": 699907,
+        "word": "操纵67个账户被罚没超10亿",
+        "onboard_time": 1769165362,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80952,
+        "num": 694131,
+        "word": "超自然行动组周年庆",
+        "onboard_time": 1769168601,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 75681,
+        "num": 686732,
+        "word": "Faker率T1翻盘KT",
+        "onboard_time": 1769168180,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 58678,
+        "num": 680218,
+        "word": "林诗栋止步男单8强",
+        "onboard_time": 1769157501,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 919494,
+        "num": 675723,
+        "word": "苹果用户的天塌了",
+        "onboard_time": 1769155100,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 671984,
+        "num": 671984,
+        "word": "Lululemon新款瑜伽裤太透明被下架",
+        "onboard_time": 1769164461,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57786,
+        "num": 666164,
+        "word": "T1落后一万四经济翻盘",
+        "onboard_time": 1769165540,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 484726,
+        "num": 662020,
+        "word": "TF二代吻戏第一人",
+        "onboard_time": 1769167580,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 377751,
+        "num": 655340,
+        "word": "贝克汉姆给大儿子的礼物",
+        "onboard_time": 1769163620,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302872,
+        "num": 649590,
+        "word": "痞幼去恋综不敢告诉方圆",
+        "onboard_time": 1769165901,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293698,
+        "num": 641459,
+        "word": "无畏契约",
+        "onboard_time": 1769166981,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 54202,
+        "num": 639430,
+        "word": "影视飓风说荣耀Air是独一档",
+        "onboard_time": 1769164699,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 224618,
+        "num": 631649,
+        "word": "以后道歉请按照这个标准来",
+        "onboard_time": 1769165781,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175613,
+        "num": 623232,
+        "word": "泰一家16人跟团游哈尔滨回国报警",
+        "onboard_time": 1769167520,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 621365,
+        "num": 621365,
+        "word": "老鼠干火到美国了",
+        "onboard_time": 1769162660,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490575,
+        "num": 490575,
+        "word": "李嘉诚 无畏契约封号",
+        "onboard_time": 1769162541,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144695,
+        "num": 378155,
+        "word": "邓佳鑫被批不是偶像团体中最火的",
+        "onboard_time": 1769161461,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312455,
+        "num": 312455,
+        "word": "猝死程序员妻子不想他连死都没有价值",
+        "onboard_time": 1769163560,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273327,
+        "num": 273327,
+        "word": "格林不在了",
+        "onboard_time": 1769155161,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237820,
+        "num": 237820,
+        "word": "猝死程序员家属称找的律师都不想接",
+        "onboard_time": 1769160141,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219411,
+        "num": 219411,
+        "word": "大学时期的卢昱晓",
+        "onboard_time": 1769164641,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194206,
+        "num": 194206,
+        "word": "车银优宋慧乔被称为逃税情侣",
+        "onboard_time": 1769148142,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77213,
+        "num": 166796,
+        "word": "黄金在白银面前也黯然失色",
+        "onboard_time": 1769167161,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 62093,
+        "num": 159687,
+        "word": "陈伟霆的老钱风更是alpha级别",
+        "onboard_time": 1769166380,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158524,
+        "num": 158524,
+        "word": "儿子打视频要钱女友现身父亲秒变脸",
+        "onboard_time": 1769164761,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140948,
+        "num": 140948,
+        "word": "亲爱的客栈",
+        "onboard_time": 1769165661,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134891,
+        "num": 134891,
+        "word": "建议没体验过C位的反复观看",
+        "onboard_time": 1769167881,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131084,
+        "num": 131084,
+        "word": "黄景瑜要上太空了",
+        "onboard_time": 1769142743,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124024,
+        "num": 124024,
+        "word": "摸凹猫 摸凸猫",
+        "onboard_time": 1769153481,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64651,
+        "num": 123373,
+        "word": "金价疯涨原因",
+        "onboard_time": 1769154800,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 64114,
+        "num": 122474,
+        "word": "李现这个状态快抓去演现偶",
+        "onboard_time": 1769168061,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55177,
+        "num": 122178,
+        "word": "易烊千玺说很荣幸回到温暖大家庭",
+        "onboard_time": 1769168000,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27417,
+        "num": 121374,
+        "word": "我踏马来了标语引争议",
+        "onboard_time": 1769168419,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11641,
+        "num": 120022,
+        "word": "喵娲娲到底夹了多少票",
+        "onboard_time": 1769166083,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119921,
+        "num": 119921,
+        "word": "zz9 前女友",
+        "onboard_time": 1769162360,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114871,
+        "num": 114871,
+        "word": "猝死程序员赔39万妻子只拿4到6万",
+        "onboard_time": 1769166981,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109287,
+        "num": 109287,
+        "word": "张杰成都演唱会",
+        "onboard_time": 1769166561,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105670,
+        "num": 105670,
+        "word": "王安宇 人不可手相",
+        "onboard_time": 1769161040,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98622,
+        "num": 98622,
+        "word": "美国的寄养家庭太地狱了",
+        "onboard_time": 1769167641,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 90948,
+        "num": 90948,
+        "word": "吃到了白鹿沈月送的烤肠",
+        "onboard_time": 1769168479,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89614,
+        "num": 89614,
+        "word": "骆驼向王俊凯致歉",
+        "onboard_time": 1769142982,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89423,
+        "num": 89423,
+        "word": "寒假没苦硬吃的三大行为",
+        "onboard_time": 1769167520,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88130,
+        "num": 88130,
+        "word": "赵今麦刘浩存活动生图",
+        "onboard_time": 1769164161,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 62323,
+        "num": 86849,
+        "word": "12306购票页面小字啥意思",
+        "onboard_time": 1769166621,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同卢拉通电话#"
+    }
+  }
+}
