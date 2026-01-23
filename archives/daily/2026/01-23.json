@@ -1,6 +1,6 @@
 {
   "startTime": 1769100257042,
-  "endTime": 1769178872901,
+  "endTime": 1769180000884,
   "band_list": [
     {
       "raw_hot": 2732817,
@@ -43,12 +43,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1065838,
-      "num": 466390,
+      "raw_hot": 1084806,
+      "num": 614145,
       "word": "太平年 吃人",
       "onboard_time": 1769175200,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1039917,
+      "num": 611783,
+      "word": "张杰不再参加任何需要投票的活动",
+      "onboard_time": 1769178741,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 1024669,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 665273,
-      "num": 211566,
+      "num": 440998,
       "word": "季节 誓约",
       "onboard_time": 1769177422,
       "rank": 13,
@@ -161,6 +169,14 @@
       "onboard_time": 1769125940,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 608670,
+      "num": 608670,
+      "word": "马龙樊振东王楚钦聚餐画面",
+      "onboard_time": 1769176102,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 584632,
@@ -219,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 520710,
+      "num": 520710,
+      "word": "26岁工程师家里熟睡中猝死",
+      "onboard_time": 1769175561,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 512156,
       "num": 380097,
       "word": "女子被一次性拔牙12颗后心梗休克",
@@ -233,6 +257,14 @@
       "onboard_time": 1769174481,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 504778,
+      "num": 1080764,
+      "word": "太平年",
+      "onboard_time": 1769170460,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 503958,
@@ -291,14 +323,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 485614,
-      "num": 267747,
-      "word": "26岁工程师家里熟睡中猝死",
-      "onboard_time": 1769175561,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 484726,
       "num": 662020,
       "word": "TF二代吻戏第一人",
@@ -313,14 +337,6 @@
       "onboard_time": 1769131580,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 466349,
-      "num": 1074615,
-      "word": "太平年",
-      "onboard_time": 1769170460,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 453239,
@@ -363,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 434805,
-      "num": 209092,
-      "word": "马龙樊振东王楚钦聚餐画面",
-      "onboard_time": 1769176102,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 432060,
       "num": 1069129,
       "word": "国乒多名球员退队",
@@ -400,6 +408,14 @@
       "word": "赵子豪退出国家队",
       "onboard_time": 1769149280,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 408378,
+      "num": 787725,
+      "word": "央视转播U23国足与日本比赛",
+      "onboard_time": 1769176642,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -505,14 +521,6 @@
       "onboard_time": 1769137820,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 353904,
-      "num": 787725,
-      "word": "央视转播U23国足与日本比赛",
-      "onboard_time": 1769176642,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 348382,
@@ -1011,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204724,
+      "num": 204724,
+      "word": "黄景瑜签约航天公司仅4项发明专利",
+      "onboard_time": 1769179341,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203761,
       "num": 180390,
       "word": "网红周媛实名主账号被封",
@@ -1099,11 +1115,11 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 187305,
-      "num": 153906,
-      "word": "张杰不再参加任何需要投票的活动",
+      "raw_hot": 188659,
+      "num": 188659,
+      "word": "徐冬冬尹子维早生贵子具象化",
       "onboard_time": 1769178741,
-      "rank": 25,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -1148,7 +1164,7 @@
     },
     {
       "raw_hot": 181170,
-      "num": 216202,
+      "num": 626493,
       "word": "最强大脑",
       "onboard_time": 1769172621,
       "rank": 30,
@@ -1177,6 +1193,14 @@
       "onboard_time": 1769133620,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 172878,
+      "num": 172878,
+      "word": "韩国最大在野党党首张东赫绝食8天",
+      "onboard_time": 1769178262,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 172635,
@@ -1299,6 +1323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153205,
+      "num": 153205,
+      "word": "赵今麦miumiu活动出图",
+      "onboard_time": 1769177361,
+      "rank": 28,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 151321,
       "num": 151321,
       "word": "友情出演冯绍峰",
@@ -1419,12 +1451,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138991,
-      "num": 138991,
-      "word": "赵今麦miumiu活动出图",
-      "onboard_time": 1769177361,
-      "rank": 28,
-      "category": "艺人,时尚"
+      "raw_hot": 139131,
+      "num": 139131,
+      "word": "怎么说服侯明昊拍这个的",
+      "onboard_time": 1769178802,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 138891,
@@ -1523,6 +1555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130337,
+      "num": 130337,
+      "word": "碧血蝉",
+      "onboard_time": 1769179341,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129794,
       "num": 129794,
       "word": "纪东杰模仿蔡徐坤",
@@ -1561,6 +1601,14 @@
       "onboard_time": 1769144182,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128894,
+      "num": 621849,
+      "word": "狼队战胜RW",
+      "onboard_time": 1769179461,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 126521,
@@ -1619,14 +1667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 124026,
-      "num": 139034,
-      "word": "韩国最大在野党党首张东赫绝食8天",
-      "onboard_time": 1769178262,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 123828,
       "num": 140170,
       "word": "选美甲思路",
@@ -1649,6 +1689,22 @@
       "onboard_time": 1769175922,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120600,
+      "num": 112012,
+      "word": "哥哥愤怒张某目睹女硕士被强奸不报警",
+      "onboard_time": 1769175621,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119909,
+      "num": 194060,
+      "word": "孙颖莎与邱贻可指导聚餐",
+      "onboard_time": 1769176521,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 119831,
@@ -1683,14 +1739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119074,
-      "num": 194060,
-      "word": "孙颖莎与邱贻可指导聚餐",
-      "onboard_time": 1769176521,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118533,
       "num": 118533,
       "word": "第一次过敏得如此性感",
@@ -1705,6 +1753,14 @@
       "onboard_time": 1769159480,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117230,
+      "num": 117230,
+      "word": "誓约 陪玩",
+      "onboard_time": 1769179402,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 117139,
@@ -1755,14 +1811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 112012,
-      "num": 112012,
-      "word": "哥哥愤怒张某目睹女硕士被强奸不报警",
-      "onboard_time": 1769175621,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111627,
       "num": 560506,
       "word": "九尾输出",
@@ -1808,6 +1856,14 @@
       "word": "长生正式确诊为水母",
       "onboard_time": 1769162600,
       "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 109810,
+      "num": 109810,
+      "word": "JDG对战BLG",
+      "onboard_time": 1769178982,
+      "rank": 40,
       "category": "电竞"
     },
     {
@@ -1859,6 +1915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108248,
+      "num": 153533,
+      "word": "不建议个人用SIM卡提炼黄金",
+      "onboard_time": 1769178203,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108210,
       "num": 175878,
       "word": "金饰克价4天猛涨近百元",
@@ -1881,6 +1945,14 @@
       "onboard_time": 1769173340,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107019,
+      "num": 107019,
+      "word": "脑综史上最窒息45分钟",
+      "onboard_time": 1769179643,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 106924,
@@ -1929,6 +2001,14 @@
       "onboard_time": 1769156362,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 104839,
+      "num": 84887,
+      "word": "董璇靠纯蒙打败了北大教授",
+      "onboard_time": 1769179762,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 104508,
@@ -2347,6 +2427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92263,
+      "num": 214023,
+      "word": "外交部回应中美元首互访传闻",
+      "onboard_time": 1769178022,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 91809,
       "num": 91809,
       "word": "上千人直播间只有一个真人",
@@ -2475,14 +2563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 89647,
-      "num": 89647,
-      "word": "徐冬冬尹子维早生贵子具象化",
-      "onboard_time": 1769178741,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 89503,
       "num": 89503,
       "word": "王励勤辞任上海乒协会长",
@@ -2563,6 +2643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 86354,
+      "num": 86354,
+      "word": "曝TheShy和JackeyLove一起复出",
+      "onboard_time": 1769177062,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 86345,
       "num": 86345,
       "word": "美国正调集重兵前往伊朗",
@@ -2577,14 +2665,6 @@
       "onboard_time": 1769153421,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 86080,
-      "num": 86080,
-      "word": "怎么说服侯明昊拍这个的",
-      "onboard_time": 1769178802,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 85739,
@@ -2824,6 +2904,14 @@
       "word": "林诗栋连续三站无缘决赛",
       "onboard_time": 1769160680,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 78942,
+      "num": 110829,
+      "word": "辽宁男篮vs山东男篮",
+      "onboard_time": 1769179822,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -3435,6 +3523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38649,
+      "num": 238962,
+      "word": "妻子称猝死程序员入职该司是其梦想",
+      "onboard_time": 1769179402,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38086,
       "num": 38086,
       "word": "特朗普在达沃斯启动和平委员会",
@@ -3465,14 +3561,6 @@
       "onboard_time": 1769165120,
       "rank": 38,
       "category": "网红"
-    },
-    {
-      "raw_hot": 35837,
-      "num": 214023,
-      "word": "外交部回应中美元首互访传闻",
-      "onboard_time": 1769178022,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 34376,
@@ -3729,6 +3817,14 @@
       "onboard_time": 1769154142,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15589,
+      "num": 616436,
+      "word": "高市为什么急着解散众议院",
+      "onboard_time": 1769179223,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 15027,
