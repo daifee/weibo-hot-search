@@ -1,6 +1,6 @@
 {
   "startTime": 1769100257042,
-  "endTime": 1769174223135,
+  "endTime": 1769176360756,
   "band_list": [
     {
       "raw_hot": 2732817,
@@ -41,6 +41,14 @@
       "onboard_time": 1769148142,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 947180,
+      "num": 429739,
+      "word": "海底捞 点炮制度",
+      "onboard_time": 1769172802,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 893250,
@@ -219,20 +227,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 501379,
-      "num": 206497,
-      "word": "海底捞 点炮制度",
-      "onboard_time": 1769172802,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 498331,
       "num": 254154,
       "word": "金饰克价涨到1545元",
       "onboard_time": 1769132839,
       "rank": 16,
       "category": "财经"
+    },
+    {
+      "raw_hot": 495540,
+      "num": 206088,
+      "word": "腾讯2025新增永不合作公司名单",
+      "onboard_time": 1769173582,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 492768,
@@ -267,12 +275,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 453239,
+      "num": 1072518,
+      "word": "国足赢一场就回家",
+      "onboard_time": 1769170581,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 451978,
       "num": 140483,
       "word": "黄金",
       "onboard_time": 1769123476,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 451708,
+      "num": 165220,
+      "word": "太平年尺度",
+      "onboard_time": 1769174900,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 441551,
@@ -291,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 437523,
+      "num": 782310,
+      "word": "太平年",
+      "onboard_time": 1769170460,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 437298,
       "num": 185107,
       "word": "刘烨安娜女儿霓娜近照",
@@ -305,6 +337,14 @@
       "onboard_time": 1769155522,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 427587,
+      "num": 165087,
+      "word": "黄景瑜上太空 王一博天塌了",
+      "onboard_time": 1769174481,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 425671,
@@ -329,6 +369,14 @@
       "onboard_time": 1769149280,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 404883,
+      "num": 165063,
+      "word": "太平年 吃人",
+      "onboard_time": 1769175200,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 397102,
@@ -483,20 +531,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 315922,
-      "num": 1050547,
-      "word": "国足赢一场就回家",
-      "onboard_time": 1769170581,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 312192,
       "num": 1036330,
       "word": "林诗栋止步男单8强",
       "onboard_time": 1769157501,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 310597,
+      "num": 259709,
+      "word": "王鹤棣依偎在白鹿肩上",
+      "onboard_time": 1769171900,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 307443,
@@ -521,6 +569,14 @@
       "onboard_time": 1769165661,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 300851,
+      "num": 173962,
+      "word": "张晚意独自从北京自驾到厦门",
+      "onboard_time": 1769173582,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 295924,
@@ -667,14 +723,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 259709,
-      "num": 259709,
-      "word": "王鹤棣依偎在白鹿肩上",
-      "onboard_time": 1769171900,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 255335,
       "num": 181865,
       "word": "胖东来保洁员月薪9千永辉没学到",
@@ -787,14 +835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 230241,
-      "num": 206843,
-      "word": "太平年",
-      "onboard_time": 1769170460,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 229205,
       "num": 206049,
       "word": "猝死程序员赔39万妻子只拿4到6万",
@@ -817,6 +857,14 @@
       "onboard_time": 1769138961,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 226803,
+      "num": 164429,
+      "word": "张信哲问邓佳鑫谈过几次恋爱",
+      "onboard_time": 1769174301,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 226037,
@@ -881,14 +929,6 @@
       "onboard_time": 1769146762,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 218748,
-      "num": 206088,
-      "word": "腾讯2025新增永不合作公司名单",
-      "onboard_time": 1769173582,
-      "rank": 18,
-      "category": "互联网"
     },
     {
       "raw_hot": 215298,
@@ -971,6 +1011,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 198158,
+      "num": 164529,
+      "word": "26岁工程师家里熟睡中猝死",
+      "onboard_time": 1769175561,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197282,
+      "num": 206681,
+      "word": "朱易自由滑115.01分",
+      "onboard_time": 1769173280,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195656,
       "num": 228643,
       "word": "飞驰人生3领衔主演尹正",
@@ -993,14 +1049,6 @@
       "onboard_time": 1769151380,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 193195,
-      "num": 173962,
-      "word": "张晚意独自从北京自驾到厦门",
-      "onboard_time": 1769173582,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 191713,
@@ -1121,6 +1169,14 @@
       "onboard_time": 1769137398,
       "rank": 29,
       "category": "网红"
+    },
+    {
+      "raw_hot": 165689,
+      "num": 165689,
+      "word": "就这样和张杰擦肩而过了",
+      "onboard_time": 1769174602,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 163543,
@@ -1427,6 +1483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126004,
+      "num": 126004,
+      "word": "马龙樊振东王楚钦聚餐画面",
+      "onboard_time": 1769176102,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125873,
       "num": 125873,
       "word": "不需要每月3克黄金的工作",
@@ -1481,6 +1545,22 @@
       "onboard_time": 1769153900,
       "rank": 28,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 123781,
+      "num": 123781,
+      "word": "纪东杰模仿蔡徐坤",
+      "onboard_time": 1769175682,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 123229,
+      "num": 123229,
+      "word": "可可托海 雪豹",
+      "onboard_time": 1769175981,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119831,
@@ -1595,6 +1675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110455,
+      "num": 206451,
+      "word": "美国十几个州进入紧急状态",
+      "onboard_time": 1769172261,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 110420,
       "num": 125427,
       "word": "KT远古龙都打不过T1",
@@ -1683,6 +1771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108058,
+      "num": 108058,
+      "word": "程序员妻子称和客户说时对方震惊了",
+      "onboard_time": 1769175922,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107299,
       "num": 107299,
       "word": "吴彦祖有女儿后家庭发生很大改变",
@@ -1763,8 +1859,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 103203,
+      "num": 103203,
+      "word": "哥哥愤怒张某目睹女硕士被强奸不报警",
+      "onboard_time": 1769175621,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102956,
-      "num": 138258,
+      "num": 164353,
       "word": "黄金高位突发跳水",
       "onboard_time": 1769172261,
       "rank": 37,
@@ -1793,6 +1897,14 @@
       "onboard_time": 1769138420,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101330,
+      "num": 101330,
+      "word": "人类精子有个神秘的衰老时钟",
+      "onboard_time": 1769172921,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 101204,
@@ -1915,14 +2027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 98362,
-      "num": 206681,
-      "word": "朱易自由滑115.01分",
-      "onboard_time": 1769173280,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 98147,
       "num": 167730,
       "word": "突然的喜欢",
@@ -2027,6 +2131,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 94375,
+      "num": 164297,
+      "word": "招商银行2025年净利润1501.81亿元",
+      "onboard_time": 1769175922,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 94192,
       "num": 94192,
       "word": "中央厨房制作的菜肴不是预制菜",
@@ -2097,6 +2209,14 @@
       "onboard_time": 1769145501,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 92577,
+      "num": 165497,
+      "word": "可可托海宝石沟雪豹袭击游客",
+      "onboard_time": 1769176163,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92491,
@@ -2483,14 +2603,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 81056,
-      "num": 206451,
-      "word": "美国十几个州进入紧急状态",
-      "onboard_time": 1769172261,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 80952,
       "num": 694131,
       "word": "超自然行动组周年庆",
@@ -2545,14 +2657,6 @@
       "onboard_time": 1769134339,
       "rank": 40,
       "category": "网红"
-    },
-    {
-      "raw_hot": 79797,
-      "num": 89757,
-      "word": "人类精子有个神秘的衰老时钟",
-      "onboard_time": 1769172921,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 79366,
@@ -2785,6 +2889,14 @@
       "onboard_time": 1769094742,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64660,
+      "num": 164220,
+      "word": "中国u23国足尽最大努力争冠",
+      "onboard_time": 1769175442,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 64436,
@@ -3187,6 +3299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36259,
+      "num": 100537,
+      "word": "冬日羽绒服fitcheck",
+      "onboard_time": 1769165241,
+      "rank": 49,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 36255,
       "num": 126951,
       "word": "迅猛龙弟弟也是学霸",
@@ -3208,6 +3328,14 @@
       "word": "家人称猝死程序员很喜欢代码",
       "onboard_time": 1769140821,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33716,
+      "num": 164865,
+      "word": "猝死程序员公司不配合工伤认定",
+      "onboard_time": 1769175801,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -3387,14 +3515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18951,
-      "num": 91467,
-      "word": "冬日羽绒服fitcheck",
-      "onboard_time": 1769165241,
-      "rank": 49,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 18187,
       "num": 32698,
       "word": "小城大事",
@@ -3467,6 +3587,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 13343,
+      "num": 164927,
+      "word": "猝死程序员备忘录曾写要体谅下属",
+      "onboard_time": 1769175501,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13240,
+      "num": 641785,
+      "word": "冰雪春天",
+      "onboard_time": 1769142382,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11835,
       "num": 120022,
       "word": "喵娲娲到底夹了多少票",
@@ -3489,14 +3625,6 @@
       "onboard_time": 1769158401,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 4097,
-      "num": 641785,
-      "word": "冰雪春天",
-      "onboard_time": 1769142382,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -3508,6 +3636,9 @@
     },
     {
       "word": "#习近平同卢拉通电话#"
+    },
+    {
+      "word": "#习近平致电祝贺苏林#"
     }
   ]
 }

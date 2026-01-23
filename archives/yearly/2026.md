@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/23 21:17:03
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/23 21:52:40
 </p>
 </blockquote>
 <p>
@@ -1257,6 +1257,12 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%20%E7%82%B9%E7%82%AE%E5%88%B6%E5%BA%A6%23" target="weibo">
+海底捞 点炮制度（热度：947180）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%88%B8%E7%88%B875%E5%B2%81%E7%8A%B6%E6%80%81%23" target="weibo">
 范丞丞爸爸75岁状态（热度：947140）
 </a>
@@ -1805,12 +1811,6 @@ iPhone18Pro新爆料（热度：826962）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%B8%B8%E9%BB%84%E5%B1%B1%E9%AB%98%E5%9D%A0%E6%AD%BB%E4%BA%A1%E8%B0%81%E5%91%BC%E5%87%BA%E7%9A%84%E7%94%B5%E8%AF%9D%23" target="weibo">
 女生游黄山高坠死亡谁呼出的电话（热度：810815）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%B0%B7%E5%81%B6%E9%81%87%E9%9E%A0%E5%A9%A7%E7%A5%8E%E9%80%9B%E8%A1%97%23" target="weibo">
-曼谷偶遇鞠婧祎逛街（热度：810345）
 </a>
 </li>
 
