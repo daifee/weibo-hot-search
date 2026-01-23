@@ -1,6 +1,6 @@
 {
   "startTime": 1769100257042,
-  "endTime": 1769158496032,
+  "endTime": 1769161147915,
   "band_list": [
     {
       "raw_hot": 2732817,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 432060,
+      "num": 1069129,
+      "word": "国乒多名球员退队",
+      "onboard_time": 1769155522,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 425671,
       "num": 169401,
       "word": "女子要以身相许抵前男友欠款",
@@ -251,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 397102,
+      "num": 192175,
+      "word": "影视项目 削女演员片酬",
+      "onboard_time": 1769157080,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 387311,
       "num": 224512,
       "word": "王玉雯把猥琐劲儿给演出来了",
@@ -273,14 +289,6 @@
       "onboard_time": 1769139560,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 372647,
-      "num": 1059623,
-      "word": "国乒多名球员退队",
-      "onboard_time": 1769155522,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 367320,
@@ -315,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350601,
+      "num": 188475,
+      "word": "影视项目 全男戏",
+      "onboard_time": 1769157440,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 348382,
       "num": 305609,
       "word": "同村村民猥亵患病女硕士的女儿",
@@ -340,7 +356,7 @@
     },
     {
       "raw_hot": 312192,
-      "num": 312192,
+      "num": 788719,
       "word": "林诗栋止步男单8强",
       "onboard_time": 1769157501,
       "rank": 39,
@@ -377,14 +393,6 @@
       "onboard_time": 1769143521,
       "rank": 41,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 289457,
-      "num": 192175,
-      "word": "影视项目 削女演员片酬",
-      "onboard_time": 1769157080,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 289183,
@@ -531,6 +539,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 242327,
+      "num": 178201,
+      "word": "牢A称没见过美国底层成功逆袭",
+      "onboard_time": 1769156420,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 240721,
+      "num": 206304,
+      "word": "一口气买2斤黄金2天赚10多万",
+      "onboard_time": 1769155100,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 233747,
       "num": 137848,
       "word": "张桂源二番",
@@ -553,6 +577,14 @@
       "onboard_time": 1769138961,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 226037,
+      "num": 129985,
+      "word": "三十岁给二十岁的建议",
+      "onboard_time": 1769156901,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 224345,
@@ -603,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216994,
+      "num": 104420,
+      "word": "中年考公三件套一年狂捞270亿",
+      "onboard_time": 1769158580,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215298,
       "num": 203589,
       "word": "深圳婚育宣传文案走红",
@@ -635,20 +675,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206304,
-      "num": 206304,
-      "word": "一口气买2斤黄金2天赚10多万",
-      "onboard_time": 1769155100,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 203761,
       "num": 180390,
       "word": "网红周媛实名主账号被封",
       "onboard_time": 1769090001,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 200334,
+      "num": 200334,
+      "word": "TF四代川渝春晚路透",
+      "onboard_time": 1769159721,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 199951,
@@ -699,14 +739,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 188475,
-      "num": 188475,
-      "word": "影视项目 全男戏",
-      "onboard_time": 1769157440,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186063,
       "num": 159594,
       "word": "张凌赫张婧仪 现偶",
@@ -721,6 +753,14 @@
       "onboard_time": 1769143162,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 184367,
+      "num": 86149,
+      "word": "内娱没有一个盈盈是好惹的",
+      "onboard_time": 1769159540,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 182578,
@@ -995,14 +1035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129985,
-      "num": 129985,
-      "word": "三十岁给二十岁的建议",
-      "onboard_time": 1769156901,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 129611,
       "num": 129611,
       "word": "2026米兰冬奥会",
@@ -1067,14 +1099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124637,
-      "num": 178201,
-      "word": "牢A称没见过美国底层成功逆袭",
-      "onboard_time": 1769156420,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 124454,
       "num": 124454,
       "word": "卢昱晓选本眼光",
@@ -1115,6 +1139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117972,
+      "num": 85214,
+      "word": "结婚前把改嫁说明白挺好的",
+      "onboard_time": 1769159480,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117139,
       "num": 117139,
       "word": "去年腾讯20余人涉嫌犯罪被移送警方",
@@ -1147,10 +1179,34 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111627,
+      "num": 111627,
+      "word": "九尾输出",
+      "onboard_time": 1769157860,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 111625,
+      "num": 84215,
+      "word": "王梓薇回应瘦了50斤",
+      "onboard_time": 1769160742,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110994,
       "num": 110994,
       "word": "陈飞宇减肥前后对比",
       "onboard_time": 1769154201,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 110979,
+      "num": 83836,
+      "word": "易烊千玺 一生透明的影帝",
+      "onboard_time": 1769159300,
       "rank": 41,
       "category": "艺人"
     },
@@ -1187,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108974,
+      "num": 83553,
+      "word": "鹿晗小猫脸",
+      "onboard_time": 1769158641,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108746,
       "num": 93844,
       "word": "官方通报环卫工戴电子工牌无处罚",
@@ -1209,14 +1273,6 @@
       "onboard_time": 1769141180,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107942,
-      "num": 107942,
-      "word": "九尾输出",
-      "onboard_time": 1769157860,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 106924,
@@ -1268,7 +1324,7 @@
     },
     {
       "raw_hot": 101754,
-      "num": 90541,
+      "num": 91244,
       "word": "杨幂回应与张艺谋合作",
       "onboard_time": 1769155220,
       "rank": 48,
@@ -1329,6 +1385,22 @@
       "onboard_time": 1769147061,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98990,
+      "num": 83366,
+      "word": "刘浩存蝴蝶结麻花辫",
+      "onboard_time": 1769160981,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 98707,
+      "num": 98707,
+      "word": "刘宇陈卓璇化雪冬日宿命感",
+      "onboard_time": 1769159781,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 98696,
@@ -1457,6 +1529,14 @@
       "onboard_time": 1769138420,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 93505,
+      "num": 93505,
+      "word": "土豆满门忠烈",
+      "onboard_time": 1769157982,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 93302,
@@ -1739,6 +1819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 83320,
+      "num": 79460,
+      "word": "王安宇 人不可手相",
+      "onboard_time": 1769161040,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83305,
       "num": 83305,
       "word": "哈姆奈特",
@@ -1779,12 +1867,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 79934,
-      "num": 79934,
-      "word": "土豆满门忠烈",
-      "onboard_time": 1769157982,
-      "rank": 44,
-      "category": "美食"
+      "raw_hot": 79847,
+      "num": 79847,
+      "word": "女子买裤子穿50天后申请仅退款",
+      "onboard_time": 1769160320,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79803,
@@ -1809,6 +1897,14 @@
       "onboard_time": 1769094021,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78943,
+      "num": 78943,
+      "word": "林诗栋连续三站无缘决赛",
+      "onboard_time": 1769160680,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 78232,
@@ -1873,6 +1969,14 @@
       "onboard_time": 1769134459,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 72301,
+      "num": 90666,
+      "word": "猝死程序员家属称找的律师都不想接",
+      "onboard_time": 1769160141,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72292,
@@ -2033,6 +2137,14 @@
       "onboard_time": 1769141361,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 58510,
+      "num": 84669,
+      "word": "李嘉诚豪宅外异味来自野猪尸体",
+      "onboard_time": 1769159963,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58141,
@@ -2283,6 +2395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39870,
+      "num": 91230,
+      "word": "夫妻吵架将俩年幼孩子留酒店后失联",
+      "onboard_time": 1769160801,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39516,
       "num": 41606,
       "word": "堪比传说的六元皮肤",
@@ -2305,6 +2425,14 @@
       "onboard_time": 1769075600,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35630,
+      "num": 609211,
+      "word": "我国地理标志产品直接年产值接近1万亿元",
+      "onboard_time": 1769158521,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34376,
@@ -2395,6 +2523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22468,
+      "num": 84407,
+      "word": "网友接兼职上门给年糕换水",
+      "onboard_time": 1769159963,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22227,
       "num": 407428,
       "word": "这才是文化遗产最好的打开方式",
@@ -2433,6 +2569,14 @@
       "onboard_time": 1769121555,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18915,
+      "num": 100260,
+      "word": "喵娲娲内娱又火了一个",
+      "onboard_time": 1769158880,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 18187,
@@ -2537,6 +2681,9 @@
     },
     {
       "word": "#总书记为关键少数划定履职标尺#"
+    },
+    {
+      "word": "#习近平同卢拉通电话#"
     }
   ]
 }
