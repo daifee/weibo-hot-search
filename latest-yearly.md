@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/23 21:52:40
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/23 21:59:40
 </p>
 </blockquote>
 <p>
@@ -951,6 +951,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%20%E7%82%B9%E7%82%AE%E5%88%B6%E5%BA%A6%23" target="weibo">
+海底捞 点炮制度（热度：1061590）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E5%B7%A5%E4%BD%9C%E5%AE%A4%E4%B8%A5%E6%AD%A3%E5%A3%B0%E6%98%8E%23" target="weibo">
 吴磊工作室严正声明（热度：1059339）
 </a>
@@ -1253,12 +1259,6 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%96%B0%E7%94%9F%E5%84%BF%E8%A2%AB%E5%89%AA%E6%96%AD%E6%89%8B%E6%8C%87%23" target="weibo">
 官方通报新生儿被剪断手指（热度：947476）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%20%E7%82%B9%E7%82%AE%E5%88%B6%E5%BA%A6%23" target="weibo">
-海底捞 点炮制度（热度：947180）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1769100257042,
-  "endTime": 1769176360756,
+  "endTime": 1769176780298,
   "band_list": [
     {
       "raw_hot": 2732817,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2130426,
-      "num": 675723,
+      "num": 755590,
       "word": "苹果用户的天塌了",
       "onboard_time": 1769155100,
       "rank": 10,
@@ -35,20 +35,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1061590,
+      "num": 759953,
+      "word": "海底捞 点炮制度",
+      "onboard_time": 1769172802,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1024669,
       "num": 361713,
       "word": "车银优宋慧乔被称为逃税情侣",
       "onboard_time": 1769148142,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 947180,
-      "num": 429739,
-      "word": "海底捞 点炮制度",
-      "onboard_time": 1769172802,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 893250,
@@ -123,6 +123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 662877,
+      "num": 662877,
+      "word": "太平年尺度",
+      "onboard_time": 1769174900,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 622131,
       "num": 199198,
       "word": "一栗小莎子疑似患淋巴瘤",
@@ -145,6 +153,14 @@
       "onboard_time": 1769129061,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 578851,
+      "num": 466390,
+      "word": "太平年 吃人",
+      "onboard_time": 1769175200,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 577523,
@@ -235,8 +251,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 495944,
+      "num": 495944,
+      "word": "黄景瑜上太空 王一博天塌了",
+      "onboard_time": 1769174481,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 495540,
-      "num": 206088,
+      "num": 462094,
       "word": "腾讯2025新增永不合作公司名单",
       "onboard_time": 1769173582,
       "rank": 18,
@@ -275,6 +299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 466349,
+      "num": 1074615,
+      "word": "太平年",
+      "onboard_time": 1769170460,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 453239,
       "num": 1072518,
       "word": "国足赢一场就回家",
@@ -289,14 +321,6 @@
       "onboard_time": 1769123476,
       "rank": 11,
       "category": "财经"
-    },
-    {
-      "raw_hot": 451708,
-      "num": 165220,
-      "word": "太平年尺度",
-      "onboard_time": 1769174900,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 441551,
@@ -315,14 +339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 437523,
-      "num": 782310,
-      "word": "太平年",
-      "onboard_time": 1769170460,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 437298,
       "num": 185107,
       "word": "刘烨安娜女儿霓娜近照",
@@ -337,14 +353,6 @@
       "onboard_time": 1769155522,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 427587,
-      "num": 165087,
-      "word": "黄景瑜上太空 王一博天塌了",
-      "onboard_time": 1769174481,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 425671,
@@ -369,14 +377,6 @@
       "onboard_time": 1769149280,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 404883,
-      "num": 165063,
-      "word": "太平年 吃人",
-      "onboard_time": 1769175200,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 397102,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 362786,
-      "num": 206265,
+      "num": 293074,
       "word": "卢昱晓战国袍造型",
       "onboard_time": 1769169981,
       "rank": 14,
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 310597,
-      "num": 259709,
+      "num": 304674,
       "word": "王鹤棣依偎在白鹿肩上",
       "onboard_time": 1769171900,
       "rank": 5,
@@ -572,7 +572,7 @@
     },
     {
       "raw_hot": 300851,
-      "num": 173962,
+      "num": 281455,
       "word": "张晚意独自从北京自驾到厦门",
       "onboard_time": 1769173582,
       "rank": 24,
@@ -691,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267747,
+      "num": 267747,
+      "word": "26岁工程师家里熟睡中猝死",
+      "onboard_time": 1769175561,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 266300,
       "num": 219411,
       "word": "大学时期的卢昱晓",
@@ -795,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 245173,
+      "num": 245173,
+      "word": "张信哲问邓佳鑫谈过几次恋爱",
+      "onboard_time": 1769174301,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243773,
       "num": 206028,
       "word": "代旭居然是宋轶张睿陈小芸同班同学",
@@ -857,14 +873,6 @@
       "onboard_time": 1769138961,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 226803,
-      "num": 164429,
-      "word": "张信哲问邓佳鑫谈过几次恋爱",
-      "onboard_time": 1769174301,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 226037,
@@ -956,7 +964,7 @@
     },
     {
       "raw_hot": 207027,
-      "num": 207027,
+      "num": 675707,
       "word": "尘白禁区",
       "onboard_time": 1769169320,
       "rank": 4,
@@ -1011,16 +1019,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 198158,
-      "num": 164529,
-      "word": "26岁工程师家里熟睡中猝死",
-      "onboard_time": 1769175561,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 197282,
-      "num": 206681,
+      "num": 759304,
       "word": "朱易自由滑115.01分",
       "onboard_time": 1769173280,
       "rank": 48,
@@ -1049,6 +1049,14 @@
       "onboard_time": 1769151380,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192253,
+      "num": 192253,
+      "word": "马龙樊振东王楚钦聚餐画面",
+      "onboard_time": 1769176102,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 191713,
@@ -1172,7 +1180,7 @@
     },
     {
       "raw_hot": 165689,
-      "num": 165689,
+      "num": 758333,
       "word": "就这样和张杰擦肩而过了",
       "onboard_time": 1769174602,
       "rank": 5,
@@ -1275,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150192,
+      "num": 150192,
+      "word": "最强大脑",
+      "onboard_time": 1769172621,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148486,
       "num": 146767,
       "word": "王安宇 人不可手相",
@@ -1363,6 +1379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 139691,
+      "num": 139691,
+      "word": "可可托海 雪豹",
+      "onboard_time": 1769175981,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138891,
       "num": 189208,
       "word": "奥斯卡提名",
@@ -1377,6 +1401,14 @@
       "onboard_time": 1769123598,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 135045,
+      "num": 757250,
+      "word": "美国十几个州进入紧急状态",
+      "onboard_time": 1769172261,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 134891,
@@ -1411,14 +1443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 134051,
-      "num": 134051,
-      "word": "最强大脑",
-      "onboard_time": 1769172621,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 133768,
       "num": 156596,
       "word": "阿里巴巴市值大涨2000亿",
@@ -1441,6 +1465,14 @@
       "onboard_time": 1769139620,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129794,
+      "num": 129794,
+      "word": "纪东杰模仿蔡徐坤",
+      "onboard_time": 1769175682,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 129611,
@@ -1481,14 +1513,6 @@
       "onboard_time": 1769157080,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 126004,
-      "num": 126004,
-      "word": "马龙樊振东王楚钦聚餐画面",
-      "onboard_time": 1769176102,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 125873,
@@ -1547,19 +1571,11 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 123781,
-      "num": 123781,
-      "word": "纪东杰模仿蔡徐坤",
-      "onboard_time": 1769175682,
-      "rank": 36,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 123229,
-      "num": 123229,
-      "word": "可可托海 雪豹",
-      "onboard_time": 1769175981,
-      "rank": 37,
+      "raw_hot": 120753,
+      "num": 120753,
+      "word": "程序员妻子称和客户说时对方震惊了",
+      "onboard_time": 1769175922,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -1659,6 +1675,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114184,
+      "num": 756882,
+      "word": "可可托海宝石沟雪豹袭击游客",
+      "onboard_time": 1769176163,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112441,
+      "num": 112441,
+      "word": "人类精子有个神秘的衰老时钟",
+      "onboard_time": 1769172921,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 112012,
+      "num": 112012,
+      "word": "哥哥愤怒张某目睹女硕士被强奸不报警",
+      "onboard_time": 1769175621,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111627,
       "num": 560506,
       "word": "九尾输出",
@@ -1673,14 +1713,6 @@
       "onboard_time": 1769154201,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110455,
-      "num": 206451,
-      "word": "美国十几个州进入紧急状态",
-      "onboard_time": 1769172261,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 110420,
@@ -1721,6 +1753,14 @@
       "onboard_time": 1769154021,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109345,
+      "num": 198978,
+      "word": "黄金高位突发跳水",
+      "onboard_time": 1769172261,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 109297,
@@ -1769,14 +1809,6 @@
       "onboard_time": 1769141180,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 108058,
-      "num": 108058,
-      "word": "程序员妻子称和客户说时对方震惊了",
-      "onboard_time": 1769175922,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107299,
@@ -1859,22 +1891,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 103203,
-      "num": 103203,
-      "word": "哥哥愤怒张某目睹女硕士被强奸不报警",
-      "onboard_time": 1769175621,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102956,
-      "num": 164353,
-      "word": "黄金高位突发跳水",
-      "onboard_time": 1769172261,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 102878,
       "num": 102878,
       "word": "六年级男生一脚踹飞7岁小男孩",
@@ -1897,14 +1913,6 @@
       "onboard_time": 1769138420,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 101330,
-      "num": 101330,
-      "word": "人类精子有个神秘的衰老时钟",
-      "onboard_time": 1769172921,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 101204,
@@ -1995,6 +2003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98975,
+      "num": 192652,
+      "word": "招商银行2025年净利润1501.81亿元",
+      "onboard_time": 1769175922,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 98716,
       "num": 98716,
       "word": "赵今麦刘浩存活动生图",
@@ -2035,12 +2051,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98109,
+      "num": 98109,
+      "word": "有歌",
+      "onboard_time": 1769175981,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98033,
       "num": 98033,
       "word": "浪姐6在王珞丹评论区团建",
       "onboard_time": 1769147599,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98030,
+      "num": 755893,
+      "word": "央视转播U23国足与日本比赛",
+      "onboard_time": 1769176642,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 97225,
@@ -2131,14 +2163,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 94375,
-      "num": 164297,
-      "word": "招商银行2025年净利润1501.81亿元",
-      "onboard_time": 1769175922,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 94192,
       "num": 94192,
       "word": "中央厨房制作的菜肴不是预制菜",
@@ -2209,14 +2233,6 @@
       "onboard_time": 1769145501,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 92577,
-      "num": 165497,
-      "word": "可可托海宝石沟雪豹袭击游客",
-      "onboard_time": 1769176163,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92491,
@@ -2321,6 +2337,14 @@
       "onboard_time": 1769157982,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90248,
+      "num": 90248,
+      "word": "脸才是最抗冻的",
+      "onboard_time": 1769176221,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 90197,
@@ -2851,6 +2875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67187,
+      "num": 194060,
+      "word": "孙颖莎与邱贻可指导聚餐",
+      "onboard_time": 1769176521,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67126,
       "num": 67126,
       "word": "特朗普起诉摩根大通",
@@ -3139,6 +3171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 48843,
+      "num": 286504,
+      "word": "猝死程序员公司不配合工伤认定",
+      "onboard_time": 1769175801,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47174,
       "num": 167872,
       "word": "穆祉丞高会",
@@ -3331,14 +3371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33716,
-      "num": 164865,
-      "word": "猝死程序员公司不配合工伤认定",
-      "onboard_time": 1769175801,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33635,
       "num": 79721,
       "word": "侯明昊来安慰小朋友了",
@@ -3393,6 +3425,14 @@
       "onboard_time": 1769088262,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 25557,
+      "num": 236033,
+      "word": "猝死程序员备忘录曾写要体谅下属",
+      "onboard_time": 1769175501,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25486,
@@ -3492,7 +3532,7 @@
     },
     {
       "raw_hot": 20506,
-      "num": 206305,
+      "num": 466740,
       "word": "刘润说终于有硅谷抄不来的AI了",
       "onboard_time": 1769173280,
       "rank": 34,
@@ -3555,6 +3595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15224,
+      "num": 761241,
+      "word": "冰雪春天",
+      "onboard_time": 1769142382,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15027,
       "num": 15027,
       "word": "王源自拍小卡",
@@ -3585,22 +3633,6 @@
       "onboard_time": 1769115373,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 13343,
-      "num": 164927,
-      "word": "猝死程序员备忘录曾写要体谅下属",
-      "onboard_time": 1769175501,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13240,
-      "num": 641785,
-      "word": "冰雪春天",
-      "onboard_time": 1769142382,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11835,
