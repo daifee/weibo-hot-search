@@ -1,6 +1,6 @@
 {
   "startTime": 1769100257042,
-  "endTime": 1769180000884,
+  "endTime": 1769182521811,
   "band_list": [
     {
       "raw_hot": 2732817,
@@ -17,6 +17,14 @@
       "onboard_time": 1769155100,
       "rank": 10,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1760330,
+      "num": 611783,
+      "word": "张杰不再参加任何需要投票的活动",
+      "onboard_time": 1769178741,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 1397487,
@@ -49,14 +57,6 @@
       "onboard_time": 1769175200,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1039917,
-      "num": 611783,
-      "word": "张杰不再参加任何需要投票的活动",
-      "onboard_time": 1769178741,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 1024669,
@@ -163,6 +163,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 615145,
+      "num": 1098423,
+      "word": "太平年",
+      "onboard_time": 1769170460,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 611965,
       "num": 215198,
       "word": "儿子问舅舅不开门妈妈是不是不会死",
@@ -257,14 +265,6 @@
       "onboard_time": 1769174481,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 504778,
-      "num": 1080764,
-      "word": "太平年",
-      "onboard_time": 1769170460,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 503958,
@@ -467,6 +467,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 373205,
+      "num": 804635,
+      "word": "官方通报阿勒泰雪豹伤人",
+      "onboard_time": 1769180422,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 369429,
       "num": 312455,
       "word": "猝死程序员妻子不想他连死都没有价值",
@@ -528,6 +536,14 @@
       "word": "同村村民猥亵患病女硕士的女儿",
       "onboard_time": 1769140161,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 339979,
+      "num": 339979,
+      "word": "不建议个人用SIM卡提炼黄金",
+      "onboard_time": 1769178203,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -625,6 +641,14 @@
       "onboard_time": 1769140881,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 295386,
+      "num": 204724,
+      "word": "黄景瑜签约航天公司仅4项发明专利",
+      "onboard_time": 1769179341,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 293698,
@@ -1019,12 +1043,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 204724,
-      "num": 204724,
-      "word": "黄景瑜签约航天公司仅4项发明专利",
-      "onboard_time": 1769179341,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 204656,
+      "num": 187183,
+      "word": "誓约 陪玩",
+      "onboard_time": 1769179402,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 203761,
@@ -1059,12 +1083,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 198045,
+      "num": 198045,
+      "word": "脑综史上最窒息45分钟",
+      "onboard_time": 1769179643,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197282,
       "num": 759304,
       "word": "朱易自由滑115.01分",
       "onboard_time": 1769173280,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196078,
+      "num": 186956,
+      "word": "广州一家三口住桥洞靠拾荒为生",
+      "onboard_time": 1769180721,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195656,
@@ -1091,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193070,
+      "num": 186558,
+      "word": "周柯宇直播",
+      "onboard_time": 1769181321,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193003,
       "num": 758333,
       "word": "就这样和张杰擦肩而过了",
@@ -1113,6 +1161,14 @@
       "onboard_time": 1769091741,
       "rank": 5,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 189326,
+      "num": 189326,
+      "word": "JDG对战BLG",
+      "onboard_time": 1769178982,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 188659,
@@ -1177,6 +1233,14 @@
       "onboard_time": 1769139980,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178849,
+      "num": 178849,
+      "word": "赵今麦miumiu活动出图",
+      "onboard_time": 1769177361,
+      "rank": 28,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 176637,
@@ -1321,14 +1385,6 @@
       "onboard_time": 1769150961,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 153205,
-      "num": 153205,
-      "word": "赵今麦miumiu活动出图",
-      "onboard_time": 1769177361,
-      "rank": 28,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 151321,
@@ -1755,14 +1811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117230,
-      "num": 117230,
-      "word": "誓约 陪玩",
-      "onboard_time": 1769179402,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 117139,
       "num": 117139,
       "word": "去年腾讯20余人涉嫌犯罪被移送警方",
@@ -1777,6 +1825,14 @@
       "onboard_time": 1769150001,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 116404,
+      "num": 116404,
+      "word": "张杰这几步走到我心巴上了",
+      "onboard_time": 1769181742,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 115641,
@@ -1811,12 +1867,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111692,
+      "num": 129723,
+      "word": "被雪豹咬伤女游客疑因拍照被攻击",
+      "onboard_time": 1769181561,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111627,
       "num": 560506,
       "word": "九尾输出",
       "onboard_time": 1769157860,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111618,
+      "num": 111618,
+      "word": "32岁程序员猝死后所有荣誉变成了垃圾",
+      "onboard_time": 1769180603,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110994,
@@ -1856,14 +1928,6 @@
       "word": "长生正式确诊为水母",
       "onboard_time": 1769162600,
       "rank": 36,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 109810,
-      "num": 109810,
-      "word": "JDG对战BLG",
-      "onboard_time": 1769178982,
-      "rank": 40,
       "category": "电竞"
     },
     {
@@ -1915,14 +1979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108248,
-      "num": 153533,
-      "word": "不建议个人用SIM卡提炼黄金",
-      "onboard_time": 1769178203,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 108210,
       "num": 175878,
       "word": "金饰克价4天猛涨近百元",
@@ -1945,14 +2001,6 @@
       "onboard_time": 1769173340,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107019,
-      "num": 107019,
-      "word": "脑综史上最窒息45分钟",
-      "onboard_time": 1769179643,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 106924,
@@ -2040,6 +2088,14 @@
       "word": "六年级男生一脚踹飞7岁小男孩",
       "onboard_time": 1769126060,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102703,
+      "num": 102703,
+      "word": "金价暴涨胖东来金店挤爆了",
+      "onboard_time": 1769181921,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -2515,6 +2571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90686,
+      "num": 90686,
+      "word": "我给生命树和重返狼群做了个动画",
+      "onboard_time": 1769181682,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 90654,
       "num": 90654,
       "word": "女子网购500单仅退款转卖货品",
@@ -2683,6 +2747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 85576,
+      "num": 85576,
+      "word": "岳父代理女婿与女儿打离婚官司",
+      "onboard_time": 1769180721,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85499,
       "num": 85499,
       "word": "赵子豪乒乓精神永驻心中",
@@ -2809,6 +2881,14 @@
       "onboard_time": 1769161580,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 82749,
+      "num": 84197,
+      "word": "可可托海有人被雪豹袭击已送医",
+      "onboard_time": 1769181801,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82094,
@@ -3041,6 +3121,14 @@
       "onboard_time": 1769141000,
       "rank": 16,
       "category": "艺人,汽车"
+    },
+    {
+      "raw_hot": 71508,
+      "num": 103206,
+      "word": "鱼塘底惊现大洞200斤鱼顺水漏走",
+      "onboard_time": 1769182100,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70709,
@@ -3331,11 +3419,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 53753,
+      "num": 103965,
+      "word": "朱亚文又演了迷人的老祖宗",
+      "onboard_time": 1769181561,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 53736,
       "num": 167943,
       "word": "被前夫杀害女子只吃2元钱的饭",
       "onboard_time": 1769085080,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53304,
+      "num": 96367,
+      "word": "老外不停给中国海警竖大拇指",
+      "onboard_time": 1769180842,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -3491,6 +3595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41336,
+      "num": 102844,
+      "word": "圆珠笔头戳进眼眶27年才发现",
+      "onboard_time": 1769181561,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41100,
       "num": 167524,
       "word": "TF荣耀之战双人舞台分组",
@@ -3625,6 +3737,14 @@
       "onboard_time": 1769168419,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26183,
+      "num": 120562,
+      "word": "特朗普警告欧洲敢抛美债将遭报复",
+      "onboard_time": 1769182401,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 26054,
@@ -3827,6 +3947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 15570,
+      "num": 186383,
+      "word": "成人英语网络性感教学引争议",
+      "onboard_time": 1769182224,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15027,
       "num": 15027,
       "word": "王源自拍小卡",
@@ -3841,6 +3969,14 @@
       "onboard_time": 1769090122,
       "rank": 48,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 14572,
+      "num": 189322,
+      "word": "外交部回应美调重兵前往伊朗",
+      "onboard_time": 1769181623,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14541,

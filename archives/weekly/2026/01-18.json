@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769180000884,
+  "endTime": 1769182521811,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -104,6 +104,14 @@
       "word": "董子健回复孙怡",
       "onboard_time": 1768732703,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1760330,
+      "num": 611783,
+      "word": "张杰不再参加任何需要投票的活动",
+      "onboard_time": 1769178741,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -369,14 +377,6 @@
       "onboard_time": 1768989920,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1039917,
-      "num": 611783,
-      "word": "张杰不再参加任何需要投票的活动",
-      "onboard_time": 1769178741,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 1038253,
@@ -1227,6 +1227,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 615145,
+      "num": 1098423,
+      "word": "太平年",
+      "onboard_time": 1768706059,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 614446,
       "num": 164870,
       "word": "美国政府首次回应斩杀线困境",
@@ -1841,14 +1849,6 @@
       "onboard_time": 1768741221,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 504778,
-      "num": 1080764,
-      "word": "太平年",
-      "onboard_time": 1768706059,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 503958,
@@ -2907,6 +2907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 373205,
+      "num": 804635,
+      "word": "官方通报阿勒泰雪豹伤人",
+      "onboard_time": 1769180422,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 372606,
       "num": 231083,
       "word": "猝死程序员日记写努力努力再努力",
@@ -3305,6 +3313,14 @@
       "onboard_time": 1769075600,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 339979,
+      "num": 339979,
+      "word": "不建议个人用SIM卡提炼黄金",
+      "onboard_time": 1769178203,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 339279,
@@ -3865,6 +3881,14 @@
       "onboard_time": 1768864577,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 295386,
+      "num": 204724,
+      "word": "黄景瑜签约航天公司仅4项发明专利",
+      "onboard_time": 1769179341,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 294943,
@@ -5723,12 +5747,12 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 204724,
-      "num": 204724,
-      "word": "黄景瑜签约航天公司仅4项发明专利",
-      "onboard_time": 1769179341,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 204656,
+      "num": 187183,
+      "word": "誓约 陪玩",
+      "onboard_time": 1769179402,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 204353,
@@ -6003,6 +6027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198045,
+      "num": 198045,
+      "word": "脑综史上最窒息45分钟",
+      "onboard_time": 1769179643,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197978,
       "num": 636609,
       "word": "神20舷窗裂纹维修细节披露",
@@ -6073,6 +6105,14 @@
       "onboard_time": 1768733482,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196078,
+      "num": 186956,
+      "word": "广州一家三口住桥洞靠拾荒为生",
+      "onboard_time": 1769180721,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196039,
@@ -6185,6 +6225,14 @@
       "onboard_time": 1768791139,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 193070,
+      "num": 186558,
+      "word": "周柯宇直播",
+      "onboard_time": 1769181321,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 193003,
@@ -6337,6 +6385,14 @@
       "onboard_time": 1769077941,
       "rank": 36,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 189326,
+      "num": 189326,
+      "word": "JDG对战BLG",
+      "onboard_time": 1769178982,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 189298,
@@ -6681,6 +6737,14 @@
       "onboard_time": 1768790422,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 178849,
+      "num": 178849,
+      "word": "赵今麦miumiu活动出图",
+      "onboard_time": 1769177361,
+      "rank": 28,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 178848,
@@ -7833,14 +7897,6 @@
       "onboard_time": 1768738462,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153205,
-      "num": 153205,
-      "word": "赵今麦miumiu活动出图",
-      "onboard_time": 1769177361,
-      "rank": 28,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 152980,
@@ -10547,14 +10603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117230,
-      "num": 117230,
-      "word": "誓约 陪玩",
-      "onboard_time": 1769179402,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 117179,
       "num": 117179,
       "word": "三只松鼠宣布调价",
@@ -10681,6 +10729,14 @@
       "onboard_time": 1769075662,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116404,
+      "num": 116404,
+      "word": "张杰这几步走到我心巴上了",
+      "onboard_time": 1769181742,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 116318,
@@ -11099,12 +11155,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111692,
+      "num": 129723,
+      "word": "被雪豹咬伤女游客疑因拍照被攻击",
+      "onboard_time": 1769181561,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111627,
       "num": 560506,
       "word": "九尾输出",
       "onboard_time": 1769157860,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111618,
+      "num": 111618,
+      "word": "32岁程序员猝死后所有荣誉变成了垃圾",
+      "onboard_time": 1769180603,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111566,
@@ -11371,14 +11443,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 109810,
-      "num": 109810,
-      "word": "JDG对战BLG",
-      "onboard_time": 1769178982,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 109734,
       "num": 109734,
       "word": "张慧雯编辑记录",
@@ -11547,14 +11611,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 108248,
-      "num": 153533,
-      "word": "不建议个人用SIM卡提炼黄金",
-      "onboard_time": 1769178203,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 108210,
       "num": 175878,
       "word": "金饰克价4天猛涨近百元",
@@ -11657,14 +11713,6 @@
       "onboard_time": 1769073499,
       "rank": 43,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 107019,
-      "num": 107019,
-      "word": "脑综史上最窒息45分钟",
-      "onboard_time": 1769179643,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 106937,
@@ -12344,6 +12392,14 @@
       "word": "婴儿淋暴雨拍短剧家长为何沉默",
       "onboard_time": 1768745124,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102703,
+      "num": 102703,
+      "word": "金价暴涨胖东来金店挤爆了",
+      "onboard_time": 1769181921,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -14499,6 +14555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90686,
+      "num": 90686,
+      "word": "我给生命树和重返狼群做了个动画",
+      "onboard_time": 1769181682,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 90683,
       "num": 90683,
       "word": "开店月赚47元",
@@ -15475,6 +15539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 85576,
+      "num": 85576,
+      "word": "岳父代理女婿与女儿打离婚官司",
+      "onboard_time": 1769180721,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85549,
       "num": 85549,
       "word": "坐高铁犯困 二氧化碳浓度高",
@@ -15961,6 +16033,14 @@
       "onboard_time": 1769071281,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82749,
+      "num": 84197,
+      "word": "可可托海有人被雪豹袭击已送医",
+      "onboard_time": 1769181801,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82713,
@@ -17403,6 +17483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71508,
+      "num": 103206,
+      "word": "鱼塘底惊现大洞200斤鱼顺水漏走",
+      "onboard_time": 1769182100,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71409,
       "num": 172940,
       "word": "以色列罕见与特朗普公开叫板",
@@ -18675,6 +18763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53753,
+      "num": 103965,
+      "word": "朱亚文又演了迷人的老祖宗",
+      "onboard_time": 1769181561,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 53616,
       "num": 53616,
       "word": "外国人涌入中国看病是好事吗",
@@ -18704,6 +18800,14 @@
       "word": "变成中国人挑战海外爆火",
       "onboard_time": 1768831943,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53304,
+      "num": 96367,
+      "word": "老外不停给中国海警竖大拇指",
+      "onboard_time": 1769180842,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -19336,6 +19440,14 @@
       "word": "教师撞树枝身亡家属称未收到赔偿",
       "onboard_time": 1769096541,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41336,
+      "num": 102844,
+      "word": "圆珠笔头戳进眼眶27年才发现",
+      "onboard_time": 1769181561,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -20203,6 +20315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26183,
+      "num": 120562,
+      "word": "特朗普警告欧洲敢抛美债将遭报复",
+      "onboard_time": 1769182401,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 25820,
       "num": 102338,
       "word": "1岁小孩遭幼托员粗暴摔床掩住口鼻",
@@ -20995,6 +21115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 15570,
+      "num": 186383,
+      "word": "成人英语网络性感教学引争议",
+      "onboard_time": 1769182224,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15488,
       "num": 95324,
       "word": "卫星图揭露日本驱逐舰航母化改造",
@@ -21033,6 +21161,14 @@
       "onboard_time": 1768990942,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14572,
+      "num": 189322,
+      "word": "外交部回应美调重兵前往伊朗",
+      "onboard_time": 1769181623,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14541,

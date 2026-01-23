@@ -1,0 +1,410 @@
+{
+  "runTime": 1769182521811,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 615145,
+        "num": 1098423,
+        "word": "太平年",
+        "onboard_time": 1769170460,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373205,
+        "num": 804635,
+        "word": "官方通报阿勒泰雪豹伤人",
+        "onboard_time": 1769180422,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 7037,
+        "num": 637721,
+        "word": "冰雪春天",
+        "onboard_time": 1769142382,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1760330,
+        "num": 501104,
+        "word": "张杰不再参加任何需要投票的活动",
+        "onboard_time": 1769178741,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 346270,
+        "num": 346270,
+        "word": "央视转播U23国足与日本比赛",
+        "onboard_time": 1769176642,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 521822,
+        "num": 345155,
+        "word": "海底捞 点炮制度",
+        "onboard_time": 1769172802,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339979,
+        "num": 339979,
+        "word": "不建议个人用SIM卡提炼黄金",
+        "onboard_time": 1769178203,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198045,
+        "num": 198045,
+        "word": "脑综史上最窒息45分钟",
+        "onboard_time": 1769179643,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189326,
+        "num": 189326,
+        "word": "JDG对战BLG",
+        "onboard_time": 1769178982,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14572,
+        "num": 189322,
+        "word": "外交部回应美调重兵前往伊朗",
+        "onboard_time": 1769181623,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 819179,
+        "num": 188879,
+        "word": "苹果用户的天塌了",
+        "onboard_time": 1769155100,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 674430,
+        "num": 188596,
+        "word": "太平年 吃人",
+        "onboard_time": 1769175200,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 589854,
+        "num": 188330,
+        "word": "季节 誓约",
+        "onboard_time": 1769177422,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 495199,
+        "num": 188168,
+        "word": "马龙樊振东王楚钦聚餐画面",
+        "onboard_time": 1769176102,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 432762,
+        "num": 187934,
+        "word": "黄景瑜上太空 王一博天塌了",
+        "onboard_time": 1769174481,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358751,
+        "num": 187583,
+        "word": "26岁工程师家里熟睡中猝死",
+        "onboard_time": 1769175561,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303927,
+        "num": 187439,
+        "word": "太平年尺度",
+        "onboard_time": 1769174900,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204656,
+        "num": 187183,
+        "word": "誓约 陪玩",
+        "onboard_time": 1769179402,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196078,
+        "num": 186956,
+        "word": "广州一家三口住桥洞靠拾荒为生",
+        "onboard_time": 1769180721,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193070,
+        "num": 186558,
+        "word": "周柯宇直播",
+        "onboard_time": 1769181321,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15570,
+        "num": 186383,
+        "word": "成人英语网络性感教学引争议",
+        "onboard_time": 1769182224,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295386,
+        "num": 185927,
+        "word": "黄景瑜签约航天公司仅4项发明专利",
+        "onboard_time": 1769179341,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185904,
+        "num": 185904,
+        "word": "卢昱晓战国袍造型",
+        "onboard_time": 1769169981,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185595,
+        "num": 185595,
+        "word": "腾讯2025新增永不合作公司名单",
+        "onboard_time": 1769173582,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 178849,
+        "num": 178849,
+        "word": "赵今麦miumiu活动出图",
+        "onboard_time": 1769177361,
+        "rank": 24,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 162341,
+        "num": 162341,
+        "word": "韩国最大在野党党首张东赫绝食8天",
+        "onboard_time": 1769178262,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151797,
+        "num": 151797,
+        "word": "Lululemon新款瑜伽裤太透明被下架",
+        "onboard_time": 1769164461,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145376,
+        "num": 145376,
+        "word": "TF二代吻戏第一人",
+        "onboard_time": 1769167580,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140447,
+        "num": 140447,
+        "word": "登陆少年直播",
+        "onboard_time": 1769171421,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111692,
+        "num": 129723,
+        "word": "被雪豹咬伤女游客疑因拍照被攻击",
+        "onboard_time": 1769181561,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126647,
+        "num": 126647,
+        "word": "泰一家16人跟团游哈尔滨回国报警",
+        "onboard_time": 1769167520,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 125024,
+        "num": 125024,
+        "word": "徐冬冬尹子维早生贵子具象化",
+        "onboard_time": 1769178741,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26183,
+        "num": 120562,
+        "word": "特朗普警告欧洲敢抛美债将遭报复",
+        "onboard_time": 1769182401,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116404,
+        "num": 116404,
+        "word": "张杰这几步走到我心巴上了",
+        "onboard_time": 1769181742,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115870,
+        "num": 115870,
+        "word": "张晚意独自从北京自驾到厦门",
+        "onboard_time": 1769173582,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111618,
+        "num": 111618,
+        "word": "32岁程序员猝死后所有荣誉变成了垃圾",
+        "onboard_time": 1769180603,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110933,
+        "num": 110933,
+        "word": "人类精子有个神秘的衰老时钟",
+        "onboard_time": 1769172921,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 53753,
+        "num": 103965,
+        "word": "朱亚文又演了迷人的老祖宗",
+        "onboard_time": 1769181561,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71508,
+        "num": 103206,
+        "word": "鱼塘底惊现大洞200斤鱼顺水漏走",
+        "onboard_time": 1769182100,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41336,
+        "num": 102844,
+        "word": "圆珠笔头戳进眼眶27年才发现",
+        "onboard_time": 1769181561,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102703,
+        "num": 102703,
+        "word": "金价暴涨胖东来金店挤爆了",
+        "onboard_time": 1769181921,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102017,
+        "num": 102017,
+        "word": "贝克汉姆给大儿子的礼物",
+        "onboard_time": 1769163620,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100049,
+        "num": 100049,
+        "word": "格林不在了",
+        "onboard_time": 1769155161,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 53304,
+        "num": 96367,
+        "word": "老外不停给中国海警竖大拇指",
+        "onboard_time": 1769180842,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93588,
+        "num": 93588,
+        "word": "怎么说服侯明昊拍这个的",
+        "onboard_time": 1769178802,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90686,
+        "num": 90686,
+        "word": "我给生命树和重返狼群做了个动画",
+        "onboard_time": 1769181682,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 85576,
+        "num": 85576,
+        "word": "岳父代理女婿与女儿打离婚官司",
+        "onboard_time": 1769180721,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85564,
+        "num": 85564,
+        "word": "国足赢一场就回家",
+        "onboard_time": 1769170581,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82749,
+        "num": 84197,
+        "word": "可可托海有人被雪豹袭击已送医",
+        "onboard_time": 1769181801,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83236,
+        "num": 83236,
+        "word": "最强大脑",
+        "onboard_time": 1769172621,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺苏林#"
+    }
+  }
+}

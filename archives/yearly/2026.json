@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769180000884,
+  "endTime": 1769182521811,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -448,6 +448,14 @@
       "word": "董子健回复孙怡",
       "onboard_time": 1768732703,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1760330,
+      "num": 611783,
+      "word": "张杰不再参加任何需要投票的活动",
+      "onboard_time": 1769178741,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -1345,14 +1353,6 @@
       "onboard_time": 1768096401,
       "rank": 10,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 1039917,
-      "num": 611783,
-      "word": "张杰不再参加任何需要投票的活动",
-      "onboard_time": 1769178741,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 1039734,
