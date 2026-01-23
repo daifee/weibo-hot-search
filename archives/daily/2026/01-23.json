@@ -1,6 +1,6 @@
 {
   "startTime": 1769100257042,
-  "endTime": 1769142586649,
+  "endTime": 1769144558693,
   "band_list": [
     {
       "raw_hot": 2732817,
@@ -27,11 +27,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 891897,
+      "num": 219105,
+      "word": "骆驼向王俊凯致歉",
+      "onboard_time": 1769142982,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 707182,
       "num": 310241,
       "word": "吃火锅偶遇贾玲张小斐",
       "onboard_time": 1769134879,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 699107,
+      "num": 218398,
+      "word": "章昊 对不起我是中国人听不懂",
+      "onboard_time": 1769141961,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -59,11 +75,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 577523,
+      "num": 299146,
+      "word": "赵婷是宋丹丹的继女",
+      "onboard_time": 1769139081,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 557718,
+      "num": 209305,
+      "word": "黄景瑜要上太空了",
+      "onboard_time": 1769142743,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 539062,
       "num": 1086249,
       "word": "中国飞船首批20余位游客已预订",
       "onboard_time": 1769136620,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 532948,
+      "num": 464173,
+      "word": "女子为孩子囤黄金投入90万收益200万",
+      "onboard_time": 1769140161,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -99,12 +139,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 464173,
-      "num": 464173,
-      "word": "女子为孩子囤黄金投入90万收益200万",
-      "onboard_time": 1769140161,
-      "rank": 6,
-      "category": "民生新闻"
+      "raw_hot": 463035,
+      "num": 1074085,
+      "word": "不二之臣",
+      "onboard_time": 1769137939,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 451978,
@@ -115,14 +155,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 441717,
-      "num": 780139,
-      "word": "不二之臣",
-      "onboard_time": 1769137939,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 387311,
       "num": 224512,
       "word": "王玉雯把猥琐劲儿给演出来了",
@@ -131,12 +163,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 375684,
+      "num": 217320,
+      "word": "流浪在美国的中国女子",
+      "onboard_time": 1769139560,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 367320,
       "num": 324724,
       "word": "马年的梗还是太超前了",
       "onboard_time": 1769137699,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 365646,
+      "num": 475904,
+      "word": "12306回应高铁车厢二氧化碳浓度超标",
+      "onboard_time": 1769139501,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 364171,
@@ -163,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 331574,
+      "num": 331574,
+      "word": "小城大事腾讯拉新倒数第一",
+      "onboard_time": 1769140039,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 318058,
       "num": 321808,
       "word": "飞驰人生3范丞丞镜头",
@@ -187,20 +243,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 303379,
-      "num": 299146,
-      "word": "赵婷是宋丹丹的继女",
-      "onboard_time": 1769139081,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 300501,
-      "num": 217320,
-      "word": "流浪在美国的中国女子",
-      "onboard_time": 1769139560,
-      "rank": 30,
-      "category": "海外新闻"
+      "raw_hot": 295924,
+      "num": 211310,
+      "word": "六位影后的七年之约",
+      "onboard_time": 1769140881,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 287583,
@@ -283,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 252269,
+      "num": 214438,
+      "word": "金价",
+      "onboard_time": 1769139199,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 245488,
       "num": 172062,
       "word": "肯德基崩了",
@@ -299,12 +355,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 229939,
-      "num": 475904,
-      "word": "12306回应高铁车厢二氧化碳浓度超标",
-      "onboard_time": 1769139501,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 227324,
+      "num": 227324,
+      "word": "马斯克回应地球上有外星人",
+      "onboard_time": 1769138961,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 223101,
@@ -344,22 +400,6 @@
       "word": "花千骨二番依旧出圈",
       "onboard_time": 1769140281,
       "rank": 19,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 213716,
-      "num": 213716,
-      "word": "小城大事腾讯拉新倒数第一",
-      "onboard_time": 1769140039,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 211310,
-      "num": 211310,
-      "word": "六位影后的七年之约",
-      "onboard_time": 1769140881,
-      "rank": 36,
       "category": "作品衍生"
     },
     {
@@ -419,6 +459,22 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 184946,
+      "num": 183632,
+      "word": "一栗小莎子孩子才刚会喊妈妈",
+      "onboard_time": 1769143162,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 183794,
+      "num": 183794,
+      "word": "刘烨安娜女儿霓娜近照",
+      "onboard_time": 1769143762,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182578,
       "num": 182578,
       "word": "泡泡玛特电子木鱼爆火",
@@ -433,6 +489,14 @@
       "onboard_time": 1769139980,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177309,
+      "num": 177309,
+      "word": "李行亮麦琳已无商业关联",
+      "onboard_time": 1769142140,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 173864,
@@ -475,6 +539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 156335,
+      "num": 224761,
+      "word": "半个短国都来浙江卫视春晚了",
+      "onboard_time": 1769143521,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153840,
       "num": 119006,
       "word": "肖战惊喜现身北京",
@@ -497,14 +569,6 @@
       "onboard_time": 1769141480,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 149856,
-      "num": 130095,
-      "word": "李行亮麦琳已无商业关联",
-      "onboard_time": 1769142140,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 145698,
@@ -531,20 +595,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142521,
+      "num": 195297,
+      "word": "猝死程序员公司赔付家属39万",
+      "onboard_time": 1769143342,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142171,
+      "num": 142171,
+      "word": "范丞丞长发",
+      "onboard_time": 1769142922,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 141962,
       "num": 141962,
       "word": "宋威龙 忍住",
       "onboard_time": 1769127020,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 141682,
-      "num": 220808,
-      "word": "马斯克回应地球上有外星人",
-      "onboard_time": 1769138961,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 138891,
@@ -571,12 +643,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133019,
-      "num": 133019,
-      "word": "章昊 对不起我是中国人听不懂",
-      "onboard_time": 1769141961,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 132468,
+      "num": 132468,
+      "word": "八个月瘦了120斤的身体变化",
+      "onboard_time": 1769143521,
+      "rank": 41,
+      "category": "运动健身"
     },
     {
       "raw_hot": 132239,
@@ -585,14 +657,6 @@
       "onboard_time": 1769139620,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129907,
-      "num": 129907,
-      "word": "金价",
-      "onboard_time": 1769139199,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 129611,
@@ -609,6 +673,14 @@
       "onboard_time": 1769097980,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129129,
+      "num": 129129,
+      "word": "欧阳娜娜尝试了黑松露穿搭",
+      "onboard_time": 1769144182,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 125531,
@@ -851,6 +923,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 86630,
+      "num": 175785,
+      "word": "儿童洗护品牌戴可思被立案调查",
+      "onboard_time": 1769144481,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85481,
       "num": 85481,
       "word": "余幼时即厌学",
@@ -875,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84028,
+      "num": 184829,
+      "word": "穿得很厚还是手脚冰凉",
+      "onboard_time": 1769144363,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 83909,
       "num": 83909,
       "word": "陈星旭王玉雯手指吻",
@@ -897,6 +985,22 @@
       "onboard_time": 1769087180,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83230,
+      "num": 175878,
+      "word": "金饰克价4天猛涨近百元",
+      "onboard_time": 1769144363,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 82094,
+      "num": 173231,
+      "word": "林孝埈圆梦米兰冬奥",
+      "onboard_time": 1769143162,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 80409,
@@ -1019,6 +1123,14 @@
       "category": "艺人,汽车"
     },
     {
+      "raw_hot": 70709,
+      "num": 600106,
+      "word": "中国铁路又双叒有新突破",
+      "onboard_time": 1769142800,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 70282,
       "num": 168257,
       "word": "林一回应陈星旭王玉雯这条是为谁发的",
@@ -1081,6 +1193,14 @@
       "onboard_time": 1769089041,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61843,
+      "num": 104822,
+      "word": "美国流浪汉坦言曾上最好的学校",
+      "onboard_time": 1769143282,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 61144,
@@ -1187,6 +1307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 51659,
+      "num": 194051,
+      "word": "一件羽绒服温暖了三代人",
+      "onboard_time": 1769142982,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 51406,
       "num": 51406,
       "word": "赵今麦演技",
@@ -1241,6 +1369,14 @@
       "onboard_time": 1769125159,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45181,
+      "num": 170559,
+      "word": "智界汽车新春购车权益加码",
+      "onboard_time": 1769142861,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 44434,
@@ -1329,6 +1465,14 @@
       "onboard_time": 1769075600,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 34376,
+      "num": 169163,
+      "word": "美国曾公开讨论食人法案",
+      "onboard_time": 1769144363,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 34193,

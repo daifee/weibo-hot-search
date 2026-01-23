@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769142586649,
+  "endTime": 1769144558693,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -1915,6 +1915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 891897,
+      "num": 219105,
+      "word": "骆驼向王俊凯致歉",
+      "onboard_time": 1769142982,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 890521,
       "num": 1142483,
       "word": "U23国足首进亚洲杯4强",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768740081,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 806487,
-      "num": 131702,
-      "word": "小澈刚复播",
-      "onboard_time": 1768108641,
-      "rank": 23,
-      "category": "网红"
     }
   ],
   "hotgov_list": [

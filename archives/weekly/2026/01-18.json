@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769142586649,
+  "endTime": 1769144558693,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -507,6 +507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 891897,
+      "num": 219105,
+      "word": "骆驼向王俊凯致歉",
+      "onboard_time": 1769142982,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 861518,
       "num": 239405,
       "word": "日本可能又要换首相了",
@@ -833,6 +841,14 @@
       "onboard_time": 1768795822,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 699107,
+      "num": 218398,
+      "word": "章昊 对不起我是中国人听不懂",
+      "onboard_time": 1769141961,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 697710,
@@ -1267,6 +1283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 577523,
+      "num": 299146,
+      "word": "赵婷是宋丹丹的继女",
+      "onboard_time": 1769139081,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 576808,
       "num": 295292,
       "word": "宋威龙庆功宴造型",
@@ -1361,6 +1385,14 @@
       "onboard_time": 1768974919,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 557718,
+      "num": 209305,
+      "word": "黄景瑜要上太空了",
+      "onboard_time": 1769142743,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 554111,
@@ -1481,6 +1513,14 @@
       "onboard_time": 1768649841,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 532948,
+      "num": 464173,
+      "word": "女子为孩子囤黄金投入90万收益200万",
+      "onboard_time": 1769140161,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 532853,
@@ -1851,14 +1891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 464173,
-      "num": 464173,
-      "word": "女子为孩子囤黄金投入90万收益200万",
-      "onboard_time": 1769140161,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 463446,
       "num": 214335,
       "word": "昀牵孟绕就这么亲上了",
@@ -1873,6 +1905,14 @@
       "onboard_time": 1768925958,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 463035,
+      "num": 1074085,
+      "word": "不二之臣",
+      "onboard_time": 1769137939,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 462278,
@@ -2025,14 +2065,6 @@
       "onboard_time": 1769009361,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 441717,
-      "num": 780139,
-      "word": "不二之臣",
-      "onboard_time": 1769137939,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 441695,
@@ -2563,6 +2595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 375684,
+      "num": 217320,
+      "word": "流浪在美国的中国女子",
+      "onboard_time": 1769139560,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 374660,
       "num": 300384,
       "word": "曝黄荷娜为减刑供出艺人名字",
@@ -2665,6 +2705,14 @@
       "onboard_time": 1769089462,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 365646,
+      "num": 475904,
+      "word": "12306回应高铁车厢二氧化碳浓度超标",
+      "onboard_time": 1769139501,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 364411,
@@ -3027,6 +3075,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 331574,
+      "num": 331574,
+      "word": "小城大事腾讯拉新倒数第一",
+      "onboard_time": 1769140039,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 330482,
       "num": 208895,
       "word": "苹果推出新春优惠",
@@ -3331,14 +3387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 303379,
-      "num": 299146,
-      "word": "赵婷是宋丹丹的继女",
-      "onboard_time": 1769139081,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 303219,
       "num": 303219,
       "word": "2026亚足联U23亚洲杯",
@@ -3361,14 +3409,6 @@
       "onboard_time": 1769077460,
       "rank": 33,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 300501,
-      "num": 217320,
-      "word": "流浪在美国的中国女子",
-      "onboard_time": 1769139560,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 299469,
@@ -3425,6 +3465,14 @@
       "onboard_time": 1769056100,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 295924,
+      "num": 211310,
+      "word": "六位影后的七年之约",
+      "onboard_time": 1769140881,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 295600,
@@ -4467,14 +4515,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 229939,
-      "num": 475904,
-      "word": "12306回应高铁车厢二氧化碳浓度超标",
-      "onboard_time": 1769139501,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 229805,
       "num": 229805,
       "word": "素人和荤人的区别",
@@ -4513,6 +4553,14 @@
       "onboard_time": 1769048000,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 227324,
+      "num": 227324,
+      "word": "马斯克回应地球上有外星人",
+      "onboard_time": 1769138961,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 227021,
@@ -4851,14 +4899,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 213716,
-      "num": 213716,
-      "word": "小城大事腾讯拉新倒数第一",
-      "onboard_time": 1769140039,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 213675,
       "num": 199103,
       "word": "易烊千玺首演警察",
@@ -4929,14 +4969,6 @@
       "onboard_time": 1768811902,
       "rank": 18,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 211310,
-      "num": 211310,
-      "word": "六位影后的七年之约",
-      "onboard_time": 1769140881,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 210927,
@@ -5803,6 +5835,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 184946,
+      "num": 183632,
+      "word": "一栗小莎子孩子才刚会喊妈妈",
+      "onboard_time": 1769143162,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 184875,
       "num": 184875,
       "word": "乒坛泰斗谈奥运会参赛资格",
@@ -5840,6 +5880,14 @@
       "word": "周杰伦47岁了",
       "onboard_time": 1768692255,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 183794,
+      "num": 183794,
+      "word": "刘烨安娜女儿霓娜近照",
+      "onboard_time": 1769143762,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -6009,6 +6057,14 @@
       "onboard_time": 1768833442,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 177309,
+      "num": 177309,
+      "word": "李行亮麦琳已无商业关联",
+      "onboard_time": 1769142140,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 176872,
@@ -6907,6 +6963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156335,
+      "num": 224761,
+      "word": "半个短国都来浙江卫视春晚了",
+      "onboard_time": 1769143521,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156176,
       "num": 156176,
       "word": "专家称蛇窝蹦床应是人为结构",
@@ -7225,14 +7289,6 @@
       "onboard_time": 1768794800,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 149856,
-      "num": 130095,
-      "word": "李行亮麦琳已无商业关联",
-      "onboard_time": 1769142140,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 149771,
@@ -7643,6 +7699,14 @@
       "category": "网红,运动健身"
     },
     {
+      "raw_hot": 142521,
+      "num": 195297,
+      "word": "猝死程序员公司赔付家属39万",
+      "onboard_time": 1769143342,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142505,
       "num": 142505,
       "word": "赖冠霖 演戏不是我可以做好的事",
@@ -7665,6 +7729,14 @@
       "onboard_time": 1769079260,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142171,
+      "num": 142171,
+      "word": "范丞丞长发",
+      "onboard_time": 1769142922,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 142120,
@@ -7705,14 +7777,6 @@
       "onboard_time": 1768893980,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141682,
-      "num": 220808,
-      "word": "马斯克回应地球上有外星人",
-      "onboard_time": 1769138961,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 141515,
@@ -8163,14 +8227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133019,
-      "num": 133019,
-      "word": "章昊 对不起我是中国人听不懂",
-      "onboard_time": 1769141961,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132783,
       "num": 132783,
       "word": "黑色马蹄莲卖爆了",
@@ -8185,6 +8241,14 @@
       "onboard_time": 1768789821,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132468,
+      "num": 132468,
+      "word": "八个月瘦了120斤的身体变化",
+      "onboard_time": 1769143521,
+      "rank": 41,
+      "category": "运动健身"
     },
     {
       "raw_hot": 132312,
@@ -8417,6 +8481,14 @@
       "onboard_time": 1769097980,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129129,
+      "num": 129129,
+      "word": "欧阳娜娜尝试了黑松露穿搭",
+      "onboard_time": 1769144182,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 129118,
@@ -13467,6 +13539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 86630,
+      "num": 175785,
+      "word": "儿童洗护品牌戴可思被立案调查",
+      "onboard_time": 1769144481,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86582,
       "num": 86582,
       "word": "攻玉",
@@ -13931,6 +14011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84028,
+      "num": 184829,
+      "word": "穿得很厚还是手脚冰凉",
+      "onboard_time": 1769144363,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 84012,
       "num": 96845,
       "word": "WBG状态",
@@ -14033,6 +14121,14 @@
       "onboard_time": 1768916122,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83230,
+      "num": 175878,
+      "word": "金饰克价4天猛涨近百元",
+      "onboard_time": 1769144363,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 83023,
@@ -14193,6 +14289,14 @@
       "onboard_time": 1769093121,
       "rank": 41,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 82094,
+      "num": 173231,
+      "word": "林孝埈圆梦米兰冬奥",
+      "onboard_time": 1769143162,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 82092,
@@ -15451,6 +15555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 70709,
+      "num": 600106,
+      "word": "中国铁路又双叒有新突破",
+      "onboard_time": 1769142800,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 70602,
       "num": 70602,
       "word": "邓佳鑫 真不客气你又不愿意了",
@@ -16107,6 +16219,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 61843,
+      "num": 104822,
+      "word": "美国流浪汉坦言曾上最好的学校",
+      "onboard_time": 1769143282,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 61500,
       "num": 94403,
       "word": "信用卡分期还款也能享受财政贴息",
@@ -16627,6 +16747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 51659,
+      "num": 194051,
+      "word": "一件羽绒服温暖了三代人",
+      "onboard_time": 1769142982,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 51639,
       "num": 91109,
       "word": "许嵩空降超话",
@@ -16953,6 +17081,14 @@
       "onboard_time": 1769125159,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45181,
+      "num": 170559,
+      "word": "智界汽车新春购车权益加码",
+      "onboard_time": 1769142861,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 44915,
@@ -17521,6 +17657,14 @@
       "onboard_time": 1768892301,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 34376,
+      "num": 169163,
+      "word": "美国曾公开讨论食人法案",
+      "onboard_time": 1769144363,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 34193,
