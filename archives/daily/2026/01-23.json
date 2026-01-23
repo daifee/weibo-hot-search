@@ -1,6 +1,6 @@
 {
   "startTime": 1769100257042,
-  "endTime": 1769146597228,
+  "endTime": 1769147501598,
   "band_list": [
     {
       "raw_hot": 2732817,
@@ -83,8 +83,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 569101,
-      "num": 1091056,
+      "raw_hot": 572352,
+      "num": 1091576,
       "word": "不二之臣",
       "onboard_time": 1769137939,
       "rank": 1,
@@ -137,6 +137,14 @@
       "onboard_time": 1769132839,
       "rank": 16,
       "category": "财经"
+    },
+    {
+      "raw_hot": 485908,
+      "num": 485908,
+      "word": "草莓剥皮",
+      "onboard_time": 1769144781,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 478129,
@@ -315,12 +323,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265926,
+      "num": 177309,
+      "word": "李行亮麦琳已无商业关联",
+      "onboard_time": 1769142140,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265866,
       "num": 183975,
       "word": "韩国国旗 车银优",
       "onboard_time": 1769066660,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264413,
+      "num": 164482,
+      "word": "小果冻 前女友",
+      "onboard_time": 1769146821,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 260610,
@@ -363,20 +387,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 235610,
-      "num": 235610,
-      "word": "草莓剥皮",
-      "onboard_time": 1769144781,
-      "rank": 4,
-      "category": "美食"
-    },
-    {
       "raw_hot": 233747,
       "num": 137848,
       "word": "张桂源二番",
       "onboard_time": 1769129300,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232138,
+      "num": 214109,
+      "word": "猝死程序员公司赔付家属39万",
+      "onboard_time": 1769143342,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 227324,
@@ -419,28 +443,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219036,
-      "num": 177309,
-      "word": "李行亮麦琳已无商业关联",
-      "onboard_time": 1769142140,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 214961,
       "num": 214961,
       "word": "花千骨二番依旧出圈",
       "onboard_time": 1769140281,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 214109,
-      "num": 214109,
-      "word": "猝死程序员公司赔付家属39万",
-      "onboard_time": 1769143342,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 210866,
@@ -483,6 +491,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 195656,
+      "num": 228643,
+      "word": "飞驰人生3领衔主演尹正",
+      "onboard_time": 1769145021,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 195309,
       "num": 195309,
       "word": "米兰冬奥运动员公示",
@@ -497,6 +513,14 @@
       "onboard_time": 1769091741,
       "rank": 5,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 186063,
+      "num": 159594,
+      "word": "张凌赫张婧仪 现偶",
+      "onboard_time": 1769145261,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 184946,
@@ -523,12 +547,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176001,
-      "num": 142822,
-      "word": "张凌赫张婧仪 现偶",
-      "onboard_time": 1769145261,
-      "rank": 30,
-      "category": "作品衍生"
+      "raw_hot": 176575,
+      "num": 230298,
+      "word": "儿童洗护品牌戴可思被立案调查",
+      "onboard_time": 1769144481,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173864,
@@ -571,28 +595,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 161306,
-      "num": 230298,
-      "word": "儿童洗护品牌戴可思被立案调查",
-      "onboard_time": 1769144481,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156335,
       "num": 224761,
       "word": "半个短国都来浙江卫视春晚了",
       "onboard_time": 1769143521,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 155179,
-      "num": 228643,
-      "word": "飞驰人生3领衔主演尹正",
-      "onboard_time": 1769145021,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 153840,
@@ -680,6 +688,14 @@
       "word": "五哈",
       "onboard_time": 1769124738,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 134409,
+      "num": 134409,
+      "word": "亲爱的客栈2026",
+      "onboard_time": 1769147181,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -795,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106589,
+      "num": 106589,
+      "word": "存够能住两周ICU的钱就够了",
+      "onboard_time": 1769144960,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 104508,
       "num": 104508,
       "word": "湖南22岁未婚小伙替兄养子事件进展",
@@ -809,6 +833,14 @@
       "onboard_time": 1769126060,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102767,
+      "num": 161722,
+      "word": "网传好六团空降新人",
+      "onboard_time": 1769146762,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 101723,
@@ -851,20 +883,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 99753,
+      "num": 99753,
+      "word": "500人群里499个是拖",
+      "onboard_time": 1769147061,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 98696,
       "num": 175463,
       "word": "黄景瑜 太空旅游",
       "onboard_time": 1769088742,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 97832,
-      "num": 94052,
-      "word": "存够能住两周ICU的钱就够了",
-      "onboard_time": 1769144960,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 96860,
@@ -889,6 +921,14 @@
       "onboard_time": 1769142140,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95517,
+      "num": 95517,
+      "word": "美利坚警察的爆料丝毫不逊色牢A",
+      "onboard_time": 1769146881,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 94606,
@@ -931,6 +971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93302,
+      "num": 93302,
+      "word": "泰国 肖战主题列车",
+      "onboard_time": 1769146341,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93290,
       "num": 93290,
       "word": "长生FMVP长夜焕生共潮升",
@@ -952,6 +1000,14 @@
       "word": "谷爱凌苏翊鸣徐梦桃将参加米兰冬奥",
       "onboard_time": 1769134220,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 91310,
+      "num": 91310,
+      "word": "快船战胜湖人",
+      "onboard_time": 1769147181,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -1033,14 +1089,6 @@
       "onboard_time": 1769146461,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 84305,
-      "num": 84305,
-      "word": "泰国 肖战主题列车",
-      "onboard_time": 1769146341,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 84247,
@@ -1228,7 +1276,7 @@
     },
     {
       "raw_hot": 70709,
-      "num": 606764,
+      "num": 616816,
       "word": "中国铁路又双叒有新突破",
       "onboard_time": 1769142800,
       "rank": 2,
@@ -1257,6 +1305,14 @@
       "onboard_time": 1769124317,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 67080,
+      "num": 67080,
+      "word": "外籍货轮倾覆中国海警已救起13人",
+      "onboard_time": 1769147000,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66708,
@@ -1500,7 +1556,7 @@
     },
     {
       "raw_hot": 43799,
-      "num": 155118,
+      "num": 156655,
       "word": "终末地最伟大的一张脸",
       "onboard_time": 1769144661,
       "rank": 27,
@@ -1721,6 +1777,14 @@
       "onboard_time": 1769082560,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17765,
+      "num": 166171,
+      "word": "8成消费者称在餐厅吃的是预制菜",
+      "onboard_time": 1769147121,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16572,

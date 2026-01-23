@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769146597228,
+  "endTime": 1769147501598,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -1323,8 +1323,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 569101,
-      "num": 1091056,
+      "raw_hot": 572352,
+      "num": 1091576,
       "word": "不二之臣",
       "onboard_time": 1769137939,
       "rank": 1,
@@ -1785,6 +1785,14 @@
       "onboard_time": 1769062880,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 485908,
+      "num": 485908,
+      "word": "草莓剥皮",
+      "onboard_time": 1769144781,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 484724,
@@ -3995,12 +4003,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 265926,
+      "num": 177309,
+      "word": "李行亮麦琳已无商业关联",
+      "onboard_time": 1769142140,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265107,
       "num": 233731,
       "word": "鹅鸭杀捡钱",
       "onboard_time": 1768965739,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 264413,
+      "num": 164482,
+      "word": "小果冻 前女友",
+      "onboard_time": 1769146821,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 264365,
@@ -4379,14 +4403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 235610,
-      "num": 235610,
-      "word": "草莓剥皮",
-      "onboard_time": 1769144781,
-      "rank": 4,
-      "category": "美食"
-    },
-    {
       "raw_hot": 235524,
       "num": 235524,
       "word": "王昭君灯塔水母主题皮肤",
@@ -4497,6 +4513,14 @@
       "onboard_time": 1768888159,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232138,
+      "num": 214109,
+      "word": "猝死程序员公司赔付家属39万",
+      "onboard_time": 1769143342,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 232001,
@@ -4803,14 +4827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219036,
-      "num": 177309,
-      "word": "李行亮麦琳已无商业关联",
-      "onboard_time": 1769142140,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 218808,
       "num": 218808,
       "word": "特朗普称因未获诺奖不再考虑和平",
@@ -4913,14 +4929,6 @@
       "onboard_time": 1768725442,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 214109,
-      "num": 214109,
-      "word": "猝死程序员公司赔付家属39万",
-      "onboard_time": 1769143342,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 213839,
@@ -5515,6 +5523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 195656,
+      "num": 228643,
+      "word": "飞驰人生3领衔主演尹正",
+      "onboard_time": 1769145021,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 195463,
       "num": 172677,
       "word": "阿爆哭诉自己孤独",
@@ -5851,6 +5867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 186063,
+      "num": 159594,
+      "word": "张凌赫张婧仪 现偶",
+      "onboard_time": 1769145261,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 185506,
       "num": 170455,
       "word": "陈星旭演技",
@@ -6107,6 +6131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176575,
+      "num": 230298,
+      "word": "儿童洗护品牌戴可思被立案调查",
+      "onboard_time": 1769144481,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176561,
       "num": 634024,
       "word": "樊振东3比2高茨",
@@ -6160,14 +6192,6 @@
       "word": "杨紫的荧幕初吻居然是霍建华",
       "onboard_time": 1769054061,
       "rank": 34,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 176001,
-      "num": 142822,
-      "word": "张凌赫张婧仪 现偶",
-      "onboard_time": 1769145261,
-      "rank": 30,
       "category": "作品衍生"
     },
     {
@@ -6771,14 +6795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 161306,
-      "num": 230298,
-      "word": "儿童洗护品牌戴可思被立案调查",
-      "onboard_time": 1769144481,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 160993,
       "num": 110727,
       "word": "刘诗诗活动路透",
@@ -7033,14 +7049,6 @@
       "onboard_time": 1768779379,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 155179,
-      "num": 228643,
-      "word": "飞驰人生3领衔主演尹正",
-      "onboard_time": 1769145021,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 154658,
@@ -8185,6 +8193,14 @@
       "onboard_time": 1768817540,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134409,
+      "num": 134409,
+      "word": "亲爱的客栈2026",
+      "onboard_time": 1769147181,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 134099,
@@ -10587,6 +10603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106589,
+      "num": 106589,
+      "word": "存够能住两周ICU的钱就够了",
+      "onboard_time": 1769144960,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106545,
       "num": 106545,
       "word": "春晚节目",
@@ -11115,6 +11139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102767,
+      "num": 161722,
+      "word": "网传好六团空降新人",
+      "onboard_time": 1769146762,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102766,
       "num": 102766,
       "word": "婴儿淋暴雨拍短剧家长为何沉默",
@@ -11507,6 +11539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 99753,
+      "num": 99753,
+      "word": "500人群里499个是拖",
+      "onboard_time": 1769147061,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99715,
       "num": 183521,
       "word": "肖战藏海传酷云战报",
@@ -11809,14 +11849,6 @@
       "onboard_time": 1769060241,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 97832,
-      "num": 94052,
-      "word": "存够能住两周ICU的钱就够了",
-      "onboard_time": 1769144960,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 97784,
@@ -12129,6 +12161,14 @@
       "onboard_time": 1769056642,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 95517,
+      "num": 95517,
+      "word": "美利坚警察的爆料丝毫不逊色牢A",
+      "onboard_time": 1769146881,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 95443,
@@ -12489,6 +12529,14 @@
       "onboard_time": 1768986141,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 93302,
+      "num": 93302,
+      "word": "泰国 肖战主题列车",
+      "onboard_time": 1769146341,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 93290,
@@ -12857,6 +12905,14 @@
       "onboard_time": 1768900822,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91310,
+      "num": 91310,
+      "word": "快船战胜湖人",
+      "onboard_time": 1769147181,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 91238,
@@ -14057,14 +14113,6 @@
       "onboard_time": 1768898362,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 84305,
-      "num": 84305,
-      "word": "泰国 肖战主题列车",
-      "onboard_time": 1769146341,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 84262,
@@ -15660,7 +15708,7 @@
     },
     {
       "raw_hot": 70709,
-      "num": 606764,
+      "num": 616816,
       "word": "中国铁路又双叒有新突破",
       "onboard_time": 1769142800,
       "rank": 2,
@@ -15953,6 +16001,14 @@
       "onboard_time": 1769124317,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 67080,
+      "num": 67080,
+      "word": "外籍货轮倾覆中国海警已救起13人",
+      "onboard_time": 1769147000,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67038,
@@ -17268,7 +17324,7 @@
     },
     {
       "raw_hot": 43799,
-      "num": 155118,
+      "num": 156655,
       "word": "终末地最伟大的一张脸",
       "onboard_time": 1769144661,
       "rank": 27,
@@ -18800,6 +18856,14 @@
       "word": "福建438人违反限消令乘机被拘留",
       "onboard_time": 1768981282,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17765,
+      "num": 166171,
+      "word": "8成消费者称在餐厅吃的是预制菜",
+      "onboard_time": 1769147121,
+      "rank": 19,
       "category": "民生新闻"
     },
     {

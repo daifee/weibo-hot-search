@@ -1,0 +1,410 @@
+{
+  "runTime": 1769147501598,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 572352,
+        "num": 1091576,
+        "word": "不二之臣",
+        "onboard_time": 1769137939,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312181,
+        "num": 792167,
+        "word": "中国飞船首批20余位游客已预订",
+        "onboard_time": 1769136620,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68023,
+        "num": 616816,
+        "word": "中国铁路又双叒有新突破",
+        "onboard_time": 1769142800,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 485908,
+        "num": 485908,
+        "word": "草莓剥皮",
+        "onboard_time": 1769144781,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 275187,
+        "num": 275187,
+        "word": "小城大事腾讯拉新倒数第一",
+        "onboard_time": 1769140039,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243325,
+        "num": 243325,
+        "word": "女子为孩子囤黄金投入90万收益200万",
+        "onboard_time": 1769140161,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197919,
+        "num": 197919,
+        "word": "12306回应高铁车厢二氧化碳浓度超标",
+        "onboard_time": 1769139501,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195656,
+        "num": 195656,
+        "word": "飞驰人生3领衔主演尹正",
+        "onboard_time": 1769145021,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176575,
+        "num": 176575,
+        "word": "儿童洗护品牌戴可思被立案调查",
+        "onboard_time": 1769144481,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141197,
+        "num": 176178,
+        "word": "马年的梗还是太超前了",
+        "onboard_time": 1769137699,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1229015,
+        "num": 175032,
+        "word": "骆驼向王俊凯致歉",
+        "onboard_time": 1769142982,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 650778,
+        "num": 173954,
+        "word": "章昊 对不起我是中国人听不懂",
+        "onboard_time": 1769141961,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266623,
+        "num": 173408,
+        "word": "八个月瘦了120斤的身体变化",
+        "onboard_time": 1769143521,
+        "rank": 12,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 470552,
+        "num": 172371,
+        "word": "黄景瑜要上太空了",
+        "onboard_time": 1769142743,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265926,
+        "num": 171486,
+        "word": "李行亮麦琳已无商业关联",
+        "onboard_time": 1769142140,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232138,
+        "num": 170079,
+        "word": "猝死程序员公司赔付家属39万",
+        "onboard_time": 1769143342,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252575,
+        "num": 169107,
+        "word": "吃火锅偶遇贾玲张小斐",
+        "onboard_time": 1769134879,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176978,
+        "num": 168006,
+        "word": "马斯克回应地球上有外星人",
+        "onboard_time": 1769138961,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132203,
+        "num": 166980,
+        "word": "金价",
+        "onboard_time": 1769139199,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 17765,
+        "num": 166171,
+        "word": "8成消费者称在餐厅吃的是预制菜",
+        "onboard_time": 1769147121,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408879,
+        "num": 164876,
+        "word": "刘烨安娜女儿霓娜近照",
+        "onboard_time": 1769143762,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264413,
+        "num": 164482,
+        "word": "小果冻 前女友",
+        "onboard_time": 1769146821,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 212192,
+        "num": 162990,
+        "word": "猝死程序员底薪3千干7个人的活",
+        "onboard_time": 1769130201,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115094,
+        "num": 162660,
+        "word": "金饰克价涨到1545元",
+        "onboard_time": 1769132839,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102767,
+        "num": 161722,
+        "word": "网传好六团空降新人",
+        "onboard_time": 1769146762,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209380,
+        "num": 159978,
+        "word": "流浪在美国的中国女子",
+        "onboard_time": 1769139560,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 186063,
+        "num": 159594,
+        "word": "张凌赫张婧仪 现偶",
+        "onboard_time": 1769145261,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107402,
+        "num": 157875,
+        "word": "金饰克价4天猛涨近百元",
+        "onboard_time": 1769144363,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 55317,
+        "num": 157476,
+        "word": "大连成东北首个GDP破万亿城市",
+        "onboard_time": 1769142140,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27215,
+        "num": 156655,
+        "word": "终末地最伟大的一张脸",
+        "onboard_time": 1769144661,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155879,
+        "num": 155879,
+        "word": "演员表为啥越来越看不懂了",
+        "onboard_time": 1769129361,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148864,
+        "num": 148864,
+        "word": "六位影后的七年之约",
+        "onboard_time": 1769140881,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139919,
+        "num": 139919,
+        "word": "儿子问舅舅不开门妈妈是不是不会死",
+        "onboard_time": 1769125940,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136663,
+        "num": 136663,
+        "word": "范丞丞长发",
+        "onboard_time": 1769142922,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134409,
+        "num": 134409,
+        "word": "亲爱的客栈2026",
+        "onboard_time": 1769147181,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106589,
+        "num": 106589,
+        "word": "存够能住两周ICU的钱就够了",
+        "onboard_time": 1769144960,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104332,
+        "num": 104332,
+        "word": "欧阳娜娜尝试了黑松露穿搭",
+        "onboard_time": 1769144182,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101866,
+        "num": 101866,
+        "word": "花千骨二番依旧出圈",
+        "onboard_time": 1769140281,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99753,
+        "num": 99753,
+        "word": "500人群里499个是拖",
+        "onboard_time": 1769147061,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95517,
+        "num": 95517,
+        "word": "美利坚警察的爆料丝毫不逊色牢A",
+        "onboard_time": 1769146881,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93302,
+        "num": 93302,
+        "word": "泰国 肖战主题列车",
+        "onboard_time": 1769146341,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92845,
+        "num": 92845,
+        "word": "一栗小莎子回应疑似患淋巴瘤",
+        "onboard_time": 1769137398,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 91310,
+        "num": 91310,
+        "word": "快船战胜湖人",
+        "onboard_time": 1769147181,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82995,
+        "num": 82995,
+        "word": "视源股份回应程序员猝死",
+        "onboard_time": 1769140161,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79067,
+        "num": 79067,
+        "word": "这个镜头幸好是成毅",
+        "onboard_time": 1769146461,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77043,
+        "num": 77043,
+        "word": "2026计划是离职",
+        "onboard_time": 1769146162,
+        "rank": 45,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 72335,
+        "num": 72335,
+        "word": "王鹤棣白鹿买菜路透",
+        "onboard_time": 1769139980,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67763,
+        "num": 67763,
+        "word": "实习生过年加班七天七千",
+        "onboard_time": 1769145261,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67732,
+        "num": 67732,
+        "word": "久坐抖腿能预防血栓吗",
+        "onboard_time": 1769142441,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 67080,
+        "num": 67080,
+        "word": "外籍货轮倾覆中国海警已救起13人",
+        "onboard_time": 1769147000,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为关键少数划定履职标尺#"
+    }
+  }
+}
