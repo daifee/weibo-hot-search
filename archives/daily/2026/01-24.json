@@ -1,6 +1,6 @@
 {
   "startTime": 1769186467234,
-  "endTime": 1769190484092,
+  "endTime": 1769193900580,
   "band_list": [
     {
       "raw_hot": 850051,
@@ -427,6 +427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 40545,
+      "num": 40545,
+      "word": "U23国足vs日本",
+      "onboard_time": 1769191934,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38716,
       "num": 62631,
       "word": "太平年好看吗",
@@ -475,6 +483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 29499,
+      "num": 29499,
+      "word": "王王队后台暴打杜海涛",
+      "onboard_time": 1769191156,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 28333,
       "num": 32990,
       "word": "最强大脑",
@@ -489,6 +505,22 @@
       "onboard_time": 1769190436,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23890,
+      "num": 23890,
+      "word": "轧戏",
+      "onboard_time": 1769193136,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 18401,
+      "num": 20472,
+      "word": "刘宇宁录制北京春晚",
+      "onboard_time": 1769193495,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 2329,

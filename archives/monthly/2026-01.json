@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769190484092,
+  "endTime": 1769193900580,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -71019,6 +71019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40545,
+      "num": 40545,
+      "word": "U23国足vs日本",
+      "onboard_time": 1769191934,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40524,
       "num": 73182,
       "word": "美国一男子枪杀6人",
@@ -73745,6 +73753,14 @@
       "onboard_time": 1768151416,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 29499,
+      "num": 29499,
+      "word": "王王队后台暴打杜海涛",
+      "onboard_time": 1769191156,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 29453,
@@ -76553,6 +76569,14 @@
       "onboard_time": 1768055603,
       "rank": 19,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 18401,
+      "num": 20472,
+      "word": "刘宇宁录制北京春晚",
+      "onboard_time": 1769193495,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 18295,
