@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769125448453,
+  "endTime": 1769134260689,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -979,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1149237,
+      "num": 151303,
+      "word": "猝死程序员底薪3千干7个人的活",
+      "onboard_time": 1769130201,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1136675,
       "num": 229549,
       "word": "生父帮继母买1600片泻药持续喂女儿",
@@ -1889,6 +1897,14 @@
       "onboard_time": 1768875799,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 893250,
+      "num": 150990,
+      "word": "演员表为啥越来越看不懂了",
+      "onboard_time": 1769129361,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 890521,
@@ -3852,7 +3868,7 @@
     },
     {
       "raw_hot": 622131,
-      "num": 121197,
+      "num": 149084,
       "word": "一栗小莎子疑似患淋巴瘤",
       "onboard_time": 1769123418,
       "rank": 10,
@@ -3945,6 +3961,14 @@
       "onboard_time": 1767756440,
       "rank": 0,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 611965,
+      "num": 141660,
+      "word": "儿子问舅舅不开门妈妈是不是不会死",
+      "onboard_time": 1769125940,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 611022,
@@ -4329,6 +4353,14 @@
       "onboard_time": 1767687623,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 584632,
+      "num": 1093541,
+      "word": "中国飞船预售票一张300万",
+      "onboard_time": 1769129061,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 584412,
@@ -6649,6 +6681,14 @@
       "onboard_time": 1767703942,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 478129,
+      "num": 478129,
+      "word": "赵婷 奥斯卡",
+      "onboard_time": 1769131580,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 478081,
@@ -9243,6 +9283,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 387311,
+      "num": 224512,
+      "word": "王玉雯把猥琐劲儿给演出来了",
+      "onboard_time": 1769128820,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 387042,
       "num": 387042,
       "word": "第一批免签去土耳其的已经破产了",
@@ -10068,7 +10116,7 @@
     },
     {
       "raw_hot": 364171,
-      "num": 98909,
+      "num": 139151,
       "word": "何穗月子后做了二次手术",
       "onboard_time": 1769107754,
       "rank": 22,
@@ -12716,7 +12764,7 @@
     },
     {
       "raw_hot": 304857,
-      "num": 120001,
+      "num": 143380,
       "word": "黄景瑜已经不满足只在内娱当兵了",
       "onboard_time": 1769123537,
       "rank": 13,
@@ -13624,6 +13672,14 @@
       "word": "程潇赵嘉敏 发小闺蜜勇闯娱乐圈",
       "onboard_time": 1768545441,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 285773,
+      "num": 144199,
+      "word": "刘诗诗工作室进高人了",
+      "onboard_time": 1769127201,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -15299,6 +15355,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 260610,
+      "num": 767677,
+      "word": "大疆pocket4发布时间",
+      "onboard_time": 1769128281,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 260556,
       "num": 260556,
       "word": "家属透露聂卫平病逝细节",
@@ -16243,6 +16307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 245634,
+      "num": 142934,
+      "word": "金饰克价涨到1545元",
+      "onboard_time": 1769132839,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 245492,
       "num": 230489,
       "word": "不要在车里放小玩偶了",
@@ -16977,6 +17049,14 @@
       "onboard_time": 1768801824,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233747,
+      "num": 137848,
+      "word": "张桂源二番",
+      "onboard_time": 1769129300,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 233595,
@@ -17784,6 +17864,14 @@
       "word": "胡锡进称西贝事件是一个悲剧",
       "onboard_time": 1768475721,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222744,
+      "num": 142482,
+      "word": "王石首次公开回应婚变传闻",
+      "onboard_time": 1769129601,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -23059,6 +23147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 182578,
+      "num": 182578,
+      "word": "泡泡玛特电子木鱼爆火",
+      "onboard_time": 1769126960,
+      "rank": 7,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 182544,
       "num": 147678,
       "word": "4寸蛋糕价格普遍在50元以上",
@@ -23545,6 +23641,14 @@
       "onboard_time": 1768539622,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 178639,
+      "num": 178639,
+      "word": "米兰冬奥运动员公示",
+      "onboard_time": 1769132300,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 178633,
@@ -24273,6 +24377,14 @@
       "onboard_time": 1767598401,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173864,
+      "num": 142394,
+      "word": "TikTok官宣美国方案",
+      "onboard_time": 1769133620,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 173835,
@@ -27899,6 +28011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153766,
+      "num": 153766,
+      "word": "周启豪发文",
+      "onboard_time": 1769128159,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153754,
       "num": 153754,
       "word": "苹果上架AirPodsPro3马年特别款",
@@ -30075,6 +30195,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 144222,
+      "num": 144222,
+      "word": "东北早起上班跟穿越鳌太线一样",
+      "onboard_time": 1769127500,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144059,
       "num": 144059,
       "word": "黄晓明山东人演体制内太权威了",
@@ -30089,6 +30217,14 @@
       "onboard_time": 1768347379,
       "rank": 37,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 143952,
+      "num": 134810,
+      "word": "儿子全程目睹妈妈遇害后确诊抑郁症",
+      "onboard_time": 1769126721,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143949,
@@ -30537,6 +30673,14 @@
       "onboard_time": 1768025601,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141962,
+      "num": 141962,
+      "word": "宋威龙 忍住",
+      "onboard_time": 1769127020,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 141925,
@@ -32576,6 +32720,14 @@
       "word": "萧亚轩一天13首歌上榜",
       "onboard_time": 1767610460,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 134721,
+      "num": 134721,
+      "word": "五哈",
+      "onboard_time": 1769124738,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -35129,6 +35281,14 @@
       "onboard_time": 1768701259,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 126017,
+      "num": 126017,
+      "word": "哥哥回应失踪13年女硕士现状",
+      "onboard_time": 1769131460,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125978,
@@ -44395,6 +44555,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 102878,
+      "num": 102878,
+      "word": "六年级男生一脚踹飞7岁小男孩",
+      "onboard_time": 1769126060,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102859,
       "num": 102859,
       "word": "伊朗全境已恢复互联网服务",
@@ -49315,6 +49483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93910,
+      "num": 93910,
+      "word": "穿越者太空旅游",
+      "onboard_time": 1769133561,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93908,
       "num": 93908,
       "word": "6岁女孩独自在家给陌生男子开门",
@@ -50291,6 +50467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92364,
+      "num": 92364,
+      "word": "突然的喜欢 地球超新鲜",
+      "onboard_time": 1769130680,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92348,
       "num": 92348,
       "word": "TF荣耀之战主题",
@@ -50841,6 +51025,14 @@
       "onboard_time": 1767841581,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 91287,
+      "num": 91287,
+      "word": "李行亮自曝因再见爱人被品牌撤单",
+      "onboard_time": 1769132421,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 91285,
@@ -54507,6 +54699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 85481,
+      "num": 85481,
+      "word": "余幼时即厌学",
+      "onboard_time": 1769131101,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 85467,
       "num": 85467,
       "word": "55克金镯开年已涨7700元",
@@ -54737,6 +54937,14 @@
       "onboard_time": 1768460060,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85110,
+      "num": 85110,
+      "word": "潇潇回应487",
+      "onboard_time": 1769126842,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 85092,
@@ -57003,6 +57211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80409,
+      "num": 80409,
+      "word": "勇士vs独行侠",
+      "onboard_time": 1769134039,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80396,
       "num": 91267,
       "word": "iPhone的截屏还能这样用",
@@ -57105,6 +57321,14 @@
       "onboard_time": 1768781361,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80219,
+      "num": 80219,
+      "word": "曝20周年iPhone不是真全面屏",
+      "onboard_time": 1769132778,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 80207,
@@ -57569,6 +57793,14 @@
       "onboard_time": 1768822461,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79366,
+      "num": 79366,
+      "word": "孟子义李昀锐喊卡之后没放开的手",
+      "onboard_time": 1769123537,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 79359,
@@ -58291,14 +58523,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 77713,
-      "num": 77713,
-      "word": "孟子义李昀锐喊卡之后没放开的手",
-      "onboard_time": 1769123537,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 77712,
       "num": 77712,
       "word": "海底捞尿布入锅背后是监护缺位",
@@ -58899,14 +59123,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 76292,
-      "num": 74311,
-      "word": "五哈",
-      "onboard_time": 1769124738,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 76272,
       "num": 76272,
       "word": "吉林男篮vs广东男篮",
@@ -59363,6 +59579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 75025,
+      "num": 75025,
+      "word": "宋威龙真的只会这两句",
+      "onboard_time": 1769133139,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75013,
       "num": 171191,
       "word": "嫣然天使儿童医院往年工作报告曝光",
@@ -59601,6 +59825,14 @@
       "onboard_time": 1767851839,
       "rank": 43,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 74459,
+      "num": 74459,
+      "word": "久坐2小时血栓风险就会增加",
+      "onboard_time": 1769132240,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 74402,
@@ -59913,6 +60145,14 @@
       "onboard_time": 1767355281,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73724,
+      "num": 73724,
+      "word": "官方通报环卫工戴电子工牌无处罚",
+      "onboard_time": 1769133739,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73712,
@@ -62747,6 +62987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64436,
+      "num": 64436,
+      "word": "鱼这是深圳城中村吗",
+      "onboard_time": 1769132539,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 64366,
       "num": 95846,
       "word": "苹果炖鸡",
@@ -62889,6 +63137,14 @@
       "onboard_time": 1767180742,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 64066,
+      "num": 64066,
+      "word": "马年红包卖爆了",
+      "onboard_time": 1769133440,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64051,
@@ -63515,6 +63771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 61809,
+      "num": 61809,
+      "word": "谷爱凌苏翊鸣徐梦桃将参加米兰冬奥",
+      "onboard_time": 1769134220,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61799,
       "num": 61799,
       "word": "U23国足出线形势",
@@ -63665,6 +63929,14 @@
       "onboard_time": 1768099340,
       "rank": 46,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 61144,
+      "num": 61144,
+      "word": "小羊看病被医生弄疼找主人撒气",
+      "onboard_time": 1769127201,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 61120,
@@ -74228,7 +74500,7 @@
     },
     {
       "raw_hot": 10935,
-      "num": 519609,
+      "num": 650827,
       "word": "2025年我国农业现代化水平持续提升",
       "onboard_time": 1769070381,
       "rank": 42,
