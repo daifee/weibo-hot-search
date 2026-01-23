@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769154469938,
+  "endTime": 1769157611603,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -425,6 +425,14 @@
       "onboard_time": 1769079320,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1829811,
+      "num": 199495,
+      "word": "苹果用户的天塌了",
+      "onboard_time": 1769155100,
+      "rank": 10,
+      "category": "数码"
     },
     {
       "raw_hot": 1826344,
@@ -1380,7 +1388,7 @@
     },
     {
       "raw_hot": 1024669,
-      "num": 169074,
+      "num": 188772,
       "word": "车银优宋慧乔被称为逃税情侣",
       "onboard_time": 1769148142,
       "rank": 10,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767705803,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 808125,
-      "num": 138703,
-      "word": "贝克汉姆儿媳快哭了",
-      "onboard_time": 1768951098,
-      "rank": 20,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/23 15:47:49
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/23 16:40:11
 </p>
 </blockquote>
 <p>
@@ -329,6 +329,12 @@ U23国足vs越南（热度：2487537）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%B4%A9%E4%BA%86%23" target="weibo">
 肯德基崩了（热度：1839108）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%E7%9A%84%E5%A4%A9%E5%A1%8C%E4%BA%86%23" target="weibo">
+苹果用户的天塌了（热度：1829811）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ iPhone18Pro新爆料（热度：826962）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E%E7%9A%84%E6%81%8B%E7%BB%BC%E5%A5%B3%E5%98%89%E5%AE%BE%23" target="weibo">
 史上最受欢迎的恋综女嘉宾（热度：808268）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E5%84%BF%E5%AA%B3%E5%BF%AB%E5%93%AD%E4%BA%86%23" target="weibo">
-贝克汉姆儿媳快哭了（热度：808125）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1769100257042,
-  "endTime": 1769154469938,
+  "endTime": 1769157611603,
   "band_list": [
     {
       "raw_hot": 2732817,
@@ -9,6 +9,14 @@
       "onboard_time": 1769139140,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1829811,
+      "num": 199495,
+      "word": "苹果用户的天塌了",
+      "onboard_time": 1769155100,
+      "rank": 10,
+      "category": "数码"
     },
     {
       "raw_hot": 1397487,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1024669,
-      "num": 169074,
+      "num": 188772,
       "word": "车银优宋慧乔被称为逃税情侣",
       "onboard_time": 1769148142,
       "rank": 10,
@@ -51,16 +59,24 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 742552,
-      "num": 165534,
+      "raw_hot": 753608,
+      "num": 197442,
       "word": "制片人姜莹莹被移送公安机关",
       "onboard_time": 1769151440,
       "rank": 39,
       "category": "作品衍生"
     },
     {
+      "raw_hot": 750427,
+      "num": 195118,
+      "word": "格林不在了",
+      "onboard_time": 1769155161,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 738765,
-      "num": 164340,
+      "num": 194093,
       "word": "骄阳似我 姜莹莹",
       "onboard_time": 1769152222,
       "rank": 13,
@@ -164,7 +180,7 @@
     },
     {
       "raw_hot": 501658,
-      "num": 162888,
+      "num": 179524,
       "word": "赵今麦李庚希短发",
       "onboard_time": 1769152222,
       "rank": 21,
@@ -331,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304454,
+      "num": 742346,
+      "word": "国乒多名球员退队",
+      "onboard_time": 1769155522,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 295924,
       "num": 211310,
       "word": "六位影后的七年之约",
@@ -379,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 281939,
+      "num": 176958,
+      "word": "吴宣仪 有属于我的花路吗",
+      "onboard_time": 1769154622,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281738,
       "num": 281738,
       "word": "八国联合声明将加入和平委员会",
@@ -425,6 +457,14 @@
       "onboard_time": 1769097680,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 255265,
+      "num": 207442,
+      "word": "摸凹猫 摸凸猫",
+      "onboard_time": 1769153481,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 254183,
@@ -563,6 +603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 209241,
+      "num": 209241,
+      "word": "商家回应半年被1人薅了4万4",
+      "onboard_time": 1769154021,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207022,
       "num": 183590,
       "word": "李昀锐孟子义 分不清是戏里还是戏外",
@@ -651,6 +699,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 182472,
+      "num": 176266,
+      "word": "金价疯涨原因",
+      "onboard_time": 1769154800,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 180319,
       "num": 172492,
       "word": "王鹤棣白鹿买菜路透",
@@ -665,6 +721,14 @@
       "onboard_time": 1769144481,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175341,
+      "num": 175341,
+      "word": "影视项目 削女演员片酬",
+      "onboard_time": 1769157080,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 173864,
@@ -713,14 +777,6 @@
       "onboard_time": 1769087001,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 162073,
-      "num": 162073,
-      "word": "摸凹猫 摸凸猫",
-      "onboard_time": 1769153481,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 156737,
@@ -875,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134693,
+      "num": 207316,
+      "word": "长生王昭君并肩作战的伙伴",
+      "onboard_time": 1769156781,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134409,
       "num": 134409,
       "word": "亲爱的客栈2026",
@@ -897,6 +961,14 @@
       "onboard_time": 1769151921,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133404,
+      "num": 204494,
+      "word": "一口气买2斤黄金2天赚10多万",
+      "onboard_time": 1769155100,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132239,
@@ -929,6 +1001,14 @@
       "onboard_time": 1769144182,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126521,
+      "num": 203538,
+      "word": "LOLM新春第一课是修仙",
+      "onboard_time": 1769157080,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 125873,
@@ -1027,6 +1107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110994,
+      "num": 110994,
+      "word": "陈飞宇减肥前后对比",
+      "onboard_time": 1769154201,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109968,
       "num": 92218,
       "word": "现货白银突破99美元",
@@ -1041,6 +1129,22 @@
       "onboard_time": 1769154021,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109297,
+      "num": 109297,
+      "word": "山东GDP突破10万亿元",
+      "onboard_time": 1769156420,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 109198,
+      "num": 109198,
+      "word": "原来明星也会嗑cp",
+      "onboard_time": 1769154859,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 108746,
@@ -1067,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107861,
+      "num": 107861,
+      "word": "影视项目 全男戏",
+      "onboard_time": 1769157440,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106589,
       "num": 106589,
       "word": "存够能住两周ICU的钱就够了",
@@ -1075,12 +1187,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 104867,
-      "num": 104867,
-      "word": "陈飞宇减肥前后对比",
-      "onboard_time": 1769154201,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 106565,
+      "num": 106565,
+      "word": "KPL春季赛",
+      "onboard_time": 1769156362,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 105565,
+      "num": 105565,
+      "word": "三十岁给二十岁的建议",
+      "onboard_time": 1769156901,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 105306,
+      "num": 105306,
+      "word": "林诗栋止步男单8强",
+      "onboard_time": 1769157501,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 104508,
@@ -1145,6 +1273,14 @@
       "onboard_time": 1769124378,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 99901,
+      "num": 105985,
+      "word": "LGD B组",
+      "onboard_time": 1769155041,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 99753,
@@ -1257,6 +1393,14 @@
       "onboard_time": 1769145681,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94113,
+      "num": 94113,
+      "word": "行李.zip",
+      "onboard_time": 1769154321,
+      "rank": 40,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 93910,
@@ -1443,6 +1587,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 85739,
+      "num": 85739,
+      "word": "王祖贤58岁最新视频状态",
+      "onboard_time": 1769155820,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85630,
       "num": 85630,
       "word": "北京不精致可能是必要的生存进化",
@@ -1473,6 +1625,22 @@
       "onboard_time": 1769126842,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 84612,
+      "num": 109730,
+      "word": "1岁妹妹尖叫呼救救下卡喉姐姐",
+      "onboard_time": 1769154441,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84551,
+      "num": 84551,
+      "word": "杨幂回应与张艺谋合作",
+      "onboard_time": 1769155220,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 84482,
@@ -1633,6 +1801,14 @@
       "onboard_time": 1769133440,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73926,
+      "num": 178201,
+      "word": "牢A称没见过美国底层成功逆袭",
+      "onboard_time": 1769156420,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 73067,
@@ -2115,12 +2291,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 29800,
-      "num": 109730,
-      "word": "1岁妹妹尖叫呼救救下卡喉姐姐",
-      "onboard_time": 1769154441,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 32169,
+      "num": 178649,
+      "word": "徐梦桃的滑雪搭子",
+      "onboard_time": 1769155581,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 29258,
@@ -2161,14 +2337,6 @@
       "onboard_time": 1769142082,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 24364,
-      "num": 161785,
-      "word": "商家回应半年被1人薅了4万4",
-      "onboard_time": 1769154021,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24146,
@@ -2281,6 +2449,14 @@
       "onboard_time": 1769115373,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11435,
+      "num": 628081,
+      "word": "工业经济发展这些方面很亮眼",
+      "onboard_time": 1769142682,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 7751,
