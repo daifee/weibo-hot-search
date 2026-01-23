@@ -1,0 +1,410 @@
+{
+  "runTime": 1769153620417,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 391983,
+        "num": 1062717,
+        "word": "不二之臣",
+        "onboard_time": 1769137939,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234116,
+        "num": 793676,
+        "word": "多地中小学取消非毕业年级期末统考",
+        "onboard_time": 1769151080,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 59249,
+        "num": 600883,
+        "word": "中国铁路又双叒有新突破",
+        "onboard_time": 1769142800,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 222430,
+        "num": 222430,
+        "word": "中国飞船首批20余位游客已预订",
+        "onboard_time": 1769136620,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204510,
+        "num": 204510,
+        "word": "草莓剥皮",
+        "onboard_time": 1769144781,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 666025,
+        "num": 204267,
+        "word": "500人群里499个是托",
+        "onboard_time": 1769147061,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203589,
+        "num": 203589,
+        "word": "深圳婚育宣传文案走红",
+        "onboard_time": 1769151201,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192346,
+        "num": 192346,
+        "word": "李微漪发声",
+        "onboard_time": 1769150721,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163901,
+        "num": 163901,
+        "word": "女子为孩子囤黄金投入90万收益200万",
+        "onboard_time": 1769140161,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156737,
+        "num": 156737,
+        "word": "肖战岁岁年年全场大合唱",
+        "onboard_time": 1769150780,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 901479,
+        "num": 155489,
+        "word": "车银优宋慧乔被称为逃税情侣",
+        "onboard_time": 1769148142,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273571,
+        "num": 150382,
+        "word": "赵子豪退出国家队",
+        "onboard_time": 1769149280,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 563717,
+        "num": 149427,
+        "word": "骆驼向王俊凯致歉",
+        "onboard_time": 1769142982,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539068,
+        "num": 144230,
+        "word": "骄阳似我 姜莹莹",
+        "onboard_time": 1769152222,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249685,
+        "num": 140989,
+        "word": "所有人都说猝死程序员明年能升总监",
+        "onboard_time": 1769149580,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 515053,
+        "num": 138214,
+        "word": "制片人姜莹莹被移送公安机关",
+        "onboard_time": 1769151440,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184278,
+        "num": 135176,
+        "word": "程序员猝死公司立马删除工作号",
+        "onboard_time": 1769151380,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134052,
+        "num": 134052,
+        "word": "八个月瘦了120斤的身体变化",
+        "onboard_time": 1769143521,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 119747,
+        "num": 134046,
+        "word": "何炅 台上加起来150多岁差不多了",
+        "onboard_time": 1769152400,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29358,
+        "num": 134023,
+        "word": "12306购票隐藏功能",
+        "onboard_time": 1769152819,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325648,
+        "num": 133985,
+        "word": "黄景瑜要上太空了",
+        "onboard_time": 1769142743,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275667,
+        "num": 133960,
+        "word": "赵今麦李庚希短发",
+        "onboard_time": 1769152222,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 275020,
+        "num": 133941,
+        "word": "女子要以身相许抵前男友欠款",
+        "onboard_time": 1769148620,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259860,
+        "num": 133917,
+        "word": "小果冻 前女友",
+        "onboard_time": 1769146821,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 218878,
+        "num": 133907,
+        "word": "章昊 对不起我是中国人听不懂",
+        "onboard_time": 1769141961,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161707,
+        "num": 133879,
+        "word": "刘烨安娜女儿霓娜近照",
+        "onboard_time": 1769143762,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156131,
+        "num": 133859,
+        "word": "身体这3处淋巴肿了一定要警惕",
+        "onboard_time": 1769150721,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153305,
+        "num": 133822,
+        "word": "小城大事腾讯拉新倒数第一",
+        "onboard_time": 1769140039,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148849,
+        "num": 133803,
+        "word": "李行亮麦琳已无商业关联",
+        "onboard_time": 1769142140,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76822,
+        "num": 133787,
+        "word": "郑钦文的网友们人均用上了AI助理",
+        "onboard_time": 1769150180,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171574,
+        "num": 133763,
+        "word": "国乒又一人离队",
+        "onboard_time": 1769152700,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147306,
+        "num": 133725,
+        "word": "飞驰人生3预告没有王安宇镜头",
+        "onboard_time": 1769149220,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133715,
+        "num": 133715,
+        "word": "第一次见差生开文具店的",
+        "onboard_time": 1769151921,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128465,
+        "num": 128465,
+        "word": "12306回应高铁车厢二氧化碳浓度超标",
+        "onboard_time": 1769139501,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124200,
+        "num": 124200,
+        "word": "阿里巴巴市值大涨2000亿",
+        "onboard_time": 1769153240,
+        "rank": 34,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 109044,
+        "num": 109044,
+        "word": "流浪在美国的中国女子",
+        "onboard_time": 1769139560,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105543,
+        "num": 105543,
+        "word": "张凌赫张婧仪 现偶",
+        "onboard_time": 1769145261,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 43431,
+        "num": 101483,
+        "word": "曾辉称曾卖健身房卡20天挣2万",
+        "onboard_time": 1769152819,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69014,
+        "num": 100869,
+        "word": "成毅 哀求系艺人",
+        "onboard_time": 1769152819,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14541,
+        "num": 100869,
+        "word": "法官问为何在孩子面前行凶男子哭了",
+        "onboard_time": 1769152882,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100869,
+        "num": 100868,
+        "word": "猝死程序员底薪3千干7个人的活",
+        "onboard_time": 1769130201,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100473,
+        "num": 100473,
+        "word": "一栗小莎子回应疑似患淋巴瘤",
+        "onboard_time": 1769137398,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 97225,
+        "num": 99685,
+        "word": "离金克丝只有一米是怎样的体验",
+        "onboard_time": 1769152222,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 99576,
+        "num": 99576,
+        "word": "摸凹猫 摸凸猫",
+        "onboard_time": 1769153481,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98458,
+        "num": 98458,
+        "word": "开推团包场白宇太平年",
+        "onboard_time": 1769151440,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92987,
+        "num": 92987,
+        "word": "亲爱的客栈2026",
+        "onboard_time": 1769147181,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91809,
+        "num": 91809,
+        "word": "上千人直播间只有一个真人",
+        "onboard_time": 1769152641,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86271,
+        "num": 86271,
+        "word": "网传好六团空降新人",
+        "onboard_time": 1769146762,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86206,
+        "num": 86206,
+        "word": "新研究可防止婴儿时期记忆消失",
+        "onboard_time": 1769153421,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 85630,
+        "num": 85630,
+        "word": "北京不精致可能是必要的生存进化",
+        "onboard_time": 1769153061,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为关键少数划定履职标尺#"
+    }
+  }
+}
