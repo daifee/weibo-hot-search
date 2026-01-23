@@ -1,0 +1,410 @@
+{
+  "runTime": 1769154469938,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 376849,
+        "num": 1060295,
+        "word": "多地中小学取消非毕业年级期末统考",
+        "onboard_time": 1769151080,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 348699,
+        "num": 782639,
+        "word": "不二之臣",
+        "onboard_time": 1769137939,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48144,
+        "num": 614949,
+        "word": "中国铁路又双叒有新突破",
+        "onboard_time": 1769142800,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 253717,
+        "num": 253717,
+        "word": "李微漪发声",
+        "onboard_time": 1769150721,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224345,
+        "num": 224345,
+        "word": "LGDNBW对战WE",
+        "onboard_time": 1769154441,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 504565,
+        "num": 222996,
+        "word": "500人群里499个是托",
+        "onboard_time": 1769147061,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180234,
+        "num": 180234,
+        "word": "草莓剥皮",
+        "onboard_time": 1769144781,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 170546,
+        "num": 170546,
+        "word": "女子为孩子囤黄金投入90万收益200万",
+        "onboard_time": 1769140161,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167240,
+        "num": 167240,
+        "word": "中国飞船首批20余位游客已预订",
+        "onboard_time": 1769136620,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215298,
+        "num": 166930,
+        "word": "深圳婚育宣传文案走红",
+        "onboard_time": 1769151201,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 749946,
+        "num": 166266,
+        "word": "车银优宋慧乔被称为逃税情侣",
+        "onboard_time": 1769148142,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 742552,
+        "num": 165534,
+        "word": "制片人姜莹莹被移送公安机关",
+        "onboard_time": 1769151440,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227501,
+        "num": 165102,
+        "word": "所有人都说猝死程序员明年能升总监",
+        "onboard_time": 1769149580,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150536,
+        "num": 164582,
+        "word": "肖战岁岁年年全场大合唱",
+        "onboard_time": 1769150780,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 738765,
+        "num": 164340,
+        "word": "骄阳似我 姜莹莹",
+        "onboard_time": 1769152222,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194579,
+        "num": 163379,
+        "word": "程序员猝死公司立马删除工作号",
+        "onboard_time": 1769151380,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 501658,
+        "num": 162888,
+        "word": "赵今麦李庚希短发",
+        "onboard_time": 1769152222,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 451285,
+        "num": 162495,
+        "word": "骆驼向王俊凯致歉",
+        "onboard_time": 1769142982,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162073,
+        "num": 162073,
+        "word": "摸凹猫 摸凸猫",
+        "onboard_time": 1769153481,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24364,
+        "num": 161785,
+        "word": "商家回应半年被1人薅了4万4",
+        "onboard_time": 1769154021,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285177,
+        "num": 160004,
+        "word": "黄景瑜要上太空了",
+        "onboard_time": 1769142743,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233787,
+        "num": 158453,
+        "word": "小果冻 前女友",
+        "onboard_time": 1769146821,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133768,
+        "num": 156596,
+        "word": "阿里巴巴市值大涨2000亿",
+        "onboard_time": 1769153240,
+        "rank": 22,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 219920,
+        "num": 155607,
+        "word": "女子要以身相许抵前男友欠款",
+        "onboard_time": 1769148620,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182843,
+        "num": 153520,
+        "word": "章昊 对不起我是中国人听不懂",
+        "onboard_time": 1769141961,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152927,
+        "num": 152927,
+        "word": "赵子豪退出国家队",
+        "onboard_time": 1769149280,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146960,
+        "num": 146960,
+        "word": "肖战北京春晚直拍",
+        "onboard_time": 1769154021,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143764,
+        "num": 143764,
+        "word": "飞驰人生3预告没有王安宇镜头",
+        "onboard_time": 1769149220,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123828,
+        "num": 140170,
+        "word": "选美甲思路",
+        "onboard_time": 1769153900,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 140046,
+        "num": 140046,
+        "word": "身体这3处淋巴肿了一定要警惕",
+        "onboard_time": 1769150721,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125873,
+        "num": 125873,
+        "word": "不需要每月3克黄金的工作",
+        "onboard_time": 1769153061,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123423,
+        "num": 123423,
+        "word": "刘烨安娜女儿霓娜近照",
+        "onboard_time": 1769143762,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118533,
+        "num": 118533,
+        "word": "第一次过敏得如此性感",
+        "onboard_time": 1769154021,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114248,
+        "num": 114248,
+        "word": "12306回应高铁车厢二氧化碳浓度超标",
+        "onboard_time": 1769139501,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111620,
+        "num": 111620,
+        "word": "国乒又一人离队",
+        "onboard_time": 1769152700,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110255,
+        "num": 110255,
+        "word": "小城大事腾讯拉新倒数第一",
+        "onboard_time": 1769140039,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15667,
+        "num": 109916,
+        "word": "陈星旭给王玉雯的袜子是李乃文的吗",
+        "onboard_time": 1769154142,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29800,
+        "num": 109730,
+        "word": "1岁妹妹尖叫呼救救下卡喉姐姐",
+        "onboard_time": 1769154441,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109653,
+        "num": 109653,
+        "word": "王橹杰李煜东 冲锋的东不落冷静的神",
+        "onboard_time": 1769154021,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106711,
+        "num": 106711,
+        "word": "李行亮麦琳已无商业关联",
+        "onboard_time": 1769142140,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106803,
+        "num": 106092,
+        "word": "八个月瘦了120斤的身体变化",
+        "onboard_time": 1769143521,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 104867,
+        "num": 104867,
+        "word": "陈飞宇减肥前后对比",
+        "onboard_time": 1769154201,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104281,
+        "num": 104281,
+        "word": "第一次见差生开文具店的",
+        "onboard_time": 1769151921,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98940,
+        "num": 98940,
+        "word": "流浪在美国的中国女子",
+        "onboard_time": 1769139560,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 95838,
+        "num": 95838,
+        "word": "张凌赫张婧仪 现偶",
+        "onboard_time": 1769145261,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92344,
+        "num": 92344,
+        "word": "12306购票隐藏功能",
+        "onboard_time": 1769152819,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90111,
+        "num": 90111,
+        "word": "花千骨二番依旧出圈",
+        "onboard_time": 1769140281,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88591,
+        "num": 88591,
+        "word": "朱珠看展vs我看朱珠",
+        "onboard_time": 1769154261,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85870,
+        "num": 85870,
+        "word": "猝死程序员底薪3千干7个人的活",
+        "onboard_time": 1769130201,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89707,
+        "num": 85825,
+        "word": "亲爱的客栈2026",
+        "onboard_time": 1769147181,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为关键少数划定履职标尺#"
+    }
+  }
+}

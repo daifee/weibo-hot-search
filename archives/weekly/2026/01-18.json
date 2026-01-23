@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769153620417,
+  "endTime": 1769154469938,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -771,12 +771,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 742552,
+      "num": 165534,
+      "word": "制片人姜莹莹被移送公安机关",
+      "onboard_time": 1769151440,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 742067,
       "num": 1118730,
       "word": "北京鹅毛大雪",
       "onboard_time": 1768699639,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 738765,
+      "num": 164340,
+      "word": "骄阳似我 姜莹莹",
+      "onboard_time": 1769152222,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 735780,
@@ -1483,14 +1499,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 539068,
-      "num": 144230,
-      "word": "骄阳似我 姜莹莹",
-      "onboard_time": 1769152222,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 539062,
       "num": 1086249,
       "word": "中国飞船首批20余位游客已预订",
@@ -1683,14 +1691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 515053,
-      "num": 138214,
-      "word": "制片人姜莹莹被移送公安机关",
-      "onboard_time": 1769151440,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 513459,
       "num": 332771,
       "word": "网红周媛实名主账号被封",
@@ -1753,6 +1753,14 @@
       "onboard_time": 1769139261,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 501658,
+      "num": 162888,
+      "word": "赵今麦李庚希短发",
+      "onboard_time": 1769152222,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 501594,
@@ -2641,6 +2649,14 @@
       "onboard_time": 1768661842,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 376849,
+      "num": 1060295,
+      "word": "多地中小学取消非毕业年级期末统考",
+      "onboard_time": 1769151080,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 376443,
@@ -3899,14 +3915,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 275667,
-      "num": 133960,
-      "word": "赵今麦李庚希短发",
-      "onboard_time": 1769152222,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 275565,
       "num": 186033,
       "word": "虞书欣拿小卡和粉丝换手机壳",
@@ -4251,6 +4259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253717,
+      "num": 253717,
+      "word": "李微漪发声",
+      "onboard_time": 1769150721,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253629,
       "num": 209927,
       "word": "男子摆拍污名化成都男性被刑拘",
@@ -4300,7 +4316,7 @@
     },
     {
       "raw_hot": 249685,
-      "num": 162308,
+      "num": 165102,
       "word": "所有人都说猝死程序员明年能升总监",
       "onboard_time": 1769149580,
       "rank": 19,
@@ -4505,14 +4521,6 @@
       "onboard_time": 1768930578,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 234116,
-      "num": 793676,
-      "word": "多地中小学取消非毕业年级期末统考",
-      "onboard_time": 1769151080,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 234008,
@@ -4755,6 +4763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224345,
+      "num": 224345,
+      "word": "LGDNBW对战WE",
+      "onboard_time": 1769154441,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 224243,
       "num": 224243,
       "word": "导演回应狼王格林是否安好",
@@ -4977,6 +4993,14 @@
       "onboard_time": 1768799002,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215298,
+      "num": 203589,
+      "word": "深圳婚育宣传文案走红",
+      "onboard_time": 1769151201,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215145,
@@ -5281,14 +5305,6 @@
       "onboard_time": 1769037377,
       "rank": 11,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 203589,
-      "num": 203589,
-      "word": "深圳婚育宣传文案走红",
-      "onboard_time": 1769151201,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 203510,
@@ -5651,6 +5667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194579,
+      "num": 163379,
+      "word": "程序员猝死公司立马删除工作号",
+      "onboard_time": 1769151380,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194512,
       "num": 311007,
       "word": "孙怡宣传董子健新电影",
@@ -5729,14 +5753,6 @@
       "onboard_time": 1768662441,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192346,
-      "num": 192346,
-      "word": "李微漪发声",
-      "onboard_time": 1769150721,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 192287,
@@ -6033,14 +6049,6 @@
       "onboard_time": 1768732462,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 184278,
-      "num": 135176,
-      "word": "程序员猝死公司立马删除工作号",
-      "onboard_time": 1769151380,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 183994,
@@ -6883,6 +6891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162073,
+      "num": 162073,
+      "word": "摸凹猫 摸凸猫",
+      "onboard_time": 1769153481,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161865,
       "num": 161865,
       "word": "范丞丞 平板一滴泪受害者",
@@ -7100,7 +7116,7 @@
     },
     {
       "raw_hot": 156737,
-      "num": 156737,
+      "num": 164582,
       "word": "肖战岁岁年年全场大合唱",
       "onboard_time": 1769150780,
       "rank": 26,
@@ -7628,11 +7644,19 @@
     },
     {
       "raw_hot": 147306,
-      "num": 133725,
+      "num": 143764,
       "word": "飞驰人生3预告没有王安宇镜头",
       "onboard_time": 1769149220,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 146960,
+      "num": 146960,
+      "word": "肖战北京春晚直拍",
+      "onboard_time": 1769154021,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 146945,
@@ -8395,6 +8419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133768,
+      "num": 156596,
+      "word": "阿里巴巴市值大涨2000亿",
+      "onboard_time": 1769153240,
+      "rank": 34,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 133715,
       "num": 133715,
       "word": "第一次见差生开文具店的",
@@ -8939,6 +8971,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 125873,
+      "num": 125873,
+      "word": "不需要每月3克黄金的工作",
+      "onboard_time": 1769153061,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125864,
       "num": 125864,
       "word": "澳网",
@@ -9123,14 +9163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 124200,
-      "num": 124200,
-      "word": "阿里巴巴市值大涨2000亿",
-      "onboard_time": 1769153240,
-      "rank": 34,
-      "category": "财经,互联网"
-    },
-    {
       "raw_hot": 124175,
       "num": 124175,
       "word": "小度致歉新音色",
@@ -9153,6 +9185,14 @@
       "onboard_time": 1768800562,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123828,
+      "num": 140170,
+      "word": "选美甲思路",
+      "onboard_time": 1769153900,
+      "rank": 28,
+      "category": "美妆"
     },
     {
       "raw_hot": 123722,
@@ -9609,6 +9649,14 @@
       "onboard_time": 1768731202,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118533,
+      "num": 118533,
+      "word": "第一次过敏得如此性感",
+      "onboard_time": 1769154021,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 118522,
@@ -10531,6 +10579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109653,
+      "num": 109653,
+      "word": "王橹杰李煜东 冲锋的东不落冷静的神",
+      "onboard_time": 1769154021,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109535,
       "num": 109535,
       "word": "千万要小心引导型恋人",
@@ -11073,6 +11129,14 @@
       "onboard_time": 1769077640,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 104867,
+      "num": 104867,
+      "word": "陈飞宇减肥前后对比",
+      "onboard_time": 1769154201,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 104809,
@@ -11769,14 +11833,6 @@
       "onboard_time": 1768990461,
       "rank": 43,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 99576,
-      "num": 99576,
-      "word": "摸凹猫 摸凸猫",
-      "onboard_time": 1769153481,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 99570,
@@ -12995,6 +13051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 92344,
+      "num": 134023,
+      "word": "12306购票隐藏功能",
+      "onboard_time": 1769152819,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92322,
       "num": 92322,
       "word": "河南省考",
@@ -13601,6 +13665,14 @@
       "onboard_time": 1768802002,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88591,
+      "num": 88591,
+      "word": "朱珠看展vs我看朱珠",
+      "onboard_time": 1769154261,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 88496,
@@ -18443,6 +18515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29800,
+      "num": 109730,
+      "word": "1岁妹妹尖叫呼救救下卡喉姐姐",
+      "onboard_time": 1769154441,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29598,
       "num": 79686,
       "word": "站姐给陈哲远拍出神图了",
@@ -18456,14 +18536,6 @@
       "word": "男子和妻子吵架吵输了怒走30里",
       "onboard_time": 1768980021,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29358,
-      "num": 134023,
-      "word": "12306购票隐藏功能",
-      "onboard_time": 1769152819,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -18745,6 +18817,14 @@
       "onboard_time": 1768931356,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 24364,
+      "num": 161785,
+      "word": "商家回应半年被1人薅了4万4",
+      "onboard_time": 1769154021,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24338,
@@ -19345,6 +19425,14 @@
       "onboard_time": 1768820783,
       "rank": 45,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 15667,
+      "num": 109916,
+      "word": "陈星旭给王玉雯的袜子是李乃文的吗",
+      "onboard_time": 1769154142,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 15599,
