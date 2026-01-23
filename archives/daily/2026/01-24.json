@@ -1,6 +1,6 @@
 {
   "startTime": 1769186467234,
-  "endTime": 1769189552647,
+  "endTime": 1769190484092,
   "band_list": [
     {
       "raw_hot": 850051,
@@ -89,6 +89,14 @@
       "onboard_time": 1769176642,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162855,
+      "num": 82967,
+      "word": "制片人姜莹莹被解聘永不录用",
+      "onboard_time": 1769187259,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 159084,
@@ -201,14 +209,6 @@
       "onboard_time": 1769179402,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 97152,
-      "num": 82967,
-      "word": "制片人姜莹莹被解聘永不录用",
-      "onboard_time": 1769187259,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 93886,
@@ -403,6 +403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 48582,
+      "num": 62674,
+      "word": "大侦探在游乐场开演唱会",
+      "onboard_time": 1769189177,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 46397,
       "num": 62612,
       "word": "张晚意独自从北京自驾到厦门",
@@ -419,27 +427,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 35958,
-      "num": 62674,
-      "word": "大侦探在游乐场开演唱会",
-      "onboard_time": 1769189177,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 33955,
-      "num": 62652,
-      "word": "太平年 历史剧",
-      "onboard_time": 1769189357,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 33469,
+      "raw_hot": 38716,
       "num": 62631,
       "word": "太平年好看吗",
       "onboard_time": 1769189417,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 37898,
+      "num": 62652,
+      "word": "太平年 历史剧",
+      "onboard_time": 1769189357,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -465,6 +465,30 @@
       "onboard_time": 1769188937,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 30352,
+      "num": 32992,
+      "word": "张杰未live巡回演唱会",
+      "onboard_time": 1769190016,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 28333,
+      "num": 32990,
+      "word": "最强大脑",
+      "onboard_time": 1769172621,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 26923,
+      "num": 32989,
+      "word": "严浩翔下个舞台唱点什么好",
+      "onboard_time": 1769190436,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 2329,

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769189552647,
+  "endTime": 1769190484092,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -27299,6 +27299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162855,
+      "num": 82967,
+      "word": "制片人姜莹莹被解聘永不录用",
+      "onboard_time": 1769187259,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162847,
       "num": 162847,
       "word": "U23国足领先澳大利亚",
@@ -49539,14 +49547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97152,
-      "num": 82967,
-      "word": "制片人姜莹莹被解聘永不录用",
-      "onboard_time": 1769187259,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 97140,
       "num": 1002432,
       "word": "元旦",
@@ -69283,6 +69283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48582,
+      "num": 62674,
+      "word": "大侦探在游乐场开演唱会",
+      "onboard_time": 1769189177,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 48576,
       "num": 667108,
       "word": "中国天眼又立功了",
@@ -71555,6 +71563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38716,
+      "num": 62631,
+      "word": "太平年好看吗",
+      "onboard_time": 1769189417,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 38663,
       "num": 152783,
       "word": "老板回应要顾客带走垃圾被怼格局小",
@@ -71801,6 +71817,14 @@
       "onboard_time": 1768260378,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 37898,
+      "num": 62652,
+      "word": "太平年 历史剧",
+      "onboard_time": 1769189357,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 37861,
@@ -72153,14 +72177,6 @@
       "onboard_time": 1767675262,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 35958,
-      "num": 62674,
-      "word": "大侦探在游乐场开演唱会",
-      "onboard_time": 1769189177,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 35924,
@@ -72659,14 +72675,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 33955,
-      "num": 62652,
-      "word": "太平年 历史剧",
-      "onboard_time": 1769189357,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 33935,
       "num": 50788,
       "word": "2026年人生体验清单",
@@ -72817,14 +72825,6 @@
       "onboard_time": 1769102775,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 33469,
-      "num": 62631,
-      "word": "太平年好看吗",
-      "onboard_time": 1769189417,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 33455,
@@ -74361,6 +74361,14 @@
       "onboard_time": 1768498815,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26923,
+      "num": 32989,
+      "word": "严浩翔下个舞台唱点什么好",
+      "onboard_time": 1769190436,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 26863,

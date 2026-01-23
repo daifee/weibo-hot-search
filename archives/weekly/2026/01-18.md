@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/18 00:32:47 ~ 2026/01/24 01:32:32
+本榜单时间：2026/01/18 00:32:47 ~ 2026/01/24 01:48:04
 </p>
 </blockquote>
 <p>
@@ -5625,6 +5625,12 @@ KPL（热度：163120）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%B6%E7%89%87%E4%BA%BA%E5%A7%9C%E8%8E%B9%E8%8E%B9%E8%A2%AB%E8%A7%A3%E8%81%98%E6%B0%B8%E4%B8%8D%E5%BD%95%E7%94%A8%23" target="weibo">
+制片人姜莹莹被解聘永不录用（热度：162855）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23zz9%20%E5%89%8D%E5%A5%B3%E5%8F%8B%23" target="weibo">
 zz9 前女友（热度：162847）
 </a>
@@ -10035,12 +10041,6 @@ A股芯片产业链爆发（热度：97410）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%B6%E7%89%87%E4%BA%BA%E5%A7%9C%E8%8E%B9%E8%8E%B9%E8%A2%AB%E8%A7%A3%E8%81%98%E6%B0%B8%E4%B8%8D%E5%BD%95%E7%94%A8%23" target="weibo">
-制片人姜莹莹被解聘永不录用（热度：97152）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E9%80%81%E5%A4%96%E5%8D%96%E7%A9%BF%E5%A4%9A%E5%8E%9A%23" target="weibo">
 东北送外卖穿多厚（热度：97118）
 </a>
@@ -14403,6 +14403,12 @@ LPL（热度：50218）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BE%A6%E6%8E%A2%E5%9C%A8%E6%B8%B8%E4%B9%90%E5%9C%BA%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+大侦探在游乐场开演唱会（热度：48582）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E4%BC%8F%E8%AE%BE%E5%A4%87%E5%85%AC%E5%8F%B8%E5%AF%86%E9%9B%86%E9%A2%84%E5%91%8A2025%E5%B9%B4%E4%B8%9A%E7%BB%A9%23" target="weibo">
 光伏设备公司密集预告2025年业绩（热度：48564）
 </a>
@@ -14835,6 +14841,12 @@ U23国足成本届唯一0丢球球队（热度：43448）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%B9%B3%E5%B9%B4%E5%A5%BD%E7%9C%8B%E5%90%97%23" target="weibo">
+太平年好看吗（热度：38716）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%94%E8%A6%81%E9%A1%BE%E5%AE%A2%E5%B8%A6%E8%B5%B0%E5%9E%83%E5%9C%BE%E8%A2%AB%E6%80%BC%E6%A0%BC%E5%B1%80%E5%B0%8F%23" target="weibo">
 老板回应要顾客带走垃圾被怼格局小（热度：38663）
 </a>
@@ -14891,6 +14903,12 @@ U23国足成本届唯一0丢球球队（热度：43448）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%81%AD%E5%BC%BA%E5%A5%B8%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%B4%A2%E8%B5%94%E7%99%BE%E4%B8%87%23" target="weibo">
 遭强奸女子回应被索赔百万（热度：37929）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%B9%B3%E5%B9%B4%20%E5%8E%86%E5%8F%B2%E5%89%A7%23" target="weibo">
+太平年 历史剧（热度：37898）
 </a>
 </li>
 
@@ -14967,12 +14985,6 @@ Rookie燃成鸡架（热度：36070）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BE%A6%E6%8E%A2%E5%9C%A8%E6%B8%B8%E4%B9%90%E5%9C%BA%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-大侦探在游乐场开演唱会（热度：35958）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23315%E5%85%83%E4%B8%80%E6%96%A4%E7%9A%84%E9%BB%91%E8%8D%89%E8%8E%939%E5%A4%A9100%E5%A4%9A%E4%BA%BA%E8%B4%AD%E4%B9%B0%23" target="weibo">
 315元一斤的黑草莓9天100多人购买（热度：35778）
 </a>
@@ -15033,12 +15045,6 @@ Tabe终结JDG面对AL三连败（热度：34502）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%B9%B3%E5%B9%B4%20%E5%8E%86%E5%8F%B2%E5%89%A7%23" target="weibo">
-太平年 历史剧（热度：33955）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%96%BB%E8%A8%80%E7%BC%AA%E6%96%AF%E5%A5%B3%E7%8E%8B%E8%B6%85%E7%BA%A7%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 喻言缪斯女王超级演唱会（热度：33886）
 </a>
@@ -15071,12 +15077,6 @@ Tabe终结JDG面对AL三连败（热度：34502）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 黄子弘凡演唱会（热度：33487）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%B9%B3%E5%B9%B4%E5%A5%BD%E7%9C%8B%E5%90%97%23" target="weibo">
-太平年好看吗（热度：33469）
 </a>
 </li>
 
@@ -15359,6 +15359,12 @@ BLG恭喜Viper（热度：27871）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%BF%E6%9D%BF%E5%87%B3%E6%89%93%E4%BA%BA%E5%AD%A6%E7%94%9F%E5%B7%B2%E8%A2%AB%E5%8A%9D%E9%80%80%23" target="weibo">
 拿板凳打人学生已被劝退（热度：27014）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E4%B8%8B%E4%B8%AA%E8%88%9E%E5%8F%B0%E5%94%B1%E7%82%B9%E4%BB%80%E4%B9%88%E5%A5%BD%23" target="weibo">
+严浩翔下个舞台唱点什么好（热度：26923）
 </a>
 </li>
 
