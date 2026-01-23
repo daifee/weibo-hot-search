@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769182521811,
+  "endTime": 1769183393501,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -1075,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 653935,
+      "num": 1104629,
+      "word": "太平年",
+      "onboard_time": 1768706059,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 647931,
       "num": 605528,
       "word": "短剧演员吐槽剧组让孩子一直淋雨",
@@ -1225,14 +1233,6 @@
       "onboard_time": 1769073201,
       "rank": 20,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 615145,
-      "num": 1098423,
-      "word": "太平年",
-      "onboard_time": 1768706059,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 614446,
@@ -2315,6 +2315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 433843,
+      "num": 822229,
+      "word": "官方通报阿勒泰雪豹伤人",
+      "onboard_time": 1769180422,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 432060,
       "num": 1069129,
       "word": "国乒多名球员退队",
@@ -2905,14 +2913,6 @@
       "onboard_time": 1768968921,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 373205,
-      "num": 804635,
-      "word": "官方通报阿勒泰雪豹伤人",
-      "onboard_time": 1769180422,
-      "rank": 1,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 372606,
@@ -5595,6 +5595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210515,
+      "num": 187183,
+      "word": "誓约 陪玩",
+      "onboard_time": 1769179402,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 210402,
       "num": 267757,
       "word": "12306购票页面有小暗号",
@@ -5657,6 +5665,14 @@
       "onboard_time": 1768731382,
       "rank": 34,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 207786,
+      "num": 186558,
+      "word": "周柯宇直播",
+      "onboard_time": 1769181321,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 207659,
@@ -5745,14 +5761,6 @@
       "onboard_time": 1768891101,
       "rank": 11,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 204656,
-      "num": 187183,
-      "word": "誓约 陪玩",
-      "onboard_time": 1769179402,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 204353,
@@ -6225,14 +6233,6 @@
       "onboard_time": 1768791139,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 193070,
-      "num": 186558,
-      "word": "周柯宇直播",
-      "onboard_time": 1769181321,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 193003,
@@ -6817,6 +6817,14 @@
       "onboard_time": 1768796783,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176697,
+      "num": 176697,
+      "word": "被雪豹咬伤女游客疑因拍照被攻击",
+      "onboard_time": 1769181561,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176637,
@@ -11091,6 +11099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112649,
+      "num": 112649,
+      "word": "金价暴涨胖东来金店挤爆了",
+      "onboard_time": 1769181921,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112582,
       "num": 112582,
       "word": "女生回应张凌赫曾是补习老师",
@@ -11152,14 +11168,6 @@
       "word": "10月大婴儿误食鞭炮口腔炸伤",
       "onboard_time": 1768883362,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111692,
-      "num": 129723,
-      "word": "被雪豹咬伤女游客疑因拍照被攻击",
-      "onboard_time": 1769181561,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -12395,14 +12403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102703,
-      "num": 102703,
-      "word": "金价暴涨胖东来金店挤爆了",
-      "onboard_time": 1769181921,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102630,
       "num": 102630,
       "word": "AL战胜WBG",
@@ -12697,6 +12697,14 @@
       "onboard_time": 1768665441,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100541,
+      "num": 100541,
+      "word": "周雨彤古装",
+      "onboard_time": 1769182580,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 100523,
@@ -14411,6 +14419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91329,
+      "num": 91329,
+      "word": "配配",
+      "onboard_time": 1769183060,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 91319,
       "num": 91319,
       "word": "博主曝有人为买网红盒饭冒充工人",
@@ -14681,6 +14697,14 @@
       "onboard_time": 1768966100,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 89959,
+      "num": 89959,
+      "word": "岳父代理女婿与女儿打离婚官司",
+      "onboard_time": 1769180721,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89921,
@@ -15539,14 +15563,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 85576,
-      "num": 85576,
-      "word": "岳父代理女婿与女儿打离婚官司",
-      "onboard_time": 1769180721,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85549,
       "num": 85549,
       "word": "坐高铁犯困 二氧化碳浓度高",
@@ -16003,6 +16019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83111,
+      "num": 103206,
+      "word": "鱼塘底惊现大洞200斤鱼顺水漏走",
+      "onboard_time": 1769182100,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83023,
       "num": 98760,
       "word": "金价波动原因",
@@ -16339,6 +16363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80784,
+      "num": 79100,
+      "word": "内娱脑综双冠王的含金量",
+      "onboard_time": 1769183240,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80743,
       "num": 332155,
       "word": "语文老师教体育一下5个金牌",
@@ -16489,6 +16521,14 @@
       "onboard_time": 1768972820,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 79716,
+      "num": 79716,
+      "word": "安艺 照片",
+      "onboard_time": 1769182702,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 79701,
@@ -16731,6 +16771,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 78180,
+      "num": 78316,
+      "word": "郭艾伦复出16分",
+      "onboard_time": 1769183302,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78137,
       "num": 78137,
       "word": "南方人过大寒离不开保暖三件套",
@@ -16905,6 +16953,14 @@
       "onboard_time": 1769161761,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76655,
+      "num": 85305,
+      "word": "女乒开年第一冠",
+      "onboard_time": 1769182702,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 76630,
@@ -17481,14 +17537,6 @@
       "onboard_time": 1768911560,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 71508,
-      "num": 103206,
-      "word": "鱼塘底惊现大洞200斤鱼顺水漏走",
-      "onboard_time": 1769182100,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 71409,
@@ -18491,6 +18539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58429,
+      "num": 186383,
+      "word": "成人英语网络性感教学引争议",
+      "onboard_time": 1769182224,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58424,
       "num": 161518,
       "word": "看完王鹤棣演唱会后劲还在",
@@ -18633,6 +18689,14 @@
       "onboard_time": 1768923800,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56110,
+      "num": 180404,
+      "word": "特朗普警告欧洲敢抛美债将遭报复",
+      "onboard_time": 1769182401,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 55905,
@@ -19241,6 +19305,14 @@
       "onboard_time": 1768778779,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 44648,
+      "num": 186783,
+      "word": "骑手随手拍曝光幽灵外卖",
+      "onboard_time": 1769182824,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44530,
@@ -20315,14 +20387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26183,
-      "num": 120562,
-      "word": "特朗普警告欧洲敢抛美债将遭报复",
-      "onboard_time": 1769182401,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 25820,
       "num": 102338,
       "word": "1岁小孩遭幼托员粗暴摔床掩住口鼻",
@@ -21113,14 +21177,6 @@
       "onboard_time": 1769179223,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 15570,
-      "num": 186383,
-      "word": "成人英语网络性感教学引争议",
-      "onboard_time": 1769182224,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15488,

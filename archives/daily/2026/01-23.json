@@ -1,6 +1,6 @@
 {
   "startTime": 1769100257042,
-  "endTime": 1769182521811,
+  "endTime": 1769183393501,
   "band_list": [
     {
       "raw_hot": 2732817,
@@ -155,20 +155,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 653935,
+      "num": 1104629,
+      "word": "太平年",
+      "onboard_time": 1769170460,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 622131,
       "num": 199198,
       "word": "一栗小莎子疑似患淋巴瘤",
       "onboard_time": 1769123418,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 615145,
-      "num": 1098423,
-      "word": "太平年",
-      "onboard_time": 1769170460,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 611965,
@@ -379,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 433843,
+      "num": 822229,
+      "word": "官方通报阿勒泰雪豹伤人",
+      "onboard_time": 1769180422,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 432060,
       "num": 1069129,
       "word": "国乒多名球员退队",
@@ -465,14 +473,6 @@
       "onboard_time": 1769139560,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 373205,
-      "num": 804635,
-      "word": "官方通报阿勒泰雪豹伤人",
-      "onboard_time": 1769180422,
-      "rank": 1,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 369429,
@@ -1019,6 +1019,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 210515,
+      "num": 187183,
+      "word": "誓约 陪玩",
+      "onboard_time": 1769179402,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 207786,
+      "num": 186558,
+      "word": "周柯宇直播",
+      "onboard_time": 1769181321,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207027,
       "num": 675707,
       "word": "尘白禁区",
@@ -1041,14 +1057,6 @@
       "onboard_time": 1769171421,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204656,
-      "num": 187183,
-      "word": "誓约 陪玩",
-      "onboard_time": 1769179402,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 203761,
@@ -1129,14 +1137,6 @@
       "onboard_time": 1769151380,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 193070,
-      "num": 186558,
-      "word": "周柯宇直播",
-      "onboard_time": 1769181321,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 193003,
@@ -1241,6 +1241,14 @@
       "onboard_time": 1769177361,
       "rank": 28,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 176697,
+      "num": 176697,
+      "word": "被雪豹咬伤女游客疑因拍照被攻击",
+      "onboard_time": 1769181561,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176637,
@@ -1867,11 +1875,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111692,
-      "num": 129723,
-      "word": "被雪豹咬伤女游客疑因拍照被攻击",
-      "onboard_time": 1769181561,
-      "rank": 29,
+      "raw_hot": 112649,
+      "num": 112649,
+      "word": "金价暴涨胖东来金店挤爆了",
+      "onboard_time": 1769181921,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -2091,14 +2099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102703,
-      "num": 102703,
-      "word": "金价暴涨胖东来金店挤爆了",
-      "onboard_time": 1769181921,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101754,
       "num": 552351,
       "word": "杨幂回应与张艺谋合作",
@@ -2169,6 +2169,14 @@
       "onboard_time": 1769161280,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100541,
+      "num": 100541,
+      "word": "周雨彤古装",
+      "onboard_time": 1769182580,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 100291,
@@ -2531,6 +2539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91329,
+      "num": 91329,
+      "word": "配配",
+      "onboard_time": 1769183060,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 91310,
       "num": 91310,
       "word": "快船战胜湖人",
@@ -2608,6 +2624,14 @@
       "word": "小伙致女友怀孕称年龄不适合结婚",
       "onboard_time": 1769080699,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89959,
+      "num": 89959,
+      "word": "岳父代理女婿与女儿打离婚官司",
+      "onboard_time": 1769180721,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -2747,14 +2771,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 85576,
-      "num": 85576,
-      "word": "岳父代理女婿与女儿打离婚官司",
-      "onboard_time": 1769180721,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85499,
       "num": 85499,
       "word": "赵子豪乒乓精神永驻心中",
@@ -2883,6 +2899,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 83111,
+      "num": 103206,
+      "word": "鱼塘底惊现大洞200斤鱼顺水漏走",
+      "onboard_time": 1769182100,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82749,
       "num": 84197,
       "word": "可可托海有人被雪豹袭击已送医",
@@ -2913,6 +2937,14 @@
       "onboard_time": 1769168601,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 80784,
+      "num": 79100,
+      "word": "内娱脑综双冠王的含金量",
+      "onboard_time": 1769183240,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 80696,
@@ -2963,6 +2995,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 79716,
+      "num": 79716,
+      "word": "安艺 照片",
+      "onboard_time": 1769182702,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 79366,
       "num": 79366,
       "word": "孟子义李昀锐喊卡之后没放开的手",
@@ -3003,6 +3043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78180,
+      "num": 78316,
+      "word": "郭艾伦复出16分",
+      "onboard_time": 1769183302,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77759,
       "num": 83879,
       "word": "当中国大学生得知美国大学的学费时",
@@ -3033,6 +3081,14 @@
       "onboard_time": 1769161761,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76655,
+      "num": 85305,
+      "word": "女乒开年第一冠",
+      "onboard_time": 1769182702,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 76114,
@@ -3121,14 +3177,6 @@
       "onboard_time": 1769141000,
       "rank": 16,
       "category": "艺人,汽车"
-    },
-    {
-      "raw_hot": 71508,
-      "num": 103206,
-      "word": "鱼塘底惊现大洞200斤鱼顺水漏走",
-      "onboard_time": 1769182100,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70709,
@@ -3315,6 +3363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58429,
+      "num": 186383,
+      "word": "成人英语网络性感教学引争议",
+      "onboard_time": 1769182224,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58141,
       "num": 58141,
       "word": "中方回应日本驻重庆总领事空缺",
@@ -3393,6 +3449,14 @@
       "onboard_time": 1769094921,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 56110,
+      "num": 180404,
+      "word": "特朗普警告欧洲敢抛美债将遭报复",
+      "onboard_time": 1769182401,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 55905,
@@ -3521,6 +3585,14 @@
       "onboard_time": 1769142861,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 44648,
+      "num": 186783,
+      "word": "骑手随手拍曝光幽灵外卖",
+      "onboard_time": 1769182824,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44434,
@@ -3739,14 +3811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26183,
-      "num": 120562,
-      "word": "特朗普警告欧洲敢抛美债将遭报复",
-      "onboard_time": 1769182401,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 26054,
       "num": 61627,
       "word": "重返狼群",
@@ -3945,14 +4009,6 @@
       "onboard_time": 1769179223,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 15570,
-      "num": 186383,
-      "word": "成人英语网络性感教学引争议",
-      "onboard_time": 1769182224,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15027,

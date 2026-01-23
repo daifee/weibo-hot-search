@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769182521811,
+  "endTime": 1769183393501,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -3611,6 +3611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 653935,
+      "num": 1104629,
+      "word": "太平年",
+      "onboard_time": 1768706059,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 652660,
       "num": 454936,
       "word": "被逼婚喝农药女子已清醒",
@@ -4033,14 +4041,6 @@
       "onboard_time": 1769073201,
       "rank": 20,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 615145,
-      "num": 1098423,
-      "word": "太平年",
-      "onboard_time": 1768706059,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 615112,
@@ -8259,6 +8259,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 433843,
+      "num": 822229,
+      "word": "官方通报阿勒泰雪豹伤人",
+      "onboard_time": 1769180422,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 433651,
       "num": 424869,
       "word": "创造营卡位选手自曝长期无收入",
@@ -10153,14 +10161,6 @@
       "onboard_time": 1767254181,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 373205,
-      "num": 804635,
-      "word": "官方通报阿勒泰雪豹伤人",
-      "onboard_time": 1769180422,
-      "rank": 1,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 373053,
@@ -19883,6 +19883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210515,
+      "num": 187183,
+      "word": "誓约 陪玩",
+      "onboard_time": 1769179402,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 210402,
       "num": 267757,
       "word": "12306购票页面有小暗号",
@@ -20153,6 +20161,14 @@
       "onboard_time": 1767410549,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207786,
+      "num": 186558,
+      "word": "周柯宇直播",
+      "onboard_time": 1769181321,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 207659,
@@ -20529,14 +20545,6 @@
       "onboard_time": 1767359422,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 204656,
-      "num": 187183,
-      "word": "誓约 陪玩",
-      "onboard_time": 1769179402,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 204628,
@@ -22273,14 +22281,6 @@
       "onboard_time": 1767951321,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 193070,
-      "num": 186558,
-      "word": "周柯宇直播",
-      "onboard_time": 1769181321,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 193051,
@@ -24913,6 +24913,14 @@
       "onboard_time": 1767496043,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176697,
+      "num": 176697,
+      "word": "被雪豹咬伤女游客疑因拍照被攻击",
+      "onboard_time": 1769181561,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176637,
@@ -41731,6 +41739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112649,
+      "num": 112649,
+      "word": "金价暴涨胖东来金店挤爆了",
+      "onboard_time": 1769181921,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112644,
       "num": 112644,
       "word": "宋威龙赵今麦互为一级铁粉",
@@ -42089,14 +42105,6 @@
       "onboard_time": 1768469601,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 111692,
-      "num": 129723,
-      "word": "被雪豹咬伤女游客疑因拍照被攻击",
-      "onboard_time": 1769181561,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111676,
@@ -46291,14 +46299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102703,
-      "num": 102703,
-      "word": "金价暴涨胖东来金店挤爆了",
-      "onboard_time": 1769181921,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102634,
       "num": 633124,
       "word": "白露十九岁的第一个冠军",
@@ -47481,6 +47481,14 @@
       "onboard_time": 1768665441,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100541,
+      "num": 100541,
+      "word": "周雨彤古装",
+      "onboard_time": 1769182580,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 100538,
@@ -53043,6 +53051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91329,
+      "num": 91329,
+      "word": "配配",
+      "onboard_time": 1769183060,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 91319,
       "num": 91319,
       "word": "博主曝有人为买网红盒饭冒充工人",
@@ -53929,6 +53945,14 @@
       "onboard_time": 1767598222,
       "rank": 44,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 89959,
+      "num": 89959,
+      "word": "岳父代理女婿与女儿打离婚官司",
+      "onboard_time": 1769180721,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89921,
@@ -56835,14 +56859,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 85576,
-      "num": 85576,
-      "word": "岳父代理女婿与女儿打离婚官司",
-      "onboard_time": 1769180721,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85569,
       "num": 69603,
       "word": "肖战感谢1124.1万名观众",
@@ -58121,6 +58137,14 @@
       "onboard_time": 1768303642,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83111,
+      "num": 103206,
+      "word": "鱼塘底惊现大洞200斤鱼顺水漏走",
+      "onboard_time": 1769182100,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83023,
@@ -59419,6 +59443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80784,
+      "num": 79100,
+      "word": "内娱脑综双冠王的含金量",
+      "onboard_time": 1769183240,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80762,
       "num": 124491,
       "word": "宋威龙又唱忘记时间了",
@@ -59985,6 +60017,14 @@
       "onboard_time": 1768016180,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 79716,
+      "num": 79716,
+      "word": "安艺 照片",
+      "onboard_time": 1769182702,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 79701,
@@ -60715,6 +60755,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 78180,
+      "num": 78316,
+      "word": "郭艾伦复出16分",
+      "onboard_time": 1769183302,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78173,
       "num": 78173,
       "word": "一部剧满足了我所有现偶癖",
@@ -61377,6 +61425,14 @@
       "onboard_time": 1767854599,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76655,
+      "num": 85305,
+      "word": "女乒开年第一冠",
+      "onboard_time": 1769182702,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 76632,
@@ -63305,14 +63361,6 @@
       "onboard_time": 1768010360,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 71508,
-      "num": 103206,
-      "word": "鱼塘底惊现大洞200斤鱼顺水漏走",
-      "onboard_time": 1769182100,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 71483,
@@ -67123,6 +67171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58429,
+      "num": 186383,
+      "word": "成人英语网络性感教学引争议",
+      "onboard_time": 1769182224,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58424,
       "num": 161518,
       "word": "看完王鹤棣演唱会后劲还在",
@@ -67649,6 +67705,14 @@
       "onboard_time": 1768923800,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56110,
+      "num": 180404,
+      "word": "特朗普警告欧洲敢抛美债将遭报复",
+      "onboard_time": 1769182401,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 56061,
@@ -69985,6 +70049,14 @@
       "onboard_time": 1768184720,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 44648,
+      "num": 186783,
+      "word": "骑手随手拍曝光幽灵外卖",
+      "onboard_time": 1769182824,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44530,
@@ -74379,14 +74451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 26183,
-      "num": 120562,
-      "word": "特朗普警告欧洲敢抛美债将遭报复",
-      "onboard_time": 1769182401,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 26153,
       "num": 1025440,
       "word": "璀璨中国",
@@ -76817,14 +76881,6 @@
       "onboard_time": 1769179223,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 15570,
-      "num": 186383,
-      "word": "成人英语网络性感教学引争议",
-      "onboard_time": 1769182224,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15537,
