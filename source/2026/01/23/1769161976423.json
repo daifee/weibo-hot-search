@@ -1,0 +1,410 @@
+{
+  "runTime": 1769161976423,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 227067,
+        "num": 1036330,
+        "word": "林诗栋止步男单8强",
+        "onboard_time": 1769157501,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200451,
+        "num": 727691,
+        "word": "不二之臣",
+        "onboard_time": 1769137939,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33729,
+        "num": 589287,
+        "word": "我国地理标志产品直接年产值接近1万亿元",
+        "onboard_time": 1769158521,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187421,
+        "num": 587587,
+        "word": "TF四代川渝春晚路透",
+        "onboard_time": 1769159721,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150184,
+        "num": 579123,
+        "word": "商家回应半年被1人薅了4万4",
+        "onboard_time": 1769154021,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386771,
+        "num": 575463,
+        "word": "国乒多名球员退队",
+        "onboard_time": 1769155522,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147717,
+        "num": 571512,
+        "word": "摸凹猫 摸凸猫",
+        "onboard_time": 1769153481,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135320,
+        "num": 567127,
+        "word": "多地中小学取消非毕业年级期末统考",
+        "onboard_time": 1769151080,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 111202,
+        "num": 560506,
+        "word": "九尾输出",
+        "onboard_time": 1769157860,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95146,
+        "num": 552351,
+        "word": "杨幂回应与张艺谋合作",
+        "onboard_time": 1769155220,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1643850,
+        "num": 547849,
+        "word": "苹果用户的天塌了",
+        "onboard_time": 1769155100,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 545655,
+        "num": 545655,
+        "word": "猝死程序员家属称找的律师都不想接",
+        "onboard_time": 1769160141,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241515,
+        "num": 540830,
+        "word": "牢A称没见过美国底层成功逆袭",
+        "onboard_time": 1769156420,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 228384,
+        "num": 528284,
+        "word": "中年考公三件套一年狂捞270亿",
+        "onboard_time": 1769158580,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20916,
+        "num": 515738,
+        "word": "喵娲娲内娱又火了一个",
+        "onboard_time": 1769158880,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209171,
+        "num": 510061,
+        "word": "一口气买2斤黄金2天赚10多万",
+        "onboard_time": 1769155100,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135372,
+        "num": 502717,
+        "word": "500人群里499个是托",
+        "onboard_time": 1769147061,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132049,
+        "num": 487459,
+        "word": "夫妻吵架将俩年幼孩子留酒店后失联",
+        "onboard_time": 1769160801,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91071,
+        "num": 479474,
+        "word": "邓佳鑫被批不是偶像团体中最火的",
+        "onboard_time": 1769161461,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82604,
+        "num": 467741,
+        "word": "声生不息放了肖战唱的整晚的音乐",
+        "onboard_time": 1769161940,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131723,
+        "num": 456549,
+        "word": "金价疯涨原因",
+        "onboard_time": 1769154800,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 699427,
+        "num": 443446,
+        "word": "格林不在了",
+        "onboard_time": 1769155161,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 441125,
+        "num": 441125,
+        "word": "影视项目 全男戏",
+        "onboard_time": 1769157440,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112476,
+        "num": 391492,
+        "word": "女子为孩子囤黄金投入90万收益200万",
+        "onboard_time": 1769140161,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76686,
+        "num": 373144,
+        "word": "猝死程序员曾开源项目反996",
+        "onboard_time": 1769161761,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367984,
+        "num": 367984,
+        "word": "骄阳似我 姜莹莹",
+        "onboard_time": 1769152222,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 361713,
+        "num": 361713,
+        "word": "车银优宋慧乔被称为逃税情侣",
+        "onboard_time": 1769148142,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104635,
+        "num": 337477,
+        "word": "身体这3处淋巴肿了一定要警惕",
+        "onboard_time": 1769150721,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 83249,
+        "num": 333916,
+        "word": "地平线立flag2026城区MPI涨10倍",
+        "onboard_time": 1769161580,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 76198,
+        "num": 333279,
+        "word": "所有人都说猝死程序员明年能升总监",
+        "onboard_time": 1769149580,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333254,
+        "num": 333254,
+        "word": "影视项目 削女演员片酬",
+        "onboard_time": 1769157080,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62929,
+        "num": 256044,
+        "word": "土豆满门忠烈",
+        "onboard_time": 1769157982,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 253295,
+        "num": 253295,
+        "word": "王橹杰带妆小卷毛",
+        "onboard_time": 1769161161,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242525,
+        "num": 242525,
+        "word": "黄景瑜要上太空了",
+        "onboard_time": 1769142743,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102349,
+        "num": 235540,
+        "word": "三十岁给二十岁的建议",
+        "onboard_time": 1769156901,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233592,
+        "num": 233592,
+        "word": "制片人姜莹莹被移送公安机关",
+        "onboard_time": 1769151440,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227372,
+        "num": 227372,
+        "word": "骆驼向王俊凯致歉",
+        "onboard_time": 1769142982,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88279,
+        "num": 200456,
+        "word": "小果冻 前女友",
+        "onboard_time": 1769146821,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200230,
+        "num": 200230,
+        "word": "王梓薇回应瘦了50斤",
+        "onboard_time": 1769160742,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169328,
+        "num": 169328,
+        "word": "内娱没有一个盈盈是好惹的",
+        "onboard_time": 1769159540,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 87751,
+        "num": 157624,
+        "word": "女子要以身相许抵前男友欠款",
+        "onboard_time": 1769148620,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146344,
+        "num": 146344,
+        "word": "王安宇 人不可手相",
+        "onboard_time": 1769161040,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139524,
+        "num": 139524,
+        "word": "吴宣仪 有属于我的花路吗",
+        "onboard_time": 1769154622,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81558,
+        "num": 128902,
+        "word": "这样洗的草莓最干净",
+        "onboard_time": 1769158641,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 123779,
+        "num": 123779,
+        "word": "赵今麦李庚希短发",
+        "onboard_time": 1769152222,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119680,
+        "num": 119680,
+        "word": "易烊千玺 一生透明的影帝",
+        "onboard_time": 1769159300,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73837,
+        "num": 102165,
+        "word": "LGD B组",
+        "onboard_time": 1769155041,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100558,
+        "num": 100558,
+        "word": "鹿晗小猫脸",
+        "onboard_time": 1769158641,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100555,
+        "num": 100555,
+        "word": "登陆少年8h不断电直播",
+        "onboard_time": 1769161280,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56955,
+        "num": 98460,
+        "word": "林诗栋连续三站无缘决赛",
+        "onboard_time": 1769160680,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同卢拉通电话#"
+    }
+  }
+}
