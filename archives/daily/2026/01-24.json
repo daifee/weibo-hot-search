@@ -1,10 +1,10 @@
 {
   "startTime": 1769186467234,
-  "endTime": 1769210996290,
+  "endTime": 1769211802432,
   "band_list": [
     {
       "raw_hot": 850051,
-      "num": 434417,
+      "num": 475748,
       "word": "张杰不再参加任何需要投票的活动",
       "onboard_time": 1769178741,
       "rank": 3,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 546035,
-      "num": 788625,
+      "num": 886104,
       "word": "太平年",
       "onboard_time": 1769170460,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 514172,
+      "num": 100880,
+      "word": "李行亮说很后悔参加再见爱人",
+      "onboard_time": 1769209576,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 447616,
@@ -35,14 +43,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 428064,
-      "num": 75891,
-      "word": "李行亮说很后悔参加再见爱人",
-      "onboard_time": 1769209576,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 422055,
       "num": 148077,
       "word": "太平年 吃人",
@@ -51,20 +51,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 410541,
+      "num": 410541,
+      "word": "79岁的特朗普生气狂发80条帖子",
+      "onboard_time": 1769209756,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 339319,
       "num": 147247,
       "word": "季节 誓约",
       "onboard_time": 1769177422,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 319027,
-      "num": 319027,
-      "word": "79岁的特朗普生气狂发80条帖子",
-      "onboard_time": 1769209756,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 318730,
@@ -99,8 +99,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191406,
+      "num": 191406,
+      "word": "女子戴透视隐形眼镜打麻将被抓",
+      "onboard_time": 1769209995,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184638,
-      "num": 75698,
+      "num": 97769,
       "word": "医生称淋巴瘤和恶性癌症是等同的",
       "onboard_time": 1769207534,
       "rank": 30,
@@ -123,8 +131,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167776,
+      "num": 636437,
+      "word": "郝帅说林高远退出国家队了",
+      "onboard_time": 1769209936,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162855,
-      "num": 82967,
+      "num": 97319,
       "word": "制片人姜莹莹被解聘永不录用",
       "onboard_time": 1769187259,
       "rank": 46,
@@ -137,6 +153,14 @@
       "onboard_time": 1769179341,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157638,
+      "num": 59253,
+      "word": "中方回应8国将加入和平委员会",
+      "onboard_time": 1769210177,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 153454,
@@ -160,14 +184,6 @@
       "word": "广州一家三口住桥洞靠拾荒为生",
       "onboard_time": 1769180721,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143469,
-      "num": 143469,
-      "word": "女子戴透视隐形眼镜打麻将被抓",
-      "onboard_time": 1769209995,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -203,14 +219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132628,
-      "num": 567945,
-      "word": "郝帅说林高远退出国家队了",
-      "onboard_time": 1769209936,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 131726,
       "num": 131726,
       "word": "周柯宇直播",
@@ -219,20 +227,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121957,
+      "num": 95150,
+      "word": "岳父代理女婿与女儿打离婚官司",
+      "onboard_time": 1769180721,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121262,
       "num": 121262,
       "word": "登陆少年直播",
       "onboard_time": 1769171421,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115807,
-      "num": 78167,
-      "word": "岳父代理女婿与女儿打离婚官司",
-      "onboard_time": 1769180721,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113599,
@@ -259,6 +267,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 101371,
+      "num": 101371,
+      "word": "LPL",
+      "onboard_time": 1769183541,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 100005,
       "num": 100005,
       "word": "誓约 陪玩",
@@ -275,6 +291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93192,
+      "num": 59116,
+      "word": "一下就对青春期男生祛魅了",
+      "onboard_time": 1769209815,
+      "rank": 32,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 91766,
       "num": 91766,
       "word": "金价暴涨胖东来金店挤爆了",
@@ -283,20 +307,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89008,
-      "num": 89008,
-      "word": "LPL",
-      "onboard_time": 1769183541,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 87064,
-      "num": 55166,
-      "word": "中方回应8国将加入和平委员会",
-      "onboard_time": 1769210177,
-      "rank": 30,
-      "category": "国内时政"
+      "raw_hot": 88876,
+      "num": 88876,
+      "word": "邓琳琳回应在芜湖产子",
+      "onboard_time": 1769210297,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 86617,
@@ -339,12 +355,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78280,
+      "num": 78280,
+      "word": "人类精子有个神秘的衰老时钟",
+      "onboard_time": 1769172921,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 78266,
       "num": 78266,
       "word": "配配",
       "onboard_time": 1769183060,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 75655,
+      "num": 59072,
+      "word": "U23越南9比8韩国U23",
+      "onboard_time": 1769210716,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 72614,
@@ -387,22 +419,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 68802,
-      "num": 53424,
-      "word": "一下就对青春期男生祛魅了",
-      "onboard_time": 1769209815,
-      "rank": 32,
-      "category": "休闲"
-    },
-    {
-      "raw_hot": 65030,
-      "num": 78215,
-      "word": "人类精子有个神秘的衰老时钟",
-      "onboard_time": 1769172921,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 64903,
       "num": 78231,
       "word": "Lululemon新款瑜伽裤太透明被下架",
@@ -411,12 +427,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64493,
-      "num": 64493,
-      "word": "邓琳琳回应在芜湖产子",
-      "onboard_time": 1769210297,
-      "rank": 25,
+      "raw_hot": 62032,
+      "num": 62032,
+      "word": "张继科祝樊振东越来越好",
+      "onboard_time": 1769210357,
+      "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61243,
+      "num": 61243,
+      "word": "人生第一次穿Prada是以这种方式",
+      "onboard_time": 1769210778,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59448,
@@ -475,14 +499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52693,
-      "num": 52693,
-      "word": "U23越南9比8韩国U23",
-      "onboard_time": 1769210716,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 52004,
       "num": 78142,
       "word": "鱼塘底惊现大洞200斤鱼顺水漏走",
@@ -507,28 +523,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 49500,
-      "num": 49500,
-      "word": "张继科祝樊振东越来越好",
-      "onboard_time": 1769210357,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 48582,
       "num": 62674,
       "word": "大侦探在游乐场开演唱会",
       "onboard_time": 1769189177,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 48518,
-      "num": 48518,
-      "word": "人生第一次穿Prada是以这种方式",
-      "onboard_time": 1769210778,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 46397,
@@ -547,12 +547,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 42556,
+      "num": 42556,
+      "word": "白银彻底涨疯",
+      "onboard_time": 1769211557,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 41746,
+      "num": 41746,
+      "word": "亚洲杯U23越南vs韩国",
+      "onboard_time": 1769210597,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41553,
       "num": 41553,
       "word": "格林大概2021年7月左右就不在了",
       "onboard_time": 1769210778,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 39147,
+      "num": 62587,
+      "word": "黄金高位突发跳水",
+      "onboard_time": 1769172261,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 38716,
@@ -571,24 +595,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 35843,
-      "num": 62587,
-      "word": "黄金高位突发跳水",
-      "onboard_time": 1769172261,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 35665,
-      "num": 35665,
-      "word": "亚洲杯U23越南vs韩国",
-      "onboard_time": 1769210597,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 34837,
+      "num": 34837,
+      "word": "徐冬冬尹子维早生贵子具象化",
+      "onboard_time": 1769178741,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 32927,
-      "num": 32927,
+      "num": 34024,
       "word": "小伙录节目偶遇15年前的恩人",
       "onboard_time": 1769206875,
       "rank": 32,
@@ -683,14 +699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18210,
-      "num": 22602,
-      "word": "徐冬冬尹子维早生贵子具象化",
-      "onboard_time": 1769178741,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 17855,
       "num": 22563,
       "word": "突然的喜欢",
@@ -715,8 +723,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 2448,
-      "num": 448658,
+      "raw_hot": 2550,
+      "num": 492089,
       "word": "冰雪春天",
       "onboard_time": 1769142382,
       "rank": 2,
