@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/24 00:41:07 ~ 2026/01/24 03:31:00
+本榜单时间：2026/01/24 00:41:07 ~ 2026/01/24 03:42:57
 </p>
 </blockquote>
 <p>
@@ -417,8 +417,20 @@ U23决赛转播平台（热度：31966）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E7%9A%84%E5%96%9C%E6%AC%A2%23" target="weibo">
+突然的喜欢（热度：17855）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9B%BD%E4%BC%9A%E4%B8%80%E5%BC%80%E5%B9%95%E5%B0%B1%E8%A7%A3%E6%95%A3%E4%BC%97%E8%AE%AE%E9%99%A2%23" target="weibo">
 日本国会一开幕就解散众议院（热度：15747）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8E%E6%97%A5%E6%9C%AC%E5%86%B3%E8%B5%9B%E5%9C%A8%E5%8D%B3%E4%B8%AD%E9%A2%86%E9%A6%86%E5%8F%91%E5%AE%89%E5%85%A8%E6%8F%90%E9%86%92%23" target="weibo">
+与日本决赛在即中领馆发安全提醒（热度：14087）
 </a>
 </li>
 
