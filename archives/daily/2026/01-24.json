@@ -1,6 +1,6 @@
 {
   "startTime": 1769186467234,
-  "endTime": 1769250610429,
+  "endTime": 1769251546071,
   "band_list": [
     {
       "raw_hot": 7888209,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 719053,
+      "num": 169527,
+      "word": "大三男生涉嫌强奸强制侮辱大一女友",
+      "onboard_time": 1769250741,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 710331,
       "num": 710331,
       "word": "刘强东章泽天手牵手出席达沃斯年会",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 652089,
-      "num": 109879,
+      "num": 126816,
       "word": "angelababy直发烟熏妆造型",
       "onboard_time": 1769247321,
       "rank": 24,
@@ -283,6 +291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 340016,
+      "num": 125592,
+      "word": "时代少年团直播",
+      "onboard_time": 1769249602,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 339319,
       "num": 147247,
       "word": "季节 誓约",
@@ -320,14 +336,6 @@
       "word": "黄景瑜上太空 王一博天塌了",
       "onboard_time": 1769174481,
       "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 318702,
-      "num": 109614,
-      "word": "时代少年团直播",
-      "onboard_time": 1769249602,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -547,8 +555,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228552,
+      "num": 212091,
+      "word": "结一次婚大概需要多少钱",
+      "onboard_time": 1769248582,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 225215,
-      "num": 108837,
+      "num": 122652,
       "word": "谁把张极的鸡偷了",
       "onboard_time": 1769249662,
       "rank": 24,
@@ -667,6 +683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189017,
+      "num": 189017,
+      "word": "EXO退场像AI一样诡异的消失了",
+      "onboard_time": 1769251101,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188191,
       "num": 188191,
       "word": "总裁当店长卖9千送5千",
@@ -747,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169616,
+      "num": 169616,
+      "word": "亚洲杯",
+      "onboard_time": 1769250080,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168001,
       "num": 168001,
       "word": "央视转播U23国足与日本比赛",
@@ -777,14 +809,6 @@
       "onboard_time": 1769246541,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163781,
-      "num": 163781,
-      "word": "结一次婚大概需要多少钱",
-      "onboard_time": 1769248582,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 162855,
@@ -867,12 +891,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149514,
+      "num": 149514,
+      "word": "U23",
+      "onboard_time": 1769209756,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148026,
-      "num": 109413,
+      "num": 119094,
       "word": "国足",
       "onboard_time": 1769245101,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147475,
+      "num": 124958,
+      "word": "第一批爱熬夜的受害者出现了",
+      "onboard_time": 1769250080,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 146783,
@@ -896,6 +936,14 @@
       "word": "广州一家三口住桥洞靠拾荒为生",
       "onboard_time": 1769180721,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143194,
+      "num": 143194,
+      "word": "被5岁儿子强忍恐惧施救妈妈发声",
+      "onboard_time": 1769251040,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -1171,6 +1219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117577,
+      "num": 117577,
+      "word": "怕堵车可以拿一只口红在手里",
+      "onboard_time": 1769250500,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117476,
       "num": 117476,
       "word": "原来草莓是控糖隐藏高手",
@@ -1201,14 +1257,6 @@
       "onboard_time": 1769249182,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 116101,
-      "num": 104111,
-      "word": "第一批爱熬夜的受害者出现了",
-      "onboard_time": 1769250080,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 115427,
@@ -1259,6 +1307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113149,
+      "num": 113149,
+      "word": "镖人",
+      "onboard_time": 1769250920,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 113055,
       "num": 113055,
       "word": "陈孝良蒋林伶官宣结婚",
@@ -1283,12 +1339,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 110270,
-      "num": 110270,
-      "word": "亚洲杯",
-      "onboard_time": 1769250080,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 110154,
+      "num": 119719,
+      "word": "范志毅吐槽说唱歌手",
+      "onboard_time": 1769250322,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 109893,
@@ -1539,14 +1595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95890,
-      "num": 95890,
-      "word": "怕堵车可以拿一只口红在手里",
-      "onboard_time": 1769250500,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 95715,
       "num": 95715,
       "word": "王玉雯 古早言情最严厉的母亲",
@@ -1635,6 +1683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 92539,
+      "num": 92539,
+      "word": "张杰挥手有雨刮器那味了",
+      "onboard_time": 1769250441,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 92506,
       "num": 92506,
       "word": "许愿许出电视剧",
@@ -1673,6 +1729,14 @@
       "onboard_time": 1769225599,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 89911,
+      "num": 114097,
+      "word": "建议买水果都按这个标准来",
+      "onboard_time": 1769250622,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 89910,
@@ -1779,6 +1843,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 86690,
+      "num": 86690,
+      "word": "王欣瑜2比0诺斯科娃",
+      "onboard_time": 1769250560,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86683,
       "num": 86683,
       "word": "又可以看奥运了",
@@ -1825,6 +1897,14 @@
       "onboard_time": 1769235740,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85526,
+      "num": 85526,
+      "word": "人类对碘伏的开发不足百分之一",
+      "onboard_time": 1769251522,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 85383,
@@ -1929,14 +2009,6 @@
       "onboard_time": 1769247141,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 83203,
-      "num": 83203,
-      "word": "王欣瑜2比0诺斯科娃",
-      "onboard_time": 1769250560,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 82814,
@@ -2243,6 +2315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 71149,
+      "num": 116049,
+      "word": "美国退群加州进群",
+      "onboard_time": 1769251522,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 70703,
       "num": 68138,
       "word": "春节档电影太顶了",
@@ -2321,14 +2401,6 @@
       "onboard_time": 1769164461,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 64800,
-      "num": 97321,
-      "word": "范志毅吐槽说唱歌手",
-      "onboard_time": 1769250322,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 64786,
@@ -2427,14 +2499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 53579,
-      "num": 53579,
-      "word": "U23",
-      "onboard_time": 1769209756,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 52004,
       "num": 78142,
       "word": "鱼塘底惊现大洞200斤鱼顺水漏走",
@@ -2499,12 +2563,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 43734,
+      "num": 115920,
+      "word": "猝死程序员妻子发布高广辉视角视频",
+      "onboard_time": 1769251222,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43150,
       "num": 52250,
       "word": "张杰写给粉丝的信",
       "onboard_time": 1769186658,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 42286,
+      "num": 115697,
+      "word": "全网犬子犬女都在看重返狼群",
+      "onboard_time": 1769250441,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 41746,
@@ -2539,12 +2619,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 38932,
+      "num": 116299,
+      "word": "今晚来咪咕为U23国足加加油",
+      "onboard_time": 1769251222,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38716,
       "num": 62631,
       "word": "太平年好看吗",
       "onboard_time": 1769189417,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38689,
+      "num": 128936,
+      "word": "北方最该买的新能源",
+      "onboard_time": 1769251222,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 38586,
@@ -2691,6 +2787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 26664,
+      "num": 115374,
+      "word": "保姆偷看老人手机一年转走25万",
+      "onboard_time": 1769250920,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25640,
       "num": 110195,
       "word": "美官员披露美航母打击群抵达印度洋",
@@ -2755,6 +2859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20288,
+      "num": 127870,
+      "word": "北极冰原映照美国霸道身影",
+      "onboard_time": 1769251040,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19959,
       "num": 22585,
       "word": "太平年好混乱的年代",
@@ -2795,14 +2907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18813,
-      "num": 97082,
-      "word": "全网犬子犬女都在看重返狼群",
-      "onboard_time": 1769250441,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 18810,
       "num": 78406,
       "word": "5名00后赶到杭州赏雪被冻在山上",
@@ -2820,7 +2924,7 @@
     },
     {
       "raw_hot": 18569,
-      "num": 96309,
+      "num": 115345,
       "word": "我没招了我需要一个喵娲娲",
       "onboard_time": 1769248820,
       "rank": 39,
